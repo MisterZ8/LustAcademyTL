@@ -98,6 +98,23 @@ To save (propose) your changes:
 
 You will see the screen with what you changed. And you need to create a Pull Request to send this change to my translation repository:
 
+![image](https://user-images.githubusercontent.com/79453594/151219664-f1c5b898-624e-4f3e-859a-ecbfe33a7eeb.png)
+
+And one more step:
+
+![image](https://user-images.githubusercontent.com/79453594/151219861-4f112957-c354-4b89-a6c9-a85194a0033b.png)
+
+Now it is done. You can see the number of opened pull requests:
+
+![image](https://user-images.githubusercontent.com/79453594/151220457-fe26de9f-dbae-4cfa-a2cc-550eaa04f145.png)
+
+If you already created a pull request and you want to edit it you still can change a file there:
+
+![image](https://user-images.githubusercontent.com/79453594/151221347-1893e174-694a-4654-97ac-bb8b007ffe0d.png)
+
+
+
+
 
 	
 
