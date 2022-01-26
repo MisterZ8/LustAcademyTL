@@ -44,7 +44,7 @@ translate deutsch strings:
 
     # renpy/common/00accessibility.rpy:39
     old "increase"
-    new ""
+    new "erhöhen"
 
     # renpy/common/00accessibility.rpy:40
     old "decrease"
