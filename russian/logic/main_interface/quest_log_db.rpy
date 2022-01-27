@@ -4,131 +4,131 @@ translate russian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "She's the mysterious hostess of the strip club called Lady Luck. It seems like she's in charge there. She once almost got raped by Diego."
-    new ""
+    new "Она таинственная хозяйка стрип-клуба под названием \"Леди Удача\". Похоже, она там главная. Однажды Диего чуть не изнасиловал ее."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Cuill"
-    new ""
+    new "Куилл"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "This friendly elf is the best barista in all of Dale. Not only will he masterfully prepare any drink, but he's also happy to tell the customer interesting news and rumors from over the world."
-    new ""
+    new "Этот дружелюбный эльф - лучший бариста во всем Дейле. Он не только мастерски приготовит любой напиток, но и с радостью расскажет клиенту интересные новости и слухи со всего мира."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Fiennes"
-    new ""
+    new "Файнс"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Cordale's librarian goes by the name Amelie. She loves books and smart people more than anything else in the world. I'm not sure, but it feels like she doesn't seem to mind having affairs with young guys."
-    new ""
+    new "Библиотекаршу Кордейла зовут Амели. Она любит книги и умных людей больше всего на свете. Я не уверен, но мне кажется, что она не возражает заводить романы с молодыми парнями."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Earhart"
-    new ""
+    new "Эрхарт"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Turns out that the statues in one of the gardens are actually alive! One of them even had a boner while we were walking there with Haley. \"Angels\" storyline for this version of the game has come to an end."
-    new ""
+    new "Оказывается, статуи в одном из садов на самом деле живые! У одного из них даже был стояк, когда мы шли туда с Хейли. Сюжетная линия \"Ангелов\" для этой версии игры подошла к концу."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Angels"
-    new ""
+    new "Ангелы"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Garden's story has come to an end."
-    new ""
+    new "История Гардена подошла к концу."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Arthur Doorman is the headmaster of the school and a respected member of the Wizarding Society. He is an example to all."
-    new ""
+    new "Артур Дурман - директор школы и уважаемый член Волшебного общества. Он является примером для всех."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Doorman IV"
-    new ""
+    new "Дурман IV"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Olivia and Don's youngest daughter, Ashley, is a prominent athlete who competes in artistic gymnastics."
-    new ""
+    new "Младшая дочь Оливии и Дона, Эшли, является выдающейся спортсменкой, которая участвует в соревнованиях по художественной гимнастике."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Rose"
-    new ""
+    new "Роза"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Girl/Shemale"
-    new ""
+    new "Девушка/Транссексуал"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Audrey is Samantha's best friend. I think she's hiding something and Samantha is in on it too. She has a pretty bad temper."
-    new ""
+    new "Одри - лучшая подруга Саманты. Я думаю, что она что-то скрывает, и Саманта тоже в этом замешана. У нее довольно скверный характер."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Burns"
-    new ""
+    new "Бёрнс"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Carter is almost 30. He's the oldest student in the academy despite being a freshman. He's not very talkative."
-    new ""
+    new "Картеру почти 30. Он самый старший студент в академии, несмотря на то, что он первокурсник. Он не очень разговорчив."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Brown"
-    new ""
+    new "Браун"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "A nasty guy who fell in love with Adele after seeing her in a club. Tried to rape the girl, but was disgraced and sent running."
-    new ""
+    new "Мерзкий парень, который влюбился в Адель, увидев ее в клубе. Пытался изнасиловать девушку, но был опозорен и отправлен в бега."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Faradenza"
-    new ""
+    new "Фараденца"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Don works as a mid-level manager at the largest car dealership in town. He's a total control freak, and I think he's cheating on Olivia."
-    new ""
+    new "Дон работает менеджером среднего звена в крупнейшем автосалоне в городе. Он помешан на контроле, и я думаю, что он изменяет Оливии."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Homo/Hetero"
-    new ""
+    new "Гомо/Гетеро"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Elijah is the cheerful swashbuckler, Leonheart's headman, and a hoarder who smuggles all sorts of forbidden things into the academy."
-    new ""
+    new "Элайджа - жизнерадостный удалец, староста Леонхарта и скряга, который контрабандой проносит в академию всевозможные запрещенные вещи."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Bloom"
-    new ""
+    new "Блум"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "One of the four co-founders of Cordale Academy. Founder of Crowhive house and the keeper of knowledge."
-    new ""
+    new "Один из четырех соучредителей Академии Кордейл. Основатель дома Кроухайв и хранитель знаний."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Cheerful Latino-American student from Martenden. She likes dancing, duels, and living a life full of adventures."
-    new ""
+    new "Жизнерадостный латиноамериканский студент из Мартендена. Ей нравятся танцы, дуэли и жизнь, полная приключений."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Leal"
-    new ""
+    new "Леал"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The strange monster that wonders on the night streets of Dale."
-    new ""
+    new "Странный монстр, который бродит по ночным улицам Дейла."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "A business-oriented dwarf. Owner of the only store in Dale. Willow's father. You can always make money from him by fishing."
-    new ""
+    new "Карлик, ориентированный на бизнес. Владелец единственного магазина в Дейле. Отец Уиллоу. Вы всегда можете заработать у него деньги, ловя рыбу."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Chompski"
-    new ""
+    new "Чомпски"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "First year student of the house Crowhive. She's intelligent and shy. As far as I know, she likes visiting potions classes."
-    new ""
+    new "Студент первого курса дома Кроухайв. Она умна и застенчива. Насколько я знаю, ей нравится посещать занятия по зельеварению."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old " Sherman"
-    new ""
+    new "Шерман"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The first person I met on my way to becoming a wizard. She's smart, beautiful, and funny. I wonder if we can be more than friends..."
