@@ -4,13 +4,13 @@ translate russian strings:
 
     # game/logic/main_interface/give_book_screen.rpy:80
     old "Get points"
-    new ""
+    new "Получи очки факультета"
 
     # game/logic/main_interface/give_book_screen.rpy:91
     old "Chose the quantity:"
-    new ""
+    new "Выбери количество"
 
     # game/logic/main_interface/give_book_screen.rpy:124
     old "Confirm"
-    new ""
+    new "Подтвердить"
 
