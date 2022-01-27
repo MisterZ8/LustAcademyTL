@@ -1,302 +1,302 @@
-﻿# TODO: Translation updated at 2022-01-25 10:33
+# TODO: Translation updated at 2022-01-25 10:33
 
 translate russian strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "My best romances are books"
-    new ""
+    new "Мои лучшие романы - это книги "
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "One nice guy from Romanian Wizardry History Convention took me to this lovely place. We had a wonderful conversation and tasted a delicious exotic cheese plate."
-    new ""
+    new "Один милый парень с Румынского съезда по истории волшебства привел меня в это прекрасное место. Мы чудесно побеседовали и попробовали восхитительный экзотический сыр."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I wish I'd meet someone as intelligent and funny in my life. Why are other guys not like him?"
-    new ""
+    new "Хотел бы я встретить в своей жизни кого-нибудь такого же умного и веселого. Почему другие парни не такие, как он?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Samantha:{/b} Miss Amelie, I'm so glad for you! So what about that guy? Isn't he an option? 😍"
-    new ""
+    new "{b}Саманта:{/b} Мисс Амелия, я так рада за вас! Так что насчет того парня? Разве он не вариант? 😍"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Sabrina:{/b} Sam! Students should not gossip about teachers and stuff."
-    new ""
+    new "{b}Сабрина:{/b} Сэм! Студенты не должны сплетничать об учителях и прочем."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Samantha:{/b} Sorry."
-    new ""
+    new "{b}Саманта: {/b} Извини."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Sabrina:{/b} So, Amelie, what about that guy?"
-    new ""
+    new "{b} Сабрина: {/b} Итак, Амели, что насчет того парня?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "It's hard to imagine there's someone more intelligent than you, miss Amelie."
-    new ""
+    new "Трудно представить, что есть кто-то более умный, чем вы, мисс Амелия."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Maybe you should not friend zone the only guys who suit your fucking description?!"
-    new ""
+    new "Может быть, тебе не стоит дружить с единственными парнями, которые подходят под твое гребаное описание?!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Any place would be better than Romanian Wizardry History Convention."
-    new ""
+    new "Любое место было бы лучше, чем Румынский съезд по истории волшебства."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Sometimes even work at the library can be exhausting. Thank god I have a set of aroma candles and warm calming water to welcome me at home."
-    new ""
+    new "Иногда даже работа в библиотеке может быть утомительной. Слава богу, у меня есть набор ароматических свечей и теплая успокаивающая вода, чтобы приветствовать меня дома"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Victoria:{/b} Girl, I can relate. I used to read in the bath too, but the thought of getting the book wet... Horrifying. "
-    new ""
+    new "{b}Виктория: {/b} Девочка, я могу понять. Раньше я тоже читал в ванне, но мысль о том, что книга намокнет... Ужасает."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Sabrina:{/b} Come see me when you're out of candles. I have a few exciting aromas. "
-    new ""
+    new "{b} Сабрина: {/b} Приходи ко мне, когда у тебя закончатся свечи. У меня есть несколько захватывающих ароматов."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I hope you'll get enough rest, miss Amelie ❤️"
-    new ""
+    new "Я надеюсь, что вы достаточно отдохнете, мисс Амелия ❤️"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Doesn't it feel lonely to be alone in that king-size bath? I would be honored to help you fix this problem."
-    new ""
+    new "Разве не одиноко быть одному в этой огромной ванне? Для меня было бы честью помочь вам решить эту проблему."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Got tired of working at the library? You poor thing! Maybe you can switch with coalminers to relax a little?"
-    new ""
+    new "Надоело работать в библиотеке? Бедняжка! Может быть, вы можете поменяться местами с шахтерами, чтобы немного расслабиться?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "It can be so lonely in the library. Aren't there any readers left among the youths?"
-    new ""
+    new "It can be so lonely in the library. Aren't there any readers left among the youths?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Victoria:{/b} Dear, I have seen two or three students with books. So yeah, let's say that they are on the brim of extinction."
-    new ""
+    new "{b}Виктория: {/b} Дорогая, я видела двух или трех студентов с книгами. Так что да, давайте предположим, что они находятся на грани вымирания."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Haley:{/b} I'm sure people don't realize how much fun it is to Library-dive until you've read ten or twenty books while searching for an answer."
-    new ""
+    new "{b} Хейли: {/b} Я уверена, что люди не понимают, как весело копаться в библиотеках, пока вы не прочитаете десять или двадцать книг в поисках ответа."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Elijah:{/b} Haley, I'm sure people realize it's the opposite of fun."
-    new ""
+    new "{b} Элайджа: {/b} Хейли, я уверен, что люди понимают, что это далеко не весело."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "My favourite place to read at is your library miss. I'll be sure to visit more often."
-    new ""
+    new "Мое любимое место для чтения - ваша библиотека, мисс. Я обязательно буду навещать вас почаще."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Miss, I'll be more that happy to keep you a company. Maybe it's even better, if we will be alone."
-    new ""
+    new "Мисс, я буду более чем счастлив составить вам компанию. Может быть, это даже лучше, если мы будем одни."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Amelie: I'm not sure you'll keep me entertained long enough🙄 😛"
-    new ""
+    new "Амели: Я не уверена, что ты будешь развлекать меня достаточно долго🙄 😛"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "In other words, even you get bored at the library?"
-    new ""
+    new "Другими словами, даже вам скучно в библиотеке?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Remind me why I chose the library over the fashion show runway?"
-    new ""
+    new "Напомни мне, почему я предпочла библиотеку взлетно-посадочной полосе показа мод?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Jacob:{/b} As far as I know you have time for a second job."
-    new ""
+    new "{b} Джейкоб: {/b} Насколько я знаю, у тебя есть время для второй работы."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Victoria:{/b} Cause you look more like a queen from a fairy tale, that like a cheap cover girl."
-    new ""
+    new "{b} Виктория: {/b} Потому что ты больше похожа на королеву из сказки, чем на дешевую девушку с обложки."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Miss Amelie, I'm sure there is a fashion show for librarians. "
-    new ""
+    new "Мисс Амелия, я уверена, что здесь будет показ мод для библиотекарей."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Hey, I'm a professional photographer. Maybe we can make your dream about a fashion shoot come true? "
-    new ""
+    new "Эй, я профессиональный фотограф. Может быть, мы сможем воплотить вашу мечту о модной съемке в реальность?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Amelie: Maybe 😜"
-    new ""
+    new "Амели: Может быть 😜"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Cause you wanted to save yourself from shame?"
-    new ""
+    new "Потому что ты хотел спасти себя от позора?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Once William Shakespeare said \"I like this place and could willingly waste my time in it\", and that's exactly how I feel about my library. I can even call it \"second home\" - cannot even imagine my life without it. I want belong here and I do belong here - everything is in place."
-    new ""
+    new "Однажды Уильям Шекспир сказал: "Мне нравится это место, и я охотно потратил бы в нем свое время", и именно так я отношусь к своей библиотеке. Я даже могу назвать это "вторым домом" - даже не могу представить свою жизнь без него. Я хочу находиться здесь, и я действительно нахожусь здесь - все на своих местах."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Victoria:{/b} Beautifully said! 🥰"
-    new ""
+    new "{b}Виктория:{/b} Прекрасно сказано! 🥰"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Haley:{/b} You inspire me a lot, Miss Erhart!"
-    new ""
+    new "{b} Хейли: {/b} Вы меня очень вдохновляете, мисс Эрхарт!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I cannot even imagine the Academy without the library and without you. You're the integral part of it!"
-    new ""
+    new "Я даже не могу представить Академию без библиотеки и без вас. Вы - ее неотъемлемая часть!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I'm also interested what William Shakespeare would say about your curves."
-    new ""
+    new "Мне также интересно, что сказал бы Уильям Шекспир о твоих изгибах."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Now I'm a frisky little witch not in my mind only!"
-    new ""
+    new "Теперь я резвая маленькая ведьма не только в своем воображении!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Elijah:{/b} Ms. Erhart, you're looking extremely hot in this outfit!"
-    new ""
+    new "{b} Элайджа: {/b} Мисс Эрхарт, вы выглядите очень сексуально в этом наряде!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Audrey:{/b} Absolutely agree with Elijah."
-    new ""
+    new "{b} Одри: {/b} Абсолютно согласна с Элайджей."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Do you know how to fly around on a broomstick?"
-    new ""
+    new "Вы знаете, как летать на метле?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Looks like the perfect outfit for the role-playing game if you know what I mean"
-    new ""
+    new "Выглядит как идеальный наряд для ролевой игры, если вы понимаете, что я имею в виду"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Always #1"
-    new ""
+    new "Всегда №1"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Hey guys, sorry for not posting for so long 😅 Training 24\\7. You know me -  anything but gold is not an option."
-    new ""
+    new "Эй, ребята, извините, что так долго не публиковали 😅 Тренировка 24\\7. Ты же меня знаешь - все, что угодно, кроме золота, не вариант."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Samantha:{/b} Keep it up sis! I'm so sorry I can't be there to support you."
-    new ""
+    new "{b}Саманта: {/b} Продолжай в том же духе, сестренка! Мне так жаль, что я не могу быть рядом, чтобы поддержать тебя."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Ashley:{/b} It's alright, sis. I'll send you my first selfie with gold."
-    new ""
+    new "{b} Эшли: {/b} Все в порядке, сестренка. Я пришлю тебе свое первое селфи с золотом."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Samantha:{/b} 😘 deal."
-    new ""
+    new "{b}Саманта:{/b} 😘 договорились."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Ashley, I'm so proud of your dedication. I know we don't get along very well, but I want you to know that I'm 100% sure you got this. "
-    new ""
+    new "Эшли, я так горжусь твоей самоотверженностью. Я знаю, что мы не очень хорошо ладим, но я хочу, чтобы ты знал, что я на 100% уверен, что ты сделаешь это."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Ashley: Wow... [Name]... If it's not a prank - thank you. That means a lot to me. "
-    new ""
+    new "Эшли: Вау... [Name]... Если это не розыгрыш - спасибо. Это очень много значит для меня."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Samantha: Guys, you're so cute it makes me wanna cry. "
-    new ""
+    new "Саманта: Ребята, вы такие милые, что я не могу не плакать."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Hey, girl - those curves are golden already. Does it matter what the jury says? "
-    new ""
+    new "Эй, девочка, эти изгибы уже золотые. Имеет ли значение, что скажут жюри?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Ashley: Is there anything except sex about you? Come on."
-    new ""
+    new "Эшли: В тебе есть что-нибудь, кроме секса? Ну же."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Maybe you should consider switching your focus to Go-Go dancing? "
-    new ""
+    new "Может быть, вам стоит подумать о том, чтобы переключить свое внимание на танцы Гоу-Гоу?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Ashley: Fuck off."
-    new ""
+    new "Эшли: Отвали."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Voila! One more glimpse at my future routine: check out new tricks I've been working on! This was actually really fun!"
-    new ""
+    new "Вуаля! Еще один взгляд на мою будущую рутину: посмотрите на новые трюки, над которыми я работал! Это было действительно очень весело!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Olivia:{/b}Oh my gush! Baby, Isn't this dangerous? I'm worried."
-    new ""
+    new "{b}Оливия:{/b} О боже мой! Детка, разве это не опасно? Я волнуюсь."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Don:{/b}Don't be stupid, darling. She's a professional, she knows what she's doing!"
-    new ""
+    new "{b} Дон: {/b} Не будь глупой, дорогая. Она профессионал, она знает, что делает!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Wow! That looks so cool, Ash!"
-    new ""
+    new "Ух ты! Это выглядит так круто, Эш!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I can think of a more suitable way to use those ropes with you..."
-    new ""
+    new "Я могу придумать более подходящий способ использовать эти веревки с тобой..."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "\"Stop and look at yourself in the mirror. Are you happy with what you see?\""
-    new ""
+    new "\"Остановись и посмотри на себя в зеркало. Доволен ли ты тем, что видишь?\""
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Mom gave me that advice when I turned 12. I was chubby kid. I was not happy."
-    new ""
+    new "Мама дала мне этот совет, когда мне исполнилось 12. Я был пухлым ребенком. Я не был счастлив."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Now I am."
-    new ""
+    new "Теперь я счастлив"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Olivia:{/b} We're all so proud of you, honey."
-    new ""
+    new "{b} Оливия: {/b} Мы все так гордимся тобой, милая."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Evelyn:{/b} I'm not sure that that was healthy advice, sweetheart!"
-    new ""
+    new "{b} Эвелин: {/b} Я не уверена, что это был полезный совет, милая!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Olivia:{/b} Shut up, Evelyn. Get your child to decide what advice is healthy for them."
-    new ""
+    new "{b} Оливия: {/b} Заткнись, Эвелин. Попросите своего ребенка решить, какой совет полезен для него."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Ashley:{/b} Mom..."
-    new ""
+    new "{b}Ashley:{/b} Мам..."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Olivia:{/b} What? Do you agree with her?!"
-    new ""
+    new "{b}Оливия:{/b} Что? Ты согласна с ней?!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Ashley:{/b} We'll talk in private.\t"
-    new ""
+    new "{b}Эшли: {/b} Мы поговорим наедине.\t"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "It only matters that you're gorgeous inside, Ash."
-    new ""
+    new "Это значит только то, что ты великолепна внутри, Эш."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Ashley: 🥰"
-    new ""
+    new "Эшли: 🥰"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I still don't get why mirrors don't melt from your hotness."
-    new ""
+    new "Я все еще не понимаю, почему зеркала не плавятся от твоей горячности."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Ashley: Stop it, you! I'm blushing already."
-    new ""
+    new "Эшли: Прекрати это, ты! Я уже краснею."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Are you that basic? It's sad, honestly."
-    new ""
+    new "Ты настолько простодушен? Это печально, честно говоря."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Ashley: You're making any environment around you toxic. Think about it, jerk."
-    new ""
+    new "Эшли: Ты делаешь любую окружающую тебя среду токсичной. Подумай об этом, придурок."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "So... I wanted to brag about my spacious couch, but I ended up bragging about my curves again. Oops!"
-    new ""
+    new "Так... Я хотела похвастаться своим просторным диваном, но в итоге снова похвасталась своими изгибами. Упс!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Don:{/b} I don't think posting things like that is the reason we bought you your phone, young lady."
