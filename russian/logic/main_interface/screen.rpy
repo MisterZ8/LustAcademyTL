@@ -310,57 +310,57 @@ translate russian strings:
 
     # game/logic/main_interface/screen.rpy:211
     old "MORNING"
-    new ""
+    new "УТРО"
 
     # game/logic/main_interface/screen.rpy:211
     old "DAY"
-    new ""
+    new "ДЕНЬ"
 
     # game/logic/main_interface/screen.rpy:211
     old "EVENING"
-    new ""
+    new "ВЕЧЕР"
 
     # game/logic/main_interface/screen.rpy:211
     old "NIGHT"
-    new ""
+    new "НОЧЬ"
 
     # game/logic/main_interface/screen.rpy:1307
     old "Monday"
-    new ""
+    new "Понедельник"
 
     # game/logic/main_interface/screen.rpy:1307
     old "Tuesday"
-    new ""
+    new "Вторник"
 
     # game/logic/main_interface/screen.rpy:1307
     old "Wednesday"
-    new ""
+    new "Среда"
 
     # game/logic/main_interface/screen.rpy:1307
     old "Thursday"
-    new ""
+    new "Четверг"
 
     # game/logic/main_interface/screen.rpy:1307
     old "Friday"
-    new ""
+    new "Пятница"
 
     # game/logic/main_interface/screen.rpy:1307
     old "Saturday"
-    new ""
+    new "Суббота"
 
     # game/logic/main_interface/screen.rpy:1307
     old "Sunday"
-    new ""
+    new "Воскресенье"
 
     # game/logic/main_interface/screen.rpy:1377
     old "You have successfully completed all available routes. Wait for the next release."
-    new ""
+    new "Вы успешно завершили все доступные сцены. Дождитесь следующего обновления."
 
     # game/logic/main_interface/screen.rpy:2286
     old "Take"
-    new ""
+    new "Взять"
 
     # game/logic/main_interface/screen.rpy:2286
     old "Don't take"
-    new ""
+    new "Не брать"
 
