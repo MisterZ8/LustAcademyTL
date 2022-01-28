@@ -16,7 +16,7 @@ translate russian strings:
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
-    new ""
+    new "шкала"
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
@@ -44,11 +44,11 @@ translate russian strings:
 
     # renpy/common/00accessibility.rpy:39
     old "increase"
-    new ""
+    new "увеличить"
 
     # renpy/common/00accessibility.rpy:40
     old "decrease"
-    new ""
+    new "уменьшить"
 
     # renpy/common/00accessibility.rpy:128
     old "Font Override"
@@ -84,7 +84,7 @@ translate russian strings:
 
     # renpy/common/00accessibility.rpy:175
     old "Off"
-    new ""
+    new "Выкл"
 
     # renpy/common/00accessibility.rpy:179
     old "Text-to-speech"
@@ -112,155 +112,155 @@ translate russian strings:
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
-    new ""
+    new "Понедельник"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Tuesday"
-    new ""
+    new "Вторник"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new ""
+    new "Среда"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Thursday"
-    new ""
+    new "Четверг"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Friday"
-    new ""
+    new "Пятница"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Saturday"
-    new ""
+    new "Суббота"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Sunday"
-    new ""
+    new "Воскресенье"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Mon"
-    new ""
+    new "Пн"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Tue"
-    new ""
+    new "Вт"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Wed"
-    new ""
+    new "Ср"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Thu"
-    new ""
+    new "Чв"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Fri"
-    new ""
+    new "Пт"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sat"
-    new ""
+    new "Сб"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new ""
+    new "Вс"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}January"
-    new ""
+    new "Январь"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}February"
-    new ""
+    new "Февраль"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}March"
-    new ""
+    new "Март"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}April"
-    new ""
+    new "Апрель"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}May"
-    new ""
+    new "Май"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}June"
-    new ""
+    new "Июнь"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}July"
-    new ""
+    new "Июль"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}August"
-    new ""
+    new "Август"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}September"
-    new ""
+    new "Сентябрь"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}October"
-    new ""
+    new "Октябрь"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}November"
-    new ""
+    new "Ноябрь"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}December"
-    new ""
+    new "Декабрь"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jan"
-    new ""
+    new "Янв"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Feb"
-    new ""
+    new "Фев"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Mar"
-    new ""
+    new "Мар"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Apr"
-    new ""
+    new "Апр"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}May"
-    new ""
+    new "Май"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jun"
-    new ""
+    new "Июнь"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jul"
-    new ""
+    new "Июль"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Aug"
-    new ""
+    new "Авг"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Sep"
-    new ""
+    new "Сен"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Oct"
-    new ""
+    new "Окт"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Nov"
-    new ""
+    new "Нояб"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Dec"
-    new ""
+    new "Дек"
 
     # renpy/common/00action_file.rpy:250
     old "%b %d, %H:%M"
@@ -268,15 +268,15 @@ translate russian strings:
 
     # renpy/common/00action_file.rpy:363
     old "Save slot %s: [text]"
-    new ""
+    new "Сохранить ячейку %s: [text]"
 
     # renpy/common/00action_file.rpy:444
     old "Load slot %s: [text]"
-    new ""
+    new "Загрузить ячейку %s: [text]"
 
     # renpy/common/00action_file.rpy:497
     old "Delete slot [text]"
-    new ""
+    new "Удалить ячейку [text]"
 
     # renpy/common/00action_file.rpy:576
     old "File page auto"
@@ -300,19 +300,19 @@ translate russian strings:
 
     # renpy/common/00action_file.rpy:912
     old "Quick save complete."
-    new ""
+    new "Быстрое сохранение завершено"
 
     # renpy/common/00action_file.rpy:930
     old "Quick save."
-    new ""
+    new "Быстрое сохранение"
 
     # renpy/common/00action_file.rpy:949
     old "Quick load."
-    new ""
+    new "Быстрая загрузка"
 
     # renpy/common/00action_other.rpy:375
     old "Language [text]"
-    new ""
+    new "Язык [text]"
 
     # renpy/common/00director.rpy:708
     old "The interactive director is not enabled here."
@@ -328,7 +328,7 @@ translate russian strings:
 
     # renpy/common/00director.rpy:1551
     old "Done"
-    new ""
+    new "Готово"
 
     # renpy/common/00director.rpy:1561
     old "(statement)"
@@ -360,23 +360,23 @@ translate russian strings:
 
     # renpy/common/00director.rpy:1631
     old "Change"
-    new ""
+    new "Изменить"
 
     # renpy/common/00director.rpy:1633
     old "Add"
-    new ""
+    new "Добавить"
 
     # renpy/common/00director.rpy:1636
     old "Cancel"
-    new ""
+    new "Отменить"
 
     # renpy/common/00director.rpy:1639
     old "Remove"
-    new ""
+    new "Удалить"
 
     # renpy/common/00director.rpy:1674
     old "Statement:"
-    new ""
+    new "Высказывание"
 
     # renpy/common/00director.rpy:1695
     old "Tag:"
@@ -384,23 +384,23 @@ translate russian strings:
 
     # renpy/common/00director.rpy:1711
     old "Attributes:"
-    new ""
+    new "Атрибуты"
 
     # renpy/common/00director.rpy:1729
     old "Transforms:"
-    new ""
+    new "Превращение"
 
     # renpy/common/00director.rpy:1748
     old "Behind:"
-    new ""
+    new "Сзади"
 
     # renpy/common/00director.rpy:1767
     old "Transition:"
-    new ""
+    new "Переход"
 
     # renpy/common/00director.rpy:1785
     old "Channel:"
-    new ""
+    new "Канал"
 
     # renpy/common/00director.rpy:1803
     old "Audio Filename:"
@@ -408,55 +408,55 @@ translate russian strings:
 
     # renpy/common/00gui.rpy:384
     old "Are you sure?"
-    new ""
+    new "Вы уверены?"
 
     # renpy/common/00gui.rpy:385
     old "Are you sure you want to delete this save?"
-    new ""
+    new "Вы уверены что хотите удалить это сохранение?"
 
     # renpy/common/00gui.rpy:386
     old "Are you sure you want to overwrite your save?"
-    new ""
+    new "Вы уверены что хотите перезаписать это сохранение"
 
     # renpy/common/00gui.rpy:387
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new ""
+    new "Загрузка удалит все несохранённые изменения.\nВы точно хотите произвести загрузку? "
 
     # renpy/common/00gui.rpy:388
     old "Are you sure you want to quit?"
-    new ""
+    new "Уверены что хотите выйти?"
 
     # renpy/common/00gui.rpy:389
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new ""
+    new "Уверены что хотите вернуться в главное меню?\nВсе несохранённые изменения будут утеряны."
 
     # renpy/common/00gui.rpy:390
     old "Are you sure you want to end the replay?"
-    new ""
+    new "Уверены что хотите прекратить этот повтор?"
 
     # renpy/common/00gui.rpy:391
     old "Are you sure you want to begin skipping?"
-    new ""
+    new "Начать пропуск?"
 
     # renpy/common/00gui.rpy:392
     old "Are you sure you want to skip to the next choice?"
-    new ""
+    new "Уверены что хотите пропустить до следующего места выбора?"
 
     # renpy/common/00gui.rpy:393
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new ""
+    new "Уверены что хотите пропустить все непросмотренные диалоги до следующего места выбора?"
 
     # renpy/common/00keymap.rpy:306
     old "Failed to save screenshot as %s."
-    new ""
+    new "Не удалось сохранить скриншот как %s"
 
     # renpy/common/00keymap.rpy:318
     old "Saved screenshot as %s."
-    new ""
+    new "Скриншот успешно сохранён как %s"
 
     # renpy/common/00library.rpy:195
     old "Skip Mode"
-    new ""
+    new "Режим пропуска"
 
     # renpy/common/00library.rpy:281
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
@@ -484,7 +484,7 @@ translate russian strings:
 
     # renpy/common/00preferences.rpy:288
     old "text speed"
-    new ""
+    new "Скорость проигрывания"
 
     # renpy/common/00preferences.rpy:296
     old "joystick"
@@ -496,19 +496,19 @@ translate russian strings:
 
     # renpy/common/00preferences.rpy:303
     old "skip"
-    new ""
+    new "пропуск"
 
     # renpy/common/00preferences.rpy:306
     old "skip unseen [text]"
-    new ""
+    new "пропустить непросмотренное [text]"
 
     # renpy/common/00preferences.rpy:311
     old "skip unseen text"
-    new ""
+    new "пропустить непросмотренный текст"
 
     # renpy/common/00preferences.rpy:313
     old "begin skipping"
-    new ""
+    new "начать пропуск"
 
     # renpy/common/00preferences.rpy:317
     old "after choices"
@@ -608,7 +608,7 @@ translate russian strings:
 
     # renpy/common/00preferences.rpy:496
     old "music volume"
-    new ""
+    new "громкость музыки"
 
     # renpy/common/00preferences.rpy:497
     old "sound volume"
@@ -616,23 +616,23 @@ translate russian strings:
 
     # renpy/common/00preferences.rpy:498
     old "voice volume"
-    new ""
+    new "громкость голосов"
 
     # renpy/common/00preferences.rpy:499
     old "mute music"
-    new ""
+    new "выкл музыку"
 
     # renpy/common/00preferences.rpy:500
     old "mute sound"
-    new ""
+    new "выкл звук"
 
     # renpy/common/00preferences.rpy:501
     old "mute voice"
-    new ""
+    new "выкл голоса"
 
     # renpy/common/00preferences.rpy:502
     old "mute all"
-    new ""
+    new "выкл все звуки"
 
     # renpy/common/00preferences.rpy:583
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
@@ -648,15 +648,15 @@ translate russian strings:
 
     # renpy/common/_compat/gamemenu.rpym:198
     old "Empty Slot."
-    new ""
+    new "Пустая ячейка"
 
     # renpy/common/_compat/gamemenu.rpym:355
     old "Previous"
-    new ""
+    new "Предыдущий(-ая)"
 
     # renpy/common/_compat/gamemenu.rpym:362
     old "Next"
-    new ""
+    new "Вперед"
 
     # renpy/common/_compat/preferences.rpym:428
     old "Joystick Mapping"
@@ -664,7 +664,7 @@ translate russian strings:
 
     # renpy/common/_developer/developer.rpym:38
     old "Developer Menu"
-    new ""
+    new "Меню разработчика"
 
     # renpy/common/_developer/developer.rpym:43
     old "Interactive Director (D)"
@@ -844,7 +844,7 @@ translate russian strings:
 
     # renpy/common/00updater.rpy:995
     old "The update file was not downloaded."
-    new ""
+    new "Файл обновления не был установлен"
 
     # renpy/common/00updater.rpy:1013
     old "The update file does not have the correct digest - it may have been corrupted."
@@ -860,43 +860,43 @@ translate russian strings:
 
     # renpy/common/00updater.rpy:1440
     old "An error has occured:"
-    new ""
+    new "Ошибка!"
 
     # renpy/common/00updater.rpy:1442
     old "Checking for updates."
-    new ""
+    new "Проверка обновлений"
 
     # renpy/common/00updater.rpy:1444
     old "This program is up to date."
-    new ""
+    new "Программа обновлена"
 
     # renpy/common/00updater.rpy:1446
     old "[u.version] is available. Do you want to install it?"
-    new ""
+    new "Доступна новая версия [u.version]. Установить? "
 
     # renpy/common/00updater.rpy:1448
     old "Preparing to download the updates."
-    new ""
+    new "Подготовка к установке обновлений"
 
     # renpy/common/00updater.rpy:1450
     old "Downloading the updates."
-    new ""
+    new "Загрузка обновлений бла бла бла"
 
     # renpy/common/00updater.rpy:1452
     old "Unpacking the updates."
-    new ""
+    new "Распаковка"
 
     # renpy/common/00updater.rpy:1454
     old "Finishing up."
-    new ""
+    new "Доводим дело до конца"
 
     # renpy/common/00updater.rpy:1456
     old "The updates have been installed. The program will restart."
-    new ""
+    new "Обновление успешно загружено. Игра будет перезапущена."
 
     # renpy/common/00updater.rpy:1458
     old "The updates have been installed."
-    new ""
+    new "Обновления были успешно загркужены"
 
     # renpy/common/00updater.rpy:1460
     old "The updates were cancelled."
@@ -908,7 +908,7 @@ translate russian strings:
 
     # renpy/common/00compat.rpy:320
     old "Fullscreen"
-    new ""
+    new "Во весь экран"
 
     # renpy/common/00gallery.rpy:590
     old "Image [index] of [count] locked."
@@ -916,19 +916,19 @@ translate russian strings:
 
     # renpy/common/00gallery.rpy:610
     old "prev"
-    new ""
+    new "назад"
 
     # renpy/common/00gallery.rpy:611
     old "next"
-    new ""
+    new "вперед"
 
     # renpy/common/00gallery.rpy:612
     old "slideshow"
-    new ""
+    new "слайд-шоу"
 
     # renpy/common/00gallery.rpy:613
     old "return"
-    new ""
+    new "вернкуться"
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
@@ -936,7 +936,7 @@ translate russian strings:
 
     # renpy/common/00gltest.rpy:93
     old "Automatically Choose"
-    new ""
+    new "Авто выбор"
 
     # renpy/common/00gltest.rpy:100
     old "Force GL Renderer"
@@ -968,7 +968,7 @@ translate russian strings:
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
-    new ""
+    new "Включить (No Blocklist)"
 
     # renpy/common/00gltest.rpy:159
     old "Powersave"
@@ -996,7 +996,8 @@ translate russian strings:
 
     # renpy/common/00gltest.rpy:207
     old "Changes will take effect the next time this program is run."
-    new ""
+    new "Изменения войдут в силу при следующем запуске"
+     
 
     # renpy/common/00gltest.rpy:242
     old "Performance Warning"
@@ -1040,11 +1041,11 @@ translate russian strings:
 
     # renpy/common/00gamepad.rpy:32
     old "Select Gamepad to Calibrate"
-    new ""
+    new "Выберите геймпад"
 
     # renpy/common/00gamepad.rpy:35
     old "No Gamepads Available"
-    new ""
+    new "Нет доступных геймпадов"
 
     # renpy/common/00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
@@ -1056,15 +1057,15 @@ translate russian strings:
 
     # renpy/common/00gamepad.rpy:68
     old "Skip (A)"
-    new ""
+    new "Пропустить (А)"
 
     # renpy/common/00gamepad.rpy:71
     old "Back (B)"
-    new ""
+    new "Пропустить (В)"
 
     # renpy/common/_errorhandling.rpym:542
     old "Open"
-    new ""
+    new "Открыть"
 
     # renpy/common/_errorhandling.rpym:544
     old "Opens the traceback.txt file in a text editor."
