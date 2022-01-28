@@ -4,7 +4,7 @@
 translate russian not_now_label_44591089:
 
     # "[Name]" "{i}(There's nothing we can talk about right now.){/i}"
-    "[Name]" ""
+    "[Name]" "Сейчас нам не о чем поговорить."
 
 translate russian strings:
 
@@ -14,7 +14,7 @@ translate russian strings:
 
     # game/screens.rpy:914
     old "Xmas Special"
-    new "Новогодний выпуск"
+    new "Новогоднее спец. издание"
 
     # game/screens.rpy:934
     old "History"
@@ -38,7 +38,7 @@ translate russian strings:
 
     # game/screens.rpy:1024
     old "Credits"
-    new "Обновления"
+    new "Отдельное спасибо"
 
     # game/screens.rpy:1042
     old "Gallery"
@@ -98,7 +98,7 @@ translate russian strings:
 
     # game/screens.rpy:2572
     old "MUTE ALL"
-    new "Выключить все звуки"
+    new "Отключить все звуки"
 
     # game/screens.rpy:2770
     old "The dialogue history is empty."
@@ -106,19 +106,19 @@ translate russian strings:
 
     # game/screens.rpy:2855
     old "Rolls forward to later dialogue."
-    new "Прокрути вниз для поздних диалогов"
+    new "Прокрутите вниз для предыдущих диалогов"
 
     # game/screens.rpy:2855
     old "Opens the inventory menu."
-    new "Открой меню инвенторя"
+    new "Откройте инвентарь"
 
     # game/screens.rpy:2855
     old "Opens the phone menu."
-    new "Открыть меню телефона"
+    new "Откройте меню телефона"
 
     # game/screens.rpy:2855
     old "Opens the list of available routes."
-    new "Открывает список доступных маршрутов."
+    new "Откройте список доступных маршрутов."
 
     # game/screens.rpy:2880
     old "Takes a screenshot."
@@ -134,15 +134,15 @@ translate russian strings:
 
     # game/screens.rpy:2880
     old "Skips dialogue while held down."
-    new "Пропускает диалог, удерживаемый нажатой."
+    new "Пропустить диалог, при задержанной клавише."
 
     # game/screens.rpy:2880
     old "Toggles dialogue skipping."
-    new "Переключает пропуск диалога."
+    new "Вкл/выкл пропуск диалога."
 
     # game/screens.rpy:2880
     old "Rolls back to earlier dialogue."
-    new "Откат к предыдущему диалогу."
+    new "Вернуться к предыдущему диалогу."
 
     # game/screens.rpy:2880
     old "Highlights all active objects."
@@ -150,7 +150,7 @@ translate russian strings:
 
     # game/screens.rpy:2880
     old "Enables fullscreen mode."
-    new "Включает полноэкранный режим."
+    new "Включить полноэкранный режим."
 
     # game/screens.rpy:2880
     old "Navigate the interface."
@@ -158,7 +158,7 @@ translate russian strings:
 
     # game/screens.rpy:2923
     old "Enter"
-    new "Входить"
+    new ""
 
     # game/screens.rpy:2924
     old "Advances dialogue and activates the interface."
@@ -166,15 +166,15 @@ translate russian strings:
 
     # game/screens.rpy:2927
     old "Space"
-    new "место"
+    new "Пробел"
 
     # game/screens.rpy:2931
     old "Arrow Keys"
     new "Клавиши со стрелками"
 
     # game/screens.rpy:2935
-    old "Escape"
-    new "Выход"
+    old "Esc"
+    new ""
 
     # game/screens.rpy:2936
     old "Accesses the game menu."
@@ -182,11 +182,11 @@ translate russian strings:
 
     # game/screens.rpy:2939
     old "Ctrl"
-    new "Контрл"
+    new ""
 
     # game/screens.rpy:2943
     old "Tab"
-    new "Таб"
+    new ""
 
     # game/screens.rpy:2947
     old "Page Up"
@@ -198,31 +198,31 @@ translate russian strings:
 
     # game/screens.rpy:2956
     old "I"
-    new "Я"
+    new ""
 
     # game/screens.rpy:2959
     old "P"
-    new "З"
+    new ""
 
     # game/screens.rpy:2963
     old "Q"
-    new "Й"
+    new ""
 
     # game/screens.rpy:2966
     old "M"
-    new "Ь"
+    new ""
 
     # game/screens.rpy:2969
     old "L"
-    new "Д"
+    new ""
 
     # game/screens.rpy:2972
     old "F"
-    new "А"
+    new ""
 
     # game/screens.rpy:2975
     old "H"
-    new "Р"
+    new ""
 
     # game/screens.rpy:2976
     old "Hides the user interface."
@@ -230,7 +230,7 @@ translate russian strings:
 
     # game/screens.rpy:2978
     old "S"
-    new "Ы"
+    new ""
 
     # game/screens.rpy:3016
     old "Right Trigger\nA/Bottom Button"
@@ -238,7 +238,7 @@ translate russian strings:
 
     # game/screens.rpy:3020
     old "Left Trigger\nLeft Shoulder"
-    new "Левый Спусковой Крючок\Левое Плечо"
+    new "Левый Триггер\Левое Плечо"
 
     # game/screens.rpy:3024
     old "Right Shoulder"
@@ -246,7 +246,7 @@ translate russian strings:
 
     # game/screens.rpy:3029
     old "D-Pad, Sticks"
-    new "D-Образный коврик, Палочки"
+    new "D, Стики"
 
     # game/screens.rpy:3033
     old "Start, Guide"
@@ -258,15 +258,15 @@ translate russian strings:
 
     # game/screens.rpy:3040
     old "Calibrate"
-    new "Откалибровать"
+    new "Настроить"
 
     # game/screens.rpy:3273
     old "Skipping"
-    new "Пропуск"
+    new "Пропускаем"
 
     # game/screens.rpy:3497
     old "Back"
-    new "Вернуть"
+    new "Назад"
 
     # game/screens.rpy:3498
     old "Skip"
