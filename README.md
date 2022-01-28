@@ -20,9 +20,13 @@ First of all, translation are done with the [Ren'py](https://www.renpy.org/) fra
 Important
 --------
 Do not translate **Game name, Characters names, Places names (like Cordale)**
+
 if you feel something does not need to be translated, such as technical text
-old "Tab"
-new ""
+
+**old "Tab"**
+
+**new ""**
+
 Just leave the fields blank.
 
 # How to work with RenPy
