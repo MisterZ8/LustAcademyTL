@@ -821,8 +821,8 @@ translate french strings:
     new "Désactiver (vous pouvez toujours l'activer plus tard, dans les paramètres). Laissez cette option activée si vous êtes seulement"
 
     # game/script.rpy:340
-    old "intéressé par certains des contenus possibles. Ne vous inquiétez pas ! Nous vous demanderons au préalable chaque"
-    new ""
+    old "interested in some of the possible content. Don't worry! We'll ask you beforehand each"
+    new "intéressé par certains des contenus possibles. Ne vous inquiétez pas ! Nous vous demanderons au préalable chaque"
 
     # game/script.rpy:340
     old "time there's a chance to encounter such interactions."
