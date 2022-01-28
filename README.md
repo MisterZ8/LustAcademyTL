@@ -68,7 +68,7 @@ Those are used to be replaced with something. In most cases that is character na
 
 Usually variables looks like: [Name], %s , #weekday, {#weekday_short}
 
-Example:
+**Example:**
 
  old "{#weekday_short}Tue"
  
