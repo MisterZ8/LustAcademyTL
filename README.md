@@ -17,6 +17,10 @@ I'm really happy that you want to help with translations!
 I'm making this document because I'm getting some number of requests like this and although I'm super happy to get you help, I can't manually copy paste all the translated lines. So we have a process and here I'm going to explain how it works.  
 First of all, translation are done with the [Ren'py](https://www.renpy.org/) framework.
 
+Important
+--------
+Do not translate **Game name, Characters names, Places names (like Cordale)**
+
 # How to work with RenPy
 
 RenPy is quite simple. Every scene in the game is translated in a separate file like "d04s03.rpy".  
