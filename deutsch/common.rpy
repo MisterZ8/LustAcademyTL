@@ -20,7 +20,7 @@ translate deutsch strings:
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
-    new ""
+    new "ausgewählt"
 
     # renpy/common/00accessibility.rpy:34
     old "viewport"
@@ -28,19 +28,19 @@ translate deutsch strings:
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
-    new ""
+    new "horiozontaler Scroll"
 
     # renpy/common/00accessibility.rpy:36
     old "vertical scroll"
-    new ""
+    new "vertikaler Scroll"
 
     # renpy/common/00accessibility.rpy:37
     old "activate"
-    new ""
+    new "aktiviere"
 
     # renpy/common/00accessibility.rpy:38
     old "deactivate"
-    new ""
+    new "deaktiviere"
 
     # renpy/common/00accessibility.rpy:39
     old "increase"
@@ -56,7 +56,7 @@ translate deutsch strings:
 
     # renpy/common/00accessibility.rpy:132
     old "Default"
-    new ""
+    new "Standard"
 
     # renpy/common/00accessibility.rpy:136
     old "DejaVu Sans"
@@ -68,11 +68,11 @@ translate deutsch strings:
 
     # renpy/common/00accessibility.rpy:146
     old "Text Size Scaling"
-    new ""
+    new "Textskalierung"
 
     # renpy/common/00accessibility.rpy:152
     old "Reset"
-    new ""
+    new "Reset"
 
     # renpy/common/00accessibility.rpy:158
     old "Line Spacing Scaling"
@@ -84,11 +84,11 @@ translate deutsch strings:
 
     # renpy/common/00accessibility.rpy:175
     old "Off"
-    new ""
+    new "Aus"
 
     # renpy/common/00accessibility.rpy:179
     old "Text-to-speech"
-    new ""
+    new "Text zu Sprache"
 
     # renpy/common/00accessibility.rpy:183
     old "Clipboard"
@@ -108,175 +108,175 @@ translate deutsch strings:
 
     # renpy/common/00accessibility.rpy:207
     old "Return"
-    new ""
+    new "Zurück"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
-    new ""
+    new "{#weekday}Montag"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Tuesday"
-    new ""
+    new "{#weekday}Dienstag"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new ""
+    new "{#weekday}Mittwoch"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Thursday"
-    new ""
+    new "{#weekday}Donnerstag"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Friday"
-    new ""
+    new "{#weekday}Freitag"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Saturday"
-    new ""
+    new "{#weekday}Samstag"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Sunday"
-    new ""
+    new "{#weekday}Sonntag"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Mon"
-    new ""
+    new "{#weekday_short}Mo"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Tue"
-    new ""
+    new "{#weekday_short}Di"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Wed"
-    new ""
+    new "{#weekday_short}Mi"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Thu"
-    new ""
+    new "{#weekday_short}Do"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Fri"
-    new ""
+    new "{#weekday_short}Fr"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sat"
-    new ""
+    new "{#weekday_short}Sa"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new ""
+    new "{#weekday_short}So"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}January"
-    new ""
+    new "{#month}Januar"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}February"
-    new ""
+    new "{#month}Februar"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}March"
-    new ""
+    new "{#month}März"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}April"
-    new ""
+    new "{#month}April"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}May"
-    new ""
+    new "{#month}Mai"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}June"
-    new ""
+    new "{#month}Juni"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}July"
-    new ""
+    new "{#month}Juli"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}August"
-    new ""
+    new "{#month}August"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}September"
-    new ""
+    new "{#month}September"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}October"
-    new ""
+    new "{#month}Oktober"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}November"
-    new ""
+    new "{#month}November"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}December"
-    new ""
+    new "{#month}Dezember"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jan"
-    new ""
+    new "{#month_short}Jan"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Feb"
-    new ""
+    new "{#month_short}Feb"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Mar"
-    new ""
+    new "{#month_short}Mär"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Apr"
-    new ""
+    new "{#month_short}Apr"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}May"
-    new ""
+    new "{#month_short}Mai"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jun"
-    new ""
+    new "{#month_short}Jun"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jul"
-    new ""
+    new "{#month_short}Jul"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Aug"
-    new ""
+    new "{#month_short}Aug"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Sep"
-    new ""
+    new "{#month_short}Sep"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Oct"
-    new ""
+    new "{#month_short}Okt"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Nov"
-    new ""
+    new "{#month_short}Nov"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Dec"
-    new ""
+    new "{#month_short}Dez"
 
     # renpy/common/00action_file.rpy:250
     old "%b %d, %H:%M"
-    new ""
+    new "%b %d, %H:%M"
 
     # renpy/common/00action_file.rpy:363
     old "Save slot %s: [text]"
-    new ""
+    new "Speicherstand: %s: [text]"
 
     # renpy/common/00action_file.rpy:444
     old "Load slot %s: [text]"
-    new ""
+    new "Speicherstand laden %s: [text]"
 
     # renpy/common/00action_file.rpy:497
     old "Delete slot [text]"
-    new ""
+    new "Speicherstand löschen [text]"
 
     # renpy/common/00action_file.rpy:576
     old "File page auto"
@@ -300,19 +300,19 @@ translate deutsch strings:
 
     # renpy/common/00action_file.rpy:912
     old "Quick save complete."
-    new ""
+    new "Schnellspeichern abgeschlossen"
 
     # renpy/common/00action_file.rpy:930
     old "Quick save."
-    new ""
+    new "Schnellspeichern"
 
     # renpy/common/00action_file.rpy:949
     old "Quick load."
-    new ""
+    new "Schnellladen"
 
     # renpy/common/00action_other.rpy:375
     old "Language [text]"
-    new ""
+    new "Sprache [text]"
 
     # renpy/common/00director.rpy:708
     old "The interactive director is not enabled here."
@@ -320,7 +320,7 @@ translate deutsch strings:
 
     # renpy/common/00director.rpy:1481
     old "⬆"
-    new ""
+    new "⬆"
 
     # renpy/common/00director.rpy:1487
     old "⬇"
@@ -328,7 +328,7 @@ translate deutsch strings:
 
     # renpy/common/00director.rpy:1551
     old "Done"
-    new ""
+    new "Fertig"
 
     # renpy/common/00director.rpy:1561
     old "(statement)"
@@ -340,7 +340,7 @@ translate deutsch strings:
 
     # renpy/common/00director.rpy:1563
     old "(attributes)"
-    new ""
+    new "Attribute"
 
     # renpy/common/00director.rpy:1564
     old "(transform)"
@@ -352,27 +352,27 @@ translate deutsch strings:
 
     # renpy/common/00director.rpy:1601
     old "(channel)"
-    new ""
+    new "Kanal"
 
     # renpy/common/00director.rpy:1602
     old "(filename)"
-    new ""
+    new "Dateiname"
 
     # renpy/common/00director.rpy:1631
     old "Change"
-    new ""
+    new "Wechsel"
 
     # renpy/common/00director.rpy:1633
     old "Add"
-    new ""
+    new "Hinzufügen"
 
     # renpy/common/00director.rpy:1636
     old "Cancel"
-    new ""
+    new "Abbruch"
 
     # renpy/common/00director.rpy:1639
     old "Remove"
-    new ""
+    new "Entfernen"
 
     # renpy/common/00director.rpy:1674
     old "Statement:"
@@ -380,11 +380,11 @@ translate deutsch strings:
 
     # renpy/common/00director.rpy:1695
     old "Tag:"
-    new ""
+    new "Tag:"
 
     # renpy/common/00director.rpy:1711
     old "Attributes:"
-    new ""
+    new "Attribute:"
 
     # renpy/common/00director.rpy:1729
     old "Transforms:"
@@ -392,7 +392,7 @@ translate deutsch strings:
 
     # renpy/common/00director.rpy:1748
     old "Behind:"
-    new ""
+    new "Hinter:"
 
     # renpy/common/00director.rpy:1767
     old "Transition:"
@@ -400,63 +400,63 @@ translate deutsch strings:
 
     # renpy/common/00director.rpy:1785
     old "Channel:"
-    new ""
+    new "Kanal:"
 
     # renpy/common/00director.rpy:1803
     old "Audio Filename:"
-    new ""
+    new "Audio Dateiname:"
 
     # renpy/common/00gui.rpy:384
     old "Are you sure?"
-    new ""
+    new "Bist du dir sicher?"
 
     # renpy/common/00gui.rpy:385
     old "Are you sure you want to delete this save?"
-    new ""
+    new "Bist du dir sicher, dass du diesen Speicherstand löschen willst?"
 
     # renpy/common/00gui.rpy:386
     old "Are you sure you want to overwrite your save?"
-    new ""
+    new "Bist du dir sicher, dass du deinen Speicherstand überschreiben möchtest?"
 
     # renpy/common/00gui.rpy:387
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new ""
+    new "Laden wird ungespeicherten Fortschritt löschen. \nBist du dir sicher, dass du dies möchtest?"
 
     # renpy/common/00gui.rpy:388
     old "Are you sure you want to quit?"
-    new ""
+    new "Willst du das Spiel wirklich beenden?"
 
     # renpy/common/00gui.rpy:389
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new ""
+    new "Willst du wirklich zum Hauptmenü zurückkehren? \nUngespeicherter Fortschritt geht verloren."
 
     # renpy/common/00gui.rpy:390
     old "Are you sure you want to end the replay?"
-    new ""
+    new "Willst du wirklich die Wiederholung beenden?"
 
     # renpy/common/00gui.rpy:391
     old "Are you sure you want to begin skipping?"
-    new ""
+    new "Willst du wirklich die Skip-Funktion verwenden?"
 
     # renpy/common/00gui.rpy:392
     old "Are you sure you want to skip to the next choice?"
-    new ""
+    new "Willst du wirklich bis zur nächsten Auswahl überspringen?"
 
     # renpy/common/00gui.rpy:393
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new ""
+    new "Willst du wirklich ungelesenen Dialog zur nächsten Auswahl überspringen?"
 
     # renpy/common/00keymap.rpy:306
     old "Failed to save screenshot as %s."
-    new ""
+    new "Screenshot konnte nicht als %s gespeichert werden."
 
     # renpy/common/00keymap.rpy:318
     old "Saved screenshot as %s."
-    new ""
+    new "Speichert Screenshot als %s"
 
     # renpy/common/00library.rpy:195
     old "Skip Mode"
-    new ""
+    new "Skip-Mpdus"
 
     # renpy/common/00library.rpy:281
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
@@ -464,7 +464,7 @@ translate deutsch strings:
 
     # renpy/common/00preferences.rpy:247
     old "display"
-    new ""
+    new "Bildschirm"
 
     # renpy/common/00preferences.rpy:259
     old "transitions"
@@ -480,43 +480,43 @@ translate deutsch strings:
 
     # renpy/common/00preferences.rpy:279
     old "show empty window"
-    new ""
+    new "Zeige leeres Fenster"
 
     # renpy/common/00preferences.rpy:288
     old "text speed"
-    new ""
+    new "Textgeschwindigkeit"
 
     # renpy/common/00preferences.rpy:296
     old "joystick"
-    new ""
+    new "Joystick"
 
     # renpy/common/00preferences.rpy:296
     old "joystick..."
-    new ""
+    new "Joystick..."
 
     # renpy/common/00preferences.rpy:303
     old "skip"
-    new ""
+    new "Überspringe"
 
     # renpy/common/00preferences.rpy:306
     old "skip unseen [text]"
-    new ""
+    new "überspringe nicht gesehen [text] "
 
     # renpy/common/00preferences.rpy:311
     old "skip unseen text"
-    new ""
+    new "Überspringe nicht gesehenen Text"
 
     # renpy/common/00preferences.rpy:313
     old "begin skipping"
-    new ""
+    new "Beginne überspringen"
 
     # renpy/common/00preferences.rpy:317
     old "after choices"
-    new ""
+    new "Nach der Auswahl"
 
     # renpy/common/00preferences.rpy:324
     old "skip after choices"
-    new ""
+    new "Überspringe nach der Auswahl"
 
     # renpy/common/00preferences.rpy:326
     old "auto-forward time"
@@ -648,7 +648,7 @@ translate deutsch strings:
 
     # renpy/common/_compat/gamemenu.rpym:198
     old "Empty Slot."
-    new ""
+    new "Leerer Slot"
 
     # renpy/common/_compat/gamemenu.rpym:355
     old "Previous"
@@ -656,7 +656,7 @@ translate deutsch strings:
 
     # renpy/common/_compat/gamemenu.rpym:362
     old "Next"
-    new ""
+    new "Nächster"
 
     # renpy/common/_compat/preferences.rpym:428
     old "Joystick Mapping"
@@ -664,7 +664,7 @@ translate deutsch strings:
 
     # renpy/common/_developer/developer.rpym:38
     old "Developer Menu"
-    new ""
+    new "Entwickler Menü"
 
     # renpy/common/_developer/developer.rpym:43
     old "Interactive Director (D)"
@@ -672,11 +672,11 @@ translate deutsch strings:
 
     # renpy/common/_developer/developer.rpym:45
     old "Reload Game (Shift+R)"
-    new ""
+    new "Lade Spiel neu (Shift+R)"
 
     # renpy/common/_developer/developer.rpym:47
     old "Console (Shift+O)"
-    new ""
+    new "Konsole (Shift+O"
 
     # renpy/common/_developer/developer.rpym:49
     old "Variable Viewer"
@@ -688,7 +688,7 @@ translate deutsch strings:
 
     # renpy/common/_developer/developer.rpym:53
     old "Filename List"
-    new ""
+    new "Liste Dateinamen"
 
     # renpy/common/_developer/developer.rpym:57
     old "Show Image Load Log (F4)"
@@ -700,7 +700,7 @@ translate deutsch strings:
 
     # renpy/common/_developer/developer.rpym:63
     old "Image Attributes"
-    new ""
+    new "Bildattribute"
 
     # renpy/common/_developer/developer.rpym:90
     old "[name] [attributes] (hidden)"
@@ -720,11 +720,11 @@ translate deutsch strings:
 
     # renpy/common/_developer/developer.rpym:154
     old "Show deleted"
-    new ""
+    new "Zeige Gelöschtes"
 
     # renpy/common/_developer/developer.rpym:278
     old "Return to the developer menu"
-    new ""
+    new "Kehre zum Entwicklermenü zurück"
 
     # renpy/common/_developer/developer.rpym:443
     old "Rectangle: %r"
@@ -760,11 +760,11 @@ translate deutsch strings:
 
     # renpy/common/_developer/developer.rpym:645
     old "✔ "
-    new ""
+    new "✔"
 
     # renpy/common/_developer/developer.rpym:648
     old "✘ "
-    new ""
+    new "✘"
 
     # renpy/common/_developer/developer.rpym:653
     old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
@@ -776,15 +776,15 @@ translate deutsch strings:
 
     # renpy/common/_developer/inspector.rpym:61
     old "Size"
-    new ""
+    new "Größe"
 
     # renpy/common/_developer/inspector.rpym:65
     old "Style"
-    new ""
+    new "Stil"
 
     # renpy/common/_developer/inspector.rpym:71
     old "Location"
-    new ""
+    new "Ort"
 
     # renpy/common/_developer/inspector.rpym:122
     old "Inspecting Styles of [displayable_name!q]"
@@ -808,11 +808,11 @@ translate deutsch strings:
 
     # renpy/common/_layout/classic_load_save.rpym:170
     old "a"
-    new ""
+    new "a"
 
     # renpy/common/_layout/classic_load_save.rpym:179
     old "q"
-    new ""
+    new "q"
 
     # renpy/common/00iap.rpy:219
     old "Contacting App Store\nPlease Wait..."
@@ -824,7 +824,7 @@ translate deutsch strings:
 
     # renpy/common/00updater.rpy:496
     old "An error is being simulated."
-    new ""
+    new "Ein Error wird simuliert"
 
     # renpy/common/00updater.rpy:680
     old "Either this project does not support updating, or the update status file was deleted."
@@ -856,19 +856,19 @@ translate deutsch strings:
 
     # renpy/common/00updater.rpy:1433
     old "Updater"
-    new ""
+    new "Updater"
 
     # renpy/common/00updater.rpy:1440
     old "An error has occured:"
-    new ""
+    new "Ein Error ist aufgetreten:"
 
     # renpy/common/00updater.rpy:1442
     old "Checking for updates."
-    new ""
+    new "Suche nach Updates."
 
     # renpy/common/00updater.rpy:1444
     old "This program is up to date."
-    new ""
+    new "Dieses Programm ist auf neuestem Stand."
 
     # renpy/common/00updater.rpy:1446
     old "[u.version] is available. Do you want to install it?"
@@ -876,15 +876,15 @@ translate deutsch strings:
 
     # renpy/common/00updater.rpy:1448
     old "Preparing to download the updates."
-    new ""
+    new "Bereite das Runterladen der Updates vor"
 
     # renpy/common/00updater.rpy:1450
     old "Downloading the updates."
-    new ""
+    new "Lade die Updates herunter"
 
     # renpy/common/00updater.rpy:1452
     old "Unpacking the updates."
-    new ""
+    new "Entpacke die Updates"
 
     # renpy/common/00updater.rpy:1454
     old "Finishing up."
@@ -892,15 +892,15 @@ translate deutsch strings:
 
     # renpy/common/00updater.rpy:1456
     old "The updates have been installed. The program will restart."
-    new ""
+    new "Die Updates wurden installiert. Das Programm wird neu gestartet"
 
     # renpy/common/00updater.rpy:1458
     old "The updates have been installed."
-    new ""
+    new "Die Updates wurden installiert"
 
     # renpy/common/00updater.rpy:1460
     old "The updates were cancelled."
-    new ""
+    new "Die Updates wurden abgebrochen"
 
     # renpy/common/00updater.rpy:1475
     old "Proceed"
@@ -908,7 +908,7 @@ translate deutsch strings:
 
     # renpy/common/00compat.rpy:320
     old "Fullscreen"
-    new ""
+    new "Vollbild"
 
     # renpy/common/00gallery.rpy:590
     old "Image [index] of [count] locked."
@@ -916,11 +916,11 @@ translate deutsch strings:
 
     # renpy/common/00gallery.rpy:610
     old "prev"
-    new ""
+    new "davor"
 
     # renpy/common/00gallery.rpy:611
     old "next"
-    new ""
+    new "nächstes"
 
     # renpy/common/00gallery.rpy:612
     old "slideshow"
@@ -928,15 +928,15 @@ translate deutsch strings:
 
     # renpy/common/00gallery.rpy:613
     old "return"
-    new ""
+    new "zurück"
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
-    new ""
+    new "Renderer"
 
     # renpy/common/00gltest.rpy:93
     old "Automatically Choose"
-    new ""
+    new "Automatische Auswahl"
 
     # renpy/common/00gltest.rpy:100
     old "Force GL Renderer"
@@ -964,7 +964,7 @@ translate deutsch strings:
 
     # renpy/common/00gltest.rpy:132
     old "Gamepad"
-    new ""
+    new "Gamepad"
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
@@ -976,23 +976,23 @@ translate deutsch strings:
 
     # renpy/common/00gltest.rpy:173
     old "Framerate"
-    new ""
+    new "Framerate"
 
     # renpy/common/00gltest.rpy:177
     old "Screen"
-    new ""
+    new "Bildschirm"
 
     # renpy/common/00gltest.rpy:181
     old "60"
-    new ""
+    new "60"
 
     # renpy/common/00gltest.rpy:185
     old "30"
-    new ""
+    new "30"
 
     # renpy/common/00gltest.rpy:191
     old "Tearing"
-    new ""
+    new "Tearing"
 
     # renpy/common/00gltest.rpy:207
     old "Changes will take effect the next time this program is run."
@@ -1028,11 +1028,11 @@ translate deutsch strings:
 
     # renpy/common/00gltest.rpy:269
     old "Continue, Show this warning again"
-    new ""
+    new "Forstsetzen, zeige die Warnung beim nächsten Mal"
 
     # renpy/common/00gltest.rpy:273
     old "Continue, Don't show warning again"
-    new ""
+    new "Fortsetzen, zeige die Warnung nicht mehr"
 
     # renpy/common/00gltest.rpy:281
     old "Change render options"
@@ -1040,11 +1040,11 @@ translate deutsch strings:
 
     # renpy/common/00gamepad.rpy:32
     old "Select Gamepad to Calibrate"
-    new ""
+    new "Wähle dein Gamepad zum Kalibrieren"
 
     # renpy/common/00gamepad.rpy:35
     old "No Gamepads Available"
-    new ""
+    new "Keine Gamepads verfügbar"
 
     # renpy/common/00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
@@ -1108,7 +1108,7 @@ translate deutsch strings:
 
     # renpy/common/_errorhandling.rpym:619
     old "Reload"
-    new ""
+    new "Neuladen"
 
     # renpy/common/_errorhandling.rpym:621
     old "Reloads the game from disk, saving and restoring game state if possible."
@@ -1116,7 +1116,7 @@ translate deutsch strings:
 
     # renpy/common/_errorhandling.rpym:624
     old "Console"
-    new ""
+    new "Konsole"
 
     # renpy/common/_errorhandling.rpym:626
     old "Opens a console to allow debugging the problem."
@@ -1124,7 +1124,7 @@ translate deutsch strings:
 
     # renpy/common/_errorhandling.rpym:639
     old "Quits the game."
-    new ""
+    new "Beendet das Spiel"
 
     # renpy/common/_errorhandling.rpym:660
     old "Parsing the script failed."

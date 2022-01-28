@@ -17,6 +17,20 @@ I'm really happy that you want to help with translations!
 I'm making this document because I'm getting some number of requests like this and although I'm super happy to get you help, I can't manually copy paste all the translated lines. So we have a process and here I'm going to explain how it works.  
 First of all, translation are done with the [Ren'py](https://www.renpy.org/) framework.
 
+Important
+--------
+Do not translate **Game name, Characters names, Places names (like Cordale), Variables**
+
+if you feel something does not need to be translated, such as technical text
+
+**old "Tab"**
+
+**new ""**
+
+Just leave the fields blank.
+
+**DO NOT EDIT "old" TEXT, ONLY "new" ONE!**
+
 # How to work with RenPy
 
 RenPy is quite simple. Every scene in the game is translated in a separate file like "d04s03.rpy".  
@@ -49,6 +63,16 @@ It has to be translated like that. "%" is a special character.
 ![image](https://user-images.githubusercontent.com/79453594/151210978-ae9c96c7-5041-4644-a025-1644ac4794a9.png)
 
 Those are used to be replaced with something. In most cases that is character names. (In this case, it will be replaced with the name that player selected for him main character).
+
+**Don't translate variables and just leave them.**
+
+Usually variables looks like: [Name], %s , #weekday, {#weekday_short}
+
+**Example:**
+
+ old "{#weekday_short}Tue"
+ 
+ new "{#weekday_short}Вт"
 
 ## Quotations
 
@@ -91,6 +115,21 @@ You will see the texteditor:
 You make changes:
 
 ![image](https://user-images.githubusercontent.com/79453594/151215201-685efc9c-67e0-4dcd-aa0c-b6ead15662bf.png)
+
+Important
+--------
+Do not translate **Game name, Characters names, Places names (like Cordale)**
+
+if you feel something does not need to be translated, such as technical text
+
+**old "Tab"**
+
+**new ""**
+
+Just leave the fields blank.
+
+**DO NOT EDIT "old" TEXT, ONLY "new" ONE!**
+
 
 To save (propose) your changes:
 

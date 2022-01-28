@@ -4,11 +4,11 @@
 translate french after_load_f92cd1e5:
 
     # "" "..."
-    "" ""
+    "" "..."
 
 translate french strings:
 
     # game/logic/systems/optimisation.rpy:123
     old "Loading, please wait..."
-    new ""
+    new "Chargement en cours, veuillez patienter..."
 
