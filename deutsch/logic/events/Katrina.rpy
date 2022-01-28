@@ -10,217 +10,217 @@ translate deutsch Katrina_1_label_bfc2c579:
 translate deutsch Katrina_1_label_b5c500bc:
 
     # ch_Name "{i}(Oh... What a splitting headache.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh... Was für ein rasender Kopfschmerz.){/i}"
 
 # game/logic/events/Katrina.rpy:9
 translate deutsch Katrina_1_label_8ccc1536:
 
     # ch_Name "{i}(Damn alarm clock.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Verdammter Wecker.){/i}"
 
 # game/logic/events/Katrina.rpy:11
 translate deutsch Katrina_1_label_d2fd5b41:
 
     # ch_Name "{i}(What happened yesterday? I can't remember.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Was ist gestern passiert? Ich kann mich an nichts erinner.){/i}"
 
 # game/logic/events/Katrina.rpy:12
 translate deutsch Katrina_1_label_8a1aa597:
 
     # ch_Name "{i}(WAKE UP!){/i}"
-    ch_Name ""
+    ch_Name "{i}(WACH AUF!){/i}"
 
 # game/logic/events/Katrina.rpy:14
 translate deutsch Katrina_1_label_913db7e4:
 
     # ch_Name "What the hell... What am I doing here?!"
-    ch_Name ""
+    ch_Name "Was zur Hölle... Was mache ich hier?!"
 
 # game/logic/events/Katrina.rpy:15
 translate deutsch Katrina_1_label_2f6462d4:
 
     # ch_Name "I was..."
-    ch_Name ""
+    ch_Name "Ich war..."
 
 # game/logic/events/Katrina.rpy:16
 translate deutsch Katrina_1_label_625bc507:
 
     # ch_Name "{i}(I can't remember... But I definitely wasn't here. Right?..){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich kann mich nicht erinnern... Aber ich war definitiv nicht hier. Oder?..){/i}"
 
 # game/logic/events/Katrina.rpy:17
 translate deutsch Katrina_1_label_18bebd9d:
 
     # ch_Name "{i}(Was it just a dream?){/i}"
-    ch_Name ""
+    ch_Name "{i}(War es nur ein Traum?){/i}"
 
 # game/logic/events/Katrina.rpy:19
 translate deutsch Katrina_1_label_e3defce8:
 
     # ch_Name "{i}(No. No. No.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nein. Nein. Nein.){/i}"
 
 # game/logic/events/Katrina.rpy:20
 translate deutsch Katrina_1_label_8e629884:
 
     # ch_Name "{i}(It can't be!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Das kann nicht sein!){/i}"
 
 # game/logic/events/Katrina.rpy:21
 translate deutsch Katrina_1_label_6b707201:
 
     # ch_Name "{i}(I was invited to study. Somewhere.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich wurde eingeladen um zu studieren. Irgendwo.){/i}"
 
 # game/logic/events/Katrina.rpy:22
 translate deutsch Katrina_1_label_d948a5cb:
 
     # ch_Name "{i}(I remember exactly, there was a letter...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich erinnere mich genau, da war ein Brief...){/i}"
 
 # game/logic/events/Katrina.rpy:24
 translate deutsch Katrina_1_label_06ecb25b:
 
     # ch_Name "{i}(Yes, that's right! A letter!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ja, genau! Der Brief!){/i}"
 
 # game/logic/events/Katrina.rpy:26
 translate deutsch Katrina_1_label_760ac188:
 
     # ch_Name "{i}(How could I forget getting a letter?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wie konnte ich vergessen das ich einen Brief bekommen habe?){/i}"
 
 # game/logic/events/Katrina.rpy:27
 translate deutsch Katrina_1_label_25ce2f6d:
 
     # ch_Name "{i}(That almost never happens to me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(So etwas passiert mir fast nie.){/i}"
 
 # game/logic/events/Katrina.rpy:29
 translate deutsch Katrina_1_label_13dd8db6:
 
     # ch_Name "{i}(Especially since the invention of emails and mobile phones.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Besonders seit der Erfindung von E-Mails und Handys.){/i}"
 
 # game/logic/events/Katrina.rpy:30
 translate deutsch Katrina_1_label_f628c877:
 
     # ch_Name "{i}(I remember now...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich erinnere mich...){/i}"
 
 # game/logic/events/Katrina.rpy:36
 translate deutsch Katrina_1_label_f4b6a0fc:
 
     # ch_Name "{i}(Samantha was talking about a letter from the school of magic.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Samantha sprach von einem Brief von der Schule der Magie.){/i}"
 
 # game/logic/events/Katrina.rpy:37
 translate deutsch Katrina_1_label_e08eb391:
 
     # ch_Name "{i}(Wait a minute!!!){/i}" with hpunch
-    ch_Name "" with hpunch
+    ch_Name "{i}(Moment mal!!!){/i}" with hpunch
 
 # game/logic/events/Katrina.rpy:38
 translate deutsch Katrina_1_label_5634a664:
 
     # ch_Name "{i}(We have to go to the train station today. I'm gonna be late!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wir müssen heute zum Bahnhof. Ich werde zu spät kommen!){/i}"
 
 # game/logic/events/Katrina.rpy:41
 translate deutsch Katrina_1_label_fd113125:
 
     # ch_Name "{i}(I have to find Samantha. I hope I didn't oversleep.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich muss Samantha finden. Ich hoffe das ich nicht verschlafen habe.){/i}"
 
 # game/logic/events/Katrina.rpy:47
 translate deutsch Katrina_1_label_f6725d6b:
 
     # ch_Name "{i}(Here she is!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Da ist sie!){/i}"
 
 # game/logic/events/Katrina.rpy:48
 translate deutsch Katrina_1_label_d61d34f4:
 
     # ch_Name "Samantha! Wait a minute."
-    ch_Name ""
+    ch_Name "Samantha! Warte kurz."
 
 # game/logic/events/Katrina.rpy:50
 translate deutsch Katrina_1_label_b611f880:
 
     # Samantha "What do you want?"
-    Samantha ""
+    Samantha "Was willst du?"
 
 # game/logic/events/Katrina.rpy:51
 translate deutsch Katrina_1_label_646b4cdd:
 
     # ch_Name "I didn't oversleep, did I?"
-    ch_Name ""
+    ch_Name "Ich habe nicht verschlafen, oder?"
 
 # game/logic/events/Katrina.rpy:52
 translate deutsch Katrina_1_label_b09af744:
 
     # ch_Name "I just need ten minutes to pack my suitcase."
-    ch_Name ""
+    ch_Name "Ich brauche nur zehn Minuten um meinen Koffer zu packen."
 
 # game/logic/events/Katrina.rpy:53
 translate deutsch Katrina_1_label_0e341179:
 
     # ch_Name "Can you call a cab?"
-    ch_Name ""
+    ch_Name "Kannst du ein Taxi rufen?"
 
 # game/logic/events/Katrina.rpy:55
 translate deutsch Katrina_1_label_2d5efd43:
 
     # Samantha "What? What do you want me to do?"
-    Samantha ""
+    Samantha "Bitte? Was soll ich für dich machen?"
 
 # game/logic/events/Katrina.rpy:56
 translate deutsch Katrina_1_label_7f5e4de6:
 
     # Samantha "You want me to call you a cab? Do you want me to clean your room for you too?"
-    Samantha ""
+    Samantha "Du willst das ich dir ein Taxi rufe? Soll ich auch noch dein Zimmer aufräumen?"
 
 # game/logic/events/Katrina.rpy:57
 translate deutsch Katrina_1_label_bd3b0136:
 
     # ch_Name "You don't have to do that. We're going to the academy together."
-    ch_Name ""
+    ch_Name "Das musst du nicht. Wir fahren gemeinsam zur Hochschule."
 
 # game/logic/events/Katrina.rpy:58
 translate deutsch Katrina_1_label_f045b6ee:
 
     # ch_Name "By the way, where's my letter, did you get it from Olivia?"
-    ch_Name ""
+    ch_Name "Apropos, wo ist mein Brief, hast du ihn von Olivia bekommen?"
 
 # game/logic/events/Katrina.rpy:60
 translate deutsch Katrina_1_label_026a9f57:
 
     # Samantha "Oh. That's what you mean."
-    Samantha ""
+    Samantha "Ach so. Das meinst du."
 
 # game/logic/events/Katrina.rpy:61
 translate deutsch Katrina_1_label_d58f5d79:
 
     # Samantha "Aha-ha-ha-ha. That Academy..."
-    Samantha ""
+    Samantha "Aha-ha-ha-ha. Die Hochschule..."
 
 # game/logic/events/Katrina.rpy:63
 translate deutsch Katrina_1_label_1241f5af:
 
     # Samantha "Did you really fall for that childish prank? No, what, really?"
-    Samantha ""
+    Samantha "Bist du wirklich auf diesen kindischen Streich reingefallen? Nein, was, wirklich?"
 
 # game/logic/events/Katrina.rpy:64
 translate deutsch Katrina_1_label_8d43ee78:
 
     # ch_Name "Wait a minute. Don't tell me..."
-    ch_Name ""
+    ch_Name "Warte einen Moment. Sag mir nicht..."
 
 # game/logic/events/Katrina.rpy:66
 translate deutsch Katrina_1_label_08d8b9a6:
 
     # Samantha "I can't believe you're such a loser that you fell for it."
-    Samantha ""
+    Samantha "Ich kann nicht glauben das du solch ein Verlierer bist, dass du darauf hereinfällst."
 
 # game/logic/events/Katrina.rpy:67
 translate deutsch Katrina_1_label_b925146b:
@@ -232,187 +232,187 @@ translate deutsch Katrina_1_label_b925146b:
 translate deutsch Katrina_1_label_37c38f7d:
 
     # ch_Name "{i}(How is it... It all seemed so real.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wie kann das... Alles wirkte so echt.){/i}"
 
 # game/logic/events/Katrina.rpy:69
 translate deutsch Katrina_1_label_9f5c2061:
 
     # ch_Name "{i}(Maybe I really am such a loser that I'm willing to believe in magic.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vielleicht bin ich wirklich so sehr ein Verlierer, dass ich sogar bereit bin an Magie zu glauben.){/i}"
 
 # game/logic/events/Katrina.rpy:71
 translate deutsch Katrina_1_label_e689fd8d:
 
     # Don "[Name], GET OVER HERE!"
-    Don ""
+    Don "[Name], KOMM HER!"
 
 # game/logic/events/Katrina.rpy:72
 translate deutsch Katrina_1_label_08dc6245:
 
     # ch_Name "{i}(Great, another quarrel with Don is what I need now.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Großartig, ein weiterer Streit mit Don ist genau was ich jetzt brauche.){/i}"
 
 # game/logic/events/Katrina.rpy:74
 translate deutsch Katrina_1_label_615d2280:
 
     # ch_Name "{i}(Better not keep him waiting.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich lasse ihn besser nicht warten.){/i}"
 
 # game/logic/events/Katrina.rpy:75
 translate deutsch Katrina_1_label_7c05334e:
 
     # ch_Name "I'm coming!"
-    ch_Name ""
+    ch_Name "Ich komme!"
 
 # game/logic/events/Katrina.rpy:81
 translate deutsch Katrina_1_label_2abd4c3a:
 
     # ch_Name "{i}(Why did you have to yell like that when you're standing there eating breakfast?){/i}"
-    ch_Name ""
+    ch_Name {i}(Warum musst du so schreien wenn du da stehst und am frühstücken bist?){/i}""
 
 # game/logic/events/Katrina.rpy:82
 translate deutsch Katrina_1_label_633a0e53:
 
     # ch_Name "Don, you wanted to see me?"
-    ch_Name ""
+    ch_Name "Don, du wolltest mich sehen?"
 
 # game/logic/events/Katrina.rpy:83
 translate deutsch Katrina_1_label_a92639e0:
 
     # Don "I wouldn't put it like that."
-    Don ""
+    Don "Das würde ich so nicht sagen."
 
 # game/logic/events/Katrina.rpy:85
 translate deutsch Katrina_1_label_94523afa:
 
     # Don "Come here."
-    Don ""
+    Don "Komm her."
 
 # game/logic/events/Katrina.rpy:86
 translate deutsch Katrina_1_label_b1a06616:
 
     # ch_Name "{i}(That's not good.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Das ist nicht gut.){/i}"
 
 # game/logic/events/Katrina.rpy:87
 translate deutsch Katrina_1_label_4eb4af5b:
 
     # ch_Name "Did something happen?"
-    ch_Name ""
+    ch_Name "Ist etwas passiert?"
 
 # game/logic/events/Katrina.rpy:89
 translate deutsch Katrina_1_label_131b1e98:
 
     # Don "Tell me, do you remember our conversation the other day about the rent?"
-    Don ""
+    Don "Verrate mir, erinnerst du dich an unser Gespräch letztens über die Miete? "
 
 # game/logic/events/Katrina.rpy:90
 translate deutsch Katrina_1_label_965dc6b2:
 
     # ch_Name "{i}(Is he going to charge me again?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Will er mich wieder abkassieren?){/i}"
 
 # game/logic/events/Katrina.rpy:91
 translate deutsch Katrina_1_label_48cac36a:
 
     # ch_Name "Vaguely."
-    ch_Name ""
+    ch_Name "Vage"
 
 # game/logic/events/Katrina.rpy:92
 translate deutsch Katrina_1_label_6be7e5fb:
 
     # Don "I'll refresh your memory."
-    Don ""
+    Don "Ich helfe deinem Gedächtnis auf die Sprünge."
 
 # game/logic/events/Katrina.rpy:94
 translate deutsch Katrina_1_label_6706d91d:
 
     # Don "You don't study, you pay the rent."
-    Don ""
+    Don "Du studierst nicht, also zahlst du Miete."
 
 # game/logic/events/Katrina.rpy:95
 translate deutsch Katrina_1_label_d0450104:
 
     # Don "And right now it's time to pay the first and last month's rent."
-    Don ""
+    Don "Und jetzt ist die Miete für diesen und letzten Monat fällig."
 
 # game/logic/events/Katrina.rpy:96
 translate deutsch Katrina_1_label_6c25205d:
 
     # ch_Name "Right now?! What's going on?"
-    ch_Name ""
+    ch_Name "Jetzt?! Was passiert hier?"
 
 # game/logic/events/Katrina.rpy:97
 translate deutsch Katrina_1_label_8da30f91:
 
     # ch_Name "I've had time to think..."
-    ch_Name ""
+    ch_Name "Ich hatte Zeit zum nachdenken..."
 
 # game/logic/events/Katrina.rpy:99
 translate deutsch Katrina_1_label_7c0d2d20:
 
     # Don "What can I say? It's time!"
-    Don ""
+    Don "Was soll ich sagen? Es ist Zeit!"
 
 # game/logic/events/Katrina.rpy:100
 translate deutsch Katrina_1_label_d9952f2c:
 
     # Don "A new watch isn't going to buy itself."
-    Don ""
+    Don "Eine neue Uhr kauft sich nicht von alleine."
 
 # game/logic/events/Katrina.rpy:101
 translate deutsch Katrina_1_label_e63708fc:
 
     # Don "Do you have a problem with that?"
-    Don ""
+    Don "Hast du ein Problem damit?"
 
 # game/logic/events/Katrina.rpy:105
 translate deutsch Katrina_1_label_395c987b:
 
     # ch_Name "Don, I don't have that kind of money right now."
-    ch_Name ""
+    ch_Name "Don, ich habe gerade nicht das Geld dafür."
 
 # game/logic/events/Katrina.rpy:107
 translate deutsch Katrina_1_label_dd9d4ada:
 
     # ch_Name "At least give me a week. I'll definitely pay it!"
-    ch_Name ""
+    ch_Name "Gib mir wenigstens eine Woche. Ich werde sie auf jeden Fall bezahlen!"
 
 # game/logic/events/Katrina.rpy:108
 translate deutsch Katrina_1_label_c90437f6:
 
     # Don "I'm tired of hearing your excuses!"
-    Don ""
+    Don "Ich habe keine Lust mehr auf deine Ausreden!"
 
 # game/logic/events/Katrina.rpy:109
 translate deutsch Katrina_1_label_bf67c9ab:
 
     # Don "You're an adult. Pay up or get out."
-    Don ""
+    Don "Du bist erwachsen. Zahle oder verschwinde."
 
 # game/logic/events/Katrina.rpy:110
 translate deutsch Katrina_1_label_fa3523b8:
 
     # ch_Name "I don't have any money."
-    ch_Name ""
+    ch_Name "Ich habe kein Geld."
 
 # game/logic/events/Katrina.rpy:112
 translate deutsch Katrina_1_label_4cee64c0:
 
     # Don "Then get off my property, you bum!"
-    Don ""
+    Don "Dann verschwinde von meinem Grundstück, du Penner!"
 
 # game/logic/events/Katrina.rpy:113
 translate deutsch Katrina_1_label_2051c3f0:
 
     # ch_Name "Are you serious right now? You're kicking me out over a watch?"
-    ch_Name ""
+    ch_Name "Ist das jetzt dein Ernst? Du schmeißt mich wegen einer Uhr raus?"
 
 # game/logic/events/Katrina.rpy:115
 translate deutsch Katrina_1_label_10b2a5f8:
 
     # ch_Name "What are you, cuckoo?"
-    ch_Name ""
+    ch_Name "Bist du durchgeknallt?"
 
 # game/logic/events/Katrina.rpy:117
 translate deutsch Katrina_1_label_c768b14a:
@@ -436,73 +436,73 @@ translate deutsch Katrina_1_label_cc3b5d61:
 translate deutsch Katrina_1_label_d2007cb3:
 
     # Don "How dare you talk to me like that?"
-    Don ""
+    Don "Du wagst es so mit mir zu reden?"
 
 # game/logic/events/Katrina.rpy:123
 translate deutsch Katrina_1_label_a2ae2aa0:
 
     # Don "Ungrateful piece of shit."
-    Don ""
+    Don "Undankbares Stück Scheiße."
 
 # game/logic/events/Katrina.rpy:124
 translate deutsch Katrina_1_label_2bfd0a34:
 
     # ch_Name "{i}(That's quite a punch he's got. It's ringing in his ears.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Er hat so einen starken Schlag, dass es in seinen Ohren klingelt.){/i}"
 
 # game/logic/events/Katrina.rpy:126
 translate deutsch Katrina_1_label_9d235d11:
 
     # Don "Get up and get out of here."
-    Don ""
+    Don "Steh auf und verschwinde."
 
 # game/logic/events/Katrina.rpy:127
 translate deutsch Katrina_1_label_92cf679b:
 
     # ch_Name "{i}(I can barely make out what he's saying...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich kann kaum verstehen, was er sagt...){/i}"
 
 # game/logic/events/Katrina.rpy:129
 translate deutsch Katrina_1_label_3bbb4635:
 
     # Don "I'm going to see how much I can get for your camera and computer."
-    Don ""
+    Don "Ich finde derweil heraus wie viel ich für deinen Computer und deine Kamera bekomme."
 
 # game/logic/events/Katrina.rpy:131
 translate deutsch Katrina_1_label_159f13c6:
 
     # Don "So that when I get back, you won't even be here."
-    Don ""
+    Don "Und wenn ich zurück bin, bist du besser nicht mehr hier."
 
 # game/logic/events/Katrina.rpy:134
 translate deutsch Katrina_1_label_ed803a1d:
 
     # ch_Name "Hold on, Don. Are you serious right now?"
-    ch_Name ""
+    ch_Name "Warte einen Moment, Don. Ist das jetzt dein Ernst?"
 
 # game/logic/events/Katrina.rpy:135
 translate deutsch Katrina_1_label_a6eca989:
 
     # ch_Name "All this for a discounted watch?"
-    ch_Name ""
+    ch_Name "Das alles für eine heruntergesetzte Uhr?"
 
 # game/logic/events/Katrina.rpy:137
 translate deutsch Katrina_1_label_0e5e4c4b:
 
     # Don "So what?"
-    Don ""
+    Don "Ja und?"
 
 # game/logic/events/Katrina.rpy:138
 translate deutsch Katrina_1_label_e47527a0:
 
     # Don "You don't get to tell me how to spend my money, pup!"
-    Don ""
+    Don "Du bestimmst nicht wie ich mein Geld ausgebe, Schnösel!"
 
 # game/logic/events/Katrina.rpy:140
 translate deutsch Katrina_1_label_b587077f:
 
     # ch_Name "So what?! What are you, cuckoo?"
-    ch_Name ""
+    ch_Name "Ja und?! Bist du durchgeknallt?"
 
 # game/logic/events/Katrina.rpy:142
 translate deutsch Katrina_1_label_17614078:
@@ -532,43 +532,43 @@ translate deutsch Katrina_1_label_027b1c56:
 translate deutsch Katrina_1_label_d2007cb3_1:
 
     # Don "How dare you talk to me like that?"
-    Don ""
+    Don "Du wagst es so mit mir zu reden?"
 
 # game/logic/events/Katrina.rpy:149
 translate deutsch Katrina_1_label_a2ae2aa0_1:
 
     # Don "Ungrateful piece of shit."
-    Don ""
+    Don "Undankbares Stück Scheiße."
 
 # game/logic/events/Katrina.rpy:150
 translate deutsch Katrina_1_label_24caf8e7:
 
     # ch_Name "{i}(Ugh... That's a hell of a punch. It's ringing in my ears.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ugh... Das ist ein Teufelsschlag. Es klingelt in meinen Ohren.){/i}"
 
 # game/logic/events/Katrina.rpy:152
 translate deutsch Katrina_1_label_9d235d11_1:
 
     # Don "Get up and get out of here."
-    Don ""
+    Don "Steh auf und verschwinde."
 
 # game/logic/events/Katrina.rpy:153
 translate deutsch Katrina_1_label_92cf679b_1:
 
     # ch_Name "{i}(I can barely make out what he's saying...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich kann kaum verstehen, was er sagt...){/i}"
 
 # game/logic/events/Katrina.rpy:155
 translate deutsch Katrina_1_label_3bbb4635_1:
 
     # Don "I'm going to see how much I can get for your camera and computer."
-    Don ""
+    Don "Ich finde derweil heraus wie viel ich für deinen Computer und deine Kamera bekomme."
 
 # game/logic/events/Katrina.rpy:157
 translate deutsch Katrina_1_label_88097224:
 
     # Don "I don't want to see you here, when I get back."
-    Don ""
+    Don "Ich will dich hier nicht mehr sehen, wenn ich zurück komme."
 
 # game/logic/events/Katrina.rpy:163
 translate deutsch Katrina_1_label_eddfc16f:
