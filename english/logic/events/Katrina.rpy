@@ -22,7 +22,7 @@ translate english Katrina_1_label_8ccc1536:
 translate english Katrina_1_label_d2fd5b41:
 
     # ch_Name "{i}(What happened yesterday? I can't remember.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Why can't I remember what happened yesterday?){/i}"
 
 # game/logic/events/Katrina.rpy:12
 translate english Katrina_1_label_8a1aa597:
@@ -34,19 +34,19 @@ translate english Katrina_1_label_8a1aa597:
 translate english Katrina_1_label_913db7e4:
 
     # ch_Name "What the hell... What am I doing here?!"
-    ch_Name ""
+    ch_Name "{i}(What the hell... Why am I in my room?!){/i}"
 
 # game/logic/events/Katrina.rpy:15
 translate english Katrina_1_label_2f6462d4:
 
     # ch_Name "I was..."
-    ch_Name ""
+    ch_Name "{i}(I was... {w}I was...){/i}"
 
 # game/logic/events/Katrina.rpy:16
 translate english Katrina_1_label_625bc507:
 
     # ch_Name "{i}(I can't remember... But I definitely wasn't here. Right?..){/i}"
-    ch_Name ""
+    ch_Name "{i}(Why can't I remember where I was... Definitely not here though. Right?..){/i}"
 
 # game/logic/events/Katrina.rpy:17
 translate english Katrina_1_label_18bebd9d:
@@ -57,7 +57,7 @@ translate english Katrina_1_label_18bebd9d:
 # game/logic/events/Katrina.rpy:19
 translate english Katrina_1_label_e3defce8:
 
-    # ch_Name "{i}(No. No. No.){/i}"
+    # ch_Name "{i}(No. No. No!){/i}"
     ch_Name ""
 
 # game/logic/events/Katrina.rpy:20
@@ -76,31 +76,31 @@ translate english Katrina_1_label_6b707201:
 translate english Katrina_1_label_d948a5cb:
 
     # ch_Name "{i}(I remember exactly, there was a letter...){/i}"
-    ch_Name ""
+    ch_Name "{i}(I remember now, I got a letter...){/i}"
 
 # game/logic/events/Katrina.rpy:24
 translate english Katrina_1_label_06ecb25b:
 
     # ch_Name "{i}(Yes, that's right! A letter!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Yes, that's right! I got a letter!){/i}"
 
 # game/logic/events/Katrina.rpy:26
 translate english Katrina_1_label_760ac188:
 
     # ch_Name "{i}(How could I forget getting a letter?){/i}"
-    ch_Name ""
+    ch_Name "{i}(How could I forget that?){/i}"
 
 # game/logic/events/Katrina.rpy:27
 translate english Katrina_1_label_25ce2f6d:
 
     # ch_Name "{i}(That almost never happens to me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(I almost never get anything in the mail.){/i}"
 
 # game/logic/events/Katrina.rpy:29
 translate english Katrina_1_label_13dd8db6:
 
     # ch_Name "{i}(Especially since the invention of emails and mobile phones.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Usually I just get an email or a call if someone wants to get ahold of me, but snail-mail? Almost never.){/i}"
 
 # game/logic/events/Katrina.rpy:30
 translate english Katrina_1_label_f628c877:
@@ -112,7 +112,7 @@ translate english Katrina_1_label_f628c877:
 translate english Katrina_1_label_f4b6a0fc:
 
     # ch_Name "{i}(Samantha was talking about a letter from the school of magic.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Samantha told me about a letter... {w} Cordale, a school for magic.){/i}"
 
 # game/logic/events/Katrina.rpy:37
 translate english Katrina_1_label_e08eb391:
@@ -124,25 +124,25 @@ translate english Katrina_1_label_e08eb391:
 translate english Katrina_1_label_5634a664:
 
     # ch_Name "{i}(We have to go to the train station today. I'm gonna be late!){/i}"
-    ch_Name ""
+    ch_Name "{i}(We have to be at the train station by noon. Shit! I'm gonna be late!){/i}"
 
 # game/logic/events/Katrina.rpy:41
 translate english Katrina_1_label_fd113125:
 
     # ch_Name "{i}(I have to find Samantha. I hope I didn't oversleep.){/i}"
-    ch_Name ""
+    ch_Name "{i}(I have to find Samantha. I hope she didn't leave without me.){/i}"
 
 # game/logic/events/Katrina.rpy:47
 translate english Katrina_1_label_f6725d6b:
 
     # ch_Name "{i}(Here she is!){/i}"
-    ch_Name ""
+    ch_Name "{i}(There she is!){/i}"
 
 # game/logic/events/Katrina.rpy:48
 translate english Katrina_1_label_d61d34f4:
 
     # ch_Name "Samantha! Wait a minute."
-    ch_Name ""
+    ch_Name "Samantha! Hold up."
 
 # game/logic/events/Katrina.rpy:50
 translate english Katrina_1_label_b611f880:
@@ -166,7 +166,7 @@ translate english Katrina_1_label_b09af744:
 translate english Katrina_1_label_0e341179:
 
     # ch_Name "Can you call a cab?"
-    ch_Name ""
+    ch_Name "Can you call the cab?"
 
 # game/logic/events/Katrina.rpy:55
 translate english Katrina_1_label_2d5efd43:
@@ -184,13 +184,13 @@ translate english Katrina_1_label_7f5e4de6:
 translate english Katrina_1_label_bd3b0136:
 
     # ch_Name "You don't have to do that. We're going to the academy together."
-    ch_Name ""
+    ch_Name "You don't have to do that. We're going to the academy together right?"
 
 # game/logic/events/Katrina.rpy:58
 translate english Katrina_1_label_f045b6ee:
 
     # ch_Name "By the way, where's my letter, did you get it from Olivia?"
-    ch_Name ""
+    ch_Name "By the way, did you get my letter from Olivia?"
 
 # game/logic/events/Katrina.rpy:60
 translate english Katrina_1_label_026a9f57:
@@ -208,7 +208,7 @@ translate english Katrina_1_label_d58f5d79:
 translate english Katrina_1_label_1241f5af:
 
     # Samantha "Did you really fall for that childish prank? No, what, really?"
-    Samantha ""
+    Samantha "Did you actually fall for that little prank? Really?"
 
 # game/logic/events/Katrina.rpy:64
 translate english Katrina_1_label_8d43ee78:
@@ -220,7 +220,7 @@ translate english Katrina_1_label_8d43ee78:
 translate english Katrina_1_label_08d8b9a6:
 
     # Samantha "I can't believe you're such a loser that you fell for it."
-    Samantha ""
+    Samantha "What a loser, I can't believe you fell for that."
 
 # game/logic/events/Katrina.rpy:67
 translate english Katrina_1_label_b925146b:
@@ -232,31 +232,31 @@ translate english Katrina_1_label_b925146b:
 translate english Katrina_1_label_37c38f7d:
 
     # ch_Name "{i}(How is it... It all seemed so real.){/i}"
-    ch_Name ""
+    ch_Name "{i}(How... It all seemed so real.){/i}"
 
 # game/logic/events/Katrina.rpy:69
 translate english Katrina_1_label_9f5c2061:
 
     # ch_Name "{i}(Maybe I really am such a loser that I'm willing to believe in magic.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Maybe I really am a loser? If I'm willing to believe in magic...){/i}"
 
 # game/logic/events/Katrina.rpy:71
 translate english Katrina_1_label_e689fd8d:
 
     # Don "[Name], GET OVER HERE!"
-    Don ""
+    Don "[Name], GET DOWN HERE!"
 
 # game/logic/events/Katrina.rpy:72
 translate english Katrina_1_label_08dc6245:
 
     # ch_Name "{i}(Great, another quarrel with Don is what I need now.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Great, another fight with Don... just what I need right now.){/i}"
 
 # game/logic/events/Katrina.rpy:74
 translate english Katrina_1_label_615d2280:
 
     # ch_Name "{i}(Better not keep him waiting.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Better see what he wants.){/i}"
 
 # game/logic/events/Katrina.rpy:75
 translate english Katrina_1_label_7c05334e:
@@ -328,7 +328,7 @@ translate english Katrina_1_label_6be7e5fb:
 translate english Katrina_1_label_6706d91d:
 
     # Don "You don't study, you pay the rent."
-    Don ""
+    Don "If you aren't going to school, then you're paying rent."
 
 # game/logic/events/Katrina.rpy:95
 translate english Katrina_1_label_d0450104:
@@ -352,13 +352,13 @@ translate english Katrina_1_label_8da30f91:
 translate english Katrina_1_label_7c0d2d20:
 
     # Don "What can I say? It's time!"
-    Don ""
+    Don "What did I say? It's time!"
 
 # game/logic/events/Katrina.rpy:100
 translate english Katrina_1_label_d9952f2c:
 
     # Don "A new watch isn't going to buy itself."
-    Don ""
+    Don "This new watch isn't going to buy itself."
 
 # game/logic/events/Katrina.rpy:101
 translate english Katrina_1_label_e63708fc:
@@ -412,7 +412,7 @@ translate english Katrina_1_label_2051c3f0:
 translate english Katrina_1_label_10b2a5f8:
 
     # ch_Name "What are you, cuckoo?"
-    ch_Name ""
+    ch_Name "What are you, crazy?"
 
 # game/logic/events/Katrina.rpy:117
 translate english Katrina_1_label_c768b14a:
@@ -448,7 +448,7 @@ translate english Katrina_1_label_a2ae2aa0:
 translate english Katrina_1_label_2bfd0a34:
 
     # ch_Name "{i}(That's quite a punch he's got. It's ringing in his ears.){/i}"
-    ch_Name ""
+    ch_Name "{i}(That's quite the punch he's got. My ears are still ringing.){/i}"
 
 # game/logic/events/Katrina.rpy:126
 translate english Katrina_1_label_9d235d11:
@@ -472,7 +472,7 @@ translate english Katrina_1_label_3bbb4635:
 translate english Katrina_1_label_159f13c6:
 
     # Don "So that when I get back, you won't even be here."
-    Don ""
+    Don "When I get back it be better if you were gone, for your sake."
 
 # game/logic/events/Katrina.rpy:134
 translate english Katrina_1_label_ed803a1d:
@@ -484,7 +484,7 @@ translate english Katrina_1_label_ed803a1d:
 translate english Katrina_1_label_a6eca989:
 
     # ch_Name "All this for a discounted watch?"
-    ch_Name ""
+    ch_Name "You're doing this for some watch?"
 
 # game/logic/events/Katrina.rpy:137
 translate english Katrina_1_label_0e5e4c4b:
@@ -501,7 +501,7 @@ translate english Katrina_1_label_e47527a0:
 # game/logic/events/Katrina.rpy:140
 translate english Katrina_1_label_b587077f:
 
-    # ch_Name "So what?! What are you, cuckoo?"
+    # ch_Name "So what?! What are you, crazy?"
     ch_Name ""
 
 # game/logic/events/Katrina.rpy:142
@@ -544,13 +544,13 @@ translate english Katrina_1_label_a2ae2aa0_1:
 translate english Katrina_1_label_24caf8e7:
 
     # ch_Name "{i}(Ugh... That's a hell of a punch. It's ringing in my ears.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ugh... That's a hell of a punch. My ears are still ringing.){/i}"
 
 # game/logic/events/Katrina.rpy:152
 translate english Katrina_1_label_9d235d11_1:
 
     # Don "Get up and get out of here."
-    Don ""
+    Don "Pathetic little shit, get up and get out!"
 
 # game/logic/events/Katrina.rpy:153
 translate english Katrina_1_label_92cf679b_1:
@@ -567,8 +567,8 @@ translate english Katrina_1_label_3bbb4635_1:
 # game/logic/events/Katrina.rpy:157
 translate english Katrina_1_label_88097224:
 
-    # Don "I don't want to see you here, when I get back."
-    Don ""
+    # Don "I don't want to see you here when I get back."
+    Don "I better not see you here when I get back."
 
 # game/logic/events/Katrina.rpy:163
 translate english Katrina_1_label_eddfc16f:
@@ -670,13 +670,13 @@ translate english Katrina_1_label_0fa69eb1:
 translate english Katrina_1_label_bacd23da:
 
     # ch_Name "Can I at least get up fist?"
-    ch_Name ""
+    ch_Name "Can I at least get up first?"
 
 # game/logic/events/Katrina.rpy:188
 translate english Katrina_1_label_15cccf7b:
 
     # Olivia "Nah, I like it this way."
-    Olivia ""
+    Olivia "Nuh-uh, I prefer you like this."
 
 # game/logic/events/Katrina.rpy:189
 translate english Katrina_1_label_49ccbcd9:
@@ -688,13 +688,13 @@ translate english Katrina_1_label_49ccbcd9:
 translate english Katrina_1_label_222d4f82:
 
     # ch_Name "{i}(Olivia never acted like this.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Olivia has never acted like this before.){/i}"
 
 # game/logic/events/Katrina.rpy:192
 translate english Katrina_1_label_232ebe10:
 
     # Olivia "Hey. I have a great Idea."
-    Olivia ""
+    Olivia "Hey, I have a great idea."
 
 # game/logic/events/Katrina.rpy:194
 translate english Katrina_1_label_3debd31a:
@@ -718,13 +718,13 @@ translate english Katrina_1_label_5eb602a8:
 translate english Katrina_1_label_f9313e09:
 
     # ch_Name "{i}(This is interesting. What's got into her?){/i}"
-    ch_Name ""
+    ch_Name "{i}(This is interesting. What's gotten into her?){/i}"
 
 # game/logic/events/Katrina.rpy:202
 translate english Katrina_1_label_6459c863:
 
     # ch_Name "{i}(Maybe she had too much wine?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Maybe she's had too much wine?){/i}"
 
 # game/logic/events/Katrina.rpy:204
 translate english Katrina_1_label_4172b047:
@@ -790,7 +790,7 @@ translate english Katrina_1_label_e4fb603a:
 translate english Katrina_1_label_32c12636:
 
     # ch_Name "{i}(I can't understand why you are doing all this.){/i}"
-    ch_Name ""
+    ch_Name "{i}(I can't understand why you're doing all this.){/i}"
 
 # game/logic/events/Katrina.rpy:218
 translate english Katrina_1_label_73a5100b:
@@ -808,7 +808,7 @@ translate english Katrina_1_label_e2fe8232:
 translate english Katrina_1_label_c17bfaec:
 
     # ch_Name "{i}(I need to find out what's got into her...){/i}"
-    ch_Name ""
+    ch_Name "{i}(I need to find out what's gotten into her...){/i}"
 
 # game/logic/events/Katrina.rpy:224
 translate english Katrina_1_label_39b1a1c0:
@@ -832,7 +832,7 @@ translate english Katrina_1_label_412400e1:
 translate english Katrina_1_label_95810372:
 
     # Olivia "Why did I ever think you could fit in my house."
-    Olivia ""
+    Olivia "Why did I ever think you could be a part of my family."
 
 # game/logic/events/Katrina.rpy:230
 translate english Katrina_1_label_03b6c80d:
@@ -850,7 +850,7 @@ translate english Katrina_1_label_e0730eec:
 translate english Katrina_1_label_1947d4ae:
 
     # ch_Name "{i}(What's got into her?){/i}"
-    ch_Name ""
+    ch_Name "{i}(What's gotten into her?){/i}"
 
 # game/logic/events/Katrina.rpy:235
 translate english Katrina_1_label_c7e4e0c6:
@@ -874,7 +874,7 @@ translate english Katrina_1_label_85bfd5b2:
 translate english Katrina_1_label_2c062e17:
 
     # Olivia "Your eviction, honey, What else?"
-    Olivia ""
+    Olivia "Your eviction honey, what else?"
 
 # game/logic/events/Katrina.rpy:240
 translate english Katrina_1_label_6d24f1b0:
@@ -892,13 +892,13 @@ translate english Katrina_1_label_01d7c6fe:
 translate english Katrina_1_label_0798b536:
 
     # Olivia "Ever since we got you... Everything went to shit."
-    Olivia ""
+    Olivia "Everything went to shit after we took you in."
 
 # game/logic/events/Katrina.rpy:244
 translate english Katrina_1_label_cfd2ebf1:
 
     # Olivia "It once was a happy marriage, you know. Me and Don."
-    Olivia ""
+    Olivia "We used to be happy, you know. Don and me had the perfect marriage."
 
 # game/logic/events/Katrina.rpy:245
 translate english Katrina_1_label_5c0abdf4:
@@ -916,25 +916,25 @@ translate english Katrina_1_label_bee32615:
 translate english Katrina_1_label_a89e405b:
 
     # Olivia "Don could not leave me with you and girls."
-    Olivia ""
+    Olivia "Don wouldn't leave me with, not with you and the girls."
 
 # game/logic/events/Katrina.rpy:248
 translate english Katrina_1_label_4c30839d:
 
     # Olivia "But he could never forgive me too."
-    Olivia ""
+    Olivia "But he couldn't forgive me either."
 
 # game/logic/events/Katrina.rpy:249
 translate english Katrina_1_label_67841cf7:
 
     # ch_Name "But why... Why do you blame me?"
-    ch_Name ""
+    ch_Name "But why... how is that my fault?"
 
 # game/logic/events/Katrina.rpy:251
 translate english Katrina_1_label_86df8eaf:
 
     # Olivia "Do you even have to ask?"
-    Olivia ""
+    Olivia "Do you really need to ask?"
 
 # game/logic/events/Katrina.rpy:252
 translate english Katrina_1_label_fe36da31:
@@ -945,14 +945,14 @@ translate english Katrina_1_label_fe36da31:
 # game/logic/events/Katrina.rpy:253
 translate english Katrina_1_label_82e2f59a:
 
-    # Olivia "Burdened us with yourself. "
-    Olivia ""
+    # Olivia "Burdened us with yourself."
+    Olivia "You've been a burden since the day you were born."
 
 # game/logic/events/Katrina.rpy:255
 translate english Katrina_1_label_fe5dda95:
 
     # ch_Name "If I was such a burden, why didn't you give me for adoption?"
-    ch_Name ""
+    ch_Name "If I was such a burden, why didn't you give me up for adoption?"
 
 # game/logic/events/Katrina.rpy:257
 translate english Katrina_1_label_ec21cd3c:
@@ -964,13 +964,13 @@ translate english Katrina_1_label_ec21cd3c:
 translate english Katrina_1_label_2c5acbcc:
 
     # Olivia "But how could I? I promised her to take care of you..."
-    Olivia ""
+    Olivia "How could I? I promised her I'd take care of you..."
 
 # game/logic/events/Katrina.rpy:259
 translate english Katrina_1_label_9b073e9a:
 
     # Olivia "Can you imagine how stupid I was?"
-    Olivia ""
+    Olivia "Can you imagine my stupidity?"
 
 # game/logic/events/Katrina.rpy:261
 translate english Katrina_1_label_b9bb2823:
@@ -994,13 +994,13 @@ translate english Katrina_1_label_98a47304:
 translate english Katrina_1_label_5ac8323b:
 
     # Olivia "Don't interrupt me, worthless worm!"
-    Olivia ""
+    Olivia "Don't interrupt me, maggot!"
 
 # game/logic/events/Katrina.rpy:266
 translate english Katrina_1_label_8967e159:
 
     # Olivia "How do you feel now, when all your wrongdoings are coming back to you?"
-    Olivia ""
+    Olivia "How does it feel now to face all your wrongdoing?"
 
 # game/logic/events/Katrina.rpy:267
 translate english Katrina_1_label_fdeac94d:
@@ -1036,7 +1036,7 @@ translate english Katrina_1_label_809d0262:
 translate english Katrina_1_label_bc3deadb:
 
     # Olivia "If I were you. I'd crawl up some empty hole and die there."
-    Olivia ""
+    Olivia "If I were you I'd crawl into an empty hole and die."
 
 # game/logic/events/Katrina.rpy:274
 translate english Katrina_1_label_5e13d69a:
@@ -1095,8 +1095,8 @@ translate english Katrina_1_label_63112168:
 # game/logic/events/Katrina.rpy:286
 translate english Katrina_1_label_85a6c616:
 
-    # ch_Name "Or maybe I heard it wrong. "
-    ch_Name ""
+    # ch_Name "Or maybe I heard it wrong."
+    ch_Name "Or maybe I misheard you."
 
 # game/logic/events/Katrina.rpy:287
 translate english Katrina_1_label_9e5ef16e:
@@ -1132,7 +1132,7 @@ translate english Katrina_1_label_f795ff95:
 translate english Katrina_1_label_b8128d00:
 
     # ch_Name "Still mad, that I've chosen a better house?"
-    ch_Name ""
+    ch_Name "Still mad that I chose a better house?"
 
 # game/logic/events/Katrina.rpy:296
 translate english Katrina_1_label_38c8fc59:
@@ -1150,7 +1150,7 @@ translate english Katrina_1_label_d05c2d71:
 translate english Katrina_1_label_13fdc073:
 
     # ch_Name "It wasn't very hard. You should have drank more imaginary wine."
-    ch_Name ""
+    ch_Name "It wasn't very hard. You should've drank more of your imaginary wine."
 
 # game/logic/events/Katrina.rpy:300
 translate english Katrina_1_label_4d57fc97:
@@ -1168,7 +1168,7 @@ translate english Katrina_1_label_04024769:
 translate english Katrina_1_label_1b68c28f:
 
     # Katrina "And once upon a night you won't find a way back."
-    Katrina ""
+    Katrina "One of these nights you won't find a way back."
 
 # game/logic/events/Katrina.rpy:310
 translate english Katrina_1_label_027b1c56_1:
@@ -1180,13 +1180,13 @@ translate english Katrina_1_label_027b1c56_1:
 translate english Katrina_1_label_5e347f10:
 
     # ch_Name "Fuck... This dream was too real. Fuck!"
-    ch_Name ""
+    ch_Name "Fuck... that dream was too real. Fuck!"
 
 # game/logic/events/Katrina.rpy:312
 translate english Katrina_1_label_8bc0d4c7:
 
     # ch_Name "I can't leave this like that."
-    ch_Name ""
+    ch_Name "I can't leave this like that."
 
 # game/logic/events/Katrina.rpy:314
 translate english Katrina_1_label_84c46967:
@@ -1216,13 +1216,13 @@ translate english Katrina_1_label_7151a4de:
 translate english Katrina_1_label_025e6c8e:
 
     # ch_Name "But if I want to make it in time for Victoria's lesson, I don't have much time."
-    ch_Name ""
+    ch_Name "I don't have much time if I want to attend Victoria's lesson."
 
 # game/logic/events/Katrina.rpy:321
 translate english Katrina_1_label_470add5b:
 
     # ch_Name "I can have a cup of coffee with Audrey or tell Lily that I've won the bet."
-    ch_Name ""
+    ch_Name "I can have a cup of coffee with Audrey, {w} or tell Lily that I won our bet."
 
 translate english strings:
 
