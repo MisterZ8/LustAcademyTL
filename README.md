@@ -19,7 +19,7 @@ First of all, translation are done with the [Ren'py](https://www.renpy.org/) fra
 
 Important
 --------
-Do not translate **Game name, Characters names, Places names (like Cordale)**
+Do not translate **Game name, Characters names, Places names (like Cordale), Variables**
 
 if you feel something does not need to be translated, such as technical text
 
