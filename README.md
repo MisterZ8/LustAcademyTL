@@ -106,6 +106,21 @@ You make changes:
 
 ![image](https://user-images.githubusercontent.com/79453594/151215201-685efc9c-67e0-4dcd-aa0c-b6ead15662bf.png)
 
+Important
+--------
+Do not translate **Game name, Characters names, Places names (like Cordale)**
+
+if you feel something does not need to be translated, such as technical text
+
+**old "Tab"**
+
+**new ""**
+
+Just leave the fields blank.
+
+**DO NOT EDIT "old" TEXT, ONLY "new" ONE!**
+
+
 To save (propose) your changes:
 
 ![image](https://user-images.githubusercontent.com/79453594/151215261-16e4313b-5169-4ea1-abd1-8d636adde572.png)
