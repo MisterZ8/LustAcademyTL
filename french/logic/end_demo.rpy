@@ -4,5 +4,5 @@ translate french strings:
 
     # game/logic/end_demo.rpy:3
     old "To Be Continued"
-    new ""
+    new "À suivre"
 
