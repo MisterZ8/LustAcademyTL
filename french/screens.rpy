@@ -74,7 +74,7 @@ translate french strings:
 
     # game/screens.rpy:2096
     old "{#file_time}%A, %B %d %Y, %H:%M"
-    new "{#file_time}%A  %d %B %Y, %H:%M"
+    new "{#file_time}%A, %d %B %Y, %H:%M"
 
     # game/screens.rpy:2096
     old "empty slot"
