@@ -64,6 +64,16 @@ It has to be translated like that. "%" is a special character.
 
 Those are used to be replaced with something. In most cases that is character names. (In this case, it will be replaced with the name that player selected for him main character).
 
+**Don't translate variables and just leave them.**
+
+Usually variables looks like: [Name], %s , #weekday, {#weekday_short}
+
+Example:
+
+ old "{#weekday_short}Tue"
+ 
+ new "{#weekday_short}Вт"
+
 ## Quotations
 
 ![image](https://user-images.githubusercontent.com/79453594/151211042-a4ad8faf-36c4-403b-ba5c-16b3dd6d84e8.png)
