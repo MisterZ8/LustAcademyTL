@@ -274,7 +274,7 @@ translate french start_input_2_2aa9b9d5:
 translate french start_input_2_b33dc905:
 
     # Olivia "I see how hard you’re \"working\"!"
-    Olivia "J'vois a quel point t'y "\"travailles\"!"
+    Olivia "J'vois a quel point t'y \"travailles\"!"
 
 # game/script.rpy:919
 translate french start_input_2_691c3787:
