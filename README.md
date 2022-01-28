@@ -29,6 +29,8 @@ if you feel something does not need to be translated, such as technical text
 
 Just leave the fields blank.
 
+**DO NOT EDIT "old" TEXT, ONLY "new" ONE!**
+
 # How to work with RenPy
 
 RenPy is quite simple. Every scene in the game is translated in a separate file like "d04s03.rpy".  
