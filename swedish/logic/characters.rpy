@@ -16,7 +16,7 @@ translate swedish strings:
 
     # game/logic/characters.rpy:10
     old "Note"
-    new ""
+    new "Notera"
 
     # game/logic/characters.rpy:11
     old "Adele"
@@ -76,7 +76,7 @@ translate swedish strings:
 
     # game/logic/characters.rpy:25
     old "Giant"
-    new ""
+    new "Jätte"
 
     # game/logic/characters.rpy:26
     old "Gordon"
@@ -176,17 +176,17 @@ translate swedish strings:
 
     # game/logic/characters.rpy:52
     old "Unknown Man"
-    new ""
+    new "Okänd Man"
 
     # game/logic/characters.rpy:54
     old "Guy"
-    new ""
+    new "Kille"
 
     # game/logic/characters.rpy:55
     old "Unknown Girl"
-    new ""
+    new "Okänd Tjej"
 
     # game/logic/characters.rpy:59
     old "Unknown elf"
-    new ""
+    new "Okänd Älva"
 
