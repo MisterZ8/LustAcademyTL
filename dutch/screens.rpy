@@ -4,13 +4,13 @@
 translate dutch not_now_label_44591089:
 
     # "[Name]" "{i}(There's nothing we can talk about right now.){/i}"
-    "[Name]" ""
+    "[Name]" "{i}(Er is nu niets om te bespreken.){/i}"
 
 translate dutch strings:
 
     # game/screens.rpy:896
     old "New game"
-    new ""
+    new "Nieuw spel"
 
     # game/screens.rpy:914
     old "Xmas Special"
@@ -18,39 +18,39 @@ translate dutch strings:
 
     # game/screens.rpy:934
     old "History"
-    new ""
+    new "Geschiedenis"
 
     # game/screens.rpy:951
     old "Save"
-    new ""
+    new "Opslaan"
 
     # game/screens.rpy:969
     old "Settings"
-    new ""
+    new "Instellingen"
 
     # game/screens.rpy:986
     old "Load"
-    new ""
+    new "Laden"
 
     # game/screens.rpy:1006
     old "Main Menu"
-    new ""
+    new "Hoofdmenu"
 
     # game/screens.rpy:1024
     old "Credits"
-    new ""
+    new "Met dank aan"
 
     # game/screens.rpy:1042
     old "Gallery"
-    new ""
+    new "Gallerij"
 
     # game/screens.rpy:1063
     old "Help"
-    new ""
+    new "Hulp"
 
     # game/screens.rpy:1087
     old "Quit"
-    new ""
+    new "Afsluiten"
 
     # game/screens.rpy:1150
     old "Details"
@@ -58,19 +58,19 @@ translate dutch strings:
 
     # game/screens.rpy:1150
     old "Not now"
-    new ""
+    new "Nu niet"
 
     # game/screens.rpy:2007
     old "Page {}"
-    new ""
+    new "Pagina {}"
 
     # game/screens.rpy:2007
     old "Automatic saves"
-    new ""
+    new "Automatisch opslaan"
 
     # game/screens.rpy:2007
     old "Quick saves"
-    new ""
+    new "Snel opslaan"
 
     # game/screens.rpy:2096
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -78,15 +78,15 @@ translate dutch strings:
 
     # game/screens.rpy:2096
     old "empty slot"
-    new ""
+    new "leeg slot"
 
     # game/screens.rpy:2118
     old "Yes"
-    new ""
+    new "Ja"
 
     # game/screens.rpy:2118
     old "No"
-    new ""
+    new "Nee"
 
     # game/screens.rpy:2178
     old "{#auto_page}A"
@@ -98,79 +98,79 @@ translate dutch strings:
 
     # game/screens.rpy:2572
     old "MUTE ALL"
-    new ""
+    new "ALLES DEMPEN"
 
     # game/screens.rpy:2770
     old "The dialogue history is empty."
-    new ""
+    new "Het dialoog geschiedenis is leeg."
 
     # game/screens.rpy:2855
     old "Rolls forward to later dialogue."
-    new ""
+    new "Rolt vooruit naar een later dialoog."
 
     # game/screens.rpy:2855
     old "Opens the inventory menu."
-    new ""
+    new "Opent het inventaris menu."
 
     # game/screens.rpy:2855
     old "Opens the phone menu."
-    new ""
+    new "Opent het telefoon menu."
 
     # game/screens.rpy:2855
     old "Opens the list of available routes."
-    new ""
+    new "Opent de lijst met beschikbare routes."
 
     # game/screens.rpy:2880
     old "Takes a screenshot."
-    new ""
+    new "Neemt een schermafbeelding."
 
     # game/screens.rpy:2880
     old "Opens the map."
-    new ""
+    new "Opent de kaart."
 
     # game/screens.rpy:2880
     old "Advances dialogue without selecting choices."
-    new ""
+    new "Vordert dialoog zonder keuzes te selecteren."
 
     # game/screens.rpy:2880
     old "Skips dialogue while held down."
-    new ""
+    new "Slaat dialoog over tijdens het indrukken."
 
     # game/screens.rpy:2880
     old "Toggles dialogue skipping."
-    new ""
+    new "Schakelt tussen dialoog overslaan."
 
     # game/screens.rpy:2880
     old "Rolls back to earlier dialogue."
-    new ""
+    new "Rolt achteruit naar een eerder dialoog."
 
     # game/screens.rpy:2880
     old "Highlights all active objects."
-    new ""
+    new "Highlights alle actieve objecten."
 
     # game/screens.rpy:2880
     old "Enables fullscreen mode."
-    new ""
+    new "Schakelt volledig scherm in."
 
     # game/screens.rpy:2880
     old "Navigate the interface."
-    new ""
+    new "Navigeer de gebruikersomgeving."
 
     # game/screens.rpy:2923
     old "Enter"
-    new ""
+    new "Binnengaan"
 
     # game/screens.rpy:2924
     old "Advances dialogue and activates the interface."
-    new ""
+    new "Vordert dialoog en activeert de gebruikersomgeving."
 
     # game/screens.rpy:2927
     old "Space"
-    new ""
+    new "Spatie"
 
     # game/screens.rpy:2931
     old "Arrow Keys"
-    new ""
+    new "Pijltjestoetsen"
 
     # game/screens.rpy:2935
     old "Escape"
@@ -178,7 +178,7 @@ translate dutch strings:
 
     # game/screens.rpy:2936
     old "Accesses the game menu."
-    new ""
+    new "Geeft toegang tot het spelmenu."
 
     # game/screens.rpy:2939
     old "Ctrl"
@@ -226,7 +226,7 @@ translate dutch strings:
 
     # game/screens.rpy:2976
     old "Hides the user interface."
-    new ""
+    new "Verbergt de gebruikersomgeving."
 
     # game/screens.rpy:2978
     old "S"
@@ -258,19 +258,19 @@ translate dutch strings:
 
     # game/screens.rpy:3040
     old "Calibrate"
-    new ""
+    new "Calibreren"
 
     # game/screens.rpy:3273
     old "Skipping"
-    new ""
+    new "Aan het overslaan"
 
     # game/screens.rpy:3497
     old "Back"
-    new ""
+    new "Terug"
 
     # game/screens.rpy:3498
     old "Skip"
-    new ""
+    new "Overslaan"
 
     # game/screens.rpy:3499
     old "Auto"
