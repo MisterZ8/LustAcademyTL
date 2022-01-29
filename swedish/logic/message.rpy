@@ -4,33 +4,33 @@ translate swedish strings:
 
     # game/logic/message.rpy:3
     old "New profile: {0}"
-    new ""
+    new "Ny profil: {0}"
 
     # game/logic/message.rpy:3
     old "New notice: {0}"
-    new ""
+    new "Ny notis: {0}"
 
     # game/logic/message.rpy:3
     old "New contact in Lustagram"
-    new ""
+    new "Ny kontakt i Lustgram"
 
     # game/logic/message.rpy:3
     old "New post in Lustagram"
-    new ""
+    new "Nytt inlägg i Lustgram"
 
     # game/logic/message.rpy:3
     old "You receive {0}"
-    new ""
+    new "Du får {0}"
 
     # game/logic/message.rpy:3
     old "{0} points {1}"
-    new ""
+    new "{0} poäng {1}"
 
     # game/logic/message.rpy:3
     old "New recipe {0}"
-    new ""
+    new "Nytt recept {0}"
 
     # game/logic/message.rpy:3
     old "New spell: {0}"
-    new ""
+    new "Ny förtrollning: {0}"
 
