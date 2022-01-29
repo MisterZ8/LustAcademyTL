@@ -10,67 +10,67 @@ translate swedish strings:
 
     # game/screens.rpy:896
     old "New game"
-    new ""
+    new "Nytt spel"
 
     # game/screens.rpy:914
     old "Xmas Special"
-    new ""
+    new "Jul Special"
 
     # game/screens.rpy:934
     old "History"
-    new ""
+    new "Historia"
 
     # game/screens.rpy:951
     old "Save"
-    new ""
+    new "Spara"
 
     # game/screens.rpy:969
     old "Settings"
-    new ""
+    new "Inställningar"
 
     # game/screens.rpy:986
     old "Load"
-    new ""
+    new "Ladda in"
 
     # game/screens.rpy:1006
     old "Main Menu"
-    new ""
+    new "Huvudmeny"
 
     # game/screens.rpy:1024
     old "Credits"
-    new ""
+    new "Krediter"
 
     # game/screens.rpy:1042
     old "Gallery"
-    new ""
+    new "Galleri"
 
     # game/screens.rpy:1063
     old "Help"
-    new ""
+    new "Hjälp"
 
     # game/screens.rpy:1087
     old "Quit"
-    new ""
+    new "Lämna"
 
     # game/screens.rpy:1150
     old "Details"
-    new ""
+    new "Detaljer"
 
     # game/screens.rpy:1150
     old "Not now"
-    new ""
+    new "Inte nu"
 
     # game/screens.rpy:2007
     old "Page {}"
-    new ""
+    new "Sida {}"
 
     # game/screens.rpy:2007
     old "Automatic saves"
-    new ""
+    new "Automatisk sparning"
 
     # game/screens.rpy:2007
     old "Quick saves"
-    new ""
+    new "Snabb sparning"
 
     # game/screens.rpy:2096
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -78,15 +78,15 @@ translate swedish strings:
 
     # game/screens.rpy:2096
     old "empty slot"
-    new ""
+    new "tom plats"
 
     # game/screens.rpy:2118
     old "Yes"
-    new ""
+    new "Ja"
 
     # game/screens.rpy:2118
     old "No"
-    new ""
+    new "Nej"
 
     # game/screens.rpy:2178
     old "{#auto_page}A"
@@ -98,63 +98,63 @@ translate swedish strings:
 
     # game/screens.rpy:2572
     old "MUTE ALL"
-    new ""
+    new "TYSTA ALLA"
 
     # game/screens.rpy:2770
     old "The dialogue history is empty."
-    new ""
+    new "Dialog historian är tom."
 
     # game/screens.rpy:2855
     old "Rolls forward to later dialogue."
-    new ""
+    new "Rullar framåt till senare dialog."
 
     # game/screens.rpy:2855
     old "Opens the inventory menu."
-    new ""
+    new "Öppnar förvaringsmenyn."
 
     # game/screens.rpy:2855
     old "Opens the phone menu."
-    new ""
+    new "Öpnnar telefon menyn."
 
     # game/screens.rpy:2855
     old "Opens the list of available routes."
-    new ""
+    new "Öppnar listan av tillgängliga vägar."
 
     # game/screens.rpy:2880
     old "Takes a screenshot."
-    new ""
+    new "Tar en skärmavbild."
 
     # game/screens.rpy:2880
     old "Opens the map."
-    new ""
+    new "Öpnnar kartan."
 
     # game/screens.rpy:2880
     old "Advances dialogue without selecting choices."
-    new ""
+    new "Fortsätter dialogen utan att välja val."
 
     # game/screens.rpy:2880
     old "Skips dialogue while held down."
-    new ""
+    new "Skippar dialog när nedtryckt."
 
     # game/screens.rpy:2880
     old "Toggles dialogue skipping."
-    new ""
+    new "Växlar dialog skipping av/på"
 
     # game/screens.rpy:2880
     old "Rolls back to earlier dialogue."
-    new ""
+    new "Rullar tillbaka till tidigare dialog."
 
     # game/screens.rpy:2880
     old "Highlights all active objects."
-    new ""
+    new "Markerar alla aktiva objekt."
 
     # game/screens.rpy:2880
     old "Enables fullscreen mode."
-    new ""
+    new "Aktiverar fullskärmsläge."
 
     # game/screens.rpy:2880
     old "Navigate the interface."
-    new ""
+    new "Navigera gränssnittet."
 
     # game/screens.rpy:2923
     old "Enter"
@@ -162,15 +162,15 @@ translate swedish strings:
 
     # game/screens.rpy:2924
     old "Advances dialogue and activates the interface."
-    new ""
+    new "Fortsätter dialog och aktiverar gränssnittet."
 
     # game/screens.rpy:2927
     old "Space"
-    new ""
+    new "Mellanslag"
 
     # game/screens.rpy:2931
     old "Arrow Keys"
-    new ""
+    new "Piltangenter"
 
     # game/screens.rpy:2935
     old "Escape"
@@ -178,7 +178,7 @@ translate swedish strings:
 
     # game/screens.rpy:2936
     old "Accesses the game menu."
-    new ""
+    new "Går till spelmenyn."
 
     # game/screens.rpy:2939
     old "Ctrl"
@@ -226,7 +226,7 @@ translate swedish strings:
 
     # game/screens.rpy:2976
     old "Hides the user interface."
-    new ""
+    new "Gömmer användargränssnittet"
 
     # game/screens.rpy:2978
     old "S"
@@ -258,19 +258,19 @@ translate swedish strings:
 
     # game/screens.rpy:3040
     old "Calibrate"
-    new ""
+    new "Kalibrera"
 
     # game/screens.rpy:3273
     old "Skipping"
-    new ""
+    new "Skippar"
 
     # game/screens.rpy:3497
     old "Back"
-    new ""
+    new "Tillbaka"
 
     # game/screens.rpy:3498
     old "Skip"
-    new ""
+    new "Skippa"
 
     # game/screens.rpy:3499
     old "Auto"
@@ -278,5 +278,5 @@ translate swedish strings:
 
     # game/screens.rpy:3500
     old "Menu"
-    new ""
+    new "Meny"
 
