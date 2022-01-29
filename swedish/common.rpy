@@ -416,7 +416,7 @@ translate swedish strings:
 
     # renpy/common/00gui.rpy:386
     old "Are you sure you want to overwrite your save?"
-    new "Är du söker på att du vill skriva över din sparning?"
+    new "Är du säker på att du vill skriva över din sparning?"
 
     # renpy/common/00gui.rpy:387
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
@@ -552,23 +552,23 @@ translate swedish strings:
 
     # renpy/common/00preferences.rpy:395
     old "self voicing volume drop"
-    new ""
+    new "självröstande volymminskning"
 
     # renpy/common/00preferences.rpy:403
     old "clipboard voicing"
-    new ""
+    new "urklippsljud"
 
     # renpy/common/00preferences.rpy:412
     old "debug voicing"
-    new ""
+    new "felsöka voicing"
 
     # renpy/common/00preferences.rpy:421
     old "emphasize audio"
-    new ""
+    new "betona ljud"
 
     # renpy/common/00preferences.rpy:430
     old "rollback side"
-    new ""
+    new "rullatillbaka sida"
 
     # renpy/common/00preferences.rpy:440
     old "gl powersave"
@@ -588,35 +588,35 @@ translate swedish strings:
 
     # renpy/common/00preferences.rpy:455
     old "font size"
-    new ""
+    new "Font storlek"
 
     # renpy/common/00preferences.rpy:463
     old "font line spacing"
-    new ""
+    new "teckensnitts radavstånd"
 
     # renpy/common/00preferences.rpy:471
     old "system cursor"
-    new ""
+    new "system markör"
 
     # renpy/common/00preferences.rpy:480
     old "renderer menu"
-    new ""
+    new "renderingsmenyn"
 
     # renpy/common/00preferences.rpy:483
     old "accessibility menu"
-    new ""
+    new "tillgänglihetsmenyn"
 
     # renpy/common/00preferences.rpy:496
     old "music volume"
-    new ""
+    new "musik volym"
 
     # renpy/common/00preferences.rpy:497
     old "sound volume"
-    new ""
+    new "ljud volym"
 
     # renpy/common/00preferences.rpy:498
     old "voice volume"
-    new ""
+    new "röst volym"
 
     # renpy/common/00preferences.rpy:499
     old "mute music"
@@ -624,87 +624,87 @@ translate swedish strings:
 
     # renpy/common/00preferences.rpy:500
     old "mute sound"
-    new ""
+    new "Tysta ljud"
 
     # renpy/common/00preferences.rpy:501
     old "mute voice"
-    new ""
+    new "Tysta röst"
 
     # renpy/common/00preferences.rpy:502
     old "mute all"
-    new ""
+    new "Tysta alla"
 
     # renpy/common/00preferences.rpy:583
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new ""
+    new "Urklipp röstning aktiverad. Tryck på 'shift+C' för att inaktivera."
 
     # renpy/common/00preferences.rpy:585
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new ""
+    new "Self-voicing would say \"[renpy.display.tts.last]\". Tryck 'alt+shift+V' för att inaktivera."
 
     # renpy/common/00preferences.rpy:587
     old "Self-voicing enabled. Press 'v' to disable."
-    new ""
+    new "Självröst aktiverat. Tryck på 'v' för att inaktivera."
 
     # renpy/common/_compat/gamemenu.rpym:198
     old "Empty Slot."
-    new ""
+    new "Tom plats"
 
     # renpy/common/_compat/gamemenu.rpym:355
     old "Previous"
-    new ""
+    new "Tidigare"
 
     # renpy/common/_compat/gamemenu.rpym:362
     old "Next"
-    new ""
+    new "Nästa"
 
     # renpy/common/_compat/preferences.rpym:428
     old "Joystick Mapping"
-    new ""
+    new "Joystick kartläggning"
 
     # renpy/common/_developer/developer.rpym:38
     old "Developer Menu"
-    new ""
+    new "Utvecklarmeny"
 
     # renpy/common/_developer/developer.rpym:43
     old "Interactive Director (D)"
-    new ""
+    new "Interaktiv regissör (D)"
 
     # renpy/common/_developer/developer.rpym:45
     old "Reload Game (Shift+R)"
-    new ""
+    new "Ladda om spelet (Shift+R)"
 
     # renpy/common/_developer/developer.rpym:47
     old "Console (Shift+O)"
-    new ""
+    new "Konsol (Shift+O)"
 
     # renpy/common/_developer/developer.rpym:49
     old "Variable Viewer"
-    new ""
+    new "Variabel Viewer"
 
     # renpy/common/_developer/developer.rpym:51
     old "Image Location Picker"
-    new ""
+    new "Bildplatsväljare"
 
     # renpy/common/_developer/developer.rpym:53
     old "Filename List"
-    new ""
+    new "Filnamn lista"
 
     # renpy/common/_developer/developer.rpym:57
     old "Show Image Load Log (F4)"
-    new ""
+    new "Visa Bild Ladda Log (F4)"
 
     # renpy/common/_developer/developer.rpym:60
     old "Hide Image Load Log (F4)"
-    new ""
+    new "Göm Bild Ladda Log (F4)"
 
     # renpy/common/_developer/developer.rpym:63
     old "Image Attributes"
-    new ""
+    new "Bildattribut"
 
     # renpy/common/_developer/developer.rpym:90
     old "[name] [attributes] (hidden)"
-    new ""
+    new "[name] [attributes] (dold)"
 
     # renpy/common/_developer/developer.rpym:94
     old "[name] [attributes]"
@@ -712,19 +712,19 @@ translate swedish strings:
 
     # renpy/common/_developer/developer.rpym:143
     old "Nothing to inspect."
-    new ""
+    new "Inget att inspektera."
 
     # renpy/common/_developer/developer.rpym:154
     old "Hide deleted"
-    new ""
+    new "Hide borttaget"
 
     # renpy/common/_developer/developer.rpym:154
     old "Show deleted"
-    new ""
+    new "Show borttaget"
 
     # renpy/common/_developer/developer.rpym:278
     old "Return to the developer menu"
-    new ""
+    new "Återvänd till utvecklarmenyn"
 
     # renpy/common/_developer/developer.rpym:443
     old "Rectangle: %r"
@@ -732,23 +732,23 @@ translate swedish strings:
 
     # renpy/common/_developer/developer.rpym:448
     old "Mouse position: %r"
-    new ""
+    new "Mus position: %r"
 
     # renpy/common/_developer/developer.rpym:453
     old "Right-click or escape to quit."
-    new ""
+    new "Högerklicka eller escape för att avsluta."
 
     # renpy/common/_developer/developer.rpym:485
     old "Rectangle copied to clipboard."
-    new ""
+    new "Rektangel kopierad till urklipp."
 
     # renpy/common/_developer/developer.rpym:488
     old "Position copied to clipboard."
-    new ""
+    new "Position kopierad till urklipp."
 
     # renpy/common/_developer/developer.rpym:506
     old "Type to filter: "
-    new ""
+    new "Skriv för att filtrera: "
 
     # renpy/common/_developer/developer.rpym:631
     old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
@@ -772,27 +772,27 @@ translate swedish strings:
 
     # renpy/common/_developer/inspector.rpym:38
     old "Displayable Inspector"
-    new ""
+    new "Visningsbar inspektör"
 
     # renpy/common/_developer/inspector.rpym:61
     old "Size"
-    new ""
+    new "Storlek"
 
     # renpy/common/_developer/inspector.rpym:65
     old "Style"
-    new ""
+    new "Stil"
 
     # renpy/common/_developer/inspector.rpym:71
     old "Location"
-    new ""
+    new "Plats"
 
     # renpy/common/_developer/inspector.rpym:122
     old "Inspecting Styles of [displayable_name!q]"
-    new ""
+    new "Inspekterar stilar för [displayable_name!q]"
 
     # renpy/common/_developer/inspector.rpym:139
     old "displayable:"
-    new ""
+    new "Visningsbar:"
 
     # renpy/common/_developer/inspector.rpym:145
     old "        (no properties affect the displayable)"
@@ -816,111 +816,111 @@ translate swedish strings:
 
     # renpy/common/00iap.rpy:219
     old "Contacting App Store\nPlease Wait..."
-    new ""
+    new "Kontaktar App Store\nVänta snälla..."
 
     # renpy/common/00updater.rpy:374
     old "The Ren'Py Updater is not supported on mobile devices."
-    new ""
+    new "Ren'Py Updater stöds inte på mobila enheter."
 
     # renpy/common/00updater.rpy:496
     old "An error is being simulated."
-    new ""
+    new "Ett fel simuleras."
 
     # renpy/common/00updater.rpy:680
     old "Either this project does not support updating, or the update status file was deleted."
-    new ""
+    new "Antingen stöder det här projektet inte uppdatering eller så har uppdateringsstatusfilen tagits bort."
 
     # renpy/common/00updater.rpy:694
     old "This account does not have permission to perform an update."
-    new ""
+    new "Det här kontot har inte behörighet att utföra en uppdatering."
 
     # renpy/common/00updater.rpy:697
     old "This account does not have permission to write the update log."
-    new ""
+    new "Det här kontot har inte behörighet att skriva uppdateringsloggen."
 
     # renpy/common/00updater.rpy:724
     old "Could not verify update signature."
-    new ""
+    new "Det gick inte att verifiera uppdateringssignaturen."
 
     # renpy/common/00updater.rpy:995
     old "The update file was not downloaded."
-    new ""
+    new "Uppdateringsfilen laddades inte ned."
 
     # renpy/common/00updater.rpy:1013
     old "The update file does not have the correct digest - it may have been corrupted."
-    new ""
+    new "Uppdateringsfilen har inte rätt sammanfattning - den kan ha blivit skadad."
 
     # renpy/common/00updater.rpy:1067
     old "While unpacking {}, unknown type {}."
-    new ""
+    new "Vid uppackning av {}, okänd typ {}."
 
     # renpy/common/00updater.rpy:1433
     old "Updater"
-    new ""
+    new "Uppdaterare"
 
     # renpy/common/00updater.rpy:1440
     old "An error has occured:"
-    new ""
+    new "Ett fel har uppstått:"
 
     # renpy/common/00updater.rpy:1442
     old "Checking for updates."
-    new ""
+    new "Kollar efter uppdateringar."
 
     # renpy/common/00updater.rpy:1444
     old "This program is up to date."
-    new ""
+    new "Detta program är uppdaterat."
 
     # renpy/common/00updater.rpy:1446
     old "[u.version] is available. Do you want to install it?"
-    new ""
+    new "[u.version] är tillgänglig. Vill du installera den?"
 
     # renpy/common/00updater.rpy:1448
     old "Preparing to download the updates."
-    new ""
+    new "Förbereder för att ladda ner uppdateringarna."
 
     # renpy/common/00updater.rpy:1450
     old "Downloading the updates."
-    new ""
+    new "Laddar ner uppdateringarna."
 
     # renpy/common/00updater.rpy:1452
     old "Unpacking the updates."
-    new ""
+    new "Packar upp uppdateringarna."
 
     # renpy/common/00updater.rpy:1454
     old "Finishing up."
-    new ""
+    new "Avslutar."
 
     # renpy/common/00updater.rpy:1456
     old "The updates have been installed. The program will restart."
-    new ""
+    new "Uppdateringarna har installerats. Programmet kommer att starta om."
 
     # renpy/common/00updater.rpy:1458
     old "The updates have been installed."
-    new ""
+    new "Uppdateringarna har installerats."
 
     # renpy/common/00updater.rpy:1460
     old "The updates were cancelled."
-    new ""
+    new "Uppdateringarna avbröts."
 
     # renpy/common/00updater.rpy:1475
     old "Proceed"
-    new ""
+    new "Fortsätt"
 
     # renpy/common/00compat.rpy:320
     old "Fullscreen"
-    new ""
+    new "Fullskärm"
 
     # renpy/common/00gallery.rpy:590
     old "Image [index] of [count] locked."
-    new ""
+    new "Bild [index) av [count] är låst."
 
     # renpy/common/00gallery.rpy:610
     old "prev"
-    new ""
+    new "tidig"
 
     # renpy/common/00gallery.rpy:611
     old "next"
-    new ""
+    new "nästa"
 
     # renpy/common/00gallery.rpy:612
     old "slideshow"
@@ -928,15 +928,15 @@ translate swedish strings:
 
     # renpy/common/00gallery.rpy:613
     old "return"
-    new ""
+    new "återvänd"
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
-    new ""
+    new "Renderare"
 
     # renpy/common/00gltest.rpy:93
     old "Automatically Choose"
-    new ""
+    new "Välj automatiskt"
 
     # renpy/common/00gltest.rpy:100
     old "Force GL Renderer"
@@ -968,11 +968,11 @@ translate swedish strings:
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
-    new ""
+    new "Aktivera (No Blocklist)"
 
     # renpy/common/00gltest.rpy:159
     old "Powersave"
-    new ""
+    new "Energisparning"
 
     # renpy/common/00gltest.rpy:173
     old "Framerate"
@@ -980,7 +980,7 @@ translate swedish strings:
 
     # renpy/common/00gltest.rpy:177
     old "Screen"
-    new ""
+    new "Skärm"
 
     # renpy/common/00gltest.rpy:181
     old "60"
@@ -992,67 +992,67 @@ translate swedish strings:
 
     # renpy/common/00gltest.rpy:191
     old "Tearing"
-    new ""
+    new "River"
 
     # renpy/common/00gltest.rpy:207
     old "Changes will take effect the next time this program is run."
-    new ""
+    new "Ändringar tar plats nästa gång detta program körs."
 
     # renpy/common/00gltest.rpy:242
     old "Performance Warning"
-    new ""
+    new "Prestanda Varning"
 
     # renpy/common/00gltest.rpy:247
     old "This computer is using software rendering."
-    new ""
+    new "Den här datorn använder mjukvaruåtergivning."
 
     # renpy/common/00gltest.rpy:249
     old "This game requires use of GL2 that can't be initialised."
-    new ""
+    new "Detta spel kräver användning av GL2 som inte kan initieras."
 
     # renpy/common/00gltest.rpy:251
     old "This computer has a problem displaying graphics: [problem]."
-    new ""
+    new "Den här datorn har problem med att visa grafiker: [problem]."
 
     # renpy/common/00gltest.rpy:255
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new ""
+    new "Dess grafikdrivers kan vara inaktuella eller inte fungera korrekt. Detta kan leda till långsam eller felaktig grafikvisning."
 
     # renpy/common/00gltest.rpy:259
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new ""
+    new "Filen {a=edit:1:log.txt}log.txt{/a} kan innehålla information som hjälper dig att avgöra vad som är fel på din dator."
 
     # renpy/common/00gltest.rpy:264
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new ""
+    new "Mer information om hur du åtgärdar detta finns i {a=[url]}documentation{/a}."
 
     # renpy/common/00gltest.rpy:269
     old "Continue, Show this warning again"
-    new ""
+    new "Fortsätt, visa denna varning igen"
 
     # renpy/common/00gltest.rpy:273
     old "Continue, Don't show warning again"
-    new ""
+    new "Fortsätt, Visa inte varning igen"
 
     # renpy/common/00gltest.rpy:281
     old "Change render options"
-    new ""
+    new "Ändra renderingsalternativ"
 
     # renpy/common/00gamepad.rpy:32
     old "Select Gamepad to Calibrate"
-    new ""
+    new "Välj Gamepad för att Kalibrera"
 
     # renpy/common/00gamepad.rpy:35
     old "No Gamepads Available"
-    new ""
+    new "Inga Gamepads Tillgängliga"
 
     # renpy/common/00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
-    new ""
+    new "Kalibrerar [name] ([i]/[total])"
 
     # renpy/common/00gamepad.rpy:58
     old "Press or move the '[control!s]' [kind]."
-    new ""
+    new "Tryck eller flytta '[control!s]' [kind]."
 
     # renpy/common/00gamepad.rpy:68
     old "Skip (A)"
@@ -1060,85 +1060,85 @@ translate swedish strings:
 
     # renpy/common/00gamepad.rpy:71
     old "Back (B)"
-    new ""
+    new "Backa (B)"
 
     # renpy/common/_errorhandling.rpym:542
     old "Open"
-    new ""
+    new "Öppna"
 
     # renpy/common/_errorhandling.rpym:544
     old "Opens the traceback.txt file in a text editor."
-    new ""
+    new "Öppnar filen traceback.txt i en textredigerare."
 
     # renpy/common/_errorhandling.rpym:546
     old "Copy BBCode"
-    new ""
+    new "Kopiera BBKod"
 
     # renpy/common/_errorhandling.rpym:548
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new ""
+    new "Kopierar traceback.txt-filen till urklipp som BB-kod för forum som https://lemmasoft.renai.us/."
 
     # renpy/common/_errorhandling.rpym:550
     old "Copy Markdown"
-    new ""
+    new "Kopiera Markdown"
 
     # renpy/common/_errorhandling.rpym:552
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
-    new ""
+    new "Kopierar filen traceback.txt till urklipp som Markdown for Discord."
 
     # renpy/common/_errorhandling.rpym:581
     old "An exception has occurred."
-    new ""
+    new "Ett undantag har inträffat."
 
     # renpy/common/_errorhandling.rpym:604
     old "Rollback"
-    new ""
+    new "Rullatillbaka"
 
     # renpy/common/_errorhandling.rpym:606
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new ""
+    new "Försöker gå tillbaka till en tidigare tidpunkt, så att du kan spara eller välja ett annat val."
 
     # renpy/common/_errorhandling.rpym:613
     old "Ignores the exception, allowing you to continue."
-    new ""
+    new "Ignorerar undantaget, vilket låter dig fortsätta."
 
     # renpy/common/_errorhandling.rpym:615
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new ""
+    new "Ignorerar undantaget så att du kan fortsätta. Detta leder ofta till ytterligare fel."
 
     # renpy/common/_errorhandling.rpym:619
     old "Reload"
-    new ""
+    new "Ladda om"
 
     # renpy/common/_errorhandling.rpym:621
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new ""
+    new "Laddar om spelet från disken, sparar och återställer spelläget om möjligt."
 
     # renpy/common/_errorhandling.rpym:624
     old "Console"
-    new ""
+    new "Konsol"
 
     # renpy/common/_errorhandling.rpym:626
     old "Opens a console to allow debugging the problem."
-    new ""
+    new "Öppnar en konsol för att tillåta felsökning av problemet."
 
     # renpy/common/_errorhandling.rpym:639
     old "Quits the game."
-    new ""
+    new "Avbryter spelet."
 
     # renpy/common/_errorhandling.rpym:660
     old "Parsing the script failed."
-    new ""
+    new "Det gick inte att analysera skriptet."
 
     # renpy/common/_errorhandling.rpym:686
     old "Opens the errors.txt file in a text editor."
-    new ""
+    new "Öppnar filen errors.txt i en textredigerare."
 
     # renpy/common/_errorhandling.rpym:690
     old "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new ""
+    new "Kopierar filen errors.txt till urklipp som BBcode för forum som https://lemmasoft.renai.us/."
 
     # renpy/common/_errorhandling.rpym:694
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
-    new ""
+    new "Kopierar filen errors.txt till urklipp som Markdown for Discord."
 
