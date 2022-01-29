@@ -12,11 +12,11 @@ translate french strings:
 
     # game/logic/main_interface/quest_log_screen.rpy:257
     old "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
-    new ""
+    new "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
 
     # game/logic/main_interface/quest_log_screen.rpy:274
     old "AGE:"
-    new ""
+    new "AGE:"
 
     # game/logic/main_interface/quest_log_screen.rpy:297
     old "STATISTICS"
@@ -64,7 +64,7 @@ translate french strings:
 
     # game/logic/main_interface/quest_log_screen.rpy:683
     old "'s story for this version of the game has come to an end."
-    new " (récit) pour cette version du jeu est terminé."
+    new "Le récit pour cette version du jeu est terminé."
 
     # game/logic/main_interface/quest_log_screen.rpy:839
     old "Progress"
