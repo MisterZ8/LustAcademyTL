@@ -4,595 +4,595 @@
 translate russian CordEntrance_label_b9a07f28:
 
     # ch_Name "{i}(The academy is so big. How is it even possible to remember where to go?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Академия такая большая. Как вообще возможно запомнить, куда идти?){/i}"
 
 # game/logic/tutorial.rpy:579
 translate russian CordEntrance_label_3165fc11:
 
     # ch_Name "{i}(I think the guy going up the stairs is also a freshman.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Думаю, парень, который поднимается по лестнице, тоже первокурсник.){/i}"
 
 # game/logic/tutorial.rpy:580
 translate russian CordEntrance_label_016e0679:
 
     # ch_Name "{i}(But why is he going there? Should I follow him?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Но почему он идет туда? Должен ли я идти за ним?){/i}"
 
 # game/logic/tutorial.rpy:582
 translate russian CordEntrance_label_d0e1233a:
 
     # Jacob "Where do you think you're going, Mr. Brown?"
-    Jacob ""
+    Jacob "Как вы думаете, куда вы идете, мистер Браун?"
 
 # game/logic/tutorial.rpy:583
 translate russian CordEntrance_label_4b7232ff:
 
     # Carter "Good afternoon, Mr. Frollo."
-    Carter ""
+    Carter Добрый день, мистер Фролло.""
 
 # game/logic/tutorial.rpy:584
 translate russian CordEntrance_label_77d471be:
 
     # Carter "Ehm... Where? Why..."
-    Carter ""
+    Carter "Эм... Где? Почему..."
 
 # game/logic/tutorial.rpy:585
 translate russian CordEntrance_label_00959311:
 
     # Carter "I mean, yeah, I was going to the libraries and to class."
-    Carter ""
+    Carter "Ну, да, я иду в библиотеку и в класс"
 
 # game/logic/tutorial.rpy:586
 translate russian CordEntrance_label_2950cae5:
 
     # Jacob "And what are you doing on the second floor, then?"
-    Jacob ""
+    Jacob "А что вы тогда делаете на втором этаже?"
 
 # game/logic/tutorial.rpy:588
 translate russian CordEntrance_label_df5a3cec:
 
     # Carter "Isn't that where I need to go?"
-    Carter ""
+    Carter "Разве мне нужно идти не туда?"
 
 # game/logic/tutorial.rpy:589
 translate russian CordEntrance_label_c3688de3:
 
     # Jacob "I thought Crowhive took bright students."
-    Jacob ""
+    Jacob "Я думал, что Crowhive взяла способных учеников."
 
 # game/logic/tutorial.rpy:590
 translate russian CordEntrance_label_26ca3eeb:
 
     # Jacob "It's sad to see Jaina's standards fall so low."
-    Jacob ""
+    Jacob "Грустно видеть, что стандарты Jaina падают так низко."
 
 # game/logic/tutorial.rpy:591
 translate russian CordEntrance_label_f96d3ac5:
 
     # Jacob "First-year students have no business being on the second floor of the academy."
-    Jacob ""
+    Jacob "Первокурсникам нечего делать на втором этаже академии."
 
 # game/logic/tutorial.rpy:592
 translate russian CordEntrance_label_d3703568:
 
     # Carter "But, sir..."
-    Carter ""
+    Carter "Но, сэр..."
 
 # game/logic/tutorial.rpy:593
 translate russian CordEntrance_label_37219890:
 
     # Carter "Where should I go then?"
-    Carter ""
+    Carter "Тогда куда мне идти?"
 
 # game/logic/tutorial.rpy:595
 translate russian CordEntrance_label_0fdab458:
 
     # Jacob "The entrance to the library and the classrooms is in the inner courtyard of the academy."
-    Jacob ""
+    Jacob "Вход в библиотеку и кабинеты находится во внутреннем дворе академии."
 
 # game/logic/tutorial.rpy:596
 translate russian CordEntrance_label_824eb68a:
 
     # Jacob "To get there, just go through one of the two arches on either side of the stairs."
-    Jacob ""
+    Jacob "Чтобы попасть туда, просто пройдите через одну из двух арок по обе стороны от лестницы."
 
 # game/logic/tutorial.rpy:597
 translate russian CordEntrance_label_fca81d84:
 
     # Jacob "Then turn to left. You need the first door."
-    Jacob ""
+    Jacob "Затем поверните налево. Вам нужна первая дверь."
 
 # game/logic/tutorial.rpy:598
 translate russian CordEntrance_label_4d0a14f3:
 
     # Carter "But there are so many arches..."
-    Carter ""
+    Carter "Но там так много арок..."
 
 # game/logic/tutorial.rpy:599
 translate russian CordEntrance_label_b7843e2d:
 
     # Jacob "You're a messed up case, aren't you?"
-    Jacob ""
+    Jacob "Вы запущенный случай, не так ли?"
 
 # game/logic/tutorial.rpy:601
 translate russian CordEntrance_label_0313eace:
 
     # Jacob "You need those arches over there. "
-    Jacob ""
+    Jacob "Вам нужны вон те арки. "
 
 # game/logic/tutorial.rpy:602
 translate russian CordEntrance_label_29142250:
 
     # Jacob "If you look from the entrance to the academy, they're straight ahead."
-    Jacob ""
+    Jacob "Если смотреть от входа в академию, то они прямо."
 
 # game/logic/tutorial.rpy:603
 translate russian CordEntrance_label_afff9aa0:
 
     # Jacob "I hope you can work it out from there, you were there when you took your exam."
-    Jacob ""
+    Jacob "Я надеюсь, что вы cможешь добратся оттуда, так как вы уже были там, когда сдавали экзамен."
 
 # game/logic/tutorial.rpy:604
 translate russian CordEntrance_label_f5190618:
 
     # Jacob "Do you understand?"
-    Jacob ""
+    Jacob "Вы понимаете?"
 
 # game/logic/tutorial.rpy:606
 translate russian CordEntrance_label_91729c82:
 
     # Carter "I think so."
-    Carter ""
+    Carter "Думаю да"
 
 # game/logic/tutorial.rpy:607
 translate russian CordEntrance_label_4614f3ee:
 
     # Carter "Thank you for your help."
-    Carter ""
+    Carter "Спасибо за вашу помощь."
 
 # game/logic/tutorial.rpy:608
 translate russian CordEntrance_label_bc91fdd7:
 
     # Jacob "Don't mention it. Try to be more attentive, Mr Brown."
-    Jacob ""
+    Jacob "Не стоит благодарности. Постарайтесь быть более внимательным, мистер Браун."
 
 # game/logic/tutorial.rpy:609
 translate russian CordEntrance_label_a8ebf1f0:
 
     # Jacob "The rules are there for a reason. It would be a shame to get expelled for such foolishness."
-    Jacob ""
+    Jacob "Правила существуют не просто так. Было бы обидно, если бы тебя отчислили за такую глупость."
 
 # game/logic/tutorial.rpy:610
 translate russian CordEntrance_label_7d6017ea:
 
     # Carter "Yes, sir."
-    Carter ""
+    Carter "Да, сэр"
 
 # game/logic/tutorial.rpy:612
 translate russian CordEntrance_label_b2235bb4:
 
     # ch_Name "{i}(Phew, it's a good thing I didn't have time to follow him.){/i}"
-    ch_Name ""
+    ch_Name {i}(Фух, хорошо, что у меня не было времени следить за ним.){/i}""
 
 # game/logic/tutorial.rpy:613
 translate russian CordEntrance_label_7ca1a037:
 
     # ch_Name "{i}(Or I'd have gotten my ass kicked by Jacob.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Или Jacob надерет мне задницу.){/i}"
 
 # game/logic/tutorial.rpy:614
 translate russian CordEntrance_label_4ed7d299:
 
     # ch_Name "{i}(I wonder what's on the second floor that students aren't allowed up there.){/i}"
-    ch_Name ""
+    ch_Name "{i}((Интересно, что там такого на втором этаже, что туда не пускают студентов.){/i}"
 
 # game/logic/tutorial.rpy:615
 translate russian CordEntrance_label_89fc7eb8:
 
     # ch_Name "{i}(Okay, I'll leave that out of my head now.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Окей, пока выкину это из головы.){/i}"
 
 # game/logic/tutorial.rpy:617
 translate russian CordEntrance_label_a185157a:
 
     # ch_Name "{i}(I have so much to do before school starts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(У меня так много дел до начала школы.){/i}"
 
 # game/logic/tutorial.rpy:618
 translate russian CordEntrance_label_478994c0:
 
     # ch_Name "{i}(And first of all - learn how not to get lost here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(И прежде всего – узнать, как не заблудиться здесь.){/i}"
 
 # game/logic/tutorial.rpy:619
 translate russian CordEntrance_label_53648e18:
 
     # ch_Name "{i}(There are entrances to the garden on either side of the stairs.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Входы в сад есть по обеим сторонам лестницы.){/i}"
 
 # game/logic/tutorial.rpy:620
 translate russian CordEntrance_label_f3ca9d12:
 
     # ch_Name "{i}(And that's all I need to know during my first year.){/i}"
-    ch_Name ""
+    ch_Name "{i}(И это все, что мне нужно знать в течении первого года обучения.){/i}"
 
 # game/logic/tutorial.rpy:633
 translate russian CordGarden_label_e389e50c:
 
     # ch_Name "{i}(Well, here it is. The inner garden.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ну, вот и он. Внутренний сад.){/i}"
 
 # game/logic/tutorial.rpy:634
 translate russian CordGarden_label_a89f8e02:
 
     # ch_Name "{i}(This place has a lot of doors and no signs whatsoever.){/i}"
-    ch_Name ""
+    ch_Name "{i}(В этом месте много дверей и нет никаких обозначений.){/i}"
 
 # game/logic/tutorial.rpy:636
 translate russian CordGarden_label_0526f213:
 
     # Joshi "Hey there!"
-    Joshi ""
+    Joshi "Привет!"
 
 # game/logic/tutorial.rpy:637
 translate russian CordGarden_label_b9a2f748:
 
     # Joshi "Elijah?"
-    Joshi ""
+    Joshi "Elijah?"
 
 # game/logic/tutorial.rpy:638
 translate russian CordGarden_label_d2b75454:
 
     # ch_Name "No, my name is [Name]. Why are you looking for Elijah?"
-    ch_Name ""
+    ch_Name "Нет, меня зовут [Name]. Почему ты ищешь Elijah?"
 
 # game/logic/tutorial.rpy:639
 translate russian CordGarden_label_6a8823d6:
 
     # Joshi "Nevermind. Some business."
-    Joshi ""
+    Joshi "Неважно. Есть дело."
 
 # game/logic/tutorial.rpy:641
 translate russian CordGarden_label_73f50c33:
 
     # Joshi "Wanna smoke?"
-    Joshi ""
+    Joshi "Хочешь покурить?"
 
 # game/logic/tutorial.rpy:642
 translate russian CordGarden_label_ab7c8a20:
 
     # ch_Name "I didn't know you could smoke in here."
-    ch_Name ""
+    ch_Name "Я не знал, что здесь можно курить."
 
 # game/logic/tutorial.rpy:643
 translate russian CordGarden_label_760df6d7:
 
     # Joshi "You can, as long as none of the teachers are watching."
-    Joshi ""
+    Joshi "Можно, если никто из учителей не смотрит."
 
 # game/logic/tutorial.rpy:647
 translate russian CordGarden_label_0a4f54a9:
 
     # ch_Name "{i}(Hmm. Why not? I'm done with my sports career anyway.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Хмм. Почему бы и нет? Все равно я закончил свою спортивную карьеру.){/i}"
 
 # game/logic/tutorial.rpy:649
 translate russian CordGarden_label_6351b055:
 
     # ch_Name "I'll take it! Thanks."
-    ch_Name ""
+    ch_Name "Я возьму! Спасибо."
 
 # game/logic/tutorial.rpy:650
 translate russian CordGarden_label_2c25e386:
 
     # Joshi "Let me give you a light."
-    Joshi ""
+    Joshi "Давай я дам тебе огоньку."
 
 # game/logic/tutorial.rpy:651
 translate russian CordGarden_label_2f97a81b:
 
     # Joshi "No problem. I don't like smoking alone."
-    Joshi ""
+    Joshi "Без проблем. Я не люблю курить в одиночестве."
 
 # game/logic/tutorial.rpy:652
 translate russian CordGarden_label_2f80a538:
 
     # ch_Name "{i}(Strange guy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Странный парень.){/i}"
 
 # game/logic/tutorial.rpy:654
 translate russian CordGarden_label_a1d2923d:
 
     # Joshi "Listen, can I ask your opinion?"
-    Joshi ""
+    Joshi "Слушай, а можно узнать твое мнение?"
 
 # game/logic/tutorial.rpy:655
 translate russian CordGarden_label_6e34bba6:
 
     # ch_Name "Go ahead."
-    ch_Name ""
+    ch_Name "Давай."
 
 # game/logic/tutorial.rpy:656
 translate russian CordGarden_label_7ad82520:
 
     # Joshi "Don't you think this place could use an upgrade?"
-    Joshi ""
+    Joshi "Тебе не кажется, что этому месту не помешал бы апгрейд?"
 
 # game/logic/tutorial.rpy:657
 translate russian CordGarden_label_79f00acd:
 
     # ch_Name "Depends on what you're talking about."
-    ch_Name ""
+    ch_Name "Зависит от того, о чем ты говоришь."
 
 # game/logic/tutorial.rpy:658
 translate russian CordGarden_label_9234c432:
 
     # Joshi "I mean, it's a hell of a place to find something."
-    Joshi ""
+    Joshi "Я имею в виду, что здесь нереально найти что-то."
 
 # game/logic/tutorial.rpy:660
 translate russian CordGarden_label_42f18015:
 
     # Joshi "Not a sign, not a map, like the supermarkets."
-    Joshi ""
+    Joshi "Ни вывески, ни карты, как в супермаркетах."
 
 # game/logic/tutorial.rpy:661
 translate russian CordGarden_label_94f22a93:
 
     # Joshi "I've been going the wrong way all morning looking for the right offices."
-    Joshi ""
+    Joshi "Все утро я шел по ложному пути в поисках нужного офиса."
 
 # game/logic/tutorial.rpy:662
 translate russian CordGarden_label_ff262520:
 
     # ch_Name "Yeah, there's that."
-    ch_Name ""
+    ch_Name "Да, это так."
 
 # game/logic/tutorial.rpy:664
 translate russian CordGarden_label_8bddcee8:
 
     # Joshi "Luckily, I haven't racked my brain yet."
-    Joshi ""
+    Joshi "К счастью, я еще не сломал голову."
 
 # game/logic/tutorial.rpy:665
 translate russian CordGarden_label_849dfb8b:
 
     # Joshi "And I've already studied and memorized everything."
-    Joshi ""
+    Joshi "И я уже все выучил и запомнил."
 
 # game/logic/tutorial.rpy:666
 translate russian CordGarden_label_a63f3e45:
 
     # ch_Name "You have? That fast?"
-    ch_Name ""
+    ch_Name "Уже? Так быстро?"
 
 # game/logic/tutorial.rpy:668
 translate russian CordGarden_label_f7bff53b:
 
     # Joshi "Of course it is. You don't believe me?"
-    Joshi ""
+    Joshi "Конечно. Ты мне не веришь?"
 
 # game/logic/tutorial.rpy:669
 translate russian CordGarden_label_7623e196:
 
     # ch_Name "No, why not, I do..."
-    ch_Name ""
+    ch_Name "Нет, почему бы и нет, я..."
 
 # game/logic/tutorial.rpy:670
 translate russian CordGarden_label_b9a64fc1:
 
     # Joshi "It's easy if you just remember the right places."
-    Joshi ""
+    Joshi "Это легко, если ты просто помнишь правильные места."
 
 # game/logic/tutorial.rpy:671
 translate russian CordGarden_label_8db70d96:
 
     # Joshi "The room where the morning meeting was held on the track behind me."
-    Joshi ""
+    Joshi "Комната, где проходило утреннее совещание, находится позади меня."
 
 # game/logic/tutorial.rpy:672
 translate russian CordGarden_label_50073e08:
 
     # Joshi "At the end of the courtyard."
-    Joshi ""
+    Joshi "В конце двора."
 
 # game/logic/tutorial.rpy:674
 translate russian CordGarden_label_028c7c85:
 
     # Joshi "Well, on the sides is all the fun stuff."
-    Joshi ""
+    Joshi "Ну, по бокам все самое интересное."
 
 # game/logic/tutorial.rpy:675
 translate russian CordGarden_label_feb7664c:
 
     # Joshi "On the left is the library and Victoria's classroom."
-    Joshi ""
+    Joshi "Слева библиотека и класс Victoria."
 
 # game/logic/tutorial.rpy:676
 translate russian CordGarden_label_782b8053:
 
     # Joshi "And on the right is the cafe and Sabrina's class."
-    Joshi ""
+    Joshi "А справа кафе и класс Sabrina."
 
 # game/logic/tutorial.rpy:678
 translate russian CordGarden_label_03c9e045:
 
     # Joshi "By the way, have you seen Sabrina yet? Dude, I'm still having a boner..."
-    Joshi ""
+    Joshi "Кстати, ты уже видел Sabrina? Чувак, у меня все ещё стояк..."
 
 # game/logic/tutorial.rpy:679
 translate russian CordGarden_label_ec91a5dc:
 
     # Joshi "I wonder if there's anything in the academy rules about student-teacher relations..."
-    Joshi ""
+    Joshi "Интересно, есть ли что-нибудь в правилах академии об отношениях между учениками и учителями..."
 
 # game/logic/tutorial.rpy:681
 translate russian CordGarden_label_b4c8c248:
 
     # NoName "Ring-ring..."
-    NoName ""
+    NoName "Дин-дон..."
 
 # game/logic/tutorial.rpy:683
 translate russian CordGarden_label_112c95db:
 
     # Joshi "Elijah. Why is he calling me?"
-    Joshi ""
+    Joshi "Elijah. Почему он звонит мне?"
 
 # game/logic/tutorial.rpy:684
 translate russian CordGarden_label_210e23fc:
 
     # Joshi "Did I mess up the meeting place?"
-    Joshi ""
+    Joshi "Я испортил место встречи?"
 
 # game/logic/tutorial.rpy:686
 translate russian CordGarden_label_b12eabfd:
 
     # Joshi "Okay, it's important, I have to take this."
-    Joshi ""
+    Joshi "Хорошо, это важно, я должен ответить."
 
 # game/logic/tutorial.rpy:687
 translate russian CordGarden_label_9a7d0861:
 
     # Joshi "It was nice talking to you. Good luck."
-    Joshi ""
+    Joshi "Приятно было с тобой поговорить. Удачи."
 
 # game/logic/tutorial.rpy:688
 translate russian CordGarden_label_a93d50a5:
 
     # ch_Name "You too."
-    ch_Name ""
+    ch_Name "Взаимно."
 
 # game/logic/tutorial.rpy:690
 translate russian CordGarden_label_153814de:
 
     # ch_Name "{i}(What a weird guy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Какой странный парень.){/i}"
 
 # game/logic/tutorial.rpy:691
 translate russian CordGarden_label_f89e56dc:
 
     # ch_Name "{i}(And what business could he possibly have with Elijah?){/i}"
-    ch_Name ""
+    ch_Name "{i}(И какое дело у него может быть к Elijah?){/i}"
 
 # game/logic/tutorial.rpy:692
 translate russian CordGarden_label_20277380:
 
     # ch_Name "{i}(Okay, I don't have time for that right now...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ладно, сейчас у меня нет на это времени...){/i}"
 
 # game/logic/tutorial.rpy:696
 translate russian CordGarden_label_5fd89adf:
 
     # ch_Name "{i}(I may not be a soccer player anymore, but I'm not going to ruin my body.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Возможно, я больше не футболист, но я не собираюсь портить свое тело.){/i}"
 
 # game/logic/tutorial.rpy:698
 translate russian CordGarden_label_fc435854:
 
     # ch_Name "Thanks, I'll pass."
-    ch_Name ""
+    ch_Name "Спасибо, я пасс"
 
 # game/logic/tutorial.rpy:699
 translate russian CordGarden_label_92ad7b29:
 
     # Joshi "It's up to you."
-    Joshi ""
+    Joshi "Тебе решать."
 
 # game/logic/tutorial.rpy:700
 translate russian CordGarden_label_41c699ca:
 
     # Joshi "Too bad, I don't like to smoke alone."
-    Joshi ""
+    Joshi "Жаль, я не люблю курить в одиночестве."
 
 # game/logic/tutorial.rpy:702
 translate russian CordGarden_label_a1d2923d_1:
 
     # Joshi "Listen, can I ask your opinion?"
-    Joshi ""
+    Joshi "Слушай, а можно узнать твое мнение?"
 
 # game/logic/tutorial.rpy:703
 translate russian CordGarden_label_6e34bba6_1:
 
     # ch_Name "Go ahead."
-    ch_Name ""
+    ch_Name "Давай."
 
 # game/logic/tutorial.rpy:704
 translate russian CordGarden_label_7ad82520_1:
 
     # Joshi "Don't you think this place could use an upgrade?"
-    Joshi ""
+    Joshi "Тебе не кажется, что этому месту не помешал бы апгрейд?"
 
 # game/logic/tutorial.rpy:705
 translate russian CordGarden_label_79f00acd_1:
 
     # ch_Name "Depends on what you're talking about."
-    ch_Name ""
+    ch_Name "Зависит от того, о чем ты говоришь."
 
 # game/logic/tutorial.rpy:706
 translate russian CordGarden_label_883b147f:
 
     # Joshi "It's a hell of a place to find something."
-    Joshi ""
+    Joshi "Я имею в виду, что здесь нереально найти что-то."
 
 # game/logic/tutorial.rpy:708
 translate russian CordGarden_label_42f18015_1:
 
     # Joshi "Not a sign, not a map, like the supermarkets."
-    Joshi ""
+    Joshi "Ни вывески, ни карты, как в супермаркетах."
 
 # game/logic/tutorial.rpy:709
 translate russian CordGarden_label_94f22a93_1:
 
     # Joshi "I've been going the wrong way all morning looking for the right offices."
-    Joshi ""
+    Joshi "Все утро я шел по ложному пути в поисках нужного офиса."
 
 # game/logic/tutorial.rpy:710
 translate russian CordGarden_label_ff262520_1:
 
     # ch_Name "Yeah, there's that."
-    ch_Name ""
+    ch_Name "Да, это так."
 
 # game/logic/tutorial.rpy:712
 translate russian CordGarden_label_8bddcee8_1:
 
     # Joshi "Luckily, I haven't racked my brain yet."
-    Joshi ""
+    Joshi "К счастью, я еще не сломал голову."
 
 # game/logic/tutorial.rpy:713
 translate russian CordGarden_label_849dfb8b_1:
 
     # Joshi "And I've already studied and memorized everything."
-    Joshi ""
+    Joshi "И я уже все выучил и запомнил."
 
 # game/logic/tutorial.rpy:714
 translate russian CordGarden_label_a63f3e45_1:
 
     # ch_Name "You have? That fast?"
-    ch_Name ""
+    ch_Name "Уже? Так быстро?"
 
 # game/logic/tutorial.rpy:716
 translate russian CordGarden_label_f7bff53b_1:
 
     # Joshi "Of course it is. You don't believe me?"
-    Joshi ""
+    Joshi "Конечно. Ты мне не веришь?"
 
 # game/logic/tutorial.rpy:717
 translate russian CordGarden_label_7623e196_1:
 
     # ch_Name "No, why not, I do..."
-    ch_Name ""
+    ch_Name "Нет, почему бы и нет, я..."
 
 # game/logic/tutorial.rpy:718
 translate russian CordGarden_label_b9a64fc1_1:
 
     # Joshi "It's easy if you just remember the right places."
-    Joshi ""
+    Joshi "Это легко, если ты просто помнишь правильные места."
 
 # game/logic/tutorial.rpy:719
 translate russian CordGarden_label_8db70d96_1:
 
     # Joshi "The room where the morning meeting was held on the track behind me."
-    Joshi ""
+    Joshi "Комната, где проходило утреннее совещание, находится позади меня."
 
 # game/logic/tutorial.rpy:720
 translate russian CordGarden_label_50073e08_1:
@@ -604,229 +604,229 @@ translate russian CordGarden_label_50073e08_1:
 translate russian CordGarden_label_028c7c85_1:
 
     # Joshi "Well, on the sides is all the fun stuff."
-    Joshi ""
+    Joshi "В конце двора."
 
 # game/logic/tutorial.rpy:723
 translate russian CordGarden_label_feb7664c_1:
 
     # Joshi "On the left is the library and Victoria's classroom."
-    Joshi ""
+    Joshi "Слева библиотека и класс Victoria."
 
 # game/logic/tutorial.rpy:724
 translate russian CordGarden_label_782b8053_1:
 
     # Joshi "And on the right is the cafe and Sabrina's class."
-    Joshi ""
+    Joshi "А справа кафе и класс Sabrina."
 
 # game/logic/tutorial.rpy:726
 translate russian CordGarden_label_03c9e045_1:
 
     # Joshi "By the way, have you seen Sabrina yet? Dude, I'm still having a boner..."
-    Joshi ""
+    Joshi "Кстати, ты уже видел Sabrina? Чувак, у меня все ещё стояк..."
 
 # game/logic/tutorial.rpy:727
 translate russian CordGarden_label_ec91a5dc_1:
 
     # Joshi "I wonder if there's anything in the academy rules about student-teacher relations..."
-    Joshi ""
+    Joshi "Интересно, есть ли что-нибудь в правилах академии об отношениях между учениками и учителями..."
 
 # game/logic/tutorial.rpy:729
 translate russian CordGarden_label_b4c8c248_1:
 
     # NoName "Ring-ring..."
-    NoName ""
+    NoName "Дин-дон..."
 
 # game/logic/tutorial.rpy:731
 translate russian CordGarden_label_112c95db_1:
 
     # Joshi "Elijah. Why is he calling me?"
-    Joshi ""
+    Joshi "Elijah. Почему он звонит мне?"
 
 # game/logic/tutorial.rpy:732
 translate russian CordGarden_label_210e23fc_1:
 
     # Joshi "Did I mess up the meeting place?"
-    Joshi ""
+    Joshi "Я испортил место встречи?"
 
 # game/logic/tutorial.rpy:734
 translate russian CordGarden_label_b12eabfd_1:
 
     # Joshi "Okay, it's important, I have to take this."
-    Joshi ""
+    Joshi "Хорошо, это важно, я должен ответить."
 
 # game/logic/tutorial.rpy:735
 translate russian CordGarden_label_9a7d0861_1:
 
     # Joshi "It was nice talking to you. Good luck."
-    Joshi ""
+    Joshi "Приятно было с тобой поговорить. Удачи."
 
 # game/logic/tutorial.rpy:736
 translate russian CordGarden_label_a93d50a5_1:
 
     # ch_Name "You too."
-    ch_Name ""
+    ch_Name "Взаимно."
 
 # game/logic/tutorial.rpy:738
 translate russian CordGarden_label_153814de_1:
 
     # ch_Name "{i}(What a weird guy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Какой странный парень.){/i}"
 
 # game/logic/tutorial.rpy:739
 translate russian CordGarden_label_f89e56dc_1:
 
     # ch_Name "{i}(And what business could he possibly have with Elijah?){/i}"
-    ch_Name ""
+    ch_Name "{i}(А какое дело у него может быть к Elijah?){/i}"
 
 # game/logic/tutorial.rpy:740
 translate russian CordGarden_label_97ebb784:
 
     # ch_Name "{i}(Okay, I can't deal with that right now...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ладно, сейчас я не могу с этим разобраться...){/i}"
 
 # game/logic/tutorial.rpy:753
 translate russian CordLeftWing_label_4bddd5b5:
 
     # ch_Name "{i}(Left wing. So that's where the library is situated.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Левое крыло. Так вот где находится библиотека.){/i}"
 
 # game/logic/tutorial.rpy:754
 translate russian CordLeftWing_label_b85ccf1f:
 
     # ch_Name "{i}(Oh wow! Who's that hottie coming out the door with a stack of books?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ого! Кто эта красотка, которая выходит из двери со стопкой книг?){/i}"
 
 # game/logic/tutorial.rpy:755
 translate russian CordLeftWing_label_f5697555:
 
     # ch_Name "{i}(And why does she need all those books?){/i}"
-    ch_Name ""
+    ch_Name "{i}(А зачем ей все эти книги?){/i}"
 
 # game/logic/tutorial.rpy:757
 translate russian CordLeftWing_label_ab237890:
 
     # Gabriella "Ah!"
-    Gabriella ""
+    Gabriella "Ах!"
 
 # game/logic/tutorial.rpy:758
 translate russian CordLeftWing_label_09a54e31:
 
     # ch_Name "{i}(What's going on? I think she...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Что происходит? Кажется, она...){/i}"
 
 # game/logic/tutorial.rpy:760
 translate russian CordLeftWing_label_2724fee9:
 
     # ch_Name "{i}(She tripped!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Она споткнулась!){/i}"
 
 # game/logic/tutorial.rpy:761
 translate russian CordLeftWing_label_a1f254c7:
 
     # ch_Name "{i}(Shit, I can't catch her in time!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Черт, я не успеваю ее поймать!){/i}"
 
 # game/logic/tutorial.rpy:763
 translate russian CordLeftWing_label_2a64a53a:
 
     # ch_Name "{i}(Poor thing... I have to help her.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Бедняжка... Я должен ей помочь.){/i}"
 
 # game/logic/tutorial.rpy:764
 translate russian CordLeftWing_label_242d4568:
 
     # Gabriella "Uh..."
-    Gabriella ""
+    Gabriella "Эм..."
 
 # game/logic/tutorial.rpy:765
 translate russian CordLeftWing_label_1a79f119:
 
     # ch_Name "Hey. How are you? Is everything okay?"
-    ch_Name ""
+    ch_Name "Привет. Как дела? Все в порядке?"
 
 # game/logic/tutorial.rpy:766
 translate russian CordLeftWing_label_15215b5d:
 
     # Gabriella "I think so..."
-    Gabriella ""
+    Gabriella "Думаю да..."
 
 # game/logic/tutorial.rpy:768
 translate russian CordLeftWing_label_118eed74:
 
     # ch_Name "Let me help you."
-    ch_Name ""
+    ch_Name "Давай я тебе помогу."
 
 # game/logic/tutorial.rpy:769
 translate russian CordLeftWing_label_4f5ba1da:
 
     # Gabriella "Don't worry about it, I got it."
-    Gabriella ""
+    Gabriella "Не беспокойся об этом, у меня всё схвачено."
 
 # game/logic/tutorial.rpy:770
 translate russian CordLeftWing_label_21eae3c1:
 
     # ch_Name "Come on, it's no big deal."
-    ch_Name ""
+    ch_Name "Да ладно, ничего страшного."
 
 # game/logic/tutorial.rpy:772
 translate russian CordLeftWing_label_ad35e680:
 
     # ch_Name "{i}(Oh...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ох...){/i}"
 
 # game/logic/tutorial.rpy:773
 translate russian CordLeftWing_label_c6e8b771:
 
     # ch_Name "{i}(Let's consider it a nice bonus to me for coming to the rescue.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Давайте считать это приятным бонусом за то, что я пришел на помощь.){/i}"
 
 # game/logic/tutorial.rpy:774
 translate russian CordLeftWing_label_da4629f1:
 
     # ch_Name "{i}(No wonder she tripped. With those heels.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Неудивительно, что она споткнулась. На этих то каблуках.){/i}"
 
 # game/logic/tutorial.rpy:776
 translate russian CordLeftWing_label_8b7873e2:
 
     # Gabriella "Hey, what are you... What are you looking at?"
-    Gabriella ""
+    Gabriella "Эй, что ты... На что ты смотришь?"
 
 # game/logic/tutorial.rpy:777
 translate russian CordLeftWing_label_a3c72469:
 
     # ch_Name "Looking to see if we picked up all the books from the floor. "
-    ch_Name ""
+    ch_Name "Смотрю, собрали ли мы все книги с пола."
 
 # game/logic/tutorial.rpy:778
 translate russian CordLeftWing_label_08e7fdc5:
 
     # ch_Name "Why, what were you thinking?"
-    ch_Name ""
+    ch_Name "О чем ты подумала?"
 
 # game/logic/tutorial.rpy:780
 translate russian CordLeftWing_label_dbe9260e:
 
     # Gabriella "Just..."
-    Gabriella ""
+    Gabriella "Просто..."
 
 # game/logic/tutorial.rpy:781
 translate russian CordLeftWing_label_ba4ef7db:
 
     # Gabriella "Thanks for your help. I'm so clumsy..."
-    Gabriella ""
+    Gabriella "Спасибо за вашу помощь. Я такая неуклюжая..."
 
 # game/logic/tutorial.rpy:782
 translate russian CordLeftWing_label_9e0bcb90:
 
     # ch_Name "Anybody can be."
-    ch_Name ""
+    ch_Name "С кем не бывает."
 
 # game/logic/tutorial.rpy:783
 translate russian CordLeftWing_label_aa4f4b7a:
 
     # ch_Name "Here, here are your books. Why do you need them anyway?"
-    ch_Name ""
+    ch_Name "Вот ваши книги. Зачем они вам вообще нужны?"
 
 # game/logic/tutorial.rpy:785
 translate russian CordLeftWing_label_8ae7748d:
