@@ -4,7 +4,7 @@
 translate russian CordEntrance_label_b9a07f28:
 
     # ch_Name "{i}(The academy is so big. How is it even possible to remember where to go?){/i}"
-    ch_Name "{i}(Академия такая большая. Как вообще возможно помнить, куда идти?){/i}"
+    ch_Name "{i}(Академия такая большая. Как вообще возможно запомнить, куда идти?){/i}"
 
 # game/logic/tutorial.rpy:579
 translate russian CordEntrance_label_3165fc11:
