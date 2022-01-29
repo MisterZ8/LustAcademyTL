@@ -4,15 +4,15 @@ translate swedish strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new ""
+    new "Självröstning inaktiverad"
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
-    new ""
+    new "Urklipp röstning aktiverad"
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new ""
+    new "Självröstning aktiverad"
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
@@ -20,43 +20,43 @@ translate swedish strings:
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
-    new ""
+    new "vald"
 
     # renpy/common/00accessibility.rpy:34
     old "viewport"
-    new ""
+    new "utsiktsport"
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
-    new ""
+    new "horisontell skroll"
 
     # renpy/common/00accessibility.rpy:36
     old "vertical scroll"
-    new ""
+    new "vertikal skroll"
 
     # renpy/common/00accessibility.rpy:37
     old "activate"
-    new ""
+    new "aktivera"
 
     # renpy/common/00accessibility.rpy:38
     old "deactivate"
-    new ""
+    new "avaktivera"
 
     # renpy/common/00accessibility.rpy:39
     old "increase"
-    new ""
+    new "öka"
 
     # renpy/common/00accessibility.rpy:40
     old "decrease"
-    new ""
+    new "sänka"
 
     # renpy/common/00accessibility.rpy:128
     old "Font Override"
-    new ""
+    new "Åsidosätt teckensnitt"
 
     # renpy/common/00accessibility.rpy:132
     old "Default"
-    new ""
+    new "Standard"
 
     # renpy/common/00accessibility.rpy:136
     old "DejaVu Sans"
@@ -64,203 +64,203 @@ translate swedish strings:
 
     # renpy/common/00accessibility.rpy:140
     old "Opendyslexic"
-    new ""
+    new "Öppnadyslexic"
 
     # renpy/common/00accessibility.rpy:146
     old "Text Size Scaling"
-    new ""
+    new "Skalning av textstorlek"
 
     # renpy/common/00accessibility.rpy:152
     old "Reset"
-    new ""
+    new "Återställ"
 
     # renpy/common/00accessibility.rpy:158
     old "Line Spacing Scaling"
-    new ""
+    new "Radavståndsskalning"
 
     # renpy/common/00accessibility.rpy:171
     old "Self-Voicing"
-    new ""
+    new "Sjävlröstning"
 
     # renpy/common/00accessibility.rpy:175
     old "Off"
-    new ""
+    new "av"
 
     # renpy/common/00accessibility.rpy:179
     old "Text-to-speech"
-    new ""
+    new "Text till tal"
 
     # renpy/common/00accessibility.rpy:183
     old "Clipboard"
-    new ""
+    new "Urklipp"
 
     # renpy/common/00accessibility.rpy:187
     old "Debug"
-    new ""
+    new "Felsöka"
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing Volume Drop"
-    new ""
+    new "Självröstande volymsänkning"
 
     # renpy/common/00accessibility.rpy:202
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new ""
+    new "Alternativen på den här menyn är avsedda att förbättra tillgängligheten. De kanske inte fungerar med alla spel, och vissa kombinationer av alternativ kan göra spelet ospelbart. Detta är inte ett problem med spelet eller motorn. För bästa resultat när du byter teckensnitt, försök att behålla textstorleken som den ursprungligen var."
 
     # renpy/common/00accessibility.rpy:207
     old "Return"
-    new ""
+    new "Återvänd"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
-    new ""
+    new "{#weekday}Måndag"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Tuesday"
-    new ""
+    new "{#weekday}Tisdag"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new ""
+    new "{#weekday}Onsdag"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Thursday"
-    new ""
+    new "{#weekday}Torsdag"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Friday"
-    new ""
+    new "{#weekday}Fredag"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Saturday"
-    new ""
+    new "{#weekday}Lördag"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Sunday"
-    new ""
+    new "{#weekday}Söndag"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Mon"
-    new ""
+    new "{#weekday_short}Mån"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Tue"
-    new ""
+    new "{#weekday_short}Tis"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Wed"
-    new ""
+    new "{#weekday_short}Ons"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Thu"
-    new ""
+    new "{#weekday_short}Tor"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Fri"
-    new ""
+    new "{#weekday_short}Fre"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sat"
-    new ""
+    new "{#weekday_short}Lör"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new ""
+    new "{#weekday_short}Sön"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}January"
-    new ""
+    new "{#month}Januari"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}February"
-    new ""
+    new "{#month}Februari"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}March"
-    new ""
+    new "{#month}Mars"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}April"
-    new ""
+    new "{#month}April"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}May"
-    new ""
+    new "{#month}Maj"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}June"
-    new ""
+    new "{#month}Juni"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}July"
-    new ""
+    new "{#month}Juli"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}August"
-    new ""
+    new "{#month}Augusti"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}September"
-    new ""
+    new "{#month}September"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}October"
-    new ""
+    new "{#month}Oktober"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}November"
-    new ""
+    new "{#month}November"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}December"
-    new ""
+    new "{#month}December"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jan"
-    new ""
+    new "{#month_short}Jan"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Feb"
-    new ""
+    new "{#month_short}Feb"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Mar"
-    new ""
+    new "{#month_short}Mars"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Apr"
-    new ""
+    new "{#month_short}April"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}May"
-    new ""
+    new "{#month_short}Maj"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jun"
-    new ""
+    new "{#month_short}Juni"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jul"
-    new ""
+    new "{#month_short}Juli"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Aug"
-    new ""
+    new "{#month_short}Aug"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Sep"
-    new ""
+    new "{#month_short}Sep"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Oct"
-    new ""
+    new "{#month_short}Okt"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Nov"
-    new ""
-
+    new "{#month_short}Nov"
+  
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Dec"
-    new ""
+    new "{#month_short}Dec"
 
     # renpy/common/00action_file.rpy:250
     old "%b %d, %H:%M"
@@ -268,55 +268,55 @@ translate swedish strings:
 
     # renpy/common/00action_file.rpy:363
     old "Save slot %s: [text]"
-    new ""
+    new "Spara slot %s: [text] "
 
     # renpy/common/00action_file.rpy:444
     old "Load slot %s: [text]"
-    new ""
+    new "Ladda slot %s: [text]"
 
     # renpy/common/00action_file.rpy:497
     old "Delete slot [text]"
-    new ""
+    new "Radera slot %s: [text]"
 
     # renpy/common/00action_file.rpy:576
     old "File page auto"
-    new ""
+    new "Fil sida auto"
 
     # renpy/common/00action_file.rpy:578
     old "File page quick"
-    new ""
+    new "Fil sida snabb"
 
     # renpy/common/00action_file.rpy:580
     old "File page [text]"
-    new ""
+    new "Fil sida [text] "
 
     # renpy/common/00action_file.rpy:779
     old "Next file page."
-    new ""
+    new "Nästa fil sida"
 
     # renpy/common/00action_file.rpy:851
     old "Previous file page."
-    new ""
+    new "Tidigare fil sida"
 
     # renpy/common/00action_file.rpy:912
     old "Quick save complete."
-    new ""
+    new "Snabbsparning färdig"
 
     # renpy/common/00action_file.rpy:930
     old "Quick save."
-    new ""
+    new "Snabbsparning"
 
     # renpy/common/00action_file.rpy:949
     old "Quick load."
-    new ""
+    new "Snabb laddning"
 
     # renpy/common/00action_other.rpy:375
     old "Language [text]"
-    new ""
+    new "Språk [text]"
 
     # renpy/common/00director.rpy:708
     old "The interactive director is not enabled here."
-    new ""
+    new "Den interaktiva regissören är inte aktiverad här."
 
     # renpy/common/00director.rpy:1481
     old "⬆"
@@ -328,11 +328,11 @@ translate swedish strings:
 
     # renpy/common/00director.rpy:1551
     old "Done"
-    new ""
+    new "Klar"
 
     # renpy/common/00director.rpy:1561
     old "(statement)"
-    new ""
+    new "(påstående"
 
     # renpy/common/00director.rpy:1562
     old "(tag)"
@@ -340,43 +340,43 @@ translate swedish strings:
 
     # renpy/common/00director.rpy:1563
     old "(attributes)"
-    new ""
+    new "(egenskaper"
 
     # renpy/common/00director.rpy:1564
     old "(transform)"
-    new ""
+    new "(transformera"
 
     # renpy/common/00director.rpy:1589
     old "(transition)"
-    new ""
+    new "(Övergående)"
 
     # renpy/common/00director.rpy:1601
     old "(channel)"
-    new ""
+    new "(kanal)"
 
     # renpy/common/00director.rpy:1602
     old "(filename)"
-    new ""
+    new "(filnamn)"
 
     # renpy/common/00director.rpy:1631
     old "Change"
-    new ""
+    new "Förändra"
 
     # renpy/common/00director.rpy:1633
     old "Add"
-    new ""
+    new "Lägg till"
 
     # renpy/common/00director.rpy:1636
     old "Cancel"
-    new ""
+    new "Avbryt"
 
     # renpy/common/00director.rpy:1639
     old "Remove"
-    new ""
+    new "Ta bort"
 
     # renpy/common/00director.rpy:1674
     old "Statement:"
-    new ""
+    new "Påstående:"
 
     # renpy/common/00director.rpy:1695
     old "Tag:"
@@ -384,95 +384,95 @@ translate swedish strings:
 
     # renpy/common/00director.rpy:1711
     old "Attributes:"
-    new ""
+    new "Egenskaper:"
 
     # renpy/common/00director.rpy:1729
     old "Transforms:"
-    new ""
+    new "Transformeras"
 
     # renpy/common/00director.rpy:1748
     old "Behind:"
-    new ""
+    new "Bakom"
 
     # renpy/common/00director.rpy:1767
     old "Transition:"
-    new ""
+    new "Övergående:"
 
     # renpy/common/00director.rpy:1785
     old "Channel:"
-    new ""
+    new "Kanal:"
 
     # renpy/common/00director.rpy:1803
     old "Audio Filename:"
-    new ""
+    new "Ljudfilnamn:"
 
     # renpy/common/00gui.rpy:384
     old "Are you sure?"
-    new ""
+    new "Är du säker?"
 
     # renpy/common/00gui.rpy:385
     old "Are you sure you want to delete this save?"
-    new ""
+    new "Är du säker att du vill radera denna sparning?"
 
     # renpy/common/00gui.rpy:386
     old "Are you sure you want to overwrite your save?"
-    new ""
+    new "Är du söker på att du vill skriva över din sparning?"
 
     # renpy/common/00gui.rpy:387
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new ""
+    new "Inläsning kommer att förlora osparade framsteg.\nÄr du säker på att du vill göra detta?"
 
     # renpy/common/00gui.rpy:388
     old "Are you sure you want to quit?"
-    new ""
+    new "Är du säker på att du vill sluta?"
 
     # renpy/common/00gui.rpy:389
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new ""
+    new "Är du säker på att du vill gå tillbaka till huvudmenyn?\nDetta kommer att förlora osparade framsteg."
 
     # renpy/common/00gui.rpy:390
     old "Are you sure you want to end the replay?"
-    new ""
+    new "Är du säker på att du vill avsluta reprisen?"
 
     # renpy/common/00gui.rpy:391
     old "Are you sure you want to begin skipping?"
-    new ""
+    new "Är du säker på att du vill börja hoppa över?"
 
     # renpy/common/00gui.rpy:392
     old "Are you sure you want to skip to the next choice?"
-    new ""
+    new "Är du säker på att du vill hoppa till nästa val?"
 
     # renpy/common/00gui.rpy:393
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new ""
+    new "Är du säker på att du vill hoppa över osedd dialog för att komma fram till nästa val?"
 
     # renpy/common/00keymap.rpy:306
     old "Failed to save screenshot as %s."
-    new ""
+    new "Det gick inte att spara skärmdumpen som %s."
 
     # renpy/common/00keymap.rpy:318
     old "Saved screenshot as %s."
-    new ""
+    new "Sparad skärmdump som %s."
 
     # renpy/common/00library.rpy:195
     old "Skip Mode"
-    new ""
+    new "Hoppa över läge"
 
     # renpy/common/00library.rpy:281
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new ""
+    new "Detta program innehåller programvaror som är gratis under ett antal licenser, inklusive MIT License och GNU Lesser General Public License. En komplett lista över programvara, inklusive länkar till fullständig källkod, finns {a=https://www.renpy.org/l/license}här{/a}."
 
     # renpy/common/00preferences.rpy:247
     old "display"
-    new ""
+    new "visa"
 
     # renpy/common/00preferences.rpy:259
     old "transitions"
-    new ""
+    new "övergångar"
 
     # renpy/common/00preferences.rpy:268
     old "skip transitions"
-    new ""
+    new "hoppa över övergångar"
 
     # renpy/common/00preferences.rpy:270
     old "video sprites"
@@ -480,11 +480,11 @@ translate swedish strings:
 
     # renpy/common/00preferences.rpy:279
     old "show empty window"
-    new ""
+    new "visa tomt fönster"
 
     # renpy/common/00preferences.rpy:288
     old "text speed"
-    new ""
+    new "text hastighet"
 
     # renpy/common/00preferences.rpy:296
     old "joystick"
@@ -496,31 +496,31 @@ translate swedish strings:
 
     # renpy/common/00preferences.rpy:303
     old "skip"
-    new ""
+    new "skippa"
 
     # renpy/common/00preferences.rpy:306
     old "skip unseen [text]"
-    new ""
+    new "skippa osedd [text]"
 
     # renpy/common/00preferences.rpy:311
     old "skip unseen text"
-    new ""
+    new "skippa osedd text"
 
     # renpy/common/00preferences.rpy:313
     old "begin skipping"
-    new ""
+    new "börja skippa"
 
     # renpy/common/00preferences.rpy:317
     old "after choices"
-    new ""
+    new "efter val"
 
     # renpy/common/00preferences.rpy:324
     old "skip after choices"
-    new ""
+    new "skippa efter val"
 
     # renpy/common/00preferences.rpy:326
     old "auto-forward time"
-    new ""
+    new "auto-forward tid"
 
     # renpy/common/00preferences.rpy:340
     old "auto-forward"
@@ -532,23 +532,23 @@ translate swedish strings:
 
     # renpy/common/00preferences.rpy:350
     old "auto-forward after click"
-    new ""
+    new "auto-forward efter klick"
 
     # renpy/common/00preferences.rpy:359
     old "automatic move"
-    new ""
+    new "automatisk rörelse"
 
     # renpy/common/00preferences.rpy:368
     old "wait for voice"
-    new ""
+    new "vänta på röst"
 
     # renpy/common/00preferences.rpy:377
     old "voice sustain"
-    new ""
+    new "röstuppehåll"
 
     # renpy/common/00preferences.rpy:386
     old "self voicing"
-    new ""
+    new "självröstning"
 
     # renpy/common/00preferences.rpy:395
     old "self voicing volume drop"
