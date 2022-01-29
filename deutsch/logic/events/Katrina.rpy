@@ -580,7 +580,7 @@ translate deutsch Katrina_1_label_eddfc16f:
 translate deutsch Katrina_1_label_851d7c11:
 
     # ch_Name "{i}(My head hurts so much... That punch was brutal.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mein Kopf tut so weh... Der Schlag war brutal.){/i}"
 
 # game/logic/events/Katrina.rpy:167
 translate deutsch Katrina_1_label_cc3b5d61_1:
@@ -592,145 +592,145 @@ translate deutsch Katrina_1_label_cc3b5d61_1:
 translate deutsch Katrina_1_label_21e6bd45:
 
     # ch_Name "What's happening?"
-    ch_Name ""
+    ch_Name "Was passiert gerade?"
 
 # game/logic/events/Katrina.rpy:170
 translate deutsch Katrina_1_label_d19411dc:
 
     # Olivia "Oh, you woke up... Good."
-    Olivia ""
+    Olivia "Oh, du bist gerade aufgewacht... Gut."
 
 # game/logic/events/Katrina.rpy:171
 translate deutsch Katrina_1_label_15383e87:
 
     # ch_Name "Olivia? What are you doing?"
-    ch_Name ""
+    ch_Name "Olivia? Was machst du?"
 
 # game/logic/events/Katrina.rpy:173
 translate deutsch Katrina_1_label_9715f275:
 
     # Olivia "Having some fun."
-    Olivia ""
+    Olivia "Spaß haben."
 
 # game/logic/events/Katrina.rpy:174
 translate deutsch Katrina_1_label_c3dcd672:
 
     # ch_Name "Is that wine?"
-    ch_Name ""
+    ch_Name "Ist das Wein?"
 
 # game/logic/events/Katrina.rpy:175
 translate deutsch Katrina_1_label_d4e6076d:
 
     # Olivia "Yeah. Why?"
-    Olivia ""
+    Olivia "Ja. Warum?"
 
 # game/logic/events/Katrina.rpy:177
 translate deutsch Katrina_1_label_1d13d0bf:
 
     # Olivia "Want some?"
-    Olivia ""
+    Olivia "Möchtest du welchen?"
 
 # game/logic/events/Katrina.rpy:178
 translate deutsch Katrina_1_label_2f8dcbc1:
 
     # ch_Name "I'm not sure if I should..."
-    ch_Name ""
+    ch_Name "I weiß nicht..."
 
 # game/logic/events/Katrina.rpy:180
 translate deutsch Katrina_1_label_34df1127:
 
     # ch_Name "Isn't it still morning?"
-    ch_Name ""
+    ch_Name "Ist es nicht noch Morgen?"
 
 # game/logic/events/Katrina.rpy:181
 translate deutsch Katrina_1_label_5a071965:
 
     # Olivia "Oh, just shut up and open your mouth."
-    Olivia ""
+    Olivia "Ach, sei rhuig und mach den Mund auf."
 
 # game/logic/events/Katrina.rpy:183
 translate deutsch Katrina_1_label_07d83010:
 
     # Olivia "E-he-he. That sounded strange. Woah!"
-    Olivia ""
+    Olivia "E-he-he. Das hat sich komisch angehört. Woah!"
 
 # game/logic/events/Katrina.rpy:184
 translate deutsch Katrina_1_label_d5ac7f2d:
 
     # ch_Name "Is there any special occasion?"
-    ch_Name ""
+    ch_Name "Gibt es einen Anlass?"
 
 # game/logic/events/Katrina.rpy:185
 translate deutsch Katrina_1_label_0fa69eb1:
 
     # Olivia "Oh yes!"
-    Olivia ""
+    Olivia "Oh ja!"
 
 # game/logic/events/Katrina.rpy:186
 translate deutsch Katrina_1_label_bacd23da:
 
     # ch_Name "Can I at least get up fist?"
-    ch_Name ""
+    ch_Name "Kann ich zumindest erst aufstehen?"
 
 # game/logic/events/Katrina.rpy:188
 translate deutsch Katrina_1_label_15cccf7b:
 
     # Olivia "Nah, I like it this way."
-    Olivia ""
+    Olivia "Ne, mir gefällt es so."
 
 # game/logic/events/Katrina.rpy:189
 translate deutsch Katrina_1_label_49ccbcd9:
 
     # ch_Name "{i}(That's strange...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Das ist komisch...){/i}"
 
 # game/logic/events/Katrina.rpy:190
 translate deutsch Katrina_1_label_222d4f82:
 
     # ch_Name "{i}(Olivia never acted like this.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Olivia hat sich noch nie so verhalten.){/i}"
 
 # game/logic/events/Katrina.rpy:192
 translate deutsch Katrina_1_label_232ebe10:
 
     # Olivia "Hey. I have a great Idea."
-    Olivia ""
+    Olivia "Hey, ich habe eine super Idee."
 
 # game/logic/events/Katrina.rpy:194
 translate deutsch Katrina_1_label_3debd31a:
 
     # Olivia "Open your mouth."
-    Olivia ""
+    Olivia "Mach deinen Mund auf."
 
 # game/logic/events/Katrina.rpy:198
 translate deutsch Katrina_1_label_10898524:
 
     # ch_Name "Alright..."
-    ch_Name ""
+    ch_Name "Okay..."
 
 # game/logic/events/Katrina.rpy:200
 translate deutsch Katrina_1_label_5eb602a8:
 
     # ch_Name "{i}(Oh my...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh je...){/i}"
 
 # game/logic/events/Katrina.rpy:201
 translate deutsch Katrina_1_label_f9313e09:
 
     # ch_Name "{i}(This is interesting. What's got into her?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wie interessant. Was ist nur mit ihr geschehen?){/i}"
 
 # game/logic/events/Katrina.rpy:202
 translate deutsch Katrina_1_label_6459c863:
 
     # ch_Name "{i}(Maybe she had too much wine?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vielliecht hat sie zu viel Wein getrunken?){/i}"
 
 # game/logic/events/Katrina.rpy:204
 translate deutsch Katrina_1_label_4172b047:
 
     # Olivia "Enjoy the taste."
-    Olivia ""
+    Olivia "Genieß den Geschmack"
 
 # game/logic/events/Katrina.rpy:205
 translate deutsch Katrina_1_label_fac02ba5:
@@ -748,67 +748,67 @@ translate deutsch Katrina_1_label_ad18feb9:
 translate deutsch Katrina_1_label_2490e958:
 
     # ch_Name "{i}(This wine tastes divine... Almost unreal){/i}"
-    ch_Name ""
+    ch_Name "{i}(Dieser Wein schmeckt göttlich... Fast unwirklich){/i}"
 
 # game/logic/events/Katrina.rpy:209
 translate deutsch Katrina_1_label_692c8386:
 
     # ch_Name "{i}(Or is it the way it's served?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oder ist es die Art, wie er serviert wird?){/i}"
 
 # game/logic/events/Katrina.rpy:210
 translate deutsch Katrina_1_label_9bda0a50:
 
     # Olivia "Yes, lick it from my toes."
-    Olivia ""
+    Olivia "Ja, leck es von meinen Zehen."
 
 # game/logic/events/Katrina.rpy:212
 translate deutsch Katrina_1_label_0005c450:
 
     # Olivia "Like the filthy, useless cockroach you are!"
-    Olivia ""
+    Olivia "Wie die dreckige, nutzlose Kakerlake, die du bist!"
 
 # game/logic/events/Katrina.rpy:213
 translate deutsch Katrina_1_label_afb09aec:
 
     # ch_Name "{i}(I always knew you were a dominant bitch deep inside.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich wusste schon immer, dass du tief im Inneren eine dominante Schlampe warst.){/i}"
 
 # game/logic/events/Katrina.rpy:214
 translate deutsch Katrina_1_label_c97d1a39:
 
     # ch_Name "{i}(So why do you allow Don to use you like a toy?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Warum erlaubst du Don dann, dich wie ein Spielzeug zu benutzen?){/i}"
 
 # game/logic/events/Katrina.rpy:216
 translate deutsch Katrina_1_label_e4fb603a:
 
     # ch_Name "{i}(Can't wrap my head around Olivia...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich kann mir Olivia nicht erklären...){/i}"
 
 # game/logic/events/Katrina.rpy:217
 translate deutsch Katrina_1_label_32c12636:
 
     # ch_Name "{i}(I can't understand why you are doing all this.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich kann nicht verstehen, warum du das alles tust.){/i}"
 
 # game/logic/events/Katrina.rpy:218
 translate deutsch Katrina_1_label_73a5100b:
 
     # ch_Name "{i}(Something not right.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Da stimmt was nicht.){/i}"
 
 # game/logic/events/Katrina.rpy:220
 translate deutsch Katrina_1_label_e2fe8232:
 
     # Olivia "That's enough for you."
-    Olivia ""
+    Olivia "Das reicht jetzt."
 
 # game/logic/events/Katrina.rpy:221
 translate deutsch Katrina_1_label_c17bfaec:
 
     # ch_Name "{i}(I need to find out what's got into her...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich muss herausfinden, was in sie gefahren ist...){/i}"
 
 # game/logic/events/Katrina.rpy:224
 translate deutsch Katrina_1_label_39b1a1c0:
@@ -820,49 +820,49 @@ translate deutsch Katrina_1_label_39b1a1c0:
 translate deutsch Katrina_1_label_d6f9934c:
 
     # ch_Name "{i}(What the fuck, take your feet away from me, woman!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Was soll der Scheiß, nimm deine Füße von mir!){/i}"
 
 # game/logic/events/Katrina.rpy:227
 translate deutsch Katrina_1_label_412400e1:
 
     # Olivia "Gosh, you're so boring."
-    Olivia ""
+    Olivia "Gott, bist du langweilig."
 
 # game/logic/events/Katrina.rpy:228
 translate deutsch Katrina_1_label_95810372:
 
     # Olivia "Why did I ever think you could fit in my house."
-    Olivia ""
+    Olivia "Warum habe ich nur geglaubt, dass du in mein Haus passen würdest?"
 
 # game/logic/events/Katrina.rpy:230
 translate deutsch Katrina_1_label_03b6c80d:
 
     # ch_Name "That was harsh..."
-    ch_Name ""
+    ch_Name "Das war hart..."
 
 # game/logic/events/Katrina.rpy:231
 translate deutsch Katrina_1_label_e0730eec:
 
     # ch_Name "{i}(Olivia is surely acting strange.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Olivia verhält sich sicherlich seltsam.){/i}"
 
 # game/logic/events/Katrina.rpy:232
 translate deutsch Katrina_1_label_1947d4ae:
 
     # ch_Name "{i}(What's got into her?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Was ist in sie gefahren?){/i}"
 
 # game/logic/events/Katrina.rpy:235
 translate deutsch Katrina_1_label_c7e4e0c6:
 
     # ch_Name "So, what's the occasion?"
-    ch_Name ""
+    ch_Name "Also, was ist der Anlass?"
 
 # game/logic/events/Katrina.rpy:236
 translate deutsch Katrina_1_label_d7a22b5c:
 
     # Olivia "What's the occasion?"
-    Olivia ""
+    Olivia "Was ist der Anlass?"
 
 # game/logic/events/Katrina.rpy:237
 translate deutsch Katrina_1_label_85bfd5b2:
@@ -874,109 +874,109 @@ translate deutsch Katrina_1_label_85bfd5b2:
 translate deutsch Katrina_1_label_2c062e17:
 
     # Olivia "Your eviction, honey, What else?"
-    Olivia ""
+    Olivia "Deine Zwangsräumung, Schätzchen. Was noch?"
 
 # game/logic/events/Katrina.rpy:240
 translate deutsch Katrina_1_label_6d24f1b0:
 
     # ch_Name "Oh... Does it really makes you so happy?"
-    ch_Name ""
+    ch_Name "Oh... Macht dich das wirklich so glücklich?"
 
 # game/logic/events/Katrina.rpy:241
 translate deutsch Katrina_1_label_01d7c6fe:
 
     # Olivia "Of course, it does! You, little bloodsucker."
-    Olivia ""
+    Olivia "Na und ob! Du, kleiner Blutsauger."
 
 # game/logic/events/Katrina.rpy:242
 translate deutsch Katrina_1_label_0798b536:
 
     # Olivia "Ever since we got you... Everything went to shit."
-    Olivia ""
+    Olivia "Seitdem wir dich haben... ging alles den Bach runter."
 
 # game/logic/events/Katrina.rpy:244
 translate deutsch Katrina_1_label_cfd2ebf1:
 
     # Olivia "It once was a happy marriage, you know. Me and Don."
-    Olivia ""
+    Olivia "Es war einmal eine glückliche Ehe, weißt du. Ich und Don."
 
 # game/logic/events/Katrina.rpy:245
 translate deutsch Katrina_1_label_5c0abdf4:
 
     # Olivia "But I had to be burdened with the shittiest friend ever."
-    Olivia ""
+    Olivia "Aber ich musste mit dem beschissensten Freund aller Zeiten belastet werden."
 
 # game/logic/events/Katrina.rpy:246
 translate deutsch Katrina_1_label_bee32615:
 
     # Olivia "And her fucking spawn."
-    Olivia ""
+    Olivia "Und ihren verdammten kindern"
 
 # game/logic/events/Katrina.rpy:247
 translate deutsch Katrina_1_label_a89e405b:
 
     # Olivia "Don could not leave me with you and girls."
-    Olivia ""
+    Olivia "Don konnte mich nicht mit dir und den Mädchen allein lassen."
 
 # game/logic/events/Katrina.rpy:248
 translate deutsch Katrina_1_label_4c30839d:
 
     # Olivia "But he could never forgive me too."
-    Olivia ""
+    Olivia "Aber auch er konnte mir nie verzeihen."
 
 # game/logic/events/Katrina.rpy:249
 translate deutsch Katrina_1_label_67841cf7:
 
     # ch_Name "But why... Why do you blame me?"
-    ch_Name ""
+    ch_Name "Aber warum... Warum gibst du mir die Schuld?"
 
 # game/logic/events/Katrina.rpy:251
 translate deutsch Katrina_1_label_86df8eaf:
 
     # Olivia "Do you even have to ask?"
-    Olivia ""
+    Olivia "Musst du überhaupt fragen?"
 
 # game/logic/events/Katrina.rpy:252
 translate deutsch Katrina_1_label_fe36da31:
 
     # Olivia "You killed my dearest friend the moment you were born."
-    Olivia ""
+    Olivia "Du hast meinen besten Freund getötet, als du geboren wurdest."
 
 # game/logic/events/Katrina.rpy:253
 translate deutsch Katrina_1_label_82e2f59a:
 
     # Olivia "Burdened us with yourself. "
-    Olivia ""
+    Olivia "Du hast uns mit dir belastet."
 
 # game/logic/events/Katrina.rpy:255
 translate deutsch Katrina_1_label_fe5dda95:
 
     # ch_Name "If I was such a burden, why didn't you give me for adoption?"
-    ch_Name ""
+    ch_Name "Wenn ich so eine Last war, warum hast du mich dann nicht zur Adoption freigegeben?"
 
 # game/logic/events/Katrina.rpy:257
 translate deutsch Katrina_1_label_ec21cd3c:
 
     # Olivia "Don asked me to. Many times."
-    Olivia ""
+    Olivia "Don hat mich darum gebeten. Viele Male."
 
 # game/logic/events/Katrina.rpy:258
 translate deutsch Katrina_1_label_2c5acbcc:
 
     # Olivia "But how could I? I promised her to take care of you..."
-    Olivia ""
+    Olivia "Aber wie könnte ich? Ich habe ihr versprochen, mich um dich zu kümmern..."
 
 # game/logic/events/Katrina.rpy:259
 translate deutsch Katrina_1_label_9b073e9a:
 
     # Olivia "Can you imagine how stupid I was?"
-    Olivia ""
+    Olivia "Kannst du dir vorstellen, wie dumm ich war?"
 
 # game/logic/events/Katrina.rpy:261
 translate deutsch Katrina_1_label_b9bb2823:
 
     # Olivia "Merlin knows, I've done enough!"
-    Olivia ""
+    Olivia "Weiß der Teufel, ich habe genug getan!"
 
 # game/logic/events/Katrina.rpy:262
 translate deutsch Katrina_1_label_f6a83891:
@@ -988,187 +988,187 @@ translate deutsch Katrina_1_label_f6a83891:
 translate deutsch Katrina_1_label_98a47304:
 
     # ch_Name "{i}(Something sounded strange... Merlin???){/i}"
-    ch_Name ""
+    ch_Name "{i}(Etwas klang seltsam... Merlin???){/i}"
 
 # game/logic/events/Katrina.rpy:265
 translate deutsch Katrina_1_label_5ac8323b:
 
     # Olivia "Don't interrupt me, worthless worm!"
-    Olivia ""
+    Olivia "Unterbrich mich nicht, nichtsnutziger Wurm!"
 
 # game/logic/events/Katrina.rpy:266
 translate deutsch Katrina_1_label_8967e159:
 
     # Olivia "How do you feel now, when all your wrongdoings are coming back to you?"
-    Olivia ""
+    Olivia "Wie fühlst du dich jetzt, wo alle deine Verfehlungen auf dich zurückfallen?"
 
 # game/logic/events/Katrina.rpy:267
 translate deutsch Katrina_1_label_fdeac94d:
 
     # Olivia "You're homeless."
-    Olivia ""
+    Olivia "Du bist obdachlos."
 
 # game/logic/events/Katrina.rpy:268
 translate deutsch Katrina_1_label_87762acd:
 
     # Olivia "No one cares about you."
-    Olivia ""
+    Olivia "Niemand kümmert sich um dich."
 
 # game/logic/events/Katrina.rpy:269
 translate deutsch Katrina_1_label_6585bfc0:
 
     # Olivia "You're crippled. "
-    Olivia ""
+    Olivia "Du bist ein Krüppel."
 
 # game/logic/events/Katrina.rpy:271
 translate deutsch Katrina_1_label_2d8e313d:
 
     # Olivia "No magic in this world can save you. Not even Leona's!"
-    Olivia ""
+    Olivia "Keine Magie der Welt kann dich retten. Nicht einmal Leonas!"
 
 # game/logic/events/Katrina.rpy:272
 translate deutsch Katrina_1_label_809d0262:
 
     # ch_Name "{i}(Leona's? WAIT A MINUTE!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Leona's? MOMENT MAL!){/i}"
 
 # game/logic/events/Katrina.rpy:273
 translate deutsch Katrina_1_label_bc3deadb:
 
     # Olivia "If I were you. I'd crawl up some empty hole and die there."
-    Olivia ""
+    Olivia "Wenn ich du wäre. würde ich mich in ein leeres Loch verkriechen und dort sterben."
 
 # game/logic/events/Katrina.rpy:274
 translate deutsch Katrina_1_label_5e13d69a:
 
     # ch_Name "So why don't you?"
-    ch_Name ""
+    ch_Name "Warum also nicht?"
 
 # game/logic/events/Katrina.rpy:276
 translate deutsch Katrina_1_label_c4c2ec06:
 
     # Olivia "Excuse me?"
-    Olivia ""
+    Olivia "Wie bitte?"
 
 # game/logic/events/Katrina.rpy:277
 translate deutsch Katrina_1_label_1963ed87:
 
     # ch_Name "Why don't you crawl up some empty hole and die, huh?"
-    ch_Name ""
+    ch_Name "Warum verkriechst du dich nicht in einem leeren Loch und stirbst, hm?"
 
 # game/logic/events/Katrina.rpy:278
 translate deutsch Katrina_1_label_3a9b9724:
 
     # ch_Name "Oh, I forgot. Because you're already dead."
-    ch_Name ""
+    ch_Name "Oh, ich vergaß. Du bist ja schon tot."
 
 # game/logic/events/Katrina.rpy:279
 translate deutsch Katrina_1_label_55ae7416:
 
     # Olivia "What are you talking about, [Name]? "
-    Olivia ""
+    Olivia "Wovon redest du, [Name]? "
 
 # game/logic/events/Katrina.rpy:281
 translate deutsch Katrina_1_label_8c3f2340:
 
     # Olivia "Did Don hit you too hard?"
-    Olivia ""
+    Olivia "Hat Don dich zu hart geschlagen?"
 
 # game/logic/events/Katrina.rpy:282
 translate deutsch Katrina_1_label_ef7e5671:
 
     # ch_Name "I don't know what I'm talking about. Maybe Merlin knows!"
-    ch_Name ""
+    ch_Name "Ich weiß nicht, wovon ich spreche. Vielleicht weiß es Merlin!"
 
 # game/logic/events/Katrina.rpy:283
 translate deutsch Katrina_1_label_34918673:
 
     # Olivia "Who are you talking about? Merlin?"
-    Olivia ""
+    Olivia "Von wem sprichst du? Merlin?"
 
 # game/logic/events/Katrina.rpy:285
 translate deutsch Katrina_1_label_63112168:
 
     # ch_Name "You said it. You said \"Merlin knows\"."
-    ch_Name ""
+    ch_Name "Du hast es gesagt. Du hast \"Merlin weiß\" gesagt."
 
 # game/logic/events/Katrina.rpy:286
 translate deutsch Katrina_1_label_85a6c616:
 
     # ch_Name "Or maybe I heard it wrong. "
-    ch_Name ""
+    ch_Name "Oder vielleicht habe ich mich verhört. "
 
 # game/logic/events/Katrina.rpy:287
 translate deutsch Katrina_1_label_9e5ef16e:
 
     # Olivia "Yes! That's right."
-    Olivia ""
+    Olivia "Ja, das ist richtig."
 
 # game/logic/events/Katrina.rpy:289
 translate deutsch Katrina_1_label_402cd952:
 
     # ch_Name "Just like I misheard about Leona's magic, right, Katrina?"
-    ch_Name ""
+    ch_Name "Genauso wie ich mich über Leonas Magie verhört habe, stimmt's, Katrina?"
 
 # game/logic/events/Katrina.rpy:290
 translate deutsch Katrina_1_label_c11d9a8b:
 
     # Olivia "Crap... You got me. So there's really no need to..." with hpunch
-    Olivia "" with hpunch
+    Olivia "Verdammt... Du hast mich erwischt. Es gibt also wirklich keinen Grund, um..." with hpunch
 
 # game/logic/events/Katrina.rpy:292
 translate deutsch Katrina_1_label_fdb80cd0:
 
     # Katrina "Pretend anymore."
-    Katrina ""
+    Katrina "So tun, als ob."
 
 # game/logic/events/Katrina.rpy:293
 translate deutsch Katrina_1_label_f795ff95:
 
     # ch_Name "Hi there, ugly."
-    ch_Name ""
+    ch_Name "Hallo, Hässlicher."
 
 # game/logic/events/Katrina.rpy:294
 translate deutsch Katrina_1_label_b8128d00:
 
     # ch_Name "Still mad, that I've chosen a better house?"
-    ch_Name ""
+    ch_Name "Bist du immer noch sauer, dass ich mir ein besseres Haus ausgesucht habe?"
 
 # game/logic/events/Katrina.rpy:296
 translate deutsch Katrina_1_label_38c8fc59:
 
     # Katrina "Ignorant pig. "
-    Katrina ""
+    Katrina "Ignorantes Schwein. "
 
 # game/logic/events/Katrina.rpy:297
 translate deutsch Katrina_1_label_d05c2d71:
 
     # Katrina "Get a good laugh, you win this time."
-    Katrina ""
+    Katrina "Lach dich rhuig kaputt, diesmal hast du gewonnen."
 
 # game/logic/events/Katrina.rpy:298
 translate deutsch Katrina_1_label_13fdc073:
 
     # ch_Name "It wasn't very hard. You should have drank more imaginary wine."
-    ch_Name ""
+    ch_Name "Es war nicht sehr schwer. Du hättest mehr imaginären Wein trinken sollen."
 
 # game/logic/events/Katrina.rpy:300
 translate deutsch Katrina_1_label_4d57fc97:
 
     # Katrina "Mock me as much as you want."
-    Katrina ""
+    Katrina "Machen dich rhuig so viel du willst über mich lustig."
 
 # game/logic/events/Katrina.rpy:302
 translate deutsch Katrina_1_label_04024769:
 
     # Katrina "But I have all the time in the world. "
-    Katrina ""
+    Katrina "Aber ich habe alle Zeit der Welt. "
 
 # game/logic/events/Katrina.rpy:304
 translate deutsch Katrina_1_label_1b68c28f:
 
     # Katrina "And once upon a night you won't find a way back."
-    Katrina ""
+    Katrina "Und eines Nachts wirst du keinen Weg zurück finden."
 
 # game/logic/events/Katrina.rpy:310
 translate deutsch Katrina_1_label_027b1c56_1:
@@ -1180,61 +1180,61 @@ translate deutsch Katrina_1_label_027b1c56_1:
 translate deutsch Katrina_1_label_5e347f10:
 
     # ch_Name "Fuck... This dream was too real. Fuck!"
-    ch_Name ""
+    ch_Name "Verdammt... Dieser Traum war zu real. Scheiße!"
 
 # game/logic/events/Katrina.rpy:312
 translate deutsch Katrina_1_label_8bc0d4c7:
 
     # ch_Name "I can't leave this like that."
-    ch_Name ""
+    ch_Name "Ich kann das nicht so stehen lassen."
 
 # game/logic/events/Katrina.rpy:314
 translate deutsch Katrina_1_label_84c46967:
 
     # ch_Name "I need to find a way to summon Leona. I hope she has some answers."
-    ch_Name ""
+    ch_Name "Ich muss einen Weg finden, Leona herbeizurufen. Ich hoffe, sie hat ein paar Antworten."
 
 # game/logic/events/Katrina.rpy:315
 translate deutsch Katrina_1_label_4a94868f:
 
     # ch_Name "Maybe there's more to find in Sorting Foliant."
-    ch_Name ""
+    ch_Name "Vielleicht gibt es im Sortierfoliant noch mehr zu finden."
 
 # game/logic/events/Katrina.rpy:318
 translate deutsch Katrina_1_label_d610861b:
 
     # ch_Name "That nightmare made me feel so lonely..."
-    ch_Name ""
+    ch_Name "In diesem Albtraum habe ich mich so einsam gefühlt..."
 
 # game/logic/events/Katrina.rpy:319
 translate deutsch Katrina_1_label_7151a4de:
 
     # ch_Name "I desperately need some real human interactions."
-    ch_Name ""
+    ch_Name "Ich brauche dringend ein paar echte menschliche Interaktionen."
 
 # game/logic/events/Katrina.rpy:320
 translate deutsch Katrina_1_label_025e6c8e:
 
     # ch_Name "But if I want to make it in time for Victoria's lesson, I don't have much time."
-    ch_Name ""
+    ch_Name "Aber wenn ich es noch rechtzeitig zu Victorias Unterricht schaffen will, bleibt mir nicht viel Zeit."
 
 # game/logic/events/Katrina.rpy:321
 translate deutsch Katrina_1_label_470add5b:
 
     # ch_Name "I can have a cup of coffee with Audrey or tell Lily that I've won the bet."
-    ch_Name ""
+    ch_Name "Ich kann eine Tasse Kaffee mit Audrey trinken oder Lily sagen, dass ich die Wette gewonnen habe."
 
 translate deutsch strings:
 
     # game/logic/events/Katrina.rpy:102
     old "I need some time"
-    new ""
+    new "Ich brauche etwas Zeit"
 
     # game/logic/events/Katrina.rpy:102
     old "Are you crazy?"
-    new ""
+    new "Bist du verrückt?"
 
     # game/logic/events/Katrina.rpy:195
     old "Alright"
-    new ""
+    new "Alles klar"
 
