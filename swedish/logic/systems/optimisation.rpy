@@ -10,5 +10,5 @@ translate swedish strings:
 
     # game/logic/systems/optimisation.rpy:123
     old "Loading, please wait..."
-    new ""
+    new "Laddar, vänta snälla..."
 
