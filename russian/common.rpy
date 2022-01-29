@@ -112,155 +112,155 @@ translate russian strings:
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
-    new "Понедельник"
+    new "{#weekday}Понедельник"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Tuesday"
-    new "Вторник"
+    new "{#weekday}Вторник"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new "Среда"
+    new "{#weekday}Среда"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Thursday"
-    new "Четверг"
+    new "{#weekday}Четверг"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Friday"
-    new "Пятница"
+    new "{#weekday}Пятница"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Saturday"
-    new "Суббота"
+    new "{#weekday}Суббота"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Sunday"
-    new "Воскресенье"
+    new "{#weekday}Воскресенье"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Mon"
-    new "Пн"
+    new "{#weekday_short}Пн"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Tue"
-    new "Вт"
+    new "{#weekday_short}Вт"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Wed"
-    new "Ср"
+    new "{#weekday_short}Ср"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Thu"
-    new "Чв"
+    new "{#weekday_short}Чв"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Fri"
-    new "Пт"
+    new "{#weekday_short}Пт"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sat"
-    new "Сб"
+    new "{#weekday_short}Сб"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new "Вс"
+    new "{#weekday_short}Вс"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}January"
-    new "Январь"
+    new "{#month}Январь"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}February"
-    new "Февраль"
+    new "{#month}Февраль"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}March"
-    new "Март"
+    new "{#month}Март"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}April"
-    new "Апрель"
+    new "{#month}Апрель"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}May"
-    new "Май"
+    new "{#month}Май"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}June"
-    new "Июнь"
+    new "{#month}Июнь"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}July"
-    new "Июль"
+    new "{#month}Июль"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}August"
-    new "Август"
+    new "{#month}Август"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}September"
-    new "Сентябрь"
+    new "{#month}Сентябрь"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}October"
-    new "Октябрь"
+    new "{#month}Октябрь"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}November"
-    new "Ноябрь"
+    new "{#month}Ноябрь"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}December"
-    new "Декабрь"
+    new "{#month}Декабрь"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jan"
-    new "Янв"
+    new "{#month_short}Янв"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Feb"
-    new "Фев"
+    new "{#month_short}Фев"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Mar"
-    new "Мар"
+    new "{#month_short}Мар"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Apr"
-    new "Апр"
+    new "{#month_short}Апр"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}May"
-    new "Май"
+    new "{#month_short}Май"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jun"
-    new "Июнь"
+    new "{#month_short}Июнь"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jul"
-    new "Июль"
+    new "{#month_short}Июль"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Aug"
-    new "Авг"
+    new "{#month_short}Авг"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Sep"
-    new "Сен"
+    new "{#month_short}Сен"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Oct"
-    new "Окт"
+    new "{#month_short}Окт"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Nov"
-    new "Нояб"
+    new "{#month_short}Нояб"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Dec"
-    new "Дек"
+    new "{#month_short}Дек"
 
     # renpy/common/00action_file.rpy:250
     old "%b %d, %H:%M"
