@@ -4,259 +4,259 @@
 translate brazilian Elijah_1_label_46baad33:
 
     # ch_Name "Hi, prefect!"
-    ch_Name ""
+    ch_Name "Oi, líder de turma!"
 
 # game/logic/events/elijah.rpy:162
 translate brazilian Elijah_1_label_21c176ab:
 
     # Elijah "[Name]!{w} You're the one I've been waiting for! I have your instructions here!"
-    Elijah ""
+    Elijah "[Name]!{w} Era você que eu estava esperando! Tenho suas instruções aqui!"
 
 # game/logic/events/elijah.rpy:163
 translate brazilian Elijah_1_label_bea5117d:
 
     # ch_Name "Sorry, had to change."
-    ch_Name ""
+    ch_Name "Desculpa, tinha que me trocar."
 
 # game/logic/events/elijah.rpy:164
 translate brazilian Elijah_1_label_02a2d2f4:
 
     # ch_Name "What instructions?"
-    ch_Name ""
+    ch_Name "Que instruções?"
 
 # game/logic/events/elijah.rpy:166
 translate brazilian Elijah_1_label_8e538f5a:
 
     # Elijah "Safety instructions."
-    Elijah ""
+    Elijah "Instruções de segurança."
 
 # game/logic/events/elijah.rpy:167
 translate brazilian Elijah_1_label_eef11291:
 
     # Elijah "The local poltergeist is quite vicious..."
-    Elijah ""
+    Elijah "O fantasma local é bem malvado..."
 
 # game/logic/events/elijah.rpy:168
 translate brazilian Elijah_1_label_c1c37183:
 
     # ch_Name "Great..."
-    ch_Name ""
+    ch_Name "Ótimo..."
 
 # game/logic/events/elijah.rpy:170
 translate brazilian Elijah_1_label_134279a8:
 
     # Elijah "Relax.{w} I was kidding."
-    Elijah ""
+    Elijah "Relaxe.{w} Estava brincando."
 
 # game/logic/events/elijah.rpy:171
 translate brazilian Elijah_1_label_605bd484:
 
     # Elijah "Our poltergeist is pretty peaceful."
-    Elijah ""
+    Elijah "Nosso fantasma é bastante pacífico."
 
 # game/logic/events/elijah.rpy:172
 translate brazilian Elijah_1_label_f910bbfd:
 
     # Elijah "I'm talking about learning and stuff."
-    Elijah ""
+    Elijah "Estou falando sobre estudos e tal."
 
 # game/logic/events/elijah.rpy:174
 translate brazilian Elijah_1_label_129b6050:
 
     # Elijah "Oh, yeah! You're a freshman, I need to brief you."
-    Elijah ""
+    Elijah "Ah, sim! Você é um novato, eu preciso lhe instruir."
 
 # game/logic/events/elijah.rpy:175
 translate brazilian Elijah_1_label_c29f2332:
 
     # Elijah "I'm personally responsible for making sure you're fully prepared to study!"
-    Elijah ""
+    Elijah "Eu sou responsável pessoalmente por garantir que você esteja totalmente preparado para estudar!"
 
 # game/logic/events/elijah.rpy:176
 translate brazilian Elijah_1_label_35e0ad63:
 
     # Elijah "So I need you to get your textbooks."
-    Elijah ""
+    Elijah "Então, preciso que você pegue seus livros."
 
 # game/logic/events/elijah.rpy:178
 translate brazilian Elijah_1_label_07a8e0f7:
 
     # Elijah "Here, take your {b}student card{/b}... Show it to the library."
-    Elijah ""
+    Elijah "Aqui, tome o seu {b}cartão de estudante{/b}... Mostre na biblioteca."
 
 # game/logic/events/elijah.rpy:179
 translate brazilian Elijah_1_label_0d7d5102:
 
     # Elijah "They don't give out textbooks without it."
-    Elijah ""
+    Elijah "Eles não lhe entregam os livros sem isso."
 
 # game/logic/events/elijah.rpy:180
 translate brazilian Elijah_1_label_5e7056ff:
 
     # Elijah "After you get it, you can go to class."
-    Elijah ""
+    Elijah "Depois que você pegá-los, pode ir para a aula."
 
 # game/logic/events/elijah.rpy:181
 translate brazilian Elijah_1_label_ca38253b:
 
     # Elijah "Questions, objections, requests?"
-    Elijah ""
+    Elijah "Perguntas, objeções, solicitações?"
 
 # game/logic/events/elijah.rpy:182
 translate brazilian Elijah_1_label_89178c39:
 
     # ch_Name "Why do I even need a card? Who can be here except students and teachers?"
-    ch_Name ""
+    ch_Name "Porque eu preciso de um cartão? Quem pode estar aqui além de alunos e professores?"
 
 # game/logic/events/elijah.rpy:184
 translate brazilian Elijah_1_label_f1fe3585:
 
     # Elijah "Shapeshifters, evil entities, and spirits from another realm."
-    Elijah ""
+    Elijah "Metamorfos, entidades malignas, e espíritos de outro reino."
 
 # game/logic/events/elijah.rpy:185
 translate brazilian Elijah_1_label_d0caa680:
 
     # Elijah "Strange question, dude. Don't forget what place you are studying in!"
-    Elijah ""
+    Elijah "Pergunta estranah, cara. Não esqueça em que lugar você está estudando."
 
 # game/logic/events/elijah.rpy:186
 translate brazilian Elijah_1_label_591d7388:
 
     # Elijah "In Cordale you can meet unexpected things anywhere, even in the library."
-    Elijah ""
+    Elijah "Em Cordale você pode encontrar coisas inesperadas em qualquer lugar, até mesmo na biblioteca."
 
 # game/logic/events/elijah.rpy:188
 translate brazilian Elijah_1_label_3bbc9ddd:
 
     # Elijah "By the way, about the temple of knowledge."
-    Elijah ""
+    Elijah "Por sina, sobre o templo do conhecimento."
 
 # game/logic/events/elijah.rpy:189
 translate brazilian Elijah_1_label_64c53180:
 
     # Elijah "The library is open in the morning and afternoon."
-    Elijah ""
+    Elijah "A biblioteca está aberta de manhã e de tarde."
 
 # game/logic/events/elijah.rpy:190
 translate brazilian Elijah_1_label_d20f1940:
 
     # Elijah "Stop by during that time and pick up some textbooks from Amelie."
-    Elijah ""
+    Elijah "Passe lá nesses horários e pegue os livros com Amelie."
 
 # game/logic/events/elijah.rpy:191
 translate brazilian Elijah_1_label_028f6b09:
 
     # ch_Name "Amelie is..."
-    ch_Name ""
+    ch_Name "Amelie é..."
 
 # game/logic/events/elijah.rpy:192
 translate brazilian Elijah_1_label_676c8707:
 
     # Elijah "Our librarian."
-    Elijah ""
+    Elijah "Nossa bibliotecária."
 
 # game/logic/events/elijah.rpy:194
 translate brazilian Elijah_1_label_b1323f20:
 
     # Elijah "She' s super hot, if you ask my opinion."
-    Elijah ""
+    Elijah "Ela é super gostosa, se quer saber."
 
 # game/logic/events/elijah.rpy:195
 translate brazilian Elijah_1_label_ee2d7c7a:
 
     # ch_Name "Got it, got it."
-    ch_Name ""
+    ch_Name "Entendi, entedi."
 
 # game/logic/events/elijah.rpy:196
 translate brazilian Elijah_1_label_9b8ec4c9:
 
     # ch_Name "And the library is..."
-    ch_Name ""
+    ch_Name "E a biblioteca é..."
 
 # game/logic/events/elijah.rpy:197
 translate brazilian Elijah_1_label_db2aab2d:
 
     # Elijah "It's a big room with lots of books."
-    Elijah ""
+    Elijah "É uma sala grande e cheia de livros."
 
 # game/logic/events/elijah.rpy:198
 translate brazilian Elijah_1_label_3cf23b45:
 
     # Elijah "You go to the academy, and there..."
-    Elijah ""
+    Elijah "Você vai para a academia, e lá..."
 
 # game/logic/events/elijah.rpy:199
 translate brazilian Elijah_1_label_0d3c1dbd:
 
     # Elijah "...in the courtyard, first door on the left."
-    Elijah ""
+    Elijah "...na praça principal, primeira porta à esquerda."
 
 # game/logic/events/elijah.rpy:201
 translate brazilian Elijah_1_label_5b1d2857:
 
     # Elijah "Any questions?"
-    Elijah ""
+    Elijah "Alguma pergunta?"
 
 # game/logic/events/elijah.rpy:211
 translate brazilian Elijah_1_label_cc58522f:
 
     # ch_Name "Yes, I wanted to know more about the classes."
-    ch_Name ""
+    ch_Name "Sim, quero saber mais sobre as aulas."
 
 # game/logic/events/elijah.rpy:213
 translate brazilian Elijah_1_label_2a3bb262:
 
     # Elijah "First semester you'll have two core courses."
-    Elijah ""
+    Elijah "Primeiro semestre você tem dois cursos principais."
 
 # game/logic/events/elijah.rpy:214
 translate brazilian Elijah_1_label_2da7d5ac:
 
     # Elijah "Keep your student card with you."
-    Elijah ""
+    Elijah "Mantenha seu cartão de estudante com você."
 
 # game/logic/events/elijah.rpy:215
 translate brazilian Elijah_1_label_86f9b981:
 
     # Elijah "With it, you can attend Fundamentals of Magic and Potions."
-    Elijah ""
+    Elijah "Com ele, você pode assistir Fundamentos de Magia e Poções."
 
 # game/logic/events/elijah.rpy:216
 translate brazilian Elijah_1_label_d4b32756:
 
     # Elijah "Fundamentals of Magic has been taught by Miss Lapis for the past few years."
-    Elijah ""
+    Elijah "Fundamentos de Magia é ensinado pela Srta. Lapis pelos últimos anos."
 
 # game/logic/events/elijah.rpy:217
 translate brazilian Elijah_1_label_550b2fe6:
 
     # Elijah "You probably already know her."
-    Elijah ""
+    Elijah "Você provavelmente já a conhece."
 
 # game/logic/events/elijah.rpy:219
 translate brazilian Elijah_1_label_405cc983:
 
     # Elijah "The class is in the classroom where you had your exam."
-    Elijah ""
+    Elijah "A aula é na sala onde você fez o seu teste."
 
 # game/logic/events/elijah.rpy:220
 translate brazilian Elijah_1_label_768f1367:
 
     # Elijah "I think Victoria, as usual, will focus on battle magic."
-    Elijah ""
+    Elijah "Eu acho que Victoria, como usual, irá se focar em magia de batalha."
 
 # game/logic/events/elijah.rpy:221
 translate brazilian Elijah_1_label_c802d584:
 
     # Elijah "I wouldn't say that's a bad thing."
-    Elijah ""
+    Elijah "Eu não diria que isso é ruim."
 
 # game/logic/events/elijah.rpy:222
 translate brazilian Elijah_1_label_623e060a:
 
     # Elijah "Combat magic is rough, but it's very impressive."
-    Elijah ""
+    Elijah "Magia de combat é dura, mas é bastante impressionante."
 
 # game/logic/events/elijah.rpy:223
 translate brazilian Elijah_1_label_a37f47cb:
