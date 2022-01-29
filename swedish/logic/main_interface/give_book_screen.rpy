@@ -4,13 +4,13 @@ translate swedish strings:
 
     # game/logic/main_interface/give_book_screen.rpy:80
     old "Get points"
-    new ""
+    new "Få poäng"
 
     # game/logic/main_interface/give_book_screen.rpy:91
     old "Chose the quantity:"
-    new ""
+    new "Välj antal"
 
     # game/logic/main_interface/give_book_screen.rpy:124
     old "Confirm"
-    new ""
+    new "Bekräfta"
 
