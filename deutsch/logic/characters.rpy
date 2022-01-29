@@ -16,7 +16,7 @@ translate deutsch strings:
 
     # game/logic/characters.rpy:10
     old "Note"
-    new ""
+    new "Notiz"
 
     # game/logic/characters.rpy:11
     old "Adele"
@@ -76,7 +76,7 @@ translate deutsch strings:
 
     # game/logic/characters.rpy:25
     old "Giant"
-    new ""
+    new "Gigant"
 
     # game/logic/characters.rpy:26
     old "Gordon"
@@ -176,17 +176,17 @@ translate deutsch strings:
 
     # game/logic/characters.rpy:52
     old "Unknown Man"
-    new ""
+    new "Unbekannter Mann"
 
     # game/logic/characters.rpy:54
     old "Guy"
-    new ""
+    new "Typ"
 
     # game/logic/characters.rpy:55
     old "Unknown Girl"
-    new ""
+    new "Unbekanntes Mädchen"
 
     # game/logic/characters.rpy:59
     old "Unknown elf"
-    new ""
+    new "Unbekannte Elfe"
 
