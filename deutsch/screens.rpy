@@ -10,47 +10,47 @@ translate deutsch strings:
 
     # game/screens.rpy:896
     old "New game"
-    new ""
+    new "Neues Spiel"
 
     # game/screens.rpy:914
     old "Xmas Special"
-    new ""
+    new "Weihnachts-Special"
 
     # game/screens.rpy:934
     old "History"
-    new ""
+    new "Historie"
 
     # game/screens.rpy:951
     old "Save"
-    new ""
+    new "Speichern"
 
     # game/screens.rpy:969
     old "Settings"
-    new ""
+    new "Einstellungen"
 
     # game/screens.rpy:986
     old "Load"
-    new ""
+    new "Laden"
 
     # game/screens.rpy:1006
     old "Main Menu"
-    new ""
+    new "Hauptmenü"
 
     # game/screens.rpy:1024
     old "Credits"
-    new ""
+    new "Impressum"
 
     # game/screens.rpy:1042
     old "Gallery"
-    new ""
+    new "Galerie"
 
     # game/screens.rpy:1063
     old "Help"
-    new ""
+    new "Hilfe"
 
     # game/screens.rpy:1087
     old "Quit"
-    new ""
+    new "Beenden"
 
     # game/screens.rpy:1150
     old "Details"
@@ -58,19 +58,19 @@ translate deutsch strings:
 
     # game/screens.rpy:1150
     old "Not now"
-    new ""
+    new "Nicht jetzt"
 
     # game/screens.rpy:2007
     old "Page {}"
-    new ""
+    new "Seite {}"
 
     # game/screens.rpy:2007
     old "Automatic saves"
-    new ""
+    new "Automatisches Speichern"
 
     # game/screens.rpy:2007
     old "Quick saves"
-    new ""
+    new "Schnelles Speichern"
 
     # game/screens.rpy:2096
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -78,15 +78,15 @@ translate deutsch strings:
 
     # game/screens.rpy:2096
     old "empty slot"
-    new ""
+    new "leerer Slot"
 
     # game/screens.rpy:2118
     old "Yes"
-    new ""
+    new "Ja"
 
     # game/screens.rpy:2118
     old "No"
-    new ""
+    new "Nein"
 
     # game/screens.rpy:2178
     old "{#auto_page}A"
@@ -98,79 +98,79 @@ translate deutsch strings:
 
     # game/screens.rpy:2572
     old "MUTE ALL"
-    new ""
+    new "ALLE STUMMSCHALTEN"
 
     # game/screens.rpy:2770
     old "The dialogue history is empty."
-    new ""
+    new "Der Dialogverlauf ist leer."
 
     # game/screens.rpy:2855
     old "Rolls forward to later dialogue."
-    new ""
+    new "Spult vor zu einem späteren Dialog."
 
     # game/screens.rpy:2855
     old "Opens the inventory menu."
-    new ""
+    new "Öffnet das Inventarmenü."
 
     # game/screens.rpy:2855
     old "Opens the phone menu."
-    new ""
+    new "Öffnet das Telefonmenü."
 
     # game/screens.rpy:2855
     old "Opens the list of available routes."
-    new ""
+    new "Öffnet die Liste der verfügbaren Routen."
 
     # game/screens.rpy:2880
     old "Takes a screenshot."
-    new ""
+    new "Macht ein Bildschirmfoto."
 
     # game/screens.rpy:2880
     old "Opens the map."
-    new ""
+    new "Öffnet die Karte."
 
     # game/screens.rpy:2880
     old "Advances dialogue without selecting choices."
-    new ""
+    new "Schreitet im Dialog voran, ohne eine Auswahl zu treffen."
 
     # game/screens.rpy:2880
     old "Skips dialogue while held down."
-    new ""
+    new "Überspringt Dialoge, wenn Taste gedrückt gehalten wird."
 
     # game/screens.rpy:2880
     old "Toggles dialogue skipping."
-    new ""
+    new "Schaltet das Überspringen von Dialogen ein."
 
     # game/screens.rpy:2880
     old "Rolls back to earlier dialogue."
-    new ""
+    new "Kehrt zu einem früheren Dialog zurück."
 
     # game/screens.rpy:2880
     old "Highlights all active objects."
-    new ""
+    new "Markiert alle aktiven Objekte."
 
     # game/screens.rpy:2880
     old "Enables fullscreen mode."
-    new ""
+    new "Aktiviert den Vollbildmodus."
 
     # game/screens.rpy:2880
     old "Navigate the interface."
-    new ""
+    new "Navigiert duch das Interface."
 
     # game/screens.rpy:2923
     old "Enter"
-    new ""
+    new "Eingabe"
 
     # game/screens.rpy:2924
     old "Advances dialogue and activates the interface."
-    new ""
+    new "Schreitet im Dialog voran, und aktiviert das Interface"
 
     # game/screens.rpy:2927
     old "Space"
-    new ""
+    new "Leertaste"
 
     # game/screens.rpy:2931
     old "Arrow Keys"
-    new ""
+    new "Pfeil Tasten"
 
     # game/screens.rpy:2935
     old "Escape"
@@ -178,7 +178,7 @@ translate deutsch strings:
 
     # game/screens.rpy:2936
     old "Accesses the game menu."
-    new ""
+    new "Ruft das Spielmenü auf."
 
     # game/screens.rpy:2939
     old "Ctrl"
@@ -226,7 +226,7 @@ translate deutsch strings:
 
     # game/screens.rpy:2976
     old "Hides the user interface."
-    new ""
+    new "Blendet die Benutzeroberfläche aus."
 
     # game/screens.rpy:2978
     old "S"
@@ -234,15 +234,15 @@ translate deutsch strings:
 
     # game/screens.rpy:3016
     old "Right Trigger\nA/Bottom Button"
-    new ""
+    new "Rechter Trigger\nA/Unterer Kno"
 
     # game/screens.rpy:3020
     old "Left Trigger\nLeft Shoulder"
-    new ""
+    new "Linker Trigger\nLinker Schulter Knopf"
 
     # game/screens.rpy:3024
     old "Right Shoulder"
-    new ""
+    new "Rechter Schulter Knopf"
 
     # game/screens.rpy:3029
     old "D-Pad, Sticks"
@@ -250,27 +250,27 @@ translate deutsch strings:
 
     # game/screens.rpy:3033
     old "Start, Guide"
-    new ""
+    new "Start, Leitfaden"
 
     # game/screens.rpy:3037
     old "Y/Top Button"
-    new ""
+    new "Y/Oberer Knopf"
 
     # game/screens.rpy:3040
     old "Calibrate"
-    new ""
+    new "Kalibrieren"
 
     # game/screens.rpy:3273
     old "Skipping"
-    new ""
+    new "Überspringen"
 
     # game/screens.rpy:3497
     old "Back"
-    new ""
+    new "Zurück"
 
     # game/screens.rpy:3498
     old "Skip"
-    new ""
+    new "Überspringen"
 
     # game/screens.rpy:3499
     old "Auto"
@@ -278,5 +278,5 @@ translate deutsch strings:
 
     # game/screens.rpy:3500
     old "Menu"
-    new ""
+    new "Menü"
 
