@@ -234,7 +234,7 @@ translate deutsch strings:
 
     # game/screens.rpy:3016
     old "Right Trigger\nA/Bottom Button"
-    new "Rechter Trigger\nA/Unterer Kno"
+    new "Rechter Trigger\nA/Unterer Knopf"
 
     # game/screens.rpy:3020
     old "Left Trigger\nLeft Shoulder"
