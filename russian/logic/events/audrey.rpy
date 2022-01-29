@@ -4,199 +4,199 @@
 translate russian Audrey_1_label_141b86f8:
 
     # ch_Name "{i}(Oh, that's Samantha's hot friend!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Оу, это сексуальная подружка Саманты){/i}"
 
 # game/logic/events/audrey.rpy:144
 translate russian Audrey_1_label_17881b86:
 
     # ch_Name "Yo, Audrey!"
-    ch_Name ""
+    ch_Name "Хэй, Одри"
 
 # game/logic/events/audrey.rpy:145
 translate russian Audrey_1_label_8f8f2abb:
 
     # ch_Name "Good morning."
-    ch_Name ""
+    ch_Name "Доброе утро"
 
 # game/logic/events/audrey.rpy:146
 translate russian Audrey_1_label_57b83787:
 
     # Audrey "Morning."
-    Audrey ""
+    Audrey "Доброе"
 
 # game/logic/events/audrey.rpy:147
 translate russian Audrey_1_label_bead6911:
 
     # ch_Name "What are you doing?"
-    ch_Name ""
+    ch_Name "Как дела?"
 
 # game/logic/events/audrey.rpy:149
 translate russian Audrey_1_label_9bf4927a:
 
     # Audrey "Doing yoga, can't you see?!"
-    Audrey ""
+    Audrey "Занимаюсь йогой, или ты не видишь?!"
 
 # game/logic/events/audrey.rpy:150
 translate russian Audrey_1_label_0bf01b2b:
 
     # Audrey "What kind of stupid question is that?"
-    Audrey ""
+    Audrey "Что за тупой вопрос?"
 
 # game/logic/events/audrey.rpy:152
 translate russian Audrey_1_label_076d0c01:
 
     # Audrey "Making coffee."
-    Audrey ""
+    Audrey "Кофе делаю"
 
 # game/logic/events/audrey.rpy:153
 translate russian Audrey_1_label_6c133ab5:
 
     # ch_Name "{i}(I still don't understand how you and Samantha became friends...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Все еще не понимаю, как вы подружились с Самантой...){/i}"
 
 # game/logic/events/audrey.rpy:154
 translate russian Audrey_1_label_38f52007:
 
     # ch_Name "{i}(She's so sweet and calm.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Она такая спокойная и милая){/i}"
 
 # game/logic/events/audrey.rpy:158
 translate russian Audrey_1_label_0bc5ed7a:
 
     # ch_Name "{i}(And you're as prickly as a cactus!){/i}"
-    ch_Name ""
+    ch_Name "{i}(А ты вся такая колкая, как кактус!){/i}"
 
 # game/logic/events/audrey.rpy:159
 translate russian Audrey_1_label_673900de:
 
     # ch_Name "{i}(Samantha couldn't stand people like that before...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Саманта раньше на дух не переносила таких людей...){/i}"
 
 # game/logic/events/audrey.rpy:160
 translate russian Audrey_1_label_0bd26bf9:
 
     # ch_Name "{i}(I doubt butt is your only asset.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Сомневаюсь, что твоя попка единственная причина.)"
 
 # game/logic/events/audrey.rpy:162
 translate russian Audrey_1_label_36f5caac:
 
     # ch_Name "{i}(Not likely to be the reason Samantha tolerates you.){/i}"
-    ch_Name ""
+    ch_Name "{i}(По которой Саманта все еще тебя терпит.){/i}"
 
 # game/logic/events/audrey.rpy:163
 translate russian Audrey_1_label_d4b0ea65:
 
     # ch_Name "{i}(Although if it is, who's going to judge her?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Хотя, если это так, кто ее осудит?){/i}"
 
 # game/logic/events/audrey.rpy:164
 translate russian Audrey_1_label_f5270146:
 
     # ch_Name "{i}(We're talking about ass like that.){/i}"
-    ch_Name ""
+    ch_Name "{i}(В конце концов мы говорим о такой заднице.){/i}"
 
 # game/logic/events/audrey.rpy:165
 translate russian Audrey_1_label_4aad17bb:
 
     # Audrey "Oh, crap."
-    Audrey ""
+    Audrey "Вот черт"
 
 # game/logic/events/audrey.rpy:166
 translate russian Audrey_1_label_633cc218:
 
     # Audrey "{b}We're out of cream.{/b}"
-    Audrey ""
+    Audrey "{b}У нас кончился сливки{/b}"
 
 # game/logic/events/audrey.rpy:167
 translate russian Audrey_1_label_7bc1b910:
 
     # ch_Name "That's a shame."
-    ch_Name ""
+    ch_Name "Очень жаль"
 
 # game/logic/events/audrey.rpy:168
 translate russian Audrey_1_label_09a16a33:
 
     # ch_Name "Weird, I thought the fridge was magic."
-    ch_Name ""
+    ch_Name "Странно, я думал, что холодильник был волшебным."
 
 # game/logic/events/audrey.rpy:170
 translate russian Audrey_1_label_92c15e55:
 
     # Audrey "It is."
-    Audrey ""
+    Audrey "Он и есть"
 
 # game/logic/events/audrey.rpy:171
 translate russian Audrey_1_label_68f2e201:
 
     # Audrey "It only gives out what the students want."
-    Audrey ""
+    Audrey "Он выдает только то, что хотят студенты."
 
 # game/logic/events/audrey.rpy:172
 translate russian Audrey_1_label_54529cfc:
 
     # Audrey "But sometimes it gets weird with cream and persimmons and Jerusalem artichokes."
-    Audrey ""
+    Audrey "Но иногда что то странное происходит со сливками, хурмой и топинамбурными артишоками."
 
 # game/logic/events/audrey.rpy:173
 translate russian Audrey_1_label_243f88b8:
 
     # Audrey "I have no idea why those particular products."
-    Audrey ""
+    Audrey "Я понятия не имею, почему именно эти продукты."
 
 # game/logic/events/audrey.rpy:175
 translate russian Audrey_1_label_6c0e0314:
 
     # Audrey "El didn't tell you?"
-    Audrey ""
+    Audrey "Эл тебе не сказал?"
 
 # game/logic/events/audrey.rpy:176
 translate russian Audrey_1_label_130202e3:
 
     # ch_Name "Uh, no."
-    ch_Name ""
+    ch_Name "Э-э, нет."
 
 # game/logic/events/audrey.rpy:177
 translate russian Audrey_1_label_6657ae49:
 
     # ch_Name "What a strange list of exceptions."
-    ch_Name ""
+    ch_Name "Какой странный список исключений."
 
 # game/logic/events/audrey.rpy:178
 translate russian Audrey_1_label_f0044b88:
 
     # Audrey "Well, you know."
-    Audrey ""
+    Audrey "Нуу, ты знаешь."
 
 # game/logic/events/audrey.rpy:179
 translate russian Audrey_1_label_0a19eaf0:
 
     # Audrey "The wizard who put it together had his quirks."
-    Audrey ""
+    Audrey "У волшебника, который все это собрал, были свои причуды."
 
 # game/logic/events/audrey.rpy:181
 translate russian Audrey_1_label_cce1caf0:
 
     # Audrey "Oh, man, this whole day is ruined."
-    Audrey ""
+    Audrey "Вот блин, весь день испорчен."
 
 # game/logic/events/audrey.rpy:182
 translate russian Audrey_1_label_9e732e5e:
 
     # ch_Name "Don't worry about it."
-    ch_Name ""
+    ch_Name "Не беспокойся об этом."
 
 # game/logic/events/audrey.rpy:183
 translate russian Audrey_1_label_979d5165:
 
     # ch_Name "I'm sure your day will be fine without the artichokes."
-    ch_Name ""
+    ch_Name "Я уверен, что ваш день пройдет прекрасно и без артишоков."
 
 # game/logic/events/audrey.rpy:185
 translate russian Audrey_1_label_f382e2e5:
 
     # Audrey "It's not funny."
-    Audrey ""
+    Audrey "Не смешно"
 
 # game/logic/events/audrey.rpy:186
 translate russian Audrey_1_label_a6ed42e6:
