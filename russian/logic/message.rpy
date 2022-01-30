@@ -4,33 +4,33 @@ translate russian strings:
 
     # game/logic/message.rpy:3
     old "New profile: {0}"
-    new ""
+    new "Новый профиль: {0}"
 
     # game/logic/message.rpy:3
     old "New notice: {0}"
-    new ""
+    new "Новое уведомление: {0}"
 
     # game/logic/message.rpy:3
     old "New contact in Lustagram"
-    new ""
+    new "Новый контакт в Lustagram"
 
     # game/logic/message.rpy:3
     old "New post in Lustagram"
-    new ""
+    new "Новый пост в Lustagram"
 
     # game/logic/message.rpy:3
     old "You receive {0}"
-    new ""
+    new "Вы получили {0}"
 
     # game/logic/message.rpy:3
     old "{0} points {1}"
-    new ""
+    new "{0} баллов {1}"
 
     # game/logic/message.rpy:3
     old "New recipe {0}"
-    new ""
+    new "Новый рецепт {0}"
 
     # game/logic/message.rpy:3
     old "New spell: {0}"
-    new ""
+    new "Новое заклинание: {0}"
 
