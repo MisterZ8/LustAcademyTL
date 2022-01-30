@@ -4,271 +4,271 @@
 translate deutsch Audrey_1_label_141b86f8:
 
     # ch_Name "{i}(Oh, that's Samantha's hot friend!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, das ist Samanthas heißer Freund!){/i}"
 
 # game/logic/events/audrey.rpy:144
 translate deutsch Audrey_1_label_17881b86:
 
     # ch_Name "Yo, Audrey!"
-    ch_Name ""
+    ch_Name "Hey, Audrey!"
 
 # game/logic/events/audrey.rpy:145
 translate deutsch Audrey_1_label_8f8f2abb:
 
     # ch_Name "Good morning."
-    ch_Name ""
+    ch_Name "Guten Morgen."
 
 # game/logic/events/audrey.rpy:146
 translate deutsch Audrey_1_label_57b83787:
 
     # Audrey "Morning."
-    Audrey ""
+    Audrey "Morgen."
 
 # game/logic/events/audrey.rpy:147
 translate deutsch Audrey_1_label_bead6911:
 
     # ch_Name "What are you doing?"
-    ch_Name ""
+    ch_Name "Was machst du da?"
 
 # game/logic/events/audrey.rpy:149
 translate deutsch Audrey_1_label_9bf4927a:
 
     # Audrey "Doing yoga, can't you see?!"
-    Audrey ""
+    Audrey "Ich mache Yoga, siehst du das nicht?!"
 
 # game/logic/events/audrey.rpy:150
 translate deutsch Audrey_1_label_0bf01b2b:
 
     # Audrey "What kind of stupid question is that?"
-    Audrey ""
+    Audrey "Was ist das für eine dumme Frage?"
 
 # game/logic/events/audrey.rpy:152
 translate deutsch Audrey_1_label_076d0c01:
 
     # Audrey "Making coffee."
-    Audrey ""
+    Audrey "Kaffee machen."
 
 # game/logic/events/audrey.rpy:153
 translate deutsch Audrey_1_label_6c133ab5:
 
     # ch_Name "{i}(I still don't understand how you and Samantha became friends...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich verstehe immer noch nicht, wie du und Samantha Freunde geworden seid...){/i}"
 
 # game/logic/events/audrey.rpy:154
 translate deutsch Audrey_1_label_38f52007:
 
     # ch_Name "{i}(She's so sweet and calm.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sie ist so süß und ruhig.){/i}"
 
 # game/logic/events/audrey.rpy:158
 translate deutsch Audrey_1_label_0bc5ed7a:
 
     # ch_Name "{i}(And you're as prickly as a cactus!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Und du bist so stachelig wie ein Kaktus!){/i}"
 
 # game/logic/events/audrey.rpy:159
 translate deutsch Audrey_1_label_673900de:
 
     # ch_Name "{i}(Samantha couldn't stand people like that before...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Samantha konnte solche Leute früher nicht ausstehen...){/i}"
 
 # game/logic/events/audrey.rpy:160
 translate deutsch Audrey_1_label_0bd26bf9:
 
     # ch_Name "{i}(I doubt butt is your only asset.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich bezweifle, dass Ihr Hintern Ihr einziges Plus ist.){/i}"
 
 # game/logic/events/audrey.rpy:162
 translate deutsch Audrey_1_label_36f5caac:
 
     # ch_Name "{i}(Not likely to be the reason Samantha tolerates you.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wahrscheinlich ist das nicht der Grund, warum Samantha Sie toleriert.){/i}"
 
 # game/logic/events/audrey.rpy:163
 translate deutsch Audrey_1_label_d4b0ea65:
 
     # ch_Name "{i}(Although if it is, who's going to judge her?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Obwohl, wenn es so ist, wer wird sie dann verurteilen?){/i}"
 
 # game/logic/events/audrey.rpy:164
 translate deutsch Audrey_1_label_f5270146:
 
     # ch_Name "{i}(We're talking about ass like that.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wir reden hier von einem Arsch wie diesem.){/i}"
 
 # game/logic/events/audrey.rpy:165
 translate deutsch Audrey_1_label_4aad17bb:
 
     # Audrey "Oh, crap."
-    Audrey ""
+    Audrey "Oh, verdammt."
 
 # game/logic/events/audrey.rpy:166
 translate deutsch Audrey_1_label_633cc218:
 
     # Audrey "{b}We're out of cream.{/b}"
-    Audrey ""
+    Audrey "{b}Wir haben keine Sahne mehr.{/b}"
 
 # game/logic/events/audrey.rpy:167
 translate deutsch Audrey_1_label_7bc1b910:
 
     # ch_Name "That's a shame."
-    ch_Name ""
+    ch_Name "Das ist schade."
 
 # game/logic/events/audrey.rpy:168
 translate deutsch Audrey_1_label_09a16a33:
 
     # ch_Name "Weird, I thought the fridge was magic."
-    ch_Name ""
+    ch_Name "Seltsam, ich dachte, der Kühlschrank sei magisch."
 
 # game/logic/events/audrey.rpy:170
 translate deutsch Audrey_1_label_92c15e55:
 
     # Audrey "It is."
-    Audrey ""
+    Audrey "Das ist er."
 
 # game/logic/events/audrey.rpy:171
 translate deutsch Audrey_1_label_68f2e201:
 
     # Audrey "It only gives out what the students want."
-    Audrey ""
+    Audrey "Er gibt nur das heraus, was die Schüler wollen."
 
 # game/logic/events/audrey.rpy:172
 translate deutsch Audrey_1_label_54529cfc:
 
     # Audrey "But sometimes it gets weird with cream and persimmons and Jerusalem artichokes."
-    Audrey ""
+    Audrey "Aber manchmal wird es mit Sahne, Kakis und Topinambur etwas seltsam."
 
 # game/logic/events/audrey.rpy:173
 translate deutsch Audrey_1_label_243f88b8:
 
     # Audrey "I have no idea why those particular products."
-    Audrey ""
+    Audrey "Ich habe keine Ahnung, warum gerade diese Produkte."
 
 # game/logic/events/audrey.rpy:175
 translate deutsch Audrey_1_label_6c0e0314:
 
     # Audrey "El didn't tell you?"
-    Audrey ""
+    Audrey "Hat El es dir nicht gesagt?"
 
 # game/logic/events/audrey.rpy:176
 translate deutsch Audrey_1_label_130202e3:
 
     # ch_Name "Uh, no."
-    ch_Name ""
+    ch_Name "Äh, nein."
 
 # game/logic/events/audrey.rpy:177
 translate deutsch Audrey_1_label_6657ae49:
 
     # ch_Name "What a strange list of exceptions."
-    ch_Name ""
+    ch_Name "Was für eine seltsame Liste von Ausnahmen."
 
 # game/logic/events/audrey.rpy:178
 translate deutsch Audrey_1_label_f0044b88:
 
     # Audrey "Well, you know."
-    Audrey ""
+    Audrey "Na ja, du weißt schon."
 
 # game/logic/events/audrey.rpy:179
 translate deutsch Audrey_1_label_0a19eaf0:
 
     # Audrey "The wizard who put it together had his quirks."
-    Audrey ""
+    Audrey "Der Zauberer, der sie zusammenbaute, hatte seine Macken."
 
 # game/logic/events/audrey.rpy:181
 translate deutsch Audrey_1_label_cce1caf0:
 
     # Audrey "Oh, man, this whole day is ruined."
-    Audrey ""
+    Audrey "Oh, Mann, der ganze Tag ist ruiniert."
 
 # game/logic/events/audrey.rpy:182
 translate deutsch Audrey_1_label_9e732e5e:
 
     # ch_Name "Don't worry about it."
-    ch_Name ""
+    ch_Name "Mach dir keine Gedanken darüber."
 
 # game/logic/events/audrey.rpy:183
 translate deutsch Audrey_1_label_979d5165:
 
     # ch_Name "I'm sure your day will be fine without the artichokes."
-    ch_Name ""
+    ch_Name "Ich bin sicher, dass dein Tag auch ohne die Artischocken schön wird."
 
 # game/logic/events/audrey.rpy:185
 translate deutsch Audrey_1_label_f382e2e5:
 
     # Audrey "It's not funny."
-    Audrey ""
+    Audrey "Das ist nicht lustig."
 
 # game/logic/events/audrey.rpy:186
 translate deutsch Audrey_1_label_a6ed42e6:
 
     # Audrey "{b}I just wanted a cup of coffee{/b} in the morning..."
-    Audrey ""
+    Audrey "{b}Ich wollte nur eine tasse Kaffee{/b} am morgen..."
 
 # game/logic/events/audrey.rpy:187
 translate deutsch Audrey_1_label_23122a1f:
 
     # Audrey "Damn it, Elijah, I told you to take care of it!"
-    Audrey ""
+    Audrey "Verdammt, Elijah, ich habe dir gesagt, du sollst dich darum kümmern!"
 
 # game/logic/events/audrey.rpy:189
 translate deutsch Audrey_1_label_3bfb114c:
 
     # ch_Name "Maybe you could stop by the coffee shop before class."
-    ch_Name ""
+    ch_Name "Vielleicht könntest du vor dem Unterricht im Coffee Shop vorbeischauen."
 
 # game/logic/events/audrey.rpy:190
 translate deutsch Audrey_1_label_8b618c03:
 
     # Audrey "Hmm... No, I can't."
-    Audrey ""
+    Audrey "Hmm... Nein, ich kann nicht."
 
 # game/logic/events/audrey.rpy:191
 translate deutsch Audrey_1_label_8bd36af4:
 
     # Audrey "The cafe's only open in the afternoon."
-    Audrey ""
+    Audrey "Das Café ist nur am Nachmittag geöffnet."
 
 # game/logic/events/audrey.rpy:192
 translate deutsch Audrey_1_label_27b8a809:
 
     # Audrey "Wait a minute!"
-    Audrey ""
+    Audrey "Warte einen Moment!"
 
 # game/logic/events/audrey.rpy:194
 translate deutsch Audrey_1_label_320f2388:
 
     # Audrey "Don't you work there part-time?"
-    Audrey ""
+    Audrey "Arbeitest du dort nicht in Teilzeit?"
 
 # game/logic/events/audrey.rpy:195
 translate deutsch Audrey_1_label_d1685f6c:
 
     # ch_Name "From time to time."
-    ch_Name ""
+    ch_Name "Hin und wieder."
 
 # game/logic/events/audrey.rpy:196
 translate deutsch Audrey_1_label_149157f0:
 
     # ch_Name "But I don't have the keys."
-    ch_Name ""
+    ch_Name "Aber ich habe die Schlüssel nicht."
 
 # game/logic/events/audrey.rpy:197
 translate deutsch Audrey_1_label_212438eb:
 
     # Audrey "So what?"
-    Audrey ""
+    Audrey "Na und?"
 
 # game/logic/events/audrey.rpy:198
 translate deutsch Audrey_1_label_307992ff:
 
     # Audrey "That girl who runs the place..."
-    Audrey ""
+    Audrey "Das Mädchen, das den Laden führt..."
 
 # game/logic/events/audrey.rpy:199
 translate deutsch Audrey_1_label_5e93bb5e:
 
     # Audrey "What's her name?"
-    Audrey ""
+    Audrey "Wie ist ihr Name?"
 
 # game/logic/events/audrey.rpy:200
 translate deutsch Audrey_1_label_25336081:
@@ -280,289 +280,289 @@ translate deutsch Audrey_1_label_25336081:
 translate deutsch Audrey_1_label_9c1ad553:
 
     # Audrey "That's right! Molly's been there since early this morning."
-    Audrey ""
+    Audrey "Ja, das stimmt! Molly ist seit heute Morgen dort."
 
 # game/logic/events/audrey.rpy:203
 translate deutsch Audrey_1_label_d296d9fd:
 
     # Audrey "She probably won't say no to you."
-    Audrey ""
+    Audrey "Sie wird wahrscheinlich nicht nein zu dir sagen."
 
 # game/logic/events/audrey.rpy:204
 translate deutsch Audrey_1_label_d95d7941:
 
     # Audrey "{b}Would you go get some milk or cream?{/b}"
-    Audrey ""
+    Audrey "{b}Würdest du etwas Milch oder Sahne holen?{/b}"
 
 # game/logic/events/audrey.rpy:205
 translate deutsch Audrey_1_label_39ec4417:
 
     # ch_Name "I don't know if I can do it now..."
-    ch_Name ""
+    ch_Name "Ich weiß nicht, ob ich es jetzt noch kann..."
 
 # game/logic/events/audrey.rpy:206
 translate deutsch Audrey_1_label_306adb67:
 
     # Audrey "I'll need it later too..."
-    Audrey ""
+    Audrey "Ich brauche es später auch..."
 
 # game/logic/events/audrey.rpy:207
 translate deutsch Audrey_1_label_12e79b60:
 
     # Audrey "The other store's in Dale anyway."
-    Audrey ""
+    Audrey "Der andere Laden ist sowieso in Dale."
 
 # game/logic/events/audrey.rpy:208
 translate deutsch Audrey_1_label_44e1faad:
 
     # ch_Name "And there's nowhere else to get it but the cafe and the store."
-    ch_Name ""
+    ch_Name "Und es gibt nichts anderes als das Café und den Laden, wo man es bekommen kann."
 
 # game/logic/events/audrey.rpy:209
 translate deutsch Audrey_1_label_6c107df8:
 
     # Audrey "It's so complicated."
-    Audrey ""
+    Audrey "Es ist so kompliziert."
 
 # game/logic/events/audrey.rpy:210
 translate deutsch Audrey_1_label_3b03c4b2:
 
     # Audrey "Tell me about it."
-    Audrey ""
+    Audrey "Wem sagst du das."
 
 # game/logic/events/audrey.rpy:212
 translate deutsch Audrey_1_label_db1d8e2f:
 
     # Audrey "I just want to be able to make a cup of coffee with cream."
-    Audrey ""
+    Audrey "Ich möchte einfach nur eine Tasse Kaffee mit Sahne kochen können."
 
 # game/logic/events/audrey.rpy:213
 translate deutsch Audrey_1_label_cc04b76b:
 
     # ch_Name "From the comfort of the campus."
-    ch_Name ""
+    ch_Name "Vom Komfort des Campus aus."
 
 # game/logic/events/audrey.rpy:214
 translate deutsch Audrey_1_label_425bf592:
 
     # ch_Name "I know."
-    ch_Name ""
+    ch_Name "Ich weiß."
 
 # game/logic/events/audrey.rpy:215
 translate deutsch Audrey_1_label_4b028a5a:
 
     # Audrey "So, can you help me out?"
-    Audrey ""
+    Audrey "Kannst du mir also helfen?"
 
 # game/logic/events/audrey.rpy:216
 translate deutsch Audrey_1_label_6e8be90f:
 
     # ch_Name "I'll see what I can do."
-    ch_Name ""
+    ch_Name "Ich werde sehen, was ich tun kann."
 
 # game/logic/events/audrey.rpy:235
 translate deutsch Audrey_2_label_8e02dc0e:
 
     # ch_Name "Good morning!"
-    ch_Name ""
+    ch_Name "Guten Morgen!"
 
 # game/logic/events/audrey.rpy:236
 translate deutsch Audrey_2_label_146bf8be:
 
     # Molly "Excuse me, we're closed!"
-    Molly ""
+    Molly "Entschuldigen Sie, wir haben geschlossen!"
 
 # game/logic/events/audrey.rpy:237
 translate deutsch Audrey_2_label_4ba7459c:
 
     # ch_Name "Molly, it's me."
-    ch_Name ""
+    ch_Name "Molly, ich bin's."
 
 # game/logic/events/audrey.rpy:239
 translate deutsch Audrey_2_label_1952cab2:
 
     # Molly "Good morning, [Name]."
-    Molly ""
+    Molly "Guten Morgen, [Name]."
 
 # game/logic/events/audrey.rpy:240
 translate deutsch Audrey_2_label_f5c7104a:
 
     # Molly "I'm sorry, but we're closed."
-    Molly ""
+    Molly "Es tut mir leid, aber wir haben geschlossen."
 
 # game/logic/events/audrey.rpy:242
 translate deutsch Audrey_2_label_425bf592:
 
     # ch_Name "I know."
-    ch_Name ""
+    ch_Name "Ich weiß."
 
 # game/logic/events/audrey.rpy:244
 translate deutsch Audrey_2_label_108496a9:
 
     # ch_Name "I'm not here to sit in the cafe."
-    ch_Name ""
+    ch_Name "Ich bin nicht hier, um im Cafe zu sitzen."
 
 # game/logic/events/audrey.rpy:246
 translate deutsch Audrey_2_label_c7fbdc21:
 
     # Molly "Well, as you can see, there's no work for you right now either."
-    Molly ""
+    Molly "Nun, wie Sie sehen, gibt es auch für Sie im Moment keine Arbeit."
 
 # game/logic/events/audrey.rpy:248
 translate deutsch Audrey_2_label_5d516800:
 
     # ch_Name "I figured as much."
-    ch_Name ""
+    ch_Name "Das habe ich mir schon gedacht."
 
 # game/logic/events/audrey.rpy:250
 translate deutsch Audrey_2_label_fd5516ad:
 
     # Molly "Drop by during the day or at night."
-    Molly ""
+    Molly "Kommen Sie tagsüber oder nachts vorbei."
 
 # game/logic/events/audrey.rpy:252
 translate deutsch Audrey_2_label_fd06458d:
 
     # Molly "I'm sure we could use an extra pair of hands."
-    Molly ""
+    Molly "Ich bin sicher das wir ein zusätzliches paar Hände gebrauchen könnten."
 
 # game/logic/events/audrey.rpy:254
 translate deutsch Audrey_2_label_74ebce9c:
 
     # ch_Name "Sure."
-    ch_Name ""
+    ch_Name "Klar."
 
 # game/logic/events/audrey.rpy:255
 translate deutsch Audrey_2_label_1a724c19:
 
     # ch_Name "But I'm not here to work."
-    ch_Name ""
+    ch_Name "Aber ich bin nicht hier, um zu arbeiten."
 
 # game/logic/events/audrey.rpy:257
 translate deutsch Audrey_2_label_f4201b9d:
 
     # Molly "Well, what is it then?"
-    Molly ""
+    Molly "Was ist es dann?"
 
 # game/logic/events/audrey.rpy:259
 translate deutsch Audrey_2_label_bb01f59f:
 
     # ch_Name "We have a magic refrigerator in the living room with a quirk."
-    ch_Name ""
+    ch_Name "Wir haben einen magischen Kühlschrank im Wohnzimmer, der eine Eigenart hat."
 
 # game/logic/events/audrey.rpy:260
 translate deutsch Audrey_2_label_bbbb902c:
 
     # ch_Name "You can't get milk or cream."
-    ch_Name ""
+    ch_Name "Sie können weder Milch noch Sahne bekommen."
 
 # game/logic/events/audrey.rpy:262
 translate deutsch Audrey_2_label_f7f973e5:
 
     # Molly "That's funny, that's the first I've heard of it."
-    Molly ""
+    Molly "Das ist lustig, ich höre zum ersten Mal davon."
 
 # game/logic/events/audrey.rpy:263
 translate deutsch Audrey_2_label_12467f98:
 
     # ch_Name "Is yours working properly?"
-    ch_Name ""
+    ch_Name "Funktioniert Ihr Gerät ordnungsgemäß?"
 
 # game/logic/events/audrey.rpy:264
 translate deutsch Audrey_2_label_40a01590:
 
     # Molly "Thank the dendroids!"
-    Molly ""
+    Molly "Danke an die Dendroiden!"
 
 # game/logic/events/audrey.rpy:265
 translate deutsch Audrey_2_label_217d0989:
 
     # Molly "Imagine what a disaster it would be if we ran out of milk..."
-    Molly ""
+    Molly "Stellen Sie sich vor, was für eine Katastrophe es wäre, wenn wir keine Milch mehr hätten..."
 
 # game/logic/events/audrey.rpy:266
 translate deutsch Audrey_2_label_384c42b2:
 
     # Molly "The students here practically live on lattes."
-    Molly ""
+    Molly "Die Studenten hier leben praktisch von Milchkaffee."
 
 # game/logic/events/audrey.rpy:268
 translate deutsch Audrey_2_label_84c39dac:
 
     # ch_Name "That's why I'm here, by the way."
-    ch_Name ""
+    ch_Name "Deshalb bin ich übrigens hier."
 
 # game/logic/events/audrey.rpy:269
 translate deutsch Audrey_2_label_ec9c920b:
 
     # ch_Name "Can I borrow a bottle from you?"
-    ch_Name ""
+    ch_Name "Kann ich mir eine Flasche von ihnen leihen?"
 
 # game/logic/events/audrey.rpy:270
 translate deutsch Audrey_2_label_ad957679:
 
     # ch_Name "We've got a pretty girl dying of sadness in there."
-    ch_Name ""
+    ch_Name "Wir haben hier ein hübsches Mädchen, das vor Traurigkeit stirbt."
 
 # game/logic/events/audrey.rpy:271
 translate deutsch Audrey_2_label_59d92e45:
 
     # Molly "Sure."
-    Molly ""
+    Molly "Klar."
 
 # game/logic/events/audrey.rpy:273
 translate deutsch Audrey_2_label_62f73ef8:
 
     # Molly "There you go."
-    Molly ""
+    Molly "Bitte schön."
 
 # game/logic/events/audrey.rpy:274
 translate deutsch Audrey_2_label_adc5e432:
 
     # ch_Name "Oh, thank you."
-    ch_Name ""
+    ch_Name "Vielen Dank."
 
 # game/logic/events/audrey.rpy:276
 translate deutsch Audrey_2_label_137e2a46:
 
     # Molly "Five dollars!"
-    Molly ""
+    Molly "Fünf Dollar!"
 
 # game/logic/events/audrey.rpy:277
 translate deutsch Audrey_2_label_c185eb3d:
 
     # ch_Name "Wait a minute..."
-    ch_Name ""
+    ch_Name "Moment mal..."
 
 # game/logic/events/audrey.rpy:278
 translate deutsch Audrey_2_label_d56f868c:
 
     # ch_Name "You're selling it to me?"
-    ch_Name ""
+    ch_Name "Du verkaufst es mir?"
 
 # game/logic/events/audrey.rpy:280
 translate deutsch Audrey_2_label_ae512591:
 
     # Molly "Yeah, I am."
-    Molly ""
+    Molly "Ja, das tue ich."
 
 # game/logic/events/audrey.rpy:281
 translate deutsch Audrey_2_label_825d8d65:
 
     # ch_Name "I thought..."
-    ch_Name ""
+    ch_Name "Ich dachte..."
 
 # game/logic/events/audrey.rpy:282
 translate deutsch Audrey_2_label_34566221:
 
     # Molly "Have you ever heard of market relations?"
-    Molly ""
+    Molly "Haben Sie schon einmal von Marktbeziehungen gehört?"
 
 # game/logic/events/audrey.rpy:283
 translate deutsch Audrey_2_label_7e2977f2:
 
     # ch_Name "{i}(How can there be a market relationship with a magic refrigerator?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wie kann es eine Marktbeziehung mit einem magischen Kühlschrank geben?){/i}"
 
 # game/logic/events/audrey.rpy:285
 translate deutsch Audrey_2_label_164c3ab0:
