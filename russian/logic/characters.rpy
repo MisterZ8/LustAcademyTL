@@ -132,7 +132,7 @@ translate russian strings:
 
     # game/logic/characters.rpy:40
     old "Mushroom Girl"
-    new "Грибная девочка"
+    new "Грибная девушка"
 
     # game/logic/characters.rpy:41
     old "Naomi"
@@ -184,7 +184,7 @@ translate russian strings:
 
     # game/logic/characters.rpy:55
     old "Unknown Girl"
-    new "Неизвестная Девочка"
+    new "Неизвестная Девушка"
 
     # game/logic/characters.rpy:59
     old "Unknown elf"
