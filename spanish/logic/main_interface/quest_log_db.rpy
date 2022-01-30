@@ -4,7 +4,7 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "She's the mysterious hostess of the strip club called Lady Luck. It seems like she's in charge there. She once almost got raped by Diego."
-    new ""
+    new "Ella es la misteriosa anfitriona del club de striptease Lady Luck. Parece que ella está al cargo allí. Diego casi consigue violarla una vez."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Cuill"
@@ -12,7 +12,7 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "This friendly elf is the best barista in all of Dale. Not only will he masterfully prepare any drink, but he's also happy to tell the customer interesting news and rumors from over the world."
-    new ""
+    new "Esta simpática elfa es la mejor camarera en todo Dale. No solo prepara magistralmente cualquier bebida, si no que ademas estará encantada de contar a sus clientes noticias y rumores interesantes de todo el mundo."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Fiennes"
@@ -20,7 +20,7 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Cordale's librarian goes by the name Amelie. She loves books and smart people more than anything else in the world. I'm not sure, but it feels like she doesn't seem to mind having affairs with young guys."
-    new ""
+    new "La bibliotecaria de Cordale se llama Amelie. Ella ama los libros y las personas inteligentes más que cualquier otra cosa en el mundo. No estoy seguro, pero parece que a ella no le importaría tener aventuras con chicos jóvenes"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Earhart"
@@ -28,19 +28,19 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Turns out that the statues in one of the gardens are actually alive! One of them even had a boner while we were walking there with Haley. \"Angels\" storyline for this version of the game has come to an end."
-    new ""
+    new "¡Resulta que las estatuas de uno de los jardines están realmente vivas! Una de ellas incluso tuvo una erección con Haley mientras estabamos allí caminando. \"Ángeles\" La historia para esta versión del juego ha llegado al final."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Angels"
-    new ""
+    new "Ángeles"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Garden's story has come to an end."
-    new ""
+    new "La historia de los jardines ha llegado al final."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Arthur Doorman is the headmaster of the school and a respected member of the Wizarding Society. He is an example to all."
-    new ""
+    new "Arthur Doorman es el director de la escuela y un miembro respetado de la sociedad mágica. Él es un ejemplo para todos."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Doorman IV"
@@ -48,7 +48,7 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Olivia and Don's youngest daughter, Ashley, is a prominent athlete who competes in artistic gymnastics."
-    new ""
+    new "La hija menor de Olivia y Don, Ashley, es una destacada deportista que compite en gimnasia artística."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Rose"
@@ -56,11 +56,11 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Girl/Shemale"
-    new ""
+    new "Chica/transexual"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Audrey is Samantha's best friend. I think she's hiding something and Samantha is in on it too. She has a pretty bad temper."
-    new ""
+    new "Audrey es la mejor amiga de Samantha. Creo que está escondiendo algo y Smanthe está metida en ello. Tiene bastante mal genio."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Burns"
@@ -68,7 +68,7 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Carter is almost 30. He's the oldest student in the academy despite being a freshman. He's not very talkative."
-    new ""
+    new "Carter tiene casi 30. Es el estudiante más viejo en la academia a pesar de ser novato. No es muy hablador."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Brown"
@@ -76,7 +76,7 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "A nasty guy who fell in love with Adele after seeing her in a club. Tried to rape the girl, but was disgraced and sent running."
-    new ""
+    new "Un tipo desagradable que se enamoró de Adele tras verla en el club. Trató de violar a la chica, pero salió mal parado y huyó."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Faradenza"
@@ -84,15 +84,15 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Don works as a mid-level manager at the largest car dealership in town. He's a total control freak, and I think he's cheating on Olivia."
-    new ""
+    new "Don trabaja como gerente de nivel medio en el mayor concesionario de la ciudad. Es un fanático del control, y creo que engaña a Olivia."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Homo/Hetero"
-    new ""
+    new "Gay/Hetero
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Elijah is the cheerful swashbuckler, Leonheart's headman, and a hoarder who smuggles all sorts of forbidden things into the academy."
-    new ""
+    new "Elijah es un alegre brabucón, prefecto de Leonheart, y un camello que introduce de contrabando todo tipo de cosas prohibidas en la academia."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Bloom"
@@ -100,11 +100,11 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "One of the four co-founders of Cordale Academy. Founder of Crowhive house and the keeper of knowledge."
-    new ""
+    new "Una de las cuatro cofundadoras de la academia Cordale. Fundadora de la casa Crowhive y guardiana del Conocimiento."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Cheerful Latino-American student from Martenden. She likes dancing, duels, and living a life full of adventures."
-    new ""
+    new "Alegre estudiante Latino-Americana de Martenden. La gusta bailar, duelarse, y vivir una vida llena de aventuras."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Leal"
@@ -112,11 +112,11 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The strange monster that wonders on the night streets of Dale."
-    new ""
+    new "El extraño mounstro que vaga por las calles de Dale durante la noche."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "A business-oriented dwarf. Owner of the only store in Dale. Willow's father. You can always make money from him by fishing."
-    new ""
+    new "Un empresario enano. dueño de la única tienda en Dale. Padre de Willow. Siempre puedes ganar algo de dinero pescando para el."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Chompski"
@@ -132,7 +132,7 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The first person I met on my way to becoming a wizard. She's smart, beautiful, and funny. I wonder if we can be more than friends..."
-    new ""
+    new "La primera persona que conocí en mi camino para convertirme en mago. Ella es inteligente, guapa y divertida. Me pregunto si podremos ser más que amigos..."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Ranger"
@@ -140,7 +140,7 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Jacob met us at the train station when I'd just arrived at Cordale. He's most certainly the grimmest teacher in the academy. He runs a dueling club. He has a certain creepy vibe about him."
-    new ""
+    new "Jacob nos recibió en la estación de tren cuando llegué a Cordale. Sin duda es el profesor más perturbador en la academia. El lleva el club de duelo. Tiene un cierto aura espeluznante."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Frollo"
@@ -148,11 +148,11 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "One of the four co-founders of Cordale Academy. Founder of Martenden house and the keeper of Housefire."
-    new ""
+    new "Una de las cuatro cofundadoras de la academia Cordale. Fundadora de la casa Martenden y guardiana del Fuego."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Owner of Whistley's SPA. She gives excellent massages but it seems that there's something strange about her."
-    new ""
+    new "Propietaria de Whistley's SPA. Ella da unos masajes excelentes pero parece haber algo extraño en ella."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Whistley"
@@ -160,11 +160,11 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "At this version of Lust Academy there's no more massage scenes."
-    new ""
+    new "En esta versión de Lust Academy no hay más escenas de masajes."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Joshi is a talkative young guy who clearly lives only to have a good time and relax."
-    new ""
+    new "Joshi es un joven charlatan que claramente vive solo para relajarse y pasar un buen rato."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Backs"
@@ -172,11 +172,11 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "One of the four co-founders of Cordale Academy. Founder of Adderin house and the keeper of Success."
-    new ""
+    new "Una de la cuatro cofundadoras de la academia Cordale. Fundadora de la casa Adderin y guardiana del Éxito."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "One of the four co-founders of Cordale Academy. Founder of Leonheart house and the keeper of Justice."
-    new ""
+    new "Una de las cuatro cofundadoras de la academia Cordale. Fundadora de la casa Leonheart y guardiana de la Justicia"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Leonheart"
@@ -184,11 +184,11 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The main story for this version has come to an end."
-    new ""
+    new "La historia principal para esta versión del juego ha llegado al final."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lily is a real diehard fan of Leonheart. She does a lot for its sake and gets thrilled when I help her with that."
-    new ""
+    new "Lily es una fan incondicional de Leonheart. Ella hace mucho por su bien y se emociona cuando la ayudo con ello."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Hebi"
@@ -196,7 +196,7 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lucy is one of the dancers at Lady Luck night club. I think I'll get to know her better if I invite her to VIP."
-    new ""
+    new "Lucy es una de las bailarinas en el club Lady Luck. Creo que llegaré a conocerla mejor si la invito a la sala VIP."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Altidore"
@@ -204,7 +204,7 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Mina is a very shy girl who manages a local hostel. I saw her reading porn novels, I wonder if she has any other secrets."
-    new ""
+    new "Mina es una chica muy tímida que regenta un hostal. la ví leyendo novelas porno, me pregunto si guarda algún otro secreto."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Harper"
@@ -212,7 +212,7 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Molly is a hard-working businesswoman who keeps her café in Cordale. She helps me with a part-time job when I need money."
-    new ""
+    new "Molly es una empresaria muy trabajadora que tiene su café en Cordale. Ella me ayuda con un trabajo a media jornada cuando necesito dinero."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Maeve"
@@ -220,7 +220,7 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Naomi is a coldhearted rising queen of manipulation from Adderin and Lily's best friend."
-    new ""
+    new "Naomi es una fría reina de la manipulación en ciernes de Adderin y la mejor amiga de Lily."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Kimba"
@@ -228,7 +228,7 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Olivia is Samantha and Ashley's mother, She's married to Don. I don't know if she has any hobbies except shopping and spending money."
-    new ""
+    new "Olivia es la madre de Samantha y Ashley, está casada con Don. No se si tiene algún otro hoby que no sea ir de compras y gastar dinero."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Wild-Rose"
@@ -236,7 +236,7 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "A bouncer. He's a prick who asks for bribes to let you in the club. He tricked me and almost let Diego rape Adele."
-    new ""
+    new "Un gorila. Es un capullo que pide sobornos para dejarte entrar en el club. El me engaño y casi deja a Diego violar a Adele."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Mobs"
@@ -244,7 +244,7 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Sabrina is the sweetest teacher in the Academy, and you can always see how happy she gets when she seems some dedication in her lessons."
-    new ""
+    new "Sabrina es la profesora mas dulce en la academia, y siempre puedes ver lo contenta que se pone cuando ve dedicación en sus lecciones."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Spellman"
@@ -252,11 +252,11 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "There are no more theory lessons available for this version of the game."
-    new ""
+    new "No hay más clases teóricas disponibles para esta versión del juego."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Sadira is one of the dancers at Lady Luck. She seems strange and exotic, I think I'll enjoy what she can offer in VIP."
-    new ""
+    new "Sadira es una de las bailarinas en el Lady Luck. Parece extraña y exótica, Creo que voy a disfrutar lo que puede ofrecer en la sala VIP."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Adala"
@@ -264,11 +264,11 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Samantha is my best friend and Olivia's first child. She's kind and supportive and sees good even where no one else can."
-    new ""
+    new "Samantha es mi mejor amiga y la primera hija de Olivia. Es amable y solidaria y vé el bien incluso donde nadie mas puede."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Vanessa is a barman at Lady Luck. She's mysterious and obsessed with her special cocktails."
-    new ""
+    new "Vanessa es camarera en el Lady Luck. Ella es misteriosa y está obsesionada con su cocktail especial."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Le Court"
@@ -276,7 +276,7 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Victoria is strict, but just teacher. Everyone respects her a lot. She makes it look like my flirting is useless, but I won't stop trying."
-    new ""
+    new "Victoria es estricta, pero una profesora justa. Todos la repetan mucho. Ella hace que mi flirteo parezca inutil, pero no voy a dejar de intentarlo."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lapis"
@@ -284,7 +284,7 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "At this version of Lust Academy there's no more theory or scenes for Victoria."
-    new ""
+    new "En esta versión de Lust Academy no hay más teoría o escenas para Victoria."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Fairy"
@@ -292,11 +292,11 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Willow is a cheerful and quirky daughter of Gordon. She's helpful when someone needs magical artifacts."
-    new ""
+    new "Willow es la peculiar y alegre hija de Gordon. Ella es de mucha ayuda cuando alguien necesita artefactos mágicos."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "When me and Lily got lost and almost died in a magical flesh-eating mushroom forest I saw strange creature, that looked like a hybrid of mushroom and human girl. She was cute. I wonder who she is?"
-    new ""
+    new "Cuando Lily y yo nos perdimos y casi morimos en un bosque mágico de setas carnívoras, ví una extraña criatura, que parecía un híbrido entre una seta y una mujer humana. Ella era mona. Me pregunto ¿quien será?."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Adele showed me around club. I can now  order a table or VIP lounge from her anytime I want."
