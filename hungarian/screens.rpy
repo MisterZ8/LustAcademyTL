@@ -58,7 +58,7 @@ translate hungarian strings:
 
     # game/screens.rpy:1150
     old "Not now"
-    new "Most ne"
+    new "Most nem"
 
     # game/screens.rpy:2007
     old "Page {}"
