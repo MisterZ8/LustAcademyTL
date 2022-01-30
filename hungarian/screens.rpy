@@ -170,7 +170,7 @@ translate hungarian strings:
 
     # game/screens.rpy:2931
     old "Arrow Keys"
-    new "Nyilak
+    new "Nyilak"
 
     # game/screens.rpy:2935
     old "Escape"
