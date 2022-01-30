@@ -4,371 +4,371 @@ translate dutch strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "She's the mysterious hostess of the strip club called Lady Luck. It seems like she's in charge there. She once almost got raped by Diego."
-    new ""
+    new "Zij is de mysterieuze gastvrouw van de strip club genaamd Lady Luck. Het lijkt erop dat zij daar de leiding heeft. Ze werd ooit bijna verkracht door Diego."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Cuill"
-    new ""
+    new "Cuill"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "This friendly elf is the best barista in all of Dale. Not only will he masterfully prepare any drink, but he's also happy to tell the customer interesting news and rumors from over the world."
-    new ""
+    new "Deze vriendelijke elf is de beste barista van heel Dale. Niet alleen zal hij meesterlijk elk drankje bereiden, hij verteld ook graag de klant interessant nieuws en geruchten van over de hele wereld. "
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Fiennes"
-    new ""
+    new "Fiennes"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Cordale's librarian goes by the name Amelie. She loves books and smart people more than anything else in the world. I'm not sure, but it feels like she doesn't seem to mind having affairs with young guys."
-    new ""
+    new "De bibliothecaresse van Coredale heet Amelie. Ze houdt van boeken en slimmme mensen meer dan wat dan ook in de wereld. Ik weet het niet zeker, maar het lijkt erop dat ze het niet erg vindt om affaires te hebben met jonge mannen."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Earhart"
-    new ""
+    new "Earhart"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Turns out that the statues in one of the gardens are actually alive! One of them even had a boner while we were walking there with Haley. \"Angels\" storyline for this version of the game has come to an end."
-    new ""
+    new "Het blijkt dat de standbeelden in één van de tuinen echt leven! Eén van hen had zelfs een stijve toen we daar liepen met Haley. \"Angels\" verhaallijn voor deze versie van het spel is tot een einde gekomen."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Angels"
-    new ""
+    new "Angels"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Garden's story has come to an end."
-    new ""
+    new "Garden's verhaal is tot een einde gekomen."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Arthur Doorman is the headmaster of the school and a respected member of the Wizarding Society. He is an example to all."
-    new ""
+    new "Arthur Doorman is de directeur van de school en een gerespecteerd lid van de WIzarding Society. Hij is een voorbeeld voor iedereen."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Doorman IV"
-    new ""
+    new "Doorman IV"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Olivia and Don's youngest daughter, Ashley, is a prominent athlete who competes in artistic gymnastics."
-    new ""
+    new "Olivia en Don's jongste dochter, Ashley, is een vooraanstaande atleet die meedoet aan artistieke gymnastiek."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Rose"
-    new ""
+    new "Rose"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Girl/Shemale"
-    new ""
+    new "Meisje/Vrouw"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Audrey is Samantha's best friend. I think she's hiding something and Samantha is in on it too. She has a pretty bad temper."
-    new ""
+    new "Audrey is Samantha's beste vriendin. I denk dat ze iets verbergt en dat Samantha er ook iets vanaf weet. Ze heeft een behoorlijk slecht humeur. "
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Burns"
-    new ""
+    new "Brand"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Carter is almost 30. He's the oldest student in the academy despite being a freshman. He's not very talkative."
-    new ""
+    new "Carter is bijna 30. Hij is de oudste student van de academie ondanks dat hij eerstejaars is. Hij is niet erg spraakzaam."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Brown"
-    new ""
+    new "Brown"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "A nasty guy who fell in love with Adele after seeing her in a club. Tried to rape the girl, but was disgraced and sent running."
-    new ""
+    new "Een vervelende gast die verliefd werd op Adele nadat hij haar had gezien in een club. Hij probeerde haar te verkachten, maar werd te kijk gezet en weggejaagd."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Faradenza"
-    new ""
+    new "Faradenza"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Don works as a mid-level manager at the largest car dealership in town. He's a total control freak, and I think he's cheating on Olivia."
-    new ""
+    new "Don werkt als tactisch manager bij de grootste autohandelaar van de stad. Hij is een control freak en ik denk dat hij vreemdgaat tegenover Olivia."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Homo/Hetero"
-    new ""
+    new "Homo/Hetero"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Elijah is the cheerful swashbuckler, Leonheart's headman, and a hoarder who smuggles all sorts of forbidden things into the academy."
-    new ""
+    new "Elijah is de vrolijke avonturier, Leonheart's leider, en een hamsteraar die allerlei verboden spullen de academie binnensmokkelt."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Bloom"
-    new ""
+    new "Bloom"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "One of the four co-founders of Cordale Academy. Founder of Crowhive house and the keeper of knowledge."
-    new ""
+    new "Eén van de vier mede-oprichters van Cordale Academy. Stichter van het Crowhive huis en de bewaarder van kennis. "
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Cheerful Latino-American student from Martenden. She likes dancing, duels, and living a life full of adventures."
-    new ""
+    new "Vrolijke latino-Amerikaanse student van Martenden. Ze houdt van dansen, duels en een leven vol avonturen. "
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Leal"
-    new ""
+    new "Leal"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The strange monster that wonders on the night streets of Dale."
-    new ""
+    new "Het vreemde monster dat ronddwaalt in de nachtelijke straten van Dale."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "A business-oriented dwarf. Owner of the only store in Dale. Willow's father. You can always make money from him by fishing."
-    new ""
+    new "Een business-georiënteerde dwerg. Eigenaar van de enige winkel in Dale. Willow's vader. Je kunt altijd geld bij hem verdienen door te gaan vissen."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Chompski"
-    new ""
+    new "Chompski"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "First year student of the house Crowhive. She's intelligent and shy. As far as I know, she likes visiting potions classes."
-    new ""
+    new "Eerstejaars student van de Crowhive huis. Ze is intelligent en verlegen. Voor zover ik weet, bezoekt ze graag toverdrank lessen."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old " Sherman"
-    new ""
+    new "Sherman"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The first person I met on my way to becoming a wizard. She's smart, beautiful, and funny. I wonder if we can be more than friends..."
-    new ""
+    new "De eerste persoon die ik ontmoette op mijn weg om een tovenaar te worden. Ze is slim, mooi en grappig. Ik vraag me af of we meer dan vrienden kunnen zijn... "
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Ranger"
-    new ""
+    new "Ranger"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Jacob met us at the train station when I'd just arrived at Cordale. He's most certainly the grimmest teacher in the academy. He runs a dueling club. He has a certain creepy vibe about him."
-    new ""
+    new "Jacob ontmoette ons op het treinstation toen ik net in Cordale was aangekomen. Hij is zonder twijfel de wreedste docent van de academie. Hij leidt een duelleerclub. Hij heeft een bepaalde griezelige vibe over zich."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Frollo"
-    new ""
+    new "Frollo"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "One of the four co-founders of Cordale Academy. Founder of Martenden house and the keeper of Housefire."
-    new ""
+    new "Eén van de vier mede-oprichters van Cordale Academy. Stichter van het Martenden huis en de bewaarder van Housefire"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Owner of Whistley's SPA. She gives excellent massages but it seems that there's something strange about her."
-    new ""
+    new "Eigenaar van Whistley's SPA. Ze geeft geweldige massages maar er is iets vreemds aan haar."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Whistley"
-    new ""
+    new "Whistley"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "At this version of Lust Academy there's no more massage scenes."
-    new ""
+    new "In deze versie van Lust Academy zijn er geen massagescenes meer."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Joshi is a talkative young guy who clearly lives only to have a good time and relax."
-    new ""
+    new "Joshi is een praatgrage jonge gast die duidelijk leeft om plezier te maken en te relaxen."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Backs"
-    new ""
+    new "Backs"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "One of the four co-founders of Cordale Academy. Founder of Adderin house and the keeper of Success."
-    new ""
+    new "Eén van de vier mede-oprichters van Cordale Academy. Stichter van het Adderin huis en bewaarder van het succes."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "One of the four co-founders of Cordale Academy. Founder of Leonheart house and the keeper of Justice."
-    new ""
+    new "Eén van de vier mede-oprichters van Cordale Academy. Stichter van het Leonheart huis en bewaarder van rechtvaardigheid."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Leonheart"
-    new ""
+    new "Leonheart"
 
     # game/logic/main_interface/quest_log_db.rpy:3
-    old "The main story for this version has come to an end."
-    new ""
+    old "The main story of this verison of the game has come to an end."
+    new "Het hoofdverhaal van deze versie van het spel is tot een einde gekomen."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lily is a real diehard fan of Leonheart. She does a lot for its sake and gets thrilled when I help her with that."
-    new ""
+    new "Lilly is een echte diehard fan van Leonheart. Ze doet veel voor haar doel en is opgetogen als ik haar daarmee help."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Hebi"
-    new ""
+    new "Hebi"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lucy is one of the dancers at Lady Luck night club. I think I'll get to know her better if I invite her to VIP."
-    new ""
+    new "Lucy is één van de danseressen bij Lady Luck night club. Ik denk dat ik haar beter kan leren kennen als ik haar uitnodig voor de VIP."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Altidore"
-    new ""
+    new "Altidore"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Mina is a very shy girl who manages a local hostel. I saw her reading porn novels, I wonder if she has any other secrets."
-    new ""
+    new "Mina is een erg verlegen meisje die een lokale hostel beheert. Ik zag haar porno-romans lezen, ik vraag me af of ze nog andere geheimen heeft."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Harper"
-    new ""
+    new "Harper"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Molly is a hard-working businesswoman who keeps her café in Cordale. She helps me with a part-time job when I need money."
-    new ""
+    new "Molly is een hardwerkende onderneemster met een eigen café in Cordale. Ze helpt me met een part-time baantje als ik geld nodig heb. "
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Maeve"
-    new ""
+    new "Maeve"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Naomi is a coldhearted rising queen of manipulation from Adderin and Lily's best friend."
-    new ""
+    new "Naomi is de kille opkomende manipulatie koningin van Adderin en Lily's beste vriendin."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Kimba"
-    new ""
+    new "Kimba"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Olivia is Samantha and Ashley's mother, She's married to Don. I don't know if she has any hobbies except shopping and spending money."
-    new ""
+    new "Olivia is de moeder van Samantha en Ashley, ze is getrouwd met Don. Ik heb geen idee of ze nog andere hobby's heeft naast shoppen en geld uitgeven."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Wild-Rose"
-    new ""
+    new "Wild-Rose"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "A bouncer. He's a prick who asks for bribes to let you in the club. He tricked me and almost let Diego rape Adele."
-    new ""
+    new "Een uitsmijter. Hij is een klootzak die smeergeld vraagt om je binnen te laten in de club. Hij belazerde me en liet Diego bijna Adele verkrachten."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Mobs"
-    new ""
+    new "Bende"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Sabrina is the sweetest teacher in the Academy, and you can always see how happy she gets when she seems some dedication in her lessons."
-    new ""
+    new "Sabrina is de liefste docent van de academie en je kan duidelijk zien hoe blij ze wordt als ze wat toewijding in haar lessen ziet."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Spellman"
-    new ""
+    new "Spellman"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "There are no more theory lessons available for this version of the game."
-    new ""
+    new "Er zijn geen theorielessen meer beschikbaar voor deze versie van het spel."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Sadira is one of the dancers at Lady Luck. She seems strange and exotic, I think I'll enjoy what she can offer in VIP."
-    new ""
+    new "Sadira is één van de danseressen bij Lady Luck. Ze ziet er opvallend en exotisch uit, ik denk dat ik zal genieten van wat ze te bieden heeft in VIP"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Adala"
-    new ""
+    new "Adala"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Samantha is my best friend and Olivia's first child. She's kind and supportive and sees good even where no one else can."
-    new ""
+    new "Samantha is mijn beste vriendin en Olivia's eerste kind. Ze is aardig, behulpzaam en ziet zelfs het goede als niemand anders dat kan."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Vanessa is a barman at Lady Luck. She's mysterious and obsessed with her special cocktails."
-    new ""
+    new "Vanessa is een barvrouw bij Lady Luck. Ze is mysterieus en geobsedeerd van haar speciale cocktails."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Le Court"
-    new ""
+    new "Le Court"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Victoria is strict, but just teacher. Everyone respects her a lot. She makes it look like my flirting is useless, but I won't stop trying."
-    new ""
+    new "Victoria is streng, maar wel een goede lerares. Iedereen respecteerd haar heel erg. Ze laat het doen lijken alsof mijn flirttechnieken nutteloos zijn, maar ik zal het blijven proberen."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lapis"
-    new ""
+    new "Lapis"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "At this version of Lust Academy there's no more theory or scenes for Victoria."
-    new ""
+    new "In deze versie van Lust Academy is er geen theorie of scene meer voor Victoria."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Fairy"
-    new ""
+    new "Fee"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Willow is a cheerful and quirky daughter of Gordon. She's helpful when someone needs magical artifacts."
-    new ""
+    new "Willow is een vrolijke en eigenzinnige dochter van Gordon. Ze is behulpzaam als iemand magische spullen nodig heeft."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "When me and Lily got lost and almost died in a magical flesh-eating mushroom forest I saw strange creature, that looked like a hybrid of mushroom and human girl. She was cute. I wonder who she is?"
-    new ""
+    new "Toen Lily en ik verdwaalden en bijna doodgingen in een magische vleesetend paddestoelenbos, zag ik een vreemd wezen, dat leek op een mix tussen een paddestoel en een menselijk meisje. Ze was schattig. Ik vraag me af wie dat is?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Adele showed me around club. I can now  order a table or VIP lounge from her anytime I want."
-    new ""
+    new "Adele liet me de club zien. Ik kan nu een tafel of VIP lounge bij haar bestellen wanneer ik maar wil."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Adele seemed to be interested in me, but for now - she rejected all my moves."
-    new ""
+    new "Adele leek geïnteresseerd in mij, maar voor nu - wees ze al mijn moves af."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I worked up the courage to ask Adele out. She seemed surprised, but agreed. We agreed to meet in the afternoon at a cafe. I couldn't wait."
-    new ""
+    new "Ik heb de moed verzameld om Adele mee uit te vragen. Ze leek verrast, maar ze stemde toe. We spraken af om elkaar te ontmoeten in de middag bij een café. Ik kon niet wachten."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We had a great time with Adele at the cafe. She was very sociable and friendly. I think she liked me too. We agreed that we will do it again sometime, so a second date is in my pocket."
-    new ""
+    new "Ik had een geweldige tijd samen met Adele in het café. Ze is erg sociaal en vriendelijk. Ik denk dat ze mij ook leuk vond. We spraken af  dat we het nog eens zouden doen, dus een tweede date is binnen."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Ahchi is a pleasant and sociable barista who makes incredibly cool coffee. He is always nice to talk to and often tells interesting news and rumors."
-    new ""
+    new "Ahchi is een prettige en sociale barista die geweldige koele koffie maakt. Hij is altijd in voor een praatje en verteld interessante nieuws en geruchten."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Amelie said that magical creatures can prank students by stealing their books. If I find lost books scattered around the academy, I can return them to the library in exchange for house points."
-    new ""
+    new "Amelie zei dat magische wezens studenten kunnen pranken door hun boeken te stelen. Als ik deze boeken vind, verspreid over de academie, kan ik ze terugbrengen naar de bibliotheek in ruil voor huispunten."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Amelie didn't lie - for every book I return, she gives me the points needed to win the weekly competition. I could turn in one book at a time or continue collecting and turn in many at once. She will surely appreciate the help. If I want to get closer, I need to find more books."
-    new ""
+    new "Amelie loog niet - voor elke boek die ik terugbreng, geeft ze me de punten die nodig zijn voor de wekelijkse competitie. I kan één boek per keer inleveren of verder zoeken en vervolgens meerdere inleveren. Ze zal de hulp zeker waarderen. Als ik dichterbij wil komen, moet ik meer boeken vinden."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I helped Amelie deal with the elves who tried to steal from her, but they managed to steal one of the potions. Amelie asked me to help her get it back when she figured out where they were hiding. I couldn't wait."
-    new ""
+    new "Ik hielp Amelie om af te rekenen met de elfen die van haar probeerden te stelen, maar ze slaagden erin één van de drankjes te stelen. Amelie vroeg me haar te helpen het terug te krijgen wanneer ze uitgevonden had waar ze zich verstopt hadden. Ik kon niet wachten."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Amelie and I went to the elf settlement in the woods and returned the stolen potion. It was epic! Admittedly, the potion broke and got on Amelie in the process, but that's okay... But, it was fun."
-    new ""
+    new "Amelie en ik gingen naar de elfen schuilplaats in het bos en brachten het gestolen drankje terug. Het was episch! Ik moet bekennen dat het drankje brak en op Amelie terecht kwam, maar dat is niet erg... Maar, het was leuk."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Now I know that we have really creepy angels living in the garden, Garden's story has come to an end."
-    new ""
+    new "Ik weet nu dat er griezelige engelen in de tuin wonen. Garden's verhaal is afgelopen."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Now I know that we have really creepy angels living in the garden."
-    new ""
+    new "Ik weet nu dat er griezelige engelen in de tuin wonen."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "If Leonheart wins weekly house competition we'll be able to visit local town - Dale. To win the competition I need to earn points by visiting classes, collecting books or winning in duels."
-    new ""
+    new "Als Leonheart de wekelijkste huis competitie wint, kunnen we naar de lokale stad - Dale. Om de competitie te winnen, moet ik punten verdienen door deel te nemen aan lessen, boeken te verzamelen of door duels te winnen."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've been to Dale and it's awesome. Winning the school competition is really valuable, plus they give money to winners. I should try to win again."
-    new ""
+    new "Ik ben naar Dale geweest en het was geweldig. De school competitie winnen is erg waardevol, plus ze geven geld aan de winnaars. Ik moet proberen om opnieuw te winnen."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "This character has no active quests in this version of the game."
-    new ""
+    new "Dit personage heeft geen actieve missies in deze versie van het spel."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "She's in Leonheart too, so I can probably meet her in our campus in the morning."
-    new ""
+    new "Ze hoort ook bij Leonheart, dus ik kan haar waarschijnlijk morgenocthend ontmoeten in onze campus."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Audrey only talks to men who can take her to a restaurant. It seems that I have to get a job to interest her in my persona."
-    new ""
+    new "Audrey praat alleen met mannen die haar meenemen naar een restaurant. Het lijkt erop dat ik een baantje moet zoeken om haar intresse op te wekken."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've helped Audrey get milk for her morning coffee, and I hope it'll melt some ice between us. Audrey will be waiting for me in the living room in the evening. I wonder if that's a hint."
-    new ""
+    new "Ik heb Audrey geholpen door melk te halen voor haar ochtend-koffie en ik hoop dat het wat ijs laat smelten tussen ons. Audrey zal in de avond op mij wachten in de woonkamer. Ik vraag me af of dit een hint is."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've tried to get Sam and Audrey to tell me if they're hiding something, but they told me nothing. I'll need to talk to Audrey in the morning, when she's alone."
-    new ""
+    new "Ik heb geprobeerd om Sam en Audrey iets te laten zeggen over wat ze verbergen, maar ze vertelden me niets. Ik moet in de octhend met Audrey zien te praten, als ze alleen is."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We had a fantastic time drinking coffee at Molly's while it was still closed. I think we're getting closer. I'll just have to wait until she makes her move."
