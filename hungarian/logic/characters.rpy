@@ -12,11 +12,11 @@ translate hungarian strings:
 
     # game/logic/characters.rpy:9
     old "Radio"
-    new ""
+    new "Rádió"
 
     # game/logic/characters.rpy:10
     old "Note"
-    new ""
+    new "Jegyzet"
 
     # game/logic/characters.rpy:11
     old "Adele"
@@ -76,7 +76,7 @@ translate hungarian strings:
 
     # game/logic/characters.rpy:25
     old "Giant"
-    new ""
+    new "Óriás"
 
     # game/logic/characters.rpy:26
     old "Gordon"
@@ -176,17 +176,17 @@ translate hungarian strings:
 
     # game/logic/characters.rpy:52
     old "Unknown Man"
-    new ""
+    new "Ismeretlen Férfi"
 
     # game/logic/characters.rpy:54
     old "Guy"
-    new ""
+    new "Srác"
 
     # game/logic/characters.rpy:55
     old "Unknown Girl"
-    new ""
+    new "Ismeretlen Lány"
 
     # game/logic/characters.rpy:59
     old "Unknown elf"
-    new ""
+    new "Ismeretlen Elf"
 
