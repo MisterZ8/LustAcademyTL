@@ -16,7 +16,7 @@ translate spanish_LatAm strings:
 
     # game/logic/characters.rpy:10
     old "Note"
-    new ""
+    new "Nota"
 
     # game/logic/characters.rpy:11
     old "Adele"
@@ -132,7 +132,7 @@ translate spanish_LatAm strings:
 
     # game/logic/characters.rpy:40
     old "Mushroom Girl"
-    new ""
+    new "Chica champiñón"
 
     # game/logic/characters.rpy:41
     old "Naomi"
@@ -176,17 +176,17 @@ translate spanish_LatAm strings:
 
     # game/logic/characters.rpy:52
     old "Unknown Man"
-    new ""
+    new "Hombre desconocido"
 
     # game/logic/characters.rpy:54
     old "Guy"
-    new ""
+    new "Chico"
 
     # game/logic/characters.rpy:55
     old "Unknown Girl"
-    new ""
+    new "Chica desconocida"
 
     # game/logic/characters.rpy:59
     old "Unknown elf"
-    new ""
+    new "Ser élfico desconocido"
 
