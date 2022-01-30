@@ -4,323 +4,323 @@ translate hungarian strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "My best romances are books"
-    new ""
+    new "A legnagyobb szerelmeim a könyvek"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "One nice guy from Romanian Wizardry History Convention took me to this lovely place. We had a wonderful conversation and tasted a delicious exotic cheese plate."
-    new ""
+    new "Egy jó csávó a Romániai Varázslótörténelmi Gyülekezetről elvitt engem erre az aranyos helyre. Nagyon jót beszélgettünk és megettünk egy finom exotikus sajttálat. "
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I wish I'd meet someone as intelligent and funny in my life. Why are other guys not like him?"
-    new ""
+    new "Andám ha találkoznék egy olyan inteligens és vicces emberrel mint ő. Más fiúk miért nem olyanok mint ő?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Samantha:{/b} Miss Amelie, I'm so glad for you! So what about that guy? Isn't he an option? 😍"
-    new ""
+    new "{b}Samantha:{/b} Kedves Amelie, Nagyon örülök neked! Mi van azzal a sráccal? Ő nem egy opció? 😍"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Sabrina:{/b} Sam! Students should not gossip about teachers and stuff."
-    new ""
+    new "{b}Sabrina:{/b} Sam! Diákoknak nem kéne tanárokról pletykálni meg ilyenek."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Samantha:{/b} Sorry."
-    new ""
+    new "{b}Samantha:{/b} Bocsánat."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Sabrina:{/b} So, Amelie, what about that guy?"
-    new ""
+    new "{b}Sabrina:{/b} Szóval, Amelie, mi van azzal a sráccal?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "It's hard to imagine there's someone more intelligent than you, miss Amelie."
-    new ""
+    new "Nehéz elképezlni, hogy van olyan aki okosabb nálad, kedves Amelie."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Maybe you should not friend zone the only guys who suit your fucking description?!"
-    new ""
+    new "Talán nem kéne barátzónázni azokat a srácokat akik pont megfelelnek a kibaszott leírásodra?!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Any place would be better than Romanian Wizardry History Convention."
-    new ""
+    new "Bármely hely jobb lenne, mint a Romániai Varázslótörténelmi Gyülekezet."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Sometimes even work at the library can be exhausting. Thank god I have a set of aroma candles and warm calming water to welcome me at home."
-    new ""
+    new "Néha csak a könyvtárban való dolgozás is lehet fárasztó. Szerencsére otthon vár pár illatos gyertya és forrófürdő."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Victoria:{/b} Girl, I can relate. I used to read in the bath too, but the thought of getting the book wet... Horrifying. "
-    new ""
+    new "{b}Victoria:{/b} Tudok azonosulni csajszi. Én is olvastam régebben a kádban, de csak a vízes könyvek gondolat is ... Rémisztő. "
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Sabrina:{/b} Come see me when you're out of candles. I have a few exciting aromas. "
-    new ""
+    new "{b}Sabrina:{/b} Látogass meg ha esetleg kifogynál a gyetyákból. Van egy pár különleges illatom."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I hope you'll get enough rest, miss Amelie ❤️"
-    new ""
+    new "Reméljük jól kipiheni magát, kedves Amelie ❤️"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Doesn't it feel lonely to be alone in that king-size bath? I would be honored to help you fix this problem."
-    new ""
+    new "Nem magányos egy akkora kádban egyedül lenni? Megtisztelnél ha segíthenék ebben változtatni."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Got tired of working at the library? You poor thing! Maybe you can switch with coalminers to relax a little?"
-    new ""
+    new "Fáradt lettél a könyvtárban? Szegény árva! Talán cserélhetnél a szénbányászokkal, hogy relaxálj kicsit?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "It can be so lonely in the library. Aren't there any readers left among the youths?"
-    new ""
+    new "Olyan magányos lehet a könyvtárban. Nincsenek már diákok akik olvasnának?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Victoria:{/b} Dear, I have seen two or three students with books. So yeah, let's say that they are on the brim of extinction."
-    new ""
+    new "{b}Victoria:{/b} Kedves, láttam egy két diákot könyvekkel. Szóval ja, mondhatjuk hogy már a kihalás szélén vannak."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Haley:{/b} I'm sure people don't realize how much fun it is to Library-dive until you've read ten or twenty books while searching for an answer."
-    new ""
+    new "{b}Haley:{/b} Szerintem az emberek nem tudják mennyire szórakoztató lehet elmerülni a könyvtárban miután kiolvastál tíz vagy 20 könyvet."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Elijah:{/b} Haley, I'm sure people realize it's the opposite of fun."
-    new ""
+    new "{b}Elijah:{/b} Haley, szerintem az emberek pont az ellenkezőt gondolják."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "My favourite place to read at is your library miss. I'll be sure to visit more often."
-    new ""
+    new "A kedvenc helyem az olvasásra az ön könyvtára. Biztos vagyok benne, hogy többet fogok oda járni."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Miss, I'll be more that happy to keep you a company. Maybe it's even better, if we will be alone."
-    new ""
+    new "Hölgyem, boldog lennék veled lenni ,talán még jobb is, ha egyedül leszünk"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Amelie: I'm not sure you'll keep me entertained long enough🙄 😛"
-    new ""
+    new "Amelie: Nem vagyok benne biztos, hogy sokáig tudnál szórakoztatni🙄 😛"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "In other words, even you get bored at the library?"
-    new ""
+    new "Más szóval, még te is unatkozol a könyvtárban?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Remind me why I chose the library over the fashion show runway?"
-    new ""
+    new "Emlékeztessen, miért a könyvtárat választottam a divatbemutató kifutója helyett"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Jacob:{/b} As far as I know you have time for a second job."
-    new ""
+    new "{b}Jacob:{/b} Ha jól tudom, van ideje másodállásra."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Victoria:{/b} Cause you look more like a queen from a fairy tale, that like a cheap cover girl."
-    new ""
+    new "{b}Victoria:{/b} Mert inkább úgy nézel ki, mint egy mesebeli királynő, vagy egy olcsó címlaplány."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Miss Amelie, I'm sure there is a fashion show for librarians. "
-    new ""
+    new "Miss Amelie, biztos vagyok benne, hogy van egy divatbemutató a könyvtárosoknak."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Hey, I'm a professional photographer. Maybe we can make your dream about a fashion shoot come true? "
-    new ""
+    new "Hé, én profi fotós vagyok. Talán valóra válthatjuk álmát egy divatfotózásról?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Amelie: Maybe 😜"
-    new ""
+    new "Amelie: Talán 😜"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Cause you wanted to save yourself from shame?"
-    new ""
+    new "Mert meg akartad menteni magad a szégyentől?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Once William Shakespeare said \"I like this place and could willingly waste my time in it\", and that's exactly how I feel about my library. I can even call it \"second home\" - cannot even imagine my life without it. I want belong here and I do belong here - everything is in place."
-    new ""
+    new "Egyszer William Shakespeare azt mondta: "Szeretem ezt a helyet, és szívesen vesztegetmém itt az időmet", és pontosan ezt érzem a könyvtárammal kapcsolatban. Akár \"második otthonnak\" is nevezhetem – el sem tudom képzelni nélküle az életem. Ide akarok tartozni, és ide tartozom – minden a helyén van.""
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Victoria:{/b} Beautifully said! 🥰"
-    new ""
+    new "{b}Victoria:{/b} Gyönyörűen mondva! 🥰"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Haley:{/b} You inspire me a lot, Miss Erhart!"
-    new ""
+    new "{b}Haley:{/b} Ön nagyon inspirál engem, Miss Erhart!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I cannot even imagine the Academy without the library and without you. You're the integral part of it!"
-    new ""
+    new "El sem tudom képzelni az Akadémiát a könyvtár és nélküled. Te vagy a szerves része!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I'm also interested what William Shakespeare would say about your curves."
-    new ""
+    new "Arra is kíváncsi lennék, hogy William Shakespeare mit mondana az alakodról"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Now I'm a frisky little witch not in my mind only!"
-    new ""
+    new "Most már nem csak a fejemben vagyok egy játszadozó kis boszorkány!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Elijah:{/b} Ms. Erhart, you're looking extremely hot in this outfit!"
-    new ""
+    new "{b}Elijah:{/b} Erhart asszony, nagyon dögösen néz ki ebben a ruhában!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Audrey:{/b} Absolutely agree with Elijah."
-    new ""
+    new "{b}Audrey:{/b} Teljesen egyetértek Elijah-val."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Do you know how to fly around on a broomstick?"
-    new ""
+    new "Tudod, hogyan kell seprűn repülni?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Looks like the perfect outfit for the role-playing game if you know what I mean"
-    new ""
+    new "Tökéletes ruhának tűnik a szerepjátékhoz, ha érted, mire gondolok"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Always #1"
-    new ""
+    new "Örökké #1"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Hey guys, sorry for not posting for so long 😅 Training 24\\7. You know me -  anything but gold is not an option."
-    new ""
+    new "Sziasztok, bocsi, hogy nem posztoltam ilyen sokáig 😅 Edzés 24\\7. Ismertek negem - aranyon kívül nincs más lehetőség."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Samantha:{/b} Keep it up sis! I'm so sorry I can't be there to support you."
-    new ""
+    new "{b}Samantha:{/b} Csak így tovább, hugi! Nagyon sajnálom, hogy nem tudok ott lenni és támogatni."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Ashley:{/b} It's alright, sis. I'll send you my first selfie with gold."
-    new ""
+    new "{b}Ashley:{/b} Oksi nővérkém. El fogom küldeni az első szelfimet az arannyal."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Samantha:{/b} 😘 deal."
-    new ""
+    new "{b}Samantha:{/b} 😘 deal."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Ashley, I'm so proud of your dedication. I know we don't get along very well, but I want you to know that I'm 100% sure you got this. "
-    new ""
+    new "Ashley, nagyon büszke vagyok az elhivatottságodra. Tudom, hogy nem jövünk ki túl jól, de szeretném, ha tudnám 100%-ig bízok benned."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Ashley: Wow... [Name]... If it's not a prank - thank you. That means a lot to me. "
-    new ""
+    new "Ashley: Wáo... [Name]... Ha ez nem egy prank - köszönöm. Sokat jelent nekem."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Samantha: Guys, you're so cute it makes me wanna cry. "
-    new ""
+    new "Samantha: Ti olyan cukik vagytok, hogy mindjárt elsírom magam"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Hey, girl - those curves are golden already. Does it matter what the jury says? "
-    new ""
+    new "Szia csajszi - azok a formák már aranyak. Számít mit mondanak a zsűrik? "
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Ashley: Is there anything except sex about you? Come on."
-    new ""
+    new "Ashley: Tudsz bármi mást a szexen kívül? Ugyan már"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Maybe you should consider switching your focus to Go-Go dancing? "
-    new ""
+    new "Lehet hogy inkább a Go-Go Táncra kéne jobban fókuszálnod? "
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Ashley: Fuck off."
-    new ""
+    new "Ashley: Baszódj meg."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Voila! One more glimpse at my future routine: check out new tricks I've been working on! This was actually really fun!"
-    new ""
+    new "Voila! Még egy pillantás a jövőbeli rutinomba: nézd meg az új trükköket, amin dolgoztam! Ez tényleg szórakoztató volt! "
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Olivia:{/b}Oh my gush! Baby, Isn't this dangerous? I'm worried."
-    new ""
+    new "{b}Olivia:{/b}Jézusom! Baba, ez nem veszélyes? Aggódok."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Don:{/b}Don't be stupid, darling. She's a professional, she knows what she's doing!"
-    new ""
+    new "{b}Don:{/b}Ne legyél hülye aranyom. Ő egy profi, tudja mit csinál!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Wow! That looks so cool, Ash!"
-    new ""
+    new "Wáo! Ez nagyon menőnek néz ki, Ash!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I can think of a more suitable way to use those ropes with you..."
-    new ""
+    new "Tudok másról is ahol tudnám használni azokat a köteleket veled..."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "\"Stop and look at yourself in the mirror. Are you happy with what you see?\""
-    new ""
+    new "\"Állj és nézd meg magad a tükörben. Boldog vagy attól amit látsz?\"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Mom gave me that advice when I turned 12. I was chubby kid. I was not happy."
-    new ""
+    new "Anya adta ezt a tanácsot mikor 12 lettem. Dagi gyerek voltam. Nem voltam boldog."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Now I am."
-    new ""
+    new "Most az vagyok."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Olivia:{/b} We're all so proud of you, honey."
-    new ""
+    new "{b}Olivia:{/b} Mindannyian nagyon büszkék vagyunk rád, drágám."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Evelyn:{/b} I'm not sure that that was healthy advice, sweetheart!"
-    new ""
+    new "{b}Evelyn:{/b} Nem hinném, hogy ez egy jó tanács volt, édesem!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Olivia:{/b} Shut up, Evelyn. Get your child to decide what advice is healthy for them."
-    new ""
+    new "{b}Olivia:{/b} Fogd be, Evelyn. Hagyd a gyerekednek eldönteni, mi a jó tanács."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Ashley:{/b} Mom..."
-    new ""
+    new "{b}Ashley:{/b} Anya..."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Olivia:{/b} What? Do you agree with her?!"
-    new ""
+    new "{b}Olivia:{/b} Mi az? Egyetértesz vele?!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Ashley:{/b} We'll talk in private.\t"
-    new ""
+    new "{b}Ashley:{/b} Beszélünk majd privátban.\t"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "It only matters that you're gorgeous inside, Ash."
-    new ""
+    new "Csak azt számít, hogy belül gyönyörá vagy, Ash."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Ashley: 🥰"
-    new ""
+    new "Ashley: 🥰"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I still don't get why mirrors don't melt from your hotness."
-    new ""
+    new "Még mindig nem értem miért nem olvad el a tükör, olyan dögös vagy."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Ashley: Stop it, you! I'm blushing already."
-    new ""
+    new "Ashley: Fejezd bee! Mindjárt elpirulok."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Are you that basic? It's sad, honestly."
-    new ""
+    new "Te ilyen átlagos vagy? Ez szomorú, őszíntén szólva."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Ashley: You're making any environment around you toxic. Think about it, jerk."
-    new ""
+    new "Ashley: Minden környezetet toxikussá teszel magad körül. Gondolkozz, bunkó."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "So... I wanted to brag about my spacious couch, but I ended up bragging about my curves again. Oops!"
-    new ""
+    new "Szóval... dicsekedni akartam a nagy kanapémmal, de végül megint az alakommal dicsekedtem. Oops!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Don:{/b} I don't think posting things like that is the reason we bought you your phone, young lady."
-    new ""
+    new {b}Don:{/b} Nem hiszem, hogy az ilyen dolgok közzététele miatt vettük neked a telefont, lányom.""
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Ashley:{/b} Dad, come on! It's nothing."
-    new ""
+    new "{b}Ashley:{/b} Apu, ahj már! Ez semmi."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Don:{/b} Come into my office. Now. "
-    new ""
+    new "{b}Don:{/b} Gyere az irodámba. Most."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "You just need to hear good things about your curves more often. I'll make sure you do."
-    new ""
+    new "Csak több jó dolgot kell még hallanod az alakodról. Erről gondoskodni fogok."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I think you have a gift for photography. This is my favorite photo of a couch!  "
-    new ""
+    new "Meg vagy áldva fotózási képességgel. Ez a kedvenc fotóm egy kanapéról!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "This is me approvingly watching you writing me positive comments. Well done, keep it up!"
-    new ""
+    new "Ez vagyok én, ahogy nézem, ahogy pozitív megjegyzéseket írsz nekem. Szép volt, csak így tovább!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Samantha:{/b} Things I'd do for sisters approval."
