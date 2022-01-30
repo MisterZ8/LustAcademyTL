@@ -10,5 +10,5 @@ translate spanish_LatAm strings:
 
     # game/logic/systems/optimisation.rpy:123
     old "Loading, please wait..."
-    new ""
+    new "Cargando. Por favor, espere..."
 
