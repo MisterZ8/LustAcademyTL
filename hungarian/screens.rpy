@@ -4,73 +4,73 @@
 translate hungarian not_now_label_44591089:
 
     # "[Name]" "{i}(There's nothing we can talk about right now.){/i}"
-    "[Name]" ""
+    "[Name]" "{i}(Nincs semmi amiről tudnánk most beszélni.){/i}"
 
 translate hungarian strings:
 
     # game/screens.rpy:896
     old "New game"
-    new ""
+    new "Új játék"
 
     # game/screens.rpy:914
     old "Xmas Special"
-    new ""
+    new "Karácsonyi Különkiadás"
 
     # game/screens.rpy:934
     old "History"
-    new ""
+    new "Előzmények"
 
     # game/screens.rpy:951
     old "Save"
-    new ""
+    new "Mentés"
 
     # game/screens.rpy:969
     old "Settings"
-    new ""
+    new "Beállítások"
 
     # game/screens.rpy:986
     old "Load"
-    new ""
+    new "Betölt"
 
     # game/screens.rpy:1006
     old "Main Menu"
-    new ""
+    new "Főmenü"
 
     # game/screens.rpy:1024
     old "Credits"
-    new ""
+    new "Közreműködtek"
 
     # game/screens.rpy:1042
     old "Gallery"
-    new ""
+    new "Galéria"
 
     # game/screens.rpy:1063
     old "Help"
-    new ""
+    new "Segítség"
 
     # game/screens.rpy:1087
     old "Quit"
-    new ""
+    new "Kilépés"
 
     # game/screens.rpy:1150
     old "Details"
-    new ""
+    new "Részletek"
 
     # game/screens.rpy:1150
     old "Not now"
-    new ""
+    new "Most nem"
 
     # game/screens.rpy:2007
     old "Page {}"
-    new ""
+    new "Oldal {}"
 
     # game/screens.rpy:2007
     old "Automatic saves"
-    new ""
+    new "Automatikus mentések"
 
     # game/screens.rpy:2007
     old "Quick saves"
-    new ""
+    new "Gyors mentések"
 
     # game/screens.rpy:2096
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -78,15 +78,15 @@ translate hungarian strings:
 
     # game/screens.rpy:2096
     old "empty slot"
-    new ""
+    new "Üres hely"
 
     # game/screens.rpy:2118
     old "Yes"
-    new ""
+    new "Igen"
 
     # game/screens.rpy:2118
     old "No"
-    new ""
+    new "Nem"
 
     # game/screens.rpy:2178
     old "{#auto_page}A"
@@ -98,63 +98,63 @@ translate hungarian strings:
 
     # game/screens.rpy:2572
     old "MUTE ALL"
-    new ""
+    new "MINDEN NÉMÍTÁSA"
 
     # game/screens.rpy:2770
     old "The dialogue history is empty."
-    new ""
+    new "A párbeszéd előzmény üres."
 
     # game/screens.rpy:2855
     old "Rolls forward to later dialogue."
-    new ""
+    new "Előretekerés későbbi párbeszédhez."
 
     # game/screens.rpy:2855
     old "Opens the inventory menu."
-    new ""
+    new "Eszköztár megnyitása."
 
     # game/screens.rpy:2855
     old "Opens the phone menu."
-    new ""
+    new "Telefon menü megnyitása."
 
     # game/screens.rpy:2855
     old "Opens the list of available routes."
-    new ""
+    new "Elérhető útvonal lista megnyitása."
 
     # game/screens.rpy:2880
     old "Takes a screenshot."
-    new ""
+    new "Képernyőképet készítése."
 
     # game/screens.rpy:2880
     old "Opens the map."
-    new ""
+    new "Térkép megnyitása."
 
     # game/screens.rpy:2880
     old "Advances dialogue without selecting choices."
-    new ""
+    new "Előrelép a párbeszédpanelen a választási lehetőségek kiválasztása nélkül."
 
     # game/screens.rpy:2880
     old "Skips dialogue while held down."
-    new ""
+    new "Lenyomva tartva átugorja a párbeszédet."
 
     # game/screens.rpy:2880
     old "Toggles dialogue skipping."
-    new ""
+    new "Bekapcsolja a párbeszédek átugrását."
 
     # game/screens.rpy:2880
     old "Rolls back to earlier dialogue."
-    new ""
+    new "Visszateker korábbi párbeszédhez."
 
     # game/screens.rpy:2880
     old "Highlights all active objects."
-    new ""
+    new "Minden aktív objektumot kiemel."
 
     # game/screens.rpy:2880
     old "Enables fullscreen mode."
-    new ""
+    new "Bekapcsolja a teljes képernyős módot."
 
     # game/screens.rpy:2880
     old "Navigate the interface."
-    new ""
+    new "Navigáció a interfészen."
 
     # game/screens.rpy:2923
     old "Enter"
@@ -162,7 +162,7 @@ translate hungarian strings:
 
     # game/screens.rpy:2924
     old "Advances dialogue and activates the interface."
-    new ""
+    new "Előrelép a párbeszédben és aktiválja az interfészt."
 
     # game/screens.rpy:2927
     old "Space"
@@ -170,7 +170,7 @@ translate hungarian strings:
 
     # game/screens.rpy:2931
     old "Arrow Keys"
-    new ""
+    new "Nyilak"
 
     # game/screens.rpy:2935
     old "Escape"
@@ -178,7 +178,7 @@ translate hungarian strings:
 
     # game/screens.rpy:2936
     old "Accesses the game menu."
-    new ""
+    new "Belép a játék menüjébe."
 
     # game/screens.rpy:2939
     old "Ctrl"
@@ -226,7 +226,7 @@ translate hungarian strings:
 
     # game/screens.rpy:2976
     old "Hides the user interface."
-    new ""
+    new "Elrejti a felhasználói interfészt."
 
     # game/screens.rpy:2978
     old "S"
@@ -258,19 +258,19 @@ translate hungarian strings:
 
     # game/screens.rpy:3040
     old "Calibrate"
-    new ""
+    new "Kalibrálás"
 
     # game/screens.rpy:3273
     old "Skipping"
-    new ""
+    new "Átugrás"
 
     # game/screens.rpy:3497
     old "Back"
-    new ""
+    new "Vissza"
 
     # game/screens.rpy:3498
     old "Skip"
-    new ""
+    new "Átugrás"
 
     # game/screens.rpy:3499
     old "Auto"
@@ -278,5 +278,5 @@ translate hungarian strings:
 
     # game/screens.rpy:3500
     old "Menu"
-    new ""
+    new "Menü"
 
