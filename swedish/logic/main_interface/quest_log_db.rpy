@@ -4,7 +4,7 @@ translate swedish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "She's the mysterious hostess of the strip club called Lady Luck. It seems like she's in charge there. She once almost got raped by Diego."
-    new ""
+    new "Hon är den mystiska värdinnan för strippklubben Lady Luck. Det verkar som om hon bestämmer över stället. En gång blev hon nästan våldtagen av Diego."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Cuill"
@@ -12,7 +12,7 @@ translate swedish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "This friendly elf is the best barista in all of Dale. Not only will he masterfully prepare any drink, but he's also happy to tell the customer interesting news and rumors from over the world."
-    new ""
+    new "Denna vänliga tomte är den bästa baristan i hela Dale. Han kommer inte bara att på ett mästerligt sätt förbereda vilken drink som helst, utan han berättar också gärna för kunden intressanta nyheter och rykten från hela världen."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Fiennes"
@@ -20,47 +20,47 @@ translate swedish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Cordale's librarian goes by the name Amelie. She loves books and smart people more than anything else in the world. I'm not sure, but it feels like she doesn't seem to mind having affairs with young guys."
-    new ""
+    new "Cordale's biblotekarie heter Amelie. Hon älskar böcker och intellektuella människor mer än allt annat i denna värld. Jag är inte säker, men det käns som att hon inte har några problem att ha relationer med unga killar."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Earhart"
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:3
-    old "Turns out that the statues in one of the gardens are actually alive! One of them even had a boner while we were walking there with Haley. \"Angels\" storyline for this version of the game has come to an end."
-    new ""
+    old "Turns out that the statues in one of the gardens are actually alive! One of them even had a boner while we were walking there with Haley. \"Angels\" storyline for this version of the game has come to an endhe statues in one of the gardens are actually alive! One of them even had a boner while we were walking there with Haley. \"Angels\" storyline for this version of the game has come to an end."
+    new "Det visar sig att statyerna i en av trädgårdarna faktiskt lever! En av dem hade till och med en stånd när vi gick där med Haley. Historien om \"änglar\" för den här versionen av spelet har tagit slut."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Angels"
-    new ""
+    new "Änglar"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Garden's story has come to an end."
-    new ""
+    new "Trädgårdens historia har tagit slut."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Arthur Doorman is the headmaster of the school and a respected member of the Wizarding Society. He is an example to all."
-    new ""
+    new "Arthur Doorman är rektor för skolan och en respekterad medlem av Trollkarls Samhället. Han är ett exempel för alla."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Doorman IV"
-    new ""
+    new "Dörrvakt IV"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Olivia and Don's youngest daughter, Ashley, is a prominent athlete who competes in artistic gymnastics."
-    new ""
+    new "Olivia och Dons yngsta dotter, Ashley, är en framstående idrottare som tävlar i konstnärlig gymnastik."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Rose"
-    new ""
+    new "Ros"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Girl/Shemale"
-    new ""
+    new "Tjej/Manskvinna"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Audrey is Samantha's best friend. I think she's hiding something and Samantha is in on it too. She has a pretty bad temper."
-    new ""
+    new "Audrey är Samanthas bästa vän. Jag tror att hon döljer något, men Samantha är med på det också. Hon är ganska lätt irriterad."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Burns"
@@ -68,15 +68,15 @@ translate swedish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Carter is almost 30. He's the oldest student in the academy despite being a freshman. He's not very talkative."
-    new ""
+    new "Carter är nästan 30. Han är den äldsta eleven i akademin trots att det är hans första år. Han är inte särskilt pratsam."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Brown"
-    new ""
+    new "Brun"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "A nasty guy who fell in love with Adele after seeing her in a club. Tried to rape the girl, but was disgraced and sent running."
-    new ""
+    new "En äcklig kille som blev kär i Adele efter att ha sett henne på en klubb. Försökte våldta flickan, men blev vanära och skickades springande."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Faradenza"
@@ -84,7 +84,7 @@ translate swedish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Don works as a mid-level manager at the largest car dealership in town. He's a total control freak, and I think he's cheating on Olivia."
-    new ""
+    new "Don arbetar som chef på mellannivå i den största bilförsäljaren i stan. Han är ett totalt kontrollfreak, och jag tror att han är otrogen mot Olivia."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Homo/Hetero"
@@ -92,19 +92,19 @@ translate swedish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Elijah is the cheerful swashbuckler, Leonheart's headman, and a hoarder who smuggles all sorts of forbidden things into the academy."
-    new ""
+    new "Elijah är den glada tjusningen, Leonhearts huvudpojke och en hamstrare som smugglar in alla möjliga förbjudna saker till akademin."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Bloom"
-    new ""
+    new "Blomstra"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "One of the four co-founders of Cordale Academy. Founder of Crowhive house and the keeper of knowledge."
-    new ""
+    new "En av de fyra medgrundarna av Cordale Akademin. Grundaren av hus Crowhive och kunskapshållare."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Cheerful Latino-American student from Martenden. She likes dancing, duels, and living a life full of adventures."
-    new ""
+    new "Glad latinamerikansk elev från Martenden. Hon gillar att dansa, dueller och att leva ett liv fullt av äventyr."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Leal"
@@ -112,11 +112,11 @@ translate swedish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The strange monster that wonders on the night streets of Dale."
-    new ""
+    new "Det märkliga monstret som vandrar på Dales gator i mörkret."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "A business-oriented dwarf. Owner of the only store in Dale. Willow's father. You can always make money from him by fishing."
-    new ""
+    new "En affärsinriktad dvärg. Ägare till den enda butiken i Dale. Willows pappa. Du kan alltid tjäna pengar från honom genom att fiska."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Chompski"
@@ -124,7 +124,7 @@ translate swedish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "First year student of the house Crowhive. She's intelligent and shy. As far as I know, she likes visiting potions classes."
-    new ""
+    new "Förstårstudent i Crowhive. Hon är smart och blyg. Så mycket som jag vet så gillar hon att gå till trolldryckers lektionerna. "
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old " Sherman"
@@ -132,7 +132,7 @@ translate swedish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The first person I met on my way to becoming a wizard. She's smart, beautiful, and funny. I wonder if we can be more than friends..."
-    new ""
+    new "Den första personen jag träffade på väg att bli en trollkarl. Hon är smart, vacker och rolig. Jag undrar om vi kan vara mer än vänner..."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Ranger"
@@ -140,7 +140,7 @@ translate swedish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Jacob met us at the train station when I'd just arrived at Cordale. He's most certainly the grimmest teacher in the academy. He runs a dueling club. He has a certain creepy vibe about him."
-    new ""
+    new "Jacob mötte oss på tågstationen när jag precis anlänt till Cordale. Han är med all säkerhet den kusligaste läraren i akademin. Han håller en duellklubb. Han har en viss läskig stämning över sig."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Frollo"
@@ -148,11 +148,11 @@ translate swedish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "One of the four co-founders of Cordale Academy. Founder of Martenden house and the keeper of Housefire."
-    new ""
+    new "En av de fyra medgrundarna av Cordale Akademi. Grundare av hus Martenden och hållare av Huseld."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Owner of Whistley's SPA. She gives excellent massages but it seems that there's something strange about her."
-    new ""
+    new "Ägare av Whistley's SPA. Hon ger utmärkt massage men det verkar som att det är något konstigt med henne."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Whistley"
@@ -160,23 +160,23 @@ translate swedish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "At this version of Lust Academy there's no more massage scenes."
-    new ""
+    new "På den här versionen av Lust Academy finns det inga fler massagescener."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Joshi is a talkative young guy who clearly lives only to have a good time and relax."
-    new ""
+    new "Joshi är en pratglad kille som helt klart lever bara för att ha det bra och koppla av."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Backs"
-    new ""
+    new "Backar"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "One of the four co-founders of Cordale Academy. Founder of Adderin house and the keeper of Success."
-    new ""
+    new "En av de fyra medgrundarna av Cordale Akademi. Grundare av hus Adderin och hållare av framgång."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "One of the four co-founders of Cordale Academy. Founder of Leonheart house and the keeper of Justice."
-    new ""
+    new "En av de fyra medgrundarna av Cordale Akademi. Grundare av hus Leonheart och hållare av rättvisa."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Leonheart"
@@ -184,19 +184,19 @@ translate swedish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The main story for this version has come to an end."
-    new ""
+    new "Huvudhistorien för den här versionen har kommit till ett slut."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lily is a real diehard fan of Leonheart. She does a lot for its sake and gets thrilled when I help her with that."
-    new ""
-
+    new "Lily är ett riktigt diehard fan av Leonheart. Hon gör mycket för husets skull och blir glad när jag hjälper henne."
+w
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Hebi"
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lucy is one of the dancers at Lady Luck night club. I think I'll get to know her better if I invite her to VIP."
-    new ""
+    new "Lucy är en av dansarna på klubben Lady Luck. Jag tror att jag kommer att lära känna henne bättre om jag bjuder in henne till VIP."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Altidore"
@@ -204,7 +204,7 @@ translate swedish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Mina is a very shy girl who manages a local hostel. I saw her reading porn novels, I wonder if she has any other secrets."
-    new ""
+    new "Mina är en väldigt blyg tjej som sköter ett lokalt vandrarhem. Jag såg henne läsa porrromaner, jag undrar om hon har några andra hemligheter."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Harper"
@@ -212,7 +212,7 @@ translate swedish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Molly is a hard-working businesswoman who keeps her café in Cordale. She helps me with a part-time job when I need money."
-    new ""
+    new "Molly är en hårt arbetande affärskvinna som håller sitt kafé i Cordale. Hon hjälper mig med ett deltidsjobb när jag behöver pengar."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Maeve"
@@ -220,7 +220,7 @@ translate swedish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Naomi is a coldhearted rising queen of manipulation from Adderin and Lily's best friend."
-    new ""
+    new "Naomi är en iskall drottning av att manipulera, hon tillhör hus Adderin och är Lilys bästa vän."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Kimba"
@@ -228,15 +228,15 @@ translate swedish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Olivia is Samantha and Ashley's mother, She's married to Don. I don't know if she has any hobbies except shopping and spending money."
-    new ""
+    new "Olivia är Samantha och Ashleys mamma, hon är gift med Don. Jag vet inte om hon har några hobbyer förutom att shoppa och spendera pengar."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Wild-Rose"
-    new ""
+    new "Vild-Ros"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "A bouncer. He's a prick who asks for bribes to let you in the club. He tricked me and almost let Diego rape Adele."
-    new ""
+    new "En dörrvakt. Han är en idiot som ber om mutor för att släppa in dig i klubben. Han lurade mig och lät nästan Diego våldta Adele."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Mobs"
@@ -244,7 +244,7 @@ translate swedish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Sabrina is the sweetest teacher in the Academy, and you can always see how happy she gets when she seems some dedication in her lessons."
-    new ""
+    new "Sabrina är den gulligaste läraren i Akademin, och du kan alltid se hur glad hon blir när hon ser att man faktiskt bryr sig om lektionerna."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Spellman"
@@ -252,11 +252,11 @@ translate swedish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "There are no more theory lessons available for this version of the game."
-    new ""
+    new "Det finns inga fler teorilektioner tillgängliga för den här versionen av spelet."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Sadira is one of the dancers at Lady Luck. She seems strange and exotic, I think I'll enjoy what she can offer in VIP."
-    new ""
+    new "Sadira är en av dansarna på Lady Luck. Hon verkar konstig och exotisk, jag tror att jag kommer att njuta av vad hon kan erbjuda i VIP."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Adala"
@@ -264,11 +264,11 @@ translate swedish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Samantha is my best friend and Olivia's first child. She's kind and supportive and sees good even where no one else can."
-    new ""
+    new "Samantha är min bästa vän och Olivias första barn. Hon är snäll och stöttande och ser gott när andra inte kan."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Vanessa is a barman at Lady Luck. She's mysterious and obsessed with her special cocktails."
-    new ""
+    new "Vanessa jobbar i baren på Lady Luck. Hon är mystisk och besatt av sina speciella drinker."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Le Court"
@@ -276,7 +276,7 @@ translate swedish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Victoria is strict, but just teacher. Everyone respects her a lot. She makes it look like my flirting is useless, but I won't stop trying."
-    new ""
+    new "Victoria är sträng. Alla respekterar henne mycket. Hon får det att se ut som att min flörtande är värdelöst, men jag kommer inte att sluta försöka."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lapis"
@@ -284,59 +284,59 @@ translate swedish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "At this version of Lust Academy there's no more theory or scenes for Victoria."
-    new ""
+    new "På den här versionen av Lust Academy finns det ingen mer teori eller scener för Victoria."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Fairy"
-    new ""
+    new "Älva"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Willow is a cheerful and quirky daughter of Gordon. She's helpful when someone needs magical artifacts."
-    new ""
+    new "Willow är en glad och speciell dotter till Gordon. Hon är hjälpsam när någon behöver magiska föremål."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "When me and Lily got lost and almost died in a magical flesh-eating mushroom forest I saw strange creature, that looked like a hybrid of mushroom and human girl. She was cute. I wonder who she is?"
-    new ""
+    new "När jag och Lily gick vilse och nästan dog i en magisk köttätande svampskog såg jag en märklig varelse, som såg ut som en hybrid av svamp och människoflicka. Hon var söt. Jag undrar vem hon är?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Adele showed me around club. I can now  order a table or VIP lounge from her anytime I want."
-    new ""
+    new "Adele visade mig runt i klubben. Jag kan nu beställa ett bord eller en VIP-lounge när jag vill."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Adele seemed to be interested in me, but for now - she rejected all my moves."
-    new ""
+    new "Adele verkade vara intresserad av mig, men för tillfället sket hon i alla mina drag."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I worked up the courage to ask Adele out. She seemed surprised, but agreed. We agreed to meet in the afternoon at a cafe. I couldn't wait."
-    new ""
+    new "Jag tog mod till mig och frågade ut Adele. Hon verkade förvånad, men sa ja. Vi kom överens om att träffas på eftermiddagen på ett café. Jag längtar."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We had a great time with Adele at the cafe. She was very sociable and friendly. I think she liked me too. We agreed that we will do it again sometime, so a second date is in my pocket."
-    new ""
+    new "Jag hade en fantastisk tid med Adele på kaféet. Hon var väldigt snäll och vänlig. Jag tror att hon gillade tiden vi spenderade tillsammans. Vi kom överens om att vi ska på en till dejt någon gång, så en andra dejt sker snart."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Ahchi is a pleasant and sociable barista who makes incredibly cool coffee. He is always nice to talk to and often tells interesting news and rumors."
-    new ""
+    new "Ahchi är en trevlig och social barista som gör otroligt bra kaffe. Han är alltid trevlig att prata med och berättar ofta intressanta nyheter och rykten."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Amelie said that magical creatures can prank students by stealing their books. If I find lost books scattered around the academy, I can return them to the library in exchange for house points."
-    new ""
+    new "Amelie sa att magiska varelser kan busa med elever genom att stjäla deras böcker. Om jag hittar borttappade böcker utspridda runt akademin kan jag lämna tillbaka dem till biblioteket i utbyte mot huspoäng."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Amelie didn't lie - for every book I return, she gives me the points needed to win the weekly competition. I could turn in one book at a time or continue collecting and turn in many at once. She will surely appreciate the help. If I want to get closer, I need to find more books."
-    new ""
+    new "Amelie ljög inte – för varje bok jag lämnar tillbaka ger hon mig poängen som behövs för att vinna veckotävlingen. Jag skulle kunna lämna in en bok i taget eller fortsätta samla och lämna in många på en gång. Hon kommer säkert att uppskatta hjälpen. Om jag vill komma närmare måste jag hitta fler böcker."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I helped Amelie deal with the elves who tried to steal from her, but they managed to steal one of the potions. Amelie asked me to help her get it back when she figured out where they were hiding. I couldn't wait."
-    new ""
+    new "Jag hjälpte Amelie att ta itu med älverna som försökte stjäla från henne, men de lyckades stjäla en av dryckerna. Amelie bad mig hjälpa henne att få tillbaka den när hon kom på var de gömde sig. Jag kunde inte vänta."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Amelie and I went to the elf settlement in the woods and returned the stolen potion. It was epic! Admittedly, the potion broke and got on Amelie in the process, but that's okay... But, it was fun."
-    new ""
+    new "Amelie och jag gick till tomteboplatsen i skogen och lämnade tillbaka den stulna drycken. Det var episkt! Visserligen gick trolldrycken sönder och kom på Amelie i processen, men det är okej... Det var kul."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Now I know that we have really creepy angels living in the garden, Garden's story has come to an end."
-    new ""
+    new "Nu vet jag att vi har riktigt läskiga änglar som bor i trädgården, Trädgårdens historia har tagit slut."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Now I know that we have really creepy angels living in the garden."
@@ -344,59 +344,59 @@ translate swedish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "If Leonheart wins weekly house competition we'll be able to visit local town - Dale. To win the competition I need to earn points by visiting classes, collecting books or winning in duels."
-    new ""
+    new "Om Leonheart vinner den veckans hustävlingen kommer vi att kunna besöka den lokala byn - Dale. För att vinna tävlingen måste jag tjäna poäng genom att gå till våra lektioner, samla böcker eller vinna i dueller."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've been to Dale and it's awesome. Winning the school competition is really valuable, plus they give money to winners. I should try to win again."
-    new ""
+    new "Jag har varit i Dale och det är fantastiskt. Att vinna skoltävlingen är verkligen värdefullt, plus så ger de pengar till vinnare. Jag borde försöka vinna igen."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "This character has no active quests in this version of the game."
-    new ""
+    new "Denna karaktär har inga aktiva uppdrag i den här versionen av spelet."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "She's in Leonheart too, so I can probably meet her in our campus in the morning."
-    new ""
+    new "Hon är i Leonheart också, så jag kan nog träffa henne på vårt campus på morgonen."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Audrey only talks to men who can take her to a restaurant. It seems that I have to get a job to interest her in my persona."
-    new ""
+    new "Audrey pratar bara med män som kan ta henne till en restaurang. Det verkar som att jag måste skaffa ett jobb för att intressera henne i mitt persona."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've helped Audrey get milk for her morning coffee, and I hope it'll melt some ice between us. Audrey will be waiting for me in the living room in the evening. I wonder if that's a hint."
-    new ""
+    new "Jag har hjälpt Audrey att få mjölk till hennes morgonkaffet, och jag hoppas att det kommer att hälpa med att ta bort barriären mellan oss. Audrey kommer att vänta på mig i vardagsrummet på kvällen. Jag undrar om det är en ledtråd."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've tried to get Sam and Audrey to tell me if they're hiding something, but they told me nothing. I'll need to talk to Audrey in the morning, when she's alone."
-    new ""
+    new "Jag har försökt få Sam och Audrey att berätta för mig om de döljer något, men de sa inget till mig. Jag måste prata med Audrey på morgonen, när hon är ensam."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We had a fantastic time drinking coffee at Molly's while it was still closed. I think we're getting closer. I'll just have to wait until she makes her move."
-    new ""
+    new "Vi hade en fantastisk tid och drack kaffe hos Mollys medan det fortfarande var stängt. Jag tror att vi närmar oss. Jag får vänta tills hon tar sitt nästa steg."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Audrey was so sweet about choosing a gift for Samantha. They must be really good friends. I think she likes me too, and Maybe I should talk to her in the evening?"
-    new ""
-
+    new "Audrey var så söt att välja en present till Samantha. De måste vara riktigt bra vänner. Jag tror att hon gillar mig också, och jag kanske borde prata med henne på kvällen?"
+    
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Audrey and Samantha acted  really weird  tonight: first they  got touchy with each other and went to their room. Then, Samantha stormed out and she looked concerned. I'll have to talk to Audrey again if I want to know the details."
-    new ""
+    new "Audrey och Samantha betedde sig riktigt konstigt ikväll: först så strula de med varandra och gick till deras rum. Sedan stormade Samantha ut och hon såg orolig ut. Jag måste prata med Audrey igen om jag vill veta detaljerna."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Audrey and I have a complicated situation, and I have to figure out what to do next. If not for Audrey's sake, then for Samantha's, who is very close to her."
-    new ""
+    new "Audrey och jag har en komplicerad situation, och jag måste ta reda på vad jag ska göra härnäst. Om inte för Audreys skull, så är det för Samanthas, som står henne väldigt nära."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We finally talked to Audrey about our relationship and everything that happened recently. Now we both have a better understanding of the boundaries between us. It's up to me to decide if I want to continue my relationship with her, I shouldn't forget that she's the succubus that almost got Samantha hurt."
-    new ""
+    new "Vi pratade äntligen med Audrey om vårt förhållande och allt som hände nyligen. Nu har vi båda en bättre förståelse för gränserna mellan oss. Det är upp till mig att bestämma om jag vill fortsätta min relation med henne, jag ska inte glömma att hon är succubusen som nästan skadade Samantha."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah should give me a \"student card\". I can catch him in the living room in the morning."
-    new ""
+    new "Elia borde ge mig ett \"student card\". Jag kan hitta honom i vardagsrummet på morgonen.
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah gave me my student card and told me to get my textbooks from the library. Then I return to him or visit classes."
-    new ""
+    new "Elia gav mig mitt studentkort och sa åt mig att hämta mina läroböcker från biblioteket. Sedan återvänder jag till honom eller besöker lektioner."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah recommended that I attend both classes and then find him in the café in the evening."
@@ -408,8 +408,7 @@ translate swedish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah asked me to get some nectar from Willow in Chompski Shop in Dale. To get to Dale, our house has to win the weekly competition."
-    new ""
-
+    new "Elijah bad mig att få lite nektar från Willow i Chompski affären i Dale. För att ta mig till Dale så måste mitt hus vinna veckans hustävling."
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "When I went for Elijah's package to Gordon's shop I had a small chat with Willow. She showed me her magic grove.  It seems like it is very important to her. I wonder what's inside...  She also gave me the nectar for Elijah. I should meet hit at Cordale's cafe."
     new ""
