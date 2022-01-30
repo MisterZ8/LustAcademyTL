@@ -4,397 +4,397 @@
 translate hungarian CordEntrance_label_b9a07f28:
 
     # ch_Name "{i}(The academy is so big. How is it even possible to remember where to go?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ez az akadémia olyan nagy. Hogy lehetséges egyáltalán emlékezni, hogy merre kell menni?){/i}"
 
 # game/logic/tutorial.rpy:579
 translate hungarian CordEntrance_label_3165fc11:
 
     # ch_Name "{i}(I think the guy going up the stairs is also a freshman.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Szerintem a srác aki a lépcsőn megy fel éppen, ő is gólya.){/i}"
 
 # game/logic/tutorial.rpy:580
 translate hungarian CordEntrance_label_016e0679:
 
     # ch_Name "{i}(But why is he going there? Should I follow him?){/i}"
-    ch_Name ""
+    ch_Name "{i}(De miért megy arra? Követnem kéne?){/i}"
 
 # game/logic/tutorial.rpy:582
 translate hungarian CordEntrance_label_d0e1233a:
 
     # Jacob "Where do you think you're going, Mr. Brown?"
-    Jacob ""
+    Jacob "Mit gondol, hova megy Mr. Brown?"
 
 # game/logic/tutorial.rpy:583
 translate hungarian CordEntrance_label_4b7232ff:
 
     # Carter "Good afternoon, Mr. Frollo."
-    Carter ""
+    Carter "Szép napot, Mr. Frollo."
 
 # game/logic/tutorial.rpy:584
 translate hungarian CordEntrance_label_77d471be:
 
     # Carter "Ehm... Where? Why..."
-    Carter ""
+    Carter "Ömm... Hova? Miért..."
 
 # game/logic/tutorial.rpy:585
 translate hungarian CordEntrance_label_00959311:
 
     # Carter "I mean, yeah, I was going to the libraries and to class."
-    Carter ""
+    Carter "Úgy értem, igen, éppen a könyvárba tartottam, onnan pedig órára."
 
 # game/logic/tutorial.rpy:586
 translate hungarian CordEntrance_label_2950cae5:
 
     # Jacob "And what are you doing on the second floor, then?"
-    Jacob ""
+    Jacob "Akkor mit keresel a második emeleten?"
 
 # game/logic/tutorial.rpy:588
 translate hungarian CordEntrance_label_df5a3cec:
 
     # Carter "Isn't that where I need to go?"
-    Carter ""
+    Carter "Nem erre kellene mennem?"
 
 # game/logic/tutorial.rpy:589
 translate hungarian CordEntrance_label_c3688de3:
 
     # Jacob "I thought Crowhive took bright students."
-    Jacob ""
+    Jacob "Azt hittem Corwhiveba kiváló diákokat vettek fel."
 
 # game/logic/tutorial.rpy:590
 translate hungarian CordEntrance_label_26ca3eeb:
 
     # Jacob "It's sad to see Jaina's standards fall so low."
-    Jacob ""
+    Jacob "Szomorú látni, hogy Jaina elvárásai ilyen alacsonyak lettek."
 
 # game/logic/tutorial.rpy:591
 translate hungarian CordEntrance_label_f96d3ac5:
 
     # Jacob "First-year students have no business being on the second floor of the academy."
-    Jacob ""
+    Jacob "Első éves diákoknak semmi keresnivalójuk a második emeleten ezen az akadémián."
 
 # game/logic/tutorial.rpy:592
 translate hungarian CordEntrance_label_d3703568:
 
     # Carter "But, sir..."
-    Carter ""
+    Carter "De, uram..."
 
 # game/logic/tutorial.rpy:593
 translate hungarian CordEntrance_label_37219890:
 
     # Carter "Where should I go then?"
-    Carter ""
+    Carter "Hova kellene mennem akkor?"
 
 # game/logic/tutorial.rpy:595
 translate hungarian CordEntrance_label_0fdab458:
 
     # Jacob "The entrance to the library and the classrooms is in the inner courtyard of the academy."
-    Jacob ""
+    Jacob "A bejárat a könyvtárba és az osztálytermekbe a belső udvarán van az akadémiának."
 
 # game/logic/tutorial.rpy:596
 translate hungarian CordEntrance_label_824eb68a:
 
     # Jacob "To get there, just go through one of the two arches on either side of the stairs."
-    Jacob ""
+    Jacob "Ahhoz, hogy odajuss csak menj át a lépcső melletti bármelyik boltív alatt."
 
 # game/logic/tutorial.rpy:597
 translate hungarian CordEntrance_label_fca81d84:
 
     # Jacob "Then turn to left. You need the first door."
-    Jacob ""
+    Jacob "Aztán fordulj balra. És az első ajtó, ami neked kell."
 
 # game/logic/tutorial.rpy:598
 translate hungarian CordEntrance_label_4d0a14f3:
 
     # Carter "But there are so many arches..."
-    Carter ""
+    Carter "De rengeteg boltív van..."
 
 # game/logic/tutorial.rpy:599
 translate hungarian CordEntrance_label_b7843e2d:
 
     # Jacob "You're a messed up case, aren't you?"
-    Jacob ""
+    Jacob "Nehéz egy eset vagy, tudod-e?"
 
 # game/logic/tutorial.rpy:601
 translate hungarian CordEntrance_label_0313eace:
 
     # Jacob "You need those arches over there. "
-    Jacob ""
+    Jacob "Neked azok a boltívek kellenek."
 
 # game/logic/tutorial.rpy:602
 translate hungarian CordEntrance_label_29142250:
 
     # Jacob "If you look from the entrance to the academy, they're straight ahead."
-    Jacob ""
+    Jacob "Ha a szemből nézed a bejárat felől az akadémiát, akkor egyenesen előtted."
 
 # game/logic/tutorial.rpy:603
 translate hungarian CordEntrance_label_afff9aa0:
 
     # Jacob "I hope you can work it out from there, you were there when you took your exam."
-    Jacob ""
+    Jacob "Remélem innentől boldogulsz, ott voltál amikor a vizsgáztál."
 
 # game/logic/tutorial.rpy:604
 translate hungarian CordEntrance_label_f5190618:
 
     # Jacob "Do you understand?"
-    Jacob ""
+    Jacob "Világos?"
 
 # game/logic/tutorial.rpy:606
 translate hungarian CordEntrance_label_91729c82:
 
     # Carter "I think so."
-    Carter ""
+    Carter "Azt hiszem."
 
 # game/logic/tutorial.rpy:607
 translate hungarian CordEntrance_label_4614f3ee:
 
     # Carter "Thank you for your help."
-    Carter ""
+    Carter "Köszönöm a segítségét!"
 
 # game/logic/tutorial.rpy:608
 translate hungarian CordEntrance_label_bc91fdd7:
 
     # Jacob "Don't mention it. Try to be more attentive, Mr Brown."
-    Jacob ""
+    Jacob "Szóra sem érdemes. Próbáljon meg figyelmesebb lenni Mr.Brown."
 
 # game/logic/tutorial.rpy:609
 translate hungarian CordEntrance_label_a8ebf1f0:
 
     # Jacob "The rules are there for a reason. It would be a shame to get expelled for such foolishness."
-    Jacob ""
+    Jacob "A szabályok nem véletlen szabályok. Kár lenne ha ilyen ostobaság miatt felfüggesztenék."
 
 # game/logic/tutorial.rpy:610
 translate hungarian CordEntrance_label_7d6017ea:
 
     # Carter "Yes, sir."
-    Carter ""
+    Carter "Igen, uram."
 
 # game/logic/tutorial.rpy:612
 translate hungarian CordEntrance_label_b2235bb4:
 
     # ch_Name "{i}(Phew, it's a good thing I didn't have time to follow him.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Huh, hál' Isten nem volt időm követni a srácot.){/i}"
 
 # game/logic/tutorial.rpy:613
 translate hungarian CordEntrance_label_7ca1a037:
 
     # ch_Name "{i}(Or I'd have gotten my ass kicked by Jacob.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vagy Jacob szétrúgta volna a seggem.){/i}"
 
 # game/logic/tutorial.rpy:614
 translate hungarian CordEntrance_label_4ed7d299:
 
     # ch_Name "{i}(I wonder what's on the second floor that students aren't allowed up there.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kiváncsi vagyok mi lehet a második emeleten, ha a diákok nem mehetnek oda.){/i}"
 
 # game/logic/tutorial.rpy:615
 translate hungarian CordEntrance_label_89fc7eb8:
 
     # ch_Name "{i}(Okay, I'll leave that out of my head now.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oké, ezt most kizárom a gondolataimból.){/i}"
 
 # game/logic/tutorial.rpy:617
 translate hungarian CordEntrance_label_a185157a:
 
     # ch_Name "{i}(I have so much to do before school starts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Rengeteg dolgom van mielőtt kezdődik a tanítás){/i}"
 
 # game/logic/tutorial.rpy:618
 translate hungarian CordEntrance_label_478994c0:
 
     # ch_Name "{i}(And first of all - learn how not to get lost here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(És elsősorban - megtanulni, hogy ne tévedjek el itt.){/i}"
 
 # game/logic/tutorial.rpy:619
 translate hungarian CordEntrance_label_53648e18:
 
     # ch_Name "{i}(There are entrances to the garden on either side of the stairs.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vannak bejáratok a kertbe a lépcső mindkét oldaláról.){/i}"
 
 # game/logic/tutorial.rpy:620
 translate hungarian CordEntrance_label_f3ca9d12:
 
     # ch_Name "{i}(And that's all I need to know during my first year.){/i}"
-    ch_Name ""
+    ch_Name "{i}(És ez minden amit tudnom kell az első évem alatt.){/i}"
 
 # game/logic/tutorial.rpy:633
 translate hungarian CordGarden_label_e389e50c:
 
     # ch_Name "{i}(Well, here it is. The inner garden.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nos, itt is van. A belső udvar.){/i}"
 
 # game/logic/tutorial.rpy:634
 translate hungarian CordGarden_label_a89f8e02:
 
     # ch_Name "{i}(This place has a lot of doors and no signs whatsoever.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ezen a helyen rengeteg ajtó van és egy tábla sincs.){/i}"
 
 # game/logic/tutorial.rpy:636
 translate hungarian CordGarden_label_0526f213:
 
     # Joshi "Hey there!"
-    Joshi ""
+    Joshi "Hali!"
 
 # game/logic/tutorial.rpy:637
 translate hungarian CordGarden_label_b9a2f748:
 
     # Joshi "Elijah?"
-    Joshi ""
+    Joshi "Elijah?"
 
 # game/logic/tutorial.rpy:638
 translate hungarian CordGarden_label_d2b75454:
 
     # ch_Name "No, my name is [Name]. Why are you looking for Elijah?"
-    ch_Name ""
+    ch_Name "Nem, az én nevem [Name]. Miért keresed Elijaht?"
 
 # game/logic/tutorial.rpy:639
 translate hungarian CordGarden_label_6a8823d6:
 
     # Joshi "Nevermind. Some business."
-    Joshi ""
+    Joshi "Mindegy. Valami üzlet."
 
 # game/logic/tutorial.rpy:641
 translate hungarian CordGarden_label_73f50c33:
 
     # Joshi "Wanna smoke?"
-    Joshi ""
+    Joshi "Akarsz cigizni?"
 
 # game/logic/tutorial.rpy:642
 translate hungarian CordGarden_label_ab7c8a20:
 
     # ch_Name "I didn't know you could smoke in here."
-    ch_Name ""
+    ch_Name "Nem tudtam, hogy lehet itt cigizni."
 
 # game/logic/tutorial.rpy:643
 translate hungarian CordGarden_label_760df6d7:
 
     # Joshi "You can, as long as none of the teachers are watching."
-    Joshi ""
+    Joshi "Pedig de, amíg egy tanár sem néz oda."
 
 # game/logic/tutorial.rpy:647
 translate hungarian CordGarden_label_0a4f54a9:
 
     # ch_Name "{i}(Hmm. Why not? I'm done with my sports career anyway.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm. Miért ne? Úgyis befejeztem a sport karrieremet már.){/i}"
 
 # game/logic/tutorial.rpy:649
 translate hungarian CordGarden_label_6351b055:
 
     # ch_Name "I'll take it! Thanks."
-    ch_Name ""
+    ch_Name "Kérek egyet! Köszi."
 
 # game/logic/tutorial.rpy:650
 translate hungarian CordGarden_label_2c25e386:
 
     # Joshi "Let me give you a light."
-    Joshi ""
+    Joshi "Hadd adjak tüzet."
 
 # game/logic/tutorial.rpy:651
 translate hungarian CordGarden_label_2f97a81b:
 
     # Joshi "No problem. I don't like smoking alone."
-    Joshi ""
+    Joshi "Nem gond. Nem szeretek egyedül cigizni."
 
 # game/logic/tutorial.rpy:652
 translate hungarian CordGarden_label_2f80a538:
 
     # ch_Name "{i}(Strange guy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Fura fickó.){/i}"
 
 # game/logic/tutorial.rpy:654
 translate hungarian CordGarden_label_a1d2923d:
 
     # Joshi "Listen, can I ask your opinion?"
-    Joshi ""
+    Joshi "Nézd, megkérdezhetem a véleményedet."
 
 # game/logic/tutorial.rpy:655
 translate hungarian CordGarden_label_6e34bba6:
 
     # ch_Name "Go ahead."
-    ch_Name ""
+    ch_Name "Rajta."
 
 # game/logic/tutorial.rpy:656
 translate hungarian CordGarden_label_7ad82520:
 
     # Joshi "Don't you think this place could use an upgrade?"
-    Joshi ""
+    Joshi "Nem gondolod, hogy elférne ezen a helyen egy kis felújítás."
 
 # game/logic/tutorial.rpy:657
 translate hungarian CordGarden_label_79f00acd:
 
     # ch_Name "Depends on what you're talking about."
-    ch_Name ""
+    ch_Name "Attól függ mire gondolsz."
 
 # game/logic/tutorial.rpy:658
 translate hungarian CordGarden_label_9234c432:
 
     # Joshi "I mean, it's a hell of a place to find something."
-    Joshi ""
+    Joshi "Úgy értem, ez a hely maga a pokol, ha valamit meg akarsz találni."
 
 # game/logic/tutorial.rpy:660
 translate hungarian CordGarden_label_42f18015:
 
     # Joshi "Not a sign, not a map, like the supermarkets."
-    Joshi ""
+    Joshi "Se egy tábla, se egy térkép, mint a bevásárlóközpontok."
 
 # game/logic/tutorial.rpy:661
 translate hungarian CordGarden_label_94f22a93:
 
     # Joshi "I've been going the wrong way all morning looking for the right offices."
-    Joshi ""
+    Joshi "Végig rossz irányba mentem reggel amikor a jó irodákat kerestem."
 
 # game/logic/tutorial.rpy:662
 translate hungarian CordGarden_label_ff262520:
 
     # ch_Name "Yeah, there's that."
-    ch_Name ""
+    ch_Name "Igen, ez van."
 
 # game/logic/tutorial.rpy:664
 translate hungarian CordGarden_label_8bddcee8:
 
     # Joshi "Luckily, I haven't racked my brain yet."
-    Joshi ""
+    Joshi "Szerencsére, még sem sült ki az agyam."
 
 # game/logic/tutorial.rpy:665
 translate hungarian CordGarden_label_849dfb8b:
 
     # Joshi "And I've already studied and memorized everything."
-    Joshi ""
+    Joshi "És megtanultam és megjegyeztem mindent."
 
 # game/logic/tutorial.rpy:666
 translate hungarian CordGarden_label_a63f3e45:
 
     # ch_Name "You have? That fast?"
-    ch_Name ""
+    ch_Name "Tényleg? Ilyen gyorsan?"
 
 # game/logic/tutorial.rpy:668
 translate hungarian CordGarden_label_f7bff53b:
 
     # Joshi "Of course it is. You don't believe me?"
-    Joshi ""
+    Joshi "Komolyan. Nem hiszel nekem?"
 
 # game/logic/tutorial.rpy:669
 translate hungarian CordGarden_label_7623e196:
 
     # ch_Name "No, why not, I do..."
-    ch_Name ""
+    ch_Name "Nem, miért ne, de..."
 
 # game/logic/tutorial.rpy:670
 translate hungarian CordGarden_label_b9a64fc1:
 
     # Joshi "It's easy if you just remember the right places."
-    Joshi ""
+    Joshi "Könnyű, ha csak te emlékszel a jó helyekre."
 
 # game/logic/tutorial.rpy:671
 translate hungarian CordGarden_label_8db70d96:
 
     # Joshi "The room where the morning meeting was held on the track behind me."
-    Joshi ""
+    Joshi "A szoba ahol a reggeli találkozót tartották, a mögöttem lévő pályán van."
 
 # game/logic/tutorial.rpy:672
 translate hungarian CordGarden_label_50073e08:
 
     # Joshi "At the end of the courtyard."
-    Joshi ""
+    Joshi "Az udvar végében."
 
 # game/logic/tutorial.rpy:674
 translate hungarian CordGarden_label_028c7c85:
