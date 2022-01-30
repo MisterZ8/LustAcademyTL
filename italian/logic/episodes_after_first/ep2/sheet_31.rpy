@@ -292,7 +292,7 @@ translate italian sheet_31_fbf96dea:
 translate italian sheet_31_8fa21deb:
 
     # ch_Name "{i}(The strangest day in my life. It still does not fit in my head...){/i}"
-    ch_Name "{i}(Il giorno più strano delal mia vita. Ancora non mi sta tutto nella testa...){/i}"
+    ch_Name "{i}(Il giorno più strano della mia vita. Ancora non mi sta tutto nella testa...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:65
 translate italian sheet_31_7aa5afb5:
