@@ -4,33 +4,33 @@ translate spanish_LatAm strings:
 
     # game/logic/message.rpy:3
     old "New profile: {0}"
-    new ""
+    new "Nuevo perfil: {0}"
 
     # game/logic/message.rpy:3
     old "New notice: {0}"
-    new ""
+    new "Nueva noticia: {0}"
 
     # game/logic/message.rpy:3
     old "New contact in Lustagram"
-    new ""
+    new "Nuevo contacto en Lustagram"
 
     # game/logic/message.rpy:3
     old "New post in Lustagram"
-    new ""
+    new "Nueva publicación en Lustagram"
 
     # game/logic/message.rpy:3
     old "You receive {0}"
-    new ""
+    new "Recibiste {0}"
 
     # game/logic/message.rpy:3
     old "{0} points {1}"
-    new ""
+    new "{0} puntos {1}"
 
     # game/logic/message.rpy:3
     old "New recipe {0}"
-    new ""
+    new "Nueva receta {0}"
 
     # game/logic/message.rpy:3
     old "New spell: {0}"
-    new ""
+    new "Nuevo hechizo {0}"
 
