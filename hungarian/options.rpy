@@ -4,5 +4,5 @@ translate hungarian strings:
 
     # game/options.rpy:22
     old "LustAcademy"
-    new ""
+    new "LustAcademy"
 
