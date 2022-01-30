@@ -1318,109 +1318,109 @@ translate deutsch Audrey_7_label_f719122b:
 translate deutsch Audrey_7_label_63d953d2_1:
 
     # ch_Name "{i}(I don't buy that studying bullshit.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich glaube nicht an diesen Lernschwachsinn.){/i}"
 
 # game/logic/events/audrey.rpy:496
 translate deutsch Audrey_7_label_9044cedb_1:
 
     # ch_Name "{i}(They looked too happy for the people who were going to study.).{/i}"
-    ch_Name ""
+    ch_Name "{i}(Sie sahen zu glücklich aus für die Leute, die studieren wollten.).{/i}"
 
 # game/logic/events/audrey.rpy:497
 translate deutsch Audrey_7_label_9a4e4479:
 
     # ch_Name "{i}(I can't stop guessing what they are planning to do there.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich kann nicht aufhören zu spekulieren, was sie da vorhaben.){/i}"
 
 # game/logic/events/audrey.rpy:499
 translate deutsch Audrey_7_label_c3756b24:
 
     # ch_Name "{i}(Paint each other's nails and braid their hair?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sich gegenseitig die Nägel lackieren und die Haare flechten?){/i}"
 
 # game/logic/events/audrey.rpy:500
 translate deutsch Audrey_7_label_6f230b8d:
 
     # ch_Name "{i}(Oh, that's a woman thing.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, das ist eine Frauensache.){/i}"
 
 # game/logic/events/audrey.rpy:501
 translate deutsch Audrey_7_label_cf6eccec:
 
     # ch_Name "{i}(I bet Samantha wants her nails painted or something like that.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich wette, Samantha will sich die Nägel lackieren lassen oder so etwas.){/i}"
 
 # game/logic/events/audrey.rpy:503
 translate deutsch Audrey_7_label_e2882273:
 
     # ch_Name "{i}(Usual woman stuff.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Der übliche Frauenkram.){/i}"
 
 # game/logic/events/audrey.rpy:504
 translate deutsch Audrey_7_label_a0baae2e_1:
 
     # ch_Name "{i}(What else could they be doing?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Was sollten sie sonst tun?){/i}"
 
 # game/logic/events/audrey.rpy:505
 translate deutsch Audrey_7_label_3b0a726a:
 
     # ch_Name "{i}(Maybe they're discussing me?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vielleicht reden sie über mich?){/i}"
 
 # game/logic/events/audrey.rpy:507
 translate deutsch Audrey_7_label_c072ac95:
 
     # ch_Name "{i}(Nah... Why would they?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nee... Warum sollten sie?){/i}"
 
 # game/logic/events/audrey.rpy:508
 translate deutsch Audrey_7_label_6d4db1f5:
 
     # ch_Name "{i}(Shit. Why can't I stop thinking about them?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Scheiße. Warum kann ich nicht aufhören, an sie zu denken?){/i}"
 
 # game/logic/events/audrey.rpy:509
 translate deutsch Audrey_7_label_c4eafbdd:
 
     # ch_Name "{i}(After all, I'm sure they are doing something boring.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich bin mir sicher, dass sie etwas Langweiliges machen.){/i}"
 
 # game/logic/events/audrey.rpy:510
 translate deutsch Audrey_7_label_92b1fbab:
 
     # ch_Name "{i}(As always.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wie immer.){/i}"
 
 # game/logic/events/audrey.rpy:512
 translate deutsch Audrey_7_label_61147aec:
 
     # ch_Name "{i}(It's not like they have some intense girl-on-girl action.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Es ist ja nicht so, dass sie eine intensive Girl-on-girl-Action haben.){/i}"
 
 # game/logic/events/audrey.rpy:513
 translate deutsch Audrey_7_label_f5a03844:
 
     # ch_Name "{i}(No, I'm sure it's about me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nein, ich bin sicher, es geht um mich.){/i}"
 
 # game/logic/events/audrey.rpy:515
 translate deutsch Audrey_7_label_f28b92e9:
 
     # ch_Name "{i}(Why else would they leave so soon?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Warum sollten sie sonst so schnell gehen?){/i}"
 
 # game/logic/events/audrey.rpy:516
 translate deutsch Audrey_7_label_13d88501:
 
     # ch_Name "{i}(Do people hate me?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hassen mich die Leute?){/i}"
 
 # game/logic/events/audrey.rpy:518
 translate deutsch Audrey_7_label_9fc25cb4:
 
     # ch_Name "{i}(No, why would they?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nein, warum sollten sie?){/i}"
 
 # game/logic/events/audrey.rpy:519
 translate deutsch Audrey_7_label_edb5e18c_1:
@@ -1432,247 +1432,247 @@ translate deutsch Audrey_7_label_edb5e18c_1:
 translate deutsch Audrey_7_label_821f8ac5_1:
 
     # ch_Name "{i}(Maybe they are...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich bin sicher, dass es etwas anderes ist.){/i}"
 
 # game/logic/events/audrey.rpy:523
 translate deutsch Audrey_7_label_ac774e31:
 
     # ch_Name "{i}(Trying our new underwear?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Neue Unterwäsche anprobieren?){/i}"
 
 # game/logic/events/audrey.rpy:524
 translate deutsch Audrey_7_label_765197d7:
 
     # ch_Name "{i}(No, it can't be...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nein, das kann nicht sein...){/i}"
 
 # game/logic/events/audrey.rpy:526
 translate deutsch Audrey_7_label_6a0e1902_1:
 
     # ch_Name "{i}(It's too good to be true.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Es ist zu schön, um wahr zu sein.){/i}"
 
 # game/logic/events/audrey.rpy:527
 translate deutsch Audrey_7_label_3097a8e3_1:
 
     # ch_Name "{i}(I wish I could sneak a peek){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich wünschte, ich könnte einen Blick darauf werfen){/i}"
 
 # game/logic/events/audrey.rpy:528
 translate deutsch Audrey_7_label_ab35d0a7_1:
 
     # Samantha "Oh shit, my phone..."
-    Samantha ""
+    Samantha "Oh Scheiße, mein Telefon..."
 
 # game/logic/events/audrey.rpy:530
 translate deutsch Audrey_7_label_7441afac_1:
 
     # Samantha "Hello."
-    Samantha ""
+    Samantha "Hallo."
 
 # game/logic/events/audrey.rpy:532
 translate deutsch Audrey_7_label_d766ee39_1:
 
     # Samantha "Yes. Yes, of course."
-    Samantha ""
+    Samantha "Ja. Ja, natürlich."
 
 # game/logic/events/audrey.rpy:533
 translate deutsch Audrey_7_label_5d10547c_1:
 
     # Audrey "No, no, don't..."
-    Audrey ""
+    Audrey "Nein, nein, nicht..."
 
 # game/logic/events/audrey.rpy:535
 translate deutsch Audrey_7_label_c56b1904_1:
 
     # Samantha "Shh!"
-    Samantha ""
+    Samantha "Pst!"
 
 # game/logic/events/audrey.rpy:536
 translate deutsch Audrey_7_label_7c480eba_1:
 
     # Samantha "No, not you, Mr. Director."
-    Samantha ""
+    Samantha "Nein, nicht Sie, Herr Direktor."
 
 # game/logic/events/audrey.rpy:537
 translate deutsch Audrey_7_label_84e2d57d_1:
 
     # Samantha "Of course, I'll come right over."
-    Samantha ""
+    Samantha "Natürlich, ich komme sofort vorbei."
 
 # game/logic/events/audrey.rpy:539
 translate deutsch Audrey_7_label_7b67f5a4_1:
 
     # Audrey "I'm starving, Sammy..."
-    Audrey ""
+    Audrey "Ich bin am Verhungern, Sammy..."
 
 # game/logic/events/audrey.rpy:540
 translate deutsch Audrey_7_label_1246fe53_1:
 
     # Audrey "You promised!"
-    Audrey ""
+    Audrey "Du hast es versprochen!"
 
 # game/logic/events/audrey.rpy:542
 translate deutsch Audrey_7_label_0c6e8c99_1:
 
     # Samantha "I know I did. I'm sorry."
-    Samantha ""
+    Samantha "Ich weiß. Es tut mir leid."
 
 # game/logic/events/audrey.rpy:543
 translate deutsch Audrey_7_label_ca3cce76_1:
 
     # Samantha "But the director's on the phone. It's urgent."
-    Samantha ""
+    Samantha "Aber der Direktor ist am Telefon. Es ist dringend."
 
 # game/logic/events/audrey.rpy:545
 translate deutsch Audrey_7_label_13d9984b_1:
 
     # Samantha "I'll try to come back soon."
-    Samantha ""
+    Samantha "Ich werde versuchen, bald wiederzukommen."
 
 # game/logic/events/audrey.rpy:547
 translate deutsch Audrey_7_label_af47541f_1:
 
     # Samantha "Behave yourself."
-    Samantha ""
+    Samantha "Benimm dich."
 
 # game/logic/events/audrey.rpy:548
 translate deutsch Audrey_7_label_d39c21ee_1:
 
     # Audrey "I'm not responsible for myself!"
-    Audrey ""
+    Audrey "Ich bin nicht für mich selbst verantwortlich!"
 
 # game/logic/events/audrey.rpy:558
 translate deutsch Audrey_7_label_7f7da872:
 
     # ch_Name "{i}(Hmm... Where did Sam run off to?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm... Wohin ist Sam abgehauen?){/i}"
 
 # game/logic/events/audrey.rpy:560
 translate deutsch Audrey_7_label_b3537539:
 
     # ch_Name "{i}(And why is she so excited?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Und warum ist sie so aufgeregt?){/i}"
 
 # game/logic/events/audrey.rpy:561
 translate deutsch Audrey_7_label_cdb45a3f:
 
     # ch_Name "{i}(Should I go ask Audrey?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Soll ich Audrey fragen gehen?){/i}"
 
 # game/logic/events/audrey.rpy:571
 translate deutsch Audrey_7_label_10a7ac86:
 
     # ch_Name "No way. I'm sure they're doing fine."
-    ch_Name ""
+    ch_Name "Auf keinen Fall. Ich bin sicher, es geht ihnen gut."
 
 # game/logic/events/audrey.rpy:572
 translate deutsch Audrey_7_label_e3b95695:
 
     # ch_Name "I'll find something more interesting to do."
-    ch_Name ""
+    ch_Name "Ich such mir mal was spannenderes zu tun."
 
 # game/logic/events/audrey.rpy:583
 translate deutsch Audrey_7_label_from_gallery_b7ba6309:
 
     # ch_Name "Knock, knock. Can I come in?"
-    ch_Name ""
+    ch_Name "Klopf, klopf. Darf ich reinkommen?"
 
 # game/logic/events/audrey.rpy:584
 translate deutsch Audrey_7_label_from_gallery_0247b421:
 
     # Audrey "Come in... Come in, of course!"
-    Audrey ""
+    Audrey "Komm rein... Herein mit dir, natürlich!"
 
 # game/logic/events/audrey.rpy:598
 translate deutsch Audrey_7_label_from_gallery_c41f1ae4:
 
     # ch_Name "{i}(Whoa, wow!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wow, wow!){/i}"
 
 # game/logic/events/audrey.rpy:599
 translate deutsch Audrey_7_label_from_gallery_bf7c464e:
 
     # ch_Name "{i}(Why is she in her underwear?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Warum ist sie in Unterwäsche?){/i}"
 
 # game/logic/events/audrey.rpy:600
 translate deutsch Audrey_7_label_from_gallery_b49f746b:
 
     # ch_Name "{i}(Did they really measure?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Haben sie wirklich gemessen?){/i}"
 
 # game/logic/events/audrey.rpy:601
 translate deutsch Audrey_7_label_from_gallery_b25d11c6:
 
     # ch_Name "{i}(I can't say I mind, but...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich kann nicht sagen, dass es mich stört, aber...){/i}"
 
 # game/logic/events/audrey.rpy:603
 translate deutsch Audrey_7_label_from_gallery_9de6f63b:
 
     # Audrey "Come closer, baby!"
-    Audrey ""
+    Audrey "Komm näher, Baby!"
 
 # game/logic/events/audrey.rpy:604
 translate deutsch Audrey_7_label_from_gallery_74ebce9c:
 
     # ch_Name "Sure."
-    ch_Name ""
+    ch_Name Ja, sicher.""
 
 # game/logic/events/audrey.rpy:614
 translate deutsch Audrey_7_label_from_gallery_c41f1ae4_1:
 
     # ch_Name "{i}(Whoa, wow!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Whoa, wow!){/i}"
 
 # game/logic/events/audrey.rpy:615
 translate deutsch Audrey_7_label_from_gallery_bf7c464e_1:
 
     # ch_Name "{i}(Why is she in her underwear?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Warum ist sie in Unterwäsche?){/i}"
 
 # game/logic/events/audrey.rpy:616
 translate deutsch Audrey_7_label_from_gallery_b49f746b_1:
 
     # ch_Name "{i}(Did they really measure?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Haben die wirklich gemessen?){/i}"
 
 # game/logic/events/audrey.rpy:617
 translate deutsch Audrey_7_label_from_gallery_b25d11c6_1:
 
     # ch_Name "{i}(I can't say I mind, but...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich kann nicht sagen, dass es mich stört, aber...){/i}"
 
 # game/logic/events/audrey.rpy:619
 translate deutsch Audrey_7_label_from_gallery_9de6f63b_1:
 
     # Audrey "Come closer, baby!"
-    Audrey ""
+    Audrey "Komm näher, Baby!"
 
 # game/logic/events/audrey.rpy:620
 translate deutsch Audrey_7_label_from_gallery_74ebce9c_1:
 
     # ch_Name "Sure."
-    ch_Name ""
+    ch_Name "Klar."
 
 # game/logic/events/audrey.rpy:623
 translate deutsch Audrey_7_label_from_gallery_43d8fe57:
 
     # Audrey "[Name], you know... You look so appetizing in this light."
-    Audrey ""
+    Audrey "[Name], weißt du... Du siehst in diesem Licht so appetitlich aus."
 
 # game/logic/events/audrey.rpy:624
 translate deutsch Audrey_7_label_from_gallery_e88eedb5:
 
     # ch_Name "Mmm, excuse me?"
-    ch_Name ""
+    ch_Name "Hm, wie bitte?"
 
 # game/logic/events/audrey.rpy:625
 translate deutsch Audrey_7_label_from_gallery_51001e03:
 
     # Audrey "I'd love to lick you..."
-    Audrey ""
+    Audrey "Ich würde dich gerne lecken..."
 
 # game/logic/events/audrey.rpy:627
 translate deutsch Audrey_7_label_from_gallery_bd58bb13:
@@ -1690,85 +1690,85 @@ translate deutsch Audrey_7_label_from_gallery_1ecbc7ce:
 translate deutsch Audrey_7_label_from_gallery_3c3c258c:
 
     # ch_Name "What are you..." with vpunch
-    ch_Name "" with vpunch
+    ch_Name "Was machst du..." with vpunch
 
 # game/logic/events/audrey.rpy:633
 translate deutsch Audrey_7_label_from_gallery_a39f4d65:
 
     # ch_Name "...doing to me?"
-    ch_Name ""
+    ch_Name "...mit mir?"
 
 # game/logic/events/audrey.rpy:635
 translate deutsch Audrey_7_label_from_gallery_7b8fcbff:
 
     # ch_Name "You're serious, aren't you?"
-    ch_Name ""
+    ch_Name "Du meinst das ernst, oder?"
 
 # game/logic/events/audrey.rpy:636
 translate deutsch Audrey_7_label_from_gallery_cfa34fb9:
 
     # Audrey "I couldn't be more serious..."
-    Audrey ""
+    Audrey "Ich könnte es nicht ernster meinen..."
 
 # game/logic/events/audrey.rpy:647
 translate deutsch Audrey_7_label_from_gallery_032fbc13:
 
     # ch_Name "Wait a minute. I'm against it."
-    ch_Name ""
+    ch_Name "Moment mal! Ich bin dagegen."
 
 # game/logic/events/audrey.rpy:649
 translate deutsch Audrey_7_label_from_gallery_aee22ee2:
 
     # Audrey "Why not?"
-    Audrey ""
+    Audrey "Warum nicht?"
 
 # game/logic/events/audrey.rpy:650
 translate deutsch Audrey_7_label_from_gallery_33c76c0a:
 
     # ch_Name "There's something wrong here, Audrey. You're not yourself."
-    ch_Name ""
+    ch_Name "Irgendetwas stimmt hier nicht, Audrey. Du bist nicht du selbst."
 
 # game/logic/events/audrey.rpy:651
 translate deutsch Audrey_7_label_from_gallery_d45f0b33:
 
     # ch_Name "I better go."
-    ch_Name ""
+    ch_Name "Ich gehe jetzt besser."
 
 # game/logic/events/audrey.rpy:653
 translate deutsch Audrey_7_label_from_gallery_0d0daf8f:
 
     # Audrey "Don't be boring, it's what we both want..."
-    Audrey ""
+    Audrey "Sei nicht langweilig, das ist es, was wir beide wollen..."
 
 # game/logic/events/audrey.rpy:654
 translate deutsch Audrey_7_label_from_gallery_4391942d:
 
     # ch_Name "Not tonight, baby."
-    ch_Name ""
+    ch_Name "Nicht heute Abend, Baby."
 
 # game/logic/events/audrey.rpy:655
 translate deutsch Audrey_7_label_from_gallery_09b20e26:
 
     # ch_Name "I'm out of here."
-    ch_Name ""
+    ch_Name "Ich bin weg."
 
 # game/logic/events/audrey.rpy:657
 translate deutsch Audrey_7_label_from_gallery_7ee6b027:
 
     # Audrey "What the fuck?"
-    Audrey ""
+    Audrey "Was soll der Scheiß?"
 
 # game/logic/events/audrey.rpy:658
 translate deutsch Audrey_7_label_from_gallery_e22a8be8:
 
     # Audrey "You think you can reject me? Alright!"
-    Audrey ""
+    Audrey "Du glaubst, du kannst mich abweisen? Na gut!"
 
 # game/logic/events/audrey.rpy:660
 translate deutsch Audrey_7_label_from_gallery_603b91ed:
 
     # Audrey "Get the fuck out of here, asshole!"
-    Audrey ""
+    Audrey "Verpiss dich, du Arschloch!"
 
 # game/logic/events/audrey.rpy:661
 translate deutsch Audrey_7_label_from_gallery_87f40699:
@@ -1780,19 +1780,19 @@ translate deutsch Audrey_7_label_from_gallery_87f40699:
 translate deutsch Audrey_7_label_from_gallery_1374fb68:
 
     # ch_Name "Prove it."
-    ch_Name ""
+    ch_Name "Beweise es."
 
 # game/logic/events/audrey.rpy:667
 translate deutsch Audrey_7_label_from_gallery_963994e5:
 
     # ch_Name "{i}(It's my turn.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich bin dran.){/i}"
 
 # game/logic/events/audrey.rpy:668
 translate deutsch Audrey_7_label_from_gallery_6dfbe7bb:
 
     # Audrey "Like this?"
-    Audrey ""
+    Audrey "So?"
 
 # game/logic/events/audrey.rpy:670
 translate deutsch Audrey_7_label_from_gallery_3dcc6986:
@@ -1804,61 +1804,61 @@ translate deutsch Audrey_7_label_from_gallery_3dcc6986:
 translate deutsch Audrey_7_label_from_gallery_899ea637:
 
     # ch_Name "{i}(Fucking hell.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Verdammte Scheiße.){/i}"
 
 # game/logic/events/audrey.rpy:673
 translate deutsch Audrey_7_label_from_gallery_c78c2dcb:
 
     # ch_Name "That tickles."
-    ch_Name ""
+    ch_Name "Das Kitzelt."
 
 # game/logic/events/audrey.rpy:674
 translate deutsch Audrey_7_label_from_gallery_0976a272:
 
     # ch_Name "{i}(I didn't know it could be so nice...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich wusste nicht, dass es so schön sein kann...){/i}"
 
 # game/logic/events/audrey.rpy:676
 translate deutsch Audrey_7_label_from_gallery_e2061aa5:
 
     # Audrey "Now, let's get down to business."
-    Audrey ""
+    Audrey "Kommen wir zur Sache."
 
 # game/logic/events/audrey.rpy:677
 translate deutsch Audrey_7_label_from_gallery_a0cf34b5:
 
     # ch_Name "{i}(Whoa, I don't think she's kidding...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wow, ich glaube nicht, dass sie Witze macht...){/i}"
 
 # game/logic/events/audrey.rpy:678
 translate deutsch Audrey_7_label_from_gallery_1c16f103:
 
     # ch_Name "I don't know what got into you, but I'm all yours, baby."
-    ch_Name ""
+    ch_Name "Ich weiß nicht, was in dich gefahren ist, aber ich gehöre ganz dir, Baby."
 
 # game/logic/events/audrey.rpy:679
 translate deutsch Audrey_7_label_from_gallery_b0bdab6c:
 
     # Audrey "That's better."
-    Audrey ""
+    Audrey "Das ist schon besser."
 
 # game/logic/events/audrey.rpy:681
 translate deutsch Audrey_7_label_from_gallery_4f954b68:
 
     # Audrey "I thought you didn't have the guts."
-    Audrey ""
+    Audrey "Ich dachte, du hättest nicht den Mut dazu."
 
 # game/logic/events/audrey.rpy:682
 translate deutsch Audrey_7_label_from_gallery_bc95a81e:
 
     # ch_Name "{i}(Audrey always seems so cocky.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Audrey wirkt immer so eingebildet.){/i}"
 
 # game/logic/events/audrey.rpy:683
 translate deutsch Audrey_7_label_from_gallery_0f80c33a:
 
     # ch_Name "{i}(But when she's on her knees like that, there's no trace of that image.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aber wenn sie so auf den Knien liegt, gibt es keine Spur von diesem Bild.){/i}"
 
 # game/logic/events/audrey.rpy:685
 translate deutsch Audrey_7_label_from_gallery_5cf94ee2:
@@ -1870,19 +1870,19 @@ translate deutsch Audrey_7_label_from_gallery_5cf94ee2:
 translate deutsch Audrey_7_label_from_gallery_cac0f87a:
 
     # Audrey "I have to admit - it's a great dick!"
-    Audrey ""
+    Audrey "Ich muss zugeben - das ist ein geiler Schwanz!"
 
 # game/logic/events/audrey.rpy:687
 translate deutsch Audrey_7_label_from_gallery_903e93cd:
 
     # Audrey "But it's not hard enough."
-    Audrey ""
+    Audrey "Aber es ist nicht schwer genug."
 
 # game/logic/events/audrey.rpy:689
 translate deutsch Audrey_7_label_from_gallery_18e19381:
 
     # Audrey "I'm going to fix that now!"
-    Audrey ""
+    Audrey "Ich werde das jetzt in Ordnung bringen!"
 
 # game/logic/events/audrey.rpy:690
 translate deutsch Audrey_7_label_from_gallery_eee686cf:
@@ -1894,31 +1894,31 @@ translate deutsch Audrey_7_label_from_gallery_eee686cf:
 translate deutsch Audrey_7_label_from_gallery_dbaf9137:
 
     # ch_Name "{i}(I can tell she knows how to handle a dick.){/i}"
-    ch_Name ""
+    ch_Name "{i}( Man sieht, dass sie weiß, wie man mit einem Schwanz umgeht.){/i}"
 
 # game/logic/events/audrey.rpy:693
 translate deutsch Audrey_7_label_from_gallery_b4e158e3:
 
     # ch_Name "{i}(I feel her languid breath on my head.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich spüre ihren trägen Atem auf meinem Kopf.){/i}"
 
 # game/logic/events/audrey.rpy:694
 translate deutsch Audrey_7_label_from_gallery_f374371f:
 
     # ch_Name "{i}(That feels good... But that's not what I was expecting.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Das fühlt sich gut an... Aber das ist nicht das, was ich erwartet habe.){/i}"
 
 # game/logic/events/audrey.rpy:695
 translate deutsch Audrey_7_label_from_gallery_e0a39dc6:
 
     # ch_Name "I can jerk myself off, Audrey."
-    ch_Name ""
+    ch_Name "Ich kann mir selbst einen runterholen, Audrey"
 
 # game/logic/events/audrey.rpy:696
 translate deutsch Audrey_7_label_from_gallery_d05b7c47:
 
     # Audrey "Oh-ho-ho, you're finally breaking out your confident voice?"
-    Audrey ""
+    Audrey "Oh-ho-ho, du lässt endlich deine selbstbewusste Stimme raus?"
 
 # game/logic/events/audrey.rpy:698
 translate deutsch Audrey_7_label_from_gallery_2d7540d3:
@@ -1930,55 +1930,55 @@ translate deutsch Audrey_7_label_from_gallery_2d7540d3:
 translate deutsch Audrey_7_label_from_gallery_75e611c3:
 
     # ch_Name "Mm-hmm. That's better."
-    ch_Name ""
+    ch_Name "Mmh. Das ist schon besser."
 
 # game/logic/events/audrey.rpy:701
 translate deutsch Audrey_7_label_from_gallery_1301d8bf:
 
     # ch_Name "{i}(I wish I could put my dick in her mouth more often so I wouldn't have to listen to the rudeness.){/i}"
-    ch_Name ""
+    ch_Name "{i}( ich wünschte, ich könnte meinen Schwanz öfter in ihr Maul stecken, dann müsste ich mir diese Frechheiten nicht anhören.){/i}"
 
 # game/logic/events/audrey.rpy:702
 translate deutsch Audrey_7_label_from_gallery_5236d6dd:
 
     # Audrey "What a thrill... I can't wait to suck it properly!"
-    Audrey ""
+    Audrey "Was für ein Nervenkitzel... Ich kann es kaum erwarten, ihn richtig zu lutschen!"
 
 # game/logic/events/audrey.rpy:704
 translate deutsch Audrey_7_label_from_gallery_0d8b4d45:
 
     # Audrey "Get ready for an unforgettable blowjob!"
-    Audrey ""
+    Audrey "Mach dich bereit für einen unvergesslichen Blowjob!"
 
 # game/logic/events/audrey.rpy:705
 translate deutsch Audrey_7_label_from_gallery_83d54c6c:
 
     # ch_Name "{i}(What's gotten into her? It's like she's off the chain!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Was ist in sie gefahren? Sie ist wie von Sinnen!){/i}"
 
 # game/logic/events/audrey.rpy:706
 translate deutsch Audrey_7_label_from_gallery_7c2e5023:
 
     # ch_Name "{i}(Am I really that irresistible?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bin ich wirklich so unwiderstehlich?){/i}"
 
 # game/logic/events/audrey.rpy:708
 translate deutsch Audrey_7_label_from_gallery_3822f736:
 
     # ch_Name "Enough talking! You could not wait, so..."
-    ch_Name ""
+    ch_Name "Genug geredet! Du konntest nicht warten, also..."
 
 # game/logic/events/audrey.rpy:709
 translate deutsch Audrey_7_label_from_gallery_1cabfdb8:
 
     # ch_Name "Suck it properly."
-    ch_Name ""
+    ch_Name "Schön lutschen."
 
 # game/logic/events/audrey.rpy:711
 translate deutsch Audrey_7_label_from_gallery_27a97fa3:
 
     # ch_Name "Oh yes, like that."
-    ch_Name ""
+    ch_Name "Oh ja, genau so."
 
 # game/logic/events/audrey.rpy:712
 translate deutsch Audrey_7_label_from_gallery_eaa9ce6d:
@@ -1990,7 +1990,7 @@ translate deutsch Audrey_7_label_from_gallery_eaa9ce6d:
 translate deutsch Audrey_7_label_from_gallery_00a78830:
 
     # ch_Name "Let's see what you can do."
-    ch_Name ""
+    ch_Name "Mal sehen, was du kannst."
 
 # game/logic/events/audrey.rpy:715
 translate deutsch Audrey_7_label_from_gallery_c346927c:
@@ -2002,7 +2002,7 @@ translate deutsch Audrey_7_label_from_gallery_c346927c:
 translate deutsch Audrey_7_label_from_gallery_c1f6b42d:
 
     # ch_Name "That's what I like. Work with your tongue too."
-    ch_Name ""
+    ch_Name "Das ist es, was ich mag. Arbeite auch mit deiner Zunge."
 
 # game/logic/events/audrey.rpy:718
 translate deutsch Audrey_7_label_from_gallery_6e4ee974:
