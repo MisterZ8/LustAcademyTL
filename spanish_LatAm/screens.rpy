@@ -4,73 +4,73 @@
 translate spanish_LatAm not_now_label_44591089:
 
     # "[Name]" "{i}(There's nothing we can talk about right now.){/i}"
-    "[Name]" ""
+    "[Name]" "{i}(No hay nada de qué hablar ahorita.){/i}"
 
 translate spanish_LatAm strings:
 
     # game/screens.rpy:896
     old "New game"
-    new ""
+    new "Juego nuevo"
 
     # game/screens.rpy:914
     old "Xmas Special"
-    new ""
+    new "Especial de Navidad"
 
     # game/screens.rpy:934
     old "History"
-    new ""
+    new "Historia"
 
     # game/screens.rpy:951
     old "Save"
-    new ""
+    new "Guardar"
 
     # game/screens.rpy:969
     old "Settings"
-    new ""
+    new "Configuración"
 
     # game/screens.rpy:986
     old "Load"
-    new ""
+    new "Cargar"
 
     # game/screens.rpy:1006
     old "Main Menu"
-    new ""
+    new "Menú principal"
 
     # game/screens.rpy:1024
     old "Credits"
-    new ""
+    new "Créditos"
 
     # game/screens.rpy:1042
     old "Gallery"
-    new ""
+    new "Falería"
 
     # game/screens.rpy:1063
     old "Help"
-    new ""
+    new "Ayuda"
 
     # game/screens.rpy:1087
     old "Quit"
-    new ""
+    new "Salir"
 
     # game/screens.rpy:1150
     old "Details"
-    new ""
+    new "Detalles"
 
     # game/screens.rpy:1150
     old "Not now"
-    new ""
+    new "Ahora no"
 
     # game/screens.rpy:2007
     old "Page {}"
-    new ""
+    new "Página {}"
 
     # game/screens.rpy:2007
     old "Automatic saves"
-    new ""
+    new "Guardados automáticos"
 
     # game/screens.rpy:2007
     old "Quick saves"
-    new ""
+    new "Guardados automáticos"
 
     # game/screens.rpy:2096
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -78,11 +78,11 @@ translate spanish_LatAm strings:
 
     # game/screens.rpy:2096
     old "empty slot"
-    new ""
+    new "espacio vacío"
 
     # game/screens.rpy:2118
     old "Yes"
-    new ""
+    new "Sí"
 
     # game/screens.rpy:2118
     old "No"
@@ -90,87 +90,87 @@ translate spanish_LatAm strings:
 
     # game/screens.rpy:2178
     old "{#auto_page}A"
-    new ""
+    new "{#auto_page}GA"
 
     # game/screens.rpy:2181
     old "{#quick_page}Q"
-    new ""
+    new "{#quick_page}GR"
 
     # game/screens.rpy:2572
     old "MUTE ALL"
-    new ""
+    new "SILENCIAR TODO"
 
     # game/screens.rpy:2770
     old "The dialogue history is empty."
-    new ""
+    new "El historial de diálogos está vacío."
 
     # game/screens.rpy:2855
     old "Rolls forward to later dialogue."
-    new ""
+    new "Avanza al siguiente diálogo."
 
     # game/screens.rpy:2855
     old "Opens the inventory menu."
-    new ""
+    new "Abre el menú del inventario."
 
     # game/screens.rpy:2855
     old "Opens the phone menu."
-    new ""
+    new "Abre el menú del celular."
 
     # game/screens.rpy:2855
     old "Opens the list of available routes."
-    new ""
+    new "Abre la lista de rutas disponibles."
 
     # game/screens.rpy:2880
     old "Takes a screenshot."
-    new ""
+    new "Toma una captura de pantalla."
 
     # game/screens.rpy:2880
     old "Opens the map."
-    new ""
+    new "Abre el mapa."
 
     # game/screens.rpy:2880
     old "Advances dialogue without selecting choices."
-    new ""
+    new "Avanza el diálogo sin seleccionar decisiones."
 
     # game/screens.rpy:2880
     old "Skips dialogue while held down."
-    new ""
+    new "Omite diálogos mientras se mantiene pulsado."
 
     # game/screens.rpy:2880
     old "Toggles dialogue skipping."
-    new ""
+    new "Activa/Desactiva el saltado de diálogos."
 
     # game/screens.rpy:2880
     old "Rolls back to earlier dialogue."
-    new ""
+    new "Retrocede al diálogo anterior."
 
     # game/screens.rpy:2880
     old "Highlights all active objects."
-    new ""
+    new "Resalta todos los objetos activos."
 
     # game/screens.rpy:2880
     old "Enables fullscreen mode."
-    new ""
+    new "Activa el modo de pantalla completa."
 
     # game/screens.rpy:2880
     old "Navigate the interface."
-    new ""
+    new "Navega por la interfaz."
 
     # game/screens.rpy:2923
     old "Enter"
-    new ""
+    new "Entrar"
 
     # game/screens.rpy:2924
     old "Advances dialogue and activates the interface."
-    new ""
+    new "Avanza el diálogo y activa la interfaz"
 
     # game/screens.rpy:2927
     old "Space"
-    new ""
+    new "Espacio"
 
     # game/screens.rpy:2931
     old "Arrow Keys"
-    new ""
+    new "Teclas de dirección"
 
     # game/screens.rpy:2935
     old "Escape"
@@ -178,7 +178,7 @@ translate spanish_LatAm strings:
 
     # game/screens.rpy:2936
     old "Accesses the game menu."
-    new ""
+    new "Accede al menú del juego."
 
     # game/screens.rpy:2939
     old "Ctrl"
@@ -190,11 +190,11 @@ translate spanish_LatAm strings:
 
     # game/screens.rpy:2947
     old "Page Up"
-    new ""
+    new "Página de arriba"
 
     # game/screens.rpy:2951
     old "Page Down"
-    new ""
+    new "Página de abajo"
 
     # game/screens.rpy:2956
     old "I"
@@ -226,7 +226,7 @@ translate spanish_LatAm strings:
 
     # game/screens.rpy:2976
     old "Hides the user interface."
-    new ""
+    new "Oculta la interfaz de usuario."
 
     # game/screens.rpy:2978
     old "S"
@@ -258,19 +258,19 @@ translate spanish_LatAm strings:
 
     # game/screens.rpy:3040
     old "Calibrate"
-    new ""
+    new "Calibrar"
 
     # game/screens.rpy:3273
     old "Skipping"
-    new ""
+    new "Saltando"
 
     # game/screens.rpy:3497
     old "Back"
-    new ""
+    new "Atrás"
 
     # game/screens.rpy:3498
     old "Skip"
-    new ""
+    new "Saltar"
 
     # game/screens.rpy:3499
     old "Auto"
@@ -278,5 +278,5 @@ translate spanish_LatAm strings:
 
     # game/screens.rpy:3500
     old "Menu"
-    new ""
+    new "Menú"
 
