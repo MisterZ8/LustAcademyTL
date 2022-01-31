@@ -4,103 +4,103 @@
 translate brazilian giant_1_label_e6b11dbc:
 
     # ch_Name "{i}(Well, that was interesting.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bom, isso foi interessante.){/i}"
 
 # game/logic/events/giant.rpy:28
 translate brazilian giant_1_label_af0e151e:
 
     # ch_Name "{i}(But exhausting.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas cansatvo.){/i}"
 
 # game/logic/events/giant.rpy:29
 translate brazilian giant_1_label_524e5b0a:
 
     # ch_Name "{i}(I'd better go get some sleep.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Melhor eu ir dormir um pouco.){/i}"
 
 # game/logic/events/giant.rpy:33
 translate brazilian giant_1_label_90b439bd:
 
     # ch_Name "{i}(It's getting really late and the club alley is only getting more crowded.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Está ficando tarde e o beco do clube está ficando lotado.){/i}"
 
 # game/logic/events/giant.rpy:34
 translate brazilian giant_1_label_5f763497:
 
     # ch_Name "{i}(Do people here even sleep?){/i}"
-    ch_Name ""
+    ch_Name "{i}(As pessoas aqui não dormem?){/i}"
 
 # game/logic/events/giant.rpy:38
 translate brazilian giant_1_label_59c4b5fd:
 
     # ch_Name "{i}(Oh, main street, on the other hand, is almost empty.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Já a rua principal, por outro lado, está quase vazia.){/i}"
 
 # game/logic/events/giant.rpy:39
 translate brazilian giant_1_label_8a1fc90f:
 
     # ch_Name "{i}(But who is that strange creature?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas quem é aquela figura estranha?){/i}"
 
 # game/logic/events/giant.rpy:40
 translate brazilian giant_1_label_781d9f29:
 
     # ch_Name "{i}(I'm almost sure he's watching my every step.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tenho quase certeza que está vigiando todos os meus passos.){/i}"
 
 # game/logic/events/giant.rpy:43
 translate brazilian giant_1_label_96867ce2:
 
     # ch_Name "{i}(The creature looks at me strangely.){/i}"
-    ch_Name ""
+    ch_Name "{i}(A criatura me olha de forma estranha.){/i}"
 
 # game/logic/events/giant.rpy:44
 translate brazilian giant_1_label_2051de2b:
 
     # ch_Name "{i}(It's bugging me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Está me incomodando.){/i}"
 
 # game/logic/events/giant.rpy:45
 translate brazilian giant_1_label_f525fa43:
 
     # ch_Name "{i}(I need to find out what it wants.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Preciso descobrir o que ele quer.){/i}"
 
 # game/logic/events/giant.rpy:47
 translate brazilian giant_1_label_8676d769:
 
     # ch_Name "Hey..."
-    ch_Name ""
+    ch_Name "Ei..."
 
 # game/logic/events/giant.rpy:48
 translate brazilian giant_1_label_0931de10:
 
     # ch_Name "Hey... Man... You okay?"
-    ch_Name ""
+    ch_Name "Ei... Cara... Tudo bem?"
 
 # game/logic/events/giant.rpy:50
 translate brazilian giant_1_label_1932b048:
 
     # ch_Name "{i}(I don't like this. He seems to be reaching out to me...){/i}"
-    ch_Name ""
+    ch_Name "{i}Não estou gostando. Ele parece estar tentando me chamar...){/i}"
 
 # game/logic/events/giant.rpy:51
 translate brazilian giant_1_label_a63c50d4:
 
     # ch_Name "{i}(I'll probably regret this...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Acho que vou me arrepender disso...){/i}"
 
 # game/logic/events/giant.rpy:53
 translate brazilian giant_1_label_0c318f89:
 
     # ch_Name "{i}(What kind of creature is this... Terrifying sight...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que tipo de criatura é essa... Visão aterrorizante...){/i}"
 
 # game/logic/events/giant.rpy:54
 translate brazilian giant_1_label_bc556efa:
 
     # ch_Name "Hey. Is there anything I can do to help?"
-    ch_Name ""
+    ch_Name "Ei. Posso lhe ajudar com alguma coisa?"
 
 # game/logic/events/giant.rpy:56
 translate brazilian giant_1_label_3b592f2c:
@@ -112,139 +112,139 @@ translate brazilian giant_1_label_3b592f2c:
 translate brazilian giant_1_label_7a0e2657:
 
     # ch_Name "{i}(What the hell... Did it try to grab and eat me?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que diacho... Ele tentou me pegar e me comer?){/i}"
 
 # game/logic/events/giant.rpy:59
 translate brazilian giant_1_label_de6a29d5:
 
     # ch_Name "I warn you, I'm a wizard!"
-    ch_Name ""
+    ch_Name "Estou avisando. Sou um mago!"
 
 # game/logic/events/giant.rpy:60
 translate brazilian giant_1_label_c394a369:
 
     # Giant "Argh... N-no... Don't hurt me!"
-    Giant ""
+    Giant "Argh... N-não... Não me machuque!"
 
 # game/logic/events/giant.rpy:62
 translate brazilian giant_1_label_13615c40:
 
     # Giant "Don't hurt!.. me..."
-    Giant ""
+    Giant "Não machucar!... Eu..."
 
 # game/logic/events/giant.rpy:63
 translate brazilian giant_1_label_c11f8925:
 
     # Giant "LOOK WHAT THEY DID TO ME..."
-    Giant ""
+    Giant "OLHA O QUE ELES FIZERAM COMIGO..."
 
 # game/logic/events/giant.rpy:65
 translate brazilian giant_1_label_8eb6dc9d:
 
     # Giant "DO YOU SEE?!"
-    Giant ""
+    Giant "ESTÁ VENDO?!"
 
 # game/logic/events/giant.rpy:66
 translate brazilian giant_1_label_dc8b5566:
 
     # ch_Name "{i}(What the hell is going on... What is he doing?){/i}"
-    ch_Name ""
+    ch_Name "{i}(que raios está acontecendo... O que ele está fazendo?){/i}"
 
 # game/logic/events/giant.rpy:68
 translate brazilian giant_1_label_5f829599:
 
     # ch_Name "{i}(He looks like a lunatic...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ele parece um lunático...){/i}"
 
 # game/logic/events/giant.rpy:69
 translate brazilian giant_1_label_2255db69:
 
     # ch_Name "{i}(He also looks around to make sure we're alone...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ele também olha em volta para ter certeza de estarmos sozinhos...){/i}"
 
 # game/logic/events/giant.rpy:71
 translate brazilian giant_1_label_b4589463:
 
     # ch_Name "W... what do you want?!"
-    ch_Name ""
+    ch_Name "O... que você quer?!"
 
 # game/logic/events/giant.rpy:72
 translate brazilian giant_1_label_f34efcbc:
 
     # Giant "Argh... I'm confused."
-    Giant ""
+    Giant "Argh... Estou confuso."
 
 # game/logic/events/giant.rpy:73
 translate brazilian giant_1_label_7799b362:
 
     # Giant "Look..."
-    Giant ""
+    Giant "Veja..."
 
 # game/logic/events/giant.rpy:75
 translate brazilian giant_1_label_2fd601bc:
 
     # Giant "You're not one of them, are you?!"
-    Giant ""
+    Giant "Vocẽ não é um deles não, né?"
 
 # game/logic/events/giant.rpy:76
 translate brazilian giant_1_label_2e0430d5:
 
     # ch_Name "Who are you talking about?"
-    ch_Name ""
+    ch_Name "De quem você está falando?"
 
 # game/logic/events/giant.rpy:77
 translate brazilian giant_1_label_d5354e3e:
 
     # ch_Name "What happened?!"
-    ch_Name ""
+    ch_Name "O que aconteceu?"
 
 # game/logic/events/giant.rpy:78
 translate brazilian giant_1_label_71ccbe85:
 
     # Giant "Argh... I... will."
-    Giant ""
+    Giant "Argh... Eu... vou."
 
 # game/logic/events/giant.rpy:80
 translate brazilian giant_1_label_b80462a2:
 
     # Giant "But promise... help!"
-    Giant ""
+    Giant "Mas prometa... ajuda!"
 
 # game/logic/events/giant.rpy:88
 translate brazilian giant_1_label_41edf95c:
 
     # ch_Name "Sorry, I'm not going to help a creepy stranger."
-    ch_Name ""
+    ch_Name "Desculpe, não vou ajudar um estranho esquisito."
 
 # game/logic/events/giant.rpy:90
 translate brazilian giant_1_label_a9981ea3:
 
     # Giant "You're with them!"
-    Giant ""
+    Giant "Vocẽ está com eles!"
 
 # game/logic/events/giant.rpy:91
 translate brazilian giant_1_label_6bc07948:
 
     # Giant "You're one of them! YOU'RE ONE OF THEM!"
-    Giant ""
+    Giant "Vocẽ é um deles! VOCÊ É UM DELES!"
 
 # game/logic/events/giant.rpy:93
 translate brazilian giant_1_label_4871c555:
 
     # Giant "WHAT HAVE YOU DONE TO ME!"
-    Giant ""
+    Giant "O QUE VOCÊ FEZ COMIGO!"
 
 # game/logic/events/giant.rpy:94
 translate brazilian giant_1_label_008d75e2:
 
     # ch_Name "{i}(What the hell!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas que diabos!){/i}"
 
 # game/logic/events/giant.rpy:95
 translate brazilian giant_1_label_6ac6b442:
 
     # ch_Name "{i}(I think he's really pissed off.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Acho que ele está realmente zangado.){/i}"
 
 # game/logic/events/giant.rpy:97
 translate brazilian giant_1_label_bcb05f60:
@@ -256,13 +256,13 @@ translate brazilian giant_1_label_bcb05f60:
 translate brazilian giant_1_label_e40e7ea6:
 
     # ch_Name "That's it, I warned you!"
-    ch_Name ""
+    ch_Name "É isso, eu lhe avisei!"
 
 # game/logic/events/giant.rpy:100
 translate brazilian giant_1_label_33b7a34b:
 
     # ch_Name "Eat this!" with hpunch
-    ch_Name "" with hpunch
+    ch_Name "Toma isso!" with hpunch
 
 # game/logic/events/giant.rpy:101
 translate brazilian giant_1_label_b9cfb0db:
@@ -274,19 +274,19 @@ translate brazilian giant_1_label_b9cfb0db:
 translate brazilian giant_1_label_4add1191:
 
     # Giant "What have you done to me!!!"
-    Giant ""
+    Giant "O que você fez comigo!!!"
 
 # game/logic/events/giant.rpy:104
 translate brazilian giant_1_label_ef534a43:
 
     # Giant "Argh! YOU!"
-    Giant ""
+    Giant "Argh! VOCÊ!"
 
 # game/logic/events/giant.rpy:106
 translate brazilian giant_1_label_963fd335:
 
     # Giant "Leave me alone!"
-    Giant ""
+    Giant "Me deixe em paz!"
 
 # game/logic/events/giant.rpy:107
 translate brazilian giant_1_label_fd29a07b:
@@ -298,73 +298,73 @@ translate brazilian giant_1_label_fd29a07b:
 translate brazilian giant_1_label_22c8ad77:
 
     # ch_Name "{i}(He doesn't seem to be chasing me...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ele não parece estar me seguindo...){/i}"
 
 # game/logic/events/giant.rpy:110
 translate brazilian giant_1_label_a2bc7378:
 
     # ch_Name "{i}(But It's better not to wander the streets like this at night, by myself.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas é melhor não ficar de bobeira nas ruas de noite assim, sozinho.){/i}"
 
 # game/logic/events/giant.rpy:111
 translate brazilian giant_1_label_e3e69c43:
 
     # ch_Name "{i}(I was lucky he was stopped by my feeble combat shell.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tive sorte de parar ele com meu feitiço de combate fraquinho.){/i}"
 
 # game/logic/events/giant.rpy:113
 translate brazilian giant_1_label_0e9a9852:
 
     # ch_Name "{i}(Damn, that was even too close...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Caramba, essa foi por muito pouco...){/i}"
 
 # game/logic/events/giant.rpy:114
 translate brazilian giant_1_label_185a728d:
 
     # ch_Name "{i}(His paws would have easily broken my bones.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Suas patas poderiam ter quebrados meus ossos facilmente.){/i}"
 
 # game/logic/events/giant.rpy:115
 translate brazilian giant_1_label_d746b2a1:
 
     # ch_Name "{i}(I need to lie down...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Preciso me deitar...){/i}"
 
 # game/logic/events/giant.rpy:126
 translate brazilian giant_1_label_5205b150:
 
     # ch_Name "{i}(I hope I don't regret it...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Espero que não me arrependa...){/i}"
 
 # game/logic/events/giant.rpy:127
 translate brazilian giant_1_label_e09d8bf5:
 
     # ch_Name "All right, all right! I'll help."
-    ch_Name ""
+    ch_Name "Está certo, está certo! Eu ajudo."
 
 # game/logic/events/giant.rpy:129
 translate brazilian giant_1_label_c17b209e:
 
     # Giant "Y-you... Really?"
-    Giant ""
+    Giant "V-você... Sério?"
 
 # game/logic/events/giant.rpy:130
 translate brazilian giant_1_label_24bd4a7b:
 
     # Giant "Argh... You're a good man..."
-    Giant ""
+    Giant "Argh... Você é uma boa pessoa..."
 
 # game/logic/events/giant.rpy:132
 translate brazilian giant_1_label_f5f5ed9d:
 
     # Giant "Words are hard for me. Talking..."
-    Giant ""
+    Giant "Palavras são difíceis para mim. Falar..."
 
 # game/logic/events/giant.rpy:133
 translate brazilian giant_1_label_aab5c872:
 
     # Giant "I need {b}a potion{/b}... To {b}lift curses{/b}."
-    Giant ""
+    Giant "Eu preciso de {b}uma ṕoção{/b}... Para {b}retirar maldições{/b}."
 
 # game/logic/events/giant.rpy:134
 translate brazilian giant_1_label_ee22f82d:
