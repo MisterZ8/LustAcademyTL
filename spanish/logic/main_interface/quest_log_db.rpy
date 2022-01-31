@@ -512,31 +512,31 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Even after all the craziness I've seen at this spa, I can't believe I was able to talk the masseuse into jerking me off. Maybe this is just the beginning of our intimate massage sessions. I wonder what she'll agree to next time?"
-    new ""
-
+    new "Incluso después de todas las locuras que he visto en este spa, no me puedo creer que haya convencido a la masajista para que me masturbe. Quizás este sea solo el comienzo de nuestras sesiones íntimas de masaje. Me pregunto a que accederá la próxima vez."
+    
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've got a feeling that that forest wasn't the last time I've met her. But right now, I can only guess."
-    new ""
+    new "Tengo el presentimiento de que ese bosque no será el último lugar en el que quede con ella. Pero ahora mismo, son suposiciones."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "It seems that I have some special connection with the ancient spirit of Leonheart's founder, Leona Leonheart. She materialized in the real world to help me with my source of power."
-    new ""
+    new "Parece ser que tengo una conexión especial con el antiguo espíritu de la fundadora de Leonheart, Leona Leonheart. Ella se materializó en el mundo real para ayudarme con mi fuente de poder."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Katrina won't leave me alone. If I want to face her on my terms, I have to find a way to defeat her. I think I should contact Leona. Maybe a sorting book in the Main hall will do the trick?"
-    new ""
+    new "Katrina no me deja en paz. Si quiero enfrentarla bajo mis condiciones, tengo que buscar una forma de derrotarla. Creo que debería contactar con Leona. Tal vez el libro seleccionador del salón principal me sirva."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Leona took my memories of that nightmare with Katrina to find out what is happening to me. I guess I'll just have to wait."
-    new ""
+    new "Leona cogió mis recuerdos de la pesadilla que tuve con Katrina para averiguar que me está pasando. Supongo que solo me queda esperar."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "If it weren't for Leona, I'd be stuck in a nightmare forever. It turned out that, under the guise of Katrina, It was a soul-eating phantom who tortured me in my dreams. But who had set it on me?"
-    new ""
+    new "Si no fuera por Leona, estaría atrapado para siempre en la pesadilla. Resultó que, bajo la apariencia de Katrina, un espíritu debora almas era quien me estaba torturando en mis sueños. Pero ¿quien me lo ha puesto?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "It turned out that Jacob was behind the soul-stealing phantom attack. He was testing me to help him overpower Arthur. Jacob assures me that Arthur is the villain who killed my parents. To deal with him, I asked Leona to obtain for me an ancient artifact - the scroll of the Lion's Seal. Now all we have to do is wait."
-    new ""
+    new "Resulta que es Jacob quien estaba detras del ataque del espíritu debora almas. Me estaba probando para ayudarle a derrocar a Arthur.  "
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I think I'll meet Lily somewhere where she can earn Leonheart some points. Maybe at the class?"
