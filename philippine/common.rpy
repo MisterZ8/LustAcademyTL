@@ -4,15 +4,15 @@ translate philippine strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new ""
+    new "Pinatay ang Self-voicing"
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
-    new ""
+    new "Gumana ang Clipboard voicing."
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new ""
+    new "Gumana ang Self-voicing."
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
@@ -20,7 +20,7 @@ translate philippine strings:
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
-    new ""
+    new "pinili"
 
     # renpy/common/00accessibility.rpy:34
     old "viewport"
@@ -28,31 +28,31 @@ translate philippine strings:
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
-    new ""
+    new "gumalaw nang pahalang"
 
     # renpy/common/00accessibility.rpy:36
     old "vertical scroll"
-    new ""
+    new "gumalaw nang patayo"
 
     # renpy/common/00accessibility.rpy:37
     old "activate"
-    new ""
+    new "paganahin"
 
     # renpy/common/00accessibility.rpy:38
     old "deactivate"
-    new ""
+    new "patayin"
 
     # renpy/common/00accessibility.rpy:39
     old "increase"
-    new ""
+    new "magdagdag"
 
     # renpy/common/00accessibility.rpy:40
     old "decrease"
-    new ""
+    new "bawasan"
 
     # renpy/common/00accessibility.rpy:128
     old "Font Override"
-    new ""
+    new "Suwayin ang Font"
 
     # renpy/common/00accessibility.rpy:132
     old "Default"
@@ -104,123 +104,123 @@ translate philippine strings:
 
     # renpy/common/00accessibility.rpy:202
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new ""
+    new "Ang mga opsyon dito are para sa accessibility.     "
 
     # renpy/common/00accessibility.rpy:207
     old "Return"
-    new ""
+    new "Pabalik"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
-    new ""
+    new "{#weekday}Lunes"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Tuesday"
-    new ""
+    new "{#weekday}Martes"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new ""
+    new "{#weekday}Miyerkules"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Thursday"
-    new ""
+    new "{#weekday}Huwebes"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Friday"
-    new ""
+    new "{#weekday}Biyernes"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Saturday"
-    new ""
+    new "{#weekday}Sabado"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Sunday"
-    new ""
+    new "{#weekday}Linggo"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Mon"
-    new ""
+    new "{#weekday_short}Lu"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Tue"
-    new ""
+    new "{#weekday_short}Ma"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Wed"
-    new ""
+    new "{#weekday_short}Mi"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Thu"
-    new ""
+    new "{#weekday_short}Hu"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Fri"
-    new ""
+    new "{#weekday_short}Bi"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sat"
-    new ""
+    new "{#weekday_short}Sa"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new ""
+    new "{#weekday_short}Li"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}January"
-    new ""
+    new "{#month}Enero"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}February"
-    new ""
+    new "{#month}Pebrero"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}March"
-    new ""
+    new "{#month}Marso"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}April"
-    new ""
+    new "{#month}Abril"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}May"
-    new ""
+    new "{#month}Mayo"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}June"
-    new ""
+    new "{#month}Hunyo"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}July"
-    new ""
+    new "{#month}Hulyo"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}August"
-    new ""
+    new "{#month}Agosto"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}September"
-    new ""
+    new "{#month}Setyembre"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}October"
-    new ""
+    new "{#month}Oktubre"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}November"
-    new ""
+    new "{#month}Nobyembre"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}December"
-    new ""
+    new "{#month}Disyembre"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jan"
-    new ""
+    new "{#month_short}Ene"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Feb"
-    new ""
+    new "{#month_short}Peb"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Mar"
@@ -228,7 +228,7 @@ translate philippine strings:
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Apr"
-    new ""
+    new "{#month_short}Abr"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}May"
@@ -236,31 +236,31 @@ translate philippine strings:
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jun"
-    new ""
+    new "{#month_short}Hun"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jul"
-    new ""
+    new "{#month_short}Hul"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Aug"
-    new ""
+    new "{#month_short}Ago"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Sep"
-    new ""
+    new "{#month_short}Set"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Oct"
-    new ""
+    new "{#month_short}Okt"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Nov"
-    new ""
+    new "{#month_short}Nob"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Dec"
-    new ""
+    new "{#month_short}Dis"
 
     # renpy/common/00action_file.rpy:250
     old "%b %d, %H:%M"
@@ -268,15 +268,15 @@ translate philippine strings:
 
     # renpy/common/00action_file.rpy:363
     old "Save slot %s: [text]"
-    new ""
+    new "I-save ang slot %s: [text]"
 
     # renpy/common/00action_file.rpy:444
     old "Load slot %s: [text]"
-    new ""
+    new "I-load ang slot %s: [text]"
 
     # renpy/common/00action_file.rpy:497
     old "Delete slot [text]"
-    new ""
+    new "Ipanas ang slot [text]"
 
     # renpy/common/00action_file.rpy:576
     old "File page auto"
@@ -292,15 +292,15 @@ translate philippine strings:
 
     # renpy/common/00action_file.rpy:779
     old "Next file page."
-    new ""
+    new "Ang susunod na file page."
 
     # renpy/common/00action_file.rpy:851
     old "Previous file page."
-    new ""
+    new "Ang dating file page"
 
     # renpy/common/00action_file.rpy:912
     old "Quick save complete."
-    new ""
+    new "Natapos ang quick save."
 
     # renpy/common/00action_file.rpy:930
     old "Quick save."
@@ -312,11 +312,11 @@ translate philippine strings:
 
     # renpy/common/00action_other.rpy:375
     old "Language [text]"
-    new ""
+    new "Language [text]"
 
     # renpy/common/00director.rpy:708
     old "The interactive director is not enabled here."
-    new ""
+    new "Hindi pwedeng gamitin ang interactive director dito."
 
     # renpy/common/00director.rpy:1481
     old "⬆"
@@ -328,27 +328,27 @@ translate philippine strings:
 
     # renpy/common/00director.rpy:1551
     old "Done"
-    new ""
+    new "Natapos"
 
     # renpy/common/00director.rpy:1561
     old "(statement)"
-    new ""
+    new "(sinabi)"
 
     # renpy/common/00director.rpy:1562
     old "(tag)"
-    new ""
+    new "(tanda)"
 
     # renpy/common/00director.rpy:1563
     old "(attributes)"
-    new ""
+    new "(katangian)"
 
     # renpy/common/00director.rpy:1564
     old "(transform)"
-    new ""
+    new "(ibahin ang anyo)"
 
     # renpy/common/00director.rpy:1589
     old "(transition)"
-    new ""
+    new "(paglipat)"
 
     # renpy/common/00director.rpy:1601
     old "(channel)"
@@ -360,35 +360,35 @@ translate philippine strings:
 
     # renpy/common/00director.rpy:1631
     old "Change"
-    new ""
+    new "Baguhin"
 
     # renpy/common/00director.rpy:1633
     old "Add"
-    new ""
+    new "Pagdagdag"
 
     # renpy/common/00director.rpy:1636
     old "Cancel"
-    new ""
+    new "Bawiin"
 
     # renpy/common/00director.rpy:1639
     old "Remove"
-    new ""
+    new "Tangalin"
 
     # renpy/common/00director.rpy:1674
     old "Statement:"
-    new ""
+    new "Sinabi:"
 
     # renpy/common/00director.rpy:1695
     old "Tag:"
-    new ""
+    new "Tanda:"
 
     # renpy/common/00director.rpy:1711
     old "Attributes:"
-    new ""
+    new "Katangian:"
 
     # renpy/common/00director.rpy:1729
     old "Transforms:"
-    new ""
+    new "Pag-iba ng anyo:"
 
     # renpy/common/00director.rpy:1748
     old "Behind:"
@@ -396,7 +396,7 @@ translate philippine strings:
 
     # renpy/common/00director.rpy:1767
     old "Transition:"
-    new ""
+    new "Paglipat:"
 
     # renpy/common/00director.rpy:1785
     old "Channel:"
@@ -408,51 +408,51 @@ translate philippine strings:
 
     # renpy/common/00gui.rpy:384
     old "Are you sure?"
-    new ""
+    new "Sigurado ka ba?"
 
     # renpy/common/00gui.rpy:385
     old "Are you sure you want to delete this save?"
-    new ""
+    new "Sigurado ka ba na tanggalin ang save na ito?"
 
     # renpy/common/00gui.rpy:386
     old "Are you sure you want to overwrite your save?"
-    new ""
+    new "Sigurado ka ba na baguhin ang save na ito?"
 
     # renpy/common/00gui.rpy:387
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new ""
+    new "Mawawala ang lagay ng laro mo. \nSigurado na mag-load ka?"
 
     # renpy/common/00gui.rpy:388
     old "Are you sure you want to quit?"
-    new ""
+    new "Sigurado ka ba na aalis ka?"
 
     # renpy/common/00gui.rpy:389
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new ""
+    new "Sigurado ka ba na babalik ka sa main menu?\nMawawala ang lagay ng laro mo."
 
     # renpy/common/00gui.rpy:390
     old "Are you sure you want to end the replay?"
-    new ""
+    new "Sigurado ka ba na tapusin mo ang replay?"
 
     # renpy/common/00gui.rpy:391
     old "Are you sure you want to begin skipping?"
-    new ""
+    new "Sigurado ka ba na maglalaktaw ka?"
 
     # renpy/common/00gui.rpy:392
     old "Are you sure you want to skip to the next choice?"
-    new ""
+    new "Sigurado ka ba na lalaktaw ka sa susunod na pagpili?"
 
     # renpy/common/00gui.rpy:393
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new ""
+    new "Sigurado ka ba na gusto mong maglaktaw ng diyalogo para makaabot sa susunod na pagpili?"
 
     # renpy/common/00keymap.rpy:306
     old "Failed to save screenshot as %s."
-    new ""
+    new "Hindi na-save ang screenshot bilang %s."
 
     # renpy/common/00keymap.rpy:318
     old "Saved screenshot as %s."
-    new ""
+    new "Na-save ang screenshot bilang %s."
 
     # renpy/common/00library.rpy:195
     old "Skip Mode"
@@ -460,7 +460,7 @@ translate philippine strings:
 
     # renpy/common/00library.rpy:281
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new ""
+    new "Ang programang ito ay may mga libreng software na may mga lisensya, gaya ng MIT License at GNU Lesser General Public License. Mayroong kumpletong listahan nito, kabilang ang mga link sa buong source code {a=https://www.renpy.org/l/license}dito{/a}."
 
     # renpy/common/00preferences.rpy:247
     old "display"
@@ -468,11 +468,11 @@ translate philippine strings:
 
     # renpy/common/00preferences.rpy:259
     old "transitions"
-    new ""
+    new "paglipat"
 
     # renpy/common/00preferences.rpy:268
     old "skip transitions"
-    new ""
+    new "laktawan ang mga paglipat"
 
     # renpy/common/00preferences.rpy:270
     old "video sprites"
@@ -480,11 +480,11 @@ translate philippine strings:
 
     # renpy/common/00preferences.rpy:279
     old "show empty window"
-    new ""
+    new "magpakita ng window na walang laman"
 
     # renpy/common/00preferences.rpy:288
     old "text speed"
-    new ""
+    new "bilis ng teksto"
 
     # renpy/common/00preferences.rpy:296
     old "joystick"
@@ -520,7 +520,7 @@ translate philippine strings:
 
     # renpy/common/00preferences.rpy:326
     old "auto-forward time"
-    new ""
+    new "auto-forward ng oras"
 
     # renpy/common/00preferences.rpy:340
     old "auto-forward"
@@ -648,15 +648,15 @@ translate philippine strings:
 
     # renpy/common/_compat/gamemenu.rpym:198
     old "Empty Slot."
-    new ""
+    new "Walang laman"
 
     # renpy/common/_compat/gamemenu.rpym:355
     old "Previous"
-    new ""
+    new "Nakaraan"
 
     # renpy/common/_compat/gamemenu.rpym:362
     old "Next"
-    new ""
+    new "Susunod"
 
     # renpy/common/_compat/preferences.rpym:428
     old "Joystick Mapping"
@@ -712,19 +712,19 @@ translate philippine strings:
 
     # renpy/common/_developer/developer.rpym:143
     old "Nothing to inspect."
-    new ""
+    new "Walang suriin dito."
 
     # renpy/common/_developer/developer.rpym:154
     old "Hide deleted"
-    new ""
+    new "Itago ang napanas."
 
     # renpy/common/_developer/developer.rpym:154
     old "Show deleted"
-    new ""
+    new "Ipakita ang napanas"
 
     # renpy/common/_developer/developer.rpym:278
     old "Return to the developer menu"
-    new ""
+    new "Bumalik sa developer menu"
 
     # renpy/common/_developer/developer.rpym:443
     old "Rectangle: %r"
@@ -736,15 +736,15 @@ translate philippine strings:
 
     # renpy/common/_developer/developer.rpym:453
     old "Right-click or escape to quit."
-    new ""
+    new "Right-click or escape para maka-alis"
 
     # renpy/common/_developer/developer.rpym:485
     old "Rectangle copied to clipboard."
-    new ""
+    new "Kinopya ang parihaba sa clipboard"
 
     # renpy/common/_developer/developer.rpym:488
     old "Position copied to clipboard."
-    new ""
+    new "Kinopya ang posisyon sa clipboard"
 
     # renpy/common/_developer/developer.rpym:506
     old "Type to filter: "
@@ -776,7 +776,7 @@ translate philippine strings:
 
     # renpy/common/_developer/inspector.rpym:61
     old "Size"
-    new ""
+    new "Kalakihan"
 
     # renpy/common/_developer/inspector.rpym:65
     old "Style"
@@ -784,7 +784,7 @@ translate philippine strings:
 
     # renpy/common/_developer/inspector.rpym:71
     old "Location"
-    new ""
+    new "Lugar"
 
     # renpy/common/_developer/inspector.rpym:122
     old "Inspecting Styles of [displayable_name!q]"
@@ -792,7 +792,7 @@ translate philippine strings:
 
     # renpy/common/_developer/inspector.rpym:139
     old "displayable:"
-    new ""
+    new "mapapakita:"
 
     # renpy/common/_developer/inspector.rpym:145
     old "        (no properties affect the displayable)"
@@ -820,39 +820,39 @@ translate philippine strings:
 
     # renpy/common/00updater.rpy:374
     old "The Ren'Py Updater is not supported on mobile devices."
-    new ""
+    new "Hindi sinusuportahan ang Ren'Py Updater sa mobile devices."
 
     # renpy/common/00updater.rpy:496
     old "An error is being simulated."
-    new ""
+    new "Ginagaya ang isang pagkamali."
 
     # renpy/common/00updater.rpy:680
     old "Either this project does not support updating, or the update status file was deleted."
-    new ""
+    new "Hindi sinusuportahan ang pag-update sa proyektong ito, o napanas ang update status file."
 
     # renpy/common/00updater.rpy:694
     old "This account does not have permission to perform an update."
-    new ""
+    new "Walang permiso ang account na ito para maggawa ng update."
 
     # renpy/common/00updater.rpy:697
     old "This account does not have permission to write the update log."
-    new ""
+    new "Walang permiso ang account na ito para magsulat sa update log."
 
     # renpy/common/00updater.rpy:724
     old "Could not verify update signature."
-    new ""
+    new "Hindi mapatunayan ang update signature."
 
     # renpy/common/00updater.rpy:995
     old "The update file was not downloaded."
-    new ""
+    new "Hindi nadownload ang update file."
 
     # renpy/common/00updater.rpy:1013
     old "The update file does not have the correct digest - it may have been corrupted."
-    new ""
+    new "Hindi tama ang digest ng update file - maaaring ito ay nasira."
 
     # renpy/common/00updater.rpy:1067
     old "While unpacking {}, unknown type {}."
-    new ""
+    new "Habang binubuksan ang {}, nagkaroon ng {}"
 
     # renpy/common/00updater.rpy:1433
     old "Updater"
@@ -860,51 +860,51 @@ translate philippine strings:
 
     # renpy/common/00updater.rpy:1440
     old "An error has occured:"
-    new ""
+    new "May nangyaring pagakamali"
 
     # renpy/common/00updater.rpy:1442
     old "Checking for updates."
-    new ""
+    new "Humahanap ng update."
 
     # renpy/common/00updater.rpy:1444
     old "This program is up to date."
-    new ""
+    new "Up to date ang programang ito."
 
     # renpy/common/00updater.rpy:1446
     old "[u.version] is available. Do you want to install it?"
-    new ""
+    new "Makukuha na ang [u.version]. Gusto mo bang gamitin ito?"
 
     # renpy/common/00updater.rpy:1448
     old "Preparing to download the updates."
-    new ""
+    new "Naghahanda ng download."
 
     # renpy/common/00updater.rpy:1450
     old "Downloading the updates."
-    new ""
+    new "Dinadownload ang mga update."
 
     # renpy/common/00updater.rpy:1452
     old "Unpacking the updates."
-    new ""
+    new "Binubuksan ang update."
 
     # renpy/common/00updater.rpy:1454
     old "Finishing up."
-    new ""
+    new "Tinatapos na."
 
     # renpy/common/00updater.rpy:1456
     old "The updates have been installed. The program will restart."
-    new ""
+    new "Na-install na ang update. Magbubukas ulit ang proramang ito."
 
     # renpy/common/00updater.rpy:1458
     old "The updates have been installed."
-    new ""
+    new "Na-install na ang update."
 
     # renpy/common/00updater.rpy:1460
     old "The updates were cancelled."
-    new ""
+    new "Binawi na ang update."
 
     # renpy/common/00updater.rpy:1475
     old "Proceed"
-    new ""
+    new "Magpatuloy"
 
     # renpy/common/00compat.rpy:320
     old "Fullscreen"
@@ -912,15 +912,15 @@ translate philippine strings:
 
     # renpy/common/00gallery.rpy:590
     old "Image [index] of [count] locked."
-    new ""
+    new "Naka-lock ang Image [index] ng [count]."
 
     # renpy/common/00gallery.rpy:610
     old "prev"
-    new ""
+    new "nakaraan"
 
     # renpy/common/00gallery.rpy:611
     old "next"
-    new ""
+    new "susunod"
 
     # renpy/common/00gallery.rpy:612
     old "slideshow"
@@ -928,7 +928,7 @@ translate philippine strings:
 
     # renpy/common/00gallery.rpy:613
     old "return"
-    new ""
+    new "bumalik"
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
