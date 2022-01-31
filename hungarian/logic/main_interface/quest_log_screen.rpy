@@ -60,7 +60,7 @@ translate hungarian strings:
 
     # game/logic/main_interface/quest_log_screen.rpy:598
     old "CHANGE"
-    new "VÁLTOZAT"
+    new "VÁLTOZTAT"
 
     # game/logic/main_interface/quest_log_screen.rpy:683
     old "'s story for this version of the game has come to an end."
