@@ -4,113 +4,113 @@
 translate hungarian MagicMiniGameLabel_2_4c3300fa:
 
     # ch_Name "Miss Lapis, I'd like to practice my spell."
-    ch_Name ""
+    ch_Name "Miss Lapis, szeretném gyakorolni a varázslatokat."
 
 # game/logic/mini_games/magick/logic_2.rpy:745
 translate hungarian MagicMiniGameLabel_2_0d57492a:
 
     # Victoria "Commendable zeal, [Name]. What spell are you interested in?"
-    Victoria ""
+    Victoria "Dicséretes buzgóság, [Name]. Milyen varázslat érdekel?"
 
 # game/logic/mini_games/magick/logic_2.rpy:763
 translate hungarian MagicMiniGameLabel_2_e928ed52:
 
     # ch_Name "I wish to improve my mastery of [spellname], ma'am."
-    ch_Name ""
+    ch_Name "Szeretném fejleszteni [spellname]-t, hölgyem."
 
 # game/logic/mini_games/magick/logic_2.rpy:765
 translate hungarian MagicMiniGameLabel_2_7fe45ab2:
 
     # Victoria "Excellent! Stand at the board and begin."
-    Victoria ""
+    Victoria "Kiváló! Állj a táblához és kezdjük el."
 
 # game/logic/mini_games/magick/logic_2.rpy:788
 translate hungarian MagicMiniGameLabel_2_1117eb1b:
 
     # "Score: [score_1]%%"
-    ""
+    "Pontszám: [score_1]%%"
 
 # game/logic/mini_games/magick/logic_2.rpy:794
 translate hungarian MagicMiniGameLabel_2_9ca4635e:
 
     # Victoria "Concentrate, [Surname]! I know you can do better than that."
-    Victoria ""
+    Victoria "Koncentrálj, [Surname]! Tudom, hogy tudsz ennél jobbat is."
 
 # game/logic/mini_games/magick/logic_2.rpy:797
 translate hungarian MagicMiniGameLabel_2_c0a430be:
 
     # Victoria "Not a bad result, but there's room for improvement."
-    Victoria ""
+    Victoria "Nem rossz eredmény, de van még min javítani."
 
 # game/logic/mini_games/magick/logic_2.rpy:801
 translate hungarian MagicMiniGameLabel_2_48a2ce7f:
 
     # Victoria "Amazing, [Name]! Excellent concentration! Can you do it again?"
-    Victoria ""
+    Victoria "Csodálatos, [Name]! Kiváló koncentráció! Meg tudod csinálni újra?"
 
 # game/logic/mini_games/magick/logic_2.rpy:823
 translate hungarian MagicMiniGameLabel_2_c2ed29a9:
 
     # "Score: [score_2]%%"
-    ""
+    "Pontszám: [score_2]%%"
 
 # game/logic/mini_games/magick/logic_2.rpy:829
 translate hungarian MagicMiniGameLabel_2_b103f4dd:
 
     # Victoria "Come on, [Name]. I'm sure you can do better."
-    Victoria ""
+    Victoria "Gyerünk, [Name]. Biztos vagyok benne, hogy tudsz ennél jobbat csinálni."
 
 # game/logic/mini_games/magick/logic_2.rpy:832
 translate hungarian MagicMiniGameLabel_2_2dc12541:
 
     # Victoria "Not bad, but I've seen that you can do better."
-    Victoria ""
+    Victoria "Nem rossz, de láttam, hogy tudsz jobbat is csinálni."
 
 # game/logic/mini_games/magick/logic_2.rpy:836
 translate hungarian MagicMiniGameLabel_2_ade62796:
 
     # Victoria "Well done, [Name]! You're getting better and better! Will you do it again?"
-    Victoria ""
+    Victoria "Szép munka, [Name]! Egyre jobban vagy! Megcsinálod még egyszer?"
 
 # game/logic/mini_games/magick/logic_2.rpy:861
 translate hungarian MagicMiniGameLabel_2_51d176b9:
 
     # "Score: [score_3]%%"
-    ""
+    "Pontszám: [score_3]%%"
 
 # game/logic/mini_games/magick/logic_2.rpy:867
 translate hungarian MagicMiniGameLabel_2_28ff02a7:
 
     # Victoria "No, no. This is clearly not your day, [Name]!"
-    Victoria ""
+    Victoria "Nem nem. Ez nyilvánvalóan nem a te napod, [Name]!"
 
 # game/logic/mini_games/magick/logic_2.rpy:870
 translate hungarian MagicMiniGameLabel_2_35637f40:
 
     # Victoria "It's a fairly stable spell, but it could be better."
-    Victoria ""
+    Victoria "Ez egy meglehetősen stabil varázslat lett, de lehetne jobb is."
 
 # game/logic/mini_games/magick/logic_2.rpy:874
 translate hungarian MagicMiniGameLabel_2_49d1071b:
 
     # Victoria "That's great! That's a phenomenal result!"
-    Victoria ""
+    Victoria "Nagyszerű! Ez nagyszerű eredmény!"
 
 # game/logic/mini_games/magick/logic_2.rpy:878
 translate hungarian end_MagicMiniGame_2_label_7feba4d1:
 
     # Victoria "That's enough, [Name]. The class has come to an end, so we'll continue next time."
-    Victoria ""
+    Victoria "Elég lesz, [Name]. Az óra véget ért, majd legközelebb folytatjuk."
 
 # game/logic/mini_games/magick/logic_2.rpy:881
 translate hungarian end_MagicMiniGame_2_label_6e5c62ef:
 
     # ch_Name "Thank you, Miss Lapis. You are my favorite teacher!"
-    ch_Name ""
+    ch_Name "Köszönöm, Miss Lapis. Ön a kedvenc tanárom!"
 
 translate hungarian strings:
 
     # game/logic/mini_games/magick/logic_2.rpy:722
     old "\n\nClick and drag your mouse to draw the glyph on your screen. You have "
-    new ""
+    new "\n\nKattints és húzd az egeret, hogy megrajzold a jelet a képernyőn. Van "
 
