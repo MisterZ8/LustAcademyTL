@@ -10,13 +10,13 @@ translate philippine 69ff737f:
 translate philippine start_54c881dc:
 
     # NoName "Hi! My name is..."
-    NoName "Hi! Ako ay si..."
+    NoName "Hi! Ako si..."
 
 # game/script.rpy:768
 translate philippine start_input_2_a0ecd7a8:
 
     # ch_Name "My name is [Name] [Surname] and I am 18 years old."
-    ch_Name "Ang pangalan ko ay [Name] [Surname] at ang edad ko ay 18 anyos."
+    ch_Name "Ang pangalan ko ay [Name] [Surname] at 18 taon na ako."
 
 # game/script.rpy:774
 translate philippine start_input_2_f789cadc:
@@ -34,7 +34,7 @@ translate philippine start_input_2_d05c9319:
 translate philippine start_input_2_8ba3057e:
 
     # ch_Name "Double open fracture..."
-    ch_Name ""
+    ch_Name "Nabali ang buto ko..."
 
 # game/script.rpy:781
 translate philippine start_input_2_9ca377b3:
@@ -322,7 +322,7 @@ translate philippine start_input_2_bca2c05c:
 translate philippine start_input_2_f4cb3c7a:
 
     # ch_Name "What do you mean? Are you kicking me out?"
-    ch_Name "Anong ibig mong sabihin? Paalisin nyo ba ako?"
+    ch_Name "Anong ibig mong sabihin? Paalisin n'yo ba ako?"
 
 # game/script.rpy:935
 translate philippine start_input_2_90f3a346:
@@ -562,7 +562,7 @@ translate philippine strings:
 
     # game/script.rpy:86
     old "Stoneskin"
-    new "Matigas na Balat"
+    new "Balat na Bato"
 
     # game/script.rpy:88
     old "Inspiration"
@@ -570,7 +570,7 @@ translate philippine strings:
 
     # game/script.rpy:90
     old "Magic Reflection"
-    new ""
+    new "Mahikang Salamin"
 
     # game/script.rpy:93
     old "CALENDAR"
