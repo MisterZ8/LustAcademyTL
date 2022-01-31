@@ -324,191 +324,191 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Amelie didn't lie - for every book I return, she gives me the points needed to win the weekly competition. I could turn in one book at a time or continue collecting and turn in many at once. She will surely appreciate the help. If I want to get closer, I need to find more books."
-    new ""
+    new "Amelie no metía - por cada libro que devuelvo, ella me da los puntos necesarios para ganar la competición semanal. Puedo devolverlos de uno en uno o seguir acumulando y darle varios a la vez. Estoy seguro de que ella aprecia la ayuda. Si quiero acercarme a ella, necesito encontar más libros."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I helped Amelie deal with the elves who tried to steal from her, but they managed to steal one of the potions. Amelie asked me to help her get it back when she figured out where they were hiding. I couldn't wait."
-    new ""
+    new "He ayudado a Amelie a lidiar con los duendes que intentaban robarla, pero han conseguido robar una de las pociones. Amelie me a pedido ayuda para recuperarla en cuanto descubra donde se están escondiendo. No puedo esperar."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Amelie and I went to the elf settlement in the woods and returned the stolen potion. It was epic! Admittedly, the potion broke and got on Amelie in the process, but that's okay... But, it was fun."
-    new ""
+    new "Amelie y yo fuimos al asentamiento élfico en el bosque y recuperamos la poción robada. ¡Fue épico!" Es cierto que la poción se rompió y vertió sobre Amelie en el proceso, pero está bien... Fue divertido."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Now I know that we have really creepy angels living in the garden, Garden's story has come to an end."
-    new ""
+    new "Ahora ya se que tenemos unos ángeles bastante perturbadores viviendo en el jardín, La historia del jardín ha llegado al final."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Now I know that we have really creepy angels living in the garden."
-    new ""
+    new "Ahora ya se que tenemos unos ángeles bastante perturbadores viviendo en el jardín"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "If Leonheart wins weekly house competition we'll be able to visit local town - Dale. To win the competition I need to earn points by visiting classes, collecting books or winning in duels."
-    new ""
+    new "Si Lionheart gana la competición semanal de las casas podré visitar el pueblo - Dale. Para ganar la competición necesito ganar puntos asistiendo a clases, recogiendo libros o ganando duelos."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've been to Dale and it's awesome. Winning the school competition is really valuable, plus they give money to winners. I should try to win again."
-    new ""
+    new "He estado en Dale y es la leche. Ganar la competición de la escuela vale la pena, ademas dan dinero a los ganadores. Tengo que intentar ganar otra vez."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "This character has no active quests in this version of the game."
-    new ""
+    new "Este personaje no tiene misiones activas en está versión del juego."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "She's in Leonheart too, so I can probably meet her in our campus in the morning."
-    new ""
+    new "Ella también está en Lionheart, así que seguramente podré quedar con ella en el campus por la mañana."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Audrey only talks to men who can take her to a restaurant. It seems that I have to get a job to interest her in my persona."
-    new ""
+    new "Audrey solo habla con hombres que puedan llevarla a un restaurante. Parece que tendré que conseguir un trabajo para que se interese por mi."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've helped Audrey get milk for her morning coffee, and I hope it'll melt some ice between us. Audrey will be waiting for me in the living room in the evening. I wonder if that's a hint."
-    new ""
+    new "Ayude a Audrey a conseguir leche para su café matutino, espero que eso rompa un poco el hielo entre nosotros. Audrey me esperará en la sala común por la tarde. Me pregunto si esto es un avance."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've tried to get Sam and Audrey to tell me if they're hiding something, but they told me nothing. I'll need to talk to Audrey in the morning, when she's alone."
-    new ""
+    new "He intentado que Sam y Audrey me digan si están ocultando algo, pero no me han dicho nada. Necesito hablar con Audrey por la mañana, cuando esté sola."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We had a fantastic time drinking coffee at Molly's while it was still closed. I think we're getting closer. I'll just have to wait until she makes her move."
-    new ""
+    new "Hemos pasado un rato estupendo bebiendo café en la cafetería de molly mientras estaba cerrada. Creo que nos estamos acercando. Solo tendré que esperar a que ella de el paso."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Audrey was so sweet about choosing a gift for Samantha. They must be really good friends. I think she likes me too, and Maybe I should talk to her in the evening?"
-    new ""
+    new "Audrey fue super dulce al elegir el regalo para Samanthe. Deben de ser muy buenas amigas. Creo que yo también le gusto, ¿quizás debería hablar con ella por la tarde?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Audrey and Samantha acted  really weird  tonight: first they  got touchy with each other and went to their room. Then, Samantha stormed out and she looked concerned. I'll have to talk to Audrey again if I want to know the details."
-    new ""
+    new "Audrey y Samantha han actuado muy raro esta noche: Primero están muy acarameladas y se van a su cuarto. Luego, Samantha salió disparada y parecía preocupada. Tengo que hablar con Audrey otra vez si quiero conocer los detalles."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Audrey and I have a complicated situation, and I have to figure out what to do next. If not for Audrey's sake, then for Samantha's, who is very close to her."
-    new ""
+    new "Audrey y yo tenemos una situación complicada, y tengo que pensar mi siguiente movimiento. Si no por el bien de Audrey, entonces por el de Samantha, que es muy cercana a ella."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We finally talked to Audrey about our relationship and everything that happened recently. Now we both have a better understanding of the boundaries between us. It's up to me to decide if I want to continue my relationship with her, I shouldn't forget that she's the succubus that almost got Samantha hurt."
-    new ""
+    new "Por fin hemos hablado Audrey y yo sobre nuestra relación y todo lo que ha pasado ultimamente. Ahora ambos entendemos mejor los límites entre los dos. Ahora es cosa mía decidir si quiero continuar mi relación con ella o no, no hay que olvidar que ella es el súcubo que casi hiere a Samantha."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah should give me a \"student card\". I can catch him in the living room in the morning."
-    new ""
+    new "Elijah debería darme un \"carnet de estudiante\". Puedo alcanzarle por la mañana en la sala de estar."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah gave me my student card and told me to get my textbooks from the library. Then I return to him or visit classes."
-    new ""
+    new "Elijah me dió mi carnet de estudiante y me dijo que cogiese mis libros de la biblioteca. Luego vuelvo con el o voy a clase."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah recommended that I attend both classes and then find him in the café in the evening."
-    new ""
+    new "Elijah me recomendo asistir a ambas clases y luego encontrarnos en la cafetería por la tarde."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah said that sometimes he could give me some sketchy job. I think he'll have more to say if I win the house competition and visit Dale to find out what goods that place has to offer."
-    new ""
+    new "Elijah me dijo que podría darme algún trabajillo. Creo que me dará más información si gano la competición entre casas y visito Dale para averiguar que cosas tiene ese sitio que ofrecer."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah asked me to get some nectar from Willow in Chompski Shop in Dale. To get to Dale, our house has to win the weekly competition."
-    new ""
+    new "Elijah me pidió que consiguiera un poco de néctar de Willow en la tienda de Chompski en Dale. Para ir a Dale, nuestra casa tiene que ganar la competición semanal."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "When I went for Elijah's package to Gordon's shop I had a small chat with Willow. She showed me her magic grove.  It seems like it is very important to her. I wonder what's inside...  She also gave me the nectar for Elijah. I should meet hit at Cordale's cafe."
-    new ""
+    new "Cuando Fuí a la tienda de Gordon a por el paquete de Elijah pude charlar un poco con willow. Ella me enseño su arboleda mágica. Parece que es muy importante para ella. Me pregunto que habrá dentro... También me dio el néctar para Elijah. Debo encontrarme con el en la cafetería de Cordale."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah was very pleased that I've helped him to get Dryad's nectar. It seems that he likes working with me. "
-    new ""
+    new "Elijah estaba muy agradecido por mi ayuda para conseguir el néctar de dríada. Parece que le gusta trabajar conmigo. "
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "This strange creature attacked me in Dale, but fended it off with combat bolt."
-    new ""
+    new "Esta extraña criatura me atacó en Dale, pero lo rechace con combat bolt."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Strange creature that lives on the streets of Dale asked me to get a potion from Sabrina to lift his curse. I should talk to Sabrina when I get a chance."
-    new ""
+    new "Una extraña criatura que vive en las calles de Dale me pregunto si puedo conseguir una poción de Sabrina para romper su maldición. Hablaré con Sabrina cuando tenga la ocasión."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Sabrina was interested by the story about Giant who asked for help. She agreed to give me the potion he asked for if I promise to tell her all the details of our next encounter with that Thing. Seems fair."
-    new ""
+    new "Sabrina estaba interesada en la historia del gigante que me pidió ayuda. Ella accedió a darme la poción si prometo contarle todos los detalles de mi próximo encuentro con esa cosa. Parece justo."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Gordon told me he's always ready to pay a $ for each fish I catch for him. He's odd, but I think he's a fair trader."
-    new ""
+    new "Gordon me dijo que siempre está preparado para darme un $ por cada pez que pesque para el. Es raro, pero creo que es un comerciante justo."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "It looks like fishing can be pretty profitable. I can go fishing whenever the shop is open and Gordon will always pay me $1 for each fish."
-    new ""
+    new "Parece que pescar puede ser bastante rentable. Puedo ir a pescar siempre que la tienda esté abierta y Gordon siempre me dará $1 por cada pez."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I should catch up with Haley. She's probably studying already."
-    new ""
+    new "Debería ponerme al día con Haley. Seguramente estará ya estudiando."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley will be waiting for me in her room in the evening. I hope it's a date!"
-    new ""
+    new "Haley estará esperandome en su habitación por la tarde. ¡Espero que sea una cita!"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley is getting ready for Victoria's private classes, I gotta find out what progress she's made. 'll try to talk to her in the morning before the lecture."
-    new ""
+    new "Haley se está preparando para sus clases privadas con Victoria, voy a enterarme de que progresos ha hecho. Voy a intentar hablar con ella por la mañana antes de la ponencia."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley's too wrapped up in her studies. I don't want to intrude. I'll let her make a move on her own."
-    new ""
+    new "Haley está absorta en sus estudios. No quiero entrometerme. Voy a dejar que ella haga un movimiento por si misma."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley said there was something strange in her textbook and called me over to look at it myself. We're meeting in the evening, in her room."
-    new ""
+    new "Haley dice que hay algo extraño en su libro y me ha llamado para que le eche un vistazo. Hemos quedado por la tarde, en su cuarto."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Together, Haley and I tried to unwrap the mystery about E.Bloom's notes in her book. Elijah seemed disturbed when we asked him questions. I need to meet Haley before classes to find out what's her plan."
-    new ""
+    new "Juntos, Haley y yo hemos intentado desentrañar el misterio acerca de las notas de E.Bloom que hay en su libro. Elijah parecía alterado cuando le preguntamos. Necesito quedar con Haley antes de las clases para saber cual es su plan."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We were alone in the courtyard, and Haley showed that she doesn't mind getting closer to me. She also asked me to spy on Amelie until I find a secret room in the library."
-    new ""
+    new "Estabamos solos en el patio, y Haley demostró que no le importa acercarse a mi. Ella también me pidió que espiase a Amelie hasta encontrar la habitación secreta de la biblioteca."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Hours of spying were not wasted for nothing! I saw Amelie disappearing and coming back where there were no exits. I have to tell Haley about this, and she might know what to do."
-    new ""
+    new "¡Tantas horas de espionaje no has sido en balde! Vi a Amelie desaparecer y volver por donde no había ninguna salida. Tengo que contarle esto a Haley, puede que ella sepa que hacer."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley needs some time to examine the coins she found in the library and find out how to get to the secret room."
-    new ""
+    new "Haley necesita tiempo para examinar las monedas que encontró en la biblioteca y descubrir como entrar en la habitación secreta."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley and I broke into the secret room and borrowed files that might contain information about E.Bloom. Haley will look into them and get back to me in the morning."
-    new ""
+    new "Haley y yo irrumpimos en la habitación secreta y tomamos prestados archivos que podrían contener información sobre E.Bloom. Haley les echará un vistazo y se reunirá conmigo por la mañana."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley discovered that Elijah's brother and Hans were lovers and were trying to escape from here. To replicate their ritual and open the portal, we'll need Samantha's help. I'll talk to her in the morning."
-    new ""
+    new "Haley descubrió que el hermano de Elijah y Hans eran amantes y estaban intentado escapar de aquí. Para replicar su ritual y abrir el portal, necesitamos la ayuda de Smantha. Hablaré con ella por la mañana."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I made arrangements with Samantha and she will help us with the ritual. We're finally going to solve the mystery of E.Bloom. Also, Haley and I made a date. Things are going as well as can be expected!"
-    new ""
+    new "He llegado a un acuerdo con Samantha y ella nos ayudará con el ritual. Por fin vamos a resolver el misterio de E.Bloom. Ademas, Haley y yo tuvimos una cita. ¡Las cosas van tan bien como se podría esperar!"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've heard that Jacob usually spends his evenings at the hall. Should I talk to him about something?"
-    new ""
+    new "He oido que Jacob pasa las tardes en la entrada. ¿Hay algo de lo que debería hablar con el?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "To enter the Dueling Club I need to learn combat spells. In order to do so, I have to visit more Victoria's lessons."
-    new ""
+    new "Tengo que aprender hechizos de combate para entrar en el club de duelo. Para eso, tendré que ir a más clases de Victoria."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I was accepted into the dueling club, so I can come to the Academy lobby every night and take part in duels."
-    new ""
+    new "Me han aceptado en el club de duelo, Ahora puedo venir a la entrada de la academia todas las noches y participar en los duelos."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Jill is the nice ginger girl, who owns a massage saloon at Dale. I can get a massage at Whistley's Spa for $75 when i'm in Dale. Pricey, but I think it's worth it."
-    new ""
+    new "Jill es la simpática pelirroja, propietaria del salón de masaje en Dale. En Dale puedo ir al spa de Whistley a darme un masaje por $75. Un poco caro, pero creo que merece la pena."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "My massage master got so turned on, that she could not finish the process. That was strange. I've overheard her arguing with someone. I think she got pranked by that person. I guess I'll have to have another massage to get closer to the truth."
-    new ""
+    new "Mi masajista se puso tan cachonda, que no pudo terminarlo. Fue raro. Escuché como discutía con alguien. Esa persona debió de gastarle una broma. Imagino que tendré que darme otra masaje para descubrir la verdad."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "So, I don't get it. Is she Jill or Faith, and why does she act so strange? First, she seemed shy, but then she literally grabbed my cock! I'll need to have another massage to understand what's going on."
-    new ""
+    new "Entonces, no lo pillo. Ella es Jill o Faith, y ¿por que está tan rara? Primero, parecía tímida, pero entonces ¡literalmente me agarró la polla! Tendré que darme otro masaje para entender lo que está pasando."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Even after all the craziness I've seen at this spa, I can't believe I was able to talk the masseuse into jerking me off. Maybe this is just the beginning of our intimate massage sessions. I wonder what she'll agree to next time?"
