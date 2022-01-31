@@ -300,7 +300,7 @@ translate hungarian strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Don:{/b} I don't think posting things like that is the reason we bought you your phone, young lady."
-    new {b}Don:{/b} Nem hiszem, hogy az ilyen dolgok közzététele miatt vettük neked a telefont, lányom.""
+    new "{b}Don:{/b} Nem hiszem, hogy az ilyen dolgok közzététele miatt vettük neked a telefont, lányom."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Ashley:{/b} Dad, come on! It's nothing."
@@ -324,223 +324,223 @@ translate hungarian strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Samantha:{/b} Things I'd do for sisters approval."
-    new ""
+    new "{b}Samantha:{/b} Amit megtennék a nővérek jóváhagyása érdekében."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Ashley:{/b} I bless you."
-    new ""
+    new "{b}Ashley:{/b} Áldásom rád."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "😀🥳 - this is as positive as I can get. "
-    new ""
+    new "😀🥳 - ez annyira pozitív, amennyire csak lehet."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Ashley: Close enough."
-    new ""
+    new "Ashley: Közel van."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Don't you think bragging for likes like this is pathetic?"
-    new ""
+    new "Nem gondolod, hogy szánalmas ilyen képpel lájkért kuncsorogni?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Ashley: Do you know you can just ignore the things you don't like?"
-    new ""
+    new "Ashel: Tudtad, hogy csak tovább görgethesz azon ami nem tetsik?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "What are you looking at?"
-    new ""
+    new "Mit nézel?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Don:{/b} I don't think that we buy you a phone for posting photos like that. We need to talk, in my office, now!"
-    new ""
+    new "{b}Don:{/b} Nem hiszem, hogy az ilyen dolgok közzététele miatt vettük neked a telefont. Beszélnünk kell, az irodámba, most!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Olivia:{/b} Don, she is a grown woman and it's absolutely okay. Baby, you're gorgeous!"
-    new ""
+    new "{b}Olivia:{/b} Don, ő felnőtt nő, és ez teljesen rendben van. Kicsim, gyönyörű vagy!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "In your eyes, of course! "
-    new ""
+    new "A te szemedben persze! "
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Let's be honest - 99% check out your boobs. And I can say that it worth looking at!"
-    new ""
+    new "Legyünk őszinték: 99%-a a melleider nézi. És mondhatom, érdemes ránézni!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Ashley: bla-bla-bla!"
-    new ""
+    new "Ashley: bla-bla-bla!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "It the screen of my phone, isn't it obvious?"
-    new ""
+    new "Ez a telefonom képernyője, nem egyértelmű?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Ashley: ..."
-    new ""
+    new "Ashley: ..."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Don't mess with me"
-    new ""
+    new "Ne szórakozz velem"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Im finally where I belong, with people that most dear to me. How do you call this strange feeling? Could this be.... happiness? "
-    new ""
+    new "Végre ott vagyok, ahol a helyem, olyan emberekkel, akik a legkedvesebbek számomra. Hogy nevezed ezt a furcsa érzést? Lehet ez... a boldogság?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Samantha:{/b} 😚"
-    new ""
+    new "{b}Samantha:{/b} 😚"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Samantha:{/b} Happy to reunite with my bestie!"
-    new ""
+    new "{b}Samantha:{/b} Örülök, hogy újra találkozhattam a legjobb barátommal!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "You look lovely together ☺️"
-    new ""
+    new "Nagyon jól néztek ki együtt ☺️"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "What do I have to do to get that look from you, baby?"
-    new ""
+    new "Mit kell tennem, hogy rám is így nézzél, bébi?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Are you sure this is the best photo you've got?"
-    new ""
+    new "Biztos vagy benne, hogy ez a legjobb fotód?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "The medieval fair was interesting, but they clearly lacked a little extra mystery. I decided to give them a hand! What do you think of my costume?"
-    new ""
+    new "A középkori vásár érdekes volt, de egyértelműen hiányzott belőlük egy kis extra rejtély. Úgy döntöttem, segítek nekik! Mi a véleményed a jelmezemről?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Elijah:{/b} WTF... Those wings look so natural."
-    new ""
+    new "{b}Elijah:{/b} WTF... Olyan igazinak tűnnek azok szárnyak."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Samantha:{/b} @Elijah +1. Your costume is fantastic! I'm so glad we've bought it."
-    new ""
+    new "{b}Samantha:{/b} @Elijah +1. Fantasztikus a jelmezed! Nagyon örülök, hogy megvettük."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I love how this costume suits your hair!"
-    new ""
+    new "Imádom, hogy ez a jelmez illik a hajadhoz!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Wow... I think you've accidentally stolen all the attention."
-    new ""
+    new "Wow... Azt hiszem, véletlenül elloptad az összes figyelmet."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I don't want to go medieval on you, so I won't say anything about your look."
-    new ""
+    new "Nem akarok középkori lenni veled, ezért nem mondok semmit a külsődről."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "You  never know what's waiting around the darkest corner. Maybe it's me..."
-    new ""
+    new "Soha nem tudhatod, mi vár a legsötétebb sarokban. Talán én vagyok az..."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Would you dare to take a closer look? "
-    new ""
+    new "Meg mernéd nézni közelebbről?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Samantha:{/b}😈"
-    new ""
+    new "{b}Samantha:{/b}😈"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "How can there be the darkest corner if your eyes shine so bright?"
-    new ""
+    new "Hogyan lehet a legsötétebb sarok, ha a szemed ilyen fényesen ragyog?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I'm not sure I'm going to stop at just looking."
-    new ""
+    new "Nem vagyok benne biztos, hogy csak nézni fogom ezt a képet most."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Nah, it's too creepy..."
-    new ""
+    new "Nah, ez túl ijesztő..."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Paid a visit to my old haters.... And people who sent me dick pics 🤬"
-    new ""
+    new "Meglátogattam a régi hatereimet... És az embereket, akik faszképeket küldtek nekem 🤬"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Seriously, what's wrong with you, guys? I'm more turned on by looking at this gravestone than by receiving this trash."
-    new ""
+    new "Komolyan, mi van veletek, srácok? Jobban felizgulok attól, hogy ránézek erre a sírkőre, mint hogy megkapom ezt a szemetet."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I'd say that I'd rather have you invite me on a date, but to be honest - I'd rather have you stop bothering me at all! Please, crawl in some dark corner and die already."
-    new ""
+    new "Azt mondanám, hogy szívesebben hallanám, hogy el hívsz randevúzni, de őszintén szólva: inkább ne zavarj engem! Kérlek, mássz be valami sötét sarokba, és halj már meg."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Elijah:{/b} Yeah, you can send me those dick pics instead. "
-    new ""
+    new "b}Elijah:{/b} Igen, helyette nekem is küldhetitek azokat a dickpickeket. "
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Elijah:{/b} That's a joke, guys. "
-    new ""
+    new "{b}Elijah:{/b} Ez egy vicc volt, srácok. "
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I'm totally with you on this. Men are disgusting."
-    new ""
+    new "Ebben teljesen veled vagyok. A férfiak undorítóak."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "You know that there is no sign that dick pics are not welcomed in your private?"
-    new ""
+    new "Tudod, hogy semmi jele annak, hogy a faszképeket nem szívesen látják a piriben?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Every girl has her secrets. Are you sure you can unravel mine? Many have tried and ended up like Yorick."
-    new ""
+    new "Minden lánynak megvannak a maga titkai. Biztos vagy benne, hogy ki tudod találni az enyémet? Sokan megpróbálták, és úgy jártak, mint Yorick."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Samantha:{/b} Maybe you should not brag about secrets if you don't want people to snoop around?"
-    new ""
+    new "{b}Samantha:{/b} Talán ne dicsekedj titkokkal, ha nem akarod, hogy az emberek leskelődjenek?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Ashley:{/b} What's the fun in that?"
-    new ""
+    new "{b}Ashley:{/b} Abban mi a vicces?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Jacob:{/b} One of the biggest mysteries in you is how you manage not to be expelled if you don't finish your term paper"
-    new ""
+    new "{b}Jacob:{/b} Az egyik legnagyobb rejtély benned az, hogy hogyan sikerül nem kibukni a suliból, úgy hogy nem fejezed be a szakdogádat"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Hey, sometimes it's worth the risk. I think you're just that case."
-    new ""
+    new "Hé, néha megéri kockáztatni. Szerintem csak te vagy ilyen"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Samantha: It's nice to see you guys get along so well."
-    new ""
+    new "Samantha: Örülök, hogy ilyen jól kijöttök egymással."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Audrey: We don't."
-    new ""
+    new "Audrey: Mi nem."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "The only secret is who gives likes to shitposts like that."
-    new ""
+    new "Csak az a titok, hogy ki lájkolja az ilyen shitposztokat."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Samantha: [Name]! What's wrong with you?"
-    new ""
+    new "Samantha: [Name]! Mi a bajod?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I am getting myself in shape. In shape of a scorching hot chick! "
-    new ""
+    new "Formába hozom magam. Perzselő dögös csaj formájában!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I hope I won't get the academy on fire."
-    new ""
+    new "Remélem, nem gyújtom fel majd az akadémiát."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Lily:{/b} Hey, wow! I have the same sport's top!"
-    new ""
+    new "{b}Lily:{/b} Hé, wáo! Ugyanilyen sport felsőm van!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Elijah:{/b} Too hot for this app. "
-    new ""
+    new "{b}Elijah:{/b} Túl dögös ehhez az alkalmazáshoz."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Samantha:{/b} ❤️"
-    new ""
+    new "{b}Samantha:{/b} ❤️"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "It's always inspiring to see when a perfect woman works hard to push beyond perfection."
-    new ""
+    new "Mindig inspiráló látni, amikor egy tökéletes nő keményen dolgozik, hogy túllépjen a tökéletességen."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Audrey: I'm uncomfortable with getting compliments. Go away."
