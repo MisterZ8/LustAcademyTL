@@ -300,27 +300,27 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Adele showed me around club. I can now  order a table or VIP lounge from her anytime I want."
-    new ""
+    new "Adele me ha enseñado el club. Ahora puedo pedirle una mesa o una sala VIP cuando quiera."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Adele seemed to be interested in me, but for now - she rejected all my moves."
-    new ""
+    new "Adele parece interesada en mi, pero por ahora - rechaza todos mis acercamientos."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I worked up the courage to ask Adele out. She seemed surprised, but agreed. We agreed to meet in the afternoon at a cafe. I couldn't wait."
-    new ""
+    new "Me armé de valor para invitar a Adele a salir. Parece sorprendida, pero aceptó. Hemos acordado quedar por la tarde en la cafetería. No puedo esperar."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We had a great time with Adele at the cafe. She was very sociable and friendly. I think she liked me too. We agreed that we will do it again sometime, so a second date is in my pocket."
-    new ""
+    new "Lo hemos pasado genial Adele y yo en la cafetería. Ella es super sociable y simpática. Creo que yo también le gusto. Hemos acordado repetir en algún momento, tengo la segunda cita en mi bolsillo."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Ahchi is a pleasant and sociable barista who makes incredibly cool coffee. He is always nice to talk to and often tells interesting news and rumors."
-    new ""
+    new "Ahchi es un camarero que hace un café increible y es super sociable y agradable. Siempre es un placer hablar con el y a veces cuenta rumores y noticias interesantes."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Amelie said that magical creatures can prank students by stealing their books. If I find lost books scattered around the academy, I can return them to the library in exchange for house points."
-    new ""
+    new "Amelie dice que las criaturas mágicas pueden robar los libros a los estudiantes para gastar bromas. Si encuentro los libros perdidos por la academia, puedo devolverlos a cambio de puntos para mi casa."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Amelie didn't lie - for every book I return, she gives me the points needed to win the weekly competition. I could turn in one book at a time or continue collecting and turn in many at once. She will surely appreciate the help. If I want to get closer, I need to find more books."
