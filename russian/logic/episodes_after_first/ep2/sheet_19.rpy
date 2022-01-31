@@ -22,7 +22,7 @@ translate russian sheet_19_b411353a:
 translate russian sheet_19_142f896f:
 
     # UnknownJacob "Applicants! "
-    UnknownJacob "Кандидаты! "
+    UnknownJacob "Абитуриенты! "
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:18
 translate russian sheet_19_317d1e3d:
