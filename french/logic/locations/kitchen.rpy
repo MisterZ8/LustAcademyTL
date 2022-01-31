@@ -10,7 +10,7 @@ translate french i_1_023_test_e91cf7fa:
 translate french i_1_023_test_be050fcc:
 
     # Samantha "Try to guess. You have one try!"
-    Samantha "Essaie de deviner. Vous avez un essai !"
+    Samantha "Essaie de deviner. TU as un essai !"
 
 # game/logic/locations/kitchen.rpy:35
 translate french i_1_023_test_a84e9722:
@@ -22,7 +22,7 @@ translate french i_1_023_test_a84e9722:
 translate french i_1_023_test_93a20ef2:
 
     # Samantha "Tea, of course. Can I pour you one?"
-    Samantha "Thé, bien sûr. Puis-je vous en servir un ?"
+    Samantha "Du thé, bien sûr. Je peux t'en servir un ?"
 
 # game/logic/locations/kitchen.rpy:39
 translate french i_1_023_test_fa1cbf8c:
@@ -34,13 +34,13 @@ translate french i_1_023_test_fa1cbf8c:
 translate french i_1_023_test_08c89910:
 
     # ch_Name "I'm not really in the mood for tea..."
-    ch_Name "Je ne suis pas vraiment d'humeur pour le thé..."
+    ch_Name "Je ne suis pas vraiment d'humeur pour un thé..."
 
 # game/logic/locations/kitchen.rpy:43
 translate french i_1_023_test_fcff307e:
 
     # Samantha "What's going on? Did you have another fight with Olivia and Don?"
-    Samantha "Que se passe-t-il? As-tu eu une autre dispute avec Olivia et Don ?"
+    Samantha "Qu'est ce qui se passe ? T'as eu une une autre dispute avec Olivia et Don ?"
 
 # game/logic/locations/kitchen.rpy:45
 translate french i_1_023_test_e246eb6d:
@@ -64,19 +64,19 @@ translate french i_1_023_test_12e194a1:
 translate french i_1_023_test_8b456c34:
 
     # ch_Name "And they offered to accept all my savings in the form of rent."
-    ch_Name "Et ils m'ont proposé d'accepter toutes mes l'argent sous forme de loyer."
+    ch_Name "Et ils m'ont proposé d'accepter toutes mes économies sous forme de loyer."
 
 # game/logic/locations/kitchen.rpy:53
 translate french i_1_023_test_2f8946ea:
 
     # Samantha "Stop it with your jokes!"
-    Samantha "Arrêtez-le avec vos blagues!"
+    Samantha "Arrête avec tes blagues!"
 
 # game/logic/locations/kitchen.rpy:55
 translate french i_1_023_test_67a74a08:
 
     # Samantha "You're... You're joking, right?"
-    Samantha "Vous êtes... Vous plaisantez, n'est-ce pas ?"
+    Samantha "Tu... Tu plaisantes, n'est-ce pas ?"
 
 # game/logic/locations/kitchen.rpy:57
 translate french i_1_023_test_df682742:
@@ -100,13 +100,13 @@ translate french i_1_023_test_d1cb76e7:
 translate french i_1_023_test_cf64e908:
 
     # Samantha "Wait a minute. You almost saved up for college, what do you care?"
-    Samantha "Attends une minute. Vous avez presque l'argent pour l'université, pourquoi t'en soucies-tu ?"
+    Samantha "Attends une minute. Tu as presque l'argent pour l'université, pourquoi tu t'en soucies ?"
 
 # game/logic/locations/kitchen.rpy:65
 translate french i_1_023_test_4fd49e85:
 
     # ch_Name "They're going to rob me blind with their new business plan."
-    ch_Name "Ils vont me voler aveuglément avec leur nouveau plan d'affaires."
+    ch_Name "Ils vont me voler en toute impunité avec leur nouveau plan."
 
 # game/logic/locations/kitchen.rpy:67
 translate french i_1_023_test_f93edfa8:
@@ -136,13 +136,13 @@ translate french i_1_023_test_4c7cf8b1:
 translate french i_1_023_test_03f5fd66:
 
     # Samantha "I almost forgot! Did you check our mailbox today?"
-    Samantha "J'ai presque oublié! Avez-vous vérifié notre boîte aux lettres aujourd'hui ?"
+    Samantha "J'ai presque oublié! T'as vérifié notre boîte aux lettres aujourd'hui ?"
 
 # game/logic/locations/kitchen.rpy:77
 translate french i_1_023_test_51bb9af7:
 
     # ch_Name "Why would I check it? I don't expect letters from anyone."
-    ch_Name "Pourquoi le vérifierais-je ? Je n'attends de lettres de personne."
+    ch_Name "Pourquoi je la vérifirais ? Je n'attends de lettres de personne."
 
 # game/logic/locations/kitchen.rpy:79
 translate french i_1_023_test_3e555eb1:
@@ -154,7 +154,7 @@ translate french i_1_023_test_3e555eb1:
 translate french i_1_023_test_4ed3897c:
 
     # ch_Name "That's unexpected; thanks for the heads up."
-    ch_Name "C'est inattendu; Merci pour l'information."
+    ch_Name "C'est inattendu; Merci pour l'info."
 
 # game/logic/locations/kitchen.rpy:83
 translate french i_1_023_test_0156708f:
@@ -184,7 +184,7 @@ translate french kitchen_label_2_1ad560a9:
 translate french kitchen_label_2_a6fbdfe3:
 
     # ch_Name "Do you know where Samantha went? I need to find her."
-    ch_Name "Savez-vous où est allée Samantha ? Je dois la trouver."
+    ch_Name "Tu sais où est allée Samantha ? Je dois la voir."
 
 # game/logic/locations/kitchen.rpy:104
 translate french kitchen_label_2_3902fe2a:
@@ -220,25 +220,25 @@ translate french kitchen_label_2_c451f516:
 translate french kitchen_label_2_929cf37a:
 
     # ch_Name "Yeah. It's addressed to me."
-    ch_Name "Ouais. Il m'est adressé."
+    ch_Name "Ouais. Elle m'est adressé."
 
 # game/logic/locations/kitchen.rpy:116
 translate french kitchen_label_2_254d851a:
 
     # Olivia "How long ago did it come?"
-    Olivia "Il y a combien de temps est-il venu ?"
+    Olivia "Elle est arrivé il y a combien de temps ?"
 
 # game/logic/locations/kitchen.rpy:118
 translate french kitchen_label_2_27df2f51:
 
     # ch_Name "I have no idea. I just got it out of the mailbox."
-    ch_Name "Je n'ai aucune idée. Je viens de le sortir de la boite aux lettres."
+    ch_Name "J'en ai aucune idée. Je viens de la sortir de la boite aux lettres."
 
 # game/logic/locations/kitchen.rpy:120
 translate french kitchen_label_2_413e202b:
 
     # Olivia "I need to talk to Don right away. I'll hold on to it for now."
-    Olivia "Je dois parler à Don tout de suite. Je vais tenir pour l'instant."
+    Olivia "Je dois parler à Don tout de suite. Je vais m'y tenir pour l'instant."
 
 # game/logic/locations/kitchen.rpy:123
 translate french kitchen_label_2_abec28f9:
@@ -250,13 +250,13 @@ translate french kitchen_label_2_abec28f9:
 translate french kitchen_label_2_475303e6:
 
     # ch_Name "{i}(I wonder what made her so crazy about that stupid letter?){/i}"
-    ch_Name "{i}(Je me demande ce qui l'a rendue si folle de cette stupide lettre ?){/i}"
+    ch_Name "{i}(Je me demande ce qui l'a rendait si folle à propos de cette stupide lettre ?){/i}"
 
 # game/logic/locations/kitchen.rpy:128
 translate french kitchen_label_2_f2c90b79:
 
     # ch_Name "{i}(Oh my. I've gotten some use out of this letter already.){/i}"
-    ch_Name "{i}(Oh mon dieu. J'ai déjà utilisé cette lettre.){/i}"
+    ch_Name "{i}(Mon Dieu. J'ai déjà trouvé une utilité à cette lettre.){/i}"
 
 # game/logic/locations/kitchen.rpy:130
 translate french kitchen_label_2_17f221c8:
