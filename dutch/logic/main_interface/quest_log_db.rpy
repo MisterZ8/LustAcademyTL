@@ -372,91 +372,91 @@ translate dutch strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We had a fantastic time drinking coffee at Molly's while it was still closed. I think we're getting closer. I'll just have to wait until she makes her move."
-    new ""
+    new "Koffie drinken bij Molly's terwijl ze dicht waren, was echt geweldig. Ik denk dat we dichterbij komen. Ik moet gewoon wachten totdat zij haar eerste move maakt."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Audrey was so sweet about choosing a gift for Samantha. They must be really good friends. I think she likes me too, and Maybe I should talk to her in the evening?"
-    new ""
+    new "Audrey was zo lief om een cadeau voor Samantha te kiezen. Zij zijn vast goede vriendinnen. Ik denk dat ze mij ook leuk vind, misschien moet ik met haar gaan praten in de avond?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Audrey and Samantha acted  really weird  tonight: first they  got touchy with each other and went to their room. Then, Samantha stormed out and she looked concerned. I'll have to talk to Audrey again if I want to know the details."
-    new ""
+    new "Audrey en Samantha gedroegen zich erg raar vanavond: eerst werden ze handtastelijk met elkaar en gingen ze naar hun slaapkamer. Daarna stormde Samantha naar buiten en leek ze zich zorgen te maken. Ik zal opnieuw met Audrey moeten gaan praten als ik de details wil weten."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Audrey and I have a complicated situation, and I have to figure out what to do next. If not for Audrey's sake, then for Samantha's, who is very close to her."
-    new ""
+    new "Audrey en ik zitten in een lastige situatie en ik moet uitzoeken wat ik nu moet doen. Als het niet voor Audrey is, dan wel voor Samantha, die heel gehecht aan haar is."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We finally talked to Audrey about our relationship and everything that happened recently. Now we both have a better understanding of the boundaries between us. It's up to me to decide if I want to continue my relationship with her, I shouldn't forget that she's the succubus that almost got Samantha hurt."
-    new ""
+    new "Ik heb eindelijk met Audrey gepraat over onze relatie en alles wat er onlangs gebeurd is. Nu hebben we allebei een beter beeld van de lijnen tussen ons. Het is aan mij om te bepalen of ik mijn relatie met haar wil voortzetten, ik moet alleen niet vergeten dat zij de duivel is die Samantha bijna pijn deed."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah should give me a \"student card\". I can catch him in the living room in the morning."
-    new ""
+    new "Elijah zou me een \"studentenkaart\" geven. Ik kan hem 's-morgens in de woonkamer vinden."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah gave me my student card and told me to get my textbooks from the library. Then I return to him or visit classes."
-    new ""
+    new "Elijah gaf me mijn studentenkaart en zei dat ik mijn boeken moest halen bij de bibliotheek. Daarna kan ik terug naar hem of naar de les."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah recommended that I attend both classes and then find him in the café in the evening."
-    new ""
+    new "Elijah raadde me aan om beide lessen te volgen en hem dan 's-avonds in het café op te zoeken."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah said that sometimes he could give me some sketchy job. I think he'll have more to say if I win the house competition and visit Dale to find out what goods that place has to offer."
-    new ""
+    new "Elijah zei dat hij me soms een zwart klusje kon aanbieden. Ik denk dat hij meer te zeggen heeft als ik de huis competitie win en Dale bezoek om te zien wat die plaats te bieden heeft. "
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah asked me to get some nectar from Willow in Chompski Shop in Dale. To get to Dale, our house has to win the weekly competition."
-    new ""
+    new "Elijah vroeg me om wat nectar te halen bij Willow in Chompski Shop in Dale. Om in Dale te komen, moet ons huis de wekelijkse competitie winnen."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "When I went for Elijah's package to Gordon's shop I had a small chat with Willow. She showed me her magic grove.  It seems like it is very important to her. I wonder what's inside...  She also gave me the nectar for Elijah. I should meet hit at Cordale's cafe."
-    new ""
+    old "When I went for Elijah's package to Gordon's shop I had a small chat with Willow. She showed me her magic grove.  It seems like it is very important to her. I wonder what's inside...  She also gave me the nectar for Elijah. I should meet him at Cordale's cafe."
+    new "Toen ik voor Elijah's pakketje naar Gordon's winkel ging, had ik een praatje met Willow. Ze liet haar magische plaats zien. Het lijkt alsof het erg belangrijk voor haar is. Ik vraag me af wat er te zien is... Ze gaf me ook de nectar voor Elijah. Ik moet hem opzoeken in Cordale's café."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah was very pleased that I've helped him to get Dryad's nectar. It seems that he likes working with me. "
-    new ""
+    new "Elijah was erg blij dat ik hem heb geholpen om Dryad's nectar te krijgen. Het lijkt erop dat hij graag met mij samenwerkt."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "This strange creature attacked me in Dale, but fended it off with combat bolt."
-    new ""
+    new "Dit vreemde wezen viel me aan in Dale, maar ik heb me met een combat bolt verdedigd."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Strange creature that lives on the streets of Dale asked me to get a potion from Sabrina to lift his curse. I should talk to Sabrina when I get a chance."
-    new ""
+    new "Vreemd wezen dat in de straten van Dale leeft, vroeg aan mij om een toverdrank te halen bij Sabrina om zijn vloek op te heffen."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Sabrina was interested by the story about Giant who asked for help. She agreed to give me the potion he asked for if I promise to tell her all the details of our next encounter with that Thing. Seems fair."
-    new ""
+    new "Sabrina was geïnteresseerd in het verhaal over de Reus die om hulp vroeg. Ze stemde toe mij het drankje te geven waar hij om vroeg, als ik beloofde haar alle details te vertellen van mijn volgende ontmoeting met dat 'ding'. Prima deal."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Gordon told me he's always ready to pay a $ for each fish I catch for him. He's odd, but I think he's a fair trader."
-    new ""
+    new "Gordon zei me dat hij altijd bereid is een Euro te betalen voor elke vis die ik voor hem vang. Het is een rare, maar ik denk dat hij een eerlijke handelaar is."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "It looks like fishing can be pretty profitable. I can go fishing whenever the shop is open and Gordon will always pay me $1 for each fish."
-    new ""
+    new "Het lijkt erop dat vissen behoorlijk winstgevend is. Ik kan gaan vissen wanneer de winkel open is en Gordon zal me altijd €1 betalen voor elke vis."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I should catch up with Haley. She's probably studying already."
-    new ""
+    new "Ik moet even langs Haley gaan. Ze is waarschijnlijk al aan het studeren."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley will be waiting for me in her room in the evening. I hope it's a date!"
-    new ""
+    new "Haley zal in de avond op me wachten in haar slaapkamer. Ik hoop dat het een date is!"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley is getting ready for Victoria's private classes, I gotta find out what progress she's made. 'll try to talk to her in the morning before the lecture."
-    new ""
+    new "Haley maakt zich klaar voor Victoria's privélessen, ik moet erachter komen welke progressie ze heeft gemaakt. Ik zal proberen haar in de ochtend te spreken voor de les begint."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley's too wrapped up in her studies. I don't want to intrude. I'll let her make a move on her own."
-    new ""
+    new "Haley is te druk bezig met haar studie. Ik wil me niet opdringen. Ik laat haar zelf wel een eerste stap zetten."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley said there was something strange in her textbook and called me over to look at it myself. We're meeting in the evening, in her room."
-    new ""
+    new "Haley zei dat er iets vreemds in haar boek stond en vroeg aan mij of ik er zelf naar wilde kijken. We ontmoeten elkaar 's avonds, in haar slaapkamer."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Together, Haley and I tried to unwrap the mystery about E.Bloom's notes in her book. Elijah seemed disturbed when we asked him questions. I need to meet Haley before classes to find out what's her plan."
