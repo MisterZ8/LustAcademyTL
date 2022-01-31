@@ -1534,7 +1534,7 @@ translate philippine strings:
 
     # game/logic/tutorial.rpy:19
     old "This is a shortcut button for accessing the dialog log. It can be useful if you want to refresh your memory and review previous lines of the characters."
-    new "Shortcut ito para sa dialog log. Magagamit ito para mabasa muli ang sinabi ng mga tauhan."
+    new "Shortcut ito para sa talaan ng diyalogo. Magagamit ito para mabasa muli ang sinabi ng mga tauhan."
 
     # game/logic/tutorial.rpy:19
     old "These are the buttons to quickly save and load the game."
@@ -1558,7 +1558,7 @@ translate philippine strings:
 
     # game/logic/tutorial.rpy:19
     old "You only have 5 seconds to complete the order."
-    new "Mayrron kang 5 segundo para makumpleto ang order."
+    new "Mayroon kang 5 segundo para makumpleto ang order."
 
     # game/logic/tutorial.rpy:19
     old "Right here is a complete list of all the dishes available on the menu. Click on the items you need to add to the order."
@@ -1630,5 +1630,5 @@ translate philippine strings:
 
     # game/logic/tutorial.rpy:550
     old "Close"
-    new ""
+    new "Isara"
 
