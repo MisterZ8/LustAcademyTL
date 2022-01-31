@@ -16,7 +16,7 @@ translate spanish strings:
 
     # game/logic/characters.rpy:10
     old "Note"
-    new ""
+    new "Nota"
 
     # game/logic/characters.rpy:11
     old "Adele"
@@ -76,7 +76,7 @@ translate spanish strings:
 
     # game/logic/characters.rpy:25
     old "Giant"
-    new ""
+    new "Gigante"
 
     # game/logic/characters.rpy:26
     old "Gordon"
@@ -176,7 +176,7 @@ translate spanish strings:
 
     # game/logic/characters.rpy:52
     old "Unknown Man"
-    new ""
+    new "Hombre desconocido"
 
     # game/logic/characters.rpy:54
     old "Guy"
@@ -184,9 +184,9 @@ translate spanish strings:
 
     # game/logic/characters.rpy:55
     old "Unknown Girl"
-    new ""
+    new "Chica desconocida"
 
     # game/logic/characters.rpy:59
     old "Unknown elf"
-    new ""
+    new "Elfo desconocido"
 
