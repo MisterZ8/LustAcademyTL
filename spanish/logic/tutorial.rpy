@@ -4,49 +4,49 @@
 translate spanish CordEntrance_label_b9a07f28:
 
     # ch_Name "{i}(The academy is so big. How is it even possible to remember where to go?){/i}"
-    ch_Name ""
+    ch_Name "{i}(La academia es enorme. ¿Como es si quiera posible recordar a donde ir?){/i}"
 
 # game/logic/tutorial.rpy:579
 translate spanish CordEntrance_label_3165fc11:
 
     # ch_Name "{i}(I think the guy going up the stairs is also a freshman.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Creo que el chico que sube las escaleras también es un novato.){/i}"
 
 # game/logic/tutorial.rpy:580
 translate spanish CordEntrance_label_016e0679:
 
     # ch_Name "{i}(But why is he going there? Should I follow him?){/i}"
-    ch_Name ""
+    ch_Name "{i}(¿Pero por que está yendo allí? ¿Debería seguirle?){/i}"
 
 # game/logic/tutorial.rpy:582
 translate spanish CordEntrance_label_d0e1233a:
 
     # Jacob "Where do you think you're going, Mr. Brown?"
-    Jacob ""
+    Jacob "¿A donde te crees que vas, MR. Brown?"
 
 # game/logic/tutorial.rpy:583
 translate spanish CordEntrance_label_4b7232ff:
 
     # Carter "Good afternoon, Mr. Frollo."
-    Carter ""
+    Carter "Buenas tardes, Mr. Frollo."
 
 # game/logic/tutorial.rpy:584
 translate spanish CordEntrance_label_77d471be:
 
     # Carter "Ehm... Where? Why..."
-    Carter ""
+    Carter "Ehm... ¿Donde? Por que..."
 
 # game/logic/tutorial.rpy:585
 translate spanish CordEntrance_label_00959311:
 
     # Carter "I mean, yeah, I was going to the libraries and to class."
-    Carter ""
+    Carter "Esto, si, estaba de camino a la biblioteca y a clase."
 
 # game/logic/tutorial.rpy:586
 translate spanish CordEntrance_label_2950cae5:
 
     # Jacob "And what are you doing on the second floor, then?"
-    Jacob ""
+    Jacob "Entonces, que estás haciendo en el segundo piso?"
 
 # game/logic/tutorial.rpy:588
 translate spanish CordEntrance_label_df5a3cec:
