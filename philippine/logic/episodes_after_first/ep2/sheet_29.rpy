@@ -478,7 +478,7 @@ translate philippine sheet_29_332c02fb:
 translate philippine sheet_29_88c3852b:
 
     # Lily "Trust me."
-    Lily "Magtiwala ka."
+    Lily "Maniwala ka sa akin."
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:130
 translate philippine sheet_29_22c536dd:
