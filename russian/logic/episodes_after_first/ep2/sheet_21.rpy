@@ -52,7 +52,7 @@ translate russian sheet_21_3186aac9:
 translate russian sheet_21_5fa1cd32:
 
     # Victoria "Oh, the \"Meek Dame\"?"
-    Victoria "О, Meek Dame?"
+    Victoria "О, \"Meek Dame\"?"
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:22
 translate russian sheet_21_c245a14f:
