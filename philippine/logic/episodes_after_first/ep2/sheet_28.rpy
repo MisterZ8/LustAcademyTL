@@ -1210,7 +1210,7 @@ translate philippine sheet_28_1_254_15823068:
 translate philippine sheet_28_1_254_b90dc707:
 
     # Leona "The most important thing is that you've chosen with your heart."
-    Leona "Ang importante ay pumili ka gamit ang inyong puso."
+    Leona "Ang importante ay pumili ka gamit ang iyong puso."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:427
 translate philippine sheet_28_1_254_d8c8166a:
