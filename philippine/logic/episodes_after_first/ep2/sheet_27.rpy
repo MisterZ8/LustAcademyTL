@@ -4,115 +4,115 @@
 translate philippine sheet_27_a5cb088f:
 
     # Victoria "Now we will commit the eldest tradition of Cordale."
-    Victoria ""
+    Victoria "Gawin na natin ang pinakamatandang tradisyon ng Cordale."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:6
 translate philippine sheet_27_ac9396b7:
 
     # Victoria "The book you see in front of you -"
-    Victoria ""
+    Victoria "Ang librosa harap ninyo -"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:8
 translate philippine sheet_27_713a9741:
 
     # Victoria "The oldest artifact of Cordale!"
-    Victoria ""
+    Victoria "Ang pangunahing artepaktong Cordale!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:10
 translate philippine sheet_27_1fba55a7:
 
     # Victoria "This is the Sorting Foliant."
-    Victoria ""
+    Victoria "Ito ang Sorting Foliant."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:12
 translate philippine sheet_27_c3119d82:
 
     # Victoria "It was created by four founders of the academy."
-    Victoria ""
+    Victoria "Linikha ito ng apat na nagtatag ng akademiya."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:14
 translate philippine sheet_27_775062cb:
 
     # Victoria "Each of them sealed part of her soul inside this book."
-    Victoria ""
+    Victoria "Ang bawat isa ay naglagay ng bahagi ng kanilang kaluluwa sa loob."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:17
 translate philippine sheet_27_86c9c1fb:
 
     # Lily "I'm sorry... You said they sealed their souls?!"
-    Lily ""
+    Lily "Pasenysa po... Sinabi mo ba sa nakasara sa loob ang kaluluwa nila?"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:19
 translate philippine sheet_27_dc31d2f5:
 
     # Victoria "Well, parts of their souls."
-    Victoria ""
+    Victoria "Bahagi lamang."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:21
 translate philippine sheet_27_15254895:
 
     # Naomi "Define \"parts\", please."
-    Naomi ""
+    Naomi "Ano kaya 'yung mga \"bahagi\".  "
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:23
 translate philippine sheet_27_0b4df4c6:
 
     # Haley "How is this even possible to divide your soul?"
-    Haley ""
+    Haley "Posible bang hatiin ang kaluluwa mo?"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:25
 translate philippine sheet_27_6a8a6c64:
 
     # Victoria "It's magical arithmetics."
-    Victoria ""
+    Victoria "Mahikang aritmetika."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:27
 translate philippine sheet_27_30157c97:
 
     # Victoria "You'll have this lesson later."
-    Victoria ""
+    Victoria "Pag-aralan ninyo ito sa madaling panahon."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:29
 translate philippine sheet_27_e1462c7b:
 
     # Victoria "Just believe me that there are parts of their souls."
-    Victoria ""
+    Victoria "Magtiwala lang kayo sa akin."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:31
 translate philippine sheet_27_dae96228:
 
     # Victoria "Let's get back to the ritual, shall we?"
-    Victoria ""
+    Victoria "Handa na ba kayo para sa ritwal?"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:33
 translate philippine sheet_27_4130ae16:
 
     # Victoria "This book will define your future at this academy."
-    Victoria ""
+    Victoria "Ang librong ito ay magtutukoy ng kinabukasan mo rito."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:35
 translate philippine sheet_27_96934276:
 
     # Victoria "Your friends, teachers, future opportunities. "
-    Victoria ""
+    Victoria "Iyong mga kaibigan, guro, pagkakataon."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:37
 translate philippine sheet_27_9f6e6ab4:
 
     # Victoria "Everyone in the world of wizardry revolve around their connections, made inside these walls."
-    Victoria ""
+    Victoria "Ang lahat ng bagay sa mundo ng mahika ay nakasalalay sa iyong mga nakilala rito."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:39
 translate philippine sheet_27_9cf4fe67:
 
     # Victoria "There are four houses named after four founders of Cordale."
-    Victoria ""
+    Victoria "Ang apat na angkan ay pinangalanan batay sa apat na nagtatag."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:42
 translate philippine sheet_27_75e8cb13:
 
     # Victoria "Each follows the vision of it's founder."
-    Victoria ""
+    Victoria "Sinusunod nila ang hangarin ng tumatag sa kanila."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:47
 translate philippine sheet_27_b0ae8dcc:
@@ -124,19 +124,19 @@ translate philippine sheet_27_b0ae8dcc:
 translate philippine sheet_27_a9fcd493:
 
     # Victoria "She believed that only courage and nobility could make a magician great."
-    Victoria ""
+    Victoria "Paniniwala niya na katapangan at dangal ang makakapagtagumpay sa isang salamangkero."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:50
 translate philippine sheet_27_d998822a:
 
     # Victoria "Naturally..."
-    Victoria ""
+    Victoria "Gayundin..."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:51
 translate philippine sheet_27_f71c8d65:
 
     # Victoria "The house of Leonheart includes people who honor her teachings."
-    Victoria ""
+    Victoria "Nakasama sa ngkan ni Leonheart ang mga taong sumusunod sa itinuro niya."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:56
 translate philippine sheet_27_97fb5337:
@@ -148,19 +148,19 @@ translate philippine sheet_27_97fb5337:
 translate philippine sheet_27_391bc7a8:
 
     # Victoria "She thought that only pureblood sorcerers are worthy."
-    Victoria ""
+    Victoria "Sabi niya na ang mga dugong puro lamang ang karapat-dapat."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:58
 translate philippine sheet_27_738cba1a:
 
     # Victoria "Her cunning and dedication have no match."
-    Victoria ""
+    Victoria "Walang pantay ang kaniyang pagkatalas at dedikasyon."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:59
 translate philippine sheet_27_cf787793:
 
     # Victoria "Those are the basis of the principles of the Adderin house."
-    Victoria ""
+    Victoria "'yun ang mga batayan ng mga prinsipyo ng angkan ni Adderin."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:65
 translate philippine sheet_27_50fc92c4:
@@ -172,19 +172,19 @@ translate philippine sheet_27_50fc92c4:
 translate philippine sheet_27_41902f85:
 
     # Victoria "She chose to acquire all knowledge of the nature of magic..."
-    Victoria ""
+    Victoria "Pinili niyang hanaping ang lahat ng nilalaman ng mahika..."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:67
 translate philippine sheet_27_f3b0cfee:
 
     # Victoria "Forsaking her personal ambitions."
-    Victoria ""
+    Victoria "At baliwalain ang kanyang mga ambisyon."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:68
 translate philippine sheet_27_b9e78c06:
 
     # Victoria "The Crowhive house is for people who are ready to continue her journey."
-    Victoria ""
+    Victoria "Para sa mga handang sumunod sa kanya ang angkan ng Crowhive."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:73
 translate philippine sheet_27_6620202f:
@@ -196,85 +196,85 @@ translate philippine sheet_27_6620202f:
 translate philippine sheet_27_08e73e74:
 
     # Victoria "Many thought she was talentless! "
-    Victoria ""
+    Victoria "Akala ng iba na wala siyang talento!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:75
 translate philippine sheet_27_b26535d6:
 
     # Victoria "But became great by relying on hard work and patience."
-    Victoria ""
+    Victoria "Pero siya'y matiyaga at masikap."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:78
 translate philippine sheet_27_846ab114:
 
     # Victoria "Only with these qualities you can get into the Martenden house."
-    Victoria ""
+    Victoria "'Yun ang dapat nasa iyon kapag gusto mong pumasok sa Martenden."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:80
 translate philippine sheet_27_678f3dcd:
 
     # ch_Name "{i}(I hope I'm not the first to choose.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sana hindi ako ang mauuuna.){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:82
 translate philippine sheet_27_7d31fa79:
 
     # ch_Name "{i}(I don't want to end up on some loser house.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ayaw ko ng delikadong angkan.){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:84
 translate philippine sheet_27_2f7bd18d:
 
     # ch_Name "{i}(Alone, far away from all the hot chics I've met today.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Na ako lang, malayo sa mga babae na nakilala ko ngayong araw.){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:86
 translate philippine sheet_27_552a0b19:
 
     # Victoria "Alright, everything is ready for the ceremony!"
-    Victoria ""
+    Victoria "Sige, handa na ang lahat para sa ritwal!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:88
 translate philippine sheet_27_7d6b1319:
 
     # Victoria "So, the person I'll name should come to the table."
-    Victoria ""
+    Victoria "Tatawagin ko ang pangalan ng taong pupunta sa mesa."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:90
 translate philippine sheet_27_de96592c:
 
     # Victoria "Put his or her hand over the right page."
-    Victoria ""
+    Victoria "Ilagay niya ang kanyang kamay sa kanang pahina."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:92
 translate philippine sheet_27_d102de02:
 
     # Victoria "And tell us where the book sorted him or her."
-    Victoria ""
+    Victoria "At sabihin kung saan siya inilagay ng libro."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:94
 translate philippine sheet_27_a6c9909b:
 
     # ch_Name "How will we know?"
-    ch_Name ""
+    ch_Name "Paano namin malaman?"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:96
 translate philippine sheet_27_1a92f1d0:
 
     # Victoria "Trust me, you'll know."
-    Victoria ""
+    Victoria "Magtiwala kayo, malaman ninyo 'yan."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:98
 translate philippine sheet_27_44c75612:
 
     # Victoria "So, the first person is..."
-    Victoria ""
+    Victoria "Ang unang tao ay..."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:100
 translate philippine sheet_27_2ba1eae5:
 
     # Victoria "Hm, let's see..."
-    Victoria ""
+    Victoria "Tignan natin..."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:102
 translate philippine sheet_27_92004551:
@@ -292,31 +292,31 @@ translate philippine sheet_27_2f82bef4:
 translate philippine sheet_27_a8854110:
 
     # Lily "Drag, I wanted to be the first!"
-    Lily ""
+    Lily "Aw, gusto ko sanang mauna."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:108
 translate philippine sheet_27_95f55978:
 
     # ch_Name "These two... Are they ever nervous?"
-    ch_Name ""
+    ch_Name "Kailanman ba sila kinakabahan?"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:110
 translate philippine sheet_27_2214304f:
 
     # Naomi "Alright, book!"
-    Naomi ""
+    Naomi "Libro!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:112
 translate philippine sheet_27_d650531e:
 
     # Naomi "You know what to do."
-    Naomi ""
+    Naomi "Alam mo ang gagawin mo."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:114
 translate philippine sheet_27_98565ff7:
 
     # Naomi "Adderin or nothing."
-    Naomi ""
+    Naomi "Adderin o wala na."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:118
 translate philippine sheet_27_d4d031d0:
@@ -328,7 +328,7 @@ translate philippine sheet_27_d4d031d0:
 translate philippine sheet_27_771dd677:
 
     # Naomi "I feel..."
-    Naomi ""
+    Naomi "Maramdaman ko..."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:120
 translate philippine sheet_27_ead01f6c:
@@ -370,19 +370,19 @@ translate philippine sheet_27_389b346c:
 translate philippine sheet_27_e7f95bd6:
 
     # Victoria "Those who were sorted - please exit to the Inner Garden."
-    Victoria ""
+    Victoria "Ang mga may angkan na - labas kayo at maghintay sa Inner Garden. "
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:133
 translate philippine sheet_27_f8cade94:
 
     # Victoria "Your prefects will meet you there."
-    Victoria ""
+    Victoria "Hahanapin kayo ng mga prefect ninyo."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:135
 translate philippine sheet_27_3a08ff3d:
 
     # Victoria "Next up... "
-    Victoria ""
+    Victoria "Ang susunod..."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:137
 translate philippine sheet_27_440bf3d2:
@@ -394,55 +394,55 @@ translate philippine sheet_27_440bf3d2:
 translate philippine sheet_27_9007572e:
 
     # Haley "Oh gosh... I'm so nervous!"
-    Haley ""
+    Haley "Natatakot na ako!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:141
 translate philippine sheet_27_c7c367c5:
 
     # ch_Name "Do you know where you wanna end up?"
-    ch_Name ""
+    ch_Name "Alam mo ba kung saan ka ilalagay?"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:143
 translate philippine sheet_27_0d9f599a:
 
     # Haley "I gave it a thought..."
-    Haley ""
+    Haley "Naisip ko 'yun..."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:145
 translate philippine sheet_27_ad70b619:
 
     # Haley "I'd either be Leonheart or Crowhive."
-    Haley ""
+    Haley "Sana Leonheart o Crowhive."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:147
 translate philippine sheet_27_65346e11:
 
     # ch_Name "Nice choice, I guess. Good luck!"
-    ch_Name ""
+    ch_Name "Mabuti 'yan. Good luck!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:149
 translate philippine sheet_27_d356a16a:
 
     # Haley "Thank you. "
-    Haley ""
+    Haley "Salamat."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:151
 translate philippine sheet_27_f6b2f095:
 
     # ch_Name "{i}(I need to think of the house I want to join...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pag-iisipan ko nga ang angkan na gusto ko...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:153
 translate philippine sheet_27_5952edb2:
 
     # ch_Name "{i}(Maybe the book feels such things.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Siguro mararamdaman 'yan ng libro.){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:155
 translate philippine sheet_27_3e70098a:
 
     # Haley "I'm ready!"
-    Haley ""
+    Haley "Handa na ako!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:164
 translate philippine sheet_27_d1986f9f:
@@ -460,13 +460,13 @@ translate philippine sheet_27_bf9d4a3e:
 translate philippine sheet_27_e869c2a9:
 
     # Haley "It's so...{w} beautiful!"
-    Haley ""
+    Haley "Ang... {w} ganda!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:167
 translate philippine sheet_27_b808e6d3:
 
     # Haley "What's happening to me?"
-    Haley ""
+    Haley "Ano ang nagyayari sa akin?"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:169
 translate philippine sheet_27_c9560cb2:
@@ -490,7 +490,7 @@ translate philippine sheet_27_c9560cb2_1:
 translate philippine sheet_27_9c3b69ff:
 
     # Haley "I'm Leonheart!{w} Yeah!"
-    Haley ""
+    Haley "Leonheart ako!{w} Aha!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:178
 translate philippine sheet_27_389b346c_1:
@@ -502,13 +502,13 @@ translate philippine sheet_27_389b346c_1:
 translate philippine sheet_27_aef6bd95:
 
     # Victoria "Alright! "
-    Victoria ""
+    Victoria "Magaling!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:182
 translate philippine sheet_27_a1dbb544:
 
     # Victoria "Next is... "
-    Victoria ""
+    Victoria "Ang susunod naman ay si..."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:184
 translate philippine sheet_27_56d368ff:
@@ -526,7 +526,7 @@ translate philippine sheet_27_4763922b:
 translate philippine sheet_27_fbaa78ee:
 
     # Lily "It's my turn!"
-    Lily ""
+    Lily "Ako naman!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:190
 translate philippine sheet_27_a1c9116c:
@@ -544,19 +544,19 @@ translate philippine sheet_27_08c20d15:
 translate philippine sheet_27_50e731fc:
 
     # Lily "Leonheart, please!"
-    Lily ""
+    Lily "Pakiusap ko po, Leonheart!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:199
 translate philippine sheet_27_8c0915e8:
 
     # Lily "How intriguing!"
-    Lily ""
+    Lily "Nakakaiba kaya!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:200
 translate philippine sheet_27_f3c3a17c:
 
     # Lily "Please, let it be Leonheart!"
-    Lily ""
+    Lily "Sana Leonheart!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:201
 translate philippine sheet_27_aedf1fff:
@@ -592,13 +592,13 @@ translate philippine sheet_27_ac2c897f:
 translate philippine sheet_27_389b346c_2:
 
     # Victoria "Congratulations!"
-    Victoria ""
+    Victoria "Mabuti 'yan"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:214
 translate philippine sheet_27_e5bbbdee:
 
     # Victoria "And the next one is..."
-    Victoria ""
+    Victoria "Ang sunod..."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:216
 translate philippine sheet_27_8661ed23:
@@ -610,109 +610,109 @@ translate philippine sheet_27_8661ed23:
 translate philippine sheet_27_510c73a2:
 
     # ch_Name "{i}(Yes!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ako na!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:220
 translate philippine sheet_27_cce502b8:
 
     # ch_Name "{i}(Where do I wanna get?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Saan akong angkan?){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:222
 translate philippine sheet_27_3d1e8b84:
 
     # ch_Name "{i}(Every house got some juice...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bawat angkan may mga diyosa...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:224
 translate philippine sheet_27_36eb7d6c:
 
     # ch_Name "{i}(I know nothing about girls in Marteden and Crowhive...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pero wala akong nakilalang babae sa Marteden at Crowhive...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:226
 translate philippine sheet_27_a9eee12d:
 
     # ch_Name "{i}(While both Leonheart and Adderin got some juice.){/i}"
-    ch_Name ""
+    ch_Name "{i}(At ang mga kilala ko'y nasa Leonheart at Adderin.){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:228
 translate philippine sheet_27_e7d94bac:
 
     # ch_Name "{i}(Anyway, it's up to the book to decide.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bahala na, ang libro ang pipili.){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:230
 translate philippine sheet_27_77fe89f0:
 
     # Victoria "Are you ready for the ceremony?"
-    Victoria ""
+    Victoria "Handa ka na para sa ritwal?"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:239
 translate philippine test_sheet_27_d4c2202d:
 
     # ch_Name "How does choosing a house affect us?"
-    ch_Name ""
+    ch_Name "Paano ba nakakaapekto ang angkan sa amin?"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:241
 translate philippine test_sheet_27_ea9c9985:
 
     # Victoria "It is a great honor and an even greater responsibility to represent your house."
-    Victoria ""
+    Victoria "Karangalan at responsibilidad ang pagkakatawan ng inyong angkan."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:243
 translate philippine test_sheet_27_a912cb4c:
 
     # Victoria "The houses compete each year to see who is the best..."
-    Victoria ""
+    Victoria "Lumalahok ang mga angkan bawat linggo para makita kung sino ang pinakamagaling..."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:244
 translate philippine test_sheet_27_e865954a:
 
     # Victoria "...and they also receive incredible awards."
-    Victoria ""
+    Victoria "...at makukuha kayo ng mga darakilang parangal."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:247
 translate philippine test_sheet_27_35c3980f:
 
     # Victoria "The house with the most points at the end of the year wins."
-    Victoria ""
+    Victoria "Ang angkan na may pinakamaraming puntos sa pagtatapos ng taon ay mananalo."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:249
 translate philippine test_sheet_27_c6a9a807:
 
     # Victoria "All your academic success will earn points..."
-    Victoria ""
+    Victoria "Ang pag-aaral ay nagbibigay ng puntos..."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:252
 translate philippine test_sheet_27_56012d2b:
 
     # Victoria "…but disciplinary offenses will, however, take them away."
-    Victoria ""
+    Victoria "pero ang paglabag ng mga batas ay bumabawas ng puntos."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:254
 translate philippine test_sheet_27_7156b113:
 
     # ch_Name "Understood. I'm ready."
-    ch_Name ""
+    ch_Name "Naiintindihan ko na. Handa na ako."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:257
 translate philippine sheet_27_put_your_hand_over_0238d127:
 
     # Victoria "Put your hand over the right page."
-    Victoria ""
+    Victoria "Ilagay ang kamay mo sa pahina."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:259
 translate philippine sheet_27_put_your_hand_over_2810d8ca:
 
     # ch_Name "Is that all?"
-    ch_Name ""
+    ch_Name "'Yan lang ba?"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:261
 translate philippine sheet_27_put_your_hand_over_6b9a2085:
 
     # Victoria "That's all."
-    Victoria ""
+    Victoria "'Yan lang."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:265
 translate philippine sheet_27_put_your_hand_over_939fcc22:
@@ -724,31 +724,31 @@ translate philippine sheet_27_put_your_hand_over_939fcc22:
 translate philippine sheet_27_put_your_hand_over_f8814035:
 
     # ch_Name "{i}(I was sure there would be some kind of trick...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Akala ko may sekreto pa...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:270
 translate philippine sheet_27_put_your_hand_over_0fa60224:
 
     # ch_Name "{i}(It feels so strange...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nakakaiba ang pakiramdam...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:271
 translate philippine sheet_27_put_your_hand_over_3249cf4c:
 
     # ch_Name "{i}(This energy that floats around the book...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ang lakas na nasa paligid ng libro...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:272
 translate philippine sheet_27_put_your_hand_over_7556ff6c:
 
     # ch_Name "{i}(It feels as if my hand is sinking into it...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parang sinusunggab nito ang kamay ko...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:273
 translate philippine sheet_27_put_your_hand_over_5ebf81a1:
 
     # ch_Name "{i}(Wait... What's happening?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sandali... Ano ang nangyayari?){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:283
 translate philippine sheet_27_put_your_hand_over_d8c9bf40:
@@ -760,9 +760,9 @@ translate philippine strings:
 
     # game/logic/episodes_after_first/ep2/sheet_27.rpy:233
     old "What does this choice mean?"
-    new ""
+    new "Ano ba ang ibig-sabihin nito?"
 
     # game/logic/episodes_after_first/ep2/sheet_27.rpy:233
     old "I'm ready"
-    new ""
+    new "Handa na ako"
 
