@@ -76,7 +76,7 @@ translate philippine sheet_27_30157c97:
 translate philippine sheet_27_e1462c7b:
 
     # Victoria "Just believe me that there are parts of their souls."
-    Victoria "Magtiwala lang kayo sa akin."
+    Victoria "Maniwala lang kayo sa akin."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:31
 translate philippine sheet_27_dae96228:
@@ -262,7 +262,7 @@ translate philippine sheet_27_a6c9909b:
 translate philippine sheet_27_1a92f1d0:
 
     # Victoria "Trust me, you'll know."
-    Victoria "Magtiwala kayo, malaman ninyo 'yan."
+    Victoria "Mamiwala kayo, malaman ninyo 'yan."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:98
 translate philippine sheet_27_44c75612:
