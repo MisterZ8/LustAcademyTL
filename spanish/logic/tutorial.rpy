@@ -52,487 +52,487 @@ translate spanish CordEntrance_label_2950cae5:
 translate spanish CordEntrance_label_df5a3cec:
 
     # Carter "Isn't that where I need to go?"
-    Carter ""
+    Carter "¿No es a donde tengo que ir?"
 
 # game/logic/tutorial.rpy:589
 translate spanish CordEntrance_label_c3688de3:
 
     # Jacob "I thought Crowhive took bright students."
-    Jacob ""
+    Jacob "Pensaba que Crowhive seleccionaba studiantes brillantes."
 
 # game/logic/tutorial.rpy:590
 translate spanish CordEntrance_label_26ca3eeb:
 
     # Jacob "It's sad to see Jaina's standards fall so low."
-    Jacob ""
+    Jacob "Es triste ver que los estándares de Jaina han caido tan bajo."
 
 # game/logic/tutorial.rpy:591
 translate spanish CordEntrance_label_f96d3ac5:
 
     # Jacob "First-year students have no business being on the second floor of the academy."
-    Jacob ""
+    Jacob "Los estudiantes de primer año no tienen por qué estar en el segundo piso de la academia."
 
 # game/logic/tutorial.rpy:592
 translate spanish CordEntrance_label_d3703568:
 
     # Carter "But, sir..."
-    Carter ""
+    Carter "Pero, señor..."
 
 # game/logic/tutorial.rpy:593
 translate spanish CordEntrance_label_37219890:
 
     # Carter "Where should I go then?"
-    Carter ""
+    Carter "¿Dónde debo ir entonces?"
 
 # game/logic/tutorial.rpy:595
 translate spanish CordEntrance_label_0fdab458:
 
     # Jacob "The entrance to the library and the classrooms is in the inner courtyard of the academy."
-    Jacob ""
+    Jacob "La entrada a la biblioteca y a las clases está en el patio interior de la academia."
 
 # game/logic/tutorial.rpy:596
 translate spanish CordEntrance_label_824eb68a:
 
     # Jacob "To get there, just go through one of the two arches on either side of the stairs."
-    Jacob ""
+    Jacob "Para llegar ahí, solo atraviesa uno de los dos arcos a cada lado de las escaleras."
 
 # game/logic/tutorial.rpy:597
 translate spanish CordEntrance_label_fca81d84:
 
     # Jacob "Then turn to left. You need the first door."
-    Jacob ""
+    Jacob "Luego gira a la izquierda. Es la primera puerta."
 
 # game/logic/tutorial.rpy:598
 translate spanish CordEntrance_label_4d0a14f3:
 
     # Carter "But there are so many arches..."
-    Carter ""
+    Carter "Pero hay muchísimos arcos..."
 
 # game/logic/tutorial.rpy:599
 translate spanish CordEntrance_label_b7843e2d:
 
     # Jacob "You're a messed up case, aren't you?"
-    Jacob ""
+    Jacob "Eres un caso perdido, ¿verdad?"
 
 # game/logic/tutorial.rpy:601
 translate spanish CordEntrance_label_0313eace:
 
     # Jacob "You need those arches over there. "
-    Jacob ""
+    Jacob "Los arcos de ahí son los que buscas."
 
 # game/logic/tutorial.rpy:602
 translate spanish CordEntrance_label_29142250:
 
     # Jacob "If you look from the entrance to the academy, they're straight ahead."
-    Jacob ""
+    Jacob "Si miras desde la entrada de la academia, están justo en frente."
 
 # game/logic/tutorial.rpy:603
 translate spanish CordEntrance_label_afff9aa0:
 
     # Jacob "I hope you can work it out from there, you were there when you took your exam."
-    Jacob ""
+    Jacob "Espero que te las puedas apañar a partir de ahí, estuviste ahí cuando hiciste el examen."
 
 # game/logic/tutorial.rpy:604
 translate spanish CordEntrance_label_f5190618:
 
     # Jacob "Do you understand?"
-    Jacob ""
+    Jacob "¿Lo has entendido?"
 
 # game/logic/tutorial.rpy:606
 translate spanish CordEntrance_label_91729c82:
 
     # Carter "I think so."
-    Carter ""
+    Carter "Eso creo."
 
 # game/logic/tutorial.rpy:607
 translate spanish CordEntrance_label_4614f3ee:
 
     # Carter "Thank you for your help."
-    Carter ""
+    Carter "Gracias por la ayuda."
 
 # game/logic/tutorial.rpy:608
 translate spanish CordEntrance_label_bc91fdd7:
 
     # Jacob "Don't mention it. Try to be more attentive, Mr Brown."
-    Jacob ""
+    Jacob "No hay de que. Intenta estar mas atento, Mr Brown."
 
 # game/logic/tutorial.rpy:609
 translate spanish CordEntrance_label_a8ebf1f0:
 
     # Jacob "The rules are there for a reason. It would be a shame to get expelled for such foolishness."
-    Jacob ""
+    Jacob "Las normas están ahí por algo. Sería una lástima que te expulsaran por semejante estupidez."
 
 # game/logic/tutorial.rpy:610
 translate spanish CordEntrance_label_7d6017ea:
 
     # Carter "Yes, sir."
-    Carter ""
+    Carter "Si, señor."
 
 # game/logic/tutorial.rpy:612
 translate spanish CordEntrance_label_b2235bb4:
 
     # ch_Name "{i}(Phew, it's a good thing I didn't have time to follow him.){/i}"
-    ch_Name ""
+    ch_Name "{i}("Uff, menos mal que no tuve tiempo de seguirlo.){/i}"
 
 # game/logic/tutorial.rpy:613
 translate spanish CordEntrance_label_7ca1a037:
 
     # ch_Name "{i}(Or I'd have gotten my ass kicked by Jacob.){/i}"
-    ch_Name ""
+    ch_Name "{i}(O Jacob me habría pateado el culo.){/i}"
 
 # game/logic/tutorial.rpy:614
 translate spanish CordEntrance_label_4ed7d299:
 
     # ch_Name "{i}(I wonder what's on the second floor that students aren't allowed up there.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Me pregunto que habrá en el segundo piso para que a los estudiantes no se les permita subir.){/i}"
 
 # game/logic/tutorial.rpy:615
 translate spanish CordEntrance_label_89fc7eb8:
 
     # ch_Name "{i}(Okay, I'll leave that out of my head now.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bueno, no le voy a dar mas vueltas ahora.){/i}"
 
 # game/logic/tutorial.rpy:617
 translate spanish CordEntrance_label_a185157a:
 
     # ch_Name "{i}(I have so much to do before school starts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tengo mucho por hacer antes de que empiece la escuela.){/i}"
 
 # game/logic/tutorial.rpy:618
 translate spanish CordEntrance_label_478994c0:
 
     # ch_Name "{i}(And first of all - learn how not to get lost here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Y antes que nada - aprender a no perderme por aquí.){/i}"
 
 # game/logic/tutorial.rpy:619
 translate spanish CordEntrance_label_53648e18:
 
     # ch_Name "{i}(There are entrances to the garden on either side of the stairs.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Las entradas al jardin estan a ambos lados de las escaleras.){/i}"
 
 # game/logic/tutorial.rpy:620
 translate spanish CordEntrance_label_f3ca9d12:
 
     # ch_Name "{i}(And that's all I need to know during my first year.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Para mi primer año eso es todo lo que necesito saber.){/i}"
 
 # game/logic/tutorial.rpy:633
 translate spanish CordGarden_label_e389e50c:
 
     # ch_Name "{i}(Well, here it is. The inner garden.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bueno, aquí está. El jardín interior.){/i}"
 
 # game/logic/tutorial.rpy:634
 translate spanish CordGarden_label_a89f8e02:
 
     # ch_Name "{i}(This place has a lot of doors and no signs whatsoever.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Este sitio tiene muchísimas puertas y ninguna señal.){/i}"
 
 # game/logic/tutorial.rpy:636
 translate spanish CordGarden_label_0526f213:
 
     # Joshi "Hey there!"
-    Joshi ""
+    Joshi "¡Hey!"
 
 # game/logic/tutorial.rpy:637
 translate spanish CordGarden_label_b9a2f748:
 
     # Joshi "Elijah?"
-    Joshi ""
+    Joshi "¿Elijah?"
 
 # game/logic/tutorial.rpy:638
 translate spanish CordGarden_label_d2b75454:
 
     # ch_Name "No, my name is [Name]. Why are you looking for Elijah?"
-    ch_Name ""
+    ch_Name "No, me llamo [Name]. ¿Para que buscas a Elijah?"
 
 # game/logic/tutorial.rpy:639
 translate spanish CordGarden_label_6a8823d6:
 
     # Joshi "Nevermind. Some business."
-    Joshi ""
+    Joshi "No importa. Negocios."
 
 # game/logic/tutorial.rpy:641
 translate spanish CordGarden_label_73f50c33:
 
     # Joshi "Wanna smoke?"
-    Joshi ""
+    Joshi "¿Fumas?"
 
 # game/logic/tutorial.rpy:642
 translate spanish CordGarden_label_ab7c8a20:
 
     # ch_Name "I didn't know you could smoke in here."
-    ch_Name ""
+    ch_Name "No sabía que se podía fumar aquí"
 
 # game/logic/tutorial.rpy:643
 translate spanish CordGarden_label_760df6d7:
 
     # Joshi "You can, as long as none of the teachers are watching."
-    Joshi ""
+    Joshi "Puedes, siempre que no te vea ningún profesor."
 
 # game/logic/tutorial.rpy:647
 translate spanish CordGarden_label_0a4f54a9:
 
     # ch_Name "{i}(Hmm. Why not? I'm done with my sports career anyway.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm. ¿Porque no? mi carrera deportiva ha terminado igualmente.){/i}"
 
 # game/logic/tutorial.rpy:649
 translate spanish CordGarden_label_6351b055:
 
     # ch_Name "I'll take it! Thanks."
-    ch_Name ""
+    ch_Name "¡Claro! Gracias."
 
 # game/logic/tutorial.rpy:650
 translate spanish CordGarden_label_2c25e386:
 
     # Joshi "Let me give you a light."
-    Joshi ""
+    Joshi "Toma aquí tienes fuego."
 
 # game/logic/tutorial.rpy:651
 translate spanish CordGarden_label_2f97a81b:
 
     # Joshi "No problem. I don't like smoking alone."
-    Joshi ""
+    Joshi "Sin problema. No me gusta fumar solo."
 
 # game/logic/tutorial.rpy:652
 translate spanish CordGarden_label_2f80a538:
 
     # ch_Name "{i}(Strange guy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vaya personaje.){/i}"
 
 # game/logic/tutorial.rpy:654
 translate spanish CordGarden_label_a1d2923d:
 
     # Joshi "Listen, can I ask your opinion?"
-    Joshi ""
+    Joshi "Escucha, ¿Puedo saber tu opinión?"
 
 # game/logic/tutorial.rpy:655
 translate spanish CordGarden_label_6e34bba6:
 
     # ch_Name "Go ahead."
-    ch_Name ""
+    ch_Name "Dispara."
 
 # game/logic/tutorial.rpy:656
 translate spanish CordGarden_label_7ad82520:
 
     # Joshi "Don't you think this place could use an upgrade?"
-    Joshi ""
+    Joshi "¿No crees que a este sitio le vendría bien una mejora?"
 
 # game/logic/tutorial.rpy:657
 translate spanish CordGarden_label_79f00acd:
 
     # ch_Name "Depends on what you're talking about."
-    ch_Name ""
+    ch_Name "Depende de a lo que te refieras."
 
 # game/logic/tutorial.rpy:658
 translate spanish CordGarden_label_9234c432:
 
     # Joshi "I mean, it's a hell of a place to find something."
-    Joshi ""
+    Joshi "Osea, es un sitio horrible para encontrar algo."
 
 # game/logic/tutorial.rpy:660
 translate spanish CordGarden_label_42f18015:
 
     # Joshi "Not a sign, not a map, like the supermarkets."
-    Joshi ""
+    Joshi "Ni una señal, ni un mapa, como los supermercados."
 
 # game/logic/tutorial.rpy:661
 translate spanish CordGarden_label_94f22a93:
 
     # Joshi "I've been going the wrong way all morning looking for the right offices."
-    Joshi ""
+    Joshi "Llevo toda la mañana perdido buscando el camino correcto."
 
 # game/logic/tutorial.rpy:662
 translate spanish CordGarden_label_ff262520:
 
     # ch_Name "Yeah, there's that."
-    ch_Name ""
+    ch_Name "Si, es cierto."
 
 # game/logic/tutorial.rpy:664
 translate spanish CordGarden_label_8bddcee8:
 
     # Joshi "Luckily, I haven't racked my brain yet."
-    Joshi ""
+    Joshi "Por suerte, todavía no me he arrancado el cerebro."
 
 # game/logic/tutorial.rpy:665
 translate spanish CordGarden_label_849dfb8b:
 
     # Joshi "And I've already studied and memorized everything."
-    Joshi ""
+    Joshi "Y ya me he estudiado y memorizado todo."
 
 # game/logic/tutorial.rpy:666
 translate spanish CordGarden_label_a63f3e45:
 
     # ch_Name "You have? That fast?"
-    ch_Name ""
+    ch_Name "¿Ah si? ¿Tan rápido?"
 
 # game/logic/tutorial.rpy:668
 translate spanish CordGarden_label_f7bff53b:
 
     # Joshi "Of course it is. You don't believe me?"
-    Joshi ""
+    Joshi "Por supuesto. ¿No me crees?"
 
 # game/logic/tutorial.rpy:669
 translate spanish CordGarden_label_7623e196:
 
     # ch_Name "No, why not, I do..."
-    ch_Name ""
+    ch_Name "No, por que no, yo..."
 
 # game/logic/tutorial.rpy:670
 translate spanish CordGarden_label_b9a64fc1:
 
     # Joshi "It's easy if you just remember the right places."
-    Joshi ""
+    Joshi "Es fácil si recuerdas los sitios importantes."
 
 # game/logic/tutorial.rpy:671
 translate spanish CordGarden_label_8db70d96:
 
     # Joshi "The room where the morning meeting was held on the track behind me."
-    Joshi ""
+    Joshi "La sala donde fue la reunión esta mañana está detras de mi"
 
 # game/logic/tutorial.rpy:672
 translate spanish CordGarden_label_50073e08:
 
     # Joshi "At the end of the courtyard."
-    Joshi ""
+    Joshi "Al final del patio."
 
 # game/logic/tutorial.rpy:674
 translate spanish CordGarden_label_028c7c85:
 
     # Joshi "Well, on the sides is all the fun stuff."
-    Joshi ""
+    Joshi "Bien, A los lados está la diversión"
 
 # game/logic/tutorial.rpy:675
 translate spanish CordGarden_label_feb7664c:
 
     # Joshi "On the left is the library and Victoria's classroom."
-    Joshi ""
+    Joshi "La biblioteca y la clase de Victoria están a la izquierda."
 
 # game/logic/tutorial.rpy:676
 translate spanish CordGarden_label_782b8053:
 
     # Joshi "And on the right is the cafe and Sabrina's class."
-    Joshi ""
+    Joshi "Y la clase de Sabrina y la cafetería a la derecha."
 
 # game/logic/tutorial.rpy:678
 translate spanish CordGarden_label_03c9e045:
 
     # Joshi "By the way, have you seen Sabrina yet? Dude, I'm still having a boner..."
-    Joshi ""
+    Joshi "Por cierto, ¿Has visto ya a Sabrina? Tío, Todavía sigo empalmado..."
 
 # game/logic/tutorial.rpy:679
 translate spanish CordGarden_label_ec91a5dc:
 
     # Joshi "I wonder if there's anything in the academy rules about student-teacher relations..."
-    Joshi ""
+    Joshi "Me pregunto si hay algo en las normas acerca de las relaciones entre profesores y alumnos..."
 
 # game/logic/tutorial.rpy:681
 translate spanish CordGarden_label_b4c8c248:
 
     # NoName "Ring-ring..."
-    NoName ""
+    NoName "Ring-ring..."
 
 # game/logic/tutorial.rpy:683
 translate spanish CordGarden_label_112c95db:
 
     # Joshi "Elijah. Why is he calling me?"
-    Joshi ""
+    Joshi "Elijah. ¿Por que me está llamando?"
 
 # game/logic/tutorial.rpy:684
 translate spanish CordGarden_label_210e23fc:
 
     # Joshi "Did I mess up the meeting place?"
-    Joshi ""
+    Joshi "¿La he liado con el sitio de la quedada?"
 
 # game/logic/tutorial.rpy:686
 translate spanish CordGarden_label_b12eabfd:
 
     # Joshi "Okay, it's important, I have to take this."
-    Joshi ""
+    Joshi "Ok, es importante, tengo que cogerlo."
 
 # game/logic/tutorial.rpy:687
 translate spanish CordGarden_label_9a7d0861:
 
     # Joshi "It was nice talking to you. Good luck."
-    Joshi ""
+    Joshi "Ha estado bien charlar contigo. Buena suerte."
 
 # game/logic/tutorial.rpy:688
 translate spanish CordGarden_label_a93d50a5:
 
     # ch_Name "You too."
-    ch_Name ""
+    ch_Name "Igualmente"
 
 # game/logic/tutorial.rpy:690
 translate spanish CordGarden_label_153814de:
 
     # ch_Name "{i}(What a weird guy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vaya personaje.){/i}"
 
 # game/logic/tutorial.rpy:691
 translate spanish CordGarden_label_f89e56dc:
 
     # ch_Name "{i}(And what business could he possibly have with Elijah?){/i}"
-    ch_Name ""
+    ch_Name "{i}(¿Que negocios tendrá este con Elijah?){/i}"
 
 # game/logic/tutorial.rpy:692
 translate spanish CordGarden_label_20277380:
 
     # ch_Name "{i}(Okay, I don't have time for that right now...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vale, no tengo tiempo para esto ahora...){/i}"
 
 # game/logic/tutorial.rpy:696
 translate spanish CordGarden_label_5fd89adf:
 
     # ch_Name "{i}(I may not be a soccer player anymore, but I'm not going to ruin my body.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Puede que ya no sea jugador de futbol, pero no me voy a joder el cuerpo.){/i}"
 
 # game/logic/tutorial.rpy:698
 translate spanish CordGarden_label_fc435854:
 
     # ch_Name "Thanks, I'll pass."
-    ch_Name ""
+    ch_Name "Gracias, Voy a pasar."
 
 # game/logic/tutorial.rpy:699
 translate spanish CordGarden_label_92ad7b29:
 
     # Joshi "It's up to you."
-    Joshi ""
+    Joshi "Como quieras."
 
 # game/logic/tutorial.rpy:700
 translate spanish CordGarden_label_41c699ca:
 
     # Joshi "Too bad, I don't like to smoke alone."
-    Joshi ""
+    Joshi "Que mal, no me gusta fumar solo."
 
 # game/logic/tutorial.rpy:702
 translate spanish CordGarden_label_a1d2923d_1:
 
     # Joshi "Listen, can I ask your opinion?"
-    Joshi ""
+    Joshi "Escucha, ¿Puedo saber tu opinión?"
 
 # game/logic/tutorial.rpy:703
 translate spanish CordGarden_label_6e34bba6_1:
 
     # ch_Name "Go ahead."
-    ch_Name ""
+    ch_Name "Dale"
 
 # game/logic/tutorial.rpy:704
 translate spanish CordGarden_label_7ad82520_1:
 
     # Joshi "Don't you think this place could use an upgrade?"
-    Joshi ""
+    Joshi "¿No crees que se podría mejorar este sitio?"
 
 # game/logic/tutorial.rpy:705
 translate spanish CordGarden_label_79f00acd_1:
 
     # ch_Name "Depends on what you're talking about."
-    ch_Name ""
+    ch_Name "Depende de a que te refieras."
 
 # game/logic/tutorial.rpy:706
 translate spanish CordGarden_label_883b147f:
 
     # Joshi "It's a hell of a place to find something."
-    Joshi ""
+    Joshi "Osea, es un sitio horrible para encontrar algo."
 
 # game/logic/tutorial.rpy:708
 translate spanish CordGarden_label_42f18015_1:
