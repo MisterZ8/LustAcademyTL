@@ -532,7 +532,7 @@ translate philippine sheet_20_menu_1_ans_2_73710bd5:
 translate philippine sheet_20_menu_1_ans_2_9d9cd2e0:
 
     # Victoria "Trust me, if you have the potential, it will happen. More questions?"
-    Victoria "Magtiwala ka sa akin, kapag may kaya ka, mangyayari 'yun. Iba pa?"
+    Victoria "Maniwala ka sa akin, kapag may kaya ka, mangyayari 'yun. Iba pa?"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:233
 translate philippine sheet_20_menu_1_ans_3_12fb96fc:
