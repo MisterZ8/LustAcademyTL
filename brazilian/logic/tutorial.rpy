@@ -4,373 +4,373 @@
 translate brazilian CordEntrance_label_b9a07f28:
 
     # ch_Name "{i}(The academy is so big. How is it even possible to remember where to go?){/i}"
-    ch_Name ""
+    ch_Name "{i}(A academia é tão grande. Como é possível lembrar pra onde devo ir?){/i}"
 
 # game/logic/tutorial.rpy:579
 translate brazilian CordEntrance_label_3165fc11:
 
     # ch_Name "{i}(I think the guy going up the stairs is also a freshman.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu acho que o cara subindo as escadas também é um calouro.){/i}"
 
 # game/logic/tutorial.rpy:580
 translate brazilian CordEntrance_label_016e0679:
 
     # ch_Name "{i}(But why is he going there? Should I follow him?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas por que ele está indo la? Devo segui-lo?){/i}"
 
 # game/logic/tutorial.rpy:582
 translate brazilian CordEntrance_label_d0e1233a:
 
     # Jacob "Where do you think you're going, Mr. Brown?"
-    Jacob ""
+    Jacob "Onde pensa que esta indo, Sr. Brown?"
 
 # game/logic/tutorial.rpy:583
 translate brazilian CordEntrance_label_4b7232ff:
 
     # Carter "Good afternoon, Mr. Frollo."
-    Carter ""
+    Carter "Boa tarde, Sr. Frollo."
 
 # game/logic/tutorial.rpy:584
 translate brazilian CordEntrance_label_77d471be:
 
     # Carter "Ehm... Where? Why..."
-    Carter ""
+    Carter "An... Onde? Por que..."
 
 # game/logic/tutorial.rpy:585
 translate brazilian CordEntrance_label_00959311:
 
     # Carter "I mean, yeah, I was going to the libraries and to class."
-    Carter ""
+    Carter "Quer dizer, isso, eu estava indo para a biblioteca e para a sala"
 
 # game/logic/tutorial.rpy:586
 translate brazilian CordEntrance_label_2950cae5:
 
     # Jacob "And what are you doing on the second floor, then?"
-    Jacob ""
+    Jacob "E o que você esta fazendo no segundo andar, então?"
 
 # game/logic/tutorial.rpy:588
 translate brazilian CordEntrance_label_df5a3cec:
 
     # Carter "Isn't that where I need to go?"
-    Carter ""
+    Carter "Não é onde eu deveria ir?"
 
 # game/logic/tutorial.rpy:589
 translate brazilian CordEntrance_label_c3688de3:
 
     # Jacob "I thought Crowhive took bright students."
-    Jacob ""
+    Jacob "Eu pensei que Crowhive acolhece estudantes brilhantes."
 
 # game/logic/tutorial.rpy:590
 translate brazilian CordEntrance_label_26ca3eeb:
 
     # Jacob "It's sad to see Jaina's standards fall so low."
-    Jacob ""
+    Jacob "É triste ver os padrões de Jaina cairem tanto."
 
 # game/logic/tutorial.rpy:591
 translate brazilian CordEntrance_label_f96d3ac5:
 
     # Jacob "First-year students have no business being on the second floor of the academy."
-    Jacob ""
+    Jacob "Estudantes do primeiro ano não tem porque estarem no segundo andar da academia."
 
 # game/logic/tutorial.rpy:592
 translate brazilian CordEntrance_label_d3703568:
 
     # Carter "But, sir..."
-    Carter ""
+    Carter "Mas, senhor..."
 
 # game/logic/tutorial.rpy:593
 translate brazilian CordEntrance_label_37219890:
 
     # Carter "Where should I go then?"
-    Carter ""
+    Carter "Onde eu deveria ir então?"
 
 # game/logic/tutorial.rpy:595
 translate brazilian CordEntrance_label_0fdab458:
 
     # Jacob "The entrance to the library and the classrooms is in the inner courtyard of the academy."
-    Jacob ""
+    Jacob "A entrada para a biblioteca e para as salas de aula ficam no pátio interno da academia."
 
 # game/logic/tutorial.rpy:596
 translate brazilian CordEntrance_label_824eb68a:
 
     # Jacob "To get there, just go through one of the two arches on either side of the stairs."
-    Jacob ""
+    Jacob "Para ir la, só atravesse um dos arcos que estão em cada lado da escada."
 
 # game/logic/tutorial.rpy:597
 translate brazilian CordEntrance_label_fca81d84:
 
     # Jacob "Then turn to left. You need the first door."
-    Jacob ""
+    Jacob "E vire à esquerda. É a primeira porta."
 
 # game/logic/tutorial.rpy:598
 translate brazilian CordEntrance_label_4d0a14f3:
 
     # Carter "But there are so many arches..."
-    Carter ""
+    Carter "Mas tem tantos arcos..."
 
 # game/logic/tutorial.rpy:599
 translate brazilian CordEntrance_label_b7843e2d:
 
     # Jacob "You're a messed up case, aren't you?"
-    Jacob ""
+    Jacob "Você é uma caso perdido, não é?"
 
 # game/logic/tutorial.rpy:601
 translate brazilian CordEntrance_label_0313eace:
 
     # Jacob "You need those arches over there. "
-    Jacob ""
+    Jacob "São aqueles arcos ali."
 
 # game/logic/tutorial.rpy:602
 translate brazilian CordEntrance_label_29142250:
 
     # Jacob "If you look from the entrance to the academy, they're straight ahead."
-    Jacob ""
+    Jacob "Se você olha pela entrada da academia, eles estão bem na frente."
 
 # game/logic/tutorial.rpy:603
 translate brazilian CordEntrance_label_afff9aa0:
 
     # Jacob "I hope you can work it out from there, you were there when you took your exam."
-    Jacob ""
+    Jacob "Espero que consiga desenrolar a partir daí, você esteve la quando fez o teste."
 
 # game/logic/tutorial.rpy:604
 translate brazilian CordEntrance_label_f5190618:
 
     # Jacob "Do you understand?"
-    Jacob ""
+    Jacob "Entendeu?"
 
 # game/logic/tutorial.rpy:606
 translate brazilian CordEntrance_label_91729c82:
 
     # Carter "I think so."
-    Carter ""
+    Carter "Acho que sim."
 
 # game/logic/tutorial.rpy:607
 translate brazilian CordEntrance_label_4614f3ee:
 
     # Carter "Thank you for your help."
-    Carter ""
+    Carter "Obrigado pela ajuda."
 
 # game/logic/tutorial.rpy:608
 translate brazilian CordEntrance_label_bc91fdd7:
 
     # Jacob "Don't mention it. Try to be more attentive, Mr Brown."
-    Jacob ""
+    Jacob "Disponha. Tente prestar mais atenção, Sr. Brown."
 
 # game/logic/tutorial.rpy:609
 translate brazilian CordEntrance_label_a8ebf1f0:
 
     # Jacob "The rules are there for a reason. It would be a shame to get expelled for such foolishness."
-    Jacob ""
+    Jacob "As regra existem por uma razão. Seria uma pena ser expulso por uma tolisse."
 
 # game/logic/tutorial.rpy:610
 translate brazilian CordEntrance_label_7d6017ea:
 
     # Carter "Yes, sir."
-    Carter ""
+    Carter "Sim, senhor."
 
 # game/logic/tutorial.rpy:612
 translate brazilian CordEntrance_label_b2235bb4:
 
     # ch_Name "{i}(Phew, it's a good thing I didn't have time to follow him.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ufa, foi bom eu não ter o seguido a tempo.){/i}"
 
 # game/logic/tutorial.rpy:613
 translate brazilian CordEntrance_label_7ca1a037:
 
     # ch_Name "{i}(Or I'd have gotten my ass kicked by Jacob.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ou eu teria levado um esporro do Jacob.){/i}"
 
 # game/logic/tutorial.rpy:614
 translate brazilian CordEntrance_label_4ed7d299:
 
     # ch_Name "{i}(I wonder what's on the second floor that students aren't allowed up there.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Me pergunto o que tem no segundo andar que estudantes não são permitidos la.){/i}"
 
 # game/logic/tutorial.rpy:615
 translate brazilian CordEntrance_label_89fc7eb8:
 
     # ch_Name "{i}(Okay, I'll leave that out of my head now.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ok, vou deixar isso pra lá agora.){/i}"
 
 # game/logic/tutorial.rpy:617
 translate brazilian CordEntrance_label_a185157a:
 
     # ch_Name "{i}(I have so much to do before school starts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu tenho tanta coisa pra fazer antes de começar as aulas.){/i}"
 
 # game/logic/tutorial.rpy:618
 translate brazilian CordEntrance_label_478994c0:
 
     # ch_Name "{i}(And first of all - learn how not to get lost here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(E antes de tudo - aprender a não se perder aqui.){/i}"
 
 # game/logic/tutorial.rpy:619
 translate brazilian CordEntrance_label_53648e18:
 
     # ch_Name "{i}(There are entrances to the garden on either side of the stairs.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tem entradas pro jardem em ambos os lados das escadas.){/i}"
 
 # game/logic/tutorial.rpy:620
 translate brazilian CordEntrance_label_f3ca9d12:
 
     # ch_Name "{i}(And that's all I need to know during my first year.){/i}"
-    ch_Name ""
+    ch_Name "{i}(E isso é tudo que preciso saber durante o primeiro ano.){/i}"
 
 # game/logic/tutorial.rpy:633
 translate brazilian CordGarden_label_e389e50c:
 
     # ch_Name "{i}(Well, here it is. The inner garden.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bom, é aqui, o jardim interno.){/i}"
 
 # game/logic/tutorial.rpy:634
 translate brazilian CordGarden_label_a89f8e02:
 
     # ch_Name "{i}(This place has a lot of doors and no signs whatsoever.){/i}"
-    ch_Name ""
+    ch_Name "Esses lugar tem um monte de porta de nada de placas.{/i}"
 
 # game/logic/tutorial.rpy:636
 translate brazilian CordGarden_label_0526f213:
 
     # Joshi "Hey there!"
-    Joshi ""
+    Joshi "Ei você!"
 
 # game/logic/tutorial.rpy:637
 translate brazilian CordGarden_label_b9a2f748:
 
     # Joshi "Elijah?"
-    Joshi ""
+    Joshi "Elijah?"
 
 # game/logic/tutorial.rpy:638
 translate brazilian CordGarden_label_d2b75454:
 
     # ch_Name "No, my name is [Name]. Why are you looking for Elijah?"
-    ch_Name ""
+    ch_Name "Não, meu nome é [Name]. Porque você ta procurando o Elijah?"
 
 # game/logic/tutorial.rpy:639
 translate brazilian CordGarden_label_6a8823d6:
 
     # Joshi "Nevermind. Some business."
-    Joshi ""
+    Joshi "Nada não, alguns assuntos."
 
 # game/logic/tutorial.rpy:641
 translate brazilian CordGarden_label_73f50c33:
 
     # Joshi "Wanna smoke?"
-    Joshi ""
+    Joshi "Quer fumar?"
 
 # game/logic/tutorial.rpy:642
 translate brazilian CordGarden_label_ab7c8a20:
 
     # ch_Name "I didn't know you could smoke in here."
-    ch_Name ""
+    ch_Name "Não sabie que podia fumar aqui."
 
 # game/logic/tutorial.rpy:643
 translate brazilian CordGarden_label_760df6d7:
 
     # Joshi "You can, as long as none of the teachers are watching."
-    Joshi ""
+    Joshi "Você pode, contanto que nenhum professor veja."
 
 # game/logic/tutorial.rpy:647
 translate brazilian CordGarden_label_0a4f54a9:
 
     # ch_Name "{i}(Hmm. Why not? I'm done with my sports career anyway.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm. Porque não? Já terminei minha carreira esportiva mesmo.){/i}"
 
 # game/logic/tutorial.rpy:649
 translate brazilian CordGarden_label_6351b055:
 
     # ch_Name "I'll take it! Thanks."
-    ch_Name ""
+    ch_Name "Eu topo, Valeu."
 
 # game/logic/tutorial.rpy:650
 translate brazilian CordGarden_label_2c25e386:
 
     # Joshi "Let me give you a light."
-    Joshi ""
+    Joshi "Deixa eu acender pra você"
 
 # game/logic/tutorial.rpy:651
 translate brazilian CordGarden_label_2f97a81b:
 
     # Joshi "No problem. I don't like smoking alone."
-    Joshi ""
+    Joshi "Relaxa, não gosto de fumar sozinho."
 
 # game/logic/tutorial.rpy:652
 translate brazilian CordGarden_label_2f80a538:
 
     # ch_Name "{i}(Strange guy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Cara estranho.){/i}"
 
 # game/logic/tutorial.rpy:654
 translate brazilian CordGarden_label_a1d2923d:
 
     # Joshi "Listen, can I ask your opinion?"
-    Joshi ""
+    Joshi "Escuta, posso pedir sua opinião?"
 
 # game/logic/tutorial.rpy:655
 translate brazilian CordGarden_label_6e34bba6:
 
     # ch_Name "Go ahead."
-    ch_Name ""
+    ch_Name "Vá em frente."
 
 # game/logic/tutorial.rpy:656
 translate brazilian CordGarden_label_7ad82520:
 
     # Joshi "Don't you think this place could use an upgrade?"
-    Joshi ""
+    Joshi "Você acha que esse lugar precisa de uns retoques?"
 
 # game/logic/tutorial.rpy:657
 translate brazilian CordGarden_label_79f00acd:
 
     # ch_Name "Depends on what you're talking about."
-    ch_Name ""
+    ch_Name "Depende do que você se refere."
 
 # game/logic/tutorial.rpy:658
 translate brazilian CordGarden_label_9234c432:
 
     # Joshi "I mean, it's a hell of a place to find something."
-    Joshi ""
+    Joshi "Assim, é um ótimo lugar pra encontrar algo."
 
 # game/logic/tutorial.rpy:660
 translate brazilian CordGarden_label_42f18015:
 
     # Joshi "Not a sign, not a map, like the supermarkets."
-    Joshi ""
+    Joshi "Nenhuma placa, nenhum mapa, como nos supermercados."
 
 # game/logic/tutorial.rpy:661
 translate brazilian CordGarden_label_94f22a93:
 
     # Joshi "I've been going the wrong way all morning looking for the right offices."
-    Joshi ""
+    Joshi "Eu to errando o caminho a manhã toda procurando as oficinas certas."
 
 # game/logic/tutorial.rpy:662
 translate brazilian CordGarden_label_ff262520:
 
     # ch_Name "Yeah, there's that."
-    ch_Name ""
+    ch_Name "É, tem isso."
 
 # game/logic/tutorial.rpy:664
 translate brazilian CordGarden_label_8bddcee8:
 
     # Joshi "Luckily, I haven't racked my brain yet."
-    Joshi ""
+    Joshi "Felizmente, eu não endoidei da cabeça ainda."
 
 # game/logic/tutorial.rpy:665
 translate brazilian CordGarden_label_849dfb8b:
 
     # Joshi "And I've already studied and memorized everything."
-    Joshi ""
+    Joshi "E eu já estudei e memorizei tudo."
 
 # game/logic/tutorial.rpy:666
 translate brazilian CordGarden_label_a63f3e45:
 
     # ch_Name "You have? That fast?"
-    ch_Name ""
+    ch_Name "Já, rápido assim?"
 
 # game/logic/tutorial.rpy:668
 translate brazilian CordGarden_label_f7bff53b:
 
     # Joshi "Of course it is. You don't believe me?"
-    Joshi ""
+    Joshi "Claro que é. Não acredita em mim?"
 
 # game/logic/tutorial.rpy:669
 translate brazilian CordGarden_label_7623e196:
@@ -382,7 +382,7 @@ translate brazilian CordGarden_label_7623e196:
 translate brazilian CordGarden_label_b9a64fc1:
 
     # Joshi "It's easy if you just remember the right places."
-    Joshi ""
+    Joshi "É facil se você lembrar dos lugares certos"
 
 # game/logic/tutorial.rpy:671
 translate brazilian CordGarden_label_8db70d96:
@@ -394,7 +394,7 @@ translate brazilian CordGarden_label_8db70d96:
 translate brazilian CordGarden_label_50073e08:
 
     # Joshi "At the end of the courtyard."
-    Joshi ""
+    Joshi "No final do pátio"
 
 # game/logic/tutorial.rpy:674
 translate brazilian CordGarden_label_028c7c85:
