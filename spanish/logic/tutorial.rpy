@@ -1338,297 +1338,297 @@ translate spanish strings:
 
     # game/logic/tutorial.rpy:19
     old "The practical Potions class is self-guided. This tutorial will help you figure out how to discover new recipes and brew elixirs using recipes you've already learned."
-    new ""
+    new "La clase práctica de pociones es autoguiada. Este tutorial te ayudará a entender como descubrir nuevas recetas y crear elixires con las recetas que ya posees."
 
     # game/logic/tutorial.rpy:19
     old "This recipe has already been studied. Just click on Add to have all the necessary ingredients ready to mix"
-    new ""
+    new "Ya has estudiado esta receta. Pulsa en Añadir para tener todos los ingredientes necesarios listos para la mezcla. "
 
     # game/logic/tutorial.rpy:19
     old "You can learn the new recipes by visiting Sabrina's lectures, or you can try to discover them yourself."
-    new ""
+    new "Puedes aprender nuevas recetas asistiendo a las clases de Sabrina, o puedes intentar descubrirlas por tu cuenta."
 
     # game/logic/tutorial.rpy:19
-    old "To do this, select any three ingredients you like and see what you get out of them. If your mix issuccessful, the new recipe will immediately be added to your recipes book You only get one try at each lesson. You decide whether to brew a well-known elixir or conduct an experiment."
-    new ""
+    old "To do this, select any three ingredients you like and see what you get out of them. If your mix is successful, the new recipe will immediately be added to your recipes book You only get one try at each lesson. You decide whether to brew a well-known elixir or conduct an experiment."
+    new "Para hacerlo, selecciona tres ingredientes que te gusten y observa lo que sucede. Si los mezclas con éxito, la nueva receta será añadida inmediatamente a tu libro de recetas, solo tienes un intento en cada clase. Decide si quieres crear una poción ya conocida o realizar un experimento."
 
     # game/logic/tutorial.rpy:19
     old "These ingredients are provided to students by the Academy for free and unlimited. When you happen to find rare reagents, they will go into this menu with the available quantity shown."
-    new ""
+    new "La academia provee estos ingredientes de forma gratuita e ilimitada. Si consigues encontrar ingredientes raros, aparecerán en este menu mostrando la cantidad disponible. "
 
     # game/logic/tutorial.rpy:19
     old "The selected ingredients will go here. If you need to cancel your selection, click on the unwanted ingredient to clear the box. When you are ready, click on the MIX button."
-    new ""
+    new "Los ingredientes seleccionados irán aquí. Si necesitas cancelar tu selección, pulsa en el ingrediente que no quieras para vaciar la caja. Cuando estés listo, pulsa eb el botón MEZCLAR. "
 
     # game/logic/tutorial.rpy:19
     old "You'll find out the result of your experiments here. All elixirs brewed in practice classes stay with the students, meaning your's went into your inventory. Combat elixirs can be used at the dueling club."
-    new ""
+    new "Puedes encontrar el resultado de tu experimento aquí. Todos las pociones creadas en las clases prácticas son para los estudiantes, por tanto los tuyos irán a tu inventario. Las pociones de combate pueden usarse en el club de duelo."
 
     # game/logic/tutorial.rpy:19
     old "You can start practicing. You can use this button anytime to watch this tutorial again and refresh your memory. Good luck!"
-    new ""
+    new "Ya puedes empezar a practicar. Puedes pulsar este botón en cualquier momento para refrescar tu memoria viendo de nuevo el tutorial. ¡Buena suerte!"
 
     # game/logic/tutorial.rpy:19
     old "Here you can find information about every character you’ve met: their description, relationship towards your hero, quest logs, and list of interesting scenes."
-    new ""
+    new "Aquí puedes encontrar información acerca de todos los personajes que has conocido: su descripción, relacion con tu heroe, registros de misiones y listas de interesantes escenas."
 
     # game/logic/tutorial.rpy:19
     old "List of all characters in game, sorted from A to Z and their current route progression. You can click on any character from the list to get more detailed info."
-    new ""
+    new "Lista de todos los personajes del juego, ordenados de la A a la Z y su progresión de ruta actual. Puedes pulsar en cualquier personaje de la lista para conseguir información más detallada."
 
     # game/logic/tutorial.rpy:19
     old "Use the star icon to mark favorite characters. They will always appear at the top of the list."
-    new ""
+    new "Usa el icono de la estrella para marcar a tus personajes favoritos. Siempre aparecerán los primeros en la lista."
 
     # game/logic/tutorial.rpy:19
     old "Click here to find a short character description, including full name, age, etc."
-    new ""
+    new "Pulsa aquí para encontrar una pequeña descripción del personaje, incluye el nombre completo, edad, etc."
 
     # game/logic/tutorial.rpy:19
     old "This bar represents the history of the relationship with this character. You can click on the completed steps to refresh your memory."
-    new ""
+    new "Esta barra representa el historial de la relación con este personaje. Puedes pulsar en los hitos completados para refrescar tu memoria."
 
     # game/logic/tutorial.rpy:19
     old "This icon means that at this step, the story of the relationship with the character is suspended in the current release of the game but will continue in the future."
-    new ""
+    new "Este icono significa que en este hito, la historia de la relación con el personaje está suspendida en la versión actual del juego pero continuará en el futuro"
 
     # game/logic/tutorial.rpy:19
     old "Learn the requirements for the next step of this route, as well as the place and time for the next scene."
-    new ""
+    new "Aprende los requisitos para el siguiente hito de la ruta, así como el lugar y la hora de la siguiente escena."
 
     # game/logic/tutorial.rpy:19
     old "When the requirements are met, this status bar will turn green and you’ll get access to the fast travel button that will get you to the scene."
-    new ""
+    new "Cuando cumplas los requisitos establecidos, esta barra se pondrá verde y entonces tendrás acceso al botón de viaje rápido que te llevará a la escena."
 
     # game/logic/tutorial.rpy:19
     old "This app is for sharing and discussing photos. Here you can see new photos of people you’ve met and leave your comments."
-    new ""
+    new "Esta app es para compartir y comentar fotos. Aquí puedes ver las nuevas fotos de la gente que conoces y comentarlas."
 
     # game/logic/tutorial.rpy:19
     old "Here is the list of all people you’ve already met. They are sorted by the follower count, starting with the most popular. You can chose anyone from the list to open his or her profile."
-    new ""
+    new "Aquí está la lista de toda la gente que ya conoces. Estan ordenados por el número de seguidores, empezando con los más populares. Puedes elegir a cualquiera de la lista para abrir su perfil."
 
     # game/logic/tutorial.rpy:19
     old "Click on this icon to return to the character list"
-    new ""
+    new "Pulsa en este icono para volver a la lista de personajes."
 
     # game/logic/tutorial.rpy:19
     old "Click on this photo to expand it to fullscreen."
-    new ""
+    new "Pulsa en al foto para abrirla en pantalla completa"
 
     # game/logic/tutorial.rpy:19
     old "Here’s authors caption with hashtags you can use to find similar photos in the app."
-    new ""
+    new "Aquí hay una leyenda del autor con hashtags que puedes usar para encontrar fotos similares en la aplicación"
 
     # game/logic/tutorial.rpy:19
     old "Here are the comments other people left for this photo. You can click on any name to open their personal page."
-    new ""
+    new "Aquí están los comentarios que han dejado en la foto otras personas. Puedes pulsar en cualquier nombre para abrir su perfil personal."
 
     # game/logic/tutorial.rpy:19
     old "Here you can leave a like and write your own comment."
-    new ""
+    new "Aquí puedes dejar un like y escribir tu propio comentario."
 
     # game/logic/tutorial.rpy:19
     old "You can choose one of the suggested options to leave a comment. Sometimes choices may afflict your relationship, but most of the time they have no consequences."
-    new ""
+    new "Puedes elegir una de las opciones sugeridas para dejar un comentario. A veces las opciones pueden afectar a tus relaciones, pero la mayoría del tiempo no tienen consecuencias."
 
     # game/logic/tutorial.rpy:19
     old "Click on the photo if you want to return to the previous page."
-    new ""
+    new "Pulsa en al foto si quieres volver a la página anterior."
 
     # game/logic/tutorial.rpy:19
     old "Click on this button to open your live feed and see all photos in app."
-    new ""
+    new "Pulsa en este botón para abrir tu transmisión en vivo y ver todas las fotos en la app."
 
     # game/logic/tutorial.rpy:19
     old "This feed features all the photos from people you’ve already met. Scroll down and up tho view them all."
-    new ""
+    new "Esto alimenta las funciones de todas las fotos de la gente que conoces. Sube o baja para verlas todas."
 
     # game/logic/tutorial.rpy:19
     old "To go the person’s personal page click on his/her avatar."
-    new ""
+    new "Para ir a las páginas personales de la gente pulsa en sus avatares."
 
     # game/logic/tutorial.rpy:19
     old "Click on the photo to switch to the fullscreen view."
-    new ""
+    new "Pulsa en la foto para cambiar a la vista en pantalla completa"
 
     # game/logic/tutorial.rpy:19
     old "To exit the app and turn off your phone, tap this button or just click past the smartphone screen."
-    new ""
+    new "Para salir de la app y apagar tu movil, dale a este botón o pulsa fuera de la pantalla del teléfono."
 
     # game/logic/tutorial.rpy:19
     old "We recommend a short introductory tutorial to learn the purpose of all the elements of the main interface and how to use them to simplify the game."
-    new ""
+    new "Te recomendamos un pequeño tutorial introductorio para aprender la funcionalidad de todos los elementos de la interfaz y como usarlos para hacer el juego más facil."
 
     # game/logic/tutorial.rpy:19
     old "Here you can see the current time of day. Altogether there are four: morning, afternoon, evening and night. There are special events and activities for each time. Keep an eye on the time so you don't miss your appointments."
-    new ""
+    new "Aquí puedes ver el momento del día. Basicamente hay cuatro: Mañana, medio día, tarde y noche. Hay actividades y eventos especiales en cada momento. Echa un ojo a la hora para no perderte tus citas."
 
     # game/logic/tutorial.rpy:19
     old "If you want to accelerate the events, click on the \"Skip Time\" button, which is available in any location between scenes"
-    new ""
+    new "Si quieres acelerar los eventos, pulsa el botón \"Saltar tiempo\", el cual está disponible en cualquier momento entre escenas."
 
     # game/logic/tutorial.rpy:19
     old "Whenever you feel stuck or don’t know what to do you can check out this panel to find out about the current quest!"
-    new ""
+    new "¡Siempre que te sientas atascado o no sepas que hacer puedes mirar en este panel para averiguar datos a cerca de la misión actual!"
 
     # game/logic/tutorial.rpy:19
     old "These hints are only connected with the main storyline and do not affect character routes. All character routes are optional and can be skipped."
-    new ""
+    new "Estas pistas solo están conectadas con la historia principal y no afectarán a las rutas de los personajes. Todas las rutas de los personajes son opcionales y te las puedes saltar."
 
     # game/logic/tutorial.rpy:19
     old "Here you can check out your progress any time. The bar will be filled when you finish all possible quests for the current version of the game."
-    new ""
+    new "Aquí puedes ver tu progreso en cualquier momento. La barra aparecerá llena cuando termines todas las posibles misiones para la versión actual del juego."
 
     # game/logic/tutorial.rpy:19
     old "Here are the main buttons to find all the useful information and statistics."
-    new ""
+    new "Aquí están los botones principales para hallar información y estadísticas útiles."
 
     # game/logic/tutorial.rpy:19
     old "This is a calendar. With its help you can find out about all available tasks at any time of the day and easily plan your route."
-    new ""
+    new "Este es el calendario. Te ayudará a encontrar todas las tareas disponibles en cualquier momento del día y planificar tu ruta facilmente.
 
     # game/logic/tutorial.rpy:19
     old "All the information about the characters available in the game is stored here: tips, hints, progress, as well as the history of the development of relationships with them."
-    new ""
+    new "Toda la información disponible sobre los personajes del juego está guardada aquí: consejos, pistas, progreso, así como el historial del desarrollo de tus relaciones con ellos."
 
     # game/logic/tutorial.rpy:19
     old "This is your personal profile. Here you can find all the information about the main character: stats, spell levels, inventory. In addition, you can follow the progress of the weekly house competition here."
-    new ""
+    new "Este es tu perfil personal. Aquí encontrarás toda la información sobre el protagonista: estadísticas, nivel de hechizos, inventario. Ademas, puedes seguir el progreso de la competición semanal de las casas."
 
     # game/logic/tutorial.rpy:19
     old "This is your phone You can use it to view your friend's photos in the Lustagram app. We may add new features to the smartphone in future releases."
-    new ""
+    new "Este es tu teléfono. Puedes usarlo para ver en Lustagram las fotos de tus amigos. Quizás añadamos nuevas mecánicas al movil en futuras entregas."
 
     # game/logic/tutorial.rpy:19
     old "Here is the map, which allows you to quickly move between the available game zones."
-    new ""
+    new "Aquí está el mapa, el cual te permite moverte rapidamente entre las zonas del juego disponibles."
 
     # game/logic/tutorial.rpy:19
     old "Each game zone is divided into several locations. This panel is responsible for moving quickly between locations within the zone. You can move from room to room in the usual way - through doors or signs."
-    new ""
+    new "Cada zona del juego está dividida en varias localizaciones. Esta panel es el responsable de moverte rapidamente entre las localizaciones de cada zona. Puedes moverte de sala a sala de forma normal - a traves de puertas o carteles."
 
     # game/logic/tutorial.rpy:19
     old "The navigation bar can be minimized by pressing this button."
-    new ""
+    new "La barra de navegación puede minimizarse pulsando este botón."
 
     # game/logic/tutorial.rpy:19
     old "To expand the navigation bar again, use this button."
-    new ""
+    new "Para expandir la barra de navegación otra vez, pulsa este botón."
 
     # game/logic/tutorial.rpy:19
     old "And here are shortcut buttons to control some of the settings."
-    new ""
+    new "Y aquí están los botones de acceso directo para controlar algunos de los ajustes."
 
     # game/logic/tutorial.rpy:19
     old "This button is only available in open locations and helps to highlight all active and interactive objects."
-    new ""
+    new "Este botón solo está disponible en localizaciones abiertas y ayuda a resaltar todos los objetos interactivos y activos."
 
     # game/logic/tutorial.rpy:19
     old "This button allows you to go back to the previous frame. It’s only available within scenes."
-    new ""
+    new "Este botón te permite retroceder a la imagen anterior. Solo está disponible durante las escenas."
 
     # game/logic/tutorial.rpy:19
     old "This is a fast-forward button used within scenes. Works similarly to the Tab button on the keyboard, and is adjustable in Skip Settings on the main menu."
-    new ""
+    new "Este es el botón de avance rápido para las escenas. Funciona parecido a la barra espaciadora en el teclado, y puedes ajustarlo en Saltar Ajustes en el menú principal."
 
     # game/logic/tutorial.rpy:19
     old "This is a shortcut button for accessing the dialog log. It can be useful if you want to refresh your memory and review previous lines of the characters."
-    new ""
+    new "Este es un botón de acceso directo para acceder al registro de diálogos. Puede ser útil si quieres refrescar tu memoria reviendo frases anteriores de los personajes."
 
     # game/logic/tutorial.rpy:19
     old "These are the buttons to quickly save and load the game."
-    new ""
+    new "Estos son los botones de guardado y cargado rapido del juego."
 
     # game/logic/tutorial.rpy:19
     old "Use this button to quickly turn off the sounds in the game and then quickly turn them back on again. The volume of the sounds can be adjusted in the game settings."
-    new ""
+    new "Usa este botón para apagar el sonido del juego rapidamente y ponerlo de nuevo. El volumen de los sonidos se puede ajustar en los ajustes del juego."
 
     # game/logic/tutorial.rpy:19
     old "In order to get a quick access to the settings in the game's main menu, this use this button."
-    new ""
+    new "Para que puedas acceder rápidamente a los ajustes del juego en el menu principal, usa este botón."
 
     # game/logic/tutorial.rpy:19
     old "Working in Cafe allows you to earn some money and get points for your school. This tutorial will tell you how to do the job right and get more money."
-    new ""
+    new "Trabajar en la cafetería te permite ganar algo de dinero y puntos para tu casa. Este tutorial te enseñará como hacer bien el trabajo y ganar más dinero."
 
     # game/logic/tutorial.rpy:19
     old "This is the first out of five possible orders. Remember the sequence of dishes. When you're ready, click Start."
-    new ""
+    new "Esta es la primera de las cinco comandas. Recuerda la secuencia de platos. Cuando estés listo. Pulsa Inicio."
 
     # game/logic/tutorial.rpy:19
     old "You only have 5 seconds to complete the order."
-    new ""
+    new "Solo tienes 5 segundos para completar la comanda."
 
     # game/logic/tutorial.rpy:19
     old "Right here is a complete list of all the dishes available on the menu. Click on the items you need to add to the order."
-    new ""
+    new "Justo aquí está la lista de todos los platos disponibles en el menú. Pulsa en los que necesites añadir a la comanda."
 
     # game/logic/tutorial.rpy:19
     old "If you manage to serve the dishes on time and without mistakes, you'll get an extra $5 tip for each order."
-    new ""
+    new "Si consigues servir los platos a tiempo y en el orden correcto, conseguirás una propina de $5 por cada comanda."
 
     # game/logic/tutorial.rpy:19
     old "You can complete the minigame at any time by clicking on this button. You'll get a minimum reward of $10 either way, and $5 for each order you manage to complete."
-    new ""
+    new "Puedes terminar el minijuego en cualquier momento pulsando este botón. Obtendrás una recompensa de $10 mínimo, y $5 por cada comanda que consigas completar."
 
     # game/logic/tutorial.rpy:19
     old "You can get to work now. You can use this button anytime to watch this tutorial again and refresh your memory. Good luck!"
-    new ""
+    new "Ya puedes ponerte manos a la obra. Pulsa este botón en cualquier momento si quieres ver el tutorial otra vez y refrescar tu memoria. ¡Buena suerte!"
 
     # game/logic/tutorial.rpy:19
     old "Welcome to the arena. Here's a quick guide to the mini-game, so you can play without any hassle."
-    new ""
+    new "Bienvenido a la arena. Aquí tienes una pequeña guía para el minijuego, para que puedas jugar sin dificultades."
 
     # game/logic/tutorial.rpy:19
     old "This is your opponent's hitbar. The goal of the game is to bring his stamina level to zero. The first one who manages to do so is declared the winner."
-    new ""
+    new "Esta es la barra de salud de tu oponente. El objetivo del juego es reducir su vida a cero. El primero que consiga hacerlo será declarado vencedor."
 
     # game/logic/tutorial.rpy:19
     old "Here is your character's hitbar. Watch your stamina level and use elixirs and healing spells on time. If you have them in your arsenal, of course. Here you will also see all the buffs and debuffs on your character."
-    new ""
+    new "Aquí está tu barra de salud. Vigila tu salud y usa pociones y hechizos sanadores a tiempo. Si los tienes en tu arsenal, claro. Aquí también puedes ver todos tus buffs y debuffs."
 
     # game/logic/tutorial.rpy:19
     old "All of your character's combat elixirs are shown here. You can use one of the available elixirs before each spell. The turn order is not lost."
-    new ""
+    new "Todas las pociones de tu personaje se muestran aquí. Puedes usar una de las pociones disponibles después de cada hechizo. No pierdes el turno."
 
     # game/logic/tutorial.rpy:19
     old "These are the combat spells available to you. Combat Bolt can be used without restriction, and the others no more often than once every two turns. You can learn the missing spells in Victoria's lessons."
-    new ""
+    new "Estos son los hechizos de combate disponibles. Puedes usar Combat Bolt sin restricción, y los otros solo una vez cada dos turnos. Puedes aprender los hechizos restantes en las clases de Victoria."
 
     # game/logic/tutorial.rpy:19
     old "Watch the slider on the magic glyph to stop it at the moment of maximum coloring. The more area of the glyph is painted, the more powerful the spell will be. Castl power is also affected by the level of the spell."
-    new ""
+    new "Observa el deslizador del glifo mágico para detenerlo en el momento de máxima coloración. Cuanto más pintada esté el área del glifo, más poderoso será el hechizo. El nivel del hechizo también afecta al daño."
 
     # game/logic/tutorial.rpy:19
     old "Now you can try it on your own! You can use this button anytime to watch this tutorial again and refresh your memory. Good luck!."
-    new ""
+    new "¡Ahora ya puedes probarlo por ti mismo! Puedes usar este botón en cualquier momento para refrescar tu memoria viendo el tutorial de nuevo. ¡Buena suerte!."
 
     # game/logic/tutorial.rpy:19
     old "In this menu, you can easily find all the characters in the game that offer a quest or activity throughout the game day. Here’s the best part: you can instantly navigate to them right from the list."
-    new ""
+    new "En este menú, puedes encontrar facilmente a todos los personajes del juego que tienen una misión o una actividad a lo largo del día. Y esta es la mejor parte: puedes desplazarte instantáneamente desde la lista."
 
     # game/logic/tutorial.rpy:19
     old "The characters' avatars are located opposite the time icons. This means that this is the time of day when you can interact with them."
-    new ""
+    new "Los avatares de los personajes se encuentran al lado de los iconos de tiempo. Esto significa que ese es el momento del día en el que puedes interactuar con ellos."
 
     # game/logic/tutorial.rpy:19
     old "For example, all the characters whose activities are available in the night are shown here. This principle applies to any time of the day."
-    new ""
+    new "Por ejemplo, todos los personajes que tienen actividades disponibles por la noche se muestran aquí. Este principio aplica a cualquier parte del día."
 
     # game/logic/tutorial.rpy:19
     old "Select the avatar of the character you plan to meet and click this button. You will immediately teleport to the location where that character is located."
-    new ""
+    new "Selecciona el avatar del personaje con el que quieres encontrarte y pulsa este botón. Te teletransportarás inmediatamente a la localización donde se encuentre el personaje."
 
     # game/logic/tutorial.rpy:19
     old "If you select a character whose interaction is available later in the day, you will be warned that this choice leads to a timeskip. This is done to protect you from accidentally clicking on it."
-    new ""
+    new "Si seleccionas a un personaje cuya interacción está disponible más tarde, se te avisará que esta opción lleva a un salto en el tiempo. Esto se hace por si lo pulsas accidentalmente."
 
     # game/logic/tutorial.rpy:19
     old "If the time of day is over, the avatars become unavailable until the next morning. It still shows all the characters available at that time, but you can't access them directly from this menu until the new day arrives."
-    new ""
+    new "Si la parte del día ha terminado, los avatares no estarán disponibles hasta la mañana siguiente. Seguirá mostrando todos los personajes disponibles a esa hora, pero no podrás acceder a ellos directamente desde el menú hasta el día siguiente."
 
     # game/logic/tutorial.rpy:550
     old "Close"
-    new ""
+    new "Cerrar"
 
