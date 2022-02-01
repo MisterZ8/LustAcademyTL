@@ -16,7 +16,7 @@ translate philippine CordEntrance_label_3165fc11:
 translate philippine CordEntrance_label_016e0679:
 
     # ch_Name "{i}(But why is he going there? Should I follow him?){/i}"
-    ch_Name "{i}(Pero bakit siy pumupunta roon? Susundin ko ba siya?){/i}"
+    ch_Name "{i}(Pero bakit siya pumupunta roon? Susundin ko ba siya?){/i}"
 
 # game/logic/tutorial.rpy:582
 translate philippine CordEntrance_label_d0e1233a:
@@ -202,7 +202,7 @@ translate philippine CordEntrance_label_a185157a:
 translate philippine CordEntrance_label_478994c0:
 
     # ch_Name "{i}(And first of all - learn how not to get lost here.){/i}"
-    ch_Name "{i}(Una sa lahat - matuto kung paano 'di maligaw ){/i}"
+    ch_Name "{i}(Una sa lahat - matuto kung paano 'di maligaw.){/i}"
 
 # game/logic/tutorial.rpy:619
 translate philippine CordEntrance_label_53648e18:
