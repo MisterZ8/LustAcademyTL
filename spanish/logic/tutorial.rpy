@@ -514,7 +514,7 @@ translate spanish CordGarden_label_a1d2923d_1:
 translate spanish CordGarden_label_6e34bba6_1:
 
     # ch_Name "Go ahead."
-    ch_Name "Dale"
+    ch_Name "Dispara"
 
 # game/logic/tutorial.rpy:704
 translate spanish CordGarden_label_7ad82520_1:
@@ -538,803 +538,803 @@ translate spanish CordGarden_label_883b147f:
 translate spanish CordGarden_label_42f18015_1:
 
     # Joshi "Not a sign, not a map, like the supermarkets."
-    Joshi ""
+    Joshi "Ni una señal, ni un mapa, como los supermercados."
 
 # game/logic/tutorial.rpy:709
 translate spanish CordGarden_label_94f22a93_1:
 
     # Joshi "I've been going the wrong way all morning looking for the right offices."
-    Joshi ""
+    Joshi "Llevo toda la mañana perdido buscando el camino correcto."
 
 # game/logic/tutorial.rpy:710
 translate spanish CordGarden_label_ff262520_1:
 
     # ch_Name "Yeah, there's that."
-    ch_Name ""
+    ch_Name "Si, es cierto."
 
 # game/logic/tutorial.rpy:712
 translate spanish CordGarden_label_8bddcee8_1:
 
     # Joshi "Luckily, I haven't racked my brain yet."
-    Joshi ""
+    Joshi "Por suerte, todavía no me he arrancado el cerebro."
 
 # game/logic/tutorial.rpy:713
 translate spanish CordGarden_label_849dfb8b_1:
 
     # Joshi "And I've already studied and memorized everything."
-    Joshi ""
+    Joshi "Y ya me he estudiado y memorizado todo."
 
 # game/logic/tutorial.rpy:714
 translate spanish CordGarden_label_a63f3e45_1:
 
     # ch_Name "You have? That fast?"
-    ch_Name ""
+    ch_Name "¿Ah si? ¿Tan rápido?"
 
 # game/logic/tutorial.rpy:716
 translate spanish CordGarden_label_f7bff53b_1:
 
     # Joshi "Of course it is. You don't believe me?"
-    Joshi ""
+    Joshi "Por supuesto. ¿No me crees?"
 
 # game/logic/tutorial.rpy:717
 translate spanish CordGarden_label_7623e196_1:
 
     # ch_Name "No, why not, I do..."
-    ch_Name ""
+    ch_Name "No, por que no, yo..."
 
 # game/logic/tutorial.rpy:718
 translate spanish CordGarden_label_b9a64fc1_1:
 
     # Joshi "It's easy if you just remember the right places."
-    Joshi ""
+    Joshi "Es fácil si recuerdas los sitios importantes."
 
 # game/logic/tutorial.rpy:719
 translate spanish CordGarden_label_8db70d96_1:
 
     # Joshi "The room where the morning meeting was held on the track behind me."
-    Joshi ""
+    Joshi "La sala donde fue la reunión esta mañana está detras de mi"
 
 # game/logic/tutorial.rpy:720
 translate spanish CordGarden_label_50073e08_1:
 
     # Joshi "At the end of the courtyard."
-    Joshi ""
+    Joshi "Al final del patio."
 
 # game/logic/tutorial.rpy:722
 translate spanish CordGarden_label_028c7c85_1:
 
     # Joshi "Well, on the sides is all the fun stuff."
-    Joshi ""
+    Joshi "Bien, A los lados está la diversión"
 
 # game/logic/tutorial.rpy:723
 translate spanish CordGarden_label_feb7664c_1:
 
     # Joshi "On the left is the library and Victoria's classroom."
-    Joshi ""
+    Joshi "La biblioteca y la clase de Victoria están a la izquierda."
 
 # game/logic/tutorial.rpy:724
 translate spanish CordGarden_label_782b8053_1:
 
     # Joshi "And on the right is the cafe and Sabrina's class."
-    Joshi ""
+    Joshi "Y la clase de Sabrina y la cafetería a la derecha."
 
 # game/logic/tutorial.rpy:726
 translate spanish CordGarden_label_03c9e045_1:
 
     # Joshi "By the way, have you seen Sabrina yet? Dude, I'm still having a boner..."
-    Joshi ""
+    Joshi "Por cierto, ¿Has visto ya a Sabrina? Tío, Todavía sigo empalmado..."
 
 # game/logic/tutorial.rpy:727
 translate spanish CordGarden_label_ec91a5dc_1:
 
     # Joshi "I wonder if there's anything in the academy rules about student-teacher relations..."
-    Joshi ""
+    Joshi "Me pregunto si hay algo en las normas acerca de las relaciones entre profesores y alumnos..."
 
 # game/logic/tutorial.rpy:729
 translate spanish CordGarden_label_b4c8c248_1:
 
     # NoName "Ring-ring..."
-    NoName ""
+    NoName "Ring-ring..."
 
 # game/logic/tutorial.rpy:731
 translate spanish CordGarden_label_112c95db_1:
 
     # Joshi "Elijah. Why is he calling me?"
-    Joshi ""
+    Joshi "Elijah. ¿Por que me está llamando?"
 
 # game/logic/tutorial.rpy:732
 translate spanish CordGarden_label_210e23fc_1:
 
     # Joshi "Did I mess up the meeting place?"
-    Joshi ""
+    Joshi "¿La he liado con el sitio de la quedada?"
 
 # game/logic/tutorial.rpy:734
 translate spanish CordGarden_label_b12eabfd_1:
 
     # Joshi "Okay, it's important, I have to take this."
-    Joshi ""
+    Joshi "Ok, es importante, tengo que cogerlo."
 
 # game/logic/tutorial.rpy:735
 translate spanish CordGarden_label_9a7d0861_1:
 
     # Joshi "It was nice talking to you. Good luck."
-    Joshi ""
+    Joshi "Ha estado bien charlar contigo. Buena suerte."
 
 # game/logic/tutorial.rpy:736
 translate spanish CordGarden_label_a93d50a5_1:
 
     # ch_Name "You too."
-    ch_Name ""
+    ch_Name "Igualmente"
 
 # game/logic/tutorial.rpy:738
 translate spanish CordGarden_label_153814de_1:
 
     # ch_Name "{i}(What a weird guy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vaya personaje.){/i}"
 
 # game/logic/tutorial.rpy:739
 translate spanish CordGarden_label_f89e56dc_1:
 
     # ch_Name "{i}(And what business could he possibly have with Elijah?){/i}"
-    ch_Name ""
+    ch_Name "{i}(¿Que negocios tendrá este con Elijah?){/i}"
 
 # game/logic/tutorial.rpy:740
 translate spanish CordGarden_label_97ebb784:
 
     # ch_Name "{i}(Okay, I can't deal with that right now...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vale, no tengo tiempo para esto ahora...){/i}"
 
 # game/logic/tutorial.rpy:753
 translate spanish CordLeftWing_label_4bddd5b5:
 
     # ch_Name "{i}(Left wing. So that's where the library is situated.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ala izquierda. Así que ahí es donde está la biblioteca.){/i}"
 
 # game/logic/tutorial.rpy:754
 translate spanish CordLeftWing_label_b85ccf1f:
 
     # ch_Name "{i}(Oh wow! Who's that hottie coming out the door with a stack of books?){/i}"
-    ch_Name ""
+    ch_Name "{i}(¡Oh wow! ¿Quién será ese pivón que está saliendo con una montaña de libros?){/i}"
 
 # game/logic/tutorial.rpy:755
 translate spanish CordLeftWing_label_f5697555:
 
     # ch_Name "{i}(And why does she need all those books?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Y por que necesita todos esos libros?){/i}"
 
 # game/logic/tutorial.rpy:757
 translate spanish CordLeftWing_label_ab237890:
 
     # Gabriella "Ah!"
-    Gabriella ""
+    Gabriella "¡Ah!"
 
 # game/logic/tutorial.rpy:758
 translate spanish CordLeftWing_label_09a54e31:
 
     # ch_Name "{i}(What's going on? I think she...){/i}"
-    ch_Name ""
+    ch_Name "{i}(¿Que está pasando? Creo que...){/i}"
 
 # game/logic/tutorial.rpy:760
 translate spanish CordLeftWing_label_2724fee9:
 
     # ch_Name "{i}(She tripped!){/i}"
-    ch_Name ""
+    ch_Name "{i}(¡Se ha tropezado!){/i}"
 
 # game/logic/tutorial.rpy:761
 translate spanish CordLeftWing_label_a1f254c7:
 
     # ch_Name "{i}(Shit, I can't catch her in time!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mierda, ¡No he podido pillarla a tiempo!){/i}"
 
 # game/logic/tutorial.rpy:763
 translate spanish CordLeftWing_label_2a64a53a:
 
     # ch_Name "{i}(Poor thing... I have to help her.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pobrecita... Tengo que ayudarla.){/i}"
 
 # game/logic/tutorial.rpy:764
 translate spanish CordLeftWing_label_242d4568:
 
     # Gabriella "Uh..."
-    Gabriella ""
+    Gabriella "Uh..."
 
 # game/logic/tutorial.rpy:765
 translate spanish CordLeftWing_label_1a79f119:
 
     # ch_Name "Hey. How are you? Is everything okay?"
-    ch_Name ""
+    ch_Name "Hey. ¿Como estás? ¿Todo bien?"
 
 # game/logic/tutorial.rpy:766
 translate spanish CordLeftWing_label_15215b5d:
 
     # Gabriella "I think so..."
-    Gabriella ""
+    Gabriella "Eso creo..."
 
 # game/logic/tutorial.rpy:768
 translate spanish CordLeftWing_label_118eed74:
 
     # ch_Name "Let me help you."
-    ch_Name ""
+    ch_Name "Déjame ayudarte"
 
 # game/logic/tutorial.rpy:769
 translate spanish CordLeftWing_label_4f5ba1da:
 
     # Gabriella "Don't worry about it, I got it."
-    Gabriella ""
+    Gabriella "No te preocupes, yo puedo."
 
 # game/logic/tutorial.rpy:770
 translate spanish CordLeftWing_label_21eae3c1:
 
     # ch_Name "Come on, it's no big deal."
-    ch_Name ""
+    ch_Name "Vamos, no es nada."
 
 # game/logic/tutorial.rpy:772
 translate spanish CordLeftWing_label_ad35e680:
 
     # ch_Name "{i}(Oh...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh...){/i}"
 
 # game/logic/tutorial.rpy:773
 translate spanish CordLeftWing_label_c6e8b771:
 
     # ch_Name "{i}(Let's consider it a nice bonus to me for coming to the rescue.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Consideremos mi rescate como un buen bonus.){/i}"
 
 # game/logic/tutorial.rpy:774
 translate spanish CordLeftWing_label_da4629f1:
 
     # ch_Name "{i}(No wonder she tripped. With those heels.){/i}"
-    ch_Name ""
+    ch_Name "{i}(No me extraña que se haya tropezado. Con esos tacones.){/i}"
 
 # game/logic/tutorial.rpy:776
 translate spanish CordLeftWing_label_8b7873e2:
 
     # Gabriella "Hey, what are you... What are you looking at?"
-    Gabriella ""
+    Gabriella "Hey, a que estás... ¿A que estás mirando?"
 
 # game/logic/tutorial.rpy:777
 translate spanish CordLeftWing_label_a3c72469:
 
     # ch_Name "Looking to see if we picked up all the books from the floor. "
-    ch_Name ""
+    ch_Name "Estoy mirando si hemos recogido todos los libros del suelo. "
 
 # game/logic/tutorial.rpy:778
 translate spanish CordLeftWing_label_08e7fdc5:
 
     # ch_Name "Why, what were you thinking?"
-    ch_Name ""
+    ch_Name "¿Por?, ¿Que pensabas?"
 
 # game/logic/tutorial.rpy:780
 translate spanish CordLeftWing_label_dbe9260e:
 
     # Gabriella "Just..."
-    Gabriella ""
+    Gabriella "Solo..."
 
 # game/logic/tutorial.rpy:781
 translate spanish CordLeftWing_label_ba4ef7db:
 
     # Gabriella "Thanks for your help. I'm so clumsy..."
-    Gabriella ""
+    Gabriella "Gracias por la ayuda. Soy tan torpe..."
 
 # game/logic/tutorial.rpy:782
 translate spanish CordLeftWing_label_9e0bcb90:
 
     # ch_Name "Anybody can be."
-    ch_Name ""
+    ch_Name "Le podría pasar a cualquiera."
 
 # game/logic/tutorial.rpy:783
 translate spanish CordLeftWing_label_aa4f4b7a:
 
     # ch_Name "Here, here are your books. Why do you need them anyway?"
-    ch_Name ""
+    ch_Name "Toma, tus libros. De todas formas ¿Porque los necesitas?"
 
 # game/logic/tutorial.rpy:785
 translate spanish CordLeftWing_label_8ae7748d:
 
     # Gabriella "I've promised Victoria to bring new books from the library."
-    Gabriella ""
+    Gabriella "Le prometí a Victoria que le llevaría libros nuevos de la biblioteca."
 
 # game/logic/tutorial.rpy:786
 translate spanish CordLeftWing_label_7c8ba907:
 
     # Gabriella "Thanks again."
-    Gabriella ""
+    Gabriella "Gracias de nuevo."
 
 # game/logic/tutorial.rpy:787
 translate spanish CordLeftWing_label_53b59c2b:
 
     # Gabriella "Sorry, I'm in a hurry."
-    Gabriella ""
+    Gabriella "Disculpa. Tengo prisa."
 
 # game/logic/tutorial.rpy:789
 translate spanish CordLeftWing_label_9d3689bb:
 
     # ch_Name "{i}(I can't believe my luck. Are all the students here so pretty?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mi suerte es increible. ¿Son tan guapas todas las estudiantes?){/i}"
 
 # game/logic/tutorial.rpy:790
 translate spanish CordLeftWing_label_be38b0ad:
 
     # ch_Name "{i}(What if she leaves and I never get to meet her?){/i}"
-    ch_Name ""
+    ch_Name "{i}(¿Y si se va y nunca llego a conocerla?){/i}"
 
 # game/logic/tutorial.rpy:791
 translate spanish CordLeftWing_label_46ca7571:
 
     # ch_Name "{i}(Shit, I need to think of an excuse to call her out... Oh, I know!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mierda, tengo que pensar en una excusa para llamarla... Oh, ¡Ya se!){/i}"
 
 # game/logic/tutorial.rpy:793
 translate spanish CordLeftWing_label_65c02259:
 
     # ch_Name "Hey! Excuse me, please."
-    ch_Name ""
+    ch_Name "¡Hey! Disculpa, Por favor."
 
 # game/logic/tutorial.rpy:794
 translate spanish CordLeftWing_label_5a0bb231:
 
     # ch_Name "But do you happen to know where Victoria's class is?"
-    ch_Name ""
+    ch_Name "¿Tu no sabrás donde está la clase de Victoria no?"
 
 # game/logic/tutorial.rpy:796
 translate spanish CordLeftWing_label_3cd9236e:
 
     # Gabriella "Of course I do. That's where I'm going."
-    Gabriella ""
+    Gabriella "Claro que lo sé. Voy para allá."
 
 # game/logic/tutorial.rpy:797
 translate spanish CordLeftWing_label_bd9ff197:
 
     # Gabriella "It's that door right down the hall."
-    Gabriella ""
+    Gabriella "Es esa puerta al final del pasillo."
 
 # game/logic/tutorial.rpy:798
 translate spanish CordLeftWing_label_b252878a:
 
     # ch_Name "Thanks."
-    ch_Name ""
+    ch_Name "Gracias."
 
 # game/logic/tutorial.rpy:799
 translate spanish CordLeftWing_label_ac72bb37:
 
     # Gabriella "No problem! See you later."
-    Gabriella ""
+    Gabriella "¡Sin problema! TE veo luego."
 
 # game/logic/tutorial.rpy:801
 translate spanish CordLeftWing_label_0ce6f211:
 
     # ch_Name "{i}(Fuck, [Name]. Where is Victoria's class? Really?){/i}"
-    ch_Name ""
+    ch_Name "{i{(Joder, [Name]. ¿Donde está la clase de Victoria? ¿En serio?){/i}"
 
 # game/logic/tutorial.rpy:802
 translate spanish CordLeftWing_label_1b893d3b:
 
     # ch_Name "{i}(You should've thought of a better reason, dumbass.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Deberías haber pensado una excusa mejor, idiota.){/i}"
 
 # game/logic/tutorial.rpy:803
 translate spanish CordLeftWing_label_61217588:
 
     # ch_Name "{i}(At least I should've asked her name.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Al menos podría haberle preguntado su nombre.){/i}"
 
 # game/logic/tutorial.rpy:805
 translate spanish CordLeftWing_label_9e6695a7:
 
     # ch_Name "{i}(Okay, no need to get so dramatic.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vale, no hay que ponerse dramático.){/i}"
 
 # game/logic/tutorial.rpy:806
 translate spanish CordLeftWing_label_d495ac50:
 
     # ch_Name "{i}(I'm sure I'll have time to get to know her better later.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Seguro que luego tengo tiempo de conocerla mejor.){/i}"
 
 # game/logic/tutorial.rpy:807
 translate spanish CordLeftWing_label_8403dbba:
 
     # ch_Name "{i}(For now, I have other things to do.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Por ahora, tengo otras cosas que hacer.){/i}"
 
 # game/logic/tutorial.rpy:820
 translate spanish CordRightWing_label_7b8ce845:
 
     # ch_Name "{i}(Looks like someone is angry. I wonder why...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parece que alguien está enfada. Me pregunto por que...){/i}"
 
 # game/logic/tutorial.rpy:821
 translate spanish CordRightWing_label_b7962553:
 
     # Grace "Ugh!"
-    Grace ""
+    Grace "¡Ugh!"
 
 # game/logic/tutorial.rpy:823
 translate spanish CordRightWing_label_ff1af3f6:
 
     # Grace "Goddamn it! Is it really closed? This is so annoying!"
-    Grace ""
+    Grace "¡Maldita sea! ¿De verdad está cerrada? ¡Que fastidio!"
 
 # game/logic/tutorial.rpy:824
 translate spanish CordRightWing_label_22707fa2:
 
     # ch_Name "{i}(Hmm, she seems unhappy about something.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm, parece molesta por algo.){/i}"
 
 # game/logic/tutorial.rpy:825
 translate spanish CordRightWing_label_641c2900:
 
     # ch_Name "Hey, is everything okay? Is there anything I can do to help?"
-    ch_Name ""
+    ch_Name "Hey, ¿todo bien? ¿Hay algo en lo que pueda ayudarte?"
 
 # game/logic/tutorial.rpy:827
 translate spanish CordRightWing_label_7ee0c80d:
 
     # Grace "Em?"
-    Grace ""
+    Grace "¿Em?"
 
 # game/logic/tutorial.rpy:828
 translate spanish CordRightWing_label_1afc0964:
 
     # Grace "Are you talking to me?"
-    Grace ""
+    Grace "¿Me hablas a mi?"
 
 # game/logic/tutorial.rpy:829
 translate spanish CordRightWing_label_d6942ccb:
 
     # ch_Name "Uh, yeah."
-    ch_Name ""
+    ch_Name "Uh, Si."
 
 # game/logic/tutorial.rpy:831
 translate spanish CordRightWing_label_832bd4cf:
 
     # Grace "Oh, hey. You heard everything, didn't you?"
-    Grace ""
+    Grace "Oh, Hey. Lo has escuchado todo, ¿no?"
 
 # game/logic/tutorial.rpy:832
 translate spanish CordRightWing_label_ab45415b:
 
     # ch_Name "Did I hear you arguing with the door? You bet you did."
-    ch_Name ""
+    ch_Name "¿Te he escuchado discutiendo con la puerta? Puedes apostar a que si."
 
 # game/logic/tutorial.rpy:833
 translate spanish CordRightWing_label_e6510c69:
 
     # Grace "That's great, Grace..."
-    Grace ""
+    Grace "Fantástico, Grace..."
 
 # game/logic/tutorial.rpy:834
 translate spanish CordRightWing_label_99f37457:
 
     # Grace "It's your second day here and you're already building a reputation as the local lunatic."
-    Grace ""
+    Grace "Tu segundo día aquí y ya te estás creando una reputación como la lunática del lugar. "
 
 # game/logic/tutorial.rpy:836
 translate spanish CordRightWing_label_14e10a0f:
 
     # Grace "I'm sorry you had to watch that scene."
-    Grace ""
+    Grace "Siento que hayas tenido que ver la escenita."
 
 # game/logic/tutorial.rpy:837
 translate spanish CordRightWing_label_391b24b0:
 
     # Grace "I just don't like it when things don't go according to plan."
-    Grace ""
+    Grace "Es que odio cuando las cosas no salen como las planeo."
 
 # game/logic/tutorial.rpy:838
 translate spanish CordRightWing_label_256064a0:
 
     # Grace "I wanted to get a cup of coffee before Potions class."
-    Grace ""
+    Grace "Quería una taza de café antes de la clase de pociones."
 
 # game/logic/tutorial.rpy:839
 translate spanish CordRightWing_label_29cab73c:
 
     # Grace "But the local cafe is closed in the morning. Can you believe it?!"
-    Grace ""
+    Grace "Pero la cafetería está cerrada por las mañanas. ¡¿Te lo puedes creer?!"
 
 # game/logic/tutorial.rpy:841
 translate spanish CordRightWing_label_e9ba6cc6:
 
     # ch_Name "Bummer, of course."
-    ch_Name ""
+    ch_Name "Maldición, claro."
 
 # game/logic/tutorial.rpy:842
 translate spanish CordRightWing_label_a9685a1c:
 
     # ch_Name "I'm sorry your plans got disrupted, really."
-    ch_Name ""
+    ch_Name "Siento que las cosas no hayan salido como lo planeaste, de verdad."
 
 # game/logic/tutorial.rpy:843
 translate spanish CordRightWing_label_22c9ef25:
 
     # ch_Name "You can stop by Leonheart's dorm if you want."
-    ch_Name ""
+    ch_Name "Puedes pasarte por los dormitorios de Leonheart si quieres."
 
 # game/logic/tutorial.rpy:844
 translate spanish CordRightWing_label_3d71edd5:
 
     # ch_Name "We have a coffee machine."
-    ch_Name ""
+    ch_Name "Tenemos una máquina de café."
 
 # game/logic/tutorial.rpy:846
 translate spanish CordRightWing_label_4232bad1:
 
     # Grace "That's a very nice offer, but I wanted to try coffee here."
-    Grace ""
+    Grace "Es una oferta muy buena, pero quería probar el café de aquí."
 
 # game/logic/tutorial.rpy:847
 translate spanish CordRightWing_label_93350343:
 
     # Grace "And I don't have time to get there and back before class."
-    Grace ""
+    Grace "Y no me da tiempo a ir allí y volver antes de la clase."
 
 # game/logic/tutorial.rpy:848
 translate spanish CordRightWing_label_6d8ac43b:
 
     # Grace "I guess I'll have to have coffee after class."
-    Grace ""
+    Grace "Supongo que tendré que tomarme el café después de clase."
 
 # game/logic/tutorial.rpy:850
 translate spanish CordRightWing_label_450affd3:
 
     # Grace "Thanks for the offer. You're cute."
-    Grace ""
+    Grace "Gracias por el ofrecimiento. Eres muy mono."
 
 # game/logic/tutorial.rpy:851
 translate spanish CordRightWing_label_0a51a956:
 
     # ch_Name "{i}(You're nice, too.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tu también eres muy mona.){/i}"
 
 # game/logic/tutorial.rpy:852
 translate spanish CordRightWing_label_96ae8269:
 
     # ch_Name "No problem."
-    ch_Name ""
+    ch_Name "Sin problema."
 
 # game/logic/tutorial.rpy:853
 translate spanish CordRightWing_label_07e757d2:
 
     # Grace "I'm gonna go get ready for class. Bye-bye."
-    Grace ""
+    Grace "Voy a prepararme para la clase. Adios."
 
 # game/logic/tutorial.rpy:855
 translate spanish CordRightWing_label_6ccc55c3:
 
     # ch_Name "Bye-bye. Good luck."
-    ch_Name ""
+    ch_Name "Adios. Buena suerte."
 
 # game/logic/tutorial.rpy:856
 translate spanish CordRightWing_label_4d3ec7ac:
 
     # ch_Name "{i}(It seems that our conversation has cooled her down a bit.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parece que nuestra conversación la ha tranquilizado un poco.){/i}"
 
 # game/logic/tutorial.rpy:857
 translate spanish CordRightWing_label_951789d8:
 
     # ch_Name "{i}(I didn't think anyone could be so angry about coffee.){/i}"
-    ch_Name ""
+    ch_Name "{i}(No sabía que alguien se podía enfadar tanto por un café.){/i}"
 
 # game/logic/tutorial.rpy:859
 translate spanish CordRightWing_label_ae1a6bec:
 
     # ch_Name "{i}(On the other hand, after all this talk about coffee, I'm craving a cup myself.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Por otro lado, Depués de hablar tanto de café, Ahora me muero por tomarme uno.){/i}"
 
 # game/logic/tutorial.rpy:860
 translate spanish CordRightWing_label_9d77b6f6:
 
     # ch_Name "{i}(Too bad the cafe is closed in the morning.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Una pena que la cafetería esté cerrada por la mañana.){/i}"
 
 # game/logic/tutorial.rpy:861
 translate spanish CordRightWing_label_be0a645b:
 
     # ch_Name "{i}(I should stop by later.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Debería pasarme luego.){/i}"
 
 # game/logic/tutorial.rpy:874
 translate spanish CordMainHall_label_38e027ca:
 
     # ch_Name "{i}(So this is what the main hall of the academy looks like when it's not in session.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Así que esta es la apariencia del salón principal cuando no está en sesión.){/i}"
 
 # game/logic/tutorial.rpy:875
 translate spanish CordMainHall_label_ae97de9b:
 
     # ch_Name "{i}(So spacious...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Muy espacioso...){/i}"
 
 # game/logic/tutorial.rpy:876
 translate spanish CordMainHall_label_1617ba3a:
 
     # ch_Name "{i}(I wonder what else is going on here?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Me pregunto que más estará pasando por aquí.){/i}"
 
 # game/logic/tutorial.rpy:878
 translate spanish CordMainHall_label_c21d0d35:
 
     # ch_Name "{i}(The tables are laid out like you could have a real feast here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Las mesas están dispuestas como para dar un gran festín.){/i}"
 
 # game/logic/tutorial.rpy:879
 translate spanish CordMainHall_label_0bd52afc:
 
     # ch_Name "{i}(Perhaps there used to be such a tradition?){/i}"
-    ch_Name ""
+    ch_Name "{i}(¿Quizás es una tradición?){/i}"
 
 # game/logic/tutorial.rpy:880
 translate spanish CordMainHall_label_19a1b81f:
 
     # ch_Name "{i}(And these statues of angels, they look like guards.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Esas estatuas de angeles, parecen guardias.){/i}"
 
 # game/logic/tutorial.rpy:881
 translate spanish CordMainHall_label_070e7b11:
 
     # ch_Name "{i}(I wonder if they can come to life under spells.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Me pregunto si podrán cobrar vida con algún hechizo.){/i}"
 
 # game/logic/tutorial.rpy:883
 translate spanish CordMainHall_label_2ed49d76:
 
     # ch_Name "{i}(They must be guarding the folio.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Deben de estar vigilando el libro.){/i}"
 
 # game/logic/tutorial.rpy:884
 translate spanish CordMainHall_label_bf9fd4a5:
 
     # ch_Name "{i}(Strange that such an important relic is left lying unattended.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Curioso que una reliquia tan importante esté ahí sin más.){/i}"
 
 # game/logic/tutorial.rpy:885
 translate spanish CordMainHall_label_e71a83d8:
 
     # Arthur "Conferring with your ancestors?"
-    Arthur ""
+    Arthur "¿Hablando con tus ancestros?"
 
 # game/logic/tutorial.rpy:887
 translate spanish CordMainHall_label_dafee659:
 
     # ch_Name "Аh? Who's there?"
-    ch_Name ""
+    ch_Name "¿Ah? ¿Quién está ahí?"
 
 # game/logic/tutorial.rpy:888
 translate spanish CordMainHall_label_86756501:
 
     # ch_Name "{i}(Is it just me, or did someone speak to me?){/i}"
-    ch_Name ""
+    ch_Name "{i}(¿Soy yo, o alguien me ha hablado?){/i}"
 
 # game/logic/tutorial.rpy:889
 translate spanish CordMainHall_label_3f75b23d:
 
     # ch_Name "{i}(Is that our director?){/i}"
-    ch_Name ""
+    ch_Name "{i}(¿Es nuestro director?){/i}"
 
 # game/logic/tutorial.rpy:891
 translate spanish CordMainHall_label_a8dd1f73:
 
     # Arthur "Don't be alarmed, [Name]. It's me, Arthur."
-    Arthur ""
+    Arthur "No te alarmes, [Name]. Soy yo, Arthur."
 
 # game/logic/tutorial.rpy:892
 translate spanish CordMainHall_label_6972bd8b:
 
     # ch_Name "Director! I confess, I didn't immediately recognize you in that outfit."
-    ch_Name ""
+    ch_Name "¡Director! Reconozco, que me ha costado reconocerte con esa ropa."
 
 # game/logic/tutorial.rpy:893
 translate spanish CordMainHall_label_7eb7551a:
 
     # Arthur "Heh. Well, what can I say... Old men like to look neat, too."
-    Arthur ""
+    Arthur "Heh. Bueno, que puedo decir... A los ancianos también nos gusta arreglarnos."
 
 # game/logic/tutorial.rpy:895
 translate spanish CordMainHall_label_e1ba3607:
 
     # Arthur "I'm sure you're wondering why the academy has such a large hall."
-    Arthur ""
+    Arthur "Estoy seguro de que te preguntas por que la academia tiene un salón tan grande."
 
 # game/logic/tutorial.rpy:896
 translate spanish CordMainHall_label_75e7562f:
 
     # Arthur "I myself sometimes wonder if this pompousness is necessary."
-    Arthur ""
+    Arthur "Yo mismo me pregunto a veces si es necesaria tanta pomposidad."
 
 # game/logic/tutorial.rpy:897
 translate spanish CordMainHall_label_76d6ebe6:
 
     # Arthur "But all the important meetings concerning the academy are held here."
-    Arthur ""
+    Arthur "Pero todas las runiones importantes de la academia se celebran aquí."
 
 # game/logic/tutorial.rpy:898
 translate spanish CordMainHall_label_49ded05d:
 
     # Arthur "Besides, this room is ideal for keeping the folio."
-    Arthur ""
+    Arthur "Ademas, es un espacio ideal para guardar el libro."
 
 # game/logic/tutorial.rpy:899
 translate spanish CordMainHall_label_635f5f1c:
 
     # Arthur "It is always best to keep the most valuable things hidden in plain sight. Isn't it?"
-    Arthur ""
+    Arthur "Siempre es mejor esconder las cosas valiosas a plena vista. ¿no cree?"
 
 # game/logic/tutorial.rpy:901
 translate spanish CordMainHall_label_f661cea9:
 
     # ch_Name "Huh, I guess... "
-    ch_Name ""
+    ch_Name "Huh, Supongo..."
 
 # game/logic/tutorial.rpy:902
 translate spanish CordMainHall_label_acb75231:
 
     # ch_Name "Thank you so much for the tour."
-    ch_Name ""
+    ch_Name "Muchas gracias por el tour"
 
 # game/logic/tutorial.rpy:903
 translate spanish CordMainHall_label_2d4b4444:
 
     # Arthur "You're welcome. We're here to educate you."
-    Arthur ""
+    Arthur "De nada. Estamos aquí para enseñarte."
 
 # game/logic/tutorial.rpy:904
 translate spanish CordMainHall_label_d2a747bb:
 
     # Arthur "By the way, I'm sure Victoria and Sabrina are already waiting for students."
-    Arthur ""
+    Arthur "Por cierto, seguro que Victoria y Sabrina están ya esperando a los alumnos."
 
 # game/logic/tutorial.rpy:905
 translate spanish CordMainHall_label_861eeaf9:
 
     # ch_Name "I was just on my way there..."
-    ch_Name ""
+    ch_Name "Justo estaba de camino ahí..."
 
 # game/logic/tutorial.rpy:906
 translate spanish CordMainHall_label_bda6c814:
 
     # Arthur "Okay. Hurry up. You don't want to be late, do you?"
-    Arthur ""
+    Arthur "Bien. Date prisa. No querras llegar tarde, ¿no?"
 
 # game/logic/tutorial.rpy:907
 translate spanish CordMainHall_label_78f0f7a9:
 
     # ch_Name "Of course not, sir. Goodbye, sir."
-    ch_Name ""
+    ch_Name "Por supuesto que no, señor. Adios, señor."
 
 translate spanish strings:
 
     # game/logic/tutorial.rpy:19
     old "This is your personal profile. Here you can find all the information about the main character (stats, spell levels, inventory) and follow the progress of the weekly house competition."
-    new ""
+    new "Este es tu perfil personal. Aquí puedes encontrar toda la información acerca del protagonista (estadísticas, nivel de hechizos, inventario) y seguir el progreso de la competición semanal de las casas."
 
     # game/logic/tutorial.rpy:19
     old "Here you can change the name of the main character at any time."
-    new ""
+    new "Aquí puedes cambiar el nombre del protagonista en cualquier momento."
 
     # game/logic/tutorial.rpy:19
     old "This is a statistic of various indicators. It does not affect anything, but it can be interesting for tracking the process of the game."
-    new ""
+    new "Esto es una estadística de varios indicadores. No tiene ningún efecto, pero puede ser interesante para seguir el progreso del juego."
 
     # game/logic/tutorial.rpy:19
     old "This is a block with the current results of competitions between houses. At the end of each week, the house that earned the most points is sent to Dale."
-    new ""
+    new "Esto es un bloque con los resultados de las competiviones entre casas. Al final de la semana, la casa que haya ganado más puntos es enviada a Dale."
 
     # game/logic/tutorial.rpy:19
     old "This shows the spells you've learned, as well as your skill level. The higher your skill level, the more effective the spells are."
-    new ""
+    new "Esto muestra los hechizos que has aprendido, así como su nivel de habilidad. A más nivel de habilidad, más efectivos son los hechizos."
 
     # game/logic/tutorial.rpy:19
     old "All items you collect go into the Inventory. You can mouse over over any item and get detailed information about it."
-    new ""
+    new "Todos los elementos que recojas van al inventario. Puedes mover el ratón por encima del objeto y obtener información detallada al respecto."
 
     # game/logic/tutorial.rpy:19
     old "And here, you can check your balance. You can earn money through various part-time jobs available in the game. In addition, a small amount of money is allocated by the Academy for winning the house competition."
-    new ""
+    new "Y aquí, puedes ver tu balance. Puedes ganar dinero a traves de varios trabajos temporales disponibles en el juego. Ademas, la academia te dará una pequeña cantidad de dinero por ganar la competición de las casas."
 
     # game/logic/tutorial.rpy:19
     old "You can use this button anytime to watch this tutorial again and refresh your memory. Good luck!"
-    new ""
+    new "Puedes usar este botón y refrescar tu memoria viendo el tutorial de nuevo en cualquier momento. ¡Buena suerte!"
 
     # game/logic/tutorial.rpy:19
     old "The practical Potions class is self-guided. This tutorial will help you figure out how to discover new recipes and brew elixirs using recipes you've already learned."
