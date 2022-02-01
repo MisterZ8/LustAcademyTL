@@ -190,19 +190,19 @@ translate philippine sheet_26_7c8b7434:
 translate philippine sheet_26_e9bc7b55:
 
     # Arthur "Many of you have been here for years and already know our rules and customs."
-    Arthur "Kilala na ng iba sa inyo ang ating mga tuntunin at kaugalian.
+    Arthur "Kilala na ng iba sa iyo ang ating mga tuntunin at kaugalian.
 
 # game/logic/episodes_after_first/ep2/sheet_26.rpy:69
 translate philippine sheet_26_4808fd3b:
 
     # Arthur "I hope you`ll continue to show zeal and passion for learning this year."
-    Arthur "Sana ipapatuloy ninyo ang kasigasigan at kasipagan sa pag-aaral ngayong taon."
+    Arthur "Sana ipapatuloy niyo ang kasigasigan at kasipagan sa pag-aaral ngayong taon."
 
 # game/logic/episodes_after_first/ep2/sheet_26.rpy:71
 translate philippine sheet_26_c06014ca:
 
     # Arthur "First year students - this is a special night for you!"
-    Arthur "First year students - ito'y espesyal na gabi para sa inyo!"
+    Arthur "First year students - ito'y espesyal na gabi para sa iyo!"
 
 # game/logic/episodes_after_first/ep2/sheet_26.rpy:73
 translate philippine sheet_26_b0483709:
@@ -232,7 +232,7 @@ translate philippine sheet_26_3f7fa806:
 translate philippine sheet_26_8e0f1ee9:
 
     # Arthur "...I strongly advise you to avoid the right corridor on the third floor."
-    Arthur "Ipinahiwatig ko sa inyo na iwasan ang kanang pasilyo sa ikatlong palapag."
+    Arthur "Ipinahiwatig ko sa iyo na iwasan ang kanang pasilyo sa ikatlong palapag."
 
 # game/logic/episodes_after_first/ep2/sheet_26.rpy:83
 translate philippine sheet_26_99ad47fb:
@@ -256,13 +256,13 @@ translate philippine sheet_26_678f06eb:
 translate philippine sheet_26_5074638e:
 
     # Arthur "Tonight you'll perform the rite to decide which house you'll join."
-    Arthur "Ngayong gabi ninyo gawin ang rito ng pagpili ng inyong angkan."
+    Arthur "Ngayong gabi ninyo gawin ang rito ng pagpili ng iyong angkan."
 
 # game/logic/episodes_after_first/ep2/sheet_26.rpy:91
 translate philippine sheet_26_e9920ad2:
 
     # Arthur "Miss Lapis will guide you through the details."
-    Arthur "Si miss Lapis ang gagabay sa inyo."
+    Arthur "Si miss Lapis ang gagabay sa iyo."
 
 # game/logic/episodes_after_first/ep2/sheet_26.rpy:93
 translate philippine sheet_26_26a97f06:
