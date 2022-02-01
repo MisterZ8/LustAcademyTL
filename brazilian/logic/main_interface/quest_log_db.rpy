@@ -4,7 +4,7 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "She's the mysterious hostess of the strip club called Lady Luck. It seems like she's in charge there. She once almost got raped by Diego."
-    new ""
+    new "Ela é a hostess misteriosa do clube de strip chamado Lady Luck. Ela parece mandar em tudo aqui. Uma vez quase foi estuprada por Diego."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Cuill"
@@ -12,7 +12,7 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "This friendly elf is the best barista in all of Dale. Not only will he masterfully prepare any drink, but he's also happy to tell the customer interesting news and rumors from over the world."
-    new ""
+    new "Esse elfo amigável é o melhor barista de Dale. Não apenas prepara maravilhosamente qualquer drink, mas também está disposto a contar aos fregueses novidades e rumores interessantes de todo o mundo."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Fiennes"
@@ -20,7 +20,7 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Cordale's librarian goes by the name Amelie. She loves books and smart people more than anything else in the world. I'm not sure, but it feels like she doesn't seem to mind having affairs with young guys."
-    new ""
+    new "A bibliotecária de Cordale se chama Amelie. Ela ama livros e pessoas inteligentes mais que tudo no mundo. Não tenho certeza, mas me parece que ela não se incomoda de ter casos com rapazes jovens."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Earhart"
