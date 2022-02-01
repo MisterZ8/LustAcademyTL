@@ -94,7 +94,7 @@ translate philippine sheet_30_menu_7472c685:
 translate philippine sheet_30_menu_a20f54f7:
 
     # Elijah "The booze is all right here, trust me! We have our own sources."
-    Elijah "Nandito ang alak, magtiwala kayo! May pinagkukunan kami."
+    Elijah "Nandito ang alak, maniwala kayo! May pinagkukunan kami."
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:70
 translate philippine sheet_30_menu_4a010f54:
@@ -232,7 +232,7 @@ translate philippine sheet_30_menu_answ_3_d4258485:
 translate philippine sheet_30_menu_answ_3_985de653:
 
     # Elijah "It's not saying much but trust me — it's worth being ready for class!"
-    Elijah "'Di ko sirain ang surpresa pero magtiwala kayo - sulit talagang pumasok sa klase!"
+    Elijah "'Di ko sirain ang surpresa pero maniwala kayo - sulit talagang pumasok sa klase!"
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:109
 translate philippine end_sheet_30_8d099b3e:
