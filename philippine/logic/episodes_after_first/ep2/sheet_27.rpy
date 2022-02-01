@@ -28,7 +28,7 @@ translate philippine sheet_27_1fba55a7:
 translate philippine sheet_27_c3119d82:
 
     # Victoria "It was created by four founders of the academy."
-    Victoria "Linikha ito ng apat na nagtatag ng akademiya."
+    Victoria "Linikha ito ng apat na tagapagtatag ng akademiya."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:14
 translate philippine sheet_27_775062cb:
@@ -106,13 +106,13 @@ translate philippine sheet_27_9f6e6ab4:
 translate philippine sheet_27_9cf4fe67:
 
     # Victoria "There are four houses named after four founders of Cordale."
-    Victoria "Ang apat na angkan ay pinangalanan batay sa apat na nagtatag."
+    Victoria "Ang apat na angkan ay pinangalanan batay sa apat na tagapagtatag."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:42
 translate philippine sheet_27_75e8cb13:
 
     # Victoria "Each follows the vision of it's founder."
-    Victoria "Sinusunod nila ang hangarin ng tumatag sa kanila."
+    Victoria "Sinusunod nila ang hangarin ng tagapagtatag nila."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:47
 translate philippine sheet_27_b0ae8dcc:
