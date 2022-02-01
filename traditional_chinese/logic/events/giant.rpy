@@ -309,7 +309,7 @@ translate traditional_chinese giant_1_label_a2bc7378:
 # game/logic/events/giant.rpy:111
 translate traditional_chinese giant_1_label_e3e69c43:
 
-    # ch_Name "{i}(I was lucky he was stopped by my feeble combat shell.){/i}"
+    # ch_Name "{i}(I was lucky he was stopped by my feeble combat spell.){/i}"
     ch_Name ""
 
 # game/logic/events/giant.rpy:113
