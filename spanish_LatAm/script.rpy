@@ -4,7 +4,7 @@
 translate spanish_LatAm 69ff737f:
 
     # "Here you can keep track of all the routes, activities, etc. that are available to you. and quickly navigate to the desired one, without wasting time walking around the locations and searching. Next to the avatars of the characters are icons, the decoding of which is next."
-    "Aquí puedes observar todas las rutas, actividades, etc. que están disponibles para ti y navegar rápidamente a la que desees, sin desperdiciar tiempo dezplazándote por las locaciones y buscando. Al lado de los avatares de los personajes hay íconos, cuya decodificación es la siguiente."
+    "Aquí puedes observar todas las rutas, actividades, etc. que están disponibles para ti y navegar rápidamente a la que desees, sin desperdiciar tiempo desplazándote por las locaciones y buscando. Al lado de los avatares de los personajes hay íconos, cuya decodificación es la siguiente."
 
 # game/script.rpy:742
 translate spanish_LatAm start_54c881dc:
@@ -28,7 +28,7 @@ translate spanish_LatAm start_input_2_f789cadc:
 translate spanish_LatAm start_input_2_d05c9319:
 
     # ch_Name "But fate had something else prepared for me."
-    ch_Name "Pero la fé tuvo algo distinto preparado para mí."
+    ch_Name "Pero el destino tuvo algo distinto preparado para mí."
 
 # game/script.rpy:780
 translate spanish_LatAm start_input_2_8ba3057e:
