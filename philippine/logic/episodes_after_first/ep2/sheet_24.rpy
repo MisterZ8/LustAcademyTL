@@ -598,7 +598,7 @@ translate philippine sheet_24_game_1_21a50ec3:
 translate philippine sheet_24_game_1_ccc7d79f:
 
     # Victoria "Great result, [Name]! "
-    Victoria "Talagang mahusay, Mr. [Surname]!"
+    Victoria "Talagang mahusay, [Name]!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:406
 translate philippine sheet_24_game_1_a21a0f87:
