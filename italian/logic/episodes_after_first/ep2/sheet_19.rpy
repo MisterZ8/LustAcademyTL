@@ -34,7 +34,7 @@ translate italian sheet_19_317d1e3d:
 translate italian sheet_19_2876f8c6:
 
     # UnknownJacob "There you can see the Academy itself! "
-    UnknownJacob "La in fondo, potete vedere l'Accademia!"
+    UnknownJacob "Là in fondo, potete vedere l'Accademia!"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:22
 translate italian sheet_19_cd0a6c85:
@@ -52,7 +52,7 @@ translate italian sheet_19_ad65eec5:
 translate italian sheet_19_7a01eddb:
 
     # ch_Name "{i}(I can't wait to get a closer look!){/i}"
-    ch_Name "{i}(Non vedo l'ora di vederal più da vicino!){/i}"
+    ch_Name "{i}(Non vedo l'ora di vederla più da vicino!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:28
 translate italian sheet_19_7eb50257:
