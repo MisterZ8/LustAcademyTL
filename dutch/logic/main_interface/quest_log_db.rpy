@@ -460,19 +460,19 @@ translate dutch strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Together, Haley and I tried to unwrap the mystery about E.Bloom's notes in her book. Elijah seemed disturbed when we asked him questions. I need to meet Haley before classes to find out what's her plan."
-    new ""
+    new "Samen probeerden Haley en ik het mysterie te ontrafelen van E.Bloom's notities in haar boek. Elijah leek geïrriteerd toen we hem vragen stelden. Ik moet Haley spreken voor de les begint om te weten wat haar plan is."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We were alone in the courtyard, and Haley showed that she doesn't mind getting closer to me. She also asked me to spy on Amelie until I find a secret room in the library."
-    new ""
+    new "We waren alleen in de binnentuin en Haley liet zien dat ze het niet erg vindt om dichter bij me te komen. Ze vroeg me ook om Amelie te bespioneren, tot ik een geheime kamer in de bibliotheek vind."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Hours of spying were not wasted for nothing! I saw Amelie disappearing and coming back where there were no exits. I have to tell Haley about this, and she might know what to do."
-    new ""
+    new "Uren bespioneren waren niet voor niets! Ik zag Amelie verdwijnen en terugkomen waar geen doorgang was. Ik moet dit aan Haley vertellen, misschien weet zij wat we moeten doen."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley needs some time to examine the coins she found in the library and find out how to get to the secret room."
-    new ""
+    new "Haley heeft tijd nodig om de munten, die ze in de bibliotheek vond, te bestuderen en uit te zoeken hoe je in de geheime kamer kan komen."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley and I broke into the secret room and borrowed files that might contain information about E.Bloom. Haley will look into them and get back to me in the morning."
@@ -480,103 +480,103 @@ translate dutch strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley discovered that Elijah's brother and Hans were lovers and were trying to escape from here. To replicate their ritual and open the portal, we'll need Samantha's help. I'll talk to her in the morning."
-    new ""
+    new "Haley heeft ontdekt dat Elijah's broer en Hans minnaars waren en probeerden om hier weg te komen. Om hun ritueel te herhalen en de poort te openen, hebben we Samantha's hulp nodig. Ik zal met haar in de ochtend praten."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I made arrangements with Samantha and she will help us with the ritual. We're finally going to solve the mystery of E.Bloom. Also, Haley and I made a date. Things are going as well as can be expected!"
-    new ""
+    new "Ik heb afspraken gemaakt met Samantha en zij zal ons helpen met het ritueel. We gaan eindelijk het mysterie van E.Bloom oplossen. En ik heb ook nog een date met Haley. Het loopt allemaal perfect als gehoopt!"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've heard that Jacob usually spends his evenings at the hall. Should I talk to him about something?"
-    new ""
+    new "Ik heb vernomen dat Jacob meestal zijn avonden doorbrengt in de hal. Moet ik met hem ergens over praten?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "To enter the Dueling Club I need to learn combat spells. In order to do so, I have to visit more Victoria's lessons."
-    new ""
+    new "Om in de Dueling Club te komen, moet ik gevechtsspreuken leren. Om dat te kunnen, moet ik meer lessen van Victoria volgen."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I was accepted into the dueling club, so I can come to the Academy lobby every night and take part in duels."
-    new ""
+    new "Ik ben toegelaten tot de duelleerclub, dus ik kan elke avond naar de Academie lobby komen en meedoen aan duels."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Jill is the nice ginger girl, who owns a massage saloon at Dale. I can get a massage at Whistley's Spa for $75 when i'm in Dale. Pricey, but I think it's worth it."
-    new ""
+    new "Jill is het mooie ginger meisje, die een massagesalon heeft in Dale. Ik kan voor €75 een massage krijgen bij Whistley's Spa in Dale. Prijzig, maar ik denk dat het het waard is."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "My massage master got so turned on, that she could not finish the process. That was strange. I've overheard her arguing with someone. I think she got pranked by that person. I guess I'll have to have another massage to get closer to the truth."
-    new ""
+    new "Mijn masseuse raakte zo opgewonden, dat ze haar werk niet af kon maken. Het was vreemd. Ik hoorde haar discussiëren met iemand anders. Ik denk dat ze werd geprankt door diegene. Ik zal nog een massage moeten nemen om dichter bij de waarheid te komen."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "So, I don't get it. Is she Jill or Faith, and why does she act so strange? First, she seemed shy, but then she literally grabbed my cock! I'll need to have another massage to understand what's going on."
-    new ""
+    new "Oké, ik snap het dus niet. Is zij Jill of Faith, en waarom doet ze zo vreemd? Eerst leek ze verlegen, maar toen greep ze ineens letterlijk m'n lul!"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Even after all the craziness I've seen at this spa, I can't believe I was able to talk the masseuse into jerking me off. Maybe this is just the beginning of our intimate massage sessions. I wonder what she'll agree to next time?"
-    new ""
+    new "Zelfs na alle gekkigheid die ik in deze spa heb gezien, kan ik niet geloven dat ik de masseuse kon overhalen om me af te trekken! Wie weet is dit pas het begin van onze intieme massagesessies. Ik vraag me af wat ze de volgende keer goed zal keuren?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've got a feeling that that forest wasn't the last time I've met her. But right now, I can only guess."
-    new ""
+    new "Ik heb het gevoel dat dit bos niet de laatste keer zal zijn dat ik haar zie. Maar op dit moment, kan ik alleen maar gokken."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "It seems that I have some special connection with the ancient spirit of Leonheart's founder, Leona Leonheart. She materialized in the real world to help me with my source of power."
-    new ""
+    new "Het lijkt erop dat ik een speciale connectie heb met de heilige geest van Leonheart's stichter, Leona Leonheart. Ze verscheen in de echte wereld om me te helpen met mijn krachtbron."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Katrina won't leave me alone. If I want to face her on my terms, I have to find a way to defeat her. I think I should contact Leona. Maybe a sorting book in the Main hall will do the trick?"
-    new ""
+    new "Katrina laat me maar niet met rust. Als ik haar op mijn manier onder ogen wil komen, moet ik een manier vinden om haar te verslaan. Ik denk dat ik contact moet opnemen met Leona. Misschien is een leesboek in de grote hal voldoende?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Leona took my memories of that nightmare with Katrina to find out what is happening to me. I guess I'll just have to wait."
-    new ""
+    new "Leona heeft mijn herinneringen aan de nachtmerrie met Katrina opgenomen om uit te zoeken wat er met mij aan de hand is."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "If it weren't for Leona, I'd be stuck in a nightmare forever. It turned out that, under the guise of Katrina, It was a soul-eating phantom who tortured me in my dreams. But who had set it on me?"
-    new ""
+    new "Zonder Leona, zou ik voor altijd in een nachtmerrie zitten.Het bleek dat, onder de dekmantel van Katrina, het een zielenetend spook was dat mij in mijn dromen martelde. Maar wie deed mij dit aan?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "It turned out that Jacob was behind the soul-stealing phantom attack. He was testing me to help him overpower Arthur. Jacob assures me that Arthur is the villain who killed my parents. To deal with him, I asked Leona to obtain for me an ancient artifact - the scroll of the Lion's Seal. Now all we have to do is wait."
-    new ""
+    new "Het bleek dat Jacob achter de zielen-stelende geestenaanval zat. Hij gebruikte mij als test, zodat hij Arthur kon overmeesteren. Jacob verzekert me dat Arthur de schurk is die mijn ouders heeft vermoord. Om met hem af te rekenen, vroeg ik Leona om een oud artefact voor me te halen - de rol van het Zegel van de Leeuw. Nu hoeven we alleen nog maar te wachten."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I think I'll meet Lily somewhere where she can earn Leonheart some points. Maybe at the class?"
-    new ""
+    new "Ik denk dat ik Lily ergens ga aanspreken waar ze Leonheart wat punten kan opleveren. Misschien bij de les?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I can try to get Lily to like me by attending class and earning points for Leonheart."
-    new ""
+    new "Ik kan proberen om Lily me leuk te laten vinden door lessen te volgen en punten te verdienen voor Leonheart."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Lily expects me to find at least three lost books and turn them in at the library. I can also lie to her about doing it. I'm sure she won't know."
-    new ""
+    new "Lily verwacht dat ik minstens drie verloren boeken vind en ze inlever bij de bibliotheek. Ik kan ook tegen haar liegen dat ik het gedaan heb. Ik weet zeker dat ze daar niet achterkomt."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Lily doesn't believe that I will be able to defeat my opponent in a duel. I need to talk to Jacob in order to participate in duels. If I win, Lily will be waiting for me in the evening at the fountain. I hope it will be worth it."
-    new ""
+    new "Lilly gelooft niet dat ik in staat ben om mijn tegenstander te verslaan in een duel. Ik moet met Jacob praten zodat ik duels kan oefenen. Als ik win, zal Lilly in de avond op mij wachten bij de fontein. Ik hoop dat het het waard is."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I won at the duel. That means Lily owes me a date. She'll visit my room herself in the evening. I'd better get dressed and ready."
-    new ""
+    new "Ik heb het duel gewonnen. Dat betekent dat Lilly me een date schuldig is. Ze komt in de avond zelf naar mijn kamer. Ik kan me maar beter gaan aankleden en klaarmaken."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We had some fun with Lily and then decided to discuss other house-related plans next time. Maybe I should talk to help before Sabrina's lesson."
-    new ""
+    new "We hadden wat lol met Lily en besloten de volgende keer andere huis-gerelateerde plannen te bespreken. Misschien moet ik mijn hulp aanbieden voordat Sabrina's les begint."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've agreed to help Sabrina and Lily to harvest some herbs. Lily and I got lost and had an unbelievable adventure."
-    new ""
+    new "Ik heb ingestemd om Sabrina en Lily te helpen om wat kruiden te oogsten. Lily en ik waren verdwaald en hadden een onvoorstelbaar avontuur."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I told Sabrina about the mushroom girl I saw in the woods, and it turns out that the existence of these creatures has not yet been proven as a fact. I could be the discoverer of this species if I could find proof. But I have to wait until the compass is fixed."
-    new ""
+    new "Ik vertelde Sabrina over het paddenstoelenmeisje dat ik in het bos zag en het blijkt dat het bestaan van deze wezens nog niet als een feit bewezen is. Ik kan de ontdekker van deze wezens zijn als ik bewijs kan vinden. Maar ik moet wachten tot het kompas gerepareerd is."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We finally talked to Lily about the events in the forest of mushrooms and set things straight. Now we both know exactly what our relationship is and how the boundaries are."
-    new ""
+    new "We hebben eindelijk met Lily gepraat over de gebeurtenissen in het paddestoelenbos en alles rechtgezet. Nu weten we allebei precies wat onze relatie is en wat de grenzen zijn."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Lucy is a pretty European girl who works as a stripper in Lady Luck. I think we can have some fun time together at the VIP lounge."
-    new ""
+    new "Lucy is een knappe Europese meid die als stripper werkt bij Lady Luck. Ik denk dat we samen wat plezier kunnen maken in de VIP lounge."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Good news for students - there's a free room in Dale-ly. Also, I saw Mina reading porno novels. Maybe In future I can use this to lure other dark secrets she might have."
