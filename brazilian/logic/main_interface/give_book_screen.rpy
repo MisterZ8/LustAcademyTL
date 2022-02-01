@@ -4,13 +4,13 @@ translate brazilian strings:
 
     # game/logic/main_interface/give_book_screen.rpy:80
     old "Get points"
-    new ""
+    new "Receber pontos"
 
     # game/logic/main_interface/give_book_screen.rpy:91
     old "Chose the quantity:"
-    new ""
+    new "Escolha a quantidade:"
 
     # game/logic/main_interface/give_book_screen.rpy:124
     old "Confirm"
-    new ""
+    new "Confirmar"
 
