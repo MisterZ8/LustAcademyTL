@@ -591,7 +591,7 @@ translate italian Samantha_3_label_43_5bb4d59b:
 # game/logic/events/jacob.rpy:245
 translate italian Samantha_3_label_43_f5d6db5d:
 
-    # ch_Name "{i}(Oh... I have her lesson in the scheldue.){/i}"
+    # ch_Name "{i}(Oh... I have her lesson in the schedule.){/i}"
     ch_Name ""
 
 # game/logic/events/jacob.rpy:246

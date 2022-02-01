@@ -3,8 +3,8 @@
 # game/screens.rpy:338
 translate spanish_LatAm not_now_label_44591089:
 
-    # "[Name]" "{i}(There's nothing we can talk about right now.){/i}"
-    "[Name]" "{i}(No hay nada de qué hablar ahorita.){/i}"
+    # ch_Name "{i}(There's nothing we can talk about right now.){/i}"
+    ch_Name "{i}(No hay nada de qué hablar ahorita.){/i}"
 
 translate spanish_LatAm strings:
 

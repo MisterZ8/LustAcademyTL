@@ -3,8 +3,8 @@
 # game/screens.rpy:338
 translate french not_now_label_44591089:
 
-    # "[Name]" "{i}(There's nothing we can talk about right now.){/i}"
-    "[Name]" "{i}(Il n'y a rien dont nous puissions parler pour le moment..){/i}"
+    # ch_Name "{i}(There's nothing we can talk about right now.){/i}"
+    ch_Name "{i}(Il n'y a rien dont nous puissions parler pour le moment..){/i}"
 
 translate french strings:
 

@@ -4335,7 +4335,7 @@ translate hindi Samantha_9_label_2dd3fb57:
 # game/logic/events/samantha.rpy:1352
 translate hindi Samantha_9_label_d0bcd3ff:
 
-    # ch_Name "{i}(And how on earth did she get invited to the third-year student's party?){/i}"
+    # ch_Name "{i}(And how on earth did she get invited to the third-year students party?){/i}"
     ch_Name ""
 
 # game/logic/events/samantha.rpy:1353

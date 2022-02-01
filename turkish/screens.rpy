@@ -3,8 +3,8 @@
 # game/screens.rpy:338
 translate turkish not_now_label_44591089:
 
-    # "[Name]" "{i}(There's nothing we can talk about right now.){/i}"
-    "[Name]" ""
+    # ch_Name "{i}(There's nothing we can talk about right now.){/i}"
+    ch_Name ""
 
 translate turkish strings:
 

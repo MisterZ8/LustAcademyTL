@@ -1137,8 +1137,8 @@ translate english Willow_1_label_b591975c:
 # game/logic/events/gordon.rpy:379
 translate english Willow_1_label_22326d80:
 
-    # Willow "And what are you planning to do now?"
-    Willow ""
+    # ch_Name "And what are you planning to do now?"
+    ch_Name ""
 
 # game/logic/events/gordon.rpy:380
 translate english Willow_1_label_6fdfd922:

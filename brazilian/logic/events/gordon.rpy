@@ -1137,8 +1137,8 @@ translate brazilian Willow_1_label_b591975c:
 # game/logic/events/gordon.rpy:379
 translate brazilian Willow_1_label_22326d80:
 
-    # Willow "And what are you planning to do now?"
-    Willow "E o que você está planejando fazer agora?"
+    # ch_Name "And what are you planning to do now?"
+    ch_Name "E o que você está planejando fazer agora?"
 
 # game/logic/events/gordon.rpy:380
 translate brazilian Willow_1_label_6fdfd922:

@@ -3,8 +3,8 @@
 # game/screens.rpy:338
 translate brazilian not_now_label_44591089:
 
-    # "[Name]" "{i}(There's nothing we can talk about right now.){/i}"
-    "[Name]" "{i}(Não há nada para falarmos neste momento.){/i}"
+    # ch_Name "{i}(There's nothing we can talk about right now.){/i}"
+    ch_Name "{i}(Não há nada para falarmos neste momento.){/i}"
 
 translate brazilian strings:
 

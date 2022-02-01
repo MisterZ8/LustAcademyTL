@@ -3,8 +3,8 @@
 # game/screens.rpy:338
 translate philippine not_now_label_44591089:
 
-    # "[Name]" "{i}(There's nothing we can talk about right now.){/i}"
-    "[Name]" "{i}(Wala kaming mapag-usapan ngayon.){/i}"
+    # ch_Name "{i}(There's nothing we can talk about right now.){/i}"
+    ch_Name "{i}(Wala kaming mapag-usapan ngayon.){/i}"
 
 translate philippine strings:
 
