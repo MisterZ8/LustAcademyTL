@@ -256,7 +256,7 @@ translate brazilian Boat_2_3_1bf8fc9f:
 translate brazilian InStory_1_b4c8c248:
 
     # NoName "Ring-ring..."
-    NoName ""
+    NoName "Trim-Trim..."
 
 # game/logic/story/logic.rpy:1192
 translate brazilian InStory_1_13b178b4:
