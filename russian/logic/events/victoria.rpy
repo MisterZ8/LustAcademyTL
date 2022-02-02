@@ -562,589 +562,589 @@ translate russian Victoria_1_label_abb0545b:
 translate russian Victoria_1_label_ff4a5ef8:
 
     # Victoria "And the easiest place to start is with this thing."
-    Victoria ""
+    Victoria "И проще всего начать именно с этой вещи."
 
 # game/logic/events/victoria.rpy:364
 translate russian Victoria_1_label_9f19b8cd:
 
     # Victoria "Your source of power is closely connected with your personality."
-    Victoria ""
+    Victoria "Ваш источник силв плотно связан с вашей личностью."
 
 # game/logic/events/victoria.rpy:365
 translate russian Victoria_1_label_84a39562:
 
     # Victoria "Look inside yourself, remember what you were always close to."
-    Victoria ""
+    Victoria "Загляните в себя, вспомните что всегда было близко вам."
 
 # game/logic/events/victoria.rpy:366
 translate russian Victoria_1_label_e679b14f:
 
     # Victoria "Often it might be some element of nature."
-    Victoria ""
+    Victoria "Зачастую это какая-то из стихий природы."
 
 # game/logic/events/victoria.rpy:368
 translate russian Victoria_1_label_d84005d5:
 
     # Victoria "For example, I started with fire."
-    Victoria ""
+    Victoria "Например я начала с огня."
 
 # game/logic/events/victoria.rpy:369
 translate russian Victoria_1_label_56bde40b:
 
     # Victoria "I remember from my childhood the bright sparks of the fireplace in my parents' house."
-    Victoria ""
+    Victoria "С самого детства я помню яркие искры камина в доме моих родителей."
 
 # game/logic/events/victoria.rpy:370
 translate russian Victoria_1_label_1684933a:
 
     # Victoria "The warmth of campfires when we went camping."
-    Victoria ""
+    Victoria "Тепло костров, когда мы ходили в походы."
 
 # game/logic/events/victoria.rpy:372
 translate russian Victoria_1_label_5b6221fd:
 
     # Victoria "How I laughed when my uncle's dragon spewed flames on command!"
-    Victoria ""
+    Victoria "Как я смеялась, когда дракон моего дяди выпускал пламя по команде!"
 
 # game/logic/events/victoria.rpy:373
 translate russian Victoria_1_label_94ed82d5:
 
     # Victoria "And at your age I found my element in remembering that."
-    Victoria ""
+    Victoria "А в вашем возрасте я нашла свою стихию в этих воспоминаниях."
 
 # game/logic/events/victoria.rpy:374
 translate russian Victoria_1_label_a0fe4736:
 
     # Gabriella "What a beautiful story..."
-    Gabriella ""
+    Gabriella "Какая красивая история..."
 
 # game/logic/events/victoria.rpy:375
 translate russian Victoria_1_label_d963d3a1:
 
     # ch_Name "Perhaps you can give me a hint?"
-    ch_Name ""
+    ch_Name "Возможно, Вы можете дать мне подсказку?"
 
 # game/logic/events/victoria.rpy:376
 translate russian Victoria_1_label_bcc7c10f:
 
     # ch_Name "I want to discover my source soon!"
-    ch_Name ""
+    ch_Name Я хочу найти свой источник как можно скорее!""
 
 # game/logic/events/victoria.rpy:378
 translate russian Victoria_1_label_84e820bb:
 
     # Victoria "Don't rush yourself, Mr. [Surname]."
-    Victoria ""
+    Victoria "Не торопите себя, мистер [Surname]."
 
 # game/logic/events/victoria.rpy:379
 translate russian Victoria_1_label_43cb6d9a:
 
     # Victoria "And guys, always remember."
-    Victoria ""
+    Victoria "И ребята, всегда помните."
 
 # game/logic/events/victoria.rpy:380
 translate russian Victoria_1_label_be1e9f5e:
 
     # Victoria "There's nothing more dangerous than magic that's out of control."
-    Victoria ""
+    Victoria "Нет ничего более опасного чем магия, вышедшая из под контроля."
 
 # game/logic/events/victoria.rpy:381
 translate russian Victoria_1_label_16cc4103:
 
     # Victoria "And more often than not, it's harmful to its owner."
-    Victoria ""
+    Victoria "И чаще всего она губительна для своего хозяина."
 
 # game/logic/events/victoria.rpy:383
 translate russian Victoria_1_label_f57b17c7:
 
     # Victoria "So don't be in any hurry when choosing a source of power."
-    Victoria ""
+    Victoria "Так что не торопитесь с выбором источника силы."
 
 # game/logic/events/victoria.rpy:384
 translate russian Victoria_1_label_2abb718e:
 
     # Victoria "Find it in yourself, and only then look around you."
-    Victoria ""
+    Victoria "Найдите его внутри вебя и только тогда оглядитесь вокруг."
 
 # game/logic/events/victoria.rpy:385
 translate russian Victoria_1_label_aeb9daeb:
 
     # ch_Name "{i}(Either it's been too long since I've been to a lecture.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Либо я слишком давно не посещал лекций.){/i}"
 
 # game/logic/events/victoria.rpy:386
 translate russian Victoria_1_label_3f95c637:
 
     # ch_Name "{i}(Or Victoria is really very wise...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Либо Victoria действительно очень мудрая...){/i}"
 
 # game/logic/events/victoria.rpy:388
 translate russian Victoria_1_label_187f6935:
 
     # Victoria "I think a few days is enough for you to find your source."
-    Victoria ""
+    Victoria "Думаю, несколькох дней будет достаточно, чтобы все вы нашли свой источник."
 
 # game/logic/events/victoria.rpy:389
 translate russian Victoria_1_label_53580379:
 
     # Victoria "That's enough for today, I don't want you to get distracted from this task."
-    Victoria ""
+    Victoria "На сегодня достаточно, не хочу чтобы вы отвлекались от этой задачи."
 
 # game/logic/events/victoria.rpy:390
 translate russian Victoria_1_label_7259f07f:
 
     # Victoria "I wish you all the best of luck!"
-    Victoria ""
+    Victoria "Желаю вам всем удачи!"
 
 # game/logic/events/victoria.rpy:393
 translate russian Victoria_1_label_abb0fe7a:
 
     # Victoria "Don't forget about potion brewing.{w} Sabrina is waiting for all of you in her class."
-    Victoria ""
+    Victoria "Не забудьте про зельеварение.{w} Sabrina ждет всех вас в своем классе."
 
 # game/logic/events/victoria.rpy:394
 translate russian Victoria_1_label_bb39b7c6:
 
     # Victoria "It's situated just across the garden."
-    Victoria ""
+    Victoria "Он расположен прямо через сад."
 
 # game/logic/events/victoria.rpy:397
 translate russian Victoria_1_label_ff56f3ff:
 
     # ch_Name "Easiest house points in my life."
-    ch_Name ""
+    ch_Name "Это самые легкие баллы дома в моей жизни."
 
 # game/logic/events/victoria.rpy:398
 translate russian Victoria_1_label_8fa894c8:
 
     # ch_Name "I wish all lessons in my life were at least that interesting."
-    ch_Name ""
+    ch_Name "Хотел бы я чтобы все уроки в моей жизни были такими же интересными."
 
 # game/logic/events/victoria.rpy:399
 translate russian Victoria_1_label_c18e55e9:
 
     # Lily "Ha-ha-ha. True. Believe me, homeschooling by my parents wasn't great too."
-    Lily ""
+    Lily "Ха-ха-ха. Действительно. Поверь мне, домашнее обучение моих родителей тоже было не очень."
 
 # game/logic/events/victoria.rpy:400
 translate russian Victoria_1_label_4d0f9e0e:
 
     # Lily "Let's see how potion brewing will go."
-    Lily ""
+    Lily "Посмотрим как пойдет зельеварение."
 
 # game/logic/events/victoria.rpy:401
 translate russian Victoria_1_label_778d4b12:
 
     # ch_Name "Do we get points for attention that?"
-    ch_Name ""
+    ch_Name "Мы получим баллы за его посещение?"
 
 # game/logic/events/victoria.rpy:402
 translate russian Victoria_1_label_84a7fafa:
 
     # Lily "Sure."
-    Lily ""
+    Lily "Конечно."
 
 # game/logic/events/victoria.rpy:403
 translate russian Victoria_1_label_a8eb4c62:
 
     # ch_Name "Than count me in."
-    ch_Name ""
+    ch_Name "Тогда я с вами."
 
 # game/logic/events/victoria.rpy:407
 translate russian Victoria_1_label_211143b8:
 
     # ch_Name "{i}(Wow, this place looks nothing like Victoria's class.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Воу, это место совсем не похоже на класс Victoria.){/i}"
 
 # game/logic/events/victoria.rpy:408
 translate russian Victoria_1_label_1228f6f4:
 
     # ch_Name "{i}(Far more ancient and gloomy. As if It wasn't rebuilt since medieval times.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Куда более древнее и мрачное. Словно его не перестраивали со времен средневековья.){/i}"
 
 # game/logic/events/victoria.rpy:409
 translate russian Victoria_1_label_95bb8aa3:
 
     # ch_Name "{i}(I wonder why...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Интересно почему...){/i}"
 
 # game/logic/events/victoria.rpy:422
 translate russian Victoria_2_label_5652ee9c:
 
     # Victoria "Today's lesson is about the nature of magic."
-    Victoria ""
+    Victoria "Сегодняшняя лекция - о природе магии."
 
 # game/logic/events/victoria.rpy:423
 translate russian Victoria_2_label_3a75bba8:
 
     # Gabriella "What about sources of power?"
-    Gabriella ""
+    Gabriella "А как же источники силы?"
 
 # game/logic/events/victoria.rpy:424
 translate russian Victoria_2_label_c1afd5bc:
 
     # ch_Name "{i}(Has anyone found their source of power yet?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Кто-то уже нашел свой источник силы?){/i}"
 
 # game/logic/events/victoria.rpy:425
 translate russian Victoria_2_label_5aeb81dc:
 
     # ch_Name "{i}(I'm not the only one who's stumped...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я не единственный кто зашел в тупик...){/i}"
 
 # game/logic/events/victoria.rpy:427
 translate russian Victoria_2_label_f2ef1456:
 
     # Victoria "Unfortunately not all students have already found their source of power."
-    Victoria ""
+    Victoria "К сожалению не все студенты уже нашли свой источник силы."
 
 # game/logic/events/victoria.rpy:428
 translate russian Victoria_2_label_f775cffd:
 
     # Victoria "But that's okay."
-    Victoria ""
+    Victoria "Но это нормально."
 
 # game/logic/events/victoria.rpy:429
 translate russian Victoria_2_label_b563b4b5:
 
     # Victoria "Like I said, don't rush yourself. It's dangerous!"
-    Victoria ""
+    Victoria "Как я и говорила, не торопитесь. Это опасно!"
 
 # game/logic/events/victoria.rpy:431
 translate russian Victoria_2_label_28c13f23:
 
     # Victoria "Open the textbook Fundamentals of Magic, page 16."
-    Victoria ""
+    Victoria "Откройте учебник Основы Магии, страница 16."
 
 # game/logic/events/victoria.rpy:432
 translate russian Victoria_2_label_3d8c9398:
 
     # Victoria "Lecture topic: The nature of magic."
-    Victoria ""
+    Victoria "Тема лекции: Природа магии."
 
 # game/logic/events/victoria.rpy:433
 translate russian Victoria_2_label_dc8d0f6b:
 
     # Victoria "You already know that magic is part of the nature around us."
-    Victoria ""
+    Victoria "Вы уже знаете, что магия это часть природы вокруг нас."
 
 # game/logic/events/victoria.rpy:435
 translate russian Victoria_2_label_63990746:
 
     # Victoria "But magic has one peculiarity!"
-    Victoria ""
+    Victoria "Но магия имеет одну особенность!"
 
 # game/logic/events/victoria.rpy:436
 translate russian Victoria_2_label_8e03841b:
 
     # Victoria "It is the only matter that permeates all worlds, not just ours."
-    Victoria ""
+    Victoria "Это единственная материя, которая пронизывает все миры, а не только наш."
 
 # game/logic/events/victoria.rpy:437
 translate russian Victoria_2_label_3f4833f0:
 
     # Victoria "It is not subject to the specific laws of one world's physics and chemistry."
-    Victoria ""
+    Victoria "Она не подчиняется законам физики и химии одного конкретного мира."
 
 # game/logic/events/victoria.rpy:438
 translate russian Victoria_2_label_0ca657a8:
 
     # Victoria "It makes it possible to change the natural course of events."
-    Victoria ""
+    Victoria "Это дает возможность изменять естественных ход событий."
 
 # game/logic/events/victoria.rpy:439
 translate russian Victoria_2_label_1e4b82ac:
 
     # ch_Name "Sounds too good to be true."
-    ch_Name ""
+    ch_Name "Звучит слишком хорошо чтобы быть правдой."
 
 # game/logic/events/victoria.rpy:441
 translate russian Victoria_2_label_4970c3df:
 
     # Victoria "You're right! You should look for a catch in everything."
-    Victoria ""
+    Victoria "Ты прав! Необходимо искать подвох во всем."
 
 # game/logic/events/victoria.rpy:442
 translate russian Victoria_2_label_47eca616:
 
     # Victoria "Magic is a very fluid, changeable and capricious matter."
-    Victoria ""
+    Victoria "Магия - очень текучая, изменчивая и капризная материя."
 
 # game/logic/events/victoria.rpy:443
 translate russian Victoria_2_label_3b64176a:
 
     # Victoria "To do real spells, not petty tricks..."
-    Victoria ""
+    Victoria "Чтобы творить настоящие заклинания, а не мелкие фокусы..."
 
 # game/logic/events/victoria.rpy:444
 translate russian Victoria_2_label_1386c269:
 
     # Victoria "You have to have the utmost concentration and dexterity."
-    Victoria ""
+    Victoria "Вам нужна предельная концентрация и ловкость. "
 
 # game/logic/events/victoria.rpy:445
 translate russian Victoria_2_label_7776de19:
 
     # Victoria "Otherwise your own power can destroy you."
-    Victoria ""
+    Victoria "Иначе ваша собственная сила может уничтожить вас."
 
 # game/logic/events/victoria.rpy:453
 translate russian Victoria_2_label_8da27ef0:
 
     # ch_Name "Destroy you?{w} That's horrible!"
-    ch_Name ""
+    ch_Name "Уничтожить?{w} Это жутко!"
 
 # game/logic/events/victoria.rpy:454
 translate russian Victoria_2_label_3416e1fd:
 
     # ch_Name "{i}(Go to Cordale, they said... Being a wizard is fun, they said...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Они говорили поезжай в Cordale... Они говорили, быть волшебником весело...){/i}"
 
 # game/logic/events/victoria.rpy:456
 translate russian Victoria_2_label_70adf98e:
 
     # Victoria "Mr. [Surname], stop your pussyfooting!"
-    Victoria ""
+    Victoria "Мистер [Surname], хватит трусить!"
 
 # game/logic/events/victoria.rpy:457
 translate russian Victoria_2_label_79b1a98e:
 
     # Victoria "If you really care that much: attend my classes more often."
-    Victoria ""
+    Victoria "Если ты действительно так переживаешь, чаще посещай мои занятия."
 
 # game/logic/events/victoria.rpy:458
 translate russian Victoria_2_label_3c3c0912:
 
     # Victoria "The teachers at Cordale are there to guide your learning."
-    Victoria ""
+    Victoria "Преподаватели Cordale здесь для того, чтобы направлять тебя в обучении."
 
 # game/logic/events/victoria.rpy:459
 translate russian Victoria_2_label_173e20bb:
 
     # Victoria "In an effective and safe way."
-    Victoria ""
+    Victoria "Эффективным и безопасным способом."
 
 # game/logic/events/victoria.rpy:460
 translate russian Victoria_2_label_67aff2bf:
 
     # ch_Name "I have plenty of reasons to take your classes as it is, Victoria."
-    ch_Name ""
+    ch_Name "У меня итак целая куча причин посещать Ваши лекции, Victoria."
 
 # game/logic/events/victoria.rpy:462
 translate russian Victoria_2_label_d7ad202a:
 
     # ch_Name "{i}(At least two of those good reasons!){/i}"
-    ch_Name ""
+    ch_Name "{i}(По меньшей мере две вот эти хорошие причины!){/i}"
 
 # game/logic/events/victoria.rpy:471
 translate russian Victoria_2_label_32_a1491a56:
 
     # ch_Name "Pfft, what do I care?"
-    ch_Name ""
+    ch_Name "Пффф, какое мне дело?"
 
 # game/logic/events/victoria.rpy:472
 translate russian Victoria_2_label_32_989f5c6b:
 
     # ch_Name "No spell can break my will."
-    ch_Name ""
+    ch_Name "Никакое заклинание не сломит мою волю."
 
 # game/logic/events/victoria.rpy:473
 translate russian Victoria_2_label_32_f58dc20e:
 
     # Victoria "Oh, you're very presumptuous, Mr. [Surname]."
-    Victoria ""
+    Victoria "О, ты крайне самонадеянный, мистер [Surname]."
 
 # game/logic/events/victoria.rpy:474
 translate russian Victoria_2_label_32_7e859bf2:
 
     # Victoria "Even the greatest wizards can stumble."
-    Victoria ""
+    Victoria "Даже величайшие волшебники могут оступиться."
 
 # game/logic/events/victoria.rpy:475
 translate russian Victoria_2_label_32_43d02c02:
 
     # Victoria "And your potential has yet to be discovered..."
-    Victoria ""
+    Victoria "А твои способности еще только предстоит обнаружить..."
 
 # game/logic/events/victoria.rpy:476
 translate russian Victoria_2_label_32_2dfb888d:
 
     # ch_Name "I'm quite sure of myself."
-    ch_Name ""
+    ch_Name "Я вполне уверен в себе."
 
 # game/logic/events/victoria.rpy:478
 translate russian Victoria_2_label_32_45e000a3:
 
     # Victoria "That's commendable."
-    Victoria ""
+    Victoria "Похвально."
 
 # game/logic/events/victoria.rpy:479
 translate russian Victoria_2_label_32_e405bf80:
 
     # Victoria "But confidence is better when it's backed up by knowledge."
-    Victoria ""
+    Victoria "Но уверенность хороша когда она подкреплена знаниями."
 
 # game/logic/events/victoria.rpy:480
 translate russian Victoria_2_label_32_76f7b6e0:
 
     # Victoria "Attend classes more often and you really won't be in any danger."
-    Victoria ""
+    Victoria "Посещай занятия чаще и тебе действительно ничто не будет угрожать."
 
 # game/logic/events/victoria.rpy:481
 translate russian Victoria_2_label_32_193d661f:
 
     # Victoria "The teachers at Cordale are here to guide your learning."
-    Victoria ""
+    Victoria "Преподаватели Cordale здесь для того, чтобы направлять тебя в обучении."
 
 # game/logic/events/victoria.rpy:482
 translate russian Victoria_2_label_32_173e20bb:
 
     # Victoria "In an effective and safe way."
-    Victoria ""
+    Victoria "Эффективным и безопасным способом."
 
 # game/logic/events/victoria.rpy:484
 translate russian Victoria_2_label_32_328e860a:
 
     # ch_Name "Absolutely! I always look forward to your classes, Victoria."
-    ch_Name ""
+    ch_Name "Без сомнения! Я всегда с нетерпением жду Ваших лекций, Victoria."
 
 # game/logic/events/victoria.rpy:489
 translate russian Victoria_2_label_44_1ba1c1d9:
 
     # ch_Name "{i}(I wonder if that's her natural size?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Интересно, это ее натуральный размер?){/i}"
 
 # game/logic/events/victoria.rpy:490
 translate russian Victoria_2_label_44_2fa7d6e6:
 
     # ch_Name "{i}(Or is there a bit of magic involved?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Или тут замешано немножечко магии?){/i}"
 
 # game/logic/events/victoria.rpy:492
 translate russian Victoria_2_label_44_2a1b8785:
 
     # Victoria "Well and good, then let's get back to the lesson."
-    Victoria ""
+    Victoria "Ну и хорошо, давай тогда вернемся к занятию."
 
 # game/logic/events/victoria.rpy:493
 translate russian Victoria_2_label_44_63939870:
 
     # Victoria "Wizards and certain creatures can manipulate magic."
-    Victoria ""
+    Victoria "Волшебники и некоторые существа умеют управлять магией."
 
 # game/logic/events/victoria.rpy:494
 translate russian Victoria_2_label_44_4ffeb3d1:
 
     # Victoria "And use it to change the matter of the world."
-    Victoria ""
+    Victoria "И пользоваться ею для изменения материю мира."
 
 # game/logic/events/victoria.rpy:495
 translate russian Victoria_2_label_44_cc9b6f19:
 
     # Victoria "This ability is innate."
-    Victoria ""
+    Victoria "Это врожденная способность."
 
 # game/logic/events/victoria.rpy:497
 translate russian Victoria_2_label_44_d49b4aa6:
 
     # Victoria "People first began to notice their ability to do magic a long time ago."
-    Victoria ""
+    Victoria "Люди впервые обнаружили у себя способности к магии давным-давно."
 
 # game/logic/events/victoria.rpy:498
 translate russian Victoria_2_label_44_59a3eb1b:
 
     # Victoria "For centuries, magic was not controlled in any way."
-    Victoria ""
+    Victoria "На протяжении веков магия никак не контролировалась."
 
 # game/logic/events/victoria.rpy:499
 translate russian Victoria_2_label_44_baffa702:
 
     # Victoria "And quite a bit of it was made public."
-    Victoria ""
+    Victoria "И небольшая часть ее была обнародована."
 
 # game/logic/events/victoria.rpy:500
 translate russian Victoria_2_label_44_96b7ab8a:
 
     # Victoria "Which led to the persecution and extermination of magicians."
-    Victoria ""
+    Victoria "Что привело к преследованию магов и их истреблению."
 
 # game/logic/events/victoria.rpy:502
 translate russian Victoria_2_label_44_5d7ff539:
 
     # Victoria "Fortunately, this stopped before the first written sources appeared."
-    Victoria ""
+    Victoria "К счастью, это было остановлено до появления первых письменных источников."
 
 # game/logic/events/victoria.rpy:503
 translate russian Victoria_2_label_44_7908f42e:
 
     # Victoria "It is now accepted around the world that magic is kept secret from non-magicians."
-    Victoria ""
+    Victoria "Сейчас во всем мире принято держать магию в секрете от не-волшебников."
 
 # game/logic/events/victoria.rpy:504
 translate russian Victoria_2_label_44_4cbedd9d:
 
     # Victoria "And it is not used to influence secular society."
-    Victoria ""
+    Victoria "И она не применяется, чтобы повлиять на светское общество."
 
 # game/logic/events/victoria.rpy:506
 translate russian Victoria_2_label_44_de429efa:
 
     # Victoria "But you will study this in more detail in the history of magic."
-    Victoria ""
+    Victoria "Но это вы будете изучать более подробно на истории магии."
 
 # game/logic/events/victoria.rpy:507
 translate russian Victoria_2_label_44_1c68b59b:
 
     # Victoria "And that's all for today."
-    Victoria ""
+    Victoria "А на сегодня это все."
 
 # game/logic/events/victoria.rpy:508
 translate russian Victoria_2_label_44_b02e2a12:
 
     # Victoria "Your homework remains the same: Find your source of power."
-    Victoria ""
+    Victoria "Ваше домашнее задание остается прежним: найти свой источник силы."
 
 # game/logic/events/victoria.rpy:511
 translate russian Victoria_2_label_44_66ce9b6e:
 
     # Victoria "That's it for today! See you tomorrow."
-    Victoria ""
+    Victoria "На сегодня достаточно! Увидимся завтра."
 
 # game/logic/events/victoria.rpy:512
 translate russian Victoria_2_label_44_4dda41e8:
 
     # Victoria "Don't forget about the Potion brewing lesson. Sabrina is waiting for you, guys!"
-    Victoria ""
+    Victoria "Не забудьте про урок Зельеварения. Sabrina ждет вас, ребята!"
 
 # game/logic/events/victoria.rpy:515
 translate russian Victoria_2_label_44_b46243d0:
 
     # Joshi "Man, potion brewing sucks. I'll probably skip. Who wants with me?"
-    Joshi ""
+    Joshi "Чувак, зельеварение отстой. Я, пожалуй, прогуляю. Кто со мной?"
 
 # game/logic/events/victoria.rpy:516
 translate russian Victoria_2_label_44_0bb71d98:
 
     # ch_Name "Don't you want to earn house points?"
-    ch_Name ""
+    ch_Name "Разве ты не хочешь заработать баллы дома?"
 
 # game/logic/events/victoria.rpy:517
 translate russian Victoria_2_label_44_f9b12352:
 
     # Joshi "I couldn't care less about house points, bro."
-    Joshi ""
+    Joshi "Меньше всего меня волнуют баллы дома, братан."
 
 # game/logic/events/victoria.rpy:518
 translate russian Victoria_2_label_44_b8514a39:
 
     # Joshi "See you guys later."
-    Joshi ""
+    Joshi "Увидимся позже."
 
 # game/logic/events/victoria.rpy:522
 translate russian Victoria_2_label_44_8716a5d7:
 
     # ch_Name "{i}(I hope that guy is wrong, and this time potions will be more enjoyable.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Надеюсь, этот парень ошибается и в этот раз зелья будут более приятными.){/i}"
 
 # game/logic/events/victoria.rpy:523
 translate russian Victoria_2_label_44_17748fab:
