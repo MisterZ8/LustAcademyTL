@@ -982,13 +982,13 @@ translate english adele_2_label_22a4b9a8:
 translate english adele_2_label_f46e10a4:
 
     # Adele "I'll show you a special place for the most privileged guests!"
-    Adele ""
+    Adele "Where we're heading is a restricted place, reserved for our elite guests!"
 
 # game/logic/events/adele.rpy:349
 translate english adele_2_label_adc5e432:
 
     # ch_Name "Oh, thank you."
-    ch_Name ""
+    ch_Name "Oh,{w} you know how to make a guy feel special. Thank you."
 
 # game/logic/events/adele.rpy:351
 translate english adele_2_label_223e580e:
@@ -1024,19 +1024,19 @@ translate english adele_2_label_ddc80dc8:
 translate english adele_2_label_cfe453a0:
 
     # ch_Name "And what can you do here?"
-    ch_Name ""
+    ch_Name "What do customers usually do up here?"
 
 # game/logic/events/adele.rpy:364
 translate english adele_2_label_e2fff0ae:
 
     # Adele "You're the one who decides what to do in this place, honey..."
-    Adele ""
+    Adele "That's up to the customer. You get to decide how you want to use the room, honey..."
 
 # game/logic/events/adele.rpy:366
 translate english adele_2_label_20c38fd2:
 
     # Adele "There's cold champagne in the bucket and whiskey at the bar especially for you."
-    Adele ""
+    Adele "There's cold champagne in this bucket, whiskey at the bar, and it's all for you."
 
 # game/logic/events/adele.rpy:368
 translate english adele_2_label_e03c4396:
@@ -1060,19 +1060,19 @@ translate english adele_2_label_6485db69:
 translate english adele_2_label_ecc59c24:
 
     # Adele "Choose a girl you like, spend some time with her and if everything goes right..."
-    Adele ""
+    Adele "Choose a girl and spend some time with her...{w} if everything goes right..."
 
 # game/logic/events/adele.rpy:374
 translate english adele_2_label_869b6d7a:
 
     # Adele "She'll offer you to take her to the VIP room."
-    Adele ""
+    Adele "She might offer to move the party to the VIP room."
 
 # game/logic/events/adele.rpy:375
 translate english adele_2_label_08e34be8:
 
     # ch_Name "I see. Thank you for the tour. It was most informative."
-    ch_Name ""
+    ch_Name "I see. Thanks for the tour, and well...{w} everything. It was very informative."
 
 # game/logic/events/adele.rpy:376
 translate english adele_2_label_7ab0085a:
@@ -1084,13 +1084,13 @@ translate english adele_2_label_7ab0085a:
 translate english adele_2_label_a870f524:
 
     # Adele "Let's head downstairs."
-    Adele ""
+    Adele "Let's head back down where all the action is."
 
 # game/logic/events/adele.rpy:384
 translate english adele_2_label_88dcf720:
 
     # Adele "So, how do you like Lady's Luck?"
-    Adele ""
+    Adele "So, what do you think of {b}Lady Luck{/b}? Do you like it?"
 
 # game/logic/events/adele.rpy:385
 translate english adele_2_label_ece4e263:
