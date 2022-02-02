@@ -4533,26 +4533,26 @@ translate traditional_chinese Leona_4_label_c2501d80:
 # game/logic/events/Leona.rpy:1267
 translate traditional_chinese Leona_4_label_3b2d4a2b:
 
-    # Leona "I think it's time for you to wake up."
+    # Leona "I think it's time for you to wake up. I need to go now. Summon me on tuesday."
     Leona ""
 
 # game/logic/events/Leona.rpy:1268
 translate traditional_chinese Leona_4_label_f450df55:
 
-    # Leona "See you later."
+    # Leona "Until then I'll try to find out who's behind all of this."
     Leona ""
 
 # game/logic/events/Leona.rpy:1270
 translate traditional_chinese Leona_4_label_0140d2b7:
 
-    # ch_Name "Wait a minute! Are you leaving already?"
+    # ch_Name "Wait a minute! Are you leaving already? I have so many questions for you..."
     ch_Name ""
 
 # game/logic/events/Leona.rpy:1271
 translate traditional_chinese Leona_4_label_3e2672f1:
 
-    # ch_Name "I have so many questions for you..."
-    ch_Name ""
+    # Leona "Alas, I have to go. I'll answer them next time we'll meet."
+    Leona ""
 
 # game/logic/events/Leona.rpy:1279
 translate traditional_chinese Leona_4_label_0c0da4e0:
