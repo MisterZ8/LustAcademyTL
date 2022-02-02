@@ -4,19 +4,19 @@
 translate russian Samantha_4_label_5bea03e8:
 
     # ch_Name "Good afternoon, Miss Lapis. May I have a moment of your time?"
-    ch_Name ""
+    ch_Name "Добрый день, мисс Lapis. Я могу отнять у вас немного времени?"
 
 # game/logic/events/victoria.rpy:235
 translate russian Samantha_4_label_317730bf:
 
     # Victoria "You seem very modest and polite today. [Surname]."
-    Victoria ""
+    Victoria "Ты чрезвычайно скромен и вежлив сегодня, [Surname]."
 
 # game/logic/events/victoria.rpy:236
 translate russian Samantha_4_label_85bc7b4d:
 
     # Victoria "You want something from me, don't you?"
-    Victoria ""
+    Victoria "Тебе что-то нужно от меня, не так ли?"
 
 # game/logic/events/victoria.rpy:237
 translate russian Samantha_4_label_eb215e0d:
