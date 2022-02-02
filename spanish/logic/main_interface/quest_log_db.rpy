@@ -531,8 +531,8 @@ translate spanish strings:
     new "Leona cogió mis recuerdos de la pesadilla que tuve con Katrina para averiguar que me está pasando. Supongo que solo me queda esperar."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "If it weren't for Leona, I'd be stuck in a nightmare forever. It turned out that, under the guise of Katrina, It was a soul-eating phantom who tortured me in my dreams. But who had set it on me?"
-    new "Si no fuera por Leona, estaría atrapado para siempre en la pesadilla. Resultó que, bajo la apariencia de Katrina, un espíritu debora almas era quien me estaba torturando en mis sueños. Pero ¿quien me lo ha puesto?"
+    old "If it weren't for Leona, I'd be stuck in a nightmare forever. It turned out that, under the guise of Katrina, It was a soul-eating phantom who tortured me in my dreams. Right now, I can do nothing about. On the next Tuesday I can summon Leona again to ask what should I do next."
+    new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "It turned out that Jacob was behind the soul-stealing phantom attack. He was testing me to help him overpower Arthur. Jacob assures me that Arthur is the villain who killed my parents. To deal with him, I asked Leona to obtain for me an ancient artifact - the scroll of the Lion's Seal. Now all we have to do is wait."
@@ -703,7 +703,7 @@ translate spanish strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "Samantha was going to a third-year party and asked me to help her pick out an outfit. I hadn't noticed how hot she was before... Now she's gone to the party and probably won't be back until nightfall."
+    old "Samantha was going to a third-year party and asked me to help her pick out an outfit. I hadn't noticed how hot she was before... Now she's gone to the party and probably won't be back until nightfall. I guess I'll wake up if I hear the noise at night."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593

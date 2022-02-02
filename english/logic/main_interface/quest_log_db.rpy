@@ -531,7 +531,7 @@ translate english strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "If it weren't for Leona, I'd be stuck in a nightmare forever. It turned out that, under the guise of Katrina, It was a soul-eating phantom who tortured me in my dreams. But who had set it on me?"
+    old "If it weren't for Leona, I'd be stuck in a nightmare forever. It turned out that, under the guise of Katrina, It was a soul-eating phantom who tortured me in my dreams. Right now, I can do nothing about. On the next Tuesday I can summon Leona again to ask what should I do next."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -703,7 +703,7 @@ translate english strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "Samantha was going to a third-year party and asked me to help her pick out an outfit. I hadn't noticed how hot she was before... Now she's gone to the party and probably won't be back until nightfall."
+    old "Samantha was going to a third-year party and asked me to help her pick out an outfit. I hadn't noticed how hot she was before... Now she's gone to the party and probably won't be back until nightfall. I guess I'll wake up if I hear the noise at night."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
