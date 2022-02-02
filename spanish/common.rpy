@@ -436,709 +436,709 @@ translate spanish strings:
 
     # renpy/common/00gui.rpy:391
     old "Are you sure you want to begin skipping?"
-    new ""
+    new "¿Seguro que quieres empezar el modo salto?"
 
     # renpy/common/00gui.rpy:392
     old "Are you sure you want to skip to the next choice?"
-    new ""
+    new "¿Seguro que quieres saltar a la siguiente elección?"
 
     # renpy/common/00gui.rpy:393
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new ""
+    new "¿Seguro que quieres saltar diálogos desconocidos hasta la siguiente elección?"
 
     # renpy/common/00keymap.rpy:306
     old "Failed to save screenshot as %s."
-    new ""
+    new "No se ha podido guardar la captura de pantalla como %s."
 
     # renpy/common/00keymap.rpy:318
     old "Saved screenshot as %s."
-    new ""
+    new "Captura de pantalla guardada como %s."
 
     # renpy/common/00library.rpy:195
     old "Skip Mode"
-    new ""
+    new "Modo salto"
 
     # renpy/common/00library.rpy:281
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new ""
+    new "Este programa contiene software libre bajo una serie de licencias, incluyendo la Licencia MIT y la Licencia Pública General Menor de GNU. Puedes encontrar la lista completa del software, incluidos los enlaces al código fuente completo en {a=https://www.renpy.org/l/license}here{/a}."
 
     # renpy/common/00preferences.rpy:247
     old "display"
-    new ""
+    new "Pantalla"
 
     # renpy/common/00preferences.rpy:259
     old "transitions"
-    new ""
+    new "Transiciones"
 
     # renpy/common/00preferences.rpy:268
     old "skip transitions"
-    new ""
+    new "Saltar transiciones"
 
     # renpy/common/00preferences.rpy:270
     old "video sprites"
-    new ""
+    new "Sprites de vídeo"
 
     # renpy/common/00preferences.rpy:279
     old "show empty window"
-    new ""
+    new "Mostrar ventana vacía"
 
     # renpy/common/00preferences.rpy:288
     old "text speed"
-    new ""
+    new "Velocidad del texto"
 
     # renpy/common/00preferences.rpy:296
     old "joystick"
-    new ""
+    new "joystick"
 
     # renpy/common/00preferences.rpy:296
     old "joystick..."
-    new ""
+    new "joystick..."
 
     # renpy/common/00preferences.rpy:303
     old "skip"
-    new ""
+    new "Saltar"
 
     # renpy/common/00preferences.rpy:306
     old "skip unseen [text]"
-    new ""
+    new "Saltar sin ver [text]"
 
     # renpy/common/00preferences.rpy:311
     old "skip unseen text"
-    new ""
+    new "Saltar text no visto"
 
     # renpy/common/00preferences.rpy:313
     old "begin skipping"
-    new ""
+    new "Empezar modo salto"
 
     # renpy/common/00preferences.rpy:317
     old "after choices"
-    new ""
+    new "Tras decisiones"
 
     # renpy/common/00preferences.rpy:324
     old "skip after choices"
-    new ""
+    new "SAltar tras decisiones"
 
     # renpy/common/00preferences.rpy:326
     old "auto-forward time"
-    new ""
+    new "Avanzar tiempo automáticamente"
 
     # renpy/common/00preferences.rpy:340
     old "auto-forward"
-    new ""
+    new "Avance automático"
 
     # renpy/common/00preferences.rpy:347
     old "Auto forward"
-    new ""
+    new "Avance automático"
 
     # renpy/common/00preferences.rpy:350
     old "auto-forward after click"
-    new ""
+    new "Avance automático después de pulsar"
 
     # renpy/common/00preferences.rpy:359
     old "automatic move"
-    new ""
+    new "Movimiento automático"
 
     # renpy/common/00preferences.rpy:368
     old "wait for voice"
-    new ""
+    new "Espera la voz"
 
     # renpy/common/00preferences.rpy:377
     old "voice sustain"
-    new ""
+    new "Voz constante"
 
     # renpy/common/00preferences.rpy:386
     old "self voicing"
-    new ""
+    new "Voz automática"
 
     # renpy/common/00preferences.rpy:395
     old "self voicing volume drop"
-    new ""
+    new "caída de volumen de voz automática"
 
     # renpy/common/00preferences.rpy:403
     old "clipboard voicing"
-    new ""
+    new "Voz en teclado"
 
     # renpy/common/00preferences.rpy:412
     old "debug voicing"
-    new ""
+    new "Debug voz"
 
     # renpy/common/00preferences.rpy:421
     old "emphasize audio"
-    new ""
+    new "Enfatizar audio"
 
     # renpy/common/00preferences.rpy:430
     old "rollback side"
-    new ""
+    new "Lado retroceso"
 
     # renpy/common/00preferences.rpy:440
     old "gl powersave"
-    new ""
+    new "gl ahorro de energía"
 
     # renpy/common/00preferences.rpy:446
     old "gl framerate"
-    new ""
+    new "gl imagen por segundo"
 
     # renpy/common/00preferences.rpy:449
     old "gl tearing"
-    new ""
+    new "gl tearing"
 
     # renpy/common/00preferences.rpy:452
     old "font transform"
-    new ""
+    new "Cambio de fuente"
 
     # renpy/common/00preferences.rpy:455
     old "font size"
-    new ""
+    new "Tamaño de fuente"
 
     # renpy/common/00preferences.rpy:463
     old "font line spacing"
-    new ""
+    new "Fuente de espaciado de líneas"
 
     # renpy/common/00preferences.rpy:471
     old "system cursor"
-    new ""
+    new "Cursor del sistema"
 
     # renpy/common/00preferences.rpy:480
     old "renderer menu"
-    new ""
+    new "Menú de renderizado"
 
     # renpy/common/00preferences.rpy:483
     old "accessibility menu"
-    new ""
+    new "Accesibilidad al menu"
 
     # renpy/common/00preferences.rpy:496
     old "music volume"
-    new ""
+    new "Volumen de la música"
 
     # renpy/common/00preferences.rpy:497
     old "sound volume"
-    new ""
+    new "Volumen del sonido"
 
     # renpy/common/00preferences.rpy:498
     old "voice volume"
-    new ""
+    new "Volumen de la voz"
 
     # renpy/common/00preferences.rpy:499
     old "mute music"
-    new ""
+    new "Mutear música"
 
     # renpy/common/00preferences.rpy:500
     old "mute sound"
-    new ""
+    new "Mutear sonido"
 
     # renpy/common/00preferences.rpy:501
     old "mute voice"
-    new ""
+    new "Mutear voz"
 
     # renpy/common/00preferences.rpy:502
     old "mute all"
-    new ""
+    new "Mutear todo"
 
     # renpy/common/00preferences.rpy:583
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new ""
+    new "Teclado de voz activado. Pulsa 'shift+C' para desactivar"
 
     # renpy/common/00preferences.rpy:585
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new ""
+    new "Voz automática dirà \"[renpy.display.tts.last]\". Pulsa 'alt+shift+V' para desactivar."
 
     # renpy/common/00preferences.rpy:587
     old "Self-voicing enabled. Press 'v' to disable."
-    new ""
+    new "Voz automática activada. Presiona 'v' para desactivarla."
 
     # renpy/common/_compat/gamemenu.rpym:198
     old "Empty Slot."
-    new ""
+    new "Hueco vacío"
 
     # renpy/common/_compat/gamemenu.rpym:355
     old "Previous"
-    new ""
+    new "Anterior"
 
     # renpy/common/_compat/gamemenu.rpym:362
     old "Next"
-    new ""
+    new "Siguiente"
 
     # renpy/common/_compat/preferences.rpym:428
     old "Joystick Mapping"
-    new ""
+    new "Mapeado del Joystick"
 
     # renpy/common/_developer/developer.rpym:38
     old "Developer Menu"
-    new ""
+    new "Menú de desarrollador"
 
     # renpy/common/_developer/developer.rpym:43
     old "Interactive Director (D)"
-    new ""
+    new "Directorio interactivo (D)"
 
     # renpy/common/_developer/developer.rpym:45
     old "Reload Game (Shift+R)"
-    new ""
+    new "Reiniciar juego (Shift+R)"
 
     # renpy/common/_developer/developer.rpym:47
     old "Console (Shift+O)"
-    new ""
+    new "Consola (Mayús.+O)"
 
     # renpy/common/_developer/developer.rpym:49
     old "Variable Viewer"
-    new ""
+    new "Visor de variables"
 
     # renpy/common/_developer/developer.rpym:51
     old "Image Location Picker"
-    new ""
+    new "Selector de posición en imágenes"
 
     # renpy/common/_developer/developer.rpym:53
     old "Filename List"
-    new ""
+    new "Lista de archivos"
 
     # renpy/common/_developer/developer.rpym:57
     old "Show Image Load Log (F4)"
-    new ""
+    new "Mostrar registro de carga de imagen (F4)"
 
     # renpy/common/_developer/developer.rpym:60
     old "Hide Image Load Log (F4)"
-    new ""
+    new "Ocultar registro de carga de imagen (F4)"
 
     # renpy/common/_developer/developer.rpym:63
     old "Image Attributes"
-    new ""
+    new "Atributos de imagen"
 
     # renpy/common/_developer/developer.rpym:90
     old "[name] [attributes] (hidden)"
-    new ""
+    new "[name] [attributes] (hidden)"
 
     # renpy/common/_developer/developer.rpym:94
     old "[name] [attributes]"
-    new ""
+    new "[name] [attributes] (hidden)"
 
     # renpy/common/_developer/developer.rpym:143
     old "Nothing to inspect."
-    new ""
+    new "Nada que inspeccionar"
 
     # renpy/common/_developer/developer.rpym:154
     old "Hide deleted"
-    new ""
+    new "Ocultar borrados"
 
     # renpy/common/_developer/developer.rpym:154
     old "Show deleted"
-    new ""
+    new "Mostrar eliminados"
 
     # renpy/common/_developer/developer.rpym:278
     old "Return to the developer menu"
-    new ""
+    new "Volver al menú de desarrollador"
 
     # renpy/common/_developer/developer.rpym:443
     old "Rectangle: %r"
-    new ""
+    new "Rectangulo: %r"
 
     # renpy/common/_developer/developer.rpym:448
     old "Mouse position: %r"
-    new ""
+    new "Posición del ratón: %r"
 
     # renpy/common/_developer/developer.rpym:453
     old "Right-click or escape to quit."
-    new ""
+    new "Click derecho o escape para salir"
 
     # renpy/common/_developer/developer.rpym:485
     old "Rectangle copied to clipboard."
-    new ""
+    new "Rectángulo copiado al portapapeles."
 
     # renpy/common/_developer/developer.rpym:488
     old "Position copied to clipboard."
-    new ""
+    new "Posición copiada al portapapeles."
 
     # renpy/common/_developer/developer.rpym:506
     old "Type to filter: "
-    new ""
+    new "Escriba para filtrar:"
 
     # renpy/common/_developer/developer.rpym:631
     old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
-    new ""
+    new "Texturas: [tex_count] ([tex_size_mb:.1f] MB)"
 
     # renpy/common/_developer/developer.rpym:635
     old "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
-    new ""
+    new "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
 
     # renpy/common/_developer/developer.rpym:645
     old "✔ "
-    new ""
+    new "✔ "
 
     # renpy/common/_developer/developer.rpym:648
     old "✘ "
-    new ""
+    new "✘"
 
     # renpy/common/_developer/developer.rpym:653
     old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
-    new ""
+    new "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
 
     # renpy/common/_developer/inspector.rpym:38
     old "Displayable Inspector"
-    new ""
+    new "Inspector de visualizaciones"
 
     # renpy/common/_developer/inspector.rpym:61
     old "Size"
-    new ""
+    new "Tamaño"
 
     # renpy/common/_developer/inspector.rpym:65
     old "Style"
-    new ""
+    new "Estilo"
 
     # renpy/common/_developer/inspector.rpym:71
     old "Location"
-    new ""
+    new "Localización"
 
     # renpy/common/_developer/inspector.rpym:122
     old "Inspecting Styles of [displayable_name!q]"
-    new ""
+    new "Inspeccionando estilos de [displayable_name!q]"
 
     # renpy/common/_developer/inspector.rpym:139
     old "displayable:"
-    new ""
+    new "Visualizable:"
 
     # renpy/common/_developer/inspector.rpym:145
     old "        (no properties affect the displayable)"
-    new ""
+    new "        (no hya propiedes que afecten a la visualización)"
 
     # renpy/common/_developer/inspector.rpym:147
     old "        (default properties omitted)"
-    new ""
+    new "        (propiedades por defecto omitidas)"
 
     # renpy/common/_developer/inspector.rpym:185
     old "<repr() failed>"
-    new ""
+    new "<repr() failed>"
 
     # renpy/common/_layout/classic_load_save.rpym:170
     old "a"
-    new ""
+    new "a"
 
     # renpy/common/_layout/classic_load_save.rpym:179
     old "q"
-    new ""
+    new "q"
 
     # renpy/common/00iap.rpy:219
     old "Contacting App Store\nPlease Wait..."
-    new ""
+    new "Contactando con le App Stor\nPor favor espere..."
 
     # renpy/common/00updater.rpy:374
     old "The Ren'Py Updater is not supported on mobile devices."
-    new ""
+    new "El Ren'Py Uptader no es compatible en dispositivos móviles"
 
     # renpy/common/00updater.rpy:496
     old "An error is being simulated."
-    new ""
+    new "Un error está siendo simulado"
 
     # renpy/common/00updater.rpy:680
     old "Either this project does not support updating, or the update status file was deleted."
-    new ""
+    new "O bien este proyecto no es compatible con la actualización o el archivo de estado de la actualización se ha eliminado."
 
     # renpy/common/00updater.rpy:694
     old "This account does not have permission to perform an update."
-    new ""
+    new "Esta cuenta no tiene permiso para realizar una actualización."
 
     # renpy/common/00updater.rpy:697
     old "This account does not have permission to write the update log."
-    new ""
+    new "Esta cuenta no tiene permiso para escribir en el registro de actualización."
 
     # renpy/common/00updater.rpy:724
     old "Could not verify update signature."
-    new ""
+    new "No se pudo verificar la actualización de firmas."
 
     # renpy/common/00updater.rpy:995
     old "The update file was not downloaded."
-    new ""
+    new "El archivo de actualización no se ha descargado."
 
     # renpy/common/00updater.rpy:1013
     old "The update file does not have the correct digest - it may have been corrupted."
-    new ""
+    new "El archivo de actualización no tiene el 'digest' correcto - es posible que esté dañado."
 
     # renpy/common/00updater.rpy:1067
     old "While unpacking {}, unknown type {}."
-    new ""
+    new "Tipo desconocido {} al desempaquetar {}."
 
     # renpy/common/00updater.rpy:1433
     old "Updater"
-    new ""
+    new "Actualizador"
 
     # renpy/common/00updater.rpy:1440
     old "An error has occured:"
-    new ""
+    new "Ha ocurrido un error:"
 
     # renpy/common/00updater.rpy:1442
     old "Checking for updates."
-    new ""
+    new "Buscando actualizaciones."
 
     # renpy/common/00updater.rpy:1444
     old "This program is up to date."
-    new ""
+    new "Este programa está actualizado."
 
     # renpy/common/00updater.rpy:1446
     old "[u.version] is available. Do you want to install it?"
-    new ""
+    new "[u.version] está disponible. ¿quieres instalarla?"
 
     # renpy/common/00updater.rpy:1448
     old "Preparing to download the updates."
-    new ""
+    new "Preparando la descarga de actualizaciones."
 
     # renpy/common/00updater.rpy:1450
     old "Downloading the updates."
-    new ""
+    new "Descargando actualizaciones."
 
     # renpy/common/00updater.rpy:1452
     old "Unpacking the updates."
-    new ""
+    new "Desempaquetando la actualización"
 
     # renpy/common/00updater.rpy:1454
     old "Finishing up."
-    new ""
+    new "Finalizado"
 
     # renpy/common/00updater.rpy:1456
     old "The updates have been installed. The program will restart."
-    new ""
+    new "La actualización ha sido instalada. El programa se reiniciara"
 
     # renpy/common/00updater.rpy:1458
     old "The updates have been installed."
-    new ""
+    new "Las actualizaciones han sido instaladas."
 
     # renpy/common/00updater.rpy:1460
     old "The updates were cancelled."
-    new ""
+    new "Las actualizaciones han sido canceladas."
 
     # renpy/common/00updater.rpy:1475
     old "Proceed"
-    new ""
+    new "Continuar"
 
     # renpy/common/00compat.rpy:320
     old "Fullscreen"
-    new ""
+    new "Pantalla completa"
 
     # renpy/common/00gallery.rpy:590
     old "Image [index] of [count] locked."
-    new ""
+    new "imagen [index] de [cuenta] bloqueada."
 
     # renpy/common/00gallery.rpy:610
     old "prev"
-    new ""
+    new "ant."
 
     # renpy/common/00gallery.rpy:611
     old "next"
-    new ""
+    new "Siguiente"
 
     # renpy/common/00gallery.rpy:612
     old "slideshow"
-    new ""
+    new "Presentación"
 
     # renpy/common/00gallery.rpy:613
     old "return"
-    new ""
+    new "Volver"
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
-    new ""
+    new "Renderización"
 
     # renpy/common/00gltest.rpy:93
     old "Automatically Choose"
-    new ""
+    new "Elegir automáticamente"
 
     # renpy/common/00gltest.rpy:100
     old "Force GL Renderer"
-    new ""
+    new "Forzar renderizado GL"
 
     # renpy/common/00gltest.rpy:105
     old "Force ANGLE Renderer"
-    new ""
+    new "Forzar renderizado ANGLE"
 
     # renpy/common/00gltest.rpy:110
     old "Force GLES Renderer"
-    new ""
+    new "Forzar renderizado GLES"
 
     # renpy/common/00gltest.rpy:116
     old "Force GL2 Renderer"
-    new ""
+    new "Forzar renderizado GL2"
 
     # renpy/common/00gltest.rpy:121
     old "Force ANGLE2 Renderer"
-    new ""
+    new "Forzar renderizado ANGLE2"
 
     # renpy/common/00gltest.rpy:126
     old "Force GLES2 Renderer"
-    new ""
+    new "Forzar renderizado GLES2"
 
     # renpy/common/00gltest.rpy:132
     old "Gamepad"
-    new ""
+    new "Mando"
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
-    new ""
+    new "Habilitado (No Blocklist)"
 
     # renpy/common/00gltest.rpy:159
     old "Powersave"
-    new ""
+    new "Ahorro de energía"
 
     # renpy/common/00gltest.rpy:173
     old "Framerate"
-    new ""
+    new "Imágenes por segundo"
 
     # renpy/common/00gltest.rpy:177
     old "Screen"
-    new ""
+    new "Pantalla"
 
     # renpy/common/00gltest.rpy:181
     old "60"
-    new ""
+    new "60"
 
     # renpy/common/00gltest.rpy:185
     old "30"
-    new ""
+    new "30"
 
     # renpy/common/00gltest.rpy:191
     old "Tearing"
-    new ""
+    new "Tearing"
 
     # renpy/common/00gltest.rpy:207
     old "Changes will take effect the next time this program is run."
-    new ""
+    new "Los cambios se aplicarán la proxima vez que se ejecute el programa."
 
     # renpy/common/00gltest.rpy:242
     old "Performance Warning"
-    new ""
+    new "Alerta de rendimiento"
 
     # renpy/common/00gltest.rpy:247
     old "This computer is using software rendering."
-    new ""
+    new "Este ordenador usa 'software rendering'."
 
     # renpy/common/00gltest.rpy:249
     old "This game requires use of GL2 that can't be initialised."
-    new ""
+    new "Este juego requiere el uso de GL2 que no se puede inicializar."
 
     # renpy/common/00gltest.rpy:251
     old "This computer has a problem displaying graphics: [problem]."
-    new ""
+    new "Este ordenador tiene un problema mostrando los gráficos: [problem]."
 
     # renpy/common/00gltest.rpy:255
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new ""
+    new "Los controladores gráficos pueden estar obsoletos o no funcionar adecuadamente. Esto puede conllevar que los gráficos se muestren lenta o incorrectamente"
 
     # renpy/common/00gltest.rpy:259
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new ""
+    new "El archivo {a=edit:1:log.txt}log.txt{/a} puede contener información para ayudarte a determinar lo que ocurre con tu ordenador"
 
     # renpy/common/00gltest.rpy:264
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new ""
+    new "Puede encontrar más detalles sobre cómo solucionar este problema en la {a=[url]} documentación {/a}."
 
     # renpy/common/00gltest.rpy:269
     old "Continue, Show this warning again"
-    new ""
+    new "Continuar. Mostrar este aviso de nuevo"
 
     # renpy/common/00gltest.rpy:273
     old "Continue, Don't show warning again"
-    new ""
+    new "Continuar. No mostrar este aviso de nuevo"
 
     # renpy/common/00gltest.rpy:281
     old "Change render options"
-    new ""
+    new "Cambiar opciones de render"
 
     # renpy/common/00gamepad.rpy:32
     old "Select Gamepad to Calibrate"
-    new ""
+    new "Selecciona mando para calibrar"
 
     # renpy/common/00gamepad.rpy:35
     old "No Gamepads Available"
-    new ""
+    new "No hay mandos disponibles"
 
     # renpy/common/00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
-    new ""
+    new "Calibrando [name] ([i]/[total])"
 
     # renpy/common/00gamepad.rpy:58
     old "Press or move the '[control!s]' [kind]."
-    new ""
+    new "Presiona o mueve el '[control!s]' [kind]."
 
     # renpy/common/00gamepad.rpy:68
     old "Skip (A)"
-    new ""
+    new "Salto (A)"
 
     # renpy/common/00gamepad.rpy:71
     old "Back (B)"
-    new ""
+    new "Atrás (B)"
 
     # renpy/common/_errorhandling.rpym:542
     old "Open"
-    new ""
+    new "Abrir"
 
     # renpy/common/_errorhandling.rpym:544
     old "Opens the traceback.txt file in a text editor."
-    new ""
+    new "Abre el archivo de rastreo 'traceback.txt' en un editor de texto."
 
     # renpy/common/_errorhandling.rpym:546
     old "Copy BBCode"
-    new ""
+    new "Copiar BBCode"
 
     # renpy/common/_errorhandling.rpym:548
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new ""
+    new "Copia el archivo traceback.txt en el portapapeles como BBcode para foros como https://lemmasoft.renai.us/."
 
     # renpy/common/_errorhandling.rpym:550
     old "Copy Markdown"
-    new ""
+    new "Copiar Markdown"
 
     # renpy/common/_errorhandling.rpym:552
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
-    new ""
+    new "Copia el archivo traceback.txt al portapapeles como Markdown paara Discord."
 
     # renpy/common/_errorhandling.rpym:581
     old "An exception has occurred."
-    new ""
+    new "Ha sucedido una excepción."
 
     # renpy/common/_errorhandling.rpym:604
     old "Rollback"
-    new ""
+    new "Retroceder"
 
     # renpy/common/_errorhandling.rpym:606
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new ""
+    new "Intenta volver a un momento anterior y permite guardar o escoger una opción diferente."
 
     # renpy/common/_errorhandling.rpym:613
     old "Ignores the exception, allowing you to continue."
-    new ""
+    new "Ignora la excepción y permite continuar."
 
     # renpy/common/_errorhandling.rpym:615
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new ""
+    new "Ignora la excepción y permite continuar. Suele conllevar más errores."
 
     # renpy/common/_errorhandling.rpym:619
     old "Reload"
-    new ""
+    new "Recargar"
 
     # renpy/common/_errorhandling.rpym:621
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new ""
+    new "Recarga el juego del disco, guardando y restaurando la partida si es posible."
 
     # renpy/common/_errorhandling.rpym:624
     old "Console"
-    new ""
+    new "Consola"
 
     # renpy/common/_errorhandling.rpym:626
     old "Opens a console to allow debugging the problem."
-    new ""
+    new "Abre una consola y permite depurar el problema."
 
     # renpy/common/_errorhandling.rpym:639
     old "Quits the game."
-    new ""
+    new "Sale del juego"
 
     # renpy/common/_errorhandling.rpym:660
     old "Parsing the script failed."
-    new ""
+    new "Error en el análisis del código."
 
     # renpy/common/_errorhandling.rpym:686
     old "Opens the errors.txt file in a text editor."
-    new ""
+    new "Abre el archivo de errores, 'errors.txt', en un editor de texto."
 
     # renpy/common/_errorhandling.rpym:690
     old "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new ""
+    new "Copia el archivo errors.txt en el portapapeles como BBcode para foros como https://lemmasoft.renai.us/."
 
     # renpy/common/_errorhandling.rpym:694
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
-    new ""
+    new "Copia el archivo errors.txt al portapapeles como Markdown para Discord."
 
