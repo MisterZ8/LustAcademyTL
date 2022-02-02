@@ -4,199 +4,199 @@
 translate spanish sheet_21_32a5acae:
 
     # Victoria "Attention! "
-    Victoria ""
+    Victoria "¡Atención!"
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:6
 translate spanish sheet_21_a8b041e5:
 
     # Victoria "The exam will take place on an individual basis."
-    Victoria ""
+    Victoria "El examen se hará de forma individual."
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:8
 translate spanish sheet_21_df79e689:
 
     # Victoria "We'll meet in the classroom 1."
-    Victoria ""
+    Victoria "Nos encontraremos en la clase 1."
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:10
 translate spanish sheet_21_64ea08cc:
 
     # Victoria "To get to the classroom you need to go to the second door on the left."
-    Victoria ""
+    Victoria "Para ir a la clase tendréis que ir a la segunda puerta de la izquierda."
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:12
 translate spanish sheet_21_cd31bfab:
 
     # Victoria "On the other side of the garden."
-    Victoria ""
+    Victoria "Al otro lado del jardín."
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:14
 translate spanish sheet_21_73689063:
 
     # Haley "Excuse me, Miss Lapis!"
-    Haley ""
+    Haley "¡Disculpe, Miss Lapiss!"
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:16
 translate spanish sheet_21_fa5977a2:
 
     # Victoria "Yes?"
-    Victoria ""
+    Victoria "¿Si?"
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:18
 translate spanish sheet_21_3186aac9:
 
     # Haley "Is the fountain behind your back magical?"
-    Haley ""
+    Haley "¿La fuente que tiene detras es mágica?"
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:20
 translate spanish sheet_21_5fa1cd32:
 
     # Victoria "Oh, the \"Meek Dame\"?"
-    Victoria ""
+    Victoria "Oh, ¿La \"Dama mansa\"?"
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:22
 translate spanish sheet_21_c245a14f:
 
     # Victoria "Nice spot. You've got a good magical feeling, young lady!"
-    Victoria ""
+    Victoria "Buen punto. ¡Tienes un buen sentido mágico, señorita!"
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:24
 translate spanish sheet_21_5a7f6537:
 
     # Victoria "The statue is far older than the fountain itself."
-    Victoria ""
+    Victoria "La estatua es mucho mas vieja que la fuente en si."
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:26
 translate spanish sheet_21_1ba0c3d3:
 
     # Victoria "Legends say that it came from Cordoba with one of the founders..."
-    Victoria ""
+    Victoria "Cuenta la leyenda que vino desde Cordoba con una de las fundadoras..."
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:28
 translate spanish sheet_21_69b52e79:
 
     # Victoria "And that it contains great evil magic..."
-    Victoria ""
+    Victoria "Y que contiene una gran magia maligna... "
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:30
 translate spanish sheet_21_dfb2dc04:
 
     # Victoria "But don't get too scared!"
-    Victoria ""
+    Victoria "¡Pero no te asustes demasiado!"
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:32
 translate spanish sheet_21_9f426bd1:
 
     # Victoria "It's been around here forever, even when I was a student."
-    Victoria ""
+    Victoria "Ha estado aquí desde siempre, incluso cuando yo era estudiante."
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:34
 translate spanish sheet_21_ed09bcd5:
 
     # Victoria "And not once was it activated. "
-    Victoria ""
+    Victoria "Y nunca se ha activado."
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:36
 translate spanish sheet_21_cab47bed:
 
     # Victoria "Despite a lot of horror stories sophomores will tell you."
-    Victoria ""
+    Victoria "A pesar de todas las historias de terror que los de segundo año puedan contarte."
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:37
 translate spanish sheet_21_1725268c:
 
     # Victoria "I don't want to ruin all the fun for older kids."
-    Victoria ""
+    Victoria "No quiero aguarles la fiesta a los mayores."
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:38
 translate spanish sheet_21_37cdc9c5:
 
     # Victoria "But according to them, every doorknob in this castle has a dark secret."
-    Victoria ""
+    Victoria "Pero según ellos, todos los picaportes del castillo tienen un oscuro secreto."
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:41
 translate spanish sheet_21_bee1e71f:
 
     # Victoria "Alright! Let's focus on the exam, shall we?"
-    Victoria ""
+    Victoria "¡Muy bien! Centrémonos en el examen, os parece?"
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:43
 translate spanish sheet_21_395e5e86:
 
     # Victoria "Second door on the left, as I've said it."
-    Victoria ""
+    Victoria "Segunda puerta de la izquierda, como he dicho."
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:45
 translate spanish sheet_21_7d83dbff:
 
     # Victoria "You can enter when I announce \"Next.\""
-    Victoria ""
+    Victoria "Puede entrar cuando diga \"Siguiente.\""
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:47
 translate spanish sheet_21_9be6ce19:
 
     # Victoria "Anyone who tries to peek in on the exam will be sent home."
-    Victoria ""
+    Victoria "Cualquiera que intente espiar los examenes será enviado a casa."
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:49
 translate spanish sheet_21_7010a762:
 
     # Victoria "Let's get started. Good luck!"
-    Victoria ""
+    Victoria "Empecemos. ¡Buena suerte!"
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:53
 translate spanish sheet_21_6338b434:
 
     # ch_Name "{i}(Oh man.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Jo tío.){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:55
 translate spanish sheet_21_9771c08a:
 
     # ch_Name "{i}(I know I should be focused on magic...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Se que debería centrarme en la magia...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:57
 translate spanish sheet_21_f538235b:
 
     # ch_Name "{i}(But she is so gorgeous...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pero es que está tan buena...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:59
 translate spanish sheet_21_c11fb085:
 
     # ch_Name "{i}(Damn it!){/i}"
-    ch_Name ""
+    ch_Name "{i}(¡Maldición!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:61
 translate spanish sheet_21_944d302c:
 
     # ch_Name "{i}(Focus, [Name]!){/i}"
-    ch_Name ""
+    ch_Name "{i}(¡Céntrate, [Nombre]!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:63
 translate spanish sheet_21_5e3c4e0d:
 
     # ch_Name "{i}(This is my chance to start a new life.){/i}"
-    ch_Name ""
+    ch_Name "{iç(Esta es mi oportunidad de empezar de cero.){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:65
 translate spanish sheet_21_3f9b6ae0:
 
     # ch_Name "{i}(As a freaking wizard!){/i}"
-    ch_Name ""
+    ch_Name "{i}(¡Como un maldito mago!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:67
 translate spanish sheet_21_9f9b683d:
 
     # ch_Name "{i}(Look out, Victoria! Here I go!){/i}"
-    ch_Name ""
+    ch_Name "{i}(¡Cuidado Victoria!, ¡Allá voy!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:69
 translate spanish sheet_21_547f9c67:
 
     # ch_Name "{i}(Oh! Is that Haley?){/i}"
-    ch_Name ""
+    ch_Name "{i}(¡Oh!" ¿Esa es Haley?){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:71
 translate spanish sheet_21_6c4dcf45:
