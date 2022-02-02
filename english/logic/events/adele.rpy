@@ -10,13 +10,13 @@ translate english adele_1_label_efeaf80b:
 translate english adele_1_label_24019c48:
 
     # Adele "Welcome to the Lady Luck, honey!"
-    Adele ""
+    Adele "Welcome to {b}Lady Luck{/b}, honey!"
 
 # game/logic/events/adele.rpy:92
 translate english adele_1_label_d7d11d21:
 
     # Adele "Don't be shy, come in!"
-    Adele ""
+    Adele "Don't be shy, come on in!"
 
 # game/logic/events/adele.rpy:94
 translate english adele_1_label_47c177b7:
@@ -28,37 +28,37 @@ translate english adele_1_label_47c177b7:
 translate english adele_1_label_f2f91473:
 
     # Adele "It's nice to see you."
-    Adele ""
+    Adele "It's nice to properly meet..."
 
 # game/logic/events/adele.rpy:97
 translate english adele_1_label_934cf06d:
 
     # Adele "You look like a hero."
-    Adele ""
+    Adele "...{b}my{/b} hero."
 
 # game/logic/events/adele.rpy:98
 translate english adele_1_label_8be935fe:
 
     # ch_Name "Come on, I'm just..."
-    ch_Name ""
+    ch_Name "Come on now, I just..."
 
 # game/logic/events/adele.rpy:100
 translate english adele_1_label_cf46efba:
 
     # Adele "You won't regreat you've stopped by."
-    Adele ""
+    Adele "Did the right thing.{w} I promise you won't regret it."
 
 # game/logic/events/adele.rpy:101
 translate english adele_1_label_ac7bbadc:
 
     # ch_Name "{i}(Her hands are so soft...){/i}"
-    ch_Name ""
+    ch_Name "{i}(She has such a gentle touch, and her hands are so soft...){/i}"
 
 # game/logic/events/adele.rpy:102
 translate english adele_1_label_d2cd6dee:
 
     # ch_Name "{i}(I never thought that a simple touch could be so pleasant...){/i}"
-    ch_Name ""
+    ch_Name "{i}(I wasn't expecting her touch to be this pleasant...){/i}"
 
 # game/logic/events/adele.rpy:104
 translate english adele_1_label_feafb0b3:
@@ -70,7 +70,7 @@ translate english adele_1_label_feafb0b3:
 translate english adele_1_label_ead3e140:
 
     # Adele "Come on."
-    Adele ""
+    Adele "Pfft... Come off it."
 
 # game/logic/events/adele.rpy:106
 translate english adele_1_label_839ca76d:
@@ -88,19 +88,19 @@ translate english adele_1_label_22a4b9a8:
 translate english adele_1_label_569442f9:
 
     # Adele "There's a great view of the place from here."
-    Adele ""
+    Adele "You get the best view of the club from over here."
 
 # game/logic/events/adele.rpy:110
 translate english adele_1_label_4f864279:
 
     # Adele "You like what you see?"
-    Adele ""
+    Adele "Do you like what you see?"
 
 # game/logic/events/adele.rpy:111
 translate english adele_1_label_0a743bf8:
 
     # ch_Name "I guess so."
-    ch_Name ""
+    ch_Name "Yeah...{w} I do."
 
 # game/logic/events/adele.rpy:113
 translate english adele_1_label_ead3e140_1:
@@ -142,19 +142,19 @@ translate english adele_1_label_2996e23a:
 translate english adele_1_label_b34f9f72:
 
     # Adele "Lucy is our young beauty from Europe."
-    Adele ""
+    Adele "Lucy is our youngest beauty, all the way from Europe."
 
 # game/logic/events/adele.rpy:122
 translate english adele_1_label_fd4aff03:
 
     # Adele "She's still very naive and young."
-    Adele ""
+    Adele "She's new, passionate, but still a little naive."
 
 # game/logic/events/adele.rpy:124
 translate english adele_1_label_37d05529:
 
     # Adele "But you wouldn't know it from her body."
-    Adele ""
+    Adele "Bet you couldn't tell just by looking at her."
 
 # game/logic/events/adele.rpy:125
 translate english adele_1_label_b7f48e9c:
@@ -166,7 +166,7 @@ translate english adele_1_label_b7f48e9c:
 translate english adele_1_label_bbdfeb91:
 
     # Adele "But you'll certainly have a lot to do together."
-    Adele ""
+    Adele "But, I'm sure you'll have fun finding a way to...{w} \"communicate\"."
 
 # game/logic/events/adele.rpy:128
 translate english adele_1_label_5d2f0582:
@@ -184,19 +184,19 @@ translate english adele_1_label_5fed6f97:
 translate english adele_1_label_97945001:
 
     # Adele "Silly, who makes a choice without looking at all the offers?"
-    Adele ""
+    Adele "Silly, who makes a choice without exploring all of their options first?"
 
 # game/logic/events/adele.rpy:132
 translate english adele_1_label_b3f98a40:
 
     # Adele "The exotic beauty Sadira."
-    Adele ""
+    Adele "The exotic beauty...{w} Sadira."
 
 # game/logic/events/adele.rpy:133
 translate english adele_1_label_a1bcab96:
 
     # Adele "She holds a lot of surprises."
-    Adele ""
+    Adele "Enticing, mysterious, and full of surprises."
 
 # game/logic/events/adele.rpy:135
 translate english adele_1_label_43374171:
@@ -220,7 +220,7 @@ translate english adele_1_label_35ae4e18:
 translate english adele_1_label_6208fab4:
 
     # ch_Name "Alight-alright, No killing today."
-    ch_Name ""
+    ch_Name "Alright-alright, No killing today."
 
 # game/logic/events/adele.rpy:140
 translate english adele_1_label_a55e73f0:
@@ -232,49 +232,49 @@ translate english adele_1_label_a55e73f0:
 translate english adele_1_label_603ec03a:
 
     # Adele "At the top of the stairs situated our private VIP lounge."
-    Adele ""
+    Adele "These stairs lead to our private VIP lounge."
 
 # game/logic/events/adele.rpy:143
 translate english adele_1_label_45db1372:
 
     # ch_Name "A VIP lounge, you say? What's so different about it?"
-    ch_Name ""
+    ch_Name "A VIP lounge? What makes it so special?"
 
 # game/logic/events/adele.rpy:144
 translate english adele_1_label_47d0bdda:
 
     # Adele "Oh, honey."
-    Adele ""
+    Adele "Oh, you're sweet. I guess Lucy isn't the only naive one here tonight."
 
 # game/logic/events/adele.rpy:145
 translate english adele_1_label_ae2db2b2:
 
     # Adele "Believe me, depending on your generosity, a lot of things are possible in there."
-    Adele ""
+    Adele "Believe me, it's a world of possibilities for our more generous patrons."
 
 # game/logic/events/adele.rpy:147
 translate english adele_1_label_77829dd3:
 
     # Adele "A lot of things."
-    Adele ""
+    Adele "Pleasurable possibilities"
 
 # game/logic/events/adele.rpy:148
 translate english adele_1_label_eb238ca5:
 
     # Adele "All of our customers' fondest memories of the club are associated with this place."
-    Adele ""
+    Adele "If this room could speak, well...{w} our customers fondest memories are all it would talk about."
 
 # game/logic/events/adele.rpy:149
 translate english adele_1_label_bd4dfb20:
 
     # Adele "And many of my fondest memories, too."
-    Adele ""
+    Adele " Many of my fondest memories as well"
 
 # game/logic/events/adele.rpy:150
 translate english adele_1_label_04812aa3:
 
     # ch_Name "Are you available in the VIP lounge, too?"
-    ch_Name ""
+    ch_Name "Do you spend any time up there yourself...{w} with customers?"
 
 # game/logic/events/adele.rpy:152
 translate english adele_1_label_9d5d5743:
@@ -286,13 +286,13 @@ translate english adele_1_label_9d5d5743:
 translate english adele_1_label_00c291e4:
 
     # Adele "But for you, I can somehow make an exception."
-    Adele ""
+    Adele "But for you,{w} I might consider making..."
 
 # game/logic/events/adele.rpy:155
 translate english adele_1_label_a917dd14:
 
     # Adele "Later on..."
-    Adele ""
+    Adele "...an exception."
 
 # game/logic/events/adele.rpy:156
 translate english adele_1_label_27dcfcc4:
@@ -310,7 +310,7 @@ translate english adele_1_label_6fc7e93d:
 translate english adele_1_label_12471e65:
 
     # Adele "You can come up to me, or you can go straight to the tables where the girls dance."
-    Adele ""
+    Adele "You can come to me, or head right over to the tables where the girls are dancing."
 
 # game/logic/events/adele.rpy:161
 translate english adele_1_label_a3799314:
@@ -340,7 +340,7 @@ translate english adele_1_label_47c32155:
 translate english adele_1_label_5543ed10:
 
     # Adele "One more thing!"
-    Adele ""
+    Adele "Ah, one more thing!"
 
 # game/logic/events/adele.rpy:167
 translate english adele_1_label_4b66b4ac:
@@ -364,7 +364,7 @@ translate english adele_1_label_84d3dc7e:
 translate english adele_1_label_5beea4e5:
 
     # ch_Name "{i}(Well... A free drink doesn't sound bad at all.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Well... Beautiful women and a free drink... not bad at all.){/i}"
 
 # game/logic/events/adele.rpy:172
 translate english adele_1_label_5077876c:
@@ -406,7 +406,7 @@ translate english adele_1_label_45be27e0:
 translate english adele_1_label_5a727d45:
 
     # Adele "[Name], Sorry, but I have to run."
-    Adele ""
+    Adele "Sorry [Name], but I have to run. No rest for the wicked!"
 
 # game/logic/events/adele.rpy:182
 translate english adele_1_label_c9a8b4de:
@@ -454,7 +454,7 @@ translate english adele_1_label_f5f45550:
 translate english adele_1_label_074f3f40:
 
     # ch_Name "{i}(What an unusual color in her eyes...){/i}"
-    ch_Name ""
+    ch_Name "{i}(What an unusual eye color...){/i}"
 
 # game/logic/events/adele.rpy:202
 translate english adele_1_label_df06284a:
@@ -478,7 +478,7 @@ translate english adele_1_label_88808dde:
 translate english adele_1_label_928b8ce6:
 
     # Vanessa "I think I know what you need."
-    Vanessa ""
+    Vanessa "I know just what you need."
 
 # game/logic/events/adele.rpy:207
 translate english adele_1_label_b0ccf90a:
@@ -544,19 +544,19 @@ translate english adele_1_label_22db87f7:
 translate english adele_1_label_8d3e767d:
 
     # ch_Name "{i}(I don't know what's happening.){/i}"
-    ch_Name ""
+    ch_Name "{i}(I don't know what's going on.){/i}"
 
 # game/logic/events/adele.rpy:226
 translate english adele_1_label_90202847:
 
     # ch_Name "{i}(It feels like everything inside me got so hot and cold at the same time...){/i}"
-    ch_Name ""
+    ch_Name "{i}(My insides feel like they're boiling and freezing at the same time...){/i}"
 
 # game/logic/events/adele.rpy:228
 translate english adele_1_label_9f7138f3:
 
     # Vanessa "What happened, is it too strong for you?"
-    Vanessa ""
+    Vanessa "What happened, is it too strong?"
 
 # game/logic/events/adele.rpy:229
 translate english adele_1_label_8f51d587:
@@ -592,7 +592,7 @@ translate english adele_1_label_92161575:
 translate english adele_1_label_543cfeba:
 
     # Vanessa "At first, a living person might find the taste unusual..."
-    Vanessa ""
+    Vanessa "It's normal for a living person to find the taste...{w} unusual."
 
 # game/logic/events/adele.rpy:238
 translate english adele_1_label_2fd9584a:
@@ -604,7 +604,7 @@ translate english adele_1_label_2fd9584a:
 translate english adele_1_label_c70d6ba9:
 
     # Vanessa "Mmm..."
-    Vanessa ""
+    Vanessa "Mm-hmm..."
 
 # game/logic/events/adele.rpy:241
 translate english adele_1_label_e2d3d70b:
@@ -616,19 +616,19 @@ translate english adele_1_label_e2d3d70b:
 translate english adele_1_label_08bf2f66:
 
     # ch_Name "{i}(I almost died from a sip, and she didn't bat an eye!){/i}"
-    ch_Name ""
+    ch_Name "{i}(I nearly died from a sip...{w} but she didn't bat an eye!){/i}"
 
 # game/logic/events/adele.rpy:244
 translate english adele_1_label_c54845d6:
 
     # Guy "One more round for me and my friends, baby!"
-    Guy ""
+    Guy "Another round for me and my friends, baby!"
 
 # game/logic/events/adele.rpy:245
 translate english adele_1_label_f1bb07cd:
 
     # Vanessa "Uh..."
-    Vanessa ""
+    Vanessa "Ugh..."
 
 # game/logic/events/adele.rpy:247
 translate english adele_1_label_f34768e4:
@@ -658,19 +658,19 @@ translate english adele_1_label_6714f483:
 translate english adele_1_label_226abe3d:
 
     # ch_Name "But what was in the cocktail?"
-    ch_Name ""
+    ch_Name "What was in that cocktail?"
 
 # game/logic/events/adele.rpy:254
 translate english adele_1_label_674a8153:
 
     # ch_Name "{i}(Who does that? Unbelievable!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Who does that?{w} Unbelievable!){/i}"
 
 # game/logic/events/adele.rpy:255
 translate english adele_1_label_9f6fbe8b:
 
     # ch_Name "{i}(She's obviously no ordinary girl...){/i}"
-    ch_Name ""
+    ch_Name "{i}(She's obviously not an ordinary bartender...){/i}"
 
 # game/logic/events/adele.rpy:256
 translate english adele_1_label_c1026d01:
@@ -682,13 +682,13 @@ translate english adele_1_label_c1026d01:
 translate english adele_1_label_6cbace3a:
 
     # ch_Name "No, baby, thanks, but I only drink beer."
-    ch_Name ""
+    ch_Name "No thanks baby, but I only drink beer."
 
 # game/logic/events/adele.rpy:260
 translate english adele_1_label_451a6aae:
 
     # Vanessa "You have no idea how much you're missing out on."
-    Vanessa ""
+    Vanessa "Okay, but you have no clue what you're missing."
 
 # game/logic/events/adele.rpy:262
 translate english adele_1_label_21fcb780:
@@ -700,25 +700,25 @@ translate english adele_1_label_21fcb780:
 translate english adele_1_label_b143ebf9:
 
     # Vanessa "There was a bottle of cold one in here somewhere..."
-    Vanessa ""
+    Vanessa "I'm sure there was some cold brews in here somewhere..."
 
 # game/logic/events/adele.rpy:265
 translate english adele_1_label_57e4156d:
 
     # Vanessa "Here you go."
-    Vanessa ""
+    Vanessa "Ah, here you go."
 
 # game/logic/events/adele.rpy:266
 translate english adele_1_label_3a5c7650:
 
     # ch_Name "Thank you."
-    ch_Name ""
+    ch_Name "Thanks!"
 
 # game/logic/events/adele.rpy:268
 translate english adele_1_label_cbd5b610:
 
     # ch_Name "To getting to know each other?"
-    ch_Name ""
+    ch_Name "To...{w} getting to know each other?"
 
 # game/logic/events/adele.rpy:269
 translate english adele_1_label_fe250b51:
@@ -730,19 +730,19 @@ translate english adele_1_label_fe250b51:
 translate english adele_1_label_3a834e51:
 
     # Vanessa "Still, you shouldn't have tried the cocktail."
-    Vanessa ""
+    Vanessa "Shame, you should've tried the cocktail."
 
 # game/logic/events/adele.rpy:272
 translate english adele_1_label_ecf6541e:
 
     # Vanessa "Our special is legendary around here."
-    Vanessa ""
+    Vanessa "Our house special is legend around here."
 
 # game/logic/events/adele.rpy:273
 translate english adele_1_label_1172cbb6:
 
     # ch_Name "Maybe some other time."
-    ch_Name ""
+    ch_Name "Maybe next time."
 
 # game/logic/events/adele.rpy:275
 translate english adele_1_label_fd444823:
@@ -760,25 +760,25 @@ translate english adele_1_label_5967e547:
 translate english adele_1_label_f0e272fa:
 
     # ch_Name "{i}(Maybe I shouldn't have trusted her.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Maybe I should've trusted her.){/i}"
 
 # game/logic/events/adele.rpy:278
 translate english adele_1_label_4981d26b:
 
     # ch_Name "{i}(It looks really good from the outside.){/i}"
-    ch_Name ""
+    ch_Name "{i}(It looks good...{w} but what about the taste?){/i}"
 
 # game/logic/events/adele.rpy:280
 translate english adele_1_label_c54845d6_1:
 
     # Guy "One more round for me and my friends, baby!"
-    Guy ""
+    Guy "Another round for me and my friends, baby!"
 
 # game/logic/events/adele.rpy:281
 translate english adele_1_label_f1bb07cd_1:
 
     # Vanessa "Uh..."
-    Vanessa ""
+    Vanessa "Ugh..."
 
 # game/logic/events/adele.rpy:283
 translate english adele_1_label_5dd224ff:
@@ -790,7 +790,7 @@ translate english adele_1_label_5dd224ff:
 translate english adele_1_label_86fc018b:
 
     # Vanessa "It was nice to meet you."
-    Vanessa ""
+    Vanessa "It was nice meeting you."
 
 # game/logic/events/adele.rpy:285
 translate english adele_1_label_0be33b9b:
@@ -808,31 +808,31 @@ translate english adele_1_label_6714f483_1:
 translate english adele_1_label_7226355b:
 
     # ch_Name "{i}(Now I'm wondering what kind of cocktail this is.){/i}"
-    ch_Name ""
+    ch_Name "{i}(That cocktail might look good, but damn...){/i}"
 
 # game/logic/events/adele.rpy:290
 translate english adele_1_label_674a8153_1:
 
     # ch_Name "{i}(Who does that? Unbelievable!){/i}"
-    ch_Name ""
+    ch_Name "{i}(...my eyes could drink in that ass all night! Unbelievable!){/i}"
 
 # game/logic/events/adele.rpy:291
 translate english adele_1_label_9f6fbe8b_1:
 
     # ch_Name "{i}(She's obviously no ordinary girl...){/i}"
-    ch_Name ""
+    ch_Name "{i}(She's obviously not an ordinary bartender...){/i}"
 
 # game/logic/events/adele.rpy:292
 translate english adele_1_label_c1026d01_1:
 
     # ch_Name "{i}(Okay, I've had enough alcohol for one day.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Alright, I've had enough to drink for one night.){/i}"
 
 # game/logic/events/adele.rpy:296
 translate english adele_1_label_ff868e92:
 
     # ch_Name "Sorry, I don't drink."
-    ch_Name ""
+    ch_Name "Sorry, I'm not much of a drinker."
 
 # game/logic/events/adele.rpy:297
 translate english adele_1_label_4a53117e:
@@ -844,7 +844,7 @@ translate english adele_1_label_4a53117e:
 translate english adele_1_label_b43a53b7:
 
     # ch_Name "I'm definitely gonna pass tonight."
-    ch_Name ""
+    ch_Name "I appreciate it, but not tonight."
 
 # game/logic/events/adele.rpy:300
 translate english adele_1_label_0cb2483c:
@@ -874,25 +874,25 @@ translate english adele_1_label_167fde8f:
 translate english adele_1_label_29e8ed06:
 
     # ch_Name "{i}(Maybe I should have trusted her.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Maybe I should've trusted her.){/i}"
 
 # game/logic/events/adele.rpy:306
 translate english adele_1_label_4981d26b_1:
 
     # ch_Name "{i}(It looks really good from the outside.){/i}"
-    ch_Name ""
+    ch_Name "{i}(It looks good...{w} but what about the taste?){/i}"
 
 # game/logic/events/adele.rpy:308
 translate english adele_1_label_c54845d6_2:
 
     # Guy "One more round for me and my friends, baby!"
-    Guy ""
+    Guy "Another round for me and my friends, baby!"
 
 # game/logic/events/adele.rpy:309
 translate english adele_1_label_be93246b:
 
     # Vanessa "Eh..."
-    Vanessa ""
+    Vanessa "Ugh..."
 
 # game/logic/events/adele.rpy:311
 translate english adele_1_label_5dd224ff_1:
@@ -904,7 +904,7 @@ translate english adele_1_label_5dd224ff_1:
 translate english adele_1_label_cd7a575f:
 
     # Vanessa "I don't get paid to talk."
-    Vanessa ""
+    Vanessa "And I don't get paid to just talk."
 
 # game/logic/events/adele.rpy:313
 translate english adele_1_label_ef30e2ed:
@@ -922,55 +922,55 @@ translate english adele_1_label_6714f483_2:
 translate english adele_1_label_a57b57cb:
 
     # ch_Name "{i}(Maybe I should have agreed to a cocktail.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Maybe I should have taken the cocktail.){/i}"
 
 # game/logic/events/adele.rpy:318
 translate english adele_1_label_09a150db:
 
     # ch_Name "{i}(Okay, another time.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Okay, maybe another time.){/i}"
 
 # game/logic/events/adele.rpy:319
 translate english adele_1_label_0676eb53:
 
     # ch_Name "{i}(For now, just enjoying the view.){/i}"
-    ch_Name ""
+    ch_Name "{i}(For now I'll just enjoy the view.){/i}"
 
 # game/logic/events/adele.rpy:320
 translate english adele_1_label_80086c10:
 
     # ch_Name "{i}(There's no problem at all with that.){/i}"
-    ch_Name ""
+    ch_Name "{i}(There's nothing wrong with that.){/i}"
 
 # game/logic/events/adele.rpy:322
 translate english adele_1_label_4d4c477e:
 
     # ch_Name "{i}(Okay. Now I know what the club has to offer me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Okay, I've seen what this club has to offer.){/i}"
 
 # game/logic/events/adele.rpy:323
 translate english adele_1_label_590a3b2a:
 
     # ch_Name "{i}(I just have to figure out what I want.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Guess all that's left is to figure out what I want to do.){/i}"
 
 # game/logic/events/adele.rpy:343
 translate english adele_2_label_3b4355c5:
 
     # Adele "Got tired of talking to Vanessa, hon?"
-    Adele ""
+    Adele "Tired of talking to Vanessa already, hun?"
 
 # game/logic/events/adele.rpy:344
 translate english adele_2_label_f50a94cc:
 
     # Adele "If you're ready, I'd like to show you one more place!"
-    Adele ""
+    Adele "If you're ready, there's one more place I'd like to show you!"
 
 # game/logic/events/adele.rpy:345
 translate english adele_2_label_3c06864f:
 
     # ch_Name "Sure thing. What do you have to offer?"
-    ch_Name ""
+    ch_Name "Sure thing. This place wasn't on the tour?"
 
 # game/logic/events/adele.rpy:347
 translate english adele_2_label_22a4b9a8:
