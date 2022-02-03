@@ -4,283 +4,283 @@
 translate french Samantha_4_label_5bea03e8:
 
     # ch_Name "Good afternoon, Miss Lapis. May I have a moment of your time?"
-    ch_Name ""
+    ch_Name "Bonjour, Mlle Lapis. Puis-je avoir un peut de votre temps ?"
 
 # game/logic/events/victoria.rpy:235
 translate french Samantha_4_label_317730bf:
 
     # Victoria "You seem very modest and polite today. [Surname]."
-    Victoria ""
+    Victoria "Vous paraissez très humble et poli aujourd'hui. [Surname]."
 
 # game/logic/events/victoria.rpy:236
 translate french Samantha_4_label_85bc7b4d:
 
     # Victoria "You want something from me, don't you?"
-    Victoria ""
+    Victoria "Vous avez besoin de quelque chose de ma part, n'est-ce pas?"
 
 # game/logic/events/victoria.rpy:237
 translate french Samantha_4_label_eb215e0d:
 
     # ch_Name "{i}(It's amazing, she reads me like an open book...){/i}"
-    ch_Name ""
+    ch_Name "{i}(C'est incroyable, elle lit en moi comme dans un livre ouvert...){/i}"
 
 # game/logic/events/victoria.rpy:238
 translate french Samantha_4_label_883aa471:
 
     # Victoria "So, did I get it right?"
-    Victoria ""
+    Victoria "Alors, ai-je bien deviner?"
 
 # game/logic/events/victoria.rpy:240
 translate french Samantha_4_label_04ba74f4:
 
     # ch_Name "There's nothing I can hide from you, Miss Lapis."
-    ch_Name ""
+    ch_Name "Je ne peux rien vous dissimuler, Mlle Lapis."
 
 # game/logic/events/victoria.rpy:241
 translate french Samantha_4_label_a21000c8:
 
     # ch_Name "That's why you're Cordale's best teacher."
-    ch_Name ""
+    ch_Name "C'est pourquoi vous êtes la meilleure professeure de Cordale."
 
 # game/logic/events/victoria.rpy:243
 translate french Samantha_4_label_d17e29fe:
 
     # Victoria "I don't care for rude flattery. But I commend you for trying."
-    Victoria ""
+    Victoria "Je n'aime pas les belles paroles. Mais je félicite vos efforts."
 
 # game/logic/events/victoria.rpy:244
 translate french Samantha_4_label_4b148ae1:
 
     # ch_Name "But it's true! Everyone I've talked to thinks you're the most talented."
-    ch_Name ""
+    ch_Name "Mais c'est vrai! Tous ceux à qui j'ai parlé pensent que vous êtes la plus talentueuse."
 
 # game/logic/events/victoria.rpy:246
 translate french Samantha_4_label_00a98cac:
 
     # Victoria "You're certainly better at flattery than witchcraft, [Surname]."
-    Victoria ""
+    Victoria "Vous êtes certainement meilleur en compliments qu'en sorcellerie, [Surname]."
 
 # game/logic/events/victoria.rpy:247
 translate french Samantha_4_label_d5575358:
 
     # Victoria "Though you have room to grow in both."
-    Victoria ""
+    Victoria "Même si vous avez la marge de grandir dans les deux disciplines."
 
 # game/logic/events/victoria.rpy:248
 translate french Samantha_4_label_4e811fea:
 
     # ch_Name "You are cruel but fair."
-    ch_Name ""
+    ch_Name "Vous êtes cruelle mais juste."
 
 # game/logic/events/victoria.rpy:250
 translate french Samantha_4_label_2b818a34:
 
     # Victoria "[Name], get to the point. I have plans and I don't want to be late."
-    Victoria ""
+    Victoria "[Name], aller à l'essentiel. J'ai des rendez-vous et je ne veux pas être en retard."
 
 # game/logic/events/victoria.rpy:251
 translate french Samantha_4_label_c195848c:
 
     # ch_Name "Miss Lapis. I really need to borrow your {b}night fairy pollen compress{/b}..."
-    ch_Name ""
+    ch_Name "Mlle Lapis. J’ai vraiment besoin d’emprunter votre {b}cataplasme de pollen de fée nocturne{/b}..."
 
 # game/logic/events/victoria.rpy:252
 translate french Samantha_4_label_79d44dd4:
 
     # Victoria "That's an interesting request. Why would you need a compress?"
-    Victoria ""
+    Victoria "C’est une curieuse demande. Pourquoi auriez-vous besoin d'un cataplasme?"
 
 # game/logic/events/victoria.rpy:253
 translate french Samantha_4_label_f2fcf20e:
 
     # Victoria "And how did a first-year student even hear about them?"
-    Victoria ""
+    Victoria "Et comment un étudiant de première année en a entendu parler?"
 
 # game/logic/events/victoria.rpy:254
 translate french Samantha_4_label_e1d1aa22:
 
     # ch_Name "Mr. Frollo. He told me about the compress and its properties because..."
-    ch_Name ""
+    ch_Name "M. Frollo. Il m’a parlé du cataplasme et de ses propriétés parce que..."
 
 # game/logic/events/victoria.rpy:255
 translate french Samantha_4_label_8244a0c0:
 
     # ch_Name "I really need to help a friend."
-    ch_Name ""
+    ch_Name "J’ai vraiment besoin d’aider une amie."
 
 # game/logic/events/victoria.rpy:257
 translate french Samantha_4_label_c2538ab1:
 
     # Victoria "That's a very vague explanation."
-    Victoria ""
+    Victoria "C’est une explication très vague."
 
 # game/logic/events/victoria.rpy:258
 translate french Samantha_4_label_5f327eeb:
 
     # Victoria "Would you care to give me one reason to even consider..."
-    Victoria ""
+    Victoria "Pourriez-vous me donner une seule raison d’envisager..."
 
 # game/logic/events/victoria.rpy:259
 translate french Samantha_4_label_e4b95342:
 
     # Victoria "...giving you a fairly rare healing drug?"
-    Victoria ""
+    Victoria "...de vous donner un remède plutôt rare?"
 
 # game/logic/events/victoria.rpy:260
 translate french Samantha_4_label_d1db6e23:
 
     # ch_Name "Miss Lapis, I wish I could... But I can't."
-    ch_Name ""
+    ch_Name "Miss Lapis, J’aimerais... mais je ne peux pas."
 
 # game/logic/events/victoria.rpy:262
 translate french Samantha_4_label_6e509f21:
 
     # Victoria "Well, you know where the door is."
-    Victoria ""
+    Victoria "Hé bien, vous savez où est la porte."
 
 # game/logic/events/victoria.rpy:263
 translate french Samantha_4_label_f7a0a7ed:
 
     # ch_Name "Victoria, I'm begging you."
-    ch_Name ""
+    ch_Name "Victoria, je vous en supplie."
 
 # game/logic/events/victoria.rpy:265
 translate french Samantha_4_label_ad2dce51:
 
     # Victoria "[Name], don't be ridiculous."
-    Victoria ""
+    Victoria "[Name], ne soyez pas ridicule."
 
 # game/logic/events/victoria.rpy:266
 translate french Samantha_4_label_8f5ebfee:
 
     # Victoria "However you rephrase \"please\" it doesn't change the situation."
-    Victoria ""
+    Victoria "Ce n'est pas en reformulant\"s’il vous plaît\"que cela changera la situation."
 
 # game/logic/events/victoria.rpy:267
 translate french Samantha_4_label_6850e64c:
 
     # Victoria "You're asking me to give you a rare resource for no reason but cute eyes."
-    Victoria ""
+    Victoria "Vous me demandez de vous donner une ressource rare sans aucune raison, a part pour vos beaux yeux."
 
 # game/logic/events/victoria.rpy:268
 translate french Samantha_4_label_ffdba096:
 
     # ch_Name "So you think my eyes are cute?"
-    ch_Name ""
+    ch_Name "Vous pensez que j'ai de beaux yeux?"
 
 # game/logic/events/victoria.rpy:269
 translate french Samantha_4_label_c7bbbcb4:
 
     # Victoria "Don't waste my time."
-    Victoria ""
+    Victoria "Ne me faites pas perdre mon temps."
 
 # game/logic/events/victoria.rpy:271
 translate french Samantha_4_label_e7a8fa96:
 
     # ch_Name "I'm not asking for a compress for myself."
-    ch_Name ""
+    ch_Name "Je ne demande pas un cataplasme pour moi."
 
 # game/logic/events/victoria.rpy:272
 translate french Samantha_4_label_61be30cd:
 
     # ch_Name "One of our faculty students has torn magical ligaments."
-    ch_Name ""
+    ch_Name "Une de nos étudiantes a un déchirement des ligaments magiques."
 
 # game/logic/events/victoria.rpy:273
 translate french Samantha_4_label_01f01e90:
 
     # ch_Name "He can't manage without a compress."
-    ch_Name ""
+    ch_Name "Il ne peut pas se passer d’un cataplasme."
 
 # game/logic/events/victoria.rpy:275
 translate french Samantha_4_label_712a3f80:
 
     # Victoria "Why didn't you say so before!"
-    Victoria ""
+    Victoria "Pourquoi ne pas l’avoir dit plutôt!"
 
 # game/logic/events/victoria.rpy:276
 translate french Samantha_4_label_ec3ad79f:
 
     # Victoria "Take me to the injured person, we'll quickly solve his problem and find the cause."
-    Victoria ""
+    Victoria "Emmène-moi à la personne blessée, nous résoudrons rapidement son problème et trouverons la cause."
 
 # game/logic/events/victoria.rpy:277
 translate french Samantha_4_label_8a24beac:
 
     # ch_Name "No!{w} Wait.{w} I can't take you to him."
-    ch_Name ""
+    ch_Name "Non!{w} Attendez.{w} Je ne peux pas vous emmener à lui."
 
 # game/logic/events/victoria.rpy:279
 translate french Samantha_4_label_f0c29618:
 
     # Victoria "Why not?"
-    Victoria ""
+    Victoria "Pourquoi pas?"
 
 # game/logic/events/victoria.rpy:280
 translate french Samantha_4_label_9b03c702:
 
     # ch_Name "I promised I wouldn't betray his secret to the teachers. I won't break my word."
-    ch_Name ""
+    ch_Name "J’ai promis de ne pas trahir son secret aux professeurs. Je ne briserai pas ma parole."
 
 # game/logic/events/victoria.rpy:281
 translate french Samantha_4_label_ac78ac2d:
 
     # Victoria "Oh, why am I surprised? You're Leonheart's student."
-    Victoria ""
+    Victoria "Oh, pourquoi suis-je surprise? Vous êtes un élève de Leonheart."
 
 # game/logic/events/victoria.rpy:283
 translate french Samantha_4_label_51355ece:
 
     # Victoria "You know this isn't a joke, don't you?"
-    Victoria ""
+    Victoria "Vous savez que ce n’est pas une blague, n’est-ce pas ?"
 
 # game/logic/events/victoria.rpy:284
 translate french Samantha_4_label_bdbdcc2d:
 
     # Victoria "If you don't find the cause of the ruptured magical ligaments, it could happen again."
-    Victoria ""
+    Victoria "Si vous ne trouvez pas la cause de la rupture des ligaments magiques, cela pourrait se reproduire."
 
 # game/logic/events/victoria.rpy:285
 translate french Samantha_4_label_71bc8536:
 
     # ch_Name "{i}(What have you gotten yourself into, Sam?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Dans quoi t'es-tu embarqué, Sam?){/i}"
 
 # game/logic/events/victoria.rpy:286
 translate french Samantha_4_label_e3a667b3:
 
     # ch_Name "{i}(I'll have to have a serious talk with her and find out the truth...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Je vais devoir avoir une sérieuse conversation avec elle et découvrir la vérité...){/i}"
 
 # game/logic/events/victoria.rpy:287
 translate french Samantha_4_label_be491b2e:
 
     # Victoria "Are you going to run to me every time and waste rare academy resources?"
-    Victoria ""
+    Victoria "Vas-tu venir demander mon aide à chaque fois et gaspiller des ressources rares de l’académie?"
 
 # game/logic/events/victoria.rpy:289
 translate french Samantha_4_label_a32757f5:
 
     # ch_Name "No. I will solve this problem. I'll find the reason."
-    ch_Name ""
+    ch_Name "Non. Je vais régler ce problème et je trouverai la raison."
 
 # game/logic/events/victoria.rpy:290
 translate french Samantha_4_label_5f1f5623:
 
     # Victoria "You? A first-year student?"
-    Victoria ""
+    Victoria "Toi? Un étudiant de première année?"
 
 # game/logic/events/victoria.rpy:291
 translate french Samantha_4_label_23c5b85a:
 
     # Victoria "Yes. Trust me."
-    Victoria ""
+    Victoria "Oui. Faite-moi confiance."
 
 # game/logic/events/victoria.rpy:293
 translate french Samantha_4_label_c62c428f:
 
     # Victoria "Yes, you have a lot of confidence. But you have a problem with wisdom..."
-    Victoria ""
+    Victoria "Oui, vous avez beaucoup d'assurance. Mais vous manquez de sagesse..."
 
 # game/logic/events/victoria.rpy:294
 translate french Samantha_4_label_4084cc2c:
