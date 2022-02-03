@@ -4870,133 +4870,133 @@ translate philippine Leona_5_label_8b842d7f:
 translate philippine Leona_5_label_bbcd5ffd:
 
     # Note "Mr. [Surname]. I'm impressed with the progress you've made."
-    Note ""
+    Note "Mr. [Surname]. Napabilib ako sa pag-unlad ng mahika mo."
 
 # game/logic/events/Leona.rpy:1358
 translate philippine Leona_5_label_071f930b:
 
     # Note "Of course, considering who your parents are, I'd expect nothing less."
-    Note ""
+    Note "Siyempre, kung isasaalang-alang natin kung sino ang iyong mga magulang, dapat naman."
 
 # game/logic/events/Leona.rpy:1359
 translate philippine Leona_5_label_644f0363:
 
     # ch_Name "{i}(My parents? What does that mean?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mga magulang ko? Anong ibig sabihin niya?){/i}"
 
 # game/logic/events/Leona.rpy:1360
 translate philippine Leona_5_label_61584124:
 
     # Note "I'm glad the phantom I put on you failed."
-    Note ""
+    Note "Masaya ako dahil natalo mo ang multo ko."
 
 # game/logic/events/Leona.rpy:1362
 translate philippine Leona_5_label_4c2a46e0:
 
     # ch_Name "{i}(Pissed on me? What the?!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ano? Multo niya?!){/i}"
 
 # game/logic/events/Leona.rpy:1363
 translate philippine Leona_5_label_d81acbcc:
 
     # Note "I'm sorry I had to go to such lengths to test you."
-    Note ""
+    Note "Pasenysa na kasi kailangan kong gawin 'yun para masuri kita."
 
 # game/logic/events/Leona.rpy:1364
 translate philippine Leona_5_label_a271b278:
 
     # Note "But, frankly, we don't have the time to wait for you to reach your potential. "
-    Note ""
+    Note "Pero, wala na kaming panahon maghintay na makaabot ka ng iyong pinakamakapangyarihan."
 
 # game/logic/events/Leona.rpy:1365
 translate philippine Leona_5_label_ad74b0c3:
 
     # Note "So I've provided my \"help\". I'm sure you have a lot of questions. If you want answers..."
-    Note ""
+    Note "Kaya nagbigay ako ng \"tulong\". Alam kong may mga tanong ka. Kapag gusto mo ng mga sagot..."
 
 # game/logic/events/Leona.rpy:1366
 translate philippine Leona_5_label_abc0f7d1:
 
     # Note "I expect you at 1:00 a.m. in Cordale Hall. Stand near the sun."
-    Note ""
+    Note "Hihintayin kita sa 1:00am sa Cordale Hall. Tumayo ka malapit sa araw."
 
 # game/logic/events/Leona.rpy:1367
 translate philippine Leona_5_label_0c49f3c2:
 
     # Note "Come yourself, or I'll be forced to take out your friends."
-    Note ""
+    Note "Ikaw lang ang pupunta, o asikasuhin ko ang mga kaibigan mo."
 
 # game/logic/events/Leona.rpy:1368
 translate philippine Leona_5_label_35793af3:
 
     # Note "You can't trust anyone."
-    Note ""
+    Note "Wala kang maniniwalaan."
 
 # game/logic/events/Leona.rpy:1370
 translate philippine Leona_5_label_8a935a91:
 
     # ch_Name "{i}(I don't understand... What kind of nonsense is this?){/i}"
-    ch_Name ""
+    ch_Name "{i}('Di ko maintindihan... Anong klaseng kalokohan ito?){/i}"
 
 # game/logic/events/Leona.rpy:1371
 translate philippine Leona_5_label_0f7ede62:
 
     # ch_Name "{i}(How could anyone here know anything about my parents?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Paano ba siyang may nalaman sa?){/i}"
 
 # game/logic/events/Leona.rpy:1372
 translate philippine Leona_5_label_0f562923:
 
     # ch_Name "(And why would he send that phantom after me?)"
-    ch_Name ""
+    ch_Name "(Bakit niya ba ipinadala ang multo sa akon?)"
 
 # game/logic/events/Leona.rpy:1373
 translate philippine Leona_5_label_369d9ea7:
 
     # ch_Name "{i}(Goosebumps down my spine... Why does this note scare me so much?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bakit ba takot na takot ako sa sulat na ito?){/i}"
 
 # game/logic/events/Leona.rpy:1375
 translate philippine Leona_5_label_3639fa5b:
 
     # ch_Name "{i}(I need to think about what to do.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kailangan kong mag-isip.){/i}"
 
 # game/logic/events/Leona.rpy:1376
 translate philippine Leona_5_label_89c3c3d4:
 
     # ch_Name "{i}(I need someone's advice... But who do I turn to with that?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kailangan ko ng payo... Pero sino ba ang tatanungin ko?){/i}"
 
 # game/logic/events/Leona.rpy:1386
 translate philippine Leona_5_label_1a487625:
 
     # Haley "It's so nice and peaceful here..."
-    Haley ""
+    Haley "Ang tahimik dito..."
 
 # game/logic/events/Leona.rpy:1387
 translate philippine Leona_5_label_2659e332:
 
     # Haley "I'm so glad you invited me for a walk in the garden."
-    Haley ""
+    Haley "Natutuwa talaga ako na nandito tayo."
 
 # game/logic/events/Leona.rpy:1388
 translate philippine Leona_5_label_0e2bb1dd:
 
     # ch_Name "I'm happy too. My troubles kind of just melt away when I'm with you."
-    ch_Name ""
+    ch_Name "Ako rin. Nawawala ang mga problema ko kapag nasa tabi kita."
 
 # game/logic/events/Leona.rpy:1390
 translate philippine Leona_5_label_e3309f1c:
 
     # Haley "Mmm. I could just fall asleep here."
-    Haley ""
+    Haley "Mmm. Parang matutulog na ako dito."
 
 # game/logic/events/Leona.rpy:1391
 translate philippine Leona_5_label_09ab0e8f:
 
     # ch_Name "Fall asleep? Were you up all night reading again?"
-    ch_Name ""
+    ch_Name "Matutulog ka? Buong gabi ka naman bang bumabasa?"
 
 # game/logic/events/Leona.rpy:1392
 translate philippine Leona_5_label_23d57dac:
@@ -5008,253 +5008,253 @@ translate philippine Leona_5_label_23d57dac:
 translate philippine Leona_5_label_a29a2309:
 
     # Haley "I couldn't stop, the history of the academy in Cordoba is so interesting..."
-    Haley ""
+    Haley "'Di ako makatigil, nakakawili ang kasaysayan ng akademiya sa Cordoba... "
 
 # game/logic/events/Leona.rpy:1395
 translate philippine Leona_5_label_c30957bd:
 
     # ch_Name "{i}(Her feet are so soft and pleasant to the touch...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Malambot talaga ang paa niya...){/i}"
 
 # game/logic/events/Leona.rpy:1396
 translate philippine Leona_5_label_869f0b2c:
 
     # ch_Name "{i}(It's hard to concentrate on anything else.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mahirap mag-isip ng iba pa.){/i}"
 
 # game/logic/events/Leona.rpy:1397
 translate philippine Leona_5_label_c38ebe7f:
 
     # ch_Name "Uh-huh... Wait, did you say Cordoba? I thought the academy was named Cordale."
-    ch_Name ""
+    ch_Name "Uh-huh... Sandali, sabi mo ba Cordoba? Akala ko Cordale ang pangalan ng akademiya."
 
 # game/logic/events/Leona.rpy:1399
 translate philippine Leona_5_label_abde3d90:
 
     # Haley "I wasn't reading about our academy."
-    Haley ""
+    Haley "'Di ako nagbasa tungkol sa ating akademiya."
 
 # game/logic/events/Leona.rpy:1400
 translate philippine Leona_5_label_c554e971:
 
     # Haley "I was reading about the one where the founders of Cordale went to school."
-    Haley ""
+    Haley "Binasa ko kung saan nag-arala ang mga tagapagtatag ng Cordale."
 
 # game/logic/events/Leona.rpy:1401
 translate philippine Leona_5_label_8015e265:
 
     # ch_Name "Oh, uh... That's it."
-    ch_Name ""
+    ch_Name "Oo nga pala... Tama."
 
 # game/logic/events/Leona.rpy:1402
 translate philippine Leona_5_label_ab8829fe:
 
     # Haley "Okay, why am I...{w} I bet you're bored of hearing that."
-    Haley ""
+    Haley "Bakit ba akong... {w} Siguro naiinip ka nang makarinig ng ganyan."
 
 # game/logic/events/Leona.rpy:1404
 translate philippine Leona_5_label_116e8434:
 
     # ch_Name "Hah. You know me too well."
-    ch_Name ""
+    ch_Name "Kilala mo talaga ako."
 
 # game/logic/events/Leona.rpy:1405
 translate philippine Leona_5_label_c5c76527:
 
     # ch_Name "But I'd be really interested in hearing about it."
-    ch_Name ""
+    ch_Name "Pero interesado akong makarinig ng 'yun."
 
 # game/logic/events/Leona.rpy:1406
 translate philippine Leona_5_label_4e86adea:
 
     # ch_Name "Certainly more interesting than if I had to read about it..."
-    ch_Name ""
+    ch_Name "Siguradong mas nakakawili kaysa sa pagbabasa..."
 
 # game/logic/events/Leona.rpy:1407
 translate philippine Leona_5_label_381b1961:
 
     # Haley "Come on, [Name]. You can't have asked me out for a history lecture."
-    Haley ""
+    Haley "Sige na, [Name]. 'Di mo ako tinawag para makipag-aral ng kasaysayan."
 
 # game/logic/events/Leona.rpy:1408
 translate philippine Leona_5_label_4d8df4d5:
 
     # Haley "What did you want to talk about?"
-    Haley ""
+    Haley "Ano ba ang gusto mong pag-usapan?"
 
 # game/logic/events/Leona.rpy:1410
 translate philippine Leona_5_label_266fdee5:
 
     # ch_Name "Yeah, oh right..."
-    ch_Name ""
+    ch_Name "Oo nga pala..."
 
 # game/logic/events/Leona.rpy:1411
 translate philippine Leona_5_label_cd6f5696:
 
     # ch_Name "I need your advice."
-    ch_Name ""
+    ch_Name "Kailangan ko ang payo mo."
 
 # game/logic/events/Leona.rpy:1413
 translate philippine Leona_5_label_3f4f48f6:
 
     # Haley "Sure, anything."
-    Haley ""
+    Haley "Siyempre, kahit ano."
 
 # game/logic/events/Leona.rpy:1414
 translate philippine Leona_5_label_29cbf1f3:
 
     # ch_Name "But I don't know if I can tell you everything."
-    ch_Name ""
+    ch_Name "Pero 'di ko alam kung masasabi ko ang lahat."
 
 # game/logic/events/Leona.rpy:1415
 translate philippine Leona_5_label_23ead3c8:
 
     # ch_Name "It might not be safe for you."
-    ch_Name ""
+    ch_Name "Baka mapanganib para sa iyo."
 
 # game/logic/events/Leona.rpy:1417
 translate philippine Leona_5_label_271ffc68:
 
     # Haley "What are you talking about, [Name]? Unsafe?"
-    Haley ""
+    Haley "Ano ba ang sinasabi mo, [Name]? Mapanganib?"
 
 # game/logic/events/Leona.rpy:1418
 translate philippine Leona_5_label_adf18160:
 
     # Haley "What's happened? You can tell me!"
-    Haley ""
+    Haley "Anong nangyari? Sabihin mo sa akin!"
 
 # game/logic/events/Leona.rpy:1419
 translate philippine Leona_5_label_e7387d5c:
 
     # Haley "Come on, what's going on? You can trust me."
-    Haley ""
+    Haley "Ano ba ang kailangan mo? Makakatiwalaan mo ako."
 
 # game/logic/events/Leona.rpy:1421
 translate philippine Leona_5_label_409ea600:
 
     # ch_Name "Remember that time I slept all day?"
-    ch_Name ""
+    ch_Name "Naalala mo ba noong nagtulog ako ng buong araw?"
 
 # game/logic/events/Leona.rpy:1422
 translate philippine Leona_5_label_7f8a74dc:
 
     # Haley "It's hard to forget. We were worried..."
-    Haley ""
+    Haley "'Di ko makalimutan. Nag-aalala kaming lahat..."
 
 # game/logic/events/Leona.rpy:1423
 translate philippine Leona_5_label_016f108a:
 
     # ch_Name "Well, there's an explanation. It wasn't an ordinary dream."
-    ch_Name ""
+    ch_Name "May dahilan 'yun. 'Di 'yun karaniwang panaginip."
 
 # game/logic/events/Leona.rpy:1424
 translate philippine Leona_5_label_8f2952c2:
 
     # ch_Name "Someone put a phantom soulstealer on me. It hunts people in their dreams."
-    ch_Name ""
+    ch_Name "May naglagay ng multo na nagnanakaw ng kaluluwa sa akin. Nangangaso sa panaginip."
 
 # game/logic/events/Leona.rpy:1426
 translate philippine Leona_5_label_88cedd08:
 
     # Haley "A phantom soulstealer? Are you sure?! I think I've read about them."
-    Haley ""
+    Haley "Multo na nagnanakaw ng kaluluwa? Sigurado?! Kanarinig na ako ng ganyan."
 
 # game/logic/events/Leona.rpy:1427
 translate philippine Leona_5_label_7fc22401:
 
     # Haley "It's very serious magic. Are you sure?"
-    Haley ""
+    Haley "Seryosong mahika talaga 'yun. Sigurado?"
 
 # game/logic/events/Leona.rpy:1428
 translate philippine Leona_5_label_0318f19b:
 
     # ch_Name "Of course, I'm sure. I couldn't stop thinking about it."
-    ch_Name ""
+    ch_Name "Sigurado ako. 'Di ko makikipag-isip ng iba pa."
 
 # game/logic/events/Leona.rpy:1430
 translate philippine Leona_5_label_0c19842c:
 
     # ch_Name "And now someone's messing with me. Left a note under my door this morning."
-    ch_Name ""
+    ch_Name "May nakikialam sa aking buhay. Naglagay ng sulat sa pinto ko ngayong umaga."
 
 # game/logic/events/Leona.rpy:1431
 translate philippine Leona_5_label_ab4bb0b2:
 
     # ch_Name "He says he's testing me for something and wants to meet. One on one."
-    ch_Name ""
+    ch_Name "Sabi niya na sinusuri niya ako at gusto niyang makipag-usap na dalawa ng kami."
 
 # game/logic/events/Leona.rpy:1432
 translate philippine Leona_5_label_71502dca:
 
     # Haley "Sounds suspicious..."
-    Haley ""
+    Haley "Kahina-hinala..."
 
 # game/logic/events/Leona.rpy:1433
 translate philippine Leona_5_label_1d7122d4:
 
     # ch_Name "I know. But he says he knew my parents."
-    ch_Name ""
+    ch_Name "Alam ko. Pero sabi niya na nakilala niya ang mga magulang ko."
 
 # game/logic/events/Leona.rpy:1434
 translate philippine Leona_5_label_b976e36a:
 
     # ch_Name "I'm scared. But I have to go. Wouldn't you?"
-    ch_Name ""
+    ch_Name "Natatakot ako. Pero kailangan ko itong gawin. Diba?"
 
 # game/logic/events/Leona.rpy:1436
 translate philippine Leona_5_label_d383518a:
 
     # Haley "Honestly, it would scare me too."
-    Haley ""
+    Haley "Sa katotohanan, matatakot rin ako."
 
 # game/logic/events/Leona.rpy:1437
 translate philippine Leona_5_label_086dcc26:
 
     # Haley "But..."
-    Haley ""
+    Haley "Pero..."
 
 # game/logic/events/Leona.rpy:1439
 translate philippine Leona_5_label_dd28a24d:
 
     # Haley "I have faith that you'll be fine. You're a very talented and strong wizard."
-    Haley ""
+    Haley "Naniniwala ako sa iyo. Ikaw ay isang talentado at malakas na salamangkero."
 
 # game/logic/events/Leona.rpy:1440
 translate philippine Leona_5_label_feb537d8:
 
     # Haley "And you always know what to do in a stressful situation."
-    Haley ""
+    Haley "At palagi mong alam ang dapat gawin kapag nahihirapan ka."
 
 # game/logic/events/Leona.rpy:1441
 translate philippine Leona_5_label_9c801c43:
 
     # Haley "If it wasn't for you, I don't know what I would have done in the library..."
-    Haley ""
+    Haley "Kung 'di dahil sa iyo, 'Di malaman ang dapat kong gawin sa aklatan..."
 
 # game/logic/events/Leona.rpy:1442
 translate philippine Leona_5_label_3bf8ea9f:
 
     # Haley "I would have trusted you with my life without a second thought."
-    Haley ""
+    Haley "Ipinaagkakatiwala ko sa iyo ang aking buhay nang walang problema."
 
 # game/logic/events/Leona.rpy:1444
 translate philippine Leona_5_label_089e38dd:
 
     # ch_Name "You really think so?"
-    ch_Name ""
+    ch_Name "Talaga?"
 
 # game/logic/events/Leona.rpy:1445
 translate philippine Leona_5_label_3facfa8c:
 
     # Haley "Yes."
-    Haley ""
+    Haley "Oo."
 
 # game/logic/events/Leona.rpy:1446
 translate philippine Leona_5_label_5c31b9bd:
 
     # ch_Name "Come here..."
-    ch_Name ""
+    ch_Name "Halika..."
 
 # game/logic/events/Leona.rpy:1448
 translate philippine Leona_5_label_7945e9da:
@@ -5266,115 +5266,115 @@ translate philippine Leona_5_label_7945e9da:
 translate philippine Leona_5_label_23b7136a:
 
     # ch_Name "{i}(It's impossible to be sad in her arms.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Imposible ang pagiging malungkot sa yakap niya.){/i}"
 
 # game/logic/events/Leona.rpy:1450
 translate philippine Leona_5_label_8965ef06:
 
     # ch_Name "{i}(And after she says that, the confidence in my chest blazes.){/i}"
-    ch_Name ""
+    ch_Name "{i}(At dahil sa sinabi niya, naniniwala na rin ako sa sarili ko.){/i}"
 
 # game/logic/events/Leona.rpy:1451
 translate philippine Leona_5_label_149c1d64:
 
     # ch_Name "{i}(Haley is right. I can handle whatever's waiting for me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tama si Haley, kaya ko ang kahit ano man ang naghihintay sa akin.){/i}"
 
 # game/logic/events/Leona.rpy:1453
 translate philippine Leona_5_label_4301f7cc:
 
     # Haley "It seems to be getting windy."
-    Haley ""
+    Haley "Lumalakas na ang hangin."
 
 # game/logic/events/Leona.rpy:1454
 translate philippine Leona_5_label_754e1e57:
 
     # Haley "Do you mind if we go back inside?"
-    Haley ""
+    Haley "Pwede na ba tayong babalik sa loob?"
 
 # game/logic/events/Leona.rpy:1455
 translate philippine Leona_5_label_a6694ee4:
 
     # Haley "I can't shake the thought of the statues staring at me."
-    Haley ""
+    Haley "'Di ko mawala ang isip na tinitignan tayo ng mga rebulto."
 
 # game/logic/events/Leona.rpy:1457
 translate philippine Leona_5_label_04a0251e:
 
     # ch_Name "I mean, I can understand them."
-    ch_Name ""
+    ch_Name "Mauunawaan ko sila."
 
 # game/logic/events/Leona.rpy:1458
 translate philippine Leona_5_label_5168f873:
 
     # Haley "Stupid!"
-    Haley ""
+    Haley "Bobo!"
 
 # game/logic/events/Leona.rpy:1459
 translate philippine Leona_5_label_499d9f3e:
 
     # ch_Name "All right, let's go. Thank you. I needed this."
-    ch_Name ""
+    ch_Name "Sige na nga. Salamat. Kailangan ko ito."
 
 # game/logic/events/Leona.rpy:1461
 translate philippine Leona_5_label_a50f8ff1:
 
     # Haley "Always happy to help."
-    Haley ""
+    Haley "Palagi akong handa magtulong sa iyo."
 
 # game/logic/events/Leona.rpy:1470
 translate philippine Leona_5_label_d5d7ad16:
 
     # ch_Name "Thanks for stopping by, Sam."
-    ch_Name ""
+    ch_Name "Salamat sa pagbisita mo, Sam."
 
 # game/logic/events/Leona.rpy:1471
 translate philippine Leona_5_label_b5e617ec:
 
     # Samantha "No problem."
-    Samantha ""
+    Samantha "Walang problema."
 
 # game/logic/events/Leona.rpy:1472
 translate philippine Leona_5_label_01b269f5:
 
     # Samantha "I take it you wanted to talk in private? I love secrets."
-    Samantha ""
+    Samantha "Gusto mo bang magsalita ng pribado? Mahilig ako sa mga sekreto."
 
 # game/logic/events/Leona.rpy:1474
 translate philippine Leona_5_label_9900a37d:
 
     # ch_Name "{i}(Oh, yeah. That's right!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oo nga pala!){/i}""
 
 # game/logic/events/Leona.rpy:1475
 translate philippine Leona_5_label_87c629cf:
 
     # ch_Name "{i}(I remember when you used to run into my room and gossip about Ashley's boyfriends...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Maalala ko pa noong papasok ka sa silid ko at makipag-usap tungkol sa mga nobyo ni Ashley...){/i}"
 
 # game/logic/events/Leona.rpy:1476
 translate philippine Leona_5_label_5d4df1f4:
 
     # Samantha "Or are you trying to seduce me? If so, there aren't enough candles..."
-    Samantha ""
+    Samantha "O nanliligaw ka ba sa akin? Kung gayon, kulang ang mga kandila..."
 
 # game/logic/events/Leona.rpy:1478
 translate philippine Leona_5_label_333403da:
 
     # ch_Name "And you're in a playful mood today. It's nice to see you like this."
-    ch_Name ""
+    ch_Name "At mapaglaroka ngayon. Mabuti talagang makita na ganyan ka."
 
 # game/logic/events/Leona.rpy:1479
 translate philippine Leona_5_label_58b65d98:
 
     # ch_Name "But I didn't call you here to seduce you. Not tonight."
-    ch_Name ""
+    ch_Name "Pero 'di ako nanliligaw sa iyo. Hindi ngayong gabi."
 
 # game/logic/events/Leona.rpy:1480
 translate philippine Leona_5_label_5cd76f1a:
 
     # Samantha "Oh, that's too bad."
-    Samantha ""
+    Samantha "Sayang."
 
 # game/logic/events/Leona.rpy:1482
 translate philippine Leona_5_label_07ca80f0:
@@ -5386,151 +5386,151 @@ translate philippine Leona_5_label_07ca80f0:
 translate philippine Leona_5_label_c825c1ef:
 
     # Samantha "You should see your face right now!"
-    Samantha ""
+    Samantha "Sana makita mo ang mukha mo ngayon!"
 
 # game/logic/events/Leona.rpy:1484
 translate philippine Leona_5_label_86c8377c:
 
     # ch_Name "{i}(It's been a long time since Sam was this funny. Too bad I'm not up to it.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ang tagal nang 'di nakakatawa sa Sam. Sayang na 'di ko gusto ngayon.){/i}"
 
 # game/logic/events/Leona.rpy:1486
 translate philippine Leona_5_label_45786a59:
 
     # ch_Name "Unfortunately, I'm not really feeling up for jokes at the moment."
-    ch_Name ""
+    ch_Name "Sa kasamaang palad, 'di ko nais ang mga biro ngayon."
 
 # game/logic/events/Leona.rpy:1487
 translate philippine Leona_5_label_4bfd16e0:
 
     # ch_Name "I think I'm in trouble."
-    ch_Name ""
+    ch_Name "May problema ako."
 
 # game/logic/events/Leona.rpy:1489
 translate philippine Leona_5_label_b3b72ddc:
 
     # Samantha "What's wrong, [Name]?"
-    Samantha ""
+    Samantha "Ano ang problema, [Name]?"
 
 # game/logic/events/Leona.rpy:1490
 translate philippine Leona_5_label_532967d7:
 
     # Samantha "I didn't know..."
-    Samantha ""
+    Samantha "'Di ko nalaman..."
 
 # game/logic/events/Leona.rpy:1491
 translate philippine Leona_5_label_6d7ef545:
 
     # Samantha "Is there anything I can do to help?"
-    Samantha ""
+    Samantha "May magagawa ba ako?"
 
 # game/logic/events/Leona.rpy:1493
 translate philippine Leona_5_label_e195ab66:
 
     # ch_Name "I was almost killed by a phantom soulstealer. That time I slept all day."
-    ch_Name ""
+    ch_Name "Malapit na akong mamatay dahil sa multo na nagnanakaw ng kaluluwa."
 
 # game/logic/events/Leona.rpy:1494
 translate philippine Leona_5_label_eddadb2a:
 
     # ch_Name "And now I know it was sent after me on purpose."
-    ch_Name ""
+    ch_Name "Noong araw na nagtulog ako. Nilagay sa akin ng isang tao."
 
 # game/logic/events/Leona.rpy:1495
 translate philippine Leona_5_label_ba62c973:
 
     # Samantha "What do you mean?"
-    Samantha ""
+    Samantha "Anong ibig mong sabihin?"
 
 # game/logic/events/Leona.rpy:1496
 translate philippine Leona_5_label_81b737b9:
 
     # ch_Name "Some psycho left a note under my door admitting it."
-    ch_Name ""
+    ch_Name "May naglagay ng sulat sa pinto ko kanina."
 
 # game/logic/events/Leona.rpy:1497
 translate philippine Leona_5_label_67609b77:
 
     # ch_Name "He says he's been testing me. And he wants to meet me."
-    ch_Name ""
+    ch_Name "Sabi niya na sinusuri niya ako. At gusto niyang makipag-usap."
 
 # game/logic/events/Leona.rpy:1499
 translate philippine Leona_5_label_54cfa09b:
 
     # Samantha "Are you sure he's telling the truth? Who could it be?"
-    Samantha ""
+    Samantha "Totoo ba ito? Sino ba?"
 
 # game/logic/events/Leona.rpy:1500
 translate philippine Leona_5_label_a6763c87:
 
     # ch_Name "I don't know."
-    ch_Name ""
+    ch_Name "Hindi ko alam."
 
 # game/logic/events/Leona.rpy:1501
 translate philippine Leona_5_label_68f773a3:
 
     # Samantha "Maybe we shouldn't go."
-    Samantha ""
+    Samantha "Siguro 'di tayo pupunta."
 
 # game/logic/events/Leona.rpy:1502
 translate philippine Leona_5_label_c733a346:
 
     # ch_Name "I don't know. I'm confused..."
-    ch_Name ""
+    ch_Name "'Di ko alam. Nalilito ako..."
 
 # game/logic/events/Leona.rpy:1504
 translate philippine Leona_5_label_1ea814ca:
 
     # Samantha "Well, well, well. Come here."
-    Samantha ""
+    Samantha "Sige. Halika."
 
 # game/logic/events/Leona.rpy:1505
 translate philippine Leona_5_label_361cee48:
 
     # Samantha "Don't worry about it. We'll figure it out. Together."
-    Samantha ""
+    Samantha "'Wag mag-alala. Magagawa natin ito. Magkasama tayo."
 
 # game/logic/events/Leona.rpy:1506
 translate philippine Leona_5_label_29c32f7d:
 
     # ch_Name "{i}(She knows how to comfort me...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Alam niya talaga kung paano akong aliwin...){/i}"
 
 # game/logic/events/Leona.rpy:1507
 translate philippine Leona_5_label_d09eec46:
 
     # ch_Name "The letter says he knew my parents. My real parents."
-    ch_Name ""
+    ch_Name "Sabi niya na nakilala niya ang mga magulang ko."
 
 # game/logic/events/Leona.rpy:1508
 translate philippine Leona_5_label_8f0b549e:
 
     # Samantha "Wow! But do you really believe it all?"
-    Samantha ""
+    Samantha "At naniniwala ka ba?"
 
 # game/logic/events/Leona.rpy:1510
 translate philippine Leona_5_label_92533f1d:
 
     # ch_Name "I have no choice."
-    ch_Name ""
+    ch_Name "Wala akong magagawa."
 
 # game/logic/events/Leona.rpy:1511
 translate philippine Leona_5_label_d891c1a1:
 
     # ch_Name "I have too many questions..."
-    ch_Name ""
+    ch_Name "Andami ng mga tanong ko..."
 
 # game/logic/events/Leona.rpy:1512
 translate philippine Leona_5_label_5af4bf24:
 
     # ch_Name "I have to go. I've made up my mind."
-    ch_Name ""
+    ch_Name "Kailangan kong pumunta. Nagpasya na ako."
 
 # game/logic/events/Leona.rpy:1513
 translate philippine Leona_5_label_217682ad:
 
     # Samantha "Then I'll support you. I'm sure you'll make it, no matter what's waiting out there..."
-    Samantha ""
+    Samantha "Sinusuportahan kita. Kaya mo ang kahit ano man ang naghihintay sa iyo..."
 
 # game/logic/events/Leona.rpy:1515
 translate philippine Leona_5_label_09258ff7:
@@ -5542,13 +5542,13 @@ translate philippine Leona_5_label_09258ff7:
 translate philippine Leona_5_label_7b6b8dc9:
 
     # ch_Name "Thank you. I needed to hear it from you."
-    ch_Name ""
+    ch_Name "Salamat. Kailagan kong marinig mula sa iyo."
 
 # game/logic/events/Leona.rpy:1517
 translate philippine Leona_5_label_5ba2124d:
 
     # ch_Name "Would you give me a kiss for good luck?"
-    ch_Name ""
+    ch_Name "Hahalikan mo ba ako para sa swerte?"
 
 # game/logic/events/Leona.rpy:1519
 translate philippine Leona_5_label_d0824347:
@@ -5566,7 +5566,7 @@ translate philippine Leona_5_label_a4846385:
 translate philippine Leona_5_label_e63f72ff:
 
     # ch_Name "{i}( I didn't think she'd say yes so easily.){/i}"
-    ch_Name ""
+    ch_Name "{i}('Di kong inakala na ang bilis niyang makikipagsang-ayon.){/i}"
 
 # game/logic/events/Leona.rpy:1522
 translate philippine Leona_5_label_1d48e16f:
@@ -5578,145 +5578,145 @@ translate philippine Leona_5_label_1d48e16f:
 translate philippine Leona_5_label_113381a5:
 
     # Samantha "All right, you're done."
-    Samantha ""
+    Samantha "Sige. Tapos na."
 
 # game/logic/events/Leona.rpy:1525
 translate philippine Leona_5_label_c92c0e79:
 
     # ch_Name "Thank you. I can already feel my luck growing."
-    ch_Name ""
+    ch_Name "Salamat. Mararamdaman ko na ang swerte ko."
 
 # game/logic/events/Leona.rpy:1526
 translate philippine Leona_5_label_76c09e37:
 
     # Samantha "Take care, [Name]."
-    Samantha ""
+    Samantha "NMag-ingat ka, [Name]."
 
 # game/logic/events/Leona.rpy:1527
 translate philippine Leona_5_label_3f9a3087:
 
     # ch_Name "{i}(Samantha worries for a reason. I have to be prepared for the worst.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nag-aalala si Samantha. Dapat maghanda na ako.){/i}"
 
 # game/logic/events/Leona.rpy:1529
 translate philippine Leona_5_label_f90110aa:
 
     # ch_Name "{i}(Let's see if kissing her will help me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tignan natin kapag makatulong ang paghalik sa kanya.){/i}"
 
 # game/logic/events/Leona.rpy:1542
 translate philippine Leona_5_label_from_gallery_fc5f2d65:
 
     # ch_Name "{i}(What the hell kind of charm is that, Naomi?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Anong klaseng bighani 'yan, Naomi?){/i}"
 
 # game/logic/events/Leona.rpy:1543
 translate philippine Leona_5_label_from_gallery_fcc23301:
 
     # ch_Name "{i}(I should have asked if you wanted to keep me company and chat...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Dapat nagtanong ako kapag gusto mong makipag-usap...){/i}"
 
 # game/logic/events/Leona.rpy:1544
 translate philippine Leona_5_label_from_gallery_4c8a1447:
 
     # ch_Name "{i}(Next thing I know, you're dragging me to the second floor and pulling down my pants.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pero ngayon hinihila mo ako sa ikalawang palapag and hinuhubad ang pantalon ko.){/i}"
 
 # game/logic/events/Leona.rpy:1546
 translate philippine Leona_5_label_from_gallery_a37bab3e:
 
     # ch_Name "{i}(That feels so good...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ang sarap.){/i}"
 
 # game/logic/events/Leona.rpy:1547
 translate philippine Leona_5_label_from_gallery_4339207c:
 
     # Naomi "I bet no one has ever worked your dick with their tongue like that before!"
-    Naomi ""
+    Naomi "Sigurado ako na wala pang nakapaggamit sa iyo ng kanilang dila katulad ko!"
 
 # game/logic/events/Leona.rpy:1548
 translate philippine Leona_5_label_from_gallery_3ac2a815:
 
     # ch_Name "Ah... That's for sure. You're the queen of blowjobs!"
-    ch_Name ""
+    ch_Name "Sigurado 'yun. Ikaw ang reyna ng mga blowjob!"
 
 # game/logic/events/Leona.rpy:1550
 translate philippine Leona_5_label_from_gallery_7999d61d:
 
     # ch_Name "{i}(I wonder if Amelie suspects anything?){/i}"
-    ch_Name ""
+    ch_Name "{i}(IMay pinaghihinalaan ba si Amelie?){/i}"
 
 # game/logic/events/Leona.rpy:1551
 translate philippine Leona_5_label_from_gallery_f7ddbbd2:
 
     # ch_Name "{i}(We left for the second floor quite a while ago without saying anything.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kanina pa kami umalis kami sa ikalawang palapag na walang sinabi.){/i}"
 
 # game/logic/events/Leona.rpy:1552
 translate philippine Leona_5_label_from_gallery_67b74165:
 
     # ch_Name "{i}(And Naomi isn't the quietest when it comes to blowjobs, either.){/i}"
-    ch_Name ""
+    ch_Name "{i}(At hindi matahimik si Naomi sa mga blowjob.){/i}"
 
 # game/logic/events/Leona.rpy:1554
 translate philippine Leona_5_label_from_gallery_4c98d3a6:
 
     # ch_Name "{i}(I don't think she does.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Baka wala siyang nalaman.){/i}"
 
 # game/logic/events/Leona.rpy:1555
 translate philippine Leona_5_label_from_gallery_861ffe01:
 
     # ch_Name "{i}(Is that her waving to me so cheerfully?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kmakaway ba siya sa akin?){/i}"
 
 # game/logic/events/Leona.rpy:1557
 translate philippine Leona_5_label_from_gallery_fa6fec9d:
 
     # ch_Name "{i}(All right, miss. No need to come up here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sige, miss. 'Di kailangang pumunta rito.){/i}"
 
 # game/logic/events/Leona.rpy:1558
 translate philippine Leona_5_label_from_gallery_9dad1140:
 
     # ch_Name "{i}(Just smile and wave. Just smile and wave...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ngumiti at kumaway, ngumiti at kumaway...){/i}"
 
 # game/logic/events/Leona.rpy:1560
 translate philippine Leona_5_label_from_gallery_ea9f42f4:
 
     # ch_Name "{i}(Man, it's hard to concentrate when your head...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ang hirap mag-isip ng mabuti kapag...){/i}"
 
 # game/logic/events/Leona.rpy:1561
 translate philippine Leona_5_label_from_gallery_2937ea49:
 
     # ch_Name "{i}(...being licked so skillfully?){/i}"
-    ch_Name ""
+    ch_Name "{i}(...ay dinidilaan nang may kasanayan?){/i}"
 
 # game/logic/events/Leona.rpy:1562
 translate philippine Leona_5_label_from_gallery_24a64263:
 
     # ch_Name "{i}(I wanted to consult Naomi about the note...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tatanungin ko sana si Naomi tungkol sa sulat...){/i}"
 
 # game/logic/events/Leona.rpy:1563
 translate philippine Leona_5_label_from_gallery_10c7048b:
 
     # ch_Name "{i}(But this is even better!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pero mas mabuti ito!){/i}"
 
 # game/logic/events/Leona.rpy:1565
 translate philippine Leona_5_label_from_gallery_a13be6a3:
 
     # ch_Name "Baby, let's speed it up!"
-    ch_Name ""
+    ch_Name "Mahal, bilisan natin!"
 
 # game/logic/events/Leona.rpy:1566
 translate philippine Leona_5_label_from_gallery_2ef56037:
 
     # ch_Name "We don't have all day."
-    ch_Name ""
+    ch_Name "Wala tayong oras."
 
 # game/logic/events/Leona.rpy:1567
 translate philippine Leona_5_label_from_gallery_0ae9bcd0:
@@ -5734,7 +5734,7 @@ translate philippine Leona_5_label_from_gallery_75e0de31:
 translate philippine Leona_5_label_from_gallery_3988666a:
 
     # ch_Name "Oh yeah, that's it!"
-    ch_Name ""
+    ch_Name "Sige pa!"
 
 # game/logic/events/Leona.rpy:1571
 translate philippine Leona_5_label_from_gallery_75e0de31_1:
@@ -5746,7 +5746,7 @@ translate philippine Leona_5_label_from_gallery_75e0de31_1:
 translate philippine Leona_5_label_from_gallery_3d5ece9f:
 
     # ch_Name "Good girl."
-    ch_Name ""
+    ch_Name "Mabuti ka talaga."
 
 # game/logic/events/Leona.rpy:1574
 translate philippine Leona_5_label_from_gallery_0ae9bcd0_1:
@@ -5758,19 +5758,19 @@ translate philippine Leona_5_label_from_gallery_0ae9bcd0_1:
 translate philippine Leona_5_label_from_gallery_8ce974de:
 
     # Naomi "{i}(His dick tastes incredible.){/i}"
-    Naomi ""
+    Naomi "{i}(Ang sarap ng titi niya.){/i}"
 
 # game/logic/events/Leona.rpy:1576
 translate philippine Leona_5_label_from_gallery_5fda3a0f:
 
     # Naomi "{i}(My favorite lollipop.){/i}"
-    Naomi ""
+    Naomi "{i}(Paborito kong sipan.){/i}"
 
 # game/logic/events/Leona.rpy:1578
 translate philippine Leona_5_label_from_gallery_1e109b8f:
 
     # ch_Name "Your tongue is good, but I prefer deeper."
-    ch_Name ""
+    ch_Name "Ang galing ng dila mo, pero gusto ko pang ipailalim."
 
 # game/logic/events/Leona.rpy:1579
 translate philippine Leona_5_label_from_gallery_581ca28a:
@@ -5782,7 +5782,7 @@ translate philippine Leona_5_label_from_gallery_581ca28a:
 translate philippine Leona_5_label_from_gallery_30f358dc:
 
     # ch_Name "Clever girl."
-    ch_Name ""
+    ch_Name "Matalas talaga."
 
 # game/logic/events/Leona.rpy:1582
 translate philippine Leona_5_label_from_gallery_0ae9bcd0_2:
@@ -5794,19 +5794,19 @@ translate philippine Leona_5_label_from_gallery_0ae9bcd0_2:
 translate philippine Leona_5_label_from_gallery_7b248c25:
 
     # ch_Name "Oh yes, that's it!"
-    ch_Name ""
+    ch_Name "Sige pa, ganyan!"
 
 # game/logic/events/Leona.rpy:1584
 translate philippine Leona_5_label_from_gallery_737b721c:
 
     # ch_Name "That's it!"
-    ch_Name ""
+    ch_Name "Ganyan!"
 
 # game/logic/events/Leona.rpy:1586
 translate philippine Leona_5_label_from_gallery_bd2bb1e1:
 
     # ch_Name "{i}(Her mouth feels like it's designed to hold my cock.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Para talaga sa titi ko ang bibig niya.){/i}"
 
 # game/logic/events/Leona.rpy:1587
 translate philippine Leona_5_label_from_gallery_0ae9bcd0_3:
@@ -5818,19 +5818,19 @@ translate philippine Leona_5_label_from_gallery_0ae9bcd0_3:
 translate philippine Leona_5_label_from_gallery_51bfb736:
 
     # ch_Name "Listen, Naomi. I need your advice."
-    ch_Name ""
+    ch_Name "Makinig ka, Naomi. Kailangan ko ang payo mo."
 
 # game/logic/events/Leona.rpy:1589
 translate philippine Leona_5_label_from_gallery_5f261e4b:
 
     # ch_Name "Just don't stop..."
-    ch_Name ""
+    ch_Name "'Wag kang titigil..."
 
 # game/logic/events/Leona.rpy:1591
 translate philippine Leona_5_label_from_gallery_b1ba396b:
 
     # ch_Name "If you were cursed and then sent an anonymous note..."
-    ch_Name ""
+    ch_Name "Kapag isinumpa ka at binigyan ng sulat na walang akda..."
 
 # game/logic/events/Leona.rpy:1592
 translate philippine Leona_5_label_from_gallery_0ae9bcd0_4:
@@ -5842,85 +5842,85 @@ translate philippine Leona_5_label_from_gallery_0ae9bcd0_4:
 translate philippine Leona_5_label_from_gallery_a672a175:
 
     # ch_Name "With an admission of guilt and an offer to meet? Would you go?"
-    ch_Name ""
+    ch_Name "Na nagsabi ng pagkakasala at alok na makipagkita, pupunta ka ba?"
 
 # game/logic/events/Leona.rpy:1595
 translate philippine Leona_5_label_from_gallery_79c6cd12:
 
     # Naomi "Well, of course I would. I'd go."
-    Naomi ""
+    Naomi "Oo. Pupunta ako."
 
 # game/logic/events/Leona.rpy:1596
 translate philippine Leona_5_label_from_gallery_ebd5046f:
 
     # ch_Name "What makes you so sure?"
-    ch_Name ""
+    ch_Name "Bakit?"
 
 # game/logic/events/Leona.rpy:1597
 translate philippine Leona_5_label_from_gallery_f532c688:
 
     # Naomi "I'd want to know who put the curse on me."
-    Naomi ""
+    Naomi "Gusto kong malaman kung sino siya."
 
 # game/logic/events/Leona.rpy:1599
 translate philippine Leona_5_label_from_gallery_8e808ec7:
 
     # Naomi "To kick his ass."
-    Naomi ""
+    Naomi "At sisirain siya."
 
 # game/logic/events/Leona.rpy:1600
 translate philippine Leona_5_label_from_gallery_d9fb5f77:
 
     # ch_Name "Heh... Wouldn't you?"
-    ch_Name ""
+    ch_Name "Talaga?"
 
 # game/logic/events/Leona.rpy:1601
 translate philippine Leona_5_label_from_gallery_d78b298f:
 
     # Naomi "Of course, you would. Nobody messes with me like that."
-    Naomi ""
+    Naomi "Siyempre. Walang dapat nakikialam sa akin nang ganyan."
 
 # game/logic/events/Leona.rpy:1602
 translate philippine Leona_5_label_from_gallery_c45ad7f1:
 
     # Naomi "Did you have to ask right now?"
-    Naomi ""
+    Naomi "Dapat bang ngayon ka tatanong?"
 
 # game/logic/events/Leona.rpy:1604
 translate philippine Leona_5_label_from_gallery_605674e0:
 
     # ch_Name "That's why I called you. Thanks for the advice."
-    ch_Name ""
+    ch_Name "'Yun ang dahilan ng pagtawag sa iyo. Salamat."
 
 # game/logic/events/Leona.rpy:1605
 translate philippine Leona_5_label_from_gallery_db99c414:
 
     # ch_Name "And for that..."
-    ch_Name ""
+    ch_Name "At dahil sa tulong mo..."
 
 # game/logic/events/Leona.rpy:1606
 translate philippine Leona_5_label_from_gallery_f5d884c5:
 
     # ch_Name "Is there anything I can do to thank you?"
-    ch_Name ""
+    ch_Name "May magagawa ba ako para makipagsalamat?"
 
 # game/logic/events/Leona.rpy:1608
 translate philippine Leona_5_label_from_gallery_5b308a13:
 
     # Naomi "Cum on my face soon."
-    Naomi ""
+    Naomi "Pumutok sa mukha ko."
 
 # game/logic/events/Leona.rpy:1609
 translate philippine Leona_5_label_from_gallery_c07dc98b:
 
     # ch_Name "Uh... Since you're asking..."
-    ch_Name ""
+    ch_Name "Sige... Kapag gusto mo..."
 
 # game/logic/events/Leona.rpy:1610
 translate philippine Leona_5_label_from_gallery_c9b23224:
 
     # ch_Name "{i}(With a tongue like that it shouldn't be hard...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mabilis lang kapag gamitin ang dila niya...){/i}"
 
 # game/logic/events/Leona.rpy:1611
 translate philippine Leona_5_label_from_gallery_0dafb7c7:
@@ -5932,349 +5932,349 @@ translate philippine Leona_5_label_from_gallery_0dafb7c7:
 translate philippine Leona_5_label_from_gallery_7bb6bb07:
 
     # ch_Name "How nice..." with flash
-    ch_Name "" with flash
+    ch_Name "Ang sarap..." with flash
 
 # game/logic/events/Leona.rpy:1614
 translate philippine Leona_5_label_from_gallery_971015c3:
 
     # ch_Name "Naomi, you're a miracle worker."
-    ch_Name ""
+    ch_Name "Naomi, gumagawa ka ng mga himala."
 
 # game/logic/events/Leona.rpy:1616
 translate philippine Leona_5_label_from_gallery_49b9a3ec:
 
     # Naomi "Huh. I'm not just a wizard, dummy. I'm the best wizard."
-    Naomi ""
+    Naomi "Salamangkera lang ako, bobo. Ang pinakamagaling na salamangkera."
 
 # game/logic/events/Leona.rpy:1617
 translate philippine Leona_5_label_from_gallery_58d95a42:
 
     # Naomi "{i}(And I just made myself the best face mask in the world.){/i}"
-    Naomi ""
+    Naomi "{i}(At nakakuha ako ang pinakamahusay na maskara sa mundo.){/i}"
 
 # game/logic/events/Leona.rpy:1618
 translate philippine Leona_5_label_from_gallery_1699bf05:
 
     # Naomi "{i}(It's good for your skin and tastes good... Amazing!){/i}"
-    Naomi ""
+    Naomi "{i}(Ang sarap at mabuti para sa balat... Ang ganda!){/i}"
 
 # game/logic/events/Leona.rpy:1625
 translate philippine Leona_5_label_from_gallery_5ddfb378:
 
     # ch_Name "{i}(I totally didn't plan this when I was looking to meet Naomi.){/i}"
-    ch_Name ""
+    ch_Name "{i}('Di talaga itong planado noong humingi ako ng tulong kay Naomi.){/i}"
 
 # game/logic/events/Leona.rpy:1626
 translate philippine Leona_5_label_from_gallery_06779f0b:
 
     # ch_Name "{i}(But I have to admit - I feel much more confident now.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pero aaminin ko - naniniwala na ako sa sarili ko.){/i}"
 
 # game/logic/events/Leona.rpy:1628
 translate philippine Leona_5_label_from_gallery_1b2b186d:
 
     # ch_Name "{i}(Naomi's right, I should know who's trying to play these games with me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tama si Naomi, dapat kong malaman ang nakikialam sa akin.){/i}"
 
 # game/logic/events/Leona.rpy:1629
 translate philippine Leona_5_label_from_gallery_121995b5:
 
     # ch_Name "{i}(At the very least, to kick his ass for joking around like that.){/i}"
-    ch_Name ""
+    ch_Name "{i}(At sipain ang kanyang pwet dahil sa pagbibiro niya.){/i}"
 
 # game/logic/events/Leona.rpy:1642
 translate philippine Leona_5_label_from_gallery_de19c038:
 
     # ch_Name "Thanks for taking the time to meet me, Lily."
-    ch_Name ""
+    ch_Name "Salamat sa pakipag-usap mo sa akin, Lily."
 
 # game/logic/events/Leona.rpy:1643
 translate philippine Leona_5_label_from_gallery_5699ba00:
 
     # Lily "No problem. You sounded concerned about something on the phone."
-    Lily ""
+    Lily "Walang problema. Parang nag-aalala ka sa tawag kanina."
 
 # game/logic/events/Leona.rpy:1644
 translate philippine Leona_5_label_from_gallery_9f3b72a6:
 
     # ch_Name "I was."
-    ch_Name ""
+    ch_Name "Tama."
 
 # game/logic/events/Leona.rpy:1646
 translate philippine Leona_5_label_from_gallery_409ea600:
 
     # ch_Name "Remember that time I slept all day?"
-    ch_Name ""
+    ch_Name "Naalala mo ba noong nagtulog ako ng buong araw?"
 
 # game/logic/events/Leona.rpy:1647
 translate philippine Leona_5_label_from_gallery_ce815bbd:
 
     # Lily "Of course, we were all very worried."
-    Lily ""
+    Lily "Siyempre. Nag-aalala kaming lahat."
 
 # game/logic/events/Leona.rpy:1648
 translate philippine Leona_5_label_from_gallery_d28fc00e:
 
     # ch_Name "And for good reason. It was no ordinary dream."
-    ch_Name ""
+    ch_Name "May dahilan 'yun. 'Di 'yun karaniwang panaginip."
 
 # game/logic/events/Leona.rpy:1649
 translate philippine Leona_5_label_from_gallery_2322c6f3:
 
     # ch_Name "Somebody put a phantom soulstealer on me. He hunts in dreams."
-    ch_Name ""
+    ch_Name "May naglagay ng multo na nagnanakaw ng kaluluwa sa akin. Nangangaso sa panaginip."
 
 # game/logic/events/Leona.rpy:1651
 translate philippine Leona_5_label_from_gallery_df025b9c:
 
     # Lily "A phantom soulstealer?"
-    Lily ""
+    Lily "Multo na nagnanakaw ng kaluluwa?"
 
 # game/logic/events/Leona.rpy:1652
 translate philippine Leona_5_label_from_gallery_dea6bb4c:
 
     # Lily "Are you sure?! They're very dangerous creatures."
-    Lily ""
+    Lily "Sigurado?! Mapanganib sila."
 
 # game/logic/events/Leona.rpy:1654
 translate philippine Leona_5_label_from_gallery_729d9936:
 
     # ch_Name "I'm sure. And now this guy wants to meet me."
-    ch_Name ""
+    ch_Name "Sigurado ako. Sabi niya na gusto niyang makipag-usap."
 
 # game/logic/events/Leona.rpy:1655
 translate philippine Leona_5_label_from_gallery_24b7f65b:
 
     # ch_Name "He slipped me a note. He says he knew my parents..."
-    ch_Name ""
+    ch_Name "Naglagay ng sulat sa pinto ko. Sabi niya na nakilala niya ang mga magulang ko..."
 
 # game/logic/events/Leona.rpy:1656
 translate philippine Leona_5_label_from_gallery_871c724c:
 
     # ch_Name "I don't know what to do. I want answers."
-    ch_Name ""
+    ch_Name "'Di ko alam ang gagawin ko. Kailangan ko ng mga sagot."
 
 # game/logic/events/Leona.rpy:1657
 translate philippine Leona_5_label_from_gallery_ca51da66:
 
     # ch_Name "But all this mystery scares me..."
-    ch_Name ""
+    ch_Name "Pero natatakot ako sa misteryong ito..."
 
 # game/logic/events/Leona.rpy:1659
 translate philippine Leona_5_label_from_gallery_245f82bf:
 
     # Lily "Phantom soulstealers, they're no joke."
-    Lily ""
+    Lily "Mga multo na nagnanakaw ng kaluluwa. 'Di 'yan biro-biro."
 
 # game/logic/events/Leona.rpy:1660
 translate philippine Leona_5_label_from_gallery_7a6755cc:
 
     # Lily "If someone is capable of doing that, you should definitely find out who it is."
-    Lily ""
+    Lily "Kung kayan niyang gawin 'yan, dapat mong malaman kung sino siya."
 
 # game/logic/events/Leona.rpy:1661
 translate philippine Leona_5_label_from_gallery_c68fb71d:
 
     # Lily "I think you should go. I don't think it's a trap."
-    Lily ""
+    Lily "Sa tingin ko, pupunta ka. Parang hindi bitag sa palagay ko."
 
 # game/logic/events/Leona.rpy:1662
 translate philippine Leona_5_label_from_gallery_3d992bfd:
 
     # ch_Name "You don't think so?"
-    ch_Name ""
+    ch_Name "Sa palagay mo?"
 
 # game/logic/events/Leona.rpy:1663
 translate philippine Leona_5_label_from_gallery_e2ac113e:
 
     # Lily "Of course not. Why would anyone risk leaving a note if they want to hurt you?"
-    Lily ""
+    Lily "Hindi. Bakit ba siyang mag-iwan ng sulat kapag gusto ka niyang saktan?"
 
 # game/logic/events/Leona.rpy:1664
 translate philippine Leona_5_label_from_gallery_275ec897:
 
     # Lily "Especially if he knows how to send phantoms."
-    Lily ""
+    Lily "Lalo na kung marunong siyang maggamit ng mga multo."
 
 # game/logic/events/Leona.rpy:1666
 translate philippine Leona_5_label_from_gallery_88a1760a:
 
     # Lily "I'm sure it's some kind of sick joke."
-    Lily ""
+    Lily "Sigurado ako na ito'y masamang pagbibiro."
 
 # game/logic/events/Leona.rpy:1667
 translate philippine Leona_5_label_from_gallery_5926cd74:
 
     # Lily "But even if it isn't, you can handle it. You're Leonheart."
-    Lily ""
+    Lily "Pero kung hindi, kaya mo ito. Leonheart ka."
 
 # game/logic/events/Leona.rpy:1669
 translate philippine Leona_5_label_from_gallery_53c5b8f8:
 
     # ch_Name "Thank you, Lily. You helped me make up my mind."
-    ch_Name ""
+    ch_Name "Salamat, Lily. Ang laki ng tulong mo."
 
 # game/logic/events/Leona.rpy:1670
 translate philippine Leona_5_label_from_gallery_7ba39e73:
 
     # ch_Name "Sorry, I have to go. I'll see you later."
-    ch_Name ""
+    ch_Name "Pasensya. Aalis na ako. Magkita tayo mamaya."
 
 # game/logic/events/Leona.rpy:1679
 translate philippine Leona_5_label_from_gallery_f6ce8d02:
 
     # ch_Name "{i}(I don't know if I should tell Elijah all the details.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi ko sigurado kung sasabihin ko ang lahat kay Elijah.){/i}"
 
 # game/logic/events/Leona.rpy:1680
 translate philippine Leona_5_label_from_gallery_261528a4:
 
     # ch_Name "{i}(What if he did it? He's older, he could have learned how to summon phantoms...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Paano kung ginawa niya? Mas matanda siya, pwede niyang matuto ng pagtawag ng multo...){/i}"
 
 # game/logic/events/Leona.rpy:1681
 translate philippine Leona_5_label_from_gallery_8e036bbc:
 
     # ch_Name "{i}(No, that's nonsense.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi, kalokohan 'yun.){/i}"
 
 # game/logic/events/Leona.rpy:1683
 translate philippine Leona_5_label_from_gallery_1361262b:
 
     # Elijah "Did you want to talk about something?"
-    Elijah ""
+    Elijah "Gusto mo bang mag-usap?"
 
 # game/logic/events/Leona.rpy:1684
 translate philippine Leona_5_label_from_gallery_d9cc1bcb:
 
     # ch_Name "Yeah. Sorry, I was thinking. I need your advice."
-    ch_Name ""
+    ch_Name "Oo. Pasensya, may iniisip lang. Kailangan ko ang payo mo."
 
 # game/logic/events/Leona.rpy:1685
 translate philippine Leona_5_label_from_gallery_871603bf:
 
     # ch_Name "Somebody set a phantom soulstealer on me. That's why I slept the whole day."
-    ch_Name ""
+    ch_Name "May naglagay ng multo na nagnanakaw ng kaluluwa sa akin. Kaya nagtulog ako buong araw."
 
 # game/logic/events/Leona.rpy:1686
 translate philippine Leona_5_label_from_gallery_e8d1b274:
 
     # Elijah "Oh, yeah? A phantom soulstealer?! It's a dangerous thing, bro."
-    Elijah ""
+    Elijah "Talaga? Multo na nagnanakaw ng kaluluwa?! Mapanganib 'yun, tol."
 
 # game/logic/events/Leona.rpy:1687
 translate philippine Leona_5_label_from_gallery_a2d48967:
 
     # ch_Name "And now I got a note. They want to meet. They say they're testing me."
-    ch_Name ""
+    ch_Name "May sulat ako. Gusto nilang makapagkita. Sabi ni na pagsusubok 'yun."
 
 # game/logic/events/Leona.rpy:1688
 translate philippine Leona_5_label_from_gallery_bc811c1b:
 
     # ch_Name "They also say they know something about my real parents..."
-    ch_Name ""
+    ch_Name "Sabi rin nila na nakilala niila ang mga magulang ko..."
 
 # game/logic/events/Leona.rpy:1690
 translate philippine Leona_5_label_from_gallery_04aa3488:
 
     # Elijah "That sounds really weird. It's kind of murky. Do you think he's lying?"
-    Elijah ""
+    Elijah "Nakakaiba talaga. Parang malabo. Nagsisinungaling ba siya?"
 
 # game/logic/events/Leona.rpy:1691
 translate philippine Leona_5_label_from_gallery_301dff92:
 
     # ch_Name "I don't know. I don't know if I should go."
-    ch_Name ""
+    ch_Name "'Di ko alam. 'Di ko alam kung hahanapin ko sila."
 
 # game/logic/events/Leona.rpy:1692
 translate philippine Leona_5_label_from_gallery_f0034d64:
 
     # Elijah "I'd go. Maybe it's just some bad prank."
-    Elijah ""
+    Elijah "Pupunta ako. Baka masamang biro lang."
 
 # game/logic/events/Leona.rpy:1693
 translate philippine Leona_5_label_from_gallery_0269ca4c:
 
     # Elijah "Or maybe it's something interesting. If you don't go, you won't know."
-    Elijah ""
+    Elijah "O baka may kakaibang nangyayari. Kapag 'di ka pupunta, hindi mo malalaman."
 
 # game/logic/events/Leona.rpy:1695
 translate philippine Leona_5_label_from_gallery_bc766299:
 
     # ch_Name "Heh. You're right, as usual."
-    ch_Name ""
+    ch_Name "Tama ka."
 
 # game/logic/events/Leona.rpy:1696
 translate philippine Leona_5_label_from_gallery_befc379e:
 
     # ch_Name "Thanks for the tip. I'll let you get back to it."
-    ch_Name ""
+    ch_Name "Salamat. Babalikan kita."
 
 # game/logic/events/Leona.rpy:1698
 translate philippine Leona_5_label_from_gallery_d64afe3c:
 
     # ch_Name "I'm gonna go for a walk."
-    ch_Name ""
+    ch_Name "Maglalakad muna ako."
 
 # game/logic/events/Leona.rpy:1699
 translate philippine Leona_5_label_from_gallery_7611dece:
 
     # ch_Name "I need to get my shit together before I go out there."
-    ch_Name ""
+    ch_Name "Kailangan kong kumalma bago ako lalabas."
 
 # game/logic/events/Leona.rpy:1701
 translate philippine Leona_5_label_from_gallery_147ae4fc:
 
     # Elijah "Come on, bro."
-    Elijah ""
+    Elijah "Sige tol."
 
 # game/logic/events/Leona.rpy:1702
 translate philippine Leona_5_label_from_gallery_ef28aa84:
 
     # Elijah "Good luck with that."
-    Elijah ""
+    Elijah "Kaya mo 'yan."
 
 # game/logic/events/Leona.rpy:1706
 translate philippine Leona_5_label_from_gallery_0b56faaa:
 
     # Elijah "Hey, [Name]! Hold up!"
-    Elijah ""
+    Elijah "Hoy, [Name]! Sandali!"
 
 # game/logic/events/Leona.rpy:1707
 translate philippine Leona_5_label_from_gallery_7d1c4653:
 
     # Elijah "Wait, please. Don't go away."
-    Elijah ""
+    Elijah "Sandali. 'Wag kang aalis"
 
 # game/logic/events/Leona.rpy:1709
 translate philippine Leona_5_label_from_gallery_94ac4f7c:
 
     # Elijah "It's probably a prank, but what if..."
-    Elijah ""
+    Elijah "Baka biro lang, pero ano kapag..."
 
 # game/logic/events/Leona.rpy:1710
 translate philippine Leona_5_label_from_gallery_9996c226:
 
     # Elijah "What if it's something dangerous?"
-    Elijah ""
+    Elijah "Kapag mapanganib?"
 
 # game/logic/events/Leona.rpy:1711
 translate philippine Leona_5_label_from_gallery_e745ce63:
 
     # Elijah "I won't forgive myself if I let you go without a good luck kiss."
-    Elijah ""
+    Elijah "'Di ko mapapatawad ang sarili ko kapag 'di kita mabibigyan ng swerteng halik. "
 
 # game/logic/events/Leona.rpy:1712
 translate philippine Leona_5_label_from_gallery_1e4a63d3:
 
     # ch_Name "A what-what?!"
-    ch_Name ""
+    ch_Name "Ano?"
 
 # game/logic/events/Leona.rpy:1714
 translate philippine Leona_5_label_from_gallery_a05442c6:
 
     # ch_Name "{i}(What's going on... Is this for real?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ano ba ang... Totoo ba ito?){/i}"
 
 # game/logic/events/Leona.rpy:1715
 translate philippine Leona_5_label_from_gallery_8982e1c4:
@@ -6292,13 +6292,13 @@ translate philippine Leona_5_label_from_gallery_9ae9ad6c:
 translate philippine Leona_5_label_from_gallery_03bfd715:
 
     # ch_Name "{i}(And Elijah's a good kisser, I gotta hand it to him.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ang galing ni Elijah sa maghalikan.){/i}"
 
 # game/logic/events/Leona.rpy:1719
 translate philippine Leona_5_label_from_gallery_47e6d73e:
 
     # ch_Name "{i}(I don't know whether to be jealous of him or happy that he's kissing me...){/i}"
-    ch_Name ""
+    ch_Name "{i}('Di ko alam kung magseselos ako sa kanya o maligaya na ako ang hinahalik...){/i}"
 
 # game/logic/events/Leona.rpy:1720
 translate philippine Leona_5_label_from_gallery_aadd6d05:
@@ -6310,91 +6310,91 @@ translate philippine Leona_5_label_from_gallery_aadd6d05:
 translate philippine Leona_5_label_from_gallery_874b7827:
 
     # Elijah "That's better."
-    Elijah ""
+    Elijah "Mas mabuti 'yan."
 
 # game/logic/events/Leona.rpy:1723
 translate philippine Leona_5_label_from_gallery_5081907c:
 
     # Elijah "Think of it as a talisman against trouble."
-    Elijah ""
+    Elijah "Isipin mo na anting-anting 'yan kontra sa kalaban."
 
 # game/logic/events/Leona.rpy:1725
 translate philippine Leona_5_label_from_gallery_0ff5b032:
 
     # Elijah "Take care of yourself, okay?"
-    Elijah ""
+    Elijah "Mag-ingat ka, ayos?"
 
 # game/logic/events/Leona.rpy:1726
 translate philippine Leona_5_label_from_gallery_b5a2f97e:
 
     # ch_Name "I promise I'll be careful."
-    ch_Name ""
+    ch_Name "Sige, mag-iingat ako."
 
 # game/logic/events/Leona.rpy:1727
 translate philippine Leona_5_label_from_gallery_d2f829b1:
 
     # ch_Name "I have to go. I'm sorry."
-    ch_Name ""
+    ch_Name "Aalis na ako. Pasensya."
 
 # game/logic/events/Leona.rpy:1743
 translate philippine Leona_6_label_a173d189:
 
     # ch_Name "{i}(I can't believe I made up my mind after all.){/i}"
-    ch_Name ""
+    ch_Name "{i}('Di ko maniniwalaan na nakadesisyon na ako.){/i}"
 
 # game/logic/events/Leona.rpy:1744
 translate philippine Leona_6_label_208798ab:
 
     # ch_Name "{i}(I think my knees are shaking.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nanginginig na ang tuhod ko.){/i}"
 
 # game/logic/events/Leona.rpy:1745
 translate philippine Leona_6_label_a7e909b1:
 
     # ch_Name "{i}(Get it together, [Name]. There's nothing to be afraid of.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kumalma ka, [Name]. Walang nakakatakot sa iyo.){/i}"
 
 # game/logic/events/Leona.rpy:1746
 translate philippine Leona_6_label_6b103257:
 
     # ch_Name "{i}(If it's a prank, it's not funny, but I don't think it's dangerous.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kapag biro ito, hindi talagang nakakatawa. Baka walang panganib.){/i}"
 
 # game/logic/events/Leona.rpy:1748
 translate philippine Leona_6_label_0a0dcbf8:
 
     # ch_Name "{i}(And if it's true, why would he hurt me?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kung totoo naman, bakit niya akong saktan?){/i}"
 
 # game/logic/events/Leona.rpy:1749
 translate philippine Leona_6_label_3ade40f8:
 
     # ch_Name "{i}(Judging from the note, he's preparing me for something.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Base sa sulat, hinahanda niya ako para sa isang bagay.){/i}"
 
 # game/logic/events/Leona.rpy:1751
 translate philippine Leona_6_label_b639b283:
 
     # ch_Name "{i}(It's one o'clock in the morning... So where is he?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ala-una na sa umaga... Nasaan ba siya?){/i}"
 
 # game/logic/events/Leona.rpy:1752
 translate philippine Leona_6_label_b78d8ea4:
 
     # ch_Name "{i}(I understand that he wants to seem mysterious...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nauunawaan ko na gusto niyang maging mahiwaga...){/i}"
 
 # game/logic/events/Leona.rpy:1753
 translate philippine Leona_6_label_ba0869be:
 
     # ch_Name "{i}(But why forget punctuality?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pero bakit nakakalimutan ang pagiging maagap?){/i}"
 
 # game/logic/events/Leona.rpy:1754
 translate philippine Leona_6_label_cf643070:
 
     # UnknownJacob "Waiting for me?"
-    UnknownJacob ""
+    UnknownJacob "Hinihintay mo ba ako?"
 
 # game/logic/events/Leona.rpy:1756
 translate philippine Leona_6_label_b78d9241:
@@ -6406,19 +6406,19 @@ translate philippine Leona_6_label_b78d9241:
 translate philippine Leona_6_label_e97f88ee:
 
     # ch_Name "What the...?"
-    ch_Name ""
+    ch_Name "Ano ba ang...?"
 
 # game/logic/events/Leona.rpy:1758
 translate philippine Leona_6_label_6f386d8a:
 
     # ch_Name "{i}(Who the hell is that? What's with the outfit?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sino ba 'yun? Ano ba ang mga damit niya?){/i}"
 
 # game/logic/events/Leona.rpy:1759
 translate philippine Leona_6_label_15e0ec16:
 
     # ch_Name "Do you have to sneak up behind me?!"
-    ch_Name ""
+    ch_Name "Kailangan mo bang igulat ako?!"
 
 # game/logic/events/Leona.rpy:1761
 translate philippine Leona_6_label_80ddaaae:
@@ -6430,25 +6430,25 @@ translate philippine Leona_6_label_80ddaaae:
 translate philippine Leona_6_label_07502a04:
 
     # ch_Name "So what's next. I'm here."
-    ch_Name ""
+    ch_Name "Ano na? Nandito na ako."
 
 # game/logic/events/Leona.rpy:1763
 translate philippine Leona_6_label_88456b0f:
 
     # ch_Name "Care to explain what this means?"
-    ch_Name ""
+    ch_Name "Gusto mo bang ipaliwanag ang lahat nito?"
 
 # game/logic/events/Leona.rpy:1764
 translate philippine Leona_6_label_8d955900:
 
     # UnknownJacob "Not here. Follow me."
-    UnknownJacob ""
+    UnknownJacob "Hindi dito. Sundin mo ako."
 
 # game/logic/events/Leona.rpy:1766
 translate philippine Leona_6_label_2a85864c:
 
     # ch_Name "What is the meaning of this? Where are you taking me?"
-    ch_Name ""
+    ch_Name "Ano ang ibig sabihin nito? Saan mo ako dinadala?"
 
 # game/logic/events/Leona.rpy:1767
 translate philippine Leona_6_label_80ddaaae_1:
@@ -6466,43 +6466,43 @@ translate philippine Leona_6_label_a98c1acd:
 translate philippine Leona_6_label_20c58fdd:
 
     # ch_Name "The note said I'd get answers."
-    ch_Name ""
+    ch_Name "Sabi ng sulat na may sagot ka."
 
 # game/logic/events/Leona.rpy:1771
 translate philippine Leona_6_label_e1280250:
 
     # ch_Name "So are you answering? With silence?"
-    ch_Name ""
+    ch_Name "Ito ba ang sagot? Tahimik?"
 
 # game/logic/events/Leona.rpy:1772
 translate philippine Leona_6_label_d361b4de:
 
     # UnknownJacob "Not here."
-    UnknownJacob ""
+    UnknownJacob "Hindi dito."
 
 # game/logic/events/Leona.rpy:1773
 translate philippine Leona_6_label_795b7e3b:
 
     # ch_Name "{i}(Damn. I don't like that. But what to do?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bwisit. 'Di ko ito gusto. Pero ano ang magawa ko?){/i}"
 
 # game/logic/events/Leona.rpy:1774
 translate philippine Leona_6_label_f4c8add3:
 
     # ch_Name "{i}(I wonder where he's taking me? I've never been above the first floor before...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Saan ba siya pupunta? 'Di pa ako nakapunta sa ibang palapag...){/i}"
 
 # game/logic/events/Leona.rpy:1776
 translate philippine Leona_6_label_246046ec:
 
     # ch_Name "Freshmen aren't allowed on this floor, you know?"
-    ch_Name ""
+    ch_Name "Bawal ang mga freshman sa palapag na ito."
 
 # game/logic/events/Leona.rpy:1777
 translate philippine Leona_6_label_357b0046:
 
     # ch_Name "If someone sees me here, I'll be in trouble."
-    ch_Name ""
+    ch_Name "Kung may makakita sa akin, may problema ako."
 
 # game/logic/events/Leona.rpy:1778
 translate philippine Leona_6_label_80ddaaae_2:
@@ -6514,67 +6514,67 @@ translate philippine Leona_6_label_80ddaaae_2:
 translate philippine Leona_6_label_0c3a98f2:
 
     # ch_Name "Ow! I'm talking to you."
-    ch_Name ""
+    ch_Name "Umuusap ako sa iyo!"
 
 # game/logic/events/Leona.rpy:1780
 translate philippine Leona_6_label_afe59c48:
 
     # ch_Name "{i}(He's clearly not much of a talker.){/i}"
-    ch_Name ""
+    ch_Name "{i}('Di niya hilig magsalita.){/i}"
 
 # game/logic/events/Leona.rpy:1782
 translate philippine Leona_6_label_8f82cbb7:
 
     # UnknownJacob "We're here."
-    UnknownJacob ""
+    UnknownJacob "Nandito na tayo."
 
 # game/logic/events/Leona.rpy:1783
 translate philippine Leona_6_label_952699c9:
 
     # ch_Name "{i}(Hmm... I hope there's no torture room behind this door.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm... Sana walang silid para sa torture sa loob.){/i}"
 
 # game/logic/events/Leona.rpy:1784
 translate philippine Leona_6_label_9dcc5a2d:
 
     # ch_Name "{i}(It would be strange if the academy had a torture room...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nakakaiba naman kapag may torture room ang paaralan...){/i}"
 
 # game/logic/events/Leona.rpy:1786
 translate philippine Leona_6_label_b9fa011c:
 
     # ch_Name "{i}(Hmm... Yeah, too cozy for a torture chamber.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm... Oo, kinukulangan ng mga malaking pako para sa torture.){/i}"
 
 # game/logic/events/Leona.rpy:1787
 translate philippine Leona_6_label_8221fb42:
 
     # ch_Name "{i}(I think this is someone's bedroom. One of the teachers?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Siguro silid ito. Pagmamay-ari ng isang guro?){/i}"
 
 # game/logic/events/Leona.rpy:1788
 translate philippine Leona_6_label_9b31e67c:
 
     # ch_Name "Where did you take me?"
-    ch_Name ""
+    ch_Name "Saan tayo?"
 
 # game/logic/events/Leona.rpy:1789
 translate philippine Leona_6_label_1fd9432e:
 
     # UnknownJacob "Someplace safe."
-    UnknownJacob ""
+    UnknownJacob "Walang panganib dito."
 
 # game/logic/events/Leona.rpy:1791
 translate philippine Leona_6_label_9929a994:
 
     # ch_Name "That's not an answer. Would you stop being so cryptic?"
-    ch_Name ""
+    ch_Name "'Di 'yan sagot. Pwede bang 'di ka misteryoso? "
 
 # game/logic/events/Leona.rpy:1792
 translate philippine Leona_6_label_8c6d3f1c:
 
     # ch_Name "I want to know why I'm here."
-    ch_Name ""
+    ch_Name "Gusto ko malaman ang ginagawa ko dito."
 
 # game/logic/events/Leona.rpy:1793
 translate philippine Leona_6_label_9ba51f92:
@@ -6586,37 +6586,37 @@ translate philippine Leona_6_label_9ba51f92:
 translate philippine Leona_6_label_342847cb:
 
     # UnknownJacob "Patience. You'll get answers to your questions soon enough."
-    UnknownJacob ""
+    UnknownJacob "Maghintay ka. Makukuha mo ang mga sagot na hinahanap mo."
 
 # game/logic/events/Leona.rpy:1796
 translate philippine Leona_6_label_1e566398:
 
     # UnknownJacob "But be prepared for those answers to beg new questions."
-    UnknownJacob ""
+    UnknownJacob "Ngunit makakahanap ka ng mga bagong tanong."
 
 # game/logic/events/Leona.rpy:1797
 translate philippine Leona_6_label_66b82a51:
 
     # UnknownJacob "Have a seat."
-    UnknownJacob ""
+    UnknownJacob "Umupo ka."
 
 # game/logic/events/Leona.rpy:1799
 translate philippine Leona_6_label_c65533b7:
 
     # ch_Name "{i}(Hmm, what a cozy and comfortable chair...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Malambot naman ang upuan...){/i}"
 
 # game/logic/events/Leona.rpy:1800
 translate philippine Leona_6_label_4113f273:
 
     # ch_Name "{i}(What is it he wants to tell me...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ano ba ang sasabihin niya sa akin...){/i}"
 
 # game/logic/events/Leona.rpy:1801
 translate philippine Leona_6_label_a64965c7:
 
     # ch_Name "{i}(I don't like people who talk in riddles.){/i}"
-    ch_Name ""
+    ch_Name "{i}('Di ko nais ang mga taong nagsasalita ng mga bugtong...){/i}"
 
 # game/logic/events/Leona.rpy:1803
 translate philippine Leona_6_label_e82ca1b5:
@@ -6628,37 +6628,37 @@ translate philippine Leona_6_label_e82ca1b5:
 translate philippine Leona_6_label_84c6ea02:
 
     # ch_Name "{i}(What the...? I recognize that hair...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ano...? Kilala ko 'yung buhok...){/i}"
 
 # game/logic/events/Leona.rpy:1805
 translate philippine Leona_6_label_8d303121:
 
     # ch_Name "{i}(Could it be? No...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pwede ba? Hindi...){/i}"
 
 # game/logic/events/Leona.rpy:1807
 translate philippine Leona_6_label_c2f56a69:
 
     # ch_Name "{i}(He takes off his mask!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tinatanggal niya ang maskara...){/i}"
 
 # game/logic/events/Leona.rpy:1808
 translate philippine Leona_6_label_5f9d0fe8:
 
     # ch_Name "{i}(There's no point in guessing. I'll see for myself...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Walang silbi ang paghuhula. Makikita ko naman...){/i}"
 
 # game/logic/events/Leona.rpy:1810
 translate philippine Leona_6_label_d9cdabcf:
 
     # ch_Name "{i}(How long can you drag it out, come on!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ang tagal!){/i}"
 
 # game/logic/events/Leona.rpy:1811
 translate philippine Leona_6_label_3f8533d0:
 
     # ch_Name "{i}(It's been a long time since I wanted to look at someone's face...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ang tagal naman para maita ang isang mukha...){/i}"
 
 # game/logic/events/Leona.rpy:1812
 translate philippine Leona_6_label_027b1c56:
@@ -6676,97 +6676,97 @@ translate philippine Leona_6_label_3447eda7:
 translate philippine Leona_6_label_34389aa0:
 
     # ch_Name "I didn't believe it was you until the end."
-    ch_Name ""
+    ch_Name "'Di ko maniniwalaan na ikaw."
 
 # game/logic/events/Leona.rpy:1816
 translate philippine Leona_6_label_dac10865:
 
     # ch_Name "I don't understand..."
-    ch_Name ""
+    ch_Name "Hindi ko maiintindihan..."
 
 # game/logic/events/Leona.rpy:1817
 translate philippine Leona_6_label_c5534201:
 
     # Jacob "Heh. That's not the reaction I expected. Let me explain it to you, [Name]."
-    Jacob ""
+    Jacob "Heh. 'Di 'yun ang epektong inaasahan ko. Ipaliwanag ko sa iyo, [Name]."
 
 # game/logic/events/Leona.rpy:1819
 translate philippine Leona_6_label_e0db595f:
 
     # ch_Name "{i}([Name]? How strange to hear him say something other than Mr. [Surname]...){/i}"
-    ch_Name ""
+    ch_Name "{i}([Name]? Nakakaiba naman na 'di niya ginagamit ang Mr. [Surname]...){/i}"
 
 # game/logic/events/Leona.rpy:1820
 translate philippine Leona_6_label_48ebd0a9:
 
     # ch_Name "I'm listening."
-    ch_Name ""
+    ch_Name "Nakikinig ako."
 
 # game/logic/events/Leona.rpy:1821
 translate philippine Leona_6_label_4e41fd3d:
 
     # Jacob "So, where to start..."
-    Jacob ""
+    Jacob "Saan ba ako magsisimula..."
 
 # game/logic/events/Leona.rpy:1823
 translate philippine Leona_6_label_17fb3b87:
 
     # Jacob "Again, sorry about all the mystery. There are eyes and ears everywhere."
-    Jacob ""
+    Jacob "Pasensya na sa misteryo. Kahit saan may mga mata at tenga."
 
 # game/logic/events/Leona.rpy:1824
 translate philippine Leona_6_label_39a33ea7:
 
     # Jacob "I have to proceed cautiously."
-    Jacob ""
+    Jacob "Dapat iingat ako."
 
 # game/logic/events/Leona.rpy:1825
 translate philippine Leona_6_label_f1489136:
 
     # ch_Name "I don't know what you mean yet..."
-    ch_Name ""
+    ch_Name "'Di ko alam ang sinasabi mo..."
 
 # game/logic/events/Leona.rpy:1826
 translate philippine Leona_6_label_91802cdc:
 
     # Jacob "The people who killed your parents are watching us."
-    Jacob ""
+    Jacob "Nanonood ang mga taong pumatay sa mga magulang mo."
 
 # game/logic/events/Leona.rpy:1827
 translate philippine Leona_6_label_8ab4b60b:
 
     # ch_Name "What? The people who killed my parents?"
-    ch_Name ""
+    ch_Name "Ano? Sino ba sila?"
 
 # game/logic/events/Leona.rpy:1829
 translate philippine Leona_6_label_528a8a69:
 
     # ch_Name "You're confused. My mother died in childbirth, and I don't know anything about my father..."
-    ch_Name ""
+    ch_Name "Natataranta ka. Namatay ang ina ko sa panganganak, at wala akong nalaman sa aking ama."
 
 # game/logic/events/Leona.rpy:1830
 translate philippine Leona_6_label_a53f956f:
 
     # Jacob "Your parents were wizards, [Name]. Very talented."
-    Jacob ""
+    Jacob "Salamangkero ang mga magulang mo, [Name]. Talentado sila."
 
 # game/logic/events/Leona.rpy:1831
 translate philippine Leona_6_label_343b2290:
 
     # Jacob "They both taught here at Cordale."
-    Jacob ""
+    Jacob "Dito sila nag-aral sa Cordale."
 
 # game/logic/events/Leona.rpy:1832
 translate philippine Leona_6_label_6b67488a:
 
     # Jacob "They were my closest friends. Best friends."
-    Jacob ""
+    Jacob "Kaibigan ko sila. Matalik na kaibigan."
 
 # game/logic/events/Leona.rpy:1833
 translate philippine Leona_6_label_13183fdd:
 
     # Jacob "Until Arthur killed them..."
-    Jacob ""
+    Jacob "Hanggang pinatay sila ni Arthur..."
 
 # game/logic/events/Leona.rpy:1835
 translate philippine Leona_6_label_d9c8faad:
@@ -6778,421 +6778,421 @@ translate philippine Leona_6_label_d9c8faad:
 translate philippine Leona_6_label_6a48cbc7:
 
     # ch_Name "What do you mean? This is nonsense!"
-    ch_Name ""
+    ch_Name "Ano ibig mong sabihin? Niloloko mo ako!"
 
 # game/logic/events/Leona.rpy:1837
 translate philippine Leona_6_label_d4c81c0b:
 
     # Jacob "Ah, if only."
-    Jacob ""
+    Jacob "Sana."
 
 # game/logic/events/Leona.rpy:1838
 translate philippine Leona_6_label_52759f22:
 
     # Jacob "Arthur is not who he says he is. He serves the dark forces."
-    Jacob ""
+    Jacob "'Di talaga ganoon si Arthur. Naglilingkod siya sa mga masamang puwersa."
 
 # game/logic/events/Leona.rpy:1839
 translate philippine Leona_6_label_7c4edb4c:
 
     # Jacob "He has dedicated his life to freeing a great evil."
-    Jacob ""
+    Jacob "Binigay niya ang kanyang buhay sa pagpapalaya ng isang malaking kasamaan."
 
 # game/logic/events/Leona.rpy:1840
 translate philippine Leona_6_label_1b9f2320:
 
     # Jacob "Your mother discovered the truth by accidentally reading his mind."
-    Jacob ""
+    Jacob "Natuklasan ng iyong ina noong hindi sinasadyang nabasa ang isip ni Arthur."
 
 # game/logic/events/Leona.rpy:1842
 translate philippine Leona_6_label_007cca6a:
 
     # Jacob "We tried to stop him by sealing his power, but he was stronger."
-    Jacob ""
+    Jacob "Sinubukan naming pigilan siya sa pagsara ng sigla niya, pero mas malakas siya."
 
 # game/logic/events/Leona.rpy:1843
 translate philippine Leona_6_label_9050cea1:
 
     # Jacob "We managed to interrupt the opening of the gates to the dark dimension, but..."
-    Jacob ""
+    Jacob "Napigilan namin ng pagbukas ng pasukan papunta sa madilim na mundo, pero..."
 
 # game/logic/events/Leona.rpy:1844
 translate philippine Leona_6_label_efae8a70:
 
     # Jacob "In a rage, he killed your father with his own hands."
-    Jacob ""
+    Jacob "Sa galit niya, pinatay niya 'yung ama mo gamit ng kamay niya."
 
 # game/logic/events/Leona.rpy:1845
 translate philippine Leona_6_label_7f20161f:
 
     # Jacob "And he cursed your mother and left her to die a slow, painful death."
-    Jacob ""
+    Jacob "Nasumpa niya ang ina mo at pinabayaang mamatay ng mabagal at napasakit na kamatayan."
 
 # game/logic/events/Leona.rpy:1847
 translate philippine Leona_6_label_08940a6f:
 
     # Jacob "She was nine months pregnant."
-    Jacob ""
+    Jacob "Buntis siya, siyam na buwan."
 
 # game/logic/events/Leona.rpy:1848
 translate philippine Leona_6_label_08c6a15c:
 
     # Jacob "If I hadn't hidden my appearance, I would have died with them."
-    Jacob ""
+    Jacob "Kapag 'di ko natago ang anyo ko, namatay rin ako."
 
 # game/logic/events/Leona.rpy:1849
 translate philippine Leona_6_label_f24b9cb7:
 
     # Jacob "I was able to complete the ritual. To seal some of its power..."
-    Jacob ""
+    Jacob "Natapos ko ang ritwal. Para masara ang bahagi ng sigla ng pasukan..."
 
 # game/logic/events/Leona.rpy:1850
 translate philippine Leona_6_label_7b6c3084:
 
     # Jacob "But no matter how hard I tried to save your mother, I could only delay the curse."
-    Jacob ""
+    Jacob "Pero kahit anong ginawa ko, napabagal ko lamang ang sumpal."
 
 # game/logic/events/Leona.rpy:1851
 translate philippine Leona_6_label_7dd95ca2:
 
     # Jacob "And save the child..."
-    Jacob ""
+    Jacob "At iligtas ang anak..."
 
 # game/logic/events/Leona.rpy:1852
 translate philippine Leona_6_label_70693eea:
 
     # Jacob "Arthur never gave up on his plan."
-    Jacob ""
+    Jacob "'Di nagsuko si Arthur sa kanyang plano."
 
 # game/logic/events/Leona.rpy:1854
 translate philippine Leona_6_label_1b96304b:
 
     # Jacob "Even weakened, deprived of some of his powers..."
-    Jacob ""
+    Jacob "Kahit nga mahina na siya, kulang ang sigla niya..."
 
 # game/logic/events/Leona.rpy:1855
 translate philippine Leona_6_label_29b335e9:
 
     # Jacob "...he waited and fed on the energy of his disciples."
-    Jacob ""
+    Jacob "..naghintay siya at nagnakaw ng sigla ng mga sumusunod sa kanya."
 
 # game/logic/events/Leona.rpy:1856
 translate philippine Leona_6_label_075f8187:
 
     # Jacob "And soon, very soon, he will try again to unleash the darkness."
-    Jacob ""
+    Jacob "Malapit na niyang subukan ulit pakawalan ang dilim."
 
 # game/logic/events/Leona.rpy:1857
 translate philippine Leona_6_label_9be5fea5:
 
     # Jacob "If we don't stop him."
-    Jacob ""
+    Jacob "Kapag 'di siya natin pigilan."
 
 # game/logic/events/Leona.rpy:1859
 translate philippine Leona_6_label_0d3fc61b:
 
     # ch_Name "We? I still can't wrap my head around all this information..."
-    ch_Name ""
+    ch_Name "Natin? 'Di ko ka mauunawaan ang lahat nito..."
 
 # game/logic/events/Leona.rpy:1860
 translate philippine Leona_6_label_25c413cb:
 
     # ch_Name "How do I know you're telling the truth?"
-    ch_Name ""
+    ch_Name "Paano ko malamat na totoo ang sinasabi mo?"
 
 # game/logic/events/Leona.rpy:1861
 translate philippine Leona_6_label_e0fc2335:
 
     # ch_Name "Do you have any idea how hard it is to believe?"
-    ch_Name ""
+    ch_Name "Alam mo ba kung gaano kahirap paniniwalaan?"
 
 # game/logic/events/Leona.rpy:1863
 translate philippine Leona_6_label_71c97979:
 
     # Jacob "You have your mother's eyes. Has anyone ever told you that?"
-    Jacob ""
+    Jacob "Nasayo ang mga mata ng ina mo. Sinabihan ka na ba ng ganyan?"
 
 # game/logic/events/Leona.rpy:1864
 translate philippine Leona_6_label_e48df4c8:
 
     # ch_Name "Don't avoid the question..."
-    ch_Name ""
+    ch_Name "'Wag maglikaw sa tanong..."
 
 # game/logic/events/Leona.rpy:1865
 translate philippine Leona_6_label_f6e9746d:
 
     # Jacob "I understand it's hard for you. But we don't have time for this."
-    Jacob ""
+    Jacob "Naiintindihan ko na mahirap. Pero wala na tayong oras sa ganito."
 
 # game/logic/events/Leona.rpy:1866
 translate philippine Leona_6_label_5e7a2cbc:
 
     # Jacob "Otherwise, I would never have put Liana's child in danger by sending a phantom."
-    Jacob ""
+    Jacob "'Di kaya, hindi ko ilalagay ang anak ni Liana sa panganib sa pamamagitan ng multo."
 
 # game/logic/events/Leona.rpy:1868
 translate philippine Leona_6_label_6fc0b135:
 
     # ch_Name "Instead of a reason to trust you, you reminded me of a reason not to trust you."
-    ch_Name ""
+    ch_Name "Sa halip ng dahilan para magtiwala ako sa iyo, may dahilan na ako kung bakit hindi."
 
 # game/logic/events/Leona.rpy:1869
 translate philippine Leona_6_label_f7d00c72:
 
     # ch_Name "Why would anyone in their right mind send monsters like that to people?"
-    ch_Name ""
+    ch_Name "Bakit ka bang naglagay ng multo sa akin?"
 
 # game/logic/events/Leona.rpy:1870
 translate philippine Leona_6_label_d5dfd600:
 
     # Jacob "I had no choice. I had to test you!"
-    Jacob ""
+    Jacob "Wala akong magagawa. Dapat kitang susubukin!"
 
 # game/logic/events/Leona.rpy:1872
 translate philippine Leona_6_label_3ceedd9f:
 
     # Jacob "I would not forgive myself if their son died fighting Arthur."
-    Jacob ""
+    Jacob "'Di ko mapapatawad ang sarili ko kapag namatay ang anak nila sa paglalaban kay Arthur."
 
 # game/logic/events/Leona.rpy:1873
 translate philippine Leona_6_label_9cd3ca4d:
 
     # Jacob "If you couldn't defeat the Phantom, you certainly couldn't succeed here."
-    Jacob ""
+    Jacob "Kung 'di mo kaya ang multo, 'di mo matalo si Arthur."
 
 # game/logic/events/Leona.rpy:1874
 translate philippine Leona_6_label_9c99cc72:
 
     # Jacob "All the more reason I knew Leona wouldn't let you get hurt."
-    Jacob ""
+    Jacob "At alam ko na 'di papayagan ni Leona na masasaktan ka."
 
 # game/logic/events/Leona.rpy:1875
 translate philippine Leona_6_label_0d0c6e64:
 
     # ch_Name "You know about Leona?"
-    ch_Name ""
+    ch_Name "Alam mo ang tungkol kay Leona?"
 
 # game/logic/events/Leona.rpy:1876
 translate philippine Leona_6_label_2fbca572:
 
     # Jacob "Of course, I do. I'm the one who sent you into those woods."
-    Jacob ""
+    Jacob "Siyempre. Ako ang naglagay sa iyo sa gubat."
 
 # game/logic/events/Leona.rpy:1877
 translate philippine Leona_6_label_be31ce93:
 
     # ch_Name "But why?"
-    ch_Name ""
+    ch_Name "Bakit?"
 
 # game/logic/events/Leona.rpy:1878
 translate philippine Leona_6_label_6cf2bd38:
 
     # Jacob "We couldn't do it without her..."
-    Jacob ""
+    Jacob "Hindi ko magagawa ito kapag wala siya."
 
 # game/logic/events/Leona.rpy:1880
 translate philippine Leona_6_label_c14fe36f:
 
     # Jacob "I believed she could not stand up to Liana and Richard's son."
-    Jacob ""
+    Jacob "Naniwala akong 'di niya kayang panindigan ang anak nina Liana at Richard."
 
 # game/logic/events/Leona.rpy:1881
 translate philippine Leona_6_label_2f485204:
 
     # Jacob "After all, they were from Leonheart too."
-    Jacob ""
+    Jacob "Kasi Leonheart din sila."
 
 # game/logic/events/Leona.rpy:1882
 translate philippine Leona_6_label_a5e92061:
 
     # ch_Name "Ugh... Let's say. And what do you want me to fight Arthur?"
-    ch_Name ""
+    ch_Name "Pag-isipan natin. Lalabanan ko ba si Arthur?"
 
 # game/logic/events/Leona.rpy:1883
 translate philippine Leona_6_label_54a3e08a:
 
     # Jacob "I do not wish your imminent death, boy."
-    Jacob ""
+    Jacob "'Di ko gustong mamatay ka kaagad."
 
 # game/logic/events/Leona.rpy:1884
 translate philippine Leona_6_label_85bab21f:
 
     # Jacob "But you will help secure this world once and for all."
-    Jacob ""
+    Jacob "Pero tutulungan kitang iligtas ang mundong ito, magpakailanman."
 
 # game/logic/events/Leona.rpy:1886
 translate philippine Leona_6_label_185539e3:
 
     # ch_Name "How?"
-    ch_Name ""
+    ch_Name "Paano?"
 
 # game/logic/events/Leona.rpy:1887
 translate philippine Leona_6_label_b9da26dc:
 
     # ch_Name "What do I have to do?"
-    ch_Name ""
+    ch_Name "Ano ba ang gagawin ko?"
 
 # game/logic/events/Leona.rpy:1889
 translate philippine Leona_6_label_306caedb:
 
     # Jacob "Summon Leona and ask her for the Lion's Seal Scroll."
-    Jacob ""
+    Jacob "Tawagin mo si Leona at itanong mo tungkol sa Lion's Seal Scroll."
 
 # game/logic/events/Leona.rpy:1890
 translate philippine Leona_6_label_ac7465b6:
 
     # Jacob "Only with it can we deny Arthur his powers."
-    Jacob ""
+    Jacob "Kailangan natin para mawawala ang lakas ni Arthur."
 
 # game/logic/events/Leona.rpy:1891
 translate philippine Leona_6_label_23919178:
 
     # Jacob "But on no account tell anyone of this conversation."
-    Jacob ""
+    Jacob "Pero hindi mo ito sasabihin sa ibang tao."
 
 # game/logic/events/Leona.rpy:1892
 translate philippine Leona_6_label_da722419:
 
     # Jacob "Even Leona doesn't need to know why you want the scroll."
-    Jacob ""
+    Jacob "Walang makakaalam ng dahilan kung bakit kailangan mo ang scroll, kahit na si Leona."
 
 # game/logic/events/Leona.rpy:1893
 translate philippine Leona_6_label_be31ce93_1:
 
     # ch_Name "But why?"
-    ch_Name ""
+    ch_Name "Bakit?"
 
 # game/logic/events/Leona.rpy:1895
 translate philippine Leona_6_label_9ff77859:
 
     # Jacob "Didn't the Phantom teach you that appearances can be deceiving?"
-    Jacob ""
+    Jacob "'Di mo ba natutunan mula sa multo na ang mga mukha ay mapanlinlang?"
 
 # game/logic/events/Leona.rpy:1896
 translate philippine Leona_6_label_eaf74df8:
 
     # Jacob "Trust no one. Do you hear me?"
-    Jacob ""
+    Jacob "Wala kang may mananaliwaan. Narinig mo ba?"
 
 # game/logic/events/Leona.rpy:1897
 translate philippine Leona_6_label_9b232bd6:
 
     # Jacob "Arthur's had 18 years to prepare for this. He has spies everywhere."
-    Jacob ""
+    Jacob "May 18 na taon si Arthur para makapaghanda. May mga espiya siya."
 
 # game/logic/events/Leona.rpy:1898
 translate philippine Leona_6_label_41ff592a:
 
     # Jacob "We can't take that chance. Do you understand me?!"
-    Jacob ""
+    Jacob "'Di natin gusto na malaman niya. Naiintindihan mo ba ako?"
 
 # game/logic/events/Leona.rpy:1899
 translate philippine Leona_6_label_5c7e5092:
 
     # ch_Name "I hear you, sir."
-    ch_Name ""
+    ch_Name "Oo, sir."
 
 # game/logic/events/Leona.rpy:1901
 translate philippine Leona_6_label_563e2bf8:
 
     # Jacob "Then go. Get out of here as fast as you can. "
-    Jacob ""
+    Jacob "Umalis ka na. Bilisan mo."
 
 # game/logic/events/Leona.rpy:1902
 translate philippine Leona_6_label_c42af589:
 
     # Jacob "We've attracted enough attention with this meeting."
-    Jacob ""
+    Jacob "Nakakuha na tayo ng sapat na atensyon sa pagkikita na ito."
 
 # game/logic/events/Leona.rpy:1903
 translate philippine Leona_6_label_59100fdd:
 
     # Jacob "When you get the scroll, find me in the hall."
-    Jacob ""
+    Jacob "Kapag nakuha mo na, hanapin mo ako sa hall. "
 
 # game/logic/events/Leona.rpy:1904
 translate philippine Leona_6_label_735fd918:
 
     # Jacob "I promise, when we've dealt with the threat, we'll talk normally..."
-    Jacob ""
+    Jacob "Pangako ko na kapag matapos na ito, makikipag-usap tayo ng normal..."
 
 # game/logic/events/Leona.rpy:1905
 translate philippine Leona_6_label_0b8c1f54:
 
     # Jacob "I have so much to tell you about your parents. Go away!"
-    Jacob ""
+    Jacob "Andami kong sabihin tungkol sa mga magulang mo. Umalis ka na! "
 
 # game/logic/events/Leona.rpy:1907
 translate philippine Leona_6_label_eefca1d7:
 
     # ch_Name "{i}(I can't believe it... Is any of this true?){/i}"
-    ch_Name ""
+    ch_Name "{i}'Di ka maniniwalaan ito... Totoo ba ito?){/i}"
 
 # game/logic/events/Leona.rpy:1908
 translate philippine Leona_6_label_45876514:
 
     # ch_Name "{i}(It sounds crazy... But why would Jacob lie to me?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nakakabaliw naman... Pero bakit ba siyang magsinungaling sa akin?){/i}""
 
 # game/logic/events/Leona.rpy:1909
 translate philippine Leona_6_label_ce849bc4:
 
     # ch_Name "{i}(I'll play along for now. We'll see.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Makikipaglaro muna ako sa ngayon. Tignan natin){/i}""
 
 # game/logic/events/Leona.rpy:1924
 translate philippine Leona_7_label_862d13d7:
 
     # ch_Name "{i}(Well, what was it like?){/i}"
-    ch_Name ""
+    ch_Name "i}(Kamusta ba 'yun?){/i}"
 
 # game/logic/events/Leona.rpy:1925
 translate philippine Leona_7_label_7831f8cb:
 
     # ch_Name "{i}(All you have to do is touch the lion.){/i}"
-    ch_Name ""
+    ch_Name "i}(Kailangan mo lang magsaling sa leon.?){/i}"
 
 # game/logic/events/Leona.rpy:1927
 translate philippine Leona_7_label_f50e6b1a:
 
     # ch_Name "{i}(Wrong page. There's some kind of trinity ritual...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Maling pahina. Parang mga pagkatatlong ritwal...){/i}"
 
 # game/logic/events/Leona.rpy:1928
 translate philippine Leona_7_label_9a47bc23:
 
     # ch_Name "{i}(It's hard to imagine how much knowledge this book holds.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mahirap malaman kung gaano karami ang nilalaman ng librong ito.){/i}"
 
 # game/logic/events/Leona.rpy:1929
 translate philippine Leona_7_label_18cf628a:
 
     # ch_Name "{i}(I think Haley would be interested in reading it.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Baka gustong basahin ni Haley.){/i}"
 
 # game/logic/events/Leona.rpy:1931
 translate philippine Leona_7_label_6e5ae204:
 
     # ch_Name "{i}(Here's the right page.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ito ang tamang pahina.){/i}"
 
 # game/logic/events/Leona.rpy:1932
 translate philippine Leona_7_label_050b73e1:
 
     # ch_Name "{i}(Is that all I had to do?){/i}"
-    ch_Name ""
+    ch_Name "{i}('Yan lang ba?){/i}"
 
 # game/logic/events/Leona.rpy:1933
 translate philippine Leona_7_label_106c20c0:
 
     # ch_Name "{i}(Hmm... Something's wrong. Nothing's happening.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm... May mali. Walang nangyayari.){/i}"
 
 # game/logic/events/Leona.rpy:1935
 translate philippine Leona_7_label_473d0ee8:
 
     # ch_Name "{i}(Wait, I feel something...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sandali. May nararamdaman ako...){/i}"
 
 # game/logic/events/Leona.rpy:1936
 translate philippine Leona_7_label_027b1c56:
@@ -7204,251 +7204,251 @@ translate philippine Leona_7_label_027b1c56:
 translate philippine Leona_7_label_1eefa4e5:
 
     # ch_Name "{i}(I got it!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ito pala!){/i}"
 
 # game/logic/events/Leona.rpy:1939
 translate philippine Leona_7_label_128472d7:
 
     # Leona "How nice to feel the touch of air on my skin..."
-    Leona ""
+    Leona "Ang sarap ng pakiramdam ng hangin sa balat ko..."
 
 # game/logic/events/Leona.rpy:1940
 translate philippine Leona_7_label_7cd0d7f9:
 
     # Leona "Ah, [Name]. Thank you for calling me!"
-    Leona ""
+    Leona "Ah, [Name]. Salamat sa pagtawag!"
 
 # game/logic/events/Leona.rpy:1942
 translate philippine Leona_7_label_930e7b77:
 
     # Leona "Don't be embarrassed, I'm dressed. Turn around."
-    Leona ""
+    Leona "'Wag kang mahiya, may damit ako. Magtalikod ka nga."
 
 # game/logic/events/Leona.rpy:1943
 translate philippine Leona_7_label_588f4cbe:
 
     # ch_Name "Why would I be shy? After everything we've been through."
-    ch_Name ""
+    ch_Name "Bakit ba akong mahihiya? Sa lahat ng ginawa natin..."
 
 # game/logic/events/Leona.rpy:1944
 translate philippine Leona_7_label_b987ee02:
 
     # Leona "I'm just kidding. So why do you need me?"
-    Leona ""
+    Leona "Nagbibiro lang ako. Bakit mo ako kailangan?"
 
 # game/logic/events/Leona.rpy:1945
 translate philippine Leona_7_label_7c7e87d0:
 
     # ch_Name "I don't have much time, so I'll cut to the chase."
-    ch_Name ""
+    ch_Name "Nagmamadali ako, kay bilisan ko."
 
 # game/logic/events/Leona.rpy:1946
 translate philippine Leona_7_label_0e8131e2:
 
     # ch_Name "I need the scroll of the Lion's Seal. I know you can help with that."
-    ch_Name ""
+    ch_Name "Kailangan ko ang Lion's Seal Scroll. Alam ko na matutulungan mo ako."
 
 # game/logic/events/Leona.rpy:1948
 translate philippine Leona_7_label_5d680c90:
 
     # Leona "The Lion's Seal Scroll? Why would you need it?"
-    Leona ""
+    Leona "Ang Lion's Seal Scroll? Bakit?"
 
 # game/logic/events/Leona.rpy:1949
 translate philippine Leona_7_label_4e3df128:
 
     # Leona "It's a very powerful artifact... Are you sure you're not confused?"
-    Leona ""
+    Leona "Malakas 'yun na artepakto... Sigurado ka ba na hindi ka nagkamali?"
 
 # game/logic/events/Leona.rpy:1950
 translate philippine Leona_7_label_cdfa920b:
 
     # ch_Name "I'm sure I need it. As soon as possible."
-    ch_Name ""
+    ch_Name "Sigurado. Sa madaling panahon."
 
 # game/logic/events/Leona.rpy:1952
 translate philippine Leona_7_label_53e4b2c2:
 
     # Leona "Do you have any idea how much power it holds?"
-    Leona ""
+    Leona "Alam mo ba kung gaano kalaki ang sigla nito?"
 
 # game/logic/events/Leona.rpy:1953
 translate philippine Leona_7_label_a120e53b:
 
     # Leona "It's not a toy. Especially for a freshman."
-    Leona ""
+    Leona "'Di ito laruan. Lalo na para sa freshman."
 
 # game/logic/events/Leona.rpy:1954
 translate philippine Leona_7_label_8468dde7:
 
     # Leona "I can't give it to you."
-    Leona ""
+    Leona "'Di ko mabibigay sa iyo."
 
 # game/logic/events/Leona.rpy:1956
 translate philippine Leona_7_label_db609d44:
 
     # ch_Name "Please, Leona."
-    ch_Name ""
+    ch_Name "Nagpapakiusap ako sa iyo, Leona."
 
 # game/logic/events/Leona.rpy:1957
 translate philippine Leona_7_label_63908a29:
 
     # ch_Name "I understand. But I really need the scroll."
-    ch_Name ""
+    ch_Name "Naiintindihan ko. Pero kailangan ko talaga."
 
 # game/logic/events/Leona.rpy:1958
 translate philippine Leona_7_label_15602101:
 
     # ch_Name "It's a matter of life and death."
-    ch_Name ""
+    ch_Name "Buhay at kamatayan ito."
 
 # game/logic/events/Leona.rpy:1959
 translate philippine Leona_7_label_f98b2adb:
 
     # Leona "I don't understand. A matter of life and death?"
-    Leona ""
+    Leona "'Di ko narinig nang mabuti. Buhay at kamatayan?"
 
 # game/logic/events/Leona.rpy:1960
 translate philippine Leona_7_label_5e9cbccc:
 
     # Leona "Can you at least tell me why you want it?"
-    Leona ""
+    Leona "Masasabi mo ba kung bakit gusto mo ito?"
 
 # game/logic/events/Leona.rpy:1961
 translate philippine Leona_7_label_765e99e1:
 
     # ch_Name "No. I can't tell you anything. Not right now."
-    ch_Name ""
+    ch_Name "Hindi. Hindi ko masasabi. Hindi ngayon."
 
 # game/logic/events/Leona.rpy:1963
 translate philippine Leona_7_label_c166e5f3:
 
     # Leona "You want me to get you one of the most powerful artifacts..."
-    Leona ""
+    Leona "Gusto mong kunin ko ang isa sa mga pinakamalakas na artepakto..."
 
 # game/logic/events/Leona.rpy:1964
 translate philippine Leona_7_label_4b2cb5c1:
 
     # Leona "And you're not prepared to explain anything?"
-    Leona ""
+    Leona "At wala kang masasabi sa akin?"
 
 # game/logic/events/Leona.rpy:1965
 translate philippine Leona_7_label_9a7b9535:
 
     # ch_Name "Yeah. Heh-heh. I'm your chosen one. Trust me."
-    ch_Name ""
+    ch_Name "Oo. Heh-heh. Ako ang kampeon mo. Maniwala ka sa akin."
 
 # game/logic/events/Leona.rpy:1967
 translate philippine Leona_7_label_ca33aa99:
 
     # Leona "Well, you're right about one thing. I promised to support you in everything."
-    Leona ""
+    Leona "Tama ka. Nangako akong susuportahan kita sa lahat ng gagawin mo."
 
 # game/logic/events/Leona.rpy:1968
 translate philippine Leona_7_label_e132a053:
 
     # Leona "I'll get the scroll. But I need time."
-    Leona ""
+    Leona "Kunin ko na. Pero kailangan ko ng oras."
 
 # game/logic/events/Leona.rpy:1969
 translate philippine Leona_7_label_8f140470:
 
     # Leona "Promise me that while I'm looking for it, you'll think twice..."
-    Leona ""
+    Leona "Sabihin mo sa akin na habang hinahanap ko, mag-iisip ka nang mabuti"
 
 # game/logic/events/Leona.rpy:1970
 translate philippine Leona_7_label_12fb4fe0:
 
     # Leona "Using the scroll is dangerous. I'm not kidding."
-    Leona ""
+    Leona "Mapanganib ang paggamit nito. Seryoso ako."
 
 # game/logic/events/Leona.rpy:1971
 translate philippine Leona_7_label_d150551e:
 
     # ch_Name "I promise I'll be careful. When can you bring it back?"
-    ch_Name ""
+    ch_Name "Mag-iingat ako. Kailan mo ba makuha?"
 
 # game/logic/events/Leona.rpy:1973
 translate philippine Leona_7_label_581301ce:
 
     # Leona "I don't know. I made sure it would be hard to get."
-    Leona ""
+    Leona "'Di ko alam. Sinigurado ko na mahirap kunin."
 
 # game/logic/events/Leona.rpy:1974
 translate philippine Leona_7_label_4c1e4977:
 
     # Leona "Even for me."
-    Leona ""
+    Leona "Kahit para sa akin."
 
 # game/logic/events/Leona.rpy:1975
 translate philippine Leona_7_label_d81260ab:
 
     # Leona "I'll come to you myself when I have it. I'll see you later."
-    Leona ""
+    Leona "Bibisitahin kita kapag nakuha ko na. Mamaya naman."
 
 # game/logic/events/Leona.rpy:1976
 translate philippine Leona_7_label_0e513cc0:
 
     # ch_Name "I'll see you later."
-    ch_Name ""
+    ch_Name "Mamaya naman."
 
 # game/logic/events/Leona.rpy:1978
 translate philippine Leona_7_label_0d4bc6ea:
 
     # ch_Name "And thank you."
-    ch_Name ""
+    ch_Name "At salamat."
 
 translate philippine strings:
 
     # game/logic/events/Leona.rpy:9
     old "Try to reach to Leona"
-    new ""
+    new "Subukang tawagin si Leona"
 
     # game/logic/events/Leona.rpy:198
     old "Reject pleasure"
-    new ""
+    new "Magtanggi ng kasiyahan"
 
     # game/logic/events/Leona.rpy:198
     old "Accept pleasure"
-    new ""
+    new "Tanggapin ang kasiyahan"
 
     # game/logic/events/Leona.rpy:355
     old "Cum on stomach"
-    new ""
+    new "Pumutok sa tiyan"
 
     # game/logic/events/Leona.rpy:355
     old "Cum on her face"
-    new ""
+    new "Pumutok sa mukha"
 
     # game/logic/events/Leona.rpy:355
     old "Cum inside"
-    new ""
+    new "Pumutok sa loob"
 
     # game/logic/events/Leona.rpy:503
     old "I like you naked"
-    new ""
+    new "Gusto kong nakahubad ka"
 
     # game/logic/events/Leona.rpy:503
     old "I like you dressed up"
-    new ""
+    new "Gusto kong nakasuot ka"
 
     # game/logic/events/Leona.rpy:766
     old "Tell that you don't know"
-    new ""
+    new "Sabihin na hindi mo alam"
 
     # game/logic/events/Leona.rpy:766
     old "Try to answer"
-    new ""
+    new "Subukang magsagot"
 
     # game/logic/events/Leona.rpy:1221
     old "Take a closer look at her"
-    new ""
+    new "Tignan siya nang mas mabuti"
 
     # game/logic/events/Leona.rpy:1221
     old "Look away"
-    new ""
+    new "Lumayo ng tingin"
 
     # game/logic/events/Leona.rpy:1233
     old "Touch the monster"
-    new ""
+    new "Hawakan ang halimaw"
 
