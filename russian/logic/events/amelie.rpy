@@ -4,271 +4,271 @@
 translate russian library_event_amelie_1_e6b11dbc:
 
     # ch_Name "{i}(Well, that was interesting.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Чтож, это было интересно..){/i}"
 
 # game/logic/events/amelie.rpy:110
 translate russian library_event_amelie_1_7fcac337:
 
     # ch_Name "{i}(But I can't spend here all day chatting if I want to get to become a wizard.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Но я не могу потратить весь день на болтовню, если хочу стать волшебником.){/i}"
 
 # game/logic/events/amelie.rpy:111
 translate russian library_event_amelie_1_782314f0:
 
     # ch_Name "{i}(I can't wait for my first magic lesson!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Не могу дождаться моего первого занятия по магии!){/i}"
 
 # game/logic/events/amelie.rpy:112
 translate russian library_event_amelie_1_12c01580:
 
     # ch_Name "{i}(But first I have to get my books at the library.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Но прежде мне нужно получить учебники в библиотеке.){/i}"
 
 # game/logic/events/amelie.rpy:115
 translate russian library_event_amelie_1_a38e833e:
 
     # ch_Name "{i}(Academy looks great. It's even better today!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Академия выглядит отлично. Сегодня даже лучше!){/i}"
 
 # game/logic/events/amelie.rpy:116
 translate russian library_event_amelie_1_5e2c5986:
 
     # ch_Name "{i}(Maybe it's because the sky is crystal clear...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Возможно это потому, что небо кристально чистое...){/i}"
 
 # game/logic/events/amelie.rpy:117
 translate russian library_event_amelie_1_e26f6b97:
 
     # ch_Name "{i}(Alas, I don't have that much time for sightseeing. Maybe next time.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Увы, у меня нет времени для осмотра достопримечательностей. Возможно, в другой раз.){/i}"
 
 # game/logic/events/amelie.rpy:120
 translate russian library_event_amelie_1_15fcef03:
 
     # ch_Name "{i}(This place seems so huge. It's easy to get lost.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Это место такое огромное. Здесь легко заблудиться.){/i}"
 
 # game/logic/events/amelie.rpy:121
 translate russian library_event_amelie_1_5b464828:
 
     # ch_Name "{i}(I wonder what's there on the second floor.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Интересно, что на втором этаже.){/i}"
 
 # game/logic/events/amelie.rpy:122
 translate russian library_event_amelie_1_b532b225:
 
     # ch_Name "{i}(But first-year students can't go there, as far as I know.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Но первокурсникам нельзя туда ходить, насколько мне известно.){/i}"
 
 # game/logic/events/amelie.rpy:124
 translate russian library_event_amelie_1_a7955d2e:
 
     # ch_Name "{i}(Melissa Owlsight, huh? I wonder if Victoria's story is true.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Melissa Owlsight, хех? Интересно, правдива ли история Victoria's.){/i}"
 
 # game/logic/events/amelie.rpy:125
 translate russian library_event_amelie_1_d5a93ad1:
 
     # ch_Name "{i}(Is there really a key to her power hidden somewhere in Cordale?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Правда ли, что ключ к ее силе сокрыт где-то в Cordale?){/i}"
 
 # game/logic/events/amelie.rpy:126
 translate russian library_event_amelie_1_1107e306:
 
     # ch_Name "{i}(Maybe someday I will find it...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Возможно, когда-нибудь я найду его...){/i}"
 
 # game/logic/events/amelie.rpy:128
 translate russian library_event_amelie_1_c8c6099a:
 
     # ch_Name "{i}(But first, I have to find my way to the library.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Но прежде мне нужно добраться до библиотеки.){/i}"
 
 # game/logic/events/amelie.rpy:129
 translate russian library_event_amelie_1_d2e0c226:
 
     # ch_Name "{i}(If I do remember correctly, this way leads to the garden.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Если я правильно помню, этот путь ведет в сад.){/i}"
 
 # game/logic/events/amelie.rpy:130
 translate russian library_event_amelie_1_14b96911:
 
     # ch_Name "{i}(There's only way to find out.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Есть только один способ проверить.){/i}"
 
 # game/logic/events/amelie.rpy:133
 translate russian library_event_amelie_1_02bc8ac7:
 
     # ch_Name "{i}(Ah, here it is.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ах, вот он.){/i}"
 
 # game/logic/events/amelie.rpy:134
 translate russian library_event_amelie_1_d70755df:
 
     # ch_Name "{i}(Majestic inner garden of Cordale.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Величественный внутренний сад Cordale.){/i}"
 
 # game/logic/events/amelie.rpy:135
 translate russian library_event_amelie_1_b55d19e8:
 
     # ch_Name "{i}(Now I just have to turn left and take the first door.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Сейчас мне нужно повернуть налево и войти в первую дверь.){/i}"
 
 # game/logic/events/amelie.rpy:137
 translate russian library_event_amelie_1_ee565322:
 
     # ch_Name "{i}(Okay, if the next door is Victoria's class, than...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Окей, если следующая дверь это класс Victoria's, значит...){/i}"
 
 # game/logic/events/amelie.rpy:138
 translate russian library_event_amelie_1_ec13b235:
 
     # ch_Name "{i}(It should be this door.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Должна быть эта дверь.){/i}"
 
 # game/logic/events/amelie.rpy:145
 translate russian library_event_amelie_1_702fc62d:
 
     # ch_Name "{i}(Wow! What an impressive library they have!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Вау! Какая внушительная у них библиотека!){/i}"
 
 # game/logic/events/amelie.rpy:147
 translate russian library_event_amelie_1_fbd62259:
 
     # ch_Name "{i}(Holy crap!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Святое дерьмо!){/i}"
 
 # game/logic/events/amelie.rpy:148
 translate russian library_event_amelie_1_5d758bbc:
 
     # ch_Name "{i}(I'm not sure if I've seen that many books in my entire life!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Не уверен, что видел столько книг за всю свою жизнь!){/i}"
 
 # game/logic/events/amelie.rpy:149
 translate russian library_event_amelie_1_433d96ed:
 
     # ch_Name "{i}(And they're all about magic?){/i}"
-    ch_Name ""
+    ch_Name "{i}(И все они о магии?){/i}"
 
 # game/logic/events/amelie.rpy:150
 translate russian library_event_amelie_1_5be02d22:
 
     # ch_Name "{i}(Unbelievable.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Невероятно.){/i}"
 
 # game/logic/events/amelie.rpy:151
 translate russian library_event_amelie_1_7f2f4cdc:
 
     # ch_Name "{i}(Hmm. Weird.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Хмм. Странно.){/i}"
 
 # game/logic/events/amelie.rpy:152
 translate russian library_event_amelie_1_0f0853fe:
 
     # ch_Name "{i}(There doesn't seem to be a soul here...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Похоже, здесь нет ни души...){/i}"
 
 # game/logic/events/amelie.rpy:154
 translate russian library_event_amelie_1_d007b8f0:
 
     # ch_Name "Hello?"
-    ch_Name ""
+    ch_Name "Эй?"
 
 # game/logic/events/amelie.rpy:155
 translate russian library_event_amelie_1_a3238145:
 
     # ch_Name "Hello?!"
-    ch_Name ""
+    ch_Name "Эй?"
 
 # game/logic/events/amelie.rpy:174
 translate russian library_event_amelie_1_d7c724d7:
 
     # Amelie "Young man!"
-    Amelie ""
+    Amelie "Молодой человек!"
 
 # game/logic/events/amelie.rpy:177
 translate russian library_event_amelie_1_f4c3c90a:
 
     # ch_Name "{i}(Her legs are really something...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ее ноги - это нечто...){/i}"
 
 # game/logic/events/amelie.rpy:179
 translate russian library_event_amelie_1_7aa75d61:
 
     # ch_Name "{i}(Is this the library or fashion show runway?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Это библиотека или показ мод?){/i}"
 
 # game/logic/events/amelie.rpy:183
 translate russian library_event_amelie_1_a4aca289:
 
     # Amelie "Where are your manners?"
-    Amelie ""
+    Amelie "Где Ваши манеры?"
 
 # game/logic/events/amelie.rpy:186
 translate russian library_event_amelie_1_340dc2af:
 
     # Amelie "Weren't you taught that books like silence?"
-    Amelie ""
+    Amelie "Вас не учили, что книгам нужна тишина?"
 
 # game/logic/events/amelie.rpy:190
 translate russian library_event_amelie_1_6c0d794d:
 
     # ch_Name "Is that true?"
-    ch_Name ""
+    ch_Name "Это правда?"
 
 # game/logic/events/amelie.rpy:191
 translate russian library_event_amelie_1_fcc51254:
 
     # Amelie "Some fantasy creature books take a nap at this time of day."
-    Amelie ""
+    Amelie "Некоторые книги о фантастических существах отдыхают в это время суток."
 
 # game/logic/events/amelie.rpy:194
 translate russian library_event_amelie_1_cd5a0878:
 
     # Amelie "They'll fiercely bite those that disturb their sleep."
-    Amelie ""
+    Amelie "Они жестоко кусают тех, кто прерывает их сон."
 
 # game/logic/events/amelie.rpy:195
 translate russian library_event_amelie_1_49cb7167:
 
     # Amelie "And that's nothing compared to..."
-    Amelie ""
+    Amelie "И это ничто по сравнению с..."
 
 # game/logic/events/amelie.rpy:196
 translate russian library_event_amelie_1_55170274:
 
     # Amelie "...what I will do to you for violating the rules in the library."
-    Amelie ""
+    Amelie "... тем, что я с Вами сделаю за нарушение правил библиотеки."
 
 # game/logic/events/amelie.rpy:198
 translate russian library_event_amelie_1_a7eb03fd:
 
     # ch_Name "I'll try to remember that."
-    ch_Name ""
+    ch_Name "Я постараюсь это запомнить."
 
 # game/logic/events/amelie.rpy:199
 translate russian library_event_amelie_1_ed00b414:
 
     # Amelie "Good boy."
-    Amelie ""
+    Amelie "Хороший мальчик."
 
 # game/logic/events/amelie.rpy:200
 translate russian library_event_amelie_1_f9df1145:
 
     # Amelie "My name is Amelie Earhart."
-    Amelie ""
+    Amelie "Мое имя Amelie Earhart."
 
 # game/logic/events/amelie.rpy:201
 translate russian library_event_amelie_1_4e01d6fe:
 
     # Amelie "I'm in charge of the Cordale Library."
-    Amelie ""
+    Amelie "Я отвечаю за Cordale Library."
 
 # game/logic/events/amelie.rpy:203
 translate russian library_event_amelie_1_07c961be:
 
     # Amelie "And you are...?"
-    Amelie ""
+    Amelie "А Вы...?"
 
 # game/logic/events/amelie.rpy:204
 translate russian library_event_amelie_1_8cefef8a:
@@ -280,265 +280,265 @@ translate russian library_event_amelie_1_8cefef8a:
 translate russian library_event_amelie_1_1b9830c8:
 
     # ch_Name "What services do you have here?"
-    ch_Name ""
+    ch_Name "Какие услуги Вы здесь оказываете?"
 
 # game/logic/events/amelie.rpy:207
 translate russian library_event_amelie_1_b20414d5:
 
     # Amelie "What do you mean?"
-    Amelie ""
+    Amelie "Что Вы имеете ввиду?"
 
 # game/logic/events/amelie.rpy:208
 translate russian library_event_amelie_1_d32133d2:
 
     # Amelie "It's a library."
-    Amelie ""
+    Amelie "Это библиотека."
 
 # game/logic/events/amelie.rpy:210
 translate russian library_event_amelie_1_2a7cbf68:
 
     # Amelie "Cordale has the largest collection of books on magic and the history of magic."
-    Amelie ""
+    Amelie "В Cordale хранится самая богатая коллекция книг по магии и истории магии."
 
 # game/logic/events/amelie.rpy:211
 translate russian library_event_amelie_1_001bf104:
 
     # Amelie "Of course, not all books are available to first year students."
-    Amelie ""
+    Amelie "Само собой, не все книги доступны студентам-первокурсникам."
 
 # game/logic/events/amelie.rpy:212
 translate russian library_event_amelie_1_e7b9f1ec:
 
     # Amelie "Some may be too dangerous."
-    Amelie ""
+    Amelie "Некоторые из них могут быть опасны."
 
 # game/logic/events/amelie.rpy:214
 translate russian library_event_amelie_1_df3b31e0:
 
     # Amelie "And, alas, some {b}folios{/b} are temporarily {b}lost{/b}..."
-    Amelie ""
+    Amelie "И, увы, некоторые {b}фолианты{/b} временно {b}утеряны{/b}.."
 
 # game/logic/events/amelie.rpy:215
 translate russian library_event_amelie_1_a581ca16:
 
     # ch_Name "How could that be?"
-    ch_Name ""
+    ch_Name "Как такое возможно?"
 
 # game/logic/events/amelie.rpy:217
 translate russian library_event_amelie_1_7c8fd6c4:
 
     # Amelie "Many of our students never return their books."
-    Amelie ""
+    Amelie "Многие студенты никогда не возвращают свои книги."
 
 # game/logic/events/amelie.rpy:218
 translate russian library_event_amelie_1_6780961c:
 
     # ch_Name "That's very rude."
-    ch_Name ""
+    ch_Name "Это очунь грубо."
 
 # game/logic/events/amelie.rpy:220
 translate russian library_event_amelie_1_d4c85a00:
 
     # Amelie "But it's not always their fault."
-    Amelie ""
+    Amelie "Но не всегда это их вина."
 
 # game/logic/events/amelie.rpy:221
 translate russian library_event_amelie_1_005b323d:
 
     # Amelie "These pixies are nothing but trouble!"
-    Amelie ""
+    Amelie "От этих пикси одни проблемы!"
 
 # game/logic/events/amelie.rpy:222
 translate russian library_event_amelie_1_b8076786:
 
-    # ch_Name "Pixies?"
+    # ch_Name "Пикси?"
     ch_Name ""
 
 # game/logic/events/amelie.rpy:223
 translate russian library_event_amelie_1_87fc2bbb:
 
     # Amelie "Students swear that pixies steal their books and other things from their bags."
-    Amelie ""
+    Amelie "Студенты клянутся, что пикси воруют из книги и другие вещи из их сумок."
 
 # game/logic/events/amelie.rpy:225
 translate russian library_event_amelie_1_0a0d0449:
 
     # Amelie "And then they scatter our books all over the academy grounds."
-    Amelie ""
+    Amelie "А потом они разбрасывают наши книги по всей территории академии."
 
 # game/logic/events/amelie.rpy:226
 translate russian library_event_amelie_1_63cbdd55:
 
     # Amelie "And the library suffers!"
-    Amelie ""
+    Amelie "А библиотека страдает!"
 
 # game/logic/events/amelie.rpy:227
 translate russian library_event_amelie_1_808d7c1b:
 
     # Amelie "So many interesting works are lost!"
-    Amelie ""
+    Amelie "Так много интересных книг утеряно!"
 
 # game/logic/events/amelie.rpy:228
 translate russian library_event_amelie_1_de8bb9df:
 
     # ch_Name "Can't they be found?"
-    ch_Name ""
+    ch_Name "Их можно найти?"
 
 # game/logic/events/amelie.rpy:230
 translate russian library_event_amelie_1_fdce8a5e:
 
     # Amelie "You can. But who's going to do it?"
-    Amelie ""
+    Amelie "Можно. Но кто будет этим заниматься?"
 
 # game/logic/events/amelie.rpy:231
 translate russian library_event_amelie_1_b28729df:
 
     # Amelie "I'm running the library all by myself."
-    Amelie ""
+    Amelie "Я слежу за библиотекой совсем одна."
 
 # game/logic/events/amelie.rpy:232
 translate russian library_event_amelie_1_dff0df90:
 
     # ch_Name "Perhaps I could help you, Miss Erhart?"
-    ch_Name ""
+    ch_Name "Возможно, я могу помочь Вам, Miss Erhart?"
 
 # game/logic/events/amelie.rpy:233
 translate russian library_event_amelie_1_d8cdab04:
 
     # Amelie "Please, just Amelie."
-    Amelie ""
+    Amelie "Прошу, просто Amelie."
 
 # game/logic/events/amelie.rpy:234
 translate russian library_event_amelie_1_b9e2e9df:
 
     # ch_Name "Amelie! Is there any way I can help?"
-    ch_Name ""
+    ch_Name "Amelie! Могу ли я чем-то помочь?"
 
 # game/logic/events/amelie.rpy:235
 translate russian library_event_amelie_1_7196c76c:
 
     # ch_Name "It saddens me to think of good books being lost like that."
-    ch_Name ""
+    ch_Name "Печально думать, что хорошие книги оказываются утраченными."
 
 # game/logic/events/amelie.rpy:237
 translate russian library_event_amelie_1_34a786ea:
 
     # Amelie "I don't know..."
-    Amelie ""
+    Amelie "Я не знаю..."
 
 # game/logic/events/amelie.rpy:238
 translate russian library_event_amelie_1_24b2623e:
 
     # Amelie "Well, why not?"
-    Amelie ""
+    Amelie "Чтож, почему нет?"
 
 # game/logic/events/amelie.rpy:239
 translate russian library_event_amelie_1_1a3b5e26:
 
     # Amelie "Bring me all the books you find lying around the Academy grounds."
-    Amelie ""
+    Amelie "Приноси мне все книги, которые найдешь брошенными на территории академии."
 
 # game/logic/events/amelie.rpy:241
 translate russian library_event_amelie_1_51c12e4e:
 
     # Amelie "I'll gladly {b}reward you with housepoints{/b} for them."
-    Amelie ""
+    Amelie "Я щедро {b}награжу тебя баллами дома{/b} за них."
 
 # game/logic/events/amelie.rpy:242
 translate russian library_event_amelie_1_b26d0c5c:
 
     # ch_Name "Sounds like fun!"
-    ch_Name ""
+    ch_Name "Звучит здорово!"
 
 # game/logic/events/amelie.rpy:243
 translate russian library_event_amelie_1_dbf4b608:
 
     # ch_Name "It's a deal."
-    ch_Name ""
+    ch_Name "Договорились."
 
 # game/logic/events/amelie.rpy:244
 translate russian library_event_amelie_1_58262409:
 
     # ch_Name "I will be more than happy to help you."
-    ch_Name ""
+    ch_Name "Я буду счастлив помочь Вам."
 
 # game/logic/events/amelie.rpy:245
 translate russian library_event_amelie_1_24dc8a03:
 
     # Amelie "That's very generous of you, Mr. [Surname]."
-    Amelie ""
+    Amelie "Это очень великодушно с Вашей стороны, Mr. [Surname]."
 
 # game/logic/events/amelie.rpy:294
 translate russian Amelie_1_textbooks_9cc521f1:
 
     # ch_Name "I almost forgot! I was on my way here to get my textbooks."
-    ch_Name ""
+    ch_Name "Чуть не забыл! Я пришел сюда за своими учебниками."
 
 # game/logic/events/amelie.rpy:295
 translate russian Amelie_1_textbooks_d469e56a:
 
     # ch_Name "Can I get them now?"
-    ch_Name ""
+    ch_Name "Могу ли я получить их сейчас?"
 
 # game/logic/events/amelie.rpy:297
 translate russian Amelie_1_textbooks_a22f06b8:
 
     # Amelie "No problem. Do you have a student card?"
-    Amelie ""
+    Amelie "Запросто. У тебя есть студенческая карта?"
 
 # game/logic/events/amelie.rpy:298
 translate russian Amelie_1_textbooks_468a1d79:
 
     # ch_Name "Of course, I do! It's fresh! I spent all night forging it."
-    ch_Name ""
+    ch_Name "Конечно есть! Свежая! Я потратил всю ночь на ее подделку."
 
 # game/logic/events/amelie.rpy:300
 translate russian Amelie_1_textbooks_20ca1bcf:
 
     # Amelie "You could've got it for your house prefect and spend your free time better."
-    Amelie ""
+    Amelie "Ты мог бы взять ее у префекта своего дома и потратить свободное время с большей пользой."
 
 # game/logic/events/amelie.rpy:301
 translate russian Amelie_1_textbooks_24912b5b:
 
     # ch_Name "{i}(Hmm, didn't she get that it was a joke?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Хмм, она не поняла, что это была шутка?){/i}"
 
 # game/logic/events/amelie.rpy:302
 translate russian Amelie_1_textbooks_80cc1c27:
 
     # Amelie "I'll get your books. It'll only take a few minutes."
-    Amelie ""
+    Amelie "Я принесу твои учебники. Это займет всего пару минут."
 
 # game/logic/events/amelie.rpy:304
 translate russian Amelie_1_textbooks_57853165:
 
     # Amelie "In the meantime, go to my desk and sign for them."
-    Amelie ""
+    Amelie "Пока что пройди к моему столу и распишись за них."
 
 # game/logic/events/amelie.rpy:305
 translate russian Amelie_1_textbooks_a53dd1ef:
 
     # ch_Name "Yes, ma'am."
-    ch_Name ""
+    ch_Name "Да, мэм."
 
 # game/logic/events/amelie.rpy:318
 translate russian Elijah_2_label_fddd0e68:
 
     # ch_Name "I would like to get my textbooks."
-    ch_Name ""
+    ch_Name "Я хотел бы получить свои учебники."
 
 # game/logic/events/amelie.rpy:319
 translate russian Elijah_2_label_928216a8:
 
     # Amelie "Remind me your name and course."
-    Amelie ""
+    Amelie "Напомни мне свое имя и курс."
 
 # game/logic/events/amelie.rpy:320
 translate russian Elijah_2_label_6a143640:
 
     # ch_Name "[Name] [Surname], first year. Leonheart."
-    ch_Name ""
+    ch_Name "[Name] [Surname], первый курс. Leonheart."
 
 # game/logic/events/amelie.rpy:322
 translate russian Elijah_2_label_a20cefa7:
@@ -550,31 +550,31 @@ translate russian Elijah_2_label_a20cefa7:
 translate russian Elijah_2_label_e1c6de9b:
 
     # Amelie "Yep. There you are."
-    Amelie ""
+    Amelie "Ага. Вот ты где."
 
 # game/logic/events/amelie.rpy:325
 translate russian Elijah_2_label_f2c181a0:
 
     # Amelie "Do you have a student card?"
-    Amelie ""
+    Amelie "У тебя есть студенческая карта?"
 
 # game/logic/events/amelie.rpy:326
 translate russian Elijah_2_label_5f7d8c88:
 
     # ch_Name "This one?"
-    ch_Name ""
+    ch_Name "Эта?"
 
 # game/logic/events/amelie.rpy:327
 translate russian Elijah_2_label_c5346d1b:
 
     # Amelie "Yeah. Great."
-    Amelie ""
+    Amelie "Да. Отлично."
 
 # game/logic/events/amelie.rpy:329
 translate russian Elijah_2_label_0c8d4e76:
 
     # Amelie "Let me get your textbooks."
-    Amelie ""
+    Amelie "Я схожу за твоими учебниками."
 
 # game/logic/events/amelie.rpy:330
 translate russian Elijah_2_label_027b1c56:
@@ -586,709 +586,709 @@ translate russian Elijah_2_label_027b1c56:
 translate russian Elijah_2_label_from_Amelie_1_a06b6b79:
 
     # ch_Name "{i}(Oh Cordale, you're so full of surprises.){/i}"
-    ch_Name ""
+    ch_Name "{i}(О Cordale, ты полон сюрпризов.){/i}"
 
 # game/logic/events/amelie.rpy:335
 translate russian Elijah_2_label_from_Amelie_1_2ad3b267:
 
     # ch_Name "{i}(I've never seen a librarian like THAT.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Никогда не видел ТАКОГО библиотекаря..){/i}"
 
 # game/logic/events/amelie.rpy:337
 translate russian Elijah_2_label_from_Amelie_1_51e08d60:
 
     # ch_Name "{i}(I wonder how all those ancient folio books don't catch fire from her heat...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Интересно, как древние фолианты не загораются от ее жара...){/i}"
 
 # game/logic/events/amelie.rpy:338
 translate russian Elijah_2_label_from_Amelie_1_f927b641:
 
     # ch_Name "{i}(Maybe she cools them down with her stern gaze.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Возможно, она охлаждает их своим строгим взглядом.){/i}"
 
 # game/logic/events/amelie.rpy:339
 translate russian Elijah_2_label_from_Amelie_1_6718980f:
 
     # ch_Name "{i}(I should visit the library more often...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Стоит посещать библиотеку почаще...){/i}"
 
 # game/logic/events/amelie.rpy:341
 translate russian Elijah_2_label_from_Amelie_1_a1468d87:
 
     # Amelie "What are you dreaming about?"
-    Amelie ""
+    Amelie "О чем мечтаешь?"
 
 # game/logic/events/amelie.rpy:342
 translate russian Elijah_2_label_from_Amelie_1_ab4a2c44:
 
     # ch_Name "Me?"
-    ch_Name ""
+    ch_Name "Я?"
 
 # game/logic/events/amelie.rpy:343
 translate russian Elijah_2_label_from_Amelie_1_d807de0c:
 
     # ch_Name "Oh, uh..."
-    ch_Name ""
+    ch_Name "Ох, хм..."
 
 # game/logic/events/amelie.rpy:344
 translate russian Elijah_2_label_from_Amelie_1_c7776b61:
 
     # ch_Name "I'm thinking about my battle-magic lessons."
-    ch_Name ""
+    ch_Name "Задумался о занятиях по боевой магии."
 
 # game/logic/events/amelie.rpy:345
 translate russian Elijah_2_label_from_Amelie_1_7f7db2ba:
 
     # ch_Name "I can't wait!"
-    ch_Name ""
+    ch_Name "Не могу дождаться!"
 
 # game/logic/events/amelie.rpy:346
 translate russian Elijah_2_label_from_Amelie_1_f7bc966c:
 
     # Amelie "That's it."
-    Amelie ""
+    Amelie "Вот они."
 
 # game/logic/events/amelie.rpy:347
 translate russian Elijah_2_label_from_Amelie_1_35dfaf78:
 
     # Amelie "I'd recommend a ″From Spark to Fire″ by Ignius of Wales."
-    Amelie ""
+    Amelie "Я бы посоветовала ″От Искры к Огню″ Ignius of Wales."
 
 # game/logic/events/amelie.rpy:349
 translate russian Elijah_2_label_from_Amelie_1_60a7a5ce:
 
     # Amelie "But the last student hasn't brought it back yet."
-    Amelie ""
+    Amelie "Но последний студент еще не вернул ее."
 
 # game/logic/events/amelie.rpy:350
 translate russian Elijah_2_label_from_Amelie_1_9d7117a0:
 
     # ch_Name "I'll be sure to ask next time."
-    ch_Name ""
+    ch_Name "Я обязательно спрошу в следующий раз."
 
 # game/logic/events/amelie.rpy:351
 translate russian Elijah_2_label_from_Amelie_1_368faf97:
 
     # ch_Name "Thank you for the textbooks."
-    ch_Name ""
+    ch_Name "Спасибо за учебники."
 
 # game/logic/events/amelie.rpy:353
 translate russian Elijah_2_label_from_Amelie_1_024a128e:
 
     # Amelie "It's my job."
-    Amelie ""
+    Amelie "Это моя работа."
 
 # game/logic/events/amelie.rpy:354
 translate russian Elijah_2_label_from_Amelie_1_656a7ca5:
 
     # Amelie "Good luck with learning at Cordale, [Name]."
-    Amelie ""
+    Amelie "Успехов с обучением в Cordale, [Name]."
 
 # game/logic/events/amelie.rpy:355
 translate russian Elijah_2_label_from_Amelie_1_36ff2e41:
 
     # Amelie "I hope you'll stop by more often."
-    Amelie ""
+    Amelie "Надеюсь, ты будешь заходить почаще."
 
 # game/logic/events/amelie.rpy:356
 translate russian Elijah_2_label_from_Amelie_1_470c21e6:
 
     # ch_Name "I will!"
-    ch_Name ""
+    ch_Name "Обязательно!"
 
 # game/logic/events/amelie.rpy:359
 translate russian Elijah_2_label_from_Amelie_1_df95d3ec:
 
     # ch_Name "{i}(Great! I have my textbooks.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Отлично! у меня есть учебники.){/i}"
 
 # game/logic/events/amelie.rpy:360
 translate russian Elijah_2_label_from_Amelie_1_0e9dd14a:
 
     # ch_Name "{i}(Now I should get to Victoria's class.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Теперь мне нужно попасть на занятие к Victoria's.){/i}"
 
 # game/logic/events/amelie.rpy:361
 translate russian Elijah_2_label_from_Amelie_1_1df342d1:
 
     # ch_Name "{i}(My first lesson of magic... I'm so excited!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Мой первый урок магии... Я так волнуюсь!){/i}"
 
 # game/logic/events/amelie.rpy:364
 translate russian Elijah_2_label_from_Amelie_1_e95cb9e5:
 
     # ch_Name "{i}(Victoria teaches in the class they've used for entrance examination.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Victoria преподает в том же классе, где проводился вступительный экзамен.){/i}"
 
 # game/logic/events/amelie.rpy:365
 translate russian Elijah_2_label_from_Amelie_1_7ec91e79:
 
     # ch_Name "{i}(So it should be this way.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Значит, это здесь.){/i}"
 
 # game/logic/events/amelie.rpy:366
 translate russian Elijah_2_label_from_Amelie_1_5eca3f3c:
 
     # ch_Name "{i}(I'm lucky class is situated near side the library.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Мне повезло, что класс расположен рядом с библиотекой.){/i}"
 
 # game/logic/events/amelie.rpy:367
 translate russian Elijah_2_label_from_Amelie_1_ba6146b5:
 
     # ch_Name "{i}(Otherwise I'd probably get lost and miss all the fun.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Иначе я бы наверняка заблудился и пропустил все веселье.){/i}"
 
 # game/logic/events/amelie.rpy:371
 translate russian Elijah_2_label_from_Amelie_1_0fce41b9:
 
     # ch_Name "{i}(Looks like I still have some time before lesson begins.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Похоже, у меня еще есть немного времени до начала занятия.){/i}"
 
 # game/logic/events/amelie.rpy:372
 translate russian Elijah_2_label_from_Amelie_1_4c50a88a:
 
     # ch_Name "{i}(Good. This means I have more time to get new acquaintances.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Хорошо. Значит, у меня будет больше времени, чтобы завести новые знакомства.){/i}"
 
 # game/logic/events/amelie.rpy:373
 translate russian Elijah_2_label_from_Amelie_1_59b7a37c:
 
     # ch_Name "{i}(Maybe those girls who argued about which house is better?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Может, с теми девчонками, которые спорили, какой дом лучше?){/i}"
 
 # game/logic/events/amelie.rpy:374
 translate russian Elijah_2_label_from_Amelie_1_84278168:
 
     # ch_Name "{i}(Why not. Besides, Lily is in Leonheart too.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Почему нет. Кроме того, Lily тоже в Leonheart.){/i}"
 
 # game/logic/events/amelie.rpy:375
 translate russian Elijah_2_label_from_Amelie_1_393e14c7:
 
     # ch_Name "{i}(I'm sure we'll find a common ground.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я уверен, мы найдем общие темы.){/i}"
 
 # game/logic/events/amelie.rpy:397
 translate russian Amelie_2_label_b4766bfc:
 
     # ch_Name "Remember you were talking about the lost folios?"
-    ch_Name ""
+    ch_Name "Помнишь, ты рассказывала об утерянных фолиантах?"
 
 # game/logic/events/amelie.rpy:398
 translate russian Amelie_2_label_b57600fa:
 
     # Amelie "Yes. Textbooks are scattered all over the academy. It's a tragedy."
-    Amelie ""
+    Amelie "Да. Учебники разбросаны по всей академии. Это трагедия."
 
 # game/logic/events/amelie.rpy:400
 translate russian Amelie_2_label_c153cedd:
 
     # ch_Name "I think I found something like that."
-    ch_Name ""
+    ch_Name "Думаю, я нашел что-то такое."
 
 # game/logic/events/amelie.rpy:401
 translate russian Amelie_2_label_6db3969a:
 
     # ch_Name "Here, take a look."
-    ch_Name ""
+    ch_Name "Вот, посмотри."
 
 # game/logic/events/amelie.rpy:403
 translate russian Amelie_2_label_ba5d3a66:
 
     # Amelie "Let me see that."
-    Amelie ""
+    Amelie "Дай мне взглянуть."
 
 # game/logic/events/amelie.rpy:404
 translate russian Amelie_2_label_1481be9f:
 
     # Amelie "This is definitely a book from our library."
-    Amelie ""
+    Amelie "Это определенно из нашей библиотеки."
 
 # game/logic/events/amelie.rpy:406
 translate russian Amelie_2_label_e369fcbb:
 
     # Amelie "Excellent work, [Name]!"
-    Amelie ""
+    Amelie "Отличная работа, [Name]!"
 
 # game/logic/events/amelie.rpy:408
 translate russian Amelie_2_label_5ee1b30c:
 
     # Amelie "I'll give you points."
-    Amelie ""
+    Amelie "Я дам тебе баллы."
 
 # game/logic/events/amelie.rpy:410
 translate russian Amelie_2_label_26459c8b:
 
     # Amelie "As promised, I will reward you for all the books you find."
-    Amelie ""
+    Amelie "Как я и обещала, я буду награждать тебя за все книги, которые ты найдешь."
 
 # game/logic/events/amelie.rpy:411
 translate russian Amelie_2_label_87a9bc8a:
 
     # ch_Name "The main reward is hearing your satisfied voice!"
-    ch_Name ""
+    ch_Name "Лучшая награда это слышать удовлетворение в твоем голосе!"
 
 # game/logic/events/amelie.rpy:412
 translate russian Amelie_2_label_95c489a6:
 
     # ch_Name "{i}(But I won't refuse points either.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Но и от баллов я не откажусь.){/i}"
 
 # game/logic/events/amelie.rpy:414
 translate russian Amelie_2_label_335fd093:
 
     # ch_Name "And to know that priceless books are in safe hands."
-    ch_Name ""
+    ch_Name "И знать, что бесценные книги в надежных руках."
 
 # game/logic/events/amelie.rpy:416
 translate russian Amelie_2_label_8bd4a1d8:
 
     # Amelie "It's nice to see a like-minded man."
-    Amelie ""
+    Amelie "Так приятно встретить единомышленника."
 
 # game/logic/events/amelie.rpy:417
 translate russian Amelie_2_label_b5d13e35:
 
     # Amelie "There are few lovers of literature among the young these days."
-    Amelie ""
+    Amelie "В наше время среди молодежи так мало любителей литературы."
 
 # game/logic/events/amelie.rpy:419
 translate russian Amelie_2_label_479a9f27:
 
     # ch_Name "{i}(What else to do while confined to bed with a fracture?){/i}"
-    ch_Name ""
+    ch_Name "{i}(А чем еще заняться, валяясь в постели с переломом?){/i}"
 
 # game/logic/events/amelie.rpy:420
 translate russian Amelie_2_label_1ae0e493:
 
     # ch_Name "I'm very concerned about the fate of the academy textbooks."
-    ch_Name ""
+    ch_Name "Меня очень беспокоит судьба академических учебников."
 
 # game/logic/events/amelie.rpy:421
 translate russian Amelie_2_label_f334ffee:
 
     # ch_Name "So I'll try to find some more!"
-    ch_Name ""
+    ch_Name "Я постараюсь найти больше!"
 
 # game/logic/events/amelie.rpy:423
 translate russian Amelie_2_label_c424d68d:
 
     # Amelie "Great!"
-    Amelie ""
+    Amelie "Отлично!"
 
 # game/logic/events/amelie.rpy:424
 translate russian Amelie_2_label_4c4a75be:
 
     # Amelie "By the way, [Name], you don't have to carry textbooks one at a time."
-    Amelie ""
+    Amelie "Кстати, [Name], ты не обязан носить учебники по одному."
 
 # game/logic/events/amelie.rpy:425
 translate russian Amelie_2_label_7f030bde:
 
     # Amelie "You can collect several and bring them at once."
-    Amelie ""
+    Amelie "Можешь собрать несколько и принести все сразу."
 
 # game/logic/events/amelie.rpy:427
 translate russian Amelie_2_label_581a358a:
 
     # Amelie "If it's more convenient for you."
-    Amelie ""
+    Amelie "Так тебе будет удобнее."
 
 # game/logic/events/amelie.rpy:428
 translate russian Amelie_2_label_7939f8eb:
 
     # ch_Name "That's fine."
-    ch_Name ""
+    ch_Name "Это нормально."
 
 # game/logic/events/amelie.rpy:429
 translate russian Amelie_2_label_e7c1e796:
 
     # ch_Name "I'll be sure to stop by if I find another textbook."
-    ch_Name ""
+    ch_Name "Я обязательно зайду, если найду еще учебники."
 
 # game/logic/events/amelie.rpy:430
 translate russian Amelie_2_label_33def990:
 
     # Amelie "I'll look forward to it."
-    Amelie ""
+    Amelie "Жду с нетерпением."
 
 # game/logic/events/amelie.rpy:454
 translate russian Amelie_1_1_label_9e120baa:
 
     # ch_Name "I wanted to know about the textbooks."
-    ch_Name ""
+    ch_Name "Я хотел спросить об учебниках."
 
 # game/logic/events/amelie.rpy:455
 translate russian Amelie_1_1_label_4cbb4bbd:
 
     # ch_Name "Miss Lapis said she couldn't let me go to class without them."
-    ch_Name ""
+    ch_Name "Miss Lapis сказала, что не впустит меня в класс без них."
 
 # game/logic/events/amelie.rpy:457
 translate russian Amelie_1_1_label_112da54a:
 
     # Amelie "That's right. It's academy policy."
-    Amelie ""
+    Amelie "Это нормально. Это политика академии."
 
 # game/logic/events/amelie.rpy:458
 translate russian Amelie_1_1_label_121670aa:
 
     # ch_Name "So I'm here to see you."
-    ch_Name ""
+    ch_Name "И вот я здесь, чтобы повидаться с тобой."
 
 # game/logic/events/amelie.rpy:459
 translate russian Amelie_1_1_label_d141a4c9:
 
     # ch_Name "Give me the first-year textbooks."
-    ch_Name ""
+    ch_Name "Дай мне учебники для первокурсников."
 
 # game/logic/events/amelie.rpy:461
 translate russian Amelie_1_1_label_73d913c4:
 
     # Amelie "Not so fast."
-    Amelie ""
+    Amelie "Не так быстро."
 
 # game/logic/events/amelie.rpy:462
 translate russian Amelie_1_1_label_5ab67802:
 
     # Amelie "Do you already have a {b}student card?{/b} "
-    Amelie ""
+    Amelie "У тебя уже есть {b}студенческая карта?{/b}"
 
 # game/logic/events/amelie.rpy:463
 translate russian Amelie_1_1_label_1cf907ab:
 
     # ch_Name "No... What is that anyway?"
-    ch_Name ""
+    ch_Name "Нет... А что это вообще?"
 
 # game/logic/events/amelie.rpy:465
 translate russian Amelie_1_1_label_38ba0bc7:
 
     # Amelie "It's a student card from our academy."
-    Amelie ""
+    Amelie "Это студенческая карта академии."
 
 # game/logic/events/amelie.rpy:466
 translate russian Amelie_1_1_label_25a199e7:
 
     # Amelie "You'll have to {b}go to Elijah{/b}. He's responsible for that."
-    Amelie ""
+    Amelie "Ты должен {b}подойти к Elijah{/b}. Он отвечает за это."
 
 # game/logic/events/amelie.rpy:467
 translate russian Amelie_1_1_label_567b8da9:
 
     # Amelie "I can't give out textbooks without a student card."
-    Amelie ""
+    Amelie "Я не могу выдать тебе книги без студенческой карты."
 
 # game/logic/events/amelie.rpy:468
 translate russian Amelie_1_1_label_b6890377:
 
     # ch_Name "{i}(I hate bureaucracy...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ненавижу бюрократию...){/i}"
 
 # game/logic/events/amelie.rpy:469
 translate russian Amelie_1_1_label_4aca1c69:
 
     # ch_Name "Thank you for the information."
-    ch_Name ""
+    ch_Name "Спасибо за информацию."
 
 # game/logic/events/amelie.rpy:479
 translate russian Amelie_3_label_ccd45fb4:
 
     # ch_Name "{i}(Well, things with Lily are settled. I can't back down now.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Чтож, дела с  Lily улажены. Я не могу отступить сейчас.){/i}""
 
 # game/logic/events/amelie.rpy:480
 translate russian Amelie_3_label_1d3a6564:
 
     # ch_Name "{i}(And I'm late for classes, that's for sure.){/i}"
-    ch_Name ""
+    ch_Name "{i}(И я опаздываю на занятия, это уж точно.){/i}"
 
 # game/logic/events/amelie.rpy:481
 translate russian Amelie_3_label_26356065:
 
     # ch_Name "{i}(What should I do while classes are in session?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Что мне делать во время занятий?){/i}"
 
 # game/logic/events/amelie.rpy:482
 translate russian Amelie_3_label_2258c52c:
 
     # ch_Name "{i}(Maybe enjoy the weather in the yard?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Может, наслаждаться солнышком на площади?){/i}"
 
 # game/logic/events/amelie.rpy:484
 translate russian Amelie_3_label_6c62b191:
 
     # ch_Name "{i}(Yeah, it's a lot nicer out here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Да, здесь намного приятнее.){/i}"
 
 # game/logic/events/amelie.rpy:485
 translate russian Amelie_3_label_49bfdca8:
 
     # ch_Name "{i}(I could make some extra money at the cafe, or...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я мог бы немного подзаработать в кафе или...){/i}"
 
 # game/logic/events/amelie.rpy:486
 translate russian Amelie_3_label_9ce5eddb:
 
     # ch_Name "{i}(Exactly! The library. I've been wanting to get to know Amelie.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Точно! Библиотека. Я хотел узнать Amelie поближе.){/i}"
 
 # game/logic/events/amelie.rpy:488
 translate russian Amelie_3_label_7f180d07:
 
     # ch_Name "{i}(And she didn't seem to mind \"being friends\" at all.){/i}"
-    ch_Name ""
+    ch_Name "{i}(И, похоже, она совсем не против \"быть друзьями\".){/i}"
 
 # game/logic/events/amelie.rpy:489
 translate russian Amelie_3_label_c37d85e3:
 
     # ch_Name "{i}(Let's hope she's in good spirits today.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Надеюсь, сегодня у нее хорошее настроение.){/i}"
 
 # game/logic/events/amelie.rpy:494
 translate russian Amelie_3_label_7fda6be6:
 
     # ch_Name "Miss Amelie Erhart! How are you doing?"
-    ch_Name ""
+    ch_Name "Miss Amelie Erhart! Как дела?"
 
 # game/logic/events/amelie.rpy:495
 translate russian Amelie_3_label_7417d649:
 
     # Amelie "Hello, [Name]!"
-    Amelie ""
+    Amelie "Привет, [Name]!"
 
 # game/logic/events/amelie.rpy:496
 translate russian Amelie_3_label_b1d1a0b3:
 
     # Amelie "I could be better. I'm a little bit sleep-deprived."
-    Amelie ""
+    Amelie "Могло бы быть и лучше. Я немного не выспалась."
 
 # game/logic/events/amelie.rpy:497
 translate russian Amelie_3_label_132ff963:
 
     # ch_Name "Really? But you're looking so fresh!"
-    ch_Name ""
+    ch_Name "Правда? Ты выглядишь очень свежо!"
 
 # game/logic/events/amelie.rpy:499
 translate russian Amelie_3_label_a6ddca03:
 
     # Amelie "Oh, thanks! It is so sweet of you."
-    Amelie ""
+    Amelie "Ох, спасибо! Это так мило с твоей стороны."
 
 # game/logic/events/amelie.rpy:500
 translate russian Amelie_3_label_27ea6d73:
 
     # Amelie "It's really nice to see you here."
-    Amelie ""
+    Amelie "Очень приятно видеть тебя здесь."
 
 # game/logic/events/amelie.rpy:501
 translate russian Amelie_3_label_951255cd:
 
     # Amelie "You barely come to library lately."
-    Amelie ""
+    Amelie "В последнее время ты редко приходишь в библиотеку."
 
 # game/logic/events/amelie.rpy:502
 translate russian Amelie_3_label_a94af915:
 
     # Amelie "Are you busy with something?"
-    Amelie ""
+    Amelie "Чем-то занят?"
 
 # game/logic/events/amelie.rpy:504
 translate russian Amelie_3_label_2c7d7942:
 
     # ch_Name "Kind of."
-    ch_Name ""
+    ch_Name "Вроде того."
 
 # game/logic/events/amelie.rpy:505
 translate russian Amelie_3_label_7c48fe3e:
 
     # ch_Name "But I want to fix it."
-    ch_Name ""
+    ch_Name "Но я хочу это исправить."
 
 # game/logic/events/amelie.rpy:506
 translate russian Amelie_3_label_cc52cde4:
 
     # ch_Name "Your fantastic world of books and magic here is too appealing to just leave it."
-    ch_Name ""
+    ch_Name "Твой фантастический мир книг и магии слишком привлекателен, чтобы забыть о нем."
 
 # game/logic/events/amelie.rpy:507
 translate russian Amelie_3_label_c76e7f78:
 
     # Amelie "Great to hear it!"
-    Amelie ""
+    Amelie "Рада слышать!"
 
 # game/logic/events/amelie.rpy:509
 translate russian Amelie_3_label_7fcc0656:
 
     # Amelie "You missed a lot actually."
-    Amelie ""
+    Amelie "На самом деле ты многое пропустил."
 
 # game/logic/events/amelie.rpy:510
 translate russian Amelie_3_label_fa4a8983:
 
     # ch_Name "Wow! I need more details here."
-    ch_Name ""
+    ch_Name "Вау! Мне нужны подробности."
 
 # game/logic/events/amelie.rpy:511
 translate russian Amelie_3_label_f2527737:
 
     # Amelie "The last thing that happened was the pixies that lost their minds completely!"
-    Amelie ""
+    Amelie "Последнее, что произошло, это то что пикси окончательно сошли с ума!"
 
 # game/logic/events/amelie.rpy:512
 translate russian Amelie_3_label_bd67f888:
 
     # ch_Name "What do you mean?"
-    ch_Name ""
+    ch_Name "Что ты имеешь ввиду?"
 
 # game/logic/events/amelie.rpy:514
 translate russian Amelie_3_label_b67a0c56:
 
     # Amelie "Before they just stole books and scattered them about, but now..."
-    Amelie ""
+    Amelie "Раньше они просто воровали книги и разбрасывали их повсюду, но теперь..."
 
 # game/logic/events/amelie.rpy:515
 translate russian Amelie_3_label_bf214392:
 
     # Amelie "They've started to do it with other things!"
-    Amelie ""
+    Amelie "Они начали делать это с другими вещами!"
 
 # game/logic/events/amelie.rpy:516
 translate russian Amelie_3_label_65c6b7a1:
 
     # Amelie "The last was my purse."
-    Amelie ""
+    Amelie "Последней была моя сумка."
 
 # game/logic/events/amelie.rpy:517
 translate russian Amelie_3_label_4830e052:
 
     # Amelie "And I still can't find it, can you imagine?"
-    Amelie ""
+    Amelie "И я все еще не могу найти ее, представляешь?"
 
 # game/logic/events/amelie.rpy:519
 translate russian Amelie_3_label_19f251e2:
 
     # ch_Name "Really? "
-    ch_Name ""
+    ch_Name "Правда?"
 
 # game/logic/events/amelie.rpy:520
 translate russian Amelie_3_label_19d7073d:
 
     # ch_Name "I think that we should do something with the scoundrels."
-    ch_Name ""
+    ch_Name "Думаю, мы должны что-то делать с этими негодяями."
 
 # game/logic/events/amelie.rpy:521
 translate russian Amelie_3_label_0e624df2:
 
     # Amelie "But let's try to find the purse first."
-    Amelie ""
+    Amelie "Но прежде давай попробуем найти сумку."
 
 # game/logic/events/amelie.rpy:522
 translate russian Amelie_3_label_5a03c321:
 
     # ch_Name "Where did you see it last before it was stolen?"
-    ch_Name ""
+    ch_Name "Гдк ты видела ее в последний раз, прежде чем ее украли?"
 
 # game/logic/events/amelie.rpy:524
 translate russian Amelie_3_label_312c63da:
 
     # Amelie "Here, on my table."
-    Amelie ""
+    Amelie "Здесь, на моем столе."
 
 # game/logic/events/amelie.rpy:525
 translate russian Amelie_3_label_bc66a0a7:
 
     # ch_Name "Hmmmm..."
-    ch_Name ""
+    ch_Name "Хмммм..."
 
 # game/logic/events/amelie.rpy:526
 translate russian Amelie_3_label_f9e1059c:
 
     # ch_Name "Let me think a little bit."
-    ch_Name ""
+    ch_Name "Дай подумать."
 
 # game/logic/events/amelie.rpy:528
 translate russian Amelie_3_label_d7d6f78c:
 
     # ch_Name "Aww! Do you hear that?"
-    ch_Name ""
+    ch_Name "Оу! Ты это слышишь?"
 
 # game/logic/events/amelie.rpy:530
 translate russian Amelie_3_label_8c0e5aac:
 
     # Amelie "What?"
-    Amelie ""
+    Amelie "Что?"
 
 # game/logic/events/amelie.rpy:531
 translate russian Amelie_3_label_14bb028c:
 
     # ch_Name "The rustling of wings!"
-    ch_Name ""
+    ch_Name "Шелест крыльев!"
 
 # game/logic/events/amelie.rpy:532
 translate russian Amelie_3_label_c9c9f751:
 
     # ch_Name "It seems to be coming from the second floor."
-    ch_Name ""
+    ch_Name "Похоже, он идет со второго этажа."
 
 # game/logic/events/amelie.rpy:534
 translate russian Amelie_3_label_2a99aff0:
 
     # ch_Name "I will go there and check."
-    ch_Name ""
+    ch_Name "Я пойду туда и проверю."
 
 # game/logic/events/amelie.rpy:535
 translate russian Amelie_3_label_5b2a0b3e:
 
     # Amelie "Don't go alone."
-    Amelie ""
+    Amelie "Не ходи один."
 
 # game/logic/events/amelie.rpy:536
 translate russian Amelie_3_label_dc19e475:
 
     # Amelie "Let's check together."
-    Amelie ""
+    Amelie "Давай проверим вместе."
 
 # game/logic/events/amelie.rpy:538
 translate russian Amelie_3_label_dd8fc0fb:
 
     # ch_Name "{i}(God, I really miss the view of these legs!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Боже, я правда соскучился по виду этих ног!){/i}"
 
 # game/logic/events/amelie.rpy:539
 translate russian Amelie_3_label_c60833b4:
 
     # ch_Name "{i}(And the booty... ){/i}"
-    ch_Name ""
+    ch_Name "{i}(И попки... ){/i}"
 
 # game/logic/events/amelie.rpy:540
 translate russian Amelie_3_label_f927f99e:
 
     # ch_Name "{i}(I should really come here more often.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Мне действительно нужно чаще приходить сюда.){/i}"
 
 # game/logic/events/amelie.rpy:542
 translate russian Amelie_3_label_d8740b4e:
 
     # ch_Name "It sounds like it's coming from right over here."
-    ch_Name ""
+    ch_Name "Похоже, звук идет прямо оттуда."
 
 # game/logic/events/amelie.rpy:543
 translate russian Amelie_3_label_4855500e:
 
     # Amelie "You seem to have good hearing, [Name]."
-    Amelie ""
+    Amelie "У тебя хороший слух, [Name]."
 
 # game/logic/events/amelie.rpy:544
 translate russian Amelie_3_label_71045421:
 
     # Amelie "Because I can barely hear anything."
-    Amelie ""
+    Amelie "Потому что я практически ничего не слышу."
 
 # game/logic/events/amelie.rpy:545
 translate russian Amelie_3_label_865fc342:
 
     # ch_Name "Dunno."
-    ch_Name ""
+    ch_Name "Не знаю."
 
 # game/logic/events/amelie.rpy:547
 translate russian Amelie_3_label_0ae9bcd0:
@@ -1300,43 +1300,43 @@ translate russian Amelie_3_label_0ae9bcd0:
 translate russian Amelie_3_label_6fb7d812:
 
     # ch_Name "Whooops!"
-    ch_Name ""
+    ch_Name "Ууууупс!"
 
 # game/logic/events/amelie.rpy:550
 translate russian Amelie_3_label_cb454e33:
 
     # ch_Name "I hope you heard that at least."
-    ch_Name ""
+    ch_Name "Надеюсь, хотя бы это ты слышала."
 
 # game/logic/events/amelie.rpy:551
 translate russian Amelie_3_label_f467bbff:
 
     # Amelie "Yes!"
-    Amelie ""
+    Amelie "Да!"
 
 # game/logic/events/amelie.rpy:552
 translate russian Amelie_3_label_b1d3f109:
 
     # ch_Name "We're on the right track then."
-    ch_Name ""
+    ch_Name "Значит, мы на правильном пути."
 
 # game/logic/events/amelie.rpy:554
 translate russian Amelie_3_label_a329835b:
 
     # ch_Name "It seems like something is going on behind these shelves."
-    ch_Name ""
+    ch_Name "Кажется, что-то происходит за этими стеллажами."
 
 # game/logic/events/amelie.rpy:555
 translate russian Amelie_3_label_a987f5b0:
 
     # ch_Name "By the way, can pixies do any harm to us?"
-    ch_Name ""
+    ch_Name "Кстати, пикси могут нам навредить?"
 
 # game/logic/events/amelie.rpy:556
 translate russian Amelie_3_label_d09dae62:
 
     # Amelie "It's unlikely."
-    Amelie ""
+    Amelie "Маловероятно."
 
 # game/logic/events/amelie.rpy:557
 translate russian Amelie_3_label_404118f3:
