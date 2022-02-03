@@ -70,7 +70,7 @@ translate spanish sheet_21_5a7f6537:
 translate spanish sheet_21_1ba0c3d3:
 
     # Victoria "Legends say that it came from Cordoba with one of the founders..."
-    Victoria "Cuenta la leyenda que vino desde Cordoba con una de las fundadoras..."
+    Victoria "Cuenta la leyenda que vino desde Cordoba con uno de los fundadores..."
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:28
 translate spanish sheet_21_69b52e79:
