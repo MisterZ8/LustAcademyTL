@@ -4,19 +4,19 @@
 translate dutch Haley_1_label_931506d0:
 
     # ch_Name "{i}(That's interesting. Never seen a girl so invested in school activities.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Dat is interessant. Ik heb nog nooit een meisje zo geïnvesteerd in schoolactiviteiten gezien.){/i}"
 
 # game/logic/events/haley.rpy:235
 translate dutch Haley_1_label_a32c4a9b:
 
     # ch_Name "{i}(Can It really be that easy to get her to like me?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kan het echt zo makkelijk zijn om haar me leuk te laten vinden?){/i}"
 
 # game/logic/events/haley.rpy:236
 translate dutch Haley_1_label_9ec4cd2d:
 
     # ch_Name "{i}(Let's see if there's anything else I can do before class starts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Laten we eens zien of er iets anders te doen is voor de les start.){/i}"
 
 # game/logic/events/haley.rpy:238
 translate dutch Haley_1_label_b8a7fc1e:
@@ -28,307 +28,307 @@ translate dutch Haley_1_label_b8a7fc1e:
 translate dutch Haley_1_label_67640c87:
 
     # ch_Name "{i}(Haley's probably getting ready for class.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Haley is zich waarschijnlijk aan het voorbereiden op de les.){/i}"
 
 # game/logic/events/haley.rpy:240
 translate dutch Haley_1_label_09535aa2:
 
     # ch_Name "{i}(But I'm sure she'll find some time to chat with me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Maar ik weet zeker dat ze wel tijd wilt vrijmaken om met me te praten.){/i}"
 
 # game/logic/events/haley.rpy:241
 translate dutch Haley_1_label_1eb3dfb5:
 
     # ch_Name "{i}(She seems to like our conversations.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Het lijkt er op dat ze onze gesprekken leuk vindt.){/i}"
 
 # game/logic/events/haley.rpy:244
 translate dutch Haley_1_label_c41619bb:
 
     # ch_Name "Haley, hi!"
-    ch_Name ""
+    ch_Name "Haley, hoi!"
 
 # game/logic/events/haley.rpy:245
 translate dutch Haley_1_label_4f5a31ad:
 
     # Haley "[Name], good to see you!"
-    Haley ""
+    Haley "[Name], goed om je te zien!"
 
 # game/logic/events/haley.rpy:246
 translate dutch Haley_1_label_f99634b3:
 
     # ch_Name "How's it going?{w} Getting ready for class?"
-    ch_Name ""
+    ch_Name "Hoe gaat het?{w} Aan het voorbereiden op de les?"
 
 # game/logic/events/haley.rpy:248
 translate dutch Haley_1_label_97a2e8a2:
 
     # Haley "Yeah. Have you opened your magic book yet?"
-    Haley ""
+    Haley "Ja. Heb je je magie boek al geopend?"
 
 # game/logic/events/haley.rpy:249
 translate dutch Haley_1_label_42bd69f9:
 
     # Haley "I'm really excited."
-    Haley ""
+    Haley "Ik ben echt opgewonden."
 
 # game/logic/events/haley.rpy:250
 translate dutch Haley_1_label_9758e3e8:
 
     # ch_Name "I haven't had the chance yet."
-    ch_Name ""
+    ch_Name "Ik heb de kans nog niet gehad."
 
 # game/logic/events/haley.rpy:251
 translate dutch Haley_1_label_5a2b8c6f:
 
     # ch_Name "What's the big deal?"
-    ch_Name ""
+    ch_Name "Wat is er zo bijzonder?"
 
 # game/logic/events/haley.rpy:252
 translate dutch Haley_1_label_cb98e67c:
 
     # Haley "What do you mean?!"
-    Haley ""
+    Haley "Wat bedoel je?!"
 
 # game/logic/events/haley.rpy:254
 translate dutch Haley_1_label_d0250630:
 
     # Haley "Everything! It's got everything!"
-    Haley ""
+    Haley "Alles! Het bezit alles!"
 
 # game/logic/events/haley.rpy:255
 translate dutch Haley_1_label_2d5b47e1:
 
     # Haley "All the answers, the history of magic, practical advice."
-    Haley ""
+    Haley "Alle antwoorden, de geschiedenis van magie, praktijk advies."
 
 # game/logic/events/haley.rpy:256
 translate dutch Haley_1_label_ea79a994:
 
     # Haley "It's objectively the best textbook I've ever seen."
-    Haley ""
+    Haley "Het is objectief het beste leerboek dat ik ooit heb gezien."
 
 # game/logic/events/haley.rpy:258
 translate dutch Haley_1_label_66e729ab:
 
     # Haley "And I know textbooks, believe me."
-    Haley ""
+    Haley "En ik ken leerboeken, geloof me."
 
 # game/logic/events/haley.rpy:259
 translate dutch Haley_1_label_af95aa64:
 
     # ch_Name "I believe you."
-    ch_Name ""
+    ch_Name "Ik geloof je."
 
 # game/logic/events/haley.rpy:260
 translate dutch Haley_1_label_864f62a3:
 
     # ch_Name "{i}(Although I've never met such a fiery crammer before...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hoewel ik nog nooit zo'n vurige kraker heb ontmoet...){/i}"
 
 # game/logic/events/haley.rpy:262
 translate dutch Haley_1_label_e67cc066:
 
     # Haley "I also spoke to Ms. Lapis!"
-    Haley ""
+    Haley "Ik heb Ms. Lapis ook gesproken!"
 
 # game/logic/events/haley.rpy:263
 translate dutch Haley_1_label_1f9e4b76:
 
     # Haley "She agreed to discuss a thesis about the nature of magic."
-    Haley ""
+    Haley "Ze stemde ermee in om een scriptie te bespreken over de aard van magie."
 
 # game/logic/events/haley.rpy:264
 translate dutch Haley_1_label_194a01be:
 
     # Haley "After class."
-    Haley ""
+    Haley "Na de les."
 
 # game/logic/events/haley.rpy:265
 translate dutch Haley_1_label_7e5b1b48:
 
     # ch_Name "An after-class class?{w} Wow!"
-    ch_Name ""
+    ch_Name "Een les na de les?{w} Wow!"
 
 # game/logic/events/haley.rpy:267
 translate dutch Haley_1_label_378fe9d5:
 
     # Haley "I'm looking forward to it!"
-    Haley ""
+    Haley "Ik kijk er naar uit!"
 
 # game/logic/events/haley.rpy:268
 translate dutch Haley_1_label_ce89db53:
 
     # Haley "This place is just a treasure trove of knowledge."
-    Haley ""
+    Haley "Deze plek is een schatkamer van kennis."
 
 # game/logic/events/haley.rpy:269
 translate dutch Haley_1_label_16ca2fd4:
 
     # Haley "I'm so happy!"
-    Haley ""
+    Haley "Ik ben zo gelukkig!"
 
 # game/logic/events/haley.rpy:270
 translate dutch Haley_1_label_fe6574e0:
 
     # ch_Name "I'm happy for you."
-    ch_Name ""
+    ch_Name "Ik ben blij voor je."
 
 # game/logic/events/haley.rpy:271
 translate dutch Haley_1_label_f738ad64:
 
     # ch_Name "But are you only interested in knowledge?"
-    ch_Name ""
+    ch_Name "Maar ben je alleen geïnteresseerd in kennis?"
 
 # game/logic/events/haley.rpy:273
 translate dutch Haley_1_label_82f6e7f6:
 
     # Haley "What do you mean?"
-    Haley ""
+    Haley "Wat bedoel je?"
 
 # game/logic/events/haley.rpy:274
 translate dutch Haley_1_label_212d1aa3:
 
     # Haley "We're in the academy."
-    Haley ""
+    Haley "We zijn in de academie."
 
 # game/logic/events/haley.rpy:275
 translate dutch Haley_1_label_ba0ae2b9:
 
     # ch_Name "So what?"
-    ch_Name ""
+    ch_Name "Dus?"
 
 # game/logic/events/haley.rpy:276
 translate dutch Haley_1_label_8ea79ec9:
 
     # ch_Name "We still have a few more years studying and living within these walls."
-    ch_Name ""
+    ch_Name "We hebben nog een paar jaar studeren en wonen binnen deze muren te gaan."
 
 # game/logic/events/haley.rpy:278
 translate dutch Haley_1_label_61f08724:
 
     # Haley "What's your point?"
-    Haley ""
+    Haley "Wat is je punt?"
 
 # game/logic/events/haley.rpy:279
 translate dutch Haley_1_label_a04a7c80:
 
     # ch_Name "I'm saying it's worth exploring more than just the library and the classrooms."
-    ch_Name ""
+    ch_Name "M'n punt is dat het geen kwaad kan om meer te ontdekken dan alleen de bibliotheek en de klaslokalen."
 
 # game/logic/events/haley.rpy:280
 translate dutch Haley_1_label_9b66cc9e:
 
     # ch_Name "Have you been to the local cafe yet?"
-    ch_Name ""
+    ch_Name "Ben je al naar het plaatselijke café geweest?"
 
 # game/logic/events/haley.rpy:282
 translate dutch Haley_1_label_5991cf7f:
 
     # Haley "Um... I don't remember."
-    Haley ""
+    Haley "Uhm... Ik denk het niet."
 
 # game/logic/events/haley.rpy:283
 translate dutch Haley_1_label_68ccf651:
 
     # ch_Name "There!"
-    ch_Name ""
+    ch_Name "Dat bedoel ik!"
 
 # game/logic/events/haley.rpy:284
 translate dutch Haley_1_label_9f295f1b:
 
     # ch_Name "Let's start there."
-    ch_Name ""
+    ch_Name "Laten we daar beginnen."
 
 # game/logic/events/haley.rpy:286
 translate dutch Haley_1_label_dbe7be5a:
 
     # Haley "I don't know...{w} I have so much to learn..."
-    Haley ""
+    Haley "Ik weet het niet...{w} Ik heb nog zoveel te leren..."
 
 # game/logic/events/haley.rpy:287
 translate dutch Haley_1_label_a35ad5c5:
 
     # Haley "I'll check my diary."
-    Haley ""
+    Haley "Ik zal m'n agenda controleren."
 
 # game/logic/events/haley.rpy:288
 translate dutch Haley_1_label_19e92eb5:
 
     # ch_Name "I didn't say today."
-    ch_Name ""
+    ch_Name "Ik zei niet vandaag."
 
 # game/logic/events/haley.rpy:290
 translate dutch Haley_1_label_8db2c2c9:
 
     # Haley "Then when?"
-    Haley ""
+    Haley "Wanneer dan?"
 
 # game/logic/events/haley.rpy:291
 translate dutch Haley_1_label_a9d160fd:
 
     # ch_Name "I won't tell you."
-    ch_Name ""
+    ch_Name "Dat zeg ik je niet."
 
 # game/logic/events/haley.rpy:292
 translate dutch Haley_1_label_55b5978b:
 
     # Haley "Why not?"
-    Haley ""
+    Haley "Waarom niet?"
 
 # game/logic/events/haley.rpy:293
 translate dutch Haley_1_label_ee104b16:
 
     # ch_Name "You sorely lack spontaneity in your life."
-    ch_Name ""
+    ch_Name "Je mist nogal wat spontaniteit in je leven."
 
 # game/logic/events/haley.rpy:294
 translate dutch Haley_1_label_737b5fcc:
 
     # ch_Name "So I'm in charge now."
-    ch_Name ""
+    ch_Name "Dus nu heb ik de leiding."
 
 # game/logic/events/haley.rpy:296
 translate dutch Haley_1_label_086dcc26:
 
     # Haley "But..."
-    Haley ""
+    Haley "Maar..."
 
 # game/logic/events/haley.rpy:297
 translate dutch Haley_1_label_b4a6504c:
 
     # ch_Name "Objections will only be accepted via e-mail."
-    ch_Name ""
+    ch_Name "Bezwaren worden alleen geaccepteerd per e-mail."
 
 # game/logic/events/haley.rpy:298
 translate dutch Haley_1_label_36afb4ff:
 
     # ch_Name "I'll pick you up."
-    ch_Name ""
+    ch_Name "Ik zal je ophalen."
 
 # game/logic/events/haley.rpy:300
 translate dutch Haley_1_label_2b39e5c6:
 
     # Haley "Wait, wait, wait, wait, wait, wait."
-    Haley ""
+    Haley "Wacht, wacht, wacht, wacht, wacht, wacht."
 
 # game/logic/events/haley.rpy:301
 translate dutch Haley_1_label_339ba79f:
 
     # Haley "Let's just make it tonight, okay?"
-    Haley ""
+    Haley "Laten we gewoon vanavond afspreken, oke?"
 
 # game/logic/events/haley.rpy:302
 translate dutch Haley_1_label_40f63cf1:
 
     # ch_Name "Okay, no problem."
-    ch_Name ""
+    ch_Name "Oke, geen probleem."
 
 # game/logic/events/haley.rpy:303
 translate dutch Haley_1_label_1eb7aee8:
 
     # ch_Name "Dates are usually at night, right?"
-    ch_Name ""
+    ch_Name "Dates zijn meestal 's avonds, toch?"
 
 # game/logic/events/haley.rpy:305
 translate dutch Haley_1_label_891be4b8:
@@ -340,13 +340,13 @@ translate dutch Haley_1_label_891be4b8:
 translate dutch Haley_1_label_809954e6:
 
     # ch_Name "All right, it's a deal."
-    ch_Name ""
+    ch_Name "Oke, afgesproken."
 
 # game/logic/events/haley.rpy:308
 translate dutch Haley_1_label_2b1649dc:
 
     # ch_Name "Maybe after cafe we can..."
-    ch_Name ""
+    ch_Name "Misschien kunnen we na het café..."
 
 # game/logic/events/haley.rpy:310
 translate dutch Haley_1_label_3e427bc2:
