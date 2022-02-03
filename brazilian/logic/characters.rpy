@@ -8,15 +8,15 @@ translate brazilian strings:
 
     # game/logic/characters.rpy:8
     old "Ring, ring..."
-    new ""
+    new "Trim, trim..."
 
     # game/logic/characters.rpy:9
     old "Radio"
-    new ""
+    new "Rádio"
 
     # game/logic/characters.rpy:10
     old "Note"
-    new ""
+    new "Bilhete"
 
     # game/logic/characters.rpy:11
     old "Adele"
@@ -132,7 +132,7 @@ translate brazilian strings:
 
     # game/logic/characters.rpy:40
     old "Mushroom Girl"
-    new ""
+    new "Garota cogumelo"
 
     # game/logic/characters.rpy:41
     old "Naomi"
@@ -176,17 +176,17 @@ translate brazilian strings:
 
     # game/logic/characters.rpy:52
     old "Unknown Man"
-    new ""
+    new "Homem desconhecido"
 
     # game/logic/characters.rpy:54
     old "Guy"
-    new ""
+    new "Cara"
 
     # game/logic/characters.rpy:55
     old "Unknown Girl"
-    new ""
+    new "Garota desconhecida"
 
     # game/logic/characters.rpy:59
     old "Unknown elf"
-    new ""
+    new "Elfo desconhecido"
 
