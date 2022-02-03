@@ -4,277 +4,277 @@
 translate russian cafe_event_ahchi_1_ed70a383:
 
     # ch_Name "{i}(And this cafe looks pretty cozy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(И это кафе выглядит довольно уютно.){/i}"
 
 # game/logic/events/ahchi.rpy:158
 translate russian cafe_event_ahchi_1_afa58c33:
 
     # ch_Name "{i}(And the barista, by the looks of it, is pretty friendly.){/i}"
-    ch_Name ""
+    ch_Name "{i}(А бариста, судя по всему, довольно дружелюбный.){/i}"
 
 # game/logic/events/ahchi.rpy:160
 translate russian cafe_event_ahchi_1_4beb2aa4:
 
     # Ahchi "Welcome to Coffee Hut!"
-    Ahchi ""
+    Ahchi "Добро пожаловать в Coffee Hut!"
 
 # game/logic/events/ahchi.rpy:161
 translate russian cafe_event_ahchi_1_cf890f6f:
 
     # Ahchi "My name is Ahchi and I'm your barista today. Can I give you a hint?"
-    Ahchi ""
+    Ahchi "Меня зовут Ahchi, и сегодня я ваш бариста. Могу я чем-то помочь?"
 
 # game/logic/events/ahchi.rpy:162
 translate russian cafe_event_ahchi_1_991506a1:
 
     # ch_Name "Hi! Actually, I'm just looking around."
-    ch_Name ""
+    ch_Name "Привет! На самом деле, я просто осматриваюсь."
 
 # game/logic/events/ahchi.rpy:163
 translate russian cafe_event_ahchi_1_95cd2644:
 
     # Ahchi "You haven't been here before, have you? I would have remembered."
-    Ahchi ""
+    Ahchi "Вы не были здесь раньше, не так ли? Я бы запомнил."
 
 # game/logic/events/ahchi.rpy:165
 translate russian cafe_event_ahchi_1_f6e67db7:
 
     # ch_Name "It's my first time here. I thought you just opened recently."
-    ch_Name ""
+    ch_Name "Я здесь впервые. Я думал, вы только недавно открылись."
 
 # game/logic/events/ahchi.rpy:166
 translate russian cafe_event_ahchi_1_38ca76b8:
 
     # Ahchi "It's actually the oldest coffee shop in town."
-    Ahchi ""
+    Ahchi "На самом деле это самая старая кофейня в городе."
 
 # game/logic/events/ahchi.rpy:167
 translate russian cafe_event_ahchi_1_8f31f6c8:
 
     # Ahchi "But we've been renovating for a long time. The old place had become unusable."
-    Ahchi ""
+    Ahchi "Но ремонт делаем долго. Старое место стало непригодным."
 
 # game/logic/events/ahchi.rpy:168
 translate russian cafe_event_ahchi_1_dae9a04a:
 
     # ch_Name "Old dilapidated?"
-    ch_Name ""
+    ch_Name "Старое место стало ветхим?"
 
 # game/logic/events/ahchi.rpy:169
 translate russian cafe_event_ahchi_1_1f2b72a4:
 
     # Ahchi "Pretty much. Somebody decided to brew coffee on boom beans and, well..."
-    Ahchi ""
+    Ahchi "Достаточно. Кто-то решил сварить кофе на бобах бум и, ну..."
 
 # game/logic/events/ahchi.rpy:170
 translate russian cafe_event_ahchi_1_f5fe21a5:
 
     # Ahchi "We had to rebuild."
-    Ahchi ""
+    Ahchi "Нам пришлось перестраиваться."
 
 # game/logic/events/ahchi.rpy:172
 translate russian cafe_event_ahchi_1_ad93ee09:
 
     # ch_Name "What happens if you brew coffee on boom beans?"
-    ch_Name ""
+    ch_Name "Что будет, если заварить кофе на бобах бум?"
 
 # game/logic/events/ahchi.rpy:173
 translate russian cafe_event_ahchi_1_3817dd44:
 
     # ch_Name "I just started studying magic. Here at Cordale."
-    ch_Name ""
+    ch_Name "Я только начал изучать магию. Здесь, в Cordale."
 
 # game/logic/events/ahchi.rpy:174
 translate russian cafe_event_ahchi_1_5749486b:
 
     # Ahchi "Oh, so you're a Cordale student. That's wonderful!"
-    Ahchi ""
+    Ahchi "О, так ты студент Cordale. Это прекрасно!"
 
 # game/logic/events/ahchi.rpy:175
 translate russian cafe_event_ahchi_1_dab28ba3:
 
     # Ahchi "Always a pleasure to meet future magicians!"
-    Ahchi ""
+    Ahchi "Всегда приятно познакомиться с будущими магами!"
 
 # game/logic/events/ahchi.rpy:177
 translate russian cafe_event_ahchi_1_d592d55e:
 
     # Ahchi "Boom beans explode and burn when heated if not processed."
-    Ahchi ""
+    Ahchi "Бобы бум взрываются и горят при нагревании, если их не обработать."
 
 # game/logic/events/ahchi.rpy:178
 translate russian cafe_event_ahchi_1_320b4a46:
 
     # ch_Name "So there you have it!"
-    ch_Name ""
+    ch_Name "Вот оно что!"
 
 # game/logic/events/ahchi.rpy:179
 translate russian cafe_event_ahchi_1_c5b05c48:
 
     # ch_Name "So why would anyone add them to their coffee?"
-    ch_Name ""
+    ch_Name "Так зачем кому-то добавлять их в свой кофе?"
 
 # game/logic/events/ahchi.rpy:181
 translate russian cafe_event_ahchi_1_6df358d1:
 
     # Ahchi "Huh... I wish I knew!"
-    Ahchi ""
+    Ahchi "Ха... Хотел бы я знать!"
 
 # game/logic/events/ahchi.rpy:182
 translate russian cafe_event_ahchi_1_9eacd2da:
 
     # Ahchi "But there's no way to ask him anymore."
-    Ahchi ""
+    Ahchi "Но больше нет возможности спросить его."
 
 # game/logic/events/ahchi.rpy:183
 translate russian cafe_event_ahchi_1_cff19cd1:
 
     # ch_Name "{i}(That even sounded kind of threatening...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Это даже звучало угрожающе...){/i}"
 
 # game/logic/events/ahchi.rpy:184
 translate russian cafe_event_ahchi_1_7f53db2a:
 
     # ch_Name "{i}(In a magical world even working in a cafe can be dangerous.){/i}"
-    ch_Name ""
+    ch_Name "{i}(В волшебном мире даже работа в кафе может быть опасной.){/i}"
 
 # game/logic/events/ahchi.rpy:186
 translate russian cafe_event_ahchi_1_626355f5:
 
     # Ahchi "Anyway, we're now open again and Cordale students are always welcome."
-    Ahchi ""
+    Ahchi "В любом случае, теперь мы снова открыты, и студенты Cordale всегда здесь приветствуются."
 
 # game/logic/events/ahchi.rpy:187
 translate russian cafe_event_ahchi_1_b3f24677:
 
     # ch_Name "Good to know."
-    ch_Name ""
+    ch_Name "Рад слышать."
 
 # game/logic/events/ahchi.rpy:188
 translate russian cafe_event_ahchi_1_1b09fef6:
 
     # ch_Name "I'll be sure to check in on you guys."
-    ch_Name ""
+    ch_Name "Я обязательно загляну к вам, ребята."
 
 # game/logic/events/ahchi.rpy:190
 translate russian cafe_event_ahchi_1_fa95b123:
 
     # Ahchi "I'll take you up on that! I always need customers."
-    Ahchi ""
+    Ahchi "Ловлю вас на слове! Мне всегда нужны клиенты."
 
 # game/logic/events/ahchi.rpy:191
 translate russian cafe_event_ahchi_1_ec3fee92:
 
     # Ahchi "It was a pleasure to meet you."
-    Ahchi ""
+    Ahchi "Было приятно встретиться с вами."
 
 # game/logic/events/ahchi.rpy:214
 translate russian CF_S1_label_5c232053:
 
     # ch_Name "{i}(Do I really see Sam and Audrey in the flesh sitting at that table over there?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Действительно ли я вижу Sam и Audrey, сидящих за тем столиком?){/i}"
 
 # game/logic/events/ahchi.rpy:215
 translate russian CF_S1_label_8ccb5c30:
 
     # ch_Name "{i}(And I kept wondering where they were going on weekends.){/i}"
-    ch_Name ""
+    ch_Name "{i}(А я все думал, куда они ходят по выходным.){/i}"
 
 # game/logic/events/ahchi.rpy:216
 translate russian CF_S1_label_3ef80d31:
 
     # ch_Name "{i}(And only look at them!){/i}"
-    ch_Name ""
+    ch_Name "{i}(И только посмотрите на них!){/i}"
 
 # game/logic/events/ahchi.rpy:217
 translate russian CF_S1_label_2652343a:
 
     # ch_Name "{i}(Laughing on something that hard!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Настолько сильно смеятся над чем-то!){/i}"
 
 # game/logic/events/ahchi.rpy:218
 translate russian CF_S1_label_d380846d:
 
     # ch_Name "{i}(I'm sure they wouldn't mind me joining them.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Уверен, что они не будут возражать, если я к ним присоединюсь.){/i}"
 
 # game/logic/events/ahchi.rpy:220
 translate russian CF_S1_label_808c6128:
 
     # ch_Name "Hello!"
-    ch_Name ""
+    ch_Name "Привет!"
 
 # game/logic/events/ahchi.rpy:221
 translate russian CF_S1_label_093532ce:
 
     # Samantha "[Name]! It's really surprising to see you here."
-    Samantha ""
+    Samantha "[Name]! Это действительно удивительно видеть тебя здесь. "
 
 # game/logic/events/ahchi.rpy:222
 translate russian CF_S1_label_fc12dca9:
 
     # Samantha "Do you want to come sit with us?"
-    Samantha ""
+    Samantha "Хочешь посидеть с нами?"
 
 # game/logic/events/ahchi.rpy:223
 translate russian CF_S1_label_6fc813c9:
 
     # ch_Name "Only if Audrey is okay with that."
-    ch_Name ""
+    ch_Name "Только если Audrey согласится."
 
 # game/logic/events/ahchi.rpy:225
 translate russian CF_S1_label_4e73fd86:
 
     # Audrey "I'm in too good mood, dummy."
-    Audrey ""
+    Audrey "Я в слишком хорошем настроении, тупица"
 
 # game/logic/events/ahchi.rpy:226
 translate russian CF_S1_label_803f8558:
 
     # Audrey "So make yourself comfortable."
-    Audrey ""
+    Audrey "Так что располагайся поудобнее."
 
 # game/logic/events/ahchi.rpy:227
 translate russian CF_S1_label_c8fbd8a4:
 
     # ch_Name "{i}(Good start!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Хорошее начало!{/i}"
 
 # game/logic/events/ahchi.rpy:229
 translate russian CF_S1_label_96d56c18:
 
     # ch_Name "What are you drinking?"
-    ch_Name ""
+    ch_Name "Что вы пьёте?"
 
 # game/logic/events/ahchi.rpy:230
 translate russian CF_S1_label_92165d5d:
 
     # Samantha "Pumpkin latte."
-    Samantha ""
+    Samantha "Тыквенный латте."
 
 # game/logic/events/ahchi.rpy:231
 translate russian CF_S1_label_db7af07c:
 
     # Samantha "Smells so spicy!"
-    Samantha ""
+    Samantha "Пахнет так пряно!"
 
 # game/logic/events/ahchi.rpy:232
 translate russian CF_S1_label_fd6f0cf5:
 
     # ch_Name "Mmmm!"
-    ch_Name ""
+    ch_Name "Мммм!"
 
 # game/logic/events/ahchi.rpy:234
 translate russian CF_S1_label_05b01b04:
 
     # ch_Name "To tell the truth, I've been watching you a little bit."
-    ch_Name ""
+    ch_Name "Честно говоря, я немного понаблюдал за вами."
 
 # game/logic/events/ahchi.rpy:235
 translate russian CF_S1_label_0f512dfb:
 
     # Audrey "You look like the person who likes to peek."
-    Audrey ""
+    Audrey "Ты похож на человека, который любит подглядывать."
 
 # game/logic/events/ahchi.rpy:236
 translate russian CF_S1_label_89cdb366:
@@ -286,355 +286,355 @@ translate russian CF_S1_label_89cdb366:
 translate russian CF_S1_label_7e92f4bf:
 
     # ch_Name "And now I'm wonder what were you laughing at before I came."
-    ch_Name ""
+    ch_Name "И теперь мне интересно, над чем вы смеялись до того, как я пришел."
 
 # game/logic/events/ahchi.rpy:238
 translate russian CF_S1_label_893eb336:
 
     # ch_Name "What can make you laugh that hard?"
-    ch_Name ""
+    ch_Name "«Что может заставить вас так смеяться?"
 
 # game/logic/events/ahchi.rpy:240
 translate russian CF_S1_label_d2d8761b:
 
     # Samantha "Ha-ha-ha-ha."
-    Samantha ""
+    Samantha "Ха-ха-ха-ха."
 
 # game/logic/events/ahchi.rpy:241
 translate russian CF_S1_label_fd236a41:
 
     # Samantha "We just remember our freshman year."
-    Samantha ""
+    Samantha "Мы просто вспомнили наш первый год."
 
 # game/logic/events/ahchi.rpy:242
 translate russian CF_S1_label_ab5dcd1d:
 
     # Samantha "All these new people, first impressions, emotions, parties and lots of fun!"
-    Samantha ""
+    Samantha "Все эти новые люди, первые впечатления, эмоции, вечеринки и море веселья!"
 
 # game/logic/events/ahchi.rpy:243
 translate russian CF_S1_label_89d7466f:
 
     # Samantha "Freshman year is all the college is about."
-    Samantha ""
+    Samantha "Первый год самый лучший."
 
 # game/logic/events/ahchi.rpy:245
 translate russian CF_S1_label_e46f8790:
 
     # ch_Name "Only freshman year?"
-    ch_Name ""
+    ch_Name "Только первый?"
 
 # game/logic/events/ahchi.rpy:246
 translate russian CF_S1_label_a2a548df:
 
     # Samantha "First grade is the best time for gaining the most amazing experience of student life!"
-    Samantha ""
+    Samantha "Первый курс – лучшее время для получения самого удивительного опыта студенческой жизни!"
 
 # game/logic/events/ahchi.rpy:247
 translate russian CF_S1_label_a8df2a98:
 
     # Samantha "Having experienced it, people usually become more serious and more boring."
-    Samantha ""
+    Samantha "Пережив его, люди обычно становятся серьезнее и скучнее."
 
 # game/logic/events/ahchi.rpy:248
 translate russian CF_S1_label_f8755a35:
 
     # Samantha "Take more responsibilities and duties."
-    Samantha ""
+    Samantha "Берут на себя больше ответственности и обязанностей."
 
 # game/logic/events/ahchi.rpy:249
 translate russian CF_S1_label_1bf9f7d8:
 
     # ch_Name "So it appears that now is the best time of my life?"
-    ch_Name ""
+    ch_Name "Получается, что сейчас самое лучшее время в моей жизни?"
 
 # game/logic/events/ahchi.rpy:251
 translate russian CF_S1_label_6f12b7ef:
 
     # Samantha "It's supposed to be so."
-    Samantha ""
+    Samantha "Должно быть да."
 
 # game/logic/events/ahchi.rpy:252
 translate russian CF_S1_label_d69e14fe:
 
     # ch_Name "And I have never been to a party here!"
-    ch_Name ""
+    ch_Name "А я никогда не был на вечеринке здесь!"
 
 # game/logic/events/ahchi.rpy:253
 translate russian CF_S1_label_8ae011a6:
 
     # Audrey "It's only your fault."
-    Audrey ""
+    Audrey "Это только твоя вина."
 
 # game/logic/events/ahchi.rpy:254
 translate russian CF_S1_label_8a723d9e:
 
     # Audrey "During our first year there were lots of hangouts, but only because we organised them."
-    Audrey ""
+    Audrey "В наш первый год было много тусовок, но только потому, что мы их организовывали."
 
 # game/logic/events/ahchi.rpy:255
 translate russian CF_S1_label_0f977082:
 
     # Audrey "And gathered people together."
-    Audrey ""
+    Audrey "И собирали людей вместе."
 
 # game/logic/events/ahchi.rpy:257
 translate russian CF_S1_label_4f217a6f:
 
     # Audrey "Once we even invited Professors to spend time with us."
-    Audrey ""
+    Audrey "Однажды мы даже пригласили профессоров провести с нами время."
 
 # game/logic/events/ahchi.rpy:258
 translate russian CF_S1_label_1b67e978:
 
     # ch_Name "What are you talking about?"
-    ch_Name ""
+    ch_Name "О чем ты говоришь?"
 
 # game/logic/events/ahchi.rpy:259
 translate russian CF_S1_label_a5d0935a:
 
     # ch_Name "Has someone really come?"
-    ch_Name ""
+    ch_Name "Кто-то действительно пришел?"
 
 # game/logic/events/ahchi.rpy:260
 translate russian CF_S1_label_7e7dda39:
 
     # Samantha "I think that they took it more as a joke."
-    Samantha ""
+    Samantha "Я думаю, что они восприняли это больше как шутку."
 
 # game/logic/events/ahchi.rpy:261
 translate russian CF_S1_label_549a5a88:
 
     # Samantha "And even if they wanted it, they were too afraid to damage their reputation."
-    Samantha ""
+    Samantha "И даже если бы они этого хотели, то слишком боялись повредить своей репутации."
 
 # game/logic/events/ahchi.rpy:263
 translate russian CF_S1_label_f99bbe72:
 
     # Audrey "Stop, maybe I'm mistaken, but I remember Victoria on one of our party."
-    Audrey ""
+    Audrey "Стоп, может я ошибаюсь, но я помню Victoria на одной из наших вечеринок."
 
 # game/logic/events/ahchi.rpy:264
 translate russian CF_S1_label_57edb19d:
 
     # Samantha "Oh, God, exactly!"
-    Samantha ""
+    Samantha "О, Боже, точно!"
 
 # game/logic/events/ahchi.rpy:265
 translate russian CF_S1_label_df564ac7:
 
     # Samantha "She really came! How could I forget it?"
-    Samantha ""
+    Samantha "Она действительно пришла! Как я могла забыть это?"
 
 # game/logic/events/ahchi.rpy:266
 translate russian CF_S1_label_7c865668:
 
     # ch_Name "What!? Victoria?"
-    ch_Name ""
+    ch_Name "Что!? Victoria?"
 
 # game/logic/events/ahchi.rpy:268
 translate russian CF_S1_label_24fc585e:
 
     # Audrey "Yes! And she was pretty cool."
-    Audrey ""
+    Audrey "Да! И она была довольно крутой."
 
 # game/logic/events/ahchi.rpy:269
 translate russian CF_S1_label_71b8d9dd:
 
     # Audrey "Sipping her \"Sex on the beach\" and talking..."
-    Audrey ""
+    Audrey "Потягивая ее \"Секс на пляже\" и разговаривая..."
 
 # game/logic/events/ahchi.rpy:270
 translate russian CF_S1_label_cd09b991:
 
     # Audrey "...how in reality sex on the beach can be the worst idea ever."
-    Audrey ""
+    Audrey "...как на самом деле секс на пляже может быть худшей идеей."
 
 # game/logic/events/ahchi.rpy:271
 translate russian CF_S1_label_f5823ad2:
 
     # Audrey "Even I was drooling on her in that time."
-    Audrey ""
+    Audrey "Даже я пускала на нее слюни в то время."
 
 # game/logic/events/ahchi.rpy:272
 translate russian CF_S1_label_19c20359:
 
     # ch_Name "After your story I start to feel how much I'm missing."
-    ch_Name ""
+    ch_Name "После твоего рассказа я начинаю чувствовать, как много мне не хватает."
 
 # game/logic/events/ahchi.rpy:273
 translate russian CF_S1_label_a88fa3a6:
 
     # Audrey "What's stopping you?"
-    Audrey ""
+    Audrey "Что тебя останавливает?"
 
 # game/logic/events/ahchi.rpy:275
 translate russian CF_S1_label_5e231afa:
 
     # Samantha "You can suggest Lily or Haley to organize the party."
-    Samantha ""
+    Samantha "Ты можешь предложить Lily или Haley организовать вечеринку."
 
 # game/logic/events/ahchi.rpy:276
 translate russian CF_S1_label_df34c824:
 
     # Samantha "I'm sure they will be happy to help you."
-    Samantha ""
+    Samantha "Я уверен, что они будут рады помочь тебе."
 
 # game/logic/events/ahchi.rpy:277
 translate russian CF_S1_label_a3669a6f:
 
     # ch_Name "Lily? Maybe. "
-    ch_Name ""
+    ch_Name "Lily? Возможно."
 
 # game/logic/events/ahchi.rpy:278
 translate russian CF_S1_label_cec8c478:
 
     # ch_Name "Haley? It's doubtful."
-    ch_Name ""
+    ch_Name "Haley? Сомнительно."
 
 # game/logic/events/ahchi.rpy:279
 translate russian CF_S1_label_62d93b79:
 
     # Samantha "But it's worth a shot."
-    Samantha ""
+    Samantha "Но попробовать стоит."
 
 # game/logic/events/ahchi.rpy:280
 translate russian CF_S1_label_3ae1385b:
 
     # Samantha "And you always can ask Audrey and me if there will be some organisational questions."
-    Samantha ""
+    Samantha "И вы всегда можете спросить у нас с Audrey, если будут какие-то организационные вопросы."
 
 # game/logic/events/ahchi.rpy:282
 translate russian CF_S1_label_2c098683:
 
     # ch_Name "Great!"
-    ch_Name ""
+    ch_Name "Здорово!"
 
 # game/logic/events/ahchi.rpy:283
 translate russian CF_S1_label_09a0149d:
 
     # ch_Name "I'm very passionate about this now!"
-    ch_Name ""
+    ch_Name "Я очень увлекся этим сейчас!"
 
 # game/logic/events/ahchi.rpy:284
 translate russian CF_S1_label_97ba8b3b:
 
     # Samantha "Just try to keep your enthusiasm for the moment then we come back to Academy."
-    Samantha ""
+    Samantha "Просто постарайся сохранить энтузиазм до тех пор, пока мы не вернемся в Академию."
 
 # game/logic/events/ahchi.rpy:285
 translate russian CF_S1_label_e11cca33:
 
     # ch_Name "Ha-ha-ha, that's not a problem."
-    ch_Name ""
+    ch_Name "Ха-ха-ха, это не проблема."
 
 # game/logic/events/ahchi.rpy:287
 translate russian CF_S1_label_2eb3991d:
 
     # Audrey "I think it's time for us to go, Sam."
-    Audrey ""
+    Audrey "Думаю, нам пора идти, Sam."
 
 # game/logic/events/ahchi.rpy:288
 translate russian CF_S1_label_03613736:
 
     # Samantha "Already?"
-    Samantha ""
+    Samantha "Уже?"
 
 # game/logic/events/ahchi.rpy:289
 translate russian CF_S1_label_31d7c569:
 
     # Audrey "Yep. Our friends are waiting for us."
-    Audrey ""
+    Audrey "Ага. Наши друзья ждут нас."
 
 # game/logic/events/ahchi.rpy:291
 translate russian CF_S1_label_0d53fa48:
 
     # Samantha "Okay, come along then."
-    Samantha ""
+    Samantha "Ладно, тогда пошли."
 
 # game/logic/events/ahchi.rpy:292
 translate russian CF_S1_label_f4899b6e:
 
     # ch_Name "I will probably go too."
-    ch_Name ""
+    ch_Name "Я, пожалуй, тоже пойду."
 
 # game/logic/events/ahchi.rpy:293
 translate russian CF_S1_label_76b42bfd:
 
     # ch_Name "There are so many opportunities to go somewhere else!"
-    ch_Name ""
+    ch_Name "Тут так много возможностей пойти куда-нибудь еще!"
 
 # game/logic/events/ahchi.rpy:294
 translate russian CF_S1_label_28a98ab9:
 
     # Audrey "Good luck, then."
-    Audrey ""
+    Audrey "Что ж, удачи."
 
 # game/logic/events/ahchi.rpy:295
 translate russian CF_S1_label_9a458d38:
 
     # Samantha "It was nice to meet you, [Name]."
-    Samantha ""
+    Samantha "Было приятно встретить тебя, [Name]."
 
 # game/logic/events/ahchi.rpy:296
 translate russian CF_S1_label_20d84f11:
 
     # ch_Name "See you!"
-    ch_Name ""
+    ch_Name "Увидимся!"
 
 # game/logic/events/ahchi.rpy:307
 translate russian CF_S1_label_a71f0f46:
 
     # ch_Name "{i}(They aren't really in a hurry to pack up and leave.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Они не торопятся собираться и уходить.){/i}"
 
 # game/logic/events/ahchi.rpy:308
 translate russian CF_S1_label_29649df3:
 
     # ch_Name "{i}(Maybe they just wanted to get rid of me fast.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Может быть, они просто хотели поскорее избавиться от меня.){/i}"
 
 # game/logic/events/ahchi.rpy:309
 translate russian CF_S1_label_a5e30786:
 
     # ch_Name "{i}(That's okay. I've got a lot to do, too.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Все в порядке. У меня тоже много дел.){/i}"
 
 # game/logic/events/ahchi.rpy:310
 translate russian CF_S1_label_558039a9:
 
     # ch_Name "{i}(Especially since I wanted to sign up for a massage.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Тем более, что я хотела записаться на массаж.){/i}"
 
 # game/logic/events/ahchi.rpy:312
 translate russian CF_S1_label_888f9f54:
 
     # ch_Name "{i}(Yes, it's time to go to the spa.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Да, пора в спа.){/i}"
 
 # game/logic/events/ahchi.rpy:313
 translate russian CF_S1_label_a3bb22cc:
 
     # ch_Name "{i}(Something interesting always happens to me there.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Со мной там всегда происходит что-то интересное.){/i}"
 
 # game/logic/events/ahchi.rpy:315
 translate russian CF_S1_label_38958f10:
 
     # ch_Name "{i}(And a sore leg could use some professional care.){/i}"
-    ch_Name ""
+    ch_Name "{i}(А больной ноге не помешал бы профессиональный уход.){/i}"
 
 # game/logic/events/ahchi.rpy:316
 translate russian CF_S1_label_d223421d:
 
     # ch_Name "{i}(Although I'm much more interested in seeing how far I can go with a masseuse.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Хотя меня гораздо больше интересует, как далеко я могу зайти с массажисткой.){/i}"
 
 # game/logic/events/ahchi.rpy:317
 translate russian CF_S1_label_d56475a4:
 
     # ch_Name "{i}(Let's see if I can get her a spicy massage.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Посмотрим, смогу ли я получить от нее пикантный массаж.){/i}"
 
 # game/logic/events/ahchi.rpy:325
 translate russian CF_S2_label_0c27e4c3:
@@ -652,853 +652,853 @@ translate russian CF_S2_label_09bb04bc:
 translate russian CF_S2_label_4879157b:
 
     # ch_Name "Nice to meet you!"
-    ch_Name ""
+    ch_Name "Рад встрече!"
 
 # game/logic/events/ahchi.rpy:329
 translate russian CF_S2_label_8b5f7fef:
 
     # ch_Name "Hello, Audrey!"
-    ch_Name ""
+    ch_Name "Привет, Audrey!"
 
 # game/logic/events/ahchi.rpy:330
 translate russian CF_S2_label_b54fd0f5:
 
     # Audrey "Uh, hey there."
-    Audrey ""
+    Audrey "Эй, привет."
 
 # game/logic/events/ahchi.rpy:331
 translate russian CF_S2_label_75c25663:
 
     # ch_Name "Charming, as always."
-    ch_Name ""
+    ch_Name "Очаровательные, как всегда."
 
 # game/logic/events/ahchi.rpy:332
 translate russian CF_S2_label_38fefe70:
 
     # ch_Name "Give me a second, I'll order something."
-    ch_Name ""
+    ch_Name "Дайте мне секунду, я закажу что-нибудь."
 
 # game/logic/events/ahchi.rpy:334
 translate russian CF_S2_label_7170960b:
 
     # ch_Name "Good evening!"
-    ch_Name ""
+    ch_Name "Добрый вечер!"
 
 # game/logic/events/ahchi.rpy:335
 translate russian CF_S2_label_91547865:
 
     # Ahchi "Hello!"
-    Ahchi ""
+    Ahchi "Привет!"
 
 # game/logic/events/ahchi.rpy:336
 translate russian CF_S2_label_374b4071:
 
     # Ahchi "What can I get for you today?"
-    Ahchi ""
+    Ahchi "Что я могу предложить вам сегодня?"
 
 # game/logic/events/ahchi.rpy:337
 translate russian CF_S2_label_bc66a0a7:
 
     # ch_Name "Hmmmm..."
-    ch_Name ""
+    ch_Name "Хмммм..."
 
 # game/logic/events/ahchi.rpy:338
 translate russian CF_S2_label_badb2dff:
 
     # ch_Name "Let me think for a little bit."
-    ch_Name ""
+    ch_Name "Дайте мне немного подумать."
 
 # game/logic/events/ahchi.rpy:340
 translate russian CF_S2_label_d5e97d21:
 
     # Ahchi "Do you like gluhwein?"
-    Ahchi ""
+    Ahchi "Вам нравится глинтвейн?"
 
 # game/logic/events/ahchi.rpy:341
 translate russian CF_S2_label_b883e520:
 
     # Ahchi "I've just made a little bit."
-    Ahchi ""
+    Ahchi "Я только что сделал немного."
 
 # game/logic/events/ahchi.rpy:342
 translate russian CF_S2_label_917c1871:
 
     # Ahchi "And I swear you, nothing on earth smells so heavenly as a freshly brewed gluhwein."
-    Ahchi ""
+    Ahchi "И клянусь вам, ничто на свете не пахнет так божественно, как свежесваренный глинтвейн."
 
 # game/logic/events/ahchi.rpy:343
 translate russian CF_S2_label_4ab47c86:
 
     # ch_Name "The smell is really incredible!"
-    ch_Name ""
+    ch_Name "Запах действительно невероятный!"
 
 # game/logic/events/ahchi.rpy:344
 translate russian CF_S2_label_952b1da5:
 
     # ch_Name "I'd love to have a cup, then."
-    ch_Name ""
+    ch_Name "Тогда я бы с удовольствием выпил чашку."
 
 # game/logic/events/ahchi.rpy:346
 translate russian CF_S2_label_d93fdbdd:
 
     # Ahchi "Here you're!"
-    Ahchi ""
+    Ahchi "Держите!"
 
 # game/logic/events/ahchi.rpy:347
 translate russian CF_S2_label_ee196407:
 
     # ch_Name "Mmmmm!"
-    ch_Name ""
+    ch_Name "Ммммм!"
 
 # game/logic/events/ahchi.rpy:348
 translate russian CF_S2_label_84d3dc7e:
 
     # ch_Name "Thank you!"
-    ch_Name ""
+    ch_Name "Спасибо!"
 
 # game/logic/events/ahchi.rpy:349
 translate russian CF_S2_label_64554168:
 
     # ch_Name "Seems I will come here more often."
-    ch_Name ""
+    ch_Name "Кажется, я буду приходить сюда чаще."
 
 # game/logic/events/ahchi.rpy:351
 translate russian CF_S2_label_48d16d2f:
 
     # ch_Name "Really like the atmosphere here."
-    ch_Name ""
+    ch_Name "Мне очень нравится здешняя атмосфера."
 
 # game/logic/events/ahchi.rpy:352
 translate russian CF_S2_label_8661587b:
 
     # ch_Name "And drinks are amazing!"
-    ch_Name ""
+    ch_Name "И напитки потрясающие!"
 
 # game/logic/events/ahchi.rpy:353
 translate russian CF_S2_label_370922c2:
 
     # Ahchi "That's good to hear."
-    Ahchi ""
+    Ahchi "Приятно слышать."
 
 # game/logic/events/ahchi.rpy:354
 translate russian CF_S2_label_232c9dfc:
 
     # Ahchi "You're welcome!"
-    Ahchi ""
+    Ahchi "Пожалуйста!"
 
 # game/logic/events/ahchi.rpy:355
 translate russian CF_S2_label_6cf1eb2a:
 
     # ch_Name "So, How's it going?"
-    ch_Name ""
+    ch_Name "Итак, как дела?"
 
 # game/logic/events/ahchi.rpy:357
 translate russian CF_S2_label_3770a889:
 
     # Audrey "[Name], you have a talent to show up at the exactly right time."
-    Audrey ""
+    Audrey "[Name], у тебя есть талант появляться в нужное время."
 
 # game/logic/events/ahchi.rpy:358
 translate russian CF_S2_label_bd67f888:
 
     # ch_Name "What do you mean?"
-    ch_Name ""
+    ch_Name "Что ты имеешь в виду?"
 
 # game/logic/events/ahchi.rpy:359
 translate russian CF_S2_label_2f6e4c92:
 
     # Audrey "I'm trying to crack at Sam."
-    Audrey ""
+    Audrey "Я пытаюсь взломать Sam."
 
 # game/logic/events/ahchi.rpy:360
 translate russian CF_S2_label_aa92d77e:
 
     # Audrey "She doesn't want to tell her best friend what is her type of guy, can you imagine that?"
-    Audrey ""
+    Audrey "Она не хочет говорить своей лучшей подруге, какой у нее тип парней, представляешь?"
 
 # game/logic/events/ahchi.rpy:361
 translate russian CF_S2_label_f02f5fce:
 
     # Audrey "And that's really offensive, I can say."
-    Audrey ""
+    Audrey "И это действительно оскорбительно, я могу сказать."
 
 # game/logic/events/ahchi.rpy:363
 translate russian CF_S2_label_b3c37acd:
 
     # Audrey "That's mean that for you I can't be trusted!"
-    Audrey ""
+    Audrey "Это значит, что по твоему мнению мне нельзя доверять!"
 
 # game/logic/events/ahchi.rpy:364
 translate russian CF_S2_label_c0662c1e:
 
     # Samantha "I only say that I'm not locked into one specific type of person."
-    Samantha ""
+    Samantha "Я только говорю, что я не зациклена на одном конкретном типе людей."
 
 # game/logic/events/ahchi.rpy:365
 translate russian CF_S2_label_e4241c6e:
 
     # Samantha "Appearance isn't everything for me."
-    Samantha ""
+    Samantha "Внешний вид для меня не главное."
 
 # game/logic/events/ahchi.rpy:366
 translate russian CF_S2_label_806845df:
 
     # Samantha "And even if we talk also about personality, then..."
-    Samantha ""
+    Samantha "А если говорить еще и о личности, то..."
 
 # game/logic/events/ahchi.rpy:367
 translate russian CF_S2_label_ecc46a3d:
 
     # Samantha "People are so different!"
-    Samantha ""
+    Samantha "Люди такие разные!"
 
 # game/logic/events/ahchi.rpy:369
 translate russian CF_S2_label_61a74e98:
 
     # Samantha "How can I choose only one particular type?"
-    Samantha ""
+    Samantha "Как я могу выбрать только один конкретный тип?"
 
 # game/logic/events/ahchi.rpy:370
 translate russian CF_S2_label_ecd75ebc:
 
     # ch_Name "Audrey, what's about you?"
-    ch_Name ""
+    ch_Name "Audrey, что с тобой?"
 
 # game/logic/events/ahchi.rpy:371
 translate russian CF_S2_label_9c90325b:
 
     # ch_Name "Do you have a type?"
-    ch_Name ""
+    ch_Name "У тебя есть предпочтения?"
 
 # game/logic/events/ahchi.rpy:372
 translate russian CF_S2_label_fc36f27d:
 
     # Audrey "Absolutely yes!"
-    Audrey ""
+    Audrey "Абсолютно да!"
 
 # game/logic/events/ahchi.rpy:373
 translate russian CF_S2_label_9012df44:
 
     # Audrey "I'm into emotional musicians with tattoos, light eyes, long dark hair and some sort of facial hair."
-    Audrey ""
+    Audrey "Мне нравятся эмоциональные музыканты с татуировками, светлыми глазами, длинными темными волосами и растительностью на лице."
 
 # game/logic/events/ahchi.rpy:375
 translate russian CF_S2_label_8fc8fbc5:
 
     # Audrey "Kind of a meathead in public, but able to be a sweetheart in private."
-    Audrey ""
+    Audrey "Типа тупоголовый на публике, но способный быть милым наедине."
 
 # game/logic/events/ahchi.rpy:376
 translate russian CF_S2_label_5d5f6a4b:
 
     # Audrey "I've hanged out with other guys, but it was more about on-call fuck buddies."
-    Audrey ""
+    Audrey "Я тусовался с другими парнями, но это было больше о приятелях по вызову."
 
 # game/logic/events/ahchi.rpy:377
 translate russian CF_S2_label_3ef5256d:
 
     # Audrey "And girls, hmm..."
-    Audrey ""
+    Audrey "А девушки, хмм..."
 
 # game/logic/events/ahchi.rpy:378
 translate russian CF_S2_label_07223130:
 
     # Audrey "Not too bitchy redheads with ass, I'd say."
-    Audrey ""
+    Audrey "Не слишком стервозные рыжие с задницей, я бы сказала."
 
 # game/logic/events/ahchi.rpy:380
 translate russian CF_S2_label_b18bf5b0:
 
     # Audrey "But sometimes I also attracted to other types of girls as well."
-    Audrey ""
+    Audrey "Но иногда меня привлекали и другие типы девушек."
 
 # game/logic/events/ahchi.rpy:381
 translate russian CF_S2_label_eeab8096:
 
     # Audrey "That's it! Not too hard to answer, see?"
-    Audrey ""
+    Audrey "Вот и все! Не слишком сложно ответить, понимаешь?"
 
 # game/logic/events/ahchi.rpy:382
 translate russian CF_S2_label_03ca346d:
 
     # Samantha "I can describe the last one type of the guy I liked."
-    Samantha ""
+    Samantha "Я могу описать последний тип парня, который мне нравился."
 
 # game/logic/events/ahchi.rpy:383
 translate russian CF_S2_label_f34e4c94:
 
     # Audrey "It's already something."
-    Audrey ""
+    Audrey "Это уже хоть что-то."
 
 # game/logic/events/ahchi.rpy:385
 translate russian CF_S2_label_2822792f:
 
     # Samantha "Mmm..."
-    Samantha ""
+    Samantha "Ммм..."
 
 # game/logic/events/ahchi.rpy:386
 translate russian CF_S2_label_5efe07c6:
 
     # Samantha "Middle-sized, with short dark hair and brown eyes."
-    Samantha ""
+    Samantha "Среднего роста, с короткими темными волосами и карими глазами."
 
 # game/logic/events/ahchi.rpy:387
 translate russian CF_S2_label_49e49e52:
 
     # Samantha "Someone smiley, easy-going..."
-    Samantha ""
+    Samantha "Кто-то улыбчивый, легкий на подъем..."
 
 # game/logic/events/ahchi.rpy:388
 translate russian CF_S2_label_f5f6c231:
 
     # Samantha "Caring and not ignorant."
-    Samantha ""
+    Samantha "Заботливый и не безразличный."
 
 # game/logic/events/ahchi.rpy:389
 translate russian CF_S2_label_6a6dabee:
 
     # Samantha "Into sport, but not a sports nut."
-    Samantha ""
+    Samantha "Спортивный, но не слишком."
 
 # game/logic/events/ahchi.rpy:391
 translate russian CF_S2_label_e0fbc4c8:
 
     # Audrey "Seems like you've described [Name]."
-    Audrey ""
+    Audrey "Похоже, ты описала [Name]."
 
 # game/logic/events/ahchi.rpy:392
 translate russian CF_S2_label_9c309c1b:
 
     # Samantha "Not at all."
-    Samantha ""
+    Samantha "Не совсем."
 
 # game/logic/events/ahchi.rpy:393
 translate russian CF_S2_label_1855220c:
 
     # ch_Name "What?"
-    ch_Name ""
+    ch_Name "Что?"
 
 # game/logic/events/ahchi.rpy:394
 translate russian CF_S2_label_19826f31:
 
     # ch_Name "{i}(That's how Audrey sees me?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Так меня видит Audrey?){/i}"
 
 # game/logic/events/ahchi.rpy:396
 translate russian CF_S2_label_bb881a7f:
 
     # Audrey "Yes!"
-    Audrey ""
+    Audrey "Да!"
 
 # game/logic/events/ahchi.rpy:397
 translate russian CF_S2_label_94730db8:
 
     # Audrey "Just look at him and face the reality."
-    Audrey ""
+    Audrey "Просто взгляни на него и посмотри правде в глаза."
 
 # game/logic/events/ahchi.rpy:398
 translate russian CF_S2_label_f817ce8a:
 
     # Samantha "You asked a question and I answered it."
-    Samantha ""
+    Samantha "Ты задала вопрос, и я ответила на него."
 
 # game/logic/events/ahchi.rpy:399
 translate russian CF_S2_label_e16605e2:
 
     # Samantha "That's all."
-    Samantha ""
+    Samantha "Это все."
 
 # game/logic/events/ahchi.rpy:400
 translate russian CF_S2_label_ecc55855:
 
     # Samantha "I'm just a little bit tired of this inquisition."
-    Samantha ""
+    Samantha "Я просто немного устала от этого расследования."
 
 # game/logic/events/ahchi.rpy:401
 translate russian CF_S2_label_00187b16:
 
     # Audrey "C'mon, I'm just kidding."
-    Audrey ""
+    Audrey "Да ладно, я просто шучу."
 
 # game/logic/events/ahchi.rpy:403
 translate russian CF_S2_label_92ea22b5:
 
     # Audrey "Let's go out, maybe?"
-    Audrey ""
+    Audrey "Может выйдем?"
 
 # game/logic/events/ahchi.rpy:404
 translate russian CF_S2_label_1ea61c6c:
 
     # Audrey "I'm a little bit tired of sitting here."
-    Audrey ""
+    Audrey "Я немного устала сидеть здесь."
 
 # game/logic/events/ahchi.rpy:405
 translate russian CF_S2_label_e17959da:
 
     # Samantha "Me too. "
-    Samantha ""
+    Samantha "Я тоже."
 
 # game/logic/events/ahchi.rpy:406
 translate russian CF_S2_label_aa9f9edb:
 
     # Samantha "Are you gonna join us?"
-    Samantha ""
+    Samantha "Ты присоединишься к нам?"
 
 # game/logic/events/ahchi.rpy:408
 translate russian CF_S2_label_fe2db6d9:
 
     # ch_Name "Nah."
-    ch_Name ""
+    ch_Name "Неа."
 
 # game/logic/events/ahchi.rpy:409
 translate russian CF_S2_label_332eae43:
 
     # ch_Name "Want to sit here for a while."
-    ch_Name ""
+    ch_Name "Хочу посидеть здесь немного."
 
 # game/logic/events/ahchi.rpy:410
 translate russian CF_S2_label_b4bd0e90:
 
     # Samantha "Have a good evening, then."
-    Samantha ""
+    Samantha "Тогда хорошего вечера."
 
 # game/logic/events/ahchi.rpy:411
 translate russian CF_S2_label_2ee7995b:
 
     # ch_Name "You too!"
-    ch_Name ""
+    ch_Name "И вам!"
 
 # game/logic/events/ahchi.rpy:413
 translate russian CF_S2_label_8583137b:
 
     # ch_Name "{i}(This place is so pleasant!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Это место такое приятное!){/i}"
 
 # game/logic/events/ahchi.rpy:414
 translate russian CF_S2_label_010e5fcb:
 
     # ch_Name "{i}(Everything is so cozy, and I have a feeling of being protected.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Все так уютно, и я чувствую себя защищенным.){/i}"
 
 # game/logic/events/ahchi.rpy:415
 translate russian CF_S2_label_1b960923:
 
     # ch_Name "{i}(I needed something like this.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Мне нужно было что-то подобное.){/i}"
 
 # game/logic/events/ahchi.rpy:429
 translate russian CF_S3_label_4d7c1aa5:
 
     # ch_Name "Good evening, girls!"
-    ch_Name ""
+    ch_Name "Добрый вечер, девушки!"
 
 # game/logic/events/ahchi.rpy:430
 translate russian CF_S3_label_f4b7a84b:
 
     # Samantha "[Name]! Nice to meet you!"
-    Samantha ""
+    Samantha "[Name]! Рада встрече!"
 
 # game/logic/events/ahchi.rpy:431
 translate russian CF_S3_label_2ccbdaaa:
 
     # ch_Name "Hope I'm not intruding."
-    ch_Name ""
+    ch_Name "Надеюсь, я не мешаю."
 
 # game/logic/events/ahchi.rpy:432
 translate russian CF_S3_label_9c309c1b:
 
     # Samantha "Not at all."
-    Samantha ""
+    Samantha "Не совсем."
 
 # game/logic/events/ahchi.rpy:434
 translate russian CF_S3_label_77659928:
 
     # Audrey "Just said to Sam that I can't imagine her as a child."
-    Audrey ""
+    Audrey "Просто сказал Sam, что не могу представить ее в детстве."
 
 # game/logic/events/ahchi.rpy:435
 translate russian CF_S3_label_58ec4f31:
 
     # Audrey "Sounds silly, I know."
-    Audrey ""
+    Audrey "Звучит глупо, я знаю."
 
 # game/logic/events/ahchi.rpy:436
 translate russian CF_S3_label_f86dd380:
 
     # Audrey "But in my head she's always been like now."
-    Audrey ""
+    Audrey "Но в моей голове она всегда была такой, как сейчас."
 
 # game/logic/events/ahchi.rpy:437
 translate russian CF_S3_label_d97e482b:
 
     # Audrey "I try to create another image in my head, but it's impossible."
-    Audrey ""
+    Audrey "Я пытаюсь создать в голове другой образ, но это невозможно."
 
 # game/logic/events/ahchi.rpy:439
 translate russian CF_S3_label_6adbddba:
 
     # Samantha "Ha-ha-ha, that's really funny."
-    Samantha ""
+    Samantha "Ха-ха-ха, это действительно смешно."
 
 # game/logic/events/ahchi.rpy:440
 translate russian CF_S3_label_c21c7bfd:
 
     # ch_Name "Didn't you get a look at the pictures with her as a little girl?"
-    ch_Name ""
+    ch_Name "Разве ты не видела фотографии с ней, когда она была маленькой девочкой?"
 
 # game/logic/events/ahchi.rpy:441
 translate russian CF_S3_label_db0892e4:
 
     # Audrey "Never!"
-    Audrey ""
+    Audrey "Никогда!"
 
 # game/logic/events/ahchi.rpy:442
 translate russian CF_S3_label_d6bd6206:
 
     # ch_Name "I can show you few."
-    ch_Name ""
+    ch_Name "Я могу показать тебе несколько."
 
 # game/logic/events/ahchi.rpy:444
 translate russian CF_S3_label_20c5e98d:
 
     # Samantha "No-no-no!"
-    Samantha ""
+    Samantha "Нет нет нет!"
 
 # game/logic/events/ahchi.rpy:445
 translate russian CF_S3_label_be31ce93:
 
     # ch_Name "But why?"
-    ch_Name ""
+    ch_Name "Но почему?"
 
 # game/logic/events/ahchi.rpy:446
 translate russian CF_S3_label_9dcd8ff5:
 
     # Samantha "I can't remember any good photo from my childhood."
-    Samantha ""
+    Samantha "Я не могу вспомнить ни одной хорошей фотографии из своего детства."
 
 # game/logic/events/ahchi.rpy:447
 translate russian CF_S3_label_64a72bb2:
 
     # Samantha "My parents weren't the best photographers."
-    Samantha ""
+    Samantha "Мои родители не были лучшими фотографами."
 
 # game/logic/events/ahchi.rpy:449
 translate russian CF_S3_label_680e1f6a:
 
     # ch_Name "C'mon, what are you talking about?"
-    ch_Name ""
+    ch_Name "Да ладно, о чем ты говоришь?"
 
 # game/logic/events/ahchi.rpy:450
 translate russian CF_S3_label_c5cb9d35:
 
     # ch_Name "You look very cute on all of them!"
-    ch_Name ""
+    ch_Name "Ты очень мило смотришься на них всех!"
 
 # game/logic/events/ahchi.rpy:451
 translate russian CF_S3_label_0498a733:
 
     # ch_Name "I swear."
-    ch_Name ""
+    ch_Name "Клянусь."
 
 # game/logic/events/ahchi.rpy:452
 translate russian CF_S3_label_aa68ad2a:
 
     # ch_Name "Let me show you my favourites."
-    ch_Name ""
+    ch_Name "Позволь мне показать вам мои любимые."
 
 # game/logic/events/ahchi.rpy:454
 translate russian CF_S3_label_5fda0ca4:
 
     # Samantha "What?"
-    Samantha ""
+    Samantha "Что?"
 
 # game/logic/events/ahchi.rpy:455
 translate russian CF_S3_label_0cd3d388:
 
     # Samantha "Do you really have my photos on your phone?"
-    Samantha ""
+    Samantha "У тебя действительно есть мои фотографии в твоем телефоне?"
 
 # game/logic/events/ahchi.rpy:456
 translate russian CF_S3_label_81ee62f0:
 
     # ch_Name "Only a couple of them."
-    ch_Name ""
+    ch_Name "Только пару из них."
 
 # game/logic/events/ahchi.rpy:457
 translate russian CF_S3_label_d823c5b2:
 
     # Samantha "You're shocking me, [Name]!"
-    Samantha ""
+    Samantha "Ты шокируешь меня, [Name]!"
 
 # game/logic/events/ahchi.rpy:459
 translate russian CF_S3_label_de17a6db:
 
     # ch_Name "Only look at her!"
-    ch_Name ""
+    ch_Name "Только посмотрите на нее!"
 
 # game/logic/events/ahchi.rpy:460
 translate russian CF_S3_label_2c552be4:
 
     # Samantha "Ogh!"
-    Samantha ""
+    Samantha "Ох!"
 
 # game/logic/events/ahchi.rpy:461
 translate russian CF_S3_label_e834ea28:
 
     # Samantha "Okay, should admit that it's not the bad one."
-    Samantha ""
+    Samantha "Ладно, должна признать, что эта не плоха."
 
 # game/logic/events/ahchi.rpy:462
 translate russian CF_S3_label_2ae65c46:
 
     # Audrey "You're were so sweet!"
-    Audrey ""
+    Audrey "Ты была такой милой!"
 
 # game/logic/events/ahchi.rpy:463
 translate russian CF_S3_label_12d0b469:
 
     # Samantha "And what about now?"
-    Samantha ""
+    Samantha "А что сейчас?"
 
 # game/logic/events/ahchi.rpy:465
 translate russian CF_S3_label_b1f9faa1:
 
     # Audrey "Now you're the sweetest one!"
-    Audrey ""
+    Audrey "Теперь ты самая милая!"
 
 # game/logic/events/ahchi.rpy:466
 translate russian CF_S3_label_2006ed55:
 
     # Samantha "Ha-ha-ha-ha!"
-    Samantha ""
+    Samantha "Ха-ха-ха-ха!"
 
 # game/logic/events/ahchi.rpy:467
 translate russian CF_S3_label_0486a18c:
 
     # Audrey "Do you have a parrot?"
-    Audrey ""
+    Audrey "У вас есть попугай?"
 
 # game/logic/events/ahchi.rpy:468
 translate russian CF_S3_label_c8808eac:
 
     # Samantha "I did."
-    Samantha ""
+    Samantha "Был"
 
 # game/logic/events/ahchi.rpy:470
 translate russian CF_S3_label_5e1142ef:
 
     # Samantha "It died when I was 12."
-    Samantha ""
+    Samantha "Он умер, когда мне было 12 лет."
 
 # game/logic/events/ahchi.rpy:471
 translate russian CF_S3_label_99b27920:
 
     # Samantha "The smartest bird that I've ever seen."
-    Samantha ""
+    Samantha "Самая умная птица, которую я когда-либо видела."
 
 # game/logic/events/ahchi.rpy:472
 translate russian CF_S3_label_426e2eda:
 
     # Samantha "And she always sang before I went to sleep."
-    Samantha ""
+    Samantha "И она всегда пела перед сном."
 
 # game/logic/events/ahchi.rpy:473
 translate russian CF_S3_label_0d000422:
 
     # Audrey "So sad!"
-    Audrey ""
+    Audrey "Так грустно!"
 
 # game/logic/events/ahchi.rpy:475
 translate russian CF_S3_label_08ead00f:
 
     # Samantha "Oh, and here is my Birthday."
-    Samantha ""
+    Samantha "О, а вот и мой день рождения."
 
 # game/logic/events/ahchi.rpy:476
 translate russian CF_S3_label_4321ea46:
 
     # Samantha "Gosh, I almost forgot about this photo!"
-    Samantha ""
+    Samantha "Боже, я чуть не забыла об этом фото!"
 
 # game/logic/events/ahchi.rpy:477
 translate russian CF_S3_label_2301d66a:
 
     # Samantha "The worst Birthday ever."
-    Samantha ""
+    Samantha "Самый ужасный день рождения."
 
 # game/logic/events/ahchi.rpy:478
 translate russian CF_S3_label_9edf36d0:
 
     # Audrey "Whaaat?"
-    Audrey ""
+    Audrey "Чтооо?"
 
 # game/logic/events/ahchi.rpy:479
 translate russian CF_S3_label_4d19a0c9:
 
     # Audrey "Why?"
-    Audrey ""
+    Audrey "Почему?"
 
 # game/logic/events/ahchi.rpy:481
 translate russian CF_S3_label_3c19914b:
 
     # Samantha "I dreamed about the party and I planned everything at least a month in advance."
-    Samantha ""
+    Samantha "Я мечтала о вечеринке и планировала все как минимум на месяц вперед."
 
 # game/logic/events/ahchi.rpy:482
 translate russian CF_S3_label_7dd6ea03:
 
     # Samantha "Invited all the people I thought were my friends."
-    Samantha ""
+    Samantha "Пригласила всех, кого считала своими друзьями."
 
 # game/logic/events/ahchi.rpy:483
 translate russian CF_S3_label_37527f09:
 
     # Samantha "Was really excited about everything!"
-    Samantha ""
+    Samantha "Была действительно взволнована всем!"
 
 # game/logic/events/ahchi.rpy:484
 translate russian CF_S3_label_8fa7f80e:
 
     # Samantha "But only few people came."
-    Samantha ""
+    Samantha "Но пришло всего несколько человек."
 
 # game/logic/events/ahchi.rpy:485
 translate russian CF_S3_label_43bce8ca:
 
     # Samantha "I was crying half the night."
-    Samantha ""
+    Samantha "Я плакала полночи."
 
 # game/logic/events/ahchi.rpy:487
 translate russian CF_S3_label_a0f91657:
 
     # Audrey "Ow, that sucks."
-    Audrey ""
+    Audrey "Ой, это отстой."
 
 # game/logic/events/ahchi.rpy:488
 translate russian CF_S3_label_e7f9d879:
 
     # Samantha "But it was the first time I realized what actually matters."
-    Samantha ""
+    Samantha "Но это был первый раз, когда я поняла, что на самом деле имеет значение."
 
 # game/logic/events/ahchi.rpy:489
 translate russian CF_S3_label_f64fcd06:
 
     # Samantha "There are a lot of people in our life who seem to be there for us in words."
-    Samantha ""
+    Samantha "В нашей жизни есть много людей, которые, кажется, поддерживают нас на словах."
 
 # game/logic/events/ahchi.rpy:490
 translate russian CF_S3_label_4879b9d0:
 
     # Samantha "But sometimes it's too difficult to say who's your real friend and who's not. "
-    Samantha ""
+    Samantha "Но иногда слишком сложно сказать, кто твой настоящий друг, а кто нет."
 
 # game/logic/events/ahchi.rpy:491
 translate russian CF_S3_label_adc2e28f:
 
     # Samantha "Only time could tell."
-    Samantha ""
+    Samantha "Только время может сказать."
 
 # game/logic/events/ahchi.rpy:493
 translate russian CF_S3_label_493508b3:
 
     # Samantha "So we must be more selective in choosing our inner circle."
-    Samantha ""
+    Samantha "Поэтому мы должны быть более избирательными в выборе нашего внутреннего круга."
 
 # game/logic/events/ahchi.rpy:494
 translate russian CF_S3_label_59e0e3d8:
 
     # Samantha "And not to open up to those who were kind and showed a little bit more attention."
-    Samantha ""
+    Samantha "И не открываться тем, кто был добр и проявлял чуточку больше внимания."
 
 # game/logic/events/ahchi.rpy:495
 translate russian CF_S3_label_1738fe7a:
 
     # Audrey "Do you have other photos with more funny story?"
-    Audrey ""
+    Audrey "У тебя есть другие фотографии с более забавной историей?"
 
 # game/logic/events/ahchi.rpy:496
 translate russian CF_S3_label_1f0f7963:
 
     # Audrey "I don't want to get depressed."
-    Audrey ""
+    Audrey "Я не хочу впадать в депрессию."
 
 # game/logic/events/ahchi.rpy:497
 translate russian CF_S3_label_ed3a9e02:
 
     # Audrey "All what we've seen is pretty sad."
-    Audrey ""
+    Audrey "Все, что мы видели, довольно печально."
 
 # game/logic/events/ahchi.rpy:498
 translate russian CF_S3_label_21481fbc:
 
     # Samantha "Not at all!"
-    Samantha ""
+    Samantha "Не совсем!"
 
 # game/logic/events/ahchi.rpy:500
 translate russian CF_S3_label_9215fba0:
 
     # Samantha "This is a recent photograph!"
-    Samantha ""
+    Samantha "Это недавнее фото!"
 
 # game/logic/events/ahchi.rpy:501
 translate russian CF_S3_label_9ac9c4c7:
 
     # Audrey "Wow, is it your prom?"
-    Audrey ""
+    Audrey "Вау, это твой выпускной?"
 
 # game/logic/events/ahchi.rpy:502
 translate russian CF_S3_label_f5afae39:
 
     # Samantha "Yes!"
-    Samantha ""
+    Samantha "Да!"
 
 # game/logic/events/ahchi.rpy:503
 translate russian CF_S3_label_82fcdf8a:
 
     # Samantha "Seems I haven't changed much."
-    Samantha ""
+    Samantha "Кажется, я не сильно изменилась."
 
 # game/logic/events/ahchi.rpy:505
 translate russian CF_S3_label_e5aa0dd7:
 
     # Audrey "You look gorgeous here!"
-    Audrey ""
+    Audrey "Ты выглядишь великолепно здесь!"
 
 # game/logic/events/ahchi.rpy:506
 translate russian CF_S3_label_dd0be327:
 
     # Audrey "And this dress is just amazing!"
-    Audrey ""
+    Audrey "А это платье просто восхитительно!"
 
 # game/logic/events/ahchi.rpy:507
 translate russian CF_S3_label_f77862e4:
 
     # ch_Name "I confirm every word she says."
-    ch_Name ""
+    ch_Name "Я подтверждаю каждое ее слово."
 
 # game/logic/events/ahchi.rpy:508
 translate russian CF_S3_label_d6808a47:
 
     # Samantha "Thank you, guys!"
-    Samantha ""
+    Samantha "Спасибо вам, ребята!"
 
 # game/logic/events/ahchi.rpy:510
 translate russian CF_S3_label_b4c8c248:
 
     # NoName "Ring-ring..."
-    NoName ""
+    NoName "Дин-дон..."
 
 # game/logic/events/ahchi.rpy:512
 translate russian CF_S3_label_fa1fec95:
 
     # Samantha "Oh, Dad calling."
-    Samantha ""
+    Samantha "О, папа звонит."
 
 # game/logic/events/ahchi.rpy:513
 translate russian CF_S3_label_2c28fd39:
 
     # Samantha "I will talk to him outside."
-    Samantha ""
+    Samantha "Я поговорю с ним снаружи."
 
 # game/logic/events/ahchi.rpy:514
 translate russian CF_S3_label_74fe46c5:
