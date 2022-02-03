@@ -4,447 +4,447 @@
 translate brazilian restroom_stump_label_6bcbc6d0:
 
     # ch_Name "{i}(Am I sure there's nothing I want to do before going downstairs?!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Será que não tem nada pra fazer antes de descer as escadas?){/i}"
 
 # game/logic/locations/restroom.rpy:13
 translate brazilian restroom_label_2b70a15b:
 
     # ch_Name "Don, hi!"
-    ch_Name ""
+    ch_Name "Don, oi!"
 
 # game/logic/locations/restroom.rpy:15
 translate brazilian restroom_label_ecefc0d1:
 
     # ch_Name "How's it going, how's work?"
-    ch_Name ""
+    ch_Name "Como está, Como anda o trabalho?"
 
 # game/logic/locations/restroom.rpy:17
 translate brazilian restroom_label_5a5f8bdc:
 
     # Don "Get to the point, [Name]."
-    Don ""
+    Don "Vá direto ao ponto, [Name]."
 
 # game/logic/locations/restroom.rpy:19
 translate brazilian restroom_label_3b0c1b5a:
 
     # Don "Don't waste my time."
-    Don ""
+    Don "Não desperdice meu tempo."
 
 # game/logic/locations/restroom.rpy:21
 translate brazilian restroom_label_d4167a3d:
 
     # Don "Baseball's about to start, so hurry up and talk..."
-    Don ""
+    Don "Já vai começar o Baseball, então fale de uma vez..."
 
 # game/logic/locations/restroom.rpy:23
 translate brazilian restroom_label_3eb81665:
 
     # Don "What do you want?"
-    Don ""
+    Don "O que você quer?"
 
 # game/logic/locations/restroom.rpy:25
 translate brazilian restroom_label_0c152f26:
 
     # ch_Name "The thing is, Olivia came to see me..."
-    ch_Name ""
+    ch_Name "Então. Olivia veio até mim..."
 
 # game/logic/locations/restroom.rpy:27
 translate brazilian restroom_label_ccfe8b04:
 
     # Don "And?"
-    Don ""
+    Don "E?"
 
 # game/logic/locations/restroom.rpy:29
 translate brazilian restroom_label_58012455:
 
     # ch_Name "And? I'd like to discuss your rental idea..."
-    ch_Name ""
+    ch_Name "E? Eu gostaria de discutir a ideia do alguel..."
 
 # game/logic/locations/restroom.rpy:31
 translate brazilian restroom_label_81537022:
 
     # Don "It's not an idea."
-    Don ""
+    Don "Não é uma ideia."
 
 # game/logic/locations/restroom.rpy:33
 translate brazilian restroom_label_a410d3a2:
 
     # Don "It's a fact you've been informed about."
-    Don ""
+    Don "É um fato que você foi notificado."
 
 # game/logic/locations/restroom.rpy:35
 translate brazilian restroom_label_0aa19b5e:
 
     # Don "If you don't want to study, then work."
-    Don ""
+    Don "Se não quiser estudar, então trabalhe."
 
 # game/logic/locations/restroom.rpy:37
 translate brazilian restroom_label_f5f74f6c:
 
     # Don "And since you're 18 and working..."
-    Don ""
+    Don "E já que você tem 18 e está trabalhando..."
 
 # game/logic/locations/restroom.rpy:39
 translate brazilian restroom_label_e0555c31:
 
     # Don "Why should I sweat for another grown man?"
-    Don ""
+    Don "Por que eu deveria ralar pra outro homem?"
 
 # game/logic/locations/restroom.rpy:41
 translate brazilian restroom_label_14fd1ab9:
 
     # Don "So pay up or get out."
-    Don ""
+    Don "Então pague ou vá embora."
 
 # game/logic/locations/restroom.rpy:43
 translate brazilian restroom_label_626491b9:
 
     # Don "Anything else?"
-    Don ""
+    Don "Algo mais?"
 
 # game/logic/locations/restroom.rpy:45
 translate brazilian restroom_label_1fb30e0f:
 
     # ch_Name "But hang on, Don- I still want to study!"
-    ch_Name ""
+    ch_Name "Mas pera ai, Don- Eu ainda quero estudar!"
 
 # game/logic/locations/restroom.rpy:47
 translate brazilian restroom_label_fd5a0c7e:
 
     # Don "I don't see you packing a suitcase full of books."
-    Don ""
+    Don "Eu não vejo você carregando uma bolsa cheia de livros."
 
 # game/logic/locations/restroom.rpy:49
 translate brazilian restroom_label_6f619831:
 
     # ch_Name "You know I had a sports scholarship..."
-    ch_Name ""
+    ch_Name "Você sane que eu tinha a bolsa esportiva..."
 
 # game/logic/locations/restroom.rpy:51
 translate brazilian restroom_label_dce7c30c:
 
     # Don "So?"
-    Don ""
+    Don "E daí?"
 
 # game/logic/locations/restroom.rpy:53
 translate brazilian restroom_label_9c8b6339:
 
     # ch_Name "If it wasn't for the injury, then..."
-    ch_Name ""
+    ch_Name "Se não fosse pelo acidente, eu..."
 
 # game/logic/locations/restroom.rpy:55
 translate brazilian restroom_label_e3052bd7:
 
     # Don "There are no \"If’s\" in history, boy."
-    Don ""
+    Don "Não existem \"Se\" na história, garoto."
 
 # game/logic/locations/restroom.rpy:57
 translate brazilian restroom_label_5e4ace9f:
 
     # Don "You're 18. You don't study and you're sitting on my neck."
-    Don ""
+    Don "Já tem 18 anos, Você não estuda e está se apoiando nas minhas costas."
 
 # game/logic/locations/restroom.rpy:59
 translate brazilian restroom_label_2572973c:
 
     # Don "I'm tired of it. I won't allow it anymore."
-    Don ""
+    Don "Cansei disso. Eu não vou mais permitir."
 
 # game/logic/locations/restroom.rpy:61
 translate brazilian restroom_label_cf56f434:
 
     # Don "These are the facts we have."
-    Don ""
+    Don "Esses são os fatos que temos."
 
 # game/logic/locations/restroom.rpy:69
 translate brazilian restroom_label_682b054f:
 
     # ch_Name "Let me try to change your mind!"
-    ch_Name ""
+    ch_Name "Me deixa te convencer a voltar atrás!"
 
 # game/logic/locations/restroom.rpy:71
 translate brazilian restroom_label_fcb78012:
 
     # ch_Name "I'm not sitting idle at all!"
-    ch_Name ""
+    ch_Name "Eu não to parado coisa nenhuma!"
 
 # game/logic/locations/restroom.rpy:73
 translate brazilian restroom_label_abf076ed:
 
     # ch_Name "And I've been working all summer just to get an education."
-    ch_Name ""
+    ch_Name "E eu estive trabalhando o verão inteiro para ter uma graduaçao."
 
 # game/logic/locations/restroom.rpy:75
 translate brazilian restroom_label_f6015940:
 
     # ch_Name "To pay for college. You know what I mean?"
-    ch_Name ""
+    ch_Name "Pra pagar a faculdade. Você entende?"
 
 # game/logic/locations/restroom.rpy:77
 translate brazilian restroom_label_5e01fdd4:
 
     # Don "Okay. And?"
-    Don ""
+    Don "Ok. E?"
 
 # game/logic/locations/restroom.rpy:79
 translate brazilian restroom_label_0a168ce2:
 
     # ch_Name "I was just working to pay for college."
-    ch_Name ""
+    ch_Name "Eu só estava trabalhando pra pagar a faculdade."
 
 # game/logic/locations/restroom.rpy:81
 translate brazilian restroom_label_b5777121:
 
     # ch_Name "And you want me to either study or pay you, right?"
-    ch_Name ""
+    ch_Name "E você quer que eu ou estude ou te pague, certo?"
 
 # game/logic/locations/restroom.rpy:83
 translate brazilian restroom_label_820cafde:
 
     # Don "You get the point."
-    Don ""
+    Don "Você entendeu."
 
 # game/logic/locations/restroom.rpy:85
 translate brazilian restroom_label_08b46c47:
 
     # ch_Name "But!"
-    ch_Name ""
+    ch_Name "Mas!"
 
 # game/logic/locations/restroom.rpy:87
 translate brazilian restroom_label_53b0ab25:
 
     # ch_Name "If I have to pay your rent."
-    ch_Name ""
+    ch_Name "Se eu tenho que pagar o aluguel."
 
 # game/logic/locations/restroom.rpy:89
 translate brazilian restroom_label_16f04a0d:
 
     # ch_Name "I'll never save up to go to collegel!"
-    ch_Name ""
+    ch_Name "Eu nunca vou economizar pra faculdade!"
 
 # game/logic/locations/restroom.rpy:91
 translate brazilian restroom_label_8d9ed8c8:
 
     # ch_Name "And I'll have to keep paying you."
-    ch_Name ""
+    ch_Name "E eu vou ter q ficar te pagando."
 
 # game/logic/locations/restroom.rpy:93
 translate brazilian restroom_label_3bb46233:
 
     # ch_Name "It's a vicious circle. You can't be serious... I mean..."
-    ch_Name ""
+    ch_Name "É um ciclo vicioso. Não pode ser sério... quer dizer..."
 
 # game/logic/locations/restroom.rpy:95
 translate brazilian restroom_label_57e413fb:
 
     # ch_Name "What do you think? I'm sure you can understand my situation..."
-    ch_Name ""
+    ch_Name "O que você acha? Tenho certeza que entende minha situação..."
 
 # game/logic/locations/restroom.rpy:97
 translate brazilian restroom_label_18b25c53:
 
     # Don "Of course I can. But I don't care."
-    Don ""
+    Don "Claro que entendo. Mas eu não ligo."
 
 # game/logic/locations/restroom.rpy:99
 translate brazilian restroom_label_8203ea8f:
 
     # Don "It's time you learned how to be independent, kid."
-    Don ""
+    Don "É hora de aprender a ser independente, garoto."
 
 # game/logic/locations/restroom.rpy:101
 translate brazilian restroom_label_e04485a7:
 
     # Don "Lesson one: you're 18 and your problems are your problems."
-    Don ""
+    Don "Lição um: você tem 18 e seus problemas são seus problemas."
 
 # game/logic/locations/restroom.rpy:103
 translate brazilian restroom_label_d1e1ef88:
 
     # Don "The world doesn't revolve around you."
-    Don ""
+    Don "O mundo não gira em torno de você."
 
 # game/logic/locations/restroom.rpy:105
 translate brazilian restroom_label_89df8599:
 
     # Don "Don't put your issues on me."
-    Don ""
+    Don "Não coloque seus problemas na minha conta."
 
 # game/logic/locations/restroom.rpy:107
 translate brazilian restroom_label_a99eee17:
 
     # Don "Pay your rent or find yourself a new place to live. What's it gonna be?"
-    Don ""
+    Don "Pague o aluguel ou encontre outra casa para morar. O que vai ser?"
 
 # game/logic/locations/restroom.rpy:112
 translate brazilian restroom_menu_2_label_527c060b:
 
     # ch_Name "Are you sure you got all the facts straight, Don?!"
-    ch_Name ""
+    ch_Name "Tem certezaa que tem todos os fatos, Don?!"
 
 # game/logic/locations/restroom.rpy:114
 translate brazilian restroom_menu_2_label_f87461fa:
 
     # ch_Name "Maybe I should remind you that I could have been at university now."
-    ch_Name ""
+    ch_Name "Acho que tenho que te lembrar que eu poderia estar na universidade agora."
 
 # game/logic/locations/restroom.rpy:116
 translate brazilian restroom_menu_2_label_0843679a:
 
     # ch_Name "If someone hadn't saved money on my rehabilitation."
-    ch_Name ""
+    ch_Name "Se alguém tivemos economizado dinheiro para minha reabilitação."
 
 # game/logic/locations/restroom.rpy:118
 translate brazilian restroom_menu_2_label_0252acee:
 
     # ch_Name "I'm not saying you had to..."
-    ch_Name ""
+    ch_Name "Não to dizendo que você deveria..."
 
 # game/logic/locations/restroom.rpy:120
 translate brazilian restroom_menu_2_label_8d965803:
 
     # Don "That's exactly what you're saying right now!"
-    Don ""
+    Don "É ecatamente isso que está dizendo agora!"
 
 # game/logic/locations/restroom.rpy:122
 translate brazilian restroom_menu_2_label_01f136c0:
 
     # Don "And I suggest you shut up and think about your tone."
-    Don ""
+    Don "E eu sugiro que cale a boca e veja esse seu tom."
 
 # game/logic/locations/restroom.rpy:124
 translate brazilian restroom_menu_2_label_d80e228a:
 
     # Don "Where would you be if it wasn't for me?"
-    Don ""
+    Don "Onde você estaria se não fosse por mim?"
 
 # game/logic/locations/restroom.rpy:126
 translate brazilian restroom_menu_2_label_363df24c:
 
     # Don "Haven't I worked hard enough to give you food, clothes and an education?"
-    Don ""
+    Don "Já não trabalhei duro o suficiente para te alimentar, dar roupas e estudar?"
 
 # game/logic/locations/restroom.rpy:128
 translate brazilian restroom_menu_2_label_32fefd64:
 
     # Don "Do you have any idea how much your rehabilitation would have cost?"
-    Don ""
+    Don "Tem alguma ideia do quanto teria custado sua reabilitação?"
 
 # game/logic/locations/restroom.rpy:130
 translate brazilian restroom_menu_2_label_c152ecb2:
 
     # ch_Name "No."
-    ch_Name ""
+    ch_Name "Não."
 
 # game/logic/locations/restroom.rpy:132
 translate brazilian restroom_menu_2_label_bbb98143:
 
     # ch_Name "All I’m saying is that I didn’t \"choose\" not to go to university."
-    ch_Name ""
+    ch_Name "O que to dizendo é que não \"escolhei\" não ir pra universidade."
 
 # game/logic/locations/restroom.rpy:134
 translate brazilian restroom_menu_2_label_3fe05916:
 
     # ch_Name "It's hard to keep your emotions in check when you're being slung in the face."
-    ch_Name ""
+    ch_Name "É dificil não extrapolar quando se é bombardeado assim."
 
 # game/logic/locations/restroom.rpy:136
 translate brazilian restroom_menu_2_label_2d95ecb9:
 
     # Don "Oh, you poor thing!"
-    Don ""
+    Don "Oh, coitadinho!"
 
 # game/logic/locations/restroom.rpy:138
 translate brazilian restroom_menu_2_label_6c4d7e3c:
 
     # Don "Is that what you were expecting to hear?"
-    Don ""
+    Don "É isso que espera ouvir?"
 
 # game/logic/locations/restroom.rpy:140
 translate brazilian restroom_menu_2_label_34919b9e:
 
     # ch_Name "No, I..."
-    ch_Name ""
+    ch_Name "Não, eu..."
 
 # game/logic/locations/restroom.rpy:142
 translate brazilian restroom_menu_2_label_0d4f4111:
 
     # Don "You're 18! Surprise! Nobody owes you anything."
-    Don ""
+    Don "Você é de maior! Surpresa! Ninguém deve nada a você."
 
 # game/logic/locations/restroom.rpy:144
 translate brazilian restroom_menu_2_label_fbfeb7e0:
 
     # Don "Certainly not me."
-    Don ""
+    Don "Certamente não eu."
 
 # game/logic/locations/restroom.rpy:146
 translate brazilian restroom_menu_2_label_f6e4a5c9:
 
     # Don "So stop whining and learn to be helpful."
-    Don ""
+    Don "Então pare de chorar e aprenda a ser prestatívo."
 
 # game/logic/locations/restroom.rpy:148
 translate brazilian restroom_menu_2_label_d39ba59a:
 
     # ch_Name "I hear you."
-    ch_Name ""
+    ch_Name "Entendi."
 
 # game/logic/locations/restroom.rpy:150
 translate brazilian restroom_menu_2_label_02514dd4:
 
     # Don "So it's a deal, then?"
-    Don ""
+    Don "É um acordo, então?"
 
 # game/logic/locations/restroom.rpy:156
 translate brazilian restroom_menu_3_label_1b0b05ae:
 
     # ch_Name "I... I need to think."
-    ch_Name ""
+    ch_Name "Eu... Eu preciso pensar."
 
 # game/logic/locations/restroom.rpy:158
 translate brazilian restroom_menu_3_label_4af10fbd:
 
     # ch_Name "I'm sorry, I'm gonna..."
-    ch_Name ""
+    ch_Name "Desculpe, eu vou..."
 
 # game/logic/locations/restroom.rpy:160
 translate brazilian restroom_menu_3_label_c5b7df6d:
 
     # Don "Go on, get out of here."
-    Don ""
+    Don "Vá, saia daqui."
 
 # game/logic/locations/restroom.rpy:162
 translate brazilian restroom_menu_3_label_1f8ee931:
 
     # Don "And welcome to adulthood, boy!"
-    Don ""
+    Don "E bem-vindo à vida adulta, garoto!"
 
 # game/logic/locations/restroom.rpy:164
 translate brazilian restroom_menu_3_label_f708fe02:
 
     # ch_Name "{i}(Shove your \"welcome to adulthood\" up your ass.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Enfia esse \"bem-vindo à vida adulta\" no seu cu.){/i}"
 
 # game/logic/locations/restroom.rpy:166
 translate brazilian restroom_menu_3_label_41ea1485:
 
     # ch_Name "{i}(Fucking hypocrite.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hipócrita fudido.){/i}"
 
 # game/logic/locations/restroom.rpy:168
 translate brazilian restroom_menu_3_label_24687b0f:
 
     # ch_Name "{i}(I wonder how you'd act if it were Ashley who got hurt instead?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Me pergunto como você reagiria se fosse a Ashley se machucando?){/i}"
 
 translate brazilian strings:
 
     # game/logic/locations/restroom.rpy:63
     old "Object politely"
-    new ""
+    new "Recusar educadamente"
 
     # game/logic/locations/restroom.rpy:63
     old "Object sharply"
-    new ""
+    new "Recusar firmemente"
 
