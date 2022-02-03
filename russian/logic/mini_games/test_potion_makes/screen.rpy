@@ -4,85 +4,85 @@ translate russian strings:
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Bouncing berries"
-    new ""
+    new "Прыгающие ягоды"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Butterfly wings"
-    new ""
+    new "Крылья бабочки"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Dandelion dust"
-    new ""
+    new "Пыль одуванчика"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Dragon scales powder"
-    new ""
+    new "Порошок из чешуи дракона"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Dry vampire blood"
-    new ""
+    new "Сухая кровь вампира"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Dryad leaves"
-    new ""
+    new "Листья дриады"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Fireblossom leaves"
-    new ""
+    new "Листья огнецвета"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Icelandic cetraria"
-    new ""
+    new "Исландская цетрария"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Manticore lard"
-    new ""
+    new "Жир мантикоры"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Mermaid blood"
-    new ""
+    new "Кровь русалки"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Tears of woodland deer"
-    new ""
+    new "Слезы лесного оленя"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Unicorn hair powder"
-    new ""
+    new "Порошок из волос единорога"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:19
     old "Restores small amount of Stamina."
-    new ""
+    new "Восстанавливает небольшое количество выносливости."
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:19
     old "For 1 turn makes your attacking spells more effective."
-    new ""
+    new "На 1 ход ваши атакующие заклинания становятся более эффективными."
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:19
     old "Next time you get hit by a spell you'll lose 25% less Stamina."
-    new ""
+    new "В следующий раз, когда вы получите удар заклинанием, вы потеряете на 25% меньше выносливости."
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:19
     old "For 1 turn reflects your opponent attacking spells back."
-    new ""
+    new "На 1 ход отражает атакующие заклинания противника в ответ."
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:110
     old "You crafted a"
-    new ""
+    new "Вы создали"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:274
     old "Choose any {color=#f1af70}three{/color} ingredients and try to mix them."
-    new ""
+    new "Выберите любые {color=#f1af70}три{/color} ингредиента и попробуйте их смешать."
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:275
     old "If you're lucky, you'll learn a new recipe."
-    new ""
+    new "Если вам повезет, вы узнаете новый рецепт."
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:276
     old "Or click on the learned recipe to select required ingredients."
-    new ""
+    new "Или нажмите на изученный рецепт, чтобы выбрать необходимые ингредиенты."
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:319
     old "Learn this recipe by attending the Potions lecture."
-    new ""
+    new "Изучите этот рецепт, посетив лекцию по Зельям."
 
