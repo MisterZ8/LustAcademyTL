@@ -508,67 +508,67 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "So, I don't get it. Is she Jill or Faith, and why does she act so strange? First, she seemed shy, but then she literally grabbed my cock! I'll need to have another massage to understand what's going on."
-    new ""
+    new "Então, não entendo. Ela é Jill ou Faith? E porque está tão estranha? Primeiro ela parecia tímida, mas então ela, literalmente, agarrou meu pau! Preciso fazer outra massagem para entender o que está acontecendo."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Even after all the craziness I've seen at this spa, I can't believe I was able to talk the masseuse into jerking me off. Maybe this is just the beginning of our intimate massage sessions. I wonder what she'll agree to next time?"
-    new ""
+    new "Mesmo depois de toda essa maluquice no spa, não acredito que consegui convencer a massasgista a me punhetar. Talvez isso seja só o início de nossas sessões de massagem íntimas. O que será que ela vai topar da próxima vez?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've got a feeling that that forest wasn't the last time I've met her. But right now, I can only guess."
-    new ""
+    new "Sinto que aquele encontro na floresta não será o último com ela. Mas agora, só posso tentar adivinhar."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "It seems that I have some special connection with the ancient spirit of Leonheart's founder, Leona Leonheart. She materialized in the real world to help me with my source of power."
-    new ""
+    new "Parece que etnho uma conexão especial com o espírito da fundadora de Leonheart, Leona Leonheart. Essa se materializou no mundo real para me ajudar com minha fonte de poder."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Katrina won't leave me alone. If I want to face her on my terms, I have to find a way to defeat her. I think I should contact Leona. Maybe a sorting book in the Main hall will do the trick?"
-    new ""
+    new "Katrina não me deixa em paz. Se quiser encarar ela do meu jeito, tenho que achar uma forma de derrotar ela. Acho que devia falar com Leona. Talvez o livro de seleção no Main Hall possa ser a solução?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Leona took my memories of that nightmare with Katrina to find out what is happening to me. I guess I'll just have to wait."
-    new ""
+    new "Leona pegou minhas memórias do pesadelo com Katrina para descobrir o que está acontecendo. Acho que tenho que esperar."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "If it weren't for Leona, I'd be stuck in a nightmare forever. It turned out that, under the guise of Katrina, It was a soul-eating phantom who tortured me in my dreams. Right now, I can do nothing about. On the next Tuesday I can summon Leona again to ask what should I do next."
-    new ""
+    new "Se não fosse por Leona, estaria preso naquele pesadelo para sempre. No final das contas, disfarçado de Katrina, era um fantasma devorador de almas que me torturava nos meus sonhos. Agora, não posso fazer nada. Na próxima terça posso invocar Leona de novo e perguntar o que devo fazer."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "It turned out that Jacob was behind the soul-stealing phantom attack. He was testing me to help him overpower Arthur. Jacob assures me that Arthur is the villain who killed my parents. To deal with him, I asked Leona to obtain for me an ancient artifact - the scroll of the Lion's Seal. Now all we have to do is wait."
-    new ""
+    new "Acaba que Jacob estava por trás no ataque do fantasma devorador de almas. Ele estava me testando para sobrepujar Arthur. Jacob me garante que Arthur é o vilão que matou meus pais. Para lidar com ele, pedi a Leona para obter um antigo artefato - o pergaminho de Lion's Seal. Agora só temos que esperar."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I think I'll meet Lily somewhere where she can earn Leonheart some points. Maybe at the class?"
-    new ""
+    new "Eu acho que vou encontrar Lily em algum lugar quando ela puder ganhar alguns pontos para Leonheart. Talvez na aula?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I can try to get Lily to like me by attending class and earning points for Leonheart."
-    new ""
+    new "Posso tentar conquistar Lily assistindo aulas e ganhando pontos para Leonheart."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Lily expects me to find at least three lost books and turn them in at the library. I can also lie to her about doing it. I'm sure she won't know."
-    new ""
+    new "Lily espera que eu encontre pelo menos três livros perdidos e os devolva na biblioteca. Eu posso mentir para ela sobre isso. Com certeza ela não vai saber."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Lily doesn't believe that I will be able to defeat my opponent in a duel. I need to talk to Jacob in order to participate in duels. If I win, Lily will be waiting for me in the evening at the fountain. I hope it will be worth it."
-    new ""
+    new "Lily não acredita que derrotarei meu oponente em um duelo. Preciso falar com Jacob para participar de duelos. Se eu vencer, Lily estará me esperando na fonte no final da tarde. Espero que valha a pena."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I won at the duel. That means Lily owes me a date. She'll visit my room herself in the evening. I'd better get dressed and ready."
-    new ""
+    new "Eu venci o duelo. Significa que Lily me deve um encontro. Ela irá ao meu quarto sozinha no final da tarde. Melhor estar pronto."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We had some fun with Lily and then decided to discuss other house-related plans next time. Maybe I should talk to help before Sabrina's lesson."
-    new ""
+    new "Nos divertimos com Lily e decidimos discutir outros planos para a casa da próxima vez. Talvez eu devesse falar com ela antes da aula de Sabrina."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've agreed to help Sabrina and Lily to harvest some herbs. Lily and I got lost and had an unbelievable adventure."
-    new ""
+    new "Concordei em ajudar Sabrina e Lily a colher algumas ervas. Lily e eu nos perdemos e tivemos uma aventura inacreditável."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I told Sabrina about the mushroom girl I saw in the woods, and it turns out that the existence of these creatures has not yet been proven as a fact. I could be the discoverer of this species if I could find proof. But I have to wait until the compass is fixed."
-    new ""
+    new "Falei para Sabrina sobre a menina cogumelo que vi na floresta e parece que a existência dessas criaturas ainda não foi comprovada. Posso ser o descobridor dessa espécie se puder provar. Mas tenho que esperar a bússola ser consertada."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We finally talked to Lily about the events in the forest of mushrooms and set things straight. Now we both know exactly what our relationship is and how the boundaries are."
