@@ -220,7 +220,7 @@ translate spanish sheet_20_9fd27b31:
 translate spanish sheet_20_c1cb3803:
 
     # Victoria "And the teacher of four founders of Cordale Academy."
-    Victoria "Y la profesora de cuatro fundadores de la academia Cordale."
+    Victoria "Y la profesora de los cuatro fundadores de la academia Cordale."
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:93
 translate spanish sheet_20_e52af344:
