@@ -214,13 +214,13 @@ translate spanish sheet_22_898ee20b:
 translate spanish sheet_22_9fa5333a:
 
     # Lily "The academy was founded by four powerful sorceresses."
-    Lily "La academia la fundaron cuatro hechiceras muy poderosas."
+    Lily "La academia la fundaron cuatro hechiceros muy poderosos."
 
 # game/logic/episodes_after_first/ep2/sheet_22.rpy:100
 translate spanish sheet_22_56acb7a7:
 
     # Lily "Each has created its own house and taught students as they saw fit."
-    Lily "Cada una creo su propia casa y ha enseñado a los alumnos siguiendo sus propios principios."
+    Lily "Cada uno creo su propia casa y ha enseñado a los alumnos siguiendo sus propios principios."
 
 # game/logic/episodes_after_first/ep2/sheet_22.rpy:102
 translate spanish sheet_22_cf2b17a5:
