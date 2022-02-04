@@ -694,7 +694,7 @@ translate philippine adele_1_label_451a6aae:
 translate philippine adele_1_label_21fcb780:
 
     # Vanessa "But what can I do, the customer is always right."
-    Vanessa "Per oano ba ang magagawa ko, palaging tama ang bumibili."
+    Vanessa "Pero ano ba ang magagawa ko, palaging tama ang bumibili."
 
 # game/logic/events/adele.rpy:263
 translate philippine adele_1_label_b143ebf9:
@@ -737,6 +737,7 @@ translate philippine adele_1_label_ecf6541e:
 
     # Vanessa "Our special is legendary around here."
     Vanessa "Ang aming espesyal ay maalamat talaga."
+    
 # game/logic/events/adele.rpy:273
 translate philippine adele_1_label_1172cbb6:
 
@@ -3231,7 +3232,7 @@ translate philippine vip_sadira_1_label_0ae9bcd0:
 translate philippine vip_sadira_1_label_f3d2bf64:
 
     # ch_Name "{i}(And her lingerie is maddening.){/i}"
-    ch_Name {i}(Nagpapabaliw ang kanyang damit.){/i}
+    ch_Name "{i}(Nagpapabaliw ang kanyang damit.){/i}"
 
 # game/logic/events/adele.rpy:1099
 translate philippine vip_sadira_1_label_d700427e:
@@ -3417,19 +3418,19 @@ translate philippine vip_sadira_1_label_a8c1c31a:
 translate philippine vip_sadira_1_label_d06d5b47:
 
     # ch_Name "{i}(She definitely got the moves...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nakakaaliw ang mga galaw niya...){/i}"
 
 # game/logic/events/adele.rpy:1149
 translate philippine vip_sadira_1_label_3b183424:
 
     # ch_Name "{i}(Maybe next time I'll try her other services.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Baka sa susunod susubukan ko ang mga ibang serbisyo niya...){/i}"
 
 # game/logic/events/adele.rpy:1158
 translate philippine vip_sadira_1_label_5960d585_1:
 
     # ch_Name "{i}(The beautiful Sadira strikes again with her movements at the pole.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Gumagalaw ulit ang magandang Sadira sa poste niya.){/i}"
 
 # game/logic/events/adele.rpy:1160
 translate philippine vip_sadira_1_label_0ae9bcd0_5:
@@ -3447,13 +3448,13 @@ translate philippine vip_sadira_1_label_0ae9bcd0_6:
 translate philippine vip_sadira_1_label_f3d2bf64_1:
 
     # ch_Name "{i}(And her lingerie is maddening.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nagpapabaliw ang kanyang damit.){/i}"
 
 # game/logic/events/adele.rpy:1165
 translate philippine vip_sadira_1_label_d700427e_1:
 
     # ch_Name "{i}(But I'd like to see underneath...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pero gusto kong makita ang nilalaman...){/i}"
 
 # game/logic/events/adele.rpy:1167
 translate philippine vip_sadira_1_label_0ae9bcd0_7:
@@ -3465,13 +3466,13 @@ translate philippine vip_sadira_1_label_0ae9bcd0_7:
 translate philippine vip_sadira_1_label_d1e262fc_1:
 
     # ch_Name "{i}(Oh, yes! What gorgeous boobs!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ayos! Ang ganda ng mga suso niya!){/i}"
 
 # game/logic/events/adele.rpy:1171
 translate philippine vip_sadira_1_label_b2cdd66f_1:
 
     # ch_Name "{i}(They're just the perfect shape.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Perpekto ang hugis.){/i}"
 
 # game/logic/events/adele.rpy:1173
 translate philippine vip_sadira_1_label_0ae9bcd0_8:
@@ -3483,7 +3484,7 @@ translate philippine vip_sadira_1_label_0ae9bcd0_8:
 translate philippine vip_sadira_1_label_d460122f_1:
 
     # ch_Name "{i}(She was so clever with her panties in the dance...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Marikit talaga ng sayaw niya.){/i}"
 
 # game/logic/events/adele.rpy:1177
 translate philippine vip_sadira_1_label_7287383d_1:
@@ -3495,7 +3496,7 @@ translate philippine vip_sadira_1_label_7287383d_1:
 translate philippine vip_sadira_1_label_3e695196_1:
 
     # ch_Name "{i}(I think I got her attention!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nakuha ko kaya ang atensiyon niya!){/i}"
 
 # game/logic/events/adele.rpy:1181
 translate philippine vip_sadira_1_label_0ae9bcd0_9:
@@ -3513,289 +3514,289 @@ translate philippine vip_sadira_1_label_0ae9bcd0_10:
 translate philippine vip_sadira_1_label_711c037f:
 
     # Sadira "Do you like to watch me dance, sweety?"
-    Sadira ""
+    Sadira "Mahilig ka bang magtanaw ng sayaw ko?"
 
 # game/logic/events/adele.rpy:1186
 translate philippine vip_sadira_1_label_52b5284d:
 
     # Sadira "Do you like what you see?"
-    Sadira ""
+    Sadira "Nagustuhan mo ba ang nakikita mo?"
 
 # game/logic/events/adele.rpy:1188
 translate philippine vip_sadira_1_label_d6e38424:
 
     # ch_Name "Oh yes."
-    ch_Name ""
+    ch_Name "Oo."
 
 # game/logic/events/adele.rpy:1189
 translate philippine vip_sadira_1_label_ea1c5800:
 
     # Sadira "Tell me, how much do you like it."
-    Sadira ""
+    Sadira "Sabihin mo sa akin kung gaano mo kaibig."
 
 # game/logic/events/adele.rpy:1191
 translate philippine vip_sadira_1_label_4b710730:
 
     # ch_Name "You're a dream come true, baby. What else can I say?"
-    ch_Name ""
+    ch_Name "Parang panaginip na naging totoo. Ano pa ba ang masasabi ko?"
 
 # game/logic/events/adele.rpy:1192
 translate philippine vip_sadira_1_label_36edb5b4:
 
     # Sadira "Tell me that I'm beautiful."
-    Sadira ""
+    Sadira "Sabihin mo nga maganda ako."
 
 # game/logic/events/adele.rpy:1194
 translate philippine vip_sadira_1_label_d6206a62:
 
     # ch_Name "{i}(Oh wow... She's so close to me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh wow... Ang lapit niy.){/i}"
 
 # game/logic/events/adele.rpy:1195
 translate philippine vip_sadira_1_label_007bf42c:
 
     # ch_Name "You're beautiful. It's true."
-    ch_Name ""
+    ch_Name "Ang ganda mo. Totoo 'yun."
 
 # game/logic/events/adele.rpy:1197
 translate philippine vip_sadira_1_label_224b61df:
 
     # Sadira "I'm so happy to hear it..."
-    Sadira ""
+    Sadira "Napapasaya mo ako..."
 
 # game/logic/events/adele.rpy:1198
 translate philippine vip_sadira_1_label_71e1bc67:
 
     # Sadira "I can barely restrain myself."
-    Sadira ""
+    Sadira "'Di ko na mapipigilan ang sarili ko."
 
 # game/logic/events/adele.rpy:1200
 translate philippine vip_sadira_1_label_fe9307e1:
 
     # Sadira "Just one word, and we'll start the fun."
-    Sadira ""
+    Sadira "Isang salita lang, at magkakasiyahan na tayo."
 
 # game/logic/events/adele.rpy:1201
 translate philippine vip_sadira_1_label_a6cd6820_1:
 
     # Sadira "You just have to say what you want, baby!"
-    Sadira ""
+    Sadira "Sabihin mo lang ang gusto mo!"
 
 # game/logic/events/adele.rpy:1205
 translate philippine vip_sadira_1_label_5ad7abcc:
 
     # ch_Name "Well... No."
-    ch_Name ""
+    ch_Name "Ahh... Hindi."
 
 # game/logic/events/adele.rpy:1207
 translate philippine vip_sadira_1_label_d776c545:
 
     # ch_Name "Not now, that's for sure."
-    ch_Name ""
+    ch_Name "'Di ngayon."
 
 # game/logic/events/adele.rpy:1208
 translate philippine vip_sadira_1_label_55e41fb7:
 
     # Sadira "What a waste of time..."
-    Sadira ""
+    Sadira "Sayang ito sa oras ko..."
 
 # game/logic/events/adele.rpy:1210
 translate philippine vip_sadira_1_label_a42f4b18:
 
     # ch_Name "Don't get mad, baby. I'm just not in the mood."
-    ch_Name ""
+    ch_Name "'Wag kang magalit, baby. Wala lang ako sa mood."
 
 # game/logic/events/adele.rpy:1211
 translate philippine vip_sadira_1_label_290f5269:
 
     # ch_Name "Get back to dancing."
-    ch_Name ""
+    ch_Name "Bumalik ka sa pagsayaw."
 
 # game/logic/events/adele.rpy:1213
 translate philippine vip_sadira_1_label_d06d5b47_1:
 
     # ch_Name "{i}(She definitely got the moves...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mahusay talaga ang sayaw niya...){/i}"
 
 # game/logic/events/adele.rpy:1214
 translate philippine vip_sadira_1_label_3b183424_1:
 
     # ch_Name "{i}(Maybe next time I'll try her other services.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Baka sa susunod susubukan ko ang mga ibang serbisyo niya...){/i}"
 
 # game/logic/events/adele.rpy:1237
 translate philippine vip_sadira_1_label_1_c205f5f1:
 
     # ch_Name "Yes..."
-    ch_Name ""
+    ch_Name "Oo..."
 
 # game/logic/events/adele.rpy:1239
 translate philippine vip_sadira_1_label_1_75e97e5c:
 
     # Sadira "One look at your cock makes me tremble."
-    Sadira ""
+    Sadira "Isang tingin lang sa iyong titi at nanginginig na ako."
 
 # game/logic/events/adele.rpy:1240
 translate philippine vip_sadira_1_label_1_7cde2c2a:
 
     # Sadira "I'm all wet already."
-    Sadira ""
+    Sadira "Basang-basa na ako."
 
 # game/logic/events/adele.rpy:1242
 translate philippine vip_sadira_1_label_1_1319713b:
 
     # Sadira "Are you ready, darling?"
-    Sadira ""
+    Sadira "Handa ka na ba, mahal?"
 
 # game/logic/events/adele.rpy:1243
 translate philippine vip_sadira_1_label_1_7f38c835:
 
     # ch_Name "Show me what you've got."
-    ch_Name ""
+    ch_Name "Ipakita mo sa akin ang nalaman mo."
 
 # game/logic/events/adele.rpy:1245
 translate philippine vip_sadira_1_label_1_0c3d9c60:
 
     # Sadira "That's just the beginning."
-    Sadira ""
+    Sadira "Simula pa lang 'yan."
 
 # game/logic/events/adele.rpy:1246
 translate philippine vip_sadira_1_label_1_24d12599:
 
     # Sadira "But it drove a lot of men crazy, too."
-    Sadira ""
+    Sadira "Pero napapabaliw rin ito ng karamihan ng mga lalaki."
 
 # game/logic/events/adele.rpy:1247
 translate philippine vip_sadira_1_label_1_e29a9144:
 
     # ch_Name "I'm not that easy to impress."
-    ch_Name ""
+    ch_Name "'di ako madaling mapapabilib."
 
 # game/logic/events/adele.rpy:1248
 translate philippine vip_sadira_1_label_1_d1f7be81:
 
     # Sadira "We'll see."
-    Sadira ""
+    Sadira "Tignan natin."
 
 # game/logic/events/adele.rpy:1250
 translate philippine vip_sadira_1_label_1_6cff7ddf:
 
     # Sadira "[Name], I must say..."
-    Sadira ""
+    Sadira "[Name], dapat kong sabihin..."
 
 # game/logic/events/adele.rpy:1251
 translate philippine vip_sadira_1_label_1_73de6794:
 
     # Sadira "You have an incredible cock."
-    Sadira ""
+    Sadira "Mahusay at malaki ang titi mo."
 
 # game/logic/events/adele.rpy:1252
 translate philippine vip_sadira_1_label_1_0056cfa1:
 
     # Sadira "You can feel the power in it..."
-    Sadira ""
+    Sadira "Mararamdaman mo ang kasiglaan..."
 
 # game/logic/events/adele.rpy:1253
 translate philippine vip_sadira_1_label_1_2fad3cb5:
 
     # Sadira "It makes me want to sit on you..."
-    Sadira ""
+    Sadira "Gusto kong umupo sa iyo..."
 
 # game/logic/events/adele.rpy:1255
 translate philippine vip_sadira_1_label_1_9ffbc0c7:
 
     # ch_Name "So what are you waiting for?"
-    ch_Name ""
+    ch_Name "Ano pa ba ang hinihintay mo?"
 
 # game/logic/events/adele.rpy:1256
 translate philippine vip_sadira_1_label_1_10ac7055:
 
     # Sadira "You're right, this is much better."
-    Sadira ""
+    Sadira "Tama ka, mas mabuti ito."
 
 # game/logic/events/adele.rpy:1258
 translate philippine vip_sadira_1_label_1_9fcbeed1:
 
     # ch_Name "I thought you were gonna sit on my dick..."
-    ch_Name ""
+    ch_Name "Akala ko uupo ka sa titi ko..."
 
 # game/logic/events/adele.rpy:1259
 translate philippine vip_sadira_1_label_1_85ce50fa:
 
     # Sadira "Oh... It's not time yet, baby."
-    Sadira ""
+    Sadira "Oh... 'Di pa ito ang tamang panahon, baby."
 
 # game/logic/events/adele.rpy:1261
 translate philippine vip_sadira_1_label_1_6a4c6541:
 
     # Sadira "Sex is just the tip of the iceberg."
-    Sadira ""
+    Sadira "Simula pa lang ang pakikipagtalik."
 
 # game/logic/events/adele.rpy:1262
 translate philippine vip_sadira_1_label_1_91280bdb:
 
     # Sadira "We enjoy each other completely... Ahh..."
-    Sadira ""
+    Sadira "Kailangan kumpleto ang magtamasa... Ahh..."
 
 # game/logic/events/adele.rpy:1263
 translate philippine vip_sadira_1_label_1_91406bed:
 
     # Sadira "With every inch of our bodies."
-    Sadira ""
+    Sadira "Nang bawat bahagi ng katawan natin."
 
 # game/logic/events/adele.rpy:1264
 translate philippine vip_sadira_1_label_1_adbdce5f:
 
     # Sadira "And only then - sex!"
-    Sadira ""
+    Sadira "At pagkatapos lamang - ang premyo mo!"
 
 # game/logic/events/adele.rpy:1266
 translate philippine vip_sadira_1_label_1_a76978a5:
 
     # ch_Name "I confess, it's incredibly satisfying..."
-    ch_Name ""
+    ch_Name "Sa katotohanan, nakalulugod naman..."
 
 # game/logic/events/adele.rpy:1267
 translate philippine vip_sadira_1_label_1_bb444278:
 
     # Sadira "This is what I wanted to hear."
-    Sadira ""
+    Sadira "'yan ang gusto kong marinig."
 
 # game/logic/events/adele.rpy:1268
 translate philippine vip_sadira_1_label_1_753c6fc3:
 
     # Sadira "But this night was only the first of my many tales."
-    Sadira ""
+    Sadira "Pero ito ang unang gabi ng mga kuwento ko."
 
 # game/logic/events/adele.rpy:1270
 translate philippine vip_sadira_1_label_1_19c0a21c:
 
     # ch_Name "Then I want to enjoy them all..."
-    ch_Name ""
+    ch_Name "May isang libo pa ako..."
 
 # game/logic/events/adele.rpy:1271
 translate philippine vip_sadira_1_label_1_cf84cffe:
 
     # Sadira "All in good time."
-    Sadira ""
+    Sadira "Sa tamang panahon."
 
 # game/logic/events/adele.rpy:1273
 translate philippine vip_sadira_1_label_1_494c4534:
 
     # ch_Name "Oh yes, just like that,"
-    ch_Name ""
+    ch_Name "Ayos, ganyan lang..."
 
 # game/logic/events/adele.rpy:1274
 translate philippine vip_sadira_1_label_1_c7ebc4c3:
 
     # ch_Name "I'm going to cum..."
-    ch_Name ""
+    ch_Name "Puputok ako..."
 
 # game/logic/events/adele.rpy:1276
 translate philippine vip_sadira_1_label_1_3c105d56:
 
     # Sadira "Me too..."
-    Sadira ""
+    Sadira "Ako rin..."
 
 # game/logic/events/adele.rpy:1277
 translate philippine vip_sadira_1_label_1_337f6b06:
@@ -3807,19 +3808,19 @@ translate philippine vip_sadira_1_label_1_337f6b06:
 translate philippine vip_sadira_1_label_1_cdbacdaf:
 
     # Sadira "Shower me with your cum!"
-    Sadira ""
+    Sadira "Ibabad mo ako sa iyong laman!"
 
 # game/logic/events/adele.rpy:1280
 translate philippine vip_sadira_1_label_1_add01e0c:
 
     # Sadira "Give it all to me!"
-    Sadira ""
+    Sadira "Ibigay ang lahat sa akin!"
 
 # game/logic/events/adele.rpy:1282
 translate philippine vip_sadira_1_label_1_0e29719f:
 
     # Sadira "Yes! That's it!"
-    Sadira ""
+    Sadira "Oo! Ganyan!"
 
 # game/logic/events/adele.rpy:1283
 translate philippine vip_sadira_1_label_1_67eb149b:
@@ -3831,295 +3832,295 @@ translate philippine vip_sadira_1_label_1_67eb149b:
 translate philippine vip_sadira_1_label_1_c704d710:
 
     # Sadira "Ah... Yes, more!"
-    Sadira ""
+    Sadira "Ah... Sige pa!"
 
 # game/logic/events/adele.rpy:1286
 translate philippine vip_sadira_1_label_1_c4f925ce:
 
     # Sadira "You came so much..."
-    Sadira ""
+    Sadira "Ang dami ng nilabas mo..."
 
 # game/logic/events/adele.rpy:1288
 translate philippine vip_sadira_1_label_1_2577f140:
 
     # Sadira "We can't waste your precious liquids."
-    Sadira ""
+    Sadira "'Di mo masasayang ang iyong mga mahalagang likido."
 
 # game/logic/events/adele.rpy:1289
 translate philippine vip_sadira_1_label_1_8d4b5653:
 
     # ch_Name "What else would you use it for..."
-    ch_Name ""
+    ch_Name "Para sa ano pa bang layunin ito..."
 
 # game/logic/events/adele.rpy:1290
 translate philippine vip_sadira_1_label_1_156992cf:
 
     # Sadira "Mmm... That's what I like."
-    Sadira ""
+    Sadira "Mmmm... 'Yan ang gusto ko."
 
 # game/logic/events/adele.rpy:1292
 translate philippine vip_sadira_1_label_1_bb2d0347:
 
     # ch_Name "{i}(What a slut...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Puta talaga siya...){/i}"
 
 # game/logic/events/adele.rpy:1293
 translate philippine vip_sadira_1_label_1_58d4b2be:
 
     # ch_Name "Thanks..."
-    ch_Name ""
+    ch_Name "Salamat..."
 
 # game/logic/events/adele.rpy:1294
 translate philippine vip_sadira_1_label_1_d7ed3d30:
 
     # Sadira "C'ya around, honey,"
-    Sadira ""
+    Sadira "Magkikita tayo, mahal."
 
 # game/logic/events/adele.rpy:1296
 translate philippine vip_sadira_1_label_1_dd10c660:
 
     # ch_Name "Yes!"
-    ch_Name ""
+    ch_Name "Ayos!"
 
 # game/logic/events/adele.rpy:1297
 translate philippine vip_sadira_1_label_1_00c54c09:
 
     # Sadira "Then you came to the right person."
-    Sadira ""
+    Sadira "Pumunta ka sa tamang tao."
 
 # game/logic/events/adele.rpy:1298
 translate philippine vip_sadira_1_label_1_4ecdb685:
 
     # ch_Name "I hope you're right."
-    ch_Name ""
+    ch_Name "Sana tama ka."
 
 # game/logic/events/adele.rpy:1299
 translate philippine vip_sadira_1_label_1_1bd081da:
 
     # ch_Name "You have a nice tool."
-    ch_Name ""
+    ch_Name "Ang husay ng gamit mo."
 
 # game/logic/events/adele.rpy:1300
 translate philippine vip_sadira_1_label_1_401bb5e9:
 
     # Sadira "Thank you, baby."
-    Sadira ""
+    Sadira "Salamat, baby."
 
 # game/logic/events/adele.rpy:1301
 translate philippine vip_sadira_1_label_1_36d959ac:
 
     # Sadira "But I'm much more interested in yours."
-    Sadira ""
+    Sadira "Pero interesado ako sa iyo."
 
 # game/logic/events/adele.rpy:1303
 translate philippine vip_sadira_1_label_1_9313e537:
 
     # Sadira "Just like that."
-    Sadira ""
+    Sadira "Tulad ng ito."
 
 # game/logic/events/adele.rpy:1304
 translate philippine vip_sadira_1_label_1_d0ee0167:
 
     # ch_Name "{i}(She's got a nice touch.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Malambot ang hawak niya.){/i}"
 
 # game/logic/events/adele.rpy:1306
 translate philippine vip_sadira_1_label_1_6cff7ddf_1:
 
     # Sadira "[Name], I must say..."
-    Sadira ""
+    Sadira "[Name], dapat kong sabihin..."
 
 # game/logic/events/adele.rpy:1307
 translate philippine vip_sadira_1_label_1_73de6794_1:
 
     # Sadira "You have an incredible cock."
-    Sadira ""
+    Sadira "Napakahusay ng titi mo."
 
 # game/logic/events/adele.rpy:1308
 translate philippine vip_sadira_1_label_1_8702ceac:
 
     # Sadira "I love how it feels in my hands."
-    Sadira ""
+    Sadira "Iniibig kang pakiramdam sa aking mga kamay."
 
 # game/logic/events/adele.rpy:1309
 translate philippine vip_sadira_1_label_1_3a5c7650:
 
     # ch_Name "Thank you."
-    ch_Name ""
+    ch_Name "Salamat."
 
 # game/logic/events/adele.rpy:1311
 translate philippine vip_sadira_1_label_1_cbd359cb:
 
     # Sadira "It's so hot..."
-    Sadira ""
+    Sadira "Ang init..."
 
 # game/logic/events/adele.rpy:1312
 translate philippine vip_sadira_1_label_1_0056cfa1_1:
 
     # Sadira "You can feel the power in it..."
-    Sadira ""
+    Sadira "Mararamdaman mo ang kasiglaan..."
 
 # game/logic/events/adele.rpy:1313
 translate philippine vip_sadira_1_label_1_a34e620a:
 
     # Sadira "I'm jealous."
-    Sadira ""
+    Sadira "Nagseselos ako."
 
 # game/logic/events/adele.rpy:1315
 translate philippine vip_sadira_1_label_1_446fc9de:
 
     # ch_Name "How does your dick feel in hand?"
-    ch_Name ""
+    ch_Name "Ano ba ang pakiramdam ng iyong titi sa kamay?"
 
 # game/logic/events/adele.rpy:1316
 translate philippine vip_sadira_1_label_1_55ac1724:
 
     # Sadira "Try it yourself, baby."
-    Sadira ""
+    Sadira "Subukan mo, baby."
 
 # game/logic/events/adele.rpy:1317
 translate philippine vip_sadira_1_label_1_cbd63ed0:
 
     # ch_Name "Alright."
-    ch_Name ""
+    ch_Name "Sige."
 
 # game/logic/events/adele.rpy:1319
 translate philippine vip_sadira_1_label_1_4e9baf2b:
 
     # Sadira "Oh yes... I can feel your grasp, [Name]."
-    Sadira ""
+    Sadira "Ayos... Mararamdaman ko ang hawak ko, [Name]."
 
 # game/logic/events/adele.rpy:1320
 translate philippine vip_sadira_1_label_1_45b31bdf:
 
     # ch_Name "I can feel your touch too."
-    ch_Name ""
+    ch_Name "Ikaw rin."
 
 # game/logic/events/adele.rpy:1322
 translate philippine vip_sadira_1_label_1_431ef881:
 
     # Sadira "Stroke it at the time I stroke yours..."
-    Sadira ""
+    Sadira "Himasin mo habang hinahaplos kita..."
 
 # game/logic/events/adele.rpy:1323
 translate philippine vip_sadira_1_label_1_a11887a6:
 
     # ch_Name "Like this?"
-    ch_Name ""
+    ch_Name "Ganito ba?"
 
 # game/logic/events/adele.rpy:1324
 translate philippine vip_sadira_1_label_1_8014d7b6:
 
     # Sadira "Oh yes..."
-    Sadira ""
+    Sadira "Oo..."
 
 # game/logic/events/adele.rpy:1325
 translate philippine vip_sadira_1_label_1_54623b73:
 
     # Sadira "Keep going, baby."
-    Sadira ""
+    Sadira "Sige pa, baby."
 
 # game/logic/events/adele.rpy:1327
 translate philippine vip_sadira_1_label_1_a93d50a5:
 
     # ch_Name "You too."
-    ch_Name ""
+    ch_Name "Ikaw rin."
 
 # game/logic/events/adele.rpy:1328
 translate philippine vip_sadira_1_label_1_16c5f8c0:
 
     # ch_Name "{i}(I've never felt anything like this...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ang sarap talaga ng pakiramdam...){/i}"
 
 # game/logic/events/adele.rpy:1329
 translate philippine vip_sadira_1_label_1_8ff4347d:
 
     # Sadira "Yes, yes... Do you feel it?"
-    Sadira ""
+    Sadira "Sige, sige... Nasasabik ka ba?"
 
 # game/logic/events/adele.rpy:1330
 translate philippine vip_sadira_1_label_1_1855220c:
 
     # ch_Name "What?"
-    ch_Name ""
+    ch_Name "Ano?"
 
 # game/logic/events/adele.rpy:1332
 translate philippine vip_sadira_1_label_1_e9da7032:
 
     # Sadira "The ecstasy..."
-    Sadira ""
+    Sadira "Ang lubos na kaligayahan."
 
 # game/logic/events/adele.rpy:1333
 translate philippine vip_sadira_1_label_1_729fd9a4:
 
     # ch_Name "Oh yes..."
-    ch_Name ""
+    ch_Name "Oo..."
 
 # game/logic/events/adele.rpy:1335
 translate philippine vip_sadira_1_label_1_3368d128:
 
     # ch_Name "I can't wait any longer."
-    ch_Name ""
+    ch_Name "'Di ko na kaya."
 
 # game/logic/events/adele.rpy:1336
 translate philippine vip_sadira_1_label_1_90eefd17:
 
     # ch_Name "I'm going to cum!"
-    ch_Name ""
+    ch_Name "Puputok ako!"
 
 # game/logic/events/adele.rpy:1338
 translate philippine vip_sadira_1_label_1_b07af958:
 
     # Sadira "Look me in the eyes."
-    Sadira ""
+    Sadira "Tignan mo ang mata ko."
 
 # game/logic/events/adele.rpy:1339
 translate philippine vip_sadira_1_label_1_46cd254c:
 
     # Sadira "Yes! Yes! Yes!"
-    Sadira ""
+    Sadira "Oo! Sige pa!"
 
 # game/logic/events/adele.rpy:1341
 translate philippine vip_sadira_1_label_1_0d2cec0d:
 
     # Sadira "That's what I like!"
-    Sadira ""
+    Sadira "Gusto ko 'yan!"
 
 # game/logic/events/adele.rpy:1342
 translate philippine vip_sadira_1_label_1_4abb3998:
 
     # Sadira "Oh yes!"
-    Sadira ""
+    Sadira "Sige pa!"
 
 # game/logic/events/adele.rpy:1344
 translate philippine vip_sadira_1_label_1_c8be6e9b:
 
     # Sadira "I'm cuming too!"
-    Sadira ""
+    Sadira "Puputok rin ako!"
 
 # game/logic/events/adele.rpy:1345
 translate philippine vip_sadira_1_label_1_8851e55a:
 
     # Sadira "Ah... Yes..."
-    Sadira ""
+    Sadira "Ang sarap..."
 
 # game/logic/events/adele.rpy:1347
 translate philippine vip_sadira_1_label_1_5b4da7fe:
 
     # Sadira "There's only one problem."
-    Sadira ""
+    Sadira "May isang problema lang."
 
 # game/logic/events/adele.rpy:1348
 translate philippine vip_sadira_1_label_1_1855220c_1:
 
     # ch_Name "What?"
-    ch_Name ""
+    ch_Name "Ano?"
 
 # game/logic/events/adele.rpy:1350
 translate philippine vip_sadira_1_label_1_c4f925ce_1:
 
     # Sadira "You came so much..."
-    Sadira ""
+    Sadira "Andami ng nilabas mo..."
 
 # game/logic/events/adele.rpy:1351
 translate philippine vip_sadira_1_label_1_422f46cf:
@@ -4131,49 +4132,49 @@ translate philippine vip_sadira_1_label_1_422f46cf:
 translate philippine vip_sadira_1_label_1_2577f140_1:
 
     # Sadira "We can't waste your precious liquids."
-    Sadira ""
+    Sadira "'Di mo masasayang ang iyong mga mahalagang likido."
 
 # game/logic/events/adele.rpy:1354
 translate philippine vip_sadira_1_label_1_156992cf_1:
 
     # Sadira "Mmm... That's what I like."
-    Sadira ""
+    Sadira "Mmm... 'Yan ang gusto ko."
 
 # game/logic/events/adele.rpy:1355
 translate philippine vip_sadira_1_label_1_bb2d0347_1:
 
     # ch_Name "{i}(What a slut...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Puta talaga siya...){/i}"
 
 # game/logic/events/adele.rpy:1356
 translate philippine vip_sadira_1_label_1_58d4b2be_1:
 
     # ch_Name "Thanks..."
-    ch_Name ""
+    ch_Name "Salamat..."
 
 # game/logic/events/adele.rpy:1357
 translate philippine vip_sadira_1_label_1_cda1ab7f:
 
     # Sadira "C'ya around, honey."
-    Sadira ""
+    Sadira "Magkikita tayo."
 
 # game/logic/events/adele.rpy:1370
 translate philippine vip_sadira_1_label_2_f1a178e1:
 
     # Sadira "And you're a naughty boy..."
-    Sadira ""
+    Sadira "Masama ka talagang lalaki..."
 
 # game/logic/events/adele.rpy:1371
 translate philippine vip_sadira_1_label_2_9ffeeb0e:
 
     # Sadira "Very good, I like that."
-    Sadira ""
+    Sadira "Mabuti, gusto ko 'yan."
 
 # game/logic/events/adele.rpy:1372
 translate philippine vip_sadira_1_label_2_88e8dfba:
 
     # Sadira "Get ready, your life is about to be divided into \"before\" and \"after\"."
-    Sadira ""
+    Sadira "Maghanda ka, hahatiin ko ang buhay mo sa \"nakaraan\" and \"pagkatapos\"."
 
 # game/logic/events/adele.rpy:1373
 translate philippine vip_sadira_1_label_2_eee686cf:
@@ -4185,31 +4186,31 @@ translate philippine vip_sadira_1_label_2_eee686cf:
 translate philippine vip_sadira_1_label_2_9357ec3d:
 
     # Sadira "Your dick is throbbing so impatiently..."
-    Sadira ""
+    Sadira "Ang bilis ng pagtibok ng titi mo..."
 
 # game/logic/events/adele.rpy:1376
 translate philippine vip_sadira_1_label_2_950dd384:
 
     # Sadira "It's okay, I'll calm it down."
-    Sadira ""
+    Sadira "Ayos lang, kakalmahin ko."
 
 # game/logic/events/adele.rpy:1377
 translate philippine vip_sadira_1_label_2_2e831b09:
 
     # ch_Name "Wait..."
-    ch_Name ""
+    ch_Name "Sandali..."
 
 # game/logic/events/adele.rpy:1379
 translate philippine vip_sadira_1_label_2_c899ac97:
 
     # ch_Name "I want to taste your pussy!"
-    ch_Name ""
+    ch_Name "Gusto kong matikman ang kantot mo!"
 
 # game/logic/events/adele.rpy:1380
 translate philippine vip_sadira_1_label_2_177e15da:
 
     # ch_Name "Let's do it in the sixty-nine position."
-    ch_Name ""
+    ch_Name "Gawin natin ang 69."
 
 # game/logic/events/adele.rpy:1381
 translate philippine vip_sadira_1_label_2_6449e0ed:
@@ -4221,193 +4222,193 @@ translate philippine vip_sadira_1_label_2_6449e0ed:
 translate philippine vip_sadira_1_label_2_a92069ea:
 
     # Sadira "I love a guy who knows what he wants."
-    Sadira ""
+    Sadira "Mahilig ako sa mga alam ang gusto nila."
 
 # game/logic/events/adele.rpy:1384
 translate philippine vip_sadira_1_label_2_6cb5af04:
 
     # Sadira "Especially when their desires are the same as mine."
-    Sadira ""
+    Sadira "Lalo na kapag gusto ko rin."
 
 # game/logic/events/adele.rpy:1385
 translate philippine vip_sadira_1_label_2_c9b984dd:
 
     # Sadira "I'm in. Get down..."
-    Sadira ""
+    Sadira "Sige. Higa ka..."
 
 # game/logic/events/adele.rpy:1392
 translate philippine vip_sadira_1_label_2_302b9f0f:
 
     # ch_Name "{i}(Oh, her dark nipples are driving me crazy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nababaliw ako sa mga utong niya.){/i}"
 
 # game/logic/events/adele.rpy:1393
 translate philippine vip_sadira_1_label_2_aeea9498:
 
     # Sadira "Are you ready, my lion?"
-    Sadira ""
+    Sadira "Handa ka na ba, leon ko?"
 
 # game/logic/events/adele.rpy:1394
 translate philippine vip_sadira_1_label_2_4795e70d:
 
     # ch_Name "Can't you see? I'm on the edge!"
-    ch_Name ""
+    ch_Name "'Di mo ba makikita? Malapit na ako!"
 
 # game/logic/events/adele.rpy:1396
 translate philippine vip_sadira_1_label_2_7a84473f:
 
     # ch_Name "{i}(She's probably so playful with all her clients...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Baka naglalaro siya sa lahat niyang kliyente...){/i}"
 
 # game/logic/events/adele.rpy:1397
 translate philippine vip_sadira_1_label_2_b417c859:
 
     # ch_Name "{i}(But I still can't contain my lust when I look at her body.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pero 'di ko mapipigilan ang aking pagnanasa kapag tinitignan ko siya.){/i}"
 
 # game/logic/events/adele.rpy:1398
 translate philippine vip_sadira_1_label_2_208ccced:
 
     # ch_Name "{i}(I can't wait for her chubby lips to wrap around my cock...){/i}"
-    ch_Name ""
+    ch_Name "{i}(I'Di ako makapaghintay sa pagbalabal ng kanyang bibig sa titi ko...){/i}"
 
 # game/logic/events/adele.rpy:1400
 translate philippine vip_sadira_1_label_2_08cb1794:
 
     # Sadira "Oh, my lion, I can see how you're waiting for it!"
-    Sadira ""
+    Sadira "Oh, leon ko, gusto mo talaga ito!"
 
 # game/logic/events/adele.rpy:1401
 translate philippine vip_sadira_1_label_2_4f5f4c9f:
 
     # Sadira "Your poor cock will burst with tension if I don't start now."
-    Sadira ""
+    Sadira "Puputok sa pagkapuno ang iyong kawawang titi kapag 'di ko tutulungan."
 
 # game/logic/events/adele.rpy:1402
 translate philippine vip_sadira_1_label_2_8fa258af:
 
     # Sadira "It's been a long time since I've seen such an imposing device."
-    Sadira ""
+    Sadira "Ang tagal ko nang 'di nakapagyakap ng kahanga-hangang bagay."
 
 # game/logic/events/adele.rpy:1404
 translate philippine vip_sadira_1_label_2_738f282a:
 
     # ch_Name "So what are you waiting for? Come here!"
-    ch_Name ""
+    ch_Name "Ano pa hinihintay mo? Halika!"
 
 # game/logic/events/adele.rpy:1405
 translate philippine vip_sadira_1_label_2_cda7d776:
 
     # Sadira "You're so impatient..."
-    Sadira ""
+    Sadira "'Di makapaghintay..."
 
 # game/logic/events/adele.rpy:1406
 translate philippine vip_sadira_1_label_2_45179a88:
 
     # Sadira "Didn't I tell you that waiting is the best part of the process?"
-    Sadira ""
+    Sadira "Diba sinabi ko na ang paghintay ang pinakamasarap na bahagi nito?"
 
 # game/logic/events/adele.rpy:1407
 translate philippine vip_sadira_1_label_2_c7a074a4:
 
     # Sadira "Soon, we'll start..."
-    Sadira ""
+    Sadira "Madali nalang, magsisimula tayo..."
 
 # game/logic/events/adele.rpy:1409
 translate philippine vip_sadira_1_label_2_f63c1e21:
 
     # ch_Name "Maybe so, but I've waited long enough!"
-    ch_Name ""
+    ch_Name "Siyempre, pero sapat na ang paghihintay ko!"
 
 # game/logic/events/adele.rpy:1410
 translate philippine vip_sadira_1_label_2_64119992:
 
     # ch_Name "Your luscious forms are driving me crazy."
-    ch_Name ""
+    ch_Name "Bumabaliw ako sa anyo mo."
 
 # game/logic/events/adele.rpy:1412
 translate philippine vip_sadira_1_label_2_03c5e686:
 
     # Sadira "Good. So go crazy."
-    Sadira ""
+    Sadira "Mabuti. Bumaliw ka."
 
 # game/logic/events/adele.rpy:1413
 translate philippine vip_sadira_1_label_2_0f84116e:
 
     # ch_Name "Do I pay you for your torment?"
-    ch_Name ""
+    ch_Name "Nagbayad ba ako para sa pagdurusa?"
 
 # game/logic/events/adele.rpy:1414
 translate philippine vip_sadira_1_label_2_cf6f5250:
 
     # Sadira "You're paying me for an unforgettable experience."
-    Sadira ""
+    Sadira "Nagbayad ka para sa karanasang 'di makakalimutan."
 
 # game/logic/events/adele.rpy:1416
 translate philippine vip_sadira_1_label_2_c111c831:
 
     # ch_Name "{i}(Oh yeah, I'm already anticipating how wet her pussy is.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ayos, gusto ko nang makita kung gaano siya kabasa.){/i}"
 
 # game/logic/events/adele.rpy:1417
 translate philippine vip_sadira_1_label_2_5fabf729:
 
     # ch_Name "{i}(The day will come when I fuck her good.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Darating ang araw na kantutin ko siya ng mabuti.){/i}"
 
 # game/logic/events/adele.rpy:1418
 translate philippine vip_sadira_1_label_2_44ee2920:
 
     # ch_Name "{i}(But tonight, my cock will be busy with another hole.){/i}"
-    ch_Name ""
+    ch_Name ""{i}(Pero ngayon ibang butas ang gagamitin ko.){/i}""
 
 # game/logic/events/adele.rpy:1420
 translate philippine vip_sadira_1_label_2_12059ab5:
 
     # Sadira "And that's part of it."
-    Sadira ""
+    Sadira "At tapos na ang panimula."
 
 # game/logic/events/adele.rpy:1421
 translate philippine vip_sadira_1_label_2_f261fb7f:
 
     # Sadira "And now, the second part will begin..."
-    Sadira ""
+    Sadira "Ngayon, pumunta tayo sa ikalawang bahagi..."
 
 # game/logic/events/adele.rpy:1422
 translate philippine vip_sadira_1_label_2_f2cedac4:
 
     # ch_Name "Come here!"
-    ch_Name ""
+    ch_Name "Halika!"
 
 # game/logic/events/adele.rpy:1429
 translate philippine vip_sadira_1_label_2_15377d31:
 
     # ch_Name "{i}(Mmm, just as I thought, she's already all wet with anticipation.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mmm, sabi ko nga, basang-basa na siya.){/i}"
 
 # game/logic/events/adele.rpy:1430
 translate philippine vip_sadira_1_label_2_3784bb76:
 
     # ch_Name "{i}(I can feel her hand firmly gripping my cock...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Marararamdaman ko kung gaano ka tatag ang hawak niya...){/i}"
 
 # game/logic/events/adele.rpy:1431
 translate philippine vip_sadira_1_label_2_3db7599a:
 
     # Sadira "Oh... Wow, it's even bigger than I thought it would be."
-    Sadira ""
+    Sadira "Oh... akala ko maliit lang."
 
 # game/logic/events/adele.rpy:1432
 translate philippine vip_sadira_1_label_2_c2970a35:
 
     # Sadira "I hope it fits in my mouth."
-    Sadira ""
+    Sadira "Sana kasya ito sa bibig ko."
 
 # game/logic/events/adele.rpy:1434
 translate philippine vip_sadira_1_label_2_e58626bd:
 
     # ch_Name "And you try it!"
-    ch_Name ""
+    ch_Name "Subukan mo!"
 
 # game/logic/events/adele.rpy:1436
 translate philippine vip_sadira_1_label_2_eee686cf_1:
@@ -4431,13 +4432,13 @@ translate philippine vip_sadira_1_label_2_499b0243:
 translate philippine vip_sadira_1_label_2_4877ae20:
 
     # ch_Name "Oh, yeah, that's it..."
-    ch_Name ""
+    ch_Name "Sige, ganyan pa..."
 
 # game/logic/events/adele.rpy:1440
 translate philippine vip_sadira_1_label_2_da8043f2:
 
     # ch_Name "Keep going, baby!"
-    ch_Name ""
+    ch_Name "Sige pa, baby!"
 
 # game/logic/events/adele.rpy:1442
 translate philippine vip_sadira_1_label_2_51ffa327:
@@ -4455,7 +4456,7 @@ translate philippine vip_sadira_1_label_2_0ae9bcd0_1:
 translate philippine vip_sadira_1_label_2_21ea4090:
 
     # Sadira "You don't stop either..."
-    Sadira ""
+    Sadira "'Di ka rin magtigil..."
 
 # game/logic/events/adele.rpy:1445
 translate philippine vip_sadira_1_label_2_34279e0c:
@@ -4485,19 +4486,19 @@ translate philippine vip_sadira_1_label_2_0ae9bcd0_2:
 translate philippine vip_sadira_1_label_2_35b7dba8:
 
     # ch_Name "{i}(I don't think I've learned how to use my tongue yet.){/i}"
-    ch_Name ""
+    ch_Name "{i}('Di pa ako marunong maggamit ng dila ko.){/i}"
 
 # game/logic/events/adele.rpy:1451
 translate philippine vip_sadira_1_label_2_b732c533:
 
     # ch_Name "{i}(But she's a master of her craft, too.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pero ang galing niya naman.){/i}"
 
 # game/logic/events/adele.rpy:1452
 translate philippine vip_sadira_1_label_2_42ace6ff:
 
     # ch_Name "{i}(It's time to see if she can suck just as hard.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tignan natin kapag may iba pa siyang nalaman.){/i}"
 
 # game/logic/events/adele.rpy:1454
 translate philippine vip_sadira_1_label_2_3f8f5693:
@@ -4515,13 +4516,13 @@ translate philippine vip_sadira_1_label_2_caeeb467:
 translate philippine vip_sadira_1_label_2_3368d128:
 
     # ch_Name "I can't wait any longer."
-    ch_Name ""
+    ch_Name "'Di na ako makapaghintay."
 
 # game/logic/events/adele.rpy:1457
 translate philippine vip_sadira_1_label_2_53a55501:
 
     # ch_Name "Start sucking!"
-    ch_Name ""
+    ch_Name "Tsupain mo ako!"
 
 # game/logic/events/adele.rpy:1459
 translate philippine vip_sadira_1_label_2_177d347c:
@@ -4533,7 +4534,7 @@ translate philippine vip_sadira_1_label_2_177d347c:
 translate philippine vip_sadira_1_label_2_64fd0034:
 
     # ch_Name "Oh yeah, that's it, keep going!"
-    ch_Name ""
+    ch_Name "'yan talaga, sige pa!"
 
 # game/logic/events/adele.rpy:1462
 translate philippine vip_sadira_1_label_2_0ae9bcd0_3:
@@ -4557,13 +4558,13 @@ translate philippine vip_sadira_1_label_2_ca543b57:
 translate philippine vip_sadira_1_label_2_b446dd7a:
 
     # ch_Name "{i}(I have to keep up, too.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mamadig rin ako.){/i}"
 
 # game/logic/events/adele.rpy:1467
 translate philippine vip_sadira_1_label_2_06929019:
 
     # Sadira "Ah! Oh, yes..."
-    Sadira ""
+    Sadira "Ah! Sige..."
 
 # game/logic/events/adele.rpy:1468
 translate philippine vip_sadira_1_label_2_0ae9bcd0_4:
@@ -4575,13 +4576,13 @@ translate philippine vip_sadira_1_label_2_0ae9bcd0_4:
 translate philippine vip_sadira_1_label_2_3dd2f4a1:
 
     # ch_Name "{i}(She obviously likes my efforts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parang nagugustuhan niya ang ginagawa ko.){/i}"
 
 # game/logic/events/adele.rpy:1470
 translate philippine vip_sadira_1_label_2_dfc928ff:
 
     # ch_Name "{i}(This makes her suck even harder.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tumataas ang antas ng pagtsupa niya.){/i}"
 
 # game/logic/events/adele.rpy:1471
 translate philippine vip_sadira_1_label_2_ca543b57_1:
@@ -4593,7 +4594,7 @@ translate philippine vip_sadira_1_label_2_ca543b57_1:
 translate philippine vip_sadira_1_label_2_3e401e8d:
 
     # ch_Name "{i}(Unbelievable...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Napabilib ako...){/i}"
 
 # game/logic/events/adele.rpy:1474
 translate philippine vip_sadira_1_label_2_0ae9bcd0_5:
@@ -4605,7 +4606,7 @@ translate philippine vip_sadira_1_label_2_0ae9bcd0_5:
 translate philippine vip_sadira_1_label_2_06929019_1:
 
     # Sadira "Ah! Oh, yes..."
-    Sadira ""
+    Sadira "Ah! Sige pa..."
 
 # game/logic/events/adele.rpy:1476
 translate philippine vip_sadira_1_label_2_6394ed59:
@@ -4617,7 +4618,7 @@ translate philippine vip_sadira_1_label_2_6394ed59:
 translate philippine vip_sadira_1_label_2_0681017a:
 
     # ch_Name "{i}(It's worth the money, that's for sure...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sulit naman, sigurado...){/i}"
 
 # game/logic/events/adele.rpy:1479
 translate philippine vip_sadira_1_label_2_0a11198e:
@@ -4641,19 +4642,19 @@ translate philippine vip_sadira_1_label_2_51eb371d:
 translate philippine vip_sadira_1_label_2_304273ff:
 
     # ch_Name "Keep it up, baby."
-    ch_Name ""
+    ch_Name "Sige pa, baby."
 
 # game/logic/events/adele.rpy:1483
 translate philippine vip_sadira_1_label_2_033c830d:
 
     # ch_Name "That's great..."
-    ch_Name ""
+    ch_Name "Ang sarap..."
 
 # game/logic/events/adele.rpy:1484
 translate philippine vip_sadira_1_label_2_5da7d200:
 
     # Sadira "Less words, more action, my lion!"
-    Sadira ""
+    Sadira "Mas konting salita, mas maraming aksyon, leon ko!"
 
 # game/logic/events/adele.rpy:1486
 translate philippine vip_sadira_1_label_2_53b00b3b:
@@ -4665,13 +4666,13 @@ translate philippine vip_sadira_1_label_2_53b00b3b:
 translate philippine vip_sadira_1_label_2_b80848fe:
 
     # ch_Name "{i}(She's right, I can't keep up.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tama siya, 'di ko kayang mamadig.){/i}"
 
 # game/logic/events/adele.rpy:1488
 translate philippine vip_sadira_1_label_2_ad434e23:
 
     # ch_Name "{i}(I want to taste what she tastes like when she has an orgasm.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Gusto kong malaman ang lasa ng orgasm niya.){/i}"
 
 # game/logic/events/adele.rpy:1489
 translate philippine vip_sadira_1_label_2_730d2dfc:
@@ -4701,31 +4702,31 @@ translate philippine vip_sadira_1_label_2_56d013d8:
 translate philippine vip_sadira_1_label_2_a3139d9a:
 
     # ch_Name "{i}(I'm almost at my limit. She's too good.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Malapit na ako. Sobrang galing niya.){/i}"
 
 # game/logic/events/adele.rpy:1495
 translate philippine vip_sadira_1_label_2_6b389b7e:
 
     # ch_Name "I'm..."
-    ch_Name ""
+    ch_Name "Ako ay..."
 
 # game/logic/events/adele.rpy:1497
 translate philippine vip_sadira_1_label_2_2fda9a58:
 
     # ch_Name "{i}(If this keeps up, I'm going to come.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kapag magpapatuloy ito, puputok ako.){/i}"
 
 # game/logic/events/adele.rpy:1498
 translate philippine vip_sadira_1_label_2_fe881b29:
 
     # ch_Name "{i}(I have to warn her.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bigyan ko siya ng babala.){/i}"
 
 # game/logic/events/adele.rpy:1499
 translate philippine vip_sadira_1_label_2_7494d93a:
 
     # ch_Name "I'm going to come soon. Don't stop!"
-    ch_Name ""
+    ch_Name "Puputok na ako. 'Wag kang tumigil!"
 
 # game/logic/events/adele.rpy:1500
 translate philippine vip_sadira_1_label_2_0a11198e_1:
@@ -4737,31 +4738,31 @@ translate philippine vip_sadira_1_label_2_0a11198e_1:
 translate philippine vip_sadira_1_label_2_2a9bad9f:
 
     # Sadira "Good! Me too..."
-    Sadira ""
+    Sadira "Ayos! Ako rin..."
 
 # game/logic/events/adele.rpy:1503
 translate philippine vip_sadira_1_label_2_d5790951:
 
     # Sadira "Don't worry, my lion."
-    Sadira ""
+    Sadira "'Wag mag-alala, leon ko."
 
 # game/logic/events/adele.rpy:1504
 translate philippine vip_sadira_1_label_2_a2454e19:
 
     # Sadira "I won't shed a drop of your seed!"
-    Sadira ""
+    Sadira "'Di ko sayangin ang laman mo!"
 
 # game/logic/events/adele.rpy:1506
 translate philippine vip_sadira_1_label_2_09ab5796:
 
     # ch_Name "{i}(What is it... Why did she stop?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ano ba ang... Bakit tumigil siya?){/i}"
 
 # game/logic/events/adele.rpy:1507
 translate philippine vip_sadira_1_label_2_5a497ad4:
 
     # ch_Name "{i}(Is it some kind of technique? Or did something go wrong?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pamamaraan ba ito? O nagkamali ba ako?){/i}"
 
 # game/logic/events/adele.rpy:1508
 translate philippine vip_sadira_1_label_2_8c41bb6f:
@@ -4773,7 +4774,7 @@ translate philippine vip_sadira_1_label_2_8c41bb6f:
 translate philippine vip_sadira_1_label_2_dc34394b:
 
     # ch_Name "{i}(Her tongue is running so nicely over my head. It's like she's going to...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ang sarap ng galaw ng dila niya. Parang...){/i}"
 
 # game/logic/events/adele.rpy:1511
 translate philippine vip_sadira_1_label_2_956c68f6:
@@ -4785,7 +4786,7 @@ translate philippine vip_sadira_1_label_2_956c68f6:
 translate philippine vip_sadira_1_label_2_b78e2d9c:
 
     # ch_Name "{i}(Wow... In just a moment she has it all in her mouth.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wow... Isang saglit lang nasa loob na ang lahat.){/i}"
 
 # game/logic/events/adele.rpy:1513
 translate philippine vip_sadira_1_label_2_67d36fab:
@@ -4797,7 +4798,7 @@ translate philippine vip_sadira_1_label_2_67d36fab:
 translate philippine vip_sadira_1_label_2_f5a1921c:
 
     # ch_Name "I can't hold back any longer..."
-    ch_Name ""
+    ch_Name "'Di ko na kaya..."
 
 # game/logic/events/adele.rpy:1516
 translate philippine vip_sadira_1_label_2_499b0243_2:
@@ -4809,7 +4810,7 @@ translate philippine vip_sadira_1_label_2_499b0243_2:
 translate philippine vip_sadira_1_label_2_bbc6dd13:
 
     # ch_Name "Get ready!"
-    ch_Name ""
+    ch_Name "Humada ka!"
 
 # game/logic/events/adele.rpy:1519
 translate philippine vip_sadira_1_label_2_e6fd9e9a:
@@ -4821,7 +4822,7 @@ translate philippine vip_sadira_1_label_2_e6fd9e9a:
 translate philippine vip_sadira_1_label_2_ee177493:
 
     # ch_Name "Ahh... That feels so good."
-    ch_Name ""
+    ch_Name "Ahh... ang sarap."
 
 # game/logic/events/adele.rpy:1521
 translate philippine vip_sadira_1_label_2_7bd4e091:
@@ -4833,253 +4834,253 @@ translate philippine vip_sadira_1_label_2_7bd4e091:
 translate philippine vip_sadira_1_label_2_a90d3870:
 
     # ch_Name "{i}(She didn't even choke on it...){/i}"
-    ch_Name ""
+    ch_Name "{i}('Di nga siya nabulunan...){/i}"
 
 # game/logic/events/adele.rpy:1524
 translate philippine vip_sadira_1_label_2_2a57d80a:
 
     # ch_Name "{i}(But I can feel her head greedily thrusting on my cock.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pero mararamdaman ko ang puwera na ginagamit niya.){/i}"
 
 # game/logic/events/adele.rpy:1525
 translate philippine vip_sadira_1_label_2_5252dbd6:
 
     # ch_Name "{i}(Crazy...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ang sarap...){/i}"
 
 # game/logic/events/adele.rpy:1526
 translate philippine vip_sadira_1_label_2_5d9efeb9:
 
     # ch_Name "Good girl..."
-    ch_Name ""
+    ch_Name "Ang galing mo..."
 
 # game/logic/events/adele.rpy:1528
 translate philippine vip_sadira_1_label_2_c40077d3:
 
     # ch_Name "I'm all..."
-    ch_Name ""
+    ch_Name "Ako ay..."
 
 # game/logic/events/adele.rpy:1529
 translate philippine vip_sadira_1_label_2_bbf8a1e4:
 
     # Sadira "I noticed."
-    Sadira ""
+    Sadira "Napansin ko."
 
 # game/logic/events/adele.rpy:1536
 translate philippine vip_sadira_1_label_2_fd37d9d3:
 
     # ch_Name "I think you did spill a few drops."
-    ch_Name ""
+    ch_Name "Parang sinayang mo ang ibang patak."
 
 # game/logic/events/adele.rpy:1537
 translate philippine vip_sadira_1_label_2_3948569b:
 
     # ch_Name "Your face is all messed up."
-    ch_Name ""
+    ch_Name "Magulo na ang mukha mo."
 
 # game/logic/events/adele.rpy:1538
 translate philippine vip_sadira_1_label_2_2ab14bc2:
 
     # Sadira "That's for dessert."
-    Sadira ""
+    Sadira "Panghimagas ito."
 
 # game/logic/events/adele.rpy:1540
 translate philippine vip_sadira_1_label_2_8a732084:
 
     # Sadira "You were great."
-    Sadira ""
+    Sadira "Ang galing mo."
 
 # game/logic/events/adele.rpy:1541
 translate philippine vip_sadira_1_label_2_9fab1f49:
 
     # ch_Name "We should do it again sometime."
-    ch_Name ""
+    ch_Name "Gawin natin ito ulit sa susunod."
 
 # game/logic/events/adele.rpy:1542
 translate philippine vip_sadira_1_label_2_5939d53d:
 
     # Sadira "We will if you want us to, my lion."
-    Sadira ""
+    Sadira "Kapag gusto mo, leon ko."
 
 # game/logic/events/adele.rpy:1543
 translate philippine vip_sadira_1_label_2_ae5ffc39:
 
     # Sadira "See you soon!"
-    Sadira ""
+    Sadira "Magkikita tayo ulit!"
 
 # game/logic/events/adele.rpy:1545
 translate philippine vip_sadira_1_label_2_302b9f0f_1:
 
     # ch_Name "{i}(Oh, her dark nipples are driving me crazy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nababaliw ako sa mga utong niya.){/i}"
 
 # game/logic/events/adele.rpy:1546
 translate philippine vip_sadira_1_label_2_aeea9498_1:
 
     # Sadira "Are you ready, my lion?"
-    Sadira ""
+    Sadira "Handa ka na ba, leon ko?"
 
 # game/logic/events/adele.rpy:1547
 translate philippine vip_sadira_1_label_2_4795e70d_1:
 
     # ch_Name "Can't you see? I'm on the edge!"
-    ch_Name ""
+    ch_Name "'Di mo ba makikita? Malapit na ako!"
 
 # game/logic/events/adele.rpy:1549
 translate philippine vip_sadira_1_label_2_7a84473f_1:
 
     # ch_Name "{i}(She's probably so playful with all her clients...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Baka naglalaro siya sa lahat niyang kliyente...){/i}
 
 # game/logic/events/adele.rpy:1550
 translate philippine vip_sadira_1_label_2_b417c859_1:
 
     # ch_Name "{i}(But I still can't contain my lust when I look at her body.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pero 'di ko mapipigilan ang aking pagnanasa kapag tinitignan ko siya.){/i}
 
 # game/logic/events/adele.rpy:1551
 translate philippine vip_sadira_1_label_2_208ccced_1:
 
     # ch_Name "{i}(I can't wait for her chubby lips to wrap around my cock...){/i}"
-    ch_Name ""
+    ch_Name "{i}(I'Di ako makapaghintay sa pagbalabal ng kanyang bibig sa titi ko...){/i}"
 
 # game/logic/events/adele.rpy:1553
 translate philippine vip_sadira_1_label_2_08cb1794_1:
 
     # Sadira "Oh, my lion, I can see how you're waiting for it!"
-    Sadira ""
+    Sadira "Oh, leon ko, gusto mo talaga ito!"
 
 # game/logic/events/adele.rpy:1554
 translate philippine vip_sadira_1_label_2_4f5f4c9f_1:
 
     # Sadira "Your poor cock will burst with tension if I don't start now."
-    Sadira ""
+    Sadira "Puputok sa pagkapuno ang iyong kawawang titi kapag 'di ko tutulungan."
 
 # game/logic/events/adele.rpy:1555
 translate philippine vip_sadira_1_label_2_8fa258af_1:
 
     # Sadira "It's been a long time since I've seen such an imposing device."
-    Sadira ""
+    Sadira "Ang tagal ko nang 'di nakapagyakap ng kahanga-hangang bagay."
 
 # game/logic/events/adele.rpy:1557
 translate philippine vip_sadira_1_label_2_738f282a_1:
 
     # ch_Name "So what are you waiting for? Come here!"
-    ch_Name ""
+    ch_Name "Ano pa hinihintay mo? Halika!"
 
 # game/logic/events/adele.rpy:1558
 translate philippine vip_sadira_1_label_2_cda7d776_1:
 
     # Sadira "You're so impatient..."
-    Sadira ""
+    Sadira "'Di makapaghintay..."
 
 # game/logic/events/adele.rpy:1559
 translate philippine vip_sadira_1_label_2_45179a88_1:
 
     # Sadira "Didn't I tell you that waiting is the best part of the process?"
-    Sadira ""
+    Sadira "Diba sinabi ko na ang paghintay ang pinakamasarap na bahagi nito?"
 
 # game/logic/events/adele.rpy:1560
 translate philippine vip_sadira_1_label_2_c7a074a4_1:
 
     # Sadira "Soon, we'll start..."
-    Sadira ""
+    Sadira "Madali nalang, magsisimula tayo..."
 
 # game/logic/events/adele.rpy:1562
 translate philippine vip_sadira_1_label_2_f63c1e21_1:
 
     # ch_Name "Maybe so, but I've waited long enough!"
-    ch_Name ""
+    ch_Name ""Siyempre, pero sapat na ang paghihintay ko!""
 
 # game/logic/events/adele.rpy:1563
 translate philippine vip_sadira_1_label_2_64119992_1:
 
     # ch_Name "Your luscious forms are driving me crazy."
-    ch_Name ""
+    ch_Name "Bumabaliw ako sa anyo mo."
 
 # game/logic/events/adele.rpy:1565
 translate philippine vip_sadira_1_label_2_03c5e686_1:
 
     # Sadira "Good. So go crazy."
-    Sadira ""
+    Sadira Mabuti. Bumaliw ka."
 
 # game/logic/events/adele.rpy:1566
 translate philippine vip_sadira_1_label_2_0f84116e_1:
 
     # ch_Name "Do I pay you for your torment?"
-    ch_Name ""
+    ch_Name "Nagbayad ba ako para sa pagdurusa?"
 
 # game/logic/events/adele.rpy:1567
 translate philippine vip_sadira_1_label_2_cf6f5250_1:
 
     # Sadira "You're paying me for an unforgettable experience."
-    Sadira ""
+    Sadira "Nagbayad ka para sa karanasang 'di makakalimutan."
 
 # game/logic/events/adele.rpy:1569
 translate philippine vip_sadira_1_label_2_95e4d8ed:
 
     # ch_Name "{i}(Oh yeah, I'm already anticipating how tender her ass is.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ayos, Igusto ko nang yakapin ang malambot niyang pwet.){/i}"
 
 # game/logic/events/adele.rpy:1570
 translate philippine vip_sadira_1_label_2_5fabf729_1:
 
     # ch_Name "{i}(The day will come when I fuck her good.){/i}"
-    ch_Name ""
+    ch_Name {i}(Darating ang araw na kantutin ko siya ng mabuti.){/i}
 
 # game/logic/events/adele.rpy:1571
 translate philippine vip_sadira_1_label_2_359f73ab:
 
     # ch_Name "{i}(But tonight, my dick's gonna be busy with another asshole.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pero ngayon ibang butas ang gagamitin ko.){/i}"
 
 # game/logic/events/adele.rpy:1573
 translate philippine vip_sadira_1_label_2_12059ab5_1:
 
     # Sadira "And that's part of it."
-    Sadira ""
+    Sadira "At tapos na ang panimula."
 
 # game/logic/events/adele.rpy:1574
 translate philippine vip_sadira_1_label_2_f261fb7f_1:
 
     # Sadira "And now, the second part will begin..."
-    Sadira ""
+    Sadira "Ngayon, pumunta tayo sa ikalawang bahagi..."
 
 # game/logic/events/adele.rpy:1575
 translate philippine vip_sadira_1_label_2_f2cedac4_1:
 
     # ch_Name "Come here!"
-    ch_Name ""
+    ch_Name "Halika!"
 
 # game/logic/events/adele.rpy:1582
 translate philippine vip_sadira_1_label_2_c7e538b5:
 
     # ch_Name "{i}(Mmm, just as I thought, she's all excited about it.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mmm, sabi ko nga, basang-basa na siya.){/i}"
 
 # game/logic/events/adele.rpy:1583
 translate philippine vip_sadira_1_label_2_3784bb76_1:
 
     # ch_Name "{i}(I can feel her hand firmly gripping my cock...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Marararamdaman ko kung gaano ka tatag ang hawak niya...){/i}"
 
 # game/logic/events/adele.rpy:1584
 translate philippine vip_sadira_1_label_2_791b42aa:
 
     # Sadira "Oh... Wow, it's even bigger than I thought."
-    Sadira ""
+    Sadira "Oh... akala ko maliit lang."
 
 # game/logic/events/adele.rpy:1585
 translate philippine vip_sadira_1_label_2_c2970a35_1:
 
     # Sadira "I hope it fits in my mouth."
-    Sadira ""
+    Sadira "Sana kasya ito sa bibig ko."
 
 # game/logic/events/adele.rpy:1587
 translate philippine vip_sadira_1_label_2_e58626bd_1:
 
     # ch_Name "And you try it!"
-    ch_Name ""
+    ch_Name "Subukan mo!"
 
 # game/logic/events/adele.rpy:1589
 translate philippine vip_sadira_1_label_2_eee686cf_3:
@@ -5103,13 +5104,13 @@ translate philippine vip_sadira_1_label_2_499b0243_3:
 translate philippine vip_sadira_1_label_2_4877ae20_1:
 
     # ch_Name "Oh, yeah, that's it..."
-    ch_Name ""
+    ch_Name "Sige, ganyan pa..."
 
 # game/logic/events/adele.rpy:1593
 translate philippine vip_sadira_1_label_2_da8043f2_1:
 
     # ch_Name "Keep going, baby!"
-    ch_Name ""
+    ch_Name "Sige pa, baby!"
 
 # game/logic/events/adele.rpy:1595
 translate philippine vip_sadira_1_label_2_51ffa327_1:
@@ -5127,7 +5128,7 @@ translate philippine vip_sadira_1_label_2_0ae9bcd0_9:
 translate philippine vip_sadira_1_label_2_21ea4090_1:
 
     # Sadira "You don't stop either..."
-    Sadira ""
+    Sadira "'Di ka rin magtigil..."
 
 # game/logic/events/adele.rpy:1598
 translate philippine vip_sadira_1_label_2_34279e0c_1:
@@ -5157,19 +5158,19 @@ translate philippine vip_sadira_1_label_2_0ae9bcd0_10:
 translate philippine vip_sadira_1_label_2_35b7dba8_1:
 
     # ch_Name "{i}(I don't think I've learned how to use my tongue yet.){/i}"
-    ch_Name ""
+    ch_Name "{i}('Di pa ako marunong maggamit ng dila ko.){/i}"
 
 # game/logic/events/adele.rpy:1604
 translate philippine vip_sadira_1_label_2_b732c533_1:
 
     # ch_Name "{i}(But she's a master of her craft, too.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pero ang galing niya naman.){/i}"
 
 # game/logic/events/adele.rpy:1605
 translate philippine vip_sadira_1_label_2_42ace6ff_1:
 
     # ch_Name "{i}(It's time to see if she can suck just as hard.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tignan natin kapag may iba pa siyang nalaman.){/i}"
 
 # game/logic/events/adele.rpy:1607
 translate philippine vip_sadira_1_label_2_3f8f5693_1:
@@ -5187,13 +5188,13 @@ translate philippine vip_sadira_1_label_2_caeeb467_1:
 translate philippine vip_sadira_1_label_2_3368d128_1:
 
     # ch_Name "I can't wait any longer."
-    ch_Name ""
+    ch_Name "'Di na ako makapaghintay."
 
 # game/logic/events/adele.rpy:1610
 translate philippine vip_sadira_1_label_2_53a55501_1:
 
     # ch_Name "Start sucking!"
-    ch_Name ""
+    ch_Name "Tsupain mo ako!"
 
 # game/logic/events/adele.rpy:1612
 translate philippine vip_sadira_1_label_2_177d347c_1:
@@ -5205,7 +5206,7 @@ translate philippine vip_sadira_1_label_2_177d347c_1:
 translate philippine vip_sadira_1_label_2_ce4141bd:
 
     # ch_Name "Oh, yeah, that's it, keep going!"
-    ch_Name ""
+    ch_Name "'yan talaga, sige pa!"
 
 # game/logic/events/adele.rpy:1615
 translate philippine vip_sadira_1_label_2_0ae9bcd0_11:
@@ -5229,7 +5230,7 @@ translate philippine vip_sadira_1_label_2_ca543b57_2:
 translate philippine vip_sadira_1_label_2_b446dd7a_1:
 
     # ch_Name "{i}(I have to keep up, too.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mamadig rin ako.){/i}"
 
 # game/logic/events/adele.rpy:1620
 translate philippine vip_sadira_1_label_2_06929019_2:
@@ -5247,13 +5248,13 @@ translate philippine vip_sadira_1_label_2_0ae9bcd0_12:
 translate philippine vip_sadira_1_label_2_3dd2f4a1_1:
 
     # ch_Name "{i}(She obviously likes my efforts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parang nagugustuhan niya ang ginagawa ko.){/i}"
 
 # game/logic/events/adele.rpy:1623
 translate philippine vip_sadira_1_label_2_dfc928ff_1:
 
     # ch_Name "{i}(This makes her suck even harder.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tumataas ang antas ng pagtsupa niya.){/i}"
 
 # game/logic/events/adele.rpy:1624
 translate philippine vip_sadira_1_label_2_ca543b57_3:
@@ -5265,7 +5266,7 @@ translate philippine vip_sadira_1_label_2_ca543b57_3:
 translate philippine vip_sadira_1_label_2_3e401e8d_1:
 
     # ch_Name "{i}(Unbelievable...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Napabilib ako...){/i}"
 
 # game/logic/events/adele.rpy:1627
 translate philippine vip_sadira_1_label_2_0ae9bcd0_13:
@@ -5277,7 +5278,7 @@ translate philippine vip_sadira_1_label_2_0ae9bcd0_13:
 translate philippine vip_sadira_1_label_2_06929019_3:
 
     # Sadira "Ah! Oh, yes..."
-    Sadira ""
+    Sadira "Ah! Sige pa..."
 
 # game/logic/events/adele.rpy:1629
 translate philippine vip_sadira_1_label_2_6394ed59_1:
@@ -5289,7 +5290,7 @@ translate philippine vip_sadira_1_label_2_6394ed59_1:
 translate philippine vip_sadira_1_label_2_0681017a_1:
 
     # ch_Name "{i}(It's worth the money, that's for sure...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sulit naman, sigurado...){/i}"
 
 # game/logic/events/adele.rpy:1632
 translate philippine vip_sadira_1_label_2_0a11198e_2:
@@ -5313,19 +5314,19 @@ translate philippine vip_sadira_1_label_2_51eb371d_1:
 translate philippine vip_sadira_1_label_2_304273ff_1:
 
     # ch_Name "Keep it up, baby."
-    ch_Name ""
+    ch_Name "Sige pa, baby."
 
 # game/logic/events/adele.rpy:1636
 translate philippine vip_sadira_1_label_2_033c830d_1:
 
     # ch_Name "That's great..."
-    ch_Name ""
+    ch_Name "Ang sarap..."
 
 # game/logic/events/adele.rpy:1637
 translate philippine vip_sadira_1_label_2_5da7d200_1:
 
     # Sadira "Less words, more action, my lion!"
-    Sadira ""
+    Sadira "Mas konting salita, mas maraming aksyon, leon ko!"
 
 # game/logic/events/adele.rpy:1638
 translate philippine vip_sadira_1_label_2_730d2dfc_1:
@@ -5355,31 +5356,31 @@ translate philippine vip_sadira_1_label_2_56d013d8_1:
 translate philippine vip_sadira_1_label_2_a3139d9a_1:
 
     # ch_Name "{i}(I'm almost at my limit. She's too good.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Malapit na ako. Sobrang galing niya.){/i}"
 
 # game/logic/events/adele.rpy:1644
 translate philippine vip_sadira_1_label_2_6b389b7e_1:
 
     # ch_Name "I'm..."
-    ch_Name ""
+    ch_Name "Ako ay..."
 
 # game/logic/events/adele.rpy:1646
 translate philippine vip_sadira_1_label_2_2fda9a58_1:
 
     # ch_Name "{i}(If this keeps up, I'm going to come.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kapag magpapatuloy ito, puputok ako.){/i}"
 
 # game/logic/events/adele.rpy:1647
 translate philippine vip_sadira_1_label_2_fe881b29_1:
 
     # ch_Name "{i}(I have to warn her.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bigyan ko siya ng babala.){/i}"
 
 # game/logic/events/adele.rpy:1648
 translate philippine vip_sadira_1_label_2_7494d93a_1:
 
     # ch_Name "I'm going to come soon. Don't stop!"
-    ch_Name ""
+    ch_Name "Puputok na ako. 'Wag kang tumigil!"
 
 # game/logic/events/adele.rpy:1649
 translate philippine vip_sadira_1_label_2_0a11198e_3:
@@ -5391,31 +5392,31 @@ translate philippine vip_sadira_1_label_2_0a11198e_3:
 translate philippine vip_sadira_1_label_2_2a9bad9f_1:
 
     # Sadira "Good! Me too..."
-    Sadira ""
+    Sadira "Ayos! Ako rin..."
 
 # game/logic/events/adele.rpy:1652
 translate philippine vip_sadira_1_label_2_d5790951_1:
 
     # Sadira "Don't worry, my lion."
-    Sadira ""
+    Sadira "'Wag mag-alala, leon ko."
 
 # game/logic/events/adele.rpy:1653
 translate philippine vip_sadira_1_label_2_a2454e19_1:
 
     # Sadira "I won't shed a drop of your seed!"
-    Sadira ""
+    Sadira "'Di ko sayangin ang laman mo!"
 
 # game/logic/events/adele.rpy:1655
 translate philippine vip_sadira_1_label_2_09ab5796_1:
 
     # ch_Name "{i}(What is it... Why did she stop?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ano ba ang... Bakit tumigil siya?){/i}"
 
 # game/logic/events/adele.rpy:1656
 translate philippine vip_sadira_1_label_2_5a497ad4_1:
 
     # ch_Name "{i}(Is it some kind of technique? Or did something go wrong?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pamamaraan ba ito? O nagkamali ba ako?){/i}"
 
 # game/logic/events/adele.rpy:1657
 translate philippine vip_sadira_1_label_2_8c41bb6f_1:
@@ -5427,7 +5428,7 @@ translate philippine vip_sadira_1_label_2_8c41bb6f_1:
 translate philippine vip_sadira_1_label_2_dc34394b_1:
 
     # ch_Name "{i}(Her tongue is running so nicely over my head. It's like she's going to...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ang sarap ng galaw ng dila niya. Parang...){/i}"
 
 # game/logic/events/adele.rpy:1660
 translate philippine vip_sadira_1_label_2_956c68f6_1:
@@ -5439,7 +5440,7 @@ translate philippine vip_sadira_1_label_2_956c68f6_1:
 translate philippine vip_sadira_1_label_2_b78e2d9c_1:
 
     # ch_Name "{i}(Wow... In just a moment she has it all in her mouth.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wow... Isang saglit lang nasa loob na ang lahat.){/i}"
 
 # game/logic/events/adele.rpy:1662
 translate philippine vip_sadira_1_label_2_67d36fab_1:
@@ -5451,7 +5452,7 @@ translate philippine vip_sadira_1_label_2_67d36fab_1:
 translate philippine vip_sadira_1_label_2_f5a1921c_1:
 
     # ch_Name "I can't hold back any longer..."
-    ch_Name ""
+    ch_Name "'Di ko na kaya..."
 
 # game/logic/events/adele.rpy:1665
 translate philippine vip_sadira_1_label_2_499b0243_5:
@@ -5463,7 +5464,7 @@ translate philippine vip_sadira_1_label_2_499b0243_5:
 translate philippine vip_sadira_1_label_2_bbc6dd13_1:
 
     # ch_Name "Get ready!"
-    ch_Name ""
+    ch_Name "Humada ka!"
 
 # game/logic/events/adele.rpy:1668
 translate philippine vip_sadira_1_label_2_e6fd9e9a_1:
@@ -5487,163 +5488,163 @@ translate philippine vip_sadira_1_label_2_7bd4e091_1:
 translate philippine vip_sadira_1_label_2_a90d3870_1:
 
     # ch_Name "{i}(She didn't even choke on it...){/i}"
-    ch_Name ""
+    ch_Name "{i}('Di nga siya nabulunan...){/i}"
 
 # game/logic/events/adele.rpy:1673
 translate philippine vip_sadira_1_label_2_2a57d80a_1:
 
     # ch_Name "{i}(But I can feel her head greedily thrusting on my cock.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pero mararamdaman ko ang puwera na ginagamit niya.){/i}"
 
 # game/logic/events/adele.rpy:1674
 translate philippine vip_sadira_1_label_2_5252dbd6_1:
 
     # ch_Name "{i}(Crazy...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ang sarap...){/i}"
 
 # game/logic/events/adele.rpy:1675
 translate philippine vip_sadira_1_label_2_5d9efeb9_1:
 
     # ch_Name "Good girl..."
-    ch_Name ""
+    ch_Name "Ang galing mo..."
 
 # game/logic/events/adele.rpy:1676
 translate philippine vip_sadira_1_label_2_c40077d3_1:
 
     # ch_Name "I'm all..."
-    ch_Name ""
+    ch_Name "Ako ay..."
 
 # game/logic/events/adele.rpy:1677
 translate philippine vip_sadira_1_label_2_bbf8a1e4_1:
 
     # Sadira "I noticed."
-    Sadira ""
+    Sadira "Napansin ko."
 
 # game/logic/events/adele.rpy:1684
 translate philippine vip_sadira_1_label_2_170a2365:
 
     # ch_Name "That was incredible, Sadira..."
-    ch_Name ""
+    ch_Name "Napakasarap naman, Sadira..."
 
 # game/logic/events/adele.rpy:1685
 translate philippine vip_sadira_1_label_2_1adde333:
 
     # Sadira "Thank you. I tried for you, my lion."
-    Sadira ""
+    Sadira "Salamat. Pinaghirapan ko talaga, leon ko."
 
 # game/logic/events/adele.rpy:1686
 translate philippine vip_sadira_1_label_2_73342884:
 
     # ch_Name "Maybe you want me to suck your dick, too?"
-    ch_Name ""
+    ch_Name "Baka gusto mo rin bang tsupain kita?"
 
 # game/logic/events/adele.rpy:1688
 translate philippine vip_sadira_1_label_2_d1675bea:
 
     # Sadira "Heh, that sounds like fun, but..."
-    Sadira ""
+    Sadira "Parang masaya naman, pero..."
 
 # game/logic/events/adele.rpy:1689
 translate philippine vip_sadira_1_label_2_09ccc37c:
 
     # Sadira "Our time has come to an end."
-    Sadira ""
+    Sadira "Naubos na ang oras natin."
 
 # game/logic/events/adele.rpy:1690
 translate philippine vip_sadira_1_label_2_622e56ea:
 
     # Sadira "Maybe next time?"
-    Sadira ""
+    Sadira "Baka sa susunod?"
 
 # game/logic/events/adele.rpy:1691
 translate philippine vip_sadira_1_label_2_7939b3d3:
 
     # ch_Name "Maybe next time."
-    ch_Name ""
+    ch_Name "Sa susunod."
 
 # game/logic/events/adele.rpy:1692
 translate philippine vip_sadira_1_label_2_3c06fc41:
 
     # Sadira "I'll see you soon!"
-    Sadira ""
+    Sadira "Magkikita tayo ulit!"
 
 # game/logic/events/adele.rpy:1707
 translate philippine Vanessa_1_label_2eaf7317:
 
     # ch_Name "{i}(Wow. That was... Something.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wow... Nkakaiba naman 'yun.){/i}"
 
 # game/logic/events/adele.rpy:1708
 translate philippine Vanessa_1_label_f1c1a06b:
 
     # ch_Name "{i}(I think I need to get a drink.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kailangan ko ng alak.){/i}"
 
 # game/logic/events/adele.rpy:1709
 translate philippine Vanessa_1_label_afd5db1b:
 
     # ch_Name "{i}(I know there is champagne in the VIP lounge.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Alam ko na may tsampan dito sa VIP.){/i}"
 
 # game/logic/events/adele.rpy:1710
 translate philippine Vanessa_1_label_976e36b2:
 
     # ch_Name "{i}(But I'd rather hang out at the bar.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pero gustong kong magtambay sa serbeserya.){/i}"
 
 # game/logic/events/adele.rpy:1713
 translate philippine Vanessa_1_label_db770778:
 
     # ch_Name "Hey there!"
-    ch_Name ""
+    ch_Name "Hoy!"
 
 # game/logic/events/adele.rpy:1714
 translate philippine Vanessa_1_label_fc697379:
 
     # ch_Name "Vanessa, right?"
-    ch_Name ""
+    ch_Name "Vanessa, diba?"
 
 # game/logic/events/adele.rpy:1715
 translate philippine Vanessa_1_label_0dc24312:
 
     # ch_Name "Are you busy?"
-    ch_Name ""
+    ch_Name "May ginagawa ka ba?"
 
 # game/logic/events/adele.rpy:1717
 translate philippine Vanessa_1_label_18574041:
 
     # Vanessa "It depends."
-    Vanessa ""
+    Vanessa "Depende."
 
 # game/logic/events/adele.rpy:1718
 translate philippine Vanessa_1_label_68ebdc81:
 
     # Vanessa "Are you here to waste my time..."
-    Vanessa ""
+    Vanessa "Nadito ka ba para sayangin ang oras ko..."
 
 # game/logic/events/adele.rpy:1719
 translate philippine Vanessa_1_label_0174367c:
 
     # Vanessa "Or are you here to drink?"
-    Vanessa ""
+    Vanessa "O iinom ka?"
 
 # game/logic/events/adele.rpy:1721
 translate philippine Vanessa_1_label_b0412530:
 
     # ch_Name "{i}(Every time she looks at me I feel like being challenged to duel.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bawat tinging niya parang hinahamon akong makipaglaban sa kanya.){/i}"
 
 # game/logic/events/adele.rpy:1722
 translate philippine Vanessa_1_label_76b9cc9d:
 
     # ch_Name "{i}(As if she's measuring if I'm man enough.){/i}"
-    ch_Name ""
+    ch_Name ""{i}(Parang sinusuri para malaman kung sapat ako para sa kanya.){/i}""
 
 # game/logic/events/adele.rpy:1723
 translate philippine Vanessa_1_label_84812b85:
 
     # ch_Name "Are you getting paid to spend time with visitors?"
-    ch_Name ""
+    ch_Name "Binabayaran ka bang gumugol ng oras sa sa mga bisita?"
 
 # game/logic/events/adele.rpy:1724
 translate philippine Vanessa_1_label_a49a8cf2:
@@ -5655,79 +5656,79 @@ translate philippine Vanessa_1_label_a49a8cf2:
 translate philippine Vanessa_1_label_cb68e713:
 
     # Vanessa "I'm a bartender, not a go-go dancer."
-    Vanessa ""
+    Vanessa "Bartender ako, 'di mananayaw."
 
 # game/logic/events/adele.rpy:1727
 translate philippine Vanessa_1_label_1c190155:
 
     # Vanessa "I'm getting paid for getting people drunk."
-    Vanessa ""
+    Vanessa "Binabayaran ako para makapagpapalasing ng mga tao"
 
 # game/logic/events/adele.rpy:1728
 translate philippine Vanessa_1_label_54658d30:
 
     # Vanessa "Talking to visitors is a pleasant bonus."
-    Vanessa ""
+    Vanessa "Ang pagsalita sa mga bisita ay isang bonus."
 
 # game/logic/events/adele.rpy:1730
 translate philippine Vanessa_1_label_595a02cf:
 
     # ch_Name "If it's pleasant, what's the problem?"
-    ch_Name ""
+    ch_Name "Kapag bonus, ano ang problema?"
 
 # game/logic/events/adele.rpy:1731
 translate philippine Vanessa_1_label_69faf953:
 
     # ch_Name "Let's have a talk."
-    ch_Name ""
+    ch_Name "Mag-uusap tayo."
 
 # game/logic/events/adele.rpy:1732
 translate philippine Vanessa_1_label_2c7c5b7b:
 
     # Vanessa "To be honest... I don't like talking to sober people."
-    Vanessa ""
+    Vanessa "Sa katotohanan... 'di ko hilig ang mga taong matino."
 
 # game/logic/events/adele.rpy:1734
 translate philippine Vanessa_1_label_271d084f:
 
     # Vanessa "Not even when they're as handsome as you."
-    Vanessa ""
+    Vanessa "Kahit 'di sila kasing-gwapo mo."
 
 # game/logic/events/adele.rpy:1735
 translate philippine Vanessa_1_label_98cea1c9:
 
     # ch_Name "Are you getting paid to compliment people?"
-    ch_Name ""
+    ch_Name "Binabayaran ka bang magbigay ng papuri sa mga tao?"
 
 # game/logic/events/adele.rpy:1736
 translate philippine Vanessa_1_label_5de6b248:
 
     # Vanessa "Do you really want to know the answer?"
-    Vanessa ""
+    Vanessa "Gusto mo ba talagang malaman ang sagot?"
 
 # game/logic/events/adele.rpy:1737
 translate philippine Vanessa_1_label_8deba0fb:
 
     # ch_Name "Well. It seems to me it's a perfect time for a drink."
-    ch_Name ""
+    ch_Name "Sa tingin ko ito ang perpektong panahon para uminom."
 
 # game/logic/events/adele.rpy:1739
 translate philippine Vanessa_1_label_c2f6cbeb:
 
     # Vanessa "Finally! What can I serve you?"
-    Vanessa ""
+    Vanessa "Sa wakas! Ano ba gusto mo?"
 
 # game/logic/events/adele.rpy:1740
 translate philippine Vanessa_1_label_7e0957c7:
 
     # ch_Name "What do you have?"
-    ch_Name ""
+    ch_Name "Ano ba ang nasa iyo?"
 
 # game/logic/events/adele.rpy:1741
 translate philippine Vanessa_1_label_61ecc7dd:
 
     # Vanessa "Beer, bartender's special cocktail and orange juice."
-    Vanessa ""
+    Vanessa "Serbesa, Bartender's Special Cocktail at orange juice."
 
 # game/logic/events/adele.rpy:1742
 translate philippine Vanessa_1_label_a48200e0:
@@ -5739,163 +5740,163 @@ translate philippine Vanessa_1_label_a48200e0:
 translate philippine Vanessa_2_label_44c25f1a:
 
     # ch_Name "I'll have a beer."
-    ch_Name ""
+    ch_Name "Serbesa gusto ko."
 
 # game/logic/events/adele.rpy:1758
 translate philippine Vanessa_2_label_fb101806:
 
     # Vanessa "Now we're talking!"
-    Vanessa ""
+    Vanessa "Nagsasalita na tayo!"
 
 # game/logic/events/adele.rpy:1759
 translate philippine Vanessa_2_label_8e9f2626:
 
     # Vanessa "Give me a moment."
-    Vanessa ""
+    Vanessa "Isang saglit."
 
 # game/logic/events/adele.rpy:1761
 translate philippine Vanessa_2_label_6e8ac3d3:
 
     # Vanessa "Let's see... Is lager alright?"
-    Vanessa ""
+    Vanessa "Tignan nga natin... ayos ba ang lager?"
 
 # game/logic/events/adele.rpy:1762
 translate philippine Vanessa_2_label_3fa5e203:
 
     # ch_Name "Well, I'd better have some lambic, or maybe sour. You know?"
-    ch_Name ""
+    ch_Name "Lambic siguro, o makasim. Meron ba?"
 
 # game/logic/events/adele.rpy:1763
 translate philippine Vanessa_2_label_167fde8f:
 
     # Vanessa "Yeah..."
-    Vanessa ""
+    Vanessa "Oo..."
 
 # game/logic/events/adele.rpy:1764
 translate philippine Vanessa_2_label_3fa80008:
 
     # Vanessa "Too bad we only have lambic!"
-    Vanessa ""
+    Vanessa "Pero Lambic lang!"
 
 # game/logic/events/adele.rpy:1766
 translate philippine Vanessa_2_label_0fa22537:
 
     # ch_Name "Well. Thank you!"
-    ch_Name ""
+    ch_Name "Salamat!"
 
 # game/logic/events/adele.rpy:1767
 translate philippine Vanessa_2_label_c6f9b3fe:
 
     # ch_Name "That will do."
-    ch_Name ""
+    ch_Name "Pwede na ito."
 
 # game/logic/events/adele.rpy:1768
 translate philippine Vanessa_2_label_6449ca77:
 
     # Vanessa "So, you wanted to talk?"
-    Vanessa ""
+    Vanessa "Gusto mong makipag-usapan?"
 
 # game/logic/events/adele.rpy:1769
 translate philippine Vanessa_2_label_272b6695:
 
     # ch_Name "Wow, that's a quick change of pace."
-    ch_Name ""
+    ch_Name "Ang bilis naman nang pagbago mo."
 
 # game/logic/events/adele.rpy:1774
 translate philippine Vanessa_2_label_d3092a65:
 
     # ch_Name "I'll have your signature cocktail!"
-    ch_Name ""
+    ch_Name "Ang signature cocktail!"
 
 # game/logic/events/adele.rpy:1776
 translate philippine Vanessa_2_label_4830c7ed:
 
     # Vanessa "You will? You're not kidding?"
-    Vanessa ""
+    Vanessa "Siguro ka ba? 'Di ka nagbibiro?"
 
 # game/logic/events/adele.rpy:1777
 translate philippine Vanessa_2_label_0e084ec1:
 
     # Vanessa "{i}(No one has ever reordered my cocktail...){/i}"
-    Vanessa ""
+    Vanessa "{i}(Wala pang nakapag-order ulit ng cocktail ko...){/i}"
 
 # game/logic/events/adele.rpy:1778
 translate philippine Vanessa_2_label_b8f6f00b:
 
     # Vanessa "{i}(Did I forget when I enchanted his mind?){/i}"
-    Vanessa ""
+    Vanessa "{i}(Nakalimutan ba niyang ginamitan ko siya ng mahika?){/i}"
 
 # game/logic/events/adele.rpy:1779
 translate philippine Vanessa_2_label_c4bb79ff:
 
     # ch_Name "{i}(What do you mean, \"no one reordered it\"?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ano ba ang ibig sabihin ng, \"walang nakapag-order ulit\"?){/i}"
 
 # game/logic/events/adele.rpy:1780
 translate philippine Vanessa_2_label_b9b3757c:
 
     # ch_Name "{i}(Why is she so proud of it then?!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bakit niya bang ipinagmamalaki?!){/i}"
 
 # game/logic/events/adele.rpy:1783
 translate philippine Vanessa_2_label_3de618ac:
 
     # ch_Name "What about your signature cocktail?"
-    ch_Name ""
+    ch_Name "Pwede ba ang signature cocktail?"
 
 # game/logic/events/adele.rpy:1785
 translate philippine Vanessa_2_label_7a34da50:
 
     # Vanessa "Are you finally ready?"
-    Vanessa ""
+    Vanessa "Handa ka na ba?"
 
 # game/logic/events/adele.rpy:1786
 translate philippine Vanessa_2_label_ce9ef535:
 
     # ch_Name "Yeah, we only live once."
-    ch_Name ""
+    ch_Name "Isang beses lang tayo nabubuhay."
 
 # game/logic/events/adele.rpy:1787
 translate philippine Vanessa_2_label_484aa28d:
 
     # Vanessa "You won't regret it. It's my best creation!"
-    Vanessa ""
+    Vanessa "'Di mo sisihin 'yan. Ito ang aking pinakamahusay na ginawa!"
 
 # game/logic/events/adele.rpy:1788
 translate philippine Vanessa_2_label_75a4ca37:
 
     # Vanessa "One moment!"
-    Vanessa ""
+    Vanessa "Sandali!"
 
 # game/logic/events/adele.rpy:1789
 translate philippine Vanessa_2_label_f5e60e4f:
 
     # ch_Name "{i}(She's really perking up, wow!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nasisiyahan na siya, wow!){/i}"
 
 # game/logic/events/adele.rpy:1792
 translate philippine Vanessa_2_label_592b110d:
 
     # ch_Name "{i}(I wonder if she's comfortable working in that.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nagtataka ako kapag komportable siyang magtrabaho sa damit na 'yan.){/i}"
 
 # game/logic/events/adele.rpy:1793
 translate philippine Vanessa_2_label_416dce67:
 
     # ch_Name "{i}(I guess the club has a dress code after all.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parang may dress code pala ang club.){/i}"
 
 # game/logic/events/adele.rpy:1794
 translate philippine Vanessa_2_label_56cd8428:
 
     # ch_Name "{i}(I wonder if this ass has a price?){/i}"
-    ch_Name ""
+    ch_Name "{i}(May presyo ba ang pwet na 'yun?){/i}"
 
 # game/logic/events/adele.rpy:1795
 translate philippine Vanessa_2_label_bb0e70b6:
 
     # Vanessa "Do you want it harder, softer, or like last time?"
-    Vanessa ""
+    Vanessa "Gusto mo bang mas malakas, mas mahina, o tulad ng dati?"
 
 # game/logic/events/adele.rpy:1796
 translate philippine Vanessa_2_label_c0ac3ccd:
