@@ -36,7 +36,7 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Garden's story has come to an end."
-    new "A história do jardim (Garden) chegou ao fim."
+    new "A história do Jardim chegou ao fim."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Arthur Doorman is the headmaster of the school and a respected member of the Wizarding Society. He is an example to all."
@@ -188,7 +188,7 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lily is a real diehard fan of Leonheart. She does a lot for its sake and gets thrilled when I help her with that."
-    new "Lily é uma fão inveterada de Leonheart. Ela faz muito pela casa e fica empolgada quando a ajudo nisso."
+    new "Lily é uma fã inveterada de Leonheart. Ela faz muito pela casa e fica empolgada quando a ajudo nisso."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Hebi"
@@ -336,7 +336,7 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Now I know that we have really creepy angels living in the garden, Garden's story has come to an end."
-    new "Agora eu sei que temos anjos estranhos morando no jardim. A história do jardim (Garden) chegou ao fim."
+    new "Agora eu sei que temos anjos estranhos morando no jardim. A história do jardim chegou ao fim."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Now I know that we have really creepy angels living in the garden."
@@ -356,7 +356,7 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "She's in Leonheart too, so I can probably meet her in our campus in the morning."
-    new "Ela é de eLeonheart também, então devo encontrá-la no nosso campus pela manhã."
+    new "Ela é de Leonheart também, então devo encontrá-la no nosso campus pela manhã."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Audrey only talks to men who can take her to a restaurant. It seems that I have to get a job to interest her in my persona."
@@ -448,11 +448,11 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley is getting ready for Victoria's private classes, I gotta find out what progress she's made. 'll try to talk to her in the morning before the lecture."
-    new "Haley está se preparando para as aulas particulares de Victoria, preciso descobrir o quanto ela progrediu.Vou tentar falar com ela de manhã, antes da aula."
+    new "Haley está se preparando para as aulas particulares de Victoria, preciso descobrir o quanto ela progrediu. Vou tentar falar com ela de manhã, antes da aula."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley's too wrapped up in her studies. I don't want to intrude. I'll let her make a move on her own."
-    new "Haley está ocuapada com seus estudos, não vou atrapalhar. Vou esperar que ela tome a iniciativa."
+    new "Haley está ocupada com seus estudos, não vou atrapalhar. Vou esperar que ela tome a iniciativa."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley said there was something strange in her textbook and called me over to look at it myself. We're meeting in the evening, in her room."
@@ -476,7 +476,7 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley and I broke into the secret room and borrowed files that might contain information about E.Bloom. Haley will look into them and get back to me in the morning."
-    new "Haley e eu invadimos a sala secreta e pegamos arquivos que podem conter informações sobre E. Bloom. Haley vai inestigar e me retornar pela manhã."
+    new "Haley e eu invadimos a sala secreta e pegamos arquivos que podem conter informações sobre E. Bloom. Haley vai investigar e me retornar pela manhã."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley discovered that Elijah's brother and Hans were lovers and were trying to escape from here. To replicate their ritual and open the portal, we'll need Samantha's help. I'll talk to her in the morning."
@@ -488,7 +488,7 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've heard that Jacob usually spends his evenings at the hall. Should I talk to him about something?"
-    new "Eu soube que Jacon costuma passar o final de tarde no salão. Será que eu deveria falar com ele?"
+    new "Eu soube que Jacob costuma passar o final de tarde no salão. Será que eu deveria falar com ele?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "To enter the Dueling Club I need to learn combat spells. In order to do so, I have to visit more Victoria's lessons."
@@ -512,7 +512,7 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Even after all the craziness I've seen at this spa, I can't believe I was able to talk the masseuse into jerking me off. Maybe this is just the beginning of our intimate massage sessions. I wonder what she'll agree to next time?"
-    new "Mesmo depois de toda essa maluquice no spa, não acredito que consegui convencer a massasgista a me punhetar. Talvez isso seja só o início de nossas sessões de massagem íntimas. O que será que ela vai topar da próxima vez?"
+    new "Mesmo depois de toda essa maluquice no spa, não acredito que consegui convencer a massagista a me punhetar. Talvez isso seja só o início de nossas sessões de massagem íntimas. O que será que ela vai topar da próxima vez?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've got a feeling that that forest wasn't the last time I've met her. But right now, I can only guess."
@@ -520,11 +520,11 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "It seems that I have some special connection with the ancient spirit of Leonheart's founder, Leona Leonheart. She materialized in the real world to help me with my source of power."
-    new "Parece que etnho uma conexão especial com o espírito da fundadora de Leonheart, Leona Leonheart. Essa se materializou no mundo real para me ajudar com minha fonte de poder."
+    new "Parece que tenho uma conexão especial com o espírito da fundadora de Leonheart, Leona Leonheart. Ela se materializou no mundo real para me ajudar com minha fonte de poder."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Katrina won't leave me alone. If I want to face her on my terms, I have to find a way to defeat her. I think I should contact Leona. Maybe a sorting book in the Main hall will do the trick?"
-    new "Katrina não me deixa em paz. Se quiser encarar ela do meu jeito, tenho que achar uma forma de derrotar ela. Acho que devia falar com Leona. Talvez o livro de seleção no Main Hall possa ser a solução?"
+    new "Katrina não me deixa em paz. Se quiser encarar ela do meu jeito, tenho que achar uma forma de derrotar ela. Acho que devia falar com Leona. Talvez o livro seletor no Salão Principal possa ser o caminho?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Leona took my memories of that nightmare with Katrina to find out what is happening to me. I guess I'll just have to wait."
@@ -936,89 +936,89 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Recipe \"Lesser Heal\""
-    new ""
+    new "Receita \"Cura Menor\""
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Lesser Heal Potion recipe while continuing to attend Sabrina's classes."
-    new ""
+    new "Aprenda a receita da Poção Cura Menor enquanto assiste as aulas de Sabrina."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Elijah work"
-    new ""
+    new "Trabalho de Elijah"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Talk to Elijah about his job offer by meeting him at Molly's cafe in the evening."
-    new ""
+    new "Fale com Elijah sobre a oferta de trabalho encontrado com ele no Café de Molly no final da tarde."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learning \"Episkey\""
-    new ""
+    new "Aprendendo \"Epsikey\""
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Episkey spell by continuing to attend Victoria's classes."
-    new ""
+    new "Aprenda o feitiço Episkey assistindo as aulas de Victoria."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Recipe \"Stoneskin\""
-    new ""
+    new "Receita de \"Pele de Pedra\""
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Stoneskin Potion recipe by continuing to attend Sabrina's classes."
-    new ""
+    new "Aprenda a receita da Poção Pele de Pedra continuando a assistir as aulas de Sabrina."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Sorting book"
-    new ""
+    new "Livro Seletor"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Try to contact Leona using a Sorting book in the Main Hall of Academy in the evening."
-    new ""
+    new "Tente contactar Leona usando o Livro Seletor no Salão Principal da Academia no final da tarde."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Recipe \"Reflection\""
-    new ""
+    new "Receita de \"Reflexão\""
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Reflection Potion recipe  by continuing to attend Sabrina's classes."
-    new ""
+    new "Aprenda a receita da Poção de Reflexão continuando a assistir as aulas de Sabrina."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learning \"Rictusempra\""
-    new ""
+    new "Aprendendo \"Rictumsempra\""
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Rictusempra spell  by continuing to attend Victoria's classes."
-    new ""
+    new "Aprenda o feitiço Rictumsempra continuando a assistir as aulas de Victoria."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Recipe \"Inspiration\""
-    new ""
+    new "Receita de \"Inspiração\""
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Inspiration Potion recipe by continuing to attend Sabrina's classes."
-    new ""
+    new "Aprenda a Poção de Inspiração continuando a assistir as aulas de Sabrina."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Willow nectar"
-    new ""
+    new "Néctar de Willow"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Get some nectar from Willow in Chompski Shop in Dale at Elijah's request."
-    new ""
+    new "Consiga um néctar com Willow na loja de Chompski em Dale, a pedido de Elijah."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Elijah nectar"
-    new ""
+    new "Néctar de Elijah"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Meet Elijah at Cordale's cafe to give him some nectar from Dale."
-    new ""
+    new "Encontre Elijah no Café de Cordale para entregar a ele um néctar de Dale."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Character info roots"
-    new ""
+    new "Informação de personagens"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Use the Character Info menu to complete all of the Roots available in the current release."
-    new ""
+    new "Use o menu de Informação de Personagem para completar todos os caminhos disponíveis nesta versão."
 
