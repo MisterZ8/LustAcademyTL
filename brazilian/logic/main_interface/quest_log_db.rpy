@@ -572,367 +572,367 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We finally talked to Lily about the events in the forest of mushrooms and set things straight. Now we both know exactly what our relationship is and how the boundaries are."
-    new ""
+    new "Finalmente conversei com Lily sobre o que aconteceu na flosresta dos cogumelos e alinhamos tudo. Agora sabemos exatamente onde nosso relacionamento está e quais são so limites."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Lucy is a pretty European girl who works as a stripper in Lady Luck. I think we can have some fun time together at the VIP lounge."
-    new ""
+    new "Lucy é uma bela garota européia que trabalha de stripper no Lady Luck. Acho que podemos nos divertir na área VIP."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Good news for students - there's a free room in Dale-ly. Also, I saw Mina reading porno novels. Maybe In future I can use this to lure other dark secrets she might have."
-    new ""
+    new "Boas notícias para os estudantes - há um quarto de graça no Dale-ly. Taambém, vi Mina lendo uma estória pornô. Talvez, no futuro, possa usar isso para descobrir segredos ocultos que ela possa ter."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I told Molly that I was working as a waiter once, and she offered me a job. On weekdays, afternoons, and evenings, I can help her around the cafe to make some money."
-    new ""
+    new "Eu disse a Molly que trabalhei como garçom e ela me ofereceu um trabalho. Durante a semana, às tardes e finais de tarde, posso vir ajudar ela e ganhar algum dinheiro."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Now I can help Molly serve food at her cafe for a decent fee, It gets even better if I don't screw up and get more tips. Working together with Molly can get us closer.  Her workload is less intense in the evening, so it's better to talk to her at this time. But first I'll gain her trust by working at least five shifts."
-    new ""
+    new "Agora posso ajudar Molly a servir comida no Café por um valor decente. Fica ainda melhor se não vacilar e ganhar gorjetas. Trabalhar com Molly pode nos aproximar."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've helped Molly to clean the room after workhours, so we can get a little bit closer to each other. We had some fun and then the headmaster visited her. I'm pretty sure he's her uncle."
-    new ""
+    new "Ajudei Molly a limpar o lugar depois do expediente, e podemos ficar mais próximos. Nos divertimos e o diretor a visitou. Tenho quase certeza que ele é tio dela."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I think I'll meet Naomi somewhere where she can earn Adderin some points. Maybe at the class?"
-    new ""
+    new "Acho que vou encontrar Naomi em algum lugar onde ela possa ganhar alguns pontos para Adderin. Talvez na aula?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Naomi turned out to be arrogant and over-self-confident. I'm sure I can make her more obedient in time. Naomi can be found at the fountain in the evening."
-    new ""
+    new "Naomi, afinal, é arrogante e super auto-confiante. Tenho certeza que consigo fazer ela mais obediente com o tempo. Naomi fica na fonte nos finais de tarde."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've tried to get her interested in me, but Naomi's a tricky one. I'll see if I can get a hold of her in Potions class this afternoon."
-    new ""
+    new "Tentei fazer ela se interessar em mim mas Naomi é difícil. Vou tentar falar com ela na aula de Poções de tarde."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Naomi tries to manipulate me into getting test answers for her. Let's see who'll end up outsmarted here. Naomi can be found at the fountain in the evening."
-    new ""
+    new "Naomi tenta me manipular para conseguir as repostas da prova para ela. Vamos ver quem engana quem. Naomi fica na fonte nos finais de tarde."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Naomi failed to delay Sabrina, and I've got trapped in her class for several hours! I'll tell Naomi how \"fun\" that was in the morning!"
-    new ""
+    new "Naomi não enrolou Sabrina e fiquei preso na sala de aula dela por várias horas! Vou dizer a Naomi como isso foi \"divertido\" pela manhã!"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Naomi fooled with me, and now she needs to earn my forgiveness to get the test results she needs so desperately. I'll meet her in the evening to see what I can get out of this."
-    new ""
+    new "Naomi me enganou e agora precisa conquistar meu perdão para conseguir as respostas da prova que precisa tanto. Vou encontrar com ela no final da tarde para ver o que eu consigo."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I took Naomi to the library, and we had some fun time together. I think she finally earned to get those test results..."
-    new ""
+    new "Levei Naomi para a biblioteca e nos divertimos juntos. Acho que ela, finalmente, mereceu as repostas da prova..."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Naomi and Sabrina got into a fight in class, and now Naomi needs help to win back the teacher's favor. I promised to meet her at night in the potions room and teach her how to make potions."
-    new ""
+    new "Naomi e Sabrina discutiram hoje durante a aula e agora Naomi precisa de ajuda para ficar bem com a professroa. Prometi encontrar com ela à noite na sala de poções e ensinar como fazer poções;"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "The pottery class quickly turned into a flirtation and Naomi and I went to the library to have some fun."
-    new ""
+    new "A aula de cerâmica rapidamente virou uma sessão de flertes e eu e Naomi fomos para a biblioteca para nos divertirmos."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "This jerk asked for a bribe and almost let Adele be raped. I think I'll need to give him a lesson later. But the good thing is I've got a VIP pass to the club now."
-    new ""
+    new "Esse babaca pediu um suborno e quase deixou Adele ser violentada. Acho que devo dar uma lição nele depois. Mas a boa coisa é que agora tenho um passe VIP para o clube."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "According to Sabrina, only students who have attended Victoria's introductory lecture are allowed into the potions class. "
-    new ""
+    new "De acordo com Sabrina, apenas alunos que participaram da palestra introdutória de Victoria podem frequentar as aulas de Poções."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "First potions lessons were all about safety. It turns out potions can be perilous if handled carelessly. I should visit another class to learn more."
-    new ""
+    new "A primeira aula de Poções foi sobre segurança. Afinal poções podem ser perigosas se manipuladas sem cuidado. Devo assistir mais aulas para saber mais."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "This time we've talked about healing potions and why do mages need potions. To learn more, I have to visit more lessons."
-    new ""
+    new "Dessa vez aprendemos sobre poções de cura e porque magos precisam de poções. Para aprender mais, tenho que frequentar mais aulas."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Sabrina taught us how to prepare a workspace before brewing potions properly. The next lesson should be interesting!"
-    new ""
+    new "Sabrina ensinou como preparar a área de trabalho antes de fazer poções corretamente. A próxima aula deve ser interessante!"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "At this lesson, students try to brew potions for themselves for the first time. Now I can visit practice lessons to keep my memory fresh and earn more house points for Leonheart."
-    new ""
+    new "Nessa lição os alunos tentaram fazer poções sozinhos pela primeira vez. Agora posso praticar lições para manter minha memória afiada e ganhar pontos para a casa de Leonheart."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We've learned how to brew Stoneskin Potion that can help me sustain more damage in duels. I love brewing potions, because I'm really good at this. I think people in the class are starting to notice my success."
-    new ""
+    new "Aprendemos como a Poção Stoneskin pode me ajudar a aguentar mais danos em duelos. Adoro fazer poções, porque sou realmente bom nisso. Acho que as pessoas na sala estão notando meu sucesso."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Now I know how to brew Reflection Potion that can reflect spells back at the attacker. This can come in handy in duels, I think. I can't wait to test! "
-    new ""
+    new "Agora sei como fazer a Poção de Reflexão, que reflete feitiços para o atacante. Pode ser útil em duelos, imagino. Mal posso esperar para testar!"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I'm sure I can find few useful ways to use Inspiration Potion. Likely, I can now craft it with ease."
-    new ""
+    new "Tenho certeza que posso achar algumas utilidades para a Poção de Inspiração. Assim, sou capaz de fazer ela facilmente."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Sadira is a hot arab stripper from Lady Luck. She's more than willing to please me if I pay for the VIP lounge."
-    new ""
+    new "Sadira é uma bela stripper árabe do Lady Luck. Ela está disposta a me satisfazer se pagar pela área VIP."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Samantha suggested we meet in the living room in the morning."
-    new ""
+    new "Samantha sugeriu que nos encontrássemos na sala de estar pela manhã."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Sam told me that nurse could heal my leg when she gets back from her vacation. She also seemed distressed because new spells were too hard for her. I think I'll know more if we have this kind of morning chit-chat more often."
-    new ""
+    new "Sam me disse que a enfermeira poderia curar minha perna quando voltar de férias. Ela parece preocupada porque os novos feitiços são muito difíceis para ela. Acho que vou descobrir mais se tivermos mais desses bate-papos matinais."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Samantha thinks she's losing her magical powers forever and will get expelled. She expects me to talk to Jacob about her problem."
-    new ""
+    new "Samantha acha que está perdendo seus poderes mágicos para sempre e será expulsa. Ela espera que eu fale com Jacob sobre seu problema."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've talked to Jacob. He told me that Samantha needs a special compress, which I have to get from Victoria."
-    new ""
+    new "Falei com Jacob. Ele disse que Samantha precisa de uma compressa especial, que tenho que conseguir com Victoria."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Samantha is waiting for my help, I have to give her the compress in the morning."
-    new ""
+    new "Samantha está esperando pela minha ajuda, tenho que dar a compressa a ela pela manhã."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've solved Samantha's problem for now, but I need to find the source of those wounds before it's too late for her."
-    new ""
+    new "Resolvi o problema de Samantha por agora, mas preciso achar a fonte desses machucados antes que seja tarde para ela."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Samantha told me the truth about Audrey. It turns out she's a succubus, and Samantha feeds her and covers for her. I need some time to sort this out."
-    new ""
+    new "Samantha me contou a verdade sobre Audrey. Ela é uma súcubo e Samantha alimenta e esconde ela. Preciso de um tempo para entender isso."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Samantha and I had an awkward meeting at the bathroom. Is it me, or was she flirting with me?"
-    new ""
+    new "Samantha e eu tivemos um encontro estranho no banheiro. Impressão minha ou ela estava dando mole?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Samantha was going to a third-year party and asked me to help her pick out an outfit. I hadn't noticed how hot she was before... Now she's gone to the party and probably won't be back until nightfall. I guess I'll wake up if I hear the noise at night."
-    new ""
+    new "Samantha ia para uma festa de terceiro ano e me pediu ajuda para escolher uma roupa. Não tinha notado antes o quanto ela é gostosa... Agora ela foi para a festa e naõ deve voltar até o final da noite. Acho que vou acordar se ouvir o barulho de noite."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Samantha came back from the party drunk and started hitting on me. It looks like she may want to be more than friends with me. I should talk to her when she's sober."
-    new ""
+    new "Samantha voltou da festa muito bêbada e começou a dar em cima de mim. Parece que ela pode querer ser mais que minha amiga. Devo falar com ela quando ela estive sóbria."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Samantha and I went to a cafe, and she shared that her dream is to find her biological father, whom Olivia didn't tell her anything about."
-    new ""
+    new "Samantha e eu fomos a um Café e ela me disse que seu sonho era encontrar seu pai biológico, de quem Olivia nunca falou para ela."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I'll probably meet Vanessa next time im at the club in Dale. She works there as the bartender."
-    new ""
+    new "Provavelmente vou encontrar Vanessa na próxima vez no clube em dale. Ela trabalha lá como bartender."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Vanessa made it clear, that she's not there to amuse clients and she won't bother talking to me unless I buy something for a drink."
-    new ""
+    new "Vanessa deixou claro que ela não está lá para divertir clientes e não quer nem falar comigo a menos que peça algo para beber."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Turns out - Vanessa is a vampire who was more interested in my blood than in my heart. Or was she? Maybe I should stop around her bar more, to get closer to this sexy creature of the night?"
-    new ""
+    new "No final, Vanessa é um vampiro que estava mais interessada em meu sangue que meu coração. Ou será? Talvez deva aparecer mais vezes no bar, me aproximar dessa sexy criatura noturna."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I had a nice chat with Vanessa at the bar. Her drink selection has expanded and she never minds talking to a bar customer. I think she's starting to like me, although she's not showing it."
-    new ""
+    new "Tive uma boa conversa com Vanessa no bar. Sua seleção de drinks melhorou e ela não se incomoda em conversar com um cliente. Acho que ela está começando a gostar de mim, paesar de não demonstrar."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Victoria is one of my teachers. I can probably meet her at the class."
-    new ""
+    new "Victoria é uma das minhas professoras. Posso encontrá-la nas aulas."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "According to academy rules, students cannot attend classes without textbooks. To get to Victoria's lecture, I have to get books from Amelie in the library first."
-    new ""
+    new "De acordo com as regras da academia, alunos não podem assistir aulas sem livros. Para participar da aula de Victoria, preciso pegar os livros com Amelie na biblioteca, primeiro."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Victoria seems to like students who are interested in learning. Maybe if I attend her classes more often, I can get closer to her."
-    new ""
+    new "Victoria parece gostar de alunos que estão interessados em aprender. Talvez se frequentar as aulas, possa me aproximar dela."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "In the class, Victoria told us about the sources of magical power. I have no idea how to do that but... Maybe I'll dream about something in my sleep."
-    new ""
+    new "Na aula, Victoria nos falou de fontes de poder mágico. Não tenho idéia como fazer isso mas... Talvez eu sonhe com algo de noite."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Today we talked about different sources of power. I could not tell the truth about Leona's night visit, so I had to lie about my source. I need to attend more lessons if I want to learn more."
-    new ""
+    new "Hoje falamos sobre diferentes fontes de poder. Não pude falar a verdade sobre a visita noturna de Leona, então tive que mentir sobre minha fonte. Preciso assistir mais aulas se quiser aprender mais."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Victoria told us about creating bolts of magic energy. Skillful mages can transform those bolts into any imaginable magic. I need to visit more lessons to learn my first real spell."
-    new ""
+    new "Victoria nos falou sobre criar surtos de energia mágica. Magos habilidosos transformam esses surtos em qualquer magica imaginável. Preciso ir a mais aulas para aprender meu primeiro feitiço real."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Victoria showed us how to create a Combat Bolt. Now I can join Dueling Club and try it in action. I can also practice Combat Bolt on her lessons to make it stronger."
-    new ""
+    new "Victoria mostrou como criar Combat Bolt. Agora posso participar do Clube de Duelos e tentar para valer. Posso praticar Combat Bolt nas suas aulas para deixá-lo mais forte."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've helped Victoria get her books to the library and had an excellent opportunity to check out her divine curves. I think she's starting to like me. Maybe I should visit her lesson more often?"
-    new ""
+    new "Ajudei Victoria a levar os livro para a biblioteca e tive uma excelente oportunidade de conferir suas curvas divinas. Acho que ela está começando a gostar de mim. talves devesse ir suas aulas com mais frequencia?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "In this lesson, we learned Incendio, and now I can practice it too. On the other hand, there's a lot of new theory to learn as well."
-    new ""
+    new "Nessa aula aprendemos Incendio, e agora posso praticar esse também. Por outro lado, tem um monte de teoria para aprender também."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've now studied a healing spell Episkey. It's now available for practical lessons. To learn new skills I have to visit more theory lessons."
-    new ""
+    new "Agora estudei um feitiço de cura Episkey. Está disponível para as aulas práticas. Para aprender novas habilidades, tenho que assistir mais aulas."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Rictusempra is now available in duels and practical classes."
-    new ""
+    new "Rictusempra está disponível agora para duelos e aulas práticas."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Victoria had a one-on-one session with me and showed me that she wasn't very good at earth magic. With each such rendezvous, I feel that she and I are getting closer and closer."
-    new ""
+    new "Victoria teve uma sessão particular comigo e me mostrou que não é muito boa com magia de terra. Com cada encontro percebo que estamos nos aproximando cada vez mais."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Willow is Gordon's daugher and a half-fairy who helps him in a store. I can talk to her through Gordon if I want to get to know her better."
-    new ""
+    new "Willow é filha de Gordon e uma meio-fada que ajuda ele na loja. Posso falar com ela através do Gordon se quiser conhecer ela melhor."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "It was nice to remember my days as a professional photographer and help Willow with her photo shoot. She is a natural born model. I'm sure she'll return the favor."
-    new ""
+    new "É bom lembrar meus dias como fotógrafo profissional e ajudar Willow com sua sessão de fotos. Ela é uma modelo natural. Tenho certeza que ela vai pagar o favor."
 
     # game/logic/main_interface/quest_log_db.rpy:1961
     old "Medium Reduction in opponent Stamina."
-    new ""
+    new "Redução mediana na resistência do oponente."
 
     # game/logic/main_interface/quest_log_db.rpy:1961
     old "Medium Reduction in opponent Stamina. Chance of Small Stun."
-    new ""
+    new "Redução mediana na resistência do oponente. Chance de leve desorientação."
 
     # game/logic/main_interface/quest_log_db.rpy:1961
     old "Medium Reduction in opponent Stamina. Chance of Medium Burn."
-    new ""
+    new "Redução mediana na resistência do oponente. Chance de queimadura média."
 
     # game/logic/main_interface/quest_log_db.rpy:1961
     old "Medium Heal. Chance of Small Heal over time."
-    new ""
+    new "Cura média. Chance de cura leve durante um tempo."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Student card"
-    new ""
+    new "Cartão de estudante"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Talk to Elijah in the Living room in the morning to get his student card."
-    new ""
+    new "Fale com Elijah na sala de estar pela manhã para pegar o cartão de estudante."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Go to the library"
-    new ""
+    new "Vá para a biblioteca."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Go to the Academy and find the Library in the left wing of the Inner Garden."
-    new ""
+    new "Vá para a Academia e ache a biblioteca na ala esquerda do Jardim Interno."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Library books"
-    new ""
+    new "Livros da biblioteca"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Get your books from Amelie in the Library to get to your first class."
-    new ""
+    new "Pegue seus livros com Amelie na biblioteca para ter sua primeira aula."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Victoria lesson"
-    new ""
+    new "Aula de Victoria"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Attend Victoria's class in Classroom 1 in the morning or the afternoon."
-    new ""
+    new "Assista a aula de Victoria na Sala de Aula 1 pela manhã ou de tarde."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Sabrina lesson"
-    new ""
+    new "Aula de Sabrina"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Attend Sabrina's class in Classroom 2 in the morning or the afternoon."
-    new ""
+    new "Assista a aula de Sabrina sa Sala de Aula 2 pela manhã ou de tarde."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Go to the cafe"
-    new ""
+    new "Vá para o Café"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Stop by the Cafe in the afternoon or evening to check out the place where you arranged to meet Elijah."
-    new ""
+    new "Dê uma passada no Café de tarde ou no final da tarde para conhecer o lugar onde você combinou de encontrar Elijah."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Talk to Elijah at the local Cafe by meeting him in the evening."
-    new ""
+    new "Fale com Elijah no Café local encontrando com ele pela manhã."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Amelie book"
-    new ""
+    new "Livro de Amelie"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Find at least one lost book and return it to Amelie in Library."
-    new ""
+    new "Encontre pelo menos um livro perdido e devolva para Amelie na biblioteca."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Victoria lesson again"
-    new ""
+    new "Aula de Victoria de novo"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Attend another Victoria class in Classroom 1 in the morning or afternoon."
-    new ""
+    new "Assista outra aula de Victoria na Sala de Aula 1 de manhã ou de tarde."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Talk to Jacob in the evening at Academy Entrance and find out the rules for joining the Dueling Club."
-    new ""
+    new "Fale com Jacob no final da tarde na Entrada da Academia e aprenda as regras para participar do Clube de Duelos."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learning \"Combat Bolt\""
-    new ""
+    new "Aprendendo \"Combat Bolt\""
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Combat Bolt spell while attending more Victoria's classes."
-    new ""
+    new "Aprenda o feitiço Combat Bolt durante as aulas de Victoria."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Arrange with Jacob tonight at Academy Entrance to have a Dueling Club match."
-    new ""
+    new "Combine com Jacob essa noite na Entrada da Academia para ter um combate do Clube de Duelos."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Home win"
-    new ""
+    new "Vitória da casa"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Help your school score points in the competition to spend the weekend at Dale."
-    new ""
+    new "Ajude sua casa a marcar pontos na competição para passar o final de semana em Dale."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Visit Chompski Shop"
-    new ""
+    new "Visite a loja de Chompsky"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Visit the Chompski Shop in Dale to find out what goods that place has to offer."
-    new ""
+    new "Visite a loja de Chompsky em Dale para descobrir que coisas ele pode oferecer."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Dale cafe"
-    new ""
+    new "Café de Dale"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Look around Dale and look for a decent cafe to get good coffee."
-    new ""
+    new "Olhe em Dale e procure um Café decente para tomar um bom café."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Dale spa"
-    new ""
+    new "Spa de Dale"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Visit a spa and enjoy the massage."
-    new ""
+    new "Visite um spa e aproveite a massagem."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Dale club"
-    new ""
+    new "Clube de Dale"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Visit a nightclub in Dale and try to have fun."
-    new ""
+    new "Visite um clube noturno em Dale e tente se divertir."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learning \"Incendio\""
-    new ""
+    new "Aprendendo \"Incendio\""
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Incendio spell  by continuing to attend Victoria's classes."
-    new ""
+    new "Aprenda o feitiço Incendio continuando a assistir as aulas de Victoria."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Recipe \"Lesser Heal\""
