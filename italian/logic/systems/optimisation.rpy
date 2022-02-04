@@ -4,11 +4,10 @@
 translate italian after_load_f92cd1e5:
 
     # "" "..."
-    "" ""
+    "" "..."
 
 translate italian strings:
 
     # game/logic/systems/optimisation.rpy:123
     old "Loading, please wait..."
-    new ""
-
+    new "Caricamento, prego attendere..."
