@@ -832,1141 +832,1141 @@ translate spanish sheet_28_1_254_e79ac0e6:
 translate spanish sheet_28_1_254_7eee539d:
 
     # Leona "I think you'll need a better pose."
-    Leona ""
+    Leona "Creo que necesitas ponerte mejor."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:299
 translate spanish sheet_28_1_254_6ee92a98:
 
     # Leona "I'll help you!"
-    Leona ""
+    Leona "¡Yo te ayudo!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:301
 translate spanish sheet_28_1_254_47c54a84:
 
     # Katrina "What are you do...?"
-    Katrina ""
+    Katrina "¿Que estás hacien...?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:303
 translate spanish sheet_28_1_254_5e69a6d0:
 
     # Leona "Shhh!"
-    Leona ""
+    Leona "¡Shhh!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:305
 translate spanish sheet_28_1_254_421372f7:
 
     # Leona "Don't talk, you'll hurt him with your teeth."
-    Leona ""
+    Leona "No hables, le vas ha hacer daño con los dientes."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:307
 translate spanish sheet_28_1_254_8ef4f29a:
 
     # Leona "Open your mouth wider, if you want to fit it in!"
-    Leona ""
+    Leona "¡Si quieres que te entre, abre más la boca!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:312
 translate spanish sheet_28_1_254_754711c6:
 
     # ch_Name "{i}(Oh yes...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh si...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:314
 translate spanish sheet_28_1_254_7dfe3d2c:
 
     # ch_Name "{i}(It's amazing!){/i}"
-    ch_Name ""
+    ch_Name "{i}(¡Qué gustazo!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:316
 translate spanish sheet_28_1_254_a28c1b67:
 
     # Katrina "Ahh... Ugh..."
-    Katrina ""
+    Katrina "Ahh...Ugh..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:318
 translate spanish sheet_28_1_254_f34bf1cf:
 
     # ch_Name "{i}(Each time my dick hammers her throat...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Cada vez que mi polla toca su garganta...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:321
 translate spanish sheet_28_1_254_75d9bbeb:
 
     # Katrina "Mhm..."
-    Katrina ""
+    Katrina "Mhm..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:323
 translate spanish sheet_28_1_254_21be5fcc:
 
     # Katrina "*Gulp!*"
-    Katrina ""
+    Katrina "*¡Glup!*"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:325
 translate spanish sheet_28_1_254_bfcf26fc:
 
     # ch_Name "{i}(I feel so much power!){/i}"
-    ch_Name ""
+    ch_Name "{i}(¡Siento un poder inmenso!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:328
 translate spanish sheet_28_1_254_19ebbc58:
 
     # Katrina "Ahh... Wow!"
-    Katrina ""
+    Katrina "¡Ahh... Wow!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:330
 translate spanish sheet_28_1_254_7faeacad:
 
     # Leona "What do you think, Katrina?"
-    Leona ""
+    Leona "Katrina, ¿Qué opinas?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:332
 translate spanish sheet_28_1_254_18966bb9_1:
 
     # Leona "Do you like it?"
-    Leona ""
+    Leona "¿Te gusta?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:334
 translate spanish sheet_28_1_254_b3778bec:
 
     # Katrina "It's amazing..."
-    Katrina ""
+    Katrina "Es increible..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:336
 translate spanish sheet_28_1_254_b73d01e3:
 
     # Leona "You've impressed her, [Name]!"
-    Leona ""
+    Leona "¡La has impresionado, [Nombre]!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:338
 translate spanish sheet_28_1_254_55e1dfbe:
 
     # Leona "But did she manage to impress you?"
-    Leona ""
+    Leona "Pero, ¿Te ha impresionado ella a ti?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:340
 translate spanish sheet_28_1_254_70f8638f:
 
     # ch_Name "I'm... Uhh..."
-    ch_Name ""
+    ch_Name "Yo... Uhh..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:342
 translate spanish sheet_28_1_254_95d8a47a:
 
     # Leona "Let me show you..."
-    Leona ""
+    Leona "Deja que te enseñe..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:344
 translate spanish sheet_28_1_254_972a8197:
 
     # Leona "...what you can miss."
-    Leona ""
+    Leona "...lo uqe puedes perderte."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:346
 translate spanish sheet_28_1_254_01ab6782:
 
     # Leona "I see how you look at us."
-    Leona ""
+    Leona "Veo como nos miras."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:348
 translate spanish sheet_28_1_254_e4935313:
 
     # Leona "This lust will give you power."
-    Leona ""
+    Leona "Esta lujuria te dará poder."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:350
 translate spanish sheet_28_1_254_225e7b42:
 
     # Leona "But it's only the beginning..."
-    Leona ""
+    Leona "Pero esto es solo el comienzo..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:352
 translate spanish sheet_28_1_254_14fda324:
 
     # ch_Name "{i}(Is she really going to...){/i}"
-    ch_Name ""
+    ch_Name "{i}(De verdad va ha...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:354
 translate spanish sheet_28_1_254_ddb05e0f:
 
     # ch_Name "{i}(...take off her bottom?..){/i}"
-    ch_Name ""
+    ch_Name "{i}(...quitarse los pantalones?...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:356
 translate spanish sheet_28_1_254_65eff44e:
 
     # Leona "Don't you like what you see?"
-    Leona ""
+    Leona "¿Te gusta lo que ves?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:358
 translate spanish sheet_28_1_254_65043f0e:
 
     # Leona "Don't you want to choose... me?"
-    Leona ""
+    Leona "¿No me quieres elegir... a mí?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:360
 translate spanish sheet_28_1_254_56e3055f:
 
     # Leona "Choose Leonheat!"
-    Leona ""
+    Leona "¡Eligé Leonheart!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:362
 translate spanish sheet_28_1_254_615387ba:
 
     # Katrina "You sneaky little..."
-    Katrina ""
+    Katrina "¡Astuta..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:364
 translate spanish sheet_28_1_254_a3bb513c:
 
     # Katrina "Whore!"
-    Katrina ""
+    Katrina "Putilla!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:366
 translate spanish sheet_28_1_254_39fe7184:
 
     # Katrina "You think you've got something I don't?"
-    Katrina ""
+    Katrina "¿Te crees que yo no puedo jugar a eso?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:368
 translate spanish sheet_28_1_254_bf58c183:
 
     # Leona "You wasted no time either. "
-    Leona ""
+    Leona "Tu tampoco has perdido el tiempo. "
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:370
 translate spanish sheet_28_1_254_3a1e15cc:
 
     # Leona "Didn't you?"
-    Leona ""
+    Leona "¿Verdad?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:372
 translate spanish sheet_28_1_254_40f786a7:
 
     # Katrina "I'm not going to step back so easily."
-    Katrina ""
+    Katrina "No voy a claudicar tan fácil."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:374
 translate spanish sheet_28_1_254_5292f91c:
 
     # Katrina "You and your touchy attitude."
-    Katrina ""
+    Katrina "Tu y tu actitud sensiblera."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:376
 translate spanish sheet_28_1_254_99e48c04:
 
     # Katrina "Trying to take the initiative."
-    Katrina ""
+    Katrina "Tratando de ganar la iniciativa."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:378
 translate spanish sheet_28_1_254_32c84c5a:
 
     # Katrina "He'll be mine!"
-    Katrina ""
+    Katrina "¡Él será mío!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:380
 translate spanish sheet_28_1_254_c14cb44c:
 
     # Katrina "Even if I have to go further."
-    Katrina ""
+    Katrina "Incluso si tengo que llegar más lejos."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:382
 translate spanish sheet_28_1_254_67f85c3f:
 
     # Katrina "Nothing you can do about it."
-    Katrina ""
+    Katrina "No hay nada que puedas hacer."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:384
 translate spanish sheet_28_1_254_a21006f1:
 
     # Leona "Shut up!"
-    Leona ""
+    Leona "¡Cierra el pico!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:386
 translate spanish sheet_28_1_254_7ce054e6:
 
     # Leona "Gosh, sometimes you get too loud!"
-    Leona ""
+    Leona "Dios, A veces te pones insoportable!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:388
 translate spanish sheet_28_1_254_c96bc5c9:
 
     # Leona "[Name], our time is almost up."
-    Leona ""
+    Leona "[Nombre], se nos acaba el tiempo."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:390
 translate spanish sheet_28_1_254_5cba4a6f:
 
     # Leona "We have one final step to do."
-    Leona ""
+    Leona "Solo nos queda una caso por hacer."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:392
 translate spanish sheet_28_1_254_857d4f5c:
 
     # Leona "Together."
-    Leona ""
+    Leona "Juntas."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:394
 translate spanish sheet_28_1_254_ba73a946:
 
     # Leona "Will you let us finish this once and for all?"
-    Leona ""
+    Leona "¿Nos dejarás terminar esto de una vez por todas?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:406
 translate spanish sheet_28_1_254_b66d3f96:
 
     # ch_Name "No!"
-    ch_Name ""
+    ch_Name "¡No!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:407
 translate spanish sheet_28_1_254_4136e48b:
 
     # ch_Name "Enough is enough!"
-    ch_Name ""
+    ch_Name "¡Ya está bien!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:408
 translate spanish sheet_28_1_254_9314086d:
 
     # ch_Name "I'm not interested in getting a girl so easily."
-    ch_Name ""
+    ch_Name "No me interesan las chicas tan facilonas."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:410
 translate spanish sheet_28_1_254_d406c864:
 
     # ch_Name "There's no challenge in that."
-    ch_Name ""
+    ch_Name "No supone ningún reto."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:411
 translate spanish sheet_28_1_254_7eddcee5:
 
     # Leona "I see...{w} Very well."
-    Leona ""
+    Leona "Ya veo...{w} Muy bien."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:412
 translate spanish sheet_28_1_254_d9c5f0b9:
 
     # Katrina "Very well?!"
-    Katrina ""
+    Katrina "¡¿Muy bien?!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:413
 translate spanish sheet_28_1_254_7424ec64:
 
     # Katrina "Da fuck is very well?!"
-    Katrina ""
+    Katrina "¡¿Qué coño es lo que está muy bien?!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:415
 translate spanish sheet_28_1_254_3541dccb:
 
     # Katrina "How can you, mortal worm, decline me?"
-    Katrina ""
+    Katrina "¿Como te atreves, a rechazarme, gusano mortal?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:416
 translate spanish sheet_28_1_254_0cd80de3:
 
     # Katrina "Ught! "
-    Katrina ""
+    Katrina "¡Ught! "
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:417
 translate spanish sheet_28_1_254_5e9b4f7b:
 
     # Katrina "To think that I'd almost invited you to Adderin!"
-    Katrina ""
+    Katrina "¡Y pensar que casi te invito a Adderin!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:419
 translate spanish sheet_28_1_254_191fc114:
 
     # Katrina "Fucking joke."
-    Katrina ""
+    Katrina "Ni de broma."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:420
 translate spanish sheet_28_1_254_9d5ff652:
 
     # Katrina "A waste of time!"
-    Katrina ""
+    Katrina "¡Una pérdida de tiempo!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:421
 translate spanish sheet_28_1_254_a6b3ba36:
 
     # ch_Name "What's wrong with her?"
-    ch_Name ""
+    ch_Name "¿Qué le pasa?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:423
 translate spanish sheet_28_1_254_268702b4:
 
     # Leona "Nevermind. "
-    Leona ""
+    Leona "Es igual."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:424
 translate spanish sheet_28_1_254_b91bb00f:
 
     # Leona "She could never take a \"no\" as an answer."
-    Leona ""
+    Leona "Nunca a sabido aceptar un \"no\" por respuesta."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:425
 translate spanish sheet_28_1_254_15823068:
 
     # Leona "But that's not important."
-    Leona ""
+    Leona "Pero no tiene mayor importancia."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:426
 translate spanish sheet_28_1_254_b90dc707:
 
     # Leona "The most important thing is that you've chosen with your heart."
-    Leona ""
+    Leona "Lo más importante es que has escogido con el corazón."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:427
 translate spanish sheet_28_1_254_d8c8166a:
 
     # Leona "Despite the temptation you've felt..."
-    Leona ""
+    Leona "A pesar de la tentación que se te ha presentado..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:428
 translate spanish sheet_28_1_254_c7172485:
 
     # Leona "I must say it was a painful denial."
-    Leona ""
+    Leona "He de decir que tu negativa me ha dolido."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:429
 translate spanish sheet_28_1_254_d550bbb2:
 
     # Leona "But i respect it."
-    Leona ""
+    Leona "Pero la respeto."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:430
 translate spanish sheet_28_1_254_5110bd7a:
 
     # Leona "As I will respect any choice of a clean heart."
-    Leona ""
+    Leona "Como respeto cualquier decisión de un corazón puro."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:431
 translate spanish sheet_28_1_254_72d6fdae:
 
     # Leona "It'd be my honor to invite you to Leonheart, [Name]."
-    Leona ""
+    Leona "Será un honor para mí invitarte a formar parte de Leonheart, [Nombre]."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:432
 translate spanish sheet_28_1_254_3a5c7650:
 
     # ch_Name "Thank you."
-    ch_Name ""
+    ch_Name "Gracias."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:433
 translate spanish sheet_28_1_254_b6ee4cfc:
 
     # ch_Name "And my honor is to accept this."
-    ch_Name ""
+    ch_Name "Y es un honor para mí aceptarla."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:437
 translate spanish sheet_28_1_262_16_07f48237:
 
     # ch_Name "I'm always ready for action, girls!"
-    ch_Name ""
+    ch_Name "¡Siempre estoy listo para la acción, chicas!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:439
 translate spanish sheet_28_1_262_16_17260cb2:
 
     # Katrina "Mhmhmhm!"
-    Katrina ""
+    Katrina "¡Mhmhmhm!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:441
 translate spanish sheet_28_1_262_16_715458db:
 
     # Leona "Oh! Look at him, Katrina."
-    Leona ""
+    Leona "¡Oh! Katrina, mírale."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:443
 translate spanish sheet_28_1_262_16_d4eee75f:
 
     # Leona "The boy speaks like a man."
-    Leona ""
+    Leona "El chico habla como un hombre."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:445
 translate spanish sheet_28_1_262_16_b9542e0c:
 
     # Katrina "Don't try to change the subject!"
-    Katrina ""
+    Katrina "¡No cambies de tema!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:447
 translate spanish sheet_28_1_262_16_275440bb:
 
     # Katrina "You′ve just \"silenced\" me in front of my student!"
-    Katrina ""
+    Katrina "¡Acabas de \"callarme\" delante de mí estudiante!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:449
 translate spanish sheet_28_1_262_16_5730005e:
 
     # Katrina "One more time and you're gonna regret it!"
-    Katrina ""
+    Katrina "¡Si vuelve a ocurrir lo vas a lamentar!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:451
 translate spanish sheet_28_1_262_16_cb86deb4:
 
     # Leona "You're upset, I understand this."
-    Leona ""
+    Leona "Entiendo que estés molesta."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:453
 translate spanish sheet_28_1_262_16_9d520a94:
 
     # Leona "But look at him."
-    Leona ""
+    Leona "Pero mírale."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:455
 translate spanish sheet_28_1_262_16_56ac2a94:
 
     # Leona "Do you really want to keep that majestic cock waiting?"
-    Leona ""
+    Leona "¿De verdad quieres tener a esta majestuosa polla esperando?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:457
 translate spanish sheet_28_1_262_16_f5ce769e:
 
     # Katrina "You're right."
-    Katrina ""
+    Katrina "Tienes razón."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:459
 translate spanish sheet_28_1_262_16_24ff6936:
 
     # ch_Name "Girls! If you've settled your quarells..."
-    ch_Name ""
+    ch_Name "¡Chicas! Si ya habéis resuelto vuestras diferencias..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:461
 translate spanish sheet_28_1_262_16_c298be94:
 
     # ch_Name "...let's get to business.{w} I'm getting cold."
-    ch_Name ""
+    ch_Name "...pongamonos manos a la obra.{w} Me estoy quedando frío."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:463
 translate spanish sheet_28_1_262_16_507485ad:
 
     # Leona "We're so sorry, dear..."
-    Leona ""
+    Leona "Lo sentimos, querido..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:464
 translate spanish sheet_28_1_262_16_ad7f252b:
 
     # Leona "Guess we'll have to beg for your forgivness..."
-    Leona ""
+    Leona "Supongo que tendremos que suplicar tu perdon..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:466
 translate spanish sheet_28_1_262_16_d9dbcf65:
 
     # Leona "Katrina, are you sorry?"
-    Leona ""
+    Leona "Katrina, ¿tu también lo sientes?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:468
 translate spanish sheet_28_1_262_16_5102607f:
 
     # Katrina "I am. "
-    Katrina ""
+    Katrina "Si."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:470
 translate spanish sheet_28_1_262_16_3d1c3937:
 
     # Katrina "Terribly sorry!"
-    Katrina ""
+    Katrina "¡Lo siento muchísimo!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:472
 translate spanish sheet_28_1_262_16_32d47e94:
 
     # Katrina "But I'll try my best..."
-    Katrina ""
+    Katrina "Pero me voy a esforzar..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:474
 translate spanish sheet_28_1_262_16_7bb8fbdf:
 
     # Katrina "...to do whatever I can..."
-    Katrina ""
+    Katrina "... en hacer todo lo posible..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:476
 translate spanish sheet_28_1_262_16_19768154:
 
     # Katrina "...to please a future Adderin member."
-    Katrina ""
+    Katrina "...para complacer al futuro miembro de Adderin."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:478
 translate spanish sheet_28_1_262_16_6ae18e9d:
 
     # Leona "Will you?"
-    Leona ""
+    Leona "¿Lo harás?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:480
 translate spanish sheet_28_1_262_16_fae4d255:
 
     # Leona "Even if [Name] chooses Leonheart?"
-    Leona ""
+    Leona "¿Incluso si [Nombre] elige Leonheart?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:482
 translate spanish sheet_28_1_262_16_95cc9f22:
 
     # Katrina "You're delusional if you still hope to get him, Leona."
-    Katrina ""
+    Katrina "Leona, estás delirando si aun tienes la esperanza de conseguirlo para ti."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:484
 translate spanish sheet_28_1_262_16_f750a086:
 
     # Leona "We'll see."
-    Leona ""
+    Leona "Ya veremos."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:486
 translate spanish sheet_28_1_262_16_863c6a04:
 
     # Leona "Hey, champion."
-    Leona ""
+    Leona "Hey, campeón."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:488
 translate spanish sheet_28_1_262_16_624decb3:
 
     # Leona "Are you lonely?"
-    Leona ""
+    Leona "¿Estás solito?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:490
 translate spanish sheet_28_1_262_16_d3836db1:
 
     # Katrina "Want us to keep you warm?"
-    Katrina ""
+    Katrina "¿Quieres que te mantengamos caliente?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:492
 translate spanish sheet_28_1_262_16_2b9a3adc:
 
     # ch_Name "Well, looking at you I've realised..."
-    ch_Name ""
+    ch_Name "bueno, al mirarte me he dado cuenta..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:494
 translate spanish sheet_28_1_262_16_8b991e2d:
 
     # ch_Name "...that I could use some heat..."
-    ch_Name ""
+    ch_Name "...de que no me vendría mal algo de calor..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:496
 translate spanish sheet_28_1_262_16_2cac92c8:
 
     # Leona "From that icicle?"
-    Leona ""
+    Leona "¿Para ese témpano?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:498
 translate spanish sheet_28_1_262_16_2b6f66da:
 
     # Leona "I′ll show you what is the real \"heat\"."
-    Leona ""
+    Leona "Yo te enseñaré lo que es el verdadero \"calor\"."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:500
 translate spanish sheet_28_1_262_16_5dff2f86:
 
     # ch_Name "It feels like I'm interested."
-    ch_Name ""
+    ch_Name "Tienes toda mí atención."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:502
 translate spanish sheet_28_1_262_16_fb1897f0:
 
     # Leona "Yes?"
-    Leona ""
+    Leona "¿Si?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:504
 translate spanish sheet_28_1_262_16_c4e6b94f:
 
     # ch_Name "But I still need to think about what to chose."
-    ch_Name ""
+    ch_Name "Pero aun me tengo que pensar mí decisión."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:506
 translate spanish sheet_28_1_262_16_f1255512:
 
     # ch_Name "And while I'm busy..."
-    ch_Name ""
+    ch_Name "¡Y mientras tanto..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:508
 translate spanish sheet_28_1_262_16_b5f47fff:
 
     # ch_Name "...you both have work to do!"
-    ch_Name ""
+    ch_Name "...las dos tenéis trabajo que hacer!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:512
 translate spanish sheet_28_1_262_16_31a53a94:
 
     # Leona "Ah!"
-    Leona ""
+    Leona "¡Ah!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:513
 translate spanish sheet_28_1_262_16_32269909:
 
     # Katrina "Yes, just like that!"
-    Katrina ""
+    Katrina "¡Si, justo así!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:518
 translate spanish sheet_28_1_262_16_82dd8478:
 
     # ch_Name "{i}(Both of them are channeling their energy...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Las dos están canalizando su energía...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:519
 translate spanish sheet_28_1_262_16_d80fe688:
 
     # ch_Name "{i}(...through their tongues...){/i}"
-    ch_Name ""
+    ch_Name "{i}(...con la lengua...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:520
 translate spanish sheet_28_1_262_16_dd382f24:
 
     # ch_Name "{i}(If that's so good I wonder how sex feels...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Si esto es la hostia me pregunto como será el sexo con ellas...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:523
 translate spanish sheet_28_1_262_16_80cea173:
 
     # ch_Name "{i}(But her energy... has something special...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Su energía... hay algo especial en ella...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:524
 translate spanish sheet_28_1_262_16_e5ea7036:
 
     # ch_Name "{i}(It feels right...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Es alucinante...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:529
 translate spanish sheet_28_1_262_16_77b64706:
 
     # Leona "Ahh... mmm..."
-    Leona ""
+    Leona "Ahh... mmm..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:530
 translate spanish sheet_28_1_262_16_22b43c7e:
 
     # Katrina "Mhm... ahhh!"
-    Katrina ""
+    Katrina "¡Mhm... ahhh!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:532
 translate spanish sheet_28_1_262_16_4745b8df:
 
     # ch_Name "{i}(Adderin or Leonheart?){/i}"
-    ch_Name ""
+    ch_Name "{i}(¿Adderin o Leonheart?){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:533
 translate spanish sheet_28_1_262_16_10c7ab55:
 
     # ch_Name "{i}(I have to choose...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tengo que elegir...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:534
 translate spanish sheet_28_1_262_16_28a0d6bc:
 
     # ch_Name "{i}(Adderin is tempting, but...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Adderin es tentador, pero...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:535
 translate spanish sheet_28_1_262_16_fcea3e36:
 
     # ch_Name "{i}(Sam is Leonheart, so does Haley. And that asian chick... Lily?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sam y Haley son de Leonheart. Y el pivón asiático... ¿Lily?){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:536
 translate spanish sheet_28_1_262_16_f94eb1c6:
 
     # ch_Name "{i}(And most importantly...){/i}"
-    ch_Name ""
+    ch_Name "{i}(¡Y lo más importante...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:537
 translate spanish sheet_28_1_262_16_617f0420:
 
     # ch_Name "{i}(...Leona sucks so much better!){/i}"
-    ch_Name ""
+    ch_Name "{i}(...Leona la chupa muchísimo mejor!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:539
 translate spanish sheet_28_1_262_16_3ada17ee:
 
     # Katrina "What did you just say?"
-    Katrina ""
+    Katrina "¿Qué mierda acabas de decir?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:540
 translate spanish sheet_28_1_262_16_a50e4f58:
 
     # ch_Name "Me? Nothing!"
-    ch_Name ""
+    ch_Name "¿Yo? ¡Nada!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:541
 translate spanish sheet_28_1_262_16_944d18b1:
 
     # Katrina "Don't you dare!"
-    Katrina ""
+    Katrina "¡Ni se te ocurra!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:543
 translate spanish sheet_28_1_262_16_55b53336:
 
     # Katrina "You think I can't read your thoughts?"
-    Katrina ""
+    Katrina "¿Acaso te crees que no puedo leer tus pensamientos?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:544
 translate spanish sheet_28_1_262_16_0ef9abee:
 
     # Katrina "You must be halfwitted!"
-    Katrina ""
+    Katrina "¡Debes de ser imbecil!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:546
 translate spanish sheet_28_1_262_16_95460236:
 
     # Katrina "What a joke! "
-    Katrina ""
+    Katrina "¡Vaya broma! "
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:547
 translate spanish sheet_28_1_262_16_23e2b2b6:
 
     # Katrina "And I've wasted my time on you?"
-    Katrina ""
+    Katrina "¿Y yo he desperdiciado mí tiempo contigo?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:549
 translate spanish sheet_28_1_262_16_6ac98d91:
 
     # ch_Name "Wait... I've had no idea..."
-    ch_Name ""
+    ch_Name "Espera... no tenía ni idea de..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:550
 translate spanish sheet_28_1_262_16_e5d2ce93:
 
     # ch_Name "What a disgrace!"
-    ch_Name ""
+    ch_Name "¡Qué vergüenza!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:552
 translate spanish sheet_28_1_262_16_f7463d7c:
 
     # Katrina "Congratulations, Leona. It seems that you've got..."
-    Katrina ""
+    Katrina "Felicidades, Leona. Parece que te has agenciado..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:553
 translate spanish sheet_28_1_262_16_c8b29901:
 
     # Katrina "...another loser in Leonheart family."
-    Katrina ""
+    Katrina "...a otro perdedor en la familia de Leonheart."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:555
 translate spanish sheet_28_1_262_16_adb72d58:
 
     # ch_Name "I didn't mean to hurt her..."
-    ch_Name ""
+    ch_Name "No pretendía ofenderla..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:556
 translate spanish sheet_28_1_262_16_87e9e1ac:
 
     # ch_Name "I've just..."
-    ch_Name ""
+    ch_Name "Yo solo..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:558
 translate spanish sheet_28_1_262_16_4823b61a:
 
     # Leona "Hey!"
-    Leona ""
+    Leona "¡Hey!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:559
 translate spanish sheet_28_1_262_16_40ac21bd:
 
     # Leona "Where are you looking at?"
-    Leona ""
+    Leona "¿Qué estás mirando?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:560
 translate spanish sheet_28_1_262_16_eef07d1d:
 
     # Leona "It's rude to ignore a girl who gives better blowjobs."
-    Leona ""
+    Leona "Es de mala educación ignorar a la chica que hace mejores mamadas."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:561
 translate spanish sheet_28_1_262_16_d6366179:
 
     # Leona "Let me prove you that you're right."
-    Leona ""
+    Leona "Déjame demostrarte que estás en lo cierto."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:563
 translate spanish sheet_28_1_262_16_96854107:
 
     # Leona "Let's get your magic wand ready for action!"
-    Leona ""
+    Leona "¡Pongamos a punto tu varita mágica!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:564
 translate spanish sheet_28_1_262_16_1a69833e:
 
     # Leona "Oh yes!"
-    Leona ""
+    Leona "¡Oh si!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:565
 translate spanish sheet_28_1_262_16_fc41b3a3:
 
     # Leona "It's getting bigger and bigger."
-    Leona ""
+    Leona "No para de crecer."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:566
 translate spanish sheet_28_1_262_16_d807b706:
 
     # Leona "Is it your special magical talent?"
-    Leona ""
+    Leona "¿Es este tu talento mágico?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:567
 translate spanish sheet_28_1_262_16_fd50b9ca:
 
     # Leona "Or you were just shy when we started?"
-    Leona ""
+    Leona "¿O es que estabas tímido al empezar?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:569
 translate spanish sheet_28_1_262_16_edc0fd49:
 
     # ch_Name "You want it to get really big?"
-    ch_Name ""
+    ch_Name "¿Quieres que crezca de verdad?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:570
 translate spanish sheet_28_1_262_16_fcda8058:
 
     # ch_Name "Then you need to talk less!"
-    ch_Name ""
+    ch_Name "¡Entonces vas a tener que hablar menos!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:572
 translate spanish sheet_28_1_262_16_429501c4:
 
     # ch_Name "And do MORE!"
-    ch_Name ""
+    ch_Name "¡Y hacer MÁS!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:573
 translate spanish sheet_28_1_262_16_7cad1fbe:
 
     # Leona "*Gulp!*"
-    Leona ""
+    Leona "¡*Glup!*"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:574
 translate spanish sheet_28_1_262_16_42c19953:
 
     # ch_Name "I know you like the attitude!"
-    ch_Name ""
+    ch_Name "¡Se que te gusta la iniciativa!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:576
 translate spanish sheet_28_1_262_16_482b7b3d:
 
     # Leona "Ahhh... mmm.."
-    Leona ""
+    Leona "Ahhh... mmm..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:577
 translate spanish sheet_28_1_262_16_3de0a3e3:
 
     # Leona "Mhm..."
-    Leona ""
+    Leona "Mhm..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:581
 translate spanish sheet_28_1_262_16_7cad1fbe_1:
 
     # Leona "*Gulp!*"
-    Leona ""
+    Leona "*¡Gulp!*"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:582
 translate spanish sheet_28_1_262_16_7db529f1:
 
     # ch_Name "{i}(I'm...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Estoy a...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:585
 translate spanish sheet_28_1_262_16_cef2be41:
 
     # ch_Name "{i}(...going to...){/i}"
-    ch_Name ""
+    ch_Name "{i}(...punto de...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:586
 translate spanish sheet_28_1_262_16_34502bb4:
 
     # ch_Name "{i}(...CUM!){/i}"
-    ch_Name ""
+    ch_Name "{i}(...¡CORRERME!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:595
 translate spanish test_sheet_28_face_5371717f:
 
     # ch_Name "Take that!"
-    ch_Name ""
+    ch_Name "¡Toma eso!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:596
 translate spanish test_sheet_28_face_abf7b085:
 
     # Leona "Ahhh... *Gulp!*"
-    Leona ""
+    Leona "Ahhh... *Glup!*"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:602
 translate spanish test_sheet_28_face_2aa674be:
 
     # ch_Name "TAKE..."
-    ch_Name ""
+    ch_Name "¡TOMA..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:603
 translate spanish test_sheet_28_face_bd738279:
 
     # ch_Name "...IT..."
-    ch_Name ""
+    ch_Name "...LO..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:609
 translate spanish test_sheet_28_face_6aa29495:
 
     # ch_Name "...ALL!"
-    ch_Name ""
+    ch_Name "...TODO!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:618
 translate spanish test_sheet_28_face_766a1ca6:
 
     # ch_Name "YES! "
-    ch_Name ""
+    ch_Name "¡SÍ!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:619
 translate spanish test_sheet_28_face_1a69833e:
 
     # Leona "Oh yes!"
-    Leona ""
+    Leona "¡Oh si!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:621
 translate spanish test_sheet_28_face_12ec736c:
 
     # Leona "It tastes like pure magic!"
-    Leona ""
+    Leona "¡Sabe a pura magia!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:623
 translate spanish test_sheet_28_face_085a93e2:
 
     # ch_Name "Phew..."
-    ch_Name ""
+    ch_Name "Phew..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:625
 translate spanish test_sheet_28_face_d44b5e11:
 
     # Leona "You've chosen with your heart."
-    Leona ""
+    Leona "Has elegido con el corazón."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:628
 translate spanish test_sheet_28_face_1624089e:
 
     # Leona "May it continue to lead you, because it is in the heart that passion arises."
-    Leona ""
+    Leona "Que él continue guiándote, por que es en el corazón donde se alza la pasión."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:630
 translate spanish test_sheet_28_face_ee3a39a2:
 
     # Leona "You're a Leonheart now!"
-    Leona ""
+    Leona "¡Ahora perteneces a Leonheart!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:636
 translate spanish sheet_28_1_266_19e2785f:
 
     # ch_Name "Here it comes!"
-    ch_Name ""
+    ch_Name "¡Aquí viene!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:637
 translate spanish sheet_28_1_266_18b427d7:
 
     # Leona "Yes! "
-    Leona ""
+    Leona "¡Sí!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:643
 translate spanish sheet_28_1_266_8b45365d:
 
     # ch_Name "Ahhh!"
-    ch_Name ""
+    ch_Name "¡Ahhh!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:646
 translate spanish sheet_28_1_266_df7cc8ef:
 
     # Leona "Shower me with your glorious semen!"
-    Leona ""
+    Leona "¡Báñame con tu glorioso semen!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:647
 translate spanish sheet_28_1_266_089a6a26:
 
     # ch_Name "Do you like that?"
-    ch_Name ""
+    ch_Name "¿Te ha gustado?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:648
 translate spanish sheet_28_1_266_d8ec0c0c:
 
     # Leona "Mmm... Oh yes!"
-    Leona ""
+    Leona "Mmm... ¡Oh si!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:649
 translate spanish sheet_28_1_266_899033d9:
 
     # ch_Name "Well then..."
-    ch_Name ""
+    ch_Name "Entonces..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:654
 translate spanish sheet_28_1_266_3dbd79a7:
 
     # ch_Name "I've got some more for you!"
-    ch_Name ""
+    ch_Name "¡tengo algo más para ti!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:656
 translate spanish sheet_28_1_266_447d425e:
 
     # Leona "Ooh! Aha-ha!"
-    Leona ""
+    Leona "¡Ooh! ¡Aha-ha!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:657
 translate spanish sheet_28_1_266_67d8b247:
 
     # Leona "Oh my!"
-    Leona ""
+    Leona "¡Madre mía!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:658
 translate spanish sheet_28_1_266_c55d83ca:
 
     # Leona "Look at me!"
-    Leona ""
+    Leona "¡Mírame!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:660
 translate spanish sheet_28_1_266_1e3bb23a:
 
     # Leona "I'm so messy..."
-    Leona ""
+    Leona "Estoy super pringosa..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:661
 translate spanish sheet_28_1_266_085a93e2:
 
     # ch_Name "Phew..."
-    ch_Name ""
+    ch_Name "Phew..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:663
 translate spanish sheet_28_1_266_0187a6f4:
 
     # Leona "[Name], It's been a real pleasure."
-    Leona ""
+    Leona "Ha sido un auténtico placer [Nombre]."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:665
 translate spanish sheet_28_1_266_a6f36cb9:
 
     # Leona "And the most pleasant thing is..."
-    Leona ""
+    Leona "Y lo mejor de todo es..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:666
 translate spanish sheet_28_1_266_b15fc409:
 
     # Leona "...that you've chosen with your heart."
-    Leona ""
+    Leona "...Que has elegido con tu corazón."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:669
 translate spanish sheet_28_1_265_6_1624089e:
 
     # Leona "May it continue to lead you, because it is in the heart that passion arises."
-    Leona ""
+    Leona "Que continue guiandote, por que es en el corazón donde se alza la pasión."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:671
 translate spanish sheet_28_1_265_6_ee3a39a2:
 
     # Leona "You're a Leonheart now!"
-    Leona ""
+    Leona "¡Ahora perteneces a Leonheart!"
 
 translate spanish strings:
 
     # game/logic/episodes_after_first/ep2/sheet_28.rpy:136
     old "WTF? Stop it!"
-    new ""
+    new "¿WTF? ¡Para!"
 
     # game/logic/episodes_after_first/ep2/sheet_28.rpy:136
     old "Wait... What?"
-    new ""
+    new "¿Espera...Qué?"
 
     # game/logic/episodes_after_first/ep2/sheet_28.rpy:396
     old "No. It's enough."
-    new ""
+    new "No. Suficiente."
 
     # game/logic/episodes_after_first/ep2/sheet_28.rpy:396
     old "Ready for action."
-    new ""
+    new "Listo para la acción."
 
     # game/logic/episodes_after_first/ep2/sheet_28.rpy:589
     old "Face"
-    new ""
+    new "Cara"
 
     # game/logic/episodes_after_first/ep2/sheet_28.rpy:589
     old "Mouth"
-    new ""
+    new "Boca"
 
