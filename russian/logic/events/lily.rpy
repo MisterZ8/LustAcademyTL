@@ -4,1069 +4,1069 @@
 translate russian Lily_1_label_a51b6555:
 
     # ch_Name "{i}(Lily wanted to get into Leonheart so badly. I'm glad she made it.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Lily так сильно хотела попасть в Leonheart. Я рад что ей удалось.){/i}"
 
 # game/logic/events/lily.rpy:237
 translate russian Lily_1_label_7ca9c3d2:
 
     # ch_Name "{i}(She seems like a nice girl. Let's find out if the looks are deceiving.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Она кажется милой девушкой. Проверим, насколько обманчива внешность.){/i}"
 
 # game/logic/events/lily.rpy:238
 translate russian Lily_1_label_3dac87cd:
 
     # ch_Name "Hi, Lily!{w} How are you?"
-    ch_Name ""
+    ch_Name "Привет, Lily!{w} Как дела?"
 
 # game/logic/events/lily.rpy:240
 translate russian Lily_1_label_caa5c56b:
 
     # Lily "Oh, hello there!"
-    Lily ""
+    Lily "Ох, привет!"
 
 # game/logic/events/lily.rpy:242
 translate russian Lily_1_label_b5eb02e1:
 
     # Lily "You...{w} Wait, I remember..."
-    Lily ""
+    Lily "Ты...{w} Подожди, я помню..."
 
 # game/logic/events/lily.rpy:243
 translate russian Lily_1_label_a230ee7f:
 
     # Lily "[Name], right?"
-    Lily ""
+    Lily "[Name], правильно?"
 
 # game/logic/events/lily.rpy:245
 translate russian Lily_1_label_db7f05e8:
 
     # ch_Name "{i}(It's always nice when a cutie remembers your name.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Приятно, когда симпатяшка помнит твое имя.){/i}"
 
 # game/logic/events/lily.rpy:247
 translate russian Lily_1_label_c6aa2781:
 
     # ch_Name "Yeah."
-    ch_Name ""
+    ch_Name "Ага."
 
 # game/logic/events/lily.rpy:248
 translate russian Lily_1_label_e5cbaaca:
 
     # ch_Name "Congratulations on getting into Leonheart like you wanted."
-    ch_Name ""
+    ch_Name "Поздравляю с зачислением в Leonheart, как ты и хотела."
 
 # game/logic/events/lily.rpy:250
 translate russian Lily_1_label_dc6137f5:
 
     # Lily "Thank you!"
-    Lily ""
+    Lily "Спасибо!"
 
 # game/logic/events/lily.rpy:251
 translate russian Lily_1_label_5f5f2b83:
 
     # Lily "It couldn't have gone any other way."
-    Lily ""
+    Lily "По другому и быть не могло."
 
 # game/logic/events/lily.rpy:252
 translate russian Lily_1_label_30c14d79:
 
     # Lily "But I was so happy in that moment!"
-    Lily ""
+    Lily "Но я так счастлива сейчас!"
 
 # game/logic/events/lily.rpy:254
 translate russian Lily_1_label_c9d7d0d5:
 
     # Lily "You got in, too, right?"
-    Lily ""
+    Lily "Ты тоже попал сюда, не так ли?"
 
 # game/logic/events/lily.rpy:255
 translate russian Lily_1_label_5d28f6e0:
 
     # ch_Name "That's right."
-    ch_Name ""
+    ch_Name "Это так."
 
 # game/logic/events/lily.rpy:257
 translate russian Lily_1_label_7e8d0f8d:
 
     # Lily "That's great! I'm so happy!"
-    Lily ""
+    Lily "Отлично! Я так рада!"
 
 # game/logic/events/lily.rpy:258
 translate russian Lily_1_label_78427aac:
 
     # ch_Name "You are?"
-    ch_Name ""
+    ch_Name "Правда?"
 
 # game/logic/events/lily.rpy:259
 translate russian Lily_1_label_bf9bd3fc:
 
     # ch_Name "Why is that?"
-    ch_Name ""
+    ch_Name "С чего бы это?"
 
 # game/logic/events/lily.rpy:261
 translate russian Lily_1_label_283b67b4:
 
     # Lily "I knew right away there was something special about you."
-    Lily ""
+    Lily "Я сразу поняла, что в тебе есть что-то особенное."
 
 # game/logic/events/lily.rpy:262
 translate russian Lily_1_label_a267fc17:
 
     # Lily "And I'm rarely wrong about people."
-    Lily ""
+    Lily "А я редко ошибаюсь в людях."
 
 # game/logic/events/lily.rpy:263
 translate russian Lily_1_label_b013be72:
 
     # Lily "The house needs mages like you!"
-    Lily ""
+    Lily "Дому нужны такие маги, как ты!"
 
 # game/logic/events/lily.rpy:264
 translate russian Lily_1_label_5d6f0f4e:
 
     # ch_Name "{i}(She's new here, and she's already talking like a prefect.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Она новенькая здесь, но уже рассуждает как префект.){/i}"
 
 # game/logic/events/lily.rpy:265
 translate russian Lily_1_label_16b95631:
 
     # ch_Name "{i}(Elijah should be worried about his position.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Elijah стоит опасаться за свое положение.){/i}"
 
 # game/logic/events/lily.rpy:267
 translate russian Lily_1_label_b4928cb3:
 
     # ch_Name "Oh, don't make me blush."
-    ch_Name ""
+    ch_Name "Ох, не заставляй меня краснеть."
 
 # game/logic/events/lily.rpy:268
 translate russian Lily_1_label_2a36d139:
 
     # ch_Name "I'm glad to be on the team with you too, Lily."
-    ch_Name ""
+    ch_Name "Я тоже рад оказаться с тобой в одной команде, Lily."
 
 # game/logic/events/lily.rpy:269
 translate russian Lily_1_label_8d1314c9:
 
     # ch_Name "Though I really don't know how freshmen can help the house..."
-    ch_Name ""
+    ch_Name "Хотя я действительно не представляю, чем новички могут помочь дому..."
 
 # game/logic/events/lily.rpy:271
 translate russian Lily_1_label_ab2edff6:
 
     # Lily "Are you kidding me? It's all in our hands!"
-    Lily ""
+    Lily "Ты шутишь? Все в наших руках!"
 
 # game/logic/events/lily.rpy:272
 translate russian Lily_1_label_1e93415e:
 
     # ch_Name "Really?"
-    ch_Name ""
+    ch_Name "Правда?"
 
 # game/logic/events/lily.rpy:273
 translate russian Lily_1_label_122ecae8:
 
     # Lily "Every point counts!"
-    Lily ""
+    Lily "Важен каждый балл!"
 
 # game/logic/events/lily.rpy:274
 translate russian Lily_1_label_ee2ba0a9:
 
     # Lily "It's every student's job to fight for their house."
-    Lily ""
+    Lily "Работа каждого студента - бороться за свой дом."
 
 # game/logic/events/lily.rpy:276
 translate russian Lily_1_label_33f96222:
 
     # ch_Name "So that's how it is."
-    ch_Name ""
+    ch_Name "Вот оно что."
 
 # game/logic/events/lily.rpy:277
 translate russian Lily_1_label_c919cdf9:
 
     # ch_Name "Still, isn't it more important that we study now?"
-    ch_Name ""
+    ch_Name "И все же, разве то, что мы учимся, не важнее в данный момент?"
 
 # game/logic/events/lily.rpy:278
 translate russian Lily_1_label_a629af4b:
 
     # ch_Name "I just don't get it, if the house wins the competition, so what?"
-    ch_Name ""
+    ch_Name "Я просто не понимаю, что с того, что дом победит?"
 
 # game/logic/events/lily.rpy:280
 translate russian Lily_1_label_9e72fc37:
 
     # Lily "So what?"
-    Lily ""
+    Lily "Что с того?"
 
 # game/logic/events/lily.rpy:281
 translate russian Lily_1_label_eb1ea353:
 
     # Lily "It's prestige and influence."
-    Lily ""
+    Lily "Это престиж и влияние."
 
 # game/logic/events/lily.rpy:282
 translate russian Lily_1_label_d20e8a5a:
 
     # Lily "The whole magical world watches the results of house battles."
-    Lily ""
+    Lily "Весь магический мир наблюдает за результатами домашних боев."
 
 # game/logic/events/lily.rpy:284
 translate russian Lily_1_label_2c03e5ed:
 
     # Lily "It's a great line on a résumé."
-    Lily ""
+    Lily "Это отличная строчка в резюме."
 
 # game/logic/events/lily.rpy:285
 translate russian Lily_1_label_9948c612:
 
     # Lily "At the very least!"
-    Lily ""
+    Lily "Как минимум!"
 
 # game/logic/events/lily.rpy:286
 translate russian Lily_1_label_5ffc5b5b:
 
     # ch_Name "If you say so."
-    ch_Name ""
+    ch_Name "Как скажешь."
 
 # game/logic/events/lily.rpy:287
 translate russian Lily_1_label_7e81cff6:
 
     # ch_Name "{i}(So you're just an adorable little careerist?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Так ты просто очаровательная маленькая карьеристка?){/i}"
 
 # game/logic/events/lily.rpy:288
 translate russian Lily_1_label_9ca81bf7:
 
     # ch_Name "Sounds really useful."
-    ch_Name ""
+    ch_Name "Звучит очень полезно."
 
 # game/logic/events/lily.rpy:289
 translate russian Lily_1_label_0f326c06:
 
     # ch_Name "Then I'm in."
-    ch_Name ""
+    ch_Name "Ну, тогда я в доле."
 
 # game/logic/events/lily.rpy:291
 translate russian Lily_1_label_cadb256e:
 
     # Lily "Really?!"
-    Lily ""
+    Lily "Правда?"
 
 # game/logic/events/lily.rpy:292
 translate russian Lily_1_label_49148c8e:
 
     # ch_Name "{i}(Why is she so surprised?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Что ее так удивляет?){/i}"
 
 # game/logic/events/lily.rpy:293
 translate russian Lily_1_label_b2fefe9b:
 
     # ch_Name "{i}(How many people has she already tried to impose her housebattles on?!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Сколько людей уже пытались навязать ей бои домов?!){/i}"
 
 # game/logic/events/lily.rpy:294
 translate russian Lily_1_label_3bd6b702:
 
     # ch_Name "Well, yeah. I'm going to try at least."
-    ch_Name ""
+    ch_Name "Ну, да. По крайней мере, я попытаюсь."
 
 # game/logic/events/lily.rpy:296
 translate russian Lily_1_label_a54e7740:
 
     # Lily "Oh, great!"
-    Lily ""
+    Lily "Ох, отлично!"
 
 # game/logic/events/lily.rpy:297
 translate russian Lily_1_label_a14a1c38:
 
     # Lily "The two of us together are much more able to stand up to Naomi and her stupid Adderin..."
-    Lily ""
+    Lily "Вдвоем с тобой нам будет куда проще справиться с Naomi и ее дурацким Adderin..."
 
 # game/logic/events/lily.rpy:298
 translate russian Lily_1_label_c9c53604:
 
     # ch_Name "{i}(Oh, so that's the real reason.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ох, так вот в чем настоящая причина.){/i}"
 
 # game/logic/events/lily.rpy:299
 translate russian Lily_1_label_d3b15246:
 
     # ch_Name "{i}(You have a fundamental disagreement with your girlfriend.){/i}"
-    ch_Name ""
+    ch_Name "{i}(У тебя основательные разногласия с твоей подружкой.){/i}"
 
 # game/logic/events/lily.rpy:300
 translate russian Lily_1_label_9c54b5a2:
 
     # ch_Name "{i}(I bet you'd do anything you could rub her nose in.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Уверен, ты готова на все, чтобы утереть ей нос.){/i}"
 
 # game/logic/events/lily.rpy:302
 translate russian Lily_1_label_f3cdf659:
 
     # Lily "It's decided!"
-    Lily ""
+    Lily "Решено!"
 
 # game/logic/events/lily.rpy:303
 translate russian Lily_1_label_a310d79b:
 
     # ch_Name "What's decided?!"
-    ch_Name ""
+    ch_Name "Что решено?"
 
 # game/logic/events/lily.rpy:305
 translate russian Lily_1_label_68267cb1:
 
     # Lily "We are definitely not going to lose the faculty race to Naomi!"
-    Lily ""
+    Lily "Мы определенно не собираемся продуть гонку факультетов Naomi!"
 
 # game/logic/events/lily.rpy:306
 translate russian Lily_1_label_5dcf6454:
 
     # ch_Name "Ah-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha!"
-    ch_Name ""
+    ch_Name "Ах-ха-ха-ха-ха-ха-ха-ха-ха-ха!"
 
 # game/logic/events/lily.rpy:308
 translate russian Lily_1_label_497c3d3a:
 
     # Lily "What is it?!"
-    Lily ""
+    Lily "В чем дело?"
 
 # game/logic/events/lily.rpy:309
 translate russian Lily_1_label_309be92c:
 
     # ch_Name "No, no, I'm sorry."
-    ch_Name ""
+    ch_Name "Нет, нет, извини."
 
 # game/logic/events/lily.rpy:310
 translate russian Lily_1_label_9c9c5edd:
 
     # ch_Name "You're just so cute when you're motivated."
-    ch_Name ""
+    ch_Name "Ты просто такая милая, когда у тебя есть мотивация."
 
 # game/logic/events/lily.rpy:312
 translate russian Lily_1_label_d82d04c0:
 
     # Lily "Stop it! I'm blushing."
-    Lily ""
+    Lily "Прекрати! Я краснею."
 
 # game/logic/events/lily.rpy:313
 translate russian Lily_1_label_757066fb:
 
     # ch_Name "And that just makes you prettier!"
-    ch_Name ""
+    ch_Name "И это делает тебя еще краше!"
 
 # game/logic/events/lily.rpy:315
 translate russian Lily_1_label_b9e0f025:
 
     # Lily "Aah! You're insufferable."
-    Lily ""
+    Lily "Аах! Ты невыносим."
 
 # game/logic/events/lily.rpy:316
 translate russian Lily_1_label_7eee2a05:
 
     # Lily "Let's just focus on our goal!"
-    Lily ""
+    Lily "Давай сосредоточимся на нашей цели!"
 
 # game/logic/events/lily.rpy:317
 translate russian Lily_1_label_d2e0f35e:
 
     # ch_Name "Sure, no problem."
-    ch_Name ""
+    ch_Name "Конечно, без проблем."
 
 # game/logic/events/lily.rpy:318
 translate russian Lily_1_label_b0e7b226:
 
     # ch_Name "Our main goal is house points, right?"
-    ch_Name ""
+    ch_Name "Наша основная цель это баллы дома, так?"
 
 # game/logic/events/lily.rpy:320
 translate russian Lily_1_label_9041fcc3:
 
     # Lily "That's right."
-    Lily ""
+    Lily "Правильно."
 
 # game/logic/events/lily.rpy:321
 translate russian Lily_1_label_7527c7ec:
 
     # ch_Name "Then we should start with studying."
-    ch_Name ""
+    ch_Name "Тогда начнем с учебы."
 
 # game/logic/events/lily.rpy:322
 translate russian Lily_1_label_1eef0eed:
 
     # ch_Name "Let's go to class, look around, and make a plan."
-    ch_Name ""
+    ch_Name "Пойдем в класс, осмотримся, составим план."
 
 # game/logic/events/lily.rpy:324
 translate russian Lily_1_label_b41dda02:
 
     # Lily "[Name]... You're so meticulous about this!"
-    Lily ""
+    Lily "[Name]... Ты такой дотошный!"
 
 # game/logic/events/lily.rpy:325
 translate russian Lily_1_label_565fe5d3:
 
     # Lily "I didn't expect..."
-    Lily ""
+    Lily "Даже не ожидала..."
 
 # game/logic/events/lily.rpy:326
 translate russian Lily_1_label_7e997a10:
 
     # ch_Name "Is it bad?"
-    ch_Name ""
+    ch_Name "Это плохо?"
 
 # game/logic/events/lily.rpy:327
 translate russian Lily_1_label_e8ea789f:
 
     # Lily "Are you kidding?"
-    Lily ""
+    Lily "Ты шутишь?"
 
 # game/logic/events/lily.rpy:329
 translate russian Lily_1_label_9ff17d1d:
 
     # Lily "If it wasn't so crowded, I'd kiss you!"
-    Lily ""
+    Lily "Если бы здесь было не так людно, я бы тебя поцеловала!"
 
 # game/logic/events/lily.rpy:330
 translate russian Lily_1_label_1d7be466:
 
     # ch_Name "Ah-ha-ha. I'll keep that in mind."
-    ch_Name ""
+    ch_Name "Ах-ха-ха. Я это запомню."
 
 # game/logic/events/lily.rpy:331
 translate russian Lily_1_label_53a0b1de:
 
     # Lily "So we go to class now, and then..."
-    Lily ""
+    Lily "Значит, сейчас мы идем в класс, а потом..."
 
 # game/logic/events/lily.rpy:332
 translate russian Lily_1_label_eab561cb:
 
     # ch_Name "We meet and discuss the plan."
-    ch_Name ""
+    ch_Name "Встретимся и обсудим план."
 
 # game/logic/events/lily.rpy:334
 translate russian Lily_1_label_61735f1c:
 
     # Lily "Great! It's a deal."
-    Lily ""
+    Lily "Отлично! Договорились."
 
 # game/logic/events/lily.rpy:335
 translate russian Lily_1_label_7fb9499a:
 
     # ch_Name "Then see you later!"
-    ch_Name ""
+    ch_Name "Увидимся позже!"
 
 # game/logic/events/lily.rpy:349
 translate russian Lily_2_label_7f09fc4d:
 
     # ch_Name "Hi!"
-    ch_Name ""
+    ch_Name "Привет!"
 
 # game/logic/events/lily.rpy:350
 translate russian Lily_2_label_bead6911:
 
     # ch_Name "What are you doing?"
-    ch_Name ""
+    ch_Name "Чем занимаешься?"
 
 # game/logic/events/lily.rpy:352
 translate russian Lily_2_label_f042f9bb:
 
     # Lily "Hi there!"
-    Lily ""
+    Lily "Привет-привет!"
 
 # game/logic/events/lily.rpy:353
 translate russian Lily_2_label_46b591b0:
 
     # Lily "Nothing exciting."
-    Lily ""
+    Lily "Ничем особенным."
 
 # game/logic/events/lily.rpy:354
 translate russian Lily_2_label_7342b7c9:
 
     # Lily "Just getting ready for class."
-    Lily ""
+    Lily "Просто готовлюсь к занятиям."
 
 # game/logic/events/lily.rpy:355
 translate russian Lily_2_label_daedbf62:
 
     # ch_Name "I thought you got house points for attending."
-    ch_Name ""
+    ch_Name "Я думал, ты получаешь баллы дома за посещение."
 
 # game/logic/events/lily.rpy:356
 translate russian Lily_2_label_93bd463c:
 
     # ch_Name "Or are you here for something else?"
-    ch_Name ""
+    ch_Name "Или ты здесь по другой причине?"
 
 # game/logic/events/lily.rpy:358
 translate russian Lily_2_label_5f3ed3db:
 
     # Lily "I'm here for points."
-    Lily ""
+    Lily "Я здесь ради баллов."
 
 # game/logic/events/lily.rpy:359
 translate russian Lily_2_label_78b6bf57:
 
     # Lily "But knowledge never hurts."
-    Lily ""
+    Lily "Но знания никогда не повредят."
 
 # game/logic/events/lily.rpy:360
 translate russian Lily_2_label_cfb1dbd3:
 
     # ch_Name "Well said."
-    ch_Name ""
+    ch_Name "Хорошо сказано."
 
 # game/logic/events/lily.rpy:361
 translate russian Lily_2_label_71ac9419:
 
     # ch_Name "I'm trying to mix business with pleasure too."
-    ch_Name ""
+    ch_Name "Я тоже пытаюсь совместить работу с удовольствием."
 
 # game/logic/events/lily.rpy:363
 translate russian Lily_2_label_ab3fa1d4:
 
     # Lily "Really?"
-    Lily ""
+    Lily "Правда?"
 
 # game/logic/events/lily.rpy:364
 translate russian Lily_2_label_1d51c312:
 
     # Lily "And how's the point collection going?"
-    Lily ""
+    Lily "И как продвигается сбор баллов?"
 
 # game/logic/events/lily.rpy:365
 translate russian Lily_2_label_17b66340:
 
     # ch_Name "Well..."
-    ch_Name ""
+    ch_Name "Ну..."
 
 # game/logic/events/lily.rpy:367
 translate russian Lily_2_label_3bea650a:
 
     # ch_Name "I'm in the preparatory phase."
-    ch_Name ""
+    ch_Name "Я в процессе подготовки."
 
 # game/logic/events/lily.rpy:368
 translate russian Lily_2_label_547e9061:
 
     # ch_Name "I'm trying not to miss any classes."
-    ch_Name ""
+    ch_Name "Стараюсь не пропускать ни одного занятия."
 
 # game/logic/events/lily.rpy:369
 translate russian Lily_2_label_c43ed6fc:
 
     # Lily "That's a good start."
-    Lily ""
+    Lily "Это хорошее начало."
 
 # game/logic/events/lily.rpy:371
 translate russian Lily_2_label_f7316e3e:
 
     # Lily "I have a few more ideas on how to score points!"
-    Lily ""
+    Lily "У меня есть еще несколько идей, как заработать баллы!"
 
 # game/logic/events/lily.rpy:372
 translate russian Lily_2_label_47595be8:
 
     # ch_Name "{i}(Your enthusiasm scares me...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Твой энтузиазм меня пугает...){/i}"
 
 # game/logic/events/lily.rpy:373
 translate russian Lily_2_label_3d64c2ad:
 
     # ch_Name "Tell me about it!"
-    ch_Name ""
+    ch_Name "Расскажи мне о них!"
 
 # game/logic/events/lily.rpy:375
 translate russian Lily_2_label_4bdfc647:
 
     # Lily "I had a talk with our librarian Amelie."
-    Lily ""
+    Lily "Я говорила с нашим библиотекарем Amelie."
 
 # game/logic/events/lily.rpy:376
 translate russian Lily_2_label_a00eea49:
 
     # Lily "Did you know that the {b}local magical creatures steal textbooks{/b}?"
-    Lily ""
+    Lily "Ты знал, что {b}местные магические существа воруют учебники{/b}?"
 
 # game/logic/events/lily.rpy:377
 translate russian Lily_2_label_c6aa2781:
 
     # ch_Name "Yeah."
-    ch_Name ""
+    ch_Name "Ага."
 
 # game/logic/events/lily.rpy:378
 translate russian Lily_2_label_3240582b:
 
     # Lily "And that they leave them all over the academy?"
-    Lily ""
+    Lily "Ч разбрасывают их по всей академии?"
 
 # game/logic/events/lily.rpy:379
 translate russian Lily_2_label_8de7df30:
 
     # ch_Name "She told me."
-    ch_Name ""
+    ch_Name "Она мне говорила."
 
 # game/logic/events/lily.rpy:381
 translate russian Lily_2_label_1d67d5e7:
 
     # Lily "And you didn't say anything?!"
-    Lily ""
+    Lily "И ты ничего не сказал?"
 
 # game/logic/events/lily.rpy:382
 translate russian Lily_2_label_1f8ee285:
 
     # ch_Name "Well... why does it matter?"
-    ch_Name ""
+    ch_Name "Ну... почему это важно?"
 
 # game/logic/events/lily.rpy:383
 translate russian Lily_2_label_6ce1f0a7:
 
     # Lily "Because Amelie gives faculty points for books!"
-    Lily ""
+    Lily "Потому что Amelie дает факультету баллы за книги!"
 
 # game/logic/events/lily.rpy:384
 translate russian Lily_2_label_ce09f520:
 
     # Lily "It's our chance to rub everyone's nose in it."
-    Lily ""
+    Lily "Это наш шанс утереть всем нос в этом деле."
 
 # game/logic/events/lily.rpy:386
 translate russian Lily_2_label_efa98234:
 
     # Lily "And it's something to do in our spare time! Awesome!"
-    Lily ""
+    Lily И это то, чем можно заниматься в свободное время! Потрясно!""
 
 # game/logic/events/lily.rpy:387
 translate russian Lily_2_label_be820b7a:
 
     # ch_Name "{i}(Do you really want to wander around the Academy looking for books?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ты действительно хочешь шататься по Академии в поисках книг?){/i}"
 
 # game/logic/events/lily.rpy:388
 translate russian Lily_2_label_f2d2e2da:
 
     # Lily "If we do this together, then..."
-    Lily ""
+    Lily "Если мы будем делать это вместе, тогда..."
 
 # game/logic/events/lily.rpy:389
 translate russian Lily_2_label_38f2143d:
 
     # ch_Name "{i}(Ah, you want us to do it together...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ах, так ты хочешь делать это вместе...){/i}"
 
 # game/logic/events/lily.rpy:391
 translate russian Lily_2_label_b8f76593:
 
     # Lily "...we can definitely win the house competition!"
-    Lily ""
+    Lily "...мы обязательно выиграем состязание домов!"
 
 # game/logic/events/lily.rpy:392
 translate russian Lily_2_label_9d42f315:
 
     # ch_Name "Sounds like a plan."
-    ch_Name ""
+    ch_Name "Похоже на план."
 
 # game/logic/events/lily.rpy:394
 translate russian Lily_2_label_48b8ee2f:
 
     # Lily "Let's make a deal: we'll each return three books."
-    Lily ""
+    Lily "Давай договоримся: каждый из нас вернет по три книги."
 
 # game/logic/events/lily.rpy:395
 translate russian Lily_2_label_614e71e1:
 
     # Lily "And then we'll discuss our future plans."
-    Lily ""
+    Lily "И после мы обсудим наши дальнейшие планы."
 
 # game/logic/events/lily.rpy:397
 translate russian Lily_2_label_0e66f1eb:
 
     # Lily "Deal?"
-    Lily ""
+    Lily "Договор?"
 
 # game/logic/events/lily.rpy:398
 translate russian Lily_2_label_e85906d5:
 
     # ch_Name "Sure.{w} Consider the books on Amelie's desk."
-    ch_Name ""
+    ch_Name "Конечно.{w} Считай, что книги уже на столе у Amelie."
 
 # game/logic/events/lily.rpy:399
 translate russian Lily_2_label_6591edeb:
 
     # ch_Name "And the house points already on Leonheart's scoreboard."
-    ch_Name ""
+    ch_Name "А баллы дома уже на табло Leonheart's."
 
 # game/logic/events/lily.rpy:401
 translate russian Lily_2_label_f2286d9c:
 
     # Lily "Yes!"
-    Lily ""
+    Lily "Да!"
 
 # game/logic/events/lily.rpy:402
 translate russian Lily_2_label_993e74bc:
 
     # Lily "That's the spirit!"
-    Lily ""
+    Lily "Вот это сила!"
 
 # game/logic/events/lily.rpy:403
 translate russian Lily_2_label_8ddf2b56:
 
     # Lily "Good luck, champ!"
-    Lily ""
+    Lily "Удачи, чемпион!"
 
 # game/logic/events/lily.rpy:405
 translate russian Lily_2_label_0235eaeb:
 
     # ch_Name "{i}(That's right.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Это верно.){/i}"
 
 # game/logic/events/lily.rpy:406
 translate russian Lily_2_label_28a0752e:
 
     # ch_Name "{i}(She's a Leonheart fanatic, what did I expect?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Она фанатик Leonheart, чего я ожидал?){/i}"
 
 # game/logic/events/lily.rpy:407
 translate russian Lily_2_label_b252878a:
 
     # ch_Name "Thanks."
-    ch_Name ""
+    ch_Name "Спасибо."
 
 # game/logic/events/lily.rpy:423
 translate russian Lily_3_label_51984b23:
 
     # ch_Name "{i}(Alright, I've gotta go if I want to get to Victoria's lesson in time.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ладно, мне пора идти, если я хочу прийти на урок Victoria's вовремя.){/i}"
 
 # game/logic/events/lily.rpy:424
 translate russian Lily_3_label_6137eedd:
 
     # ch_Name "{i}(It'd be rude to be late on my first week.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Невежливо опаздывать в первую же неделю.){/i}"
 
 # game/logic/events/lily.rpy:425
 translate russian Lily_3_label_b840c8ac:
 
     # ch_Name "{i}(And something tells me, that Victoria does not like slackers.){/i}"
-    ch_Name ""
+    ch_Name "{i}(И что-то подсказывает мне, что Victoria не любит бездельников.){/i}"
 
 # game/logic/events/lily.rpy:435
 translate russian Lily_3_label_b4be77e4:
 
     # ch_Name "{i}(Wow. I've made it in time.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Вау. Я пришел вовремя.){/i}"
 
 # game/logic/events/lily.rpy:436
 translate russian Lily_3_label_667b2af1:
 
     # ch_Name "{i}(I even have some time to chat with someone.){/i}"
-    ch_Name ""
+    ch_Name "{i}(У меня даже есть время поболтать с кем-нибудь.){/i}"
 
 # game/logic/events/lily.rpy:437
 translate russian Lily_3_label_73ff7f32:
 
     # ch_Name "{i}(I should probably tell Lily, that I've earned some points by attending lessons.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Пожалуй, нужно сказать Lily, что я заработал несколько баллов посещением занятий.){/i}"
 
 # game/logic/events/lily.rpy:441
 translate russian Lily_3_label_8_13d9c2f7:
 
     # ch_Name "Lily, hey!"
-    ch_Name ""
+    ch_Name "Lily, привет!"
 
 # game/logic/events/lily.rpy:442
 translate russian Lily_3_label_8_84b943ab:
 
     # Lily "Hey, [Name]!"
-    Lily ""
+    Lily "Привет, [Name]!"
 
 # game/logic/events/lily.rpy:443
 translate russian Lily_3_label_8_bead6911:
 
     # ch_Name "What are you doing?"
-    ch_Name ""
+    ch_Name "Как твои дела?"
 
 # game/logic/events/lily.rpy:444
 translate russian Lily_3_label_8_f042f9bb:
 
     # Lily "Hi there!"
-    Lily ""
+    Lily "Привет-привет!"
 
 # game/logic/events/lily.rpy:446
 translate russian Lily_3_label_8_46b591b0:
 
     # Lily "Nothing exciting."
-    Lily ""
+    Lily "Ничего особенного."
 
 # game/logic/events/lily.rpy:448
 translate russian Lily_3_label_8_ca838981:
 
     # Lily "I was just getting ready for class."
-    Lily ""
+    Lily "Просто готовлюсь к занятиям."
 
 # game/logic/events/lily.rpy:450
 translate russian Lily_3_label_8_daedbf62:
 
     # ch_Name "I thought you got house points for attending."
-    ch_Name ""
+    ch_Name "Я думал, ты получаешь баллы дома за посещение."
 
 # game/logic/events/lily.rpy:451
 translate russian Lily_3_label_8_93bd463c:
 
     # ch_Name "Or are you here for something else?"
-    ch_Name ""
+    ch_Name "Или ты здесь по другой причине?"
 
 # game/logic/events/lily.rpy:452
 translate russian Lily_3_label_8_5f3ed3db:
 
     # Lily "I'm here for points."
-    Lily ""
+    Lily "Я здесь ради баллов."
 
 # game/logic/events/lily.rpy:454
 translate russian Lily_3_label_8_78b6bf57:
 
     # Lily "But knowledge never hurts."
-    Lily ""
+    Lily "Но знания никогда не повредят."
 
 # game/logic/events/lily.rpy:456
 translate russian Lily_3_label_8_cfb1dbd3:
 
     # ch_Name "Well said."
-    ch_Name ""
+    ch_Name "Хорошо сказано."
 
 # game/logic/events/lily.rpy:457
 translate russian Lily_3_label_8_71ac9419:
 
     # ch_Name "I'm trying to mix business with pleasure too."
-    ch_Name ""
+    ch_Name "Я тоже пытаюсь совместить работу с удовольствием."
 
 # game/logic/events/lily.rpy:458
 translate russian Lily_3_label_8_ab3fa1d4:
 
     # Lily "Really?"
-    Lily ""
+    Lily "Правда?"
 
 # game/logic/events/lily.rpy:460
 translate russian Lily_3_label_8_1d51c312:
 
     # Lily "And how's the point collection going?"
-    Lily ""
+    Lily "И как продвигается сбор баллов?"
 
 # game/logic/events/lily.rpy:461
 translate russian Lily_3_label_8_56fdf728:
 
     # ch_Name "I haven't missed a single class, as I've promised."
-    ch_Name ""
+    ch_Name "Я не пропустил ни одного занятия, как и обещал."
 
 # game/logic/events/lily.rpy:463
 translate russian Lily_3_label_8_23f6ab7b:
 
     # Lily "Well done!"
-    Lily ""
+    Lily "Отлично!"
 
 # game/logic/events/lily.rpy:464
 translate russian Lily_3_label_8_c355d4c2:
 
     # Lily "But I think that won't be enough to win a house competition."
-    Lily ""
+    Lily "Но я думаю, этого будет недостаточно для победы в соревновании домов."
 
 # game/logic/events/lily.rpy:465
 translate russian Lily_3_label_8_25a065a5:
 
     # ch_Name "Why?"
-    ch_Name ""
+    ch_Name "Почему?"
 
 # game/logic/events/lily.rpy:467
 translate russian Lily_3_label_8_58c586d0:
 
     # Lily "Everyone takes classes. It's not a revelation."
-    Lily ""
+    Lily "Все посещают занятия. Это не откровение."
 
 # game/logic/events/lily.rpy:468
 translate russian Lily_3_label_8_3a939e4b:
 
     # Lily "We have to think of something else!"
-    Lily ""
+    Lily "Мы должны придумать что-то еще!"
 
 # game/logic/events/lily.rpy:469
 translate russian Lily_3_label_8_e9202f3b:
 
     # ch_Name "What do you suggest?"
-    ch_Name ""
+    ch_Name "Что ты предлагаешь?"
 
 # game/logic/events/lily.rpy:470
 translate russian Lily_3_label_8_3c03e3f1:
 
     # Lily "I know a way to not only earn points for us but also..."
-    Lily ""
+    Lily Я знаю способ не только заработать баллы для нас, но и...""
 
 # game/logic/events/lily.rpy:472
 translate russian Lily_3_label_8_283ca0b0:
 
     # Lily "Take them away from the other houses!"
-    Lily ""
+    Lily "Забрать из у других домов!"
 
 # game/logic/events/lily.rpy:473
 translate russian Lily_3_label_8_e601c826:
 
     # ch_Name "{i}(Is that even legal?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Это вообще легально?){/i}"
 
 # game/logic/events/lily.rpy:474
 translate russian Lily_3_label_8_48ebd0a9:
 
     # ch_Name "I'm listening."
-    ch_Name ""
+    ch_Name "Я слушаю."
 
 # game/logic/events/lily.rpy:476
 translate russian Lily_3_label_8_143e4e9a:
 
     # Lily "{b}We have to win at the dueling club!{/b}"
-    Lily ""
+    Lily "{b}Нам надо победить в дуэльном клубе!{/b}"
 
 # game/logic/events/lily.rpy:477
 translate russian Lily_3_label_8_02c91267:
 
     # ch_Name "Ah, that's what you mean..."
-    ch_Name ""
+    ch_Name "Ах, вот ты о чем..."
 
 # game/logic/events/lily.rpy:478
 translate russian Lily_3_label_8_d42f3322:
 
     # Lily "That's what I'm talking about!"
-    Lily ""
+    Lily "Именно об этом я говорю!"
 
 # game/logic/events/lily.rpy:479
 translate russian Lily_3_label_8_2b4242c1:
 
     # Lily "It's important to show other houses that they can't mess with us."
-    Lily ""
+    Lily "Важно показать другим домам, что с нами лучше не связываться."
 
 # game/logic/events/lily.rpy:481
 translate russian Lily_3_label_8_88a368c2:
 
     # ch_Name "And how do we do that in dueling club?"
-    ch_Name ""
+    ch_Name "И как же жто сделать в дуэльном клубе?"
 
 # game/logic/events/lily.rpy:483
 translate russian Lily_3_label_8_6a61b7c1:
 
     # Lily "When you win - you get points from the house that lost to you."
-    Lily ""
+    Lily "Когда ты побеждаешь - ты получаешь баллы того дома, который тебе проиграл."
 
 # game/logic/events/lily.rpy:484
 translate russian Lily_3_label_8_ba0203e2:
 
     # Lily "This way you can compensate points difference if we fall behind the other house."
-    Lily ""
+    Lily "Таким образом можно компенсировать разницу в баллах, если мы отстанем от другого дома."
 
 # game/logic/events/lily.rpy:485
 translate russian Lily_3_label_8_20123159:
 
     # Lily "So, what do you think?"
-    Lily ""
+    Lily "Итак, что скажешь?"
 
 # game/logic/events/lily.rpy:487
 translate russian Lily_3_label_8_8cbb22c6:
 
     # ch_Name "I can handle this."
-    ch_Name ""
+    ch_Name "Это мне по силам."
 
 # game/logic/events/lily.rpy:488
 translate russian Lily_3_label_8_793711a2:
 
     # Lily "I'm not sure you can..."
-    Lily ""
+    Lily "Не уверена. что ты сможешь..."
 
 # game/logic/events/lily.rpy:490
 translate russian Lily_3_label_8_efd5f12a:
 
     # ch_Name "Let's make a bet."
-    ch_Name ""
+    ch_Name "Давай заключим пари."
 
 # game/logic/events/lily.rpy:492
 translate russian Lily_3_label_8_ef4f422a:
 
     # Lily "A bet?"
-    Lily ""
+    Lily "Пари?"
 
 # game/logic/events/lily.rpy:493
 translate russian Lily_3_label_8_db4f4a16:
 
     # ch_Name "Yeah, a friendly bet."
-    ch_Name ""
+    ch_Name "Ага, дружеское пари."
 
 # game/logic/events/lily.rpy:494
 translate russian Lily_3_label_8_9436658a:
 
     # ch_Name "If Leonheart takes other house points in a duel, I win..."
-    ch_Name ""
+    ch_Name "Если Leonheart заберет баллы другого дома на дуэли, я выиграл..."
 
 # game/logic/events/lily.rpy:495
 translate russian Lily_3_label_8_33f0d1de:
 
     # ch_Name "And if it loses, you win."
-    ch_Name ""
+    ch_Name "А если он продует, ты выиграла."
 
 # game/logic/events/lily.rpy:497
 translate russian Lily_3_label_8_69dae3ec:
 
     # Lily "All right, it's a deal."
-    Lily ""
+    Lily "Ладно, договорились."
 
 # game/logic/events/lily.rpy:498
 translate russian Lily_3_label_8_8bc588e5:
 
     # Lily "But if I win, you'll obey my orders for a month."
-    Lily ""
+    Lily "Но если я выиграю, ты будешь выполнять мои приказы целый месяц."
 
 # game/logic/events/lily.rpy:499
 translate russian Lily_3_label_8_8775ffe1:
 
     # ch_Name "{i}(Hmm... To be enslaved for a month by a hot Asian girl?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Хмм... Быть в подчинении у горячей азиаточки целый месяц?){/i}"
 
 # game/logic/events/lily.rpy:500
 translate russian Lily_3_label_8_56e5be54:
 
     # ch_Name "{i}(Though what good would it do if it isn't sexual...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Хотя чего в этом хорошего, если это не что-то сексуальное...){/i}"
 
 # game/logic/events/lily.rpy:502
 translate russian Lily_3_label_8_6a39bf74:
 
     # ch_Name "Okay. And if I win, I want one kiss."
-    ch_Name ""
+    ch_Name "Окей. А если выиграю я, я хочу один поцелуй."
 
 # game/logic/events/lily.rpy:504
 translate russian Lily_3_label_8_4d101adc:
 
     # Lily "A what-what?"
-    Lily ""
+    Lily "Что-что?"
 
 # game/logic/events/lily.rpy:505
 translate russian Lily_3_label_8_ea94f094:
 
     # Lily "Have you lost your mind, [Name]?"
-    Lily ""
+    Lily "Ты с ума сошел, [Name]?"
 
 # game/logic/events/lily.rpy:507
 translate russian Lily_3_label_8_07056a24:
 
     # ch_Name "No, I'm as serious as can be."
-    ch_Name ""
+    ch_Name "Нет, я серьезен как никогда."
 
 # game/logic/events/lily.rpy:508
 translate russian Lily_3_label_8_af954ee0:
 
     # ch_Name "You win either way."
-    ch_Name ""
+    ch_Name "Ты выигрываешь в любом случае."
 
 # game/logic/events/lily.rpy:509
 translate russian Lily_3_label_8_791ca54f:
 
     # ch_Name "And I get extra motivation to tear opponents up."
-    ch_Name ""
+    ch_Name "А у меня появляется дополнительная мотивация растерзать противников."
 
 # game/logic/events/lily.rpy:510
 translate russian Lily_3_label_8_08c20d15:
@@ -1078,481 +1078,481 @@ translate russian Lily_3_label_8_08c20d15:
 translate russian Lily_3_label_8_0a6ee43d:
 
     # Lily "All right."
-    Lily ""
+    Lily "Ладно."
 
 # game/logic/events/lily.rpy:513
 translate russian Lily_3_label_8_45abeef2:
 
     # Lily "If you win, you'll get a kiss. But you'll lose."
-    Lily ""
+    Lily "Если выиграешь, получишь поцелуй. Но ты проиграешь."
 
 # game/logic/events/lily.rpy:515
 translate russian Lily_3_label_8_04b411ae:
 
     # ch_Name "We'll see."
-    ch_Name ""
+    ch_Name "Посмотрим."
 
 # game/logic/events/lily.rpy:517
 translate russian Lily_3_label_8_e252236f:
 
     # Lily "We'll see."
-    Lily ""
+    Lily "Посмотрим."
 
 # game/logic/events/lily.rpy:518
 translate russian Lily_3_label_8_3e3e63f8:
 
     # ch_Name "Good luck."
-    ch_Name ""
+    ch_Name "Удачи."
 
 # game/logic/events/lily.rpy:538
 translate russian Lily_4_label_97492326:
 
     # ch_Name "{i}(There she is!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Вот она!){/i}"
 
 # game/logic/events/lily.rpy:539
 translate russian Lily_4_label_527bdff6:
 
     # ch_Name "{i}(As always, with her bestie.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Как всегда, со своей лучшей подружкой.){/i}"
 
 # game/logic/events/lily.rpy:540
 translate russian Lily_4_label_cfdcd05f:
 
     # ch_Name "{i}(I'm not sure that kissing in front of Naomi is the best idea. But I don't care.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Не уверен, что целовать ее перед Naomi это хорошая идея. Но мне все равно.){/i}"
 
 # game/logic/events/lily.rpy:541
 translate russian Lily_4_label_d2777ecd:
 
     # ch_Name "{i}(The bet is the bet, and I've won, so...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Пари есть пари, и я выиграл, так что...){/i}"
 
 # game/logic/events/lily.rpy:544
 translate russian Lily_4_label_eb41891c:
 
     # ch_Name "Hey, guys!"
-    ch_Name ""
+    ch_Name "Привет, ребята!"
 
 # game/logic/events/lily.rpy:545
 translate russian Lily_4_label_c22c727c:
 
     # ch_Name "Lily, can I talk to you for a minute?"
-    ch_Name ""
+    ch_Name "Lily, можно тебя на минутку?"
 
 # game/logic/events/lily.rpy:547
 translate russian Lily_4_label_a6447cc1:
 
     # Lily "Hi!"
-    Lily ""
+    Lily "Привет!"
 
 # game/logic/events/lily.rpy:548
 translate russian Lily_4_label_2941c3ef:
 
     # Lily "Uh, yeah, sure."
-    Lily ""
+    Lily "Ух, да, конечно."
 
 # game/logic/events/lily.rpy:549
 translate russian Lily_4_label_670d9ed8:
 
     # Lily "Naomi, do you mind?"
-    Lily ""
+    Lily "Naomi, ты не против?"
 
 # game/logic/events/lily.rpy:551
 translate russian Lily_4_label_9d27727f:
 
     # Naomi "What's it to me?"
-    Naomi ""
+    Naomi "А мне что за дело?"
 
 # game/logic/events/lily.rpy:552
 translate russian Lily_4_label_f7ff97be:
 
     # Lily "We won't be long."
-    Lily ""
+    Lily "Мы не надолго."
 
 # game/logic/events/lily.rpy:554
 translate russian Lily_4_label_1b00a48d:
 
     # Lily "What do you want, [Name]?"
-    Lily ""
+    Lily "Чего ты хотел, [Name]?"
 
 # game/logic/events/lily.rpy:555
 translate russian Lily_4_label_4f7707ee:
 
     # ch_Name "I think you'll be happy to know that our house won the duel."
-    ch_Name ""
+    ch_Name "Думаю, ты будешь рада узнать, что наш дом выиграл дуэль."
 
 # game/logic/events/lily.rpy:557
 translate russian Lily_4_label_70a6fd5b:
 
     # Lily "Cool! Why are you telling me this?"
-    Lily ""
+    Lily "Круто! А почему ты мне об этом рассказываешь?"
 
 # game/logic/events/lily.rpy:559
 translate russian Lily_4_label_bb7cfde7:
 
     # ch_Name "We had a bet."
-    ch_Name ""
+    ch_Name "Мы заключили пари."
 
 # game/logic/events/lily.rpy:561
 translate russian Lily_4_label_6598b46b:
 
     # Lily "Wait...{w} Are you saying...?{w} No!"
-    Lily ""
+    Lily "Подожди...{w} Ты хочешь сказать...?{w} Нет!"
 
 # game/logic/events/lily.rpy:562
 translate russian Lily_4_label_dd10c660:
 
     # ch_Name "Yes!"
-    ch_Name ""
+    ch_Name "Да!"
 
 # game/logic/events/lily.rpy:563
 translate russian Lily_4_label_f244b558:
 
     # Lily "Was it you?"
-    Lily ""
+    Lily "Это был ты?"
 
 # game/logic/events/lily.rpy:564
 translate russian Lily_4_label_0286e3fe:
 
     # ch_Name "I told you it would be easy."
-    ch_Name ""
+    ch_Name "Я же говорил, что это будет легко."
 
 # game/logic/events/lily.rpy:566
 translate russian Lily_4_label_6d438c0f:
 
     # Lily "But how did you do it?"
-    Lily ""
+    Lily "Но как ты это сделал?"
 
 # game/logic/events/lily.rpy:567
 translate russian Lily_4_label_667494d2:
 
     # ch_Name "A professional never reveals his methods."
-    ch_Name ""
+    ch_Name "Профессионалы никогда не делятся своими методами."
 
 # game/logic/events/lily.rpy:568
 translate russian Lily_4_label_fa0c863b:
 
     # Lily "Spit it out!"
-    Lily ""
+    Lily "Скажи это погромче!"
 
 # game/logic/events/lily.rpy:570
 translate russian Lily_4_label_9465c390:
 
     # ch_Name "All right, all right."
-    ch_Name ""
+    ch_Name "Ладно, ладно."
 
 # game/logic/events/lily.rpy:571
 translate russian Lily_4_label_769878c9:
 
     # ch_Name "I'll tell you this story somewhere private."
-    ch_Name ""
+    ch_Name "Я расскажу тебе эту историю в более приватном месте."
 
 # game/logic/events/lily.rpy:573
 translate russian Lily_4_label_2944e57e:
 
     # Lily "Private?"
-    Lily ""
+    Lily "Приватном?"
 
 # game/logic/events/lily.rpy:574
 translate russian Lily_4_label_f6f76b7b:
 
     # ch_Name "Of course."
-    ch_Name ""
+    ch_Name "Конечно."
 
 # game/logic/events/lily.rpy:575
 translate russian Lily_4_label_7d3a37cc:
 
     # ch_Name "Remember that bet we made?"
-    ch_Name ""
+    ch_Name "Помнишь, на что мы заключили пари?"
 
 # game/logic/events/lily.rpy:577
 translate russian Lily_4_label_6e3b2a9b:
 
     # Lily "Yeah. What does that have to do with..."
-    Lily ""
+    Lily "Ага. При чем тут..."
 
 # game/logic/events/lily.rpy:578
 translate russian Lily_4_label_26250f38:
 
     # ch_Name "No, well, you wanted to give me my prize here?"
-    ch_Name ""
+    ch_Name "Нет, ну, ты хочешь отдать мне мой выигрыш здесь?"
 
 # game/logic/events/lily.rpy:580
 translate russian Lily_4_label_82619c09:
 
     # ch_Name "In front of everybody?"
-    ch_Name ""
+    ch_Name "У всех на виду?
 
 # game/logic/events/lily.rpy:582
 translate russian Lily_4_label_08749121:
 
     # Lily "Oh... Yeah, you're right."
-    Lily ""
+    Lily "Ох... Да, ты прав.
 
 # game/logic/events/lily.rpy:583
 translate russian Lily_4_label_ffe8573a:
 
     # Lily "I'm just a little busy right now."
-    Lily ""
+    Lily "Просто я сейчас немного занята.
 
 # game/logic/events/lily.rpy:585
 translate russian Lily_4_label_bc47754b:
 
     # ch_Name "Of course.{w} I'm not rushing you at all."
-    ch_Name ""
+    ch_Name "Конечно.{w} Я вовсе не тороплю тебя."
 
 # game/logic/events/lily.rpy:586
 translate russian Lily_4_label_a5dc6ddf:
 
     # Lily "Thanks."
-    Lily ""
+    Lily "Спасибо."
 
 # game/logic/events/lily.rpy:587
 translate russian Lily_4_label_d572354b:
 
     # Lily "I have an idea!"
-    Lily ""
+    Lily "У меня есть идея!"
 
 # game/logic/events/lily.rpy:589
 translate russian Lily_4_label_1989eba4:
 
     # Lily "Why don't we {b}meet in your room when it gets dark? {/b}"
-    Lily ""
+    Lily "Почему бы нам не {b}встретиться в твоей комнате, когда стемнеет? {/b}"
 
 # game/logic/events/lily.rpy:590
 translate russian Lily_4_label_fe0d8627:
 
     # ch_Name "Whoa, just like that, at my place?"
-    ch_Name ""
+    ch_Name "Воу, прямо так, у у меня?"
 
 # game/logic/events/lily.rpy:592
 translate russian Lily_4_label_fc413443:
 
     # Lily "Haley and I share a room."
-    Lily ""
+    Lily "Я делю комнату с Haley."
 
 # game/logic/events/lily.rpy:593
 translate russian Lily_4_label_6c7c5c9b:
 
     # Lily "I think it would be easier at your place."
-    Lily ""
+    Lily "Думаю, в твоей комнате будет проще."
 
 # game/logic/events/lily.rpy:594
 translate russian Lily_4_label_812faebd:
 
     # ch_Name "Easier to do what?"
-    ch_Name ""
+    ch_Name "Проще сделать что?"
 
 # game/logic/events/lily.rpy:596
 translate russian Lily_4_label_9d3e13ed:
 
     # Lily "Talk, discuss our next move."
-    Lily ""
+    Lily "Поговорить, обсудить наш следующий шаг."
 
 # game/logic/events/lily.rpy:597
 translate russian Lily_4_label_7399126b:
 
     # ch_Name "Oh, I thought you meant our bet..."
-    ch_Name ""
+    ch_Name "Ох, я думал, ты имеешь ввиду наше пари..."
 
 # game/logic/events/lily.rpy:599
 translate russian Lily_4_label_f6b82e6c:
 
     # Lily "Damn it, [Name]! You want me to say it?"
-    Lily ""
+    Lily "Черт, [Name]! Ты хочешь, чтобы я сказала это?"
 
 # game/logic/events/lily.rpy:600
 translate russian Lily_4_label_18c737dc:
 
     # Lily "Yeah, and it's easier to make out there, too."
-    Lily ""
+    Lily "Да, и обжиматься тоже проще там."
 
 # game/logic/events/lily.rpy:602
 translate russian Lily_4_label_83d238e1:
 
     # ch_Name "Heh.{w} Did I insist that much?"
-    ch_Name ""
+    ch_Name "Хех.{w} Я слишком настаивал?"
 
 # game/logic/events/lily.rpy:603
 translate russian Lily_4_label_33f54781:
 
     # ch_Name "Just clarifying."
-    ch_Name ""
+    ch_Name "Просто уточняю."
 
 # game/logic/events/lily.rpy:604
 translate russian Lily_4_label_4cb4b988:
 
     # ch_Name "You're the one talking loudly about our future makeout..."
-    ch_Name ""
+    ch_Name "Это ты та, кто громко говорит о наших будущих обнимашках..."
 
 # game/logic/events/lily.rpy:606
 translate russian Lily_4_label_7c1886a9:
 
     # Lily "I can't stand you sometimes!"
-    Lily ""
+    Lily "Иногда я терпеть тебя не могу!"
 
 # game/logic/events/lily.rpy:607
 translate russian Lily_4_label_9610f0b3:
 
     # ch_Name "You'll get over it."
-    ch_Name ""
+    ch_Name "Ты с этим справишься."
 
 # game/logic/events/lily.rpy:608
 translate russian Lily_4_label_cc79b5ea:
 
     # ch_Name "See you later."
-    ch_Name ""
+    ch_Name "Увидимся позже."
 
 # game/logic/events/lily.rpy:613
 translate russian Lily_4_label_d147d1f9:
 
     # ch_Name "{i}(It's funny how everything turned out.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Забавно как все повернулось.){/i}"
 
 # game/logic/events/lily.rpy:614
 translate russian Lily_4_label_38a0b5eb:
 
     # ch_Name "{i}(But something tells me that it's even better. At least, no one will disrupt us there.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Но что-то подсказывает мне, что так даже лучше. По крайней мере, там нам никто не помешает.){/i}"
 
 # game/logic/events/lily.rpy:615
 translate russian Lily_4_label_5887254d:
 
     # ch_Name "{i}(Oh, It's almost time for Victoria's lesson. I have to go.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ох, уче почти пришло время для урока Victoria's. Мне пора идти.){/i}"
 
 # game/logic/events/lily.rpy:633
 translate russian Lily_5_label_2e7d78c5:
 
     # ch_Name "{i}(Oh, this day was so hard... I can fall asleep right here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ох, этот день был таким сложным... Я мог бы заснуть прямо тут.){/i}"
 
 # game/logic/events/lily.rpy:637
 translate russian Lily_5_label_c7b402c2:
 
     # ch_Name "{i}(Lily? What is she doing here? Oh, yes, right...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Lily? Что она тут делает? О да, точно...){/i}"
 
 # game/logic/events/lily.rpy:638
 translate russian Lily_5_label_722dbcc9:
 
     # ch_Name "{i}(Gosh, the day was so eventful, I had totally forgotten about her. Oh, well.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Боже, этот день был таким насыщенным, что я абсолютно забыл про нее. Ну, чтож.){/i}"
 
 # game/logic/events/lily.rpy:639
 translate russian Lily_5_label_314beed5:
 
     # ch_Name "{i}(Anyway, It's a pleasant surprise.){/i}"
-    ch_Name ""
+    ch_Name "{i}(В любом случае, это приятный сюрприз.){/i}"
 
 # game/logic/events/lily.rpy:642
 translate russian Lily_5_label_ff2faaa2:
 
     # ch_Name "Hey, Lily!"
-    ch_Name ""
+    ch_Name "Привет, Lily!"
 
 # game/logic/events/lily.rpy:643
 translate russian Lily_5_label_6ad89567:
 
     # ch_Name "I didn't think you'd be here so soon."
-    ch_Name ""
+    ch_Name "Не знал, что ты придешь так скоро."
 
 # game/logic/events/lily.rpy:645
 translate russian Lily_5_label_bb98067a:
 
     # Lily "[Name], h-hi!"
-    Lily ""
+    Lily "[Name], п-привет!"
 
 # game/logic/events/lily.rpy:646
 translate russian Lily_5_label_4c2524bf:
 
     # Lily "Why wait? I have to get up early tomorrow."
-    Lily ""
+    Lily "Зачем ждать? Завтра рано вставать."
 
 # game/logic/events/lily.rpy:647
 translate russian Lily_5_label_c6984c58:
 
     # Lily "I'm going for a morning run."
-    Lily ""
+    Lily "Я собираюсь на утреннюю пробежку."
 
 # game/logic/events/lily.rpy:648
 translate russian Lily_5_label_1b3f9202:
 
     # ch_Name "That's cool. I'd go with you if it wasn't for my leg injury."
-    ch_Name ""
+    ch_Name "Это круто. Я бы к тебе присоединился, если бы не моя травма на ноге."
 
 # game/logic/events/lily.rpy:649
 translate russian Lily_5_label_3f6edd23:
 
     # Lily "Then let's go running together."
-    Lily ""
+    Lily "Так давай бегать вместе."
 
 # game/logic/events/lily.rpy:651
 translate russian Lily_5_label_fc1df21a:
 
     # Lily "When you heal your leg."
-    Lily ""
+    Lily "Когда вылечишь свою ногу."
 
 # game/logic/events/lily.rpy:652
 translate russian Lily_5_label_74ebce9c:
 
     # ch_Name "Sure."
-    ch_Name ""
+    ch_Name "Конечно."
 
 # game/logic/events/lily.rpy:653
 translate russian Lily_5_label_50c228b5:
 
     # Lily "You got a cool room."
-    Lily ""
+    Lily "У тебя классная комната."
 
 # game/logic/events/lily.rpy:654
 translate russian Lily_5_label_a4984364:
 
     # Lily "Isn't Leonheart's dorm awesome?"
-    Lily ""
+    Lily "Правда общага Leonheart's обалденная?"
 
 # game/logic/events/lily.rpy:655
 translate russian Lily_5_label_077ce458:
 
     # Lily "This room is even cooler than ours."
-    Lily ""
+    Lily "Эта комната даже круче, чем наша."
 
 # game/logic/events/lily.rpy:656
 translate russian Lily_5_label_249300b2:
 
     # ch_Name "You think so?"
-    ch_Name ""
+    ch_Name "Ты так считаешь?"
 
 # game/logic/events/lily.rpy:657
 translate russian Lily_5_label_387645e7:
 
     # Lily "At least you don't have to share it with anyone."
-    Lily ""
+    Lily "По крайней мере ты ни с кем ее не делишь."
 
 # game/logic/events/lily.rpy:658
 translate russian Lily_5_label_03b77165:
 
     # ch_Name "Probably. But that's not always a plus."
-    ch_Name ""
+    ch_Name "Наверное. Но это не всегда плюс."
 
 # game/logic/events/lily.rpy:660
 translate russian Lily_5_label_4899b771:
 
     # Lily "What do you mean?"
-    Lily ""
+    Lily "Что ты имеешь ввиду?"
 
 # game/logic/events/lily.rpy:661
 translate russian Lily_5_label_e542ea5a:
 
     # ch_Name "Well...{w} I have a double bed."
-    ch_Name ""
+    ch_Name "Ну...{w} У меня двухспальная кровать."
 
 # game/logic/events/lily.rpy:662
 translate russian Lily_5_label_0a89e339:
 
     # ch_Name "It's kind of lonely on my own..."
-    ch_Name ""
+    ch_Name "В ней немного одиноко одному..."
 
 # game/logic/events/lily.rpy:664
 translate russian Lily_5_label_3ae85756:
@@ -1564,79 +1564,79 @@ translate russian Lily_5_label_3ae85756:
 translate russian Lily_5_label_284755b4:
 
     # ch_Name "I was just kidding."
-    ch_Name ""
+    ch_Name "Я просто шучу."
 
 # game/logic/events/lily.rpy:667
 translate russian Lily_5_label_6440d66d:
 
     # ch_Name "Do you really like everything here?"
-    ch_Name ""
+    ch_Name "Тебе правда все здесь нравится?"
 
 # game/logic/events/lily.rpy:668
 translate russian Lily_5_label_2b1aa629:
 
     # ch_Name "I think you'll change a lot when you're a prefect."
-    ch_Name ""
+    ch_Name "Думаю, ты многое изменишь, когда станешь префектом."
 
 # game/logic/events/lily.rpy:670
 translate russian Lily_5_label_015ce907:
 
     # Lily "Do you really think I can be the prefect?"
-    Lily ""
+    Lily Ты правда считаешь, что я могу стать префектом?"
 
 # game/logic/events/lily.rpy:672
 translate russian Lily_5_label_5ae6bc8b:
 
     # ch_Name "Somehow I don't doubt it."
-    ch_Name ""
+    ch_Name "Почему-то даже не сомневаюсь."
 
 # game/logic/events/lily.rpy:673
 translate russian Lily_5_label_61eef2ef:
 
     # Lily "In fact, I did have a couple of ideas for improving our campus."
-    Lily ""
+    Lily "На самом деле у меня есть пара идей по улучшению нашего кампуса."
 
 # game/logic/events/lily.rpy:674
 translate russian Lily_5_label_3678b364:
 
     # ch_Name "{i}(Who would have doubted it?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Кто бы сомневался?){/i}"
 
 # game/logic/events/lily.rpy:675
 translate russian Lily_5_label_4eea41a4:
 
     # Lily "But it's pretty cool as it is."
-    Lily ""
+    Lily "Но он и так очень классный."
 
 # game/logic/events/lily.rpy:676
 translate russian Lily_5_label_8b71da83:
 
     # Lily "Elijah's a great guy, even though he's pretty irresponsible."
-    Lily ""
+    Lily "Elijah отличный парень, хоть и довольно безответственный. "
 
 # game/logic/events/lily.rpy:677
 translate russian Lily_5_label_95b9bd6c:
 
     # ch_Name "I got that impression, too."
-    ch_Name ""
+    ch_Name "Мне тоже так показалось."
 
 # game/logic/events/lily.rpy:678
 translate russian Lily_5_label_3e5954ce:
 
     # ch_Name "That he's cool, not that he's irresponsible..."
-    ch_Name ""
+    ch_Name "То, что он классный, а не то, что безответственный..."
 
 # game/logic/events/lily.rpy:679
 translate russian Lily_5_label_a9bfcb7e:
 
     # ch_Name "Although if you think about it, you're probably right."
-    ch_Name ""
+    ch_Name "Хотя если задуматься, ты вероятно права."
 
 # game/logic/events/lily.rpy:681
 translate russian Lily_5_label_55a38f20:
 
     # ch_Name "{i}(Lily looks a little stiff, she seems nervous.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Lily выглядит зажатой, похоже, она нервничает.){/i}"
 
 # game/logic/events/lily.rpy:682
 translate russian Lily_5_label_1465e53f:
@@ -1648,55 +1648,55 @@ translate russian Lily_5_label_1465e53f:
 translate russian Lily_5_label_7a50b7bb:
 
     # Lily "What?"
-    Lily ""
+    Lily "Что?"
 
 # game/logic/events/lily.rpy:685
 translate russian Lily_5_label_9b60624c:
 
     # ch_Name "About our bet."
-    ch_Name ""
+    ch_Name "Насчет нашего пари."
 
 # game/logic/events/lily.rpy:686
 translate russian Lily_5_label_4e8f2b43:
 
     # Lily "I was hoping you'd forget while we were chatting."
-    Lily ""
+    Lily "Я надеялась, что ты забудешь, пока мы болтаем."
 
 # game/logic/events/lily.rpy:687
 translate russian Lily_5_label_c601b3cd:
 
     # Lily "Uh..."
-    Lily ""
+    Lily "Ох..."
 
 # game/logic/events/lily.rpy:688
 translate russian Lily_5_label_b9fdd1fd:
 
     # ch_Name "You really don't like me?"
-    ch_Name ""
+    ch_Name "Я тебе совсем не нравлюсь?"
 
 # game/logic/events/lily.rpy:690
 translate russian Lily_5_label_71e8cab8:
 
     # Lily "No, that's not it!"
-    Lily ""
+    Lily "Нет, дело не в этом!"
 
 # game/logic/events/lily.rpy:691
 translate russian Lily_5_label_2989cf34:
 
     # ch_Name "What is it?"
-    ch_Name ""
+    ch_Name "Тогда в чем?"
 
 # game/logic/events/lily.rpy:693
 translate russian Lily_5_label_e7016372:
 
     # Lily "It's just that I've never kissed anyone before..."
-    Lily ""
+    Lily "Я просто никогда раньше ни с кем не целовалась..."
 
 # game/logic/events/lily.rpy:694
 translate russian Lily_5_label_4ee97e01:
 
     # Lily "Okay, let's get it over with."
-    Lily ""
+    Lily "Окей, давай сделаем это."
 
 # game/logic/events/lily.rpy:696
 translate russian Lily_5_label_1465e53f_1:
@@ -1708,49 +1708,49 @@ translate russian Lily_5_label_1465e53f_1:
 translate russian Lily_5_label_7a50b7bb_1:
 
     # Lily "What?"
-    Lily ""
+    Lily "Что?"
 
 # game/logic/events/lily.rpy:698
 translate russian Lily_5_label_347e6e56:
 
     # ch_Name "I don't know how to say this..."
-    ch_Name ""
+    ch_Name "Не знаю, как сказать об этом..."
 
 # game/logic/events/lily.rpy:700
 translate russian Lily_5_label_1cbff537:
 
     # ch_Name "But I don't want a kiss like that."
-    ch_Name ""
+    ch_Name "Но мне не нужен такой поцелуй."
 
 # game/logic/events/lily.rpy:701
 translate russian Lily_5_label_0eab1044:
 
     # Lily "Huh?{w} I don't get it..."
-    Lily ""
+    Lily "Ха?{w} Я не понимаю..."
 
 # game/logic/events/lily.rpy:702
 translate russian Lily_5_label_4899b771_1:
 
     # Lily "What do you mean?"
-    Lily ""
+    Lily "Что ты имеешь ввиду?"
 
 # game/logic/events/lily.rpy:704
 translate russian Lily_5_label_30b93d4b:
 
     # ch_Name "The first kiss should be special."
-    ch_Name ""
+    ch_Name "Первый поцелуй должен быть особенным."
 
 # game/logic/events/lily.rpy:705
 translate russian Lily_5_label_b0ef60f2:
 
     # ch_Name "I don't want to be the jerk who steals it because of a stupid bet."
-    ch_Name ""
+    ch_Name "Я не хочу быть придурком, который крадет его из-за глупого пари."
 
 # game/logic/events/lily.rpy:706
 translate russian Lily_5_label_d959895d:
 
     # ch_Name "I didn't even know..."
-    ch_Name ""
+    ch_Name "Я даже не знал..."
 
 # game/logic/events/lily.rpy:707
 translate russian Lily_5_label_1ad90dd1:
@@ -1762,133 +1762,133 @@ translate russian Lily_5_label_1ad90dd1:
 translate russian Lily_5_label_ce79459d:
 
     # Lily "No way!"
-    Lily ""
+    Lily "Ни за что!"
 
 # game/logic/events/lily.rpy:710
 translate russian Lily_5_label_15e6738a:
 
     # ch_Name "I'm sorry, I didn't realize..."
-    ch_Name ""
+    ch_Name "Извини, я не представлял..."
 
 # game/logic/events/lily.rpy:711
 translate russian Lily_5_label_c5d0c530:
 
     # Lily "I spent all day getting ready."
-    Lily ""
+    Lily "Я провела весь день в подготовке."
 
 # game/logic/events/lily.rpy:712
 translate russian Lily_5_label_91d77d34:
 
     # Lily "I imagined what it would be like."
-    Lily ""
+    Lily "Я представляла себе, каким он будет."
 
 # game/logic/events/lily.rpy:713
 translate russian Lily_5_label_880099b0:
 
     # Lily "I am prepared!"
-    Lily ""
+    Lily "Я готова!"
 
 # game/logic/events/lily.rpy:714
 translate russian Lily_5_label_654be693:
 
     # Lily "And now you say you don't want to kiss me."
-    Lily ""
+    Lily "А сейчас ты говоришь, что не хочешь целовать меня."
 
 # game/logic/events/lily.rpy:716
 translate russian Lily_5_label_c185eb3d:
 
     # ch_Name "Wait a minute..."
-    ch_Name ""
+    ch_Name "Подожди минуту..."
 
 # game/logic/events/lily.rpy:718
 translate russian Lily_5_label_3b583d2d:
 
     # Lily "Do you have any idea how I feel?"
-    Lily ""
+    Lily "Ты вообще представляешь что я чувствую?"
 
 # game/logic/events/lily.rpy:720
 translate russian Lily_5_label_f0436629:
 
     # ch_Name "I thought you'd be happy."
-    ch_Name ""
+    ch_Name "Я думал, ты обрадуешься."
 
 # game/logic/events/lily.rpy:722
 translate russian Lily_5_label_88327e11:
 
     # Lily "About what?"
-    Lily ""
+    Lily "Чему?"
 
 # game/logic/events/lily.rpy:723
 translate russian Lily_5_label_a9de4c8c:
 
     # Lily "That a cute guy doesn't want to kiss me?"
-    Lily ""
+    Lily "Что симпатичный парень не хочет целоваться со мной?"
 
 # game/logic/events/lily.rpy:724
 translate russian Lily_5_label_a22b0937:
 
     # ch_Name "{i}(Cute?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Симпатичный?){/i}"
 
 # game/logic/events/lily.rpy:726
 translate russian Lily_5_label_353e93be:
 
     # ch_Name "What makes you think I don't want to?"
-    ch_Name ""
+    ch_Name "Почему ты решила, что я не хочу?"
 
 # game/logic/events/lily.rpy:728
 translate russian Lily_5_label_21558279:
 
     # Lily "Do you want to?"
-    Lily ""
+    Lily "А ты хочешь?"
 
 # game/logic/events/lily.rpy:730
 translate russian Lily_5_label_dd10c660:
 
     # ch_Name "Yes!"
-    ch_Name ""
+    ch_Name "Да!"
 
 # game/logic/events/lily.rpy:732
 translate russian Lily_5_label_bfa243fe:
 
     # Lily "Yes?"
-    Lily ""
+    Lily "Да?"
 
 # game/logic/events/lily.rpy:733
 translate russian Lily_5_label_dd10c660_1:
 
     # ch_Name "Yes!"
-    ch_Name ""
+    ch_Name "Да!"
 
 # game/logic/events/lily.rpy:735
 translate russian Lily_5_label_dfb65ccf:
 
     # ch_Name "{i}(Whoa!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Воу!){/i}"
 
 # game/logic/events/lily.rpy:736
 translate russian Lily_5_label_5a45f755:
 
     # ch_Name "{i}(Lily, for a first time - that was good.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Lily, для первого раза - это было хорошо.){/i}"
 
 # game/logic/events/lily.rpy:738
 translate russian Lily_5_label_825ed77b:
 
     # ch_Name "{i}(Did she really want it that badly?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Она правда так сильно этого хочет?){/i}"
 
 # game/logic/events/lily.rpy:740
 translate russian Lily_5_label_0218becb:
 
     # ch_Name "{i}(She attacked me like a lioness going after her prey.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Она набросилась меня, как львица на свою добычу.){/i}"
 
 # game/logic/events/lily.rpy:742
 translate russian Lily_5_label_e430d63f:
 
     # ch_Name "{i}(And she looked so shy...){/i}"
-    ch_Name ""
+    ch_Name "{i}(И она казалась такой смущенной...){/i}"
 
 # game/logic/events/lily.rpy:750
 translate russian Lily_5_label_1465e53f_2:
@@ -1900,751 +1900,751 @@ translate russian Lily_5_label_1465e53f_2:
 translate russian Lily_5_label_bfa243fe_1:
 
     # Lily "Yes?"
-    Lily ""
+    Lily "Да?"
 
 # game/logic/events/lily.rpy:752
 translate russian Lily_5_label_cb39c8cd:
 
     # ch_Name "How do you feel?"
-    ch_Name ""
+    ch_Name "Что ты чувствуешь?"
 
 # game/logic/events/lily.rpy:753
 translate russian Lily_5_label_6067ea1e:
 
     # Lily "I... I like it..."
-    Lily ""
+    Lily "Я... Мне нравится..."
 
 # game/logic/events/lily.rpy:754
 translate russian Lily_5_label_a683c4d9:
 
     # Lily "I'm sorry if I'm doing something wrong!"
-    Lily ""
+    Lily "Извини, если я делаю что-то не так!"
 
 # game/logic/events/lily.rpy:755
 translate russian Lily_5_label_74910308:
 
     # ch_Name "Don't be silly, Lily."
-    ch_Name ""
+    ch_Name "Не глупи, Lily."
 
 # game/logic/events/lily.rpy:756
 translate russian Lily_5_label_05325169:
 
     # ch_Name "You're really something..."
-    ch_Name ""
+    ch_Name "Ты просто нечто."
 
 # game/logic/events/lily.rpy:758
 translate russian Lily_5_label_af27ce46:
 
     # Lily "Really? I tried."
-    Lily ""
+    Lily "Правда? Я старалась."
 
 # game/logic/events/lily.rpy:759
 translate russian Lily_5_label_f20614de:
 
     # ch_Name "You took me by surprise."
-    ch_Name ""
+    ch_Name "Ты меня удивила."
 
 # game/logic/events/lily.rpy:760
 translate russian Lily_5_label_be5d794f:
 
     # ch_Name "{i}(I hope I didn't mess up.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Надеюсь, я не накосячил.){/i}"
 
 # game/logic/events/lily.rpy:761
 translate russian Lily_5_label_7cc680bb:
 
     # ch_Name "So, what did you think?"
-    ch_Name ""
+    ch_Name "Итак, что ты думаешь?"
 
 # game/logic/events/lily.rpy:763
 translate russian Lily_5_label_c5aba2ba:
 
     # Lily "It was nice."
-    Lily ""
+    Lily "Это было приятно."
 
 # game/logic/events/lily.rpy:764
 translate russian Lily_5_label_b38f29d2:
 
     # ch_Name "{i}(Is that all? I didn't impress you very much...){/i}"
-    ch_Name ""
+    ch_Name "{i}(И это все? Я не особо тебя впечатлил...){/i}"
 
 # game/logic/events/lily.rpy:765
 translate russian Lily_5_label_0bbc44fd:
 
     # ch_Name "{i}(I thought you got a taste for it...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я думал, ты вошла во вкус...){/i}"
 
 # game/logic/events/lily.rpy:766
 translate russian Lily_5_label_43db4328:
 
     # Lily "But why did you stop?"
-    Lily ""
+    Lily "Но почему ты остановился?"
 
 # game/logic/events/lily.rpy:767
 translate russian Lily_5_label_25a065a5:
 
     # ch_Name "Why?"
-    ch_Name ""
+    ch_Name "Почему?"
 
 # game/logic/events/lily.rpy:769
 translate russian Lily_5_label_0df04308:
 
     # ch_Name "It could have lasted much longer than a friendly kiss."
-    ch_Name ""
+    ch_Name "Это могло затянуться куда дольше простого дружеского поцелуя."
 
 # game/logic/events/lily.rpy:770
 translate russian Lily_5_label_042281ad:
 
     # Lily "I didn't know there were levels of kissing."
-    Lily ""
+    Lily "Я не знала, что существуют уровни поцелуев."
 
 # game/logic/events/lily.rpy:771
 translate russian Lily_5_label_85fc68b0:
 
     # ch_Name "Well...{w} How to put it? Kinda."
-    ch_Name ""
+    ch_Name "Ну...{w} Как посмотреть. Что-то типа того."
 
 # game/logic/events/lily.rpy:773
 translate russian Lily_5_label_cd029029:
 
     # Lily "I don't mind exploring that distinction in more detail."
-    Lily ""
+    Lily "Я не против исследовать эти различия более подробно."
 
 # game/logic/events/lily.rpy:774
 translate russian Lily_5_label_586c2fc3:
 
     # ch_Name "{i}(I think I was right after all!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Думаю, я все таки был прав!){/i}"
 
 # game/logic/events/lily.rpy:775
 translate russian Lily_5_label_b5cd5072:
 
     # ch_Name "{i}(She clearly doesn't mind if we keep going...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Она явно не против продолжить...){/i}"
 
 # game/logic/events/lily.rpy:776
 translate russian Lily_5_label_fba69cd1:
 
     # ch_Name "In that case..."
-    ch_Name ""
+    ch_Name "В таком случае..."
 
 # game/logic/events/lily.rpy:780
 translate russian Lily_5_label_101_69436d41:
 
     # Lily "Mhm..."
-    Lily ""
+    Lily "Мхм..."
 
 # game/logic/events/lily.rpy:781
 translate russian Lily_5_label_101_bab74915:
 
     # ch_Name "{i}(You obviously don't mind continuing.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Очевидно, ты не против продолжить.){/i}"
 
 # game/logic/events/lily.rpy:783
 translate russian Lily_5_label_101_e733b2a8:
 
     # ch_Name "{i}(How can I say no?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Как я могу отказать?){/i}"
 
 # game/logic/events/lily.rpy:785
 translate russian Lily_5_label_101_901e64d0:
 
     # ch_Name "{i}(You seem so shy...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ты кажешься такой застенчивой...){/i}"
 
 # game/logic/events/lily.rpy:787
 translate russian Lily_5_label_101_2e318463:
 
     # ch_Name "{i}(But your tongue isn't shy at all.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Но твой язык вовсе не смущается.){/i}"
 
 # game/logic/events/lily.rpy:789
 translate russian Lily_5_label_101_102da894:
 
     # ch_Name "{i}(You're obviously a natural at kissing.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ты абсолютно естественна в поцелуях.){/i}"
 
 # game/logic/events/lily.rpy:791
 translate russian Lily_5_label_101_e7259936:
 
     # Lily "{i}(What is this... I can't control myself at all...){/i}"
-    Lily ""
+    Lily "{i}(Что такое... Совсем не могу контролировать себя...){/i}"
 
 # game/logic/events/lily.rpy:793
 translate russian Lily_5_label_101_4906154a:
 
     # Lily "{i}(What's that strange feeling below the belly when we kiss...){/i}"
-    Lily ""
+    Lily "{i}(Что это за странное чувство ниже живота, когда мы целуемся...){/i}"
 
 # game/logic/events/lily.rpy:795
 translate russian Lily_5_label_101_27087cd2:
 
     # ch_Name "{i}(I don't think Lily has ever been this close to a guy before.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Не думаю, что ты когда-либо прежде была так близка с парнем.){/i}"
 
 # game/logic/events/lily.rpy:797
 translate russian Lily_5_label_101_a22f6fe0:
 
     # ch_Name "{i}(Maybe help her catch up on what she missed in high school.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Может, помочь ей наверстать то, что она пропустила в старших классах.){/i}"
 
 # game/logic/events/lily.rpy:805
 translate russian Lily_5_label_101_10d9ef8e:
 
     # ch_Name "{i}(Okay, she's done for the day.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Окей, на сегодня ей хватит.){/i}"
 
 # game/logic/events/lily.rpy:806
 translate russian Lily_5_label_101_aaacf40e:
 
     # Lily "Ah..."
-    Lily ""
+    Lily "Ах..."
 
 # game/logic/events/lily.rpy:807
 translate russian Lily_5_label_101_9459c937:
 
     # Lily "[Name], I..."
-    Lily ""
+    Lily "[Name], Я..."
 
 # game/logic/events/lily.rpy:808
 translate russian Lily_5_label_101_15fb16d0:
 
     # ch_Name "Shh!"
-    ch_Name ""
+    ch_Name "Чшш!"
 
 # game/logic/events/lily.rpy:809
 translate russian Lily_5_label_101_da4c6a57:
 
     # ch_Name "Don't say anything."
-    ch_Name ""
+    ch_Name "Не говори ничего."
 
 # game/logic/events/lily.rpy:810
 translate russian Lily_5_label_101_ecdffbd4:
 
     # ch_Name "I think I've had enough for today."
-    ch_Name ""
+    ch_Name "Думаю, на сегодня достаточно."
 
 # game/logic/events/lily.rpy:811
 translate russian Lily_5_label_101_e5c76e9d:
 
     # ch_Name "Let's discuss the faculty points plan some other time."
-    ch_Name ""
+    ch_Name "Баллы факультета мы обсудим как-нибудь в другой раз."
 
 # game/logic/events/lily.rpy:813
 translate russian Lily_5_label_101_1fc9a30b:
 
     # Lily "L-l-okay..."
-    Lily ""
+    Lily "Л-л-ладно..."
 
 # game/logic/events/lily.rpy:814
 translate russian Lily_5_label_101_ce36ea23:
 
     # Lily "Did I do something wrong?"
-    Lily ""
+    Lily "Я сделала что-то не так?"
 
 # game/logic/events/lily.rpy:815
 translate russian Lily_5_label_101_d1c4ce21:
 
     # ch_Name "No, no, no, you didn't."
-    ch_Name ""
+    ch_Name "Нет, нет, нет, не сделала."
 
 # game/logic/events/lily.rpy:816
 translate russian Lily_5_label_101_ca0a7eab:
 
     # ch_Name "You couldn't have done it better."
-    ch_Name ""
+    ch_Name "Ты бы не смогла лучше."
 
 # game/logic/events/lily.rpy:818
 translate russian Lily_5_label_101_f1615d28:
 
     # Lily "Then what happened?"
-    Lily ""
+    Lily "Тогда что случилось?"
 
 # game/logic/events/lily.rpy:819
 translate russian Lily_5_label_101_21ad8529:
 
     # ch_Name "I just... I'm not ready."
-    ch_Name ""
+    ch_Name "Я просто... Я не готов."
 
 # game/logic/events/lily.rpy:820
 translate russian Lily_5_label_101_fbdcfcd5:
 
     # Lily "I understand."
-    Lily ""
+    Lily "Я понимаю."
 
 # game/logic/events/lily.rpy:821
 translate russian Lily_5_label_101_709177f2:
 
     # ch_Name "Thank you. (chuckles)"
-    ch_Name ""
+    ch_Name "Спасибо тебе. (chuckles)"
 
 # game/logic/events/lily.rpy:823
 translate russian Lily_5_label_101_6184a703:
 
     # Lily "Thank you for tonight..."
-    Lily ""
+    Lily "Спасибо за этот вечер."
 
 # game/logic/events/lily.rpy:824
 translate russian Lily_5_label_101_5641f749:
 
     # ch_Name "Good night."
-    ch_Name ""
+    ch_Name "Спокойной ночи."
 
 # game/logic/events/lily.rpy:825
 translate russian Lily_5_label_101_6e3145ad:
 
     # Lily "You, too."
-    Lily ""
+    Lily "Тебе тоже."
 
 # game/logic/events/lily.rpy:831
 translate russian Lily_5_label_130_5f53d673:
 
     # ch_Name "{i}(I bet no one's ever stroked your smooth skin like that before.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Готов поспорить, никто раньше так не гладил твою гладкую кожу.){/i}"
 
 # game/logic/events/lily.rpy:832
 translate russian Lily_5_label_130_3c08302c:
 
     # ch_Name "Are you ready, Lily?"
-    ch_Name ""
+    ch_Name "Ты готова, Lily?"
 
 # game/logic/events/lily.rpy:834
 translate russian Lily_5_label_130_b0e523af:
 
     # ch_Name "I'm starting!"
-    ch_Name ""
+    ch_Name "Я начинаю!"
 
 # game/logic/events/lily.rpy:836
 translate russian Lily_5_label_130_aaacf40e:
 
     # Lily "Ah..."
-    Lily ""
+    Lily "Ах..."
 
 # game/logic/events/lily.rpy:837
 translate russian Lily_5_label_130_b7ac6ad6:
 
     # Lily "Ah... Mhm..."
-    Lily ""
+    Lily "Ах... Мхм..."
 
 # game/logic/events/lily.rpy:838
 translate russian Lily_5_label_130_008918a7:
 
     # Lily "[Name], what are you doing?"
-    Lily ""
+    Lily "[Name], что ты делаешь?"
 
 # game/logic/events/lily.rpy:839
 translate russian Lily_5_label_130_33e6d058:
 
     # ch_Name "Should I stop?"
-    ch_Name ""
+    ch_Name "Мне остановиться?"
 
 # game/logic/events/lily.rpy:840
 translate russian Lily_5_label_130_4c4b4676:
 
     # Lily "Oh... Uh...{w} No."
-    Lily ""
+    Lily "Ох... Уф...{w} Нет."
 
 # game/logic/events/lily.rpy:842
 translate russian Lily_5_label_130_2953a067:
 
     # ch_Name "I can't hear you..."
-    ch_Name ""
+    ch_Name "Не слышу..."
 
 # game/logic/events/lily.rpy:843
 translate russian Lily_5_label_130_6b016037:
 
     # Lily "Don't stop!"
-    Lily ""
+    Lily "Не останавливайся!"
 
 # game/logic/events/lily.rpy:844
 translate russian Lily_5_label_130_3d5ece9f:
 
     # ch_Name "Good girl."
-    ch_Name ""
+    ch_Name "Хорошая девочка."
 
 # game/logic/events/lily.rpy:846
 translate russian Lily_5_label_130_82c60fc5:
 
     # Lily "{i}(What sorcery in his touch...){/i}"
-    Lily ""
+    Lily "{i}(Какие волшебные у него прикосновения...){/i}"
 
 # game/logic/events/lily.rpy:847
 translate russian Lily_5_label_130_59d21bc7:
 
     # Lily "{i}(I can't control myself...){/i}"
-    Lily ""
+    Lily "{i}(Я не могу себя контролировать...){/i}"
 
 # game/logic/events/lily.rpy:848
 translate russian Lily_5_label_130_b7ac6ad6_1:
 
     # Lily "Ah... Mhm..."
-    Lily ""
+    Lily "Ах... Мхм..."
 
 # game/logic/events/lily.rpy:850
 translate russian Lily_5_label_130_b7adaf82:
 
     # ch_Name "{i}(But I can...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Зато я могу...){/i}"
 
 # game/logic/events/lily.rpy:851
 translate russian Lily_5_label_130_017a994b:
 
     # ch_Name "{i}(...control you...){/i}"
-    ch_Name ""
+    ch_Name "{i}(...контролировать тебя...){/i}"
 
 # game/logic/events/lily.rpy:852
 translate russian Lily_5_label_130_81d35659:
 
     # ch_Name "{i}(...with every move I make.){/i}"
-    ch_Name ""
+    ch_Name "{i}(...каждым своим движением.){/i}"
 
 # game/logic/events/lily.rpy:854
 translate russian Lily_5_label_130_f28bfcfe:
 
     # ch_Name "{i}(I can feel you melting with every kiss.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я чувствую, как ты таешь с каждым поцелуем.){/i}"
 
 # game/logic/events/lily.rpy:855
 translate russian Lily_5_label_130_42e6b108:
 
     # ch_Name "{i}(And every touch.){/i}"
-    ch_Name ""
+    ch_Name "{i}(И каждым прикосновением.){/i}"
 
 # game/logic/events/lily.rpy:856
 translate russian Lily_5_label_130_b8c1b8df:
 
     # ch_Name "{i}(And now...){/i}"
-    ch_Name ""
+    ch_Name "{i}(А сейчас...){/i}"
 
 # game/logic/events/lily.rpy:858
 translate russian Lily_5_label_130_534d604c:
 
     # Lily "Ah!"
-    Lily ""
+    Lily "Ах!"
 
 # game/logic/events/lily.rpy:859
 translate russian Lily_5_label_130_e996ad17:
 
     # Lily "[Name]...{w} I'm not sure..."
-    Lily ""
+    Lily "[Name]...{w} Я не уверена..."
 
 # game/logic/events/lily.rpy:861
 translate russian Lily_5_label_130_96584d6e:
 
     # Lily "Maybe it's too far."
-    Lily ""
+    Lily "Может, это слишком."
 
 # game/logic/events/lily.rpy:862
 translate russian Lily_5_label_130_7c0cccfe:
 
     # ch_Name "Trust me, Lily."
-    ch_Name ""
+    ch_Name "Доверься мне, Lily."
 
 # game/logic/events/lily.rpy:863
 translate russian Lily_5_label_130_71301a25:
 
     # ch_Name "I'll stop as soon as you say so."
-    ch_Name ""
+    ch_Name "Я остановлюсь, как только ты скажешь."
 
 # game/logic/events/lily.rpy:864
 translate russian Lily_5_label_130_52c0f765:
 
     # Lily "Okay."
-    Lily ""
+    Lily "Окей."
 
 # game/logic/events/lily.rpy:866
 translate russian Lily_5_label_130_eb8106d6:
 
     # ch_Name "{i}(Let's see if my fingers remember.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Посмотрим, помнят ли мои пальцы.){/i}"
 
 # game/logic/events/lily.rpy:868
 translate russian Lily_5_label_130_e219c4bb:
 
     # Lily "Oh... That tickles... Hee-hee..."
-    Lily ""
+    Lily "Ох... Это щикотно... Хии-хии..."
 
 # game/logic/events/lily.rpy:869
 translate russian Lily_5_label_130_6b05d2de:
 
     # Lily "Ah...{w} Oh..."
-    Lily ""
+    Lily "Ах...{w} Ох..."
 
 # game/logic/events/lily.rpy:870
 translate russian Lily_5_label_130_bf13b35c:
 
     # Lily "Yes...{w} ah..."
-    Lily ""
+    Lily "Да...{w} ах..."
 
 # game/logic/events/lily.rpy:872
 translate russian Lily_5_label_130_f7c46bff:
 
     # Lily "{i}(Am I so...){/i}"
-    Lily ""
+    Lily "{i}(Я такая...){/i}"
 
 # game/logic/events/lily.rpy:873
 translate russian Lily_5_label_130_87bbaa0c:
 
     # Lily "{i}(But it feels so good...){/i}"
-    Lily ""
+    Lily "{i}(Но это так хорошо...){/i}"
 
 # game/logic/events/lily.rpy:874
 translate russian Lily_5_label_130_48b2e4eb:
 
     # Lily "Ah...{w} Yes...{w} Yes, that's it!"
-    Lily ""
+    Lily "Ах...{w} Да...{w} Да, вот так!"
 
 # game/logic/events/lily.rpy:876
 translate russian Lily_5_label_130_68bbe881:
 
     # ch_Name "Do you like everything?"
-    ch_Name ""
+    ch_Name "Тебе нравится?"
 
 # game/logic/events/lily.rpy:877
 translate russian Lily_5_label_130_5c734347:
 
     # Lily "Yes! Yes! Yes! Yes! Oh yes..."
-    Lily ""
+    Lily "Да! Да! Да! Да! О да..."
 
 # game/logic/events/lily.rpy:878
 translate russian Lily_5_label_130_5d9efeb9:
 
     # ch_Name "Good girl..."
-    ch_Name ""
+    ch_Name "Хорошая девочка..."
 
 # game/logic/events/lily.rpy:880
 translate russian Lily_5_label_130_b5eff4e7:
 
     # Lily "More! More!"
-    Lily ""
+    Lily "Больше! Больше!"
 
 # game/logic/events/lily.rpy:881
 translate russian Lily_5_label_130_cddd0669:
 
     # Lily "Yes...{w} Ah..."
-    Lily ""
+    Lily "Да...{w} Ах..."
 
 # game/logic/events/lily.rpy:882
 translate russian Lily_5_label_130_a45cd9ac:
 
     # Lily "Yes...{w} Yes!"
-    Lily ""
+    Lily "Да...{w} Да!"
 
 # game/logic/events/lily.rpy:884
 translate russian Lily_5_label_130_4fbe14dd:
 
     # ch_Name "{i}(I think we're getting to the main thing...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Думаю, мы приближаемся к развязке...){/i}"
 
 # game/logic/events/lily.rpy:885
 translate russian Lily_5_label_130_3b480c44:
 
     # ch_Name "{i}(You're trembling with excitement.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ты дрожишь от возбуждения.){/i}"
 
 # game/logic/events/lily.rpy:887
 translate russian Lily_5_label_130_8dbef5ef:
 
     # ch_Name "{i}(It's time to give you real pleasure!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Пора доставить тебе настоящее наслаждение!){/i}"
 
 # game/logic/events/lily.rpy:888
 translate russian Lily_5_label_130_08539990:
 
     # ch_Name "I'm going to go deeper..."
-    ch_Name ""
+    ch_Name "Я собираюсь войти глубже..."
 
 # game/logic/events/lily.rpy:890
 translate russian Lily_5_label_130_758f746f:
 
     # Lily "Wait!"
-    Lily ""
+    Lily "Постой!"
 
 # game/logic/events/lily.rpy:891
 translate russian Lily_5_label_130_4f72f3bb:
 
     # Lily "I... I'm not ready."
-    Lily ""
+    Lily "Я... Я не готова."
 
 # game/logic/events/lily.rpy:892
 translate russian Lily_5_label_130_81cc71dd:
 
     # ch_Name "Come on, you're almost at the finish line..."
-    ch_Name ""
+    ch_Name "Давай, ты уже почти у финиша..."
 
 # game/logic/events/lily.rpy:894
 translate russian Lily_5_label_130_5b544f29:
 
     # Lily "You promised we'd stop when I asked."
-    Lily ""
+    Lily "Ты обещал остановиться, когда я попрошу."
 
 # game/logic/events/lily.rpy:895
 translate russian Lily_5_label_130_4a41b0d1:
 
     # ch_Name "You're right."
-    ch_Name ""
+    ch_Name "Ты права."
 
 # game/logic/events/lily.rpy:897
 translate russian Lily_5_label_130_a3cd34fe:
 
     # Lily "I can't stop shaking..."
-    Lily ""
+    Lily "Я все еще дрожу..."
 
 # game/logic/events/lily.rpy:898
 translate russian Lily_5_label_130_fb3ad42e:
 
     # Lily "[Name], what have you done to me?"
-    Lily ""
+    Lily "[Name], что ты со мной сделал?"
 
 # game/logic/events/lily.rpy:900
 translate russian Lily_5_label_130_cc47a082:
 
     # ch_Name "Nothing that dishonors you."
-    ch_Name ""
+    ch_Name "Ничего, что тебя позорит."
 
 # game/logic/events/lily.rpy:901
 translate russian Lily_5_label_130_7cb2cf99:
 
     # Lily "I thought..."
-    Lily ""
+    Lily "Я думала..."
 
 # game/logic/events/lily.rpy:902
 translate russian Lily_5_label_130_38280bd1:
 
     # ch_Name "It's nothing."
-    ch_Name ""
+    ch_Name "Это нично."
 
 # game/logic/events/lily.rpy:903
 translate russian Lily_5_label_130_864630a8:
 
     # ch_Name "Although if you've never kissed before, it must be the first time you've been fingered."
-    ch_Name ""
+    ch_Name "Хотя, если ты ни разу прежде не целовалась, это наверное впервые, когда тебя так ласкали пальцами."
 
 # game/logic/events/lily.rpy:905
 translate russian Lily_5_label_130_3ae9e23e:
 
     # Lily "Well..."
-    Lily ""
+    Lily "Ну..."
 
 # game/logic/events/lily.rpy:906
 translate russian Lily_5_label_130_67afd8d3:
 
     # Lily "I've touched myself... there."
-    Lily ""
+    Lily "Я трогала себя... там."
 
 # game/logic/events/lily.rpy:907
 translate russian Lily_5_label_130_053e17ed:
 
     # Lily "But not how you do it..."
-    Lily ""
+    Lily "Но не так, как ты это делаешь..."
 
 # game/logic/events/lily.rpy:909
 translate russian Lily_5_label_130_bd22f4de:
 
     # Lily "You're better."
-    Lily ""
+    Lily "Ты лучше."
 
 # game/logic/events/lily.rpy:910
 translate russian Lily_5_label_130_5db97d6f:
 
     # ch_Name "{i}(I'm flattered!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я польщен!){/i}"
 
 # game/logic/events/lily.rpy:911
 translate russian Lily_5_label_130_f8e97516:
 
     # ch_Name "{i}(Do you have any idea how highly you rated me?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ты хоть представляешь себе, как высоко меня оценила?){/i}"
 
 # game/logic/events/lily.rpy:913
 translate russian Lily_5_label_130_a93d50a5:
 
     # ch_Name "You too."
-    ch_Name ""
+    ch_Name "Ты тоже."
 
 # game/logic/events/lily.rpy:914
 translate russian Lily_5_label_130_a2c9de95:
 
     # ch_Name "That's our combined score."
-    ch_Name ""
+    ch_Name "Это наш совместный результат."
 
 # game/logic/events/lily.rpy:915
 translate russian Lily_5_label_130_39829a98:
 
     # Lily "Aha-ha."
-    Lily ""
+    Lily "Аха-ха."
 
 # game/logic/events/lily.rpy:916
 translate russian Lily_5_label_130_4dfe3f70:
 
     # Lily "Let's discuss what's next, shall we?"
-    Lily ""
+    Lily "Давай обсудим что дальше?"
 
 # game/logic/events/lily.rpy:918
 translate russian Lily_5_label_130_0da7b555:
 
     # ch_Name "I think that's enough excitement for today."
-    ch_Name ""
+    ch_Name "Думаю, на сегодня впечатлений достаточно."
 
 # game/logic/events/lily.rpy:919
 translate russian Lily_5_label_130_f3f33777:
 
     # ch_Name "Let's discuss everything, including the faculty point plan, some other time."
-    ch_Name ""
+    ch_Name "Давай обсудим все, включая план о баллах факультета, в другой раз."
 
 # game/logic/events/lily.rpy:920
 translate russian Lily_5_label_130_8f73a628:
 
     # Lily "You're probably right."
-    Lily ""
+    Lily "Наверное, ты прав."
 
 # game/logic/events/lily.rpy:921
 translate russian Lily_5_label_130_b9cf4449:
 
     # Lily "Let's do that."
-    Lily ""
+    Lily "Так и сделаем."
 
 # game/logic/events/lily.rpy:922
 translate russian Lily_5_label_130_6e58d6fb:
 
     # Lily "I have a lot on my mind, so..."
-    Lily ""
+    Lily "У меня столько всего в голове, так что..."
 
 # game/logic/events/lily.rpy:923
 translate russian Lily_5_label_130_6c998019:
 
     # ch_Name "I think you'll sleep like a baby."
-    ch_Name ""
+    ch_Name "Думаю, ты будешь спать, как младенец."
 
 # game/logic/events/lily.rpy:925
 translate russian Lily_5_label_130_d765ad84:
 
     # Lily "I could fall asleep here..."
-    Lily ""
+    Lily "Я могла бы заснуть здесь..."
 
 # game/logic/events/lily.rpy:926
 translate russian Lily_5_label_130_43791a3d:
 
     # ch_Name "I don't know if Elijah would be thrilled if he came by in the morning."
-    ch_Name ""
+    ch_Name "Не уверен, что Elijah будет в восторге, если придет сюда утром."
 
 # game/logic/events/lily.rpy:927
 translate russian Lily_5_label_130_772bb9b3:
 
     # Lily "I'm kidding."
-    Lily ""
+    Lily "Я шучу."
 
 # game/logic/events/lily.rpy:929
 translate russian Lily_5_label_130_f2f1017d:
 
     # Lily "I'm gonna run."
-    Lily ""
+    Lily "Мне пора бежать."
 
 # game/logic/events/lily.rpy:930
 translate russian Lily_5_label_130_19d61f7d:
 
     # ch_Name "I'll see you in a bit."
-    ch_Name ""
+    ch_Name "Скоро увидимся."
 
 # game/logic/events/lily.rpy:988
 translate russian lily_events_5_label_0_efb4bd7b:
