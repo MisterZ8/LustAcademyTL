@@ -2536,7 +2536,7 @@ translate russian Lily_5_label_130_67afd8d3:
 translate russian Lily_5_label_130_053e17ed:
 
     # Lily "But not how you do it..."
-    Lily "Но не так, как ты это делаешь..."
+    Lily "Но не так, как это делаешь ты..."
 
 # game/logic/events/lily.rpy:909
 translate russian Lily_5_label_130_bd22f4de:
@@ -2650,811 +2650,811 @@ translate russian Lily_5_label_130_19d61f7d:
 translate russian lily_events_5_label_0_efb4bd7b:
 
     # ch_Name "{i}(Hey there, sleeping beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ну привет, спящая красавица.){/i}"
 
 # game/logic/events/lily.rpy:989
 translate russian lily_events_5_label_0_311350b4:
 
     # ch_Name "{i}(I hope you're seeing a peaceful dream.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Надеюсь, ты видишь мирный сон.){/i}"
 
 # game/logic/events/lily.rpy:991
 translate russian lily_events_5_label_0_6601b3c6:
 
     # ch_Name "{i}(Don't mind me, I'm here just to admire your beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Не обращай на меня внимания, я здесь просто полюбоваться твоей красотой.){/i}"
 
 # game/logic/events/lily.rpy:992
 translate russian lily_events_5_label_0_5712fd19:
 
     # ch_Name "{i}(If only this blanket was not covering all the best parts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Если бы только одеяло не закрывало самые лучшие участки.){/i}"
 
 # game/logic/events/lily.rpy:994
 translate russian lily_events_5_label_0_54402612:
 
     # ch_Name "{i}(Let's take a closer look at you.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Давай посмотрим на тебя поближе.){/i}"
 
 # game/logic/events/lily.rpy:995
 translate russian lily_events_5_label_0_d6ec0c90:
 
     # ch_Name "{i}(I'm sure you won't mind.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Уверен, ты не будешь против.){/i}"
 
 # game/logic/events/lily.rpy:997
 translate russian lily_events_5_label_0_d7463199:
 
     # ch_Name "{i}(Oh, my...){/i}"
-    ch_Name ""
+    ch_Name "{i}(О Боже...){/i}"
 
 # game/logic/events/lily.rpy:998
 translate russian lily_events_5_label_0_45ed5ace:
 
     # ch_Name "{i}(What a cute little lingerie you've got.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Какое у тебя милое маленькое белье.){/i}"
 
 # game/logic/events/lily.rpy:999
 translate russian lily_events_5_label_0_a8e56b21:
 
     # ch_Name "{i}(I bet it looks even better down there...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Уверен, там внизу оно выглядит еще лучше...){/i}"
 
 # game/logic/events/lily.rpy:1001
 translate russian lily_events_5_label_0_4af7f1ab:
 
     # ch_Name "{i}(How can I resist you...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Как я могу сопротивляться тебе...){/i}"
 
 # game/logic/events/lily.rpy:1002
 translate russian lily_events_5_label_0_915a2952:
 
     # ch_Name "{i}(Let me get rid of that...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Давай избавимся от этого...){/i}"
 
 # game/logic/events/lily.rpy:1004
 translate russian lily_events_5_label_0_37c7c5e2:
 
     # Lily "Mhm... mmm..."
-    Lily ""
+    Lily "Мхм... ммм..."
 
 # game/logic/events/lily.rpy:1005
 translate russian lily_events_5_label_0_d854112a:
 
     # ch_Name "{i}(Damn, I think she's gonna wake up any minute.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Черт, думаю, она может проснуться в любую минуту.){/i}"
 
 # game/logic/events/lily.rpy:1006
 translate russian lily_events_5_label_0_03d6a422:
 
     # ch_Name "{i}(Better get out of here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Мне лучше убраться отсюда.){/i}"
 
 # game/logic/events/lily.rpy:1022
 translate russian lily_events_5_label_1_efb4bd7b:
 
     # ch_Name "{i}(Hey there, sleeping beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ну привет, спящая красавица.){/i}"
 
 # game/logic/events/lily.rpy:1023
 translate russian lily_events_5_label_1_311350b4:
 
     # ch_Name "{i}(I hope you're seeing a peaceful dream.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Надеюсь, ты видишь мирный сон.){/i}"
 
 # game/logic/events/lily.rpy:1025
 translate russian lily_events_5_label_1_6601b3c6:
 
     # ch_Name "{i}(Don't mind me, I'm here just to admire your beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Не обращай на меня внимания, я здесь просто полюбоваться твоей красотой.){/i}"
 
 # game/logic/events/lily.rpy:1026
 translate russian lily_events_5_label_1_5712fd19:
 
     # ch_Name "{i}(If only this blanket was not covering all the best parts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Если бы только одеяло не закрывало самые лучшие участки.){/i}"
 
 # game/logic/events/lily.rpy:1028
 translate russian lily_events_5_label_1_54402612:
 
     # ch_Name "{i}(Let's take a closer look at you.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Давай посмотрим на тебя поближе.){/i}"
 
 # game/logic/events/lily.rpy:1029
 translate russian lily_events_5_label_1_d6ec0c90:
 
     # ch_Name "{i}(I'm sure you won't mind.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Уверен, ты не будешь против.){/i}"
 
 # game/logic/events/lily.rpy:1031
 translate russian lily_events_5_label_1_d7463199:
 
     # ch_Name "{i}(Oh, my...){/i}"
-    ch_Name ""
+    ch_Name "{i}(О Боже...){/i}"
 
 # game/logic/events/lily.rpy:1032
 translate russian lily_events_5_label_1_45ed5ace:
 
     # ch_Name "{i}(What a cute little lingerie you've got.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Какое у тебя милое маленькое белье.){/i}"
 
 # game/logic/events/lily.rpy:1034
 translate russian lily_events_5_label_1_4af7f1ab:
 
     # ch_Name "{i}(How can I resist you...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Как я могу сопротивляться тебе...){/i}"
 
 # game/logic/events/lily.rpy:1035
 translate russian lily_events_5_label_1_915a2952:
 
     # ch_Name "{i}(Let me get rid of that...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Давай избавимся от этого...){/i}"
 
 # game/logic/events/lily.rpy:1037
 translate russian lily_events_5_label_1_fb23f50c:
 
     # ch_Name "{i}(Here we go.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ну вот.){/i}"
 
 # game/logic/events/lily.rpy:1038
 translate russian lily_events_5_label_1_71d5e351:
 
     # ch_Name "{i}(Let me just enjoy this magnificent view.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Позволь мне насладиться этим восхитительным видом.){/i}"
 
 # game/logic/events/lily.rpy:1039
 translate russian lily_events_5_label_1_d510f3e0:
 
     # ch_Name "{i}(I don't know where to start...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Не знаю, с чего начать...){/i}"
 
 # game/logic/events/lily.rpy:1041
 translate russian lily_events_5_label_1_f7f92d8d:
 
     # ch_Name "{i}(Your whole body is so incredibly hot...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Все твое тело такое невероятно горячее...){/i}"
 
 # game/logic/events/lily.rpy:1043
 translate russian lily_events_5_label_1_9ea9884c:
 
     # ch_Name "{i}(But the hardest thing is to take my eyes off those breasts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Но самое сложное это оторвать мой взгляд от этих грудок.){/i}"
 
 # game/logic/events/lily.rpy:1044
 translate russian lily_events_5_label_1_6faf865d:
 
     # ch_Name "{i}(I bet it feels incredibly nice to touch them...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Готов поспорить, трогать их невероятно приятно...){/i}"
 
 # game/logic/events/lily.rpy:1045
 translate russian lily_events_5_label_1_7c7a5aaf:
 
     # ch_Name "{i}(Let's not rush things up. Let me take a look at another angle.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Давай не будем торопить события. Позволь взглянуть с другого ракурса.){/i}"
 
 # game/logic/events/lily.rpy:1047
 translate russian lily_events_5_label_1_9841f06d:
 
     # ch_Name "{i}(This lingerie enhances your beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Это белье подчеркивает твою привлекательность.){/i}"
 
 # game/logic/events/lily.rpy:1049
 translate russian lily_events_5_label_1_a0e60060:
 
     # ch_Name "{i}(Especially between your legs...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Особенно между ног...){/i}"
 
 # game/logic/events/lily.rpy:1050
 translate russian lily_events_5_label_1_85b2cc0f:
 
     # ch_Name "{i}(I bet you'll like my caresses.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Готов поспорить, тебе понравятся мои ласки.){/i}"
 
 # game/logic/events/lily.rpy:1051
 translate russian lily_events_5_label_1_041a53cf:
 
     # ch_Name "{i}(I just know where to touch...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я просто знаю, где прикоснуться...){/i}"
 
 # game/logic/events/lily.rpy:1053
 translate russian lily_events_5_label_1_37c7c5e2:
 
     # Lily "Mhm... mmm..."
-    Lily ""
+    Lily "Мхм... ммм..."
 
 # game/logic/events/lily.rpy:1054
 translate russian lily_events_5_label_1_d854112a:
 
     # ch_Name "{i}(Damn, I think she's gonna wake up any minute.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Черт, думаю, она может проснуться в любую минуту.){/i}"
 
 # game/logic/events/lily.rpy:1055
 translate russian lily_events_5_label_1_03d6a422:
 
     # ch_Name "{i}(Better get out of here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Мне лучше убраться отсюда.){/i}"
 
 # game/logic/events/lily.rpy:1062
 translate russian lily_events_5_label_2_efb4bd7b:
 
     # ch_Name "{i}(Hey there, sleeping beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ну привет, спящая красавица.){/i}"
 
 # game/logic/events/lily.rpy:1063
 translate russian lily_events_5_label_2_311350b4:
 
     # ch_Name "{i}(I hope you're seeing a peaceful dream.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Надеюсь, ты видишь мирный сон.){/i}"
 
 # game/logic/events/lily.rpy:1065
 translate russian lily_events_5_label_2_6601b3c6:
 
     # ch_Name "{i}(Don't mind me, I'm here just to admire your beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Не обращай на меня внимания, я здесь просто полюбоваться твоей красотой.){/i}"
 
 # game/logic/events/lily.rpy:1066
 translate russian lily_events_5_label_2_5712fd19:
 
     # ch_Name "{i}(If only this blanket was not covering all the best parts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Если бы только одеяло не закрывало самые лучшие участки.){/i}"
 
 # game/logic/events/lily.rpy:1068
 translate russian lily_events_5_label_2_54402612:
 
     # ch_Name "{i}(Let's take a closer look at you.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Давай посмотрим на тебя поближе.){/i}"
 
 # game/logic/events/lily.rpy:1069
 translate russian lily_events_5_label_2_d6ec0c90:
 
     # ch_Name "{i}(I'm sure you won't mind.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Уверен, ты не будешь против.){/i}"
 
 # game/logic/events/lily.rpy:1071
 translate russian lily_events_5_label_2_d7463199:
 
     # ch_Name "{i}(Oh, my...){/i}"
-    ch_Name ""
+    ch_Name "{i}(О Боже...){/i}"
 
 # game/logic/events/lily.rpy:1072
 translate russian lily_events_5_label_2_45ed5ace:
 
     # ch_Name "{i}(What a cute little lingerie you've got.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Какое у тебя милое маленькое белье.){/i}"
 
 # game/logic/events/lily.rpy:1073
 translate russian lily_events_5_label_2_a8e56b21:
 
     # ch_Name "{i}(I bet it looks even better down there...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Уверен, там внизу оно выглядит еще лучше...){/i}"
 
 # game/logic/events/lily.rpy:1075
 translate russian lily_events_5_label_2_7b88459a:
 
     # ch_Name "{i}(Why do you even need blanket, anyway?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Зачем тебе вообще одеяло?){/i}"
 
 # game/logic/events/lily.rpy:1076
 translate russian lily_events_5_label_2_915a2952:
 
     # ch_Name "{i}(Let me get rid of that...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Давай избавимся от этого...){/i}"
 
 # game/logic/events/lily.rpy:1078
 translate russian lily_events_5_label_2_fb23f50c:
 
     # ch_Name "{i}(Here we go.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ну вот.){/i}"
 
 # game/logic/events/lily.rpy:1079
 translate russian lily_events_5_label_2_71d5e351:
 
     # ch_Name "{i}(Let me just enjoy this magnificent view.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Позволь мне насладиться этим восхитительным видом.){/i}"
 
 # game/logic/events/lily.rpy:1080
 translate russian lily_events_5_label_2_d510f3e0:
 
     # ch_Name "{i}(I don't know where to start...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Не знаю, с чего начать...){/i}"
 
 # game/logic/events/lily.rpy:1082
 translate russian lily_events_5_label_2_727aae98:
 
     # ch_Name "{i}(Your whole body is so damn hot...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Все твое тело такое чертовски горячее...){/i}"
 
 # game/logic/events/lily.rpy:1084
 translate russian lily_events_5_label_2_6c1902a5:
 
     # ch_Name "{i}(It's so hard to take your eyes off those breasts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Так сложно оторвать взгляд от этих грудок.){/i}"
 
 # game/logic/events/lily.rpy:1085
 translate russian lily_events_5_label_2_ccf9b8cc:
 
     # ch_Name "{i}(I bet it feels incredibly nice to the touch them...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Готов поспорить, трогать их невероятно приятно...){/i}"
 
 # game/logic/events/lily.rpy:1086
 translate russian lily_events_5_label_2_1d03d451:
 
     # ch_Name "{i}(Maybe this time I can actually try it...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Возможно, на этот раз я действительно могу попробовать...){/i}"
 
 # game/logic/events/lily.rpy:1088
 translate russian lily_events_5_label_2_26983f8c:
 
     # ch_Name "{i}(I'll try not to disturb your sleep, Lily.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я постараюсь не тревожить твой сон, Lily.){/i}"
 
 # game/logic/events/lily.rpy:1089
 translate russian lily_events_5_label_2_499c2fb1:
 
     # ch_Name "{i}(Just relax and watch the naughty dreams...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Просто расслабься и смотри неприличные сны...){/i}"
 
 # game/logic/events/lily.rpy:1091
 translate russian lily_events_5_label_2_bbb5c7d2:
 
     # ch_Name "{i}(Oh, yeah... That feels good.){/i}"
-    ch_Name ""
+    ch_Name "{i}(О да... Это очень приятно.){/i}"
 
 # game/logic/events/lily.rpy:1092
 translate russian lily_events_5_label_2_6fdef796:
 
     # ch_Name "{i}(I can feel your heart beating, Lily.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я чувствую, как бьется твое сердце, Lily.){/i}"
 
 # game/logic/events/lily.rpy:1093
 translate russian lily_events_5_label_2_0e795e4c:
 
     # ch_Name "{i}(I can feel every breath you take.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я чувствую каждый твой вздох.){/i}"
 
 # game/logic/events/lily.rpy:1094
 translate russian lily_events_5_label_2_f95a8045:
 
     # ch_Name "{i}(This really brings us clother, my dear.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Это очень сближает нас, дорогая моя.){/i}"
 
 # game/logic/events/lily.rpy:1095
 translate russian lily_events_5_label_2_c8e3a53f:
 
     # ch_Name "{i}(Let's take a look at other honey spots...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Давай посмотрим на другие сладкие местечки...){/i}"
 
 # game/logic/events/lily.rpy:1097
 translate russian lily_events_5_label_2_18f06b32:
 
     # ch_Name "{i}(This underwear emphasizes your beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Это белье подчеркивает твою привлекательность.){/i}"
 
 # game/logic/events/lily.rpy:1099
 translate russian lily_events_5_label_2_a0e60060:
 
     # ch_Name "{i}(Especially between your legs...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Особенно между ног...){/i}"
 
 # game/logic/events/lily.rpy:1100
 translate russian lily_events_5_label_2_8586713a:
 
     # ch_Name "{i}(I bet you like my caresses.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Готов поспорить, тебе понравятся мои ласки.){/i}"
 
 # game/logic/events/lily.rpy:1101
 translate russian lily_events_5_label_2_041a53cf:
 
     # ch_Name "{i}(I just know where to touch...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я просто знаю, где прикоснуться...){/i}"
 
 # game/logic/events/lily.rpy:1103
 translate russian lily_events_5_label_2_2a1d499b:
 
     # ch_Name "{i}(I will be gentle with you, dear Lily.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я буду нежен с тобой, дорогая Lily.){/i}"
 
 # game/logic/events/lily.rpy:1105
 translate russian lily_events_5_label_2_ed4ec38c:
 
     # ch_Name "{i}(I feel the heat of your loins.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я чувствую жар твоих чресел.){/i}"
 
 # game/logic/events/lily.rpy:1106
 translate russian lily_events_5_label_2_b613a332:
 
     # ch_Name "{i}(You obviously don't mind feeling someone's tender hands...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ты определенно не прочь почувствовать чьи-нибудь нежные руки...){/i}"
 
 # game/logic/events/lily.rpy:1107
 translate russian lily_events_5_label_2_26c294ac:
 
     # ch_Name "{i}(Maybe next time...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Может, в следующий раз...){/i}"
 
 # game/logic/events/lily.rpy:1109
 translate russian lily_events_5_label_2_545f5f80:
 
     # ch_Name "{i}(The blanket is moved and I have a beautiful view of your legs...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Одеяло сдвинуто и мне открывается красивый вид на твои ноги...){/i}"
 
 # game/logic/events/lily.rpy:1110
 translate russian lily_events_5_label_2_a7b5e235:
 
     # ch_Name "{i}(They drive me crazy...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Они сводят меня с ума...){/i}"
 
 # game/logic/events/lily.rpy:1112
 translate russian lily_events_5_label_2_0ac6f219:
 
     # ch_Name "{i}(And your toes... I wish I could...){/i}"
-    ch_Name ""
+    ch_Name "{i}(И твои пальцы... Если бы я мог...){/i}"
 
 # game/logic/events/lily.rpy:1114
 translate russian lily_events_5_label_2_37c7c5e2:
 
     # Lily "Mhm... mmm..."
-    Lily ""
+    Lily "Мхм... ммм..."
 
 # game/logic/events/lily.rpy:1115
 translate russian lily_events_5_label_2_d854112a:
 
     # ch_Name "{i}(Damn, I think she's gonna wake up any minute.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Черт, думаю, она может проснуться в любую минуту.){/i}"
 
 # game/logic/events/lily.rpy:1116
 translate russian lily_events_5_label_2_03d6a422:
 
     # ch_Name "{i}(Better get out of here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Мне лучше убраться отсюда.){/i}"
 
 # game/logic/events/lily.rpy:1125
 translate russian lily_events_5_label_3_efb4bd7b:
 
     # ch_Name "{i}(Hey there, sleeping beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ну привет, спящая красавица.){/i}"
 
 # game/logic/events/lily.rpy:1126
 translate russian lily_events_5_label_3_311350b4:
 
     # ch_Name "{i}(I hope you're seeing a peaceful dream.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Надеюсь, ты видишь мирный сон.){/i}"
 
 # game/logic/events/lily.rpy:1128
 translate russian lily_events_5_label_3_6601b3c6:
 
     # ch_Name "{i}(Don't mind me, I'm here just to admire your beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Не обращай на меня внимания, я здесь просто полюбоваться твоей красотой.){/i}"
 
 # game/logic/events/lily.rpy:1129
 translate russian lily_events_5_label_3_5712fd19:
 
     # ch_Name "{i}(If only this blanket was not covering all the best parts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Если бы только одеяло не закрывало самые лучшие участки.){/i}"
 
 # game/logic/events/lily.rpy:1131
 translate russian lily_events_5_label_3_54402612:
 
     # ch_Name "{i}(Let's take a closer look at you.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Давай посмотрим на тебя поближе.){/i}"
 
 # game/logic/events/lily.rpy:1132
 translate russian lily_events_5_label_3_d6ec0c90:
 
     # ch_Name "{i}(I'm sure you won't mind.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Уверен, ты не будешь против.){/i}"
 
 # game/logic/events/lily.rpy:1134
 translate russian lily_events_5_label_3_d7463199:
 
     # ch_Name "{i}(Oh, my...){/i}"
-    ch_Name ""
+    ch_Name "{i}(О Боже...){/i}"
 
 # game/logic/events/lily.rpy:1135
 translate russian lily_events_5_label_3_45ed5ace:
 
     # ch_Name "{i}(What a cute little lingerie you've got.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Какое у тебя милое маленькое белье.){/i}"
 
 # game/logic/events/lily.rpy:1136
 translate russian lily_events_5_label_3_a8e56b21:
 
     # ch_Name "{i}(I bet it looks even better down there...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Уверен, там внизу оно выглядит еще лучше...){/i}"
 
 # game/logic/events/lily.rpy:1137
 translate russian lily_events_5_label_3_915a2952:
 
     # ch_Name "{i}(Let me get rid of that...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Давай избавимся от этого...){/i}"
 
 # game/logic/events/lily.rpy:1139
 translate russian lily_events_5_label_3_fb23f50c:
 
     # ch_Name "{i}(Here we go.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ну вот.){/i}"
 
 # game/logic/events/lily.rpy:1140
 translate russian lily_events_5_label_3_71d5e351:
 
     # ch_Name "{i}(Let me just enjoy this magnificent view.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Позволь мне насладиться этим восхитительным видом.){/i}"
 
 # game/logic/events/lily.rpy:1141
 translate russian lily_events_5_label_3_d510f3e0:
 
     # ch_Name "{i}(I don't know where to start...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Не знаю, с чего начать...){/i}"
 
 # game/logic/events/lily.rpy:1143
 translate russian lily_events_5_label_3_727aae98:
 
     # ch_Name "{i}(Your whole body is so damn hot...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Все твое тело такое чертовски горячее...){/i}"
 
 # game/logic/events/lily.rpy:1145
 translate russian lily_events_5_label_3_9a747f21:
 
     # ch_Name "{i}(But I always tend to start with your breasts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Но я всегда предпочитаю начинать с твоих грудок.){/i}"
 
 # game/logic/events/lily.rpy:1146
 translate russian lily_events_5_label_3_31f5db86:
 
     # ch_Name "{i}(I know for sure it feels incredibly nice to the touch them...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я точно знаю, трогать их невероятно приятно...){/i}"
 
 # game/logic/events/lily.rpy:1147
 translate russian lily_events_5_label_3_26983f8c:
 
     # ch_Name "{i}(I'll try not to disturb your sleep, Lily.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я постараюсь не тревожить твой сон, Lily.){/i}"
 
 # game/logic/events/lily.rpy:1148
 translate russian lily_events_5_label_3_499c2fb1:
 
     # ch_Name "{i}(Just relax and watch the naughty dreams...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Просто расслабься и смотри неприличные сны...){/i}"
 
 # game/logic/events/lily.rpy:1150
 translate russian lily_events_5_label_3_bbb5c7d2:
 
     # ch_Name "{i}(Oh, yeah... That feels good.){/i}"
-    ch_Name ""
+    ch_Name "{i}(О да... Это очень приятно.){/i}"
 
 # game/logic/events/lily.rpy:1151
 translate russian lily_events_5_label_3_6fdef796:
 
     # ch_Name "{i}(I can feel your heart beating, Lily.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я чувствую, как бьется твое сердце, Lily.){/i}"
 
 # game/logic/events/lily.rpy:1152
 translate russian lily_events_5_label_3_0e795e4c:
 
     # ch_Name "{i}(I can feel every breath you take.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я чувствую каждый твой вздох.){/i}"
 
 # game/logic/events/lily.rpy:1153
 translate russian lily_events_5_label_3_c428a5f5:
 
     # ch_Name "{i}(I need to squeeze it and feel it in my hand...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Мне нужно сжать их и почувствовать своей ладонью...){/i}"
 
 # game/logic/events/lily.rpy:1154
 translate russian lily_events_5_label_3_09a917f4:
 
     # ch_Name "{i}(Maybe if I do it gently, she won't notice...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Возможно, если я сделаю это нежно, она не заметит...){/i}"
 
 # game/logic/events/lily.rpy:1156
 translate russian lily_events_5_label_3_de46fa71:
 
     # ch_Name "{i}(Gently...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Нежно...){/i}"
 
 # game/logic/events/lily.rpy:1158
 translate russian lily_events_5_label_3_1b854e6e:
 
     # ch_Name "{i}(Oh, yes...){/i}"
-    ch_Name ""
+    ch_Name "{i}(О да...){/i}"
 
 # game/logic/events/lily.rpy:1159
 translate russian lily_events_5_label_3_fd9d750a:
 
     # ch_Name "{i}(Her breasts feel like they were meant to be in my hand.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ее грудь будто предназначена для моей руки.){/i}"
 
 # game/logic/events/lily.rpy:1160
 translate russian lily_events_5_label_3_4a37019b:
 
     # ch_Name "{i}(Imagine what they feel like without a bra...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Представляю, как они ощущаются без бюстгальтера...){/i}"
 
 # game/logic/events/lily.rpy:1161
 translate russian lily_events_5_label_3_0f0655eb:
 
     # ch_Name "{i}(I have to find out how to take it off...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Надо выяснить, как он снимается...){/i}"
 
 # game/logic/events/lily.rpy:1162
 translate russian lily_events_5_label_3_568768a7:
 
     # ch_Name "{i}(Meanwhile, I can take a look at your temple.){/i}"
-    ch_Name ""
+    ch_Name "{i}(А пока я могу взглянуть на твой храм.){/i}"
 
 # game/logic/events/lily.rpy:1164
 translate russian lily_events_5_label_3_18f06b32:
 
     # ch_Name "{i}(This underwear emphasizes your beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Это белье подчеркивает твою привлекательность.){/i}"
 
 # game/logic/events/lily.rpy:1166
 translate russian lily_events_5_label_3_a0e60060:
 
     # ch_Name "{i}(Especially between your legs...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Особенно между ног...){/i}"
 
 # game/logic/events/lily.rpy:1167
 translate russian lily_events_5_label_3_6ea21969:
 
     # ch_Name "{i}(I know you like my caresses.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я знаю, тебе нравятся мои ласки.){/i}"
 
 # game/logic/events/lily.rpy:1168
 translate russian lily_events_5_label_3_041a53cf:
 
     # ch_Name "{i}(I just know where to touch...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я просто знаю, где прикоснуться...){/i}"
 
 # game/logic/events/lily.rpy:1170
 translate russian lily_events_5_label_3_2a1d499b:
 
     # ch_Name "{i}(I will be gentle with you, dear Lily.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я буду нежен с тобой, дорогая Lily.){/i}"
 
 # game/logic/events/lily.rpy:1172
 translate russian lily_events_5_label_3_ed4ec38c:
 
     # ch_Name "{i}(I feel the heat of your loins.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я чувствую жар твоих чресел.){/i}"
 
 # game/logic/events/lily.rpy:1173
 translate russian lily_events_5_label_3_b613a332:
 
     # ch_Name "{i}(You obviously don't mind feeling someone's tender hands...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ты определенно не прочь почувствовать чьи-нибудь нежные руки...){/i}"
 
 # game/logic/events/lily.rpy:1174
 translate russian lily_events_5_label_3_7870d3b2:
 
     # ch_Name "{i}(But if you want to continue, I need to spread your legs.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Но если хочешь продолжить, я должен раздвинуть твои ноги.){/i}"
 
 # game/logic/events/lily.rpy:1176
 translate russian lily_events_5_label_3_2ee42446:
 
     # ch_Name "{i}(Gently moving your beautiful leg...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Нежно подвинем твою красивую ножку...){/i}"
 
 # game/logic/events/lily.rpy:1177
 translate russian lily_events_5_label_3_259d469d:
 
     # ch_Name "{i}(And look at what a beautiful view opens up to us.){/i}"
-    ch_Name ""
+    ch_Name "{i}(И взгляните, какой замечательный вид нам открывается.){/i}"
 
 # game/logic/events/lily.rpy:1178
 translate russian lily_events_5_label_3_955bd88d:
 
     # ch_Name "{i}(Just move your panties...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Только сдвинуть твои трусики...){/i}"
 
 # game/logic/events/lily.rpy:1180
 translate russian lily_events_5_label_3_8901a418:
 
     # ch_Name "{i}(I could admire your blossom forever, Lily.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я готов любоваться твоим бутоном вечно, Lily.){/i}"
 
 # game/logic/events/lily.rpy:1181
 translate russian lily_events_5_label_3_7eb774e9:
 
     # ch_Name "{i}(You're so tense... Did you feel my touch?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ты так напряглась... Почувствовала мое прикосновение?){/i}"
 
 # game/logic/events/lily.rpy:1182
 translate russian lily_events_5_label_3_18dabf16:
 
     # ch_Name "{i}(Shall we continue?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Продолжим?){/i}"
 
 # game/logic/events/lily.rpy:1184
 translate russian lily_events_5_label_3_6ee833df:
 
     # ch_Name "{i}(The blanket is pulled and I have a beautiful view of your legs...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Одеяло сдвинуто и мне открывается красивый вид на твои ноги...){/i}"
 
 # game/logic/events/lily.rpy:1185
 translate russian lily_events_5_label_3_a7b5e235:
 
     # ch_Name "{i}(They drive me crazy...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Они сводят меня с ума...){/i}"
 
 # game/logic/events/lily.rpy:1187
 translate russian lily_events_5_label_3_0ac6f219:
 
     # ch_Name "{i}(And your toes... I wish I could...){/i}"
-    ch_Name ""
+    ch_Name "{i}(И твои пальцы... Если бы я мог...){/i}"
 
 # game/logic/events/lily.rpy:1195
 translate russian lily_events_5_label_3_9aca7197:
 
     # ch_Name "{i}(I can't help it...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Не могу удержаться...){/i}"
 
 # game/logic/events/lily.rpy:1197
 translate russian lily_events_5_label_3_4bbad52a:
 
     # ch_Name "{i}(Your skin is so soft...){/i}"
-    ch_Name ""
+    ch_Name "{i}(У тебя такая бархатная кожа...){/i}"
 
 # game/logic/events/lily.rpy:1199
 translate russian lily_events_5_label_3_22baf82d:
 
     # ch_Name "{i}(I want to caress every part of your body.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я хочу даскать каждый милиметр твоего тела.){/i}"
 
 # game/logic/events/lily.rpy:1201
 translate russian lily_events_5_label_3_9c1d018a:
 
     # ch_Name "{i}(And especially those fingers...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Особенно эти пальцы...){/i}"
 
 # game/logic/events/lily.rpy:1203
 translate russian lily_events_5_label_3_e7d14d5c:
 
     # ch_Name "{i}(Your scent gives me an animal passion.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Твой аромат пробуждает во мне животную страсть.){/i}"
 
 # game/logic/events/lily.rpy:1205
 translate russian lily_events_5_label_3_c20f2aa1:
 
     # Lily "He-he... mmm..."
-    Lily ""
+    Lily "Хи-хи... ммм..."
 
 # game/logic/events/lily.rpy:1207
 translate russian lily_events_5_label_3_06fb5783:
 
     # ch_Name "{i}(Does that tickles, Lily?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Тебе щекотно, Lily?){/i}"
 
 # game/logic/events/lily.rpy:1209
 translate russian lily_events_5_label_3_8f854a62:
 
     # ch_Name "{i}(I'm sorry.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Прости.){/i}"
 
 # game/logic/events/lily.rpy:1211
 translate russian lily_events_5_label_3_40634567:
 
     # ch_Name "{i}(Got too playful with my tongue...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Слишком заигрался своим языком...){/i}"
 
 # game/logic/events/lily.rpy:1214
 translate russian lily_events_5_label_3_162_37c7c5e2:
 
     # Lily "Mhm... mmm..."
-    Lily ""
+    Lily "Мхм... ммм..."
 
 # game/logic/events/lily.rpy:1215
 translate russian lily_events_5_label_3_162_d854112a:
 
     # ch_Name "{i}(Damn, I think she's gonna wake up any minute.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Черт, думаю, она может проснуться в любую минуту.){/i}"
 
 # game/logic/events/lily.rpy:1216
 translate russian lily_events_5_label_3_162_03d6a422:
 
     # ch_Name "{i}(Better get out of here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Мне лучше убраться отсюда.){/i}"
 
 # game/logic/events/lily.rpy:1232
 translate russian Lily_6_label_a32e20da:
