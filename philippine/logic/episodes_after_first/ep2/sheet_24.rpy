@@ -334,7 +334,7 @@ translate philippine sheet_24_game_1_da62a5b0:
 translate philippine sheet_24_game_1_ff017a1b:
 
     # ch_Name "Does this mean...?"
-    ch_Name "Ibig-sabihin...?"
+    ch_Name "Ibig sabihin...?"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:294
 translate philippine sheet_24_game_1_0560b79b:
@@ -400,7 +400,7 @@ translate philippine sheet_24_game_1_7bfa566e:
 translate philippine sheet_24_game_1_12cf80c0:
 
     # ch_Name "{i}(Does this mean...?){/i}"
-    ch_Name "{i}(Ibig-sabihin...?){/i}"
+    ch_Name "{i}(Ibig sabihin...?){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:322
 translate philippine sheet_24_game_1_96d6fae8_1:
@@ -460,7 +460,7 @@ translate philippine sheet_24_game_1_7bfa566e_1:
 translate philippine sheet_24_game_1_12cf80c0_1:
 
     # ch_Name "{i}(Does this mean...?){/i}"
-    ch_Name "{i}(Ibig-sabihin...?){/i}"
+    ch_Name "{i}(Ibig sabihin...?){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:349
 translate philippine sheet_24_game_1_96d6fae8_2:
@@ -562,7 +562,7 @@ translate philippine sheet_24_game_1_db8f0bf5:
 translate philippine sheet_24_game_1_c49a8d1c:
 
     # Victoria "On the contrary!"
-    Victoria "Hinidi!"
+    Victoria "Hindi!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:392
 translate philippine sheet_24_game_1_40637ff2:
