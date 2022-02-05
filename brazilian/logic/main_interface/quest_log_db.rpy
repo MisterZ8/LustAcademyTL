@@ -940,7 +940,7 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Lesser Heal Potion recipe while continuing to attend Sabrina's classes."
-    new "Aprenda a receita da Poção de Cura Menor atendendo as aulas de Sabrina."
+    new "Aprenda a receita da Poção de Cura Menor assistindo às aulas de Sabrina."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Elijah work"
@@ -956,7 +956,7 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Episkey spell by continuing to attend Victoria's classes."
-    new "Aprenda o feitiço Episkey atendendo às aulas da Victoria."
+    new "Aprenda o feitiço Episkey assistindo às aulas da Victoria."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Recipe \"Stoneskin\""
@@ -964,7 +964,7 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Stoneskin Potion recipe by continuing to attend Sabrina's classes."
-    new "Aprenda a receita da Poção de Pele de Pedra atendendo às aulas de Sabrina."
+    new "Aprenda a receita da Poção de Pele de Pedra assistindo às aulas de Sabrina."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Sorting book"
@@ -972,7 +972,7 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Try to contact Leona using a Sorting book in the Main Hall of Academy in the evening."
-    new "Tente contactar Lenoa usando o Livro Seletor no Saguão Principal da Academia no fim da tarde."
+    new "Tente contactar Leona usando o Livro Seletor no Salão Principal da Academia no fim da tarde."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Recipe \"Reflection\""
@@ -980,7 +980,7 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Reflection Potion recipe  by continuing to attend Sabrina's classes."
-    new "Aprenda a receita da Poção de Reflexão atendendo às aulas de Sabrina."
+    new "Aprenda a receita da Poção de Reflexão assistindo às aulas de Sabrina."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learning \"Rictusempra\""
@@ -988,7 +988,7 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Rictusempra spell  by continuing to attend Victoria's classes."
-    new "Aprenda o feitiço Rictusempra atendendo às aulas de Victoria."
+    new "Aprenda o feitiço Rictusempra assitindo às aulas de Victoria."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Recipe \"Inspiration\""
@@ -996,7 +996,7 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Inspiration Potion recipe by continuing to attend Sabrina's classes."
-    new "Aprenda a receita da Poção de Inspiração atendendo as aulas de Sabrina."
+    new "Aprenda a receita da Poção de Inspiração assistindo as aulas de Sabrina."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Willow nectar"
