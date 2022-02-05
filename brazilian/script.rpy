@@ -4,7 +4,7 @@
 translate brazilian 69ff737f:
 
     # "Here you can keep track of all the routes, activities, etc. that are available to you. and quickly navigate to the desired one, without wasting time walking around the locations and searching. Next to the avatars of the characters are icons, the decoding of which is next."
-    ""
+    "Aqui você pode acompanhar todas as rotas, atividades, etc. disponíveis a você. e navegar rapidamente ao que deseja, sem gastar tempo andando por ai e procurando. Próximo aos avatáres dos personagens são os ícones, mostrando o que está por vir."
 
 # game/script.rpy:742
 translate brazilian start_54c881dc:
@@ -682,7 +682,7 @@ translate brazilian strings:
 
     # game/script.rpy:148
     old "Sorting Book"
-    new "Livro de classificação"
+    new "Livro Seletor"
 
     # game/script.rpy:150
     old "Ashley's Bedroom"
