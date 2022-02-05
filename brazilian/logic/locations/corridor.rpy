@@ -1702,307 +1702,307 @@ translate brazilian train_menu_after_drunk_girls_3da38669:
 translate brazilian train_menu_after_drunk_girls_c1900c94:
 
     # Haley "What do you think, which people were closest to learning the theory of magic?"
-    Haley ""
+    Haley "O que você acha? Quem está mais perto de aprender a teoria da magia?"
 
 # game/logic/locations/corridor.rpy:870
 translate brazilian train_menu_after_drunk_girls_01658f27:
 
     # ch_Name "Uh... Winx fairies?"
-    ch_Name ""
+    ch_Name "Uh... Fadas winx?"
 
 # game/logic/locations/corridor.rpy:872
 translate brazilian train_menu_after_drunk_girls_bdced21f:
 
     # Haley "Do you know anything about magic at all?"
-    Haley ""
+    Haley "Você sabe alguma coisa sobre magia?"
 
 # game/logic/locations/corridor.rpy:874
 translate brazilian train_menu_after_drunk_girls_0bc7dfc8:
 
     # ch_Name "Actually, my friend is in her sophomore year in Cordale."
-    ch_Name ""
+    ch_Name "Na verdade, minha amiga está no segundo ano em Cordale."
 
 # game/logic/locations/corridor.rpy:876
 translate brazilian train_menu_after_drunk_girls_9240ebca:
 
     # Haley "Did she tell you anything? Please, share with me!"
-    Haley ""
+    Haley "Ela lhe disse alguma coisa? Por favor, me diga!"
 
 # game/logic/locations/corridor.rpy:878
 translate brazilian train_menu_after_drunk_girls_19dffb29:
 
     # ch_Name "She didn't tell me anything! "
-    ch_Name ""
+    ch_Name "Ela não me falou nada!"
 
 # game/logic/locations/corridor.rpy:880
 translate brazilian train_menu_after_drunk_girls_de19a0ac:
 
     # ch_Name "It is all very secret and they are forbidden to talk about the details."
-    ch_Name ""
+    ch_Name "É tudo muito secreto e eles proíbem de falar sobre os detalhes."
 
 # game/logic/locations/corridor.rpy:882
 translate brazilian train_menu_after_drunk_girls_55a87f52:
 
     # Haley "What friend leaves her pal in ignorance like that?"
-    Haley ""
+    Haley "Que tipo de amigo deixa o outro no escuro desse jeito?"
 
 # game/logic/locations/corridor.rpy:884
 translate brazilian train_menu_after_drunk_girls_fd777908:
 
     # ch_Name "Don't say that! I will meet up with her when I arrive and she will help me."
-    ch_Name ""
+    ch_Name "Não diga isso! Vamos nos encontrar quando chegarmmos e ela vai me ajudar."
 
 # game/logic/locations/corridor.rpy:886
 translate brazilian train_menu_after_drunk_girls_05ef46dc:
 
     # Haley "Okay, okay! Excuse me, I got excited."
-    Haley ""
+    Haley "Ok, ok! Desculpe, fiquei empolgada."
 
 # game/logic/locations/corridor.rpy:888
 translate brazilian train_menu_after_drunk_girls_7027103e:
 
     # Haley "I'm so delighted that magic exists..."
-    Haley ""
+    Haley "Estou tão feliz que magia existe..."
 
 # game/logic/locations/corridor.rpy:890
 translate brazilian train_menu_after_drunk_girls_8aec3731:
 
     # Haley "...I can barely contain myself."
-    Haley ""
+    Haley "...mal posso me conter."
 
 # game/logic/locations/corridor.rpy:892
 translate brazilian train_menu_after_drunk_girls_660afcba:
 
     # Haley "You should know how many theories I have!"
-    Haley ""
+    Haley "Você devia ver quantas teorias em tenho!"
 
 # game/logic/locations/corridor.rpy:894
 translate brazilian train_menu_after_drunk_girls_fd325397:
 
     # Haley "What if magic is..."
-    Haley ""
+    Haley "O que a magia é..."
 
 # game/logic/locations/corridor.rpy:896
 translate brazilian train_menu_after_drunk_girls_580cca29:
 
     # "For the next few hours Haley shares her crazy theories about the Academy..."
-    ""
+    "Pelas próximas horas, Haley compratilha suas loucas teorias sobre a Academia..."
 
 # game/logic/locations/corridor.rpy:898
 translate brazilian train_menu_after_drunk_girls_56d523d2:
 
     # "...until you manage to convince her that it's worth getting some sleep before the big day."
-    ""
+    "...até que você a convence que seria melhor dormir e descansar antes do grande dia."
 
 # game/logic/locations/corridor.rpy:905
 translate brazilian train_menu_after_drunk_girls_60870614:
 
     # ch_Name "{i}(It was getting quite dark outside the window.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Está ficando bem escuro lá fora.){/i}"
 
 # game/logic/locations/corridor.rpy:907
 translate brazilian train_menu_after_drunk_girls_792b6e86:
 
     # ch_Name "{i}(And I still haven't fallen asleep.){/i}"
-    ch_Name ""
+    ch_Name "{i}(E ainda não consegui dormir.){/i}"
 
 # game/logic/locations/corridor.rpy:909
 translate brazilian train_menu_after_drunk_girls_92ce7869:
 
     # ch_Name "{i}(Time to do something about this insomnia.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hora de fazer alguma coisa sobre essa insônia.){/i}"
 
 # game/logic/locations/corridor.rpy:911
 translate brazilian train_menu_after_drunk_girls_5a292311:
 
     # ch_Name "{i}(But who can blame me?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas, que culpa eu tenho?){/i}"
 
 # game/logic/locations/corridor.rpy:913
 translate brazilian train_menu_after_drunk_girls_670c78e0:
 
     # ch_Name "{i}(It's hard to fall asleep when your dick's on fire.){/i}"
-    ch_Name ""
+    ch_Name "{i}(É difícil dormir com o pau pegando fogo.){/i}"
 
 # game/logic/locations/corridor.rpy:915
 translate brazilian train_menu_after_drunk_girls_2780eec2:
 
     # ch_Name "{i}(I haven't fucked since I broke my leg.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu não transo desde que quebrei a perna.){/i}"
 
 # game/logic/locations/corridor.rpy:917
 translate brazilian train_menu_after_drunk_girls_954301ae:
 
     # ch_Name "{i}(And here...){/i}"
-    ch_Name ""
+    ch_Name "{i}(E aqui...){/i}"
 
 # game/logic/locations/corridor.rpy:919
 translate brazilian train_menu_after_drunk_girls_72b33558:
 
     # ch_Name "{i}(Such a hottie!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Uma gostosinha!){/i}"
 
 # game/logic/locations/corridor.rpy:921
 translate brazilian train_menu_after_drunk_girls_c5700282:
 
     # ch_Name "{i}(Flirting with me all day long.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Jogando charme o dia inteiro.){/i}"
 
 # game/logic/locations/corridor.rpy:923
 translate brazilian train_menu_after_drunk_girls_fd4a9606:
 
     # ch_Name "{i}(And now she's flashing her naked feet...){/i}"
-    ch_Name ""
+    ch_Name "{i}(E agora ainda fica exibindo seus pés descalços...){/i}"
 
 # game/logic/locations/corridor.rpy:925
 translate brazilian train_menu_after_drunk_girls_a58b4939:
 
     # ch_Name "{i}(I can't take it anymore!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu não aguento mais!){/i}"
 
 # game/logic/locations/corridor.rpy:927
 translate brazilian train_menu_after_drunk_girls_dc1d19db:
 
     # ch_Name "{i}(I need to satisfy my curiosity.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tenho que matar minha curiosidade.){/i}"
 
 # game/logic/locations/corridor.rpy:929
 translate brazilian train_menu_after_drunk_girls_87ca1387:
 
     # ch_Name "{i}(Maybe I should take a closer look. What's the big deal?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Talvez devesse olhar melhor. Qual o grande problema?){/i}"
 
 # game/logic/locations/corridor.rpy:931
 translate brazilian train_menu_after_drunk_girls_81e7ad8c:
 
     # ch_Name "{i}(What should I do?){/i}"
-    ch_Name ""
+    ch_Name "{i}(O que devo fazer?){/i}"
 
 # game/logic/locations/corridor.rpy:972
 translate brazilian test_choice_menu_ce8bfb54:
 
     # ch_Name "{i}(What have we here...){/i}"
-    ch_Name ""
+    ch_Name "{i}(O que temos aqui...){/i}"
 
 # game/logic/locations/corridor.rpy:976
 translate brazilian test_choice_menu_75c67607:
 
     # ch_Name "{i}(Well, hello there!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bem, olá!){/i}"
 
 # game/logic/locations/corridor.rpy:978
 translate brazilian test_choice_menu_dcf27b65:
 
     # ch_Name "{i}(Sweet transparent panties. Nice choice for the train!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Linda calcinha transparente. Ótima opção para o trem!){/i}"
 
 # game/logic/locations/corridor.rpy:982
 translate brazilian test_choice_menu_9cfb4ea4:
 
     # ch_Name "{i}(It makes me want to touch...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Me faz querer tocar...){/i}"
 
 # game/logic/locations/corridor.rpy:1001
 translate brazilian test_choice_menu_9f92a07c:
 
     # ch_Name "{i}(Oh, yes! You're even a little wet...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ah, sim! Está até meio molhadinha...){/i}"
 
 # game/logic/locations/corridor.rpy:1005
 translate brazilian test_choice_menu_88ac51e1:
 
     # ch_Name "{i}(Maybe you're dreaming about me?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Será que você está sonhando comigo?){/i}"
 
 # game/logic/locations/corridor.rpy:1009
 translate brazilian test_choice_menu_b8318c32:
 
     # ch_Name "{i}(Shall I take a closer look at you?){/i}"
-    ch_Name ""
+    ch_Name ""{i}(Deixa eu lhe olhar mais de perto?){/i}
 
 # game/logic/locations/corridor.rpy:1029
 translate brazilian test_choice_menu_7634ea46:
 
     # ch_Name "{i}(What a neat, tight holes you've got...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que buraquinhos arrumados e bonitos que você tem...){/i}"
 
 # game/logic/locations/corridor.rpy:1033
 translate brazilian test_choice_menu_34aa4ce7:
 
     # ch_Name "{i}(You must be a virgin.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Você deve ser virgem.){/i}"
 
 # game/logic/locations/corridor.rpy:1037
 translate brazilian test_choice_menu_69c0fc71:
 
     # ch_Name "{i}(For now...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Por enquanto...){/i}"
 
 # game/logic/locations/corridor.rpy:1056
 translate brazilian train_not_too_big_32f2004a:
 
     # ch_Name "{i}(Not too big.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não muito grandes.){/i}"
 
 # game/logic/locations/corridor.rpy:1060
 translate brazilian train_not_too_big_2ae1076d:
 
     # ch_Name "{i}(But not too flat either.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas não são pequenos também.){/i}"
 
 # game/logic/locations/corridor.rpy:1064
 translate brazilian train_not_too_big_e090f714:
 
     # ch_Name "{i}(The golden mean!){/i}"
-    ch_Name ""
+    ch_Name "{i}(O tamanho ideal!){/i}"
 
 # game/logic/locations/corridor.rpy:1066
 translate brazilian train_not_too_big_0a7859bf:
 
     # ch_Name "{i}(I wonder how it fits in my hand?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Será que cabem nas minhas mãos?){/i}"
 
 # game/logic/locations/corridor.rpy:1081
 translate brazilian train_not_too_big_c6590b10:
 
     # ch_Name "{i}(It's so soft to the touch!){/i}"
-    ch_Name ""
+    ch_Name "{i}(São tão macios ao toque!){/i}"
 
 # game/logic/locations/corridor.rpy:1085
 translate brazilian train_not_too_big_2b8ccd71:
 
     # ch_Name "{i}(And so warm.){/i}"
-    ch_Name ""
+    ch_Name "{i}(E tão mornos.){/i}"
 
 # game/logic/locations/corridor.rpy:1089
 translate brazilian train_not_too_big_768d59cf:
 
     # ch_Name "{i}(I must find out how firm it is!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tenho que descobrir se são firmes!){/i}"
 
 # game/logic/locations/corridor.rpy:1106
 translate brazilian train_not_too_big_625b1304:
 
     # ch_Name "{i}(Oh, yes! Divine.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ah, sim! Divinos.){/i}"
 
 # game/logic/locations/corridor.rpy:1110
 translate brazilian train_not_too_big_1c4eae0a:
 
     # ch_Name "{i}(Even through clothes, I can feel how firm they are...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mesmo pelas rouaps, dá para sentir a firmeza deles...){/i}"
 
 # game/logic/locations/corridor.rpy:1114
 translate brazilian train_not_too_big_c33859f4:
 
     # ch_Name "{i}(Is it my imagination, or did Haley just moved?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Estou imaginando ou Haley se mexeu?){/i}"
 
 # game/logic/locations/corridor.rpy:1118
 translate brazilian train_not_too_big_9d5e7730:
 
     # ch_Name "{i}(Better not take any chances.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Melhor não vacilar.){/i}"
 
 # game/logic/locations/corridor.rpy:1122
 translate brazilian train_not_too_big_eff1c28d:
@@ -2014,49 +2014,49 @@ translate brazilian train_not_too_big_eff1c28d:
 translate brazilian train_not_too_big_90ebcc12:
 
     # ch_Name "{i}(I think she's just tossing and turning in her sleep.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Acho que ela está só se mexendo durante o sono.){/i}"
 
 # game/logic/locations/corridor.rpy:1130
 translate brazilian train_not_too_big_811c5148:
 
     # ch_Name "{i}(Even though I'm afraid to wake you up, Haley...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mesmo estando com medo de lhe acordar, Haley...){/i}""
 
 # game/logic/locations/corridor.rpy:1134
 translate brazilian train_not_too_big_94c3c904:
 
     # ch_Name "{i}(I don't know if I can resist looking at your nipple...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não sei se consigo resistir a olhar seu mamilo...){/i}"
 
 # game/logic/locations/corridor.rpy:1151
 translate brazilian train_not_too_big_deb23e4b:
 
     # ch_Name "{i}(Gently pinch the edge of her blouse with a finger...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Puxar devagar a borda da blusa com os dedos...){/i}"
 
 # game/logic/locations/corridor.rpy:1155
 translate brazilian train_not_too_big_24c40400:
 
     # ch_Name "{i}(And... Voila!){/i}"
-    ch_Name ""
+    ch_Name "{i}(E... Voilá!){/i}"
 
 # game/logic/locations/corridor.rpy:1159
 translate brazilian train_not_too_big_1bddf9ae:
 
     # ch_Name "{i}(Hello, hello!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Olá, olá!){/i}"
 
 # game/logic/locations/corridor.rpy:1163
 translate brazilian train_not_too_big_afeadfb4:
 
     # ch_Name "{i}(It's so neat.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tão arrumadinho.){/i}"
 
 # game/logic/locations/corridor.rpy:1167
 translate brazilian train_not_too_big_252c8e49:
 
     # ch_Name "{i}(Haley, you're really beautiful...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Haley, você é realmente linda...){/i}"
 
 # game/logic/locations/corridor.rpy:1171
 translate brazilian train_not_too_big_69660076:
@@ -2068,391 +2068,391 @@ translate brazilian train_not_too_big_69660076:
 translate brazilian train_not_too_big_7c636307:
 
     # ch_Name "{i}(Turned away from me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Virou de costas para mim.){/i}"
 
 # game/logic/locations/corridor.rpy:1179
 translate brazilian train_not_too_big_2352b182:
 
     # ch_Name "{i}(Probably tired of our \"games\".){/i}"
-    ch_Name ""
+    ch_Name "{i}(Talvez cansada dos nossos \"joguinhos\".){/i}"
 
 # game/logic/locations/corridor.rpy:1183
 translate brazilian train_not_too_big_b5be0bab:
 
     # ch_Name "{i}(I'm not gonna push my luck anymore.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não vou continuar abusando da minha sorte.){/i}"
 
 # game/logic/locations/corridor.rpy:1187
 translate brazilian train_not_too_big_a4963e7c:
 
     # ch_Name "{i}(You're done for the day.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Terminamos por hoje.(/i}"
 
 # game/logic/locations/corridor.rpy:1191
 translate brazilian train_not_too_big_a0b38d9b:
 
     # ch_Name "{i}(But we'll get back to it!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas continuaremos de novo depois!){/i}"
 
 # game/logic/locations/corridor.rpy:1195
 translate brazilian train_not_too_big_842b7743:
 
     # ch_Name "{i}(Won't we?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não é?){/i}"
 
 # game/logic/locations/corridor.rpy:1199
 translate brazilian train_not_too_big_7e8269c9:
 
     # ch_Name "{i}(What a rush of emotion...){/i}"
-    ch_Name ""
+    ch_Name "{i}(São tantas as emoções...){/i}"
 
 # game/logic/locations/corridor.rpy:1201
 translate brazilian train_not_too_big_261de453:
 
     # ch_Name "{i}(My heart's beating like crazy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Meu coração está batendo feito louco.){/i}"
 
 # game/logic/locations/corridor.rpy:1210
 translate brazilian train_end_16_1_ef9e3e55:
 
     # ch_Name "{i}(I'd better turn away from temptation...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Melhor eu me afastar da tentação...){/i}"
 
 # game/logic/locations/corridor.rpy:1213
 translate brazilian train_end_16_1_e3c5e027:
 
     # ch_Name "{i}(...and try to sleep...){/i}"
-    ch_Name ""
+    ch_Name "{i}...e tentar dormir...){/i}"
 
 # game/logic/locations/corridor.rpy:1220
 translate brazilian train_end_16_1_a0dc44c3:
 
     # Haley "Hey, [Name], wake up!"
-    Haley ""
+    Haley "Ei, [Name], acorde!"
 
 # game/logic/locations/corridor.rpy:1222
 translate brazilian train_end_16_1_0089bfed:
 
     # ch_Name "Well, just a few more minutes..."
-    ch_Name ""
+    ch_Name "Espera, só mais uns minutinhos..."
 
 # game/logic/locations/corridor.rpy:1224
 translate brazilian train_end_16_1_89382e47:
 
     # Haley "{i}(Hmm, he's cute when he sleeps.{/i})"
-    Haley ""
+    Haley "{i}(Olha, ele é fofo quando dorme.){/i}"
 
 # game/logic/locations/corridor.rpy:1230
 translate brazilian train_end_16_1_04785988:
 
     # ch_Name "Did you say something?"
-    ch_Name ""
+    ch_Name "Você falou alguma coisa?"
 
 # game/logic/locations/corridor.rpy:1234
 translate brazilian train_end_16_1_5ca9338c:
 
     # Haley "I said WAKE UP! You won't believe your eyes!"
-    Haley ""
+    Haley "Eu disse ACORDA! Você mal vai acreditar em seus olhos!"
 
 # game/logic/locations/corridor.rpy:1238
 translate brazilian train_end_16_1_d3523126:
 
     # ch_Name "{i}(I'm sure she just called me cute...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tenho certeza que ela me chamou de fofo...){/i}"
 
 # game/logic/locations/corridor.rpy:1242
 translate brazilian train_end_16_1_2c1e9e70:
 
     # ch_Name "{i}(Was that what she was thinking?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Isso é o que ela estava pensando?){/i}"
 
 # game/logic/locations/corridor.rpy:1246
 translate brazilian train_end_16_1_977eeda5:
 
     # ch_Name "Haley, what happened?"
-    ch_Name ""
+    ch_Name "Haley, o que aconteceu?"
 
 # game/logic/locations/corridor.rpy:1250
 translate brazilian train_end_16_1_e0a0110f:
 
     # ch_Name "I was sleeping so sweet..."
-    ch_Name ""
+    ch_Name "Eu estava dormindo tão gostoso..."
 
 # game/logic/locations/corridor.rpy:1254
 translate brazilian train_end_16_1_453de76b:
 
     # Haley "Tell me you're seeing this, too. I'm not hallucinating, am I?"
-    Haley ""
+    Haley "Me diga que você está vendo isso também. Não estou alucinando, né?"
 
 # game/logic/locations/corridor.rpy:1258
 translate brazilian train_end_16_1_e4d001fe:
 
     # ch_Name "Holy crap!"
-    ch_Name ""
+    ch_Name "Puta merda!"
 
 # game/logic/locations/corridor.rpy:1262
 translate brazilian train_end_16_1_170850cd:
 
     # ch_Name "Am I still dreaming?"
-    ch_Name ""
+    ch_Name "Ainda estou dormindo?"
 
 # game/logic/locations/corridor.rpy:1267
 translate brazilian train_end_16_1_c212acb2:
 
     # ch_Name "Fucking dragons!"
-    ch_Name ""
+    ch_Name "Dragões, porra!"
 
 # game/logic/locations/corridor.rpy:1271
 translate brazilian train_end_16_1_3e74e358:
 
     # ch_Name "Unbelievable..."
-    ch_Name ""
+    ch_Name "Inacreditável..."
 
 # game/logic/locations/corridor.rpy:1275
 translate brazilian train_end_16_1_f1e164fe:
 
     # Haley "Magical..."
-    Haley ""
+    Haley "Mágico..."
 
 # game/logic/locations/corridor.rpy:1280
 translate brazilian train_end_16_1_346beea5:
 
     # Haley "I've only seen these in movies."
-    Haley ""
+    Haley "Só vi disso em filmes..."
 
 # game/logic/locations/corridor.rpy:1284
 translate brazilian train_end_16_1_a6679a5b:
 
     # ch_Name "Yeah..."
-    ch_Name ""
+    ch_Name "É..."
 
 # game/logic/locations/corridor.rpy:1288
 translate brazilian train_end_16_1_68896626:
 
     # Haley "Do you think they can attack a train?"
-    Haley ""
+    Haley "Você acha que eles atacariam um trem?"
 
 # game/logic/locations/corridor.rpy:1293
 translate brazilian train_end_16_1_fb1f3628:
 
     # ch_Name "Those cuties?"
-    ch_Name ""
+    ch_Name "Essas belezinhas?"
 
 # game/logic/locations/corridor.rpy:1298
 translate brazilian train_end_16_1_c230c6ce:
 
     # ch_Name "I don't think so!"
-    ch_Name ""
+    ch_Name "Acredito que não!"
 
 # game/logic/locations/corridor.rpy:1302
 translate brazilian train_end_16_1_d0af53fc:
 
     # ch_Name "They seem pretty peaceful."
-    ch_Name ""
+    ch_Name "Eles parecem bem pacíficos."
 
 # game/logic/locations/corridor.rpy:1307
 translate brazilian train_end_16_1_d61fc905:
 
     # Haley "I don't know, it's kind of creepy."
-    Haley ""
+    Haley "Não sei, é meio sinistro."
 
 # game/logic/locations/corridor.rpy:1311
 translate brazilian train_end_16_1_8ef81719:
 
     # Haley "I thought all dragons were predators!"
-    Haley ""
+    Haley "Eu pensei que todos os dragões eram predadores!"
 
 # game/logic/locations/corridor.rpy:1315
 translate brazilian train_end_16_1_ae8734d1:
 
     # ch_Name "Haley, don't worry about it."
-    ch_Name ""
+    ch_Name "Haley, não se preocupe com isso."
 
 # game/logic/locations/corridor.rpy:1319
 translate brazilian train_end_16_1_17fa1d94:
 
     # ch_Name "They would have attacked a long time ago!"
-    ch_Name ""
+    ch_Name "Eles já teriam atacado há muito tempo!"
 
 # game/logic/locations/corridor.rpy:1323
 translate brazilian train_end_16_1_d3c17d2c:
 
     # Haley "I guess you're right."
-    Haley ""
+    Haley "É, acho que você está certo."
 
 # game/logic/locations/corridor.rpy:1327
 translate brazilian train_end_16_1_c488fc38:
 
     # Haley "Sorry, I'm a little afraid of all lizards..."
-    Haley ""
+    Haley "Desculpa, não sou muito chegada a lagartos..."
 
 # game/logic/locations/corridor.rpy:1331
 translate brazilian train_end_16_1_eb8c6edb:
 
     # Haley "Especially flying ones."
-    Haley ""
+    Haley "Especialmente os que voam."
 
 # game/logic/locations/corridor.rpy:1335
 translate brazilian train_end_16_1_6a410dd4:
 
     # ch_Name "I wonder what other surprises this day has in store for us."
-    ch_Name ""
+    ch_Name "Imagina que outras surpresas esse dia ainda vai nos trazer."
 
 # game/logic/locations/corridor.rpy:1339
 translate brazilian train_end_16_1_2fc24f18:
 
     # Haley "I guess we're about to find out!"
-    Haley ""
+    Haley "Acho que estamos prestes a descobrir."
 
 # game/logic/locations/corridor.rpy:1344
 translate brazilian test_label_ep1_1_63bf38a9:
 
     # Haley "There's a tunnel ahead."
-    Haley ""
+    Haley "Tem um túnel adiante."
 
 # game/logic/locations/corridor.rpy:1354
 translate brazilian test_label_ep1_1_aa81c689:
 
     # ch_Name "...What a long tunnel..."
-    ch_Name ""
+    ch_Name "...Que túnel comprido..."
 
 # game/logic/locations/corridor.rpy:1356
 translate brazilian test_label_ep1_1_dba360aa:
 
     # Haley "It's like an eternity."
-    Haley ""
+    Haley "Parece uma eternidade."
 
 # game/logic/locations/corridor.rpy:1358
 translate brazilian test_label_ep1_1_919dda1c:
 
     # Haley "In some cultures, a dark tunnel symbolizes the passage between worlds."
-    Haley ""
+    Haley "Em algumas culturas, um túnel escuro simboliza a passagem entre mundos."
 
 # game/logic/locations/corridor.rpy:1360
 translate brazilian test_label_ep1_1_ff4bddfb:
 
     # Haley "Or the afterlife..."
-    Haley ""
+    Haley "Ou para o além..."
 
 # game/logic/locations/corridor.rpy:1362
 translate brazilian test_label_ep1_1_1287c9b0:
 
     # ch_Name "How do you know all this?"
-    ch_Name ""
+    ch_Name "Como você sabe tudo isso?"
 
 # game/logic/locations/corridor.rpy:1364
 translate brazilian test_label_ep1_1_4100aa13:
 
     # Haley "My mother's a librarian."
-    Haley ""
+    Haley "Minha mãe é bibliotecária."
 
 # game/logic/locations/corridor.rpy:1368
 translate brazilian test_label_ep1_1_adfef7d0:
 
     # Haley "Look, I think we're almost there!"
-    Haley ""
+    Haley "Veja, acho que estamos quase chegando!"
 
 # game/logic/locations/corridor.rpy:1370
 translate brazilian test_label_ep1_1_e63181c2:
 
     # ch_Name "Yeah, I think dragons were a strong hint."
-    ch_Name ""
+    ch_Name "É, os dragões foram uma dica meio óbvia."
 
 # game/logic/locations/corridor.rpy:1378
 translate brazilian test_label_ep1_1_ffd0dea4:
 
     # Haley "You never know..."
-    Haley ""
+    Haley "Nunca se sabe..."
 
 # game/logic/locations/corridor.rpy:1382
 translate brazilian test_label_ep1_1_fac1f63a:
 
     # "Radio" "Applicants for the Cordale entrance exam..."
-    "Radio" ""
+    "Radio" "Candidatos para o exame de admissão de Cordale..."
 
 # game/logic/locations/corridor.rpy:1386
 translate brazilian test_label_ep1_1_3d481eee:
 
     # "Radio" "...please gather in the lobby of the station within 10 minutes. Don't be late."
-    "Radio" ""
+    "Radio" "...por favor compareçam ao lobby da estação em 10 minutos. Não se atrasem."
 
 # game/logic/locations/corridor.rpy:1390
 translate brazilian test_label_ep1_1_f01eb552:
 
     # Haley "So, into the unknown?"
-    Haley ""
+    Haley "Então, rumo ao desconhecido?"
 
 # game/logic/locations/corridor.rpy:1394
 translate brazilian test_label_ep1_1_6267bfe7:
 
     # Haley "[Name], hey, you coming?"
-    Haley ""
+    Haley "[Name], ei, você não vem?"
 
 # game/logic/locations/corridor.rpy:1398
 translate brazilian test_label_ep1_1_654929b0:
 
     # ch_Name "Go without me."
-    ch_Name ""
+    ch_Name "Vá sem mim."
 
 # game/logic/locations/corridor.rpy:1402
 translate brazilian test_label_ep1_1_8df2eae4:
 
     # ch_Name "I have to meet a friend."
-    ch_Name ""
+    ch_Name "Tenho que encontrar uma amiga."
 
 # game/logic/locations/corridor.rpy:1406
 translate brazilian test_label_ep1_1_7d9168ea:
 
     # ch_Name "I'll find you later."
-    ch_Name ""
+    ch_Name "Lhe encontro depois."
 
 # game/logic/locations/corridor.rpy:1414
 translate brazilian test_label_ep1_1_354a9cc9:
 
     # ch_Name "{i}(I need to find Samantha. Where was the meeting point?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Preciso encontrar Samantha. Onde era o ponto de encontro?){/i}"
 
 # game/logic/locations/corridor.rpy:1418
 translate brazilian test_label_ep1_1_939c46f3:
 
     # ch_Name "{i}(Ah! Think of the devil and here is!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ah! Pense no diabo e ele aparece!){/i}"
 
 # game/logic/locations/corridor.rpy:1422
 translate brazilian test_label_ep1_1_add9410c:
 
     # Samantha "[Name], there you are!"
-    Samantha ""
+    Samantha "[Name], aí você está!"
 
 # game/logic/locations/corridor.rpy:1426
 translate brazilian test_label_ep1_1_184a2fb8:
 
     # Samantha "Let's step aside."
-    Samantha ""
+    Samantha "Vamos chegar para cá."
 
 # game/logic/locations/corridor.rpy:1430
 translate brazilian test_label_ep1_1_e46aa815:
 
     # ch_Name "Samantha! I was just looking for you!"
-    ch_Name ""
+    ch_Name "Samantha! Estava lhe procurando!"
 
 # game/logic/locations/corridor.rpy:1434
 translate brazilian test_label_ep1_1_ca60e23b:
 
     # Samantha "Not here."
-    Samantha ""
+    Samantha "Aqui não."
 
 # game/logic/locations/corridor.rpy:1438
 translate brazilian test_label_ep1_1_b6d3dd39:
 
     # Samantha "Follow me."
-    Samantha ""
+    Samantha "Venha comigo."
 
 # game/logic/locations/corridor.rpy:1444
 translate brazilian test_label_ep1_1_981dad95:
 
     # ch_Name "Sam, wait up! Where are we going?"
-    ch_Name ""
+    ch_Name "Sam, espera! Aonde vamos?"
 
 # game/logic/locations/corridor.rpy:1448
 translate brazilian test_label_ep1_1_76c7b076:
