@@ -7612,133 +7612,133 @@ translate philippine adele_4_label_96789e78:
 translate philippine adele_4_label_fc3d0188:
 
     # ch_Name "I'm sorry. I'm not in Dale that often, I wasn't sure which cafe we were talking about."
-    ch_Name ""
+    ch_Name "Pasensya. 'Di ko pa kilala ang mga iba't-ibang bahagi ng Dale. 'Di ako sigurado kung saan ang cafe."
 
 # game/logic/events/adele.rpy:2320
 translate philippine adele_4_label_ce41f1d6:
 
     # Adele "It's okay."
-    Adele ""
+    Adele "Walang problema."
 
 # game/logic/events/adele.rpy:2321
 translate philippine adele_4_label_a88ffe6e:
 
     # Adele "I like to stop by this place before my shifts at the club."
-    Adele ""
+    Adele "Mahilig akong pumunta dito bago magsimula ang shift ko."
 
 # game/logic/events/adele.rpy:2322
 translate philippine adele_4_label_8a38a7f2:
 
     # Adele "It's always nice to talk to Ahchi. He makes great coffee, too."
-    Adele ""
+    Adele "Nakakasiya naman makipag-usap kay Ahchi. Ang sarap naman ng kape niya."
 
 # game/logic/events/adele.rpy:2323
 translate philippine adele_4_label_ad7df6c8:
 
     # Adele "So you're not from around here, huh?"
-    Adele ""
+    Adele "'Di ka pala taga-dito?"
 
 # game/logic/events/adele.rpy:2325
 translate philippine adele_4_label_e82f88a9:
 
     # ch_Name "Yeah, I go to Cordale. I'm going to be a magician."
-    ch_Name ""
+    ch_Name "Hindi. Nag-aaral ako sa Cordale. Magiging salamangkero ako."
 
 # game/logic/events/adele.rpy:2326
 translate philippine adele_4_label_01910b1e:
 
     # ch_Name "I come here on weekends, when our house wins the competition."
-    ch_Name ""
+    ch_Name "Pumupunta ako dito bawat Sabado, kapag nanalo ang aming angkan."
 
 # game/logic/events/adele.rpy:2327
 translate philippine adele_4_label_bae5b11a:
 
     # Adele "So that's it. Yeah, I've heard of that tradition."
-    Adele ""
+    Adele "Kaya pala. Nakarinig na ako ng ganyan."
 
 # game/logic/events/adele.rpy:2328
 translate philippine adele_4_label_c61c3729:
 
     # Adele "I've never been to Cordale. But the castle looks beautiful from afar."
-    Adele ""
+    Adele "'Di pa ako nakakapunta sa Cordale. Pero magandang tignan ang kastilyo."
 
 # game/logic/events/adele.rpy:2330
 translate philippine adele_4_label_5ecf0ffd:
 
     # Adele "I've already ordered everything for us. You don't mind, do you?"
-    Adele ""
+    Adele "Nakapag-order na ako ng pagkain. Wala naman bang problema 'yan?"
 
 # game/logic/events/adele.rpy:2331
 translate philippine adele_4_label_a697a4ef:
 
     # ch_Name "Of course, not. But I'm paying. I insist."
-    ch_Name ""
+    ch_Name "Siyempre hindi. Pero ang magbabayad."
 
 # game/logic/events/adele.rpy:2332
 translate philippine adele_4_label_5e9867b9:
 
     # Adele "Are you sure? That's very gentlemanly, but you're a student."
-    Adele ""
+    Adele "Sigurado ka? Napakaginoo naman, pero estudyante ka."
 
 # game/logic/events/adele.rpy:2334
 translate philippine adele_4_label_90ca88a4:
 
     # ch_Name "Hey. I asked you out."
-    ch_Name ""
+    ch_Name "Ako ang nagtawag sa iyo."
 
 # game/logic/events/adele.rpy:2335
 translate philippine adele_4_label_f80b27b8:
 
     # ch_Name "Let me woo you?"
-    ch_Name ""
+    ch_Name "Payagan mo ba akong lumandi sa iyo?"
 
 # game/logic/events/adele.rpy:2336
 translate philippine adele_4_label_f44b4e93:
 
     # Adele "Okay, well..."
-    Adele ""
+    Adele "Sige..."
 
 # game/logic/events/adele.rpy:2338
 translate philippine adele_4_label_42d06204:
 
     # Adele "How is it that the only gallant cavalier in town is a college student from out of town?"
-    Adele ""
+    Adele "Bakit ang nag-iisang mabuting lalaki dito ang estudyante na mula sa malayong siyudad?"
 
 # game/logic/events/adele.rpy:2339
 translate philippine adele_4_label_c9c0fd64:
 
     # Adele "Not to mention that you're the only one brave enough to ask me out."
-    Adele ""
+    Adele "'Di na nating banggitin na ikaw lang ang may tapang sa pagliligaw sa akin."
 
 # game/logic/events/adele.rpy:2340
 translate philippine adele_4_label_9584fac1:
 
     # ch_Name "The nerve of the town takes a toll."
-    ch_Name ""
+    ch_Name "Parang problema talaga 'yan."
 
 # game/logic/events/adele.rpy:2341
 translate philippine adele_4_label_4d2c70cd:
 
     # ch_Name "All the more reason I wouldn't forgive myself if I didn't try to get to know you better."
-    ch_Name ""
+    ch_Name "Higit pang dahilan na 'di ko mapapatawad ang sarili ko kapag hindi ko nakapagkilala sa iyo."
 
 # game/logic/events/adele.rpy:2343
 translate philippine adele_4_label_112e79a6:
 
     # Ahchi "Am I interrupting?"
-    Ahchi ""
+    Ahchi "Nagdidisturbo ba ako?"
 
 # game/logic/events/adele.rpy:2344
 translate philippine adele_4_label_9caf6e73:
 
     # Ahchi "Your order is ready."
-    Ahchi ""
+    Ahchi "Handa na ang pagkain ninyo."
 
 # game/logic/events/adele.rpy:2345
 translate philippine adele_4_label_b0eab1a5:
 
     # Adele "Of course. not! You're always welcome."
-    Adele ""
+    Adele "Hindi naman!"
 
 # game/logic/events/adele.rpy:2347
 translate philippine adele_4_label_44e7a185:
@@ -7750,145 +7750,145 @@ translate philippine adele_4_label_44e7a185:
 translate philippine adele_4_label_cc7c90fc:
 
     # Adele "This is delicious!"
-    Adele ""
+    Adele "Ang sarap!"
 
 # game/logic/events/adele.rpy:2350
 translate philippine adele_4_label_f8cefd7a:
 
     # Adele "Ahchi, you've outdone yourself!"
-    Adele ""
+    Adele "Ahchi, napakagaling ng ginawa mo!"
 
 # game/logic/events/adele.rpy:2351
 translate philippine adele_4_label_71fd2482:
 
     # Adele "Tell me, what's your secret?"
-    Adele ""
+    Adele "Sabihin mo ba ang sekreto mo?"
 
 # game/logic/events/adele.rpy:2352
 translate philippine adele_4_label_1bccb464:
 
     # Ahchi "It's simple. A pinch of dragon salt in homemade caramel."
-    Ahchi ""
+    Ahchi "Simple lang. Konting asin ng dragon sa karamelo."
 
 # game/logic/events/adele.rpy:2353
 translate philippine adele_4_label_bbbd5115:
 
     # Adele "I'll have to remember that. Thank you, sweetie."
-    Adele ""
+    Adele "Alalahanin ko 'yan. Salamat."
 
 # game/logic/events/adele.rpy:2355
 translate philippine adele_4_label_1d78a2bc:
 
     # ch_Name "{i}(She's so friendly and outgoing. It's so unusual.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Talagang palakaibigan siya. Nakakaiba para sa akin.){/i}"
 
 # game/logic/events/adele.rpy:2356
 translate philippine adele_4_label_1d422850:
 
     # ch_Name "{i}(Even Ahchi is embarrassed, I think.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kahit si Ahchi ay nahihiya.){/i}"
 
 # game/logic/events/adele.rpy:2357
 translate philippine adele_4_label_550706dc:
 
     # Adele "What are you waiting for? Try it!"
-    Adele ""
+    Adele "Ano pa ang hinihintay mo? Tikman mo!"
 
 # game/logic/events/adele.rpy:2359
 translate philippine adele_4_label_c69cc8f0:
 
     # ch_Name "Shit! You're right..."
-    ch_Name ""
+    ch_Name "Diyosko! Tama ka..."
 
 # game/logic/events/adele.rpy:2360
 translate philippine adele_4_label_0a4179b2:
 
     # ch_Name "This is the best coffee I've ever had in my life!"
-    ch_Name ""
+    ch_Name "Ito ang pinakamasarap na kape na natikman ko sa aking buhay!"
 
 # game/logic/events/adele.rpy:2362
 translate philippine adele_4_label_88e7539a:
 
     # Adele "Hehe... I told you!"
-    Adele ""
+    Adele "Sabi ko na nga!"
 
 # game/logic/events/adele.rpy:2363
 translate philippine adele_4_label_5cac7615:
 
     # Adele "This place energizes me for the day."
-    Adele ""
+    Adele "Napapasigla ako dito para sa araw."
 
 # game/logic/events/adele.rpy:2364
 translate philippine adele_4_label_b09b9312:
 
     # Adele "And it's delicious."
-    Adele ""
+    Adele "At masarap naman."
 
 # game/logic/events/adele.rpy:2371
 translate philippine adele_4_label_e789b04b:
 
     # ch_Name "...So I lost my athletic scholarship."
-    ch_Name ""
+    ch_Name "...Nawala ko ang aking scholarship sa paglalaro."
 
 # game/logic/events/adele.rpy:2372
 translate philippine adele_4_label_6bfe6b1e:
 
     # Adele "{i}(Oh, did I hit the jackpot - both wizard and athlete?){/i}"
-    Adele ""
+    Adele "{i}(Gintong gantimpala - salamangkero at atleta?){/i}"
 
 # game/logic/events/adele.rpy:2373
 translate philippine adele_4_label_8419f245:
 
     # Adele "{i}(And so cute...){/i}"
-    Adele ""
+    Adele "{i}(At ang cute niya...){/i}"
 
 # game/logic/events/adele.rpy:2374
 translate philippine adele_4_label_d6390218:
 
     # ch_Name "{i}(Is she so relaxed that I can hear her thoughts? Everything seems to be going well.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ganun ba siya ka-relax na naririnig ko ang iniisip niya? Parang ayos ang lahat.){/i}"
 
 # game/logic/events/adele.rpy:2381
 translate philippine adele_4_label_97ba41e0:
 
     # Adele "Oh, we've been sitting here too long..."
-    Adele ""
+    Adele "Oh, sobrang tagal na nating nakaupo dito..."
 
 # game/logic/events/adele.rpy:2382
 translate philippine adele_4_label_1775f012:
 
     # Adele "I confess, I didn't expect anything good from this date."
-    Adele ""
+    Adele "Sa totoo lang, 'di ko inasahang mabuti sa ito."
 
 # game/logic/events/adele.rpy:2383
 translate philippine adele_4_label_176f3b45:
 
     # Adele "But you pleasantly surprised me, [Name]."
-    Adele ""
+    Adele "Pero nasorpresa mo ako, [Name]."
 
 # game/logic/events/adele.rpy:2384
 translate philippine adele_4_label_ef064e54:
 
     # Adele "Alas, I have to run. The club opening is coming up."
-    Adele ""
+    Adele "Sayang, pero tatakbo na ako. Bubukas na ang club."
 
 # game/logic/events/adele.rpy:2386
 translate philippine adele_4_label_81420d10:
 
     # ch_Name "I had a great time, too. Adele."
-    ch_Name ""
+    ch_Name "Napasiya mo ako. Adele."
 
 # game/logic/events/adele.rpy:2387
 translate philippine adele_4_label_71093c38:
 
     # ch_Name "You're incredible."
-    ch_Name ""
+    ch_Name "Napakabait mo."
 
 # game/logic/events/adele.rpy:2388
 translate philippine adele_4_label_878f6746:
 
     # ch_Name "Maybe you'd like to do it again sometime?"
-    ch_Name ""
+    ch_Name "Gagawin ba natin ito sa susunod?"
 
 # game/logic/events/adele.rpy:2389
 translate philippine adele_4_label_b786b006:
@@ -7900,25 +7900,25 @@ translate philippine adele_4_label_b786b006:
 translate philippine adele_4_label_105280ce:
 
     # Adele "{i}(A second date? It's been a while since I've gotten this far with someone.){/i}"
-    Adele ""
+    Adele "{i}(Ikalawang date? Ang tagal ko nang 'di nakaabot sa ikalawang pagkakataon.){/i}"
 
 # game/logic/events/adele.rpy:2392
 translate philippine adele_4_label_08384f43:
 
     # Adele "{i}(But why not? I had fun tonight.){/i}"
-    Adele ""
+    Adele "{i}(Bakit hindi? Napakasaya naman siya.){/i}"
 
 # game/logic/events/adele.rpy:2393
 translate philippine adele_4_label_befac959:
 
     # Adele "Okay. I'm in."
-    Adele ""
+    Adele "Sige. Pwede."
 
 # game/logic/events/adele.rpy:2395
 translate philippine adele_4_label_267d64ff:
 
     # Adele "I have to go..."
-    Adele ""
+    Adele "Aalis na ako..."
 
 # game/logic/events/adele.rpy:2400
 translate philippine adele_4_label_4e345aed:
@@ -7930,7 +7930,7 @@ translate philippine adele_4_label_4e345aed:
 translate philippine adele_4_label_a14d45d2:
 
     # ch_Name "Wait, don't go so fast..."
-    ch_Name ""
+    ch_Name "Sandali, maghintay ka muna..."
 
 # game/logic/events/adele.rpy:2403
 translate philippine adele_4_label_88c90f72:
@@ -7942,19 +7942,19 @@ translate philippine adele_4_label_88c90f72:
 translate philippine adele_4_label_3887b3ec:
 
     # ch_Name "I don't want it to end so quickly."
-    ch_Name ""
+    ch_Name "'Di ko gusto na matatapos na ito."
 
 # game/logic/events/adele.rpy:2405
 translate philippine adele_4_label_a7d92bf5:
 
     # ch_Name "How about a kiss goodbye?"
-    ch_Name ""
+    ch_Name "Pero pwede ba kitang halikan?"
 
 # game/logic/events/adele.rpy:2406
 translate philippine adele_4_label_cd1c6732:
 
     # Adele "You weren't kidding about the chutzpah, were you? Well..."
-    Adele ""
+    Adele "'Di ka ba nagbibiro sa tapang mo? Sige..."
 
 # game/logic/events/adele.rpy:2408
 translate philippine adele_4_label_feae0437:
@@ -7966,13 +7966,13 @@ translate philippine adele_4_label_feae0437:
 translate philippine adele_4_label_41c5f930:
 
     # ch_Name "{i}(Her lips are still sweet from her coffee and caramel...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Matamis pa ang kanyang bibig sa kape at karamelo...){/i}"
 
 # game/logic/events/adele.rpy:2411
 translate philippine adele_4_label_a22620e8:
 
     # ch_Name "{i}(Would've spent the whole day without taking my eyes off of them.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Buong araw ko titignan kapag pwede.){/i}"
 
 # game/logic/events/adele.rpy:2412
 translate philippine adele_4_label_8982e1c4:
@@ -7984,43 +7984,43 @@ translate philippine adele_4_label_8982e1c4:
 translate philippine adele_4_label_4caae414:
 
     # ch_Name "That's better."
-    ch_Name ""
+    ch_Name "Mas mabuti na."
 
 # game/logic/events/adele.rpy:2415
 translate philippine adele_4_label_c23ba6d5:
 
     # Adele "All right, that's it for you, cowboy."
-    Adele ""
+    Adele "Sige, tama na 'yan, bakero."
 
 # game/logic/events/adele.rpy:2416
 translate philippine adele_4_label_b7383fab:
 
     # Adele "I had fun, I really did."
-    Adele ""
+    Adele "Masaya talaga."
 
 # game/logic/events/adele.rpy:2417
 translate philippine adele_4_label_c010be43:
 
     # Adele "But I gotta run."
-    Adele ""
+    Adele "Pero tatakbo na ako."
 
 # game/logic/events/adele.rpy:2418
 translate philippine adele_4_label_25e265a2:
 
     # Adele "I'll see you later."
-    Adele ""
+    Adele ""Magkikita tayo ulit.
 
 # game/logic/events/adele.rpy:2422
 translate philippine adele_4_label_4a01fe35:
 
     # ch_Name "Thanks for a great day, I had fun."
-    ch_Name ""
+    ch_Name "Salamat sa pagpabuti ng araw ko."
 
 # game/logic/events/adele.rpy:2423
 translate philippine adele_4_label_7a22acde:
 
     # Adele "Me too. I'll see you later!"
-    Adele ""
+    Adele "Ako rin. Sa susunod naman!"
 
 # game/logic/events/adele.rpy:2424
 translate philippine adele_4_label_f9c3f5c7:
@@ -8032,85 +8032,85 @@ translate philippine adele_4_label_f9c3f5c7:
 translate philippine adele_4_label_48fb04cb:
 
     # ch_Name "{i}(Oddly enough, the date went great.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Napakaayos naman ng nangyari.){/i}"
 
 # game/logic/events/adele.rpy:2434
 translate philippine adele_4_label_2721a194:
 
     # ch_Name "{i}(I don't know what I expected, but Adele turned out to be a very simple and nice girl.){/i}"
-    ch_Name ""
+    ch_Name "{i}('Di ko alam ang inaasahan ko, pero mahusay  at mabait naman talaga si Adele.){/i}"
 
 # game/logic/events/adele.rpy:2435
 translate philippine adele_4_label_4f6c5899:
 
     # ch_Name "{i}(Well, I don't have much time left before the ship arrives.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Konti nalang ang oras ko bago dumating ang barko.){/i}"
 
 # game/logic/events/adele.rpy:2436
 translate philippine adele_4_label_aaae5135:
 
     # ch_Name "{i}(It's a good time to walk down the walkway and take in the views from the observation deck.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Magandang panahon ito para lumakad sa observation deck.){/i}"
 
 # game/logic/events/adele.rpy:2438
 translate philippine adele_4_label_ac52552f:
 
     # ch_Name "{i}(Huh, I'm not the only one who seems to have genius ideas.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Huh, hindi lang ako ang may mga mabuting ideya.){/i}"
 
 # game/logic/events/adele.rpy:2439
 translate philippine adele_4_label_a261f3b3:
 
     # ch_Name "{i}(I wouldn't mistake this girl for anyone else.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi ko ipagkakamalang-iba ang babaeng ito.){/i}"
 
 # game/logic/events/adele.rpy:2440
 translate philippine adele_4_label_f712fa40:
 
     # ch_Name "{i}(Haley seems to be enjoying the views, too.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parang nasisiyahan man si Haley.){/i}"
 
 # game/logic/events/adele.rpy:2443
 translate philippine adele_4_label_b6c891aa:
 
     # ch_Name "{i}(Well, I couldn't ask for better company.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wala namang mas mabuti na kasama.){/i}"
 
 # game/logic/events/adele.rpy:2444
 translate philippine adele_4_label_2190eba7:
 
     # ch_Name "{i}(I hope she thinks the same of me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sana 'yan din ang tingin niya sa akin.){/i}"
 
 translate philippine strings:
 
     # game/logic/events/adele.rpy:8
     old "Girl"
-    new ""
+    new "Babae"
 
     # game/logic/events/adele.rpy:8
     old "Shemale"
-    new ""
+    new "Babaeng may titi"
 
     # game/logic/events/adele.rpy:23
     old "Talk to Adele"
-    new ""
+    new "Mag-usap kay Adele"
 
     # game/logic/events/adele.rpy:215
     old "Accept the drink"
-    new ""
+    new "Tanggapin ang inuman."
 
     # game/logic/events/adele.rpy:215
     old "Ask for a beer"
-    new ""
+    new "Humingi ng serbesa"
 
     # game/logic/events/adele.rpy:215
     old "Decline the drink"
-    new ""
+    new "Mag-ayaw sa pag-iinom"
 
     # game/logic/events/adele.rpy:389
     old "No one"
-    new ""
+    new "Wala"
 
     # game/logic/events/adele.rpy:559
     old "!VIP lounge ($100)"
@@ -8126,31 +8126,31 @@ translate philippine strings:
 
     # game/logic/events/adele.rpy:559
     old "Not tonight"
-    new ""
+    new "Hindi ngayong gabi"
 
     # game/logic/events/adele.rpy:846
     old "Nothing today"
-    new ""
+    new "Wala"
 
     # game/logic/events/adele.rpy:846
     old "Jerk me off"
-    new ""
+    new "Magbigay ng handjob"
 
     # game/logic/events/adele.rpy:846
     old "I want lap dance"
-    new ""
+    new "Gusto ko nang lap dance"
 
     # game/logic/events/adele.rpy:1137
     old "Let's try \"69\""
-    new ""
+    new "Subukan ang \"69\""
 
     # game/logic/events/adele.rpy:1753
     old "Beer"
-    new ""
+    new "Serbesa"
 
     # game/logic/events/adele.rpy:1753
     old "Your cocktail"
-    new ""
+    new "Ang cocktail mo"
 
     # game/logic/events/adele.rpy:1753
     old "Juice"
@@ -8158,15 +8158,15 @@ translate philippine strings:
 
     # game/logic/events/adele.rpy:1753
     old "Nothing"
-    new ""
+    new "Wala"
 
     # game/logic/events/adele.rpy:1905
     old "Break free"
-    new ""
+    new "Tumakas"
 
     # game/logic/events/adele.rpy:1905
     old "Let her bite you"
-    new ""
+    new "Papayagin siyang kagatin ka"
 
     # game/logic/events/adele.rpy:1994
     old "Bloody Mary"
@@ -8174,41 +8174,41 @@ translate philippine strings:
 
     # game/logic/events/adele.rpy:1994
     old "Non-alcoholic mojito"
-    new ""
+    new "Mojito na walang alak"
 
     # game/logic/events/adele.rpy:2070
     old "Accept"
-    new ""
+    new "Pumayag"
 
     # game/logic/events/adele.rpy:2070
     old "Reject"
-    new ""
+    new "Tanggihan"
 
     # game/logic/events/adele.rpy:2202
     old "Go to sleep"
-    new ""
+    new "Matulog"
 
     # game/logic/events/adele.rpy:2214
     old "Sadira's table"
-    new ""
+    new "Mesa ni Sadira"
 
     # game/logic/events/adele.rpy:2221
     old "Lucy's table"
-    new ""
+    new "Mesa ni Lucy"
 
     # game/logic/events/adele.rpy:2231
     old "1 Talk to Vanessa"
-    new ""
+    new "Makipag-usap kay Vanessa"
 
     # game/logic/events/adele.rpy:2231
     old "2 Talk to Vanessa"
-    new ""
+    new "Makipag-usap kay Vanessa"
 
     # game/logic/events/adele.rpy:2396
     old "Kiss her"
-    new ""
+    new "Halikan siya"
 
     # game/logic/events/adele.rpy:2396
     old "Say goodbye"
-    new ""
+    new "Magpaalam"
 
