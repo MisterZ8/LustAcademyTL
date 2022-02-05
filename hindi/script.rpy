@@ -814,39 +814,39 @@ translate hindi strings:
 
     # game/script.rpy:340
     old "Note that our game features LGBTQ+ scenes. If you're not interested in stuff like that at all, you can turn this option"
-    new ""
+    new "Note: Is game me LGBTQ+ scenes hai, agar aap interested nahi hai to ise off kar saakte hai."
 
     # game/script.rpy:340
     old "off right now (you can always turn it on later, in the settings). Leave this option enabled if you're only"
-    new ""
+    new "Abhi ke liye Off (Baad me settings me on kiya ja sakta hai)"
 
     # game/script.rpy:340
     old "interested in some of the possible content. Don't worry! We'll ask you beforehand each"
-    new ""
+    new "Dont worry!Hum aapse har scenes"
 
     # game/script.rpy:340
     old "time there's a chance to encounter such interactions."
-    new ""
+    new "ke pehle poochenge."
 
     # game/script.rpy:340
     old "Do you want to enable LGBTQ+ content?"
-    new ""
+    new "LGBTQ+ On rakhe ya off?"
 
     # game/script.rpy:351
     old "Enable"
-    new ""
+    new "ON"
 
     # game/script.rpy:352
     old "Disable"
-    new ""
+    new "OFF"
 
     # game/script.rpy:356
     old "On Sunday evening, all students return to Cordale. So you did."
-    new ""
+    new "Sunday ko shaam me saare students Cordale laut aaye , aap bhi."
 
     # game/script.rpy:728
     old "{b}Olivia{/b} said I have to talk to Don about this rent thing. \nHe should be in the living room."
-    new ""
+    new "{b}Olivia[/b} ne mujhe Don se baat karne ko bola hai.\nWo living room me honge."
 
     # game/script.rpy:748
     old "Enter your name"
