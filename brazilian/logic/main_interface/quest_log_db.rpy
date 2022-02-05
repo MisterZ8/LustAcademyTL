@@ -990,6 +990,7 @@ translate brazilian strings:
     old "Learn the Rictusempra spell  by continuing to attend Victoria's classes."
     new "Aprenda o feitiço Rictumsempra continuando a assistir as aulas de Victoria."
 
+
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Recipe \"Inspiration\""
     new "Receita de \"Inspiração\""

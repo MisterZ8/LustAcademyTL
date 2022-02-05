@@ -4,13 +4,13 @@ translate deutsch strings:
 
     # game/logic/main_interface/give_book_screen.rpy:80
     old "Get points"
-    new ""
+    new "Punkte sammeln"
 
     # game/logic/main_interface/give_book_screen.rpy:91
     old "Chose the quantity:"
-    new ""
+    new "Menge auswählen"
 
     # game/logic/main_interface/give_book_screen.rpy:124
     old "Confirm"
-    new ""
+    new "Bestätigen"
 
