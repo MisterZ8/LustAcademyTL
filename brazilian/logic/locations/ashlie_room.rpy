@@ -58,5 +58,5 @@ translate brazilian ashlie_room_label_7f0478cb:
 translate brazilian ashlie_room_label_de7a2503:
 
     # ch_Name "{i}(Don's probably waiting for me in the living room.){/i}"
-    ch_Name "{i}(Don provavelmnte ta me esperando na sala de estar.){/i}"
+    ch_Name "{i}(Don provavelmente está me esperando na sala de estar.){/i}"
 
