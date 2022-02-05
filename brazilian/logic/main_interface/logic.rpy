@@ -4,5 +4,5 @@ translate brazilian strings:
 
     # game/logic/main_interface/logic.rpy:262
     old "Club Enter"
-    new ""
+    new "Entrada do Clube"
 
