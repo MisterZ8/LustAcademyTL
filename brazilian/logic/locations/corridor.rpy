@@ -2458,453 +2458,453 @@ translate brazilian test_label_ep1_1_981dad95:
 translate brazilian test_label_ep1_1_76c7b076:
 
     # Samantha "Shh! Speak quietly. "
-    Samantha ""
+    Samantha "Shh! Fale baixo."
 
 # game/logic/locations/corridor.rpy:1452
 translate brazilian test_label_ep1_1_0c755b8e:
 
     # Samantha "I came to warn you."
-    Samantha ""
+    Samantha "Eu vim lhe alertar."
 
 # game/logic/locations/corridor.rpy:1456
 translate brazilian test_label_ep1_1_90c322f2:
 
     # Samantha "As I've promised I will."
-    Samantha ""
+    Samantha "Como eu prometi."
 
 # game/logic/locations/corridor.rpy:1460
 translate brazilian test_label_ep1_1_0e717334:
 
     # ch_Name "About what?"
-    ch_Name ""
+    ch_Name "Sobre o quê?"
 
 # game/logic/locations/corridor.rpy:1464
 translate brazilian test_label_ep1_1_9e619138:
 
     # Samantha "About the entrance exam. "
-    Samantha ""
+    Samantha "Sobre o exame de adminssão."
 
 # game/logic/locations/corridor.rpy:1468
 translate brazilian test_label_ep1_1_4ffc325c:
 
     # Samantha "Did you notice anything unusual while on the train?"
-    Samantha ""
+    Samantha "Você notou algo de diferente enquanto estava no trem?"
 
 # game/logic/locations/corridor.rpy:1472
 translate brazilian test_label_ep1_1_9d29fade:
 
     # ch_Name "You mean like dragons outside the window?"
-    ch_Name ""
+    ch_Name "Como dragões voando do lado de fora?"
 
 # game/logic/locations/corridor.rpy:1476
 translate brazilian test_label_ep1_1_8fd00b75:
 
     # ch_Name "Of course I noticed dragons, they are freaking dragons, come on!"
-    ch_Name ""
+    ch_Name "Claro que notei os dragões. Eram dragões, porra, claro!"
 
 # game/logic/locations/corridor.rpy:1480
 translate brazilian test_label_ep1_1_b39c85d6:
 
     # Samantha "I'm not talking about that, you fool. "
-    Samantha ""
+    Samantha "Não estou falando disso, besta."
 
 # game/logic/locations/corridor.rpy:1484
 translate brazilian test_label_ep1_1_1db51077:
 
     # Samantha "Did you notice anything unusual behind you?"
-    Samantha ""
+    Samantha "Você notou algo diferente com você?"
 
 # game/logic/locations/corridor.rpy:1488
 translate brazilian test_label_ep1_1_91e785f7:
 
     # Samantha "Did you feel... powerful?"
-    Samantha ""
+    Samantha "Você se sentiu... poderoso?"
 
 # game/logic/locations/corridor.rpy:1492
 translate brazilian test_label_ep1_1_066bb089:
 
     # ch_Name "{i}(I thought I could hear Haley's thoughts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Achei que consegui ouvi os pensamento de Haley.){/i}"
 
 # game/logic/locations/corridor.rpy:1496
 translate brazilian test_label_ep1_1_e382213f:
 
     # ch_Name "{i}(Should I tell Sam about this?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Devo falar a Sam sobre isso?){/i}"
 
 # game/logic/locations/corridor.rpy:1508
 translate brazilian test_label_ep1_1_e6fe81a2:
 
     # Samantha "Is that true? What am I thinking right now?"
-    Samantha ""
+    Samantha "É verdade? O que estou pensando agora?"
 
 # game/logic/locations/corridor.rpy:1514
 translate brazilian end_no_nothing_855666ac:
 
     # Samantha "Don't be afraid of me, pal. I am trying to help."
-    Samantha ""
+    Samantha "Não tenha medo de mim, cara. Estou tentando ajudar."
 
 # game/logic/locations/corridor.rpy:1516
 translate brazilian end_no_nothing_f7b247cf:
 
     # ch_Name "I'm not even sure anything happened."
-    ch_Name ""
+    ch_Name "Não tenho certeza nem que aconteceu."
 
 # game/logic/locations/corridor.rpy:1518
 translate brazilian end_no_nothing_edbc7c5d:
 
     # Samantha "What could have happened?"
-    Samantha ""
+    Samantha "O que teria acontecido?"
 
 # game/logic/locations/corridor.rpy:1520
 translate brazilian end_no_nothing_191158e4:
 
     # Samantha "Sparks from your fingers?"
-    Samantha ""
+    Samantha "Fagulhas saindo dos seus dedos?"
 
 # game/logic/locations/corridor.rpy:1522
 translate brazilian end_no_nothing_a7ca91d9:
 
     # Samantha "Did you shatter glass just by looking at it?"
-    Samantha ""
+    Samantha "Quebrou vidro só de olhar para ele?"
 
 # game/logic/locations/corridor.rpy:1524
 translate brazilian end_no_nothing_df06b3a5:
 
     # Samantha "Did you read someone's thoughts?"
-    Samantha ""
+    Samantha "Você leu os pensamentos de alguém?"
 
 # game/logic/locations/corridor.rpy:1526
 translate brazilian end_no_nothing_902f5322:
 
     # ch_Name "How did you know?"
-    ch_Name ""
+    ch_Name "Como você sabe?"
 
 # game/logic/locations/corridor.rpy:1528
 translate brazilian end_no_nothing_31ab1b88:
 
     # Samantha "I know everything! Remember that. Come on, read my mind!"
-    Samantha ""
+    Samantha "Eu sei de tudo! Lembre disso. Vai, leia a minha mente!"
 
 # game/logic/locations/corridor.rpy:1530
 translate brazilian end_no_nothing_537e3051:
 
     # ch_Name "I don't know how to do it on purpose..."
-    ch_Name ""
+    ch_Name "Não sei como fazer isso de propósito..."
 
 # game/logic/locations/corridor.rpy:1532
 translate brazilian end_no_nothing_177dee75:
 
     # ch_Name "I'm not at all sure that that happened."
-    ch_Name ""
+    ch_Name "Não tenho certeza que realmente aconteceu."
 
 # game/logic/locations/corridor.rpy:1534
 translate brazilian end_no_nothing_5239c40e:
 
     # Samantha "Make sure you remember one thing: in this place nothing \"seems\" a certain way without reason."
-    Samantha ""
+    Samantha "Lembre sempre de uma coisa: nesse lugar nada \"parece\" de algum jeito sem motivo."
 
 # game/logic/locations/corridor.rpy:1536
 translate brazilian end_no_nothing_b57e43d9:
 
     # Samantha "Concentrate and look me in the eyes."
-    Samantha ""
+    Samantha "Se concentre e olhe nos meus olhos."
 
 # game/logic/locations/corridor.rpy:1544
 translate brazilian Read_Samanthas_thoughts_label_75fed526:
 
     # "{i}Sam is humming Avril Lavigne - Girlfriend in her mind.{/i}"
-    ""
+    "{i}Sam está cantarolando Girlfriend, de Avril Lavigne, na sua mente.{/i}"
 
 # game/logic/locations/corridor.rpy:1546
 translate brazilian Read_Samanthas_thoughts_label_90ddfdc6:
 
     # ch_Name "You have terrible taste in music."
-    ch_Name ""
+    ch_Name "Você tem péssimo gosto para música."
 
 # game/logic/locations/corridor.rpy:1548
 translate brazilian Read_Samanthas_thoughts_label_35f374ae:
 
     # Samantha "Very cool! Try again!"
-    Samantha ""
+    Samantha "Que legal! Tente de novo!"
 
 # game/logic/locations/corridor.rpy:1554
 translate brazilian Read_Samanthas_thoughts_label_b592d5b3:
 
     # "{i}Samantha's thoughts: (Inaudible interference.){/i}"
-    ""
+    "{i}Pensamentos de Samantha: (Interferência inaudível.){/i}"
 
 # game/logic/locations/corridor.rpy:1556
 translate brazilian Read_Samanthas_thoughts_label_acdef95d:
 
     # ch_Name "I... I can't..."
-    ch_Name ""
+    ch_Name "Eu... Não consigo..."
 
 # game/logic/locations/corridor.rpy:1558
 translate brazilian Read_Samanthas_thoughts_label_861e54b9:
 
     # Samantha "This is called a \"mental block.\""
-    Samantha ""
+    Samantha "Isso se chama \"bloqueio mental.\""
 
 # game/logic/locations/corridor.rpy:1560
 translate brazilian Read_Samanthas_thoughts_label_89231c2e:
 
     # Samantha "A telepath of your level will not be able to read the thoughts of a talented magician like me."
-    Samantha ""
+    Samantha "Um telepata do seu nível não será capaz de ler os pensamentos de uma maga talentosa como eu."
 
 # game/logic/locations/corridor.rpy:1562
 translate brazilian Read_Samanthas_thoughts_label_bd9158ad:
 
     # Samantha "The first time I “let” you do it."
-    Samantha ""
+    Samantha "Na primeira vez eu \"deixei\" você ler."
 
 # game/logic/locations/corridor.rpy:1564
 translate brazilian Read_Samanthas_thoughts_label_5a8cbd85:
 
     # ch_Name "Sounds like a useless ability."
-    ch_Name ""
+    ch_Name "Parece uma habilidade útil."
 
 # game/logic/locations/corridor.rpy:1566
 translate brazilian Read_Samanthas_thoughts_label_89d75694:
 
     # Samantha "You will have plenty of time to practice your skill."
-    Samantha ""
+    Samantha "Você vai ter bastante tempo para praticar sua habilidade."
 
 # game/logic/locations/corridor.rpy:1568
 translate brazilian Read_Samanthas_thoughts_label_3ef9f68f:
 
     # Samantha "If you don't fail the entrance exams..."
-    Samantha ""
+    Samantha "Se você não levar bomba no exame de admissão..."
 
 # game/logic/locations/corridor.rpy:1570
 translate brazilian Read_Samanthas_thoughts_label_ccfb137f:
 
     # Samantha "...and your memory isn't erased."
-    Samantha ""
+    Samantha "...e sua memória não for apagada."
 
 # game/logic/locations/corridor.rpy:1572
 translate brazilian Read_Samanthas_thoughts_label_bacd6e13:
 
     # ch_Name "My memory isn't erased?!"
-    ch_Name ""
+    ch_Name "Minha memória não for apagada?!"
 
 # game/logic/locations/corridor.rpy:1574
 translate brazilian Read_Samanthas_thoughts_label_5aa7f8a1:
 
     # Samantha "Damn, that's why I was looking for you."
-    Samantha ""
+    Samantha "Droga, por isso que estava procurando por você."
 
 # game/logic/locations/corridor.rpy:1576
 translate brazilian Read_Samanthas_thoughts_label_e8dcf684:
 
     # Samantha "Listen!"
-    Samantha ""
+    Samantha "Ouça!"
 
 # game/logic/locations/corridor.rpy:1578
 translate brazilian Read_Samanthas_thoughts_label_f75a62da:
 
     # Samantha "All freshmen will have an entrance exam in magic. "
-    Samantha ""
+    Samantha "Todos os calouros fazem um exame admissional em magia."
 
 # game/logic/locations/corridor.rpy:1580
 translate brazilian Read_Samanthas_thoughts_label_bb4487e3:
 
     # Samantha "If you fail, your memory will be erased and you'll be sent back to the world without magic."
-    Samantha ""
+    Samantha "Se você perder, sua memória será apagada e você será enviado de volta ao mundo sem magia."
 
 # game/logic/locations/corridor.rpy:1582
 translate brazilian Read_Samanthas_thoughts_label_31a35028:
 
     # Samantha "And you will never be able to come here again. Ever."
-    Samantha ""
+    Samantha "E você nunca mais poderá voltar aqui. Nunca."
 
 # game/logic/locations/corridor.rpy:1584
 translate brazilian Read_Samanthas_thoughts_label_5f55f2f9:
 
     # ch_Name "What should I do?"
-    ch_Name ""
+    ch_Name "E o que devo fazer?"
 
 # game/logic/locations/corridor.rpy:1586
 translate brazilian Read_Samanthas_thoughts_label_94837700:
 
     # Samantha "Don't fail the exam."
-    Samantha ""
+    Samantha "Não leve bomba no exame."
 
 # game/logic/locations/corridor.rpy:1588
 translate brazilian Read_Samanthas_thoughts_label_26c73589:
 
     # ch_Name "And this is your wise advice?!"
-    ch_Name ""
+    ch_Name "E esse é seu conselho?!"
 
 # game/logic/locations/corridor.rpy:1590
 translate brazilian Read_Samanthas_thoughts_label_95264c4f:
 
     # Samantha "Let me finish, you goof!"
-    Samantha ""
+    Samantha "Me deixe terminar, seu bocó!"
 
 # game/logic/locations/corridor.rpy:1592
 translate brazilian Read_Samanthas_thoughts_label_85f1d0f3:
 
     # Samantha "Magic is powered by Passion. Remember this during the exam."
-    Samantha ""
+    Samantha "Magia é energizada pela Paixão. Lembre disso durante a prova."
 
 # game/logic/locations/corridor.rpy:1594
 translate brazilian Read_Samanthas_thoughts_label_2e16d0e1:
 
     # Samantha "Focus on something that you have a passion for and you will definitely succeed."
-    Samantha ""
+    Samantha "Foque em algo que seja apaixonado e você irá se dar bem, com certeza."
 
 # game/logic/locations/corridor.rpy:1596
 translate brazilian Read_Samanthas_thoughts_label_ad676582:
 
     # ch_Name "But why am I just now... starting to read minds?"
-    ch_Name ""
+    ch_Name "Mas, só agora, eu estou... começando a ler mentes?"
 
 # game/logic/locations/corridor.rpy:1598
 translate brazilian Read_Samanthas_thoughts_label_5d204ef4:
 
     # Samantha "This is no ordinary train. "
-    Samantha ""
+    Samantha "Esse trem não é um trem comum."
 
 # game/logic/locations/corridor.rpy:1600
 translate brazilian Read_Samanthas_thoughts_label_fe1e6bdf:
 
     # Samantha "To prepare students for the difficult exam..."
-    Samantha ""
+    Samantha "Para preparar os alunos para a prova difícil..."
 
 # game/logic/locations/corridor.rpy:1602
 translate brazilian Read_Samanthas_thoughts_label_3a5969fd:
 
     # Samantha "...the Cordale train saturates everything inside with magical power."
-    Samantha ""
+    Samantha "...o trem de Cordale satura tudo dentro dele com poder mágico."
 
 # game/logic/locations/corridor.rpy:1604
 translate brazilian Read_Samanthas_thoughts_label_75c459dd:
 
     # Samantha "While you slept, it charged you with power, like a battery."
-    Samantha ""
+    Samantha "Enquanto você dormia, ele lhe carregou com poder, como uma bateria."
 
 # game/logic/locations/corridor.rpy:1606
 translate brazilian Read_Samanthas_thoughts_label_f594ccec:
 
     # Radio "First year students..."
-    Radio ""
+    Radio "Calouros..."
 
 # game/logic/locations/corridor.rpy:1608
 translate brazilian Read_Samanthas_thoughts_label_764a091a:
 
     # Radio "...who do not appear on the platform within a minute..."
-    Radio ""
+    Radio "...que não estiverem na plataforma dentro de um minuto..."
 
 # game/logic/locations/corridor.rpy:1610
 translate brazilian Read_Samanthas_thoughts_label_490283c6:
 
     # Radio "...will lose the opportunity to take part in the entrance exam."
-    Radio ""
+    Radio "...perderão a oportunidade de participar do exame admissional."
 
 # game/logic/locations/corridor.rpy:1612
 translate brazilian Read_Samanthas_thoughts_label_57489638:
 
     # ch_Name "Damn, I gotta run! Thanks for the advice!"
-    ch_Name ""
+    ch_Name "Droga, tenho que correr! Obrigado pelo conselho!"
 
 # game/logic/locations/corridor.rpy:1614
 translate brazilian Read_Samanthas_thoughts_label_9fa400f5:
 
     # Samantha "Wait."
-    Samantha ""
+    Samantha "Espere!"
 
 # game/logic/locations/corridor.rpy:1616
 translate brazilian Read_Samanthas_thoughts_label_abc10325:
 
     # Samantha "Good luck!"
-    Samantha ""
+    Samantha "Boa sorte!"
 
 # game/logic/locations/corridor.rpy:1618
 translate brazilian Read_Samanthas_thoughts_label_5f912d8f:
 
     # ch_Name "{i}(This is exactly what you can be passionate about.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Isso é exatamente algo pelo qual você pode ser apaixonado.){/i}"
 
 translate brazilian strings:
 
     # game/logic/locations/corridor.rpy:45
     old "Jackpot"
-    new ""
+    new "Beleza"
 
     # game/logic/locations/corridor.rpy:293
     old "Go to your room"
-    new ""
+    new "Ir para o quarto"
 
     # game/logic/locations/corridor.rpy:309
     old "Continue watching"
-    new ""
+    new "Continuar olhando"
 
     # game/logic/locations/corridor.rpy:736
     old "Offer assistance"
-    new ""
+    new "Oferecer ajuda"
 
     # game/logic/locations/corridor.rpy:736
     old "Enjoy the view"
-    new ""
+    new "Aproveitar a vista"
 
     # game/logic/locations/corridor.rpy:763
     old "Continue enjoying the view"
-    new ""
+    new "Continuar aproveitando a vista"
 
     # game/logic/locations/corridor.rpy:815
     old "Of course not!"
-    new ""
+    new "Claro que não!"
 
     # game/logic/locations/corridor.rpy:815
     old "Two drunk girls!?"
-    new ""
+    new "Duas garotas bêbadas!?"
 
     # game/logic/locations/corridor.rpy:940
     old "Take a look Haley"
-    new ""
+    new "Olhar Haley"
 
     # game/logic/locations/corridor.rpy:953
     old "Look under her skirt"
-    new ""
+    new "Olhar embaixo da saia"
 
     # game/logic/locations/corridor.rpy:953
     old "Turn her on her back"
-    new ""
+    new "Virar ela de costas"
 
     # game/logic/locations/corridor.rpy:953
     old "Stop & go to sleep"
-    new ""
+    new "Parar e ir dormir"
 
     # game/logic/locations/corridor.rpy:986
     old "Touch"
-    new ""
+    new "Tocar"
 
     # game/logic/locations/corridor.rpy:1013
     old "Move her panties"
-    new ""
+    new "Mover a calcinha"
 
     # game/logic/locations/corridor.rpy:1068
     old "Grab it"
-    new ""
+    new "Pegar"
 
     # game/logic/locations/corridor.rpy:1093
     old "Rub her breasts"
-    new ""
+    new "Alisar os peitos dela"
 
     # game/logic/locations/corridor.rpy:1138
     old "Bare nipple"
-    new ""
+    new "Mostrar o mamilo"
 
     # game/logic/locations/corridor.rpy:1500
     old "I heard thoughts"
-    new ""
+    new "Eu ouvi pensamentos"
 
     # game/logic/locations/corridor.rpy:1500
     old "No, nothing"
-    new ""
+    new "Não, nada"
 
     # game/logic/locations/corridor.rpy:1540
     old "Read Samantha's thoughts"
-    new ""
+    new "Ler pensamentos de Samantha"
 
