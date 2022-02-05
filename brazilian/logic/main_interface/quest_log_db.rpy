@@ -936,89 +936,89 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Recipe \"Lesser Heal\""
-    new ""
+    new "Receita de \"Cura Menor\""
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Lesser Heal Potion recipe while continuing to attend Sabrina's classes."
-    new ""
+    new "Aprenda a receita da Poção de Cura Menor atendendo as aulas de Sabrina."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Elijah work"
-    new ""
+    new "Trabalho do Elijah"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Talk to Elijah about his job offer by meeting him at Molly's cafe in the evening."
-    new ""
+    new "Fale com Elijah sobre sua oferta de trabalho na cafeteria da Molly no fim da tarde."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learning \"Episkey\""
-    new ""
+    new "Aprendendo \"Episkey\""
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Episkey spell by continuing to attend Victoria's classes."
-    new ""
+    new "Aprenda o feitiço Episkey atendendo às aulas da Victoria."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Recipe \"Stoneskin\""
-    new ""
+    new "Receita de \"Pele de Pedra\""
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Stoneskin Potion recipe by continuing to attend Sabrina's classes."
-    new ""
+    new "Aprenda a receita da Poção de Pele de Pedra atendendo às aulas de Sabrina."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Sorting book"
-    new ""
+    new "Livro Seletor"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Try to contact Leona using a Sorting book in the Main Hall of Academy in the evening."
-    new ""
+    new "Tente contactar Lenoa usando o Livro Seletor no Saguão Principal da Academia no fim da tarde."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Recipe \"Reflection\""
-    new ""
+    new "Receita de \"Reflexão\""
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Reflection Potion recipe  by continuing to attend Sabrina's classes."
-    new ""
+    new "Aprenda a receita da Poção de Reflexão atendendo às aulas de Sabrina."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learning \"Rictusempra\""
-    new ""
+    new "Aprendendo \"Rictusempra\""
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Rictusempra spell  by continuing to attend Victoria's classes."
-    new ""
+    new "Aprenda o feitiço Rictusempra atendendo às aulas de Victoria."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Recipe \"Inspiration\""
-    new ""
+    new "Receita de \"Inspiração\""
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Inspiration Potion recipe by continuing to attend Sabrina's classes."
-    new ""
+    new "Aprenda a receita da Poção de Inspiração atendendo as aulas de Sabrina."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Willow nectar"
-    new ""
+    new "Nectar da Willow"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Get some nectar from Willow in Chompski Shop in Dale at Elijah's request."
-    new ""
+    new "Pegue um pouco de nectar com a Willow na loja do Chompski em Dale que Elijah pediu."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Elijah nectar"
-    new ""
+    new "Nectar do Elijah"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Meet Elijah at Cordale's cafe to give him some nectar from Dale."
-    new ""
+    new "Encontre Elijah na cafeteria de Cordale e entregue o nectar de Dale."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Character info roots"
-    new ""
+    new "Rotas da Informação de personagem"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Use the Character Info menu to complete all of the Roots available in the current release."
-    new ""
+    new "Use o menu de informação de personagem para completar todas as rotas disponíveis na versão atual."
 
