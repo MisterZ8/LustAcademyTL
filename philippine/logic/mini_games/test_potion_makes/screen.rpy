@@ -4,31 +4,31 @@ translate philippine strings:
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Bouncing berries"
-    new ""
+    new "Tumatalbog na berry"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Butterfly wings"
-    new ""
+    new "Pakpak ng paruparo"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Dandelion dust"
-    new ""
+    new "Alikabok ng ngiping leon"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Dragon scales powder"
-    new ""
+    new "Alikabok ng kaliskis ng Dragon"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Dry vampire blood"
-    new ""
+    new "Natuyong dugo ng bampira"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Dryad leaves"
-    new ""
+    new "Dahon ng Dryad"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Fireblossom leaves"
-    new ""
+    new "Dahon ng Fireblossom"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Icelandic cetraria"
@@ -36,53 +36,53 @@ translate philippine strings:
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Manticore lard"
-    new ""
+    new "Mantika ng Manticore"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Mermaid blood"
-    new ""
+    new "Dugo ng sirena"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Tears of woodland deer"
-    new ""
+    new "Luha ng usang gubat"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Unicorn hair powder"
-    new ""
+    new "Alikabok ng buhok ng Unicorn"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:19
     old "Restores small amount of Stamina."
-    new ""
+    new "Ibinabalik ang maikling bahagi ng kasiglahan."
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:19
     old "For 1 turn makes your attacking spells more effective."
-    new ""
+    new "Pinapalakas ang iyong mahika sa 1 turn"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:19
     old "Next time you get hit by a spell you'll lose 25% less Stamina."
-    new ""
+    new "Kapag matamaan ka ng mahika, pinapababa ang lakas ng tama ng 25%"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:19
     old "For 1 turn reflects your opponent attacking spells back."
-    new ""
+    new "Pinapabalik ang mahika ng kalaban mo sa 1 turn"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:110
     old "You crafted a"
-    new ""
+    new "Gumawa ka ng "
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:274
     old "Choose any {color=#f1af70}three{/color} ingredients and try to mix them."
-    new ""
+    new "Pumili ka ng {color=#f1af70}tatlong{/color} sangkap at subukang paghaluin."
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:275
     old "If you're lucky, you'll learn a new recipe."
-    new ""
+    new "Kung suwerte ka, matututo ka ng bagong recipe."
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:276
     old "Or click on the learned recipe to select required ingredients."
-    new ""
+    new "O i-click mo ang natutong recipe para mapili ang kinakailangang sangkap."
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:319
     old "Learn this recipe by attending the Potions lecture."
-    new ""
+    new "Alamin ang recipe na ito sa pamamaraan ng pagpasok sa Potions na klase."
 
