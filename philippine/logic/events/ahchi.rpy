@@ -4,199 +4,199 @@
 translate philippine cafe_event_ahchi_1_ed70a383:
 
     # ch_Name "{i}(And this cafe looks pretty cozy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Napakakomportable ng cafe.){/i}"
 
 # game/logic/events/ahchi.rpy:158
 translate philippine cafe_event_ahchi_1_afa58c33:
 
     # ch_Name "{i}(And the barista, by the looks of it, is pretty friendly.){/i}"
-    ch_Name ""
+    ch_Name "{i}(At sa tingin ko, palakaibigan ang barista.){/i}"
 
 # game/logic/events/ahchi.rpy:160
 translate philippine cafe_event_ahchi_1_4beb2aa4:
 
     # Ahchi "Welcome to Coffee Hut!"
-    Ahchi ""
+    Ahchi "Magligayang pagdating sa Coffee Hut!"
 
 # game/logic/events/ahchi.rpy:161
 translate philippine cafe_event_ahchi_1_cf890f6f:
 
     # Ahchi "My name is Ahchi and I'm your barista today. Can I give you a hint?"
-    Ahchi ""
+    Ahchi "Ako si Ahchi, ang iyong barista ngayong araw. May magagawa ba ako para sa iyo?"
 
 # game/logic/events/ahchi.rpy:162
 translate philippine cafe_event_ahchi_1_991506a1:
 
     # ch_Name "Hi! Actually, I'm just looking around."
-    ch_Name ""
+    ch_Name "Hi! Tumitingin lang ako."
 
 # game/logic/events/ahchi.rpy:163
 translate philippine cafe_event_ahchi_1_95cd2644:
 
     # Ahchi "You haven't been here before, have you? I would have remembered."
-    Ahchi ""
+    Ahchi "'Di ka pa nakapasok dito diba? 'Di kita maaalala."
 
 # game/logic/events/ahchi.rpy:165
 translate philippine cafe_event_ahchi_1_f6e67db7:
 
     # ch_Name "It's my first time here. I thought you just opened recently."
-    ch_Name ""
+    ch_Name "Unang pagkakataon ko ito. Akala ko bago lang kayo nagbukas."
 
 # game/logic/events/ahchi.rpy:166
 translate philippine cafe_event_ahchi_1_38ca76b8:
 
     # Ahchi "It's actually the oldest coffee shop in town."
-    Ahchi ""
+    Ahchi "Iti ang pinakamatandang kapehan sa lungsod."
 
 # game/logic/events/ahchi.rpy:167
 translate philippine cafe_event_ahchi_1_8f31f6c8:
 
     # Ahchi "But we've been renovating for a long time. The old place had become unusable."
-    Ahchi ""
+    Ahchi "Pero binago namin ang gusali. 'Di na magagamit ang lumang anyo nito."
 
 # game/logic/events/ahchi.rpy:168
 translate philippine cafe_event_ahchi_1_dae9a04a:
 
     # ch_Name "Old dilapidated?"
-    ch_Name ""
+    ch_Name "Matanda at sira-sira na?"
 
 # game/logic/events/ahchi.rpy:169
 translate philippine cafe_event_ahchi_1_1f2b72a4:
 
     # Ahchi "Pretty much. Somebody decided to brew coffee on boom beans and, well..."
-    Ahchi ""
+    Ahchi "Tama. May gumawa ng kape gamit ng mga bean na sumasabog at..."
 
 # game/logic/events/ahchi.rpy:170
 translate philippine cafe_event_ahchi_1_f5fe21a5:
 
     # Ahchi "We had to rebuild."
-    Ahchi ""
+    Ahchi "Kailangang magpatayo ng bagong kapehan."
 
 # game/logic/events/ahchi.rpy:172
 translate philippine cafe_event_ahchi_1_ad93ee09:
 
     # ch_Name "What happens if you brew coffee on boom beans?"
-    ch_Name ""
+    ch_Name "Ano ba ang mangyayari kapag gumamit ka ng bean na sumasabog?"
 
 # game/logic/events/ahchi.rpy:173
 translate philippine cafe_event_ahchi_1_3817dd44:
 
     # ch_Name "I just started studying magic. Here at Cordale."
-    ch_Name ""
+    ch_Name "Bago lang ako nakipag-aral sa Cordale."
 
 # game/logic/events/ahchi.rpy:174
 translate philippine cafe_event_ahchi_1_5749486b:
 
     # Ahchi "Oh, so you're a Cordale student. That's wonderful!"
-    Ahchi ""
+    Ahchi "Estudyante ka pala. Mabuti sa iyo!"
 
 # game/logic/events/ahchi.rpy:175
 translate philippine cafe_event_ahchi_1_dab28ba3:
 
     # Ahchi "Always a pleasure to meet future magicians!"
-    Ahchi ""
+    Ahchi "Palaging maligaya ang pagkilala sa mga kinabukasang salamangkero!"
 
 # game/logic/events/ahchi.rpy:177
 translate philippine cafe_event_ahchi_1_d592d55e:
 
     # Ahchi "Boom beans explode and burn when heated if not processed."
-    Ahchi ""
+    Ahchi "Sumasabog sila at nasusunog kapag 'di naproseso ng mabuti."
 
 # game/logic/events/ahchi.rpy:178
 translate philippine cafe_event_ahchi_1_320b4a46:
 
     # ch_Name "So there you have it!"
-    ch_Name ""
+    ch_Name "At 'yun ang nangyari!"
 
 # game/logic/events/ahchi.rpy:179
 translate philippine cafe_event_ahchi_1_c5b05c48:
 
     # ch_Name "So why would anyone add them to their coffee?"
-    ch_Name ""
+    ch_Name "Bakit may gustong maglagay ng ganyan sa kape nila?"
 
 # game/logic/events/ahchi.rpy:181
 translate philippine cafe_event_ahchi_1_6df358d1:
 
     # Ahchi "Huh... I wish I knew!"
-    Ahchi ""
+    Ahchi "Huh... 'di ko alam!"
 
 # game/logic/events/ahchi.rpy:182
 translate philippine cafe_event_ahchi_1_9eacd2da:
 
     # Ahchi "But there's no way to ask him anymore."
-    Ahchi ""
+    Ahchi "Pero 'di ta na siya matatanong."
 
 # game/logic/events/ahchi.rpy:183
 translate philippine cafe_event_ahchi_1_cff19cd1:
 
     # ch_Name "{i}(That even sounded kind of threatening...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nakakatakot naman 'yun...){/i}"
 
 # game/logic/events/ahchi.rpy:184
 translate philippine cafe_event_ahchi_1_7f53db2a:
 
     # ch_Name "{i}(In a magical world even working in a cafe can be dangerous.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kahit kapehan, mapanganib pala sa mundo ng mahika.){/i}"
 
 # game/logic/events/ahchi.rpy:186
 translate philippine cafe_event_ahchi_1_626355f5:
 
     # Ahchi "Anyway, we're now open again and Cordale students are always welcome."
-    Ahchi ""
+    Ahchi "Kahit na, bukas na kami ulit at handa na sa mga bagong estudyante ng Cordale."
 
 # game/logic/events/ahchi.rpy:187
 translate philippine cafe_event_ahchi_1_b3f24677:
 
     # ch_Name "Good to know."
-    ch_Name ""
+    ch_Name "Mabuting malalaman."
 
 # game/logic/events/ahchi.rpy:188
 translate philippine cafe_event_ahchi_1_1b09fef6:
 
     # ch_Name "I'll be sure to check in on you guys."
-    ch_Name ""
+    ch_Name "Siguradong bibisita ako dito."
 
 # game/logic/events/ahchi.rpy:190
 translate philippine cafe_event_ahchi_1_fa95b123:
 
     # Ahchi "I'll take you up on that! I always need customers."
-    Ahchi ""
+    Ahchi "Siyempre! Kailangan ko ang mga suki."
 
 # game/logic/events/ahchi.rpy:191
 translate philippine cafe_event_ahchi_1_ec3fee92:
 
     # Ahchi "It was a pleasure to meet you."
-    Ahchi ""
+    Ahchi "Magandang makipagkilala sa iyo."
 
 # game/logic/events/ahchi.rpy:214
 translate philippine CF_S1_label_5c232053:
 
     # ch_Name "{i}(Do I really see Sam and Audrey in the flesh sitting at that table over there?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sina Sam at Audrey ba 'yun sa mesang iyon?){/i}"
 
 # game/logic/events/ahchi.rpy:215
 translate philippine CF_S1_label_8ccb5c30:
 
     # ch_Name "{i}(And I kept wondering where they were going on weekends.){/i}"
-    ch_Name ""
+    ch_Name "{i}(At nagtataka ako kung saan sila pumupunta.){/i}"
 
 # game/logic/events/ahchi.rpy:216
 translate philippine CF_S1_label_3ef80d31:
 
     # ch_Name "{i}(And only look at them!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tignan nga sila!){/i}"
 
 # game/logic/events/ahchi.rpy:217
 translate philippine CF_S1_label_2652343a:
 
     # ch_Name "{i}(Laughing on something that hard!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sobrang nakakatawa ang pinag-uusapan nila!){/i}"
 
 # game/logic/events/ahchi.rpy:218
 translate philippine CF_S1_label_d380846d:
 
     # ch_Name "{i}(I'm sure they wouldn't mind me joining them.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sasali ako sa kanila.){/i}"
 
 # game/logic/events/ahchi.rpy:220
 translate philippine CF_S1_label_808c6128:
@@ -208,43 +208,43 @@ translate philippine CF_S1_label_808c6128:
 translate philippine CF_S1_label_093532ce:
 
     # Samantha "[Name]! It's really surprising to see you here."
-    Samantha ""
+    Samantha "[Name]! Nandito ka pala."
 
 # game/logic/events/ahchi.rpy:222
 translate philippine CF_S1_label_fc12dca9:
 
     # Samantha "Do you want to come sit with us?"
-    Samantha ""
+    Samantha "Gusto mo bang magsama sa amin?"
 
 # game/logic/events/ahchi.rpy:223
 translate philippine CF_S1_label_6fc813c9:
 
     # ch_Name "Only if Audrey is okay with that."
-    ch_Name ""
+    ch_Name "Kapag pumayag si Audrey."
 
 # game/logic/events/ahchi.rpy:225
 translate philippine CF_S1_label_4e73fd86:
 
     # Audrey "I'm in too good mood, dummy."
-    Audrey ""
+    Audrey "Nasa mabuting mood ako, bobo."
 
 # game/logic/events/ahchi.rpy:226
 translate philippine CF_S1_label_803f8558:
 
     # Audrey "So make yourself comfortable."
-    Audrey ""
+    Audrey "Umupo ka nga."
 
 # game/logic/events/ahchi.rpy:227
 translate philippine CF_S1_label_c8fbd8a4:
 
     # ch_Name "{i}(Good start!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mabuti!){/i}"
 
 # game/logic/events/ahchi.rpy:229
 translate philippine CF_S1_label_96d56c18:
 
     # ch_Name "What are you drinking?"
-    ch_Name ""
+    ch_Name "Ano ba iniinom mo?"
 
 # game/logic/events/ahchi.rpy:230
 translate philippine CF_S1_label_92165d5d:
@@ -256,7 +256,7 @@ translate philippine CF_S1_label_92165d5d:
 translate philippine CF_S1_label_db7af07c:
 
     # Samantha "Smells so spicy!"
-    Samantha ""
+    Samantha "Amoy maanghang!"
 
 # game/logic/events/ahchi.rpy:232
 translate philippine CF_S1_label_fd6f0cf5:
@@ -268,13 +268,13 @@ translate philippine CF_S1_label_fd6f0cf5:
 translate philippine CF_S1_label_05b01b04:
 
     # ch_Name "To tell the truth, I've been watching you a little bit."
-    ch_Name ""
+    ch_Name "Sa totoo lang, kanina ko pa kayong tinitignan."
 
 # game/logic/events/ahchi.rpy:235
 translate philippine CF_S1_label_0f512dfb:
 
     # Audrey "You look like the person who likes to peek."
-    Audrey ""
+    Audrey "Para kang taong mahilig sumilip."
 
 # game/logic/events/ahchi.rpy:236
 translate philippine CF_S1_label_89cdb366:
@@ -286,7 +286,7 @@ translate philippine CF_S1_label_89cdb366:
 translate philippine CF_S1_label_7e92f4bf:
 
     # ch_Name "And now I'm wonder what were you laughing at before I came."
-    ch_Name ""
+    ch_Name "Ngayon inaakit ko kung ano ang pinagtawanan ninyo."
 
 # game/logic/events/ahchi.rpy:238
 translate philippine CF_S1_label_893eb336:
@@ -304,337 +304,337 @@ translate philippine CF_S1_label_d2d8761b:
 translate philippine CF_S1_label_fd236a41:
 
     # Samantha "We just remember our freshman year."
-    Samantha ""
+    Samantha "Inaalala lang ang aming unang taon sa akademiya."
 
 # game/logic/events/ahchi.rpy:242
 translate philippine CF_S1_label_ab5dcd1d:
 
     # Samantha "All these new people, first impressions, emotions, parties and lots of fun!"
-    Samantha ""
+    Samantha "Mga bagong tao, emosyon, mga kasiyahan!"
 
 # game/logic/events/ahchi.rpy:243
 translate philippine CF_S1_label_89d7466f:
 
     # Samantha "Freshman year is all the college is about."
-    Samantha ""
+    Samantha "Importante talaga ang unang taon sa kolehiyo."
 
 # game/logic/events/ahchi.rpy:245
 translate philippine CF_S1_label_e46f8790:
 
     # ch_Name "Only freshman year?"
-    ch_Name ""
+    ch_Name Ang unang taon lang?""
 
 # game/logic/events/ahchi.rpy:246
 translate philippine CF_S1_label_a2a548df:
 
     # Samantha "First grade is the best time for gaining the most amazing experience of student life!"
-    Samantha ""
+    Samantha "'Yun ang pinakamabuting panahon para makaranas ng buhay ng estudyante!"
 
 # game/logic/events/ahchi.rpy:247
 translate philippine CF_S1_label_a8df2a98:
 
     # Samantha "Having experienced it, people usually become more serious and more boring."
-    Samantha ""
+    Samantha "Pagkatapos, nagiging seryoso na ang mga tao."
 
 # game/logic/events/ahchi.rpy:248
 translate philippine CF_S1_label_f8755a35:
 
     # Samantha "Take more responsibilities and duties."
-    Samantha ""
+    Samantha "Nagkakaroon ng mga bagong responsibilidad."
 
 # game/logic/events/ahchi.rpy:249
 translate philippine CF_S1_label_1bf9f7d8:
 
     # ch_Name "So it appears that now is the best time of my life?"
-    ch_Name ""
+    ch_Name "Kaya nga ba ito ang pinakamabuting panahon ng buhay ko?"
 
 # game/logic/events/ahchi.rpy:251
 translate philippine CF_S1_label_6f12b7ef:
 
     # Samantha "It's supposed to be so."
-    Samantha ""
-
+    Samantha "Dapat."
+    
 # game/logic/events/ahchi.rpy:252
 translate philippine CF_S1_label_d69e14fe:
 
     # ch_Name "And I have never been to a party here!"
-    ch_Name ""
+    ch_Name "At hindi pa ako nakapagsalu-salo!"
 
 # game/logic/events/ahchi.rpy:253
 translate philippine CF_S1_label_8ae011a6:
 
     # Audrey "It's only your fault."
-    Audrey ""
+    Audrey "Kasalanan mo 'yan."
 
 # game/logic/events/ahchi.rpy:254
 translate philippine CF_S1_label_8a723d9e:
 
     # Audrey "During our first year there were lots of hangouts, but only because we organised them."
-    Audrey ""
+    Audrey "Sa aming unang taon marami naman kaming ginawa, kasi kami ang nagplano ng lahat."
 
 # game/logic/events/ahchi.rpy:255
 translate philippine CF_S1_label_0f977082:
 
     # Audrey "And gathered people together."
-    Audrey ""
+    Audrey "At nagtipon ng mga tao."
 
 # game/logic/events/ahchi.rpy:257
 translate philippine CF_S1_label_4f217a6f:
 
     # Audrey "Once we even invited Professors to spend time with us."
-    Audrey ""
+    Audrey "Minsan nandoon man ang mga guro."
 
 # game/logic/events/ahchi.rpy:258
 translate philippine CF_S1_label_1b67e978:
 
     # ch_Name "What are you talking about?"
-    ch_Name ""
+    ch_Name "Ano ba ang sinasabi niyo?"
 
 # game/logic/events/ahchi.rpy:259
 translate philippine CF_S1_label_a5d0935a:
 
     # ch_Name "Has someone really come?"
-    ch_Name ""
+    ch_Name "Talaga?"
 
 # game/logic/events/ahchi.rpy:260
 translate philippine CF_S1_label_7e7dda39:
 
     # Samantha "I think that they took it more as a joke."
-    Samantha ""
+    Samantha "Inakala nilang biro lamang."
 
 # game/logic/events/ahchi.rpy:261
 translate philippine CF_S1_label_549a5a88:
 
     # Samantha "And even if they wanted it, they were too afraid to damage their reputation."
-    Samantha ""
+    Samantha "At kung gusto nila, natatakot silang madamay ang kanilang reputasyon."
 
 # game/logic/events/ahchi.rpy:263
 translate philippine CF_S1_label_f99bbe72:
 
     # Audrey "Stop, maybe I'm mistaken, but I remember Victoria on one of our party."
-    Audrey ""
+    Audrey "Baka nagkamali ako, pero maaalala ko na nandoon si Victoria noon."
 
 # game/logic/events/ahchi.rpy:264
 translate philippine CF_S1_label_57edb19d:
 
     # Samantha "Oh, God, exactly!"
-    Samantha ""
+    Samantha "Diyos ko, totoo pala!"
 
 # game/logic/events/ahchi.rpy:265
 translate philippine CF_S1_label_df564ac7:
 
     # Samantha "She really came! How could I forget it?"
-    Samantha ""
+    Samantha "Nakipagsali siya! Paano ko ba nakalimutan?"
 
 # game/logic/events/ahchi.rpy:266
 translate philippine CF_S1_label_7c865668:
 
     # ch_Name "What!? Victoria?"
-    ch_Name ""
+    ch_Name "Ano!? Victoria?"
 
 # game/logic/events/ahchi.rpy:268
 translate philippine CF_S1_label_24fc585e:
 
     # Audrey "Yes! And she was pretty cool."
-    Audrey ""
+    Audrey "Oo! At napaka-astig niya."
 
 # game/logic/events/ahchi.rpy:269
 translate philippine CF_S1_label_71b8d9dd:
 
     # Audrey "Sipping her \"Sex on the beach\" and talking..."
-    Audrey ""
+    Audrey "Uminom ng kanyang  \"Sex on the beach\" at nagsasalita..."
 
 # game/logic/events/ahchi.rpy:270
 translate philippine CF_S1_label_cd09b991:
 
     # Audrey "...how in reality sex on the beach can be the worst idea ever."
-    Audrey ""
+    Audrey "... kung bakit masamang ideya ang pakipagtalik sa tabi ng dagat."
 
 # game/logic/events/ahchi.rpy:271
 translate philippine CF_S1_label_f5823ad2:
 
     # Audrey "Even I was drooling on her in that time."
-    Audrey ""
+    Audrey "Kahit ako rin naglalaway sa kanya."
 
 # game/logic/events/ahchi.rpy:272
 translate philippine CF_S1_label_19c20359:
 
     # ch_Name "After your story I start to feel how much I'm missing."
-    ch_Name ""
+    ch_Name "Mararamdaman ko na ang sinasayang ko."
 
 # game/logic/events/ahchi.rpy:273
 translate philippine CF_S1_label_a88fa3a6:
 
     # Audrey "What's stopping you?"
-    Audrey ""
+    Audrey "Ano ba ang tumitigil sa iyo?"
 
 # game/logic/events/ahchi.rpy:275
 translate philippine CF_S1_label_5e231afa:
 
     # Samantha "You can suggest Lily or Haley to organize the party."
-    Samantha ""
+    Samantha "Pwede mo ipagawa kay Lily o Haley ang pagplano."
 
 # game/logic/events/ahchi.rpy:276
 translate philippine CF_S1_label_df34c824:
 
     # Samantha "I'm sure they will be happy to help you."
-    Samantha ""
+    Samantha "Siguradong tutulong sila."
 
 # game/logic/events/ahchi.rpy:277
 translate philippine CF_S1_label_a3669a6f:
 
     # ch_Name "Lily? Maybe. "
-    ch_Name ""
+    ch_Name "Lily? Pwede."
 
 # game/logic/events/ahchi.rpy:278
 translate philippine CF_S1_label_cec8c478:
 
     # ch_Name "Haley? It's doubtful."
-    ch_Name ""
+    ch_Name "Haley? Nagdududa ako."
 
 # game/logic/events/ahchi.rpy:279
 translate philippine CF_S1_label_62d93b79:
 
     # Samantha "But it's worth a shot."
-    Samantha ""
+    Samantha "'Di mo malalaman kapag hindi mo subukan."
 
 # game/logic/events/ahchi.rpy:280
 translate philippine CF_S1_label_3ae1385b:
 
     # Samantha "And you always can ask Audrey and me if there will be some organisational questions."
-    Samantha ""
+    Samantha "At makapagtanong ka naman sa amin kapag kailangan ninyo ng tulong."
 
 # game/logic/events/ahchi.rpy:282
 translate philippine CF_S1_label_2c098683:
 
     # ch_Name "Great!"
-    ch_Name ""
+    ch_Name "Ayos!"
 
 # game/logic/events/ahchi.rpy:283
 translate philippine CF_S1_label_09a0149d:
 
     # ch_Name "I'm very passionate about this now!"
-    ch_Name ""
+    ch_Name "'Di na ako makapaghintay!"
 
 # game/logic/events/ahchi.rpy:284
 translate philippine CF_S1_label_97ba8b3b:
 
     # Samantha "Just try to keep your enthusiasm for the moment then we come back to Academy."
-    Samantha ""
+    Samantha "Antayin mong makabalik tayo sa Akademiya."
 
 # game/logic/events/ahchi.rpy:285
 translate philippine CF_S1_label_e11cca33:
 
     # ch_Name "Ha-ha-ha, that's not a problem."
-    ch_Name ""
+    ch_Name "Ha-ha-ha, walang problema."
 
 # game/logic/events/ahchi.rpy:287
 translate philippine CF_S1_label_2eb3991d:
 
     # Audrey "I think it's time for us to go, Sam."
-    Audrey ""
+    Audrey "Sa tingin ko dapat umalis na tayo, Sam."
 
 # game/logic/events/ahchi.rpy:288
 translate philippine CF_S1_label_03613736:
 
     # Samantha "Already?"
-    Samantha ""
+    Samantha "Ngayon na?"
 
 # game/logic/events/ahchi.rpy:289
 translate philippine CF_S1_label_31d7c569:
 
     # Audrey "Yep. Our friends are waiting for us."
-    Audrey ""
+    Audrey "Oo. Naghihintay na ang mga kaibigan natin."
 
 # game/logic/events/ahchi.rpy:291
 translate philippine CF_S1_label_0d53fa48:
 
     # Samantha "Okay, come along then."
-    Samantha ""
+    Samantha "Sige, halika."
 
 # game/logic/events/ahchi.rpy:292
 translate philippine CF_S1_label_f4899b6e:
 
     # ch_Name "I will probably go too."
-    ch_Name ""
+    ch_Name "Aalis na rin ako."
 
 # game/logic/events/ahchi.rpy:293
 translate philippine CF_S1_label_76b42bfd:
 
     # ch_Name "There are so many opportunities to go somewhere else!"
-    ch_Name ""
+    ch_Name "Marami pa akong magagawa dito!"
 
 # game/logic/events/ahchi.rpy:294
 translate philippine CF_S1_label_28a98ab9:
 
     # Audrey "Good luck, then."
-    Audrey ""
+    Audrey "Good luck."
 
 # game/logic/events/ahchi.rpy:295
 translate philippine CF_S1_label_9a458d38:
 
     # Samantha "It was nice to meet you, [Name]."
-    Samantha ""
+    Samantha "Mabuti talagang nakipagkita tayo, [Name]."
 
 # game/logic/events/ahchi.rpy:296
 translate philippine CF_S1_label_20d84f11:
 
     # ch_Name "See you!"
-    ch_Name ""
+    ch_Name "Sa susunod naman!"
 
 # game/logic/events/ahchi.rpy:307
 translate philippine CF_S1_label_a71f0f46:
 
     # ch_Name "{i}(They aren't really in a hurry to pack up and leave.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parang hindi sila nagmamadali.){/i}"
 
 # game/logic/events/ahchi.rpy:308
 translate philippine CF_S1_label_29649df3:
 
     # ch_Name "{i}(Maybe they just wanted to get rid of me fast.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Baka gusto nila akong paalisin.){/i}"
 
 # game/logic/events/ahchi.rpy:309
 translate philippine CF_S1_label_a5e30786:
 
     # ch_Name "{i}(That's okay. I've got a lot to do, too.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ayos lang. Andami ko ring gagawin.){/i}"
 
 # game/logic/events/ahchi.rpy:310
 translate philippine CF_S1_label_558039a9:
 
     # ch_Name "{i}(Especially since I wanted to sign up for a massage.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Lalo na gusto kong mapagmasahe.){/i}"
 
 # game/logic/events/ahchi.rpy:312
 translate philippine CF_S1_label_888f9f54:
 
     # ch_Name "{i}(Yes, it's time to go to the spa.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ayos, pumunta tayo sa spa.){/i}"
 
 # game/logic/events/ahchi.rpy:313
 translate philippine CF_S1_label_a3bb22cc:
 
     # ch_Name "{i}(Something interesting always happens to me there.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Palaging may nangyayari sa akin sa spa.){/i}"
 
 # game/logic/events/ahchi.rpy:315
 translate philippine CF_S1_label_38958f10:
 
     # ch_Name "{i}(And a sore leg could use some professional care.){/i}"
-    ch_Name ""
+    ch_Name "{i}(At kinakailangan naman ng tulog ang aking masakit na binti.){/i}"
 
 # game/logic/events/ahchi.rpy:316
 translate philippine CF_S1_label_d223421d:
 
     # ch_Name "{i}(Although I'm much more interested in seeing how far I can go with a masseuse.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pero mas interesadong makita kung hanggang saan ako makarating sa masahista.){/i}"
 
 # game/logic/events/ahchi.rpy:317
 translate philippine CF_S1_label_d56475a4:
 
     # ch_Name "{i}(Let's see if I can get her a spicy massage.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tignan natin kapag makakuha ako ng malasang masahe.){/i}"
 
 # game/logic/events/ahchi.rpy:325
 translate philippine CF_S2_label_0c27e4c3:
@@ -652,37 +652,37 @@ translate philippine CF_S2_label_09bb04bc:
 translate philippine CF_S2_label_4879157b:
 
     # ch_Name "Nice to meet you!"
-    ch_Name ""
+    ch_Name "Ang ganda mo naman!"
 
 # game/logic/events/ahchi.rpy:329
 translate philippine CF_S2_label_8b5f7fef:
 
     # ch_Name "Hello, Audrey!"
-    ch_Name ""
+    ch_Name "Kamusta ka, Audrey!"
 
 # game/logic/events/ahchi.rpy:330
 translate philippine CF_S2_label_b54fd0f5:
 
     # Audrey "Uh, hey there."
-    Audrey ""
+    Audrey "Kamusta."
 
 # game/logic/events/ahchi.rpy:331
 translate philippine CF_S2_label_75c25663:
 
     # ch_Name "Charming, as always."
-    ch_Name ""
+    ch_Name "Nakaakit-akit ka naman."
 
 # game/logic/events/ahchi.rpy:332
 translate philippine CF_S2_label_38fefe70:
 
     # ch_Name "Give me a second, I'll order something."
-    ch_Name ""
+    ch_Name "Sandali lang, mag-order ako."
 
 # game/logic/events/ahchi.rpy:334
 translate philippine CF_S2_label_7170960b:
 
     # ch_Name "Good evening!"
-    ch_Name ""
+    ch_Name "Magandang gabi!"
 
 # game/logic/events/ahchi.rpy:335
 translate philippine CF_S2_label_91547865:
@@ -694,7 +694,7 @@ translate philippine CF_S2_label_91547865:
 translate philippine CF_S2_label_374b4071:
 
     # Ahchi "What can I get for you today?"
-    Ahchi ""
+    Ahchi "Ano ba ang magagawa ko para sa inyo?"
 
 # game/logic/events/ahchi.rpy:337
 translate philippine CF_S2_label_bc66a0a7:
@@ -706,43 +706,43 @@ translate philippine CF_S2_label_bc66a0a7:
 translate philippine CF_S2_label_badb2dff:
 
     # ch_Name "Let me think for a little bit."
-    ch_Name ""
+    ch_Name "Mag-isip muna ako."
 
 # game/logic/events/ahchi.rpy:340
 translate philippine CF_S2_label_d5e97d21:
 
     # Ahchi "Do you like gluhwein?"
-    Ahchi ""
+    Ahchi "Gusto niyo ba ng gluhwein?"
 
 # game/logic/events/ahchi.rpy:341
 translate philippine CF_S2_label_b883e520:
 
     # Ahchi "I've just made a little bit."
-    Ahchi ""
+    Ahchi "Bagong gawa lang."
 
 # game/logic/events/ahchi.rpy:342
 translate philippine CF_S2_label_917c1871:
 
     # Ahchi "And I swear you, nothing on earth smells so heavenly as a freshly brewed gluhwein."
-    Ahchi ""
+    Ahchi "At walang mas mabango sa gluhwein na bagong timpla."
 
 # game/logic/events/ahchi.rpy:343
 translate philippine CF_S2_label_4ab47c86:
 
     # ch_Name "The smell is really incredible!"
-    ch_Name ""
+    ch_Name "Napakaganda ng amoy!"
 
 # game/logic/events/ahchi.rpy:344
 translate philippine CF_S2_label_952b1da5:
 
     # ch_Name "I'd love to have a cup, then."
-    ch_Name ""
+    ch_Name "Kukuha ako ng isa."
 
 # game/logic/events/ahchi.rpy:346
 translate philippine CF_S2_label_d93fdbdd:
 
     # Ahchi "Here you're!"
-    Ahchi ""
+    Ahchi "Ito na ang order mo!"
 
 # game/logic/events/ahchi.rpy:347
 translate philippine CF_S2_label_ee196407:
@@ -754,181 +754,181 @@ translate philippine CF_S2_label_ee196407:
 translate philippine CF_S2_label_84d3dc7e:
 
     # ch_Name "Thank you!"
-    ch_Name ""
+    ch_Name "Salamat!"
 
 # game/logic/events/ahchi.rpy:349
 translate philippine CF_S2_label_64554168:
 
     # ch_Name "Seems I will come here more often."
-    ch_Name ""
+    ch_Name "Babalik talaga ako dito."
 
 # game/logic/events/ahchi.rpy:351
 translate philippine CF_S2_label_48d16d2f:
 
     # ch_Name "Really like the atmosphere here."
-    ch_Name ""
+    ch_Name "Napakahusay naman."
 
 # game/logic/events/ahchi.rpy:352
 translate philippine CF_S2_label_8661587b:
 
     # ch_Name "And drinks are amazing!"
-    ch_Name ""
+    ch_Name "At napakasarap ng mga inumin?"
 
 # game/logic/events/ahchi.rpy:353
 translate philippine CF_S2_label_370922c2:
 
     # Ahchi "That's good to hear."
-    Ahchi ""
+    Ahchi "Ang sarap pakinggan."
 
 # game/logic/events/ahchi.rpy:354
 translate philippine CF_S2_label_232c9dfc:
 
     # Ahchi "You're welcome!"
-    Ahchi ""
+    Ahchi "Walang anuman!"
 
 # game/logic/events/ahchi.rpy:355
 translate philippine CF_S2_label_6cf1eb2a:
 
     # ch_Name "So, How's it going?"
-    ch_Name ""
+    ch_Name "Kamusta na?"
 
 # game/logic/events/ahchi.rpy:357
 translate philippine CF_S2_label_3770a889:
 
     # Audrey "[Name], you have a talent to show up at the exactly right time."
-    Audrey ""
+    Audrey "[Name], may talento ka sa pagdating sa tamang oras."
 
 # game/logic/events/ahchi.rpy:358
 translate philippine CF_S2_label_bd67f888:
 
     # ch_Name "What do you mean?"
-    ch_Name ""
+    ch_Name "Ano ang ibig mong sabihin?"
 
 # game/logic/events/ahchi.rpy:359
 translate philippine CF_S2_label_2f6e4c92:
 
     # Audrey "I'm trying to crack at Sam."
-    Audrey ""
+    Audrey "Sinusubukan ko si Sam."
 
 # game/logic/events/ahchi.rpy:360
 translate philippine CF_S2_label_aa92d77e:
 
     # Audrey "She doesn't want to tell her best friend what is her type of guy, can you imagine that?"
-    Audrey ""
+    Audrey "'Di niya gustong sabihin sa kaibigan niya kung anong klaseng lalaki ang gusto niya."
 
 # game/logic/events/ahchi.rpy:361
 translate philippine CF_S2_label_f02f5fce:
 
     # Audrey "And that's really offensive, I can say."
-    Audrey ""
+    Audrey "Nasasaktan talaga ako."
 
 # game/logic/events/ahchi.rpy:363
 translate philippine CF_S2_label_b3c37acd:
 
     # Audrey "That's mean that for you I can't be trusted!"
-    Audrey ""
+    Audrey "Ibig sabihin na wala kang tiwala sa akin!"
 
 # game/logic/events/ahchi.rpy:364
 translate philippine CF_S2_label_c0662c1e:
 
     # Samantha "I only say that I'm not locked into one specific type of person."
-    Samantha ""
+    Samantha "Sinasabi ko lang na wala akong isang tipo na gusto."
 
 # game/logic/events/ahchi.rpy:365
 translate philippine CF_S2_label_e4241c6e:
 
     # Samantha "Appearance isn't everything for me."
-    Samantha ""
+    Samantha "'Di lahat ang mukha para sa akin."
 
 # game/logic/events/ahchi.rpy:366
 translate philippine CF_S2_label_806845df:
 
     # Samantha "And even if we talk also about personality, then..."
-    Samantha ""
+    Samantha "At kapag mag-uusap tayo sa ugali..."
 
 # game/logic/events/ahchi.rpy:367
 translate philippine CF_S2_label_ecc46a3d:
 
     # Samantha "People are so different!"
-    Samantha ""
+    Samantha "Nag-iiba naman ang lahat na tao!"
 
 # game/logic/events/ahchi.rpy:369
 translate philippine CF_S2_label_61a74e98:
 
     # Samantha "How can I choose only one particular type?"
-    Samantha ""
+    Samantha "Paano ba ako pumili ng isang tipo?"
 
 # game/logic/events/ahchi.rpy:370
 translate philippine CF_S2_label_ecd75ebc:
 
     # ch_Name "Audrey, what's about you?"
-    ch_Name ""
+    ch_Name "Audrey, ano sa tingin mo?"
 
 # game/logic/events/ahchi.rpy:371
 translate philippine CF_S2_label_9c90325b:
 
     # ch_Name "Do you have a type?"
-    ch_Name ""
+    ch_Name "May tipo ka ba?"
 
 # game/logic/events/ahchi.rpy:372
 translate philippine CF_S2_label_fc36f27d:
 
     # Audrey "Absolutely yes!"
-    Audrey ""
+    Audrey "Siyempre!"
 
 # game/logic/events/ahchi.rpy:373
 translate philippine CF_S2_label_9012df44:
 
     # Audrey "I'm into emotional musicians with tattoos, light eyes, long dark hair and some sort of facial hair."
-    Audrey ""
+    Audrey "Gusto ko ang mga emosyonal na musikero na may tatoo, maliwanag na mata, mahabang buhok at buhok sa mukha."
 
 # game/logic/events/ahchi.rpy:375
 translate philippine CF_S2_label_8fc8fbc5:
 
     # Audrey "Kind of a meathead in public, but able to be a sweetheart in private."
-    Audrey ""
+    Audrey "Parang bobo sa labas, pero maibigin kapag kami lang."
 
 # game/logic/events/ahchi.rpy:376
 translate philippine CF_S2_label_5d5f6a4b:
 
     # Audrey "I've hanged out with other guys, but it was more about on-call fuck buddies."
-    Audrey ""
+    Audrey "Nakipagsubok ako sa ibang lalaki, pero tungkol sa kaibigang may benepisyo."
 
 # game/logic/events/ahchi.rpy:377
 translate philippine CF_S2_label_3ef5256d:
 
     # Audrey "And girls, hmm..."
-    Audrey ""
+    Audrey "At sa mga babae, hmm..."
 
 # game/logic/events/ahchi.rpy:378
 translate philippine CF_S2_label_07223130:
 
     # Audrey "Not too bitchy redheads with ass, I'd say."
-    Audrey ""
+    Audrey "Mga redhead na 'di masyadong bastos at magandang pwet."
 
 # game/logic/events/ahchi.rpy:380
 translate philippine CF_S2_label_b18bf5b0:
 
     # Audrey "But sometimes I also attracted to other types of girls as well."
-    Audrey ""
+    Audrey "Pero minsan naaakit din ako sa ibang babae."
 
 # game/logic/events/ahchi.rpy:381
 translate philippine CF_S2_label_eeab8096:
 
     # Audrey "That's it! Not too hard to answer, see?"
-    Audrey ""
+    Audrey "'Yan lang! Hindi mahirap diba?"
 
 # game/logic/events/ahchi.rpy:382
 translate philippine CF_S2_label_03ca346d:
 
     # Samantha "I can describe the last one type of the guy I liked."
-    Samantha ""
+    Samantha "Masasabi ko ang huling tipo na nagustuhan ko."
 
 # game/logic/events/ahchi.rpy:383
 translate philippine CF_S2_label_f34e4c94:
 
     # Audrey "It's already something."
-    Audrey ""
+    Audrey "Parang mahalaga ito."
 
 # game/logic/events/ahchi.rpy:385
 translate philippine CF_S2_label_2822792f:
@@ -940,109 +940,109 @@ translate philippine CF_S2_label_2822792f:
 translate philippine CF_S2_label_5efe07c6:
 
     # Samantha "Middle-sized, with short dark hair and brown eyes."
-    Samantha ""
+    Samantha "Katamtamang laki, mababang buhok at kayumangging mata."
 
 # game/logic/events/ahchi.rpy:387
 translate philippine CF_S2_label_49e49e52:
 
     # Samantha "Someone smiley, easy-going..."
-    Samantha ""
+    Samantha "Isang tao na nangingiti, walang gulo..."
 
 # game/logic/events/ahchi.rpy:388
 translate philippine CF_S2_label_f5f6c231:
 
     # Samantha "Caring and not ignorant."
-    Samantha ""
+    Samantha "Magmamalasakit at hindi bobo."
 
 # game/logic/events/ahchi.rpy:389
 translate philippine CF_S2_label_6a6dabee:
 
     # Samantha "Into sport, but not a sports nut."
-    Samantha ""
+    Samantha "Mahilig sa paglalaro, pero hindi nagsosobra."
 
 # game/logic/events/ahchi.rpy:391
 translate philippine CF_S2_label_e0fbc4c8:
 
     # Audrey "Seems like you've described [Name]."
-    Audrey ""
+    Audrey "Parang inilarawan mo si [Name]."
 
 # game/logic/events/ahchi.rpy:392
 translate philippine CF_S2_label_9c309c1b:
 
     # Samantha "Not at all."
-    Samantha ""
+    Samantha "Hindi talaga."
 
 # game/logic/events/ahchi.rpy:393
 translate philippine CF_S2_label_1855220c:
 
     # ch_Name "What?"
-    ch_Name ""
+    ch_Name "Ano?"
 
 # game/logic/events/ahchi.rpy:394
 translate philippine CF_S2_label_19826f31:
 
     # ch_Name "{i}(That's how Audrey sees me?){/i}"
-    ch_Name ""
+    ch_Name "{i}('Yan ba ang tingin niya sa akin?){/i}"
 
 # game/logic/events/ahchi.rpy:396
 translate philippine CF_S2_label_bb881a7f:
 
     # Audrey "Yes!"
-    Audrey ""
+    Audrey "Oo!"
 
 # game/logic/events/ahchi.rpy:397
 translate philippine CF_S2_label_94730db8:
 
     # Audrey "Just look at him and face the reality."
-    Audrey ""
+    Audrey "Tignan mo siya at magharap ng realidad."
 
 # game/logic/events/ahchi.rpy:398
 translate philippine CF_S2_label_f817ce8a:
 
     # Samantha "You asked a question and I answered it."
-    Samantha ""
+    Samantha "Nagtanong ka, sumagot ako."
 
 # game/logic/events/ahchi.rpy:399
 translate philippine CF_S2_label_e16605e2:
 
     # Samantha "That's all."
-    Samantha ""
+    Samantha "'Yan lang."
 
 # game/logic/events/ahchi.rpy:400
 translate philippine CF_S2_label_ecc55855:
 
     # Samantha "I'm just a little bit tired of this inquisition."
-    Samantha ""
+    Samantha "Napapagod na ako sa pagtatanong na ito."
 
 # game/logic/events/ahchi.rpy:401
 translate philippine CF_S2_label_00187b16:
 
     # Audrey "C'mon, I'm just kidding."
-    Audrey ""
+    Audrey "Nagbibiro lang naman ako."
 
 # game/logic/events/ahchi.rpy:403
 translate philippine CF_S2_label_92ea22b5:
 
     # Audrey "Let's go out, maybe?"
-    Audrey ""
+    Audrey "Maglalakad ba kaya tayo?"
 
 # game/logic/events/ahchi.rpy:404
 translate philippine CF_S2_label_1ea61c6c:
 
     # Audrey "I'm a little bit tired of sitting here."
-    Audrey ""
+    Audrey "Medyo napagod na ako sa pag-upo dito."
 
 # game/logic/events/ahchi.rpy:405
 translate philippine CF_S2_label_e17959da:
 
     # Samantha "Me too. "
-    Samantha ""
+    Samantha "Ako rin."
 
 # game/logic/events/ahchi.rpy:406
 translate philippine CF_S2_label_aa9f9edb:
 
     # Samantha "Are you gonna join us?"
-    Samantha ""
+    Samantha "Sasama ka ba sa amin?"
 
 # game/logic/events/ahchi.rpy:408
 translate philippine CF_S2_label_fe2db6d9:
@@ -1054,187 +1054,187 @@ translate philippine CF_S2_label_fe2db6d9:
 translate philippine CF_S2_label_332eae43:
 
     # ch_Name "Want to sit here for a while."
-    ch_Name ""
+    ch_Name "Maghihintay muna ako dito."
 
 # game/logic/events/ahchi.rpy:410
 translate philippine CF_S2_label_b4bd0e90:
 
     # Samantha "Have a good evening, then."
-    Samantha ""
+    Samantha "Sige. Mag-ingat ka."
 
 # game/logic/events/ahchi.rpy:411
 translate philippine CF_S2_label_2ee7995b:
 
     # ch_Name "You too!"
-    ch_Name ""
+    ch_Name "Kayo rin!"
 
 # game/logic/events/ahchi.rpy:413
 translate philippine CF_S2_label_8583137b:
 
     # ch_Name "{i}(This place is so pleasant!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nakakawili naman ang lugar na ito!){/i}"
 
 # game/logic/events/ahchi.rpy:414
 translate philippine CF_S2_label_010e5fcb:
 
     # ch_Name "{i}(Everything is so cozy, and I have a feeling of being protected.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Komportable ang lahat, at parang pinuprotektahan ako.){/i}"
 
 # game/logic/events/ahchi.rpy:415
 translate philippine CF_S2_label_1b960923:
 
     # ch_Name "{i}(I needed something like this.){/i}"
-    ch_Name ""
+    ch_Name ""{i}(Kailagan ko ng gaya nito.){/i}""
 
 # game/logic/events/ahchi.rpy:429
 translate philippine CF_S3_label_4d7c1aa5:
 
     # ch_Name "Good evening, girls!"
-    ch_Name ""
+    ch_Name "Magandang gabi!"
 
 # game/logic/events/ahchi.rpy:430
 translate philippine CF_S3_label_f4b7a84b:
 
     # Samantha "[Name]! Nice to meet you!"
-    Samantha ""
+    Samantha "[Name]! Nandito ka pala!"
 
 # game/logic/events/ahchi.rpy:431
 translate philippine CF_S3_label_2ccbdaaa:
 
     # ch_Name "Hope I'm not intruding."
-    ch_Name ""
+    ch_Name "Sana hindi ako nanghihimasok."
 
 # game/logic/events/ahchi.rpy:432
 translate philippine CF_S3_label_9c309c1b:
 
     # Samantha "Not at all."
-    Samantha ""
+    Samantha "Hindi naman."
 
 # game/logic/events/ahchi.rpy:434
 translate philippine CF_S3_label_77659928:
 
     # Audrey "Just said to Sam that I can't imagine her as a child."
-    Audrey ""
+    Audrey "Sinasabi ko lang kay Sam na hindi ko siyang makikita bilang bata."
 
 # game/logic/events/ahchi.rpy:435
 translate philippine CF_S3_label_58ec4f31:
 
     # Audrey "Sounds silly, I know."
-    Audrey ""
+    Audrey "Parang bobo, alam ko."
 
 # game/logic/events/ahchi.rpy:436
 translate philippine CF_S3_label_f86dd380:
 
     # Audrey "But in my head she's always been like now."
-    Audrey ""
+    Audrey "Pero parang palagi na siyang ganito."
 
 # game/logic/events/ahchi.rpy:437
 translate philippine CF_S3_label_d97e482b:
 
     # Audrey "I try to create another image in my head, but it's impossible."
-    Audrey ""
+    Audrey "'Di ako makakapag-isip ng ibang anyo niya."
 
 # game/logic/events/ahchi.rpy:439
 translate philippine CF_S3_label_6adbddba:
 
     # Samantha "Ha-ha-ha, that's really funny."
-    Samantha ""
+    Samantha "Ha-ha-ha, nakakatawa naman."
 
 # game/logic/events/ahchi.rpy:440
 translate philippine CF_S3_label_c21c7bfd:
 
     # ch_Name "Didn't you get a look at the pictures with her as a little girl?"
-    ch_Name ""
+    ch_Name 'Di ka ba nakakita ng mga larawan niya noong maliit siya?"
 
 # game/logic/events/ahchi.rpy:441
 translate philippine CF_S3_label_db0892e4:
 
     # Audrey "Never!"
-    Audrey ""
+    Audrey "Wala talaga!"
 
 # game/logic/events/ahchi.rpy:442
 translate philippine CF_S3_label_d6bd6206:
 
     # ch_Name "I can show you few."
-    ch_Name ""
+    ch_Name "Meron ako dito."
 
 # game/logic/events/ahchi.rpy:444
 translate philippine CF_S3_label_20c5e98d:
 
     # Samantha "No-no-no!"
-    Samantha ""
+    Samantha "Hindi!"
 
 # game/logic/events/ahchi.rpy:445
 translate philippine CF_S3_label_be31ce93:
 
     # ch_Name "But why?"
-    ch_Name ""
+    ch_Name "Bakit?"
 
 # game/logic/events/ahchi.rpy:446
 translate philippine CF_S3_label_9dcd8ff5:
 
     # Samantha "I can't remember any good photo from my childhood."
-    Samantha ""
+    Samantha "'Di ako maalala ang isang mabuting larawan ko mula noon."
 
 # game/logic/events/ahchi.rpy:447
 translate philippine CF_S3_label_64a72bb2:
 
     # Samantha "My parents weren't the best photographers."
-    Samantha ""
+    Samantha "Hindi magaling ang mga magulang ko sa pagkukuha ng ganyan."
 
 # game/logic/events/ahchi.rpy:449
 translate philippine CF_S3_label_680e1f6a:
 
     # ch_Name "C'mon, what are you talking about?"
-    ch_Name ""
+    ch_Name "Sige na, ano ba sinasabi mo?"
 
 # game/logic/events/ahchi.rpy:450
 translate philippine CF_S3_label_c5cb9d35:
 
     # ch_Name "You look very cute on all of them!"
-    ch_Name ""
+    ch_Name "Ang cute mo naman sa lahat ng mga larawan mo!"
 
 # game/logic/events/ahchi.rpy:451
 translate philippine CF_S3_label_0498a733:
 
     # ch_Name "I swear."
-    ch_Name ""
+    ch_Name "Sinumpa ko."
 
 # game/logic/events/ahchi.rpy:452
 translate philippine CF_S3_label_aa68ad2a:
 
     # ch_Name "Let me show you my favourites."
-    ch_Name ""
+    ch_Name "Pakita ko sa iyo ang mga paborito ko."
 
 # game/logic/events/ahchi.rpy:454
 translate philippine CF_S3_label_5fda0ca4:
 
     # Samantha "What?"
-    Samantha ""
+    Samantha "Amo?"
 
 # game/logic/events/ahchi.rpy:455
 translate philippine CF_S3_label_0cd3d388:
 
     # Samantha "Do you really have my photos on your phone?"
-    Samantha ""
+    Samantha "May mga larawan ka ba sa selpon mo?"
 
 # game/logic/events/ahchi.rpy:456
 translate philippine CF_S3_label_81ee62f0:
 
     # ch_Name "Only a couple of them."
-    ch_Name ""
+    ch_Name "Nag-iilan lamang."
 
 # game/logic/events/ahchi.rpy:457
 translate philippine CF_S3_label_d823c5b2:
 
     # Samantha "You're shocking me, [Name]!"
-    Samantha ""
+    Samantha "Ginugulat mo ako, [Name]!"
 
 # game/logic/events/ahchi.rpy:459
 translate philippine CF_S3_label_de17a6db:
 
     # ch_Name "Only look at her!"
-    ch_Name ""
+    ch_Name "Tignan mo!"
 
 # game/logic/events/ahchi.rpy:460
 translate philippine CF_S3_label_2c552be4:
@@ -1246,25 +1246,25 @@ translate philippine CF_S3_label_2c552be4:
 translate philippine CF_S3_label_e834ea28:
 
     # Samantha "Okay, should admit that it's not the bad one."
-    Samantha ""
+    Samantha "Aaminin ko na hindi 'yan masama."
 
 # game/logic/events/ahchi.rpy:462
 translate philippine CF_S3_label_2ae65c46:
 
     # Audrey "You're were so sweet!"
-    Audrey ""
+    Audrey "Ang ganda mo dito!"
 
 # game/logic/events/ahchi.rpy:463
 translate philippine CF_S3_label_12d0b469:
 
     # Samantha "And what about now?"
-    Samantha ""
+    Samantha "At ngayon?"
 
 # game/logic/events/ahchi.rpy:465
 translate philippine CF_S3_label_b1f9faa1:
 
     # Audrey "Now you're the sweetest one!"
-    Audrey ""
+    Audrey "Ikaw ang pinakamaganda!"
 
 # game/logic/events/ahchi.rpy:466
 translate philippine CF_S3_label_2006ed55:
@@ -1276,211 +1276,211 @@ translate philippine CF_S3_label_2006ed55:
 translate philippine CF_S3_label_0486a18c:
 
     # Audrey "Do you have a parrot?"
-    Audrey ""
+    Audrey "May loro ka ba?"
 
 # game/logic/events/ahchi.rpy:468
 translate philippine CF_S3_label_c8808eac:
 
     # Samantha "I did."
-    Samantha ""
+    Samantha "Noon."
 
 # game/logic/events/ahchi.rpy:470
 translate philippine CF_S3_label_5e1142ef:
 
     # Samantha "It died when I was 12."
-    Samantha ""
+    Samantha "Namatay na noong 12 taon pa ako."
 
 # game/logic/events/ahchi.rpy:471
 translate philippine CF_S3_label_99b27920:
 
     # Samantha "The smartest bird that I've ever seen."
-    Samantha ""
+    Samantha "Ang pinakamatalinong ibon na nakita ko."
 
 # game/logic/events/ahchi.rpy:472
 translate philippine CF_S3_label_426e2eda:
 
     # Samantha "And she always sang before I went to sleep."
-    Samantha ""
+    Samantha "At kumakanta bago ako tutulog."
 
 # game/logic/events/ahchi.rpy:473
 translate philippine CF_S3_label_0d000422:
 
     # Audrey "So sad!"
-    Audrey ""
+    Audrey "Nakakalungkot naman!"
 
 # game/logic/events/ahchi.rpy:475
 translate philippine CF_S3_label_08ead00f:
 
     # Samantha "Oh, and here is my Birthday."
-    Samantha ""
+    Samantha "Ito ang kaarawan ko."
 
 # game/logic/events/ahchi.rpy:476
 translate philippine CF_S3_label_4321ea46:
 
     # Samantha "Gosh, I almost forgot about this photo!"
-    Samantha ""
+    Samantha "Nakalimutan ko na ang larawang ito!"
 
 # game/logic/events/ahchi.rpy:477
 translate philippine CF_S3_label_2301d66a:
 
     # Samantha "The worst Birthday ever."
-    Samantha ""
+    Samantha "Ang pinakamasamang kaarawan."
 
 # game/logic/events/ahchi.rpy:478
 translate philippine CF_S3_label_9edf36d0:
 
     # Audrey "Whaaat?"
-    Audrey ""
+    Audrey "Anoooo?"
 
 # game/logic/events/ahchi.rpy:479
 translate philippine CF_S3_label_4d19a0c9:
 
     # Audrey "Why?"
-    Audrey ""
+    Audrey "Bakit?"
 
 # game/logic/events/ahchi.rpy:481
 translate philippine CF_S3_label_3c19914b:
 
     # Samantha "I dreamed about the party and I planned everything at least a month in advance."
-    Samantha ""
+    Samantha "Pinangarap ko ang araw at nagplano ako ng isang buwan nang maaga."
 
 # game/logic/events/ahchi.rpy:482
 translate philippine CF_S3_label_7dd6ea03:
 
     # Samantha "Invited all the people I thought were my friends."
-    Samantha ""
+    Samantha "Nagbigay ng mga imbitasyon sa mga taong inakala ko na kaibigan."
 
 # game/logic/events/ahchi.rpy:483
 translate philippine CF_S3_label_37527f09:
 
     # Samantha "Was really excited about everything!"
-    Samantha ""
+    Samantha "Nasasabik talaga ako noon!"
 
 # game/logic/events/ahchi.rpy:484
 translate philippine CF_S3_label_8fa7f80e:
 
     # Samantha "But only few people came."
-    Samantha ""
+    Samantha "Pero ilan lamang ang dumating."
 
 # game/logic/events/ahchi.rpy:485
 translate philippine CF_S3_label_43bce8ca:
 
     # Samantha "I was crying half the night."
-    Samantha ""
+    Samantha "Umiyak ako sa gabi."
 
 # game/logic/events/ahchi.rpy:487
 translate philippine CF_S3_label_a0f91657:
 
     # Audrey "Ow, that sucks."
-    Audrey ""
+    Audrey "Kawawa naman."
 
 # game/logic/events/ahchi.rpy:488
 translate philippine CF_S3_label_e7f9d879:
 
     # Samantha "But it was the first time I realized what actually matters."
-    Samantha ""
+    Samantha "Pero napagtanto ko ang bagay na mahalaga."
 
 # game/logic/events/ahchi.rpy:489
 translate philippine CF_S3_label_f64fcd06:
 
     # Samantha "There are a lot of people in our life who seem to be there for us in words."
-    Samantha ""
+    Samantha "May mga taong sumasabi na nandoon sila para sa atin."
 
 # game/logic/events/ahchi.rpy:490
 translate philippine CF_S3_label_4879b9d0:
 
     # Samantha "But sometimes it's too difficult to say who's your real friend and who's not. "
-    Samantha ""
+    Samantha "Pero minsan mahirap malaman kung sino ang totoong kaibigan at sino ang hindi."
 
 # game/logic/events/ahchi.rpy:491
 translate philippine CF_S3_label_adc2e28f:
 
     # Samantha "Only time could tell."
-    Samantha ""
+    Samantha "Malalaman mo lang sa tamang panahon."
 
 # game/logic/events/ahchi.rpy:493
 translate philippine CF_S3_label_493508b3:
 
     # Samantha "So we must be more selective in choosing our inner circle."
-    Samantha ""
+    Samantha "Kaya dapat nating piliin ang mga tamang kaibigan."
 
 # game/logic/events/ahchi.rpy:494
 translate philippine CF_S3_label_59e0e3d8:
 
     # Samantha "And not to open up to those who were kind and showed a little bit more attention."
-    Samantha ""
+    Samantha "At hindi makipagkaibigan sa kung sino-sino lang."
 
 # game/logic/events/ahchi.rpy:495
 translate philippine CF_S3_label_1738fe7a:
 
     # Audrey "Do you have other photos with more funny story?"
-    Audrey ""
+    Audrey "May mga masayang larawan ba dito?"
 
 # game/logic/events/ahchi.rpy:496
 translate philippine CF_S3_label_1f0f7963:
 
     # Audrey "I don't want to get depressed."
-    Audrey ""
+    Audrey "Nalungkot na ako."
 
 # game/logic/events/ahchi.rpy:497
 translate philippine CF_S3_label_ed3a9e02:
 
     # Audrey "All what we've seen is pretty sad."
-    Audrey ""
+    Audrey "Ang nakita pa lang natin ay nakakalungkot."
 
 # game/logic/events/ahchi.rpy:498
 translate philippine CF_S3_label_21481fbc:
 
     # Samantha "Not at all!"
-    Samantha ""
+    Samantha "Hindi naman!"
 
 # game/logic/events/ahchi.rpy:500
 translate philippine CF_S3_label_9215fba0:
 
     # Samantha "This is a recent photograph!"
-    Samantha ""
+    Samantha "Bagong larawan lang ito!"
 
 # game/logic/events/ahchi.rpy:501
 translate philippine CF_S3_label_9ac9c4c7:
 
     # Audrey "Wow, is it your prom?"
-    Audrey ""
+    Audrey "Prom mo ba ito?"
 
 # game/logic/events/ahchi.rpy:502
 translate philippine CF_S3_label_f5afae39:
 
     # Samantha "Yes!"
-    Samantha ""
+    Samantha "Oo!"
 
 # game/logic/events/ahchi.rpy:503
 translate philippine CF_S3_label_82fcdf8a:
 
     # Samantha "Seems I haven't changed much."
-    Samantha ""
+    Samantha "'Di ako nagbago."
 
 # game/logic/events/ahchi.rpy:505
 translate philippine CF_S3_label_e5aa0dd7:
 
     # Audrey "You look gorgeous here!"
-    Audrey ""
+    Audrey "Ang ganda mo dito!"
 
 # game/logic/events/ahchi.rpy:506
 translate philippine CF_S3_label_dd0be327:
 
     # Audrey "And this dress is just amazing!"
-    Audrey ""
+    Audrey "Napakahusay naman ng suot mo!"
 
 # game/logic/events/ahchi.rpy:507
 translate philippine CF_S3_label_f77862e4:
 
     # ch_Name "I confirm every word she says."
-    ch_Name ""
+    ch_Name "Sang-ayon ako sa lahat ng sinabi niya."
 
 # game/logic/events/ahchi.rpy:508
 translate philippine CF_S3_label_d6808a47:
 
     # Samantha "Thank you, guys!"
-    Samantha ""
+    Samantha "Salamat talaga!"
 
 # game/logic/events/ahchi.rpy:510
 translate philippine CF_S3_label_b4c8c248:
@@ -1492,19 +1492,19 @@ translate philippine CF_S3_label_b4c8c248:
 translate philippine CF_S3_label_fa1fec95:
 
     # Samantha "Oh, Dad calling."
-    Samantha ""
+    Samantha "Tumatawag si Tatay."
 
 # game/logic/events/ahchi.rpy:513
 translate philippine CF_S3_label_2c28fd39:
 
     # Samantha "I will talk to him outside."
-    Samantha ""
+    Samantha "Mag-uusap ako sa kanya sa labas."
 
 # game/logic/events/ahchi.rpy:514
 translate philippine CF_S3_label_74fe46c5:
 
     # Samantha "It was good to see you, [Name]."
-    Samantha ""
+    Samantha "Mabuti naman na nakipagkita tayo, [Name]."
 
 # game/logic/events/ahchi.rpy:515
 translate philippine CF_S3_label_f0e2b69a:
@@ -1516,7 +1516,7 @@ translate philippine CF_S3_label_f0e2b69a:
 translate philippine CF_S3_label_ddf997b6:
 
     # Audrey "I will go too."
-    Audrey ""
+    Audrey "Aalis na rin ako."
 
 # game/logic/events/ahchi.rpy:517
 translate philippine CF_S3_label_d993430b:
@@ -1528,25 +1528,25 @@ translate philippine CF_S3_label_d993430b:
 translate philippine CF_S3_label_aa7fe2ec:
 
     # ch_Name "{i}(Haven't seen photos from my childhood for a long time, by the way.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ang tagal ko nang hindi nakita ang mga larawan mula noong bata pa ako.){/i}"
 
 # game/logic/events/ahchi.rpy:520
 translate philippine CF_S3_label_bd73d1ce:
 
     # ch_Name "{i}(And there are no photos on my phone.){/i}"
-    ch_Name ""
+    ch_Name "{i}(At wala akong mga larawan dito.){/i}"
 
 # game/logic/events/ahchi.rpy:521
 translate philippine CF_S3_label_7ec1ec1d:
 
     # ch_Name "{i}(Sure that Olivia has a couple of them somewhere.){/i}"
-    ch_Name ""
+    ch_Name " "{i}(Baka may kopya si Olivia.){/i}""
 
 # game/logic/events/ahchi.rpy:522
 translate philippine CF_S3_label_65aa3967:
 
     # ch_Name "{i}(Maybe I should write her?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Susulat ba ako sa kanya?){/i}"
 
 # game/logic/events/ahchi.rpy:536
 translate philippine CF_S4_label_4d7c1aa5:
