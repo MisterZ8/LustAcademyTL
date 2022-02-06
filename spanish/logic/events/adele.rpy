@@ -4,55 +4,55 @@
 translate spanish adele_1_label_efeaf80b:
 
     # ch_Name "{i}(Oh là là!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh là là!){/i}"
 
 # game/logic/events/adele.rpy:91
 translate spanish adele_1_label_24019c48:
 
     # Adele "Welcome to the Lady Luck, honey!"
-    Adele ""
+    Adele "¡Bienvenido al Lady Luck cariño!"
 
 # game/logic/events/adele.rpy:92
 translate spanish adele_1_label_d7d11d21:
 
     # Adele "Don't be shy, come in!"
-    Adele ""
+    Adele "¡Pasa, no seas tímido!"
 
 # game/logic/events/adele.rpy:94
 translate spanish adele_1_label_47c177b7:
 
     # Adele "My name is Adele."
-    Adele ""
+    Adele "Ma llamo Adele."
 
 # game/logic/events/adele.rpy:95
 translate spanish adele_1_label_f2f91473:
 
     # Adele "It's nice to see you."
-    Adele ""
+    Adele "Me alegra verte."
 
 # game/logic/events/adele.rpy:97
 translate spanish adele_1_label_934cf06d:
 
     # Adele "You look like a hero."
-    Adele ""
+    Adele "Tienes pinta de heroe."
 
 # game/logic/events/adele.rpy:98
 translate spanish adele_1_label_8be935fe:
 
     # ch_Name "Come on, I'm just..."
-    ch_Name ""
+    ch_Name "Venga ya, solo estaba..."
 
 # game/logic/events/adele.rpy:100
 translate spanish adele_1_label_cf46efba:
 
     # Adele "You won't regreat you've stopped by."
-    Adele ""
+    Adele "No te arrepentirás de haberte pasado."
 
 # game/logic/events/adele.rpy:101
 translate spanish adele_1_label_ac7bbadc:
 
     # ch_Name "{i}(Her hands are so soft...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sus manos son tan suaves...){/i}"
 
 # game/logic/events/adele.rpy:102
 translate spanish adele_1_label_d2cd6dee:
