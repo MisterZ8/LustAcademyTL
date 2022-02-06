@@ -2626,979 +2626,979 @@ translate russian CF_S5_label_bd2a393d:
 translate russian CF_S5_label_cd06306d:
 
     # Audrey "Samantha is the most amazing person that I've ever met."
-    Audrey ""
+    Audrey "Samantha - самый удивительный человек, которого я когда-либо встречала."
 
 # game/logic/events/ahchi.rpy:767
 translate russian CF_S5_label_4b16836a:
 
     # ch_Name "Yes, she's just wonderful!"
-    ch_Name ""
+    ch_Name "Да, она просто прекрасна!"
 
 # game/logic/events/ahchi.rpy:768
 translate russian CF_S5_label_4fa28c89:
 
     # Audrey "And I never thought I would say that, but..."
-    Audrey ""
+    Audrey "И я никогда не думала, что скажу это, но..."
 
 # game/logic/events/ahchi.rpy:769
 translate russian CF_S5_label_45632ec4:
 
     # Audrey "I'm really happy that we start to hang out more."
-    Audrey ""
+    Audrey "Я очень рада, что мы начинаем больше тусоваться."
 
 # game/logic/events/ahchi.rpy:770
 translate russian CF_S5_label_9580c855:
 
     # Audrey "Like the three of us."
-    Audrey ""
+    Audrey "Мы втроем."
 
 # game/logic/events/ahchi.rpy:772
 translate russian CF_S5_label_15c61b42:
 
     # Audrey "And you're not that big bore as I used to imagine."
-    Audrey ""
+    Audrey "И ты не такой большой зануда, как я себе представляла."
 
 # game/logic/events/ahchi.rpy:773
 translate russian CF_S5_label_b9624aa3:
 
     # ch_Name "I'll take it as a compliment."
-    ch_Name ""
+    ch_Name ""Я приму это как комплимент.
 
 # game/logic/events/ahchi.rpy:774
 translate russian CF_S5_label_b4c33c46:
 
     # ch_Name "I also changed my opinion about you."
-    ch_Name ""
+    ch_Name "Я тоже изменил свое мнение о тебе."
 
 # game/logic/events/ahchi.rpy:775
 translate russian CF_S5_label_57ba9d2c:
 
     # ch_Name "You're not so evil as I thought you're."
-    ch_Name ""
+    ch_Name "Ты не такая злая, как я думал."
 
 # game/logic/events/ahchi.rpy:777
 translate russian CF_S5_label_7185cddf:
 
     # Audrey "Ha-ha-ha-ha-ha."
-    Audrey ""
+    Audrey "Ха-ха-ха-ха-ха."
 
 # game/logic/events/ahchi.rpy:778
 translate russian CF_S5_label_2173f409:
 
     # Audrey "Well..."
-    Audrey ""
+    Audrey "Что ж..."
 
 # game/logic/events/ahchi.rpy:779
 translate russian CF_S5_label_eaac26a4:
 
     # Audrey "I will also take it as a compliment."
-    Audrey ""
+    Audrey "Я тоже приму это как комплимент."
 
 # game/logic/events/ahchi.rpy:780
 translate russian CF_S5_label_20c7648a:
 
     # Audrey "Okay, I'd rather go."
-    Audrey ""
+    Audrey "Ладно, я лучше пойду."
 
 # game/logic/events/ahchi.rpy:782
 translate russian CF_S5_label_29dec0ac:
 
     # Audrey "Will try to find Samantha."
-    Audrey ""
+    Audrey "Постараюсь найти Samantha."
 
 # game/logic/events/ahchi.rpy:783
 translate russian CF_S5_label_930a228d:
 
     # Audrey "Thanks for the evening, [Name]."
-    Audrey ""
+    Audrey "Спасибо за вечер, [Name]."
 
 # game/logic/events/ahchi.rpy:784
 translate russian CF_S5_label_72881c92:
 
     # ch_Name "Actually, thank you, Audrey."
-    ch_Name ""
+    ch_Name "Вообще-то, спасибо, Audrey."
 
 # game/logic/events/ahchi.rpy:785
 translate russian CF_S5_label_20d84f11:
 
     # ch_Name "See you!"
-    ch_Name ""
+    ch_Name "Увидимся!"
 
 # game/logic/events/ahchi.rpy:797
 translate russian CF_Ahchi_1_label_83609cb9:
 
     # ch_Name "Hello, Ahchi! How are you?"
-    ch_Name ""
+    ch_Name "Привет, Ahchi! Как дела?"
 
 # game/logic/events/ahchi.rpy:798
 translate russian CF_Ahchi_1_label_763e1d8f:
 
     # Ahchi "Good to see you again. Congratulations, on winning your house."
-    Ahchi ""
+    Ahchi "Приятно снова вас видеть. Поздравляю с выигрышем вашего дома."
 
 # game/logic/events/ahchi.rpy:799
 translate russian CF_Ahchi_1_label_0ff308dc:
 
     # ch_Name "А? How do you know it won?"
-    ch_Name ""
+    ch_Name "А? Откуда ты знаешь, что он выиграл?"
 
 # game/logic/events/ahchi.rpy:801
 translate russian CF_Ahchi_1_label_94522089:
 
     # Ahchi "I told you I love hanging out with Cordale students."
-    Ahchi ""
+    Ahchi "Я говорил вам, что люблю тусоваться со студентами Cordale."
 
 # game/logic/events/ahchi.rpy:802
 translate russian CF_Ahchi_1_label_ca4a76ad:
 
     # Ahchi "How else would you get here?"
-    Ahchi ""
+    Ahchi "Как еще вы могли бы добраться сюда?"
 
 # game/logic/events/ahchi.rpy:803
 translate russian CF_Ahchi_1_label_d18526a2:
 
     # ch_Name "Huh, that's true. By the way, my name is [Name]."
-    ch_Name ""
+    ch_Name "Ха, это правда. Кстати, меня зовут [Name]."
 
 # game/logic/events/ahchi.rpy:804
 translate russian CF_Ahchi_1_label_307d1c84:
 
     # Ahchi "Nice to meet you, [Name]."
-    Ahchi ""
+    Ahchi "Приятно познакомиться, [Name]."
 
 # game/logic/events/ahchi.rpy:805
 translate russian CF_Ahchi_1_label_9e23f0b7:
 
     # Ahchi "Speaking of victories. Have you heard of Tormund the Dragonlord?"
-    Ahchi ""
+    Ahchi "К слову о победах. Вы слышали о Tormund, Повелителе драконов?"
 
 # game/logic/events/ahchi.rpy:807
 translate russian CF_Ahchi_1_label_d8a4f82e:
 
     # ch_Name "Dragonslayer? I haven't even heard of them."
-    ch_Name ""
+    ch_Name "Убийца Драконов? Я даже не слышал о них."
 
 # game/logic/events/ahchi.rpy:808
 translate russian CF_Ahchi_1_label_16fc89fa:
 
     # ch_Name "Are they some kind of dragon hunters?"
-    ch_Name ""
+    ch_Name "Они какие-то охотники на драконов?"
 
 # game/logic/events/ahchi.rpy:810
 translate russian CF_Ahchi_1_label_3766c058:
 
     # Ahchi "Bingo! But now it's more of a storybook club, about old times."
-    Ahchi ""
+    Ahchi "Бинго! Но сейчас это больше похоже на клуб сборников рассказов о старых временах."
 
 # game/logic/events/ahchi.rpy:811
 translate russian CF_Ahchi_1_label_666528b5:
 
     # Ahchi "I mean, dragons went extinct about 40 years ago. At least, that's what they were thought."
-    Ahchi ""
+    Ahchi "Я имею в виду, что драконы вымерли около 40 лет назад. По крайней мере, так они думали."
 
 # game/logic/events/ahchi.rpy:812
 translate russian CF_Ahchi_1_label_2c5de84d:
 
     # Ahchi "They say he heard that there are dragons in the mountains above Dale."
-    Ahchi ""
+    Ahchi "Говорят, он слышал, что в горах над Dale водятся драконы."
 
 # game/logic/events/ahchi.rpy:813
 translate russian CF_Ahchi_1_label_e293a2e1:
 
     # Ahchi "Can you believe it? I wish I could see a dragon with my own eyes."
-    Ahchi ""
+    Ahchi "Ты можешь в это поверить? Хотел бы я увидеть дракона своими глазами."
 
 # game/logic/events/ahchi.rpy:815
 translate russian CF_Ahchi_1_label_1126f449:
 
     # ch_Name "Extinct? Are you sure about that?"
-    ch_Name ""
+    ch_Name "Вымерли? Вы уверены?"
 
 # game/logic/events/ahchi.rpy:816
 translate russian CF_Ahchi_1_label_aa19ad03:
 
     # ch_Name "I saw them on my way to Cordale. With my own eyes."
-    ch_Name ""
+    ch_Name "Я видел их по дороге в Кордейл. Своими глазами."
 
 # game/logic/events/ahchi.rpy:817
 translate russian CF_Ahchi_1_label_2d19c4ef:
 
     # Ahchi "Oh, come on! You're not lying?"
-    Ahchi ""
+    Ahchi "Ох, да ну! Вы не лжете?"
 
 # game/logic/events/ahchi.rpy:818
 translate russian CF_Ahchi_1_label_88685b49:
 
     # ch_Name "Why would I lie? I didn't even know it was rare..."
-    ch_Name ""
+    ch_Name "Зачем мне лгать? Я даже не знал, что это редкость..."
 
 # game/logic/events/ahchi.rpy:819
 translate russian CF_Ahchi_1_label_1f63e0d6:
 
     # Ahchi "Lucky me! Big ones? Breathing fire? How did you survive?"
-    Ahchi ""
+    Ahchi "Повезло! Они большие? Дышали огнем? Как ты выжил?"
 
 # game/logic/events/ahchi.rpy:820
 translate russian CF_Ahchi_1_label_bf80a1c7:
 
     # Ahchi "Tell me everything!"
-    Ahchi ""
+    Ahchi "Расскажи мне все!"
 
 # game/logic/events/ahchi.rpy:822
 translate russian CF_Ahchi_1_label_0a9e5ce7:
 
     # ch_Name "Hmm... I'd love to, but I'm starving."
-    ch_Name ""
+    ch_Name "Хм... Я бы с удовольствием, но я голоден."
 
 # game/logic/events/ahchi.rpy:823
 translate russian CF_Ahchi_1_label_29fb3b25:
 
     # ch_Name "Do you have any advice on what to eat?"
-    ch_Name ""
+    ch_Name "Есть ли у вас какие-либо советы о том, что поесть?"
 
 # game/logic/events/ahchi.rpy:824
 translate russian CF_Ahchi_1_label_fa1342e3:
 
     # Ahchi "Sure. Just a second..."
-    Ahchi ""
+    Ahchi "Конечно. Одну секунду..."
 
 # game/logic/events/ahchi.rpy:825
 translate russian CF_Ahchi_1_label_05ca34a4:
 
     # Ahchi "I just got a delivery today that sells out in a matter of hours."
-    Ahchi ""
+    Ahchi "Я только что получил доставку сегодня, которая была распродана в течение нескольких часов."
 
 # game/logic/events/ahchi.rpy:827
 translate russian CF_Ahchi_1_label_dd4dda29:
 
     # Ahchi "There you go!"
-    Ahchi ""
+    Ahchi "Ну вот!"
 
 # game/logic/events/ahchi.rpy:828
 translate russian CF_Ahchi_1_label_80902941:
 
     # ch_Name "That looks great. What is it?"
-    ch_Name ""
+    ch_Name "Это выглядит великолепно. Что это?"
 
 # game/logic/events/ahchi.rpy:829
 translate russian CF_Ahchi_1_label_fb4a43fb:
 
     # Ahchi "Enchanted roll. It's just the name."
-    Ahchi ""
+    Ahchi "Зачарованный ролл. Это просто имя."
 
 # game/logic/events/ahchi.rpy:830
 translate russian CF_Ahchi_1_label_758cd741:
 
     # Ahchi "It's actually a mascarpone roll with seasonal berries."
-    Ahchi ""
+    Ahchi "На самом деле это рулет из маскарпоне с сезонными ягодами."
 
 # game/logic/events/ahchi.rpy:831
 translate russian CF_Ahchi_1_label_f4f7d0c7:
 
     # ch_Name "Sounds great. How much do I owe you?"
-    ch_Name ""
+    ch_Name "Звучит здорово. Сколько я вам должен?"
 
 # game/logic/events/ahchi.rpy:833
 translate russian CF_Ahchi_1_label_307a5230:
 
     # Ahchi "On the house, my friend."
-    Ahchi ""
+    Ahchi "Я угощаю, мой друг."
 
 # game/logic/events/ahchi.rpy:834
 translate russian CF_Ahchi_1_label_0479a329:
 
     # Ahchi "Just tell me about the dragons!"
-    Ahchi ""
+    Ahchi "Просто расскажи мне о драконах!"
 
 # game/logic/events/ahchi.rpy:835
 translate russian CF_Ahchi_1_label_ac570391:
 
     # ch_Name "Huh, wow. Thank you very much. I'd be happy to tell you."
-    ch_Name ""
+    ch_Name "Ха, вау. Большое Вам спасибо. Я был бы рад рассказать вам."
 
 # game/logic/events/ahchi.rpy:837
 translate russian CF_Ahchi_1_label_bfd0cf3d:
 
     # ch_Name "{i}(Ahchi enjoyed listening to the story about the dragons we saw with Haley.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ahchi понравилось слушать историю о драконах, которых мы видели с Haley.){/i}"
 
 # game/logic/events/ahchi.rpy:838
 translate russian CF_Ahchi_1_label_195eaddc:
 
     # ch_Name "{i}(He's surprisingly easy and fun to talk to, and also a good listener.){/i}"
-    ch_Name ""
+    ch_Name "{i}(С ним удивительно легко и весело общаться, а также он умеет слушать.){/i}"
 
 # game/logic/events/ahchi.rpy:839
 translate russian CF_Ahchi_1_label_dad808b9:
 
     # ch_Name "{i}(If he didn't have other visitors, we'd be chatting until closing time.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Если бы у него не было других посетителей, мы болтали бы до закрытия.){/i}"
 
 # game/logic/events/ahchi.rpy:851
 translate russian CF_Ahchi_2_label_c31d152b:
 
     # ch_Name "Hey, Ahchi! How's business?"
-    ch_Name ""
+    ch_Name "Эй, Ahchi! Как бизнес?"
 
 # game/logic/events/ahchi.rpy:852
 translate russian CF_Ahchi_2_label_3f26d7ac:
 
     # Ahchi "It's going pretty good. Thanks to the students, I'm always afloat."
-    Ahchi ""
+    Ahchi "Все идет хорошо. Благодаря ученикам я всегда на плаву."
 
 # game/logic/events/ahchi.rpy:853
 translate russian CF_Ahchi_2_label_faf8687c:
 
     # Ahchi "Can I make you something?"
-    Ahchi ""
+    Ahchi "Могу я сделать вам что-нибудь?"
 
 # game/logic/events/ahchi.rpy:854
 translate russian CF_Ahchi_2_label_8f6aa11c:
 
     # ch_Name "I want to quench my thirst. What can I get you?"
-    ch_Name ""
+    ch_Name "Я хочу утолить жажду. Что вы можете предложить?"
 
 # game/logic/events/ahchi.rpy:856
 translate russian CF_Ahchi_2_label_d5a01eea:
 
     # Ahchi "Do you like coffee?"
-    Ahchi ""
+    Ahchi "Вам нравится кофе?"
 
 # game/logic/events/ahchi.rpy:857
 translate russian CF_Ahchi_2_label_53d8459d:
 
     # ch_Name "Of course I do."
-    ch_Name ""
+    ch_Name "Конечно."
 
 # game/logic/events/ahchi.rpy:858
 translate russian CF_Ahchi_2_label_a43d2d51:
 
     # Ahchi "Then my signature latte with turmeric and pumpkin puree awaits you."
-    Ahchi ""
+    Ahchi "Тогда вас ждет мой фирменный латте с куркумой и тыквенным пюре."
 
 # game/logic/events/ahchi.rpy:859
 translate russian CF_Ahchi_2_label_bd6fa9cb:
 
     # ch_Name "Sounds weird, but I'm in."
-    ch_Name ""
+    ch_Name "Звучит странно, но я в деле."
 
 # game/logic/events/ahchi.rpy:861
 translate russian CF_Ahchi_2_label_3da033dc:
 
     # Ahchi "I'll be right there."
-    Ahchi ""
+    Ahchi "Я буду здесь."
 
 # game/logic/events/ahchi.rpy:862
 translate russian CF_Ahchi_2_label_db16e8fe:
 
     # Ahchi "Did you hear what old man Chompsky pulled the other day?"
-    Ahchi ""
+    Ahchi "Вы слышали, что на днях выкинул старик Chompsky?"
 
 # game/logic/events/ahchi.rpy:863
 translate russian CF_Ahchi_2_label_7c828677:
 
     # ch_Name "Gordon? No, what happened?"
-    ch_Name ""
+    ch_Name "Gordon? Нет, что случилось?"
 
 # game/logic/events/ahchi.rpy:865
 translate russian CF_Ahchi_2_label_9fc12201:
 
     # Ahchi "Some poor bastard didn't realise Willow was his daughter."
-    Ahchi ""
+    Ahchi "Какой-то бедняга не понял, что Willow была его дочерью."
 
 # game/logic/events/ahchi.rpy:866
 translate russian CF_Ahchi_2_label_3c19d858:
 
     # Ahchi "And he said he'd taste her fishcake."
-    Ahchi ""
+    Ahchi "И он сказал, что попробует ее рыбный пирог."
 
 # game/logic/events/ahchi.rpy:867
 translate russian CF_Ahchi_2_label_da87f1cf:
 
     # Ahchi "Right in Gordon's face."
-    Ahchi ""
+    Ahchi "Прямо в лицо Gordon."
 
 # game/logic/events/ahchi.rpy:868
 translate russian CF_Ahchi_2_label_d01f092f:
 
     # ch_Name "{i}(Ugh, I don't envy him...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Фу, я ему не завидую...){/i}"
 
 # game/logic/events/ahchi.rpy:869
 translate russian CF_Ahchi_2_label_86dd4401:
 
     # ch_Name "And what did he do with it?"
-    ch_Name ""
+    ch_Name "И что он с ним сделал?"
 
 # game/logic/events/ahchi.rpy:871
 translate russian CF_Ahchi_2_label_0e2694ac:
 
     # Ahchi "I'd never seen a man beaten with raw fish before."
-    Ahchi ""
+    Ahchi "Я никогда раньше не видел, чтобы человека били сырой рыбой."
 
 # game/logic/events/ahchi.rpy:872
 translate russian CF_Ahchi_2_label_29cb63c2:
 
     # Ahchi "But it was spectacular."
-    Ahchi ""
+    Ahchi "Но это было зрелищно."
 
 # game/logic/events/ahchi.rpy:873
 translate russian CF_Ahchi_2_label_4bf1f5db:
 
     # Ahchi "I think the poor guy will have a trout-shaped scar on his back."
-    Ahchi ""
+    Ahchi "Думаю, у бедняги на спине будет шрам в виде форели."
 
 # game/logic/events/ahchi.rpy:874
 translate russian CF_Ahchi_2_label_c734abf5:
 
     # ch_Name "Ha-ha-ha... Yeah..."
-    ch_Name ""
+    ch_Name "Ха-ха-ха... Да..."
 
 # game/logic/events/ahchi.rpy:876
 translate russian CF_Ahchi_2_label_9296df75:
 
     # ch_Name "{i}(I wish I'd seen it! It must have been quite a sight.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Хотел бы я это увидеть! Должно быть, это было зрелище.){/i}"
 
 # game/logic/events/ahchi.rpy:877
 translate russian CF_Ahchi_2_label_d6d59e22:
 
     # Ahchi "The finishing touch is left, and..."
-    Ahchi ""
+    Ahchi "Остался последний штрих, и..."
 
 # game/logic/events/ahchi.rpy:878
 translate russian CF_Ahchi_2_label_3d22d094:
 
     # Ahchi "Yeah, I can already feel you're going to love it!"
-    Ahchi ""
+    Ahchi "Да, я уже чувствую, что тебе это понравится!"
 
 # game/logic/events/ahchi.rpy:880
 translate russian CF_Ahchi_2_label_26e2c164:
 
     # Ahchi "One Pumpkin Latte to your order."
-    Ahchi ""
+    Ahchi "Один тыквенный латте к вашему заказу."
 
 # game/logic/events/ahchi.rpy:881
 translate russian CF_Ahchi_2_label_3a5c7650:
 
     # ch_Name "Thank you."
-    ch_Name ""
+    ch_Name "Спасибо."
 
 # game/logic/events/ahchi.rpy:882
 translate russian CF_Ahchi_2_label_635def9b:
 
     # ch_Name "It smells great, I can smell it even from here."
-    ch_Name ""
+    ch_Name "Запах отличный, я чувствую его даже отсюда."
 
 # game/logic/events/ahchi.rpy:884
 translate russian CF_Ahchi_2_label_a5e03c43:
 
     # Ahchi "No way! You try it, come on."
-    Ahchi ""
+    Ahchi "Ни за что! Ты попробуй, давай."
 
 # game/logic/events/ahchi.rpy:885
 translate russian CF_Ahchi_2_label_29c25ec2:
 
     # Ahchi "I'm not letting you go until I see the reaction on your face."
-    Ahchi ""
+    Ahchi "Я не отпущу тебя, пока не увижу реакцию на твоем лице."
 
 # game/logic/events/ahchi.rpy:886
 translate russian CF_Ahchi_2_label_12c690e3:
 
     # ch_Name "Well... All right!"
-    ch_Name ""
+    ch_Name "Что ж... Ладно!"
 
 # game/logic/events/ahchi.rpy:888
 translate russian CF_Ahchi_2_label_8982e1c4:
 
     # ch_Name "Mmm..."
-    ch_Name ""
+    ch_Name "Ммм..."
 
 # game/logic/events/ahchi.rpy:889
 translate russian CF_Ahchi_2_label_864aabb8:
 
     # ch_Name "{i}(Damn, this is fucking delicious!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Черт, это чертовски вкусно!){/i}"
 
 # game/logic/events/ahchi.rpy:890
 translate russian CF_Ahchi_2_label_67d48020:
 
     # ch_Name "{i}(I've never had coffee this good in my life...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я никогда в жизни не пил такой вкусный кофе...){/i}"
 
 # game/logic/events/ahchi.rpy:891
 translate russian CF_Ahchi_2_label_3e65b2b6:
 
     # ch_Name "{i}(This guy's a goddamn wizard!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Этот парень чертов волшебник!){/i}"
 
 # game/logic/events/ahchi.rpy:893
 translate russian CF_Ahchi_2_label_e7d59ecf:
 
     # ch_Name "That's what you need! Even more than that."
-    ch_Name ""
+    ch_Name "Это то, что мне нужно! Даже больше."
 
 # game/logic/events/ahchi.rpy:894
 translate russian CF_Ahchi_2_label_4620c531:
 
     # ch_Name "It's a masterpiece!"
-    ch_Name ""
+    ch_Name "Это шедевр!"
 
 # game/logic/events/ahchi.rpy:895
 translate russian CF_Ahchi_2_label_ffdf8df9:
 
     # ch_Name "Thanks, Ahchi. I'm going for a walk to enjoy this divine beverage."
-    ch_Name ""
+    ch_Name "Спасибо, Ahchi. Я собираюсь прогуляться, чтобы насладиться этим божественным напитком."
 
 # game/logic/events/ahchi.rpy:897
 translate russian CF_Ahchi_2_label_4a4c5e9f:
 
     # Ahchi "Nothing warms the soul like a satisfied customer."
-    Ahchi ""
+    Ahchi "Ничто так не греет душу, как довольный клиент."
 
 # game/logic/events/ahchi.rpy:898
 translate russian CF_Ahchi_2_label_56795ea9:
 
     # Ahchi "See you soon!"
-    Ahchi ""
+    Ahchi "Увидимся!"
 
 # game/logic/events/ahchi.rpy:910
 translate russian CF_Ahchi_3_label_b4fe6b7c:
 
     # ch_Name "Yo, Ahchi!"
-    ch_Name ""
+    ch_Name "Йо, Ahchi!"
 
 # game/logic/events/ahchi.rpy:911
 translate russian CF_Ahchi_3_label_89a3c9cf:
 
     # ch_Name "What's your surprise today?"
-    ch_Name ""
+    ch_Name "Чем ты сегодня удивишь?"
 
 # game/logic/events/ahchi.rpy:912
 translate russian CF_Ahchi_3_label_a1a1005e:
 
     # Ahchi "Hey there, [Name]. Good to see a regular customer!"
-    Ahchi ""
+    Ahchi "Привет, [Name]. Приятно видеть постоянного клиента!"
 
 # game/logic/events/ahchi.rpy:914
 translate russian CF_Ahchi_3_label_bf474da2:
 
     # Ahchi "What can I surprise you with? Food, drink, maybe a story?"
-    Ahchi ""
+    Ahchi "Чем я могу вас удивить? Еда, питье, может рассказ?"
 
 # game/logic/events/ahchi.rpy:915
 translate russian CF_Ahchi_3_label_17d84ca0:
 
     # ch_Name "Heh. Of course, it's a story."
-    ch_Name ""
+    ch_Name "Хе. Конечно, это история."
 
 # game/logic/events/ahchi.rpy:916
 translate russian CF_Ahchi_3_label_6804af7f:
 
     # ch_Name "Although I would love your signature latte, too."
-    ch_Name ""
+    ch_Name "Хотя мне бы тоже понравился твой фирменный латте."
 
 # game/logic/events/ahchi.rpy:917
 translate russian CF_Ahchi_3_label_9bf0946c:
 
     # Ahchi "Then it'll be two for one."
-    Ahchi ""
+    Ahchi "Тогда будет два в одном."
 
 # game/logic/events/ahchi.rpy:919
 translate russian CF_Ahchi_3_label_b936bb84:
 
     # Ahchi "They say there's a creature in town that attacks blondes at night."
-    Ahchi ""
+    Ahchi "Говорят, в городе есть существо, которое ночью нападает на блондинок."
 
 # game/logic/events/ahchi.rpy:920
 translate russian CF_Ahchi_3_label_39b1d81b:
 
     # Ahchi "Not a single victim, unless you count the girl who broke her knee running away."
-    Ahchi ""
+    Ahchi "Ни одной жертвы, если не считать сбежавшей девушки, сломавшей колено."
 
 # game/logic/events/ahchi.rpy:921
 translate russian CF_Ahchi_3_label_d558ace0:
 
     # Ahchi "But it sounds creepy, doesn't it?"
-    Ahchi ""
+    Ahchi "Но звучит жутковато, не так ли?"
 
 # game/logic/events/ahchi.rpy:923
 translate russian CF_Ahchi_3_label_abae4ef0:
 
     # ch_Name "{i}(A creature that attacks people at night?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Существо, которое нападает на людей ночью?){/i}"
 
 # game/logic/events/ahchi.rpy:924
 translate russian CF_Ahchi_3_label_d2908df4:
 
     # ch_Name "{i}(Could it be that giant? No, that sounds crazy...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Может быть, это тот гигант? Нет, это звучит безумно...){/i}"
 
 # game/logic/events/ahchi.rpy:925
 translate russian CF_Ahchi_3_label_bf070351:
 
     # ch_Name "Creepy, of course."
-    ch_Name ""
+    ch_Name "Жутко, конечно."
 
 # game/logic/events/ahchi.rpy:926
 translate russian CF_Ahchi_3_label_4aedf8e7:
 
     # Ahchi "But interesting. Why blondes in particular?"
-    Ahchi ""
+    Ahchi "Но интересно. Почему именно блондинки?"
 
 # game/logic/events/ahchi.rpy:927
 translate russian CF_Ahchi_3_label_5e4acdf9:
 
     # ch_Name "Everyone has their own tastes."
-    ch_Name ""
+    ch_Name "У каждого свои вкусы."
 
 # game/logic/events/ahchi.rpy:929
 translate russian CF_Ahchi_3_label_ff4afb9b:
 
     # Ahchi "That's for sure."
-    Ahchi ""
+    Ahchi "Это точно."
 
 # game/logic/events/ahchi.rpy:930
 translate russian CF_Ahchi_3_label_6ab5f741:
 
     # Ahchi "Do you want it exactly the same as last time, or should I sprinkle it with dried roses?"
-    Ahchi ""
+    Ahchi "Хочешь точно так же, как в прошлый раз, или мне посыпать сушеными розами?"
 
 # game/logic/events/ahchi.rpy:931
 translate russian CF_Ahchi_3_label_3ca0aa8a:
 
     # ch_Name "Dried roses? That doesn't sound very appetizing."
-    ch_Name ""
+    ch_Name "Сухие розы? Звучит не очень аппетитно."
 
 # game/logic/events/ahchi.rpy:932
 translate russian CF_Ahchi_3_label_8f0ef4e4:
 
     # Ahchi "Oh, trust me, you'll love it. These are special roses."
-    Ahchi ""
+    Ahchi "О, поверь мне, тебе понравится. Это особенные розы."
 
 # game/logic/events/ahchi.rpy:933
 translate russian CF_Ahchi_3_label_fab25bae:
 
     # ch_Name "Go ahead, then."
-    ch_Name ""
+    ch_Name "Тогда вперед."
 
 # game/logic/events/ahchi.rpy:935
 translate russian CF_Ahchi_3_label_2b457faf:
 
     # Ahchi "Here you go, your pumpkin latte."
-    Ahchi ""
+    Ahchi "Вот тебе тыквенный латте."
 
 # game/logic/events/ahchi.rpy:936
 translate russian CF_Ahchi_3_label_41d62b80:
 
     # Ahchi "Tell me later how you like this recipe."
-    Ahchi ""
+    Ahchi "Расскажите мне позже, как вам этот рецепт."
 
 # game/logic/events/ahchi.rpy:937
 translate russian CF_Ahchi_3_label_874b9ce4:
 
     # ch_Name "I will. Oh, thank you."
-    ch_Name ""
+    ch_Name "Расскажу. О, спасибо."
 
 # game/logic/events/ahchi.rpy:939
 translate russian CF_Ahchi_3_label_738ab24a:
 
     # Ahchi "Do you want something to eat? They brought in some new sweets."
-    Ahchi ""
+    Ahchi "Не хотите ли вы что нибудь съесть? Принесли новые сладости."
 
 # game/logic/events/ahchi.rpy:940
 translate russian CF_Ahchi_3_label_b6a00fe8:
 
     # ch_Name "I think I'll take a rain check."
-    ch_Name ""
+    ch_Name "Я думаю, я возьму проверку дождя."
 
 # game/logic/events/ahchi.rpy:941
 translate russian CF_Ahchi_3_label_31f90247:
 
     # UnknownMan_2 "Ahchi, make us some more coffee, okay!"
-    UnknownMan_2 ""
+    UnknownMan_2 "Ahchi, сделай нам еще кофе, ладно!"
 
 # game/logic/events/ahchi.rpy:942
 translate russian CF_Ahchi_3_label_6cf1cb33:
 
     # Ahchi "Right away!"
-    Ahchi ""
+    Ahchi "Уже иду!"
 
 # game/logic/events/ahchi.rpy:943
 translate russian CF_Ahchi_3_label_5977c185:
 
     # Ahchi "Sorry, [Name]. I have work to do. It was nice to see you. Come again!"
-    Ahchi ""
+    Ahchi "Прости, [Name]. У меня есть работа. Было приятно видеть тебя. Приходи еще!"
 
 # game/logic/events/ahchi.rpy:944
 translate russian CF_Ahchi_3_label_0b28c3dd:
 
     # ch_Name "I will. Good luck!"
-    ch_Name ""
+    ch_Name "Обязательно. Удачи!"
 
 # game/logic/events/ahchi.rpy:946
 translate russian CF_Ahchi_3_label_b9c256be:
 
     # ch_Name "{i}(Hmmm... And he's right, it tastes even better with roses.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Хммм... И он прав, с розами вкуснее.){/i}"
 
 # game/logic/events/ahchi.rpy:947
 translate russian CF_Ahchi_3_label_92110076:
 
     # ch_Name "{i}(How does this guy manage to turn an ordinary latte into a masterpiece?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Как этому парню удается превратить обычный латте в шедевр?){/i}"
 
 # game/logic/events/ahchi.rpy:958
 translate russian CF_Ahchi_4_label_a9d5e155:
 
     # ch_Name "How's it going, Ahchi?"
-    ch_Name ""
+    ch_Name "Как дела, Ahchi?"
 
 # game/logic/events/ahchi.rpy:959
 translate russian CF_Ahchi_4_label_3891a6df:
 
     # ch_Name "Anything new?"
-    ch_Name ""
+    ch_Name "Что-то новое?"
 
 # game/logic/events/ahchi.rpy:960
 translate russian CF_Ahchi_4_label_371a7f24:
 
     # Ahchi "Hello, [Name]! Good to see a regular customer!"
-    Ahchi ""
+    Ahchi "Здравствуйте, [Name]! Приятно видеть постоянного клиента!"
 
 # game/logic/events/ahchi.rpy:962
 translate russian CF_Ahchi_4_label_3b367f9b:
 
     # Ahchi "It's going great. I came up with a new recipe!"
-    Ahchi ""
+    Ahchi "Все идет отлично. Я придумал новый рецепт!"
 
 # game/logic/events/ahchi.rpy:963
 translate russian CF_Ahchi_4_label_616d1087:
 
     # Ahchi "Orange cappuccino with unicorn tears."
-    Ahchi ""
+    Ahchi "Апельсиновый капучино со слезами единорога."
 
 # game/logic/events/ahchi.rpy:964
 translate russian CF_Ahchi_4_label_50cbc804:
 
     # ch_Name "Unicorn tears? We use them when we make potions."
-    ch_Name ""
+    ch_Name "Слезы единорога? Мы используем их, когда делаем зелья."
 
 # game/logic/events/ahchi.rpy:965
 translate russian CF_Ahchi_4_label_ff41f17c:
 
     # Ahchi "Yeah, I know. That's what makes the potions have such a nice sweet and salty flavor."
-    Ahchi ""
+    Ahchi "Да, знаю. Вот почему зелья имеют такой приятный сладко-соленый вкус."
 
 # game/logic/events/ahchi.rpy:966
 translate russian CF_Ahchi_4_label_f189d7ce:
 
     # ch_Name "Well, I guess all tears are salty."
-    ch_Name ""
+    ch_Name "Ну, я думаю, все слезы соленые."
 
 # game/logic/events/ahchi.rpy:968
 translate russian CF_Ahchi_4_label_decea3f2:
 
     # Ahchi "But not all of them have cotton candy flavor, my friend."
-    Ahchi ""
+    Ahchi "Но не все из них имеют вкус сладкой ваты, мой друг."
 
 # game/logic/events/ahchi.rpy:969
 translate russian CF_Ahchi_4_label_197b18cb:
 
     # Ahchi "Try it and tell me what you think."
-    Ahchi ""
+    Ahchi "Попробуйте и скажите мне, что вы думаете."
 
 # game/logic/events/ahchi.rpy:970
 translate russian CF_Ahchi_4_label_26e11d66:
 
     # Ahchi "Tasting glass on the house."
-    Ahchi ""
+    Ahchi "Угощаю одним стаканом для дегустации."
 
 # game/logic/events/ahchi.rpy:971
 translate russian CF_Ahchi_4_label_9135f026:
 
     # ch_Name "Heh, come on."
-    ch_Name ""
+    ch_Name "Хех, давай."
 
 # game/logic/events/ahchi.rpy:973
 translate russian CF_Ahchi_4_label_a9a58dc2:
 
     # ch_Name "{i}(Since Ahchi is buying me coffee, I can afford to get some food.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Поскольку Ahchi покупает мне кофе, я могу позволить себе немного еды.){/i}"
 
 # game/logic/events/ahchi.rpy:974
 translate russian CF_Ahchi_4_label_6d8cbfb0:
 
     # ch_Name "I think I'll have that nice roll to go with it."
-    ch_Name ""
+    ch_Name "Я думаю, что возьму этот хороший рулон."
 
 # game/logic/events/ahchi.rpy:975
 translate russian CF_Ahchi_4_label_33ee5232:
 
     # Ahchi "Good choice. You're in for a real sweet life!"
-    Ahchi ""
+    Ahchi "Хороший выбор. Вас ждет настоящая сладкая жизнь!"
 
 # game/logic/events/ahchi.rpy:977
 translate russian CF_Ahchi_4_label_76ade1ec:
 
     # ch_Name "I'll take your word for it."
-    ch_Name ""
+    ch_Name "Я поверю вам на слово."
 
 # game/logic/events/ahchi.rpy:978
 translate russian CF_Ahchi_4_label_dea6d119:
 
     # Ahchi "A couple of moments and your drink will be ready."
-    Ahchi ""
+    Ahchi "Пара мгновений и ваш напиток готов."
 
 # game/logic/events/ahchi.rpy:979
 translate russian CF_Ahchi_4_label_b7992447:
 
     # ch_Name "{i}(I've never seen a barista who loves his job so much.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я никогда не видел бариста, который так любит свою работу.){/i}"
 
 # game/logic/events/ahchi.rpy:981
 translate russian CF_Ahchi_4_label_95f9d601:
 
     # Ahchi "Your drink, please. Appleseed's signature cappuccino!"
-    Ahchi ""
+    Ahchi "Ваш напиток, пожалуйста. Фирменный капучино з семечками яблока!"
 
 # game/logic/events/ahchi.rpy:982
 translate russian CF_Ahchi_4_label_07a419c4:
 
     # Ahchi "Enjoy while I get your roll."
-    Ahchi ""
+    Ahchi "Наслаждайся, пока я подам твой ролл."
 
 # game/logic/events/ahchi.rpy:983
 translate russian CF_Ahchi_4_label_3a400630:
 
     # ch_Name "(Sniffs) Thank you. Mmm, that smells good!"
-    ch_Name ""
+    ch_Name "(Нюхает) Спасибо. Ммм, как хорошо пахнет!"
 
 # game/logic/events/ahchi.rpy:985
 translate russian CF_Ahchi_4_label_42081cc8:
 
     # ch_Name "And it tastes incredible!"
-    ch_Name ""
+    ch_Name "И вкус невероятный!"
 
 # game/logic/events/ahchi.rpy:986
 translate russian CF_Ahchi_4_label_728603e2:
 
     # ch_Name "I never would have thought orange and cotton candy would be so accentuated..."
-    ch_Name ""
+    ch_Name "Никогда бы не подумал, что апельсин и сладкая вата будут так подчеркнуты..."
 
 # game/logic/events/ahchi.rpy:987
 translate russian CF_Ahchi_4_label_1e63a354:
 
     # Ahchi "I know, right! I was amazed as well."
-    Ahchi ""
+    Ahchi "Я знаю! Я тоже был поражен."
 
 # game/logic/events/ahchi.rpy:989
 translate russian CF_Ahchi_4_label_54f03489:
 
     # Ahchi "Here's your roll."
-    Ahchi ""
+    Ahchi "Вот ваш ролл."
 
 # game/logic/events/ahchi.rpy:990
 translate russian CF_Ahchi_4_label_ad74fd2e:
 
     # Ahchi "Bon appétit!"
-    Ahchi ""
+    Ahchi "Приятного аппетита!"
 
 # game/logic/events/ahchi.rpy:991
 translate russian CF_Ahchi_4_label_13815555:
 
     # ch_Name "I don't know how I ever lived without this cafe. Thank you so much."
-    ch_Name ""
+    ch_Name "Не знаю, как я раньше жил без этого кафе. Большое спасибо."
 
 # game/logic/events/ahchi.rpy:993
 translate russian CF_Ahchi_4_label_b2fb0f4c:
 
     # Ahchi "You're welcome, friend. Your smile makes my day better."
-    Ahchi ""
+    Ahchi "Всегда пожалуйста, друг. Ваша улыбка делает мой день лучше."
 
 # game/logic/events/ahchi.rpy:994
 translate russian CF_Ahchi_4_label_948f3703:
 
     # Ahchi "So come back for more."
-    Ahchi ""
+    Ahchi "Так что возвращайся еще."
 
 # game/logic/events/ahchi.rpy:995
 translate russian CF_Ahchi_4_label_7bb14ae0:
 
     # ch_Name "I will."
-    ch_Name ""
+    ch_Name "Я буду."
 
 translate russian strings:
 
     # game/logic/events/ahchi.rpy:18
     old "1 Talk to Haley"
-    new ""
+    new "1 Поговорить с Haley"
 
     # game/logic/events/ahchi.rpy:18
     old "2 Talk to Haley"
-    new ""
+    new "2 Поговорить с Haley"
 
     # game/logic/events/ahchi.rpy:18
     old "3 Talk to Haley"
-    new ""
+    new "3 Поговорить с Haley"
 
     # game/logic/events/ahchi.rpy:18
     old "4 Talk to Haley"
-    new ""
+    new "4 Поговорить с Haley"
 
     # game/logic/events/ahchi.rpy:52
     old "1 Talk to Ahchi"
-    new ""
+    new "1 Поговорить с Ahchi"
 
     # game/logic/events/ahchi.rpy:52
     old "2 Talk to Ahchi"
-    new ""
+    new "2 Поговорить с Ahchi"
 
     # game/logic/events/ahchi.rpy:52
     old "3 Talk to Ahchi"
-    new ""
+    new "3 Поговорить с Ahchi"
 
     # game/logic/events/ahchi.rpy:52
     old "4 Talk to Ahchi"
-    new ""
+    new "4 Поговорить с Ahchi"
 
     # game/logic/events/ahchi.rpy:82
     old "1 Talk to Lily"
-    new ""
+    new "1 Поговорить с Лили"
 
     # game/logic/events/ahchi.rpy:82
     old "2 Talk to Lily"
-    new ""
+    new "2 Поговорить с Лили"
 
     # game/logic/events/ahchi.rpy:82
     old "3 Talk to Lily"
-    new ""
+    new "3 Поговорить с Лили"
 
     # game/logic/events/ahchi.rpy:82
     old "4 Talk to Lily"
-    new ""
+    new "4 Поговорить с Лили"
 
     # game/logic/events/ahchi.rpy:82
     old "5 Talk to Lily"
-    new ""
+    new "5 Поговорить с Лили"
 
     # game/logic/events/ahchi.rpy:115
     old "1 Talk to Sam and Audrey"
-    new ""
+    new "1 Поговорить с Sam и Audrey"
 
     # game/logic/events/ahchi.rpy:115
     old "2 Talk to Sam and Audrey"
-    new ""
+    new "2 Поговорить с Sam и Audrey"
 
     # game/logic/events/ahchi.rpy:115
     old "3 Talk to Sam and Audrey"
-    new ""
+    new "3 Поговорить с Sam и Audrey"
 
     # game/logic/events/ahchi.rpy:115
     old "4 Talk to Sam and Audrey"
-    new ""
+    new "4 Поговорить с Sam и Audrey"
 
     # game/logic/events/ahchi.rpy:115
     old "5 Talk to Sam and Audrey"
-    new ""
+    new "5 Поговорить с Sam и Audrey"
 
