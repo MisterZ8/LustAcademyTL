@@ -124,7 +124,7 @@ translate deutsch mina_1_label_8a946bac:
 translate deutsch mina_1_label_2419802e:
 
     # Mina "$200 a night."
-    Mina "200$ die Nacht."
+    Mina "200€ die Nacht."
 
 # game/logic/events/mina.rpy:55
 translate deutsch mina_1_label_2aa39ce3:
