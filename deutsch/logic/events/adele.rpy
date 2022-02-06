@@ -2878,7 +2878,7 @@ translate deutsch vip_lucy_1_label_2_05918863:
 translate deutsch vip_lucy_1_label_2_4ef326b1:
 
     # ch_Name "{i}(Such a view!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Was für ein Anblick!){/i}"
 
 # game/logic/events/adele.rpy:1010
 translate deutsch vip_lucy_1_label_2_da6590d0:
