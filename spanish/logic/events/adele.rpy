@@ -58,157 +58,157 @@ translate spanish adele_1_label_ac7bbadc:
 translate spanish adele_1_label_d2cd6dee:
 
     # ch_Name "{i}(I never thought that a simple touch could be so pleasant...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Quién hubiera dicho que un simple toque pudiese ser tan placentero...){/i}"
 
 # game/logic/events/adele.rpy:104
 translate spanish adele_1_label_feafb0b3:
 
     # ch_Name "I don't want to distract you..."
-    ch_Name ""
+    ch_Name "No quiero hacerte perder el tiempo..."
 
 # game/logic/events/adele.rpy:105
 translate spanish adele_1_label_ead3e140:
 
     # Adele "Come on."
-    Adele ""
+    Adele "Venga ya."
 
 # game/logic/events/adele.rpy:106
 translate spanish adele_1_label_839ca76d:
 
     # Adele "The least I can do is give you a tour."
-    Adele ""
+    Adele "Lo menos que puedo hacer es enseñarte esto."
 
 # game/logic/events/adele.rpy:107
 translate spanish adele_1_label_22a4b9a8:
 
     # Adele "Follow me."
-    Adele ""
+    Adele "Sígueme."
 
 # game/logic/events/adele.rpy:109
 translate spanish adele_1_label_569442f9:
 
     # Adele "There's a great view of the place from here."
-    Adele ""
+    Adele "Desde aquí hay una vista genial de todo el lugar."
 
 # game/logic/events/adele.rpy:110
 translate spanish adele_1_label_4f864279:
 
     # Adele "You like what you see?"
-    Adele ""
+    Adele "¿Te gusta lo que ves?"
 
 # game/logic/events/adele.rpy:111
 translate spanish adele_1_label_0a743bf8:
 
     # ch_Name "I guess so."
-    ch_Name ""
+    ch_Name "Supongo."
 
 # game/logic/events/adele.rpy:113
 translate spanish adele_1_label_ead3e140_1:
 
     # Adele "Come on."
-    Adele ""
+    Adele "Vamos."
 
 # game/logic/events/adele.rpy:114
 translate spanish adele_1_label_bf226a3b:
 
     # Adele "I'll show you around!"
-    Adele ""
+    Adele "¡Te lo enseñaré!"
 
 # game/logic/events/adele.rpy:116
 translate spanish adele_1_label_6f427bfa:
 
     # ch_Name "{i}(I'm already intrigued.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Me tiene en ascuas.){/i}"
 
 # game/logic/events/adele.rpy:117
 translate spanish adele_1_label_9dea4c8a:
 
     # ch_Name "{i}(I wonder if she dances, too.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ella también bailará.){/i}"
 
 # game/logic/events/adele.rpy:118
 translate spanish adele_1_label_93cbd2c4:
 
     # ch_Name "Where are we going?"
-    ch_Name ""
+    ch_Name "¿A donde vamos?"
 
 # game/logic/events/adele.rpy:120
 translate spanish adele_1_label_2996e23a:
 
     # Adele "To meet these pretty girls!"
-    Adele ""
+    Adele "¡A conocer a esas chicas tan guapas!"
 
 # game/logic/events/adele.rpy:121
 translate spanish adele_1_label_b34f9f72:
 
     # Adele "Lucy is our young beauty from Europe."
-    Adele ""
+    Adele "Lucy es nuestra joven belleza europea."
 
 # game/logic/events/adele.rpy:122
 translate spanish adele_1_label_fd4aff03:
 
     # Adele "She's still very naive and young."
-    Adele ""
+    Adele "Aun es muy joven e ingenua."
 
 # game/logic/events/adele.rpy:124
 translate spanish adele_1_label_37d05529:
 
     # Adele "But you wouldn't know it from her body."
-    Adele ""
+    Adele "Aunque si fuera solo por su cuerpo jamas lo sabrías."
 
 # game/logic/events/adele.rpy:125
 translate spanish adele_1_label_b7f48e9c:
 
     # Adele "I don't know if you'll have much to talk about."
-    Adele ""
+    Adele "No creo que tengas mucho de que hablar con ella."
 
 # game/logic/events/adele.rpy:126
 translate spanish adele_1_label_bbdfeb91:
 
     # Adele "But you'll certainly have a lot to do together."
-    Adele ""
+    Adele "pero seguro que tenéis un monton de cosas que hacer juntos."
 
 # game/logic/events/adele.rpy:128
 translate spanish adele_1_label_5d2f0582:
 
     # Adele "Let's continue!"
-    Adele ""
+    Adele "¡Continuemos!"
 
 # game/logic/events/adele.rpy:129
 translate spanish adele_1_label_5fed6f97:
 
     # ch_Name "Whoa... I thought we were going to Lucy's table..."
-    ch_Name ""
+    ch_Name "Whoa... Pensaba que íbamos al escenario de Lucy..."
 
 # game/logic/events/adele.rpy:130
 translate spanish adele_1_label_97945001:
 
     # Adele "Silly, who makes a choice without looking at all the offers?"
-    Adele ""
+    Adele "No seas tonto, ¿Quién toma una decisión sin mirar toda la oferta?"
 
 # game/logic/events/adele.rpy:132
 translate spanish adele_1_label_b3f98a40:
 
     # Adele "The exotic beauty Sadira."
-    Adele ""
+    Adele SAdira y su exótica belleza.""
 
 # game/logic/events/adele.rpy:133
 translate spanish adele_1_label_a1bcab96:
 
     # Adele "She holds a lot of surprises."
-    Adele ""
+    Adele "Guarda un montón de sorpresas."
 
 # game/logic/events/adele.rpy:135
 translate spanish adele_1_label_43374171:
 
     # ch_Name "I can imagine..."
-    ch_Name ""
+    ch_Name "Me imagino..."
 
 # game/logic/events/adele.rpy:136
 translate spanish adele_1_label_ac299447:
 
     # Adele "A lot of people would kill to see her private show."
-    Adele ""
+    Adele "Un montón de gente mataría por ver su show privado."
 
 # game/logic/events/adele.rpy:137
 translate spanish adele_1_label_35ae4e18:
