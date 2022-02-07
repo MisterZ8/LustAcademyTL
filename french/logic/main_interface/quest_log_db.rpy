@@ -188,7 +188,7 @@ translate french strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lily is a real diehard fan of Leonheart. She does a lot for its sake and gets thrilled when I help her with that."
-    new ""
+    new "Lily est une vraie fan inconditionnelle de Leonhart. Elle en fait beaucoup pour cette maison et est ravie quand je l'aide avec ça."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Hebi"
@@ -204,7 +204,7 @@ translate french strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Mina is a very shy girl who manages a local hostel. I saw her reading porn novels, I wonder if she has any other secrets."
-    new ""
+    new "Lucy est l'une des danseuses de la discothèque Lady Luck. Je pense que je la connaîtrai mieux si je l'invite en VIP."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Harper"
@@ -212,7 +212,7 @@ translate french strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Molly is a hard-working businesswoman who keeps her café in Cordale. She helps me with a part-time job when I need money."
-    new ""
+    new "Molly qui tient son café à Cordale, est une femme d'affaires travailleuse. Quand j'ai besoin d'argent, elle m'aide avec un travail à temps partiel."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Maeve"
@@ -220,7 +220,7 @@ translate french strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Naomi is a coldhearted rising queen of manipulation from Adderin and Lily's best friend."
-    new ""
+    new "Au sein de la maison d'Adderin, Naomi est une femme au cœur froid et une reine montante de la manipulation. Elle est la meilleure amie de Lily."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Kimba"
@@ -228,7 +228,7 @@ translate french strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Olivia is Samantha and Ashley's mother, She's married to Don. I don't know if she has any hobbies except shopping and spending money."
-    new ""
+    new "Olivia est la mère de Samantha et Ashley, elle est mariée à Don. Je ne sais pas si elle a d'autres hobbies que faire du shopping et dépenser de l'argent."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Wild-Rose"
@@ -236,7 +236,7 @@ translate french strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "A bouncer. He's a prick who asks for bribes to let you in the club. He tricked me and almost let Diego rape Adele."
-    new ""
+    new "Un videur. C'est un connard qui demande des pots-de-vin pour te laisser entrer dans le club. Il m'a piégé et a presque laissé Diego violer Adele."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Mobs"
@@ -244,7 +244,7 @@ translate french strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Sabrina is the sweetest teacher in the Academy, and you can always see how happy she gets when she seems some dedication in her lessons."
-    new ""
+    new "Sabrina est l'enseignante la plus adorable de l'Académie. Vous pouvez toujours voir à quel point elle est heureuse tant elle semble être dévouée à ses cours."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Spellman"
@@ -252,11 +252,11 @@ translate french strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "There are no more theory lessons available for this version of the game."
-    new ""
+    new "Il n'y a plus de leçons théoriques disponibles pour cette version du jeu."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Sadira is one of the dancers at Lady Luck. She seems strange and exotic, I think I'll enjoy what she can offer in VIP."
-    new ""
+    new "Sadira est l'une des danseuses de Lady Luck. Elle semble étrange et exotique. Je pense qu'en VIP, je vais pleinement profiter de ce qu'elle peut offrir."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Adala"
@@ -264,11 +264,11 @@ translate french strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Samantha is my best friend and Olivia's first child. She's kind and supportive and sees good even where no one else can."
-    new ""
+    new "Samantha est ma meilleure amie et le premier enfant d'Olivia. Elle est gentille et solidaire et voit le bien même là où personne d'autre ne le peut"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Vanessa is a barman at Lady Luck. She's mysterious and obsessed with her special cocktails."
-    new ""
+    new "Vanessa est barman chez Lady Luck. Elle est mystérieuse et obsédée par ses cocktails spéciaux."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Le Court"
@@ -276,7 +276,7 @@ translate french strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Victoria is strict, but just teacher. Everyone respects her a lot. She makes it look like my flirting is useless, but I won't stop trying."
-    new ""
+    new "Victoria est stricte, c'est juste une enseignante. Tout le monde la respecte beaucoup. Elle donne l'impression que mon flirt est inutile, mais je n'arrêterai pas pour autant d'essayer"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lapis"
