@@ -3172,331 +3172,331 @@ translate philippine CF_Ahchi_3_label_b4fe6b7c:
 translate philippine CF_Ahchi_3_label_89a3c9cf:
 
     # ch_Name "What's your surprise today?"
-    ch_Name ""
+    ch_Name "Ano ba ang sorpresa ngayon?"
 
 # game/logic/events/ahchi.rpy:912
 translate philippine CF_Ahchi_3_label_a1a1005e:
 
     # Ahchi "Hey there, [Name]. Good to see a regular customer!"
-    Ahchi ""
+    Ahchi "Nandito ka na, [Name]. Magandang makakita ng suki!"
 
 # game/logic/events/ahchi.rpy:914
 translate philippine CF_Ahchi_3_label_bf474da2:
 
     # Ahchi "What can I surprise you with? Food, drink, maybe a story?"
-    Ahchi ""
+    Ahchi "Ano ba ang mabibigay ko sa iyo? Pagkain, inumin, kuwento?"
 
 # game/logic/events/ahchi.rpy:915
 translate philippine CF_Ahchi_3_label_17d84ca0:
 
     # ch_Name "Heh. Of course, it's a story."
-    ch_Name ""
+    ch_Name "Heh. Siyempre, kuwento."
 
 # game/logic/events/ahchi.rpy:916
 translate philippine CF_Ahchi_3_label_6804af7f:
 
     # ch_Name "Although I would love your signature latte, too."
-    ch_Name ""
+    ch_Name "At gusto ko rin ang latte mo."
 
 # game/logic/events/ahchi.rpy:917
 translate philippine CF_Ahchi_3_label_9bf0946c:
 
     # Ahchi "Then it'll be two for one."
-    Ahchi ""
+    Ahchi "Dalawa ang makukuha mo ngayon."
 
 # game/logic/events/ahchi.rpy:919
 translate philippine CF_Ahchi_3_label_b936bb84:
 
     # Ahchi "They say there's a creature in town that attacks blondes at night."
-    Ahchi ""
+    Ahchi "Sinasabi nila na mayroong hayop na umaatake sa mga olandes sa gabi."
 
 # game/logic/events/ahchi.rpy:920
 translate philippine CF_Ahchi_3_label_39b1d81b:
 
     # Ahchi "Not a single victim, unless you count the girl who broke her knee running away."
-    Ahchi ""
+    Ahchi "Walang biktima, kung hindi mo bilangin ang babaeng nabali ang kanyang tuhod habang tumatakas siya."
 
 # game/logic/events/ahchi.rpy:921
 translate philippine CF_Ahchi_3_label_d558ace0:
 
     # Ahchi "But it sounds creepy, doesn't it?"
-    Ahchi ""
+    Ahchi "Pero nakakatakot naman, diba?"
 
 # game/logic/events/ahchi.rpy:923
 translate philippine CF_Ahchi_3_label_abae4ef0:
 
     # ch_Name "{i}(A creature that attacks people at night?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hayop na umaatake sa gabi?){/i}"
 
 # game/logic/events/ahchi.rpy:924
 translate philippine CF_Ahchi_3_label_d2908df4:
 
     # ch_Name "{i}(Could it be that giant? No, that sounds crazy...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Posible ba na 'yun ang higante? Hindi naman pwede...){/i}"
 
 # game/logic/events/ahchi.rpy:925
 translate philippine CF_Ahchi_3_label_bf070351:
 
     # ch_Name "Creepy, of course."
-    ch_Name ""
+    ch_Name "Nakakatakot naman."
 
 # game/logic/events/ahchi.rpy:926
 translate philippine CF_Ahchi_3_label_4aedf8e7:
 
     # Ahchi "But interesting. Why blondes in particular?"
-    Ahchi ""
+    Ahchi "Per nakakawili. Bakit mga olandes?"
 
 # game/logic/events/ahchi.rpy:927
 translate philippine CF_Ahchi_3_label_5e4acdf9:
 
     # ch_Name "Everyone has their own tastes."
-    ch_Name ""
+    ch_Name "May nais naman ang bawat isa."
 
 # game/logic/events/ahchi.rpy:929
 translate philippine CF_Ahchi_3_label_ff4afb9b:
 
     # Ahchi "That's for sure."
-    Ahchi ""
+    Ahchi "Sigurado 'yan."
 
 # game/logic/events/ahchi.rpy:930
 translate philippine CF_Ahchi_3_label_6ab5f741:
 
     # Ahchi "Do you want it exactly the same as last time, or should I sprinkle it with dried roses?"
-    Ahchi ""
+    Ahchi "Gusto mo ba ito tulad noong nakaraan, o lalagay ako ng tuyong rosas?
 
 # game/logic/events/ahchi.rpy:931
 translate philippine CF_Ahchi_3_label_3ca0aa8a:
 
     # ch_Name "Dried roses? That doesn't sound very appetizing."
-    ch_Name ""
+    ch_Name "Tyong rosas? 'Di naman nakaaakit."
 
 # game/logic/events/ahchi.rpy:932
 translate philippine CF_Ahchi_3_label_8f0ef4e4:
 
     # Ahchi "Oh, trust me, you'll love it. These are special roses."
-    Ahchi ""
+    Ahchi "Oh, maniwala ka, magugustuhan mo ito. Espesyal sila."
 
 # game/logic/events/ahchi.rpy:933
 translate philippine CF_Ahchi_3_label_fab25bae:
 
     # ch_Name "Go ahead, then."
-    ch_Name ""
+    ch_Name "Sige."
 
 # game/logic/events/ahchi.rpy:935
 translate philippine CF_Ahchi_3_label_2b457faf:
 
     # Ahchi "Here you go, your pumpkin latte."
-    Ahchi ""
+    Ahchi "Ito na ang pumpkin latte mo."
 
 # game/logic/events/ahchi.rpy:936
 translate philippine CF_Ahchi_3_label_41d62b80:
 
     # Ahchi "Tell me later how you like this recipe."
-    Ahchi ""
+    Ahchi "Sabihin mo mamaya kapag mas masarap ito."
 
 # game/logic/events/ahchi.rpy:937
 translate philippine CF_Ahchi_3_label_874b9ce4:
 
     # ch_Name "I will. Oh, thank you."
-    ch_Name ""
+    ch_Name "Sige. Salamat."
 
 # game/logic/events/ahchi.rpy:939
 translate philippine CF_Ahchi_3_label_738ab24a:
 
     # Ahchi "Do you want something to eat? They brought in some new sweets."
-    Ahchi ""
+    Ahchi "May gusto ka bang kakainin? May mga bagong dulse sa likod."
 
 # game/logic/events/ahchi.rpy:940
 translate philippine CF_Ahchi_3_label_b6a00fe8:
 
     # ch_Name "I think I'll take a rain check."
-    ch_Name ""
+    ch_Name "Hindi na."
 
 # game/logic/events/ahchi.rpy:941
 translate philippine CF_Ahchi_3_label_31f90247:
 
     # UnknownMan_2 "Ahchi, make us some more coffee, okay!"
-    UnknownMan_2 ""
+    UnknownMan_2 "Ahchi, ipagtimpla mo kami ng kape!"
 
 # game/logic/events/ahchi.rpy:942
 translate philippine CF_Ahchi_3_label_6cf1cb33:
 
     # Ahchi "Right away!"
-    Ahchi ""
+    Ahchi "Kaagad!"
 
 # game/logic/events/ahchi.rpy:943
 translate philippine CF_Ahchi_3_label_5977c185:
 
     # Ahchi "Sorry, [Name]. I have work to do. It was nice to see you. Come again!"
-    Ahchi ""
+    Ahchi "Pasensya na, [Name]. May gagawin pa ako. Babalik ka kaagad!"
 
 # game/logic/events/ahchi.rpy:944
 translate philippine CF_Ahchi_3_label_0b28c3dd:
 
     # ch_Name "I will. Good luck!"
-    ch_Name ""
+    ch_Name "Sige. Good luck!"
 
 # game/logic/events/ahchi.rpy:946
 translate philippine CF_Ahchi_3_label_b9c256be:
 
     # ch_Name "{i}(Hmmm... And he's right, it tastes even better with roses.){/i}"
-    ch_Name ""
+    ch_Name ""{i}(Hmmm... At tama siya, mas masarap kapag may rosas.){/i}"
 
 # game/logic/events/ahchi.rpy:947
 translate philippine CF_Ahchi_3_label_92110076:
 
     # ch_Name "{i}(How does this guy manage to turn an ordinary latte into a masterpiece?){/i}"
-    ch_Name ""
+    ch_Name ""{i}(Paano niya ba pinapahusay ang bawat latte na ginagawa niya?){/i}"
 
 # game/logic/events/ahchi.rpy:958
 translate philippine CF_Ahchi_4_label_a9d5e155:
 
     # ch_Name "How's it going, Ahchi?"
-    ch_Name ""
+    ch_Name "Kamusta ka na, Ahchi?"
 
 # game/logic/events/ahchi.rpy:959
 translate philippine CF_Ahchi_4_label_3891a6df:
 
     # ch_Name "Anything new?"
-    ch_Name ""
+    ch_Name "May bago ba?"
 
 # game/logic/events/ahchi.rpy:960
 translate philippine CF_Ahchi_4_label_371a7f24:
 
     # Ahchi "Hello, [Name]! Good to see a regular customer!"
-    Ahchi ""
+    Ahchi "[Name]! Magandang makakita ng suki!"
 
 # game/logic/events/ahchi.rpy:962
 translate philippine CF_Ahchi_4_label_3b367f9b:
 
     # Ahchi "It's going great. I came up with a new recipe!"
-    Ahchi ""
+    Ahchi "Mabuti naman. May bagong timpla ako!"
 
 # game/logic/events/ahchi.rpy:963
 translate philippine CF_Ahchi_4_label_616d1087:
 
     # Ahchi "Orange cappuccino with unicorn tears."
-    Ahchi ""
+    Ahchi "Orange cappuccino na may luha ng unicorn."
 
 # game/logic/events/ahchi.rpy:964
 translate philippine CF_Ahchi_4_label_50cbc804:
 
     # ch_Name "Unicorn tears? We use them when we make potions."
-    ch_Name ""
+    ch_Name "Luha ng unicorn? Ginagamit namin 'yan sa Potions."
 
 # game/logic/events/ahchi.rpy:965
 translate philippine CF_Ahchi_4_label_ff41f17c:
 
     # Ahchi "Yeah, I know. That's what makes the potions have such a nice sweet and salty flavor."
-    Ahchi ""
+    Ahchi "Alam ko. 'Yan ang nagbibigay ng matamis at maalat na lasa sa mga potion."
 
 # game/logic/events/ahchi.rpy:966
 translate philippine CF_Ahchi_4_label_f189d7ce:
 
     # ch_Name "Well, I guess all tears are salty."
-    ch_Name ""
+    ch_Name "Parang maalat naman ang lahat na luha."
 
 # game/logic/events/ahchi.rpy:968
 translate philippine CF_Ahchi_4_label_decea3f2:
 
     # Ahchi "But not all of them have cotton candy flavor, my friend."
-    Ahchi ""
+    Ahchi "Pero hindi lahat may lasa ng cotton candy."
 
 # game/logic/events/ahchi.rpy:969
 translate philippine CF_Ahchi_4_label_197b18cb:
 
     # Ahchi "Try it and tell me what you think."
-    Ahchi ""
+    Ahchi "Subukan mo nga ito."
 
 # game/logic/events/ahchi.rpy:970
 translate philippine CF_Ahchi_4_label_26e11d66:
 
     # Ahchi "Tasting glass on the house."
-    Ahchi ""
+    Ahchi "Libre naman."
 
 # game/logic/events/ahchi.rpy:971
 translate philippine CF_Ahchi_4_label_9135f026:
 
     # ch_Name "Heh, come on."
-    ch_Name ""
+    ch_Name "Sige."
 
 # game/logic/events/ahchi.rpy:973
 translate philippine CF_Ahchi_4_label_a9a58dc2:
 
     # ch_Name "{i}(Since Ahchi is buying me coffee, I can afford to get some food.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Dahil libre ang kape, makakabili ako ng pagkain.){/i}"
 
 # game/logic/events/ahchi.rpy:974
 translate philippine CF_Ahchi_4_label_6d8cbfb0:
 
     # ch_Name "I think I'll have that nice roll to go with it."
-    ch_Name ""
+    ch_Name "Kunin ko 'yung roll para may kasama ang kape."
 
 # game/logic/events/ahchi.rpy:975
 translate philippine CF_Ahchi_4_label_33ee5232:
 
     # Ahchi "Good choice. You're in for a real sweet life!"
-    Ahchi ""
+    Ahchi "Ayos. Matitikman mo talaga ang tamis ng buhay!"
 
 # game/logic/events/ahchi.rpy:977
 translate philippine CF_Ahchi_4_label_76ade1ec:
 
     # ch_Name "I'll take your word for it."
-    ch_Name ""
+    ch_Name "Nananalig ako sa iyo."
 
 # game/logic/events/ahchi.rpy:978
 translate philippine CF_Ahchi_4_label_dea6d119:
 
     # Ahchi "A couple of moments and your drink will be ready."
-    Ahchi ""
+    Ahchi "Ilang sandali lang at handa na ang order mo."
 
 # game/logic/events/ahchi.rpy:979
 translate philippine CF_Ahchi_4_label_b7992447:
 
     # ch_Name "{i}(I've never seen a barista who loves his job so much.){/i}"
-    ch_Name ""
+    ch_Name "{i}('Di pa ako nakakita ng barista na hilig ang trabaho niya.){/i}"
 
 # game/logic/events/ahchi.rpy:981
 translate philippine CF_Ahchi_4_label_95f9d601:
 
     # Ahchi "Your drink, please. Appleseed's signature cappuccino!"
-    Ahchi ""
+    Ahchi "Ang inumin mo. Ang signature cappuccino ng Appleseed."
 
 # game/logic/events/ahchi.rpy:982
 translate philippine CF_Ahchi_4_label_07a419c4:
 
     # Ahchi "Enjoy while I get your roll."
-    Ahchi ""
+    Ahchi "Kunin ko lang ang roll mo."
 
 # game/logic/events/ahchi.rpy:983
 translate philippine CF_Ahchi_4_label_3a400630:
 
     # ch_Name "(Sniffs) Thank you. Mmm, that smells good!"
-    ch_Name ""
+    ch_Name "(Sniffs) Salamat. Mmm, mabango!"
 
 # game/logic/events/ahchi.rpy:985
 translate philippine CF_Ahchi_4_label_42081cc8:
 
     # ch_Name "And it tastes incredible!"
-    ch_Name ""
+    ch_Name "At napakasarap!"
 
 # game/logic/events/ahchi.rpy:986
 translate philippine CF_Ahchi_4_label_728603e2:
 
     # ch_Name "I never would have thought orange and cotton candy would be so accentuated..."
-    ch_Name ""
+    ch_Name "'Di ko inakala na mabuti ang kombinsayon ng dalandan at cotton candy..."
 
 # game/logic/events/ahchi.rpy:987
 translate philippine CF_Ahchi_4_label_1e63a354:
 
     # Ahchi "I know, right! I was amazed as well."
-    Ahchi ""
+    Ahchi "Diba! Nagulat din ako."
 
 # game/logic/events/ahchi.rpy:989
 translate philippine CF_Ahchi_4_label_54f03489:
 
     # Ahchi "Here's your roll."
-    Ahchi ""
+    Ahchi "Ito na ang roll mo."
 
 # game/logic/events/ahchi.rpy:990
 translate philippine CF_Ahchi_4_label_ad74fd2e:
@@ -3508,97 +3508,97 @@ translate philippine CF_Ahchi_4_label_ad74fd2e:
 translate philippine CF_Ahchi_4_label_13815555:
 
     # ch_Name "I don't know how I ever lived without this cafe. Thank you so much."
-    ch_Name ""
+    ch_Name "'Di ko alam kung paano ako mabubuhay na wala na cafe na ito. Salamat talaga."
 
 # game/logic/events/ahchi.rpy:993
 translate philippine CF_Ahchi_4_label_b2fb0f4c:
 
     # Ahchi "You're welcome, friend. Your smile makes my day better."
-    Ahchi ""
+    Ahchi "Walang anuman. Napapasiya ako ng ngiti mo."
 
 # game/logic/events/ahchi.rpy:994
 translate philippine CF_Ahchi_4_label_948f3703:
 
     # Ahchi "So come back for more."
-    Ahchi ""
+    Ahchi "Kaya babalik ka."
 
 # game/logic/events/ahchi.rpy:995
 translate philippine CF_Ahchi_4_label_7bb14ae0:
 
     # ch_Name "I will."
-    ch_Name ""
+    ch_Name "Sige."
 
 translate philippine strings:
 
     # game/logic/events/ahchi.rpy:18
     old "1 Talk to Haley"
-    new ""
+    new "1 Kausapin si Haley"
 
     # game/logic/events/ahchi.rpy:18
     old "2 Talk to Haley"
-    new ""
+    new "2 Kausapin si Haley"
 
     # game/logic/events/ahchi.rpy:18
     old "3 Talk to Haley"
-    new ""
+    new "3 Kausapin si Haley"
 
     # game/logic/events/ahchi.rpy:18
     old "4 Talk to Haley"
-    new ""
+    new "4 Kausapin si Haley"
 
     # game/logic/events/ahchi.rpy:52
     old "1 Talk to Ahchi"
-    new ""
+    new "1 Kausapin si Ahchi"
 
     # game/logic/events/ahchi.rpy:52
     old "2 Talk to Ahchi"
-    new ""
+    new "2 Kausapin si Ahchi"
 
     # game/logic/events/ahchi.rpy:52
     old "3 Talk to Ahchi"
-    new ""
+    new "3 Kausapin si Ahchi"
 
     # game/logic/events/ahchi.rpy:52
     old "4 Talk to Ahchi"
-    new ""
+    new "4 Kausapin si Ahchi"
 
     # game/logic/events/ahchi.rpy:82
     old "1 Talk to Lily"
-    new ""
+    new "1 Kausapin si Lily"
 
     # game/logic/events/ahchi.rpy:82
     old "2 Talk to Lily"
-    new ""
+    new "2 Kausapin si Lily"
 
     # game/logic/events/ahchi.rpy:82
     old "3 Talk to Lily"
-    new ""
+    new "3 Kausapin si Lily"
 
     # game/logic/events/ahchi.rpy:82
     old "4 Talk to Lily"
-    new ""
+    new "4 Kausapin si Lily"
 
     # game/logic/events/ahchi.rpy:82
     old "5 Talk to Lily"
-    new ""
+    new "5 Kausapin si Lily"
 
     # game/logic/events/ahchi.rpy:115
     old "1 Talk to Sam and Audrey"
-    new ""
+    new "1 Kausapin sina Sam at Audrey"
 
     # game/logic/events/ahchi.rpy:115
     old "2 Talk to Sam and Audrey"
-    new ""
+    new "2 Kausapin sina Sam at Audrey"
 
     # game/logic/events/ahchi.rpy:115
     old "3 Talk to Sam and Audrey"
-    new ""
+    new "3 Kausapin sina Sam at Audrey"
 
     # game/logic/events/ahchi.rpy:115
     old "4 Talk to Sam and Audrey"
-    new ""
+    new "4 Kausapin sina Sam at Audrey"
 
     # game/logic/events/ahchi.rpy:115
     old "5 Talk to Sam and Audrey"
-    new ""
+    new "5 Kausapin sina Sam at Audrey"
 
