@@ -4,613 +4,613 @@
 translate russian coffe_event_1_c03b4bed:
 
     # ch_Name "{i}(OMG, what's she doing?){/i}"
-    ch_Name ""
+    ch_Name "{i}(О МОЙ БОГ, что она делает?){/i}"
 
 # game/logic/events/molly.rpy:122
 translate russian coffe_event_1_65ed5e86:
 
     # ch_Name "{i}(If someone's out there behind those windows...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Если за этими окнами кто-нибудь есть...){/i}"
 
 # game/logic/events/molly.rpy:124
 translate russian coffe_event_1_0ffed2ae:
 
     # ch_Name "{i}(They'll see her body...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Они увидят ее тело...){/i}"
 
 # game/logic/events/molly.rpy:125
 translate russian coffe_event_1_ab189795:
 
     # ch_Name "{i}(Oh, wow...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ох, вау...){/i}"
 
 # game/logic/events/molly.rpy:127
 translate russian coffe_event_1_81b2d2e0:
 
     # ch_Name "{i}(What a gorgeous body indeed...){/i}"
-    ch_Name ""
+    ch_Name "{i}(И правда великолепное тело...){/i}"
 
 # game/logic/events/molly.rpy:128
 translate russian coffe_event_1_a0d2429e:
 
     # ch_Name "{i}(If only I could take a closer look...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Вот бы посмотреть поближе...){/i}"
 
 # game/logic/events/molly.rpy:130
 translate russian coffe_event_1_8d5f4964:
 
     # ch_Name "{i}(I knew Molly is hot, but...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я знал Molly горячая, но...){/i}"
 
 # game/logic/events/molly.rpy:131
 translate russian coffe_event_1_bc9484ba:
 
     # ch_Name "{i}(I'm impressed.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я впечатлен.){/i}"
 
 # game/logic/events/molly.rpy:133
 translate russian coffe_event_1_e33d7efd:
 
     # ch_Name "{i}(Alarm! She's going to see me!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Тревога! Она сейчас увидит меня!){/i}"
 
 # game/logic/events/molly.rpy:134
 translate russian coffe_event_1_6ae0d68a:
 
     # ch_Name "{i}(Phew! That was close...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Фух! Это было близко...){/i}"
 
 # game/logic/events/molly.rpy:137
 translate russian coffe_event_1_89669b87:
 
     # ch_Name "{i}(Never thought I'd find window cleaning sexy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Никогда бы не подумал, что мытье окон может быть сексуальным.){/i}"
 
 # game/logic/events/molly.rpy:138
 translate russian coffe_event_1_5ee91150:
 
     # ch_Name "{i}(But Molly may be the one to change my mind.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Но Molly может изменить мое мнение.){/i}"
 
 # game/logic/events/molly.rpy:140
 translate russian coffe_event_1_daafe547:
 
     # ch_Name "{i}(I've never had a boss that's so hot.){/i}"
-    ch_Name ""
+    ch_Name "{i}(У меня никогда не было такой горячей начальницы.){/i}"
 
 # game/logic/events/molly.rpy:141
 translate russian coffe_event_1_83a58183:
 
     # ch_Name "{i}(It'd be hard to stick to a proper working relationship with this babe.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Будет трудно поддерживать с этой крошкой нормальные рабочие отношения.){/i}"
 
 # game/logic/events/molly.rpy:143
 translate russian coffe_event_1_5fcb15a3:
 
     # ch_Name "{i}(Oh, shit, she's turning around! I'd better hide.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ох, дерьмо, она поворачивается! Мне лучше скрыться.){/i}"
 
 # game/logic/events/molly.rpy:144
 translate russian coffe_event_1_6ae0d68a_1:
 
     # ch_Name "{i}(Phew! That was close...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Фух! Это было близко...){/i}"
 
 # game/logic/events/molly.rpy:148
 translate russian coffe_event_1_7fc163b6:
 
     # ch_Name "{i}(Molly's cleaning again? She's so hardworking.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Molly снова убирает? Она такая труженица.){/i}"
 
 # game/logic/events/molly.rpy:149
 translate russian coffe_event_1_24b3d74d:
 
     # ch_Name "{i}(Gosh, her skirt indeed does bad job at hiding something.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Боже, ее юбка определенно мало что скрывает.){/i}"
 
 # game/logic/events/molly.rpy:151
 translate russian coffe_event_1_14bf744d:
 
     # ch_Name "{i}(It's like she wants me to take a look... Is this horrible to think so?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Будто бы она хочет, чтобы я посмотрел... Ужасно так думать?){/i}"
 
 # game/logic/events/molly.rpy:152
 translate russian coffe_event_1_1ba6ee4d:
 
     # ch_Name "{i}( I mean if that's not a view worth a risk...){/i}"
-    ch_Name ""
+    ch_Name "{i}( Я имею ввиду, что если этот вид не стоит риска...){/i}"
 
 # game/logic/events/molly.rpy:153
 translate russian coffe_event_1_2dcf90f4:
 
     # ch_Name "{i}(Than what is?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Тогда что?){/i}"
 
 # game/logic/events/molly.rpy:155
 translate russian coffe_event_1_410acff1:
 
     # ch_Name "{i}(Oh no, she's looking this way! I have to hide!){/i}"
-    ch_Name ""
+    ch_Name "{i}(О нет, Она смотрит в мою сторону! Мне надо спрятаться!){/i}"
 
 # game/logic/events/molly.rpy:156
 translate russian coffe_event_1_6ae0d68a_2:
 
     # ch_Name "{i}(Phew! That was close...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Фух! Это было близко...){/i}"
 
 # game/logic/events/molly.rpy:160
 translate russian coffe_event_1_2abd9f58:
 
     # ch_Name "{i}(Oh my, Molly... What are you doing to me?){/i}"
-    ch_Name ""
+    ch_Name "{i}(О боже, Molly... Что ты со мной делаешь?){/i}"
 
 # game/logic/events/molly.rpy:161
 translate russian coffe_event_1_158cae96:
 
     # ch_Name "{i}(How can someone resist this view?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Как можно отказаться от такого зрелища?){/i}"
 
 # game/logic/events/molly.rpy:163
 translate russian coffe_event_1_7c768a3e:
 
     # ch_Name "{i}(This wakes up some wild animal instincts inside of me...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Это пробуждает во мне какие-то дикие звериные инстинкты...){/i}"
 
 # game/logic/events/molly.rpy:164
 translate russian coffe_event_1_fd414c49:
 
     # ch_Name "{i}(I hope I can handle myself.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Надеюсь, я смогу удержаться.){/i}"
 
 # game/logic/events/molly.rpy:166
 translate russian coffe_event_1_a10c068c:
 
     # ch_Name "{i}(Alarm! She's going to see me! I have to go!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Тревога! Она сейчас увидит меня! Мне надо уйти!){/i}"
 
 # game/logic/events/molly.rpy:167
 translate russian coffe_event_1_6ae0d68a_3:
 
     # ch_Name "{i}(Phew! That was close...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Фух! Это было близко...){/i}"
 
 # game/logic/events/molly.rpy:170
 translate russian coffe_event_1_e9f5947f:
 
     # ch_Name "{i}(Is there something wrong with her shoes?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Что-то случилось с ее туфлями?){/i}"
 
 # game/logic/events/molly.rpy:171
 translate russian coffe_event_1_b5896d11:
 
     # ch_Name "{i}(It must be hard to work all days on those heels...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Наверное, сложно ежедневно работать на каблуках...){/i}"
 
 # game/logic/events/molly.rpy:173
 translate russian coffe_event_1_31281b48:
 
     # ch_Name "{i}(But she looks fantastic, that's for sure...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Но выглядит она фантастически, это точно...){/i}"
 
 # game/logic/events/molly.rpy:174
 translate russian coffe_event_1_5b1a24b3:
 
     # ch_Name "{i}(I would love to draw a picture of this if I were an artist...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Если бы я был художником, с удовольствием написал бы ее портрет...){/i}"
 
 # game/logic/events/molly.rpy:176
 translate russian coffe_event_1_0b940a06:
 
     # ch_Name "{i}(Oh. wait. she's going to my location, I have to run...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ох. Стой. Она идет в мою сторону, мне надо бежать...){/i}"
 
 # game/logic/events/molly.rpy:177
 translate russian coffe_event_1_6ae0d68a_4:
 
     # ch_Name "{i}(Phew! That was close...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Фух! Это было близко...){/i}"
 
 # game/logic/events/molly.rpy:202
 translate russian cofe_event_2_89dd154c:
 
     # ch_Name "{i}(Hmm, so this is the local cafe?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Хмм, значит, это местное кафе?){/i}"
 
 # game/logic/events/molly.rpy:203
 translate russian cofe_event_2_514b73e6:
 
     # ch_Name "{i}(It's not bad!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Неплохо!){/i}"
 
 # game/logic/events/molly.rpy:217
 translate russian cofe_event_2_d28b0aea:
 
     # ch_Name "{i}(Oh! What do we have here?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ох! Что это у нас тут?){/i}"
 
 # game/logic/events/molly.rpy:218
 translate russian cofe_event_2_21b2d7d5:
 
     # ch_Name "{i}(Is she a waitress or the best dish in the menu?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Она официантка или лучшее блюдо в меню?){/i}"
 
 # game/logic/events/molly.rpy:219
 translate russian cofe_event_2_5604387e:
 
     # ch_Name "{i}(Anyway, she looks pretty cute.){/i}"
-    ch_Name ""
+    ch_Name "{i}(В любом случае, она очень симпатичная.){/i}"
 
 # game/logic/events/molly.rpy:222
 translate russian cofe_event_2_e4de7f80:
 
     # ch_Name "{i}(A-and she's looking at me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(И-и она смотрит на меня.){/i}"
 
 # game/logic/events/molly.rpy:223
 translate russian cofe_event_2_21d2f836:
 
     # ch_Name "{i}(I have to say something...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я должен что-нибудь сказать...){/i}"
 
 # game/logic/events/molly.rpy:225
 translate russian cofe_event_2_4c62a131:
 
     # ch_Name "Hi, I'm [Name] [Surname]."
-    ch_Name ""
+    ch_Name "Привет, я [Name] [Surname]."
 
 # game/logic/events/molly.rpy:227
 translate russian cofe_event_2_f48c6c9d:
 
     # Molly "Oh, hi! My name is Molly."
-    Molly ""
+    Molly "О, привет! Меня зовут Molly."
 
 # game/logic/events/molly.rpy:228
 translate russian cofe_event_2_676f9575:
 
     # Molly "Haven't seen you here before. Are you new here?"
-    Molly ""
+    Molly "Не видела тебя здесь раньше. Ты новенький?"
 
 # game/logic/events/molly.rpy:230
 translate russian cofe_event_2_56f74b30:
 
     # ch_Name "Yeah, freshman. Just looking around."
-    ch_Name ""
+    ch_Name "Да, первокурсник. Просто осматриваюсь."
 
 # game/logic/events/molly.rpy:232
 translate russian cofe_event_2_03f64bd4:
 
     # Molly "That's cool! Congratulations."
-    Molly ""
+    Molly "Это круто! Поздравляю."
 
 # game/logic/events/molly.rpy:234
 translate russian cofe_event_2_19c758d8:
 
     # ch_Name "This place looks very cozy."
-    ch_Name ""
+    ch_Name "Здесь очень уютно."
 
 # game/logic/events/molly.rpy:236
 translate russian cofe_event_2_f07de41a:
 
     # Molly "Thanks, that's nice to hear."
-    Molly ""
+    Molly "Спасибо, приятно слышать."
 
 # game/logic/events/molly.rpy:237
 translate russian cofe_event_2_154bda90:
 
     # Molly "Cup of something hot?"
-    Molly ""
+    Molly "Чашечку чего-нибудь горячего?"
 
 # game/logic/events/molly.rpy:239
 translate russian cofe_event_2_71184389:
 
     # ch_Name "No, thanks, I don't have any money right now..."
-    ch_Name ""
+    ch_Name "Нет, спасибо, у меня с собой нет денег..."
 
 # game/logic/events/molly.rpy:241
 translate russian cofe_event_2_ea54b5cd:
 
     # Molly "Don't worry, it's my treat."
-    Molly ""
+    Molly "Не волнуйся, я угощаю."
 
 # game/logic/events/molly.rpy:243
 translate russian cofe_event_2_fba69cd1:
 
     # ch_Name "In that case..."
-    ch_Name ""
+    ch_Name "В таком случае..."
 
 # game/logic/events/molly.rpy:249
 translate russian cofe_event_2_fa133c25:
 
     # ch_Name "A cup of tea."
-    ch_Name ""
+    ch_Name "Чашечку чая."
 
 # game/logic/events/molly.rpy:250
 translate russian cofe_event_2_c1c49762:
 
     # ch_Name "Black, no sugar."
-    ch_Name ""
+    ch_Name "Черного, без сахара."
 
 # game/logic/events/molly.rpy:254
 translate russian cofe_event_2_5eda46ff:
 
     # ch_Name "I think I'll have a cup of coffee."
-    ch_Name ""
+    ch_Name "Думаю, я бы выпил чашечку кофе."
 
 # game/logic/events/molly.rpy:255
 translate russian cofe_event_2_c1c49762_1:
 
     # ch_Name "Black, no sugar."
-    ch_Name ""
+    ch_Name "Черного, без сахара."
 
 # game/logic/events/molly.rpy:260
 translate russian cofe_event_2_ec88dca9:
 
     # Molly "Just a minute!"
-    Molly ""
+    Molly "Одну минуту!"
 
 # game/logic/events/molly.rpy:262
 translate russian cofe_event_2_40f8dcf1:
 
     # Molly "Here you go!"
-    Molly ""
+    Molly "Держи!"
 
 # game/logic/events/molly.rpy:263
 translate russian cofe_event_2_3a5c7650:
 
     # ch_Name "Thank you."
-    ch_Name ""
+    ch_Name "Спасибо."
 
 # game/logic/events/molly.rpy:265
 translate russian cofe_event_2_65febf09:
 
     # ch_Name "Are you a magician too?"
-    ch_Name ""
+    ch_Name "Ты тоже маг?"
 
 # game/logic/events/molly.rpy:267
 translate russian cofe_event_2_9bbc3e48:
 
     # Molly "No, an aspiring entrepreneur."
-    Molly ""
+    Molly "Нет, начинающий предприниматель."
 
 # game/logic/events/molly.rpy:269
 translate russian cofe_event_2_465b2a97:
 
     # ch_Name "That's interesting."
-    ch_Name ""
+    ch_Name "Это интересно."
 
 # game/logic/events/molly.rpy:270
 translate russian cofe_event_2_4c145c00:
 
     # ch_Name "So you got a job here as a waitress?"
-    ch_Name ""
+    ch_Name "Так ты работаешь тут официанткой?"
 
 # game/logic/events/molly.rpy:272
 translate russian cofe_event_2_73141131:
 
     # Molly "Not exactly."
-    Molly ""
+    Molly "Не совсем."
 
 # game/logic/events/molly.rpy:273
 translate russian cofe_event_2_83ccc98f:
 
     # Molly "This is my cafe."
-    Molly ""
+    Molly "Это мое кафе."
 
 # game/logic/events/molly.rpy:275
 translate russian cofe_event_2_1e93415e:
 
     # ch_Name "Really?"
-    ch_Name ""
+    ch_Name "Правда?"
 
 # game/logic/events/molly.rpy:276
 translate russian cofe_event_2_af770381:
 
     # ch_Name "Sorry, I thought you worked here as a waitress."
-    ch_Name ""
+    ch_Name "Прости, я думал, ты работаешь тут официанткой."
 
 # game/logic/events/molly.rpy:278
 translate russian cofe_event_2_792b7e30:
 
     # Molly "I am."
-    Molly ""
+    Molly "Так и есть."
 
 # game/logic/events/molly.rpy:279
 translate russian cofe_event_2_5b32e7aa:
 
     # Molly "It's a small business. For now."
-    Molly ""
+    Molly "Это маленький бизнес. Пока что."
 
 # game/logic/events/molly.rpy:280
 translate russian cofe_event_2_d2809d4b:
 
     # Molly "So I work by myself."
-    Molly ""
+    Molly "Так что я работаю одна."
 
 # game/logic/events/molly.rpy:282
 translate russian cofe_event_2_8f461462:
 
     # ch_Name "That must be very hard!"
-    ch_Name ""
+    ch_Name "Это, наверное, очень тяжело!"
 
 # game/logic/events/molly.rpy:284
 translate russian cofe_event_2_d4f07335:
 
     # Molly "It can be hard, but that's okay.{w} I can do it."
-    Molly ""
+    Molly "Бывает непросто, но это нормально.{w} Я справлюсь."
 
 # game/logic/events/molly.rpy:286
 translate russian cofe_event_2_df532341:
 
     # ch_Name "I know what I'm talking about."
-    ch_Name ""
+    ch_Name "Я знаю, о чем говорю."
 
 # game/logic/events/molly.rpy:287
 translate russian cofe_event_2_f8c9ace6:
 
     # ch_Name "I worked as a waiter for a while, I can imagine the workload."
-    ch_Name ""
+    ch_Name "Я какое-то время работал официантом, могу представить объем работы."
 
 # game/logic/events/molly.rpy:288
 translate russian cofe_event_2_0c1d37f5:
 
     # ch_Name "I've been a bartender too."
-    ch_Name ""
+    ch_Name "И барменом я тоже был."
 
 # game/logic/events/molly.rpy:290
 translate russian cofe_event_2_2ee2a48a:
 
     # Molly "Really?"
-    Molly ""
+    Molly "Правда?"
 
 # game/logic/events/molly.rpy:291
 translate russian cofe_event_2_16b9b287:
 
     # ch_Name "Yes... I needed something to do after I broke my leg."
-    ch_Name ""
+    ch_Name "Да... Нужно было чем-то заниматься, после того, как я сломал ногу."
 
 # game/logic/events/molly.rpy:292
 translate russian cofe_event_2_2a5ccb0d:
 
     # ch_Name "Long story."
-    ch_Name ""
+    ch_Name "Это долгая история."
 
 # game/logic/events/molly.rpy:293
 translate russian cofe_event_2_7f889e83:
 
     # Molly "Hmm... What if?"
-    Molly ""
+    Molly "Хмм... А что, если?"
 
 # game/logic/events/molly.rpy:295
 translate russian cofe_event_2_7a7411bf:
 
     # Molly "[Name], I had a crazy idea!"
-    Molly ""
+    Molly "[Name], у меня безумная идея!"
 
 # game/logic/events/molly.rpy:296
 translate russian cofe_event_2_5d5d1a0e:
 
     # Molly "You said you were broke..."
-    Molly ""
+    Molly "Ты сказал, ты на нулях..."
 
 # game/logic/events/molly.rpy:297
 translate russian cofe_event_2_9b656721:
 
     # Molly "How would you like to get a {b}part-time job?{/b}"
-    Molly ""
+    Molly "Как насчет {b}небольшой подработки?{/b}"
 
 # game/logic/events/molly.rpy:299
 translate russian cofe_event_2_5c6d0a46:
 
     # ch_Name "Wow. That's an unexpected offer."
-    ch_Name ""
+    ch_Name "Вау. Ноежиданное предложение."
 
 # game/logic/events/molly.rpy:300
 translate russian cofe_event_2_f22ca42e:
 
     # ch_Name "You're inviting all strangers to work?"
-    ch_Name ""
+    ch_Name "Ты приглашаешь на работу незнакомцев?"
 
 # game/logic/events/molly.rpy:302
 translate russian cofe_event_2_841e52df:
 
     # Molly "Ah-ha-ha."
-    Molly ""
+    Molly "Ах-ха-ха."
 
 # game/logic/events/molly.rpy:303
 translate russian cofe_event_2_c840da17:
 
     # Molly "No. But I got a hunch about you!"
-    Molly ""
+    Molly "Нет. Но у меня есть предчувствие на твой счет!"
 
 # game/logic/events/molly.rpy:304
 translate russian cofe_event_2_0b8610e0:
 
     # Molly "And my instincts never fail me."
-    Molly ""
+    Molly "А мои инстинкты меня никогда не подводят."
 
 # game/logic/events/molly.rpy:306
 translate russian cofe_event_2_d259dc83:
 
     # Molly "Especially since you already gave me your full name."
-    Molly ""
+    Molly "Особенно учитывая, что ты уже сказал мне свое полное имя."
 
 # game/logic/events/molly.rpy:307
 translate russian cofe_event_2_8c9031d7:
 
     # Molly "If anything goes wrong, I'll find you..."
-    Molly ""
+    Molly "Если что-то пойдет не так, я найду тебя..."
 
 # game/logic/events/molly.rpy:309
 translate russian cofe_event_2_d3809660:
 
     # ch_Name "Heh heh..."
-    ch_Name ""
+    ch_Name "Хе-хе..."
 
 # game/logic/events/molly.rpy:310
 translate russian cofe_event_2_bfd847c6:
 
     # ch_Name "{i}(Creepy...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Жутко...){/i}"
 
 # game/logic/events/molly.rpy:316
 translate russian cofe_event_2_3b3eaa7e:
 
     # ch_Name "Sounds too good to refuse!"
-    ch_Name ""
+    ch_Name "Звучит слишком хорошо, чтобы отказаться"
 
 # game/logic/events/molly.rpy:318
 translate russian cofe_event_2_9eea530e:
 
     # Molly "Does it? That's great!"
-    Molly ""
+    Molly "Правда? Это отлично!"
 
 # game/logic/events/molly.rpy:319
 translate russian cofe_event_2_7da51304:
 
     # Molly "Then come back in the afternoon or evening when you have some free time."
-    Molly ""
+    Molly "Тогда приходи после полудня или по вечерам, когда у тебя есть свободное время."
 
 # game/logic/events/molly.rpy:320
 translate russian cofe_event_2_7e377217:
 
     # Molly "It never hurts to have extra hands."
-    Molly ""
+    Molly "ЛИшние руки никогда не помешают."
 
 # game/logic/events/molly.rpy:322
 translate russian cofe_event_2_dbf4b608:
 
     # ch_Name "It's a deal."
-    ch_Name ""
+    ch_Name "Договорились."
 
 # game/logic/events/molly.rpy:327
 translate russian cofe_event_2_3661d772:
 
     # ch_Name "I don't know. I'll have to think about it..."
-    ch_Name ""
+    ch_Name "Не знаю. Я подумаю..."
 
 # game/logic/events/molly.rpy:329
 translate russian cofe_event_2_75884e04:
 
     # Molly "All right, then."
-    Molly ""
+    Molly "Ну ладно."
 
 # game/logic/events/molly.rpy:330
 translate russian cofe_event_2_63071019:
 
     # Molly "If you decide to do it, come back when you have some free time."
-    Molly ""
+    Molly "Если решишься, приходи, когда у тебя будет свободное время."
 
 # game/logic/events/molly.rpy:331
 translate russian cofe_event_2_361f775f:
 
     # Molly "I could use an extra pair of hands."
-    Molly ""
+    Molly "Мне бы не помешала еще одна пара рук."
 
 # game/logic/events/molly.rpy:333
 translate russian cofe_event_2_c6803d96:
 
     # ch_Name "All right."
-    ch_Name ""
+    ch_Name "Ладно."
 
 # game/logic/events/molly.rpy:355
 translate russian Molly_2_label_8f60a070:
@@ -622,187 +622,187 @@ translate russian Molly_2_label_8f60a070:
 translate russian Molly_2_label_b16d2a33:
 
     # ch_Name "I've decided I'm ready to work."
-    ch_Name ""
+    ch_Name "Я решил, что готов работать."
 
 # game/logic/events/molly.rpy:357
 translate russian Molly_2_label_549d56e7:
 
     # ch_Name "Tell me what to do."
-    ch_Name ""
+    ch_Name "Скажи, что мне делать."
 
 # game/logic/events/molly.rpy:359
 translate russian Molly_2_label_e91112f8:
 
     # Molly "That's cool! I could really use the help."
-    Molly ""
+    Molly "Это круто! Помощь мне не помешает."
 
 # game/logic/events/molly.rpy:360
 translate russian Molly_2_label_9047a3cb:
 
     # Molly "I'll serve the guests."
-    Molly ""
+    Molly "Я буду обслуживать посетителей."
 
 # game/logic/events/molly.rpy:361
 translate russian Molly_2_label_226b16cb:
 
     # Molly "Be attentive, be on time."
-    Molly ""
+    Molly "Будь внимателен, собирай заказы вовремя."
 
 # game/logic/events/molly.rpy:362
 translate russian Molly_2_label_ed0ddf56:
 
     # Molly "Maybe they'll even tip you."
-    Molly ""
+    Molly "Может, даже получишь чаевые."
 
 # game/logic/events/molly.rpy:366
 translate russian Molly_2_label_1cf41526:
 
     # Molly "Are you ready?"
-    Molly ""
+    Molly "Ты готов?"
 
 # game/logic/events/molly.rpy:367
 translate russian Molly_2_label_95629ef2:
 
     # ch_Name "Yeah, I'm ready. Let's go!"
-    ch_Name ""
+    ch_Name "Да, готов. Поехали!"
 
 # game/logic/events/molly.rpy:373
 translate russian Molly_3_label_eaa4a30d:
 
     # ch_Name "Hi Molly!"
-    ch_Name ""
+    ch_Name "Привет Molly!"
 
 # game/logic/events/molly.rpy:374
 translate russian Molly_3_label_06e166f2:
 
     # ch_Name "How's it going?"
-    ch_Name ""
+    ch_Name "Как дела?"
 
 # game/logic/events/molly.rpy:375
 translate russian Molly_3_label_f3edc82a:
 
     # Molly "[Name], good to see you!"
-    Molly ""
+    Molly "[Name], рада тебя видеть!"
 
 # game/logic/events/molly.rpy:377
 translate russian Molly_3_label_6d313261:
 
     # Molly "Listen, were you planning on working tonight by any chance?"
-    Molly ""
+    Molly "Слушай, ты случайно не планировал работать сегодня вечером?"
 
 # game/logic/events/molly.rpy:378
 translate russian Molly_3_label_51fd3a0f:
 
     # ch_Name "Um... I don't think so, why?"
-    ch_Name ""
+    ch_Name "Ну... Сомневаюсь, а что?"
 
 # game/logic/events/molly.rpy:379
 translate russian Molly_3_label_13d9acd2:
 
     # Molly "That's too bad. I could use a second pair of hands."
-    Molly ""
+    Molly "Очень жаль. Мне бы не помешала помощь."
 
 # game/logic/events/molly.rpy:381
 translate russian Molly_3_label_e76fd4b5:
 
     # Molly "The visitors have made such a mess today..."
-    Molly ""
+    Molly "Посетители оставили сегодня столько грязи..."
 
 # game/logic/events/molly.rpy:382
 translate russian Molly_3_label_d1306351:
 
     # Molly "I guess I'll have to spend all night cleaning up by myself."
-    Molly ""
+    Molly "Боюсь, сама я буду вожиться с уборкой всю ночь."
 
 # game/logic/events/molly.rpy:383
 translate russian Molly_3_label_609c44dd:
 
     # ch_Name "All right, all right, I'll do it. I won't leave you in the lurch."
-    ch_Name ""
+    ch_Name "Ладно, ладно, я помогу. Я не оставлю тебя в беде."
 
 # game/logic/events/molly.rpy:384
 translate russian Molly_3_label_b687667b:
 
     # ch_Name "How can I help? Just tell me what to do!"
-    ch_Name ""
+    ch_Name "Чем я могу помочь? Просто скажи, что мне делать!"
 
 # game/logic/events/molly.rpy:386
 translate russian Molly_3_label_b5f73d72:
 
     # Molly "Oh, really? Hooray! Hooray! Hooray!"
-    Molly ""
+    Molly "Ох, правда? Ураа! Ураа! Ураа!"
 
 # game/logic/events/molly.rpy:387
 translate russian Molly_3_label_29fe4a15:
 
     # Molly "You have no idea how much you're helping me out!"
-    Molly ""
+    Molly "Ты даже не представляешь, как выручаешь меня!"
 
 # game/logic/events/molly.rpy:388
 translate russian Molly_3_label_6814d848:
 
     # Molly "You know what? [Name], I'm declaring you employee of the month."
-    Molly ""
+    Molly "Знаешь что? [Name], я объявляю тебя работником месяца."
 
 # game/logic/events/molly.rpy:390
 translate russian Molly_3_label_4e4989ba:
 
     # ch_Name "Oh, wow! (Laughs){w} Okay. Will you put my picture up in a frame?"
-    ch_Name ""
+    ch_Name "Ох, вау! (Laughs){w} Окей. Ты поместишь мое фото в рамочку?"
 
 # game/logic/events/molly.rpy:391
 translate russian Molly_3_label_4cc454aa:
 
     # Molly "I'll think about it."
-    Molly ""
+    Molly "Я подумаю об этом."
 
 # game/logic/events/molly.rpy:392
 translate russian Molly_3_label_78fbef92:
 
     # Molly "Now let's get to cleaning up..."
-    Molly ""
+    Molly "Теперь давай займемся уборкой..."
 
 # game/logic/events/molly.rpy:393
 translate russian Molly_3_label_989ec26a:
 
     # ch_Name "Lead the way, captain!"
-    ch_Name ""
+    ch_Name "Указывайте путь, капитан!"
 
 # game/logic/events/molly.rpy:400
 translate russian Molly_3_label_f0e5f7d7:
 
     # Molly "We make a pretty good cleaning crew!"
-    Molly ""
+    Molly "У нас довольно хорошая бригада уборщиков!"
 
 # game/logic/events/molly.rpy:401
 translate russian Molly_3_label_90b838e4:
 
     # Molly "If the cafe goes bankrupt, I'll find you and we'll start a cleaning company."
-    Molly ""
+    Molly "Если кафе разорится, я найду тебя и мы создадим клининговую компанию."
 
 # game/logic/events/molly.rpy:402
 translate russian Molly_3_label_f7217705:
 
     # ch_Name "You got it. It's nice to know I have a job waiting after school."
-    ch_Name ""
+    ch_Name "Договорились. Приятно осознавать, что после учебы у тебя будет работа."
 
 # game/logic/events/molly.rpy:404
 translate russian Molly_3_label_26efd3c2:
 
     # ch_Name "{i}(I hope she's joking out of desperation, not making plans.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Надеюсь, она шутити от отчаяния, а не составляет план.){/i}"
 
 # game/logic/events/molly.rpy:405
 translate russian Molly_3_label_e4e8dffb:
 
     # ch_Name "{i}(There's nothing more boring than dancing around with a mop.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Нет ничего скучнее танцев со шваброй.){/i}"
 
 # game/logic/events/molly.rpy:406
 translate russian Molly_3_label_adedf101:
 
     # ch_Name "{i}(What can I do to cheer myself up? Hmm...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Чем бы себя взбодрить? Хмм...){/i}"
 
 # game/logic/events/molly.rpy:408
 translate russian Molly_3_label_5473c987:
