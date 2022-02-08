@@ -46,7 +46,7 @@ translate russian Haley_1_label_1eb3dfb5:
 translate russian Haley_1_label_c41619bb:
 
     # ch_Name "Haley, hi!"
-    ch_Name "Haley, привет!"
+    ch_Name "Хейли, привет!"
 
 # game/logic/events/haley.rpy:245
 translate russian Haley_1_label_4f5a31ad:
@@ -112,7 +112,7 @@ translate russian Haley_1_label_ea79a994:
 translate russian Haley_1_label_66e729ab:
 
     # Haley "And I know textbooks, believe me."
-    Haley "А я, уж поверь, много их повидала."
+    Haley "А я, ты уж поверь, много их повидала."
 
 # game/logic/events/haley.rpy:259
 translate russian Haley_1_label_af95aa64:
@@ -130,7 +130,7 @@ translate russian Haley_1_label_864f62a3:
 translate russian Haley_1_label_e67cc066:
 
     # Haley "I also spoke to Ms. Lapis!"
-    Haley "А еще я поговорила с мисс Lapis!"
+    Haley "А еще я поговорила с мисс Лапис!"
 
 # game/logic/events/haley.rpy:263
 translate russian Haley_1_label_1f9e4b76:
@@ -148,7 +148,7 @@ translate russian Haley_1_label_194a01be:
 translate russian Haley_1_label_7e5b1b48:
 
     # ch_Name "An after-class class?{w} Wow!"
-    ch_Name "Урок после урока?{w} Уау!"
+    ch_Name "Урок после урока?{w} Вау!"
 
 # game/logic/events/haley.rpy:267
 translate russian Haley_1_label_378fe9d5:
@@ -172,7 +172,7 @@ translate russian Haley_1_label_16ca2fd4:
 translate russian Haley_1_label_fe6574e0:
 
     # ch_Name "I'm happy for you."
-    ch_Name "Я очень рад за тебя."
+    ch_Name "Я тоже очень рад за тебя."
 
 # game/logic/events/haley.rpy:271
 translate russian Haley_1_label_f738ad64:
@@ -208,7 +208,7 @@ translate russian Haley_1_label_8ea79ec9:
 translate russian Haley_1_label_61f08724:
 
     # Haley "What's your point?"
-    Haley "Что ты имеешь в виду?"
+    Haley "К чему ты клонишь?"
 
 # game/logic/events/haley.rpy:279
 translate russian Haley_1_label_a04a7c80:
@@ -238,7 +238,7 @@ translate russian Haley_1_label_68ccf651:
 translate russian Haley_1_label_9f295f1b:
 
     # ch_Name "Let's start there."
-    ch_Name "Давай с этого начнём."
+    ch_Name "Давай с этого и начнём."
 
 # game/logic/events/haley.rpy:286
 translate russian Haley_1_label_dbe7be5a:
@@ -364,7 +364,7 @@ translate russian Haley_1_label_1934be48:
 translate russian Haley_1_label_872ff8b7:
 
     # "Victoria" "So, please, take your place and don't distract miss Ranger."
-    "Victoria" "Так что прошу вас занять своё место и не отвлекать мисс Ranger."
+    "Victoria" "Так что прошу вас занять своё место и не отвлекать мисс Рейнджер."
 
 # game/logic/events/haley.rpy:313
 translate russian Haley_1_label_4eefd107:
@@ -376,7 +376,7 @@ translate russian Haley_1_label_4eefd107:
 translate russian Haley_2_label_c4c30f90:
 
     # ch_Name "{i}(Haley wanted me to meet her in her room.){/i}"
-    ch_Name "{i}(Haley хотела увидеться в её комнате.){/i}"
+    ch_Name "{i}(Хейли хотела увидеться в её комнате.){/i}"
 
 # game/logic/events/haley.rpy:327
 translate russian Haley_2_label_c50a2184:
@@ -406,13 +406,13 @@ translate russian Haley_2_label_07f25072:
 translate russian Haley_2_label_4aa97c28:
 
     # ch_Name "{i}(Wow! I can't take my eyes off her...){/i}"
-    ch_Name "{i}(Уау, я не могу оторвать от неё взгляд...){/i}"
+    ch_Name "{i}(Вау, я не могу оторвать от неё взгляд...){/i}"
 
 # game/logic/events/haley.rpy:334
 translate russian Haley_2_label_b14a12ef:
 
     # ch_Name "Haley!"
-    ch_Name "Haley!"
+    ch_Name "Хейли!"
 
 # game/logic/events/haley.rpy:335
 translate russian Haley_2_label_40e53625:
@@ -460,7 +460,7 @@ translate russian Haley_2_label_7a67670e:
 translate russian Haley_2_label_57abb76e:
 
     # ch_Name "Your speech about the magic textbook was so passionate..."
-    ch_Name "Ты с таким увлечением рассказывала об учебнике с заклинаниями..."
+    ch_Name "Ты с таким увлечением рассказывала про учебник с заклинаниями..."
 
 # game/logic/events/haley.rpy:346
 translate russian Haley_2_label_5168f873:
@@ -586,7 +586,7 @@ translate russian Haley_2_label_f6f76b7b:
 translate russian Haley_2_label_162a6165:
 
     # ch_Name "Let's get inside. "
-    ch_Name "Давай зайдём."
+    ch_Name "Давай зайдём внутрь."
 
 # game/logic/events/haley.rpy:383
 translate russian Haley_3_label_0d8dd159:
@@ -658,7 +658,7 @@ translate russian Haley_3_label_2d8efd58:
 translate russian Haley_3_label_db6fd9ae:
 
     # ch_Name "I was just thinking.{w} Nevermind."
-    ch_Name "Я просто задумался.{w} Забудь."
+    ch_Name "Да просто задумался.{w} Забудь."
 
 # game/logic/events/haley.rpy:400
 translate russian Haley_3_label_659ee22f:
@@ -676,7 +676,7 @@ translate russian Haley_3_label_823610fb:
 translate russian Haley_3_label_0af9c279:
 
     # Haley "What were you thinking about?"
-    Haley "О чём ты подумал?"
+    Haley "О чём ты задумался?"
 
 # game/logic/events/haley.rpy:404
 translate russian Haley_3_label_8afa3ab3:
@@ -904,7 +904,7 @@ translate russian Haley_3_label_e980dd76:
 translate russian Haley_3_label_4c82cd65:
 
     # ch_Name "{i}(No wonder Molly gets so many tips.){/i}"
-    ch_Name "{i}(Неудивительно, что Molly получает столько чаевых.){/i}"
+    ch_Name "{i}(Неудивительно, что Молли получает столько чаевых.){/i}"
 
 # game/logic/events/haley.rpy:472
 translate russian Haley_3_label_c5289494:
@@ -958,7 +958,7 @@ translate russian Haley_3_label_ingore_mollys_ass_7423cb53:
 translate russian Haley_3_label_ingore_mollys_ass_698cf441:
 
     # Haley "Well..."
-    Haley "Что ж..."
+    Haley "Ну..."
 
 # game/logic/events/haley.rpy:487
 translate russian Haley_3_label_ingore_mollys_ass_6bfef549:
@@ -1102,7 +1102,7 @@ translate russian Haley_3_label_mtp_1_02d86417:
 translate russian Haley_3_label_mtp_1_4ef1da60:
 
     # ch_Name "I asked you out because I wanted to ask you out."
-    ch_Name "Я пригласил тебя, потому что я хотел пригласить тебя."
+    ch_Name "Я пригласил тебя, потому что просто хотел пригласить."
 
 # game/logic/events/haley.rpy:519
 translate russian Haley_3_label_mtp_1_e25e13ae:
@@ -1216,13 +1216,13 @@ translate russian Haley_3_label_mtp_1_16a49169:
 translate russian Haley_3_label_mtp_1_cfd44bd8:
 
     # ch_Name "Have we already had a fight?!"
-    ch_Name "Мы уже поссорились?"
+    ch_Name "Мы уже поругались?"
 
 # game/logic/events/haley.rpy:541
 translate russian Haley_3_label_mtp_1_936bf0cb:
 
     # Haley "No, no! I have to finish my individual assignment from Victoria."
-    Haley "Нет, нет! Мне просто нужно закончить индивидуальное задание для Victoria."
+    Haley "Нет, нет! Мне просто нужно закончить индивидуальное задание для Виктории."
 
 # game/logic/events/haley.rpy:542
 translate russian Haley_3_label_mtp_1_0d4dc40c:
@@ -1276,7 +1276,7 @@ translate russian Haley_3_label_mtp_1_28466bed:
 translate russian Haley_3_label_mtp_1_86f3f234:
 
     # Haley "I'm sorry, I was so focused on Victoria's assigment, I spaced out a little."
-    Haley "Извини, я вся в своих мыслях, думаю о задании от Victoria."
+    Haley "Извини, я вся в своих мыслях, думаю о задании от Виктории."
 
 # game/logic/events/haley.rpy:554
 translate russian Haley_3_label_mtp_1_03ee8af7:
@@ -1294,19 +1294,19 @@ translate russian Haley_3_label_mtp_1_d4ae486a:
 translate russian Haley_3_label_mtp_1_3dbd1262:
 
     # ch_Name "{i}(But somehow, it wasn't bad awkward. I think we had fun.){/i}"
-    ch_Name "{i}(Но, не в плохом смысле слова. Думаю, мы хорошо провели время.){/i}"
+    ch_Name "{i}(Но не в плохом смысле слова. Думаю, мы хорошо провели время.){/i}"
 
 # game/logic/events/haley.rpy:559
 translate russian Haley_3_label_mtp_1_75ffe0d5:
 
     # ch_Name "{i}(I still can't believe no one was interested in Haley in high school.){/i}"
-    ch_Name "{i}(В голове не укладывается, что Haley никому не нравилась в старших классах.){/i}"
+    ch_Name "{i}(В голове не укладывается, что Хейли никому не нравилась в старших классах.){/i}"
 
 # game/logic/events/haley.rpy:560
 translate russian Haley_3_label_mtp_1_3640ea02:
 
     # ch_Name "{i}(Were her classmates blind?!){/i}"
-    ch_Name "{i}(Они что, все слепые?!){/i}"
+    ch_Name "{i}(Они там что, все слепые?!){/i}"
 
 # game/logic/events/haley.rpy:561
 translate russian Haley_3_label_mtp_1_b08483aa:
@@ -1324,7 +1324,7 @@ translate russian Haley_3_label_mtp_1_20c5edb0:
 translate russian Haley_4_label_b14a12ef:
 
     # ch_Name "Haley!"
-    ch_Name "Haley!"
+    ch_Name "Хейли!"
 
 # game/logic/events/haley.rpy:574
 translate russian Haley_4_label_9852e58e:
@@ -1366,7 +1366,7 @@ translate russian Haley_4_label_21f590b7:
 translate russian Haley_4_label_fe511a5a:
 
     # Haley "I have an individual test with Miss Victoria after class."
-    Haley "У меня индивидуальный тест с мисс Victoria после урока."
+    Haley "У меня индивидуальный тест с мисс Викторией после урока."
 
 # game/logic/events/haley.rpy:585
 translate russian Haley_4_label_c76b4668:
@@ -1408,13 +1408,13 @@ translate russian Haley_4_label_2b022b58:
 translate russian Haley_4_label_4999292e:
 
     # Haley "But you can't get books like that for a freshman, it's too dangerous."
-    Haley "Однако такие книги не выдают первокурсникам, это слишком опасно."
+    Haley "Однако книги по таким темам не выдают первокурсникам, это слишком опасно."
 
 # game/logic/events/haley.rpy:595
 translate russian Haley_4_label_255b6a18:
 
     # Haley "Miss Lapis is willing to make an exception for me."
-    Haley "Мисс Lapis готова сделать для меня исключение."
+    Haley "Мисс Лапис готова сделать для меня исключение."
 
 # game/logic/events/haley.rpy:596
 translate russian Haley_4_label_b46655fc:
@@ -1480,7 +1480,7 @@ translate russian Haley_4_label_4168a1b1:
 translate russian Haley_4_label_0c921508:
 
     # Haley "But Miss Amelie couldn't find the textbook right away."
-    Haley "Но мисс Amelie не смогла сразу найти другую книгу."
+    Haley "Но мисс Амели не смогла сразу найти другую книгу."
 
 # game/logic/events/haley.rpy:612
 translate russian Haley_4_label_37f58bc5:
@@ -1492,7 +1492,7 @@ translate russian Haley_4_label_37f58bc5:
 translate russian Haley_4_label_5ea33d85:
 
     # Haley "And then Miss Lapis said my practical was after class."
-    Haley "А потом мисс Lapis сказала, что у меня после урока будет практическое занятие."
+    Haley "А потом мисс Лапис сказала, что у меня после урока будет практическое занятие."
 
 # game/logic/events/haley.rpy:615
 translate russian Haley_4_label_2ede2fbe:
@@ -1606,7 +1606,7 @@ translate russian Haley_4_label_aa15c2ae:
 translate russian Haley_4_label_05bab6bb:
 
     # ch_Name "{i}(Oh, Haley... I'll be sure to collect my debt.){/i}"
-    ch_Name "{i}(О, Haley... Я уж постараюсь, чтобы ты мне отплатила.){/i}"
+    ch_Name "{i}(О, Хейли... Я уж постараюсь, чтобы ты мне отплатила.){/i}"
 
 # game/logic/events/haley.rpy:640
 translate russian Haley_4_label_3ca656da:
@@ -1654,7 +1654,7 @@ translate russian Haley_5_label_f96e19dc:
 translate russian Haley_5_label_2a3489b8:
 
     # ch_Name "I'm impressed. What's your secret? Magic?"
-    ch_Name "Я впечатлён. В чём ваш секрет? Волшебство?"
+    ch_Name "Я впечатлён. В чём ваш секрет? Магия?"
 
 # game/logic/events/haley.rpy:663
 translate russian Haley_5_label_2241311d:
@@ -1690,7 +1690,7 @@ translate russian Haley_5_label_a2ac1add:
 translate russian Haley_5_label_3defa34d:
 
     # ch_Name "I just came by to pick up Haley Ranger's potions books."
-    ch_Name "Я пришел, чтобы забрать учебник по зельям для Haley Ranger."
+    ch_Name "Я пришел, чтобы забрать учебник по зельям для Хейли Рейнджер."
 
 # game/logic/events/haley.rpy:671
 translate russian Haley_5_label_cb3447e8:
@@ -1810,7 +1810,7 @@ translate russian Haley_5_label_e0be5440:
 translate russian Haley_5_label_e0e9c470:
 
     # ch_Name "Maybe Haley will get lucky, too."
-    ch_Name "Может быть, тогда и Haley повезёт."
+    ch_Name "Может быть, тогда и Хейли повезёт."
 
 # game/logic/events/haley.rpy:708
 translate russian Haley_5_label_690b8254:
@@ -1912,7 +1912,7 @@ translate russian Haley_6_label_2f3d7c1d:
 translate russian Haley_6_label_6857a497:
 
     # ch_Name "Amelie said all the new textbooks are gone."
-    ch_Name "Amelie сказала, что новых учебников больше нет."
+    ch_Name "Амели сказала, что новых учебников больше нет."
 
 # game/logic/events/haley.rpy:742
 translate russian Haley_6_label_ba075f97:
@@ -1984,7 +1984,7 @@ translate russian Haley_6_label_8b4e00b1:
 translate russian Haley_6_label_3500de08:
 
     # Haley "Otherwise, I won't get them to Victoria after class and it was all for nothing!"
-    Haley "Иначе я буду не готова к занятию с Victoria после, и значит всё было насмарку!"
+    Haley "Иначе я буду не готова к занятию с Викторией после этого, и значит всё было насмарку!"
 
 # game/logic/events/haley.rpy:758
 translate russian Haley_6_label_9150492d:
@@ -2002,7 +2002,7 @@ translate russian Haley_6_label_380862e6:
 translate russian Haley_7_label_14969a9a:
 
     # NoName "Ring, ring..."
-    NoName "Дзынь, дзынь..."
+    NoName "Телефон звонит"
 
 # game/logic/events/haley.rpy:771
 translate russian Haley_7_label_d007b8f0:
@@ -2014,7 +2014,7 @@ translate russian Haley_7_label_d007b8f0:
 translate russian Haley_7_label_ece7698f:
 
     # Haley "[Name], hi. It's Haley!"
-    Haley "[Name], привет. Это Haley!"
+    Haley "[Name], привет. Это Хейли!"
 
 # game/logic/events/haley.rpy:774
 translate russian Haley_7_label_30a6650a:
@@ -2032,7 +2032,7 @@ translate russian Haley_7_label_c815023d:
 translate russian Haley_7_label_bc08eac6:
 
     # Haley "I asked Samantha."
-    Haley "Я попросила у Samantha"
+    Haley "Попросила у Саманты"
 
 # game/logic/events/haley.rpy:777
 translate russian Haley_7_label_8bf11ac1:
@@ -2056,7 +2056,7 @@ translate russian Haley_7_label_13e125b7:
 translate russian Haley_7_label_36dc6d66:
 
     # Haley "She's a straight-A student and the pride of Leonheart!"
-    Haley "Она круглая отличница и гордость всего Leonheart!"
+    Haley "Она круглая отличница и гордость всего Леонхарта!"
 
 # game/logic/events/haley.rpy:782
 translate russian Haley_7_label_90f6fcd8:
@@ -2092,13 +2092,13 @@ translate russian Haley_7_label_d71de107:
 translate russian Haley_7_label_4614795e:
 
     # ch_Name "Haley, please..."
-    ch_Name "Haley, пожалуйста..."
+    ch_Name "Хейли, пожалуйста..."
 
 # game/logic/events/haley.rpy:789
 translate russian Haley_7_label_7293915f:
 
     # Haley "This is different! It's not part of the textbook."
-    Haley "Это другое! Это не часть учебника."
+    Haley "Это другое! Это не про учёбу."
 
 # game/logic/events/haley.rpy:790
 translate russian Haley_7_label_732e8302:
@@ -2158,19 +2158,19 @@ translate russian Haley_7_label_d8042caf:
 translate russian Haley_7_label_6498ea8e:
 
     # ch_Name "{i}(Usually, I hate everyone who tries to wake me up. But I can't be mad at Haley.){/i}"
-    ch_Name "{i}(Обычно я ненавижу любого, кто пытается меня разбудить. Однако на Haley я сердиться не могу.){/i}"
+    ch_Name "{i}(Обычно я люто ненавижу любого, кто пытается меня разбудить. Однако на Хейли я сердиться не могу.){/i}"
 
 # game/logic/events/haley.rpy:804
 translate russian Haley_7_label_6ee72ae7:
 
     # ch_Name "{i}(Well, If I'm not asleep, I should probably do something before classes.){/i}"
-    ch_Name "{i}(Ну, раз уж я не сплю, я могу чем-то заняться до начала занятий.){/i}"
+    ch_Name "{i}(Ну, раз уж я не сплю, могу чем-то заняться до начала занятий.){/i}"
 
 # game/logic/events/haley.rpy:858
 translate russian haley_events_4_label_0_11dd609e:
 
     # ch_Name "{i}(Haley looks so peaceful in her sleep.){/i}"
-    ch_Name "{i}(Haley так мирно спит.){/i}"
+    ch_Name "{i}(Хейли так мирно спит.){/i}"
 
 # game/logic/events/haley.rpy:859
 translate russian haley_events_4_label_0_54402612:
@@ -2194,7 +2194,7 @@ translate russian haley_events_4_label_0_0a0f56f2:
 translate russian haley_events_4_label_0_29d447b5:
 
     # ch_Name "{i}(So what are you hiding here, Haley...){/i}"
-    ch_Name "{i}(Так вот что ты тут прячешь, Haley.){/i}"
+    ch_Name "{i}(Так вот что ты тут прячешь, Хейли.){/i}"
 
 # game/logic/events/haley.rpy:865
 translate russian haley_events_4_label_0_8b842d7f:
@@ -2224,7 +2224,7 @@ translate russian haley_events_4_label_0_4e1d1bd4:
 translate russian haley_events_4_label_0_86444b62:
 
     # ch_Name "{i}(Sometimes you're even too gorgeous, Haley...){/i}"
-    ch_Name "{i}(Haley, иногда ты уж слишком хороша...){/i}"
+    ch_Name "{i}(Хейли, иногда ты уж слишком хороша...){/i}"
 
 # game/logic/events/haley.rpy:872
 translate russian haley_events_4_label_0_4af7f1ab:
@@ -2260,7 +2260,7 @@ translate russian haley_events_4_label_0_03d6a422:
 translate russian haley_events_4_label_1_a967e354:
 
     # ch_Name "{i}(Haley always looks so peaceful in her sleep.){/i}"
-    ch_Name "{i}(Haley всегда так мирно спит.){/i}"
+    ch_Name "{i}(Хейли всегда так мирно спит.){/i}"
 
 # game/logic/events/haley.rpy:893
 translate russian haley_events_4_label_1_54402612:
@@ -2284,7 +2284,7 @@ translate russian haley_events_4_label_1_0a0f56f2:
 translate russian haley_events_4_label_1_5ef406c5:
 
     # ch_Name "{i}(Still hiding from me under the blanket, Haley?){/i}"
-    ch_Name "{i}(Всё ещё прячешься от меня под одеялом, Haley?){/i}"
+    ch_Name "{i}(Всё ещё прячешься от меня под одеялом, Хейли?){/i}"
 
 # game/logic/events/haley.rpy:899
 translate russian haley_events_4_label_1_45b010da:
@@ -2314,7 +2314,7 @@ translate russian haley_events_4_label_1_8f10ba96:
 translate russian haley_events_4_label_1_86444b62:
 
     # ch_Name "{i}(Sometimes you're even too gorgeous, Haley...){/i}"
-    ch_Name "{i}(Иногда ты чересчур уж прекрасна, Haley...){/i}"
+    ch_Name "{i}(Иногда ты чересчур уж прекрасна, Хейли...){/i}"
 
 # game/logic/events/haley.rpy:906
 translate russian haley_events_4_label_1_4af7f1ab:
@@ -2404,7 +2404,7 @@ translate russian haley_events_4_label_1_62487aa9:
 translate russian haley_events_4_label_1_d3e3f53b:
 
     # ch_Name "{i}(Oh, Haley... Let me see your temple.){/i}"
-    ch_Name "{i}(О, Haley... Позволь мне увидеть самое главное.){/i}"
+    ch_Name "{i}(О, Хейли... Позволь мне увидеть самое главное.){/i}"
 
 # game/logic/events/haley.rpy:926
 translate russian haley_events_4_label_1_830604ee:
@@ -2458,7 +2458,7 @@ translate russian haley_events_4_label_1_03d6a422:
 translate russian haley_events_4_label_2_a967e354:
 
     # ch_Name "{i}(Haley always looks so peaceful in her sleep.){/i}"
-    ch_Name "{i}(Haley всегда так мирно спит.){/i}"
+    ch_Name "{i}(Хейли всегда так мирно спит.){/i}"
 
 # game/logic/events/haley.rpy:944
 translate russian haley_events_4_label_2_54402612:
@@ -2482,7 +2482,7 @@ translate russian haley_events_4_label_2_d36909c7:
 translate russian haley_events_4_label_2_5ef406c5:
 
     # ch_Name "{i}(Still hiding from me under the blanket, Haley?){/i}"
-    ch_Name "{i}(Всё ещё прячешься от меня под одеялом, Haley?){/i}"
+    ch_Name "{i}(Всё ещё прячешься от меня под одеялом, Хейли?){/i}"
 
 # game/logic/events/haley.rpy:950
 translate russian haley_events_4_label_2_45b010da:
@@ -2512,7 +2512,7 @@ translate russian haley_events_4_label_2_a723772a:
 translate russian haley_events_4_label_2_86444b62:
 
     # ch_Name "{i}(Sometimes you're even too gorgeous, Haley...){/i}"
-    ch_Name "{i}(Иногда ты чересчур уж прекрасна, Haley...){/i}"
+    ch_Name "{i}(Иногда ты чересчур уж прекрасна, Хейли...){/i}"
 
 # game/logic/events/haley.rpy:957
 translate russian haley_events_4_label_2_4af7f1ab:
@@ -2626,7 +2626,7 @@ translate russian haley_events_4_label_2_c442f0f4:
 translate russian haley_events_4_label_2_dd3ec00f:
 
     # ch_Name "{i}(Haley, how do you keep such a perfect balance...){/i}"
-    ch_Name "{i}(Haley, как тебе удаётся этот баланс?){/i}"
+    ch_Name "{i}(Хейли, как тебе удаётся этот баланс?){/i}"
 
 # game/logic/events/haley.rpy:981
 translate russian haley_events_4_label_2_44e53a41:
@@ -2644,13 +2644,13 @@ translate russian haley_events_4_label_2_de358c5f:
 translate russian haley_events_4_label_2_4e3d316d:
 
     # ch_Name "{i}(While I can still control myself.){/i}"
-    ch_Name "{i}(Пока я ещё могу себя контролировать.{i}(){/i}){/i}"
+    ch_Name "{i}(Пока я ещё могу себя контролировать.{/i}"
 
 # game/logic/events/haley.rpy:985
 translate russian haley_events_4_label_2_a620a178:
 
     # ch_Name "{i}(Oh, Haley... Let me look at your temple.){/i}"
-    ch_Name "{i}(О, Haley... Позволь мне увидеть самое главное.){/i}"
+    ch_Name "{i}(О, Хейли... Позволь мне увидеть самое главное.){/i}"
 
 # game/logic/events/haley.rpy:986
 translate russian haley_events_4_label_2_830604ee:
@@ -2692,7 +2692,7 @@ translate russian haley_events_4_label_2_7bfb88c9:
 translate russian haley_events_4_label_2_cf3ab6da:
 
     # ch_Name "{i}(Haley... I'm speechless...){/i}"
-    ch_Name "{i}(Haley... Нет слов...){/i}"
+    ch_Name "{i}(Хейли... Нет слов...){/i}"
 
 # game/logic/events/haley.rpy:996
 translate russian haley_events_4_label_2_4313d7fa:
@@ -2734,7 +2734,7 @@ translate russian haley_events_4_label_2_03d6a422:
 translate russian haley_events_4_label_3_a967e354:
 
     # ch_Name "{i}(Haley always looks so peaceful in her sleep.){/i}"
-    ch_Name "{i}(Haley всегда так мирно спит.){/i}"
+    ch_Name "{i}(Хейли всегда так мирно спит.){/i}"
 
 # game/logic/events/haley.rpy:1010
 translate russian haley_events_4_label_3_54402612:
@@ -2758,7 +2758,7 @@ translate russian haley_events_4_label_3_0a0f56f2:
 translate russian haley_events_4_label_3_5ef406c5:
 
     # ch_Name "{i}(Still hiding from me under the blanket, Haley?){/i}"
-    ch_Name "{i}(Всё ещё прячешься от меня под одеялом, Haley?){/i}"
+    ch_Name "{i}(Всё ещё прячешься от меня под одеялом, Хейли?){/i}"
 
 # game/logic/events/haley.rpy:1016
 translate russian haley_events_4_label_3_45b010da:
@@ -2788,7 +2788,7 @@ translate russian haley_events_4_label_3_58adf491:
 translate russian haley_events_4_label_3_86444b62:
 
     # ch_Name "{i}(Sometimes you're even too gorgeous, Haley...){/i}"
-    ch_Name "{i}(Иногда ты чересчур уж прекрасна, Haley...){/i}"
+    ch_Name "{i}(Иногда ты чересчур уж прекрасна, Хейли...){/i}"
 
 # game/logic/events/haley.rpy:1023
 translate russian haley_events_4_label_3_4af7f1ab:
@@ -2806,7 +2806,7 @@ translate russian haley_events_4_label_3_47156fa9:
 translate russian haley_events_4_label_3_818b6123:
 
     # ch_Name "{i}(Show me all of yourself, Haley...){/i}"
-    ch_Name "{i}(Haley, покажи мне себя всю...){/i}"
+    ch_Name "{i}(Хейли, покажи мне себя всю...){/i}"
 
 # game/logic/events/haley.rpy:1027
 translate russian haley_events_4_label_3_dbebec62:
@@ -2896,7 +2896,7 @@ translate russian haley_events_4_label_3_c442f0f4:
 translate russian haley_events_4_label_3_dd3ec00f:
 
     # ch_Name "{i}(Haley, how do you keep such a perfect balance...){/i}"
-    ch_Name "{i}(Haley, как тебе удаётся этот баланс?){/i}"
+    ch_Name "{i}(Хейли, как тебе удаётся этот баланс?){/i}"
 
 # game/logic/events/haley.rpy:1046
 translate russian haley_events_4_label_3_44e53a41:
@@ -2956,7 +2956,7 @@ translate russian haley_events_4_label_3_616803d2:
 translate russian haley_events_4_label_3_2ae7bc34:
 
     # ch_Name "{i}(How gorgeous Haley looks in that lingerie...){/i}"
-    ch_Name "{i}(Как же прекрасно выглядит Haley в этом белье...){/i}"
+    ch_Name "{i}(Как же прекрасно выглядит Хейли в этом белье...){/i}"
 
 # game/logic/events/haley.rpy:1059
 translate russian haley_events_4_label_3_5ca0871c:
@@ -2974,7 +2974,7 @@ translate russian haley_events_4_label_3_71c58b14:
 translate russian haley_events_4_label_3_d3e3f53b:
 
     # ch_Name "{i}(Oh, Haley... Let me see your temple.){/i}"
-    ch_Name "{i}(О, Haley... Позволь мне увидеть самое главное.){/i}"
+    ch_Name "{i}(О, Хейли... Позволь мне увидеть самое главное.){/i}"
 
 # game/logic/events/haley.rpy:1063
 translate russian haley_events_4_label_3_830604ee:
@@ -3058,7 +3058,7 @@ translate russian haley_events_4_label_3_255d1f20:
 translate russian haley_events_4_label_3_8235232a:
 
     # ch_Name "{i}(I'll press gently...){/i}"
-    ch_Name "{i}(Я нежно нажму...){/i}"
+    ch_Name "{i}(Я нежно надавлю...){/i}"
 
 # game/logic/events/haley.rpy:1082
 translate russian haley_events_4_label_3_5d474800:
@@ -3124,13 +3124,13 @@ translate russian haley_8_label_eaf050fe:
 translate russian haley_8_label_f0bb026f:
 
     # ch_Name "(I need to go to Haley now if I don't want her to wait for too long.)"
-    ch_Name "(Нужно пойти к Haley сейчас, если я не хочу заставлять ее ждать.)"
+    ch_Name "(Нужно пойти к Хейли сейчас, если я не хочу заставлять ее ждать.)"
 
 # game/logic/events/haley.rpy:1136
 translate russian haley_8_label_98279498:
 
     # ch_Name "(I wonder why Haley wanted to meet me in her room.)"
-    ch_Name "(Любопытно, почему Haley хотела, чтобы я пришёл к ней в комнату.)"
+    ch_Name "(Любопытно, почему Хейли хотела, чтобы я пришёл к ней в комнату.)"
 
 # game/logic/events/haley.rpy:1137
 translate russian haley_8_label_72243228:
@@ -3142,19 +3142,19 @@ translate russian haley_8_label_72243228:
 translate russian haley_8_label_b9c010fc:
 
     # ch_Name "(Well, I think I'll find it out very soon.)"
-    ch_Name "(Что ж, похожу, что я очень скоро это узнаю.)"
+    ch_Name "(Что ж, похоже, что я очень скоро это узнаю.)"
 
 # game/logic/events/haley.rpy:1143
 translate russian haley_8_label_d6f40f65:
 
     # ch_Name "Haley, hi there!"
-    ch_Name "Haley, привет!"
+    ch_Name "Хейли, привет!"
 
 # game/logic/events/haley.rpy:1144
 translate russian haley_8_label_4514654c:
 
     # ch_Name "Am I interrupting?"
-    ch_Name "Я не отвлекаю?"
+    ch_Name "Не отвлекаю?"
 
 # game/logic/events/haley.rpy:1145
 translate russian haley_8_label_2eda83ab:
@@ -3232,7 +3232,7 @@ translate russian haley_8_16_5b1104ed:
 translate russian haley_8_16_3b715af0:
 
     # Haley "Don't worry about that!"
-    Haley "Не думай об этом!"
+    Haley "Не туда ты смотришь!"
 
 # game/logic/events/haley.rpy:1179
 translate russian haley_8_19_5fa2bb63:
@@ -3256,7 +3256,7 @@ translate russian haley_8_20_5a2b8c6f:
 translate russian haley_8_20_9467f9db:
 
     # Haley "Don't be stupid! E. Bloom? Elijah Bloom?"
-    Haley "Не дури! E. Bloom? Elijah Bloom?"
+    Haley "Не дури! Э. Блум? Элайджа Блум?"
 
 # game/logic/events/haley.rpy:1188
 translate russian haley_8_20_5103e72f:
@@ -3310,7 +3310,7 @@ translate russian haley_8_20_1ee1cdbb:
 translate russian haley_8_20_4e95c4ec:
 
     # Haley "I found out that E. Bloom had already gone to Cordale eight years ago."
-    Haley "Я выяснила, что E. Bloom уже учился в Cordale восемь лет назад."
+    Haley "Я выяснила, что Э. Блуи уже учился в Кордейле восемь лет назад."
 
 # game/logic/events/haley.rpy:1199
 translate russian haley_8_20_d9cc12ad:
@@ -3322,7 +3322,7 @@ translate russian haley_8_20_d9cc12ad:
 translate russian haley_8_20_f2d02ce0:
 
     # Haley "And {b}H. Gross{/b} went to school with him. Gross. What do you think, is it Hans?"
-    Haley "И что {b}H. Gross{/b} учился с нам вместе. Gross. Как думаешь, это Hans?"
+    Haley "И что {b}Х. Гросс{/b} учился с нам вместе. Gross. Как думаешь, это Ханс?"
 
 # game/logic/events/haley.rpy:1202
 translate russian haley_8_20_9f375244:
@@ -3364,7 +3364,7 @@ translate russian haley_8_20_c8dced8c:
 translate russian haley_8_20_57959901:
 
     # Haley "All except E. {b}Bloom{/b} and {b}H. Gross.{/b}"
-    Haley "У всех, кроме E. {b}Bloom{/b} и {b}H. Gross.{/b}"
+    Haley "У всех, кроме Э. {b}Блума{/b} и {b}Х. Гросса.{/b}"
 
 # game/logic/events/haley.rpy:1210
 translate russian haley_8_20_46b25199:
@@ -3388,7 +3388,7 @@ translate russian haley_8_20_5a99487a:
 translate russian haley_8_20_42873ffb:
 
     # Haley "I've got a nose for that kind of thing. Detective Haley's back in business!"
-    Haley "У меня чутьё на такие вещи. Детектив Haley снова в деле!"
+    Haley "У меня чутьё на такие вещи. Детектив Хейли снова в деле!"
 
 # game/logic/events/haley.rpy:1215
 translate russian haley_8_20_bda6d32c:
@@ -3412,7 +3412,7 @@ translate russian haley_8_20_04154994:
 translate russian haley_8_20_cf4cd9ec:
 
     # Haley "It's probably best to ask Elijah directly. What do you think?"
-    Haley "Может быть, лучше всего будет спросить Elijah напрямую. Как думаешь?"
+    Haley "Может быть, лучше всего будет спросить Элайджа напрямую. Как думаешь?"
 
 # game/logic/events/haley.rpy:1220
 translate russian haley_8_20_d60563fb:
@@ -3454,7 +3454,7 @@ translate russian haley_9_label_d24ca5b2:
 translate russian haley_9_label_d69f4c6a:
 
     # ch_Name "Hold on, Haley. We're not running the hundred yard dash..."
-    ch_Name "Подожди, Haley. Мы же тут не стометровку бежим..."
+    ch_Name "Подожди, Хейли. Мы же тут не стометровку бежим..."
 
 # game/logic/events/haley.rpy:1234
 translate russian haley_9_label_2b69f863:
@@ -3484,7 +3484,7 @@ translate russian haley_9_label_22d2ee38:
 translate russian haley_9_label_a2fdb720:
 
     # ch_Name "Yo, El J! Got room for us?"
-    ch_Name "Йоу Elijah! Найдётся местечно для нас?"
+    ch_Name "Йоу Элайджа! Найдётся местечно для нас?"
 
 # game/logic/events/haley.rpy:1241
 translate russian haley_9_label_e4d0ab82:
@@ -3502,7 +3502,7 @@ translate russian haley_9_label_1537c0ce:
 translate russian haley_9_label_493fc17a:
 
     # Elijah "No offense, Haley, it's just a joke."
-    Elijah "Без обид, Haley, это просто шутка"
+    Elijah "Без обид, Хейли, это просто шутка"
 
 # game/logic/events/haley.rpy:1245
 translate russian haley_9_label_adc6bf91:
@@ -3514,7 +3514,7 @@ translate russian haley_9_label_adc6bf91:
 translate russian haley_9_label_e5e66dfe:
 
     # ch_Name "El, we just stumbled across something strange."
-    ch_Name "El, мы тут наткнулись на кое-что странное."
+    ch_Name "Эл, мы тут наткнулись на кое-что странное."
 
 # game/logic/events/haley.rpy:1248
 translate russian haley_9_label_8aa485b8:
@@ -3544,19 +3544,19 @@ translate russian haley_9_label_0de06f33:
 translate russian haley_9_label_ceb2933c:
 
     # Elijah "Why then?"
-    Elijah "Почему же?"
+    Elijah "А почему же?"
 
 # game/logic/events/haley.rpy:1255
 translate russian haley_9_label_e6457e12:
 
     # ch_Name "Haley got herself a pretty old potions book..."
-    ch_Name "Haley выдали достаточно старый учебник по Зельеварению..."
+    ch_Name "Хейли выдали достаточно старый учебник по Зельеварению..."
 
 # game/logic/events/haley.rpy:1256
 translate russian haley_9_label_ef69db33:
 
     # Elijah "Oh, guys. It's not that easy to trade a book. Fairies steal them all the time!"
-    Elijah "О, ребята. Продавать кники не так и просто. Феи постоянно их воруют!"
+    Elijah "О, ребята. Продавать книги не так и просто. Феи постоянно их воруют!"
 
 # game/logic/events/haley.rpy:1257
 translate russian haley_9_label_99e254dd:
@@ -3592,7 +3592,7 @@ translate russian haley_9_label_3eafc134:
 translate russian haley_9_label_14a55280:
 
     # Haley "Weird notes, Elijah."
-    Haley "Странных пометок, Elijah."
+    Haley "Странных пометок, Элайджа."
 
 # game/logic/events/haley.rpy:1266
 translate russian haley_9_label_a3f53a2b:
@@ -3616,7 +3616,7 @@ translate russian haley_9_label_54fa1ad0:
 translate russian haley_9_label_5b8b1ec7:
 
     # Haley "Take a closer look, El."
-    Haley "Вот, посмотри сам, El."
+    Haley "Вот, посмотри сам, Эл."
 
 # game/logic/events/haley.rpy:1271
 translate russian haley_9_label_ce17d15d:
@@ -3634,7 +3634,7 @@ translate russian haley_9_label_1eda29d0:
 translate russian haley_9_label_597b481f:
 
     # ch_Name "E. Bloom..."
-    ch_Name "E. Bloom..."
+    ch_Name "Э. Блум..."
 
 # game/logic/events/haley.rpy:1275
 translate russian haley_9_label_bbbce9f0:
@@ -3658,7 +3658,7 @@ translate russian haley_9_label_36a6557a:
 translate russian haley_9_label_1c49f97a:
 
     # Elijah "This book is ten years old, I was still in high school."
-    Elijah "Это книге лет десять, я еще в старших классах учился."
+    Elijah "Это книге лет десять, я тогда еще в старшей школе учился."
 
 # game/logic/events/haley.rpy:1280
 translate russian haley_9_label_3d393149:
@@ -3688,7 +3688,7 @@ translate russian haley_9_label_c61c2118:
 translate russian haley_9_label_e300723a:
 
     # Elijah "Forget about it. I'll talk to Amelie about replacing your textbook."
-    Elijah "Выбросьте это из головы. Я поговорю с Amelie, чтобы тебе заменили учебник."
+    Elijah "Выбросьте это из головы. Я поговорю с Амели, чтобы тебе заменили учебник."
 
 # game/logic/events/haley.rpy:1286
 translate russian haley_9_label_086dcc26:
@@ -3730,25 +3730,25 @@ translate russian haley_10_label_8005fa0c:
 translate russian haley_10_label_2c1a4c0f:
 
     # Haley "There's more to it than that, I can feel it in my gut."
-    Haley "Я нутром чую, что тут явно что-то скрыто."
+    Haley "Я нутром чую, что тут явно что-то скрывается."
 
 # game/logic/events/haley.rpy:1299
 translate russian haley_10_label_1bf7e07b:
 
     # Haley "He wouldn't be so angry if he didn't know whose records those were."
-    Haley "Он бы так не рассердился, если бы не знал, чьи это пометки."
+    Haley "Он бы так не рассердился, если бы не знал, о ком эти пометки."
 
 # game/logic/events/haley.rpy:1300
 translate russian haley_10_label_438aaad5:
 
     # Haley "It seems we have to find out if the other Bloom went to the school."
-    Haley "Видимо, нам предстоит выяснить, учился ли другой Bloom в этой школе."
+    Haley "Видимо, нам предстоит выяснить, учился ли другой Блум в этой школе."
 
 # game/logic/events/haley.rpy:1301
 translate russian haley_10_label_c2e456c7:
 
     # Haley "And what his connection to Elijah is."
-    Haley "И как он связан с Elijah."
+    Haley "И как он связан с Элайджа."
 
 # game/logic/events/haley.rpy:1303
 translate russian haley_10_label_cf0f4269:
@@ -3790,7 +3790,7 @@ translate russian haley_10_label_ee644f87:
 translate russian haley_10_label_871c1bf4:
 
     # Haley "How hard it is for him to remember this E. Bloom?"
-    Haley "Как тяжело ему было вспоминать этого E. Bloom?"
+    Haley "Как тяжело ему было вспоминать этого Э. Блума?"
 
 # game/logic/events/haley.rpy:1311
 translate russian haley_10_label_342e4c6a:
@@ -3814,7 +3814,7 @@ translate russian haley_10_label_79cf419a:
 translate russian haley_10_label_989a8068:
 
     # Haley "Something that will ease Elijah's pain."
-    Haley "Нечто, что поможет облегчить боль Elijah."
+    Haley "Нечто, что поможет облегчить боль Элайджи."
 
 # game/logic/events/haley.rpy:1316
 translate russian haley_10_label_b8ba74df:
@@ -3862,7 +3862,7 @@ translate russian haley_10_label_0ddf6b0b:
 translate russian haley_10_label_624e116b:
 
     # ch_Name "I got to keep an eye on you."
-    ch_Name "Надо же за тобой приглядывать."
+    ch_Name "Должен же кто-то за тобой приглядывать."
 
 # game/logic/events/haley.rpy:1327
 translate russian haley_10_label_92007575:
@@ -3892,7 +3892,7 @@ translate russian haley_10_label_bd7b483b:
 translate russian haley_10_label_4b509ec9:
 
     # Haley "Then we'll decide what to do."
-    Haley "А там мы уже и решим, что делать."
+    Haley "Там мы уже и решим, как действовать."
 
 # game/logic/events/haley.rpy:1334
 translate russian haley_10_label_5f55f2f9:
@@ -4000,7 +4000,7 @@ translate russian haley_10_label_8354a106:
 translate russian Haley_11_label_2401b199:
 
     # ch_Name "{i}(Now when I know Katrina's lurking in my head. I can't cope with anxiety.){/i}"
-    ch_Name "{i}(Теперь, когда я знаю, что Kathrina устраивает засаду у меня в голове, сложно справиться с тревогой.){/i}"
+    ch_Name "{i}(Теперь, когда я знаю, что Катрина устраивает засаду у меня в голове, сложно справиться с тревогой.){/i}"
 
 # game/logic/events/haley.rpy:1409
 translate russian Haley_11_label_2d0c16d5:
@@ -4012,7 +4012,7 @@ translate russian Haley_11_label_2d0c16d5:
 translate russian Haley_11_label_6661a3cf:
 
     # ch_Name "{i}(I should probably get up and head out to Victoria's class.){/i}"
-    ch_Name "{i}(Наверное, надо бы встать и пойти на заняние к Victoria.){/i}"
+    ch_Name "{i}(Наверное, надо бы встать и пойти на заняние к Виктории.){/i}"
 
 # game/logic/events/haley.rpy:1414
 translate russian Haley_11_label_7264d272:
@@ -4030,13 +4030,13 @@ translate russian Haley_11_label_ad0d03c8:
 translate russian Haley_11_label_6df3cfdc:
 
     # ch_Name "{i}(I'd better chat with Haley. Maybe she found out something about that E.Bloom.){/i}"
-    ch_Name "{i}(Лучше я поболтаю с Haley. Может, ей удалось найти что-то про этого E. Bloom.){/i}"
+    ch_Name "{i}(Лучше я поболтаю с Хейли. Может, ей удалось найти что-то про этого Э. Блума.){/i}"
 
 # game/logic/events/haley.rpy:1419
 translate russian Haley_11_label_8b5a5fc6:
 
     # ch_Name "Hi, Haley!"
-    ch_Name "Привет, Haley!"
+    ch_Name "Привет, Хейли!"
 
 # game/logic/events/haley.rpy:1420
 translate russian Haley_11_label_14d30e44:
@@ -4054,7 +4054,7 @@ translate russian Haley_11_label_98f62f59:
 translate russian Haley_11_label_182d4ca5:
 
     # Haley "Yeah, but I had to bend the school rules a little bit."
-    Haley "Да, но мне пришлось чуть нарушить правила школы."
+    Haley "Да, но мне пришлось слегка нарушить правила школы."
 
 # game/logic/events/haley.rpy:1424
 translate russian Haley_11_label_c5ce4c74:
@@ -4066,19 +4066,19 @@ translate russian Haley_11_label_c5ce4c74:
 translate russian Haley_11_label_5e12ed1d:
 
     # ch_Name "{i}(Haley was so concerned about her reputation, and now she's risking it...){/i}"
-    ch_Name "Haley так переживала за свою репутацию, а теперь она готова ею рисковать..."
+    ch_Name "{i}Хейли так переживала за свою репутацию, а теперь она готова ею рисковать...{/i}"
 
 # game/logic/events/haley.rpy:1426
 translate russian Haley_11_label_02e6a176:
 
     # ch_Name "{i}(Apparently the spirit of an adventurer is stronger than that of a crammer.){/i}"
-    ch_Name "Видимо, дух приключений в ней сильнее, чем дух ботанства."
+    ch_Name "{i}Видимо, дух приключений в ней сильнее, чем дух ботанства.{/i}"
 
 # game/logic/events/haley.rpy:1427
 translate russian Haley_11_label_069679c3:
 
     # ch_Name "Haley broke the rules? Sure the world hasn't gone crazy?"
-    ch_Name "Haley нарушила правила? Мир сошёл с ума?"
+    ch_Name "Хейли нарушила правила? Мир сошёл с ума?"
 
 # game/logic/events/haley.rpy:1429
 translate russian Haley_11_label_b1cf549b:
@@ -4096,7 +4096,7 @@ translate russian Haley_11_label_42557a65:
 translate russian Haley_11_label_02d52deb:
 
     # Haley "Joshie would probably tell everyone if he found out."
-    Haley "Joshie наверняка всем разболтает, если вдруг узнает."
+    Haley "Джоши наверняка всем растреплет, если вдруг узнает."
 
 # game/logic/events/haley.rpy:1432
 translate russian Haley_11_label_4a41b0d1:
@@ -4294,7 +4294,7 @@ translate russian Haley_11_label_ae8cd083:
 translate russian Haley_11_label_89f482fa:
 
     # ch_Name "Haley, baby."
-    ch_Name "Haley, милая."
+    ch_Name "Хейли, милая."
 
 # game/logic/events/haley.rpy:1489
 translate russian Haley_11_label_5b42d8b3:
@@ -4330,7 +4330,7 @@ translate russian Haley_11_label_ddf2516c:
 translate russian Haley_11_label_59585199:
 
     # Haley "I've never had time to have a relationship."
-    Haley "У меня никогда не было времени заводить отношения.
+    Haley "У меня никогда не было времени заводить отношения."
 
 # game/logic/events/haley.rpy:1497
 translate russian Haley_11_label_5ea59336:
@@ -4354,7 +4354,7 @@ translate russian Haley_11_label_d4a0154d:
 translate russian Haley_11_label_4db96444:
 
     # ch_Name "I never thought of that! I thought you were really good at flirting."
-    ch_Name "Я бы и не подумал! Я думал, что ты очень здорово флиртуешь."
+    ch_Name "Я бы и не подумал! Мне кажется, ты очень классно флиртуешь."
 
 # game/logic/events/haley.rpy:1503
 translate russian Haley_11_label_f0a35cab:
@@ -4402,7 +4402,7 @@ translate russian Haley_11_label_fe02d0ec:
 translate russian Haley_11_label_4917bfb2:
 
     # ch_Name "{i}(She's clearly surprised... But she's in no hurry to stop the kiss.){/i}"
-    ch_Name "{i}(Она точно удивлена... Но она не торопится прерывать поцелуй.){/i}"
+    ch_Name "{i}(Она точно удивлена... Но не торопится прерывать поцелуй.){/i}"
 
 # game/logic/events/haley.rpy:1521
 translate russian Haley_11_label_8023a347:
@@ -4432,7 +4432,7 @@ translate russian Haley_11_label_2ac060a9:
 translate russian Haley_11_label_43635d47:
 
     # ch_Name "Haley..."
-    ch_Name "Haley..."
+    ch_Name "Хейли..."
 
 # game/logic/events/haley.rpy:1528
 translate russian Haley_11_label_8ffa88f6:
@@ -4522,7 +4522,7 @@ translate russian haley_11_label_84_633c4cc5:
 translate russian haley_11_label_84_1cf34d06:
 
     # Haley "All info on E. Bloom and H. Gross has been blacked out and removed from the record books."
-    Haley "Любая информация о E. Bloom. и H. Gross вычеркнута и вычищена из школьных записей."
+    Haley "Любая информация про Э. Блума. и Х. Гросса вычеркнута и вычищена из школьных записей."
 
 # game/logic/events/haley.rpy:1550
 translate russian haley_11_label_84_52146d9c:
@@ -4552,7 +4552,7 @@ translate russian haley_11_label_84_f05f3cac:
 translate russian haley_11_label_84_59d873f0:
 
     # Haley "You saw Elijah's reaction."
-    Haley "Ты видел, как отреагировал Elijah."
+    Haley "Ты видел, как отреагировал Элайджа."
 
 # game/logic/events/haley.rpy:1556
 translate russian haley_11_label_84_5f6f4c7b:
@@ -4564,7 +4564,7 @@ translate russian haley_11_label_84_5f6f4c7b:
 translate russian haley_11_label_84_ada76d49:
 
     # ch_Name "Then what's the plan?"
-    ch_Name "Ну и каков наш план?"
+    ch_Name "Ну и что будем делать?"
 
 # game/logic/events/haley.rpy:1558
 translate russian haley_11_label_84_1198f77c:
@@ -4600,7 +4600,7 @@ translate russian haley_11_label_84_85742704:
 translate russian haley_11_label_84_b258e3de:
 
     # Haley "Amelie came out of nowhere one day behind me."
-    Haley "Однажды у меня за спиной Amelie словно вышла из ниоткуда."
+    Haley "Однажды у меня за спиной Амели словно вышла из ниоткуда."
 
 # game/logic/events/haley.rpy:1567
 translate russian haley_11_label_84_029efab9:
@@ -4624,7 +4624,7 @@ translate russian haley_11_label_84_b6895982:
 translate russian haley_11_label_84_47f8507b:
 
     # Haley "Anyway, I think Amelie suspects that I know something."
-    Haley "В любом случае, Amelie наверняка подозревает, что я что-то вынюхиваю."
+    Haley "В любом случае, Амели наверняка подозревает, что я что-то вынюхиваю."
 
 # game/logic/events/haley.rpy:1573
 translate russian haley_11_label_84_b9a5f9d5:
@@ -4666,7 +4666,7 @@ translate russian haley_11_label_84_787b1eee:
 translate russian haley_11_label_84_0fe74830:
 
     # Haley "Exactly."
-    Haley ""Именно.
+    Haley "Именно."
 
 # game/logic/events/haley.rpy:1582
 translate russian haley_11_label_84_654aa53f:
@@ -4762,13 +4762,13 @@ translate russian haley_11_label_84_b1439c13:
 translate russian haley_11_label_84_2b3e951a:
 
     # ch_Name "{i}(Come to think of it, I may still be in time for Victoria's second lesson.){/i}"
-    ch_Name "{i}(Если подумать, то может я даже успею на второй урок к Victoria.){/i}"
+    ch_Name "{i}(Если подумать, то может я даже успею на второй урок к Виктории.){/i}"
 
 # game/logic/events/haley.rpy:1622
 translate russian Haley_12_label_8b5a5fc6:
 
     # ch_Name "Hi, Haley!"
-    ch_Name "Привет, Haley!"
+    ch_Name "Привет, Хейли!"
 
 # game/logic/events/haley.rpy:1623
 translate russian Haley_12_label_348305ce:
@@ -4780,7 +4780,7 @@ translate russian Haley_12_label_348305ce:
 translate russian Haley_12_label_4fac2503:
 
     # Haley "What's up?"
-    Haley "Ну что?"
+    Haley "Чего хотел?"
 
 # game/logic/events/haley.rpy:1625
 translate russian Haley_12_label_ba50cea5:
@@ -4798,13 +4798,13 @@ translate russian Haley_12_label_88940993:
 translate russian Haley_12_label_79effaed:
 
     # Haley "Go to the library and observe Amelie's routine."
-    Haley "Иди в библиотеку и наюлюдай за работой Amelie."
+    Haley "Иди в библиотеку и наюлюдай за работой Амели."
 
 # game/logic/events/haley.rpy:1629
 translate russian Haley_12_label_007b5049:
 
     # Haley "I'm sure you'll find something fishy."
-    Haley "Уверена, ты найдёшь что-то, что вызовет твои подозрения."
+    Haley "Уверена, ты увидишь что-нибудь, что вызовет твои подозрения."
 
 # game/logic/events/haley.rpy:1631
 translate russian Haley_12_label_861f646f:
@@ -4816,7 +4816,7 @@ translate russian Haley_12_label_861f646f:
 translate russian Haley_12_label_7081ac24:
 
     # Haley "I don't want you to get in trouble because of my curiosity."
-    Haley "Я юы не хотела, чтобы ты влип в неприятности из-за моего любопытства."
+    Haley "Я бы не хотела, чтобы ты влип в неприятности из-за моего любопытства."
 
 # game/logic/events/haley.rpy:1633
 translate russian Haley_12_label_2d8a993f:
@@ -4870,13 +4870,13 @@ translate russian Haley_12_label_ba34bc93:
 translate russian Haley_12_label_4db3e7e5:
 
     # Amelie "Judging by my notes on Pascal Lovegood's \"Let the sphere burn!\", there's plenty of information here."
-    Amelie "Судя по моим записям, немало полезной информации содержится в книге "Pascal Lovegood \"Let the sphere burn!\."
+    Amelie "Судя по моим записям, немало полезной информации содержится в книге Паскаля Лавгуда \"Сфера, загорись!\."
 
 # game/logic/events/haley.rpy:1645
 translate russian Haley_12_label_805acc3a:
 
     # Amelie "I think you're good with it."
-    Amelie "Думаю, это то, что вам нужно."
+    Amelie "Думаю, это ровно то, что вам нужно."
 
 # game/logic/events/haley.rpy:1646
 translate russian Haley_12_label_c4585a8c:
@@ -4924,7 +4924,7 @@ translate russian Haley_12_label_3bfe5f38:
 translate russian Haley_12_label_14ca9267:
 
     # ch_Name "{i}(Haley says she felt something wrong from here.){/i}"
-    ch_Name "{i}(Haley говорила, что тут она почувстсовала, будто что-то не так.){/i}"
+    ch_Name "{i}(Хейли говорила, что именно отсюда она заметила те странности.){/i}"
 
 # game/logic/events/haley.rpy:1657
 translate russian Haley_12_label_02e7472b:
@@ -4948,7 +4948,7 @@ translate russian Haley_12_label_b3a097f1:
 translate russian Haley_12_label_a35ba3e5:
 
     # ch_Name "{i}(I hope Amelie can't see me staring at her weirdly.){/i}"
-    ch_Name "{i}(Надеюсь, Amelie не видит, как я на нее пялюсь.){/i}"
+    ch_Name "{i}(Надеюсь, Амели не замечает, как я на нее пялюсь.){/i}"
 
 # game/logic/events/haley.rpy:1662
 translate russian Haley_12_label_d27e05a8:
@@ -4978,7 +4978,7 @@ translate russian Haley_12_label_b38e229e:
 translate russian Haley_12_label_279374c1:
 
     # ch_Name "{i}(What are you up to, Amelie?){/i}"
-    ch_Name "{i}(Что же ты задумала, Amelie?){/i}"
+    ch_Name "{i}(Что же вы задумали, Амели?){/i}"
 
 # game/logic/events/haley.rpy:1669
 translate russian Haley_12_label_71e609c8:
@@ -5014,13 +5014,13 @@ translate russian Haley_12_label_c59b05a5:
 translate russian Haley_12_label_86ad5d06:
 
     # ch_Name "{i}(And that's the most interesting thing that's happened to you all day...){/i}"
-    ch_Name "{i}(И это самое интересное событие, которое случилось за весь день...){/i}"
+    ch_Name "{i}(И это самое интересное событие, которое случилось с вами за весь день...){/i}"
 
 # game/logic/events/haley.rpy:1677
 translate russian Haley_12_label_12875e88:
 
     # ch_Name "{i}(Amelie, was our little genius Haley mistaken?){/i}"
-    ch_Name "{i}(Amelie, неужели наша юная умница Haley ошиблась?){/i}"
+    ch_Name "{i}(Амели, неужели наша юная умница Хейли ошиблась?){/i}"
 
 # game/logic/events/haley.rpy:1678
 translate russian Haley_12_label_ead65f9f:
@@ -5038,19 +5038,19 @@ translate russian Haley_12_label_e2ad022f:
 translate russian Haley_12_label_5fb0070e:
 
     # ch_Name "{i}(How did Amelie, with her looks, become a librarian?){/i}"
-    ch_Name "{i}(Как же вышло, что Amelie, с её-то внешними данными, стала библиотекарем?){/i}"
+    ch_Name "{i}(Как же вышло, что Амели, с её-то внешними данными, стала библиотекарем?){/i}"
 
 # game/logic/events/haley.rpy:1682
 translate russian Haley_12_label_bb9870cb:
 
     # ch_Name "{i}(Sometimes you can't take your eyes off her...){/i}"
-    ch_Name "{i}(Иногда от ней просто взгляд не ответсти...){/i}"
+    ch_Name "{i}(Иногда от неё просто взгляд не ответсти...){/i}"
 
 # game/logic/events/haley.rpy:1684
 translate russian Haley_12_label_ef2760ae:
 
     # ch_Name "{i}(It's getting harder and harder to stay here every hour.){/i}"
-    ch_Name ""{i}(Все труднее и труднее оставаться здесь так долго.){/i}
+    ch_Name "{i}(Все труднее и труднее оставаться здесь так долго.){/i}"
 
 # game/logic/events/haley.rpy:1685
 translate russian Haley_12_label_7cd05d10:
@@ -5152,7 +5152,7 @@ translate russian Haley_12_label_2e1a6135:
 translate russian Haley_12_label_85718f08:
 
     # ch_Name "{i}(I'll turn in my books like I'm done.){/i}"
-    ch_Name "{i}(Верну ей книги, как будто я всё доделал.){/i}"
+    ch_Name "{i}(Верну ей книги, как будто я всё закончил.){/i}"
 
 # game/logic/events/haley.rpy:1708
 translate russian Haley_12_label_311c9638:
@@ -5212,7 +5212,7 @@ translate russian Haley_12_label_e61758e8:
 translate russian Haley_12_label_3cab8da2:
 
     # ch_Name "{i}(Amelie is holding some {b}suspicious coins{/b}...){/i}"
-    ch_Name "{i}(В руках у Amelie какие-то {b}подозрительные монеты{/b}...){/i}"
+    ch_Name "{i}(В руках у Амели какие-то {b}подозрительные монеты{/b}...){/i}"
 
 # game/logic/events/haley.rpy:1722
 translate russian Haley_12_label_df2b1905:
@@ -5230,7 +5230,7 @@ translate russian Haley_12_label_d75bcd88:
 translate russian Haley_12_label_203190c4:
 
     # ch_Name "{i}(I think she keeps them on her desk.){/i}"
-    ch_Name "{i}(Видимо, она хранит их у себя на столе.){/i}"
+    ch_Name "{i}(Очевидно, она хранит их у себя на столе.){/i}"
 
 # game/logic/events/haley.rpy:1726
 translate russian Haley_12_label_a15ac24d:
@@ -5242,7 +5242,7 @@ translate russian Haley_12_label_a15ac24d:
 translate russian Haley_12_label_935515f1:
 
     # ch_Name "{i}(I'm sure Haley will have a better plan.){/i}"
-    ch_Name "{i}(Я уверен, что у Haley будет план получше.){/i}"
+    ch_Name "{i}(Я уверен, что у Хейли будет план получше.){/i}"
 
 # game/logic/events/haley.rpy:1729
 translate russian Haley_12_label_34554045:
@@ -5290,13 +5290,13 @@ translate russian Haley_12_label_90811e1c:
 translate russian Haley_12_label_2f2738e0:
 
     # ch_Name "{i}(I should get back to class if I want to make it in time for Victoria's second lesson){/i}"
-    ch_Name "{i}(Нужно вернуться в аудиторию, если я хочу успеть на второй урок Victoria.){/i}"
+    ch_Name "{i}(Нужно вернуться в аудиторию, если я хочу успеть на второй урок Виктории.){/i}"
 
 # game/logic/events/haley.rpy:1740
 translate russian Haley_12_label_9b4648a9:
 
     # ch_Name "{i}(After that I'll tell Haley what I've found.){/i}"
-    ch_Name "{i}(А потом я расскажу Haley, что мне удалось выведать.){/i}"
+    ch_Name "{i}(А потом я расскажу Хейли, что мне удалось выведать.){/i}"
 
 # game/logic/events/haley.rpy:1749
 translate russian Haley_13_label_97492326:
@@ -5308,13 +5308,13 @@ translate russian Haley_13_label_97492326:
 translate russian Haley_13_label_99604c77:
 
     # ch_Name "{i}(It looks like I'm just in time to steal her before Sabrina begins.){/i}"
-    ch_Name "{i}(Видимо, я успел - ещё есть время, чтобы украсть ее ненадолго, пока не начался урок c Sabrina.){/i}"
+    ch_Name "{i}(Видимо, я успел - ещё есть время, чтобы украсть ее ненадолго, пока не начался урок c Сабриной.){/i}"
 
 # game/logic/events/haley.rpy:1753
 translate russian Haley_13_label_d6f40f65:
 
     # ch_Name "Haley, hi there!"
-    ch_Name "Haley, привет!"
+    ch_Name "Хейли, привет!"
 
 # game/logic/events/haley.rpy:1754
 translate russian Haley_13_label_c8a600b8:
@@ -5350,7 +5350,7 @@ translate russian Haley_13_label_17db0488:
 translate russian Haley_13_label_95bd6047:
 
     # ch_Name "I followed Amelie closely, but at one point I got distracted and she disappeared."
-    ch_Name "Я внимательно следил за Amelie, но в какой-то момент я отвлёкся и она испарилась."
+    ch_Name "Я внимательно следил за Амели, но в какой-то момент я отвлёкся и она испарилась."
 
 # game/logic/events/haley.rpy:1761
 translate russian Haley_13_label_3d276e40:
@@ -5446,7 +5446,7 @@ translate russian Haley_13_label_0d8ab4ea:
 translate russian Haley_13_label_539f8740:
 
     # Amelie "Miss Ranger, Mr. [Surname]..."
-    Amelie "Мисс Ranger, мистер [Surname]..."
+    Amelie "Мисс Рейнджер, мистер [Surname]..."
 
 # game/logic/events/haley.rpy:1785
 translate russian Haley_13_label_0a3409da:
@@ -5476,31 +5476,31 @@ translate russian Haley_13_label_92cca2f5:
 translate russian Haley_13_label_ada1d078:
 
     # Haley "I need historical references about the Academy of Alchemy in Cordoba."
-    Haley "Нужны исторические справки о Academy of Alchemy in Cordoba."
+    Haley "Нужны исторические справки о Академии Алхимии в Кордобе."
 
 # game/logic/events/haley.rpy:1791
 translate russian Haley_13_label_8d3230e7:
 
     # Haley "I also need documents on the founding of Dale and Cordoba."
-    Haley "Ещё нужны документы об основании Dale и Cordoba."
+    Haley "Ещё нужны документы об основании Дейла и Кордобы."
 
 # game/logic/events/haley.rpy:1792
 translate russian Haley_13_label_b3acc30a:
 
     # Haley "A biography of Leona Leonheart, as well as three other founders."
-    Haley "Биография Leona Leonheart, ну и трёх других основателей."
+    Haley "Биография Леоны Леонхарт, ну и трёх других основателей."
 
 # game/logic/events/haley.rpy:1793
 translate russian Haley_13_label_753d777a:
 
     # Haley "Oh, and also a book by Corvinus Trismegister, \"The Foundation with Four Cracks\"."
-    Haley "А, и ещё книга Covvinus Trismegister, \"The Foundation with Four Cracks\"."
+    Haley "А, и ещё книга Корвинуса Трисмеджистера, \"Фундамент с Четыремя Трещинами\"."
 
 # game/logic/events/haley.rpy:1795
 translate russian Haley_13_label_99a9a398:
 
     # Amelie "Oh... Wow. You have some pretty thorough queries, miss."
-    Amelie "Ох... Уау. У вас весьма обширный запрос, мисс."
+    Amelie "Ох... Да уж. У вас весьма обширный запрос, мисс."
 
 # game/logic/events/haley.rpy:1796
 translate russian Haley_13_label_51d18dad:
@@ -5518,13 +5518,13 @@ translate russian Haley_13_label_f9226a81:
 translate russian Haley_13_label_d5dc242d:
 
     # ch_Name "I'm happy to help you, Amelie. I insist."
-    ch_Name "Позвольте помочь вам, Amelie. Я настаиваю."
+    ch_Name "Позвольте помочь вам, Амели. Я настаиваю."
 
 # game/logic/events/haley.rpy:1800
 translate russian Haley_13_label_71961e30:
 
     # ch_Name "I'm here to help you and Haley carry the heavy books."
-    ch_Name "Я здесь как раз для того, чтобы помочь вам и Haley переносить тяжёлые книги."
+    ch_Name "Я здесь как раз для того, чтобы помочь вам и Хейли таскать тяжёлые книги."
 
 # game/logic/events/haley.rpy:1801
 translate russian Haley_13_label_f412df84:
@@ -5536,7 +5536,7 @@ translate russian Haley_13_label_f412df84:
 translate russian Haley_13_label_8b5850f5:
 
     # Amelie "Miss Ranger, are you coming?"
-    Amelie "Мисс Ranger, вы идёте?"
+    Amelie "Мисс Рейнджер, вы идёте?"
 
 # game/logic/events/haley.rpy:1804
 translate russian Haley_13_label_fb57e10c:
@@ -5566,13 +5566,13 @@ translate russian Haley_13_label_e7281c92:
 translate russian Haley_13_label_7ef0f2db:
 
     # ch_Name "{i}(Amelie's busy looking for the right books while Haley studies the coins.){/i}"
-    ch_Name "{i}(Amelie занята поиском нужных книг, а Haley в это время изучает монеты.){/i}"
+    ch_Name "{i}(Амели занята поиском нужных книг, а Хейли в это время изучает монеты.){/i}"
 
 # game/logic/events/haley.rpy:1810
 translate russian Haley_13_label_1b1a2380:
 
     # ch_Name "{i}(Hopefully she can solve their mystery.){/i}"
-    ch_Name "{i}(Надеюсь, она сумеет разгадать их секрет.){/i}"
+    ch_Name "{i}(Надеюсь, она сумеет понять их секрет.){/i}"
 
 # game/logic/events/haley.rpy:1812
 translate russian Haley_13_label_13b0d443:
@@ -5614,7 +5614,7 @@ translate russian Haley_13_label_5d323ae4:
 translate russian Haley_13_label_7df78556:
 
     # ch_Name "{i}(Especially since while she's there, she's obviously not watching Haley.){/i}"
-    ch_Name "{i}(Особенно учитывая, что пока она здесь, она точно не видит Haley.){/i}"
+    ch_Name "{i}(Особенно учитывая, что пока она здесь, она точно не видит Хейли.){/i}"
 
 # game/logic/events/haley.rpy:1823
 translate russian Haley_13_label_16bb6ed8:
@@ -5632,25 +5632,25 @@ translate russian Haley_13_label_f6b7a802:
 translate russian Haley_13_label_99268cfc:
 
     # Amelie "I do feel very safe with you, [Name]."
-    Amelie "Я чувствую себя в безопасности с вами, [Name]."
+    Amelie "Я и впрямь чувствую себя в безопасности с вами, [Name]."
 
 # game/logic/events/haley.rpy:1831
 translate russian Haley_13_label_2005296d:
 
     # Amelie "The rest of the books are on the second floor. Follow me!"
-    Amelie "Остальные книги на втором этаже. Идите за мной!"
+    Amelie "Остальные книги на втором этаже. Следуйте за мной!"
 
 # game/logic/events/haley.rpy:1832
 translate russian Haley_13_label_f9480086:
 
     # ch_Name "I'm right behind you."
-    ch_Name "Следую за вами."
+    ch_Name "После вас."
 
 # game/logic/events/haley.rpy:1833
 translate russian Haley_13_label_8b5850f5_1:
 
     # Amelie "Miss Ranger, are you coming?"
-    Amelie "Мисс Ranger, вы идёте?"
+    Amelie "Мисс Рейнджер, вы идёте?"
 
 # game/logic/events/haley.rpy:1835
 translate russian Haley_13_label_89eca97f:
@@ -5662,7 +5662,7 @@ translate russian Haley_13_label_89eca97f:
 translate russian Haley_13_label_ab18eea5:
 
     # Haley "Sorry, I was thinking about my text."
-    Haley "Извините, я думала про то сообщение."
+    Haley "Извините, я всё думала про то сообщение."
 
 # game/logic/events/haley.rpy:1837
 translate russian Haley_13_label_b0b50706:
@@ -5686,7 +5686,7 @@ translate russian Haley_13_label_bc778f29:
 translate russian Haley_13_label_db5e8be0:
 
     # Amelie "Now, where is that stupid Trismegister book..."
-    Amelie "Так, где же эта дурацкая книга Trismegister..."
+    Amelie "Так, где же эта дурацкая книга Трисмеджистера..."
 
 # game/logic/events/haley.rpy:1842
 translate russian Haley_13_label_6cdea449:
@@ -5710,7 +5710,7 @@ translate russian Haley_13_label_e01c765b:
 translate russian Haley_13_label_257532e2:
 
     # ch_Name "I don't remember exactly... I think it came from somewhere over there."
-    ch_Name "Точно не помню... Я думаю, это было где-то вот там."
+    ch_Name "Точно не помню... Думаю, это было где-то вот там."
 
 # game/logic/events/haley.rpy:1847
 translate russian Haley_13_label_c6d62dfb:
@@ -5758,13 +5758,13 @@ translate russian Haley_13_label_c1f0d53c:
 translate russian Haley_13_label_42693969:
 
     # Haley "I'm just admiring the way you happily wag your tail at her."
-    Haley "Я просто восхищаюсь тем, как ты хвостом перед ней виляешь."
+    Haley "Просто наблюдаю за тем, как ты хвостом перед ней виляешь."
 
 # game/logic/events/haley.rpy:1856
 translate russian Haley_13_label_da637eb2:
 
     # ch_Name "{i}(Are you jealous, Haley?){/i}"
-    ch_Name "{i}(Haley, не ревнуешь ли ты?){/i}"
+    ch_Name "{i}(Хейли, не ревнуешь ли ты?){/i}"
 
 # game/logic/events/haley.rpy:1857
 translate russian Haley_13_label_d236dfad:
@@ -5800,7 +5800,7 @@ translate russian Haley_13_label_5a45ae5f:
 translate russian Haley_13_label_2898680d:
 
     # ch_Name "{i}(Haley seems to have found something.){/i}"
-    ch_Name "{i}(Кажется, Haley что-то нашла.){/i}"
+    ch_Name "{i}(Кажется, Хейли что-то нашла.){/i}"
 
 # game/logic/events/haley.rpy:1865
 translate russian Haley_13_label_81e0c23f:
@@ -5818,13 +5818,13 @@ translate russian Haley_13_label_3e54005d:
 translate russian Haley_13_label_f6a63041:
 
     # Amelie "What are you taking pictures of there, Miss Ranger?"
-    Amelie "Что это вы там фотографируете, мисс Ranger?"
+    Amelie "Что это вы там фотографируете, мисс Рейнджер?"
 
 # game/logic/events/haley.rpy:1869
 translate russian Haley_13_label_d26441ee:
 
     # ch_Name "{i}(Damn... I was so caught up in Haley that I took my eyes off Amelie.){/i}"
-    ch_Name "{i}(Чёрт... Я так засмотрелся на Haley, что совсем забыл про Amelie.){/i}"
+    ch_Name "{i}(Чёрт... Я так засмотрелся на Хейли, что совсем забыл про Амели.){/i}"
 
 # game/logic/events/haley.rpy:1870
 translate russian Haley_13_label_e67c43d5:
@@ -5884,7 +5884,7 @@ translate russian Haley_13_label_ebed8812:
 translate russian Haley_13_label_88e54d5e:
 
     # ch_Name "{i}(Oh no, now she's going to see the pictures Haley took...){/i}"
-    ch_Name "{i}(О нет, она же теперь увидит фотографии, которые сделала Haley...){/i}"
+    ch_Name "{i}(О нет, она же теперь увидит фотографии, которые сделала Хейли...){/i}"
 
 # game/logic/events/haley.rpy:1882
 translate russian Haley_13_label_5218faa7:
@@ -5896,7 +5896,7 @@ translate russian Haley_13_label_5218faa7:
 translate russian Haley_13_label_0a409ea4:
 
     # Amelie "Okay, Ms. Ranger. Sorry about the precautions."
-    Amelie "Хорошо, мисс Ranger. Извините, таковы меры предосторожности."
+    Amelie "Хорошо, мисс Рейнджер. Извините, таковы меры предосторожности."
 
 # game/logic/events/haley.rpy:1885
 translate russian Haley_13_label_82d35d1b:
@@ -5908,13 +5908,13 @@ translate russian Haley_13_label_82d35d1b:
 translate russian Haley_13_label_3aa8b7c3:
 
     # Amelie "I found all the books you need."
-    Amelie "Я нашла все книги, о которых вы просили."
+    Amelie "Я нашла книги, о которых вы просили."
 
 # game/logic/events/haley.rpy:1887
 translate russian Haley_13_label_46e313f4:
 
     # ch_Name "{i}(I don't understand. How did Haley do that?){/i}"
-    ch_Name "{i}(Я не понял. Как Haley это удалось?){/i}"
+    ch_Name "{i}(Я не понял. Как Хейли это удалось?){/i}"
 
 # game/logic/events/haley.rpy:1888
 translate russian Haley_13_label_a057e557:
@@ -5932,7 +5932,7 @@ translate russian Haley_13_label_2ea77bb2:
 translate russian Haley_13_label_90dfa88c:
 
     # Haley "Come on, [Name]. Goodbye, Miss Amelie."
-    Haley "Пойдём, [Name]. Всего доброго, мисс Amelie."
+    Haley "Пойдём, [Name]. Всего доброго, мисс Амели."
 
 # game/logic/events/haley.rpy:1892
 translate russian Haley_13_label_786b54ba:
@@ -5950,7 +5950,7 @@ translate russian Haley_13_label_e4ac9740:
 translate russian Haley_13_label_4c3643f6:
 
     # ch_Name "That was incredible, Haley!"
-    ch_Name "Haley, это было невероятно!"
+    ch_Name "Хейли, это было невероятно!"
 
 # game/logic/events/haley.rpy:1902
 translate russian Haley_13_label_f1afa101:
@@ -5968,7 +5968,7 @@ translate russian Haley_13_label_395bb3ec:
 translate russian Haley_13_label_bb49a43a:
 
     # ch_Name "That's clever... But how do we solve the mystery of the library now?"
-    ch_Name "Уто умно... Но как же мы теперь мы разгадаем секрет библиотеки?"
+    ch_Name "Это умно... Но как же мы теперь мы разгадаем секрет библиотеки?"
 
 # game/logic/events/haley.rpy:1905
 translate russian Haley_13_label_42793698:
@@ -6070,7 +6070,7 @@ translate russian Haley_13_label_2fb0d1d6:
 translate russian Haley_13_label_de4cf710:
 
     # ch_Name "Don't underestimate me, baby. I'm a real book guy."
-    ch_Name "Не надо меня недооценивать, милая. Я люблю почитать."
+    ch_Name "Не надо меня недооценивать, милая. Я люблю читать."
 
 # game/logic/events/haley.rpy:1926
 translate russian Haley_13_label_052a5e0c:
@@ -6088,7 +6088,7 @@ translate russian Haley_13_label_e4de67fb:
 translate russian Haley_13_label_73681011:
 
     # Haley "Victoria gave it to me."
-    Haley "Victoria дала мне её."
+    Haley "Виктория дала мне её."
 
 # game/logic/events/haley.rpy:1930
 translate russian Haley_13_label_e1877b45:
@@ -6112,13 +6112,13 @@ translate russian Haley_13_label_8493e8a5:
 translate russian Haley_13_label_79abf293:
 
     # ch_Name "{i}(I'm sure Haley will crack this riddle in no time.){/i}"
-    ch_Name "{i}(Уверен, Haley разгадает этот ребус в два счёта.){/i}"
+    ch_Name "{i}(Уверен, Хейли разгадает этот ребус в два счёта.){/i}"
 
 # game/logic/events/haley.rpy:1937
 translate russian Haley_13_label_6b294e9d:
 
     # ch_Name "{i}(In the meantime, I think I need to check how's Lily doing.){/i}"
-    ch_Name "{i}(А тем временем, я, пожалуй, узнаю, как дела у Lily.){/i}"
+    ch_Name "{i}(А тем временем, я, пожалуй, узнаю, как дела у Лили.){/i}"
 
 # game/logic/events/haley.rpy:1938
 translate russian Haley_13_label_ed9f718b:
@@ -6130,19 +6130,19 @@ translate russian Haley_13_label_ed9f718b:
 translate russian Haley_13_label_ee296086:
 
     # ch_Name "{i}(Strange. She usually hangs out here, with Naomi.){/i}"
-    ch_Name "{i}(Странно. Она обычно тусуется здесь с Naomi.){/i}"
+    ch_Name "{i}(Странно. Она обычно тусуется здесь с Наоми.){/i}"
 
 # game/logic/events/haley.rpy:1941
 translate russian Haley_13_label_08820375:
 
     # ch_Name "{i}(Hm... Maybe she's still at Sabrina's class?){/i}"
-    ch_Name "{i}(Хм... Может, она всё ещё в аудитории у Sabrina?){/i}"
+    ch_Name "{i}(Хм... Может, она всё ещё в аудитории у Сабрины?){/i}"
 
 # game/logic/events/haley.rpy:1945
 translate russian Haley_13_label_b8a7fc1e:
 
     # ch_Name "{i}(Bingo!){/i}"
-    ch_Name "{i}(Bingo!){/i}"
+    ch_Name "{i}(Бинго!){/i}"
 
 # game/logic/events/haley.rpy:1946
 translate russian Haley_13_label_f6725d6b:
@@ -6160,25 +6160,25 @@ translate russian Angels_1_label_a015bf6b:
 translate russian Angels_1_label_52157478:
 
     # ch_Name "{i}(If I want to win a bet against Lily, I need to learn one.){/i}"
-    ch_Name "{i}(Если я хочу выиграть спор с Lily, надо подучить.){/i}"
+    ch_Name "{i}(Если я хочу выиграть спор с Лили, надо подучить.){/i}"
 
 # game/logic/events/haley.rpy:1954
 translate russian Angels_1_label_f17537ee:
 
     # ch_Name "{i}(Or Jacob won't let me in the dueling club.){/i}"
-    ch_Name "{i}(А иначе Jacob не пустит меня в дуэльный клуб.){/i}"
+    ch_Name "{i}(А иначе Джейкоб не пустит меня в дуэльный клуб.){/i}"
 
 # game/logic/events/haley.rpy:1955
 translate russian Angels_1_label_9b6fb15b:
 
     # ch_Name "{i}(Luckly, I know where I can learn it. It's time to visit Victoria's lesson.){/i}"
-    ch_Name "{i}(К счастью, я знаю, где я могу их освоить. Надо бы пойти на урок к Victoria.){/i}"
+    ch_Name "{i}(К счастью, я знаю, где я могу их освоить. Надо бы пойти на урок к Виктории.){/i}"
 
 # game/logic/events/haley.rpy:1959
 translate russian Angels_1_label_3e57db8f:
 
     # ch_Name "Hey, how is your break going?"
-    ch_Name "Привет, как проводишь перемену?"
+    ch_Name "Привет, чем занята на перемене?"
 
 # game/logic/events/haley.rpy:1960
 translate russian Angels_1_label_6e3a251b:
@@ -6418,7 +6418,7 @@ translate russian Angels_1_label_76613142:
 translate russian Angels_1_label_b366decb:
 
     # Haley "Were you really never interested in the history of the Cordale?"
-    Haley "Ты правда никогда не интересовался историей Cordale?"
+    Haley "Ты правда никогда не интересовался историей Кордейла?"
 
 # game/logic/events/haley.rpy:2020
 translate russian Angels_1_label_8f4a7f42:
@@ -6616,13 +6616,13 @@ translate russian Angels_1_label_86a9122e:
 translate russian Angels_1_label_6a60dda9:
 
     # Haley "They are really more frightening than I thought."
-    Haley "На самом деле они пугают сильнее, чем я думала."
+    Haley "На самом деле они более страшные, чем я думала."
 
 # game/logic/events/haley.rpy:2066
 translate russian Angels_1_label_644edefd:
 
     # ch_Name "Ugh, don't worry, one sweetie told me that there is no need to be afraid of angels."
-    ch_Name "А, не переживай, одна милашка сказала мне, что вовсе не стоит бояться ангелов."
+    ch_Name "Да ты не переживай, одна милашка сказала мне, что вовсе не стоит бояться ангелов."
 
 # game/logic/events/haley.rpy:2067
 translate russian Angels_1_label_db6dac54:
@@ -6682,7 +6682,7 @@ translate russian Angels_1_label_e4c34fa0:
 translate russian Angels_1_label_960516a9:
 
     # Haley "{i}(But I won't argue that you're such a cutie when you are that perky.){/i}"
-    Haley "{i}(Но я не стану спорить с тем, что ты очень милый, когда шутишь.){/i}"
+    Haley "{i}(Но я не стану спорить с тем, что ты очень мил, когда так шутишь.){/i}"
 
 # game/logic/events/haley.rpy:2080
 translate russian Angels_1_label_bddd05f6:
@@ -6694,7 +6694,7 @@ translate russian Angels_1_label_bddd05f6:
 translate russian Angels_1_label_7379ec6b:
 
     # ch_Name "{i}(Maybe her emotions help me to read her mind?){/i}"
-    ch_Name "{i}(Может, её эмоции помогут мне прочитать её иысли?){/i}"
+    ch_Name "{i}(Может, её эмоции помогут мне прочитать её мысли?){/i}"
 
 # game/logic/events/haley.rpy:2082
 translate russian Angels_1_label_7d48801a:
@@ -6706,13 +6706,13 @@ translate russian Angels_1_label_7d48801a:
 translate russian Angels_1_label_48badadf:
 
     # Haley "Well, that was a lovely walk, but I have to head back to get ready for class."
-    Haley "Ладно, прогулка была милая, но надо возвращаться на урок."
+    Haley "Ладно, прогулка была приятная, но надо возвращаться на урок."
 
 # game/logic/events/haley.rpy:2086
 translate russian Angels_1_label_c7233f41:
 
     # Haley "Victoria's lesson is going to start soon."
-    Haley "Занятие Victoria" скоро начнётся.
+    Haley "Занятие у Виктории скоро начнётся."
 
 # game/logic/events/haley.rpy:2087
 translate russian Angels_1_label_d578419d:
@@ -6802,7 +6802,7 @@ translate russian Haley_14_label_94e8cb69:
 translate russian Haley_14_label_ea729741:
 
     # ch_Name "{i}(Let's see if Haley has cracked to mystery of getting into the secret room.){/i}"
-    ch_Name "{i}(Посмотрим, удалось ли Haley разгадать загадку о том, как попасть в потайную комнату.){/i}"
+    ch_Name "{i}(Посмотрим, удалось ли Хейли разгадать загадку о том, как попасть в потайную комнату.){/i}"
 
 # game/logic/events/haley.rpy:2115
 translate russian Haley_14_label_52f0b6e5:
@@ -6820,7 +6820,7 @@ translate russian Haley_14_label_5c6e7d31:
 translate russian Haley_14_label_0f566738:
 
     # ch_Name "Hey, Haley!"
-    ch_Name "Привет, Haley!"
+    ch_Name "Привет, Хейли!"
 
 # game/logic/events/haley.rpy:2120
 translate russian Haley_14_label_f003adec:
@@ -6874,7 +6874,7 @@ translate russian Haley_14_label_0a146317:
 translate russian Haley_14_label_73577dd0:
 
     # Haley "But we should wait till Amelie's gone first."
-    Haley "Только нам надо будет сначала дождаться, пока Amelie уйдёт."
+    Haley "Только нам надо будет сначала дождаться, пока Амели уйдёт."
 
 # game/logic/events/haley.rpy:2131
 translate russian Haley_14_label_055aedf6:
@@ -6904,7 +6904,7 @@ translate russian Haley_14_label_86038cd9:
 translate russian Haley_14_label_770b4ff3:
 
     # Haley "I promised to help Lily with a spell."
-    Haley "Я обещала помочь Lily с одним заклинанием."
+    Haley "Я обещала помочь Лили с одним заклинанием."
 
 # game/logic/events/haley.rpy:2137
 translate russian Haley_14_label_cb98e895:
@@ -6928,7 +6928,7 @@ translate russian Haley_14_label_e7386e29:
 translate russian Haley_14_label_960956ac:
 
     # ch_Name "Haley?"
-    ch_Name "Haley?"
+    ch_Name "Хейли?"
 
 # game/logic/events/haley.rpy:2142
 translate russian Haley_14_label_8e87e1c0:
@@ -6940,7 +6940,7 @@ translate russian Haley_14_label_8e87e1c0:
 translate russian Haley_14_label_5278948d:
 
     # ch_Name "Just want to say that you're looking beautiful today!"
-    ch_Name "Просто хотел сказать, что ты сегодня замечательно выглядишь!"
+    ch_Name "Просто хотел сказать, что ты сегодня портясно выглядишь!"
 
 # game/logic/events/haley.rpy:2145
 translate russian Haley_14_label_d89dfafc:
@@ -7042,7 +7042,7 @@ translate russian Haley_14_label_c83e6b48:
 translate russian Haley_14_label_bbaaeb69:
 
     # ch_Name "How do you think, has Amelie already left?"
-    ch_Name "Как думаешь, Amelie уже ушла?"
+    ch_Name "Как думаешь, Амели уже ушла?"
 
 # game/logic/events/haley.rpy:2176
 translate russian Haley_14_label_5dede4db:
@@ -7054,7 +7054,7 @@ translate russian Haley_14_label_5dede4db:
 translate russian Haley_14_label_ec1d74f6:
 
     # Haley " I suggest we sit tight and keep silent."
-    Haley "Давай просто присядем и тихонько посидим."
+    Haley "Давай просто тихонько сядем и понаблюдаем."
 
 # game/logic/events/haley.rpy:2179
 translate russian Haley_14_label_2f628b29:
@@ -7096,7 +7096,7 @@ translate russian Haley_14_label_5234d13e:
 translate russian Haley_14_label_1df98d3b:
 
     # Amelie "I'm so tired."
-    Amelie "Я так устала."
+    Amelie "Так устала."
 
 # game/logic/events/haley.rpy:2188
 translate russian Haley_14_label_ae42334e:
@@ -7174,7 +7174,7 @@ translate russian Haley_14_label_99d68c59:
 translate russian Haley_14_label_2ca5ef78:
 
     # Haley "The idea is that these coins and the statuette that Amelie held in her hands are related somehow."
-    Haley "Есть догадка о том, что есть связь между монетами и той статуэткой, которую Amelie держала в руках."
+    Haley "Есть лишь догадка о том, что есть связь между монетами и той статуэткой, которую Амели держала в руках."
 
 # game/logic/events/haley.rpy:2205
 translate russian Haley_14_label_8a076bb4:
@@ -7438,7 +7438,7 @@ translate russian Haley_14_label_89852cdd:
 translate russian Haley_14_label_bbb44815:
 
     # ch_Name "I did it!"
-    ch_Name "Я сделал это""
+    ch_Name "Я сделал это"
 
 # game/logic/events/haley.rpy:2277
 translate russian Haley_14_label_f8aa94f6:
@@ -7522,7 +7522,7 @@ translate russian Haley_14_label_94132724:
 translate russian Haley_14_label_7402fa39:
 
     # ch_Name "And it feels so good, Haley."
-    ch_Name "Это очень приятно, Haley."
+    ch_Name "Это очень приятно, Хейли."
 
 # game/logic/events/haley.rpy:2300
 translate russian Haley_14_label_65880fd9:
@@ -7540,7 +7540,7 @@ translate russian Haley_14_label_b64070a3:
 translate russian Haley_14_label_e0b2502a:
 
     # Haley "Something's bugging me."
-    Haley "Но мне интересно."
+    Haley "Но мне вот интересно."
 
 # game/logic/events/haley.rpy:2304
 translate russian Haley_14_label_2a998a1a:
@@ -7570,7 +7570,7 @@ translate russian Haley_14_label_01947813:
 translate russian Haley_14_label_7b7229b6:
 
     # ch_Name "{i}(Haley-Haley, who'd have thought that this random book would save your life?){/i}"
-    ch_Name "{i}(Haley-Haley, кто бы мог подумать, что та случайная книга спасёт твою жизнь?){/i}"
+    ch_Name "{i}(Хейли-Хейли, кто бы мог подумать, что та случайная книга спасёт твою жизнь?){/i}"
 
 # game/logic/events/haley.rpy:2311
 translate russian Haley_14_label_f8a54a6c:
@@ -7636,7 +7636,7 @@ translate russian Haley_14_label_d0b57b30:
 translate russian Haley_14_label_3984c06a:
 
     # Haley "Sounds reasonable."
-    Haley "Звучит разумно."
+    Haley "Логично."
 
 # game/logic/events/haley.rpy:2328
 translate russian Haley_14_label_ac3342fe:
@@ -7672,31 +7672,31 @@ translate russian Haley_14_label_98d699a6:
 translate russian Haley_14_label_eb4210d5:
 
     # ch_Name "It's Cordale, baby."
-    ch_Name "Это Cordale, детка."
+    ch_Name "Это Кордейл, детка."
 
 # game/logic/events/haley.rpy:2337
 translate russian Haley_14_label_f755953f:
 
     # Haley "There aren't many surnames beginning with the letter B."
-    Haley "Фамилий на букву B немного."
+    Haley "Фамилий на букву Б немного."
 
 # game/logic/events/haley.rpy:2338
 translate russian Haley_14_label_11e07141:
 
     # Haley "Bailey, Baines, Baker..."
-    Haley "Bailey, Baines, Baker..."
+    Haley "Бейли, Бейнс, Бейкер..."
 
 # game/logic/events/haley.rpy:2340
 translate russian Haley_14_label_fc524539:
 
     # Haley "Beck, Bell..."
-    Haley "Beck, Bell..."
+    Haley "Бек, Белл..."
 
 # game/logic/events/haley.rpy:2342
 translate russian Haley_14_label_cdf8c6cb:
 
     # Haley "There it is! The Bloom folder!"
-    Haley "Нашла! Папка с именем Bloom!"
+    Haley "Нашла! Папка с именем Блум!"
 
 # game/logic/events/haley.rpy:2343
 translate russian Haley_14_label_0358ac6c:
@@ -7738,7 +7738,7 @@ translate russian Haley_14_label_040e5a7e:
 translate russian Haley_14_label_70ad6bd7:
 
     # ch_Name "Sounds good."
-    ch_Name "Звучит неплохо."
+    ch_Name "Давай так."
 
 # game/logic/events/haley.rpy:2352
 translate russian Haley_14_label_e1105e4d:
@@ -7768,7 +7768,7 @@ translate russian Haley_14_label_c92980d6:
 translate russian Haley_14_label_5e45b8d2:
 
     # ch_Name "Probably written in invisible ink."
-    ch_Name "Видимо, написано невидимыми чернилами."
+    ch_Name "Должно быть, писали невидимыми чернилами."
 
 # game/logic/events/haley.rpy:2358
 translate russian Haley_14_label_1260683b:
@@ -7804,7 +7804,7 @@ translate russian Haley_14_label_1ee1cdbb:
 translate russian Haley_14_label_2b778f39:
 
     # Haley "The son of famous Arnold Bloom turned out to be a warlock!"
-    Haley "Сын известного Arnold Bloom оказался чернокнижником!"
+    Haley "Сын известного Арнольда Блума оказался чернокнижником!"
 
 # game/logic/events/haley.rpy:2366
 translate russian Haley_14_label_b5852d6a:
@@ -7828,7 +7828,7 @@ translate russian Haley_14_label_f239a093:
 translate russian Haley_14_label_9442ccf5:
 
     # ch_Name "You think it's about Hans and Elijah's brother?"
-    ch_Name "Ты думаешь, что это про Hans и брат Elijah?"
+    ch_Name "Ты думаешь, что это про Ханса и брата Элайджи?"
 
 # game/logic/events/haley.rpy:2371
 translate russian Haley_14_label_f30f2242:
@@ -7852,7 +7852,7 @@ translate russian Haley_14_label_4076abcb:
 translate russian Haley_14_label_54ddceb3:
 
     # Haley "That's not really the way best friends usually communicate, let's be honest."
-    Haley "Это не совсем тот тон, который должен быть в дружеской переписке, честно тебе скажу."
+    Haley "Тон тут совсем не такой, какой должен быть в дружеской переписке, скажу я тебе."
 
 # game/logic/events/haley.rpy:2376
 translate russian Haley_14_label_bb1c367d:
@@ -7876,7 +7876,7 @@ translate russian Haley_14_label_a7a7ad54:
 translate russian Haley_14_label_ec3d9eca:
 
     # Haley "Magic activity filters, they protect Cordale."
-    Haley "Фильтры магических действий, они защищают Cordale."
+    Haley "Фильтры магических действий, они защищают Кордейл."
 
 # game/logic/events/haley.rpy:2381
 translate russian Haley_14_label_601f4d4c:
@@ -7900,7 +7900,7 @@ translate russian Haley_14_label_408b4447:
 translate russian Haley_14_label_1c0e5d90:
 
     # Haley "Yeah, there's no way back."
-    Haley "Да, пути назад уже нет."
+    Haley "Да, отступать уже некуда."
 
 # game/logic/events/haley.rpy:2386
 translate russian Haley_14_label_8ca60e2f:
@@ -7954,7 +7954,7 @@ translate russian Haley_14_label_55c87cb3:
 translate russian Haley_14_label_a4ce9736:
 
     # ch_Name "Don't forget about the traps."
-    ch_Name "Помни о ловушках."
+    ch_Name "Не забывай о ловушках."
 
 # game/logic/events/haley.rpy:2398
 translate russian Haley_14_label_4242b812:
@@ -8056,7 +8056,7 @@ translate russian Haley_14_label_c5eaec72:
 translate russian Haley_14_label_a36128d6:
 
     # ch_Name "{i}(I think I've heard Audrey and Sam downstairs.){/i}"
-    ch_Name "{i}(Кажется, я слышал внизу Audrey и Sam.){/i}"
+    ch_Name "{i}(Кажется, я слышал внизу Одри и Сэм.){/i}"
 
 # game/logic/events/haley.rpy:2444
 translate russian Haley_15_label_from_gallery_b6ce45a5:
@@ -8110,7 +8110,7 @@ translate russian Haley_15_label_from_gallery_6080591a:
 translate russian Haley_15_label_from_gallery_960956ac:
 
     # ch_Name "Haley?"
-    ch_Name "Haley?"
+    ch_Name "Хейли?"
 
 # game/logic/events/haley.rpy:2459
 translate russian Haley_15_label_from_gallery_784febcb:
@@ -8284,7 +8284,7 @@ translate russian Haley_15_label_from_gallery_2a7fd236:
 translate russian Haley_15_label_from_gallery_c13afcd8:
 
     # Haley "Here's a step-by-step process for opening a doorway to another dimension."
-    Haley "Вот пошаговый процесс того, как открыть проход в иное измерение."
+    Haley "Вот пошаговые инструкции, как открыть проход в иное измерение."
 
 # game/logic/events/haley.rpy:2498
 translate russian Haley_15_label_from_gallery_28107154:
@@ -8320,7 +8320,7 @@ translate russian Haley_15_label_from_gallery_1855220c:
 translate russian Haley_15_label_from_gallery_7cc70468:
 
     # Haley "Hans and Elijah's brother!"
-    Haley "Hans и брат Elijah!"
+    Haley "Ханс и брат Элайджи!"
 
 # game/logic/events/haley.rpy:2506
 translate russian Haley_15_label_from_gallery_e54944c1:
@@ -8350,7 +8350,7 @@ translate russian Haley_15_label_from_gallery_6375ac21:
 translate russian Haley_15_label_from_gallery_09b6f95e:
 
     # Haley "In one of his letters, Bloom says that his father was homophobic..."
-    Haley "В одном из этих писем Bloom указывает, что его отец был гомофобом..."
+    Haley "В одном из этих писем Блум указывает, что его отец был гомофобом..."
 
 # game/logic/events/haley.rpy:2513
 translate russian Haley_15_label_from_gallery_8f3e5b98:
@@ -8362,7 +8362,7 @@ translate russian Haley_15_label_from_gallery_8f3e5b98:
 translate russian Haley_15_label_from_gallery_4847c1f3:
 
     # Haley "Half of the correspondence are attempts by Elijah's brother to persuade Hans..."
-    Haley "Половина переписки состоит из попыток брата Elijah убедить Hans..."
+    Haley "Половина переписки состоит из попыток брата Элайджи убедить Ханса..."
 
 # game/logic/events/haley.rpy:2515
 translate russian Haley_15_label_from_gallery_df26b433:
@@ -8386,7 +8386,7 @@ translate russian Haley_15_label_from_gallery_1063c979:
 translate russian Haley_15_label_from_gallery_e7d3b875:
 
     # ch_Name "It is almost impossible to use black magic in Cordale."
-    ch_Name "Творить тёмную магию в Cordale практически нереально."
+    ch_Name "Творить тёмную магию в Кордейле практически нереально."
 
 # game/logic/events/haley.rpy:2520
 translate russian Haley_15_label_from_gallery_dc7afde9:
@@ -8428,19 +8428,19 @@ translate russian Haley_15_label_from_gallery_c107bcf8:
 translate russian Haley_15_label_from_gallery_70e80a94:
 
     # ch_Name "Ugh. From Victoria, or maybe from the principal right away?"
-    ch_Name "Ага. С Victoria, а еще лучше сразу с директором?"
+    ch_Name "Ага. С Викторией, а еще лучше сразу с директором?"
 
 # game/logic/events/haley.rpy:2529
 translate russian Haley_15_label_from_gallery_2f0b162f:
 
     # Haley "We can get Samantha's help."
-    Haley "Мы могли бы спросить у Samantha."
+    Haley "Мы могли бы спросить у Саманты."
 
 # game/logic/events/haley.rpy:2530
 translate russian Haley_15_label_from_gallery_cdbe1865:
 
     # Haley "She is one of Leonheart's best students."
-    Haley "Она одна из лучших студенток факультета Leonheart."
+    Haley "Она одна из лучших студенток факультета Леонхарт."
 
 # game/logic/events/haley.rpy:2531
 translate russian Haley_15_label_from_gallery_8d70b6d8:
@@ -8458,7 +8458,7 @@ translate russian Haley_15_label_from_gallery_e886abf5:
 translate russian Haley_15_label_from_gallery_d6dfcfdb:
 
     # Haley "I think she can help us."
-    Haley "Думаю, она могла бы нам помочь."
+    Haley "Она могла бы нам помочь."
 
 # game/logic/events/haley.rpy:2535
 translate russian Haley_15_label_from_gallery_29793f80:
@@ -8536,7 +8536,7 @@ translate russian Haley_15_label_from_gallery_107a55d2:
 translate russian Haley_15_label_from_gallery_c5930ab7:
 
     # ch_Name "I miss you, Haley."
-    ch_Name "Я соскучился по тебе, Haley."
+    ch_Name "Я соскучился по тебе, Хейли."
 
 # game/logic/events/haley.rpy:2553
 translate russian Haley_15_label_from_gallery_943cbcd3:
@@ -8584,7 +8584,7 @@ translate russian Haley_15_label_from_gallery_ae9c894e:
 translate russian Haley_15_label_from_gallery_323383c1:
 
     # ch_Name "You're beautiful, Haley."
-    ch_Name "Ты прекрасна, Haley."
+    ch_Name "Ты прекрасна, Хейли."
 
 # game/logic/events/haley.rpy:2564
 translate russian Haley_15_label_from_gallery_cd5ce20e:
@@ -8674,7 +8674,7 @@ translate russian Haley_15_label_from_gallery_143f37a9:
 translate russian Haley_15_label_from_gallery_c45abcd1:
 
     # Haley "What do you think?"
-    Haley "Как ты думаешь?"
+    Haley "Как ты считаешь?"
 
 # game/logic/events/haley.rpy:2584
 translate russian Haley_15_label_from_gallery_ecdc897b:
@@ -8722,7 +8722,7 @@ translate russian Haley_15_label_from_gallery_013363ef:
 translate russian Haley_15_label_from_gallery_5fb928b5:
 
     # ch_Name "{i}(It's a shame Haley is not ready to go all the way. But I get it.){/i}"
-    ch_Name "{i}(Жаль, что Haley пока не готова пойти дальше. Но я её понимаю.){/i}"
+    ch_Name "{i}(Жаль, что Хейли пока не готова пойти дальше. Но я её понимаю.){/i}"
 
 # game/logic/events/haley.rpy:2600
 translate russian Haley_15_label_from_gallery_0a6a137a:
@@ -8740,7 +8740,7 @@ translate russian Haley_16_label_f26de0e9:
 translate russian Haley_16_label_b5524326:
 
     # ch_Name "{i}(I wonder if It can even be not strange with Audrey...){/i}"
-    ch_Name "{i}(Интересно, бывает ли с Audrey по-другому...){/i}"
+    ch_Name "{i}(Интересно, бывает ли с Одри по-другому...){/i}"
 
 # game/logic/events/haley.rpy:2614
 translate russian Haley_16_label_a59ee6d4:
@@ -8758,7 +8758,7 @@ translate russian Haley_16_label_5be5c759:
 translate russian Haley_16_label_265fea14:
 
     # ch_Name "{i}(Speaking of which, we can't do it without Samantha.){/i}"
-    ch_Name "{i}(К слову об этом, без Samantha нам тут не обойтись.){/i}"
+    ch_Name "{i}(К слову об этом, без Саманты нам тут не обойтись.){/i}"
 
 # game/logic/events/haley.rpy:2618
 translate russian Haley_16_label_20017c55:
@@ -8770,19 +8770,19 @@ translate russian Haley_16_label_20017c55:
 translate russian Haley_16_label_5a6b0fb6:
 
     # ch_Name "{i}(Hopefully Haley hasn't left for her studies yet so we can all discuss this together.){/i}"
-    ch_Name "{i}(Надеюсь, Haley еще не ушла на занятия и тогда мы смогли бы все вместе это обсудить.){/i}"
+    ch_Name "{i}(Надеюсь, Хейли еще не ушла на занятия и тогда мы смогли бы все вместе это обсудить.){/i}"
 
 # game/logic/events/haley.rpy:2620
 translate russian Haley_16_label_75b70252:
 
     # ch_Name "{i}(I'm sure Samantha won't refuse to help me.){/i}"
-    ch_Name "{i}(Я уверен, что Samantha не откажет мне в помощи.){/i}"
+    ch_Name "{i}(Я уверен, что Саманта не откажет мне в помощи.){/i}"
 
 # game/logic/events/haley.rpy:2624
 translate russian Haley_16_label_09ff980b:
 
     # ch_Name "Sam! Are you busy now?"
-    ch_Name "Sam! Не занята сейчас?"
+    ch_Name "Сэм! Не занята сейчас?"
 
 # game/logic/events/haley.rpy:2625
 translate russian Haley_16_label_dec372ca:
@@ -8812,7 +8812,7 @@ translate russian Haley_16_label_e7b1043b:
 translate russian Haley_16_label_7a795f28:
 
     # ch_Name "And I also suggest we call Haley. This concerns her too."
-    ch_Name "И еще я бы хотел позвать Haley. Это и её тоже касается."
+    ch_Name "И еще я бы хотел позвать Хейли. Это и её тоже касается."
 
 # game/logic/events/haley.rpy:2632
 translate russian Haley_16_label_b329e8a1:
@@ -8860,13 +8860,13 @@ translate russian Haley_16_label_b5a9c0b3:
 translate russian Haley_16_label_403b51fe:
 
     # Haley "...belonging to somebody called \"E. Bloom\"..."
-    Haley "...принадлежащими некоему \"E. Bloom\"..."
+    Haley "...принадлежащими некоему \"Э. Блуму\"..."
 
 # game/logic/events/haley.rpy:2648
 translate russian Haley_16_label_be4e1ba5:
 
     # Samantha "Bloom? You mean it's somehow related to Elijah?"
-    Samantha "Bloom? Вы хотите сказать, что это как-то связано с Elijah?"
+    Samantha "Блуму? Вы хотите сказать, что это как-то связано с Элайджа?"
 
 # game/logic/events/haley.rpy:2649
 translate russian Haley_16_label_68ce4ddc:
@@ -8884,13 +8884,13 @@ translate russian Haley_16_label_fb2520b8:
 translate russian Haley_16_label_06063b7d:
 
     # Samantha "Doesn't sound like Elijah. Why did he act like that?"
-    Samantha "Это не похоже на Elijah. Почему он себя так повёл?"
+    Samantha "Это не похоже на Элайджа. Почему он себя так повёл?"
 
 # game/logic/events/haley.rpy:2653
 translate russian Haley_16_label_076d773f:
 
     # ch_Name "We found out that this E.Bloom studied in Cordale few decades ago."
-    ch_Name "Мы узнали, что некий E. Bloom учился несколько десятилетий назад в Cordale."
+    ch_Name "Мы узнали, что некий Э. Блум учился несколько десятилетий назад в Кордейле."
 
 # game/logic/events/haley.rpy:2654
 translate russian Haley_16_label_fd68b751:
@@ -8902,7 +8902,7 @@ translate russian Haley_16_label_fd68b751:
 translate russian Haley_16_label_f40e9067:
 
     # ch_Name "And since Bloom and his lover Hans were gays..."
-    ch_Name "А поскольку Bloom и его любовник Hans были геями..."
+    ch_Name "А поскольку Блум и его любовник Ханс были геями..."
 
 # game/logic/events/haley.rpy:2656
 translate russian Haley_16_label_6b89b127:
@@ -9004,7 +9004,7 @@ translate russian Haley_16_label_820daa07:
 translate russian Haley_16_label_c7520aaf:
 
     # ch_Name "But I'm sure about Samantha, she is the only one who can help us."
-    ch_Name "Но я верю в Samantha, только она и может нам помочь."
+    ch_Name "Но я верю в Саманту, только она и может нам помочь."
 
 # game/logic/events/haley.rpy:2680
 translate russian Haley_16_label_c7b8a2a8:
@@ -9094,7 +9094,7 @@ translate russian Haley_16_label_6035d3b3:
 translate russian Haley_16_label_85b2f5a4:
 
     # Samantha "The ritual is described in details here, look!"
-    Samantha "ритуал описан здесь в деталях, взгляните!"
+    Samantha "Ритуал описан здесь в деталях, взгляните!"
 
 # game/logic/events/haley.rpy:2699
 translate russian Haley_16_label_86fed7ec:
@@ -9160,13 +9160,13 @@ translate russian Haley_16_label_1d4f2995:
 translate russian Haley_16_label_ebfa62e9:
 
     # Samantha "A handful of solar dust, crushed dragon skin and fresh Edelweiss petals."
-    Samantha "Горсть солнечной пыли, измельчённая кожа дракона и свежие лепестки Эдельвейса."
+    Samantha "Горсть солнечной пыли, измельчённая кожа дракона и свежие лепестки эдельвейса."
 
 # game/logic/events/haley.rpy:2713
 translate russian Haley_16_label_e1287067:
 
     # Haley "Oh, Gosh!"
-    Haley "О Боже!"
+    Haley "О, Боже!"
 
 # game/logic/events/haley.rpy:2714
 translate russian Haley_16_label_1ae83315:
@@ -9214,7 +9214,7 @@ translate russian Haley_16_label_ca3e889c:
 translate russian Haley_16_label_837ae3c1:
 
     # ch_Name "We just can't do it without you, Sam."
-    ch_Name "Нам без тебя никак не обойтись, Sam."
+    ch_Name "Нам без тебя никак не обойтись, Сэм."
 
 # game/logic/events/haley.rpy:2724
 translate russian Haley_16_label_20a5264d:
@@ -9274,7 +9274,7 @@ translate russian Haley_16_label_eb498208:
 translate russian Haley_16_label_5bc63734:
 
     # Haley "Thank you, Sam!"
-    Haley "Спасибо тебе, Sam!"
+    Haley "Спасибо тебе, Сэм!"
 
 # game/logic/events/haley.rpy:2737
 translate russian Haley_16_label_845f129d:
@@ -9304,7 +9304,7 @@ translate russian Haley_16_label_a52a2c77:
 translate russian Haley_16_label_99c26f06:
 
     # Haley "Samantha is fantastic!"
-    Haley "Samantha просто невероятная!"
+    Haley "Саманта просто невероятная!"
 
 # game/logic/events/haley.rpy:2743
 translate russian Haley_16_label_ddbe4c35:
@@ -9334,7 +9334,7 @@ translate russian Haley_16_label_347eee0b:
 translate russian Haley_16_label_43635d47:
 
     # ch_Name "Haley..."
-    ch_Name "Haley..."
+    ch_Name "Хейли..."
 
 # game/logic/events/haley.rpy:2749
 translate russian Haley_16_label_e6c86776:
@@ -9376,7 +9376,7 @@ translate russian Haley_16_label_13057e4d:
 translate russian Haley_16_label_e305e7be:
 
     # Haley "Don't make me blush, he-he."
-    Haley "Хе-хе, не заставляй меня краснеть.
+    Haley "Хе-хе, не заставляй меня краснеть."
 
 # game/logic/events/haley.rpy:2758
 translate russian Haley_16_label_c61283d6:
@@ -9388,31 +9388,31 @@ translate russian Haley_16_label_c61283d6:
 translate russian Haley_16_label_4116cd52:
 
     # ch_Name "I can hardly wait for that moment!"
-    ch_Name "Жду-недождусь!
+    ch_Name "Жду-недождусь!"
 
 # game/logic/events/haley.rpy:2760
 translate russian Haley_16_label_c0769511:
 
     # Haley "Me too."
-    Haley "Я тоже.
+    Haley "Я тоже."
 
 # game/logic/events/haley.rpy:2762
 translate russian Haley_16_label_94ef4731:
 
     # Haley "Okay, I'm late for my additional magic lesson. I've got to go."
-    Haley "Ладно, я опаздываю на дополнительное занятия по основам магиию Мне нужно идти.
+    Haley "Ладно, я опаздываю на дополнительное занятия по основам магии. Мне нужно идти."
 
 # game/logic/events/haley.rpy:2763
 translate russian Haley_16_label_bd2a393d:
 
     # ch_Name "Good luck!"
-    ch_Name "Удачи!
+    ch_Name "Удачи!"
 
 # game/logic/events/haley.rpy:2764
 translate russian Haley_16_label_6204d8bc:
 
     # Haley "You too, [Name]."
-    Haley "И тебе тоже, [Name].
+    Haley "И тебе тоже, [Name]."
 
 # game/logic/events/haley.rpy:2768
 translate russian Haley_16_label_03c55f21:
@@ -9424,19 +9424,19 @@ translate russian Haley_16_label_03c55f21:
 translate russian Haley_16_label_64f565f3:
 
     # ch_Name "{i}(I'm not sure I'll make it to class.){/i}"
-    ch_Name "{i}(Не уверен, что я попаду на занятия.){/i}"
+    ch_Name "{i}(Не уверен, что попаду на занятия.){/i}"
 
 # game/logic/events/haley.rpy:2770
 translate russian Haley_16_label_9d2a4319:
 
     # ch_Name "{i}(But at least I'll get to cross paths with someone.){/i}"
-    ch_Name "{i}(Но, по крайней мере, я смогу с кем-нибудь пересечься.){/i}"
+    ch_Name "{i}(Но, по крайней мере, смогу с кем-нибудь пересечься.){/i}"
 
 # game/logic/events/haley.rpy:2772
 translate russian Haley_16_label_150953d3:
 
     # ch_Name "{i}(Since Lily and I got lost in those woods, we haven't really talked.){/i}"
-    ch_Name "{i}(Мы с Lily так и не разговаривали с тех пор, как потерялись тогда в лесу.){/i}"
+    ch_Name "{i}(Мы с Лили так и не поговорили с тех пор, как потерялись тогда в лесу.){/i}"
 
 # game/logic/events/haley.rpy:2773
 translate russian Haley_16_label_32a580c5:
@@ -9466,7 +9466,7 @@ translate russian Haley_16_label_f25f6a96:
 translate russian Haley_16_label_e3793cc8:
 
     # ch_Name "{i}(It's warm and sunny, just the way I like it.){/i}"
-    ch_Name "{i}(Тепло и солнечно, как я и люблю.){/i}"
+    ch_Name "{i}(Тепло и солнечно, как я люблю.){/i}"
 
 # game/logic/events/haley.rpy:2788
 translate russian Haley_16_label_63ef0c96:
@@ -9490,7 +9490,7 @@ translate russian Haley_16_label_babce180:
 translate russian Haley_16_label_7731b1c3:
 
     # ch_Name "{i}(But Lily is probably already in Victoria's class.){/i}"
-    ch_Name "{i}(Но Lily уже наверняка на уроке в Victoria.){/i}"
+    ch_Name "{i}(Но Лили уже наверняка в аудитории у Виктории.){/i}"
 
 # game/logic/events/haley.rpy:2793
 translate russian Haley_16_label_9ebf6d7b:
@@ -9568,7 +9568,7 @@ translate russian CF_Haley_1_label_d8aff6cc:
 translate russian CF_Haley_1_label_ecbd8e5e:
 
     # ch_Name "{i}(Such pretty little panties, Haley.){/i}"
-    ch_Name "{i}(Милые маленькие трусики, Haley.){/i}"
+    ch_Name "{i}(Милые маленькие трусики, Хейли.){/i}"
 
 # game/logic/events/haley.rpy:2827
 translate russian CF_Haley_1_label_e9bb1112:
@@ -9580,25 +9580,25 @@ translate russian CF_Haley_1_label_e9bb1112:
 translate russian CF_Haley_1_label_d2296b9f:
 
     # Haley "{i}(singing) Lo-onely, I'm Mr. Lo-o-onely...{/i}"
-    Haley "{i}(поёт) Одна-а-а, совсем одна-а-аа...{/i}"
+    Haley "{i}(поёт) Lo-onely, I'm Mr. Lo-o-onely...{/i}"
 
 # game/logic/events/haley.rpy:2829
 translate russian CF_Haley_1_label_fbac00dc:
 
     # Haley "{i}(singing) I have nobody...{/i}"
-    Haley "{i}(поёт) У меня никого нет...{/i}"
+    Haley "{i}(поёт) I have nobody...{/i}"
 
 # game/logic/events/haley.rpy:2831
 translate russian CF_Haley_1_label_d320fb52:
 
     # Haley "{i}(singing) For my own...{/i}"
-    Haley "{i}(поёт) Совсем одна...{/i}"
+    Haley "{i}(поёт) For my own...{/i}"
 
 # game/logic/events/haley.rpy:2832
 translate russian CF_Haley_1_label_ebbf4bc5:
 
     # ch_Name "You sing beautifully, Haley."
-    ch_Name "Ты чудесно поёшь, Haley."
+    ch_Name "Ты чудесно поёшь, Хейли."
 
 # game/logic/events/haley.rpy:2834
 translate russian CF_Haley_1_label_fd4ed3e3:
@@ -9694,19 +9694,19 @@ translate russian CF_Haley_1_label_9153297a:
 translate russian CF_Haley_1_label_28f73d7d:
 
     # ch_Name "I spoke to Miss Lapis today and asked her to recommend a book to me."
-    ch_Name "Я сегодня беседовал с мисс Lapis и попросил ей посоветовать мне книгу."
+    ch_Name "Я сегодня беседовал с мисс Лапис и попросил ей посоветовать мне книгу."
 
 # game/logic/events/haley.rpy:2854
 translate russian CF_Haley_1_label_899175b8:
 
     # ch_Name "Victoria was a little busy, so she advised me to ask you."
-    ch_Name "Victoria была занята, поэтому порекомендовала обратиться к тебе."
+    ch_Name "Виктория была занята, поэтому порекомендовала обратиться к тебе."
 
 # game/logic/events/haley.rpy:2855
 translate russian CF_Haley_1_label_72694416:
 
     # ch_Name "In her words, \"Haley knows the topic to perfection, as well as I do\"."
-    ch_Name "Она сказала, что \"Haley владеет этой темой в совершенстве, как и я\"."
+    ch_Name "Она сказала, что \"Хейли владеет этой темой в совершенстве, как и я\"."
 
 # game/logic/events/haley.rpy:2856
 translate russian CF_Haley_1_label_f4a8f8d2:
@@ -9772,7 +9772,7 @@ translate russian CF_Haley_1_label_681eb7ac:
 translate russian CF_Haley_1_label_db60db43:
 
     # ch_Name "By the way, have you already met Ahchi?"
-    ch_Name "Кстати, ты уже знакома с Ahchi?"
+    ch_Name "Кстати, ты уже знакома с Ачи?"
 
 # game/logic/events/haley.rpy:2870
 translate russian CF_Haley_1_label_ba7c9436:
@@ -9796,7 +9796,7 @@ translate russian CF_Haley_1_label_69a22a80:
 translate russian CF_Haley_1_label_fea7a5ff:
 
     # ch_Name "I fully agree!"
-    ch_Name "Совершенно согласен!"
+    ch_Name "Абсолютно согласен!"
 
 # game/logic/events/haley.rpy:2875
 translate russian CF_Haley_1_label_a76ae3ed:
@@ -9814,7 +9814,7 @@ translate russian CF_Haley_1_label_b57fea83:
 translate russian CF_Haley_1_label_b50389c0:
 
     # ch_Name "I got you a latte with almond syrup."
-    ch_Name "Я теюе взял латте с миндальным сиропом."
+    ch_Name "Я тебе взял латте с миндальным сиропом."
 
 # game/logic/events/haley.rpy:2879
 translate russian CF_Haley_1_label_03b89ead:
@@ -9898,7 +9898,7 @@ translate russian CF_Haley_1_label_be288055:
 translate russian CF_Haley_1_label_b4711e6f:
 
     # Haley "They yelled at me if I wasn't able to get all A's."
-    Haley "Кричали на меня, когда у меня не получалось получать одни только отличные оценки."
+    Haley "Кричали, когда у меня не получалось иметь безупречные оценки."
 
 # game/logic/events/haley.rpy:2896
 translate russian CF_Haley_1_label_34ae90dc:
@@ -9940,13 +9940,13 @@ translate russian CF_Haley_1_label_39c4bf3e:
 translate russian CF_Haley_1_label_144886d4:
 
     # ch_Name "I understand you so well, Haley."
-    ch_Name "Я так хорошо тебя понимаю, Haley."
+    ch_Name "Я так хорошо тебя понимаю, Хейли."
 
 # game/logic/events/haley.rpy:2906
 translate russian CF_Haley_1_label_03c19864:
 
     # ch_Name "It's like the driving force that fills you with strong emotions and focus."
-    ch_Name "Это похоже на движущую силу, которая дарит тебе эмоции и позволяет концентрироваться."
+    ch_Name "Она похожа на движущую силу, которая дарит тебе эмоции и позволяет концентрироваться."
 
 # game/logic/events/haley.rpy:2907
 translate russian CF_Haley_1_label_2a7fd236:
@@ -10018,7 +10018,7 @@ translate russian CF_Haley_2_label_04b1ebae:
 translate russian CF_Haley_2_label_052fbc41:
 
     # ch_Name "Hello, Haley!"
-    ch_Name "Привет, Haley!"
+    ch_Name "Привет, Хейли!"
 
 # game/logic/events/haley.rpy:2935
 translate russian CF_Haley_2_label_cd8abaea:
@@ -10198,13 +10198,13 @@ translate russian CF_Haley_2_label_485f2669:
 translate russian CF_Haley_2_label_5fd69a3d:
 
     # ch_Name "Haley, do you miss your home?"
-    ch_Name "Haley, ты скучаешь по дому?"
+    ch_Name "Хейли, ты скучаешь по дому?"
 
 # game/logic/events/haley.rpy:2977
 translate russian CF_Haley_2_label_4abaad02:
 
     # ch_Name "Your relatives?"
-    ch_Name "По родным?"
+    ch_Name "По родным."
 
 # game/logic/events/haley.rpy:2978
 translate russian CF_Haley_2_label_2c55d02f:
@@ -10306,7 +10306,7 @@ translate russian CF_Haley_2_label_6f1e6589:
 translate russian CF_Haley_2_label_0e910d2f:
 
     # ch_Name "Have you ever tried to talk with your parents about it?"
-    ch_Name "Ты когда-нибудь пробовал заговорить с родителями об этом?"
+    ch_Name "Ты когда-нибудь пробовала заговорить с родителями об этом?"
 
 # game/logic/events/haley.rpy:3000
 translate russian CF_Haley_2_label_56b936c7:
@@ -10402,7 +10402,7 @@ translate russian CF_Haley_2_label_baae58fc:
 translate russian CF_Haley_2_label_19c1ffa7:
 
     # Haley "Of course, I never mentioned it."
-    Haley "Конечно, я же про это не рассказывала."
+    Haley "Конечно, я же про него не рассказывала."
 
 # game/logic/events/haley.rpy:3021
 translate russian CF_Haley_2_label_cc0b3e89:
@@ -10480,7 +10480,7 @@ translate russian CF_Haley_3_label_01642615:
 translate russian CF_Haley_3_label_8b5a5fc6:
 
     # ch_Name "Hi, Haley!"
-    ch_Name "Привет, Haley!"
+    ch_Name "Привет, Хейли!"
 
 # game/logic/events/haley.rpy:3050
 translate russian CF_Haley_3_label_3f81266e:
@@ -10588,7 +10588,7 @@ translate russian CF_Haley_3_label_ff4fb327:
 translate russian CF_Haley_3_label_ad71292e:
 
     # Haley "In the second place, hmh..."
-    Haley "На втором месте, хмх..."
+    Haley "На втором месте, хмм..."
 
 # game/logic/events/haley.rpy:3071
 translate russian CF_Haley_3_label_7867bace:
@@ -10708,7 +10708,7 @@ translate russian CF_Haley_3_label_d393ed50:
 translate russian CF_Haley_3_label_9b67b145:
 
     # ch_Name "You're a very strong person, Haley."
-    ch_Name "Ты очень сильная личность, Haley."
+    ch_Name "Ты очень сильная личность, Хейли."
 
 # game/logic/events/haley.rpy:3096
 translate russian CF_Haley_3_label_2e1db9cf:
@@ -10756,7 +10756,7 @@ translate russian CF_Haley_3_label_4e3e7130:
 translate russian CF_Haley_3_label_26c71afa:
 
     # ch_Name "I'm so happy to sit with you here, Haley."
-    ch_Name "Я так счастлив быть с тобой здесь, Haley."
+    ch_Name "Я так счастлив быть с тобой здесь, Хейли."
 
 # game/logic/events/haley.rpy:3106
 translate russian CF_Haley_3_label_4b34586a:
@@ -10804,7 +10804,7 @@ translate russian CF_Haley_3_label_b8ce6fc2:
 translate russian CF_Haley_4_label_9d5440b2:
 
     # ch_Name "Oooh, Haley!"
-    ch_Name "Оооо, Haley!"
+    ch_Name "Оооо, Хейли!"
 
 # game/logic/events/haley.rpy:3128
 translate russian CF_Haley_4_label_36847641:
@@ -10876,7 +10876,7 @@ translate russian CF_Haley_4_label_1e93415e:
 translate russian CF_Haley_4_label_e6a62e35:
 
     # ch_Name "What about Lily or Samantha?"
-    ch_Name "А как насчёт Lily или Samantha?"
+    ch_Name "А как насчёт Лили или Саманты?"
 
 # game/logic/events/haley.rpy:3144
 translate russian CF_Haley_4_label_a63caecd:
@@ -10894,13 +10894,13 @@ translate russian CF_Haley_4_label_8674d299:
 translate russian CF_Haley_4_label_43994f98:
 
     # Haley "Actually, everyone in the Cordale seems to be really kind."
-    Haley "Вообще, все в Cordale очень добры."
+    Haley "Вообще, все в Кордейле очень добры."
 
 # game/logic/events/haley.rpy:3148
 translate russian CF_Haley_4_label_faa06063:
 
     # ch_Name "By the way, how's living with Lily?"
-    ch_Name "А кстати, как тебе живётся с Lily?"
+    ch_Name "А кстати, как тебе живётся с Лили?"
 
 # game/logic/events/haley.rpy:3149
 translate russian CF_Haley_4_label_5183bde9:
@@ -10918,7 +10918,7 @@ translate russian CF_Haley_4_label_3d8dd5e7:
 translate russian CF_Haley_4_label_e6e9f042:
 
     # Haley "I'm super comfortable with her."
-    Haley "Мне с ней очень хорошо."
+    Haley "Мне с ней очень повезло."
 
 # game/logic/events/haley.rpy:3153
 translate russian CF_Haley_4_label_77f2999c:
@@ -10948,7 +10948,7 @@ translate russian CF_Haley_4_label_d95a2762:
 translate russian CF_Haley_4_label_5257c77d:
 
     # Haley "Lily's not that kind of person."
-    Haley "Lily совсем не такой человек."
+    Haley "Лили совсем не такой человек."
 
 # game/logic/events/haley.rpy:3159
 translate russian CF_Haley_4_label_6979236d:
@@ -10966,7 +10966,7 @@ translate russian CF_Haley_4_label_4626a1f0:
 translate russian CF_Haley_4_label_f36baf7a:
 
     # ch_Name "And what do you think about Samantha?"
-    ch_Name "А что ты думаешь насчёт Samantha?"
+    ch_Name "А что ты думаешь насчёт Саманты?"
 
 # game/logic/events/haley.rpy:3162
 translate russian CF_Haley_4_label_bb6c0e1e:
@@ -10990,7 +10990,7 @@ translate russian CF_Haley_4_label_3c591102:
 translate russian CF_Haley_4_label_96272f7e:
 
     # Haley "And Samantha is a very self-aware person."
-    Haley "И ещё Samantha очень хорошо знает свои сильные стороны."
+    Haley "И ещё Саманта очень хорошо знает свои сильные стороны."
 
 # game/logic/events/haley.rpy:3167
 translate russian CF_Haley_4_label_7de339b9:
@@ -11026,7 +11026,7 @@ translate russian CF_Haley_4_label_c75ae8d2:
 translate russian CF_Haley_4_label_448d3efa:
 
     # ch_Name "But what about her friend, Audrey?"
-    ch_Name "А что насчёт её подруги, Audrey?"
+    ch_Name "А что насчёт её подруги, Одри?"
 
 # game/logic/events/haley.rpy:3174
 translate russian CF_Haley_4_label_784feab1:
@@ -11104,7 +11104,7 @@ translate russian CF_Haley_4_label_f878e73b:
 translate russian CF_Haley_4_label_7ef4b6f3:
 
     # ch_Name "Her name is Haley."
-    ch_Name "Её зовут Haley."
+    ch_Name "Её зовут Хейли."
 
 # game/logic/events/haley.rpy:3190
 translate russian CF_Haley_4_label_b030092e:
@@ -11236,27 +11236,27 @@ translate russian strings:
 
     # game/logic/events/haley.rpy:12
     old "0 Talk to Haley"
-    new "0 Поговорить с Haley"
+    new "0 Поговорить с Хейли"
 
     # game/logic/events/haley.rpy:12
     old "20 Ask Haley for a walk"
-    new "20 Позвать Haley погулять"
+    new "20 Позвать Хейли погулять"
 
     # game/logic/events/haley.rpy:12
     old "10 Talk to Haley"
-    new "10 Поговорить с Haley"
+    new "10 Поговорить с Хейли"
 
     # game/logic/events/haley.rpy:12
     old "20 Talk to Haley"
-    new "20 Поговорить с Haley"
+    new "20 Поговорить с Хейли"
 
     # game/logic/events/haley.rpy:101
     old "7 Talk to Haley"
-    new "7 Поговорить с Haley"
+    new "7 Поговорить с Хейли"
 
     # game/logic/events/haley.rpy:101
     old "Talk to Haley"
-    new "Поговорить с Haley"
+    new "Поговорить с Хейли"
 
     # game/logic/events/haley.rpy:406
     old "About what you've said..."
@@ -11268,19 +11268,19 @@ translate russian strings:
 
     # game/logic/events/haley.rpy:456
     old "Look at Molly's butt"
-    new "Посмотреть на задницу Molly"
+    new "Посмотреть на задницу Молли"
 
     # game/logic/events/haley.rpy:456
     old "Don't look at Molly's butt"
-    new "Не смотреть на задницу Molly"
+    new "Не смотреть на задницу Молли"
 
     # game/logic/events/haley.rpy:825
     old "Take a look at Haley"
-    new "Взглянуть на Haley"
+    new "Взглянуть на Хейли"
 
     # game/logic/events/haley.rpy:1156
     old "Caricature of Sabrina"
-    new "Карикатура на Sabrina"
+    new "Карикатура на Сабрину"
 
     # game/logic/events/haley.rpy:1156
     old "Potion tips"
@@ -11313,4 +11313,3 @@ translate russian strings:
     # game/logic/events/haley.rpy:2294
     old "Get some distance"
     new "Чуть отодвинуться"
-
