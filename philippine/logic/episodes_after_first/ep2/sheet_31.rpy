@@ -447,8 +447,8 @@ translate philippine arthur_label_5b283411:
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:128
 translate philippine arthur_label_1d3060fe:
 
-    # Elijah "Wala pa akong narinig na ganyan. Shh, nakikinig ako!"
-    Elijah "Wala akong n"
+    # Elijah "I've never heard of such a thing. Shh, let me listen!"
+    Elijah "Wala pa akong narinig na ganyan. Shh, nakikinig ako!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:130
 translate philippine arthur_label_58d0dc9f:
