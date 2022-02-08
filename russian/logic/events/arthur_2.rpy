@@ -4,7 +4,7 @@
 translate russian arthur_2_14969a9a:
 
     # NoName "Ring, ring..."
-    NoName "Дзынь, дзынь..."
+    NoName "Телефон звонит"
 
 # game/logic/events/arthur_2.rpy:45
 translate russian arthur_2_d007b8f0:
@@ -70,7 +70,7 @@ translate russian arthur_2_6dfcc04f:
 translate russian arthur_2_364f1bc9:
 
     # Arthur "But first, I'd like to speak on behalf of Сordale's council."
-    Arthur "Однако вначале я бы хотел обратиться к вам от лица попечительского совета Cordale."
+    Arthur "Однако вначале я бы хотел обратиться к вам от лица попечительского совета Кордейла."
 
 # game/logic/events/arthur_2.rpy:62
 translate russian arthur_2_bf0a70b2:
@@ -106,7 +106,7 @@ translate russian arthur_2_c2bc33b6:
 translate russian arthur_2_4d54c055:
 
     # Arthur "This week's winner house is {b}Leonheart{/b}!"
-    Arthur "По итогам текущей недели победу одержал {b}Leonheart{/b}!"
+    Arthur "По итогам текущей недели победу одержал {b}Леонхарт{/b}!"
 
 # game/logic/events/arthur_2.rpy:80
 translate russian arthur_2_1f8bb2b6:
@@ -124,19 +124,19 @@ translate russian arthur_2_9e7c23b9:
 translate russian arthur_2_1c5cb8cc:
 
     # Arthur "Congratulations to Leonheart! The path to Dale is now open to you."
-    Arthur "Поздравления Leonheart! Путь в Dale теперь для вас открыт."
+    Arthur "Поздравления Леонхарту! Путь в Dale теперь для вас открыт."
 
 # game/logic/events/arthur_2.rpy:84
 translate russian arthur_2_bee80711:
 
     # Arthur "Each student from the winning house receives $50 allowance you can spend in Dale."
-    Arthur "Также каждый студент выигравшего факультета получает $50, которые вы можете потратить в Dale."
+    Arthur "Также каждый студент выигравшего факультета получает $50, которые вы можете потратить в Дейле."
 
 # game/logic/events/arthur_2.rpy:86
 translate russian arthur_2_b7455f8e:
 
     # Arthur "Please, seek assistance from Mister Frollo to get to the ship."
-    Arthur "Прошу вас обратиться к мистеру Frollo, если вы хотите попасть на корабль."
+    Arthur "Прошу вас обратиться к мистеру Фролло, если вы хотите попасть на корабль."
 
 # game/logic/events/arthur_2.rpy:88
 translate russian arthur_2_3f164f48:
@@ -148,7 +148,7 @@ translate russian arthur_2_3f164f48:
 translate russian arthur_2_087ce206:
 
     # Arthur "You will have a chance to visit Dale next time."
-    Arthur "У вас есть шанс посетить Dale в следующий раз."
+    Arthur "У вас есть шанс посетить Дейл в следующий раз."
 
 # game/logic/events/arthur_2.rpy:90
 translate russian arthur_2_0dad76fb:
@@ -160,7 +160,7 @@ translate russian arthur_2_0dad76fb:
 translate russian arthur_2_dfa6d1e8:
 
     # Arthur "Take care, everyone, and have a lovely weekend!"
-    Arthur "Берегите себя и приятного вам уикенда!"
+    Arthur "Берегите себя и приятных вам выходных!"
 
 # game/logic/events/arthur_2.rpy:93
 translate russian arthur_2_cea9308a:
@@ -172,7 +172,7 @@ translate russian arthur_2_cea9308a:
 translate russian arthur_2_a70cde9c:
 
     # ch_Name "Now I need to find mister Frollo."
-    ch_Name "Теперь мне надо разыскать мистера Frollo."
+    ch_Name "Теперь мне надо разыскать мистера Фролло."
 
 # game/logic/events/arthur_2.rpy:100
 translate russian arthur_2_32_a7a4792e:
@@ -202,13 +202,13 @@ translate russian arthur_2_32_d1098240:
 translate russian arthur_2_32_48a616a4:
 
     # Arthur "Congratulations to [wins_house]! The path to Dale is now open to you."
-    Arthur "Поздравления [wins_house]! Путь в Dale теперь открыт для вас."
+    Arthur "Поздравления [wins_house]! Путь в Дейл теперь открыт для вас."
 
 # game/logic/events/arthur_2.rpy:107
 translate russian arthur_2_32_0d0cf108:
 
     # Arthur "After this meeting, please follow Mister Frollo."
-    Arthur "По завершении этого собрания, следуйте за мистером Frollo."
+    Arthur "По завершении этого собрания, следуйте за мистером Фролло."
 
 # game/logic/events/arthur_2.rpy:109
 translate russian arthur_2_32_36af6813:
@@ -226,7 +226,7 @@ translate russian arthur_2_32_3f164f48:
 translate russian arthur_2_32_087ce206:
 
     # Arthur "You will have a chance to visit Dale next time."
-    Arthur "У вас есть шанс посетить Dale в следующий раз."
+    Arthur "У вас есть шанс посетить Дейл в следующий раз."
 
 # game/logic/events/arthur_2.rpy:113
 translate russian arthur_2_32_0dad76fb:
@@ -238,7 +238,7 @@ translate russian arthur_2_32_0dad76fb:
 translate russian arthur_2_32_dfa6d1e8:
 
     # Arthur "Take care, everyone, and have a lovely weekend!"
-    Arthur "Берегите себя и приятного вам уикенда!"
+    Arthur "Берегите себя и приятных вам выходных!"
 
 # game/logic/events/arthur_2.rpy:116
 translate russian arthur_2_32_cea9308a:
@@ -274,7 +274,7 @@ translate russian arthur_2_0_8e86b1c7:
 translate russian arthur_2_0_6e55cc3b:
 
     # Arthur "{b}Leonheart{/b}!"
-    Arthur "{b}Leonheart{/b}!"
+    Arthur "{b}Леонхарт{/b}!"
 
 # game/logic/events/arthur_2.rpy:181
 translate russian arthur_2_0_1f8bb2b6:
@@ -292,19 +292,19 @@ translate russian arthur_2_0_9e7c23b9:
 translate russian arthur_2_0_1c5cb8cc:
 
     # Arthur "Congratulations to Leonheart! The path to Dale is now open to you."
-    Arthur "Поздравления Leonheart! Путь в Dale теперь для вас открыт."
+    Arthur "Поздравления Леонхарту! Путь в Дейл теперь для вас открыт."
 
 # game/logic/events/arthur_2.rpy:187
 translate russian arthur_2_0_bee80711:
 
     # Arthur "Each student from the winning house receives $50 allowance you can spend in Dale."
-    Arthur "Также каждый студент выигравшего факультета получает $50, которые вы можете потратить в Dale."
+    Arthur "Также каждый студент выигравшего факультета получает $50, которые вы можете потратить в Дейле."
 
 # game/logic/events/arthur_2.rpy:189
 translate russian arthur_2_0_b7455f8e:
 
     # Arthur "Please, seek assistance from Mister Frollo to get to the ship."
-    Arthur "Прошу вас обратиться к мистеру Frollo, чтобы попасть на корабль."
+    Arthur "Прошу вас обратиться к мистеру Фролло, чтобы попасть на корабль."
 
 # game/logic/events/arthur_2.rpy:191
 translate russian arthur_2_0_3f164f48:
@@ -316,7 +316,7 @@ translate russian arthur_2_0_3f164f48:
 translate russian arthur_2_0_087ce206:
 
     # Arthur "You will have a chance to visit Dale next time."
-    Arthur "У вас есть шанс посетить Dale в следующий раз."
+    Arthur "У вас есть шанс посетить Дейл в следующий раз."
 
 # game/logic/events/arthur_2.rpy:193
 translate russian arthur_2_0_0dad76fb:
@@ -328,7 +328,7 @@ translate russian arthur_2_0_0dad76fb:
 translate russian arthur_2_0_dfa6d1e8:
 
     # Arthur "Take care, everyone, and have a lovely weekend!"
-    Arthur "Берегите себя и приятного вам уикенда!"
+    Arthur "Берегите себя и приятных вам выходных!"
 
 # game/logic/events/arthur_2.rpy:196
 translate russian arthur_2_0_cea9308a:
@@ -340,7 +340,7 @@ translate russian arthur_2_0_cea9308a:
 translate russian arthur_2_0_acf8d85f:
 
     # ch_Name "Now I need to find mister Frollo"
-    ch_Name "Теперь мне надо разыскать мистера Frollo."
+    ch_Name "Теперь мне надо разыскать мистера Фролло."
 
 # game/logic/events/arthur_2.rpy:219
 translate russian arthur_2_0_18_4bae9686:
@@ -412,13 +412,13 @@ translate russian arthur_2_3_3f81266e:
 translate russian arthur_2_3_fe943653:
 
     # ch_Name "Haley, good morning!"
-    ch_Name "Haley, доброе утро!"
+    ch_Name "Хейли, доброе утро!"
 
 # game/logic/events/arthur_2.rpy:260
 translate russian arthur_2_3_d8dd83a4:
 
     # Haley "Do you have plans for Dale yet?"
-    Haley "У тебя есть уже планы на Dale?"
+    Haley "У тебя есть уже планы на Дейл?"
 
 # game/logic/events/arthur_2.rpy:261
 translate russian arthur_2_3_82381200:
@@ -442,7 +442,7 @@ translate russian arthur_2_3_c15f9a7d:
 translate russian arthur_2_3_2c528bbd:
 
     # Haley "Oh, Lily, I was just looking for you!"
-    Haley "О, Lily, я как раз тебя искала!"
+    Haley "О, Лили, я как раз тебя искала!"
 
 # game/logic/events/arthur_2.rpy:266
 translate russian arthur_2_3_75813012:
@@ -472,7 +472,7 @@ translate russian arthur_2_3_f3f897ab:
 translate russian arthur_2_3_37f91fc5:
 
     # ch_Name "{i}(Hmm, so Haley's gonna be at the library all weekend?){/i}"
-    ch_Name "{i}(Хмм, Haley собирается торчать в библиотеке все выходные?){/i}"
+    ch_Name "{i}(Хмм, Хейли собирается торчать в библиотеке все выходные?){/i}"
 
 # game/logic/events/arthur_2.rpy:273
 translate russian arthur_2_3_972052a9:
@@ -484,25 +484,25 @@ translate russian arthur_2_3_972052a9:
 translate russian arthur_2_3_382ae55e:
 
     # ch_Name "{i}(On the other had, sometimes I don't even undesrand mine.){/i}"
-    ch_Name "{i}(С дрегой стороны, иногда я и свои не понимаю.){/i}"
+    ch_Name "{i}(С другой стороны, иногда я и свои не понимаю.){/i}"
 
 # game/logic/events/arthur_2.rpy:275
 translate russian arthur_2_3_69a82ab3:
 
     # ch_Name "{i}(Speaking of which, I wonder what I'll be doing this weekend?){/i}"
-    ch_Name "{i}(Кстати, об этом - а что же я буду делать на выходных?){/i}"
+    ch_Name "{i}(Кстати говоря - а что же я буду делать на выходных?){/i}"
 
 # game/logic/events/arthur_2.rpy:277
 translate russian arthur_2_3_3591cbf9:
 
     # ch_Name "{i}(Guess I'll find out in Dale.){/i}"
-    ch_Name "{i}(Видимо, я узнаю ответ на этот вопрос в Dale.){/i}"
+    ch_Name "{i}(Видимо, я узнаю ответ на этот вопрос в Дейле.){/i}"
 
 # game/logic/events/arthur_2.rpy:281
 translate russian arthur_2_3_d6a72beb:
 
     # ch_Name "Wow, wow, this is beautiful!"
-    ch_Name "Вау, Вау, как красиво!"
+    ch_Name "Вау, вау, как красиво!"
 
 # game/logic/events/arthur_2.rpy:282
 translate russian arthur_2_3_863d5fef:
@@ -550,7 +550,7 @@ translate russian arthur_2_3_7a843e21:
 translate russian arthur_2_3_dad06e80:
 
     # Jacob "We at Cordale are well aware that..."
-    Jacob "Все мы в Cordale прекрасно знаем, что..."
+    Jacob "Все мы в Кордейле прекрасно знаем, что..."
 
 # game/logic/events/arthur_2.rpy:292
 translate russian arthur_2_3_aad21c2b:
@@ -574,7 +574,7 @@ translate russian arthur_2_3_ade72805:
 translate russian arthur_2_3_94bcba85:
 
     # Jacob "The journey to Dale is not very long."
-    Jacob "Путешествие в Dale не очень долгое."
+    Jacob "Путешествие в Дейл не очень долгое."
 
 # game/logic/events/arthur_2.rpy:297
 translate russian arthur_2_3_0832f183:
@@ -598,7 +598,7 @@ translate russian arthur_2_3_d05addfc:
 translate russian arthur_2_3_c1b959f0:
 
     # Jacob "Portal magic in Cordale territory is limited as much as possible."
-    Jacob "Магия порталов на территории Cordale максимально ограничена."
+    Jacob "Магия порталов на территории Кордейла максимально ограничена."
 
 # game/logic/events/arthur_2.rpy:302
 translate russian arthur_2_3_cc8ef5ee:
@@ -610,13 +610,13 @@ translate russian arthur_2_3_cc8ef5ee:
 translate russian arthur_2_3_57d12cf9:
 
     # Jacob "But there is a special connection between the academy and Dale."
-    Jacob "Тем не менее, между школой и Dale есть особая связь."
+    Jacob "Тем не менее, между школой и Дейлом есть особая связь."
 
 # game/logic/events/arthur_2.rpy:305
 translate russian arthur_2_3_a97b44f1:
 
     # Jacob "The endless lake."
-    Jacob "Ьесконечное озеро."
+    Jacob "Бесконечное озеро."
 
 # game/logic/events/arthur_2.rpy:306
 translate russian arthur_2_3_16dc6224:
@@ -640,13 +640,13 @@ translate russian arthur_2_3_24015a42:
 translate russian arthur_2_3_0c204af1:
 
     # Jacob "You don't even want to know."
-    Jacob "Поверьте, вам не стоит этого знать."
+    Jacob "Поверьте, вам лучше этого не знать."
 
 # game/logic/events/arthur_2.rpy:312
 translate russian arthur_2_3_7bc8d5d8:
 
     # Jacob "The only vessel that can cross it is right here in front of you."
-    Jacob "Единственное судно, которое может пересечь озеро, прямо у вас перед глазами."
+    Jacob "Единственное судно, которое способно пересечь озеро, прямо у вас перед глазами."
 
 # game/logic/events/arthur_2.rpy:313
 translate russian arthur_2_3_3bacab58:
@@ -658,7 +658,7 @@ translate russian arthur_2_3_3bacab58:
 translate russian arthur_2_3_8c56aa86:
 
     # Jacob "Then the journey to Dale won't be a problem at all."
-    Jacob "И тогда путь в Dale не будет для вас проблемой."
+    Jacob "И тогда поездка в Дейл не станет для вас проблемой."
 
 # game/logic/events/arthur_2.rpy:315
 translate russian arthur_2_3_774eb7c4:
@@ -718,7 +718,7 @@ translate russian arthur_2_3_0d8a9635:
 translate russian arthur_2_3_f9fea4d0:
 
     # ch_Name "{i}(Well, Haley doesn't look scared. I think it's alright.){/i}"
-    ch_Name "{i}(Впрочем, Haley явно не боится. Видимо, всё в норме.){/i}"
+    ch_Name "{i}(Впрочем, Хейли явно не страшно. Видимо, всё в норме.){/i}"
 
 # game/logic/events/arthur_2.rpy:330
 translate russian arthur_2_3_0ab39970:
@@ -742,7 +742,7 @@ translate russian arthur_2_3_42a7bbc2:
 translate russian arthur_2_3_39e2e9bd:
 
     # ch_Name "{i}(It's so peaceful. That's how any weekend should start.){/i}"
-    ch_Name "{i}(Здесь так тихо. Вот так и должны начинаться выходные.){/i}"
+    ch_Name "{i}(Здесь так спокойно. Вот так и должны начинаться выходные.){/i}"
 
 # game/logic/events/arthur_2.rpy:335
 translate russian arthur_2_3_618c4214:
@@ -862,7 +862,7 @@ translate russian arthur_2_3_2a41ff02:
 translate russian arthur_2_3_9537c361:
 
     # ch_Name "Katrina? What the fuck is happening?!"
-    ch_Name "Kathrina? Какого чёрта тут творится?!"
+    ch_Name "Катрина? Какого чёрта тут творится?!"
 
 # game/logic/events/arthur_2.rpy:364
 translate russian arthur_2_3_8443d39a:
@@ -898,7 +898,7 @@ translate russian arthur_2_3_0dc35f8c:
 translate russian arthur_2_3_216ece1c:
 
     # Katrina "You think someone can just do that to Katina Adderin and walk away?!"
-    Katrina "Ты думаешь, что можно поступить вот так с Kathrina Adderin и не иметь последствий?!"
+    Katrina "Ты думаешь, что можно поступить вот так с Катриной Аддерин и не иметь последствий?!"
 
 # game/logic/events/arthur_2.rpy:371
 translate russian arthur_2_3_88f8330e:
@@ -916,13 +916,13 @@ translate russian arthur_2_3_4570a174:
 translate russian arthur_2_3_92ec3fc3:
 
     # Katrina "Enjoy your small victories wile you can."
-    Katrina "Наслаждайся, пока можешь, своими маленикими победами."
+    Katrina "Наслаждайся своими маленикими победами, пока ещё можешь."
 
 # game/logic/events/arthur_2.rpy:375
 translate russian arthur_2_3_1c257f4f:
 
     # Katrina "But do not forget about me."
-    Katrina "Но не забывай про меня."
+    Katrina "Но не забывай обо мне"
 
 # game/logic/events/arthur_2.rpy:376
 translate russian arthur_2_3_fd3312e8:
@@ -988,7 +988,7 @@ translate russian arthur_2_3_ce7b0e67:
 translate russian arthur_2_3_57a334e8:
 
     # Haley "You where dreaming... Was it a nightmare? "
-    Haley "Ты спал... Тебе кошмар снился?"
+    Haley "Ты спал... Тебе кошмар приснился?"
 
 # game/logic/events/arthur_2.rpy:393
 translate russian arthur_2_3_2ead44c8:
@@ -1036,7 +1036,7 @@ translate russian arthur_2_3_417e0cff:
 translate russian arthur_2_3_2fba814e:
 
     # Haley "Yeah. Everybody has already left for Dale."
-    Haley "Да. Все уже отправились в Dale."
+    Haley "Да. Все уже отправились в Дейл."
 
 # game/logic/events/arthur_2.rpy:403
 translate russian arthur_2_3_febd1634:
@@ -1084,13 +1084,13 @@ translate russian arthur_2_3_05f34be1:
 translate russian arthur_2_3_d7f5d57c:
 
     # ch_Name "I do not dare to stand between you and local library."
-    ch_Name "Как я могу осмелиться встать на пути между тобой и местной библиотекой."
+    ch_Name "Не смею вставать на пути между тобой и местной библиотекой."
 
 # game/logic/events/arthur_2.rpy:413
 translate russian arthur_2_3_f4f1bd13:
 
     # ch_Name "But maybe after you learn all about Dale."
-    ch_Name "Впрочем, может быть, после того, как ты узнаешь всё про Dale."
+    ch_Name "Впрочем, может быть, после того, как ты узнаешь всё про Дейл."
 
 # game/logic/events/arthur_2.rpy:415
 translate russian arthur_2_3_0eac045a:
@@ -1162,7 +1162,7 @@ translate russian arthur_2_3_adf707ea:
 translate russian arthur_2_3_fc6b4958:
 
     # ch_Name "{i}(I'll think about crazy old witch inside of my mind later.){/i}"
-    ch_Name "{i}(Чокнутой старой ведьмой в моей башке я озабочусь потом.){/i}"
+    ch_Name "{i}(Чокнутой старой ведьмой в своей башке я озабочусь потом.){/i}"
 
 # game/logic/events/arthur_2.rpy:430
 translate russian arthur_2_3_176569fa:
@@ -1204,7 +1204,7 @@ translate russian arthur_2_5_42bca763:
 translate russian arthur_2_5_2e1472ef:
 
     # Elijah "I'm surprised Haley could talk her into it at all."
-    Elijah "Я удивлён, как Haley сумела вообще уговорить её на это всё."
+    Elijah "Я удивлён, как Хейли сумела вообще уговорить её на это всё."
 
 # game/logic/events/arthur_2.rpy:488
 translate russian arthur_2_5_541f3cf4:
@@ -1234,7 +1234,7 @@ translate russian arthur_2_5_05a537ad:
 translate russian arthur_2_5_d1fcfa84:
 
     # Elijah "There you go. Well, it's up to you."
-    Elijah "Ну как пожелаешь, дело твоё."
+    Elijah "Ну как хочешь, дело твоё."
 
 # game/logic/events/arthur_2.rpy:498
 translate russian arthur_2_5_4845c0f2:
@@ -1252,13 +1252,13 @@ translate russian arthur_2_5_a93d50a5:
 translate russian arthur_2_5_cd0a3917:
 
     # ch_Name "{i}(I hope I didn't hurt Elijah's feelings by saying no.){/i}"
-    ch_Name "{i}(Надеюсь, я не слишком огорчил Elijah, отказав ему.){/i}"
+    ch_Name "{i}(Надеюсь, я не слишком огорчил Элайджа, отказав ему.){/i}"
 
 # game/logic/events/arthur_2.rpy:506
 translate russian arthur_2_5_a9fc412a:
 
     # ch_Name "{i}(Hmm, I hadn't noticed Elijah's bouncy ass before.){/i}"
-    ch_Name "{i}(Хмм, я раньше и не замечал, какая у Elijah упругая задница.){/i}"
+    ch_Name "{i}(Хмм, я раньше и не замечал, какая у Элайджи упругая задница.){/i}"
 
 # game/logic/events/arthur_2.rpy:507
 translate russian arthur_2_5_4190058d:
@@ -1276,7 +1276,7 @@ translate russian arthur_2_5_666e2702:
 translate russian arthur_2_5_b14e2288:
 
     # ch_Name "{i}(Damn, now all I can think about is Elijah's juicy naked ass.){/i}"
-    ch_Name "{i}(Блин, вот теперь ни о чём не могу думать, кроме сочной голой жопы Elijah.){/i}"
+    ch_Name "{i}(Блин, вот теперь ни о чём не могу думать, кроме сочной голой жопы Элайджи.){/i}"
 
 # game/logic/events/arthur_2.rpy:517
 translate russian arthur_2_5_2a180cd7:
@@ -1306,7 +1306,7 @@ translate russian arthur_2_5_e8ddb061:
 translate russian arthur_2_5_a9fc412a_1:
 
     # ch_Name "{i}(Hmm, I hadn't noticed Elijah's bouncy ass before.){/i}"
-    ch_Name "{i}(Хмм, я раньше и не замечал, какая у Elijah упругая задница.){/i}"
+    ch_Name "{i}(Хмм, я раньше и не замечал, какая у Элайджи упругая задница.){/i}"
 
 # game/logic/events/arthur_2.rpy:528
 translate russian arthur_2_5_4190058d_1:
@@ -1324,7 +1324,7 @@ translate russian arthur_2_5_666e2702_1:
 translate russian arthur_2_5_b14e2288_1:
 
     # ch_Name "{i}(Damn, now all I can think about is Elijah's juicy naked ass.){/i}"
-    ch_Name "{i}(Блин, вот теперь ни о чём не могу думать, кроме сочной голой жопы Elijah.){/i}"
+    ch_Name "{i}(Блин, вот теперь ни о чём не могу думать, кроме сочной голой жопы Элайджи.){/i}"
 
 # game/logic/events/arthur_2.rpy:535
 translate russian arthur_2_5_fe5d6983:
@@ -1426,7 +1426,7 @@ translate russian arthur_2_5_5431f94c:
 translate russian arthur_2_5_7b339b58:
 
     # ch_Name "Thanks for showing me around, Elijah."
-    ch_Name "Спасибо, что показал мне окрестности, ELijah."
+    ch_Name "Спасибо, что показал мне окрестности, Элайджа."
 
 # game/logic/events/arthur_2.rpy:557
 translate russian arthur_2_5_ceff46fd:
@@ -1528,19 +1528,19 @@ translate russian arthur_2_5_c6aa2781:
 translate russian arthur_2_5_f5a1d983:
 
     # Elijah "There's the hottest nightclub in town around the corner. Mistress Luck."
-    Elijah "Там самый зажигательный ночной клуб в городке. Госпожа Удача называется"
+    Elijah "Там за углом самый зажигательный ночной клуб в городке. Госпожа Удача называется"
 
 # game/logic/events/arthur_2.rpy:582
 translate russian arthur_2_5_ffb89690:
 
     # Elijah "The guard's a dick, but if you can get in..."
-    Elijah "Охранник мудак, но если ты сумеешь попасть внутрь..."
+    Elijah "Охранник - мудила, но если ты сумеешь попасть внутрь..."
 
 # game/logic/events/arthur_2.rpy:583
 translate russian arthur_2_5_edf1a719:
 
     # Elijah "I highly suggest you check out Sadira's. It's... unforgettable."
-    Elijah "Я настоятельно советую тебе познакомиться поближе с Sadira. Это... незабываемо."
+    Elijah "Я настоятельно советую тебе познакомиться поближе с Садирой. Это... незабываемо."
 
 # game/logic/events/arthur_2.rpy:585
 translate russian arthur_2_5_8b8fbc30:
@@ -1558,7 +1558,7 @@ translate russian strings:
 
     # game/logic/events/arthur_2.rpy:148
     old "At the moment, weekend activities are only available in Dale. To check them out - win a weekly house tournament"
-    new "На данный момент, активности в выходные дни доступны только в Dale. Чтобы их увидеть, нужно выиграть соревнование факультетов."
+    new "На данный момент, активности в выходные дни доступны только в Дейле. Чтобы их увидеть, нужно выиграть соревнование факультетов."
 
     # game/logic/events/arthur_2.rpy:149
     old "For now, we'll skip the weekends and get straight back to Monday."
@@ -1570,7 +1570,7 @@ translate russian strings:
 
     # game/logic/events/arthur_2.rpy:503
     old "Check out Elijah's booty"
-    new "Заценить задницу Elijah"
+    new "Заценить задницу Элайджи"
 
     # game/logic/events/arthur_2.rpy:503
     old "Don't look"
