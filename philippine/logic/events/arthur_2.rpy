@@ -466,289 +466,289 @@ translate philippine arthur_2_3_ace9c754:
 translate philippine arthur_2_3_f3f897ab:
 
     # ch_Name "Bye..."
-    ch_Name ""
+    ch_Name "Paalam..."
 
 # game/logic/events/arthur_2.rpy:272
 translate philippine arthur_2_3_37f91fc5:
 
     # ch_Name "{i}(Hmm, so Haley's gonna be at the library all weekend?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm, kahit doon pupunta pala si Haley's sa aklatan?){/i}"
 
 # game/logic/events/arthur_2.rpy:273
 translate philippine arthur_2_3_972052a9:
 
     # ch_Name "{i}(Sometimes I don't understand her interests.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Minsan hindi ko maiintindihan ang kanyang isip.){/i}"
 
 # game/logic/events/arthur_2.rpy:274
 translate philippine arthur_2_3_382ae55e:
 
     # ch_Name "{i}(On the other had, sometimes I don't even undesrand mine.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Minsan hindi ko rin naiintindihan ang akin.){/i}"
 
 # game/logic/events/arthur_2.rpy:275
 translate philippine arthur_2_3_69a82ab3:
 
     # ch_Name "{i}(Speaking of which, I wonder what I'll be doing this weekend?){/i}"
-    ch_Name ""
+    ch_Name ""{i}(Oo nga pala, ano ba ang gagawin ko doon?.){/i}""
 
 # game/logic/events/arthur_2.rpy:277
 translate philippine arthur_2_3_3591cbf9:
 
     # ch_Name "{i}(Guess I'll find out in Dale.){/i}"
-    ch_Name ""
+    ch_Name ""{i}(Malalaman natin.){/i}""
 
 # game/logic/events/arthur_2.rpy:281
 translate philippine arthur_2_3_d6a72beb:
 
     # ch_Name "Wow, wow, this is beautiful!"
-    ch_Name ""
+    ch_Name "Napaganda naman!"
 
 # game/logic/events/arthur_2.rpy:282
 translate philippine arthur_2_3_863d5fef:
 
     # Jacob "Impressed?"
-    Jacob ""
+    Jacob "Sa tingin mo?"
 
 # game/logic/events/arthur_2.rpy:283
 translate philippine arthur_2_3_c9725451:
 
     # Jacob "This ship is my pride."
-    Jacob ""
+    Jacob "Ito ang aking ipinagmamalaking barko."
 
 # game/logic/events/arthur_2.rpy:285
 translate philippine arthur_2_3_444151a5:
 
     # ch_Name "Why, sir?"
-    ch_Name ""
+    ch_Name "Bakit?"
 
 # game/logic/events/arthur_2.rpy:286
 translate philippine arthur_2_3_a9865265:
 
     # Jacob "It's a system I designed."
-    Jacob ""
+    Jacob "Ako ang nagdisenyo ng sistema."
 
 # game/logic/events/arthur_2.rpy:287
 translate philippine arthur_2_3_dc2c2252:
 
     # ch_Name "What system?"
-    ch_Name ""
+    ch_Name "Anong sistema?"
 
 # game/logic/events/arthur_2.rpy:288
 translate philippine arthur_2_3_71026dc1:
 
     # Jacob "You'll hear about it in a moment. I think everyone needs this information."
-    Jacob ""
+    Jacob "Malalaman mo mamaya. Sasabihin ko naman sa lahat."
 
 # game/logic/events/arthur_2.rpy:290
 translate philippine arthur_2_3_7a843e21:
 
     # Jacob "Students! Pay attention."
-    Jacob ""
+    Jacob "Mga estudyante! Makinig kayo."
 
 # game/logic/events/arthur_2.rpy:291
 translate philippine arthur_2_3_dad06e80:
 
     # Jacob "We at Cordale are well aware that..."
-    Jacob ""
+    Jacob "Alam naman ng mga guro sa Cordale na..."
 
 # game/logic/events/arthur_2.rpy:292
 translate philippine arthur_2_3_aad21c2b:
 
     # Jacob "...students have to work hard to become great wizards."
-    Jacob ""
+    Jacob "...nagsisikap ang mga estudyante para sa kanilang kinabukasan."
 
 # game/logic/events/arthur_2.rpy:293
 translate philippine arthur_2_3_6df880d7:
 
     # Jacob "So you need to get plenty of rest, too."
-    Jacob ""
+    Jacob "Kaya dapat may sapat kayong oras maghinga."
 
 # game/logic/events/arthur_2.rpy:295
 translate philippine arthur_2_3_ade72805:
 
     # Jacob "You, as the winners of the house competition, can board the ship."
-    Jacob ""
+    Jacob "Kayo, ang nanalo sa paligsahan, ay makakapasok sa barko."
 
 # game/logic/events/arthur_2.rpy:296
 translate philippine arthur_2_3_94bcba85:
 
     # Jacob "The journey to Dale is not very long."
-    Jacob ""
+    Jacob "Hindi matagal ang biyahe pupuntang Dale."
 
 # game/logic/events/arthur_2.rpy:297
 translate philippine arthur_2_3_0832f183:
 
     # Jacob "And this ship has everything you need so you don't get bored while you're sailing."
-    Jacob ""
+    Jacob "At nandito naman ang lahat ng kailangan ninyo para mapalipas ninyo ang oras."
 
 # game/logic/events/arthur_2.rpy:299
 translate philippine arthur_2_3_5feb7aea:
 
     # Lily "But why a ship at all? We could just teleport..."
-    Lily ""
+    Lily "Pero bakit may barko? Hindi pa pwedeng gumamit ng teleportasyon?"
 
 # game/logic/events/arthur_2.rpy:300
 translate philippine arthur_2_3_d05addfc:
 
     # Jacob "Thanks for that interesting point!"
-    Jacob ""
+    Jacob "Mabuting tanong!"
 
 # game/logic/events/arthur_2.rpy:301
 translate philippine arthur_2_3_c1b959f0:
 
     # Jacob "Portal magic in Cordale territory is limited as much as possible."
-    Jacob ""
+    Jacob "Limitado ang paggamit ng mga lagusan sa loob ng Cordale."
 
 # game/logic/events/arthur_2.rpy:302
 translate philippine arthur_2_3_cc8ef5ee:
 
     # Jacob "It's a security measure."
-    Jacob ""
+    Jacob "Para sa seguridad."
 
 # game/logic/events/arthur_2.rpy:303
 translate philippine arthur_2_3_57d12cf9:
 
     # Jacob "But there is a special connection between the academy and Dale."
-    Jacob ""
+    Jacob "Pero may nag-iisang koneksyon sa pagitan ng akademiya at Dale."
 
 # game/logic/events/arthur_2.rpy:305
 translate philippine arthur_2_3_a97b44f1:
 
     # Jacob "The endless lake."
-    Jacob ""
+    Jacob "Ang lawang walang hanggan."
 
 # game/logic/events/arthur_2.rpy:306
 translate philippine arthur_2_3_16dc6224:
 
     # ch_Name "What is that?"
-    ch_Name ""
+    ch_Name "Bakit?"
 
 # game/logic/events/arthur_2.rpy:307
 translate philippine arthur_2_3_83460d71:
 
     # Jacob "My own invention."
-    Jacob ""
+    Jacob "Ako ang gumawa."
 
 # game/logic/events/arthur_2.rpy:309
 translate philippine arthur_2_3_24015a42:
 
     # Jacob "The lake seems small, but anyone who decides to swim across it..."
-    Jacob ""
+    Jacob "Parang maliit lang ang lawa, pero kapag sinubukan mong lumangoy sa kabila..."
 
 # game/logic/events/arthur_2.rpy:310
 translate philippine arthur_2_3_0c204af1:
 
     # Jacob "You don't even want to know."
-    Jacob ""
+    Jacob "Hindi ninyo gustong malaman."
 
 # game/logic/events/arthur_2.rpy:312
 translate philippine arthur_2_3_7bc8d5d8:
 
     # Jacob "The only vessel that can cross it is right here in front of you."
-    Jacob ""
+    Jacob "Ito lang ang makapagtawid ng lawa."
 
 # game/logic/events/arthur_2.rpy:313
 translate philippine arthur_2_3_3bacab58:
 
     # Jacob "Just don't jump overboard unnecessarily."
-    Jacob ""
+    Jacob "'Wag lang kayong pumasok sa tubig."
 
 # game/logic/events/arthur_2.rpy:314
 translate philippine arthur_2_3_8c56aa86:
 
     # Jacob "Then the journey to Dale won't be a problem at all."
-    Jacob ""
+    Jacob "At wala na kayong problema sa pagbiyahe ninyo."
 
 # game/logic/events/arthur_2.rpy:315
 translate philippine arthur_2_3_774eb7c4:
 
     # Jacob "Any other questions?"
-    Jacob ""
+    Jacob "May tanong pa ba kayo?"
 
 # game/logic/events/arthur_2.rpy:317
 translate philippine arthur_2_3_48da8f22:
 
     # Haley "Can I get on board now?"
-    Haley ""
+    Haley "Makakasakay na ba ako?"
 
 # game/logic/events/arthur_2.rpy:318
 translate philippine arthur_2_3_85c97756:
 
     # Jacob "Of course. Come on in and take your seats."
-    Jacob ""
+    Jacob "Siyempre. Humanap ng upuan mo."
 
 # game/logic/events/arthur_2.rpy:319
 translate philippine arthur_2_3_cbf16cc0:
 
     # Jacob "We'll be departing in exactly 15 minutes."
-    Jacob ""
+    Jacob "Aalis na tayo sa 15 minuto, eksakto."
 
 # game/logic/events/arthur_2.rpy:320
 translate philippine arthur_2_3_076e3de8:
 
     # Jacob "Did you hear that?"
-    Jacob ""
+    Jacob "Narinig niyo ba?"
 
 # game/logic/events/arthur_2.rpy:321
 translate philippine arthur_2_3_f78f373c:
 
     # ch_Name "Yes, yes."
-    ch_Name ""
+    ch_Name "Oo."
 
 # game/logic/events/arthur_2.rpy:324
 translate philippine arthur_2_3_f3a662d1:
 
     # ch_Name "{i}(Well, it's time to go to town!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aalis na tayo!){/i}"
 
 # game/logic/events/arthur_2.rpy:326
 translate philippine arthur_2_3_f374b3f7:
 
     # ch_Name "{i}(Wow, I've never been on the ship before.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi pa ako nakapagsakay ng barko.){/i}"
 
 # game/logic/events/arthur_2.rpy:327
 translate philippine arthur_2_3_0d8a9635:
 
     # ch_Name "{i}(It's shaking when people get on the deck... Should it be like that?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Gumagalaw ang barko kapag may sasakay... Tama ba 'yan?){/i}"
 
 # game/logic/events/arthur_2.rpy:328
 translate philippine arthur_2_3_f9fea4d0:
 
     # ch_Name "{i}(Well, Haley doesn't look scared. I think it's alright.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi natatakot is Haley. Baka walang problema naman.){/i}"
 
 # game/logic/events/arthur_2.rpy:330
 translate philippine arthur_2_3_0ab39970:
 
     # ch_Name "{i}(Wow! What a view!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wow! Ang ganda!){/i}"
 
 # game/logic/events/arthur_2.rpy:331
 translate philippine arthur_2_3_95360302:
 
     # ch_Name "{i}(Who might've thought that a boat trip could be so picturesque.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parang larawan na makikita sa loob ng galerya.){/i}"
 
 # game/logic/events/arthur_2.rpy:332
 translate philippine arthur_2_3_42a7bbc2:
 
     # ch_Name "{i}(I wish I had my camera with me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sana nandito pa ang kamera ko.){/i}"
 
 # game/logic/events/arthur_2.rpy:334
 translate philippine arthur_2_3_39e2e9bd:
 
     # ch_Name "{i}(It's so peaceful. That's how any weekend should start.){/i}"
-    ch_Name ""
+    ch_Name ""{i}(Ang tahimik. Napakasarap ng kapayapaan.){/i}""
 
 # game/logic/events/arthur_2.rpy:335
 translate philippine arthur_2_3_618c4214:
 
     # ch_Name "{i}(I might start enjoying winning house tournaments.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Baka magsimula na akong magtamasa ng pagnanalo sa paligsahan.){/i}"
 
 # game/logic/events/arthur_2.rpy:337
 translate philippine arthur_2_3_b860604d:
@@ -760,31 +760,31 @@ translate philippine arthur_2_3_b860604d:
 translate philippine arthur_2_3_c3e92aac:
 
     # ch_Name "{i}(My head...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ang ulo ko...){/i}"
 
 # game/logic/events/arthur_2.rpy:339
 translate philippine arthur_2_3_8bc4bb1a:
 
     # ch_Name "{i}(It's spinning like a record.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Umiikot tulad ng disko...){/i}"
 
 # game/logic/events/arthur_2.rpy:340
 translate philippine arthur_2_3_a84083ef:
 
     # ch_Name "{i}(Like a broken one. Damn...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nasira na disko. Bwisit...){/i}"
 
 # game/logic/events/arthur_2.rpy:342
 translate philippine arthur_2_3_7f9042d8:
 
     # ch_Name "{i}(Fuck... What's happening?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Puta... Ano ba ang nangyayari?){/i}"
 
 # game/logic/events/arthur_2.rpy:343
 translate philippine arthur_2_3_197ab54b:
 
     # ch_Name "{i}(Am I seasick?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Lasing sa ito sa dagat?){/i}"
 
 # game/logic/events/arthur_2.rpy:345
 translate philippine arthur_2_3_78205a63:
@@ -796,7 +796,7 @@ translate philippine arthur_2_3_78205a63:
 translate philippine arthur_2_3_50bc517c:
 
     # ch_Name "I'm gonna..."
-    ch_Name ""
+    ch_Name "Ako ay..."
 
 # game/logic/events/arthur_2.rpy:347
 translate philippine arthur_2_3_027b1c56:
@@ -808,31 +808,31 @@ translate philippine arthur_2_3_027b1c56:
 translate philippine arthur_2_3_57656768:
 
     # ch_Name "{i}(What the fuck. Where am I?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Puta. Nasaan ba ako?){/i}"
 
 # game/logic/events/arthur_2.rpy:352
 translate philippine arthur_2_3_26210414:
 
     # ch_Name "{i}(Is this the place from inside the Sorting Foliant?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ito ba ang lugar sa loob ng Sorting Foliant?){/i}"
 
 # game/logic/events/arthur_2.rpy:353
 translate philippine arthur_2_3_4d99e310:
 
     # ch_Name "{i}(Why can't I move my arms and legs...){/i}"
-    ch_Name ""
+    ch_Name "{i}('Di ko magagalaw ang mga kamay ko...){/i}"
 
 # game/logic/events/arthur_2.rpy:354
 translate philippine arthur_2_3_2bde5603:
 
     # ch_Name "{i}(Something moving squeezes my body...){/i}"
-    ch_Name ""
+    ch_Name "{i}(May humahawak sa akin...){/i}"
 
 # game/logic/events/arthur_2.rpy:356
 translate philippine arthur_2_3_3d590dc8:
 
     # ch_Name "WHAT THE FUCK?!"
-    ch_Name ""
+    ch_Name "PUTANG INA?!"
 
 # game/logic/events/arthur_2.rpy:357
 translate philippine arthur_2_3_fa255266:
@@ -844,97 +844,97 @@ translate philippine arthur_2_3_fa255266:
 translate philippine arthur_2_3_0261c977:
 
     # Katrina "That what I was waiting for."
-    Katrina ""
+    Katrina "'Yan ang hinihintay ko."
 
 # game/logic/events/arthur_2.rpy:360
 translate philippine arthur_2_3_8700343a:
 
     # Katrina "What's the matter now?"
-    Katrina ""
+    Katrina "Ano ba?"
 
 # game/logic/events/arthur_2.rpy:361
 translate philippine arthur_2_3_2a41ff02:
 
     # Katrina " You're not so confident anymore!"
-    Katrina ""
+    Katrina "Parang hindi ka na matapang!"
 
 # game/logic/events/arthur_2.rpy:363
 translate philippine arthur_2_3_9537c361:
 
     # ch_Name "Katrina? What the fuck is happening?!"
-    ch_Name ""
+    ch_Name "Katrina? Ano ba ang ginagawa mo?!"
 
 # game/logic/events/arthur_2.rpy:364
 translate philippine arthur_2_3_8443d39a:
 
     # ch_Name "Where am I? "
-    ch_Name ""
+    ch_Name "Nasaan ako?"
 
 # game/logic/events/arthur_2.rpy:365
 translate philippine arthur_2_3_990c4e05:
 
     # ch_Name "Is this a dream?"
-    ch_Name ""
+    ch_Name "Panaginip ba ito?"
 
 # game/logic/events/arthur_2.rpy:367
 translate philippine arthur_2_3_738b8f79:
 
     # Katrina "Little puppy, why should I bother myself answering you?"
-    Katrina ""
+    Katrina "Bakit ba ako sasagot sa iyo?"
 
 # game/logic/events/arthur_2.rpy:368
 translate philippine arthur_2_3_dd4e8edc:
 
     # Katrina "You've insulted my pride. Crushed my plans."
-    Katrina ""
+    Katrina "Sinaktan mo ako. Sinira ang mga plano ko. "
 
 # game/logic/events/arthur_2.rpy:369
 translate philippine arthur_2_3_0dc35f8c:
 
     # Katrina "Chose my enemy and exceeded my house!"
-    Katrina ""
+    Katrina "PInili ang kalaban ko ang tinalo ang aking angkan!"
 
 # game/logic/events/arthur_2.rpy:370
 translate philippine arthur_2_3_216ece1c:
 
     # Katrina "You think someone can just do that to Katina Adderin and walk away?!"
-    Katrina ""
+    Katrina "Akala mo ba na nakatakas ka mula kay Katrina Adderin?!"
 
 # game/logic/events/arthur_2.rpy:371
 translate philippine arthur_2_3_88f8330e:
 
     # ch_Name "Wait, let's talk..."
-    ch_Name ""
+    ch_Name "Teka, pag-usapan muna natin ito..."
 
 # game/logic/events/arthur_2.rpy:373
 translate philippine arthur_2_3_4570a174:
 
     # Katrina "You've said all you had to say. boy."
-    Katrina ""
+    Katrina "Sinabi mo na ang lahat ng masasabi mo."
 
 # game/logic/events/arthur_2.rpy:374
 translate philippine arthur_2_3_92ec3fc3:
 
     # Katrina "Enjoy your small victories wile you can."
-    Katrina ""
+    Katrina "Tangkilikin ang iyong tagumpay hangga't kaya mo."
 
 # game/logic/events/arthur_2.rpy:375
 translate philippine arthur_2_3_1c257f4f:
 
     # Katrina "But do not forget about me."
-    Katrina ""
+    Katrina "Ngunit huwag mo akong kalimutan."
 
 # game/logic/events/arthur_2.rpy:376
 translate philippine arthur_2_3_fd3312e8:
 
     # Katrina "Because if I can get you from underworld..."
-    Katrina ""
+    Katrina "Kasi kapag makukuha kita mula sa impiyerno..."
 
 # game/logic/events/arthur_2.rpy:377
 translate philippine arthur_2_3_d7e6f74a:
 
     # Katrina "Imagine what I'll do to you when I get out of here!"
-    Katrina ""
+    Katrina "Isipin mo ang magagawa ko kapag makalabas ako!"
 
 # game/logic/events/arthur_2.rpy:379
 translate philippine arthur_2_3_f1160c60:
