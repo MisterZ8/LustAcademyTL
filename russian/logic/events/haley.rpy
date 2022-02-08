@@ -7060,7 +7060,7 @@ translate russian Haley_14_label_ec1d74f6:
 translate russian Haley_14_label_2f628b29:
 
     # Haley "Shhh!"
-    Haley "Шшшшш!"
+    Haley "Тссс!"
 
 # game/logic/events/haley.rpy:2180
 translate russian Haley_14_label_955b8c0b:
