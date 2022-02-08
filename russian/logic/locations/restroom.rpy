@@ -10,7 +10,7 @@ translate russian restroom_stump_label_6bcbc6d0:
 translate russian restroom_label_2b70a15b:
 
     # ch_Name "Don, hi!"
-    ch_Name "Don, привет!"
+    ch_Name "Дон, привет!"
 
 # game/logic/locations/restroom.rpy:15
 translate russian restroom_label_ecefc0d1:
@@ -46,7 +46,7 @@ translate russian restroom_label_3eb81665:
 translate russian restroom_label_0c152f26:
 
     # ch_Name "The thing is, Olivia came to see me..."
-    ch_Name "Такое дело, Olivia зашла ко мне..."
+    ch_Name "Такое дело, Оливия зашла ко мне..."
 
 # game/logic/locations/restroom.rpy:27
 translate russian restroom_label_ccfe8b04:
@@ -82,7 +82,7 @@ translate russian restroom_label_0aa19b5e:
 translate russian restroom_label_f5f74f6c:
 
     # Don "And since you're 18 and working..."
-    Don "А если тебе 18 и ты будешь работать..."
+    Don "А если тебе 18 и ты станешь работать..."
 
 # game/logic/locations/restroom.rpy:39
 translate russian restroom_label_e0555c31:
@@ -106,7 +106,7 @@ translate russian restroom_label_626491b9:
 translate russian restroom_label_1fb30e0f:
 
     # ch_Name "But hang on, Don- I still want to study!"
-    ch_Name "Но подожди, Don - я всё ещё хочу учиться!"
+    ch_Name "Но подожди, Дон - я всё ещё хочу учиться!"
 
 # game/logic/locations/restroom.rpy:47
 translate russian restroom_label_fd5a0c7e:
@@ -136,19 +136,19 @@ translate russian restroom_label_9c8b6339:
 translate russian restroom_label_e3052bd7:
 
     # Don "There are no \"If’s\" in history, boy."
-    Don "Нет никаких \"Если\" в истории, парень.
+    Don "В истории нет никаких \"Если\", парень."
 
 # game/logic/locations/restroom.rpy:57
 translate russian restroom_label_5e4ace9f:
 
     # Don "You're 18. You don't study and you're sitting on my neck."
-    Don "Тебе 18 лет. Ты не учишься и ты сидишь у меня на шее.
+    Don "Тебе 18 лет. Ты не учишься и ты сидишь у меня на шее."
 
 # game/logic/locations/restroom.rpy:59
 translate russian restroom_label_2572973c:
 
     # Don "I'm tired of it. I won't allow it anymore."
-    Don "Я от этого устал. Больше я этого не допущу.
+    Don "Я от этого устал. Больше я этого не допущу."
 
 # game/logic/locations/restroom.rpy:61
 translate russian restroom_label_cf56f434:
@@ -214,7 +214,7 @@ translate russian restroom_label_08b46c47:
 translate russian restroom_label_53b0ab25:
 
     # ch_Name "If I have to pay your rent."
-    ch_Name "Если я должен тебе платить за аренду."
+    ch_Name "Если я должен буду тебе платить за аренду."
 
 # game/logic/locations/restroom.rpy:89
 translate russian restroom_label_16f04a0d:
@@ -226,7 +226,7 @@ translate russian restroom_label_16f04a0d:
 translate russian restroom_label_8d9ed8c8:
 
     # ch_Name "And I'll have to keep paying you."
-    ch_Name "И мне придётся снова и снова платить тебе."
+    ch_Name "И мне придётся вновь и вновь платить тебе."
 
 # game/logic/locations/restroom.rpy:93
 translate russian restroom_label_3bb46233:
@@ -280,7 +280,7 @@ translate russian restroom_label_a99eee17:
 translate russian restroom_menu_2_label_527c060b:
 
     # ch_Name "Are you sure you got all the facts straight, Don?!"
-    ch_Name "Ты уверен, что ты меня правильно понял, Don?!"
+    ch_Name "Ты уверен, что ты меня правильно понял, Дон?!"
 
 # game/logic/locations/restroom.rpy:114
 translate russian restroom_menu_2_label_f87461fa:
@@ -292,7 +292,7 @@ translate russian restroom_menu_2_label_f87461fa:
 translate russian restroom_menu_2_label_0843679a:
 
     # ch_Name "If someone hadn't saved money on my rehabilitation."
-    ch_Name "Если бы кое-кто не отложил деньги на моё восстановление."
+    ch_Name "Если бы кое-кто не сэкономил денег на моей реабилитации."
 
 # game/logic/locations/restroom.rpy:118
 translate russian restroom_menu_2_label_0252acee:
@@ -424,7 +424,7 @@ translate russian restroom_menu_3_label_1f8ee931:
 translate russian restroom_menu_3_label_f708fe02:
 
     # ch_Name "{i}(Shove your \"welcome to adulthood\" up your ass.){/i}"
-    ch_Name "{i}(В жопу себе засунь своё \"добро пожаловать во взрослую жизнь\".){/i}"
+    ch_Name "{i}(В очко себе засунь своё \"добро пожаловать во взрослую жизнь\".){/i}"
 
 # game/logic/locations/restroom.rpy:166
 translate russian restroom_menu_3_label_41ea1485:
@@ -436,7 +436,7 @@ translate russian restroom_menu_3_label_41ea1485:
 translate russian restroom_menu_3_label_24687b0f:
 
     # ch_Name "{i}(I wonder how you'd act if it were Ashley who got hurt instead?){/i}"
-    ch_Name "{i}(Интересно, как бы ты себя вёл, если бы травма была не у меня, а у Ashley?){/i}"
+    ch_Name "{i}(Интересно, как бы ты себя вёл, если бы травма была не у меня, а у Эшли?){/i}"
 
 translate russian strings:
 
@@ -447,4 +447,3 @@ translate russian strings:
     # game/logic/locations/restroom.rpy:63
     old "Object sharply"
     new "Возразить резко"
-
