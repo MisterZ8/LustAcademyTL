@@ -4,13 +4,13 @@
 translate russian ashlie_room_label_457043ad:
 
     # ch_Name "{i}(Ashley's probably in the middle of the training session. I don't want to bother her.){/i}"
-    ch_Name "{i}(Ashley наверняка сейчас тренируется. Не хотелось бы её беспокоить.){/i}"
+    ch_Name "{i}(Эшли наверняка сейчас тренируется. Не хотелось бы её беспокоить.){/i}"
 
 # game/logic/locations/ashlie_room.rpy:14
 translate russian ashlie_room_label_67e55910:
 
     # ch_Name "{i}(Ashley's usually training around this time.){/i}"
-    ch_Name "{i}(Ashley обычно тренируется примерно в это время.){/i}"
+    ch_Name "{i}(Эшли обычно тренируется примерно в это время.){/i}"
 
 # game/logic/locations/ashlie_room.rpy:15
 translate russian ashlie_room_label_18dd7006:
@@ -34,7 +34,7 @@ translate russian ashlie_room_label_ad35e680:
 translate russian ashlie_room_label_0539956b:
 
     # ch_Name "{i}(Ashley in her finest - so graceful!){/i}"
-    ch_Name "{i}(Ashley во всей своей красе - так грациозна!){/i}"
+    ch_Name "{i}(Эшли во всей своей красе - так грациозна!){/i}"
 
 # game/logic/locations/ashlie_room.rpy:44
 translate russian ashlie_room_label_1e136241:
@@ -46,7 +46,7 @@ translate russian ashlie_room_label_1e136241:
 translate russian ashlie_room_label_58a2b055:
 
     # ch_Name "{i}(Alas, Don won't wait too long.){/i}"
-    ch_Name "{i}(Увы, Don не станет долго ждать.){/i}"
+    ch_Name "{i}(Увы, Дон не станет долго ждать.){/i}"
 
 # game/logic/locations/ashlie_room.rpy:47
 translate russian ashlie_room_label_7f0478cb:
@@ -58,5 +58,4 @@ translate russian ashlie_room_label_7f0478cb:
 translate russian ashlie_room_label_de7a2503:
 
     # ch_Name "{i}(Don's probably waiting for me in the living room.){/i}"
-    ch_Name "{i}(Don наверняка ждёт меня в гостиной.){/i}"
-
+    ch_Name "{i}(Дон наверняка ждёт меня в гостиной.){/i}"
