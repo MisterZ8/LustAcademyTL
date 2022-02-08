@@ -4,103 +4,103 @@
 translate spanish parents_room_cupboard_1_label_95946a00:
 
     # ch_Name "{i}(At least I know they're not trying to kick me out to make room for a new baby...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Al menos se que no me están intentando echar para tener espacio para un bebe...){/i}"
 
 # game/logic/main_interface/screen.rpy:2258
 translate spanish parents_room_cupboard_1_label_df1f2ac7:
 
     # ch_Name "{i}(These files are probably older than me. Nothing intresting.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parece que estos archivos tienen más años que yo. Nada interesante.){/i}"
 
 # game/logic/main_interface/screen.rpy:2262
 translate spanish parents_room_cupboard_1_label_80034104:
 
     # ch_Name "{i}(Never saw any of them read a single book, so It's probably an organizer...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Esto debe ser un archivador por que nunca les he visto leer un libro...){/i}"
 
 # game/logic/main_interface/screen.rpy:2284
 translate spanish parents_room_cupboard_2_label_e95da604:
 
     # ch_Name "{i}(To take or not to take, that is the question...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Coger o no coger, esa es la cuestión...){/i}"
 
 # game/logic/main_interface/screen.rpy:2288
 translate spanish parents_room_cupboard_2_label_48d20053:
 
     # ch_Name "{i}(Bingo! There goes the initial rent for the room.){/i}"
-    ch_Name ""
+    ch_Name "{i}(¡Bingo! Ya tengo el primer pago del alquiler.){/i}"
 
 # game/logic/main_interface/screen.rpy:2298
 translate spanish parents_room_cupboard_2_label_d0276405:
 
     # ch_Name "{i}(Never undestood why Olivia needs to keep so much in her purse...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nunca he entendido por que Olivia necesita llevar tanto en el bolso...){/i}"
 
 # game/logic/main_interface/screen.rpy:2299
 translate spanish parents_room_cupboard_2_label_51be7498:
 
     # ch_Name "{i}(Considering the fact, that she barely leaves the house...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Considerando el hecho de que ella se acaba de ir de casa...){/i}"
 
 # game/logic/main_interface/screen.rpy:2309
 translate spanish parents_room_photo_label_6bfb4140:
 
     # ch_Name "{i}(Photo of Ashley from her last competition...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Foto de la última competición de Ashley...){/i}"
 
 # game/logic/main_interface/screen.rpy:2311
 translate spanish parents_room_photo_label_87645085:
 
     # ch_Name "{i}(She's so flexible!){/i}"
-    ch_Name ""
+    ch_Name "{i}(¡Es super flexsible!){/i}"
 
 # game/logic/main_interface/screen.rpy:2313
 translate spanish parents_room_photo_label_e21e4cd8:
 
     # ch_Name "{i}(I wonder where else she can put this agility in use...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Me pregunto de que otras maneras puede usar esa agilidad...){/i}"
 
 # game/logic/main_interface/screen.rpy:2321
 translate spanish parents_room_painting_label_4cff181a:
 
     # ch_Name "{i}(Don's favourite painting.){/i}"
-    ch_Name ""
+    ch_Name "{i}(El cuadro favorito de Don.){/i}"
 
 # game/logic/main_interface/screen.rpy:2323
 translate spanish parents_room_painting_label_3becb43f:
 
     # ch_Name "{i}(He is very proud that his ancestors were among the first colonists.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Está super orgulloso de que sus antepasados estuvieran entre los primeros colonizadores.){/i}"
 
 # game/logic/main_interface/screen.rpy:2325
 translate spanish parents_room_painting_label_0fe9bb40:
 
     # ch_Name "{i}(I remember him boasting that the man on the white horse was his great-great-great grandfather.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Recuerdo como se jactaba de que el hombre del caballo blanco era su tatara-tatara-tatara abuelo.){/i}"
 
 # game/logic/main_interface/screen.rpy:2327
 translate spanish parents_room_painting_label_07e397eb:
 
     # ch_Name "{i}(Scumbag never heard of googling by the picture.){/i}"
-    ch_Name ""
+    ch_Name "{i}(El muy capullo nunca pensó en googlear el cuadro.){/i}"
 
 # game/logic/main_interface/screen.rpy:2329
 translate spanish parents_room_painting_label_fa2857d2:
 
     # ch_Name "{i}(The painting was sold on Craigslist for $15 few years ago.){/i}"
-    ch_Name ""
+    ch_Name "{i}(El cuadro fue vendido hace unos años en Craigslist por 15$.){/i}"
 
 # game/logic/main_interface/screen.rpy:2331
 translate spanish parents_room_painting_label_fa82a002:
 
     # ch_Name "{i}(I wonder what else he lied about?){/i}"
-    ch_Name ""
+    ch_Name "{i}(¿Sobre que más habrá mentido?){/i}"
 
 # game/logic/main_interface/screen.rpy:2339
 translate spanish bath_breth_label_2e96eb7f:
 
     # ch_Name "{i}(Ashley seems to have forgotten to hide her toothbrush.){/i}"
-    ch_Name ""
+    ch_Name "{i}("
 
 # game/logic/main_interface/screen.rpy:2340
 translate spanish bath_breth_label_7f1dded4:
