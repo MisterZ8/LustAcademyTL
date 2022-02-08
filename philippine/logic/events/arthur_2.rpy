@@ -16,259 +16,259 @@ translate philippine arthur_2_d007b8f0:
 translate philippine arthur_2_9f954dd2:
 
     # Elijah "Yo, [Name]! Rise and shine!"
-    Elijah ""
+    Elijah "Yo, [Name]! Gumising ka na!"
 
 # game/logic/events/arthur_2.rpy:47
 translate philippine arthur_2_e990ff8f:
 
     # ch_Name "What the hell, Isn't it too early?"
-    ch_Name ""
+    ch_Name "Diyos ko, masyadong maaga pa? "
 
 # game/logic/events/arthur_2.rpy:48
 translate philippine arthur_2_2485cfe9:
 
     # Elijah "If you don't want to miss the principal's speech, it's not."
-    Elijah ""
+    Elijah "Kung hindi mo gusto marinig ang sabihing ng principal, hindi."
 
 # game/logic/events/arthur_2.rpy:50
 translate philippine arthur_2_9257a1f9:
 
     # ch_Name "Shit. I'll be in the hall in a minute."
-    ch_Name ""
+    ch_Name "Bwisit. Sandali lang."
 
 # game/logic/events/arthur_2.rpy:51
 translate philippine arthur_2_c78a1ce3:
 
     # Elijah "Alright, I'm waiting for you."
-    Elijah ""
+    Elijah "Sige, maghihintay lang ako"
 
 # game/logic/events/arthur_2.rpy:55
 translate philippine arthur_2_36d985d4:
 
     # Arthur "Greetings, students!"
-    Arthur ""
+    Arthur "Magandang umaga, mga estudyante!"
 
 # game/logic/events/arthur_2.rpy:56
 translate philippine arthur_2_310b1595:
 
     # Arthur "I'm sure you're wondering why I've gathered you all here today!"
-    Arthur ""
+    Arthur "Sigurado ako na nagtataka kayo kung bakit ako nagtawag ng pagpulong!"
 
 # game/logic/events/arthur_2.rpy:58
 translate philippine arthur_2_c7b1aca6:
 
     # Arthur "Every Saturday morning, we summarise the results of our traditional house tournament."
-    Arthur ""
+    Arthur "Bawat Sabado, tinatala namin ang resulta ng paligsahan ng mga angkan."
 
 # game/logic/events/arthur_2.rpy:59
 translate philippine arthur_2_6dfcc04f:
 
     # Arthur "In a few moments, we will announce the final results."
-    Arthur ""
+    Arthur "Sa loob ng ilang minuto, malalaman na natin kung sino ang nanalo."
 
 # game/logic/events/arthur_2.rpy:61
 translate philippine arthur_2_364f1bc9:
 
     # Arthur "But first, I'd like to speak on behalf of Сordale's council."
-    Arthur ""
+    Arthur "Ngunit una, magsasalita ako sa ngalan ng konseho ng Cordale."
 
 # game/logic/events/arthur_2.rpy:62
 translate philippine arthur_2_bf0a70b2:
 
     # Arthur "We are incredibly proud of your dedication and hard work."
-    Arthur ""
+    Arthur "Ipinagmamalaki naman ang inyong sikap at dedikasyon."
 
 # game/logic/events/arthur_2.rpy:64
 translate philippine arthur_2_e472d89a:
 
     # Arthur "Competition is, indeed, one of the keys to unlock your full potential."
-    Arthur ""
+    Arthur "Talagang nagpapakita ng kakayahan ang kompetisyon."
 
 # game/logic/events/arthur_2.rpy:65
 translate philippine arthur_2_53fa4e38:
 
     # Arthur "By participating in it, you can show your diligence and strength."
-    Arthur ""
+    Arthur "Sa pagsasali ninyo, pinapakita ninyo ang iyong lakas at sipag."
 
 # game/logic/events/arthur_2.rpy:66
 translate philippine arthur_2_f6175ffb:
 
     # Arthur "We are happy to be a part of your winding path of discovering true power."
-    Arthur ""
+    Arthur "Maligaya kaming makatulong sa iyong mga daan para makahanap ng tunay na lakas."
 
 # game/logic/events/arthur_2.rpy:68
 translate philippine arthur_2_c2bc33b6:
 
     # Arthur "We've calculated the total points for each House."
-    Arthur ""
+    Arthur "Natala na namin ang mga puntos ng bawat angkan."
 
 # game/logic/events/arthur_2.rpy:78
 translate philippine arthur_2_4d54c055:
 
     # Arthur "This week's winner house is {b}Leonheart{/b}!"
-    Arthur ""
+    Arthur "Ang nanalo ngayong linggo ay {b}Leonheart{/b}!"
 
 # game/logic/events/arthur_2.rpy:80
 translate philippine arthur_2_1f8bb2b6:
 
     # ch_Name "Yahoo! We won!"
-    ch_Name ""
+    ch_Name "Nanalo tayo!"
 
 # game/logic/events/arthur_2.rpy:81
 translate philippine arthur_2_9e7c23b9:
 
     # Elijah "Great job, everyone!"
-    Elijah ""
+    Elijah "Mabuti naman!"
 
 # game/logic/events/arthur_2.rpy:83
 translate philippine arthur_2_1c5cb8cc:
 
     # Arthur "Congratulations to Leonheart! The path to Dale is now open to you."
-    Arthur ""
+    Arthur "Binabati ko ang Leonheart! Bukas na ang daan papuntang Dale."
 
 # game/logic/events/arthur_2.rpy:84
 translate philippine arthur_2_bee80711:
 
     # Arthur "Each student from the winning house receives $50 allowance you can spend in Dale."
-    Arthur ""
+    Arthur "Ang bawat estudyante ay makakakuha ng $50 na na pwede ninyong gastusin sa Dale."
 
 # game/logic/events/arthur_2.rpy:86
 translate philippine arthur_2_b7455f8e:
 
     # Arthur "Please, seek assistance from Mister Frollo to get to the ship."
-    Arthur ""
+    Arthur "Humingi lang kayo ng tulong kay Mr. Frollo para makasakay kayo sa barko."
 
 # game/logic/events/arthur_2.rpy:88
 translate philippine arthur_2_3f164f48:
 
     # Arthur "To all the other students who haven't won this week: try to keep up your spirits!"
-    Arthur ""
+    Arthur "Sa lahat ng ibang mga estudyante: 'wag mag alala!"
 
 # game/logic/events/arthur_2.rpy:89
 translate philippine arthur_2_087ce206:
 
     # Arthur "You will have a chance to visit Dale next time."
-    Arthur ""
+    Arthur "May pagkakataon naman kayong manalo sa susunod na linggo."
 
 # game/logic/events/arthur_2.rpy:90
 translate philippine arthur_2_0dad76fb:
 
     # Arthur "All you need is to put more effort and win next week's competition!"
-    Arthur ""
+    Arthur "Kailangan lang ninyo ng sipag at tiyaga."
 
 # game/logic/events/arthur_2.rpy:92
 translate philippine arthur_2_dfa6d1e8:
 
     # Arthur "Take care, everyone, and have a lovely weekend!"
-    Arthur ""
+    Arthur "Mag-ingat kayong lahat, at magandang araw!"
 
 # game/logic/events/arthur_2.rpy:93
 translate philippine arthur_2_cea9308a:
 
     # ch_Name "Well, that was informative."
-    ch_Name ""
+    ch_Name "Impormatibo naman."
 
 # game/logic/events/arthur_2.rpy:94
 translate philippine arthur_2_a70cde9c:
 
     # ch_Name "Now I need to find mister Frollo."
-    ch_Name ""
+    ch_Name "Hanapin ko na si Mr. Frollo."
 
 # game/logic/events/arthur_2.rpy:100
 translate philippine arthur_2_32_a7a4792e:
 
     # Arthur "This week's winner house is {b}[wins_house]{/b}!"
-    Arthur ""
+    Arthur "Ang nanalo ngayong linggo ay {b}[wins_house]{/b}!"
 
 # game/logic/events/arthur_2.rpy:102
 translate philippine arthur_2_32_a26c5366:
 
     # ch_Name "Crap, we've lost this week..."
-    ch_Name ""
+    ch_Name "Natalo tayo..."
 
 # game/logic/events/arthur_2.rpy:103
 translate philippine arthur_2_32_1838a81d:
 
     # Elijah "Never mind, there're plenty of weeks ahead of us to win once or twice."
-    Elijah ""
+    Elijah "'Wag mo nang isipin. marami pang linggo para makapanalo tayo."
 
 # game/logic/events/arthur_2.rpy:104
 translate philippine arthur_2_32_d1098240:
 
     # ch_Name "You're not very optimistic about us."
-    ch_Name ""
+    ch_Name "Hindi ka naman ganoon ka maasahin"
 
 # game/logic/events/arthur_2.rpy:106
 translate philippine arthur_2_32_48a616a4:
 
     # Arthur "Congratulations to [wins_house]! The path to Dale is now open to you."
-    Arthur ""
+    Arthur "Binabati ko ang [wins_house]! Bukas na ang daan papuntang Dale."
 
 # game/logic/events/arthur_2.rpy:107
 translate philippine arthur_2_32_0d0cf108:
 
     # Arthur "After this meeting, please follow Mister Frollo."
-    Arthur ""
+    Arthur "Humingi lang kayo ng tulong kay Mr. Frollo."
 
 # game/logic/events/arthur_2.rpy:109
 translate philippine arthur_2_32_36af6813:
 
     # Arthur "He will help you to get to the ferry."
-    Arthur ""
+    Arthur "Para makasakay kayo sa barko."
 
 # game/logic/events/arthur_2.rpy:110
 translate philippine arthur_2_32_3f164f48:
 
     # Arthur "To all the other students who haven't won this week: try to keep up your spirits!"
-    Arthur ""
+    Arthur "Sa lahat ng ibang mga estudyante: 'wag mag alala!"
 
 # game/logic/events/arthur_2.rpy:111
 translate philippine arthur_2_32_087ce206:
 
     # Arthur "You will have a chance to visit Dale next time."
-    Arthur ""
+    Arthur "May pagkakataon naman kayong manalo sa susunod na linggo."
 
 # game/logic/events/arthur_2.rpy:113
 translate philippine arthur_2_32_0dad76fb:
 
     # Arthur "All you need is to put more effort and win next week's competition!"
-    Arthur ""
+    Arthur "Kailangan lang ninyo ng sipag at tiyaga."
 
 # game/logic/events/arthur_2.rpy:115
 translate philippine arthur_2_32_dfa6d1e8:
 
     # Arthur "Take care, everyone, and have a lovely weekend!"
-    Arthur ""
+    Arthur "Mag-ingat kayong lahat, at magandang araw!"
 
 # game/logic/events/arthur_2.rpy:116
 translate philippine arthur_2_32_cea9308a:
 
     # ch_Name "Well, that was informative."
-    ch_Name ""
+    ch_Name "Impormatibo naman."
 
 # game/logic/events/arthur_2.rpy:117
 translate philippine arthur_2_32_e0cf2721:
 
     # ch_Name "Now I can get back and sleep a little longer..."
-    ch_Name ""
+    ch_Name "Ngayon makakatulog na ako ulit..."
 
 # game/logic/events/arthur_2.rpy:159
 translate philippine arthur_2_0_36d985d4:
 
     # Arthur "Greetings, students!"
-    Arthur ""
+    Arthur "Magandang umaga mga estudyante!"
 
 # game/logic/events/arthur_2.rpy:160
 translate philippine arthur_2_0_c32abc02:
 
     # Arthur "As usual, we're gathered you here to announce the results of our traditional house tournament."
-    Arthur ""
+    Arthur "Gaya ng dati, nandito kayo para malaman ang resulta ng paligsahan ng mga angkan"
 
 # game/logic/events/arthur_2.rpy:161
 translate philippine arthur_2_0_8e86b1c7:
 
     # Arthur "We've calculated the total points for each House. And the winner is..."
-    Arthur ""
+    Arthur "Natala na namin ang mga puntos ng bawat angkan. Ang nanalo ngayong linggo ay ..."
 
 # game/logic/events/arthur_2.rpy:179
 translate philippine arthur_2_0_6e55cc3b:
@@ -280,67 +280,67 @@ translate philippine arthur_2_0_6e55cc3b:
 translate philippine arthur_2_0_1f8bb2b6:
 
     # ch_Name "Yahoo! We won!"
-    ch_Name ""
+    ch_Name "Nanalo tayo!"
 
 # game/logic/events/arthur_2.rpy:182
 translate philippine arthur_2_0_9e7c23b9:
 
     # Elijah "Great job, everyone!"
-    Elijah ""
+    Elijah "Mabuti naman!"
 
 # game/logic/events/arthur_2.rpy:184
 translate philippine arthur_2_0_1c5cb8cc:
 
     # Arthur "Congratulations to Leonheart! The path to Dale is now open to you."
-    Arthur ""
+    Arthur "Binabati ko ang Leonheart! Bukas na ang daan papuntang Dale."
 
 # game/logic/events/arthur_2.rpy:187
 translate philippine arthur_2_0_bee80711:
 
     # Arthur "Each student from the winning house receives $50 allowance you can spend in Dale."
-    Arthur ""
+    Arthur "Ang bawat estudyante ay makakakuha ng $50 na na pwede ninyong gastusin sa Dale."
 
 # game/logic/events/arthur_2.rpy:189
 translate philippine arthur_2_0_b7455f8e:
 
     # Arthur "Please, seek assistance from Mister Frollo to get to the ship."
-    Arthur ""
+    Arthur "Humingi lang kayo ng tulong kay Mr. Frollo para makasakay kayo sa barko."
 
 # game/logic/events/arthur_2.rpy:191
 translate philippine arthur_2_0_3f164f48:
 
     # Arthur "To all the other students who haven't won this week: try to keep up your spirits!"
-    Arthur ""
+    Arthur "Sa lahat ng ibang mga estudyante: 'wag mag alala!"
 
 # game/logic/events/arthur_2.rpy:192
 translate philippine arthur_2_0_087ce206:
 
     # Arthur "You will have a chance to visit Dale next time."
-    Arthur ""
+    Arthur "May pagkakataon naman kayong manalo sa susunod na linggo."
 
 # game/logic/events/arthur_2.rpy:193
 translate philippine arthur_2_0_0dad76fb:
 
     # Arthur "All you need is to put more effort and win next week's competition!"
-    Arthur ""
+    Arthur "Kailangan lang ninyo ng sipag at tiyaga."
 
 # game/logic/events/arthur_2.rpy:195
 translate philippine arthur_2_0_dfa6d1e8:
 
     # Arthur "Take care, everyone, and have a lovely weekend!"
-    Arthur ""
+    Arthur "Mag-ingat kayong lahat, at magandang araw!"
 
 # game/logic/events/arthur_2.rpy:196
 translate philippine arthur_2_0_cea9308a:
 
     # ch_Name "Well, that was informative."
-    ch_Name ""
+    ch_Name "Impormatibo naman."
 
 # game/logic/events/arthur_2.rpy:197
 translate philippine arthur_2_0_acf8d85f:
 
     # ch_Name "Now I need to find mister Frollo"
-    ch_Name ""
+    ch_Name "Hanapin ko na si Mr. Frollo."
 
 # game/logic/events/arthur_2.rpy:219
 translate philippine arthur_2_0_18_4bae9686:
@@ -352,25 +352,25 @@ translate philippine arthur_2_0_18_4bae9686:
 translate philippine arthur_2_0_18_a26c5366:
 
     # ch_Name "Crap, we've lost this week..."
-    ch_Name ""
+    ch_Name "Natalo tayo..."
 
 # game/logic/events/arthur_2.rpy:222
 translate philippine arthur_2_0_18_1838a81d:
 
     # Elijah "Never mind, there're plenty of weeks ahead of us to win once or twice."
-    Elijah ""
+    Elijah "'Wag mo nang isipin. marami pang linggo para makapanalo tayo."
 
 # game/logic/events/arthur_2.rpy:223
 translate philippine arthur_2_0_18_cea9308a:
 
     # ch_Name "Well, that was informative."
-    ch_Name ""
+    ch_Name "Impormatibo naman."
 
 # game/logic/events/arthur_2.rpy:224
 translate philippine arthur_2_0_18_e0cf2721:
 
     # ch_Name "Now I can get back and sleep a little longer..."
-    ch_Name ""
+    ch_Name "Ngayon makakatulog na ako ulit..."
 
 # game/logic/events/arthur_2.rpy:251
 translate philippine arthur_2_3_307168cc:
@@ -382,25 +382,25 @@ translate philippine arthur_2_3_307168cc:
 translate philippine arthur_2_3_7ff6c938:
 
     # Jacob "I think we're just waiting for you."
-    Jacob ""
+    Jacob "Ikaw nalang ang hinihintay."
 
 # game/logic/events/arthur_2.rpy:253
 translate philippine arthur_2_3_40891a2c:
 
     # Jacob "All right, let's not stall!"
-    Jacob ""
+    Jacob "Sige, bilisan mo!"
 
 # game/logic/events/arthur_2.rpy:254
 translate philippine arthur_2_3_cb71a21f:
 
     # Jacob "The ferry leaves in half an hour."
-    Jacob ""
+    Jacob "Aalis na ang barko sa 30 minuto."
 
 # game/logic/events/arthur_2.rpy:255
 translate philippine arthur_2_3_ae8c5522:
 
     # Jacob "Students, follow me."
-    Jacob ""
+    Jacob "Sundin ninyo ako."
 
 # game/logic/events/arthur_2.rpy:257
 translate philippine arthur_2_3_3f81266e:
@@ -412,55 +412,55 @@ translate philippine arthur_2_3_3f81266e:
 translate philippine arthur_2_3_fe943653:
 
     # ch_Name "Haley, good morning!"
-    ch_Name ""
+    ch_Name "Haley, magandang umaga!"
 
 # game/logic/events/arthur_2.rpy:260
 translate philippine arthur_2_3_d8dd83a4:
 
     # Haley "Do you have plans for Dale yet?"
-    Haley ""
+    Haley "May plano ka na ba para sa Dale?"
 
 # game/logic/events/arthur_2.rpy:261
 translate philippine arthur_2_3_82381200:
 
     # ch_Name "I don't even know what's there."
-    ch_Name ""
+    ch_Name "'Di ko nga alam kung anu-ano ang nandoon."
 
 # game/logic/events/arthur_2.rpy:262
 translate philippine arthur_2_3_4e61651c:
 
     # Haley "Neither do I. I'm gonna look into it. I hope the local library has a history of the town..."
-    Haley ""
+    Haley "Ako rin. Magbabasa muna ako. Sana may kasaysayan na nakasulat sa kanilang aklatan..."
 
 # game/logic/events/arthur_2.rpy:263
 translate philippine arthur_2_3_c15f9a7d:
 
     # ch_Name "I'm sure there is."
-    ch_Name ""
+    ch_Name "Siguro."
 
 # game/logic/events/arthur_2.rpy:265
 translate philippine arthur_2_3_2c528bbd:
 
     # Haley "Oh, Lily, I was just looking for you!"
-    Haley ""
+    Haley "Oh, Lily, hinahanap kita!"
 
 # game/logic/events/arthur_2.rpy:266
 translate philippine arthur_2_3_75813012:
 
     # Haley "Aren't you going to the library?"
-    Haley ""
+    Haley "Diba pupunta ka sa aklatan?"
 
 # game/logic/events/arthur_2.rpy:268
 translate philippine arthur_2_3_60743925:
 
     # Haley "Oh, sorry, [Name], I have to catch her up."
-    Haley ""
+    Haley "Pasensya, [Name], hahabulin ko siya."
 
 # game/logic/events/arthur_2.rpy:269
 translate philippine arthur_2_3_ace9c754:
 
     # Haley "See you later, [Name]!"
-    Haley ""
+    Haley "Mamaya naman, [Name]!"
 
 # game/logic/events/arthur_2.rpy:270
 translate philippine arthur_2_3_f3f897ab:
@@ -1540,39 +1540,39 @@ translate philippine arthur_2_5_ffb89690:
 translate philippine arthur_2_5_edf1a719:
 
     # Elijah "I highly suggest you check out Sadira's. It's... unforgettable."
-    Elijah ""
+    Elijah "Iminumungkahi kong tingnan mo si Sadira. Siya ay... napakahusay."
 
 # game/logic/events/arthur_2.rpy:585
 translate philippine arthur_2_5_8b8fbc30:
 
     # ch_Name "Whoa, cool. Thanks for the tip, bro."
-    ch_Name ""
+    ch_Name "Astig. Salamat sa payo, tol."
 
 # game/logic/events/arthur_2.rpy:586
 translate philippine arthur_2_5_df8edd54:
 
     # Elijah "You're welcome."
-    Elijah ""
+    Elijah "Walang anuman"
 
 translate philippine strings:
 
     # game/logic/events/arthur_2.rpy:148
     old "At the moment, weekend activities are only available in Dale. To check them out - win a weekly house tournament"
-    new ""
+    new "Sa ngayon, ang mga magagawa sa katapusan ng linggo ay magagawa lamang sa Dale. Kung gusto mong maranasan - dapat mananalo ang angkan mo"
 
     # game/logic/events/arthur_2.rpy:149
     old "For now, we'll skip the weekends and get straight back to Monday."
-    new ""
+    new "Sa ngayon, laktawan natin ang katapusan ng linggo at babalik sa Lunes."
 
     # game/logic/events/arthur_2.rpy:491
     old "Sure"
-    new ""
+    new "Sige"
 
     # game/logic/events/arthur_2.rpy:503
     old "Check out Elijah's booty"
-    new ""
+    new "Tignan si Elijah"
 
     # game/logic/events/arthur_2.rpy:503
     old "Don't look"
-    new ""
+    new "Huwag magtingin"
 
