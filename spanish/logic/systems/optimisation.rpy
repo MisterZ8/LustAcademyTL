@@ -4,11 +4,11 @@
 translate spanish after_load_f92cd1e5:
 
     # "" "..."
-    "" ""
+    "" "..."
 
 translate spanish strings:
 
     # game/logic/systems/optimisation.rpy:123
     old "Loading, please wait..."
-    new ""
+    new "Cargando, Por favor espere..."
 
