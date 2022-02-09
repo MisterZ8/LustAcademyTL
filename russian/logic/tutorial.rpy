@@ -58,13 +58,13 @@ translate russian CordEntrance_label_df5a3cec:
 translate russian CordEntrance_label_c3688de3:
 
     # Jacob "I thought Crowhive took bright students."
-    Jacob "Я думал, что Crowhive взяла способных учеников."
+    Jacob "Я думал, что Кроухайв взяла способных учеников."
 
 # game/logic/tutorial.rpy:590
 translate russian CordEntrance_label_26ca3eeb:
 
     # Jacob "It's sad to see Jaina's standards fall so low."
-    Jacob "Грустно видеть, что стандарты Jaina падают так низко."
+    Jacob "Грустно видеть, что стандарты Джайны падают так низко."
 
 # game/logic/tutorial.rpy:591
 translate russian CordEntrance_label_f96d3ac5:
@@ -178,7 +178,7 @@ translate russian CordEntrance_label_b2235bb4:
 translate russian CordEntrance_label_7ca1a037:
 
     # ch_Name "{i}(Or I'd have gotten my ass kicked by Jacob.){/i}"
-    ch_Name "{i}(Или Jacob надерет мне задницу.){/i}"
+    ch_Name "{i}(Или Якоб надерет мне задницу.){/i}"
 
 # game/logic/tutorial.rpy:614
 translate russian CordEntrance_label_4ed7d299:
@@ -238,13 +238,13 @@ translate russian CordGarden_label_0526f213:
 translate russian CordGarden_label_b9a2f748:
 
     # Joshi "Elijah?"
-    Joshi "Elijah?"
+    Joshi "Элайджа?"
 
 # game/logic/tutorial.rpy:638
 translate russian CordGarden_label_d2b75454:
 
     # ch_Name "No, my name is [Name]. Why are you looking for Elijah?"
-    ch_Name "Нет, меня зовут [Name]. Почему ты ищешь Elijah?"
+    ch_Name "Нет, меня зовут [Name]. Почему ты ищешь Элайджа?"
 
 # game/logic/tutorial.rpy:639
 translate russian CordGarden_label_6a8823d6:
@@ -406,19 +406,19 @@ translate russian CordGarden_label_028c7c85:
 translate russian CordGarden_label_feb7664c:
 
     # Joshi "On the left is the library and Victoria's classroom."
-    Joshi "Слева библиотека и класс Victoria."
+    Joshi "Слева библиотека и класс Виктории."
 
 # game/logic/tutorial.rpy:676
 translate russian CordGarden_label_782b8053:
 
     # Joshi "And on the right is the cafe and Sabrina's class."
-    Joshi "А справа кафе и класс Sabrina."
+    Joshi "А справа кафетерий и класс Сабрины."
 
 # game/logic/tutorial.rpy:678
 translate russian CordGarden_label_03c9e045:
 
     # Joshi "By the way, have you seen Sabrina yet? Dude, I'm still having a boner..."
-    Joshi "Кстати, ты уже видел Sabrina? Чувак, у меня все ещё стояк..."
+    Joshi "Кстати, ты уже видел Сабрину? Чувак, у меня все ещё стояк..."
 
 # game/logic/tutorial.rpy:679
 translate russian CordGarden_label_ec91a5dc:
@@ -436,7 +436,7 @@ translate russian CordGarden_label_b4c8c248:
 translate russian CordGarden_label_112c95db:
 
     # Joshi "Elijah. Why is he calling me?"
-    Joshi "Elijah. Почему он звонит мне?"
+    Joshi "Элайджа. Почему он звонит мне?"
 
 # game/logic/tutorial.rpy:684
 translate russian CordGarden_label_210e23fc:
@@ -472,7 +472,7 @@ translate russian CordGarden_label_153814de:
 translate russian CordGarden_label_f89e56dc:
 
     # ch_Name "{i}(And what business could he possibly have with Elijah?){/i}"
-    ch_Name "{i}(И какое дело у него может быть к Elijah?){/i}"
+    ch_Name "{i}(И какое дело у него может быть к Элайджа?){/i}"
 
 # game/logic/tutorial.rpy:692
 translate russian CordGarden_label_20277380:
@@ -604,25 +604,25 @@ translate russian CordGarden_label_50073e08_1:
 translate russian CordGarden_label_028c7c85_1:
 
     # Joshi "Well, on the sides is all the fun stuff."
-    Joshi "В конце двора."
+    Joshi "Ну а по бокам все самое интересное."
 
 # game/logic/tutorial.rpy:723
 translate russian CordGarden_label_feb7664c_1:
 
     # Joshi "On the left is the library and Victoria's classroom."
-    Joshi "Слева библиотека и класс Victoria."
+    Joshi "Слева библиотека и класс Виктории."
 
 # game/logic/tutorial.rpy:724
 translate russian CordGarden_label_782b8053_1:
 
     # Joshi "And on the right is the cafe and Sabrina's class."
-    Joshi "А справа кафе и класс Sabrina."
+    Joshi "А справа кафе и класс Сабрины."
 
 # game/logic/tutorial.rpy:726
 translate russian CordGarden_label_03c9e045_1:
 
     # Joshi "By the way, have you seen Sabrina yet? Dude, I'm still having a boner..."
-    Joshi "Кстати, ты уже видел Sabrina? Чувак, у меня все ещё стояк..."
+    Joshi "Кстати, ты уже видел Сабрину? Чувак, у меня все ещё стояк..."
 
 # game/logic/tutorial.rpy:727
 translate russian CordGarden_label_ec91a5dc_1:
@@ -676,7 +676,7 @@ translate russian CordGarden_label_153814de_1:
 translate russian CordGarden_label_f89e56dc_1:
 
     # ch_Name "{i}(And what business could he possibly have with Elijah?){/i}"
-    ch_Name "{i}(А какое дело у него может быть к Elijah?){/i}"
+    ch_Name "{i}(А какое дело у него может быть к Элайджа?){/i}"
 
 # game/logic/tutorial.rpy:740
 translate russian CordGarden_label_97ebb784:
@@ -832,7 +832,7 @@ translate russian CordLeftWing_label_aa4f4b7a:
 translate russian CordLeftWing_label_8ae7748d:
 
     # Gabriella "I've promised Victoria to bring new books from the library."
-    Gabriella "Я пообещал Victoria принести новые книги из библиотеки."
+    Gabriella "Я пообещала Виктории принести новые книги из библиотеки."
 
 # game/logic/tutorial.rpy:786
 translate russian CordLeftWing_label_7c8ba907:
@@ -874,7 +874,7 @@ translate russian CordLeftWing_label_65c02259:
 translate russian CordLeftWing_label_5a0bb231:
 
     # ch_Name "But do you happen to know where Victoria's class is?"
-    ch_Name "Но ты случайно не знаешь, где класс Victoria?"
+    ch_Name "Но ты случайно не знаешь, где класс Виктории?"
 
 # game/logic/tutorial.rpy:796
 translate russian CordLeftWing_label_3cd9236e:
@@ -904,7 +904,7 @@ translate russian CordLeftWing_label_ac72bb37:
 translate russian CordLeftWing_label_0ce6f211:
 
     # ch_Name "{i}(Fuck, [Name]. Where is Victoria's class? Really?){/i}"
-    ch_Name "{i}(Бля, [Name]. Где класс Victoria? Серьезно?){/i}"
+    ch_Name "{i}(Бля, [Name]. Где класс Виктории? Серьезно?){/i}"
 
 # game/logic/tutorial.rpy:802
 translate russian CordLeftWing_label_1b893d3b:
@@ -1000,13 +1000,13 @@ translate russian CordRightWing_label_ab45415b:
 translate russian CordRightWing_label_e6510c69:
 
     # Grace "That's great, Grace..."
-    Grace "Замечательно, Grace..."
+    Grace "Замечательно, Грейс..."
 
 # game/logic/tutorial.rpy:834
 translate russian CordRightWing_label_99f37457:
 
     # Grace "It's your second day here and you're already building a reputation as the local lunatic."
-    Grace "Ты здесь второй день, а уже зарабатываешь себе репутацию местного сумасшедшего."
+    Grace "Ты здесь второй день, а уже зарабатываешь себе репутацию местной сумасшедшей."
 
 # game/logic/tutorial.rpy:836
 translate russian CordRightWing_label_14e10a0f:
@@ -1530,7 +1530,7 @@ translate russian strings:
 
     # game/logic/tutorial.rpy:19
     old "This is a fast-forward button used within scenes. Works similarly to the Tab button on the keyboard, and is adjustable in Skip Settings on the main menu."
-    new "Это кнопка перемотки вперед, используемая в сценах. Работает аналогично кнопке Tab на клавиатуре и настраивается в настройках пропуска в главном меню."
+    new "Это кнопка перемотки вперед, используемая в сценах. Работает аналогично кнопке Tab на клавиатуре и настраивается в Настройках пропуска в главном меню."
 
     # game/logic/tutorial.rpy:19
     old "This is a shortcut button for accessing the dialog log. It can be useful if you want to refresh your memory and review previous lines of the characters."
