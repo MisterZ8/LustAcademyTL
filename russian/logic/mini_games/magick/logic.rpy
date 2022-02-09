@@ -466,7 +466,7 @@ translate russian MagicMiniGameLabel_start_9225d683:
 translate russian MagicMiniGameLabel_start_184c9b55:
 
     # ch_Name "Thank you, miss Lapis!"
-    ch_Name "Спасибо, мисс Lapis!"
+    ch_Name "Спасибо, мисс Ляпис!"
 
 # game/logic/mini_games/magick/logic.rpy:1563
 translate russian MagicMiniGameLabel_start_8080efb6:
@@ -556,7 +556,7 @@ translate russian MagicMiniGameLabel_start_64fe1295:
 translate russian MagicMiniGameLabel_start_184c9b55_1:
 
     # ch_Name "Thank you, miss Lapis!"
-    ch_Name "Спасибо, мисс Lapis!"
+    ch_Name "Спасибо, мисс Ляпис!"
 
 # game/logic/mini_games/magick/logic.rpy:1602
 translate russian MagicMiniGameLabel_start_f766a18c:
