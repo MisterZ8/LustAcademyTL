@@ -100,61 +100,61 @@ translate spanish parents_room_painting_label_fa82a002:
 translate spanish bath_breth_label_2e96eb7f:
 
     # ch_Name "{i}(Ashley seems to have forgotten to hide her toothbrush.){/i}"
-    ch_Name "{i}("
+    ch_Name "{i}(Parece que Ashley ha olvidado esconder su cepillo de dientes.){/i}"
 
 # game/logic/main_interface/screen.rpy:2340
 translate spanish bath_breth_label_7f1dded4:
 
     # ch_Name "{i}(She got the whole sink dirty... Olivia will get mad.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ha dejado el lavabo hecho un asco... Olivia se va ha volver loca.){/i}"
 
 # game/logic/main_interface/screen.rpy:2350
 translate spanish bath_duck_label_113bcc9f:
 
     # ch_Name "{i}(Samantha and Ashley's ducks.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Los patitos de Samantha y Ashley.){/i}"
 
 # game/logic/main_interface/screen.rpy:2351
 translate spanish bath_duck_label_58847a7b:
 
     # ch_Name "{i}(No one's bathed with them in 100 years, but I hate to throw them away.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hace 100 años que nadie se baña con ellos, pero jamas se me ocurriría tirarlos.){/i}"
 
 # game/logic/main_interface/screen.rpy:2352
 translate spanish bath_duck_label_4e316d63:
 
     # ch_Name "{i}(And it's kind of cozy with them here...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Le da un toque acogedor al baño...){/i}"
 
 # game/logic/main_interface/screen.rpy:2380
 translate spanish picture_in_mc_room_1f195c4f:
 
     # ch_Name "{i}(Is it just me, or was that picture moving?){/i}"
-    ch_Name ""
+    ch_Name "{i}(¿Soy yo o ese cuadro se está moviendo?){/i}"
 
 # game/logic/main_interface/screen.rpy:2381
 translate spanish picture_in_mc_room_94397271:
 
     # ch_Name "{i}(Hmm, i'll have to take a closer look...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm, voy a mirarlo más de cerca...){/i}"
 
 # game/logic/main_interface/screen.rpy:2382
 translate spanish picture_in_mc_room_c8971138:
 
     # ch_Name "{i}(It moved! Did you see it?){/i}"
-    ch_Name ""
+    ch_Name "{i}(¡Se ha movido! ¿Lo has visto?"
 
 # game/logic/main_interface/screen.rpy:2383
 translate spanish picture_in_mc_room_2ab96242:
 
     # ch_Name "{i}(Who am I talking to anyway, i'm here alone...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Con quién coño hablo, si estoy aquí solo...){/i}"
 
 # game/logic/main_interface/screen.rpy:2386
 translate spanish picture_in_mc_room_129fdcd2:
 
     # ch_Name "{i}(I feel strange vibrations coming from this painting.){/i}"
-    ch_Name ""
+    ch_Name "{i}("
 
 # game/logic/main_interface/screen.rpy:2387
 translate spanish picture_in_mc_room_fae662e4:
