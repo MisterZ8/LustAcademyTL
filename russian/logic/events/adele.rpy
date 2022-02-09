@@ -2662,565 +2662,564 @@ translate russian vip_lucy_1_label_2_46a393ac:
 translate russian vip_lucy_1_label_2_cc9f221d:
 
     # ch_Name "{i}(What does she want for today?){/i}"
-    ch_Name ""
-
+    ch_Name "{i}(Что она задумала на сегодня?){/i}"
+    
 # game/logic/events/adele.rpy:963
 translate russian vip_lucy_1_label_2_87e247fa:
 
     # ch_Name "{i}(This suspense is killing me!){/i}"
-    ch_Name ""
-
+    ch_Name "{i}(Это ожидание убивает меня!){/i}"
+    
 # game/logic/events/adele.rpy:964
 translate russian vip_lucy_1_label_2_5af21751:
 
     # ch_Name "{i}(Anyway, I'm sure that's worth the wait.){/i}"
-    ch_Name ""
-
+    ch_Name "{i}(В любом случае, уверен, это того стоит.){/i}"
+    
 # game/logic/events/adele.rpy:966
 translate russian vip_lucy_1_label_2_10a36858:
 
     # ch_Name "{i}(Only look at this gorgeous view!){/i}"
-    ch_Name ""
-
+    ch_Name "{i}(Только взгляните на этот потрясающий вид!){/i}"
+    
 # game/logic/events/adele.rpy:967
 translate russian vip_lucy_1_label_2_c3de37e9:
 
     # ch_Name "{i}(God is definitely a woman.){/i}"
-    ch_Name ""
-
+    ch_Name "{i}(Бог - определенно женщина.){/i}"
+    
 # game/logic/events/adele.rpy:968
 translate russian vip_lucy_1_label_2_855a4f9c:
 
     # ch_Name "{i}(There's no other way.){/i}"
-    ch_Name ""
-
+    ch_Name "{i}(По другому просто не может быть.){/i}"
+    
 # game/logic/events/adele.rpy:970
 translate russian vip_lucy_1_label_2_0b161ee2:
 
     # ch_Name "{i}(Pheew!){/i}"
-    ch_Name ""
-
+    ch_Name "{i}(Фууух!){/i}"
+    
 # game/logic/events/adele.rpy:971
 translate russian vip_lucy_1_label_2_17c4912f:
 
     # ch_Name "{i}(What's taking her so long?){/i}"
-    ch_Name ""
-
+    ch_Name "{i}(Почему она так долго?){/i}"
+    
 # game/logic/events/adele.rpy:972
 translate russian vip_lucy_1_label_2_95f5324c:
 
     # ch_Name "{i}(I can't wait any longer!){/i}"
-    ch_Name ""
-
+    ch_Name "{i}(Я не могу больше ждать!){/i}"
+    
 # game/logic/events/adele.rpy:974
 translate russian vip_lucy_1_label_2_98da8d4e:
 
     # Lucy "Here am I!"
-    Lucy ""
-
+    Lucy "А вот и я!"
+    
 # game/logic/events/adele.rpy:975
 translate russian vip_lucy_1_label_2_14abe349:
 
     # Lucy "I hope you don't get bored."
-    Lucy ""
-
+    Lucy "Надеюсь, ты не заскучал."
+    
 # game/logic/events/adele.rpy:976
 translate russian vip_lucy_1_label_2_91bdfb58:
 
     # ch_Name "I cannot imagine that I can get bored in your company."
-    ch_Name ""
-
+    ch_Name "Не представляю, как можно заскучать в твоей компании."
+    
 # game/logic/events/adele.rpy:978
 translate russian vip_lucy_1_label_2_6e93df39:
 
     # ch_Name "But I missed you, really."
-    ch_Name ""
-
+    ch_Name "Но я скучал по тебе, правда."
+    
 # game/logic/events/adele.rpy:979
 translate russian vip_lucy_1_label_2_6656529f:
 
     # ch_Name "Tights? That's something new!"
-    ch_Name ""
-
+    ch_Name "Колготки? Это что-то новенькое!"
+    
 # game/logic/events/adele.rpy:980
 translate russian vip_lucy_1_label_2_73a5e423:
 
     # ch_Name "Looks great on you."
-    ch_Name ""
-
+    ch_Name "Тебе идет."
+    
 # game/logic/events/adele.rpy:981
 translate russian vip_lucy_1_label_2_95bd2f5f:
 
     # ch_Name "As everything."
-    ch_Name ""
-
+    ch_Name "Впрочем, как всегда."
+    
 # game/logic/events/adele.rpy:983
 translate russian vip_lucy_1_label_2_ec7729f0:
 
     # ch_Name "Ohh!"
-    ch_Name ""
-
+    ch_Name "Охх!"
+    
 # game/logic/events/adele.rpy:984
 translate russian vip_lucy_1_label_2_5e0d747d:
 
     # ch_Name "How beautiful you are, Lucy!"
-    ch_Name ""
-
+    ch_Name "Какая ты красивая, Lucy!"
+    
 # game/logic/events/adele.rpy:985
 translate russian vip_lucy_1_label_2_99db379b:
 
     # ch_Name "Pure beauty."
-    ch_Name ""
-
+    ch_Name "Чистая красота."
+    
 # game/logic/events/adele.rpy:987
 translate russian vip_lucy_1_label_2_80fb3f01:
 
     # ch_Name "So warm."
-    ch_Name ""
-
+    ch_Name "Такая теплая."
+    
 # game/logic/events/adele.rpy:988
 translate russian vip_lucy_1_label_2_86590cae:
 
     # ch_Name "And soft..."
-    ch_Name ""
-
+    ch_Name "И мягкая..."
+    
 # game/logic/events/adele.rpy:989
 translate russian vip_lucy_1_label_2_587f853f:
 
     # ch_Name "Easily lose control when I only look at this curves!"
-    ch_Name ""
-
+    ch_Name "Легко потерять контроль, просто глядя на эти формы!"
+    
 # game/logic/events/adele.rpy:991
 translate russian vip_lucy_1_label_2_fc7612a5:
 
     # Lucy "Ohh, God!"
-    Lucy ""
-
+    Lucy "О Боже!"
+    
 # game/logic/events/adele.rpy:992
 translate russian vip_lucy_1_label_2_59b62c87:
 
     # Lucy "Mmmmm!"
-    Lucy ""
-
+    Lucy "Ммммм!"
+    
 # game/logic/events/adele.rpy:993
 translate russian vip_lucy_1_label_2_599b265c:
 
     # ch_Name "{i}(Interesting sensation!){/i}"
-    ch_Name ""
-
+    ch_Name "{i}(Интересные ощущения!){/i}"
+    
 # game/logic/events/adele.rpy:994
 translate russian vip_lucy_1_label_2_34e47ffc:
 
     # ch_Name "{i}(A huuuge turn-on.){/i}"
-    ch_Name ""
-
+    ch_Name "{i}(Безумно заводит.){/i}"
+    
 # game/logic/events/adele.rpy:996
 translate russian vip_lucy_1_label_2_c22fdd17:
 
     # Lucy "I'm getting more and more wet because of your touching."
-    Lucy ""
-
+    Lucy "Я становлюсь влажной от твоих прикосновений."
+    
 # game/logic/events/adele.rpy:997
 translate russian vip_lucy_1_label_2_2a0c064f:
 
     # Lucy "I want to be closer to you."
-    Lucy ""
-
+    Lucy "Хочу быть ближе к тебе."
+    
 # game/logic/events/adele.rpy:998
 translate russian vip_lucy_1_label_2_6ccde3a0:
 
     # ch_Name "{i}(It's so mutual, Lucy.){/i}"
-    ch_Name ""
-
+    ch_Name "{i}(Это взаимно, Lucy.){/i}"
+    
 # game/logic/events/adele.rpy:1000
 translate russian vip_lucy_1_label_2_e34cdfa6:
 
     # Lucy "Do you like my butt?"
-    Lucy ""
-
+    Lucy "Тебе нравится моя попа?"
+    
 # game/logic/events/adele.rpy:1001
 translate russian vip_lucy_1_label_2_9300d88c:
 
     # ch_Name "Ohh, yes."
-    ch_Name ""
-
+    ch_Name "О да."
+    
 # game/logic/events/adele.rpy:1002
 translate russian vip_lucy_1_label_2_ca2fef0a:
 
     # ch_Name "You have a great booty."
-    ch_Name ""
-
+    ch_Name "У тебя отличная попка."
+    
 # game/logic/events/adele.rpy:1004
 translate russian vip_lucy_1_label_2_750ccbf2:
 
     # ch_Name "Just the perfect form."
-    ch_Name ""
-
+    ch_Name "Идеальной формы."
+    
 # game/logic/events/adele.rpy:1005
 translate russian vip_lucy_1_label_2_845ba04f:
 
     # Lucy "Thanks!"
-    Lucy ""
-
+    Lucy "Спасибо!"
+    
 # game/logic/events/adele.rpy:1006
 translate russian vip_lucy_1_label_2_a658ff87:
 
     # ch_Name "And how you move your hips... awesome!"
-    ch_Name ""
-
+    ch_Name "А то, как ты двигаешь бедрами... потрясно!"
+    
 # game/logic/events/adele.rpy:1008
 translate russian vip_lucy_1_label_2_05918863:
 
     # ch_Name "{i}(Wow!){/i}" with hpunch
-    ch_Name "" with hpunch
-
+    ch_Name "{i}(Вау!){/i}" with hpunch
+    
 # game/logic/events/adele.rpy:1009
 translate russian vip_lucy_1_label_2_4ef326b1:
 
     # ch_Name "{i}(Such a view!){/i}"
-    ch_Name ""
-
+    ch_Name "{i}(Какой вид!){/i}"
+    
 # game/logic/events/adele.rpy:1010
 translate russian vip_lucy_1_label_2_da6590d0:
 
     # Lucy "Ohh!"
-    Lucy ""
-
+    Lucy "Охх!"
+    
 # game/logic/events/adele.rpy:1012
 translate russian vip_lucy_1_label_2_ae870db9:
 
     # ch_Name "{i}(I can see her trembling with excitement!){/i}"
-    ch_Name ""
-
+    ch_Name "{i}(Я вижу, как она дрожит от возбуждения!){/i}"
+    
 # game/logic/events/adele.rpy:1013
 translate russian vip_lucy_1_label_2_cfe63050:
 
     # Lucy "Mhm!"
-    Lucy ""
-
+    Lucy "Мхм!"
+    
 # game/logic/events/adele.rpy:1014
 translate russian vip_lucy_1_label_2_79a45ce1:
 
     # ch_Name "{i}(Just amazing!){/i}"
-    ch_Name ""
-
+    ch_Name "{i}(Просто восхитительно!){/i}"
+    
 # game/logic/events/adele.rpy:1015
 translate russian vip_lucy_1_label_2_5d6c7c09:
 
     # Lucy "I want to move for you."
-    Lucy ""
-
+    Lucy "Я хочу двигаться для тебя."
+    
 # game/logic/events/adele.rpy:1017
 translate russian vip_lucy_1_label_2_1011a685:
 
     # Lucy "Want to rub my pussy on your cock..."
-    Lucy ""
-
+    Lucy "Хочу тереться своей киской о твой член..."
+    
 # game/logic/events/adele.rpy:1018
 translate russian vip_lucy_1_label_2_503c87ce:
 
     # Lucy "To feel how it getting hard..."
-    Lucy ""
-
+    Lucy "Чувствовать, как он твердеет..."
+    
 # game/logic/events/adele.rpy:1019
 translate russian vip_lucy_1_label_2_cbbc7007:
 
     # ch_Name "If you want it, then you get it."
-    ch_Name ""
-
+    ch_Name "Если ты этого хочешь, ты это получишь."
+    
 # game/logic/events/adele.rpy:1021
 translate russian vip_lucy_1_label_2_8b6ee901:
 
     # ch_Name "You make me feel so horny!"
-    ch_Name ""
-
+    ch_Name "Ты меня так заводишь!"
+    
 # game/logic/events/adele.rpy:1022
 translate russian vip_lucy_1_label_2_aa08e17a:
 
     # ch_Name "Oh!"
-    ch_Name ""
-
+    ch_Name "Ох!"
+    
 # game/logic/events/adele.rpy:1023
 translate russian vip_lucy_1_label_2_268919b2:
 
     # Lucy "So pleasant to think about my body turning you on."
-    Lucy ""
-
+    Lucy "Так приятно думать, что тебя заводит мое тело."
+    
 # game/logic/events/adele.rpy:1024
 translate russian vip_lucy_1_label_2_271a222e:
 
     # Lucy "I want to see your dick closer."
-    Lucy ""
-
+    Lucy "Я хочу рассмотреть твой член поближе."
+    
 # game/logic/events/adele.rpy:1026
 translate russian vip_lucy_1_label_2_f8688ceb:
 
     # Lucy "God!"
-    Lucy ""
-
+    Lucy "Боже!"
+    
 # game/logic/events/adele.rpy:1027
 translate russian vip_lucy_1_label_2_199eae7a:
 
     # Lucy "So massive!"
-    Lucy ""
-
+    Lucy "Такой большой!"
+    
 # game/logic/events/adele.rpy:1028
 translate russian vip_lucy_1_label_2_a9f09a39:
 
     # Lucy "I cannot even imagine what can I experience using this toy."
-    Lucy ""
-
+    Lucy "Даже не представляю, что я почувствую, воспользовавшись этой игрушкой."
+    
 # game/logic/events/adele.rpy:1030
 translate russian vip_lucy_1_label_2_d079edf0:
 
     # Lucy "Ohhh!"
-    Lucy ""
-
+    Lucy "Оххх!"
+    
 # game/logic/events/adele.rpy:1031
 translate russian vip_lucy_1_label_2_4a7474b0:
 
     # Lucy "Whoa!"
-    Lucy ""
-
+    Lucy "Воу!"
+    
 # game/logic/events/adele.rpy:1033
 translate russian vip_lucy_1_label_2_e859a981:
 
     # ch_Name "Ohhrrhh!"
-    ch_Name ""
-
+    ch_Name "Оххррхх!"
+    
 # game/logic/events/adele.rpy:1034
 translate russian vip_lucy_1_label_2_0ae9bcd0:
 
     # ""
     ""
-
 # game/logic/events/adele.rpy:1035
 translate russian vip_lucy_1_label_2_36c6b9de:
 
     # Lucy "Yes, just like that..."
-    Lucy ""
-
+    Lucy "Да, вот так..."
+    
 # game/logic/events/adele.rpy:1036
 translate russian vip_lucy_1_label_2_15199bda:
 
     # Lucy "I think I'm in love with your dick."
-    Lucy ""
-
+    Lucy "Думаю, я влюблена в твой пенис."
+    
 # game/logic/events/adele.rpy:1038
 translate russian vip_lucy_1_label_2_afec45bf:
 
     # Lucy "It's the biggest turn on."
-    Lucy ""
-
+    Lucy "Это безумно заводит."
+    
 # game/logic/events/adele.rpy:1039
 translate russian vip_lucy_1_label_2_0ae9bcd0_1:
 
     # ""
     ""
-
+    
 # game/logic/events/adele.rpy:1040
 translate russian vip_lucy_1_label_2_ebfe69a6:
 
     # Lucy "Mmmm!"
-    Lucy ""
-
+    Lucy "Мммм!"
+    
 # game/logic/events/adele.rpy:1041
 translate russian vip_lucy_1_label_2_b639bd2b:
 
     # Lucy "How fast do you think my pussy can make you cum?"
-    Lucy ""
-
+    Lucy "Как думаешь, как быстро моя киска доведет тебя до оргазма?"
+    
 # game/logic/events/adele.rpy:1043
 translate russian vip_lucy_1_label_2_2bb51957:
 
     # ch_Name "I can barely control myself with you."
-    ch_Name ""
-
+    ch_Name "С тобой я с трудом себя контролирую."
+    
 # game/logic/events/adele.rpy:1044
 translate russian vip_lucy_1_label_2_0ae9bcd0_2:
 
     # ""
     ""
-
+    
 # game/logic/events/adele.rpy:1045
 translate russian vip_lucy_1_label_2_ea319aa4:
 
     # Lucy "Ohhhh!"
-    Lucy ""
-
+    Lucy "Охххх!"
+    
 # game/logic/events/adele.rpy:1046
 translate russian vip_lucy_1_label_2_ed70a087:
 
     # ch_Name "I'm soo close, Lucy."
-    ch_Name ""
-
+    ch_Name "Я уже близко, Lucy."
+    
 # game/logic/events/adele.rpy:1048
 translate russian vip_lucy_1_label_2_0bd3181a:
 
     # Lucy "Mmhm-mhm!"
-    Lucy ""
-
+    Lucy "Ммхм-мхм!"
+    
 # game/logic/events/adele.rpy:1049
 translate russian vip_lucy_1_label_2_0ae9bcd0_3:
 
     # ""
     ""
-
+    
 # game/logic/events/adele.rpy:1050
 translate russian vip_lucy_1_label_2_4abaf7a3:
 
     # ch_Name "Keep moving you ass, bitch."
-    ch_Name ""
-
+    ch_Name "Продолжай двигать своей задницей, сучка."
+    
 # game/logic/events/adele.rpy:1051
 translate russian vip_lucy_1_label_2_dd10c660:
 
     # ch_Name "Yes!"
-    ch_Name ""
-
+    ch_Name "Да!"
+    
 # game/logic/events/adele.rpy:1053
 translate russian vip_lucy_1_label_2_f49bb6ed:
 
     # ch_Name "{i}(I never felt the way I do!){/i}"
-    ch_Name ""
-
+    ch_Name "{i}(Никогда не чувствовал ничего подобного!){/i}"
+    
 # game/logic/events/adele.rpy:1054
 translate russian vip_lucy_1_label_2_806315c9:
 
     # ch_Name "{i}(And to watch this bitch's pussy rubbing around my dick...){/i}"
-    ch_Name ""
-
+    ch_Name "{i}(И видеть, как киска этой сучки трется о мой член...){/i}"
+    
 # game/logic/events/adele.rpy:1055
 translate russian vip_lucy_1_label_2_5968e84b:
 
     # ch_Name "{i}(An absolute pleasure.){/i}"
-    ch_Name ""
-
+    ch_Name "{i}(Абсолютное удовольствие.){/i}"
+    
 # game/logic/events/adele.rpy:1057
 translate russian vip_lucy_1_label_2_2bfd707c:
 
     # ch_Name "You flow like a slut."
-    ch_Name ""
-
+    ch_Name "Ты течешь как шлюха."
+    
 # game/logic/events/adele.rpy:1058
 translate russian vip_lucy_1_label_2_59b62c87_1:
 
     # Lucy "Mmmmm!"
-    Lucy ""
-
+    Lucy "Ммммм!"
+    
 # game/logic/events/adele.rpy:1059
 translate russian vip_lucy_1_label_2_0728f8ee:
 
     # ch_Name "So amazing to feel your every dirty hole."
-    ch_Name ""
-
+    ch_Name "Так восхитительно чувствовать все твои грязные дырочки."
+    
 # game/logic/events/adele.rpy:1060
 translate russian vip_lucy_1_label_2_4902deb4:
 
     # ch_Name "I think I'm going to cum."
-    ch_Name ""
-
+    ch_Name "Я скоро кончу."
+    
 # game/logic/events/adele.rpy:1061
 translate russian vip_lucy_1_label_2_022262cc:
 
     # Lucy "My skin wants to feel your semen!"
-    Lucy ""
-
+    Lucy "Хочу почувствовать твое семя на моей коже!"
+    
 # game/logic/events/adele.rpy:1063
 translate russian vip_lucy_1_label_2_def28355:
 
     # ch_Name "Oh, fuck!" with flash
-    ch_Name "" with flash
-
+    ch_Name "Ох, блядь!" with flash
+    
 # game/logic/events/adele.rpy:1064
 translate russian vip_lucy_1_label_2_f860e20a:
 
     # Lucy "Mhm-mhm..."
-    Lucy ""
-
+    Lucy "Мхм-мхм..."
+    
 # game/logic/events/adele.rpy:1065
 translate russian vip_lucy_1_label_2_b4de5f16:
 
     # ch_Name "Just unbelievable!"
-    ch_Name ""
+    ch_Name "Просто невероятно!
 
 # game/logic/events/adele.rpy:1067
 translate russian vip_lucy_1_label_2_51d86c9d:
 
     # Lucy "So warm."
-    Lucy ""
+    Lucy "Такая теплая."
 
 # game/logic/events/adele.rpy:1068
 translate russian vip_lucy_1_label_2_b7f092b8:
 
     # Lucy "Whoow!"
-    Lucy ""
+    Lucy "Воооу!"
 
 # game/logic/events/adele.rpy:1069
 translate russian vip_lucy_1_label_2_87084097:
 
     # Lucy "So pleasantly to feel how it's flowing."
-    Lucy ""
+    Lucy "Так приятно чувствовать как она струится."
 
 # game/logic/events/adele.rpy:1071
 translate russian vip_lucy_1_label_2_f66c5d3b:
 
     # ch_Name "{i}(What's a little bitch!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Какая маленькая шлюшка!){/i}"
 
 # game/logic/events/adele.rpy:1072
 translate russian vip_lucy_1_label_2_050f9313:
 
     # Lucy "Just inexpressibly!"
-    Lucy ""
+    Lucy "Просто невыразимо!"
 
 # game/logic/events/adele.rpy:1073
 translate russian vip_lucy_1_label_2_cc02989a:
 
     # ch_Name "Do you say it to every client you have?"
-    ch_Name ""
+    ch_Name "Ты говоришь это каждому своему клиенту?"
 
 # game/logic/events/adele.rpy:1075
 translate russian vip_lucy_1_label_2_ef1a6d41:
 
     # Lucy "To tell the truth..."
-    Lucy ""
+    Lucy "Если честно..."
 
 # game/logic/events/adele.rpy:1076
 translate russian vip_lucy_1_label_2_37699889:
 
     # Lucy "Not really."
-    Lucy ""
+    Lucy "На самом деле нет."
 
 # game/logic/events/adele.rpy:1077
 translate russian vip_lucy_1_label_2_a05e9f53:
 
     # ch_Name "Nice to hear it."
-    ch_Name ""
+    ch_Name "Приятно слышать."
 
 # game/logic/events/adele.rpy:1079
 translate russian vip_lucy_1_label_2_4a6f830b:
 
     # Lucy "I haven't felt something like that with anyone else for a long time."
-    Lucy ""
+    Lucy "Я давно ни к кому не испытывала ничего подобного."
 
 # game/logic/events/adele.rpy:1080
 translate russian vip_lucy_1_label_2_4fc098f8:
 
     # Lucy "Hope you will visit us often."
-    Lucy ""
+    Lucy "Надеюсь, ты будешь приходить почаще."
 
 # game/logic/events/adele.rpy:1081
 translate russian vip_lucy_1_label_2_3a79dc8f:
 
     # ch_Name "We'll see, baby."
-    ch_Name ""
+    ch_Name "Посмотрим, крошка."
 
 # game/logic/events/adele.rpy:1094
 translate russian vip_sadira_1_label_5960d585:
 
     # ch_Name "{i}(The beautiful Sadira strikes again with her movements at the pole.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Красавица Sadira снова поражает своими движениями на пилоне.){/i}"
 
 # game/logic/events/adele.rpy:1096
 translate russian vip_sadira_1_label_0ae9bcd0:
@@ -3232,13 +3231,13 @@ translate russian vip_sadira_1_label_0ae9bcd0:
 translate russian vip_sadira_1_label_f3d2bf64:
 
     # ch_Name "{i}(And her lingerie is maddening.){/i}"
-    ch_Name ""
+    ch_Name "{i}(И ее белье просто сумасшедшее.){/i}"
 
 # game/logic/events/adele.rpy:1099
 translate russian vip_sadira_1_label_d700427e:
 
     # ch_Name "{i}(But I'd like to see underneath...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Но мне бы хотелось увидеть то, что под ним...){/i}"
 
 # game/logic/events/adele.rpy:1101
 translate russian vip_sadira_1_label_0ae9bcd0_1:
@@ -3250,13 +3249,13 @@ translate russian vip_sadira_1_label_0ae9bcd0_1:
 translate russian vip_sadira_1_label_d1e262fc:
 
     # ch_Name "{i}(Oh, yes! What gorgeous boobs!){/i}"
-    ch_Name ""
+    ch_Name "{i}(О да! Какие великолепные сиськи!){/i}"
 
 # game/logic/events/adele.rpy:1105
 translate russian vip_sadira_1_label_b2cdd66f:
 
     # ch_Name "{i}(They're just the perfect shape.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Их форма просто идеальна.){/i}"
 
 # game/logic/events/adele.rpy:1107
 translate russian vip_sadira_1_label_0ae9bcd0_2:
@@ -3268,25 +3267,25 @@ translate russian vip_sadira_1_label_0ae9bcd0_2:
 translate russian vip_sadira_1_label_d460122f:
 
     # ch_Name "{i}(She was so clever with her panties in the dance...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Очень умно с ее стороны оставить трусики во время танца...){/i}"
 
 # game/logic/events/adele.rpy:1110
 translate russian vip_sadira_1_label_7287383d:
 
     # ch_Name "Bravo!"
-    ch_Name ""
+    ch_Name "Браво!"
 
 # game/logic/events/adele.rpy:1112
 translate russian vip_sadira_1_label_3e695196:
 
     # ch_Name "{i}(I think I got her attention!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Думаю, я привлек ее внимание!){/i}"
 
 # game/logic/events/adele.rpy:1113
 translate russian vip_sadira_1_label_3dcb3810:
 
     # ch_Name "{i}(She's coming to me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Она идет ко мне.){/i}"
 
 # game/logic/events/adele.rpy:1115
 translate russian vip_sadira_1_label_0ae9bcd0_3:
@@ -3304,133 +3303,133 @@ translate russian vip_sadira_1_label_0ae9bcd0_4:
 translate russian vip_sadira_1_label_8e4112bd:
 
     # Sadira "Are you ready now?"
-    Sadira ""
+    Sadira "Ты уже готов?"
 
 # game/logic/events/adele.rpy:1120
 translate russian vip_sadira_1_label_80c9c2bc:
 
     # ch_Name "For what?"
-    ch_Name ""
+    ch_Name "К чему?"
 
 # game/logic/events/adele.rpy:1121
 translate russian vip_sadira_1_label_b2fc3c4e:
 
     # Sadira "To get what you deserve..."
-    Sadira ""
+    Sadira "Получить то, чего заслуживаешь..."
 
 # game/logic/events/adele.rpy:1122
 translate russian vip_sadira_1_label_fe16c2a8:
 
     # ch_Name "What's that?{w} Woah..."
-    ch_Name ""
+    ch_Name "Чего же?{w} Воу..."
 
 # game/logic/events/adele.rpy:1124
 translate russian vip_sadira_1_label_f866b4a4:
 
     # Sadira "Do you mind if I sit here?"
-    Sadira ""
+    Sadira "Я присяду, ты не против?"
 
 # game/logic/events/adele.rpy:1125
 translate russian vip_sadira_1_label_cdedb57e:
 
     # ch_Name "Not at all..."
-    ch_Name ""
+    ch_Name "Вовсе нет..."
 
 # game/logic/events/adele.rpy:1127
 translate russian vip_sadira_1_label_65b0e67d:
 
     # Sadira "You've been a good boy."
-    Sadira ""
+    Sadira "Ты был хорошим мальчиком."
 
 # game/logic/events/adele.rpy:1128
 translate russian vip_sadira_1_label_7cfb19f9:
 
     # Sadira "And earned a treat."
-    Sadira ""
+    Sadira "И заслужил награду."
 
 # game/logic/events/adele.rpy:1129
 translate russian vip_sadira_1_label_9fb9135b:
 
     # ch_Name "What's that?"
-    ch_Name ""
+    ch_Name "Какую?"
 
 # game/logic/events/adele.rpy:1131
 translate russian vip_sadira_1_label_a8d0a185:
 
     # Sadira "A night full of pleasure."
-    Sadira ""
+    Sadira "Ночь, полную удовольствия."
 
 # game/logic/events/adele.rpy:1132
 translate russian vip_sadira_1_label_9a7d39f9:
 
     # ch_Name "І'm intrigued."
-    ch_Name ""
+    ch_Name "Я заинтригован."
 
 # game/logic/events/adele.rpy:1134
 translate russian vip_sadira_1_label_b9da26dc:
 
     # ch_Name "What do I have to do?"
-    ch_Name ""
+    ch_Name "Что я должен сделать?"
 
 # game/logic/events/adele.rpy:1135
 translate russian vip_sadira_1_label_a6cd6820:
 
     # Sadira "You just have to say what you want, baby!"
-    Sadira ""
+    Sadira "Просто сказать, чего ты хочешь, детка!"
 
 # game/logic/events/adele.rpy:1139
 translate russian vip_sadira_1_label_9220ef76:
 
     # ch_Name "Well in that case..."
-    ch_Name ""
+    ch_Name "Ну, в таком случае..."
 
 # game/logic/events/adele.rpy:1141
 translate russian vip_sadira_1_label_56069a69:
 
     # ch_Name "Ill have to say \"No\" this time."
-    ch_Name ""
+    ch_Name "Мне придется сказать \"Нет\" на этот раз."
 
 # game/logic/events/adele.rpy:1142
 translate russian vip_sadira_1_label_2432f1ae:
 
     # Sadira "But... Why?"
-    Sadira ""
+    Sadira "Но... почему?"
 
 # game/logic/events/adele.rpy:1143
 translate russian vip_sadira_1_label_a9d7ff23:
 
     # ch_Name "I'm not in the mood, sorry,"
-    ch_Name ""
+    ch_Name "Прости, я не в насторении."
 
 # game/logic/events/adele.rpy:1145
 translate russian vip_sadira_1_label_1ee79b82:
 
     # Sadira "It's your loss."
-    Sadira ""
+    Sadira "Твоя потеря."
 
 # game/logic/events/adele.rpy:1146
 translate russian vip_sadira_1_label_a8c1c31a:
 
     # Sadira "We still have time, so I'll get back to dancing."
-    Sadira ""
+    Sadira "У нас все еще есть время, так что я продолжу танцевать."
 
 # game/logic/events/adele.rpy:1148
 translate russian vip_sadira_1_label_d06d5b47:
 
     # ch_Name "{i}(She definitely got the moves...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Она определенно умеет двигаться...){/i}"
 
 # game/logic/events/adele.rpy:1149
 translate russian vip_sadira_1_label_3b183424:
 
     # ch_Name "{i}(Maybe next time I'll try her other services.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Может, в следующий раз испробую и другие ее услуги.){/i}"
 
 # game/logic/events/adele.rpy:1158
 translate russian vip_sadira_1_label_5960d585_1:
 
     # ch_Name "{i}(The beautiful Sadira strikes again with her movements at the pole.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Красавица Sadira снова поражает своими движениями на пилоне.){/i}"
 
 # game/logic/events/adele.rpy:1160
 translate russian vip_sadira_1_label_0ae9bcd0_5:
@@ -3448,13 +3447,13 @@ translate russian vip_sadira_1_label_0ae9bcd0_6:
 translate russian vip_sadira_1_label_f3d2bf64_1:
 
     # ch_Name "{i}(And her lingerie is maddening.){/i}"
-    ch_Name ""
+    ch_Name "{i}(И ее белье просто сумасшедшее.){/i}"
 
 # game/logic/events/adele.rpy:1165
 translate russian vip_sadira_1_label_d700427e_1:
 
     # ch_Name "{i}(But I'd like to see underneath...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Но мне бы хотелось увидеть то, что под ним...){/i}"
 
 # game/logic/events/adele.rpy:1167
 translate russian vip_sadira_1_label_0ae9bcd0_7:
@@ -3466,13 +3465,13 @@ translate russian vip_sadira_1_label_0ae9bcd0_7:
 translate russian vip_sadira_1_label_d1e262fc_1:
 
     # ch_Name "{i}(Oh, yes! What gorgeous boobs!){/i}"
-    ch_Name ""
+    ch_Name "{i}(О да! Какие великолепные сиськи!){/i}"
 
 # game/logic/events/adele.rpy:1171
 translate russian vip_sadira_1_label_b2cdd66f_1:
 
     # ch_Name "{i}(They're just the perfect shape.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Их форма просто идеальна.){/i}"
 
 # game/logic/events/adele.rpy:1173
 translate russian vip_sadira_1_label_0ae9bcd0_8:
@@ -3484,19 +3483,19 @@ translate russian vip_sadira_1_label_0ae9bcd0_8:
 translate russian vip_sadira_1_label_d460122f_1:
 
     # ch_Name "{i}(She was so clever with her panties in the dance...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Очень умно с ее стороны оставить трусики во время танца...){/i}"
 
 # game/logic/events/adele.rpy:1177
 translate russian vip_sadira_1_label_7287383d_1:
 
     # ch_Name "Bravo!"
-    ch_Name ""
+    ch_Name "Браво!"
 
 # game/logic/events/adele.rpy:1179
 translate russian vip_sadira_1_label_3e695196_1:
 
     # ch_Name "{i}(I think I got her attention!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Думаю, я привлек ее внимание!){/i}"
 
 # game/logic/events/adele.rpy:1181
 translate russian vip_sadira_1_label_0ae9bcd0_9:
@@ -3514,703 +3513,703 @@ translate russian vip_sadira_1_label_0ae9bcd0_10:
 translate russian vip_sadira_1_label_711c037f:
 
     # Sadira "Do you like to watch me dance, sweety?"
-    Sadira ""
+    Sadira "Тебе нравится смотреть, как я танцую, сладкий?"
 
 # game/logic/events/adele.rpy:1186
 translate russian vip_sadira_1_label_52b5284d:
 
     # Sadira "Do you like what you see?"
-    Sadira ""
+    Sadira "Нравится то, что ты видишь?"
 
 # game/logic/events/adele.rpy:1188
 translate russian vip_sadira_1_label_d6e38424:
 
     # ch_Name "Oh yes."
-    ch_Name ""
+    ch_Name "О да."
 
 # game/logic/events/adele.rpy:1189
 translate russian vip_sadira_1_label_ea1c5800:
 
     # Sadira "Tell me, how much do you like it."
-    Sadira ""
+    Sadira "Скажи мне, как сильно тебе это нравится."
 
 # game/logic/events/adele.rpy:1191
 translate russian vip_sadira_1_label_4b710730:
 
     # ch_Name "You're a dream come true, baby. What else can I say?"
-    ch_Name ""
+    ch_Name "Ты воплощенная мечта, детка. Что еще я могу сказать?"
 
 # game/logic/events/adele.rpy:1192
 translate russian vip_sadira_1_label_36edb5b4:
 
     # Sadira "Tell me that I'm beautiful."
-    Sadira ""
+    Sadira "Скажи мне, что я красивая."
 
 # game/logic/events/adele.rpy:1194
 translate russian vip_sadira_1_label_d6206a62:
 
     # ch_Name "{i}(Oh wow... She's so close to me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ох, вау... Она так близко.){/i}"
 
 # game/logic/events/adele.rpy:1195
 translate russian vip_sadira_1_label_007bf42c:
 
     # ch_Name "You're beautiful. It's true."
-    ch_Name ""
+    ch_Name "Ты красивая. Это правда."
 
 # game/logic/events/adele.rpy:1197
 translate russian vip_sadira_1_label_224b61df:
 
     # Sadira "I'm so happy to hear it..."
-    Sadira ""
+    Sadira "Я так рада это слышать..."
 
 # game/logic/events/adele.rpy:1198
 translate russian vip_sadira_1_label_71e1bc67:
 
     # Sadira "I can barely restrain myself."
-    Sadira ""
+    Sadira "Я с трудом себя сдерживаю."
 
 # game/logic/events/adele.rpy:1200
 translate russian vip_sadira_1_label_fe9307e1:
 
     # Sadira "Just one word, and we'll start the fun."
-    Sadira ""
+    Sadira "Всего одно слово и мы начнем веселье."
 
 # game/logic/events/adele.rpy:1201
 translate russian vip_sadira_1_label_a6cd6820_1:
 
     # Sadira "You just have to say what you want, baby!"
-    Sadira ""
+    Sadira "Ты просто должен сказать, чего ты хочешь, детка!"
 
 # game/logic/events/adele.rpy:1205
 translate russian vip_sadira_1_label_5ad7abcc:
 
     # ch_Name "Well... No."
-    ch_Name ""
+    ch_Name "Ну... Нет."
 
 # game/logic/events/adele.rpy:1207
 translate russian vip_sadira_1_label_d776c545:
 
     # ch_Name "Not now, that's for sure."
-    ch_Name ""
+    ch_Name "Точно не сейчас."
 
 # game/logic/events/adele.rpy:1208
 translate russian vip_sadira_1_label_55e41fb7:
 
     # Sadira "What a waste of time..."
-    Sadira ""
+    Sadira "Какая трата времени..."
 
 # game/logic/events/adele.rpy:1210
 translate russian vip_sadira_1_label_a42f4b18:
 
     # ch_Name "Don't get mad, baby. I'm just not in the mood."
-    ch_Name ""
+    ch_Name "Не обижайся, крошка. Я просто не в настроении."
 
 # game/logic/events/adele.rpy:1211
 translate russian vip_sadira_1_label_290f5269:
 
     # ch_Name "Get back to dancing."
-    ch_Name ""
+    ch_Name "Продолжай танцевать."
 
 # game/logic/events/adele.rpy:1213
 translate russian vip_sadira_1_label_d06d5b47_1:
 
     # ch_Name "{i}(She definitely got the moves...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Она определенно умеет двигаться...){/i}"
 
 # game/logic/events/adele.rpy:1214
 translate russian vip_sadira_1_label_3b183424_1:
 
     # ch_Name "{i}(Maybe next time I'll try her other services.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Может, в следующий раз испробую и другие ее услуги.){/i}"
 
 # game/logic/events/adele.rpy:1237
 translate russian vip_sadira_1_label_1_c205f5f1:
 
     # ch_Name "Yes..."
-    ch_Name ""
+    ch_Name "Да..."
 
 # game/logic/events/adele.rpy:1239
 translate russian vip_sadira_1_label_1_75e97e5c:
 
     # Sadira "One look at your cock makes me tremble."
-    Sadira ""
+    Sadira "Один взгляд на твой член вызывает во мне дрожь."
 
 # game/logic/events/adele.rpy:1240
 translate russian vip_sadira_1_label_1_7cde2c2a:
 
     # Sadira "I'm all wet already."
-    Sadira ""
+    Sadira "Я уже вся влажная."
 
 # game/logic/events/adele.rpy:1242
 translate russian vip_sadira_1_label_1_1319713b:
 
     # Sadira "Are you ready, darling?"
-    Sadira ""
+    Sadira "Ты готов, дорогой?"
 
 # game/logic/events/adele.rpy:1243
 translate russian vip_sadira_1_label_1_7f38c835:
 
     # ch_Name "Show me what you've got."
-    ch_Name ""
+    ch_Name "Покажи, что у тебя есть."
 
 # game/logic/events/adele.rpy:1245
 translate russian vip_sadira_1_label_1_0c3d9c60:
 
     # Sadira "That's just the beginning."
-    Sadira ""
+    Sadira "Это только начало."
 
 # game/logic/events/adele.rpy:1246
 translate russian vip_sadira_1_label_1_24d12599:
 
     # Sadira "But it drove a lot of men crazy, too."
-    Sadira ""
+    Sadira "Но это также сводило с ума многих мужчин."
 
 # game/logic/events/adele.rpy:1247
 translate russian vip_sadira_1_label_1_e29a9144:
 
     # ch_Name "I'm not that easy to impress."
-    ch_Name ""
+    ch_Name "Меня не так легко впечатлить."
 
 # game/logic/events/adele.rpy:1248
 translate russian vip_sadira_1_label_1_d1f7be81:
 
     # Sadira "We'll see."
-    Sadira ""
+    Sadira "Посмотрим."
 
 # game/logic/events/adele.rpy:1250
 translate russian vip_sadira_1_label_1_6cff7ddf:
 
     # Sadira "[Name], I must say..."
-    Sadira ""
+    Sadira "[Name], должна сказать..."
 
 # game/logic/events/adele.rpy:1251
 translate russian vip_sadira_1_label_1_73de6794:
 
     # Sadira "You have an incredible cock."
-    Sadira ""
+    Sadira "У тебя невероятный член."
 
 # game/logic/events/adele.rpy:1252
 translate russian vip_sadira_1_label_1_0056cfa1:
 
     # Sadira "You can feel the power in it..."
-    Sadira ""
+    Sadira "В нем чувствуется сила..."
 
 # game/logic/events/adele.rpy:1253
 translate russian vip_sadira_1_label_1_2fad3cb5:
 
     # Sadira "It makes me want to sit on you..."
-    Sadira ""
+    Sadira "Он заставляет меня хотеть оседлать тебя..."
 
 # game/logic/events/adele.rpy:1255
 translate russian vip_sadira_1_label_1_9ffbc0c7:
 
     # ch_Name "So what are you waiting for?"
-    ch_Name ""
+    ch_Name "Так чего ты ждешь?"
 
 # game/logic/events/adele.rpy:1256
 translate russian vip_sadira_1_label_1_10ac7055:
 
     # Sadira "You're right, this is much better."
-    Sadira ""
+    Sadira "Ты прав, так намного лучше."
 
 # game/logic/events/adele.rpy:1258
 translate russian vip_sadira_1_label_1_9fcbeed1:
 
     # ch_Name "I thought you were gonna sit on my dick..."
-    ch_Name ""
+    ch_Name "Я думал, ты сядешь на мой член..."
 
 # game/logic/events/adele.rpy:1259
 translate russian vip_sadira_1_label_1_85ce50fa:
 
     # Sadira "Oh... It's not time yet, baby."
-    Sadira ""
+    Sadira "Ох... Еще не время, детка."
 
 # game/logic/events/adele.rpy:1261
 translate russian vip_sadira_1_label_1_6a4c6541:
 
     # Sadira "Sex is just the tip of the iceberg."
-    Sadira ""
+    Sadira "Секс это только верхушка айсберга."
 
 # game/logic/events/adele.rpy:1262
 translate russian vip_sadira_1_label_1_91280bdb:
 
     # Sadira "We enjoy each other completely... Ahh..."
-    Sadira ""
+    Sadira "Мы получим полное удовольствие друг от друга... Ахх..."
 
 # game/logic/events/adele.rpy:1263
 translate russian vip_sadira_1_label_1_91406bed:
 
     # Sadira "With every inch of our bodies."
-    Sadira ""
+    Sadira "Каждым дюймом наших тел."
 
 # game/logic/events/adele.rpy:1264
 translate russian vip_sadira_1_label_1_adbdce5f:
 
     # Sadira "And only then - sex!"
-    Sadira ""
+    Sadira "И только потом - секс!"
 
 # game/logic/events/adele.rpy:1266
 translate russian vip_sadira_1_label_1_a76978a5:
 
     # ch_Name "I confess, it's incredibly satisfying..."
-    ch_Name ""
+    ch_Name "Признаю, это невероятно приятно..."
 
 # game/logic/events/adele.rpy:1267
 translate russian vip_sadira_1_label_1_bb444278:
 
     # Sadira "This is what I wanted to hear."
-    Sadira ""
+    Sadira "Именно это я и хотела услышать."
 
 # game/logic/events/adele.rpy:1268
 translate russian vip_sadira_1_label_1_753c6fc3:
 
     # Sadira "But this night was only the first of my many tales."
-    Sadira ""
+    Sadira "Но эта ночь - только первая из множества моих сказок."
 
 # game/logic/events/adele.rpy:1270
 translate russian vip_sadira_1_label_1_19c0a21c:
 
     # ch_Name "Then I want to enjoy them all..."
-    ch_Name ""
+    ch_Name "Тогда я хочу насладиться всеми ими..."
 
 # game/logic/events/adele.rpy:1271
 translate russian vip_sadira_1_label_1_cf84cffe:
 
     # Sadira "All in good time."
-    Sadira ""
+    Sadira "Всему свое время."
 
 # game/logic/events/adele.rpy:1273
 translate russian vip_sadira_1_label_1_494c4534:
 
     # ch_Name "Oh yes, just like that,"
-    ch_Name ""
+    ch_Name "О да, именно так."
 
 # game/logic/events/adele.rpy:1274
 translate russian vip_sadira_1_label_1_c7ebc4c3:
 
     # ch_Name "I'm going to cum..."
-    ch_Name ""
+    ch_Name "Я скоро кончу..."
 
 # game/logic/events/adele.rpy:1276
 translate russian vip_sadira_1_label_1_3c105d56:
 
     # Sadira "Me too..."
-    Sadira ""
+    Sadira "Я тоже..."
 
 # game/logic/events/adele.rpy:1277
 translate russian vip_sadira_1_label_1_337f6b06:
 
     # Sadira "Oh yes! "
-    Sadira ""
+    Sadira "О да! "
 
 # game/logic/events/adele.rpy:1279
 translate russian vip_sadira_1_label_1_cdbacdaf:
 
     # Sadira "Shower me with your cum!"
-    Sadira ""
+    Sadira "Искупай меня в своей сперме!"
 
 # game/logic/events/adele.rpy:1280
 translate russian vip_sadira_1_label_1_add01e0c:
 
     # Sadira "Give it all to me!"
-    Sadira ""
+    Sadira "Дай мне всю ее!"
 
 # game/logic/events/adele.rpy:1282
 translate russian vip_sadira_1_label_1_0e29719f:
 
     # Sadira "Yes! That's it!"
-    Sadira ""
+    Sadira "Да! Вот так!"
 
 # game/logic/events/adele.rpy:1283
 translate russian vip_sadira_1_label_1_67eb149b:
 
     # ch_Name "Oh yes!"
-    ch_Name ""
+    ch_Name "О да!"
 
 # game/logic/events/adele.rpy:1285
 translate russian vip_sadira_1_label_1_c704d710:
 
     # Sadira "Ah... Yes, more!"
-    Sadira ""
+    Sadira "Ах... Да, еще!"
 
 # game/logic/events/adele.rpy:1286
 translate russian vip_sadira_1_label_1_c4f925ce:
 
     # Sadira "You came so much..."
-    Sadira ""
+    Sadira "Ты так сильно кончил..."
 
 # game/logic/events/adele.rpy:1288
 translate russian vip_sadira_1_label_1_2577f140:
 
     # Sadira "We can't waste your precious liquids."
-    Sadira ""
+    Sadira "Мы не можем напрасно тратить твою драгоценную жидкость."
 
 # game/logic/events/adele.rpy:1289
 translate russian vip_sadira_1_label_1_8d4b5653:
 
     # ch_Name "What else would you use it for..."
-    ch_Name ""
+    ch_Name "Где бы еще применить ее..."
 
 # game/logic/events/adele.rpy:1290
 translate russian vip_sadira_1_label_1_156992cf:
 
     # Sadira "Mmm... That's what I like."
-    Sadira ""
+    Sadira "Ммм... То, что я люблю."
 
 # game/logic/events/adele.rpy:1292
 translate russian vip_sadira_1_label_1_bb2d0347:
 
     # ch_Name "{i}(What a slut...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Какая шлюха...){/i}"
 
 # game/logic/events/adele.rpy:1293
 translate russian vip_sadira_1_label_1_58d4b2be:
 
     # ch_Name "Thanks..."
-    ch_Name ""
+    ch_Name "Спасибо..."
 
 # game/logic/events/adele.rpy:1294
 translate russian vip_sadira_1_label_1_d7ed3d30:
 
     # Sadira "C'ya around, honey,"
-    Sadira ""
+    Sadira "Еще увидимся, сладкий."
 
 # game/logic/events/adele.rpy:1296
 translate russian vip_sadira_1_label_1_dd10c660:
 
     # ch_Name "Yes!"
-    ch_Name ""
+    ch_Name "Да!"
 
 # game/logic/events/adele.rpy:1297
 translate russian vip_sadira_1_label_1_00c54c09:
 
     # Sadira "Then you came to the right person."
-    Sadira ""
+    Sadira "Тогда ты пришел к нужному человеку."
 
 # game/logic/events/adele.rpy:1298
 translate russian vip_sadira_1_label_1_4ecdb685:
 
     # ch_Name "I hope you're right."
-    ch_Name ""
+    ch_Name "Надеюсь, ты права."
 
 # game/logic/events/adele.rpy:1299
 translate russian vip_sadira_1_label_1_1bd081da:
 
     # ch_Name "You have a nice tool."
-    ch_Name ""
+    ch_Name "У тебя хороший инструмент."
 
 # game/logic/events/adele.rpy:1300
 translate russian vip_sadira_1_label_1_401bb5e9:
 
     # Sadira "Thank you, baby."
-    Sadira ""
+    Sadira "Спасибо, детка."
 
 # game/logic/events/adele.rpy:1301
 translate russian vip_sadira_1_label_1_36d959ac:
 
     # Sadira "But I'm much more interested in yours."
-    Sadira ""
+    Sadira "Но меня куда больше интересует твой."
 
 # game/logic/events/adele.rpy:1303
 translate russian vip_sadira_1_label_1_9313e537:
 
     # Sadira "Just like that."
-    Sadira ""
+    Sadira "Вот так."
 
 # game/logic/events/adele.rpy:1304
 translate russian vip_sadira_1_label_1_d0ee0167:
 
     # ch_Name "{i}(She's got a nice touch.){/i}"
-    ch_Name ""
+    ch_Name "{i}(У нее приятные прикосновения.){/i}"
 
 # game/logic/events/adele.rpy:1306
 translate russian vip_sadira_1_label_1_6cff7ddf_1:
 
     # Sadira "[Name], I must say..."
-    Sadira ""
+    Sadira "[Name], должна сказать..."
 
 # game/logic/events/adele.rpy:1307
 translate russian vip_sadira_1_label_1_73de6794_1:
 
     # Sadira "You have an incredible cock."
-    Sadira ""
+    Sadira "У тебя невероятный член."
 
 # game/logic/events/adele.rpy:1308
 translate russian vip_sadira_1_label_1_8702ceac:
 
     # Sadira "I love how it feels in my hands."
-    Sadira ""
+    Sadira "Мне нравится, как он ощущается в моих руках."
 
 # game/logic/events/adele.rpy:1309
 translate russian vip_sadira_1_label_1_3a5c7650:
 
     # ch_Name "Thank you."
-    ch_Name ""
+    ch_Name "Спасибо."
 
 # game/logic/events/adele.rpy:1311
 translate russian vip_sadira_1_label_1_cbd359cb:
 
     # Sadira "It's so hot..."
-    Sadira ""
+    Sadira "Он такой горячий..."
 
 # game/logic/events/adele.rpy:1312
 translate russian vip_sadira_1_label_1_0056cfa1_1:
 
     # Sadira "You can feel the power in it..."
-    Sadira ""
+    Sadira "В нем чувствуется сила..."
 
 # game/logic/events/adele.rpy:1313
 translate russian vip_sadira_1_label_1_a34e620a:
 
     # Sadira "I'm jealous."
-    Sadira ""
+    Sadira "Я завидую."
 
 # game/logic/events/adele.rpy:1315
 translate russian vip_sadira_1_label_1_446fc9de:
 
     # ch_Name "How does your dick feel in hand?"
-    ch_Name ""
+    ch_Name "Как твой член ощущается в руке?"
 
 # game/logic/events/adele.rpy:1316
 translate russian vip_sadira_1_label_1_55ac1724:
 
     # Sadira "Try it yourself, baby."
-    Sadira ""
+    Sadira "Попробуй сам, детка."
 
 # game/logic/events/adele.rpy:1317
 translate russian vip_sadira_1_label_1_cbd63ed0:
 
     # ch_Name "Alright."
-    ch_Name ""
+    ch_Name "Ладно."
 
 # game/logic/events/adele.rpy:1319
 translate russian vip_sadira_1_label_1_4e9baf2b:
 
     # Sadira "Oh yes... I can feel your grasp, [Name]."
-    Sadira ""
+    Sadira "О да... Я чувствую твою хватку, [Name]."
 
 # game/logic/events/adele.rpy:1320
 translate russian vip_sadira_1_label_1_45b31bdf:
 
     # ch_Name "I can feel your touch too."
-    ch_Name ""
+    ch_Name "Я тоже чувствую твои прикосновения."
 
 # game/logic/events/adele.rpy:1322
 translate russian vip_sadira_1_label_1_431ef881:
 
     # Sadira "Stroke it at the time I stroke yours..."
-    Sadira ""
+    Sadira "Ласкай его, пока я ласкаю твой..."
 
 # game/logic/events/adele.rpy:1323
 translate russian vip_sadira_1_label_1_a11887a6:
 
     # ch_Name "Like this?"
-    ch_Name ""
+    ch_Name "Так?"
 
 # game/logic/events/adele.rpy:1324
 translate russian vip_sadira_1_label_1_8014d7b6:
 
     # Sadira "Oh yes..."
-    Sadira ""
+    Sadira "О да..."
 
 # game/logic/events/adele.rpy:1325
 translate russian vip_sadira_1_label_1_54623b73:
 
     # Sadira "Keep going, baby."
-    Sadira ""
+    Sadira "Продолжай, детка."
 
 # game/logic/events/adele.rpy:1327
 translate russian vip_sadira_1_label_1_a93d50a5:
 
     # ch_Name "You too."
-    ch_Name ""
+    ch_Name "Ты тоже."
 
 # game/logic/events/adele.rpy:1328
 translate russian vip_sadira_1_label_1_16c5f8c0:
 
     # ch_Name "{i}(I've never felt anything like this...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Никогда не чувствовал ничего подобного...){/i}"
 
 # game/logic/events/adele.rpy:1329
 translate russian vip_sadira_1_label_1_8ff4347d:
 
     # Sadira "Yes, yes... Do you feel it?"
-    Sadira ""
+    Sadira "Да, да... Ты это чувствуешь?"
 
 # game/logic/events/adele.rpy:1330
 translate russian vip_sadira_1_label_1_1855220c:
 
     # ch_Name "What?"
-    ch_Name ""
+    ch_Name "Что?"
 
 # game/logic/events/adele.rpy:1332
 translate russian vip_sadira_1_label_1_e9da7032:
 
     # Sadira "The ecstasy..."
-    Sadira ""
+    Sadira "Экстаз..."
 
 # game/logic/events/adele.rpy:1333
 translate russian vip_sadira_1_label_1_729fd9a4:
 
     # ch_Name "Oh yes..."
-    ch_Name ""
+    ch_Name "О да..."
 
 # game/logic/events/adele.rpy:1335
 translate russian vip_sadira_1_label_1_3368d128:
 
     # ch_Name "I can't wait any longer."
-    ch_Name ""
+    ch_Name "Не могу больше ждать."
 
 # game/logic/events/adele.rpy:1336
 translate russian vip_sadira_1_label_1_90eefd17:
 
     # ch_Name "I'm going to cum!"
-    ch_Name ""
+    ch_Name "Я вот-вот кончу!"
 
 # game/logic/events/adele.rpy:1338
 translate russian vip_sadira_1_label_1_b07af958:
 
     # Sadira "Look me in the eyes."
-    Sadira ""
+    Sadira "Посмотри мне в глаза."
 
 # game/logic/events/adele.rpy:1339
 translate russian vip_sadira_1_label_1_46cd254c:
 
     # Sadira "Yes! Yes! Yes!"
-    Sadira ""
+    Sadira "Да! Да! Да!"
 
 # game/logic/events/adele.rpy:1341
 translate russian vip_sadira_1_label_1_0d2cec0d:
 
     # Sadira "That's what I like!"
-    Sadira ""
+    Sadira "Это мне нравится!"
 
 # game/logic/events/adele.rpy:1342
 translate russian vip_sadira_1_label_1_4abb3998:
 
     # Sadira "Oh yes!"
-    Sadira ""
+    Sadira "О да!"
 
 # game/logic/events/adele.rpy:1344
 translate russian vip_sadira_1_label_1_c8be6e9b:
 
     # Sadira "I'm cuming too!"
-    Sadira ""
+    Sadira "Я тоже кончаю!"
 
 # game/logic/events/adele.rpy:1345
 translate russian vip_sadira_1_label_1_8851e55a:
 
     # Sadira "Ah... Yes..."
-    Sadira ""
+    Sadira "Ах... Да..."
 
 # game/logic/events/adele.rpy:1347
 translate russian vip_sadira_1_label_1_5b4da7fe:
 
     # Sadira "There's only one problem."
-    Sadira ""
+    Sadira "Есть только одна проблема."
 
 # game/logic/events/adele.rpy:1348
 translate russian vip_sadira_1_label_1_1855220c_1:
 
     # ch_Name "What?"
-    ch_Name ""
+    ch_Name "Что?"
 
 # game/logic/events/adele.rpy:1350
 translate russian vip_sadira_1_label_1_c4f925ce_1:
 
     # Sadira "You came so much..."
-    Sadira ""
+    Sadira "Твоей спермы так много..."
 
 # game/logic/events/adele.rpy:1351
 translate russian vip_sadira_1_label_1_422f46cf:
 
     # ch_Name "He-he."
-    ch_Name ""
+    ch_Name "Хе-хе."
 
 # game/logic/events/adele.rpy:1352
 translate russian vip_sadira_1_label_1_2577f140_1:
 
     # Sadira "We can't waste your precious liquids."
-    Sadira ""
+    Sadira "Мы не можем напрасно тратить твою драгоценную жидкость."
 
 # game/logic/events/adele.rpy:1354
 translate russian vip_sadira_1_label_1_156992cf_1:
 
     # Sadira "Mmm... That's what I like."
-    Sadira ""
+    Sadira "Ммм... То, что я люблю."
 
 # game/logic/events/adele.rpy:1355
 translate russian vip_sadira_1_label_1_bb2d0347_1:
 
     # ch_Name "{i}(What a slut...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Какая шлюха...){/i}"
 
 # game/logic/events/adele.rpy:1356
 translate russian vip_sadira_1_label_1_58d4b2be_1:
 
     # ch_Name "Thanks..."
-    ch_Name ""
+    ch_Name "Спасибо..."
 
 # game/logic/events/adele.rpy:1357
 translate russian vip_sadira_1_label_1_cda1ab7f:
 
     # Sadira "C'ya around, honey."
-    Sadira ""
+    Sadira "Еще увидимся, сладкий."
 
 # game/logic/events/adele.rpy:1370
 translate russian vip_sadira_1_label_2_f1a178e1:
 
     # Sadira "And you're a naughty boy..."
-    Sadira ""
+    Sadira "А ты развратный мальчишка..."
 
 # game/logic/events/adele.rpy:1371
 translate russian vip_sadira_1_label_2_9ffeeb0e:
 
     # Sadira "Very good, I like that."
-    Sadira ""
+    Sadira "Отлично, мне это нравится."
 
 # game/logic/events/adele.rpy:1372
 translate russian vip_sadira_1_label_2_88e8dfba:
 
     # Sadira "Get ready, your life is about to be divided into \"before\" and \"after\"."
-    Sadira ""
+    Sadira "Приготовься, твоя жизнь вот-вот разделится на \"до\" и \"после\"."
 
 # game/logic/events/adele.rpy:1373
 translate russian vip_sadira_1_label_2_eee686cf:
 
     # ch_Name "Oh..."
-    ch_Name ""
+    ch_Name "Ох..."
 
 # game/logic/events/adele.rpy:1375
 translate russian vip_sadira_1_label_2_9357ec3d:
 
     # Sadira "Your dick is throbbing so impatiently..."
-    Sadira ""
+    Sadira "Твой пенис дрожит от нетерпения..."
 
 # game/logic/events/adele.rpy:1376
 translate russian vip_sadira_1_label_2_950dd384:
 
     # Sadira "It's okay, I'll calm it down."
-    Sadira ""
+    Sadira "Это нормально, я его успокою."
 
 # game/logic/events/adele.rpy:1377
 translate russian vip_sadira_1_label_2_2e831b09:
 
     # ch_Name "Wait..."
-    ch_Name ""
+    ch_Name "Подожди..."
 
 # game/logic/events/adele.rpy:1379
 translate russian vip_sadira_1_label_2_c899ac97:
 
     # ch_Name "I want to taste your pussy!"
-    ch_Name ""
+    ch_Name "Я хочу попробовать твою киску!"
 
 # game/logic/events/adele.rpy:1380
 translate russian vip_sadira_1_label_2_177e15da:
 
     # ch_Name "Let's do it in the sixty-nine position."
-    ch_Name ""
+    ch_Name "Давай сделаем это в позе 69."
 
 # game/logic/events/adele.rpy:1381
 translate russian vip_sadira_1_label_2_6449e0ed:
@@ -4222,199 +4221,199 @@ translate russian vip_sadira_1_label_2_6449e0ed:
 translate russian vip_sadira_1_label_2_a92069ea:
 
     # Sadira "I love a guy who knows what he wants."
-    Sadira ""
+    Sadira "Люблю мужчин, которые знают, чего хотят."
 
 # game/logic/events/adele.rpy:1384
 translate russian vip_sadira_1_label_2_6cb5af04:
 
     # Sadira "Especially when their desires are the same as mine."
-    Sadira ""
+    Sadira "Особенно когда их желания совпадают с моими."
 
 # game/logic/events/adele.rpy:1385
 translate russian vip_sadira_1_label_2_c9b984dd:
 
     # Sadira "I'm in. Get down..."
-    Sadira ""
+    Sadira "Я за. Ложись..."
 
 # game/logic/events/adele.rpy:1392
 translate russian vip_sadira_1_label_2_302b9f0f:
 
     # ch_Name "{i}(Oh, her dark nipples are driving me crazy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ох, ее темные соски сводят меня с ума.){/i}"
 
 # game/logic/events/adele.rpy:1393
 translate russian vip_sadira_1_label_2_aeea9498:
 
     # Sadira "Are you ready, my lion?"
-    Sadira ""
+    Sadira "Ты готов, мой лев?"
 
 # game/logic/events/adele.rpy:1394
 translate russian vip_sadira_1_label_2_4795e70d:
 
     # ch_Name "Can't you see? I'm on the edge!"
-    ch_Name ""
+    ch_Name "Разве ты не видишь? Я на грани!"
 
 # game/logic/events/adele.rpy:1396
 translate russian vip_sadira_1_label_2_7a84473f:
 
     # ch_Name "{i}(She's probably so playful with all her clients...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Вероятно, она такая игривая со всеми своими клиентами...){/i}"
 
 # game/logic/events/adele.rpy:1397
 translate russian vip_sadira_1_label_2_b417c859:
 
     # ch_Name "{i}(But I still can't contain my lust when I look at her body.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Но я все же не могу сдержать свою похоть, когда смотрю на ее тело.){/i}"
 
 # game/logic/events/adele.rpy:1398
 translate russian vip_sadira_1_label_2_208ccced:
 
     # ch_Name "{i}(I can't wait for her chubby lips to wrap around my cock...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Не могу дождаться, чтобы ее пухлые губы обхватили мой член...){/i}"
 
 # game/logic/events/adele.rpy:1400
 translate russian vip_sadira_1_label_2_08cb1794:
 
     # Sadira "Oh, my lion, I can see how you're waiting for it!"
-    Sadira ""
+    Sadira "О, мой лев, я вижу, как ты этого ждешь!"
 
 # game/logic/events/adele.rpy:1401
 translate russian vip_sadira_1_label_2_4f5f4c9f:
 
     # Sadira "Your poor cock will burst with tension if I don't start now."
-    Sadira ""
+    Sadira "Твой бедный член лопнет от напряжения, если я сейчас же не начну."
 
 # game/logic/events/adele.rpy:1402
 translate russian vip_sadira_1_label_2_8fa258af:
 
     # Sadira "It's been a long time since I've seen such an imposing device."
-    Sadira ""
+    Sadira "Я давно уже не видела такого внушительного прибора."
 
 # game/logic/events/adele.rpy:1404
 translate russian vip_sadira_1_label_2_738f282a:
 
     # ch_Name "So what are you waiting for? Come here!"
-    ch_Name ""
+    ch_Name "Так чего ты ждешь? Иди сюда!"
 
 # game/logic/events/adele.rpy:1405
 translate russian vip_sadira_1_label_2_cda7d776:
 
     # Sadira "You're so impatient..."
-    Sadira ""
+    Sadira "Ты такой нетерпеливый..."
 
 # game/logic/events/adele.rpy:1406
 translate russian vip_sadira_1_label_2_45179a88:
 
     # Sadira "Didn't I tell you that waiting is the best part of the process?"
-    Sadira ""
+    Sadira "Разве я не говорила тебе, что ожидание это лучшая часть процесса?"
 
 # game/logic/events/adele.rpy:1407
 translate russian vip_sadira_1_label_2_c7a074a4:
 
     # Sadira "Soon, we'll start..."
-    Sadira ""
+    Sadira "Скоро мы начнем..."
 
 # game/logic/events/adele.rpy:1409
 translate russian vip_sadira_1_label_2_f63c1e21:
 
     # ch_Name "Maybe so, but I've waited long enough!"
-    ch_Name ""
+    ch_Name "Возможно, это так, го я достаточно долго ждал!"
 
 # game/logic/events/adele.rpy:1410
 translate russian vip_sadira_1_label_2_64119992:
 
     # ch_Name "Your luscious forms are driving me crazy."
-    ch_Name ""
+    ch_Name "Твои сочные формы сводят меня с ума."
 
 # game/logic/events/adele.rpy:1412
 translate russian vip_sadira_1_label_2_03c5e686:
 
     # Sadira "Good. So go crazy."
-    Sadira ""
+    Sadira "Хорошо. Тогда сойди с ума."
 
 # game/logic/events/adele.rpy:1413
 translate russian vip_sadira_1_label_2_0f84116e:
 
     # ch_Name "Do I pay you for your torment?"
-    ch_Name ""
+    ch_Name "Я плачу тебе за мучения?"
 
 # game/logic/events/adele.rpy:1414
 translate russian vip_sadira_1_label_2_cf6f5250:
 
     # Sadira "You're paying me for an unforgettable experience."
-    Sadira ""
+    Sadira "Ты платишь мне за незабываемый опыт."
 
 # game/logic/events/adele.rpy:1416
 translate russian vip_sadira_1_label_2_c111c831:
 
     # ch_Name "{i}(Oh yeah, I'm already anticipating how wet her pussy is.){/i}"
-    ch_Name ""
+    ch_Name "{i}(О да, я уже предвкушаю, какая у нее влажная киска.){/i}"
 
 # game/logic/events/adele.rpy:1417
 translate russian vip_sadira_1_label_2_5fabf729:
 
     # ch_Name "{i}(The day will come when I fuck her good.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Настанет день и я как следует трахну ее.){/i}"
 
 # game/logic/events/adele.rpy:1418
 translate russian vip_sadira_1_label_2_44ee2920:
 
     # ch_Name "{i}(But tonight, my cock will be busy with another hole.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Но сегодня мой член будет занят другим отверстием.){/i}"
 
 # game/logic/events/adele.rpy:1420
 translate russian vip_sadira_1_label_2_12059ab5:
 
     # Sadira "And that's part of it."
-    Sadira ""
+    Sadira "И это его часть."
 
 # game/logic/events/adele.rpy:1421
 translate russian vip_sadira_1_label_2_f261fb7f:
 
     # Sadira "And now, the second part will begin..."
-    Sadira ""
+    Sadira "А сейчас начнется вторая часть..."
 
 # game/logic/events/adele.rpy:1422
 translate russian vip_sadira_1_label_2_f2cedac4:
 
     # ch_Name "Come here!"
-    ch_Name ""
+    ch_Name "Иди сюда!"
 
 # game/logic/events/adele.rpy:1429
 translate russian vip_sadira_1_label_2_15377d31:
 
     # ch_Name "{i}(Mmm, just as I thought, she's already all wet with anticipation.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ммм, как я и думал, она уже вся мокрая от ожидания.){/i}"
 
 # game/logic/events/adele.rpy:1430
 translate russian vip_sadira_1_label_2_3784bb76:
 
     # ch_Name "{i}(I can feel her hand firmly gripping my cock...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я чувствую, как крепко ее рука сжимает мой член...){/i}"
 
 # game/logic/events/adele.rpy:1431
 translate russian vip_sadira_1_label_2_3db7599a:
 
     # Sadira "Oh... Wow, it's even bigger than I thought it would be."
-    Sadira ""
+    Sadira "Ох... Вау, он даже больше, чем я ожидала."
 
 # game/logic/events/adele.rpy:1432
 translate russian vip_sadira_1_label_2_c2970a35:
 
     # Sadira "I hope it fits in my mouth."
-    Sadira ""
+    Sadira "Надеюсь, он поместится у меня во ру."
 
 # game/logic/events/adele.rpy:1434
 translate russian vip_sadira_1_label_2_e58626bd:
 
     # ch_Name "And you try it!"
-    ch_Name ""
+    ch_Name "А ты попробуй!"
 
 # game/logic/events/adele.rpy:1436
 translate russian vip_sadira_1_label_2_eee686cf_1:
 
     # ch_Name "Oh..."
-    ch_Name ""
+    ch_Name "Ох..."
 
 # game/logic/events/adele.rpy:1437
 translate russian vip_sadira_1_label_2_0ae9bcd0:
@@ -4426,25 +4425,25 @@ translate russian vip_sadira_1_label_2_0ae9bcd0:
 translate russian vip_sadira_1_label_2_499b0243:
 
     # Sadira "Mmm..."
-    Sadira ""
+    Sadira "Ммм..."
 
 # game/logic/events/adele.rpy:1439
 translate russian vip_sadira_1_label_2_4877ae20:
 
     # ch_Name "Oh, yeah, that's it..."
-    ch_Name ""
+    ch_Name "Ох, да, вот так..."
 
 # game/logic/events/adele.rpy:1440
 translate russian vip_sadira_1_label_2_da8043f2:
 
     # ch_Name "Keep going, baby!"
-    ch_Name ""
+    ch_Name "Продолжай, крошка!"
 
 # game/logic/events/adele.rpy:1442
 translate russian vip_sadira_1_label_2_51ffa327:
 
     # Sadira "Mmmm..."
-    Sadira ""
+    Sadira "Мммм..."
 
 # game/logic/events/adele.rpy:1443
 translate russian vip_sadira_1_label_2_0ae9bcd0_1:
@@ -4456,25 +4455,25 @@ translate russian vip_sadira_1_label_2_0ae9bcd0_1:
 translate russian vip_sadira_1_label_2_21ea4090:
 
     # Sadira "You don't stop either..."
-    Sadira ""
+    Sadira "Ты тоже не останавливайся..."
 
 # game/logic/events/adele.rpy:1445
 translate russian vip_sadira_1_label_2_34279e0c:
 
     # Sadira "Ah..."
-    Sadira ""
+    Sadira "Ах..."
 
 # game/logic/events/adele.rpy:1446
 translate russian vip_sadira_1_label_2_42199254:
 
     # Sadira "AH..."
-    Sadira ""
+    Sadira "АХ..."
 
 # game/logic/events/adele.rpy:1448
 translate russian vip_sadira_1_label_2_499b0243_1:
 
     # Sadira "Mmm..."
-    Sadira ""
+    Sadira "Ммм..."
 
 # game/logic/events/adele.rpy:1449
 translate russian vip_sadira_1_label_2_0ae9bcd0_2:
@@ -4486,55 +4485,55 @@ translate russian vip_sadira_1_label_2_0ae9bcd0_2:
 translate russian vip_sadira_1_label_2_35b7dba8:
 
     # ch_Name "{i}(I don't think I've learned how to use my tongue yet.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Кажется, я еще не научился пользоваться своим языком.){/i}"
 
 # game/logic/events/adele.rpy:1451
 translate russian vip_sadira_1_label_2_b732c533:
 
     # ch_Name "{i}(But she's a master of her craft, too.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Но она тоже мастер своего дела.){/i}"
 
 # game/logic/events/adele.rpy:1452
 translate russian vip_sadira_1_label_2_42ace6ff:
 
     # ch_Name "{i}(It's time to see if she can suck just as hard.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Пора проверить, умеет ли она сосать по настоящему сильно.){/i}"
 
 # game/logic/events/adele.rpy:1454
 translate russian vip_sadira_1_label_2_3f8f5693:
 
     # ch_Name "Hey, baby!"
-    ch_Name ""
+    ch_Name "Эй, детка!"
 
 # game/logic/events/adele.rpy:1455
 translate russian vip_sadira_1_label_2_caeeb467:
 
     # Sadira "М?"
-    Sadira ""
+    Sadira "М?"
 
 # game/logic/events/adele.rpy:1456
 translate russian vip_sadira_1_label_2_3368d128:
 
     # ch_Name "I can't wait any longer."
-    ch_Name ""
+    ch_Name "Я не могу больше ждать."
 
 # game/logic/events/adele.rpy:1457
 translate russian vip_sadira_1_label_2_53a55501:
 
     # ch_Name "Start sucking!"
-    ch_Name ""
+    ch_Name "Начинай сосать!"
 
 # game/logic/events/adele.rpy:1459
 translate russian vip_sadira_1_label_2_177d347c:
 
     # Sadira "Mmmm..." with vpunch
-    Sadira "" with vpunch
+    Sadira "Мммм..." with vpunch
 
 # game/logic/events/adele.rpy:1461
 translate russian vip_sadira_1_label_2_64fd0034:
 
     # ch_Name "Oh yeah, that's it, keep going!"
-    ch_Name ""
+    ch_Name "О да, вот так, продолжай!"
 
 # game/logic/events/adele.rpy:1462
 translate russian vip_sadira_1_label_2_0ae9bcd0_3:
@@ -4546,25 +4545,25 @@ translate russian vip_sadira_1_label_2_0ae9bcd0_3:
 translate russian vip_sadira_1_label_2_eee686cf_2:
 
     # ch_Name "Oh..."
-    ch_Name ""
+    ch_Name "Ох..."
 
 # game/logic/events/adele.rpy:1464
 translate russian vip_sadira_1_label_2_ca543b57:
 
     # Sadira "Mhm..."
-    Sadira ""
+    Sadira "Мхм..."
 
 # game/logic/events/adele.rpy:1465
 translate russian vip_sadira_1_label_2_b446dd7a:
 
     # ch_Name "{i}(I have to keep up, too.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я тоже должен продолжать.){/i}"
 
 # game/logic/events/adele.rpy:1467
 translate russian vip_sadira_1_label_2_06929019:
 
     # Sadira "Ah! Oh, yes..."
-    Sadira ""
+    Sadira "Ах! О да..."
 
 # game/logic/events/adele.rpy:1468
 translate russian vip_sadira_1_label_2_0ae9bcd0_4:
@@ -4576,19 +4575,19 @@ translate russian vip_sadira_1_label_2_0ae9bcd0_4:
 translate russian vip_sadira_1_label_2_3dd2f4a1:
 
     # ch_Name "{i}(She obviously likes my efforts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ей явно нравятся мои усилия.){/i}"
 
 # game/logic/events/adele.rpy:1470
 translate russian vip_sadira_1_label_2_dfc928ff:
 
     # ch_Name "{i}(This makes her suck even harder.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Они заставляют ее сосать еще сильнее.){/i}"
 
 # game/logic/events/adele.rpy:1471
 translate russian vip_sadira_1_label_2_ca543b57_1:
 
     # Sadira "Mhm..."
-    Sadira ""
+    Sadira "Мхм..."
 
 # game/logic/events/adele.rpy:1473
 translate russian vip_sadira_1_label_2_3e401e8d:
@@ -4606,25 +4605,25 @@ translate russian vip_sadira_1_label_2_0ae9bcd0_5:
 translate russian vip_sadira_1_label_2_06929019_1:
 
     # Sadira "Ah! Oh, yes..."
-    Sadira ""
+    Sadira "Ах! О да..."
 
 # game/logic/events/adele.rpy:1476
 translate russian vip_sadira_1_label_2_6394ed59:
 
     # ch_Name "Oh... Mmm..."
-    ch_Name ""
+    ch_Name "Ох... Ммм..."
 
 # game/logic/events/adele.rpy:1477
 translate russian vip_sadira_1_label_2_0681017a:
 
     # ch_Name "{i}(It's worth the money, that's for sure...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Это определенно стоит своих денег.){/i}"
 
 # game/logic/events/adele.rpy:1479
 translate russian vip_sadira_1_label_2_0a11198e:
 
     # Sadira "Mm-hmm..."
-    Sadira ""
+    Sadira "Мм-хмм..."
 
 # game/logic/events/adele.rpy:1480
 translate russian vip_sadira_1_label_2_0ae9bcd0_6:
@@ -4636,55 +4635,55 @@ translate russian vip_sadira_1_label_2_0ae9bcd0_6:
 translate russian vip_sadira_1_label_2_51eb371d:
 
     # ch_Name "Oh, yeah..."
-    ch_Name ""
+    ch_Name "О да..."
 
 # game/logic/events/adele.rpy:1482
 translate russian vip_sadira_1_label_2_304273ff:
 
     # ch_Name "Keep it up, baby."
-    ch_Name ""
+    ch_Name "Продолжай, крошка."
 
 # game/logic/events/adele.rpy:1483
 translate russian vip_sadira_1_label_2_033c830d:
 
     # ch_Name "That's great..."
-    ch_Name ""
+    ch_Name "Это отлично..."
 
 # game/logic/events/adele.rpy:1484
 translate russian vip_sadira_1_label_2_5da7d200:
 
     # Sadira "Less words, more action, my lion!"
-    Sadira ""
+    Sadira "Меньше слов, больше дела, мой лев!"
 
 # game/logic/events/adele.rpy:1486
 translate russian vip_sadira_1_label_2_53b00b3b:
 
     # ch_Name "Mm-hmm..."
-    ch_Name ""
+    ch_Name "Мм-хмм..."
 
 # game/logic/events/adele.rpy:1487
 translate russian vip_sadira_1_label_2_b80848fe:
 
     # ch_Name "{i}(She's right, I can't keep up.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Она права, я не должен отставать.){/i}"
 
 # game/logic/events/adele.rpy:1488
 translate russian vip_sadira_1_label_2_ad434e23:
 
     # ch_Name "{i}(I want to taste what she tastes like when she has an orgasm.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Хочу узнать, какая она на вкус во время оргазма.){/i}"
 
 # game/logic/events/adele.rpy:1489
 translate russian vip_sadira_1_label_2_730d2dfc:
 
     # Sadira "Ah! Ah!"
-    Sadira ""
+    Sadira "Ах! Ах!"
 
 # game/logic/events/adele.rpy:1491
 translate russian vip_sadira_1_label_2_a6c4a2be:
 
     # Sadira "Ah! Oh yeah..."
-    Sadira ""
+    Sadira "Ах! О да..."
 
 # game/logic/events/adele.rpy:1492
 translate russian vip_sadira_1_label_2_0ae9bcd0_7:
@@ -4696,217 +4695,217 @@ translate russian vip_sadira_1_label_2_0ae9bcd0_7:
 translate russian vip_sadira_1_label_2_56d013d8:
 
     # ch_Name "Ohh... Mmm..."
-    ch_Name ""
+    ch_Name "Охх... Ммм..."
 
 # game/logic/events/adele.rpy:1494
 translate russian vip_sadira_1_label_2_a3139d9a:
 
     # ch_Name "{i}(I'm almost at my limit. She's too good.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я почти на пределе. Она слишком хороша.){/i}"
 
 # game/logic/events/adele.rpy:1495
 translate russian vip_sadira_1_label_2_6b389b7e:
 
     # ch_Name "I'm..."
-    ch_Name ""
+    ch_Name "Я..."
 
 # game/logic/events/adele.rpy:1497
 translate russian vip_sadira_1_label_2_2fda9a58:
 
     # ch_Name "{i}(If this keeps up, I'm going to come.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Если это продолжится, я скоро кончу.){/i}"
 
 # game/logic/events/adele.rpy:1498
 translate russian vip_sadira_1_label_2_fe881b29:
 
     # ch_Name "{i}(I have to warn her.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Надо предупредить ее.){/i}"
 
 # game/logic/events/adele.rpy:1499
 translate russian vip_sadira_1_label_2_7494d93a:
 
     # ch_Name "I'm going to come soon. Don't stop!"
-    ch_Name ""
+    ch_Name "Я скоро кончу. Не останавливайся!"
 
 # game/logic/events/adele.rpy:1500
 translate russian vip_sadira_1_label_2_0a11198e_1:
 
     # Sadira "Mm-hmm..."
-    Sadira ""
+    Sadira "Мм-хмм..."
 
 # game/logic/events/adele.rpy:1502
 translate russian vip_sadira_1_label_2_2a9bad9f:
 
     # Sadira "Good! Me too..."
-    Sadira ""
+    Sadira "Хорошо! Я тоже..."
 
 # game/logic/events/adele.rpy:1503
 translate russian vip_sadira_1_label_2_d5790951:
 
     # Sadira "Don't worry, my lion."
-    Sadira ""
+    Sadira "Не беспокойся, мой лев."
 
 # game/logic/events/adele.rpy:1504
 translate russian vip_sadira_1_label_2_a2454e19:
 
     # Sadira "I won't shed a drop of your seed!"
-    Sadira ""
+    Sadira "Я не упущу ни капли твоего семени!"
 
 # game/logic/events/adele.rpy:1506
 translate russian vip_sadira_1_label_2_09ab5796:
 
     # ch_Name "{i}(What is it... Why did she stop?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Что такое... Почему она остановилась?){/i}"
 
 # game/logic/events/adele.rpy:1507
 translate russian vip_sadira_1_label_2_5a497ad4:
 
     # ch_Name "{i}(Is it some kind of technique? Or did something go wrong?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Это какая-то особая техника? Или что-то пошло не так?){/i}"
 
 # game/logic/events/adele.rpy:1508
 translate russian vip_sadira_1_label_2_8c41bb6f:
 
     # ch_Name "Ah..."
-    ch_Name ""
+    ch_Name "Ах..."
 
 # game/logic/events/adele.rpy:1509
 translate russian vip_sadira_1_label_2_dc34394b:
 
     # ch_Name "{i}(Her tongue is running so nicely over my head. It's like she's going to...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ее язык так приятно бегает по моей головке. Словно она собирается...){/i}"
 
 # game/logic/events/adele.rpy:1511
 translate russian vip_sadira_1_label_2_956c68f6:
 
     # ch_Name "Ah!" with vpunch
-    ch_Name "" with vpunch
+    ch_Name "Ах!" with vpunch
 
 # game/logic/events/adele.rpy:1512
 translate russian vip_sadira_1_label_2_b78e2d9c:
 
     # ch_Name "{i}(Wow... In just a moment she has it all in her mouth.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Вау... Она взяла его целиком в рот всего за мгновение.){/i}"
 
 # game/logic/events/adele.rpy:1513
 translate russian vip_sadira_1_label_2_67d36fab:
 
     # ch_Name "Ah! Oh, yes..."
-    ch_Name ""
+    ch_Name "Ах! Ох, да..."
 
 # game/logic/events/adele.rpy:1515
 translate russian vip_sadira_1_label_2_f5a1921c:
 
     # ch_Name "I can't hold back any longer..."
-    ch_Name ""
+    ch_Name "Я не могу больше сдерживаться..."
 
 # game/logic/events/adele.rpy:1516
 translate russian vip_sadira_1_label_2_499b0243_2:
 
     # Sadira "Mmm..."
-    Sadira ""
+    Sadira "Ммм..."
 
 # game/logic/events/adele.rpy:1517
 translate russian vip_sadira_1_label_2_bbc6dd13:
 
     # ch_Name "Get ready!"
-    ch_Name ""
+    ch_Name "Приготовься!"
 
 # game/logic/events/adele.rpy:1519
 translate russian vip_sadira_1_label_2_e6fd9e9a:
 
     # ch_Name "OH, YES!" with flash
-    ch_Name "" with flash
+    ch_Name "О ДА!" with flash
 
 # game/logic/events/adele.rpy:1520
 translate russian vip_sadira_1_label_2_ee177493:
 
     # ch_Name "Ahh... That feels so good."
-    ch_Name ""
+    ch_Name "Ахх... Это так хорошо."
 
 # game/logic/events/adele.rpy:1521
 translate russian vip_sadira_1_label_2_7bd4e091:
 
     # ch_Name "Ah!" with flash
-    ch_Name "" with flash
+    ch_Name "Ах!" with flash
 
 # game/logic/events/adele.rpy:1522
 translate russian vip_sadira_1_label_2_a90d3870:
 
     # ch_Name "{i}(She didn't even choke on it...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Она даже не подавилась...){/i}"
 
 # game/logic/events/adele.rpy:1524
 translate russian vip_sadira_1_label_2_2a57d80a:
 
     # ch_Name "{i}(But I can feel her head greedily thrusting on my cock.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Но я чувствую, как жадно ее голова насаживается на мой член.){/i}"
 
 # game/logic/events/adele.rpy:1525
 translate russian vip_sadira_1_label_2_5252dbd6:
 
     # ch_Name "{i}(Crazy...){/i}"
-    ch_Name ""
+    ch_Name "{i}(С ума сойти...){/i}"
 
 # game/logic/events/adele.rpy:1526
 translate russian vip_sadira_1_label_2_5d9efeb9:
 
     # ch_Name "Good girl..."
-    ch_Name ""
+    ch_Name "Хорошая девочка..."
 
 # game/logic/events/adele.rpy:1528
 translate russian vip_sadira_1_label_2_c40077d3:
 
     # ch_Name "I'm all..."
-    ch_Name ""
+    ch_Name "Я все..."
 
 # game/logic/events/adele.rpy:1529
 translate russian vip_sadira_1_label_2_bbf8a1e4:
 
     # Sadira "I noticed."
-    Sadira ""
+    Sadira "Я заметила."
 
 # game/logic/events/adele.rpy:1536
 translate russian vip_sadira_1_label_2_fd37d9d3:
 
     # ch_Name "I think you did spill a few drops."
-    ch_Name ""
+    ch_Name "Думаю, ты все-таки пролила пару капель."
 
 # game/logic/events/adele.rpy:1537
 translate russian vip_sadira_1_label_2_3948569b:
 
     # ch_Name "Your face is all messed up."
-    ch_Name ""
+    ch_Name "У тебя все лицо грязное."
 
 # game/logic/events/adele.rpy:1538
 translate russian vip_sadira_1_label_2_2ab14bc2:
 
     # Sadira "That's for dessert."
-    Sadira ""
+    Sadira "Это на десерт."
 
 # game/logic/events/adele.rpy:1540
 translate russian vip_sadira_1_label_2_8a732084:
 
     # Sadira "You were great."
-    Sadira ""
+    Sadira "Ты был потрясающим."
 
 # game/logic/events/adele.rpy:1541
 translate russian vip_sadira_1_label_2_9fab1f49:
 
     # ch_Name "We should do it again sometime."
-    ch_Name ""
+    ch_Name "Надо как-нибудь повторить это."
 
 # game/logic/events/adele.rpy:1542
 translate russian vip_sadira_1_label_2_5939d53d:
 
     # Sadira "We will if you want us to, my lion."
-    Sadira ""
+    Sadira "Повторим, если хочешь, мой лев."
 
 # game/logic/events/adele.rpy:1543
 translate russian vip_sadira_1_label_2_ae5ffc39:
 
     # Sadira "See you soon!"
-    Sadira ""
+    Sadira "Скоро увидимся!"
 
 # game/logic/events/adele.rpy:1545
 translate russian vip_sadira_1_label_2_302b9f0f_1:
