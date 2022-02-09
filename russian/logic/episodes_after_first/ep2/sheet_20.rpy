@@ -70,19 +70,19 @@ translate russian sheet_20_e7afd585:
 translate russian sheet_20_12cd647e:
 
     # Jacob "Oh, Miss Lapis!"
-    Jacob "О, мисс Lapis!"
+    Jacob "О, мисс Ляпис!"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:48
 translate russian sheet_20_660478ae:
 
     # Jacob "Good evening, Victoria. The applicants have arrived."
-    Jacob "Добрый вечер, Victoria. Пришли абитуриенты."
+    Jacob "Добрый вечер, Виктория. Пришли абитуриенты."
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:50
 translate russian sheet_20_f7a30c55:
 
     # Victoria "I know, Jacob. "
-    Victoria "Я знаю, Jacob. "
+    Victoria "Я знаю, Джейкоб. "
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:53
 translate russian sheet_20_47585275:
@@ -160,7 +160,7 @@ translate russian sheet_20_1bd47f69:
 translate russian sheet_20_45335ac2:
 
     # Victoria "Thank you, Jacob. From this point I'll take the lead."
-    Victoria "Спасибо, Jacob. С этого момента я возьму инициативу на себя."
+    Victoria "Спасибо, Джейкоб. С этого момента я возьму инициативу на себя."
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:72
 translate russian sheet_20_f4a57c70:
@@ -178,7 +178,7 @@ translate russian sheet_20_ee1cd8d1:
 translate russian sheet_20_2e5351c4:
 
     # Jacob "Good luck at the exam, Vicky."
-    Jacob "Удачи на экзамене, Vicky."
+    Jacob "Удачи на экзамене, Вики."
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:78
 translate russian sheet_20_12d0a9e2:
@@ -190,13 +190,13 @@ translate russian sheet_20_12d0a9e2:
 translate russian sheet_20_9f87f016:
 
     # Victoria "Please, gather around me."
-    Victoria ""
+    Victoria "Пожалуйста, соберитесь вокруг меня."
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:82
 translate russian sheet_20_b120c1eb:
 
     # Victoria "My name is Victoria Lapis. I am a teacher of battle magic and your examiner."
-    Victoria "Пожалуйста, соберитесь вокруг меня."
+    Victoria "Меня зовут Виктория Ляпис. Я учитель боевой магии и ваш экзаменатор."
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:84
 translate russian sheet_20_3d821629:
@@ -208,7 +208,7 @@ translate russian sheet_20_3d821629:
 translate russian sheet_20_386502c6:
 
     # Victoria "It depicts the legendary Melissa Owlsight!"
-    Victoria "На нем изображена легендарная Melissa Owlsight!"
+    Victoria "На нем изображена легендарная Мелисса Оулсайт!"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:89
 translate russian sheet_20_9fd27b31:
@@ -220,7 +220,7 @@ translate russian sheet_20_9fd27b31:
 translate russian sheet_20_c1cb3803:
 
     # Victoria "And the teacher of four founders of Cordale Academy."
-    Victoria "И учитель четырех основателей Академии Cordale."
+    Victoria "И учитель четырех основателей Академии Кордейл."
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:93
 translate russian sheet_20_e52af344:
@@ -280,7 +280,7 @@ translate russian sheet_20_27a1070f:
 translate russian sheet_20_2b3b2693:
 
     # Victoria "Knowing Jacob, I'll assume..."
-    Victoria "Зная Jacob, я предполагаю..."
+    Victoria "Зная Джейкоба, я предполагаю..."
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:114
 translate russian sheet_20_458a6c3e:
@@ -376,7 +376,7 @@ translate russian sheet_20_729ba2b7:
 translate russian sheet_20_menu_1_ans_1_f5631da6:
 
     # ch_Name "Tell us about Cordale Academy."
-    ch_Name "Расскажите нам об Академии Cordale."
+    ch_Name "Расскажите нам об Академии Кордейл."
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:173
 translate russian sheet_20_menu_1_ans_1_b0a387f2:
@@ -412,7 +412,7 @@ translate russian sheet_20_menu_1_ans_1_ffcb5e86:
 translate russian sheet_20_menu_1_ans_1_09295ee7:
 
     # ch_Name "How is it that everyone knows that Cordale is a prestigious educational institution..."
-    ch_Name "Откуда все знают, что Cordale - престижное учебное заведение..."
+    ch_Name "Откуда все знают, что Кордейл - престижное учебное заведение..."
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:187
 translate russian sheet_20_menu_1_ans_1_54de9780:
@@ -580,7 +580,7 @@ translate russian sheet_20_menu_1_ans_3_bc467059:
 translate russian sheet_20_menu_1_ans_3_0e49ed36:
 
     # Victoria "Do you have any family members who studied here, in Cordale?"
-    Victoria "У вас есть члены семьи, которые учились здесь, в Cordale?"
+    Victoria "У вас есть члены семьи, которые учились здесь, в Коредйле?"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:250
 translate russian sheet_20_menu_1_ans_3_069c5187:
@@ -592,7 +592,7 @@ translate russian sheet_20_menu_1_ans_3_069c5187:
 translate russian sheet_20_menu_1_ans_3_61094853:
 
     # ch_Name "My friend and flatmate Samantha Rose studies here."
-    ch_Name "Здесь учится моя подруга и соседка по квартире Samantha Rose."
+    ch_Name "Здесь учится моя подруга и соседка по квартире Саманта Роуз."
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:255
 translate russian sheet_20_menu_1_ans_3_146b6940:
@@ -628,7 +628,7 @@ translate russian sheet_20_menu_2_ans_1_f459f406:
 translate russian sheet_20_menu_2_ans_1_5c6ec76b:
 
     # Victoria "Don't forget that Cordale is an elite educational institution."
-    Victoria "Не забывайте, что Cordale — элитное учебное заведение."
+    Victoria "Не забывайте, что Кордейл — элитное учебное заведение."
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:277
 translate russian sheet_20_menu_2_ans_1_6b9deb9c:
@@ -645,8 +645,8 @@ translate russian sheet_20_menu_2_ans_2_2d242468:
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:284
 translate russian sheet_20_menu_2_ans_2_81ac9b71:
 
-    # Victoria "Но тогда вы потеряете шанс научить своего нового, самого талантливого ученика."
-    Victoria ""
+    # Victoria "Mr. [Surname], you have a sharp tongue."
+    Victoria "Мистер [Surname], у вас острый язык."
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:286
 translate russian sheet_20_menu_2_ans_2_2e004337:
