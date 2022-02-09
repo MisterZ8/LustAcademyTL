@@ -76,7 +76,7 @@ translate russian sheet_19_04538919:
 translate russian sheet_19_0aba2282:
 
     # UnknownJacob "Oh, by the way — My name is Jacob Constantine."
-    UnknownJacob "Да, кстати — Меня зовут Jacob Constantine."
+    UnknownJacob "Да, кстати — Меня зовут Джейкоб Константин."
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:36
 translate russian sheet_19_0c80d2cb:
@@ -142,7 +142,7 @@ translate russian sheet_19_c4506604:
 translate russian sheet_19_6d9fca84:
 
     # Jacob "Cordale, Everwood, and N.O.W.A., which stands for New Orleans Witch Academy."
-    Jacob "Cordale, Everwood и N.O.W.A., что означает Академия Ведьм в Новом Орлеане."
+    Jacob "Кордейл, Эвервуд и А.В.Н.О., что означает Академия Ведьм в Новом Орлеане."
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:69
 translate russian sheet_19_859af304:
@@ -172,7 +172,7 @@ translate russian sheet_19_59e5e3ca:
 translate russian sheet_19_db82bdfc:
 
     # Jacob "This makes Cordale the oldest academy in New World."
-    Jacob "Это делает Cordale старейшей академией Нового Света."
+    Jacob "Это делает Кордейл старейшей академией Нового Света."
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:79
 translate russian sheet_19_af8133c6:
@@ -184,7 +184,7 @@ translate russian sheet_19_af8133c6:
 translate russian sheet_19_85cf84c5:
 
     # Jacob "Being a Cordale alumnus is very prestigious."
-    Jacob "Быть выпускником Cordale очень престижно."
+    Jacob "Быть выпускником Кордейл очень престижно."
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:83
 translate russian sheet_19_695d999e:
