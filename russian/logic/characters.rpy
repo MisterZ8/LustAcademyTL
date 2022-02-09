@@ -20,59 +20,59 @@ translate russian strings:
 
     # game/logic/characters.rpy:11
     old "Adele"
-    new ""
+    new "Адель"
 
     # game/logic/characters.rpy:12
     old "Ahchi"
-    new ""
+    new "Ачи"
 
     # game/logic/characters.rpy:13
     old "Amelie"
-    new ""
+    new "Амели"
 
     # game/logic/characters.rpy:14
     old "Angel"
-    new ""
+    new "Ангел"
 
     # game/logic/characters.rpy:15
     old "Arthur"
-    new ""
+    new "Артур"
 
     # game/logic/characters.rpy:16
     old "Ashley"
-    new ""
+    new "Эшли"
 
     # game/logic/characters.rpy:17
     old "Audrey"
-    new ""
+    new "Одри"
 
     # game/logic/characters.rpy:18
     old "Carter"
-    new ""
+    new "Картер"
 
     # game/logic/characters.rpy:19
     old "Grang"
-    new ""
+    new "Гранг"
 
     # game/logic/characters.rpy:20
     old "Diego"
-    new ""
+    new "Диего"
 
     # game/logic/characters.rpy:21
     old "Don"
-    new ""
+    new "Дон"
 
     # game/logic/characters.rpy:22
     old "Elijah"
-    new ""
+    new "Элайджа"
 
     # game/logic/characters.rpy:23
     old "Frida"
-    new ""
+    new "Фрида"
 
     # game/logic/characters.rpy:24
     old "Gabriella"
-    new ""
+    new "Габриэлла"
 
     # game/logic/characters.rpy:25
     old "Giant"
@@ -80,39 +80,39 @@ translate russian strings:
 
     # game/logic/characters.rpy:26
     old "Gordon"
-    new ""
+    new "Гордон"
 
     # game/logic/characters.rpy:27
     old "Grace"
-    new ""
+    new "Грейс"
 
     # game/logic/characters.rpy:28
     old "Haley"
-    new ""
+    new "Хейли"
 
     # game/logic/characters.rpy:29
     old "Jacob"
-    new ""
+    new "Джейкоб"
 
     # game/logic/characters.rpy:30
     old "Jaina"
-    new ""
+    new "Джайна"
 
     # game/logic/characters.rpy:31
     old "Jill"
-    new ""
+    new "Джилл"
 
     # game/logic/characters.rpy:33
     old "Joshi"
-    new ""
+    new "Джоши"
 
     # game/logic/characters.rpy:34
     old "Katrina"
-    new ""
+    new "Катрин"
 
     # game/logic/characters.rpy:35
     old "Leona"
-    new ""
+    new "Леона"
 
     # game/logic/characters.rpy:36
     old "Lily"
@@ -120,15 +120,15 @@ translate russian strings:
 
     # game/logic/characters.rpy:37
     old "Lucy"
-    new ""
+    new "Лили"
 
     # game/logic/characters.rpy:38
     old "Mina"
-    new ""
+    new "Мина"
 
     # game/logic/characters.rpy:39
     old "Molly"
-    new ""
+    new "Молли"
 
     # game/logic/characters.rpy:40
     old "Mushroom Girl"
@@ -136,43 +136,43 @@ translate russian strings:
 
     # game/logic/characters.rpy:41
     old "Naomi"
-    new ""
+    new "Наоми"
 
     # game/logic/characters.rpy:42
     old "Olivia"
-    new ""
+    new "Оливия"
 
     # game/logic/characters.rpy:43
     old "Romul"
-    new ""
+    new "Ромул"
 
     # game/logic/characters.rpy:44
     old "Sabrina"
-    new ""
+    new "Сабрина"
 
     # game/logic/characters.rpy:45
     old "Sadira"
-    new ""
+    new "Садира"
 
     # game/logic/characters.rpy:46
     old "Samantha"
-    new ""
+    new "Саманта"
 
     # game/logic/characters.rpy:47
     old "Selene"
-    new ""
+    new "Селена"
 
     # game/logic/characters.rpy:48
     old "Vanessa"
-    new ""
+    new "Ванесса"
 
     # game/logic/characters.rpy:49
     old "Victoria"
-    new ""
+    new "Виктория"
 
     # game/logic/characters.rpy:50
     old "Willow"
-    new ""
+    new "Уиллоу"
 
     # game/logic/characters.rpy:52
     old "Unknown Man"
