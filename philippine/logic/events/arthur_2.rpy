@@ -940,451 +940,451 @@ translate philippine arthur_2_3_d7e6f74a:
 translate philippine arthur_2_3_f1160c60:
 
     # ch_Name "{i}(I... Can't... Breathe...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi... Ako ... Maka...){/i}"
 
 # game/logic/events/arthur_2.rpy:380
 translate philippine arthur_2_3_3c7eab17:
 
     # ch_Name "{i}(It's over...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ginhawa...){/i}"
 
 # game/logic/events/arthur_2.rpy:381
 translate philippine arthur_2_3_01b7dc97:
 
     # "..." "Hey!"
-    "..." ""
+    "..." "Hoy!"
 
 # game/logic/events/arthur_2.rpy:383
 translate philippine arthur_2_3_87a2fb83:
 
     # "..." "Wake up."
-    "..." ""
+    "..." "Gising na."
 
 # game/logic/events/arthur_2.rpy:384
 translate philippine arthur_2_3_eec2e1d3:
 
     # "..." "We're here!"
-    "..." ""
+    "..." "Nandito na tayo!"
 
 # game/logic/events/arthur_2.rpy:385
 translate philippine arthur_2_3_51441921:
 
     # "..." "Why are you shaking?"
-    "..." ""
+    "..." "May nararamadaman ka ba?"
 
 # game/logic/events/arthur_2.rpy:389
 translate philippine arthur_2_3_293d994b:
 
     # Haley "Are you okay? Wake up! "
-    Haley ""
+    Haley "Ayos ka lang ba? Gumising ka!"
 
 # game/logic/events/arthur_2.rpy:390
 translate philippine arthur_2_3_ce7b0e67:
 
     # Haley "There you go. "
-    Haley ""
+    Haley "Magandang umaga."
 
 # game/logic/events/arthur_2.rpy:392
 translate philippine arthur_2_3_57a334e8:
 
     # Haley "You where dreaming... Was it a nightmare? "
-    Haley ""
+    Haley "Nanaginip ka... Masama ba?"
 
 # game/logic/events/arthur_2.rpy:393
 translate philippine arthur_2_3_2ead44c8:
 
     # ch_Name "Yeah, kind of."
-    ch_Name ""
+    ch_Name "Medyo."
 
 # game/logic/events/arthur_2.rpy:394
 translate philippine arthur_2_3_d8e94121:
 
     # Haley "Well, not even the storm could wake you."
-    Haley ""
+    Haley "Bumagyo kanina at hindi nagising."
 
 # game/logic/events/arthur_2.rpy:395
 translate philippine arthur_2_3_d6fe227a:
 
     # Haley "I was worried."
-    Haley ""
+    Haley "Nag-alala ako."
 
 # game/logic/events/arthur_2.rpy:397
 translate philippine arthur_2_3_bb62cf69:
 
     # ch_Name "Where am I?"
-    ch_Name ""
+    ch_Name "Nasaan ba ako?"
 
 # game/logic/events/arthur_2.rpy:398
 translate philippine arthur_2_3_d1a1f964:
 
     # Haley "It's captain's cabin. We took you here when you got sick."
-    Haley ""
+    Haley "Ang silid ng kapitan. Dito ka namin inilagay noong nagkasakit ka."
 
 # game/logic/events/arthur_2.rpy:399
 translate philippine arthur_2_3_3a5c7650:
 
     # ch_Name "Thank you."
-    ch_Name ""
+    ch_Name "Salamat."
 
 # game/logic/events/arthur_2.rpy:400
 translate philippine arthur_2_3_417e0cff:
 
     # ch_Name "So... Are we there?"
-    ch_Name ""
+    ch_Name "Nandito na ba tayo?"
 
 # game/logic/events/arthur_2.rpy:402
 translate philippine arthur_2_3_2fba814e:
 
     # Haley "Yeah. Everybody has already left for Dale."
-    Haley ""
+    Haley "Oo. Nakasugod na ang bakasyon ng iba."
 
 # game/logic/events/arthur_2.rpy:403
 translate philippine arthur_2_3_febd1634:
 
     # Haley "Captain said you have five minutes to get out."
-    Haley ""
+    Haley "Sabi ng kapitan na may limang minuto ka bago lumabas."
 
 # game/logic/events/arthur_2.rpy:404
 translate philippine arthur_2_3_6a816938:
 
     # Haley "She was very pissed with your \"moanings\"."
-    Haley ""
+    Haley "Nagalit siya sa iyong nga \"haluyhoy\"."
 
 # game/logic/events/arthur_2.rpy:406
 translate philippine arthur_2_3_1a6c1590:
 
     # Haley "Do you think it's hard to navigate the ship?"
-    Haley ""
+    Haley "Sa tingin mo ba mahirap magmaneho ng barko?"
 
 # game/logic/events/arthur_2.rpy:407
 translate philippine arthur_2_3_297e8375:
 
     # ch_Name "Sorry, I'm not in the mood to hijack the ship."
-    ch_Name ""
+    ch_Name "Pasensya, hindi ko gustong nakawin ito."
 
 # game/logic/events/arthur_2.rpy:408
 translate philippine arthur_2_3_0868fcec:
 
     # Haley "When will you learn to get when I'm joking and when I'm serious."
-    Haley ""
+    Haley "Kailan k bang marunong kung nagbibiro ako o naging seryoso."
 
 # game/logic/events/arthur_2.rpy:410
 translate philippine arthur_2_3_54e75ba9:
 
     # ch_Name "We should spend more time together if you want me to do that."
-    ch_Name ""
+    ch_Name "Dapat palagi tayong makikipagsamahan kapag gusto mong gawin ko 'yan."
 
 # game/logic/events/arthur_2.rpy:411
 translate philippine arthur_2_3_05f34be1:
 
     # Haley "Are you offering me a date?"
-    Haley ""
+    Haley "Nanliligaw ka ba sa akin?"
 
 # game/logic/events/arthur_2.rpy:412
 translate philippine arthur_2_3_d7f5d57c:
 
     # ch_Name "I do not dare to stand between you and local library."
-    ch_Name ""
+    ch_Name "'Di ko gustong magtayo sa gitna mo at ng aklatan."
 
 # game/logic/events/arthur_2.rpy:413
 translate philippine arthur_2_3_f4f1bd13:
 
     # ch_Name "But maybe after you learn all about Dale."
-    ch_Name ""
+    ch_Name "Pero siguro pagkatapos mong mag-aral tungkol sa Dale."
 
 # game/logic/events/arthur_2.rpy:415
 translate philippine arthur_2_3_0eac045a:
 
     # Haley "Maybe. Who knows..."
-    Haley ""
+    Haley "Siguro. Tignan natin..."
 
 # game/logic/events/arthur_2.rpy:416
 translate philippine arthur_2_3_27f9dca5:
 
     # ch_Name "You're killing me."
-    ch_Name ""
+    ch_Name "Pinapatay mo ako."
 
 # game/logic/events/arthur_2.rpy:417
 translate philippine arthur_2_3_6084ae42:
 
     # Haley "Then I'd better get out of a crime scene."
-    Haley ""
+    Haley "Kaya aalis na ako sa eksena ng krimen."
 
 # game/logic/events/arthur_2.rpy:419
 translate philippine arthur_2_3_f63fdcff:
 
     # Haley "And you'd better get going too."
-    Haley ""
+    Haley "Ikaw rin."
 
 # game/logic/events/arthur_2.rpy:420
 translate philippine arthur_2_3_430ba448:
 
     # Haley "Captain said she'd feed you to sharks if you dont leave."
-    Haley ""
+    Haley "Sabi ng kapitan na papakainin ka niya sa mga pating kapag 'di ka aalis."
 
 # game/logic/events/arthur_2.rpy:421
 translate philippine arthur_2_3_607fe232:
 
     # ch_Name "Do you think there are sharks in the lake?"
-    ch_Name ""
+    ch_Name "May mga pating ba dito?"
 
 # game/logic/events/arthur_2.rpy:422
 translate philippine arthur_2_3_071463ea:
 
     # Haley "Would you be suprised?"
-    Haley ""
+    Haley "Magugulat ka ba kung meron?"
 
 # game/logic/events/arthur_2.rpy:424
 translate philippine arthur_2_3_edcc2604:
 
     # Haley "Bye!"
-    Haley ""
+    Haley "Paalam!"
 
 # game/logic/events/arthur_2.rpy:425
 translate philippine arthur_2_3_bded165d:
 
     # ch_Name "{i}(Maybe she's right.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Siguro tama siya.){/i}"
 
 # game/logic/events/arthur_2.rpy:426
 translate philippine arthur_2_3_093bc2fd:
 
     # ch_Name "{i}(Look at her go...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tignan nga siya...){/i}"
 
 # game/logic/events/arthur_2.rpy:428
 translate philippine arthur_2_3_adf707ea:
 
     # ch_Name "{i}(Well, I should probably go too.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aalis naman ako.){/i}"
 
 # game/logic/events/arthur_2.rpy:429
 translate philippine arthur_2_3_fc6b4958:
 
     # ch_Name "{i}(I'll think about crazy old witch inside of my mind later.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mamaya ko nang mag-iisip tungkol sa matandang baliw sa panaginip ko.){/i}"
 
 # game/logic/events/arthur_2.rpy:430
 translate philippine arthur_2_3_176569fa:
 
     # ch_Name "{i}(Don't want it to ruin my weekend.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Para 'di masisisira ang Sabado ko.){/i}"
 
 # game/logic/events/arthur_2.rpy:480
 translate philippine arthur_2_5_b2558151:
 
     # ch_Name "{i}(What nice weather! I'm sure it's going to be a great weekend.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ang ganda ng araw!){/i}"
 
 # game/logic/events/arthur_2.rpy:481
 translate philippine arthur_2_5_42ad2fc5:
 
     # Elijah "Hey, [Name], there you are!"
-    Elijah ""
+    Elijah "[Name], nandiyan ka pala!"
 
 # game/logic/events/arthur_2.rpy:483
 translate philippine arthur_2_5_34371a38:
 
     # Elijah "Did you sleep well?"
-    Elijah ""
+    Elijah "Mabuti ba ang tulog mo?"
 
 # game/logic/events/arthur_2.rpy:484
 translate philippine arthur_2_5_9bb528c6:
 
     # ch_Name "Do you know yet?"
-    ch_Name ""
+    ch_Name "Alam mo?"
 
 # game/logic/events/arthur_2.rpy:485
 translate philippine arthur_2_5_42bca763:
 
     # Elijah "Sure, the captain's been grumbling and complaining about you the whole way."
-    Elijah ""
+    Elijah "Siyempre, nagrereklamo ang kapitan sa iyo."
 
 # game/logic/events/arthur_2.rpy:487
 translate philippine arthur_2_5_2e1472ef:
 
     # Elijah "I'm surprised Haley could talk her into it at all."
-    Elijah ""
+    Elijah "Magulat ako na nakipag-usapan sila ni Haley."
 
 # game/logic/events/arthur_2.rpy:488
 translate philippine arthur_2_5_541f3cf4:
 
     # Elijah "Are you okay?"
-    Elijah ""
+    Elijah "Ayos ka lang ba?"
 
 # game/logic/events/arthur_2.rpy:489
 translate philippine arthur_2_5_bfd9816e:
 
     # ch_Name "I just got seasick. I'm fine."
-    ch_Name ""
+    ch_Name "Nalasing lang sa dagat. Ayos lang ako."
 
 # game/logic/events/arthur_2.rpy:490
 translate philippine arthur_2_5_6431c90f:
 
     # Elijah "I'm just going into town to give you a mini tour?"
-    Elijah ""
+    Elijah "Gusto mo ba ng tour?"
 
 # game/logic/events/arthur_2.rpy:495
 translate philippine arthur_2_5_05a537ad:
 
     # ch_Name "I think I'll pass."
-    ch_Name ""
+    ch_Name "Hindi na."
 
 # game/logic/events/arthur_2.rpy:497
 translate philippine arthur_2_5_d1fcfa84:
 
     # Elijah "There you go. Well, it's up to you."
-    Elijah ""
+    Elijah "Sige. Bahala ka."
 
 # game/logic/events/arthur_2.rpy:498
 translate philippine arthur_2_5_4845c0f2:
 
     # Elijah "Have a good weekend, bro!"
-    Elijah ""
+    Elijah "Maglibang ka ng mabuti, tol!"
 
 # game/logic/events/arthur_2.rpy:499
 translate philippine arthur_2_5_a93d50a5:
 
     # ch_Name "You too."
-    ch_Name ""
+    ch_Name "Ikaw din."
 
 # game/logic/events/arthur_2.rpy:501
 translate philippine arthur_2_5_cd0a3917:
 
     # ch_Name "{i}(I hope I didn't hurt Elijah's feelings by saying no.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Umaasa ako na hindi ko sinaktan si Elijah sa pagtanggi sa kanya.){/i}"
 
 # game/logic/events/arthur_2.rpy:506
 translate philippine arthur_2_5_a9fc412a:
 
     # ch_Name "{i}(Hmm, I hadn't noticed Elijah's bouncy ass before.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm, 'di ko pa napansin ang hugis ng pwet niya.){/i}"
 
 # game/logic/events/arthur_2.rpy:507
 translate philippine arthur_2_5_4190058d:
 
     # ch_Name "{i}(Maybe it's just lucky pants.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Baka suwerteng pantalon 'yan.){/i}"
 
 # game/logic/events/arthur_2.rpy:508
 translate philippine arthur_2_5_666e2702:
 
     # ch_Name "{i}(Until I see him naked, I won't know...){/i}"
-    ch_Name ""
+    ch_Name "{i}('Di ko malalaman hanggang makakita ko sa kanya na nakahubad.){/i}"
 
 # game/logic/events/arthur_2.rpy:509
 translate philippine arthur_2_5_b14e2288:
 
     # ch_Name "{i}(Damn, now all I can think about is Elijah's juicy naked ass.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bwisit, ngayon ang pwet niy nalang ang maiisip ko.){/i}"
 
 # game/logic/events/arthur_2.rpy:517
 translate philippine arthur_2_5_2a180cd7:
 
     # ch_Name "Sure, it'll be awesome!"
-    ch_Name ""
+    ch_Name "Sige!"
 
 # game/logic/events/arthur_2.rpy:519
 translate philippine arthur_2_5_05ba050e:
 
     # Elijah "Great, then follow me."
-    Elijah ""
+    Elijah "Ayos, sundin mo ako."
 
 # game/logic/events/arthur_2.rpy:520
 translate philippine arthur_2_5_fe3ba5cd:
 
     # Elijah "I know as much about this town as I do about my hometown."
-    Elijah ""
+    Elijah "Parang ikalawang tahanan ko na ito."
 
 # game/logic/events/arthur_2.rpy:521
 translate philippine arthur_2_5_e8ddb061:
 
     # ch_Name "{i}(Sounds promising.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Interesado na ako.){/i}"
 
 # game/logic/events/arthur_2.rpy:527
 translate philippine arthur_2_5_a9fc412a_1:
 
     # ch_Name "{i}(Hmm, I hadn't noticed Elijah's bouncy ass before.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm, 'di ko pa napansin ang hugis ng pwet niya.){/i}"
 
 # game/logic/events/arthur_2.rpy:528
 translate philippine arthur_2_5_4190058d_1:
 
     # ch_Name "{i}(Maybe it's just lucky pants.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Baka suwerteng pantalon 'yan.){/i}"
 
 # game/logic/events/arthur_2.rpy:529
 translate philippine arthur_2_5_666e2702_1:
 
     # ch_Name "{i}(Until I see him naked, I won't know...){/i}"
-    ch_Name ""
+    ch_Name "{i}('Di ko malalaman hanggang makakita ko sa kanya na nakahubad.){/i}"
 
 # game/logic/events/arthur_2.rpy:530
 translate philippine arthur_2_5_b14e2288_1:
 
     # ch_Name "{i}(Damn, now all I can think about is Elijah's juicy naked ass.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bwisit, ngayon ang pwet niy nalang ang maiisip ko.){/i}"
 
 # game/logic/events/arthur_2.rpy:535
 translate philippine arthur_2_5_fe5d6983:
 
     # ch_Name "What a beauty!"
-    ch_Name ""
+    ch_Name "Ang ganda!"
 
 # game/logic/events/arthur_2.rpy:536
 translate philippine arthur_2_5_712fff03:
 
     # Elijah "Yeah. It's a nice piece of architecture, isn't it?"
-    Elijah ""
+    Elijah "Oo. Magandang bahagi ng arkitektura dito, diba?"
 
 # game/logic/events/arthur_2.rpy:537
 translate philippine arthur_2_5_b6ff4b22:
 
     # ch_Name "I love it. I wish I had my camera with me."
-    ch_Name ""
+    ch_Name "Oo. Sana nandito ang kamera ko."
 
 # game/logic/events/arthur_2.rpy:538
 translate philippine arthur_2_5_34598957:
 
     # Elijah "What's wrong with a phone?"
-    Elijah ""
+    Elijah "May problema ba ang selpon mo?"
 
 # game/logic/events/arthur_2.rpy:539
 translate philippine arthur_2_5_706e4bef:
 
     # ch_Name "A phone camera can't capture that kind of beauty."
-    ch_Name ""
+    ch_Name "Hindi makukuha ng selpon ang kagandahan nito."
 
 # game/logic/events/arthur_2.rpy:541
 translate philippine arthur_2_5_a1ddbb09:
 
     # Elijah "Maybe you can find yourself a new camera there."
-    Elijah ""
+    Elijah "Baka makahanap ka ng kamera doon."
 
 # game/logic/events/arthur_2.rpy:542
 translate philippine arthur_2_5_9fb9135b:
 
     # ch_Name "What's that?"
-    ch_Name ""
+    ch_Name "Ano 'yan?"
 
 # game/logic/events/arthur_2.rpy:544
 translate philippine arthur_2_5_0ff62b56:
 
     # Elijah "It's a local store. It's mostly just stuff, but they bring in everything on request."
-    Elijah ""
+    Elijah "Tindahan. Iba't-ibang bagay ang laman, pero nagbibili naman sila ng kailangan kapag wala."
 
 # game/logic/events/arthur_2.rpy:545
 translate philippine arthur_2_5_273da471:
 
     # ch_Name "I got it. I don't think I have enough money for a new camera, but it's worth a look."
-    ch_Name ""
+    ch_Name "Ayos. 'Di ako sigurado kung sapat ang pera ko, pero papasok rin ako."
 
 # game/logic/events/arthur_2.rpy:546
 translate philippine arthur_2_5_9a53d507:
 
     # Elijah "Speaking of places to look. See that sign to the right?"
-    Elijah ""
+    Elijah "Oo nga pala. Nakita mo ba ang karatulan sa kanan?"
 
 # game/logic/events/arthur_2.rpy:548
 translate philippine arthur_2_5_347329ba:
@@ -1396,145 +1396,145 @@ translate philippine arthur_2_5_347329ba:
 translate philippine arthur_2_5_8c7c9a2c:
 
     # Elijah "Other than that one time in Thailand, it was the best massage I've ever had."
-    Elijah ""
+    Elijah "Nandiyan ang pinakasarap na masahe sa mundo."
 
 # game/logic/events/arthur_2.rpy:550
 translate philippine arthur_2_5_fe4bd11c:
 
     # ch_Name "I'm not much of a massage guy, to be honest."
-    ch_Name ""
+    ch_Name "Hindi ako talagang nagkukuha ng mga masahe, sa totoo lang."
 
 # game/logic/events/arthur_2.rpy:552
 translate philippine arthur_2_5_68d9eb61:
 
     # Elijah "Oh trust me, bro! This one's worth a try."
-    Elijah ""
+    Elijah "Maniwala ka sa akin! Sulit naman."
 
 # game/logic/events/arthur_2.rpy:553
 translate philippine arthur_2_5_270f9a32:
 
     # Elijah "Come on, I'll show you a nice hotel."
-    Elijah ""
+    Elijah "Ipakita ko sa iyo ang hotel."
 
 # game/logic/events/arthur_2.rpy:554
 translate philippine arthur_2_5_5431f94c:
 
     # Elijah "It's really close."
-    Elijah ""
+    Elijah "Malapit naman tayo."
 
 # game/logic/events/arthur_2.rpy:556
 translate philippine arthur_2_5_7b339b58:
 
     # ch_Name "Thanks for showing me around, Elijah."
-    ch_Name ""
+    ch_Name "Salamat talaga, Elijah."
 
 # game/logic/events/arthur_2.rpy:557
 translate philippine arthur_2_5_ceff46fd:
 
     # ch_Name "You're a good headman."
-    ch_Name ""
+    ch_Name "Mabuti kang kaibigan."
 
 # game/logic/events/arthur_2.rpy:558
 translate philippine arthur_2_5_95eca2c7:
 
     # Elijah "Aha-ha-ha. You really think so?"
-    Elijah ""
+    Elijah "Aha-ha-ha. Sa tingin mo?"
 
 # game/logic/events/arthur_2.rpy:560
 translate philippine arthur_2_5_13010f77:
 
     # Elijah "Here we are."
-    Elijah ""
+    Elijah "Nandito na tayo."
 
 # game/logic/events/arthur_2.rpy:561
 translate philippine arthur_2_5_b2bfcd29:
 
     # ch_Name "Where to?"
-    ch_Name ""
+    ch_Name "Saan?"
 
 # game/logic/events/arthur_2.rpy:563
 translate philippine arthur_2_5_1d29d069:
 
     # Elijah "Were you looking at my ass instead of looking around?"
-    Elijah ""
+    Elijah "Tinitignan mo ba ang pwet ko sa halip ng mga makikita mo dito?"
 
 # game/logic/events/arthur_2.rpy:565
 translate philippine arthur_2_5_074885a4:
 
     # Elijah "The Daily Lee Apartments. This is the hotel I was talking about."
-    Elijah ""
+    Elijah "Ang Daily Lee Apartments. Ito ang hotel na sinasabi ko."
 
 # game/logic/events/arthur_2.rpy:566
 translate philippine arthur_2_5_f7626c6c:
 
     # Elijah "It's pretty cozy, and you can ask about student discounts."
-    Elijah ""
+    Elijah "KOmportable naman, at may diskwento sa mag-aaral."
 
 # game/logic/events/arthur_2.rpy:567
 translate philippine arthur_2_5_84067ac1:
 
     # ch_Name "Sounds great. Thank you!"
-    ch_Name ""
+    ch_Name "Mabuti naman. Salamat!"
 
 # game/logic/events/arthur_2.rpy:569
 translate philippine arthur_2_5_5ebfede2:
 
     # Elijah "That was the end of our micro-excursion. I'm going this way."
-    Elijah ""
+    Elijah "Natapos na ang tour. Doon na ako pupunta."
 
 # game/logic/events/arthur_2.rpy:570
 translate philippine arthur_2_5_2cf85384:
 
     # ch_Name "Thank you so much again."
-    ch_Name ""
+    ch_Name "Salamat talaga."
 
 # game/logic/events/arthur_2.rpy:572
 translate philippine arthur_2_5_bc2335e9:
 
     # Elijah "No problem. I'll show you the rest of the city some other time."
-    Elijah ""
+    Elijah "Walang problema. Ipapakita ko sa iyo ang mga ibang bahagi sa susunod."
 
 # game/logic/events/arthur_2.rpy:573
 translate philippine arthur_2_5_c6803d96:
 
     # ch_Name "All right."
-    ch_Name ""
+    ch_Name "Ayos."
 
 # game/logic/events/arthur_2.rpy:575
 translate philippine arthur_2_5_16f690a8:
 
     # Elijah "[Name], wait!"
-    Elijah ""
+    Elijah "[Name], teka muna!"
 
 # game/logic/events/arthur_2.rpy:576
 translate philippine arthur_2_5_32200a27:
 
     # Elijah "I almost forgot the most important thing!"
-    Elijah ""
+    Elijah "Malapit ko nang makalimutan!"
 
 # game/logic/events/arthur_2.rpy:578
 translate philippine arthur_2_5_7e9b118f:
 
     # Elijah "Do you see the archway?"
-    Elijah ""
+    Elijah "Nakikita mo ba ang arko?"
 
 # game/logic/events/arthur_2.rpy:579
 translate philippine arthur_2_5_c6aa2781:
 
     # ch_Name "Yeah."
-    ch_Name ""
+    ch_Name "Oo."
 
 # game/logic/events/arthur_2.rpy:580
 translate philippine arthur_2_5_f5a1d983:
 
     # Elijah "There's the hottest nightclub in town around the corner. Mistress Luck."
-    Elijah ""
+    Elijah "Nandoon ang pinakamainit na nightclub sa Dale. Mistress Luck."
 
 # game/logic/events/arthur_2.rpy:582
 translate philippine arthur_2_5_ffb89690:
 
     # Elijah "The guard's a dick, but if you can get in..."
-    Elijah ""
+    Elijah "Bwisit naman ang guwardiya, pero kung makakapasok ka..."
 
 # game/logic/events/arthur_2.rpy:583
 translate philippine arthur_2_5_edf1a719:
