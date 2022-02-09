@@ -4,271 +4,271 @@
 translate brazilian arthur_2_14969a9a:
 
     # NoName "Ring, ring..."
-    NoName ""
+    NoName "Trim, trim..."
 
 # game/logic/events/arthur_2.rpy:45
 translate brazilian arthur_2_d007b8f0:
 
     # ch_Name "Hello?"
-    ch_Name ""
+    ch_Name "Alô?"
 
 # game/logic/events/arthur_2.rpy:46
 translate brazilian arthur_2_9f954dd2:
 
     # Elijah "Yo, [Name]! Rise and shine!"
-    Elijah ""
+    Elijah "Ei, [Name]! Acorda, velho!"
 
 # game/logic/events/arthur_2.rpy:47
 translate brazilian arthur_2_e990ff8f:
 
     # ch_Name "What the hell, Isn't it too early?"
-    ch_Name ""
+    ch_Name "Mas que diabos, não tá muito cedo?"
 
 # game/logic/events/arthur_2.rpy:48
 translate brazilian arthur_2_2485cfe9:
 
     # Elijah "If you don't want to miss the principal's speech, it's not."
-    Elijah ""
+    Elijah "Se você não quiser perder o discurso do reitor, não."
 
 # game/logic/events/arthur_2.rpy:50
 translate brazilian arthur_2_9257a1f9:
 
     # ch_Name "Shit. I'll be in the hall in a minute."
-    ch_Name ""
+    ch_Name "Droga. Vou estar no salão em um minuto."
 
 # game/logic/events/arthur_2.rpy:51
 translate brazilian arthur_2_c78a1ce3:
 
     # Elijah "Alright, I'm waiting for you."
-    Elijah ""
+    Elijah "Tudo bem, estou lhe esperando."
 
 # game/logic/events/arthur_2.rpy:55
 translate brazilian arthur_2_36d985d4:
 
     # Arthur "Greetings, students!"
-    Arthur ""
+    Arthur "Saudações, estudantes!"
 
 # game/logic/events/arthur_2.rpy:56
 translate brazilian arthur_2_310b1595:
 
     # Arthur "I'm sure you're wondering why I've gathered you all here today!"
-    Arthur ""
+    Arthur "Tenho certeza que estão imaginando porque os reuni aqui hoja!"
 
 # game/logic/events/arthur_2.rpy:58
 translate brazilian arthur_2_c7b1aca6:
 
     # Arthur "Every Saturday morning, we summarise the results of our traditional house tournament."
-    Arthur ""
+    Arthur "Todo sábado de manhã nós auferimos os resultados do nosso tradicional torneio de casas."
 
 # game/logic/events/arthur_2.rpy:59
 translate brazilian arthur_2_6dfcc04f:
 
     # Arthur "In a few moments, we will announce the final results."
-    Arthur ""
+    Arthur "Em instantes, iremos anunciar o resultado final."
 
 # game/logic/events/arthur_2.rpy:61
 translate brazilian arthur_2_364f1bc9:
 
     # Arthur "But first, I'd like to speak on behalf of Сordale's council."
-    Arthur ""
+    Arthur "Mas, inicialmente, gostaria de falar em nome do conselho de Cordale."
 
 # game/logic/events/arthur_2.rpy:62
 translate brazilian arthur_2_bf0a70b2:
 
     # Arthur "We are incredibly proud of your dedication and hard work."
-    Arthur ""
+    Arthur "Estamos incrivelmente orgulhosos da dedicação e esforço de vocês."
 
 # game/logic/events/arthur_2.rpy:64
 translate brazilian arthur_2_e472d89a:
 
     # Arthur "Competition is, indeed, one of the keys to unlock your full potential."
-    Arthur ""
+    Arthur "Cometição é, realmente, uma das formas de alcançar seu potencial total."
 
 # game/logic/events/arthur_2.rpy:65
 translate brazilian arthur_2_53fa4e38:
 
     # Arthur "By participating in it, you can show your diligence and strength."
-    Arthur ""
+    Arthur "Paricipando dela você pode demonstrar sua força e atenção."
 
 # game/logic/events/arthur_2.rpy:66
 translate brazilian arthur_2_f6175ffb:
 
     # Arthur "We are happy to be a part of your winding path of discovering true power."
-    Arthur ""
+    Arthur "Estamos felizaes de fazer parte do seu tortuoso caminho para descobrir o verdadeiro poder."
 
 # game/logic/events/arthur_2.rpy:68
 translate brazilian arthur_2_c2bc33b6:
 
     # Arthur "We've calculated the total points for each House."
-    Arthur ""
+    Arthur "Nós calculamos o total de pontos para cada Casa."
 
 # game/logic/events/arthur_2.rpy:78
 translate brazilian arthur_2_4d54c055:
 
     # Arthur "This week's winner house is {b}Leonheart{/b}!"
-    Arthur ""
+    Arthur "A casa vencedora esta semana é {b}Leonheart{b}!"
 
 # game/logic/events/arthur_2.rpy:80
 translate brazilian arthur_2_1f8bb2b6:
 
     # ch_Name "Yahoo! We won!"
-    ch_Name ""
+    ch_Name "Oba! Ganhamos!"
 
 # game/logic/events/arthur_2.rpy:81
 translate brazilian arthur_2_9e7c23b9:
 
     # Elijah "Great job, everyone!"
-    Elijah ""
+    Elijah "Bom trabalho, pessoal!"
 
 # game/logic/events/arthur_2.rpy:83
 translate brazilian arthur_2_1c5cb8cc:
 
     # Arthur "Congratulations to Leonheart! The path to Dale is now open to you."
-    Arthur ""
+    Arthur "Parabéns a Leonheart! O caminho para Dale agora está aberto para vocês."
 
 # game/logic/events/arthur_2.rpy:84
 translate brazilian arthur_2_bee80711:
 
     # Arthur "Each student from the winning house receives $50 allowance you can spend in Dale."
-    Arthur ""
+    Arthur "Cada aluno da casa vencedora recebe uma verba de $50 que pode ser utilizada em Dale."
 
 # game/logic/events/arthur_2.rpy:86
 translate brazilian arthur_2_b7455f8e:
 
     # Arthur "Please, seek assistance from Mister Frollo to get to the ship."
-    Arthur ""
+    Arthur "Por favor, busquem auxílio do Sr. Follo para chegar até o barco."
 
 # game/logic/events/arthur_2.rpy:88
 translate brazilian arthur_2_3f164f48:
 
     # Arthur "To all the other students who haven't won this week: try to keep up your spirits!"
-    Arthur ""
+    Arthur "Para todos os outros alunos que não venceram esta semana: tentem se manter otimistas!"
 
 # game/logic/events/arthur_2.rpy:89
 translate brazilian arthur_2_087ce206:
 
     # Arthur "You will have a chance to visit Dale next time."
-    Arthur ""
+    Arthur "Vocês terão a chance de visitar Dale em outro momento."
 
 # game/logic/events/arthur_2.rpy:90
 translate brazilian arthur_2_0dad76fb:
 
     # Arthur "All you need is to put more effort and win next week's competition!"
-    Arthur ""
+    Arthur "Tudo que vocês precisam é se esforçar mais e vencer a próxima competição!"
 
 # game/logic/events/arthur_2.rpy:92
 translate brazilian arthur_2_dfa6d1e8:
 
     # Arthur "Take care, everyone, and have a lovely weekend!"
-    Arthur ""
+    Arthur "Se cuidem, todos, e tenham um ótimo final de semana!"
 
 # game/logic/events/arthur_2.rpy:93
 translate brazilian arthur_2_cea9308a:
 
     # ch_Name "Well, that was informative."
-    ch_Name ""
+    ch_Name "Bem, isso foi informativo."
 
 # game/logic/events/arthur_2.rpy:94
 translate brazilian arthur_2_a70cde9c:
 
     # ch_Name "Now I need to find mister Frollo."
-    ch_Name ""
+    ch_Name "Agora preciso achar Sr. Frollo."
 
 # game/logic/events/arthur_2.rpy:100
 translate brazilian arthur_2_32_a7a4792e:
 
     # Arthur "This week's winner house is {b}[wins_house]{/b}!"
-    Arthur ""
+    Arthur "A casa vencedora essa semana é {b}[wins_house]{/b}!"
 
 # game/logic/events/arthur_2.rpy:102
 translate brazilian arthur_2_32_a26c5366:
 
     # ch_Name "Crap, we've lost this week..."
-    ch_Name ""
+    ch_Name "Porcaria, perdemos essa semana..."
 
 # game/logic/events/arthur_2.rpy:103
 translate brazilian arthur_2_32_1838a81d:
 
     # Elijah "Never mind, there're plenty of weeks ahead of us to win once or twice."
-    Elijah ""
+    Elijah "Não esquenta, temos várias semanas pela frente para ganharmos algumas vezes."
 
 # game/logic/events/arthur_2.rpy:104
 translate brazilian arthur_2_32_d1098240:
 
     # ch_Name "You're not very optimistic about us."
-    ch_Name ""
+    ch_Name "Você não é muito otimista quanto a nós."
 
 # game/logic/events/arthur_2.rpy:106
 translate brazilian arthur_2_32_48a616a4:
 
     # Arthur "Congratulations to [wins_house]! The path to Dale is now open to you."
-    Arthur ""
+    Arthur "Parabéns para [wins_house]! O caminho para Dale está aberto para vocês."
 
 # game/logic/events/arthur_2.rpy:107
 translate brazilian arthur_2_32_0d0cf108:
 
     # Arthur "After this meeting, please follow Mister Frollo."
-    Arthur ""
+    Arthur "Depois dessa reunião, por favor sigam o Sr. Frollo."
 
 # game/logic/events/arthur_2.rpy:109
 translate brazilian arthur_2_32_36af6813:
 
     # Arthur "He will help you to get to the ferry."
-    Arthur ""
+    Arthur "Ele os ajudará a chegar na barca."
 
 # game/logic/events/arthur_2.rpy:110
 translate brazilian arthur_2_32_3f164f48:
 
     # Arthur "To all the other students who haven't won this week: try to keep up your spirits!"
-    Arthur ""
+    Arthur "A todos os outros alunos que não venceram esta semana: tentem se manter otimistas!"
 
 # game/logic/events/arthur_2.rpy:111
 translate brazilian arthur_2_32_087ce206:
 
     # Arthur "You will have a chance to visit Dale next time."
-    Arthur ""
+    Arthur "Você terão oportunidade de visitar Dale na próxima vez."
 
 # game/logic/events/arthur_2.rpy:113
 translate brazilian arthur_2_32_0dad76fb:
 
     # Arthur "All you need is to put more effort and win next week's competition!"
-    Arthur ""
+    Arthur "Tudo que precisam é se esforçar mais e vencer a competição na próxima semana!"
 
 # game/logic/events/arthur_2.rpy:115
 translate brazilian arthur_2_32_dfa6d1e8:
 
     # Arthur "Take care, everyone, and have a lovely weekend!"
-    Arthur ""
+    Arthur "Se cuidem, todos, e tenham um ótimo final de semana!"
 
 # game/logic/events/arthur_2.rpy:116
 translate brazilian arthur_2_32_cea9308a:
 
     # ch_Name "Well, that was informative."
-    ch_Name ""
+    ch_Name "Bem, isso foi informativo."
 
 # game/logic/events/arthur_2.rpy:117
 translate brazilian arthur_2_32_e0cf2721:
 
     # ch_Name "Now I can get back and sleep a little longer..."
-    ch_Name ""
+    ch_Name "Agora posso voltar e dormir mais um pouco..."
 
 # game/logic/events/arthur_2.rpy:159
 translate brazilian arthur_2_0_36d985d4:
 
     # Arthur "Greetings, students!"
-    Arthur ""
+    Arthur "Saudações, estudantes!"
 
 # game/logic/events/arthur_2.rpy:160
 translate brazilian arthur_2_0_c32abc02:
 
     # Arthur "As usual, we're gathered you here to announce the results of our traditional house tournament."
-    Arthur ""
+    Arthur "Como sempre, estamos reunidos aqui para anunciar o resultado do nosso tradicional torneio de casas."
 
 # game/logic/events/arthur_2.rpy:161
 translate brazilian arthur_2_0_8e86b1c7:
 
     # Arthur "We've calculated the total points for each House. And the winner is..."
-    Arthur ""
+    Arthur "Calculamos os pontos totais para cada Casa e o vencedor é..."
 
 # game/logic/events/arthur_2.rpy:179
 translate brazilian arthur_2_0_6e55cc3b:
@@ -280,67 +280,67 @@ translate brazilian arthur_2_0_6e55cc3b:
 translate brazilian arthur_2_0_1f8bb2b6:
 
     # ch_Name "Yahoo! We won!"
-    ch_Name ""
+    ch_Name "Oba! Ganhamos!"
 
 # game/logic/events/arthur_2.rpy:182
 translate brazilian arthur_2_0_9e7c23b9:
 
     # Elijah "Great job, everyone!"
-    Elijah ""
+    Elijah "Bom trabalho, pessoal!"
 
 # game/logic/events/arthur_2.rpy:184
 translate brazilian arthur_2_0_1c5cb8cc:
 
     # Arthur "Congratulations to Leonheart! The path to Dale is now open to you."
-    Arthur ""
+    Arthur "Parabéns a Leonheart! O caminho para Dale está aberto para vocês."
 
 # game/logic/events/arthur_2.rpy:187
 translate brazilian arthur_2_0_bee80711:
 
     # Arthur "Each student from the winning house receives $50 allowance you can spend in Dale."
-    Arthur ""
+    Arthur "Cada aluno da casa vencedora recebe uma verba de $50 que pode ser utilizada em Dale."
 
 # game/logic/events/arthur_2.rpy:189
 translate brazilian arthur_2_0_b7455f8e:
 
     # Arthur "Please, seek assistance from Mister Frollo to get to the ship."
-    Arthur ""
+    Arthur "Por favor, procurem ajuda do Sr. Frollo para chegar até o barco."
 
 # game/logic/events/arthur_2.rpy:191
 translate brazilian arthur_2_0_3f164f48:
 
     # Arthur "To all the other students who haven't won this week: try to keep up your spirits!"
-    Arthur ""
+    Arthur "Para os outros alunos que não venceram esta semana: tentem se manter otimistas!"
 
 # game/logic/events/arthur_2.rpy:192
 translate brazilian arthur_2_0_087ce206:
 
     # Arthur "You will have a chance to visit Dale next time."
-    Arthur ""
+    Arthur "Vocês terão a oportunidade de visitar Dale da próxima vez."
 
 # game/logic/events/arthur_2.rpy:193
 translate brazilian arthur_2_0_0dad76fb:
 
     # Arthur "All you need is to put more effort and win next week's competition!"
-    Arthur ""
+    Arthur "Só precisam se esforçar mais e vencer a competição da próxima semana!"
 
 # game/logic/events/arthur_2.rpy:195
 translate brazilian arthur_2_0_dfa6d1e8:
 
     # Arthur "Take care, everyone, and have a lovely weekend!"
-    Arthur ""
+    Arthur "Cuidem-se, todos, e tenham um ótimo final de semana!"
 
 # game/logic/events/arthur_2.rpy:196
 translate brazilian arthur_2_0_cea9308a:
 
     # ch_Name "Well, that was informative."
-    ch_Name ""
+    ch_Name "Bem, isso foi informativo."
 
 # game/logic/events/arthur_2.rpy:197
 translate brazilian arthur_2_0_acf8d85f:
 
     # ch_Name "Now I need to find mister Frollo"
-    ch_Name ""
+    ch_Name "Agora preciso achar Sr. Frollo"
 
 # game/logic/events/arthur_2.rpy:219
 translate brazilian arthur_2_0_18_4bae9686:
@@ -352,379 +352,379 @@ translate brazilian arthur_2_0_18_4bae9686:
 translate brazilian arthur_2_0_18_a26c5366:
 
     # ch_Name "Crap, we've lost this week..."
-    ch_Name ""
+    ch_Name "Droga, perdemos essa semana..."
 
 # game/logic/events/arthur_2.rpy:222
 translate brazilian arthur_2_0_18_1838a81d:
 
     # Elijah "Never mind, there're plenty of weeks ahead of us to win once or twice."
-    Elijah ""
+    Elijah "Não esquenta, temos bastante semanas pela frente para vencermos algumas."
 
 # game/logic/events/arthur_2.rpy:223
 translate brazilian arthur_2_0_18_cea9308a:
 
     # ch_Name "Well, that was informative."
-    ch_Name ""
+    ch_Name "Bem, isso foi informativo."
 
 # game/logic/events/arthur_2.rpy:224
 translate brazilian arthur_2_0_18_e0cf2721:
 
     # ch_Name "Now I can get back and sleep a little longer..."
-    ch_Name ""
+    ch_Name "Agora posso voltar e dormir mais um pouco..."
 
 # game/logic/events/arthur_2.rpy:251
 translate brazilian arthur_2_3_307168cc:
 
     # Jacob "Mr. [Surname]!"
-    Jacob ""
+    Jacob "Sr. [Surname]!"
 
 # game/logic/events/arthur_2.rpy:252
 translate brazilian arthur_2_3_7ff6c938:
 
     # Jacob "I think we're just waiting for you."
-    Jacob ""
+    Jacob "Acho que estávamos apenas aguardando o senhor."
 
 # game/logic/events/arthur_2.rpy:253
 translate brazilian arthur_2_3_40891a2c:
 
     # Jacob "All right, let's not stall!"
-    Jacob ""
+    Jacob "Certo, não vamos nos demorar!"
 
 # game/logic/events/arthur_2.rpy:254
 translate brazilian arthur_2_3_cb71a21f:
 
     # Jacob "The ferry leaves in half an hour."
-    Jacob ""
+    Jacob "A barca parte em meia hora."
 
 # game/logic/events/arthur_2.rpy:255
 translate brazilian arthur_2_3_ae8c5522:
 
     # Jacob "Students, follow me."
-    Jacob ""
+    Jacob "Alunos, sigam-me."
 
 # game/logic/events/arthur_2.rpy:257
 translate brazilian arthur_2_3_3f81266e:
 
     # Haley "Hello, [Name]!"
-    Haley ""
+    Haley "Oi, [Name]!"
 
 # game/logic/events/arthur_2.rpy:258
 translate brazilian arthur_2_3_fe943653:
 
     # ch_Name "Haley, good morning!"
-    ch_Name ""
+    ch_Name "Haley, bom dia!"
 
 # game/logic/events/arthur_2.rpy:260
 translate brazilian arthur_2_3_d8dd83a4:
 
     # Haley "Do you have plans for Dale yet?"
-    Haley ""
+    Haley "Já tem planos para Dale?"
 
 # game/logic/events/arthur_2.rpy:261
 translate brazilian arthur_2_3_82381200:
 
     # ch_Name "I don't even know what's there."
-    ch_Name ""
+    ch_Name "Não sei nem o que tem lá."
 
 # game/logic/events/arthur_2.rpy:262
 translate brazilian arthur_2_3_4e61651c:
 
     # Haley "Neither do I. I'm gonna look into it. I hope the local library has a history of the town..."
-    Haley ""
+    Haley "Nem eu. Vou procurar. Espero que a biblioteca local tenha a história da cidade..."
 
 # game/logic/events/arthur_2.rpy:263
 translate brazilian arthur_2_3_c15f9a7d:
 
     # ch_Name "I'm sure there is."
-    ch_Name ""
+    ch_Name "Com certeza deve ter."
 
 # game/logic/events/arthur_2.rpy:265
 translate brazilian arthur_2_3_2c528bbd:
 
     # Haley "Oh, Lily, I was just looking for you!"
-    Haley ""
+    Haley "Ah, Lily, estava procurando por você!"
 
 # game/logic/events/arthur_2.rpy:266
 translate brazilian arthur_2_3_75813012:
 
     # Haley "Aren't you going to the library?"
-    Haley ""
+    Haley "Você está indo para a biblioteca?"
 
 # game/logic/events/arthur_2.rpy:268
 translate brazilian arthur_2_3_60743925:
 
     # Haley "Oh, sorry, [Name], I have to catch her up."
-    Haley ""
+    Haley "Ah, desculpa, [Name], tenho que alcançá-la."
 
 # game/logic/events/arthur_2.rpy:269
 translate brazilian arthur_2_3_ace9c754:
 
     # Haley "See you later, [Name]!"
-    Haley ""
+    Haley "Até mais tarde, [Name]!"
 
 # game/logic/events/arthur_2.rpy:270
 translate brazilian arthur_2_3_f3f897ab:
 
     # ch_Name "Bye..."
-    ch_Name ""
+    ch_Name "Tchau..."
 
 # game/logic/events/arthur_2.rpy:272
 translate brazilian arthur_2_3_37f91fc5:
 
     # ch_Name "{i}(Hmm, so Haley's gonna be at the library all weekend?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm, então Haley vai estar enfiada da biblioteca o fim de semana todo?){/i}"
 
 # game/logic/events/arthur_2.rpy:273
 translate brazilian arthur_2_3_972052a9:
 
     # ch_Name "{i}(Sometimes I don't understand her interests.){/i}"
-    ch_Name ""
+    ch_Name "{i}(As vezes não entendo seus interesses.){/i}"
 
 # game/logic/events/arthur_2.rpy:274
 translate brazilian arthur_2_3_382ae55e:
 
     # ch_Name "{i}(On the other had, sometimes I don't even undesrand mine.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Em compensação, as vezes eu não entendo os meus.){/i}"
 
 # game/logic/events/arthur_2.rpy:275
 translate brazilian arthur_2_3_69a82ab3:
 
     # ch_Name "{i}(Speaking of which, I wonder what I'll be doing this weekend?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Por sinal, imagino o que vou fazer esse final de semana...){/i}"
 
 # game/logic/events/arthur_2.rpy:277
 translate brazilian arthur_2_3_3591cbf9:
 
     # ch_Name "{i}(Guess I'll find out in Dale.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Acho que vou descobrir em Dale.){/i}"
 
 # game/logic/events/arthur_2.rpy:281
 translate brazilian arthur_2_3_d6a72beb:
 
     # ch_Name "Wow, wow, this is beautiful!"
-    ch_Name ""
+    ch_Name "Uau, uau, isso é lindo!"
 
 # game/logic/events/arthur_2.rpy:282
 translate brazilian arthur_2_3_863d5fef:
 
     # Jacob "Impressed?"
-    Jacob ""
+    Jacob "Impressionado?"
 
 # game/logic/events/arthur_2.rpy:283
 translate brazilian arthur_2_3_c9725451:
 
     # Jacob "This ship is my pride."
-    Jacob ""
+    Jacob "Esse barco é meu orgulho."
 
 # game/logic/events/arthur_2.rpy:285
 translate brazilian arthur_2_3_444151a5:
 
     # ch_Name "Why, sir?"
-    ch_Name ""
+    ch_Name "Por que?"
 
 # game/logic/events/arthur_2.rpy:286
 translate brazilian arthur_2_3_a9865265:
 
     # Jacob "It's a system I designed."
-    Jacob ""
+    Jacob "É um sistema que eu criei."
 
 # game/logic/events/arthur_2.rpy:287
 translate brazilian arthur_2_3_dc2c2252:
 
     # ch_Name "What system?"
-    ch_Name ""
+    ch_Name "Que sistema?"
 
 # game/logic/events/arthur_2.rpy:288
 translate brazilian arthur_2_3_71026dc1:
 
     # Jacob "You'll hear about it in a moment. I think everyone needs this information."
-    Jacob ""
+    Jacob "Vai descobrir em um momento. Acredito que todos precisam dessa informação."
 
 # game/logic/events/arthur_2.rpy:290
 translate brazilian arthur_2_3_7a843e21:
 
     # Jacob "Students! Pay attention."
-    Jacob ""
+    Jacob "Alunos, prestem atenção."
 
 # game/logic/events/arthur_2.rpy:291
 translate brazilian arthur_2_3_dad06e80:
 
     # Jacob "We at Cordale are well aware that..."
-    Jacob ""
+    Jacob "Nós de Cordale estamos cientes que..."
 
 # game/logic/events/arthur_2.rpy:292
 translate brazilian arthur_2_3_aad21c2b:
 
     # Jacob "...students have to work hard to become great wizards."
-    Jacob ""
+    Jacob "...os alunos têm que se esforçar para se tornarem grandes magos."
 
 # game/logic/events/arthur_2.rpy:293
 translate brazilian arthur_2_3_6df880d7:
 
     # Jacob "So you need to get plenty of rest, too."
-    Jacob ""
+    Jacob "Então vocês precisam de bastante repouso, também."
 
 # game/logic/events/arthur_2.rpy:295
 translate brazilian arthur_2_3_ade72805:
 
     # Jacob "You, as the winners of the house competition, can board the ship."
-    Jacob ""
+    Jacob "Vocês, vencedores da competição das casa, podem embarcar."
 
 # game/logic/events/arthur_2.rpy:296
 translate brazilian arthur_2_3_94bcba85:
 
     # Jacob "The journey to Dale is not very long."
-    Jacob ""
+    Jacob "A jornada para Dale é bem longa."
 
 # game/logic/events/arthur_2.rpy:297
 translate brazilian arthur_2_3_0832f183:
 
     # Jacob "And this ship has everything you need so you don't get bored while you're sailing."
-    Jacob ""
+    Jacob "E esse barco tem tudo que vocês precisam para que não fiquem entendiados enquanto navegam."
 
 # game/logic/events/arthur_2.rpy:299
 translate brazilian arthur_2_3_5feb7aea:
 
     # Lily "But why a ship at all? We could just teleport..."
-    Lily ""
+    Lily "Mas por que um barco? Poderíamos apenas teleportar..."
 
 # game/logic/events/arthur_2.rpy:300
 translate brazilian arthur_2_3_d05addfc:
 
     # Jacob "Thanks for that interesting point!"
-    Jacob ""
+    Jacob "Obrigado pelo ponto interessante!"
 
 # game/logic/events/arthur_2.rpy:301
 translate brazilian arthur_2_3_c1b959f0:
 
     # Jacob "Portal magic in Cordale territory is limited as much as possible."
-    Jacob ""
+    Jacob "Magia de portal é extremamente limitada no território de Cordale."
 
 # game/logic/events/arthur_2.rpy:302
 translate brazilian arthur_2_3_cc8ef5ee:
 
     # Jacob "It's a security measure."
-    Jacob ""
+    Jacob "É uma medida de segurança."
 
 # game/logic/events/arthur_2.rpy:303
 translate brazilian arthur_2_3_57d12cf9:
 
     # Jacob "But there is a special connection between the academy and Dale."
-    Jacob ""
+    Jacob "Mas há uma conexão especial entre a academia e Dale."
 
 # game/logic/events/arthur_2.rpy:305
 translate brazilian arthur_2_3_a97b44f1:
 
     # Jacob "The endless lake."
-    Jacob ""
+    Jacob "O lago sem fim."
 
 # game/logic/events/arthur_2.rpy:306
 translate brazilian arthur_2_3_16dc6224:
 
     # ch_Name "What is that?"
-    ch_Name ""
+    ch_Name "O que é isso?"
 
 # game/logic/events/arthur_2.rpy:307
 translate brazilian arthur_2_3_83460d71:
 
     # Jacob "My own invention."
-    Jacob ""
+    Jacob "Minha própria invenção."
 
 # game/logic/events/arthur_2.rpy:309
 translate brazilian arthur_2_3_24015a42:
 
     # Jacob "The lake seems small, but anyone who decides to swim across it..."
-    Jacob ""
+    Jacob "O lago parece pequeno, mas qualquer um que decida atravessá-lo a nado..."
 
 # game/logic/events/arthur_2.rpy:310
 translate brazilian arthur_2_3_0c204af1:
 
     # Jacob "You don't even want to know."
-    Jacob ""
+    Jacob "Vocês nem queiram sabe."
 
 # game/logic/events/arthur_2.rpy:312
 translate brazilian arthur_2_3_7bc8d5d8:
 
     # Jacob "The only vessel that can cross it is right here in front of you."
-    Jacob ""
+    Jacob "A única embarcação que consegue atravessar está na sua frente."
 
 # game/logic/events/arthur_2.rpy:313
 translate brazilian arthur_2_3_3bacab58:
 
     # Jacob "Just don't jump overboard unnecessarily."
-    Jacob ""
+    Jacob "Não salte na água desnecessariamente."
 
 # game/logic/events/arthur_2.rpy:314
 translate brazilian arthur_2_3_8c56aa86:
 
     # Jacob "Then the journey to Dale won't be a problem at all."
-    Jacob ""
+    Jacob "E a viagem para Dale não será nenhum problema."
 
 # game/logic/events/arthur_2.rpy:315
 translate brazilian arthur_2_3_774eb7c4:
 
     # Jacob "Any other questions?"
-    Jacob ""
+    Jacob "Alguma pergunta?"
 
 # game/logic/events/arthur_2.rpy:317
 translate brazilian arthur_2_3_48da8f22:
 
     # Haley "Can I get on board now?"
-    Haley ""
+    Haley "Posso embarcar agora?"
 
 # game/logic/events/arthur_2.rpy:318
 translate brazilian arthur_2_3_85c97756:
 
     # Jacob "Of course. Come on in and take your seats."
-    Jacob ""
+    Jacob "Claro. Entrem e se sentem."
 
 # game/logic/events/arthur_2.rpy:319
 translate brazilian arthur_2_3_cbf16cc0:
 
     # Jacob "We'll be departing in exactly 15 minutes."
-    Jacob ""
+    Jacob "Partiremos em exatos 15 minutos."
 
 # game/logic/events/arthur_2.rpy:320
 translate brazilian arthur_2_3_076e3de8:
 
     # Jacob "Did you hear that?"
-    Jacob ""
+    Jacob "Ouviu isso?"
 
 # game/logic/events/arthur_2.rpy:321
 translate brazilian arthur_2_3_f78f373c:
 
     # ch_Name "Yes, yes."
-    ch_Name ""
+    ch_Name "Sim, sim."
 
 # game/logic/events/arthur_2.rpy:324
 translate brazilian arthur_2_3_f3a662d1:
 
     # ch_Name "{i}(Well, it's time to go to town!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bom, hora de ir para a cidade!){/i}"
 
 # game/logic/events/arthur_2.rpy:326
 translate brazilian arthur_2_3_f374b3f7:
 
     # ch_Name "{i}(Wow, I've never been on the ship before.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Uau, eu nunca estive em um barco antes.){/i}"
 
 # game/logic/events/arthur_2.rpy:327
 translate brazilian arthur_2_3_0d8a9635:
 
     # ch_Name "{i}(It's shaking when people get on the deck... Should it be like that?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Está balançando quando as pessoas sobem no deck... Deveria ser assim?){/i}"
 
 # game/logic/events/arthur_2.rpy:328
 translate brazilian arthur_2_3_f9fea4d0:
 
     # ch_Name "{i}(Well, Haley doesn't look scared. I think it's alright.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bem, Haley não parece assustada. Acho que é normal.){/i}"
 
 # game/logic/events/arthur_2.rpy:330
 translate brazilian arthur_2_3_0ab39970:
 
     # ch_Name "{i}(Wow! What a view!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Uau! Que vista!){/i}"
 
 # game/logic/events/arthur_2.rpy:331
 translate brazilian arthur_2_3_95360302:
