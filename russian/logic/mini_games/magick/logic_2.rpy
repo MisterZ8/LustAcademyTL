@@ -4,7 +4,7 @@
 translate russian MagicMiniGameLabel_2_4c3300fa:
 
     # ch_Name "Miss Lapis, I'd like to practice my spell."
-    ch_Name "Мисс Lapis, я хотел бы попрактиковать заклинание."
+    ch_Name "Мисс Ляпис, я хотел бы попрактиковать заклинание."
 
 # game/logic/mini_games/magick/logic_2.rpy:745
 translate russian MagicMiniGameLabel_2_0d57492a:
@@ -106,7 +106,7 @@ translate russian end_MagicMiniGame_2_label_7feba4d1:
 translate russian end_MagicMiniGame_2_label_6e5c62ef:
 
     # ch_Name "Thank you, Miss Lapis. You are my favorite teacher!"
-    ch_Name "Спасибо, мисс Lapis. Вы мой любимый учитель!"
+    ch_Name "Спасибо, мисс Ляпис. Вы мой любимый учитель!"
 
 translate russian strings:
 
