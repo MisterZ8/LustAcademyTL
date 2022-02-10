@@ -7960,7 +7960,7 @@ translate chinese Haley_14_label_a4ce9736:
 translate chinese Haley_14_label_4242b812:
 
     # Haley "You're so caring, [Name]!"
-    Haley ""
+    Haley "你很用心，[Name]!"
 
 # game/logic/events/haley.rpy:2399
 translate chinese Haley_14_label_8a903b6f:
