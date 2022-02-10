@@ -154,213 +154,213 @@ translate spanish picture_in_mc_room_2ab96242:
 translate spanish picture_in_mc_room_129fdcd2:
 
     # ch_Name "{i}(I feel strange vibrations coming from this painting.){/i}"
-    ch_Name "{i}("
+    ch_Name "{i}(Siento vibraciones extrañas saliendo del cuadro.){/i}"
 
 # game/logic/main_interface/screen.rpy:2387
 translate spanish picture_in_mc_room_fae662e4:
 
     # ch_Name "{i}(I wonder who could know anything about it?){/i}"
-    ch_Name ""
+    ch_Name "{i}(¿Quién podría saber algo?){/i}"
 
 # game/logic/main_interface/screen.rpy:2388
 translate spanish picture_in_mc_room_763685df:
 
     # ch_Name "{i}(I could have sworn I heard quiet laughter...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Juraría que he oido un risa...){/i}"
 
 # game/logic/main_interface/screen.rpy:2389
 translate spanish picture_in_mc_room_8cc9cd6b:
 
     # ch_Name "{i}(This painting is driving me crazy!){/i}"
-    ch_Name ""
+    ch_Name "{i}(¡Este cuadro me está volviendo loco!){/i}"
 
 # game/logic/main_interface/screen.rpy:2392
 translate spanish picture_in_mc_room_d66ad9f9:
 
     # ch_Name "{i}(Sometimes I feel as if dim light is coming from that painting...){/i}"
-    ch_Name ""
+    ch_Name "{i}(A veces siento como si una luz tenue saliera del cuadro...){/i}"
 
 # game/logic/main_interface/screen.rpy:2393
 translate spanish picture_in_mc_room_1febd516:
 
     # ch_Name "{i}(Am I going crazy?){/i}"
-    ch_Name ""
+    ch_Name "{i}(¿Me estoy volviendo loco?{/i}"
 
 # game/logic/main_interface/screen.rpy:2394
 translate spanish picture_in_mc_room_1f195c4f_1:
 
     # ch_Name "{i}(Is it just me, or was that picture moving?){/i}"
-    ch_Name ""
+    ch_Name "{i}(¿Soy yo, o ese cuadro se está moviendo?){/i}"
 
 # game/logic/main_interface/screen.rpy:2395
 translate spanish picture_in_mc_room_65efa242:
 
     # ch_Name "{i}(Hmm, I'll have to take a closer look...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm, voy a echar un vistazo más de cerca...){/i}"
 
 # game/logic/main_interface/screen.rpy:2398
 translate spanish picture_in_mc_room_129fdcd2_1:
 
     # ch_Name "{i}(I feel strange vibrations coming from this painting.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Siento vibraciones extrañas saliendo del cuadro.){/i}"
 
 # game/logic/main_interface/screen.rpy:2399
 translate spanish picture_in_mc_room_fae662e4_1:
 
     # ch_Name "{i}(I wonder who could know anything about it?){/i}"
-    ch_Name ""
+    ch_Name "{i}(¿Quién podría saber algo?){/i}"
 
 # game/logic/main_interface/screen.rpy:2400
 translate spanish picture_in_mc_room_c8971138_1:
 
     # ch_Name "{i}(It moved! Did you see it?){/i}"
-    ch_Name ""
+    ch_Name "{i}(¡Se ha movido! ¿Lo has visto?){/i}"
 
 # game/logic/main_interface/screen.rpy:2401
 translate spanish picture_in_mc_room_e26ebb63:
 
     # ch_Name "{i}(Who am I talking to anyway, I'm here alone...){/i}"
-    ch_Name ""
+    ch_Name "{i}(¿Con quién coño estoy hablando?, si estoy aquí solo...){/i}"
 
 # game/logic/main_interface/screen.rpy:2415
 translate spanish rune_in_mc_room_667df9d9:
 
     # ch_Name "{i}(What strange symbols...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que símbolos más extraños...){/i}"
 
 # game/logic/main_interface/screen.rpy:2416
 translate spanish rune_in_mc_room_eb19aaa9:
 
     # ch_Name "{i}(I'm sure they're there for a reason...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Seguro que están ahí por algo...){/i}"
 
 # game/logic/main_interface/screen.rpy:2417
 translate spanish rune_in_mc_room_5b37f023:
 
     # ch_Name "{i}(But how do you know what secrets they hold?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pero, ¿cómo saber qué secretos esconden?){/i}"
 
 # game/logic/main_interface/screen.rpy:2418
 translate spanish rune_in_mc_room_efc4aaa4:
 
     # ch_Name "{i}(Mystery...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que misterio...){/i}"
 
 # game/logic/main_interface/screen.rpy:2421
 translate spanish rune_in_mc_room_79d4215c:
 
     # ch_Name "{i}(Those symbols, I can't stop thinking about them...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Esos símbolos, no puedo dejar de pensar en ellos...){/i}"
 
 # game/logic/main_interface/screen.rpy:2422
 translate spanish rune_in_mc_room_dbaa33b0:
 
     # ch_Name "{i}(It's some kind of runes, I quess.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Supongo que serán algún tipo de runas.){/i}"
 
 # game/logic/main_interface/screen.rpy:2423
 translate spanish rune_in_mc_room_fcf17fe8:
 
     # ch_Name "{i}(But what are they for?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pero ¿Para que están ahí?){/i}"
 
 # game/logic/main_interface/screen.rpy:2424
 translate spanish rune_in_mc_room_efc4aaa4_1:
 
     # ch_Name "{i}(Mystery...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que misterio...){/i}"
 
 # game/logic/main_interface/screen.rpy:2427
 translate spanish rune_in_mc_room_d1183aca:
 
     # ch_Name "{i}(How stupid would it be, if it's just a decoration.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que estupido sería si estuvieran ahí solo de decoración.){/i}"
 
 # game/logic/main_interface/screen.rpy:2428
 translate spanish rune_in_mc_room_4893fcab:
 
     # ch_Name "{i}(No, It can't be...){/i}"
-    ch_Name ""
+    ch_Name "{i}(No, no puede ser...){/i}"
 
 # game/logic/main_interface/screen.rpy:2429
 translate spanish rune_in_mc_room_9fa4df80:
 
     # ch_Name "{i}(But what is this){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pero que es esto){/i}"
 
 # game/logic/main_interface/screen.rpy:2430
 translate spanish rune_in_mc_room_efc4aaa4_2:
 
     # ch_Name "{i}(Mystery...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que misterio...){/i}"
 
 # game/logic/main_interface/screen.rpy:2433
 translate spanish rune_in_mc_room_74b8d741:
 
     # ch_Name "{i}(These strange runes...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Esas runas extrañas...){/i}"
 
 # game/logic/main_interface/screen.rpy:2434
 translate spanish rune_in_mc_room_5ac2142d:
 
     # ch_Name "{i}(If only I could find out what do they do...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Si pudiera averiguar qué es lo que hacen...){/i}"
 
 translate spanish strings:
 
     # game/logic/main_interface/screen.rpy:211
     old "MORNING"
-    new ""
+    new "MAÑANA"
 
     # game/logic/main_interface/screen.rpy:211
     old "DAY"
-    new ""
+    new "DÍA"
 
     # game/logic/main_interface/screen.rpy:211
     old "EVENING"
-    new ""
+    new "TARDE"
 
     # game/logic/main_interface/screen.rpy:211
     old "NIGHT"
-    new ""
+    new "NOCHE"
 
     # game/logic/main_interface/screen.rpy:1307
     old "Monday"
-    new ""
+    new "Lunes"
 
     # game/logic/main_interface/screen.rpy:1307
     old "Tuesday"
-    new ""
+    new "Martes"
 
     # game/logic/main_interface/screen.rpy:1307
     old "Wednesday"
-    new ""
+    new "Miércoles"
 
     # game/logic/main_interface/screen.rpy:1307
     old "Thursday"
-    new ""
+    new "Jueves"
 
     # game/logic/main_interface/screen.rpy:1307
     old "Friday"
-    new ""
+    new "Viernes"
 
     # game/logic/main_interface/screen.rpy:1307
     old "Saturday"
-    new ""
+    new "Sábado"
 
     # game/logic/main_interface/screen.rpy:1307
     old "Sunday"
-    new ""
+    new "Domingo"
 
     # game/logic/main_interface/screen.rpy:1377
     old "You have successfully completed all available routes. Wait for the next release."
-    new ""
+    new "Has completado todas las rutas disponibles. Espera a la siguiente actualización."
 
     # game/logic/main_interface/screen.rpy:2286
     old "Take"
-    new ""
+    new "Coger"
 
     # game/logic/main_interface/screen.rpy:2286
     old "Don't take"
-    new ""
+    new "No coger"
 
