@@ -4,265 +4,265 @@
 translate brazilian coffe_event_1_c03b4bed:
 
     # ch_Name "{i}(OMG, what's she doing?){/i}"
-    ch_Name ""
+    ch_Name "{i}Meu Deus, o que ela está fazendo?{/i}"
 
 # game/logic/events/molly.rpy:122
 translate brazilian coffe_event_1_65ed5e86:
 
     # ch_Name "{i}(If someone's out there behind those windows...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Se alguém está lá fora dessas janelas...){/i}"
 
 # game/logic/events/molly.rpy:124
 translate brazilian coffe_event_1_0ffed2ae:
 
     # ch_Name "{i}(They'll see her body...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eles vão ver seu corpo...){/i}"
 
 # game/logic/events/molly.rpy:125
 translate brazilian coffe_event_1_ab189795:
 
     # ch_Name "{i}(Oh, wow...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, uau...){/i}"
 
 # game/logic/events/molly.rpy:127
 translate brazilian coffe_event_1_81b2d2e0:
 
     # ch_Name "{i}(What a gorgeous body indeed...){/i}"
-    ch_Name ""
+    ch_Name "{i}(E que corpo maravilhoso...){/i}"
 
 # game/logic/events/molly.rpy:128
 translate brazilian coffe_event_1_a0d2429e:
 
     # ch_Name "{i}(If only I could take a closer look...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Se eu pudesse ver de mais perto...){/i}"
 
 # game/logic/events/molly.rpy:130
 translate brazilian coffe_event_1_8d5f4964:
 
     # ch_Name "{i}(I knew Molly is hot, but...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sabia que Molly era gostosa, mas...){/i}"
 
 # game/logic/events/molly.rpy:131
 translate brazilian coffe_event_1_bc9484ba:
 
     # ch_Name "{i}(I'm impressed.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Estou impressionado.){/i}"
 
 # game/logic/events/molly.rpy:133
 translate brazilian coffe_event_1_e33d7efd:
 
     # ch_Name "{i}(Alarm! She's going to see me!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Se liga! Ela vai me ver!){/i}"
 
 # game/logic/events/molly.rpy:134
 translate brazilian coffe_event_1_6ae0d68a:
 
     # ch_Name "{i}(Phew! That was close...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ufa! Foi por pouco...){/i}"
 
 # game/logic/events/molly.rpy:137
 translate brazilian coffe_event_1_89669b87:
 
     # ch_Name "{i}(Never thought I'd find window cleaning sexy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nunca imaginei que acharia sexy limpar janelas.){/i}"
 
 # game/logic/events/molly.rpy:138
 translate brazilian coffe_event_1_5ee91150:
 
     # ch_Name "{i}(But Molly may be the one to change my mind.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas Molly pode mudar minha opinião.){/i}"
 
 # game/logic/events/molly.rpy:140
 translate brazilian coffe_event_1_daafe547:
 
     # ch_Name "{i}(I've never had a boss that's so hot.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nunca tive uma chefe que fosse tão gostosa.){/i}"
 
 # game/logic/events/molly.rpy:141
 translate brazilian coffe_event_1_83a58183:
 
     # ch_Name "{i}(It'd be hard to stick to a proper working relationship with this babe.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Seria difícil ter uma relação profissional decente com essa gata.){/i}"
 
 # game/logic/events/molly.rpy:143
 translate brazilian coffe_event_1_5fcb15a3:
 
     # ch_Name "{i}(Oh, shit, she's turning around! I'd better hide.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, droga, ela está virando para cá! Melhor me esconder.){/i}"
 
 # game/logic/events/molly.rpy:144
 translate brazilian coffe_event_1_6ae0d68a_1:
 
     # ch_Name "{i}(Phew! That was close...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ufa! Foi por pouco...){/i}"
 
 # game/logic/events/molly.rpy:148
 translate brazilian coffe_event_1_7fc163b6:
 
     # ch_Name "{i}(Molly's cleaning again? She's so hardworking.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Molly está limpando de novo? Ela trabalha duro!){/i}"
 
 # game/logic/events/molly.rpy:149
 translate brazilian coffe_event_1_24b3d74d:
 
     # ch_Name "{i}(Gosh, her skirt indeed does bad job at hiding something.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Caramba, a saia dela não consegue esconder quase nada.){/i}"
 
 # game/logic/events/molly.rpy:151
 translate brazilian coffe_event_1_14bf744d:
 
     # ch_Name "{i}(It's like she wants me to take a look... Is this horrible to think so?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parece até que ela quer que eu olhe... Isso é ruim de imaginar?){/i}"
 
 # game/logic/events/molly.rpy:152
 translate brazilian coffe_event_1_1ba6ee4d:
 
     # ch_Name "{i}( I mean if that's not a view worth a risk...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Quer dizer, se essa não é uma visão que vale o risco...){/i}"
 
 # game/logic/events/molly.rpy:153
 translate brazilian coffe_event_1_2dcf90f4:
 
     # ch_Name "{i}(Than what is?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Então, o que seria?){i}"
 
 # game/logic/events/molly.rpy:155
 translate brazilian coffe_event_1_410acff1:
 
     # ch_Name "{i}(Oh no, she's looking this way! I have to hide!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, não, ela está olhando para cá! Tenho que me esconder!){/i}"
 
 # game/logic/events/molly.rpy:156
 translate brazilian coffe_event_1_6ae0d68a_2:
 
     # ch_Name "{i}(Phew! That was close...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ufa! Foi por pouco...){/i}"
 
 # game/logic/events/molly.rpy:160
 translate brazilian coffe_event_1_2abd9f58:
 
     # ch_Name "{i}(Oh my, Molly... What are you doing to me?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, Molly... Por que você faz isso comigo?){/i}"
 
 # game/logic/events/molly.rpy:161
 translate brazilian coffe_event_1_158cae96:
 
     # ch_Name "{i}(How can someone resist this view?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Como alguém resiste a essa visão?){/i}"
 
 # game/logic/events/molly.rpy:163
 translate brazilian coffe_event_1_7c768a3e:
 
     # ch_Name "{i}(This wakes up some wild animal instincts inside of me...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Isso desperta algum instinto animal dentro de mim...){/i}"
 
 # game/logic/events/molly.rpy:164
 translate brazilian coffe_event_1_fd414c49:
 
     # ch_Name "{i}(I hope I can handle myself.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Espero que eu consiga me conter.){/i}"
 
 # game/logic/events/molly.rpy:166
 translate brazilian coffe_event_1_a10c068c:
 
     # ch_Name "{i}(Alarm! She's going to see me! I have to go!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Se liga! Ela vai me ver! Preciso ir!){/i}"
 
 # game/logic/events/molly.rpy:167
 translate brazilian coffe_event_1_6ae0d68a_3:
 
     # ch_Name "{i}(Phew! That was close...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ufa! Foi por pouco...){/i}"
 
 # game/logic/events/molly.rpy:170
 translate brazilian coffe_event_1_e9f5947f:
 
     # ch_Name "{i}(Is there something wrong with her shoes?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tem algo errado com seus sapatos?){/i}"
 
 # game/logic/events/molly.rpy:171
 translate brazilian coffe_event_1_b5896d11:
 
     # ch_Name "{i}(It must be hard to work all days on those heels...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Deve ser difícil trabalhar o dia todo nesses saltos...){/i}"
 
 # game/logic/events/molly.rpy:173
 translate brazilian coffe_event_1_31281b48:
 
     # ch_Name "{i}(But she looks fantastic, that's for sure...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas ela fica maravlhosa, com certeza...){/i}"
 
 # game/logic/events/molly.rpy:174
 translate brazilian coffe_event_1_5b1a24b3:
 
     # ch_Name "{i}(I would love to draw a picture of this if I were an artist...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu adoraria desenhar isso, se eu fosse um artista...){/i}"
 
 # game/logic/events/molly.rpy:176
 translate brazilian coffe_event_1_0b940a06:
 
     # ch_Name "{i}(Oh. wait. she's going to my location, I have to run...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Cuidado. Ela está vindo na minha direção, tenho que correr...){/i}"
 
 # game/logic/events/molly.rpy:177
 translate brazilian coffe_event_1_6ae0d68a_4:
 
     # ch_Name "{i}(Phew! That was close...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ufa! Foi por pouco...){/i}"
 
 # game/logic/events/molly.rpy:202
 translate brazilian cofe_event_2_89dd154c:
 
     # ch_Name "{i}(Hmm, so this is the local cafe?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm, então esse é o café local?){/i}"
 
 # game/logic/events/molly.rpy:203
 translate brazilian cofe_event_2_514b73e6:
 
     # ch_Name "{i}(It's not bad!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nada mal!){/i}"
 
 # game/logic/events/molly.rpy:217
 translate brazilian cofe_event_2_d28b0aea:
 
     # ch_Name "{i}(Oh! What do we have here?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh! O que temos aqui?){/i}"
 
 # game/logic/events/molly.rpy:218
 translate brazilian cofe_event_2_21b2d7d5:
 
     # ch_Name "{i}(Is she a waitress or the best dish in the menu?){/i}"
-    ch_Name ""
+    ch_Name "{i}(É a garçonete ou o melhor prato do menu?){/i}"
 
 # game/logic/events/molly.rpy:219
 translate brazilian cofe_event_2_5604387e:
 
     # ch_Name "{i}(Anyway, she looks pretty cute.){/i}"
-    ch_Name ""
+    ch_Name "{i}De qualquer forma, é muito bonita.){/i}"
 
 # game/logic/events/molly.rpy:222
 translate brazilian cofe_event_2_e4de7f80:
 
     # ch_Name "{i}(A-and she's looking at me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(E... ela está olhando para mim.){/i}"
 
 # game/logic/events/molly.rpy:223
 translate brazilian cofe_event_2_21d2f836:
 
     # ch_Name "{i}(I have to say something...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tenho que dizer alguma coisa...){/i}"
 
 # game/logic/events/molly.rpy:225
 translate brazilian cofe_event_2_4c62a131:
 
     # ch_Name "Hi, I'm [Name] [Surname]."
-    ch_Name ""
+    ch_Name "Oi, meu nome é [Name] [Surname]."
 
 # game/logic/events/molly.rpy:227
 translate brazilian cofe_event_2_f48c6c9d:
 
     # Molly "Oh, hi! My name is Molly."
-    Molly ""
+    Molly "Oi, oi! Meu nome é Molly."
 
 # game/logic/events/molly.rpy:228
 translate brazilian cofe_event_2_676f9575:
