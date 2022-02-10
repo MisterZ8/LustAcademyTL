@@ -1102,67 +1102,67 @@ translate spanish adele_2_label_ece4e263:
 translate spanish adele_2_label_9fb90108:
 
     # Adele "Well, let's start with one of two of our main courses, dear."
-    Adele ""
+    Adele "En ese caso cielo, empecemos con una de nuestras dos principales."
 
 # game/logic/events/adele.rpy:387
 translate spanish adele_2_label_11912fb8:
 
     # Adele "Who would it be?"
-    Adele ""
+    Adele "¿Cual va a ser?"
 
 # game/logic/events/adele.rpy:393
 translate spanish adele_2_label_531117d3:
 
     # ch_Name "I was thinking about something oriental..."
-    ch_Name ""
+    ch_Name "Estaba pensando en algo oriental..."
 
 # game/logic/events/adele.rpy:395
 translate spanish adele_2_label_4013a1c6:
 
     # Adele "Say no more, honey!"
-    Adele ""
+    Adele "¡No digas más cielo!"
 
 # game/logic/events/adele.rpy:396
 translate spanish adele_2_label_665cbf82:
 
     # Adele "Sadira will be here in a moment..."
-    Adele ""
+    Adele "Sadira vendrá en un momento..."
 
 # game/logic/events/adele.rpy:406
 translate spanish adele_2_label_c4edd12e:
 
     # ch_Name "Is Lucy working tonight?"
-    ch_Name ""
+    ch_Name "¿Lucy trabaja esta noche?"
 
 # game/logic/events/adele.rpy:408
 translate spanish adele_2_label_fdc5fd71:
 
     # Adele "For you - she will!"
-    Adele ""
+    Adele "Por ti - ¡Si!"
 
 # game/logic/events/adele.rpy:409
 translate spanish adele_2_label_8b9ffc84:
 
     # Adele "Lucy will be here in a moment..."
-    Adele ""
+    Adele "Lucy vendrá en un momento..."
 
 # game/logic/events/adele.rpy:419
 translate spanish adele_2_label_648b1dda:
 
     # ch_Name "You know, none of them are that interesting to me. At least not today."
-    ch_Name ""
+    ch_Name "Sabes, no me interesa ningun de las dos. Al menos hoy no."
 
 # game/logic/events/adele.rpy:420
 translate spanish adele_2_label_c01ea16e:
 
     # Adele "I see."
-    Adele ""
+    Adele "Ya veo."
 
 # game/logic/events/adele.rpy:421
 translate spanish adele_2_label_7939b3d3:
 
     # ch_Name "Maybe next time."
-    ch_Name ""
+    ch_Name "La próxima vez quizás."
 
 # game/logic/events/adele.rpy:422
 translate spanish adele_2_label_33e3972f:
