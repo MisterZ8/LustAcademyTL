@@ -730,61 +730,61 @@ translate brazilian arthur_2_3_0ab39970:
 translate brazilian arthur_2_3_95360302:
 
     # ch_Name "{i}(Who might've thought that a boat trip could be so picturesque.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Quem poderia pensar que uma viagem de barco poderia se tão pitoresca.){/i}"
 
 # game/logic/events/arthur_2.rpy:332
 translate brazilian arthur_2_3_42a7bbc2:
 
     # ch_Name "{i}(I wish I had my camera with me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu queria estar com minha câmera.){/i}"
 
 # game/logic/events/arthur_2.rpy:334
 translate brazilian arthur_2_3_39e2e9bd:
 
     # ch_Name "{i}(It's so peaceful. That's how any weekend should start.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tão tranquilo. Assim que todo fim de semana devia começar.){/i}"
 
 # game/logic/events/arthur_2.rpy:335
 translate brazilian arthur_2_3_618c4214:
 
     # ch_Name "{i}(I might start enjoying winning house tournaments.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Acho que posso começar a gostar de ganhar esses torneios.){/i}"
 
 # game/logic/events/arthur_2.rpy:337
 translate brazilian arthur_2_3_b860604d:
 
     # ch_Name "Ouch... Ough..."
-    ch_Name ""
+    ch_Name "Ai... Ugh..."
 
 # game/logic/events/arthur_2.rpy:338
 translate brazilian arthur_2_3_c3e92aac:
 
     # ch_Name "{i}(My head...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Minha cabeça...){/i}"
 
 # game/logic/events/arthur_2.rpy:339
 translate brazilian arthur_2_3_8bc4bb1a:
 
     # ch_Name "{i}(It's spinning like a record.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Está rodando como um disco.){/i}"
 
 # game/logic/events/arthur_2.rpy:340
 translate brazilian arthur_2_3_a84083ef:
 
     # ch_Name "{i}(Like a broken one. Damn...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Um quebrado. Putz...){/i}"
 
 # game/logic/events/arthur_2.rpy:342
 translate brazilian arthur_2_3_7f9042d8:
 
     # ch_Name "{i}(Fuck... What's happening?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Porra... O que está acontecendo?){/i}"
 
 # game/logic/events/arthur_2.rpy:343
 translate brazilian arthur_2_3_197ab54b:
 
     # ch_Name "{i}(Am I seasick?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Estou enjoado?){/i}"
 
 # game/logic/events/arthur_2.rpy:345
 translate brazilian arthur_2_3_78205a63:
@@ -796,7 +796,7 @@ translate brazilian arthur_2_3_78205a63:
 translate brazilian arthur_2_3_50bc517c:
 
     # ch_Name "I'm gonna..."
-    ch_Name ""
+    ch_Name "Eu vou..."
 
 # game/logic/events/arthur_2.rpy:347
 translate brazilian arthur_2_3_027b1c56:
@@ -808,583 +808,583 @@ translate brazilian arthur_2_3_027b1c56:
 translate brazilian arthur_2_3_57656768:
 
     # ch_Name "{i}(What the fuck. Where am I?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que porra. Onde estou?){/i}"
 
 # game/logic/events/arthur_2.rpy:352
 translate brazilian arthur_2_3_26210414:
 
     # ch_Name "{i}(Is this the place from inside the Sorting Foliant?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Esse é o lugar de dentro do Livro Seletor?{/i}"
 
 # game/logic/events/arthur_2.rpy:353
 translate brazilian arthur_2_3_4d99e310:
 
     # ch_Name "{i}(Why can't I move my arms and legs...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Por que não posso mexer meus braços e pernas...){/i}"
 
 # game/logic/events/arthur_2.rpy:354
 translate brazilian arthur_2_3_2bde5603:
 
     # ch_Name "{i}(Something moving squeezes my body...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Alguma coisa está apertando meu corpo...){/i}"
 
 # game/logic/events/arthur_2.rpy:356
 translate brazilian arthur_2_3_3d590dc8:
 
     # ch_Name "WHAT THE FUCK?!"
-    ch_Name ""
+    ch_Name "MAS QUE PORRA?!"
 
 # game/logic/events/arthur_2.rpy:357
 translate brazilian arthur_2_3_fa255266:
 
     # Katrina "Oh yes... "
-    Katrina ""
+    Katrina "Ah sim..."
 
 # game/logic/events/arthur_2.rpy:359
 translate brazilian arthur_2_3_0261c977:
 
     # Katrina "That what I was waiting for."
-    Katrina ""
+    Katrina "Era isso que eu estava esperando."
 
 # game/logic/events/arthur_2.rpy:360
 translate brazilian arthur_2_3_8700343a:
 
     # Katrina "What's the matter now?"
-    Katrina ""
+    Katrina "Qual o problema, agora?"
 
 # game/logic/events/arthur_2.rpy:361
 translate brazilian arthur_2_3_2a41ff02:
 
     # Katrina " You're not so confident anymore!"
-    Katrina ""
+    Katrina "Não está mais tão confiante!"
 
 # game/logic/events/arthur_2.rpy:363
 translate brazilian arthur_2_3_9537c361:
 
     # ch_Name "Katrina? What the fuck is happening?!"
-    ch_Name ""
+    ch_Name "Katrina? Que porra está acontecendo?!"
 
 # game/logic/events/arthur_2.rpy:364
 translate brazilian arthur_2_3_8443d39a:
 
     # ch_Name "Where am I? "
-    ch_Name ""
+    ch_Name "Onde eu estou?"
 
 # game/logic/events/arthur_2.rpy:365
 translate brazilian arthur_2_3_990c4e05:
 
     # ch_Name "Is this a dream?"
-    ch_Name ""
+    ch_Name "Isso é um sonho?"
 
 # game/logic/events/arthur_2.rpy:367
 translate brazilian arthur_2_3_738b8f79:
 
     # Katrina "Little puppy, why should I bother myself answering you?"
-    Katrina ""
+    Katrina "Cachorrinho, por que eu me daria ao trabalho de lhe responder?"
 
 # game/logic/events/arthur_2.rpy:368
 translate brazilian arthur_2_3_dd4e8edc:
 
     # Katrina "You've insulted my pride. Crushed my plans."
-    Katrina ""
+    Katrina "Você ofendeu meu origulho. Estragou meus planos."
 
 # game/logic/events/arthur_2.rpy:369
 translate brazilian arthur_2_3_0dc35f8c:
 
     # Katrina "Chose my enemy and exceeded my house!"
-    Katrina ""
+    Katrina "Escolheu minha inimiga e desprezou minha casa!"
 
 # game/logic/events/arthur_2.rpy:370
 translate brazilian arthur_2_3_216ece1c:
 
     # Katrina "You think someone can just do that to Katina Adderin and walk away?!"
-    Katrina ""
+    Katrina "Você acha que alguém pode simplesmente fazer isso com Katrina Adderin e sair ileso?!"
 
 # game/logic/events/arthur_2.rpy:371
 translate brazilian arthur_2_3_88f8330e:
 
     # ch_Name "Wait, let's talk..."
-    ch_Name ""
+    ch_Name "Espera, vamos conversar..."
 
 # game/logic/events/arthur_2.rpy:373
 translate brazilian arthur_2_3_4570a174:
 
     # Katrina "You've said all you had to say. boy."
-    Katrina ""
+    Katrina "Você já disse tudo que tinha para dizer, menino."
 
 # game/logic/events/arthur_2.rpy:374
 translate brazilian arthur_2_3_92ec3fc3:
 
     # Katrina "Enjoy your small victories wile you can."
-    Katrina ""
+    Katrina "Aproveite suas pequenas vitótrias enquanto pode."
 
 # game/logic/events/arthur_2.rpy:375
 translate brazilian arthur_2_3_1c257f4f:
 
     # Katrina "But do not forget about me."
-    Katrina ""
+    Katrina "Mas não se esqueça de mim."
 
 # game/logic/events/arthur_2.rpy:376
 translate brazilian arthur_2_3_fd3312e8:
 
     # Katrina "Because if I can get you from underworld..."
-    Katrina ""
+    Katrina "Porque se eu posso lhe pegar do submundo..."
 
 # game/logic/events/arthur_2.rpy:377
 translate brazilian arthur_2_3_d7e6f74a:
 
     # Katrina "Imagine what I'll do to you when I get out of here!"
-    Katrina ""
+    Katrina "Imagina o que vou fazer com você quando eu conseguir sair daqui!"
 
 # game/logic/events/arthur_2.rpy:379
 translate brazilian arthur_2_3_f1160c60:
 
     # ch_Name "{i}(I... Can't... Breathe...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não... Consigo... Respirar...){/i}"
 
 # game/logic/events/arthur_2.rpy:380
 translate brazilian arthur_2_3_3c7eab17:
 
     # ch_Name "{i}(It's over...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Já era...){/i}"
 
 # game/logic/events/arthur_2.rpy:381
 translate brazilian arthur_2_3_01b7dc97:
 
     # "..." "Hey!"
-    "..." ""
+    "..." "Ei!"
 
 # game/logic/events/arthur_2.rpy:383
 translate brazilian arthur_2_3_87a2fb83:
 
     # "..." "Wake up."
-    "..." ""
+    "..." "Acorde."
 
 # game/logic/events/arthur_2.rpy:384
 translate brazilian arthur_2_3_eec2e1d3:
 
     # "..." "We're here!"
-    "..." ""
+    "..." "Chegamos!"
 
 # game/logic/events/arthur_2.rpy:385
 translate brazilian arthur_2_3_51441921:
 
     # "..." "Why are you shaking?"
-    "..." ""
+    "..." "Por que você está tremendo?"
 
 # game/logic/events/arthur_2.rpy:389
 translate brazilian arthur_2_3_293d994b:
 
     # Haley "Are you okay? Wake up! "
-    Haley ""
+    Haley "Você está bem? Acorde!"
 
 # game/logic/events/arthur_2.rpy:390
 translate brazilian arthur_2_3_ce7b0e67:
 
     # Haley "There you go. "
-    Haley ""
+    Haley "Agora sim."
 
 # game/logic/events/arthur_2.rpy:392
 translate brazilian arthur_2_3_57a334e8:
 
     # Haley "You where dreaming... Was it a nightmare? "
-    Haley ""
+    Haley "Você estava sonhando... Era um pesadelo?"
 
 # game/logic/events/arthur_2.rpy:393
 translate brazilian arthur_2_3_2ead44c8:
 
     # ch_Name "Yeah, kind of."
-    ch_Name ""
+    ch_Name "Era, basicamente."
 
 # game/logic/events/arthur_2.rpy:394
 translate brazilian arthur_2_3_d8e94121:
 
     # Haley "Well, not even the storm could wake you."
-    Haley ""
+    Haley "Bem, nem mesmo a tempestade conseguiu lhe acordar."
 
 # game/logic/events/arthur_2.rpy:395
 translate brazilian arthur_2_3_d6fe227a:
 
     # Haley "I was worried."
-    Haley ""
+    Haley "Estava preocupada."
 
 # game/logic/events/arthur_2.rpy:397
 translate brazilian arthur_2_3_bb62cf69:
 
     # ch_Name "Where am I?"
-    ch_Name ""
+    ch_Name "Onde estou?"
 
 # game/logic/events/arthur_2.rpy:398
 translate brazilian arthur_2_3_d1a1f964:
 
     # Haley "It's captain's cabin. We took you here when you got sick."
-    Haley ""
+    Haley "É a cabine do capitão. Lhe trouxemos aqui quando ficou enjoado."
 
 # game/logic/events/arthur_2.rpy:399
 translate brazilian arthur_2_3_3a5c7650:
 
     # ch_Name "Thank you."
-    ch_Name ""
+    ch_Name "Obrigado."
 
 # game/logic/events/arthur_2.rpy:400
 translate brazilian arthur_2_3_417e0cff:
 
     # ch_Name "So... Are we there?"
-    ch_Name ""
+    ch_Name "Então... Chegamos?"
 
 # game/logic/events/arthur_2.rpy:402
 translate brazilian arthur_2_3_2fba814e:
 
     # Haley "Yeah. Everybody has already left for Dale."
-    Haley ""
+    Haley "Sim. Todos já foram para Dale."
 
 # game/logic/events/arthur_2.rpy:403
 translate brazilian arthur_2_3_febd1634:
 
     # Haley "Captain said you have five minutes to get out."
-    Haley ""
+    Haley "O capitão disse que você tinha cinco minutos para sair."
 
 # game/logic/events/arthur_2.rpy:404
 translate brazilian arthur_2_3_6a816938:
 
     # Haley "She was very pissed with your \"moanings\"."
-    Haley ""
+    Haley "Ela estava revoltada com seus \"gemidos\"."
 
 # game/logic/events/arthur_2.rpy:406
 translate brazilian arthur_2_3_1a6c1590:
 
     # Haley "Do you think it's hard to navigate the ship?"
-    Haley ""
+    Haley "Você acha que é difícil de navegar esse barco?"
 
 # game/logic/events/arthur_2.rpy:407
 translate brazilian arthur_2_3_297e8375:
 
     # ch_Name "Sorry, I'm not in the mood to hijack the ship."
-    ch_Name ""
+    ch_Name "Desculpe, não estou no clima de sequestrar o barco."
 
 # game/logic/events/arthur_2.rpy:408
 translate brazilian arthur_2_3_0868fcec:
 
     # Haley "When will you learn to get when I'm joking and when I'm serious."
-    Haley ""
+    Haley "Quando você vai aprender a diferenciar quando estou falando sério e brincando?"
 
 # game/logic/events/arthur_2.rpy:410
 translate brazilian arthur_2_3_54e75ba9:
 
     # ch_Name "We should spend more time together if you want me to do that."
-    ch_Name ""
+    ch_Name "Devíamos passar mais tempo juntos para que eu possa aprender."
 
 # game/logic/events/arthur_2.rpy:411
 translate brazilian arthur_2_3_05f34be1:
 
     # Haley "Are you offering me a date?"
-    Haley ""
+    Haley "Você está sugerindo um encontro?"
 
 # game/logic/events/arthur_2.rpy:412
 translate brazilian arthur_2_3_d7f5d57c:
 
     # ch_Name "I do not dare to stand between you and local library."
-    ch_Name ""
+    ch_Name "Eu não me atrevo a ficar entre você e a biblioteca local."
 
 # game/logic/events/arthur_2.rpy:413
 translate brazilian arthur_2_3_f4f1bd13:
 
     # ch_Name "But maybe after you learn all about Dale."
-    ch_Name ""
+    ch_Name "Mas talvez depois que você aprender tudo sobre Dale."
 
 # game/logic/events/arthur_2.rpy:415
 translate brazilian arthur_2_3_0eac045a:
 
     # Haley "Maybe. Who knows..."
-    Haley ""
+    Haley "Talvez. Quem sabe..."
 
 # game/logic/events/arthur_2.rpy:416
 translate brazilian arthur_2_3_27f9dca5:
 
     # ch_Name "You're killing me."
-    ch_Name ""
+    ch_Name "Você está me matando."
 
 # game/logic/events/arthur_2.rpy:417
 translate brazilian arthur_2_3_6084ae42:
 
     # Haley "Then I'd better get out of a crime scene."
-    Haley ""
+    Haley "Então melhor eu abandonar a cena do crime."
 
 # game/logic/events/arthur_2.rpy:419
 translate brazilian arthur_2_3_f63fdcff:
 
     # Haley "And you'd better get going too."
-    Haley ""
+    Haley "E é melhor você se adiantar, também."
 
 # game/logic/events/arthur_2.rpy:420
 translate brazilian arthur_2_3_430ba448:
 
     # Haley "Captain said she'd feed you to sharks if you dont leave."
-    Haley ""
+    Haley "O capitão disse que lhe jogaria para os tubarões se não saísse."
 
 # game/logic/events/arthur_2.rpy:421
 translate brazilian arthur_2_3_607fe232:
 
     # ch_Name "Do you think there are sharks in the lake?"
-    ch_Name ""
+    ch_Name "Você acha que tem tubarões no lago?"
 
 # game/logic/events/arthur_2.rpy:422
 translate brazilian arthur_2_3_071463ea:
 
     # Haley "Would you be suprised?"
-    Haley ""
+    Haley "Lhe supreenderia?"
 
 # game/logic/events/arthur_2.rpy:424
 translate brazilian arthur_2_3_edcc2604:
 
     # Haley "Bye!"
-    Haley ""
+    Haley "Tchau!"
 
 # game/logic/events/arthur_2.rpy:425
 translate brazilian arthur_2_3_bded165d:
 
     # ch_Name "{i}(Maybe she's right.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Talvez ela esteja certa.){/i}"
 
 # game/logic/events/arthur_2.rpy:426
 translate brazilian arthur_2_3_093bc2fd:
 
     # ch_Name "{i}(Look at her go...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Olha só ela indo...){/i}"
 
 # game/logic/events/arthur_2.rpy:428
 translate brazilian arthur_2_3_adf707ea:
 
     # ch_Name "{i}(Well, I should probably go too.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bom, eu devia ir também.){/i}"
 
 # game/logic/events/arthur_2.rpy:429
 translate brazilian arthur_2_3_fc6b4958:
 
     # ch_Name "{i}(I'll think about crazy old witch inside of my mind later.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vou preocupar com a louca bruxa velha na minha cabeça depois.){/i}"
 
 # game/logic/events/arthur_2.rpy:430
 translate brazilian arthur_2_3_176569fa:
 
     # ch_Name "{i}(Don't want it to ruin my weekend.){/i}"
-    ch_Name ""
+    ch_Name ""{i}(Não quero estragar meu fim de semana.){/i}
 
 # game/logic/events/arthur_2.rpy:480
 translate brazilian arthur_2_5_b2558151:
 
     # ch_Name "{i}(What nice weather! I'm sure it's going to be a great weekend.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que tempo ótimo! Tenho certeza que vai ser um ótimo fim de seamana.){/i}"
 
 # game/logic/events/arthur_2.rpy:481
 translate brazilian arthur_2_5_42ad2fc5:
 
     # Elijah "Hey, [Name], there you are!"
-    Elijah ""
+    Elijah "Ei, [Name], lhe achei!"
 
 # game/logic/events/arthur_2.rpy:483
 translate brazilian arthur_2_5_34371a38:
 
     # Elijah "Did you sleep well?"
-    Elijah ""
+    Elijah "Dormiu bem?"
 
 # game/logic/events/arthur_2.rpy:484
 translate brazilian arthur_2_5_9bb528c6:
 
     # ch_Name "Do you know yet?"
-    ch_Name ""
+    ch_Name "Você já sabe?"
 
 # game/logic/events/arthur_2.rpy:485
 translate brazilian arthur_2_5_42bca763:
 
     # Elijah "Sure, the captain's been grumbling and complaining about you the whole way."
-    Elijah ""
+    Elijah "Claro, a capitã estava resmungando e reclamando de você a viagem toda."
 
 # game/logic/events/arthur_2.rpy:487
 translate brazilian arthur_2_5_2e1472ef:
 
     # Elijah "I'm surprised Haley could talk her into it at all."
-    Elijah ""
+    Elijah "Estou surpreso que Haley consegui convencer ela."
 
 # game/logic/events/arthur_2.rpy:488
 translate brazilian arthur_2_5_541f3cf4:
 
     # Elijah "Are you okay?"
-    Elijah ""
+    Elijah "Você está bem?"
 
 # game/logic/events/arthur_2.rpy:489
 translate brazilian arthur_2_5_bfd9816e:
 
     # ch_Name "I just got seasick. I'm fine."
-    ch_Name ""
+    ch_Name "Só fiquei enjoado. Tô bem."
 
 # game/logic/events/arthur_2.rpy:490
 translate brazilian arthur_2_5_6431c90f:
 
     # Elijah "I'm just going into town to give you a mini tour?"
-    Elijah ""
+    Elijah "Estou indo para a cidade para um pequeno tour."
 
 # game/logic/events/arthur_2.rpy:495
 translate brazilian arthur_2_5_05a537ad:
 
     # ch_Name "I think I'll pass."
-    ch_Name ""
+    ch_Name "Acho que vou dispensar."
 
 # game/logic/events/arthur_2.rpy:497
 translate brazilian arthur_2_5_d1fcfa84:
 
     # Elijah "There you go. Well, it's up to you."
-    Elijah ""
+    Elijah "Tudo bem. Você que sabe."
 
 # game/logic/events/arthur_2.rpy:498
 translate brazilian arthur_2_5_4845c0f2:
 
     # Elijah "Have a good weekend, bro!"
-    Elijah ""
+    Elijah "Tenha um bom fim de semana, cara!"
 
 # game/logic/events/arthur_2.rpy:499
 translate brazilian arthur_2_5_a93d50a5:
 
     # ch_Name "You too."
-    ch_Name ""
+    ch_Name "Você também."
 
 # game/logic/events/arthur_2.rpy:501
 translate brazilian arthur_2_5_cd0a3917:
 
     # ch_Name "{i}(I hope I didn't hurt Elijah's feelings by saying no.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Espero não ter ofendido Elijah dizendo não.){/i}"
 
 # game/logic/events/arthur_2.rpy:506
 translate brazilian arthur_2_5_a9fc412a:
 
     # ch_Name "{i}(Hmm, I hadn't noticed Elijah's bouncy ass before.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm, não tinha notado a bunda redonda de Elijah antes.){/i}"
 
 # game/logic/events/arthur_2.rpy:507
 translate brazilian arthur_2_5_4190058d:
 
     # ch_Name "{i}(Maybe it's just lucky pants.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Talvez seja só a calça.){/i}"
 
 # game/logic/events/arthur_2.rpy:508
 translate brazilian arthur_2_5_666e2702:
 
     # ch_Name "{i}(Until I see him naked, I won't know...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Enquanto não o vir nu, não tenho como saber...){/i}"
 
 # game/logic/events/arthur_2.rpy:509
 translate brazilian arthur_2_5_b14e2288:
 
     # ch_Name "{i}(Damn, now all I can think about is Elijah's juicy naked ass.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Droga, agora só consigo pensar na gostosa bunda nua de Elijah.){/i}"
 
 # game/logic/events/arthur_2.rpy:517
 translate brazilian arthur_2_5_2a180cd7:
 
     # ch_Name "Sure, it'll be awesome!"
-    ch_Name ""
+    ch_Name "Com certeza, vai ser ótimo!"
 
 # game/logic/events/arthur_2.rpy:519
 translate brazilian arthur_2_5_05ba050e:
 
     # Elijah "Great, then follow me."
-    Elijah ""
+    Elijah "Excelente, me siga."
 
 # game/logic/events/arthur_2.rpy:520
 translate brazilian arthur_2_5_fe3ba5cd:
 
     # Elijah "I know as much about this town as I do about my hometown."
-    Elijah ""
+    Elijah "Conheço essa cidade tanto quanto a minha cidade natal."
 
 # game/logic/events/arthur_2.rpy:521
 translate brazilian arthur_2_5_e8ddb061:
 
     # ch_Name "{i}(Sounds promising.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parece promissor.){/i}"
 
 # game/logic/events/arthur_2.rpy:527
 translate brazilian arthur_2_5_a9fc412a_1:
 
     # ch_Name "{i}(Hmm, I hadn't noticed Elijah's bouncy ass before.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm, não tinha notado a bunda redonda de Elijah antes.){/i}"
 
 # game/logic/events/arthur_2.rpy:528
 translate brazilian arthur_2_5_4190058d_1:
 
     # ch_Name "{i}(Maybe it's just lucky pants.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Talvez seja só a calça.){/i}"
 
 # game/logic/events/arthur_2.rpy:529
 translate brazilian arthur_2_5_666e2702_1:
 
     # ch_Name "{i}(Until I see him naked, I won't know...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Enquanto não o vir nu, não tenho como saber...){/i}"
 
 # game/logic/events/arthur_2.rpy:530
 translate brazilian arthur_2_5_b14e2288_1:
 
     # ch_Name "{i}(Damn, now all I can think about is Elijah's juicy naked ass.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Droga, agora só consigo pensar na gostosa bunda nua de Elijah.){/i}"
 
 # game/logic/events/arthur_2.rpy:535
 translate brazilian arthur_2_5_fe5d6983:
 
     # ch_Name "What a beauty!"
-    ch_Name ""
+    ch_Name "Que beleza!"
 
 # game/logic/events/arthur_2.rpy:536
 translate brazilian arthur_2_5_712fff03:
 
     # Elijah "Yeah. It's a nice piece of architecture, isn't it?"
-    Elijah ""
+    Elijah "Né? Uma bela arquitetura, não?"
 
 # game/logic/events/arthur_2.rpy:537
 translate brazilian arthur_2_5_b6ff4b22:
 
     # ch_Name "I love it. I wish I had my camera with me."
-    ch_Name ""
+    ch_Name "Adorei. Queria estar com minha câmera."
 
 # game/logic/events/arthur_2.rpy:538
 translate brazilian arthur_2_5_34598957:
 
     # Elijah "What's wrong with a phone?"
-    Elijah ""
+    Elijah "Qual o problema com um telefone?"
 
 # game/logic/events/arthur_2.rpy:539
 translate brazilian arthur_2_5_706e4bef:
 
     # ch_Name "A phone camera can't capture that kind of beauty."
-    ch_Name ""
+    ch_Name "A câmera do um telefone não consegue capturar esse tipo de beleza."
 
 # game/logic/events/arthur_2.rpy:541
 translate brazilian arthur_2_5_a1ddbb09:
 
     # Elijah "Maybe you can find yourself a new camera there."
-    Elijah ""
+    Elijah "Talvez você consiga achar uma câmera nova por aqui."
 
 # game/logic/events/arthur_2.rpy:542
 translate brazilian arthur_2_5_9fb9135b:
 
     # ch_Name "What's that?"
-    ch_Name ""
+    ch_Name "O que é aquilo?"
 
 # game/logic/events/arthur_2.rpy:544
 translate brazilian arthur_2_5_0ff62b56:
 
     # Elijah "It's a local store. It's mostly just stuff, but they bring in everything on request."
-    Elijah ""
+    Elijah "É a loja local. Basicamente quinquilharia, mas eles aceitam encomendas de qualquer coisa."
 
 # game/logic/events/arthur_2.rpy:545
 translate brazilian arthur_2_5_273da471:
 
     # ch_Name "I got it. I don't think I have enough money for a new camera, but it's worth a look."
-    ch_Name ""
+    ch_Name "Saquei. Não acho que tenho dinheiro para uma nova câmera, mas não custa olhar."
 
 # game/logic/events/arthur_2.rpy:546
 translate brazilian arthur_2_5_9a53d507:
 
     # Elijah "Speaking of places to look. See that sign to the right?"
-    Elijah ""
+    Elijah "Por falar em lugares para olhar... Vê aquela placa à direita?"
 
 # game/logic/events/arthur_2.rpy:548
 translate brazilian arthur_2_5_347329ba:
@@ -1396,183 +1396,183 @@ translate brazilian arthur_2_5_347329ba:
 translate brazilian arthur_2_5_8c7c9a2c:
 
     # Elijah "Other than that one time in Thailand, it was the best massage I've ever had."
-    Elijah ""
+    Elijah "Fora uma vez na Tailândia, foi a melhor massagem que já recebi."
 
 # game/logic/events/arthur_2.rpy:550
 translate brazilian arthur_2_5_fe4bd11c:
 
     # ch_Name "I'm not much of a massage guy, to be honest."
-    ch_Name ""
+    ch_Name "Não sou muito de massagens, para ser sincero."
 
 # game/logic/events/arthur_2.rpy:552
 translate brazilian arthur_2_5_68d9eb61:
 
     # Elijah "Oh trust me, bro! This one's worth a try."
-    Elijah ""
+    Elijah "Acredite, mano! Essa vale a pena!"
 
 # game/logic/events/arthur_2.rpy:553
 translate brazilian arthur_2_5_270f9a32:
 
     # Elijah "Come on, I'll show you a nice hotel."
-    Elijah ""
+    Elijah "Venha, vou lhe mostrar um hotel bacana."
 
 # game/logic/events/arthur_2.rpy:554
 translate brazilian arthur_2_5_5431f94c:
 
     # Elijah "It's really close."
-    Elijah ""
+    Elijah "É bem perto."
 
 # game/logic/events/arthur_2.rpy:556
 translate brazilian arthur_2_5_7b339b58:
 
     # ch_Name "Thanks for showing me around, Elijah."
-    ch_Name ""
+    ch_Name "Obrigado por me mostrar a cidade, Elijah."
 
 # game/logic/events/arthur_2.rpy:557
 translate brazilian arthur_2_5_ceff46fd:
 
     # ch_Name "You're a good headman."
-    ch_Name ""
+    ch_Name "Você é um bom líder de classe."
 
 # game/logic/events/arthur_2.rpy:558
 translate brazilian arthur_2_5_95eca2c7:
 
     # Elijah "Aha-ha-ha. You really think so?"
-    Elijah ""
+    Elijah "Ha, ha, ha. Você acha mesmo?"
 
 # game/logic/events/arthur_2.rpy:560
 translate brazilian arthur_2_5_13010f77:
 
     # Elijah "Here we are."
-    Elijah ""
+    Elijah "Aqui estamos."
 
 # game/logic/events/arthur_2.rpy:561
 translate brazilian arthur_2_5_b2bfcd29:
 
     # ch_Name "Where to?"
-    ch_Name ""
+    ch_Name "Para onde?"
 
 # game/logic/events/arthur_2.rpy:563
 translate brazilian arthur_2_5_1d29d069:
 
     # Elijah "Were you looking at my ass instead of looking around?"
-    Elijah ""
+    Elijah "Você está olhando minha bunda ao invés de olhar em volta?"
 
 # game/logic/events/arthur_2.rpy:565
 translate brazilian arthur_2_5_074885a4:
 
     # Elijah "The Daily Lee Apartments. This is the hotel I was talking about."
-    Elijah ""
+    Elijah "O Daily Lee Apartments. Esse é o hotel que lhe falei."
 
 # game/logic/events/arthur_2.rpy:566
 translate brazilian arthur_2_5_f7626c6c:
 
     # Elijah "It's pretty cozy, and you can ask about student discounts."
-    Elijah ""
+    Elijah "É bem aconchegante e você pode pedir desconto de estudante."
 
 # game/logic/events/arthur_2.rpy:567
 translate brazilian arthur_2_5_84067ac1:
 
     # ch_Name "Sounds great. Thank you!"
-    ch_Name ""
+    ch_Name "Parece legal. Obrigado!"
 
 # game/logic/events/arthur_2.rpy:569
 translate brazilian arthur_2_5_5ebfede2:
 
     # Elijah "That was the end of our micro-excursion. I'm going this way."
-    Elijah ""
+    Elijah "Isso conclui nossa micro-excursão. Eu vou para lá."
 
 # game/logic/events/arthur_2.rpy:570
 translate brazilian arthur_2_5_2cf85384:
 
     # ch_Name "Thank you so much again."
-    ch_Name ""
+    ch_Name "Muito obrigado, de novo."
 
 # game/logic/events/arthur_2.rpy:572
 translate brazilian arthur_2_5_bc2335e9:
 
     # Elijah "No problem. I'll show you the rest of the city some other time."
-    Elijah ""
+    Elijah "Sem problemas. Lhe mostro o resto da cidade de outra vez."
 
 # game/logic/events/arthur_2.rpy:573
 translate brazilian arthur_2_5_c6803d96:
 
     # ch_Name "All right."
-    ch_Name ""
+    ch_Name "Tudo bem."
 
 # game/logic/events/arthur_2.rpy:575
 translate brazilian arthur_2_5_16f690a8:
 
     # Elijah "[Name], wait!"
-    Elijah ""
+    Elijah "[Name], espera!"
 
 # game/logic/events/arthur_2.rpy:576
 translate brazilian arthur_2_5_32200a27:
 
     # Elijah "I almost forgot the most important thing!"
-    Elijah ""
+    Elijah "Quase esqueci da coisa mais importante!"
 
 # game/logic/events/arthur_2.rpy:578
 translate brazilian arthur_2_5_7e9b118f:
 
     # Elijah "Do you see the archway?"
-    Elijah ""
+    Elijah "Vê aquele arco?"
 
 # game/logic/events/arthur_2.rpy:579
 translate brazilian arthur_2_5_c6aa2781:
 
     # ch_Name "Yeah."
-    ch_Name ""
+    ch_Name "Sim."
 
 # game/logic/events/arthur_2.rpy:580
 translate brazilian arthur_2_5_f5a1d983:
 
     # Elijah "There's the hottest nightclub in town around the corner. Mistress Luck."
-    Elijah ""
+    Elijah "Tem o melhor clube da cidade na esquina. Mistress Luck."
 
 # game/logic/events/arthur_2.rpy:582
 translate brazilian arthur_2_5_ffb89690:
 
     # Elijah "The guard's a dick, but if you can get in..."
-    Elijah ""
+    Elijah "O porteiro é um babaca, mas se você conseguir entrar..."
 
 # game/logic/events/arthur_2.rpy:583
 translate brazilian arthur_2_5_edf1a719:
 
     # Elijah "I highly suggest you check out Sadira's. It's... unforgettable."
-    Elijah ""
+    Elijah "Sugiro fortemente que procure Sadira. É... inesquecível."
 
 # game/logic/events/arthur_2.rpy:585
 translate brazilian arthur_2_5_8b8fbc30:
 
     # ch_Name "Whoa, cool. Thanks for the tip, bro."
-    ch_Name ""
+    ch_Name "Uau, legal. Valeu pela dica, mano."
 
 # game/logic/events/arthur_2.rpy:586
 translate brazilian arthur_2_5_df8edd54:
 
     # Elijah "You're welcome."
-    Elijah ""
+    Elijah "Disponha."
 
 translate brazilian strings:
 
     # game/logic/events/arthur_2.rpy:148
     old "At the moment, weekend activities are only available in Dale. To check them out - win a weekly house tournament"
-    new ""
+    new "No momento atividades de final de semana sõ estão disponíveis em Dale. Para poder ter acesso - ganhe o torneio semanal das casas."
 
     # game/logic/events/arthur_2.rpy:149
     old "For now, we'll skip the weekends and get straight back to Monday."
-    new ""
+    new "Por hora, vamos pular o fim de semana e ir para a segunda-feira."
 
     # game/logic/events/arthur_2.rpy:491
     old "Sure"
-    new ""
+    new "Claro"
 
     # game/logic/events/arthur_2.rpy:503
     old "Check out Elijah's booty"
-    new ""
+    new "Olhar a bunda de Elijah"
 
     # game/logic/events/arthur_2.rpy:503
     old "Don't look"
-    new ""
+    new "Não olhar"
 
