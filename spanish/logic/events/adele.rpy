@@ -1168,37 +1168,37 @@ translate spanish adele_2_label_7939b3d3:
 translate spanish adele_2_label_33e3972f:
 
     # Adele "Well, if you'll change your mind - just walk to the table with the girl you like."
-    Adele ""
+    Adele "Bueno, si cambias de opinión - acércate a la chica que te guste."
 
 # game/logic/events/adele.rpy:423
 translate spanish adele_2_label_1964811a:
 
     # Adele "I'm sure they'll be glad to help you."
-    Adele ""
+    Adele "Estoy segura de que estarán encantadas de ayudarte."
 
 # game/logic/events/adele.rpy:446
 translate spanish Sadira_1_label_d63ab133:
 
     # ch_Name "{i}(Wow! She looks like she's from a land from a faraway place.){/i}"
-    ch_Name ""
+    ch_Name "{i}(¡Wow! Tiene pinta de ser de una tierra muy lejana.){/i}"
 
 # game/logic/events/adele.rpy:448
 translate spanish Sadira_1_label_18dbb793:
 
     # ch_Name "{i}(This might be interesting.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Esto va a ser interesante.){/i}"
 
 # game/logic/events/adele.rpy:450
 translate spanish Sadira_1_label_e19f0f5a:
 
     # ch_Name "{i}(Her outfit is very sexy...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Su outfit es super sexy...){/i}"
 
 # game/logic/events/adele.rpy:455
 translate spanish Sadira_1_label_f4bf99f5:
 
     # ch_Name "{i}(Looks like she likes my attention.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parece que le gusta que la mire.){/i}"
 
 # game/logic/events/adele.rpy:457
 translate spanish Sadira_1_label_0ae9bcd0:
@@ -1210,25 +1210,25 @@ translate spanish Sadira_1_label_0ae9bcd0:
 translate spanish Sadira_1_label_cc928e25:
 
     # ch_Name "{i}(She's so flexible.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Es super flexible.){/i}"
 
 # game/logic/events/adele.rpy:461
 translate spanish Sadira_1_label_5a51640a:
 
     # ch_Name "{i}(Looks like bending like this is not a big deal for her.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parece como si no le costase nada doblarse así.){/i}"
 
 # game/logic/events/adele.rpy:463
 translate spanish Sadira_1_label_8ea2566b:
 
     # ch_Name "{i}(Wow, look at that.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wow, mira eso.){/i}"
 
 # game/logic/events/adele.rpy:465
 translate spanish Sadira_1_label_9890bf59:
 
     # ch_Name "{i}(This baby know what to do with a pole. that's for sure.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Esta niña sabe lo que hace con la barra. Eso seguro.){/i}"
 
 # game/logic/events/adele.rpy:467
 translate spanish Sadira_1_label_0ae9bcd0_1:
@@ -1246,19 +1246,19 @@ translate spanish Sadira_1_label_0ae9bcd0_2:
 translate spanish Sadira_1_label_c01aae34:
 
     # ch_Name "{i}(Oh yes, that looks delicious!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh si, ¡Delicioso!){/i}"
 
 # game/logic/events/adele.rpy:473
 translate spanish Sadira_1_label_1167bc6d:
 
     # ch_Name "{i}(I could eat her just like that.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Me la comería enterita.){/i}"
 
 # game/logic/events/adele.rpy:478
 translate spanish Sadira_1_label_f4bf99f5_1:
 
     # ch_Name "{i}(Looks like she likes my attention.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parece que le gusta que la mire.){/i}"
 
 # game/logic/events/adele.rpy:480
 translate spanish Sadira_1_label_0ae9bcd0_3:
@@ -1270,25 +1270,25 @@ translate spanish Sadira_1_label_0ae9bcd0_3:
 translate spanish Sadira_1_label_80a0147e:
 
     # ch_Name "{i}(So, you're even more exotic than I thought.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eres incluso más exótica de lo que pensaba.){/i}"
 
 # game/logic/events/adele.rpy:484
 translate spanish Sadira_1_label_0fc50fdb:
 
     # ch_Name "{i}(Interesting...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Interesante...){/i}"
 
 # game/logic/events/adele.rpy:486
 translate spanish Sadira_1_label_8ea2566b_1:
 
     # ch_Name "{i}(Wow, look at that.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wow, mira eso.){/i}"
 
 # game/logic/events/adele.rpy:488
 translate spanish Sadira_1_label_76e2506f:
 
     # ch_Name "{i}(This baby know what to do with a pole, that's for sure.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Esta chica sabe lo que se hace con la barra, eso seguro.){/i}"
 
 # game/logic/events/adele.rpy:490
 translate spanish Sadira_1_label_0ae9bcd0_4:
@@ -1306,7 +1306,7 @@ translate spanish Sadira_1_label_0ae9bcd0_5:
 translate spanish Sadira_1_label_c01aae34_1:
 
     # ch_Name "{i}(Oh yes, that looks delicious!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh si, ¡Delicioso!){/i}"
 
 # game/logic/events/adele.rpy:496
 translate spanish Sadira_1_label_0ae9bcd0_6:
@@ -1318,283 +1318,283 @@ translate spanish Sadira_1_label_0ae9bcd0_6:
 translate spanish Sadira_1_label_1167bc6d_1:
 
     # ch_Name "{i}(I could eat her just like that.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Me la comería enterita.){/i}"
 
 # game/logic/events/adele.rpy:526
 translate spanish Sadira_2_label_c3566743:
 
     # ch_Name "{i}(Her movements are as mesmerizing and intoxicating as desert heat.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Se mueve de una forma tan hipnótica y embriagadora como el calor del desierto.){/i}"
 
 # game/logic/events/adele.rpy:527
 translate spanish Sadira_2_label_99ab4922:
 
     # ch_Name "{i}(I never thought oriental dancing was so hot...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nunca pense que el baile oriental me pusiera tan caliente...){/i}"
 
 # game/logic/events/adele.rpy:529
 translate spanish Sadira_2_label_120617fa:
 
     # ch_Name "{i}(It's just amazing.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Simplemente alucinante.){/i}"
 
 # game/logic/events/adele.rpy:530
 translate spanish Sadira_2_label_ceb5049b:
 
     # ch_Name "{i}(She crawls like a panther to me...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Se arrastra hacia mi como una pantera...){/i}"
 
 # game/logic/events/adele.rpy:532
 translate spanish Sadira_2_label_41d760e6:
 
     # Sadira "Well, hello..."
-    Sadira ""
+    Sadira "Hey, hola..."
 
 # game/logic/events/adele.rpy:534
 translate spanish Sadira_2_label_07c9e1a7:
 
     # Sadira "What's your name, handsome?"
-    Sadira ""
+    Sadira "¿Como te llamas? guapo"
 
 # game/logic/events/adele.rpy:536
 translate spanish Sadira_2_label_84e40433:
 
     # ch_Name "Does it matter?"
-    ch_Name ""
+    ch_Name "¿Acaso importa"
 
 # game/logic/events/adele.rpy:537
 translate spanish Sadira_2_label_0506510b:
 
     # Sadira "Are you naughty?"
-    Sadira ""
+    Sadira "¿Eres travieso?"
 
 # game/logic/events/adele.rpy:539
 translate spanish Sadira_2_label_56044569:
 
     # Sadira "Be a good boy, okay?"
-    Sadira ""
+    Sadira "Se un buen chico, ¿si?"
 
 # game/logic/events/adele.rpy:540
 translate spanish Sadira_2_label_55540ac6:
 
     # Sadira "You don't want to make me angry..."
-    Sadira ""
+    Sadira "No querras enfadarme..."
 
 # game/logic/events/adele.rpy:542
 translate spanish Sadira_2_label_41279e0b:
 
     # ch_Name "{i}(What the?){/i}"
-    ch_Name ""
+    ch_Name "{i}(¿Qué coño?){/i}"
 
 # game/logic/events/adele.rpy:543
 translate spanish Sadira_2_label_98d376b4:
 
     # Sadira "It would be a pity if you couldn't fully enjoy my company..."
-    Sadira ""
-
+    Sadira "Sería una pena si no pudieras disfrutar del todo mi compañia..."
+    
 # game/logic/events/adele.rpy:544
 translate spanish Sadira_2_label_848de1d2:
 
     # ch_Name "{i}(This might be interesting...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Esto puede ser interesante...){/i}"
 
 # game/logic/events/adele.rpy:545
 translate spanish Sadira_2_label_d6eed580:
 
     # ch_Name "My name is [Name]..."
-    ch_Name ""
+    ch_Name "Mí nombre es [Nombre]..."
 
 # game/logic/events/adele.rpy:546
 translate spanish Sadira_2_label_0cac85e4:
 
     # Sadira "[Name], would you like to be in an oriental fairy tale?"
-    Sadira ""
+    Sadira "[Nombre], ¿Quieres estar en un cuento de hadas oriental?"
 
 # game/logic/events/adele.rpy:548
 translate spanish Sadira_2_label_e04c33c1:
 
     # ch_Name "Depending on what you mean?"
-    ch_Name ""
+    ch_Name "¿Depende de a lo que te refieras?"
 
 # game/logic/events/adele.rpy:549
 translate spanish Sadira_2_label_c38ac972:
 
     # Sadira "I can show you why Arabian nights are considered the hottest..."
-    Sadira ""
+    Sadira "Puedo mostrarte por que las noches de Arabia son las más calientes..."
 
 # game/logic/events/adele.rpy:550
 translate spanish Sadira_2_label_4e672b76:
 
     # ch_Name "Go on..."
-    ch_Name ""
+    ch_Name "Dale..."
 
 # game/logic/events/adele.rpy:552
 translate spanish Sadira_2_label_32f74471:
 
     # Sadira "I know a thousand and one fairy tales. And all will be unforgettable to you."
-    Sadira ""
+    Sadira "Me se mil y un cuentos de hadas. Y todos serán inolvidables para ti."
 
 # game/logic/events/adele.rpy:553
 translate spanish Sadira_2_label_62f20ce6:
 
     # ch_Name "I'm all ears."
-    ch_Name ""
+    ch_Name "Soy todo oídos."
 
 # game/logic/events/adele.rpy:554
 translate spanish Sadira_2_label_ae4f7433:
 
     # Sadira "Ah-ha-ha-ha.{w} Honey, it's too crowdy here."
-    Sadira ""
+    Sadira "Ah-ha-ha-ha.{w} Cariño, aquí hay mucho alboroto."
 
 # game/logic/events/adele.rpy:555
 translate spanish Sadira_2_label_f16e97ac:
 
     # Sadira "Why don't we go to a more quiet place?"
-    Sadira ""
+    Sadira "¿Por que no vamos a un lugar más tranquilo?"
 
 # game/logic/events/adele.rpy:556
 translate spanish Sadira_2_label_2138b792:
 
     # ch_Name "Like the VIP?"
-    ch_Name ""
+    ch_Name "¿A la sala VIP?"
 
 # game/logic/events/adele.rpy:558
 translate spanish Sadira_2_label_3bd436df:
 
     # Sadira "What do you say?"
-    Sadira ""
+    Sadira "¿Qué has dicho?"
 
 # game/logic/events/adele.rpy:567
 translate spanish Sadira_2_label_6bfccb34:
 
     # ch_Name "I think I'll pass, baby."
-    ch_Name ""
+    ch_Name "Creo que voy a pasar, bombon."
 
 # game/logic/events/adele.rpy:569
 translate spanish Sadira_2_label_9b208f8f:
 
     # ch_Name "I'll try your oriental charms another time."
-    ch_Name ""
+    ch_Name "Probaré tus encantos orientales en otro momento."
 
 # game/logic/events/adele.rpy:570
 translate spanish Sadira_2_label_0c573141:
 
     # ch_Name "Not in the mood today."
-    ch_Name ""
+    ch_Name "No estoy con ganas hoy."
 
 # game/logic/events/adele.rpy:572
 translate spanish Sadira_2_label_29a0c954:
 
     # Sadira "Pfft. It's up to you..."
-    Sadira ""
+    Sadira "Pfft. Es cosa tuya..."
 
 # game/logic/events/adele.rpy:573
 translate spanish Sadira_2_label_03f375ca:
 
     # ch_Name "I know..."
-    ch_Name ""
+    ch_Name "Lo se..."
 
 # game/logic/events/adele.rpy:575
 translate spanish Sadira_2_label_cffd4675:
 
     # Sadira "But you have no idea what you're missing."
-    Sadira ""
+    Sadira "Pero no tienes ni idea de lo que te pierdes."
 
 # game/logic/events/adele.rpy:576
 translate spanish Sadira_2_label_31a40e46:
 
     # Sadira "Think about it next time."
-    Sadira ""
+    Sadira "Piénsalo para la próxima."
 
 # game/logic/events/adele.rpy:578
 translate spanish Sadira_2_label_e470adb9:
 
     # ch_Name "{i}(That's okay, I'll have time to catch up.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Está bien, tendré tiempo para ponerme al día.){/i}"
 
 # game/logic/events/adele.rpy:584
 translate spanish Sadira_2_label_3bcd9b60:
 
     # ch_Name "{i}(How can I resist such an extraordinary beauty?){/i}"
-    ch_Name ""
+    ch_Name "{i}(¿Como resistirse a tan extraordinaria belleza?){/i}"
 
 # game/logic/events/adele.rpy:585
 translate spanish Sadira_2_label_bb6bad67:
 
     # ch_Name "Let's see if your fairy tales are that good..."
-    ch_Name ""
+    ch_Name "Veamos si tus cuentos de hadas son tan buenos..."
 
 # game/logic/events/adele.rpy:586
 translate spanish Sadira_2_label_26b24e73:
 
     # Sadira "Let's go, honey."
-    Sadira ""
+    Sadira "Vamos, cariño."
 
 # game/logic/events/adele.rpy:591
 translate spanish Sadira_2_label_c3566743_1:
 
     # ch_Name "{i}(Her movements are as mesmerizing and intoxicating as desert heat.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Se mueve de una forma tan hipnótica y embriagadora como el calor del desierto.){/i}"
 
 # game/logic/events/adele.rpy:592
 translate spanish Sadira_2_label_99ab4922_1:
 
     # ch_Name "{i}(I never thought oriental dancing was so hot...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nunca pensé que el baile oriental pudiera ser tan caliente...){/i}"
 
 # game/logic/events/adele.rpy:594
 translate spanish Sadira_2_label_120617fa_1:
 
     # ch_Name "{i}(It's just amazing.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Simplemente alucinante.){/i}"
 
 # game/logic/events/adele.rpy:595
 translate spanish Sadira_2_label_ceb5049b_1:
 
     # ch_Name "{i}(She crawls like a panther to me...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Se arrastra hacia mí como una pantera...){/i}"
 
 # game/logic/events/adele.rpy:597
 translate spanish Sadira_2_label_41d760e6_1:
 
     # Sadira "Well, hello..."
-    Sadira ""
+    Sadira "Hey, hola..."
 
 # game/logic/events/adele.rpy:599
 translate spanish Sadira_2_label_07c9e1a7_1:
 
     # Sadira "What's your name, handsome?"
-    Sadira ""
+    Sadira "¿Como te llamas, guapo?"
 
 # game/logic/events/adele.rpy:601
 translate spanish Sadira_2_label_84e40433_1:
 
     # ch_Name "Does it matter?"
-    ch_Name ""
+    ch_Name "¿Acaso importa?"
 
 # game/logic/events/adele.rpy:602
 translate spanish Sadira_2_label_0506510b_1:
 
     # Sadira "Are you naughty?"
-    Sadira ""
+    Sadira "¿Eres travieso?"
 
 # game/logic/events/adele.rpy:604
 translate spanish Sadira_2_label_56044569_1:
 
     # Sadira "Be a good boy, okay?"
-    Sadira ""
+    Sadira "Se un buen chico, ¿si?"
 
 # game/logic/events/adele.rpy:605
 translate spanish Sadira_2_label_55540ac6_1:
 
     # Sadira "You don't want to make me angry..."
-    Sadira ""
+    Sadira "No querrás que me enfade..."
 
 # game/logic/events/adele.rpy:607
 translate spanish Sadira_2_label_41279e0b_1:
 
     # ch_Name "{i}(What the?){/i}"
-    ch_Name ""
+    ch_Name "{i}(¿Qué coño?){/i}"
 
 # game/logic/events/adele.rpy:608
 translate spanish Sadira_2_label_98d376b4_1:
