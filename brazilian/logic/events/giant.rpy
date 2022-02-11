@@ -586,7 +586,7 @@ translate brazilian Giant_2_label_8fdc573d:
 translate brazilian Giant_2_label_2444346b:
 
     # ch_Name "{i}(I wonder who she's talking about?){/i}"
-    ch_Name {i}(De quem ela estará falando?){/i}"
+    ch_Name "{i}(De quem ela estará falando?){/i}"
 
 # game/logic/events/giant.rpy:195
 translate brazilian Giant_2_label_7acde20c:
