@@ -838,49 +838,49 @@ translate brazilian Leona_1_label_c3a6ff79:
 translate brazilian Leona_1_label_5df76656:
 
     # ch_Name "{i}(She hasn't had a lover in a long time, so...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela não tem um amante há muito tempo, então...){/i}"
 
 # game/logic/events/Leona.rpy:247
 translate brazilian Leona_1_label_a7d8f7ef:
 
     # ch_Name "{i}(I can't embarrass myself!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não posso passar vergonha!){/i}"
 
 # game/logic/events/Leona.rpy:248
 translate brazilian Leona_1_label_f273e657:
 
     # Leona "I hope you can show intensity worthy of Leonheart..."
-    Leona ""
+    Leona "Espero que você possa demonstrar intensidade digna de Leonhert..."
 
 # game/logic/events/Leona.rpy:250
 translate brazilian Leona_1_label_6ad1b451:
 
     # ch_Name "Try me!"
-    ch_Name ""
+    ch_Name "Experimente!"
 
 # game/logic/events/Leona.rpy:251
 translate brazilian Leona_1_label_aeea7ed8:
 
     # Leona "Wow!"
-    Leona ""
+    Leona "Uau!"
 
 # game/logic/events/Leona.rpy:252
 translate brazilian Leona_1_label_0a05305a:
 
     # Leona "You're quick to prepare..."
-    Leona ""
+    Leona "Você se prepara rápido..."
 
 # game/logic/events/Leona.rpy:254
 translate brazilian Leona_1_label_bf06c9f7:
 
     # Leona "Well hello there!"
-    Leona ""
+    Leona "Bom, olá!"
 
 # game/logic/events/Leona.rpy:255
 translate brazilian Leona_1_label_1e35c207:
 
     # ch_Name "{i}(I can feel the heat inside her...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Dá para sentir o calor dentro dela...){/i}"
 
 # game/logic/events/Leona.rpy:257
 translate brazilian Leona_1_label_d2aeb2f9:
@@ -892,19 +892,19 @@ translate brazilian Leona_1_label_d2aeb2f9:
 translate brazilian Leona_1_label_c227af7f:
 
     # Leona "Just what you need."
-    Leona ""
+    Leona "Exatamente o que você precisa."
 
 # game/logic/events/Leona.rpy:260
 translate brazilian Leona_1_label_65e9c6fe:
 
     # Leona "Oh, yeah..."
-    Leona ""
+    Leona "Ah, isso..."
 
 # game/logic/events/Leona.rpy:261
 translate brazilian Leona_1_label_410b5cb5:
 
     # Leona "It's so swollen."
-    Leona ""
+    Leona "Está tão inchado."
 
 # game/logic/events/Leona.rpy:263
 translate brazilian Leona_1_label_c65779f8:
@@ -916,13 +916,13 @@ translate brazilian Leona_1_label_c65779f8:
 translate brazilian Leona_1_label_52c6f5d4:
 
     # ch_Name "{i}(Shit... Her mouth is so warm and soft...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Putz... A sua boca é tão quente e macia...){/i}"
 
 # game/logic/events/Leona.rpy:266
 translate brazilian Leona_1_label_e035bb7f:
 
     # ch_Name "{i}(And her tongue...){/i}"
-    ch_Name ""
+    ch_Name "{i}(E a língua...){/i}"
 
 # game/logic/events/Leona.rpy:267
 translate brazilian Leona_1_label_8c41bb6f:
@@ -940,13 +940,13 @@ translate brazilian Leona_1_label_c4a4b350:
 translate brazilian Leona_1_label_7109cdfe:
 
     # Leona "Impressive rod!"
-    Leona ""
+    Leona "Vara impressionante!"
 
 # game/logic/events/Leona.rpy:272
 translate brazilian Leona_1_label_02424b9c:
 
     # Leona "Let's see what magic it can do!"
-    Leona ""
+    Leona "Vamos ver que mágica ela pode fazer!"
 
 # game/logic/events/Leona.rpy:274
 translate brazilian Leona_1_label_c65779f8_1:
@@ -970,31 +970,31 @@ translate brazilian Leona_1_label_02bfe5d0:
 translate brazilian Leona_1_label_bef6f25e:
 
     # ch_Name "{i}(Damn, she's just too good...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Porra, ela é boa demais...){/}"
 
 # game/logic/events/Leona.rpy:279
 translate brazilian Leona_1_label_2428453a:
 
     # ch_Name "{i}(I've never experienced anything like this...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nunca experimentei nada assim...){/i}"
 
 # game/logic/events/Leona.rpy:280
 translate brazilian Leona_1_label_39cb029e:
 
     # ch_Name "{i}(My ex-girlfriends are nothing compared to this experience.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Minhas ex-namoradas não são nada comparadas a essa experiência.){/i}"
 
 # game/logic/events/Leona.rpy:282
 translate brazilian Leona_1_label_c751de6e:
 
     # ch_Name "Ah... N-n-no way..."
-    ch_Name ""
+    ch_Name "Ah... Nem a pau..."
 
 # game/logic/events/Leona.rpy:283
 translate brazilian Leona_1_label_86dd7230:
 
     # Leona "I'm just getting started..."
-    Leona ""
+    Leona "Eu estou só começando..."
 
 # game/logic/events/Leona.rpy:284
 translate brazilian Leona_1_label_1060f530:
@@ -1006,49 +1006,49 @@ translate brazilian Leona_1_label_1060f530:
 translate brazilian Leona_1_label_5252dbd6:
 
     # ch_Name "{i}(Crazy...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que louco...){/i}"
 
 # game/logic/events/Leona.rpy:286
 translate brazilian Leona_1_label_51eb371d:
 
     # ch_Name "Oh, yeah..."
-    ch_Name ""
+    ch_Name "Ah, assim..."
 
 # game/logic/events/Leona.rpy:288
 translate brazilian Leona_1_label_12579d42:
 
     # Leona "Let's stop the foreplay."
-    Leona ""
+    Leona "Vamos parar as preliminares."
 
 # game/logic/events/Leona.rpy:289
 translate brazilian Leona_1_label_3cb9ccc3:
 
     # ch_Name "Was that foreplay?"
-    ch_Name ""
+    ch_Name "Isso foi prelimilar?"
 
 # game/logic/events/Leona.rpy:291
 translate brazilian Leona_1_label_23c7d673:
 
     # ch_Name "{i}(I almost came...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Quase gozei...){/i}"
 
 # game/logic/events/Leona.rpy:292
 translate brazilian Leona_1_label_8911c155:
 
     # Leona "You're about to experience real pleasure!"
-    Leona ""
+    Leona "Você está para experimentar prazer de verdade!"
 
 # game/logic/events/Leona.rpy:294
 translate brazilian Leona_1_label_729f77c5:
 
     # ch_Name "{i}(Oh gosh... She's not kidding...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh Deus... Ela não está brincando...){/}"
 
 # game/logic/events/Leona.rpy:295
 translate brazilian Leona_1_label_30c03ed8:
 
     # ch_Name "Come on, baby!"
-    ch_Name ""
+    ch_Name "Vamos, linda!"
 
 # game/logic/events/Leona.rpy:297
 translate brazilian Leona_1_label_917630eb:
@@ -1060,13 +1060,13 @@ translate brazilian Leona_1_label_917630eb:
 translate brazilian Leona_1_label_b3d6c411:
 
     # Leona "Feel that?"
-    Leona ""
+    Leona "Está sentindo isso?"
 
 # game/logic/events/Leona.rpy:300
 translate brazilian Leona_1_label_5b99f17a:
 
     # Leona "Perfect."
-    Leona ""
+    Leona "Perfeito."
 
 # game/logic/events/Leona.rpy:301
 translate brazilian Leona_1_label_8c41bb6f_1:
@@ -1078,91 +1078,91 @@ translate brazilian Leona_1_label_8c41bb6f_1:
 translate brazilian Leona_1_label_db09fce4:
 
     # ch_Name "{i}(I don't know what the magic it is, but her pussy is so tight...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não sei que mágica é, mas sua buceta está tão apertada...){/i}"
 
 # game/logic/events/Leona.rpy:304
 translate brazilian Leona_1_label_51afcce6:
 
     # ch_Name "{i}(It's like fucking a teenager...){/i}"
-    ch_Name ""
+    ch_Name "{i}(É como comer uma adolescente...){/i}"
 
 # game/logic/events/Leona.rpy:305
 translate brazilian Leona_1_label_ed7e585e:
 
     # Leona "Do you like coming inside me?"
-    Leona ""
+    Leona "Você quer gozar dentro de mim?"
 
 # game/logic/events/Leona.rpy:306
 translate brazilian Leona_1_label_c205f5f1:
 
     # ch_Name "Yes..."
-    ch_Name ""
+    ch_Name "Sim..."
 
 # game/logic/events/Leona.rpy:308
 translate brazilian Leona_1_label_fb1897f0:
 
     # Leona "Yes?"
-    Leona ""
+    Leona "Quer?"
 
 # game/logic/events/Leona.rpy:309
 translate brazilian Leona_1_label_305d2e8e:
 
     # ch_Name "Then fill me with your huge cock!"
-    ch_Name ""
+    ch_Name "Então me encha com sua rola enorme!"
 
 # game/logic/events/Leona.rpy:310
 translate brazilian Leona_1_label_ff5b2797:
 
     # Leona "Like no one has ever done before!"
-    Leona ""
+    Leona "Como ninguém fez antes!"
 
 # game/logic/events/Leona.rpy:311
 translate brazilian Leona_1_label_dbf36561:
 
     # Leona "Deeper!"
-    Leona ""
+    Leona "Mais fundo!"
 
 # game/logic/events/Leona.rpy:313
 translate brazilian Leona_1_label_f846fe76:
 
     # Leona "More!{w} Deeper!"
-    Leona ""
+    Leona "Mais!{w} Fundo!"
 
 # game/logic/events/Leona.rpy:314
 translate brazilian Leona_1_label_7904f57d:
 
     # Leona "Show me what you've got!"
-    Leona ""
+    Leona "Me mostre do que é capaz!"
 
 # game/logic/events/Leona.rpy:316
 translate brazilian Leona_1_label_cc7f38a7:
 
     # ch_Name "Do you want to go deeper?"
-    ch_Name ""
+    ch_Name "Quer que eu vá mais fundo?"
 
 # game/logic/events/Leona.rpy:317
 translate brazilian Leona_1_label_ba81f439:
 
     # Leona "Yes..."
-    Leona ""
+    Leona "Quero..."
 
 # game/logic/events/Leona.rpy:318
 translate brazilian Leona_1_label_20d29d7e:
 
     # ch_Name "Then I'll lead."
-    ch_Name ""
+    ch_Name "Então deixe eu comandar."
 
 # game/logic/events/Leona.rpy:320
 translate brazilian Leona_1_label_ab7e3c83:
 
     # ch_Name "Look at me."
-    ch_Name ""
+    ch_Name "Olhe para mim."
 
 # game/logic/events/Leona.rpy:321
 translate brazilian Leona_1_label_d26cbd28:
 
     # ch_Name "Open your legs wide!"
-    ch_Name ""
+    ch_Name "Abra bem as pernas!"
 
 # game/logic/events/Leona.rpy:323
 translate brazilian Leona_1_label_35085036:
@@ -1174,43 +1174,43 @@ translate brazilian Leona_1_label_35085036:
 translate brazilian Leona_1_label_ce1106f3:
 
     # Leona "Oh, yeah! (Laughs)"
-    Leona ""
+    Leona "Oh, assim! (Risada)"
 
 # game/logic/events/Leona.rpy:325
 translate brazilian Leona_1_label_45b2eaff:
 
     # Leona "I love it when you lead."
-    Leona ""
+    Leona "Eu adoro quando você comanda."
 
 # game/logic/events/Leona.rpy:327
 translate brazilian Leona_1_label_951f9571:
 
     # ch_Name "Are you ready?!"
-    ch_Name ""
+    ch_Name "Está pronta?"
 
 # game/logic/events/Leona.rpy:328
 translate brazilian Leona_1_label_ba81f439_1:
 
     # Leona "Yes..."
-    Leona ""
+    Leona "Sim..."
 
 # game/logic/events/Leona.rpy:330
 translate brazilian Leona_1_label_86e2ebeb:
 
     # ch_Name "You like being in charge?"
-    ch_Name ""
+    ch_Name "Você gosta de estar no comando?"
 
 # game/logic/events/Leona.rpy:331
 translate brazilian Leona_1_label_25e64be5:
 
     # Leona "Ah... Yes..."
-    Leona ""
+    Leona "Ah... Sim..."
 
 # game/logic/events/Leona.rpy:333
 translate brazilian Leona_1_label_a68118d5:
 
     # ch_Name "{i}(Her energy is transmitted through my cock...){/i}"
-    ch_Name ""
+    ch_Name "{i}(A energia dela está sendo transmitida pelo meu pau...){/i}"
 
 # game/logic/events/Leona.rpy:334
 translate brazilian Leona_1_label_a0350c89:
@@ -1222,25 +1222,25 @@ translate brazilian Leona_1_label_a0350c89:
 translate brazilian Leona_1_label_24022bb4:
 
     # ch_Name "{i}(I feel it with every throb...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu sinto em cada pulsação...){/i}"
 
 # game/logic/events/Leona.rpy:337
 translate brazilian Leona_1_label_b27f2939:
 
     # Leona "Yes... fuck me!"
-    Leona ""
+    Leona "Isso... me fode!"
 
 # game/logic/events/Leona.rpy:338
 translate brazilian Leona_1_label_86d5b524:
 
     # ch_Name "Whatever you say..."
-    ch_Name ""
+    ch_Name "Como quiser..."
 
 # game/logic/events/Leona.rpy:340
 translate brazilian Leona_1_label_79af1719:
 
     # ch_Name "{i}(Now I'll show you what I can do!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Agora vou mostrar a ela do que sou capaz!){/i}"
 
 # game/logic/events/Leona.rpy:342
 translate brazilian Leona_1_label_2bf3cc6f:
@@ -1258,61 +1258,61 @@ translate brazilian Leona_1_label_97352852:
 translate brazilian Leona_1_label_1d13e000:
 
     # Leona "Yes! More! Harder!"
-    Leona ""
+    Leona "Isso! Mais! Mais forte!"
 
 # game/logic/events/Leona.rpy:346
 translate brazilian Leona_1_label_91d3f9e4:
 
     # ch_Name "{i}(Unbelievable... With every thrust...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Inacreditável... Em cada metida...){/i}"
 
 # game/logic/events/Leona.rpy:347
 translate brazilian Leona_1_label_cc16e28c:
 
     # ch_Name "{i}(Her magic seems to be transmitted to me...){/i}"
-    ch_Name ""
+    ch_Name "{i}(A magia dela parece ser transmitida para mim...){/i}"
 
 # game/logic/events/Leona.rpy:348
 translate brazilian Leona_1_label_4836d573:
 
     # ch_Name "{i}(I've never felt so much power before!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu nunca senti tanto poder antes!){/i}"
 
 # game/logic/events/Leona.rpy:349
 translate brazilian Leona_1_label_8e596bca:
 
     # ch_Name "{i}(But I am now...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas sinto agora...){/i}"
 
 # game/logic/events/Leona.rpy:351
 translate brazilian Leona_1_label_0b7853c7:
 
     # ch_Name "I'm about to cum..."
-    ch_Name ""
+    ch_Name "Eu vou gozar..."
 
 # game/logic/events/Leona.rpy:352
 translate brazilian Leona_1_label_d82b9bb4:
 
     # Leona "Oh, my champion!"
-    Leona ""
+    Leona "Oh, meu campeão!"
 
 # game/logic/events/Leona.rpy:353
 translate brazilian Leona_1_label_076f259e:
 
     # Leona "Cum wherever you want!"
-    Leona ""
+    Leona "Goze onde quiser!"
 
 # game/logic/events/Leona.rpy:359
 translate brazilian Leona_1_label_ef0afb53:
 
     # ch_Name "I'm...{w} I'm going to cum!"
-    ch_Name ""
+    ch_Name "Eu vou...{w} Eu vou gozar!"
 
 # game/logic/events/Leona.rpy:360
 translate brazilian Leona_1_label_ffcbdaaa:
 
     # Leona "Me too... Oh, yeah!"
-    Leona ""
+    Leona "Eu também... Ah, isso!"
 
 # game/logic/events/Leona.rpy:361
 translate brazilian Leona_1_label_35085036_1:
@@ -1324,127 +1324,127 @@ translate brazilian Leona_1_label_35085036_1:
 translate brazilian Leona_1_label_7c487f85:
 
     # ch_Name "Suck your tummy in!" with flash
-    ch_Name "" with flash
+    ch_Name "Murche sua barriga!" with flash
 
 # game/logic/events/Leona.rpy:364
 translate brazilian Leona_1_label_132dd926:
 
     # Leona "Cover me with your cum..."
-    Leona ""
+    Leona "Me cubra com seu gozo..."
 
 # game/logic/events/Leona.rpy:366
 translate brazilian Leona_1_label_af8b767e:
 
     # ch_Name "Oh yes..." with flash
-    ch_Name "" with flash
+    ch_Name "Ah, isso..." with flash
 
 # game/logic/events/Leona.rpy:367
 translate brazilian Leona_1_label_d842eb85:
 
     # ch_Name "{i}(I can feel her power inside me...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu sinto seu poder dentro de mim...){/i}"
 
 # game/logic/events/Leona.rpy:368
 translate brazilian Leona_1_label_eda89901:
 
     # ch_Name "{i}(Pure, untainted energy...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Energia pura e intocada...){/i}"
 
 # game/logic/events/Leona.rpy:370
 translate brazilian Leona_1_label_041862b3:
 
     # Leona "Can you feel the ritual working yet?"
-    Leona ""
+    Leona "Consegue sentir o ritual funcionando?"
 
 # game/logic/events/Leona.rpy:371
 translate brazilian Leona_1_label_066f8bca:
 
     # Leona "Go to sleep, and when you wake up..."
-    Leona ""
+    Leona "Vá dormir e quando acordar..."
 
 # game/logic/events/Leona.rpy:372
 translate brazilian Leona_1_label_de1d168e:
 
     # Leona "I..."
-    Leona ""
+    Leona "Eu..."
 
 # game/logic/events/Leona.rpy:380
 translate brazilian Leona_1_label_a2290cd3:
 
     # ch_Name "I...{w} I'm going to cum!"
-    ch_Name ""
+    ch_Name "Eu...{w} Eu vou gozar!"
 
 # game/logic/events/Leona.rpy:381
 translate brazilian Leona_1_label_5ce9be3a:
 
     # ch_Name "Show me your pretty face."
-    ch_Name ""
+    ch_Name "Me mostre sua carinha linda."
 
 # game/logic/events/Leona.rpy:383
 translate brazilian Leona_1_label_5cdf9e6c:
 
     # Leona "Oh..." with flash
-    Leona "" with flash
+    Leona "Oh..." with flash
 
 # game/logic/events/Leona.rpy:384
 translate brazilian Leona_1_label_65e9c6fe_1:
 
     # Leona "Oh, yeah..."
-    Leona ""
+    Leona "Ah, isso..."
 
 # game/logic/events/Leona.rpy:386
 translate brazilian Leona_1_label_ce1426d8:
 
     # Leona "Just what I needed." with flash
-    Leona "" with flash
+    Leona "Bem o que eu precisava." with flash
 
 # game/logic/events/Leona.rpy:387
 translate brazilian Leona_1_label_2bd86b89:
 
     # ch_Name "That was incredible..."
-    ch_Name ""
+    ch_Name "Isso foi incrível..."
 
 # game/logic/events/Leona.rpy:388
 translate brazilian Leona_1_label_d842eb85_1:
 
     # ch_Name "{i}(I can feel her power inside me...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu consigo sentir o poder dela dentro de mim...){/i}"
 
 # game/logic/events/Leona.rpy:390
 translate brazilian Leona_1_label_eda89901_1:
 
     # ch_Name "{i}(Pure, untainted energy...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Energia pura e intocada...){/i}"
 
 # game/logic/events/Leona.rpy:391
 translate brazilian Leona_1_label_041862b3_1:
 
     # Leona "Can you feel the ritual working yet?"
-    Leona ""
+    Leona "Consegue sentir o ritual funcionando?"
 
 # game/logic/events/Leona.rpy:392
 translate brazilian Leona_1_label_066f8bca_1:
 
     # Leona "Go to sleep, and when you wake up..."
-    Leona ""
+    Leona "Vá dormir e quando acordar..."
 
 # game/logic/events/Leona.rpy:393
 translate brazilian Leona_1_label_de1d168e_1:
 
     # Leona "I..."
-    Leona ""
+    Leona "Eu..."
 
 # game/logic/events/Leona.rpy:400
 translate brazilian Leona_1_label_ef0afb53_1:
 
     # ch_Name "I'm...{w} I'm going to cum!"
-    ch_Name ""
+    ch_Name "Eu...{w} Eu vou gozar!"
 
 # game/logic/events/Leona.rpy:401
 translate brazilian Leona_1_label_eea56c11:
 
     # Leona "Me too... Oh yes!"
-    Leona ""
+    Leona "Eu também... Isso!"
 
 # game/logic/events/Leona.rpy:403
 translate brazilian Leona_1_label_5cdf9e6c_1:
@@ -1468,73 +1468,73 @@ translate brazilian Leona_1_label_34e76882:
 translate brazilian Leona_1_label_2bd86b89_1:
 
     # ch_Name "That was incredible..."
-    ch_Name ""
+    ch_Name "Isso foi incrível..."
 
 # game/logic/events/Leona.rpy:408
 translate brazilian Leona_1_label_679ffffa:
 
     # Leona "You filled me to the brim..."
-    Leona ""
+    Leona "Vocẽ me encheu até a borda..."
 
 # game/logic/events/Leona.rpy:409
 translate brazilian Leona_1_label_a486ddec:
 
     # Leona "I wonder how strong your seed is?"
-    Leona ""
+    Leona "Eu imagino quão forte sua semente é..."
 
 # game/logic/events/Leona.rpy:410
 translate brazilian Leona_1_label_d842eb85_2:
 
     # ch_Name "{i}(I can feel her power inside me...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu consigo sentir seu poder dentro de mim...){/i}"
 
 # game/logic/events/Leona.rpy:411
 translate brazilian Leona_1_label_db9a9c7c:
 
     # ch_Name "{i}(Pure, untainted by the elements...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Puro, intocado pelos elementos...){/i}"
 
 # game/logic/events/Leona.rpy:412
 translate brazilian Leona_1_label_16884bdd:
 
     # Leona "Can you feel the ritual working already?"
-    Leona ""
+    Leona "Consegue sentir o ritual funcionando?"
 
 # game/logic/events/Leona.rpy:413
 translate brazilian Leona_1_label_066f8bca_2:
 
     # Leona "Go to sleep, and when you wake up..."
-    Leona ""
+    Leona "Vá dormir e quando acordar..."
 
 # game/logic/events/Leona.rpy:414
 translate brazilian Leona_1_label_de1d168e_2:
 
     # Leona "I..."
-    Leona ""
+    Leona "Eu..."
 
 # game/logic/events/Leona.rpy:423
 translate brazilian Leona_1_44_label_f41b0f43:
 
     # ch_Name "{i}(Shit... My head hurts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Merda... Minha cabeça dói.){/i}"
 
 # game/logic/events/Leona.rpy:424
 translate brazilian Leona_1_44_label_60c10a70:
 
     # ch_Name "{i}(My whole body aches.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Meu corpo todo dói.){/i}"
 
 # game/logic/events/Leona.rpy:425
 translate brazilian Leona_1_44_label_ca799e40:
 
     # ch_Name "{i}(Is it because of yesterday?){/i}"
-    ch_Name ""
+    ch_Name "{i}(É por causa de ontem?){/i}"
 
 # game/logic/events/Leona.rpy:427
 translate brazilian Leona_1_44_label_b159fa86:
 
     # ch_Name "{i}(Since when am I such a wuss?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Desde quando eu sou tão frouxo?){/i}"
 
 # game/logic/events/Leona.rpy:428
 translate brazilian Leona_1_44_label_05100b87:
@@ -1546,109 +1546,109 @@ translate brazilian Leona_1_44_label_05100b87:
 translate brazilian Leona_1_44_label_5f5a98d0:
 
     # ch_Name "{i}(Never mind...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Deixa prá lá...){/i}"
 
 # game/logic/events/Leona.rpy:430
 translate brazilian Leona_1_44_label_0a4e5814:
 
     # ch_Name "{i}(The important thing is that it's done.){/i}"
-    ch_Name ""
+    ch_Name "{i}(O importante é que está feito.){/i}"
 
 # game/logic/events/Leona.rpy:432
 translate brazilian Leona_1_44_label_9fa92c5b:
 
     # ch_Name "{i}(I still can't undestand, if it was real. Leona was here?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu ainda não entendo se foi real. Leona estava aqui?){/i}"
 
 # game/logic/events/Leona.rpy:433
 translate brazilian Leona_1_44_label_ac2cdabf:
 
     # ch_Name "{i}(I've got to get downstairs and talk with someone.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tenho que descer e falar com alguém.){/i}"
 
 # game/logic/events/Leona.rpy:434
 translate brazilian Leona_1_44_label_d6dd2e49:
 
     # ch_Name "{i}(Just to feel if there's a difference.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Só para sentir a diferença.){/i}"
 
 # game/logic/events/Leona.rpy:448
 translate brazilian Leona_2_label_b37ded33:
 
     # ch_Name "{i}(Wow, I've got so invested I lost track of time. Well, that may be even better.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Uau, estava tão concentrado que perdi a noção do tempo. Bom, isso pode ser até melhor.){/i}"
 
 # game/logic/events/Leona.rpy:449
 translate brazilian Leona_2_label_d95feb3e:
 
     # ch_Name "{i}(Now I'm almost sure no one will see me summoning Leona.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Agora tenho quase certeza que ninguém vai me ver convocando Leona.){/i}"
 
 # game/logic/events/Leona.rpy:450
 translate brazilian Leona_2_label_7b55dd4a:
 
     # ch_Name "{i}(Let's see if the hall is empty.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vamos ver se o salão está vazio.){/i}"
 
 # game/logic/events/Leona.rpy:455
 translate brazilian Leona_2_label_eee7ca6b:
 
     # ch_Name "{i}(I need to find a way to contact Leona.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tenho que achar um meio de contactar Leona.){/i}"
 
 # game/logic/events/Leona.rpy:456
 translate brazilian Leona_2_label_5b829d9b:
 
     # ch_Name "{i}(I hope she can help me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Espero que ela possa me ajudar.){/i}"
 
 # game/logic/events/Leona.rpy:457
 translate brazilian Leona_2_label_1771d833:
 
     # ch_Name "{i}(I don't want to go back to the nightmare Katrina created.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu não quero voltar para o pesadelo que Katrina criou.){/i}"
 
 # game/logic/events/Leona.rpy:458
 translate brazilian Leona_2_label_58f58419:
 
     # ch_Name "{i}(Victoria said there's a piece of each creator's soul in the book.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Victoria disse que há uma parte da alma de cada criadora no livro.){/i}"
 
 # game/logic/events/Leona.rpy:460
 translate brazilian Leona_2_label_0f37cca1:
 
     # ch_Name "{i}(And Leona said she and I are connected.){/i}"
-    ch_Name ""
+    ch_Name "{i}(E Leona disse que nós estamos conectados.){/i}"
 
 # game/logic/events/Leona.rpy:461
 translate brazilian Leona_2_label_1262ec61:
 
     # ch_Name "{i}(Perhaps the book will sense my magical energy...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Talvez o livro sinta a minha energia mágica...){/i}"
 
 # game/logic/events/Leona.rpy:462
 translate brazilian Leona_2_label_c0faf3ff:
 
     # ch_Name "{i}(And Leona will hear my call.){/i}"
-    ch_Name ""
+    ch_Name "{i}(E Leona ouça o meu chamado.){/i}"
 
 # game/logic/events/Leona.rpy:463
 translate brazilian Leona_2_label_c0004073:
 
     # ch_Name "{i}(As long as Katrina's soul doesn't attack first.){/i}"
-    ch_Name ""
+    ch_Name "{i}(A menos que a alma de Katrina me ataque antes.){/i}"
 
 # game/logic/events/Leona.rpy:464
 translate brazilian Leona_2_label_dfa44a05:
 
     # ch_Name "{i}(So. What do I do? Just put my hand on the book?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Então, o que faço? Apenas boto a mão no livro?{/i}"
 
 # game/logic/events/Leona.rpy:465
 translate brazilian Leona_2_label_4e4d6a9b:
 
     # ch_Name "{i}(Should I say something?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu deveria dizer alguma coisa?){/i}"
 
 # game/logic/events/Leona.rpy:467
 translate brazilian Leona_2_label_8099a83b:
@@ -1672,25 +1672,25 @@ translate brazilian Leona_2_label_2addc5e7:
 translate brazilian Leona_2_label_ba563614:
 
     # ch_Name "{i}(Nothing. Damn. I probably look like a clown.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nada. Droga. Eu devo parecer um palhaço.){/i}"
 
 # game/logic/events/Leona.rpy:471
 translate brazilian Leona_2_label_87a57c8a:
 
     # ch_Name "{i}(Right, maybe I should find that page with her symbol on it...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Certo, talves eu deva achar a página com o símbolo dela...){/i}"
 
 # game/logic/events/Leona.rpy:473
 translate brazilian Leona_2_label_8aaddc81:
 
     # ch_Name "{i}(There it is.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aqui está.){/i}"
 
 # game/logic/events/Leona.rpy:474
 translate brazilian Leona_2_label_75cbc614:
 
     # ch_Name "{i}(Okay. Again.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ok. De novo.){/i}"
 
 # game/logic/events/Leona.rpy:475
 translate brazilian Leona_2_label_8099a83b_1:
@@ -1720,37 +1720,37 @@ translate brazilian Leona_2_label_dffbcfca_1:
 translate brazilian Leona_2_label_99e40b86:
 
     # Leona "What is that, onkara?"
-    Leona ""
+    Leona "O que é isso, onkara?"
 
 # game/logic/events/Leona.rpy:485
 translate brazilian Leona_2_label_8b7b5ef6:
 
     # Leona "Very creative! No one's ever called me like that before."
-    Leona ""
+    Leona "Muito criatico! Nunca me chamaram assim antes."
 
 # game/logic/events/Leona.rpy:486
 translate brazilian Leona_2_label_d8e3416e:
 
     # ch_Name "Damn it, Leona. You scared me."
-    ch_Name ""
+    ch_Name "Porra, Leona. Você me assustou."
 
 # game/logic/events/Leona.rpy:487
 translate brazilian Leona_2_label_fbcdb55d:
 
     # ch_Name "Did you have to sneak up behind me?"
-    ch_Name ""
+    ch_Name "Vocẽ tinha que se esgueirar atrás de mim?"
 
 # game/logic/events/Leona.rpy:488
 translate brazilian Leona_2_label_70580072:
 
     # Leona "Of course, I did. Where's the fun in it otherwise?"
-    Leona ""
+    Leona "Claro que tinha. Qual seria a graça se não fosse adssim?"
 
 # game/logic/events/Leona.rpy:489
 translate brazilian Leona_2_label_2e2b21d7:
 
     # ch_Name "{i}(You just want to have fun...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Você só quer se divertir...){/i}"
 
 # game/logic/events/Leona.rpy:490
 translate brazilian Leona_2_label_e1ea9f33:
@@ -1762,25 +1762,25 @@ translate brazilian Leona_2_label_e1ea9f33:
 translate brazilian Leona_2_label_013ed0df:
 
     # ch_Name "And what kind of look is this..."
-    ch_Name ""
+    ch_Name "E que roupa é essa...?"
 
 # game/logic/events/Leona.rpy:493
 translate brazilian Leona_2_label_a5baaf4c:
 
     # Leona "What's the matter, aren't you glad to see me? You're the one who called."
-    Leona ""
+    Leona "Qual o problema, não está feliz de mmie ver? Foi você que me chamous."
 
 # game/logic/events/Leona.rpy:494
 translate brazilian Leona_2_label_e5c95c28:
 
     # Leona "I don't remember you complaining about my shape before."
-    Leona ""
+    Leona "Não me lembro de você reclamar da minha forma antes."
 
 # game/logic/events/Leona.rpy:495
 translate brazilian Leona_2_label_c826994f:
 
     # ch_Name "That's not the point! We're in a public place, people might see you!"
-    ch_Name ""
+    ch_Name "Não é isso! Estamos em um lugar público, pessoas podem lhe ver!"
 
 # game/logic/events/Leona.rpy:497
 translate brazilian Leona_2_label_5489cd94:
