@@ -9196,853 +9196,853 @@ translate russian Audrey_9_label_L_26_a3549afd:
 translate russian Audrey_9_label_L_77_55e8d931:
 
     # Audrey "Which one?"
-    Audrey ""
+    Audrey "Какой?"
 
 # game/logic/events/audrey.rpy:2758
 translate russian Audrey_9_label_L_77_94607ee3:
 
     # ch_Name "When you and Sam left to your room."
-    ch_Name ""
+    ch_Name "Когда вы с Сэм ушли в свою комнату."
 
 # game/logic/events/audrey.rpy:2759
 translate russian Audrey_9_label_L_77_a8020bbf:
 
     # ch_Name "I had a feeling you girls where up to something."
-    ch_Name ""
+    ch_Name "У меня ощущение, что вы что-то скрываете."
 
 # game/logic/events/audrey.rpy:2760
 translate russian Audrey_9_label_L_77_25fb8413:
 
     # ch_Name "It feels like I should've joined. But I ignored it."
-    ch_Name ""
+    ch_Name "Чую, мне стоило присоединиться. Но я забил."
 
 # game/logic/events/audrey.rpy:2762
 translate russian Audrey_9_label_L_77_9b402ff9:
 
     # ch_Name "I don't know what was wrong with me."
-    ch_Name ""
+    ch_Name "Не знаю, что на меня нашло."
 
 # game/logic/events/audrey.rpy:2763
 translate russian Audrey_9_label_L_77_08ab7a1a:
 
     # ch_Name "But maybe you can help me with that lost piece of puzzle?"
-    ch_Name ""
+    ch_Name "Но, может, ты дашь мне недостающий кусочек пазла?"
 
 # game/logic/events/audrey.rpy:2764
 translate russian Audrey_9_label_L_77_40a29368:
 
     # Audrey "Lost piece of puzzle?"
-    Audrey ""
+    Audrey "Кусочек пазла?"
 
 # game/logic/events/audrey.rpy:2765
 translate russian Audrey_9_label_L_77_e5ed4a93:
 
     # Audrey "Do you think you can fool around with me, like it's a game?"
-    Audrey ""
+    Audrey "Ты тут вздумал шутки со мной шутить, будто это какая-то игра?"
 
 # game/logic/events/audrey.rpy:2766
 translate russian Audrey_9_label_L_77_0b493631:
 
     # ch_Name "I just..."
-    ch_Name ""
+    ch_Name "Я просто..."
 
 # game/logic/events/audrey.rpy:2768
 translate russian Audrey_9_label_L_77_8b7cf8ae:
 
     # Audrey "You just missed your golden ticket that day."
-    Audrey ""
+    Audrey "Ты просто проиграл свой счастливый билет в тот день."
 
 # game/logic/events/audrey.rpy:2769
 translate russian Audrey_9_label_L_77_8b35cea4:
 
     # Audrey "Do you really think you can win the lottery twice?"
-    Audrey ""
+    Audrey "Думаешь, можно выиграть в лотерею дважды?"
 
 # game/logic/events/audrey.rpy:2770
 translate russian Audrey_9_label_L_77_5a073471:
 
     # ch_Name "I'm still not sure what I've missed."
-    ch_Name ""
+    ch_Name "На самом деле, не совсем уверен в том, что же я упустил."
 
 # game/logic/events/audrey.rpy:2771
 translate russian Audrey_9_label_L_77_8219ac79:
 
     # ch_Name "But I'm sure you can show me."
-    ch_Name ""
+    ch_Name "Но я уверен, ты можешь показать мне, что."
 
 # game/logic/events/audrey.rpy:2773
 translate russian Audrey_9_label_L_77_fd8cf794:
 
     # ch_Name "I won't disappoint you."
-    ch_Name ""
+    ch_Name "Я тебя не разочарую."
 
 # game/logic/events/audrey.rpy:2774
 translate russian Audrey_9_label_L_77_2700cb78:
 
     # ch_Name "You know you want it."
-    ch_Name ""
+    ch_Name "Ты знаешь, что хочешь этого."
 
 # game/logic/events/audrey.rpy:2775
 translate russian Audrey_9_label_L_77_f2285ce6:
 
     # ch_Name "I know I want it. "
-    ch_Name ""
+    ch_Name "Я знаю, что хочу."
 
 # game/logic/events/audrey.rpy:2776
 translate russian Audrey_9_label_L_77_a9fa5c5b:
 
     # Audrey "Enough chitchat!"
-    Audrey ""
+    Audrey "Хватит болтовни!"
 
 # game/logic/events/audrey.rpy:2778
 translate russian Audrey_9_label_L_77_f99f186d:
 
     # Audrey "If you are so sure..."
-    Audrey ""
+    Audrey "Если ты так в себе уверен..."
 
 # game/logic/events/audrey.rpy:2779
 translate russian Audrey_9_label_L_77_ac30b59c:
 
     # Audrey "...then prove it not by words, but by actions."
-    Audrey ""
+    Audrey "...докажи это не на словах, а на деле."
 
 # game/logic/events/audrey.rpy:2780
 translate russian Audrey_9_label_L_77_c65bd153:
 
     # ch_Name "Let's go to your bedroom."
-    ch_Name ""
+    ch_Name "Пойдём в твою спальню."
 
 # game/logic/events/audrey.rpy:2782
 translate russian Audrey_9_label_L_77_b4c45eff:
 
     # ch_Name "And there I will have a great opportunity to demonstrate my good intentions."
-    ch_Name ""
+    ch_Name "Там у меня будет отличная возможность продемонстировать свои благие намерения."
 
 # game/logic/events/audrey.rpy:2783
 translate russian Audrey_9_label_L_77_654c5dd1:
 
     # ch_Name "{i}(Oh, Audrey, it's so obvious that you want it even more than I do.){/i}"
-    ch_Name ""
+    ch_Name "{i}(О, Одри, как же очевидно, что ты хочешь этого даже больше, чем я.){/i}"
 
 # game/logic/events/audrey.rpy:2784
 translate russian Audrey_9_label_L_77_d03e2d63:
 
     # ch_Name "{i}(I see how even now you're shaking with excitement.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я даже сейчас вижу, как ты дрожишь от предвкушения.){/i}"
 
 # game/logic/events/audrey.rpy:2786
 translate russian Audrey_9_label_L_77_7b922284:
 
     # Audrey "I will wait for you there then."
-    Audrey ""
+    Audrey "В таком случае, буду ждать тебя там."
 
 # game/logic/events/audrey.rpy:2787
 translate russian Audrey_9_label_L_77_381e6e50:
 
     # Audrey "I hope you don't chicken out again."
-    Audrey ""
+    Audrey "Надеюсь, ты не зассышь снова."
 
 # game/logic/events/audrey.rpy:2795
 translate russian Audrey_9_label_L_77_a2893dde:
 
     # ch_Name "{i}(Although, all this still seems to be really strange.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Хотя, если честно, всё это до сих пор кажется мне очень странным.){/i}"
 
 # game/logic/events/audrey.rpy:2796
 translate russian Audrey_9_label_L_77_d896775f:
 
     # ch_Name "{i}(There's something wrong with Audrey acting like that.){/i}"
-    ch_Name ""
+    ch_Name "{i}(С поведением Одри точно что-то не так.){/i}"
 
 # game/logic/events/audrey.rpy:2797
 translate russian Audrey_9_label_L_77_1a3fd0ae:
 
     # ch_Name "{i}(I feel it in my gut.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я это чувствую.){/i}"
 
 # game/logic/events/audrey.rpy:2798
 translate russian Audrey_9_label_L_77_fc43ed26:
 
     # ch_Name "{i}(Maybe it's better not to go?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Может, не идти за ней?){/i}"
 
 # game/logic/events/audrey.rpy:2799
 translate russian Audrey_9_label_L_77_a515916f:
 
     # ch_Name "{i}(I will lose just nothing.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Уверен, я ничего не теряю.){/i}"
 
 # game/logic/events/audrey.rpy:2800
 translate russian Audrey_9_label_L_77_a5af9180:
 
     # ch_Name "{i}(Yep, let's keep it in this way, at least for now.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Да, пускай всё остаётся как есть, до поры до времени.){/i}"
 
 # game/logic/events/audrey.rpy:2807
 translate russian Audrey_9_label_L_77_b7ba6309:
 
     # ch_Name "Knock, knock. Can I come in?"
-    ch_Name ""
+    ch_Name "Тук-тук. Могу войти?"
 
 # game/logic/events/audrey.rpy:2808
 translate russian Audrey_9_label_L_77_0247b421:
 
     # Audrey "Come in... Come in, of course!"
-    Audrey ""
+    Audrey "Входи... Входи, конечно!"
 
 # game/logic/events/audrey.rpy:2817
 translate russian Audrey_9_label_L_77_c41f1ae4:
 
     # ch_Name "{i}(Whoa, wow!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ооо, вау!){/i}"
 
 # game/logic/events/audrey.rpy:2818
 translate russian Audrey_9_label_L_77_ea3fcabf:
 
     # ch_Name "{i}(She's already in her underwear?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Она уже в нижнем белье?){/i}"
 
 # game/logic/events/audrey.rpy:2819
 translate russian Audrey_9_label_L_77_6fa75db8:
 
     # ch_Name "{i}(This lingerie is really sexy!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Оно у неё такое сексуальное!){/i}"
 
 # game/logic/events/audrey.rpy:2820
 translate russian Audrey_9_label_L_77_ea9d604c:
 
     # ch_Name "{i}(I like her taste in clothes!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Мне нравится её выбор!){/i}"
 
 # game/logic/events/audrey.rpy:2822
 translate russian Audrey_9_label_L_77_322aecd9:
 
     # Audrey "Come here, honey!"
-    Audrey ""
+    Audrey "Иди сюда, детка!"
 
 # game/logic/events/audrey.rpy:2823
 translate russian Audrey_9_label_L_77_74ebce9c:
 
     # ch_Name "Sure."
-    ch_Name ""
+    ch_Name "Разумеется."
 
 # game/logic/events/audrey.rpy:2830
 translate russian Audrey_9_label_L_77_c41f1ae4_1:
 
     # ch_Name "{i}(Whoa, wow!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ооо, вау!){/i}"
 
 # game/logic/events/audrey.rpy:2831
 translate russian Audrey_9_label_L_77_ea3fcabf_1:
 
     # ch_Name "{i}(She's already in her underwear?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Она уже в нижнем белье?){/i}"
 
 # game/logic/events/audrey.rpy:2832
 translate russian Audrey_9_label_L_77_6fa75db8_1:
 
     # ch_Name "{i}(This lingerie is really sexy!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Оно у неё такое сексуальное!){/i}"
 
 # game/logic/events/audrey.rpy:2833
 translate russian Audrey_9_label_L_77_ea9d604c_1:
 
     # ch_Name "{i}(I like her taste in clothes!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Мне нравится её выбор!){/i}"
 
 # game/logic/events/audrey.rpy:2835
 translate russian Audrey_9_label_L_77_322aecd9_1:
 
     # Audrey "Come here, honey!"
-    Audrey ""
+    Audrey "Иди сюда, детка!"
 
 # game/logic/events/audrey.rpy:2836
 translate russian Audrey_9_label_L_77_74ebce9c_1:
 
     # ch_Name "Sure."
-    ch_Name ""
+    ch_Name "Разумеется."
 
 # game/logic/events/audrey.rpy:2839
 translate russian Audrey_9_label_L_77_43d8fe57:
 
     # Audrey "[Name], you know... You look so appetizing in this light."
-    Audrey ""
+    Audrey "[Name], знаешь... Ты выглядишь таким аппетитным при этом освещении."
 
 # game/logic/events/audrey.rpy:2840
 translate russian Audrey_9_label_L_77_88bfc039:
 
     # ch_Name "Do you really think so?"
-    ch_Name ""
+    ch_Name "Ты правда так думаешь?"
 
 # game/logic/events/audrey.rpy:2841
 translate russian Audrey_9_label_L_77_1015ca8d:
 
     # Audrey "Yes..."
-    Audrey ""
+    Audrey "Да..."
 
 # game/logic/events/audrey.rpy:2842
 translate russian Audrey_9_label_L_77_b1447061:
 
     # Audrey "I'd love to touch your body..."
-    Audrey ""
+    Audrey "Я мечтаю тебя коснуться..."
 
 # game/logic/events/audrey.rpy:2844
 translate russian Audrey_9_label_L_77_8982e1c4:
 
     # ch_Name "Mmm..."
-    ch_Name ""
+    ch_Name "Ммм..."
 
 # game/logic/events/audrey.rpy:2845
 translate russian Audrey_9_label_L_77_bd79f293:
 
     # Audrey "Oh, [Name].."
-    Audrey ""
+    Audrey "О, [Name]..."
 
 # game/logic/events/audrey.rpy:2846
 translate russian Audrey_9_label_L_77_2092222c:
 
     # Audrey "I've only just started."
-    Audrey ""
+    Audrey "Я только начала."
 
 # game/logic/events/audrey.rpy:2849
 translate russian Audrey_9_label_L_77_7d7c4a3c:
 
     # ch_Name "God!" with vpunch
-    ch_Name "" with vpunch
+    ch_Name "Господи!" with vpunch
 
 # game/logic/events/audrey.rpy:2850
 translate russian Audrey_9_label_L_77_0ece8f1b:
 
     # ch_Name "What are you..."
-    ch_Name ""
+    ch_Name "Что ты..."
 
 # game/logic/events/audrey.rpy:2852
 translate russian Audrey_9_label_L_77_a39f4d65:
 
     # ch_Name "...doing to me?"
-    ch_Name ""
+    ch_Name "...со мной делаешь?"
 
 # game/logic/events/audrey.rpy:2853
 translate russian Audrey_9_label_L_77_bc5a8923:
 
     # Audrey "I have the very same question for you."
-    Audrey ""
+    Audrey "У меня к тебе тот же вопрос."
 
 # game/logic/events/audrey.rpy:2854
 translate russian Audrey_9_label_L_77_9bc5f4e0:
 
     # Audrey "I just want you."
-    Audrey ""
+    Audrey "Я просто хочу тебя."
 
 # game/logic/events/audrey.rpy:2855
 translate russian Audrey_9_label_L_77_dfb65ccf:
 
     # ch_Name "{i}(Whoa!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Воу!){/i}"
 
 # game/logic/events/audrey.rpy:2856
 translate russian Audrey_9_label_L_77_9d78ada4:
 
     # ch_Name "What exactly do you want?"
-    ch_Name ""
+    ch_Name "И чего же ты в точности хочешь?"
 
 # game/logic/events/audrey.rpy:2858
 translate russian Audrey_9_label_L_77_4bfefdb1:
 
     # Audrey "Want to feel you inside me with every fiber of my being."
-    Audrey ""
+    Audrey "Хочу ощутить тебя внутри себя каждой клеточкой своего тела."
 
 # game/logic/events/audrey.rpy:2859
 translate russian Audrey_9_label_L_77_077e8ddd:
 
     # Audrey "And I also see how badly you want to fuck me."
-    Audrey ""
+    Audrey "И ещё я хочу увидеть, насколько сильно ты хочешь меня трахнуть."
 
 # game/logic/events/audrey.rpy:2860
 translate russian Audrey_9_label_L_77_4230aef9:
 
     # ch_Name "{i}(Just look at this smart girl!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Только поглядите на эту умную девочку!){/i}"
 
 # game/logic/events/audrey.rpy:2861
 translate russian Audrey_9_label_L_77_9dbbaafd:
 
     # Audrey "Am I right?"
-    Audrey ""
+    Audrey "Я права?"
 
 # game/logic/events/audrey.rpy:2862
 translate russian Audrey_9_label_L_77_b7fece4c:
 
     # ch_Name "I..."
-    ch_Name ""
+    ch_Name "Я..."
 
 # game/logic/events/audrey.rpy:2864
 translate russian Audrey_9_label_L_77_c1134697:
 
     # Audrey "You don't have to answer."
-    Audrey ""
+    Audrey "Тебе не нужно отвечать."
 
 # game/logic/events/audrey.rpy:2865
 translate russian Audrey_9_label_L_77_d7dae746:
 
     # Audrey "I can see everything in your sultry eyes."
-    Audrey ""
+    Audrey "Твой похотливый взгляд говорит за тебя."
 
 # game/logic/events/audrey.rpy:2866
 translate russian Audrey_9_label_L_77_788e0217:
 
     # ch_Name "That's just amazing! "
-    ch_Name ""
+    ch_Name "Это замечательно!"
 
 # game/logic/events/audrey.rpy:2868
 translate russian Audrey_9_label_L_77_0b493631_1:
 
     # ch_Name "I just..."
-    ch_Name ""
+    ch_Name "Я просто..."
 
 # game/logic/events/audrey.rpy:2869
 translate russian Audrey_9_label_L_77_9aa71376:
 
     # ch_Name "I have no words..."
-    ch_Name ""
+    ch_Name "У меня нет слов..."
 
 # game/logic/events/audrey.rpy:2871
 translate russian Audrey_9_label_L_77_d71abb87:
 
     # ch_Name "{i}(I do have a few, but I don't know how to say them...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Вообще-то есть парочка, но я не знаю, как бы их вслух сказать...){/i}"
 
 # game/logic/events/audrey.rpy:2872
 translate russian Audrey_9_label_L_77_f08ae7ff:
 
     # ch_Name "{i}(THOSE TITS ARE SO FUCKING JUICY!){/i}"
-    ch_Name ""
+    ch_Name "{i}(ЕБАТЬ МОЙ РОТ, КАКИЕ ЖЕ СОЧНЫЕ СИСЬКИ!){/i}"
 
 # game/logic/events/audrey.rpy:2874
 translate russian Audrey_9_label_L_77_2a5fb0b7:
 
     # Audrey "Pick your jaw up off the floor, boy."
-    Audrey ""
+    Audrey "Подними челюсть с пола, мальчик."
 
 # game/logic/events/audrey.rpy:2876
 translate russian Audrey_9_label_L_77_7dc084d7:
 
     # Audrey "Watch and enjoy."
-    Audrey ""
+    Audrey "Смотри и наслаждайся."
 
 # game/logic/events/audrey.rpy:2877
 translate russian Audrey_9_label_L_77_3cc55ae9:
 
     # ch_Name "{i}(There. That. Yeah.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Да. Вот. Вот оно.){/i}"
 
 # game/logic/events/audrey.rpy:2879
 translate russian Audrey_9_label_L_77_73f15e61:
 
     # ch_Name "Audrey..."
-    ch_Name ""
+    ch_Name "Одри..."
 
 # game/logic/events/audrey.rpy:2880
 translate russian Audrey_9_label_L_77_a734a048:
 
     # ch_Name "Oh, Audrey..."
-    ch_Name ""
+    ch_Name "О, Одри..."
 
 # game/logic/events/audrey.rpy:2881
 translate russian Audrey_9_label_L_77_e24d48bc:
 
     # ch_Name "{i}(I could watch this forever!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я могу вечно смотреть на это!){/i}"
 
 # game/logic/events/audrey.rpy:2883
 translate russian Audrey_9_label_L_77_fb63fe71:
 
     # Audrey "It's a normal reaction."
-    Audrey ""
+    Audrey "Вполне обыкновенная реакция."
 
 # game/logic/events/audrey.rpy:2884
 translate russian Audrey_9_label_L_77_141180f2:
 
     # Audrey "Few people can take their eyes off them."
-    Audrey ""
+    Audrey "Редко кто может отвести от них взгляд."
 
 # game/logic/events/audrey.rpy:2885
 translate russian Audrey_9_label_L_77_567aca63:
 
     # Audrey "You men are so predictable."
-    Audrey ""
+    Audrey "Вы, мужчины, такие предсказуемые."
 
 # game/logic/events/audrey.rpy:2887
 translate russian Audrey_9_label_L_77_c112ca94:
 
     # Audrey "Too predictable!"
-    Audrey ""
+    Audrey "Даже слишком!"
 
 # game/logic/events/audrey.rpy:2888
 translate russian Audrey_9_label_L_77_3d3d9240:
 
     # Audrey "But don't think I'm using you."
-    Audrey ""
+    Audrey "Но не подумай, что я тебя использую."
 
 # game/logic/events/audrey.rpy:2890
 translate russian Audrey_9_label_L_77_5c18c493:
 
     # Audrey "My body craves a man's caress. "
-    Audrey ""
+    Audrey "Моё тело жаждет мужской ласки."
 
 # game/logic/events/audrey.rpy:2891
 translate russian Audrey_9_label_L_77_2bbec341:
 
     # Audrey "Not just my breasts, but everything below is yours!"
-    Audrey ""
+    Audrey "Не только моя грудь, но и то, что ниже - всё твоё!"
 
 # game/logic/events/audrey.rpy:2893
 translate russian Audrey_9_label_L_77_9687281b:
 
     # ch_Name "Let's start with those beauties."
-    ch_Name ""
+    ch_Name "Начнём с этих красоток."
 
 # game/logic/events/audrey.rpy:2894
 translate russian Audrey_9_label_L_77_bedf9d5b:
 
     # Audrey "If that's what you want..."
-    Audrey ""
+    Audrey "Если ты так хочешь..."
 
 # game/logic/events/audrey.rpy:2895
 translate russian Audrey_9_label_L_77_d78ea350:
 
     # ch_Name "And then we'll think about everything else."
-    ch_Name ""
+    ch_Name "А потом мы подумаем обо всём остальном."
 
 # game/logic/events/audrey.rpy:2897
 translate russian Audrey_9_label_L_77_9d07a9c2:
 
     # Audrey "Oh my gosh..."
-    Audrey ""
+    Audrey "О боже мой..."
 
 # game/logic/events/audrey.rpy:2898
 translate russian Audrey_9_label_L_77_0de84302:
 
     # Audrey "Please, fuck me!"
-    Audrey ""
+    Audrey "Пожалуйста, трахни меня!"
 
 # game/logic/events/audrey.rpy:2902
 translate russian Audrey_9_label_L_77_3e1d98bf:
 
     # ch_Name "I want it as much as you do."
-    ch_Name ""
+    ch_Name "Я хочу этого так же, как и ты."
 
 # game/logic/events/audrey.rpy:2904
 translate russian Audrey_9_label_L_77_d6cfa68b:
 
     # Audrey "I'm not wrong about you, [Name]."
-    Audrey ""
+    Audrey "Я в тебе не сомневалась, [Name]."
 
 # game/logic/events/audrey.rpy:2905
 translate russian Audrey_9_label_L_77_2503f4fe:
 
     # ch_Name "{i}(Oh!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Оу!){/i}"
 
 # game/logic/events/audrey.rpy:2907
 translate russian Audrey_9_label_L_77_188c5931:
 
     # ch_Name "{i}(What a cute intimate haircut...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Какая милая интимная стрижка...){/i}"
 
 # game/logic/events/audrey.rpy:2908
 translate russian Audrey_9_label_L_77_1ab6616d:
 
     # Audrey "Do you realize how lucky you are?"
-    Audrey ""
+    Audrey "Ты хоть понимаешь, насколько тебе повезло?"
 
 # game/logic/events/audrey.rpy:2910
 translate russian Audrey_9_label_L_77_185539e3:
 
     # ch_Name "How?"
-    ch_Name ""
+    ch_Name "Насколько?"
 
 # game/logic/events/audrey.rpy:2911
 translate russian Audrey_9_label_L_77_19ffe066:
 
     # Audrey "Someone like you to get me..."
-    Audrey ""
+    Audrey "Кому-то вроде тебя трахнуть меня..."
 
 # game/logic/events/audrey.rpy:2913
 translate russian Audrey_9_label_L_77_f8a399ff:
 
     # Audrey "Think of it as winning the lottery."
-    Audrey ""
+    Audrey "Думай об этом как о выигрыше в лотерее."
 
 # game/logic/events/audrey.rpy:2914
 translate russian Audrey_9_label_L_77_4170760f:
 
     # Audrey "Like..."
-    Audrey ""
+    Audrey "Ну что..."
 
 # game/logic/events/audrey.rpy:2915
 translate russian Audrey_9_label_L_77_db9344c9:
 
     # Audrey "Do you like your prize?"
-    Audrey ""
+    Audrey "Тебе нравится твой приз?"
 
 # game/logic/events/audrey.rpy:2917
 translate russian Audrey_9_label_L_77_1bd915fd:
 
     # Audrey "Although I can see that you do."
-    Audrey ""
+    Audrey "Хотя я и так вижу, что да."
 
 # game/logic/events/audrey.rpy:2919
 translate russian Audrey_9_label_L_77_a734a048_1:
 
     # ch_Name "Oh, Audrey..."
-    ch_Name ""
+    ch_Name "О, Одри..."
 
 # game/logic/events/audrey.rpy:2920
 translate russian Audrey_9_label_L_77_b64e3a96:
 
     # ch_Name "I can't take my eyes off you. Of course, you do..."
-    ch_Name ""
+    ch_Name "Я не могу отвести от тебя взгляд. Конечно, мне нравится..."
 
 # game/logic/events/audrey.rpy:2922
 translate russian Audrey_9_label_L_77_f8b1589a:
 
     # ch_Name "I don't know why, but I'm getting pretty tired."
-    ch_Name ""
+    ch_Name "Но, не знаю почему, я чувствую сильную усталость."
 
 # game/logic/events/audrey.rpy:2923
 translate russian Audrey_9_label_L_77_4e54cd43:
 
     # ch_Name "And I feel like the room's a little blurry in front of my eyes."
-    ch_Name ""
+    ch_Name "И перед глазами вся комната как будто начинает плыть."
 
 # game/logic/events/audrey.rpy:2924
 translate russian Audrey_9_label_L_77_2858ef0c:
 
     # Audrey "Relax, it'll pass."
-    Audrey ""
+    Audrey "Расслабься, это пройдёт."
 
 # game/logic/events/audrey.rpy:2926
 translate russian Audrey_9_label_L_77_ecc5ccf0:
 
     # Audrey "It's just a little stuffy in here."
-    Audrey ""
+    Audrey "Здесь просто немного душно."
 
 # game/logic/events/audrey.rpy:2927
 translate russian Audrey_9_label_L_77_0f7c4027:
 
     # Audrey "Hurry up and take your shirt off so you feel better."
-    Audrey ""
+    Audrey "Снимай скорее футболку, тебе станет полегче."
 
 # game/logic/events/audrey.rpy:2928
 translate russian Audrey_9_label_L_77_602b4416:
 
     # Audrey "And let's get down to business!"
-    Audrey ""
+    Audrey "И давай уже начнём!"
 
 # game/logic/events/audrey.rpy:2934
 translate russian Audrey_9_label_L_77_3e1d98bf_1:
 
     # ch_Name "I want it as much as you do."
-    ch_Name ""
+    ch_Name "Я хочу этого так же, как и ты."
 
 # game/logic/events/audrey.rpy:2935
 translate russian Audrey_9_label_L_77_d6cfa68b_1:
 
     # Audrey "I'm not wrong about you, [Name]."
-    Audrey ""
+    Audrey "Я в тебе не сомневалась, [Name]."
 
 # game/logic/events/audrey.rpy:2936
 translate russian Audrey_9_label_L_77_2503f4fe_1:
 
     # ch_Name "{i}(Oh!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Оу!){/i}"
 
 # game/logic/events/audrey.rpy:2938
 translate russian Audrey_9_label_L_77_02e61f7a:
 
     # ch_Name "{i}(What a cute little intimate haircut...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Какая милая интимная стрижка...){/i}"
 
 # game/logic/events/audrey.rpy:2939
 translate russian Audrey_9_label_L_77_1ab6616d_1:
 
     # Audrey "Do you realize how lucky you are?"
-    Audrey ""
+    Audrey "Ты хоть понимаешь, насколько тебе повезло?"
 
 # game/logic/events/audrey.rpy:2941
 translate russian Audrey_9_label_L_77_185539e3_1:
 
     # ch_Name "How?"
-    ch_Name ""
+    ch_Name "Насколько?"
 
 # game/logic/events/audrey.rpy:2942
 translate russian Audrey_9_label_L_77_19ffe066_1:
 
     # Audrey "Someone like you to get me..."
-    Audrey ""
+    Audrey "Кому-то вроде тебя трахнуть меня..."
 
 # game/logic/events/audrey.rpy:2944
 translate russian Audrey_9_label_L_77_f8a399ff_1:
 
     # Audrey "Think of it as winning the lottery."
-    Audrey ""
+    Audrey "Думай об этом как о выигрыше в лотерее."
 
 # game/logic/events/audrey.rpy:2945
 translate russian Audrey_9_label_L_77_4170760f_1:
 
     # Audrey "Like..."
-    Audrey ""
+    Audrey "Ну что..."
 
 # game/logic/events/audrey.rpy:2946
 translate russian Audrey_9_label_L_77_db9344c9_1:
 
     # Audrey "Do you like your prize?"
-    Audrey ""
+    Audrey "Тебе нравится твой приз?"
 
 # game/logic/events/audrey.rpy:2948
 translate russian Audrey_9_label_L_77_9f3e6d4a:
 
     # Audrey "Although I can see that I do."
-    Audrey ""
+    Audrey "Хотя я и так вижу, что да."
 
 # game/logic/events/audrey.rpy:2950
 translate russian Audrey_9_label_L_77_a734a048_2:
 
     # ch_Name "Oh, Audrey..."
-    ch_Name ""
+    ch_Name "О, Одри..."
 
 # game/logic/events/audrey.rpy:2951
 translate russian Audrey_9_label_L_77_9802e321:
 
     # ch_Name "I can't take my eyes off you. Of course you do..."
-    ch_Name ""
+    ch_Name "Я не могу отвести от тебя взгляд. Конечно, мне нравится..."
 
 # game/logic/events/audrey.rpy:2953
 translate russian Audrey_9_label_L_77_f8b1589a_1:
 
     # ch_Name "I don't know why, but I'm getting pretty tired."
-    ch_Name ""
+    ch_Name "Но, не знаю почему, я чувствую сильную усталость."
 
 # game/logic/events/audrey.rpy:2954
 translate russian Audrey_9_label_L_77_4e54cd43_1:
 
     # ch_Name "And I feel like the room's a little blurry in front of my eyes."
-    ch_Name ""
+    ch_Name "И перед глазами вся комната как будто начинает плыть."
 
 # game/logic/events/audrey.rpy:2955
 translate russian Audrey_9_label_L_77_2858ef0c_1:
 
     # Audrey "Relax, it'll pass."
-    Audrey ""
+    Audrey "Расслабься, это пройдёт."
 
 # game/logic/events/audrey.rpy:2957
 translate russian Audrey_9_label_L_77_ecc5ccf0_1:
 
     # Audrey "It's just a little stuffy in here."
-    Audrey ""
+    Audrey "Здесь просто немного душно."
 
 # game/logic/events/audrey.rpy:2958
 translate russian Audrey_9_label_L_77_0f7c4027_1:
 
     # Audrey "Hurry up and take your shirt off so you feel better."
-    Audrey ""
+    Audrey "Снимай скорее футболку, тебе станет полегче."
 
 # game/logic/events/audrey.rpy:2959
 translate russian Audrey_9_label_L_77_602b4416_1:
 
     # Audrey "And let's get down to business!"
-    Audrey ""
+    Audrey "И давай уже начнём!"
 
 # game/logic/events/audrey.rpy:2974
 translate russian Audrey_9_label_L_184_7db41b82:
 
     # Audrey "Come here, handsome."
-    Audrey ""
+    Audrey "Иди ко мне, симпатяга."
 
 # game/logic/events/audrey.rpy:2975
 translate russian Audrey_9_label_L_184_859b023a:
 
     # Audrey "I miss the warmth of your arms..."
-    Audrey ""
+    Audrey "Мне не хватает тепла твоих рук..."
 
 # game/logic/events/audrey.rpy:2976
 translate russian Audrey_9_label_L_184_531bb326:
 
     # ch_Name "{i}(What a strange thing she's doing...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Как странно она себя ведёт...){/i}"
 
 # game/logic/events/audrey.rpy:2978
 translate russian Audrey_9_label_L_184_4a68296c:
 
     # ch_Name "{i}(It's like she's instinctively trying her best to lure me into bed.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Как будто она инстинктивно делает всё, что может, чтобы затащить меня в постель.){/i}"
 
 # game/logic/events/audrey.rpy:2979
 translate russian Audrey_9_label_L_184_f5666163:
 
     # ch_Name "{i}(Am I really that attractive?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я что, правда настолько привлекателен?){/i}"
 
 # game/logic/events/audrey.rpy:2980
 translate russian Audrey_9_label_L_184_3d7715eb:
 
     # ch_Name "{i}(The last time I had this kind of excitement was when I played sports.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Последний раз, когда я вызывал у окружающих волнение подобного рода, я ещё занимался спортом.){/i}"
 
 # game/logic/events/audrey.rpy:2982
 translate russian Audrey_9_label_L_184_5a8290a3:
 
     # Audrey "What are you standing there for?"
-    Audrey ""
+    Audrey "Чего стоишь?"
 
 # game/logic/events/audrey.rpy:2983
 translate russian Audrey_9_label_L_184_483401e0:
 
     # Audrey "You do realize this is the happiest moment of your life, right?"
-    Audrey ""
+    Audrey "Ты ведь понимаешь, что это самый счастливый момент в твоей жизни?"
 
 # game/logic/events/audrey.rpy:2984
 translate russian Audrey_9_label_L_184_027b1c56:
 
     # ch_Name "..."
-    ch_Name ""
+    ch_Name "..."
 
 # game/logic/events/audrey.rpy:2986
 translate russian Audrey_9_label_L_184_4a41b0d1:
 
     # ch_Name "You're right."
-    ch_Name ""
+    ch_Name "Ты права."
 
 # game/logic/events/audrey.rpy:2987
 translate russian Audrey_9_label_L_184_44747143:
 
     # ch_Name "All this beating around the bush is gonna make my dick fall off."
-    ch_Name ""
+    ch_Name "У меня член отвалится, пока мы ходим вокруг да около."
 
 # game/logic/events/audrey.rpy:2988
 translate russian Audrey_9_label_L_184_c90a8ee7:
 
     # ch_Name "It's time to get down to business."
-    ch_Name ""
+    ch_Name "Пора заняться делом."
 
 # game/logic/events/audrey.rpy:2990
 translate russian Audrey_9_label_L_184_fccecc40:
 
     # Audrey "Yeah, I didn't think you'd be that easy to get."
-    Audrey ""
+    Audrey "Я и не подозревала, что с тобой будет так легко."
 
 # game/logic/events/audrey.rpy:2991
 translate russian Audrey_9_label_L_184_3f08abbc:
 
     # Audrey "Come here!"
-    Audrey ""
+    Audrey "Иди сюда!"
 
 # game/logic/events/audrey.rpy:2992
 translate russian Audrey_9_label_L_184_43819a01:
 
     # Audrey "I don't want to see such a beautiful boner go to waste."
-    Audrey ""
+    Audrey "Не хочу, чтобы такой прекрасный стояк пропадал зря."
 
 # game/logic/events/audrey.rpy:2994
 translate russian Audrey_9_label_L_184_aad58497:
