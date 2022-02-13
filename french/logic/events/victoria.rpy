@@ -154,7 +154,7 @@ translate french Samantha_4_label_ad2dce51:
 translate french Samantha_4_label_8f5ebfee:
 
     # Victoria "However you rephrase \"please\" it doesn't change the situation."
-    Victoria "Ce n'est pas en reformulant\"s’il vous plaît\"que cela changera la situation."
+    Victoria "Ce n'est pas en reformulant\"s’il vous plaît\" que cela changera la situation."
 
 # game/logic/events/victoria.rpy:267
 translate french Samantha_4_label_6850e64c:
@@ -286,133 +286,133 @@ translate french Samantha_4_label_c62c428f:
 translate french Samantha_4_label_4084cc2c:
 
     # ch_Name "{i}(This is a failure...){/i}"
-    ch_Name ""
+    ch_Name "{i}(J'ai échouer...){/i}"
 
 # game/logic/events/victoria.rpy:295
 translate french Samantha_4_label_ff4753d5:
 
     # ch_Name "{i}(We'll have to bring Samantha in.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Je vais devoir faire venir Samantha.){/i}"
 
 # game/logic/events/victoria.rpy:296
 translate french Samantha_4_label_5201247d:
 
     # ch_Name "{i}(Or find a compress somewhere else.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ou trouvez le remède autre part.)"
 
 # game/logic/events/victoria.rpy:298
 translate french Samantha_4_label_68fe6155:
 
     # ch_Name "{i}(At least it looks good.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Au moins, ça a l’air bon.){/i}"
 
 # game/logic/events/victoria.rpy:299
 translate french Samantha_4_label_40037b21:
 
     # ch_Name "{i}(I didn't waste my time.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Je n'ai pas perdu moins temps.){/i}"
 
 # game/logic/events/victoria.rpy:301
 translate french Samantha_4_label_f8d9eb37:
 
     # Victoria "But wisdom comes with experience."
-    Victoria ""
+    Victoria "Mais la sagesse vient avec l'expérience."
 
 # game/logic/events/victoria.rpy:302
 translate french Samantha_4_label_07a0854d:
 
     # ch_Name "I don't understand. You're giving me the compress?"
-    ch_Name ""
+    ch_Name "Je ne comprends pas. Vous me donnez le cataplasme?"
 
 # game/logic/events/victoria.rpy:303
 translate french Samantha_4_label_e44ffe31:
 
     # Victoria "And experience comes with mistakes. Go help your friend."
-    Victoria ""
+    Victoria "Et l’expérience vient avec les erreurs. Allez aider votre ami."
 
 # game/logic/events/victoria.rpy:304
 translate french Samantha_4_label_84d3dc7e:
 
     # ch_Name "Thank you!"
-    ch_Name ""
+    ch_Name "Merci beacoup!"
 
 # game/logic/events/victoria.rpy:306
 translate french Samantha_4_label_2303c6a6:
 
     # Victoria "But promise me that if you don't find the cause of his injury soon..."
-    Victoria ""
+    Victoria "Mais promets-moi que si tu ne trouves pas la cause de sa blessure bientôt..."
 
 # game/logic/events/victoria.rpy:307
 translate french Samantha_4_label_3a21ab60:
 
     # Victoria "You will come to me."
-    Victoria ""
+    Victoria "Tu viendras me trouver."
 
 # game/logic/events/victoria.rpy:308
 translate french Samantha_4_label_1a8b70fd:
 
     # ch_Name "You have my word, Victoria. Thank you."
-    ch_Name ""
+    ch_Name "Tu as ma parole, Victoria. Merci."
 
 # game/logic/events/victoria.rpy:309
 translate french Samantha_4_label_cb6c84f8:
 
     # Victoria "I believe you."
-    Victoria ""
+    Victoria "J'ai confiance en toi."
 
 # game/logic/events/victoria.rpy:310
 translate french Samantha_4_label_33f454e0:
 
     # Victoria "Good luck to you."
-    Victoria ""
+    Victoria "Bonne chance."
 
 # game/logic/events/victoria.rpy:323
 translate french Victoria_1_label_7c89fd18:
 
     # ch_Name "{i}(I wonder what's going to happen in class today.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Je me demande bien ce qui va se passer en classe aujourd’hui.){/i}"
 
 # game/logic/events/victoria.rpy:325
 translate french Victoria_1_label_aedc1a63:
 
     # Victoria "Students, the class is about to begin."
-    Victoria ""
+    Victoria "Asseyez-vous, la classe va bientôt commencer."
 
 # game/logic/events/victoria.rpy:326
 translate french Victoria_1_label_9dea6d01:
 
     # Victoria "I welcome you all to a class on the fundamentals of martial magic!"
-    Victoria ""
+    Victoria "Bienvenue au cours des fondamentaux de l'art de la magie!"
 
 # game/logic/events/victoria.rpy:327
 translate french Victoria_1_label_f88cc8e7:
 
     # Victoria "I will teach you to understand what magic is."
-    Victoria ""
+    Victoria "Je vais vous apprendre à comprendre ce qu’est la magie."
 
 # game/logic/events/victoria.rpy:328
 translate french Victoria_1_label_fd2551a2:
 
     # Victoria "How to find the sources of magical power."
-    Victoria ""
+    Victoria "Comment trouver l'origine du pouvoir magique."
 
 # game/logic/events/victoria.rpy:329
 translate french Victoria_1_label_a9847b1e:
 
     # Victoria "And to use your talents..."
-    Victoria ""
+    Victoria "Et d’utiliser vos talents..."
 
 # game/logic/events/victoria.rpy:331
 translate french Victoria_1_label_edcee537:
 
     # Victoria "To bend that power to your will!"
-    Victoria ""
+    Victoria "De plier ce pouvoir à votre volonté!"
 
 # game/logic/events/victoria.rpy:332
 translate french Victoria_1_label_70cc961b:
 
     # Joshi "Did you see that?"
-    Joshi ""
+    Joshi "Vous avez vu ça ?"
 
 # game/logic/events/victoria.rpy:333
 translate french Victoria_1_label_5fb1072e:
@@ -424,589 +424,589 @@ translate french Victoria_1_label_5fb1072e:
 translate french Victoria_1_label_664f9369:
 
     # Victoria "Magic is as much a part of the world around us as you or me."
-    Victoria ""
+    Victoria "La magie fait autant partie du monde qui nous entoure que vous ou moi."
 
 # game/logic/events/victoria.rpy:336
 translate french Victoria_1_label_09c165ee:
 
     # Victoria "But not everyone is given the talent to feel and touch it."
-    Victoria ""
+    Victoria "Mais tout le monde n’a pas les capacités de le sentir et de le toucher."
 
 # game/logic/events/victoria.rpy:337
 translate french Victoria_1_label_daba6b7f:
 
     # Victoria "To learn new spells and develop your talents..."
-    Victoria ""
+    Victoria "Pour apprendre de nouveaux sorts et développer vos talents..."
 
 # game/logic/events/victoria.rpy:338
 translate french Victoria_1_label_02caa86d:
 
     # Victoria "Wizards must be in synergy with {b}sources of power{/b}."
-    Victoria ""
+    Victoria "Les sorciers doivent être en synergie avec {b}la source du pouvoir{/b}."
 
 # game/logic/events/victoria.rpy:339
 translate french Victoria_1_label_524e59b8:
 
     # Victoria "To understand and master their essence!"
-    Victoria ""
+    Victoria "Pour comprendre et maîtriser leur essence!"
 
 # game/logic/events/victoria.rpy:341
 translate french Victoria_1_label_caf4de98:
 
     # Gabriella "Excuse me!"
-    Gabriella ""
+    Gabriella "Excusez-moi!"
 
 # game/logic/events/victoria.rpy:342
 translate french Victoria_1_label_be2a0a70:
 
     # Gabriella "What do you mean, master it?"
-    Gabriella ""
+    Gabriella "Comment ça, le maîtriser?"
 
 # game/logic/events/victoria.rpy:343
 translate french Victoria_1_label_e84f0c40:
 
     # Gabriella "There are no details in the textbook."
-    Gabriella ""
+    Gabriella "Il n’y a pas de détails dans le manuel."
 
 # game/logic/events/victoria.rpy:345
 translate french Victoria_1_label_2b864672:
 
     # Victoria "Good question, Gabriella!"
-    Victoria ""
+    Victoria "Bonne question, Gabriella!"
 
 # game/logic/events/victoria.rpy:346
 translate french Victoria_1_label_ea62bd17:
 
     # Victoria "The textbook doesn't describe how the source of power is mastered."
-    Victoria ""
+    Victoria "Le manuel ne décrit pas comment la source de pouvoir peut être maîtrisée."
 
 # game/logic/events/victoria.rpy:347
 translate french Victoria_1_label_dc96955e:
 
     # Victoria "This is because it is different for every magician."
-    Victoria ""
+    Victoria "C’est parce que c’est différent pour chaque magicien."
 
 # game/logic/events/victoria.rpy:348
 translate french Victoria_1_label_d539b14e:
 
     # Victoria "There are many techniques for categorizing wizards by sources of power."
-    Victoria ""
+    Victoria "Il existe de nombreuses techniques pour catégoriser les sorciers par leurs sources de pouvoir."
 
 # game/logic/events/victoria.rpy:349
 translate french Victoria_1_label_313c17b2:
 
     # Victoria "But none of this is officially recognized by the Ministry of Magic."
-    Victoria ""
+    Victoria "Mais officiellement aucune n'est reconnue par le Ministère de la magie."
 
 # game/logic/events/victoria.rpy:350
 translate french Victoria_1_label_4b8b131d:
 
     # ch_Name "So not even magic can overcome bureaucracy?"
-    ch_Name ""
+    ch_Name "Donc même la magie ne peut vaincre la bureaucratie?"
 
 # game/logic/events/victoria.rpy:351
 translate french Victoria_1_label_dff67ee6:
 
     # Joshi "Not bad!"
-    Joshi ""
+    Joshi "Pas mal!"
 
 # game/logic/events/victoria.rpy:353
 translate french Victoria_1_label_d43cc383:
 
     # Victoria "Settle down, Mr. [Surname] and Becks."
-    Victoria ""
+    Victoria "Calmez-vous, M. [Surname] et Becks."
 
 # game/logic/events/victoria.rpy:354
 translate french Victoria_1_label_bad8f5c6:
 
     # Victoria "This will be your first practical assignment."
-    Victoria ""
+    Victoria "Ce sera votre première leçon pratique."
 
 # game/logic/events/victoria.rpy:355
 translate french Victoria_1_label_0f13c233:
 
     # Victoria "Find your source of power."
-    Victoria ""
+    Victoria "Trouvez votre source d’énergie."
 
 # game/logic/events/victoria.rpy:356
 translate french Victoria_1_label_dfc16958:
 
     # Gabriella "But how? Where do you usually start your search?"
-    Gabriella ""
+    Gabriella "Mais comment? Où commencer ses recherches?"
 
 # game/logic/events/victoria.rpy:358
 translate french Victoria_1_label_798ff577:
 
     # Victoria "There are sources of power all around you!"
-    Victoria ""
+    Victoria "Il y a des sources de pouvoir tout autour de vous!"
 
 # game/logic/events/victoria.rpy:359
 translate french Victoria_1_label_8206388e:
 
     # Victoria "And experienced wizards are capable of mastering any element and any power."
-    Victoria ""
+    Victoria "Et les sorciers expérimentés sont capables de maîtriser n’importe quel élément et n’importe quel pouvoir."
 
 # game/logic/events/victoria.rpy:360
 translate french Victoria_1_label_243da000:
 
     # Victoria "As for the newbies..."
-    Victoria ""
+    Victoria "Quant au débutant..."
 
 # game/logic/events/victoria.rpy:362
 translate french Victoria_1_label_abb0545b:
 
     # Victoria "More often than not, a magician's talents lie in one thing."
-    Victoria ""
+    Victoria "Le plus souvent, le talent d’un magicien réside dans une chose."
 
 # game/logic/events/victoria.rpy:363
 translate french Victoria_1_label_ff4a5ef8:
 
     # Victoria "And the easiest place to start is with this thing."
-    Victoria ""
+    Victoria "Et le plus simple est de commencer par la."
 
 # game/logic/events/victoria.rpy:364
 translate french Victoria_1_label_9f19b8cd:
 
     # Victoria "Your source of power is closely connected with your personality."
-    Victoria ""
+    Victoria "Votre source de pouvoir est étroitement liée à votre personnalité."
 
 # game/logic/events/victoria.rpy:365
 translate french Victoria_1_label_84a39562:
 
     # Victoria "Look inside yourself, remember what you were always close to."
-    Victoria ""
+    Victoria "Regardez en vous, souvenez-vous de ce dont vous étiez toujours le plus proche."
 
 # game/logic/events/victoria.rpy:366
 translate french Victoria_1_label_e679b14f:
 
     # Victoria "Often it might be some element of nature."
-    Victoria ""
+    Victoria "Souvent, il peut s’agir d’un élément de la nature."
 
 # game/logic/events/victoria.rpy:368
 translate french Victoria_1_label_d84005d5:
 
     # Victoria "For example, I started with fire."
-    Victoria ""
+    Victoria "Par exemple, j’ai débuté par le feu."
 
 # game/logic/events/victoria.rpy:369
 translate french Victoria_1_label_56bde40b:
 
     # Victoria "I remember from my childhood the bright sparks of the fireplace in my parents' house."
-    Victoria ""
+    Victoria "Je me souviens dans mon enfance des étincelles de la cheminée de la maison de mes parents."
 
 # game/logic/events/victoria.rpy:370
 translate french Victoria_1_label_1684933a:
 
     # Victoria "The warmth of campfires when we went camping."
-    Victoria ""
+    Victoria "La chaleur du feux de camp quand on allait camper."
 
 # game/logic/events/victoria.rpy:372
 translate french Victoria_1_label_5b6221fd:
 
     # Victoria "How I laughed when my uncle's dragon spewed flames on command!"
-    Victoria ""
+    Victoria "Comment je riais quand le dragon de mon oncle crachait des flammes sur commande!"
 
 # game/logic/events/victoria.rpy:373
 translate french Victoria_1_label_94ed82d5:
 
     # Victoria "And at your age I found my element in remembering that."
-    Victoria ""
+    Victoria "Et à votre âge, j’ai trouvé mon élément en me souvenant de ça."
 
 # game/logic/events/victoria.rpy:374
 translate french Victoria_1_label_a0fe4736:
 
     # Gabriella "What a beautiful story..."
-    Gabriella ""
+    Gabriella "Quelle belle histoire..."
 
 # game/logic/events/victoria.rpy:375
 translate french Victoria_1_label_d963d3a1:
 
     # ch_Name "Perhaps you can give me a hint?"
-    ch_Name ""
+    ch_Name "Peut-être pouvez-vous me donner un indice ?"
 
 # game/logic/events/victoria.rpy:376
 translate french Victoria_1_label_bcc7c10f:
 
     # ch_Name "I want to discover my source soon!"
-    ch_Name ""
+    ch_Name "Je veux découvrir ma source rapidement!"
 
 # game/logic/events/victoria.rpy:378
 translate french Victoria_1_label_84e820bb:
 
     # Victoria "Don't rush yourself, Mr. [Surname]."
-    Victoria ""
+    Victoria "Ne vous précipitez pas, M. [Surname]."
 
 # game/logic/events/victoria.rpy:379
 translate french Victoria_1_label_43cb6d9a:
 
     # Victoria "And guys, always remember."
-    Victoria ""
+    Victoria "Et rappelez-vous toujours."
 
 # game/logic/events/victoria.rpy:380
 translate french Victoria_1_label_be1e9f5e:
 
     # Victoria "There's nothing more dangerous than magic that's out of control."
-    Victoria ""
+    Victoria "Il n’y a rien de plus dangereux qu'une magie hors de contrôle."
 
 # game/logic/events/victoria.rpy:381
 translate french Victoria_1_label_16cc4103:
 
     # Victoria "And more often than not, it's harmful to its owner."
-    Victoria ""
+    Victoria "Et surtout le plus souvent, il est nuisible à son propriétaire."
 
 # game/logic/events/victoria.rpy:383
 translate french Victoria_1_label_f57b17c7:
 
     # Victoria "So don't be in any hurry when choosing a source of power."
-    Victoria ""
+    Victoria "Ne soyez donc pas pressé de choisir une source de pouvoir."
 
 # game/logic/events/victoria.rpy:384
 translate french Victoria_1_label_2abb718e:
 
     # Victoria "Find it in yourself, and only then look around you."
-    Victoria ""
+    Victoria "Trouvez-la en vous, et ensuite regarder autour de vous."
 
 # game/logic/events/victoria.rpy:385
 translate french Victoria_1_label_aeb9daeb:
 
     # ch_Name "{i}(Either it's been too long since I've been to a lecture.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Soit ça fait trop longtemps que je n’ai pas assisté à un cours.){/i}"
 
 # game/logic/events/victoria.rpy:386
 translate french Victoria_1_label_3f95c637:
 
     # ch_Name "{i}(Or Victoria is really very wise...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ou Victoria est vraiment très sage...){/i}"
 
 # game/logic/events/victoria.rpy:388
 translate french Victoria_1_label_187f6935:
 
     # Victoria "I think a few days is enough for you to find your source."
-    Victoria ""
+    Victoria "Je pense que quelques jours suffisent pour que vous puissiez trouver votre source."
 
 # game/logic/events/victoria.rpy:389
 translate french Victoria_1_label_53580379:
 
     # Victoria "That's enough for today, I don't want you to get distracted from this task."
-    Victoria ""
+    Victoria "C’est assez pour aujourd’hui, je ne veux pas que vous soyez distrait pour cette tâche."
 
 # game/logic/events/victoria.rpy:390
 translate french Victoria_1_label_7259f07f:
 
     # Victoria "I wish you all the best of luck!"
-    Victoria ""
+    Victoria "Je vous souhaite à tous bonne chance!"
 
 # game/logic/events/victoria.rpy:393
 translate french Victoria_1_label_abb0fe7a:
 
     # Victoria "Don't forget about potion brewing.{w} Sabrina is waiting for all of you in her class."
-    Victoria ""
+    Victoria "N’oubliez pas le cours de confection de potion.{w} Sabrina vous attend tous dans sa classe."
 
 # game/logic/events/victoria.rpy:394
 translate french Victoria_1_label_bb39b7c6:
 
     # Victoria "It's situated just across the garden."
-    Victoria ""
+    Victoria "Il est situé juste en face du jardin."
 
 # game/logic/events/victoria.rpy:397
 translate french Victoria_1_label_ff56f3ff:
 
     # ch_Name "Easiest house points in my life."
-    ch_Name ""
+    ch_Name "Les points de maison les plus faciles de ma vie."
 
 # game/logic/events/victoria.rpy:398
 translate french Victoria_1_label_8fa894c8:
 
     # ch_Name "I wish all lessons in my life were at least that interesting."
-    ch_Name ""
+    ch_Name "J’aimerais que toutes les leçons de ma vie soient aussi intéressantes."
 
 # game/logic/events/victoria.rpy:399
 translate french Victoria_1_label_c18e55e9:
 
     # Lily "Ha-ha-ha. True. Believe me, homeschooling by my parents wasn't great too."
-    Lily ""
+    Lily "Ha-Ha-Ha. Vrai. Crois-moi, l’école à domicile par mes parents n’était pas super non plus."
 
 # game/logic/events/victoria.rpy:400
 translate french Victoria_1_label_4d0f9e0e:
 
     # Lily "Let's see how potion brewing will go."
-    Lily ""
+    Lily "Voyons comment le cours de potion va se dérouler."
 
 # game/logic/events/victoria.rpy:401
 translate french Victoria_1_label_778d4b12:
 
     # ch_Name "Do we get points for attention that?"
-    ch_Name ""
+    ch_Name "Est-ce qu'on obtient des points de participation?"
 
 # game/logic/events/victoria.rpy:402
 translate french Victoria_1_label_84a7fafa:
 
     # Lily "Sure."
-    Lily ""
+    Lily "Bien sur."
 
 # game/logic/events/victoria.rpy:403
 translate french Victoria_1_label_a8eb4c62:
 
     # ch_Name "Than count me in."
-    ch_Name ""
+    ch_Name "Compte sur moi, j'en suis."
 
 # game/logic/events/victoria.rpy:407
 translate french Victoria_1_label_211143b8:
 
     # ch_Name "{i}(Wow, this place looks nothing like Victoria's class.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wow, cet endroit ne ressemble en rien à la classe de Victoria.){/i}"
 
 # game/logic/events/victoria.rpy:408
 translate french Victoria_1_label_1228f6f4:
 
     # ch_Name "{i}(Far more ancient and gloomy. As if It wasn't rebuilt since medieval times.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Beaucoup plus lugubre et ancien. Comme s'il n’avait pas été reconstruit depuis l’époque médiévale.){/i}"
 
 # game/logic/events/victoria.rpy:409
 translate french Victoria_1_label_95bb8aa3:
 
     # ch_Name "{i}(I wonder why...){/i}"
-    ch_Name ""
+    ch_Name "{i}(je me demande pourquoi...){/i}"
 
 # game/logic/events/victoria.rpy:422
 translate french Victoria_2_label_5652ee9c:
 
     # Victoria "Today's lesson is about the nature of magic."
-    Victoria ""
+    Victoria "La leçon d’aujourd’hui porte sur la nature de la magie."
 
 # game/logic/events/victoria.rpy:423
 translate french Victoria_2_label_3a75bba8:
 
     # Gabriella "What about sources of power?"
-    Gabriella ""
+    Gabriella "Qu’en est-il des sources de pouvoir?"
 
 # game/logic/events/victoria.rpy:424
 translate french Victoria_2_label_c1afd5bc:
 
     # ch_Name "{i}(Has anyone found their source of power yet?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Est-ce-que quelqu’un a déjà trouvé sa source de pouvoir?){/i}"
 
 # game/logic/events/victoria.rpy:425
 translate french Victoria_2_label_5aeb81dc:
 
     # ch_Name "{i}(I'm not the only one who's stumped...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Je ne suis pas le seul à être séché...){/i}"
 
 # game/logic/events/victoria.rpy:427
 translate french Victoria_2_label_f2ef1456:
 
     # Victoria "Unfortunately not all students have already found their source of power."
-    Victoria ""
+    Victoria "Malheureusement, tous les étudiants n’ont pas encore trouvé leur source de pouvoir."
 
 # game/logic/events/victoria.rpy:428
 translate french Victoria_2_label_f775cffd:
 
     # Victoria "But that's okay."
-    Victoria ""
+    Victoria "Mais ce n'est pas grave."
 
 # game/logic/events/victoria.rpy:429
 translate french Victoria_2_label_b563b4b5:
 
     # Victoria "Like I said, don't rush yourself. It's dangerous!"
-    Victoria ""
+    Victoria "Comme je l’ai dit, ne vous précipitez pas. C’est dangereux!"
 
 # game/logic/events/victoria.rpy:431
 translate french Victoria_2_label_28c13f23:
 
     # Victoria "Open the textbook Fundamentals of Magic, page 16."
-    Victoria ""
+    Victoria "Ouvrez le manuel "Principes fondamentaux de la magie", page 16."
 
 # game/logic/events/victoria.rpy:432
 translate french Victoria_2_label_3d8c9398:
 
     # Victoria "Lecture topic: The nature of magic."
-    Victoria ""
+    Victoria "Thème de la leçon : La nature de la magie."
 
 # game/logic/events/victoria.rpy:433
 translate french Victoria_2_label_dc8d0f6b:
 
     # Victoria "You already know that magic is part of the nature around us."
-    Victoria ""
+    Victoria "Vous savez déjà que la magie fait partie de la nature qui nous entoure."
 
 # game/logic/events/victoria.rpy:435
 translate french Victoria_2_label_63990746:
 
     # Victoria "But magic has one peculiarity!"
-    Victoria ""
+    Victoria "Mais la magie a une particularité!"
 
 # game/logic/events/victoria.rpy:436
 translate french Victoria_2_label_8e03841b:
 
     # Victoria "It is the only matter that permeates all worlds, not just ours."
-    Victoria ""
+    Victoria "C’est la seule matière qui imprègne tous les mondes, pas seulement le nôtre."
 
 # game/logic/events/victoria.rpy:437
 translate french Victoria_2_label_3f4833f0:
 
     # Victoria "It is not subject to the specific laws of one world's physics and chemistry."
-    Victoria ""
+    Victoria "Elle n’est pas soumise aux lois spécifiques de la physique et de la chimie d’un monde."
 
 # game/logic/events/victoria.rpy:438
 translate french Victoria_2_label_0ca657a8:
 
     # Victoria "It makes it possible to change the natural course of events."
-    Victoria ""
+    Victoria "Il permet de changer le cours naturel des événements."
 
 # game/logic/events/victoria.rpy:439
 translate french Victoria_2_label_1e4b82ac:
 
     # ch_Name "Sounds too good to be true."
-    ch_Name ""
+    ch_Name "Ça semble trop beau pour être vrai."
 
 # game/logic/events/victoria.rpy:441
 translate french Victoria_2_label_4970c3df:
 
     # Victoria "You're right! You should look for a catch in everything."
-    Victoria ""
+    Victoria "Vous avez raison! Vous devriez chercher un piège dans toute chose."
 
 # game/logic/events/victoria.rpy:442
 translate french Victoria_2_label_47eca616:
 
     # Victoria "Magic is a very fluid, changeable and capricious matter."
-    Victoria ""
+    Victoria "La magie est une matière très fluide, changeante et capricieuse."
 
 # game/logic/events/victoria.rpy:443
 translate french Victoria_2_label_3b64176a:
 
     # Victoria "To do real spells, not petty tricks..."
-    Victoria ""
+    Victoria "Pour faire de vrais sorts, non des petits tours"
 
 # game/logic/events/victoria.rpy:444
 translate french Victoria_2_label_1386c269:
 
     # Victoria "You have to have the utmost concentration and dexterity."
-    Victoria ""
+    Victoria "Il faut avoir la plus grande concentration et dextérité."
 
 # game/logic/events/victoria.rpy:445
 translate french Victoria_2_label_7776de19:
 
     # Victoria "Otherwise your own power can destroy you."
-    Victoria ""
+    Victoria "Sinon votre propre pouvoir peut vous détruire."
 
 # game/logic/events/victoria.rpy:453
 translate french Victoria_2_label_8da27ef0:
 
     # ch_Name "Destroy you?{w} That's horrible!"
-    ch_Name ""
+    ch_Name "Nous détruire?{w} C’est horrible!"
 
 # game/logic/events/victoria.rpy:454
 translate french Victoria_2_label_3416e1fd:
 
     # ch_Name "{i}(Go to Cordale, they said... Being a wizard is fun, they said...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aller à Cordale, avait il dit... Être un sorcier s'est amusant, disaient-ils...){/i}"
 
 # game/logic/events/victoria.rpy:456
 translate french Victoria_2_label_70adf98e:
 
     # Victoria "Mr. [Surname], stop your pussyfooting!"
-    Victoria ""
+    Victoria "M. [Surname], Arrêtez de vous morfondre!"
 
 # game/logic/events/victoria.rpy:457
 translate french Victoria_2_label_79b1a98e:
 
     # Victoria "If you really care that much: attend my classes more often."
-    Victoria ""
+    Victoria "Si ça vous tracasse autant: assister à mes cours plus régulièrement."
 
 # game/logic/events/victoria.rpy:458
 translate french Victoria_2_label_3c3c0912:
 
     # Victoria "The teachers at Cordale are there to guide your learning."
-    Victoria ""
+    Victoria "Les professeurs à Cordale sont là pour vous guider lors de votre apprentissage."
 
 # game/logic/events/victoria.rpy:459
 translate french Victoria_2_label_173e20bb:
 
     # Victoria "In an effective and safe way."
-    Victoria ""
+    Victoria "De la manière la plus sûre et efficace."
 
 # game/logic/events/victoria.rpy:460
 translate french Victoria_2_label_67aff2bf:
 
     # ch_Name "I have plenty of reasons to take your classes as it is, Victoria."
-    ch_Name ""
+    ch_Name "J’ai plein de raisons de suivre vos cours, Victoria."
 
 # game/logic/events/victoria.rpy:462
 translate french Victoria_2_label_d7ad202a:
 
     # ch_Name "{i}(At least two of those good reasons!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Au moins deux sont de bonnes raisons!){/i}"
 
 # game/logic/events/victoria.rpy:471
 translate french Victoria_2_label_32_a1491a56:
 
     # ch_Name "Pfft, what do I care?"
-    ch_Name ""
+    ch_Name "Pfft, qu’est-ce que ça peut me faire?"
 
 # game/logic/events/victoria.rpy:472
 translate french Victoria_2_label_32_989f5c6b:
 
     # ch_Name "No spell can break my will."
-    ch_Name ""
+    ch_Name "Aucun sort ne peut briser ma volonté."
 
 # game/logic/events/victoria.rpy:473
 translate french Victoria_2_label_32_f58dc20e:
 
     # Victoria "Oh, you're very presumptuous, Mr. [Surname]."
-    Victoria ""
+    Victoria "Oh, vous êtes très présomptueux, M. [Surname]."
 
 # game/logic/events/victoria.rpy:474
 translate french Victoria_2_label_32_7e859bf2:
 
     # Victoria "Even the greatest wizards can stumble."
-    Victoria ""
+    Victoria "Même les plus grands sorciers peuvent hésiter."
 
 # game/logic/events/victoria.rpy:475
 translate french Victoria_2_label_32_43d02c02:
 
     # Victoria "And your potential has yet to be discovered..."
-    Victoria ""
+    Victoria "Et votre potentiel reste encore à être découvert..."
 
 # game/logic/events/victoria.rpy:476
 translate french Victoria_2_label_32_2dfb888d:
 
     # ch_Name "I'm quite sure of myself."
-    ch_Name ""
+    ch_Name "Je suis sûr de moi."
 
 # game/logic/events/victoria.rpy:478
 translate french Victoria_2_label_32_45e000a3:
 
     # Victoria "That's commendable."
-    Victoria ""
+    Victoria "C’est louable."
 
 # game/logic/events/victoria.rpy:479
 translate french Victoria_2_label_32_e405bf80:
 
     # Victoria "But confidence is better when it's backed up by knowledge."
-    Victoria ""
+    Victoria "Mais la confiance est meilleure quand elle est soutenue par la connaissance."
 
 # game/logic/events/victoria.rpy:480
 translate french Victoria_2_label_32_76f7b6e0:
 
     # Victoria "Attend classes more often and you really won't be in any danger."
-    Victoria ""
+    Victoria "Assistez au cours plus souvent et vous ne serez vraiment pas en danger."
 
 # game/logic/events/victoria.rpy:481
 translate french Victoria_2_label_32_193d661f:
 
     # Victoria "The teachers at Cordale are here to guide your learning."
-    Victoria ""
+    Victoria "Les professeurs à Cordale sont là pour vous guider lors de votre apprentissage."
 
 # game/logic/events/victoria.rpy:482
 translate french Victoria_2_label_32_173e20bb:
 
     # Victoria "In an effective and safe way."
-    Victoria ""
+    Victoria "De la manière la plus sûre et efficace."
 
 # game/logic/events/victoria.rpy:484
 translate french Victoria_2_label_32_328e860a:
 
     # ch_Name "Absolutely! I always look forward to your classes, Victoria."
-    ch_Name ""
+    ch_Name "Absolument! J’ai toujours hâte d'assister vos cours, Victoria."
 
 # game/logic/events/victoria.rpy:489
 translate french Victoria_2_label_44_1ba1c1d9:
