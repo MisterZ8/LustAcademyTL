@@ -4186,31 +4186,31 @@ translate deutsch vip_sadira_1_label_2_eee686cf:
 translate deutsch vip_sadira_1_label_2_9357ec3d:
 
     # Sadira "Your dick is throbbing so impatiently..."
-    Sadira ""
+    Sadira "Dein Schwanz pocht so ungeduldig..."
 
 # game/logic/events/adele.rpy:1376
 translate deutsch vip_sadira_1_label_2_950dd384:
 
     # Sadira "It's okay, I'll calm it down."
-    Sadira ""
+    Sadira "Schon gut. Ich werde ihn beruhigen."
 
 # game/logic/events/adele.rpy:1377
 translate deutsch vip_sadira_1_label_2_2e831b09:
 
     # ch_Name "Wait..."
-    ch_Name ""
+    ch_Name "Warte..."
 
 # game/logic/events/adele.rpy:1379
 translate deutsch vip_sadira_1_label_2_c899ac97:
 
     # ch_Name "I want to taste your pussy!"
-    ch_Name ""
+    ch_Name "Ich will deine Pussy kosten!"
 
 # game/logic/events/adele.rpy:1380
 translate deutsch vip_sadira_1_label_2_177e15da:
 
     # ch_Name "Let's do it in the sixty-nine position."
-    ch_Name ""
+    ch_Name "Dann lass es uns in der 69 Position tun."
 
 # game/logic/events/adele.rpy:1381
 translate deutsch vip_sadira_1_label_2_6449e0ed:
@@ -4222,127 +4222,127 @@ translate deutsch vip_sadira_1_label_2_6449e0ed:
 translate deutsch vip_sadira_1_label_2_a92069ea:
 
     # Sadira "I love a guy who knows what he wants."
-    Sadira ""
+    Sadira "Ich liebe einen Mann, der weiß, was er will."
 
 # game/logic/events/adele.rpy:1384
 translate deutsch vip_sadira_1_label_2_6cb5af04:
 
     # Sadira "Especially when their desires are the same as mine."
-    Sadira ""
+    Sadira "Vor allem, wenn seine Wünsche die gleichen sind wie meine."
 
 # game/logic/events/adele.rpy:1385
 translate deutsch vip_sadira_1_label_2_c9b984dd:
 
     # Sadira "I'm in. Get down..."
-    Sadira ""
+    Sadira "Ich bin dabei. Runter mit dir..."
 
 # game/logic/events/adele.rpy:1392
 translate deutsch vip_sadira_1_label_2_302b9f0f:
 
     # ch_Name "{i}(Oh, her dark nipples are driving me crazy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, ihre dunklen Nippel machen mich verrückt.){/i}"
 
 # game/logic/events/adele.rpy:1393
 translate deutsch vip_sadira_1_label_2_aeea9498:
 
     # Sadira "Are you ready, my lion?"
-    Sadira ""
+    Sadira "Bist du bereit, mein Löwe?"
 
 # game/logic/events/adele.rpy:1394
 translate deutsch vip_sadira_1_label_2_4795e70d:
 
     # ch_Name "Can't you see? I'm on the edge!"
-    ch_Name ""
+    ch_Name "Siehst du das nicht? Ich halt es kaum mehr aus!"
 
 # game/logic/events/adele.rpy:1396
 translate deutsch vip_sadira_1_label_2_7a84473f:
 
     # ch_Name "{i}(She's probably so playful with all her clients...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sie ist wahrscheinlich mit jedem ihrer Kunden so verspielt...){/i}"
 
 # game/logic/events/adele.rpy:1397
 translate deutsch vip_sadira_1_label_2_b417c859:
 
     # ch_Name "{i}(But I still can't contain my lust when I look at her body.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aber ich kann meine Lust trotzdem nicht zurückhalten, wenn ich ihren Körper sehe.){/i}"
 
 # game/logic/events/adele.rpy:1398
 translate deutsch vip_sadira_1_label_2_208ccced:
 
     # ch_Name "{i}(I can't wait for her chubby lips to wrap around my cock...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich kann es kaum erwarten, dass ich sich ihre prallen Lippen um meinen Schwanz schmiegen...){/i}"
 
 # game/logic/events/adele.rpy:1400
 translate deutsch vip_sadira_1_label_2_08cb1794:
 
     # Sadira "Oh, my lion, I can see how you're waiting for it!"
-    Sadira ""
+    Sadira "Oh, mein Löwe. Ich kann sehen, wie du darauf wartest!"
 
 # game/logic/events/adele.rpy:1401
 translate deutsch vip_sadira_1_label_2_4f5f4c9f:
 
     # Sadira "Your poor cock will burst with tension if I don't start now."
-    Sadira ""
+    Sadira "Dein armer Schwanz wird vor lauter Erregung platzen, wenn ich jetzt nicht anfange."
 
 # game/logic/events/adele.rpy:1402
 translate deutsch vip_sadira_1_label_2_8fa258af:
 
     # Sadira "It's been a long time since I've seen such an imposing device."
-    Sadira ""
+    Sadira "Es ist lange her, dass ich so ein imposantes Gerät gesehen habe."
 
 # game/logic/events/adele.rpy:1404
 translate deutsch vip_sadira_1_label_2_738f282a:
 
     # ch_Name "So what are you waiting for? Come here!"
-    ch_Name ""
+    ch_Name "Worauf wartest du dann also noch? Komm her!"
 
 # game/logic/events/adele.rpy:1405
 translate deutsch vip_sadira_1_label_2_cda7d776:
 
     # Sadira "You're so impatient..."
-    Sadira ""
+    Sadira "Du bist so ungeduldig..."
 
 # game/logic/events/adele.rpy:1406
 translate deutsch vip_sadira_1_label_2_45179a88:
 
     # Sadira "Didn't I tell you that waiting is the best part of the process?"
-    Sadira ""
+    Sadira "Habe ich dir nicht gesagt, dass das Warten der beste Teil des Vorhabens ist?"
 
 # game/logic/events/adele.rpy:1407
 translate deutsch vip_sadira_1_label_2_c7a074a4:
 
     # Sadira "Soon, we'll start..."
-    Sadira ""
+    Sadira "Wir werden bald beginnen..."
 
 # game/logic/events/adele.rpy:1409
 translate deutsch vip_sadira_1_label_2_f63c1e21:
 
     # ch_Name "Maybe so, but I've waited long enough!"
-    ch_Name ""
+    ch_Name "Vielleicht ja, aber ich habe lange genug gewartet!"
 
 # game/logic/events/adele.rpy:1410
 translate deutsch vip_sadira_1_label_2_64119992:
 
     # ch_Name "Your luscious forms are driving me crazy."
-    ch_Name ""
+    ch_Name "Deine knackige Figur macht mich verrückt."
 
 # game/logic/events/adele.rpy:1412
 translate deutsch vip_sadira_1_label_2_03c5e686:
 
     # Sadira "Good. So go crazy."
-    Sadira ""
+    Sadira "Sehr gut. Dann mach dich verrückt."
 
 # game/logic/events/adele.rpy:1413
 translate deutsch vip_sadira_1_label_2_0f84116e:
 
     # ch_Name "Do I pay you for your torment?"
-    ch_Name ""
+    ch_Name "Bezahle ich dich etwa für deine Qualen?"
 
 # game/logic/events/adele.rpy:1414
 translate deutsch vip_sadira_1_label_2_cf6f5250:
 
     # Sadira "You're paying me for an unforgettable experience."
-    Sadira ""
+    Sadira "Du bezahlst mich für ein unvergessliches Erlebnis."
 
 # game/logic/events/adele.rpy:1416
 translate deutsch vip_sadira_1_label_2_c111c831:
