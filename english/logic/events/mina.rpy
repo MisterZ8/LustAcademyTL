@@ -22,7 +22,7 @@ translate english mina_1_label_0585e32b:
 translate english mina_1_label_8989645f:
 
     # ch_Name "{i}(Oh, it looks like it's going to be pretty cozy to sleep here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, it looks pretty cozy.){/i}"
 
 # game/logic/events/mina.rpy:33
 translate english mina_1_label_82111509:
@@ -46,13 +46,13 @@ translate english mina_1_label_fa578b48:
 translate english mina_1_label_9bb03c41:
 
     # Mina "[Name], are you looking for a room for the night?"
-    Mina ""
+    Mina "Pleasure to meet you,[Name]. Are you looking for a room tonight?"
 
 # game/logic/events/mina.rpy:39
 translate english mina_1_label_b6446676:
 
     # ch_Name "You're not a magician by any chance, are you?"
-    ch_Name ""
+    ch_Name "By the way, you're not a magician, right?"
 
 # game/logic/events/mina.rpy:40
 translate english mina_1_label_6060d6a4:
@@ -118,7 +118,7 @@ translate english mina_1_label_4fe57889:
 translate english mina_1_label_8a946bac:
 
     # ch_Name "I see. So how much it's usually for the room?"
-    ch_Name ""
+    ch_Name "I see. So how much is it usually for the room?"
 
 # game/logic/events/mina.rpy:54
 translate english mina_1_label_2419802e:
@@ -142,7 +142,7 @@ translate english mina_1_label_b3ef55bd:
 translate english mina_1_label_24_554526d6:
 
     # ch_Name "You were reading so passionately that it made me want to read it myself."
-    ch_Name ""
+    ch_Name "You were reading so intently that it made me want to read it myself."
 
 # game/logic/events/mina.rpy:68
 translate english mina_1_label_24_54090964:
@@ -172,19 +172,19 @@ translate english mina_1_label_24_32afbc03:
 translate english mina_1_label_24_5277bfa3:
 
     # ch_Name "{i}(Delta of Venus? Isn't it a collection of porn novels?){/i}"
-    ch_Name ""
+    ch_Name "{i} (Delta of Venus? Isn't that a collection of porn novels?){i}"
 
 # game/logic/events/mina.rpy:74
 translate english mina_1_label_24_9976a7c8:
 
     # ch_Name "{i}(You're not as innocent as you look, Mina...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aaah, Mina. You're not as innocent as you look."
 
 # game/logic/events/mina.rpy:76
 translate english mina_1_label_24_6a0c7699:
 
     # ch_Name "That's a shame. I was just looking for some bedtime reading to help me sleep better."
-    ch_Name ""
+    ch_Name "That's a shame. I was looking for some bedtime reading to help me sleep better."
 
 # game/logic/events/mina.rpy:77
 translate english mina_1_label_24_f5b11446:
@@ -214,7 +214,7 @@ translate english mina_1_label_24_7839a02a:
 translate english mina_1_label_24_08e51663:
 
     # Mina "You wouldn't know, I thought you were an adventurer..."
-    Mina ""
+    Mina "You wouldn't know... I thought you were an adventurer..."
 
 # game/logic/events/mina.rpy:86
 translate english mina_1_label_24_d4d3ef1f:
@@ -226,13 +226,13 @@ translate english mina_1_label_24_d4d3ef1f:
 translate english mina_1_label_24_142c23e7:
 
     # ch_Name "The two don't interfere with each other."
-    ch_Name ""
+    ch_Name "The two don't interact with each other all that often."
 
 # game/logic/events/mina.rpy:89
 translate english mina_1_label_24_d8596d2c:
 
     # Mina "Of course it does not."
-    Mina ""
+    Mina "^^^ check this sentence placement. Doesn't make sense in context"
 
 # game/logic/events/mina.rpy:90
 translate english mina_1_label_24_5539f319:
@@ -244,7 +244,7 @@ translate english mina_1_label_24_5539f319:
 translate english mina_1_label_24_e55b2656:
 
     # Mina "Beds in shared room are free for freshman. When they are available."
-    Mina ""
+    Mina "Beds in shared rooms are free for freshman, when they are available."
 
 # game/logic/events/mina.rpy:92
 translate english mina_1_label_24_2147296e:
@@ -262,7 +262,7 @@ translate english mina_1_label_44_b3ef55bd:
 translate english mina_1_label_44_5f2e5a8e:
 
     # ch_Name "Probably not."
-    ch_Name ""
+    ch_Name "Not at the moment."
 
 # game/logic/events/mina.rpy:99
 translate english mina_1_label_44_81030a4b:
@@ -292,7 +292,7 @@ translate english mina_1_label_44_980b7020:
 translate english mina_1_label_44_e7363bf5:
 
     # ch_Name "{i}(So, where do we start?){/i}"
-    ch_Name ""
+    ch_Name "{i}(So, where do I start?){/i}"
 
 # game/logic/events/mina.rpy:109
 translate english mina_1_label_44_77c940e9:
