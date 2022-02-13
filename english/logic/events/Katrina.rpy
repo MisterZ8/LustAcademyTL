@@ -472,7 +472,7 @@ translate english Katrina_1_label_3bbb4635:
 translate english Katrina_1_label_159f13c6:
 
     # Don "So that when I get back, you won't even be here."
-    Don "When I get back it be better if you were gone, for your sake."
+    Don "When I get back, it would be better if you were gone, for your sake."
 
 # game/logic/events/Katrina.rpy:134
 translate english Katrina_1_label_ed803a1d:
@@ -784,7 +784,7 @@ translate english Katrina_1_label_c97d1a39:
 translate english Katrina_1_label_e4fb603a:
 
     # ch_Name "{i}(Can't wrap my head around Olivia...){/i}"
-    ch_Name ""
+    ch_Name "{i}(I can't wrap my head around Olivia...){/i}"
 
 # game/logic/events/Katrina.rpy:217
 translate english Katrina_1_label_32c12636:
@@ -796,7 +796,7 @@ translate english Katrina_1_label_32c12636:
 translate english Katrina_1_label_73a5100b:
 
     # ch_Name "{i}(Something not right.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Something's not right.){/i}"
 
 # game/logic/events/Katrina.rpy:220
 translate english Katrina_1_label_e2fe8232:
@@ -820,7 +820,7 @@ translate english Katrina_1_label_39b1a1c0:
 translate english Katrina_1_label_d6f9934c:
 
     # ch_Name "{i}(What the fuck, take your feet away from me, woman!){/i}"
-    ch_Name ""
+    ch_Name "{i}(What the fuck, get your feet away from me, woman!){/i}"
 
 # game/logic/events/Katrina.rpy:227
 translate english Katrina_1_label_412400e1:
@@ -880,13 +880,13 @@ translate english Katrina_1_label_2c062e17:
 translate english Katrina_1_label_6d24f1b0:
 
     # ch_Name "Oh... Does it really makes you so happy?"
-    ch_Name ""
+    ch_Name "Oh... Does it really makes you this happy?"
 
 # game/logic/events/Katrina.rpy:241
 translate english Katrina_1_label_01d7c6fe:
 
     # Olivia "Of course, it does! You, little bloodsucker."
-    Olivia ""
+    Olivia "Of course it does! You little bloodsucker."
 
 # game/logic/events/Katrina.rpy:242
 translate english Katrina_1_label_0798b536:
@@ -898,7 +898,7 @@ translate english Katrina_1_label_0798b536:
 translate english Katrina_1_label_cfd2ebf1:
 
     # Olivia "It once was a happy marriage, you know. Me and Don."
-    Olivia "We used to be happy, you know. Don and me had the perfect marriage."
+    Olivia "We used to be happy, you know. Don and I had the perfect marriage."
 
 # game/logic/events/Katrina.rpy:245
 translate english Katrina_1_label_5c0abdf4:
@@ -916,7 +916,7 @@ translate english Katrina_1_label_bee32615:
 translate english Katrina_1_label_a89e405b:
 
     # Olivia "Don could not leave me with you and girls."
-    Olivia "Don wouldn't leave me with, not with you and the girls."
+    Olivia "Don wouldn't leave me, not with you and the girls."
 
 # game/logic/events/Katrina.rpy:248
 translate english Katrina_1_label_4c30839d:
@@ -988,7 +988,7 @@ translate english Katrina_1_label_f6a83891:
 translate english Katrina_1_label_98a47304:
 
     # ch_Name "{i}(Something sounded strange... Merlin???){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wait... what did she just say... Merlin???){/i}"
 
 # game/logic/events/Katrina.rpy:265
 translate english Katrina_1_label_5ac8323b:
@@ -1000,7 +1000,7 @@ translate english Katrina_1_label_5ac8323b:
 translate english Katrina_1_label_8967e159:
 
     # Olivia "How do you feel now, when all your wrongdoings are coming back to you?"
-    Olivia "How does it feel now to face all your wrongdoing?"
+    Olivia "How does it feel now to face all your wrongdoings?"
 
 # game/logic/events/Katrina.rpy:267
 translate english Katrina_1_label_fdeac94d:
@@ -1090,7 +1090,7 @@ translate english Katrina_1_label_34918673:
 translate english Katrina_1_label_63112168:
 
     # ch_Name "You said it. You said \"Merlin knows\"."
-    ch_Name ""
+    ch_Name "It's what you just said. You said \"Merlin knows\"."
 
 # game/logic/events/Katrina.rpy:286
 translate english Katrina_1_label_85a6c616:
@@ -1156,7 +1156,7 @@ translate english Katrina_1_label_13fdc073:
 translate english Katrina_1_label_4d57fc97:
 
     # Katrina "Mock me as much as you want."
-    Katrina ""
+    Katrina "Mock me all you want."
 
 # game/logic/events/Katrina.rpy:302
 translate english Katrina_1_label_04024769:
@@ -1198,7 +1198,7 @@ translate english Katrina_1_label_84c46967:
 translate english Katrina_1_label_4a94868f:
 
     # ch_Name "Maybe there's more to find in Sorting Foliant."
-    ch_Name ""
+    ch_Name "Maybe there's more to find in the Sorting Foliant."
 
 # game/logic/events/Katrina.rpy:318
 translate english Katrina_1_label_d610861b:
