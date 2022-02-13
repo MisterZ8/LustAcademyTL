@@ -64,7 +64,7 @@ translate chinese Jill_2_label_8_8835fadf:
 translate chinese Jill_2_label_8_3a0485df:
 
     # ch_Name "What... what should I do?"
-    ch_Name "什么… 我该怎么办?"
+    ch_Name "什么... 我该怎么办?"
 
 # game/logic/events/jill.rpy:119
 translate chinese Jill_2_label_8_194979c5:
@@ -106,7 +106,7 @@ translate chinese Jill_2_label_8_64304343:
 translate chinese Jill_2_label_8_db54c862:
 
     # ch_Name "{i}(I don't have anything to be embarrassed about...){/i}"
-    ch_Name "{i}(我没有什么好尴尬的…){/i}"
+    ch_Name "{i}(我没有什么好尴尬的...){/i}"
 
 # game/logic/events/jill.rpy:129
 translate chinese Jill_2_label_8_88bd17f6:
@@ -148,7 +148,7 @@ translate chinese Jill_2_label_8_ef0b23d6:
 translate chinese Jill_2_label_8_0b3cb4ff:
 
     # ch_Name "It hurts..."
-    ch_Name "这很伤…"
+    ch_Name "这很伤..."
 
 # game/logic/events/jill.rpy:140
 translate chinese Jill_2_label_8_57db8112:
@@ -160,13 +160,13 @@ translate chinese Jill_2_label_8_57db8112:
 translate chinese Jill_2_label_8_e1cf31bb:
 
     # Faith "It deserves some love..."
-    Faith "它值得你去爱…"
+    Faith "它值得你去爱..."
 
 # game/logic/events/jill.rpy:143
 translate chinese Jill_2_label_8_ea2260f3:
 
     # Faith "Your legs..."
-    Faith "你的腿…"
+    Faith "你的腿..."
 
 # game/logic/events/jill.rpy:144
 translate chinese Jill_2_label_8_53ac2e12:
@@ -208,37 +208,37 @@ translate chinese Jill_2_label_8_b3f849ab:
 translate chinese Jill_2_label_8_5c116305:
 
     # ch_Name "{i}(My leg...What's going on?){/i}"
-    ch_Name "{i}(我的腿… 这是怎么呢？){/i}"
+    ch_Name "{i}(我的腿... 这是怎么呢？){/i}"
 
 # game/logic/events/jill.rpy:153
 translate chinese Jill_2_label_8_0b3cb4ff_1:
 
     # ch_Name "It hurts..."
-    ch_Name "这很伤…"
+    ch_Name "这很伤..."
 
 # game/logic/events/jill.rpy:155
 translate chinese Jill_2_label_8_3e60a8d9:
 
     # Faith "I know... But I feel how brave you are."
-    Faith "我知道… 但我觉得你很勇敢。"
+    Faith "我知道... 但我觉得你很勇敢。"
 
 # game/logic/events/jill.rpy:156
 translate chinese Jill_2_label_8_23b8deeb:
 
     # Faith "How strong you are..."
-    Faith "你有多强壮…"
+    Faith "你有多强壮..."
 
 # game/logic/events/jill.rpy:157
 translate chinese Jill_2_label_8_c7361787:
 
     # Faith "I know you can take it..."
-    Faith "我知道你能接受…"
+    Faith "我知道你能接受..."
 
 # game/logic/events/jill.rpy:158
 translate chinese Jill_2_label_8_ed025aa4:
 
     # ch_Name "{i}(I don't know if it's sexy or creepy... Can it be both?){/i}"
-    ch_Name "{i}(我不知道这是性感还是恐怖… 能两者兼而有吗?){/i}"
+    ch_Name "{i}(我不知道这是性感还是恐怖... 能两者兼而有吗?){/i}"
 
 # game/logic/events/jill.rpy:160
 translate chinese Jill_2_label_8_94cd9f76:
@@ -250,7 +250,7 @@ translate chinese Jill_2_label_8_94cd9f76:
 translate chinese Jill_2_label_8_65319b24:
 
     # ch_Name "Um...Y-yes, I guess."
-    ch_Name "嗯… 是-是的，我猜。"
+    ch_Name "嗯... 是-是的，我猜。"
 
 # game/logic/events/jill.rpy:162
 translate chinese Jill_2_label_8_9633c1dd:
@@ -280,13 +280,13 @@ translate chinese Jill_2_label_8_796bb54f:
 translate chinese Jill_2_label_8_c9bf1b92:
 
     # Faith "You're too tense... Ah..."
-    Faith "你太紧张… 啊…"
+    Faith "你太紧张... 啊..."
 
 # game/logic/events/jill.rpy:169
 translate chinese Jill_2_label_8_90bf3fd5:
 
     # Faith "Relax your shoulders... Ah... Now we'll give them a good..."
-    Faith "放松你的肩膀… 啊… 现在我们要给他们一个…"
+    Faith "放松你的肩膀... 啊... 现在我们要给他们一个..."
 
 # game/logic/events/jill.rpy:170
 translate chinese Jill_2_label_8_0918c611:
@@ -298,13 +298,13 @@ translate chinese Jill_2_label_8_0918c611:
 translate chinese Jill_2_label_8_8acca11e:
 
     # ch_Name "{i}(Is it me, or is she vibrating... there?){/i}"
-    ch_Name "{i}(是我，还是她在震动… 这里吗?){/i}"
+    ch_Name "{i}(是我，还是她在震动... 这里吗?){/i}"
 
 # game/logic/events/jill.rpy:173
 translate chinese Jill_2_label_8_aa947108:
 
     # Faith "Oh... Yeah... What the hell is that..."
-    Faith "哦… 是的… 那是什么鬼东西…"
+    Faith "哦... 是的... 那是什么鬼东西..."
 
 # game/logic/events/jill.rpy:175
 translate chinese Jill_2_label_8_c3ed65c2:
@@ -316,7 +316,7 @@ translate chinese Jill_2_label_8_c3ed65c2:
 translate chinese Jill_2_label_8_00b50af9:
 
     # Faith "Sorry... It's just..."
-    Faith "对不起… 它只是…"
+    Faith "对不起... 它只是..."
 
 # game/logic/events/jill.rpy:178
 translate chinese Jill_2_label_8_844308df:
@@ -334,13 +334,13 @@ translate chinese Jill_2_label_8_471de324:
 translate chinese Jill_2_label_8_a55970ab:
 
     # Faith "It's just a routine procedure..."
-    Faith "这只是例行程序…"
+    Faith "这只是例行程序..."
 
 # game/logic/events/jill.rpy:181
 translate chinese Jill_2_label_8_0871da16:
 
     # Faith "Ah... Ah... And!.."
-    Faith "啊… 啊…和! . ."
+    Faith "啊... 啊...和! . ."
 
 # game/logic/events/jill.rpy:183
 translate chinese Jill_2_label_8_d48c19b7:
@@ -358,13 +358,13 @@ translate chinese Jill_2_label_8_fb012dba:
 translate chinese Jill_2_label_8_846d8e0e:
 
     # Faith "That's it! The massage is over... Sorry, I have to run."
-    Faith "就是这样!按摩结束了… 对不起，我得走了。"
+    Faith "就是这样!按摩结束了... 对不起，我得走了。"
 
 # game/logic/events/jill.rpy:187
 translate chinese Jill_2_label_8_a08549e0:
 
     # Faith "It's very urgent..."
-    Faith "这是非常紧急…"
+    Faith "这是非常紧急..."
 
 # game/logic/events/jill.rpy:188
 translate chinese Jill_2_label_8_330c04cf:
@@ -376,7 +376,7 @@ translate chinese Jill_2_label_8_330c04cf:
 translate chinese Jill_2_label_8_61181cfa:
 
     # ch_Name "{i}(Yeah... She's weird.){/i}"
-    ch_Name "{i}(是的… 她很奇怪。){/i}"
+    ch_Name "{i}(是的... 她很奇怪。){/i}"
 
 # game/logic/events/jill.rpy:191
 translate chinese Jill_2_label_8_335cbbbe:
@@ -388,19 +388,19 @@ translate chinese Jill_2_label_8_335cbbbe:
 translate chinese Jill_2_label_8_37bb44f0:
 
     # ch_Name "Yeah... That's was a strange massage."
-    ch_Name "是的… 这按摩真奇怪。"
+    ch_Name "是的... 这按摩真奇怪。"
 
 # game/logic/events/jill.rpy:199
 translate chinese Jill_2_label_8_d927bbd8:
 
     # ch_Name "Hmm... Is no one here?"
-    ch_Name "嗯… 这里没人吗?"
+    ch_Name "嗯... 这里没人吗?"
 
 # game/logic/events/jill.rpy:201
 translate chinese Jill_2_label_8_eacd6e4d:
 
     # ch_Name "{i}(Wait, I think I hear something...){/i}"
-    ch_Name "{i}(等等，我好像听到了什么…){/i}"
+    ch_Name "{i}(等等，我好像听到了什么...){/i}"
 
 # game/logic/events/jill.rpy:202
 translate chinese Jill_2_label_8_f73181d7:
@@ -496,7 +496,7 @@ translate chinese Jill_0_label_bc861237:
 translate chinese Jill_0_label_64f039e9:
 
     # Jill "Let me see..."
-    Jill "让我看看…"
+    Jill "让我看看..."
 
 # game/logic/events/jill.rpy:230
 translate chinese Jill_0_label_adfebf94:
@@ -598,7 +598,7 @@ translate chinese Jill_3_label_3a5c7650:
 translate chinese Jill_3_label_2d046a34:
 
     # ch_Name "{i}(It still smells nice in here...){/i}"
-    ch_Name "{i}(这里闻起来还是很香…){/i}"
+    ch_Name "{i}(这里闻起来还是很香...){/i}"
 
 # game/logic/events/jill.rpy:262
 translate chinese Jill_3_label_d6880915:
@@ -628,7 +628,7 @@ translate chinese Jill_3_label_b80f712f:
 translate chinese Jill_3_label_f8eedec0:
 
     # ch_Name "{i}(Same voice...){/i}"
-    ch_Name "{i}(同样的声音…){/i}"
+    ch_Name "{i}(同样的声音...){/i}"
 
 # game/logic/events/jill.rpy:269
 translate chinese Jill_3_label_6fb76786:
@@ -640,7 +640,7 @@ translate chinese Jill_3_label_6fb76786:
 translate chinese Jill_3_label_57af8977:
 
     # ch_Name "{i}(Although I don't mind feeling her body quiver with pleasure again...){/i}"
-    ch_Name "{i}(虽然我不介意她的身体再次因快乐而颤抖…){/i}"
+    ch_Name "{i}(虽然我不介意她的身体再次因快乐而颤抖...){/i}"
 
 # game/logic/events/jill.rpy:272
 translate chinese Jill_3_label_7609878e:
@@ -652,13 +652,13 @@ translate chinese Jill_3_label_7609878e:
 translate chinese Jill_3_label_c2e4cc00:
 
     # Jill "My name is..."
-    Jill "我的名字是…"
+    Jill "我的名字是..."
 
 # game/logic/events/jill.rpy:275
 translate chinese Jill_3_label_094619bd:
 
     # ch_Name "{i}(Wait a minute... She was the one who wasn't the receptionist...){/i}"
-    ch_Name "{i}(等一下… 她不是接待员…){/i}"
+    ch_Name "{i}(等一下... 她不是接待员...){/i}"
 
 # game/logic/events/jill.rpy:276
 translate chinese Jill_3_label_5c129b2f:
@@ -670,7 +670,7 @@ translate chinese Jill_3_label_5c129b2f:
 translate chinese Jill_3_label_ec675ee9:
 
     # ch_Name "{i}(But last time the masseuse introduced herself to me...){/i}"
-    ch_Name "{i}(但上次按摩师向我介绍她自己的时候…){/i}"
+    ch_Name "{i}(但上次按摩师向我介绍她自己的时候...){/i}"
 
 # game/logic/events/jill.rpy:279
 translate chinese Jill_3_label_163292ee:
@@ -694,19 +694,19 @@ translate chinese Jill_3_label_276253ce:
 translate chinese Jill_3_label_3d1310d4:
 
     # Faith "Oh, it's you..."
-    Faith "哦，是你…"
+    Faith "哦，是你..."
 
 # game/logic/events/jill.rpy:284
 translate chinese Jill_3_label_c83e50ea:
 
     # Faith "I'm very sorry that your last massage was cut short..."
-    Faith "很抱歉你上次的按摩被打断了…"
+    Faith "很抱歉你上次的按摩被打断了..."
 
 # game/logic/events/jill.rpy:286
 translate chinese Jill_3_label_7f511731:
 
     # Faith "It was because of... Well..."
-    Faith "那是因为… 嗯…"
+    Faith "那是因为... 嗯..."
 
 # game/logic/events/jill.rpy:290
 translate chinese Jill_3_label_fcdeb684:
@@ -724,7 +724,7 @@ translate chinese Jill_3_label_75333db9:
 translate chinese Jill_3_label_1916a8af:
 
     # Faith "Um... Well..."
-    Faith "嗯… 嗯…"
+    Faith "嗯... 嗯..."
 
 # game/logic/events/jill.rpy:294
 translate chinese Jill_3_label_19428a48:
@@ -760,7 +760,7 @@ translate chinese Jill_3_label_2bc7ecfd:
 translate chinese Jill_3_label_185a9d5e:
 
     # Faith "Well, I mean..."
-    Faith "嗯，我的意思是…"
+    Faith "嗯，我的意思是..."
 
 # game/logic/events/jill.rpy:303
 translate chinese Jill_3_label_46189e73:
@@ -772,7 +772,7 @@ translate chinese Jill_3_label_46189e73:
 translate chinese Jill_3_label_0b0a6a1a:
 
     # Faith "Th-thank you..."
-    Faith "谢-谢谢你…"
+    Faith "谢-谢谢你..."
 
 # game/logic/events/jill.rpy:306
 translate chinese Jill_3_label_06f93a02:
@@ -802,7 +802,7 @@ translate chinese Jill_3_label_6fd1db2a:
 translate chinese Jill_3_label_0106b1fc:
 
     # Faith "Ah... Ah-ha-ha!"
-    Faith "啊… 啊哈哈！"
+    Faith "啊... 啊哈哈！"
 
 # game/logic/events/jill.rpy:313
 translate chinese Jill_3_label_0ba43894:
@@ -820,7 +820,7 @@ translate chinese Jill_3_label_ef0b23d6:
 translate chinese Jill_3_label_0b3cb4ff:
 
     # ch_Name "It hurts..."
-    ch_Name "这很伤…"
+    ch_Name "这很伤..."
 
 # game/logic/events/jill.rpy:317
 translate chinese Jill_3_label_57db8112:
@@ -832,7 +832,7 @@ translate chinese Jill_3_label_57db8112:
 translate chinese Jill_3_label_b8a378a9:
 
     # Faith "They deserve some love..."
-    Faith "他们值得爱…"
+    Faith "他们值得爱..."
 
 # game/logic/events/jill.rpy:320
 translate chinese Jill_3_label_64c6a283:
@@ -856,7 +856,7 @@ translate chinese Jill_3_label_9deae701:
 translate chinese Jill_3_label_d0e0c97f:
 
     # ch_Name "{i}(She seems to be really good at this...){/i}"
-    ch_Name "{i}(她似乎很擅长这个…){/i}"
+    ch_Name "{i}(她似乎很擅长这个...){/i}"
 
 # game/logic/events/jill.rpy:325
 translate chinese Jill_3_label_f9805810:
@@ -874,7 +874,7 @@ translate chinese Jill_3_label_84d25d3a:
 translate chinese Jill_3_label_f5a1f715:
 
     # ch_Name "Ouch..."
-    ch_Name "哎哟…"
+    ch_Name "哎哟..."
 
 # game/logic/events/jill.rpy:329
 translate chinese Jill_3_label_caa126a2:
@@ -886,13 +886,13 @@ translate chinese Jill_3_label_caa126a2:
 translate chinese Jill_3_label_f62b3f4b:
 
     # Faith "Now I can heal this spot..."
-    Faith "现在我可以治愈这个斑点…"
+    Faith "现在我可以治愈这个斑点..."
 
 # game/logic/events/jill.rpy:332
 translate chinese Jill_3_label_4dda4743:
 
     # ch_Name "That feels... good..."
-    ch_Name "这感觉… 好…"
+    ch_Name "这感觉... 好..."
 
 # game/logic/events/jill.rpy:333
 translate chinese Jill_3_label_3a5c7650_1:
@@ -916,7 +916,7 @@ translate chinese Jill_3_label_bbd56698:
 translate chinese Jill_3_label_d4b884c9:
 
     # ch_Name "{i}(She's in a rush again...){/i}"
-    ch_Name "{i}(她又赶时间了…){/i}"
+    ch_Name "{i}(她又赶时间了...){/i}"
 
 # game/logic/events/jill.rpy:339
 translate chinese Jill_3_label_e73f7b48:
@@ -934,13 +934,13 @@ translate chinese Jill_3_label_6937b7b7:
 translate chinese Jill_3_label_1a4782f4:
 
     # Faith "Wait, don't turn around..."
-    Faith "等等，别回头…"
+    Faith "等等，别回头..."
 
 # game/logic/events/jill.rpy:343
 translate chinese Jill_3_label_9692f7ca:
 
     # Faith "I know you feel me... there..."
-    Faith "我知道你能理解我… 在那里…"
+    Faith "我知道你能理解我... 在那里..."
 
 # game/logic/events/jill.rpy:345
 translate chinese Jill_3_label_c9acf1ce:
@@ -952,7 +952,7 @@ translate chinese Jill_3_label_c9acf1ce:
 translate chinese Jill_3_label_72f8899e:
 
     # ch_Name "I, uh, well..."
-    ch_Name "我，嗯，嗯…"
+    ch_Name "我，嗯，嗯..."
 
 # game/logic/events/jill.rpy:347
 translate chinese Jill_3_label_1501b90b:
@@ -964,19 +964,19 @@ translate chinese Jill_3_label_1501b90b:
 translate chinese Jill_3_label_545f1c4d:
 
     # Faith "Wow...Yeah, you sure did enjoy my massage."
-    Faith "哇… 是啊，你真的很享受我的按摩。"
+    Faith "哇... 是啊，你真的很享受我的按摩。"
 
 # game/logic/events/jill.rpy:350
 translate chinese Jill_3_label_ad7eef91:
 
     # Faith "You're definitely going to have to give up the stress here..."
-    Faith "你一定要放弃这里的压力…"
+    Faith "你一定要放弃这里的压力..."
 
 # game/logic/events/jill.rpy:352
 translate chinese Jill_3_label_1e7d745b:
 
     # Faith "But next time..."
-    Faith "但是下次…"
+    Faith "但是下次..."
 
 # game/logic/events/jill.rpy:353
 translate chinese Jill_3_label_c2d80e31:
@@ -988,7 +988,7 @@ translate chinese Jill_3_label_c2d80e31:
 translate chinese Jill_3_label_d7f3d285:
 
     # ch_Name "{i}(Damn... Where did she go?){/i}"
-    ch_Name "{i}(该死的… 她去了哪里?){/i}"
+    ch_Name "{i}(该死的... 她去了哪里?){/i}"
 
 # game/logic/events/jill.rpy:356
 translate chinese Jill_3_label_aff8afb5:
@@ -1000,13 +1000,13 @@ translate chinese Jill_3_label_aff8afb5:
 translate chinese Jill_3_label_2b217e2d:
 
     # ch_Name "{i}(I wonder what's really going on here...){/i}"
-    ch_Name "{i}(我想知道这到底是怎么回事…){/i}"
+    ch_Name "{i}(我想知道这到底是怎么回事...){/i}"
 
 # game/logic/events/jill.rpy:358
 translate chinese Jill_3_label_100b2eff:
 
     # ch_Name "{i}(We'll have to come back here sometime...){/i}"
-    ch_Name "{i}(我们以后还会再来的…){/i}"
+    ch_Name "{i}(我们以后还会再来的...){/i}"
 
 # game/logic/events/jill.rpy:362
 translate chinese Jill_3_label_76741fb6:
@@ -1018,7 +1018,7 @@ translate chinese Jill_3_label_76741fb6:
 translate chinese Jill_3_label_4d6b05dd:
 
     # ch_Name "{i}(Should I wait for someone or...?){/i}"
-    ch_Name "{i}(我应该等人还是…?){/i}"
+    ch_Name "{i}(我应该等人还是...?){/i}"
 
 # game/logic/events/jill.rpy:364
 translate chinese Jill_3_label_78fcf97c:
@@ -1150,13 +1150,13 @@ translate chinese Jill_1_label_e9587003:
 translate chinese Jill_1_label_64c2ffb6:
 
     # Jill "[Name]? What a beautiful name..."
-    Jill "[Name]? 多美的名字啊…"
+    Jill "[Name]? 多美的名字啊..."
 
 # game/logic/events/jill.rpy:428
 translate chinese Jill_1_label_ec528c5c:
 
     # ch_Name "{i}(Yeah, it's kind of ordinary...){/i}"
-    ch_Name "{i}(是啊，很普通…){/i}"
+    ch_Name "{i}(是啊，很普通...){/i}"
 
 # game/logic/events/jill.rpy:430
 translate chinese Jill_1_label_84fa4cee:
@@ -1216,7 +1216,7 @@ translate chinese Jill_1_label_a2b37245:
 translate chinese Jill_1_label_c48219e5:
 
     # ch_Name "When I got injured..."
-    ch_Name "当我受伤的时候…"
+    ch_Name "当我受伤的时候..."
 
 # game/logic/events/jill.rpy:445
 translate chinese Jill_1_label_efa5eddc:
@@ -1246,7 +1246,7 @@ translate chinese Jill_1_label_14d72290:
 translate chinese Jill_1_label_de5abba9:
 
     # Jill "They need special care..."
-    Jill "他们需要特殊照顾…"
+    Jill "他们需要特殊照顾..."
 
 # game/logic/events/jill.rpy:452
 translate chinese Jill_1_label_3b42f494:
@@ -1372,19 +1372,19 @@ translate chinese Jill_4_label_329549a8:
 translate chinese Jill_4_label_054accc5:
 
     # Jill "We are very pleased that the quality of our massage..."
-    Jill "我们很高兴我们的按摩服务质量…"
+    Jill "我们很高兴我们的按摩服务质量..."
 
 # game/logic/events/jill.rpy:524
 translate chinese Jill_4_label_f983e136:
 
     # Jill "...makes you come back again and again."
-    Jill "…让你一次又一次地回来。"
+    Jill "...让你一次又一次地回来。"
 
 # game/logic/events/jill.rpy:525
 translate chinese Jill_4_label_47500326:
 
     # ch_Name "{i}(If only it makes me cum again...){/i}"
-    ch_Name "{i}(如果它能让我再次射精…){/i}"
+    ch_Name "{i}(如果它能让我再次射精...){/i}"
 
 # game/logic/events/jill.rpy:526
 translate chinese Jill_4_label_b0d2f87b:
@@ -1426,19 +1426,19 @@ translate chinese Jill_4_label_from_gallery_63c30ab4:
 translate chinese Jill_4_label_from_gallery_263db661:
 
     # ch_Name "However, there's still a lot of stress and tension..."
-    ch_Name "然而，还是有很多压力和紧张…"
+    ch_Name "然而，还是有很多压力和紧张..."
 
 # game/logic/events/jill.rpy:545
 translate chinese Jill_4_label_from_gallery_08f9ebb1:
 
     # ch_Name "...in different parts of the body..."
-    ch_Name "…在身体的不同部位…"
+    ch_Name "...在身体的不同部位..."
 
 # game/logic/events/jill.rpy:546
 translate chinese Jill_4_label_from_gallery_67f06a86:
 
     # ch_Name "...which needs to be removed."
-    ch_Name "…这需要被移除。"
+    ch_Name "...这需要被移除。"
 
 # game/logic/events/jill.rpy:547
 translate chinese Jill_4_label_from_gallery_ab8bebb5:
@@ -1492,7 +1492,7 @@ translate chinese Jill_4_label_from_gallery_c156806b:
 translate chinese Jill_4_label_from_gallery_60ab327e:
 
     # Faith "Also advise you to let all thoughts out of your head..."
-    Faith "我还建议你把所有的想法都放出来…"
+    Faith "我还建议你把所有的想法都放出来..."
 
 # game/logic/events/jill.rpy:564
 translate chinese Jill_4_label_from_gallery_e69b8d41:
@@ -1510,13 +1510,13 @@ translate chinese Jill_4_label_from_gallery_f8b54836:
 translate chinese Jill_4_label_from_gallery_bb518681:
 
     # Faith "Usually, during such a massage I offer customers a special mask..."
-    Faith "通常，在这样的按摩过程中，我会为顾客提供一种特殊的面膜…"
+    Faith "通常，在这样的按摩过程中，我会为顾客提供一种特殊的面膜..."
 
 # game/logic/events/jill.rpy:568
 translate chinese Jill_4_label_from_gallery_1a5d57d0:
 
     # Faith "...which allows them to fall into dream."
-    Faith "…这让他们陷入了梦境。"
+    Faith "...这让他们陷入了梦境。"
 
 # game/logic/events/jill.rpy:569
 translate chinese Jill_4_label_from_gallery_9c426f04:
@@ -1582,7 +1582,7 @@ translate chinese Jill_4_label_from_gallery_96a5eacc:
 translate chinese Jill_4_label_from_gallery_d36e0661:
 
     # Faith "Ugh... Thanks!"
-    Faith "啊… 谢谢!"
+    Faith "啊... 谢谢!"
 
 # game/logic/events/jill.rpy:584
 translate chinese Jill_4_label_from_gallery_fa0965d1:
@@ -1612,13 +1612,13 @@ translate chinese Jill_4_label_from_gallery_eff1c28d:
 translate chinese Jill_4_label_from_gallery_40ba363a:
 
     # ch_Name "{i}(However, her \"shyness\" did not stop her from groping me during our last time...){/i}"
-    ch_Name "{i}(然而，她的“害羞”并没有阻止她在我们最后一次见面时摸我…){/i}"
+    ch_Name "{i}(然而，她的“害羞”并没有阻止她在我们最后一次见面时摸我...){/i}"
 
 # game/logic/events/jill.rpy:590
 translate chinese Jill_4_label_from_gallery_2e9c6f42:
 
     # ch_Name "{i}(...and whispering all sorts of things in my ear.){/i}"
-    ch_Name "{i}(…在我耳边说着各种各样的话。){/i}"
+    ch_Name "{i}(...在我耳边说着各种各样的话。){/i}"
 
 # game/logic/events/jill.rpy:591
 translate chinese Jill_4_label_from_gallery_110f6626:
@@ -1660,7 +1660,7 @@ translate chinese Jill_4_label_from_gallery_70794a09:
 translate chinese Jill_4_label_from_gallery_d52710a9:
 
     # Faith "Sports, hot stone, aromatherapy, honey..."
-    Faith "运动、热石、芳香疗法、蜂蜜…"
+    Faith "运动、热石、芳香疗法、蜂蜜..."
 
 # game/logic/events/jill.rpy:599
 translate chinese Jill_4_label_from_gallery_17f910db:
@@ -1678,7 +1678,7 @@ translate chinese Jill_4_label_from_gallery_8876c556:
 translate chinese Jill_4_label_from_gallery_e1cdd165:
 
     # ch_Name "Massages with energy exchange, like for example erotic..."
-    ch_Name "能量交换按摩，比如色情…"
+    ch_Name "能量交换按摩，比如色情..."
 
 # game/logic/events/jill.rpy:603
 translate chinese Jill_4_label_from_gallery_49b81a39:
@@ -1690,19 +1690,19 @@ translate chinese Jill_4_label_from_gallery_49b81a39:
 translate chinese Jill_4_label_from_gallery_d6b6bc17:
 
     # Faith "There is no such thing in our catalog..."
-    Faith "我们的目录里没有这样的东西…"
+    Faith "我们的目录里没有这样的东西..."
 
 # game/logic/events/jill.rpy:606
 translate chinese Jill_4_label_from_gallery_f0907e3d:
 
     # Faith "But you can talk with the masseur personally..."
-    Faith "但你可以亲自跟按摩师谈…"
+    Faith "但你可以亲自跟按摩师谈..."
 
 # game/logic/events/jill.rpy:607
 translate chinese Jill_4_label_from_gallery_1971e367:
 
     # Faith "Tell more about the form of massage that you would like to try..."
-    Faith "告诉更多关于你想尝试的按摩形式…"
+    Faith "告诉更多关于你想尝试的按摩形式..."
 
 # game/logic/events/jill.rpy:608
 translate chinese Jill_4_label_from_gallery_d51a9048:
@@ -1738,7 +1738,7 @@ translate chinese Jill_4_label_from_gallery_6e0fb2b0:
 translate chinese Jill_4_label_from_gallery_fd71a4b2:
 
     # Faith "So, now it will hurt, but then the relaxation of the whole body will come..."
-    Faith "所以，现在它会疼，但是然后整个身体就会放松…"
+    Faith "所以，现在它会疼，但是然后整个身体就会放松..."
 
 # game/logic/events/jill.rpy:616
 translate chinese Jill_4_label_from_gallery_e1064586:
@@ -1768,13 +1768,13 @@ translate chinese Jill_4_label_from_gallery_32cb5d89:
 translate chinese Jill_4_label_from_gallery_21ecad1c:
 
     # Faith "At the end of the relaxing massage, I always stimulate one point..."
-    Faith "在放松按摩的最后，我总是刺激一个点…"
+    Faith "在放松按摩的最后，我总是刺激一个点..."
 
 # game/logic/events/jill.rpy:622
 translate chinese Jill_4_label_from_gallery_05b7e4a6:
 
     # Faith "...which removes all clamps."
-    Faith "…可以移除所有的夹子。"
+    Faith "...可以移除所有的夹子。"
 
 # game/logic/events/jill.rpy:623
 translate chinese Jill_4_label_from_gallery_485530e0:
@@ -1804,7 +1804,7 @@ translate chinese Jill_4_label_from_gallery_72ad2025:
 translate chinese Jill_4_label_from_gallery_2654c981:
 
     # Faith "Regarding the details of our next session..."
-    Faith "关于我们下次按摩的细节…"
+    Faith "关于我们下次按摩的细节..."
 
 # game/logic/events/jill.rpy:629
 translate chinese Jill_4_label_from_gallery_7578c7bc:
@@ -1864,7 +1864,7 @@ translate chinese Jill_4_label_from_gallery_7795b9f6:
 translate chinese Jill_4_label_from_gallery_a20be6b3:
 
     # Jill "For a little bit..."
-    Jill "有一段时间…"
+    Jill "有一段时间..."
 
 # game/logic/events/jill.rpy:642
 translate chinese Jill_4_label_from_gallery_c3f4364a:
@@ -1948,19 +1948,19 @@ translate chinese Jill_4_label_from_gallery_7fdd10d7:
 translate chinese Jill_4_label_from_gallery_ab20b39a:
 
     # ch_Name "The atmosphere really helps..."
-    ch_Name "气氛真的很有帮助…"
+    ch_Name "气氛真的很有帮助..."
 
 # game/logic/events/jill.rpy:660
 translate chinese Jill_4_label_from_gallery_4db4cff8:
 
     # Jill "So big..."
-    Jill "这么大…"
+    Jill "这么大..."
 
 # game/logic/events/jill.rpy:661
 translate chinese Jill_4_label_from_gallery_d3a406a6:
 
     # Jill "...and hard!"
-    Jill "…和困难！"
+    Jill "...和困难！"
 
 # game/logic/events/jill.rpy:663
 translate chinese Jill_4_label_from_gallery_edfd1465:
@@ -1990,7 +1990,7 @@ translate chinese Jill_4_label_from_gallery_b240f004:
 translate chinese Jill_4_label_from_gallery_900642b1:
 
     # ch_Name "I will finish soon..."
-    ch_Name "我很快就完成了…"
+    ch_Name "我很快就完成了..."
 
 # game/logic/events/jill.rpy:669
 translate chinese Jill_4_label_from_gallery_da46273e:
@@ -2050,7 +2050,7 @@ translate chinese Jill_4_label_from_gallery_8347f762:
 translate chinese Jill_4_label_from_gallery_bc2c8759:
 
     # ch_Name "{i}(I could have sworn I just got jerked off...){/i}"
-    ch_Name "{i}(我发誓我刚被打飞机了…){/i}"
+    ch_Name "{i}(我发誓我刚被打飞机了...){/i}"
 
 # game/logic/events/jill.rpy:695
 translate chinese Jill_4_label_from_gallery_acaf5041:
@@ -2134,7 +2134,7 @@ translate chinese Jill_4_label_from_gallery_2c7c2624:
 translate chinese Jill_4_label_from_gallery_c5404335:
 
     # ch_Name "{i}(Or does she flirt that way with all the visitors? Hmm...){/i}"
-    ch_Name "{i}(还是她对所有的来客都那样调情?嗯…){/i}"
+    ch_Name "{i}(还是她对所有的来客都那样调情?嗯...){/i}"
 
 translate chinese strings:
 
