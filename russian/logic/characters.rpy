@@ -116,11 +116,11 @@ translate russian strings:
 
     # game/logic/characters.rpy:36
     old "Lily"
-    new ""
+    new "Лили"
 
     # game/logic/characters.rpy:37
     old "Lucy"
-    new "Лили"
+    new "Люси"
 
     # game/logic/characters.rpy:38
     old "Mina"
@@ -188,5 +188,5 @@ translate russian strings:
 
     # game/logic/characters.rpy:59
     old "Unknown elf"
-    new "Неизвестный ельф"
+    new "Неизвестный эльф"
 
