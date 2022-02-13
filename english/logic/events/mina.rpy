@@ -172,13 +172,13 @@ translate english mina_1_label_24_32afbc03:
 translate english mina_1_label_24_5277bfa3:
 
     # ch_Name "{i}(Delta of Venus? Isn't it a collection of porn novels?){/i}"
-    ch_Name "{i} (Delta of Venus? Isn't that a collection of porn novels?){i}"
+    ch_Name "{i}(Delta of Venus? Isn't that a collection of porn novels?){/i}"
 
 # game/logic/events/mina.rpy:74
 translate english mina_1_label_24_9976a7c8:
 
     # ch_Name "{i}(You're not as innocent as you look, Mina...){/i}"
-    ch_Name "{i}(Aaah, Mina. You're not as innocent as you look."
+    ch_Name "{i}(Aaah, Mina. You're not as innocent as you look.){/i}"
 
 # game/logic/events/mina.rpy:76
 translate english mina_1_label_24_6a0c7699:
