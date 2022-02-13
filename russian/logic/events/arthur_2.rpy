@@ -1528,7 +1528,7 @@ translate russian arthur_2_5_c6aa2781:
 translate russian arthur_2_5_f5a1d983:
 
     # Elijah "There's the hottest nightclub in town around the corner. Mistress Luck."
-    Elijah "Там за углом самый зажигательный ночной клуб в городке. Госпожа Удача называется"
+    Elijah "Там за углом самый зажигательный ночной клуб в городке. Леди Удача называется"
 
 # game/logic/events/arthur_2.rpy:582
 translate russian arthur_2_5_ffb89690:
