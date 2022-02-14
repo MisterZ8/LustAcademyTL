@@ -4,1645 +4,1645 @@
 translate deutsch Haley_1_label_931506d0:
 
     # ch_Name "{i}(That's interesting. Never seen a girl so invested in school activities.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Das ist interessant. Ich habe noch nie ein Mädchen gesehen, das so in Schulaktivitäten eingebunden ist.){/i}"
 
 # game/logic/events/haley.rpy:235
 translate deutsch Haley_1_label_a32c4a9b:
 
     # ch_Name "{i}(Can It really be that easy to get her to like me?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kann es wirklich so einfach sein, sie dazu zu bringen, mich zu mögen?){/i}"
 
 # game/logic/events/haley.rpy:236
 translate deutsch Haley_1_label_9ec4cd2d:
 
     # ch_Name "{i}(Let's see if there's anything else I can do before class starts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mal sehen, ob ich noch etwas tun kann, bevor der Unterricht beginnt.){/i}"
 
 # game/logic/events/haley.rpy:238
 translate deutsch Haley_1_label_b8a7fc1e:
 
     # ch_Name "{i}(Bingo!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bingo!){/i}"
 
 # game/logic/events/haley.rpy:239
 translate deutsch Haley_1_label_67640c87:
 
     # ch_Name "{i}(Haley's probably getting ready for class.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Haley bereitet sich wahrscheinlich auf den Unterricht vor.){/i}"
 
 # game/logic/events/haley.rpy:240
 translate deutsch Haley_1_label_09535aa2:
 
     # ch_Name "{i}(But I'm sure she'll find some time to chat with me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aber ich bin mir sicher, dass sie etwas Zeit finden wird, um mit mir zu plaudern.){/i}"
 
 # game/logic/events/haley.rpy:241
 translate deutsch Haley_1_label_1eb3dfb5:
 
     # ch_Name "{i}(She seems to like our conversations.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sie scheint unsere Gespräche zu mögen.){/i}"
 
 # game/logic/events/haley.rpy:244
 translate deutsch Haley_1_label_c41619bb:
 
     # ch_Name "Haley, hi!"
-    ch_Name ""
+    ch_Name "Haley, hi!"
 
 # game/logic/events/haley.rpy:245
 translate deutsch Haley_1_label_4f5a31ad:
 
     # Haley "[Name], good to see you!"
-    Haley ""
+    Haley "[Name], schön dich zu sehen!"
 
 # game/logic/events/haley.rpy:246
 translate deutsch Haley_1_label_f99634b3:
 
     # ch_Name "How's it going?{w} Getting ready for class?"
-    ch_Name ""
+    ch_Name "Wie läuft's?{w} Bereitest du dich auf den Unterricht vor?"
 
 # game/logic/events/haley.rpy:248
 translate deutsch Haley_1_label_97a2e8a2:
 
     # Haley "Yeah. Have you opened your magic book yet?"
-    Haley ""
+    Haley "Ja. Hast du dein Zauberbuch schon aufgeschlagen?"
 
 # game/logic/events/haley.rpy:249
 translate deutsch Haley_1_label_42bd69f9:
 
     # Haley "I'm really excited."
-    Haley ""
+    Haley "Ich bin wirklich aufgeregt."
 
 # game/logic/events/haley.rpy:250
 translate deutsch Haley_1_label_9758e3e8:
 
     # ch_Name "I haven't had the chance yet."
-    ch_Name ""
+    ch_Name "Ich hatte noch keine Gelegenheit."
 
 # game/logic/events/haley.rpy:251
 translate deutsch Haley_1_label_5a2b8c6f:
 
     # ch_Name "What's the big deal?"
-    ch_Name ""
+    ch_Name "Was ist schon dabei?"
 
 # game/logic/events/haley.rpy:252
 translate deutsch Haley_1_label_cb98e67c:
 
     # Haley "What do you mean?!"
-    Haley ""
+    Haley "Was meinst du?!"
 
 # game/logic/events/haley.rpy:254
 translate deutsch Haley_1_label_d0250630:
 
     # Haley "Everything! It's got everything!"
-    Haley ""
+    Haley "Alles! Es hat alles!"
 
 # game/logic/events/haley.rpy:255
 translate deutsch Haley_1_label_2d5b47e1:
 
     # Haley "All the answers, the history of magic, practical advice."
-    Haley ""
+    Haley "Alle Antworten, die Geschichte der Magie, praktische Ratschläge."
 
 # game/logic/events/haley.rpy:256
 translate deutsch Haley_1_label_ea79a994:
 
     # Haley "It's objectively the best textbook I've ever seen."
-    Haley ""
+    Haley "Es ist objektiv betrachtet das beste Lehrbuch, das ich je gesehen habe."
 
 # game/logic/events/haley.rpy:258
 translate deutsch Haley_1_label_66e729ab:
 
     # Haley "And I know textbooks, believe me."
-    Haley ""
+    Haley "Und ich kenne viele Lehrbücher, glaube mir."
 
 # game/logic/events/haley.rpy:259
 translate deutsch Haley_1_label_af95aa64:
 
     # ch_Name "I believe you."
-    ch_Name ""
+    ch_Name "ich glaube dir."
 
 # game/logic/events/haley.rpy:260
 translate deutsch Haley_1_label_864f62a3:
 
     # ch_Name "{i}(Although I've never met such a fiery crammer before...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Obwohl ich noch nie so einen feurigen Krämer getroffen habe...){/i}"
 
 # game/logic/events/haley.rpy:262
 translate deutsch Haley_1_label_e67cc066:
 
     # Haley "I also spoke to Ms. Lapis!"
-    Haley ""
+    Haley "Ich habe auch mit Frau Lapis gesprochen!"
 
 # game/logic/events/haley.rpy:263
 translate deutsch Haley_1_label_1f9e4b76:
 
     # Haley "She agreed to discuss a thesis about the nature of magic."
-    Haley ""
+    Haley "Sie stimmte zu, eine These über die Natur der Magie zu diskutieren."
 
 # game/logic/events/haley.rpy:264
 translate deutsch Haley_1_label_194a01be:
 
     # Haley "After class."
-    Haley ""
+    Haley "Nach dem Unterricht."
 
 # game/logic/events/haley.rpy:265
 translate deutsch Haley_1_label_7e5b1b48:
 
     # ch_Name "An after-class class?{w} Wow!"
-    ch_Name ""
+    ch_Name "Ein Unterricht nach dem Unterricht?{w} Wow!"
 
 # game/logic/events/haley.rpy:267
 translate deutsch Haley_1_label_378fe9d5:
 
     # Haley "I'm looking forward to it!"
-    Haley ""
+    Haley "Ich freue mich schon darauf!"
 
 # game/logic/events/haley.rpy:268
 translate deutsch Haley_1_label_ce89db53:
 
     # Haley "This place is just a treasure trove of knowledge."
-    Haley ""
+    Haley "Dieser Ort ist eine Fundgrube des Wissens."
 
 # game/logic/events/haley.rpy:269
 translate deutsch Haley_1_label_16ca2fd4:
 
     # Haley "I'm so happy!"
-    Haley ""
+    Haley "Ich bin so glücklich!"
 
 # game/logic/events/haley.rpy:270
 translate deutsch Haley_1_label_fe6574e0:
 
     # ch_Name "I'm happy for you."
-    ch_Name ""
+    ch_Name "Ich freue mich für dich."
 
 # game/logic/events/haley.rpy:271
 translate deutsch Haley_1_label_f738ad64:
 
     # ch_Name "But are you only interested in knowledge?"
-    ch_Name ""
+    ch_Name "Aber interessiert dich nur das Wissen?"
 
 # game/logic/events/haley.rpy:273
 translate deutsch Haley_1_label_82f6e7f6:
 
     # Haley "What do you mean?"
-    Haley ""
+    Haley "Was meinst du?"
 
 # game/logic/events/haley.rpy:274
 translate deutsch Haley_1_label_212d1aa3:
 
     # Haley "We're in the academy."
-    Haley ""
+    Haley "Wir sind in der Akademie."
 
 # game/logic/events/haley.rpy:275
 translate deutsch Haley_1_label_ba0ae2b9:
 
     # ch_Name "So what?"
-    ch_Name ""
+    ch_Name "Und weiter?"
 
 # game/logic/events/haley.rpy:276
 translate deutsch Haley_1_label_8ea79ec9:
 
     # ch_Name "We still have a few more years studying and living within these walls."
-    ch_Name ""
+    ch_Name "Wir haben noch ein paar Jahre Zeit, in diesen Mauern zu studieren und zu leben."
 
 # game/logic/events/haley.rpy:278
 translate deutsch Haley_1_label_61f08724:
 
     # Haley "What's your point?"
-    Haley ""
+    Haley "Worauf willst du hinaus?"
 
 # game/logic/events/haley.rpy:279
 translate deutsch Haley_1_label_a04a7c80:
 
     # ch_Name "I'm saying it's worth exploring more than just the library and the classrooms."
-    ch_Name ""
+    ch_Name "Ich sage, es lohnt sich, mehr als nur die Bibliothek und die Klassenzimmer zu erkunden."
 
 # game/logic/events/haley.rpy:280
 translate deutsch Haley_1_label_9b66cc9e:
 
     # ch_Name "Have you been to the local cafe yet?"
-    ch_Name ""
+    ch_Name "Warst du schon im Café hier am Campus?"
 
 # game/logic/events/haley.rpy:282
 translate deutsch Haley_1_label_5991cf7f:
 
     # Haley "Um... I don't remember."
-    Haley ""
+    Haley "Ähm ... ich könnte mich nicht erinnern."
 
 # game/logic/events/haley.rpy:283
 translate deutsch Haley_1_label_68ccf651:
 
     # ch_Name "There!"
-    ch_Name ""
+    ch_Name "Da haben wirs!"
 
 # game/logic/events/haley.rpy:284
 translate deutsch Haley_1_label_9f295f1b:
 
     # ch_Name "Let's start there."
-    ch_Name ""
+    ch_Name "Lass uns damit beginnen"
 
 # game/logic/events/haley.rpy:286
 translate deutsch Haley_1_label_dbe7be5a:
 
     # Haley "I don't know...{w} I have so much to learn..."
-    Haley ""
+    Haley "Ich weiß nicht...{w} Ich muss noch so viel lernen..."
 
 # game/logic/events/haley.rpy:287
 translate deutsch Haley_1_label_a35ad5c5:
 
     # Haley "I'll check my diary."
-    Haley ""
+    Haley "Ich überprüfe meinen Kalender."
 
 # game/logic/events/haley.rpy:288
 translate deutsch Haley_1_label_19e92eb5:
 
     # ch_Name "I didn't say today."
-    ch_Name ""
+    ch_Name "Ich habe nicht gesagt heute."
 
 # game/logic/events/haley.rpy:290
 translate deutsch Haley_1_label_8db2c2c9:
 
     # Haley "Then when?"
-    Haley ""
+    Haley "Wann denn?"
 
 # game/logic/events/haley.rpy:291
 translate deutsch Haley_1_label_a9d160fd:
 
     # ch_Name "I won't tell you."
-    ch_Name ""
+    ch_Name "Das werde ich dir nicht sagen."
 
 # game/logic/events/haley.rpy:292
 translate deutsch Haley_1_label_55b5978b:
 
     # Haley "Why not?"
-    Haley ""
+    Haley "Warum nicht?"
 
 # game/logic/events/haley.rpy:293
 translate deutsch Haley_1_label_ee104b16:
 
     # ch_Name "You sorely lack spontaneity in your life."
-    ch_Name ""
+    ch_Name "Dir fehlt es sehr an Spontanität in deinem Leben."
 
 # game/logic/events/haley.rpy:294
 translate deutsch Haley_1_label_737b5fcc:
 
     # ch_Name "So I'm in charge now."
-    ch_Name ""
+    ch_Name "Also habe ich jetzt das sagen."
 
 # game/logic/events/haley.rpy:296
 translate deutsch Haley_1_label_086dcc26:
 
     # Haley "But..."
-    Haley ""
+    Haley "Aber..."
 
 # game/logic/events/haley.rpy:297
 translate deutsch Haley_1_label_b4a6504c:
 
     # ch_Name "Objections will only be accepted via e-mail."
-    ch_Name ""
+    ch_Name "Einsprüche werden nur per E-Mail entgegengenommen."
 
 # game/logic/events/haley.rpy:298
 translate deutsch Haley_1_label_36afb4ff:
 
     # ch_Name "I'll pick you up."
-    ch_Name ""
+    ch_Name "Ich hol dich ab."
 
 # game/logic/events/haley.rpy:300
 translate deutsch Haley_1_label_2b39e5c6:
 
     # Haley "Wait, wait, wait, wait, wait, wait."
-    Haley ""
+    Haley "Warte, warte, warte, warte, warte, warte."
 
 # game/logic/events/haley.rpy:301
 translate deutsch Haley_1_label_339ba79f:
 
     # Haley "Let's just make it tonight, okay?"
-    Haley ""
+    Haley "Lass es uns heute Abend machen, okay?"
 
 # game/logic/events/haley.rpy:302
 translate deutsch Haley_1_label_40f63cf1:
 
     # ch_Name "Okay, no problem."
-    ch_Name ""
+    ch_Name "Okay kein Problem."
 
 # game/logic/events/haley.rpy:303
 translate deutsch Haley_1_label_1eb7aee8:
 
     # ch_Name "Dates are usually at night, right?"
-    ch_Name ""
+    ch_Name "Dates sind normalerweise nachts, richtig?"
 
 # game/logic/events/haley.rpy:305
 translate deutsch Haley_1_label_891be4b8:
 
     # Haley "Dates?"
-    Haley ""
+    Haley "Dates?"
 
 # game/logic/events/haley.rpy:306
 translate deutsch Haley_1_label_809954e6:
 
     # ch_Name "All right, it's a deal."
-    ch_Name ""
+    ch_Name "In Ordnung, ich bin einverstanden."
 
 # game/logic/events/haley.rpy:308
 translate deutsch Haley_1_label_2b1649dc:
 
     # ch_Name "Maybe after cafe we can..."
-    ch_Name ""
+    ch_Name "Vielleicht können wir nach dem Café..."
 
 # game/logic/events/haley.rpy:310
 translate deutsch Haley_1_label_3e427bc2:
 
     # "Victoria" "Mister [Surname]! Maybe you've come here to chat."
-    "Victoria" ""
+    "Victoria" "Herr [Surname]! Vielleicht sind Sie hierher gekommen, um zu plaudern."
 
 # game/logic/events/haley.rpy:311
 translate deutsch Haley_1_label_1934be48:
 
     # "Victoria" "But other students are here to study."
-    "Victoria" ""
+    "Victoria" "Aber andere Studenten sind hier, um zu lernen."
 
 # game/logic/events/haley.rpy:312
 translate deutsch Haley_1_label_872ff8b7:
 
     # "Victoria" "So, please, take your place and don't distract miss Ranger."
-    "Victoria" ""
+    "Victoria" "Also nehmen Sie bitte Ihren Platz ein und lenken Sie Miss Ranger nicht ab."
 
 # game/logic/events/haley.rpy:313
 translate deutsch Haley_1_label_4eefd107:
 
     # ch_Name "All right, ma'am."
-    ch_Name ""
+    ch_Name "In Ordnung, Madam."
 
 # game/logic/events/haley.rpy:326
 translate deutsch Haley_2_label_c4c30f90:
 
     # ch_Name "{i}(Haley wanted me to meet her in her room.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Haley wollte, dass ich sie in ihrem Zimmer treffe.){/i}"
 
 # game/logic/events/haley.rpy:327
 translate deutsch Haley_2_label_c50a2184:
 
     # ch_Name "{i}(I hope I won't spoil this. Why am I so nervous about this?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich hoffe, ich werde das nicht vermasseln. Warum bin ich deswegen so nervös?){/i}"
 
 # game/logic/events/haley.rpy:328
 translate deutsch Haley_2_label_f1221776:
 
     # ch_Name "{i}(It's been a while since I was on a date with a girl that cute.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Es ist schon eine Weile her, seit ich mit einem so süßen Mädchen verabredet war.){/i}"
 
 # game/logic/events/haley.rpy:329
 translate deutsch Haley_2_label_8fef342b:
 
     # ch_Name "{i}(Ever since my injury, I had no confidence to ask anyone out.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Seit meiner Verletzung habe ich mich nicht getraut, jemanden um ein Date zu bitten.){/i}"
 
 # game/logic/events/haley.rpy:330
 translate deutsch Haley_2_label_07f25072:
 
     # ch_Name "{i}(But old life is over. Begone, anxiety! Today is my day, I feel it.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aber das alte Leben ist vorbei. Verschwinde, Angst! Heute ist mein Tag, ich fühle es.){/i}"
 
 # game/logic/events/haley.rpy:333
 translate deutsch Haley_2_label_4aa97c28:
 
     # ch_Name "{i}(Wow! I can't take my eyes off her...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wow! Ich kann meine Augen nicht von ihr abwenden...){/i}"
 
 # game/logic/events/haley.rpy:334
 translate deutsch Haley_2_label_b14a12ef:
 
     # ch_Name "Haley!"
-    ch_Name ""
+    ch_Name "Haley!"
 
 # game/logic/events/haley.rpy:335
 translate deutsch Haley_2_label_40e53625:
 
     # ch_Name "You look great!"
-    ch_Name ""
+    ch_Name "Du siehst super aus!"
 
 # game/logic/events/haley.rpy:337
 translate deutsch Haley_2_label_e68fef8e:
 
     # Haley "Hi, [Name]. Thank you."
-    Haley ""
+    Haley "Hallo, [Name]. Danke schön."
 
 # game/logic/events/haley.rpy:338
 translate deutsch Haley_2_label_ebecb59f:
 
     # Haley "Shall we go?"
-    Haley ""
+    Haley "Wollen wir gehen?"
 
 # game/logic/events/haley.rpy:339
 translate deutsch Haley_2_label_eb198629:
 
     # ch_Name "What eagerness!"
-    ch_Name ""
+    ch_Name "Was für ein Eifer!"
 
 # game/logic/events/haley.rpy:340
 translate deutsch Haley_2_label_3db9de81:
 
     # ch_Name "You're in a hurry to get back to your books, aren't you?"
-    ch_Name ""
+    ch_Name "Du hast es eilig, zu deinen Büchern zurückzukehren, nicht wahr?"
 
 # game/logic/events/haley.rpy:342
 translate deutsch Haley_2_label_7c37047b:
 
     # Haley "Why are you like that?"
-    Haley ""
+    Haley "Warum bist du so?"
 
 # game/logic/events/haley.rpy:343
 translate deutsch Haley_2_label_7a67670e:
 
     # ch_Name "I didn't mean to offend you. I was just kidding."
-    ch_Name ""
+    ch_Name "Ich wollte dich nicht beleidigen. Ich habe nur Spaß gemacht."
 
 # game/logic/events/haley.rpy:344
 translate deutsch Haley_2_label_57abb76e:
 
     # ch_Name "Your speech about the magic textbook was so passionate..."
-    ch_Name ""
+    ch_Name "Dein Vortrag über das Zauberlehrbuch war so leidenschaftlich..."
 
 # game/logic/events/haley.rpy:346
 translate deutsch Haley_2_label_5168f873:
 
     # Haley "Stupid!"
-    Haley ""
+    Haley "Dummkopf!"
 
 # game/logic/events/haley.rpy:347
 translate deutsch Haley_2_label_3cb12b83:
 
     # ch_Name "Heh."
-    ch_Name ""
+    ch_Name "Heh."
 
 # game/logic/events/haley.rpy:348
 translate deutsch Haley_2_label_8427d115:
 
     # ch_Name "Let's hurry up, I'm starving."
-    ch_Name ""
+    ch_Name "Beeilen wir uns, ich verhungere."
 
 # game/logic/events/haley.rpy:352
 translate deutsch Haley_2_label_882339de:
 
     # Haley "It's beautiful here!"
-    Haley ""
+    Haley "Es ist schön hier!"
 
 # game/logic/events/haley.rpy:354
 translate deutsch Haley_2_label_9a101677:
 
     # ch_Name "It really is.{w} There's something magical about nature."
-    ch_Name ""
+    ch_Name "Das ist es wirklich.{w} Die Natur hat etwas Magisches."
 
 # game/logic/events/haley.rpy:355
 translate deutsch Haley_2_label_bf635b7f:
 
     # Haley "Do you think the world will ever be the same for us?"
-    Haley ""
+    Haley "Glaubst du, die Welt wird für uns jemals wieder dieselbe sein?"
 
 # game/logic/events/haley.rpy:357
 translate deutsch Haley_2_label_bd67f888:
 
     # ch_Name "What do you mean?"
-    ch_Name ""
+    ch_Name "Was meinst du?"
 
 # game/logic/events/haley.rpy:358
 translate deutsch Haley_2_label_97a696eb:
 
     # Haley "Well, there's magic all around..."
-    Haley ""
+    Haley "Naja, es gibt überall Magie ..."
 
 # game/logic/events/haley.rpy:359
 translate deutsch Haley_2_label_8c616a63:
 
     # Haley "Is everything here so saturated with magic?"
-    Haley ""
+    Haley "Ist alles hier so stark von Magie erfüllt?"
 
 # game/logic/events/haley.rpy:360
 translate deutsch Haley_2_label_7ee350a4:
 
     # Haley "Or have we just learned to feel it around us?"
-    Haley ""
+    Haley "Oder haben wir nur gelernt, sie um uns herum zu spüren?"
 
 # game/logic/events/haley.rpy:362
 translate deutsch Haley_2_label_4e80c554:
 
     # ch_Name "Hmm. Wait, what's the difference?"
-    ch_Name ""
+    ch_Name "Hmm. Warte, was ist der Unterschied?"
 
 # game/logic/events/haley.rpy:363
 translate deutsch Haley_2_label_750ab213:
 
     # Haley "If it's the latter, then we'll be able to feel the magic around us when we get home."
-    Haley ""
+    Haley "Wenn es letzteres ist, können wir die Magie um uns herum spüren, wenn wir nach Hause kommen."
 
 # game/logic/events/haley.rpy:364
 translate deutsch Haley_2_label_8f550396:
 
     # ch_Name "I never really thought about it."
-    ch_Name ""
+    ch_Name "Ich habe nie wirklich darüber nachgedacht."
 
 # game/logic/events/haley.rpy:366
 translate deutsch Haley_2_label_b61b65f7:
 
     # Haley "Can you imagine how depressing it would be in the summer?"
-    Haley ""
+    Haley "Kannst du dir vorstellen, wie deprimierend es im Sommer wird?"
 
 # game/logic/events/haley.rpy:367
 translate deutsch Haley_2_label_f0ab2548:
 
     # Haley "To feel all that magic around and not be able to use it..."
-    Haley ""
+    Haley "All diese Magie um sich herum zu spüren und sie nicht nutzen zu können..."
 
 # game/logic/events/haley.rpy:369
 translate deutsch Haley_2_label_9e732e5e:
 
     # ch_Name "Don't worry about it."
-    ch_Name ""
+    ch_Name "Mach dir darum keine Sorgen."
 
 # game/logic/events/haley.rpy:370
 translate deutsch Haley_2_label_1b290aae:
 
     # ch_Name "Summer is still a long way off."
-    ch_Name ""
+    ch_Name "Der Sommer ist noch in weiter Ferne."
 
 # game/logic/events/haley.rpy:371
 translate deutsch Haley_2_label_bf998650:
 
     # ch_Name "You'll get tired of magic and miss the benefits of civilization."
-    ch_Name ""
+    ch_Name "Du wirst der Magie überdrüssig und vermisst die Vorteile der Zivilisation."
 
 # game/logic/events/haley.rpy:373
 translate deutsch Haley_2_label_585e7d27:
 
     # Haley "You think so?"
-    Haley ""
+    Haley "Glaubst du das wirklich?"
 
 # game/logic/events/haley.rpy:374
 translate deutsch Haley_2_label_f6f76b7b:
 
     # ch_Name "Of course."
-    ch_Name ""
+    ch_Name "Natürlich."
 
 # game/logic/events/haley.rpy:375
 translate deutsch Haley_2_label_162a6165:
 
     # ch_Name "Let's get inside. "
-    ch_Name ""
+    ch_Name "Lass uns hinein gehen."
 
 # game/logic/events/haley.rpy:383
 translate deutsch Haley_3_label_0d8dd159:
 
     # ch_Name "Everything looks so yummy!"
-    ch_Name ""
+    ch_Name "Alles sieht so lecker aus!"
 
 # game/logic/events/haley.rpy:385
 translate deutsch Haley_3_label_38d697ad:
 
     # Haley "Bon appetit!"
-    Haley ""
+    Haley "Lass es dir schmecken!"
 
 # game/logic/events/haley.rpy:386
 translate deutsch Haley_3_label_79227660:
 
     # ch_Name "You, too."
-    ch_Name ""
+    ch_Name "Du auch."
 
 # game/logic/events/haley.rpy:388
 translate deutsch Haley_3_label_ca411f22:
 
     # ch_Name "{i}(Hmm, she chews so neatly.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm, sie kaut so ordentlich.){/i}"
 
 # game/logic/events/haley.rpy:389
 translate deutsch Haley_3_label_ef0bea22:
 
     # ch_Name "{i}(Strange... I've never paid attention to the way my companions eat.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Seltsam... Ich habe nie darauf geachtet, wie meine Begleiter essen.){/i}"
 
 # game/logic/events/haley.rpy:390
 translate deutsch Haley_3_label_0ff80617:
 
     # ch_Name "{i}(Maybe I'm staring too hard.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vielleicht starre ich zu viel.){/i}"
 
 # game/logic/events/haley.rpy:392
 translate deutsch Haley_3_label_bb5c0416:
 
     # Haley "What?"
-    Haley ""
+    Haley "Was?"
 
 # game/logic/events/haley.rpy:393
 translate deutsch Haley_3_label_12348df1:
 
     # Haley "Would you like to try some?"
-    Haley ""
+    Haley "Möchtest du etwas probieren?"
 
 # game/logic/events/haley.rpy:394
 translate deutsch Haley_3_label_7db1f49e:
 
     # ch_Name "А? What?{w} No, no, thank you."
-    ch_Name ""
+    ch_Name "Аh? Was?{w} Nein, nein, danke."
 
 # game/logic/events/haley.rpy:396
 translate deutsch Haley_3_label_f0a16699:
 
     # Haley "It's just that you were looking so closely..."
-    Haley ""
+    Haley "Du hast nur so genau hingeschaut..."
 
 # game/logic/events/haley.rpy:397
 translate deutsch Haley_3_label_2d8efd58:
 
     # ch_Name "{i}(She did notice, though!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sie hat es bemerkt!){/i}"
 
 # game/logic/events/haley.rpy:398
 translate deutsch Haley_3_label_db6fd9ae:
 
     # ch_Name "I was just thinking.{w} Nevermind."
-    ch_Name ""
+    ch_Name "Ich habe nur nachgedacht.{w} Ach vergiss es."
 
 # game/logic/events/haley.rpy:400
 translate deutsch Haley_3_label_659ee22f:
 
     # Haley "Whatever you say, I don't mind."
-    Haley ""
+    Haley "Wenn du das sagst, schon vergessen."
 
 # game/logic/events/haley.rpy:401
 translate deutsch Haley_3_label_823610fb:
 
     # ch_Name "{i}(Whew... got through that.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Puh... Gerade noch gerettet.){/i}"
 
 # game/logic/events/haley.rpy:403
 translate deutsch Haley_3_label_0af9c279:
 
     # Haley "What were you thinking about?"
-    Haley ""
+    Haley "Worüber hast du nachgedacht?"
 
 # game/logic/events/haley.rpy:404
 translate deutsch Haley_3_label_8afa3ab3:
 
     # ch_Name "{i}(Dammit!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Verdammt!){/i}"
 
 # game/logic/events/haley.rpy:405
 translate deutsch Haley_3_label_400f6882:
 
     # ch_Name "About your..."
-    ch_Name ""
+    ch_Name "Darüber..."
 
 # game/logic/events/haley.rpy:409
 translate deutsch Haley_3_label_9e2a8258:
 
     # ch_Name "About how you said we'll never be the same again."
-    ch_Name ""
+    ch_Name "Wie du gesagt hast, dass wir nie wieder dieselben sein werden."
 
 # game/logic/events/haley.rpy:411
 translate deutsch Haley_3_label_60c1064c:
 
     # Haley "Ah-ha-ha-ha."
-    Haley ""
+    Haley "Ha-ha-ha-ha."
 
 # game/logic/events/haley.rpy:412
 translate deutsch Haley_3_label_5a2b8c6f:
 
     # ch_Name "What's the big deal?"
-    ch_Name ""
+    ch_Name "Was ist schon dabei?"
 
 # game/logic/events/haley.rpy:414
 translate deutsch Haley_3_label_a93d5cb9:
 
     # Haley "Shit..."
-    Haley ""
+    Haley "Verdammt..."
 
 # game/logic/events/haley.rpy:415
 translate deutsch Haley_3_label_48d9dff5:
 
     # Haley "I was sure that was one of your jokes!"
-    Haley ""
+    Haley "Ich war mir sicher, das war einer deiner Witze!"
 
 # game/logic/events/haley.rpy:416
 translate deutsch Haley_3_label_be3e5e5b:
 
     # ch_Name "Why would it be?"
-    ch_Name ""
+    ch_Name "Warum glaubst du das?"
 
 # game/logic/events/haley.rpy:418
 translate deutsch Haley_3_label_229a09fa:
 
     # Haley "Well, it's just that you..."
-    Haley ""
+    Haley "Nun, es ist nur so, dass du..."
 
 # game/logic/events/haley.rpy:419
 translate deutsch Haley_3_label_8bc527ae:
 
     # Haley "I'm sorry, I'll be blunt..."
-    Haley ""
+    Haley "Es tut mir leid, ich werde direkt sein ..."
 
 # game/logic/events/haley.rpy:420
 translate deutsch Haley_3_label_1a632ef5:
 
     # Haley "You don't strike me as a romantic."
-    Haley ""
+    Haley "Du kommst mir nicht wie ein romantiker vor."
 
 # game/logic/events/haley.rpy:421
 translate deutsch Haley_3_label_bd67f888:
 
     # ch_Name "What do you mean?"
-    ch_Name ""
+    ch_Name "Was meinst du?"
 
 # game/logic/events/haley.rpy:422
 translate deutsch Haley_3_label_587c8404:
 
     # Haley "We haven't known each other very long, but..."
-    Haley ""
+    Haley "Wir kennen uns noch nicht lange, aber..."
 
 # game/logic/events/haley.rpy:423
 translate deutsch Haley_3_label_b37429c5:
 
     # Haley "You seem like a simpler, more straightforward kind of guy."
-    Haley ""
+    Haley "Du scheinst ein einfacherer, direkter Typ zu sein."
 
 # game/logic/events/haley.rpy:425
 translate deutsch Haley_3_label_01f64327:
 
     # Haley "Not the kind of guy who would sit with a girl in a cafe and think about eternal things."
-    Haley ""
+    Haley "Nicht der Typ, der mit einem Mädchen in einem Café sitzt und über tiefgründige Dinge nachdenkt."
 
 # game/logic/events/haley.rpy:426
 translate deutsch Haley_3_label_728b62d2:
 
     # Haley "I'd be less surprised if you were staring at my chest."
-    Haley ""
+    Haley "Ich wäre nicht überrascht, wenn du auf meine Brüste starren würdest."
 
 # game/logic/events/haley.rpy:427
 translate deutsch Haley_3_label_37a799c4:
 
     # ch_Name "You're hurting my feelings."
-    ch_Name ""
+    ch_Name "Du verletzt meine Gefühle."
 
 # game/logic/events/haley.rpy:428
 translate deutsch Haley_3_label_5e27b2af:
 
     # ch_Name "I've been looking at your boobs for a long time!"
-    ch_Name ""
+    ch_Name "Ich habe lange auf deine Brüste geschaut!"
 
 # game/logic/events/haley.rpy:430
 translate deutsch Haley_3_label_4c61576c:
 
     # Haley "There! That's what I'm talking about!"
-    Haley ""
+    Haley "Da! Genau das meine ich!"
 
 # game/logic/events/haley.rpy:431
 translate deutsch Haley_3_label_6d5eb6b8:
 
     # ch_Name "I'm a multifaceted person."
-    ch_Name ""
+    ch_Name "Ich bin eine vielschichtige Person."
 
 # game/logic/events/haley.rpy:432
 translate deutsch Haley_3_label_d6f40943:
 
     # Haley "Forget it."
-    Haley ""
+    Haley "Vergiss es."
 
 # game/logic/events/haley.rpy:439
 translate deutsch Haley_3_label_f8a9adee:
 
     # ch_Name "About your eyes."
-    ch_Name ""
+    ch_Name "Aber deine Augen."
 
 # game/logic/events/haley.rpy:441
 translate deutsch Haley_3_label_53319468:
 
     # Haley "W-what, excuse me?"
-    Haley ""
+    Haley "W-Was meinst du?"
 
 # game/logic/events/haley.rpy:442
 translate deutsch Haley_3_label_83c31c2e:
 
     # ch_Name "I didn't mean to sound creepy..."
-    ch_Name ""
+    ch_Name "Ich will nicht komisch klingen..."
 
 # game/logic/events/haley.rpy:444
 translate deutsch Haley_3_label_3bf803fb:
 
     # ch_Name "It's just, I don't know if it's the magic in the air..."
-    ch_Name ""
+    ch_Name "Es ist nur, ich weiß nicht, ob es die Magie in der Luft ist..."
 
 # game/logic/events/haley.rpy:445
 translate deutsch Haley_3_label_d5468db1:
 
     # ch_Name "...or if you have really expressive eyes..."
-    ch_Name ""
+    ch_Name "...oder ob du wirklich so ausdrucksstarke Augen hast..."
 
 # game/logic/events/haley.rpy:446
 translate deutsch Haley_3_label_53f169e7:
 
     # ch_Name "I got a little lost in them."
-    ch_Name ""
+    ch_Name "Ich habe mich ein wenig in ihnen verloren."
 
 # game/logic/events/haley.rpy:448
 translate deutsch Haley_3_label_325a0981:
 
     # Haley "[Name]... Are you serious?"
-    Haley ""
+    Haley "[Name]... meinst du das ernst?"
 
 # game/logic/events/haley.rpy:449
 translate deutsch Haley_3_label_f9247aa8:
 
     # Haley "I'd sooner believe that you're dreaming about my sushi."
-    Haley ""
+    Haley "Ich würde eher glauben, dass du von meinem Sushi träumst."
 
 # game/logic/events/haley.rpy:450
 translate deutsch Haley_3_label_1855220c:
 
     # ch_Name "What?"
-    ch_Name ""
+    ch_Name "Was?"
 
 # game/logic/events/haley.rpy:452
 translate deutsch Haley_3_label_229a09fa_1:
 
     # Haley "Well, it's just that you..."
-    Haley ""
+    Haley "Nun, es ist nur so, dass du..."
 
 # game/logic/events/haley.rpy:453
 translate deutsch Haley_3_label_8bc527ae_1:
 
     # Haley "I'm sorry, I'll be blunt..."
-    Haley ""
+    Haley "Es tut mir leid, ich werde direkt sein ..."
 
 # game/logic/events/haley.rpy:455
 translate deutsch Haley_3_label_59bd2de2:
 
     # Molly "Your order."
-    Molly ""
+    Molly "Deine Bestellung."
 
 # game/logic/events/haley.rpy:464
 translate deutsch Haley_3_label_47c32155:
 
     # ch_Name "Thank you very much."
-    ch_Name ""
+    ch_Name "Vielen Dank"
 
 # game/logic/events/haley.rpy:465
 translate deutsch Haley_3_label_3da0c332:
 
     # Haley "Thank you."
-    Haley ""
+    Haley "Danke"
 
 # game/logic/events/haley.rpy:467
 translate deutsch Haley_3_label_7e449dae:
 
     # ch_Name "{i}(Check this out!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sieh dir das an!){/i}"
 
 # game/logic/events/haley.rpy:469
 translate deutsch Haley_3_label_e980dd76:
 
     # ch_Name "{i}(That's the kind of service I like.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Das ist die Art von Service, die ich mag.){/i}"
 
 # game/logic/events/haley.rpy:470
 translate deutsch Haley_3_label_4c82cd65:
 
     # ch_Name "{i}(No wonder Molly gets so many tips.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kein Wunder, dass Molly so viel Trinkgeld bekommt.){/i}"
 
 # game/logic/events/haley.rpy:472
 translate deutsch Haley_3_label_c5289494:
 
     # Haley "Hey, buddy."
-    Haley ""
+    Haley "Hey, Freundchen."
 
 # game/logic/events/haley.rpy:473
 translate deutsch Haley_3_label_de879303:
 
     # ch_Name "Oh... I was just..."
-    ch_Name ""
+    ch_Name "Oh ... ich habe nur ..."
 
 # game/logic/events/haley.rpy:475
 translate deutsch Haley_3_label_77a2e829:
 
     # Haley "Proving to me that you weren't joking about being a perv?"
-    Haley ""
+    Haley "Bewiesen, dass es kein Witz war dass du ein Perversling bist?"
 
 # game/logic/events/haley.rpy:476
 translate deutsch Haley_3_label_4693860c:
 
     # ch_Name "Sorry, let's pretend that didn't happen."
-    ch_Name ""
+    ch_Name "Entschuldigung, tun wir so, als wäre das nicht passiert."
 
 # game/logic/events/haley.rpy:480
 translate deutsch Haley_3_label_ingore_mollys_ass_309362dd:
 
     # ch_Name "You wanted to tell me something..."
-    ch_Name ""
+    ch_Name "Du wolltest mir etwas sagen..."
 
 # game/logic/events/haley.rpy:481
 translate deutsch Haley_3_label_ingore_mollys_ass_d6f40943:
 
     # Haley "Forget it."
-    Haley ""
+    Haley "Vergiss es."
 
 # game/logic/events/haley.rpy:482
 translate deutsch Haley_3_label_ingore_mollys_ass_8639843f:
 
     # ch_Name "No, come on. I'm curious!"
-    ch_Name ""
+    ch_Name "Nein Komm schon. Ich bin neugierig!"
 
 # game/logic/events/haley.rpy:484
 translate deutsch Haley_3_label_ingore_mollys_ass_7423cb53:
 
     # ch_Name "Why don't you believe my compliment is sincere?"
-    ch_Name ""
+    ch_Name "Warum glaubst du mir nicht, dass mein Kompliment aufrichtig ist?"
 
 # game/logic/events/haley.rpy:485
 translate deutsch Haley_3_label_ingore_mollys_ass_698cf441:
 
     # Haley "Well..."
-    Haley ""
+    Haley "Naja..."
 
 # game/logic/events/haley.rpy:487
 translate deutsch Haley_3_label_ingore_mollys_ass_6bfef549:
 
     # Haley "You don't strike me as a romantic!"
-    Haley ""
+    Haley "Du kommst mir nicht romantisch vor!"
 
 # game/logic/events/haley.rpy:488
 translate deutsch Haley_3_label_ingore_mollys_ass_bd67f888:
 
     # ch_Name "What do you mean?"
-    ch_Name ""
+    ch_Name "Was meinst du damit?"
 
 # game/logic/events/haley.rpy:489
 translate deutsch Haley_3_label_ingore_mollys_ass_587c8404:
 
     # Haley "We haven't known each other very long, but..."
-    Haley ""
+    Haley "Wir kennen uns noch nicht sehr lange, aber..."
 
 # game/logic/events/haley.rpy:490
 translate deutsch Haley_3_label_ingore_mollys_ass_b37429c5:
 
     # Haley "You seem like a simpler, more straightforward kind of guy."
-    Haley ""
+    Haley "Du scheinst ein einfacherer, direkter Typ zu sein."
 
 # game/logic/events/haley.rpy:492
 translate deutsch Haley_3_label_ingore_mollys_ass_8c69aeeb:
 
     # Haley "Not the kind of guy who would sit with a girl in a café and think about eternal things."
-    Haley ""
+    Haley "Nicht der Typ, der mit einem Mädchen in einem Café sitzt und über tiefgründige Dinge nachdenkt."
 
 # game/logic/events/haley.rpy:493
 translate deutsch Haley_3_label_ingore_mollys_ass_728b62d2:
 
     # Haley "I'd be less surprised if you were staring at my chest."
-    Haley ""
+    Haley "Ich wäre nicht überrascht, wenn du auf meine Brüste starren würdest."
 
 # game/logic/events/haley.rpy:494
 translate deutsch Haley_3_label_ingore_mollys_ass_37a799c4:
 
     # ch_Name "You're hurting my feelings."
-    ch_Name ""
+    ch_Name "Du verletzt meine Gefühle."
 
 # game/logic/events/haley.rpy:496
 translate deutsch Haley_3_label_ingore_mollys_ass_5e27b2af:
 
     # ch_Name "I've been looking at your boobs for a long time!"
-    ch_Name ""
+    ch_Name "Ich habe lange auf deine Brüste geschaut!"
 
 # game/logic/events/haley.rpy:497
 translate deutsch Haley_3_label_ingore_mollys_ass_4c61576c:
 
     # Haley "There! That's what I'm talking about!"
-    Haley ""
+    Haley "Da! Genau das meine ich!"
 
 # game/logic/events/haley.rpy:498
 translate deutsch Haley_3_label_ingore_mollys_ass_6d5eb6b8:
 
     # ch_Name "I'm a multifaceted person."
-    ch_Name ""
+    ch_Name "Ich bin eine vielschichtige Person"
 
 # game/logic/events/haley.rpy:499
 translate deutsch Haley_3_label_ingore_mollys_ass_b60dfe73:
 
     # Haley "Never mind."
-    Haley ""
+    Haley "Vergiss es"
 
 # game/logic/events/haley.rpy:503
 translate deutsch Haley_3_label_mtp_1_76a73585:
 
     # Haley "Anyway, spit it out!"
-    Haley ""
+    Haley "Wie auch immer, spuck es aus!"
 
 # game/logic/events/haley.rpy:504
 translate deutsch Haley_3_label_mtp_1_bd67f888:
 
     # ch_Name "What do you mean?"
-    ch_Name ""
+    ch_Name "Was meinst du?"
 
 # game/logic/events/haley.rpy:505
 translate deutsch Haley_3_label_mtp_1_cd6d28bd:
 
     # Haley "Tell me why you called me here."
-    Haley ""
+    Haley "Sag mir, warum du mich hierher gerufen hast."
 
 # game/logic/events/haley.rpy:506
 translate deutsch Haley_3_label_mtp_1_8e3f5ba5:
 
     # ch_Name "What do you mean..."
-    ch_Name ""
+    ch_Name "Was meinst du..."
 
 # game/logic/events/haley.rpy:508
 translate deutsch Haley_3_label_mtp_1_906ff982:
 
     # Haley "You wanted to talk about something?"
-    Haley ""
+    Haley "Du wolltest über etwas reden?"
 
 # game/logic/events/haley.rpy:509
 translate deutsch Haley_3_label_mtp_1_88a0bf08:
 
     # Haley "To talk about the basics of magic?"
-    Haley ""
+    Haley "Wolltest du über die Grundlagen der Magie sprechen?"
 
 # game/logic/events/haley.rpy:510
 translate deutsch Haley_3_label_mtp_1_aeee42f4:
 
     # Haley "Maybe practice some magic together?"
-    Haley ""
+    Haley "Vielleicht gemeinsam zaubern trainieren?"
 
 # game/logic/events/haley.rpy:512
 translate deutsch Haley_3_label_mtp_1_831ab89e:
 
     # Haley "Or were you trying to trick me?"
-    Haley ""
+    Haley "Oder wolltest du mich austricksen?"
 
 # game/logic/events/haley.rpy:513
 translate deutsch Haley_3_label_mtp_1_2c59a5ba:
 
     # ch_Name "Is it working?"
-    ch_Name ""
+    ch_Name "Funktioniert es denn?"
 
 # game/logic/events/haley.rpy:514
 translate deutsch Haley_3_label_mtp_1_814da241:
 
     # Haley "I knew it!"
-    Haley ""
+    Haley "Ich wusste es!"
 
 # game/logic/events/haley.rpy:515
 translate deutsch Haley_3_label_mtp_1_532cb1d7:
 
     # ch_Name "I was just kidding!"
-    ch_Name ""
+    ch_Name "Ich habe nur Spaß gemacht!"
 
 # game/logic/events/haley.rpy:516
 translate deutsch Haley_3_label_mtp_1_02d86417:
 
     # ch_Name "You're desperately lacking in simple impulses in your life."
-    ch_Name ""
+    ch_Name "Du brauchst einfach dringend mehr Abwechslung in deinen Leben."
 
 # game/logic/events/haley.rpy:518
 translate deutsch Haley_3_label_mtp_1_4ef1da60:
 
     # ch_Name "I asked you out because I wanted to ask you out."
-    ch_Name ""
+    ch_Name "Ich habe dich um ein Date gebeten, weil ich dich um ein Date bitten wollte."
 
 # game/logic/events/haley.rpy:519
 translate deutsch Haley_3_label_mtp_1_e25e13ae:
 
     # ch_Name "I hardly know anybody here but you."
-    ch_Name ""
+    ch_Name "Ich kenne hier kaum jemanden außer dir."
 
 # game/logic/events/haley.rpy:520
 translate deutsch Haley_3_label_mtp_1_33d33358:
 
     # ch_Name "And I thought we had a great time on the train..."
-    ch_Name ""
+    ch_Name "Und ich dachte, wir hatten eine tolle Zeit im Zug..."
 
 # game/logic/events/haley.rpy:521
 translate deutsch Haley_3_label_mtp_1_aae9b149:
 
     # Haley "Yeah, you were a lot of fun."
-    Haley ""
+    Haley "Ja, es hat mir viel Spaß gemacht."
 
 # game/logic/events/haley.rpy:523
 translate deutsch Haley_3_label_mtp_1_0d90dbfd:
 
     # Haley "I'm sorry for jumping to the punch line."
-    Haley ""
+    Haley "Es tut mir leid, dass ich so direkt geworden bin."
 
 # game/logic/events/haley.rpy:524
 translate deutsch Haley_3_label_mtp_1_e97a8ec5:
 
     # Haley "In high school, guys often pretended to be interested in me."
-    Haley ""
+    Haley "In der High School gaben Jungs oft vor, an mir interessiert zu sein."
 
 # game/logic/events/haley.rpy:525
 translate deutsch Haley_3_label_mtp_1_08026be0:
 
     # Haley "And in reality, they needed help in school."
-    Haley ""
+    Haley "Und in Wirklichkeit brauchten sie Hilfe in der Schule."
 
 # game/logic/events/haley.rpy:526
 translate deutsch Haley_3_label_mtp_1_3bdd86bf:
 
     # ch_Name "{i}(And what, no one wanted to get into your pants?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Und was, niemand wollte dir ans Höschen gehen?){/i}"
 
 # game/logic/events/haley.rpy:527
 translate deutsch Haley_3_label_mtp_1_7e1e62f6:
 
     # ch_Name "I'm sorry that you went to school with scumbags."
-    ch_Name ""
+    ch_Name "Es tut mir leid, dass du mit Drecksäcken zur Schule gegangen bist."
 
 # game/logic/events/haley.rpy:528
 translate deutsch Haley_3_label_mtp_1_24f66cf2:
 
     # ch_Name "But don't lump everyone together."
-    ch_Name ""
+    ch_Name "Aber wirf nicht alle in einen Topf"
 
 # game/logic/events/haley.rpy:530
 translate deutsch Haley_3_label_mtp_1_8e85b161:
 
     # ch_Name "Give me a chance and eventually you'll see what I'm really like."
-    ch_Name ""
+    ch_Name "Gib mir eine Chance und irgendwann wirst du sehen, wie ich wirklich bin."
 
 # game/logic/events/haley.rpy:531
 translate deutsch Haley_3_label_mtp_1_8ca419b8:
 
     # ch_Name "There's no other way."
-    ch_Name ""
+    ch_Name "Es gibt keinen anderen Weg."
 
 # game/logic/events/haley.rpy:532
 translate deutsch Haley_3_label_mtp_1_53e5b6ee:
 
     # Haley "Hmm. Okay."
-    Haley ""
+    Haley "Hmm. ok"
 
 # game/logic/events/haley.rpy:533
 translate deutsch Haley_3_label_mtp_1_8e70fb5c:
 
     # Haley "Friends?"
-    Haley ""
+    Haley "Freunde?"
 
 # game/logic/events/haley.rpy:534
 translate deutsch Haley_3_label_mtp_1_a93666d8:
 
     # ch_Name "Friends. For now."
-    ch_Name ""
+    ch_Name "Freunde. Fürs erste."
 
 # game/logic/events/haley.rpy:535
 translate deutsch Haley_3_label_mtp_1_a91a892c:
 
     # Haley "For now?!"
-    Haley ""
+    Haley "Fürs erste?"
 
 # game/logic/events/haley.rpy:536
 translate deutsch Haley_3_label_mtp_1_93d80927:
 
     # ch_Name "Who knows what you'll do..."
-    ch_Name ""
+    ch_Name "Wer weiß, was du tun wirst..."
 
 # game/logic/events/haley.rpy:537
 translate deutsch Haley_3_label_mtp_1_8c9cf574:
 
     # Haley "Heh, okay."
-    Haley ""
+    Haley "He, okay."
 
 # game/logic/events/haley.rpy:539
 translate deutsch Haley_3_label_mtp_1_16a49169:
 
     # Haley "Look, [Name], it was really nice to make a friend, but..."
-    Haley ""
+    Haley "Schau, [Name], es war wirklich schön, einen Freund zu finden, aber..."
 
 # game/logic/events/haley.rpy:540
 translate deutsch Haley_3_label_mtp_1_cfd44bd8:
 
     # ch_Name "Have we already had a fight?!"
-    ch_Name ""
+    ch_Name "Haben wir uns schon zerstritten?!"
 
 # game/logic/events/haley.rpy:541
 translate deutsch Haley_3_label_mtp_1_936bf0cb:
 
     # Haley "No, no! I have to finish my individual assignment from Victoria."
-    Haley ""
+    Haley "Nein, nein! Ich muss meine Einzelaufgabe von Victoria erledigen."
 
 # game/logic/events/haley.rpy:542
 translate deutsch Haley_3_label_mtp_1_0d4dc40c:
 
     # Haley "Gotta run!"
-    Haley ""
+    Haley "Ich muss los!"
 
 # game/logic/events/haley.rpy:543
 translate deutsch Haley_3_label_mtp_1_4d714413:
 
     # ch_Name "I get it. It's hard to let go and just stop being a straight-A student."
-    ch_Name ""
+    ch_Name "Ich verstehe es. Es ist schwer, loszulassen und einfach aufzuhören, ein Einser-Schüler zu sein."
 
 # game/logic/events/haley.rpy:544
 translate deutsch Haley_3_label_mtp_1_3b212891:
 
     # ch_Name "Just do what you think is right."
-    ch_Name ""
+    ch_Name "Mach einfach das, was du für richtig hältst."
 
 # game/logic/events/haley.rpy:546
 translate deutsch Haley_3_label_mtp_1_ede11384:
 
     # Haley "Thank you for a lovely evening."
-    Haley ""
+    Haley "Danke für den schönen Abend."
 
 # game/logic/events/haley.rpy:547
 translate deutsch Haley_3_label_mtp_1_79227660:
 
     # ch_Name "You, too."
-    ch_Name ""
+    ch_Name "Dir auch."
 
 # game/logic/events/haley.rpy:550
 translate deutsch Haley_3_label_mtp_1_d3cb92b3:
 
     # ch_Name "By the way, it just so happens, that I live in the same building."
-    ch_Name ""
+    ch_Name "Übrigens, es ist nunmal so, dass ich im selben Gebäude wohne."
 
 # game/logic/events/haley.rpy:551
 translate deutsch Haley_3_label_mtp_1_145e7ca2:
 
     # ch_Name "So if I don't seem too intrusive to you.{w} Can I walk you back to the dorm?"
-    ch_Name ""
+    ch_Name "Also, wenn ich dir nicht zu aufdringlich wirke.{w} Kann ich dich zurück zum Wohnheim bringen?"
 
 # game/logic/events/haley.rpy:552
 translate deutsch Haley_3_label_mtp_1_28466bed:
 
     # Haley "Intrusive? Not at all!"
-    Haley ""
+    Haley "Aufdringlich? Keineswegs!"
 
 # game/logic/events/haley.rpy:553
 translate deutsch Haley_3_label_mtp_1_86f3f234:
 
     # Haley "I'm sorry, I was so focused on Victoria's assigment, I spaced out a little."
-    Haley ""
+    Haley "Es tut mir leid, ich war so auf Victorias Aufgabe konzentriert, dass ich ein wenig Abwesend war."
 
 # game/logic/events/haley.rpy:554
 translate deutsch Haley_3_label_mtp_1_03ee8af7:
 
     # Haley "Sure you can. Let's go!"
-    Haley ""
+    Haley "Sicher kannst du mich heim bringen. Lass uns gehen!"
 
 # game/logic/events/haley.rpy:557
 translate deutsch Haley_3_label_mtp_1_d4ae486a:
 
     # ch_Name "{i}(Well, that date turned out to be pretty awkward.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nun, dieses Date stellte sich als ziemlich eigenartig heraus.){/i}"
 
 # game/logic/events/haley.rpy:558
 translate deutsch Haley_3_label_mtp_1_3dbd1262:
 
     # ch_Name "{i}(But somehow, it wasn't bad awkward. I think we had fun.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aber irgendwie war es auf eine gute art eigenartig. Ich glaube, wir hatten Spaß.){/i}"
 
 # game/logic/events/haley.rpy:559
 translate deutsch Haley_3_label_mtp_1_75ffe0d5:
 
     # ch_Name "{i}(I still can't believe no one was interested in Haley in high school.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich kann immer noch nicht glauben, dass sich in der High School niemand für Haley interessiert hat.){/i}"
 
 # game/logic/events/haley.rpy:560
 translate deutsch Haley_3_label_mtp_1_3640ea02:
 
     # ch_Name "{i}(Were her classmates blind?!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Waren ihre Klassenkameraden blind?!){/i}"
 
 # game/logic/events/haley.rpy:561
 translate deutsch Haley_3_label_mtp_1_b08483aa:
 
     # ch_Name "{i}(Anyway, I need to think of a plan to not get stuck in her friendzone.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wie auch immer, ich muss mir einen Plan überlegen, um nicht in ihrer Friendzone stecken zu bleiben.){/i}"
 
 # game/logic/events/haley.rpy:562
 translate deutsch Haley_3_label_mtp_1_20c5edb0:
 
     # ch_Name "{i}(But later. I have to get some sleep.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aber erst später. Ich muss etwas schlafen.){/i}"
 
 # game/logic/events/haley.rpy:573
 translate deutsch Haley_4_label_b14a12ef:
 
     # ch_Name "Haley!"
-    ch_Name ""
+    ch_Name "Haley!"
 
 # game/logic/events/haley.rpy:574
 translate deutsch Haley_4_label_9852e58e:
 
     # ch_Name "I knew I'd find you here!"
-    ch_Name ""
+    ch_Name "Ich wusste, dass ich dich hier finden würde!"
 
 # game/logic/events/haley.rpy:576
 translate deutsch Haley_4_label_4f5a31ad:
 
     # Haley "[Name], good to see you!"
-    Haley ""
+    Haley "[Name], schön, dich zu sehen!"
 
 # game/logic/events/haley.rpy:577
 translate deutsch Haley_4_label_4fac2503:
 
     # Haley "What's up?"
-    Haley ""
+    Haley "Was gibts?"
 
 # game/logic/events/haley.rpy:579
 translate deutsch Haley_4_label_31a209a4:
 
     # ch_Name "Nothing. I just missed you."
-    ch_Name ""
+    ch_Name "Gar nichts. Ich habe dich einfach vermisst."
 
 # game/logic/events/haley.rpy:580
 translate deutsch Haley_4_label_bead6911:
 
     # ch_Name "What are you doing?"
-    ch_Name ""
+    ch_Name "Was machst du?"
 
 # game/logic/events/haley.rpy:582
 translate deutsch Haley_4_label_21f590b7:
 
     # Haley "Studying."
-    Haley ""
+    Haley "Lernen."
 
 # game/logic/events/haley.rpy:583
 translate deutsch Haley_4_label_fe511a5a:
 
     # Haley "I have an individual test with Miss Victoria after class."
-    Haley ""
+    Haley "Ich habe nach dem Unterricht einen Einzeltest mit Miss Victoria."
 
 # game/logic/events/haley.rpy:585
 translate deutsch Haley_4_label_c76b4668:
 
     # ch_Name "Individual test?!"
-    ch_Name ""
+    ch_Name "Einzeltest?!"
 
 # game/logic/events/haley.rpy:586
 translate deutsch Haley_4_label_7d497b12:
 
     # ch_Name "What the fuck is that?"
-    ch_Name ""
+    ch_Name "Was zur Hölle ist das?"
 
 # game/logic/events/haley.rpy:587
 translate deutsch Haley_4_label_164d630b:
 
     # ch_Name "We're supposed to be studying?"
-    ch_Name ""
+    ch_Name "Sollten wir nicht lernen?"
 
 # game/logic/events/haley.rpy:589
 translate deutsch Haley_4_label_f1a17aa6:
 
     # Haley "Aha-ha. No, no!"
-    Haley ""
+    Haley "Ha-ha. Nein, nein!"
 
 # game/logic/events/haley.rpy:591
 translate deutsch Haley_4_label_a5d48b9d:
 
     # Haley "I just wanted to pick up some tutorials on how to do advanced martial arts spells."
-    Haley ""
+    Haley "Ich wollte mir nur ein paar Tipps darüber besorgen, wie man fortgeschrittene Kampfkunstzauber wirkt."
 
 # game/logic/events/haley.rpy:592
 translate deutsch Haley_4_label_2b022b58:
 
     # Haley "Mostly for the theory, of course."
-    Haley ""
+    Haley "Natürlich hauptsächlich für die Theorie."
 
 # game/logic/events/haley.rpy:593
 translate deutsch Haley_4_label_4999292e:
 
     # Haley "But you can't get books like that for a freshman, it's too dangerous."
-    Haley ""
+    Haley "Aber als Neuling bekommt man solche Bücher nicht, das ist zu gefährlich."
 
 # game/logic/events/haley.rpy:595
 translate deutsch Haley_4_label_255b6a18:
 
     # Haley "Miss Lapis is willing to make an exception for me."
-    Haley ""
+    Haley "Frau Lapis ist bereit, für mich eine Ausnahme zu machen."
 
 # game/logic/events/haley.rpy:596
 translate deutsch Haley_4_label_b46655fc:
 
     # Haley " If I get full marks on the spell course from the basic textbook."
-    Haley ""
+    Haley "Wenn ich im Zauberkurs aus dem Grundlehrbuch die volle Punktzahl bekomme."
 
 # game/logic/events/haley.rpy:598
 translate deutsch Haley_4_label_32e602f5:
 
     # ch_Name "Oh... Sounds hard."
-    ch_Name ""
+    ch_Name "Oh... das klingt schwierig."
 
 # game/logic/events/haley.rpy:600
 translate deutsch Haley_4_label_a009bcae:
 
     # Haley "Hard doesn't mean impossible!"
-    Haley ""
+    Haley "Schwierig heißt nicht unmöglich!"
 
 # game/logic/events/haley.rpy:601
 translate deutsch Haley_4_label_89760957:
 
     # ch_Name "Heh. I'll keep that in mind."
-    ch_Name ""
+    ch_Name "Heh. Ich werde mir das merken."
 
 # game/logic/events/haley.rpy:602
 translate deutsch Haley_4_label_ef703fda:
 
     # ch_Name "Okay, I'll get out of your way."
-    ch_Name ""
+    ch_Name "Ok dann störe ich dich nicht weiter."
 
 # game/logic/events/haley.rpy:604
 translate deutsch Haley_4_label_330c04cf:
 
     # ch_Name "Wait a minute!"
-    ch_Name ""
+    ch_Name "Warte kurz!"
 
 # game/logic/events/haley.rpy:605
 translate deutsch Haley_4_label_c03ce48f:
 
     # Haley "I have a favor to ask you..."
-    Haley ""
+    Haley "Ich muss dich um einen Gefallen bitten..."
 
 # game/logic/events/haley.rpy:607
 translate deutsch Haley_4_label_62f20ce6:
 
     # ch_Name "I'm all ears."
-    ch_Name ""
+    ch_Name "Ich bin ganz Ohr."
 
 # game/logic/events/haley.rpy:608
 translate deutsch Haley_4_label_a1a7697f:
 
     # Haley "{b}My potion book was dipped in ink last night{/b} by pixies."
-    Haley ""
+    Haley "{b}Mein Zaubertränkebuch wurde letzte Nacht von Kobolden in Tinte getaucht{/b}."
 
 # game/logic/events/haley.rpy:610
 translate deutsch Haley_4_label_4168a1b1:
 
     # Haley "I went to the library and left a request for a replacement."
-    Haley ""
+    Haley "Ich ging in die Bibliothek und habe nach einen Ersatz gefragt."
 
 # game/logic/events/haley.rpy:611
 translate deutsch Haley_4_label_0c921508:
 
     # Haley "But Miss Amelie couldn't find the textbook right away."
-    Haley ""
+    Haley "Aber Frau Amelie konnte das Lehrbuch nicht sofort finden."
 
 # game/logic/events/haley.rpy:612
 translate deutsch Haley_4_label_37f58bc5:
 
     # Haley "So she told me to come in between classes."
-    Haley ""
+    Haley "Also sagte sie mir, ich solle heute zwischen den Unterrichtsstunden kommen."
 
 # game/logic/events/haley.rpy:613
 translate deutsch Haley_4_label_5ea33d85:
 
     # Haley "And then Miss Lapis said my practical was after class."
-    Haley ""
+    Haley "Und dann sagte Miss Lapis, mein Test sei nach dem Unterricht."
 
 # game/logic/events/haley.rpy:615
 translate deutsch Haley_4_label_2ede2fbe:
 
     # ch_Name "What a busy day you've had this morning."
-    ch_Name ""
+    ch_Name "Was für einen anstrengenden Tag du heute Morgen hattest."
 
 # game/logic/events/haley.rpy:616
 translate deutsch Haley_4_label_8655a6d0:
 
     # ch_Name "I don't envy you."
-    ch_Name ""
+    ch_Name "Ich beneide dich nicht."
 
 # game/logic/events/haley.rpy:617
 translate deutsch Haley_4_label_dde1766e:
 
     # ch_Name "So what's your request?"
-    ch_Name ""
+    ch_Name "Also was brauchst du?"
 
 # game/logic/events/haley.rpy:619
 translate deutsch Haley_4_label_61ae5754:
 
     # Haley "I don't have time to pick up my textbook myself before Potions."
-    Haley ""
+    Haley "Ich habe vor Zaubertränke keine Zeit, mein Lehrbuch selbst zu holen."
 
 # game/logic/events/haley.rpy:620
 translate deutsch Haley_4_label_ee3320a4:
 
     # Haley "And the library closes after class."
-    Haley ""
+    Haley "Und die Bibliothek schließt nach dem Unterricht."
 
 # game/logic/events/haley.rpy:621
 translate deutsch Haley_4_label_3fe63ad3:
 
     # Haley "I didn't know what to do, but then you showed up..."
-    Haley ""
+    Haley "Ich wusste nicht, was ich tun sollte, aber dann tauchtest du auf..."
 
 # game/logic/events/haley.rpy:623
 translate deutsch Haley_4_label_aec70737:
 
     # Haley "Like a knight on a white horse! Just like in the fairy tales!"
-    Haley ""
+    Haley "Wie ein Ritter auf einem weißen Pferd! Wie im Märchen!"
 
 # game/logic/events/haley.rpy:624
 translate deutsch Haley_4_label_347aa0a1:
 
     # ch_Name "Hey, wait a minute!"
-    ch_Name ""
+    ch_Name "Hey, warte mal!"
 
 # game/logic/events/haley.rpy:625
 translate deutsch Haley_4_label_a2acf721:
 
     # ch_Name "I haven't agreed to anything yet."
-    ch_Name ""
+    ch_Name "Ich habe noch nichts zugestimmt."
 
 # game/logic/events/haley.rpy:627
 translate deutsch Haley_4_label_093eb1d3:
 
     # Haley "Yeah, I know."
-    Haley ""
+    Haley "Ja, ich weiß."
 
 # game/logic/events/haley.rpy:628
 translate deutsch Haley_4_label_a9e71d67:
 
     # Haley "Just daydreaming."
-    Haley ""
+    Haley "Ich hatte nur einen Tagtraum."
 
 # game/logic/events/haley.rpy:629
 translate deutsch Haley_4_label_d6e63f3c:
 
     # Haley "So, can you pick up the textbook?"
-    Haley ""
+    Haley "Also, kannst du für mich das Lehrbuch abholen?"
 
 # game/logic/events/haley.rpy:631
 translate deutsch Haley_4_label_96ae8269:
 
     # ch_Name "No problem."
-    ch_Name ""
+    ch_Name "Kein Problem."
 
 # game/logic/events/haley.rpy:632
 translate deutsch Haley_4_label_aecbb95f:
 
     # ch_Name "But you'll owe me one."
-    ch_Name ""
+    ch_Name "Aber du schuldest mir was."
 
 # game/logic/events/haley.rpy:634
 translate deutsch Haley_4_label_350240d6:
 
     # Haley "The knights in fairy tales do good deeds in the name of honor!"
-    Haley ""
+    Haley "Die Ritter aus den Märchen tun gute sachen im Namen der Ehre!"
 
 # game/logic/events/haley.rpy:635
 translate deutsch Haley_4_label_605e4a62:
 
     # ch_Name "I'm just a product of my times and upbringing."
-    ch_Name ""
+    ch_Name "Ich bin nur ein Produkt meiner Zeit und Erziehung."
 
 # game/logic/events/haley.rpy:636
 translate deutsch Haley_4_label_735aef29:
 
     # Haley "All right. I'm in your debt."
-    Haley ""
+    Haley "Also gut, ich schule dir was."
 
 # game/logic/events/haley.rpy:638
 translate deutsch Haley_4_label_aa15c2ae:
 
     # Haley "Something tells me I can trust you."
-    Haley ""
+    Haley "Etwas sagt mir, dass ich dir vertrauen kann."
 
 # game/logic/events/haley.rpy:639
 translate deutsch Haley_4_label_05bab6bb:
 
     # ch_Name "{i}(Oh, Haley... I'll be sure to collect my debt.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, Haley... ich werde sicher meine Schulden eintreiben.){/i}"
 
 # game/logic/events/haley.rpy:640
 translate deutsch Haley_4_label_3ca656da:
 
     # ch_Name "Consider the new textbook already in your bag."
-    ch_Name ""
+    ch_Name "Betrachte das neue Lehrbuch als bereits in deiner Tasche."
 
 # game/logic/events/haley.rpy:654
 translate deutsch Haley_5_label_c050c5e8:
 
     # Amelie "Hello, Mr... [Surname], am I right?"
-    Amelie ""
+    Amelie "Hallo, Herr... [Surname], habe ich Recht?"
 
 # game/logic/events/haley.rpy:655
 translate deutsch Haley_5_label_f86f3c9d:
 
     # ch_Name "Yeah, you have a perfect memory!"
-    ch_Name ""
+    ch_Name "Ja, sie haben ein perfektes Gedächtnis!"
 
 # game/logic/events/haley.rpy:656
 translate deutsch Haley_5_label_f81ec0a2:
 
     # Amelie "What can I do for you during school hours? Let me guess..."
-    Amelie ""
+    Amelie "„Was kann ich während der Schulzeit für sie tun? Lassen sie mich raten ..."
 
 # game/logic/events/haley.rpy:658
 translate deutsch Haley_5_label_c9946ba3:
 
     # ch_Name "I need a textbook..."
-    ch_Name ""
+    ch_Name "Ich brauche ein Lehrbuch..."
 
 # game/logic/events/haley.rpy:659
 translate deutsch Haley_5_label_9631e613:
 
     # Amelie "You need a textbook!"
-    Amelie ""
+    Amelie "Sie brauchen ein Lehrbuch!"
 
 # game/logic/events/haley.rpy:660
 translate deutsch Haley_5_label_f96e19dc:
@@ -1654,1465 +1654,1465 @@ translate deutsch Haley_5_label_f96e19dc:
 translate deutsch Haley_5_label_2a3489b8:
 
     # ch_Name "I'm impressed. What's your secret? Magic?"
-    ch_Name ""
+    ch_Name "Ich bin beeindruckt. Was ist ihr Geheimnis? Magie?"
 
 # game/logic/events/haley.rpy:663
 translate deutsch Haley_5_label_2241311d:
 
     # Amelie "Experience. There are many spirits and magical beings at the academy."
-    Amelie ""
+    Amelie "Erfahrung. In der Akademie gibt es viele Geister und magische Wesen."
 
 # game/logic/events/haley.rpy:665
 translate deutsch Haley_5_label_dfeaa70d:
 
     # Amelie "And many of them don't mind messing around with naive freshmen."
-    Amelie ""
+    Amelie "Und vielen von ihnen macht es nichts aus, sich mit naiven Studienanfängern herumzuschlagen."
 
 # game/logic/events/haley.rpy:666
 translate deutsch Haley_5_label_f84965b1:
 
     # ch_Name "{i}(You don't seem to mind fooling around with a naive freshman yourself...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sie scheinen nichts dagegen zu haben, selbst mit einem naiven Neuling herumzualbern...){/i}"
 
 # game/logic/events/haley.rpy:667
 translate deutsch Haley_5_label_96f814ee:
 
     # ch_Name "Hats off to you."
-    ch_Name ""
+    ch_Name "Die Runde geht an sie."
 
 # game/logic/events/haley.rpy:669
 translate deutsch Haley_5_label_a2ac1add:
 
     # Amelie "What kind of textbook do you need?"
-    Amelie ""
+    Amelie "Was für ein Lehrbuch brauchen sie?"
 
 # game/logic/events/haley.rpy:670
 translate deutsch Haley_5_label_3defa34d:
 
     # ch_Name "I just came by to pick up Haley Ranger's potions books."
-    ch_Name ""
+    ch_Name "Ich bin nur vorbeigekommen, um Haley Rangers Buch über Zaubertränke abzuholen."
 
 # game/logic/events/haley.rpy:671
 translate deutsch Haley_5_label_cb3447e8:
 
     # ch_Name "She said you knew about it."
-    ch_Name ""
+    ch_Name "Sie sagte sie wüssten bescheid."
 
 # game/logic/events/haley.rpy:672
 translate deutsch Haley_5_label_549d1536:
 
     # Amelie "Yeah, yeah, of course."
-    Amelie ""
+    Amelie "Ja, ja, natürlich."
 
 # game/logic/events/haley.rpy:673
 translate deutsch Haley_5_label_49f4c4a1:
 
     # Amelie "Helping out your friend?"
-    Amelie ""
+    Amelie "Sie helfen einer Freundin aus?"
 
 # game/logic/events/haley.rpy:675
 translate deutsch Haley_5_label_845b8fe2:
 
     # Amelie "That's very nice of you."
-    Amelie ""
+    Amelie "Das ist sehr nett von ihnen."
 
 # game/logic/events/haley.rpy:676
 translate deutsch Haley_5_label_51532a83:
 
     # ch_Name "How could I not?"
-    ch_Name ""
+    ch_Name "Wieso nicht?"
 
 # game/logic/events/haley.rpy:677
 translate deutsch Haley_5_label_4b4c0293:
 
     # Amelie "Just a moment..."
-    Amelie ""
+    Amelie "Einen Augenblick..."
 
 # game/logic/events/haley.rpy:684
 translate deutsch Haley_5_label_5ee834e9:
 
     # ch_Name "{i}(Well, where is she?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nun, wo ist sie?){/i}"
 
 # game/logic/events/haley.rpy:685
 translate deutsch Haley_5_label_e0e353e6:
 
     # ch_Name "{i}(How long do I have to wait?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wie lange muss ich warten?){/i}"
 
 # game/logic/events/haley.rpy:691
 translate deutsch Haley_5_label_6e53e7ba:
 
     # ch_Name "Ahem. Ahem."
-    ch_Name ""
+    ch_Name "Ahem. Ahem."
 
 # game/logic/events/haley.rpy:692
 translate deutsch Haley_5_label_8a4e59b5:
 
     # Amelie "Yes? What can I do for you?"
-    Amelie ""
+    Amelie "Ja? Was kann ich für Dich tun?"
 
 # game/logic/events/haley.rpy:694
 translate deutsch Haley_5_label_c0918cb3:
 
     # ch_Name "You went to get me a potions textbook..."
-    ch_Name ""
+    ch_Name "Sie wollten mir ein Lehrbuch für Zaubertränke holen..."
 
 # game/logic/events/haley.rpy:695
 translate deutsch Haley_5_label_d8762c24:
 
     # Amelie "Yes? It completely slipped my mind."
-    Amelie ""
+    Amelie "Ach? Es ist mir völlig entfallen."
 
 # game/logic/events/haley.rpy:696
 translate deutsch Haley_5_label_e82ca1b5:
 
     # ch_Name "!!!"
-    ch_Name ""
+    ch_Name "!!!"
 
 # game/logic/events/haley.rpy:698
 translate deutsch Haley_5_label_16ffb3a7:
 
     # Amelie "I'm kidding!"
-    Amelie ""
+    Amelie "Ich mache nur Spaß!"
 
 # game/logic/events/haley.rpy:699
 translate deutsch Haley_5_label_26ca0200:
 
     # Amelie "You should have seen your face!"
-    Amelie ""
+    Amelie "Sie hätten ihr Gesicht sehen sollen!"
 
 # game/logic/events/haley.rpy:701
 translate deutsch Haley_5_label_dce22e95:
 
     # ch_Name "Well, what can I say, you got me."
-    ch_Name ""
+    ch_Name "Nun, was soll ich sagen, sie haben mich erwischt."
 
 # game/logic/events/haley.rpy:703
 translate deutsch Haley_5_label_7b822255:
 
     # Amelie "Here's your textbook. The last one in the warehouse! A rarity."
-    Amelie ""
+    Amelie "Hier ist ihr Lehrbuch. Der letzte im Lager! Eine Rarität."
 
 # game/logic/events/haley.rpy:704
 translate deutsch Haley_5_label_3d441fc7:
 
     # Amelie "The new batch has been given and the old one was thrown out."
-    Amelie ""
+    Amelie "Die neue Charge ist gekommen und die alte wurde weggeworfen."
 
 # game/logic/events/haley.rpy:705
 translate deutsch Haley_5_label_e0be5440:
 
     # Amelie "Only this one survived, lost on the shelves. Lucky guy!"
-    Amelie ""
+    Amelie "Nur dieses exemplar überlebte zwischen den restlichen Büchern. Glückspilz!"
 
 # game/logic/events/haley.rpy:707
 translate deutsch Haley_5_label_e0e9c470:
 
     # ch_Name "Maybe Haley will get lucky, too."
-    ch_Name ""
+    ch_Name "Hoffentlich hat Haley auch so Glück mit dem Lehrbuch."
 
 # game/logic/events/haley.rpy:708
 translate deutsch Haley_5_label_690b8254:
 
     # Amelie "You'll tell me about it later."
-    Amelie ""
+    Amelie "Erzähl mir später davon."
 
 # game/logic/events/haley.rpy:709
 translate deutsch Haley_5_label_9d56fc84:
 
     # ch_Name "I will. A thousand thanks!"
-    ch_Name ""
+    ch_Name "Werde ich. Tausend dank"
 
 # game/logic/events/haley.rpy:710
 translate deutsch Haley_5_label_ea1e895a:
 
     # ch_Name "I gotta run before class starts!"
-    ch_Name ""
+    ch_Name "Ich muss los, bevor der Unterricht beginnt!"
 
 # game/logic/events/haley.rpy:723
 translate deutsch Haley_6_label_74f57383:
 
     # Haley "[Name]! You're here!"
-    Haley ""
+    Haley "[Name]! Du bist hier!"
 
 # game/logic/events/haley.rpy:725
 translate deutsch Haley_6_label_38a3818d:
 
     # Haley "Did you get the book?"
-    Haley ""
+    Haley "Hast du das Buch bekommen?"
 
 # game/logic/events/haley.rpy:726
 translate deutsch Haley_6_label_156973b7:
 
     # ch_Name "Of course it did!"
-    ch_Name ""
+    ch_Name "Natürlich!"
 
 # game/logic/events/haley.rpy:728
 translate deutsch Haley_6_label_85b5a29f:
 
     # ch_Name "One ancient textbook."
-    ch_Name ""
+    ch_Name "Ein altes Lehrbuch."
 
 # game/logic/events/haley.rpy:729
 translate deutsch Haley_6_label_91927f30:
 
     # ch_Name "Sign for it here, please."
-    ch_Name ""
+    ch_Name "Unterschreiben Sie bitte hier."
 
 # game/logic/events/haley.rpy:730
 translate deutsch Haley_6_label_0b2b217d:
 
     # Haley "Whee!"
-    Haley ""
+    Haley "Yay!"
 
 # game/logic/events/haley.rpy:732
 translate deutsch Haley_6_label_cdd754cc:
 
     # Haley "I don't believe it!"
-    Haley ""
+    Haley "Ich kanns nicht glauben!"
 
 # game/logic/events/haley.rpy:733
 translate deutsch Haley_6_label_e02bc70d:
 
     # ch_Name "Believe it."
-    ch_Name ""
+    ch_Name "Glaub es ruhig."
 
 # game/logic/events/haley.rpy:735
 translate deutsch Haley_6_label_930046b9:
 
     # Haley "[Name]! Thank you!"
-    Haley ""
+    Haley "[Name]! Danke!"
 
 # game/logic/events/haley.rpy:736
 translate deutsch Haley_6_label_9d720803:
 
     # Haley "Now I'm gonna make it!"
-    Haley ""
+    Haley "Jetzt werde ich es schaffen!"
 
 # game/logic/events/haley.rpy:737
 translate deutsch Haley_6_label_1ee3700c:
 
     # Haley "You don't know how much it means to me!"
-    Haley ""
+    Haley "Du weißt nicht, wie viel mir das bedeutet!"
 
 # game/logic/events/haley.rpy:739
 translate deutsch Haley_6_label_7d8d2e10:
 
     # ch_Name "I can imagine.{w} You told me right away."
-    ch_Name ""
+    ch_Name "Kann ich mir vorstellen.{w} Du hast es mir ja gesagt."
 
 # game/logic/events/haley.rpy:740
 translate deutsch Haley_6_label_2f3d7c1d:
 
     # ch_Name "Be careful with him."
-    ch_Name ""
+    ch_Name "Pass gut darauf auf."
 
 # game/logic/events/haley.rpy:741
 translate deutsch Haley_6_label_6857a497:
 
     # ch_Name "Amelie said all the new textbooks are gone."
-    ch_Name ""
+    ch_Name "Amelie sagte, alle neuen Lehrbücher seien weg."
 
 # game/logic/events/haley.rpy:742
 translate deutsch Haley_6_label_ba075f97:
 
     # ch_Name "This one's a rarity!"
-    ch_Name ""
+    ch_Name "Das ist eine Rarität!"
 
 # game/logic/events/haley.rpy:744
 translate deutsch Haley_6_label_0f65111a:
 
     # Haley "Ooh... Nice!"
-    Haley ""
+    Haley "Ooh... Sehr schön!"
 
 # game/logic/events/haley.rpy:746
 translate deutsch Haley_6_label_2b2f9840:
 
     # Haley "Ancient folios turn me on!"
-    Haley ""
+    Haley "Alte Folianten machen mich an!"
 
 # game/logic/events/haley.rpy:747
 translate deutsch Haley_6_label_2e831b09:
 
     # ch_Name "Wait..."
-    ch_Name ""
+    ch_Name "Warte..."
 
 # game/logic/events/haley.rpy:748
 translate deutsch Haley_6_label_8ac87752:
 
     # ch_Name "You're kidding, right?"
-    ch_Name ""
+    ch_Name "Du machst Scherze, oder?"
 
 # game/logic/events/haley.rpy:749
 translate deutsch Haley_6_label_fe08f3ca:
 
     # Haley "Who knows..."
-    Haley ""
+    Haley "Wer weiß..."
 
 # game/logic/events/haley.rpy:751
 translate deutsch Haley_6_label_b4fa65b5:
 
     # Haley "Of course I'm kidding!"
-    Haley ""
+    Haley "Natürlich mache ich Scherze!"
 
 # game/logic/events/haley.rpy:752
 translate deutsch Haley_6_label_a41ec720:
 
     # Haley "Thank you so much."
-    Haley ""
+    Haley "Vielen dank."
 
 # game/logic/events/haley.rpy:753
 translate deutsch Haley_6_label_54ac3d27:
 
     # Haley "I owe you one!"
-    Haley ""
+    Haley "Ich schule dir was!"
 
 # game/logic/events/haley.rpy:754
 translate deutsch Haley_6_label_167e1ab8:
 
     # ch_Name "Yes, I remember."
-    ch_Name ""
+    ch_Name "Ja, ich erinnere mich."
 
 # game/logic/events/haley.rpy:756
 translate deutsch Haley_6_label_8b4e00b1:
 
     # Haley "But now I have to finish learning my spells."
-    Haley ""
+    Haley "Aber jetzt muss ich meine Zauber zu Ende lernen."
 
 # game/logic/events/haley.rpy:757
 translate deutsch Haley_6_label_3500de08:
 
     # Haley "Otherwise, I won't get them to Victoria after class and it was all for nothing!"
-    Haley ""
+    Haley "Sonst schaffe ich sie bei Victoria nach dem Unterricht nicht und alles war umsonst!"
 
 # game/logic/events/haley.rpy:758
 translate deutsch Haley_6_label_9150492d:
 
     # ch_Name "Exactly."
-    ch_Name ""
+    ch_Name "Genau."
 
 # game/logic/events/haley.rpy:759
 translate deutsch Haley_6_label_380862e6:
 
     # ch_Name "Well, I won't get in the way!"
-    ch_Name ""
+    ch_Name "Nun, ich werde nicht im Weg stehen!"
 
 # game/logic/events/haley.rpy:769
 translate deutsch Haley_7_label_14969a9a:
 
     # NoName "Ring, ring..."
-    NoName ""
+    NoName "Ring, ring..."
 
 # game/logic/events/haley.rpy:771
 translate deutsch Haley_7_label_d007b8f0:
 
     # ch_Name "Hello?"
-    ch_Name ""
+    ch_Name "Hallo?"
 
 # game/logic/events/haley.rpy:772
 translate deutsch Haley_7_label_ece7698f:
 
     # Haley "[Name], hi. It's Haley!"
-    Haley ""
+    Haley "[Name], hi. Haley spricht!"
 
 # game/logic/events/haley.rpy:774
 translate deutsch Haley_7_label_30a6650a:
 
     # ch_Name "Haley? Hi!"
-    ch_Name ""
+    ch_Name "Haley? Hi!"
 
 # game/logic/events/haley.rpy:775
 translate deutsch Haley_7_label_c815023d:
 
     # ch_Name "How did you get my number?"
-    ch_Name ""
+    ch_Name "Wo hast du meine Nummer her?"
 
 # game/logic/events/haley.rpy:776
 translate deutsch Haley_7_label_bc08eac6:
 
     # Haley "I asked Samantha."
-    Haley ""
+    Haley "Ich habe Samantha gefragt."
 
 # game/logic/events/haley.rpy:777
 translate deutsch Haley_7_label_8bf11ac1:
 
     # ch_Name "Do you two know each other?"
-    ch_Name ""
+    ch_Name "Kennt ihr euch?"
 
 # game/logic/events/haley.rpy:778
 translate deutsch Haley_7_label_bd7dcbb3:
 
     # Haley "Of course we do! She's a legend!"
-    Haley ""
+    Haley "Natürlich kennen wir uns! Sie ist eine Legende!"
 
 # game/logic/events/haley.rpy:780
 translate deutsch Haley_7_label_13e125b7:
 
     # ch_Name "Wait... What?"
-    ch_Name ""
+    ch_Name "Warte... Was?"
 
 # game/logic/events/haley.rpy:781
 translate deutsch Haley_7_label_36dc6d66:
 
     # Haley "She's a straight-A student and the pride of Leonheart!"
-    Haley ""
+    Haley "Sie ist eine Einser-Studentin und der ganze Stolz von Leonheart!"
 
 # game/logic/events/haley.rpy:782
 translate deutsch Haley_7_label_90f6fcd8:
 
     # ch_Name "Uh... That's what you mean."
-    ch_Name ""
+    ch_Name "Ah... Das meinst du."
 
 # game/logic/events/haley.rpy:783
 translate deutsch Haley_7_label_d94e545d:
 
     # Haley "Yeah. "
-    Haley ""
+    Haley "Ja"
 
 # game/logic/events/haley.rpy:784
 translate deutsch Haley_7_label_b2030bc6:
 
     # Haley "Are you up yet?"
-    Haley ""
+    Haley "Bist du schon aufgestanden?"
 
 # game/logic/events/haley.rpy:786
 translate deutsch Haley_7_label_7bd30a8c:
 
     # ch_Name "I'm about to."
-    ch_Name ""
+    ch_Name "Bin gerade dabei."
 
 # game/logic/events/haley.rpy:787
 translate deutsch Haley_7_label_d71de107:
 
     # Haley "I stumbled across {b}something interesting in my potions textbook{/b}..."
-    Haley ""
+    Haley "Ich bin über {b}etwas Interessantes in meinem Lehrbuch für Zaubertränke{/b} gestolpert..."
 
 # game/logic/events/haley.rpy:788
 translate deutsch Haley_7_label_4614795e:
 
     # ch_Name "Haley, please..."
-    ch_Name ""
+    ch_Name "Haley, bitte..."
 
 # game/logic/events/haley.rpy:789
 translate deutsch Haley_7_label_7293915f:
 
     # Haley "This is different! It's not part of the textbook."
-    Haley ""
+    Haley "Das ist anders! Es ist nicht Teil des Lehrbuchs."
 
 # game/logic/events/haley.rpy:790
 translate deutsch Haley_7_label_732e8302:
 
     # Haley "There are some really weird notes in the margins."
-    Haley ""
+    Haley "Es gibt einige wirklich seltsame Notizen an den Rändern."
 
 # game/logic/events/haley.rpy:791
 translate deutsch Haley_7_label_17ef7496:
 
     # Haley "I wanted to show them to you."
-    Haley ""
+    Haley "Ich wollte sie dir zeigen."
 
 # game/logic/events/haley.rpy:792
 translate deutsch Haley_7_label_30610685:
 
     # ch_Name "Sounds interesting."
-    ch_Name ""
+    ch_Name "Klingt interessant."
 
 # game/logic/events/haley.rpy:794
 translate deutsch Haley_7_label_e245f435:
 
     # Haley "Can we meet?"
-    Haley ""
+    Haley "Können wir uns treffen?"
 
 # game/logic/events/haley.rpy:795
 translate deutsch Haley_7_label_74ebce9c:
 
     # ch_Name "Sure."
-    ch_Name ""
+    ch_Name "Klar"
 
 # game/logic/events/haley.rpy:796
 translate deutsch Haley_7_label_4426db1c:
 
     # Haley "Great! After classes?"
-    Haley ""
+    Haley "Toll! Nach dem Unterricht?"
 
 # game/logic/events/haley.rpy:797
 translate deutsch Haley_7_label_fe5918a2:
 
     # ch_Name "Yeah. "
-    ch_Name ""
+    ch_Name "Ja"
 
 # game/logic/events/haley.rpy:798
 translate deutsch Haley_7_label_0d4bb549:
 
     # Haley "Bye-bye!"
-    Haley ""
+    Haley "Bis dann!"
 
 # game/logic/events/haley.rpy:802
 translate deutsch Haley_7_label_d8042caf:
 
     # ch_Name "{i}(I wasn't planning on getting up so early.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich hatte nicht vor, so früh aufzustehen.){/i}"
 
 # game/logic/events/haley.rpy:803
 translate deutsch Haley_7_label_6498ea8e:
 
     # ch_Name "{i}(Usually, I hate everyone who tries to wake me up. But I can't be mad at Haley.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Normalerweise hasse ich jeden, der versucht, mich aufzuwecken. Aber ich kann Haley nicht böse sein.){/i}"
 
 # game/logic/events/haley.rpy:804
 translate deutsch Haley_7_label_6ee72ae7:
 
     # ch_Name "{i}(Well, If I'm not asleep, I should probably do something before classes.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nun, wenn ich nicht schlafe, sollte ich wahrscheinlich etwas vor dem Unterricht tun.){/i}"
 
 # game/logic/events/haley.rpy:858
 translate deutsch haley_events_4_label_0_11dd609e:
 
     # ch_Name "{i}(Haley looks so peaceful in her sleep.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Haley sieht im Schlaf so friedlich aus.){/i}"
 
 # game/logic/events/haley.rpy:859
 translate deutsch haley_events_4_label_0_54402612:
 
     # ch_Name "{i}(Let's take a closer look at you.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Schauen wir dich mal genauer an.){/i}"
 
 # game/logic/events/haley.rpy:861
 translate deutsch haley_events_4_label_0_95bb1ad7:
 
     # ch_Name "{i}(Sleeping beauty...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Dornröschen...){/i}"
 
 # game/logic/events/haley.rpy:862
 translate deutsch haley_events_4_label_0_0a0f56f2:
 
     # ch_Name "{i}(It's not that cold here, though. Do we really need that blanket?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hier ist es aber nicht so kalt. Brauchen wir wirklich diese Decke?){/i}"
 
 # game/logic/events/haley.rpy:864
 translate deutsch haley_events_4_label_0_29d447b5:
 
     # ch_Name "{i}(So what are you hiding here, Haley...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Also, was versteckst du hier, Haley...){/i}"
 
 # game/logic/events/haley.rpy:865
 translate deutsch haley_events_4_label_0_8b842d7f:
 
     # ch_Name "{i}(Let's see...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Schauen wir mal...){/i}"
 
 # game/logic/events/haley.rpy:867
 translate deutsch haley_events_4_label_0_ab189795:
 
     # ch_Name "{i}(Oh, wow...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, wow...){/i}"
 
 # game/logic/events/haley.rpy:868
 translate deutsch haley_events_4_label_0_56f92b12:
 
     # ch_Name "{i}(What a beauty...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Was für eine Schönheit...){/i}"
 
 # game/logic/events/haley.rpy:869
 translate deutsch haley_events_4_label_0_4e1d1bd4:
 
     # ch_Name "{i}(I'm sure I'm not dreaming?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich bin mir sicher, dass ich nicht träume?){/i}"
 
 # game/logic/events/haley.rpy:871
 translate deutsch haley_events_4_label_0_86444b62:
 
     # ch_Name "{i}(Sometimes you're even too gorgeous, Haley...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Manchmal bist du sogar zu schön, Haley...){/i}"
 
 # game/logic/events/haley.rpy:872
 translate deutsch haley_events_4_label_0_4af7f1ab:
 
     # ch_Name "{i}(How can I resist you...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wie kann ich dir widerstehen...){/i}"
 
 # game/logic/events/haley.rpy:873
 translate deutsch haley_events_4_label_0_2cf8f9cb:
 
     # ch_Name "{i}(I wonder what you're wearing underneath...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich frage mich, was du darunter trägst...){/i}"
 
 # game/logic/events/haley.rpy:875
 translate deutsch haley_events_4_label_0_73c21bd3:
 
     # Haley "Mhm... mmm..."
-    Haley ""
+    Haley "Mhm... mmm..."
 
 # game/logic/events/haley.rpy:876
 translate deutsch haley_events_4_label_0_d854112a:
 
     # ch_Name "{i}(Damn, I think she's gonna wake up any minute.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Verdammt, ich glaube, sie wird jeden Moment aufwachen.){/i}"
 
 # game/logic/events/haley.rpy:877
 translate deutsch haley_events_4_label_0_03d6a422:
 
     # ch_Name "{i}(Better get out of here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich schaue besser dass ich verschwinde.){/i}"
 
 # game/logic/events/haley.rpy:892
 translate deutsch haley_events_4_label_1_a967e354:
 
     # ch_Name "{i}(Haley always looks so peaceful in her sleep.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Haley sieht im Schlaf so friedlich aus.){/i}"
 
 # game/logic/events/haley.rpy:893
 translate deutsch haley_events_4_label_1_54402612:
 
     # ch_Name "{i}(Let's take a closer look at you.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Schauen wir dich mal genauer an.){/i}"
 
 # game/logic/events/haley.rpy:895
 translate deutsch haley_events_4_label_1_95bb1ad7:
 
     # ch_Name "{i}(Sleeping beauty...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Dornröschen...){/i}"
 
 # game/logic/events/haley.rpy:896
 translate deutsch haley_events_4_label_1_0a0f56f2:
 
     # ch_Name "{i}(It's not that cold here, though. Do we really need that blanket?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hier ist es aber nicht so kalt. Brauchen wir wirklich diese Decke?){/i}"
 
 # game/logic/events/haley.rpy:898
 translate deutsch haley_events_4_label_1_5ef406c5:
 
     # ch_Name "{i}(Still hiding from me under the blanket, Haley?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Versteckst du dich immernoch vor mir unter der Decke, Haley?){/i}"
 
 # game/logic/events/haley.rpy:899
 translate deutsch haley_events_4_label_1_45b010da:
 
     # ch_Name "{i}(Let's take that off...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nehmen wir sie mal weg...){/i}"
 
 # game/logic/events/haley.rpy:901
 translate deutsch haley_events_4_label_1_ab189795:
 
     # ch_Name "{i}(Oh, wow...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, wow...){/i}"
 
 # game/logic/events/haley.rpy:902
 translate deutsch haley_events_4_label_1_56f92b12:
 
     # ch_Name "{i}(What a beauty...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Was für eine Schönheit...){/i}"
 
 # game/logic/events/haley.rpy:903
 translate deutsch haley_events_4_label_1_8f10ba96:
 
     # ch_Name "{i}(Everytime I'm amazed at your beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich bin jedesmal erstaunt von deiner Schönheit.){/i}"
 
 # game/logic/events/haley.rpy:905
 translate deutsch haley_events_4_label_1_86444b62:
 
     # ch_Name "{i}(Sometimes you're even too gorgeous, Haley...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Manchmal bist du sogar zu schön, Haley...){/i}"
 
 # game/logic/events/haley.rpy:906
 translate deutsch haley_events_4_label_1_4af7f1ab:
 
     # ch_Name "{i}(How can I resist you...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wie kann ich dir widerstehen...){/i}"
 
 # game/logic/events/haley.rpy:907
 translate deutsch haley_events_4_label_1_47156fa9:
 
     # ch_Name "{i}(I wonder what you're wearing underneath today...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich frage mich, was du heute darunter trägst...){/i}"
 
 # game/logic/events/haley.rpy:909
 translate deutsch haley_events_4_label_1_93828498:
 
     # ch_Name "{i}(Haley, show me all of yourself...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Haley, zeig dich mir in deiner ganzen Schönheit...){/i}"
 
 # game/logic/events/haley.rpy:910
 translate deutsch haley_events_4_label_1_f366cfd9:
 
     # ch_Name "{i}(I bet you're not just beautiful on top...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich wette du bist nicht nur obenrum so schön...){/i}"
 
 # game/logic/events/haley.rpy:912
 translate deutsch haley_events_4_label_1_a59c32be:
 
     # ch_Name "{i}(It exceeds all my expectations.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Du stellst alle meine Erwartungen in den Schatten.){/i}"
 
 # game/logic/events/haley.rpy:913
 translate deutsch haley_events_4_label_1_1027f3c2:
 
     # ch_Name "{i}(I could look at you forever.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich könnte dich für immer betrachten.){/i}"
 
 # game/logic/events/haley.rpy:914
 translate deutsch haley_events_4_label_1_f89bb077:
 
     # ch_Name "{i}(But the clock is ticking.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aber die zeit verrinnt.){/i}"
 
 # game/logic/events/haley.rpy:916
 translate deutsch haley_events_4_label_1_4a40c8af:
 
     # ch_Name "{i}(Is it just me, or are you bored?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Geht es nur mir so, oder ist dir auch langweilig?){/i}"
 
 # game/logic/events/haley.rpy:917
 translate deutsch haley_events_4_label_1_81799734:
 
     # ch_Name "{i}(Let's get to the fun part...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kommen wir zum interessanten teil...){/i}"
 
 # game/logic/events/haley.rpy:919
 translate deutsch haley_events_4_label_1_a2762f69:
 
     # ch_Name "{i}(What do we have here?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Was haben wir denn hier?){/i}"
 
 # game/logic/events/haley.rpy:920
 translate deutsch haley_events_4_label_1_15fff55a:
 
     # ch_Name "{i}(It's so hard to take your eyes off them.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Es ist so schwer meine Augen von ihnen abzuwenden.){/i}"
 
 # game/logic/events/haley.rpy:921
 translate deutsch haley_events_4_label_1_4f2a4bb9:
 
     # ch_Name "{i}(Especially when you're dressed like that...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Besonders wenn du so angezogen bist...){/i}"
 
 # game/logic/events/haley.rpy:922
 translate deutsch haley_events_4_label_1_0cbff8bb:
 
     # ch_Name "{i}(I wonder what this fabric feels like?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich frage mich wie sich dieser Stoff anfühlt?){/i}"
 
 # game/logic/events/haley.rpy:923
 translate deutsch haley_events_4_label_1_62487aa9:
 
     # ch_Name "{i}(Let's take a look at another piece of art...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Schauen wir uns mal ein andres Kunststück an...){/i}"
 
 # game/logic/events/haley.rpy:925
 translate deutsch haley_events_4_label_1_d3e3f53b:
 
     # ch_Name "{i}(Oh, Haley... Let me see your temple.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, Haley... Zeig mir deinen Tempel.){/i}"
 
 # game/logic/events/haley.rpy:926
 translate deutsch haley_events_4_label_1_830604ee:
 
     # ch_Name "{i}(What could be more beautiful?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Was könnte schöner sein?){/i}"
 
 # game/logic/events/haley.rpy:928
 translate deutsch haley_events_4_label_1_c42d6872:
 
     # ch_Name "{i}(And your legs...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Und deine Beine...){/i}"
 
 # game/logic/events/haley.rpy:929
 translate deutsch haley_events_4_label_1_09f31735:
 
     # ch_Name "{i}(Your soft skin makes me crazy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Deine weiche Haut treibt mich in den Wahnsinn.){/i}"
 
 # game/logic/events/haley.rpy:930
 translate deutsch haley_events_4_label_1_be60ff5c:
 
     # ch_Name "{i}(What's so playful through your transparent panties?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Was ragt da so verspielt durch dein durchsichtiges Höschen?){/i}"
 
 # game/logic/events/haley.rpy:931
 translate deutsch haley_events_4_label_1_396386d7:
 
     # ch_Name "{i}(It's tempting to touch...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Es ist so verlockend es zu berühren...){/i}"
 
 # game/logic/events/haley.rpy:933
 translate deutsch haley_events_4_label_1_73c21bd3:
 
     # Haley "Mhm... mmm..."
-    Haley ""
+    Haley "Mhm... mmm..."
 
 # game/logic/events/haley.rpy:934
 translate deutsch haley_events_4_label_1_70bb8333:
 
     # ch_Name "{i}(Damn, I think she could wake up any minute.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Verdammt, ich glaube, sie wird jeden Moment aufwachen.){/i}"
 
 # game/logic/events/haley.rpy:935
 translate deutsch haley_events_4_label_1_03d6a422:
 
     # ch_Name "{i}(Better get out of here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich schaue besser dass ich verschwinde.){/i}"
 
 # game/logic/events/haley.rpy:943
 translate deutsch haley_events_4_label_2_a967e354:
 
     # ch_Name "{i}(Haley always looks so peaceful in her sleep.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Haley sieht im Schlaf immer so friedlich aus.){/i}"
 
 # game/logic/events/haley.rpy:944
 translate deutsch haley_events_4_label_2_54402612:
 
     # ch_Name "{i}(Let's take a closer look at you.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Schauen wir dich mal genauer an.){/i}"
 
 # game/logic/events/haley.rpy:946
 translate deutsch haley_events_4_label_2_95bb1ad7:
 
     # ch_Name "{i}(Sleeping beauty...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Dornröschen...){/i}"
 
 # game/logic/events/haley.rpy:947
 translate deutsch haley_events_4_label_2_d36909c7:
 
     # ch_Name "{i}(It's not that cold here, though.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Es ist hier aber nicht so kalt.){/i}"
 
 # game/logic/events/haley.rpy:949
 translate deutsch haley_events_4_label_2_5ef406c5:
 
     # ch_Name "{i}(Still hiding from me under the blanket, Haley?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Versteckst du dich immernoch vor mir unter der Decke, Haley?){/i}"
 
 # game/logic/events/haley.rpy:950
 translate deutsch haley_events_4_label_2_45b010da:
 
     # ch_Name "{i}(Let's take that off...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nehmen wir sie mal weg...){/i}"
 
 # game/logic/events/haley.rpy:952
 translate deutsch haley_events_4_label_2_ab189795:
 
     # ch_Name "{i}(Oh, wow...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, wow...){/i}"
 
 # game/logic/events/haley.rpy:953
 translate deutsch haley_events_4_label_2_56f92b12:
 
     # ch_Name "{i}(What a beauty...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Was für eine Schönheit...){/i}"
 
 # game/logic/events/haley.rpy:954
 translate deutsch haley_events_4_label_2_a723772a:
 
     # ch_Name "{i}(Everytime I'm amazed by you...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Du erstaunst mich jedesmal aufs neue...){/i}"
 
 # game/logic/events/haley.rpy:956
 translate deutsch haley_events_4_label_2_86444b62:
 
     # ch_Name "{i}(Sometimes you're even too gorgeous, Haley...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Manchmal bist du sogar zu schön, Haley...){/i}"
 
 # game/logic/events/haley.rpy:957
 translate deutsch haley_events_4_label_2_4af7f1ab:
 
     # ch_Name "{i}(How can I resist you...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wie kann ich dir widerstehen...){/i}"
 
 # game/logic/events/haley.rpy:958
 translate deutsch haley_events_4_label_2_47156fa9:
 
     # ch_Name "{i}(I wonder what you're wearing underneath today...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich frage mich, was du heute darunter trägst...){/i}"
 
 # game/logic/events/haley.rpy:960
 translate deutsch haley_events_4_label_2_93828498:
 
     # ch_Name "{i}(Haley, show me all of yourself...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Haley, zeig dich mir in deiner ganzen Schönheit...){/i}"
 
 # game/logic/events/haley.rpy:961
 translate deutsch haley_events_4_label_2_dbebec62:
 
     # ch_Name "{i}(I know you're not just beautiful on top...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich weiß du bist nicht nur obenrum so schön...){/i}"
 
 # game/logic/events/haley.rpy:963
 translate deutsch haley_events_4_label_2_c142b893:
 
     # ch_Name "{i}(And everytime I see it.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Und jedesmal wenn ich dich sehe.){/i}"
 
 # game/logic/events/haley.rpy:964
 translate deutsch haley_events_4_label_2_1027f3c2:
 
     # ch_Name "{i}(I could look at you forever.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Könnte ich dich für immer betrachten.){/i}"
 
 # game/logic/events/haley.rpy:965
 translate deutsch haley_events_4_label_2_f89bb077:
 
     # ch_Name "{i}(But the clock is ticking.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aber die zeit verrinnt.){/i}"
 
 # game/logic/events/haley.rpy:967
 translate deutsch haley_events_4_label_2_4a40c8af:
 
     # ch_Name "{i}(Is it just me, or are you bored?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Geht es nur mir so, oder ist dir auch langweilig?){/i}"
 
 # game/logic/events/haley.rpy:968
 translate deutsch haley_events_4_label_2_81799734:
 
     # ch_Name "{i}(Let's get to the fun part...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kommen wir zum interessanten teil...){/i}"
 
 # game/logic/events/haley.rpy:969
 translate deutsch haley_events_4_label_2_03b03c0e:
 
     # ch_Name "{i}(Where do I start?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wo fange ich an?){/i}"
 
 # game/logic/events/haley.rpy:971
 translate deutsch haley_events_4_label_2_15fff55a:
 
     # ch_Name "{i}(It's so hard to take your eyes off them.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Es ist so schwer meine Augen von ihnen abzuwenden.){/i}"
 
 # game/logic/events/haley.rpy:972
 translate deutsch haley_events_4_label_2_4f2a4bb9:
 
     # ch_Name "{i}(Especially when you're dressed like that...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Besonders wenn du so angezogen bist...){/i}"
 
 # game/logic/events/haley.rpy:973
 translate deutsch haley_events_4_label_2_faa1d333:
 
     # ch_Name "{i}(I wonder if the fabric still feels the same?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich frage mich ob sich der Stoff immernoch so anfühlt?){/i}"
 
 # game/logic/events/haley.rpy:974
 translate deutsch haley_events_4_label_2_264f0e45:
 
     # ch_Name "{i}(I just have to try it...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich muss es einfach ausprobieren...){/i}"
 
 # game/logic/events/haley.rpy:976
 translate deutsch haley_events_4_label_2_1b854e6e:
 
     # ch_Name "{i}(Oh, yes...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, ja...){/i}"
 
 # game/logic/events/haley.rpy:977
 translate deutsch haley_events_4_label_2_d3ff63a7:
 
     # ch_Name "{i}(That's a nice fabric!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Das ist ein toller Stoff!){/i}"
 
 # game/logic/events/haley.rpy:978
 translate deutsch haley_events_4_label_2_ec00fa59:
 
     # ch_Name "{i}(It's so flattering and pleasing to the skin...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Er ist so schmeichelhaft und angenehm für die Haut...){/i}"
 
 # game/logic/events/haley.rpy:979
 translate deutsch haley_events_4_label_2_c442f0f4:
 
     # ch_Name "{i}(And underneath, it's... It's magic.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Und darunter ist es... es ist magisch.){/i}"
 
 # game/logic/events/haley.rpy:980
 translate deutsch haley_events_4_label_2_dd3ec00f:
 
     # ch_Name "{i}(Haley, how do you keep such a perfect balance...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Haley, wie hältst du so ein perfektes Gleichgewicht...){/i}"
 
 # game/logic/events/haley.rpy:981
 translate deutsch haley_events_4_label_2_44e53a41:
 
     # ch_Name "{i}(Between the softness and firmness of your breasts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Zwischen der Weichheit und Festigkeit deiner Brüste.){/i}"
 
 # game/logic/events/haley.rpy:982
 translate deutsch haley_events_4_label_2_de358c5f:
 
     # ch_Name "{i}(I have to switch my attention to something else...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich muss meine Aufmerksamkeit auf etwas anderes lenken...){/i}"
 
 # game/logic/events/haley.rpy:983
 translate deutsch haley_events_4_label_2_4e3d316d:
 
     # ch_Name "{i}(While I can still control myself.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Solange ich mich noch beherrschen kann.){/i}"
 
 # game/logic/events/haley.rpy:985
 translate deutsch haley_events_4_label_2_a620a178:
 
     # ch_Name "{i}(Oh, Haley... Let me look at your temple.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, Haley... Lass mich deinen Tempel sehen.){/i}"
 
 # game/logic/events/haley.rpy:986
 translate deutsch haley_events_4_label_2_830604ee:
 
     # ch_Name "{i}(What could be more beautiful?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Was könnte schöner sein?){/i}"
 
 # game/logic/events/haley.rpy:988
 translate deutsch haley_events_4_label_2_7d260e4a:
 
     # ch_Name "{i}(Let me touch your legs...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Lass mich deine Beine berühren...){/i}"
 
 # game/logic/events/haley.rpy:989
 translate deutsch haley_events_4_label_2_09f31735:
 
     # ch_Name "{i}(Your soft skin makes me crazy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Deine weiche Haut macht mich verrückt.){/i}"
 
 # game/logic/events/haley.rpy:990
 translate deutsch haley_events_4_label_2_be60ff5c:
 
     # ch_Name "{i}(What's so playful through your transparent panties?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Was ragt da so verspielt durch dein durchsichtiges Höschen?){/i}"
 
 # game/logic/events/haley.rpy:991
 translate deutsch haley_events_4_label_2_b986130b:
 
     # ch_Name "{i}(It beckons to pull them down...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Es ruft, es herunterzuziehen...){/i}"
 
 # game/logic/events/haley.rpy:993
 translate deutsch haley_events_4_label_2_7bfb88c9:
 
     # ch_Name "{i}(Open, Sesame!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sesam, öffne dich!){/i}"
 
 # game/logic/events/haley.rpy:995
 translate deutsch haley_events_4_label_2_cf3ab6da:
 
     # ch_Name "{i}(Haley... I'm speechless...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Haley... ich bin sprachlos...){/i}"
 
 # game/logic/events/haley.rpy:996
 translate deutsch haley_events_4_label_2_4313d7fa:
 
     # ch_Name "{i}(Your neat little pussy is driving me crazy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Deine hübsche kleine Muschi macht mich verrückt.){/i}"
 
 # game/logic/events/haley.rpy:997
 translate deutsch haley_events_4_label_2_27f3f0c5:
 
     # ch_Name "{i}(Maybe I should make your dream a little spicier.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vielleicht sollte ich deinen Traum etwas Würze verleihen.){/i}"
 
 # game/logic/events/haley.rpy:998
 translate deutsch haley_events_4_label_2_be3db07e:
 
     # ch_Name "{i}(Just one little touch...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nur eine kleine Berührung...){/i}"
 
 # game/logic/events/haley.rpy:1000
 translate deutsch haley_events_4_label_2_73c21bd3:
 
     # Haley "Mhm... mmm..."
-    Haley ""
+    Haley "Mhm... mmm..."
 
 # game/logic/events/haley.rpy:1001
 translate deutsch haley_events_4_label_2_0a41c6c7:
 
     # ch_Name "{i}(Shit, I think she could wake up any minute.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Verdammt, ich glaube, sie wird jeden Moment aufwachen.){/i}"
 
 # game/logic/events/haley.rpy:1002
 translate deutsch haley_events_4_label_2_03d6a422:
 
     # ch_Name "{i}(Better get out of here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich schaue besser dass ich verschwinde.){/i}"
 
 # game/logic/events/haley.rpy:1009
 translate deutsch haley_events_4_label_3_a967e354:
 
     # ch_Name "{i}(Haley always looks so peaceful in her sleep.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Haley sieht im Schlaf immer so friedlich aus.){/i}"
 
 # game/logic/events/haley.rpy:1010
 translate deutsch haley_events_4_label_3_54402612:
 
     # ch_Name "{i}(Let's take a closer look at you.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Schauen wir dich mal genauer an.){/i}"
 
 # game/logic/events/haley.rpy:1012
 translate deutsch haley_events_4_label_3_95bb1ad7:
 
     # ch_Name "{i}(Sleeping beauty...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Dornröschen...){/i}"
 
 # game/logic/events/haley.rpy:1013
 translate deutsch haley_events_4_label_3_0a0f56f2:
 
     # ch_Name "{i}(It's not that cold here, though. Do we really need that blanket?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hier ist es aber nicht so kalt. Brauchen wir wirklich diese Decke?){/i}"
 
 # game/logic/events/haley.rpy:1015
 translate deutsch haley_events_4_label_3_5ef406c5:
 
     # ch_Name "{i}(Still hiding from me under the blanket, Haley?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Versteckst du dich immernoch vor mir unter der Decke, Haley?){/i}"
 
 # game/logic/events/haley.rpy:1016
 translate deutsch haley_events_4_label_3_45b010da:
 
     # ch_Name "{i}(Let's take that off...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nehmen wir sie mal weg...){/i}"
 
 # game/logic/events/haley.rpy:1018
 translate deutsch haley_events_4_label_3_96295ed4:
 
     # ch_Name "{i}(Oh wow...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, wow...){/i}"
 
 # game/logic/events/haley.rpy:1019
 translate deutsch haley_events_4_label_3_56f92b12:
 
     # ch_Name "{i}(What a beauty...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Was für eine Schönheit...){/i}"
 
 # game/logic/events/haley.rpy:1020
 translate deutsch haley_events_4_label_3_58adf491:
 
     # ch_Name "{i}(Everytime I'm amazed by you.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Du erstaunst mich jedesmal aufs neue...){/i}"
 
 # game/logic/events/haley.rpy:1022
 translate deutsch haley_events_4_label_3_86444b62:
 
     # ch_Name "{i}(Sometimes you're even too gorgeous, Haley...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Manchmal bist du sogar zu schön, Haley...){/i}"
 
 # game/logic/events/haley.rpy:1023
 translate deutsch haley_events_4_label_3_4af7f1ab:
 
     # ch_Name "{i}(How can I resist you...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wie kann ich dir widerstehen...){/i}"
 
 # game/logic/events/haley.rpy:1024
 translate deutsch haley_events_4_label_3_47156fa9:
 
     # ch_Name "{i}(I wonder what you're wearing underneath today...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich frage mich, was du heute darunter trägst...){/i}"
 
 # game/logic/events/haley.rpy:1026
 translate deutsch haley_events_4_label_3_818b6123:
 
     # ch_Name "{i}(Show me all of yourself, Haley...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Haley, zeig dich mir in deiner ganzen Schönheit...){/i}"
 
 # game/logic/events/haley.rpy:1027
 translate deutsch haley_events_4_label_3_dbebec62:
 
     # ch_Name "{i}(I know you're not just beautiful on top...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich weiß du bist nicht nur obenrum so schön...){/i}"
 
 # game/logic/events/haley.rpy:1029
 translate deutsch haley_events_4_label_3_c142b893:
 
     # ch_Name "{i}(And everytime I see it.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Und jedesmal wenn ich dich sehe.){/i}"
 
 # game/logic/events/haley.rpy:1030
 translate deutsch haley_events_4_label_3_1027f3c2:
 
     # ch_Name "{i}(I could look at you forever.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Könnte ich dich für immer betrachten.){/i}"
 
 # game/logic/events/haley.rpy:1031
 translate deutsch haley_events_4_label_3_f89bb077:
 
     # ch_Name "{i}(But the clock is ticking.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aber die zeit verrinnt.){/i}"
 
 # game/logic/events/haley.rpy:1033
 translate deutsch haley_events_4_label_3_81799734:
 
     # ch_Name "{i}(Let's get to the fun part...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kommen wir zum interessanten teil...){/i}"
 
 # game/logic/events/haley.rpy:1034
 translate deutsch haley_events_4_label_3_03b03c0e:
 
     # ch_Name "{i}(Where do I start?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wo fange ich an?){/i}"
 
 # game/logic/events/haley.rpy:1036
 translate deutsch haley_events_4_label_3_15fff55a:
 
     # ch_Name "{i}(It's so hard to take your eyes off them.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Es ist so schwer meine Augen von ihnen abzuwenden.){/i}"
 
 # game/logic/events/haley.rpy:1037
 translate deutsch haley_events_4_label_3_4f2a4bb9:
 
     # ch_Name "{i}(Especially when you're dressed like that...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Besonders wenn du so angezogen bist...){/i}"
 
 # game/logic/events/haley.rpy:1038
 translate deutsch haley_events_4_label_3_faa1d333:
 
     # ch_Name "{i}(I wonder if the fabric still feels the same?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich frage mich ob sich der Stoff immernoch so anfühlt?){/i}"
 
 # game/logic/events/haley.rpy:1039
 translate deutsch haley_events_4_label_3_264f0e45:
 
     # ch_Name "{i}(I just have to try it...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich muss es einfach ausprobieren...){/i}"
 
 # game/logic/events/haley.rpy:1041
 translate deutsch haley_events_4_label_3_1b854e6e:
 
     # ch_Name "{i}(Oh, yes...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, ja...){/i}"
 
 # game/logic/events/haley.rpy:1042
 translate deutsch haley_events_4_label_3_d3ff63a7:
 
     # ch_Name "{i}(That's a nice fabric!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Das ist ein toller Stoff!){/i}"
 
 # game/logic/events/haley.rpy:1043
 translate deutsch haley_events_4_label_3_ec00fa59:
 
     # ch_Name "{i}(It's so flattering and pleasing to the skin...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Er ist so schmeichelhaft und angenehm für die Haut...){/i}"
 
 # game/logic/events/haley.rpy:1044
 translate deutsch haley_events_4_label_3_c442f0f4:
 
     # ch_Name "{i}(And underneath, it's... It's magic.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Und darunter ist es... es ist magisch.){/i}"
 
 # game/logic/events/haley.rpy:1045
 translate deutsch haley_events_4_label_3_dd3ec00f:
 
     # ch_Name "{i}(Haley, how do you keep such a perfect balance...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Haley, wie hältst du so ein perfektes Gleichgewicht...){/i}"
 
 # game/logic/events/haley.rpy:1046
 translate deutsch haley_events_4_label_3_44e53a41:
 
     # ch_Name "{i}(Between the softness and firmness of your breasts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Zwischen der Weichheit und Festigkeit deiner Brüste.){/i}"
 
 # game/logic/events/haley.rpy:1047
 translate deutsch haley_events_4_label_3_651d8e8a:
 
     # ch_Name "{i}(I want to have a better look...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich will sie besser sehen...){/i}"
 
 # game/logic/events/haley.rpy:1049
 translate deutsch haley_events_4_label_3_1612cd05:
 
     # ch_Name "{i}(Did you miss me?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Habt ihr mich vermisst?){/i}"
 
 # game/logic/events/haley.rpy:1050
 translate deutsch haley_events_4_label_3_d702ba7f:
 
     # ch_Name "{i}(Well hello...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aber hallo...){/i}"
 
 # game/logic/events/haley.rpy:1051
 translate deutsch haley_events_4_label_3_bbe8cd55:
 
     # ch_Name "{i}(I wonder if your nipples are sensitive?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich frage mich, ob deine Nippel empfindlich sind?){/i}"
 
 # game/logic/events/haley.rpy:1052
 translate deutsch haley_events_4_label_3_db7df0c4:
 
     # ch_Name "{i}(We'll find out...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wir werden es herausfinden...){/i}"
 
 # game/logic/events/haley.rpy:1053
 translate deutsch haley_events_4_label_3_80291595:
 
     # ch_Name "{i}(And now, let's free your breasts of excess tissue...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Und jetzt befreien wir deine Brüste von überschüssigem Gewand...){/i}"
 
 # game/logic/events/haley.rpy:1055
 translate deutsch haley_events_4_label_3_811eb71f:
 
     # ch_Name "{i}(Let's pull some strings...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Lass uns ein paar Fäden ziehen...){/i}"
 
 # game/logic/events/haley.rpy:1056
 translate deutsch haley_events_4_label_3_616803d2:
 
     # ch_Name "{i}(Hmm, that's not so easy...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm, das ist nicht so einfach...){/i}"
 
 # game/logic/events/haley.rpy:1058
 translate deutsch haley_events_4_label_3_2ae7bc34:
 
     # ch_Name "{i}(How gorgeous Haley looks in that lingerie...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wie wunderschön Haley in diesen Dessous aussieht...){/i}"
 
 # game/logic/events/haley.rpy:1059
 translate deutsch haley_events_4_label_3_5ca0871c:
 
     # ch_Name "{i}(Too bad it's so hard to get it off without being caught.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Schade, dass es so schwer ist, es auszuziehen, ohne erwischt zu werden.){/i}"
 
 # game/logic/events/haley.rpy:1060
 translate deutsch haley_events_4_label_3_71c58b14:
 
     # ch_Name "{i}(Maybe I'll have more luck underneath?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vielleicht habe ich unten mehr Glück?){/i}"
 
 # game/logic/events/haley.rpy:1062
 translate deutsch haley_events_4_label_3_d3e3f53b:
 
     # ch_Name "{i}(Oh, Haley... Let me see your temple.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, Haley... Lass mich deinen Tempel sehen.){/i}"
 
 # game/logic/events/haley.rpy:1063
 translate deutsch haley_events_4_label_3_830604ee:
 
     # ch_Name "{i}(What could be more beautiful?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Was könnte schöner sein?){/i}"
 
 # game/logic/events/haley.rpy:1065
 translate deutsch haley_events_4_label_3_878e9c1a:
 
     # ch_Name "{i}(Let me touch your foot...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Lass mich deine Beine berühren...){/i}"
 
 # game/logic/events/haley.rpy:1066
 translate deutsch haley_events_4_label_3_09f31735:
 
     # ch_Name "{i}(Your soft skin makes me crazy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Deine weiche Haut macht mich verrückt.){/i}"
 
 # game/logic/events/haley.rpy:1067
 translate deutsch haley_events_4_label_3_be60ff5c:
 
     # ch_Name "{i}(What's so playful through your transparent panties?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Was ragt da so verspielt durch dein durchsichtiges Höschen?){/i}"
 
 # game/logic/events/haley.rpy:1068
 translate deutsch haley_events_4_label_3_b986130b:
 
     # ch_Name "{i}(It beckons to pull them down...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Es ruft danach, es herunterzuziehen...){/i}"
 
 # game/logic/events/haley.rpy:1070
 translate deutsch haley_events_4_label_3_7bfb88c9:
 
     # ch_Name "{i}(Open, Sesame!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sesam, öffne dich!){/i}"
 
 # game/logic/events/haley.rpy:1072
 translate deutsch haley_events_4_label_3_705be716:
 
     # ch_Name "{i}(Oh, yeah...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, ja...){/i}"
 
 # game/logic/events/haley.rpy:1073
 translate deutsch haley_events_4_label_3_364ccdfd:
 
     # ch_Name "{i}(Your neat little pussy always drives me crazy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Deine hübsche kleine Muschi macht mich verrückt.){/i}"
 
 # game/logic/events/haley.rpy:1074
 translate deutsch haley_events_4_label_3_f3d4663c:
 
     # ch_Name "{i}(Maybe I should make your sleep a little spicier.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vielleicht sollte ich deinen Traum etwas Würze verleihen.){/i}"
 
 # game/logic/events/haley.rpy:1075
 translate deutsch haley_events_4_label_3_be3db07e:
 
     # ch_Name "{i}(Just one little touch...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nur eine kleine Berührung...){/i}"
 
 # game/logic/events/haley.rpy:1077
 translate deutsch haley_events_4_label_3_5d256338:
 
     # ch_Name "{i}(I have contact.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich berühre sie.){/i}"
 
 # game/logic/events/haley.rpy:1078
 translate deutsch haley_events_4_label_3_8c717bc1:
 
     # ch_Name "{i}(I can feel her whole body tense...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich kann spüren, wie sich ihr ganzer Körper spannt...){/i}"
 
 # game/logic/events/haley.rpy:1079
 translate deutsch haley_events_4_label_3_255d1f20:
 
     # ch_Name "{i}(But it doesn't feel like she's waking up.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aber es fühlt sich nicht so an, als würde sie aufwachen.){/i}"
 
 # game/logic/events/haley.rpy:1081
 translate deutsch haley_events_4_label_3_8235232a:
 
     # ch_Name "{i}(I'll press gently...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich drücke sanft...){/i}"
 
 # game/logic/events/haley.rpy:1082
 translate deutsch haley_events_4_label_3_5d474800:
 
     # Haley "Ah..."
-    Haley ""
+    Haley "Ah..."
 
 # game/logic/events/haley.rpy:1083
 translate deutsch haley_events_4_label_3_62e94daf:
 
     # ch_Name "{i}(She clearly likes it...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ganz eindeutig gefällt es ihr...){/i}"
 
 # game/logic/events/haley.rpy:1085
 translate deutsch haley_events_4_label_3_af04c5ca:
 
     # ch_Name "{i}(I wonder how far this can go...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich frage mich, wie weit ich gehen kann...){/i}"
 
 # game/logic/events/haley.rpy:1086
 translate deutsch haley_events_4_label_3_553cc0bc:
 
     # Haley "Ah... ah..."
-    Haley ""
+    Haley "Ah... ah..."
 
 # game/logic/events/haley.rpy:1087
 translate deutsch haley_events_4_label_3_ad3d25b0:
 
     # ch_Name "{i}(This must be your sweetest dream in a long time...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Das muss dein süßester Traum seit langem sein...){/i}"
 
 # game/logic/events/haley.rpy:1089
 translate deutsch haley_events_4_label_3_ddb1bc27:
 
     # ch_Name "{i}(Push a little harder...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Etwas fester drücken...){/i}"
 
 # game/logic/events/haley.rpy:1091
 translate deutsch haley_events_4_label_3_73c21bd3:
 
     # Haley "Mhm... mmm..."
-    Haley ""
+    Haley "Mhm... mmm..."
 
 # game/logic/events/haley.rpy:1092
 translate deutsch haley_events_4_label_3_3c4e3762:
 
     # ch_Name "{i}(Damn, I think she might wake up...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Verdammt, ich glaube, sie wird jeden Moment aufwachen.){/i}"
 
 # game/logic/events/haley.rpy:1093
 translate deutsch haley_events_4_label_3_03d6a422:
 
     # ch_Name "{i}(Better get out of here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ich schaue besser dass ich verschwinde.){/i}"
 
 # game/logic/events/haley.rpy:1132
 translate deutsch haley_8_label_eaf050fe:
