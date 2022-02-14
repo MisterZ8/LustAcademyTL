@@ -76,7 +76,7 @@ translate english Leona_1_label_a2fcf8a5:
 translate english Leona_1_label_24deac97:
 
     # ch_Name "What? Where? When?"
-    ch_Name ""
+    ch_Name "Who? What? Where? When?"
 
 # game/logic/events/Leona.rpy:64
 translate english Leona_1_label_c1a2e863:
@@ -244,7 +244,7 @@ translate english Leona_1_label_16312aa3:
 translate english Leona_1_label_c9680544:
 
     # Leona "But after centuries of being locked up in a book, that's something!"
-    Leona ""
+    Leona "But after centuries of being locked up in a book, I'll take what I can get!"
 
 # game/logic/events/Leona.rpy:110
 translate english Leona_1_label_ac83bc19:
@@ -370,13 +370,13 @@ translate english Leona_1_label_0229259c:
 translate english Leona_1_label_289ca47c:
 
     # Leona "And she thinks you're pureblood."
-    Leona "and she thinks you're a pureblood."
+    Leona "And she thinks you're a pureblood."
 
 # game/logic/events/Leona.rpy:137
 translate english Leona_1_label_6300fa5e:
 
     # ch_Name "That's right, I think I remember something like that..."
-    ch_Name ""
+    ch_Name "That's right, I think I remember her saying something like that..."
 
 # game/logic/events/Leona.rpy:138
 translate english Leona_1_label_93922dc6:
@@ -454,7 +454,7 @@ translate english Leona_1_label_c19510b9:
 translate english Leona_1_label_2b782e48:
 
     # Leona "Including experimental ones."
-    Leona ""
+    Leona "Including experimental ways..."
 
 # game/logic/events/Leona.rpy:154
 translate english Leona_1_label_679f7e2c:
@@ -754,7 +754,7 @@ translate english Leona_1_label_8d5fb1bf:
 translate english Leona_1_label_28b1a789:
 
     # ch_Name "Anything that doesn't kill us makes us stronger."
-    ch_Name ""
+    ch_Name "Anything that doesn't kill us makes us stronger..."
 
 # game/logic/events/Leona.rpy:217
 translate english Leona_1_label_c412402d:
@@ -784,7 +784,7 @@ translate english Leona_1_label_927c4494:
 translate english Leona_1_label_3ab11bc3:
 
     # ch_Name "It seems to me to be a choice without a choice."
-    ch_Name ""
+    ch_Name "Well, it seems like an obvious choice to me."
 
 # game/logic/events/Leona.rpy:234
 translate english Leona_1_label_1388fa78:
@@ -1084,7 +1084,7 @@ translate english Leona_1_label_db09fce4:
 translate english Leona_1_label_51afcce6:
 
     # ch_Name "{i}(It's like fucking a teenager...){/i}"
-    ch_Name "{i}(it feels like I'm fucking a virgin...){/i}"
+    ch_Name "{i}(It feels like I'm fucking a virgin...){/i}"
 
 # game/logic/events/Leona.rpy:305
 translate english Leona_1_label_ed7e585e:
@@ -1108,7 +1108,7 @@ translate english Leona_1_label_fb1897f0:
 translate english Leona_1_label_305d2e8e:
 
     # ch_Name "Then fill me with your huge cock!"
-    ch_Name ""
+    Leona "Then fill me with your huge cock!"
 
 # game/logic/events/Leona.rpy:310
 translate english Leona_1_label_ff5b2797:
@@ -1558,7 +1558,7 @@ translate english Leona_1_44_label_0a4e5814:
 translate english Leona_1_44_label_9fa92c5b:
 
     # ch_Name "{i}(I still can't undestand, if it was real. Leona was here?){/i}"
-    ch_Name ""
+    ch_Name "{i}(I still can't tell if it was real. Was Leona really here?){/i}"
 
 # game/logic/events/Leona.rpy:433
 translate english Leona_1_44_label_ac2cdabf:
@@ -1576,7 +1576,7 @@ translate english Leona_1_44_label_d6dd2e49:
 translate english Leona_2_label_b37ded33:
 
     # ch_Name "{i}(Wow, I've got so invested I lost track of time. Well, that may be even better.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wow, I've gotten so invested I lost track of time. Well, that may be even better.){/i}"
 
 # game/logic/events/Leona.rpy:449
 translate english Leona_2_label_d95feb3e:
@@ -1840,7 +1840,7 @@ translate english Leona_2_label_ea67140c:
 translate english Leona_2_label_6723adb8:
 
     # ch_Name "Honestly, it's distracting. Yes."
-    ch_Name ""
+    ch_Name "Honestly, it's distracting."
 
 # game/logic/events/Leona.rpy:517
 translate english Leona_2_label_f47da454:
@@ -1888,7 +1888,7 @@ translate english Leona_2_label_7da9cc9c:
 translate english Leona_2_label_f5f4f08c:
 
     # Leona "Ah-ha-ha. That's what you're talking about!"
-    Leona ""
+    Leona "Ah-ha-ha. That's what you're talking about?"
 
 # game/logic/events/Leona.rpy:529
 translate english Leona_2_label_4302c687:
@@ -1930,7 +1930,7 @@ translate english Leona_2_label_c99008fc:
 translate english Leona_2_label_7e12134f:
 
     # Leona "{i}(Hey! What were you thinking about my intelligence?!){/i}" with vpunch
-    Leona "" with vpunch
+    Leona "{i}(Hey! What was that you were thinking about my intelligence?!){/i}" with vpunch
 
 # game/logic/events/Leona.rpy:540
 translate english Leona_2_label_c128ec3a:
@@ -1942,7 +1942,7 @@ translate english Leona_2_label_c128ec3a:
 translate english Leona_2_label_342c66c7:
 
     # Leona "{i}(Your doubts about my abilities are sometimes insulting.){/i}" with vpunch
-    Leona "{i}(Your doubts about my abilities is insulting.){/i}" with vpunch
+    Leona "{i}(Your doubts about my abilities are insulting.){/i}" with vpunch
 
 # game/logic/events/Leona.rpy:544
 translate english Leona_2_label_16a1f0fc:
@@ -2212,7 +2212,7 @@ translate english Leona_2_label_ec71dae8:
 translate english Leona_2_label_68e80979:
 
     # Leona "Don't get into it, sweetie, it's not first-year material."
-    Leona ""
+    Leona "Don't worry about it, sweetie, it's not first-year material."
 
 # game/logic/events/Leona.rpy:600
 translate english Leona_2_label_39270f4f:
@@ -2254,7 +2254,7 @@ translate english Leona_2_label_0a5d7622:
 translate english Leona_2_label_d1d23977:
 
     # ch_Name "You're one of the four founding mothers of Cordale!"
-    ch_Name "You're one of the Cordale's founding matrons!"
+    ch_Name "You're one of Cordale's founding matrons!"
 
 # game/logic/events/Leona.rpy:609
 translate english Leona_2_label_993abdfd:
@@ -2314,19 +2314,19 @@ translate english Leona_2_label_c6760218:
 translate english Leona_2_label_02e01937:
 
     # ch_Name "{i}(I don't like all this.){/i}"
-    ch_Name ""
+    ch_Name "{i}(I don't like this at all.){/i}"
 
 # game/logic/events/Leona.rpy:625
 translate english Leona_2_label_a83aec0b:
 
     # ch_Name "{i}(It feels like everyone is just looking at her.){/i}"
-    ch_Name ""
+    ch_Name "{i}(It feels like everyone is looking at her.){/i}"
 
 # game/logic/events/Leona.rpy:627
 translate english Leona_2_label_117d7a74:
 
     # ch_Name "{i}(Do they recognize her, or are they just looking at the outfit?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Do they recognize her? Or are they just looking at her outfit?){/i}"
 
 # game/logic/events/Leona.rpy:628
 translate english Leona_2_label_476d72f7:
@@ -2440,7 +2440,7 @@ translate english Leona_2_label_01303876:
 translate english Leona_2_label_a8cf9134:
 
     # ch_Name "Don't think?"
-    ch_Name ""
+    ch_Name "I can't even think?"
 
 # game/logic/events/Leona.rpy:656
 translate english Leona_2_label_d1a986de:
@@ -2596,7 +2596,7 @@ translate english Leona_3_label_8d06cba2:
 translate english Leona_3_label_feb608b8:
 
     # ch_Name "{i}('Cause I can use some sleep.){/i}"
-    ch_Name "{i}(I could due with some sleep.){/i}"
+    ch_Name "{i}(I could use some sleep.){/i}"
 
 # game/logic/events/Leona.rpy:702
 translate english Leona_3_label_afee2ccc:
@@ -2854,7 +2854,7 @@ translate english Leona_3_label_53038508:
 translate english Leona_3_label_432ed9a7:
 
     # ch_Name "Frankly, what can I do?"
-    ch_Name ""
+    ch_Name "I don't know what to say..."
 
 # game/logic/events/Leona.rpy:771
 translate english Leona_3_label_45159619:
@@ -3334,7 +3334,7 @@ translate english Leona_3_label_L_116_76ea3acf:
 translate english Leona_3_label_L_132_10ee4e68:
 
     # Samantha "Lazy bunch of freshmen... We didn't sleep in instead of going to classes!"
-    Samantha ""
+    Samantha "Lazy bunch of freshmen... We never slept in instead of going to classes!"
 
 # game/logic/events/Leona.rpy:926
 translate english Leona_3_label_L_132_801740ae:
@@ -6868,7 +6868,7 @@ translate english Leona_6_label_70693eea:
 translate english Leona_6_label_1b96304b:
 
     # Jacob "Even weakened, deprived of some of his powers..."
-    Jacob ""
+    Jacob "Even weakened and deprived of some of his powers..."
 
 # game/logic/events/Leona.rpy:1855
 translate english Leona_6_label_29b335e9:
