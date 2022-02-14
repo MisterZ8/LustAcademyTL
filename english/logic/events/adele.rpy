@@ -148,7 +148,7 @@ translate english adele_1_label_b34f9f72:
 translate english adele_1_label_fd4aff03:
 
     # Adele "She's still very naive and young."
-    Adele "She's new, passionate, but still a little naive."
+    Adele "She's new and passionate, but still a little naive."
 
 # game/logic/events/adele.rpy:124
 translate english adele_1_label_37d05529:
@@ -388,7 +388,7 @@ translate english adele_1_label_e97a80b9:
 translate english adele_1_label_c5f918d4:
 
     # Adele "Vanessa, should be here any minute."
-    Adele ""
+    Adele "Vanessa should be here any minute."
 
 # game/logic/events/adele.rpy:178
 translate english adele_1_label_8eacd283:
@@ -556,7 +556,7 @@ translate english adele_1_label_90202847:
 translate english adele_1_label_9f7138f3:
 
     # Vanessa "What happened, is it too strong for you?"
-    Vanessa "What happened, is it too strong?"
+    Vanessa "What happened? Is it too strong?"
 
 # game/logic/events/adele.rpy:229
 translate english adele_1_label_8f51d587:
@@ -682,7 +682,7 @@ translate english adele_1_label_c1026d01:
 translate english adele_1_label_6cbace3a:
 
     # ch_Name "No, baby, thanks, but I only drink beer."
-    ch_Name "No thanks baby, but I only drink beer."
+    ch_Name "No thanks baby, I only drink beer."
 
 # game/logic/events/adele.rpy:260
 translate english adele_1_label_451a6aae:
@@ -1096,7 +1096,7 @@ translate english adele_2_label_88dcf720:
 translate english adele_2_label_ece4e263:
 
     # ch_Name "It's impressive. But I have to study local cuisine more to finish the evaluation."
-    ch_Name ""
+    ch_Name "It's impressive. But I have to study the local cuisine more to finish the evaluation."
 
 # game/logic/events/adele.rpy:386
 translate english adele_2_label_9fb90108:
@@ -1108,7 +1108,7 @@ translate english adele_2_label_9fb90108:
 translate english adele_2_label_11912fb8:
 
     # Adele "Who would it be?"
-    Adele ""
+    Adele "Who will it be?"
 
 # game/logic/events/adele.rpy:393
 translate english adele_2_label_531117d3:
@@ -1216,7 +1216,7 @@ translate english Sadira_1_label_cc928e25:
 translate english Sadira_1_label_5a51640a:
 
     # ch_Name "{i}(Looks like bending like this is not a big deal for her.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Looks like bending like that isn't a big deal for her.){/i}"
 
 # game/logic/events/adele.rpy:463
 translate english Sadira_1_label_8ea2566b:
@@ -1228,7 +1228,7 @@ translate english Sadira_1_label_8ea2566b:
 translate english Sadira_1_label_9890bf59:
 
     # ch_Name "{i}(This baby know what to do with a pole. that's for sure.){/i}"
-    ch_Name ""
+    ch_Name "{i}(This baby knows what to do with a pole. that's for sure.){/i}"
 
 # game/logic/events/adele.rpy:467
 translate english Sadira_1_label_0ae9bcd0_1:
@@ -1288,7 +1288,7 @@ translate english Sadira_1_label_8ea2566b_1:
 translate english Sadira_1_label_76e2506f:
 
     # ch_Name "{i}(This baby know what to do with a pole, that's for sure.){/i}"
-    ch_Name ""
+    ch_Name "{i}(This baby knows what to do with a pole. that's for sure.){/i}"
 
 # game/logic/events/adele.rpy:490
 translate english Sadira_1_label_0ae9bcd0_4:
@@ -1330,7 +1330,7 @@ translate english Sadira_2_label_c3566743:
 translate english Sadira_2_label_99ab4922:
 
     # ch_Name "{i}(I never thought oriental dancing was so hot...){/i}"
-    ch_Name ""
+    ch_Name "{i}(I never knew oriental dancing was so hot...){/i}"
 
 # game/logic/events/adele.rpy:529
 translate english Sadira_2_label_120617fa:
@@ -1414,7 +1414,7 @@ translate english Sadira_2_label_0cac85e4:
 translate english Sadira_2_label_e04c33c1:
 
     # ch_Name "Depending on what you mean?"
-    ch_Name ""
+    ch_Name "Depends on what you mean"
 
 # game/logic/events/adele.rpy:549
 translate english Sadira_2_label_c38ac972:
@@ -1444,7 +1444,7 @@ translate english Sadira_2_label_62f20ce6:
 translate english Sadira_2_label_ae4f7433:
 
     # Sadira "Ah-ha-ha-ha.{w} Honey, it's too crowdy here."
-    Sadira ""
+    Sadira "Ah-ha-ha-ha.{w} Honey, it's too crowded here."
 
 # game/logic/events/adele.rpy:555
 translate english Sadira_2_label_f16e97ac:
@@ -1540,7 +1540,7 @@ translate english Sadira_2_label_c3566743_1:
 translate english Sadira_2_label_99ab4922_1:
 
     # ch_Name "{i}(I never thought oriental dancing was so hot...){/i}"
-    ch_Name ""
+    ch_Name "{i}(I never knew oriental dancing was so hot...){/i}"
 
 # game/logic/events/adele.rpy:594
 translate english Sadira_2_label_120617fa_1:
@@ -1624,7 +1624,7 @@ translate english Sadira_2_label_0cac85e4_1:
 translate english Sadira_2_label_e04c33c1_1:
 
     # ch_Name "Depending on what you mean?"
-    ch_Name ""
+    ch_Name "Depends on what you mean."
 
 # game/logic/events/adele.rpy:614
 translate english Sadira_2_label_c38ac972_1:
@@ -1654,7 +1654,7 @@ translate english Sadira_2_label_62f20ce6_1:
 translate english Sadira_2_label_ae4f7433_1:
 
     # Sadira "Ah-ha-ha-ha.{w} Honey, it's too crowdy here."
-    Sadira ""
+    Sadira "Ah-ha-ha-ha.{w} Honey, it's too crowded here."
 
 # game/logic/events/adele.rpy:620
 translate english Sadira_2_label_f16e97ac_1:
@@ -1918,7 +1918,7 @@ translate english Lucy_2_label_ea9cba21:
 translate english Lucy_2_label_48c579e3:
 
     # Lucy "Enjoy the view. Alright? Don't think too much. Alright?"
-    Lucy ""
+    Lucy "Just enjoy the view and don't think too much. Alright?"
 
 # game/logic/events/adele.rpy:738
 translate english Lucy_2_label_cbd63ed0:
@@ -1942,7 +1942,7 @@ translate english Lucy_2_label_e67db79b:
 translate english Lucy_2_label_5b4481c5:
 
     # ch_Name "{i}(Are there people borned with natural talent to striptease?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Are there people born with a natural talent for striptease?){/i}"
 
 # game/logic/events/adele.rpy:744
 translate english Lucy_2_label_e8f60ee9:
@@ -2014,7 +2014,7 @@ translate english Lucy_2_label_c9789922:
 translate english Lucy_2_label_c8fb9c66:
 
     # ch_Name "We can test this."
-    ch_Name ""
+    ch_Name "We can find out."
 
 # game/logic/events/adele.rpy:760
 translate english Lucy_2_label_61d80088:
@@ -2026,7 +2026,7 @@ translate english Lucy_2_label_61d80088:
 translate english Lucy_2_label_786df5b3:
 
     # Lucy "But we can't do this right here."
-    Lucy ""
+    Lucy "But we can't do that here"
 
 # game/logic/events/adele.rpy:762
 translate english Lucy_2_label_41a688c8:
@@ -2146,7 +2146,7 @@ translate english vip_lucy_1_label_6fea86bf:
 translate english vip_lucy_1_label_ed00bf8e:
 
     # ch_Name "{i}(I can sense how turned on she gets each time she touches it.){/i}"
-    ch_Name ""
+    ch_Name "{i}(I can sense how turned on she gets each time she touches them.){/i}"
 
 # game/logic/events/adele.rpy:818
 translate english vip_lucy_1_label_0ae9bcd0:
@@ -2200,7 +2200,7 @@ translate english vip_lucy_1_label_fb9810e8:
 translate english vip_lucy_1_label_ac322f97:
 
     # ch_Name "Is it all you've got?"
-    ch_Name ""
+    ch_Name "Is that all you've got."
 
 # game/logic/events/adele.rpy:833
 translate english vip_lucy_1_label_ecf0ac35:
@@ -2326,13 +2326,13 @@ translate english vip_lucy_1_label_1_f646bbc7:
 translate english vip_lucy_1_label_1_21c7837e:
 
     # Lucy "I haven't played with things like THAT in a while..."
-    Lucy ""
+    Lucy "I haven't played with one like THIS in a while..."
 
 # game/logic/events/adele.rpy:878
 translate english vip_lucy_1_label_1_a2218030:
 
     # Lucy "That's gonna be fun!"
-    Lucy ""
+    Lucy "This is gonna be fun!"
 
 # game/logic/events/adele.rpy:880
 translate english vip_lucy_1_label_1_6911978f:
@@ -2674,7 +2674,7 @@ translate english vip_lucy_1_label_2_87e247fa:
 translate english vip_lucy_1_label_2_5af21751:
 
     # ch_Name "{i}(Anyway, I'm sure that's worth the wait.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Anyway, I'm sure that it's worth the wait.){/i}"
 
 # game/logic/events/adele.rpy:966
 translate english vip_lucy_1_label_2_10a36858:
@@ -2728,7 +2728,7 @@ translate english vip_lucy_1_label_2_14abe349:
 translate english vip_lucy_1_label_2_91bdfb58:
 
     # ch_Name "I cannot imagine that I can get bored in your company."
-    ch_Name ""
+    ch_Name "I could never be bored in your company."
 
 # game/logic/events/adele.rpy:978
 translate english vip_lucy_1_label_2_6e93df39:
@@ -2788,7 +2788,7 @@ translate english vip_lucy_1_label_2_86590cae:
 translate english vip_lucy_1_label_2_587f853f:
 
     # ch_Name "Easily lose control when I only look at this curves!"
-    ch_Name ""
+    ch_Name "I lose control so easily when I look at your curves."
 
 # game/logic/events/adele.rpy:991
 translate english vip_lucy_1_label_2_fc7612a5:
@@ -2878,7 +2878,7 @@ translate english vip_lucy_1_label_2_05918863:
 translate english vip_lucy_1_label_2_4ef326b1:
 
     # ch_Name "{i}(Such a view!){/i}"
-    ch_Name ""
+    ch_Name "{i}(What a view!){/i}"
 
 # game/logic/events/adele.rpy:1010
 translate english vip_lucy_1_label_2_da6590d0:
@@ -2914,13 +2914,13 @@ translate english vip_lucy_1_label_2_5d6c7c09:
 translate english vip_lucy_1_label_2_1011a685:
 
     # Lucy "Want to rub my pussy on your cock..."
-    Lucy ""
+    Lucy "I want to rub my pussy on your cock..."
 
 # game/logic/events/adele.rpy:1018
 translate english vip_lucy_1_label_2_503c87ce:
 
     # Lucy "To feel how it getting hard..."
-    Lucy ""
+    Lucy "To feel it getting hard."
 
 # game/logic/events/adele.rpy:1019
 translate english vip_lucy_1_label_2_cbbc7007:
@@ -2968,7 +2968,7 @@ translate english vip_lucy_1_label_2_199eae7a:
 translate english vip_lucy_1_label_2_a9f09a39:
 
     # Lucy "I cannot even imagine what can I experience using this toy."
-    Lucy ""
+    Lucy "I can't even imagine what can I experience using this toy."
 
 # game/logic/events/adele.rpy:1030
 translate english vip_lucy_1_label_2_d079edf0:
@@ -3070,7 +3070,7 @@ translate english vip_lucy_1_label_2_0ae9bcd0_3:
 translate english vip_lucy_1_label_2_4abaf7a3:
 
     # ch_Name "Keep moving you ass, bitch."
-    ch_Name ""
+    ch_Name "Keep moving your ass, bitch."
 
 # game/logic/events/adele.rpy:1051
 translate english vip_lucy_1_label_2_dd10c660:
@@ -3082,13 +3082,13 @@ translate english vip_lucy_1_label_2_dd10c660:
 translate english vip_lucy_1_label_2_f49bb6ed:
 
     # ch_Name "{i}(I never felt the way I do!){/i}"
-    ch_Name ""
+    ch_Name "{i}(I've never felt like this before!){/i}"
 
 # game/logic/events/adele.rpy:1054
 translate english vip_lucy_1_label_2_806315c9:
 
     # ch_Name "{i}(And to watch this bitch's pussy rubbing around my dick...){/i}"
-    ch_Name ""
+    ch_Name "{i}(And watching this bitch's pussy rubbing around my dick...){/i}"
 
 # game/logic/events/adele.rpy:1055
 translate english vip_lucy_1_label_2_5968e84b:
@@ -3112,7 +3112,7 @@ translate english vip_lucy_1_label_2_59b62c87_1:
 translate english vip_lucy_1_label_2_0728f8ee:
 
     # ch_Name "So amazing to feel your every dirty hole."
-    ch_Name ""
+    ch_Name "Your dirty holes feel amazing."
 
 # game/logic/events/adele.rpy:1060
 translate english vip_lucy_1_label_2_4902deb4:
@@ -3160,7 +3160,7 @@ translate english vip_lucy_1_label_2_b7f092b8:
 translate english vip_lucy_1_label_2_87084097:
 
     # Lucy "So pleasantly to feel how it's flowing."
-    Lucy ""
+    Lucy "The feel of it flowing, it's so pleasent."
 
 # game/logic/events/adele.rpy:1071
 translate english vip_lucy_1_label_2_f66c5d3b:
@@ -3178,7 +3178,7 @@ translate english vip_lucy_1_label_2_050f9313:
 translate english vip_lucy_1_label_2_cc02989a:
 
     # ch_Name "Do you say it to every client you have?"
-    ch_Name ""
+    ch_Name "Do you say that to all your clients?"
 
 # game/logic/events/adele.rpy:1075
 translate english vip_lucy_1_label_2_ef1a6d41:
@@ -3388,7 +3388,7 @@ translate english vip_sadira_1_label_9220ef76:
 translate english vip_sadira_1_label_56069a69:
 
     # ch_Name "Ill have to say \"No\" this time."
-    ch_Name ""
+    ch_Name "I'll have to say \"No\" this time."
 
 # game/logic/events/adele.rpy:1142
 translate english vip_sadira_1_label_2432f1ae:
@@ -3418,7 +3418,7 @@ translate english vip_sadira_1_label_a8c1c31a:
 translate english vip_sadira_1_label_d06d5b47:
 
     # ch_Name "{i}(She definitely got the moves...){/i}"
-    ch_Name ""
+    ch_Name "{i}(She definitely has the moves...){/i}"
 
 # game/logic/events/adele.rpy:1149
 translate english vip_sadira_1_label_3b183424:
@@ -3616,7 +3616,7 @@ translate english vip_sadira_1_label_290f5269:
 translate english vip_sadira_1_label_d06d5b47_1:
 
     # ch_Name "{i}(She definitely got the moves...){/i}"
-    ch_Name ""
+    ch_Name "{i}(She definitely has the moves...){/i}"
 
 # game/logic/events/adele.rpy:1214
 translate english vip_sadira_1_label_3b183424_1:
@@ -3694,7 +3694,7 @@ translate english vip_sadira_1_label_1_73de6794:
 translate english vip_sadira_1_label_1_0056cfa1:
 
     # Sadira "You can feel the power in it..."
-    Sadira ""
+    Sadira "I can feel the power in it..."
 
 # game/logic/events/adele.rpy:1253
 translate english vip_sadira_1_label_1_2fad3cb5:
@@ -3736,7 +3736,7 @@ translate english vip_sadira_1_label_1_6a4c6541:
 translate english vip_sadira_1_label_1_91280bdb:
 
     # Sadira "We enjoy each other completely... Ahh..."
-    Sadira ""
+    Sadira "We will enjoy each other completely... Ahh..."
 
 # game/logic/events/adele.rpy:1263
 translate english vip_sadira_1_label_1_91406bed:
@@ -3748,7 +3748,7 @@ translate english vip_sadira_1_label_1_91406bed:
 translate english vip_sadira_1_label_1_adbdce5f:
 
     # Sadira "And only then - sex!"
-    Sadira ""
+    Sadira "And only then will we have sex!"
 
 # game/logic/events/adele.rpy:1266
 translate english vip_sadira_1_label_1_a76978a5:
@@ -3760,13 +3760,13 @@ translate english vip_sadira_1_label_1_a76978a5:
 translate english vip_sadira_1_label_1_bb444278:
 
     # Sadira "This is what I wanted to hear."
-    Sadira ""
+    Sadira "That's what I wanted to hear."
 
 # game/logic/events/adele.rpy:1268
 translate english vip_sadira_1_label_1_753c6fc3:
 
     # Sadira "But this night was only the first of my many tales."
-    Sadira ""
+    Sadira "But this night is only the first of my many tales."
 
 # game/logic/events/adele.rpy:1270
 translate english vip_sadira_1_label_1_19c0a21c:
@@ -3874,7 +3874,7 @@ translate english vip_sadira_1_label_1_58d4b2be:
 translate english vip_sadira_1_label_1_d7ed3d30:
 
     # Sadira "C'ya around, honey,"
-    Sadira ""
+    Sadira "See'ya around, honey."
 
 # game/logic/events/adele.rpy:1296
 translate english vip_sadira_1_label_1_dd10c660:
@@ -3958,7 +3958,7 @@ translate english vip_sadira_1_label_1_cbd359cb:
 translate english vip_sadira_1_label_1_0056cfa1_1:
 
     # Sadira "You can feel the power in it..."
-    Sadira ""
+    Sadira "I can feel the power in it..."
 
 # game/logic/events/adele.rpy:1313
 translate english vip_sadira_1_label_1_a34e620a:
@@ -4156,7 +4156,7 @@ translate english vip_sadira_1_label_1_58d4b2be_1:
 translate english vip_sadira_1_label_1_cda1ab7f:
 
     # Sadira "C'ya around, honey."
-    Sadira ""
+    Sadira "See 'ya around, honey."
 
 # game/logic/events/adele.rpy:1370
 translate english vip_sadira_1_label_2_f1a178e1:
@@ -4354,7 +4354,7 @@ translate english vip_sadira_1_label_2_c111c831:
 translate english vip_sadira_1_label_2_5fabf729:
 
     # ch_Name "{i}(The day will come when I fuck her good.){/i}"
-    ch_Name ""
+    ch_Name "{i}(The day will come when I'll fuck her good.){/i}"
 
 # game/logic/events/adele.rpy:1418
 translate english vip_sadira_1_label_2_44ee2920:
@@ -4408,7 +4408,7 @@ translate english vip_sadira_1_label_2_c2970a35:
 translate english vip_sadira_1_label_2_e58626bd:
 
     # ch_Name "And you try it!"
-    ch_Name ""
+    ch_Name "Then try it."
 
 # game/logic/events/adele.rpy:1436
 translate english vip_sadira_1_label_2_eee686cf_1:
@@ -4618,7 +4618,7 @@ translate english vip_sadira_1_label_2_6394ed59:
 translate english vip_sadira_1_label_2_0681017a:
 
     # ch_Name "{i}(It's worth the money, that's for sure...){/i}"
-    ch_Name ""
+    ch_Name "{i}(She's worth the money, that's for sure...){/i}"
 
 # game/logic/events/adele.rpy:1479
 translate english vip_sadira_1_label_2_0a11198e:
@@ -4714,7 +4714,7 @@ translate english vip_sadira_1_label_2_6b389b7e:
 translate english vip_sadira_1_label_2_2fda9a58:
 
     # ch_Name "{i}(If this keeps up, I'm going to come.){/i}"
-    ch_Name ""
+    ch_Name "{i}(If this keeps up, I'm going to cum.){/i}"
 
 # game/logic/events/adele.rpy:1498
 translate english vip_sadira_1_label_2_fe881b29:
@@ -4726,7 +4726,7 @@ translate english vip_sadira_1_label_2_fe881b29:
 translate english vip_sadira_1_label_2_7494d93a:
 
     # ch_Name "I'm going to come soon. Don't stop!"
-    ch_Name ""
+    ch_Name "I'm going to cum soon. Don't stop!"
 
 # game/logic/events/adele.rpy:1500
 translate english vip_sadira_1_label_2_0a11198e_1:
@@ -5026,13 +5026,13 @@ translate english vip_sadira_1_label_2_95e4d8ed:
 translate english vip_sadira_1_label_2_5fabf729_1:
 
     # ch_Name "{i}(The day will come when I fuck her good.){/i}"
-    ch_Name ""
+    ch_Name "{i}(The day will come when I'll fuck her good.){/i}"
 
 # game/logic/events/adele.rpy:1571
 translate english vip_sadira_1_label_2_359f73ab:
 
     # ch_Name "{i}(But tonight, my dick's gonna be busy with another asshole.){/i}"
-    ch_Name ""
+    ch_Name "{i}(But tonight, my dick's gonna be busy with another hole.){/i}"
 
 # game/logic/events/adele.rpy:1573
 translate english vip_sadira_1_label_2_12059ab5_1:
@@ -5080,7 +5080,7 @@ translate english vip_sadira_1_label_2_c2970a35_1:
 translate english vip_sadira_1_label_2_e58626bd_1:
 
     # ch_Name "And you try it!"
-    ch_Name ""
+    ch_Name "Then try it."
 
 # game/logic/events/adele.rpy:1589
 translate english vip_sadira_1_label_2_eee686cf_3:
@@ -5290,7 +5290,7 @@ translate english vip_sadira_1_label_2_6394ed59_1:
 translate english vip_sadira_1_label_2_0681017a_1:
 
     # ch_Name "{i}(It's worth the money, that's for sure...){/i}"
-    ch_Name ""
+    ch_Name "{i}(She's worth the money, that's for sure...){/i}"
 
 # game/logic/events/adele.rpy:1632
 translate english vip_sadira_1_label_2_0a11198e_2:
@@ -5368,7 +5368,7 @@ translate english vip_sadira_1_label_2_6b389b7e_1:
 translate english vip_sadira_1_label_2_2fda9a58_1:
 
     # ch_Name "{i}(If this keeps up, I'm going to come.){/i}"
-    ch_Name ""
+    ch_Name "{i}(If this keeps up, I'm going to cum.){/i}"
 
 # game/logic/events/adele.rpy:1647
 translate english vip_sadira_1_label_2_fe881b29_1:
@@ -5380,7 +5380,7 @@ translate english vip_sadira_1_label_2_fe881b29_1:
 translate english vip_sadira_1_label_2_7494d93a_1:
 
     # ch_Name "I'm going to come soon. Don't stop!"
-    ch_Name ""
+    ch_Name "I'm going to cum soon. Don't stop!"
 
 # game/logic/events/adele.rpy:1649
 translate english vip_sadira_1_label_2_0a11198e_3:
@@ -5632,7 +5632,7 @@ translate english Vanessa_1_label_0174367c:
 translate english Vanessa_1_label_b0412530:
 
     # ch_Name "{i}(Every time she looks at me I feel like being challenged to duel.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Every time she looks at me I feel like I'm being challenged to duel.){/i}"
 
 # game/logic/events/adele.rpy:1722
 translate english Vanessa_1_label_76b9cc9d:
@@ -6070,7 +6070,7 @@ translate english Vanessa_2_label_f0da2a5f:
 translate english Vanessa_2_label_c7a5db15:
 
     # Vanessa "I don't know why am I acting like that. Shit day."
-    Vanessa ""
+    Vanessa "I don't know why I'm acting like that. Shit day."
 
 # game/logic/events/adele.rpy:1834
 translate english Vanessa_2_label_05f41882:
@@ -6178,7 +6178,7 @@ translate english Vanessa_2_label_af566a17:
 translate english Vanessa_2_label_13ba949c:
 
     # Vanessa "Of course, you do..."
-    Vanessa ""
+    Vanessa "Of course you do..."
 
 # game/logic/events/adele.rpy:1880
 translate english Vanessa_2_label_6f87156d:
@@ -6226,7 +6226,7 @@ translate english Vanessa_2_label_bbabe32d:
 translate english Vanessa_2_label_503e34ad:
 
     # Vanessa "Screw cafe, I can't wait any longer."
-    Vanessa ""
+    Vanessa "Screw the cafe, I can't wait any longer."
 
 # game/logic/events/adele.rpy:1895
 translate english Vanessa_2_label_8b1c465b:
@@ -6430,13 +6430,13 @@ translate english Vanessa_2_label_76033ade:
 translate english Vanessa_2_label_f9fb5885:
 
     # ch_Name "Do I get to do a cool stuff like turning into bat?"
-    ch_Name ""
+    ch_Name "Do I get to do  cool stuff like turning into bat?"
 
 # game/logic/events/adele.rpy:1949
 translate english Vanessa_2_label_5905406b:
 
     # ch_Name "Oh, or hypnotizing people..."
-    ch_Name ""
+    ch_Name "Oh, or hypnotizing people?"
 
 # game/logic/events/adele.rpy:1951
 translate english Vanessa_2_label_435c6d1e:
@@ -6490,13 +6490,13 @@ translate english Vanessa_2_label_78307a53:
 translate english Vanessa_2_label_6f5efa39:
 
     # Vanessa "Everything is, for a human being. But you need to grow up."
-    Vanessa ""
+    Vanessa "Nothing, for a human being. But you need to grow up."
 
 # game/logic/events/adele.rpy:1962
 translate english Vanessa_2_label_cdc5da1d:
 
     # Vanessa "You don't want to stay that way forever, do you?"
-    Vanessa ""
+    Vanessa "You don't want to stay this way forever, do you?"
 
 # game/logic/events/adele.rpy:1964
 translate english Vanessa_2_label_71fd5f24:
@@ -6568,13 +6568,13 @@ translate english Vanessa_3_label_adc10b7a:
 translate english Vanessa_3_label_e33ca9cc:
 
     # Vanessa "The life of vampire is a great gift and a curse!"
-    Vanessa ""
+    Vanessa "The life of a vampire is a great gift and a curse!"
 
 # game/logic/events/adele.rpy:2004
 translate english Vanessa_3_label_c775abd5:
 
     # ch_Name "C'mon, I just kidding."
-    ch_Name ""
+    ch_Name "C'mon, I'm just kidding."
 
 # game/logic/events/adele.rpy:2006
 translate english Vanessa_3_label_2e7e0b94:
@@ -6634,7 +6634,7 @@ translate english Vanessa_3_label_3b4d9f44:
 translate english Vanessa_3_label_56decc15:
 
     # Vanessa "I remember you mention it last time."
-    Vanessa ""
+    Vanessa "I remember you mentioned it last time."
 
 # game/logic/events/adele.rpy:2021
 translate english Vanessa_3_label_3c68e388:
@@ -6694,7 +6694,7 @@ translate english Vanessa_3_label_34ddcb08:
 translate english Vanessa_3_label_64739bd8:
 
     # Vanessa "Are you here just to have something non-alcohol? "
-    Vanessa ""
+    Vanessa "Are you here just to have something non-alcoholic?"
 
 # game/logic/events/adele.rpy:2036
 translate english Vanessa_3_label_2e9138e9:
@@ -6742,7 +6742,7 @@ translate english Vanessa_3_label_5781c8ba:
 translate english Vanessa_3_label_9b9dadc2:
 
     # ch_Name "You are liar!"
-    ch_Name ""
+    ch_Name "You're a liar!"
 
 # game/logic/events/adele.rpy:2050
 translate english Vanessa_3_label_882ba6c0:
@@ -6778,7 +6778,7 @@ translate english Vanessa_3_label_9cb0b8a4:
 translate english Vanessa_3_label_422350d2:
 
     # Vanessa "That's just unbearable!"
-    Vanessa ""
+    Vanessa "It was just unbearable!"
 
 # game/logic/events/adele.rpy:2058
 translate english Vanessa_3_label_412322a6:
@@ -6820,7 +6820,7 @@ translate english Vanessa_3_label_93a9a472:
 translate english Vanessa_3_label_bdff4f9c:
 
     # Vanessa "But it doesn't mean I don't want to spend evening with you."
-    Vanessa ""
+    Vanessa "But that doesn't mean I don't want to spend the evening with you."
 
 # game/logic/events/adele.rpy:2067
 translate english Vanessa_3_label_75a4cb88:
@@ -6982,7 +6982,7 @@ translate english Vanessa_3_label_724f5f08:
 translate english Vanessa_3_label_62d63cab:
 
     # ch_Name "Just lost the train of thought."
-    ch_Name ""
+    ch_Name "I just lost my train of thought."
 
 # game/logic/events/adele.rpy:2109
 translate english Vanessa_3_label_00b5e4d9:
@@ -7006,7 +7006,7 @@ translate english Vanessa_3_label_63b27470:
 translate english Vanessa_3_label_3d3225f6:
 
     # ch_Name "{i}(So pleasant to feel young and free right now and right here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(It's so pleasant to feel young and free right here and right now.){/i}"
 
 # game/logic/events/adele.rpy:2115
 translate english Vanessa_3_label_6381481f:
@@ -7060,7 +7060,7 @@ translate english Vanessa_3_label_bd67f888:
 translate english Vanessa_3_label_d35b1dbf:
 
     # Vanessa "Since I'm vampire, there is always a need to meet new people in order to be fed."
-    Vanessa ""
+    Vanessa "Since I'm a vampire, there is always a need to meet new people in order to be fed."
 
 # game/logic/events/adele.rpy:2131
 translate english Vanessa_3_label_6befb369:
@@ -7174,7 +7174,7 @@ translate english Vanessa_3_label_0e251da3:
 translate english Vanessa_3_label_0dba0ffa:
 
     # ch_Name "It seems like you really on your place here."
-    ch_Name ""
+    ch_Name "It seems like you really have your place here."
 
 # game/logic/events/adele.rpy:2155
 translate english Vanessa_3_label_256a70ba:
@@ -7258,13 +7258,13 @@ translate english Vanessa_3_label_c8a8bb77:
 translate english Vanessa_3_label_a9eee09b:
 
     # Vanessa "That's just suggestion."
-    Vanessa ""
+    Vanessa "That's just a suggestion."
 
 # game/logic/events/adele.rpy:2175
 translate english Vanessa_3_label_41bb1407:
 
     # Vanessa "If you don't want, then it's still okay."
-    Vanessa ""
+    Vanessa "If you don't want to, then it's still okay."
 
 # game/logic/events/adele.rpy:2177
 translate english Vanessa_3_label_5a49c776:
@@ -7324,7 +7324,7 @@ translate english Vanessa_3_label_2fcd517d:
 translate english Vanessa_3_label_7d593174:
 
     # ch_Name "{i}(Yes, I think I've had enough spectacle tonight.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Yeah, I think I've had enough spectacle tonight.){/i}"
 
 # game/logic/events/adele.rpy:2209
 translate english Vanessa_3_label_3896ca5c:
@@ -7504,7 +7504,7 @@ translate english adele_3_label_8563b64a:
 translate english adele_3_label_13fa8e06:
 
     # Adele "I'll still could, so don't overdo it."
-    Adele ""
+    Adele "I still could, so don't overdo it."
 
 # game/logic/events/adele.rpy:2284
 translate english adele_3_label_713c115b:
@@ -7738,7 +7738,7 @@ translate english adele_4_label_9caf6e73:
 translate english adele_4_label_b0eab1a5:
 
     # Adele "Of course. not! You're always welcome."
-    Adele ""
+    Adele "Of course not! You're always welcome."
 
 # game/logic/events/adele.rpy:2347
 translate english adele_4_label_44e7a185:
