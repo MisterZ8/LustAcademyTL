@@ -4,7 +4,7 @@
 translate philippine Audrey_1_label_141b86f8:
 
     # ch_Name "{i}(Oh, that's Samantha's hot friend!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, 'yun pala ang kaibigan ni Samantha!){/i}"
 
 # game/logic/events/audrey.rpy:144
 translate philippine Audrey_1_label_17881b86:
@@ -16,259 +16,259 @@ translate philippine Audrey_1_label_17881b86:
 translate philippine Audrey_1_label_8f8f2abb:
 
     # ch_Name "Good morning."
-    ch_Name ""
+    ch_Name "Magandang umaga."
 
 # game/logic/events/audrey.rpy:146
 translate philippine Audrey_1_label_57b83787:
 
     # Audrey "Morning."
-    Audrey ""
+    Audrey "Magandang umaga."
 
 # game/logic/events/audrey.rpy:147
 translate philippine Audrey_1_label_bead6911:
 
     # ch_Name "What are you doing?"
-    ch_Name ""
+    ch_Name "Ano ba ang ginagawa mo?"
 
 # game/logic/events/audrey.rpy:149
 translate philippine Audrey_1_label_9bf4927a:
 
     # Audrey "Doing yoga, can't you see?!"
-    Audrey ""
+    Audrey "Yoga, hindi mo ba makikita?!"
 
 # game/logic/events/audrey.rpy:150
 translate philippine Audrey_1_label_0bf01b2b:
 
     # Audrey "What kind of stupid question is that?"
-    Audrey ""
+    Audrey "Anong klaseng tanong ba 'yan?"
 
 # game/logic/events/audrey.rpy:152
 translate philippine Audrey_1_label_076d0c01:
 
     # Audrey "Making coffee."
-    Audrey ""
+    Audrey "Gumagawa ako ng kape."
 
 # game/logic/events/audrey.rpy:153
 translate philippine Audrey_1_label_6c133ab5:
 
     # ch_Name "{i}(I still don't understand how you and Samantha became friends...){/i}"
-    ch_Name ""
+    ch_Name "{i}('Di ko pa rin maiintindihan kung paano sila naging kaibigan...){/i}"
 
 # game/logic/events/audrey.rpy:154
 translate philippine Audrey_1_label_38f52007:
 
     # ch_Name "{i}(She's so sweet and calm.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nakalulugod si Sam.){/i}"
 
 # game/logic/events/audrey.rpy:158
 translate philippine Audrey_1_label_0bc5ed7a:
 
     # ch_Name "{i}(And you're as prickly as a cactus!){/i}"
-    ch_Name ""
+    ch_Name "{i}(At ikaw ay napakatinik mo!){/i}"
 
 # game/logic/events/audrey.rpy:159
 translate philippine Audrey_1_label_673900de:
 
     # ch_Name "{i}(Samantha couldn't stand people like that before...){/i}"
-    ch_Name ""
+    ch_Name ""{i}(Hindi naman makakaibigan si Sam sa mga tao na katulad mo noon...){/i}""
 
 # game/logic/events/audrey.rpy:160
 translate philippine Audrey_1_label_0bd26bf9:
 
     # ch_Name "{i}(I doubt butt is your only asset.){/i}"
-    ch_Name ""
+    ch_Name ""{i}(At nagdududa ako na ang pwet mo lang ang mahalaga sa iyo.){/i}""
 
 # game/logic/events/audrey.rpy:162
 translate philippine Audrey_1_label_36f5caac:
 
     # ch_Name "{i}(Not likely to be the reason Samantha tolerates you.){/i}"
-    ch_Name ""
+    ch_Name ""{i}(Hindi 'yan ang dahilan kung bakit kaibigan ka ni Samantha.){/i}""
 
 # game/logic/events/audrey.rpy:163
 translate philippine Audrey_1_label_d4b0ea65:
 
     # ch_Name "{i}(Although if it is, who's going to judge her?){/i}"
-    ch_Name ""
+    ch_Name ""{i}(Pero kung totoo naman, mali ba?){/i}""
 
 # game/logic/events/audrey.rpy:164
 translate philippine Audrey_1_label_f5270146:
 
     # ch_Name "{i}(We're talking about ass like that.){/i}"
-    ch_Name ""
+    ch_Name ""{i}(Kung ganyan ang hugis na nilalaro niya.){/i}""
 
 # game/logic/events/audrey.rpy:165
 translate philippine Audrey_1_label_4aad17bb:
 
     # Audrey "Oh, crap."
-    Audrey ""
+    Audrey "Bwisit."
 
 # game/logic/events/audrey.rpy:166
 translate philippine Audrey_1_label_633cc218:
 
     # Audrey "{b}We're out of cream.{/b}"
-    Audrey ""
+    Audrey "{b}Wala na tayong krema.{/b}"
 
 # game/logic/events/audrey.rpy:167
 translate philippine Audrey_1_label_7bc1b910:
 
     # ch_Name "That's a shame."
-    ch_Name ""
+    ch_Name "Sayang naman."
 
 # game/logic/events/audrey.rpy:168
 translate philippine Audrey_1_label_09a16a33:
 
     # ch_Name "Weird, I thought the fridge was magic."
-    ch_Name ""
+    ch_Name "Akala ko mahika 'yung mga appliance natin dito."
 
 # game/logic/events/audrey.rpy:170
 translate philippine Audrey_1_label_92c15e55:
 
     # Audrey "It is."
-    Audrey ""
+    Audrey "Mahika naman."
 
 # game/logic/events/audrey.rpy:171
 translate philippine Audrey_1_label_68f2e201:
 
     # Audrey "It only gives out what the students want."
-    Audrey ""
+    Audrey "Nagbibigay ng gusto ng mga estudyante."
 
 # game/logic/events/audrey.rpy:172
 translate philippine Audrey_1_label_54529cfc:
 
     # Audrey "But sometimes it gets weird with cream and persimmons and Jerusalem artichokes."
-    Audrey ""
+    Audrey "Pero minsan may problema siya sa mga krema, mga persimmon, at mga Jerusalem artichokes."
 
 # game/logic/events/audrey.rpy:173
 translate philippine Audrey_1_label_243f88b8:
 
     # Audrey "I have no idea why those particular products."
-    Audrey ""
+    Audrey "'Di ko alam kung bakit ganoon."
 
 # game/logic/events/audrey.rpy:175
 translate philippine Audrey_1_label_6c0e0314:
 
     # Audrey "El didn't tell you?"
-    Audrey ""
+    Audrey "'Di ka ba sinabihan ni Elijah?"
 
 # game/logic/events/audrey.rpy:176
 translate philippine Audrey_1_label_130202e3:
 
     # ch_Name "Uh, no."
-    ch_Name ""
+    ch_Name "Hindi."
 
 # game/logic/events/audrey.rpy:177
 translate philippine Audrey_1_label_6657ae49:
 
     # ch_Name "What a strange list of exceptions."
-    ch_Name ""
+    ch_Name "Nakakaiba naman ang ref na ito."
 
 # game/logic/events/audrey.rpy:178
 translate philippine Audrey_1_label_f0044b88:
 
     # Audrey "Well, you know."
-    Audrey ""
+    Audrey "Alam mo na."
 
 # game/logic/events/audrey.rpy:179
 translate philippine Audrey_1_label_0a19eaf0:
 
     # Audrey "The wizard who put it together had his quirks."
-    Audrey ""
+    Audrey "May mga biro ang salamangkero na gumawa nito."
 
 # game/logic/events/audrey.rpy:181
 translate philippine Audrey_1_label_cce1caf0:
 
     # Audrey "Oh, man, this whole day is ruined."
-    Audrey ""
+    Audrey "Nasira na ang buong araw ko."
 
 # game/logic/events/audrey.rpy:182
 translate philippine Audrey_1_label_9e732e5e:
 
     # ch_Name "Don't worry about it."
-    ch_Name ""
+    ch_Name "'Wag ka nang mag-alala."
 
 # game/logic/events/audrey.rpy:183
 translate philippine Audrey_1_label_979d5165:
 
     # ch_Name "I'm sure your day will be fine without the artichokes."
-    ch_Name ""
+    ch_Name "Sigurado naman na hindi masisira ang araw mo kapag wala kang artichoke."
 
 # game/logic/events/audrey.rpy:185
 translate philippine Audrey_1_label_f382e2e5:
 
     # Audrey "It's not funny."
-    Audrey ""
+    Audrey "Hindi 'yan nakakatawa."
 
 # game/logic/events/audrey.rpy:186
 translate philippine Audrey_1_label_a6ed42e6:
 
     # Audrey "{b}I just wanted a cup of coffee{/b} in the morning..."
-    Audrey ""
+    Audrey "{b}Gusto ko lang ng kape{/b} sa umaga..."
 
 # game/logic/events/audrey.rpy:187
 translate philippine Audrey_1_label_23122a1f:
 
     # Audrey "Damn it, Elijah, I told you to take care of it!"
-    Audrey ""
+    Audrey "Bwisit ka Elijah, sinabi ko na bumili ka kahapon!"
 
 # game/logic/events/audrey.rpy:189
 translate philippine Audrey_1_label_3bfb114c:
 
     # ch_Name "Maybe you could stop by the coffee shop before class."
-    ch_Name ""
+    ch_Name "Baka makapasok ka sa kapehan bago magsimula ang klase."
 
 # game/logic/events/audrey.rpy:190
 translate philippine Audrey_1_label_8b618c03:
 
     # Audrey "Hmm... No, I can't."
-    Audrey ""
+    Audrey "Hmm... Hindi."
 
 # game/logic/events/audrey.rpy:191
 translate philippine Audrey_1_label_8bd36af4:
 
     # Audrey "The cafe's only open in the afternoon."
-    Audrey ""
+    Audrey "Bukas lang sila sa hapon."
 
 # game/logic/events/audrey.rpy:192
 translate philippine Audrey_1_label_27b8a809:
 
     # Audrey "Wait a minute!"
-    Audrey ""
+    Audrey "Sandali lang!"
 
 # game/logic/events/audrey.rpy:194
 translate philippine Audrey_1_label_320f2388:
 
     # Audrey "Don't you work there part-time?"
-    Audrey ""
+    Audrey "Diba nagtatrabaho ka doon?"
 
 # game/logic/events/audrey.rpy:195
 translate philippine Audrey_1_label_d1685f6c:
 
     # ch_Name "From time to time."
-    ch_Name ""
+    ch_Name "Minsan."
 
 # game/logic/events/audrey.rpy:196
 translate philippine Audrey_1_label_149157f0:
 
     # ch_Name "But I don't have the keys."
-    ch_Name ""
+    ch_Name "Pero wala akong susi."
 
 # game/logic/events/audrey.rpy:197
 translate philippine Audrey_1_label_212438eb:
 
     # Audrey "So what?"
-    Audrey ""
+    Audrey "At?"
 
 # game/logic/events/audrey.rpy:198
 translate philippine Audrey_1_label_307992ff:
 
     # Audrey "That girl who runs the place..."
-    Audrey ""
+    Audrey "'Yung may-ari ng kapehan..."
 
 # game/logic/events/audrey.rpy:199
 translate philippine Audrey_1_label_5e93bb5e:
 
     # Audrey "What's her name?"
-    Audrey ""
+    Audrey "Ano pangalan niya?"
 
 # game/logic/events/audrey.rpy:200
 translate philippine Audrey_1_label_25336081:
@@ -280,319 +280,319 @@ translate philippine Audrey_1_label_25336081:
 translate philippine Audrey_1_label_9c1ad553:
 
     # Audrey "That's right! Molly's been there since early this morning."
-    Audrey ""
+    Audrey "Tama! Nandoon naman si Molly sa umaga."
 
 # game/logic/events/audrey.rpy:203
 translate philippine Audrey_1_label_d296d9fd:
 
     # Audrey "She probably won't say no to you."
-    Audrey ""
+    Audrey "Siguradong papayagan ka niya."
 
 # game/logic/events/audrey.rpy:204
 translate philippine Audrey_1_label_d95d7941:
 
     # Audrey "{b}Would you go get some milk or cream?{/b}"
-    Audrey ""
+    Audrey "{b}Pwede ka bang kumuha ng gatas o krema?{/b}"
 
 # game/logic/events/audrey.rpy:205
 translate philippine Audrey_1_label_39ec4417:
 
     # ch_Name "I don't know if I can do it now..."
-    ch_Name ""
+    ch_Name "'Di ko alam kung magagawa ko ngayon..."
 
 # game/logic/events/audrey.rpy:206
 translate philippine Audrey_1_label_306adb67:
 
     # Audrey "I'll need it later too..."
-    Audrey ""
+    Audrey "Kailangan ko rin sa susunod..."
 
 # game/logic/events/audrey.rpy:207
 translate philippine Audrey_1_label_12e79b60:
 
     # Audrey "The other store's in Dale anyway."
-    Audrey ""
+    Audrey "Nasa Dale ba ang isang tindahan."
 
 # game/logic/events/audrey.rpy:208
 translate philippine Audrey_1_label_44e1faad:
 
     # ch_Name "And there's nowhere else to get it but the cafe and the store."
-    ch_Name ""
+    ch_Name "At wala nang ibang lugar na nagbebenta ng kape."
 
 # game/logic/events/audrey.rpy:209
 translate philippine Audrey_1_label_6c107df8:
 
     # Audrey "It's so complicated."
-    Audrey ""
+    Audrey "Problema talaga ito."
 
 # game/logic/events/audrey.rpy:210
 translate philippine Audrey_1_label_3b03c4b2:
 
     # Audrey "Tell me about it."
-    Audrey ""
+    Audrey "Sabihin mo nga."
 
 # game/logic/events/audrey.rpy:212
 translate philippine Audrey_1_label_db1d8e2f:
 
     # Audrey "I just want to be able to make a cup of coffee with cream."
-    Audrey ""
+    Audrey "Gusto ko lang ng kape na may krema."
 
 # game/logic/events/audrey.rpy:213
 translate philippine Audrey_1_label_cc04b76b:
 
     # ch_Name "From the comfort of the campus."
-    ch_Name ""
+    ch_Name "At hindi mahirap ang paggawa."
 
 # game/logic/events/audrey.rpy:214
 translate philippine Audrey_1_label_425bf592:
 
     # ch_Name "I know."
-    ch_Name ""
+    ch_Name "Alam ko."
 
 # game/logic/events/audrey.rpy:215
 translate philippine Audrey_1_label_4b028a5a:
 
     # Audrey "So, can you help me out?"
-    Audrey ""
+    Audrey "Matutulungan mo ba ako?"
 
 # game/logic/events/audrey.rpy:216
 translate philippine Audrey_1_label_6e8be90f:
 
     # ch_Name "I'll see what I can do."
-    ch_Name ""
+    ch_Name "Subukan ko."
 
 # game/logic/events/audrey.rpy:235
 translate philippine Audrey_2_label_8e02dc0e:
 
     # ch_Name "Good morning!"
-    ch_Name ""
+    ch_Name "Magandang umaga!"
 
 # game/logic/events/audrey.rpy:236
 translate philippine Audrey_2_label_146bf8be:
 
     # Molly "Excuse me, we're closed!"
-    Molly ""
+    Molly "Sarado pa ang kapehan!"
 
 # game/logic/events/audrey.rpy:237
 translate philippine Audrey_2_label_4ba7459c:
 
     # ch_Name "Molly, it's me."
-    ch_Name ""
+    ch_Name "Molly, nandito ako."
 
 # game/logic/events/audrey.rpy:239
 translate philippine Audrey_2_label_1952cab2:
 
     # Molly "Good morning, [Name]."
-    Molly ""
+    Molly "Magandang umaga, [Name]."
 
 # game/logic/events/audrey.rpy:240
 translate philippine Audrey_2_label_f5c7104a:
 
     # Molly "I'm sorry, but we're closed."
-    Molly ""
+    Molly "Pasensya, pero sarado pa."
 
 # game/logic/events/audrey.rpy:242
 translate philippine Audrey_2_label_425bf592:
 
     # ch_Name "I know."
-    ch_Name ""
+    ch_Name "Alam ko."
 
 # game/logic/events/audrey.rpy:244
 translate philippine Audrey_2_label_108496a9:
 
     # ch_Name "I'm not here to sit in the cafe."
-    ch_Name ""
+    ch_Name "Hindi ako pumunta dito para umupo sa loob."
 
 # game/logic/events/audrey.rpy:246
 translate philippine Audrey_2_label_c7fbdc21:
 
     # Molly "Well, as you can see, there's no work for you right now either."
-    Molly ""
+    Molly "At makikita mo rin na walang trabaho ngayon."
 
 # game/logic/events/audrey.rpy:248
 translate philippine Audrey_2_label_5d516800:
 
     # ch_Name "I figured as much."
-    ch_Name ""
+    ch_Name "Alam ko ga."
 
 # game/logic/events/audrey.rpy:250
 translate philippine Audrey_2_label_fd5516ad:
 
     # Molly "Drop by during the day or at night."
-    Molly ""
+    Molly "Bumalik ka sa hapon o sa gabi."
 
 # game/logic/events/audrey.rpy:252
 translate philippine Audrey_2_label_fd06458d:
 
     # Molly "I'm sure we could use an extra pair of hands."
-    Molly ""
+    Molly "Siguradong kailangan ko ang tulong mo."
 
 # game/logic/events/audrey.rpy:254
 translate philippine Audrey_2_label_74ebce9c:
 
     # ch_Name "Sure."
-    ch_Name ""
+    ch_Name "Sige."
 
 # game/logic/events/audrey.rpy:255
 translate philippine Audrey_2_label_1a724c19:
 
     # ch_Name "But I'm not here to work."
-    ch_Name ""
+    ch_Name "Pero iba ang gusto ko dito."
 
 # game/logic/events/audrey.rpy:257
 translate philippine Audrey_2_label_f4201b9d:
 
     # Molly "Well, what is it then?"
-    Molly ""
+    Molly "Ano?"
 
 # game/logic/events/audrey.rpy:259
 translate philippine Audrey_2_label_bb01f59f:
 
     # ch_Name "We have a magic refrigerator in the living room with a quirk."
-    ch_Name ""
+    ch_Name "May mahikang ref kami sa bahay namin na may biro."
 
 # game/logic/events/audrey.rpy:260
 translate philippine Audrey_2_label_bbbb902c:
 
     # ch_Name "You can't get milk or cream."
-    ch_Name ""
+    ch_Name "Hindi ka makakuha ng gatas o krema.
 
 # game/logic/events/audrey.rpy:262
 translate philippine Audrey_2_label_f7f973e5:
 
     # Molly "That's funny, that's the first I've heard of it."
-    Molly ""
+    Molly "Hindi ko pa alam ito."
 
 # game/logic/events/audrey.rpy:263
 translate philippine Audrey_2_label_12467f98:
 
     # ch_Name "Is yours working properly?"
-    ch_Name ""
+    ch_Name "Gumagana ba ang ref mo?"
 
 # game/logic/events/audrey.rpy:264
 translate philippine Audrey_2_label_40a01590:
 
     # Molly "Thank the dendroids!"
-    Molly ""
+    Molly "Salamat talaga sa mga dendroid!"
 
 # game/logic/events/audrey.rpy:265
 translate philippine Audrey_2_label_217d0989:
 
     # Molly "Imagine what a disaster it would be if we ran out of milk..."
-    Molly ""
+    Molly "Ano kaya ang mangyayari kapag wala na tayong gatas..."
 
 # game/logic/events/audrey.rpy:266
 translate philippine Audrey_2_label_384c42b2:
 
     # Molly "The students here practically live on lattes."
-    Molly ""
+    Molly "Kape lang ang nagpapabuhay sa mga estudyante dito."
 
 # game/logic/events/audrey.rpy:268
 translate philippine Audrey_2_label_84c39dac:
 
     # ch_Name "That's why I'm here, by the way."
-    ch_Name ""
+    ch_Name "Kaya pala nandito ako."
 
 # game/logic/events/audrey.rpy:269
 translate philippine Audrey_2_label_ec9c920b:
 
     # ch_Name "Can I borrow a bottle from you?"
-    ch_Name ""
+    ch_Name "Makakahiram ba ako ng bote mula sa iyo?"
 
 # game/logic/events/audrey.rpy:270
 translate philippine Audrey_2_label_ad957679:
 
     # ch_Name "We've got a pretty girl dying of sadness in there."
-    ch_Name ""
+    ch_Name "May babaeng namamatay dahil wala siyang kape."
 
 # game/logic/events/audrey.rpy:271
 translate philippine Audrey_2_label_59d92e45:
 
     # Molly "Sure."
-    Molly ""
+    Molly "Sige."
 
 # game/logic/events/audrey.rpy:273
 translate philippine Audrey_2_label_62f73ef8:
 
     # Molly "There you go."
-    Molly ""
+    Molly "Heto."
 
 # game/logic/events/audrey.rpy:274
 translate philippine Audrey_2_label_adc5e432:
 
     # ch_Name "Oh, thank you."
-    ch_Name ""
+    ch_Name "Salamat talaga."
 
 # game/logic/events/audrey.rpy:276
 translate philippine Audrey_2_label_137e2a46:
 
     # Molly "Five dollars!"
-    Molly ""
+    Molly "Limang dolyar!"
 
 # game/logic/events/audrey.rpy:277
 translate philippine Audrey_2_label_c185eb3d:
 
     # ch_Name "Wait a minute..."
-    ch_Name ""
+    ch_Name "Sandali..."
 
 # game/logic/events/audrey.rpy:278
 translate philippine Audrey_2_label_d56f868c:
 
     # ch_Name "You're selling it to me?"
-    ch_Name ""
+    ch_Name "Binibenta mo sa akin?"
 
 # game/logic/events/audrey.rpy:280
 translate philippine Audrey_2_label_ae512591:
 
     # Molly "Yeah, I am."
-    Molly ""
+    Molly "Oo."
 
 # game/logic/events/audrey.rpy:281
 translate philippine Audrey_2_label_825d8d65:
 
     # ch_Name "I thought..."
-    ch_Name ""
+    ch_Name "Akala ko..."
 
 # game/logic/events/audrey.rpy:282
 translate philippine Audrey_2_label_34566221:
 
     # Molly "Have you ever heard of market relations?"
-    Molly ""
+    Molly "Alam mo na ba ang relasyon sa pamilihan?"
 
 # game/logic/events/audrey.rpy:283
 translate philippine Audrey_2_label_7e2977f2:
 
     # ch_Name "{i}(How can there be a market relationship with a magic refrigerator?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Paano ba makapagrelasyon sa pamilihan kung may mahikang ref?){/i}"
 
 # game/logic/events/audrey.rpy:285
 translate philippine Audrey_2_label_164c3ab0:
 
     # ch_Name "Take it out of my paycheck."
-    ch_Name ""
+    ch_Name "Kunin mo nalang sa suweldo ko."
 
 # game/logic/events/audrey.rpy:287
 translate philippine Audrey_2_label_7f6ae754:
 
     # Molly "Hmm... Okay, I'll make an exception for an employee."
-    Molly ""
+    Molly "Hmm... Sige. Para sa iyo."
 
 # game/logic/events/audrey.rpy:289
 translate philippine Audrey_2_label_9793abbe:
 
     # Molly "By the way, congratulations!"
-    Molly ""
+    Molly "Oo nga pala, congrats!"
 
 # game/logic/events/audrey.rpy:290
 translate philippine Audrey_2_label_022d63fb:
 
     # ch_Name "On what?"
-    ch_Name ""
+    ch_Name "Sa?"
 
 # game/logic/events/audrey.rpy:291
 translate philippine Audrey_2_label_9b332d29:
 
     # Molly "You're the first customer today."
-    Molly ""
+    Molly "Ikaw ang unang mamimili ngayong araw."
 
 # game/logic/events/audrey.rpy:292
 translate philippine Audrey_2_label_d3dc0741:
@@ -604,25 +604,25 @@ translate philippine Audrey_2_label_d3dc0741:
 translate philippine Audrey_2_label_50f9d5f6:
 
     # Molly "Now if you'll excuse me..."
-    Molly ""
+    Molly "Babalik na ako sa trabaho..."
 
 # game/logic/events/audrey.rpy:295
 translate philippine Audrey_2_label_d48fe563:
 
     # Molly "I have to finish getting ready for the opening."
-    Molly ""
+    Molly "Naghahanda pa ako sa pagbukas."
 
 # game/logic/events/audrey.rpy:296
 translate philippine Audrey_2_label_b851b9e7:
 
     # ch_Name "Of course you do."
-    ch_Name ""
+    ch_Name "Sige."
 
 # game/logic/events/audrey.rpy:298
 translate philippine Audrey_2_label_6f4b336b:
 
     # ch_Name "I'll see you then."
-    ch_Name ""
+    ch_Name "Mamaya naman."
 
 # game/logic/events/audrey.rpy:312
 translate philippine Audrey_3_label_83199104:
@@ -634,7 +634,7 @@ translate philippine Audrey_3_label_83199104:
 translate philippine Audrey_3_label_8e967d0f:
 
     # ch_Name "Are you making coffee?"
-    ch_Name ""
+    ch_Name "Gumagawa ka ba ng kape?"
 
 # game/logic/events/audrey.rpy:315
 translate philippine Audrey_3_label_5d9f1d18:
@@ -646,31 +646,31 @@ translate philippine Audrey_3_label_5d9f1d18:
 translate philippine Audrey_3_label_6d5d0370:
 
     # Audrey "Something like that."
-    Audrey ""
+    Audrey "Oo naman."
 
 # game/logic/events/audrey.rpy:317
 translate philippine Audrey_3_label_da677df5:
 
     # ch_Name "I see."
-    ch_Name ""
+    ch_Name "Kaya pala."
 
 # game/logic/events/audrey.rpy:319
 translate philippine Audrey_3_label_b87784b4:
 
     # ch_Name "I thought you were missing something..."
-    ch_Name ""
+    ch_Name "Akala ko may kulang...."
 
 # game/logic/events/audrey.rpy:320
 translate philippine Audrey_3_label_d0990f26:
 
     # Audrey "Did you really go get the milk?"
-    Audrey ""
+    Audrey "Kinuha mo ba ang gatas?"
 
 # game/logic/events/audrey.rpy:321
 translate philippine Audrey_3_label_bf4db7a3:
 
     # Audrey "For real?"
-    Audrey ""
+    Audrey "Talaga?"
 
 # game/logic/events/audrey.rpy:322
 translate philippine Audrey_3_label_241183a1:
@@ -682,61 +682,61 @@ translate philippine Audrey_3_label_241183a1:
 translate philippine Audrey_3_label_78af3883:
 
     # Audrey "I underestimated you."
-    Audrey ""
+    Audrey "Inakala ko na hindi mo kaya."
 
 # game/logic/events/audrey.rpy:325
 translate philippine Audrey_3_label_bd67f888:
 
     # ch_Name "What do you mean?"
-    ch_Name ""
+    ch_Name "Ano sabi mo?"
 
 # game/logic/events/audrey.rpy:326
 translate philippine Audrey_3_label_e767b4b3:
 
     # Audrey "Samantha speaks too highly of you."
-    Audrey ""
+    Audrey "Palaging nagpupuri si Samantha sa iyo."
 
 # game/logic/events/audrey.rpy:327
 translate philippine Audrey_3_label_7e1dc877:
 
     # Audrey "It pisses me off."
-    Audrey ""
+    Audrey "At nagagalit ako."
 
 # game/logic/events/audrey.rpy:329
 translate philippine Audrey_3_label_cd10ccc7:
 
     # Audrey "I thought she was exaggerating."
-    Audrey ""
+    Audrey "Akala ko na pinapalabis ka niya."
 
 # game/logic/events/audrey.rpy:330
 translate philippine Audrey_3_label_a27a266e:
 
     # Audrey "But you're definitely not the worst person I've ever met."
-    Audrey ""
+    Audrey "Pero hindi ka pala ganoon ka sama."
 
 # game/logic/events/audrey.rpy:331
 translate philippine Audrey_3_label_6e2690ce:
 
     # ch_Name "Thank you.{w} I guess..."
-    ch_Name ""
+    ch_Name "Salamat...{w}
 
 # game/logic/events/audrey.rpy:333
 translate philippine Audrey_3_label_753daed0:
 
     # Audrey "It's a compliment."
-    Audrey ""
+    Audrey "Papuri 'yun."
 
 # game/logic/events/audrey.rpy:334
 translate philippine Audrey_3_label_ffa89a84:
 
     # Audrey "Haven't you ever been taught how to take a compliment?"
-    Audrey ""
+    Audrey "'Di ka ba tinuruan magtanggap ng papuri?"
 
 # game/logic/events/audrey.rpy:335
 translate philippine Audrey_3_label_a032602d:
 
     # Audrey "Shut up and be grateful."
-    Audrey ""
+    Audrey "Magpasalamat ka nalang."
 
 # game/logic/events/audrey.rpy:336
 translate philippine Audrey_3_label_c8c03175:
@@ -748,49 +748,49 @@ translate philippine Audrey_3_label_c8c03175:
 translate philippine Audrey_3_label_27dcfcc4:
 
     # ch_Name "I'll remember that."
-    ch_Name ""
+    ch_Name "Alalahanin ko 'yan."
 
 # game/logic/events/audrey.rpy:339
 translate philippine Audrey_3_label_20e96cf7:
 
     # ch_Name "{i}(Maybe she's not so weird...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mabuting tao naman pala siya...){/i}"
 
 # game/logic/events/audrey.rpy:340
 translate philippine Audrey_3_label_8f190191:
 
     # ch_Name "{i}(Samantha, how do you manage to see the good in everyone?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Samantha, paano mo ba nakikita ang kabutihan ng bawat tao?){/i}"
 
 # game/logic/events/audrey.rpy:341
 translate philippine Audrey_3_label_0926128c:
 
     # ch_Name "{i}(No matter how deep down it's buried...){/i}"
-    ch_Name ""
+    ch_Name ""{i}(Kahit ano pa kalalim sa loob nila...){/i}""
 
 # game/logic/events/audrey.rpy:342
 translate philippine Audrey_3_label_6638b8d7:
 
     # ch_Name "You're so sweet."
-    ch_Name ""
+    ch_Name "Napakabait mo naman."
 
 # game/logic/events/audrey.rpy:344
 translate philippine Audrey_3_label_104e690e:
 
     # Audrey "What?"
-    Audrey ""
+    Audrey "Ano?"
 
 # game/logic/events/audrey.rpy:345
 translate philippine Audrey_3_label_5c3bf92b:
 
     # Audrey "What kind of nonsense is this?"
-    Audrey ""
+    Audrey "Anong ibig sabihin mo?"
 
 # game/logic/events/audrey.rpy:346
 translate philippine Audrey_3_label_8daa42ac:
 
     # ch_Name "That's not how I was taught to take compliments."
-    ch_Name ""
+    ch_Name "Hindi ganyan ang tinuro sa akin sa pagtanggap ng papuri."
 
 # game/logic/events/audrey.rpy:347
 translate philippine Audrey_3_label_6e4ee974:
@@ -802,79 +802,79 @@ translate philippine Audrey_3_label_6e4ee974:
 translate philippine Audrey_3_label_a0bf2f99:
 
     # Audrey "Thank you."
-    Audrey ""
+    Audrey "Salamat."
 
 # game/logic/events/audrey.rpy:350
 translate philippine Audrey_3_label_da08a041:
 
     # ch_Name "I'm sorry to be blunt, but..."
-    ch_Name ""
+    ch_Name "Pasensya na, pero... "
 
 # game/logic/events/audrey.rpy:351
 translate philippine Audrey_3_label_0beac4f5:
 
     # ch_Name "You and Samantha are so different."
-    ch_Name ""
+    ch_Name "Magkakaiba talaga kayo ni Samantha."
 
 # game/logic/events/audrey.rpy:353
 translate philippine Audrey_3_label_1fa7c909:
 
     # Audrey "What's your point?"
-    Audrey ""
+    Audrey "At?"
 
 # game/logic/events/audrey.rpy:354
 translate philippine Audrey_3_label_ebf7656e:
 
     # ch_Name "And yet you spend most of your time together."
-    ch_Name ""
+    ch_Name "Pero palagi kayong magkasama."
 
 # game/logic/events/audrey.rpy:355
 translate philippine Audrey_3_label_8f96ec99:
 
     # Audrey "So?"
-    Audrey ""
+    Audrey "At?"
 
 # game/logic/events/audrey.rpy:356
 translate philippine Audrey_3_label_a6e3be1f:
 
     # ch_Name "What's the secret?"
-    ch_Name ""
+    ch_Name "Ano ang sekreto ninyo?"
 
 # game/logic/events/audrey.rpy:358
 translate philippine Audrey_3_label_ba032c91:
 
     # Audrey "What secret?"
-    Audrey ""
+    Audrey "Anong sekreto?"
 
 # game/logic/events/audrey.rpy:359
 translate philippine Audrey_3_label_4c12a936:
 
     # Audrey "That's ridiculous. We're just friends."
-    Audrey ""
+    Audrey "Nakakatawa naman. Magkaibigan kami."
 
 # game/logic/events/audrey.rpy:360
 translate philippine Audrey_3_label_5391d4a9:
 
     # Audrey "I mean, it just happened."
-    Audrey ""
+    Audrey "Nangyari lang."
 
 # game/logic/events/audrey.rpy:361
 translate philippine Audrey_3_label_6c34fab8:
 
     # Audrey "Ok, now leave me alone, I've got things to do."
-    Audrey ""
+    Audrey "Sige, alis ka na. May gagawin pa ako."
 
 # game/logic/events/audrey.rpy:362
 translate philippine Audrey_3_label_351cbce6:
 
     # ch_Name "But I..."
-    ch_Name ""
+    ch_Name "Pero..."
 
 # game/logic/events/audrey.rpy:364
 translate philippine Audrey_3_label_a1857d2b:
 
     # Audrey "Sorry, I'll do it another time."
-    Audrey ""
+    Audrey "Pasensya, sa kinabukasan naman."
 
 # game/logic/events/audrey.rpy:365
 translate philippine Audrey_3_label_21b69c9e:
@@ -886,133 +886,133 @@ translate philippine Audrey_3_label_21b69c9e:
 translate philippine Audrey_3_label_e1355fda:
 
     # ch_Name "Okay, bye."
-    ch_Name ""
+    ch_Name "Sige, paalam."
 
 # game/logic/events/audrey.rpy:367
 translate philippine Audrey_3_label_17fc8229:
 
     # ch_Name "{i}(She made such a fuss when I brought up their friendship.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Napakagulo niya nang nagtanong ako tungkol sa kanilang pagkakaibigan.){/i}"
 
 # game/logic/events/audrey.rpy:368
 translate philippine Audrey_3_label_6552868b:
 
     # ch_Name "{i}(And she was very confused by the word \"Secret\".){/i}"
-    ch_Name ""
+    ch_Name "{i}(At nalito siya sa noong sinabi ko salita na \"sekreto\".){/i}"
 
 # game/logic/events/audrey.rpy:369
 translate philippine Audrey_3_label_f1e80b52:
 
     # ch_Name "{i}(There's obviously something wrong here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parang totoo na may sekreto.){/i}"
 
 # game/logic/events/audrey.rpy:370
 translate philippine Audrey_3_label_0c7c40b2:
 
     # ch_Name "{i}(I'll figure it out...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Gusto kong malaman...){/i}"
 
 # game/logic/events/audrey.rpy:372
 translate philippine Audrey_3_label_ed9d812e:
 
     # ch_Name "{i}(But later. Right now I have to go to Victoria's lesson.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pero mamaya na. Pupunta pa ako sa klase ni Victoria.){/i}"
 
 # game/logic/events/audrey.rpy:373
 translate philippine Audrey_3_label_bb5e1cf0:
 
     # ch_Name "{i}(If I hurry up, I'd even have some time to chat with Haley.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kung magmamadali ako, makikipag-usap pa ako kay Haley.){/i}"
 
 # game/logic/events/audrey.rpy:374
 translate philippine Audrey_3_label_59c67c4f:
 
     # ch_Name "{i}(Yeah, sounds like a plan.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sige, bilisan nga natin.){/i}"
 
 # game/logic/events/audrey.rpy:390
 translate philippine Audrey_7_label_28127982:
 
     # ch_Name "{i}(Uh, the girls seem to be in a playful mood.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parang masaya ngayon ang mga babae.){/i}"
 
 # game/logic/events/audrey.rpy:391
 translate philippine Audrey_7_label_9de64f1b:
 
     # ch_Name "{i}(It almost feels like they are flirting.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nanliligaw kaya sila sa isa't-isa.){/i}"
 
 # game/logic/events/audrey.rpy:393
 translate philippine Audrey_7_label_1302e746:
 
     # ch_Name "{i}(Who am I kidding? It's Sam and Audrey.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sino ba ang niloloko ko? Sina Sam at Audrey 'yun.){/i}"
 
 # game/logic/events/audrey.rpy:394
 translate philippine Audrey_7_label_ccc3bec3:
 
     # ch_Name "{i}(I'm sure it's nothing like that.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sigurado na walang ganyan sa kanila.){/i}"
 
 # game/logic/events/audrey.rpy:396
 translate philippine Audrey_7_label_fd73b6fb:
 
     # ch_Name "Hi girls! How's it going?"
-    ch_Name ""
+    ch_Name "Kamusta na kayo?"
 
 # game/logic/events/audrey.rpy:397
 translate philippine Audrey_7_label_13e99573:
 
     # Samantha "Hi, [Name]. Everything's great."
-    Samantha ""
+    Samantha "Hi, [Name]. Mabuti naman."
 
 # game/logic/events/audrey.rpy:398
 translate philippine Audrey_7_label_4f4ec5b8:
 
     # Audrey "Oh yeah. The best."
-    Audrey ""
+    Audrey "Oo."
 
 # game/logic/events/audrey.rpy:399
 translate philippine Audrey_7_label_121b02ee:
 
     # ch_Name "Can I keep you guys company?"
-    ch_Name ""
+    ch_Name "Makakasali ba ako dito?"
 
 # game/logic/events/audrey.rpy:401
 translate philippine Audrey_7_label_4ca79336:
 
     # Samantha "I guess, uh..."
-    Samantha ""
+    Samantha "Sige..."
 
 # game/logic/events/audrey.rpy:405
 translate philippine Audrey_7_label_ad391cbe:
 
     # Audrey "Sam, can I talk to you for a minute?"
-    Audrey ""
+    Audrey "Sam, pwede ba tayong mag-usap ng madali?"
 
 # game/logic/events/audrey.rpy:406
 translate philippine Audrey_7_label_b5f99975:
 
     # Samantha "Um, yeah... Come on."
-    Samantha ""
+    Samantha "Um, sige... hali ka."
 
 # game/logic/events/audrey.rpy:408
 translate philippine Audrey_7_label_5a29c6c7:
 
     # ch_Name "{i}(Shit, I can't hear them from here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wala akong may maririnig.){/i}"
 
 # game/logic/events/audrey.rpy:409
 translate philippine Audrey_7_label_f0125b28:
 
     # ch_Name "{i}(I wonder what they're muttering about?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ano ba ang pinag-uusapan nila?){/i}"
 
 # game/logic/events/audrey.rpy:410
 translate philippine Audrey_7_label_1cebe653:
 
     # ch_Name "{i}(Is it about me?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tungkol ba 'yun sa akin?){/i}"
 
 # game/logic/events/audrey.rpy:411
 translate philippine Audrey_7_label_095daf15:
@@ -1024,187 +1024,187 @@ translate philippine Audrey_7_label_095daf15:
 translate philippine Audrey_7_label_39ef725d:
 
     # Samantha "Sorry, we're going to our room. We should..."
-    Samantha ""
+    Samantha "Pasnesya, pupunta kami sa silid namin. Kami ay..."
 
 # game/logic/events/audrey.rpy:414
 translate philippine Audrey_7_label_47968f71:
 
     # Audrey "...study before class."
-    Audrey ""
+    Audrey "... mag-aaral muna."
 
 # game/logic/events/audrey.rpy:415
 translate philippine Audrey_7_label_2802bbbd:
 
     # ch_Name "Yeah. I figured."
-    ch_Name ""
+    ch_Name "Alam ko."
 
 # game/logic/events/audrey.rpy:417
 translate philippine Audrey_7_label_0e513cc0:
 
     # ch_Name "I'll see you later."
-    ch_Name ""
+    ch_Name "Sige, mamaya naman."
 
 # game/logic/events/audrey.rpy:419
 translate philippine Audrey_7_label_2bbb25d9:
 
     # ch_Name "{i}(Strange, has Sam already told her that I know?){/i}"
-    ch_Name ""
+    ch_Name "i}(Sinabi na ba ni Sam sa kanya na alam ko na?){/i}"
 
 # game/logic/events/audrey.rpy:421
 translate philippine Audrey_7_label_2c9b2819:
 
     # ch_Name "{i}(Nah. She'd looked more worried.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi. Mas mukhang nag-aalala siya.){/i}"
 
 # game/logic/events/audrey.rpy:422
 translate philippine Audrey_7_label_3b3a9c71:
 
     # ch_Name "{i}(Hmm... So why did they left?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm... Bakit sila umalis?){/i}"
 
 # game/logic/events/audrey.rpy:429
 translate philippine Audrey_7_label_63d953d2:
 
     # ch_Name "{i}(I don't buy that studying bullshit.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi ako naniniwala na mag-aaral sila.){/i}"
 
 # game/logic/events/audrey.rpy:430
 translate philippine Audrey_7_label_9044cedb:
 
     # ch_Name "{i}(They looked too happy for the people who were going to study.).{/i}"
-    ch_Name ""
+    ch_Name "{i}(Masyado silang masaya para sa mga taong mag-aaral.){/i}"
 
 # game/logic/events/audrey.rpy:431
 translate philippine Audrey_7_label_955c4b8d:
 
     # ch_Name "{i}(Especially Audrey.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Lalo na si Audrey.){/i}"
 
 # game/logic/events/audrey.rpy:433
 translate philippine Audrey_7_label_2b3b6c6d:
 
     # ch_Name "{i}(Could it be?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Maaari ba?.){/i}"
 
 # game/logic/events/audrey.rpy:434
 translate philippine Audrey_7_label_0823ac76:
 
     # ch_Name "{i}(No. I don't believe it!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi. Imposible naman!){/i}"
 
 # game/logic/events/audrey.rpy:435
 translate philippine Audrey_7_label_27d2296a:
 
     # ch_Name "{i}(Samantha would not get and feed that beast right after she told me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi naman gaganyan si Samantha.){/i}""
 
 # game/logic/events/audrey.rpy:437
 translate philippine Audrey_7_label_446ee609:
 
     # ch_Name "{i}(Or would she?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Diba?){/i}""
 
 # game/logic/events/audrey.rpy:438
 translate philippine Audrey_7_label_a0baae2e:
 
     # ch_Name "{i}(What else could they be doing?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ano pa ba ang ibang magagawa nila?){/i}""
 
 # game/logic/events/audrey.rpy:439
 translate philippine Audrey_7_label_4e3f1738:
 
     # ch_Name "{i}(Oh! How can she be so stupid?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh! Paano siya naging tanga?){/i}"
 
 # game/logic/events/audrey.rpy:441
 translate philippine Audrey_7_label_69985dee:
 
     # ch_Name "{i}(I know they are friends, but...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Alam ko na magkaibigan sila, pero...){/i}"
 
 # game/logic/events/audrey.rpy:442
 translate philippine Audrey_7_label_60769619:
 
     # ch_Name "{i}(Shit. Why can't I stop thinking about it?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bwisit. Bakit hindi ko maiwasang isipin 'yun?){/i}"
 
 # game/logic/events/audrey.rpy:443
 translate philippine Audrey_7_label_f9fa91e2:
 
     # ch_Name "{i}(After all, It's not my problem.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi ko naman problema 'yun.){/i}"
 
 # game/logic/events/audrey.rpy:444
 translate philippine Audrey_7_label_b90d0f80:
 
     # ch_Name "{i}(I've warned her.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Binalaan ko siya.){/i}"
 
 # game/logic/events/audrey.rpy:446
 translate philippine Audrey_7_label_7e27133e:
 
     # ch_Name "{i}(And I've given her options.){/i}"
-    ch_Name ""
+    ch_Name "{i}(At binigyan ng opsyon.){/i}"
 
 # game/logic/events/audrey.rpy:447
 translate philippine Audrey_7_label_c91cdae5:
 
     # ch_Name "{i}(Could it be that she does not want to share Audrey with me?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Talaga bang hindi niya ibabahagi si Audrey sa akin?){/i}"
 
 # game/logic/events/audrey.rpy:449
 translate philippine Audrey_7_label_46290dee:
 
     # ch_Name "{i}(But why would she willingly risk her powers?){/i}"
-    ch_Name ""
+    ch_Name ""{i}(Pero bakit niyang ipapanganib ang mahika niya?.){/i}""
 
 # game/logic/events/audrey.rpy:450
 translate philippine Audrey_7_label_2a8e30dc:
 
     # ch_Name "{i}(I saw how crushed she was when she thought she lost them.){/i}"
-    ch_Name ""
+    ch_Name ""{i}(Nakita ko kung gaano siya kalungkot noong inakala niya na nawala na.){/i}""
 
 # game/logic/events/audrey.rpy:452
 translate philippine Audrey_7_label_115c0f8f:
 
     # ch_Name "{i}(No, right. She would not do that.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tama. Hindi niya gagawin 'yan.){/i}"
 
 # game/logic/events/audrey.rpy:453
 translate philippine Audrey_7_label_edb5e18c:
 
     # ch_Name "{i}(I'm sure it's something else.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sigurado ako na iba naman.){/i}"
 
 # game/logic/events/audrey.rpy:455
 translate philippine Audrey_7_label_821f8ac5:
 
     # ch_Name "{i}(Maybe they are...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Baka sila ay...){/i}"
 
 # game/logic/events/audrey.rpy:457
 translate philippine Audrey_7_label_574ebfcb:
 
     # ch_Name "{i}(I dunno... Talking about boys.){/i}"
-    ch_Name ""
+    ch_Name ""{i}('Di ko alam... Nag-uusap tungkol sa mga lalaki.){/i}""
 
 # game/logic/events/audrey.rpy:458
 translate philippine Audrey_7_label_e67e65dd:
 
     # ch_Name "{i}(Or trying their new underwear?){/i}"
-    ch_Name ""
+    ch_Name "{i}(O sinusubukan ang kanilang bagong panloob?){/i}"
 
 # game/logic/events/audrey.rpy:460
 translate philippine Audrey_7_label_6a0e1902:
 
     # ch_Name "{i}(It's too good to be true.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ito'y masyadong magandang upang maging totoo.){/i}"
 
 # game/logic/events/audrey.rpy:461
 translate philippine Audrey_7_label_3097a8e3:
 
     # ch_Name "{i}(I wish I could sneak a peek){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sana makikita ko ang ginagawa nila.){/i}"
 
 # game/logic/events/audrey.rpy:463
 translate philippine Audrey_7_label_b4c8c248:
@@ -1216,7 +1216,7 @@ translate philippine Audrey_7_label_b4c8c248:
 translate philippine Audrey_7_label_ab35d0a7:
 
     # Samantha "Oh shit, my phone..."
-    Samantha ""
+    Samantha "Oo nga pala, selpon ko..."
 
 # game/logic/events/audrey.rpy:466
 translate philippine Audrey_7_label_7441afac:
@@ -1228,13 +1228,13 @@ translate philippine Audrey_7_label_7441afac:
 translate philippine Audrey_7_label_d766ee39:
 
     # Samantha "Yes. Yes, of course."
-    Samantha ""
+    Samantha "Oo. Siyempre."
 
 # game/logic/events/audrey.rpy:469
 translate philippine Audrey_7_label_5d10547c:
 
     # Audrey "No, no, don't..."
-    Audrey ""
+    Audrey "Hindi, 'wag..."
 
 # game/logic/events/audrey.rpy:471
 translate philippine Audrey_7_label_c56b1904:
@@ -1246,37 +1246,37 @@ translate philippine Audrey_7_label_c56b1904:
 translate philippine Audrey_7_label_7c480eba:
 
     # Samantha "No, not you, Mr. Director."
-    Samantha ""
+    Samantha "Hindi ikaw, Mr. Director."
 
 # game/logic/events/audrey.rpy:473
 translate philippine Audrey_7_label_84e2d57d:
 
     # Samantha "Of course, I'll come right over."
-    Samantha ""
+    Samantha "Oo. Papunta na ako."
 
 # game/logic/events/audrey.rpy:475
 translate philippine Audrey_7_label_7b67f5a4:
 
     # Audrey "I'm starving, Sammy..."
-    Audrey ""
+    Audrey "Nagugutom na ako, Sammy..."
 
 # game/logic/events/audrey.rpy:476
 translate philippine Audrey_7_label_1246fe53:
 
     # Audrey "You promised!"
-    Audrey ""
+    Audrey "Nangako ka!"
 
 # game/logic/events/audrey.rpy:478
 translate philippine Audrey_7_label_0c6e8c99:
 
     # Samantha "I know I did. I'm sorry."
-    Samantha ""
+    Samantha "Alam ko. Pasensya."
 
 # game/logic/events/audrey.rpy:479
 translate philippine Audrey_7_label_ca3cce76:
 
     # Samantha "But the director's on the phone. It's urgent."
-    Samantha ""
+    Samantha "Pero tinatawag ako ng direktor. Importante."
 
 # game/logic/events/audrey.rpy:481
 translate philippine Audrey_7_label_13d9984b:
