@@ -4,7 +4,7 @@
 translate russian 69ff737f:
 
     # "Here you can keep track of all the routes, activities, etc. that are available to you. and quickly navigate to the desired one, without wasting time walking around the locations and searching. Next to the avatars of the characters are icons, the decoding of which is next."
-    "Тут вы можете следить за всеми путями, событиямии и т.д. которые доступные вам. и быстро переходите к нужному месту, не тратя время на хождение и поиск по локациям. Рядом с аватарами персонажей расположены иконки для расшифровки нужно навестись.
+    "Тут вы можете следить за всеми путями, событиями и т.д. которые доступны вам. и быстро переходить к нужному месту, не тратя время на хождение и поиск по локациям. Рядом с аватарами персонажей расположены иконки, для расшифровки нужно навести.
 
 # game/script.rpy:742
 translate russian start_54c881dc:
@@ -94,7 +94,7 @@ translate russian start_input_2_86ff8bea:
 translate russian start_input_2_19d3c2fb:
 
     # ch_Name "A few more shoots and I'll have enough for a down payment."
-    ch_Name "Еще несколько съемок, и у меня будет достаточно денег для задаток за обучение."
+    ch_Name "Еще несколько съемок, и у меня будет достаточно денег для задатка за обучение."
 
 # game/script.rpy:804
 translate russian start_input_2_b9fa1026:
@@ -118,13 +118,13 @@ translate russian start_input_2_6f8b77bd:
 translate russian start_input_2_fcb030eb:
 
     # Olivia "I expected as much from you."
-    Olivia "Я ожидал от тебя этого"
+    Olivia "Иного я от тебя и не ожидала."
 
 # game/script.rpy:867
 translate russian start_input_2_944e7bfb:
 
     # ch_Name "Please don't start that, Olivia, I've been working all day."
-    ch_Name "Пожалуйста, не начинай это, Оливия, я работал весь день."
+    ch_Name "Пожалуйста, не начинай, Оливия, я работал весь день."
 
 # game/script.rpy:869
 translate russian start_input_2_9039396f:
@@ -184,13 +184,13 @@ translate russian start_input_2_2a5612ed:
 translate russian start_input_2_362faf0b:
 
     # Olivia "...her son would neither study nor work!"
-    Olivia "сын ни учиться и не работает"
+    Olivia "сын не учится и не работает!"
 
 # game/script.rpy:889
 translate russian start_input_2_2043c397:
 
     # Olivia "She'd be spinning in her grave!"
-    Olivia "Она бы в гробу перевернулась"
+    Olivia "Она бы в гробу перевернулась!"
 
 # game/script.rpy:891
 translate russian start_input_2_f6a83891:
@@ -214,7 +214,7 @@ translate russian start_input_2_ce40e133:
 translate russian start_input_2_532196a0:
 
     # Olivia "Truth hurts, doesn't it?"
-    Olivia "Правда причиняет боль, не так ли?"
+    Olivia "Правда режет глаза, не так ли?"
 
 # game/script.rpy:899
 translate russian start_input_2_f6724a46:
@@ -286,7 +286,7 @@ translate russian start_input_2_691c3787:
 translate russian start_input_2_2089379b:
 
     # ch_Name "{i}(That's for sure...){/i}"
-    ch_Name "{i}(Это уже точно...){/i}"
+    ch_Name "{i}(Это уж точно...){/i}"
 
 # game/script.rpy:923
 translate russian start_input_2_2869137c:
@@ -298,13 +298,13 @@ translate russian start_input_2_2869137c:
 translate russian start_input_2_42f41d8b:
 
     # Olivia "If you want to throw your life away..."
-    Olivia "Если ты хочешь расстратить свою жизнь впустую"
+    Olivia "Если ты хочешь растратить свою жизнь впустую..."
 
 # game/script.rpy:927
 translate russian start_input_2_b962a7e0:
 
     # Olivia "We won't let you do it with your feet dangling off Don's neck!"
-    Olivia "Мы не позволим тебе сделать это, сидя на шее у Дона"
+    Olivia "Мы не позволим тебе сделать это, сидя на шее у Дона!"
 
 # game/script.rpy:929
 translate russian start_input_2_f6f5841f:
@@ -328,7 +328,7 @@ translate russian start_input_2_f4cb3c7a:
 translate russian start_input_2_90f3a346:
 
     # ch_Name "But, Olivia, come on... Where am I supposed to go?"
-    ch_Name "Но, Оливия, перестань... Куда я должен идти?"
+    ch_Name "Но, Оливия, послушай... Куда я по-твоему должен идти?"
 
 # game/script.rpy:937
 translate russian start_input_2_2661214d:
@@ -346,7 +346,7 @@ translate russian start_input_2_3c004877:
 translate russian start_input_2_668cf83e:
 
     # Olivia "And I talked Don out of kicking you out."
-    Olivia "И я уговорил Дона не выгонять тебя."
+    Olivia "И я уговорила Дона не выгонять тебя."
 
 # game/script.rpy:943
 translate russian start_input_2_cbbc98eb:
@@ -364,13 +364,13 @@ translate russian start_input_2_53623f8c:
 translate russian start_input_2_7e4ac717:
 
     # ch_Name "{i}(Of course there’s a \"but\"!){/i}"
-    ch_Name "{i}(Конечно, есть одно \"но\"!){/i}"
+    ch_Name "{i}(Конечно, всегда есть \"но\"!){/i}"
 
 # game/script.rpy:949
 translate russian start_input_2_09453d86:
 
     # Olivia "We're done supporting you."
-    Olivia "Мы устали опекать тебя."
+    Olivia "Мы больше не станем содержать тебя."
 
 # game/script.rpy:951
 translate russian start_input_2_a2fcf8a5:
@@ -388,7 +388,7 @@ translate russian start_input_2_eb708d4a:
 translate russian start_input_2_1394e177:
 
     # Olivia "Pay your rent as a lodger."
-    Olivia "Плати арендную как квартирант."
+    Olivia "Плати арендную плату как квартирант."
 
 # game/script.rpy:957
 translate russian start_input_2_306af026:
@@ -418,7 +418,7 @@ translate russian start_input_2_833ce195:
 translate russian start_input_2_db8f91ff:
 
     # ch_Name "Olivia, hey. Tell me you're kidding..."
-    ch_Name "Оливия, Эй . Скажи мне, что ты шутишь..."
+    ch_Name "Оливия, Эй. Скажи мне, что ты шутишь..."
 
 # game/script.rpy:967
 translate russian start_input_2_3da42f20:
@@ -460,7 +460,7 @@ translate russian start_input_2_419bb65f:
 translate russian start_input_2_b59257ff:
 
     # Olivia "You follow my rules."
-    Olivia "Значит ты следуешь моим правилам."
+    Olivia "Значит, ты следуешь моим правилам."
 
 # game/script.rpy:981
 translate russian start_input_2_0c3ee8a6:
@@ -478,7 +478,7 @@ translate russian start_input_2_143d02b4:
 translate russian start_input_2_82ed18d6:
 
     # Olivia "Or do you only have the courage to bicker with me?"
-    Olivia "Или у тебя хватает смелости на то, чтобы спорить только со мной?"
+    Olivia "Или у тебя хватает смелости только на то, чтобы спорить со мной?"
 
 # game/script.rpy:987
 translate russian start_input_2_b8f6f104:
@@ -496,7 +496,7 @@ translate russian start_input_2_931280c0:
 translate russian start_input_2_512eba66:
 
     # ch_Name "Maybe he won't be so deaf to reason."
-    ch_Name "Может быть хотя бы он меня послушает"
+    ch_Name "Может быть, хотя бы он меня послушает"
 
 # game/script.rpy:993
 translate russian start_input_2_fe2acc96:
@@ -526,7 +526,7 @@ translate russian strings:
 
     # game/script.rpy:67
     old "Angry"
-    new "Злой"
+    new "Сердито"
 
     # game/script.rpy:69
     old "Flirt"
@@ -566,7 +566,7 @@ translate russian strings:
 
     # game/script.rpy:88
     old "Inspiration"
-    new "Воодушевление"
+    new "Вдохновение"
 
     # game/script.rpy:90
     old "Magic Reflection"
@@ -617,8 +617,8 @@ translate russian strings:
     new "Комната девочек 1"
 
     # game/script.rpy:116
-    old "Комната девочек 2"
-    new ""
+    old "Girls Room 2"
+    new "Комната девочек 2"
 
     # game/script.rpy:118
     old "My Room"
@@ -630,11 +630,11 @@ translate russian strings:
 
     # game/script.rpy:122
     old "Inner Garden"
-    new "Внутренний сад"
+    new "Внутренний дворик"
 
     # game/script.rpy:124
     old "Entrance"
-    new "Фое"
+    new "Фойе"
 
     # game/script.rpy:126
     old "Left Wing"
@@ -654,7 +654,7 @@ translate russian strings:
 
     # game/script.rpy:134
     old "Classroom 1"
-    new "Кабинет 1"
+    new "Аудитория 1"
 
     # game/script.rpy:136
     old "Cafe"
@@ -662,7 +662,7 @@ translate russian strings:
 
     # game/script.rpy:138
     old "Classroom 2"
-    new "Кабинет 2"
+    new "Аудитория 2"
 
     # game/script.rpy:140
     old "Bathroom"
@@ -674,7 +674,7 @@ translate russian strings:
 
     # game/script.rpy:144
     old "Outside"
-    new "Наружу"
+    new "На улицу"
 
     # game/script.rpy:146
     old "Upstairs"
@@ -682,7 +682,7 @@ translate russian strings:
 
     # game/script.rpy:148
     old "Sorting Book"
-    new "Распределяющая книга"
+    new "Распределяющая Книга"
 
     # game/script.rpy:150
     old "Ashley's Bedroom"
@@ -730,7 +730,7 @@ translate russian strings:
 
     # game/script.rpy:172
     old "Viewpoint"
-    new "Точка обзора"
+    new "Смотровая площадка"
 
     # game/script.rpy:174
     old "Main Street"
@@ -738,7 +738,7 @@ translate russian strings:
 
     # game/script.rpy:176
     old "Coffee Hut"
-    new ""
+    new "Кофейня"
 
     # game/script.rpy:178
     old "Alley"
@@ -790,7 +790,7 @@ translate russian strings:
 
     # game/script.rpy:208
     old "rude humor, scenes that depict smoking or infrequent use of profanity."
-    new "грубый юмор, сцены, изображающие курение или использование ненормативной лексики."
+    new "грубый юмор, сцены курения и использование ненормативной лексики."
 
     # game/script.rpy:330
     old "Warning!"
@@ -814,19 +814,19 @@ translate russian strings:
 
     # game/script.rpy:340
     old "Note that our game features LGBTQ+ scenes. If you're not interested in stuff like that at all, you can turn this option"
-    new "Обратите внимание, что в нашей игре есть сцены ЛГБТК +. Если вас не интересует подобное, вы можете выключить эту опцию"
+    new "Обратите внимание, что в нашей игре есть сцены ЛГБТК+. Если вас не интересует подобное, вы можете выключить эту опцию"
 
     # game/script.rpy:340
     old "off right now (you can always turn it on later, in the settings). Leave this option enabled if you're only"
-    new "прямо сейчас (вы всегда можете включить его позже, в настройках). Оставьте эту опцию включенной, если вы только"
+    new "прямо сейчас (вы всегда можете включить её позже, в настройках). Оставьте эту опцию включенной, если вы только частично"
 
     # game/script.rpy:340
     old "interested in some of the possible content. Don't worry! We'll ask you beforehand each"
-    new "Интересуетесь таким контентом. Не волнуйтесь! Мы заранее спросим вас перед каждым"
+    new "интересуетесь таким контентом. Не волнуйтесь! Мы заранее спросим вас перед каждым"
 
     # game/script.rpy:340
     old "time there's a chance to encounter such interactions."
-    new "разым, когда будет шанс встретить такой контент"
+    new "разом, когда будет шанс встретить такой контент."
 
     # game/script.rpy:340
     old "Do you want to enable LGBTQ+ content?"
@@ -846,11 +846,11 @@ translate russian strings:
 
     # game/script.rpy:728
     old "{b}Olivia{/b} said I have to talk to Don about this rent thing. \nHe should be in the living room."
-    new "{b}Оливия{/b} сказала, что я должна поговорить с Доном об этой арендной плате. \nОн должен быть в гостиной."
+    new "{b}Оливия{/b} сказала, что я должен поговорить с Доном об этой арендной плате. \nОн должен быть в гостиной."
 
     # game/script.rpy:748
     old "Enter your name"
-    new "Введите свое имя"
+    new "Введи свое имя"
 
     # game/script.rpy:748
     old "James"
@@ -858,7 +858,7 @@ translate russian strings:
 
     # game/script.rpy:759
     old "Enter your surname"
-    new "Введите свою Фамилию"
+    new "Введи свою Фамилию"
 
     # game/script.rpy:759
     old "Pogger"
@@ -871,4 +871,3 @@ translate russian strings:
     # game/script.rpy:807
     old "Skip prologue"
     new "Пропустить пролог"
-
