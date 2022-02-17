@@ -4,61 +4,61 @@
 translate deutsch test_duel_game_start_fa6f0a63:
 
     # Jacob "I'm glad to welcome the participants of the magic duel!"
-    Jacob ""
+    Jacob "Ich freue mich, die Teilnehmer dieses magischen Duells begrüßen zu dürfen!"
 
 # game/logic/mini_games/duels/logic.rpy:2144
 translate deutsch test_duel_game_start_c49ef94d:
 
     # Jacob "Welcome to the Cordale arena!"
-    Jacob ""
+    Jacob "Willkommen in der Cordale Arena!"
 
 # game/logic/mini_games/duels/logic.rpy:2145
 translate deutsch test_duel_game_start_f80b189c:
 
     # Jacob "Today two of our students will perform in a practice battle."
-    Jacob ""
+    Jacob "Heute werden zwei unserer Schüler in einem Übungskampf auftreten."
 
 # game/logic/mini_games/duels/logic.rpy:2154
 translate deutsch test_duel_game_start_77c82957:
 
     # Jacob "Student to my right represents the house [f_now]!"
-    Jacob ""
+    Jacob "Der Schüler zu meiner Rechten repräsentiert das Haus [f_now]!"
 
 # game/logic/mini_games/duels/logic.rpy:2156
 translate deutsch test_duel_game_start_8e46ead1:
 
     # Jacob "Student to my left represents the house Leonheart!"
-    Jacob ""
+    Jacob "Die Schülerin zu meiner Linken repräsentiert das Haus Leonheart!"
 
 # game/logic/mini_games/duels/logic.rpy:2158
 translate deutsch test_duel_game_start_4df77c95:
 
     # Jacob "Duelists, I expect a fair fight from both of you. Good luck!"
-    Jacob ""
+    Jacob "Duellanten, ich erwarte einen fairen Kampf von euch beiden. Viel Glück!"
 
 # game/logic/mini_games/duels/logic.rpy:2159
 translate deutsch test_duel_game_start_aa59c47b:
 
     # Jacob "And may the strongest win!"
-    Jacob ""
+    Jacob "Und möge der Stärkere gewinnen!"
 
 # game/logic/mini_games/duels/logic.rpy:2168
 translate deutsch test_duel_game_start_368f8719:
 
     # ch_Name "{i}(She looks serious. I bet she won't hold back.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sie sieht ernst aus. Ich wette, sie wird sich nicht zurückhalten.){/i}"
 
 # game/logic/mini_games/duels/logic.rpy:2170
 translate deutsch test_duel_game_start_4e97e690:
 
     # ch_Name "{i}(Neither should I!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sollte ich auch nicht!){/i}"
 
 # game/logic/mini_games/duels/logic.rpy:2172
 translate deutsch test_duel_game_start_6c3294f0:
 
     # UnknownGirl "I'm ready."
-    UnknownGirl ""
+    UnknownGirl "Ich bin bereit."
 
 # game/logic/mini_games/duels/logic.rpy:2182
 translate deutsch test_duel_game_start_a30443e9:
@@ -100,31 +100,31 @@ translate deutsch end_duel_2c0c4064:
 translate deutsch end_duel_37310b9f:
 
     # Jacob "[f_now]'s duelist cannot continue the battle."
-    Jacob ""
+    Jacob "Der Duellant von [f_now] kann den Kampf nicht fortsetzen."
 
 # game/logic/mini_games/duels/logic.rpy:2558
 translate deutsch end_duel_61eb1d29:
 
     # Jacob "Victory to the House of Leonheart!"
-    Jacob ""
+    Jacob "Sieg für das Haus Leonheart!"
 
 # game/logic/mini_games/duels/logic.rpy:2559
 translate deutsch end_duel_9a6c67b5:
 
     # Jacob "Great job! That's all for today."
-    Jacob ""
+    Jacob "Gut gemacht! Das war's für heute."
 
 # game/logic/mini_games/duels/logic.rpy:2561
 translate deutsch end_duel_9af6ed18:
 
     # Jacob "Go rest while I..."
-    Jacob ""
+    Jacob "Geh dich ausrehen, während ich..."
 
 # game/logic/mini_games/duels/logic.rpy:2562
 translate deutsch end_duel_f815f9fd:
 
     # Jacob "...see to the loser."
-    Jacob ""
+    Jacob "... nach dem Verlierer ansehe."
 
 translate deutsch strings:
 
@@ -146,23 +146,23 @@ translate deutsch strings:
 
     # game/logic/mini_games/duels/logic.rpy:511
     old "Aggressive"
-    new ""
+    new "Aggressiv"
 
     # game/logic/mini_games/duels/logic.rpy:524
     old "Defensive"
-    new ""
+    new "Defensiv"
 
     # game/logic/mini_games/duels/logic.rpy:538
     old "Sneaky"
-    new ""
+    new "Hinterhältig"
 
     # game/logic/mini_games/duels/logic.rpy:945
     old "Locked"
-    new ""
+    new "Gesperrt"
 
     # game/logic/mini_games/duels/logic.rpy:953
     old "Cooldown: 1 Round"
-    new ""
+    new "Abklingzeit: 1 Runde"
 
     # game/logic/mini_games/duels/logic.rpy:1691
     old "Stamina"
@@ -170,73 +170,73 @@ translate deutsch strings:
 
     # game/logic/mini_games/duels/logic.rpy:1699
     old "Uses spells"
-    new ""
+    new "Verwendet Zaubersprüche"
 
     # game/logic/mini_games/duels/logic.rpy:1736
     old "Win cost"
-    new ""
+    new "Gewinnkosten"
 
     # game/logic/mini_games/duels/logic.rpy:1747
     old "points"
-    new ""
+    new "Punkte"
 
     # game/logic/mini_games/duels/logic.rpy:2173
     old "Get ready to lose your house points, loser!"
-    new ""
+    new "Mach dich bereit, deine Hauspunkte zu verlieren, Loser!"
 
     # game/logic/mini_games/duels/logic.rpy:2173
     old "You're in a lot of trouble!"
-    new ""
+    new "Du steckst in großen Schwierigkeiten!"
 
     # game/logic/mini_games/duels/logic.rpy:2173
     old "I can't guarantee you'll survive our battle."
-    new ""
+    new "Ich kann nicht garantieren, dass du den Kampf überleben wirst."
 
     # game/logic/mini_games/duels/logic.rpy:2173
     old "Are you challenging me? Unwise!"
-    new ""
+    new "Willst du mich herausfordern? Das ist unklug!"
 
     # game/logic/mini_games/duels/logic.rpy:2173
     old "Let's get this over with, I'm bored already!"
-    new ""
+    new "Bringen wir es hinter uns! Mir ist schon langweilig!"
 
     # game/logic/mini_games/duels/logic.rpy:2173
     old "Hey, try to go easy on me, okay?"
-    new ""
+    new "Hey, sei nicht so hart mit mir, okay?"
 
     # game/logic/mini_games/duels/logic.rpy:2285
     old "You realize now that you're no match for me, right?"
-    new ""
+    new "Dir wird jetzt klar, dass du mir nicht gewachsen bist, oder?"
 
     # game/logic/mini_games/duels/logic.rpy:2285
     old "What's the matter, was that too much?"
-    new ""
+    new "Was ist los? War das etwa zu heftig?"
 
     # game/logic/mini_games/duels/logic.rpy:2285
     old "If you can't take a punch like a man, go running back to mommy!"
-    new ""
+    new "Wenn du einen Schlag nicht wie ein Mann einstecken kannst, dann lauf doch zurück zu Mami!"
 
     # game/logic/mini_games/duels/logic.rpy:2285
     old "Are you still on your feet? Not for long."
-    new ""
+    new "Bist du etwa immer noch auf deinen Beinen? Nicht mehr lange."
 
     # game/logic/mini_games/duels/logic.rpy:2543
     old "Those were easy points for Lenoheart."
-    new ""
+    new "Das waren einfache Punkte für Leonheart."
 
     # game/logic/mini_games/duels/logic.rpy:2543
     old "I like you better when you're quiet."
-    new ""
+    new "Ich mag dich lieber, wenn du still bist."
 
     # game/logic/mini_games/duels/logic.rpy:2543
     old "So appetizing. I wonder who's hiding beneath that mask?"
-    new ""
+    new "So attraktiv. Ich frage mich, wer sich hinter dieser Maske verbirgt."
 
     # game/logic/mini_games/duels/logic.rpy:2543
     old "A worthy fight! I wish I knew who you were..."
-    new ""
+    new "Ein würdiger Kampf! Ich wünsche, ich wüsste, wer du bist..."
 
     # game/logic/mini_games/duels/logic.rpy:2543
     old "And so shall it be with anyone I challenge!"
-    new ""
+    new "Und so soll es mit jedem sein, den ich herausfordere!"
 
