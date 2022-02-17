@@ -58,13 +58,13 @@ translate english cafe_event_ahchi_1_8f31f6c8:
 translate english cafe_event_ahchi_1_dae9a04a:
 
     # ch_Name "Old dilapidated?"
-    ch_Name ""
+    ch_Name "Old and dilapidated?"
 
 # game/logic/events/ahchi.rpy:169
 translate english cafe_event_ahchi_1_1f2b72a4:
 
     # Ahchi "Pretty much. Somebody decided to brew coffee on boom beans and, well..."
-    Ahchi ""
+    Ahchi "Pretty much. Somebody decided to brew coffee with boom beans and, well..."
 
 # game/logic/events/ahchi.rpy:170
 translate english cafe_event_ahchi_1_f5fe21a5:
@@ -76,7 +76,7 @@ translate english cafe_event_ahchi_1_f5fe21a5:
 translate english cafe_event_ahchi_1_ad93ee09:
 
     # ch_Name "What happens if you brew coffee on boom beans?"
-    ch_Name ""
+    ch_Name "What happens if you brew coffee with boom beans?"
 
 # game/logic/events/ahchi.rpy:173
 translate english cafe_event_ahchi_1_3817dd44:
@@ -130,7 +130,7 @@ translate english cafe_event_ahchi_1_9eacd2da:
 translate english cafe_event_ahchi_1_cff19cd1:
 
     # ch_Name "{i}(That even sounded kind of threatening...){/i}"
-    ch_Name ""
+    ch_Name "{i}(That sounded kind of threatening...){/i}"
 
 # game/logic/events/ahchi.rpy:184
 translate english cafe_event_ahchi_1_7f53db2a:
@@ -172,7 +172,7 @@ translate english cafe_event_ahchi_1_ec3fee92:
 translate english CF_S1_label_5c232053:
 
     # ch_Name "{i}(Do I really see Sam and Audrey in the flesh sitting at that table over there?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Is that Sam and Audrey sitting at that table over there?){/i}"
 
 # game/logic/events/ahchi.rpy:215
 translate english CF_S1_label_8ccb5c30:
@@ -184,13 +184,13 @@ translate english CF_S1_label_8ccb5c30:
 translate english CF_S1_label_3ef80d31:
 
     # ch_Name "{i}(And only look at them!){/i}"
-    ch_Name ""
+    ch_Name "{i}(And look at them!){/i}"
 
 # game/logic/events/ahchi.rpy:217
 translate english CF_S1_label_2652343a:
 
     # ch_Name "{i}(Laughing on something that hard!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Laughing at something that hard!){/i}"
 
 # game/logic/events/ahchi.rpy:218
 translate english CF_S1_label_d380846d:
@@ -226,7 +226,7 @@ translate english CF_S1_label_6fc813c9:
 translate english CF_S1_label_4e73fd86:
 
     # Audrey "I'm in too good mood, dummy."
-    Audrey ""
+    Audrey "I'm in a good mood, dummy."
 
 # game/logic/events/ahchi.rpy:226
 translate english CF_S1_label_803f8558:
@@ -274,7 +274,7 @@ translate english CF_S1_label_05b01b04:
 translate english CF_S1_label_0f512dfb:
 
     # Audrey "You look like the person who likes to peek."
-    Audrey ""
+    Audrey "You look like a guy who likes to peek."
 
 # game/logic/events/ahchi.rpy:236
 translate english CF_S1_label_89cdb366:
@@ -286,13 +286,13 @@ translate english CF_S1_label_89cdb366:
 translate english CF_S1_label_7e92f4bf:
 
     # ch_Name "And now I'm wonder what were you laughing at before I came."
-    ch_Name ""
+    ch_Name "And now I'm wondering what you were laughing at before I came over."
 
 # game/logic/events/ahchi.rpy:238
 translate english CF_S1_label_893eb336:
 
     # ch_Name "What can make you laugh that hard?"
-    ch_Name ""
+    ch_Name "What made you laugh that hard?"
 
 # game/logic/events/ahchi.rpy:240
 translate english CF_S1_label_d2d8761b:
@@ -304,19 +304,19 @@ translate english CF_S1_label_d2d8761b:
 translate english CF_S1_label_fd236a41:
 
     # Samantha "We just remember our freshman year."
-    Samantha ""
+    Samantha "We were just remembering our freshman year."
 
 # game/logic/events/ahchi.rpy:242
 translate english CF_S1_label_ab5dcd1d:
 
     # Samantha "All these new people, first impressions, emotions, parties and lots of fun!"
-    Samantha ""
+    Samantha "All these new people, first impressions, emotions, and parties. We had a lot of fun!"
 
 # game/logic/events/ahchi.rpy:243
 translate english CF_S1_label_89d7466f:
 
     # Samantha "Freshman year is all the college is about."
-    Samantha ""
+    Samantha "Freshman year is what college is all about."
 
 # game/logic/events/ahchi.rpy:245
 translate english CF_S1_label_e46f8790:
@@ -328,7 +328,7 @@ translate english CF_S1_label_e46f8790:
 translate english CF_S1_label_a2a548df:
 
     # Samantha "First grade is the best time for gaining the most amazing experience of student life!"
-    Samantha ""
+    Samantha "First year is the best time to gain the most amazing experiences of student life!"
 
 # game/logic/events/ahchi.rpy:247
 translate english CF_S1_label_a8df2a98:
@@ -346,25 +346,25 @@ translate english CF_S1_label_f8755a35:
 translate english CF_S1_label_1bf9f7d8:
 
     # ch_Name "So it appears that now is the best time of my life?"
-    ch_Name ""
+    ch_Name "So this year is the best time of my life?"
 
 # game/logic/events/ahchi.rpy:251
 translate english CF_S1_label_6f12b7ef:
 
     # Samantha "It's supposed to be so."
-    Samantha ""
+    Samantha "It's supposed to be."
 
 # game/logic/events/ahchi.rpy:252
 translate english CF_S1_label_d69e14fe:
 
     # ch_Name "And I have never been to a party here!"
-    ch_Name ""
+    ch_Name "And I've never been to a party here!"
 
 # game/logic/events/ahchi.rpy:253
 translate english CF_S1_label_8ae011a6:
 
     # Audrey "It's only your fault."
-    Audrey ""
+    Audrey "That's your own fault."
 
 # game/logic/events/ahchi.rpy:254
 translate english CF_S1_label_8a723d9e:
@@ -388,13 +388,13 @@ translate english CF_S1_label_4f217a6f:
 translate english CF_S1_label_1b67e978:
 
     # ch_Name "What are you talking about?"
-    ch_Name ""
+    ch_Name "Are you serious?"
 
 # game/logic/events/ahchi.rpy:259
 translate english CF_S1_label_a5d0935a:
 
     # ch_Name "Has someone really come?"
-    ch_Name ""
+    ch_Name "Did any of them ever show up?"
 
 # game/logic/events/ahchi.rpy:260
 translate english CF_S1_label_7e7dda39:
@@ -406,25 +406,25 @@ translate english CF_S1_label_7e7dda39:
 translate english CF_S1_label_549a5a88:
 
     # Samantha "And even if they wanted it, they were too afraid to damage their reputation."
-    Samantha ""
+    Samantha "And even if they wanted to come, they were too afraid to damage their reputation."
 
 # game/logic/events/ahchi.rpy:263
 translate english CF_S1_label_f99bbe72:
 
     # Audrey "Stop, maybe I'm mistaken, but I remember Victoria on one of our party."
-    Audrey ""
+    Audrey "Stop, maybe I'm mistaken, but I remember Victoria at one of our parties."
 
 # game/logic/events/ahchi.rpy:264
 translate english CF_S1_label_57edb19d:
 
     # Samantha "Oh, God, exactly!"
-    Samantha ""
+    Samantha "Oh, God, you're right!"
 
 # game/logic/events/ahchi.rpy:265
 translate english CF_S1_label_df564ac7:
 
     # Samantha "She really came! How could I forget it?"
-    Samantha ""
+    Samantha "She did come to one! How could I forget that?"
 
 # game/logic/events/ahchi.rpy:266
 translate english CF_S1_label_7c865668:
@@ -454,13 +454,13 @@ translate english CF_S1_label_cd09b991:
 translate english CF_S1_label_f5823ad2:
 
     # Audrey "Even I was drooling on her in that time."
-    Audrey ""
+    Audrey "Even I was drooling over her that time."
 
 # game/logic/events/ahchi.rpy:272
 translate english CF_S1_label_19c20359:
 
     # ch_Name "After your story I start to feel how much I'm missing."
-    ch_Name ""
+    ch_Name "Wow, I really am missing out."
 
 # game/logic/events/ahchi.rpy:273
 translate english CF_S1_label_a88fa3a6:
@@ -472,13 +472,13 @@ translate english CF_S1_label_a88fa3a6:
 translate english CF_S1_label_5e231afa:
 
     # Samantha "You can suggest Lily or Haley to organize the party."
-    Samantha ""
+    Samantha "You can talk to Lily or Haley about organizing a party."
 
 # game/logic/events/ahchi.rpy:276
 translate english CF_S1_label_df34c824:
 
     # Samantha "I'm sure they will be happy to help you."
-    Samantha ""
+    Samantha "I'm sure they'll be happy to help you."
 
 # game/logic/events/ahchi.rpy:277
 translate english CF_S1_label_a3669a6f:
@@ -502,7 +502,7 @@ translate english CF_S1_label_62d93b79:
 translate english CF_S1_label_3ae1385b:
 
     # Samantha "And you always can ask Audrey and me if there will be some organisational questions."
-    Samantha ""
+    Samantha "And you can always ask Audrey and me if you have any organisational questions."
 
 # game/logic/events/ahchi.rpy:282
 translate english CF_S1_label_2c098683:
@@ -514,13 +514,13 @@ translate english CF_S1_label_2c098683:
 translate english CF_S1_label_09a0149d:
 
     # ch_Name "I'm very passionate about this now!"
-    ch_Name ""
+    ch_Name "This is exciting, I can't wait to start planning."
 
 # game/logic/events/ahchi.rpy:284
 translate english CF_S1_label_97ba8b3b:
 
     # Samantha "Just try to keep your enthusiasm for the moment then we come back to Academy."
-    Samantha ""
+    Samantha "Just try to keep your enthusiasm in check for the moment, until we get back to Cordale."
 
 # game/logic/events/ahchi.rpy:285
 translate english CF_S1_label_e11cca33:
@@ -556,13 +556,13 @@ translate english CF_S1_label_0d53fa48:
 translate english CF_S1_label_f4899b6e:
 
     # ch_Name "I will probably go too."
-    ch_Name ""
+    ch_Name "I'll get going too"
 
 # game/logic/events/ahchi.rpy:293
 translate english CF_S1_label_76b42bfd:
 
     # ch_Name "There are so many opportunities to go somewhere else!"
-    ch_Name ""
+    ch_Name "There's a lot of places to see here still!"
 
 # game/logic/events/ahchi.rpy:294
 translate english CF_S1_label_28a98ab9:
@@ -574,7 +574,7 @@ translate english CF_S1_label_28a98ab9:
 translate english CF_S1_label_9a458d38:
 
     # Samantha "It was nice to meet you, [Name]."
-    Samantha ""
+    Samantha "It was nice seeing you, [Name]."
 
 # game/logic/events/ahchi.rpy:296
 translate english CF_S1_label_20d84f11:
@@ -628,13 +628,13 @@ translate english CF_S1_label_38958f10:
 translate english CF_S1_label_d223421d:
 
     # ch_Name "{i}(Although I'm much more interested in seeing how far I can go with a masseuse.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Although I'm much more interested in seeing how far I can ge with the masseuse.){/i}"
 
 # game/logic/events/ahchi.rpy:317
 translate english CF_S1_label_d56475a4:
 
     # ch_Name "{i}(Let's see if I can get her a spicy massage.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Let's see if I can get a spicy massage from her.){/i}"
 
 # game/logic/events/ahchi.rpy:325
 translate english CF_S2_label_0c27e4c3:
@@ -652,7 +652,7 @@ translate english CF_S2_label_09bb04bc:
 translate english CF_S2_label_4879157b:
 
     # ch_Name "Nice to meet you!"
-    ch_Name ""
+    ch_Name "It's good to see you!"
 
 # game/logic/events/ahchi.rpy:329
 translate english CF_S2_label_8b5f7fef:
@@ -724,7 +724,7 @@ translate english CF_S2_label_b883e520:
 translate english CF_S2_label_917c1871:
 
     # Ahchi "And I swear you, nothing on earth smells so heavenly as a freshly brewed gluhwein."
-    Ahchi ""
+    Ahchi "And I swear to you, nothing on Earth smells so heavenly as a freshly brewed gluhwein."
 
 # game/logic/events/ahchi.rpy:343
 translate english CF_S2_label_4ab47c86:
@@ -742,7 +742,7 @@ translate english CF_S2_label_952b1da5:
 translate english CF_S2_label_d93fdbdd:
 
     # Ahchi "Here you're!"
-    Ahchi ""
+    Ahchi "Here you are!"
 
 # game/logic/events/ahchi.rpy:347
 translate english CF_S2_label_ee196407:
@@ -760,7 +760,7 @@ translate english CF_S2_label_84d3dc7e:
 translate english CF_S2_label_64554168:
 
     # ch_Name "Seems I will come here more often."
-    ch_Name ""
+    ch_Name "I think I'll be coming here more often."
 
 # game/logic/events/ahchi.rpy:351
 translate english CF_S2_label_48d16d2f:
@@ -796,7 +796,7 @@ translate english CF_S2_label_6cf1eb2a:
 translate english CF_S2_label_3770a889:
 
     # Audrey "[Name], you have a talent to show up at the exactly right time."
-    Audrey ""
+    Audrey "[Name], you have a talent for showing up at the exactly right time."
 
 # game/logic/events/ahchi.rpy:358
 translate english CF_S2_label_bd67f888:
@@ -808,25 +808,25 @@ translate english CF_S2_label_bd67f888:
 translate english CF_S2_label_2f6e4c92:
 
     # Audrey "I'm trying to crack at Sam."
-    Audrey ""
+    Audrey "I'm trying to get Sam to crack"
 
 # game/logic/events/ahchi.rpy:360
 translate english CF_S2_label_aa92d77e:
 
     # Audrey "She doesn't want to tell her best friend what is her type of guy, can you imagine that?"
-    Audrey ""
+    Audrey "She doesn't want to tell her best friend what she looks for in a guy, can you believe that?"
 
 # game/logic/events/ahchi.rpy:361
 translate english CF_S2_label_f02f5fce:
 
     # Audrey "And that's really offensive, I can say."
-    Audrey ""
+    Audrey "And I think that's offensive."
 
 # game/logic/events/ahchi.rpy:363
 translate english CF_S2_label_b3c37acd:
 
     # Audrey "That's mean that for you I can't be trusted!"
-    Audrey ""
+    Audrey "That means you don't think you can trust me."
 
 # game/logic/events/ahchi.rpy:364
 translate english CF_S2_label_c0662c1e:
@@ -862,7 +862,7 @@ translate english CF_S2_label_61a74e98:
 translate english CF_S2_label_ecd75ebc:
 
     # ch_Name "Audrey, what's about you?"
-    ch_Name ""
+    ch_Name "Audrey, what about you?"
 
 # game/logic/events/ahchi.rpy:371
 translate english CF_S2_label_9c90325b:
@@ -874,7 +874,7 @@ translate english CF_S2_label_9c90325b:
 translate english CF_S2_label_fc36f27d:
 
     # Audrey "Absolutely yes!"
-    Audrey ""
+    Audrey "Absolutely, yes!"
 
 # game/logic/events/ahchi.rpy:373
 translate english CF_S2_label_9012df44:
@@ -892,7 +892,7 @@ translate english CF_S2_label_8fc8fbc5:
 translate english CF_S2_label_5d5f6a4b:
 
     # Audrey "I've hanged out with other guys, but it was more about on-call fuck buddies."
-    Audrey ""
+    Audrey "I've hung out with other guys, but they were more like on-call fuck buddies."
 
 # game/logic/events/ahchi.rpy:377
 translate english CF_S2_label_3ef5256d:
@@ -904,13 +904,13 @@ translate english CF_S2_label_3ef5256d:
 translate english CF_S2_label_07223130:
 
     # Audrey "Not too bitchy redheads with ass, I'd say."
-    Audrey ""
+    Audrey "Not too bitchy redheads with asses, I'd say."
 
 # game/logic/events/ahchi.rpy:380
 translate english CF_S2_label_b18bf5b0:
 
     # Audrey "But sometimes I also attracted to other types of girls as well."
-    Audrey ""
+    Audrey "But sometimes I'm also attracted to other types of girls."
 
 # game/logic/events/ahchi.rpy:381
 translate english CF_S2_label_eeab8096:
@@ -922,13 +922,13 @@ translate english CF_S2_label_eeab8096:
 translate english CF_S2_label_03ca346d:
 
     # Samantha "I can describe the last one type of the guy I liked."
-    Samantha ""
+    Samantha "I can describe the last guy I liked."
 
 # game/logic/events/ahchi.rpy:383
 translate english CF_S2_label_f34e4c94:
 
     # Audrey "It's already something."
-    Audrey ""
+    Audrey "We'll that's something at least."
 
 # game/logic/events/ahchi.rpy:385
 translate english CF_S2_label_2822792f:
@@ -940,13 +940,13 @@ translate english CF_S2_label_2822792f:
 translate english CF_S2_label_5efe07c6:
 
     # Samantha "Middle-sized, with short dark hair and brown eyes."
-    Samantha ""
+    Samantha "Medium-sized, with short dark hair and brown eyes."
 
 # game/logic/events/ahchi.rpy:387
 translate english CF_S2_label_49e49e52:
 
     # Samantha "Someone smiley, easy-going..."
-    Samantha ""
+    Samantha "Someone who smiles a lot, easy-going..."
 
 # game/logic/events/ahchi.rpy:388
 translate english CF_S2_label_f5f6c231:
@@ -958,7 +958,7 @@ translate english CF_S2_label_f5f6c231:
 translate english CF_S2_label_6a6dabee:
 
     # Samantha "Into sport, but not a sports nut."
-    Samantha ""
+    Samantha "Into sports, but not a sports nut."
 
 # game/logic/events/ahchi.rpy:391
 translate english CF_S2_label_e0fbc4c8:
@@ -1054,7 +1054,7 @@ translate english CF_S2_label_fe2db6d9:
 translate english CF_S2_label_332eae43:
 
     # ch_Name "Want to sit here for a while."
-    ch_Name ""
+    ch_Name "I think I'll sit here for a while."
 
 # game/logic/events/ahchi.rpy:410
 translate english CF_S2_label_b4bd0e90:
@@ -1078,7 +1078,7 @@ translate english CF_S2_label_8583137b:
 translate english CF_S2_label_010e5fcb:
 
     # ch_Name "{i}(Everything is so cozy, and I have a feeling of being protected.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Everything is so cozy, and I feel safe here.){/i}"
 
 # game/logic/events/ahchi.rpy:415
 translate english CF_S2_label_1b960923:
@@ -1096,7 +1096,7 @@ translate english CF_S3_label_4d7c1aa5:
 translate english CF_S3_label_f4b7a84b:
 
     # Samantha "[Name]! Nice to meet you!"
-    Samantha ""
+    Samantha "[Name]! Good to see you!"
 
 # game/logic/events/ahchi.rpy:431
 translate english CF_S3_label_2ccbdaaa:
@@ -1114,7 +1114,7 @@ translate english CF_S3_label_9c309c1b:
 translate english CF_S3_label_77659928:
 
     # Audrey "Just said to Sam that I can't imagine her as a child."
-    Audrey ""
+    Audrey "I was just telling Sam that I can't imagine her as a child."
 
 # game/logic/events/ahchi.rpy:435
 translate english CF_S3_label_58ec4f31:
@@ -1126,7 +1126,7 @@ translate english CF_S3_label_58ec4f31:
 translate english CF_S3_label_f86dd380:
 
     # Audrey "But in my head she's always been like now."
-    Audrey ""
+    Audrey "But in my head she's always been like she is now."
 
 # game/logic/events/ahchi.rpy:437
 translate english CF_S3_label_d97e482b:
@@ -1192,7 +1192,7 @@ translate english CF_S3_label_680e1f6a:
 translate english CF_S3_label_c5cb9d35:
 
     # ch_Name "You look very cute on all of them!"
-    ch_Name ""
+    ch_Name "You look very cute in all of them!"
 
 # game/logic/events/ahchi.rpy:451
 translate english CF_S3_label_0498a733:
@@ -1228,13 +1228,13 @@ translate english CF_S3_label_81ee62f0:
 translate english CF_S3_label_d823c5b2:
 
     # Samantha "You're shocking me, [Name]!"
-    Samantha ""
+    Samantha "What?! [Name], why would you have those?"
 
 # game/logic/events/ahchi.rpy:459
 translate english CF_S3_label_de17a6db:
 
     # ch_Name "Only look at her!"
-    ch_Name ""
+    ch_Name "Just look at her!"
 
 # game/logic/events/ahchi.rpy:460
 translate english CF_S3_label_2c552be4:
@@ -1246,13 +1246,13 @@ translate english CF_S3_label_2c552be4:
 translate english CF_S3_label_e834ea28:
 
     # Samantha "Okay, should admit that it's not the bad one."
-    Samantha ""
+    Samantha "Okay, I admit that one's not the bad one."
 
 # game/logic/events/ahchi.rpy:462
 translate english CF_S3_label_2ae65c46:
 
     # Audrey "You're were so sweet!"
-    Audrey ""
+    Audrey "You were so sweet"
 
 # game/logic/events/ahchi.rpy:463
 translate english CF_S3_label_12d0b469:
@@ -1264,7 +1264,7 @@ translate english CF_S3_label_12d0b469:
 translate english CF_S3_label_b1f9faa1:
 
     # Audrey "Now you're the sweetest one!"
-    Audrey ""
+    Audrey "Now you're the sweetest."
 
 # game/logic/events/ahchi.rpy:466
 translate english CF_S3_label_2006ed55:
@@ -1288,7 +1288,7 @@ translate english CF_S3_label_c8808eac:
 translate english CF_S3_label_5e1142ef:
 
     # Samantha "It died when I was 12."
-    Samantha ""
+    Samantha "It died when I was twelve."
 
 # game/logic/events/ahchi.rpy:471
 translate english CF_S3_label_99b27920:
@@ -1306,13 +1306,13 @@ translate english CF_S3_label_426e2eda:
 translate english CF_S3_label_0d000422:
 
     # Audrey "So sad!"
-    Audrey ""
+    Audrey "That's so sad, but cute."
 
 # game/logic/events/ahchi.rpy:475
 translate english CF_S3_label_08ead00f:
 
     # Samantha "Oh, and here is my Birthday."
-    Samantha ""
+    Samantha "Oh, and here's my Birthday."
 
 # game/logic/events/ahchi.rpy:476
 translate english CF_S3_label_4321ea46:
@@ -1414,7 +1414,7 @@ translate english CF_S3_label_59e0e3d8:
 translate english CF_S3_label_1738fe7a:
 
     # Audrey "Do you have other photos with more funny story?"
-    Audrey ""
+    Audrey "Do you have any photos with a more funny story?"
 
 # game/logic/events/ahchi.rpy:496
 translate english CF_S3_label_1f0f7963:
@@ -1426,13 +1426,13 @@ translate english CF_S3_label_1f0f7963:
 translate english CF_S3_label_ed3a9e02:
 
     # Audrey "All what we've seen is pretty sad."
-    Audrey ""
+    Audrey "The stories so far have made me sad."
 
 # game/logic/events/ahchi.rpy:498
 translate english CF_S3_label_21481fbc:
 
     # Samantha "Not at all!"
-    Samantha ""
+    Samantha "Of course I do!"
 
 # game/logic/events/ahchi.rpy:500
 translate english CF_S3_label_9215fba0:
@@ -1474,7 +1474,7 @@ translate english CF_S3_label_dd0be327:
 translate english CF_S3_label_f77862e4:
 
     # ch_Name "I confirm every word she says."
-    ch_Name ""
+    ch_Name "I agree with every word she says."
 
 # game/logic/events/ahchi.rpy:508
 translate english CF_S3_label_d6808a47:
@@ -1498,7 +1498,7 @@ translate english CF_S3_label_fa1fec95:
 translate english CF_S3_label_2c28fd39:
 
     # Samantha "I will talk to him outside."
-    Samantha ""
+    Samantha "I'll talk to him outside."
 
 # game/logic/events/ahchi.rpy:514
 translate english CF_S3_label_74fe46c5:
@@ -1516,7 +1516,7 @@ translate english CF_S3_label_f0e2b69a:
 translate english CF_S3_label_ddf997b6:
 
     # Audrey "I will go too."
-    Audrey ""
+    Audrey "I'll go too."
 
 # game/logic/events/ahchi.rpy:517
 translate english CF_S3_label_d993430b:
@@ -1528,7 +1528,7 @@ translate english CF_S3_label_d993430b:
 translate english CF_S3_label_aa7fe2ec:
 
     # ch_Name "{i}(Haven't seen photos from my childhood for a long time, by the way.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Haven't seen photos from my childhood for a long time.){/i}"
 
 # game/logic/events/ahchi.rpy:520
 translate english CF_S3_label_bd73d1ce:
@@ -1540,7 +1540,7 @@ translate english CF_S3_label_bd73d1ce:
 translate english CF_S3_label_7ec1ec1d:
 
     # ch_Name "{i}(Sure that Olivia has a couple of them somewhere.){/i}"
-    ch_Name ""
+    ch_Name "{i}(I'm sure Olivia has a couple of them somewhere.){/i}"
 
 # game/logic/events/ahchi.rpy:522
 translate english CF_S3_label_65aa3967:
@@ -1558,7 +1558,7 @@ translate english CF_S4_label_4d7c1aa5:
 translate english CF_S4_label_108b79ad:
 
     # Samantha "Hey! We hoped to meet you, [Name]."
-    Samantha ""
+    Samantha "Hey! We hoped to meet up with you, [Name]."
 
 # game/logic/events/ahchi.rpy:538
 translate english CF_S4_label_860ca542:
@@ -1570,7 +1570,7 @@ translate english CF_S4_label_860ca542:
 translate english CF_S4_label_db70fca5:
 
     # ch_Name "So good to hear it!"
-    ch_Name ""
+    ch_Name "I'm happy to hear that!"
 
 # game/logic/events/ahchi.rpy:540
 translate english CF_S4_label_38fefe70:
@@ -1648,25 +1648,25 @@ translate english CF_S4_label_b30ccb42:
 translate english CF_S4_label_8ee7379d:
 
     # Samantha "Everything is fine."
-    Samantha ""
+    Samantha "I'm doing well."
 
 # game/logic/events/ahchi.rpy:557
 translate english CF_S4_label_d645afc4:
 
     # Samantha "But Audrey is not very chatty today."
-    Samantha ""
+    Samantha "But Audrey's been pretty quiet today."
 
 # game/logic/events/ahchi.rpy:558
 translate english CF_S4_label_deb6d89d:
 
     # ch_Name "She always seems not too chatty."
-    ch_Name ""
+    ch_Name "She's always quiet."
 
 # game/logic/events/ahchi.rpy:559
 translate english CF_S4_label_9c56039c:
 
     # ch_Name "By the way, Audrey, why have you never told anything about yourself?"
-    ch_Name ""
+    ch_Name "By the way, Audrey, why have you never told me anything about yourself?"
 
 # game/logic/events/ahchi.rpy:560
 translate english CF_S4_label_c93d9440:
@@ -1678,7 +1678,7 @@ translate english CF_S4_label_c93d9440:
 translate english CF_S4_label_e9740d31:
 
     # Audrey "I wouldn't say that I pretty open person, but.."
-    Audrey ""
+    Audrey "I wouldn't say that I'm an open person, but..."
 
 # game/logic/events/ahchi.rpy:563
 translate english CF_S4_label_26e8784c:
@@ -1708,13 +1708,13 @@ translate english CF_S4_label_85e0a26c:
 translate english CF_S4_label_2b17479e:
 
     # ch_Name "I can't understand how do you carry out relationships with people?"
-    ch_Name ""
+    ch_Name "I can't understand how you carry out relationships with people."
 
 # game/logic/events/ahchi.rpy:569
 translate english CF_S4_label_b0b1b3b0:
 
     # ch_Name "I personally start with some basic questions about person's life which you called \"cliché\"."
-    ch_Name ""
+    ch_Name "I personally start with some basic questions about person's life, which you called \"cliché\"."
 
 # game/logic/events/ahchi.rpy:570
 translate english CF_S4_label_5e266a86:
@@ -1726,25 +1726,25 @@ translate english CF_S4_label_5e266a86:
 translate english CF_S4_label_3b966a4c:
 
     # Audrey "If you're soulmates then there is no need to make a checklist of questions."
-    Audrey ""
+    Audrey "If you're soulmates then there's no need to make a checklist of questions."
 
 # game/logic/events/ahchi.rpy:573
 translate english CF_S4_label_7f134599:
 
     # Audrey "The dialogue will go in natural way."
-    Audrey ""
+    Audrey "The conversation will just flow naturally."
 
 # game/logic/events/ahchi.rpy:574
 translate english CF_S4_label_8f6ca75e:
 
     # Audrey "And it will rather be an interesting discussion than dull answering some personal questions."
-    Audrey ""
+    Audrey "And it will be a rather interesting discussion instead of a dull one answering some personal questions."
 
 # game/logic/events/ahchi.rpy:575
 translate english CF_S4_label_1bc1cf5c:
 
     # ch_Name "It's incredibly rare case."
-    ch_Name ""
+    ch_Name "That's a rare case."
 
 # game/logic/events/ahchi.rpy:576
 translate english CF_S4_label_2631c1b5:
@@ -1756,7 +1756,7 @@ translate english CF_S4_label_2631c1b5:
 translate english CF_S4_label_fa1c88de:
 
     # ch_Name "And you can be friends not only with your soulmates."
-    ch_Name ""
+    ch_Name "And you can be friends with more than just your soulmates."
 
 # game/logic/events/ahchi.rpy:579
 translate english CF_S4_label_f8fe9b03:
@@ -1774,7 +1774,7 @@ translate english CF_S4_label_703a916c:
 translate english CF_S4_label_daa7f19b:
 
     # Audrey "In other case it's just hanging out."
-    Audrey ""
+    Audrey "Otherwise, it's just hanging out."
 
 # game/logic/events/ahchi.rpy:582
 translate english CF_S4_label_2fd4427a:
@@ -1786,7 +1786,7 @@ translate english CF_S4_label_2fd4427a:
 translate english CF_S4_label_ad5e230d:
 
     # ch_Name "Let's ask you one of such \"cliché\" question."
-    ch_Name ""
+    ch_Name "Let's ask you one of these \"cliché\" questions."
 
 # game/logic/events/ahchi.rpy:585
 translate english CF_S4_label_7d534b4e:
@@ -1798,19 +1798,19 @@ translate english CF_S4_label_7d534b4e:
 translate english CF_S4_label_0d44aa30:
 
     # Audrey "I've never had a dream like this."
-    Audrey ""
+    Audrey "I never had dreams like that."
 
 # game/logic/events/ahchi.rpy:587
 translate english CF_S4_label_de0b98ad:
 
     # Audrey "In childhood I've never saw myself as a grown-up."
-    Audrey ""
+    Audrey "When I was a child, I never saw myself as a grown-up."
 
 # game/logic/events/ahchi.rpy:589
 translate english CF_S4_label_8b5832ac:
 
     # Audrey "So I have no answer on your question."
-    Audrey ""
+    Audrey "So I don't have an answer."
 
 # game/logic/events/ahchi.rpy:590
 translate english CF_S4_label_728cf179:
@@ -1822,25 +1822,25 @@ translate english CF_S4_label_728cf179:
 translate english CF_S4_label_3b92c110:
 
     # Samantha "Is it even possible?"
-    Samantha ""
+    Samantha "Is that even possible?"
 
 # game/logic/events/ahchi.rpy:592
 translate english CF_S4_label_726e2e08:
 
     # Audrey "Tell me that you had a big dream when you was a kid!"
-    Audrey ""
+    Audrey "You telling me that you had a big dream when you were a kid?"
 
 # game/logic/events/ahchi.rpy:593
 translate english CF_S4_label_5694438d:
 
     # Samantha "Actually, I had one!"
-    Samantha ""
+    Samantha "Actually, I did!"
 
 # game/logic/events/ahchi.rpy:595
 translate english CF_S4_label_75998090:
 
     # Samantha "I always did want to be an actress."
-    Samantha ""
+    Samantha "I always wanted to be an actress."
 
 # game/logic/events/ahchi.rpy:596
 translate english CF_S4_label_3b8bf235:
@@ -1888,7 +1888,7 @@ translate english CF_S4_label_00b5e4d9:
 translate english CF_S4_label_cc749268:
 
     # ch_Name "And what's gone wrong?"
-    ch_Name ""
+    ch_Name "What went wrong?"
 
 # game/logic/events/ahchi.rpy:605
 translate english CF_S4_label_ba62c973:
@@ -1930,7 +1930,7 @@ translate english CF_S4_label_8cab13c4:
 translate english CF_S4_label_51b33c10:
 
     # Samantha "Something on which I can make money."
-    Samantha ""
+    Samantha "Something that I could make good money doing."
 
 # game/logic/events/ahchi.rpy:614
 translate english CF_S4_label_4bf8b8bc:
@@ -1942,7 +1942,7 @@ translate english CF_S4_label_4bf8b8bc:
 translate english CF_S4_label_db81e202:
 
     # Audrey "And you was giving in to them?"
-    Audrey ""
+    Audrey "And you gave in to them?"
 
 # game/logic/events/ahchi.rpy:616
 translate english CF_S4_label_fbb0a549:
@@ -1954,7 +1954,7 @@ translate english CF_S4_label_fbb0a549:
 translate english CF_S4_label_ce708bd5:
 
     # Samantha "I just understand that they were right."
-    Samantha ""
+    Samantha "I just thought that they were right."
 
 # game/logic/events/ahchi.rpy:619
 translate english CF_S4_label_53d9c637:
@@ -2014,7 +2014,7 @@ translate english CF_S4_label_cca07e0e:
 translate english CF_S4_label_fef74951:
 
     # Samantha "I didn't have enough of it."
-    Samantha ""
+    Samantha "I guess I wasn't passionate enough."
 
 # game/logic/events/ahchi.rpy:631
 translate english CF_S4_label_6f6761ee:
@@ -2026,7 +2026,7 @@ translate english CF_S4_label_6f6761ee:
 translate english CF_S4_label_81189199:
 
     # Samantha "But sometimes I still see some special dream."
-    Samantha ""
+    Samantha "But sometimes I still have a special dream."
 
 # game/logic/events/ahchi.rpy:633
 translate english CF_S4_label_668cf167:
@@ -2056,7 +2056,7 @@ translate english CF_S4_label_083785cd:
 translate english CF_S4_label_a740fb5f:
 
     # Samantha "That feels so great to wake up after such a dream."
-    Samantha ""
+    Samantha "It feels so great to wake up after I have that dream."
 
 # game/logic/events/ahchi.rpy:639
 translate english CF_S4_label_b7a6e315:
@@ -2068,7 +2068,7 @@ translate english CF_S4_label_b7a6e315:
 translate english CF_S4_label_4281814e:
 
     # Audrey "To tell the truth I wonder what having a big dream is like."
-    Audrey ""
+    Audrey "To tell the truth, I wonder what having a big dream is like."
 
 # game/logic/events/ahchi.rpy:642
 translate english CF_S4_label_446e555e:
@@ -2080,7 +2080,7 @@ translate english CF_S4_label_446e555e:
 translate english CF_S4_label_48737801:
 
     # ch_Name "This story makes me feel depressed."
-    ch_Name ""
+    ch_Name "That story makes me sad."
 
 # game/logic/events/ahchi.rpy:644
 translate english CF_S4_label_e8305472:
@@ -2092,7 +2092,7 @@ translate english CF_S4_label_e8305472:
 translate english CF_S4_label_0e556fec:
 
     # Samantha "There is nothing to be sad about."
-    Samantha ""
+    Samantha "There's nothing to be sad about."
 
 # game/logic/events/ahchi.rpy:647
 translate english CF_S4_label_8396a1fb:
@@ -2104,7 +2104,7 @@ translate english CF_S4_label_8396a1fb:
 translate english CF_S4_label_6a38d5e9:
 
     # ch_Name "So good to sit here."
-    ch_Name ""
+    ch_Name "I'm comfortable just sitting here."
 
 # game/logic/events/ahchi.rpy:649
 translate english CF_S4_label_92ebf60f:
@@ -2146,13 +2146,13 @@ translate english CF_S4_label_0a064ba5:
 translate english CF_S4_label_f2eba665:
 
     # ch_Name "{i}(Start to think about my life path and dreams.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Thinking about my life path and dreams...){/i}"
 
 # game/logic/events/ahchi.rpy:658
 translate english CF_S4_label_d6dcd0c9:
 
     # ch_Name "{i}(For as long as I can remember, I just wanted to be a sportsman.){/i}"
-    ch_Name ""
+    ch_Name "{i}(For as long as I can remember, I just wanted to be an athlete.){/i}"
 
 # game/logic/events/ahchi.rpy:659
 translate english CF_S4_label_66754142:
@@ -2194,7 +2194,7 @@ translate english CF_S5_label_da9201ef:
 translate english CF_S5_label_4fa8e71c:
 
     # Audrey "How is it going, [Name]?"
-    Audrey ""
+    Audrey "How's it going, [Name]?"
 
 # game/logic/events/ahchi.rpy:680
 translate english CF_S5_label_07c4a65c:
@@ -2206,7 +2206,7 @@ translate english CF_S5_label_07c4a65c:
 translate english CF_S5_label_2ed4494d:
 
     # ch_Name "That's true!"
-    ch_Name ""
+    ch_Name "I am!"
 
 # game/logic/events/ahchi.rpy:682
 translate english CF_S5_label_7b5cf47a:
@@ -2218,7 +2218,7 @@ translate english CF_S5_label_7b5cf47a:
 translate english CF_S5_label_02f3f04c:
 
     # Audrey "Just don't want it at all."
-    Audrey ""
+    Audrey "I'm not actually in the mood for coffee."
 
 # game/logic/events/ahchi.rpy:684
 translate english CF_S5_label_3ef95973:
@@ -2236,7 +2236,7 @@ translate english CF_S5_label_5b26624c:
 translate english CF_S5_label_b0fddf87:
 
     # Audrey "I will go to grab some fruit tea."
-    Audrey ""
+    Audrey "I'm gonna grab some fruit tea."
 
 # game/logic/events/ahchi.rpy:688
 translate english CF_S5_label_1751a084:
@@ -2272,7 +2272,7 @@ translate english CF_S5_label_5fda0ca4:
 translate english CF_S5_label_55bb41d5:
 
     # ch_Name "Are you here?"
-    ch_Name ""
+    ch_Name "You there?"
 
 # game/logic/events/ahchi.rpy:695
 translate english CF_S5_label_ba749873:
@@ -2290,19 +2290,19 @@ translate english CF_S5_label_ea353f18:
 translate english CF_S5_label_0ef7d4ae:
 
     # Audrey "I wonder what's going on in your phone."
-    Audrey ""
+    Audrey "Something interesting is happening on her phone."
 
 # game/logic/events/ahchi.rpy:699
 translate english CF_S5_label_1dd2b3cf:
 
     # Audrey "You've been staring at the screen all evening."
-    Audrey ""
+    Audrey "She's been staring at it all evening."
 
 # game/logic/events/ahchi.rpy:700
 translate english CF_S5_label_e5d6c807:
 
     # Samantha "That just..."
-    Samantha ""
+    Samantha "It's just..."
 
 # game/logic/events/ahchi.rpy:701
 translate english CF_S5_label_d0cf4859:
@@ -2392,7 +2392,7 @@ translate english CF_S5_label_bf359d50:
 translate english CF_S5_label_6e27942d:
 
     # Samantha "At least now."
-    Samantha ""
+    Samantha "At least not anymore"
 
 # game/logic/events/ahchi.rpy:719
 translate english CF_S5_label_c20521b8:
@@ -2404,7 +2404,7 @@ translate english CF_S5_label_c20521b8:
 translate english CF_S5_label_6e4f6974:
 
     # Samantha "In childhood she was drawn to me."
-    Samantha ""
+    Samantha "We were close when we were kids."
 
 # game/logic/events/ahchi.rpy:722
 translate english CF_S5_label_0b679021:
@@ -2428,7 +2428,7 @@ translate english CF_S5_label_607b496d:
 translate english CF_S5_label_5bb0c906:
 
     # Samantha "Became a teenage and just... went crazy."
-    Samantha ""
+    Samantha "Became a teenager and just... went crazy."
 
 # game/logic/events/ahchi.rpy:727
 translate english CF_S5_label_e63d553d:
@@ -2458,13 +2458,13 @@ translate english CF_S5_label_a5b94c37:
 translate english CF_S5_label_6bb32a04:
 
     # Samantha "Then she began to complain to parents against me about every little thing."
-    Samantha ""
+    Samantha "Then she began to complain about me to our parents over every little thing."
 
 # game/logic/events/ahchi.rpy:733
 translate english CF_S5_label_4fbcddd5:
 
     # Samantha "If something went wrong, she blamed me the whole time."
-    Samantha ""
+    Samantha "If something went wrong, she blamed me every time."
 
 # game/logic/events/ahchi.rpy:734
 translate english CF_S5_label_48c2d355:
@@ -2494,7 +2494,7 @@ translate english CF_S5_label_b58f9c70:
 translate english CF_S5_label_debcafe6:
 
     # Samantha "We could not to talk for weeks while being a family, living under the same roof."
-    Samantha ""
+    Samantha "We wouldn't talk for weeks while being a family, living under the same roof."
 
 # game/logic/events/ahchi.rpy:740
 translate english CF_S5_label_780e315a:
@@ -2506,7 +2506,7 @@ translate english CF_S5_label_780e315a:
 translate english CF_S5_label_e704a373:
 
     # Samantha "They saw all, but decided to take the situation as it was."
-    Samantha ""
+    Samantha "They saw everything, but decided to leave the situation as it was."
 
 # game/logic/events/ahchi.rpy:742
 translate english CF_S5_label_f3260449:
@@ -2530,7 +2530,7 @@ translate english CF_S5_label_3b9d2601:
 translate english CF_S5_label_be259b29:
 
     # Samantha "They must have to intervene somehow."
-    Samantha ""
+    Samantha "They should have done something about it."
 
 # game/logic/events/ahchi.rpy:747
 translate english CF_S5_label_a841f812:
@@ -2542,13 +2542,13 @@ translate english CF_S5_label_a841f812:
 translate english CF_S5_label_d6c0e67c:
 
     # ch_Name "Agree with Sam."
-    ch_Name ""
+    ch_Name "I agree with Sam"
 
 # game/logic/events/ahchi.rpy:749
 translate english CF_S5_label_15cbb767:
 
     # ch_Name "Parents should be parents."
-    ch_Name ""
+    ch_Name "They're your parents, they should have acted ike it."
 
 # game/logic/events/ahchi.rpy:751
 translate english CF_S5_label_7eddb761:
@@ -2578,7 +2578,7 @@ translate english CF_S5_label_d5dd3f41:
 translate english CF_S5_label_86b1217f:
 
     # Samantha "Means a lot for me."
-    Samantha ""
+    Samantha "Means a lot to me."
 
 # game/logic/events/ahchi.rpy:757
 translate english CF_S5_label_b4c8c248:
@@ -2602,7 +2602,7 @@ translate english CF_S5_label_6b94667e:
 translate english CF_S5_label_a5288758:
 
     # Samantha "I will take this one."
-    Samantha ""
+    Samantha "I have to take this."
 
 # game/logic/events/ahchi.rpy:762
 translate english CF_S5_label_4655cdf9:
@@ -2614,7 +2614,7 @@ translate english CF_S5_label_4655cdf9:
 translate english CF_S5_label_17e25e81:
 
     # ch_Name "Of course, not!"
-    ch_Name ""
+    ch_Name "Of course not!"
 
 # game/logic/events/ahchi.rpy:764
 translate english CF_S5_label_bd2a393d:
@@ -2632,49 +2632,49 @@ translate english CF_S5_label_cd06306d:
 translate english CF_S5_label_4b16836a:
 
     # ch_Name "Yes, she's just wonderful!"
-    ch_Name ""
+    ch_Name "Yeah, she's wonderful"
 
 # game/logic/events/ahchi.rpy:768
 translate english CF_S5_label_4fa28c89:
 
     # Audrey "And I never thought I would say that, but..."
-    Audrey ""
+    Audrey "And I never thought I would say this, but..."
 
 # game/logic/events/ahchi.rpy:769
 translate english CF_S5_label_45632ec4:
 
     # Audrey "I'm really happy that we start to hang out more."
-    Audrey ""
+    Audrey "I'm really happy that we started hanging out more."
 
 # game/logic/events/ahchi.rpy:770
 translate english CF_S5_label_9580c855:
 
     # Audrey "Like the three of us."
-    Audrey ""
+    Audrey "Like, the three of us."
 
 # game/logic/events/ahchi.rpy:772
 translate english CF_S5_label_15c61b42:
 
     # Audrey "And you're not that big bore as I used to imagine."
-    Audrey ""
+    Audrey "And you're not as boring as I thought you were."
 
 # game/logic/events/ahchi.rpy:773
 translate english CF_S5_label_b9624aa3:
 
     # ch_Name "I'll take it as a compliment."
-    ch_Name ""
+    ch_Name "I'll take that as a compliment."
 
 # game/logic/events/ahchi.rpy:774
 translate english CF_S5_label_b4c33c46:
 
     # ch_Name "I also changed my opinion about you."
-    ch_Name ""
+    ch_Name "I've also changed my opinion of you."
 
 # game/logic/events/ahchi.rpy:775
 translate english CF_S5_label_57ba9d2c:
 
     # ch_Name "You're not so evil as I thought you're."
-    ch_Name ""
+    ch_Name "You're not as evil as I thought you were."
 
 # game/logic/events/ahchi.rpy:777
 translate english CF_S5_label_7185cddf:
@@ -2692,19 +2692,19 @@ translate english CF_S5_label_2173f409:
 translate english CF_S5_label_eaac26a4:
 
     # Audrey "I will also take it as a compliment."
-    Audrey ""
+    Audrey "I'll also take that as a compliment."
 
 # game/logic/events/ahchi.rpy:780
 translate english CF_S5_label_20c7648a:
 
     # Audrey "Okay, I'd rather go."
-    Audrey ""
+    Audrey "Alright, well I'd better get going."
 
 # game/logic/events/ahchi.rpy:782
 translate english CF_S5_label_29dec0ac:
 
     # Audrey "Will try to find Samantha."
-    Audrey ""
+    Audrey "I'll try to find Samantha"
 
 # game/logic/events/ahchi.rpy:783
 translate english CF_S5_label_930a228d:
@@ -2734,13 +2734,13 @@ translate english CF_Ahchi_1_label_83609cb9:
 translate english CF_Ahchi_1_label_763e1d8f:
 
     # Ahchi "Good to see you again. Congratulations, on winning your house."
-    Ahchi ""
+    Ahchi "Good to see you again. Congratulations, on your house winning."
 
 # game/logic/events/ahchi.rpy:799
 translate english CF_Ahchi_1_label_0ff308dc:
 
     # ch_Name "А? How do you know it won?"
-    ch_Name ""
+    ch_Name "How do you know it won?"
 
 # game/logic/events/ahchi.rpy:801
 translate english CF_Ahchi_1_label_94522089:
@@ -2824,7 +2824,7 @@ translate english CF_Ahchi_1_label_aa19ad03:
 translate english CF_Ahchi_1_label_2d19c4ef:
 
     # Ahchi "Oh, come on! You're not lying?"
-    Ahchi ""
+    Ahchi "Oh, come on! Are you serious?"
 
 # game/logic/events/ahchi.rpy:818
 translate english CF_Ahchi_1_label_88685b49:
@@ -2854,7 +2854,7 @@ translate english CF_Ahchi_1_label_0a9e5ce7:
 translate english CF_Ahchi_1_label_29fb3b25:
 
     # ch_Name "Do you have any advice on what to eat?"
-    ch_Name ""
+    ch_Name "Anything you'd recommend?"
 
 # game/logic/events/ahchi.rpy:824
 translate english CF_Ahchi_1_label_fa1342e3:
@@ -2884,7 +2884,7 @@ translate english CF_Ahchi_1_label_80902941:
 translate english CF_Ahchi_1_label_fb4a43fb:
 
     # Ahchi "Enchanted roll. It's just the name."
-    Ahchi ""
+    Ahchi "Enchanted roll, but that's just it's name."
 
 # game/logic/events/ahchi.rpy:830
 translate english CF_Ahchi_1_label_758cd741:
@@ -2920,7 +2920,7 @@ translate english CF_Ahchi_1_label_ac570391:
 translate english CF_Ahchi_1_label_bfd0cf3d:
 
     # ch_Name "{i}(Ahchi enjoyed listening to the story about the dragons we saw with Haley.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ahchi enjoyed listening to the story about the dragons I saw with Haley.){/i}"
 
 # game/logic/events/ahchi.rpy:838
 translate english CF_Ahchi_1_label_195eaddc:
@@ -2956,7 +2956,7 @@ translate english CF_Ahchi_2_label_faf8687c:
 translate english CF_Ahchi_2_label_8f6aa11c:
 
     # ch_Name "I want to quench my thirst. What can I get you?"
-    ch_Name ""
+    ch_Name "I want to quench my thirst. What can you get me?"
 
 # game/logic/events/ahchi.rpy:856
 translate english CF_Ahchi_2_label_d5a01eea:
@@ -3028,7 +3028,7 @@ translate english CF_Ahchi_2_label_d01f092f:
 translate english CF_Ahchi_2_label_86dd4401:
 
     # ch_Name "And what did he do with it?"
-    ch_Name ""
+    ch_Name "And what did he do about it?"
 
 # game/logic/events/ahchi.rpy:871
 translate english CF_Ahchi_2_label_0e2694ac:
@@ -3064,7 +3064,7 @@ translate english CF_Ahchi_2_label_9296df75:
 translate english CF_Ahchi_2_label_d6d59e22:
 
     # Ahchi "The finishing touch is left, and..."
-    Ahchi ""
+    Ahchi "Now to add the finishing touch, and..."
 
 # game/logic/events/ahchi.rpy:878
 translate english CF_Ahchi_2_label_3d22d094:
@@ -3076,7 +3076,7 @@ translate english CF_Ahchi_2_label_3d22d094:
 translate english CF_Ahchi_2_label_26e2c164:
 
     # Ahchi "One Pumpkin Latte to your order."
-    Ahchi ""
+    Ahchi "One pumpkin latte, just for you."
 
 # game/logic/events/ahchi.rpy:881
 translate english CF_Ahchi_2_label_3a5c7650:
@@ -3088,7 +3088,7 @@ translate english CF_Ahchi_2_label_3a5c7650:
 translate english CF_Ahchi_2_label_635def9b:
 
     # ch_Name "It smells great, I can smell it even from here."
-    ch_Name ""
+    ch_Name "I can smell it from here, smells great!"
 
 # game/logic/events/ahchi.rpy:884
 translate english CF_Ahchi_2_label_a5e03c43:
@@ -3136,7 +3136,7 @@ translate english CF_Ahchi_2_label_3e65b2b6:
 translate english CF_Ahchi_2_label_e7d59ecf:
 
     # ch_Name "That's what you need! Even more than that."
-    ch_Name ""
+    ch_Name "This is just what I needed!"
 
 # game/logic/events/ahchi.rpy:894
 translate english CF_Ahchi_2_label_4620c531:
