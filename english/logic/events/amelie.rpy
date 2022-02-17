@@ -10,7 +10,7 @@ translate english library_event_amelie_1_e6b11dbc:
 translate english library_event_amelie_1_7fcac337:
 
     # ch_Name "{i}(But I can't spend here all day chatting if I want to get to become a wizard.){/i}"
-    ch_Name ""
+    ch_Name "{i}(But I can't spend all day here chatting if I want to become a wizard.){/i}"
 
 # game/logic/events/amelie.rpy:111
 translate english library_event_amelie_1_782314f0:
@@ -52,7 +52,7 @@ translate english library_event_amelie_1_15fcef03:
 translate english library_event_amelie_1_5b464828:
 
     # ch_Name "{i}(I wonder what's there on the second floor.){/i}"
-    ch_Name ""
+    ch_Name "{i}(I wonder what's up there on the second floor.){/i}"
 
 # game/logic/events/amelie.rpy:122
 translate english library_event_amelie_1_b532b225:
@@ -76,7 +76,7 @@ translate english library_event_amelie_1_d5a93ad1:
 translate english library_event_amelie_1_1107e306:
 
     # ch_Name "{i}(Maybe someday I will find it...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Maybe someday I'll find it...){/i}"
 
 # game/logic/events/amelie.rpy:128
 translate english library_event_amelie_1_c8c6099a:
@@ -88,13 +88,13 @@ translate english library_event_amelie_1_c8c6099a:
 translate english library_event_amelie_1_d2e0c226:
 
     # ch_Name "{i}(If I do remember correctly, this way leads to the garden.){/i}"
-    ch_Name ""
+    ch_Name "{i}(If I remember correctly, this way leads to the garden.){/i}"
 
 # game/logic/events/amelie.rpy:130
 translate english library_event_amelie_1_14b96911:
 
     # ch_Name "{i}(There's only way to find out.){/i}"
-    ch_Name ""
+    ch_Name "{i}(There's only one way to find out.){/i}"
 
 # game/logic/events/amelie.rpy:133
 translate english library_event_amelie_1_02bc8ac7:
@@ -118,7 +118,7 @@ translate english library_event_amelie_1_b55d19e8:
 translate english library_event_amelie_1_ee565322:
 
     # ch_Name "{i}(Okay, if the next door is Victoria's class, than...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Okay, if the next door is Victoria's class, then...){/i}"
 
 # game/logic/events/amelie.rpy:138
 translate english library_event_amelie_1_ec13b235:
@@ -142,7 +142,7 @@ translate english library_event_amelie_1_fbd62259:
 translate english library_event_amelie_1_5d758bbc:
 
     # ch_Name "{i}(I'm not sure if I've seen that many books in my entire life!){/i}"
-    ch_Name ""
+    ch_Name "{i}(There's more books here than I've seen in my entire life!){/i}"
 
 # game/logic/events/amelie.rpy:149
 translate english library_event_amelie_1_433d96ed:
@@ -346,7 +346,7 @@ translate english library_event_amelie_1_d4c85a00:
 translate english library_event_amelie_1_005b323d:
 
     # Amelie "These pixies are nothing but trouble!"
-    Amelie ""
+    Amelie "Those pixies are nothing but trouble!"
 
 # game/logic/events/amelie.rpy:222
 translate english library_event_amelie_1_b8076786:
@@ -460,7 +460,7 @@ translate english library_event_amelie_1_dbf4b608:
 translate english library_event_amelie_1_58262409:
 
     # ch_Name "I will be more than happy to help you."
-    ch_Name ""
+    ch_Name "I'm more than happy to help you."
 
 # game/logic/events/amelie.rpy:245
 translate english library_event_amelie_1_24dc8a03:
@@ -496,7 +496,7 @@ translate english Amelie_1_textbooks_468a1d79:
 translate english Amelie_1_textbooks_20ca1bcf:
 
     # Amelie "You could've got it for your house prefect and spend your free time better."
-    Amelie ""
+    Amelie "You could've got it from your house prefect and spent your free time better."
 
 # game/logic/events/amelie.rpy:301
 translate english Amelie_1_textbooks_24912b5b:
@@ -652,7 +652,7 @@ translate english Elijah_2_label_from_Amelie_1_f7bc966c:
 translate english Elijah_2_label_from_Amelie_1_35dfaf78:
 
     # Amelie "I'd recommend a ″From Spark to Fire″ by Ignius of Wales."
-    Amelie ""
+    Amelie "I'd recommend ″From Spark to Fire″ by Ignius of Wales."
 
 # game/logic/events/amelie.rpy:349
 translate english Elijah_2_label_from_Amelie_1_60a7a5ce:
@@ -712,13 +712,13 @@ translate english Elijah_2_label_from_Amelie_1_0e9dd14a:
 translate english Elijah_2_label_from_Amelie_1_1df342d1:
 
     # ch_Name "{i}(My first lesson of magic... I'm so excited!){/i}"
-    ch_Name ""
+    ch_Name "{i}(My first magic lesson... I'm so excited!){/i}"
 
 # game/logic/events/amelie.rpy:364
 translate english Elijah_2_label_from_Amelie_1_e95cb9e5:
 
     # ch_Name "{i}(Victoria teaches in the class they've used for entrance examination.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Victoria teaches in the class they used for entrance examination.){/i}"
 
 # game/logic/events/amelie.rpy:365
 translate english Elijah_2_label_from_Amelie_1_7ec91e79:
@@ -730,7 +730,7 @@ translate english Elijah_2_label_from_Amelie_1_7ec91e79:
 translate english Elijah_2_label_from_Amelie_1_5eca3f3c:
 
     # ch_Name "{i}(I'm lucky class is situated near side the library.){/i}"
-    ch_Name ""
+    ch_Name "{i}(I'm lucky her class is close to the library.){/i}"
 
 # game/logic/events/amelie.rpy:367
 translate english Elijah_2_label_from_Amelie_1_ba6146b5:
@@ -742,13 +742,13 @@ translate english Elijah_2_label_from_Amelie_1_ba6146b5:
 translate english Elijah_2_label_from_Amelie_1_0fce41b9:
 
     # ch_Name "{i}(Looks like I still have some time before lesson begins.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Looks like I still have some time before the lesson begins.){/i}"
 
 # game/logic/events/amelie.rpy:372
 translate english Elijah_2_label_from_Amelie_1_4c50a88a:
 
     # ch_Name "{i}(Good. This means I have more time to get new acquaintances.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Good. This means I have more time to meet some new people.){/i}"
 
 # game/logic/events/amelie.rpy:373
 translate english Elijah_2_label_from_Amelie_1_59b7a37c:
@@ -766,7 +766,7 @@ translate english Elijah_2_label_from_Amelie_1_84278168:
 translate english Elijah_2_label_from_Amelie_1_393e14c7:
 
     # ch_Name "{i}(I'm sure we'll find a common ground.){/i}"
-    ch_Name ""
+    ch_Name "{i}(I'm sure we'll find common ground.){/i}"
 
 # game/logic/events/amelie.rpy:397
 translate english Amelie_2_label_b4766bfc:
@@ -856,7 +856,7 @@ translate english Amelie_2_label_b5d13e35:
 translate english Amelie_2_label_479a9f27:
 
     # ch_Name "{i}(What else to do while confined to bed with a fracture?){/i}"
-    ch_Name ""
+    ch_Name "{i}(I didn't have much else to do while confined to my bed with a fracture.){/i}"
 
 # game/logic/events/amelie.rpy:420
 translate english Amelie_2_label_1ae0e493:
@@ -898,7 +898,7 @@ translate english Amelie_2_label_581a358a:
 translate english Amelie_2_label_7939f8eb:
 
     # ch_Name "That's fine."
-    ch_Name ""
+    ch_Name "That works for me."
 
 # game/logic/events/amelie.rpy:429
 translate english Amelie_2_label_e7c1e796:
@@ -910,7 +910,7 @@ translate english Amelie_2_label_e7c1e796:
 translate english Amelie_2_label_33def990:
 
     # Amelie "I'll look forward to it."
-    Amelie ""
+    Amelie "I look forward to it."
 
 # game/logic/events/amelie.rpy:454
 translate english Amelie_1_1_label_9e120baa:
@@ -1030,7 +1030,7 @@ translate english Amelie_3_label_49bfdca8:
 translate english Amelie_3_label_9ce5eddb:
 
     # ch_Name "{i}(Exactly! The library. I've been wanting to get to know Amelie.){/i}"
-    ch_Name ""
+    ch_Name "{i}(That's it! The library. I've been wanting to get to know Amelie.){/i}"
 
 # game/logic/events/amelie.rpy:488
 translate english Amelie_3_label_7f180d07:
@@ -1072,7 +1072,7 @@ translate english Amelie_3_label_132ff963:
 translate english Amelie_3_label_a6ddca03:
 
     # Amelie "Oh, thanks! It is so sweet of you."
-    Amelie ""
+    Amelie "Oh, thanks! That's so sweet of you."
 
 # game/logic/events/amelie.rpy:500
 translate english Amelie_3_label_27ea6d73:
@@ -1102,7 +1102,7 @@ translate english Amelie_3_label_2c7d7942:
 translate english Amelie_3_label_7c48fe3e:
 
     # ch_Name "But I want to fix it."
-    ch_Name ""
+    ch_Name "But I want to change that."
 
 # game/logic/events/amelie.rpy:506
 translate english Amelie_3_label_cc52cde4:
@@ -1156,7 +1156,7 @@ translate english Amelie_3_label_bf214392:
 translate english Amelie_3_label_65c6b7a1:
 
     # Amelie "The last was my purse."
-    Amelie ""
+    Amelie "The last thing they stole was my purse."
 
 # game/logic/events/amelie.rpy:517
 translate english Amelie_3_label_4830e052:
@@ -1234,7 +1234,7 @@ translate english Amelie_3_label_c9c9f751:
 translate english Amelie_3_label_2a99aff0:
 
     # ch_Name "I will go there and check."
-    ch_Name ""
+    ch_Name "I'll go up there and check."
 
 # game/logic/events/amelie.rpy:535
 translate english Amelie_3_label_5b2a0b3e:
@@ -1252,7 +1252,7 @@ translate english Amelie_3_label_dc19e475:
 translate english Amelie_3_label_dd8fc0fb:
 
     # ch_Name "{i}(God, I really miss the view of these legs!){/i}"
-    ch_Name ""
+    ch_Name "{i}(God, I really missed the view of those legs!){/i}"
 
 # game/logic/events/amelie.rpy:539
 translate english Amelie_3_label_c60833b4:
@@ -1288,7 +1288,7 @@ translate english Amelie_3_label_71045421:
 translate english Amelie_3_label_865fc342:
 
     # ch_Name "Dunno."
-    ch_Name ""
+    ch_Name "Maybe."
 
 # game/logic/events/amelie.rpy:547
 translate english Amelie_3_label_0ae9bcd0:
@@ -1318,7 +1318,7 @@ translate english Amelie_3_label_f467bbff:
 translate english Amelie_3_label_b1d3f109:
 
     # ch_Name "We're on the right track then."
-    ch_Name ""
+    ch_Name "Then we're on the right track."
 
 # game/logic/events/amelie.rpy:554
 translate english Amelie_3_label_a329835b:
@@ -1402,7 +1402,7 @@ translate english Amelie_3_label_fdb60365:
 translate english Amelie_3_label_bb0da69c:
 
     # ch_Name "{i}(They are so cute!){/i}"
-    ch_Name ""
+    ch_Name "{i}(They're so cute!){/i}"
 
 # game/logic/events/amelie.rpy:571
 translate english Amelie_3_label_a2f40e33:
@@ -1420,7 +1420,7 @@ translate english Amelie_3_label_b1798f9b:
 translate english Amelie_3_label_0c4c1858:
 
     # ch_Name "They are running!"
-    ch_Name ""
+    ch_Name "They're running!"
 
 # game/logic/events/amelie.rpy:576
 translate english Amelie_3_label_1bc5c849:
@@ -1438,7 +1438,7 @@ translate english Amelie_3_label_400b7eb7:
 translate english Amelie_3_label_660dacb3:
 
     # ch_Name "Do you really think they will listen to you?"
-    ch_Name ""
+    ch_Name "You really think they'll listen to you?"
 
 # game/logic/events/amelie.rpy:580
 translate english Amelie_3_label_bbc54616:
@@ -1456,7 +1456,7 @@ translate english Amelie_3_label_9eeb8b56:
 translate english Amelie_3_label_6faf8718:
 
     # ch_Name "At least we found the pursue..."
-    ch_Name ""
+    ch_Name "At least we found your purse..."
 
 # game/logic/events/amelie.rpy:584
 translate english Amelie_3_label_45336113:
@@ -1474,7 +1474,7 @@ translate english Amelie_3_label_75398644:
 translate english Amelie_3_label_45456568:
 
     # ch_Name "{i}(It really seems to be...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Does she really have...){/i}"
 
 # game/logic/events/amelie.rpy:588
 translate english Amelie_3_label_98b0753f:
@@ -1498,7 +1498,7 @@ translate english Amelie_3_label_df308e40:
 translate english Amelie_3_label_bd5f748b:
 
     # ch_Name "Wow! What is that?"
-    ch_Name ""
+    ch_Name "Wow! What's this?"
 
 # game/logic/events/amelie.rpy:597
 translate english Amelie_3_label_f5f17df0:
@@ -1612,7 +1612,7 @@ translate english Amelie_3_label_b2767013:
 translate english Amelie_3_label_92f3fea0:
 
     # Amelie "It seems so."
-    Amelie ""
+    Amelie "I don't think so."
 
 # game/logic/events/amelie.rpy:628
 translate english Amelie_3_label_fc2440fe:
@@ -1648,7 +1648,7 @@ translate english Amelie_3_label_2ef85e16:
 translate english Amelie_3_label_b8dba058:
 
     # Amelie "Sabrina and I practised it a little bit..."
-    Amelie ""
+    Amelie "Sabrina and I practised with it a little bit..."
 
 # game/logic/events/amelie.rpy:635
 translate english Amelie_3_label_5b447565:
@@ -1678,7 +1678,7 @@ translate english Amelie_3_label_18924983:
 translate english Amelie_3_label_318df587:
 
     # Amelie "By all possible means."
-    Amelie ""
+    Amelie "By any means possible."
 
 # game/logic/events/amelie.rpy:641
 translate english Amelie_3_label_f0acda27:
@@ -1708,7 +1708,7 @@ translate english Amelie_3_label_8e8930cc:
 translate english Amelie_3_label_2dc6ed69:
 
     # Amelie "There is special spell, but I need to check the books."
-    Amelie ""
+    Amelie "There IS special spell, but I need to check the books."
 
 # game/logic/events/amelie.rpy:649
 translate english Amelie_3_label_3998b830:
@@ -1726,7 +1726,7 @@ translate english Amelie_3_label_fbe61fdf:
 translate english Amelie_3_label_d5eeae35:
 
     # Amelie "I will look for it."
-    Amelie ""
+    Amelie "I'll look for it."
 
 # game/logic/events/amelie.rpy:652
 translate english Amelie_3_label_2c098683:
@@ -1804,7 +1804,7 @@ translate english Amelie_3_label_a7aacb42:
 translate english Amelie_3_label_d98e3997:
 
     # ch_Name "Let's show these elves that Cordale is not to be trifled with."
-    ch_Name ""
+    ch_Name "Let's show these pixies that Cordale is not to be trifled with."
 
 # game/logic/events/amelie.rpy:674
 translate english Amelie_3_label_757d7a5f:
@@ -1852,7 +1852,7 @@ translate english Amelie_4_label_66de866b:
 translate english Amelie_4_label_4e273021:
 
     # Amelie "I've found the spell which can help us to get to the Elves lair!"
-    Amelie ""
+    Amelie "I've found the spell which can help us to get to the Pixies lair!"
 
 # game/logic/events/amelie.rpy:692
 translate english Amelie_4_label_ce6292b1:
@@ -1918,19 +1918,19 @@ translate english Amelie_4_label_bc2a45b6:
 translate english Amelie_4_label_45348da2:
 
     # Amelie "He can do anything that comes into his mind."
-    Amelie ""
+    Amelie "They can do anything that comes into their mind."
 
 # game/logic/events/amelie.rpy:713
 translate english Amelie_4_label_7f8f3ec4:
 
     # Amelie "But since an average elf is much smaller than a human..."
-    Amelie ""
+    Amelie "But since an average pixie is much smaller than a human..."
 
 # game/logic/events/amelie.rpy:714
 translate english Amelie_4_label_ca0c3487:
 
     # Amelie "...even one drop can be lethal for him in the best of cases..."
-    Amelie ""
+    Amelie "...even one drop can be lethal for them in the best of cases..."
 
 # game/logic/events/amelie.rpy:716
 translate english Amelie_4_label_098941fd:
@@ -1942,7 +1942,7 @@ translate english Amelie_4_label_098941fd:
 translate english Amelie_4_label_89996deb:
 
     # Amelie "In the worst case we will get the mob of crazy elves right next to the Academy."
-    Amelie ""
+    Amelie "In the worst case we will get the mob of crazy pixies right next to the Academy."
 
 # game/logic/events/amelie.rpy:718
 translate english Amelie_4_label_49cdda39:
@@ -2020,7 +2020,7 @@ translate english Amelie_4_label_8479a7e7:
 translate english Amelie_4_label_1813acfa:
 
     # Amelie "We are really close."
-    Amelie ""
+    Amelie "We're really close."
 
 # game/logic/events/amelie.rpy:745
 translate english Amelie_4_label_2a6de3fa:
@@ -2068,37 +2068,37 @@ translate english Amelie_4_label_9192878e:
 translate english Amelie_4_label_bcfb758c:
 
     # ch_Name "{i}(I couldn't even imagine elves facility looking like that!){/i}"
-    ch_Name ""
+    ch_Name "{i}(I couldn't even imagine the pixies' facility looking like that!){/i}"
 
 # game/logic/events/amelie.rpy:755
 translate english Amelie_4_label_eed80691:
 
     # ch_Name "And what's is our plan?"
-    ch_Name ""
+    ch_Name "What's our plan?"
 
 # game/logic/events/amelie.rpy:756
 translate english Amelie_4_label_6d515809:
 
     # Amelie "We only need to negotiate with the elves. And it would be wise not to anger them..."
-    Amelie ""
+    Amelie "We only need to negotiate with the pixies. And it would be wise not to anger them..."
 
 # game/logic/events/amelie.rpy:757
 translate english Amelie_4_label_3167f506:
 
     # Amelie "Maybe it will work?"
-    Amelie ""
+    Amelie "Hopefully it'll work."
 
 # game/logic/events/amelie.rpy:759
 translate english Amelie_4_label_209416f4:
 
     # UnknownElf "What do you want?"
-    UnknownElf ""
+    UnknownPixie ""
 
 # game/logic/events/amelie.rpy:760
 translate english Amelie_4_label_1ae5580c:
 
     # UnknownElf "You have no business here, magicians. This is efl territory."
-    UnknownElf ""
+    UnknownPixie "You have no business here, magicians. This is pixie territory."
 
 # game/logic/events/amelie.rpy:761
 translate english Amelie_4_label_e1e14d77:
@@ -2110,25 +2110,25 @@ translate english Amelie_4_label_e1e14d77:
 translate english Amelie_4_label_102f43c3:
 
     # UnknownElf "About what?"
-    UnknownElf ""
+    UnknownPixie ""
 
 # game/logic/events/amelie.rpy:764
 translate english Amelie_4_label_3e476ef3:
 
     # Amelie "Something was stolen from the Academy by elves. "
-    Amelie ""
+    Amelie "Something was stolen from the Academy by pixies."
 
 # game/logic/events/amelie.rpy:765
 translate english Amelie_4_label_70ea0bad:
 
     # UnknownElf "What are you talking about?"
-    UnknownElf ""
+    UnknownPixie ""
 
 # game/logic/events/amelie.rpy:766
 translate english Amelie_4_label_af568dea:
 
     # UnknownElf "Are you sure that those who stole it were elves?"
-    UnknownElf ""
+    UnknownPixie "Are you sure that those who stole it were pixies?"
 
 # game/logic/events/amelie.rpy:768
 translate english Amelie_4_label_1644b48d:
@@ -2140,7 +2140,7 @@ translate english Amelie_4_label_1644b48d:
 translate english Amelie_4_label_45078a2d:
 
     # UnknownElf "Wait here."
-    UnknownElf ""
+    UnknownPixie ""
 
 # game/logic/events/amelie.rpy:770
 translate english Amelie_4_label_1ee43ba6:
@@ -2152,7 +2152,7 @@ translate english Amelie_4_label_1ee43ba6:
 translate english Amelie_4_label_af2cdf1d:
 
     # UnknownElf_2 "My name is Grang. What are you looking for, strangers?"
-    UnknownElf_2 ""
+    UnknownPixie_2 ""
 
 # game/logic/events/amelie.rpy:773
 translate english Amelie_4_label_96e62974:
@@ -2290,7 +2290,7 @@ translate english Amelie_4_label_d106e8bb:
 translate english Amelie_4_label_78523610:
 
     # ch_Name "...then we're not going to take it lightly."
-    ch_Name ""
+    ch_Name "...we're not going to take it lightly."
 
 # game/logic/events/amelie.rpy:802
 translate english Amelie_4_label_dbd1405c:
@@ -2344,13 +2344,13 @@ translate english Amelie_4_label_eb17e0f4:
 translate english Amelie_4_label_8084dd55:
 
     # Amelie "Is it you, [Name]?"
-    Amelie ""
+    Amelie "Is that you, [Name]"
 
 # game/logic/events/amelie.rpy:821
 translate english Amelie_4_label_5aec484d:
 
     # ch_Name "Yes, miss."
-    ch_Name ""
+    ch_Name "Yes miss Erhart, it's me."
 
 # game/logic/events/amelie.rpy:822
 translate english Amelie_4_label_7234d463:
@@ -2428,7 +2428,7 @@ translate english Amelie_4_label_c351bc2d:
 translate english Amelie_4_label_175818ec:
 
     # ch_Name "{i}(I cannot let it happen.){/i}"
-    ch_Name ""
+    ch_Name "{i}(I can't let this happen.){/i}"
 
 # game/logic/events/amelie.rpy:841
 translate english Amelie_4_label_13152611:
@@ -2440,31 +2440,31 @@ translate english Amelie_4_label_13152611:
 translate english Amelie_4_label_bddd9cff:
 
     # ch_Name "No-no-no, miss Erhart."
-    ch_Name ""
+    ch_Name "No-no-no, Miss Erhart."
 
 # game/logic/events/amelie.rpy:848
 translate english Amelie_4_label_e0b8cf94:
 
     # ch_Name "It's not you, it's just the potion!"
-    ch_Name ""
+    ch_Name "This isn't you, it's the potion."
 
 # game/logic/events/amelie.rpy:849
 translate english Amelie_4_label_47533098:
 
     # Amelie "Call me just Amelie, okay?"
-    Amelie ""
+    Amelie "Just call me Amelie, okay?"
 
 # game/logic/events/amelie.rpy:850
 translate english Amelie_4_label_a8e9524a:
 
-    # ch_Name "No, miss, you're not yourself."
-    ch_Name ""
+    # ch_Name "No, Miss Erhart, you're not yourself."
+       ch_Name ""
 
 # game/logic/events/amelie.rpy:852
 translate english Amelie_4_label_d6cbe95b:
 
     # ch_Name "And you need some time to get it over."
-    ch_Name ""
+    ch_Name "And you need some time to recover."
 
 # game/logic/events/amelie.rpy:853
 translate english Amelie_4_label_53adba2a:
@@ -2542,7 +2542,7 @@ translate english Amelie_4_label_de9645d2:
 translate english Amelie_4_label_db018a77:
 
     # ch_Name "You were just under the influence of mesmerizing potion."
-    ch_Name ""
+    ch_Name "You were just under the influence of the mesmerizing potion."
 
 # game/logic/events/amelie.rpy:877
 translate english Amelie_4_label_9f43eb4b:
@@ -2602,7 +2602,7 @@ translate english Amelie_4_label_9bfe6dd5:
 translate english Amelie_4_label_341c22c6:
 
     # ch_Name "Miss, It's nothing."
-    ch_Name ""
+    ch_Name "Miss Erhart. it was nothing."
 
 # game/logic/events/amelie.rpy:890
 translate english Amelie_4_label_63585936:
@@ -2620,13 +2620,13 @@ translate english Amelie_4_label_13f54861:
 translate english Amelie_4_label_55ce46e1:
 
     # Amelie "Oh, I feel so weak in my head. "
-    Amelie ""
+    Amelie "Oh, I feel light-headed."
 
 # game/logic/events/amelie.rpy:894
 translate english Amelie_4_label_7e38d2b3:
 
     # ch_Name "Maybe it's better to have some sleep?"
-    ch_Name ""
+    ch_Name "You should get some sleep."
 
 # game/logic/events/amelie.rpy:895
 translate english Amelie_4_label_36d3f317:
@@ -2732,7 +2732,7 @@ translate english strings:
 
     # game/logic/events/amelie.rpy:592
     old "Act like there is nothing"
-    new ""
+    new "Act like nothing's there"
 
     # game/logic/events/amelie.rpy:830
     old "Succumb to the temptation"
