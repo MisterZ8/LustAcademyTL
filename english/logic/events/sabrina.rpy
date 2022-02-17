@@ -112,7 +112,7 @@ translate english Sabrina_1_label_a5d5c470:
 translate english Sabrina_1_label_c109a9ee:
 
     # Sabrina "That concludes our forays into Cordale's history."
-    Sabrina ""
+    Sabrina "That concludes our foray into Cordale's history."
 
 # game/logic/events/sabrina.rpy:156
 translate english Sabrina_1_label_2701abf2:
@@ -178,7 +178,7 @@ translate english Sabrina_1_label_0b52e9e7:
 translate english Sabrina_1_label_d4747740:
 
     # Sabrina "Then there's safety stuff."
-    Sabrina ""
+    Sabrina "Then there's a safety lecture."
 
 # game/logic/events/sabrina.rpy:169
 translate english Sabrina_1_label_292ae976:
@@ -196,7 +196,7 @@ translate english Sabrina_1_label_6a1c2bca:
 translate english Sabrina_1_label_4b908a19:
 
     # Sabrina "We're clear on that. Or are there any questions?"
-    Sabrina ""
+    Sabrina "Are we clear on that? Or are there any questions?"
 
 # game/logic/events/sabrina.rpy:185
 translate english Sabrina_1_label_34_312b138a:
@@ -370,7 +370,7 @@ translate english Sabrina_1_label_54_e2f0d322:
 translate english Sabrina_1_label_54_13976270:
 
     # Sabrina "And with potions, any mage can overcome those laws."
-    Sabrina ""
+    Sabrina "And with potions, any mage can overcome those variations."
 
 # game/logic/events/sabrina.rpy:227
 translate english Sabrina_1_label_54_d75355f2:
@@ -394,19 +394,19 @@ translate english Sabrina_1_label_54_f2808f61:
 translate english Sabrina_1_label_54_427df2dd:
 
     # Sabrina "The Potions course goal is..."
-    Sabrina ""
+    Sabrina "The goal of the Potions course is..."
 
 # game/logic/events/sabrina.rpy:232
 translate english Sabrina_1_label_54_8bec8ee2:
 
     # Sabrina "...Is to teach you how to determine the magical properties of the ingredients."
-    Sabrina ""
+    Sabrina "...Is to teach you how to determine the magical properties of ingredients."
 
 # game/logic/events/sabrina.rpy:233
 translate english Sabrina_1_label_54_80c1f607:
 
     # Sabrina "As well as how to mix and prepare them to obtain the desired effects."
-    Sabrina ""
+    Sabrina "As well as how to mix and prepare them to obtain desired effects."
 
 # game/logic/events/sabrina.rpy:234
 translate english Sabrina_1_label_54_e6199a4b:
@@ -418,7 +418,7 @@ translate english Sabrina_1_label_54_e6199a4b:
 translate english Sabrina_1_label_54_9c193ca0:
 
     # Sabrina "They will be your trusty book of recipes and tips."
-    Sabrina ""
+    Sabrina "They will be your trusty resource for recipes and tips."
 
 # game/logic/events/sabrina.rpy:236
 translate english Sabrina_1_label_54_8c50f4f5:
@@ -430,7 +430,7 @@ translate english Sabrina_1_label_54_8c50f4f5:
 translate english Sabrina_1_label_54_23c78afb:
 
     # Sabrina "Because you can only access the cauldron if you have the textbook."
-    Sabrina ""
+    Sabrina "Because you can only access the cauldron if you have your textbook."
 
 # game/logic/events/sabrina.rpy:239
 translate english Sabrina_1_label_54_d7a47d7d:
@@ -454,13 +454,13 @@ translate english Sabrina_1_label_54_70cf14e1:
 translate english Sabrina_1_label_54_4a036cf0:
 
     # Sabrina "Memorize the ingredients for all the potions mentioned in the paragraphs."
-    Sabrina ""
+    Sabrina "Memorize the ingredients for all the potions mentioned in those paragraphs."
 
 # game/logic/events/sabrina.rpy:244
 translate english Sabrina_1_label_54_962265f8:
 
     # Sabrina "It's necessary so that we can go into practice."
-    Sabrina ""
+    Sabrina "This is necessary so that we can begin to practice."
 
 # game/logic/events/sabrina.rpy:245
 translate english Sabrina_1_label_54_54b8a1f3:
@@ -532,7 +532,7 @@ translate english Sabrina_2_label_d7488cd9:
 translate english Sabrina_2_label_c9d3dce5:
 
     # Sabrina "I hope you all prepared and read paragraphs 1 and 2?"
-    Sabrina ""
+    Sabrina "I hope you all prepared by reading paragraphs 1 and 2."
 
 # game/logic/events/sabrina.rpy:273
 translate english Sabrina_2_label_d4d91734:
@@ -580,7 +580,7 @@ translate english Sabrina_2_label_763ea9c2:
 translate english Sabrina_2_label_d79eee61:
 
     # Sabrina "Who can show me what we put in the lesser healing potion?"
-    Sabrina ""
+    Sabrina "Who can show me what we put into the lesser healing potion?"
 
 # game/logic/events/sabrina.rpy:284
 translate english Sabrina_2_label_0e964f21:
@@ -646,7 +646,7 @@ translate english Sabrina_2_label_7a8ce6f2:
 translate english Sabrina_2_label_755fefb5:
 
     # ch_Name "{i}(I'm sure I'd forgot about cetraria...){/i}"
-    ch_Name ""
+    ch_Name "{i}(I'm sure I'd have forgotten about cetraria...){/i}"
 
 # game/logic/events/sabrina.rpy:312
 translate english Sabrina_2_label_8da5494e:
@@ -760,7 +760,7 @@ translate english Sabrina_2_label_df2389c4:
 translate english Sabrina_2_label_46_15e6a9d7:
 
     # Sabrina "We'll go through the making of all the basic potions step by step in practice. "
-    Sabrina ""
+    Sabrina "We'll go through the making of all the basic potions step by step during practice."
 
 # game/logic/events/sabrina.rpy:351
 translate english Sabrina_2_label_46_c479a782:
@@ -772,7 +772,7 @@ translate english Sabrina_2_label_46_c479a782:
 translate english Sabrina_2_label_46_7c94181f:
 
     # Sabrina "The topic of today's lesson: the basics of safety."
-    Sabrina ""
+    Sabrina "The topic for today's lesson: the basics of safety."
 
 # game/logic/events/sabrina.rpy:354
 translate english Sabrina_2_label_46_29e6d455:
@@ -898,7 +898,7 @@ translate english Sabrina_2_label_46_c9d71da1:
 translate english Sabrina_2_label_46_bc70f05d:
 
     # Sabrina "If you go overboard with the ingredients without knowing their properties."
-    Sabrina ""
+    Sabrina "If you go overboard with the ingredients without knowing their properties..."
 
 # game/logic/events/sabrina.rpy:381
 translate english Sabrina_2_label_46_56855a9d:
@@ -916,7 +916,7 @@ translate english Sabrina_2_label_46_b6b420d2:
 translate english Sabrina_2_label_46_437f6179:
 
     # Sabrina "But I'm getting tired of scrubbing students's guts out of them..."
-    Sabrina ""
+    Sabrina "But I'm getting tired of scrubbing students's guts off of them..."
 
 # game/logic/events/sabrina.rpy:385
 translate english Sabrina_2_label_46_eddfc16f_2:
@@ -970,7 +970,7 @@ translate english Sabrina_2_label_46_03ebb22f:
 translate english Sabrina_2_label_46_39b15567:
 
     # ch_Name "{i}(And I'll have plenty of those if I want to keep inviting girls for a drink.){/i}"
-    ch_Name ""
+    ch_Name "{i}(And I'll have plenty of those if I keep inviting girls for drinks.){/i}"
 
 # game/logic/events/sabrina.rpy:415
 translate english Sabrina_3_label_e3c0b186:
@@ -988,7 +988,7 @@ translate english Sabrina_3_label_916187cb:
 translate english Sabrina_3_label_d1b92402:
 
     # Sabrina "The topic of today's lesson will be: preparing the workplace."
-    Sabrina ""
+    Sabrina "The topic of today's lesson will be: preparing the workspace."
 
 # game/logic/events/sabrina.rpy:419
 translate english Sabrina_3_label_79134fc0:
@@ -1144,7 +1144,7 @@ translate english Sabrina_3_label_c34b2495:
 translate english Sabrina_3_label_0c2bd7ea:
 
     # Sabrina "In short, everything you need to process the ingredients."
-    Sabrina ""
+    Sabrina "In short, everything you need to prepare the ingredients."
 
 # game/logic/events/sabrina.rpy:453
 translate english Sabrina_3_label_1ada458c:
@@ -1156,19 +1156,19 @@ translate english Sabrina_3_label_1ada458c:
 translate english Sabrina_3_label_28b7fa49:
 
     # Sabrina "If you wish to make a potion outside of class."
-    Sabrina ""
+    Sabrina "If you wish to make a potion outside of class..."
 
 # game/logic/events/sabrina.rpy:457
 translate english Sabrina_3_label_b75a2166:
 
     # Sabrina "It's best not to."
-    Sabrina ""
+    Sabrina "And be aware, it's best not to..."
 
 # game/logic/events/sabrina.rpy:458
 translate english Sabrina_3_label_b7adfa40:
 
     # Sabrina "Or at the very least consult me."
-    Sabrina ""
+    Sabrina "but, if you must, at the very least consult me first."
 
 # game/logic/events/sabrina.rpy:460
 translate english Sabrina_3_label_958fc1e7:
@@ -1276,7 +1276,7 @@ translate english Sabrina_4_label_d21ec207:
 translate english Sabrina_4_label_e194058b:
 
     # Sabrina "But you can already assist the potion-maker."
-    Sabrina ""
+    Sabrina "But you are ready to assist the potion-maker."
 
 # game/logic/events/sabrina.rpy:494
 translate english Sabrina_4_label_2c1d564c:
@@ -1342,7 +1342,7 @@ translate english Sabrina_4_label_7e1f98ec:
 translate english Sabrina_4_label_c3e16f1f:
 
     # Sabrina "I didn't scare you for nothing for three lessons."
-    Sabrina ""
+    Sabrina "I didn't spend the first three lessons cautioning you for no reason."
 
 # game/logic/events/sabrina.rpy:508
 translate english Sabrina_4_label_68377785:
@@ -1426,7 +1426,7 @@ translate english Sabrina_4_label_ccade092:
 translate english Sabrina_4_label_3195bfe5:
 
     # Sabrina "Didn't your headmaster explain to you how it worls here?"
-    Sabrina ""
+    Sabrina "Didn't your headmaster explain to you how it works here?"
 
 # game/logic/events/sabrina.rpy:533
 translate english Sabrina_4_label_65722d6e:
@@ -1450,7 +1450,7 @@ translate english Sabrina_4_label_2ce42a04:
 translate english Sabrina_4_label_3af1907f:
 
     # Sabrina "It's a admirable initiative, but you should've thought it through carefully."
-    Sabrina ""
+    Sabrina "It's an admirable effort, but you should've thought it through carefully."
 
 # game/logic/events/sabrina.rpy:539
 translate english Sabrina_4_label_2cf9b106:
@@ -1576,7 +1576,7 @@ translate english Sabrina_4_label_55_7bf74275:
 translate english Sabrina_4_label_55_f734177b:
 
     # ch_Name "Wait a minute...{w} What about the handbook on the table?"
-    ch_Name ""
+    ch_Name "Wait a minute...{w} What about having the handbook on the table?"
 
 # game/logic/events/sabrina.rpy:573
 translate english Sabrina_4_label_55_d86a9d89:
@@ -1648,7 +1648,7 @@ translate english Sabrina_4_label_55_027b1c56_1:
 translate english Sabrina_4_label_55_ba1074f4:
 
     # Sabrina "Well, let's see what you got, shall we?"
-    Sabrina ""
+    Sabrina "Well, let's see what you have, shall we?"
 
 # game/logic/events/sabrina.rpy:589
 translate english Sabrina_4_label_55_86c883a8:
@@ -1750,7 +1750,7 @@ translate english Sabrina_1_1_label_52a4386d:
 translate english Sabrina_1_1_label_b9690c07:
 
     # Sabrina "{b}Come back when you attend Victoria's class.{/b}"
-    Sabrina ""
+    Sabrina "{b}Come back after you've attended Victoria's class.{/b}"
 
 # game/logic/events/sabrina.rpy:625
 translate english Sabrina_5_label_e3c0b186:
@@ -1804,19 +1804,19 @@ translate english Sabrina_5_label_95a4a6ab:
 translate english Sabrina_5_label_7f33726f:
 
     # Sabrina "But in reality this potion makes your skin hardened and more resistant to magic."
-    Sabrina ""
+    Sabrina "But in reality this potion hardens your skin and makes it more resistant to magic."
 
 # game/logic/events/sabrina.rpy:637
 translate english Sabrina_5_label_ab4a4f4a:
 
     # Sabrina "\"But no \"Golem-like\" appearance."
-    Sabrina ""
+    Sabrina "\"But there's no \"Golem-like\" appearance."
 
 # game/logic/events/sabrina.rpy:638
 translate english Sabrina_5_label_ed11bd2c:
 
     # Sabrina "Your skin will just get as strong as the armor or the stone."
-    Sabrina ""
+    Sabrina "Your skin will just become as strong as armor or stone."
 
 # game/logic/events/sabrina.rpy:639
 translate english Sabrina_5_label_73ed6194:
@@ -1846,7 +1846,7 @@ translate english Sabrina_5_label_b51a177b:
 translate english Sabrina_5_label_25ab6962:
 
     # Sabrina "Carter, who brews a stone-skin potion on such a low heat?"
-    Sabrina ""
+    Sabrina "Carter, who brews a stone-skin potion at such a low heat?"
 
 # game/logic/events/sabrina.rpy:650
 translate english Sabrina_5_label_89838258:
@@ -2044,7 +2044,7 @@ translate english Sabrina_5_label_600da1d3:
 translate english Sabrina_5_label_9478dfbb:
 
     # ch_Name "{i}(It's like stepping onto the field again and hearing the support of the stands...){/i}"
-    ch_Name ""
+    ch_Name "{i}(It's like stepping onto the field again and hearing the cheers of the crowd...){/i}"
 
 # game/logic/events/sabrina.rpy:708
 translate english Sabrina_5_label_3ff5654b:
@@ -2062,7 +2062,7 @@ translate english Sabrina_5_label_2082fb0d:
 translate english Sabrina_5_label_1c71b918:
 
     # ch_Name "{i}(That's right, I can take it back!){/i}"
-    ch_Name ""
+    ch_Name "{i}(That's right, I get to take it back!){/i}"
 
 # game/logic/events/sabrina.rpy:712
 translate english Sabrina_5_label_73943a23:
@@ -2134,7 +2134,7 @@ translate english Sabrina_5_label_afa22010:
 translate english Sabrina_5_label_14c8a1b9:
 
     # Sabrina "You're my student, and how would it even look from the outside..."
-    Sabrina ""
+    Sabrina "You're my student, and how would it look to outside observers..."
 
 # game/logic/events/sabrina.rpy:728
 translate english Sabrina_5_label_db938ec5:
@@ -2164,7 +2164,7 @@ translate english Sabrina_5_label_888af1cf:
 translate english Sabrina_5_label_df9d9e74:
 
     # Sabrina "Oh, Victoria told me about those jokes of yours..."
-    Sabrina ""
+    Sabrina "Oh, Victoria told me about these jokes of yours..."
 
 # game/logic/events/sabrina.rpy:734
 translate english Sabrina_5_label_cf4edec9:
@@ -2194,7 +2194,7 @@ translate english Sabrina_5_label_bccaeaf6:
 translate english Sabrina_5_label_4858901a:
 
     # ch_Name "{i}(If I want to make real money, I have to think about more options.){/i}"
-    ch_Name ""
+    ch_Name "{i}(If I want to make real money, I have to think more about options.){/i}"
 
 # game/logic/events/sabrina.rpy:744
 translate english Sabrina_5_label_faf54563:
@@ -2206,7 +2206,7 @@ translate english Sabrina_5_label_faf54563:
 translate english Sabrina_5_label_fed78e67:
 
     # ch_Name "{i}(Maybe Elijah's offer can be more lucrative.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Maybe Elijah's offer would be more lucrative.){/i}"
 
 # game/logic/events/sabrina.rpy:750
 translate english Sabrina_6_label_d48e29af:
@@ -2218,7 +2218,7 @@ translate english Sabrina_6_label_d48e29af:
 translate english Sabrina_6_label_c314bfd2:
 
     # Sabrina "Today we're going to brew Magic Reflection Potion!"
-    Sabrina ""
+    Sabrina "Today we're going to brew a Magic Reflection Potion!"
 
 # game/logic/events/sabrina.rpy:752
 translate english Sabrina_6_label_54591356:
@@ -2422,7 +2422,7 @@ translate english Sabrina_6_label_403e284f:
 translate english Sabrina_6_label_74db2cf3:
 
     # Sabrina "Both you did a great job."
-    Sabrina ""
+    Sabrina "Both of you did a great job."
 
 # game/logic/events/sabrina.rpy:806
 translate english Sabrina_6_label_acc0f4bd:
@@ -2458,7 +2458,7 @@ translate english Sabrina_6_label_8428ab61:
 translate english Sabrina_6_label_febcbd39:
 
     # ch_Name "To get them up to speed."
-    ch_Name ""
+    ch_Name "To help get them up to speed."
 
 # game/logic/events/sabrina.rpy:815
 translate english Sabrina_6_label_4453f725:
@@ -2758,7 +2758,7 @@ translate english Sabrina_7_label_7c7b58fc:
 translate english Sabrina_7_label_3b518b25:
 
     # ch_Name "{i}(I've promised to meet Haley in her room in the evening.){/i}"
-    ch_Name ""
+    ch_Name "{i}(I promised to meet Haley in her room in the evening.){/i}"
 
 # game/logic/events/sabrina.rpy:911
 translate english Sabrina_7_label_9ea66a67:
