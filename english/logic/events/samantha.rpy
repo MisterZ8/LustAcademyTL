@@ -172,7 +172,7 @@ translate english Samantha_1_label_29174b97:
 translate english Samantha_1_label_0f7b72e4:
 
     # ch_Name "Sometimes I think you're even too perfect."
-    ch_Name ""
+    ch_Name "Sometimes I think you're a little too perfect."
 
 # game/logic/events/samantha.rpy:233
 translate english Samantha_1_label_3041b808:
@@ -208,7 +208,7 @@ translate english Samantha_1_label_d92b62fd:
 translate english Samantha_1_label_1188576e:
 
     # ch_Name "My leg? Why are you bringing it up?"
-    ch_Name ""
+    ch_Name "My leg? Why are you bringing that up?"
 
 # game/logic/events/samantha.rpy:240
 translate english Samantha_1_label_a9a31f02:
@@ -448,7 +448,7 @@ translate english Samantha_1_label_ad662421:
 translate english Samantha_1_label_da64d98b:
 
     # ch_Name "I'm sure you can do any spell."
-    ch_Name ""
+    ch_Name "I'm sure you can cast any spell."
 
 # game/logic/events/samantha.rpy:295
 translate english Samantha_1_label_2541c93e:
@@ -718,7 +718,7 @@ translate english Samantha_2_label_3c180918:
 translate english Samantha_2_label_ba89e1ae:
 
     # ch_Name "{i}(That's a bummer... Does that even happen?){/i}"
-    ch_Name ""
+    ch_Name "{i}(That's a bummer... Can that even happen?){/i}"
 
 # game/logic/events/samantha.rpy:371
 translate english Samantha_2_label_8c3006f0:
@@ -736,7 +736,7 @@ translate english Samantha_2_label_80dddb0c:
 translate english Samantha_2_label_5720a847:
 
     # ch_Name "Does that even happen?"
-    ch_Name ""
+    ch_Name "Can that even happen?"
 
 # game/logic/events/samantha.rpy:376
 translate english Samantha_2_label_780305d1:
@@ -904,7 +904,7 @@ translate english Samantha_2_label_c0249248:
 translate english Samantha_2_label_d0c82752:
 
     # ch_Name "In the meantime, just keep your pretty little nose up!"
-    ch_Name ""
+    ch_Name "In the meantime, just keep your pretty little chin up!"
 
 # game/logic/events/samantha.rpy:413
 translate english Samantha_2_label_88e9af80:
@@ -988,7 +988,7 @@ translate english Samantha_5_label_bfde4b73:
 translate english Samantha_5_label_25a6cde4:
 
     # ch_Name "Don't you think it's a little bit early to suffer?"
-    ch_Name ""
+    ch_Name "Don't you think it's a little bit early to give up?"
 
 # game/logic/events/samantha.rpy:450
 translate english Samantha_5_label_d706d58c:
@@ -1042,7 +1042,7 @@ translate english Samantha_5_label_3e7b841c:
 translate english Samantha_5_label_769751e1:
 
     # ch_Name "Aren't you a little early to be in mourning?"
-    ch_Name ""
+    ch_Name "Isn't it a little early to be in mourning?"
 
 # game/logic/events/samantha.rpy:463
 translate english Samantha_5_label_2678d2b2:
@@ -1084,13 +1084,13 @@ translate english Samantha_5_label_c009e433:
 translate english Samantha_5_label_d1530d7f:
 
     # Samantha "What's wrong with me? Is that curable?"
-    Samantha ""
+    Samantha "What's wrong with me? Is it curable?"
 
 # game/logic/events/samantha.rpy:474
 translate english Samantha_5_label_cc8c79f1:
 
     # ch_Name "Your magical ligaments are ruptured because magic conflicts within you."
-    ch_Name ""
+    ch_Name "Your magical ligaments are ruptured because of magic conflicts within you."
 
 # game/logic/events/samantha.rpy:475
 translate english Samantha_5_label_2aefa9ba:
@@ -1354,7 +1354,7 @@ translate english Samantha_5_label_3465bd22:
 translate english Samantha_5_label_f632ad5f:
 
     # Samantha "Well, I'm alright with that."
-    Samantha ""
+    Samantha "Well, I'm all right with that."
 
 # game/logic/events/samantha.rpy:540
 translate english Samantha_5_label_91ac01f3:
@@ -1384,13 +1384,13 @@ translate english Samantha_5_label_8f09ef42:
 translate english samantha_events_4_label_0_d6eb7360:
 
     # ch_Name "{i}(Why did this never occurred to me to do this at our house?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Why did it never occur to me to do this at our house?){/i}"
 
 # game/logic/events/samantha.rpy:600
 translate english samantha_events_4_label_0_15238aa6:
 
     # ch_Name "{i}(Maybe I was afraid of Don, who'd kill me if he finds out.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Maybe I was afraid of Don, he'd have killed me if he found out.){/i}"
 
 # game/logic/events/samantha.rpy:601
 translate english samantha_events_4_label_0_c338983c:
@@ -1468,7 +1468,7 @@ translate english samantha_events_4_label_0_cee6277a:
 translate english samantha_events_4_label_0_8a4d6e8a:
 
     # ch_Name "{i}(Damn, I think that could wake her up...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Damn, I think that could've disturbed her sleep...){/i}"
 
 # game/logic/events/samantha.rpy:619
 translate english samantha_events_4_label_0_d507495b:
@@ -1498,7 +1498,7 @@ translate english samantha_events_4_label_1_95bb1ad7:
 translate english samantha_events_4_label_1_1d59502e:
 
     # ch_Name "{i}(I could have looked at you all night...){/i}"
-    ch_Name ""
+    ch_Name "{i}(I could look at you all night...){/i}"
 
 # game/logic/events/samantha.rpy:644
 translate english samantha_events_4_label_1_4c464436:
@@ -1528,7 +1528,7 @@ translate english samantha_events_4_label_1_56f92b12:
 translate english samantha_events_4_label_1_a055e888:
 
     # ch_Name "{i}(I've never thought you'd be that sexy, Sam...){/i}"
-    ch_Name ""
+    ch_Name "{i}(I never imagined you'd be that sexy, Sam...){/i}"
 
 # game/logic/events/samantha.rpy:652
 translate english samantha_events_4_label_1_25edd9f3:
@@ -1600,7 +1600,7 @@ translate english samantha_events_4_label_1_cee6277a:
 translate english samantha_events_4_label_1_70bb8333:
 
     # ch_Name "{i}(Damn, I think she could wake up any minute.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Damn, she looks like she could wake up any minute.){/i}"
 
 # game/logic/events/samantha.rpy:668
 translate english samantha_events_4_label_1_03d6a422:
@@ -1630,7 +1630,7 @@ translate english samantha_events_4_label_2_95bb1ad7:
 translate english samantha_events_4_label_2_1d59502e:
 
     # ch_Name "{i}(I could have looked at you all night...){/i}"
-    ch_Name ""
+    ch_Name "{i}(I could look at you all night...){/i}"
 
 # game/logic/events/samantha.rpy:684
 translate english samantha_events_4_label_2_4c464436:
@@ -1660,7 +1660,7 @@ translate english samantha_events_4_label_2_56f92b12:
 translate english samantha_events_4_label_2_a055e888:
 
     # ch_Name "{i}(I've never thought you'd be that sexy, Sam...){/i}"
-    ch_Name ""
+    ch_Name "{i}(I never imagined you'd be that sexy, Sam...){/i}"
 
 # game/logic/events/samantha.rpy:692
 translate english samantha_events_4_label_2_25edd9f3:
@@ -1696,7 +1696,7 @@ translate english samantha_events_4_label_2_914d37e8:
 translate english samantha_events_4_label_2_15fff55a:
 
     # ch_Name "{i}(It's so hard to take your eyes off them.){/i}"
-    ch_Name ""
+    ch_Name "{i}(It's so hard to take my eyes off them.){/i}"
 
 # game/logic/events/samantha.rpy:699
 translate english samantha_events_4_label_2_4f2a4bb9:
@@ -1762,7 +1762,7 @@ translate english samantha_events_4_label_2_4025186b:
 translate english samantha_events_4_label_2_7581546e:
 
     # ch_Name "{i}(I have to stop before she woke up!){/i}"
-    ch_Name ""
+    ch_Name "{i}(I have to stop before she wakes up!){/i}"
 
 # game/logic/events/samantha.rpy:714
 translate english samantha_events_4_label_2_e8c3ef74:
@@ -1798,7 +1798,7 @@ translate english samantha_events_4_label_3_95bb1ad7:
 translate english samantha_events_4_label_3_1d59502e:
 
     # ch_Name "{i}(I could have looked at you all night...){/i}"
-    ch_Name ""
+    ch_Name "{i}(I could look at you all night...){/i}"
 
 # game/logic/events/samantha.rpy:732
 translate english samantha_events_4_label_3_4c464436:
@@ -1828,7 +1828,7 @@ translate english samantha_events_4_label_3_56f92b12:
 translate english samantha_events_4_label_3_a055e888:
 
     # ch_Name "{i}(I've never thought you'd be that sexy, Sam...){/i}"
-    ch_Name ""
+    ch_Name "{i}(I never imagined you'd be that sexy, Sam...){/i}"
 
 # game/logic/events/samantha.rpy:740
 translate english samantha_events_4_label_3_25edd9f3:
@@ -1942,7 +1942,7 @@ translate english samantha_events_4_label_3_4025186b:
 translate english samantha_events_4_label_3_7581546e:
 
     # ch_Name "{i}(I have to stop before she woke up!){/i}"
-    ch_Name ""
+    ch_Name "{i}(I have to stop before she wakes up!){/i}"
 
 # game/logic/events/samantha.rpy:765
 translate english samantha_events_4_label_3_e8c3ef74:
@@ -1978,7 +1978,7 @@ translate english samantha_events_4_label_4_95bb1ad7:
 translate english samantha_events_4_label_4_1d59502e:
 
     # ch_Name "{i}(I could have looked at you all night...){/i}"
-    ch_Name ""
+    ch_Name "{i}(I could look at you all night...){/i}"
 
 # game/logic/events/samantha.rpy:782
 translate english samantha_events_4_label_4_4c464436:
@@ -2008,7 +2008,7 @@ translate english samantha_events_4_label_4_56f92b12:
 translate english samantha_events_4_label_4_a055e888:
 
     # ch_Name "{i}(I've never thought you'd be that sexy, Sam...){/i}"
-    ch_Name ""
+    ch_Name "{i}(I never imagined you'd be that sexy, Sam...){/i}"
 
 # game/logic/events/samantha.rpy:790
 translate english samantha_events_4_label_4_25edd9f3:
@@ -2044,7 +2044,7 @@ translate english samantha_events_4_label_4_914d37e8:
 translate english samantha_events_4_label_4_15fff55a:
 
     # ch_Name "{i}(It's so hard to take your eyes off them.){/i}"
-    ch_Name ""
+    ch_Name "{i}(It's so hard to take my eyes off them.){/i}"
 
 # game/logic/events/samantha.rpy:797
 translate english samantha_events_4_label_4_4f2a4bb9:
@@ -2242,7 +2242,7 @@ translate english Samantha_6_label_cfb3e361:
 translate english Samantha_6_label_64aaff8f:
 
     # Samantha "That's pretty much everything interesting that happened to me lately."
-    Samantha ""
+    Samantha "That's pretty much everything interesting that's happened to me lately."
 
 # game/logic/events/samantha.rpy:846
 translate english Samantha_6_label_d842b5cb:
@@ -2260,7 +2260,7 @@ translate english Samantha_6_label_c0445287:
 translate english Samantha_6_label_3ef1e052:
 
     # ch_Name "{i}(At what point I've made the mistake of asking how was her day?){/i}"
-    ch_Name ""
+    ch_Name "{i}(At what point I've made the mistake of asking how her day was?){/i}"
 
 # game/logic/events/samantha.rpy:850
 translate english Samantha_6_label_ce7e969d:
@@ -2386,7 +2386,7 @@ translate english Samantha_6_label_2801f5b6:
 translate english Samantha_6_label_d461231d:
 
     # ch_Name "Do not switch the subject, Sam."
-    ch_Name ""
+    ch_Name "Don't change the subject, Sam."
 
 # game/logic/events/samantha.rpy:880
 translate english Samantha_6_label_d0f61e9f:
@@ -2416,7 +2416,7 @@ translate english Samantha_6_label_fcf76165:
 translate english Samantha_6_label_36e87331:
 
     # ch_Name "Don't play fool with me, Sam!"
-    ch_Name ""
+    ch_Name "Don't play me for a fool, Sam!"
 
 # game/logic/events/samantha.rpy:887
 translate english Samantha_6_label_0c8cc1d3:
@@ -2524,7 +2524,7 @@ translate english Samantha_6_label_2db6a3fe:
 translate english Samantha_6_label_610e1fa1:
 
     # Samantha "Now I let you go."
-    Samantha ""
+    Samantha "Now I'll let you go."
 
 # game/logic/events/samantha.rpy:910
 translate english Samantha_6_label_4ea51c94:
@@ -2578,13 +2578,13 @@ translate english Samantha_6_label_62ec360e:
 translate english Samantha_6_label_307ba90b:
 
     # ch_Name "Allright..."
-    ch_Name ""
+    ch_Name "All right..."
 
 # game/logic/events/samantha.rpy:923
 translate english Samantha_6_label_586a4cc2:
 
     # ch_Name "But you have to tell me everything In details."
-    ch_Name ""
+    ch_Name "But you have to tell me everything In detail."
 
 # game/logic/events/samantha.rpy:924
 translate english Samantha_6_label_a065326f:
@@ -2680,7 +2680,7 @@ translate english Samantha_7_label_1888f750:
 translate english Samantha_7_label_2f55a2f5:
 
     # ch_Name "Sam, you promised we could talk tonight."
-    ch_Name ""
+    ch_Name "Sam, you promised we could talk today."
 
 # game/logic/events/samantha.rpy:950
 translate english Samantha_7_label_aba88f2d:
@@ -2788,7 +2788,7 @@ translate english Samantha_7_label_5bd087a0:
 translate english Samantha_7_label_7df46f93:
 
     # ch_Name "{i}(Thoughts popping into my head.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Thoughts start popping into my head.){/i}"
 
 # game/logic/events/samantha.rpy:973
 translate english Samantha_7_label_998b2e3c:
@@ -2860,7 +2860,7 @@ translate english Samantha_7_label_cef050e4:
 translate english Samantha_7_label_5ea3a9fa:
 
     # Samantha "Did you really think I'm like that?"
-    Samantha ""
+    Samantha "Did you really think I'd be like that?"
 
 # game/logic/events/samantha.rpy:989
 translate english Samantha_7_label_5a23840a:
@@ -2938,7 +2938,7 @@ translate english Samantha_7_label_c83fff51:
 translate english Samantha_7_label_19d93001:
 
     # ch_Name "{i}(I have to act surprised or she'll know I didn't know.){/i}"
-    ch_Name ""
+    ch_Name "{i}(I can't act surprised or she'll know I didn't know.){/i}"
 
 # game/logic/events/samantha.rpy:1011
 translate english Samantha_7_label_6026ebda:
@@ -3070,7 +3070,7 @@ translate english Samantha_7_label_f70251e6:
 translate english Samantha_7_label_3d1d6515:
 
     # ch_Name "Victoria said the breakup could happen again."
-    ch_Name ""
+    ch_Name "Victoria said the injury could happen again."
 
 # game/logic/events/samantha.rpy:1043
 translate english Samantha_7_label_ac414857:
@@ -3292,7 +3292,7 @@ translate english Samantha_8_label_79c00ad7:
 translate english Samantha_8_label_dd7e11a0:
 
     # ch_Name "{i}(You must have been really surprise to see me here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(You must have been really surprised to see me here.){/i}"
 
 # game/logic/events/samantha.rpy:1100
 translate english Samantha_8_label_f5d56251:
@@ -3370,7 +3370,7 @@ translate english Samantha_8_label_63c682a7:
 translate english Samantha_8_label_931c2ff0:
 
     # Samantha "Came on, sweetie, be kind!"
-    Samantha ""
+    Samantha "Come on, sweetie, be kind!"
 
 # game/logic/events/samantha.rpy:1118
 translate english Samantha_8_label_375dde7d:
@@ -3382,13 +3382,13 @@ translate english Samantha_8_label_375dde7d:
 translate english Samantha_8_label_a8ce9be3:
 
     # Samantha "I don't want to wait till you're done."
-    Samantha ""
+    Samantha "I don't want to wait 'til you're done."
 
 # game/logic/events/samantha.rpy:1120
 translate english Samantha_8_label_06fd5847:
 
     # ch_Name "Okay, okay, go do your things."
-    ch_Name ""
+    ch_Name "Okay, okay, go do your thing."
 
 # game/logic/events/samantha.rpy:1121
 translate english Samantha_8_label_3eebc7dc:
@@ -3454,7 +3454,7 @@ translate english Samantha_8_label_188677cd:
 translate english Samantha_8_label_b1e758f2:
 
     # Samantha "I cannot admit that it's more than a fair deal."
-    Samantha ""
+    Samantha "I have to admit, it's more than a fair deal."
 
 # game/logic/events/samantha.rpy:1136
 translate english Samantha_8_label_bfd9b072:
@@ -3478,7 +3478,7 @@ translate english Samantha_8_label_9c7189f5:
 translate english Samantha_8_label_5379f8f8:
 
     # ch_Name "{i}(Such an impressive size of her boobs!){/i}"
-    ch_Name ""
+    ch_Name "{i}(The size of her boobs is so impressive!){/i}"
 
 # game/logic/events/samantha.rpy:1143
 translate english Samantha_8_label_314dbcbf:
@@ -3520,7 +3520,7 @@ translate english Samantha_8_label_56d8bda1:
 translate english Samantha_8_label_6fdb2ae3:
 
     # Samantha "Are you feel more comfortable now?"
-    Samantha ""
+    Samantha "Are you feeling more comfortable now?""
 
 # game/logic/events/samantha.rpy:1153
 translate english Samantha_8_label_9d605495:
@@ -3550,19 +3550,19 @@ translate english Samantha_8_label_9ec4c9d8:
 translate english Samantha_8_label_0cc2beac:
 
     # Samantha "I just feel like you are more into exploring my body than in the process of showering."
-    Samantha ""
+    Samantha "I just feel like you are more into exploring my body than into the process of showering."
 
 # game/logic/events/samantha.rpy:1161
 translate english Samantha_8_label_5be659b7:
 
     # Samantha "I literally can feel your look on my skin."
-    Samantha ""
+    Samantha "I can literally feel your gaze on my skin."
 
 # game/logic/events/samantha.rpy:1162
 translate english Samantha_8_label_3b4bd8f8:
 
     # ch_Name "Sorry, I've just... lost in thoughts."
-    ch_Name ""
+    ch_Name "Sorry, I'm just... lost in my thoughts."
 
 # game/logic/events/samantha.rpy:1164
 translate english Samantha_8_label_84d8d456:
@@ -3628,19 +3628,19 @@ translate english Samantha_8_label_8f27a760:
 translate english Samantha_8_label_fd659de8:
 
     # ch_Name "I just tell you the truth."
-    ch_Name ""
+    ch_Name "I'm just telling you the truth."
 
 # game/logic/events/samantha.rpy:1178
 translate english Samantha_8_label_d85ca505:
 
     # Samantha "Ok, I've finished all my skincare routine."
-    Samantha ""
+    Samantha "Ok, I've finished my skincare routine."
 
 # game/logic/events/samantha.rpy:1179
 translate english Samantha_8_label_14284657:
 
     # Samantha "When was the last chance we were all alone in the bathroom together?"
-    Samantha ""
+    Samantha "When was the last time we were all alone in the bathroom together?"
 
 # game/logic/events/samantha.rpy:1180
 translate english Samantha_8_label_c1650a1c:
@@ -3658,7 +3658,7 @@ translate english Samantha_8_label_1af12dcb:
 translate english Samantha_8_label_a6619004:
 
     # ch_Name "I always have some troubles with that."
-    ch_Name ""
+    ch_Name "I always have trouble with that."
 
 # game/logic/events/samantha.rpy:1184
 translate english Samantha_8_label_d50388ff:
@@ -3700,7 +3700,7 @@ translate english Samantha_8_label_84d3dc7e:
 translate english Samantha_8_label_13cbf6ae:
 
     # ch_Name "Is it my turn now to feel your look on my skin?"
-    ch_Name ""
+    ch_Name "Is it my turn now to feel your gaze on my skin?"
 
 # game/logic/events/samantha.rpy:1193
 translate english Samantha_8_label_2becafc2:
@@ -3796,7 +3796,7 @@ translate english Samantha_8_label_904c8a8c:
 translate english Samantha_8_label_bfe222e8:
 
     # ch_Name "{i}(Anyway, I have to get going. I wanted to talk to Audrey before classes.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Anyway, I have to get going. I want to talk to Audrey before classes.){/i}"
 
 # game/logic/events/samantha.rpy:1223
 translate english Samantha_9_label_569d8070:
@@ -3814,13 +3814,13 @@ translate english Samantha_9_label_b5b4a1a0:
 translate english Samantha_9_label_ba1c9b6c:
 
     # ch_Name "Depends on the question you're about to ask."
-    ch_Name ""
+    ch_Name "Depends on the favor you're about to ask."
 
 # game/logic/events/samantha.rpy:1227
 translate english Samantha_9_label_1cc1907a:
 
     # Samantha "Came on, I really need your help!"
-    Samantha ""
+    Samantha "Come on, I really need your help!"
 
 # game/logic/events/samantha.rpy:1228
 translate english Samantha_9_label_1116800d:
@@ -3832,7 +3832,7 @@ translate english Samantha_9_label_1116800d:
 translate english Samantha_9_label_1d6c7a8e:
 
     # ch_Name "Alright, what's happened?"
-    ch_Name ""
+    ch_Name "All right, what's happened?"
 
 # game/logic/events/samantha.rpy:1231
 translate english Samantha_9_label_a2bd60ed:
@@ -4018,7 +4018,7 @@ translate english Samantha_9_label_2ae07ed1:
 translate english Samantha_9_label_9ada3dc2:
 
     # Samantha "Remember how you used to massage me when I'd come over after dance?"
-    Samantha ""
+    Samantha Remember how you used to massage me when I'd come home after dance?""
 
 # game/logic/events/samantha.rpy:1277
 translate english Samantha_9_label_31d79bb4:
@@ -4042,7 +4042,7 @@ translate english Samantha_9_label_48b63af6:
 translate english Samantha_9_label_b246a8d4:
 
     # ch_Name "Do you want to have time to pick a look for your party or not?"
-    ch_Name ""
+    ch_Name "Time's ticking. Are you going to pick a look for your party or not?"
 
 # game/logic/events/samantha.rpy:1282
 translate english Samantha_9_label_0c2675b1:
@@ -4060,7 +4060,7 @@ translate english Samantha_9_label_d5c42596:
 translate english Samantha_9_label_256a1da0:
 
     # ch_Name "{i}(These games and those curves...){/i}"
-    ch_Name ""
+    ch_Name "{i}(These gams and those curves...){/i}"
 
 # game/logic/events/samantha.rpy:1286
 translate english Samantha_9_label_63850470:
@@ -4192,13 +4192,13 @@ translate english Samantha_9_label_00b5e4d9:
 translate english Samantha_9_label_820a9dff:
 
     # ch_Name "I couldn't believe I haven't seen you in stockings before!"
-    ch_Name ""
+    ch_Name "I can't believe I've never seen you in stockings before!"
 
 # game/logic/events/samantha.rpy:1318
 translate english Samantha_9_label_82832e5a:
 
     # ch_Name "You're looking so sexy!"
-    ch_Name ""
+    ch_Name "You look so sexy!"
 
 # game/logic/events/samantha.rpy:1319
 translate english Samantha_9_label_daa0c5ca:
@@ -4264,7 +4264,7 @@ translate english Samantha_9_label_7808c69b:
 translate english Samantha_9_label_7c3fe2d3:
 
     # Samantha "I just feel a little out of place all these days."
-    Samantha ""
+    Samantha "I just feel a little out of place all the time these days."
 
 # game/logic/events/samantha.rpy:1334
 translate english Samantha_9_label_5b1d4a2a:
@@ -4306,7 +4306,7 @@ translate english Samantha_9_label_72e1813c:
 translate english Samantha_9_label_88c064ce:
 
     # ch_Name "Okay, alright."
-    ch_Name ""
+    ch_Name "Okay, all right."
 
 # game/logic/events/samantha.rpy:1344
 translate english Samantha_9_label_706326c8:
@@ -4396,7 +4396,7 @@ translate english Samantha_9_label_03f3e5e7:
 translate english Samantha_9_label_cdb68cb1:
 
     # ch_Name "{i}(Maybe I've overstreached a little when I decided to run here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Maybe I've overreacted a little when I decided to run here.){/i}"
 
 # game/logic/events/samantha.rpy:1382
 translate english Samantha_10_label_75398644:
@@ -4420,13 +4420,13 @@ translate english Samantha_10_label_d64cb364:
 translate english Samantha_10_label_46eae234:
 
     # ch_Name "{i}(Maybe something has happened?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Maybe something happened?){/i}"
 
 # game/logic/events/samantha.rpy:1386
 translate english Samantha_10_label_31df792d:
 
     # ch_Name "{i}(I should go down and check it.){/i}"
-    ch_Name ""
+    ch_Name "{i}(I should go down and check it out.){/i}"
 
 # game/logic/events/samantha.rpy:1393
 translate english Samantha_10_label_ebd50d51:
@@ -4594,7 +4594,7 @@ translate english Samantha_10_label_from_gallery_d01a2285:
 translate english Samantha_10_label_from_gallery_7f4a8ecc:
 
     # ch_Name "I guessed that you're a good kisser..."
-    ch_Name ""
+    ch_Name "I guessed that you were a good kisser..."
 
 # game/logic/events/samantha.rpy:1446
 translate english Samantha_10_label_from_gallery_afe681cc:
@@ -4678,7 +4678,7 @@ translate english Samantha_10_label_from_gallery_3448f934:
 translate english Samantha_10_label_from_gallery_eb3462bb:
 
     # ch_Name "{i}(I can't believe this is not a dream...){/i}"
-    ch_Name ""
+    ch_Name "{i}(I can't believe this isn't a dream...){/i}"
 
 # game/logic/events/samantha.rpy:1463
 translate english Samantha_10_label_from_gallery_e8eb439f:
@@ -4912,7 +4912,7 @@ translate english Samantha_10_label_from_gallery_5226c5a2:
 translate english Samantha_10_label_from_gallery_a6e29e14:
 
     # Samantha "We're like a family!"
-    Samantha ""
+    Samantha "We're like family!"
 
 # game/logic/events/samantha.rpy:1523
 translate english Samantha_10_label_from_gallery_e2354f4c:
@@ -4936,7 +4936,7 @@ translate english Samantha_10_label_from_gallery_6b43cee3:
 translate english Samantha_10_label_from_gallery_d5af4596:
 
     # Samantha "Noo, thanks. I'm alright."
-    Samantha ""
+    Samantha "Noo, thanks. I'm all right."
 
 # game/logic/events/samantha.rpy:1528
 translate english Samantha_10_label_from_gallery_b5408835:
@@ -5080,7 +5080,7 @@ translate english Samantha_11_label_9d9b061c:
 translate english Samantha_11_label_2b4fb9b4:
 
     # Samantha "I was really chaotic!"
-    Samantha ""
+    Samantha "I was really out of control!"
 
 # game/logic/events/samantha.rpy:1575
 translate english Samantha_11_label_b7fece4c:
@@ -5122,7 +5122,7 @@ translate english Samantha_11_label_cbf34462:
 translate english Samantha_11_label_bd25037a:
 
     # ch_Name "{i}(Tries to act confidently, but I still can see she's nervous a little bit.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Trying to act confidently, but I still can see she's a little bit nervous.){/i}"
 
 # game/logic/events/samantha.rpy:1584
 translate english Samantha_11_label_96e4e071:
@@ -5368,7 +5368,7 @@ translate english Samantha_11_label_441bbc17:
 translate english Samantha_11_label_32049bf1:
 
     # Samantha "I absolutely hate when this happens!"
-    Samantha ""
+    Samantha "I absolutely hate it when this happens!"
 
 # game/logic/events/samantha.rpy:1635
 translate english Samantha_11_label_b538c453:
@@ -5410,7 +5410,7 @@ translate english Samantha_11_label_5b34e1f6:
 translate english Samantha_11_label_67a7bed9:
 
     # Samantha "It is the most popular magic competition. And only the cream of the crop take part."
-    Samantha ""
+    Samantha "It's the most popular magic competition. And only the cream of the crop take part."
 
 # game/logic/events/samantha.rpy:1644
 translate english Samantha_11_label_d41113d1:
@@ -5560,7 +5560,7 @@ translate english Samantha_11_label_198f009c:
 translate english Samantha_11_label_8cda3563:
 
     # ch_Name "It's easy just to repeat how impossible it is to take the victory and do nothing then."
-    ch_Name ""
+    ch_Name "It's easy just to repeat how impossible it is to take the victory and do nothing."
 
 # game/logic/events/samantha.rpy:1675
 translate english Samantha_11_label_9580467f:
