@@ -10,205 +10,205 @@ translate deutsch arthur_2_14969a9a:
 translate deutsch arthur_2_d007b8f0:
 
     # ch_Name "Hello?"
-    ch_Name ""
+    ch_Name "Hallo?"
 
 # game/logic/events/arthur_2.rpy:46
 translate deutsch arthur_2_9f954dd2:
 
     # Elijah "Yo, [Name]! Rise and shine!"
-    Elijah ""
+    Elijah "Yo, [Name]! Aufstehen!"
 
 # game/logic/events/arthur_2.rpy:47
 translate deutsch arthur_2_e990ff8f:
 
     # ch_Name "What the hell, Isn't it too early?"
-    ch_Name ""
+    ch_Name "Was zur Hölle! Ist es nicht viel zu früh?"
 
 # game/logic/events/arthur_2.rpy:48
 translate deutsch arthur_2_2485cfe9:
 
     # Elijah "If you don't want to miss the principal's speech, it's not."
-    Elijah ""
+    Elijah "Wenn du die Rede des Schulleiters nicht verpassen willst, dann ist es das nicht."
 
 # game/logic/events/arthur_2.rpy:50
 translate deutsch arthur_2_9257a1f9:
 
     # ch_Name "Shit. I'll be in the hall in a minute."
-    ch_Name ""
+    ch_Name "Scheiße. Ich bin in einer Minute im Flur."
 
 # game/logic/events/arthur_2.rpy:51
 translate deutsch arthur_2_c78a1ce3:
 
     # Elijah "Alright, I'm waiting for you."
-    Elijah ""
+    Elijah "Gut, ich werde auf dich warten."
 
 # game/logic/events/arthur_2.rpy:55
 translate deutsch arthur_2_36d985d4:
 
     # Arthur "Greetings, students!"
-    Arthur ""
+    Arthur "Herzlich willkommen, Studenten!"
 
 # game/logic/events/arthur_2.rpy:56
 translate deutsch arthur_2_310b1595:
 
     # Arthur "I'm sure you're wondering why I've gathered you all here today!"
-    Arthur ""
+    Arthur "Ihr fragt euch sicher, warum ich euch alle hier versammeln lassen habe!"
 
 # game/logic/events/arthur_2.rpy:58
 translate deutsch arthur_2_c7b1aca6:
 
     # Arthur "Every Saturday morning, we summarise the results of our traditional house tournament."
-    Arthur ""
+    Arthur "Jeden Samstagmorgen fassen wir die Ergebnisse unseres traditionellen Hausturniers zusammen."
 
 # game/logic/events/arthur_2.rpy:59
 translate deutsch arthur_2_6dfcc04f:
 
     # Arthur "In a few moments, we will announce the final results."
-    Arthur ""
+    Arthur "In wenigen Augenblicken werden wir die endgültigen Ergebnisse bekannt geben."
 
 # game/logic/events/arthur_2.rpy:61
 translate deutsch arthur_2_364f1bc9:
 
     # Arthur "But first, I'd like to speak on behalf of Сordale's council."
-    Arthur ""
+    Arthur "Doch zunächst möchte ich im Namen des Rates von Cordale sprechen."
 
 # game/logic/events/arthur_2.rpy:62
 translate deutsch arthur_2_bf0a70b2:
 
     # Arthur "We are incredibly proud of your dedication and hard work."
-    Arthur ""
+    Arthur "Wir sind unglaublich stolz auf euer Engagement und eure harte Arbeit."
 
 # game/logic/events/arthur_2.rpy:64
 translate deutsch arthur_2_e472d89a:
 
     # Arthur "Competition is, indeed, one of the keys to unlock your full potential."
-    Arthur ""
+    Arthur "Der Wettbewerb ist in der Tat einer der Schlüssel zur Entfaltung eures vollen Potenzials."
 
 # game/logic/events/arthur_2.rpy:65
 translate deutsch arthur_2_53fa4e38:
 
     # Arthur "By participating in it, you can show your diligence and strength."
-    Arthur ""
+    Arthur "Indem ihr euch daran beteiligt, könnt ihr euren Fleiß und eure Stärke unter Beweis stellen."
 
 # game/logic/events/arthur_2.rpy:66
 translate deutsch arthur_2_f6175ffb:
 
     # Arthur "We are happy to be a part of your winding path of discovering true power."
-    Arthur ""
+    Arthur "Wir freuen uns, ein Teil eures langen Weges zur Entdeckung eurer wahren Kraft zu sein."
 
 # game/logic/events/arthur_2.rpy:68
 translate deutsch arthur_2_c2bc33b6:
 
     # Arthur "We've calculated the total points for each House."
-    Arthur ""
+    Arthur "Wir haben die Gesamtpunktzahl für jedes Haus berechnet."
 
 # game/logic/events/arthur_2.rpy:78
 translate deutsch arthur_2_4d54c055:
 
     # Arthur "This week's winner house is {b}Leonheart{/b}!"
-    Arthur ""
+    Arthur "Das Gewinnerhaus dieser Woche ist {b}Leonheart{/b}!"
 
 # game/logic/events/arthur_2.rpy:80
 translate deutsch arthur_2_1f8bb2b6:
 
     # ch_Name "Yahoo! We won!"
-    ch_Name ""
+    ch_Name "Juhu! Wir haben gewonnen!"
 
 # game/logic/events/arthur_2.rpy:81
 translate deutsch arthur_2_9e7c23b9:
 
     # Elijah "Great job, everyone!"
-    Elijah ""
+    Elijah "Gute Arbeit, Leute!"
 
 # game/logic/events/arthur_2.rpy:83
 translate deutsch arthur_2_1c5cb8cc:
 
     # Arthur "Congratulations to Leonheart! The path to Dale is now open to you."
-    Arthur ""
+    Arthur "Herzlichen Glückwunsch an Leonheart! Der Weg nach Dale steht euch nun zur Verfügung."
 
 # game/logic/events/arthur_2.rpy:84
 translate deutsch arthur_2_bee80711:
 
     # Arthur "Each student from the winning house receives $50 allowance you can spend in Dale."
-    Arthur ""
+    Arthur "Jeder Student aus dem Gewinnerhaus erhält auch 50€ Taschengeld, welches man in Dale ausgeben kann."
 
 # game/logic/events/arthur_2.rpy:86
 translate deutsch arthur_2_b7455f8e:
 
     # Arthur "Please, seek assistance from Mister Frollo to get to the ship."
-    Arthur ""
+    Arthur "Um zum Schiff zu gelangen, fragt bitte Mister Frollo."
 
 # game/logic/events/arthur_2.rpy:88
 translate deutsch arthur_2_3f164f48:
 
     # Arthur "To all the other students who haven't won this week: try to keep up your spirits!"
-    Arthur ""
+    Arthur "An alle anderen Studentinnen und Studenten, welche diese Woche nicht gewonnen haben: Lasst euch nicht unterkriegen!"
 
 # game/logic/events/arthur_2.rpy:89
 translate deutsch arthur_2_087ce206:
 
     # Arthur "You will have a chance to visit Dale next time."
-    Arthur ""
+    Arthur "Ihr werdet das nächste Mal die Gelegenheit haben, Dale zu besuchen."
 
 # game/logic/events/arthur_2.rpy:90
 translate deutsch arthur_2_0dad76fb:
 
     # Arthur "All you need is to put more effort and win next week's competition!"
-    Arthur ""
+    Arthur "Ihr müsst euch nur noch mehr anstrengen und den Wettkampf nächste Woche gewinnen."
 
 # game/logic/events/arthur_2.rpy:92
 translate deutsch arthur_2_dfa6d1e8:
 
     # Arthur "Take care, everyone, and have a lovely weekend!"
-    Arthur ""
+    Arthur "Macht es gut und habt ein schönes Wochenende!"
 
 # game/logic/events/arthur_2.rpy:93
 translate deutsch arthur_2_cea9308a:
 
     # ch_Name "Well, that was informative."
-    ch_Name ""
+    ch_Name "Nun, das war informativ."
 
 # game/logic/events/arthur_2.rpy:94
 translate deutsch arthur_2_a70cde9c:
 
     # ch_Name "Now I need to find mister Frollo."
-    ch_Name ""
+    ch_Name "Jetzt muss ich nur Mister Frollo finden."
 
 # game/logic/events/arthur_2.rpy:100
 translate deutsch arthur_2_32_a7a4792e:
 
     # Arthur "This week's winner house is {b}[wins_house]{/b}!"
-    Arthur ""
+    Arthur "Das Gewinnerhaus dieser Woche ist {b}[wins_house]{/b}!"
 
 # game/logic/events/arthur_2.rpy:102
 translate deutsch arthur_2_32_a26c5366:
 
     # ch_Name "Crap, we've lost this week..."
-    ch_Name ""
+    ch_Name "Scheiße, wir haben diese Woche verloren..."
 
 # game/logic/events/arthur_2.rpy:103
 translate deutsch arthur_2_32_1838a81d:
 
     # Elijah "Never mind, there're plenty of weeks ahead of us to win once or twice."
-    Elijah ""
+    Elijah "Macht nichts. Es liegen noch viele Wochen vor uns, wo wir bestimmt ein- oder zweimal gewinnen werden."
 
 # game/logic/events/arthur_2.rpy:104
 translate deutsch arthur_2_32_d1098240:
 
     # ch_Name "You're not very optimistic about us."
-    ch_Name ""
+    ch_Name "Du bist aber nicht sehr optimistisch, was uns betrifft."
 
 # game/logic/events/arthur_2.rpy:106
 translate deutsch arthur_2_32_48a616a4:
 
     # Arthur "Congratulations to [wins_house]! The path to Dale is now open to you."
-    Arthur ""
+    Arthur "Herzlichen Glückwunsch an [wins_house]! Der Weg nach Dale steht euch nun zur Verfügung."
 
 # game/logic/events/arthur_2.rpy:107
 translate deutsch arthur_2_32_0d0cf108:
 
     # Arthur "After this meeting, please follow Mister Frollo."
-    Arthur ""
+    Arthur "Folgt nach dem Meeting bitte Mister Frollo."
 
 # game/logic/events/arthur_2.rpy:109
 translate deutsch arthur_2_32_36af6813:
