@@ -106,7 +106,7 @@ translate english arthur_2_c2bc33b6:
 translate english arthur_2_4d54c055:
 
     # Arthur "This week's winner house is {b}Leonheart{/b}!"
-    Arthur ""
+    Arthur "This week's winning House is {b}Leonheart{/b}!"
 
 # game/logic/events/arthur_2.rpy:80
 translate english arthur_2_1f8bb2b6:
@@ -172,13 +172,13 @@ translate english arthur_2_cea9308a:
 translate english arthur_2_a70cde9c:
 
     # ch_Name "Now I need to find mister Frollo."
-    ch_Name ""
+    ch_Name "Now I need to find Mister Frollo."
 
 # game/logic/events/arthur_2.rpy:100
 translate english arthur_2_32_a7a4792e:
 
     # Arthur "This week's winner house is {b}[wins_house]{/b}!"
-    Arthur ""
+    Arthur "This week's winning House is {b}[wins_house]{/b}!"
 
 # game/logic/events/arthur_2.rpy:102
 translate english arthur_2_32_a26c5366:
@@ -262,7 +262,7 @@ translate english arthur_2_0_36d985d4:
 translate english arthur_2_0_c32abc02:
 
     # Arthur "As usual, we're gathered you here to announce the results of our traditional house tournament."
-    Arthur ""
+    Arthur "As usual, we've gathered you here to announce the results of our traditional House Tournament."
 
 # game/logic/events/arthur_2.rpy:161
 translate english arthur_2_0_8e86b1c7:
@@ -340,7 +340,7 @@ translate english arthur_2_0_cea9308a:
 translate english arthur_2_0_acf8d85f:
 
     # ch_Name "Now I need to find mister Frollo"
-    ch_Name ""
+    ch_Name "Now I need to find Mister Frollo"
 
 # game/logic/events/arthur_2.rpy:219
 translate english arthur_2_0_18_4bae9686:
@@ -388,7 +388,7 @@ translate english arthur_2_3_7ff6c938:
 translate english arthur_2_3_40891a2c:
 
     # Jacob "All right, let's not stall!"
-    Jacob ""
+    Jacob "Alright, let's not stall!"
 
 # game/logic/events/arthur_2.rpy:254
 translate english arthur_2_3_cb71a21f:
@@ -436,7 +436,7 @@ translate english arthur_2_3_4e61651c:
 translate english arthur_2_3_c15f9a7d:
 
     # ch_Name "I'm sure there is."
-    ch_Name ""
+    ch_Name "I'm sure it does."
 
 # game/logic/events/arthur_2.rpy:265
 translate english arthur_2_3_2c528bbd:
@@ -502,7 +502,7 @@ translate english arthur_2_3_3591cbf9:
 translate english arthur_2_3_d6a72beb:
 
     # ch_Name "Wow, wow, this is beautiful!"
-    ch_Name ""
+    ch_Name "Wow! This is beautiful!"
 
 # game/logic/events/arthur_2.rpy:282
 translate english arthur_2_3_863d5fef:
@@ -706,7 +706,7 @@ translate english arthur_2_3_f3a662d1:
 translate english arthur_2_3_f374b3f7:
 
     # ch_Name "{i}(Wow, I've never been on the ship before.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wow, I've never been on a ship before.){/i}"
 
 # game/logic/events/arthur_2.rpy:327
 translate english arthur_2_3_0d8a9635:
@@ -730,7 +730,7 @@ translate english arthur_2_3_0ab39970:
 translate english arthur_2_3_95360302:
 
     # ch_Name "{i}(Who might've thought that a boat trip could be so picturesque.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Who would've thought that a boat trip could be so picturesque.){/i}"
 
 # game/logic/events/arthur_2.rpy:332
 translate english arthur_2_3_42a7bbc2:
@@ -820,13 +820,13 @@ translate english arthur_2_3_26210414:
 translate english arthur_2_3_4d99e310:
 
     # ch_Name "{i}(Why can't I move my arms and legs...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Why can't I move my arms and legs...?){/i}"
 
 # game/logic/events/arthur_2.rpy:354
 translate english arthur_2_3_2bde5603:
 
     # ch_Name "{i}(Something moving squeezes my body...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Something moving is squeezing my body...){/i}"
 
 # game/logic/events/arthur_2.rpy:356
 translate english arthur_2_3_3d590dc8:
@@ -844,7 +844,7 @@ translate english arthur_2_3_fa255266:
 translate english arthur_2_3_0261c977:
 
     # Katrina "That what I was waiting for."
-    Katrina ""
+    Katrina "This is what I've been waiting for."
 
 # game/logic/events/arthur_2.rpy:360
 translate english arthur_2_3_8700343a:
@@ -928,7 +928,7 @@ translate english arthur_2_3_1c257f4f:
 translate english arthur_2_3_fd3312e8:
 
     # Katrina "Because if I can get you from underworld..."
-    Katrina ""
+    Katrina "Because if I can get you from The Underworld..."
 
 # game/logic/events/arthur_2.rpy:377
 translate english arthur_2_3_d7e6f74a:
@@ -988,7 +988,7 @@ translate english arthur_2_3_ce7b0e67:
 translate english arthur_2_3_57a334e8:
 
     # Haley "You where dreaming... Was it a nightmare? "
-    Haley ""
+    Haley "You were dreaming... Was it a nightmare?"
 
 # game/logic/events/arthur_2.rpy:393
 translate english arthur_2_3_2ead44c8:
@@ -1018,7 +1018,7 @@ translate english arthur_2_3_bb62cf69:
 translate english arthur_2_3_d1a1f964:
 
     # Haley "It's captain's cabin. We took you here when you got sick."
-    Haley ""
+    Haley "In the Captain's cabin. We took you here when you got sick."
 
 # game/logic/events/arthur_2.rpy:399
 translate english arthur_2_3_3a5c7650:
@@ -1078,13 +1078,13 @@ translate english arthur_2_3_54e75ba9:
 translate english arthur_2_3_05f34be1:
 
     # Haley "Are you offering me a date?"
-    Haley ""
+    Haley "Are you asking me out on a date?"
 
 # game/logic/events/arthur_2.rpy:412
 translate english arthur_2_3_d7f5d57c:
 
     # ch_Name "I do not dare to stand between you and local library."
-    ch_Name ""
+    ch_Name "I don't dare to stand between you and the local library."
 
 # game/logic/events/arthur_2.rpy:413
 translate english arthur_2_3_f4f1bd13:
@@ -1108,7 +1108,7 @@ translate english arthur_2_3_27f9dca5:
 translate english arthur_2_3_6084ae42:
 
     # Haley "Then I'd better get out of a crime scene."
-    Haley ""
+    Haley "Then I'd better leave the crime scene."
 
 # game/logic/events/arthur_2.rpy:419
 translate english arthur_2_3_f63fdcff:
@@ -1162,7 +1162,7 @@ translate english arthur_2_3_adf707ea:
 translate english arthur_2_3_fc6b4958:
 
     # ch_Name "{i}(I'll think about crazy old witch inside of my mind later.){/i}"
-    ch_Name ""
+    ch_Name "{i}(I'll think about the crazy old witch inside of my mind later.){/i}"
 
 # game/logic/events/arthur_2.rpy:430
 translate english arthur_2_3_176569fa:
@@ -1192,7 +1192,7 @@ translate english arthur_2_5_34371a38:
 translate english arthur_2_5_9bb528c6:
 
     # ch_Name "Do you know yet?"
-    ch_Name ""
+    ch_Name "You heard about what happened?"
 
 # game/logic/events/arthur_2.rpy:485
 translate english arthur_2_5_42bca763:
@@ -1222,7 +1222,7 @@ translate english arthur_2_5_bfd9816e:
 translate english arthur_2_5_6431c90f:
 
     # Elijah "I'm just going into town to give you a mini tour?"
-    Elijah ""
+    Elijah "I'm going to give a tour of Dale, you in?"
 
 # game/logic/events/arthur_2.rpy:495
 translate english arthur_2_5_05a537ad:
@@ -1234,7 +1234,7 @@ translate english arthur_2_5_05a537ad:
 translate english arthur_2_5_d1fcfa84:
 
     # Elijah "There you go. Well, it's up to you."
-    Elijah ""
+    Elijah "Your call, [Name]"
 
 # game/logic/events/arthur_2.rpy:498
 translate english arthur_2_5_4845c0f2:
@@ -1372,7 +1372,7 @@ translate english arthur_2_5_9fb9135b:
 translate english arthur_2_5_0ff62b56:
 
     # Elijah "It's a local store. It's mostly just stuff, but they bring in everything on request."
-    Elijah ""
+    Elijah "It's a local store. They have all kinds of stuff, but they bring in everything on request."
 
 # game/logic/events/arthur_2.rpy:545
 translate english arthur_2_5_273da471:
@@ -1432,7 +1432,7 @@ translate english arthur_2_5_7b339b58:
 translate english arthur_2_5_ceff46fd:
 
     # ch_Name "You're a good headman."
-    ch_Name ""
+    ch_Name "You're a good Head of the House"
 
 # game/logic/events/arthur_2.rpy:558
 translate english arthur_2_5_95eca2c7:
@@ -1486,7 +1486,7 @@ translate english arthur_2_5_5ebfede2:
 translate english arthur_2_5_2cf85384:
 
     # ch_Name "Thank you so much again."
-    ch_Name ""
+    ch_Name "Thanks again."
 
 # game/logic/events/arthur_2.rpy:572
 translate english arthur_2_5_bc2335e9:
@@ -1540,7 +1540,7 @@ translate english arthur_2_5_ffb89690:
 translate english arthur_2_5_edf1a719:
 
     # Elijah "I highly suggest you check out Sadira's. It's... unforgettable."
-    Elijah ""
+    Elijah "I highly suggest you check out Sadira. She's... unforgettable."
 
 # game/logic/events/arthur_2.rpy:585
 translate english arthur_2_5_8b8fbc30:
