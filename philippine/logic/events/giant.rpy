@@ -400,217 +400,217 @@ translate philippine giant_1_label_7bbf7244:
 translate philippine giant_1_label_23617545:
 
     # ch_Name "{i}(That was pretty weird...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ano ba ang nangyari?){/i}"
 
 # game/logic/events/giant.rpy:143
 translate philippine giant_1_label_5d0ef032:
 
     # ch_Name "{i}(I've had enough adventures for one night. Gonna sleep it off.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sapat na ito para sa aking pakikipagsapalaram ngayong gabi. Matutulog na ako.){/i}"
 
 # game/logic/events/giant.rpy:158
 translate philippine Giant_2_label_3637bde0:
 
     # ch_Name "{i}(Sabrina seems to be in good spirits.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parang masaya si Sabrina.){/i}"
 
 # game/logic/events/giant.rpy:159
 translate philippine Giant_2_label_3e938d2c:
 
     # ch_Name "{i}(Now would be an excellent time to inquire about a potion for that giant in town.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mabuti na itong panahon para humingi ng potion para sa higante sa Dale.){/i}"
 
 # game/logic/events/giant.rpy:160
 translate philippine Giant_2_label_1a458728:
 
     # ch_Name "Miss Spellman, may I address you?"
-    ch_Name ""
+    ch_Name "Ms. Spellman, pwede bang magtanong sa iyo?"
 
 # game/logic/events/giant.rpy:162
 translate philippine Giant_2_label_91afc8d1:
 
     # Sabrina "Of course, [Name]!"
-    Sabrina ""
+    Sabrina "Siyempre, [Name]!"
 
 # game/logic/events/giant.rpy:163
 translate philippine Giant_2_label_4e3f09bb:
 
     # Sabrina "But feel free to ask questions in class too, okay?"
-    Sabrina ""
+    Sabrina "Pero huwag kang mahiyang magtanong sa klase, okay?"
 
 # game/logic/events/giant.rpy:164
 translate philippine Giant_2_label_f2ca5068:
 
     # ch_Name "I wasn't embarrassed."
-    ch_Name ""
+    ch_Name "Hindi ako nahihiya."
 
 # game/logic/events/giant.rpy:165
 translate philippine Giant_2_label_f96ffb9e:
 
     # ch_Name "It's just not about studying."
-    ch_Name ""
+    ch_Name "Pero hindi ito tungkol sa klase natin."
 
 # game/logic/events/giant.rpy:166
 translate philippine Giant_2_label_44d2a5d6:
 
     # ch_Name "It's more about magical creatures."
-    ch_Name ""
+    ch_Name "Tungkol naman sa mga mahikang hayop ang tanong ko."
 
 # game/logic/events/giant.rpy:168
 translate philippine Giant_2_label_e7ac2dff:
 
     # Sabrina "Creatures?"
-    Sabrina ""
+    Sabrina "Hayop?"
 
 # game/logic/events/giant.rpy:169
 translate philippine Giant_2_label_1d20dfde:
 
     # ch_Name "I recently came across a strange giant in Dale."
-    ch_Name ""
+    ch_Name "May nakita ako na nakakaibang higante sa Dale."
 
 # game/logic/events/giant.rpy:170
 translate philippine Giant_2_label_c054f392:
 
     # Sabrina "A giant? You intrigue me."
-    Sabrina ""
+    Sabrina "Higante? Ano pa?"
 
 # game/logic/events/giant.rpy:171
 translate philippine Giant_2_label_5ea8eb34:
 
     # Sabrina "And what would you like to know about it?"
-    Sabrina ""
+    Sabrina "At ano ang gusto mo malaman?"
 
 # game/logic/events/giant.rpy:173
 translate philippine Giant_2_label_c6d0cfa3:
 
     # ch_Name "You wouldn't happen to have a curse-relieving potion, would you?"
-    ch_Name ""
+    ch_Name "May curse-relieving potion ka ba?"
 
 # game/logic/events/giant.rpy:174
 translate philippine Giant_2_label_92bf47e4:
 
     # Sabrina "You're running ahead of the course, [Name]."
-    Sabrina ""
+    Sabrina "Nauna ka sa mga kurso mo, [Name]."
 
 # game/logic/events/giant.rpy:175
 translate philippine Giant_2_label_29c252f3:
 
     # Sabrina "You won't be studying it until the end of the school year."
-    Sabrina ""
+    Sabrina "Pag-aaralan mo 'yan sa dulo ng taon."
 
 # game/logic/events/giant.rpy:177
 translate philippine Giant_2_label_969a581a:
 
     # Sabrina "Why would you want to do that?"
-    Sabrina ""
+    Sabrina "Bakit gusto mo ang potion na 'yan?"
 
 # game/logic/events/giant.rpy:178
 translate philippine Giant_2_label_b4c39f7b:
 
     # Sabrina "You haven't cursed anyone, have you?"
-    Sabrina ""
+    Sabrina "May sinumpa ka ba?"
 
 # game/logic/events/giant.rpy:179
 translate philippine Giant_2_label_421f7484:
 
     # ch_Name "No, that's... It's not for me."
-    ch_Name ""
+    ch_Name "Hindi, para... Hindi para sa akin."
 
 # game/logic/events/giant.rpy:180
 translate philippine Giant_2_label_7c52f3ae:
 
     # Sabrina "Who's it for?"
-    Sabrina ""
+    Sabrina "Para kanino?"
 
 # game/logic/events/giant.rpy:181
 translate philippine Giant_2_label_22ee6288:
 
     # ch_Name "Oh, it's a strange story..."
-    ch_Name ""
+    ch_Name "Hindi mo maniniwalaan ang kuwentong ito..."
 
 # game/logic/events/giant.rpy:183
 translate philippine Giant_2_label_ef599765:
 
     # Sabrina "All the more interesting. Spit it out."
-    Sabrina ""
+    Sabrina "Sabihin mo na nga."
 
 # game/logic/events/giant.rpy:184
 translate philippine Giant_2_label_433b5c01:
 
     # ch_Name "One drawl in Dale, some ugly giant in rags came at me."
-    ch_Name ""
+    ch_Name "May higante na nag-usap sa akin."
 
 # game/logic/events/giant.rpy:185
 translate philippine Giant_2_label_839e70ec:
 
     # ch_Name "He was begging for a potion to break the curse."
-    ch_Name ""
+    ch_Name "Humingi siya ng potion para matanggal ang sumpa sa kanya."
 
 # game/logic/events/giant.rpy:186
 translate philippine Giant_2_label_351719e2:
 
     # Sabrina "Um... Anything else?"
-    Sabrina ""
+    Sabrina "Um... meron pa ba?"
 
 # game/logic/events/giant.rpy:187
 translate philippine Giant_2_label_70206e65:
 
     # ch_Name "He spoke your name..."
-    ch_Name ""
+    ch_Name "Sinabi niya ang pangalan mo..."
 
 # game/logic/events/giant.rpy:188
 translate philippine Giant_2_label_08e0b55d:
 
     # ch_Name "Unintelligible, but I got it..."
-    ch_Name ""
+    ch_Name "Mahirap maintindihan ang sinasabi niya..."
 
 # game/logic/events/giant.rpy:190
 translate philippine Giant_2_label_a4dba615:
 
     # Sabrina "HMM... My name?"
-    Sabrina ""
+    Sabrina "HMMM... Pangalan ko?"
 
 # game/logic/events/giant.rpy:191
 translate philippine Giant_2_label_5bd55916:
 
     # Sabrina "I wonder how he knows it..."
-    Sabrina ""
+    Sabrina "Bakit niya alam ang pangalan ko..."
 
 # game/logic/events/giant.rpy:192
 translate philippine Giant_2_label_8fdc573d:
 
     # Sabrina "Could it be him?.. No, nonsense!"
-    Sabrina ""
+    Sabrina "Siya nga ba?... Hindi, imposible!"
 
 # game/logic/events/giant.rpy:193
 translate philippine Giant_2_label_2444346b:
 
     # ch_Name "{i}(I wonder who she's talking about?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sino ba ang \"siya\"?){/i}"
 
 # game/logic/events/giant.rpy:195
 translate philippine Giant_2_label_7acde20c:
 
     # Sabrina "We need to be sure. I'll give you the right potion."
-    Sabrina ""
+    Sabrina "Dapat sigurado tayo. Ibibigay ko sa iyo ang potion."
 
 # game/logic/events/giant.rpy:196
 translate philippine Giant_2_label_e2b2ff66:
 
     # ch_Name "You will?"
-    ch_Name ""
+    ch_Name "Talaga?"
 
 # game/logic/events/giant.rpy:197
 translate philippine Giant_2_label_e26e6f8a:
 
     # Sabrina "Of course, I will. But only on the condition that you tell me everything."
-    Sabrina ""
+    Sabrina "Talaga. Pero dapat sasabihin mo sa akin ang lahat."
 
 # game/logic/events/giant.rpy:198
 translate philippine Giant_2_label_a689c1e0:
 
     # Sabrina "I'll just take a second to see if there are any potions ready."
-    Sabrina ""
+    Sabrina "Tignan ko lang kung may potion na ako na nahanda."
 
 # game/logic/events/giant.rpy:199
 translate philippine Giant_2_label_41544636:
@@ -622,43 +622,43 @@ translate philippine Giant_2_label_41544636:
 translate philippine Giant_2_label_846971fa:
 
     # Sabrina "Oh, of course, there it is!"
-    Sabrina ""
+    Sabrina "Siyempre, ito pala!"
 
 # game/logic/events/giant.rpy:202
 translate philippine Giant_2_label_bffa0bca:
 
     # Sabrina "How could I miss it?"
-    Sabrina ""
+    Sabrina "Bakit hindi ko nakita?"
 
 # game/logic/events/giant.rpy:204
 translate philippine Giant_2_label_6dd3d436:
 
     # Sabrina "Here you go."
-    Sabrina ""
+    Sabrina "Heto!"
 
 # game/logic/events/giant.rpy:205
 translate philippine Giant_2_label_3ab59d17:
 
     # ch_Name "Thank you, Miss Spellman."
-    ch_Name ""
+    ch_Name "Salamat, Ms. Spellman."
 
 # game/logic/events/giant.rpy:206
 translate philippine Giant_2_label_6ba3d9b7:
 
     # ch_Name "I knew I could count on you."
-    ch_Name ""
+    ch_Name "Matitiwalaan ka talaga."
 
 # game/logic/events/giant.rpy:207
 translate philippine Giant_2_label_09922e76:
 
     # Sabrina "I hope it helps that giant you were talking about."
-    Sabrina ""
+    Sabrina "Sana matutulungan mo ang higante sa sinasabi mo."
 
 # game/logic/events/giant.rpy:209
 translate philippine Giant_2_label_ca939a29:
 
     # ch_Name "So do I. I have to run, thank you."
-    ch_Name ""
+    ch_Name "Oo. Aalis na ako, salamat."
 
 # game/logic/events/giant.rpy:210
 translate philippine Giant_2_label_8deaf9fc:
@@ -670,47 +670,47 @@ translate philippine Giant_2_label_8deaf9fc:
 translate philippine Giant_2_label_b66c15ab:
 
     # ch_Name "{i}(Alright, that's it for today with lessons. Now I'm free.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tapos na ang mga klase ko ngayon.){/i}"
 
 # game/logic/events/giant.rpy:214
 translate philippine Giant_2_label_73109193:
 
     # ch_Name "{i}(I should probably get Elijah his nectar. He's waiting for it.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Siguro kunin ko ang nectar ni Elijah. Naghihintay siya.){/i}"
 
 # game/logic/events/giant.rpy:219
 translate philippine Giant_2_label_3a0d59fa:
 
     # ch_Name "{i}(He's always somewhere around here in the evening...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nandito naman siya kapag gabi na.){/i}"
 
 # game/logic/events/giant.rpy:221
 translate philippine Giant_2_label_260c6984:
 
     # ch_Name "{i}(Here he is!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ayan!){/i}"
 
 # game/logic/events/giant.rpy:222
 translate philippine Giant_2_label_47fc0b1c:
 
     # ch_Name "{i}(It looks like he's been waiting for me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parang naghintay siya para sa akin.){/i}"
 
 translate philippine strings:
 
     # game/logic/events/giant.rpy:11
     old "0 Come closer"
-    new ""
+    new "0 Lumapit"
 
     # game/logic/events/giant.rpy:11
     old "Stay away"
-    new ""
+    new "Lumayo"
 
     # game/logic/events/giant.rpy:83
     old "Say you'll help"
-    new ""
+    new "Tulungan siya"
 
     # game/logic/events/giant.rpy:83
     old "Don't help"
-    new ""
+    new "Huwag tumulong"
 
