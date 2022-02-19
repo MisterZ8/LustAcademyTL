@@ -4840,247 +4840,247 @@ translate brazilian vip_sadira_1_label_2_a90d3870:
 translate brazilian vip_sadira_1_label_2_2a57d80a:
 
     # ch_Name "{i}(But I can feel her head greedily thrusting on my cock.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas consigo sentir sua cabeça gulosamente bombeando meu pau.){/i}"
 
 # game/logic/events/adele.rpy:1525
 translate brazilian vip_sadira_1_label_2_5252dbd6:
 
     # ch_Name "{i}(Crazy...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Louco...){/i}"
 
 # game/logic/events/adele.rpy:1526
 translate brazilian vip_sadira_1_label_2_5d9efeb9:
 
     # ch_Name "Good girl..."
-    ch_Name ""
+    ch_Name "Boa menina..."
 
 # game/logic/events/adele.rpy:1528
 translate brazilian vip_sadira_1_label_2_c40077d3:
 
     # ch_Name "I'm all..."
-    ch_Name ""
+    ch_Name "Estou todo..."
 
 # game/logic/events/adele.rpy:1529
 translate brazilian vip_sadira_1_label_2_bbf8a1e4:
 
     # Sadira "I noticed."
-    Sadira ""
+    Sadira "Notei."
 
 # game/logic/events/adele.rpy:1536
 translate brazilian vip_sadira_1_label_2_fd37d9d3:
 
     # ch_Name "I think you did spill a few drops."
-    ch_Name ""
+    ch_Name "Acho que você deixou cair algumas gotas."
 
 # game/logic/events/adele.rpy:1537
 translate brazilian vip_sadira_1_label_2_3948569b:
 
     # ch_Name "Your face is all messed up."
-    ch_Name ""
+    ch_Name "Seu rosto está todo melado."
 
 # game/logic/events/adele.rpy:1538
 translate brazilian vip_sadira_1_label_2_2ab14bc2:
 
     # Sadira "That's for dessert."
-    Sadira ""
+    Sadira "Isso é sobremesa."
 
 # game/logic/events/adele.rpy:1540
 translate brazilian vip_sadira_1_label_2_8a732084:
 
     # Sadira "You were great."
-    Sadira ""
+    Sadira "Você foi ótimo."
 
 # game/logic/events/adele.rpy:1541
 translate brazilian vip_sadira_1_label_2_9fab1f49:
 
     # ch_Name "We should do it again sometime."
-    ch_Name ""
+    ch_Name "Devíamos repetir isso outra hora."
 
 # game/logic/events/adele.rpy:1542
 translate brazilian vip_sadira_1_label_2_5939d53d:
 
     # Sadira "We will if you want us to, my lion."
-    Sadira ""
+    Sadira "Vamos, se você quiser, meu leão."
 
 # game/logic/events/adele.rpy:1543
 translate brazilian vip_sadira_1_label_2_ae5ffc39:
 
     # Sadira "See you soon!"
-    Sadira ""
+    Sadira "Até breve!"
 
 # game/logic/events/adele.rpy:1545
 translate brazilian vip_sadira_1_label_2_302b9f0f_1:
 
     # ch_Name "{i}(Oh, her dark nipples are driving me crazy.){/i}"
-    ch_Name ""
+    ch_Name "{i}Ah, seus mamilos escuros estão me enlouquecendo.{/i}"
 
 # game/logic/events/adele.rpy:1546
 translate brazilian vip_sadira_1_label_2_aeea9498_1:
 
     # Sadira "Are you ready, my lion?"
-    Sadira ""
+    Sadira "Está pronto, me leão?"
 
 # game/logic/events/adele.rpy:1547
 translate brazilian vip_sadira_1_label_2_4795e70d_1:
 
     # ch_Name "Can't you see? I'm on the edge!"
-    ch_Name ""
+    ch_Name "Não percebe? Estou no limite!"
 
 # game/logic/events/adele.rpy:1549
 translate brazilian vip_sadira_1_label_2_7a84473f_1:
 
     # ch_Name "{i}(She's probably so playful with all her clients...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela deve ser brincalhona com todos os clientes...){/i}"
 
 # game/logic/events/adele.rpy:1550
 translate brazilian vip_sadira_1_label_2_b417c859_1:
 
     # ch_Name "{i}(But I still can't contain my lust when I look at her body.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas não consigo conter minha luxúria quando olho para seu corpo.){/i}"
 
 # game/logic/events/adele.rpy:1551
 translate brazilian vip_sadira_1_label_2_208ccced_1:
 
     # ch_Name "{i}(I can't wait for her chubby lips to wrap around my cock...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mal posso esperar por seus lábios cheios enroscando meu pau...){/i}"
 
 # game/logic/events/adele.rpy:1553
 translate brazilian vip_sadira_1_label_2_08cb1794_1:
 
     # Sadira "Oh, my lion, I can see how you're waiting for it!"
-    Sadira ""
+    Sadira "Ah, meu leão, posso ver o quanto você esperava por isso!"
 
 # game/logic/events/adele.rpy:1554
 translate brazilian vip_sadira_1_label_2_4f5f4c9f_1:
 
     # Sadira "Your poor cock will burst with tension if I don't start now."
-    Sadira ""
+    Sadira "Sua pobre rola vai explodir de tensão se eu não começar logo."
 
 # game/logic/events/adele.rpy:1555
 translate brazilian vip_sadira_1_label_2_8fa258af_1:
 
     # Sadira "It's been a long time since I've seen such an imposing device."
-    Sadira ""
+    Sadira "Tem muito tempo que eu não vejo uma ferramenta tão imponente."
 
 # game/logic/events/adele.rpy:1557
 translate brazilian vip_sadira_1_label_2_738f282a_1:
 
     # ch_Name "So what are you waiting for? Come here!"
-    ch_Name ""
+    ch_Name "Então o que está esperando? Venha cá!"
 
 # game/logic/events/adele.rpy:1558
 translate brazilian vip_sadira_1_label_2_cda7d776_1:
 
     # Sadira "You're so impatient..."
-    Sadira ""
+    Sadira "Você é tão impaciente..."
 
 # game/logic/events/adele.rpy:1559
 translate brazilian vip_sadira_1_label_2_45179a88_1:
 
     # Sadira "Didn't I tell you that waiting is the best part of the process?"
-    Sadira ""
+    Sadira "Eu não lhe disse que a espera é a melhor parte do processo?"
 
 # game/logic/events/adele.rpy:1560
 translate brazilian vip_sadira_1_label_2_c7a074a4_1:
 
     # Sadira "Soon, we'll start..."
-    Sadira ""
+    Sadira "Logo vamos começar..."
 
 # game/logic/events/adele.rpy:1562
 translate brazilian vip_sadira_1_label_2_f63c1e21_1:
 
     # ch_Name "Maybe so, but I've waited long enough!"
-    ch_Name ""
+    ch_Name "Pode ser, mas eu já esperei demais!"
 
 # game/logic/events/adele.rpy:1563
 translate brazilian vip_sadira_1_label_2_64119992_1:
 
     # ch_Name "Your luscious forms are driving me crazy."
-    ch_Name ""
+    ch_Name "Suas curvas voluptuosas estão me deixando louco."
 
 # game/logic/events/adele.rpy:1565
 translate brazilian vip_sadira_1_label_2_03c5e686_1:
 
     # Sadira "Good. So go crazy."
-    Sadira ""
+    Sadira "Bom. Estão enlouqueça."
 
 # game/logic/events/adele.rpy:1566
 translate brazilian vip_sadira_1_label_2_0f84116e_1:
 
     # ch_Name "Do I pay you for your torment?"
-    ch_Name ""
+    ch_Name "Estou lhe pagando por seu tormento?"
 
 # game/logic/events/adele.rpy:1567
 translate brazilian vip_sadira_1_label_2_cf6f5250_1:
 
     # Sadira "You're paying me for an unforgettable experience."
-    Sadira ""
+    Sadira "Você está me pagando por uma experiência inesquecível."
 
 # game/logic/events/adele.rpy:1569
 translate brazilian vip_sadira_1_label_2_95e4d8ed:
 
     # ch_Name "{i}(Oh yeah, I'm already anticipating how tender her ass is.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ah, sim, já estou antecipando a maciez de sua bunda.){/i}"
 
 # game/logic/events/adele.rpy:1570
 translate brazilian vip_sadira_1_label_2_5fabf729_1:
 
     # ch_Name "{i}(The day will come when I fuck her good.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ainda virá o dia que vou foder ela com gosto.){i}"
 
 # game/logic/events/adele.rpy:1571
 translate brazilian vip_sadira_1_label_2_359f73ab:
 
     # ch_Name "{i}(But tonight, my dick's gonna be busy with another asshole.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas, hoje a noite, meu pau estará ocupado com outro rabo.){/i}"
 
 # game/logic/events/adele.rpy:1573
 translate brazilian vip_sadira_1_label_2_12059ab5_1:
 
     # Sadira "And that's part of it."
-    Sadira ""
+    Sadira "E é parte dela."
 
 # game/logic/events/adele.rpy:1574
 translate brazilian vip_sadira_1_label_2_f261fb7f_1:
 
     # Sadira "And now, the second part will begin..."
-    Sadira ""
+    Sadira "E agora, a segunda parte irá começar..."
 
 # game/logic/events/adele.rpy:1575
 translate brazilian vip_sadira_1_label_2_f2cedac4_1:
 
     # ch_Name "Come here!"
-    ch_Name ""
+    ch_Name "Venha cá!"
 
 # game/logic/events/adele.rpy:1582
 translate brazilian vip_sadira_1_label_2_c7e538b5:
 
     # ch_Name "{i}(Mmm, just as I thought, she's all excited about it.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mmm, como imaginei, ela está toda excitada com isso.){/i}"
 
 # game/logic/events/adele.rpy:1583
 translate brazilian vip_sadira_1_label_2_3784bb76_1:
 
     # ch_Name "{i}(I can feel her hand firmly gripping my cock...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Posso sentir sua mão segurando meu pau com firmeza...){/i}"
 
 # game/logic/events/adele.rpy:1584
 translate brazilian vip_sadira_1_label_2_791b42aa:
 
     # Sadira "Oh... Wow, it's even bigger than I thought."
-    Sadira ""
+    Sadira "Oh... Uau, é ainda maior do que eu imaginei."
 
 # game/logic/events/adele.rpy:1585
 translate brazilian vip_sadira_1_label_2_c2970a35_1:
 
     # Sadira "I hope it fits in my mouth."
-    Sadira ""
+    Sadira "Espero que caiba na minha boca."
 
 # game/logic/events/adele.rpy:1587
 translate brazilian vip_sadira_1_label_2_e58626bd_1:
 
     # ch_Name "And you try it!"
-    ch_Name ""
+    ch_Name "Então experimente!"
 
 # game/logic/events/adele.rpy:1589
 translate brazilian vip_sadira_1_label_2_eee686cf_3:
@@ -5104,13 +5104,13 @@ translate brazilian vip_sadira_1_label_2_499b0243_3:
 translate brazilian vip_sadira_1_label_2_4877ae20_1:
 
     # ch_Name "Oh, yeah, that's it..."
-    ch_Name ""
+    ch_Name "Ah, isso, assim..."
 
 # game/logic/events/adele.rpy:1593
 translate brazilian vip_sadira_1_label_2_da8043f2_1:
 
     # ch_Name "Keep going, baby!"
-    ch_Name ""
+    ch_Name "Continue, querida!"
 
 # game/logic/events/adele.rpy:1595
 translate brazilian vip_sadira_1_label_2_51ffa327_1:
@@ -5128,7 +5128,7 @@ translate brazilian vip_sadira_1_label_2_0ae9bcd0_9:
 translate brazilian vip_sadira_1_label_2_21ea4090_1:
 
     # Sadira "You don't stop either..."
-    Sadira ""
+    Sadira "Você não pare, também..."
 
 # game/logic/events/adele.rpy:1598
 translate brazilian vip_sadira_1_label_2_34279e0c_1:
@@ -5158,25 +5158,25 @@ translate brazilian vip_sadira_1_label_2_0ae9bcd0_10:
 translate brazilian vip_sadira_1_label_2_35b7dba8_1:
 
     # ch_Name "{i}(I don't think I've learned how to use my tongue yet.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu acho que ainda não aprendi a usar minha língua direito.){/i}"
 
 # game/logic/events/adele.rpy:1604
 translate brazilian vip_sadira_1_label_2_b732c533_1:
 
     # ch_Name "{i}(But she's a master of her craft, too.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas ela é mestra no assunto, tambám.){/i}"
 
 # game/logic/events/adele.rpy:1605
 translate brazilian vip_sadira_1_label_2_42ace6ff_1:
 
     # ch_Name "{i}(It's time to see if she can suck just as hard.){/i}"
-    ch_Name ""
+    ch_Name "{i}(É hora de saber se ela pode chupar tão forte assim.){/i}"
 
 # game/logic/events/adele.rpy:1607
 translate brazilian vip_sadira_1_label_2_3f8f5693_1:
 
     # ch_Name "Hey, baby!"
-    ch_Name ""
+    ch_Name "Ei, querida!"
 
 # game/logic/events/adele.rpy:1608
 translate brazilian vip_sadira_1_label_2_caeeb467_1:
@@ -5188,13 +5188,13 @@ translate brazilian vip_sadira_1_label_2_caeeb467_1:
 translate brazilian vip_sadira_1_label_2_3368d128_1:
 
     # ch_Name "I can't wait any longer."
-    ch_Name ""
+    ch_Name "Eu não posso esperar mais."
 
 # game/logic/events/adele.rpy:1610
 translate brazilian vip_sadira_1_label_2_53a55501_1:
 
     # ch_Name "Start sucking!"
-    ch_Name ""
+    ch_Name "Comece a chupar!"
 
 # game/logic/events/adele.rpy:1612
 translate brazilian vip_sadira_1_label_2_177d347c_1:
@@ -5206,7 +5206,7 @@ translate brazilian vip_sadira_1_label_2_177d347c_1:
 translate brazilian vip_sadira_1_label_2_ce4141bd:
 
     # ch_Name "Oh, yeah, that's it, keep going!"
-    ch_Name ""
+    ch_Name "Ah, isso, assim, continue!"
 
 # game/logic/events/adele.rpy:1615
 translate brazilian vip_sadira_1_label_2_0ae9bcd0_11:
@@ -5230,13 +5230,13 @@ translate brazilian vip_sadira_1_label_2_ca543b57_2:
 translate brazilian vip_sadira_1_label_2_b446dd7a_1:
 
     # ch_Name "{i}(I have to keep up, too.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu tenho que corresponder, também){/i}"
 
 # game/logic/events/adele.rpy:1620
 translate brazilian vip_sadira_1_label_2_06929019_2:
 
     # Sadira "Ah! Oh, yes..."
-    Sadira ""
+    Sadira "Ah! Isso mesmo..."
 
 # game/logic/events/adele.rpy:1621
 translate brazilian vip_sadira_1_label_2_0ae9bcd0_12:
@@ -5248,13 +5248,13 @@ translate brazilian vip_sadira_1_label_2_0ae9bcd0_12:
 translate brazilian vip_sadira_1_label_2_3dd2f4a1_1:
 
     # ch_Name "{i}(She obviously likes my efforts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(ela está, obviamente, gostando do meu trabalho.){/i}"
 
 # game/logic/events/adele.rpy:1623
 translate brazilian vip_sadira_1_label_2_dfc928ff_1:
 
     # ch_Name "{i}(This makes her suck even harder.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Isso faz ela chupar ainda mais forte.){/i}"
 
 # game/logic/events/adele.rpy:1624
 translate brazilian vip_sadira_1_label_2_ca543b57_3:
@@ -5266,7 +5266,7 @@ translate brazilian vip_sadira_1_label_2_ca543b57_3:
 translate brazilian vip_sadira_1_label_2_3e401e8d_1:
 
     # ch_Name "{i}(Unbelievable...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Inacreditável...){/i}"
 
 # game/logic/events/adele.rpy:1627
 translate brazilian vip_sadira_1_label_2_0ae9bcd0_13:
@@ -5278,7 +5278,7 @@ translate brazilian vip_sadira_1_label_2_0ae9bcd0_13:
 translate brazilian vip_sadira_1_label_2_06929019_3:
 
     # Sadira "Ah! Oh, yes..."
-    Sadira ""
+    Sadira "Ah! Isso, assim..."
 
 # game/logic/events/adele.rpy:1629
 translate brazilian vip_sadira_1_label_2_6394ed59_1:
@@ -5290,7 +5290,7 @@ translate brazilian vip_sadira_1_label_2_6394ed59_1:
 translate brazilian vip_sadira_1_label_2_0681017a_1:
 
     # ch_Name "{i}(It's worth the money, that's for sure...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vale o dinheiro, com certeza...){/i}"
 
 # game/logic/events/adele.rpy:1632
 translate brazilian vip_sadira_1_label_2_0a11198e_2:
@@ -5308,25 +5308,25 @@ translate brazilian vip_sadira_1_label_2_0ae9bcd0_14:
 translate brazilian vip_sadira_1_label_2_51eb371d_1:
 
     # ch_Name "Oh, yeah..."
-    ch_Name ""
+    ch_Name "Ah, isso..."
 
 # game/logic/events/adele.rpy:1635
 translate brazilian vip_sadira_1_label_2_304273ff_1:
 
     # ch_Name "Keep it up, baby."
-    ch_Name ""
+    ch_Name "Continue, querida."
 
 # game/logic/events/adele.rpy:1636
 translate brazilian vip_sadira_1_label_2_033c830d_1:
 
     # ch_Name "That's great..."
-    ch_Name ""
+    ch_Name "Está ótimo..."
 
 # game/logic/events/adele.rpy:1637
 translate brazilian vip_sadira_1_label_2_5da7d200_1:
 
     # Sadira "Less words, more action, my lion!"
-    Sadira ""
+    Sadira "Menos conversa, mais ação, me leão!"
 
 # game/logic/events/adele.rpy:1638
 translate brazilian vip_sadira_1_label_2_730d2dfc_1:
@@ -5338,7 +5338,7 @@ translate brazilian vip_sadira_1_label_2_730d2dfc_1:
 translate brazilian vip_sadira_1_label_2_f4aff513:
 
     # Sadira "Ah! Oh, yeah..."
-    Sadira ""
+    Sadira "Ah! Isso..."
 
 # game/logic/events/adele.rpy:1641
 translate brazilian vip_sadira_1_label_2_0ae9bcd0_15:
@@ -5356,31 +5356,31 @@ translate brazilian vip_sadira_1_label_2_56d013d8_1:
 translate brazilian vip_sadira_1_label_2_a3139d9a_1:
 
     # ch_Name "{i}(I'm almost at my limit. She's too good.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Estou quase no meu limite. Ela é muito boa.){/i}"
 
 # game/logic/events/adele.rpy:1644
 translate brazilian vip_sadira_1_label_2_6b389b7e_1:
 
     # ch_Name "I'm..."
-    ch_Name ""
+    ch_Name "Eu..."
 
 # game/logic/events/adele.rpy:1646
 translate brazilian vip_sadira_1_label_2_2fda9a58_1:
 
     # ch_Name "{i}(If this keeps up, I'm going to come.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Se continuar assim, eu vou gozar.){/i}"
 
 # game/logic/events/adele.rpy:1647
 translate brazilian vip_sadira_1_label_2_fe881b29_1:
 
     # ch_Name "{i}(I have to warn her.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tenho que avisar a ela.){/i}"
 
 # game/logic/events/adele.rpy:1648
 translate brazilian vip_sadira_1_label_2_7494d93a_1:
 
     # ch_Name "I'm going to come soon. Don't stop!"
-    ch_Name ""
+    ch_Name "Eu vou gozar logo. Não pare!"
 
 # game/logic/events/adele.rpy:1649
 translate brazilian vip_sadira_1_label_2_0a11198e_3:
@@ -5392,31 +5392,31 @@ translate brazilian vip_sadira_1_label_2_0a11198e_3:
 translate brazilian vip_sadira_1_label_2_2a9bad9f_1:
 
     # Sadira "Good! Me too..."
-    Sadira ""
+    Sadira "Bom! Eu também..."
 
 # game/logic/events/adele.rpy:1652
 translate brazilian vip_sadira_1_label_2_d5790951_1:
 
     # Sadira "Don't worry, my lion."
-    Sadira ""
+    Sadira "Não se preocupe, meu leão."
 
 # game/logic/events/adele.rpy:1653
 translate brazilian vip_sadira_1_label_2_a2454e19_1:
 
     # Sadira "I won't shed a drop of your seed!"
-    Sadira ""
+    Sadira "Não vou deixar cair sequer uma gota da sua semente!"
 
 # game/logic/events/adele.rpy:1655
 translate brazilian vip_sadira_1_label_2_09ab5796_1:
 
     # ch_Name "{i}(What is it... Why did she stop?){/i}"
-    ch_Name ""
+    ch_Name "{i}(O que é isso... Por que ela parou?){/i}"
 
 # game/logic/events/adele.rpy:1656
 translate brazilian vip_sadira_1_label_2_5a497ad4_1:
 
     # ch_Name "{i}(Is it some kind of technique? Or did something go wrong?){/i}"
-    ch_Name ""
+    ch_Name "{i}(É algum tipo de técnica? Ou fiz alguma coisa errada?){/i}"
 
 # game/logic/events/adele.rpy:1657
 translate brazilian vip_sadira_1_label_2_8c41bb6f_1:
@@ -5428,7 +5428,7 @@ translate brazilian vip_sadira_1_label_2_8c41bb6f_1:
 translate brazilian vip_sadira_1_label_2_dc34394b_1:
 
     # ch_Name "{i}(Her tongue is running so nicely over my head. It's like she's going to...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sua língua está passando tão gostoso na cabeça. É como se ela fosse...){/i}"
 
 # game/logic/events/adele.rpy:1660
 translate brazilian vip_sadira_1_label_2_956c68f6_1:
@@ -5440,19 +5440,19 @@ translate brazilian vip_sadira_1_label_2_956c68f6_1:
 translate brazilian vip_sadira_1_label_2_b78e2d9c_1:
 
     # ch_Name "{i}(Wow... In just a moment she has it all in her mouth.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Uau... Em um momento só ele enfiou tudo na boca.){/i}"
 
 # game/logic/events/adele.rpy:1662
 translate brazilian vip_sadira_1_label_2_67d36fab_1:
 
     # ch_Name "Ah! Oh, yes..."
-    ch_Name ""
+    ch_Name "Ah! Assim mesmo..."
 
 # game/logic/events/adele.rpy:1664
 translate brazilian vip_sadira_1_label_2_f5a1921c_1:
 
     # ch_Name "I can't hold back any longer..."
-    ch_Name ""
+    ch_Name "Não consigo segurar mais..."
 
 # game/logic/events/adele.rpy:1665
 translate brazilian vip_sadira_1_label_2_499b0243_5:
@@ -5464,19 +5464,19 @@ translate brazilian vip_sadira_1_label_2_499b0243_5:
 translate brazilian vip_sadira_1_label_2_bbc6dd13_1:
 
     # ch_Name "Get ready!"
-    ch_Name ""
+    ch_Name "Se prepare!"
 
 # game/logic/events/adele.rpy:1668
 translate brazilian vip_sadira_1_label_2_e6fd9e9a_1:
 
     # ch_Name "OH, YES!" with flash
-    ch_Name "" with flash
+    ch_Name "AH, ISSO!" with flash
 
 # game/logic/events/adele.rpy:1669
 translate brazilian vip_sadira_1_label_2_ee177493_1:
 
     # ch_Name "Ahh... That feels so good."
-    ch_Name ""
+    ch_Name "Ahh... É tão bom."
 
 # game/logic/events/adele.rpy:1670
 translate brazilian vip_sadira_1_label_2_7bd4e091_1:
@@ -5488,247 +5488,247 @@ translate brazilian vip_sadira_1_label_2_7bd4e091_1:
 translate brazilian vip_sadira_1_label_2_a90d3870_1:
 
     # ch_Name "{i}(She didn't even choke on it...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela nem engasgou...){/i}"
 
 # game/logic/events/adele.rpy:1673
 translate brazilian vip_sadira_1_label_2_2a57d80a_1:
 
     # ch_Name "{i}(But I can feel her head greedily thrusting on my cock.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas eu pude sentir sua cabeça bombeando gulosa o meu pau.){/i}"
 
 # game/logic/events/adele.rpy:1674
 translate brazilian vip_sadira_1_label_2_5252dbd6_1:
 
     # ch_Name "{i}(Crazy...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Louco...){/i}"
 
 # game/logic/events/adele.rpy:1675
 translate brazilian vip_sadira_1_label_2_5d9efeb9_1:
 
     # ch_Name "Good girl..."
-    ch_Name ""
+    ch_Name "Boa menina..."
 
 # game/logic/events/adele.rpy:1676
 translate brazilian vip_sadira_1_label_2_c40077d3_1:
 
     # ch_Name "I'm all..."
-    ch_Name ""
+    ch_Name "Estou todo..."
 
 # game/logic/events/adele.rpy:1677
 translate brazilian vip_sadira_1_label_2_bbf8a1e4_1:
 
     # Sadira "I noticed."
-    Sadira ""
+    Sadira "Notei."
 
 # game/logic/events/adele.rpy:1684
 translate brazilian vip_sadira_1_label_2_170a2365:
 
     # ch_Name "That was incredible, Sadira..."
-    ch_Name ""
+    ch_Name "Isso foi incrível, Sadira..."
 
 # game/logic/events/adele.rpy:1685
 translate brazilian vip_sadira_1_label_2_1adde333:
 
     # Sadira "Thank you. I tried for you, my lion."
-    Sadira ""
+    Sadira "Obrigada. Eu fiz para você, me leão."
 
 # game/logic/events/adele.rpy:1686
 translate brazilian vip_sadira_1_label_2_73342884:
 
     # ch_Name "Maybe you want me to suck your dick, too?"
-    ch_Name ""
+    ch_Name "Talvez você queira que chupe seu pau também?"
 
 # game/logic/events/adele.rpy:1688
 translate brazilian vip_sadira_1_label_2_d1675bea:
 
     # Sadira "Heh, that sounds like fun, but..."
-    Sadira ""
+    Sadira "É, isso parece divertido, mas..."
 
 # game/logic/events/adele.rpy:1689
 translate brazilian vip_sadira_1_label_2_09ccc37c:
 
     # Sadira "Our time has come to an end."
-    Sadira ""
+    Sadira "Nosso tempo chegou ao fim."
 
 # game/logic/events/adele.rpy:1690
 translate brazilian vip_sadira_1_label_2_622e56ea:
 
     # Sadira "Maybe next time?"
-    Sadira ""
+    Sadira "Talvez da próxima vez?"
 
 # game/logic/events/adele.rpy:1691
 translate brazilian vip_sadira_1_label_2_7939b3d3:
 
     # ch_Name "Maybe next time."
-    ch_Name ""
+    ch_Name "Talvez na próxima vez."
 
 # game/logic/events/adele.rpy:1692
 translate brazilian vip_sadira_1_label_2_3c06fc41:
 
     # Sadira "I'll see you soon!"
-    Sadira ""
+    Sadira "Até logo!"
 
 # game/logic/events/adele.rpy:1707
 translate brazilian Vanessa_1_label_2eaf7317:
 
     # ch_Name "{i}(Wow. That was... Something.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Uau. Isso foi... Algo.){/i}"
 
 # game/logic/events/adele.rpy:1708
 translate brazilian Vanessa_1_label_f1c1a06b:
 
     # ch_Name "{i}(I think I need to get a drink.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Acho que preciso de uma bebida.){/i}"
 
 # game/logic/events/adele.rpy:1709
 translate brazilian Vanessa_1_label_afd5db1b:
 
     # ch_Name "{i}(I know there is champagne in the VIP lounge.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu sei que tem champagne na área VIP.){/i}"
 
 # game/logic/events/adele.rpy:1710
 translate brazilian Vanessa_1_label_976e36b2:
 
     # ch_Name "{i}(But I'd rather hang out at the bar.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas eu preferia ficar no bar.){/i}"
 
 # game/logic/events/adele.rpy:1713
 translate brazilian Vanessa_1_label_db770778:
 
     # ch_Name "Hey there!"
-    ch_Name ""
+    ch_Name "Olá, e aí?"
 
 # game/logic/events/adele.rpy:1714
 translate brazilian Vanessa_1_label_fc697379:
 
     # ch_Name "Vanessa, right?"
-    ch_Name ""
+    ch_Name "Vanessa, não é?"
 
 # game/logic/events/adele.rpy:1715
 translate brazilian Vanessa_1_label_0dc24312:
 
     # ch_Name "Are you busy?"
-    ch_Name ""
+    ch_Name "Está ocupada?"
 
 # game/logic/events/adele.rpy:1717
 translate brazilian Vanessa_1_label_18574041:
 
     # Vanessa "It depends."
-    Vanessa ""
+    Vanessa "Depende."
 
 # game/logic/events/adele.rpy:1718
 translate brazilian Vanessa_1_label_68ebdc81:
 
     # Vanessa "Are you here to waste my time..."
-    Vanessa ""
+    Vanessa "Está aqui para desperdiçar meu tempo..."
 
 # game/logic/events/adele.rpy:1719
 translate brazilian Vanessa_1_label_0174367c:
 
     # Vanessa "Or are you here to drink?"
-    Vanessa ""
+    Vanessa "Ou está aqui para beber?"
 
 # game/logic/events/adele.rpy:1721
 translate brazilian Vanessa_1_label_b0412530:
 
     # ch_Name "{i}(Every time she looks at me I feel like being challenged to duel.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Toda vez que ela me olha eu me sentido desafiado para um duelo.){/i}"
 
 # game/logic/events/adele.rpy:1722
 translate brazilian Vanessa_1_label_76b9cc9d:
 
     # ch_Name "{i}(As if she's measuring if I'm man enough.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Como se está estivesse avaliando se sou homem o suficiente.){/i}"
 
 # game/logic/events/adele.rpy:1723
 translate brazilian Vanessa_1_label_84812b85:
 
     # ch_Name "Are you getting paid to spend time with visitors?"
-    ch_Name ""
+    ch_Name "Você está sendo paga para passar tempo com os clientes?"
 
 # game/logic/events/adele.rpy:1724
 translate brazilian Vanessa_1_label_a49a8cf2:
 
     # Vanessa "Honey..."
-    Vanessa ""
+    Vanessa "Querido..."
 
 # game/logic/events/adele.rpy:1726
 translate brazilian Vanessa_1_label_cb68e713:
 
     # Vanessa "I'm a bartender, not a go-go dancer."
-    Vanessa ""
+    Vanessa "Sou bartender, não uma dançarina."
 
 # game/logic/events/adele.rpy:1727
 translate brazilian Vanessa_1_label_1c190155:
 
     # Vanessa "I'm getting paid for getting people drunk."
-    Vanessa ""
+    Vanessa "Sou paga para embebedar as pessoas."
 
 # game/logic/events/adele.rpy:1728
 translate brazilian Vanessa_1_label_54658d30:
 
     # Vanessa "Talking to visitors is a pleasant bonus."
-    Vanessa ""
+    Vanessa "Conversar com visitantes é um bônus divertido."
 
 # game/logic/events/adele.rpy:1730
 translate brazilian Vanessa_1_label_595a02cf:
 
     # ch_Name "If it's pleasant, what's the problem?"
-    ch_Name ""
+    ch_Name "Se é divertido, qual o problema?"
 
 # game/logic/events/adele.rpy:1731
 translate brazilian Vanessa_1_label_69faf953:
 
     # ch_Name "Let's have a talk."
-    ch_Name ""
+    ch_Name "Vamos conversar."
 
 # game/logic/events/adele.rpy:1732
 translate brazilian Vanessa_1_label_2c7c5b7b:
 
     # Vanessa "To be honest... I don't like talking to sober people."
-    Vanessa ""
+    Vanessa "Honestamente... Não gosto de conversar com gente sóbria."
 
 # game/logic/events/adele.rpy:1734
 translate brazilian Vanessa_1_label_271d084f:
 
     # Vanessa "Not even when they're as handsome as you."
-    Vanessa ""
+    Vanessa "Nem mesmo quando são bonitos como você."
 
 # game/logic/events/adele.rpy:1735
 translate brazilian Vanessa_1_label_98cea1c9:
 
     # ch_Name "Are you getting paid to compliment people?"
-    ch_Name ""
+    ch_Name "Está sendo paga para elogiar as pessoas?"
 
 # game/logic/events/adele.rpy:1736
 translate brazilian Vanessa_1_label_5de6b248:
 
     # Vanessa "Do you really want to know the answer?"
-    Vanessa ""
+    Vanessa "Você quer mesmo saber a resposta?"
 
 # game/logic/events/adele.rpy:1737
 translate brazilian Vanessa_1_label_8deba0fb:
 
     # ch_Name "Well. It seems to me it's a perfect time for a drink."
-    ch_Name ""
+    ch_Name "Bem, parece ser o momento perfeito para uma bebida."
 
 # game/logic/events/adele.rpy:1739
 translate brazilian Vanessa_1_label_c2f6cbeb:
 
     # Vanessa "Finally! What can I serve you?"
-    Vanessa ""
+    Vanessa "Finalmente! O que posso lhe servir?"
 
 # game/logic/events/adele.rpy:1740
 translate brazilian Vanessa_1_label_7e0957c7:
 
     # ch_Name "What do you have?"
-    ch_Name ""
+    ch_Name "O que você tem?"
 
 # game/logic/events/adele.rpy:1741
 translate brazilian Vanessa_1_label_61ecc7dd:
 
     # Vanessa "Beer, bartender's special cocktail and orange juice."
-    Vanessa ""
+    Vanessa "Cerveja, coquetel especial da casa e suco de laranja."
 
 # game/logic/events/adele.rpy:1742
 translate brazilian Vanessa_1_label_a48200e0:
@@ -5740,169 +5740,169 @@ translate brazilian Vanessa_1_label_a48200e0:
 translate brazilian Vanessa_2_label_44c25f1a:
 
     # ch_Name "I'll have a beer."
-    ch_Name ""
+    ch_Name "Vou de cerveja."
 
 # game/logic/events/adele.rpy:1758
 translate brazilian Vanessa_2_label_fb101806:
 
     # Vanessa "Now we're talking!"
-    Vanessa ""
+    Vanessa "Agora estamos conversando!"
 
 # game/logic/events/adele.rpy:1759
 translate brazilian Vanessa_2_label_8e9f2626:
 
     # Vanessa "Give me a moment."
-    Vanessa ""
+    Vanessa "Só um momento."
 
 # game/logic/events/adele.rpy:1761
 translate brazilian Vanessa_2_label_6e8ac3d3:
 
     # Vanessa "Let's see... Is lager alright?"
-    Vanessa ""
+    Vanessa "Vamos ver... Pode ser uma lager?"
 
 # game/logic/events/adele.rpy:1762
 translate brazilian Vanessa_2_label_3fa5e203:
 
     # ch_Name "Well, I'd better have some lambic, or maybe sour. You know?"
-    ch_Name ""
+    ch_Name "Bem, eu prefiro uma lambic ou talvez sour. Sabe?"
 
 # game/logic/events/adele.rpy:1763
 translate brazilian Vanessa_2_label_167fde8f:
 
     # Vanessa "Yeah..."
-    Vanessa ""
+    Vanessa "Sei..."
 
 # game/logic/events/adele.rpy:1764
 translate brazilian Vanessa_2_label_3fa80008:
 
     # Vanessa "Too bad we only have lambic!"
-    Vanessa ""
+    Vanessa "Que pena que só temos lambie!"
 
 # game/logic/events/adele.rpy:1766
 translate brazilian Vanessa_2_label_0fa22537:
 
     # ch_Name "Well. Thank you!"
-    ch_Name ""
+    ch_Name "Boa. Obrigado!"
 
 # game/logic/events/adele.rpy:1767
 translate brazilian Vanessa_2_label_c6f9b3fe:
 
     # ch_Name "That will do."
-    ch_Name ""
+    ch_Name "Vai servir."
 
 # game/logic/events/adele.rpy:1768
 translate brazilian Vanessa_2_label_6449ca77:
 
     # Vanessa "So, you wanted to talk?"
-    Vanessa ""
+    Vanessa "Então, queria conversar?"
 
 # game/logic/events/adele.rpy:1769
 translate brazilian Vanessa_2_label_272b6695:
 
     # ch_Name "Wow, that's a quick change of pace."
-    ch_Name ""
+    ch_Name "Uau, uma mudança rápida de ritmo."
 
 # game/logic/events/adele.rpy:1774
 translate brazilian Vanessa_2_label_d3092a65:
 
     # ch_Name "I'll have your signature cocktail!"
-    ch_Name ""
+    ch_Name "Vou querer o seu especial!"
 
 # game/logic/events/adele.rpy:1776
 translate brazilian Vanessa_2_label_4830c7ed:
 
     # Vanessa "You will? You're not kidding?"
-    Vanessa ""
+    Vanessa "Vai? Não está de brincadeira?"
 
 # game/logic/events/adele.rpy:1777
 translate brazilian Vanessa_2_label_0e084ec1:
 
     # Vanessa "{i}(No one has ever reordered my cocktail...){/i}"
-    Vanessa ""
+    Vanessa "{i}(Ninguém nunca pediu de novo meu coquetel...){/i}"
 
 # game/logic/events/adele.rpy:1778
 translate brazilian Vanessa_2_label_b8f6f00b:
 
     # Vanessa "{i}(Did I forget when I enchanted his mind?){/i}"
-    Vanessa ""
+    Vanessa "{i}(Eu esqueci quando encantei a mente dele?){/i}"
 
 # game/logic/events/adele.rpy:1779
 translate brazilian Vanessa_2_label_c4bb79ff:
 
     # ch_Name "{i}(What do you mean, \"no one reordered it\"?){/i}"
-    ch_Name ""
+    ch_Name "{i}(O que quer dizer com \"ninguém nunca pediu de novo\"?){/i}"
 
 # game/logic/events/adele.rpy:1780
 translate brazilian Vanessa_2_label_b9b3757c:
 
     # ch_Name "{i}(Why is she so proud of it then?!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Por que ela é tão orgulhosa dele, então?!){/i}"
 
 # game/logic/events/adele.rpy:1783
 translate brazilian Vanessa_2_label_3de618ac:
 
     # ch_Name "What about your signature cocktail?"
-    ch_Name ""
+    ch_Name "Quel tal o seu coquetel especial?"
 
 # game/logic/events/adele.rpy:1785
 translate brazilian Vanessa_2_label_7a34da50:
 
     # Vanessa "Are you finally ready?"
-    Vanessa ""
+    Vanessa "Está finalmente pronto?"
 
 # game/logic/events/adele.rpy:1786
 translate brazilian Vanessa_2_label_ce9ef535:
 
     # ch_Name "Yeah, we only live once."
-    ch_Name ""
+    ch_Name "É, só se vive uma vez."
 
 # game/logic/events/adele.rpy:1787
 translate brazilian Vanessa_2_label_484aa28d:
 
     # Vanessa "You won't regret it. It's my best creation!"
-    Vanessa ""
+    Vanessa "Você não vai se arrepender. Minha melhor criação!"
 
 # game/logic/events/adele.rpy:1788
 translate brazilian Vanessa_2_label_75a4ca37:
 
     # Vanessa "One moment!"
-    Vanessa ""
+    Vanessa "Um momento!"
 
 # game/logic/events/adele.rpy:1789
 translate brazilian Vanessa_2_label_f5e60e4f:
 
     # ch_Name "{i}(She's really perking up, wow!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela está realmente se empolgando, uau!){/i}"
 
 # game/logic/events/adele.rpy:1792
 translate brazilian Vanessa_2_label_592b110d:
 
     # ch_Name "{i}(I wonder if she's comfortable working in that.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Imagino se ela está confortável trabalhando nisso.){/i}"
 
 # game/logic/events/adele.rpy:1793
 translate brazilian Vanessa_2_label_416dce67:
 
     # ch_Name "{i}(I guess the club has a dress code after all.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Acho que o clube tem uma padrão de roupas, afinal.){/i}"
 
 # game/logic/events/adele.rpy:1794
 translate brazilian Vanessa_2_label_56cd8428:
 
     # ch_Name "{i}(I wonder if this ass has a price?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Será que esse rabo tem um preço?){/i}"
 
 # game/logic/events/adele.rpy:1795
 translate brazilian Vanessa_2_label_bb0e70b6:
 
     # Vanessa "Do you want it harder, softer, or like last time?"
-    Vanessa ""
+    Vanessa "Você quer mais forte, mais fraco ou como da outra vez?"
 
 # game/logic/events/adele.rpy:1796
 translate brazilian Vanessa_2_label_c0ac3ccd:
 
     # ch_Name "I have complete trust in your magic hands."
-    ch_Name ""
+    ch_Name "Confio totalmente em suas mãos mágicas."
 
 # game/logic/events/adele.rpy:1797
 translate brazilian Vanessa_2_label_4bf89ffe:
@@ -5914,43 +5914,43 @@ translate brazilian Vanessa_2_label_4bf89ffe:
 translate brazilian Vanessa_2_label_3e644106:
 
     # Vanessa "You know how to please a bartender."
-    Vanessa ""
+    Vanessa "Você sabe como agradar o bartender."
 
 # game/logic/events/adele.rpy:1800
 translate brazilian Vanessa_2_label_1ead6d60:
 
     # Vanessa "Here you go. My signature cocktail."
-    Vanessa ""
+    Vanessa "Aqui está. Meu coquetel especial."
 
 # game/logic/events/adele.rpy:1801
 translate brazilian Vanessa_2_label_d393e401:
 
     # ch_Name "It's weird, it looks completely different..."
-    ch_Name ""
+    ch_Name "É estranho, parece completamente diferente..."
 
 # game/logic/events/adele.rpy:1802
 translate brazilian Vanessa_2_label_d1903edc:
 
     # Vanessa "Bartender's special is different every day."
-    Vanessa ""
+    Vanessa "O especial do bartender é diferente todo dia."
 
 # game/logic/events/adele.rpy:1803
 translate brazilian Vanessa_2_label_efffe26c:
 
     # Vanessa "Otherwise I'd die of boredom."
-    Vanessa ""
+    Vanessa "Se não eu iria morre de tédio."
 
 # game/logic/events/adele.rpy:1805
 translate brazilian Vanessa_2_label_12719f08:
 
     # Vanessa "Don't worry, the secret ingredient is always the same."
-    Vanessa ""
+    Vanessa "Não se preocupe, meu ingrediente especial é sempre o mesmo."
 
 # game/logic/events/adele.rpy:1806
 translate brazilian Vanessa_2_label_770e6d6b:
 
     # ch_Name "Intriguing."
-    ch_Name ""
+    ch_Name "Intrigante."
 
 # game/logic/events/adele.rpy:1807
 translate brazilian Vanessa_2_label_c724fae0:
@@ -5962,13 +5962,13 @@ translate brazilian Vanessa_2_label_c724fae0:
 translate brazilian Vanessa_2_label_75a4cb88:
 
     # Vanessa "What do you think?"
-    Vanessa ""
+    Vanessa "O que acha?"
 
 # game/logic/events/adele.rpy:1810
 translate brazilian Vanessa_2_label_7144357c:
 
     # ch_Name "It's perfect!"
-    ch_Name ""
+    ch_Name "Está perfeito!"
 
 # game/logic/events/adele.rpy:1811
 translate brazilian Vanessa_2_label_561e5440:
@@ -5980,13 +5980,13 @@ translate brazilian Vanessa_2_label_561e5440:
 translate brazilian Vanessa_2_label_ed2d6c9e:
 
     # ch_Name "{i}(It's like a liquid flame spreading inside...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parece fogo líquido se espalhando por dentro...){/i}"
 
 # game/logic/events/adele.rpy:1814
 translate brazilian Vanessa_2_label_e10bb4c1:
 
     # Vanessa "Do you feel something?"
-    Vanessa ""
+    Vanessa "Está sentindo alguma coisa?"
 
 # game/logic/events/adele.rpy:1815
 translate brazilian Vanessa_2_label_561e5440_1:
@@ -5998,109 +5998,109 @@ translate brazilian Vanessa_2_label_561e5440_1:
 translate brazilian Vanessa_2_label_f2811d10:
 
     # ch_Name "I feel like I've had enough for now."
-    ch_Name ""
+    ch_Name "Sinto que já bebi o suficiente por agora."
 
 # game/logic/events/adele.rpy:1817
 translate brazilian Vanessa_2_label_9bd674f2:
 
     # Vanessa "Come on, we'll talk for a while and then do it again."
-    Vanessa ""
+    Vanessa "Qual é, vamos conversar um pouco e depois tomar outro."
 
 # game/logic/events/adele.rpy:1820
 translate brazilian Vanessa_2_label_ab5e3888:
 
     # ch_Name "Juice sounds nice."
-    ch_Name ""
+    ch_Name "Suco parece bom."
 
 # game/logic/events/adele.rpy:1822
 translate brazilian Vanessa_2_label_bcf764b0:
 
     # Vanessa "Wait... Really?"
-    Vanessa ""
+    Vanessa "Espera... Sério?"
 
 # game/logic/events/adele.rpy:1823
 translate brazilian Vanessa_2_label_2e861e21:
 
     # Vanessa "Are you saying you're at the bar to have a juice?"
-    Vanessa ""
+    Vanessa "Está dizendo que está no bar e vai tomar suco?"
 
 # game/logic/events/adele.rpy:1825
 translate brazilian Vanessa_2_label_3c51277f:
 
     # ch_Name "Yeah, why not. You said I have to order something."
-    ch_Name ""
+    ch_Name "É, por que não? Você falou para pedir alguma coisa."
 
 # game/logic/events/adele.rpy:1826
 translate brazilian Vanessa_2_label_975e2f93:
 
     # ch_Name "I'll try to act as if I'm not sober."
-    ch_Name ""
+    ch_Name "Vou fazer de conta que não estou sóbrio."
 
 # game/logic/events/adele.rpy:1827
 translate brazilian Vanessa_2_label_76f13220:
 
     # Vanessa "Let's see..."
-    Vanessa ""
+    Vanessa "Vamos ver..."
 
 # game/logic/events/adele.rpy:1829
 translate brazilian Vanessa_2_label_57e4156d:
 
     # Vanessa "Here you go."
-    Vanessa ""
+    Vanessa "Aqui está."
 
 # game/logic/events/adele.rpy:1830
 translate brazilian Vanessa_2_label_faa31f53:
 
     # Vanessa "Always a \"pleasure\" to serve you a drink."
-    Vanessa ""
+    Vanessa "Sempre um \"prazer\" servir uma bebida para você."
 
 # game/logic/events/adele.rpy:1831
 translate brazilian Vanessa_2_label_c3b177de:
 
     # ch_Name "Can you at least try to be nice to me?"
-    ch_Name ""
+    ch_Name "Poderia, pelo menos, tentar parecer simpática comigo?"
 
 # game/logic/events/adele.rpy:1832
 translate brazilian Vanessa_2_label_f0da2a5f:
 
     # Vanessa "Uh... I'll try. Sorry."
-    Vanessa ""
+    Vanessa "Uh... Vou tenra. Desculpe."
 
 # game/logic/events/adele.rpy:1833
 translate brazilian Vanessa_2_label_c7a5db15:
 
     # Vanessa "I don't know why am I acting like that. Shit day."
-    Vanessa ""
+    Vanessa "Não sei por que estou agindo assim. Dia ruim."
 
 # game/logic/events/adele.rpy:1834
 translate brazilian Vanessa_2_label_05f41882:
 
     # ch_Name "Tell me about it."
-    ch_Name ""
+    ch_Name "O que houve?"
 
 # game/logic/events/adele.rpy:1836
 translate brazilian Vanessa_2_label_1c2c328c:
 
     # ch_Name "Nah, I guess I'll pass."
-    ch_Name ""
+    ch_Name "Ah, acho que não vou querer."
 
 # game/logic/events/adele.rpy:1838
 translate brazilian Vanessa_2_label_47c67985:
 
     # Vanessa "Really?"
-    Vanessa ""
+    Vanessa "Sério?"
 
 # game/logic/events/adele.rpy:1839
 translate brazilian Vanessa_2_label_ef115d6c:
 
     # Vanessa "Don't waste my time then."
-    Vanessa ""
+    Vanessa "Então não desperdice meu tempo."
 
 # game/logic/events/adele.rpy:1840
 translate brazilian Vanessa_2_label_aa78463d:
 
     # ch_Name "Alright. Sorry."
-    ch_Name ""
+    ch_Name "Tudo bem. Desculpe."
 
 # game/logic/events/adele.rpy:1842
 translate brazilian Vanessa_2_label_09c86917:
