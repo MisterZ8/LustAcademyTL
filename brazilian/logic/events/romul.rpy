@@ -604,7 +604,7 @@ translate brazilian romul_2_label_aed30097:
 translate brazilian romul_2_label_af8f08aa:
 
     # Diego "You opened my eyes."
-    Diego "Vocẽ abriu meus olhos."
+    Diego "Você abriu meus olhos."
 
 # game/logic/events/romul.rpy:214
 translate brazilian romul_2_label_71c987ea:
