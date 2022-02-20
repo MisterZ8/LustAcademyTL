@@ -40,13 +40,13 @@ translate chinese sheet_19_2876f8c6:
 translate chinese sheet_19_cd0a6c85:
 
     # ch_Name "{i}(Woah...){/i}"
-    ch_Name "{b}(哇…){/b}"
+    ch_Name "{b}(哇...){/b}"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:24
 translate chinese sheet_19_ad65eec5:
 
     # ch_Name "{i}(It looks so neat...){/i}"
-    ch_Name "{i}(看起来好整洁…){/i}"
+    ch_Name "{i}(看起来好整洁...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:26
 translate chinese sheet_19_7a01eddb:
@@ -64,13 +64,13 @@ translate chinese sheet_19_7eb50257:
 translate chinese sheet_19_9c3c1527:
 
     # UnknownJacob "Soon you'll prove yourself worthy to stay..."
-    UnknownJacob "很快你就会证明自己值得留下…"
+    UnknownJacob "很快你就会证明自己值得留下..."
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:32
 translate chinese sheet_19_04538919:
 
     # UnknownJacob "...or fail and leave this place forever."
-    UnknownJacob "…要么失败，永远离开这里。"
+    UnknownJacob "...要么失败，永远离开这里。"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:34
 translate chinese sheet_19_0aba2282:
@@ -94,13 +94,13 @@ translate chinese sheet_19_ce4ca856:
 translate chinese sheet_19_2dd89bc3:
 
     # Jacob "I'm sure you have a lot of questions..."
-    Jacob "我相信你有很多问题…"
+    Jacob "我相信你有很多问题..."
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:42
 translate chinese sheet_19_92d7c394:
 
     # Jacob "...but people are already waiting for us."
-    Jacob "…但人们已经在等我们了。"
+    Jacob "...但人们已经在等我们了。"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:44
 translate chinese sheet_19_edde9df5:
@@ -166,7 +166,7 @@ translate chinese sheet_19_e3c4f908:
 translate chinese sheet_19_59e5e3ca:
 
     # Jacob "...by four wizards who had immigrated from Europe."
-    Jacob "…四个从欧洲移民来的巫师"
+    Jacob "...四个从欧洲移民来的巫师"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:77
 translate chinese sheet_19_db82bdfc:
@@ -190,13 +190,13 @@ translate chinese sheet_19_85cf84c5:
 translate chinese sheet_19_695d999e:
 
     # Jacob "It opens a great bunch of doors..."
-    Jacob "它打开了很多扇门…"
+    Jacob "它打开了很多扇门..."
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:85
 translate chinese sheet_19_0dfc7b92:
 
     # Jacob "...and serves you for the rest of your life."
-    Jacob "…并为你服务一辈子。"
+    Jacob "...并为你服务一辈子。"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:87
 translate chinese sheet_19_df9cc034:
@@ -250,7 +250,7 @@ translate chinese sheet_19_25a065a5:
 translate chinese sheet_19_c9dfa630:
 
     # Jacob "You know...{w} Magic can be dangerous."
-    Jacob "你知道的…{w} 魔法是危险的。"
+    Jacob "你知道的...{w} 魔法是危险的。"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:105
 translate chinese sheet_19_a7109d95:
@@ -316,13 +316,13 @@ translate chinese sheet_19_4e008960:
 translate chinese sheet_19_5925f563:
 
     # ch_Name "It's still to much to fit in my head. I know you say that..."
-    ch_Name "这对我来说还有很多。我知道你说…"
+    ch_Name "这对我来说还有很多。我知道你说..."
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:130
 translate chinese sheet_19_2c6f27e9:
 
     # ch_Name "But it feels like I'm just [Name]..."
-    ch_Name "但感觉我只是[Name]…"
+    ch_Name "但感觉我只是[Name]..."
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:132
 translate chinese sheet_19_2e0ca786:
