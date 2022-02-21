@@ -3403,7 +3403,7 @@ translate philippine Audrey_7_girl_51fe0ce2:
 # game/logic/events/audrey.rpy:1067
 translate philippine Audrey_7_girl_ce338fb2:
 
-    # ch_Name "But I'll need your help to come."
+    # ch_Name "But I'll need your help to cum."
     ch_Name "Pero kailangan ko pa ang tulong mo."
 
 # game/logic/events/audrey.rpy:1069
@@ -3655,7 +3655,7 @@ translate philippine Audrey_7_girl_3e3e63f8:
 # game/logic/events/audrey.rpy:1123
 translate philippine Audrey_7_girl_3a0194d2:
 
-    # ch_Name "I'm off"
+    # ch_Name "I'm off."
     ch_Name "Alis na ko."
 
 # game/logic/events/audrey.rpy:1131
@@ -3679,8 +3679,8 @@ translate philippine Audrey_7_shemale_ff17a4d0:
 # game/logic/events/audrey.rpy:1136
 translate philippine Audrey_7_shemale_02e61f7a:
 
-    # ch_Name "{i}(What a cute little intimate haircut...){/i}"
-    ch_Name "{i}(Nakakatuwa naman an gupit niya...){/i}"
+    # ch_Name "{i}(What a cute view...){/i}"
+    ch_Name ""
 
 # game/logic/events/audrey.rpy:1137
 translate philippine Audrey_7_shemale_1ab6616d:
@@ -4514,7 +4514,7 @@ translate philippine Audrey_7_shemale_51fe0ce2:
 # game/logic/events/audrey.rpy:1331
 translate philippine Audrey_7_shemale_ce338fb2:
 
-    # ch_Name "But I'll need your help to come."
+    # ch_Name "But I'll need your help to cum."
     ch_Name "Pero kailangan ko pa ang tulong mo."
 
 # game/logic/events/audrey.rpy:1333
