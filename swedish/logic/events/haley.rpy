@@ -8727,7 +8727,7 @@ translate swedish Haley_15_label_from_gallery_5fb928b5:
 # game/logic/events/haley.rpy:2600
 translate swedish Haley_15_label_from_gallery_0a6a137a:
 
-    # ch_Name "{i}(I should probably get dowstairs and have a cup of coffee.){/i}"
+    # ch_Name "{i}(I should probably get downstairs and have a cup of coffee.){/i}"
     ch_Name ""
 
 # game/logic/events/haley.rpy:2612
@@ -11049,7 +11049,7 @@ translate swedish CF_Haley_4_label_9b384e9d:
 # game/logic/events/haley.rpy:3178
 translate swedish CF_Haley_4_label_dfb56de2:
 
-    # Haley "And her Instagram..."
+    # Haley "And her Lustagram..."
     Haley ""
 
 # game/logic/events/haley.rpy:3179

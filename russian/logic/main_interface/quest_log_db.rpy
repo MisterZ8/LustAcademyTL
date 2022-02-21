@@ -27,7 +27,7 @@ translate russian strings:
     new "Эрхарт"
 
     # game/logic/main_interface/quest_log_db.rpy:3
-    old "Turns out that the statues in one of the gardens are actually alive! One of them even had a boner while we were walking there with Haley. \"Angels\" storyline for this version of the game has come to an end."
+    old "Turns out that the statues in one of the gardens are actually alive! One of them even had a boner while we were walking there with Haley."
     new "Оказывается, статуи в одном из садов на самом деле живые! У одного из них даже был стояк, когда мы гуляли там с Хейли. Сюжетная линия \"Ангелов\" для этой версии игры подошла к концу."
 
     # game/logic/main_interface/quest_log_db.rpy:3
@@ -483,8 +483,8 @@ translate russian strings:
     new "Хейли обнаружила, что брат Элайджи и Ханс были любовниками и пытались отсюда сбежать. Чтобы воспроизвести их ритуал и открыть портал, нам потребуется помощь Саманты. Я поговорю с ней утром."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "I made arrangements with Samantha and she will help us with the ritual. We're finally going to solve the mystery of E.Bloom. Also, Haley and I made a date. Things are going as well as can be expected!"
-    new "Я договорился с Самантой и она нам поможет с ритуалом. Мы наконец-то сумеем раскрыть тайну Э.Блума. Помимо того, мы с Хейли сходили на свидание. Лучше и быть не может!"
+    old "I made arrangements with Samantha and she will help us with the ritual. We're finally going to solve the mystery of E.Bloom. Also, Haley and I made a date. Until the date I have to get to Dale to buy the ingredients from Gordon."
+    new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've heard that Jacob usually spends his evenings at the hall. Should I talk to him about something?"
@@ -535,7 +535,7 @@ translate russian strings:
     new "Если бы не Леона, я застрял бы в ночном кошмаре навечно. Оказалось, что под видом Катрины меня во снах мучал поедающий душу фантом. В данный момент я ничего с этим поделать не могу. В следующий вторник нужно снова призвать Леону и спросить, как мне быть дальше."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "It turned out that Jacob was behind the soul-stealing phantom attack. He was testing me to help him overpower Arthur. Jacob assures me that Arthur is the villain who killed my parents. To deal with him, I asked Leona to obtain for me an ancient artifact - the scroll of the Lion's Seal. Now all we have to do is wait."
+    old "It turned out that Jacob was behind the soul-stealing phantom attack. He was testing me to help him overpower Arthur. Jacob assures me that Arthur is the villain who killed my parents. To deal with him, I asked Leona to obtain for me an ancient artifact - the scroll of the Lion's Seal, but she needs a week to get it. Now I just need to wait."
     new "Оказалось, что за нападением поедающего душу фантома стоит Джейкоб. Он таким образом проверял меня, чтобы я помог ему одолеть Артура. Джейкоб уверяет меня, что Артур - злодей, убивший моих родителей. Чтобы разобраться с ним, я попросил Леону отыскать для меня древний артефакт - свиток с Печатью Льва. Остаётся лишь ждать."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -563,8 +563,8 @@ translate russian strings:
     new "Мы отлично повеселились с Лили и договорились, что прочие факультетские дела обсудим в другой раз. Мне нужно поговорить с ней перед занятием у Сабрины."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "I've agreed to help Sabrina and Lily to harvest some herbs. Lily and I got lost and had an unbelievable adventure."
-    new "Я согласился помочь Лили и Сабрине собрать какие-то травы. Мы с Лили заблудились, и это обернулось невероятным приключением."
+    old "I've agreed to help Sabrina and Lily to harvest some herbs. Lily and I got lost and had an unbelievable adventure. I think we need to discuss it before Victoria's classes in the morning."
+    new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I told Sabrina about the mushroom girl I saw in the woods, and it turns out that the existence of these creatures has not yet been proven as a fact. I could be the discoverer of this species if I could find proof. But I have to wait until the compass is fixed."
@@ -579,8 +579,8 @@ translate russian strings:
     new "Люси - симпатичная европейская девушка, работает стриптизёршей в Леди Удаче. Мы наверняка отлично проведём с ней время в ВИП-зоне."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "Good news for students - there's a free room in Dale-ly. Also, I saw Mina reading porno novels. Maybe In future I can use this to lure other dark secrets she might have."
-    new "Отличные новости для студентов - в гостинице в Дейле для них есть бесплатные комнаты. Я застал Мину за чтением порно-романа. В будущем я мог бы использовать это, чтобы выудить ещё какие-то её секреты."
+    old "Good news for students - there's a free room in Dale-ly. Also, I saw Mina reading porno novels. I should talk to her again next time I'll be in Dale."
+    new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I told Molly that I was working as a waiter once, and she offered me a job. On weekdays, afternoons, and evenings, I can help her around the cafe to make some money."
@@ -619,8 +619,8 @@ translate russian strings:
     new "Наоми надо мной прикалывалась, но теперь ей нужно заслужить моё прощение, чтобы получить столь нужные ответы на тест. Увидимся с ней вечером и станет ясно, что я могу для себя получить в этой ситуации."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "I took Naomi to the library, and we had some fun time together. I think she finally earned to get those test results..."
-    new "Я отвёл Наоми в библиотеку, и мы с ней там пошалили. Полагаю, она наконец заслужила эти свои ответы на тест..."
+    old "I took Naomi to the library, and we had some fun time together. I think she earned to get those test results. I think I'll meet her in the morning before Victoria's class."
+    new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Naomi and Sabrina got into a fight in class, and now Naomi needs help to win back the teacher's favor. I promised to meet her at night in the potions room and teach her how to make potions."
@@ -891,7 +891,7 @@ translate russian strings:
     new "Победа наша"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
-    old "Help your school score points in the competition to spend the weekend at Dale."
+    old "elp your House score points in the competition to spend the weekend at Dale."
     new "Помоги своему факультету заработать баллы в соревновании за право провести выходные в Дейле."
 
     # game/logic/main_interface/quest_log_db.rpy:1968

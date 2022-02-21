@@ -3789,7 +3789,7 @@ translate hindi Naomi_8_label_77cf9c04:
 # game/logic/events/naomi.rpy:1347
 translate hindi Naomi_8_label_526b77f8:
 
-    # Naomi "{b}Oh, yes!{/b}"
+    # Naomi "Oh, yes!"
     Naomi ""
 
 # game/logic/events/naomi.rpy:1348

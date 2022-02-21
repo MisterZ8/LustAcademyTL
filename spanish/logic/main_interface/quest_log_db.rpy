@@ -27,7 +27,7 @@ translate spanish strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:3
-    old "Turns out that the statues in one of the gardens are actually alive! One of them even had a boner while we were walking there with Haley. \"Angels\" storyline for this version of the game has come to an end."
+    old "Turns out that the statues in one of the gardens are actually alive! One of them even had a boner while we were walking there with Haley."
     new "¡Resulta que las estatuas de uno de los jardines están realmente vivas! Una de ellas incluso tuvo una erección con Haley mientras estabamos allí caminando. \"Ángeles\" La historia para esta versión del juego ha llegado al final."
 
     # game/logic/main_interface/quest_log_db.rpy:3
@@ -88,7 +88,7 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Homo/Hetero"
-    new "Gay/Hetero
+    new "Gay/Hetero"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Elijah is the cheerful swashbuckler, Leonheart's headman, and a hoarder who smuggles all sorts of forbidden things into the academy."
@@ -483,8 +483,8 @@ translate spanish strings:
     new "Haley descubrió que el hermano de Elijah y Hans eran amantes y estaban intentado escapar de aquí. Para replicar su ritual y abrir el portal, necesitamos la ayuda de Smantha. Hablaré con ella por la mañana."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "I made arrangements with Samantha and she will help us with the ritual. We're finally going to solve the mystery of E.Bloom. Also, Haley and I made a date. Things are going as well as can be expected!"
-    new "He llegado a un acuerdo con Samantha y ella nos ayudará con el ritual. Por fin vamos a resolver el misterio de E.Bloom. Ademas, Haley y yo tuvimos una cita. ¡Las cosas van tan bien como se podría esperar!"
+    old "I made arrangements with Samantha and she will help us with the ritual. We're finally going to solve the mystery of E.Bloom. Also, Haley and I made a date. Until the date I have to get to Dale to buy the ingredients from Gordon."
+    new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've heard that Jacob usually spends his evenings at the hall. Should I talk to him about something?"
@@ -535,7 +535,7 @@ translate spanish strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "It turned out that Jacob was behind the soul-stealing phantom attack. He was testing me to help him overpower Arthur. Jacob assures me that Arthur is the villain who killed my parents. To deal with him, I asked Leona to obtain for me an ancient artifact - the scroll of the Lion's Seal. Now all we have to do is wait."
+    old "It turned out that Jacob was behind the soul-stealing phantom attack. He was testing me to help him overpower Arthur. Jacob assures me that Arthur is the villain who killed my parents. To deal with him, I asked Leona to obtain for me an ancient artifact - the scroll of the Lion's Seal, but she needs a week to get it. Now I just need to wait."
     new "Resulta que es Jacob quien estaba detras del ataque del espíritu debora almas. Me estaba probando para ayudarle a derrocar a Arthur.  "
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -563,7 +563,7 @@ translate spanish strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "I've agreed to help Sabrina and Lily to harvest some herbs. Lily and I got lost and had an unbelievable adventure."
+    old "I've agreed to help Sabrina and Lily to harvest some herbs. Lily and I got lost and had an unbelievable adventure. I think we need to discuss it before Victoria's classes in the morning."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -579,7 +579,7 @@ translate spanish strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "Good news for students - there's a free room in Dale-ly. Also, I saw Mina reading porno novels. Maybe In future I can use this to lure other dark secrets she might have."
+    old "Good news for students - there's a free room in Dale-ly. Also, I saw Mina reading porno novels. I should talk to her again next time I'll be in Dale."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -619,7 +619,7 @@ translate spanish strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "I took Naomi to the library, and we had some fun time together. I think she finally earned to get those test results..."
+    old "I took Naomi to the library, and we had some fun time together. I think she earned to get those test results. I think I'll meet her in the morning before Victoria's class."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -891,7 +891,7 @@ translate spanish strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1968
-    old "Help your school score points in the competition to spend the weekend at Dale."
+    old "elp your House score points in the competition to spend the weekend at Dale."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1968

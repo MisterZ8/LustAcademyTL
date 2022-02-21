@@ -1954,7 +1954,7 @@ translate philippine Leona_2_label_16a1f0fc:
 translate philippine Leona_2_label_9d137652:
 
     # ch_Name "{i}(Can I turn around now?){/i}"
-    ch_Name ""{i}(Makakatingin na ba ako?){/i}"
+    ch_Name "{i}(Makakatingin na ba ako?){/i}"
 
 # game/logic/events/Leona.rpy:546
 translate philippine Leona_2_label_9ef80b28:
@@ -2824,7 +2824,7 @@ translate philippine Leona_3_label_125eebf6:
 translate philippine Leona_3_label_0088c48a:
 
     # Joshi "Or have you always smelled like shit?!"
-    Joshi "O tae ka na kasi mula noon pa?!
+    Joshi "O tae ka na kasi mula noon pa?!"
 
 # game/logic/events/Leona.rpy:762
 translate philippine Leona_3_label_791a561b:
@@ -3964,7 +3964,7 @@ translate philippine Leona_4_label_cf2a77de:
 translate philippine Leona_4_label_fefeb299:
 
     # ch_Name "{i}(Shit. She's gonna roast me alive at this rate!){/i}"
-    ch_Name ""{i}(Puta. Lulutuin niya ako!){/i}"
+    ch_Name "{i}(Puta. Lulutuin niya ako!){/i}"
 
 # game/logic/events/Leona.rpy:1121
 translate philippine Leona_4_label_0341c1e7:
@@ -5344,7 +5344,7 @@ translate philippine Leona_5_label_01b269f5:
 translate philippine Leona_5_label_9900a37d:
 
     # ch_Name "{i}(Oh, yeah. That's right!){/i}"
-    ch_Name "{i}(Oo nga pala!){/i}""
+    ch_Name "{i}(Oo nga pala!){/i}"
 
 # game/logic/events/Leona.rpy:1475
 translate philippine Leona_5_label_87c629cf:
@@ -7132,13 +7132,13 @@ translate philippine Leona_6_label_eefca1d7:
 translate philippine Leona_6_label_45876514:
 
     # ch_Name "{i}(It sounds crazy... But why would Jacob lie to me?){/i}"
-    ch_Name "{i}(Nakakabaliw naman... Pero bakit ba siyang magsinungaling sa akin?){/i}""
+    ch_Name "{i}(Nakakabaliw naman... Pero bakit ba siyang magsinungaling sa akin?){/i}"
 
 # game/logic/events/Leona.rpy:1909
 translate philippine Leona_6_label_ce849bc4:
 
     # ch_Name "{i}(I'll play along for now. We'll see.){/i}"
-    ch_Name "{i}(Makikipaglaro muna ako sa ngayon. Tignan natin){/i}""
+    ch_Name "{i}(Makikipaglaro muna ako sa ngayon. Tignan natin){/i}"
 
 # game/logic/events/Leona.rpy:1924
 translate philippine Leona_7_label_862d13d7:
@@ -7371,14 +7371,14 @@ translate philippine Leona_7_label_d150551e:
 # game/logic/events/Leona.rpy:1973
 translate philippine Leona_7_label_581301ce:
 
-    # Leona "I don't know. I made sure it would be hard to get."
-    Leona "'Di ko alam. Sinigurado ko na mahirap kunin."
+    # Leona "I don't know. I made sure it would be hard to get. Even for me."
+    Leona "'Di ko alam. Sinigurado ko na mahirap kunin. Kahit para sa akin."
 
 # game/logic/events/Leona.rpy:1974
 translate philippine Leona_7_label_4c1e4977:
 
-    # Leona "Even for me."
-    Leona "Kahit para sa akin."
+    # Leona "I need a week, at least."
+    Leona ""
 
 # game/logic/events/Leona.rpy:1975
 translate philippine Leona_7_label_d81260ab:

@@ -2205,19 +2205,19 @@ translate italian Audrey_7_label_from_gallery_644b1df1:
 # game/logic/events/audrey.rpy:762
 translate italian Audrey_7_label_from_gallery_61c9e939:
 
-    # ch_Name "(Oh, what an unusual feeling...)"
+    # ch_Name "{i}(Oh, what an unusual feeling...){/i}"
     ch_Name ""
 
 # game/logic/events/audrey.rpy:763
 translate italian Audrey_7_label_from_gallery_20a129fc:
 
-    # ch_Name "(It's like she's still sucking even now.)"
+    # ch_Name {i}(It's like she's still sucking even now.){/i}"
     ch_Name ""
 
 # game/logic/events/audrey.rpy:764
 translate italian Audrey_7_label_from_gallery_43c7ab6a:
 
-    # ch_Name "(But why am I so uncomfortable?)"
+    # ch_Name "{i}(But why am I so uncomfortable?){/i}"
     ch_Name ""
 
 # game/logic/events/audrey.rpy:766
@@ -2553,7 +2553,7 @@ translate italian Audrey_7_girl_f39720f7:
 # game/logic/events/audrey.rpy:867
 translate italian Audrey_7_girl_188c5931:
 
-    # ch_Name "{i}(What a cute intimate haircut...){/i}"
+    # ch_Name "{i}(What a cute view...){/i}"
     ch_Name ""
 
 # game/logic/events/audrey.rpy:868
@@ -3405,7 +3405,7 @@ translate italian Audrey_7_girl_51fe0ce2:
 # game/logic/events/audrey.rpy:1067
 translate italian Audrey_7_girl_ce338fb2:
 
-    # ch_Name "But I'll need your help to come."
+    # ch_Name "But I'll need your help to cum."
     ch_Name ""
 
 # game/logic/events/audrey.rpy:1069
@@ -3657,7 +3657,7 @@ translate italian Audrey_7_girl_3e3e63f8:
 # game/logic/events/audrey.rpy:1123
 translate italian Audrey_7_girl_3a0194d2:
 
-    # ch_Name "I'm off"
+    # ch_Name "I'm off."
     ch_Name ""
 
 # game/logic/events/audrey.rpy:1131
@@ -3681,7 +3681,7 @@ translate italian Audrey_7_shemale_ff17a4d0:
 # game/logic/events/audrey.rpy:1136
 translate italian Audrey_7_shemale_02e61f7a:
 
-    # ch_Name "{i}(What a cute little intimate haircut...){/i}"
+    # ch_Name "{i}(What a cute view...){/i}"
     ch_Name ""
 
 # game/logic/events/audrey.rpy:1137
@@ -4515,7 +4515,7 @@ translate italian Audrey_7_shemale_51fe0ce2:
 # game/logic/events/audrey.rpy:1331
 translate italian Audrey_7_shemale_ce338fb2:
 
-    # ch_Name "But I'll need your help to come."
+    # ch_Name "But I'll need your help to cum."
     ch_Name ""
 
 # game/logic/events/audrey.rpy:1333
@@ -8073,8 +8073,8 @@ translate italian Audrey_events_4_label_4_shemale_bb7a1e51:
 # game/logic/events/audrey.rpy:2453
 translate italian Audrey_events_4_label_4_shemale_aea7ce78:
 
-    # Audrey "{i}(You'd do the same for me if you were on my place.){/i}"
-    Audrey ""
+    # ch_Name "{i}(You'd do the same for me if you were on my place.){/i}"
+    ch_Name ""
 
 # game/logic/events/audrey.rpy:2454
 translate italian Audrey_events_4_label_4_shemale_edef34cc:
@@ -9747,7 +9747,7 @@ translate italian Audrey_9_label_L_77_2503f4fe:
 # game/logic/events/audrey.rpy:2907
 translate italian Audrey_9_label_L_77_188c5931:
 
-    # ch_Name "{i}(What a cute intimate haircut...){/i}"
+    # ch_Name "{i}(What a cute view...){/i}"
     ch_Name ""
 
 # game/logic/events/audrey.rpy:2908
@@ -9861,7 +9861,7 @@ translate italian Audrey_9_label_L_77_2503f4fe_1:
 # game/logic/events/audrey.rpy:2938
 translate italian Audrey_9_label_L_77_02e61f7a:
 
-    # ch_Name "{i}(What a cute little intimate haircut...){/i}"
+    # ch_Name "{i}(What a cute view...){/i}"
     ch_Name ""
 
 # game/logic/events/audrey.rpy:2939
@@ -10707,7 +10707,7 @@ translate italian Audrey_9_label_L_184_51fe0ce2:
 # game/logic/events/audrey.rpy:3148
 translate italian Audrey_9_label_L_184_ce338fb2:
 
-    # ch_Name "But I'll need your help to come."
+    # ch_Name "But I'll need your help to cum."
     ch_Name ""
 
 # game/logic/events/audrey.rpy:3150
@@ -10959,7 +10959,7 @@ translate italian Audrey_9_label_L_184_3e3e63f8:
 # game/logic/events/audrey.rpy:3204
 translate italian Audrey_9_label_L_184_3a0194d2:
 
-    # ch_Name "I'm off"
+    # ch_Name "I'm off."
     ch_Name ""
 
 # game/logic/events/audrey.rpy:3217
@@ -11667,7 +11667,7 @@ translate italian Audrey_9_label_L_374_51fe0ce2:
 # game/logic/events/audrey.rpy:3381
 translate italian Audrey_9_label_L_374_ce338fb2:
 
-    # ch_Name "But I'll need your help to come."
+    # ch_Name "But I'll need your help to cum."
     ch_Name ""
 
 # game/logic/events/audrey.rpy:3383

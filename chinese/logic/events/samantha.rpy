@@ -3225,7 +3225,7 @@ translate chinese Samantha_8_label_b6e4953b:
 # game/logic/events/samantha.rpy:1085
 translate chinese Samantha_8_label_5b15a857:
 
-    # ch_Name "{i}(One more day of this life).{/i}"
+    # ch_Name "{i}(One more day of this life.){/i}"
     ch_Name "{i}(生命中的最后一天。){/i}"
 
 # game/logic/events/samantha.rpy:1086

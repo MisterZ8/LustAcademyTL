@@ -3225,7 +3225,7 @@ translate russian Samantha_8_label_b6e4953b:
 # game/logic/events/samantha.rpy:1085
 translate russian Samantha_8_label_5b15a857:
 
-    # ch_Name "{i}(One more day of this life).{/i}"
+    # ch_Name "{i}(One more day of this life.){/i}"
     ch_Name "{i}(Ещё один день этой жизни.){/i}"
 
 # game/logic/events/samantha.rpy:1086

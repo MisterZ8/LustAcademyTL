@@ -513,7 +513,7 @@ translate spanish romul_1_label_menu_bribe_7b254889:
 # game/logic/events/romul.rpy:190
 translate spanish romul_2_label_89fc89bf:
 
-    # ch_Name "{i}(Hmm, this looks like a service exit from a nightclub.){/i}"
+    # ch_Name "{i}(Hmm, this looks like a staff exit from the nightclub.){/i}"
     ch_Name ""
 
 # game/logic/events/romul.rpy:192
@@ -525,7 +525,7 @@ translate spanish romul_2_label_9f9c2cee:
 # game/logic/events/romul.rpy:194
 translate spanish romul_2_label_453bd138:
 
-    # ch_Name "{i}(The entrance clearly costs less than a whole envelope of dough...){/i}"
+    # ch_Name "{i}(Entry clearly costs less than a whole envelope of dough...){/i}"
     ch_Name ""
 
 # game/logic/events/romul.rpy:196
@@ -549,7 +549,7 @@ translate spanish romul_2_label_4ee13620:
 # game/logic/events/romul.rpy:200
 translate spanish romul_2_label_2ef37573:
 
-    # ch_Name "{i}(Someone comes out. A girl.){/i}"
+    # ch_Name "{i}(Someone's coming out. A girl.){/i}"
     ch_Name ""
 
 # game/logic/events/romul.rpy:201
@@ -693,7 +693,7 @@ translate spanish romul_2_label_9041e7ef:
 # game/logic/events/romul.rpy:238
 translate spanish romul_2_label_72754f94:
 
-    # Adele "YOU DISGUST ME AS A MAN!"
+    # Adele "YOU'RE A DISGUSTING PERSON!"
     Adele ""
 
 # game/logic/events/romul.rpy:239
@@ -885,7 +885,7 @@ translate spanish romul_2_label_a5ada291:
 # game/logic/events/romul.rpy:288
 translate spanish romul_2_label_889d1d47:
 
-    # ch_Name "The one who's about to kick your ass."
+    # ch_Name "The guy who's about to kick your ass."
     ch_Name ""
 
 # game/logic/events/romul.rpy:289
@@ -1005,7 +1005,7 @@ translate spanish romul_2_label_f5935405:
 # game/logic/events/romul.rpy:320
 translate spanish romul_2_label_8d97d692:
 
-    # Adele "Go cry to your moma, sucker!"
+    # Adele "Go back to mommy, you abortion!"
     Adele ""
 
 # game/logic/events/romul.rpy:322
@@ -1203,13 +1203,13 @@ translate spanish romul_2_label_f5935405_1:
 # game/logic/events/romul.rpy:367
 translate spanish romul_2_label_8d97d692_1:
 
-    # Adele "Go cry to your moma, sucker!"
+    # Adele "Go back to mommy, you abortion!"
     Adele ""
 
 # game/logic/events/romul.rpy:369
 translate spanish romul_2_label_ae8ef829:
 
-    # Adele "Hey... Thank's a lot!"
+    # Adele "Hey... Thanks a lot!"
     Adele ""
 
 # game/logic/events/romul.rpy:370
@@ -1221,19 +1221,19 @@ translate spanish romul_2_label_8039405a:
 # game/logic/events/romul.rpy:371
 translate spanish romul_2_label_333cdd94:
 
-    # ch_Name "{i}(In the end she did everything herrself...){/i}"
+    # ch_Name "{i}(In the end she did everything herself...){/i}"
     ch_Name ""
 
 # game/logic/events/romul.rpy:372
 translate spanish romul_2_label_fbd6cc9e:
 
-    # Adele "I couldn't do it without you."
+    # Adele "I couldn't have done it without you."
     Adele ""
 
 # game/logic/events/romul.rpy:373
 translate spanish romul_2_label_f0065d89:
 
-    # ch_Name "{i}(Do you think it's obvious that I stare at her boobs?){/i}"
+    # ch_Name "{i}(Do you think it's obvious that I'm staring at her boobs?){/i}"
     ch_Name ""
 
 # game/logic/events/romul.rpy:375
@@ -1371,7 +1371,7 @@ translate spanish romul_2_label_f5935405_2:
 # game/logic/events/romul.rpy:407
 translate spanish romul_2_label_8d97d692_2:
 
-    # Adele "Go cry to your moma, sucker!"
+    # Adele "Go back to mommy, you abortion!"
     Adele ""
 
 # game/logic/events/romul.rpy:409
@@ -1491,7 +1491,7 @@ translate spanish romul_2_label_9fb9135b:
 # game/logic/events/romul.rpy:434
 translate spanish romul_2_label_3dbf630b:
 
-    # Adele "It's a {b}VIP pass{/b} for club member."
+    # Adele "It's a {b}VIP pass{/b} for club members."
     Adele ""
 
 # game/logic/events/romul.rpy:436
@@ -1515,7 +1515,7 @@ translate spanish romul_2_label_7b4843f8:
 # game/logic/events/romul.rpy:440
 translate spanish romul_2_label_1151a353:
 
-    # Adele "I've gotta go, hon. Thank's again!"
+    # Adele "I've gotta go, hon. Thanks again!"
     Adele ""
 
 # game/logic/events/romul.rpy:441

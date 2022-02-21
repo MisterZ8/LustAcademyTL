@@ -7372,14 +7372,14 @@ translate chinese Leona_7_label_d150551e:
 # game/logic/events/Leona.rpy:1973
 translate chinese Leona_7_label_581301ce:
 
-    # Leona "I don't know. I made sure it would be hard to get."
-    Leona "我不知道。我确保它很难拿到。"
+    # Leona "I don't know. I made sure it would be hard to get. Even for me."
+    Leona "我不知道。我确保它很难拿到。甚至对我来说。"
 
 # game/logic/events/Leona.rpy:1974
 translate chinese Leona_7_label_4c1e4977:
 
-    # Leona "Even for me."
-    Leona "甚至对我来说。"
+    # Leona "I need a week, at least."
+    Leona ""
 
 # game/logic/events/Leona.rpy:1975
 translate chinese Leona_7_label_d81260ab:

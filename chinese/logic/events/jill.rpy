@@ -135,7 +135,7 @@ translate chinese Jill_2_label_8_1855220c:
 # game/logic/events/jill.rpy:135
 translate chinese Jill_2_label_8_c1947b95:
 
-    # Faith "You know, your muscle pain."
+    # Faith "You know, of your muscle pain."
     Faith "你知道，你的肌肉疼痛。"
 
 # game/logic/events/jill.rpy:137
@@ -207,7 +207,7 @@ translate chinese Jill_2_label_8_b3f849ab:
 # game/logic/events/jill.rpy:152
 translate chinese Jill_2_label_8_5c116305:
 
-    # ch_Name "{i}(My leg...What's going on?){/i}"
+    # ch_Name "{i}(My leg... What's going on?){/i}"
     ch_Name "{i}(我的腿... 这是怎么呢？){/i}"
 
 # game/logic/events/jill.rpy:153
@@ -249,7 +249,7 @@ translate chinese Jill_2_label_8_94cd9f76:
 # game/logic/events/jill.rpy:161
 translate chinese Jill_2_label_8_65319b24:
 
-    # ch_Name "Um...Y-yes, I guess."
+    # ch_Name "Um... Y-yes, I guess."
     ch_Name "嗯... 是-是的，我猜。"
 
 # game/logic/events/jill.rpy:162
@@ -279,13 +279,13 @@ translate chinese Jill_2_label_8_796bb54f:
 # game/logic/events/jill.rpy:167
 translate chinese Jill_2_label_8_c9bf1b92:
 
-    # Faith "You're too tense... Ah..."
+    # Faith "You're too tense...{w} Ah..."
     Faith "你太紧张... 啊..."
 
 # game/logic/events/jill.rpy:169
 translate chinese Jill_2_label_8_90bf3fd5:
 
-    # Faith "Relax your shoulders... Ah... Now we'll give them a good..."
+    # Faith "Relax your shoulders...{w} Ah...{w} Now we'll give them a good..."
     Faith "放松你的肩膀... 啊... 现在我们要给他们一个..."
 
 # game/logic/events/jill.rpy:170
@@ -303,7 +303,7 @@ translate chinese Jill_2_label_8_8acca11e:
 # game/logic/events/jill.rpy:173
 translate chinese Jill_2_label_8_aa947108:
 
-    # Faith "Oh... Yeah... What the hell is that..."
+    # Faith "Oh... Yeah...{w} What the hell is that..."
     Faith "哦... 是的... 那是什么鬼东西..."
 
 # game/logic/events/jill.rpy:175
@@ -807,7 +807,7 @@ translate chinese Jill_3_label_0106b1fc:
 # game/logic/events/jill.rpy:313
 translate chinese Jill_3_label_0ba43894:
 
-    # Faith "Of course I can."
+    # Faith "Of course, I can."
     Faith "我当然可以。"
 
 # game/logic/events/jill.rpy:315
@@ -909,7 +909,7 @@ translate chinese Jill_3_label_44372b34:
 # game/logic/events/jill.rpy:336
 translate chinese Jill_3_label_bbd56698:
 
-    # Faith "I need to go, sorry,"
+    # Faith "I need to go, sorry."
     Faith "我得走了，抱歉。"
 
 # game/logic/events/jill.rpy:337
@@ -963,7 +963,7 @@ translate chinese Jill_3_label_1501b90b:
 # game/logic/events/jill.rpy:349
 translate chinese Jill_3_label_545f1c4d:
 
-    # Faith "Wow...Yeah, you sure did enjoy my massage."
+    # Faith "Wow... Yeah, you sure did enjoy my massage."
     Faith "哇... 是啊，你真的很享受我的按摩。"
 
 # game/logic/events/jill.rpy:350
@@ -1029,7 +1029,7 @@ translate chinese Jill_3_label_78fcf97c:
 # game/logic/events/jill.rpy:366
 translate chinese Jill_3_label_d7923bce:
 
-    # "[Name] Spend the rest of the day wandering around Dale and sightseeing."
+    # "I spend the rest of the day wandering around Dale and sightseeing."
     "[Name]剩下的时间，你可以在Dale附近闲逛观光。"
 
 # game/logic/events/jill.rpy:369

@@ -4137,7 +4137,7 @@ translate hindi Lily_6_label_from_gallery_dcaf3092:
 # game/logic/events/lily.rpy:1399
 translate hindi Lily_6_label_from_gallery_32946264:
 
-    # Lily "{i}You're cute.{/i}"
+    # Lily "You're cute."
     Lily ""
 
 # game/logic/events/lily.rpy:1401
@@ -4503,7 +4503,7 @@ translate hindi Lily_6_label_from_gallery_a109a1bc:
 # game/logic/events/lily.rpy:1496
 translate hindi Lily_6_label_from_gallery_7659af10:
 
-    # ch_Name "what a view!"
+    # ch_Name "What a view!"
     ch_Name ""
 
 # game/logic/events/lily.rpy:1498
@@ -4941,7 +4941,7 @@ translate hindi Lily_6_label_224_9cdd9737:
 # game/logic/events/lily.rpy:1614
 translate hindi Lily_6_label_224_1ad90dd1_2:
 
-    # Lily "[Name]..."
+    # Lily "Mhm-mm..."
     Lily ""
 
 # game/logic/events/lily.rpy:1615

@@ -261,7 +261,7 @@ translate brazilian Katrina_1_label_615d2280:
 # game/logic/events/Katrina.rpy:75
 translate brazilian Katrina_1_label_7c05334e:
 
-    # ch_Name "I'm coming!"
+    # ch_Name "I'm cuming!"
     ch_Name "Estou indo!"
 
 # game/logic/events/Katrina.rpy:81

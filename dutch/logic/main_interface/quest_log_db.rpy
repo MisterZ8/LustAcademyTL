@@ -27,7 +27,7 @@ translate dutch strings:
     new "Earhart"
 
     # game/logic/main_interface/quest_log_db.rpy:3
-    old "Turns out that the statues in one of the gardens are actually alive! One of them even had a boner while we were walking there with Haley. \"Angels\" storyline for this version of the game has come to an end."
+    old "Turns out that the statues in one of the gardens are actually alive! One of them even had a boner while we were walking there with Haley."
     new "Het blijkt dat de standbeelden in één van de tuinen echt leven! Eén van hen had zelfs een stijve toen we daar liepen met Haley. \"Angels\" verhaallijn voor deze versie van het spel is tot een einde gekomen."
 
     # game/logic/main_interface/quest_log_db.rpy:3
@@ -483,8 +483,8 @@ translate dutch strings:
     new "Haley heeft ontdekt dat Elijah's broer en Hans minnaars waren en probeerden om hier weg te komen. Om hun ritueel te herhalen en de poort te openen, hebben we Samantha's hulp nodig. Ik zal met haar in de ochtend praten."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "I made arrangements with Samantha and she will help us with the ritual. We're finally going to solve the mystery of E.Bloom. Also, Haley and I made a date. Things are going as well as can be expected!"
-    new "Ik heb afspraken gemaakt met Samantha en zij zal ons helpen met het ritueel. We gaan eindelijk het mysterie van E.Bloom oplossen. En ik heb ook nog een date met Haley. Het loopt allemaal perfect als gehoopt!"
+    old "I made arrangements with Samantha and she will help us with the ritual. We're finally going to solve the mystery of E.Bloom. Also, Haley and I made a date. Until the date I have to get to Dale to buy the ingredients from Gordon."
+    new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've heard that Jacob usually spends his evenings at the hall. Should I talk to him about something?"
@@ -535,7 +535,7 @@ translate dutch strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "It turned out that Jacob was behind the soul-stealing phantom attack. He was testing me to help him overpower Arthur. Jacob assures me that Arthur is the villain who killed my parents. To deal with him, I asked Leona to obtain for me an ancient artifact - the scroll of the Lion's Seal. Now all we have to do is wait."
+    old "It turned out that Jacob was behind the soul-stealing phantom attack. He was testing me to help him overpower Arthur. Jacob assures me that Arthur is the villain who killed my parents. To deal with him, I asked Leona to obtain for me an ancient artifact - the scroll of the Lion's Seal, but she needs a week to get it. Now I just need to wait."
     new "Het bleek dat Jacob achter de zielen-stelende geestenaanval zat. Hij gebruikte mij als test, zodat hij Arthur kon overmeesteren. Jacob verzekert me dat Arthur de schurk is die mijn ouders heeft vermoord. Om met hem af te rekenen, vroeg ik Leona om een oud artefact voor me te halen - de rol van het Zegel van de Leeuw. Nu hoeven we alleen nog maar te wachten."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -563,8 +563,8 @@ translate dutch strings:
     new "We hadden wat lol met Lily en besloten de volgende keer andere huis-gerelateerde plannen te bespreken. Misschien moet ik mijn hulp aanbieden voordat Sabrina's les begint."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "I've agreed to help Sabrina and Lily to harvest some herbs. Lily and I got lost and had an unbelievable adventure."
-    new "Ik heb ingestemd om Sabrina en Lily te helpen om wat kruiden te oogsten. Lily en ik waren verdwaald en hadden een onvoorstelbaar avontuur."
+    old "I've agreed to help Sabrina and Lily to harvest some herbs. Lily and I got lost and had an unbelievable adventure. I think we need to discuss it before Victoria's classes in the morning."
+    new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I told Sabrina about the mushroom girl I saw in the woods, and it turns out that the existence of these creatures has not yet been proven as a fact. I could be the discoverer of this species if I could find proof. But I have to wait until the compass is fixed."
@@ -579,7 +579,7 @@ translate dutch strings:
     new "Lucy is een knappe Europese meid die als stripper werkt bij Lady Luck. Ik denk dat we samen wat plezier kunnen maken in de VIP lounge."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "Good news for students - there's a free room in Dale-ly. Also, I saw Mina reading porno novels. Maybe In future I can use this to lure other dark secrets she might have."
+    old "Good news for students - there's a free room in Dale-ly. Also, I saw Mina reading porno novels. I should talk to her again next time I'll be in Dale."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -619,7 +619,7 @@ translate dutch strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "I took Naomi to the library, and we had some fun time together. I think she finally earned to get those test results..."
+    old "I took Naomi to the library, and we had some fun time together. I think she earned to get those test results. I think I'll meet her in the morning before Victoria's class."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -891,7 +891,7 @@ translate dutch strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1968
-    old "Help your school score points in the competition to spend the weekend at Dale."
+    old "elp your House score points in the competition to spend the weekend at Dale."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1968

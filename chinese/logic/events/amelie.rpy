@@ -2649,7 +2649,7 @@ translate chinese Amelie_4_label_4fa480ef:
 # game/logic/events/amelie.rpy:905
 translate chinese Amelie_4_label_7334a54d:
 
-    # ch_Name "{i}(This trip to the woods with Amelia was pretty exhausting.){/i}"
+    # ch_Name "{i}(This trip to the woods with Amelie was pretty exhausting.){/i}"
     ch_Name "{i}(这次和Amelie去树林的旅行真累人。){/i}"
 
 # game/logic/events/amelie.rpy:906

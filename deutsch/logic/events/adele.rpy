@@ -304,7 +304,7 @@ translate deutsch adele_1_label_27dcfcc4:
 translate deutsch adele_1_label_6fc7e93d:
 
     # Adele "Anyway, if you want to watch a dance or go to a private room."
-    Adele "Jedenfalls, wenn du einen Tanz sehen willst oder in ein privates Zimmer gehen willst,
+    Adele "Jedenfalls, wenn du einen Tanz sehen willst oder in ein privates Zimmer gehen willst."
 
 # game/logic/events/adele.rpy:159
 translate deutsch adele_1_label_12471e65:
@@ -2661,7 +2661,7 @@ translate deutsch vip_lucy_1_label_2_46a393ac:
 # game/logic/events/adele.rpy:962
 translate deutsch vip_lucy_1_label_2_cc9f221d:
 
-    # ch_Name "{i}(What does she want for today?){/i}"
+    # ch_Name "{i}(What does she want today?){/i}"
     ch_Name "{i}(Was wünscht sie sich denn für heute?){/i}"
 
 # game/logic/events/adele.rpy:963
@@ -2679,7 +2679,7 @@ translate deutsch vip_lucy_1_label_2_5af21751:
 # game/logic/events/adele.rpy:966
 translate deutsch vip_lucy_1_label_2_10a36858:
 
-    # ch_Name "{i}(Only look at this gorgeous view!){/i}"
+    # ch_Name "{i}(Just look at this gorgeous view!){/i}"
     ch_Name "{i}(Schau dir diese herrliche Aussicht an!){/i}"
 
 # game/logic/events/adele.rpy:967
@@ -2727,7 +2727,7 @@ translate deutsch vip_lucy_1_label_2_14abe349:
 # game/logic/events/adele.rpy:976
 translate deutsch vip_lucy_1_label_2_91bdfb58:
 
-    # ch_Name "I cannot imagine that I can get bored in your company."
+    # ch_Name "I can't imagine getting bored in your company."
     ch_Name "Ich kann mir nicht vorstellen, dass ich mich jemals in deiner Gesallschaft langweilen könnte."
 
 # game/logic/events/adele.rpy:978
@@ -2787,7 +2787,7 @@ translate deutsch vip_lucy_1_label_2_86590cae:
 # game/logic/events/adele.rpy:989
 translate deutsch vip_lucy_1_label_2_587f853f:
 
-    # ch_Name "Easily lose control when I only look at this curves!"
+    # ch_Name "It's easy to lose control when I look at these curves!"
     ch_Name "Es ist leicht die Kontrolle zu verlieren, wenn ich nur diese Kurven anschaue!"
 
 # game/logic/events/adele.rpy:991
@@ -2817,7 +2817,7 @@ translate deutsch vip_lucy_1_label_2_34e47ffc:
 # game/logic/events/adele.rpy:996
 translate deutsch vip_lucy_1_label_2_c22fdd17:
 
-    # Lucy "I'm getting more and more wet because of your touching."
+    # Lucy "I'm getting wetter and wetter from your touching."
     Lucy "Ich werde durch deine Berührungen immer feuchter."
 
 # game/logic/events/adele.rpy:997
@@ -2877,7 +2877,7 @@ translate deutsch vip_lucy_1_label_2_05918863:
 # game/logic/events/adele.rpy:1009
 translate deutsch vip_lucy_1_label_2_4ef326b1:
 
-    # ch_Name "{i}(Such a view!){/i}"
+    # ch_Name "{i}(What a view!){/i}"
     ch_Name "{i}(Was für ein Anblick!){/i}"
 
 # game/logic/events/adele.rpy:1010
@@ -2913,13 +2913,13 @@ translate deutsch vip_lucy_1_label_2_5d6c7c09:
 # game/logic/events/adele.rpy:1017
 translate deutsch vip_lucy_1_label_2_1011a685:
 
-    # Lucy "Want to rub my pussy on your cock..."
+    # Lucy "I want to rub my pussy on your cock..."
     Lucy "Ich möchte meine Pussy an deinem Schwanz reiben..."
 
 # game/logic/events/adele.rpy:1018
 translate deutsch vip_lucy_1_label_2_503c87ce:
 
-    # Lucy "To feel how it getting hard..."
+    # Lucy "To feel it getting hard..."
     Lucy "Um zu fühlen, wie er hart wird..."
 
 # game/logic/events/adele.rpy:1019
@@ -2943,7 +2943,7 @@ translate deutsch vip_lucy_1_label_2_aa08e17a:
 # game/logic/events/adele.rpy:1023
 translate deutsch vip_lucy_1_label_2_268919b2:
 
-    # Lucy "So pleasant to think about my body turning you on."
+    # Lucy "It's so nice to think about my body turning you on."
     Lucy "Es ist so schön, daran zu denken, dass mein Körper dich so erregt."
 
 # game/logic/events/adele.rpy:1024
@@ -2967,7 +2967,7 @@ translate deutsch vip_lucy_1_label_2_199eae7a:
 # game/logic/events/adele.rpy:1028
 translate deutsch vip_lucy_1_label_2_a9f09a39:
 
-    # Lucy "I cannot even imagine what can I experience using this toy."
+    # Lucy "I cannot even imagine what I can experience using this toy."
     Lucy "Ich kann mir gar nicht vorstellen, was ich mit diesem Ding alles erleben kann."
 
 # game/logic/events/adele.rpy:1030
@@ -2985,7 +2985,7 @@ translate deutsch vip_lucy_1_label_2_4a7474b0:
 # game/logic/events/adele.rpy:1033
 translate deutsch vip_lucy_1_label_2_e859a981:
 
-    # ch_Name "Ohhrrhh!"
+    # ch_Name "Ohhhh!"
     ch_Name ""
 
 # game/logic/events/adele.rpy:1034
@@ -3069,7 +3069,7 @@ translate deutsch vip_lucy_1_label_2_0ae9bcd0_3:
 # game/logic/events/adele.rpy:1050
 translate deutsch vip_lucy_1_label_2_4abaf7a3:
 
-    # ch_Name "Keep moving you ass, bitch."
+    # ch_Name "Keep moving your ass, bitch."
     ch_Name "Beweg deinen Arsch weiter, Bitch."
 
 # game/logic/events/adele.rpy:1051
@@ -3081,7 +3081,7 @@ translate deutsch vip_lucy_1_label_2_dd10c660:
 # game/logic/events/adele.rpy:1053
 translate deutsch vip_lucy_1_label_2_f49bb6ed:
 
-    # ch_Name "{i}(I never felt the way I do!){/i}"
+    # ch_Name "{i}(I never felt this way before!){/i}"
     ch_Name "{i}(Ich habe mich noch nie so gefühlt wie jetzt!){/i}"
 
 # game/logic/events/adele.rpy:1054
@@ -3111,7 +3111,7 @@ translate deutsch vip_lucy_1_label_2_59b62c87_1:
 # game/logic/events/adele.rpy:1059
 translate deutsch vip_lucy_1_label_2_0728f8ee:
 
-    # ch_Name "So amazing to feel your every dirty hole."
+    # ch_Name "It's so amazing to feel your every dirty hole."
     ch_Name "Es is so fantastisch, jedes deiner schmutzigen Löcher zu spüren."
 
 # game/logic/events/adele.rpy:1060
@@ -3123,7 +3123,7 @@ translate deutsch vip_lucy_1_label_2_4902deb4:
 # game/logic/events/adele.rpy:1061
 translate deutsch vip_lucy_1_label_2_022262cc:
 
-    # Lucy "My skin wants to feel your semen!"
+    # Lucy "My skin wants to feel your cum!"
     Lucy "Meine Haut will dein Sperma fühlen!"
 
 # game/logic/events/adele.rpy:1063
@@ -3159,19 +3159,19 @@ translate deutsch vip_lucy_1_label_2_b7f092b8:
 # game/logic/events/adele.rpy:1069
 translate deutsch vip_lucy_1_label_2_87084097:
 
-    # Lucy "So pleasantly to feel how it's flowing."
+    # Lucy "It's so pleasant to feel it flowing."
     Lucy "Es ist so angenehm zu spüren, wie es meinem Körper herunter fließt."
 
 # game/logic/events/adele.rpy:1071
 translate deutsch vip_lucy_1_label_2_f66c5d3b:
 
-    # ch_Name "{i}(What's a little bitch!){/i}"
+    # ch_Name "{i}(What a little bitch!){/i}"
     ch_Name "{i}(Was für eine kleine Schlampe!){/i}"
 
 # game/logic/events/adele.rpy:1072
 translate deutsch vip_lucy_1_label_2_050f9313:
 
-    # Lucy "Just inexpressibly!"
+    # Lucy "Just inexpressible!"
     Lucy "Einfach unbeschreiblich!"
 
 # game/logic/events/adele.rpy:1073
@@ -3207,7 +3207,7 @@ translate deutsch vip_lucy_1_label_2_4a6f830b:
 # game/logic/events/adele.rpy:1080
 translate deutsch vip_lucy_1_label_2_4fc098f8:
 
-    # Lucy "Hope you will visit us often."
+    # Lucy "I hope you visit us often."
     Lucy "Ich hoffe, dass du uns öfter besuchen kommst."
 
 # game/logic/events/adele.rpy:1081
@@ -4492,7 +4492,7 @@ translate deutsch vip_sadira_1_label_2_35b7dba8:
 translate deutsch vip_sadira_1_label_2_b732c533:
 
     # ch_Name "{i}(But she's a master of her craft, too.){/i}"
-    ch_Name ""{i}(Aber sie ist auch eine Expertin in ihrem Fach.){/i}"
+    ch_Name "{i}(Aber sie ist auch eine Expertin in ihrem Fach.){/i}"
 
 # game/logic/events/adele.rpy:1452
 translate deutsch vip_sadira_1_label_2_42ace6ff:
@@ -5026,7 +5026,7 @@ translate deutsch vip_sadira_1_label_2_95e4d8ed:
 translate deutsch vip_sadira_1_label_2_5fabf729_1:
 
     # ch_Name "{i}(The day will come when I fuck her good.){/i}"
-    ch_Name "{i}(Es wird ein Tag kommen, an dem ich sie richtig gut ficken werde.){/i}""
+    ch_Name "{i}(Es wird ein Tag kommen, an dem ich sie richtig gut ficken werde.){/i}"
 
 # game/logic/events/adele.rpy:1571
 translate deutsch vip_sadira_1_label_2_359f73ab:
@@ -7545,13 +7545,13 @@ translate deutsch adele_3_label_c901dc92:
 # game/logic/events/adele.rpy:2298
 translate deutsch adele_3_label_978a119d:
 
-    # Adele "By the way, Vanessa bragged that she's getting better at Bloody Merry's."
+    # Adele "By the way, Vanessa bragged that she's getting better at making Bloody Mary's."
     Adele "Übrigens hat Vanessa damit geprahlt, dass sie bei Bloody Mary’s immer besser wird."
 
 # game/logic/events/adele.rpy:2299
 translate deutsch adele_3_label_0960d251:
 
-    # Adele "Would you like to give it a try?"
+    # Adele "Since you have the nerve to ask me out..."
     Adele "Möchtest du einen mal ausprobieren?"
 
 # game/logic/events/adele.rpy:2300
@@ -7972,7 +7972,7 @@ translate deutsch adele_4_label_41c5f930:
 translate deutsch adele_4_label_a22620e8:
 
     # ch_Name "{i}(Would've spent the whole day without taking my eyes off of them.){/i}"
-    ch_Name "{i}(Ich hätte den ganzen Tag damit verbracht, sie nicht aus den Augen zu lassen.){/i}
+    ch_Name "{i}(Ich hätte den ganzen Tag damit verbracht, sie nicht aus den Augen zu lassen.){/i}"
 
 # game/logic/events/adele.rpy:2412
 translate deutsch adele_4_label_8982e1c4:

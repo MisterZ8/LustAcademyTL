@@ -82,7 +82,7 @@ translate philippine Audrey_1_label_0bd26bf9:
 translate philippine Audrey_1_label_36f5caac:
 
     # ch_Name "{i}(Not likely to be the reason Samantha tolerates you.){/i}"
-    ch_Name ""{i}(Hindi 'yan ang dahilan kung bakit kaibigan ka ni Samantha.){/i}""
+    ch_Name "{i}(Hindi 'yan ang dahilan kung bakit kaibigan ka ni Samantha.){/i}"
 
 # game/logic/events/audrey.rpy:163
 translate philippine Audrey_1_label_d4b0ea65:
@@ -454,7 +454,7 @@ translate philippine Audrey_2_label_bb01f59f:
 translate philippine Audrey_2_label_bbbb902c:
 
     # ch_Name "You can't get milk or cream."
-    ch_Name "Hindi ka makakuha ng gatas o krema.
+    ch_Name "Hindi ka makakuha ng gatas o krema."
 
 # game/logic/events/audrey.rpy:262
 translate philippine Audrey_2_label_f7f973e5:
@@ -718,7 +718,7 @@ translate philippine Audrey_3_label_a27a266e:
 translate philippine Audrey_3_label_6e2690ce:
 
     # ch_Name "Thank you.{w} I guess..."
-    ch_Name "Salamat...{w}
+    ch_Name "Salamat...{w}"
 
 # game/logic/events/audrey.rpy:333
 translate philippine Audrey_3_label_753daed0:
@@ -1096,19 +1096,19 @@ translate philippine Audrey_7_label_0823ac76:
 translate philippine Audrey_7_label_27d2296a:
 
     # ch_Name "{i}(Samantha would not get and feed that beast right after she told me.){/i}"
-    ch_Name "{i}(Hindi naman gaganyan si Samantha.){/i}""
+    ch_Name "{i}(Hindi naman gaganyan si Samantha.){/i}"
 
 # game/logic/events/audrey.rpy:437
 translate philippine Audrey_7_label_446ee609:
 
     # ch_Name "{i}(Or would she?){/i}"
-    ch_Name "{i}(Diba?){/i}""
+    ch_Name "{i}(Diba?){/i}"
 
 # game/logic/events/audrey.rpy:438
 translate philippine Audrey_7_label_a0baae2e:
 
     # ch_Name "{i}(What else could they be doing?){/i}"
-    ch_Name "{i}(Ano pa ba ang ibang magagawa nila?){/i}""
+    ch_Name "{i}(Ano pa ba ang ibang magagawa nila?){/i}"
 
 # game/logic/events/audrey.rpy:439
 translate philippine Audrey_7_label_4e3f1738:
@@ -1186,7 +1186,7 @@ translate philippine Audrey_7_label_821f8ac5:
 translate philippine Audrey_7_label_574ebfcb:
 
     # ch_Name "{i}(I dunno... Talking about boys.){/i}"
-    ch_Name ""{i}('Di ko alam... Nag-uusap tungkol sa mga lalaki.){/i}""
+    ch_Name "{i}('Di ko alam... Nag-uusap tungkol sa mga lalaki.){/i}"
 
 # game/logic/events/audrey.rpy:458
 translate philippine Audrey_7_label_e67e65dd:
@@ -1342,7 +1342,7 @@ translate philippine Audrey_7_label_c3756b24:
 translate philippine Audrey_7_label_6f230b8d:
 
     # ch_Name "{i}(Oh, that's a woman thing.){/i}"
-    ch_Name ""{i}(Pambabae naman 'yun.){/i}""
+    ch_Name "{i}(Pambabae naman 'yun.){/i}"
 # game/logic/events/audrey.rpy:501
 translate philippine Audrey_7_label_cf6eccec:
 
@@ -2203,19 +2203,19 @@ translate philippine Audrey_7_label_from_gallery_644b1df1:
 # game/logic/events/audrey.rpy:762
 translate philippine Audrey_7_label_from_gallery_61c9e939:
 
-    # ch_Name "(Oh, what an unusual feeling...)"
+    # ch_Name "{i}(Oh, what an unusual feeling...){/i}"
     ch_Name "(Nakakaiba ang pakiramdam na ito...)"
 
 # game/logic/events/audrey.rpy:763
 translate philippine Audrey_7_label_from_gallery_20a129fc:
 
-    # ch_Name "(It's like she's still sucking even now.)"
+    # ch_Name {i}(It's like she's still sucking even now.){/i}"
     ch_Name "(Parang tsinutsupa pa rin niya ako..)"
 
 # game/logic/events/audrey.rpy:764
 translate philippine Audrey_7_label_from_gallery_43c7ab6a:
 
-    # ch_Name "(But why am I so uncomfortable?)"
+    # ch_Name "{i}(But why am I so uncomfortable?){/i}"
     ch_Name "(Pero bakit ako napapagod?)"
 
 # game/logic/events/audrey.rpy:766
@@ -2551,7 +2551,7 @@ translate philippine Audrey_7_girl_f39720f7:
 # game/logic/events/audrey.rpy:867
 translate philippine Audrey_7_girl_188c5931:
 
-    # ch_Name "{i}(What a cute intimate haircut...){/i}"
+    # ch_Name "{i}(What a cute view...){/i}"
     ch_Name "{i}(Nakakatuwa naman an gupit niya...){/i}"
 
 # game/logic/events/audrey.rpy:868
@@ -3403,7 +3403,7 @@ translate philippine Audrey_7_girl_51fe0ce2:
 # game/logic/events/audrey.rpy:1067
 translate philippine Audrey_7_girl_ce338fb2:
 
-    # ch_Name "But I'll need your help to come."
+    # ch_Name "But I'll need your help to cum."
     ch_Name ""
 
 # game/logic/events/audrey.rpy:1069
@@ -3655,7 +3655,7 @@ translate philippine Audrey_7_girl_3e3e63f8:
 # game/logic/events/audrey.rpy:1123
 translate philippine Audrey_7_girl_3a0194d2:
 
-    # ch_Name "I'm off"
+    # ch_Name "I'm off."
     ch_Name ""
 
 # game/logic/events/audrey.rpy:1131
@@ -3679,7 +3679,7 @@ translate philippine Audrey_7_shemale_ff17a4d0:
 # game/logic/events/audrey.rpy:1136
 translate philippine Audrey_7_shemale_02e61f7a:
 
-    # ch_Name "{i}(What a cute little intimate haircut...){/i}"
+    # ch_Name "{i}(What a cute view...){/i}"
     ch_Name ""
 
 # game/logic/events/audrey.rpy:1137
@@ -4513,7 +4513,7 @@ translate philippine Audrey_7_shemale_51fe0ce2:
 # game/logic/events/audrey.rpy:1331
 translate philippine Audrey_7_shemale_ce338fb2:
 
-    # ch_Name "But I'll need your help to come."
+    # ch_Name "But I'll need your help to cum."
     ch_Name ""
 
 # game/logic/events/audrey.rpy:1333
@@ -8071,8 +8071,8 @@ translate philippine Audrey_events_4_label_4_shemale_bb7a1e51:
 # game/logic/events/audrey.rpy:2453
 translate philippine Audrey_events_4_label_4_shemale_aea7ce78:
 
-    # Audrey "{i}(You'd do the same for me if you were on my place.){/i}"
-    Audrey ""
+    # ch_Name "{i}(You'd do the same for me if you were on my place.){/i}"
+    ch_Name ""
 
 # game/logic/events/audrey.rpy:2454
 translate philippine Audrey_events_4_label_4_shemale_edef34cc:
@@ -9745,7 +9745,7 @@ translate philippine Audrey_9_label_L_77_2503f4fe:
 # game/logic/events/audrey.rpy:2907
 translate philippine Audrey_9_label_L_77_188c5931:
 
-    # ch_Name "{i}(What a cute intimate haircut...){/i}"
+    # ch_Name "{i}(What a cute view...){/i}"
     ch_Name ""
 
 # game/logic/events/audrey.rpy:2908
@@ -9859,7 +9859,7 @@ translate philippine Audrey_9_label_L_77_2503f4fe_1:
 # game/logic/events/audrey.rpy:2938
 translate philippine Audrey_9_label_L_77_02e61f7a:
 
-    # ch_Name "{i}(What a cute little intimate haircut...){/i}"
+    # ch_Name "{i}(What a cute view...){/i}"
     ch_Name ""
 
 # game/logic/events/audrey.rpy:2939
@@ -10705,7 +10705,7 @@ translate philippine Audrey_9_label_L_184_51fe0ce2:
 # game/logic/events/audrey.rpy:3148
 translate philippine Audrey_9_label_L_184_ce338fb2:
 
-    # ch_Name "But I'll need your help to come."
+    # ch_Name "But I'll need your help to cum."
     ch_Name ""
 
 # game/logic/events/audrey.rpy:3150
@@ -10957,7 +10957,7 @@ translate philippine Audrey_9_label_L_184_3e3e63f8:
 # game/logic/events/audrey.rpy:3204
 translate philippine Audrey_9_label_L_184_3a0194d2:
 
-    # ch_Name "I'm off"
+    # ch_Name "I'm off."
     ch_Name ""
 
 # game/logic/events/audrey.rpy:3217
@@ -11665,7 +11665,7 @@ translate philippine Audrey_9_label_L_374_51fe0ce2:
 # game/logic/events/audrey.rpy:3381
 translate philippine Audrey_9_label_L_374_ce338fb2:
 
-    # ch_Name "But I'll need your help to come."
+    # ch_Name "But I'll need your help to cum."
     ch_Name ""
 
 # game/logic/events/audrey.rpy:3383

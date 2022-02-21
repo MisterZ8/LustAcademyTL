@@ -2661,7 +2661,7 @@ translate russian vip_lucy_1_label_2_46a393ac:
 # game/logic/events/adele.rpy:962
 translate russian vip_lucy_1_label_2_cc9f221d:
 
-    # ch_Name "{i}(What does she want for today?){/i}"
+    # ch_Name "{i}(What does she want today?){/i}"
     ch_Name "{i}(Что она задумала на сегодня?){/i}"
     
 # game/logic/events/adele.rpy:963
@@ -2679,7 +2679,7 @@ translate russian vip_lucy_1_label_2_5af21751:
 # game/logic/events/adele.rpy:966
 translate russian vip_lucy_1_label_2_10a36858:
 
-    # ch_Name "{i}(Only look at this gorgeous view!){/i}"
+    # ch_Name "{i}(Just look at this gorgeous view!){/i}"
     ch_Name "{i}(Только взгляните на этот потрясающий вид!){/i}"
     
 # game/logic/events/adele.rpy:967
@@ -2727,7 +2727,7 @@ translate russian vip_lucy_1_label_2_14abe349:
 # game/logic/events/adele.rpy:976
 translate russian vip_lucy_1_label_2_91bdfb58:
 
-    # ch_Name "I cannot imagine that I can get bored in your company."
+    # ch_Name "I can't imagine getting bored in your company."
     ch_Name "Не представляю, как можно заскучать в твоей компании."
     
 # game/logic/events/adele.rpy:978
@@ -2787,7 +2787,7 @@ translate russian vip_lucy_1_label_2_86590cae:
 # game/logic/events/adele.rpy:989
 translate russian vip_lucy_1_label_2_587f853f:
 
-    # ch_Name "Easily lose control when I only look at this curves!"
+    # ch_Name "It's easy to lose control when I look at these curves!"
     ch_Name "Легко потерять контроль, просто глядя на эти формы!"
     
 # game/logic/events/adele.rpy:991
@@ -2817,7 +2817,7 @@ translate russian vip_lucy_1_label_2_34e47ffc:
 # game/logic/events/adele.rpy:996
 translate russian vip_lucy_1_label_2_c22fdd17:
 
-    # Lucy "I'm getting more and more wet because of your touching."
+    # Lucy "I'm getting wetter and wetter from your touching."
     Lucy "Я становлюсь влажной от твоих прикосновений."
     
 # game/logic/events/adele.rpy:997
@@ -2877,7 +2877,7 @@ translate russian vip_lucy_1_label_2_05918863:
 # game/logic/events/adele.rpy:1009
 translate russian vip_lucy_1_label_2_4ef326b1:
 
-    # ch_Name "{i}(Such a view!){/i}"
+    # ch_Name "{i}(What a view!){/i}"
     ch_Name "{i}(Какой вид!){/i}"
     
 # game/logic/events/adele.rpy:1010
@@ -2913,13 +2913,13 @@ translate russian vip_lucy_1_label_2_5d6c7c09:
 # game/logic/events/adele.rpy:1017
 translate russian vip_lucy_1_label_2_1011a685:
 
-    # Lucy "Want to rub my pussy on your cock..."
+    # Lucy "I want to rub my pussy on your cock..."
     Lucy "Хочу тереться своей киской о твой член..."
     
 # game/logic/events/adele.rpy:1018
 translate russian vip_lucy_1_label_2_503c87ce:
 
-    # Lucy "To feel how it getting hard..."
+    # Lucy "To feel it getting hard..."
     Lucy "Чувствовать, как он твердеет..."
     
 # game/logic/events/adele.rpy:1019
@@ -2943,7 +2943,7 @@ translate russian vip_lucy_1_label_2_aa08e17a:
 # game/logic/events/adele.rpy:1023
 translate russian vip_lucy_1_label_2_268919b2:
 
-    # Lucy "So pleasant to think about my body turning you on."
+    # Lucy "It's so nice to think about my body turning you on."
     Lucy "Так приятно думать, что тебя заводит мое тело."
     
 # game/logic/events/adele.rpy:1024
@@ -2967,7 +2967,7 @@ translate russian vip_lucy_1_label_2_199eae7a:
 # game/logic/events/adele.rpy:1028
 translate russian vip_lucy_1_label_2_a9f09a39:
 
-    # Lucy "I cannot even imagine what can I experience using this toy."
+    # Lucy "I cannot even imagine what I can experience using this toy."
     Lucy "Даже не представляю, что я почувствую, воспользовавшись этой игрушкой."
     
 # game/logic/events/adele.rpy:1030
@@ -2985,7 +2985,7 @@ translate russian vip_lucy_1_label_2_4a7474b0:
 # game/logic/events/adele.rpy:1033
 translate russian vip_lucy_1_label_2_e859a981:
 
-    # ch_Name "Ohhrrhh!"
+    # ch_Name "Ohhhh!"
     ch_Name "Оххррхх!"
     
 # game/logic/events/adele.rpy:1034
@@ -3068,7 +3068,7 @@ translate russian vip_lucy_1_label_2_0ae9bcd0_3:
 # game/logic/events/adele.rpy:1050
 translate russian vip_lucy_1_label_2_4abaf7a3:
 
-    # ch_Name "Keep moving you ass, bitch."
+    # ch_Name "Keep moving your ass, bitch."
     ch_Name "Продолжай двигать своей задницей, сучка."
     
 # game/logic/events/adele.rpy:1051
@@ -3080,7 +3080,7 @@ translate russian vip_lucy_1_label_2_dd10c660:
 # game/logic/events/adele.rpy:1053
 translate russian vip_lucy_1_label_2_f49bb6ed:
 
-    # ch_Name "{i}(I never felt the way I do!){/i}"
+    # ch_Name "{i}(I never felt this way before!){/i}"
     ch_Name "{i}(Никогда не чувствовал ничего подобного!){/i}"
     
 # game/logic/events/adele.rpy:1054
@@ -3110,7 +3110,7 @@ translate russian vip_lucy_1_label_2_59b62c87_1:
 # game/logic/events/adele.rpy:1059
 translate russian vip_lucy_1_label_2_0728f8ee:
 
-    # ch_Name "So amazing to feel your every dirty hole."
+    # ch_Name "It's so amazing to feel your every dirty hole."
     ch_Name "Так восхитительно чувствовать все твои грязные дырочки."
     
 # game/logic/events/adele.rpy:1060
@@ -3122,7 +3122,7 @@ translate russian vip_lucy_1_label_2_4902deb4:
 # game/logic/events/adele.rpy:1061
 translate russian vip_lucy_1_label_2_022262cc:
 
-    # Lucy "My skin wants to feel your semen!"
+    # Lucy "My skin wants to feel your cum!"
     Lucy "Хочу почувствовать твое семя на моей коже!"
     
 # game/logic/events/adele.rpy:1063
@@ -3141,7 +3141,7 @@ translate russian vip_lucy_1_label_2_f860e20a:
 translate russian vip_lucy_1_label_2_b4de5f16:
 
     # ch_Name "Just unbelievable!"
-    ch_Name "Просто невероятно!
+    ch_Name "Просто невероятно!"
 
 # game/logic/events/adele.rpy:1067
 translate russian vip_lucy_1_label_2_51d86c9d:
@@ -3158,19 +3158,19 @@ translate russian vip_lucy_1_label_2_b7f092b8:
 # game/logic/events/adele.rpy:1069
 translate russian vip_lucy_1_label_2_87084097:
 
-    # Lucy "So pleasantly to feel how it's flowing."
+    # Lucy "It's so pleasant to feel it flowing."
     Lucy "Так приятно чувствовать как она струится."
 
 # game/logic/events/adele.rpy:1071
 translate russian vip_lucy_1_label_2_f66c5d3b:
 
-    # ch_Name "{i}(What's a little bitch!){/i}"
+    # ch_Name "{i}(What a little bitch!){/i}"
     ch_Name "{i}(Какая маленькая шлюшка!){/i}"
 
 # game/logic/events/adele.rpy:1072
 translate russian vip_lucy_1_label_2_050f9313:
 
-    # Lucy "Just inexpressibly!"
+    # Lucy "Just inexpressible!"
     Lucy "Просто невыразимо!"
 
 # game/logic/events/adele.rpy:1073
@@ -3206,7 +3206,7 @@ translate russian vip_lucy_1_label_2_4a6f830b:
 # game/logic/events/adele.rpy:1080
 translate russian vip_lucy_1_label_2_4fc098f8:
 
-    # Lucy "Hope you will visit us often."
+    # Lucy "I hope you visit us often."
     Lucy "Надеюсь, ты будешь приходить почаще."
 
 # game/logic/events/adele.rpy:1081
@@ -6909,43 +6909,43 @@ translate russian Vanessa_3_label_6402dd44:
 translate russian Vanessa_3_label_2100e7af:
 
     # ch_Name "Very multifunctional place, I must say..."
-    ch_Name "Очень многофункциональное место, надо признать...
+    ch_Name "Очень многофункциональное место, надо признать..."
 
 # game/logic/events/adele.rpy:2093
 translate russian Vanessa_3_label_60c9359c:
 
     # Vanessa "Ha-ha-ha!"
-    Vanessa "Ха-ха-ха!
+    Vanessa "Ха-ха-ха!"
 
 # game/logic/events/adele.rpy:2094
 translate russian Vanessa_3_label_04fcbdc2:
 
     # Vanessa "That's true."
-    Vanessa "Это так.
+    Vanessa "Это так."
 
 # game/logic/events/adele.rpy:2095
 translate russian Vanessa_3_label_952f5ab3:
 
     # ch_Name "By the way, what brings you here?"
-    ch_Name "Кстати, что привело тебя сюда?
+    ch_Name "Кстати, что привело тебя сюда?"
 
 # game/logic/events/adele.rpy:2097
 translate russian Vanessa_3_label_fadb9f95:
 
     # Vanessa "Ooh, that's my favourite song!"
-    Vanessa "Охх, это моя любимая песня!
+    Vanessa "Охх, это моя любимая песня!"
 
 # game/logic/events/adele.rpy:2098
 translate russian Vanessa_3_label_08ed5e44:
 
     # Vanessa "Let's dance for a while!"
-    Vanessa "Давай немного потанцуем!
+    Vanessa "Давай немного потанцуем!"
 
 # game/logic/events/adele.rpy:2099
 translate russian Vanessa_3_label_1ee2c616:
 
     # ch_Name "I bet you look great on the dancefloor."
-    ch_Name "Уверен, ты отлично смотришься на танцполе.
+    ch_Name "Уверен, ты отлично смотришься на танцполе."
 
 # game/logic/events/adele.rpy:2100
 translate russian Vanessa_3_label_0874f143:
@@ -7544,13 +7544,13 @@ translate russian adele_3_label_c901dc92:
 # game/logic/events/adele.rpy:2298
 translate russian adele_3_label_978a119d:
 
-    # Adele "By the way, Vanessa bragged that she's getting better at Bloody Merry's."
+    # Adele "By the way, Vanessa bragged that she's getting better at making Bloody Mary's."
     Adele "Кстати, Vanessa хвалилась, что делает самую лучшую Кровавую Мэри."
 
 # game/logic/events/adele.rpy:2299
 translate russian adele_3_label_0960d251:
 
-    # Adele "Would you like to give it a try?"
+    # Adele "Since you have the nerve to ask me out..."
     Adele "Не хочешь попробовать?"
 
 # game/logic/events/adele.rpy:2300

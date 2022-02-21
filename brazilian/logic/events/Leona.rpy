@@ -7371,14 +7371,14 @@ translate brazilian Leona_7_label_d150551e:
 # game/logic/events/Leona.rpy:1973
 translate brazilian Leona_7_label_581301ce:
 
-    # Leona "I don't know. I made sure it would be hard to get."
-    Leona "Eu não sei. Eu garanti que seria difícil de pegar."
+    # Leona "I don't know. I made sure it would be hard to get. Even for me."
+    Leona "Eu não sei. Eu garanti que seria difícil de pegar. Mesmo para mim."
 
 # game/logic/events/Leona.rpy:1974
 translate brazilian Leona_7_label_4c1e4977:
 
-    # Leona "Even for me."
-    Leona "Mesmo para mim."
+    # Leona "I need a week, at least."
+    Leona ""
 
 # game/logic/events/Leona.rpy:1975
 translate brazilian Leona_7_label_d81260ab:

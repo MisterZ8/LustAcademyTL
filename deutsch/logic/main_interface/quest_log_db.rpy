@@ -27,7 +27,7 @@ translate deutsch strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:3
-    old "Turns out that the statues in one of the gardens are actually alive! One of them even had a boner while we were walking there with Haley. \"Angels\" storyline for this version of the game has come to an end."
+    old "Turns out that the statues in one of the gardens are actually alive! One of them even had a boner while we were walking there with Haley."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:3
@@ -483,7 +483,7 @@ translate deutsch strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "I made arrangements with Samantha and she will help us with the ritual. We're finally going to solve the mystery of E.Bloom. Also, Haley and I made a date. Things are going as well as can be expected!"
+    old "I made arrangements with Samantha and she will help us with the ritual. We're finally going to solve the mystery of E.Bloom. Also, Haley and I made a date. Until the date I have to get to Dale to buy the ingredients from Gordon."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -535,7 +535,7 @@ translate deutsch strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "It turned out that Jacob was behind the soul-stealing phantom attack. He was testing me to help him overpower Arthur. Jacob assures me that Arthur is the villain who killed my parents. To deal with him, I asked Leona to obtain for me an ancient artifact - the scroll of the Lion's Seal. Now all we have to do is wait."
+    old "It turned out that Jacob was behind the soul-stealing phantom attack. He was testing me to help him overpower Arthur. Jacob assures me that Arthur is the villain who killed my parents. To deal with him, I asked Leona to obtain for me an ancient artifact - the scroll of the Lion's Seal, but she needs a week to get it. Now I just need to wait."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -563,7 +563,7 @@ translate deutsch strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "I've agreed to help Sabrina and Lily to harvest some herbs. Lily and I got lost and had an unbelievable adventure."
+    old "I've agreed to help Sabrina and Lily to harvest some herbs. Lily and I got lost and had an unbelievable adventure. I think we need to discuss it before Victoria's classes in the morning."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -579,7 +579,7 @@ translate deutsch strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "Good news for students - there's a free room in Dale-ly. Also, I saw Mina reading porno novels. Maybe In future I can use this to lure other dark secrets she might have."
+    old "Good news for students - there's a free room in Dale-ly. Also, I saw Mina reading porno novels. I should talk to her again next time I'll be in Dale."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -619,7 +619,7 @@ translate deutsch strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "I took Naomi to the library, and we had some fun time together. I think she finally earned to get those test results..."
+    old "I took Naomi to the library, and we had some fun time together. I think she earned to get those test results. I think I'll meet her in the morning before Victoria's class."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -891,7 +891,7 @@ translate deutsch strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1968
-    old "Help your school score points in the competition to spend the weekend at Dale."
+    old "elp your House score points in the competition to spend the weekend at Dale."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1968

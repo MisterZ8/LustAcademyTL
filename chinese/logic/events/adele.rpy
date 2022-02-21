@@ -2661,7 +2661,7 @@ translate chinese vip_lucy_1_label_2_46a393ac:
 # game/logic/events/adele.rpy:962
 translate chinese vip_lucy_1_label_2_cc9f221d:
 
-    # ch_Name "{i}(What does she want for today?){/i}"
+    # ch_Name "{i}(What does she want today?){/i}"
     ch_Name "{i}(她今天想要什么？){/i}"
 
 # game/logic/events/adele.rpy:963
@@ -2679,7 +2679,7 @@ translate chinese vip_lucy_1_label_2_5af21751:
 # game/logic/events/adele.rpy:966
 translate chinese vip_lucy_1_label_2_10a36858:
 
-    # ch_Name "{i}(Only look at this gorgeous view!){/i}"
+    # ch_Name "{i}(Just look at this gorgeous view!){/i}"
     ch_Name "{i}(只看这美丽的景色！){/i}"
 
 # game/logic/events/adele.rpy:967
@@ -2727,7 +2727,7 @@ translate chinese vip_lucy_1_label_2_14abe349:
 # game/logic/events/adele.rpy:976
 translate chinese vip_lucy_1_label_2_91bdfb58:
 
-    # ch_Name "I cannot imagine that I can get bored in your company."
+    # ch_Name "I can't imagine getting bored in your company."
     ch_Name "我无法想象我会在你们公司感到无聊。"
 
 # game/logic/events/adele.rpy:978
@@ -2787,7 +2787,7 @@ translate chinese vip_lucy_1_label_2_86590cae:
 # game/logic/events/adele.rpy:989
 translate chinese vip_lucy_1_label_2_587f853f:
 
-    # ch_Name "Easily lose control when I only look at this curves!"
+    # ch_Name "It's easy to lose control when I look at these curves!"
     ch_Name "当我只看这条曲线时很容易失去控制！"
 
 # game/logic/events/adele.rpy:991
@@ -2817,7 +2817,7 @@ translate chinese vip_lucy_1_label_2_34e47ffc:
 # game/logic/events/adele.rpy:996
 translate chinese vip_lucy_1_label_2_c22fdd17:
 
-    # Lucy "I'm getting more and more wet because of your touching."
+    # Lucy "I'm getting wetter and wetter from your touching."
     Lucy "因为你的抚摸，我越来越湿。"
 
 # game/logic/events/adele.rpy:997
@@ -2877,7 +2877,7 @@ translate chinese vip_lucy_1_label_2_05918863:
 # game/logic/events/adele.rpy:1009
 translate chinese vip_lucy_1_label_2_4ef326b1:
 
-    # ch_Name "{i}(Such a view!){/i}"
+    # ch_Name "{i}(What a view!){/i}"
     ch_Name "{i}(这样的观点！){/i}"
 
 # game/logic/events/adele.rpy:1010
@@ -2913,13 +2913,13 @@ translate chinese vip_lucy_1_label_2_5d6c7c09:
 # game/logic/events/adele.rpy:1017
 translate chinese vip_lucy_1_label_2_1011a685:
 
-    # Lucy "Want to rub my pussy on your cock..."
+    # Lucy "I want to rub my pussy on your cock..."
     Lucy "想在你的鸡巴上摩擦我的阴部..."
 
 # game/logic/events/adele.rpy:1018
 translate chinese vip_lucy_1_label_2_503c87ce:
 
-    # Lucy "To feel how it getting hard..."
+    # Lucy "To feel it getting hard..."
     Lucy "去感受它是如何变得艰难..."
 
 # game/logic/events/adele.rpy:1019
@@ -2943,7 +2943,7 @@ translate chinese vip_lucy_1_label_2_aa08e17a:
 # game/logic/events/adele.rpy:1023
 translate chinese vip_lucy_1_label_2_268919b2:
 
-    # Lucy "So pleasant to think about my body turning you on."
+    # Lucy "It's so nice to think about my body turning you on."
     Lucy "很高兴想到我的身体让你兴奋。"
 
 # game/logic/events/adele.rpy:1024
@@ -2967,7 +2967,7 @@ translate chinese vip_lucy_1_label_2_199eae7a:
 # game/logic/events/adele.rpy:1028
 translate chinese vip_lucy_1_label_2_a9f09a39:
 
-    # Lucy "I cannot even imagine what can I experience using this toy."
+    # Lucy "I cannot even imagine what I can experience using this toy."
     Lucy "我什至无法想象使用这个玩具我能体验到什么。"
 
 # game/logic/events/adele.rpy:1030
@@ -2985,7 +2985,7 @@ translate chinese vip_lucy_1_label_2_4a7474b0:
 # game/logic/events/adele.rpy:1033
 translate chinese vip_lucy_1_label_2_e859a981:
 
-    # ch_Name "Ohhrrhh!"
+    # ch_Name "Ohhhh!"
     ch_Name "哦！"
 
 # game/logic/events/adele.rpy:1034
@@ -3069,7 +3069,7 @@ translate chinese vip_lucy_1_label_2_0ae9bcd0_3:
 # game/logic/events/adele.rpy:1050
 translate chinese vip_lucy_1_label_2_4abaf7a3:
 
-    # ch_Name "Keep moving you ass, bitch."
+    # ch_Name "Keep moving your ass, bitch."
     ch_Name "继续动你的屁股，婊子。"
 
 # game/logic/events/adele.rpy:1051
@@ -3081,7 +3081,7 @@ translate chinese vip_lucy_1_label_2_dd10c660:
 # game/logic/events/adele.rpy:1053
 translate chinese vip_lucy_1_label_2_f49bb6ed:
 
-    # ch_Name "{i}(I never felt the way I do!){/i}"
+    # ch_Name "{i}(I never felt this way before!){/i}"
     ch_Name "{i}(我从未有过这种感觉！){/i}"
 
 # game/logic/events/adele.rpy:1054
@@ -3111,7 +3111,7 @@ translate chinese vip_lucy_1_label_2_59b62c87_1:
 # game/logic/events/adele.rpy:1059
 translate chinese vip_lucy_1_label_2_0728f8ee:
 
-    # ch_Name "So amazing to feel your every dirty hole."
+    # ch_Name "It's so amazing to feel your every dirty hole."
     ch_Name "感觉你的每一个肮脏的洞真是太神奇了。"
 
 # game/logic/events/adele.rpy:1060
@@ -3123,7 +3123,7 @@ translate chinese vip_lucy_1_label_2_4902deb4:
 # game/logic/events/adele.rpy:1061
 translate chinese vip_lucy_1_label_2_022262cc:
 
-    # Lucy "My skin wants to feel your semen!"
+    # Lucy "My skin wants to feel your cum!"
     Lucy "我的皮肤想感受你的精液！"
 
 # game/logic/events/adele.rpy:1063
@@ -3159,19 +3159,19 @@ translate chinese vip_lucy_1_label_2_b7f092b8:
 # game/logic/events/adele.rpy:1069
 translate chinese vip_lucy_1_label_2_87084097:
 
-    # Lucy "So pleasantly to feel how it's flowing."
+    # Lucy "It's so pleasant to feel it flowing."
     Lucy "如此愉快地感受它是如何流动的。"
 
 # game/logic/events/adele.rpy:1071
 translate chinese vip_lucy_1_label_2_f66c5d3b:
 
-    # ch_Name "{i}(What's a little bitch!){/i}"
+    # ch_Name "{i}(What a little bitch!){/i}"
     ch_Name "{i}(什么小婊子！){/i}"
 
 # game/logic/events/adele.rpy:1072
 translate chinese vip_lucy_1_label_2_050f9313:
 
-    # Lucy "Just inexpressibly!"
+    # Lucy "Just inexpressible!"
     Lucy "简直无法形容！"
 
 # game/logic/events/adele.rpy:1073
@@ -3207,7 +3207,7 @@ translate chinese vip_lucy_1_label_2_4a6f830b:
 # game/logic/events/adele.rpy:1080
 translate chinese vip_lucy_1_label_2_4fc098f8:
 
-    # Lucy "Hope you will visit us often."
+    # Lucy "I hope you visit us often."
     Lucy "希望您能经常光顾我们。"
 
 # game/logic/events/adele.rpy:1081
@@ -7545,13 +7545,13 @@ translate chinese adele_3_label_c901dc92:
 # game/logic/events/adele.rpy:2298
 translate chinese adele_3_label_978a119d:
 
-    # Adele "By the way, Vanessa bragged that she's getting better at Bloody Merry's."
+    # Adele "By the way, Vanessa bragged that she's getting better at making Bloody Mary's."
     Adele "顺便说一句，Vanessa 吹嘘她在 Bloody Merry's 越来越好。"
 
 # game/logic/events/adele.rpy:2299
 translate chinese adele_3_label_0960d251:
 
-    # Adele "Would you like to give it a try?"
+    # Adele "Since you have the nerve to ask me out..."
     Adele "你想试一试吗？"
 
 # game/logic/events/adele.rpy:2300

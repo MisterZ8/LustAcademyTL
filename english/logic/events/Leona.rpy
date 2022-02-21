@@ -7371,13 +7371,13 @@ translate english Leona_7_label_d150551e:
 # game/logic/events/Leona.rpy:1973
 translate english Leona_7_label_581301ce:
 
-    # Leona "I don't know. I made sure it would be hard to get."
+    # Leona "I don't know. I made sure it would be hard to get. Even for me."
     Leona ""
 
 # game/logic/events/Leona.rpy:1974
 translate english Leona_7_label_4c1e4977:
 
-    # Leona "Even for me."
+    # Leona "I need a week, at least."
     Leona ""
 
 # game/logic/events/Leona.rpy:1975

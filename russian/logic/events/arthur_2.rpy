@@ -483,7 +483,7 @@ translate russian arthur_2_3_972052a9:
 # game/logic/events/arthur_2.rpy:274
 translate russian arthur_2_3_382ae55e:
 
-    # ch_Name "{i}(On the other had, sometimes I don't even undesrand mine.){/i}"
+    # ch_Name "{i}(On the other hand, sometimes I don't even understand mine.){/i}"
     ch_Name "{i}(С другой стороны, иногда я и свои не понимаю.){/i}"
 
 # game/logic/events/arthur_2.rpy:275
@@ -915,7 +915,7 @@ translate russian arthur_2_3_4570a174:
 # game/logic/events/arthur_2.rpy:374
 translate russian arthur_2_3_92ec3fc3:
 
-    # Katrina "Enjoy your small victories wile you can."
+    # Katrina "Enjoy your small victories while you can."
     Katrina "Наслаждайся своими маленикими победами, пока ещё можешь."
 
 # game/logic/events/arthur_2.rpy:375
@@ -987,7 +987,7 @@ translate russian arthur_2_3_ce7b0e67:
 # game/logic/events/arthur_2.rpy:392
 translate russian arthur_2_3_57a334e8:
 
-    # Haley "You where dreaming... Was it a nightmare? "
+    # Haley "You were dreaming... Was it a nightmare? "
     Haley "Ты спал... Тебе кошмар приснился?"
 
 # game/logic/events/arthur_2.rpy:393
@@ -1119,7 +1119,7 @@ translate russian arthur_2_3_f63fdcff:
 # game/logic/events/arthur_2.rpy:420
 translate russian arthur_2_3_430ba448:
 
-    # Haley "Captain said she'd feed you to sharks if you dont leave."
+    # Haley "Captain said she'd feed you to the sharks if you don't leave."
     Haley "Капитан сказала, что скормит тебя акулам, если ты не уйдёшь."
 
 # game/logic/events/arthur_2.rpy:421
@@ -1131,7 +1131,7 @@ translate russian arthur_2_3_607fe232:
 # game/logic/events/arthur_2.rpy:422
 translate russian arthur_2_3_071463ea:
 
-    # Haley "Would you be suprised?"
+    # Haley "Would you be surprised?"
     Haley "А ты удивился бы?"
 
 # game/logic/events/arthur_2.rpy:424
@@ -1527,7 +1527,7 @@ translate russian arthur_2_5_c6aa2781:
 # game/logic/events/arthur_2.rpy:580
 translate russian arthur_2_5_f5a1d983:
 
-    # Elijah "There's the hottest nightclub in town around the corner. Mistress Luck."
+    # Elijah "There's the hottest nightclub in town around the corner. Lady Luck."
     Elijah "Там за углом самый зажигательный ночной клуб в городке. Леди Удача называется"
 
 # game/logic/events/arthur_2.rpy:582
