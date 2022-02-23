@@ -1,92 +1,92 @@
-﻿# TODO: Translation updated at 2022-01-25 10:25
+# TODO: Translation updated at 2022-01-25 10:25
 
 translate chinese strings:
 
     # game/logic/main_interface/quest_log_screen.rpy:130
     old "Lost foliant"
-    new ""
+    new "失去了foliant"
 
     # game/logic/main_interface/quest_log_screen.rpy:130
     old "Return this book to Amelie in the library for a reward"
-    new ""
+    new "把这本书还给图书馆里的Amelie拿到奖励"
 
     # game/logic/main_interface/quest_log_screen.rpy:257
     old "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
-    new ""
+    new "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
 
     # game/logic/main_interface/quest_log_screen.rpy:274
     old "AGE:"
-    new ""
+    new "年龄:"
 
     # game/logic/main_interface/quest_log_screen.rpy:297
     old "STATISTICS"
-    new ""
+    new "统计数据"
 
     # game/logic/main_interface/quest_log_screen.rpy:351
     old "HOUSE POINTS"
-    new ""
+    new "房屋积分"
 
     # game/logic/main_interface/quest_log_screen.rpy:355
     old "   My\nhouse"
-    new ""
+    new "我的\n房屋"
 
     # game/logic/main_interface/quest_log_screen.rpy:440
     old "KNOWN SPEELS"
-    new ""
+    new "已知药水"
 
     # game/logic/main_interface/quest_log_screen.rpy:464
     old "Spellpower"
-    new ""
+    new "药水强度"
 
     # game/logic/main_interface/quest_log_screen.rpy:471
     old "duels_locked"
-    new ""
+    new "决斗_锁定"
 
     # game/logic/main_interface/quest_log_screen.rpy:477
     old "This spell is not learned yet."
-    new ""
+    new "这个咒语还没学会。"
 
     # game/logic/main_interface/quest_log_screen.rpy:482
     old "INVENTORY"
-    new ""
+    new "库存"
 
     # game/logic/main_interface/quest_log_screen.rpy:483
     old "My money"
-    new ""
+    new "我的钱"
 
     # game/logic/main_interface/quest_log_screen.rpy:589
     old "LGBTQ+ Settings:"
-    new ""
+    new "LGBTQ+设置:"
 
     # game/logic/main_interface/quest_log_screen.rpy:598
     old "CHANGE"
-    new ""
+    new "改变"
 
     # game/logic/main_interface/quest_log_screen.rpy:683
     old "'s story for this version of the game has come to an end."
-    new ""
+    new "这个版本游戏的故事已经结束了。"
 
     # game/logic/main_interface/quest_log_screen.rpy:839
     old "Progress"
-    new ""
+    new "进步"
 
     # game/logic/main_interface/quest_log_screen.rpy:877
     old "Here you can keep track of all the routes, activities, etc. that are available to you. and quickly navigate"
-    new ""
+    new "在这里，你可以跟踪所有的路线，活动等，你可以使用。快速导航"
 
     # game/logic/main_interface/quest_log_screen.rpy:882
     old "to the desired one, without wasting time walking around the locations and searching. Next to the"
-    new ""
+    new "找到你想要的那个，而不用浪费时间四处走动和寻找。旁边的。"
 
     # game/logic/main_interface/quest_log_screen.rpy:887
     old "avatars of the characters are icons, the decoding of which is next."
-    new ""
+    new "角色的化身是图标，接下来是对图标的解码。"
 
     # game/logic/main_interface/quest_log_screen.rpy:1040
     old "This route is not available at this time of the day. Chosing this option will lead to a time skip. Continue?"
-    new ""
+    new "这条路线在一天中的这个时候是不可用的。选择此选项将导致时间跳跃。继续吗?"
 
     # game/logic/main_interface/quest_log_screen.rpy:1046
     old "Decline"
-    new ""
+    new "下降"
 
