@@ -1,88 +1,88 @@
-﻿# TODO: Translation updated at 2022-01-25 10:25
+# TODO: Translation updated at 2022-01-25 10:25
 
 translate chinese strings:
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Bouncing berries"
-    new ""
+    new "跳跃的浆果"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Butterfly wings"
-    new ""
+    new "蝴蝶的翅膀"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Dandelion dust"
-    new ""
+    new "蒲公英的尘埃"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Dragon scales powder"
-    new ""
+    new "龙鳞粉"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Dry vampire blood"
-    new ""
+    new "干燥的吸血鬼的血"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Dryad leaves"
-    new ""
+    new "森林女神的叶子"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Fireblossom leaves"
-    new ""
+    new "假花的叶子"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Icelandic cetraria"
-    new ""
+    new "冰岛香菇"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Manticore lard"
-    new ""
+    new "怪兽猪油"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Mermaid blood"
-    new ""
+    new "人鱼血"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Tears of woodland deer"
-    new ""
+    new "林地鹿的眼泪"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:4
     old "Unicorn hair powder"
-    new ""
+    new "独角兽的头发粉"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:19
     old "Restores small amount of Stamina."
-    new ""
+    new "恢复少量耐力。"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:19
     old "For 1 turn makes your attacking spells more effective."
-    new ""
+    new "1回合内使你的攻击法术更有效。"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:19
     old "Next time you get hit by a spell you'll lose 25% less Stamina."
-    new ""
+    new "下次当你被法术击中时，你的耐力会减少25%。"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:19
     old "For 1 turn reflects your opponent attacking spells back."
-    new ""
+    new "在1回合内将对手的攻击法术反射回来。"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:110
     old "You crafted a"
-    new ""
+    new "你精心制作了一个"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:274
     old "Choose any {color=#f1af70}three{/color} ingredients and try to mix them."
-    new ""
+    new "选择任何{color=#f1af70}三种{/color}原料，并试着混合它们。"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:275
     old "If you're lucky, you'll learn a new recipe."
-    new ""
+    new "幸运的话，你会学到一种新食谱。"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:276
     old "Or click on the learned recipe to select required ingredients."
-    new ""
+    new "或者点击学习的食谱来选择所需的配料。"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:319
     old "Learn this recipe by attending the Potions lecture."
-    new ""
+    new "参加魔药课学习这个食谱。"
 
