@@ -940,103 +940,103 @@ translate brazilian strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Leonheart for life"
-    new ""
+    new "Leonheart a vida toda"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Had a picnic with my family the day before I left. Already I miss them and the carefree days of summer...   "
-    new ""
+    new "Fiz um picnic com minha família na véspera de viajar. Já estou com saudades deles e dos dias despreocupados do verão..."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Naomi:{/b} We might be able to have a picnic this weekend somehow."
-    new ""
+    new "{b}Naomi:{/b} Talvez possamos fazer um picnic esse final de semana."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Lily:{/b} That's a great idea!"
-    new ""
+    new "{b}Lily:{/b} Grande ideia!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Naomi:{/b} Let's see whose house will do a better job of organizing it!"
-    new ""
+    new "{b}Naomi:{/b} Vamos ver qual casa faz o melhor trabalho organizando um!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Elijah:{/b} Do you ever get tired of fighting each other?"
-    new ""
+    new "{b}Elijah:{/b} Vocês nunca se cansam de disputar entre si?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "It's so nice of you to spend time with your family."
-    new ""
+    new "É tão bom que você passe tempo com sua família."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I'd love to get carefree with you, Lily. Any place, any time."
-    new ""
+    new "Adoraria ficar despreocupado com você, Lily. A qualquer hora, em qualquer lugar."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Wow, photo of Lily where she does not talk about housepoints... I've seen everything now."
-    new ""
+    new "Uau, um foto de Lily que não fala de pontos da competição... Vi de tudo, agora."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "At our grandma's house there's an ancient lake with magical lilies that bloom for only one day a year. I was born on the day like that. That's how my mom come up with the name."
-    new ""
+    new "Na casa de minha avó tem um antigo lago com lírios mágicos que florescem por apenas um dia no ano. Eu nasci neste dia. Por isso minha mãe me deu esse nome."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "They wanted to call me Angie. Could you imagine?!"
-    new ""
+    new "Eles queriam me chamar de Angie. Iamgina!?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Naomi:{/b} What a beautiful story, Angie..."
-    new ""
+    new "{b}Naomi:{/b} Que história linda, Angie..."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Lily:{/b} Stop it!"
-    new ""
+    new "{b}Lily:{/b} Pare com isso!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Samantha:{/b} That's so beautiful..."
-    new ""
+    new "{b}Samantha:{/b} É tão bonito..."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I never thought you name has such a deep meaning. Wow."
-    new ""
+    new "Nunca pensei que seu nome tivesse um significado tão profundo. Uau."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "The real mystery here is how your parents predicted that you'll be as beautiful as those magical lilies."
-    new ""
+    new "O real mistério aqui é como seus pais previram que você seria tão bonita quanto esse lírios mágicos."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "First time visiting spa. That was wonderful! I never knew your body can feel so relaxed and refreshed. Is this some kind of magic? "
-    new ""
+    new "Primeira vez em um Spa. Foi maravlhoso! Nunca pensei que o corpo pudesse se sentir tão relaxado e fresco. É algum tipo de magia?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Elijah:{/b} I love the spa! It brings me back to life after raves and partying too hard!"
-    new ""
+    new "{b}Elijah:{/b} Adoro o Spa! Me traz de volta à vida depois de raves e festas muito radicais!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Samantha:{/b} @Elijah, I'm pretty sure you shouldn't be there during a hangover. "
-    new ""
+    new "{b}Samantha:{/b} @Elijah, tenho quase certeza que você deveria ir lá de ressaca."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Elijah:{/b} What do you know..."
-    new ""
+    new "{b}Elijah:{/b} Você não sabe de nada..."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "It looks soothing. Can you recommend a place?"
-    new ""
+    new "Parece relaxante. Pode recomendar um lugar?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I wish I was water in that pool..."
-    new ""
+    new "Eu queria ser a água dessa piscina..."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "It looks like all you do is relax, and you never knew you could feel so relaxed? Wow."
-    new ""
+    new "Parece que tudo o que você faz é relaxar e nunca soube que podia se sentir tão relaxada? Uau."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Future elders of Leonheart and Adderin. Naomi can be pretty sly and sassy, but she is one of the best even at that."
-    new ""
+    new "Futuros anciões de Leonheart e Adderin. Naomi pode ser astuta e atrevida, mas ela é uma das melhores até nisso."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "And only by competing with the best will our house reach the top!"
-    new ""
+    new "E apenas competindo com os melhores nossa casa chegará ao topo!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Naomi:{/b} And you can be too stubborn and naive. But guess for a Leonheart, that's good?"
