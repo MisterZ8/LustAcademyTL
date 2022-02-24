@@ -82,13 +82,13 @@ translate english Elijah_1_label_35e0ad63:
 translate english Elijah_1_label_07a8e0f7:
 
     # Elijah "Here, take your {b}student card{/b}... Show it to the library."
-    Elijah ""
+    Elijah "Here, take your {b}student card{/b}... Show it to the librarian."
 
 # game/logic/events/elijah.rpy:179
 translate english Elijah_1_label_0d7d5102:
 
     # Elijah "They don't give out textbooks without it."
-    Elijah ""
+    Elijah "She doesn't give out textbooks without it."
 
 # game/logic/events/elijah.rpy:180
 translate english Elijah_1_label_5e7056ff:
@@ -118,7 +118,7 @@ translate english Elijah_1_label_f1fe3585:
 translate english Elijah_1_label_d0caa680:
 
     # Elijah "Strange question, dude. Don't forget what place you are studying in!"
-    Elijah ""
+    Elijah "Strange question, dude. Don't forget where you're studying!!"
 
 # game/logic/events/elijah.rpy:186
 translate english Elijah_1_label_591d7388:
@@ -160,7 +160,7 @@ translate english Elijah_1_label_676c8707:
 translate english Elijah_1_label_b1323f20:
 
     # Elijah "She' s super hot, if you ask my opinion."
-    Elijah ""
+    Elijah "She's super hot, if you ask my opinion."
 
 # game/logic/events/elijah.rpy:195
 translate english Elijah_1_label_ee2d7c7a:
@@ -274,7 +274,7 @@ translate english Elijah_1_label_9deb0a2a:
 translate english Elijah_1_label_c666d84d:
 
     # ch_Name "Good."
-    ch_Name ""
+    ch_Name "Good advice"
 
 # game/logic/events/elijah.rpy:227
 translate english Elijah_1_label_c3899c16:
@@ -526,7 +526,7 @@ translate english Elijah_3_label_d807de0c:
 translate english Elijah_3_label_3abacb28:
 
     # ch_Name "It's a weird question..."
-    ch_Name ""
+    ch_Name "That's a weird question..."
 
 # game/logic/events/elijah.rpy:318
 translate english Elijah_3_label_0257f59d:
@@ -730,7 +730,7 @@ translate english Elijah_3_label_39_e9213b35:
 translate english Elijah_3_label_51_94a1813a:
 
     # ch_Name "Drop your riddles!"
-    ch_Name ""
+    ch_Name "Enough riddles!"
 
 # game/logic/events/elijah.rpy:378
 translate english Elijah_3_label_51_e324d213:
@@ -1000,7 +1000,7 @@ translate english Elijah_3_label_51_63dea513:
 translate english Elijah_3_label_51_d5a583fc:
 
     # Elijah "How do you here, bro?"
-    Elijah ""
+    Elijah "How are you doing here, bro?"
 
 # game/logic/events/elijah.rpy:434
 translate english Elijah_3_label_51_48bc8b95:
@@ -1018,7 +1018,7 @@ translate english Elijah_3_label_51_1c48d4d2:
 translate english Elijah_3_label_51_9edf833d:
 
     # ch_Name "I have a date planned for today with one pretty girl."
-    ch_Name ""
+    ch_Name "I have a date planned for today with a pretty girl."
 
 # game/logic/events/elijah.rpy:438
 translate english Elijah_3_label_51_6e967a12:
@@ -1228,7 +1228,7 @@ translate english Elijah_4_label_0a91fe32:
 translate english Elijah_4_label_4ce7b7df:
 
     # ch_Name "Well, you try it..."
-    ch_Name ""
+    ch_Name "Well, give it a try"
 
 # game/logic/events/elijah.rpy:520
 translate english Elijah_4_label_72ff3b27:
@@ -1246,7 +1246,7 @@ translate english Elijah_4_label_57f615ad:
 translate english Elijah_4_label_a0bf5e64:
 
     # ch_Name "What is that, a drug?"
-    ch_Name ""
+    ch_Name "What is it? A drug?"
 
 # game/logic/events/elijah.rpy:524
 translate english Elijah_4_label_2b36366b:
@@ -1306,7 +1306,7 @@ translate english Elijah_4_label_28_63111870:
 translate english Elijah_4_label_28_e6b4fb67:
 
     # Elijah "Tell her you're from Mr. Bloom."
-    Elijah ""
+    Elijah "Tell her Mr. Bloom sent you."
 
 # game/logic/events/elijah.rpy:538
 translate english Elijah_4_label_28_8ab6b0e4:
@@ -1432,7 +1432,7 @@ translate english Elijah_5_label_5ad75a04:
 translate english Elijah_5_label_e56961db:
 
     # ch_Name "{i}(Oh yes I should probably go get that nectar for Elijah. Almost forgot about it.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh yeah, I should probably go get that nectar for Elijah. Almost forgot about it.){/i}"
 
 # game/logic/events/elijah.rpy:591
 translate english Elijah_5_label_0f092cb9:
@@ -1498,7 +1498,7 @@ translate english Elijah_5_label_a0a1f85a:
 translate english Elijah_5_label_f242cb58:
 
     # Gordon "You have visitors!"
-    Gordon ""
+    Gordon "You have a visitor!"
 
 # game/logic/events/elijah.rpy:606
 translate english Elijah_5_label_012bcb2d:
@@ -1936,7 +1936,7 @@ translate english Elijah_5_label_6f3b8d60:
 translate english Elijah_5_label_5d87b9f3:
 
     # ch_Name "{i}(I just need to bring this bottle to Elijah back in the Cordale.){/i}"
-    ch_Name ""
+    ch_Name "{i}(I just need to bring this bottle to Elijah back in Cordale.){/i"
 
 # game/logic/events/elijah.rpy:705
 translate english Elijah_5_label_2c7aeb3c:
@@ -1954,7 +1954,7 @@ translate english Elijah_5_label_896cc636:
 translate english Elijah_5_label_b46a0681:
 
     # ch_Name "{i}(Let's check out that massage saloon Elijah has told me about.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Let's check out that massage parlor Elijah has told me about.){/i}"
 
 # game/logic/events/elijah.rpy:712
 translate english Elijah_6_label_ce7d1bb4:
@@ -2158,7 +2158,7 @@ translate english Elijah_6_label_1478f810:
 translate english Elijah_6_label_f14ad117:
 
     # ch_Name "I guess I don't know."
-    ch_Name ""
+    ch_Name "I guess, I don't know."
 
 # game/logic/events/elijah.rpy:758
 translate english Elijah_6_label_7dc0d182:
@@ -2368,7 +2368,7 @@ translate english Elijah_6_label_f7d2251c:
 translate english Elijah_6_label_1ef392e6:
 
     # ch_Name "No, that's it."
-    ch_Name ""
+    ch_Name "No, that's enough"
 
 # game/logic/events/elijah.rpy:811
 translate english Elijah_6_label_f9de6b19:
