@@ -424,7 +424,7 @@ translate english Giant_2_label_3e938d2c:
 translate english Giant_2_label_1a458728:
 
     # ch_Name "Miss Spellman, may I address you?"
-    ch_Name ""
+    ch_Name "Miss Spellman, do you have a minute?"
 
 # game/logic/events/giant.rpy:162
 translate english Giant_2_label_91afc8d1:
@@ -538,7 +538,7 @@ translate english Giant_2_label_ef599765:
 translate english Giant_2_label_433b5c01:
 
     # ch_Name "One drawl in Dale, some ugly giant in rags came at me."
-    ch_Name ""
+    ch_Name "One night in Dale, some ugly giant in rags came at me."
 
 # game/logic/events/giant.rpy:185
 translate english Giant_2_label_839e70ec:
@@ -700,7 +700,7 @@ translate english strings:
 
     # game/logic/events/giant.rpy:11
     old "0 Come closer"
-    new ""
+    new "Come closer"
 
     # game/logic/events/giant.rpy:11
     old "Stay away"
