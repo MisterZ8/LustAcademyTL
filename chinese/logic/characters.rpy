@@ -1,192 +1,192 @@
-﻿# TODO: Translation updated at 2022-01-25 10:25
+# TODO: Translation updated at 2022-01-25 10:25
 
 translate chinese strings:
 
     # game/logic/characters.rpy:7
     old "???"
-    new ""
+    new "???"
 
     # game/logic/characters.rpy:8
     old "Ring, ring..."
-    new ""
+    new "环，环..."
 
     # game/logic/characters.rpy:9
     old "Radio"
-    new ""
+    new "Radio"
 
     # game/logic/characters.rpy:10
     old "Note"
-    new ""
+    new "Note"
 
     # game/logic/characters.rpy:11
     old "Adele"
-    new ""
+    new "Adele"
 
     # game/logic/characters.rpy:12
     old "Ahchi"
-    new ""
+    new "Ahchi"
 
     # game/logic/characters.rpy:13
     old "Amelie"
-    new ""
+    new "Amelie"
 
     # game/logic/characters.rpy:14
     old "Angel"
-    new ""
+    new "Angel"
 
     # game/logic/characters.rpy:15
     old "Arthur"
-    new ""
+    new "Arthur"
 
     # game/logic/characters.rpy:16
     old "Ashley"
-    new ""
+    new "Ashley"
 
     # game/logic/characters.rpy:17
     old "Audrey"
-    new ""
+    new "Audrey"
 
     # game/logic/characters.rpy:18
     old "Carter"
-    new ""
+    new "Carter"
 
     # game/logic/characters.rpy:19
     old "Grang"
-    new ""
+    new "Grang"
 
     # game/logic/characters.rpy:20
     old "Diego"
-    new ""
+    new "Diego"
 
     # game/logic/characters.rpy:21
     old "Don"
-    new ""
+    new "Don"
 
     # game/logic/characters.rpy:22
     old "Elijah"
-    new ""
+    new "Elijah"
 
     # game/logic/characters.rpy:23
     old "Frida"
-    new ""
+    new "Frida"
 
     # game/logic/characters.rpy:24
     old "Gabriella"
-    new ""
+    new "Gabriella"
 
     # game/logic/characters.rpy:25
     old "Giant"
-    new ""
+    new "Giant"
 
     # game/logic/characters.rpy:26
     old "Gordon"
-    new ""
+    new "Gordon"
 
     # game/logic/characters.rpy:27
     old "Grace"
-    new ""
+    new "Grace"
 
     # game/logic/characters.rpy:28
     old "Haley"
-    new ""
+    new "Haley"
 
     # game/logic/characters.rpy:29
     old "Jacob"
-    new ""
+    new "Jacob"
 
     # game/logic/characters.rpy:30
     old "Jaina"
-    new ""
+    new "Jaina"
 
     # game/logic/characters.rpy:31
     old "Jill"
-    new ""
+    new "Jill"
 
     # game/logic/characters.rpy:33
     old "Joshi"
-    new ""
+    new "Joshi"
 
     # game/logic/characters.rpy:34
     old "Katrina"
-    new ""
+    new "Katrina"
 
     # game/logic/characters.rpy:35
     old "Leona"
-    new ""
+    new "Leona"
 
     # game/logic/characters.rpy:36
     old "Lily"
-    new ""
+    new "Lily"
 
     # game/logic/characters.rpy:37
     old "Lucy"
-    new ""
+    new "Lucy"
 
     # game/logic/characters.rpy:38
     old "Mina"
-    new ""
+    new "Mina"
 
     # game/logic/characters.rpy:39
     old "Molly"
-    new ""
+    new "Molly"
 
     # game/logic/characters.rpy:40
     old "Mushroom Girl"
-    new ""
+    new "Mushroom Girl"
 
     # game/logic/characters.rpy:41
     old "Naomi"
-    new ""
+    new "Naomi"
 
     # game/logic/characters.rpy:42
     old "Olivia"
-    new ""
+    new "Olivia"
 
     # game/logic/characters.rpy:43
     old "Romul"
-    new ""
+    new "Romul"
 
     # game/logic/characters.rpy:44
     old "Sabrina"
-    new ""
+    new "Sabrina"
 
     # game/logic/characters.rpy:45
     old "Sadira"
-    new ""
+    new "Sadira"
 
     # game/logic/characters.rpy:46
     old "Samantha"
-    new ""
+    new "Samantha"
 
     # game/logic/characters.rpy:47
     old "Selene"
-    new ""
+    new "Selene"
 
     # game/logic/characters.rpy:48
     old "Vanessa"
-    new ""
+    new "Vanessa"
 
     # game/logic/characters.rpy:49
     old "Victoria"
-    new ""
+    new "Victoria"
 
     # game/logic/characters.rpy:50
     old "Willow"
-    new ""
+    new "Willow"
 
     # game/logic/characters.rpy:52
     old "Unknown Man"
-    new ""
+    new "Unknown Man"
 
     # game/logic/characters.rpy:54
     old "Guy"
-    new ""
+    new "Guy"
 
     # game/logic/characters.rpy:55
     old "Unknown Girl"
-    new ""
+    new "Unknown Girl"
 
     # game/logic/characters.rpy:59
     old "Unknown elf"
-    new ""
+    new "Unknown elf"
 
