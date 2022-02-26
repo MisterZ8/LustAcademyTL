@@ -46,13 +46,13 @@ translate english Samantha_4_label_a21000c8:
 translate english Samantha_4_label_d17e29fe:
 
     # Victoria "I don't care for rude flattery. But I commend you for trying."
-    Victoria ""
+    Victoria "I'm not swayed by flattery, but I commend you for trying."
 
 # game/logic/events/victoria.rpy:244
 translate english Samantha_4_label_4b148ae1:
 
     # ch_Name "But it's true! Everyone I've talked to thinks you're the most talented."
-    ch_Name ""
+    ch_Name "But it's true! Everyone I've talked to thinks you're the most talented here."
 
 # game/logic/events/victoria.rpy:246
 translate english Samantha_4_label_00a98cac:
@@ -154,7 +154,7 @@ translate english Samantha_4_label_ad2dce51:
 translate english Samantha_4_label_8f5ebfee:
 
     # Victoria "However you rephrase \"please\" it doesn't change the situation."
-    Victoria ""
+    Victoria "However you rephrase \"please\" it doesn't change my response."
 
 # game/logic/events/victoria.rpy:267
 translate english Samantha_4_label_6850e64c:
@@ -280,7 +280,7 @@ translate english Samantha_4_label_23c5b85a:
 translate english Samantha_4_label_c62c428f:
 
     # Victoria "Yes, you have a lot of confidence. But you have a problem with wisdom..."
-    Victoria ""
+    Victoria "Well, you have a lot of confidence. But you have a shortage of wisdom..."
 
 # game/logic/events/victoria.rpy:294
 translate english Samantha_4_label_4084cc2c:
@@ -424,7 +424,7 @@ translate english Victoria_1_label_5fb1072e:
 translate english Victoria_1_label_664f9369:
 
     # Victoria "Magic is as much a part of the world around us as you or me."
-    Victoria ""
+    Victoria "Magic is as much a part of the world around us as you or I."
 
 # game/logic/events/victoria.rpy:336
 translate english Victoria_1_label_09c165ee:
@@ -496,7 +496,7 @@ translate english Victoria_1_label_d539b14e:
 translate english Victoria_1_label_313c17b2:
 
     # Victoria "But none of this is officially recognized by the Ministry of Magic."
-    Victoria ""
+    Victoria "But none of these are officially recognized by the Ministry of Magic."
 
 # game/logic/events/victoria.rpy:350
 translate english Victoria_1_label_4b8b131d:
@@ -628,7 +628,7 @@ translate english Victoria_1_label_d963d3a1:
 translate english Victoria_1_label_bcc7c10f:
 
     # ch_Name "I want to discover my source soon!"
-    ch_Name ""
+    ch_Name "I want to discover my source as quick as I can!"
 
 # game/logic/events/victoria.rpy:378
 translate english Victoria_1_label_84e820bb:
@@ -658,7 +658,7 @@ translate english Victoria_1_label_16cc4103:
 translate english Victoria_1_label_f57b17c7:
 
     # Victoria "So don't be in any hurry when choosing a source of power."
-    Victoria ""
+    Victoria "So don't rush in discovering a source of power."
 
 # game/logic/events/victoria.rpy:384
 translate english Victoria_1_label_2abb718e:
@@ -724,7 +724,7 @@ translate english Victoria_1_label_8fa894c8:
 translate english Victoria_1_label_c18e55e9:
 
     # Lily "Ha-ha-ha. True. Believe me, homeschooling by my parents wasn't great too."
-    Lily ""
+    Lily "Ha-ha-ha. True. Believe me, homeschooling by my parents wasn't great, either."
 
 # game/logic/events/victoria.rpy:400
 translate english Victoria_1_label_4d0f9e0e:
@@ -736,7 +736,7 @@ translate english Victoria_1_label_4d0f9e0e:
 translate english Victoria_1_label_778d4b12:
 
     # ch_Name "Do we get points for attention that?"
-    ch_Name ""
+    ch_Name "Do we get points for attending that?"
 
 # game/logic/events/victoria.rpy:402
 translate english Victoria_1_label_84a7fafa:
@@ -748,7 +748,7 @@ translate english Victoria_1_label_84a7fafa:
 translate english Victoria_1_label_a8eb4c62:
 
     # ch_Name "Than count me in."
-    ch_Name ""
+    ch_Name "Then count me in."
 
 # game/logic/events/victoria.rpy:407
 translate english Victoria_1_label_211143b8:
@@ -796,7 +796,7 @@ translate english Victoria_2_label_5aeb81dc:
 translate english Victoria_2_label_f2ef1456:
 
     # Victoria "Unfortunately not all students have already found their source of power."
-    Victoria ""
+    Victoria "Unfortunately not all students have found their sources of power as of yet."
 
 # game/logic/events/victoria.rpy:428
 translate english Victoria_2_label_f775cffd:
@@ -808,7 +808,7 @@ translate english Victoria_2_label_f775cffd:
 translate english Victoria_2_label_b563b4b5:
 
     # Victoria "Like I said, don't rush yourself. It's dangerous!"
-    Victoria ""
+    Victoria "Like I said, don't rush yourself. It can be dangerous!"
 
 # game/logic/events/victoria.rpy:431
 translate english Victoria_2_label_28c13f23:
@@ -874,7 +874,7 @@ translate english Victoria_2_label_47eca616:
 translate english Victoria_2_label_3b64176a:
 
     # Victoria "To do real spells, not petty tricks..."
-    Victoria ""
+    Victoria "To cast real spells, not petty tricks..."
 
 # game/logic/events/victoria.rpy:444
 translate english Victoria_2_label_1386c269:
@@ -916,13 +916,13 @@ translate english Victoria_2_label_79b1a98e:
 translate english Victoria_2_label_3c3c0912:
 
     # Victoria "The teachers at Cordale are there to guide your learning."
-    Victoria ""
+    Victoria "The teachers at Cordale are here to guide your learning."
 
 # game/logic/events/victoria.rpy:459
 translate english Victoria_2_label_173e20bb:
 
     # Victoria "In an effective and safe way."
-    Victoria ""
+    Victoria "In an effective and safe manner."
 
 # game/logic/events/victoria.rpy:460
 translate english Victoria_2_label_67aff2bf:
@@ -982,7 +982,7 @@ translate english Victoria_2_label_32_45e000a3:
 translate english Victoria_2_label_32_e405bf80:
 
     # Victoria "But confidence is better when it's backed up by knowledge."
-    Victoria ""
+    Victoria "But confidence is better when it's backed up with knowledge."
 
 # game/logic/events/victoria.rpy:480
 translate english Victoria_2_label_32_76f7b6e0:
@@ -1000,7 +1000,7 @@ translate english Victoria_2_label_32_193d661f:
 translate english Victoria_2_label_32_173e20bb:
 
     # Victoria "In an effective and safe way."
-    Victoria ""
+    Victoria "In an effective and safe manner."
 
 # game/logic/events/victoria.rpy:484
 translate english Victoria_2_label_32_328e860a:
@@ -1036,7 +1036,7 @@ translate english Victoria_2_label_44_63939870:
 translate english Victoria_2_label_44_4ffeb3d1:
 
     # Victoria "And use it to change the matter of the world."
-    Victoria ""
+    Victoria "And use it to alter the material world."
 
 # game/logic/events/victoria.rpy:495
 translate english Victoria_2_label_44_cc9b6f19:
@@ -1048,8 +1048,8 @@ translate english Victoria_2_label_44_cc9b6f19:
 translate english Victoria_2_label_44_d49b4aa6:
 
     # Victoria "People first began to notice their ability to do magic a long time ago."
-    Victoria ""
-
+    Victoria "People first began to notice their abilities to perform magic a long time ago."
+    
 # game/logic/events/victoria.rpy:498
 translate english Victoria_2_label_44_59a3eb1b:
 
@@ -1120,7 +1120,7 @@ translate english Victoria_2_label_44_4dda41e8:
 translate english Victoria_2_label_44_b46243d0:
 
     # Joshi "Man, potion brewing sucks. I'll probably skip. Who wants with me?"
-    Joshi ""
+    Joshi "Man, potion brewing sucks. I'll probably skip. Who wants to join me?"
 
 # game/logic/events/victoria.rpy:516
 translate english Victoria_2_label_44_0bb71d98:
@@ -1414,7 +1414,7 @@ translate english Victoria_3_label_22_6b19d429:
 translate english Victoria_3_label_22_9fde08e7:
 
     # Victoria "Anyone else wants to tell me about their source?"
-    Victoria ""
+    Victoria "Does anyone else want to tell me about their source?"
 
 # game/logic/events/victoria.rpy:612
 translate english Victoria_3_label_22_9681c55e:
@@ -1474,7 +1474,7 @@ translate english Victoria_4_label_3636fdd8:
 translate english Victoria_4_label_040127af:
 
     # Victoria "Today you and I will learn how to use the energy of a power source."
-    Victoria ""
+    Victoria "Today you and I will review how to use the energy of a power source."
 
 # game/logic/events/victoria.rpy:636
 translate english Victoria_4_label_be98e686:
@@ -1516,7 +1516,7 @@ translate english Victoria_4_label_d21100c5:
 translate english Victoria_4_label_949ae303:
 
     # Victoria "Concentrating on it, start imagining how you change it."
-    Victoria ""
+    Victoria "Concentrate on it, start to imagine how you would change it."
 
 # game/logic/events/victoria.rpy:645
 translate english Victoria_4_label_f21189ac:
@@ -1690,7 +1690,7 @@ translate english Victoria_4_label_3c0a4f89:
 translate english Victoria_4_label_8fbbb0c1:
 
     # Victoria "So practice more often."
-    Victoria ""
+    Victoria "So practice often."
 
 # game/logic/events/victoria.rpy:679
 translate english Victoria_4_label_b5d3e3e3:
@@ -1804,7 +1804,7 @@ translate english Victoria_5_label_a3700443:
 translate english Victoria_5_label_d7972d97:
 
     # Victoria "But the more complex and unusual a property is for an object."
-    Victoria ""
+    Victoria "But the more complex and unusual a property is for an object..."
 
 # game/logic/events/victoria.rpy:716
 translate english Victoria_5_label_5e2e0f07:
@@ -1845,7 +1845,7 @@ translate english Victoria_5_label_ec4c3693:
 # game/logic/events/victoria.rpy:723
 translate english Victoria_5_label_e884bf39:
 
-    # Victoria "You can change it to suit your needs."
+    # Victoria "...You can change it to suit your needs."
     Victoria ""
 
 # game/logic/events/victoria.rpy:725
@@ -1954,7 +1954,7 @@ translate english Victoria_6_label_1f3c446c:
 translate english Victoria_6_label_cfd7cf28:
 
     # ch_Name "Yes, of course it has!"
-    ch_Name ""
+    ch_Name "Yes, of course it was!"
 
 # game/logic/events/victoria.rpy:763
 translate english Victoria_6_label_22293fbe:
@@ -2086,7 +2086,7 @@ translate english Victoria_6_label_2f074a1a:
 translate english Victoria_6_label_80140f12:
 
     # Victoria "I was pretty prejudiced against you after I met you."
-    Victoria ""
+    Victoria "I misjudged you after first meeting you."
 
 # game/logic/events/victoria.rpy:791
 translate english Victoria_6_label_4bbd0fed:
@@ -2224,7 +2224,7 @@ translate english Victoria_6_label_42_4428b08c:
 translate english Victoria_6_label_42_3507da14:
 
     # ch_Name "{i}(Is it even legal to be a teacher when you are this hot?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Is it even legal to be a teacher when you're this hot?){/i}"
 
 # game/logic/events/victoria.rpy:832
 translate english Victoria_6_label_42_c5e97a81:
@@ -2254,7 +2254,7 @@ translate english Victoria_6_label_42_5eb602a8:
 translate english Victoria_6_label_42_b3740844:
 
     # ch_Name "{i}(Why would my eyes stop on her magnificent breasts?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Why could my eyes stop on her magnificent breasts?){/i}"
 
 # game/logic/events/victoria.rpy:843
 translate english Victoria_6_label_42_95443de1:
@@ -2452,7 +2452,7 @@ translate english Victoria_7_label_31ff9a5c:
 translate english Victoria_7_label_42fd3a70:
 
     # Victoria "Fine, then take it and follow me."
-    Victoria ""
+    Victoria "Fine, then take them and follow me."
 
 # game/logic/events/victoria.rpy:931
 translate english Victoria_7_label_c6803d96:
@@ -2578,7 +2578,7 @@ translate english Victoria_7_label_a311495f:
 translate english Victoria_7_label_6c1b5126:
 
     # Victoria "Maybe once in a while you'll be able to make a funny joke..."
-    Victoria ""
+    Victoria "Maybe once in a while, if you were able to tell a funny joke..."
 
 # game/logic/events/victoria.rpy:958
 translate english Victoria_7_label_eddfc16f:
@@ -2626,7 +2626,7 @@ translate english Victoria_7_label_4ea244ef:
 translate english Victoria_7_label_7cc53a53:
 
     # ch_Name "Can you be jealous of anyone? You?!"
-    ch_Name ""
+    ch_Name "How can you be jealous of anyone? You?!"
 
 # game/logic/events/victoria.rpy:969
 translate english Victoria_7_label_1153d230:
@@ -2782,7 +2782,7 @@ translate english Victoria_7_label_c4c7b0a8:
 translate english Victoria_7_label_f120a228:
 
     # ch_Name "{i}(If I hurry up I can still get in time for Sabrina's lesson.){/i}"
-    ch_Name ""
+    ch_Name "{i}(If I hurry up I'll still be on time for Sabrina's lesson.){/i}"
 
 # game/logic/events/victoria.rpy:1014
 translate english Victoria_8_label_82096b57:
@@ -2800,7 +2800,7 @@ translate english Victoria_8_label_5ec51992:
 translate english Victoria_8_label_0a9a9a96:
 
     # Victoria "Todays topic: Advanced Attacking Spells."
-    Victoria ""
+    Victoria "Todays topic: Advanced Attack Spells."
 
 # game/logic/events/victoria.rpy:1018
 translate english Victoria_8_label_d5565fd2:
@@ -2920,13 +2920,13 @@ translate english Victoria_8_label_c4b8ba72:
 translate english Victoria_8_label_fb9b1151:
 
     # Victoria "Or does your magical energy attract vampires?"
-    Victoria ""
+    Victoria "Or if your magical energy attract vampires?"
 
 # game/logic/events/victoria.rpy:1047
 translate english Victoria_8_label_35ceafe3:
 
     # Victoria "You don't have to learn combat spells if you want."
-    Victoria ""
+    Victoria "You don't have to learn combat spells if you'd rather not."
 
 # game/logic/events/victoria.rpy:1048
 translate english Victoria_8_label_eb9e4119:
@@ -3040,7 +3040,7 @@ translate english Victoria_8_label_2234167e:
 translate english Victoria_8_label_8f151a85:
 
     # Victoria "Don't forget about potion brewery lesson."
-    Victoria ""
+    Victoria "Don't forget about potion brewing lesson."
 
 # game/logic/events/victoria.rpy:1078
 translate english Victoria_8_label_f07406f7:
@@ -3160,7 +3160,7 @@ translate english Victoria_9_label_e84e5661:
 translate english Victoria_9_label_9cc0b784:
 
     # Victoria "Today I'm going to teach you how to create a simple healing."
-    Victoria ""
+    Victoria "Today I'm going to teach you how to cast a simple healing spell."
 
 # game/logic/events/victoria.rpy:1118
 translate english Victoria_9_label_8ef0816e:
@@ -3376,7 +3376,7 @@ translate english Victoria_9_label_aa2e3956:
 translate english Victoria_9_label_2c082ce7:
 
     # ch_Name "Is it supposed to be so?"
-    ch_Name ""
+    ch_Name ""Is it supposed to be like this?"
 
 # game/logic/events/victoria.rpy:1174
 translate english Victoria_9_label_caf4e6f9:
@@ -3478,7 +3478,7 @@ translate english Victoria_9_label_1c68b59b:
 translate english Victoria_9_label_420e385c:
 
     # Victoria "We'll practice {b}Episkey{/b} more on the next practice lesson."
-    Victoria ""
+    Victoria "We'll practice {b}Episkey{/b} more during the next lesson."
 
 # game/logic/events/victoria.rpy:1201
 translate english Victoria_9_label_f9c5c15a:
@@ -3508,25 +3508,25 @@ translate english Victoria_9_label_3804fa76:
 translate english Victoria_9_label_ab852a54:
 
     # ch_Name "{i}(She seems to be very committed to succeeding in the potion brewery.){/i}"
-    ch_Name ""
+    ch_Name "{i}(She seems to be very committed to succeeding in potion brewing.){/i}"
 
 # game/logic/events/victoria.rpy:1222
 translate english Victoria_10_label_59edb4d8:
 
     # Victoria "Today's lesson is about concussion bolt."
-    Victoria ""
+    Victoria "Today's lesson is about the concussion bolt."
 
 # game/logic/events/victoria.rpy:1223
 translate english Victoria_10_label_a40fac23:
 
     # Victoria "More known among students as Rictusempra."
-    Victoria ""
+    Victoria "Better known among students as Rictusempra."
 
 # game/logic/events/victoria.rpy:1224
 translate english Victoria_10_label_a8ed8082:
 
     # Victoria "It's the empowered version of the usuall combat bolt."
-    Victoria ""
+    Victoria "It's the enhanced version of the usual combat bolt."
 
 # game/logic/events/victoria.rpy:1225
 translate english Victoria_10_label_9debca6d:
@@ -3538,7 +3538,7 @@ translate english Victoria_10_label_9debca6d:
 translate english Victoria_10_label_bb25bdcc:
 
     # Victoria "Believe me - this small trick can bedazzle even the most powerful mage."
-    Victoria ""
+    Victoria "Believe me - this small trick can bewilder even the most powerful mage."
 
 # game/logic/events/victoria.rpy:1228
 translate english Victoria_10_label_a5c27735:
@@ -3640,7 +3640,7 @@ translate english Victoria_10_label_4fe37893:
 translate english Victoria_10_label_94522b28:
 
     # Victoria "Except giant spiders, are there any situations that needs loud vocalizing?"
-    Victoria ""
+    Victoria "Except giant spiders, are there any situations that require loud vocalizing?"
 
 # game/logic/events/victoria.rpy:1251
 translate english Victoria_10_label_730be223:
@@ -3736,7 +3736,7 @@ translate english Victoria_11_label_81fe4738:
 translate english Victoria_11_label_6f22ef2c:
 
     # ch_Name "{i}(We should ask Victoria for an extra class.){/i}"
-    ch_Name ""
+    ch_Name "{i}(We should ask Victoria for an extra lesson.){/i}"
 
 # game/logic/events/victoria.rpy:1283
 translate english Victoria_11_label_0a442d92:
@@ -3760,7 +3760,7 @@ translate english Victoria_11_label_e0927c2f:
 translate english Victoria_11_label_2b1e4f42:
 
     # ch_Name "I'd like to ask you for an extra class."
-    ch_Name ""
+    ch_Name "I'd like to ask you for an extra lesson."
 
 # game/logic/events/victoria.rpy:1288
 translate english Victoria_11_label_9cdc7e17:
@@ -4300,7 +4300,7 @@ translate english Victoria_11_label_45789c1d:
 translate english Victoria_11_label_e65ef240:
 
     # ch_Name "{i}(I turn and look in the mirror.){/i}"
-    ch_Name ""
+    ch_Name "{i}(I'll turn and look in the mirror.){/i}"
 
 # game/logic/events/victoria.rpy:1419
 translate english Victoria_11_label_bf576d04:
@@ -4330,7 +4330,7 @@ translate english Victoria_11_label_96f4fd04:
 translate english Victoria_11_label_5ef50dd3:
 
     # ch_Name "{i}(How often do you undress in the same room with your students?){/i}"
-    ch_Name ""
+    ch_Name "{i}(How often do you undress in the same room as your students?){/i}"
 
 # game/logic/events/victoria.rpy:1427
 translate english Victoria_11_label_94971ec3:
@@ -4486,7 +4486,7 @@ translate english Victoria_11_label_c9a39e27:
 translate english Victoria_11_label_266596e7:
 
     # ch_Name "{i}(As far as I recall she has no lesson right now, so she might be free.){/i}"
-    ch_Name ""
+    ch_Name "{i}(As far as I recall she has no class right now, so she might be free.){/i}"
 
 # game/logic/events/victoria.rpy:1473
 translate english Victoria_11_label_e1d7e239:
