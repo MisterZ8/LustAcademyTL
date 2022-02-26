@@ -430,31 +430,31 @@ translate philippine Elijah_1_label_69_a93d50a5:
 translate philippine Elijah_1_label_69_b71faa73:
 
     # ch_Name "{i}(I need to receive textbooks in the library.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kunin ko muna ang mga libro ko sa aklatan.){/i}"
 
 # game/logic/events/elijah.rpy:272
 translate philippine Elijah_1_label_69_26dd810e:
 
     # ch_Name "{i}(But there's still plenty of time before lessons.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pero may oras pa ako bago magsimula ang klase.){/i}"
 
 # game/logic/events/elijah.rpy:273
 translate philippine Elijah_1_label_69_25a405a4:
 
     # ch_Name "{i}(Maybe I can chat with Samantha or get to know Audrey better?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Siguro kakausapin ko si Samantha o kilalahanin si Audrey?.){/i}"
 
 # game/logic/events/elijah.rpy:288
 translate philippine Elijah_3_label_965f76b7:
 
     # Elijah "Yo! [Name]!{w} This way!"
-    Elijah ""
+    Elijah "Yo! [Name]!{w} Dito!"
 
 # game/logic/events/elijah.rpy:289
 translate philippine Elijah_3_label_f32e4743:
 
     # Elijah "Have a seat."
-    Elijah ""
+    Elijah "Uumupo ka."
 
 # game/logic/events/elijah.rpy:290
 translate philippine Elijah_3_label_fe5b543a:
@@ -466,55 +466,55 @@ translate philippine Elijah_3_label_fe5b543a:
 translate philippine Elijah_3_label_26f206d4:
 
     # Elijah "So, did you meet the teachers?"
-    Elijah ""
+    Elijah "Nakilala mo na ba ang mga guro?"
 
 # game/logic/events/elijah.rpy:293
 translate philippine Elijah_3_label_a48aa9e4:
 
     # ch_Name "Sure did."
-    ch_Name ""
+    ch_Name "Oo."
 
 # game/logic/events/elijah.rpy:294
 translate philippine Elijah_3_label_5b7c05f7:
 
     # Elijah "That's great!"
-    Elijah ""
+    Elijah "Mabuti naman!"
 
 # game/logic/events/elijah.rpy:295
 translate philippine Elijah_3_label_aa892c32:
 
     # Elijah "I'm sure you'll soon be 100%% integrated into university life."
-    Elijah ""
+    Elijah "Sigurado ako na 100%% maisama ka sa buhay dito sa unibersidad."
 
 # game/logic/events/elijah.rpy:296
 translate philippine Elijah_3_label_bd67f888:
 
     # ch_Name "What do you mean?"
-    ch_Name ""
+    ch_Name "Ano ang sinasabi mo?"
 
 # game/logic/events/elijah.rpy:297
 translate philippine Elijah_3_label_3ef8758f:
 
     # Elijah "Well, studying, clubs, parties, romance."
-    Elijah ""
+    Elijah "Pag-aaral, kasiyahan, pagmamahalan."
 
 # game/logic/events/elijah.rpy:299
 translate philippine Elijah_3_label_82b46ad4:
 
     # Elijah "Let me ask you a question, [Name]."
-    Elijah ""
+    Elijah "May tanong ako sa iyo, [Name]."
 
 # game/logic/events/elijah.rpy:300
 translate philippine Elijah_3_label_f844a08a:
 
     # ch_Name "Shoot."
-    ch_Name ""
+    ch_Name "Sige."
 
 # game/logic/events/elijah.rpy:301
 translate philippine Elijah_3_label_4c4d981f:
 
     # Elijah "What did you come to Cordale for?"
-    Elijah ""
+    Elijah "Bakit ka pumunta sa Cordale?"
 
 # game/logic/events/elijah.rpy:302
 translate philippine Elijah_3_label_d807de0c:
@@ -526,79 +526,79 @@ translate philippine Elijah_3_label_d807de0c:
 translate philippine Elijah_3_label_3abacb28:
 
     # ch_Name "It's a weird question..."
-    ch_Name ""
+    ch_Name "Kakaiba ng tanong mo..."
 
 # game/logic/events/elijah.rpy:318
 translate philippine Elijah_3_label_0257f59d:
 
     # ch_Name "The invitation came to me and I jumped at the chance."
-    ch_Name ""
+    ch_Name "Dumating sa akin ang imbitasyon at kinuha ko ang pagkakataon."
 
 # game/logic/events/elijah.rpy:320
 translate philippine Elijah_3_label_bac7f7ab:
 
     # ch_Name "How do you know what you're in it for when you've only just learned about magic?"
-    ch_Name ""
+    ch_Name "Paano mo ba malalaman kung para sa ano ang ginagawa mo dito ko bago mo lang nalaman na may mahika?"
 
 # game/logic/events/elijah.rpy:321
 translate philippine Elijah_3_label_c44b5d6e:
 
     # Elijah "Well, you have a point."
-    Elijah ""
+    Elijah "Tama ka naman."
 
 # game/logic/events/elijah.rpy:323
 translate philippine Elijah_3_label_9168f2fe:
 
     # Elijah "So, anyway, what I'm asking is..."
-    Elijah ""
+    Elijah "Oo nga pala, ang sinasabi ko ay..."
 
 # game/logic/events/elijah.rpy:324
 translate philippine Elijah_3_label_7a6ef562:
 
     # Elijah "I got some business on the side."
-    Elijah ""
+    Elijah "May negosyo ako dito."
 
 # game/logic/events/elijah.rpy:325
 translate philippine Elijah_3_label_d4f7a66c:
 
     # Elijah "I could use someone like you."
-    Elijah ""
+    Elijah "Kailangan ko ng tao na katulad mo."
 
 # game/logic/events/elijah.rpy:326
 translate philippine Elijah_3_label_2269a16e:
 
     # ch_Name "Like me?"
-    ch_Name ""
+    ch_Name "Tulad ko?"
 
 # game/logic/events/elijah.rpy:328
 translate philippine Elijah_3_label_6aa5a83d:
 
     # Elijah "Yes.{w} A man who takes a chance when he sees one."
-    Elijah ""
+    Elijah "Oo. {w} Isang tao na hindi natakot sa mga oportunidad na nakikita niya."
 
 # game/logic/events/elijah.rpy:337
 translate philippine Elijah_3_label_26_9a79879b:
 
     # ch_Name "I'm an athlete.{w} If I take something on, it's to be the best."
-    ch_Name ""
+    ch_Name "Atleta ako.{w} Kung may gagawin ako, dapat ako ang pinakamahusay."
 
 # game/logic/events/elijah.rpy:339
 translate philippine Elijah_3_label_26_07881398:
 
     # Elijah "That's the spirit."
-    Elijah ""
+    Elijah "'Yan ang gusto kong ugali."
 
 # game/logic/events/elijah.rpy:340
 translate philippine Elijah_3_label_26_df7f1f0f:
 
     # Elijah "You remind me of someone."
-    Elijah ""
+    Elijah "May naalala akong tao dahil sa iyo."
 
 # game/logic/events/elijah.rpy:341
 translate philippine Elijah_3_label_26_ba294846:
 
     # Elijah "Is that Samantha's influence, by any chance?"
-    Elijah ""
+    Elijah "Impluwensya ba ito ni Samantha?"
 
 # game/logic/events/elijah.rpy:342
 translate philippine Elijah_3_label_26_c0b0068a:
@@ -610,439 +610,439 @@ translate philippine Elijah_3_label_26_c0b0068a:
 translate philippine Elijah_3_label_26_3aa12a5d:
 
     # ch_Name "Not really.{w} But we were raised the same way."
-    ch_Name ""
+    ch_Name "'Di naman.{w} Parehas kaming pinalaki ng ganito."
 
 # game/logic/events/elijah.rpy:344
 translate philippine Elijah_3_label_26_360043ef:
 
     # Elijah "I see."
-    Elijah ""
+    Elijah "Kaya pala."
 
 # game/logic/events/elijah.rpy:346
 translate philippine Elijah_3_label_26_9168f2fe:
 
     # Elijah "So, anyway, what I'm asking is..."
-    Elijah ""
+    Elijah "Oo nga pala, ang sinasabi ko ay..."
 
 # game/logic/events/elijah.rpy:347
 translate philippine Elijah_3_label_26_7a6ef562:
 
     # Elijah "I got some business on the side."
-    Elijah ""
+    Elijah "May negosyo ako dito."
 
 # game/logic/events/elijah.rpy:348
 translate philippine Elijah_3_label_26_d4f7a66c:
 
     # Elijah "I could use someone like you."
-    Elijah ""
+    Elijah "Kailangan ko ng tao na katulad mo."
 
 # game/logic/events/elijah.rpy:349
 translate philippine Elijah_3_label_26_2269a16e:
 
     # ch_Name "Like me?"
-    ch_Name ""
+    ch_Name "Tulad ko?"
 
 # game/logic/events/elijah.rpy:351
 translate philippine Elijah_3_label_26_a766afe4:
 
     # Elijah "Yes. Most people don't care about themselves."
-    Elijah ""
+    Elijah "Oo. Karamihan sa mga tao dito ay walang pakialam."
 
 # game/logic/events/elijah.rpy:352
 translate philippine Elijah_3_label_26_9fbf13f7:
 
     # Elijah "You want to be the best. I respect that."
-    Elijah ""
+    Elijah "Gusto mo na ikaw ang pinakamagaling. Nirerespeto ko 'yun."
 
 # game/logic/events/elijah.rpy:358
 translate philippine Elijah_3_label_39_275aa230:
 
     # ch_Name "I'm hoping to make some new and interesting acquaintances here."
-    ch_Name ""
+    ch_Name "Gusto kong makakakilala ng mga bagong kaibigan dito."
 
 # game/logic/events/elijah.rpy:359
 translate philippine Elijah_3_label_39_6ab10126:
 
     # ch_Name "If you know what I mean."
-    ch_Name ""
+    ch_Name "Kung alam mo ang ibig kong sabihin."
 
 # game/logic/events/elijah.rpy:361
 translate philippine Elijah_3_label_39_54cc73cc:
 
     # Elijah "Ah-ha-ha...{w} Are you serious?"
-    Elijah ""
+    Elijah  "Ah-ha-ha...{w} Seryoso ka ba?"
 
 # game/logic/events/elijah.rpy:362
 translate philippine Elijah_3_label_39_62e8326f:
 
     # Elijah "A community college would be enough for that, man."
-    Elijah ""
+    Elijah "Sapat na ang community college para diyan, pare."
 
 # game/logic/events/elijah.rpy:363
 translate philippine Elijah_3_label_39_18d630e0:
 
     # ch_Name "It's more fun to get to know someone with magic."
-    ch_Name ""
+    ch_Name "Mas masaya kapag may mahika."
 
 # game/logic/events/elijah.rpy:364
 translate philippine Elijah_3_label_39_dec0eeaf:
 
     # Elijah "Yeah, well, you got a point there."
-    Elijah ""
+    Elijah "Tama ka naman."
 
 # game/logic/events/elijah.rpy:366
 translate philippine Elijah_3_label_39_9168f2fe:
 
     # Elijah "So, anyway, what I'm asking is..."
-    Elijah ""
+    Elijah "Ang sinasabi ko ay..."
 
 # game/logic/events/elijah.rpy:367
 translate philippine Elijah_3_label_39_7a6ef562:
 
     # Elijah "I got some business on the side."
-    Elijah ""
+    Elijah "May negosyo ako dito."
 
 # game/logic/events/elijah.rpy:368
 translate philippine Elijah_3_label_39_d4f7a66c:
 
     # Elijah "I could use someone like you."
-    Elijah ""
+    Elijah "Kailangan ko ng tao na katulad mo."
 
 # game/logic/events/elijah.rpy:369
 translate philippine Elijah_3_label_39_2269a16e:
 
     # ch_Name "Like me?"
-    ch_Name ""
+    ch_Name "Tulad ko?"
 
 # game/logic/events/elijah.rpy:371
 translate philippine Elijah_3_label_39_97dda2da:
 
     # Elijah "Yes. {w} A man who's open to new acquaintances."
-    Elijah ""
+    Elijah "Oo.{w} Ang gustong makakilala ng mga bagong tao."
 
 # game/logic/events/elijah.rpy:372
 translate philippine Elijah_3_label_39_e9213b35:
 
     # Elijah "A guy like that always comes in handy."
-    Elijah ""
+    Elijah "Magagamit talaga ang taong ganyan."
 
 # game/logic/events/elijah.rpy:377
 translate philippine Elijah_3_label_51_94a1813a:
 
     # ch_Name "Drop your riddles!"
-    ch_Name ""
+    ch_Name "'Di mo na sabihin ang mga bugtong mo!"
 
 # game/logic/events/elijah.rpy:378
 translate philippine Elijah_3_label_51_e324d213:
 
     # ch_Name "What's the deal?"
-    ch_Name ""
+    ch_Name "Ano ba?"
 
 # game/logic/events/elijah.rpy:380
 translate philippine Elijah_3_label_51_fd980bce:
 
     # Elijah "You see, everything in Cordale is fine..."
-    Elijah ""
+    Elijah "Mabuti naman ang lahat sa Cordale..."
 
 # game/logic/events/elijah.rpy:381
 translate philippine Elijah_3_label_51_2c870455:
 
     # Elijah "Except a couple of overly strict rules."
-    Elijah ""
+    Elijah "pero may dalawang batas na mahigpit talaga."
 
 # game/logic/events/elijah.rpy:382
 translate philippine Elijah_3_label_51_8e8b8509:
 
     # Elijah "Many of the things forbidden in the academy..."
-    Elijah ""
+    Elijah "Ang gma bagay na bawal sa akademiya..."
 
 # game/logic/events/elijah.rpy:383
 translate philippine Elijah_3_label_51_35f4d787:
 
     # Elijah "...can be very useful and pleasant."
-    Elijah ""
+    Elijah "...ay may silbi naman, at minsan ay nagpapasiya."
 
 # game/logic/events/elijah.rpy:384
 translate philippine Elijah_3_label_51_1b67e978:
 
     # ch_Name "What are you talking about?"
-    ch_Name ""
+    ch_Name "Ano ba ang sinasabi mo?"
 
 # game/logic/events/elijah.rpy:386
 translate philippine Elijah_3_label_51_c19cab6b:
 
     # Elijah "Well, you know... A little doping to get things done."
-    Elijah ""
+    Elijah "Alam mo naman... ang paggagamit ng konting droga para makatapos ng ginagawa."
 
 # game/logic/events/elijah.rpy:387
 translate philippine Elijah_3_label_51_105a029a:
 
     # Elijah "Or the opposite, to relax and take your time."
-    Elijah ""
+    Elijah "O ang kasalungat, para makahinga ka."
 
 # game/logic/events/elijah.rpy:388
 translate philippine Elijah_3_label_51_551f4b00:
 
     # ch_Name "Are you talking about something illegal?"
-    ch_Name ""
+    ch_Name "Sinasabi mo ba na ilegal ito?"
 
 # game/logic/events/elijah.rpy:390
 translate philippine Elijah_3_label_51_fce40b77:
 
     # Elijah "Come on! Of course not."
-    Elijah ""
+    Elijah "Hindi naman!"
 
 # game/logic/events/elijah.rpy:391
 translate philippine Elijah_3_label_51_538e553e:
 
     # Elijah "In some states and countries it's legal, in others not so much."
-    Elijah ""
+    Elijah "Legal naman sa ilang lugar, at hindi sa iba."
 
 # game/logic/events/elijah.rpy:392
 translate philippine Elijah_3_label_51_10ba5315:
 
     # Elijah "If people's average IQ wasn't around 70..."
-    Elijah ""
+    Elijah "Kapag hindi lang kulang ang kaalaman ng mga tao..."
 
 # game/logic/events/elijah.rpy:393
 translate philippine Elijah_3_label_51_7b2f04a3:
 
     # Elijah "No one would be banning these things."
-    Elijah ""
+    Elijah "Walang magbabawal sa mga bagay na ito."
 
 # game/logic/events/elijah.rpy:394
 translate philippine Elijah_3_label_51_0cbec737:
 
     # ch_Name "You think?"
-    ch_Name ""
+    ch_Name "Sa palagay mo?"
 
 # game/logic/events/elijah.rpy:396
 translate philippine Elijah_3_label_51_275073f7:
 
     # Elijah "Sure. There's a limit to everything."
-    Elijah ""
+    Elijah "Oo. May limitasyon ang lahat."
 
 # game/logic/events/elijah.rpy:397
 translate philippine Elijah_3_label_51_256912c6:
 
     # Elijah "You can die from too much coffee."
-    Elijah ""
+    Elijah "Pwede kang mamatay sa sobrang kape."
 
 # game/logic/events/elijah.rpy:398
 translate philippine Elijah_3_label_51_7e58d340:
 
     # Elijah "And if you start the Hungarian dragon fireworks without reading the instructions..."
-    Elijah ""
+    Elijah "At kapag gagamitin mo ang paputok Hungarian dragon na hindi mo nabasa ang mga giya..."
 
 # game/logic/events/elijah.rpy:399
 translate philippine Elijah_3_label_51_4663d49e:
 
     # Elijah "It's a lot easier to die."
-    Elijah ""
+    Elijah "Madali talaga ang kamatayan."
 
 # game/logic/events/elijah.rpy:401
 translate philippine Elijah_3_label_51_dedc2214:
 
     # ch_Name "Well, we're not talking about fireworks..."
-    ch_Name ""
+    ch_Name "Hindi naman natin pinag-uusapan ang mga paputok..."
 
 # game/logic/events/elijah.rpy:402
 translate philippine Elijah_3_label_51_02cb85ea:
 
     # Elijah "Why not? It's one of my offers."
-    Elijah ""
+    Elijah "Bakit naman? Isa 'yan sa mga alok ko."
 
 # game/logic/events/elijah.rpy:403
 translate philippine Elijah_3_label_51_cc8be344:
 
     # Elijah "I got all kinds of stuff, depending on who it's for and what it's for."
-    Elijah ""
+    Elijah "Andami ng mabibigay ko, depende naman kung para sa ano at sino ang kliente."
 
 # game/logic/events/elijah.rpy:404
 translate philippine Elijah_3_label_51_05c043cf:
 
     # Elijah "That's why I need help."
-    Elijah ""
+    Elijah "Kaya kailangan ko ang tulong mo."
 
 # game/logic/events/elijah.rpy:405
 translate philippine Elijah_3_label_51_1eee9175:
 
     # Elijah "Some orders I can't handle on my own."
-    Elijah ""
+    Elijah "May mga order na hindi ko kayang gawin. "
 
 # game/logic/events/elijah.rpy:406
 translate philippine Elijah_3_label_51_e9902c39:
 
     # Elijah "Especially now that I have the responsibilities of a house advisor."
-    Elijah ""
+    Elijah "Lalo na nga may mga responsibilidad na ako bilang pinuno ng angkan."
 
 # game/logic/events/elijah.rpy:408
 translate philippine Elijah_3_label_51_c665d4a5:
 
     # Elijah "Are you with me?"
-    Elijah ""
+    Elijah "Gusto mo ba?"
 
 # game/logic/events/elijah.rpy:409
 translate philippine Elijah_3_label_51_d2854aae:
 
     # ch_Name "I don't know, um..."
-    ch_Name ""
+    ch_Name "'Di ko alam..."
 
 # game/logic/events/elijah.rpy:410
 translate philippine Elijah_3_label_51_098d213c:
 
     # ch_Name "I need to think about it."
-    ch_Name ""
+    ch_Name "Pag-isipan ko muna."
 
 # game/logic/events/elijah.rpy:411
 translate philippine Elijah_3_label_51_c3c6b9ca:
 
     # Elijah "Okay, I understand."
-    Elijah ""
+    Elijah "Sige, naiintindihan ko."
 
 # game/logic/events/elijah.rpy:413
 translate philippine Elijah_3_label_51_8d4fdf56:
 
     # Elijah "It's not an emergency, usually everyone brings \"stuff\" with them after the summer."
-    Elijah ""
+    Elijah "Hindi naman kailangan ngayon, nagdadala naman ang lahat ng kanilang mga \"gamit\" pagkatapos ng tag-init."
 
 # game/logic/events/elijah.rpy:414
 translate philippine Elijah_3_label_51_56fb2e9e:
 
     # Elijah "They come to me afterwards."
-    Elijah ""
+    Elijah "Hahanapin ko nila pagkatapos."
 
 # game/logic/events/elijah.rpy:415
 translate philippine Elijah_3_label_51_adcd5da4:
 
     # Elijah "Or when they're planning a party."
-    Elijah ""
+    Elijah "O kapag nagpaplano sila ng party."
 
 # game/logic/events/elijah.rpy:416
 translate philippine Elijah_3_label_51_8e4ad36f:
 
     # Elijah "I'm telling you, there are perks to this business."
-    Elijah ""
+    Elijah "Sinasabi ko sa iyo, may mga benepisyo ang gawang ito."
 
 # game/logic/events/elijah.rpy:417
 translate philippine Elijah_3_label_51_5eb24a65:
 
     # ch_Name "Like the risk of being expelled?"
-    ch_Name ""
+    ch_Name "Tulad ng pagtatalsik mula sa paaralan?"
 
 # game/logic/events/elijah.rpy:419
 translate philippine Elijah_3_label_51_5329e901:
 
     # Elijah "Nonsense! Arthur's too kind-hearted."
-    Elijah ""
+    Elijah "'Di naman! Mabait talaga si Arthur."
 
 # game/logic/events/elijah.rpy:420
 translate philippine Elijah_3_label_51_cf208e21:
 
     # Elijah "I got caught with a live dragon egg once!"
-    Elijah ""
+    Elijah "Nahuli ako noon na may buhay na itlog ng dragon!"
 
 # game/logic/events/elijah.rpy:421
 translate philippine Elijah_3_label_51_a7eeffcf:
 
     # Elijah "The boys at Crowhive wanted to breed it and tame it so that..."
-    Elijah ""
+    Elijah "Gusto ng mga tao sa Crowhive na ipalaki nila para..."
 
 # game/logic/events/elijah.rpy:422
 translate philippine Elijah_3_label_51_6f5e08f0:
 
     # Elijah "It doesn't matter. The point is I've never been expelled."
-    Elijah ""
+    Elijah "'Di importante. Ang ibig ko sanihin ay hindi ako pinaalis."
 
 # game/logic/events/elijah.rpy:423
 translate philippine Elijah_3_label_51_cf784b93:
 
     # Elijah "As you can see, it didn't even stop me from becoming prefect."
-    Elijah ""
+    Elijah "At makikita mo rin, pinayagan nga akong maging pinuno."
 
 # game/logic/events/elijah.rpy:425
 translate philippine Elijah_3_label_51_1ab6f062:
 
     # ch_Name "All right, all right.{w} You sound convincing."
-    ch_Name ""
+    ch_Name "Sige, sige.{w} Kapani-paniwala ka."
 
 # game/logic/events/elijah.rpy:426
 translate philippine Elijah_3_label_51_a4cf9890:
 
     # ch_Name "But I still have to think about it."
-    ch_Name ""
+    ch_Name "Pero pag-iisipan ko muna."
 
 # game/logic/events/elijah.rpy:427
 translate philippine Elijah_3_label_51_f3d878c2:
 
     # Elijah "When you decide, you know where to find me."
-    Elijah ""
+    Elijah "Kapag gusto mo, alam mo naman kung nasaaan ako."
 
 # game/logic/events/elijah.rpy:428
 translate philippine Elijah_3_label_51_20cfc1a0:
 
     # Elijah "Just don't talk about it on campus."
-    Elijah ""
+    Elijah "Pero 'di lang nating pag-usapan sa kampus."
 
 # game/logic/events/elijah.rpy:429
 translate philippine Elijah_3_label_51_d038cc55:
 
     # Elijah "I don't want anyone to accidentally overhear us."
-    Elijah ""
+    Elijah "Baka may makarinig sa atin."
 
 # game/logic/events/elijah.rpy:432
 translate philippine Elijah_3_label_51_63dea513:
 
     # Elijah "Okay now, that's settled."
-    Elijah ""
+    Elijah "Sige, natapos na iyan."
 
 # game/logic/events/elijah.rpy:433
 translate philippine Elijah_3_label_51_d5a583fc:
 
     # Elijah "How do you here, bro?"
-    Elijah ""
+    Elijah "Kamusta ka na dito, pre?"
 
 # game/logic/events/elijah.rpy:434
 translate philippine Elijah_3_label_51_48bc8b95:
 
     # Elijah "Have you made any friends here?{w} Well, except me, I mean."
-    Elijah ""
+    Elijah "May mga kaibigan ka na ba dito?{w} Siyempre, maliban sa akin."
 
 # game/logic/events/elijah.rpy:435
 translate philippine Elijah_3_label_51_1c48d4d2:
 
     # ch_Name "Well, actually, yeah."
-    ch_Name ""
+    ch_Name "Meron naman."
 
 # game/logic/events/elijah.rpy:436
 translate philippine Elijah_3_label_51_9edf833d:
 
     # ch_Name "I have a date planned for today with one pretty girl."
-    ch_Name ""
+    ch_Name "May plano kami mamaya ng isang magandang babae."
 
 # game/logic/events/elijah.rpy:438
 translate philippine Elijah_3_label_51_6e967a12:
 
     # Elijah "Well done! I see you don't waste any time!"
-    Elijah ""
+    Elijah "Ang galing mo! 'Di mo pala sinasayang ang oras!"
 
 # game/logic/events/elijah.rpy:439
 translate philippine Elijah_3_label_51_ce6ca428:
 
     # ch_Name "What about you? Any plans?"
-    ch_Name ""
+    ch_Name "Ikaw? May plano ka ba?"
 
 # game/logic/events/elijah.rpy:440
 translate philippine Elijah_3_label_51_573e7dab:
 
     # Elijah "Nothing that can be discussed in public, amigo."
-    Elijah ""
+    Elijah "Wala akong plano na masasabi sa publiko, tol."
 
 # game/logic/events/elijah.rpy:442
 translate philippine Elijah_3_label_51_c29fbb5e:
 
     # Elijah "But don't worry about me. Go, have a blast!"
-    Elijah ""
+    Elijah "'Wag kang mag-alala sa akin. Sige, magsaya ka!"
 
 # game/logic/events/elijah.rpy:443
 translate philippine Elijah_3_label_51_52df31de:
