@@ -1,20 +1,20 @@
-﻿# TODO: Translation updated at 2022-01-25 10:25
+# TODO: Translation updated at 2022-01-25 10:25
 
 # game/screens.rpy:338
 translate chinese not_now_label_44591089:
 
-    # ch_Name "{i}(There's nothing we can talk about right now.){/i}"
-    ch_Name "{i}(我们现在没什么可聊的。){/i}"
+    # "[Name]" "{i}(There's nothing we can talk about right now.){/i}"
+    "[Name]" "{i}(我们现在没什么好谈的。){/i}"
 
 translate chinese strings:
 
     # game/screens.rpy:896
     old "New game"
-    new "开始游戏"
+    new "新游戏"
 
     # game/screens.rpy:914
     old "Xmas Special"
-    new "圣诞特辑"
+    new "圣诞节"
 
     # game/screens.rpy:934
     old "History"
@@ -22,7 +22,7 @@ translate chinese strings:
 
     # game/screens.rpy:951
     old "Save"
-    new "存档"
+    new "保存"
 
     # game/screens.rpy:969
     old "Settings"
@@ -30,19 +30,19 @@ translate chinese strings:
 
     # game/screens.rpy:986
     old "Load"
-    new "读档"
+    new "负载"
 
     # game/screens.rpy:1006
     old "Main Menu"
-    new "主页"
+    new "主菜单"
 
     # game/screens.rpy:1024
     old "Credits"
-    new "鸣谢"
+    new "学分"
 
     # game/screens.rpy:1042
     old "Gallery"
-    new "收藏"
+    new "画廊"
 
     # game/screens.rpy:1063
     old "Help"
@@ -50,11 +50,11 @@ translate chinese strings:
 
     # game/screens.rpy:1087
     old "Quit"
-    new "退出"
+    new "辞职"
 
     # game/screens.rpy:1150
     old "Details"
-    new "详情"
+    new "细节"
 
     # game/screens.rpy:1150
     old "Not now"
@@ -62,7 +62,7 @@ translate chinese strings:
 
     # game/screens.rpy:2007
     old "Page {}"
-    new ""
+    new "页面 {}"
 
     # game/screens.rpy:2007
     old "Automatic saves"
@@ -74,39 +74,39 @@ translate chinese strings:
 
     # game/screens.rpy:2096
     old "{#file_time}%A, %B %d %Y, %H:%M"
-    new ""
+    new "{#file_time}%A, %B %d %Y, %H:%M"
 
     # game/screens.rpy:2096
     old "empty slot"
-    new "空档"
+    new "空槽"
 
     # game/screens.rpy:2118
     old "Yes"
-    new "是"
+    new "是的"
 
     # game/screens.rpy:2118
     old "No"
-    new "不是"
+    new "没有"
 
     # game/screens.rpy:2178
     old "{#auto_page}A"
-    new ""
+    new "{#auto_page}A"
 
     # game/screens.rpy:2181
     old "{#quick_page}Q"
-    new ""
+    new "{#quick_page}Q"
 
     # game/screens.rpy:2572
     old "MUTE ALL"
-    new "全部静音"
+    new "沉默的一切"
 
     # game/screens.rpy:2770
     old "The dialogue history is empty."
-    new "该对话历史为零"
+    new "对话的历史是空的。"
 
     # game/screens.rpy:2855
     old "Rolls forward to later dialogue."
-    new "向前滚动鼠标查看后面的对话"
+    new "转到后面的对话。"
 
     # game/screens.rpy:2855
     old "Opens the inventory menu."
@@ -114,147 +114,147 @@ translate chinese strings:
 
     # game/screens.rpy:2855
     old "Opens the phone menu."
-    new "打开手机菜单"
+    new "打开电话菜单。"
 
     # game/screens.rpy:2855
     old "Opens the list of available routes."
-    new "查看所有可能的分支"
+    new "打开可用路由列表。"
 
     # game/screens.rpy:2880
     old "Takes a screenshot."
-    new "截图"
+    new "截图。"
 
     # game/screens.rpy:2880
     old "Opens the map."
-    new "查看地图"
+    new "打开地图。"
 
     # game/screens.rpy:2880
     old "Advances dialogue without selecting choices."
-    new "在不做选择的情况下推进对话"
+    new "在没有选择的情况下推进对话。"
 
     # game/screens.rpy:2880
     old "Skips dialogue while held down."
-    new "按住下键来跳过对话"
+    new "按住时跳过对话。"
 
     # game/screens.rpy:2880
     old "Toggles dialogue skipping."
-    new "开启跳过对话"
+    new "切换对话跳过。"
 
     # game/screens.rpy:2880
     old "Rolls back to earlier dialogue."
-    new "向后滚动鼠标查看早前对话"
+    new "回滚到前面的对话。"
 
     # game/screens.rpy:2880
     old "Highlights all active objects."
-    new "选取所有活跃物体"
+    new "高亮显示所有活动对象。"
 
     # game/screens.rpy:2880
     old "Enables fullscreen mode."
-    new "全屏模式开启"
+    new "支持全屏模式。"
 
     # game/screens.rpy:2880
     old "Navigate the interface."
-    new "界面导航"
+    new "浏览界面。"
 
     # game/screens.rpy:2923
     old "Enter"
-    new ""
+    new "输入"
 
     # game/screens.rpy:2924
     old "Advances dialogue and activates the interface."
-    new "推进对话及开启界面"
+    new "推进对话和激活界面。"
 
     # game/screens.rpy:2927
     old "Space"
-    new "空格键"
+    new "空间"
 
     # game/screens.rpy:2931
     old "Arrow Keys"
-    new "方向键"
+    new "箭头键"
 
     # game/screens.rpy:2935
     old "Escape"
-    new "ESC"
+    new "逃避"
 
     # game/screens.rpy:2936
     old "Accesses the game menu."
-    new "打开菜单"
+    new "进入游戏菜单。"
 
     # game/screens.rpy:2939
     old "Ctrl"
-    new ""
+    new "控制"
 
     # game/screens.rpy:2943
     old "Tab"
-    new ""
+    new "选项卡"
 
     # game/screens.rpy:2947
     old "Page Up"
-    new ""
+    new "选项卡"
 
     # game/screens.rpy:2951
     old "Page Down"
-    new ""
+    new "下一页"
 
     # game/screens.rpy:2956
     old "I"
-    new ""
+    new "I"
 
     # game/screens.rpy:2959
     old "P"
-    new ""
+    new "P"
 
     # game/screens.rpy:2963
     old "Q"
-    new ""
+    new "Q"
 
     # game/screens.rpy:2966
     old "M"
-    new ""
+    new "M"
 
     # game/screens.rpy:2969
     old "L"
-    new ""
+    new "L"
 
     # game/screens.rpy:2972
     old "F"
-    new ""
+    new "F"
 
     # game/screens.rpy:2975
     old "H"
-    new ""
+    new "H"
 
     # game/screens.rpy:2976
     old "Hides the user interface."
-    new "隐藏界面"
+    new "隐藏用户界面。"
 
     # game/screens.rpy:2978
     old "S"
-    new ""
+    new "S"
 
     # game/screens.rpy:3016
     old "Right Trigger\nA/Bottom Button"
-    new ""
+    new "正确的触发\nA/底部按钮"
 
     # game/screens.rpy:3020
     old "Left Trigger\nLeft Shoulder"
-    new ""
+    new "离开触发\n左肩膀"
 
     # game/screens.rpy:3024
     old "Right Shoulder"
-    new ""
+    new "右肩"
 
     # game/screens.rpy:3029
     old "D-Pad, Sticks"
-    new ""
+    new "方向键，棒"
 
     # game/screens.rpy:3033
     old "Start, Guide"
-    new ""
+    new "首先，导"
 
     # game/screens.rpy:3037
     old "Y/Top Button"
-    new ""
+    new "Y/顶部按钮"
 
     # game/screens.rpy:3040
     old "Calibrate"
@@ -262,11 +262,11 @@ translate chinese strings:
 
     # game/screens.rpy:3273
     old "Skipping"
-    new "跳过中"
+    new "跳过"
 
     # game/screens.rpy:3497
     old "Back"
-    new "返回"
+    new "回来"
 
     # game/screens.rpy:3498
     old "Skip"
