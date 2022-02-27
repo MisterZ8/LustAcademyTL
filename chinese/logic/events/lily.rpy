@@ -358,7 +358,7 @@ translate chinese Lily_1_label_757066fb:
 translate chinese Lily_1_label_b9e0f025:
 
     # Lily "Aah! You're insufferable."
-    Lily "啊啊！你真烦。"
+    Lily "啊啊！烦死了。"
 
 # game/logic/events/lily.rpy:316
 translate chinese Lily_1_label_7eee2a05:
@@ -496,7 +496,7 @@ translate chinese Lily_2_label_daedbf62:
 translate chinese Lily_2_label_93bd463c:
 
     # ch_Name "Or are you here for something else?"
-    ch_Name "难道你另有其图？"
+    ch_Name "难道你另有企图？"
 
 # game/logic/events/lily.rpy:358
 translate chinese Lily_2_label_5f3ed3db:
@@ -508,7 +508,7 @@ translate chinese Lily_2_label_5f3ed3db:
 translate chinese Lily_2_label_78b6bf57:
 
     # Lily "But knowledge never hurts."
-    Lily "但是增广见闻也不错啊"
+    Lily "但是增广见闻也不错啊。"
 
 # game/logic/events/lily.rpy:360
 translate chinese Lily_2_label_cfb1dbd3:
@@ -586,7 +586,7 @@ translate chinese Lily_2_label_4bdfc647:
 translate chinese Lily_2_label_a00eea49:
 
     # Lily "Did you know that the {b}local magical creatures steal textbooks{/b}?"
-     Lily "不晓得你知不知道，{b}这里的魔物会偷课本的？{/b}"
+    Lily "不晓得你知不知道，{b}这里的魔物会偷课本的？{/b}"
 
 # game/logic/events/lily.rpy:377
 translate chinese Lily_2_label_c6aa2781:
@@ -2818,1201 +2818,1201 @@ translate chinese lily_events_5_label_1_f7f92d8d:
 translate chinese lily_events_5_label_1_9ea9884c:
 
     # ch_Name "{i}(But the hardest thing is to take my eyes off those breasts.){/i}"
-    ch_Name ""
+    ch_Name "{i}（最吸引我的那双美妙的胸。）{/i}"
 
 # game/logic/events/lily.rpy:1044
 translate chinese lily_events_5_label_1_6faf865d:
 
     # ch_Name "{i}(I bet it feels incredibly nice to touch them...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我敢肯定摸下去一定非常的爽。。。）{/i}"
 
 # game/logic/events/lily.rpy:1045
 translate chinese lily_events_5_label_1_7c7a5aaf:
 
     # ch_Name "{i}(Let's not rush things up. Let me take a look at another angle.){/i}"
-    ch_Name ""
+    ch_Name "{i}（但我们别急，让我从另一个角度来看看。）{/i}"
 
 # game/logic/events/lily.rpy:1047
 translate chinese lily_events_5_label_1_9841f06d:
 
     # ch_Name "{i}(This lingerie enhances your beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}（这内衣显现出你的美。。。）{/i}"
 
 # game/logic/events/lily.rpy:1049
 translate chinese lily_events_5_label_1_a0e60060:
 
     # ch_Name "{i}(Especially between your legs...){/i}"
-    ch_Name ""
+    ch_Name "{i}（尤其是你双腿之间的。。。）{/i}"
 
 # game/logic/events/lily.rpy:1050
 translate chinese lily_events_5_label_1_85b2cc0f:
 
     # ch_Name "{i}(I bet you'll like my caresses.){/i}"
-    ch_Name ""
+    ch_Name "{i}（你一定会喜欢我的抚摸。）{/i}"
 
 # game/logic/events/lily.rpy:1051
 translate chinese lily_events_5_label_1_041a53cf:
 
     # ch_Name "{i}(I just know where to touch...){/i}"
-    ch_Name ""
+    ch_Name "{i}（因为我非常了解要摸哪里。。。）{/i}"
 
 # game/logic/events/lily.rpy:1053
 translate chinese lily_events_5_label_1_37c7c5e2:
 
     # Lily "Mhm... mmm..."
-    Lily ""
+    Lily "嗯。。。呃。。。"
 
 # game/logic/events/lily.rpy:1054
 translate chinese lily_events_5_label_1_d854112a:
 
     # ch_Name "{i}(Damn, I think she's gonna wake up any minute.){/i}"
-    ch_Name ""
+    ch_Name "{i}（干！看来她可能会醒了。）{/i}"
 
 # game/logic/events/lily.rpy:1055
 translate chinese lily_events_5_label_1_03d6a422:
 
     # ch_Name "{i}(Better get out of here.){/i}"
-    ch_Name ""
+    ch_Name "{i}（快溜。）{/i}"
 
 # game/logic/events/lily.rpy:1062
 translate chinese lily_events_5_label_2_efb4bd7b:
 
     # ch_Name "{i}(Hey there, sleeping beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}（你好，睡美人。）{/i}"
 
 # game/logic/events/lily.rpy:1063
 translate chinese lily_events_5_label_2_311350b4:
 
     # ch_Name "{i}(I hope you're seeing a peaceful dream.){/i}"
-    ch_Name ""
+    ch_Name "{i}（愿你今晚的梦会香哦。）{/i}"
 
 # game/logic/events/lily.rpy:1065
 translate chinese lily_events_5_label_2_6601b3c6:
 
     # ch_Name "{i}(Don't mind me, I'm here just to admire your beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我只是来这里欣赏你的美色。）{/i}"
 
 # game/logic/events/lily.rpy:1066
 translate chinese lily_events_5_label_2_5712fd19:
 
     # ch_Name "{i}(If only this blanket was not covering all the best parts.){/i}"
-    ch_Name ""
+    ch_Name "{i}（让我把这被拿掉，它盖掉了最好的部分。）{/i}"
 
 # game/logic/events/lily.rpy:1068
 translate chinese lily_events_5_label_2_54402612:
 
     # ch_Name "{i}(Let's take a closer look at you.){/i}"
-    ch_Name ""
+    ch_Name "{i}（让我更近地看看你。）{/i}"
 
 # game/logic/events/lily.rpy:1069
 translate chinese lily_events_5_label_2_d6ec0c90:
 
     # ch_Name "{i}(I'm sure you won't mind.){/i}"
-    ch_Name ""
+    ch_Name "{i}（你也该不会介意。）{/i}"
 
 # game/logic/events/lily.rpy:1071
 translate chinese lily_events_5_label_2_d7463199:
 
     # ch_Name "{i}(Oh, my...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我的天。。。）{/i}"
 
 # game/logic/events/lily.rpy:1072
 translate chinese lily_events_5_label_2_45ed5ace:
 
     # ch_Name "{i}(What a cute little lingerie you've got.){/i}"
-    ch_Name ""
+    ch_Name "{i}（这内衣好可爱哦。）{/i}"
 
 # game/logic/events/lily.rpy:1073
 translate chinese lily_events_5_label_2_a8e56b21:
 
     # ch_Name "{i}(I bet it looks even better down there...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我敢肯定下面会更刺激。。。）{/i}"
 
 # game/logic/events/lily.rpy:1075
 translate chinese lily_events_5_label_2_7b88459a:
 
     # ch_Name "{i}(Why do you even need blanket, anyway?){/i}"
-    ch_Name ""
+    ch_Name "{i}（都不明白你为何会需要棉被？）{/i}"
 
 # game/logic/events/lily.rpy:1076
 translate chinese lily_events_5_label_2_915a2952:
 
     # ch_Name "{i}(Let me get rid of that...){/i}"
-    ch_Name ""
+    ch_Name "{i}（让我帮你把它拿掉。。。）{/i}"
 
 # game/logic/events/lily.rpy:1078
 translate chinese lily_events_5_label_2_fb23f50c:
 
     # ch_Name "{i}(Here we go.){/i}"
-    ch_Name ""
+    ch_Name "{i}（拿掉了。）{/i}"
 
 # game/logic/events/lily.rpy:1079
 translate chinese lily_events_5_label_2_71d5e351:
 
     # ch_Name "{i}(Let me just enjoy this magnificent view.){/i}"
-    ch_Name ""
+    ch_Name "{i}（让我来欣赏这美景。）{/i}"
 
 # game/logic/events/lily.rpy:1080
 translate chinese lily_events_5_label_2_d510f3e0:
 
     # ch_Name "{i}(I don't know where to start...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我也不知道要从哪里开始。。。）{/i}"
 
 # game/logic/events/lily.rpy:1082
 translate chinese lily_events_5_label_2_727aae98:
 
     # ch_Name "{i}(Your whole body is so damn hot...){/i}"
-    ch_Name ""
+    ch_Name "{i}（你的身材非常的火辣。）{/i}"
 
 # game/logic/events/lily.rpy:1084
 translate chinese lily_events_5_label_2_6c1902a5:
 
     # ch_Name "{i}(It's so hard to take your eyes off those breasts.){/i}"
-    ch_Name ""
+    ch_Name "{i}（你这双胸太吸引我了。）{/i}"
 
 # game/logic/events/lily.rpy:1085
 translate chinese lily_events_5_label_2_ccf9b8cc:
 
     # ch_Name "{i}(I bet it feels incredibly nice to the touch them...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我敢肯定摸下去一定非常的爽。。。）{/i}"
 
 # game/logic/events/lily.rpy:1086
 translate chinese lily_events_5_label_2_1d03d451:
 
     # ch_Name "{i}(Maybe this time I can actually try it...){/i}"
-    ch_Name ""
+    ch_Name "{i}（这次我可能可以摸下去。。。）{/i}"
 
 # game/logic/events/lily.rpy:1088
 translate chinese lily_events_5_label_2_26983f8c:
 
     # ch_Name "{i}(I'll try not to disturb your sleep, Lily.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我尽量不会打扰你的美梦，Lily。）{/i}"
 
 # game/logic/events/lily.rpy:1089
 translate chinese lily_events_5_label_2_499c2fb1:
 
     # ch_Name "{i}(Just relax and watch the naughty dreams...){/i}"
-    ch_Name ""
+    ch_Name "{i}（你尽管放松发你的春梦吧。。。）{/i}"
 
 # game/logic/events/lily.rpy:1091
 translate chinese lily_events_5_label_2_bbb5c7d2:
 
     # ch_Name "{i}(Oh, yeah... That feels good.){/i}"
-    ch_Name ""
+    ch_Name "{i}（哦，啊。。。这好爽。）{/i}"
 
 # game/logic/events/lily.rpy:1092
 translate chinese lily_events_5_label_2_6fdef796:
 
     # ch_Name "{i}(I can feel your heart beating, Lily.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我可感受到你的心跳，Lily。）{/i}"
 
 # game/logic/events/lily.rpy:1093
 translate chinese lily_events_5_label_2_0e795e4c:
 
     # ch_Name "{i}(I can feel every breath you take.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我可以感受到你的每一呼，每一吸。）{/i}"
 
 # game/logic/events/lily.rpy:1094
 translate chinese lily_events_5_label_2_f95a8045:
 
     # ch_Name "{i}(This really brings us clother, my dear.){/i}"
-    ch_Name ""
+    ch_Name "{i}（这让我觉得非常亲密。）{/i}"
 
 # game/logic/events/lily.rpy:1095
 translate chinese lily_events_5_label_2_c8e3a53f:
 
     # ch_Name "{i}(Let's take a look at other honey spots...){/i}"
-    ch_Name ""
+    ch_Name "{i}（让我看看其他的部位。。。）{/i}"
 
 # game/logic/events/lily.rpy:1097
 translate chinese lily_events_5_label_2_18f06b32:
 
     # ch_Name "{i}(This underwear emphasizes your beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}（这内衣显现出你的美。。。）{/i}"
 
 # game/logic/events/lily.rpy:1099
 translate chinese lily_events_5_label_2_a0e60060:
 
     # ch_Name "{i}(Especially between your legs...){/i}"
-    ch_Name ""
+    ch_Name "{i}（尤其是你双腿之间的。。。）{/i}"
 
 # game/logic/events/lily.rpy:1100
 translate chinese lily_events_5_label_2_8586713a:
 
     # ch_Name "{i}(I bet you like my caresses.){/i}"
-    ch_Name ""
+    ch_Name "{i}（你一定会喜欢我的抚摸。）{/i}"
 
 # game/logic/events/lily.rpy:1101
 translate chinese lily_events_5_label_2_041a53cf:
 
     # ch_Name "{i}(I just know where to touch...){/i}"
-    ch_Name ""
+    ch_Name "{i}（因为我非常了解要摸哪里。。。）{/i}"
 
 # game/logic/events/lily.rpy:1103
 translate chinese lily_events_5_label_2_2a1d499b:
 
     # ch_Name "{i}(I will be gentle with you, dear Lily.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我会温柔地对待你的，亲爱的Lily。）{/i}"
 
 # game/logic/events/lily.rpy:1105
 translate chinese lily_events_5_label_2_ed4ec38c:
 
     # ch_Name "{i}(I feel the heat of your loins.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我感受到你下体的体热。）{/i}"
 
 # game/logic/events/lily.rpy:1106
 translate chinese lily_events_5_label_2_b613a332:
 
     # ch_Name "{i}(You obviously don't mind feeling someone's tender hands...){/i}"
-    ch_Name ""
+    ch_Name "{i}（你应该不会介意有人触摸这里的。。。）{/i}"
 
 # game/logic/events/lily.rpy:1107
 translate chinese lily_events_5_label_2_26c294ac:
 
     # ch_Name "{i}(Maybe next time...){/i}"
-    ch_Name ""
+    ch_Name "{i}（可能下次吧。。。）{/i}"
 
 # game/logic/events/lily.rpy:1109
 translate chinese lily_events_5_label_2_545f5f80:
 
     # ch_Name "{i}(The blanket is moved and I have a beautiful view of your legs...){/i}"
-    ch_Name ""
+    ch_Name "{i}（把棉被拿掉后，看到你美妙的双腿。。。）{/i}"
 
 # game/logic/events/lily.rpy:1110
 translate chinese lily_events_5_label_2_a7b5e235:
 
     # ch_Name "{i}(They drive me crazy...){/i}"
-    ch_Name ""
+    ch_Name "{i}（它们简直令我发疯。。。）{/i}"
 
 # game/logic/events/lily.rpy:1112
 translate chinese lily_events_5_label_2_0ac6f219:
 
     # ch_Name "{i}(And your toes... I wish I could...){/i}"
-    ch_Name ""
+    ch_Name "{i}（而你的脚趾。。。我希望我可以。。。）{/i}"
 
 # game/logic/events/lily.rpy:1114
 translate chinese lily_events_5_label_2_37c7c5e2:
 
     # Lily "Mhm... mmm..."
-    Lily ""
+    Lily "嗯。。。呃。。。"
 
 # game/logic/events/lily.rpy:1115
 translate chinese lily_events_5_label_2_d854112a:
 
     # ch_Name "{i}(Damn, I think she's gonna wake up any minute.){/i}"
-    ch_Name ""
+    ch_Name "{i}（干！看来她可能会醒了。）{/i}"
 
 # game/logic/events/lily.rpy:1116
 translate chinese lily_events_5_label_2_03d6a422:
 
     # ch_Name "{i}(Better get out of here.){/i}"
-    ch_Name ""
+    ch_Name "{i}（快溜。）{/i}"
 
 # game/logic/events/lily.rpy:1125
 translate chinese lily_events_5_label_3_efb4bd7b:
 
     # ch_Name "{i}(Hey there, sleeping beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}（你好，睡美人。）{/i}"
 
 # game/logic/events/lily.rpy:1126
 translate chinese lily_events_5_label_3_311350b4:
 
     # ch_Name "{i}(I hope you're seeing a peaceful dream.){/i}"
-    ch_Name ""
+    ch_Name "{i}（愿你今晚的梦会香哦。）{/i}"
 
 # game/logic/events/lily.rpy:1128
 translate chinese lily_events_5_label_3_6601b3c6:
 
     # ch_Name "{i}(Don't mind me, I'm here just to admire your beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我只是来这里欣赏你的美色。）{/i}"
 
 # game/logic/events/lily.rpy:1129
 translate chinese lily_events_5_label_3_5712fd19:
 
     # ch_Name "{i}(If only this blanket was not covering all the best parts.){/i}"
-    ch_Name ""
+    ch_Name "{i}（让我把这被拿掉，它盖掉了最好的部分。）{/i}"
 
 # game/logic/events/lily.rpy:1131
 translate chinese lily_events_5_label_3_54402612:
 
     # ch_Name "{i}(Let's take a closer look at you.){/i}"
-    ch_Name ""
+    ch_Name "{i}（让我更近地看看你。）{/i}"
 
 # game/logic/events/lily.rpy:1132
 translate chinese lily_events_5_label_3_d6ec0c90:
 
     # ch_Name "{i}(I'm sure you won't mind.){/i}"
-    ch_Name ""
+    ch_Name "{i}（你也该不会介意。）{/i}"
 
 # game/logic/events/lily.rpy:1134
 translate chinese lily_events_5_label_3_d7463199:
 
     # ch_Name "{i}(Oh, my...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我的天。。。）{/i}"
 
 # game/logic/events/lily.rpy:1135
 translate chinese lily_events_5_label_3_45ed5ace:
 
     # ch_Name "{i}(What a cute little lingerie you've got.){/i}"
-    ch_Name ""
+    ch_Name "{i}（这内衣好可爱哦。）{/i}"
 
 # game/logic/events/lily.rpy:1136
 translate chinese lily_events_5_label_3_a8e56b21:
 
     # ch_Name "{i}(I bet it looks even better down there...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我敢肯定下面会更刺激。。。）{/i}"
 
 # game/logic/events/lily.rpy:1137
 translate chinese lily_events_5_label_3_915a2952:
 
     # ch_Name "{i}(Let me get rid of that...){/i}"
-    ch_Name ""
+    ch_Name "{i}（让我帮你把它拿掉。。。）{/i}"
 
 # game/logic/events/lily.rpy:1139
 translate chinese lily_events_5_label_3_fb23f50c:
 
     # ch_Name "{i}(Here we go.){/i}"
-    ch_Name ""
+    ch_Name "{i}（拿掉了。）{/i}"
 
 # game/logic/events/lily.rpy:1140
 translate chinese lily_events_5_label_3_71d5e351:
 
     # ch_Name "{i}(Let me just enjoy this magnificent view.){/i}"
-    ch_Name ""
+    ch_Name "{i}（让我来欣赏这美景。）{/i}"
 
 # game/logic/events/lily.rpy:1141
 translate chinese lily_events_5_label_3_d510f3e0:
 
     # ch_Name "{i}(I don't know where to start...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我也不知道要从哪里开始。。。）{/i}"
 
 # game/logic/events/lily.rpy:1143
 translate chinese lily_events_5_label_3_727aae98:
 
     # ch_Name "{i}(Your whole body is so damn hot...){/i}"
-    ch_Name ""
+    ch_Name "{i}（你的身材非常的火辣。）{/i}"
 
 # game/logic/events/lily.rpy:1145
 translate chinese lily_events_5_label_3_9a747f21:
 
     # ch_Name "{i}(But I always tend to start with your breasts.){/i}"
-    ch_Name ""
+    ch_Name "{i}（但我每次都会从你的胸部开始着手。）{/i}"
 
 # game/logic/events/lily.rpy:1146
 translate chinese lily_events_5_label_3_31f5db86:
 
     # ch_Name "{i}(I know for sure it feels incredibly nice to the touch them...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我知道摸下去一定非常的爽。。。）{/i}"
 
 # game/logic/events/lily.rpy:1147
 translate chinese lily_events_5_label_3_26983f8c:
 
     # ch_Name "{i}(I'll try not to disturb your sleep, Lily.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我尽量不会打扰你的美梦，Lily。）{/i}"
 
 # game/logic/events/lily.rpy:1148
 translate chinese lily_events_5_label_3_499c2fb1:
 
     # ch_Name "{i}(Just relax and watch the naughty dreams...){/i}"
-    ch_Name ""
+    ch_Name "{i}（你尽管放松发你的春梦吧。。。）{/i}"
 
 # game/logic/events/lily.rpy:1150
 translate chinese lily_events_5_label_3_bbb5c7d2:
 
     # ch_Name "{i}(Oh, yeah... That feels good.){/i}"
-    ch_Name ""
+    ch_Name "{i}（哦，啊。。。这好爽。）{/i}"
 
 # game/logic/events/lily.rpy:1151
 translate chinese lily_events_5_label_3_6fdef796:
 
     # ch_Name "{i}(I can feel your heart beating, Lily.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我可感受到你的心跳，Lily。）{/i}"
 
 # game/logic/events/lily.rpy:1152
 translate chinese lily_events_5_label_3_0e795e4c:
 
     # ch_Name "{i}(I can feel every breath you take.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我可以感受到你的每一呼，每一吸。）{/i}"
 
 # game/logic/events/lily.rpy:1153
 translate chinese lily_events_5_label_3_c428a5f5:
 
     # ch_Name "{i}(I need to squeeze it and feel it in my hand...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我想要亲手摸下去，挤一挤它们。。。）{/i}"
 
 # game/logic/events/lily.rpy:1154
 translate chinese lily_events_5_label_3_09a917f4:
 
     # ch_Name "{i}(Maybe if I do it gently, she won't notice...){/i}"
-    ch_Name ""
+    ch_Name "{i}（如果我温柔地搓它们，她可能不会发现。。。）{/i}"
 
 # game/logic/events/lily.rpy:1156
 translate chinese lily_events_5_label_3_de46fa71:
 
     # ch_Name "{i}(Gently...){/i}"
-    ch_Name ""
+    ch_Name "{i}（温柔地。。。）{/i}"
 
 # game/logic/events/lily.rpy:1158
 translate chinese lily_events_5_label_3_1b854e6e:
 
     # ch_Name "{i}(Oh, yes...){/i}"
-    ch_Name ""
+    ch_Name "{i}（啊，是的。。。）{/i}"
 
 # game/logic/events/lily.rpy:1159
 translate chinese lily_events_5_label_3_fd9d750a:
 
     # ch_Name "{i}(Her breasts feel like they were meant to be in my hand.){/i}"
-    ch_Name ""
+    ch_Name "{i}（她双胸感觉就是为我的手而形的。）{/i}"
 
 # game/logic/events/lily.rpy:1160
 translate chinese lily_events_5_label_3_4a37019b:
 
     # ch_Name "{i}(Imagine what they feel like without a bra...){/i}"
-    ch_Name ""
+    ch_Name "{i}（如果拿掉这烦人的胸罩的话。。。）{/i}"
 
 # game/logic/events/lily.rpy:1161
 translate chinese lily_events_5_label_3_0f0655eb:
 
     # ch_Name "{i}(I have to find out how to take it off...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我得另外想办法如何把它拿掉。。。）{/i}"
 
 # game/logic/events/lily.rpy:1162
 translate chinese lily_events_5_label_3_568768a7:
 
     # ch_Name "{i}(Meanwhile, I can take a look at your temple.){/i}"
-    ch_Name ""
+    ch_Name "{i}（等着当儿，不如看看她下面的神殿。）{/i}"
 
 # game/logic/events/lily.rpy:1164
 translate chinese lily_events_5_label_3_18f06b32:
 
     # ch_Name "{i}(This underwear emphasizes your beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}（这内衣显现出你的美。。。）{/i}"
 
 # game/logic/events/lily.rpy:1166
 translate chinese lily_events_5_label_3_a0e60060:
 
     # ch_Name "{i}(Especially between your legs...){/i}"
-    ch_Name ""
+    ch_Name "{i}（尤其是你双腿之间的。。。）{/i}"
 
 # game/logic/events/lily.rpy:1167
 translate chinese lily_events_5_label_3_6ea21969:
 
     # ch_Name "{i}(I know you like my caresses.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我知道你喜欢我的抚摸。）{/i}"
 
 # game/logic/events/lily.rpy:1168
 translate chinese lily_events_5_label_3_041a53cf:
 
     # ch_Name "{i}(I just know where to touch...){/i}"
-    ch_Name ""
+    ch_Name "{i}（因为我非常了解要摸哪里。。。）{/i}"
 
 # game/logic/events/lily.rpy:1170
 translate chinese lily_events_5_label_3_2a1d499b:
 
     # ch_Name "{i}(I will be gentle with you, dear Lily.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我会温柔地对待你的，亲爱的Lily。）{/i}"
 
 # game/logic/events/lily.rpy:1172
 translate chinese lily_events_5_label_3_ed4ec38c:
 
     # ch_Name "{i}(I feel the heat of your loins.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我感受到你下体的体热。）{/i}"
 
 # game/logic/events/lily.rpy:1173
 translate chinese lily_events_5_label_3_b613a332:
 
     # ch_Name "{i}(You obviously don't mind feeling someone's tender hands...){/i}"
-    ch_Name ""
+    ch_Name "{i}（你应该不会介意有人触摸这里的。。。）{/i}"
 
 # game/logic/events/lily.rpy:1174
 translate chinese lily_events_5_label_3_7870d3b2:
 
     # ch_Name "{i}(But if you want to continue, I need to spread your legs.){/i}"
-    ch_Name ""
+    ch_Name "{i}（但如果你要继续下去的话，我得将你的双腿张开。）{/i}"
 
 # game/logic/events/lily.rpy:1176
 translate chinese lily_events_5_label_3_2ee42446:
 
     # ch_Name "{i}(Gently moving your beautiful leg...){/i}"
-    ch_Name ""
+    ch_Name "{i}（温柔地移开你的美腿。。。）{/i}"
 
 # game/logic/events/lily.rpy:1177
 translate chinese lily_events_5_label_3_259d469d:
 
     # ch_Name "{i}(And look at what a beautiful view opens up to us.){/i}"
-    ch_Name ""
+    ch_Name "{i}（看看我们眼前的美景。）{/i}"
 
 # game/logic/events/lily.rpy:1178
 translate chinese lily_events_5_label_3_955bd88d:
 
     # ch_Name "{i}(Just move your panties...){/i}"
-    ch_Name ""
+    ch_Name "{i}（小心翼翼地移开你的内裤。。。）{/i}"
 
 # game/logic/events/lily.rpy:1180
 translate chinese lily_events_5_label_3_8901a418:
 
     # ch_Name "{i}(I could admire your blossom forever, Lily.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我可以一直欣赏你的下体，Lily。）{/i}"
 
 # game/logic/events/lily.rpy:1181
 translate chinese lily_events_5_label_3_7eb774e9:
 
     # ch_Name "{i}(You're so tense... Did you feel my touch?){/i}"
-    ch_Name ""
+    ch_Name "{i}（看来你有些绷紧，是因为感受到我的触摸吗？）{/i}"
 
 # game/logic/events/lily.rpy:1182
 translate chinese lily_events_5_label_3_18dabf16:
 
     # ch_Name "{i}(Shall we continue?){/i}"
-    ch_Name ""
+    ch_Name "{i}（我们应该继续吗？）{/i}"
 
 # game/logic/events/lily.rpy:1184
 translate chinese lily_events_5_label_3_6ee833df:
 
     # ch_Name "{i}(The blanket is pulled and I have a beautiful view of your legs...){/i}"
-    ch_Name ""
+    ch_Name "{i}（把棉被拿掉后，看到你美妙的双腿。。。）{/i}"
 
 # game/logic/events/lily.rpy:1185
 translate chinese lily_events_5_label_3_a7b5e235:
 
     # ch_Name "{i}(They drive me crazy...){/i}"
-    ch_Name ""
+    ch_Name "{i}（它们简直令我发疯。。。）{/i}"
 
 # game/logic/events/lily.rpy:1187
 translate chinese lily_events_5_label_3_0ac6f219:
 
     # ch_Name "{i}(And your toes... I wish I could...){/i}"
-    ch_Name ""
+    ch_Name "{i}（而你的脚趾。。。我希望我可以。。。）{/i}"
 
 # game/logic/events/lily.rpy:1195
 translate chinese lily_events_5_label_3_9aca7197:
 
     # ch_Name "{i}(I can't help it...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我也那我自己没办法。。。）{/i}"
 
 # game/logic/events/lily.rpy:1197
 translate chinese lily_events_5_label_3_4bbad52a:
 
     # ch_Name "{i}(Your skin is so soft...){/i}"
-    ch_Name ""
+    ch_Name "{i}（你的肌肤好柔滑。。。）{/i}"
 
 # game/logic/events/lily.rpy:1199
 translate chinese lily_events_5_label_3_22baf82d:
 
     # ch_Name "{i}(I want to caress every part of your body.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我要抚摸你身体的每一部分。）{/i}"
 
 # game/logic/events/lily.rpy:1201
 translate chinese lily_events_5_label_3_9c1d018a:
 
     # ch_Name "{i}(And especially those fingers...){/i}"
-    ch_Name ""
+    ch_Name "{i}（尤其是你的手指）{/i}"
 
 # game/logic/events/lily.rpy:1203
 translate chinese lily_events_5_label_3_e7d14d5c:
 
     # ch_Name "{i}(Your scent gives me an animal passion.){/i}"
-    ch_Name ""
+    ch_Name "{i}（你的体香激起我的兽性。）{/i}"
 
 # game/logic/events/lily.rpy:1205
 translate chinese lily_events_5_label_3_c20f2aa1:
 
     # Lily "He-he... mmm..."
-    Lily ""
+    Lily "嘻嘻。。。嗯。。。"
 
 # game/logic/events/lily.rpy:1207
 translate chinese lily_events_5_label_3_06fb5783:
 
     # ch_Name "{i}(Does that tickles, Lily?){/i}"
-    ch_Name ""
+    ch_Name "{i}（痒吗，Lily？）{/i}"
 
 # game/logic/events/lily.rpy:1209
 translate chinese lily_events_5_label_3_8f854a62:
 
     # ch_Name "{i}(I'm sorry.){/i}"
-    ch_Name ""
+    ch_Name "{i}（对不起。）{/i}"
 
 # game/logic/events/lily.rpy:1211
 translate chinese lily_events_5_label_3_40634567:
 
     # ch_Name "{i}(Got too playful with my tongue...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我的舌头太顽皮了。。。）{/i}"
 
 # game/logic/events/lily.rpy:1214
 translate chinese lily_events_5_label_3_162_37c7c5e2:
 
     # Lily "Mhm... mmm..."
-    Lily ""
+    Lily "嗯。。。呃。。。"
 
 # game/logic/events/lily.rpy:1215
 translate chinese lily_events_5_label_3_162_d854112a:
 
     # ch_Name "{i}(Damn, I think she's gonna wake up any minute.){/i}"
-    ch_Name ""
+    ch_Name "{i}（干！看来她可能会醒了。）{/i}"
 
 # game/logic/events/lily.rpy:1216
 translate chinese lily_events_5_label_3_162_03d6a422:
 
     # ch_Name "{i}(Better get out of here.){/i}"
-    ch_Name ""
+    ch_Name "{i}（快溜。）{/i}"
 
 # game/logic/events/lily.rpy:1232
 translate chinese Lily_6_label_a32e20da:
 
     # ch_Name "Hi there, beautiful!"
-    ch_Name ""
+    ch_Name "你好，美女！"
 
 # game/logic/events/lily.rpy:1233
 translate chinese Lily_6_label_a2290a3a:
 
     # Lily "Hello!"
-    Lily ""
+    Lily "你好！"
 
 # game/logic/events/lily.rpy:1235
 translate chinese Lily_6_label_a55b9bde:
 
     # ch_Name "What are you doing, getting ready for class?"
-    ch_Name ""
+    ch_Name "你在准备上课吗？"
 
 # game/logic/events/lily.rpy:1236
 translate chinese Lily_6_label_73aeb29d:
 
     # Lily "Yeah, kind of."
-    Lily ""
+    Lily "是的。"
 
 # game/logic/events/lily.rpy:1238
 translate chinese Lily_6_label_5e5d2aa9:
 
     # Lily "Miss Spellman asked me to help harvest herbs for potions."
-    Lily ""
+    Lily "Miss Spellman 叫我帮她收集一些药草做魔法药水。"
 
 # game/logic/events/lily.rpy:1239
 translate chinese Lily_6_label_464abe91:
 
     # Lily "We're going to the Forbidden magical forest!"
-    Lily ""
+    Lily "我们要去Forbidden magical forest！"
 
 # game/logic/events/lily.rpy:1240
 translate chinese Lily_6_label_afc12ee5:
 
     # Lily "I'm so excited!"
-    Lily ""
+    Lily "好兴奋哦！"
 
 # game/logic/events/lily.rpy:1241
 translate chinese Lily_6_label_93a1d830:
 
     # ch_Name "{i}(She'll have to spend all day in the woods feeding mosquitoes...){/i}"
-    ch_Name ""
+    ch_Name "{i}（她要花一天时间在森林里喂蚊子。。。）{/i}"
 
 # game/logic/events/lily.rpy:1243
 translate chinese Lily_6_label_4d6554e1:
 
     # ch_Name "I don't know what you're so excited about. Isn't it dangerous?"
-    ch_Name ""
+    ch_Name "我不知道你为何那么兴奋。这不危险吗？"
 
 # game/logic/events/lily.rpy:1245
 translate chinese Lily_6_label_b8e5cc5a:
 
     # Lily "With Miss Spellman? Of course not."
-    Lily ""
+    Lily "有Miss Spellman与我同在，当然不会危险。"
 
 # game/logic/events/lily.rpy:1246
 translate chinese Lily_6_label_25fb5cf8:
 
     # Lily "I'm sure it would help enhance Leonheart's reputation."
-    Lily ""
+    Lily "我也肯定这会帮助Leonheart的名声。"
 
 # game/logic/events/lily.rpy:1248
 translate chinese Lily_6_label_a4bef3f4:
 
     # ch_Name "{i}(There she goes again...){/i}"
-    ch_Name ""
+    ch_Name "{i}（她的老毛病又发作了。。。）{/i}"
 
 # game/logic/events/lily.rpy:1249
 translate chinese Lily_6_label_e91f4525:
 
     # ch_Name "So that's your motive. I see."
-    ch_Name ""
+    ch_Name "原来，这才是你的动机。"
 
 # game/logic/events/lily.rpy:1251
 translate chinese Lily_6_label_91b89b6a:
 
     # Lily "Oh, I'm so rude... Do you want to join us?"
-    Lily ""
+    Lily "我怎么会那么没礼貌呢。。。你要加入我们吗？"
 
 # game/logic/events/lily.rpy:1252
 translate chinese Lily_6_label_c004c028:
 
     # ch_Name "{i}(I don't think I have anything else planned for today.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我今天也应该没有其他的计划。）{/i}"
 
 # game/logic/events/lily.rpy:1254
 translate chinese Lily_6_label_77ebd183:
 
     # ch_Name "Yes. Why not?"
-    ch_Name ""
+    ch_Name "可以啊。"
 
 # game/logic/events/lily.rpy:1255
 translate chinese Lily_6_label_5b5f6282:
 
     # Lily "Really? That's great! I'm so excited!"
-    Lily ""
+    Lily "真的？太棒了！我好高兴哦！"
 
 # game/logic/events/lily.rpy:1256
 translate chinese Lily_6_label_f948608f:
 
     # Lily "I just have to ask Miss Spellman."
-    Lily ""
+    Lily "我只需要去问问Miss Spellman。"
 
 # game/logic/events/lily.rpy:1258
 translate chinese Lily_6_label_5e22096a:
 
     # Sabrina "Ask me what?"
-    Sabrina ""
+    Sabrina "你要问我什么？"
 
 # game/logic/events/lily.rpy:1259
 translate chinese Lily_6_label_ba016978:
 
     # Lily "Can [Name] come pick up the ingredients with us?"
-    Lily ""
+    Lily "[Name]可以与我们一起去收集药草吗？"
 
 # game/logic/events/lily.rpy:1261
 translate chinese Lily_6_label_3506ff65:
 
     # Sabrina "So that's what!"
-    Sabrina ""
+    Sabrina "哦，原来！"
 
 # game/logic/events/lily.rpy:1262
 translate chinese Lily_6_label_747c0c0c:
 
     # Sabrina "I didn't know you were interested in herbalism [Name]."
-    Sabrina ""
+    Sabrina "我都不知原来[Name]对药草有兴趣。"
 
 # game/logic/events/lily.rpy:1263
 translate chinese Lily_6_label_86249e7f:
 
     # ch_Name "He-he. I'm still searching for my calling."
-    ch_Name ""
+    ch_Name "呵呵，我还在寻找我的方向。"
 
 # game/logic/events/lily.rpy:1265
 translate chinese Lily_6_label_6254ec04:
 
     # Sabrina "Well, I don't mind."
-    Sabrina ""
+    Sabrina "话说回来，我不介意你加入我们。"
 
 # game/logic/events/lily.rpy:1266
 translate chinese Lily_6_label_f20e68c3:
 
     # Sabrina "The more hands, the more ingredients."
-    Sabrina ""
+    Sabrina "多双手，更多的药草。"
 
 # game/logic/events/lily.rpy:1267
 translate chinese Lily_6_label_cc8d8c28:
 
     # Lily "Hooray!"
-    Lily ""
+    Lily "太棒了！"
 
 # game/logic/events/lily.rpy:1269
 translate chinese Lily_6_label_ad36d64b:
 
     # Sabrina "Let's not waste any time! Follow me, guys."
-    Sabrina ""
+    Sabrina "我们别再浪费时间了！大家紧跟着我吧。"
 
 # game/logic/events/lily.rpy:1270
 translate chinese Lily_6_label_798cea37:
 
     # Lily "Come on, [Name]!"
-    Lily ""
+    Lily "快跟上来吧[Name]!"
 
 # game/logic/events/lily.rpy:1274
 translate chinese Lily_6_label_bd81e0dd:
 
     # ch_Name "{i}(I thought the woods are closer to the academy...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我还以为森林不会离校园太原的。。。）{/i}"
 
 # game/logic/events/lily.rpy:1275
 translate chinese Lily_6_label_a7f09be5:
 
     # ch_Name "{i}(I'm already a little tired even in sneakers.){/i}"
-    ch_Name ""
+    ch_Name "{i}（即使穿着运动鞋，我也开始累了。）{/i}"
 
 # game/logic/events/lily.rpy:1276
 translate chinese Lily_6_label_dbad8184:
 
     # ch_Name "{i}(I wonder if Sabrina and Lily are comfortable walking in those high-heels shoes.){/i}"
-    ch_Name ""
+    ch_Name "{i}（不知道Sabrina和Lily穿着高跟鞋走路，怎么会不累呢？）{/i}"
 
 # game/logic/events/lily.rpy:1278
 translate chinese Lily_6_label_49fb7f9c:
 
     # Sabrina "Hmmm, you know what?"
-    Sabrina ""
+    Sabrina "各位。。。"
 
 # game/logic/events/lily.rpy:1279
 translate chinese Lily_6_label_7a50b7bb:
 
     # Lily "What?"
-    Lily ""
+    Lily "什么？"
 
 # game/logic/events/lily.rpy:1280
 translate chinese Lily_6_label_1855220c:
 
     # ch_Name "What?"
-    ch_Name ""
+    ch_Name "什么？"
 
 # game/logic/events/lily.rpy:1281
 translate chinese Lily_6_label_3faeca20:
 
     # Sabrina "I have an idea!"
-    Sabrina ""
+    Sabrina "我有个主意！"
 
 # game/logic/events/lily.rpy:1283
 translate chinese Lily_6_label_7db13270:
 
     # Sabrina "Since we have extra hands, we can do something more efficient with you."
-    Sabrina ""
+    Sabrina "因为我们现在有多双手了，我们可以更有效地收集材料。"
 
 # game/logic/events/lily.rpy:1284
 translate chinese Lily_6_label_ae9ed303:
 
     # Sabrina "If we split up now, I'll go gather the bloodblossom."
-    Sabrina ""
+    Sabrina "我们可以分成两队，我会去收集 bloodblossom。"
 
 # game/logic/events/lily.rpy:1285
 translate chinese Lily_6_label_98f0c3eb:
 
     # Sabrina "And the two of you will gather the dragon berries."
-    Sabrina ""
+    Sabrina "而你们二人可以去收集 dragon berries。"
 
 # game/logic/events/lily.rpy:1286
 translate chinese Lily_6_label_4b71d5e4:
 
     # Lily "Sounds simple."
-    Lily ""
+    Lily "听起来还蛮简单的。"
 
 # game/logic/events/lily.rpy:1288
 translate chinese Lily_6_label_d3744f11:
 
     # Sabrina "Here, [Name], take this."
-    Sabrina ""
+    Sabrina "[Name]，过来，那这个。"
 
 # game/logic/events/lily.rpy:1289
 translate chinese Lily_6_label_76cba302:
 
     # ch_Name "What's this?"
-    ch_Name ""
+    ch_Name "这是什么？"
 
 # game/logic/events/lily.rpy:1291
 translate chinese Lily_6_label_92e2c656:
 
     # Sabrina "It's a magic compass."
-    Sabrina ""
+    Sabrina "这是个魔法指南针。"
 
 # game/logic/events/lily.rpy:1292
 translate chinese Lily_6_label_0368b280:
 
     # Sabrina "It's very easy to get lost in a magical forest."
-    Sabrina ""
+    Sabrina "在这魔法森林里，会非常容易迷路。"
 
 # game/logic/events/lily.rpy:1293
 translate chinese Lily_6_label_55227f74:
 
     # Sabrina "And this compass will always show you a safe way."
-    Sabrina ""
+    Sabrina "而这个指南针将为你指引安全的路线。"
 
 # game/logic/events/lily.rpy:1294
 translate chinese Lily_6_label_48503569:
 
     # Sabrina "Follow its pointers and pick berries."
-    Sabrina ""
+    Sabrina "跟随它的方向去收集药草吧。"
 
 # game/logic/events/lily.rpy:1296
 translate chinese Lily_6_label_cdfcf2a3:
 
     # ch_Name "It vibrates slightly... {w} Is that supposed to be like that?"
-    ch_Name ""
+    ch_Name "它在微微地颤抖。。。{w}这是应该发生的事吗？"
 
 # game/logic/events/lily.rpy:1297
 translate chinese Lily_6_label_b143b37f:
 
     # Sabrina "Yes, it's living magic."
-    Sabrina ""
+    Sabrina "对，因为它用的是活的魔法。"
 
 # game/logic/events/lily.rpy:1299
 translate chinese Lily_6_label_9de067b9:
 
     # Lily "Don't worry, Miss Spellman."
-    Lily ""
+    Lily "放心吧，Miss Spellman。"
 
 # game/logic/events/lily.rpy:1300
 translate chinese Lily_6_label_12bde992:
 
     # Lily "Everything's gonna be just fine."
-    Lily ""
+    Lily "不会有任何事发生的。"
 
 # game/logic/events/lily.rpy:1302
 translate chinese Lily_6_label_f44161ae:
 
     # Sabrina "Good luck, guys!"
-    Sabrina ""
+    Sabrina "各位，祝你们好运！"
 
 # game/logic/events/lily.rpy:1303
 translate chinese Lily_6_label_b430af35:
 
     # ch_Name "{i}(Let's see where this thing takes us...){/i}"
-    ch_Name ""
+    ch_Name "{i}（让我看看这东西会带我们去哪里。。。）{/i}"
 
 # game/logic/events/lily.rpy:1306
 translate chinese Lily_6_label_d4e2d5d9:
 
     # ch_Name "{i}(The terrain seems to be starting to change a bit.){/i}"
-    ch_Name ""
+    ch_Name "{i}（这地形也开始改变了。）{/i}"
 
 # game/logic/events/lily.rpy:1307
 translate chinese Lily_6_label_303f41c3:
 
     # ch_Name "Oh, Lily, look, there are the berries!"
-    ch_Name ""
+    ch_Name "哦Lily! 看，那里有我们要找的药草！"
 
 # game/logic/events/lily.rpy:1308
 translate chinese Lily_6_label_a6aa15ee:
 
     # Lily "I'll get them now."
-    Lily ""
+    Lily "我现在就去收集它们。"
 
 # game/logic/events/lily.rpy:1310
 translate chinese Lily_6_label_4f3936c7:
 
     # ch_Name "{i}(Lily is picking berries so diligently, one might envy her dedication.){/i}"
-    ch_Name ""
+    ch_Name "{i}（Lily正在努力地收集药草，她的努力还真令人羡慕。）{/i}"
 
 # game/logic/events/lily.rpy:1311
 translate chinese Lily_6_label_00c05db4:
 
     # Lily "There don't seem to be any more here. Let's look for more."
-    Lily ""
+    Lily "看来这里被我们收集完了，我们再去别处找找吧。"
 
 # game/logic/events/lily.rpy:1313
 translate chinese Lily_6_label_e0cb0742:
 
     # ch_Name "The compass is pointing that way, let's go."
-    ch_Name ""
+    ch_Name "指南正指着那里，我们快去吧。"
 
 # game/logic/events/lily.rpy:1314
 translate chinese Lily_6_label_52c0f765:
 
     # Lily "Okay."
-    Lily ""
+    Lily "好的。"
 
 # game/logic/events/lily.rpy:1316
 translate chinese Lily_6_label_dd7b7f45:
 
     # Lily "Oh, look at those flowers!"
-    Lily ""
+    Lily "哦，快来看看这些花朵！"
 
 # game/logic/events/lily.rpy:1317
 translate chinese Lily_6_label_1aeaa9d7:
 
     # ch_Name "{i}(I thought we were only picking berries.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我们不是只来收集药草的吗？）{/i}"
 
 # game/logic/events/lily.rpy:1318
 translate chinese Lily_6_label_43988435:
 
     # ch_Name "{i}(Oh, well, I think she knows better.){/i}"
-    ch_Name ""
+    ch_Name "{i}（也罢，她应该有她的计划。）{/i}"
 
 # game/logic/events/lily.rpy:1319
 translate chinese Lily_6_label_19e8f1bd:
 
     # Lily "Let's keep going!"
-    Lily ""
+    Lily "让我们继续吧！"
 
 # game/logic/events/lily.rpy:1321
 translate chinese Lily_6_label_8996b4be:
 
     # ch_Name "Alright, baby."
-    ch_Name ""
+    ch_Name "好的，美女。"
 
 # game/logic/events/lily.rpy:1323
 translate chinese Lily_6_label_38f058ec:
 
     # ch_Name "Let's see where the compass is pointing."
-    ch_Name ""
+    ch_Name "我们再来看看指南针带我们去哪里。"
 
 # game/logic/events/lily.rpy:1324
 translate chinese Lily_6_label_1cc63c88:
 
     # ch_Name "I think we need to go further..."
-    ch_Name ""
+    ch_Name "看来我们得更深地进入森里。"
 
 # game/logic/events/lily.rpy:1326
 translate chinese Lily_6_label_c1a2e863:
 
     # ch_Name "Oh, shit!"
-    ch_Name ""
+    ch_Name "干！"
 
 # game/logic/events/lily.rpy:1327
 translate chinese Lily_6_label_3ae85756:
 
     # Lily "[Name]!"
-    Lily ""
+    Lily "[Name]！"
 
 # game/logic/events/lily.rpy:1329
 translate chinese Lily_6_label_282dc9cd:
 
     # Lily "Are you all right?"
-    Lily ""
+    Lily "你没事吧？"
 
 # game/logic/events/lily.rpy:1330
 translate chinese Lily_6_label_ab477d1b:
 
     # ch_Name "I am. {w} But look at the compass..."
-    ch_Name ""
+    ch_Name "我没事。{w}但是指南针却。。。"
 
 # game/logic/events/lily.rpy:1331
 translate chinese Lily_6_label_aaacf40e:
 
     # Lily "Ah..."
-    Lily ""
+    Lily "啊。。。"
 
 # game/logic/events/lily.rpy:1333
 translate chinese Lily_6_label_c4dd1805:
 
     # Lily "[Name], what are we going to do?"
-    Lily ""
+    Lily "[Name]，我们现在怎么办呢？"
 
 # game/logic/events/lily.rpy:1334
 translate chinese Lily_6_label_b94b3d81:
 
     # Lily "Without the compass, we don't know where to go..."
-    Lily ""
+    Lily "没了指南针，我们不知道该往哪个方向去。。。"
 
 # game/logic/events/lily.rpy:1336
 translate chinese Lily_6_label_044c0bd5:
 
     # ch_Name "Wait a minute."
-    ch_Name ""
+    ch_Name "等等。"
 
 # game/logic/events/lily.rpy:1337
 translate chinese Lily_6_label_b88408f9:
 
     # ch_Name "I need to think."
-    ch_Name ""
+    ch_Name "让我想想。"
 
 # game/logic/events/lily.rpy:1338
 translate chinese Lily_6_label_47f8b6a1:
 
     # ch_Name "There's got to be a way out of these woods, right?"
-    ch_Name ""
+    ch_Name "这森林总得有个出路的，对吧？"
 
 # game/logic/events/lily.rpy:1339
 translate chinese Lily_6_label_c35de0bd:
 
     # Lily "I guess..."
-    Lily ""
+    Lily "我想也应该的。。。"
 
 # game/logic/events/lily.rpy:1341
 translate chinese Lily_6_label_b8a2ee9b:
 
     # ch_Name "I know!"
-    ch_Name ""
+    ch_Name "我知道了！"
 
 # game/logic/events/lily.rpy:1342
 translate chinese Lily_6_label_fe40cb0c:
 
     # ch_Name "Let's trace our footsteps back!"
-    ch_Name ""
+    ch_Name "我们不妨倒回去我们之前的脚步吧！"
 
 # game/logic/events/lily.rpy:1343
 translate chinese Lily_6_label_7e1b84eb:
 
     # Lily "I don't know..."
-    Lily ""
+    Lily "我不太确定。。。"
 
 # game/logic/events/lily.rpy:1344
 translate chinese Lily_6_label_7aec9173:
 
     # Lily "Are you sure we're gonna remember how we got here?"
-    Lily ""
+    Lily "你真的确定我们会记得我们的步伐吗？"
 
 # game/logic/events/lily.rpy:1346
 translate chinese Lily_6_label_ada5c0da:
 
     # ch_Name "Totally."
-    ch_Name ""
+    ch_Name "一定的。"
 
 # game/logic/events/lily.rpy:1347
 translate chinese Lily_6_label_991a74db:
 
     # ch_Name "{i}(Not really.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我也不确定。）{/i}"
 
 # game/logic/events/lily.rpy:1349
 translate chinese Lily_6_label_56b7cbc5:
 
     # ch_Name "{i}(What's she so worried about?){/i}"
-    ch_Name ""
+    ch_Name "{i}（她担心什么呢？）{/i}"
 
 # game/logic/events/lily.rpy:1350
 translate chinese Lily_6_label_5426e6a2:
 
     # ch_Name "{i}(What can happen in the woods?){/i}"
-    ch_Name ""
+    ch_Name "{i}（这森林里哪会有什么危险呢？）{/i}"
 
 # game/logic/events/lily.rpy:1359
 translate chinese Lily_6_label_from_gallery_182d7862:
 
     # Lily "Whoa..."
-    Lily ""
+    Lily "哇。。。"
 
 # game/logic/events/lily.rpy:1360
 translate chinese Lily_6_label_from_gallery_00b5e4d9:
 
     # ch_Name "Wow!"
-    ch_Name ""
+    ch_Name "哇。。。"
 
 # game/logic/events/lily.rpy:1361
 translate chinese Lily_6_label_from_gallery_2e19c88f:
 
     # Lily "What is this wonderful place?"
-    Lily ""
+    Lily "这美妙的地方是哪里啊？"
 
 # game/logic/events/lily.rpy:1363
 translate chinese Lily_6_label_from_gallery_963642fc:
 
     # ch_Name "I have no idea..."
-    ch_Name ""
+    ch_Name "我也不知道。。。"
 
 # game/logic/events/lily.rpy:1364
 translate chinese Lily_6_label_from_gallery_4cc2f540:
 
     # Lily "It's so beautiful..."
-    Lily ""
+    Lily "这里真美丽。。。"
 
 # game/logic/events/lily.rpy:1365
 translate chinese Lily_6_label_from_gallery_7714090c:
 
     # ch_Name "It's beautiful, it's true."
-    ch_Name ""
+    ch_Name "这里确实非常美丽。"
 
 # game/logic/events/lily.rpy:1366
 translate chinese Lily_6_label_from_gallery_2e4a0f3a:
 
     # ch_Name "{i}(But this place makes me feel uncomfortable.){/i}"
-    ch_Name ""
+    ch_Name "{i}（但这地方让我感到不安。）{/i}"
 
 # game/logic/events/lily.rpy:1368
 translate chinese Lily_6_label_from_gallery_da40774e:
 
     # Lily "Have you ever seen something so beautiful?"
-    Lily ""
+    Lily "你有没有看过那么美丽的地方吗？"
 
 # game/logic/events/lily.rpy:1369
 translate chinese Lily_6_label_from_gallery_083c9641:
 
     # Lily "Shall we go closer?"
-    Lily ""
+    Lily "我们应该靠近些吗？"
 
 # game/logic/events/lily.rpy:1371
 translate chinese Lily_6_label_from_gallery_8bcb1360:
@@ -4137,7 +4137,7 @@ translate chinese Lily_6_label_from_gallery_dcaf3092:
 # game/logic/events/lily.rpy:1399
 translate chinese Lily_6_label_from_gallery_32946264:
 
-    # Lily "You're cute."
+    # Lily "{i}You're cute.{/i}"
     Lily ""
 
 # game/logic/events/lily.rpy:1401
@@ -4503,7 +4503,7 @@ translate chinese Lily_6_label_from_gallery_a109a1bc:
 # game/logic/events/lily.rpy:1496
 translate chinese Lily_6_label_from_gallery_7659af10:
 
-    # ch_Name "What a view!"
+    # ch_Name "what a view!"
     ch_Name ""
 
 # game/logic/events/lily.rpy:1498
@@ -4941,7 +4941,7 @@ translate chinese Lily_6_label_224_9cdd9737:
 # game/logic/events/lily.rpy:1614
 translate chinese Lily_6_label_224_1ad90dd1_2:
 
-    # Lily "Mhm-mm..."
+    # Lily "[Name]..."
     Lily ""
 
 # game/logic/events/lily.rpy:1615
@@ -9316,69 +9316,68 @@ translate chinese strings:
 
     # game/logic/events/lily.rpy:10
     old "0 Talk to Lily"
-    new ""
+    new "0 于Lily对话"
 
     # game/logic/events/lily.rpy:744
     old "Ask about her feelings"
-    new ""
+    new "问问她的感受"
 
     # game/logic/events/lily.rpy:744
     old "Keep kissing Lily"
-    new ""
+    new "继续亲吻Lily"
 
     # game/logic/events/lily.rpy:799
     old "Stop kissing"
-    new ""
+    new "停止亲吻"
 
     # game/logic/events/lily.rpy:799
     old "Touch Lily"
-    new ""
+    new "抚摸Lily"
 
     # game/logic/events/lily.rpy:956
     old "Take a look at Lily"
-    new ""
+    new "看看Lily"
 
     # game/logic/events/lily.rpy:1189
     old "Lick her toes"
-    new ""
+    new "舔她脚趾"
 
     # game/logic/events/lily.rpy:1189
     old "Stop and go to sleep"
-    new ""
+    new "停止，回去睡觉"
 
     # game/logic/events/lily.rpy:1561
     old "Cunnilingus"
-    new ""
+    new "舔她下面"
 
     # game/logic/events/lily.rpy:1561
     old "Classic"
-    new ""
+    new "性交"
 
     # game/logic/events/lily.rpy:1561
     old "Anal"
-    new ""
+    new "肛交"
 
     # game/logic/events/lily.rpy:1756
     old "Cum on her back"
-    new ""
+    new "射在她背"
 
     # game/logic/events/lily.rpy:1791
     old "We have to go"
-    new ""
+    new "我们需要离开"
 
     # game/logic/events/lily.rpy:1791
     old "Hug her"
-    new ""
+    new "抱她"
 
     # game/logic/events/lily.rpy:2122
     old "Pose 1"
-    new ""
+    new "姿势 1"
 
     # game/logic/events/lily.rpy:2122
     old "Pose 2"
-    new ""
+    new "姿势 2"
 
     # game/logic/events/lily.rpy:2245
     old "Stay friends"
-    new ""
-
+    new "只是朋友关系"
