@@ -5051,7 +5051,7 @@ translate russian Leona_5_label_ab8829fe:
 
     # Haley "Okay, why am I...{w} I bet you're bored of hearing that."
     Haley "Ладно, и зачем я...{w} Тебе наверняка скучно про это слушать."
-ы
+
 # game/logic/events/Leona.rpy:1404
 translate russian Leona_5_label_116e8434:
 

@@ -1087,7 +1087,8 @@ translate chinese strings:
     new "将errors.txt文件复制到剪贴板作为Discord的Markdown。"
 
     # renpy/common/_errorhandling.rpym:581
-    old "发生异常。"
+    old "An exception has occurred."
+    new "发生异常。"
 
     # renpy/common/_errorhandling.rpym:604
     old "Rollback"

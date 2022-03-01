@@ -340,19 +340,19 @@ translate russian Katrina_1_label_d0450104:
 translate russian Katrina_1_label_6c25205d:
 
     # ch_Name "Right now?! What's going on?"
-    ch_Name "Прямо сейчас? Что происходит?
+    ch_Name "Прямо сейчас? Что происходит?"
 
 # game/logic/events/Katrina.rpy:97
 translate russian Katrina_1_label_8da30f91:
 
     # ch_Name "I've had time to think..."
-    ch_Name "У меня было время подумать...
+    ch_Name "У меня было время подумать..."
 
 # game/logic/events/Katrina.rpy:99
 translate russian Katrina_1_label_7c0d2d20:
 
     # Don "What can I say? It's time!"
-    Don "Что ты говоришь? Уже пора.
+    Don "Что ты говоришь? Уже пора."
 
 # game/logic/events/Katrina.rpy:100
 translate russian Katrina_1_label_d9952f2c:

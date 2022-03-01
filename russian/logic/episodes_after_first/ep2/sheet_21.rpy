@@ -130,7 +130,7 @@ translate russian sheet_21_395e5e86:
 translate russian sheet_21_7d83dbff:
 
     # Victoria "You can enter when I announce \"Next.\""
-    Victoria "Входите, когда я позову "Следующий.""
+    Victoria "Входите, когда я позову \"Следующий.\""
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:47
 translate russian sheet_21_9be6ce19:

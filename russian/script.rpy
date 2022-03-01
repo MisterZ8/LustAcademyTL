@@ -4,7 +4,7 @@
 translate russian 69ff737f:
 
     # "Here you can keep track of all the routes, activities, etc. that are available to you. and quickly navigate to the desired one, without wasting time walking around the locations and searching. Next to the avatars of the characters are icons, the decoding of which is next."
-    "Тут вы можете следить за всеми путями, событиями и т.д. которые доступны вам. и быстро переходить к нужному месту, не тратя время на хождение и поиск по локациям. Рядом с аватарами персонажей расположены иконки, для расшифровки нужно навести.
+    "Тут вы можете следить за всеми путями, событиями и т.д. которые доступны вам. и быстро переходить к нужному месту, не тратя время на хождение и поиск по локациям. Рядом с аватарами персонажей расположены иконки, для расшифровки нужно навести."
 
 # game/script.rpy:742
 translate russian start_54c881dc:

@@ -3058,7 +3058,7 @@ translate russian Victoria_8_label_35dafc50:
 translate russian Victoria_8_label_27b13307:
 
     # Joshi "Yeah, I always fall asleep there. Fuck it."
-    Joshi Ага, я всегда засыпаю там. Хрен с ними."
+    Joshi "Ага, я всегда засыпаю там. Хрен с ними."
 
 # game/logic/events/victoria.rpy:1083
 translate russian Victoria_8_label_b1e6debb:

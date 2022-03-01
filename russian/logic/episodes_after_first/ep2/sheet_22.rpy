@@ -358,7 +358,7 @@ translate russian sheet_22_1e642b8f:
 translate russian sheet_22_16302bad:
 
     # Lily "Good luck!"
-    Lily "Удачи""
+    Lily "Удачи"
 
 # game/logic/episodes_after_first/ep2/sheet_22.rpy:150
 translate russian sheet_22_47cf8a86:

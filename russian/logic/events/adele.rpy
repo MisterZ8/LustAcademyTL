@@ -1492,7 +1492,7 @@ translate russian Sadira_2_label_29a0c954:
 translate russian Sadira_2_label_03f375ca:
 
     # ch_Name "I know..."
-    ch_Name "Я знаю...
+    ch_Name "Я знаю..."
 
 # game/logic/events/adele.rpy:575
 translate russian Sadira_2_label_cffd4675:

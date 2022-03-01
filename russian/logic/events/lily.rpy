@@ -1582,7 +1582,7 @@ translate russian Lily_5_label_2b1aa629:
 translate russian Lily_5_label_015ce907:
 
     # Lily "Do you really think I can be the prefect?"
-    Lily Ты правда считаешь, что я могу стать префектом?"
+    Lily "Ты правда считаешь, что я могу стать префектом?"
 
 # game/logic/events/lily.rpy:672
 translate russian Lily_5_label_5ae6bc8b:

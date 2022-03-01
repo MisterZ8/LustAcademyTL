@@ -34,7 +34,7 @@ translate russian sheet_27_c3119d82:
 translate russian sheet_27_775062cb:
 
     # Victoria "Each of them sealed part of her soul inside this book."
-    Victoria Каждая из них запечатала часть своей души в эту книгу.""
+    Victoria "Каждая из них запечатала часть своей души в эту книгу."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:17
 translate russian sheet_27_86c9c1fb:

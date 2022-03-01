@@ -208,7 +208,7 @@ translate russian sheet_26_c06014ca:
 translate russian sheet_26_b0483709:
 
     # Arthur "Joining Cordale will divide your life into “before” and “after”. But remember!"
-    Arthur "Поступление в Cordale разделит вашу жизнь на "до" и "после". Но помните!"
+    Arthur "Поступление в Cordale разделит вашу жизнь на \"до\" и \"после\". Но помните!"
 
 # game/logic/episodes_after_first/ep2/sheet_26.rpy:75
 translate russian sheet_26_54044f6c:

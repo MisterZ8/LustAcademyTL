@@ -683,7 +683,7 @@ translate chinese sheet_31_menu_cc02fcd8:
 
     # Arthur "...would be happy to {b}reward you with points for a little help.{/b}"
     Arthur "...我很乐意{b}为你的小帮助奖励积分。{/b}"
-。
+
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:197
 translate chinese sheet_31_menu_95b508e7:
 

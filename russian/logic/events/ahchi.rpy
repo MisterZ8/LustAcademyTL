@@ -2662,7 +2662,7 @@ translate russian CF_S5_label_15c61b42:
 translate russian CF_S5_label_b9624aa3:
 
     # ch_Name "I'll take it as a compliment."
-    ch_Name ""Я приму это как комплимент.
+    ch_Name "Я приму это как комплимент."
 
 # game/logic/events/ahchi.rpy:774
 translate russian CF_S5_label_b4c33c46:

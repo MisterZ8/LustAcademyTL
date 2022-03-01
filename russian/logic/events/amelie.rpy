@@ -994,7 +994,7 @@ translate russian Amelie_1_1_label_4aca1c69:
 translate russian Amelie_3_label_ccd45fb4:
 
     # ch_Name "{i}(Well, things with Lily are settled. I can't back down now.){/i}"
-    ch_Name "{i}(Чтож, дела с  Lily улажены. Я не могу отступить сейчас.){/i}""
+    ch_Name "{i}(Чтож, дела с  Lily улажены. Я не могу отступить сейчас.){/i}"
 
 # game/logic/events/amelie.rpy:480
 translate russian Amelie_3_label_1d3a6564:
