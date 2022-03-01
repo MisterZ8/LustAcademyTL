@@ -514,7 +514,7 @@ translate philippine sheet_28_from_gallery_809c699e:
 translate philippine sheet_28_from_gallery_dadcb623:
 
     # ch_Name "So..."
-    ch_Name "At...
+    ch_Name "At..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:182
 translate philippine sheet_28_from_gallery_05698d3f:
@@ -1330,13 +1330,13 @@ translate philippine sheet_28_1_262_16_24ff6936:
 translate philippine sheet_28_1_262_16_c298be94:
 
     # ch_Name "...let's get to business.{w} I'm getting cold."
-    ch_Name "magsisimula na tayo. {w} Ang lamig.
+    ch_Name "magsisimula na tayo. {w} Ang lamig."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:463
 translate philippine sheet_28_1_262_16_507485ad:
 
     # Leona "We're so sorry, dear..."
-    Leona "Pasensya na, mahal...
+    Leona "Pasensya na, mahal..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:464
 translate philippine sheet_28_1_262_16_ad7f252b:

@@ -286,25 +286,25 @@ translate philippine mina_1_label_44_a76d3917:
 translate philippine mina_1_label_44_980b7020:
 
     # ch_Name "{i}(Now, let's go for a walk and visit some of the places Elijah recommended.){/i}"
-    ch_Name "{i}(Ngayon bibisita na ako sa mga lugar na ipinakita ni Elijah.){/i}""
+    ch_Name "{i}(Ngayon bibisita na ako sa mga lugar na ipinakita ni Elijah.){/i}"
 
 # game/logic/events/mina.rpy:108
 translate philippine mina_1_label_44_e7363bf5:
 
     # ch_Name "{i}(So, where do we start?){/i}"
-    ch_Name "{i}(Saan ba ako magsisimula?){/i}""
+    ch_Name "{i}(Saan ba ako magsisimula?){/i}"
 
 # game/logic/events/mina.rpy:109
 translate philippine mina_1_label_44_77c940e9:
 
     # ch_Name "{i}(A local shop may be the place I need, if I want to complete Elijah's task.){/i}"
-    ch_Name "{i}(Siguro sa tindahan, para magawa ko na ang sabi ko kay Elijah.){/i}""
+    ch_Name "{i}(Siguro sa tindahan, para magawa ko na ang sabi ko kay Elijah.){/i}"
 
 # game/logic/events/mina.rpy:110
 translate philippine mina_1_label_44_87fc3dac:
 
     # ch_Name "{i}(Well. Why not?){/i}"
-    ch_Name "{i}(Bakit ba hindi?){/i}""
+    ch_Name "{i}(Bakit ba hindi?){/i}"
 
 # game/logic/events/mina.rpy:127
 translate philippine mina_0_label_b677eeb0:

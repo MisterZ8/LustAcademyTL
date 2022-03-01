@@ -70,7 +70,7 @@ translate philippine sheet_25_0ef3fb14:
 translate philippine sheet_25_f95373fd:
 
     # Haley "I heard that the headmaster will be giving the opening speech!"
-    Haley "Sabi nila na ang headmaster ang magbibigay ng opening speech!""
+    Haley "Sabi nila na ang headmaster ang magbibigay ng opening speech!"
 
 # game/logic/episodes_after_first/ep2/sheet_25.rpy:34
 translate philippine sheet_25_05f62152_1:

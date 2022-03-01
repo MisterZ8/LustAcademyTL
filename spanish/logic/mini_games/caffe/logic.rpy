@@ -46,7 +46,7 @@ translate spanish end_caffe_2_196ca8b4:
 translate spanish end_caffe_2_00855181:
 
     # Molly "Quit your daydreaming and focus on work, [Name]! "
-    Molly "¡[Nombre], deja de soñar despierto y concéntrate en el curro!
+    Molly "¡[Nombre], deja de soñar despierto y concéntrate en el curro!"
 
 # game/logic/mini_games/caffe/logic.rpy:296
 translate spanish end_caffe_2_f948c336:
@@ -106,7 +106,7 @@ translate spanish hide_all_caffe_screens_00000a5f:
 translate spanish hide_all_caffe_screens_5a8f6979:
 
     # Molly "Come back more often and we'll get rich!"
-    Molly "¡Ven más a menudo y nos haremos ricos!
+    Molly "¡Ven más a menudo y nos haremos ricos!"
 
 # game/logic/mini_games/caffe/logic.rpy:367
 translate spanish hide_all_caffe_screens_1a051f3a:
@@ -160,13 +160,13 @@ translate spanish hide_all_caffe_screens_28fa1654:
 translate spanish hide_all_caffe_screens_fd7e2229:
 
     # Molly "Are you sick?"
-    Molly "¿Estás enfermo?
+    Molly "¿Estás enfermo?"
 
 # game/logic/mini_games/caffe/logic.rpy:388
 translate spanish hide_all_caffe_screens_081376df:
 
     # ch_Name "No, I don't know what came over me. Next time will be better."
-    ch_Name "No, ni idea de que me ha pasado. Lo haré mejor la próxima vez.
+    ch_Name "No, ni idea de que me ha pasado. Lo haré mejor la próxima vez."
 
 # game/logic/mini_games/caffe/logic.rpy:393
 translate spanish hide_all_caffe_screens_27c21352:

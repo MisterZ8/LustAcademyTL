@@ -322,7 +322,7 @@ translate philippine CF_S1_label_89d7466f:
 translate philippine CF_S1_label_e46f8790:
 
     # ch_Name "Only freshman year?"
-    ch_Name Ang unang taon lang?""
+    ch_Name "Ang unang taon lang?"
 
 # game/logic/events/ahchi.rpy:246
 translate philippine CF_S1_label_a2a548df:
@@ -1084,7 +1084,7 @@ translate philippine CF_S2_label_010e5fcb:
 translate philippine CF_S2_label_1b960923:
 
     # ch_Name "{i}(I needed something like this.){/i}"
-    ch_Name ""{i}(Kailagan ko ng gaya nito.){/i}""
+    ch_Name "{i}(Kailagan ko ng gaya nito.){/i}"
 
 # game/logic/events/ahchi.rpy:429
 translate philippine CF_S3_label_4d7c1aa5:
@@ -1144,7 +1144,7 @@ translate philippine CF_S3_label_6adbddba:
 translate philippine CF_S3_label_c21c7bfd:
 
     # ch_Name "Didn't you get a look at the pictures with her as a little girl?"
-    ch_Name 'Di ka ba nakakita ng mga larawan niya noong maliit siya?"
+    ch_Name "Di ka ba nakakita ng mga larawan niya noong maliit siya?"
 
 # game/logic/events/ahchi.rpy:441
 translate philippine CF_S3_label_db0892e4:
@@ -1540,7 +1540,7 @@ translate philippine CF_S3_label_bd73d1ce:
 translate philippine CF_S3_label_7ec1ec1d:
 
     # ch_Name "{i}(Sure that Olivia has a couple of them somewhere.){/i}"
-    ch_Name " "{i}(Baka may kopya si Olivia.){/i}""
+    ch_Name "{i}(Baka may kopya si Olivia.){/i}"
 
 # game/logic/events/ahchi.rpy:522
 translate philippine CF_S3_label_65aa3967:
@@ -1948,7 +1948,7 @@ translate philippine CF_S4_label_db81e202:
 translate philippine CF_S4_label_fbb0a549:
 
     # Samantha "Maybe."
-    Samantha "Siguro.
+    Samantha "Siguro."
 
 # game/logic/events/ahchi.rpy:617
 translate philippine CF_S4_label_ce708bd5:
@@ -1966,7 +1966,7 @@ translate philippine CF_S4_label_53d9c637:
 translate philippine CF_S4_label_4f1baf01:
 
     # Samantha "So I focused more on my academics."
-    Samantha "Kaya nagpokus ako sa pag-aaral ko.?
+    Samantha "Kaya nagpokus ako sa pag-aaral ko.?"
 
 # game/logic/events/ahchi.rpy:621
 translate philippine CF_S4_label_36600186:
@@ -3262,7 +3262,7 @@ translate philippine CF_Ahchi_3_label_ff4afb9b:
 translate philippine CF_Ahchi_3_label_6ab5f741:
 
     # Ahchi "Do you want it exactly the same as last time, or should I sprinkle it with dried roses?"
-    Ahchi "Gusto mo ba ito tulad noong nakaraan, o lalagay ako ng tuyong rosas?
+    Ahchi "Gusto mo ba ito tulad noong nakaraan, o lalagay ako ng tuyong rosas?"
 
 # game/logic/events/ahchi.rpy:931
 translate philippine CF_Ahchi_3_label_3ca0aa8a:
@@ -3340,13 +3340,13 @@ translate philippine CF_Ahchi_3_label_0b28c3dd:
 translate philippine CF_Ahchi_3_label_b9c256be:
 
     # ch_Name "{i}(Hmmm... And he's right, it tastes even better with roses.){/i}"
-    ch_Name ""{i}(Hmmm... At tama siya, mas masarap kapag may rosas.){/i}"
+    ch_Name "{i}(Hmmm... At tama siya, mas masarap kapag may rosas.){/i}"
 
 # game/logic/events/ahchi.rpy:947
 translate philippine CF_Ahchi_3_label_92110076:
 
     # ch_Name "{i}(How does this guy manage to turn an ordinary latte into a masterpiece?){/i}"
-    ch_Name ""{i}(Paano niya ba pinapahusay ang bawat latte na ginagawa niya?){/i}"
+    ch_Name "{i}(Paano niya ba pinapahusay ang bawat latte na ginagawa niya?){/i}"
 
 # game/logic/events/ahchi.rpy:958
 translate philippine CF_Ahchi_4_label_a9d5e155:

@@ -190,7 +190,7 @@ translate spanish adele_1_label_97945001:
 translate spanish adele_1_label_b3f98a40:
 
     # Adele "The exotic beauty Sadira."
-    Adele SAdira y su exótica belleza.""
+    Adele "Sadira y su exótica belleza."
 
 # game/logic/events/adele.rpy:133
 translate spanish adele_1_label_a1bcab96:

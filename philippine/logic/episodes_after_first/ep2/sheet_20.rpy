@@ -298,7 +298,7 @@ translate philippine sheet_20_784e1f08:
 translate philippine sheet_20_37b07f5c:
 
     # UnknownGirl "You said you teach \"battle magic\"..."
-    UnknownGirl "Sabi mo nagtuturo ka ng \"mahikang panlaban\"...""
+    UnknownGirl "Sabi mo nagtuturo ka ng \"mahikang panlaban\"..."
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:120
 translate philippine sheet_20_e3dcaad9:
@@ -466,25 +466,25 @@ translate philippine sheet_20_menu_1_ans_1_f1ef320b:
 translate philippine sheet_20_menu_1_ans_1_988ac9dc:
 
     # ch_Name "{i}(Hmm...It's strange.){/i}"
-    ch_Name ""{i}(Nakakaiba.){/i}"
+    ch_Name "{i}(Nakakaiba.){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:205
 translate philippine sheet_20_menu_1_ans_1_b78a347c:
 
     # ch_Name "{i}(I am 99%% sure Don and Olivia know what's going on...){/i}"
-    ch_Name ""{i}(Sigurado ako, 99%, na alam nina Don at Olivia ang nangyayari...){/i}""
+    ch_Name "{i}(Sigurado ako, 99%, na alam nina Don at Olivia ang nangyayari...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:207
 translate philippine sheet_20_menu_1_ans_1_cb2df23a:
 
     # ch_Name "{i}(Either your PR department is under-performing, or Sam told them...){/i}"
-    ch_Name ""{i}(Baka hindi ganoon kasipag ang PR ninyo, o sinabihan sila ni Sam...){/i}""
+    ch_Name "{i}(Baka hindi ganoon kasipag ang PR ninyo, o sinabihan sila ni Sam...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:209
 translate philippine sheet_20_menu_1_ans_1_78ec54ec:
 
     # ch_Name "{i}(Next time I meet Samantha we should discuss this.){/i}"
-    ch_Name ""{i}(Kapag mahanap ko siya magtatanong ako.){/i}""
+    ch_Name "{i}(Kapag mahanap ko siya magtatanong ako.){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:211
 translate philippine sheet_20_menu_1_ans_1_ce79aeac:

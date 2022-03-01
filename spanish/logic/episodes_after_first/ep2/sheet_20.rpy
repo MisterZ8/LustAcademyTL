@@ -304,7 +304,7 @@ translate spanish sheet_20_37b07f5c:
 translate spanish sheet_20_e3dcaad9:
 
     # UnknownGirl "What is that?"
-    UnknownGirl "¿Qué es eso?
+    UnknownGirl "¿Qué es eso?"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:123
 translate spanish sheet_20_0d4ae3d5:

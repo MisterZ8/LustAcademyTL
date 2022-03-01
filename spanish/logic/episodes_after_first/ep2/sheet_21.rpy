@@ -196,7 +196,7 @@ translate spanish sheet_21_9f9b683d:
 translate spanish sheet_21_547f9c67:
 
     # ch_Name "{i}(Oh! Is that Haley?){/i}"
-    ch_Name "{i}(¡Oh!" ¿Esa es Haley?){/i}"
+    ch_Name "{i}(¡Oh! ¿Esa es Haley?){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:71
 translate spanish sheet_21_6c4dcf45:
@@ -430,7 +430,7 @@ translate spanish sheet_21_17ce8f40:
 translate spanish sheet_21_2cffbbec_1:
 
     # Haley "{i}(He's so nice to me...){/i}"
-    Haley "{i}(Es tan bueno conmigo...){/i}
+    Haley "{i}(Es tan bueno conmigo...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:165
 translate spanish sheet_21_b399a1b8:

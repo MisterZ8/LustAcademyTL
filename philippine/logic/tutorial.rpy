@@ -694,7 +694,7 @@ translate philippine CordLeftWing_label_4bddd5b5:
 translate philippine CordLeftWing_label_b85ccf1f:
 
     # ch_Name "{i}(Oh wow! Who's that hottie coming out the door with a stack of books?){/i}"
-    ch_Name ""{i}(Wititwiw! Sino kaya 'yung hottie na lumalabas sa pinto na may maraming libro?){/i}"
+    ch_Name "{i}(Wititwiw! Sino kaya 'yung hottie na lumalabas sa pinto na may maraming libro?){/i}"
 
 # game/logic/tutorial.rpy:755
 translate philippine CordLeftWing_label_f5697555:
@@ -850,19 +850,19 @@ translate philippine CordLeftWing_label_53b59c2b:
 translate philippine CordLeftWing_label_9d3689bb:
 
     # ch_Name "{i}(I can't believe my luck. Are all the students here so pretty?){/i}"
-    ch_Name ""{i}(Ang swerte ko talaga. Maganda ba ang lahat ng mga estudyante dito?){/i}"
+    ch_Name "{i}(Ang swerte ko talaga. Maganda ba ang lahat ng mga estudyante dito?){/i}"
 
 # game/logic/tutorial.rpy:790
 translate philippine CordLeftWing_label_be38b0ad:
 
     # ch_Name "{i}(What if she leaves and I never get to meet her?){/i}"
-    ch_Name ""{i}(Ano kaya kapag hindi ko na siya makita ulit?){/i}""
+    ch_Name "{i}(Ano kaya kapag hindi ko na siya makita ulit?){/i}"
 
 # game/logic/tutorial.rpy:791
 translate philippine CordLeftWing_label_46ca7571:
 
     # ch_Name "{i}(Shit, I need to think of an excuse to call her out... Oh, I know!){/i}"
-    ch_Name ""{i}(Kailangan ko ng dahilan para tawagin siya... Alam ko na?){/i}""
+    ch_Name "{i}(Kailangan ko ng dahilan para tawagin siya... Alam ko na?){/i}"
 
 # game/logic/tutorial.rpy:793
 translate philippine CordLeftWing_label_65c02259:
@@ -928,7 +928,7 @@ translate philippine CordLeftWing_label_9e6695a7:
 translate philippine CordLeftWing_label_d495ac50:
 
     # ch_Name "{i}(I'm sure I'll have time to get to know her better later.){/i}"
-    ch_Name ""{i}(Sigurado naman na makikilala ko siya sa susunod.){/i}"
+    ch_Name "{i}(Sigurado naman na makikilala ko siya sa susunod.){/i}"
 
 # game/logic/tutorial.rpy:807
 translate philippine CordLeftWing_label_8403dbba:
@@ -940,7 +940,7 @@ translate philippine CordLeftWing_label_8403dbba:
 translate philippine CordRightWing_label_7b8ce845:
 
     # ch_Name "{i}(Looks like someone is angry. I wonder why...){/i}"
-    ch_Name "{i}(Parang may galit. Bakit kaya...){/i}""
+    ch_Name "{i}(Parang may galit. Bakit kaya...){/i}"
 
 # game/logic/tutorial.rpy:821
 translate philippine CordRightWing_label_b7962553:
@@ -1222,7 +1222,7 @@ translate philippine CordMainHall_label_a8dd1f73:
 translate philippine CordMainHall_label_6972bd8b:
 
     # ch_Name "Director! I confess, I didn't immediately recognize you in that outfit."
-    ch_Name "Direktor! Pasensya na, hindi kita nakilala sa damit na 'yan.
+    ch_Name "Direktor! Pasensya na, hindi kita nakilala sa damit na 'yan."
 
 # game/logic/tutorial.rpy:893
 translate philippine CordMainHall_label_7eb7551a:

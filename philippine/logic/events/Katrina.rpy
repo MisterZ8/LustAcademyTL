@@ -562,7 +562,7 @@ translate philippine Katrina_1_label_92cf679b_1:
 translate philippine Katrina_1_label_3bbb4635_1:
 
     # Don "I'm going to see how much I can get for your camera and computer."
-    Don "Hahanap ako ng bibili ng kamera at computer mo.""
+    Don "Hahanap ako ng bibili ng kamera at computer mo."
 
 # game/logic/events/Katrina.rpy:157
 translate philippine Katrina_1_label_88097224:
@@ -1096,7 +1096,7 @@ translate philippine Katrina_1_label_63112168:
 translate philippine Katrina_1_label_85a6c616:
 
     # ch_Name "Or maybe I heard it wrong. "
-    ch_Name "O baka mali ang narinig ko.
+    ch_Name "O baka mali ang narinig ko."
 
 # game/logic/events/Katrina.rpy:287
 translate philippine Katrina_1_label_9e5ef16e:

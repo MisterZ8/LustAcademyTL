@@ -58,7 +58,7 @@ translate philippine fishing_start_c3bbeb84:
 translate philippine fishing_start_e7e4fcbf:
 
     # ch_Name "He-he-heh, I've tried my best."
-    ch_Name ""He-he-heh, sunubukan ko talaga."
+    ch_Name "He-he-heh, sunubukan ko talaga."
 
 # game/logic/mini_games/fishing/logic.rpy:163
 translate philippine fishing_start_af8488b6:

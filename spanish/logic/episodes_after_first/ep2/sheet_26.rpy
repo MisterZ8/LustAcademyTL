@@ -28,7 +28,7 @@ translate spanish sheet_26_a2695455:
 translate spanish sheet_26_ca6a8126:
 
     # ch_Name "Sure, why not?"
-    ch_Name Claro, ¿Porque no?""
+    ch_Name "Claro, ¿Porque no?"
 
 # game/logic/episodes_after_first/ep2/sheet_26.rpy:15
 translate spanish sheet_26_850ca336:
@@ -208,7 +208,7 @@ translate spanish sheet_26_c06014ca:
 translate spanish sheet_26_b0483709:
 
     # Arthur "Joining Cordale will divide your life into “before” and “after”. But remember!"
-    Arthur "Vuestra entrada en Cordale marcará un "antes" y un "después" en vuestra vida. ¡Pero recordad!"
+    Arthur "Vuestra entrada en Cordale marcará un \"antes\" y un \"después\" en vuestra vida. ¡Pero recordad!"
 
 # game/logic/episodes_after_first/ep2/sheet_26.rpy:75
 translate spanish sheet_26_54044f6c:
@@ -262,7 +262,7 @@ translate spanish sheet_26_5074638e:
 translate spanish sheet_26_e9920ad2:
 
     # Arthur "Miss Lapis will guide you through the details."
-    Arthur "Miss Lapis os explicará los detalles.
+    Arthur "Miss Lapis os explicará los detalles."
 
 # game/logic/episodes_after_first/ep2/sheet_26.rpy:93
 translate spanish sheet_26_26a97f06:
@@ -274,7 +274,7 @@ translate spanish sheet_26_26a97f06:
 translate spanish sheet_26_69f006fa:
 
     # Victoria "Thank you, Arthur."
-    Victoria "Gracias, Arthur.
+    Victoria "Gracias, Arthur."
 
 # game/logic/episodes_after_first/ep2/sheet_26.rpy:97
 translate spanish sheet_26_9b8bdbf2:

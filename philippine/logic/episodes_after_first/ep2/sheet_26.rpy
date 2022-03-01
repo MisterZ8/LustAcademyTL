@@ -190,7 +190,7 @@ translate philippine sheet_26_7c8b7434:
 translate philippine sheet_26_e9bc7b55:
 
     # Arthur "Many of you have been here for years and already know our rules and customs."
-    Arthur "Kilala na ng iba sa iyo ang ating mga tuntunin at kaugalian.
+    Arthur "Kilala na ng iba sa iyo ang ating mga tuntunin at kaugalian."
 
 # game/logic/episodes_after_first/ep2/sheet_26.rpy:69
 translate philippine sheet_26_4808fd3b:
@@ -238,7 +238,7 @@ translate philippine sheet_26_8e0f1ee9:
 translate philippine sheet_26_99ad47fb:
 
     # Arthur "Also, try not to wander around the castle after midnight without a teacher."
-    Arthur "Hindi 'rin kayong lumakad sa kastilyo sa pagkatapos ng hatinggabi na walang guro.
+    Arthur "Hindi 'rin kayong lumakad sa kastilyo sa pagkatapos ng hatinggabi na walang guro."
 
 # game/logic/episodes_after_first/ep2/sheet_26.rpy:85
 translate philippine sheet_26_8970b97b:

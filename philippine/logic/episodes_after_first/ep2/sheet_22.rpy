@@ -382,11 +382,11 @@ translate philippine sheet_22_a1f20fda:
 translate philippine sheet_22_da2c0831:
 
     # ch_Name "{i}(My first magic exam...){/i}"
-    ch_Name ""{i}(Ang una kong pagsubok sa mahika...){/i}""
+    ch_Name "{i}(Ang una kong pagsubok sa mahika...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_22.rpy:158
 translate philippine sheet_22_35299b82:
 
     # ch_Name "{i}(Come on, [Name]! Let's not make it our last one!){/i}"
-    ch_Name ""{i}(Sige, [Name]! Siguraduhin natin na hindi ito ang huli!){/i}""
+    ch_Name "{i}(Sige, [Name]! Siguraduhin natin na hindi ito ang huli!){/i}"
 

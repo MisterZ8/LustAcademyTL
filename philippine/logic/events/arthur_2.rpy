@@ -490,13 +490,13 @@ translate philippine arthur_2_3_382ae55e:
 translate philippine arthur_2_3_69a82ab3:
 
     # ch_Name "{i}(Speaking of which, I wonder what I'll be doing this weekend?){/i}"
-    ch_Name ""{i}(Oo nga pala, ano ba ang gagawin ko doon?.){/i}""
+    ch_Name "{i}(Oo nga pala, ano ba ang gagawin ko doon?.){/i}"
 
 # game/logic/events/arthur_2.rpy:277
 translate philippine arthur_2_3_3591cbf9:
 
     # ch_Name "{i}(Guess I'll find out in Dale.){/i}"
-    ch_Name ""{i}(Malalaman natin.){/i}""
+    ch_Name "{i}(Malalaman natin.){/i}"
 
 # game/logic/events/arthur_2.rpy:281
 translate philippine arthur_2_3_d6a72beb:
@@ -742,7 +742,7 @@ translate philippine arthur_2_3_42a7bbc2:
 translate philippine arthur_2_3_39e2e9bd:
 
     # ch_Name "{i}(It's so peaceful. That's how any weekend should start.){/i}"
-    ch_Name ""{i}(Ang tahimik. Napakasarap ng kapayapaan.){/i}""
+    ch_Name "{i}(Ang tahimik. Napakasarap ng kapayapaan.){/i}"
 
 # game/logic/events/arthur_2.rpy:335
 translate philippine arthur_2_3_618c4214:

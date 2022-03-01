@@ -10,13 +10,13 @@ translate philippine ashlie_room_label_457043ad:
 translate philippine ashlie_room_label_67e55910:
 
     # ch_Name "{i}(Ashley's usually training around this time.){/i}"
-    ch_Name ""{i}(Nagsasanay si Ashley sa oras na ito.){/i}""
+    ch_Name "{i}(Nagsasanay si Ashley sa oras na ito.){/i}"
 
 # game/logic/locations/ashlie_room.rpy:15
 translate philippine ashlie_room_label_18dd7006:
 
     # ch_Name "{i}(I won't distract her.){/i}"
-    ch_Name ""{i}(Ayokong istorbohin siya.){/i}""
+    ch_Name "{i}(Ayokong istorbohin siya.){/i}"
 
 # game/logic/locations/ashlie_room.rpy:16
 translate philippine ashlie_room_label_02448681:
@@ -34,13 +34,13 @@ translate philippine ashlie_room_label_ad35e680:
 translate philippine ashlie_room_label_0539956b:
 
     # ch_Name "{i}(Ashley in her finest - so graceful!){/i}"
-    ch_Name ""{i}(Si Ashley sa kanyang pinakamagaling - napakarikit niya!){/i}""
+    ch_Name "{i}(Si Ashley sa kanyang pinakamagaling - napakarikit niya!){/i}"
 
 # game/logic/locations/ashlie_room.rpy:44
 translate philippine ashlie_room_label_1e136241:
 
     # ch_Name "{i}(I could watch this forever...){/i}"
-    ch_Name "{i}((Pwede kong panoorin ito magpakailanman...){/i}"
+    ch_Name "{i}(Pwede kong panoorin ito magpakailanman...){/i}"
 
 # game/logic/locations/ashlie_room.rpy:46
 translate philippine ashlie_room_label_58a2b055:
@@ -52,7 +52,7 @@ translate philippine ashlie_room_label_58a2b055:
 translate philippine ashlie_room_label_7f0478cb:
 
     # ch_Name "{i}(I'd better go.){/i}"
-    ch_Name ""{i}(Aalis na ako.){/i}""
+    ch_Name "{i}(Aalis na ako.){/i}"
 
 # game/logic/locations/ashlie_room.rpy:71
 translate philippine ashlie_room_label_de7a2503:

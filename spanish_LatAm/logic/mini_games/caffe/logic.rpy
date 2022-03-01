@@ -148,7 +148,7 @@ translate spanish_LatAm hide_all_caffe_screens_4d5b28e8:
 translate spanish_LatAm hide_all_caffe_screens_ac2a50e0:
 
     # ch_Name "I guarantee it!{w} Until next time!"
-    ch_Name "¡Te lo garantizo!"{w} ¡Hasta la próxima!
+    ch_Name "¡Te lo garantizo!{w} ¡Hasta la próxima!"
 
 # game/logic/mini_games/caffe/logic.rpy:386
 translate spanish_LatAm hide_all_caffe_screens_28fa1654:

@@ -332,7 +332,7 @@ translate spanish strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Amelie and I went to the elf settlement in the woods and returned the stolen potion. It was epic! Admittedly, the potion broke and got on Amelie in the process, but that's okay... But, it was fun."
-    new "Amelie y yo fuimos al asentamiento élfico en el bosque y recuperamos la poción robada. ¡Fue épico!" Es cierto que la poción se rompió y vertió sobre Amelie en el proceso, pero está bien... Fue divertido."
+    new "Amelie y yo fuimos al asentamiento élfico en el bosque y recuperamos la poción robada. ¡Fue épico! Es cierto que la poción se rompió y vertió sobre Amelie en el proceso, pero está bien... Fue divertido."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Now I know that we have really creepy angels living in the garden, Garden's story has come to an end."

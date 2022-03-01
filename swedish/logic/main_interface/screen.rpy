@@ -34,7 +34,7 @@ translate swedish parents_room_cupboard_2_label_48d20053:
 translate swedish parents_room_cupboard_2_label_d0276405:
 
     # ch_Name "{i}(Never undestood why Olivia needs to keep so much in her purse...){/i}"
-    ch_Name "{i}(Jag fatta aldrig varför Olivia behöver ha så myckett i hennes väska...){/i}
+    ch_Name "{i}(Jag fatta aldrig varför Olivia behöver ha så myckett i hennes väska...){/i}"
 
 # game/logic/main_interface/screen.rpy:2299
 translate swedish parents_room_cupboard_2_label_51be7498:

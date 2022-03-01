@@ -430,7 +430,7 @@ translate spanish sheet_28_from_gallery_52e4e075:
 translate spanish sheet_28_from_gallery_7154ba39:
 
     # ch_Name "We've just fucking met!"
-    ch_Name "¡Nos acabamos de conocer, joder!
+    ch_Name "¡Nos acabamos de conocer, joder!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:153
 translate spanish sheet_28_from_gallery_405b97fc:

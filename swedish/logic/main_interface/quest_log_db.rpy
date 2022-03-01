@@ -189,7 +189,7 @@ translate swedish strings:
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lily is a real diehard fan of Leonheart. She does a lot for its sake and gets thrilled when I help her with that."
     new "Lily är ett riktigt diehard fan av Leonheart. Hon gör mycket för husets skull och blir glad när jag hjälper henne."
-w
+
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Hebi"
     new ""

@@ -4,7 +4,7 @@
 translate philippine library_event_amelie_1_e6b11dbc:
 
     # ch_Name "{i}(Well, that was interesting.){/i}"
-    ch_Name {i}(Nakakaiba naman 'yun.){/i}
+    ch_Name "{i}(Nakakaiba naman 'yun.){/i}"
 
 # game/logic/events/amelie.rpy:110
 translate philippine library_event_amelie_1_7fcac337:
@@ -58,13 +58,13 @@ translate philippine library_event_amelie_1_5b464828:
 translate philippine library_event_amelie_1_b532b225:
 
     # ch_Name "{i}(But first-year students can't go there, as far as I know.){/i}"
-    ch_Name ""{i}(Pero bawal naman ang mga bagong estudyante doon.){/i}""
+    ch_Name "{i}(Pero bawal naman ang mga bagong estudyante doon.){/i}"
 
 # game/logic/events/amelie.rpy:124
 translate philippine library_event_amelie_1_a7955d2e:
 
     # ch_Name "{i}(Melissa Owlsight, huh? I wonder if Victoria's story is true.){/i}"
-    ch_Name ""{i}(Melissa Owlsight?Baka totoo ang kuwento ni Victoria.){/i}""
+    ch_Name "{i}(Melissa Owlsight?Baka totoo ang kuwento ni Victoria.){/i}"
 
 # game/logic/events/amelie.rpy:125
 translate philippine library_event_amelie_1_d5a93ad1:
@@ -76,7 +76,7 @@ translate philippine library_event_amelie_1_d5a93ad1:
 translate philippine library_event_amelie_1_1107e306:
 
     # ch_Name "{i}(Maybe someday I will find it...){/i}"
-    ch_Name "{i}(Baka mahahanap ko sa kinabukasan...){/i}""
+    ch_Name "{i}(Baka mahahanap ko sa kinabukasan...){/i}"
 
 # game/logic/events/amelie.rpy:128
 translate philippine library_event_amelie_1_c8c6099a:
@@ -88,13 +88,13 @@ translate philippine library_event_amelie_1_c8c6099a:
 translate philippine library_event_amelie_1_d2e0c226:
 
     # ch_Name "{i}(If I do remember correctly, this way leads to the garden.){/i}"
-    ch_Name "{i}(Kung tama ako, dito ang daan papuntang looban.){/i}""
+    ch_Name "{i}(Kung tama ako, dito ang daan papuntang looban.){/i}"
 
 # game/logic/events/amelie.rpy:130
 translate philippine library_event_amelie_1_14b96911:
 
     # ch_Name "{i}(There's only way to find out.){/i}"
-    ch_Name "{i}(May tanging paraan upang malaman.){/i}""
+    ch_Name "{i}(May tanging paraan upang malaman.){/i}"
 
 # game/logic/events/amelie.rpy:133
 translate philippine library_event_amelie_1_02bc8ac7:
@@ -106,31 +106,31 @@ translate philippine library_event_amelie_1_02bc8ac7:
 translate philippine library_event_amelie_1_d70755df:
 
     # ch_Name "{i}(Majestic inner garden of Cordale.){/i}"
-    ch_Name "{i}(Ang magandang looban ng Cordale.){/i}""
+    ch_Name "{i}(Ang magandang looban ng Cordale.){/i}"
 
 # game/logic/events/amelie.rpy:135
 translate philippine library_event_amelie_1_b55d19e8:
 
     # ch_Name "{i}(Now I just have to turn left and take the first door.){/i}"
-    ch_Name "{i}(Ngayon pupunta na ako sa kaliwa at magpasok sa unang pinto.){/i}""
+    ch_Name "{i}(Ngayon pupunta na ako sa kaliwa at magpasok sa unang pinto.){/i}"
 
 # game/logic/events/amelie.rpy:137
 translate philippine library_event_amelie_1_ee565322:
 
     # ch_Name "{i}(Okay, if the next door is Victoria's class, than...){/i}"
-    ch_Name "{i}(Kapag nasa kabila ang klase ni Victoria...){/i}""
+    ch_Name "{i}(Kapag nasa kabila ang klase ni Victoria...){/i}"
 
 # game/logic/events/amelie.rpy:138
 translate philippine library_event_amelie_1_ec13b235:
 
     # ch_Name "{i}(It should be this door.){/i}"
-    ch_Name "{i}(Dapat ito na.){/i}""
+    ch_Name "{i}(Dapat ito na.){/i}"
 
 # game/logic/events/amelie.rpy:145
 translate philippine library_event_amelie_1_702fc62d:
 
     # ch_Name "{i}(Wow! What an impressive library they have!){/i}"
-    ch_Name "{i}(Wow! Ang laki naman ng aklatan nila.){/i}""
+    ch_Name "{i}(Wow! Ang laki naman ng aklatan nila.){/i}"
 
 # game/logic/events/amelie.rpy:147
 translate philippine library_event_amelie_1_fbd62259:
@@ -160,13 +160,13 @@ translate philippine library_event_amelie_1_5be02d22:
 translate philippine library_event_amelie_1_7f2f4cdc:
 
     # ch_Name "{i}(Hmm. Weird.){/i}"
-    ch_Name ""{i}(Hmm. Nakakaiba naman.){/i}"
+    ch_Name "{i}(Hmm. Nakakaiba naman.){/i}"
 
 # game/logic/events/amelie.rpy:152
 translate philippine library_event_amelie_1_0f0853fe:
 
     # ch_Name "{i}(There doesn't seem to be a soul here...){/i}"
-    ch_Name ""{i}(Parang walang tao dito...){/i}"
+    ch_Name "{i}(Parang walang tao dito...){/i}"
 
 # game/logic/events/amelie.rpy:154
 translate philippine library_event_amelie_1_d007b8f0:
@@ -1240,7 +1240,7 @@ translate philippine Amelie_3_label_2a99aff0:
 translate philippine Amelie_3_label_5b2a0b3e:
 
     # Amelie "Don't go alone."
-    Amelie ""Maghintay ka.
+    Amelie "Maghintay ka."
 
 # game/logic/events/amelie.rpy:536
 translate philippine Amelie_3_label_dc19e475:
@@ -1264,7 +1264,7 @@ translate philippine Amelie_3_label_c60833b4:
 translate philippine Amelie_3_label_f927f99e:
 
     # ch_Name "{i}(I should really come here more often.){/i}"
-    ch_Name ""{i}(Babalik talaga ako dito.){/i}""
+    ch_Name "{i}(Babalik talaga ako dito.){/i}"
 
 # game/logic/events/amelie.rpy:542
 translate philippine Amelie_3_label_d8740b4e:

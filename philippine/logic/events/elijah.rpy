@@ -1660,7 +1660,7 @@ translate philippine Elijah_5_label_df4942b3:
 translate philippine Elijah_5_label_6581121a:
 
     # Willow "Your ability to sense magic is no match for ours."
-    Willow Ang iyong kakayahang makadama ng mahika ay hindi tugma sa amin."
+    Willow "Ang iyong kakayahang makadama ng mahika ay hindi tugma sa amin."
 
 # game/logic/events/elijah.rpy:642
 translate philippine Elijah_5_label_c058834e:
@@ -1726,7 +1726,7 @@ translate philippine Elijah_5_label_8db1a0b1:
 translate philippine Elijah_5_label_05b95873:
 
     # Willow "What makes you say that?"
-    Willow "Bakit masasabi mo iyam""
+    Willow "Bakit masasabi mo iyam"
 
 # game/logic/events/elijah.rpy:656
 translate philippine Elijah_5_label_6cdb3dd3:
@@ -2176,7 +2176,7 @@ translate philippine Elijah_6_label_b4343a33:
 translate philippine Elijah_6_label_83db45a6:
 
     # ch_Name "Yeah, yeah, yeah."
-    ch_Name Oo, sige, sige."
+    ch_Name "Oo, sige, sige."
 
 # game/logic/events/elijah.rpy:762
 translate philippine Elijah_6_label_a255a7f4:

@@ -478,49 +478,49 @@ translate philippine Leona_1_label_8f218625:
 translate philippine Leona_1_label_cd0d98c5:
 
     # ch_Name "What?{w} What do you mean?!"
-    ch_Name "Ano?{w} Anong ibig mong sabihin?!
+    ch_Name "Ano?{w} Anong ibig mong sabihin?!"
 
 # game/logic/events/Leona.rpy:159
 translate philippine Leona_1_label_5318742e:
 
     # Leona "Are you asking me?"
-    Leona "Tinatanong mo ako?
+    Leona "Tinatanong mo ako?"
 
 # game/logic/events/Leona.rpy:160
 translate philippine Leona_1_label_367c9894:
 
     # Leona "This is the first time I've seen a mage with such a huge pool of potential talent."
-    Leona "Ikaw ang unang salamangkero na malakas ang kakayahan at talento.
+    Leona "Ikaw ang unang salamangkero na malakas ang kakayahan at talento."
 
 # game/logic/events/Leona.rpy:161
 translate philippine Leona_1_label_d6a1c6ff:
 
     # Leona "And such a deafness to elemental magic!"
-    Leona "At bingi sa mahikang elemento!
+    Leona "At bingi sa mahikang elemento!"
 
 # game/logic/events/Leona.rpy:163
 translate philippine Leona_1_label_8c4fc11f:
 
     # ch_Name "Oh, man..."
-    ch_Name "Bwisit...
+    ch_Name "Bwisit..."
 
 # game/logic/events/Leona.rpy:164
 translate philippine Leona_1_label_91546d78:
 
     # ch_Name "What should I do then?"
-    ch_Name "Ano kaya gagawin ko?
+    ch_Name "Ano kaya gagawin ko?"
 
 # game/logic/events/Leona.rpy:165
 translate philippine Leona_1_label_978b092d:
 
     # Leona "Forget the elements!"
-    Leona "Kalimutan mo ang mga elemento!
+    Leona "Kalimutan mo ang mga elemento!"
 
 # game/logic/events/Leona.rpy:166
 translate philippine Leona_1_label_64954435:
 
     # ch_Name "How's that?"
-    ch_Name "Paano?
+    ch_Name "Paano?"
 
 # game/logic/events/Leona.rpy:168
 translate philippine Leona_1_label_f0936d8d:
@@ -544,7 +544,7 @@ translate philippine Leona_1_label_2ce98896:
 translate philippine Leona_1_label_46f655b3:
 
     # Leona "Given how tightly our souls are linked, that shouldn't be a problem."
-    Leona "Dahil sa gaano kalakas ang ating pagiisa, 'di 'yun problema.
+    Leona "Dahil sa gaano kalakas ang ating pagiisa, 'di 'yun problema."
 
 # game/logic/events/Leona.rpy:173
 translate philippine Leona_1_label_a8895f7d:
@@ -1522,19 +1522,19 @@ translate philippine Leona_1_44_label_f41b0f43:
 translate philippine Leona_1_44_label_60c10a70:
 
     # ch_Name "{i}(My whole body aches.){/i}"
-    ch_Name "{i}(Ang sakit ng katawan ko.){/i}""
+    ch_Name "{i}(Ang sakit ng katawan ko.){/i}"
 
 # game/logic/events/Leona.rpy:425
 translate philippine Leona_1_44_label_ca799e40:
 
     # ch_Name "{i}(Is it because of yesterday?){/i}"
-    ch_Name "{i}(Dahil ba sa nangyari kahapon?){/i}""
+    ch_Name "{i}(Dahil ba sa nangyari kahapon?){/i}"
 
 # game/logic/events/Leona.rpy:427
 translate philippine Leona_1_44_label_b159fa86:
 
     # ch_Name "{i}(Since when am I such a wuss?){/i}"
-    ch_Name "{i}(Kailan lang ba ako naging marupok?){/i}""
+    ch_Name "{i}(Kailan lang ba ako naging marupok?){/i}"
 
 # game/logic/events/Leona.rpy:428
 translate philippine Leona_1_44_label_05100b87:

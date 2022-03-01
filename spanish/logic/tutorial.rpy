@@ -172,7 +172,7 @@ translate spanish CordEntrance_label_7d6017ea:
 translate spanish CordEntrance_label_b2235bb4:
 
     # ch_Name "{i}(Phew, it's a good thing I didn't have time to follow him.){/i}"
-    ch_Name "{i}("Uff, menos mal que no tuve tiempo de seguirlo.){/i}"
+    ch_Name "{i}(Uff, menos mal que no tuve tiempo de seguirlo.){/i}"
 
 # game/logic/tutorial.rpy:613
 translate spanish CordEntrance_label_7ca1a037:
@@ -1486,7 +1486,7 @@ translate spanish strings:
 
     # game/logic/tutorial.rpy:19
     old "This is a calendar. With its help you can find out about all available tasks at any time of the day and easily plan your route."
-    new "Este es el calendario. Te ayudará a encontrar todas las tareas disponibles en cualquier momento del día y planificar tu ruta facilmente.
+    new "Este es el calendario. Te ayudará a encontrar todas las tareas disponibles en cualquier momento del día y planificar tu ruta facilmente."
 
     # game/logic/tutorial.rpy:19
     old "All the information about the characters available in the game is stored here: tips, hints, progress, as well as the history of the development of relationships with them."

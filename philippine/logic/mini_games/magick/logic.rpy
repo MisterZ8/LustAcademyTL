@@ -202,7 +202,7 @@ translate philippine MagicMiniGameLabel_start_633835da:
 translate philippine MagicMiniGameLabel_start_197779c1:
 
     # Victoria "Let's make the task more difficult this time..."
-    Victoria Gawin ko kayang mas mahirap ngayon..."
+    Victoria "Gawin ko kayang mas mahirap ngayon..."
 
 # game/logic/mini_games/magick/logic.rpy:1447
 translate philippine MagicMiniGameLabel_start_f323cd98:

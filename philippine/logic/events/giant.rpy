@@ -154,13 +154,13 @@ translate philippine giant_1_label_dc8b5566:
 translate philippine giant_1_label_5f829599:
 
     # ch_Name "{i}(He looks like a lunatic...){/i}"
-    ch_Name {i}(Parang baliw siya...){/i}
+    ch_Name "{i}(Parang baliw siya...){/i}"
 
 # game/logic/events/giant.rpy:69
 translate philippine giant_1_label_2255db69:
 
     # ch_Name "{i}(He also looks around to make sure we're alone...){/i}"
-    ch_Name {i}(Gusto niya na wala kaming kasama...){/i}
+    ch_Name "{i}(Gusto niya na wala kaming kasama...){/i}"
 
 # game/logic/events/giant.rpy:71
 translate philippine giant_1_label_b4589463:

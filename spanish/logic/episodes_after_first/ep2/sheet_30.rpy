@@ -70,7 +70,7 @@ translate spanish sheet_30_58d7675b:
 translate spanish sheet_30_2c1c6663:
 
     # Elijah "You are new blood. Pioneers. I believe in you."
-    Elijah "Sois sangre nueva. Pioneros. Yo creo en vosotros.
+    Elijah "Sois sangre nueva. Pioneros. Yo creo en vosotros."
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:45
 translate spanish sheet_30_5671d544:
 

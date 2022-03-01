@@ -268,7 +268,7 @@ translate philippine adele_1_label_eb238ca5:
 translate philippine adele_1_label_bd4dfb20:
 
     # Adele "And many of my fondest memories, too."
-    Adele At marami rin ng aking pinakamasayang alaala.""
+    Adele "At marami rin ng aking pinakamasayang alaala."
 
 # game/logic/events/adele.rpy:150
 translate philippine adele_1_label_04812aa3:
@@ -1210,7 +1210,7 @@ translate philippine Sadira_1_label_0ae9bcd0:
 translate philippine Sadira_1_label_cc928e25:
 
     # ch_Name "{i}(She's so flexible.){/i}"
-    ch_Name ""{i}(Nababaluktot talaga siya...){/i}""
+    ch_Name "{i}(Nababaluktot talaga siya...){/i}"
 
 # game/logic/events/adele.rpy:461
 translate philippine Sadira_1_label_5a51640a:
@@ -1288,7 +1288,7 @@ translate philippine Sadira_1_label_8ea2566b_1:
 translate philippine Sadira_1_label_76e2506f:
 
     # ch_Name "{i}(This baby know what to do with a pole, that's for sure.){/i}"
-    ch_Name ""{i}(Alam niya talagang gamitin ang poste.){/i}""
+    ch_Name "{i}(Alam niya talagang gamitin ang poste.){/i}"
 
 # game/logic/events/adele.rpy:490
 translate philippine Sadira_1_label_0ae9bcd0_4:
@@ -2038,7 +2038,7 @@ translate philippine Lucy_2_label_41a688c8:
 translate philippine Lucy_2_label_6bfccb34:
 
     # ch_Name "I think I'll pass, baby."
-    ch_Name ""Magtatanggi muna ako, baby.""
+    ch_Name "Magtatanggi muna ako, baby."
 
 # game/logic/events/adele.rpy:773
 translate philippine Lucy_2_label_1ad0aebc:
@@ -4360,7 +4360,7 @@ translate philippine vip_sadira_1_label_2_5fabf729:
 translate philippine vip_sadira_1_label_2_44ee2920:
 
     # ch_Name "{i}(But tonight, my cock will be busy with another hole.){/i}"
-    ch_Name ""{i}(Pero ngayon ibang butas ang gagamitin ko.){/i}""
+    ch_Name "{i}(Pero ngayon ibang butas ang gagamitin ko.){/i}"
 
 # game/logic/events/adele.rpy:1420
 translate philippine vip_sadira_1_label_2_12059ab5:
@@ -4990,7 +4990,7 @@ translate philippine vip_sadira_1_label_2_c7a074a4_1:
 translate philippine vip_sadira_1_label_2_f63c1e21_1:
 
     # ch_Name "Maybe so, but I've waited long enough!"
-    ch_Name ""Siyempre, pero sapat na ang paghihintay ko!""
+    ch_Name "Siyempre, pero sapat na ang paghihintay ko!"
 
 # game/logic/events/adele.rpy:1563
 translate philippine vip_sadira_1_label_2_64119992_1:
@@ -5026,7 +5026,7 @@ translate philippine vip_sadira_1_label_2_95e4d8ed:
 translate philippine vip_sadira_1_label_2_5fabf729_1:
 
     # ch_Name "{i}(The day will come when I fuck her good.){/i}"
-    ch_Name {i}(Darating ang araw na kantutin ko siya ng mabuti.){/i}
+    ch_Name "{i}(Darating ang araw na kantutin ko siya ng mabuti.){/i}"
 
 # game/logic/events/adele.rpy:1571
 translate philippine vip_sadira_1_label_2_359f73ab:
@@ -5638,7 +5638,7 @@ translate philippine Vanessa_1_label_b0412530:
 translate philippine Vanessa_1_label_76b9cc9d:
 
     # ch_Name "{i}(As if she's measuring if I'm man enough.){/i}"
-    ch_Name ""{i}(Parang sinusuri para malaman kung sapat ako para sa kanya.){/i}""
+    ch_Name "{i}(Parang sinusuri para malaman kung sapat ako para sa kanya.){/i}"
 
 # game/logic/events/adele.rpy:1723
 translate philippine Vanessa_1_label_84812b85:
@@ -6658,7 +6658,7 @@ translate philippine Vanessa_3_label_760a2e86:
 translate philippine Vanessa_3_label_a4b38f06:
 
     # ch_Name "{i}(What a fantastic ass!){/i}"
-    ch_Name ""{i}(Talagang perpekto ang pwet niya!){/i}""
+    ch_Name "{i}(Talagang perpekto ang pwet niya!){/i}"
 
 # game/logic/events/adele.rpy:2026
 translate philippine Vanessa_3_label_21464892:
@@ -8008,7 +8008,7 @@ translate philippine adele_4_label_c010be43:
 translate philippine adele_4_label_25e265a2:
 
     # Adele "I'll see you later."
-    Adele ""Magkikita tayo ulit.
+    Adele "Magkikita tayo ulit."
 
 # game/logic/events/adele.rpy:2422
 translate philippine adele_4_label_4a01fe35:

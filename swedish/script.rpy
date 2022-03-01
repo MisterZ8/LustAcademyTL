@@ -388,7 +388,7 @@ translate swedish start_input_2_eb708d4a:
 translate swedish start_input_2_1394e177:
 
     # Olivia "Pay your rent as a lodger."
-    Olivia "Betala din hyra som boende.
+    Olivia "Betala din hyra som boende."
 
 # game/script.rpy:957
 translate swedish start_input_2_306af026:
@@ -472,7 +472,7 @@ translate swedish start_input_2_0c3ee8a6:
 translate swedish start_input_2_143d02b4:
 
     # Olivia "Go into the living room and say it to Don's face."
-    Olivia "Kan du gå in i vardagsrummet och säga det i Don's ansikte.
+    Olivia "Kan du gå in i vardagsrummet och säga det i Don's ansikte."
 
 # game/script.rpy:985
 translate swedish start_input_2_82ed18d6:
@@ -610,7 +610,7 @@ translate swedish strings:
 
     # game/script.rpy:112
     old "Living Room"
-    new "Vardagsrum""
+    new "Vardagsrum"
 
     # game/script.rpy:114
     old "Girls Room 1"
@@ -698,7 +698,7 @@ translate swedish strings:
 
     # game/script.rpy:156
     old "My Bedroom"
-    new "Mitt sovrum""
+    new "Mitt sovrum"
 
     # game/script.rpy:158
     old "Olivia's Bedroom"

@@ -106,13 +106,13 @@ translate philippine end_duel_37310b9f:
 translate philippine end_duel_61eb1d29:
 
     # Jacob "Victory to the House of Leonheart!"
-    Jacob "Panalo ang Angkan ni Leonheart!
+    Jacob "Panalo ang Angkan ni Leonheart!"
 
 # game/logic/mini_games/duels/logic.rpy:2559
 translate philippine end_duel_9a6c67b5:
 
     # Jacob "Great job! That's all for today."
-    Jacob "Mabuti! 'Yan lang para sa araw na ito.
+    Jacob "Mabuti! 'Yan lang para sa araw na ito."
 
 # game/logic/mini_games/duels/logic.rpy:2561
 translate philippine end_duel_9af6ed18:
