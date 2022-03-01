@@ -28,7 +28,7 @@ translate hungarian fishing_start_5367360f:
 translate hungarian fishing_start_1b05426e:
 
     # Gordon "Now that's what I'm talking about! This fish already looks delicious!"
-    Gordon Na erről beszélek! Ez a hal finomnak néz ki!""
+    Gordon "Na erről beszélek! Ez a hal finomnak néz ki!"
 
 # game/logic/mini_games/fishing/logic.rpy:155
 translate hungarian fishing_start_bc0c6344:

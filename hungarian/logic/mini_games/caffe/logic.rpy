@@ -160,7 +160,7 @@ translate hungarian hide_all_caffe_screens_28fa1654:
 translate hungarian hide_all_caffe_screens_fd7e2229:
 
     # Molly "Are you sick?"
-    Molly "Beteg vagy?
+    Molly "Beteg vagy?"
 
 # game/logic/mini_games/caffe/logic.rpy:388
 translate hungarian hide_all_caffe_screens_081376df:

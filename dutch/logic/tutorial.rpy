@@ -1466,7 +1466,7 @@ translate dutch strings:
 
     # game/logic/tutorial.rpy:19
     old "If you want to accelerate the events, click on the \"Skip Time\" button, which is available in any location between scenes"
-    new "Als je de gebeurtenissen wilt versnellen, klik je op de \"Tijd Overslaan" knop, die op elke locatie tussen scènes beschikbaar is.\"
+    new "Als je de gebeurtenissen wilt versnellen, klik je op de \"Tijd Overslaan\" knop, die op elke locatie tussen scènes beschikbaar is."
 
     # game/logic/tutorial.rpy:19
     old "Whenever you feel stuck or don’t know what to do you can check out this panel to find out about the current quest!"

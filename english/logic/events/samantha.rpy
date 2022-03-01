@@ -3520,7 +3520,7 @@ translate english Samantha_8_label_56d8bda1:
 translate english Samantha_8_label_6fdb2ae3:
 
     # Samantha "Are you feel more comfortable now?"
-    Samantha "Are you feeling more comfortable now?""
+    Samantha "Are you feeling more comfortable now?"
 
 # game/logic/events/samantha.rpy:1153
 translate english Samantha_8_label_9d605495:
@@ -4018,7 +4018,7 @@ translate english Samantha_9_label_2ae07ed1:
 translate english Samantha_9_label_9ada3dc2:
 
     # Samantha "Remember how you used to massage me when I'd come over after dance?"
-    Samantha Remember how you used to massage me when I'd come home after dance?""
+    Samantha "Remember how you used to massage me when I'd come home after dance?"
 
 # game/logic/events/samantha.rpy:1277
 translate english Samantha_9_label_31d79bb4:

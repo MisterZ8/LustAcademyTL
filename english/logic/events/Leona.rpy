@@ -1282,7 +1282,7 @@ translate english Leona_1_label_4836d573:
 translate english Leona_1_label_8e596bca:
 
     # ch_Name "{i}(But I am now...){/i}"
-    ch_Name {i}(But now I'm...){/i}""
+    ch_Name "{i}(But now I'm...){/i}"
 
 # game/logic/events/Leona.rpy:351
 translate english Leona_1_label_0b7853c7:

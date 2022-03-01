@@ -1840,7 +1840,7 @@ translate french test_sheet_28_face_ee3a39a2:
 translate french sheet_28_1_266_19e2785f:
 
     # ch_Name "Here it comes!"
-    ch_Name ""C'est parti!"
+    ch_Name "C'est parti!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:637
 translate french sheet_28_1_266_18b427d7:

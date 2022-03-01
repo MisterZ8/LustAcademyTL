@@ -616,7 +616,7 @@ translate french CordGarden_label_feb7664c_1:
 translate french CordGarden_label_782b8053_1:
 
     # Joshi "And on the right is the cafe and Sabrina's class."
-    Joshi "Et à droite, le café et la classe de Sabrina.
+    Joshi "Et à droite, le café et la classe de Sabrina."
 
 # game/logic/tutorial.rpy:726
 translate french CordGarden_label_03c9e045_1:

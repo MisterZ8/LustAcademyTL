@@ -5928,7 +5928,7 @@ translate italian Leona_5_label_from_gallery_c9b23224:
 translate italian Leona_5_label_from_gallery_0dafb7c7:
 
     # ch_Name "Ah! Oh yes!" with flash
-    ch_Name "Ah! Ohhh" Siii!!" with flash
+    ch_Name "Ah! Ohhh Siii!" with flash
 
 # game/logic/events/Leona.rpy:1613
 translate italian Leona_5_label_from_gallery_7bb6bb07:

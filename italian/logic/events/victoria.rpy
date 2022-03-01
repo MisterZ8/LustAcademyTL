@@ -898,7 +898,7 @@ translate italian Victoria_2_label_8da27ef0:
 translate italian Victoria_2_label_3416e1fd:
 
     # ch_Name "{i}(Go to Cordale, they said... Being a wizard is fun, they said...){/i}"
-    ch_Name "{i}(Vai a Cordale, dicevano... Essere un mago è divertente, dicevano...){/i}
+    ch_Name "{i}(Vai a Cordale, dicevano... Essere un mago è divertente, dicevano...){/i}"
 
 # game/logic/events/victoria.rpy:456
 translate italian Victoria_2_label_70adf98e:
@@ -1717,7 +1717,7 @@ translate italian Victoria_5_label_6671f384:
     Victoria "La lezione inizia!"
 
 # game/logic/events/victoria.rpy:695
-translate italian Victoria_5_label_d096d369:	
+translate italian Victoria_5_label_d096d369:
 
     # Victoria "Class! Turn to page 42 of the Magic Fundamentals textbook."
     Victoria "Andate alla pagina 42 del libro Findamenti di Magia."
@@ -3314,7 +3314,7 @@ translate italian Victoria_9_label_a5fc4edd:
 
 # game/logic/events/victoria.rpy:1155
 translate italian Victoria_9_label_b95b78f4:
-.
+
     # Victoria "Hope that wasn't boring."
     Victoria "Spero che non sia stato noioso anche questo."
 
@@ -3419,7 +3419,7 @@ translate italian Victoria_9_label_cde4fe06_1:
 
     # Victoria "It's as if a tree sprouted inside your balloon."
     Victoria "Come se fosse un albero che germoglia."
-	
+
 # game/logic/events/victoria.rpy:1183
 translate italian Victoria_9_label_ec09f556_1:
 
@@ -3431,7 +3431,7 @@ translate italian Victoria_9_label_26279e32_1:
 
     # Victoria "And its contents gently rain on the wounds of your target."
     Victoria "E il contenuto si spanda gentilmente sulle ferite."
-	
+
 # game/logic/events/victoria.rpy:1186
 translate italian Victoria_9_label_84f35512:
 

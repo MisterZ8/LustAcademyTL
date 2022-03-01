@@ -814,7 +814,7 @@ translate french Victoria_2_label_b563b4b5:
 translate french Victoria_2_label_28c13f23:
 
     # Victoria "Open the textbook Fundamentals of Magic, page 16."
-    Victoria "Ouvrez le manuel "Principes fondamentaux de la magie", page 16."
+    Victoria "Ouvrez le manuel \"Principes fondamentaux de la magie\", page 16."
 
 # game/logic/events/victoria.rpy:432
 translate french Victoria_2_label_3d8c9398:

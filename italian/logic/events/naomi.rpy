@@ -1019,7 +1019,7 @@ translate italian Naomi_3_label_d279bc06:
 
     # ch_Name "Is it really you Naomi, or am I talking to a doppelganger?"
     ch_Name "Sei tu, Naomi, o sto parlando con un sosia?"
-	
+
 # game/logic/events/naomi.rpy:581
 translate italian Naomi_3_label_df3b3f9b:
 
@@ -1043,7 +1043,7 @@ translate italian Naomi_3_label_a8d4e7ac:
 
     # Naomi "Oh, that's what you're talking about. You're not offended, are you?"
     Naomi "Ah, questo intendevi. Non ti sei offeso, vero?"
-	
+
 # game/logic/events/naomi.rpy:587
 translate italian Naomi_3_label_2424fa91:
 

@@ -695,7 +695,7 @@ translate italian Elijah_3_label_39_9168f2fe:
 
     # Elijah "So, anyway, what I'm asking is..."
     Elijah "Ma quel che voglio chiedere è..."
-	
+
 # game/logic/events/elijah.rpy:367
 translate italian Elijah_3_label_39_7a6ef562:
 

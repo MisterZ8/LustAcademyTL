@@ -2156,7 +2156,7 @@ translate italian strings:
 
     # game/logic/events/jill.rpy:14
     old "3 Order a massage"
-    old "3 Chiedi a massage"
+    new "3 Chiedi a massage"
 
     # game/logic/events/jill.rpy:287
     old "Tease her"

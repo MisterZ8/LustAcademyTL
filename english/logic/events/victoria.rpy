@@ -3376,7 +3376,7 @@ translate english Victoria_9_label_aa2e3956:
 translate english Victoria_9_label_2c082ce7:
 
     # ch_Name "Is it supposed to be so?"
-    ch_Name ""Is it supposed to be like this?"
+    ch_Name "Is it supposed to be like this?"
 
 # game/logic/events/victoria.rpy:1174
 translate english Victoria_9_label_caf4e6f9:

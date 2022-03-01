@@ -226,7 +226,7 @@ translate french sheet_21_35e74dcd:
 translate french sheet_21_d89a56f7:
 
     # ch_Name "Hey Haley! "
-    ch_Name ""Hé Haley!"
+    ch_Name "Hé Haley!"
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:81
 translate french sheet_21_ef40a100:

@@ -128,7 +128,7 @@ translate hungarian strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Once William Shakespeare said \"I like this place and could willingly waste my time in it\", and that's exactly how I feel about my library. I can even call it \"second home\" - cannot even imagine my life without it. I want belong here and I do belong here - everything is in place."
-    new "Egyszer William Shakespeare azt mondta: "Szeretem ezt a helyet, és szívesen vesztegetmém itt az időmet", és pontosan ezt érzem a könyvtárammal kapcsolatban. Akár \"második otthonnak\" is nevezhetem – el sem tudom képzelni nélküle az életem. Ide akarok tartozni, és ide tartozom – minden a helyén van.""
+    new "Egyszer William Shakespeare azt mondta: \"Szeretem ezt a helyet, és szívesen vesztegetmém itt az időmet\", és pontosan ezt érzem a könyvtárammal kapcsolatban. Akár \"második otthonnak\" is nevezhetem – el sem tudom képzelni nélküle az életem. Ide akarok tartozni, és ide tartozom – minden a helyén van."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Victoria:{/b} Beautifully said! 🥰"
@@ -236,7 +236,7 @@ translate hungarian strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "\"Stop and look at yourself in the mirror. Are you happy with what you see?\""
-    new "\"Állj és nézd meg magad a tükörben. Boldog vagy attól amit látsz?\"
+    new "\"Állj és nézd meg magad a tükörben. Boldog vagy attól amit látsz?\""
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Mom gave me that advice when I turned 12. I was chubby kid. I was not happy."

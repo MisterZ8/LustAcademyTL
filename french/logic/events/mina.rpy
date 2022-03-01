@@ -280,7 +280,7 @@ translate french mina_1_label_44_218d18c1:
 translate french mina_1_label_44_a76d3917:
 
     # ch_Name "{i}(It's good to know I won't have to sleep on the streets.){/i}"
-    ch_Name ""{i}(C'est bon de savoir que je n'aurai pas à dormir dans la rue.){/i}"
+    ch_Name "{i}(C'est bon de savoir que je n'aurai pas à dormir dans la rue.){/i}"
 
 # game/logic/events/mina.rpy:105
 translate french mina_1_label_44_980b7020:

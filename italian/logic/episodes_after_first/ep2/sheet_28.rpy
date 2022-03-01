@@ -1504,7 +1504,7 @@ translate italian sheet_28_1_262_16_d80fe688:
 translate italian sheet_28_1_262_16_dd382f24:
 
     # ch_Name "{i}(If that's so good I wonder how sex feels...){/i}"
-    ch_Name {i}(Chissà come deve essere fare l'amore con loro...){/i}""
+    ch_Name "{i}(Chissà come deve essere fare l'amore con loro...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:523
 translate italian sheet_28_1_262_16_80cea173:

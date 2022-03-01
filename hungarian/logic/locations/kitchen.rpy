@@ -106,7 +106,7 @@ translate hungarian i_1_023_test_cf64e908:
 translate hungarian i_1_023_test_4fd49e85:
 
     # ch_Name "They're going to rob me blind with their new business plan."
-    ch_Name "Úgy fognak kirabolni ezzel a "biznisz"  tervükkel, hogy észre se veszem."
+    ch_Name "Úgy fognak kirabolni ezzel a \"biznisz\"  tervükkel, hogy észre se veszem."
 
 # game/logic/locations/kitchen.rpy:67
 translate hungarian i_1_023_test_f93edfa8:

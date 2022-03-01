@@ -22,7 +22,7 @@ translate hungarian ashlie_room_label_18dd7006:
 translate hungarian ashlie_room_label_02448681:
 
     # ch_Name "{i}(Although I could sneak a peek...){/i}"
-    ch_Name {i}Habár benézhetek egy picit...){/i}""
+    ch_Name "{i}(Habár benézhetek egy picit...){/i}"
 
 # game/logic/locations/ashlie_room.rpy:42
 translate hungarian ashlie_room_label_ad35e680:

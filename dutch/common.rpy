@@ -76,8 +76,7 @@ translate dutch strings:
 
     # renpy/common/00accessibility.rpy:158
     old "Line Spacing Scaling"
-    new "Regelafstand schalen
-"
+    new "Regelafstand schalen"
 
     # renpy/common/00accessibility.rpy:171
     old "Self-Voicing"
