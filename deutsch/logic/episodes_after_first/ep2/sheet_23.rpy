@@ -106,7 +106,7 @@ translate deutsch sheet_23_menu_2_171d3537:
 translate deutsch sheet_23_ashley_157c71fb:
 
     # ch_Name "{i}(Fiery Ashley can ignite my passion any day anytime!){/i}"
-    ch_Name "{i}(Die feurige Ashley kann meine Leidenschaft jeden Tag und jederzeit entfachen!){/i}
+    ch_Name "{i}(Die feurige Ashley kann meine Leidenschaft jeden Tag und jederzeit entfachen!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_23.rpy:70
 translate deutsch sheet_23_olivia_b34ec7f3:

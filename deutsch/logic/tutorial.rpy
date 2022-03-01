@@ -1276,7 +1276,7 @@ translate deutsch CordMainHall_label_acb75231:
 translate deutsch CordMainHall_label_2d4b4444:
 
     # Arthur "You're welcome. We're here to educate you."
-    Arthur "Kein Problem. Wir sind hier, um Sie zu unterrichten.""
+    Arthur "Kein Problem. Wir sind hier, um Sie zu unterrichten."
 
 # game/logic/tutorial.rpy:904
 translate deutsch CordMainHall_label_d2a747bb:

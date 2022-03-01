@@ -1168,7 +1168,7 @@ translate brazilian arthur_2_3_fc6b4958:
 translate brazilian arthur_2_3_176569fa:
 
     # ch_Name "{i}(Don't want it to ruin my weekend.){/i}"
-    ch_Name ""{i}(Não quero estragar meu fim de semana.){/i}
+    ch_Name "{i}(Não quero estragar meu fim de semana.){/i}"
 
 # game/logic/events/arthur_2.rpy:480
 translate brazilian arthur_2_5_b2558151:

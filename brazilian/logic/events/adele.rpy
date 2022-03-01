@@ -3208,7 +3208,7 @@ translate brazilian vip_lucy_1_label_2_4a6f830b:
 translate brazilian vip_lucy_1_label_2_4fc098f8:
 
     # Lucy "I hope you visit us often."
-    Lucy "" Espero que nos visite com frequência.
+    Lucy "Espero que nos visite com frequência."
 
 # game/logic/events/adele.rpy:1081
 translate brazilian vip_lucy_1_label_2_3a79dc8f:
@@ -6580,7 +6580,7 @@ translate brazilian Vanessa_3_label_c775abd5:
 translate brazilian Vanessa_3_label_2e7e0b94:
 
     # ch_Name "{i}(God, I can admire the view of these legs forever!){/i}"
-    ch_Name ""{i}(Deus, poderia admirar a visão dessas pernas para sempre!){i}
+    ch_Name "{i}(Deus, poderia admirar a visão dessas pernas para sempre!){i}"
 
 # game/logic/events/adele.rpy:2007
 translate brazilian Vanessa_3_label_37a2f2b3:

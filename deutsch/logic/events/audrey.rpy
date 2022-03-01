@@ -1618,7 +1618,7 @@ translate deutsch Audrey_7_label_from_gallery_9de6f63b:
 translate deutsch Audrey_7_label_from_gallery_74ebce9c:
 
     # ch_Name "Sure."
-    ch_Name Ja, sicher.""
+    ch_Name "Ja, sicher."
 
 # game/logic/events/audrey.rpy:614
 translate deutsch Audrey_7_label_from_gallery_c41f1ae4_1:

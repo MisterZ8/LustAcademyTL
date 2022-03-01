@@ -1384,7 +1384,7 @@ translate brazilian scene_16_f8a9f0cd:
 translate brazilian scene_16_f77030b1:
 
     # ch_Name "{i}(The wiki says this is an ivy league elite educational institution.){/i}"
-    ch_Name ""{i}(A wiki dizia que era uma instituição de altíssimo nível educacional.){/i}
+    ch_Name "{i}(A wiki dizia que era uma instituição de altíssimo nível educacional.){/i}"
 
 # game/logic/locations/corridor.rpy:713
 translate brazilian scene_16_32aff761:
@@ -1918,7 +1918,7 @@ translate brazilian test_choice_menu_88ac51e1:
 translate brazilian test_choice_menu_b8318c32:
 
     # ch_Name "{i}(Shall I take a closer look at you?){/i}"
-    ch_Name ""{i}(Deixa eu lhe olhar mais de perto?){/i}
+    ch_Name "{i}(Deixa eu lhe olhar mais de perto?){/i}"
 
 # game/logic/locations/corridor.rpy:1029
 translate brazilian test_choice_menu_7634ea46:
@@ -2020,7 +2020,7 @@ translate brazilian train_not_too_big_90ebcc12:
 translate brazilian train_not_too_big_811c5148:
 
     # ch_Name "{i}(Even though I'm afraid to wake you up, Haley...){/i}"
-    ch_Name "{i}(Mesmo estando com medo de lhe acordar, Haley...){/i}""
+    ch_Name "{i}(Mesmo estando com medo de lhe acordar, Haley...){/i}"
 
 # game/logic/locations/corridor.rpy:1134
 translate brazilian train_not_too_big_94c3c904:

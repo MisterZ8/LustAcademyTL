@@ -646,7 +646,7 @@ translate brazilian Jacob_1_label_260c6984:
 translate brazilian Jacob_1_label_a48eaa6e:
 
     # ch_Name "{i}(Phew! I was almost sure I'd miss him because of the work.){/i}"
-    ch_Name ""{i}(Ufa! Tinha quase certeza que não ia alcançar ele por causa do trabalho.){/i}
+    ch_Name "{i}(Ufa! Tinha quase certeza que não ia alcançar ele por causa do trabalho.){/i}"
 
 # game/logic/events/jacob.rpy:273
 translate brazilian Jacob_1_label_2913d24d:

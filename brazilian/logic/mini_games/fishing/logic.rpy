@@ -16,7 +16,7 @@ translate brazilian fishing_start_ff6f4082:
 translate brazilian fishing_start_35bfd362:
 
     # Gordon "All right, just like we agreed, $ per fish."
-    Gordon "Ta certo, como acertamos, $ por peixe.
+    Gordon "Ta certo, como acertamos, $ por peixe."
 
 # game/logic/mini_games/fishing/logic.rpy:149
 translate brazilian fishing_start_5367360f:
