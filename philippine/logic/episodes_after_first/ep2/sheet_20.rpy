@@ -4,7 +4,7 @@
 translate philippine sheet_20_a45e0d62:
 
     # Jacob "Welcome to the Cordale Academy of Magic and Wizardry!"
-    Jacob "Maligayang pagbati sa Cordale Academy ng Mahika ang Salamangka!"
+    Jacob "Maligayang pagbati sa CoCordale Academy of Magic and Wizardry!"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:5
 translate philippine sheet_20_c3b06147:
@@ -472,7 +472,7 @@ translate philippine sheet_20_menu_1_ans_1_988ac9dc:
 translate philippine sheet_20_menu_1_ans_1_b78a347c:
 
     # ch_Name "{i}(I am 99%% sure Don and Olivia know what's going on...){/i}"
-    ch_Name "{i}(Sigurado ako, 99%, na alam nina Don at Olivia ang nangyayari...){/i}"
+    ch_Name "{i}(Sigurado ako, 99%%, na alam nina Don at Olivia ang nangyayari...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:207
 translate philippine sheet_20_menu_1_ans_1_cb2df23a:
