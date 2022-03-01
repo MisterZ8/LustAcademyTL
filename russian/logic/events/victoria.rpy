@@ -628,7 +628,7 @@ translate russian Victoria_1_label_d963d3a1:
 translate russian Victoria_1_label_bcc7c10f:
 
     # ch_Name "I want to discover my source soon!"
-    ch_Name Я хочу найти свой источник как можно скорее!""
+    ch_Name "Я хочу найти свой источник как можно скорее!"
 
 # game/logic/events/victoria.rpy:378
 translate russian Victoria_1_label_84e820bb:
@@ -1348,7 +1348,7 @@ translate russian Victoria_3_label_22_a9d10fda:
 translate russian Victoria_3_label_22_ab09f47f:
 
     # Victoria "Oh, it all makes sense to me then."
-    Victoria О, тогда мне все ясно.""
+    Victoria "О, тогда мне все ясно."
 
 # game/logic/events/victoria.rpy:598
 translate russian Victoria_3_label_22_bc99e26d:

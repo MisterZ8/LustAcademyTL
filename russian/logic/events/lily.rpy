@@ -634,7 +634,7 @@ translate russian Lily_2_label_ce09f520:
 translate russian Lily_2_label_efa98234:
 
     # Lily "And it's something to do in our spare time! Awesome!"
-    Lily И это то, чем можно заниматься в свободное время! Потрясно!""
+    Lily "И это то, чем можно заниматься в свободное время! Потрясно!"
 
 # game/logic/events/lily.rpy:387
 translate russian Lily_2_label_be820b7a:
@@ -898,7 +898,7 @@ translate russian Lily_3_label_8_e9202f3b:
 translate russian Lily_3_label_8_3c03e3f1:
 
     # Lily "I know a way to not only earn points for us but also..."
-    Lily Я знаю способ не только заработать баллы для нас, но и...""
+    Lily "Я знаю способ не только заработать баллы для нас, но и..."
 
 # game/logic/events/lily.rpy:472
 translate russian Lily_3_label_8_283ca0b0:
@@ -1282,19 +1282,19 @@ translate russian Lily_4_label_26250f38:
 translate russian Lily_4_label_82619c09:
 
     # ch_Name "In front of everybody?"
-    ch_Name "У всех на виду?
+    ch_Name "У всех на виду?"
 
 # game/logic/events/lily.rpy:582
 translate russian Lily_4_label_08749121:
 
     # Lily "Oh... Yeah, you're right."
-    Lily "Ох... Да, ты прав.
+    Lily "Ох... Да, ты прав."
 
 # game/logic/events/lily.rpy:583
 translate russian Lily_4_label_ffe8573a:
 
     # Lily "I'm just a little busy right now."
-    Lily "Просто я сейчас немного занята.
+    Lily "Просто я сейчас немного занята."
 
 # game/logic/events/lily.rpy:585
 translate russian Lily_4_label_bc47754b:

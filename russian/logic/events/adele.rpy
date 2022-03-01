@@ -886,7 +886,7 @@ translate russian adele_1_label_4981d26b_1:
 translate russian adele_1_label_c54845d6_2:
 
     # Guy "One more round for me and my friends, baby!"
-    Guy "Еще по одной мне и моим друзьям, детка""
+    Guy "Еще по одной мне и моим друзьям, детка"
 
 # game/logic/events/adele.rpy:309
 translate russian adele_1_label_be93246b:
@@ -1012,7 +1012,7 @@ translate russian adele_2_label_6945e173:
 translate russian adele_2_label_a7b8d4a7:
 
     # Adele "The most comfortable and secluded place in our club."
-    Adele "Самое комфортное и уединенное место в нашем клубе.
+    Adele "Самое комфортное и уединенное место в нашем клубе."
 
 # game/logic/events/adele.rpy:361
 translate russian adele_2_label_ddc80dc8:
@@ -2518,7 +2518,7 @@ translate russian vip_lucy_1_label_1_1f9e0e83:
 translate russian vip_lucy_1_label_1_24f98e8c:
 
     # ch_Name "It's not over yet!"
-    ch_Name "Это еще не все""
+    ch_Name "Это еще не все"
 
 # game/logic/events/adele.rpy:923
 translate russian vip_lucy_1_label_1_a4fbb1a2:
