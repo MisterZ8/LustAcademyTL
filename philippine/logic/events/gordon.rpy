@@ -4,31 +4,31 @@
 translate philippine Gordon_1_label_0f378180:
 
     # ch_Name "{i}(This must be a local store.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tindahan siguro ito.){/i}"
 
 # game/logic/events/gordon.rpy:75
 translate philippine Gordon_1_label_91ca2eee:
 
     # ch_Name "{i}(It's seems like a nice place.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mukhang maayos naman nga lugar.){/i}"
 
 # game/logic/events/gordon.rpy:76
 translate philippine Gordon_1_label_358ca595:
 
     # ch_Name "{i}(I bet you can get a lot of useful stuff here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Siguradong makakabili ako ng anuman sa loob.){/i}"
 
 # game/logic/events/gordon.rpy:78
 translate philippine Gordon_1_label_00e59318:
 
     # ch_Name "{i}(But who do you get it from?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pero mula saan?){/i}"
 
 # game/logic/events/gordon.rpy:79
 translate philippine Gordon_1_label_0544583a:
 
     # ch_Name "{i}(Weird, the place isn't closed, but no one's here...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kakaiba naman. Hindi sarado, pero walang tao...){/i}"
 
 # game/logic/events/gordon.rpy:80
 translate philippine Gordon_1_label_b18cca75:
@@ -40,139 +40,139 @@ translate philippine Gordon_1_label_b18cca75:
 translate philippine Gordon_1_label_e14ab2cb:
 
     # ch_Name "Anybody here?"
-    ch_Name ""
+    ch_Name "May tao ba?"
 
 # game/logic/events/gordon.rpy:83
 translate philippine Gordon_1_label_3851b376:
 
     # ch_Name "HELLO! ANYBODY HERE ALIVE?!"
-    ch_Name ""
+    ch_Name "HELLO! MAY TAO BA DITO?!"
 
 # game/logic/events/gordon.rpy:84
 translate philippine Gordon_1_label_3fb6f22a:
 
     # UnknownGordon "Yell in your own ears!"
-    UnknownGordon ""
+    UnknownGordon "'Wag kang sumigaw!"
 
 # game/logic/events/gordon.rpy:85
 translate philippine Gordon_1_label_acadc5ed:
 
     # ch_Name "{i}(Who said that?!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sino ba ang nagsalita?!){/i}"
 
 # game/logic/events/gordon.rpy:88
 translate philippine Gordon_1_label_493fbd98:
 
     # ch_Name "{i}(Where is he?!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Saan siya?!){/i}"
 
 # game/logic/events/gordon.rpy:90
 translate philippine Gordon_1_label_dce3eb29:
 
     # UnknownGordon "Can't you see everyone's busy?!"
-    UnknownGordon ""
+    UnknownGordon "'Di mo ba makikita na may ginagawa ang lahat?!"
 
 # game/logic/events/gordon.rpy:91
 translate philippine Gordon_1_label_f94e9d69:
 
     # UnknownGordon "As usuall with young people, no respect."
-    UnknownGordon ""
+    UnknownGordon "Ang mga binata ngayon, wala talagang respeto."
 
 # game/logic/events/gordon.rpy:92
 translate philippine Gordon_1_label_6e6f0932:
 
     # UnknownGordon "Can't you wait a minute?!"
-    UnknownGordon ""
+    UnknownGordon "'Di ka ba makakahintay?!"
 
 # game/logic/events/gordon.rpy:93
 translate philippine Gordon_1_label_9c4c0003:
 
     # ch_Name "{i}(What kind of creature is that? Is that a real dwarf?!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Anong klaseng tao siya? Bulilit ba siya?!){/i}"
 
 # game/logic/events/gordon.rpy:94
 translate philippine Gordon_1_label_731fa8dc:
 
     # UnknownGordon "Well, why aren't you talking now? Did you lose your voice?"
-    UnknownGordon ""
+    UnknownGordon "Bakit hindi ka na nagsasalita? Nawala ba ang boses mo?"
 
 # game/logic/events/gordon.rpy:96
 translate philippine Gordon_1_label_0849d1c6:
 
     # UnknownGordon "What did you want?"
-    UnknownGordon ""
+    UnknownGordon "Ano ang gusto mo?"
 
 # game/logic/events/gordon.rpy:97
 translate philippine Gordon_1_label_632dfc54:
 
     # ch_Name "This is... It's a store, isn't it?"
-    ch_Name ""
+    ch_Name "Tindahan ito... Diba?"
 
 # game/logic/events/gordon.rpy:98
 translate philippine Gordon_1_label_202d19cd:
 
     # UnknownGordon "A store? Huh!"
-    UnknownGordon ""
+    UnknownGordon "Tindahan? Huh!"
 
 # game/logic/events/gordon.rpy:99
 translate philippine Gordon_1_label_dd55f052:
 
     # UnknownGordon "I'm Gordon Chompsky."
-    UnknownGordon ""
+    UnknownGordon "Ako si Gordon Chompsky."
 
 # game/logic/events/gordon.rpy:101
 translate philippine Gordon_1_label_26f50841:
 
     # Gordon "And this is Chompsky's shop. Best store in Dale."
-    Gordon ""
+    Gordon "At ito ang Chompsky's. Ang pinakamahusay na tindahan sa Dale."
 
 # game/logic/events/gordon.rpy:102
 translate philippine Gordon_1_label_544aa220:
 
     # ch_Name "Is that so?"
-    ch_Name ""
+    ch_Name "Talaga?"
 
 # game/logic/events/gordon.rpy:103
 translate philippine Gordon_1_label_967614f0:
 
     # Gordon "Of course it's so. Dwarves never lie!"
-    Gordon ""
+    Gordon "Siyempre. 'Di nagsisinungaling ang mga bulilit!"
 
 # game/logic/events/gordon.rpy:104
 translate philippine Gordon_1_label_94fee53f:
 
     # Gordon "That's why we make such great salesmen."
-    Gordon ""
+    Gordon "Kaya magaling kami sa pagiging tindero."
 
 # game/logic/events/gordon.rpy:106
 translate philippine Gordon_1_label_7b3b93c9:
 
     # Gordon "What are you standing there for? "
-    Gordon ""
+    Gordon "Bakit tumatayo ka lang diyan?"
 
 # game/logic/events/gordon.rpy:107
 translate philippine Gordon_1_label_000224c0:
 
     # Gordon "Look around, pick, choose, ask, pay!"
-    Gordon ""
+    Gordon "Tignan mo, pumili ka, magtanong, at magbayad!"
 
 # game/logic/events/gordon.rpy:108
 translate philippine Gordon_1_label_76f3e6df:
 
     # ch_Name "I'm just looking around. I don't know what I want."
-    ch_Name ""
+    ch_Name "Tumitingin lang ako. 'Di ko pa alam ang gusto kong bilhin."
 
 # game/logic/events/gordon.rpy:109
 translate philippine Gordon_1_label_92a4c1f1:
 
     # ch_Name "I'm from Cordale. Our house won the competition this week."
-    ch_Name ""
+    ch_Name "Mula ako sa Cordale. Nanalo kami sa paligsahan ngayong linggo."
 
 # game/logic/events/gordon.rpy:110
 translate philippine Gordon_1_label_e7a327c0:
 
     # Gordon "Whoa. What are you, an apprentice or something?"
-    Gordon ""
+    Gordon "Whoa. Ano ka ba, isang baguhan?"
 
 # game/logic/events/gordon.rpy:112
 translate philippine Gordon_1_label_ef00ff08:
@@ -184,43 +184,43 @@ translate philippine Gordon_1_label_ef00ff08:
 translate philippine Gordon_1_label_bfd37f27:
 
     # Gordon "I love wizards! Your kind knows a good ingredient. Pays good money."
-    Gordon ""
+    Gordon "Mahilig ako sa mga wizard! Alam ng tipo mo ang mga magandang sangkap. Nagbabayad ng magandang pera."
 
 # game/logic/events/gordon.rpy:114
 translate philippine Gordon_1_label_0806f386:
 
     # Gordon "Not all of them, some of them are assholes..."
-    Gordon ""
+    Gordon "'Di naman lahat, ang iba ay mga gago..."
 
 # game/logic/events/gordon.rpy:115
 translate philippine Gordon_1_label_402cad0a:
 
     # Gordon "But you look like a good guy!"
-    Gordon ""
+    Gordon "Pero mukhang mabuti ka naman!"
 
 # game/logic/events/gordon.rpy:116
 translate philippine Gordon_1_label_d4432673:
 
     # ch_Name "Thanks. I guess."
-    ch_Name ""
+    ch_Name "Salamat."
 
 # game/logic/events/gordon.rpy:118
 translate philippine Gordon_1_label_68244ec3:
 
     # Gordon "Willow! Willow! Baby, come here!"
-    Gordon ""
+    Gordon "Willow! Willow! Halika!"
 
 # game/logic/events/gordon.rpy:119
 translate philippine Gordon_1_label_a023c470:
 
     # Gordon "We got a wizard in the house!"
-    Gordon ""
+    Gordon "May salamangkero dito!"
 
 # game/logic/events/gordon.rpy:123
 translate philippine Gordon_1_label_7f109fc9:
 
     # ch_Name "{i}(Whom is he talking too?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sino ang kinakausap niya?){/i}"
 
 # game/logic/events/gordon.rpy:132
 translate philippine Gordon_1_label_bdf49396:
@@ -232,79 +232,79 @@ translate philippine Gordon_1_label_bdf49396:
 translate philippine Gordon_1_label_889bfdfa:
 
     # ch_Name "{i}(Whoa! Where did she come from?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Whoa! Saan ba siya nanggaling?){/i}"
 
 # game/logic/events/gordon.rpy:136
 translate philippine Gordon_1_label_c61c4134:
 
     # ch_Name "{i}(And what kind of creature is that, anyway? Is she a dwarf, too?){/i}"
-    ch_Name ""
+    ch_Name "{i}(At anong klase ng tao siya? Bulilit rin ba siya?){/i}"
 
 # game/logic/events/gordon.rpy:138
 translate philippine Gordon_1_label_643a4b37:
 
     # Willow "Father, you called for me?"
-    Willow ""
+    Willow "Papa, tinawag mo ba ako?"
 
 # game/logic/events/gordon.rpy:139
 translate philippine Gordon_1_label_6bb411cc:
 
     # Gordon "Willow is my treasure, my blood."
-    Gordon ""
+    Gordon "Si Willow ang aking kayamanan, aking dugo."
 
 # game/logic/events/gordon.rpy:140
 translate philippine Gordon_1_label_10083ee2:
 
     # Gordon "She's half-fairy, if you know what I mean..."
-    Gordon ""
+    Gordon "Siya ay kalahating diwata, kung alam mo kung ano ang ibig kong sabihin..."
 
 # game/logic/events/gordon.rpy:142
 translate philippine Gordon_1_label_7c27bc43:
 
     # ch_Name "{i}(He's offering me to buy her, or whats going on?!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Inaalok niya ako na bilhin siya, ano ba ang nangyayari?!){/i}"
 
 # game/logic/events/gordon.rpy:143
 translate philippine Gordon_1_label_a4b85ed0:
 
     # ch_Name "Not really..."
-    ch_Name ""
+    ch_Name "'Di naman..."
 
 # game/logic/events/gordon.rpy:144
 translate philippine Gordon_1_label_0e4100b6:
 
     # Gordon "Half-fairy, you jerk! Fairies are the best at magic, after all!"
-    Gordon ""
+    Gordon "Kalahating diwata, bobo! Sila ang pinakamagaling sa mahika!"
 
 # game/logic/events/gordon.rpy:145
 translate philippine Gordon_1_label_2cb973b0:
 
     # ch_Name "{i}(I wonder if that's true...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kung totoo 'yan...){/i}"
 
 # game/logic/events/gordon.rpy:146
 translate philippine Gordon_1_label_50eab05b:
 
     # ch_Name "Really? I didn't know..."
-    ch_Name ""
+    ch_Name "Talaga? 'Di ko alam..."
 
 # game/logic/events/gordon.rpy:147
 translate philippine Gordon_1_label_e6123a9c:
 
     # Gordon "Of course! Willow has felt magic like no one else since she was a little girl."
-    Gordon ""
+    Gordon "Siyempre! Si Willow ay nakadama ng mahika na walang katulad mula noong maliit pa lang siya."
 
 # game/logic/events/gordon.rpy:149
 translate philippine Gordon_1_label_1703d5e2:
 
     # Gordon "If you ever need anything that my shop doesn't have, go to her!"
-    Gordon ""
+    Gordon "Kung may kailangan ka na wala dito sa tindahan ko, kausapin mo siya!"
 
 # game/logic/events/gordon.rpy:151
 translate philippine Gordon_1_label_625537a2:
 
     # Willow "It's true, I could help you with anything unusual."
-    Willow ""
+    Willow "Tama, kaya kong magbigay ng kahit ano."
 
 # game/logic/events/gordon.rpy:152
 translate philippine Gordon_1_label_f7751271:
