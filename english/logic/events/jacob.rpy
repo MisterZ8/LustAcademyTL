@@ -160,7 +160,7 @@ translate english Samantha_3_label_ba4b5b4c:
 translate english Samantha_3_label_8be62783:
 
     # Jacob "No wonder you go to Leonheart."
-    Jacob ""
+    Jacob "No wonder you joined Leonheart."
 
 # game/logic/events/jacob.rpy:131
 translate english Samantha_3_label_f71ee413:
@@ -280,7 +280,7 @@ translate english Samantha_3_label_43_dd664cea:
 translate english Samantha_3_label_43_d4091b5a:
 
     # Jacob "You say you will be indebted to me, do you not?"
-    Jacob ""
+    Jacob "You said you would be indebted to me, did you not?"
 
 # game/logic/events/jacob.rpy:166
 translate english Samantha_3_label_43_b5abaa71:
@@ -298,7 +298,7 @@ translate english Samantha_3_label_43_32799593:
 translate english Samantha_3_label_43_23d41321:
 
     # ch_Name "And what happens to the one who breaks the contract?"
-    ch_Name ""
+    ch_Name "And what happens to one who breaks a contract?"
 
 # game/logic/events/jacob.rpy:171
 translate english Samantha_3_label_43_1e15df64:
@@ -442,7 +442,7 @@ translate english Samantha_3_label_43_d6b63b37:
 translate english Samantha_3_label_43_9f220998:
 
     # Jacob "The magic cannot stabilize and begins to destroy the sorcerer out of existence."
-    Jacob ""
+    Jacob "The magic cannot stabilize and begins to wipe the sorcerer out of existence."
 
 # game/logic/events/jacob.rpy:204
 translate english Samantha_3_label_43_502b683d:
@@ -646,7 +646,7 @@ translate english Jacob_1_label_260c6984:
 translate english Jacob_1_label_a48eaa6e:
 
     # ch_Name "{i}(Phew! I was almost sure I'd miss him because of the work.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Phew! I was almost sure I'd miss him because of work.){/i}"
 
 # game/logic/events/jacob.rpy:273
 translate english Jacob_1_label_2913d24d:
@@ -772,7 +772,7 @@ translate english Jacob_1_label_e0835d3d:
 translate english Jacob_1_label_4eb183a5:
 
     # ch_Name "How do I join you?"
-    ch_Name ""
+    ch_Name "How do I join the club?"
 
 # game/logic/events/jacob.rpy:302
 translate english Jacob_1_label_1a9eafd4:
@@ -994,7 +994,7 @@ translate english Jacob_1_label_8030eefe:
 translate english Jacob_1_label_df1441e3:
 
     # ch_Name "{i}(I should ask her number or something.){/i}"
-    ch_Name ""
+    ch_Name "{i}(I should ask for her number or something.){/i}"
 
 # game/logic/events/jacob.rpy:351
 translate english Jacob_1_label_c9ab0315:
@@ -1006,7 +1006,7 @@ translate english Jacob_1_label_c9ab0315:
 translate english Jacob_1_label_5e183251:
 
     # ch_Name "{i}(By the way, I have to go there now, If I don't want to be late.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Which reminds me, I have to go there now if I don't want to be late.){/i}"
 
 # game/logic/events/jacob.rpy:353
 translate english Jacob_1_label_2ffbdbab:
@@ -1228,7 +1228,7 @@ translate english Jacob_2_label_40e793ce:
 translate english Jacob_2_label_cf4f36eb:
 
     # ch_Name "I'm going to be passed out and someone's going to be doing magic on my body?"
-    ch_Name ""
+    ch_Name "I'm going to be passed out and someone's going to be casting magic at my body?"
 
 # game/logic/events/jacob.rpy:417
 translate english Jacob_2_label_7f9654c4:
@@ -1246,7 +1246,7 @@ translate english Jacob_2_label_70b94682:
 translate english Jacob_2_label_e01f59c1:
 
     # Jacob "Combat mages are an elite group, and they have no need for insecure weaklings."
-    Jacob ""
+    Jacob "Combat mages are an elite group, and we have no need for insecure weaklings."
 
 # game/logic/events/jacob.rpy:421
 translate english Jacob_2_label_e2a72faa:
@@ -1306,7 +1306,7 @@ translate english Jacob_2_label_2eca28fe:
 translate english Jacob_2_label_9408468a:
 
     # Jacob "Did you get your strength back so quickly?"
-    Jacob ""
+    Jacob "Did you get your strength back already?"
 
 # game/logic/events/jacob.rpy:433
 translate english Jacob_2_label_9b1ec35a:
@@ -1354,7 +1354,7 @@ translate english Jacob_2_label_e9d47805:
 translate english Jacob_2_label_f54885f7:
 
     # Gabriella "Too bad we won't be fighting each other. I'd love to your first."
-    Gabriella ""
+    Gabriella "Too bad we won't be fighting each other. I'd love to be your first."
 
 # game/logic/events/jacob.rpy:446
 translate english Jacob_2_label_f211d26c:
@@ -1378,7 +1378,7 @@ translate english Jacob_2_label_c510da86:
 translate english Jacob_2_label_bacc6c37:
 
     # ch_Name "I think I'll challenge Martenden student."
-    ch_Name ""
+    ch_Name "I think I'll challenge a Martenden student."
 
 # game/logic/events/jacob.rpy:452
 translate english Jacob_2_label_be1afec6:
