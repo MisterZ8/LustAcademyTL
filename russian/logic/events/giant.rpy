@@ -713,3 +713,707 @@ translate russian strings:
     # game/logic/events/giant.rpy:83
     old "Don't help"
     new "Не помогать"
+# TODO: Translation updated at 2022-03-03 03:57
+
+# game/logic/events/giant.rpy:127
+translate russian giant_1_label_182441d2:
+
+    # ch_Name "{i}(I was lucky he was stopped by my feeble combat spell.){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:255
+translate russian Giant_3_label_c5b870d9:
+
+    # ch_Name "{i}(I never thought Adele could be so fun and relaxed.){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:256
+translate russian Giant_3_label_18ca5677:
+
+    # ch_Name "{i}(But she does get knows how to party, especially when she's drunk.){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:257
+translate russian Giant_3_label_db953ea2:
+
+    # ch_Name "{i}(I wish I could be that confident.){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:258
+translate russian Giant_3_label_4f33f7f4:
+
+    # ch_Name "{i}(And her pole dancing... Mmm, real magic.){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:259
+translate russian Giant_3_label_687dcfcb:
+
+    # ch_Name "{i}(Imagine what she can do in the VIP room.){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:260
+translate russian Giant_3_label_0ae018b7:
+
+    # ch_Name "{i}(I should ask for another date next time im in town.){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:267
+translate russian Giant_3_label_49a2b2a3:
+
+    # ch_Name "{i}(What's going on?){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:268
+translate russian Giant_3_label_44c4b539:
+
+    # UnknownGirl "AHHHHH!"
+    UnknownGirl ""
+
+# game/logic/events/giant.rpy:269
+translate russian Giant_3_label_07a42c00:
+
+    # UnknownGirl "Keep your distance from me, monster!"
+    UnknownGirl ""
+
+# game/logic/events/giant.rpy:270
+translate russian Giant_3_label_e83253cb:
+
+    # Giant "W... Wait! Sabrina!"
+    Giant ""
+
+# game/logic/events/giant.rpy:272
+translate russian Giant_3_label_e6a7102b:
+
+    # Giant "AAAAAAAAAAAAARRRRRRRRRRGH!"
+    Giant ""
+
+# game/logic/events/giant.rpy:273
+translate russian Giant_3_label_d32450e5:
+
+    # ch_Name "{i}(Has he mistaken her for Sabrina?){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:274
+translate russian Giant_3_label_c3546d97:
+
+    # ch_Name "{i}(I guess I see the resemblance...){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:275
+translate russian Giant_3_label_8e7bd467:
+
+    # ch_Name "{i}(It looks like he ripped her shirt off...){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:280
+translate russian Giant_3_label_6038af3d:
+
+    # ch_Name "{i}(I mean, who can blame me for taking a closer look?){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:281
+translate russian Giant_3_label_45048b2d:
+
+    # ch_Name "{i}(Such a nice little set of tits.){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:282
+translate russian Giant_3_label_32b4a1c2:
+
+    # ch_Name "{i}(And her nipples look swollen from the cold.){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:283
+translate russian Giant_3_label_b9ec9a96:
+
+    # ch_Name "{i}(I need to do something if I don't want those beauties hurt.){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:289
+translate russian Giant_3_label_bd2be48a:
+
+    # Giant "COME BACK!"
+    Giant ""
+
+# game/logic/events/giant.rpy:290
+translate russian Giant_3_label_47a930da:
+
+    # Giant "SABRINAAA!"
+    Giant ""
+
+# game/logic/events/giant.rpy:292
+translate russian Giant_3_label_9966f34c:
+
+    # ch_Name "Hey! Not so fast!"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:293
+translate russian Giant_3_label_e82fbb2c:
+
+    # ch_Name "What are you think you're doing? You can't harass people like that."
+    ch_Name ""
+
+# game/logic/events/giant.rpy:294
+translate russian Giant_3_label_b28e3bb4:
+
+    # Giant "SABRINA..."
+    Giant ""
+
+# game/logic/events/giant.rpy:295
+translate russian Giant_3_label_5fb2c57a:
+
+    # ch_Name "It's not Sabrina! Are you blind?"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:297
+translate russian Giant_3_label_136aa293:
+
+    # Giant "SHE'S GETTING AWAY! MOVE!"
+    Giant ""
+
+# game/logic/events/giant.rpy:298
+translate russian Giant_3_label_057902c7:
+
+    # ch_Name "I won't!"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:299
+translate russian Giant_3_label_66115db4:
+
+    # Giant "AARGH!"
+    Giant ""
+
+# game/logic/events/giant.rpy:300
+translate russian Giant_3_label_cd2f8380:
+
+    # Giant "I SAID, \"MOVE\"!"
+    Giant ""
+
+# game/logic/events/giant.rpy:302
+translate russian Giant_3_label_13ee00cb:
+
+    # ch_Name "..." with vpunch
+    ch_Name "" with vpunch
+
+# game/logic/events/giant.rpy:303
+translate russian Giant_3_label_aaceba44:
+
+    # ch_Name "{i}(Fuck, he tossed me to the ground as if was a toddler.){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:304
+translate russian Giant_3_label_cc3b5d61:
+
+    # ch_Name "Ugh..."
+    ch_Name ""
+
+# game/logic/events/giant.rpy:306
+translate russian Giant_3_label_fcfb3970:
+
+    # Giant "I NEED SABRINA!"
+    Giant ""
+
+# game/logic/events/giant.rpy:307
+translate russian Giant_3_label_2e831b09:
+
+    # ch_Name "Wait..."
+    ch_Name ""
+
+# game/logic/events/giant.rpy:314
+translate russian Giant_3_label_e3330606:
+
+    # Giant "RAARGH!"
+    Giant ""
+
+# game/logic/events/giant.rpy:315
+translate russian Giant_3_label_669eaada:
+
+    # Giant "DIE!"
+    Giant ""
+
+# game/logic/events/giant.rpy:317
+translate russian Giant_3_label_13fb7065:
+
+    # ch_Name "Wait, please! "
+    ch_Name ""
+
+# game/logic/events/giant.rpy:318
+translate russian Giant_3_label_57320e7e:
+
+    # ch_Name "Don't do this!"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:319
+translate russian Giant_3_label_80234384:
+
+    # ch_Name "I know Sabrina! I can help!"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:323
+translate russian Giant_3_label_e3330606_1:
+
+    # Giant "RAARGH!"
+    Giant ""
+
+# game/logic/events/giant.rpy:324
+translate russian Giant_3_label_669eaada_1:
+
+    # Giant "DIE!"
+    Giant ""
+
+# game/logic/events/giant.rpy:326
+translate russian Giant_3_label_c230c6ce:
+
+    # ch_Name "I don't think so!"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:327
+translate russian Giant_3_label_a47041e6:
+
+    # ch_Name "{i}(I hope all those battle magic lessons weren't for nothing.){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:328
+translate russian Giant_3_label_9ad86c52:
+
+    # ch_Name "Eat this!"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:330
+translate russian Giant_3_label_c196f903:
+
+    # Giant "AARGH!" with vpunch
+    Giant "" with vpunch
+
+# game/logic/events/giant.rpy:331
+translate russian Giant_3_label_aa3c7a84:
+
+    # Giant "HURTS! IT HURTS!"
+    Giant ""
+
+# game/logic/events/giant.rpy:332
+translate russian Giant_3_label_87f13241:
+
+    # ch_Name "Sorry for that. I had to. Now let me help you."
+    ch_Name ""
+
+# game/logic/events/giant.rpy:335
+translate russian Giant_3_label_e3330606_2:
+
+    # Giant "RAARGH!"
+    Giant ""
+
+# game/logic/events/giant.rpy:336
+translate russian Giant_3_label_669eaada_2:
+
+    # Giant "DIE!"
+    Giant ""
+
+# game/logic/events/giant.rpy:338
+translate russian Giant_3_label_13fb7065_1:
+
+    # ch_Name "Wait, please! "
+    ch_Name ""
+
+# game/logic/events/giant.rpy:339
+translate russian Giant_3_label_57320e7e_1:
+
+    # ch_Name "Don't do this!"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:340
+translate russian Giant_3_label_80234384_1:
+
+    # ch_Name "I know Sabrina! I can help!"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:343
+translate russian Giant_3_label_3fb1038f:
+
+    # Giant "HELP?"
+    Giant ""
+
+# game/logic/events/giant.rpy:344
+translate russian Giant_3_label_6992712c:
+
+    # Giant "..."
+    Giant ""
+
+# game/logic/events/giant.rpy:345
+translate russian Giant_3_label_b40d5743:
+
+    # Giant "Arght... Help..."
+    Giant ""
+
+# game/logic/events/giant.rpy:346
+translate russian Giant_3_label_535d953a:
+
+    # ch_Name "Yes. I can help you."
+    ch_Name ""
+
+# game/logic/events/giant.rpy:348
+translate russian Giant_3_label_f7be860b:
+
+    # Giant "Lies?"
+    Giant ""
+
+# game/logic/events/giant.rpy:349
+translate russian Giant_3_label_afbf9cc8:
+
+    # ch_Name "Lies? What?"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:350
+translate russian Giant_3_label_2adf653b:
+
+    # ch_Name "No. No lies. I'm telling the truth."
+    ch_Name ""
+
+# game/logic/events/giant.rpy:351
+translate russian Giant_3_label_9c85fe1a:
+
+    # ch_Name "Let me show you."
+    ch_Name ""
+
+# game/logic/events/giant.rpy:353
+translate russian Giant_3_label_2aefa9ba:
+
+    # ch_Name "Here, take this."
+    ch_Name ""
+
+# game/logic/events/giant.rpy:354
+translate russian Giant_3_label_d9be0b7e:
+
+    # Giant "Arght..."
+    Giant ""
+
+# game/logic/events/giant.rpy:355
+translate russian Giant_3_label_640f25a1:
+
+    # Giant "What's that?"
+    Giant ""
+
+# game/logic/events/giant.rpy:356
+translate russian Giant_3_label_2ffa536f:
+
+    # ch_Name "A potion from Sabrina."
+    ch_Name ""
+
+# game/logic/events/giant.rpy:357
+translate russian Giant_3_label_f05e2bbc:
+
+    # Giant "S... Sabrina?"
+    Giant ""
+
+# game/logic/events/giant.rpy:358
+translate russian Giant_3_label_c6aa2781:
+
+    # ch_Name "Yeah."
+    ch_Name ""
+
+# game/logic/events/giant.rpy:360
+translate russian Giant_3_label_f7552c21:
+
+    # Giant "Ugh..."
+    Giant ""
+
+# game/logic/events/giant.rpy:361
+translate russian Giant_3_label_fa1b3085:
+
+    # Giant "Yes..."
+    Giant ""
+
+# game/logic/events/giant.rpy:362
+translate russian Giant_3_label_eba6dc00:
+
+    # Giant "A potion."
+    Giant ""
+
+# game/logic/events/giant.rpy:364
+translate russian Giant_3_label_c41b4463:
+
+    # ch_Name "{i}(What's wrong with him? He just stands there after juggling that potion.){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:365
+translate russian Giant_3_label_f282e664:
+
+    # ch_Name "{i}(Is it working? What is he staring at?){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:366
+translate russian Giant_3_label_6992712c_1:
+
+    # Giant "..."
+    Giant ""
+
+# game/logic/events/giant.rpy:367
+translate russian Giant_3_label_02fd30c8:
+
+    # Giant "That thing..."
+    Giant ""
+
+# game/logic/events/giant.rpy:369
+translate russian Giant_3_label_2c739b57:
+
+    # Giant "Is that really me?"
+    Giant ""
+
+# game/logic/events/giant.rpy:370
+translate russian Giant_3_label_9721bf14:
+
+    # Giant "Is that how I really look now?"
+    Giant ""
+
+# game/logic/events/giant.rpy:371
+translate russian Giant_3_label_a06509a6:
+
+    # Giant "How can it be..."
+    Giant ""
+
+# game/logic/events/giant.rpy:372
+translate russian Giant_3_label_708076b7:
+
+    # Giant "Merlin's beard! How did It all end up like this?"
+    Giant ""
+
+# game/logic/events/giant.rpy:373
+translate russian Giant_3_label_b71086f5:
+
+    # ch_Name "{i}(Looks like it worked. His mind is clear now. But he's still a monster...){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:375
+translate russian Giant_3_label_8c038d53:
+
+    # Giant "Thank you."
+    Giant ""
+
+# game/logic/events/giant.rpy:376
+translate russian Giant_3_label_e3555362:
+
+    # ch_Name "Me? Nevermind."
+    ch_Name ""
+
+# game/logic/events/giant.rpy:377
+translate russian Giant_3_label_4c228611:
+
+    # Giant "You saved me. You saved my mind."
+    Giant ""
+
+# game/logic/events/giant.rpy:378
+translate russian Giant_3_label_4a5674fd:
+
+    # Giant "And you've stopped me from doing things I'd regret my whole life."
+    Giant ""
+
+# game/logic/events/giant.rpy:379
+translate russian Giant_3_label_94c6fbfd:
+
+    # ch_Name "No problem. Anyone would do the same."
+    ch_Name ""
+
+# game/logic/events/giant.rpy:381
+translate russian Giant_3_label_c7ae81e1:
+
+    # Giant "Brave and humble. You must be from Leonheart."
+    Giant ""
+
+# game/logic/events/giant.rpy:382
+translate russian Giant_3_label_f476fb37:
+
+    # ch_Name "{i}(He knows about houses and knew Sabrina. Strange.){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:383
+translate russian Giant_3_label_9aae3aab:
+
+    # ch_Name "What happened to you?"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:384
+translate russian Giant_3_label_c5bc2711:
+
+    # Giant "That I must find out."
+    Giant ""
+
+# game/logic/events/giant.rpy:385
+translate russian Giant_3_label_5b109d91:
+
+    # Giant "I give you my word - I'll come back to return the favor, my friend."
+    Giant ""
+
+# game/logic/events/giant.rpy:386
+translate russian Giant_3_label_0246e4b6:
+
+    # Giant "And for now..."
+    Giant ""
+
+# game/logic/events/giant.rpy:387
+translate russian Giant_3_label_a431f4c8:
+
+    # Giant "Tell Sabrina that Harvey thanks her for saving his life once again."
+    Giant ""
+
+# game/logic/events/giant.rpy:388
+translate russian Giant_3_label_7bb14ae0:
+
+    # ch_Name "I will."
+    ch_Name ""
+
+# game/logic/events/giant.rpy:397
+translate russian Giant_3_label_b7d71cbe:
+
+    # ch_Name "{i}(Phew, what a night...){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:398
+translate russian Giant_3_label_9f6f7b43:
+
+    # ch_Name "{i}(If I hadn't come to the rescue, who knows what would have happened to that girl.){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:399
+translate russian Giant_3_label_f3657428:
+
+    # ch_Name "{i}(That monster... Harvey... I wonder what happened to him?){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:401
+translate russian Giant_3_label_6568bf3e:
+
+    # ch_Name "{i}(What caused him to become like that?){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:402
+translate russian Giant_3_label_0eadac3b:
+
+    # ch_Name "{i}(Maybe Sabrina will have some answers.){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:409
+translate russian Giant_3_label_1bbf1277:
+
+    # ch_Name "{i}(It's time to get some sleep.){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:410
+translate russian Giant_3_label_7d6e9386:
+
+    # ch_Name "{i}(I'm exhausted...){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:417
+translate russian Giant_3_label_4e6a3c94:
+
+    # ch_Name "{i}(Oh yes, it was good to sleep...){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:418
+translate russian Giant_3_label_40f280af:
+
+    # ch_Name "{i}(Now I'm full of energy.){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:419
+translate russian Giant_3_label_1c413546:
+
+    # ch_Name "{i}(It remains to be decided what to spend it on!){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:427
+translate russian Giant_3_label_29c4d694:
+
+    # ch_Name "{i}(One of the great perks of this hotel is the hottie at the front desk.){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:428
+translate russian Giant_3_label_acb378c5:
+
+    # ch_Name "Hi, Mina!"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:430
+translate russian Giant_3_label_8a237802:
+
+    # Mina "Good morning, [Name]! How did you sleep?"
+    Mina ""
+
+# game/logic/events/giant.rpy:431
+translate russian Giant_3_label_41ccf192:
+
+    # ch_Name "I slept great. I'm full of energy and spirit."
+    ch_Name ""
+
+# game/logic/events/giant.rpy:433
+translate russian Giant_3_label_023f88fe:
+
+    # Mina "I'm glad to hear it. Have you thought of plans for what to do today?"
+    Mina ""
+
+# game/logic/events/giant.rpy:434
+translate russian Giant_3_label_8595fb59:
+
+    # ch_Name "I'll start with a walk, maybe even go to Ahchi's cafe."
+    ch_Name ""
+
+# game/logic/events/giant.rpy:435
+translate russian Giant_3_label_506c16bc:
+
+    # Mina "That's a good idea! Have a nice day."
+    Mina ""
+
+# game/logic/events/giant.rpy:442
+translate russian Giant_3_label_e6c7eb0d:
+
+    # ch_Name "{i}(Ah, the weather is nice today, too.){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:443
+translate russian Giant_3_label_6b599ac9:
+
+    # ch_Name "{i}(This is what weekends are supposed to be like!){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:444
+translate russian Giant_3_label_4706fb01:
+
+    # ch_Name "{i}(I'm going to enjoy a cup of coffee.){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:446
+translate russian Giant_3_label_41000686:
+
+    # ch_Name "{i}(Geniuses seem to think alike.){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:447
+translate russian Giant_3_label_607719cd:
+
+    # ch_Name "{i}(Lily also decided to start her day with coffee at Ahchi's.){/i}"
+    ch_Name ""
+
+# game/logic/events/giant.rpy:448
+translate russian Giant_3_label_ac0070ce:
+
+    # ch_Name "{i}(I'll keep her company.){/i}"
+    ch_Name ""
+
+translate russian strings:
+
+    # game/logic/events/giant.rpy:276
+    old "Take a look at her boobs"
+    new ""
+
+    # game/logic/events/giant.rpy:276
+    old "Ignore the boobs"
+    new ""
+
+    # game/logic/events/giant.rpy:310
+    old "Talk him out"
+    new ""
+
+    # game/logic/events/giant.rpy:310
+    old "Attack him"
+    new ""
+

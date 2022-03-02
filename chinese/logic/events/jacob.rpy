@@ -1498,3 +1498,17 @@ translate chinese strings:
     old "Crowhive"
     new "Crowhive"
 
+# TODO: Translation updated at 2022-03-03 04:01
+
+# game/logic/events/jacob.rpy:255
+translate chinese Samantha_3_label_43_6349d9c3:
+
+    # ch_Name "{i}(Oh... I have her lesson in the schedule.){/i}"
+    ch_Name ""
+
+translate chinese strings:
+
+    # game/logic/events/jacob.rpy:15
+    old "Tell him you have the seal"
+    new ""
+

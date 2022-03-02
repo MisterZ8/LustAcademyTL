@@ -86,3 +86,11 @@ translate russian strings:
     old "Learn this recipe by attending the Potions lecture."
     new "Изучите этот рецепт, посетив лекцию по Зельям."
 
+# TODO: Translation updated at 2022-03-03 03:57
+
+translate russian strings:
+
+    # game/logic/mini_games/test_potion_makes/screen.rpy:20
+    old "Protects your magical sources from the creatures of the night."
+    new ""
+

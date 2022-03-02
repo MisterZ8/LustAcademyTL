@@ -86,3 +86,11 @@ translate chinese strings:
     old "Learn this recipe by attending the Potions lecture."
     new "参加魔药课学习这个食谱。"
 
+# TODO: Translation updated at 2022-03-03 04:01
+
+translate chinese strings:
+
+    # game/logic/mini_games/test_potion_makes/screen.rpy:20
+    old "Protects your magical sources from the creatures of the night."
+    new ""
+

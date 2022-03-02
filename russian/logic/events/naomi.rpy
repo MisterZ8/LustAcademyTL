@@ -7006,3 +7006,315 @@ translate russian strings:
     # game/logic/events/naomi.rpy:2089
     old "Cum on her chest"
     new "Кончить ей на грудь"
+# TODO: Translation updated at 2022-03-03 03:57
+
+# game/logic/events/naomi.rpy:1201
+translate russian Naomi_8_label_74c1e274:
+
+    # Naomi "He's so tense even through this pants."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:1249
+translate russian Naomi_8_label_c58aa991:
+
+    # Naomi "Mhmh..." with hpunch
+    Naomi "" with hpunch
+
+# game/logic/events/naomi.rpy:1352
+translate russian Naomi_8_label_aa37de87:
+
+    # Naomi "Oh, yes!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:1495
+translate russian Naomi_8_label_c21dff01:
+
+    # Naomi "Good night, [Name]. See you in classes!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:1496
+translate russian Naomi_8_label_fe2e0053:
+
+    # ch_Name "Sure. Good night, Naomi!"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:1499
+translate russian Naomi_8_label_946db98c:
+
+    # ch_Name "{i}(Wow, I never thought she'd go so far. Brave girl.){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:1500
+translate russian Naomi_8_label_6baa7639:
+
+    # ch_Name "{i}(I can't believe she's really going to suck my cock in the middle of the library.){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:1502
+translate russian Naomi_8_label_5d886fdd:
+
+    # Naomi "It's time to unleash the beast."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:1503
+translate russian Naomi_8_label_186fbe12:
+
+    # ch_Name "{i}(I... I can't do this like that. This feels wrong.){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:1504
+translate russian Naomi_8_label_eccc8024:
+
+    # ch_Name "Wait! Wait please! "
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:1506
+translate russian Naomi_8_label_34bc570e:
+
+    # Naomi "Is there something wrong?"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:1507
+translate russian Naomi_8_label_02fd26fb:
+
+    # ch_Name "Suddenly, I don't feel that comfortable."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:1508
+translate russian Naomi_8_label_2aac5802:
+
+    # ch_Name "It seems too vulgar."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:1509
+translate russian Naomi_8_label_0ff98cb9:
+
+    # Naomi "Really?"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:1510
+translate russian Naomi_8_label_076b5ea4:
+
+    # ch_Name "Yeah. Get up."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:1512
+translate russian Naomi_8_label_91e93188:
+
+    # Naomi "It's quite a sudden change of hearts..."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:1513
+translate russian Naomi_8_label_7b771da4:
+
+    # Naomi "I was almost ready to enjoy this."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:1514
+translate russian Naomi_8_label_99549a6b:
+
+    # ch_Name "Oh, we still can. "
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:1516
+translate russian Naomi_8_label_3e4074d5:
+
+    # ch_Name "Come here, baby!"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:1517
+translate russian Naomi_8_label_b81bcbc5:
+
+    # Naomi "I must admit - that softness all of Leonhearters share..."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:1518
+translate russian Naomi_8_label_23929c9e:
+
+    # Naomi "That crave for intimacy..."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:1520
+translate russian Naomi_8_label_1dfe4621:
+
+    # Naomi "Ah..."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:1521
+translate russian Naomi_8_label_4c6432aa:
+
+    # ch_Name "Keep talking."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:1522
+translate russian Naomi_8_label_3de0098f:
+
+    # Naomi "At first I thought it was silly."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:1523
+translate russian Naomi_8_label_01d2fae4:
+
+    # Naomi "But I kind of like that in you..."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:1524
+translate russian Naomi_8_label_508445c1:
+
+    # Naomi "[Name], wait! We're not alone!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:1526
+translate russian Naomi_8_label_a2fcf8a5:
+
+    # ch_Name "What?!"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:1527
+translate russian Naomi_8_label_e7742363:
+
+    # Naomi "I saw Amelie there. She may have seen us!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:1528
+translate russian Naomi_8_label_7aff0b72:
+
+    # ch_Name "Shit. Are we in trouble?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:1530
+translate russian Naomi_8_label_c190373f:
+
+    # Naomi "I don't know, man. Let's get out of here!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:1531
+translate russian Naomi_8_label_0a22ab02:
+
+    # ch_Name "Alright, let's go!"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:1538
+translate russian Naomi_8_label_3f656fab_1:
+
+    # Naomi "Aha-ha-ha..."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:1539
+translate russian Naomi_8_label_b4700117:
+
+    # Naomi "I can't believe we almost got caught making out in the library!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:1540
+translate russian Naomi_8_label_97965b80:
+
+    # ch_Name "It wasn't the worst thing we could be caught doing there."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:1541
+translate russian Naomi_8_label_512a910b:
+
+    # Naomi "True, true."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:1543
+translate russian Naomi_8_label_ffb17198:
+
+    # Naomi "So, can I get my answers now?"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:1544
+translate russian Naomi_8_label_a6763c87_1:
+
+    # ch_Name "I don't know."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:1545
+translate russian Naomi_8_label_90e1fedb:
+
+    # ch_Name "Do you think you've earned them?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:1546
+translate russian Naomi_8_label_18448622:
+
+    # Naomi "Come on, [Name]. I offered you more that enough. You rejected me."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:1547
+translate russian Naomi_8_label_93b9f354:
+
+    # ch_Name "I just think that this was too soon. "
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:1549
+translate russian Naomi_8_label_25ac8700:
+
+    # ch_Name "But I was hoping that we both don't mind continuing this adventure..."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:1550
+translate russian Naomi_8_label_5d58b492_1:
+
+    # ch_Name "What do you say?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:1552
+translate russian Naomi_8_label_7b5a9057_1:
+
+    # Naomi "Maybe another time."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:1553
+translate russian Naomi_8_label_1a8bcb45_1:
+
+    # ch_Name "Don't I even deserve..."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:1555
+translate russian Naomi_8_label_5d752cf9_1:
+
+    # ch_Name "{i}(Whoa...){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:1556
+translate russian Naomi_8_label_3e491fa2_1:
+
+    # Naomi "A goodbye kiss?"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:1558
+translate russian Naomi_8_label_f0e7ae8b_1:
+
+    # Naomi "I guess you do."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:1559
+translate russian Naomi_8_label_39c36bce:
+
+    # Naomi "Good night, [Name].See you in classes!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:1560
+translate russian Naomi_8_label_fe2e0053_1:
+
+    # ch_Name "Sure. Good night, Naomi!"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2201
+translate russian Naomi_10_label_from_gallery_90b8999a:
+
+    # ch_Name "I'm cumming!" with flash
+    ch_Name "" with flash
+
+translate russian strings:
+
+    # game/logic/events/naomi.rpy:1202
+    old "Accept the blowjob"
+    new ""
+
+    # game/logic/events/naomi.rpy:1202
+    old "Reject the blowjob"
+    new ""
+

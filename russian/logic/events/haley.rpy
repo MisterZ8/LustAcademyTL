@@ -11313,3 +11313,2141 @@ translate russian strings:
     # game/logic/events/haley.rpy:2294
     old "Get some distance"
     new "Чуть отодвинуться"
+# TODO: Translation updated at 2022-03-03 03:57
+
+# game/logic/events/haley.rpy:492
+translate russian Haley_3_label_ingore_mollys_ass_01f64327:
+
+    # Haley "Not the kind of guy who would sit with a girl in a cafe and think about eternal things."
+    Haley ""
+
+# game/logic/events/haley.rpy:553
+translate russian Haley_3_label_mtp_1_818fe50d:
+
+    # Haley "I'm sorry, I was so focused on Victoria's assignment, I spaced out a little."
+    Haley ""
+
+# game/logic/events/haley.rpy:608
+translate russian Haley_4_label_a164abe7:
+
+    # Haley "My potion book was dipped in ink last night by pixies."
+    Haley ""
+
+# game/logic/events/haley.rpy:623
+translate russian Haley_4_label_163765b8:
+
+    # Haley "...like a knight on a white horse! Just like in the fairy tales!"
+    Haley ""
+
+# game/logic/events/haley.rpy:726
+translate russian Haley_6_label_ee91cb23:
+
+    # ch_Name "Of course, it did!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:740
+translate russian Haley_6_label_9990b578:
+
+    # ch_Name "Be careful with it."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:751
+translate russian Haley_6_label_c2a61afd:
+
+    # Haley "Of course, I'm kidding!"
+    Haley ""
+
+# game/logic/events/haley.rpy:778
+translate russian Haley_7_label_1454a5d5:
+
+    # Haley "Of course, we do! She's a legend!"
+    Haley ""
+
+# game/logic/events/haley.rpy:787
+translate russian Haley_7_label_75099176:
+
+    # Haley "I stumbled across something interesting in my potions textbook..."
+    Haley ""
+
+# game/logic/events/haley.rpy:1145
+translate russian haley_8_label_5c06e6f7:
+
+    # Haley "[Name]! Of course, not!"
+    Haley ""
+
+# game/logic/events/haley.rpy:1256
+translate russian haley_9_label_14fc47df:
+
+    # Elijah "Oh, guys. It's not that easy to trade a book. Pixies steal them all the time!"
+    Elijah ""
+
+# game/logic/events/haley.rpy:1279
+translate russian haley_9_label_625347bb:
+
+    # Elijah "This book is five years old, I was still in high school."
+    Elijah ""
+
+# game/logic/events/haley.rpy:1415
+translate russian Haley_11_label_3f0345ef:
+
+    # ch_Name "{i}(What do I do? Maybe some practice? Nah...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:1431
+translate russian Haley_11_label_2bf7cb19:
+
+    # Haley "Joshi would probably tell everyone if he found out."
+    Haley ""
+
+# game/logic/events/haley.rpy:1590
+translate russian haley_11_label_84_de757159:
+
+    # ch_Name "Of course, it is!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:1649
+translate russian Haley_12_label_a88ea113:
+
+    # Amelie "Judging by my notes on Pascal Lovegood's \"Let the sphere burn!\"..."
+    Amelie ""
+
+# game/logic/events/haley.rpy:1650
+translate russian Haley_12_label_21216717:
+
+    # Amelie "...there's plenty of information here."
+    Amelie ""
+
+# game/logic/events/haley.rpy:2026
+translate russian Angels_1_label_a6b10898:
+
+    # ch_Name "Of course, I was, but not that much as you."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:2606
+translate russian Haley_15_label_from_gallery_5b89d1d0:
+
+    # ch_Name "{i}(I should probably get downstairs and have a cup of coffee.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3184
+translate russian CF_Haley_4_label_f6981770:
+
+    # Haley "And her Lustagram..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3233
+translate russian Haley_17_label_d47c68ae:
+
+    # ch_Name "Hey, Gordon!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3234
+translate russian Haley_17_label_842a1a78:
+
+    # Gordon "Hello! Come to work, hmm?"
+    Gordon ""
+
+# game/logic/events/haley.rpy:3235
+translate russian Haley_17_label_687d6401:
+
+    # ch_Name "Not now, but maybe a little bit later."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3237
+translate russian Haley_17_label_2b767165:
+
+    # Gordon "Well, what do you want then?"
+    Gordon ""
+
+# game/logic/events/haley.rpy:3238
+translate russian Haley_17_label_a85978b0:
+
+    # ch_Name "I'm looking for some ingredients for my potion."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3239
+translate russian Haley_17_label_d9dcc682:
+
+    # ch_Name "Can you help me with that, mister?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3240
+translate russian Haley_17_label_a4cc7c5c:
+
+    # Gordon "It depends on what you need."
+    Gordon ""
+
+# game/logic/events/haley.rpy:3241
+translate russian Haley_17_label_be7cd22d:
+
+    # ch_Name "A handful of solar dust, crushed dragon skin and fresh Edelweiss petals."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3242
+translate russian Haley_17_label_6440db05:
+
+    # Gordon "No-no-no. I can't help you with that."
+    Gordon ""
+
+# game/logic/events/haley.rpy:3244
+translate russian Haley_17_label_4459e8fd:
+
+    # Gordon "You better go and ask Willow."
+    Gordon ""
+
+# game/logic/events/haley.rpy:3245
+translate russian Haley_17_label_8b75b03e:
+
+    # ch_Name "Okay, I get it."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3247
+translate russian Haley_17_label_35dd39ac:
+
+    # Willow "[Name]!"
+    Willow ""
+
+# game/logic/events/haley.rpy:3248
+translate russian Haley_17_label_3f078692:
+
+    # ch_Name "I'm here!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3250
+translate russian Haley_17_label_e6c003b1:
+
+    # Willow "Do you need some magical ingredients? "
+    Willow ""
+
+# game/logic/events/haley.rpy:3251
+translate russian Haley_17_label_181a9c2b:
+
+    # ch_Name "Exactly!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3252
+translate russian Haley_17_label_a574b42b:
+
+    # Willow "What do you need?"
+    Willow ""
+
+# game/logic/events/haley.rpy:3254
+translate russian Haley_17_label_be7cd22d_1:
+
+    # ch_Name "A handful of solar dust, crushed dragon skin and fresh Edelweiss petals."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3255
+translate russian Haley_17_label_e388b7da:
+
+    # ch_Name "Soo...?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3257
+translate russian Haley_17_label_57b60061:
+
+    # Willow "That's impossible, [Name]!"
+    Willow ""
+
+# game/logic/events/haley.rpy:3258
+translate russian Haley_17_label_3c190002:
+
+    # Willow "Even if I really want to help you, I can't."
+    Willow ""
+
+# game/logic/events/haley.rpy:3259
+translate russian Haley_17_label_be31ce93:
+
+    # ch_Name "But why?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3260
+translate russian Haley_17_label_f829bf34:
+
+    # ch_Name "I'll pay, surely."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3261
+translate russian Haley_17_label_2dacf8e2:
+
+    # Willow "I might get lucky enough to find some solar dust and dragon skin..."
+    Willow ""
+
+# game/logic/events/haley.rpy:3263
+translate russian Haley_17_label_8fc97e23:
+
+    # Willow "But fresh Edelweiss petals..."
+    Willow ""
+
+# game/logic/events/haley.rpy:3264
+translate russian Haley_17_label_89b1a149:
+
+    # Willow "those I haven't seen them for ages."
+    Willow ""
+
+# game/logic/events/haley.rpy:3265
+translate russian Haley_17_label_e109896c:
+
+    # Willow "It's crazy!"
+    Willow ""
+
+# game/logic/events/haley.rpy:3266
+translate russian Haley_17_label_fff54076:
+
+    # ch_Name "But Willow, can you try?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3268
+translate russian Haley_17_label_4ba57abc:
+
+    # ch_Name "Please, honey!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3269
+translate russian Haley_17_label_09fc13c8:
+
+    # ch_Name "This is really important."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3270
+translate russian Haley_17_label_b0377d12:
+
+    # ch_Name "Not just for me, but for other people as well."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3271
+translate russian Haley_17_label_49c4f055:
+
+    # ch_Name "You can help save someone's life!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3273
+translate russian Haley_17_label_c922c0af:
+
+    # ch_Name "Besides I can't think of anyone else more capable, I don't think anyone else can help."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3274
+translate russian Haley_17_label_d32943c7:
+
+    # Willow "Okay, enough sweet-talking."
+    Willow ""
+
+# game/logic/events/haley.rpy:3275
+translate russian Haley_17_label_ecfebd8e:
+
+    # Willow "I will try."
+    Willow ""
+
+# game/logic/events/haley.rpy:3276
+translate russian Haley_17_label_5a632ce8:
+
+    # Willow "But money alone isn't enough."
+    Willow ""
+
+# game/logic/events/haley.rpy:3277
+translate russian Haley_17_label_e12461f4:
+
+    # ch_Name "What do you want, Willow?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3278
+translate russian Haley_17_label_791218da:
+
+    # ch_Name "I'll pay more to make it worth your time."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3279
+translate russian Haley_17_label_d4e202f4:
+
+    # Willow "No, no, it's not about the money. I want something else."
+    Willow ""
+
+# game/logic/events/haley.rpy:3281
+translate russian Haley_17_label_e5f9be50:
+
+    # ch_Name "Something else?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3282
+translate russian Haley_17_label_1edc38c1:
+
+    # ch_Name "Like what?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3283
+translate russian Haley_17_label_349044b0:
+
+    # Willow "I'm not sure, that's why I asked you..."
+    Willow ""
+
+# game/logic/events/haley.rpy:3284
+translate russian Haley_17_label_87a5c22f:
+
+    # Willow "Do you have any suggestions?"
+    Willow ""
+
+# game/logic/events/haley.rpy:3285
+translate russian Haley_17_label_d2a0a33f:
+
+    # ch_Name "Hmmmmm."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3287
+translate russian Haley_17_label_aba7cc38:
+
+    # ch_Name "Maybe you can do it in exchange..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3288
+translate russian Haley_17_label_ff062b35:
+
+    # ch_Name "...for a kiss?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3289
+translate russian Haley_17_label_185f8af3:
+
+    # Willow "Ha-ha-ha-ha!"
+    Willow ""
+
+# game/logic/events/haley.rpy:3291
+translate russian Haley_17_label_a3f5af1b:
+
+    # Willow "For a kiss! With you?"
+    Willow ""
+
+# game/logic/events/haley.rpy:3292
+translate russian Haley_17_label_181a9c2b_1:
+
+    # ch_Name "Exactly!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3293
+translate russian Haley_17_label_d6a59c5b:
+
+    # ch_Name "You'd be surprised."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3294
+translate russian Haley_17_label_a835b898:
+
+    # Willow "And what's so special about your kisses?"
+    Willow ""
+
+# game/logic/events/haley.rpy:3295
+translate russian Haley_17_label_d2f5b262:
+
+    # ch_Name "You won't know if you don't try."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3297
+translate russian Haley_17_label_e8d414cb:
+
+    # Willow "You intrigue me, [Name]."
+    Willow ""
+
+# game/logic/events/haley.rpy:3298
+translate russian Haley_17_label_72ab4b64:
+
+    # ch_Name "So, what do you think?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3299
+translate russian Haley_17_label_0972e2d4:
+
+    # Willow "Okay, I'm in."
+    Willow ""
+
+# game/logic/events/haley.rpy:3301
+translate russian Haley_17_label_6156786c:
+
+    # Willow "But don't try and deny that you want this... maybe even more than I do."
+    Willow ""
+
+# game/logic/events/haley.rpy:3302
+translate russian Haley_17_label_3279c0cd:
+
+    # ch_Name "Let's mix business with a little pleasure."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3303
+translate russian Haley_17_label_9e02842e:
+
+    # ch_Name "No need to make this harder than it has to be."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3305
+translate russian Haley_17_label_019c6103:
+
+    # Willow "Ohh!"
+    Willow ""
+
+# game/logic/events/haley.rpy:3306
+translate russian Haley_17_label_921c4921:
+
+    # Willow "Mmmm!"
+    Willow ""
+
+# game/logic/events/haley.rpy:3307
+translate russian Haley_17_label_06921174:
+
+    # ch_Name "I like how your lips taste..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3308
+translate russian Haley_17_label_36934de5:
+
+    # ch_Name "Oww!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3310
+translate russian Haley_17_label_9a25fdca:
+
+    # ch_Name "Are you biting?!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3311
+translate russian Haley_17_label_c60697df:
+
+    # ch_Name "I wasn't expecting that!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3312
+translate russian Haley_17_label_abfb9c60:
+
+    # Willow "I like how it adds a little bit more excitement."
+    Willow ""
+
+# game/logic/events/haley.rpy:3314
+translate russian Haley_17_label_0860433e:
+
+    # Willow "And you have very soft lips."
+    Willow ""
+
+# game/logic/events/haley.rpy:3315
+translate russian Haley_17_label_9d864051:
+
+    # Willow "It would be a sin not to bite them."
+    Willow ""
+
+# game/logic/events/haley.rpy:3316
+translate russian Haley_17_label_438c82cd:
+
+    # ch_Name "You're such a little devil!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3318
+translate russian Haley_17_label_ef24b776:
+
+    # Willow "You kiss pretty well for a human, I should admit."
+    Willow ""
+
+# game/logic/events/haley.rpy:3319
+translate russian Haley_17_label_5b26624c:
+
+    # ch_Name "Oh, thanks!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3320
+translate russian Haley_17_label_540d4205:
+
+    # Willow "Okay, this is all very fascinating..."
+    Willow ""
+
+# game/logic/events/haley.rpy:3322
+translate russian Haley_17_label_801f4d46:
+
+    # Willow "But I need to get back to work."
+    Willow ""
+
+# game/logic/events/haley.rpy:3323
+translate russian Haley_17_label_c7c4cb92:
+
+    # ch_Name "You what...? What about our deal?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3324
+translate russian Haley_17_label_525af4a8:
+
+    # Willow "He-he-he."
+    Willow ""
+
+# game/logic/events/haley.rpy:3325
+translate russian Haley_17_label_9d137df1:
+
+    # Willow "I'm just messing with you."
+    Willow ""
+
+# game/logic/events/haley.rpy:3327
+translate russian Haley_17_label_482cd62d:
+
+    # Willow "Wait here."
+    Willow ""
+
+# game/logic/events/haley.rpy:3328
+translate russian Haley_17_label_b1fec1f2:
+
+    # Willow "And don't touch anything."
+    Willow ""
+
+# game/logic/events/haley.rpy:3330
+translate russian Haley_17_label_e2807538:
+
+    # Willow "I'll be right back."
+    Willow ""
+
+# game/logic/events/haley.rpy:3331
+translate russian Haley_17_label_f08b5445:
+
+    # ch_Name "Alright... be careful!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3333
+translate russian Haley_17_label_60a3121a:
+
+    # Willow "Hmm."
+    Willow ""
+
+# game/logic/events/haley.rpy:3335
+translate russian Haley_17_label_2e27a77a:
+
+    # ch_Name "{i}(Hope she can pull it off.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3336
+translate russian Haley_17_label_a5297357:
+
+    # ch_Name "{i}(There is no plan B.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3337
+translate russian Haley_17_label_ff0872f8:
+
+    # ch_Name "{i}(God!){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3338
+translate russian Haley_17_label_079c5233:
+
+    # ch_Name "{i}(Now this is when I start to get nervous.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3340
+translate russian Haley_17_label_8635f5be:
+
+    # ch_Name "{i}(Pam-pam-pam!){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3341
+translate russian Haley_17_label_7e876767:
+
+    # ch_Name "{i}(She's taking a long time.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3342
+translate russian Haley_17_label_8892a571:
+
+    # ch_Name "{i}(Maybe something went wrong?){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3344
+translate russian Haley_17_label_62d0506d:
+
+    # Willow "Phew!"
+    Willow ""
+
+# game/logic/events/haley.rpy:3345
+translate russian Haley_17_label_c1e4731f:
+
+    # Willow "I feel alive again, finally."
+    Willow ""
+
+# game/logic/events/haley.rpy:3346
+translate russian Haley_17_label_cd849f21:
+
+    # ch_Name "Any luck?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3348
+translate russian Haley_17_label_d02ad890:
+
+    # Willow "Here you go."
+    Willow ""
+
+# game/logic/events/haley.rpy:3349
+translate russian Haley_17_label_fd8f5a4e:
+
+    # ch_Name "Woooooow!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3351
+translate russian Haley_17_label_40a7c1f1:
+
+    # ch_Name "You're my hero, Willow!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3352
+translate russian Haley_17_label_be461cc3:
+
+    # ch_Name "You did a great job!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3354
+translate russian Haley_17_label_76b86346:
+
+    # Willow "God, I'm soooo tired."
+    Willow ""
+
+# game/logic/events/haley.rpy:3355
+translate russian Haley_17_label_f50c06e3:
+
+    # Willow "Do you have any food with you?"
+    Willow ""
+
+# game/logic/events/haley.rpy:3356
+translate russian Haley_17_label_637dad97:
+
+    # ch_Name "I have a carrot If you want one."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3357
+translate russian Haley_17_label_12568fff:
+
+    # Willow "I haven't eaten anything for several days."
+    Willow ""
+
+# game/logic/events/haley.rpy:3359
+translate russian Haley_17_label_a5b65a7f:
+
+    # ch_Name "Several days?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3360
+translate russian Haley_17_label_170b35c4:
+
+    # ch_Name "You've been gone for five, maybe ten minutes."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3361
+translate russian Haley_17_label_54cfb4dd:
+
+    # Willow "In my grove time goes on differently."
+    Willow ""
+
+# game/logic/events/haley.rpy:3362
+translate russian Haley_17_label_60d251c1:
+
+    # Willow "I spent nearly a week there to find your ingredients."
+    Willow ""
+
+# game/logic/events/haley.rpy:3364
+translate russian Haley_17_label_dba1e000:
+
+    # ch_Name "Willow!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3365
+translate russian Haley_17_label_4d112a71:
+
+    # ch_Name "You're the sweetest thing ever!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3366
+translate russian Haley_17_label_81ac6c17:
+
+    # ch_Name "I don't think I'll ever be able to thank you enough."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3367
+translate russian Haley_17_label_e65b7b7b:
+
+    # Willow "It's too early to tell, he-he."
+    Willow ""
+
+# game/logic/events/haley.rpy:3369
+translate russian Haley_17_label_f1ad236f:
+
+    # Willow "Thanks for the carrot."
+    Willow ""
+
+# game/logic/events/haley.rpy:3370
+translate russian Haley_17_label_c3802fa6:
+
+    # ch_Name "Aww, that's nothing."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3371
+translate russian Haley_17_label_e209608c:
+
+    # ch_Name "Okay, I'll go."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3373
+translate russian Haley_17_label_9e4df313:
+
+    # ch_Name "Come here, honey."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3374
+translate russian Haley_17_label_67676fec:
+
+    # ch_Name "Thank you again!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3375
+translate russian Haley_17_label_f638b680:
+
+    # Willow "Bye-bye!"
+    Willow ""
+
+# game/logic/events/haley.rpy:3384
+translate russian Haley_17_label_dad51014:
+
+    # ch_Name "{i}(Well, now that it's done, I have some spare time.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3385
+translate russian Haley_17_label_04b411c8:
+
+    # ch_Name "{i}(And I surely want to go to Lady Luck later in the evening.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3386
+translate russian Haley_17_label_4188200b:
+
+    # ch_Name "{i}(Oh, I know! I should get some coffee.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3388
+translate russian Haley_17_label_39c50506:
+
+    # ch_Name "{i}(Nothing makes the day better than a cup of Ahchi's coffee.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3389
+translate russian Haley_17_label_bda7f7fd:
+
+    # ch_Name "{i}(And I'm sure I'll find some company to drink it with.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3393
+translate russian Haley_17_label_b2d25e4f:
+
+    # ch_Name "{i}(Ah, I can already smell delicious arabica!){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3394
+translate russian Haley_17_label_e33542ee:
+
+    # ch_Name "{i}(What a pleasure!){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3399
+translate russian Haley_18_label_b4c8c248:
+
+    # NoName "Ring-ring..."
+    NoName ""
+
+# game/logic/events/haley.rpy:3400
+translate russian Haley_18_label_df1c22ff:
+
+    # ch_Name "{i}(Hmm, someone's calling me.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3402
+translate russian Haley_18_label_960956ac:
+
+    # ch_Name "Haley?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3403
+translate russian Haley_18_label_3f81266e:
+
+    # Haley "Hello, [Name]!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3404
+translate russian Haley_18_label_2d29513b:
+
+    # ch_Name "It's nice to hear your voice!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3405
+translate russian Haley_18_label_a165e506:
+
+    # Haley "You sound sleepy."
+    Haley ""
+
+# game/logic/events/haley.rpy:3406
+translate russian Haley_18_label_1aa1c4e4:
+
+    # Haley "Sorry if I woke you up."
+    Haley ""
+
+# game/logic/events/haley.rpy:3407
+translate russian Haley_18_label_4c06826e:
+
+    # ch_Name "No, no... that's okay."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3408
+translate russian Haley_18_label_ea0255d8:
+
+    # Haley "It's... I can't stop thinking about Elijah's brother, and the ritual."
+    Haley ""
+
+# game/logic/events/haley.rpy:3410
+translate russian Haley_18_label_e8a31a8d:
+
+    # Haley "I am not trying to rush you, but..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3411
+translate russian Haley_18_label_8c8d291e:
+
+    # Haley "Did you manage to get all the ingredients for the ritual?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3412
+translate russian Haley_18_label_e0635a17:
+
+    # ch_Name "Oh, Haley! Sorry, I completely forgot to tell you."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3413
+translate russian Haley_18_label_1d0846ac:
+
+    # ch_Name "I got very lucky!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3414
+translate russian Haley_18_label_3f2eef53:
+
+    # ch_Name "I was able to get ahold of everything we needed."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3415
+translate russian Haley_18_label_3e0b777f:
+
+    # ch_Name "The only thing we have left to do is perform the ritual."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3416
+translate russian Haley_18_label_fe992e63:
+
+    # Haley "Really?!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3417
+translate russian Haley_18_label_dc8c6395:
+
+    # Haley "I'm so excited, [Name]!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3418
+translate russian Haley_18_label_404e0e8e:
+
+    # ch_Name "We need to celebrate it."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3420
+translate russian Haley_18_label_caef6a1c:
+
+    # ch_Name "Do you have plans for tonight?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3421
+translate russian Haley_18_label_1b7e60fc:
+
+    # Haley "No, actually."
+    Haley ""
+
+# game/logic/events/haley.rpy:3422
+translate russian Haley_18_label_256f4f06:
+
+    # ch_Name "Maybe we can have our first real date... like we talked about?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3423
+translate russian Haley_18_label_7ee07798:
+
+    # ch_Name "And now we have a reason!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3424
+translate russian Haley_18_label_9aca9c31:
+
+    # Haley "That'd be great!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3425
+translate russian Haley_18_label_7b725f3c:
+
+    # Haley "Where should we go?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3426
+translate russian Haley_18_label_fd7f778e:
+
+    # ch_Name "Let's go on a picnic!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3428
+translate russian Haley_18_label_078393ae:
+
+    # ch_Name "What do you think?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3429
+translate russian Haley_18_label_5044eb69:
+
+    # Haley "Picnic? Sounds awesome!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3430
+translate russian Haley_18_label_a2555d5c:
+
+    # Haley "I hardly can wait for it."
+    Haley ""
+
+# game/logic/events/haley.rpy:3431
+translate russian Haley_18_label_ed503425:
+
+    # ch_Name "So I'll pick you up tonight?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3432
+translate russian Haley_18_label_fcdff6fd:
+
+    # Haley "Okay. I'll be waiting for you."
+    Haley ""
+
+# game/logic/events/haley.rpy:3447
+translate russian Haley_19_label_b6ce45a5:
+
+    # NoName "Knock-Knock"
+    NoName ""
+
+# game/logic/events/haley.rpy:3448
+translate russian Haley_19_label_255e8895:
+
+    # ch_Name "{i}(All right, here we go.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3449
+translate russian Haley_19_label_3a132477:
+
+    # ch_Name "{i}(My palms are sweaty, and my heart is racing...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3450
+translate russian Haley_19_label_cff599a7:
+
+    # ch_Name "{i}(What are you doing to me, Haley?){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3451
+translate russian Haley_19_label_c6beb62d:
+
+    # Haley "One second, please."
+    Haley ""
+
+# game/logic/events/haley.rpy:3452
+translate russian Haley_19_label_9454fffa:
+
+    # Haley "I'm coming!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3458
+translate russian Haley_19_label_00b5e4d9:
+
+    # ch_Name "Wow!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3459
+translate russian Haley_19_label_a1cbc74c:
+
+    # ch_Name "I'm... um... just... wow!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3460
+translate russian Haley_19_label_832807a1:
+
+    # ch_Name "Haley, you look... incredible!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3462
+translate russian Haley_19_label_1b97935e:
+
+    # ch_Name "That dress is so pretty!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3463
+translate russian Haley_19_label_1a6043ec:
+
+    # ch_Name "This color looks really good on you."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3464
+translate russian Haley_19_label_7b967ef1:
+
+    # Haley "He-he-he."
+    Haley ""
+
+# game/logic/events/haley.rpy:3465
+translate russian Haley_19_label_dbeb9bef:
+
+    # Haley "Thank you! "
+    Haley ""
+
+# game/logic/events/haley.rpy:3467
+translate russian Haley_19_label_0aeeed9f:
+
+    # Haley "What do you have in the basket?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3468
+translate russian Haley_19_label_97c1eac8:
+
+    # ch_Name "That's a little secret."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3469
+translate russian Haley_19_label_cbedcd2e:
+
+    # ch_Name "At least for now."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3470
+translate russian Haley_19_label_83fc7f0b:
+
+    # ch_Name "You'll find out in a little bit."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3471
+translate russian Haley_19_label_20c22808:
+
+    # Haley "Intriguing! Okay, let's go then."
+    Haley ""
+
+# game/logic/events/haley.rpy:3473
+translate russian Haley_19_label_20f3fe1d:
+
+    # ch_Name "Mwah!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3474
+translate russian Haley_19_label_a0a2abbb:
+
+    # Haley "Ohh!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3475
+translate russian Haley_19_label_36e25223:
+
+    # Haley "That was sweet!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3477
+translate russian Haley_19_label_91634caa:
+
+    # ch_Name "You're sweet, Haley."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3478
+translate russian Haley_19_label_5964e5d3:
+
+    # Haley "Pheew!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3485
+translate russian Haley_19_label_ac0d63e2:
+
+    # Haley "There's such a different atmosphere here during the evenings."
+    Haley ""
+
+# game/logic/events/haley.rpy:3486
+translate russian Haley_19_label_7a5e1d7d:
+
+    # ch_Name "I'd say it's romantic... and maybe a bit more intimate."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3487
+translate russian Haley_19_label_61dae750:
+
+    # ch_Name "I just hope the angels don't decide to damage anything."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3488
+translate russian Haley_19_label_396db12c:
+
+    # Haley "Ha-ha-ha, that's true."
+    Haley ""
+
+# game/logic/events/haley.rpy:3489
+translate russian Haley_19_label_ada6f190:
+
+    # ch_Name "I think they're making this date just a little more charming."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3491
+translate russian Haley_19_label_640cb273:
+
+    # Haley "Well, I couldn't say... this is all so new."
+    Haley ""
+
+# game/logic/events/haley.rpy:3492
+translate russian Haley_19_label_5149149b:
+
+    # Haley "This is my first real date..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3493
+translate russian Haley_19_label_f4c4a7be:
+
+    # Haley "And my first time getting butterflies in my stomach."
+    Haley ""
+
+# game/logic/events/haley.rpy:3494
+translate russian Haley_19_label_9f107997:
+
+    # ch_Name "I feel them too!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3496
+translate russian Haley_19_label_8dc57e52:
+
+    # ch_Name "And some other emotions as well."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3497
+translate russian Haley_19_label_bcd27df5:
+
+    # ch_Name "I don't know if I can describe it but it's like..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3498
+translate russian Haley_19_label_f1d85d99:
+
+    # ch_Name "Joy, happiness, and a strange kind of excitement got all mixed together."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3499
+translate russian Haley_19_label_4d7bcd65:
+
+    # ch_Name "But only when you're around."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3500
+translate russian Haley_19_label_0358ac6c:
+
+    # Haley "Oh!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3501
+translate russian Haley_19_label_c6cc3211:
+
+    # ch_Name "This is new to me too... I didn't know it was possible to feel this way."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3503
+translate russian Haley_19_label_4b34586a:
+
+    # Haley "Oh, God!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3504
+translate russian Haley_19_label_80b5ed7f:
+
+    # ch_Name "Fuck!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3505
+translate russian Haley_19_label_6b7a1549:
+
+    # Haley "Well... I'll never get used to how quickly they move."
+    Haley ""
+
+# game/logic/events/haley.rpy:3507
+translate russian Haley_19_label_5edfb9a5:
+
+    # Haley "My heart nearly jumped out of my chest."
+    Haley ""
+
+# game/logic/events/haley.rpy:3508
+translate russian Haley_19_label_2f18f2ed:
+
+    # Haley "The atmosphere is special here, but maybe we should find another place?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3509
+translate russian Haley_19_label_ac6e00c6:
+
+    # Haley "Maybe one that's a little more peaceful?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3510
+translate russian Haley_19_label_5ae94bce:
+
+    # ch_Name "Hmmm... there's a lawn over there that's not too far."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3512
+translate russian Haley_19_label_967889b2:
+
+    # ch_Name "Plus, there are no angels over there. "
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3513
+translate russian Haley_19_label_c768bf83:
+
+    # Haley "That sounds perfect!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3514
+translate russian Haley_19_label_8c8424be:
+
+    # Haley "I'm starting to get a little hungry."
+    Haley ""
+
+# game/logic/events/haley.rpy:3515
+translate russian Haley_19_label_fedb2be9:
+
+    # ch_Name "Then we need to fix that!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3524
+translate russian Haley_19_label_from_gallery_07c24938:
+
+    # ch_Name "Here we are."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3525
+translate russian Haley_19_label_from_gallery_5dcaafda:
+
+    # Haley "Such a wonderful place for a picnic!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3526
+translate russian Haley_19_label_from_gallery_b0c7ff0d:
+
+    # ch_Name "Time to turn away."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3527
+translate russian Haley_19_label_from_gallery_6c2e838b:
+
+    # Haley "What?!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3528
+translate russian Haley_19_label_from_gallery_4587f240:
+
+    # ch_Name "No peeking until I get everything set up!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3529
+translate russian Haley_19_label_from_gallery_cd156829:
+
+    # ch_Name "Sorry, that's the rule."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3531
+translate russian Haley_19_label_from_gallery_698cf441:
+
+    # Haley "Well..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3532
+translate russian Haley_19_label_from_gallery_dde5014d:
+
+    # ch_Name "I'll be quick."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3533
+translate russian Haley_19_label_from_gallery_7216038c:
+
+    # ch_Name "So no peeking... okay?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3534
+translate russian Haley_19_label_from_gallery_3fefff43:
+
+    # ch_Name "Keep your eyes shut until I say."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3536
+translate russian Haley_19_label_from_gallery_82076cb0:
+
+    # ch_Name "Can I trust you with that?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3537
+translate russian Haley_19_label_from_gallery_6be5f3e5:
+
+    # Haley "C'mon, [Name], I'm not going to spoil your surprise."
+    Haley ""
+
+# game/logic/events/haley.rpy:3538
+translate russian Haley_19_label_from_gallery_de97c222:
+
+    # Haley "Take your time!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3539
+translate russian Haley_19_label_from_gallery_e7a556ae:
+
+    # Haley "It's almost done."
+    Haley ""
+
+# game/logic/events/haley.rpy:3541
+translate russian Haley_19_label_from_gallery_797ba077:
+
+    # Haley "Mmmmm!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3542
+translate russian Haley_19_label_from_gallery_8936a800:
+
+    # Haley "So exciting to feel your warm breath..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3543
+translate russian Haley_19_label_from_gallery_bb3c633b:
+
+    # ch_Name "The scent of your skin... "
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3544
+translate russian Haley_19_label_from_gallery_d55f2c0d:
+
+    # ch_Name "It's a turn-on, actually."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3546
+translate russian Haley_19_label_from_gallery_f93f7439:
+
+    # ch_Name "And the sweet taste of your lips..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3547
+translate russian Haley_19_label_from_gallery_dfc2885e:
+
+    # ch_Name "I missed it."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3548
+translate russian Haley_19_label_from_gallery_c26d4416:
+
+    # Haley "Mhmm..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3549
+translate russian Haley_19_label_from_gallery_2d203769:
+
+    # ch_Name "The touch of your tongue... it's amazing!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3551
+translate russian Haley_19_label_from_gallery_02f69ecb:
+
+    # ch_Name "I think I'm in love with you, Haley."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3552
+translate russian Haley_19_label_from_gallery_603a1e73:
+
+    # Haley "I think that I feel it too..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3553
+translate russian Haley_19_label_from_gallery_8401127b:
+
+    # Haley "Soo..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3555
+translate russian Haley_19_label_from_gallery_97e3b716:
+
+    # Haley "What about the picnic?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3556
+translate russian Haley_19_label_from_gallery_f18431a1:
+
+    # ch_Name "Sorry, I almost forgot about it."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3557
+translate russian Haley_19_label_from_gallery_ed691f09:
+
+    # ch_Name "I can't think about anything else whenever you're close to me."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3559
+translate russian Haley_19_label_from_gallery_884f9d96:
+
+    # ch_Name "Do you like it?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3560
+translate russian Haley_19_label_from_gallery_9aae42e1:
+
+    # Haley "I'm speechless!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3561
+translate russian Haley_19_label_from_gallery_36ad1fc9:
+
+    # Haley "This is wonderful, [Name]!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3562
+translate russian Haley_19_label_from_gallery_8a1f46a1:
+
+    # ch_Name "Bon appetit!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3564
+translate russian Haley_19_label_from_gallery_abaa2456:
+
+    # ch_Name "I didn't know which wine you'd prefer, so I took this one."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3565
+translate russian Haley_19_label_from_gallery_d8a4945e:
+
+    # ch_Name "Hope you'll enjoy it."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3566
+translate russian Haley_19_label_from_gallery_c206fe05:
+
+    # Haley "I don't really drink wine, actually."
+    Haley ""
+
+# game/logic/events/haley.rpy:3567
+translate russian Haley_19_label_from_gallery_25818a5f:
+
+    # ch_Name "Just a little bit."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3569
+translate russian Haley_19_label_from_gallery_032aca43:
+
+    # ch_Name "Not that much."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3570
+translate russian Haley_19_label_from_gallery_86106c86:
+
+    # Haley "Sure, I'm all for it."
+    Haley ""
+
+# game/logic/events/haley.rpy:3571
+translate russian Haley_19_label_from_gallery_0330591a:
+
+    # Haley "Especially with such company, he-he."
+    Haley ""
+
+# game/logic/events/haley.rpy:3572
+translate russian Haley_19_label_from_gallery_078393ae:
+
+    # ch_Name "What do you think?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3573
+translate russian Haley_19_label_from_gallery_34d3918d:
+
+    # Haley "Mmm!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3574
+translate russian Haley_19_label_from_gallery_9481bbe4:
+
+    # ch_Name "Tastes good."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3576
+translate russian Haley_19_label_from_gallery_d8747eb7:
+
+    # Haley "But I think I can already feel the effects of the alcohol. "
+    Haley ""
+
+# game/logic/events/haley.rpy:3577
+translate russian Haley_19_label_from_gallery_a7f8b1dc:
+
+    # ch_Name "That's not bad."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3578
+translate russian Haley_19_label_from_gallery_f02503bc:
+
+    # ch_Name "Let's just relax."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3579
+translate russian Haley_19_label_from_gallery_44d07891:
+
+    # ch_Name "We deserve the rest."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3580
+translate russian Haley_19_label_from_gallery_b67070b2:
+
+    # Haley "Yes, you're right."
+    Haley ""
+
+# game/logic/events/haley.rpy:3582
+translate russian Haley_19_label_from_gallery_281b4f03:
+
+    # ch_Name "Do you feel cold?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3583
+translate russian Haley_19_label_from_gallery_7a5be25c:
+
+    # ch_Name "I can see your nipples get hard."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3584
+translate russian Haley_19_label_from_gallery_0426ee84:
+
+    # ch_Name "Sorry, I'm just worried about you."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3585
+translate russian Haley_19_label_from_gallery_f0aa552f:
+
+    # Haley "The breeze is a little chilly."
+    Haley ""
+
+# game/logic/events/haley.rpy:3587
+translate russian Haley_19_label_from_gallery_cb9fe62f:
+
+    # Haley "And I've got goosebumps."
+    Haley ""
+
+# game/logic/events/haley.rpy:3588
+translate russian Haley_19_label_from_gallery_8696b042:
+
+    # Haley "But maybe that's because of you?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3589
+translate russian Haley_19_label_from_gallery_5a3800f7:
+
+    # Haley "I can't say."
+    Haley ""
+
+# game/logic/events/haley.rpy:3590
+translate russian Haley_19_label_from_gallery_860ca542:
+
+    # ch_Name "Oh, really?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3592
+translate russian Haley_19_label_from_gallery_6083ec7f:
+
+    # Haley "[Name], w-what..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3593
+translate russian Haley_19_label_from_gallery_a0a2abbb:
+
+    # Haley "Ohh!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3594
+translate russian Haley_19_label_from_gallery_4fd2d8cc:
+
+    # Haley "What are you doing?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3595
+translate russian Haley_19_label_from_gallery_2adba954:
+
+    # ch_Name "I only want to keep you warm."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3596
+translate russian Haley_19_label_from_gallery_30f19641:
+
+    # ch_Name "But I'm starting to lose control."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3597
+translate russian Haley_19_label_from_gallery_834aa93d:
+
+    # Haley "I've dreamt about you, too many times to just stop."
+    Haley ""
+
+# game/logic/events/haley.rpy:3599
+translate russian Haley_19_label_from_gallery_c3d0a140:
+
+    # Haley "Mmmmmm!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3600
+translate russian Haley_19_label_from_gallery_089940ee:
+
+    # Haley "Whew!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3601
+translate russian Haley_19_label_from_gallery_44c03efa:
+
+    # ch_Name "What are you doing to me, Haley?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3602
+translate russian Haley_19_label_from_gallery_f8952711:
+
+    # Haley "I..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3604
+translate russian Haley_19_label_from_gallery_d268e865:
+
+    # ch_Name "How does this feel?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3605
+translate russian Haley_19_label_from_gallery_44dccde5:
+
+    # ch_Name "Is this your first time?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3606
+translate russian Haley_19_label_from_gallery_51f4e860:
+
+    # ch_Name "I think I'm the first to touch you here."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3608
+translate russian Haley_19_label_from_gallery_cd8abaea:
+
+    # Haley "Oh, [Name]!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3609
+translate russian Haley_19_label_from_gallery_d6860621:
+
+    # Haley "We should stop!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3610
+translate russian Haley_19_label_from_gallery_11a00ce4:
+
+    # Haley "My heart is about to explode!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3612
+translate russian Haley_19_label_from_gallery_e1e7702f:
+
+    # Haley "Gosh..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3614
+translate russian Haley_19_label_from_gallery_035f8115:
+
+    # Haley "Mhmmm..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3615
+translate russian Haley_19_label_from_gallery_44f1d18a:
+
+    # ch_Name "Do you still want me to stop?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3616
+translate russian Haley_19_label_from_gallery_8275571d:
+
+    # Haley "No, please!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3617
+translate russian Haley_19_label_from_gallery_19f7fb70:
+
+    # Haley "Don't stop!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3618
+translate russian Haley_19_label_from_gallery_0ae9bcd0:
+
+    # ""
+    ""
+
+# game/logic/events/haley.rpy:3620
+translate russian Haley_19_label_from_gallery_4cd7be04:
+
+    # ch_Name "You're super wet already."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3621
+translate russian Haley_19_label_from_gallery_8a4ce7a2:
+
+    # ch_Name "And so warm..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3622
+translate russian Haley_19_label_from_gallery_571603df:
+
+    # ch_Name "It's a real pleasure to touch you, Haley."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3623
+translate russian Haley_19_label_from_gallery_614bc22c:
+
+    # ch_Name "You can't even imagine how long I've waited for this."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3625
+translate russian Haley_19_label_from_gallery_797ba077_1:
+
+    # Haley "Mmmmm!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3627
+translate russian Haley_19_label_from_gallery_299af68e:
+
+    # Haley "It's better than I thought it would be..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3628
+translate russian Haley_19_label_from_gallery_18511365:
+
+    # ch_Name "You were thinking about us, right?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3629
+translate russian Haley_19_label_from_gallery_dc76ed94:
+
+    # Haley "I think about it all the time."
+    Haley ""
+
+# game/logic/events/haley.rpy:3630
+translate russian Haley_19_label_from_gallery_515f8f58:
+
+    # Haley "Sometimes it's really hard to focus on the study when all my thoughts are about you..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3631
+translate russian Haley_19_label_from_gallery_0ae9bcd0_1:
+
+    # ""
+    ""
+
+# game/logic/events/haley.rpy:3633
+translate russian Haley_19_label_from_gallery_f8dbaeaa:
+
+    # ch_Name "I think about me being inside you too often."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3634
+translate russian Haley_19_label_from_gallery_60e9ebfd:
+
+    # ch_Name "The mere thought of it could make me cum."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3635
+translate russian Haley_19_label_from_gallery_0b5c6811:
+
+    # ch_Name "The thought that we can be even closer to each other."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3636
+translate russian Haley_19_label_from_gallery_4c9eb580:
+
+    # Haley "Uhhhh!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3638
+translate russian Haley_19_label_from_gallery_9c147ffc:
+
+    # ch_Name "I want to know what it feels like."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3639
+translate russian Haley_19_label_from_gallery_797ba077_2:
+
+    # Haley "Mmmmm!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3640
+translate russian Haley_19_label_from_gallery_4a32f391:
+
+    # Haley "I want to feel you inside me..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3641
+translate russian Haley_19_label_from_gallery_f9d3413b:
+
+    # Haley "I really want it, [Name]..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3644
+translate russian Haley_19_label_from_gallery_2d2fb8b9:
+
+    # Haley "Oh, have you heard it?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3645
+translate russian Haley_19_label_from_gallery_1855220c:
+
+    # ch_Name "What?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3646
+translate russian Haley_19_label_from_gallery_bf007894:
+
+    # Haley "A strange rustle."
+    Haley ""
+
+# game/logic/events/haley.rpy:3647
+translate russian Haley_19_label_from_gallery_c23aa417:
+
+    # Haley "That's coming from there!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3649
+translate russian Haley_19_label_from_gallery_3826c36a:
+
+    # ch_Name "I don't hear anything."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3650
+translate russian Haley_19_label_from_gallery_8b2e28f7:
+
+    # Haley "I will check the bushes."
+    Haley ""
+
+# game/logic/events/haley.rpy:3651
+translate russian Haley_19_label_from_gallery_6fda8a79:
+
+    # ch_Name "Let's go together."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3658
+translate russian Haley_19_label_from_gallery_ce1190e2:
+
+    # Haley "Three..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3659
+translate russian Haley_19_label_from_gallery_184701d3:
+
+    # ch_Name "Two..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3660
+translate russian Haley_19_label_from_gallery_aad105d8:
+
+    # Haley "One..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3662
+translate russian Haley_19_label_from_gallery_bd4fc747:
+
+    # "" with hpunch
+    "" with hpunch
+
+# game/logic/events/haley.rpy:3663
+translate russian Haley_19_label_from_gallery_e97f88ee:
+
+    # ch_Name "What the...?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3665
+translate russian Haley_19_label_from_gallery_45ecf467:
+
+    # Haley "Oops!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3666
+translate russian Haley_19_label_from_gallery_d5eefa03:
+
+    # UnknownElf "What is going on?"
+    UnknownElf ""
+
+# game/logic/events/haley.rpy:3667
+translate russian Haley_19_label_from_gallery_02f04705:
+
+    # ch_Name "Well, we..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3669
+translate russian Haley_19_label_from_gallery_9dd6944f:
+
+    # ch_Name "We're just looking around."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3670
+translate russian Haley_19_label_from_gallery_34e3ab01:
+
+    # UnknownElf "And what do you want from us, magicians?"
+    UnknownElf ""
+
+# game/logic/events/haley.rpy:3671
+translate russian Haley_19_label_from_gallery_e3bac523:
+
+    # ch_Name "Mmmm... Nothing. "
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3672
+translate russian Haley_19_label_from_gallery_35ed56b4:
+
+    # Haley "Okay, we... will better go."
+    Haley ""
+
+# game/logic/events/haley.rpy:3674
+translate russian Haley_19_label_from_gallery_db57b327:
+
+    # ch_Name "What the hell was that?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3675
+translate russian Haley_19_label_from_gallery_0cd4b51b:
+
+    # ch_Name "Is there love in the air?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3676
+translate russian Haley_19_label_from_gallery_29e085e6:
+
+    # Haley "Ha-ha-ha-ha-ha-ha."
+    Haley ""
+
+# game/logic/events/haley.rpy:3677
+translate russian Haley_19_label_from_gallery_0c9cd5e7:
+
+    # Haley "I have no idea, actually."
+    Haley ""
+
+# game/logic/events/haley.rpy:3678
+translate russian Haley_19_label_from_gallery_b15edb20:
+
+    # ch_Name "Well, yeah..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3679
+translate russian Haley_19_label_from_gallery_bc1e7785:
+
+    # Haley "What time is it, by the way?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3681
+translate russian Haley_19_label_from_gallery_4059c118:
+
+    # ch_Name "11 p.m."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3682
+translate russian Haley_19_label_from_gallery_a0fd0f9a:
+
+    # Haley "Really? It's so late."
+    Haley ""
+
+# game/logic/events/haley.rpy:3683
+translate russian Haley_19_label_from_gallery_463c23c9:
+
+    # Haley "Time to go to the campus."
+    Haley ""
+
+# game/logic/events/haley.rpy:3685
+translate russian Haley_19_label_from_gallery_8cb61243:
+
+    # ch_Name "Okay..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3686
+translate russian Haley_19_label_from_gallery_264c5a80:
+
+    # ch_Name "Let's put all the things in the basket firstly."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3687
+translate russian Haley_19_label_from_gallery_9748eec8:
+
+    # Haley "Sure, I'll help you with that."
+    Haley ""
+
+# game/logic/events/haley.rpy:3694
+translate russian Haley_19_label_from_gallery_86402177:
+
+    # Haley "I'm so sleepy!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3695
+translate russian Haley_19_label_from_gallery_5a0f6903:
+
+    # Haley "I want to go to bed as soon as possible."
+    Haley ""
+
+# game/logic/events/haley.rpy:3696
+translate russian Haley_19_label_from_gallery_85c8579f:
+
+    # ch_Name "Thank you for this evening, cutie."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3698
+translate russian Haley_19_label_from_gallery_3d39623d:
+
+    # Haley "It was you who organized everything!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3699
+translate russian Haley_19_label_from_gallery_58fa4769:
+
+    # Haley "And it was amazing."
+    Haley ""
+
+# game/logic/events/haley.rpy:3700
+translate russian Haley_19_label_from_gallery_732bd28b:
+
+    # ch_Name "Hope we can do it again one day."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3701
+translate russian Haley_19_label_from_gallery_7b967ef1:
+
+    # Haley "He-he-he."
+    Haley ""
+
+# game/logic/events/haley.rpy:3702
+translate russian Haley_19_label_from_gallery_8e56adab:
+
+    # Haley "Oh, by the way, about the ritual..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3703
+translate russian Haley_19_label_from_gallery_edd8bb84:
+
+    # Haley "Let's wait for a full moon firstly."
+    Haley ""
+
+# game/logic/events/haley.rpy:3704
+translate russian Haley_19_label_from_gallery_20f8f431:
+
+    # ch_Name "Okay. And I'll look for a suitable place where no one will bother us."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3705
+translate russian Haley_19_label_from_gallery_e854b5dc:
+
+    # ch_Name "Everything must be perfect."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3707
+translate russian Haley_19_label_from_gallery_a3757f41:
+
+    # ch_Name "Good night, Haley."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3708
+translate russian Haley_19_label_from_gallery_21f50013:
+
+    # Haley "Night-night!"
+    Haley ""
+

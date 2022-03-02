@@ -90,3 +90,11 @@ translate russian strings:
     old "Decline"
     new "Отказаться"
 
+# TODO: Translation updated at 2022-03-03 03:57
+
+translate russian strings:
+
+    # game/logic/main_interface/quest_log_screen.rpy:386
+    old "My\nhouse"
+    new ""
+

@@ -1970,3 +1970,45 @@ translate chinese strings:
     old "Mouth"
     new "嘴"
 
+# TODO: Translation updated at 2022-03-03 04:01
+
+# game/logic/episodes_after_first/ep2/sheet_28.rpy:261
+translate chinese sheet_28_1_254_5b9a608c:
+
+    # ch_Name "{i}(...wraps around my dick...){/i}"
+    ch_Name ""
+
+# game/logic/episodes_after_first/ep2/sheet_28.rpy:577
+translate chinese sheet_28_1_262_16_475d47b8:
+
+    # Leona "Ahhh... mmm..."
+    Leona ""
+
+# game/logic/episodes_after_first/ep2/sheet_28.rpy:578
+translate chinese sheet_28_1_262_16_0ae9bcd0:
+
+    # ""
+    ""
+
+# game/logic/episodes_after_first/ep2/sheet_28.rpy:581
+translate chinese sheet_28_1_262_16_0ae9bcd0_1:
+
+    # ""
+    ""
+
+# game/logic/episodes_after_first/ep2/sheet_28.rpy:584
+translate chinese sheet_28_1_262_16_475d47b8_1:
+
+    # Leona "Ahhh... mmm..."
+    Leona ""
+
+translate chinese strings:
+
+    # game/logic/episodes_after_first/ep2/sheet_28.rpy:396
+    old "No, it's enough"
+    new ""
+
+    # game/logic/episodes_after_first/ep2/sheet_28.rpy:396
+    old "Ready for action"
+    new ""
+

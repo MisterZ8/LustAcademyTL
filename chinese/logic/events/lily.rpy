@@ -9381,3 +9381,107 @@ translate chinese strings:
     # game/logic/events/lily.rpy:2245
     old "Stay friends"
     new "只是朋友关系"
+# TODO: Translation updated at 2022-03-03 04:01
+
+# game/logic/events/lily.rpy:305
+translate chinese Lily_1_label_8be32841:
+
+    # Lily "We are definitely not going to lose the house competition to Naomi!"
+    Lily ""
+
+# game/logic/events/lily.rpy:383
+translate chinese Lily_2_label_8e357813:
+
+    # Lily "Because Amelie gives house points for books!"
+    Lily ""
+
+# game/logic/events/lily.rpy:807
+translate chinese Lily_5_label_101_0eb871fd:
+
+    # ch_Name "Let's discuss the house points plan some other time."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:917
+translate chinese Lily_5_label_130_e806eb66:
+
+    # ch_Name "Let's discuss everything, including the house point plan, some other time."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:1277
+translate chinese Lily_6_label_b8666e03:
+
+    # Sabrina "If we split up now, I'll go gather the blood blossom."
+    Sabrina ""
+
+# game/logic/events/lily.rpy:1323
+translate chinese Lily_6_label_ef52c95a:
+
+    # ch_Name "I am.{w} But look at the compass..."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:1392
+translate chinese Lily_6_label_from_gallery_52a91796:
+
+    # Lily "You're cute."
+    Lily ""
+
+# game/logic/events/lily.rpy:1489
+translate chinese Lily_6_label_from_gallery_74397ddc:
+
+    # ch_Name "What a view!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:1605
+translate chinese Lily_6_label_224_d286d62a:
+
+    # Lily "Mhm-mm..."
+    Lily ""
+
+# game/logic/events/lily.rpy:1645
+translate chinese Lily_6_label_224_fa4720c1_3:
+
+    # Lily "M-m-m..."
+    Lily ""
+
+# game/logic/events/lily.rpy:1749
+translate chinese Lily_6_label_224_41c699e0:
+
+    # Lily "Hey! You're not going to cum inside me, are you?"
+    Lily ""
+
+# game/logic/events/lily.rpy:1765
+translate chinese Lily_6_label_224_aeccde45:
+
+    # Lily "DID YOU CUM IN ME?"
+    Lily ""
+
+# game/logic/events/lily.rpy:1777
+translate chinese Lily_6_label_224_006a0fd3:
+
+    # Lily "I'll have to take some crappy medicine to take care of it now."
+    Lily ""
+
+# game/logic/events/lily.rpy:1880
+translate chinese Lily_6_label_224_61b86815:
+
+    # Lily "O-okay."
+    Lily ""
+
+# game/logic/events/lily.rpy:2051
+translate chinese Lily_7_label_42045c25:
+
+    # ch_Name "Miss Spellman, I wanted to talk to you about something unusual."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2435
+translate chinese Lily_8_label_L_122_74eafeff:
+
+    # ch_Name "{i}(Just a little bit more and I'll cum...){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2441
+translate chinese Lily_8_label_L_122_c205f5f1:
+
+    # ch_Name "Yes..."
+    ch_Name ""
+

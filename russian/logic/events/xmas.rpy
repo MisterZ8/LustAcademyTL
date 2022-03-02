@@ -5962,3 +5962,41 @@ translate russian strings:
     old "Warning! The following Visual Novel is for adults and contains 18+ content, including Nudity and Sex scenes."
     new ""
 
+# TODO: Translation updated at 2022-03-03 03:57
+
+# game/logic/events/xmas.rpy:57
+translate russian Xmas_start_mc_544ba0b6:
+
+    # ch_Name "{i}(Oh, is it from that one time, when we celebrated Yule?){/i}"
+    ch_Name ""
+
+# game/logic/events/xmas.rpy:58
+translate russian Xmas_start_mc_9e2ba908:
+
+    # ch_Name "{i}(Yeah, that was fun...){/i}"
+    ch_Name ""
+
+# game/logic/events/xmas.rpy:59
+translate russian Xmas_start_mc_87cfe0bc:
+
+    # ch_Name "{i}(Strangely, it feels like I remember that day as if it was yesterday.){/i}"
+    ch_Name ""
+
+# game/logic/events/xmas.rpy:60
+translate russian Xmas_start_mc_5cd7101b:
+
+    # ch_Name "{i}(If I close my eyes, I can remember every second of it.){/i}"
+    ch_Name ""
+
+# game/logic/events/xmas.rpy:104
+translate russian Xmas_1_label_04b0d164:
+
+    # Arthur "...and students go with their houses to celebrate Yule..."
+    Arthur ""
+
+translate russian strings:
+
+    # game/logic/events/xmas.rpy:62
+    old "Relive the memory"
+    new ""
+

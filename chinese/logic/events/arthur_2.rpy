@@ -1576,3 +1576,41 @@ translate chinese strings:
     old "Don't look"
     new "不看"
 
+# TODO: Translation updated at 2022-03-03 04:01
+
+# game/logic/events/arthur_2.rpy:274
+translate chinese arthur_2_3_3df4f481:
+
+    # ch_Name "{i}(On the other hand, sometimes I don't even understand mine.){/i}"
+    ch_Name ""
+
+# game/logic/events/arthur_2.rpy:374
+translate chinese arthur_2_3_4a080171:
+
+    # Katrina "Enjoy your small victories while you can."
+    Katrina ""
+
+# game/logic/events/arthur_2.rpy:392
+translate chinese arthur_2_3_b72f5a90:
+
+    # Haley "You were dreaming... Was it a nightmare? "
+    Haley ""
+
+# game/logic/events/arthur_2.rpy:420
+translate chinese arthur_2_3_a362ffa5:
+
+    # Haley "Captain said she'd feed you to the sharks if you don't leave."
+    Haley ""
+
+# game/logic/events/arthur_2.rpy:422
+translate chinese arthur_2_3_47fc46f6:
+
+    # Haley "Would you be surprised?"
+    Haley ""
+
+# game/logic/events/arthur_2.rpy:580
+translate chinese arthur_2_5_232f7e79:
+
+    # Elijah "There's the hottest nightclub in town around the corner. Lady Luck."
+    Elijah ""
+

@@ -872,3 +872,179 @@ translate chinese strings:
     old "Skip prologue"
     new "跳过序言"
 
+# TODO: Translation updated at 2022-03-03 04:01
+
+translate chinese strings:
+
+    # game/script.rpy:198
+    old "House competitions"
+    new ""
+
+    # game/script.rpy:200
+    old "Weekly competitions held"
+    new ""
+
+    # game/script.rpy:202
+    old "Leonheart wins"
+    new ""
+
+    # game/script.rpy:204
+    old "Adderin wins"
+    new ""
+
+    # game/script.rpy:206
+    old "Crowhive wins"
+    new ""
+
+    # game/script.rpy:208
+    old "Martenden wins"
+    new ""
+
+    # game/script.rpy:210
+    old "Lost books found"
+    new ""
+
+    # game/script.rpy:212
+    old "Training"
+    new ""
+
+    # game/script.rpy:214
+    old "Combat Bolt Training"
+    new ""
+
+    # game/script.rpy:216
+    old "Rictusempra Training"
+    new ""
+
+    # game/script.rpy:218
+    old "Incendio Training"
+    new ""
+
+    # game/script.rpy:220
+    old "Episkey Training"
+    new ""
+
+    # game/script.rpy:222
+    old "Lesser Heal potions brewed"
+    new ""
+
+    # game/script.rpy:224
+    old "Stoneskin potions brewed"
+    new ""
+
+    # game/script.rpy:226
+    old "Inspiration potions brewed"
+    new ""
+
+    # game/script.rpy:228
+    old "Reflection potions brewed"
+    new ""
+
+    # game/script.rpy:230
+    old "Duels performed"
+    new ""
+
+    # game/script.rpy:232
+    old "Defeats in duels"
+    new ""
+
+    # game/script.rpy:234
+    old "Victory over Adderin"
+    new ""
+
+    # game/script.rpy:236
+    old "Victory over Crowhive"
+    new ""
+
+    # game/script.rpy:238
+    old "Victory over Martenden"
+    new ""
+
+    # game/script.rpy:240
+    old "Used Combat Bolt"
+    new ""
+
+    # game/script.rpy:242
+    old "Used Rictusempra"
+    new ""
+
+    # game/script.rpy:244
+    old "Used Incendio"
+    new ""
+
+    # game/script.rpy:246
+    old "Used Episkey"
+    new ""
+
+    # game/script.rpy:248
+    old "Lesser Heal potion used"
+    new ""
+
+    # game/script.rpy:250
+    old "Stoneskin potion used"
+    new ""
+
+    # game/script.rpy:252
+    old "Inspiration potion used"
+    new ""
+
+    # game/script.rpy:254
+    old "Reflection potions used"
+    new ""
+
+    # game/script.rpy:256
+    old "Total money earned"
+    new ""
+
+    # game/script.rpy:258
+    old "Total money spent"
+    new ""
+
+    # game/script.rpy:260
+    old "Found money"
+    new ""
+
+    # game/script.rpy:262
+    old "Worked shifts in the cafe"
+    new ""
+
+    # game/script.rpy:264
+    old "Earned money in the cafe"
+    new ""
+
+    # game/script.rpy:266
+    old "Fishing trips on Dale"
+    new ""
+
+    # game/script.rpy:268
+    old "Earned money fishing"
+    new ""
+
+    # game/script.rpy:270
+    old "Earned money another way"
+    new ""
+
+    # game/script.rpy:336
+    old "Disclaimer!"
+    new ""
+
+    # game/script.rpy:337
+    old "This is only the web version of the Lust Academy! Use it to try out our game right in your browser!"
+    new ""
+
+    # game/script.rpy:338
+    old "To enjoy the game with 60fps animations and atmospheric sound design, we highly recommend trying the full version of Lust Academy."
+    new ""
+
+    # game/script.rpy:339
+    old "Check out our {a=https://www.patreon.com/bearinthenight}Bear in the Night fan page{/a} for more details and to support the project!"
+    new ""
+
+    # game/script.rpy:343
+    old "Сontinue on the web version"
+    new ""
+
+    # game/script.rpy:344
+    old "Play the full version"
+    new ""
+

@@ -8211,3 +8211,1155 @@ translate russian strings:
     old "Say goodbye"
     new "Попрощаться"
 
+# TODO: Translation updated at 2022-03-03 03:57
+
+# game/logic/events/adele.rpy:395
+translate russian adele_2_label_e446c96f:
+
+    # Adele "So, how do you like Lady Luck?"
+    Adele ""
+
+# game/logic/events/adele.rpy:932
+translate russian vip_lucy_1_label_1_92a0abe8:
+
+    # ch_Name "Ohh!" with flash
+    ch_Name "" with flash
+
+# game/logic/events/adele.rpy:938
+translate russian vip_lucy_1_label_1_13f4862b:
+
+    # ch_Name "It's not over yet!" with flash
+    ch_Name "" with flash
+
+# game/logic/events/adele.rpy:980
+translate russian vip_lucy_1_label_2_c4145045:
+
+    # ch_Name "{i}(What does she want today?){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:984
+translate russian vip_lucy_1_label_2_9d207740:
+
+    # ch_Name "{i}(Just look at this gorgeous view!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:994
+translate russian vip_lucy_1_label_2_60500f24:
+
+    # ch_Name "I can't imagine getting bored in your company."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:1007
+translate russian vip_lucy_1_label_2_ad3c024d:
+
+    # ch_Name "It's easy to lose control when I look at these curves!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:1014
+translate russian vip_lucy_1_label_2_e314424b:
+
+    # Lucy "I'm getting wetter and wetter from your touching."
+    Lucy ""
+
+# game/logic/events/adele.rpy:1028
+translate russian vip_lucy_1_label_2_6e2566ed:
+
+    # ch_Name "{i}(What a view!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:1036
+translate russian vip_lucy_1_label_2_5cdab09c:
+
+    # Lucy "I want to rub my pussy on your cock..."
+    Lucy ""
+
+# game/logic/events/adele.rpy:1037
+translate russian vip_lucy_1_label_2_d3ce1f4c:
+
+    # Lucy "To feel it getting hard..."
+    Lucy ""
+
+# game/logic/events/adele.rpy:1042
+translate russian vip_lucy_1_label_2_4909ef40:
+
+    # Lucy "It's so nice to think about my body turning you on."
+    Lucy ""
+
+# game/logic/events/adele.rpy:1047
+translate russian vip_lucy_1_label_2_d0f7c586:
+
+    # Lucy "I cannot even imagine what I can experience using this toy."
+    Lucy ""
+
+# game/logic/events/adele.rpy:1052
+translate russian vip_lucy_1_label_2_33a54abe:
+
+    # ch_Name "Ohhhh!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:1064
+translate russian vip_lucy_1_label_2_6d2e65b5:
+
+    # ch_Name "Keep moving your ass, bitch."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:1068
+translate russian vip_lucy_1_label_2_7d320c69:
+
+    # ch_Name "{i}(I never felt this way before!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:1074
+translate russian vip_lucy_1_label_2_48226e7e:
+
+    # ch_Name "It's so amazing to feel your every dirty hole."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:1076
+translate russian vip_lucy_1_label_2_270054a0:
+
+    # Lucy "My skin wants to feel your cum!"
+    Lucy ""
+
+# game/logic/events/adele.rpy:1084
+translate russian vip_lucy_1_label_2_76e22f2b:
+
+    # Lucy "It's so pleasant to feel it flowing."
+    Lucy ""
+
+# game/logic/events/adele.rpy:1086
+translate russian vip_lucy_1_label_2_d775f1ca:
+
+    # ch_Name "{i}(What a little bitch!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:1087
+translate russian vip_lucy_1_label_2_8596365f:
+
+    # Lucy "Just inexpressible!"
+    Lucy ""
+
+# game/logic/events/adele.rpy:1095
+translate russian vip_lucy_1_label_2_e4862479:
+
+    # Lucy "I hope you visit us often."
+    Lucy ""
+
+# game/logic/events/adele.rpy:1292
+translate russian vip_sadira_1_label_1_6d019ab3:
+
+    # ch_Name "Oh yes, just like that."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:1295
+translate russian vip_sadira_1_label_1_259e24a9:
+
+    # Sadira "Me too..." with flash
+    Sadira "" with flash
+
+# game/logic/events/adele.rpy:1301
+translate russian vip_sadira_1_label_1_d78d68f0:
+
+    # Sadira "Yes! That's it!" with flash
+    Sadira "" with flash
+
+# game/logic/events/adele.rpy:1358
+translate russian vip_sadira_1_label_1_2277722f:
+
+    # Sadira "Look me in the eyes." with flash
+    Sadira "" with flash
+
+# game/logic/events/adele.rpy:1377
+translate russian vip_sadira_1_label_1_cda1ab7f_1:
+
+    # Sadira "C'ya around, honey."
+    Sadira ""
+
+# game/logic/events/adele.rpy:1511
+translate russian vip_sadira_1_label_2_beb922c0:
+
+    # ch_Name "{i}(If this keeps up, I'm going to cum.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:1513
+translate russian vip_sadira_1_label_2_055eeba4:
+
+    # ch_Name "I'm going to cum soon. Don't stop!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:1654
+translate russian vip_sadira_1_label_2_beb922c0_1:
+
+    # ch_Name "{i}(If this keeps up, I'm going to cum.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:1656
+translate russian vip_sadira_1_label_2_055eeba4_1:
+
+    # ch_Name "I'm going to cum soon. Don't stop!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2306
+translate russian adele_3_label_f8c76d0d:
+
+    # Adele "By the way, Vanessa bragged that she's getting better at making Bloody Mary's."
+    Adele ""
+
+# game/logic/events/adele.rpy:2307
+translate russian adele_3_label_581e6e13_1:
+
+    # Adele "Since you have the nerve to ask me out..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2457
+translate russian Adele_5_label_ba1ac958:
+
+    # ch_Name "{i}(Adele seems to miss the good company. Good thing I'm here now.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2458
+translate russian Adele_5_label_d23b66be:
+
+    # ch_Name "Hey, hi! You look great as always!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2460
+translate russian Adele_5_label_551577ab:
+
+    # Adele "Hi, [Name]! Nice to see you back at Lady Luck!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2461
+translate russian Adele_5_label_38cfdd3f:
+
+    # Adele "Do you want a table or a VIP with someone?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2462
+translate russian Adele_5_label_ec1c9904:
+
+    # ch_Name "Actually, I'm more interested in you."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2464
+translate russian Adele_5_label_6256e540:
+
+    # Adele "Me? The last time I looked, that wasn't on our menu."
+    Adele ""
+
+# game/logic/events/adele.rpy:2465
+translate russian Adele_5_label_38a14a70:
+
+    # ch_Name "Very funny. But I'm serious."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2466
+translate russian Adele_5_label_b0bb3847:
+
+    # ch_Name "I came here for you."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2467
+translate russian Adele_5_label_49c87aa5:
+
+    # ch_Name "Can I buy you a cocktail?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2469
+translate russian Adele_5_label_a2fe69f4:
+
+    # Adele "That's very sweet, doll. It really is, but I'm working right now."
+    Adele ""
+
+# game/logic/events/adele.rpy:2470
+translate russian Adele_5_label_85dec623:
+
+    # ch_Name "Would it really stop the world if you took a break?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2471
+translate russian Adele_5_label_390954a2:
+
+    # ch_Name "Besides, we won't go far, I promise."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2472
+translate russian Adele_5_label_7688104a:
+
+    # ch_Name "Technically, Vanessa's bar is in your workplace."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2474
+translate russian Adele_5_label_2f4580b3:
+
+    # Adele "You have a point..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2475
+translate russian Adele_5_label_8e88da8e:
+
+    # Adele "But I have to say no."
+    Adele ""
+
+# game/logic/events/adele.rpy:2476
+translate russian Adele_5_label_be31ce93:
+
+    # ch_Name "But why?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2477
+translate russian Adele_5_label_c69d2d31:
+
+    # Adele "The rules don't allow us to drink in the workplace."
+    Adele ""
+
+# game/logic/events/adele.rpy:2479
+translate russian Adele_5_label_1f394712:
+
+    # ch_Name "Stupid rules."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2480
+translate russian Adele_5_label_0a1ce0e3:
+
+    # ch_Name "Can't I buy a hottie I like a cocktail?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2481
+translate russian Adele_5_label_fc38ac08:
+
+    # Adele "You can, why not?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2482
+translate russian Adele_5_label_12322622:
+
+    # ch_Name "But you just said..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2484
+translate russian Adele_5_label_4fa368b3:
+
+    # Adele "But not during work hours."
+    Adele ""
+
+# game/logic/events/adele.rpy:2485
+translate russian Adele_5_label_085b2a22:
+
+    # Adele "Look, you're a great guy, and we had a great time at the cafe."
+    Adele ""
+
+# game/logic/events/adele.rpy:2486
+translate russian Adele_5_label_7c97a2e7:
+
+    # Adele "So I'd love to have a drink with you after work."
+    Adele ""
+
+# game/logic/events/adele.rpy:2487
+translate russian Adele_5_label_b6ec4d73:
+
+    # Adele "My shift ends tonight."
+    Adele ""
+
+# game/logic/events/adele.rpy:2489
+translate russian Adele_5_label_7ae6cd4a:
+
+    # Adele "In the meantime, you can enjoy our club's other offerings."
+    Adele ""
+
+# game/logic/events/adele.rpy:2490
+translate russian Adele_5_label_a31e4356:
+
+    # ch_Name "I came for you, and I'll wait for you, no matter how long it takes."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2491
+translate russian Adele_5_label_eb5f7945:
+
+    # Adele "And you're stubborn. I kind of like that."
+    Adele ""
+
+# game/logic/events/adele.rpy:2492
+translate russian Adele_5_label_7db58b6d:
+
+    # Adele "All right, wait for me."
+    Adele ""
+
+# game/logic/events/adele.rpy:2493
+translate russian Adele_5_label_dbf4b608:
+
+    # ch_Name "It's a deal."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2500
+translate russian Adele_5_label_f6d0bf83:
+
+    # ch_Name "{i}(It seems Adele's shift is almost coming to an end.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2501
+translate russian Adele_5_label_2d24405d:
+
+    # ch_Name "{i}(It's time to remind her that we had a date.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2502
+translate russian Adele_5_label_0f56166d:
+
+    # ch_Name "What's up, gorgeous? Aren't you tired of working?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2504
+translate russian Adele_5_label_5f1b87cb:
+
+    # Adele "I don't have the most tiring job, kitty. I'm always full of energy."
+    Adele ""
+
+# game/logic/events/adele.rpy:2505
+translate russian Adele_5_label_f7be7caf:
+
+    # Adele "Why?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2506
+translate russian Adele_5_label_a44f8185:
+
+    # ch_Name "I just thought since your shift's about to end..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2507
+translate russian Adele_5_label_0f5df5bf:
+
+    # ch_Name "I should buy you a cocktail at the bar. What do you think?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2509
+translate russian Adele_5_label_76f6700e:
+
+    # Adele "Oh, honey..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2510
+translate russian Adele_5_label_544f63c1:
+
+    # Adele "How could I refuse such a tempting offer?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2511
+translate russian Adele_5_label_d481750d:
+
+    # Adele "Especially when Vanessa makes the cocktails. Come on, let's go."
+    Adele ""
+
+# game/logic/events/adele.rpy:2518
+translate russian Adele_5_label_2de3c05c:
+
+    # Vanessa "I hope you like the cocktail."
+    Vanessa ""
+
+# game/logic/events/adele.rpy:2519
+translate russian Adele_5_label_bf5e14eb:
+
+    # Vanessa "I learned some new recipes."
+    Vanessa ""
+
+# game/logic/events/adele.rpy:2521
+translate russian Adele_5_label_95c095d8:
+
+    # Adele "Thanks, babe."
+    Adele ""
+
+# game/logic/events/adele.rpy:2522
+translate russian Adele_5_label_5eb87c7d:
+
+    # Adele "I'm sure you won't disappoint me."
+    Adele ""
+
+# game/logic/events/adele.rpy:2523
+translate russian Adele_5_label_5eb97e96:
+
+    # Vanessa "Disappoint you? Never!"
+    Vanessa ""
+
+# game/logic/events/adele.rpy:2525
+translate russian Adele_5_label_1d293118:
+
+    # ch_Name "{i}(Hmm... Perhaps I should have gotten a cocktail, too?){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2526
+translate russian Adele_5_label_0efa596f:
+
+    # ch_Name "{i}(Then again, last time a cocktail from Vanessa cost me a whole neck.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2527
+translate russian Adele_5_label_7f46f056:
+
+    # ch_Name "You and Vanessa have a, ahem... Interesting vibe. How long have you known each other?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2529
+translate russian Adele_5_label_b13a4f76:
+
+    # Adele "Vanessa?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2530
+translate russian Adele_5_label_5442f08a:
+
+    # Adele "Oh, it seems like forever."
+    Adele ""
+
+# game/logic/events/adele.rpy:2531
+translate russian Adele_5_label_d6361870:
+
+    # Adele "I hired her years ago. When I first opened the club."
+    Adele ""
+
+# game/logic/events/adele.rpy:2533
+translate russian Adele_5_label_a6dee367:
+
+    # ch_Name "Wait, so you don't just work here. Did you open this place?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2534
+translate russian Adele_5_label_88ba1b6f:
+
+    # Adele "Yep. (Laughs)"
+    Adele ""
+
+# game/logic/events/adele.rpy:2535
+translate russian Adele_5_label_549f5764:
+
+    # ch_Name "This is so cool!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2536
+translate russian Adele_5_label_ffdfd64a:
+
+    # ch_Name "I don't know why you can't afford to..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2538
+translate russian Adele_5_label_44e7a185:
+
+    # Adele "Mmm..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2539
+translate russian Adele_5_label_63fd8ebd:
+
+    # Adele "This is unbelievably good! Vanessa is a genius!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2540
+translate russian Adele_5_label_a82209e3:
+
+    # Adele "Sorry, I was absorbed in Vanessa's new masterpiece."
+    Adele ""
+
+# game/logic/events/adele.rpy:2541
+translate russian Adele_5_label_e0cc37d0:
+
+    # Adele "Where were we?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2542
+translate russian Adele_5_label_89b68fa4:
+
+    # ch_Name "I was wondering why you refused to have drinks with me when you were on shift."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2543
+translate russian Adele_5_label_4ce7ab15:
+
+    # ch_Name "It's your place. Do whatever you want."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2545
+translate russian Adele_5_label_c42fc3cc:
+
+    # Adele "It's about discipline."
+    Adele ""
+
+# game/logic/events/adele.rpy:2546
+translate russian Adele_5_label_7c82eba7:
+
+    # Adele "Girls look up to me."
+    Adele ""
+
+# game/logic/events/adele.rpy:2547
+translate russian Adele_5_label_8b1b56b9:
+
+    # Adele "When I'm in the gym, I'm as much an employee as they are."
+    Adele ""
+
+# game/logic/events/adele.rpy:2548
+translate russian Adele_5_label_594328ee:
+
+    # Adele "They need to know that the rules are for everyone and are inviolable."
+    Adele ""
+
+# game/logic/events/adele.rpy:2549
+translate russian Adele_5_label_7a09b7af:
+
+    # ch_Name "That's it. That's a very wise thought."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2550
+translate russian Adele_5_label_008b0636:
+
+    # Adele "What, did you think I was just a hottie with a straw instead of a brain?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2552
+translate russian Adele_5_label_4983579f:
+
+    # ch_Name "No, no! I'm just..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2553
+translate russian Adele_5_label_4796a2a6:
+
+    # Adele "Relax, I was just kidding."
+    Adele ""
+
+# game/logic/events/adele.rpy:2554
+translate russian Adele_5_label_b3bc7372:
+
+    # Adele "You're funny when you make excuses."
+    Adele ""
+
+# game/logic/events/adele.rpy:2556
+translate russian Adele_5_label_c7c1d19a:
+
+    # Adele "But I like confident men better."
+    Adele ""
+
+# game/logic/events/adele.rpy:2557
+translate russian Adele_5_label_ecdb02f9:
+
+    # ch_Name "Believe me, I'm confident."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2559
+translate russian Adele_5_label_c719afb9:
+
+    # Adele "We'll see about that, kid."
+    Adele ""
+
+# game/logic/events/adele.rpy:2560
+translate russian Adele_5_label_26646a38:
+
+    # Adele "In the meantime, cheers!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2571
+translate russian Adele_5_label_from_gallery_84ca242b:
+
+    # Adele "No, no, no. Just imagine - the whole club was the size of a current VIP."
+    Adele ""
+
+# game/logic/events/adele.rpy:2572
+translate russian Adele_5_label_from_gallery_474e0b39:
+
+    # Adele "One table, torn cushions on the sofas, and a rickety pole."
+    Adele ""
+
+# game/logic/events/adele.rpy:2573
+translate russian Adele_5_label_from_gallery_f22f000e:
+
+    # ch_Name "It's even hard to imagine that the club used to be this small."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2574
+translate russian Adele_5_label_from_gallery_00ca1f99:
+
+    # Adele "I had to meet guests, dance, and even sometimes take over for the bartenders."
+    Adele ""
+
+# game/logic/events/adele.rpy:2575
+translate russian Adele_5_label_from_gallery_24c55b74:
+
+    # ch_Name "So you used to dance on your own?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2577
+translate russian Adele_5_label_from_gallery_c63f61d6:
+
+    # Adele "Yes, I used to. I was so popular, I was able to earn it all."
+    Adele ""
+
+# game/logic/events/adele.rpy:2578
+translate russian Adele_5_label_from_gallery_a7dd15a3:
+
+    # Adele "But not just my figure. Mind."
+    Adele ""
+
+# game/logic/events/adele.rpy:2579
+translate russian Adele_5_label_from_gallery_d1da3c18:
+
+    # ch_Name "Mind is important. You've accomplished a lot."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2580
+translate russian Adele_5_label_from_gallery_c48f5a4d:
+
+    # ch_Name "But I have to be honest, now all I can think about is how you looked on the pole."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2582
+translate russian Adele_5_label_from_gallery_d2740a2f:
+
+    # Adele "Do you? That's all you think about?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2583
+translate russian Adele_5_label_from_gallery_8dcc8db1:
+
+    # ch_Name "You know how beautiful you are."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2584
+translate russian Adele_5_label_from_gallery_9c4e10ef:
+
+    # ch_Name "Can you blame me for being fascinated by the thought of you dancing?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2585
+translate russian Adele_5_label_from_gallery_e5923b17:
+
+    # Adele "Hmm... I might regret it, but I have an idea."
+    Adele ""
+
+# game/logic/events/adele.rpy:2587
+translate russian Adele_5_label_from_gallery_ba5bf77e:
+
+    # Adele "Eek... Come with me."
+    Adele ""
+
+# game/logic/events/adele.rpy:2588
+translate russian Adele_5_label_from_gallery_b2bfcd29:
+
+    # ch_Name "Where to?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2589
+translate russian Adele_5_label_from_gallery_339dc848:
+
+    # Adele "It's a surprise. Come on, you'll love it."
+    Adele ""
+
+# game/logic/events/adele.rpy:2590
+translate russian Adele_5_label_from_gallery_1f4e39fa:
+
+    # ch_Name "Okay, whatever you say."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2592
+translate russian Adele_5_label_from_gallery_aea26aba:
+
+    # Adele "It's so crowded in here... Eek... I thought I'd close early."
+    Adele ""
+
+# game/logic/events/adele.rpy:2593
+translate russian Adele_5_label_from_gallery_5ca493b7:
+
+    # ch_Name "What can I say, your club is popular."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2594
+translate russian Adele_5_label_from_gallery_12b29c01:
+
+    # Adele "Heh, so be it. I'm not embarrassed by them."
+    Adele ""
+
+# game/logic/events/adele.rpy:2596
+translate russian Adele_5_label_from_gallery_ee22c2a5:
+
+    # ch_Name "{i}(Of course, you're not.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2597
+translate russian Adele_5_label_from_gallery_ffa2c909:
+
+    # ch_Name "(That much alcohol kills any shyness.)"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2599
+translate russian Adele_5_label_from_gallery_54136682:
+
+    # ch_Name "{i}(At this rate, she'll drink the whole bottle at once.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2600
+translate russian Adele_5_label_from_gallery_7c811f8b:
+
+    # ch_Name "{i}(As if she's getting ready to do something crazy.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2602
+translate russian Adele_5_label_from_gallery_6a824a18:
+
+    # Adele "Now I'll show you that reality can be better than fantasy."
+    Adele ""
+
+# game/logic/events/adele.rpy:2609
+translate russian Adele_5_label_from_gallery_fb2b0ae0:
+
+    # ch_Name "{i}(Shit, I still can't believe she decided to go for it.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2610
+translate russian Adele_5_label_from_gallery_438d7974:
+
+    # ch_Name "{i}(Did I wake up the devil in her?){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2611
+translate russian Adele_5_label_from_gallery_f998ddc3:
+
+    # ch_Name "{i}(Or was it that cocktail from Vanessa?){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2613
+translate russian Adele_5_label_from_gallery_f88dfada:
+
+    # ch_Name "{i}(Either way, I have nothing to complain about...){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2614
+translate russian Adele_5_label_from_gallery_4ad77c52:
+
+    # ch_Name "{i}(It's easy to see why she was popular.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2615
+translate russian Adele_5_label_from_gallery_0ae9bcd0:
+
+    # ""
+    ""
+
+# game/logic/events/adele.rpy:2617
+translate russian Adele_5_label_from_gallery_cdb77349:
+
+    # ch_Name "{i}(Her moves are graceful and spectacular...){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2618
+translate russian Adele_5_label_from_gallery_0ae9bcd0_1:
+
+    # ""
+    ""
+
+# game/logic/events/adele.rpy:2619
+translate russian Adele_5_label_from_gallery_6e04708d:
+
+    # ch_Name "{i}(The other girls are no match for her skill!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2621
+translate russian Adele_5_label_from_gallery_9e8f52e6:
+
+    # ch_Name "{i}(If I drank that much and twirled on a pole, I'd throw up.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2622
+translate russian Adele_5_label_from_gallery_32f80e1c:
+
+    # ch_Name "{i}(She does it like it's easy.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2623
+translate russian Adele_5_label_from_gallery_057edcca:
+
+    # ch_Name "{i}(And she knows exactly what poses to take to show off her virtues.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2625
+translate russian Adele_5_label_from_gallery_efd4c4d1:
+
+    # ch_Name "{i}(She has the grace and dexterity of a cat...){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2626
+translate russian Adele_5_label_from_gallery_0ae9bcd0_2:
+
+    # ""
+    ""
+
+# game/logic/events/adele.rpy:2627
+translate russian Adele_5_label_from_gallery_5fc48750:
+
+    # ch_Name "{i}(And such incredible shapes!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2629
+translate russian Adele_5_label_from_gallery_5dd8e98b:
+
+    # ch_Name "{i}(Wow! Can she do that?){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2630
+translate russian Adele_5_label_from_gallery_b4d5cabd:
+
+    # ch_Name "{i}(The world lost a lot the day she quit stripping.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2632
+translate russian Adele_5_label_from_gallery_3e8d44b2:
+
+    # ch_Name "{i}(I can't take my eyes off her...){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2633
+translate russian Adele_5_label_from_gallery_7287383d:
+
+    # ch_Name "Bravo!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2635
+translate russian Adele_5_label_from_gallery_38157963:
+
+    # ch_Name "{i}(Isn't this the end? Is she going to...?){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2636
+translate russian Adele_5_label_from_gallery_765197d7:
+
+    # ch_Name "{i}(No, it can't be...){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2638
+translate russian Adele_5_label_from_gallery_dc94b7e2:
+
+    # ch_Name "{i}(Did she really do it? Get naked? Right there?){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2639
+translate russian Adele_5_label_from_gallery_7466f505:
+
+    # ch_Name "{i}(Fucking hell!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2641
+translate russian Adele_5_label_from_gallery_027b1c56:
+
+    # ch_Name "..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2642
+translate russian Adele_5_label_from_gallery_f4ab34d4:
+
+    # ch_Name "{i}(Am I dreaming? Pinch me!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2643
+translate russian Adele_5_label_from_gallery_ab841865:
+
+    # ch_Name "{i}(No! Wait! Don't pinch me, I don't want to wake up!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2644
+translate russian Adele_5_label_from_gallery_65cc15fa:
+
+    # ch_Name "{i}(I've never seen anything more beautiful in my life...){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2646
+translate russian Adele_5_label_from_gallery_cefde44e:
+
+    # ch_Name "{i}(All this... She does for me?){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2647
+translate russian Adele_5_label_from_gallery_c8859225:
+
+    # ch_Name "Oh, Adele..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2648
+translate russian Adele_5_label_from_gallery_aab7b21f:
+
+    # ch_Name "You're something!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2650
+translate russian Adele_5_label_from_gallery_29fb7aa3:
+
+    # ch_Name "{i}(Now, she looks like a panther.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2651
+translate russian Adele_5_label_from_gallery_0ae9bcd0_3:
+
+    # ""
+    ""
+
+# game/logic/events/adele.rpy:2652
+translate russian Adele_5_label_from_gallery_d08ffbb8:
+
+    # ch_Name "{i}(Who's getting ready to attack her prey.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2654
+translate russian Adele_5_label_from_gallery_91ce9b34:
+
+    # ch_Name "{i}(That's what I'm talking about.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2655
+translate russian Adele_5_label_from_gallery_0ae9bcd0_4:
+
+    # ""
+    ""
+
+# game/logic/events/adele.rpy:2656
+translate russian Adele_5_label_from_gallery_d8559ec1:
+
+    # ch_Name "{i}(Predator.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2658
+translate russian Adele_5_label_from_gallery_b496cd40:
+
+    # ch_Name "{i}(I think that's about it.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2659
+translate russian Adele_5_label_from_gallery_5b66a782:
+
+    # ch_Name "{i}(And she's clearly waiting for my reaction.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2660
+translate russian Adele_5_label_from_gallery_e7bc4f81:
+
+    # ch_Name "Bravo! Bravo!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2667
+translate russian Adele_5_label_from_gallery_f6b6f4d5:
+
+    # ch_Name "That was just amazing! No, really!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2668
+translate russian Adele_5_label_from_gallery_ab57f4fa:
+
+    # ch_Name "I'm even a little shocked. I think I was speechless a few times looking at you."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2669
+translate russian Adele_5_label_from_gallery_d29e18ef:
+
+    # Adele "Oh, come on, you're making me look bad."
+    Adele ""
+
+# game/logic/events/adele.rpy:2670
+translate russian Adele_5_label_from_gallery_65fbe6ff:
+
+    # Adele "I haven't practiced in years. I bet I looked like a laughing stock..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2671
+translate russian Adele_5_label_from_gallery_0316a7af:
+
+    # ch_Name "I know what I'm talking about. You looked like a goddess."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2672
+translate russian Adele_5_label_from_gallery_9a8e4d47:
+
+    # Adele "Aha-ha-ha... If you say so."
+    Adele ""
+
+# game/logic/events/adele.rpy:2682
+translate russian Adele_5_label_from_gallery_d1dd137f:
+
+    # Adele "Thanks for a great night, [Name]. But it's late, I have to close the club."
+    Adele ""
+
+# game/logic/events/adele.rpy:2683
+translate russian Adele_5_label_from_gallery_81ce5759:
+
+    # ch_Name "Thank you. I had a memorable time."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2684
+translate russian Adele_5_label_from_gallery_5015607c:
+
+    # ch_Name "Shall we do it again sometime?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2685
+translate russian Adele_5_label_from_gallery_4b67fa17:
+
+    # Adele "Absolutely. Just in a more private setting."
+    Adele ""
+
+# game/logic/events/adele.rpy:2687
+translate russian Adele_5_label_from_gallery_b05f3273:
+
+    # ch_Name "{i}(Oh, baby, I'm all for it.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2688
+translate russian Adele_5_label_from_gallery_d6c34f7e:
+
+    # ch_Name "{i}(I want you to dance just for me.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2695
+translate russian Adele_5_label_from_gallery_55611147:
+
+    # ch_Name "{i}(Phew, what a night.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2696
+translate russian Adele_5_label_from_gallery_1fff42a7:
+
+    # ch_Name "{i}(No one would have thought Adele owned this club.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2697
+translate russian Adele_5_label_from_gallery_e7a1fd92:
+
+    # ch_Name "{i}(And certainly not that she's so good on a pole.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2699
+translate russian Adele_5_label_from_gallery_f8569efd:
+
+    # ch_Name "{i}(I wonder what other talents she has that I have yet to find out.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2700
+translate russian Adele_5_label_from_gallery_9337486d:
+
+    # ch_Name "{i}(It's too late anyway.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2702
+translate russian Adele_5_label_from_gallery_7ed4e817:
+
+    # ch_Name "{i}(I need to go back to the hotel and get some sleep.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2703
+translate russian Adele_5_label_from_gallery_6487a4a2:
+
+    # ch_Name "{i}(Otherwise, I'll be exhausted all day tomorrow.){/i}"
+    ch_Name ""
+
+translate russian strings:
+
+    # game/logic/events/adele.rpy:8
+    old "Shemale"
+    new ""
+
+    # game/logic/events/adele.rpy:23
+    old "Ask Adele out"
+    new ""
+

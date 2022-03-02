@@ -90,3 +90,11 @@ translate chinese strings:
     old "Decline"
     new "下降"
 
+# TODO: Translation updated at 2022-03-03 04:01
+
+translate chinese strings:
+
+    # game/logic/main_interface/quest_log_screen.rpy:386
+    old "My\nhouse"
+    new ""
+

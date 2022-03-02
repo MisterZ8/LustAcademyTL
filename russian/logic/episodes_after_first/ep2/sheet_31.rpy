@@ -866,3 +866,71 @@ translate russian strings:
     old "How to earn housepoints"
     new "Как заработать баллы дома"
 
+# TODO: Translation updated at 2022-03-03 03:57
+
+# game/logic/episodes_after_first/ep2/sheet_31.rpy:93
+translate russian arthur_label_48673d84:
+
+    # Elijah "Time to wake up!"
+    Elijah ""
+
+# game/logic/episodes_after_first/ep2/sheet_31.rpy:94
+translate russian arthur_label_820192cd:
+
+    # ch_Name "Why exactly calling?!"
+    ch_Name ""
+
+# game/logic/episodes_after_first/ep2/sheet_31.rpy:95
+translate russian arthur_label_5328ca4d:
+
+    # Elijah "I just wanted to hear your voice. You know, I feel lonely."
+    Elijah ""
+
+# game/logic/episodes_after_first/ep2/sheet_31.rpy:97
+translate russian arthur_label_1e93415e:
+
+    # ch_Name "Really?"
+    ch_Name ""
+
+# game/logic/episodes_after_first/ep2/sheet_31.rpy:98
+translate russian arthur_label_275c93f0:
+
+    # Elijah "Nah. I'm just joking around!"
+    Elijah ""
+
+# game/logic/episodes_after_first/ep2/sheet_31.rpy:99
+translate russian arthur_label_d26cd93a:
+
+    # Elijah "I wanted to say that we need to go to the {b}Main Hall{/b} soon."
+    Elijah ""
+
+# game/logic/episodes_after_first/ep2/sheet_31.rpy:102
+translate russian arthur_label_f2290ef2:
+
+    # Elijah "The principal called a freshman meeting."
+    Elijah ""
+
+# game/logic/episodes_after_first/ep2/sheet_31.rpy:106
+translate russian arthur_label_642e99f4:
+
+    # Elijah "Alright?"
+    Elijah ""
+
+# game/logic/episodes_after_first/ep2/sheet_31.rpy:107
+translate russian arthur_label_c43d6e7b:
+
+    # ch_Name "Ehm... Yeah."
+    ch_Name ""
+
+# game/logic/episodes_after_first/ep2/sheet_31.rpy:108
+translate russian arthur_label_9ab09bfc:
+
+    # Elijah "Sweet! See you."
+    Elijah ""
+
+# game/logic/episodes_after_first/ep2/sheet_31.rpy:109
+translate russian arthur_label_74ebce9c:
+
+    # ch_Name "Sure."
+    ch_Name ""
+

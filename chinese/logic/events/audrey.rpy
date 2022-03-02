@@ -12496,3 +12496,7401 @@ translate chinese strings:
     old "Stay here"
     new "呆在这里"
 
+# TODO: Translation updated at 2022-03-03 04:01
+
+# game/logic/events/audrey.rpy:437
+translate chinese Audrey_7_label_d5ed7d88:
+
+    # ch_Name "{i}(Hmm... So why did they leave?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:445
+translate chinese Audrey_7_label_7ce8a70c:
+
+    # ch_Name "{i}(They looked too happy for the people who were going to study.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:473
+translate chinese Audrey_7_label_63695037:
+
+    # ch_Name "{i}(Or trying their new underwear on?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:476
+translate chinese Audrey_7_label_8fe6834b:
+
+    # ch_Name "{i}(I wish I could sneak a peek.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:511
+translate chinese Audrey_7_label_7ce8a70c_1:
+
+    # ch_Name "{i}(They looked too happy for the people who were going to study.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:538
+translate chinese Audrey_7_label_787925af:
+
+    # ch_Name "{i}(...trying their new underwear on?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:542
+translate chinese Audrey_7_label_8fe6834b_1:
+
+    # ch_Name "{i}(I wish I could sneak a peek.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:587
+translate chinese Audrey_7_label_98343425:
+
+    # ch_Name "Nah... There's no point to do that."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:588
+translate chinese Audrey_7_label_2178761e:
+
+    # ch_Name "I'm sure they're doing fine."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:779
+translate chinese Audrey_7_label_from_gallery_fcea612f:
+
+    # ch_Name "{i}(Oh, what an unusual feeling...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:780
+translate chinese Audrey_7_label_from_gallery_695f3823:
+
+    # ch_Name "{i}(It's like she's still sucking even now.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:781
+translate chinese Audrey_7_label_from_gallery_5e236dad:
+
+    # ch_Name "{i}(But why am I so uncomfortable?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:870
+translate chinese Audrey_7_label_end_1_cbe86a7b:
+
+    # ch_Name "{i}(Why do I feel so tired? I can barely keep my eyes open...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:871
+translate chinese Audrey_7_label_end_1_642b2da6:
+
+    # ch_Name "{i}(No more secrets for today.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:872
+translate chinese Audrey_7_label_end_1_c1c741e7:
+
+    # ch_Name "{i}(I just need a good night's sleep.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:883
+translate chinese Audrey_7_label_end_2_551562d0:
+
+    # ch_Name "{i}(Yeah, that wasn't very nice...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:884
+translate chinese Audrey_7_label_end_2_35ca6ad1:
+
+    # ch_Name "{i}(But it was the right decision not to take advantage of Audrey.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:885
+translate chinese Audrey_7_label_end_2_8b04a20f:
+
+    # ch_Name "{i}(Oh... I can't stop yawning.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:886
+translate chinese Audrey_7_label_end_2_f0edec2d:
+
+    # ch_Name "{i}(It's been a long day. I'd better get some sleep.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:896
+translate chinese Audrey_7_label_end_3_9b221315:
+
+    # ch_Name "{i}(What the hell was that?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:897
+translate chinese Audrey_7_label_end_3_7324332a:
+
+    # ch_Name "{i}(That wasn't very nice!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:898
+translate chinese Audrey_7_label_end_3_d28c559e:
+
+    # ch_Name "{i}(Well, maybe it's better this way for now. I can barely keep my eyes open...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:899
+translate chinese Audrey_7_label_end_3_c1c741e7:
+
+    # ch_Name "{i}(I just need a good night's sleep.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:909
+translate chinese Audrey_7_label_end_4_f9a5a115:
+
+    # ch_Name "{i}(Shit! I can't believe she kicked me out.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:910
+translate chinese Audrey_7_label_end_4_d1874054:
+
+    # ch_Name "{i}(And why would I not cum for so long?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:911
+translate chinese Audrey_7_label_end_4_e3f61e28:
+
+    # ch_Name "{i}(Has she drained all my manhood away?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:912
+translate chinese Audrey_7_label_end_4_17f44db7:
+
+    # ch_Name "{i}(Those fucking succubus.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:913
+translate chinese Audrey_7_label_end_4_01d660c8:
+
+    # ch_Name "{i}(I need to think of a way to protect myself from getting too tired next time.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:914
+translate chinese Audrey_7_label_end_4_dcdf3295:
+
+    # ch_Name "{i}(But first, I'll get some sleep...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:926
+translate chinese Audrey_7_girl_6170b0fa:
+
+    # ch_Name "{i}(What a cute view...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1127
+translate chinese Audrey_7_girl_0662f8a4:
+
+    # ch_Name "But I'll need your help to cum."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1183
+translate chinese Audrey_7_girl_0796a70e:
+
+    # ch_Name "I'm off."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1196
+translate chinese Audrey_7_shemale_6170b0fa:
+
+    # ch_Name "{i}(What a cute view...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1387
+translate chinese Audrey_7_shemale_0662f8a4:
+
+    # ch_Name "But I'll need your help to cum."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2509
+translate chinese Audrey_events_4_label_4_shemale_32676661:
+
+    # ch_Name "{i}(You'd do the same for me if you were on my place.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2964
+translate chinese Audrey_9_label_L_77_6170b0fa:
+
+    # ch_Name "{i}(What a cute view...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2995
+translate chinese Audrey_9_label_L_77_6170b0fa_1:
+
+    # ch_Name "{i}(What a cute view...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3207
+translate chinese Audrey_9_label_L_184_0662f8a4:
+
+    # ch_Name "But I'll need your help to cum."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3263
+translate chinese Audrey_9_label_L_184_0796a70e:
+
+    # ch_Name "I'm off."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3441
+translate chinese Audrey_9_label_L_374_0662f8a4:
+
+    # ch_Name "But I'll need your help to cum."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3623
+translate chinese Audrey_10_label_6af3c9c3:
+
+    # ch_Name "{i}(Audrey is in the kitchen as usual...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3624
+translate chinese Audrey_10_label_84602765:
+
+    # ch_Name "{i}(...drinking coffee and daydreaming about something...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3625
+translate chinese Audrey_10_label_1e7e14ff:
+
+    # ch_Name "{i}(Maybe I should keep her company.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3627
+translate chinese Audrey_10_label_a2e89ae9:
+
+    # ch_Name "Yo, Audrey. Do you want to go to the coffee shop before class?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3628
+translate chinese Audrey_10_label_b275327b:
+
+    # Audrey "Piss off."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3629
+translate chinese Audrey_10_label_4a09baf0:
+
+    # ch_Name "Do you always have to be so rude?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3630
+translate chinese Audrey_10_label_3f25b47f:
+
+    # ch_Name "Give it up. I thought we had a connection already."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3632
+translate chinese Audrey_10_label_42eb2e26:
+
+    # Audrey "Look, [Name]. Let's be honest..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3633
+translate chinese Audrey_10_label_cbf4b65e:
+
+    # Audrey "You're cool and all, but my existence depends on sex."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3634
+translate chinese Audrey_10_label_9170afa1:
+
+    # Audrey "And you can't last long enough to satisfy me."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3635
+translate chinese Audrey_10_label_0b65278d:
+
+    # Audrey "So don't waste my time, okay?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3636
+translate chinese Audrey_10_label_d18d839f:
+
+    # ch_Name "{i}(Tough, but fair...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3638
+translate chinese Audrey_10_label_be302c2a:
+
+    # ch_Name "Well, if that's the case, I'll find a way to satisfy you."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3639
+translate chinese Audrey_10_label_f859fad0:
+
+    # Audrey "Yeah, yeah, yeah. Good luck finding it."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3646
+translate chinese Audrey_10_label_8c3dd640:
+
+    # ch_Name "{i}(\"Good luck finding it\" - damn, she doesn't believe in me at all.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3647
+translate chinese Audrey_10_label_f7a20933:
+
+    # ch_Name "{i}(That's okay, I'll prove her wrong.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3648
+translate chinese Audrey_10_label_c1b55375:
+
+    # ch_Name "{i}(Freshmen shouldn't come to this section of the library...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3649
+translate chinese Audrey_10_label_8613a2d1:
+
+    # ch_Name "{i}(...but I hope Amelie is too busy to keep track of it.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3650
+translate chinese Audrey_10_label_b24df945:
+
+    # ch_Name "{i}(Hmm, what have we got here?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3651
+translate chinese Audrey_10_label_5c45794d:
+
+    # ch_Name "{i}(\"How to Train a Dragon\", \"The 100 Best Lovemaking Potions\", \"All About Kalidud\"...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3652
+translate chinese Audrey_10_label_8f265111:
+
+    # ch_Name "{i}(That's not exactly what I'm looking for, but the second one seems interesting...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3654
+translate chinese Audrey_10_label_c5027b02:
+
+    # ch_Name "Succubi and Incubi! Here it is!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3655
+translate chinese Audrey_10_label_df558cad:
+
+    # ch_Name "{i}(I need to study it very carefully.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3656
+translate chinese Audrey_10_label_b87563e7:
+
+    # ch_Name "{i}(Still can't believe all the answers to my questions are here, and I'm getting them now!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3663
+translate chinese Audrey_10_label_a7b2e85b:
+
+    # ch_Name "{i}(Well, Section 1 is called \"Succubi\".){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3664
+translate chinese Audrey_10_label_838ceee8:
+
+    # ch_Name "{i}(There are so many chapters!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3665
+translate chinese Audrey_10_label_a7e47c8f:
+
+    # ch_Name "{i}(Well, let's take a look at the \"Interactions with a human being\" chapter.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3666
+translate chinese Audrey_10_label_b50ec506:
+
+    # ch_Name "{i}(Maybe I will find something there?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3667
+translate chinese Audrey_10_label_5c5ac909:
+
+    # ch_Name "{i}(\"Energy-saving potions\", page number 51...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3668
+translate chinese Audrey_10_label_6c5141b1:
+
+    # ch_Name "{i}(Forty-nine, fifty, fifty-one...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3669
+translate chinese Audrey_10_label_72023aba:
+
+    # ch_Name "{i}(Whoaaaa!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3671
+translate chinese Audrey_10_label_3cefe376:
+
+    # ch_Name "{i}(I've just found what I need!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3672
+translate chinese Audrey_10_label_5897b372:
+
+    # ch_Name "{i}(\"Jezabel Cresswell, well-known succubus researcher...\"){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3673
+translate chinese Audrey_10_label_4b49cc93:
+
+    # ch_Name "{i}(\"...also had some problems with loss of consciousness...\"){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3674
+translate chinese Audrey_10_label_32ba0e5e:
+
+    # ch_Name "{i}(\"He started to study this phenomenon and found the very solution of the acute problem.\"){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3675
+translate chinese Audrey_10_label_57f9fc35:
+
+    # ch_Name "{i}(\"By the experimental way Jezabel observed...\"){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3676
+translate chinese Audrey_10_label_b22d9c20:
+
+    # ch_Name "{i}(\"...that mixture of Mermaid blood with Dandelion dust...\"){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3677
+translate chinese Audrey_10_label_1c7af6f5:
+
+    # ch_Name "{i}(\"...can help human beings hold consciousness pure while interacting with succubuses.\"){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3678
+translate chinese Audrey_10_label_66362a96:
+
+    # ch_Name "{i}(\"But the potion will not work unless diluted with a tincture of...\"){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3679
+translate chinese Audrey_10_label_b7dab762:
+
+    # ch_Name "{i}(\"Lunar nymphaea\"){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3681
+translate chinese Audrey_10_label_5c3d8ab5:
+
+    # ch_Name "{i}(Lunar nymphaea... What the hell is this? And where do I find it?..){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3682
+translate chinese Audrey_10_label_5bb0d042:
+
+    # ch_Name "{i}(Hm... Fuck, I wish I knew someone who's good at all those ingredients for potions.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3683
+translate chinese Audrey_10_label_105a2802:
+
+    # ch_Name "{i}(Wait! I do know someone like this!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3684
+translate chinese Audrey_10_label_9d72e783:
+
+    # ch_Name "{i}(And not just someone! I know the best Potions teacher in the world!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3685
+translate chinese Audrey_10_label_24ffa2d5:
+
+    # ch_Name "{i}(I just need to ask Sabrina about it without telling her why I need it.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3686
+translate chinese Audrey_10_label_71df82ed:
+
+    # ch_Name "{i}(I'm sure I'll think of something.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3698
+translate chinese Audrey_11_label_e6944638:
+
+    # ch_Name "{i}(I need to figure out how to ask Sabrina about Lunar nymphaea.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3699
+translate chinese Audrey_11_label_023be20b:
+
+    # ch_Name "{i}(Without it, I can't create a potion to protect me from Audrey's powers.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3700
+translate chinese Audrey_11_label_5eb0731e:
+
+    # ch_Name "{i}(But to explicitly say I want to fuck a succubus, I can't. Hmm...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3702
+translate chinese Audrey_11_label_c15d50d2:
+
+    # ch_Name "Oh, no! Have I missed the start of the lecture?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3703
+translate chinese Audrey_11_label_4df0bdab:
+
+    # ch_Name "I could swear I was not coming late."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3704
+translate chinese Audrey_11_label_32f005cc:
+
+    # Sabrina "No, no, [Name]. It's okay."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3705
+translate chinese Audrey_11_label_75a47766:
+
+    # Sabrina "The class hasn't begun yet. We're just chatting."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3707
+translate chinese Audrey_11_label_beb12ffc:
+
+    # Sabrina "Grace asked me how I swirl potions because hers are not that smooth."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3708
+translate chinese Audrey_11_label_43ba3607:
+
+    # Sabrina "By the way, while you're here... Your potions are one of the smoothest."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3709
+translate chinese Audrey_11_label_3c93397b:
+
+    # Sabrina "Why don't you show the guys how you mix a Reflection potion?"
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3710
+translate chinese Audrey_11_label_bda3aa68:
+
+    # Sabrina "I'm sure a peer example would be more illustrative for them."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3711
+translate chinese Audrey_11_label_7cc2020a:
+
+    # ch_Name "{i}(Hmm, maybe I can ask for that ingredient while I'm here.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3712
+translate chinese Audrey_11_label_7d4ca38c:
+
+    # ch_Name "Sure, I'd love to join you."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3719
+translate chinese Audrey_11_label_d8aaf624:
+
+    # Sabrina "All right..."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3720
+translate chinese Audrey_11_label_2667a925:
+
+    # Sabrina "The color inspires respect."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3721
+translate chinese Audrey_11_label_2e2c3547:
+
+    # Sabrina "Looks just perfect."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3722
+translate chinese Audrey_11_label_97c28ee0:
+
+    # Sabrina "The smell, hmmm..."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3724
+translate chinese Audrey_11_label_cd44f6f4:
+
+    # Sabrina "Intense and specific."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3725
+translate chinese Audrey_11_label_94abd238:
+
+    # Sabrina "A full-bodied smell is a unique feature of this potion."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3727
+translate chinese Audrey_11_label_90776c0b:
+
+    # Sabrina "As well as tiny little bubbles on the surface."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3728
+translate chinese Audrey_11_label_c5df708f:
+
+    # Sabrina "I love everything so far."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3730
+translate chinese Audrey_11_label_e0456c13:
+
+    # Sabrina "That's amazing, [Name]!"
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3731
+translate chinese Audrey_11_label_6005668f:
+
+    # Sabrina "Great job!"
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3732
+translate chinese Audrey_11_label_60f57106:
+
+    # Sabrina "[Name] is a living example of one golden rule, guys."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3733
+translate chinese Audrey_11_label_ababdbbc:
+
+    # Sabrina "Everything is possible. You only need to make an effort."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3740
+translate chinese Audrey_11_label_07306dbe:
+
+    # ch_Name "Speaking of effort, Miss Spellman."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3741
+translate chinese Audrey_11_label_7da814b3:
+
+    # ch_Name "I was reading about different ingredients for potions at my leisure..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3742
+translate chinese Audrey_11_label_69d171eb:
+
+    # ch_Name "...and I came across a strange name."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3743
+translate chinese Audrey_11_label_3c933ede:
+
+    # ch_Name "Do you happen to know what Lunar nymphaea is?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3745
+translate chinese Audrey_11_label_00974552:
+
+    # Sabrina "Lunar nymphaea? Of course, I do."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3746
+translate chinese Audrey_11_label_3be8c4d0:
+
+    # Sabrina "What recipe did you see it in? Freshmen don't learn recipes with it."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3747
+translate chinese Audrey_11_label_993174e4:
+
+    # ch_Name "Um, well..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3748
+translate chinese Audrey_11_label_6d30ac1c:
+
+    # Sabrina "Did Samantha give you a textbook on advanced potions?"
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3749
+translate chinese Audrey_11_label_5a569dd9:
+
+    # Sabrina "Admit it, did you study how to make a magic enhancement potion?"
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3750
+translate chinese Audrey_11_label_d76e8db4:
+
+    # ch_Name "{i}(How lucky for me that she answered her own question.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3751
+translate chinese Audrey_11_label_5533e7b2:
+
+    # ch_Name "{i}(Because I never figured out how to lie to her.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3753
+translate chinese Audrey_11_label_bf40079f:
+
+    # ch_Name "Well, yeah, that's right. We were just practicing with Samantha."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3754
+translate chinese Audrey_11_label_a8f155d9:
+
+    # ch_Name "Under her supervision, of course."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3755
+translate chinese Audrey_11_label_73ce057e:
+
+    # ch_Name "I just wanted to surprise her by getting the right ingredients..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3756
+translate chinese Audrey_11_label_51b54e10:
+
+    # ch_Name "...but I didn't know where to find this one."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3758
+translate chinese Audrey_11_label_e3db00d7:
+
+    # Sabrina "Well, I don't see anything wrong with you practicing."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3759
+translate chinese Audrey_11_label_c8f9af6a:
+
+    # Sabrina "Especially since you're both very promising potionists."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3760
+translate chinese Audrey_11_label_115f64b6:
+
+    # Sabrina "The ingredient you are looking for is water flowers, water lilies."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3761
+translate chinese Audrey_11_label_9df4964f:
+
+    # Sabrina "They grow on the edge of worlds and only appear in ours by moonlight."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3762
+translate chinese Audrey_11_label_9a335a5a:
+
+    # Sabrina "They are visible only on Tuesdays. That's why we also call them Tuesday nymphaea."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3764
+translate chinese Audrey_11_label_aca0b4c8:
+
+    # ch_Name "Wow! A flower that travels between worlds! "
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3765
+translate chinese Audrey_11_label_8926a797:
+
+    # ch_Name "But where to find them on Tuesdays at night?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3766
+translate chinese Audrey_11_label_ba328e34:
+
+    # Sabrina "I planted a few in our fountain earlier this year."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3767
+translate chinese Audrey_11_label_a3c79bb2:
+
+    # Sabrina "So I don't have to go far to get them when I'm brewing potions."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3768
+translate chinese Audrey_11_label_9a69538f:
+
+    # ch_Name "Sounds genius. Can I pick some up for our practice?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3770
+translate chinese Audrey_11_label_3b975e55:
+
+    # Sabrina "Sure, don't be shy. They grow fast, like weeds."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3771
+translate chinese Audrey_11_label_6f11a440:
+
+    # Sabrina "But be sure to boil them before adding them to potions."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3772
+translate chinese Audrey_11_label_aed367bf:
+
+    # Sabrina "They are poisonous in their raw form."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3773
+translate chinese Audrey_11_label_0ebe3ee9:
+
+    # ch_Name "Understood. Thanks for the warning."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3774
+translate chinese Audrey_11_label_9992a684:
+
+    # ch_Name "Goodbye, Miss."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3775
+translate chinese Audrey_11_label_0e44b322:
+
+    # Sabrina "Good luck with your experiments with Miss Rose, [Name]."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3784
+translate chinese Audrey_11_label_0484bed8:
+
+    # ch_Name "{i}(Well, that was even easier than I thought.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3785
+translate chinese Audrey_11_label_90e07410:
+
+    # ch_Name "{i}(Now I know how to get all the ingredients.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3786
+translate chinese Audrey_11_label_356e66f4:
+
+    # ch_Name "{i}(I just have to wait for Tuesday...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3789
+translate chinese Audrey_11_label_c972e5f8:
+
+    # ch_Name "{i}(Wait a minute! It's Tuesday today! Luck is on my side!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3790
+translate chinese Audrey_11_label_bf596739:
+
+    # ch_Name "{i}(All I have to do is come back here at night and pick some flowers...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3791
+translate chinese Audrey_11_label_975a9dbc:
+
+    # ch_Name "{i}(But it's still a couple of hours before nightfall...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3792
+translate chinese Audrey_11_label_8626d2a5:
+
+    # ch_Name "{i}(Maybe take a shift at Molly's? Money never hurts.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3801
+translate chinese Audrey_12_label_4f7e3d5b:
+
+    # ch_Name "Hi, girls!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3802
+translate chinese Audrey_12_label_bead6911:
+
+    # ch_Name "What are you doing?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3803
+translate chinese Audrey_12_label_95e625d7:
+
+    # Samantha "[Name]! It's good to see you!"
+    Samantha ""
+
+# game/logic/events/audrey.rpy:3804
+translate chinese Audrey_12_label_ce1cdcb6:
+
+    # Samantha "We were just talking about you..."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:3806
+translate chinese Audrey_12_label_ae19ea73:
+
+    # Audrey "Yeah, about how annoying you are."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3807
+translate chinese Audrey_12_label_9249d591:
+
+    # ch_Name "Speaking of which, I wanted to bore you, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3808
+translate chinese Audrey_12_label_3f4aac8d:
+
+    # Audrey "Again?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3810
+translate chinese Audrey_12_label_c213ea34:
+
+    # Audrey "Look, didn't I make myself clear last time?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3811
+translate chinese Audrey_12_label_d2135b0f:
+
+    # Audrey "Can't you see I'm busy?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3812
+translate chinese Audrey_12_label_65656564:
+
+    # Samantha "It's okay, Audrey. I have other things to do."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:3813
+translate chinese Audrey_12_label_538c9342:
+
+    # ch_Name "So while you're busy doing your thing, I'm gonna entertain Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3815
+translate chinese Audrey_12_label_d2f7c863:
+
+    # Audrey "Entertain me? Well, well, well."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3816
+translate chinese Audrey_12_label_2c445b5b:
+
+    # Audrey "I don't know what you're up to, but I hope it's worth it, [Name]."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3817
+translate chinese Audrey_12_label_c585aa9d:
+
+    # ch_Name "Oh, trust me. Shall we go over the details?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3824
+translate chinese Audrey_12_label_a368d814:
+
+    # ch_Name "You shouldn't have written me off, baby."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3825
+translate chinese Audrey_12_label_8786757a:
+
+    # Audrey "Are you gonna hit on me again? You know what..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3826
+translate chinese Audrey_12_label_e71bc146:
+
+    # ch_Name "Don't jump to conclusions, baby. Your powers won't stop me this time."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3827
+translate chinese Audrey_12_label_dd6495fb:
+
+    # ch_Name "I'm ready to get to know you for real."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3829
+translate chinese Audrey_12_label_9a431dfc:
+
+    # Audrey "Wait, so what changed? What makes you so sure you can handle it this time?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3830
+translate chinese Audrey_12_label_70deb294:
+
+    # Audrey "Or is this just a desperate attempt to waste my evening?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3831
+translate chinese Audrey_12_label_17c02d66:
+
+    # ch_Name "I didn't waste any time. I've done my research."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3832
+translate chinese Audrey_12_label_f0dedec2:
+
+    # ch_Name "There is a way, believe me."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3833
+translate chinese Audrey_12_label_a217a5db:
+
+    # Audrey "Okay, so, what do you think I'm just gonna jump on you at your beck and call?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3834
+translate chinese Audrey_12_label_b342ca1f:
+
+    # ch_Name "Of course, you would. Aren't you hungry?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3836
+translate chinese Audrey_12_label_9430f0d5:
+
+    # Audrey "Um..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3837
+translate chinese Audrey_12_label_89f9af4b:
+
+    # Audrey "Now that you ask, I could really use some sex..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3838
+translate chinese Audrey_12_label_1f5c0a98:
+
+    # ch_Name "And I also think I'm ready to find out who you really are."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3839
+translate chinese Audrey_12_label_a4a6814d:
+
+    # ch_Name "I want to see who you really are. No illusions, no disguises."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3841
+translate chinese Audrey_12_label_58e37518:
+
+    # Audrey "Are you out of your mind? Don't ever bring it up out loud!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3842
+translate chinese Audrey_12_label_34593c88:
+
+    # Audrey "It's not a joke, it's a matter of life and death for me."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3843
+translate chinese Audrey_12_label_1e51b3f9:
+
+    # ch_Name "I know. And I would never betray your trust."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3844
+translate chinese Audrey_12_label_076a7d60:
+
+    # ch_Name "It's not like I gave away your secret to anyone..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3846
+translate chinese Audrey_12_label_b5e5a1bc:
+
+    # Audrey "Hmmm... It's a true duck."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3847
+translate chinese Audrey_12_label_cd3ee275:
+
+    # Audrey "Oh, I hope I don't regret this..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3849
+translate chinese Audrey_12_label_29e398e0:
+
+    # Audrey "Follow me!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3850
+translate chinese Audrey_12_label_3818b211:
+
+    # ch_Name "{i}(Whoa, did she really say yes?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3851
+translate chinese Audrey_12_label_04fcadd4:
+
+    # ch_Name "{i}(I didn't expect it to be that easy...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3852
+translate chinese Audrey_12_label_8c1841cc:
+
+    # Audrey "Hurry up before I change my mind."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3854
+translate chinese Audrey_12_label_c4e9f962:
+
+    # ch_Name "Sure. Where are we going?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3855
+translate chinese Audrey_12_label_a94170d5:
+
+    # Audrey "There's a place near campus."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3856
+translate chinese Audrey_12_label_b58f462a:
+
+    # Audrey "No one will bother us there."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3857
+translate chinese Audrey_12_label_a828c8e7:
+
+    # ch_Name "Sounds creepy..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3859
+translate chinese Audrey_12_label_92c15e55:
+
+    # Audrey "It is."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3867
+translate chinese Audrey_12_label_962f9d3e:
+
+    # ch_Name "{i}(I've never been to that part of the woods.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3868
+translate chinese Audrey_12_label_e8f18b5b:
+
+    # ch_Name "{i}(It seems more dreary and abandoned here.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3869
+translate chinese Audrey_12_label_3954142b:
+
+    # ch_Name "{i}(I hope Audrey isn't trying to get rid of me by leading me into some swamp.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3870
+translate chinese Audrey_12_label_2f39c744:
+
+    # ch_Name "How much longer do we have to go?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3872
+translate chinese Audrey_12_label_d7a2325b:
+
+    # Audrey "Not really. What are you, exhausted already?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3873
+translate chinese Audrey_12_label_32a6a7ff:
+
+    # Audrey "What a hero lover. With that kind of stamina..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3874
+translate chinese Audrey_12_label_149291c8:
+
+    # ch_Name "Of course, you're comparing sex to walking in the woods."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3875
+translate chinese Audrey_12_label_9a67361b:
+
+    # ch_Name "It's a different level of motivation."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3876
+translate chinese Audrey_12_label_d9540a01:
+
+    # Audrey "Pfft..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3883
+translate chinese Audrey_12_label_811688f7:
+
+    # ch_Name "{i}(Whoa, what is that? That looks creepy.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3884
+translate chinese Audrey_12_label_6b68a2f5:
+
+    # Audrey "Here we are! Since this place has been abandoned for some time..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3885
+translate chinese Audrey_12_label_a90a4bcf:
+
+    # Audrey "We won't have to worry about anyone bothering us."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3887
+translate chinese Audrey_12_label_df1aaeeb:
+
+    # ch_Name "I don't know..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3888
+translate chinese Audrey_12_label_3da24d29:
+
+    # ch_Name "I bet this place is crawling with ghosts and scarier creatures."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3889
+translate chinese Audrey_12_label_514e4838:
+
+    # ch_Name "Wouldn't it be nice if there was this level of serenity on campus?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3890
+translate chinese Audrey_12_label_aec275be:
+
+    # ch_Name "It's like if we could only lock the door to the room."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3892
+translate chinese Audrey_12_label_c1802162:
+
+    # Audrey "Hey, why are you backing out all of a sudden?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3893
+translate chinese Audrey_12_label_a7d5f262:
+
+    # Audrey "You weren't scared, were you?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3894
+translate chinese Audrey_12_label_abbe6acf:
+
+    # Audrey "Oh, that was a lot of bragging and self-confidence."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3895
+translate chinese Audrey_12_label_27b6d0ed:
+
+    # ch_Name "I'm not scared at all. I just don't understand why here..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3897
+translate chinese Audrey_12_label_d5bbf310:
+
+    # Audrey "You have no idea what it's like to live a lie all the time."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3898
+translate chinese Audrey_12_label_8807a08d:
+
+    # Audrey "To remember every second that you're different."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3899
+translate chinese Audrey_12_label_81e4ab60:
+
+    # Audrey "And if anyone finds out what you really are, they'll kill you."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3900
+translate chinese Audrey_12_label_8cd03c27:
+
+    # Audrey "If you'd been in my shoes, you'd understand why you're so careful."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3901
+translate chinese Audrey_12_label_31605cb2:
+
+    # ch_Name "{i}(Oh... I really didn't even think about how she felt.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3902
+translate chinese Audrey_12_label_840abe8b:
+
+    # ch_Name "I understand... I mean, I don't understand. But I want to understand. I really do."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3904
+translate chinese Audrey_12_label_821a9478:
+
+    # Audrey "Well then, what are you standing there for?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3905
+translate chinese Audrey_12_label_97b74d08:
+
+    # Audrey "Let's go before I get cold and change my mind."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3906
+translate chinese Audrey_12_label_eec294df:
+
+    # ch_Name "I'm coming."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3908
+translate chinese Audrey_12_label_13cdc227:
+
+    # ch_Name "Are you sure there's no one here?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3909
+translate chinese Audrey_12_label_2e6c79f6:
+
+    # Audrey "I come here a lot. It's my little secret place."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3910
+translate chinese Audrey_12_label_729beb83:
+
+    # Audrey "I've never noticed a sign of anyone else's presence."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3911
+translate chinese Audrey_12_label_a5a18ff0:
+
+    # Audrey "Come on in!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3919
+translate chinese Audrey_12_label_94c5d1a3:
+
+    # ch_Name "Whoa! It looks cozier inside than it does outside."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3920
+translate chinese Audrey_12_label_3d4d0b7f:
+
+    # Audrey "Make yourself at home. I mean, like my house."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3921
+translate chinese Audrey_12_label_e6fed3a7:
+
+    # Audrey "And that means try not to touch anything, okay?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3923
+translate chinese Audrey_12_label_b74980f1:
+
+    # ch_Name "{i}(I only plan on touching you...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3924
+translate chinese Audrey_12_label_782ede5a:
+
+    # ch_Name "Of course, you are."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3925
+translate chinese Audrey_12_label_0c37f62e:
+
+    # ch_Name "What is this place?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3927
+translate chinese Audrey_12_label_a56f6583:
+
+    # Audrey "It's an old temple. I don't know whose."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3928
+translate chinese Audrey_12_label_c1b6b559:
+
+    # Audrey "The images of the goddesses and gods have long since been erased."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3930
+translate chinese Audrey_12_label_d4a5f532:
+
+    # Audrey "Why are you standing there? Are you here to admire the interior?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3931
+translate chinese Audrey_12_label_45da598f:
+
+    # ch_Name "No. You."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3932
+translate chinese Audrey_12_label_c168265a:
+
+    # Audrey "Well, come here."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3934
+translate chinese Audrey_12_label_d48ecde2:
+
+    # Audrey "Oh, I can't believe I agreed to this venture."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3935
+translate chinese Audrey_12_label_590d3900:
+
+    # Audrey "But now that we've come this far..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3936
+translate chinese Audrey_12_label_8baff298:
+
+    # Audrey "Are you sure you're ready to see me?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3937
+translate chinese Audrey_12_label_6f7cefd1:
+
+    # ch_Name "You've never been so passionate about anything in your life."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3939
+translate chinese Audrey_12_label_e9ff25af:
+
+    # Audrey "Whatever happens next, swear to keep my secret."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3940
+translate chinese Audrey_12_label_d907da71:
+
+    # Audrey "In exchange I'll swear not to harm your life."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3941
+translate chinese Audrey_12_label_0498a733:
+
+    # ch_Name "I swear."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3942
+translate chinese Audrey_12_label_90c910cb:
+
+    # Audrey "I swear."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3944
+translate chinese Audrey_12_label_3dc3b28b:
+
+    # Audrey "All right! Whoa..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3945
+translate chinese Audrey_12_label_ddce6bf7:
+
+    # Audrey "I'm just now realizing how excited I am."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3946
+translate chinese Audrey_12_label_a9dee52d:
+
+    # Audrey "I don't often allow myself that kind of freedom..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3947
+translate chinese Audrey_12_label_43f489c7:
+
+    # Audrey "Please close your eyes for a minute."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3949
+translate chinese Audrey_12_label_7bb14ae0:
+
+    # ch_Name "I will."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3950
+translate chinese Audrey_12_label_be31ce93:
+
+    # ch_Name "But why?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3952
+translate chinese Audrey_12_label_af5c8a20:
+
+    # Audrey "Argh..." with vpunch
+    Audrey "" with vpunch
+
+# game/logic/events/audrey.rpy:3953
+translate chinese Audrey_12_label_7cde6535:
+
+    # Audrey "That's it."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3954
+translate chinese Audrey_12_label_d0feae7b:
+
+    # Audrey "You can open them now!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3984
+translate chinese Audrey_12_girl_5b2ff39f:
+
+    # ch_Name "{i}(Whoa, am I really seeing this, or am I dreaming?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3985
+translate chinese Audrey_12_girl_1cc30c78:
+
+    # ch_Name "Wow..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3986
+translate chinese Audrey_12_girl_21cd667f:
+
+    # ch_Name "{i}(Is that... Audrey?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3987
+translate chinese Audrey_12_girl_473417b9:
+
+    # ch_Name "Unbelievable!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3989
+translate chinese Audrey_12_girl_4f05a2f9:
+
+    # ch_Name "{i}(Holy shit, she can fly too?!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3990
+translate chinese Audrey_12_girl_bedeac44:
+
+    # ch_Name "{i}(This is the creature that sleeps under the same roof?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3991
+translate chinese Audrey_12_girl_cdce1f19:
+
+    # ch_Name "{i}(In the same room with Samantha?!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3993
+translate chinese Audrey_12_girl_8f3ca40b:
+
+    # Audrey "Well, I see you're speechless..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3994
+translate chinese Audrey_12_girl_a4e7375c:
+
+    # Audrey "It's not what you were expecting, is it?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3995
+translate chinese Audrey_12_girl_e3f47042:
+
+    # ch_Name "My brain is about to explode."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3996
+translate chinese Audrey_12_girl_3257dca0:
+
+    # ch_Name "I... I... I don't even know how to respond."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3998
+translate chinese Audrey_12_girl_6d0c2288:
+
+    # ch_Name "Audrey? Is that really still you?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3999
+translate chinese Audrey_12_girl_9966536b:
+
+    # Audrey "Ah-ha-ha..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4000
+translate chinese Audrey_12_girl_97d78454:
+
+    # Audrey "Of course, it is, silly."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4002
+translate chinese Audrey_12_girl_849762af:
+
+    # Audrey "I told you, you have no idea what you're asking for."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4003
+translate chinese Audrey_12_girl_1ccddc38:
+
+    # Audrey "Do you see why we couldn't do this on campus?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4004
+translate chinese Audrey_12_girl_e0c221ab:
+
+    # ch_Name "Yeah, well..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4005
+translate chinese Audrey_12_girl_ae7ddc02:
+
+    # ch_Name "I do now."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4007
+translate chinese Audrey_12_girl_7a597414:
+
+    # Audrey "So, what's your verdict?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4008
+translate chinese Audrey_12_girl_b28cbe1e:
+
+    # Audrey "You wanted to see a succubus without a disguise..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4009
+translate chinese Audrey_12_girl_897879d5:
+
+    # Audrey "Do you like what you see?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4010
+translate chinese Audrey_12_girl_a280b908:
+
+    # ch_Name "{i}(Oh, I don't even know how to say it...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4012
+translate chinese Audrey_12_girl_e675af2e:
+
+    # ch_Name "Audrey, I..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4017
+translate chinese Audrey_12_girl_5c67683c:
+
+    # ch_Name "To be honest, I'm shocked."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4019
+translate chinese Audrey_12_girl_b7bafe8c:
+
+    # ch_Name "Now I understand why you have such a character."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4020
+translate chinese Audrey_12_girl_574434a8:
+
+    # ch_Name "It's like your inner world has come out."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4021
+translate chinese Audrey_12_girl_d31d2cfe:
+
+    # ch_Name "It's as black and monstrous as your character."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4022
+translate chinese Audrey_12_girl_a6deaa6e:
+
+    # ch_Name "Nothing can happen between us."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4024
+translate chinese Audrey_12_girl_423750cb:
+
+    # Audrey "You miserable, miserable man."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4025
+translate chinese Audrey_12_girl_afb00367:
+
+    # Audrey "How dare you say that?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4026
+translate chinese Audrey_12_girl_64eb20d2:
+
+    # Audrey "You're the one who asked me to show you what I am..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4027
+translate chinese Audrey_12_girl_22139128:
+
+    # Audrey "You've been pestering me all this time."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4029
+translate chinese Audrey_12_girl_b368d3d5:
+
+    # Audrey "I'll tear you to pieces, you bitch!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4030
+translate chinese Audrey_12_girl_4c2eaf99:
+
+    # ch_Name "Ahh. You swore you wouldn't hurt me."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4031
+translate chinese Audrey_12_girl_fc54eac3:
+
+    # ch_Name "You can trust me with your secret. I'll keep my vow."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4032
+translate chinese Audrey_12_girl_622673b9:
+
+    # ch_Name "But stay away from me, and Samantha!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4034
+translate chinese Audrey_12_girl_c09ec753:
+
+    # Audrey "A-r-r..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4035
+translate chinese Audrey_12_girl_4dccc388:
+
+    # Audrey "You don't tell me what to do!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4036
+translate chinese Audrey_12_girl_277561ef:
+
+    # Audrey "And you don't take Samantha away from me!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4037
+translate chinese Audrey_12_girl_6e4ed686:
+
+    # Audrey "You miserable worm!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4039
+translate chinese Audrey_12_girl_7d981829:
+
+    # Audrey "I could wipe you out any second!" with hpunch
+    Audrey "" with hpunch
+
+# game/logic/events/audrey.rpy:4040
+translate chinese Audrey_12_girl_1620a398:
+
+    # Audrey "Do you hear me?!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4041
+translate chinese Audrey_12_girl_06dc7588:
+
+    # Audrey "Please don't walk away from me! Don't leave me like this!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4042
+translate chinese Audrey_12_girl_c6cf0494:
+
+    # ch_Name "{i}(She won't do anything... She took an oath.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4044
+translate chinese Audrey_12_girl_e115a04f:
+
+    # ch_Name "{i}(This is just anger from powerlessness.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4045
+translate chinese Audrey_12_girl_9c34cafb:
+
+    # Audrey "Damn you to hell!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4046
+translate chinese Audrey_12_girl_46b2b1b2:
+
+    # Audrey "I'll find a way..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4047
+translate chinese Audrey_12_girl_c776e885:
+
+    # ch_Name "Ciao, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4048
+translate chinese Audrey_12_girl_ef10cd42:
+
+    # ch_Name "See you at the academy."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4049
+translate chinese Audrey_12_girl_9858b8f4:
+
+    # Audrey "A-r-r-r-!!!!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4054
+translate chinese Audrey_12_girl_a8caa653:
+
+    # ch_Name "I'm a little confused, I'm sorry."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4056
+translate chinese Audrey_12_girl_94882130:
+
+    # ch_Name "I'm very glad you trusted me and showed your true form."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4057
+translate chinese Audrey_12_girl_05b5faac:
+
+    # ch_Name "But could you go back to human form?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4058
+translate chinese Audrey_12_girl_89d9dcde:
+
+    # ch_Name "At least while we're having sex."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4060
+translate chinese Audrey_12_girl_fdca8d87:
+
+    # Audrey "I don't get it. What?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4061
+translate chinese Audrey_12_girl_772ec983:
+
+    # Audrey "First, you ask me to show you my body, and now you want me to hide it?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4062
+translate chinese Audrey_12_girl_f8af43b1:
+
+    # Audrey "Is it that ugly?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4063
+translate chinese Audrey_12_girl_df11571f:
+
+    # ch_Name "No! Not at all. I'm just more attracted to the human body as a human..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4065
+translate chinese Audrey_12_girl_b7caa5a8:
+
+    # Audrey "What are you, some kind of fucking racist?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4066
+translate chinese Audrey_12_girl_16a4e775:
+
+    # Audrey "What does that mean? \"More attractive than the human body\"..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4067
+translate chinese Audrey_12_girl_e0c56f94:
+
+    # Audrey "Look at me again and tell me that body doesn't drive you crazy..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4068
+translate chinese Audrey_12_girl_17b66340:
+
+    # ch_Name "Well..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4069
+translate chinese Audrey_12_girl_feccfcb7:
+
+    # Audrey "Unbelievable. I can't believe it."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4071
+translate chinese Audrey_12_girl_bac44722:
+
+    # Audrey "Anyway, it's either sex in its true form..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4072
+translate chinese Audrey_12_girl_90026885:
+
+    # Audrey "Or no sex at all."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4073
+translate chinese Audrey_12_girl_a9b9c00f:
+
+    # Audrey "It's your choice."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4074
+translate chinese Audrey_12_girl_b42cf19a:
+
+    # ch_Name "Oh... Okay, if that's the case."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4079
+translate chinese Audrey_12_girl_ecc03afe:
+
+    # ch_Name "The choice is obvious."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4080
+translate chinese Audrey_12_girl_c17eb71e:
+
+    # ch_Name "I'm sorry, but..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4081
+translate chinese Audrey_12_girl_568c04c4:
+
+    # ch_Name "I'm not gonna fuck \"that\"."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4083
+translate chinese Audrey_12_girl_7e939e9f:
+
+    # Audrey "How dare you talk about me like that?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4084
+translate chinese Audrey_12_girl_e1667830:
+
+    # Audrey "What do you think I am, some kind of thing?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4085
+translate chinese Audrey_12_girl_e3242935:
+
+    # Audrey "Do you think you don't hurt my feelings?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4086
+translate chinese Audrey_12_girl_752de286:
+
+    # ch_Name "I don't even know if you feel anything."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4087
+translate chinese Audrey_12_girl_cad62437:
+
+    # ch_Name "Good luck. I'm out of here."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4089
+translate chinese Audrey_12_girl_16eae8f7:
+
+    # Audrey "How dare you just turn around and walk away from me?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4090
+translate chinese Audrey_12_girl_f7b11b48:
+
+    # Audrey "Hey, asshole!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4091
+translate chinese Audrey_12_girl_464cf388:
+
+    # Audrey "Do you think you're so tough?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4092
+translate chinese Audrey_12_girl_92036923:
+
+    # Audrey "I could destroy you with a flap of my wing!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4093
+translate chinese Audrey_12_girl_bc8acf9c:
+
+    # ch_Name "You can't."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4094
+translate chinese Audrey_12_girl_3c6f36e5:
+
+    # ch_Name "You took an oath, remember?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4096
+translate chinese Audrey_12_girl_46bb0e07:
+
+    # Audrey "You little bastard..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4097
+translate chinese Audrey_12_girl_af15c365:
+
+    # Audrey "How do you dare manipulate me with my own words?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4098
+translate chinese Audrey_12_girl_974c3612:
+
+    # Audrey "Aren't you afraid that vows are worthless to succubi?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4099
+translate chinese Audrey_12_girl_88a4dab4:
+
+    # ch_Name "I think if they were worthless..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4100
+translate chinese Audrey_12_girl_30934b40:
+
+    # ch_Name "I would have felt it on my own skin by now."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4102
+translate chinese Audrey_12_girl_a9b8a3b5:
+
+    # ch_Name "All your anger is out of helplessness."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4103
+translate chinese Audrey_12_girl_9c34cafb_1:
+
+    # Audrey "Damn you to hell!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4104
+translate chinese Audrey_12_girl_46b2b1b2_1:
+
+    # Audrey "I'll find a way..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4105
+translate chinese Audrey_12_girl_c776e885_1:
+
+    # ch_Name "Ciao, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4106
+translate chinese Audrey_12_girl_ec160630:
+
+    # ch_Name "I'll see you at the academy."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4107
+translate chinese Audrey_12_girl_9858b8f4_1:
+
+    # Audrey "A-r-r-r-!!!!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4108
+translate chinese Audrey_12_girl_0ac8681a:
+
+    # ch_Name "{i}(I hope I didn't make a nemesis out of her.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4113
+translate chinese Audrey_12_girl_f75f766b:
+
+    # ch_Name "I'm not going to lie. I was a little scared."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4114
+translate chinese Audrey_12_girl_d33f277e:
+
+    # ch_Name "With your whole authentic look and feel."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4115
+translate chinese Audrey_12_girl_e2974402:
+
+    # ch_Name "But you're even hotter than I thought."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4116
+translate chinese Audrey_12_girl_a4655b2b:
+
+    # ch_Name "I'd be honored to fuck you good."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4118
+translate chinese Audrey_12_girl_7eca34d4:
+
+    # Audrey "I knew you'd come around."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4119
+translate chinese Audrey_12_girl_69586e05:
+
+    # Audrey "After all, seduction is what succubi are famous for."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4120
+translate chinese Audrey_12_girl_7eb36ab3:
+
+    # Audrey "So, are you ready?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4121
+translate chinese Audrey_12_girl_d89b62d5:
+
+    # ch_Name "You bet I am."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4123
+translate chinese Audrey_12_girl_00328978:
+
+    # Audrey "Then hurry up and come see me."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4124
+translate chinese Audrey_12_girl_121d8149:
+
+    # Audrey "I'll show you that hell isn't just torture and torment."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4125
+translate chinese Audrey_12_girl_4ffdc2bc:
+
+    # Audrey "It's a much more voluptuous sin."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4126
+translate chinese Audrey_12_girl_45c1148d:
+
+    # ch_Name "Come on, let's see."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4127
+translate chinese Audrey_12_girl_4c4d7139:
+
+    # Audrey "Hee hee hee..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4131
+translate chinese Audrey_12_girl_5cd2b134:
+
+    # ch_Name "{i}(I never thought it would be like this.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4132
+translate chinese Audrey_12_girl_4a1d2000:
+
+    # ch_Name "{i}(Am I sure I'm not dreaming?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4133
+translate chinese Audrey_12_girl_3a19cedd:
+
+    # Audrey "What are you waiting for? Can't you work up the courage?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4134
+translate chinese Audrey_12_girl_28d7c5d1:
+
+    # ch_Name "No, I was just wondering... Sorry."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4136
+translate chinese Audrey_12_girl_632903aa:
+
+    # Audrey "It's okay. Samantha has a lot on her mind, too."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4137
+translate chinese Audrey_12_girl_9e10ce8c:
+
+    # Audrey "I think it's your upbringing."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4138
+translate chinese Audrey_12_girl_fc1441a6:
+
+    # ch_Name "Samantha? Let's not talk about her now..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4139
+translate chinese Audrey_12_girl_d65c1f7b:
+
+    # Audrey "You're right, all that matters now is you and me."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4141
+translate chinese Audrey_12_girl_4b87aa89:
+
+    # Audrey "Come here, be a good boy."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4142
+translate chinese Audrey_12_girl_d7494406:
+
+    # Audrey "I'm already cold without a man's warmth."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4143
+translate chinese Audrey_12_girl_f6731b6f:
+
+    # ch_Name "I'll fix that in a jiffy, baby."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4144
+translate chinese Audrey_12_girl_98e8c42d:
+
+    # ch_Name "{i}(Heh, so even succubi need warmth.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4146
+translate chinese Audrey_12_girl_be642570:
+
+    # Audrey "I've waited so long for this..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4147
+translate chinese Audrey_12_girl_65537304:
+
+    # Audrey "If you only knew how thirsty I am."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4148
+translate chinese Audrey_12_girl_1153d230:
+
+    # ch_Name "How so?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4150
+translate chinese Audrey_12_girl_6bb27be0:
+
+    # Audrey "I'd just drink you up to the last drop."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4151
+translate chinese Audrey_12_girl_559aaa97:
+
+    # Audrey "And I'm not talking about magic power right now."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4152
+translate chinese Audrey_12_girl_fc9c0993:
+
+    # ch_Name "Oh, good. I felt a little creepy for a second..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4153
+translate chinese Audrey_12_girl_5746200a:
+
+    # Audrey "Shut up and kiss me, fool."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4155
+translate chinese Audrey_12_girl_027b1c56:
+
+    # ch_Name "..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4156
+translate chinese Audrey_12_girl_fc11be4e:
+
+    # Audrey "Mmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4157
+translate chinese Audrey_12_girl_ee2167cc:
+
+    # ch_Name "Ohm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4158
+translate chinese Audrey_12_girl_63e6c0bb:
+
+    # ch_Name "{i}(Her lips are like a drug - impossible to tear away.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4160
+translate chinese Audrey_12_girl_1e63f781:
+
+    # ch_Name "{i}(And her tongue... What it does, oh, my God!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4161
+translate chinese Audrey_12_girl_8982e1c4:
+
+    # ch_Name "Mmm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4162
+translate chinese Audrey_12_girl_4e504c56:
+
+    # ch_Name "{i}(All succubi are so good at that?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4164
+translate chinese Audrey_12_girl_c2398695:
+
+    # Audrey "What do we have here..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4165
+translate chinese Audrey_12_girl_0f036acc:
+
+    # Audrey "I can't wait to get to know him better."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4166
+translate chinese Audrey_12_girl_48385abb:
+
+    # ch_Name "Oh, yeah, I'm all for it."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4168
+translate chinese Audrey_12_girl_e77f74d6:
+
+    # Audrey "Let me in. Let me make the connection..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4169
+translate chinese Audrey_12_girl_24e6ddab:
+
+    # Audrey "I'll be very careful."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4170
+translate chinese Audrey_12_girl_7d610d6a:
+
+    # Audrey "While I'm eating you."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4171
+translate chinese Audrey_12_girl_da7a6272:
+
+    # ch_Name "Oh, wow... Exactly!)"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4173
+translate chinese Audrey_12_girl_8a4f5685:
+
+    # ch_Name "No, wait!" with hpunch
+    ch_Name "" with hpunch
+
+# game/logic/events/audrey.rpy:4174
+translate chinese Audrey_12_girl_831f6a52:
+
+    # Audrey "What now?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4175
+translate chinese Audrey_12_girl_3adedbae:
+
+    # ch_Name "It's great but wait a minute."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4176
+translate chinese Audrey_12_girl_8e9e4867:
+
+    # ch_Name "I just remembered something."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4178
+translate chinese Audrey_12_girl_d983d380:
+
+    # ch_Name "{i}(If I don't want to lose all my powers at the fun part...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4179
+translate chinese Audrey_12_girl_3cd722ba:
+
+    # ch_Name "{i}(I need to drink that potion I made for occasions like this.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4181
+translate chinese Audrey_12_girl_7c510fdf:
+
+    # ch_Name "{i}(Sabrina said that if you don't boil the lilies enough...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4182
+translate chinese Audrey_12_girl_1fce92da:
+
+    # ch_Name "{i}(They can poison you.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4183
+translate chinese Audrey_12_girl_6c3953f7:
+
+    # ch_Name "{i}(Well, I hope I did it right.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4186
+translate chinese Audrey_12_girl_4d6c2c78:
+
+    # Audrey "Oh, how long have you been there?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4189
+translate chinese Audrey_12_girl_027b1c56_1:
+
+    # ch_Name "..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4190
+translate chinese Audrey_12_girl_17b66340_1:
+
+    # ch_Name "Well..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4191
+translate chinese Audrey_12_girl_5a8c39dc:
+
+    # Audrey "Well, I can't wait any longer."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4193
+translate chinese Audrey_12_girl_6b9939b9:
+
+    # ch_Name "{i}(She doesn't waste any more time.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4194
+translate chinese Audrey_12_girl_4bb1f6be:
+
+    # ch_Name "Audrey, you..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4195
+translate chinese Audrey_12_girl_6d131869:
+
+    # Audrey "I'm helping you get into shape, handsome."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4196
+translate chinese Audrey_12_girl_9f1bf933:
+
+    # ch_Name "But I could do it myself..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4198
+translate chinese Audrey_12_girl_7d9a3cba:
+
+    # Audrey "Look, don't be sarcastic, okay?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4199
+translate chinese Audrey_12_girl_dc9de17a:
+
+    # Audrey "Just relax and have fun."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4201
+translate chinese Audrey_12_girl_739f2e0c:
+
+    # ch_Name "Oh... (chuckles)"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4202
+translate chinese Audrey_12_girl_0ae9bcd0:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:4203
+translate chinese Audrey_12_girl_ef712276:
+
+    # ch_Name "Oh, yeah, there you go."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4204
+translate chinese Audrey_12_girl_9ede5ef2:
+
+    # ch_Name "You know what you're doing, that's for sure."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4206
+translate chinese Audrey_12_girl_7c82de24:
+
+    # Audrey "Do you like the feel of my hand on it?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4207
+translate chinese Audrey_12_girl_318eb34f:
+
+    # Audrey "Just imagine what I could do with other parts of my body..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4208
+translate chinese Audrey_12_girl_91c48192:
+
+    # Audrey "Imagine it entering my mouth and resting against my throat."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4209
+translate chinese Audrey_12_girl_951c43bf:
+
+    # Audrey "Isn't that what you want?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4211
+translate chinese Audrey_12_girl_e675af2e_1:
+
+    # ch_Name "Audrey, I..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4212
+translate chinese Audrey_12_girl_0ae9bcd0_1:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:4213
+translate chinese Audrey_12_girl_d9edb7cc:
+
+    # ch_Name "I'm all over the place."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4214
+translate chinese Audrey_12_girl_029b92c6:
+
+    # ch_Name "Don't you want to make your ideas come true?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4216
+translate chinese Audrey_12_girl_73d95791:
+
+    # Audrey "I'd love to."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4217
+translate chinese Audrey_12_girl_0d639987:
+
+    # ch_Name "{i}(I can't believe this is actually happening.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4218
+translate chinese Audrey_12_girl_0e2870b5:
+
+    # ch_Name "{i}(Am I really about to get sucked off by a succubus?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4220
+translate chinese Audrey_12_girl_23ae8d43:
+
+    # Audrey "Oh, my! Impressive size." with vpunch
+    Audrey "" with vpunch
+
+# game/logic/events/audrey.rpy:4221
+translate chinese Audrey_12_girl_505d4098:
+
+    # Audrey "I'm not even sure my mouth accommodates it."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4222
+translate chinese Audrey_12_girl_f9cef9b2:
+
+    # Audrey "Let's try..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4224
+translate chinese Audrey_12_girl_eee686cf:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4225
+translate chinese Audrey_12_girl_23632dcc:
+
+    # Audrey "Mmm, that's what I missed today."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4226
+translate chinese Audrey_12_girl_cc6725e3:
+
+    # ch_Name "I missed that, too."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4227
+translate chinese Audrey_12_girl_56f2ccda:
+
+    # ch_Name "{i}(She has such soulful eyes...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4229
+translate chinese Audrey_12_girl_2d7540d3:
+
+    # Audrey "Mm-hmm."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4230
+translate chinese Audrey_12_girl_6e4ee974:
+
+    # Audrey "..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4231
+translate chinese Audrey_12_girl_5f9667dc:
+
+    # ch_Name "Oh yeah, keep it up, baby!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4233
+translate chinese Audrey_12_girl_a5a50883:
+
+    # ch_Name "That's what you need."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4234
+translate chinese Audrey_12_girl_eaa9ce6d:
+
+    # Audrey "Mmmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4235
+translate chinese Audrey_12_girl_8703839f:
+
+    # ch_Name "{i}(She works her tongue so hard.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4236
+translate chinese Audrey_12_girl_c41c91bf:
+
+    # ch_Name "{i}(You can tell she's a professional.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4237
+translate chinese Audrey_12_girl_0ae9bcd0_2:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:4239
+translate chinese Audrey_12_girl_fc11be4e_1:
+
+    # Audrey "Mmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4240
+translate chinese Audrey_12_girl_184b319b:
+
+    # ch_Name "Baby, you're a cosmos."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4241
+translate chinese Audrey_12_girl_4ec2d15e:
+
+    # ch_Name "Don't stop."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4242
+translate chinese Audrey_12_girl_02bfe5d0:
+
+    # ch_Name "Ahh..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4244
+translate chinese Audrey_12_girl_f50fdef5:
+
+    # Audrey "Hmmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4245
+translate chinese Audrey_12_girl_34d536cb:
+
+    # ch_Name "Oh, yeah, that's it."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4246
+translate chinese Audrey_12_girl_58299595:
+
+    # ch_Name "It's just perfect..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4248
+translate chinese Audrey_12_girl_1512d56a:
+
+    # ch_Name "Except maybe you could go a little deeper?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4250
+translate chinese Audrey_12_girl_8e4a6377:
+
+    # Audrey "Is that a challenge? Of course, I could go deeper."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4251
+translate chinese Audrey_12_girl_9ffbc0c7:
+
+    # ch_Name "So what are you waiting for?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4252
+translate chinese Audrey_12_girl_96299770:
+
+    # Audrey "I just wanted to extend the pleasure."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4253
+translate chinese Audrey_12_girl_641f1625:
+
+    # Audrey "But now you're asking for it!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4255
+translate chinese Audrey_12_girl_eee686cf_1:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4257
+translate chinese Audrey_12_girl_fc4ab722:
+
+    # ch_Name "Oh, yeah! That's what I'm talking about!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4258
+translate chinese Audrey_12_girl_8c41bb6f:
+
+    # ch_Name "Ah..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4259
+translate chinese Audrey_12_girl_fc11be4e_2:
+
+    # Audrey "Mmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4260
+translate chinese Audrey_12_girl_4803143a:
+
+    # ch_Name "Keep up the good work."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4261
+translate chinese Audrey_12_girl_0ae9bcd0_3:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:4263
+translate chinese Audrey_12_girl_ec277636:
+
+    # ch_Name "{i}(Never thought anybody could be that good at blowjobs...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4264
+translate chinese Audrey_12_girl_3b99df42:
+
+    # ch_Name "{i}(And every second she seems to get better and better.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4265
+translate chinese Audrey_12_girl_f3b38f37:
+
+    # ch_Name "{i}(Is that really how the succubus charms work?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4266
+translate chinese Audrey_12_girl_eee686cf_2:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4267
+translate chinese Audrey_12_girl_0ae9bcd0_4:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:4269
+translate chinese Audrey_12_girl_eaa9ce6d_1:
+
+    # Audrey "Mmmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4270
+translate chinese Audrey_12_girl_662f49bd:
+
+    # ch_Name "Oh yeah..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4271
+translate chinese Audrey_12_girl_e5f1896c:
+
+    # ch_Name "That feels so good..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4272
+translate chinese Audrey_12_girl_eaa9ce6d_2:
+
+    # Audrey "Mmmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4275
+translate chinese Audrey_12_girl_eaa9ce6d_3:
+
+    # Audrey "Mmmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4276
+translate chinese Audrey_12_girl_39d331e1:
+
+    # ch_Name "You are unbelievable, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4277
+translate chinese Audrey_12_girl_eee686cf_3:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4278
+translate chinese Audrey_12_girl_d855dab7:
+
+    # ch_Name "That feels so good."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4280
+translate chinese Audrey_12_girl_130cef29:
+
+    # Audrey "Okay, I can't listen to you moan anymore."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4281
+translate chinese Audrey_12_girl_9a30e0de:
+
+    # Audrey "And envy you."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4283
+translate chinese Audrey_12_girl_0afa72ed:
+
+    # Audrey "It's time for you to satisfy my needs."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4284
+translate chinese Audrey_12_girl_6132b368:
+
+    # Audrey "Don't you think?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4285
+translate chinese Audrey_12_girl_5cd932bb:
+
+    # ch_Name "I'd be honored."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4286
+translate chinese Audrey_12_girl_1e75aa77:
+
+    # ch_Name "I've only just realized how beautiful you are..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4288
+translate chinese Audrey_12_girl_02bae4e0:
+
+    # Audrey "Do you really think so?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4289
+translate chinese Audrey_12_girl_607cb63a:
+
+    # Audrey "Or are you willing to say anything just to dip your dick somewhere?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4290
+translate chinese Audrey_12_girl_18f51c59:
+
+    # ch_Name "{i}(Well, not just anything or anywhere...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4291
+translate chinese Audrey_12_girl_b684505f:
+
+    # ch_Name "I really think so."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4293
+translate chinese Audrey_12_girl_5f9bb8d5:
+
+    # ch_Name "You can see for yourself..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4294
+translate chinese Audrey_12_girl_ee10f87a:
+
+    # ch_Name "Let's start with the fact that you have perfect breasts."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4295
+translate chinese Audrey_12_girl_e328d08e:
+
+    # Audrey "Go on."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4297
+translate chinese Audrey_12_girl_848ff789:
+
+    # ch_Name "They're a perfect size, they're firm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4298
+translate chinese Audrey_12_girl_b9271521:
+
+    # ch_Name "And the color of your skin drives me crazy."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4300
+translate chinese Audrey_12_girl_a53c35d5:
+
+    # Audrey "Yeah, I can tell that you like my breasts..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4301
+translate chinese Audrey_12_girl_199d306e:
+
+    # Audrey "But it's not just my boobs."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4302
+translate chinese Audrey_12_girl_d6f851ce:
+
+    # ch_Name "I'm sorry, it's just that right now they're occupying all my attention."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4303
+translate chinese Audrey_12_girl_a7439307:
+
+    # Audrey "Men, what can you take..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4305
+translate chinese Audrey_12_girl_54219727:
+
+    # Audrey "Let's just cut to the chase. I don't want anyone to catch us..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4306
+translate chinese Audrey_12_girl_9bd36686:
+
+    # Audrey "Get down on the floor."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4307
+translate chinese Audrey_12_girl_47687266:
+
+    # ch_Name "On the floor? It's cold out there..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4309
+translate chinese Audrey_12_girl_8bfba27f:
+
+    # Audrey "In case you haven't noticed, it's never cold around succubi. Lie down."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4310
+translate chinese Audrey_12_girl_80eedfd4:
+
+    # ch_Name "All right, whatever you say."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4311
+translate chinese Audrey_12_girl_e58b7ed5:
+
+    # Audrey "Good boy."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4313
+translate chinese Audrey_12_girl_06da1ba7:
+
+    # Audrey "Well, are you ready?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4314
+translate chinese Audrey_12_girl_fa107b6f:
+
+    # ch_Name "What a question - you cooked me yourself."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4315
+translate chinese Audrey_12_girl_2194a2fd:
+
+    # ch_Name "{i}(Still can't believe this is happening.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4316
+translate chinese Audrey_12_girl_9cb61b28:
+
+    # ch_Name "{i}(I didn't put up with her nasty temper for nothing.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4318
+translate chinese Audrey_12_girl_78002d40:
+
+    # Audrey "Maybe after tonight, you won't be able to..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4319
+translate chinese Audrey_12_girl_35d182b7:
+
+    # Audrey "...sleep with normal girls for a while."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4320
+translate chinese Audrey_12_girl_db337521:
+
+    # ch_Name "What? Why?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4321
+translate chinese Audrey_12_girl_014a0009:
+
+    # Audrey "They say no one seems good enough in bed after succubi."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4322
+translate chinese Audrey_12_girl_e582fd08:
+
+    # ch_Name "Oh... Huh, we'll see."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4323
+translate chinese Audrey_12_girl_586fcd4b:
+
+    # ch_Name "I can't get that ponytail out of my head."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4325
+translate chinese Audrey_12_girl_ba79ab84:
+
+    # Audrey "That one?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4326
+translate chinese Audrey_12_girl_1aca7351:
+
+    # ch_Name "Oh, yeah, it's so cute..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4327
+translate chinese Audrey_12_girl_e9ed3f25:
+
+    # ch_Name "I didn't think I could get excited about someone else's tail, but you did..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4328
+translate chinese Audrey_12_girl_3d2ab409:
+
+    # Audrey "Heh heh heh..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4329
+translate chinese Audrey_12_girl_9cf1bc2e:
+
+    # Audrey "Well, if that's the case..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4331
+translate chinese Audrey_12_girl_7e479568:
+
+    # Audrey "Would you like to get under my ponytail?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4332
+translate chinese Audrey_12_girl_0a25db02:
+
+    # ch_Name "{i}(What a divine sight!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4333
+translate chinese Audrey_12_girl_74dcadbf:
+
+    # ch_Name "{i}(Incredible beauty...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4334
+translate chinese Audrey_12_girl_59b71279:
+
+    # ch_Name "Of course, I do. Come here, hurry!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4336
+translate chinese Audrey_12_girl_7f52127f:
+
+    # Audrey "I can't wait either."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4337
+translate chinese Audrey_12_girl_6484962a:
+
+    # ch_Name "Oh, Audrey! I want you to ride me."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4338
+translate chinese Audrey_12_girl_937e47a3:
+
+    # ch_Name "I want to watch your wings shake as I go inside."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4339
+translate chinese Audrey_12_girl_e87787cf:
+
+    # Audrey "Oh, yeah, keep talking, you rascal."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4341
+translate chinese Audrey_12_girl_621507f3:
+
+    # ch_Name "I want to hold your horns while I pull your holes."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4342
+translate chinese Audrey_12_girl_6198a1f5:
+
+    # Audrey "Oh, that's it, I can't wait for another second..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4343
+translate chinese Audrey_12_girl_43b1b63a:
+
+    # Audrey "Take me, [Name]."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4345
+translate chinese Audrey_12_girl_d0c200cb:
+
+    # Audrey "Fuck me so hard you can hear me moan in hell!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4347
+translate chinese Audrey_12_girl_ce804928:
+
+    # ch_Name "Here I go!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4348
+translate chinese Audrey_12_girl_fac02ba5:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4349
+translate chinese Audrey_12_girl_3b476c8d:
+
+    # Audrey "Oh... ah... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4350
+translate chinese Audrey_12_girl_fac02ba5_1:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4351
+translate chinese Audrey_12_girl_0ae9bcd0_5:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:4353
+translate chinese Audrey_12_girl_a41ea034:
+
+    # ch_Name "{i}(I can feel the pleasure ripple through her body.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4354
+translate chinese Audrey_12_girl_be588d4a:
+
+    # Audrey "Yes! Just like that!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4355
+translate chinese Audrey_12_girl_730cfb2c:
+
+    # Audrey "So...{w} Good..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4356
+translate chinese Audrey_12_girl_4ee2d01e:
+
+    # Audrey "Mhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4357
+translate chinese Audrey_12_girl_0ae9bcd0_6:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:4359
+translate chinese Audrey_12_girl_3023ca42:
+
+    # Audrey "Don't stop! Fuck me harder!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4360
+translate chinese Audrey_12_girl_ce96d05e:
+
+    # Audrey "Oh... Yes... That's it!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4361
+translate chinese Audrey_12_girl_3b476c8d_1:
+
+    # Audrey "Oh... ah... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4362
+translate chinese Audrey_12_girl_fac02ba5_2:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4365
+translate chinese Audrey_12_girl_d5fb5922:
+
+    # Audrey "I want a new experience."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4366
+translate chinese Audrey_12_girl_ccc00493:
+
+    # ch_Name "Let's change positions."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4367
+translate chinese Audrey_12_girl_1baede1f:
+
+    # Audrey "That's a great idea!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4368
+translate chinese Audrey_12_girl_60ce84ff:
+
+    # Audrey "Now..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4370
+translate chinese Audrey_12_girl_35711c99:
+
+    # ch_Name "{i}(Ooh, she's insatiable.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4371
+translate chinese Audrey_12_girl_95423fc9:
+
+    # ch_Name "{i}(It's okay, with this potion, I'm strong enough to give her a good fuck.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4373
+translate chinese Audrey_12_girl_ff8041e1:
+
+    # Audrey "Take me from behind!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4374
+translate chinese Audrey_12_girl_48dfd8d1:
+
+    # ch_Name "How can I refuse such a request?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4375
+translate chinese Audrey_12_girl_70864908:
+
+    # Audrey "Then hurry up and come in."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4377
+translate chinese Audrey_12_girl_d3632296:
+
+    # ch_Name "You're so impatient."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4378
+translate chinese Audrey_12_girl_76c07720:
+
+    # ch_Name "Do you not enjoy the moment of anticipation at all?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4379
+translate chinese Audrey_12_girl_12d08e8e:
+
+    # Audrey "Less than I would enjoy your cock inside me."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4380
+translate chinese Audrey_12_girl_88ce05c3:
+
+    # ch_Name "Fair enough."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4382
+translate chinese Audrey_12_girl_3b476c8d_2:
+
+    # Audrey "Oh... ah... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4384
+translate chinese Audrey_12_girl_fac02ba5_3:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4385
+translate chinese Audrey_12_girl_a41ea034_1:
+
+    # ch_Name "{i}(I can feel the pleasure ripple through her body.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4386
+translate chinese Audrey_12_girl_be588d4a_1:
+
+    # Audrey "Yes! Just like that!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4387
+translate chinese Audrey_12_girl_730cfb2c_1:
+
+    # Audrey "So...{w} Good..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4388
+translate chinese Audrey_12_girl_0ae9bcd0_7:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:4390
+translate chinese Audrey_12_girl_3023ca42_1:
+
+    # Audrey "Don't stop! Fuck me harder!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4391
+translate chinese Audrey_12_girl_ce96d05e_1:
+
+    # Audrey "Oh... Yes... That's it!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4392
+translate chinese Audrey_12_girl_3b476c8d_3:
+
+    # Audrey "Oh... ah... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4393
+translate chinese Audrey_12_girl_fac02ba5_4:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4394
+translate chinese Audrey_12_girl_0ae9bcd0_8:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:4396
+translate chinese Audrey_12_girl_fac02ba5_5:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4397
+translate chinese Audrey_12_girl_2d5b0d4b:
+
+    # Audrey "Oh... ahh... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4398
+translate chinese Audrey_12_girl_be588d4a_2:
+
+    # Audrey "Yes! Just like that!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4399
+translate chinese Audrey_12_girl_730cfb2c_2:
+
+    # Audrey "So...{w} Good..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4406
+translate chinese Audrey_12_girl_940239f6:
+
+    # ch_Name "{i}(I had an idea. I'm sure someone, and a succubus won't say no to me...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4407
+translate chinese Audrey_12_girl_0f87bf4a:
+
+    # ch_Name "Audrey, here's an idea. How can I put this delicately..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4408
+translate chinese Audrey_12_girl_2250bc9e:
+
+    # ch_Name "Would you like to try it in the ass?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4410
+translate chinese Audrey_12_girl_4928e295:
+
+    # Audrey "I don't mind."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4411
+translate chinese Audrey_12_girl_301ccd6a:
+
+    # Audrey "You don't have to be so subtle with me. Sex is in my nature."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4412
+translate chinese Audrey_12_girl_b8a06f40:
+
+    # Audrey "So stop squirming."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4413
+translate chinese Audrey_12_girl_b471074f:
+
+    # Audrey "You better come in my ass with your massive cock, [Name]!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4415
+translate chinese Audrey_12_girl_ce804928_1:
+
+    # ch_Name "Here I go!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4417
+translate chinese Audrey_12_girl_fac02ba5_6:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4418
+translate chinese Audrey_12_girl_3b476c8d_4:
+
+    # Audrey "Oh... ah... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4419
+translate chinese Audrey_12_girl_fac02ba5_7:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4420
+translate chinese Audrey_12_girl_f97e88f9:
+
+    # ch_Name "{i}(Her ass is so tight...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4422
+translate chinese Audrey_12_girl_be588d4a_3:
+
+    # Audrey "Yes! Just like that!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4423
+translate chinese Audrey_12_girl_730cfb2c_3:
+
+    # Audrey "So...{w} Good..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4424
+translate chinese Audrey_12_girl_3b476c8d_5:
+
+    # Audrey "Oh... ah... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4425
+translate chinese Audrey_12_girl_fac02ba5_8:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4427
+translate chinese Audrey_12_girl_3023ca42_2:
+
+    # Audrey "Don't stop! Fuck me harder!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4428
+translate chinese Audrey_12_girl_ce96d05e_2:
+
+    # Audrey "Oh... Yes... That's it!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4429
+translate chinese Audrey_12_girl_3b476c8d_6:
+
+    # Audrey "Oh... ah... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4430
+translate chinese Audrey_12_girl_fac02ba5_9:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4433
+translate chinese Audrey_12_girl_c7ebc4c3:
+
+    # ch_Name "I'm going to cum..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4434
+translate chinese Audrey_12_girl_b294fd28:
+
+    # Audrey "Me too!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4439
+translate chinese Audrey_12_girl_e3b353c1:
+
+    # ch_Name "I'm cuming!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4441
+translate chinese Audrey_12_girl_d398ecdf:
+
+    # Audrey "Oh yeah, come on!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4442
+translate chinese Audrey_12_girl_69d272c2:
+
+    # ch_Name "Unbelievable..." with flash
+    ch_Name "" with flash
+
+# game/logic/events/audrey.rpy:4444
+translate chinese Audrey_12_girl_0dc3c7b3:
+
+    # ch_Name "Oh... ah..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4445
+translate chinese Audrey_12_girl_a723dfe8:
+
+    # Audrey "Ahh..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4446
+translate chinese Audrey_12_girl_d72592f0:
+
+    # Audrey "Oh yes, that was beautiful."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4448
+translate chinese Audrey_12_girl_eec301e9:
+
+    # ch_Name "Are you satisfied?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4449
+translate chinese Audrey_12_girl_67cea4e1:
+
+    # Audrey "I'm sure I am... Look at all that sperm."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4450
+translate chinese Audrey_12_girl_5350d6ff:
+
+    # Audrey "You filled me up to the brim."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4451
+translate chinese Audrey_12_girl_0264e1aa:
+
+    # ch_Name "That's nice."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4453
+translate chinese Audrey_12_girl_5820c699:
+
+    # Audrey "That was really good."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4454
+translate chinese Audrey_12_girl_435769f7:
+
+    # Audrey "I haven't had sex like that in a long time."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4456
+translate chinese Audrey_12_girl_9298a03d:
+
+    # Audrey "No man has ever lasted this long with me..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4457
+translate chinese Audrey_12_girl_458e53d8:
+
+    # ch_Name "I'm not a normal person."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4458
+translate chinese Audrey_12_girl_e5e9f106:
+
+    # Audrey "That's for sure. You're just cosmic!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4459
+translate chinese Audrey_12_girl_11b5d21a:
+
+    # ch_Name "{i}(I knew she wasn't such a bitch.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4460
+translate chinese Audrey_12_girl_b379b3b2:
+
+    # ch_Name "{i}(She just needed quality sex.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4463
+translate chinese Audrey_12_girl_4902deb4:
+
+    # ch_Name "I think I'm going to cum."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4464
+translate chinese Audrey_12_girl_23efb7e2:
+
+    # Audrey "Not in me!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4466
+translate chinese Audrey_12_girl_7f5798f8:
+
+    # ch_Name "Okay!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4467
+translate chinese Audrey_12_girl_b6bdef17:
+
+    # ch_Name "But you're going to get dirty!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4469
+translate chinese Audrey_12_girl_22650fa0:
+
+    # Audrey "Oh yeah, get your cum all over me." with flash
+    Audrey "" with flash
+
+# game/logic/events/audrey.rpy:4470
+translate chinese Audrey_12_girl_53f0a497:
+
+    # ch_Name "Ah..." with flash
+    ch_Name "" with flash
+
+# game/logic/events/audrey.rpy:4472
+translate chinese Audrey_12_girl_ba6048d2:
+
+    # Audrey "That's it? I was expecting more."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4473
+translate chinese Audrey_12_girl_dfbb0956:
+
+    # ch_Name "Not yet..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4475
+translate chinese Audrey_12_girl_271ec625:
+
+    # ch_Name "Incoming!" with flash
+    ch_Name "" with flash
+
+# game/logic/events/audrey.rpy:4476
+translate chinese Audrey_12_girl_b3b57717:
+
+    # ch_Name "Oh, yes!" with flash
+    ch_Name "" with flash
+
+# game/logic/events/audrey.rpy:4478
+translate chinese Audrey_12_girl_23d45e61:
+
+    # ch_Name "That's so..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4479
+translate chinese Audrey_12_girl_eee686cf_4:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4480
+translate chinese Audrey_12_girl_d72592f0_1:
+
+    # Audrey "Oh yes, that was beautiful."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4482
+translate chinese Audrey_12_girl_eec301e9_1:
+
+    # ch_Name "Are you satisfied?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4483
+translate chinese Audrey_12_girl_e7c6f1a7:
+
+    # Audrey "I'm sure I am. Look at all that sperm."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4484
+translate chinese Audrey_12_girl_3966dd00:
+
+    # Audrey "You made quite a mess."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4485
+translate chinese Audrey_12_girl_626ee993:
+
+    # ch_Name "That's good."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4486
+translate chinese Audrey_12_girl_b517f028:
+
+    # ch_Name "I told you it would work."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4487
+translate chinese Audrey_12_girl_5820c699_1:
+
+    # Audrey "That was really good."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4489
+translate chinese Audrey_12_girl_9bc6ac1b:
+
+    # Audrey "No man has ever lasted that long with me..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4490
+translate chinese Audrey_12_girl_458e53d8_1:
+
+    # ch_Name "I'm not a normal person."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4491
+translate chinese Audrey_12_girl_e5e9f106_1:
+
+    # Audrey "That's for sure. You're just cosmic!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4492
+translate chinese Audrey_12_girl_11b5d21a_1:
+
+    # ch_Name "{i}(I knew she wasn't such a bitch.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4493
+translate chinese Audrey_12_girl_b379b3b2_1:
+
+    # ch_Name "{i}(She just needed quality sex.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4496
+translate chinese Audrey_12_girl_4902deb4_1:
+
+    # ch_Name "I think I'm going to cum."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4497
+translate chinese Audrey_12_girl_1e99da80:
+
+    # Audrey "Me too... Let's cum together. Don't take it out!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4499
+translate chinese Audrey_12_girl_b510ad9f:
+
+    # ch_Name "But..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4500
+translate chinese Audrey_12_girl_2aadc5a1:
+
+    # Audrey "Don't take it out!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4501
+translate chinese Audrey_12_girl_0dc3c7b3_1:
+
+    # ch_Name "Oh... ah..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4503
+translate chinese Audrey_12_girl_a723dfe8_1:
+
+    # Audrey "Ahh..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4504
+translate chinese Audrey_12_girl_d72592f0_2:
+
+    # Audrey "Oh yes, that was beautiful."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4505
+translate chinese Audrey_12_girl_eec301e9_2:
+
+    # ch_Name "Are you satisfied?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4507
+translate chinese Audrey_12_girl_67cea4e1_1:
+
+    # Audrey "I'm sure I am... Look at all that sperm."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4508
+translate chinese Audrey_12_girl_5350d6ff_1:
+
+    # Audrey "You filled me up to the brim."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4509
+translate chinese Audrey_12_girl_626ee993_1:
+
+    # ch_Name "That's good."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4510
+translate chinese Audrey_12_girl_b517f028_1:
+
+    # ch_Name "I told you it would work."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4512
+translate chinese Audrey_12_girl_5820c699_2:
+
+    # Audrey "That was really good."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4513
+translate chinese Audrey_12_girl_9bc6ac1b_1:
+
+    # Audrey "No man has ever lasted that long with me..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4514
+translate chinese Audrey_12_girl_458e53d8_2:
+
+    # ch_Name "I'm not a normal person."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4515
+translate chinese Audrey_12_girl_e5e9f106_2:
+
+    # Audrey "That's for sure. You're just cosmic!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4517
+translate chinese Audrey_12_girl_11b5d21a_2:
+
+    # ch_Name "{i}(I knew she wasn't such a bitch.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4518
+translate chinese Audrey_12_girl_b379b3b2_2:
+
+    # ch_Name "{i}(She just needed quality sex.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4521
+translate chinese Audrey_12_girl_4902deb4_2:
+
+    # ch_Name "I think I'm going to cum."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4522
+translate chinese Audrey_12_girl_23efb7e2_1:
+
+    # Audrey "Not in me!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4523
+translate chinese Audrey_12_girl_7f5798f8_1:
+
+    # ch_Name "Okay!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4525
+translate chinese Audrey_12_girl_b6bdef17_1:
+
+    # ch_Name "But you're going to get dirty!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4526
+translate chinese Audrey_12_girl_d12656e1:
+
+    # Audrey "Oh yeah, get your cum all over me."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4528
+translate chinese Audrey_12_girl_8c41bb6f_1:
+
+    # ch_Name "Ah..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4529
+translate chinese Audrey_12_girl_ba6048d2_1:
+
+    # Audrey "That's it? I was expecting more."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4531
+translate chinese Audrey_12_girl_dfbb0956_1:
+
+    # ch_Name "Not yet..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4532
+translate chinese Audrey_12_girl_5b4fa64c:
+
+    # ch_Name "Incoming!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4534
+translate chinese Audrey_12_girl_c5702309:
+
+    # ch_Name "Oh, yes!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4535
+translate chinese Audrey_12_girl_23d45e61_1:
+
+    # ch_Name "That's so..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4537
+translate chinese Audrey_12_girl_eee686cf_5:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4538
+translate chinese Audrey_12_girl_d72592f0_3:
+
+    # Audrey "Oh yes, that was beautiful."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4539
+translate chinese Audrey_12_girl_eec301e9_3:
+
+    # ch_Name "Are you satisfied?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4540
+translate chinese Audrey_12_girl_e7c6f1a7_1:
+
+    # Audrey "I'm sure I am. Look at all that sperm."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4542
+translate chinese Audrey_12_girl_3966dd00_1:
+
+    # Audrey "You made quite a mess."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4543
+translate chinese Audrey_12_girl_3f5f67bf:
+
+    # ch_Name "Well, if it wasn't for your help."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4544
+translate chinese Audrey_12_girl_00f7b36c:
+
+    # ch_Name "I could not do that much."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4545
+translate chinese Audrey_12_girl_fdd093fc:
+
+    # Audrey "Anyway. That was really good."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4547
+translate chinese Audrey_12_girl_9bc6ac1b_2:
+
+    # Audrey "No man has ever lasted that long with me..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4548
+translate chinese Audrey_12_girl_458e53d8_3:
+
+    # ch_Name "I'm not a normal person."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4549
+translate chinese Audrey_12_girl_e5e9f106_3:
+
+    # Audrey "That's for sure. You're just cosmic!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4550
+translate chinese Audrey_12_girl_11b5d21a_3:
+
+    # ch_Name "{i}(I knew she wasn't such a bitch.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4551
+translate chinese Audrey_12_girl_b379b3b2_3:
+
+    # ch_Name "{i}(She just needed quality sex.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4560
+translate chinese Audrey_12_girl_4a3393b1:
+
+    # ch_Name "I had a great time today, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4561
+translate chinese Audrey_12_girl_4a7195ef:
+
+    # ch_Name "Thank you for trusting me."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4562
+translate chinese Audrey_12_girl_0daad536:
+
+    # Audrey "You proved it wasn't all for nothing."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4563
+translate chinese Audrey_12_girl_c69bfafe:
+
+    # Audrey "I'm sorry I was rude to you."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4565
+translate chinese Audrey_12_girl_2168492a:
+
+    # ch_Name "It's okay, it's no big deal."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4566
+translate chinese Audrey_12_girl_42857a4f:
+
+    # ch_Name "Now I know who you really are."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4567
+translate chinese Audrey_12_girl_0ed13c38:
+
+    # ch_Name "And I mean your soul, not your horns and wings."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4569
+translate chinese Audrey_12_girl_90563c54:
+
+    # Audrey "[Name], I'll remind you just in case..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4570
+translate chinese Audrey_12_girl_d132a57e:
+
+    # Audrey "No living soul can know about me."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4571
+translate chinese Audrey_12_girl_27928042:
+
+    # Audrey "So drop all the horns and wings jokes, okay?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4573
+translate chinese Audrey_12_girl_21f13639:
+
+    # ch_Name "You have my word."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4574
+translate chinese Audrey_12_girl_c49fc413:
+
+    # ch_Name "No one will ever find out your secret from me."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4575
+translate chinese Audrey_12_girl_64d87088:
+
+    # Audrey "Thank you. (chuckles)"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4576
+translate chinese Audrey_12_girl_a5330969:
+
+    # Audrey "It was nice to be in your own skin for a change..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4578
+translate chinese Audrey_12_girl_e969dc4f:
+
+    # ch_Name "It really suits you."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4579
+translate chinese Audrey_12_girl_5f09da4e:
+
+    # ch_Name "I didn't realize succubi could be so beautiful..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4580
+translate chinese Audrey_12_girl_5dc04459:
+
+    # Audrey "Stop it, you're flattering me..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4600
+translate chinese fountain_flower_label_7e655ab3:
+
+    # ch_Name "{i}(Here it is...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4601
+translate chinese fountain_flower_label_e70d75f2:
+
+    # ch_Name "{i}(Lunar nymphaea!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4602
+translate chinese fountain_flower_label_0a490cac:
+
+    # ch_Name "{i}(I had no idea how beautiful it was.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4603
+translate chinese fountain_flower_label_fa891ee5:
+
+    # ch_Name "{i}(It's even kind of pathetic to tear it down.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4604
+translate chinese fountain_flower_label_af28fb9b:
+
+    # ch_Name "{i}(I hope Audrey is worth it!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4606
+translate chinese fountain_flower_label_72be0cae:
+
+    # ch_Name "{i}(Whoa... I can feel it throbbing in my hands.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4607
+translate chinese fountain_flower_label_249d0074:
+
+    # ch_Name "{i}(This flower is clearly full of magical energy.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4608
+translate chinese fountain_flower_label_e3a7fa73:
+
+    # ch_Name "{i}(Now all I have to do is take it to potions practice.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4609
+translate chinese fountain_flower_label_c5cda24b:
+
+    # ch_Name "{i}(And sneak it into the cauldron.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4610
+translate chinese fountain_flower_label_74e8ca8c:
+
+    # ch_Name "{i}(I hope the book is right and that potion will work.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4611
+translate chinese fountain_flower_label_b909a6fc:
+
+    # ch_Name "{i}(Let's see what you have to say about that, Audrey!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4613
+translate chinese fountain_flower_label_0ae9bcd0:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:4615
+translate chinese fountain_flower_label_0ae9bcd0_1:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:4632
+translate chinese fountain_flower_label_cbb1eb21:
+
+    # ch_Name "{i}(Night had already fallen. Good.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4633
+translate chinese fountain_flower_label_49f9f4cd:
+
+    # ch_Name "{i}(The flower I wanted should have appeared in the fountain by now.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4634
+translate chinese fountain_flower_label_23546e54:
+
+    # ch_Name "{i}(Hmm, is it just me, or is the water in the fountain glowing?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4635
+translate chinese fountain_flower_label_af99c784:
+
+    # ch_Name "{i}(This must be it!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4636
+translate chinese fountain_flower_label_4eaf1b73:
+
+    # ch_Name "{i}(I'll go take a look.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4638
+translate chinese fountain_flower_label_7e655ab3_1:
+
+    # ch_Name "{i}(Here it is...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4639
+translate chinese fountain_flower_label_e70d75f2_1:
+
+    # ch_Name "{i}(Lunar nymphaea!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4640
+translate chinese fountain_flower_label_0a490cac_1:
+
+    # ch_Name "{i}(I had no idea how beautiful it was.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4641
+translate chinese fountain_flower_label_fa891ee5_1:
+
+    # ch_Name "{i}(It's even kind of pathetic to tear it down.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4642
+translate chinese fountain_flower_label_af28fb9b_1:
+
+    # ch_Name "{i}(I hope Audrey is worth it!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4644
+translate chinese fountain_flower_label_72be0cae_1:
+
+    # ch_Name "{i}(Whoa... I can feel it throbbing in my hands.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4645
+translate chinese fountain_flower_label_249d0074_1:
+
+    # ch_Name "{i}(This flower is clearly full of magical energy.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4646
+translate chinese fountain_flower_label_74e8ca8c_1:
+
+    # ch_Name "{i}(I hope the book is right and that potion will work.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4647
+translate chinese fountain_flower_label_b909a6fc_1:
+
+    # ch_Name "{i}(Let's see what you have to say about that, Audrey!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4648
+translate chinese fountain_flower_label_952a156a:
+
+    # ch_Name "{i}(All that's left to do is to brew that potion.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4649
+translate chinese fountain_flower_label_a892b5ed:
+
+    # ch_Name "{i}(I hope Sabrina didn't lock her class tonight.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4650
+translate chinese fountain_flower_label_e63d8170:
+
+    # ch_Name "{i}(Good thing she usually doesn't.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4652
+translate chinese fountain_flower_label_49ca9e7c:
+
+    # ch_Name "{i}(If the potion I'm about to make works...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4653
+translate chinese fountain_flower_label_24be0156:
+
+    # ch_Name "{i}(It might help solve not only my problem, but Samantha's problem as well.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4654
+translate chinese fountain_flower_label_a6fa854f:
+
+    # ch_Name "{i}(And her magical ligaments won't be affected anymore.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4661
+translate chinese fountain_flower_label_bc008e4a:
+
+    # ch_Name "{i}(Okay, I have all the right ingredients ready.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4662
+translate chinese fountain_flower_label_204a9ebc:
+
+    # ch_Name "{i}(All that's left is to add them in time and mix them properly.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4663
+translate chinese fountain_flower_label_02255bf2:
+
+    # ch_Name "{i}(Ugh, I've gotta be here for a couple more hours. I should have brought coffee.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4670
+translate chinese fountain_flower_label_24b144e7:
+
+    # ch_Name "{i}(The potion had already acquired its characteristic color.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4671
+translate chinese fountain_flower_label_63ea31a5:
+
+    # ch_Name "{i}(It's just as the book described.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4672
+translate chinese fountain_flower_label_8304f1e3:
+
+    # ch_Name "{i}(I think it's ready!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4674
+translate chinese fountain_flower_label_3a150603:
+
+    # ch_Name "{i}(It's so beautiful...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4675
+translate chinese fountain_flower_label_57b52dd0:
+
+    # ch_Name "{i}(I hope it works.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4676
+translate chinese fountain_flower_label_566596be:
+
+    # ch_Name "{i}(Okay, I'm done here. I just have to clean up the cauldron.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4683
+translate chinese fountain_flower_label_cca92f79:
+
+    # ch_Name "{i}(Yeah, I'm not going to get much sleep tonight.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4684
+translate chinese fountain_flower_label_769a4229:
+
+    # ch_Name "{i}(But it doesn't matter. I can't wait to tell Audrey about the potion.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4685
+translate chinese fountain_flower_label_a1513a8d:
+
+    # ch_Name "{i}( I'm already anticipating her reaction...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4692
+translate chinese fountain_flower_label_0f4c9072:
+
+    # ch_Name "{i}(Hmm, it's a pretty warm night.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4693
+translate chinese fountain_flower_label_a9e0d615:
+
+    # ch_Name "{i}(Perfect weather for a walk.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4694
+translate chinese fountain_flower_label_bb1c1969:
+
+    # ch_Name "{i}(Too bad I have to get up for class tomorrow.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4695
+translate chinese fountain_flower_label_240f3a5d:
+
+    # ch_Name "{i}(So I could spend the whole night looking at the stars.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4702
+translate chinese fountain_flower_label_0a134742:
+
+    # ch_Name "{i}(Everyone seems to be asleep by now. Yeah, that makes sense, it's late.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4703
+translate chinese fountain_flower_label_fceaf601:
+
+    # ch_Name "{i}(Not everyone needs to be underground brewing dubious potions at night.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4704
+translate chinese fountain_flower_label_52ac66e9:
+
+    # ch_Name "{i}(Is it just me, or is someone coming down the stairs?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4706
+translate chinese fountain_flower_label_e546f8a5:
+
+    # ch_Name "{i}(That's Audrey! That's the woman behind my insomnia.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4707
+translate chinese fountain_flower_label_7ed81b81:
+
+    # ch_Name "{i}(I wonder why she's awake.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4708
+translate chinese fountain_flower_label_b8c36ae3:
+
+    # ch_Name "{i}(Maybe she sensed that I was preparing a surprise for her.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4710
+translate chinese fountain_flower_label_fac0a734:
+
+    # ch_Name "Audrey, hi!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4711
+translate chinese fountain_flower_label_0bff204f:
+
+    # Audrey "Um... [Name], what are you doing here?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4712
+translate chinese fountain_flower_label_7e7aa6ab:
+
+    # ch_Name "Last time I checked, I was living here."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4713
+translate chinese fountain_flower_label_0867e8d3:
+
+    # Audrey "Very funny. I mean now, at night."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4714
+translate chinese fountain_flower_label_fedf33c3:
+
+    # ch_Name "Getting ready to give you a good feeding."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4716
+translate chinese fountain_flower_label_ca85fa68:
+
+    # Audrey "Why are you so sure of yourself all of a sudden?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4717
+translate chinese fountain_flower_label_0992c79c:
+
+    # Audrey "I think I stayed hungry last time."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4718
+translate chinese fountain_flower_label_540cbef7:
+
+    # ch_Name "Last time I wasn't ready."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4719
+translate chinese fountain_flower_label_8b0cc80d:
+
+    # ch_Name "But this time I've got something up my sleeve."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4721
+translate chinese fountain_flower_label_e8527e3b:
+
+    # Audrey "Really? Hmm... I was just about to have a \"snack\"."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4722
+translate chinese fountain_flower_label_da705bc0:
+
+    # Audrey "But where?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4723
+translate chinese fountain_flower_label_63932207:
+
+    # Audrey "Samantha sleeps in my room and yours has thin walls."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4724
+translate chinese fountain_flower_label_86db8cc7:
+
+    # ch_Name "The weather outside is great. Why don't we go for a walk?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4725
+translate chinese fountain_flower_label_fb8dde39:
+
+    # Audrey "I know a place... But no, it's a secret..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4726
+translate chinese fountain_flower_label_01220186:
+
+    # ch_Name "Come on, I won't tell anyone."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4728
+translate chinese fountain_flower_label_db3a926f:
+
+    # Audrey "Don't you dare, do you hear me?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4729
+translate chinese fountain_flower_label_7387d8d8:
+
+    # ch_Name "Audrey, you've trusted me with more than that, so..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4730
+translate chinese fountain_flower_label_c35cec39:
+
+    # ch_Name "I promise all your secrets will stay secrets."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4731
+translate chinese fountain_flower_label_b426b834:
+
+    # Audrey "Alright."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4733
+translate chinese fountain_flower_label_786a381f:
+
+    # Audrey "Okay, uh... Follow me."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4734
+translate chinese fountain_flower_label_74ebce9c:
+
+    # ch_Name "Sure."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4735
+translate chinese fountain_flower_label_3f408438:
+
+    # Audrey "I really hope you won't let me down this time."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4736
+translate chinese fountain_flower_label_f2a2ca05:
+
+    # ch_Name "Trust me, baby, it's all under control."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4746
+translate chinese Audrey_12_shemale_5b2ff39f:
+
+    # ch_Name "{i}(Whoa, am I really seeing this, or am I dreaming?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4747
+translate chinese Audrey_12_shemale_8f7e439c:
+
+    # ch_Name "{i}(Wow...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4748
+translate chinese Audrey_12_shemale_21cd667f:
+
+    # ch_Name "{i}(Is that... Audrey?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4749
+translate chinese Audrey_12_shemale_473417b9:
+
+    # ch_Name "Unbelievable!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4751
+translate chinese Audrey_12_shemale_4f05a2f9:
+
+    # ch_Name "{i}(Holy shit, she can fly too?!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4752
+translate chinese Audrey_12_shemale_bedeac44:
+
+    # ch_Name "{i}(This is the creature that sleeps under the same roof?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4753
+translate chinese Audrey_12_shemale_cdce1f19:
+
+    # ch_Name "{i}(In the same room with Samantha?!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4755
+translate chinese Audrey_12_shemale_8f3ca40b:
+
+    # Audrey "Well, I see you're speechless..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4756
+translate chinese Audrey_12_shemale_a4e7375c:
+
+    # Audrey "It's not what you were expecting, is it?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4757
+translate chinese Audrey_12_shemale_e3f47042:
+
+    # ch_Name "My brain is about to explode."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4758
+translate chinese Audrey_12_shemale_3257dca0:
+
+    # ch_Name "I... I... I don't even know how to respond."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4760
+translate chinese Audrey_12_shemale_6d0c2288:
+
+    # ch_Name "Audrey? Is that really still you?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4761
+translate chinese Audrey_12_shemale_9966536b:
+
+    # Audrey "Ah-ha-ha..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4762
+translate chinese Audrey_12_shemale_c4dbe8bb:
+
+    # Audrey "Of course it is, silly."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4764
+translate chinese Audrey_12_shemale_849762af:
+
+    # Audrey "I told you, you have no idea what you're asking for."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4765
+translate chinese Audrey_12_shemale_1ccddc38:
+
+    # Audrey "Do you see why we couldn't do this on campus?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4766
+translate chinese Audrey_12_shemale_e0c221ab:
+
+    # ch_Name "Yeah, well..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4767
+translate chinese Audrey_12_shemale_ae7ddc02:
+
+    # ch_Name "I do now."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4769
+translate chinese Audrey_12_shemale_7a597414:
+
+    # Audrey "So, what's your verdict?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4770
+translate chinese Audrey_12_shemale_b28cbe1e:
+
+    # Audrey "You wanted to see a succubus without a disguise..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4771
+translate chinese Audrey_12_shemale_897879d5:
+
+    # Audrey "Do you like what you see?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4772
+translate chinese Audrey_12_shemale_a280b908:
+
+    # ch_Name "{i}(Oh, I don't even know how to say it...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4774
+translate chinese Audrey_12_shemale_e675af2e:
+
+    # ch_Name "Audrey, I..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4778
+translate chinese Audrey_12_shemale_5c67683c:
+
+    # ch_Name "To be honest, I'm shocked."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4780
+translate chinese Audrey_12_shemale_b7bafe8c:
+
+    # ch_Name "Now I understand why you have such a character."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4781
+translate chinese Audrey_12_shemale_574434a8:
+
+    # ch_Name "It's like your inner world has come out."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4782
+translate chinese Audrey_12_shemale_d31d2cfe:
+
+    # ch_Name "It's as black and monstrous as your character."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4783
+translate chinese Audrey_12_shemale_a6deaa6e:
+
+    # ch_Name "Nothing can happen between us."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4785
+translate chinese Audrey_12_shemale_423750cb:
+
+    # Audrey "You miserable, miserable man."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4786
+translate chinese Audrey_12_shemale_afb00367:
+
+    # Audrey "How dare you say that?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4787
+translate chinese Audrey_12_shemale_64eb20d2:
+
+    # Audrey "You're the one who asked me to show you what I am..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4788
+translate chinese Audrey_12_shemale_22139128:
+
+    # Audrey "You've been pestering me all this time."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4790
+translate chinese Audrey_12_shemale_b368d3d5:
+
+    # Audrey "I'll tear you to pieces, you bitch!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4791
+translate chinese Audrey_12_shemale_4c2eaf99:
+
+    # ch_Name "Ahh. You swore you wouldn't hurt me."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4792
+translate chinese Audrey_12_shemale_d8f5403d:
+
+    # ch_Name "Your secret's safe with me. I'll keep my vow."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4793
+translate chinese Audrey_12_shemale_ab46866e:
+
+    # ch_Name "But stay away from me and Samantha!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4795
+translate chinese Audrey_12_shemale_c09ec753:
+
+    # Audrey "A-r-r..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4796
+translate chinese Audrey_12_shemale_4dccc388:
+
+    # Audrey "You don't tell me what to do!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4797
+translate chinese Audrey_12_shemale_277561ef:
+
+    # Audrey "And you don't take Samantha away from me!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4798
+translate chinese Audrey_12_shemale_6e4ed686:
+
+    # Audrey "You miserable worm!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4800
+translate chinese Audrey_12_shemale_7d981829:
+
+    # Audrey "I could wipe you out any second!" with hpunch
+    Audrey "" with hpunch
+
+# game/logic/events/audrey.rpy:4801
+translate chinese Audrey_12_shemale_1620a398:
+
+    # Audrey "Do you hear me?!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4802
+translate chinese Audrey_12_shemale_15955bad:
+
+    # Audrey "Don't walk away from me! Don't leave me like this!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4803
+translate chinese Audrey_12_shemale_c6cf0494:
+
+    # ch_Name "{i}(She won't do anything... She took an oath.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4805
+translate chinese Audrey_12_shemale_e115a04f:
+
+    # ch_Name "{i}(This is just anger from powerlessness.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4806
+translate chinese Audrey_12_shemale_9c34cafb:
+
+    # Audrey "Damn you to hell!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4807
+translate chinese Audrey_12_shemale_46b2b1b2:
+
+    # Audrey "I'll find a way..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4808
+translate chinese Audrey_12_shemale_c776e885:
+
+    # ch_Name "Ciao, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4809
+translate chinese Audrey_12_shemale_ef10cd42:
+
+    # ch_Name "See you at the academy."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4810
+translate chinese Audrey_12_shemale_9858b8f4:
+
+    # Audrey "A-r-r-r-!!!!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4815
+translate chinese Audrey_12_shemale_a8caa653:
+
+    # ch_Name "I'm a little confused, I'm sorry."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4817
+translate chinese Audrey_12_shemale_94882130:
+
+    # ch_Name "I'm very glad you trusted me and showed your true form."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4818
+translate chinese Audrey_12_shemale_05b5faac:
+
+    # ch_Name "But could you go back to human form?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4819
+translate chinese Audrey_12_shemale_89d9dcde:
+
+    # ch_Name "At least while we're having sex."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4821
+translate chinese Audrey_12_shemale_fdca8d87:
+
+    # Audrey "I don't get it. What?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4822
+translate chinese Audrey_12_shemale_772ec983:
+
+    # Audrey "First, you ask me to show you my body, and now you want me to hide it?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4823
+translate chinese Audrey_12_shemale_f8af43b1:
+
+    # Audrey "Is it that ugly?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4824
+translate chinese Audrey_12_shemale_df11571f:
+
+    # ch_Name "No! Not at all. I'm just more attracted to the human body as a human..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4826
+translate chinese Audrey_12_shemale_b7caa5a8:
+
+    # Audrey "What are you, some kind of fucking racist?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4827
+translate chinese Audrey_12_shemale_16a4e775:
+
+    # Audrey "What does that mean? \"More attractive than the human body\"..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4828
+translate chinese Audrey_12_shemale_e0c56f94:
+
+    # Audrey "Look at me again and tell me that body doesn't drive you crazy..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4829
+translate chinese Audrey_12_shemale_17b66340:
+
+    # ch_Name "Well..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4830
+translate chinese Audrey_12_shemale_feccfcb7:
+
+    # Audrey "Unbelievable. I can't believe it."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4832
+translate chinese Audrey_12_shemale_bac44722:
+
+    # Audrey "Anyway, it's either sex in its true form..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4833
+translate chinese Audrey_12_shemale_90026885:
+
+    # Audrey "Or no sex at all."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4834
+translate chinese Audrey_12_shemale_a9b9c00f:
+
+    # Audrey "It's your choice."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4835
+translate chinese Audrey_12_shemale_b42cf19a:
+
+    # ch_Name "Oh... Okay, if that's the case."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4840
+translate chinese Audrey_12_shemale_ecc03afe:
+
+    # ch_Name "The choice is obvious."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4841
+translate chinese Audrey_12_shemale_c17eb71e:
+
+    # ch_Name "I'm sorry, but..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4842
+translate chinese Audrey_12_shemale_568c04c4:
+
+    # ch_Name "I'm not gonna fuck \"that\"."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4844
+translate chinese Audrey_12_shemale_7e939e9f:
+
+    # Audrey "How dare you talk about me like that?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4845
+translate chinese Audrey_12_shemale_e1667830:
+
+    # Audrey "What do you think I am, some kind of thing?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4846
+translate chinese Audrey_12_shemale_e3242935:
+
+    # Audrey "Do you think you don't hurt my feelings?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4847
+translate chinese Audrey_12_shemale_752de286:
+
+    # ch_Name "I don't even know if you feel anything."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4848
+translate chinese Audrey_12_shemale_cad62437:
+
+    # ch_Name "Good luck. I'm out of here."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4850
+translate chinese Audrey_12_shemale_16eae8f7:
+
+    # Audrey "How dare you just turn around and walk away from me?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4851
+translate chinese Audrey_12_shemale_f7b11b48:
+
+    # Audrey "Hey, asshole!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4852
+translate chinese Audrey_12_shemale_464cf388:
+
+    # Audrey "Do you think you're so tough?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4853
+translate chinese Audrey_12_shemale_92036923:
+
+    # Audrey "I could destroy you with a flap of my wing!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4854
+translate chinese Audrey_12_shemale_bc8acf9c:
+
+    # ch_Name "You can't."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4855
+translate chinese Audrey_12_shemale_3c6f36e5:
+
+    # ch_Name "You took an oath, remember?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4857
+translate chinese Audrey_12_shemale_46bb0e07:
+
+    # Audrey "You little bastard..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4858
+translate chinese Audrey_12_shemale_af15c365:
+
+    # Audrey "How do you dare manipulate me with my own words?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4859
+translate chinese Audrey_12_shemale_974c3612:
+
+    # Audrey "Aren't you afraid that vows are worthless to succubi?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4860
+translate chinese Audrey_12_shemale_88a4dab4:
+
+    # ch_Name "I think if they were worthless..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4861
+translate chinese Audrey_12_shemale_30934b40:
+
+    # ch_Name "I would have felt it on my own skin by now."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4863
+translate chinese Audrey_12_shemale_a9b8a3b5:
+
+    # ch_Name "All your anger is out of helplessness."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4864
+translate chinese Audrey_12_shemale_9c34cafb_1:
+
+    # Audrey "Damn you to hell!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4865
+translate chinese Audrey_12_shemale_46b2b1b2_1:
+
+    # Audrey "I'll find a way..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4866
+translate chinese Audrey_12_shemale_c776e885_1:
+
+    # ch_Name "Ciao, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4867
+translate chinese Audrey_12_shemale_ec160630:
+
+    # ch_Name "I'll see you at the academy."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4868
+translate chinese Audrey_12_shemale_9858b8f4_1:
+
+    # Audrey "A-r-r-r-!!!!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4869
+translate chinese Audrey_12_shemale_0ac8681a:
+
+    # ch_Name "{i}(I hope I didn't make a nemesis out of her.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4878
+translate chinese Audrey_12_shemale_ee8b3479:
+
+    # ch_Name "I'm not going to lie, I was a little scared."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4879
+translate chinese Audrey_12_shemale_d33f277e:
+
+    # ch_Name "With your whole authentic look and feel."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4880
+translate chinese Audrey_12_shemale_e2974402:
+
+    # ch_Name "But you're even hotter than I thought."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4881
+translate chinese Audrey_12_shemale_a4655b2b:
+
+    # ch_Name "I'd be honored to fuck you good."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4883
+translate chinese Audrey_12_shemale_7eca34d4:
+
+    # Audrey "I knew you'd come around."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4884
+translate chinese Audrey_12_shemale_69586e05:
+
+    # Audrey "After all, seduction is what succubi are famous for."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4885
+translate chinese Audrey_12_shemale_7eb36ab3:
+
+    # Audrey "So, are you ready?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4886
+translate chinese Audrey_12_shemale_d89b62d5:
+
+    # ch_Name "You bet I am."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4888
+translate chinese Audrey_12_shemale_00328978:
+
+    # Audrey "Then hurry up and come see me."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4889
+translate chinese Audrey_12_shemale_121d8149:
+
+    # Audrey "I'll show you that hell isn't just torture and torment."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4890
+translate chinese Audrey_12_shemale_4ffdc2bc:
+
+    # Audrey "It's a much more voluptuous sin."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4891
+translate chinese Audrey_12_shemale_45c1148d:
+
+    # ch_Name "Come on, let's see."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4892
+translate chinese Audrey_12_shemale_4c4d7139:
+
+    # Audrey "Hee hee hee..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4894
+translate chinese Audrey_12_shemale_5cd2b134:
+
+    # ch_Name "{i}(I never thought it would be like this.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4895
+translate chinese Audrey_12_shemale_4a1d2000:
+
+    # ch_Name "{i}(Am I sure I'm not dreaming?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4896
+translate chinese Audrey_12_shemale_3a19cedd:
+
+    # Audrey "What are you waiting for? Can't you work up the courage?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4897
+translate chinese Audrey_12_shemale_28d7c5d1:
+
+    # ch_Name "No, I was just wondering... Sorry."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4899
+translate chinese Audrey_12_shemale_632903aa:
+
+    # Audrey "It's okay. Samantha has a lot on her mind, too."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4900
+translate chinese Audrey_12_shemale_9e10ce8c:
+
+    # Audrey "I think it's your upbringing."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4901
+translate chinese Audrey_12_shemale_fc1441a6:
+
+    # ch_Name "Samantha? Let's not talk about her now..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4902
+translate chinese Audrey_12_shemale_d65c1f7b:
+
+    # Audrey "You're right, all that matters now is you and me."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4904
+translate chinese Audrey_12_shemale_4b87aa89:
+
+    # Audrey "Come here, be a good boy."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4905
+translate chinese Audrey_12_shemale_d7494406:
+
+    # Audrey "I'm already cold without a man's warmth."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4906
+translate chinese Audrey_12_shemale_f6731b6f:
+
+    # ch_Name "I'll fix that in a jiffy, baby."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4907
+translate chinese Audrey_12_shemale_98e8c42d:
+
+    # ch_Name "{i}(Heh, so even succubi need warmth.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4909
+translate chinese Audrey_12_shemale_be642570:
+
+    # Audrey "I've waited so long for this..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4910
+translate chinese Audrey_12_shemale_65537304:
+
+    # Audrey "If you only knew how thirsty I am."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4911
+translate chinese Audrey_12_shemale_1153d230:
+
+    # ch_Name "How so?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4913
+translate chinese Audrey_12_shemale_6bb27be0:
+
+    # Audrey "I'd just drink you up to the last drop."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4914
+translate chinese Audrey_12_shemale_559aaa97:
+
+    # Audrey "And I'm not talking about magic power right now."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4915
+translate chinese Audrey_12_shemale_fc9c0993:
+
+    # ch_Name "Oh, good. I felt a little creepy for a second..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4916
+translate chinese Audrey_12_shemale_5746200a:
+
+    # Audrey "Shut up and kiss me, fool."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4918
+translate chinese Audrey_12_shemale_027b1c56:
+
+    # ch_Name "..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4919
+translate chinese Audrey_12_shemale_fc11be4e:
+
+    # Audrey "Mmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4920
+translate chinese Audrey_12_shemale_ee2167cc:
+
+    # ch_Name "Ohm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4921
+translate chinese Audrey_12_shemale_63e6c0bb:
+
+    # ch_Name "{i}(Her lips are like a drug - impossible to tear away.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4923
+translate chinese Audrey_12_shemale_1e63f781:
+
+    # ch_Name "{i}(And her tongue... What it does, oh, my God!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4924
+translate chinese Audrey_12_shemale_8982e1c4:
+
+    # ch_Name "Mmm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4925
+translate chinese Audrey_12_shemale_4e504c56:
+
+    # ch_Name "{i}(All succubi are so good at that?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4927
+translate chinese Audrey_12_shemale_c2398695:
+
+    # Audrey "What do we have here..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4928
+translate chinese Audrey_12_shemale_0f036acc:
+
+    # Audrey "I can't wait to get to know him better."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4929
+translate chinese Audrey_12_shemale_48385abb:
+
+    # ch_Name "Oh, yeah, I'm all for it."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4931
+translate chinese Audrey_12_shemale_e77f74d6:
+
+    # Audrey "Let me in. Let me make the connection..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4932
+translate chinese Audrey_12_shemale_24e6ddab:
+
+    # Audrey "I'll be very careful."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4933
+translate chinese Audrey_12_shemale_7d610d6a:
+
+    # Audrey "While I'm eating you."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4934
+translate chinese Audrey_12_shemale_98e78526:
+
+    # ch_Name "Oh, wow... Exactly!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4936
+translate chinese Audrey_12_shemale_8a4f5685:
+
+    # ch_Name "No, wait!" with hpunch
+    ch_Name "" with hpunch
+
+# game/logic/events/audrey.rpy:4937
+translate chinese Audrey_12_shemale_831f6a52:
+
+    # Audrey "What now?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4938
+translate chinese Audrey_12_shemale_3adedbae:
+
+    # ch_Name "It's great but wait a minute."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4939
+translate chinese Audrey_12_shemale_8e9e4867:
+
+    # ch_Name "I just remembered something."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4941
+translate chinese Audrey_12_shemale_d983d380:
+
+    # ch_Name "{i}(If I don't want to lose all my powers at the fun part...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4942
+translate chinese Audrey_12_shemale_3cd722ba:
+
+    # ch_Name "{i}(I need to drink that potion I made for occasions like this.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4944
+translate chinese Audrey_12_shemale_7c510fdf:
+
+    # ch_Name "{i}(Sabrina said that if you don't boil the lilies enough...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4945
+translate chinese Audrey_12_shemale_1fce92da:
+
+    # ch_Name "{i}(They can poison you.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4946
+translate chinese Audrey_12_shemale_6c3953f7:
+
+    # ch_Name "{i}(Well, I hope I did it right.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4949
+translate chinese Audrey_12_shemale_4d6c2c78:
+
+    # Audrey "Oh, how long have you been there?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4952
+translate chinese Audrey_12_shemale_027b1c56_1:
+
+    # ch_Name "..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4953
+translate chinese Audrey_12_shemale_17b66340_1:
+
+    # ch_Name "Well..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4954
+translate chinese Audrey_12_shemale_5a8c39dc:
+
+    # Audrey "Well, I can't wait any longer."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4956
+translate chinese Audrey_12_shemale_6b9939b9:
+
+    # ch_Name "{i}(She doesn't waste any more time.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4957
+translate chinese Audrey_12_shemale_4bb1f6be:
+
+    # ch_Name "Audrey, you..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4958
+translate chinese Audrey_12_shemale_6d131869:
+
+    # Audrey "I'm helping you get into shape, handsome."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4959
+translate chinese Audrey_12_shemale_9f1bf933:
+
+    # ch_Name "But I could do it myself..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4961
+translate chinese Audrey_12_shemale_7d9a3cba:
+
+    # Audrey "Look, don't be sarcastic, okay?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4962
+translate chinese Audrey_12_shemale_dc9de17a:
+
+    # Audrey "Just relax and have fun."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4964
+translate chinese Audrey_12_shemale_739f2e0c:
+
+    # ch_Name "Oh... (chuckles)"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4965
+translate chinese Audrey_12_shemale_0ae9bcd0:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:4966
+translate chinese Audrey_12_shemale_ef712276:
+
+    # ch_Name "Oh, yeah, there you go."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4967
+translate chinese Audrey_12_shemale_9ede5ef2:
+
+    # ch_Name "You know what you're doing, that's for sure."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4969
+translate chinese Audrey_12_shemale_7c82de24:
+
+    # Audrey "Do you like the feel of my hand on it?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4970
+translate chinese Audrey_12_shemale_318eb34f:
+
+    # Audrey "Just imagine what I could do with other parts of my body..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4971
+translate chinese Audrey_12_shemale_91c48192:
+
+    # Audrey "Imagine it entering my mouth and resting against my throat."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4972
+translate chinese Audrey_12_shemale_951c43bf:
+
+    # Audrey "Isn't that what you want?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4974
+translate chinese Audrey_12_shemale_e675af2e_1:
+
+    # ch_Name "Audrey, I..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4975
+translate chinese Audrey_12_shemale_0ae9bcd0_1:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:4976
+translate chinese Audrey_12_shemale_d9edb7cc:
+
+    # ch_Name "I'm all over the place."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4977
+translate chinese Audrey_12_shemale_029b92c6:
+
+    # ch_Name "Don't you want to make your ideas come true?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4979
+translate chinese Audrey_12_shemale_73d95791:
+
+    # Audrey "I'd love to."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4980
+translate chinese Audrey_12_shemale_0d639987:
+
+    # ch_Name "{i}(I can't believe this is actually happening.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4981
+translate chinese Audrey_12_shemale_0e2870b5:
+
+    # ch_Name "{i}(Am I really about to get sucked off by a succubus?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4983
+translate chinese Audrey_12_shemale_23ae8d43:
+
+    # Audrey "Oh, my! Impressive size." with vpunch
+    Audrey "" with vpunch
+
+# game/logic/events/audrey.rpy:4984
+translate chinese Audrey_12_shemale_c4a53c85:
+
+    # Audrey "I'll have to work my jaw up to accommodate it."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4985
+translate chinese Audrey_12_shemale_5832e9b4:
+
+    # Audrey "Let's give it a try..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4987
+translate chinese Audrey_12_shemale_eee686cf:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4988
+translate chinese Audrey_12_shemale_23632dcc:
+
+    # Audrey "Mmm, that's what I missed today."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4989
+translate chinese Audrey_12_shemale_cc6725e3:
+
+    # ch_Name "I missed that, too."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4990
+translate chinese Audrey_12_shemale_56f2ccda:
+
+    # ch_Name "{i}(She has such soulful eyes...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4992
+translate chinese Audrey_12_shemale_2d7540d3:
+
+    # Audrey "Mm-hmm."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4993
+translate chinese Audrey_12_shemale_6e4ee974:
+
+    # Audrey "..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4994
+translate chinese Audrey_12_shemale_5f9667dc:
+
+    # ch_Name "Oh yeah, keep it up, baby!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4996
+translate chinese Audrey_12_shemale_a5a50883:
+
+    # ch_Name "That's what you need."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4997
+translate chinese Audrey_12_shemale_eaa9ce6d:
+
+    # Audrey "Mmmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4998
+translate chinese Audrey_12_shemale_d6bd797e:
+
+    # ch_Name "(She works her tongue so hard.)"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4999
+translate chinese Audrey_12_shemale_bc78cbce:
+
+    # ch_Name "(You can tell she's a professional.)"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5000
+translate chinese Audrey_12_shemale_0ae9bcd0_2:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:5002
+translate chinese Audrey_12_shemale_fc11be4e_1:
+
+    # Audrey "Mmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5003
+translate chinese Audrey_12_shemale_22e23b6b:
+
+    # ch_Name "Baby, you're so good."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5004
+translate chinese Audrey_12_shemale_4ec2d15e:
+
+    # ch_Name "Don't stop."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5005
+translate chinese Audrey_12_shemale_02bfe5d0:
+
+    # ch_Name "Ahh..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5006
+translate chinese Audrey_12_shemale_0ae9bcd0_3:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:5008
+translate chinese Audrey_12_shemale_f50fdef5:
+
+    # Audrey "Hmmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5009
+translate chinese Audrey_12_shemale_34d536cb:
+
+    # ch_Name "Oh, yeah, that's it."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5010
+translate chinese Audrey_12_shemale_58299595:
+
+    # ch_Name "It's just perfect..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5012
+translate chinese Audrey_12_shemale_1512d56a:
+
+    # ch_Name "Except maybe you could go a little deeper?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5014
+translate chinese Audrey_12_shemale_8e4a6377:
+
+    # Audrey "Is that a challenge? Of course, I could go deeper."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5015
+translate chinese Audrey_12_shemale_9ffbc0c7:
+
+    # ch_Name "So what are you waiting for?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5016
+translate chinese Audrey_12_shemale_96299770:
+
+    # Audrey "I just wanted to extend the pleasure."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5017
+translate chinese Audrey_12_shemale_641f1625:
+
+    # Audrey "But now you're asking for it!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5019
+translate chinese Audrey_12_shemale_eee686cf_1:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5021
+translate chinese Audrey_12_shemale_fc4ab722:
+
+    # ch_Name "Oh, yeah! That's what I'm talking about!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5022
+translate chinese Audrey_12_shemale_8c41bb6f:
+
+    # ch_Name "Ah..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5023
+translate chinese Audrey_12_shemale_fc11be4e_2:
+
+    # Audrey "Mmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5024
+translate chinese Audrey_12_shemale_4803143a:
+
+    # ch_Name "Keep up the good work."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5025
+translate chinese Audrey_12_shemale_0ae9bcd0_4:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:5027
+translate chinese Audrey_12_shemale_ec277636:
+
+    # ch_Name "{i}(Never thought anybody could be that good at blowjobs...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5028
+translate chinese Audrey_12_shemale_3b99df42:
+
+    # ch_Name "{i}(And every second she seems to get better and better.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5029
+translate chinese Audrey_12_shemale_f3b38f37:
+
+    # ch_Name "{i}(Is that really how the succubus charms work?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5030
+translate chinese Audrey_12_shemale_6937d660:
+
+    # ch_Name "Oh...."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5031
+translate chinese Audrey_12_shemale_0ae9bcd0_5:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:5033
+translate chinese Audrey_12_shemale_eaa9ce6d_1:
+
+    # Audrey "Mmmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5034
+translate chinese Audrey_12_shemale_662f49bd:
+
+    # ch_Name "Oh yeah..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5035
+translate chinese Audrey_12_shemale_e5f1896c:
+
+    # ch_Name "That feels so good..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5036
+translate chinese Audrey_12_shemale_eaa9ce6d_2:
+
+    # Audrey "Mmmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5039
+translate chinese Audrey_12_shemale_eaa9ce6d_3:
+
+    # Audrey "Mmmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5040
+translate chinese Audrey_12_shemale_39d331e1:
+
+    # ch_Name "You are unbelievable, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5041
+translate chinese Audrey_12_shemale_eee686cf_2:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5042
+translate chinese Audrey_12_shemale_d855dab7:
+
+    # ch_Name "That feels so good."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5044
+translate chinese Audrey_12_shemale_130cef29:
+
+    # Audrey "Okay, I can't listen to you moan anymore."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5045
+translate chinese Audrey_12_shemale_9a30e0de:
+
+    # Audrey "And envy you."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5047
+translate chinese Audrey_12_shemale_0afa72ed:
+
+    # Audrey "It's time for you to satisfy my needs."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5048
+translate chinese Audrey_12_shemale_6132b368:
+
+    # Audrey "Don't you think?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5049
+translate chinese Audrey_12_shemale_5cd932bb:
+
+    # ch_Name "I'd be honored."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5050
+translate chinese Audrey_12_shemale_1e75aa77:
+
+    # ch_Name "I've only just realized how beautiful you are..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5052
+translate chinese Audrey_12_shemale_02bae4e0:
+
+    # Audrey "Do you really think so?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5053
+translate chinese Audrey_12_shemale_607cb63a:
+
+    # Audrey "Or are you willing to say anything just to dip your dick somewhere?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5054
+translate chinese Audrey_12_shemale_18f51c59:
+
+    # ch_Name "{i}(Well, not just anything or anywhere...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5055
+translate chinese Audrey_12_shemale_b684505f:
+
+    # ch_Name "I really think so."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5057
+translate chinese Audrey_12_shemale_5f9bb8d5:
+
+    # ch_Name "You can see for yourself..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5058
+translate chinese Audrey_12_shemale_ee10f87a:
+
+    # ch_Name "Let's start with the fact that you have perfect breasts."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5059
+translate chinese Audrey_12_shemale_e328d08e:
+
+    # Audrey "Go on."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5061
+translate chinese Audrey_12_shemale_296d79ed:
+
+    # ch_Name "They're the perfect size, they're firm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5062
+translate chinese Audrey_12_shemale_b9271521:
+
+    # ch_Name "And the color of your skin drives me crazy."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5064
+translate chinese Audrey_12_shemale_a53c35d5:
+
+    # Audrey "Yeah, I can tell that you like my breasts..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5065
+translate chinese Audrey_12_shemale_199d306e:
+
+    # Audrey "But it's not just my boobs."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5066
+translate chinese Audrey_12_shemale_d6f851ce:
+
+    # ch_Name "I'm sorry, it's just that right now they're occupying all my attention."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5067
+translate chinese Audrey_12_shemale_eb5ae06a:
+
+    # Audrey "Men, that's what you are..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5069
+translate chinese Audrey_12_shemale_54219727:
+
+    # Audrey "Let's just cut to the chase. I don't want anyone to catch us..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5070
+translate chinese Audrey_12_shemale_9bd36686:
+
+    # Audrey "Get down on the floor."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5071
+translate chinese Audrey_12_shemale_47687266:
+
+    # ch_Name "On the floor? It's cold out there..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5073
+translate chinese Audrey_12_shemale_8bfba27f:
+
+    # Audrey "In case you haven't noticed, it's never cold around succubi. Lie down."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5074
+translate chinese Audrey_12_shemale_80eedfd4:
+
+    # ch_Name "All right, whatever you say."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5075
+translate chinese Audrey_12_shemale_e58b7ed5:
+
+    # Audrey "Good boy."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5081
+translate chinese Audrey_12_shemale_28107154:
+
+    # ch_Name "Wait."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5082
+translate chinese Audrey_12_shemale_308a0ba3:
+
+    # ch_Name "Before we go any further, I want to pay you back in kind."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5083
+translate chinese Audrey_12_shemale_d09cf2cf:
+
+    # ch_Name "Which is to give you a good blow job!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5084
+translate chinese Audrey_12_shemale_94a21781:
+
+    # Audrey "Hmm, that's..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5085
+translate chinese Audrey_12_shemale_527be331:
+
+    # Audrey "That's not a bad idea."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5086
+translate chinese Audrey_12_shemale_e56ffa21:
+
+    # ch_Name "I knew you'd like that idea."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5088
+translate chinese Audrey_12_shemale_e05f7ea1:
+
+    # Audrey "Of course, you have such a pretty face."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5089
+translate chinese Audrey_12_shemale_4d697191:
+
+    # Audrey "I've always wanted to see him with my cock in his mouth."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5090
+translate chinese Audrey_12_shemale_ace38b56:
+
+    # Audrey "So it's time for you to get down on your knees, handsome."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5091
+translate chinese Audrey_12_shemale_4d7588cd:
+
+    # ch_Name "Gladly."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5093
+translate chinese Audrey_12_shemale_ca310ac8:
+
+    # ch_Name "Audrey, I have to tell you something."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5094
+translate chinese Audrey_12_shemale_3ce20ace:
+
+    # Audrey "What's that?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5095
+translate chinese Audrey_12_shemale_8784c768:
+
+    # ch_Name "You have the tastiest cock I've ever seen in my life."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5096
+translate chinese Audrey_12_shemale_c7cf82f1:
+
+    # Audrey "Heh... It's waiting for you to caress it."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5098
+translate chinese Audrey_12_shemale_76ba222b:
+
+    # ch_Name "{i}(I can't believe I decided to do this...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5099
+translate chinese Audrey_12_shemale_6fbfd03e:
+
+    # ch_Name "{i}(Judging by the way he's standing, Audrey's horny to the max, too.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5101
+translate chinese Audrey_12_shemale_b7bd51e9:
+
+    # ch_Name "{i}(I can already feel him throbbing in my mouth.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5102
+translate chinese Audrey_12_shemale_3a5b38d0:
+
+    # Audrey "Oh yeah, that's it..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5104
+translate chinese Audrey_12_shemale_a48200e0:
+
+    # ch_Name "Hmmm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5105
+translate chinese Audrey_12_shemale_beb51e6f:
+
+    # Audrey "Oh, yeah, that's it."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5106
+translate chinese Audrey_12_shemale_3e18401b:
+
+    # Audrey "Suck it, honey!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5107
+translate chinese Audrey_12_shemale_44e573b8:
+
+    # Audrey "Don't stop!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5109
+translate chinese Audrey_12_shemale_a48200e0_1:
+
+    # ch_Name "Hmmm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5110
+translate chinese Audrey_12_shemale_41370479:
+
+    # ch_Name "{i}(Is it me or I'm really good at it?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5111
+translate chinese Audrey_12_shemale_5700e8ad:
+
+    # Audrey "Oh yes! Just like that!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5112
+translate chinese Audrey_12_shemale_f3f43ed7:
+
+    # ch_Name "{i}(I love to feel how it gets stiffer and stiffer each time I suck it.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5114
+translate chinese Audrey_12_shemale_fac02ba5:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5115
+translate chinese Audrey_12_shemale_3b476c8d:
+
+    # Audrey "Oh... ah... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5116
+translate chinese Audrey_12_shemale_79cdc004:
+
+    # Audrey "Just like that!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5117
+translate chinese Audrey_12_shemale_fac02ba5_1:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5119
+translate chinese Audrey_12_shemale_b90aeba0:
+
+    # Audrey "We should do this more often."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5120
+translate chinese Audrey_12_shemale_4832cb67:
+
+    # Audrey "You're a great blow job, [Name]."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5121
+translate chinese Audrey_12_shemale_9196ecf4:
+
+    # Audrey "Will you give me some lessons?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5122
+translate chinese Audrey_12_shemale_2f4382c4:
+
+    # ch_Name "Uhu..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5124
+translate chinese Audrey_12_shemale_79cdc004_1:
+
+    # Audrey "Just like that!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5125
+translate chinese Audrey_12_shemale_fac02ba5_2:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5126
+translate chinese Audrey_12_shemale_95352e11:
+
+    # Audrey "So good..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5127
+translate chinese Audrey_12_shemale_aed1bf6b:
+
+    # Audrey "I feel so good!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5129
+translate chinese Audrey_12_shemale_e58c3466:
+
+    # Audrey "But now I want to feel your cock inside me."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5130
+translate chinese Audrey_12_shemale_668fc881:
+
+    # Audrey "So let's get back to the action! Shall we?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5131
+translate chinese Audrey_12_shemale_cbd63ed0:
+
+    # ch_Name "Alright."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5132
+translate chinese Audrey_12_shemale_6385eb21:
+
+    # ch_Name "I had fun, now It's time to fuck you."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5135
+translate chinese Audrey_12_shemale_06da1ba7:
+
+    # Audrey "Well, are you ready?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5136
+translate chinese Audrey_12_shemale_fa107b6f:
+
+    # ch_Name "What a question - you cooked me yourself."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5137
+translate chinese Audrey_12_shemale_2194a2fd:
+
+    # ch_Name "{i}(Still can't believe this is happening.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5138
+translate chinese Audrey_12_shemale_9cb61b28:
+
+    # ch_Name "{i}(I didn't put up with her nasty temper for nothing.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5140
+translate chinese Audrey_12_shemale_78002d40:
+
+    # Audrey "Maybe after tonight, you won't be able to..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5141
+translate chinese Audrey_12_shemale_35d182b7:
+
+    # Audrey "...sleep with normal girls for a while."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5142
+translate chinese Audrey_12_shemale_db337521:
+
+    # ch_Name "What? Why?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5143
+translate chinese Audrey_12_shemale_014a0009:
+
+    # Audrey "They say no one seems good enough in bed after succubi."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5144
+translate chinese Audrey_12_shemale_e582fd08:
+
+    # ch_Name "Oh... Huh, we'll see."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5145
+translate chinese Audrey_12_shemale_586fcd4b:
+
+    # ch_Name "I can't get that ponytail out of my head."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5147
+translate chinese Audrey_12_shemale_ba79ab84:
+
+    # Audrey "That one?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5148
+translate chinese Audrey_12_shemale_1aca7351:
+
+    # ch_Name "Oh, yeah, it's so cute..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5149
+translate chinese Audrey_12_shemale_e9ed3f25:
+
+    # ch_Name "I didn't think I could get excited about someone else's tail, but you did..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5150
+translate chinese Audrey_12_shemale_3d2ab409:
+
+    # Audrey "Heh heh heh..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5151
+translate chinese Audrey_12_shemale_9cf1bc2e:
+
+    # Audrey "Well, if that's the case..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5153
+translate chinese Audrey_12_shemale_7e479568:
+
+    # Audrey "Would you like to get under my ponytail?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5154
+translate chinese Audrey_12_shemale_0a25db02:
+
+    # ch_Name "{i}(What a divine sight!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5155
+translate chinese Audrey_12_shemale_74dcadbf:
+
+    # ch_Name "{i}(Incredible beauty...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5156
+translate chinese Audrey_12_shemale_59b71279:
+
+    # ch_Name "Of course, I do. Come here, hurry!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5158
+translate chinese Audrey_12_shemale_7f52127f:
+
+    # Audrey "I can't wait either."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5159
+translate chinese Audrey_12_shemale_d8448538:
+
+    # ch_Name "Oh, Audrey, I want you to ride me."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5160
+translate chinese Audrey_12_shemale_937e47a3:
+
+    # ch_Name "I want to watch your wings shake as I go inside."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5161
+translate chinese Audrey_12_shemale_e87787cf:
+
+    # Audrey "Oh, yeah, keep talking, you rascal."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5163
+translate chinese Audrey_12_shemale_621507f3:
+
+    # ch_Name "I want to hold your horns while I pull your holes."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5164
+translate chinese Audrey_12_shemale_6198a1f5:
+
+    # Audrey "Oh, that's it, I can't wait for another second..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5165
+translate chinese Audrey_12_shemale_43b1b63a:
+
+    # Audrey "Take me, [Name]."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5167
+translate chinese Audrey_12_shemale_d0c200cb:
+
+    # Audrey "Fuck me so hard you can hear me moan in hell!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5169
+translate chinese Audrey_12_shemale_ce804928:
+
+    # ch_Name "Here I go!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5170
+translate chinese Audrey_12_shemale_fac02ba5_3:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5171
+translate chinese Audrey_12_shemale_3b476c8d_1:
+
+    # Audrey "Oh... ah... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5172
+translate chinese Audrey_12_shemale_fac02ba5_4:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5174
+translate chinese Audrey_12_shemale_a41ea034:
+
+    # ch_Name "{i}(I can feel the pleasure ripple through her body.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5175
+translate chinese Audrey_12_shemale_be588d4a:
+
+    # Audrey "Yes! Just like that!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5176
+translate chinese Audrey_12_shemale_730cfb2c:
+
+    # Audrey "So...{w} Good..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5177
+translate chinese Audrey_12_shemale_4ee2d01e:
+
+    # Audrey "Mhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5179
+translate chinese Audrey_12_shemale_3023ca42:
+
+    # Audrey "Don't stop! Fuck me harder!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5180
+translate chinese Audrey_12_shemale_ce96d05e:
+
+    # Audrey "Oh... Yes... That's it!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5181
+translate chinese Audrey_12_shemale_3b476c8d_2:
+
+    # Audrey "Oh... ah... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5182
+translate chinese Audrey_12_shemale_fac02ba5_5:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5185
+translate chinese Audrey_12_shemale_d5fb5922:
+
+    # Audrey "I want a new experience."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5186
+translate chinese Audrey_12_shemale_ccc00493:
+
+    # ch_Name "Let's change positions."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5187
+translate chinese Audrey_12_shemale_1baede1f:
+
+    # Audrey "That's a great idea!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5188
+translate chinese Audrey_12_shemale_60ce84ff:
+
+    # Audrey "Now..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5190
+translate chinese Audrey_12_shemale_35711c99:
+
+    # ch_Name "{i}(Ooh, she's insatiable.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5191
+translate chinese Audrey_12_shemale_95423fc9:
+
+    # ch_Name "{i}(It's okay, with this potion, I'm strong enough to give her a good fuck.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5193
+translate chinese Audrey_12_shemale_ff8041e1:
+
+    # Audrey "Take me from behind!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5194
+translate chinese Audrey_12_shemale_48dfd8d1:
+
+    # ch_Name "How can I refuse such a request?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5195
+translate chinese Audrey_12_shemale_9217432f:
+
+    # ch_Name "Get on all fours."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5196
+translate chinese Audrey_12_shemale_c3c97cfa:
+
+    # Audrey "Just a second."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5198
+translate chinese Audrey_12_shemale_ce804928_1:
+
+    # ch_Name "Here I go!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5200
+translate chinese Audrey_12_shemale_fac02ba5_6:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5201
+translate chinese Audrey_12_shemale_3b476c8d_3:
+
+    # Audrey "Oh... ah... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5202
+translate chinese Audrey_12_shemale_fac02ba5_7:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5203
+translate chinese Audrey_12_shemale_f97e88f9:
+
+    # ch_Name "{i}(Her ass is so tight...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5205
+translate chinese Audrey_12_shemale_be588d4a_1:
+
+    # Audrey "Yes! Just like that!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5206
+translate chinese Audrey_12_shemale_730cfb2c_1:
+
+    # Audrey "So...{w} Good..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5207
+translate chinese Audrey_12_shemale_3b476c8d_4:
+
+    # Audrey "Oh... ah... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5208
+translate chinese Audrey_12_shemale_fac02ba5_8:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5210
+translate chinese Audrey_12_shemale_3023ca42_1:
+
+    # Audrey "Don't stop! Fuck me harder!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5211
+translate chinese Audrey_12_shemale_ce96d05e_1:
+
+    # Audrey "Oh... Yes... That's it!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5212
+translate chinese Audrey_12_shemale_3b476c8d_5:
+
+    # Audrey "Oh... ah... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5213
+translate chinese Audrey_12_shemale_fac02ba5_9:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5216
+translate chinese Audrey_12_shemale_c7ebc4c3:
+
+    # ch_Name "I'm going to cum..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5217
+translate chinese Audrey_12_shemale_b294fd28:
+
+    # Audrey "Me too!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5222
+translate chinese Audrey_12_shemale_e3b353c1:
+
+    # ch_Name "I'm cuming!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5224
+translate chinese Audrey_12_shemale_d398ecdf:
+
+    # Audrey "Oh yeah, come on!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5225
+translate chinese Audrey_12_shemale_69d272c2:
+
+    # ch_Name "Unbelievable..." with flash
+    ch_Name "" with flash
+
+# game/logic/events/audrey.rpy:5227
+translate chinese Audrey_12_shemale_0dc3c7b3:
+
+    # ch_Name "Oh... ah..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5228
+translate chinese Audrey_12_shemale_a723dfe8:
+
+    # Audrey "Ahh..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5229
+translate chinese Audrey_12_shemale_d72592f0:
+
+    # Audrey "Oh yes, that was beautiful."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5231
+translate chinese Audrey_12_shemale_eec301e9:
+
+    # ch_Name "Are you satisfied?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5232
+translate chinese Audrey_12_shemale_67cea4e1:
+
+    # Audrey "I'm sure I am... Look at all that sperm."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5233
+translate chinese Audrey_12_shemale_5350d6ff:
+
+    # Audrey "You filled me up to the brim."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5234
+translate chinese Audrey_12_shemale_0264e1aa:
+
+    # ch_Name "That's nice."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5236
+translate chinese Audrey_12_shemale_5820c699:
+
+    # Audrey "That was really good."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5237
+translate chinese Audrey_12_shemale_435769f7:
+
+    # Audrey "I haven't had sex like that in a long time."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5239
+translate chinese Audrey_12_shemale_9298a03d:
+
+    # Audrey "No man has ever lasted this long with me..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5240
+translate chinese Audrey_12_shemale_458e53d8:
+
+    # ch_Name "I'm not a normal person."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5241
+translate chinese Audrey_12_shemale_e5e9f106:
+
+    # Audrey "That's for sure. You're just cosmic!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5242
+translate chinese Audrey_12_shemale_11b5d21a:
+
+    # ch_Name "{i}(I knew she wasn't such a bitch.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5243
+translate chinese Audrey_12_shemale_b379b3b2:
+
+    # ch_Name "{i}(She just needed quality sex.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5246
+translate chinese Audrey_12_shemale_4902deb4:
+
+    # ch_Name "I think I'm going to cum."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5247
+translate chinese Audrey_12_shemale_23efb7e2:
+
+    # Audrey "Not in me!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5249
+translate chinese Audrey_12_shemale_7f5798f8:
+
+    # ch_Name "Okay!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5250
+translate chinese Audrey_12_shemale_b6bdef17:
+
+    # ch_Name "But you're going to get dirty!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5252
+translate chinese Audrey_12_shemale_22650fa0:
+
+    # Audrey "Oh yeah, get your cum all over me." with flash
+    Audrey "" with flash
+
+# game/logic/events/audrey.rpy:5253
+translate chinese Audrey_12_shemale_8c41bb6f_1:
+
+    # ch_Name "Ah..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5255
+translate chinese Audrey_12_shemale_ba6048d2:
+
+    # Audrey "That's it? I was expecting more."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5256
+translate chinese Audrey_12_shemale_dfbb0956:
+
+    # ch_Name "Not yet..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5258
+translate chinese Audrey_12_shemale_271ec625:
+
+    # ch_Name "Incoming!" with flash
+    ch_Name "" with flash
+
+# game/logic/events/audrey.rpy:5259
+translate chinese Audrey_12_shemale_c5702309:
+
+    # ch_Name "Oh, yes!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5261
+translate chinese Audrey_12_shemale_23d45e61:
+
+    # ch_Name "That's so..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5262
+translate chinese Audrey_12_shemale_eee686cf_3:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5263
+translate chinese Audrey_12_shemale_d72592f0_1:
+
+    # Audrey "Oh yes, that was beautiful."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5265
+translate chinese Audrey_12_shemale_eec301e9_1:
+
+    # ch_Name "Are you satisfied?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5266
+translate chinese Audrey_12_shemale_e7c6f1a7:
+
+    # Audrey "I'm sure I am. Look at all that sperm."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5267
+translate chinese Audrey_12_shemale_3966dd00:
+
+    # Audrey "You made quite a mess."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5268
+translate chinese Audrey_12_shemale_626ee993:
+
+    # ch_Name "That's good."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5269
+translate chinese Audrey_12_shemale_b517f028:
+
+    # ch_Name "I told you it would work."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5270
+translate chinese Audrey_12_shemale_5820c699_1:
+
+    # Audrey "That was really good."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5272
+translate chinese Audrey_12_shemale_9bc6ac1b:
+
+    # Audrey "No man has ever lasted that long with me..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5273
+translate chinese Audrey_12_shemale_458e53d8_1:
+
+    # ch_Name "I'm not a normal person."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5274
+translate chinese Audrey_12_shemale_e5e9f106_1:
+
+    # Audrey "That's for sure. You're just cosmic!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5275
+translate chinese Audrey_12_shemale_11b5d21a_1:
+
+    # ch_Name "{i}(I knew she wasn't such a bitch.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5276
+translate chinese Audrey_12_shemale_b379b3b2_1:
+
+    # ch_Name "{i}(She just needed quality sex.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5280
+translate chinese Audrey_12_shemale_e5f1896c_1:
+
+    # ch_Name "That feels so good..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5281
+translate chinese Audrey_12_shemale_17aa4b25:
+
+    # Audrey "Me too. It feels incredible!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5282
+translate chinese Audrey_12_shemale_b4f8be77:
+
+    # ch_Name "Watching you get so high, I even envy you."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5283
+translate chinese Audrey_12_shemale_ee867021:
+
+    # ch_Name "What if we switched places, and you fucked me?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5285
+translate chinese Audrey_12_shemale_9b8a5018:
+
+    # Audrey "Hmm, I hadn't even thought of that..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5286
+translate chinese Audrey_12_shemale_f2ec6ebc:
+
+    # Audrey "[Name], that's a great idea!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5287
+translate chinese Audrey_12_shemale_d7ed7932:
+
+    # ch_Name "Isn't it? Would you do that for me?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5288
+translate chinese Audrey_12_shemale_f1cc7b0b:
+
+    # Audrey "Of course, I would. Get your ass ready!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5295
+translate chinese Audrey_12_shemale_26693bdb:
+
+    # Audrey "Are you ready?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5296
+translate chinese Audrey_12_shemale_cc917d64:
+
+    # ch_Name "Just a second..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5297
+translate chinese Audrey_12_shemale_c6240092:
+
+    # ch_Name "It's my first time like this... Go easy on me, okay?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5299
+translate chinese Audrey_12_shemale_c09e2cfe:
+
+    # Audrey "I'll try."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5300
+translate chinese Audrey_12_shemale_6956321b:
+
+    # Audrey "But no promises."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5301
+translate chinese Audrey_12_shemale_3fc7d205:
+
+    # Audrey "We'll see how it goes."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5302
+translate chinese Audrey_12_shemale_3d555715:
+
+    # ch_Name "All right, I'm sure I can take any pressure you can get."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5304
+translate chinese Audrey_12_shemale_56b7296f:
+
+    # ch_Name "{i}(I can feel it entering me... Unbelievable...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5306
+translate chinese Audrey_12_shemale_eee686cf_4:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5307
+translate chinese Audrey_12_shemale_38ef3825:
+
+    # ch_Name "Ah... Yes, that's it!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5308
+translate chinese Audrey_12_shemale_39c8211e:
+
+    # ch_Name "That feels so good!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5309
+translate chinese Audrey_12_shemale_89b9d75c:
+
+    # Audrey "Me too, baby!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5311
+translate chinese Audrey_12_shemale_0dc3c7b3_1:
+
+    # ch_Name "Oh... ah..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5312
+translate chinese Audrey_12_shemale_a723dfe8_1:
+
+    # Audrey "Ahh..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5313
+translate chinese Audrey_12_shemale_84c0255f:
+
+    # Audrey "It's incredible, your anus is so tight!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5314
+translate chinese Audrey_12_shemale_2ef49b28:
+
+    # ch_Name "I told you it was my first time..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5316
+translate chinese Audrey_12_shemale_bb231118:
+
+    # Audrey "Should I be gentle?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5317
+translate chinese Audrey_12_shemale_4de54647:
+
+    # ch_Name "No! Go on..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5318
+translate chinese Audrey_12_shemale_0fe14052:
+
+    # Audrey "Alright!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5319
+translate chinese Audrey_12_shemale_152b4e5d:
+
+    # ch_Name "Ah, yes, oh, yes!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5321
+translate chinese Audrey_12_shemale_692affce:
+
+    # Audrey "Yeah... Oh..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5322
+translate chinese Audrey_12_shemale_a630d1a3:
+
+    # Audrey "I'm going to cum soon!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5323
+translate chinese Audrey_12_shemale_48b9a72d:
+
+    # ch_Name "Ah... AH!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5325
+translate chinese Audrey_12_shemale_c7f3842a:
+
+    # ch_Name "Me too!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5326
+translate chinese Audrey_12_shemale_e109656a:
+
+    # Audrey "Great, let's do it together!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5327
+translate chinese Audrey_12_shemale_48b9a72d_1:
+
+    # ch_Name "Ah... AH!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5329
+translate chinese Audrey_12_shemale_38ef3825_1:
+
+    # ch_Name "Ah... Yes, that's it!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5330
+translate chinese Audrey_12_shemale_72033373:
+
+    # Audrey "Oh yes... Here I go!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5332
+translate chinese Audrey_12_shemale_20c41f4c:
+
+    # Audrey "YES! FUCK!" with flash
+    Audrey "" with flash
+
+# game/logic/events/audrey.rpy:5333
+translate chinese Audrey_12_shemale_354a2f62:
+
+    # Audrey "It feels so good! Oh shit..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5335
+translate chinese Audrey_12_shemale_5e1e2d13:
+
+    # ch_Name "Ah, yes, oh, yes!" with flash
+    ch_Name "" with flash
+
+# game/logic/events/audrey.rpy:5336
+translate chinese Audrey_12_shemale_70c8ba06:
+
+    # ch_Name "Wow... I never thought I could cum like this."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5337
+translate chinese Audrey_12_shemale_55a3e910:
+
+    # ch_Name "That was awesome!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5339
+translate chinese Audrey_12_shemale_66600f66:
+
+    # Audrey "I have to say, that was a great idea."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5340
+translate chinese Audrey_12_shemale_ac736d95:
+
+    # Audrey "I've never experienced that with anyone..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5341
+translate chinese Audrey_12_shemale_783a66d6:
+
+    # ch_Name "Neither have I."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5342
+translate chinese Audrey_12_shemale_63f5f577:
+
+    # Audrey "Thank you for tonight, [Name]."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5344
+translate chinese Audrey_12_shemale_3a5c7650:
+
+    # ch_Name "Thank you."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5345
+translate chinese Audrey_12_shemale_9ee91d54:
+
+    # ch_Name "I never imagined that my body had so many possibilities."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5346
+translate chinese Audrey_12_shemale_95fb5dee:
+
+    # ch_Name "So many ways to get pleasure."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5347
+translate chinese Audrey_12_shemale_2afe07eb:
+
+    # Audrey "The possibilities for pleasure are endless."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5348
+translate chinese Audrey_12_shemale_17d9b7db:
+
+    # ch_Name "We should probably pack up and head back to the academy."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5357
+translate chinese Audrey_12_shemale_437cf317:
+
+    # ch_Name "I had a great time tonight, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5358
+translate chinese Audrey_12_shemale_4a7195ef:
+
+    # ch_Name "Thank you for trusting me."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5359
+translate chinese Audrey_12_shemale_9d12ecca:
+
+    # Audrey "You proved that it wasn't all for nothing."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5360
+translate chinese Audrey_12_shemale_c69bfafe:
+
+    # Audrey "I'm sorry I was rude to you."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5362
+translate chinese Audrey_12_shemale_2168492a:
+
+    # ch_Name "It's okay, it's no big deal."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5363
+translate chinese Audrey_12_shemale_42857a4f:
+
+    # ch_Name "Now I know who you really are."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5364
+translate chinese Audrey_12_shemale_0ed13c38:
+
+    # ch_Name "And I mean your soul, not your horns and wings."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5366
+translate chinese Audrey_12_shemale_90563c54:
+
+    # Audrey "[Name], I'll remind you just in case..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5367
+translate chinese Audrey_12_shemale_d132a57e:
+
+    # Audrey "No living soul can know about me."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5368
+translate chinese Audrey_12_shemale_27928042:
+
+    # Audrey "So drop all the horns and wings jokes, okay?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5370
+translate chinese Audrey_12_shemale_21f13639:
+
+    # ch_Name "You have my word."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5371
+translate chinese Audrey_12_shemale_c49fc413:
+
+    # ch_Name "No one will ever find out your secret from me."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5372
+translate chinese Audrey_12_shemale_64d87088:
+
+    # Audrey "Thank you. (chuckles)"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5373
+translate chinese Audrey_12_shemale_a5330969:
+
+    # Audrey "It was nice to be in your own skin for a change..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5375
+translate chinese Audrey_12_shemale_e969dc4f:
+
+    # ch_Name "It really suits you."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5376
+translate chinese Audrey_12_shemale_5f09da4e:
+
+    # ch_Name "I didn't realize succubi could be so beautiful..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5377
+translate chinese Audrey_12_shemale_5dc04459:
+
+    # Audrey "Stop it, you're flattering me..."
+    Audrey ""
+
+translate chinese strings:
+
+    # game/logic/events/audrey.rpy:29
+    old "7 Talk to Audrey"
+    new ""
+
+    # game/logic/events/audrey.rpy:4014
+    old "I can't have sex with that thing"
+    new ""
+
+    # game/logic/events/audrey.rpy:4014
+    old "Can you turn back into human?"
+    new ""
+
+    # game/logic/events/audrey.rpy:4014
+    old "I want you!"
+    new ""
+
+    # game/logic/events/audrey.rpy:4076
+    old "I won't fuck that thing"
+    new ""
+
+    # game/logic/events/audrey.rpy:4076
+    old "I want her like that"
+    new ""
+
+    # game/logic/events/audrey.rpy:4402
+    old "Anal sex"
+    new ""
+
+    # game/logic/events/audrey.rpy:4402
+    old "Cum on her ass"
+    new ""
+
+    # game/logic/events/audrey.rpy:4588
+    old "Come closer"
+    new ""
+
+    # game/logic/events/audrey.rpy:5076
+    old "Suck her dick"
+    new ""
+
+    # game/logic/events/audrey.rpy:5219
+    old "Fuck me in the ass"
+    new ""
+

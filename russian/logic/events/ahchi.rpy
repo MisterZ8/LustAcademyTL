@@ -3602,3 +3602,275 @@ translate russian strings:
     old "5 Talk to Sam and Audrey"
     new "5 Поговорить с Сэм и Одри"
 
+# TODO: Translation updated at 2022-03-03 03:57
+
+# game/logic/events/ahchi.rpy:324
+translate russian CF_S2_label_e19d63b6:
+
+    # ch_Name "{i}(Lily is a sci-fi fan. I never would have thought...){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:325
+translate russian CF_S2_label_7af8f647:
+
+    # ch_Name "{i}(Okay, that was nice, but I never got my coffee.){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:326
+translate russian CF_S2_label_8a92ff38:
+
+    # ch_Name "{i}(Time to hit the coffee shop.){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:335
+translate russian CF_S2_label_d1180da5:
+
+    # ch_Name "{i}(This place seems to be more popular with students than I thought.){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:336
+translate russian CF_S2_label_5d465962:
+
+    # ch_Name "{i}(You can't walk a step without seeing familiar faces.){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:337
+translate russian CF_S2_label_d31de49f:
+
+    # ch_Name "{i}(Samantha and Audrey are inseparable even on weekends.){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:339
+translate russian CF_S2_label_ac1a89bd:
+
+    # ch_Name "{i}(I think it's worth adding my presence to their company.){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:340
+translate russian CF_S2_label_4f7e3d5b:
+
+    # ch_Name "Hi, girls!"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:445
+translate russian CF_S2_label_1285adc7:
+
+    # Samantha "Guys, finish your coffee quickly."
+    Samantha ""
+
+# game/logic/events/ahchi.rpy:446
+translate russian CF_S2_label_0918f325:
+
+    # Audrey "Why? Are we in a hurry?"
+    Audrey ""
+
+# game/logic/events/ahchi.rpy:447
+translate russian CF_S2_label_68b53f0f:
+
+    # ch_Name "I'm almost done. Why?"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:449
+translate russian CF_S2_label_0aab4d7a:
+
+    # Samantha "The ship will be here soon. I don't want to be late."
+    Samantha ""
+
+# game/logic/events/ahchi.rpy:450
+translate russian CF_S2_label_cf86d6e9:
+
+    # Samantha "You know how Jacob's gonna be if we delay the ferry."
+    Samantha ""
+
+# game/logic/events/ahchi.rpy:451
+translate russian CF_S2_label_1f0ec4ca:
+
+    # Audrey "Ah-ha-ha. Right. I can't take another lecture on responsibility."
+    Audrey ""
+
+# game/logic/events/ahchi.rpy:452
+translate russian CF_S2_label_73185c20:
+
+    # ch_Name "Shall we go, then?"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:454
+translate russian CF_S2_label_0b58d88e:
+
+    # Samantha "Thank you, Ahchi! That was great."
+    Samantha ""
+
+# game/logic/events/ahchi.rpy:455
+translate russian CF_S2_label_0e3f16ca:
+
+    # Ahchi "Glad to try! Come back again!"
+    Ahchi ""
+
+# game/logic/events/ahchi.rpy:456
+translate russian CF_S2_label_02ab96ef:
+
+    # ch_Name "We will, if we win the house competition."
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:457
+translate russian CF_S2_label_ed850162:
+
+    # Audrey "It's worth the effort for this coffee."
+    Audrey ""
+
+# game/logic/events/ahchi.rpy:459
+translate russian CF_S2_label_51363553:
+
+    # Samantha "Too bad we have so little time here."
+    Samantha ""
+
+# game/logic/events/ahchi.rpy:460
+translate russian CF_S2_label_774347ec:
+
+    # Samantha "And why doesn't the ferry run every day?"
+    Samantha ""
+
+# game/logic/events/ahchi.rpy:461
+translate russian CF_S2_label_82503a3b:
+
+    # Audrey "Yeah, I'd give anything for a ride here after school."
+    Audrey ""
+
+# game/logic/events/ahchi.rpy:462
+translate russian CF_S2_label_34393449:
+
+    # ch_Name "We should pitch that idea to Arthur."
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:469
+translate russian CF_S2_label_ec9215f3:
+
+    # Samantha "Come on, guys, let's hurry up."
+    Samantha ""
+
+# game/logic/events/ahchi.rpy:470
+translate russian CF_S2_label_8aa064bd:
+
+    # Samantha "You know the schedule says the ferry only lasts 15 minutes."
+    Samantha ""
+
+# game/logic/events/ahchi.rpy:471
+translate russian CF_S2_label_3e04a9fa:
+
+    # Audrey "Yeah, yeah, let's go!"
+    Audrey ""
+
+# game/logic/events/ahchi.rpy:478
+translate russian CF_S3_label_aa871a0d:
+
+    # ch_Name "{i}(I wish all baristas were like Ahchi.){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:479
+translate russian CF_S3_label_79d2e2fa:
+
+    # ch_Name "{i}(I haven't had coffee this good in a long time.){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:482
+translate russian CF_S3_label_63ca837e:
+
+    # ch_Name "{i}(Hey, it's Samantha and Audrey!){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:483
+translate russian CF_S3_label_b0774a22:
+
+    # ch_Name "{i}(I guess I'm not the only one who appreciates good coffee.){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:484
+translate russian CF_S3_label_9a457d4a:
+
+    # ch_Name "{i}(I think I'll keep them company.){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:489
+translate russian CF_S3_label_893ec62c:
+
+    # ch_Name "Hey there, girls!"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:591
+translate russian CF_S3_label_4190a827:
+
+    # ch_Name "{i}(No, it's better not to bother her too much.){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:592
+translate russian CF_S3_label_fd77ad50:
+
+    # ch_Name "{i}(Oh, it's so late already? I've spent too much time with the girls. I'm going for a walk.){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:594
+translate russian CF_S3_label_c7d85ac0:
+
+    # ch_Name "{i}(It's beautiful here.){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:595
+translate russian CF_S3_label_15b55d56:
+
+    # ch_Name "{i}(But I know a place that's even better.){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:596
+translate russian CF_S3_label_281dc17f:
+
+    # ch_Name "{i}(It's time to go to the club!){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:603
+translate russian CF_S3_label_563385db:
+
+    # Romul "Stop! There's a fee to get into the club, buddy."
+    Romul ""
+
+# game/logic/events/ahchi.rpy:604
+translate russian CF_S3_label_c87a1f3c:
+
+    # ch_Name "What? You must be kidding me, big boy."
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:605
+translate russian CF_S3_label_924ba140:
+
+    # Romul "Who are you calling a big boy? Are you looking for a fight?"
+    Romul ""
+
+# game/logic/events/ahchi.rpy:606
+translate russian CF_S3_label_1ed77277:
+
+    # ch_Name "Nah. Look, here's my VIP pass. Any more questions?"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:608
+translate russian CF_S3_label_4da1e0ad:
+
+    # Romul "Hmm... It's really a VIP pass."
+    Romul ""
+
+# game/logic/events/ahchi.rpy:609
+translate russian CF_S3_label_e6cf0f73:
+
+    # ch_Name "So can I go in?"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:611
+translate russian CF_S3_label_a5fcfca5:
+
+    # Romul "Go ahead, of course. Sorry, I didn't recognize you right away."
+    Romul ""
+
+# game/logic/events/ahchi.rpy:612
+translate russian CF_S3_label_502169ac:
+
+    # ch_Name "That's what I thought."
+    ch_Name ""
+

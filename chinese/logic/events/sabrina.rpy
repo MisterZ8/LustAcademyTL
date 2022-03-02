@@ -2816,3 +2816,11 @@ translate chinese strings:
     old "Work with someone else"
     new "与他人合作"
 
+# TODO: Translation updated at 2022-03-03 04:01
+
+translate chinese strings:
+
+    # game/logic/events/sabrina.rpy:9
+    old "Potion for Audrey"
+    new ""
+

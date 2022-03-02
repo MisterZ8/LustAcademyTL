@@ -360,3 +360,467 @@ translate chinese strings:
     old "Bed for freshman"
     new "新生的床"
 
+# TODO: Translation updated at 2022-03-03 04:01
+
+# game/logic/events/mina.rpy:160
+translate chinese Mina_2_label_8a798297:
+
+    # ch_Name "Mina, I have to request another room."
+    ch_Name ""
+
+# game/logic/events/mina.rpy:161
+translate chinese Mina_2_label_3b496535:
+
+    # Mina "Oh. Did something happen to your room?"
+    Mina ""
+
+# game/logic/events/mina.rpy:162
+translate chinese Mina_2_label_adad4cdb:
+
+    # ch_Name "No, but it's just terrible conditions. It's impossible to live in."
+    ch_Name ""
+
+# game/logic/events/mina.rpy:163
+translate chinese Mina_2_label_ebbb7d46:
+
+    # Mina "Is it really that bad?"
+    Mina ""
+
+# game/logic/events/mina.rpy:165
+translate chinese Mina_2_label_d683af63:
+
+    # Mina "Come on, show me what you don't like."
+    Mina ""
+
+# game/logic/events/mina.rpy:166
+translate chinese Mina_2_label_529602bf:
+
+    # Mina "And I'll try to fix it somehow."
+    Mina ""
+
+# game/logic/events/mina.rpy:167
+translate chinese Mina_2_label_f364a988:
+
+    # ch_Name "Like giving me the keys to the room?"
+    ch_Name ""
+
+# game/logic/events/mina.rpy:169
+translate chinese Mina_2_label_0502c370:
+
+    # Mina "We'll see."
+    Mina ""
+
+# game/logic/events/mina.rpy:170
+translate chinese Mina_2_label_d4f81725:
+
+    # Mina "First, let's figure out what's wrong with this room."
+    Mina ""
+
+# game/logic/events/mina.rpy:171
+translate chinese Mina_2_label_4191da08:
+
+    # ch_Name "I don't even know where to start..."
+    ch_Name ""
+
+# game/logic/events/mina.rpy:172
+translate chinese Mina_2_label_f362fb10:
+
+    # Mina "We'll discuss it there, on the merits."
+    Mina ""
+
+# game/logic/events/mina.rpy:174
+translate chinese Mina_2_label_e544ec4a:
+
+    # ch_Name "{i}(If she thinks she can change my mind...){/i}"
+    ch_Name ""
+
+# game/logic/events/mina.rpy:175
+translate chinese Mina_2_label_741bcc71:
+
+    # ch_Name "{i}(She's dead wrong.){/i}"
+    ch_Name ""
+
+# game/logic/events/mina.rpy:176
+translate chinese Mina_2_label_6191505a:
+
+    # ch_Name "{i}(Hmm, I hadn't noticed before how pretty Mina's figure is.){/i}"
+    ch_Name ""
+
+# game/logic/events/mina.rpy:178
+translate chinese Mina_2_label_074132ca:
+
+    # ch_Name "{i}(I wonder if she has a boyfriend.){/i}"
+    ch_Name ""
+
+# game/logic/events/mina.rpy:179
+translate chinese Mina_2_label_7a1586dd:
+
+    # ch_Name "{i}(Maybe I should ask her out for coffee at Ahchi's sometimes.){/i}"
+    ch_Name ""
+
+# game/logic/events/mina.rpy:180
+translate chinese Mina_2_label_3f4b1010:
+
+    # ch_Name "{i}(If she's not too offended by my request.){/i}"
+    ch_Name ""
+
+# game/logic/events/mina.rpy:187
+translate chinese Mina_2_label_773fbd81:
+
+    # Mina "Well, here we are. At first glance, everything seems fine."
+    Mina ""
+
+# game/logic/events/mina.rpy:188
+translate chinese Mina_2_label_a52c7425:
+
+    # Mina "Can you give me an example of precisely what you don't like about this place?"
+    Mina ""
+
+# game/logic/events/mina.rpy:189
+translate chinese Mina_2_label_51c29650:
+
+    # ch_Name "Oh, where to start..."
+    ch_Name ""
+
+# game/logic/events/mina.rpy:191
+translate chinese Mina_2_label_37d6624d:
+
+    # ch_Name "The couch seats are so squished that the springs are digging into my butt."
+    ch_Name ""
+
+# game/logic/events/mina.rpy:192
+translate chinese Mina_2_label_b446d014:
+
+    # ch_Name "And the coffee table is wobbly."
+    ch_Name ""
+
+# game/logic/events/mina.rpy:193
+translate chinese Mina_2_label_eb97b92b:
+
+    # Mina "I think it would be easier for me to replace the sofa cushions, we have spare ones."
+    Mina ""
+
+# game/logic/events/mina.rpy:194
+translate chinese Mina_2_label_f1ea684b:
+
+    # Mina "And you could put a little book under the table."
+    Mina ""
+
+# game/logic/events/mina.rpy:196
+translate chinese Mina_2_label_0fc94b84:
+
+    # ch_Name "Oh, the hell with it, all right. But the desk, it's horrible..."
+    ch_Name ""
+
+# game/logic/events/mina.rpy:197
+translate chinese Mina_2_label_341c2f52:
+
+    # ch_Name "I could have sworn I could have rubbed a splinter on it!"
+    ch_Name ""
+
+# game/logic/events/mina.rpy:198
+translate chinese Mina_2_label_7c4f1349:
+
+    # Mina "I guess, but why would you rub it? That's not what it's for."
+    Mina ""
+
+# game/logic/events/mina.rpy:199
+translate chinese Mina_2_label_82b4bd05:
+
+    # Mina "This table's an antique."
+    Mina ""
+
+# game/logic/events/mina.rpy:200
+translate chinese Mina_2_label_b50fa2ed:
+
+    # Mina "Miss Lapis used to write her cheat sheets on it when she was a student."
+    Mina ""
+
+# game/logic/events/mina.rpy:201
+translate chinese Mina_2_label_ebd9c261:
+
+    # ch_Name "Victoria stayed here when she was a student? I didn't know."
+    ch_Name ""
+
+# game/logic/events/mina.rpy:202
+translate chinese Mina_2_label_ae69b697:
+
+    # ch_Name "Well, okay, you can live with the desk, but..."
+    ch_Name ""
+
+# game/logic/events/mina.rpy:204
+translate chinese Mina_2_label_1a0c424d:
+
+    # ch_Name "Bathroom and toilet."
+    ch_Name ""
+
+# game/logic/events/mina.rpy:205
+translate chinese Mina_2_label_1357483e:
+
+    # ch_Name "Look at them. There's mold..."
+    ch_Name ""
+
+# game/logic/events/mina.rpy:206
+translate chinese Mina_2_label_af0f8c3f:
+
+    # ch_Name "And leaking faucets."
+    ch_Name ""
+
+# game/logic/events/mina.rpy:207
+translate chinese Mina_2_label_2d01a68c:
+
+    # Mina "You name it, it's moldy. The paint just peeled off."
+    Mina ""
+
+# game/logic/events/mina.rpy:208
+translate chinese Mina_2_label_c28abce7:
+
+    # Mina "I'll send a plumber to tighten the taps and the problem will be solved."
+    Mina ""
+
+# game/logic/events/mina.rpy:209
+translate chinese Mina_2_label_ec2a539f:
+
+    # ch_Name "You haven't heard the main problem yet. Let's go."
+    ch_Name ""
+
+# game/logic/events/mina.rpy:216
+translate chinese Mina_2_label_c9ca56d9:
+
+    # ch_Name "This mattress is terrible. It's stiff and saggy."
+    ch_Name ""
+
+# game/logic/events/mina.rpy:217
+translate chinese Mina_2_label_7ac6e8cb:
+
+    # ch_Name "You can't sleep in here!"
+    ch_Name ""
+
+# game/logic/events/mina.rpy:219
+translate chinese Mina_2_label_17d1efd4:
+
+    # Mina "It's strange, there was a girl who stayed here before you."
+    Mina ""
+
+# game/logic/events/mina.rpy:220
+translate chinese Mina_2_label_e290d893:
+
+    # Mina "She looked as fragile and delicate as a spike."
+    Mina ""
+
+# game/logic/events/mina.rpy:221
+translate chinese Mina_2_label_03221492:
+
+    # ch_Name "So?"
+    ch_Name ""
+
+# game/logic/events/mina.rpy:223
+translate chinese Mina_2_label_6371340e:
+
+    # Mina "Neither she nor I thought the mattress was hard."
+    Mina ""
+
+# game/logic/events/mina.rpy:224
+translate chinese Mina_2_label_a1bdcaad:
+
+    # ch_Name "{i}(By \"Neither she nor I\" she means...){/i}"
+    ch_Name ""
+
+# game/logic/events/mina.rpy:225
+translate chinese Mina_2_label_7893df0d:
+
+    # ch_Name "{i}(That they were lying here together? What the... Maybe I got it wrong?){/i}"
+    ch_Name ""
+
+# game/logic/events/mina.rpy:227
+translate chinese Mina_2_label_0d67e0cd:
+
+    # ch_Name "{i}(I can't outright ask if they fucked on.){/i}"
+    ch_Name ""
+
+# game/logic/events/mina.rpy:228
+translate chinese Mina_2_label_a32fcb1b:
+
+    # ch_Name "Maybe not for a girl, but I think the bed is too flimsy."
+    ch_Name ""
+
+# game/logic/events/mina.rpy:229
+translate chinese Mina_2_label_0e7c36c9:
+
+    # ch_Name "I'm not sure it can handle any kind of activity."
+    ch_Name ""
+
+# game/logic/events/mina.rpy:231
+translate chinese Mina_2_label_94746600:
+
+    # Mina "Activity?"
+    Mina ""
+
+# game/logic/events/mina.rpy:232
+translate chinese Mina_2_label_18181f96:
+
+    # Mina "Could you be more specific? What kind of activities do you mean?"
+    Mina ""
+
+# game/logic/events/mina.rpy:234
+translate chinese Mina_2_label_743604b7:
+
+    # ch_Name "Oh, well..."
+    ch_Name ""
+
+# game/logic/events/mina.rpy:235
+translate chinese Mina_2_label_4259d756:
+
+    # ch_Name "All kinds."
+    ch_Name ""
+
+# game/logic/events/mina.rpy:237
+translate chinese Mina_2_label_550a4da2:
+
+    # ch_Name "{i}(Whoa! What is she doing? Why is she leaning so close?){/i}"
+    ch_Name ""
+
+# game/logic/events/mina.rpy:238
+translate chinese Mina_2_label_3e273ffb:
+
+    # Mina "I can assure you that this bed is much sturdier than it looks."
+    Mina ""
+
+# game/logic/events/mina.rpy:239
+translate chinese Mina_2_label_7985b9d6:
+
+    # Mina "I can't change your room without documenting your dissatisfaction with this one."
+    Mina ""
+
+# game/logic/events/mina.rpy:240
+translate chinese Mina_2_label_1c55ea1f:
+
+    # Mina "And if my boss finds out that clients are happy, I won't get the promotion."
+    Mina ""
+
+# game/logic/events/mina.rpy:241
+translate chinese Mina_2_label_6741be37:
+
+    # ch_Name "{i}(So that's why she's defending this room so fiercely... Oh, my...){/i}"
+    ch_Name ""
+
+# game/logic/events/mina.rpy:242
+translate chinese Mina_2_label_0ea6b5ba:
+
+    # ch_Name "I get it, but what about my comfort?"
+    ch_Name ""
+
+# game/logic/events/mina.rpy:244
+translate chinese Mina_2_label_96bf4ebd:
+
+    # Mina "I was just getting to that part."
+    Mina ""
+
+# game/logic/events/mina.rpy:245
+translate chinese Mina_2_label_2b785166:
+
+    # Mina "Let me prove to my boss that I'm a good hostess."
+    Mina ""
+
+# game/logic/events/mina.rpy:246
+translate chinese Mina_2_label_24c3a1e1:
+
+    # Mina "It's my duty as a good hostess to help you get happy and comfortable."
+    Mina ""
+
+# game/logic/events/mina.rpy:247
+translate chinese Mina_2_label_3a5d5f46:
+
+    # Mina "In particular, if we ignore the other inconveniences of the room."
+    Mina ""
+
+# game/logic/events/mina.rpy:248
+translate chinese Mina_2_label_376b16dc:
+
+    # Mina "And let's not go back to the question of changing rooms."
+    Mina ""
+
+# game/logic/events/mina.rpy:249
+translate chinese Mina_2_label_3d634061:
+
+    # ch_Name "Oh, well... That's a tempting offer. I'll have to think about it."
+    ch_Name ""
+
+# game/logic/events/mina.rpy:251
+translate chinese Mina_2_label_e2092451:
+
+    # Mina "Good! Let me know when you make up your mind."
+    Mina ""
+
+# game/logic/events/mina.rpy:252
+translate chinese Mina_2_label_82a402c0:
+
+    # Mina "Until then, enjoy your stay at the Daly-ly Apartments!"
+    Mina ""
+
+# game/logic/events/mina.rpy:253
+translate chinese Mina_2_label_83040533:
+
+    # Mina "I'll be at the front desk if you need anything."
+    Mina ""
+
+# game/logic/events/mina.rpy:254
+translate chinese Mina_2_label_c56c66f8:
+
+    # ch_Name "Okay. Thank you."
+    ch_Name ""
+
+# game/logic/events/mina.rpy:256
+translate chinese Mina_2_label_331373d2:
+
+    # ch_Name "{i}(What the hell...){/i}"
+    ch_Name ""
+
+# game/logic/events/mina.rpy:257
+translate chinese Mina_2_label_96cc7614:
+
+    # ch_Name "{i}(Was it just me, or did she just hint at sex?){/i}"
+    ch_Name ""
+
+# game/logic/events/mina.rpy:258
+translate chinese Mina_2_label_803e9d75:
+
+    # ch_Name "{i}(Seems like this room may work fine for me after all.){/i}"
+    ch_Name ""
+
+# game/logic/events/mina.rpy:267
+translate chinese Mina_2_label_b82520d8:
+
+    # ch_Name "{i}(As good as it sounds - I can't spend all the weekend just lying here.){/i}"
+    ch_Name ""
+
+# game/logic/events/mina.rpy:268
+translate chinese Mina_2_label_d50bf229:
+
+    # ch_Name "{i}(First of all - I need to get ingredients for the ritual.){/i}"
+    ch_Name ""
+
+# game/logic/events/mina.rpy:269
+translate chinese Mina_2_label_43505be9:
+
+    # ch_Name "{i}(After all, I've promised Haley that I would take care of it.){/i}"
+    ch_Name ""
+
+# game/logic/events/mina.rpy:270
+translate chinese Mina_2_label_bec2a0ee:
+
+    # ch_Name "{i}(Good thing I know one fairy who can get everything I need.){/i}"
+    ch_Name ""
+
+# game/logic/events/mina.rpy:271
+translate chinese Mina_2_label_82e923cd:
+
+    # ch_Name "{i}(It's time to visit Gordon's shop.){/i}"
+    ch_Name ""
+
+translate chinese strings:
+
+    # game/logic/events/mina.rpy:130
+    old "Request another room"
+    new ""
+

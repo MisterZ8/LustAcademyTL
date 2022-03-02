@@ -1142,3 +1142,15 @@ translate chinese strings:
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "将errors.txt文件复制到剪贴板作为Discord的Markdown。"
 
+# TODO: Translation updated at 2022-03-03 04:01
+
+translate chinese strings:
+
+    # renpy/common/00accessibility.rpy:180
+    old "High Contrast Text"
+    new ""
+
+    # renpy/common/00preferences.rpy:493
+    old "high contrast text"
+    new ""
+

@@ -4536,3 +4536,11 @@ translate chinese strings:
     old "Look in mirror"
     new "照照镜子"
 
+# TODO: Translation updated at 2022-03-03 04:01
+
+# game/logic/events/victoria.rpy:272
+translate chinese Samantha_4_label_c31086c4:
+
+    # ch_Name "One of our house's students has torn magical ligaments."
+    ch_Name ""
+

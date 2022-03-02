@@ -2742,3 +2742,665 @@ translate russian strings:
     old "Stop it"
     new "Остановить это"
 
+# TODO: Translation updated at 2022-03-03 03:57
+
+# game/logic/events/amelie.rpy:494
+translate russian Amelie_3_label_01fb8671:
+
+    # ch_Name "Amelie! How are you doing?"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:496
+translate russian Amelie_3_label_ced9f87a:
+
+    # Amelie "It could be better. I'm a little bit sleep-deprived."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:497
+translate russian Amelie_3_label_6dc332a9:
+
+    # ch_Name "Well, it's hard to say. You're looking so fresh!"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:499
+translate russian Amelie_3_label_438c809a:
+
+    # Amelie "Oh, thanks!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:500
+translate russian Amelie_3_label_1da5e150:
+
+    # Amelie "It's really nice to see you. You barely come here to the library lately."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:503
+translate russian Amelie_3_label_423d4627:
+
+    # ch_Name "Um, kind of."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:504
+translate russian Amelie_3_label_6f105fce:
+
+    # ch_Name "But that's not a reason to leave your fantastic world of books and magic. It's too appealing, he-he."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:505
+translate russian Amelie_3_label_134767ea:
+
+    # Amelie "That makes me optimistic."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:507
+translate russian Amelie_3_label_c1897fc3:
+
+    # Amelie "Actually, you missed a lot. It's been a difficult few days."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:509
+translate russian Amelie_3_label_a5b7fae7:
+
+    # Amelie "The pixies lost their minds completely!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:513
+translate russian Amelie_3_label_b739e5ac:
+
+    # Amelie "They've started to steal other things!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:514
+translate russian Amelie_3_label_8ca27646:
+
+    # Amelie "The last one was my purse."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:515
+translate russian Amelie_3_label_f225cb89:
+
+    # Amelie "I still can't find it, can you imagine?"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:516
+translate russian Amelie_3_label_d861727f:
+
+    # ch_Name "Are you sure it was pixies?"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:518
+translate russian Amelie_3_label_b293244a:
+
+    # Amelie "Yes, pixies. Or elves... They live and work together in our Academy's forest."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:519
+translate russian Amelie_3_label_779980d7:
+
+    # Amelie "They have kinda symbiotic relationship."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:520
+translate russian Amelie_3_label_75138360:
+
+    # ch_Name "I think we should do something with the scoundrels."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:521
+translate russian Amelie_3_label_26c4294e:
+
+    # ch_Name "But let's try to find the purse first. Where did you see it last time before it was stolen?"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:524
+translate russian Amelie_3_label_c77d71c5:
+
+    # ch_Name "Hmm, let me think."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:526
+translate russian Amelie_3_label_31e3e888:
+
+    # ch_Name "Shh! Do you hear that?"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:528
+translate russian Amelie_3_label_8c0a1000:
+
+    # Amelie "Hear what?"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:536
+translate russian Amelie_3_label_1378f435:
+
+    # ch_Name "{i}(And this booty!){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:537
+translate russian Amelie_3_label_d9b05244:
+
+    # ch_Name "{i}(Breathtaking!){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:539
+translate russian Amelie_3_label_bd39e135:
+
+    # ch_Name "No, I definitely heard something... It sounds like it's coming from right over here. "
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:540
+translate russian Amelie_3_label_8598f65e:
+
+    # Amelie "You seem to have good hearing, [Name]. "
+    Amelie ""
+
+# game/logic/events/amelie.rpy:541
+translate russian Amelie_3_label_b7fece4c:
+
+    # ch_Name "I..."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:546
+translate russian Amelie_3_label_5fc7e775:
+
+    # ch_Name "I hope you've heard that at least."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:547
+translate russian Amelie_3_label_57792d40:
+
+    # Amelie "Oh, my... Yes!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:548
+translate russian Amelie_3_label_e3757910:
+
+    # ch_Name "We're on the right track."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:550
+translate russian Amelie_3_label_422f6650:
+
+    # ch_Name "Something is going on behind these shelves."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:551
+translate russian Amelie_3_label_789c28fc:
+
+    # ch_Name "By the way, are pixies dangerous for us?"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:552
+translate russian Amelie_3_label_6fba8bf4:
+
+    # Amelie "It's hard to say."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:553
+translate russian Amelie_3_label_6a10e97d:
+
+    # Amelie "I want you to be ready for anything, just in case."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:555
+translate russian Amelie_3_label_5f0f0848:
+
+    # Amelie "But I believe that we'll be okay."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:556
+translate russian Amelie_3_label_a1becfc5:
+
+    # Amelie "Don't forget about the purse! We need to get it back."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:557
+translate russian Amelie_3_label_ad0fe220:
+
+    # ch_Name "No-no, that's not the most important thing."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:558
+translate russian Amelie_3_label_74180c62:
+
+    # ch_Name "We need to teach these thieves a lesson."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:560
+translate russian Amelie_3_label_8377723d:
+
+    # ch_Name "They need a little lesson, don't they?"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:561
+translate russian Amelie_3_label_4264b5ea:
+
+    # ch_Name "Full ahead, Amelie!"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:570
+translate russian Amelie_3_label_c8cfceed:
+
+    # ch_Name "No, wait!"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:572
+translate russian Amelie_3_label_903ee691:
+
+    # Amelie "It's time to stop, guys. We need to talk."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:573
+translate russian Amelie_3_label_6ec0a41e:
+
+    # Amelie "Guys...?"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:574
+translate russian Amelie_3_label_6d9d85aa:
+
+    # ch_Name "No offense, but I think it's completely useless. They won't listen to you."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:579
+translate russian Amelie_3_label_57fc024f:
+
+    # ch_Name "Here's your pursue, at least."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:580
+translate russian Amelie_3_label_84f6c743:
+
+    # ch_Name "Is something missing?"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:583
+translate russian Amelie_3_label_e36b0f2e:
+
+    # ch_Name "{i}(I mean, it's...){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:597
+translate russian Amelie_3_label_ef5bc296:
+
+    # ch_Name "It looks like a vibraror."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:606
+translate russian Amelie_3_label_4cdd06f7:
+
+    # ch_Name "Wow, that's really cool!"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:607
+translate russian Amelie_3_label_52e17347:
+
+    # ch_Name "You look like a woman who likes experiments."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:609
+translate russian Amelie_3_label_72a1eba5:
+
+    # ch_Name "And here we do have proof."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:616
+translate russian Amelie_3_label_7ff9817e:
+
+    # Amelie "Give it to me, please."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:617
+translate russian Amelie_3_label_c6810245:
+
+    # ch_Name "Yes, sure."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:619
+translate russian Amelie_3_label_8af4e554:
+
+    # ch_Name "Is there anything missing?"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:620
+translate russian Amelie_3_label_84bb2fd4:
+
+    # Amelie "I don't think so. Or..."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:623
+translate russian Amelie_3_label_0ddbee09:
+
+    # Amelie "Oh, no! The potion?"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:628
+translate russian Amelie_3_label_802c4fe7:
+
+    # Amelie "We practiced it with Miss Spellman... Just for fun."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:631
+translate russian Amelie_3_label_dcf36819:
+
+    # Amelie "I'm telling you, it's not here. Pixies stole it!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:632
+translate russian Amelie_3_label_45db865e:
+
+    # Amelie "[Name], we have to get it back by all possible means!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:636
+translate russian Amelie_3_label_65897747:
+
+    # Amelie "In the Elves lair. It's somewhere in the forest."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:640
+translate russian Amelie_3_label_7b7ba9ca:
+
+    # Amelie "There is a special spell, but I can't remember it, to tell the truth. "
+    Amelie ""
+
+# game/logic/events/amelie.rpy:641
+translate russian Amelie_3_label_28589e2d:
+
+    # Amelie "I need to check the books."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:643
+translate russian Amelie_3_label_db995889:
+
+    # ch_Name "Okay, let's keep in touch. "
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:645
+translate russian Amelie_3_label_ab8493c0:
+
+    # Amelie "We don't have much time, actually. I should hurry."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:646
+translate russian Amelie_3_label_1f580a49:
+
+    # Amelie "Oh, my hands are shaking... I'm so nervous!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:649
+translate russian Amelie_3_label_b92607ad:
+
+    # ch_Name "Just text or call me if anything comes up."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:678
+translate russian Amelie_4_label_df46dda7:
+
+    # ch_Name "{i}(What time is it?){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:679
+translate russian Amelie_4_label_53509c19:
+
+    # ch_Name "Good morning, Amelie. Has something happened?"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:682
+translate russian Amelie_4_label_51d3ac6c:
+
+    # Amelie "And the faster we go there and get the potion is the better."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:683
+translate russian Amelie_4_label_8d700faf:
+
+    # ch_Name "I'm coming, Amelie."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:695
+translate russian Amelie_4_label_025580a6:
+
+    # Amelie "I'm so glad that you're here with me, [Name]!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:696
+translate russian Amelie_4_label_4083d767:
+
+    # Amelie "Let's get on with it."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:703
+translate russian Amelie_4_label_6c3b8e81:
+
+    # Amelie "But since an average elf or pixy is much smaller than a human..."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:704
+translate russian Amelie_4_label_1f5dd3ac:
+
+    # Amelie "...even one drop can be lethal for them in the best of cases..."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:707
+translate russian Amelie_4_label_b940560d:
+
+    # Amelie "In the worst case... I don't even want to picture that."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:708
+translate russian Amelie_4_label_d2cae793:
+
+    # ch_Name "Ugh... Let's hurry up!"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:717
+translate russian Amelie_4_label_d85bd9ab:
+
+    # ch_Name "Yep, with miss Spellman."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:724
+translate russian Amelie_4_label_41172288:
+
+    # ch_Name "Сertainly, Amelie, don't worry about that."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:727
+translate russian Amelie_4_label_be89e9fa:
+
+    # Amelie "No-no, not really."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:728
+translate russian Amelie_4_label_83a0e003:
+
+    # Amelie "We are close."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:739
+translate russian Amelie_4_label_b18b47b4:
+
+    # ch_Name "Wow! It works!"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:740
+translate russian Amelie_4_label_fb6aa252:
+
+    # ch_Name "Looks really impressive!"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:744
+translate russian Amelie_4_label_06d43762:
+
+    # Amelie "We only need to negotiate with the pixies. And it would be wise not to anger them..."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:745
+translate russian Amelie_4_label_212342cd:
+
+    # Amelie "Let's hope for the best."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:748
+translate russian Amelie_4_label_97a74cb9:
+
+    # UnknownElf "You have no business here, magicians. This is our territory."
+    UnknownElf ""
+
+# game/logic/events/amelie.rpy:750
+translate russian Amelie_4_label_74612202:
+
+    # UnknownElf "To speak about what?"
+    UnknownElf ""
+
+# game/logic/events/amelie.rpy:752
+translate russian Amelie_4_label_c6524743:
+
+    # Amelie "Something was stolen from the Academy by pixies. "
+    Amelie ""
+
+# game/logic/events/amelie.rpy:754
+translate russian Amelie_4_label_48d41008:
+
+    # UnknownElf "Are you sure that those who stole it were pixies?"
+    UnknownElf ""
+
+# game/logic/events/amelie.rpy:756
+translate russian Amelie_4_label_e31c74d1:
+
+    # ch_Name "We saw it with our own eyes!"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:757
+translate russian Amelie_4_label_755289fc:
+
+    # UnknownElf "Um... Wait here."
+    UnknownElf ""
+
+# game/logic/events/amelie.rpy:760
+translate russian Amelie_4_label_ab12b9e5:
+
+    # UnknownElf3 "My name is Grang. What are you looking for, strangers?"
+    UnknownElf3 ""
+
+# game/logic/events/amelie.rpy:762
+translate russian Amelie_4_label_8bb0e6d1:
+
+    # Amelie "We just want to get it back."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:773
+translate russian Amelie_4_label_4c3fb4ad:
+
+    # Grang "How much would you pay for that?"
+    Grang ""
+
+# game/logic/events/amelie.rpy:782
+translate russian Amelie_4_label_6a9c3d85:
+
+    # Grang "It's yours, then. You're free to do whatever you want with it!"
+    Grang ""
+
+# game/logic/events/amelie.rpy:785
+translate russian Amelie_4_label_5bd2fc10:
+
+    # ch_Name "Amelie!" with vpunch
+    ch_Name "" with vpunch
+
+# game/logic/events/amelie.rpy:794
+translate russian Amelie_4_label_f30f3ebb:
+
+    # Grang "RIGHT NOW!"
+    Grang ""
+
+# game/logic/events/amelie.rpy:795
+translate russian Amelie_4_label_00dbb33b:
+
+    # ch_Name "I said everything. One more time and you'll have to deal with the Principal."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:809
+translate russian Amelie_4_label_bbed08c0:
+
+    # ch_Name "Yes, Amelie."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:816
+translate russian Amelie_4_label_cb7de0a5:
+
+    # Amelie "Shh!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:821
+translate russian Amelie_4_label_209d7342:
+
+    # Amelie "Oh, what a pleasure!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:822
+translate russian Amelie_4_label_7cebe310:
+
+    # Amelie "You can't even imagine how long I've been waiting for this moment!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:833
+translate russian Amelie_4_label_38076951:
+
+    # ch_Name "No-no-no, Amelie."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:834
+translate russian Amelie_4_label_1b9b27cf:
+
+    # ch_Name "It's not you, it's the potion!"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:841
+translate russian Amelie_4_label_15fb16d0:
+
+    # ch_Name "Shh!"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:861
+translate russian Amelie_4_label_9f92e69b:
+
+    # ch_Name "You were under the influence of mesmerizing potion."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:866
+translate russian Amelie_4_label_61f8b8c0:
+
+    # ch_Name "You need to rest, Amelie."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:869
+translate russian Amelie_4_label_ff443696:
+
+    # Amelie "Ohh, [Name], thank you! What would I do without you?"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:873
+translate russian Amelie_4_label_ed81b3d2:
+
+    # ch_Name "It's nothing, Amelie."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:877
+translate russian Amelie_4_label_b5f6ce7b:
+
+    # Amelie "Oh, I feel so weak in my head..."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:878
+translate russian Amelie_4_label_fea10c57:
+
+    # ch_Name "It's better to have some sleep."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:889
+translate russian Amelie_4_label_383ccd48:
+
+    # ch_Name "{i}(This trip to the woods with Amelie was pretty exhausting.){/i}"
+    ch_Name ""
+

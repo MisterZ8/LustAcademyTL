@@ -1022,3 +1022,1059 @@ translate chinese strings:
     old "Use the Character Info menu to complete all of the Roots available in the current release."
     new "使用字符信息菜单来完成当前版本中可用的所有根。"
 
+# TODO: Translation updated at 2022-03-03 04:01
+
+translate chinese strings:
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Turns out that the statues in one of the gardens are actually alive! One of them even had a boner while we were walking there with Haley."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "A young well-bred lady from Adderin with extraordinary magical abilities. She seems really nice, but Samantha finds her suspicious for some reason."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Alston"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "{b}Samantha's story{/b}"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Victoria's story"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Leonheart points +5"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Time skip"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Magery practics"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Audrey's story"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "{b}Giant's story{/b}"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Sabrina's story"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "{b}Time skip +2{/b}"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Alchemy practics"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "{b}Elijah's story{/b}"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Amelie's story"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Leonheart points +X"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Peeping at Molly"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "{b}Doesn't affect relationships{/b}"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Haley's story"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "{b}Angel's story{/b}"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "{b}Haley's story{/b}"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Samantha's story"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Time Skip"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Lily's story"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Naomi's story"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Elijah's story"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Molly's story"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "First work in Cafe"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Leonheart points +3"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Money +10...+35"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "{b}Lily's story{/b}"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "{b}Leona's story{/b}"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Academy Entrance"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Jacob's story"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "First Duel"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Leonheart points +3...+15"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Girls bedroom"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Leona's story"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "{b}Use Sorting Book{/b}"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Nightly peeping at Haley"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Nightly peeping at Samantha"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Nightly peeping at Audrey"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "My bedroom"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Nightly peeping at Lily"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Gordon's story"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "First Fishing"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Money +1...+40"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Fishing"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Willow's story"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Mina's story"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Jill's story"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Adele's story"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Ahchi's story"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Small talk with Ahchi"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Small talk with Haley"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Small talk with Sam & Audrey"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Romul's story"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Club Entrance"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Lucy's Show"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Sadira's Show"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Vanessa's Story"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Giant's story"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:310
+    old "Small talk with Lily"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "VIP rooms"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Adele showed me around club. I can now order a table from her or ask Sadira or Lucy about VIP rooms."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "next time"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Lady Luck"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Adele seemed to be interested in me. I should ask her on a date next time im in Lady Luck."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "afternoon"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "I worked up the courage to ask Adele out. She seemed surprised, but agreed. We agreed to meet in the afternoon at the Coffee Hut. I couldn't wait."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "We had a great time with Adele at the Coffee Hut. She was very sociable and friendly. I think she liked me too. We agreed that we would do it again sometime, so I should talk to her next time I'm in Lady Luck."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "It seems like good company and a good load of alcohol can make Adele do crazy things. And no one can deny how talented she is in what she does. I think I'll need to invite her to another after-hours date if I hope to see another show."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "books"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "house"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "more books"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "wait"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "I helped Amelie deal with the pixies who tried to steal from her, but they managed to steal one of the potions. Amelie asked me to help her get it back when she figured out where they were hiding. I couldn't wait."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Amelie and I went to the pixie settlement in the woods and returned the stolen potion. It was epic! Admittedly, the potion broke and got on Amelie in the process, but that's okay... But, it was fun."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "angels"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "win"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "classes"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "duels"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Winning"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "money"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "get a job"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Сafe"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Audrey only talks to men who can take her to a restaurant. It seems that I have to get a job to interest her in my persona. Elijah mentioned, that local Сafe needed some workers."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Living room"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "evening"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Sam"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "morning"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "I've tried to get Sam and Audrey to tell me if they're hiding something, but they told me nothing. I'll need to talk to Audrey in the Living room in the morning, when she's alone."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "to wait"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Audrey was so sweet about choosing a gift for Samantha. They must be really good friends. I think she likes me too, and maybe I should talk to her in the Living room in the evening?"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Audrey and Samantha acted really weird tonight: first they got touchy with each other and went to their room. Then Samantha stormed out and she looked concerned. I'll have to talk to Audrey in the morning if I want to know the details."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Audrey and I have a complicated situation, and I have to figure out what to do next. I should meet Audrey in the morning in the Living room to sort things out. If not for Audrey's sake, then for Samantha's."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "succubus"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "We finally talked to Audrey about our relationship and everything that had happened recently. Now we both have a better understanding of the boundaries between us. It's up to me to decide if I want to continue my relationship with her, I shouldn't forget that she's the succubus that almost got Samantha hurt. If I want to proceed with Audrey, I could probably talk to her in the morning in our Living room."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "In order to be able to have sex with Audrey I need to create a special potion. Only Sabrina can help me to find out where to look for the main ingredient. I'll meet her in Classroom 2 as usual."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Lunar nymphaea"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Tuesday night"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "The Moonwalk"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "tincture"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "To create a potion that will save me from Audrey's powers I need to look for Lunar nymphaea in the Inner Garden on Tuesday night. After I'll create The Moonwalk tincture on potions practice I should come talk to Audrey in the Living room in the evening."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "finally"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Audrey took me to her secret place and showed her succubus form. I finally saw what she really is and could not keep my emotions."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Elijah gave me my student card and told me to get my textbooks from the Library. Then I can visit classes."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "both classes"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Elijah recommended that I attend both classes and then find him in the Cafe in the evening."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Chompski Shop"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "When I went for Elijah's package to Gordon's shop I had a small chat with Willow. She showed me her magic grove. It seems like it is very important to her. I wonder what's inside...  She also gave me the nectar for Elijah. I should meet him at Cordale's Cafe in the evening."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "next encounter"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "After the strange creature in Dale drank a potion Sabrina gave me, it regained consciousness. He thanked me and promised that one day he'd return the favor."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "$"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "each fish"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "It looks like fishing can be pretty profitable. I can go fishing whenever the shop is open and Gordon will always pay me a $ for each fish."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "her Room"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Haley is getting ready for Victoria's private classes, I gotta find out what progress she's made. I'll try to talk to her in the morning before the lecture in the Classroom 1."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "her own"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Haley said there was something strange in her textbook and called me over to look at it myself. We're meeting in the evening in her Room."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Together, Haley and I tried to unwrap the mystery about E.Bloom's notes in her book. Elijah seemed disturbed when we asked him questions. I need to meet Haley in the morning before classes to find out what's her plan."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "We were alone in the courtyard, and Haley showed that she doesn't mind getting closer to me. She also asked me to spy on Amelie until I find a secret room in the Library. When I'm ready, I have to warn Haley about it in the morning before classes."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Hours of spying were not wasted for nothing! I saw Amelie disappearing and coming back where there were no exits. I have to tell Haley about this, and she might know what to do. I'll meet her in the Classroom 2 in the afternoon."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Haley needs some time to examine the coins she found in the Library and find out how to get to the secret room. I should ask her about this next time I see her before Sabrina's class in the afternoon."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Haley discovered that Elijah's brother and Hans were lovers and were trying to escape from here. To replicate their ritual and open the portal, we'll need Samantha's help. I'll talk to her in the Living room in the morning."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "ingredients"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "I made arrangements with Samantha and she will help us with the ritual. We're finally going to solve the mystery of E.Bloom. Also, Haley and I made a date. Until the date I have to get to Dale to buy the ingredients from Gordon."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Willow helped me to get ingredients for the ritual. Now I just have to wait until Haley contacts me."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "her room"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Haley and I decided to celebrate our progression with E.Bloom investigation. I need to meet her at her room in the evening and take her out on a date."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "To perform the ritual I have to wait until the full moon. When the day comes Haley will contact me."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Сombat spells"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "To enter the Dueling Club I need to learn Сombat spells. In order to do so, I have to visit more Victoria's lessons."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "I was accepted into the Dueling Club, so I can come to the Academy Entrance every evening and take part in duels."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Whistley's Spa"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "$75"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "another massage"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Main hall"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Katrina won't leave me alone. If I want to face her on my terms, I have to find a way to defeat her. I think I should contact Leona. Maybe the Sorting book in the Main hall of Academy will do the trick?"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "next Tuesday"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "If it weren't for Leona, I'd be stuck in a nightmare forever. It turned out that, under the guise of Katrina, It was a soul-eating phantom who tortured me in my dreams. Right now, I can do nothing about. On the next Tuesday I can summon Leona again to ask what should I do next."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Lion's Seal"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "week"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "It turned out that Jacob was behind the soul-stealing phantom attack. He was testing me to help him overpower Arthur. Jacob assures me that Arthur is the villain who killed my parents. To deal with him, I asked Leona to obtain for me an ancient artifact - the scroll of the Lion's Seal, but she needs a week to get it. Now I just need to wait."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Seal"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Now that Leona has given me the seal, I can help Jacob stop Arthur from his evil plans. He will be waiting for me near the entrance to the academy in the evening. However, Leona often warned me about how dangerous the seal is, so I should be careful."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Lion Seal"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "I used the Lion Seal to drive the evil spirit out of Jacob. Now I could get the truth about my parents from him. I'll have to talk to him when he comes to his senses."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Victoria's class"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "I can try to get Lily to like me by attending Victoria's class and earning points for Leonheart."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "three"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "lie"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "duel"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Lily doesn't believe that I will be able to defeat my opponent in a duel. I need to talk to Jacob in order to participate in duels. If I win, Lily will be waiting for me in the evening at the fountain in the Inner Garden. I hope it will be worth it."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "night"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "I won at the duel. That means Lily owes me a date. She'll visit My Room herself in the night. I'd better get dressed and ready."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "in"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "We had some fun with Lily and then decided to discuss other house-related plans next time. Maybe I should talk to help before Sabrina's lesson in the Classroom 2 in the afternoon."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "I've agreed to help Sabrina and Lily to harvest some herbs. Lily and I got lost and had an unbelievable adventure. I think I should talk about this with Sabrina in the evening in Classroom 2."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Mushroom girl"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "I told Sabrina about Mushroom girl I saw in the woods, and it turns out that the existence of these creatures has not yet been proven as a fact. I could be the discoverer of this species if I could find proof. But I have to wait until the compass is fixed. I should meet Lily in the morning before Victoria's class if I want to talk about what's happened."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Dale-ly Hotel"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Good news for students - there's a free room in the Dale-ly Hotel. Also, I saw Mina reading porno novels. I should talk to her again next time I'll be in Dale."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "My room in the Hotel isn't perfect, but Mina hinted that her promotion depends on if I have any complaints and if I don't make any trouble for her, I can get some hot action. Now I just have to wait for an opportunity to catch that possibility."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "afternoons"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "evenings"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "five shifts"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Now I can help Molly serve food at her Cafe for a decent fee. It gets even better if I don't screw up and get more tips. Working together with Molly can get us closer. Her workload is less intense in the evening, so it's better to talk to her at this time. But first I'll gain her trust by working at least five shifts."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Naomi turned out to be arrogant and over-self-confident. I'm sure I can make her more obedient in time. Naomi can be found at the fountain in the Inner Garden in the evening."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "I've tried to get her interested in me, but Naomi's a tricky one. I'll see if I can get a hold of her in the Classroom 2 in the afternoon."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Naomi tries to manipulate me into getting test answers for her. Let's see who'll end up outsmarted here. Naomi can be found at the fountain in the Inner Garden in the evening."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Naomi failed to delay Sabrina, and I've got trapped in her class for several hours! I'll tell Naomi how \"fun\" that was before Victoria's lesson in the Classroom 1 in the morning!"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Naomi fooled with me, and now she needs to earn my forgiveness to get the test results she needs so desperately. I'll meet her in the Inner Garden in the evening to see what I can get out of this."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "I took Naomi to the library and made sure she's willing to go all the way if she needs something. I think she earned to get the test results. I think I'll meet her in the morning before Victoria's class."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Naomi and Sabrina got into a fight in class, and now Naomi needs help to win back the teacher's favor. I promised to meet her at night in the Classroom 2 and teach her how to make potions."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "fountain"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "When I helped Naomi to learn how to brew potions, there was some heat between us. She took me to the Library to finish what we've started the last time we were there. I should meet her in the evening after classes near the fountain to talk about what's happened."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "VIP pass"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "This jerk asked for a bribe and almost let Adele be raped. I think I'll need to give him a lesson later. But the good thing is I've got a VIP pass to Lady Luck now."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "According to Sabrina, only students who have attended Victoria's introductory lecture in the Classroom 1 are allowed into the potions class."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "visit another class"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "more lessons"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "next lesson"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "practice lessons"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Stoneskin Potion"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Reflection Potion"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Inspiration Potion"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "practice"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "I'm sure I can find a few valuable ways to use Inspiration Potion. Likely, I can now craft it with ease. I think I've finished all theory lessons this semester and now there will be only practice in the Classroom 1."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Sam told me that masseuse could heal my leg if I visit Spa in Dale. She also seemed distressed because new spells were too hard for her. I think I'll know more if we have this kind of morning chit-chat more often."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Samantha thinks she's losing her magical powers forever and will get expelled. She expects me to talk to Jacob about her problem. Jacob usually spends his evenings at the Entrance of Academy."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "I've talked to Jacob. He told me that Samantha needs a special compress, which I have to get from Victoria in the Classroom 1."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Samantha is waiting for my help, I have to give her the compress in the Living room in the morning."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "I've solved Samantha's problem for now, but I need to find the source of those wounds before it's too late for her. She will meet me in the Living room in the evening to tell more about possible reasons."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "some time"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Samantha and I had an awkward meeting in the Bathroom. Is it me, or was she flirting with me? I'd be happy to meet her alone later to try to understand how she feels about me. Maybe she'll be in the Living room in the afternoon?"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "wake up"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Samantha was going to a third-year party and asked me to help her pick out an outfit. I hadn't noticed how hot she was before... Now she's gone to the party and probably won't be back until nightfall. I guess I'll wake up if I hear the noise at night."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Samantha came back from the party drunk and started hitting on me. It looks like she may want to be more than friends with me. I should talk to her in the Living room in the morning when she's sober."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Samantha and I went to a Cafe, and she shared that her dream is to find her biological father, whom Olivia didn't tell her anything about. I should talk to her once again. Maybe she'll be free in the morning, before clasess. I can probably find her in our Living room."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "She'll contact me"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Samantha signed for the tourney of wizards and one of her rivals made a lasting impression on me. I think I need to give Samantha some space to deal with her emotions. She'll contact me soon, I feel it."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Samantha had a bizarre nightmare about Dakota killing me. Does this mean she cares about me that much? If I want her to be happy, I need to protect her dream and help her to win the tourney of wizards."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "buy"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "drink"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "bar more"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Bar"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "textbooks"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "more often"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "sleep"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "This time we talked about different sources of power. I could not tell the truth about Leona's night visit, so I had to lie about my source. I need to attend more lessons if I want to learn more."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "new theory"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "practical"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "more theory"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1745
+    old "Rictusempra is now available in duels and practical classes. I should stop by after school in the evening and ask her for more classes to get closer."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2148
+    old "Stop by the local Cafe to check out the place where you arranged to meet Elijah."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2148
+    old "Help your House score points in the competition to spend the weekend at Dale."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2148
+    old "Learn the Incendio spell by continuing to attend Victoria's classes."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2148
+    old "Learn the Reflection Potion recipe by continuing to attend Sabrina's classes."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2148
+    old "Wait until Leona finds out how to help with your nightmares."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2148
+    old "Wait until tuesday and summon Leona by using the Sorting foliant in the Main Hall."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2148
+    old "Wait one week until Leona comes back with the Lion's Seal you need for Jacob."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2148
+    old "Help Jacob to stop Arthur from his evil plans."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2148
+    old "Use the Character Info menu to complete all of the routes available in the current release,"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "Lily spends about 2 hours a day to edit photos and maintain her blog in Lustagram."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "You can click on doors or use the location windows on the bottom bar to move between locations."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "If your house scores more points than the others during the week, you'll get a scholarship and can go on a weekend trip."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "If you're stuck and don't know what to do next, check out the Character Info for tips."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "There are lost books scattered all over the Academy. If you take them to Amelie in the library, she'll reward you with house points."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "You can earn money by helping Molly with her cafe job at the Academy or by fishing for Gordon in Dale."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "Practicing magic and potions earns you a lot of points at home."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "The best way to beat another house in points is to defeat its representative in a duel."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "Potions prepared in practice classes can be used in duels."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "Attending Victoria's classes, you can learn new combat spells."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "Use the eye icon on the bottom right panel to highlight active objects in locations."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "The calendar shows all available routes and activities during the day and allows you to move immediately to the desired location."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "School points can be earned for attending classes, working in the cafe, and winning in the Duel Club."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "To level up your opponents in the Duel Club, defeat each school in the manual mode of the previous level."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "Night Visits are extra content and do not affect relationships with girls."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "You can revisit scenes you've already passed in the Gallery on the main menu."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "By clicking on one of the pictures in your room, you can start a Christmas special episode."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "Money can be spent in Dale going for a massage or by booking a VIP room in the club."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "If you have LGBTQ+ option enabled, you can change the gender of tranny characters at any time in the Character Info tab."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "Every day you can find up to four lost books. Three of them are in the Academy, and one is on campus."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "To get the maximum rewards for the minigames, you have to go through them manually, but it's unnecessary."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "You can peek at Molly in the Café in the mornings and it won't affect your relationship with the girls."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "Meeting female students from the academy in Dale is extra content that doesn't affect relationships."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "You can brew your own potions by clicking on the cauldron in potions class, even when not attending lessons."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "Samantha would sell her soul for the rice pudding."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "“La La Land” is Samantha’s favorite movie of all time which she can watch over and over again."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "Haley often scribbles something in her diary, it's pages are filled with her innermost thoughts and emotional experience."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "If Audrey had to make a choice between life without her tattoos and life without sweets, she would probably choose the second option."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "It only takes one touch of Haley’s nose tip to get a bright smile out of her."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "Since childhood, Lily wanted to be a professional runner. A lot of things have changed since then, but love for running hasn’t."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "Victoria graduated from Leonheart many years ago, but she just couldn't leave Cordale and decided to take a teaching position here."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "Led Zeppelin is definitely Audrey’s favorite musical band - nothing even comes close."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "Haley likes listening to classical music or lo-fi when she’s studying - it helps her to concentrate better."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "Samantha smells like milk with cardamom - the smell of childhood, peace and happiness."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "Lily really loves flowers - just thel of lilacs can drive her crazy."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "Haley likes romantic poetry - she is often seen with little Lord Byron’s poem book in her hands."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "Samantha is a wonderful dancer - many students of Cordale dream to dance the waltz with her."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "For Haley spring rain smells like cinnamon, jasmine and rose, all together."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2389
+    old "Everybody here in the Academy knows that Amelie once had a love affair with senior students."
+    new ""
+

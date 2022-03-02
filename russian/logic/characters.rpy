@@ -190,3 +190,15 @@ translate russian strings:
     old "Unknown elf"
     new "Неизвестный эльф"
 
+# TODO: Translation updated at 2022-03-03 03:57
+
+translate russian strings:
+
+    # game/logic/characters.rpy:32
+    old "Faith"
+    new ""
+
+    # game/logic/characters.rpy:51
+    old "Dakota"
+    new ""
+

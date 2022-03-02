@@ -4536,3 +4536,11 @@ translate russian strings:
     old "Look in mirror"
     new "Посмотреть в зеркало"
 
+# TODO: Translation updated at 2022-03-03 03:57
+
+# game/logic/events/victoria.rpy:272
+translate russian Samantha_4_label_c31086c4:
+
+    # ch_Name "One of our house's students has torn magical ligaments."
+    ch_Name ""
+

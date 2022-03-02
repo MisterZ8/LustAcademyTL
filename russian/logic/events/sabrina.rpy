@@ -2816,3 +2816,11 @@ translate russian strings:
     old "Work with someone else"
     new ""
 
+# TODO: Translation updated at 2022-03-03 03:57
+
+translate russian strings:
+
+    # game/logic/events/sabrina.rpy:9
+    old "Potion for Audrey"
+    new ""
+

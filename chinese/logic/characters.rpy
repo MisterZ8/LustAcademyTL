@@ -190,3 +190,15 @@ translate chinese strings:
     old "Unknown elf"
     new "Unknown elf"
 
+# TODO: Translation updated at 2022-03-03 04:01
+
+translate chinese strings:
+
+    # game/logic/characters.rpy:32
+    old "Faith"
+    new ""
+
+    # game/logic/characters.rpy:51
+    old "Dakota"
+    new ""
+

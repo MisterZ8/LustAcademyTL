@@ -2170,3 +2170,65 @@ translate russian strings:
     old "Order a massage ($75)"
     new "Заказать массаж ($75)"
 
+# TODO: Translation updated at 2022-03-03 03:57
+
+# game/logic/events/jill.rpy:135
+translate russian Jill_2_label_8_2153276c:
+
+    # Faith "You know, of your muscle pain."
+    Faith ""
+
+# game/logic/events/jill.rpy:152
+translate russian Jill_2_label_8_5fd306ab:
+
+    # ch_Name "{i}(My leg... What's going on?){/i}"
+    ch_Name ""
+
+# game/logic/events/jill.rpy:161
+translate russian Jill_2_label_8_43d795e2:
+
+    # ch_Name "Um... Y-yes, I guess."
+    ch_Name ""
+
+# game/logic/events/jill.rpy:167
+translate russian Jill_2_label_8_9f1c724c:
+
+    # Faith "You're too tense...{w} Ah..."
+    Faith ""
+
+# game/logic/events/jill.rpy:169
+translate russian Jill_2_label_8_2708f99a:
+
+    # Faith "Relax your shoulders...{w} Ah...{w} Now we'll give them a good..."
+    Faith ""
+
+# game/logic/events/jill.rpy:173
+translate russian Jill_2_label_8_4bf4ff3e:
+
+    # Faith "Oh... Yeah...{w} What the hell is that..."
+    Faith ""
+
+# game/logic/events/jill.rpy:313
+translate russian Jill_3_label_df9cbb37:
+
+    # Faith "Of course, I can."
+    Faith ""
+
+# game/logic/events/jill.rpy:336
+translate russian Jill_3_label_293230e8:
+
+    # Faith "I need to go, sorry."
+    Faith ""
+
+# game/logic/events/jill.rpy:349
+translate russian Jill_3_label_21237630:
+
+    # Faith "Wow... Yeah, you sure did enjoy my massage."
+    Faith ""
+
+# game/logic/events/jill.rpy:366
+translate russian Jill_3_label_19e33edc:
+
+    # "I spend the rest of the day wandering around Dale and sightseeing."
+    ""
+

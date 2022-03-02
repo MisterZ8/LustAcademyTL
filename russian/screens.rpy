@@ -282,3 +282,137 @@ translate russian strings:
 
 
 
+# TODO: Translation updated at 2022-03-03 03:57
+
+# game/screens.rpy:262
+translate russian not_now_label_a53f606d:
+
+    # ch_Name "{i}(There's nothing we can talk about right now.){/i}"
+    ch_Name ""
+
+translate russian strings:
+
+    # game/screens.rpy:785
+    old "SANDBOX"
+    new ""
+
+    # game/screens.rpy:790
+    old "Open World With Free Roam"
+    new ""
+
+    # game/screens.rpy:792
+    old "Possibility To Choose Desired Content"
+    new ""
+
+    # game/screens.rpy:794
+    old "Optional Mini-Games And Activities"
+    new ""
+
+    # game/screens.rpy:802
+    old "VISUAL NOVEL"
+    new ""
+
+    # game/screens.rpy:807
+    old "All In One Storytelling"
+    new ""
+
+    # game/screens.rpy:809
+    old "Occasional Choices"
+    new ""
+
+    # game/screens.rpy:811
+    old "Plot-Driven Structure"
+    new ""
+
+    # game/screens.rpy:2320
+    old "DISPLAY"
+    new ""
+
+    # game/screens.rpy:2333
+    old "FULLSCREEN"
+    new ""
+
+    # game/screens.rpy:2345
+    old "WINDOWED"
+    new ""
+
+    # game/screens.rpy:2350
+    old "ROLLBACK SLIDE"
+    new ""
+
+    # game/screens.rpy:2361
+    old "LEFT"
+    new ""
+
+    # game/screens.rpy:2373
+    old "DISABLE"
+    new ""
+
+    # game/screens.rpy:2385
+    old "RIGHT"
+    new ""
+
+    # game/screens.rpy:2392
+    old "SKIP"
+    new ""
+
+    # game/screens.rpy:2406
+    old "UNSEEN TEXT"
+    new ""
+
+    # game/screens.rpy:2422
+    old "AFTER CHOICES"
+    new ""
+
+    # game/screens.rpy:2438
+    old "TRANSITIONS"
+    new ""
+
+    # game/screens.rpy:2446
+    old "TEXT COLOR"
+    new ""
+
+    # game/screens.rpy:2458
+    old "WHITE"
+    new ""
+
+    # game/screens.rpy:2471
+    old "BLUE"
+    new ""
+
+    # game/screens.rpy:2483
+    old "GOLD"
+    new ""
+
+    # game/screens.rpy:2489
+    old "Optional LGBTQ+ content"
+    new ""
+
+    # game/screens.rpy:2502
+    old "ENABLE"
+    new ""
+
+    # game/screens.rpy:2535
+    old "AUTO-FORWARD TIME"
+    new ""
+
+    # game/screens.rpy:2542
+    old "OFF"
+    new ""
+
+    # game/screens.rpy:2554
+    old "TEXT SPEED"
+    new ""
+
+    # game/screens.rpy:2581
+    old "MUSIC VOLUME"
+    new ""
+
+    # game/screens.rpy:2591
+    old "SOUND VOLUME"
+    new ""
+
+    # game/screens.rpy:2990
+    old "Escape"
+    new ""
+
