@@ -520,265 +520,265 @@ translate brazilian Jill_0_label_78b54d15:
 translate brazilian Jill_0_label_1bc20ea1:
 
     # ch_Name "Huh. I guess I'll visit next time."
-    ch_Name ""
+    ch_Name "Hmm. Acho que venho outra vez."
 
 # game/logic/events/jill.rpy:235
 translate brazilian Jill_0_label_7b5d1ecb:
 
     # Jill "We'll be waiting for you, sir."
-    Jill ""
+    Jill "Estaremos lhe esperando, senhor."
 
 # game/logic/events/jill.rpy:244
 translate brazilian Jill_3_label_a31265fb:
 
     # ch_Name "{i}(Man, I had a rough week.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Cara, que semana puxada.){/i}"
 
 # game/logic/events/jill.rpy:245
 translate brazilian Jill_3_label_e330bae6:
 
     # ch_Name "{i}(An eventful, for sure, but I feel like a squeezed lemon already.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Cheia de eventos, com certeza. Me sinto um limão espremido.){/i}"
 
 # game/logic/events/jill.rpy:246
 translate brazilian Jill_3_label_e0f7b8ec:
 
     # ch_Name "{i}(And It's my day off! Unthinkable!){/i}"
-    ch_Name ""
+    ch_Name "{i}(E é meu dia de folga! Quem diria!){/i}"
 
 # game/logic/events/jill.rpy:247
 translate brazilian Jill_3_label_933b501d:
 
     # ch_Name "{i}(Maybe I should get a massage? I've heard it help in a situation like this.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Talvez devesse fazer uma massagem. Ouvi dizer que ajuda nesses casos.){/i}"
 
 # game/logic/events/jill.rpy:248
 translate brazilian Jill_3_label_19f91803:
 
     # ch_Name "{i}(And my leg could use some care too.){/i}"
-    ch_Name ""
+    ch_Name "{i}(E minha perna podia ter uma atenção especial.){/i}"
 
 # game/logic/events/jill.rpy:249
 translate brazilian Jill_3_label_4f605d5a:
 
     # ch_Name "{i}(It is decided! It's time to visit Wistley's Spa!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Está decidido! É hora de visitar o Wistley's Spa!){/i}"
 
 # game/logic/events/jill.rpy:252
 translate brazilian Jill_3_label_ffd7aeb8:
 
     # ch_Name "Hey! I'm here for your famous massage!"
-    ch_Name ""
+    ch_Name "Olá! Estou aqui para uma das suas famosas massagens!"
 
 # game/logic/events/jill.rpy:253
 translate brazilian Jill_3_label_afbb5cfc:
 
     # Jill "Nice to see you!"
-    Jill ""
+    Jill "Bom lhe ver!"
 
 # game/logic/events/jill.rpy:255
 translate brazilian Jill_3_label_1d81fef2:
 
     # Jill "Go through that door over there and get ready."
-    Jill ""
+    Jill "Entre por aquela porta e se prepare."
 
 # game/logic/events/jill.rpy:256
 translate brazilian Jill_3_label_c55e6f0e:
 
     # Jill "The massage therapist will be right with you."
-    Jill ""
+    Jill "A massagista estará com você em breve."
 
 # game/logic/events/jill.rpy:257
 translate brazilian Jill_3_label_3a5c7650:
 
     # ch_Name "Thank you."
-    ch_Name ""
+    ch_Name "Obrigado."
 
 # game/logic/events/jill.rpy:261
 translate brazilian Jill_3_label_2d046a34:
 
     # ch_Name "{i}(It still smells nice in here...){/i}"
-    ch_Name ""
+    ch_Name "{i}(O cheiro daqui ainda é bom...){/i}"
 
 # game/logic/events/jill.rpy:262
 translate brazilian Jill_3_label_d6880915:
 
     # ch_Name "{i}(It makes me feel so peaceful.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Me sinto muito em paz.){/i}"
 
 # game/logic/events/jill.rpy:263
 translate brazilian Jill_3_label_099b7935:
 
     # ch_Name "Hi! I signed up for a massage."
-    ch_Name ""
+    ch_Name "Oi! Eu solicitei uma massagem."
 
 # game/logic/events/jill.rpy:265
 translate brazilian Jill_3_label_4dc7381d:
 
     # Jill "Come on in and get undressed!"
-    Jill ""
+    Jill "Entre e tire a roupa!"
 
 # game/logic/events/jill.rpy:266
 translate brazilian Jill_3_label_b80f712f:
 
     # Jill "I'll be right out."
-    Jill ""
+    Jill "Já vou aí."
 
 # game/logic/events/jill.rpy:268
 translate brazilian Jill_3_label_f8eedec0:
 
     # ch_Name "{i}(Same voice...){/i}"
-    ch_Name ""
+    ch_Name "{i}(A mesma voz...){/i}"
 
 # game/logic/events/jill.rpy:269
 translate brazilian Jill_3_label_6fb76786:
 
     # ch_Name "{i}(I wonder if she'll follow through this time.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Imagino se ela vai até o final dessa vez.){/i}"
 
 # game/logic/events/jill.rpy:270
 translate brazilian Jill_3_label_57af8977:
 
     # ch_Name "{i}(Although I don't mind feeling her body quiver with pleasure again...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Apesar de que não me incomodo de sentir seu corpe tremendo de prazer de novo...){/i}"
 
 # game/logic/events/jill.rpy:272
 translate brazilian Jill_3_label_7609878e:
 
     # Jill "Welcome!"
-    Jill ""
+    Jill "Bem vindo!"
 
 # game/logic/events/jill.rpy:273
 translate brazilian Jill_3_label_c2e4cc00:
 
     # Jill "My name is..."
-    Jill ""
+    Jill "Meu nome é..."
 
 # game/logic/events/jill.rpy:275
 translate brazilian Jill_3_label_094619bd:
 
     # ch_Name "{i}(Wait a minute... She was the one who wasn't the receptionist...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Espera aí... Ela era a que não era a recepcionista...){/i}"
 
 # game/logic/events/jill.rpy:276
 translate brazilian Jill_3_label_5c129b2f:
 
     # ch_Name "{i}(And her name was definitely Jill.){/i}"
-    ch_Name ""
+    ch_Name "{i}(E seu nome era Jill, definitivamente.){/i}"
 
 # game/logic/events/jill.rpy:277
 translate brazilian Jill_3_label_ec675ee9:
 
     # ch_Name "{i}(But last time the masseuse introduced herself to me...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas a última massagista se apresentou como...){/i}"
 
 # game/logic/events/jill.rpy:279
 translate brazilian Jill_3_label_163292ee:
 
     # ch_Name "Faith, right?"
-    ch_Name ""
+    ch_Name "Faith, certo?"
 
 # game/logic/events/jill.rpy:280
 translate brazilian Jill_3_label_f8cdef6e:
 
     # Faith "Yes."
-    Faith ""
+    Faith "Isso."
 
 # game/logic/events/jill.rpy:281
 translate brazilian Jill_3_label_276253ce:
 
     # ch_Name "I was here before the other day."
-    ch_Name ""
+    ch_Name "Estive aqui no outro dia."
 
 # game/logic/events/jill.rpy:283
 translate brazilian Jill_3_label_3d1310d4:
 
     # Faith "Oh, it's you..."
-    Faith ""
+    Faith "Ah, é vocẽ..."
 
 # game/logic/events/jill.rpy:284
 translate brazilian Jill_3_label_c83e50ea:
 
     # Faith "I'm very sorry that your last massage was cut short..."
-    Faith ""
+    Faith "Eu sinto muitíssimo que sua última massagem foi interrompida..."
 
 # game/logic/events/jill.rpy:286
 translate brazilian Jill_3_label_7f511731:
 
     # Faith "It was because of... Well..."
-    Faith ""
+    Faith "Foi porque... Bem..."
 
 # game/logic/events/jill.rpy:290
 translate brazilian Jill_3_label_fcdeb684:
 
     # ch_Name "What do you mean? Isn't that part of the program?"
-    ch_Name ""
+    ch_Name "O que você quer dizer? Não era parte da programação?"
 
 # game/logic/events/jill.rpy:291
 translate brazilian Jill_3_label_75333db9:
 
     # ch_Name "That's all I came back for!"
-    ch_Name ""
+    ch_Name "Foi para isso que voltei aqui!"
 
 # game/logic/events/jill.rpy:292
 translate brazilian Jill_3_label_1916a8af:
 
     # Faith "Um... Well..."
-    Faith ""
+    Faith "Hm... Bem..."
 
 # game/logic/events/jill.rpy:294
 translate brazilian Jill_3_label_19428a48:
 
     # ch_Name "Relax, I was just kidding."
-    ch_Name ""
+    ch_Name "Relaxe, estava só brincando."
 
 # game/logic/events/jill.rpy:295
 translate brazilian Jill_3_label_8ba64f5a:
 
     # ch_Name "I'll have a regular massage, please."
-    ch_Name ""
+    ch_Name "Eu quero uma massagem comum, por favor."
 
 # game/logic/events/jill.rpy:297
 translate brazilian Jill_3_label_40108be1:
 
     # ch_Name "Just this once."
-    ch_Name ""
+    ch_Name "Só dessa vez."
 
 # game/logic/events/jill.rpy:298
 translate brazilian Jill_3_label_ea68e268:
 
     # Faith "If you say so."
-    Faith ""
+    Faith "Se vocẽ está dizendo."
 
 # game/logic/events/jill.rpy:301
 translate brazilian Jill_3_label_2bc7ecfd:
 
     # ch_Name "What do you mean? I don't remember anything like that."
-    ch_Name ""
+    ch_Name "O que quer dizer? Não lembro de nada disso."
 
 # game/logic/events/jill.rpy:302
 translate brazilian Jill_3_label_185a9d5e:
 
     # Faith "Well, I mean..."
-    Faith ""
+    Faith "Bem, quer dizer..."
 
 # game/logic/events/jill.rpy:303
 translate brazilian Jill_3_label_46189e73:
 
     # ch_Name "It wasn't anything like that, Faith. Don't worry about it."
-    ch_Name ""
+    ch_Name "Não foi nada demais, Faith. Não esquente."
 
 # game/logic/events/jill.rpy:305
 translate brazilian Jill_3_label_0b0a6a1a:
 
     # Faith "Th-thank you..."
-    Faith ""
+    Faith "Ob-obrigada..."
 
 # game/logic/events/jill.rpy:306
 translate brazilian Jill_3_label_06f93a02:
 
     # ch_Name "So, can you help me de-stress?"
-    ch_Name ""
+    ch_Name "Então, pode ma ajudar a desestressar?"
 
 # game/logic/events/jill.rpy:308
 translate brazilian Jill_3_label_abef4397:
@@ -790,13 +790,13 @@ translate brazilian Jill_3_label_abef4397:
 translate brazilian Jill_3_label_4f674c4f:
 
     # ch_Name "{i}(I think I sent if too many mixed signals.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Acho que enviei muitos sinais confusos.){/i}"
 
 # game/logic/events/jill.rpy:310
 translate brazilian Jill_3_label_6fd1db2a:
 
     # ch_Name "Massage, baby. I mean massage."
-    ch_Name ""
+    ch_Name "Massagem, minha flor. Quero dizer com massagem."
 
 # game/logic/events/jill.rpy:312
 translate brazilian Jill_3_label_0106b1fc:
@@ -808,373 +808,373 @@ translate brazilian Jill_3_label_0106b1fc:
 translate brazilian Jill_3_label_0ba43894:
 
     # Faith "Of course, I can."
-    Faith ""
+    Faith "É claro. Posso, sim."
 
 # game/logic/events/jill.rpy:315
 translate brazilian Jill_3_label_ef0b23d6:
 
     # Faith "Your shoulders look stiff."
-    Faith ""
+    Faith "Seus ombros parecem tensos."
 
 # game/logic/events/jill.rpy:316
 translate brazilian Jill_3_label_0b3cb4ff:
 
     # ch_Name "It hurts..."
-    ch_Name ""
+    ch_Name "Doem..."
 
 # game/logic/events/jill.rpy:317
 translate brazilian Jill_3_label_57db8112:
 
     # Faith "It hurts to see a beautiful body treated like this."
-    Faith ""
+    Faith "Dói ver um belo corpo maltratado assim."
 
 # game/logic/events/jill.rpy:318
 translate brazilian Jill_3_label_b8a378a9:
 
     # Faith "They deserve some love..."
-    Faith ""
+    Faith "Merece atenção..."
 
 # game/logic/events/jill.rpy:320
 translate brazilian Jill_3_label_64c6a283:
 
     # Faith "Your spine needs to be relieved."
-    Faith ""
+    Faith "Sua coluna precisa ser aliviada."
 
 # game/logic/events/jill.rpy:321
 translate brazilian Jill_3_label_ebbeb270:
 
     # Faith "It carries such a big and beautiful body."
-    Faith ""
+    Faith "Ela carrega um corpo grande e bonito."
 
 # game/logic/events/jill.rpy:322
 translate brazilian Jill_3_label_9deae701:
 
     # Faith "So you have to treat it well."
-    Faith ""
+    Faith "Então tem que tratá-la bem."
 
 # game/logic/events/jill.rpy:323
 translate brazilian Jill_3_label_d0e0c97f:
 
     # ch_Name "{i}(She seems to be really good at this...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela parece ser muito boa nisso...){/i}"
 
 # game/logic/events/jill.rpy:325
 translate brazilian Jill_3_label_f9805810:
 
     # Faith "Let's work on your legs too."
-    Faith ""
+    Faith "Vamos trabalhar em suas pernas, também."
 
 # game/logic/events/jill.rpy:326
 translate brazilian Jill_3_label_84d25d3a:
 
     # Faith "I know this place hurts, but you have to trust me on this."
-    Faith ""
+    Faith "Eu sei que aqui dói, mas confie em mim nisso."
 
 # game/logic/events/jill.rpy:328
 translate brazilian Jill_3_label_f5a1f715:
 
     # ch_Name "Ouch..."
-    ch_Name ""
+    ch_Name "Ai..."
 
 # game/logic/events/jill.rpy:329
 translate brazilian Jill_3_label_caa126a2:
 
     # Faith "Here we go."
-    Faith ""
+    Faith "Vamos lá."
 
 # game/logic/events/jill.rpy:330
 translate brazilian Jill_3_label_f62b3f4b:
 
     # Faith "Now I can heal this spot..."
-    Faith ""
+    Faith "Agora posso curar esse local..."
 
 # game/logic/events/jill.rpy:332
 translate brazilian Jill_3_label_4dda4743:
 
     # ch_Name "That feels... good..."
-    ch_Name ""
+    ch_Name "Isso me faz sentir... bem..."
 
 # game/logic/events/jill.rpy:333
 translate brazilian Jill_3_label_3a5c7650_1:
 
     # ch_Name "Thank you."
-    ch_Name ""
+    ch_Name "Obrigado."
 
 # game/logic/events/jill.rpy:334
 translate brazilian Jill_3_label_44372b34:
 
     # Faith "My pleasure. That's it for today."
-    Faith ""
+    Faith "Por nada. É isso por hoje."
 
 # game/logic/events/jill.rpy:336
 translate brazilian Jill_3_label_bbd56698:
 
     # Faith "I need to go, sorry."
-    Faith ""
+    Faith "Preciso ir, desculpe."
 
 # game/logic/events/jill.rpy:337
 translate brazilian Jill_3_label_d4b884c9:
 
     # ch_Name "{i}(She's in a rush again...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela está com pressa de novo...){/i}"
 
 # game/logic/events/jill.rpy:339
 translate brazilian Jill_3_label_e73f7b48:
 
     # ch_Name "{i}(Well, at least this time she finished massage.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bem, pelo menos terminou a massagem, dessa vez.){/i}"
 
 # game/logic/events/jill.rpy:340
 translate brazilian Jill_3_label_6937b7b7:
 
     # ch_Name "{i}(It's time to go.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hora de ir embora.){/i}"
 
 # game/logic/events/jill.rpy:342
 translate brazilian Jill_3_label_1a4782f4:
 
     # Faith "Wait, don't turn around..."
-    Faith ""
+    Faith "Espere, não se vire..."
 
 # game/logic/events/jill.rpy:343
 translate brazilian Jill_3_label_9692f7ca:
 
     # Faith "I know you feel me... there..."
-    Faith ""
+    Faith "Eu sei que você me sente... lá..."
 
 # game/logic/events/jill.rpy:345
 translate brazilian Jill_3_label_c9acf1ce:
 
     # Faith "Did you like it?"
-    Faith ""
+    Faith "Gosta disso?"
 
 # game/logic/events/jill.rpy:346
 translate brazilian Jill_3_label_72f8899e:
 
     # ch_Name "I, uh, well..."
-    ch_Name ""
+    ch_Name "Eu, hm, bem..."
 
 # game/logic/events/jill.rpy:347
 translate brazilian Jill_3_label_1501b90b:
 
     # Faith "My turn!"
-    Faith ""
+    Faith "Minha vez!"
 
 # game/logic/events/jill.rpy:349
 translate brazilian Jill_3_label_545f1c4d:
 
     # Faith "Wow... Yeah, you sure did enjoy my massage."
-    Faith ""
+    Faith "Uau... É, você realmente curtiu minha massagem."
 
 # game/logic/events/jill.rpy:350
 translate brazilian Jill_3_label_ad7eef91:
 
     # Faith "You're definitely going to have to give up the stress here..."
-    Faith ""
+    Faith "Você definitivamente vai precisar desestressar aqui..."
 
 # game/logic/events/jill.rpy:352
 translate brazilian Jill_3_label_1e7d745b:
 
     # Faith "But next time..."
-    Faith ""
+    Faith "Mas na próxima vez..."
 
 # game/logic/events/jill.rpy:353
 translate brazilian Jill_3_label_c2d80e31:
 
     # ch_Name "Wait!"
-    ch_Name ""
+    ch_Name "Espera!"
 
 # game/logic/events/jill.rpy:355
 translate brazilian Jill_3_label_d7f3d285:
 
     # ch_Name "{i}(Damn... Where did she go?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Droga... Para onde ela foi?){/i}"
 
 # game/logic/events/jill.rpy:356
 translate brazilian Jill_3_label_aff8afb5:
 
     # ch_Name "{i}(She's acting weird and going by two different names.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela está estranha e usando dois nomes diferentes.){/i}"
 
 # game/logic/events/jill.rpy:357
 translate brazilian Jill_3_label_2b217e2d:
 
     # ch_Name "{i}(I wonder what's really going on here...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Imagino o que está se passando aqui...){/i}"
 
 # game/logic/events/jill.rpy:358
 translate brazilian Jill_3_label_100b2eff:
 
     # ch_Name "{i}(We'll have to come back here sometime...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tenho que voltar aqui outra hora...){/i}"
 
 # game/logic/events/jill.rpy:362
 translate brazilian Jill_3_label_76741fb6:
 
     # ch_Name "{i}(Strange. No one's here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Estranho. Ninguém aqui.){/i}"
 
 # game/logic/events/jill.rpy:363
 translate brazilian Jill_3_label_4d6b05dd:
 
     # ch_Name "{i}(Should I wait for someone or...?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Deveria esperar por alguém ou...?){/i}"
 
 # game/logic/events/jill.rpy:364
 translate brazilian Jill_3_label_78fcf97c:
 
     # ch_Name "{i}(Nah. I've already paid, so I'm free to go.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não... Eu já paguei, então posso ir.){/i}"
 
 # game/logic/events/jill.rpy:366
 translate brazilian Jill_3_label_d7923bce:
 
     # "I spend the rest of the day wandering around Dale and sightseeing."
-    ""
+    ch_Name "Vou passar o resto do dia passeando por Dale e admirando."
 
 # game/logic/events/jill.rpy:369
 translate brazilian Jill_3_label_0b5cb0b6:
 
     # ch_Name "{i}(Okay, it looks like I've seen every exciting facade of the town.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Okay, parece que já vi todas as fachadas interessantes da cidade.){/i}"
 
 # game/logic/events/jill.rpy:370
 translate brazilian Jill_3_label_f74bdbbf:
 
     # ch_Name "{i}(What should I do next?){/i}"
-    ch_Name ""
+    ch_Name "{i}(O que fazer agora?){/i}"
 
 # game/logic/events/jill.rpy:371
 translate brazilian Jill_3_label_c7a29cdc:
 
     # ch_Name "{i}(Oh, I've almost forgotten I had that VIP pass to the club.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, quase esqueci que tenho um passe VIP para aquele clube.){/i}"
 
 # game/logic/events/jill.rpy:375
 translate brazilian Jill_3_label_f9d9de7a:
 
     # ch_Name "{i}(It'd be a shame not to use it more frequently until it lasts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Seria uma vergonha não usar com frequência enquanto eu posso.){/i}"
 
 # game/logic/events/jill.rpy:376
 translate brazilian Jill_3_label_56b4133b:
 
     # ch_Name "{i}(Who knows when will be the next time our house wins the competition?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Quem sabe quando será que nossa casa vai ganhar a competição de novo?){/i}"
 
 # game/logic/events/jill.rpy:380
 translate brazilian Jill_3_label_5a559104:
 
     # ch_Name "{i}(I should ask Adele to arrange a table.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Devia pedir a Adele para arrumar uma mesa.){/i}"
 
 # game/logic/events/jill.rpy:381
 translate brazilian Jill_3_label_117c5159:
 
     # ch_Name "{i}(With some hot girl.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Com alguma gostosa.){/i}"
 
 # game/logic/events/jill.rpy:383
 translate brazilian Jill_3_label_00e26c6d:
 
     # ch_Name "Hi there!"
-    ch_Name ""
+    ch_Name "Olá!"
 
 # game/logic/events/jill.rpy:384
 translate brazilian Jill_3_label_ab6e4b4f:
 
     # Adele " Oh! It's you again! What a pleasant surprise!"
-    Adele ""
+    Adele "Oh! Você de novo! Que surpresa boa!"
 
 # game/logic/events/jill.rpy:385
 translate brazilian Jill_3_label_06ecccd9:
 
     # Adele "Welcome back!"
-    Adele ""
+    Adele "Bem vindo de volta!"
 
 # game/logic/events/jill.rpy:412
 translate brazilian Jill_1_label_9665fe9d:
 
     # ch_Name "{i}(Hmm, what an interesting design!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm, que design interessante!){/i}"
 
 # game/logic/events/jill.rpy:416
 translate brazilian Jill_1_label_7f09fc4d:
 
     # ch_Name "Hi!"
-    ch_Name ""
+    ch_Name "Oi!"
 
 # game/logic/events/jill.rpy:418
 translate brazilian Jill_1_label_433ea345:
 
     # Jill "Welcome to Whistley Spa and Massage."
-    Jill ""
+    Jill "Bem vindo ao Whistley Spa e Massagem."
 
 # game/logic/events/jill.rpy:419
 translate brazilian Jill_1_label_df7d6a1d:
 
     # Jill "I'm Jill Whistley!"
-    Jill ""
+    Jill "Eu sou Jill Whistley!"
 
 # game/logic/events/jill.rpy:421
 translate brazilian Jill_1_label_8bf7d370:
 
     # ch_Name "Wow. So you're the owner?"
-    ch_Name ""
+    ch_Name "Uau. Então você é a dona?"
 
 # game/logic/events/jill.rpy:422
 translate brazilian Jill_1_label_c3364c6a:
 
     # Jill "It's a family business. It's like that in Dale almost everywhere."
-    Jill ""
+    Jill "É um negócio de família. Quase tudo em Dale é assim."
 
 # game/logic/events/jill.rpy:423
 translate brazilian Jill_1_label_9bcf8e9b:
 
     # ch_Name "It's an interesting feature."
-    ch_Name ""
+    ch_Name "Que coisa interessante."
 
 # game/logic/events/jill.rpy:425
 translate brazilian Jill_1_label_4d1f1729:
 
     # Jill "How may I address you?"
-    Jill ""
+    Jill "Como me dirijo a você?"
 
 # game/logic/events/jill.rpy:426
 translate brazilian Jill_1_label_e9587003:
 
     # ch_Name "My name is [Name]."
-    ch_Name ""
+    ch_Name "Meu nome é [Name]"
 
 # game/logic/events/jill.rpy:427
 translate brazilian Jill_1_label_64c2ffb6:
 
     # Jill "[Name]? What a beautiful name..."
-    Jill ""
+    Jill "[Name}? Que belo nome..."
 
 # game/logic/events/jill.rpy:428
 translate brazilian Jill_1_label_ec528c5c:
 
     # ch_Name "{i}(Yeah, it's kind of ordinary...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sim, é meio comum...){/i}"
 
 # game/logic/events/jill.rpy:430
 translate brazilian Jill_1_label_84fa4cee:
 
     # Jill "How can I help you, [Name]?"
-    Jill ""
+    Jill "Como posso ajudá-lo, [Name]?"
 
 # game/logic/events/jill.rpy:431
 translate brazilian Jill_1_label_bbe0ac5d:
 
     # ch_Name "I'm just looking around."
-    ch_Name ""
+    ch_Name "Estou só dando uma olhada."
 
 # game/logic/events/jill.rpy:432
 translate brazilian Jill_1_label_475b542d:
 
     # ch_Name "I wanted to see what services are available here."
-    ch_Name ""
+    ch_Name "Queria saber quais serviços estão disponíveis aqui."
 
 # game/logic/events/jill.rpy:434
 translate brazilian Jill_1_label_10d1dae4:
@@ -1186,79 +1186,79 @@ translate brazilian Jill_1_label_10d1dae4:
 translate brazilian Jill_1_label_ea2a5d59:
 
     # Jill "Our family practices many kinds of massages."
-    Jill ""
+    Jill "Nossa família faz vários tipos de massagens."
 
 # game/logic/events/jill.rpy:437
 translate brazilian Jill_1_label_73083f5c:
 
     # Jill "Whistley Salon is known throughout the area."
-    Jill ""
+    Jill "Whistley Salon é conhecido nessa área."
 
 # game/logic/events/jill.rpy:439
 translate brazilian Jill_1_label_7e584bf3:
 
     # Jill "Each massage is individually tailored to the client's needs."
-    Jill ""
+    Jill "Cada massagem é criada individualmente para as necessidades do cliente."
 
 # game/logic/events/jill.rpy:440
 translate brazilian Jill_1_label_dd78f4fb:
 
     # ch_Name "Wow, that sounds really great."
-    ch_Name ""
+    ch_Name "Uau, isso parece muito bom."
 
 # game/logic/events/jill.rpy:442
 translate brazilian Jill_1_label_a2b37245:
 
     # ch_Name "The last time I had a massage was at training camp before the Yellow Jackets game."
-    ch_Name ""
+    ch_Name "A última vez que tive uma massagem foi no centro de treinamento, antes do jogo dos Yellow Jackets."
 
 # game/logic/events/jill.rpy:443
 translate brazilian Jill_1_label_c48219e5:
 
     # ch_Name "When I got injured..."
-    ch_Name ""
+    ch_Name "Quando me machuquei..."
 
 # game/logic/events/jill.rpy:445
 translate brazilian Jill_1_label_efa5eddc:
 
     # Jill "Oh, so you're an athlete?"
-    Jill ""
+    Jill "Oh, então você é um atleta?"
 
 # game/logic/events/jill.rpy:446
 translate brazilian Jill_1_label_cb76ceb5:
 
     # ch_Name "Former."
-    ch_Name ""
+    ch_Name "Era."
 
 # game/logic/events/jill.rpy:448
 translate brazilian Jill_1_label_b8c0f8e8:
 
     # Jill "Then you should try our massages."
-    Jill ""
+    Jill "Então deveria experimentar nossas massagens."
 
 # game/logic/events/jill.rpy:449
 translate brazilian Jill_1_label_14d72290:
 
     # Jill "Your muscles are more demanding than the average person."
-    Jill ""
+    Jill "Seus músculos são mais demandados que os das outras pessoas."
 
 # game/logic/events/jill.rpy:450
 translate brazilian Jill_1_label_de5abba9:
 
     # Jill "They need special care..."
-    Jill ""
+    Jill "Precisam de mais atenção..."
 
 # game/logic/events/jill.rpy:452
 translate brazilian Jill_1_label_3b42f494:
 
     # ch_Name "{i}(I wouldn't say no to her care.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu não diria não para a atenção dela.){/i}"
 
 # game/logic/events/jill.rpy:454
 translate brazilian Jill_1_label_02b87543:
 
     # ch_Name "How much does this service cost?"
-    ch_Name ""
+    ch_Name "Quanto custa esse serviço?"
 
 # game/logic/events/jill.rpy:456
 translate brazilian Jill_1_label_f596c15e:
@@ -1270,115 +1270,115 @@ translate brazilian Jill_1_label_f596c15e:
 translate brazilian Jill_1_label_08c08566:
 
     # ch_Name "You know, I think I'm going to try your famous massage."
-    ch_Name ""
+    ch_Name "Sabe? Acho que vou experimentar sua famosa massagem."
 
 # game/logic/events/jill.rpy:461
 translate brazilian Jill_1_label_ade6877c:
 
     # Jill "Yay, yay, yay! I'm sure you'll love it!"
-    Jill ""
+    Jill "Eba, eba, eba! Tenho certeza que vai amar!"
 
 # game/logic/events/jill.rpy:463
 translate brazilian Jill_1_label_1d81fef2:
 
     # Jill "Go through that door over there and get ready."
-    Jill ""
+    Jill "Entre por essa porta e se prepare."
 
 # game/logic/events/jill.rpy:464
 translate brazilian Jill_1_label_c55e6f0e:
 
     # Jill "The massage therapist will be right with you."
-    Jill ""
+    Jill "A massagista estará com você logo."
 
 # game/logic/events/jill.rpy:465
 translate brazilian Jill_1_label_3a5c7650:
 
     # ch_Name "Thank you."
-    ch_Name ""
+    ch_Name "Obrigado."
 
 # game/logic/events/jill.rpy:480
 translate brazilian order_a_message_jil_4eaa2478:
 
     # ch_Name "Unfortunately, I can't right now."
-    ch_Name ""
+    ch_Name "Infelizmente não posso agora."
 
 # game/logic/events/jill.rpy:482
 translate brazilian order_a_message_jil_dfe8de78:
 
     # Jill "That's too bad. Is there nothing I can do to change your mind?"
-    Jill ""
+    Jill "Que pena. Não posso fazer nada para você mudar de ideia?"
 
 # game/logic/events/jill.rpy:483
 translate brazilian order_a_message_jil_6f0e9b85:
 
     # ch_Name "Don't worry, I'll be sure to stop by again."
-    ch_Name ""
+    ch_Name "Não se preocupe, volto aqui, com certeza."
 
 # game/logic/events/jill.rpy:485
 translate brazilian order_a_message_jil_d3f42473:
 
     # Jill "I'll be happy to see you."
-    Jill ""
+    Jill "Ficarei feliz de lhe ver."
 
 # game/logic/events/jill.rpy:492
 translate brazilian order_a_message_jil_08c08566:
 
     # ch_Name "You know, I think I'm going to try your famous massage."
-    ch_Name ""
+    ch_Name "Sabe? Vou experimentar sua famosa massagem."
 
 # game/logic/events/jill.rpy:494
 translate brazilian order_a_message_jil_ade6877c:
 
     # Jill "Yay, yay, yay! I'm sure you'll love it!"
-    Jill ""
+    Jill "Eba, eba, eba! Tenho certeza que vai amar!"
 
 # game/logic/events/jill.rpy:496
 translate brazilian order_a_message_jil_1d81fef2:
 
     # Jill "Go through that door over there and get ready."
-    Jill ""
+    Jill "Entre por aquela porta e se prepare."
 
 # game/logic/events/jill.rpy:497
 translate brazilian order_a_message_jil_c55e6f0e:
 
     # Jill "The massage therapist will be right with you."
-    Jill ""
+    Jill "A massagista estará com você logo."
 
 # game/logic/events/jill.rpy:498
 translate brazilian order_a_message_jil_3a5c7650:
 
     # ch_Name "Thank you."
-    ch_Name ""
+    ch_Name "Obrigado."
 
 # game/logic/events/jill.rpy:519
 translate brazilian Jill_4_label_8d320ad9:
 
     # ch_Name "Hey!"
-    ch_Name ""
+    ch_Name "Ei!"
 
 # game/logic/events/jill.rpy:520
 translate brazilian Jill_4_label_ff692ee3:
 
     # ch_Name "A little more time and I will become your regular visitor."
-    ch_Name ""
+    ch_Name "Um pouco mais e vou virar um visitante frequente."
 
 # game/logic/events/jill.rpy:521
 translate brazilian Jill_4_label_329549a8:
 
     # Jill "It's just wonderful!"
-    Jill ""
+    Jill "Que maravilha!"
 
 # game/logic/events/jill.rpy:523
 translate brazilian Jill_4_label_054accc5:
 
     # Jill "We are very pleased that the quality of our massage..."
-    Jill ""
+    Jill "Estamos muito felizes que a qualidade de nossa massagem..."
 
 # game/logic/events/jill.rpy:524
 translate brazilian Jill_4_label_f983e136:
 
     # Jill "...makes you come back again and again."
-    Jill ""
+    Jill "...faz você voltar muitas vezes."
 
 # game/logic/events/jill.rpy:525
 translate brazilian Jill_4_label_47500326:
