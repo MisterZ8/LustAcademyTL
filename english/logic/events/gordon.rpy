@@ -28,7 +28,7 @@ translate english Gordon_1_label_00e59318:
 translate english Gordon_1_label_0544583a:
 
     # ch_Name "{i}(Weird, the place isn't closed, but no one's here...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Weird, this place isn't closed, but no one's here...){/i}"
 
 # game/logic/events/gordon.rpy:80
 translate english Gordon_1_label_b18cca75:
@@ -76,7 +76,7 @@ translate english Gordon_1_label_dce3eb29:
 translate english Gordon_1_label_f94e9d69:
 
     # UnknownGordon "As usuall with young people, no respect."
-    UnknownGordon ""
+    UnknownGordon "As usual with young people, no respect."
 
 # game/logic/events/gordon.rpy:92
 translate english Gordon_1_label_6e6f0932:
@@ -184,7 +184,7 @@ translate english Gordon_1_label_ef00ff08:
 translate english Gordon_1_label_bfd37f27:
 
     # Gordon "I love wizards! Your kind knows a good ingredient. Pays good money."
-    Gordon ""
+    Gordon "I love wizards! Your kind knows a good ingredient. Pay good money."
 
 # game/logic/events/gordon.rpy:114
 translate english Gordon_1_label_0806f386:
@@ -220,7 +220,7 @@ translate english Gordon_1_label_a023c470:
 translate english Gordon_1_label_7f109fc9:
 
     # ch_Name "{i}(Whom is he talking too?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Who's he talking to?){/i}"
 
 # game/logic/events/gordon.rpy:132
 translate english Gordon_1_label_bdf49396:
@@ -262,7 +262,7 @@ translate english Gordon_1_label_10083ee2:
 translate english Gordon_1_label_7c27bc43:
 
     # ch_Name "{i}(He's offering me to buy her, or whats going on?!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Is he offering to sell her to me? What's going on?!){/i}"
 
 # game/logic/events/gordon.rpy:143
 translate english Gordon_1_label_a4b85ed0:
@@ -328,7 +328,7 @@ translate english Gordon_1_label_9f0c00cf:
 translate english Gordon_1_label_9a77a435:
 
     # ch_Name "{i}(Is it just me, or was it not about the money?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Is it just me, or is she not talking about money?){/i}"
 
 # game/logic/events/gordon.rpy:156
 translate english Gordon_1_label_3a5c7650:
@@ -346,7 +346,7 @@ translate english Gordon_1_label_02856daf:
 translate english Gordon_1_label_014557c9:
 
     # Willow "It's a shame it gets so boring around here sometimes."
-    Willow ""
+    Willow "That's a shame. It gets so boring around here, sometimes."
 
 # game/logic/events/gordon.rpy:160
 translate english Gordon_1_label_9243eac8:
@@ -412,13 +412,13 @@ translate english Gordon_1_label_d0463ee7:
 translate english Gordon_1_label_8c0ba6b6:
 
     # Gordon "I know how annoying she can be. She's half a fairy."
-    Gordon ""
+    Gordon "I know how annoying she can be. She's half-fairy."
 
 # game/logic/events/gordon.rpy:174
 translate english Gordon_1_label_05d1f373:
 
     # Gordon "Her mother never left stoped talking. Blah-blah-blah..."
-    Gordon ""
+    Gordon "Her mother never stopped talking. Blah-blah-blah..."
 
 # game/logic/events/gordon.rpy:175
 translate english Gordon_1_label_c2243c81:
@@ -436,7 +436,7 @@ translate english Gordon_1_label_143af000:
 translate english Gordon_1_label_3eee173e:
 
     # Gordon "Let me know if you're thinking of buying some."
-    Gordon ""
+    Gordon "Let me know if you're thinking of buying something."
 
 # game/logic/events/gordon.rpy:179
 translate english Gordon_1_label_7bb14ae0:
@@ -646,7 +646,7 @@ translate english Gordon_1_label_869dd715:
 translate english Gordon_1_label_3885f587:
 
     # Gordon "I'll be waiting for you back with fresh fish."
-    Gordon ""
+    Gordon "I'll be waiting for you to come back with fresh fish."
 
 # game/logic/events/gordon.rpy:246
 translate english Gordon_2_label_9f76534c:
@@ -658,7 +658,7 @@ translate english Gordon_2_label_9f76534c:
 translate english Gordon_2_label_ab755f95:
 
     # ch_Name "I was thinking about your job offer. Want to go fishing. "
-    ch_Name ""
+    ch_Name "I was thinking about your job offer. I want to go fishing. "
 
 # game/logic/events/gordon.rpy:249
 translate english Gordon_2_label_f08728ef:
@@ -682,13 +682,13 @@ translate english Gordon_2_label_d38b1637:
 translate english Gordon_2_label_e8f218b8:
 
     # Gordon "Not when Willow bake them! "
-    Gordon ""
+    Gordon "Not when Willow bakes them!"
 
 # game/logic/events/gordon.rpy:254
 translate english Gordon_2_label_287eaff3:
 
     # Gordon "Hang on, I'll get you a rod and bait."
-    Gordon ""
+    Gordon "Hang on, I'll get you a rod and some bait."
 
 # game/logic/events/gordon.rpy:256
 translate english Gordon_2_label_ac4ba1da:
@@ -706,7 +706,7 @@ translate english Gordon_2_label_2dbce284:
 translate english Gordon_2_label_4a40743b:
 
     # Gordon "I'll mark for you on the map a great fishing spot on the lake."
-    Gordon ""
+    Gordon "I'll mark a great fishing spot on the lake on your map."
 
 # game/logic/events/gordon.rpy:260
 translate english Gordon_2_label_a1c7cc7d:
@@ -772,7 +772,7 @@ translate english Gordon_2_label_32576ddb:
 translate english Gordon_2_label_20151919:
 
     # Gordon "Waiting for you back with fresh fish."
-    Gordon ""
+    Gordon "I'll be waiting for you to come back with fresh fish."
 
 # game/logic/events/gordon.rpy:276
 translate english Gordon_2_label_7229c100:
@@ -838,7 +838,7 @@ translate english Gordon_2_label_de489e55:
 translate english Gordon_2_label_a8a3d31e:
 
     # ch_Name "{i}(I hope I've got the right idea of how to throw a fishing rod...){/i}"
-    ch_Name ""
+    ch_Name "{i}(I hope I've got the right idea of how to cast a fishing rod...){/i}"
 
 # game/logic/events/gordon.rpy:291
 translate english Gordon_2_label_1f99ef04:
@@ -910,7 +910,7 @@ translate english Gordon_2_label_de489e55_1:
 translate english Gordon_2_label_a8a3d31e_1:
 
     # ch_Name "{i}(I hope I've got the right idea of how to throw a fishing rod...){/i}"
-    ch_Name ""
+    ch_Name "{i}(I hope I've got the right idea of how to cast a fishing rod...){/i}"
 
 # game/logic/events/gordon.rpy:309
 translate english Gordon_2_label_1f99ef04_1:
@@ -958,7 +958,7 @@ translate english Willow_1_label_bf7d543c:
 translate english Willow_1_label_b6d97888:
 
     # ch_Name "{i}(Perhaps Gordon will offer me to go fishing to make money.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Perhaps Gordon will make an offer for me to go fishing to make money.){/i}"
 
 # game/logic/events/gordon.rpy:340
 translate english Willow_1_label_c9913716:
@@ -994,13 +994,13 @@ translate english Willow_1_label_db5d5dd4:
 translate english Willow_1_label_5087b9cc:
 
     # Gordon "Maybe it's those pictures for the paper, I don't know. It's sad to look at her."
-    Gordon ""
+    Gordon "Maybe it's those pictures in the paper, I don't know. It's sad to look at her."
 
 # game/logic/events/gordon.rpy:348
 translate english Willow_1_label_20516ddd:
 
     # ch_Name "Maybe I can talk to her. See if I can make her happy."
-    ch_Name ""
+    ch_Name "Maybe I can talk to her. See if I can cheer her up."
 
 # game/logic/events/gordon.rpy:350
 translate english Willow_1_label_37496a3d:
@@ -1024,7 +1024,7 @@ translate english Willow_1_label_4dbfcb05:
 translate english Willow_1_label_e4b53fcf:
 
     # ch_Name "{i}(What's going on? I literally can see tears in her eyes!){/i}"
-    ch_Name ""
+    ch_Name "{i}(What's going on? I can see literal tears in her eyes!){/i}"
 
 # game/logic/events/gordon.rpy:356
 translate english Willow_1_label_784febcb:
@@ -1078,7 +1078,7 @@ translate english Willow_1_label_b1ec968d:
 translate english Willow_1_label_6ffdcc4f:
 
     # Willow "Yes, the article about the Chompski shop."
-    Willow ""
+    Willow "Yes, the article about Chompsky's shop."
 
 # game/logic/events/gordon.rpy:367
 translate english Willow_1_label_42b3216c:
@@ -1120,7 +1120,7 @@ translate english Willow_1_label_5c2bd0d2:
 translate english Willow_1_label_ea72e2df:
 
     # ch_Name "They are not supposed to ignore your concerns."
-    ch_Name ""
+    ch_Name "They're not supposed to ignore your concerns."
 
 # game/logic/events/gordon.rpy:376
 translate english Willow_1_label_2c193010:
@@ -1270,7 +1270,7 @@ translate english Willow_1_label_beb92aae:
 translate english Willow_1_label_9fa17cfd:
 
     # ch_Name "Ghmmm..."
-    ch_Name ""
+    ch_Name "Hmmm..."
 
 # game/logic/events/gordon.rpy:412
 translate english Willow_1_label_e4546994:
@@ -1444,7 +1444,7 @@ translate english Willow_1_label_38280bd1:
 translate english Willow_1_label_24c4b1db:
 
     # ch_Name "I'm glad that I can help you."
-    ch_Name ""
+    ch_Name "I'm glad that I could help you."
 
 # game/logic/events/gordon.rpy:453
 translate english Willow_1_label_50f6cccf:
@@ -1462,7 +1462,7 @@ translate english Willow_1_label_169aee20:
 translate english Willow_1_label_c73db5f6:
 
     # ch_Name "Ha-ha-ha, I'll remember it."
-    ch_Name ""
+    ch_Name "Ha-ha-ha, I'll remember that."
 
 # game/logic/events/gordon.rpy:462
 translate english Willow_1_label_dbe77537:
@@ -1522,7 +1522,7 @@ translate english Willow_1_label_0865ced5:
 translate english Willow_1_label_a82a2cd0:
 
     # ch_Name "{i}(Let's see where she was asking for a date.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Let's see where she was asking for a date.){/i}"
 
 # game/logic/events/gordon.rpy:478
 translate english Willow_1_label_3d1d44f2:
