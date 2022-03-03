@@ -4,25 +4,25 @@
 translate turkish street_label_0fa198b4:
 
     # ch_Name "{i}(Sam was right. This letter is really addressed to me!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sam haklı. Bu mektup gerçekten de bana yazılmış!){/i}"
 
 # game/logic/locations/street.rpy:18
 translate turkish street_label_d2a9e68b:
 
     # ch_Name "{i}(Cordale Academy. Samantha studies there. Maybe they've just adressed it wrong?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Cordale Akademisi. Samantha orada okuyor. Belki de yanlış ismi yazdılar?){/i}"
 
 # game/logic/locations/street.rpy:20
 translate turkish street_label_bfba75ba:
 
     # ch_Name "{i}(But that's my name. Might as well read it.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ama bu benim ismim. Okuyayım bari.){/i}"
 
 # game/logic/locations/street.rpy:28
 translate turkish street_label_4b8f11ed:
 
     # ch_Name "Dear Mr. [Name] [Surname]."
-    ch_Name ""
+    ch_Name "Sayın [Name] [Surname]."
 
 # game/logic/locations/street.rpy:29
 translate turkish street_label_a4bfb822:
