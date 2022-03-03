@@ -4,83 +4,83 @@
 translate turkish street_label_0fa198b4:
 
     # ch_Name "{i}(Sam was right. This letter is really addressed to me!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sam haklı. Bu mektup gerçekten de bana yazılmış!){/i}"
 
 # game/logic/locations/street.rpy:18
 translate turkish street_label_d2a9e68b:
 
     # ch_Name "{i}(Cordale Academy. Samantha studies there. Maybe they've just adressed it wrong?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Cordale Akademisi. Samantha orada okuyor. Belki de yanlış ismi yazdılar?){/i}"
 
 # game/logic/locations/street.rpy:20
 translate turkish street_label_bfba75ba:
 
     # ch_Name "{i}(But that's my name. Might as well read it.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ama bu benim ismim. Okuyayım bari.){/i}"
 
 # game/logic/locations/street.rpy:28
 translate turkish street_label_4b8f11ed:
 
     # ch_Name "Dear Mr. [Name] [Surname]."
-    ch_Name ""
+    ch_Name "Sayın [Name] [Surname]."
 
 # game/logic/locations/street.rpy:29
 translate turkish street_label_a4bfb822:
 
     # ch_Name "You have been selected to take the entrance exam..."
-    ch_Name ""
+    ch_Name "Seçkin bir yükseköğretim kurulu olan Cordale Büyü ve Büyücülük Akademisinin..."
 
 # game/logic/locations/street.rpy:30
 translate turkish street_label_e59e5cf0:
 
     # ch_Name "...for an elite institution of higher education: the Cordale Academy of Magic and Wizardry."
-    ch_Name ""
+    ch_Name "...giriş sınavına seçildiniz."
 
 # game/logic/locations/street.rpy:31
 translate turkish street_label_ca651f50:
 
     # ch_Name "To take the exam, you need to arrive at the central station at 12 pm, on August 31st."
-    ch_Name ""
+    ch_Name "Sınava gitmek için 31 Ağustos saat 12'de merkezi istasyonda olmalısınız."
 
 # game/logic/locations/street.rpy:32
 translate turkish street_label_b8e60260:
 
     # ch_Name "Boarding the train to Cordale takes place before 12.30 pm. Don't be late!"
-    ch_Name ""
+    ch_Name "Cordale'e giden trene yolcu alımı saat 12.30'a kadardır. Geç kalmayın!"
 
 # game/logic/locations/street.rpy:33
 translate turkish street_label_1a9ff24f:
 
     # ch_Name "The exam will take place on the academy grounds, September 1st."
-    ch_Name ""
+    ch_Name "Sınav 1 Eylül'de akademide gerçekleşecek."
 
 # game/logic/locations/street.rpy:34
 translate turkish street_label_bb78052c:
 
     # ch_Name "Please bring this letter and any personal belongings..."
-    ch_Name ""
+    ch_Name "Lütfen bu mektup ve Cordale Yatakhanesine yerleşmek için ihtiyaç duyabileceğiniz..."
 
 # game/logic/locations/street.rpy:35
 translate turkish street_label_16f31a9e:
 
     # ch_Name "...you may need in order to settle down at the Cordale Dorm."
-    ch_Name ""
+    ch_Name "...kişisel eşyalarınızı yanınızda getiriniz."
 
 # game/logic/locations/street.rpy:37
 translate turkish street_label_9946de68:
 
     # ch_Name "{i}(The Academy of Magic and Wizardry? Ha ha, Sam. Very funny.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Büyü ve Büyücülük Akademisi mi ? Ha ha, Sam. Çok komikmiş.){/i}"
 
 # game/logic/locations/street.rpy:39
 translate turkish street_label_be50e466:
 
     # ch_Name "{i}(Enough is enough. She won't be the third person mocking me today.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Yeter artık. Bugün benimle dalga geçen üçüncü kişi o olmayacak.){/i}"
 
 # game/logic/locations/street.rpy:41
 translate turkish street_label_5d738915:
 
     # ch_Name "{i}(I'll tell her that straight to her face!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bunu gidip yüzüne karşı söyleyeceğim!){/i}"
 
