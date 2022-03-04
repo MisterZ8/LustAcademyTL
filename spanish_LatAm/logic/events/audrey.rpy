@@ -2375,2395 +2375,2449 @@ translate spanish_LatAm Audrey_7_label_from_gallery_141180f2:
 
     # Audrey "Few people can take their eyes off them."
     Audrey ""
+    Audrey "Pocas personas pueden quitar sus ojos de aquí."
 
 # game/logic/events/audrey.rpy:802
 translate spanish_LatAm Audrey_7_label_from_gallery_567aca63:
 
     # Audrey "You men are so predictable."
     Audrey ""
+    Audrey "Los hombres son tan predecibles."
 
 # game/logic/events/audrey.rpy:804
 translate spanish_LatAm Audrey_7_label_from_gallery_71e725b3:
 
     # Audrey "And so delicious!"
     Audrey ""
+    Audrey "¡Y tan deliciosos!"
 
 # game/logic/events/audrey.rpy:805
 translate spanish_LatAm Audrey_7_label_from_gallery_3d3d9240:
 
     # Audrey "But don't think I'm using you."
     Audrey ""
+    Audrey "Pero no creas que te estoy usando."
 
 # game/logic/events/audrey.rpy:807
 translate spanish_LatAm Audrey_7_label_from_gallery_5c18c493:
 
     # Audrey "My body craves a man's caress. "
     Audrey ""
+    Audrey "Mi cuerpo anhela las caricias de un hombre."
 
 # game/logic/events/audrey.rpy:808
 translate spanish_LatAm Audrey_7_label_from_gallery_2bbec341:
 
     # Audrey "Not just my breasts, but everything below is yours!"
     Audrey ""
+    Audrey "No sólo mis pechos, ¡Todo lo que está abajo es para ti!"
 
 # game/logic/events/audrey.rpy:810
 translate spanish_LatAm Audrey_7_label_from_gallery_9687281b:
 
     # ch_Name "Let's start with those beauties."
     ch_Name ""
+    ch_Name "Empecemos con estas bellezas."
 
 # game/logic/events/audrey.rpy:811
 translate spanish_LatAm Audrey_7_label_from_gallery_bedf9d5b:
 
     # Audrey "If that's what you want..."
     Audrey ""
+    Audrey "Si eso es lo que quieres..."
 
 # game/logic/events/audrey.rpy:812
 translate spanish_LatAm Audrey_7_label_from_gallery_d78ea350:
 
     # ch_Name "And then we'll think about everything else."
     ch_Name ""
+    ch_Name "Y luego pensaremos en todo lo demás."
 
 # game/logic/events/audrey.rpy:814
 translate spanish_LatAm Audrey_7_label_from_gallery_9d07a9c2:
 
     # Audrey "Oh my gosh..."
     Audrey ""
+    Audrey "O, por dios..."
 
 # game/logic/events/audrey.rpy:815
 translate spanish_LatAm Audrey_7_label_from_gallery_0de84302:
 
     # Audrey "Please, fuck me!"
     Audrey ""
+    Audrey "Por favor, ¡Cójeme!"
 
 # game/logic/events/audrey.rpy:827
 translate spanish_LatAm Audrey_7_label_from_gallery_50976375:
 
     # ch_Name "Not tonight. I have... I'm in the middle of something."
     ch_Name ""
+    ch_Name "Hoy no. Tengo que... Estoy en medio de algo."
 
 # game/logic/events/audrey.rpy:828
 translate spanish_LatAm Audrey_7_label_from_gallery_e8ea96c5:
 
     # Audrey "Are you kidding me?"
     Audrey ""
+    Audrey "¿Estás bromeando?"
 
 # game/logic/events/audrey.rpy:829
 translate spanish_LatAm Audrey_7_label_from_gallery_063d3d94:
 
     # Audrey "You think you can do that to a girl?"
     Audrey ""
+    Audrey "¿Crees que puedes hacerle eso a una chica?"
 
 # game/logic/events/audrey.rpy:831
 translate spanish_LatAm Audrey_7_label_from_gallery_5e328087:
 
     # Audrey "You're such an asshole!"
     Audrey ""
+    Audrey "¡Eres un idiota!"
 
 # game/logic/events/audrey.rpy:832
 translate spanish_LatAm Audrey_7_label_from_gallery_5ce2bcf8:
 
     # ch_Name "You don't seem like yourself today. I don't know what's going on."
     ch_Name ""
+    ch_Name "No pareces tú ahora mismo. No sé qué está pasando."
 
 # game/logic/events/audrey.rpy:833
 translate spanish_LatAm Audrey_7_label_from_gallery_b64773e2:
 
     # ch_Name "But it's weird and I don't want to take advantage."
     ch_Name ""
+    ch_Name "Pero es raro y no quiero aprovecharme."
 
 # game/logic/events/audrey.rpy:835
 translate spanish_LatAm Audrey_7_label_from_gallery_bd2a393d:
 
     # ch_Name "Good luck!"
     ch_Name ""
+    ch_Name "¡Buena suerte!"
 
 # game/logic/events/audrey.rpy:836
 translate spanish_LatAm Audrey_7_label_from_gallery_658894e7:
 
     # Audrey "This is bullshit! "
     Audrey ""
+    Audrey "¡Eso es una mierda!"
 
 # game/logic/events/audrey.rpy:837
 translate spanish_LatAm Audrey_7_label_from_gallery_e22a8be8_1:
 
     # Audrey "You think you can reject me? Alright!"
     Audrey ""
+    Audrey "¿Crees que puedes rechazarme? ¡Muy bien!"
 
 # game/logic/events/audrey.rpy:839
 translate spanish_LatAm Audrey_7_label_from_gallery_603b91ed_1:
 
     # Audrey "Get the fuck out of here, asshole!"
     Audrey ""
+    Audrey "¡Largo de aquí, imbécil!"
 
 # game/logic/events/audrey.rpy:851
 translate spanish_LatAm Audrey_7_label_end_f9a5a115:
 
     # ch_Name "{i}(Shit! I can't believe she kicked me out.){/i}"
     ch_Name ""
+    ch_Name "{i}(¡Mierda! No puedo creer que me haya echado.){/i}"
 
 # game/logic/events/audrey.rpy:852
 translate spanish_LatAm Audrey_7_label_end_d1874054:
 
     # ch_Name "{i}(And why would I not cum for so long?){/i}"
     ch_Name ""
+    ch_Name "{i}(¿Y por qué no me vine en tanto tiempo?){/i}"
 
 # game/logic/events/audrey.rpy:853
 translate spanish_LatAm Audrey_7_label_end_e3f61e28:
 
     # ch_Name "{i}(Has she drained all my manhood away?){/i}"
     ch_Name ""
+    ch_Name "{i}(¿Me habrá drenado toda mi hombría?){/i}"
 
 # game/logic/events/audrey.rpy:854
 translate spanish_LatAm Audrey_7_label_end_17f44db7:
 
     # ch_Name "{i}(Those fucking succubus.){/i}"
     ch_Name ""
+    ch_Name "{i}(Esos putos súcubos.){/i}"
 
 # game/logic/events/audrey.rpy:855
 translate spanish_LatAm Audrey_7_label_end_01d660c8:
 
     # ch_Name "{i}(I need to think of a way to protect myself from getting too tired next time.){/i}"
     ch_Name ""
+    ch_Name "{i}(Debo pensar en una manera de protegerme de cansarme demasiado la próxima vez.){/i}"
 
 # game/logic/events/audrey.rpy:856
 translate spanish_LatAm Audrey_7_label_end_dcdf3295:
 
     # ch_Name "{i}(But first, I'll get some sleep...){/i}"
     ch_Name ""
+    ch_Name "{i}(Pero primero, iré a dormir...){/i}"
 
 # game/logic/events/audrey.rpy:862
 translate spanish_LatAm Audrey_7_girl_89496002:
 
     # ch_Name "Of course, I do! What kind of question is that?"
     ch_Name ""
+    ch_Name "¡Claro que quiero! ¡¿Qué clase de pregunta es ésa?!"
 
 # game/logic/events/audrey.rpy:864
 translate spanish_LatAm Audrey_7_girl_d6cfa68b:
 
     # Audrey "I'm not wrong about you, [Name]."
     Audrey ""
+    Audrey "No me equivocaba sobre ti, [Name]."
 
 # game/logic/events/audrey.rpy:865
 translate spanish_LatAm Audrey_7_girl_f39720f7:
 
     # ch_Name "{i}(She's really doing it...){/i}"
     ch_Name ""
+    ch_Name "{i}(De verdad lo está haciendo...){/i}"
 
 # game/logic/events/audrey.rpy:867
 translate spanish_LatAm Audrey_7_girl_188c5931:
 
-    # ch_Name "{i}(What a cute view...){/i}"
+    # ch_Name "{i}(What a cute intimate haircut...){/i}"
     ch_Name ""
+    ch_Name "{i}(Qué lindo corte íntimo...){/i}"
 
 # game/logic/events/audrey.rpy:868
 translate spanish_LatAm Audrey_7_girl_1ab6616d:
 
     # Audrey "Do you realize how lucky you are?"
     Audrey ""
+    Audrey "¿Te das cuenta de cuánta suerte tienes?"
 
 # game/logic/events/audrey.rpy:870
 translate spanish_LatAm Audrey_7_girl_185539e3:
 
     # ch_Name "How?"
     ch_Name ""
+    ch_Name "¿Cuánta?"
 
 # game/logic/events/audrey.rpy:871
 translate spanish_LatAm Audrey_7_girl_19ffe066:
 
     # Audrey "Someone like you to get me..."
     Audrey ""
+    Audrey "Alguien como tú me tiene..."
 
 # game/logic/events/audrey.rpy:873
 translate spanish_LatAm Audrey_7_girl_f8a399ff:
 
     # Audrey "Think of it as winning the lottery."
     Audrey ""
+    Audrey "Piénsalo como ganar la lotería."
 
 # game/logic/events/audrey.rpy:874
 translate spanish_LatAm Audrey_7_girl_4170760f:
 
     # Audrey "Like..."
     Audrey ""
+    Audrey "Como..."
 
 # game/logic/events/audrey.rpy:875
 translate spanish_LatAm Audrey_7_girl_db9344c9:
 
     # Audrey "Do you like your prize?"
     Audrey ""
+    Audrey "¿Te gusta tu premio?"
 
 # game/logic/events/audrey.rpy:877
 translate spanish_LatAm Audrey_7_girl_9f3e6d4a:
 
     # Audrey "Although I can see that I do."
     Audrey ""
+    Audrey "Aunque puedo ver que yo sí."
 
 # game/logic/events/audrey.rpy:879
 translate spanish_LatAm Audrey_7_girl_a734a048:
-
-    # ch_Name "Oh, Audrey..."
-    ch_Name ""
-
-# game/logic/events/audrey.rpy:880
+@ -2608,91 +2608,91 @@ translate spanish_LatAm Audrey_7_girl_a734a048:
 translate spanish_LatAm Audrey_7_girl_b64e3a96:
 
     # ch_Name "I can't take my eyes off you. Of course, you do..."
     ch_Name ""
+    ch_Name "No puedo quitar mis ojos de ti. Claro que..."
 
 # game/logic/events/audrey.rpy:882
 translate spanish_LatAm Audrey_7_girl_f8b1589a:
 
     # ch_Name "I don't know why, but I'm getting pretty tired."
     ch_Name ""
+    ch_Name "No sé por qué, pero estoy muy cansado."
 
 # game/logic/events/audrey.rpy:883
 translate spanish_LatAm Audrey_7_girl_4e54cd43:
 
     # ch_Name "And I feel like the room's a little blurry in front of my eyes."
     ch_Name ""
+    ch_Name "Y siento como si la habitación estuviera un poco borrosa frente a mis ojos."
 
 # game/logic/events/audrey.rpy:884
 translate spanish_LatAm Audrey_7_girl_2858ef0c:
 
     # Audrey "Relax, it'll pass."
     Audrey ""
+    Audrey "Tranquilo, ya pasará."
 
 # game/logic/events/audrey.rpy:886
 translate spanish_LatAm Audrey_7_girl_ecc5ccf0:
 
     # Audrey "It's just a little stuffy in here."
     Audrey ""
+    Audrey "Sólo está muy pesado el lugar."
 
 # game/logic/events/audrey.rpy:887
 translate spanish_LatAm Audrey_7_girl_0f7c4027:
 
     # Audrey "Hurry up and take your shirt off so you feel better."
     Audrey ""
+    Audrey "Apúrate y quítate la camisa para que te sientas mejor."
 
 # game/logic/events/audrey.rpy:888
 translate spanish_LatAm Audrey_7_girl_602b4416:
 
     # Audrey "And let's get down to business!"
     Audrey ""
+    Audrey "¡Y vayamos a lo bueno!"
 
 # game/logic/events/audrey.rpy:894
 translate spanish_LatAm Audrey_7_girl_7db41b82:
 
     # Audrey "Come here, handsome."
     Audrey ""
+    Audrey "Ven aquí, guapo."
 
 # game/logic/events/audrey.rpy:895
 translate spanish_LatAm Audrey_7_girl_859b023a:
 
     # Audrey "I miss the warmth of your arms..."
     Audrey ""
+    Audrey "Extraño el calor de tus brazos..."
 
 # game/logic/events/audrey.rpy:896
 translate spanish_LatAm Audrey_7_girl_531bb326:
 
     # ch_Name "{i}(What a strange thing she's doing...){/i}"
     ch_Name ""
+    ch_Name "{i}(Qué cosa tan rara está haciendo...){/i}"
 
 # game/logic/events/audrey.rpy:898
 translate spanish_LatAm Audrey_7_girl_4a68296c:
 
     # ch_Name "{i}(It's like she's instinctively trying her best to lure me into bed.){/i}"
     ch_Name ""
+    ch_Name "{i}(Es como si estuviera intentando lo mejor para atraerme a la cama.){/i}"
 
 # game/logic/events/audrey.rpy:899
 translate spanish_LatAm Audrey_7_girl_f5666163:
 
     # ch_Name "{i}(Am I really that attractive?){/i}"
     ch_Name ""
+    ch_Name "{i}(¿De verdad soy tan atractivo?){/i}"
 
 # game/logic/events/audrey.rpy:900
 translate spanish_LatAm Audrey_7_girl_91877ef5:
 
     # ch_Name "{i}(The last time I had this kind of excitement around me was when I played sports.){/i}"
     ch_Name ""
+    ch_Name "{i}(La última vez que me sentí tan emocionado fue cuando jugaba deportes.){/i}"
 
 # game/logic/events/audrey.rpy:902
 translate spanish_LatAm Audrey_7_girl_5a8290a3:
 
     # Audrey "What are you standing there for?"
     Audrey ""
+    Audrey "¿A qué estás esperando?"
 
 # game/logic/events/audrey.rpy:903
 translate spanish_LatAm Audrey_7_girl_483401e0:
 
     # Audrey "You do realize this is the happiest moment of your life, right?"
     Audrey ""
+    Audrey "Te das cuenta de que es el día más feliz de tu vida, ¿Verdad?"
 
 # game/logic/events/audrey.rpy:904
 translate spanish_LatAm Audrey_7_girl_027b1c56:
-
-    # ch_Name "..."
-    ch_Name ""
-
-# game/logic/events/audrey.rpy:906
+@ -2704,163 +2704,163 @@ translate spanish_LatAm Audrey_7_girl_027b1c56:
 translate spanish_LatAm Audrey_7_girl_4a41b0d1:
 
     # ch_Name "You're right."
     ch_Name ""
+    ch_Name "Tienes razón."
 
 # game/logic/events/audrey.rpy:907
 translate spanish_LatAm Audrey_7_girl_a054e13f:
 
     # ch_Name "All this talking around the bush is gonna make my dick fall off."
     ch_Name ""
+    ch_Name "Toda esta plática va a hacer que pierda mi erección."
 
 # game/logic/events/audrey.rpy:908
 translate spanish_LatAm Audrey_7_girl_c90a8ee7:
 
     # ch_Name "It's time to get down to business."
     ch_Name ""
+    ch_Name "Es hora de ir a lo bueno."
 
 # game/logic/events/audrey.rpy:910
 translate spanish_LatAm Audrey_7_girl_fccecc40:
 
     # Audrey "Yeah, I didn't think you'd be that easy to get."
     Audrey ""
+    Audrey "Sí, no creo que seas tan fácil de excitar."
 
 # game/logic/events/audrey.rpy:911
 translate spanish_LatAm Audrey_7_girl_3f08abbc:
 
     # Audrey "Come here!"
     Audrey ""
+    Audrey "¡Ven aquí!"
 
 # game/logic/events/audrey.rpy:912
 translate spanish_LatAm Audrey_7_girl_43819a01:
 
     # Audrey "I don't want to see such a beautiful boner go to waste."
     Audrey ""
+    Audrey "No quiero que una erección tan hermosa se desperdicie."
 
 # game/logic/events/audrey.rpy:914
 translate spanish_LatAm Audrey_7_girl_aad58497:
 
     # Audrey "Welcome, my hero. Come into me!"
     Audrey ""
+    Audrey "Bienvenido, mi héroe. ¡Ven hacia mí!"
 
 # game/logic/events/audrey.rpy:915
 translate spanish_LatAm Audrey_7_girl_b62e5672:
 
     # ch_Name "{i}(There she is. Daring and stern Audrey, spreading her legs and begging me to come in.){/i}"
     ch_Name ""
+    ch_Name "{i}(Y ahí va. La tierna y dulce Audrey, abriendo sus piernas y rogándome por que entre en ella.){/i}"
 
 # game/logic/events/audrey.rpy:916
 translate spanish_LatAm Audrey_7_girl_dea75e42:
 
     # ch_Name "I'm coming..."
     ch_Name ""
+    ch_Name "Voy entrando..."
 
 # game/logic/events/audrey.rpy:918
 translate spanish_LatAm Audrey_7_girl_e1e37224:
 
     # ch_Name "{i}(Her body is all tense and her pelvis is trembling with lust.){/i}"
     ch_Name ""
+    ch_Name "{i}(Su cuerpo está todo tenso, y su pelvis tiembla con deseo.){/i}"
 
 # game/logic/events/audrey.rpy:919
 translate spanish_LatAm Audrey_7_girl_c8d88e70:
 
     # ch_Name "{i}(You can feel her longing for it. Why am I so tired?){/i}"
     ch_Name ""
+    ch_Name "{i}(Puedes sentirla anhelándolo. ¿Por qué estoy tan cansado?){/i}"
 
 # game/logic/events/audrey.rpy:920
 translate spanish_LatAm Audrey_7_girl_0288f3d6:
 
     # ch_Name "{i}(Okay. Get it together, [Name]. We can't be dirty.){/i}"
     ch_Name ""
+    ch_Name "{i}(Muy bien. Compórtate, [Name], No podemos ser tan sucios.){/i}"
 
 # game/logic/events/audrey.rpy:922
 translate spanish_LatAm Audrey_7_girl_d82175e4:
 
     # ch_Name "So, are you ready?"
     ch_Name ""
+    ch_Name "¿Entonces, estás lista?"
 
 # game/logic/events/audrey.rpy:923
 translate spanish_LatAm Audrey_7_girl_9a7f7bbe:
 
     # Audrey "I've been ready for a long time, asshole... Don't keep me in suspense!"
     Audrey ""
+    Audrey "He estado lista por mucho tiempo, idiota... ¡No me dejes en suspenso!"
 
 # game/logic/events/audrey.rpy:924
 translate spanish_LatAm Audrey_7_girl_308fdf25:
 
     # ch_Name "What are you ready for? I don't know."
     ch_Name ""
+    ch_Name "¿Para qué estás lista? Es que no lo sé."
 
 # game/logic/events/audrey.rpy:926
 translate spanish_LatAm Audrey_7_girl_50032f6b:
 
     # ch_Name "Ask me properly."
     ch_Name ""
+    ch_Name "Pídemelo apropiadamente."
 
 # game/logic/events/audrey.rpy:927
 translate spanish_LatAm Audrey_7_girl_d15ab4ed:
 
     # Audrey "Fuck you... Fuck me like you've never fucked anyone before!"
     Audrey ""
+    Audrey "Jódete... ¡Cógeme como nunca has cogido a nadie jamás!"
 
 # game/logic/events/audrey.rpy:929
 translate spanish_LatAm Audrey_7_girl_1b12de55:
 
     # Audrey "OHH!" with vpunch
     Audrey "" with vpunch
+    Audrey "¡OHH!" with vpunch
 
 # game/logic/events/audrey.rpy:930
 translate spanish_LatAm Audrey_7_girl_0f274ba8:
 
     # Audrey "Oh, yeah... It's so fleshy..."
     Audrey ""
+    Audrey "Oh, sí... Es tan delicioso..."
 
 # game/logic/events/audrey.rpy:932
 translate spanish_LatAm Audrey_7_girl_ed9d995d:
 
     # ch_Name "You like that?"
     ch_Name ""
+    ch_Name "¿Te gusta?"
 
 # game/logic/events/audrey.rpy:933
 translate spanish_LatAm Audrey_7_girl_ec345f17:
 
     # Audrey "You bet I do. My hole is stretched to the limit."
     Audrey ""
+    Audrey "Tú apuesta que sí. Estoy abierta hasta el límite."
 
 # game/logic/events/audrey.rpy:935
 translate spanish_LatAm Audrey_7_girl_ee380a8c:
 
     # ch_Name "Oh, baby..."
     ch_Name ""
+    ch_Name "Oh, nena..."
 
 # game/logic/events/audrey.rpy:936
 translate spanish_LatAm Audrey_7_girl_2ad5adec:
 
     # ch_Name "Every inch of your body turns me on."
     ch_Name ""
+    ch_Name "Cada centímetro de tu cuerpo me excita."
 
 # game/logic/events/audrey.rpy:937
 translate spanish_LatAm Audrey_7_girl_abcac4b5:
 
     # Audrey "Please, go deeper..."
     Audrey ""
+    Audrey "Por favor, ve más profundo..."
 
 # game/logic/events/audrey.rpy:939
 translate spanish_LatAm Audrey_7_girl_03d46cd7:
 
     # ch_Name "{i}(She's so slutty... I like that.){/i}"
     ch_Name ""
+    ch_Name "{i}(Es tan traviesa... Me gusta.){/i}"
 
 # game/logic/events/audrey.rpy:941
 translate spanish_LatAm Audrey_7_girl_8a0b8f7a:
 
     # ch_Name "{i}(I won't keep the lady waiting!){/i}"
     ch_Name ""
+    ch_Name "{i}(¡No dejaré a la dama esperando!){/i}"
 
 # game/logic/events/audrey.rpy:942
 translate spanish_LatAm Audrey_7_girl_fe177997:
 
     # Audrey "Ah! Oh yes!"
     Audrey ""
+    Audrey "¡Ah! ¡Oh, sí!"
 
 # game/logic/events/audrey.rpy:943
 translate spanish_LatAm Audrey_7_girl_35c6cc19:
-
-    # Audrey "Oh... ah... uhm...."
-    Audrey ""
-
-# game/logic/events/audrey.rpy:944
-translate spanish_LatAm Audrey_7_girl_fc11be4e:
-
-    # Audrey "Mmm..."
-    Audrey ""
-
-# game/logic/events/audrey.rpy:946
+@ -2878,7 +2878,7 @@ translate spanish_LatAm Audrey_7_girl_fc11be4e:
 translate spanish_LatAm Audrey_7_girl_1015ca8d:
 
     # Audrey "Yes..."
     Audrey ""
+    Audrey "Sí..."
 
 # game/logic/events/audrey.rpy:947
 translate spanish_LatAm Audrey_7_girl_fac02ba5:
-
-    # ch_Name "Mhm..."
-    ch_Name ""
-
-# game/logic/events/audrey.rpy:948
+@ -2890,13 +2890,13 @@ translate spanish_LatAm Audrey_7_girl_fac02ba5:
 translate spanish_LatAm Audrey_7_girl_fb7496e4:
 
     # Audrey "Oh yeah... That's it!"
     Audrey ""
+    Audrey "Oh, sí... ¡Justo así!"
 
 # game/logic/events/audrey.rpy:949
 translate spanish_LatAm Audrey_7_girl_818c76d3:
 
     # ch_Name "{i}(She seemed desperate for a good fuck.){/i}"
     ch_Name ""
+    ch_Name "{i}(Parecía desesperada por una buena cogida.){/i}"
 
 # game/logic/events/audrey.rpy:951
 translate spanish_LatAm Audrey_7_girl_4ee2d01e:
-
-    # Audrey "Mhm..."
-    Audrey ""
-
-# game/logic/events/audrey.rpy:952
+@ -2908,7 +2908,7 @@ translate spanish_LatAm Audrey_7_girl_4ee2d01e:
 translate spanish_LatAm Audrey_7_girl_41f318bf:
 
     # Audrey "That's it... Just like that!"
     Audrey ""
+    Audrey "Así... ¡Justo así!"
 
 # game/logic/events/audrey.rpy:953
 translate spanish_LatAm Audrey_7_girl_3b476c8d:
-
-    # Audrey "Oh... ah... uhm..."
-    Audrey ""
-
-# game/logic/events/audrey.rpy:954
-translate spanish_LatAm Audrey_7_girl_fac02ba5_1:
-
-    # ch_Name "Mhm..."
-    ch_Name ""
-
-# game/logic/events/audrey.rpy:956
-translate spanish_LatAm Audrey_7_girl_eaa9ce6d:
-
-    # Audrey "Mmmm..."
-    Audrey ""
-
-# game/logic/events/audrey.rpy:957
-translate spanish_LatAm Audrey_7_girl_0ae9bcd0:
-
-    # ""
-    ""
-
-# game/logic/events/audrey.rpy:958
+@ -2938,7 +2938,7 @@ translate spanish_LatAm Audrey_7_girl_0ae9bcd0:
 translate spanish_LatAm Audrey_7_girl_730cfb2c:
 
     # Audrey "So...{w} Good..."
     Audrey ""
+    Audrey "Tan...{w} Bueno..."
 
 # game/logic/events/audrey.rpy:959
 translate spanish_LatAm Audrey_7_girl_4ee2d01e_1:
-
-    # Audrey "Mhm..."
-    Audrey ""
-
-# game/logic/events/audrey.rpy:960
+@ -2950,133 +2950,133 @@ translate spanish_LatAm Audrey_7_girl_4ee2d01e_1:
 translate spanish_LatAm Audrey_7_girl_ec324688:
 
     # ch_Name "{i}(It feels like we're gucking for ages now.){/i}"
     ch_Name ""
+    ch_Name "{i}(Se siente como que llevamos haciendo esto por años.){/i}"
 
 # game/logic/events/audrey.rpy:962
 translate spanish_LatAm Audrey_7_girl_9eb15a47:
 
     # ch_Name "{i}(Something's starting to make me more queasy... Shit.){/i}"
     ch_Name ""
+    ch_Name "{i}(Algo está empezando a marearme aún más... Mierda.){/i}"
 
 # game/logic/events/audrey.rpy:963
 translate spanish_LatAm Audrey_7_girl_bce11716:
 
     # ch_Name "{i}(It's hard to concentrate on sex.){/i}"
     ch_Name ""
+    ch_Name "{i}(Es difícil concentrarse en el sexo.){/i}"
 
 # game/logic/events/audrey.rpy:964
 translate spanish_LatAm Audrey_7_girl_1c13f9c8:
 
     # Audrey "Would you like to change positions?"
     Audrey ""
+    Audrey "¿Te gustaría cambiar de posición?"
 
 # game/logic/events/audrey.rpy:965
 translate spanish_LatAm Audrey_7_girl_c9cfd758:
 
     # Audrey "For a change."
     Audrey ""
+    Audrey "Para variar."
 
 # game/logic/events/audrey.rpy:967
 translate spanish_LatAm Audrey_7_girl_5f78a841:
 
     # ch_Name "Phew... Well, I could."
     ch_Name ""
+    ch_Name "Fiu... Bueno, podría."
 
 # game/logic/events/audrey.rpy:968
 translate spanish_LatAm Audrey_7_girl_9776e8e2:
 
     # ch_Name "Despite my slight fatigue, I'm ready to continue."
     ch_Name ""
+    ch_Name "A pesar de mi ligero cansancio. Estoy listo para seguir."
 
 # game/logic/events/audrey.rpy:969
 translate spanish_LatAm Audrey_7_girl_76f967f4:
 
     # ch_Name "{i}(Maybe it would be easier if I lay down.){/i}"
     ch_Name ""
+    ch_Name "{i}(Tal vez sea más fácil si me acuesto.){/i}"
 
 # game/logic/events/audrey.rpy:971
 translate spanish_LatAm Audrey_7_girl_7289e44c:
 
     # Audrey "You look a little frail. Will your boner hold up?"
     Audrey ""
+    Audrey "TE ves un poco frágil. ¿Tu erección se mantendrá?"
 
 # game/logic/events/audrey.rpy:972
 translate spanish_LatAm Audrey_7_girl_131ab1d2:
 
     # ch_Name "Of course, it will."
     ch_Name ""
+    ch_Name "Claro que lo hará."
 
 # game/logic/events/audrey.rpy:973
 translate spanish_LatAm Audrey_7_girl_6cb9f122:
 
     # ch_Name "Lie on your side, with your back to me."
     ch_Name ""
+    ch_Name "Acuéstate al lado, con tu espalda hacia mí."
 
 # game/logic/events/audrey.rpy:975
 translate spanish_LatAm Audrey_7_girl_dca7d3e3:
 
     # Audrey "Oh, you're taking the reins?"
     Audrey ""
+    Audrey "Oh, ¿Estás tomando las riendas?"
 
 # game/logic/events/audrey.rpy:976
 translate spanish_LatAm Audrey_7_girl_2c88481a:
 
     # Audrey "I like that."
     Audrey ""
+    Audrey "Me gusta eso."
 
 # game/logic/events/audrey.rpy:977
 translate spanish_LatAm Audrey_7_girl_de2d39c7:
 
     # Audrey "I love a man with balls."
     Audrey ""
+    Audrey "Me encantan los hombres con huevos."
 
 # game/logic/events/audrey.rpy:983
 translate spanish_LatAm Audrey_7_girl_a10d7e24:
 
     # Audrey "Wait, not so fast..."
     Audrey ""
+    Audrey "Espera, no tan rápido..."
 
 # game/logic/events/audrey.rpy:984
 translate spanish_LatAm Audrey_7_girl_e69908d2:
 
     # Audrey "Don't come in."
     Audrey ""
+    Audrey "No entres."
 
 # game/logic/events/audrey.rpy:986
 translate spanish_LatAm Audrey_7_girl_f113a10a:
 
     # ch_Name "Are you sure?"
     ch_Name ""
+    ch_Name "¿Segura?"
 
 # game/logic/events/audrey.rpy:987
 translate spanish_LatAm Audrey_7_girl_4eb4af5b:
 
     # ch_Name "Did something happen?"
     ch_Name ""
+    ch_Name "¿Pasó algo?"
 
 # game/logic/events/audrey.rpy:989
 translate spanish_LatAm Audrey_7_girl_016520b8:
 
     # Audrey "No, everything's fine."
     Audrey ""
+    Audrey "No, todo está bien."
 
 # game/logic/events/audrey.rpy:990
 translate spanish_LatAm Audrey_7_girl_59f115c4:
 
     # Audrey "I want to look into your eyes when you come in."
     Audrey ""
+    Audrey "Quiero mirarte a los ojos cuando entres en mí."
 
 # game/logic/events/audrey.rpy:991
 translate spanish_LatAm Audrey_7_girl_96d504cd:
 
     # ch_Name "{i}(Strangely, that sounds too romantic for Audrey...){/i}"
     ch_Name ""
+    ch_Name "{i}(Qué raro, suena muy romántico para ser Audrey...){/i}"
 
 # game/logic/events/audrey.rpy:993
 translate spanish_LatAm Audrey_7_girl_f9cb4485:
 
     # ch_Name "{i}(But I kind of like it...){/i}"
     ch_Name ""
+    ch_Name "{i}(Aún así me gusta...){/i}"
 
 # game/logic/events/audrey.rpy:994
 translate spanish_LatAm Audrey_7_girl_a734a048_1:
-
-    # ch_Name "Oh, Audrey..."
-    ch_Name ""
-
-# game/logic/events/audrey.rpy:996
-translate spanish_LatAm Audrey_7_girl_fac02ba5_2:
-
-    # ch_Name "Mhm..."
-    ch_Name ""
-
-# game/logic/events/audrey.rpy:997
-translate spanish_LatAm Audrey_7_girl_eaa9ce6d_1:
-
-    # Audrey "Mmmm..."
-    Audrey ""
-
-# game/logic/events/audrey.rpy:999
+@ -3100,7 +3100,7 @@ translate spanish_LatAm Audrey_7_girl_eaa9ce6d_1:
 translate spanish_LatAm Audrey_7_girl_357b353a:
 
     # Audrey "Now just breathe..."
     Audrey ""
+    Audrey "Ahora respira..."
 
 # game/logic/events/audrey.rpy:1000
 translate spanish_LatAm Audrey_7_girl_8c41bb6f:
-
-    # ch_Name "Ah..."
-    ch_Name ""
-
-# game/logic/events/audrey.rpy:1002
+@ -3112,13 +3112,13 @@ translate spanish_LatAm Audrey_7_girl_8c41bb6f:
 translate spanish_LatAm Audrey_7_girl_caa8bb33:
 
     # ch_Name "{i}(It's happening again...){/i}"
     ch_Name ""
+    ch_Name "{i}(Está ocurriendo otra vez...){/i}"
 
 # game/logic/events/audrey.rpy:1003
 translate spanish_LatAm Audrey_7_girl_663cbcac:
 
     # ch_Name "(It's like she's feeding off my magical powers.)"
     ch_Name ""
+    ch_Name "(Es como si se estuviera comiendo mis poderes mágicos.)"
 
 # game/logic/events/audrey.rpy:1004
 translate spanish_LatAm Audrey_7_girl_0ae9bcd0_1:
-
-    # ""
-    ""
-
-# game/logic/events/audrey.rpy:1006
+@ -3130,91 +3130,91 @@ translate spanish_LatAm Audrey_7_girl_0ae9bcd0_1:
 translate spanish_LatAm Audrey_7_girl_f7b5d1df:
 
     # Audrey "Are you ready to get your huge cock back in my hole?"
     Audrey ""
+    Audrey "¿Estás listo para meter tu enorme verga en mí?"
 
 # game/logic/events/audrey.rpy:1007
 translate spanish_LatAm Audrey_7_girl_6acac6e1:
 
     # ch_Name "Oh... I guess..."
     ch_Name ""
+    ch_Name "Oh... Supongo que sí..."
 
 # game/logic/events/audrey.rpy:1008
 translate spanish_LatAm Audrey_7_girl_fb9810e8:
 
     # ch_Name "I'm not sure."
     ch_Name ""
+    ch_Name "No estoy seguro."
 
 # game/logic/events/audrey.rpy:1010
 translate spanish_LatAm Audrey_7_girl_606788c1:
 
     # ch_Name "What was that all about?"
     ch_Name ""
+    ch_Name "¿Qué fue todo eso?"
 
 # game/logic/events/audrey.rpy:1011
 translate spanish_LatAm Audrey_7_girl_757a49a6:
 
     # ch_Name "My head is spinning..."
     ch_Name ""
+    ch_Name "Mi cabeza está dando vueltas..."
 
 # game/logic/events/audrey.rpy:1012
 translate spanish_LatAm Audrey_7_girl_b385b852:
 
     # Audrey "Hey!"
     Audrey ""
+    Audrey "¡Oye!"
 
 # game/logic/events/audrey.rpy:1014
 translate spanish_LatAm Audrey_7_girl_73b628b1:
 
     # Audrey "Stop whining and asking questions, okay?"
     Audrey ""
+    Audrey "Deja de gimotear y de hacer preguntas, ¿De acuerdo?"
 
 # game/logic/events/audrey.rpy:1015
 translate spanish_LatAm Audrey_7_girl_4e9c49a7:
 
     # Audrey "You know what I want you to do!"
     Audrey ""
+    Audrey "¡Sabes lo que quiero que hagas!"
 
 # game/logic/events/audrey.rpy:1016
 translate spanish_LatAm Audrey_7_girl_8bacebb2:
 
     # Audrey "FUCK ME."
     Audrey ""
+    Audrey "CÓGEME."
 
 # game/logic/events/audrey.rpy:1018
 translate spanish_LatAm Audrey_7_girl_6d8e0e82:
 
     # ch_Name "Oh... All right."
     ch_Name ""
+    ch_Name "Oh... Muy bien."
 
 # game/logic/events/audrey.rpy:1019
 translate spanish_LatAm Audrey_7_girl_48dfd8d1:
 
     # ch_Name "How can I refuse such a request?"
     ch_Name ""
+    ch_Name "¿Cómo podría rechazar esa petición?"
 
 # game/logic/events/audrey.rpy:1021
 translate spanish_LatAm Audrey_7_girl_11a1ab31:
 
     # Audrey "That's better!"
     Audrey ""
+    Audrey "¡Así está mejor!"
 
 # game/logic/events/audrey.rpy:1022
 translate spanish_LatAm Audrey_7_girl_8df623f8:
 
     # Audrey "Oh yeah..."
     Audrey ""
+    Audrey "Oh, sí..."
 
 # game/logic/events/audrey.rpy:1024
 translate spanish_LatAm Audrey_7_girl_91d2e4e2:
 
     # ch_Name "{i}(I have to ignore the dizziness... It's too nice to stop.){/i}"
     ch_Name ""
+    ch_Name "{i}(Debo ignorar el cansancio... Esto es muy bueno para parar.){/i}"
 
 # game/logic/events/audrey.rpy:1026
 translate spanish_LatAm Audrey_7_girl_ce804928:
 
     # ch_Name "Here I go!"
     ch_Name ""
+    ch_Name "¡Aquí voy!"
 
 # game/logic/events/audrey.rpy:1027
 translate spanish_LatAm Audrey_7_girl_fac02ba5_3:
-
-    # ch_Name "Mhm..."
-    ch_Name ""
-
-# game/logic/events/audrey.rpy:1028
-translate spanish_LatAm Audrey_7_girl_3b476c8d_1:
-
-    # Audrey "Oh... ah... uhm..."
-    Audrey ""
-
-# game/logic/events/audrey.rpy:1029
-translate spanish_LatAm Audrey_7_girl_fac02ba5_4:
-
-    # ch_Name "Mhm..."
-    ch_Name ""
-
-# game/logic/events/audrey.rpy:1031
+@ -3238,19 +3238,19 @@ translate spanish_LatAm Audrey_7_girl_fac02ba5_4:
 translate spanish_LatAm Audrey_7_girl_a41ea034:
 
     # ch_Name "{i}(I can feel the pleasure ripple through her body.){/i}"
     ch_Name ""
+    ch_Name "{i}(Puedo sentir el placer recorrer todo su cuerpo.){/i}"
 
 # game/logic/events/audrey.rpy:1032
 translate spanish_LatAm Audrey_7_girl_be588d4a:
 
     # Audrey "Yes! Just like that!"
     Audrey ""
+    Audrey "¡Sí! ¡Justo así!"
 
 # game/logic/events/audrey.rpy:1033
 translate spanish_LatAm Audrey_7_girl_730cfb2c_1:
 
     # Audrey "So...{w} Good..."
     Audrey ""
+    Audrey "Es tan...{w} Bueno..."
 
 # game/logic/events/audrey.rpy:1034
 translate spanish_LatAm Audrey_7_girl_4ee2d01e_2:
-
-    # Audrey "Mhm..."
-    Audrey ""
-
-# game/logic/events/audrey.rpy:1036
+@ -3262,13 +3262,13 @@ translate spanish_LatAm Audrey_7_girl_4ee2d01e_2:
 translate spanish_LatAm Audrey_7_girl_3023ca42:
 
     # Audrey "Don't stop! Fuck me harder!"
     Audrey ""
+    Audrey "¡No pares! ¡Dame más fuerte!"
 
 # game/logic/events/audrey.rpy:1037
 translate spanish_LatAm Audrey_7_girl_ce96d05e:
 
     # Audrey "Oh... Yes... That's it!"
     Audrey ""
+    Audrey "Oh... Sí... ¡Sigue así!"
 
 # game/logic/events/audrey.rpy:1038
 translate spanish_LatAm Audrey_7_girl_3b476c8d_2:
-
-    # Audrey "Oh... ah... uhm..."
-    Audrey ""
-
-# game/logic/events/audrey.rpy:1039
-translate spanish_LatAm Audrey_7_girl_fac02ba5_5:
-
-    # ch_Name "Mhm..."
-    ch_Name ""
-
-# game/logic/events/audrey.rpy:1041
+@ -3286,7 +3286,7 @@ translate spanish_LatAm Audrey_7_girl_fac02ba5_5:
 translate spanish_LatAm Audrey_7_girl_78c2e269:
 
     # Audrey "Your cock fills me completely... It feels so good..."
     Audrey ""
+    Audrey "Tu pene me llena completamente... Se siente tan bien..."
 
 # game/logic/events/audrey.rpy:1042
 translate spanish_LatAm Audrey_7_girl_fac02ba5_6:
-
-    # ch_Name "Mhm..."
-    ch_Name ""
-
-# game/logic/events/audrey.rpy:1043
-translate spanish_LatAm Audrey_7_girl_2d5b0d4b:
-
-    # Audrey "Oh... ahh... uhm..."
-    Audrey ""
-
-# game/logic/events/audrey.rpy:1044
+@ -3304,13 +3304,13 @@ translate spanish_LatAm Audrey_7_girl_2d5b0d4b:
 translate spanish_LatAm Audrey_7_girl_0ca82cfb:
 
     # Audrey "I'm about to have an orgasm..."
     Audrey ""
+    Audrey "Creo que me voy a venir..."
 
 # game/logic/events/audrey.rpy:1046
 translate spanish_LatAm Audrey_7_girl_2183b87b:
 
     # ch_Name "{i}(I can do this!){/i}"
     ch_Name ""
+    ch_Name "{i}(¡Puedo hacerlo!){/i}"
 
 # game/logic/events/audrey.rpy:1047
 translate spanish_LatAm Audrey_7_girl_08cecdb3:
-
-    # Audrey "Ah... Ah-h... A-H-H!"
-    Audrey ""
-
-# game/logic/events/audrey.rpy:1048
+@ -3322,7 +3322,7 @@ translate spanish_LatAm Audrey_7_girl_08cecdb3:
 translate spanish_LatAm Audrey_7_girl_eff5249f:
 
     # Audrey "I'm almost there..."
     Audrey ""
+    Audrey "Ya casi..."
 
 # game/logic/events/audrey.rpy:1050
 translate spanish_LatAm Audrey_7_girl_949a8990:
-
-    # Audrey "Oh..."
-    Audrey ""
-
-# game/logic/events/audrey.rpy:1051
+@ -3334,37 +3334,37 @@ translate spanish_LatAm Audrey_7_girl_949a8990:
 translate spanish_LatAm Audrey_7_girl_ce96d05e_1:
 
     # Audrey "Oh... Yes... That's it!"
     Audrey ""
+    Audrey "Oh... Sí... ¡Eso es!"
 
 # game/logic/events/audrey.rpy:1052
 translate spanish_LatAm Audrey_7_girl_3dc1413f:
 
     # Audrey "I'm done..."
     Audrey ""
+    Audrey "Terminé..."
 
 # game/logic/events/audrey.rpy:1054
 translate spanish_LatAm Audrey_7_girl_919fd414:
 
     # Audrey "That was incredible!"
     Audrey ""
+    Audrey "¡Eso fue increíble!"
 
 # game/logic/events/audrey.rpy:1055
 translate spanish_LatAm Audrey_7_girl_60cdc06a:
 
     # ch_Name "{i}(It's strange that she's not even close to me...){/i}"
     ch_Name ""
+    ch_Name "{i}(Es extraño que ni siquiera haya estado cerca de mí...){/i}"
 
 # game/logic/events/audrey.rpy:1056
 translate spanish_LatAm Audrey_7_girl_2611d091:
 
     # Audrey "How much longer are you gonna take?"
     Audrey ""
+    Audrey "¿Cuánto más te tomará?"
 
 # game/logic/events/audrey.rpy:1058
 translate spanish_LatAm Audrey_7_girl_66f3430d:
 
     # Audrey "Finish it already!"
     Audrey ""
+    Audrey "¡Termina de una vez!"
 
 # game/logic/events/audrey.rpy:1059
 translate spanish_LatAm Audrey_7_girl_43988d67:
-
-    # ch_Name "Um..."
-    ch_Name ""
-
-# game/logic/events/audrey.rpy:1061
+@ -3376,115 +3376,115 @@ translate spanish_LatAm Audrey_7_girl_43988d67:
 translate spanish_LatAm Audrey_7_girl_d5b4a72b:
 
     # ch_Name "To be honest, I'm not even close yet, baby."
     ch_Name ""
+    ch_Name "Siendo honesto, no estoy ni un poco cerca, nena."
 
 # game/logic/events/audrey.rpy:1062
 translate spanish_LatAm Audrey_7_girl_74ff5f48:
 
     # Audrey "Why should that be my problem? Get it out."
     Audrey ""
+    Audrey "¿Y por qué sería mi problema? Sácalo."
 
 # game/logic/events/audrey.rpy:1063
 translate spanish_LatAm Audrey_7_girl_b510ad9f:
 
     # ch_Name "But..."
     ch_Name ""
+    ch_Name "Pero..."
 
 # game/logic/events/audrey.rpy:1065
 translate spanish_LatAm Audrey_7_girl_451c49e1:
 
     # Audrey "Get it out, I said!" with hpunch
     Audrey "" with hpunch
+    Audrey "¡Dije que lo saques!" with hpunch
 
 # game/logic/events/audrey.rpy:1066
 translate spanish_LatAm Audrey_7_girl_51fe0ce2:
 
     # ch_Name "Oh, okay, well..."
     ch_Name ""
+    ch_Name "Oh, de acuerdo, bien..."
 
 # game/logic/events/audrey.rpy:1067
 translate spanish_LatAm Audrey_7_girl_ce338fb2:
 
-    # ch_Name "But I'll need your help to cum."
+    # ch_Name "But I'll need your help to come."
     ch_Name ""
+    ch_Name "Pero necesitaré que me ayudes a venirme."
 
 # game/logic/events/audrey.rpy:1069
 translate spanish_LatAm Audrey_7_girl_16df9d7f:
 
     # Audrey "Don't count on a blow job. I'm tired."
     Audrey ""
+    Audrey "Ni pienses que te la voy a chupar. Estoy cansada."
 
 # game/logic/events/audrey.rpy:1070
 translate spanish_LatAm Audrey_7_girl_55ba7ed0:
 
     # Audrey "And you already got more than you deserve tonight."
     Audrey ""
+    Audrey "Y ya has tenido más de lo que merecías esta noche."
 
 # game/logic/events/audrey.rpy:1071
 translate spanish_LatAm Audrey_7_girl_682578ae:
 
     # Audrey "If it helps, you can jerk off to me."
     Audrey ""
+    Audrey "Si de algo ayuda, puedes jalártela mirándome."
 
 # game/logic/events/audrey.rpy:1073
 translate spanish_LatAm Audrey_7_girl_52fef265:
 
     # Audrey "But hurry up, I've got a lot to do."
     Audrey ""
+    Audrey "Pero apúrate, tengo mucho por hacer."
 
 # game/logic/events/audrey.rpy:1074
 translate spanish_LatAm Audrey_7_girl_baf22535:
 
     # ch_Name "{i}(So much for Audrey using me as a dildo on her feet.){/i}"
     ch_Name ""
+    ch_Name "{i}(Es como si Audrey me estuviera usando como su consolador.){/i}"
 
 # game/logic/events/audrey.rpy:1076
 translate spanish_LatAm Audrey_7_girl_97af16ee:
 
     # ch_Name "Now, now."
     ch_Name ""
+    ch_Name "Voy, voy."
 
 # game/logic/events/audrey.rpy:1077
 translate spanish_LatAm Audrey_7_girl_bddcd34a:
 
     # ch_Name "Your whims don't make it go any faster."
     ch_Name ""
+    ch_Name "Tus chillidos no harán que sea más rápido."
 
 # game/logic/events/audrey.rpy:1079
 translate spanish_LatAm Audrey_7_girl_5608b823:
 
     # ch_Name "{i}(Damn it... I should be at my limit by now.){/i}"
     ch_Name ""
+    ch_Name "{i}(Carajo... Debo estar al límite ahora mismo.){/i}"
 
 # game/logic/events/audrey.rpy:1080
 translate spanish_LatAm Audrey_7_girl_6fb51edd:
 
     # ch_Name "{i}(And I hardly feel any pleasure...){/i}"
     ch_Name ""
+    ch_Name "{i}(Y apenas puedo sentir algo de placer...){/i}"
 
 # game/logic/events/audrey.rpy:1082
 translate spanish_LatAm Audrey_7_girl_ed7cd657:
 
     # ch_Name "{i}(What a bummer about this dry humping.){/i}"
     ch_Name ""
+    ch_Name "{i}(Qué fastidio da hacer esto ahora.){/i}"
 
 # game/logic/events/audrey.rpy:1083
 translate spanish_LatAm Audrey_7_girl_d1c738d9:
 
     # ch_Name "Something's wrong..."
     ch_Name ""
+    ch_Name "Hay algo mal..."
 
 # game/logic/events/audrey.rpy:1085
 translate spanish_LatAm Audrey_7_girl_4ae8e156:
 
     # ch_Name "I'm passing out from fatigue and dizzy..."
     ch_Name ""
+    ch_Name "Me voy a desmayar por la fatiga y el mareo..."
 
 # game/logic/events/audrey.rpy:1086
 translate spanish_LatAm Audrey_7_girl_632fb309:
 
     # ch_Name "It's hard to concentrate."
     ch_Name ""
+    ch_Name "No puedo concentrarme."
 
 # game/logic/events/audrey.rpy:1087
 translate spanish_LatAm Audrey_7_girl_9caeb230:
-
-    # Audrey "Hmm..."
-    Audrey ""
-
-# game/logic/events/audrey.rpy:1089
+@ -3496,151 +3496,151 @@ translate spanish_LatAm Audrey_7_girl_9caeb230:
 translate spanish_LatAm Audrey_7_girl_8709bc91:
 
     # Audrey "I wonder how that happened."
     Audrey ""
+    Audrey "Me imagino qué es lo que pasó."
 
 # game/logic/events/audrey.rpy:1090
 translate spanish_LatAm Audrey_7_girl_21eb70f9:
 
     # Audrey "Maybe you don't have enough vitamins in your system?"
     Audrey ""
+    Audrey "¿Tal vez no tienes las suficientes vitaminas en tu sistema?"
 
 # game/logic/events/audrey.rpy:1091
 translate spanish_LatAm Audrey_7_girl_e216c47b:
 
     # ch_Name "Are you kidding me?"
     ch_Name ""
+    ch_Name "¿Me estás bromeando?"
 
 # game/logic/events/audrey.rpy:1093
 translate spanish_LatAm Audrey_7_girl_5c96de3d:
 
     # Audrey "No, but I'm about to start."
     Audrey ""
+    Audrey "No, pero voy a hacerlo."
 
 # game/logic/events/audrey.rpy:1094
 translate spanish_LatAm Audrey_7_girl_4533a1e0:
 
     # Audrey "Cause your dick is getting a little sluggish."
     Audrey ""
+    Audrey "Porque tu pene está poniéndose un poco arrugado."
 
 # game/logic/events/audrey.rpy:1095
 translate spanish_LatAm Audrey_7_girl_36fbcfdf:
 
     # ch_Name "Wait, I need to get my head together."
     ch_Name ""
+    ch_Name "Espera, necesito reincorporarme un poco."
 
 # game/logic/events/audrey.rpy:1097
 translate spanish_LatAm Audrey_7_girl_1c2426a4:
 
     # Audrey "Oh, no, that's no good."
     Audrey ""
+    Audrey "Oh, no, eso no está bien."
 
 # game/logic/events/audrey.rpy:1098
 translate spanish_LatAm Audrey_7_girl_fa70fd98:
 
     # Audrey "Stop wasting my time and get lost, impotent."
     Audrey ""
+    Audrey "Deja de hacerme perder el tiempo y lárgate, impotente."
 
 # game/logic/events/audrey.rpy:1099
 translate spanish_LatAm Audrey_7_girl_d139edf4:
 
     # ch_Name "Why are you so rude?"
     ch_Name ""
+    ch_Name "¿Por qué eres tan grosera?"
 
 # game/logic/events/audrey.rpy:1101
 translate spanish_LatAm Audrey_7_girl_0b5d45f8:
 
     # ch_Name "You already came, so what's it to you?"
     ch_Name ""
+    ch_Name "Tú ya te viniste, ¿Qué pasa contigo?"
 
 # game/logic/events/audrey.rpy:1102
 translate spanish_LatAm Audrey_7_girl_861ecc0e:
 
     # ch_Name "Besides, it's the first time."
     ch_Name ""
+    ch_Name "Además, es la primera vez."
 
 # game/logic/events/audrey.rpy:1103
 translate spanish_LatAm Audrey_7_girl_e97777f9:
 
     # ch_Name "I usually have no problem getting a hard-on, I swear."
     ch_Name ""
+    ch_Name "No suelo tener problemas para tener una erección, lo juro."
 
 # game/logic/events/audrey.rpy:1105
 translate spanish_LatAm Audrey_7_girl_705a3291:
 
     # Audrey "Yes, that's what all impotent men say."
     Audrey ""
+    Audrey "Sí, eso es lo que todos los impotentes dicen."
 
 # game/logic/events/audrey.rpy:1106
 translate spanish_LatAm Audrey_7_girl_f71fd2d0:
 
     # Audrey "Once a year and the stick shoots."
     Audrey ""
+    Audrey "Una vez al año y la vara dispara."
 
 # game/logic/events/audrey.rpy:1107
 translate spanish_LatAm Audrey_7_girl_9fec9f08:
 
     # Audrey "Although yours didn't even shoot, just aimed."
     Audrey ""
+    Audrey "Aunque el tuyo ni siquiera disparó, sólo apuntó."
 
 # game/logic/events/audrey.rpy:1109
 translate spanish_LatAm Audrey_7_girl_90f6ee1d:
 
     # ch_Name "That's not fair..."
     ch_Name ""
+    ch_Name "No es justo..."
 
 # game/logic/events/audrey.rpy:1110
 translate spanish_LatAm Audrey_7_girl_d2d1281a:
 
     # ch_Name "My nickname is..."
     ch_Name ""
+    ch_Name "Mi apodo es..."
 
 # game/logic/events/audrey.rpy:1112
 translate spanish_LatAm Audrey_7_girl_5a8d862e:
 
     # Audrey "Stop wasting my time, [Name]! Get out of here."
     Audrey ""
+    Audrey "Deja de perder mi tiempo, [Name] Lárgate de aquí."
 
 # game/logic/events/audrey.rpy:1113
 translate spanish_LatAm Audrey_7_girl_11dbf333:
 
     # Audrey "You can jerk off somewhere else."
     Audrey ""
+    Audrey "Puedes masturbarte en otro lugar."
 
 # game/logic/events/audrey.rpy:1114
 translate spanish_LatAm Audrey_7_girl_b510ad9f_1:
 
     # ch_Name "But..."
     ch_Name ""
+    ch_Name "Pero..."
 
 # game/logic/events/audrey.rpy:1116
 translate spanish_LatAm Audrey_7_girl_8af3dd15:
 
     # Audrey "There's the way out." with hpunch
     Audrey "" with hpunch
+    Audrey "Allá está la salida." with hpunch
 
 # game/logic/events/audrey.rpy:1117
 translate spanish_LatAm Audrey_7_girl_8b5ae744:
 
     # ch_Name "{i}(Unbelievable!){/i}"
     ch_Name ""
+    ch_Name "{i}(¡Increíble!){/i}"
 
 # game/logic/events/audrey.rpy:1118
 translate spanish_LatAm Audrey_7_girl_e00bb96c:
 
     # ch_Name "{i}(What a bitch...){/i}"
     ch_Name ""
+    ch_Name "{i}(Pero qué perra...){/i}"
 
 # game/logic/events/audrey.rpy:1119
 translate spanish_LatAm Audrey_7_girl_935f6ba4:
 
     # ch_Name "{i}(I need to figure out why I'm so fucked up today.){/i}"
     ch_Name ""
+    ch_Name "{i}(Debo descubrir por qué estoy tan jodido ahora mismo.){/i}"
 
 # game/logic/events/audrey.rpy:1120
 translate spanish_LatAm Audrey_7_girl_b856a391:
 
     # ch_Name "{i}(And offer her round two.){/i}"
     ch_Name ""
+    ch_Name "{i}(Y ofrecerle una segunda ronda){/i}"
 
 # game/logic/events/audrey.rpy:1121
 translate spanish_LatAm Audrey_7_girl_25aa0e12:
-
-    # ch_Name "Pfft."
-    ch_Name ""
-
-# game/logic/events/audrey.rpy:1122
+@ -3652,79 +3652,79 @@ translate spanish_LatAm Audrey_7_girl_25aa0e12:
 translate spanish_LatAm Audrey_7_girl_3e3e63f8:
 
     # ch_Name "Good luck."
     ch_Name ""
+    ch_Name "Buena suerte."
 
 # game/logic/events/audrey.rpy:1123
 translate spanish_LatAm Audrey_7_girl_3a0194d2:
 
-    # ch_Name "I'm off."
+    # ch_Name "I'm off"
     ch_Name ""
+    ch_Name "Me voy."
 
 # game/logic/events/audrey.rpy:1131
 translate spanish_LatAm Audrey_7_shemale_256f5a87:
 
     # ch_Name "Of course I do, why are you asking?"
     ch_Name ""
+    ch_Name "Claro que quiero, ¿Por qué preguntas?"
 
 # game/logic/events/audrey.rpy:1133
 translate spanish_LatAm Audrey_7_shemale_d6cfa68b:
 
     # Audrey "I'm not wrong about you, [Name]."
     Audrey ""
+    Audrey "No me equivocaba sobre ti, [Name]."
 
 # game/logic/events/audrey.rpy:1134
 translate spanish_LatAm Audrey_7_shemale_ff17a4d0:
 
     # ch_Name "{i}(She really does...){/i}"
     ch_Name ""
+    ch_Name "{i}(De verdad está...){/i}"
 
 # game/logic/events/audrey.rpy:1136
 translate spanish_LatAm Audrey_7_shemale_02e61f7a:
 
-    # ch_Name "{i}(What a cute view...){/i}"
+    # ch_Name "{i}(What a cute little intimate haircut...){/i}"
     ch_Name ""
+    ch_Name "{i}(Qué lindo corte íntimo...){/i}"
 
 # game/logic/events/audrey.rpy:1137
 translate spanish_LatAm Audrey_7_shemale_1ab6616d:
 
     # Audrey "Do you realize how lucky you are?"
     Audrey ""
+    Audrey "¿Te das cuenta de cuánta suerte tienes?"
 
 # game/logic/events/audrey.rpy:1139
 translate spanish_LatAm Audrey_7_shemale_185539e3:
 
     # ch_Name "How?"
     ch_Name ""
+    ch_Name "¿Cuánta?"
 
 # game/logic/events/audrey.rpy:1140
 translate spanish_LatAm Audrey_7_shemale_19ffe066:
 
     # Audrey "Someone like you to get me..."
     Audrey ""
+    Audrey "Alguien como tú me pone..."
 
 # game/logic/events/audrey.rpy:1142
 translate spanish_LatAm Audrey_7_shemale_f8a399ff:
 
     # Audrey "Think of it as winning the lottery."
     Audrey ""
+    Audrey "Piénsalo como ganar la lotería."
 
 # game/logic/events/audrey.rpy:1143
 translate spanish_LatAm Audrey_7_shemale_4170760f:
 
     # Audrey "Like..."
     Audrey ""
+    Audrey "Como..."
 
 # game/logic/events/audrey.rpy:1144
 translate spanish_LatAm Audrey_7_shemale_db9344c9:
 
     # Audrey "Do you like your prize?"
     Audrey ""
+    Audrey "¿Te gusta tu premio?"
 
 # game/logic/events/audrey.rpy:1146
 translate spanish_LatAm Audrey_7_shemale_9f3e6d4a:
 
     # Audrey "Although I can see that I do."
     Audrey ""
+    Audrey "Aunque puedo ver que es así"
 
 # game/logic/events/audrey.rpy:1148
 translate spanish_LatAm Audrey_7_shemale_a734a048:
-
-    # ch_Name "Oh, Audrey..."
-    ch_Name ""
-
-# game/logic/events/audrey.rpy:1149
+@ -3736,91 +3736,91 @@ translate spanish_LatAm Audrey_7_shemale_a734a048:
 translate spanish_LatAm Audrey_7_shemale_9802e321:
 
     # ch_Name "I can't take my eyes off you. Of course you do..."
     ch_Name ""
+    ch_Name "No puedo quitarte los ojos de encima, claro que sí..."
 
 # game/logic/events/audrey.rpy:1151
 translate spanish_LatAm Audrey_7_shemale_f8b1589a:
 
     # ch_Name "I don't know why, but I'm getting pretty tired."
     ch_Name ""
+    ch_Name "No sé por qué, pero me siento un poco cansado."
 
 # game/logic/events/audrey.rpy:1152
 translate spanish_LatAm Audrey_7_shemale_4e54cd43:
 
     # ch_Name "And I feel like the room's a little blurry in front of my eyes."
     ch_Name ""
+    ch_Name "Y siento como si el cuarto estuviera un poco borroso frente a mí."
 
 # game/logic/events/audrey.rpy:1153
 translate spanish_LatAm Audrey_7_shemale_2858ef0c:
 
     # Audrey "Relax, it'll pass."
     Audrey ""
+    Audrey "Tranquilo, ya pasará."
 
 # game/logic/events/audrey.rpy:1155
 translate spanish_LatAm Audrey_7_shemale_ecc5ccf0:
 
     # Audrey "It's just a little stuffy in here."
     Audrey ""
+    Audrey "Es sólo que el lugar es un poco pesado."
 
 # game/logic/events/audrey.rpy:1156
 translate spanish_LatAm Audrey_7_shemale_0f7c4027:
 
     # Audrey "Hurry up and take your shirt off so you feel better."
     Audrey ""
+    Audrey "Apúrate y quítate la camisa para que te sientas mejor."
 
 # game/logic/events/audrey.rpy:1157
 translate spanish_LatAm Audrey_7_shemale_602b4416:
 
     # Audrey "And let's get down to business!"
     Audrey ""
+    Audrey "¡Y vayamos a lo bueno!"
 
 # game/logic/events/audrey.rpy:1163
 translate spanish_LatAm Audrey_7_shemale_7db41b82:
 
     # Audrey "Come here, handsome."
     Audrey ""
+    Audrey "Ven aquí, guapo."
 
 # game/logic/events/audrey.rpy:1164
 translate spanish_LatAm Audrey_7_shemale_859b023a:
 
     # Audrey "I miss the warmth of your arms..."
     Audrey ""
+    Audrey "Extraño el calor de tus brazos..."
 
 # game/logic/events/audrey.rpy:1165
 translate spanish_LatAm Audrey_7_shemale_531bb326:
 
     # ch_Name "{i}(What a strange thing she's doing...){/i}"
     ch_Name ""
+    ch_Name "{i}(Qué cosa tan rara está haciendo...){/i}"
 
 # game/logic/events/audrey.rpy:1167
 translate spanish_LatAm Audrey_7_shemale_4a68296c:
 
     # ch_Name "{i}(It's like she's instinctively trying her best to lure me into bed.){/i}"
     ch_Name ""
+    ch_Name "{i}(Es como si estuviera haciendo lo mejor para llevarme a la cama.){/i}"
 
 # game/logic/events/audrey.rpy:1168
 translate spanish_LatAm Audrey_7_shemale_f5666163:
 
     # ch_Name "{i}(Am I really that attractive?){/i}"
     ch_Name ""
+    ch_Name "{i}(¿De verdad soy tan atractivo?){/i}"
 
 # game/logic/events/audrey.rpy:1169
 translate spanish_LatAm Audrey_7_shemale_91877ef5:
 
     # ch_Name "{i}(The last time I had this kind of excitement around me was when I played sports.){/i}"
     ch_Name ""
+    ch_Name "{i}(La última vez que me sentí así de emocionado fue cuando jugaba deportes.){/i}"
 
 # game/logic/events/audrey.rpy:1171
 translate spanish_LatAm Audrey_7_shemale_5a8290a3:
 
     # Audrey "What are you standing there for?"
     Audrey ""
+    Audrey "¿A qué esperas?"
 
 # game/logic/events/audrey.rpy:1172
 translate spanish_LatAm Audrey_7_shemale_483401e0:
 
     # Audrey "You do realize this is the happiest moment of your life, right?"
     Audrey ""
+    Audrey "Te das cuenta que es el mejor momento de tu vida, ¿Verdad?"
 
 # game/logic/events/audrey.rpy:1173
 translate spanish_LatAm Audrey_7_shemale_027b1c56:
-
-    # ch_Name "..."
-    ch_Name ""
-
-# game/logic/events/audrey.rpy:1175
+@ -3832,139 +3832,139 @@ translate spanish_LatAm Audrey_7_shemale_027b1c56:
 translate spanish_LatAm Audrey_7_shemale_4a41b0d1:
 
     # ch_Name "You're right."
     ch_Name ""
+    ch_Name "Tienes razón."
 
 # game/logic/events/audrey.rpy:1176
 translate spanish_LatAm Audrey_7_shemale_a054e13f:
 
     # ch_Name "All this talking around the bush is gonna make my dick fall off."
     ch_Name ""
+    ch_Name "Toda esta plática va a hacerme perder la erección."
 
 # game/logic/events/audrey.rpy:1177
 translate spanish_LatAm Audrey_7_shemale_c90a8ee7:
 
     # ch_Name "It's time to get down to business."
     ch_Name ""
+    ch_Name "Es hora de ir a lo bueno."
 
 # game/logic/events/audrey.rpy:1179
 translate spanish_LatAm Audrey_7_shemale_fccecc40:
 
     # Audrey "Yeah, I didn't think you'd be that easy to get."
     Audrey ""
+    Audrey "Sí, no creo que este pene te excite tanto."
 
 # game/logic/events/audrey.rpy:1180
 translate spanish_LatAm Audrey_7_shemale_3f08abbc:
 
     # Audrey "Come here!"
     Audrey ""
+    Audrey "¡Pero ven aquí!"
 
 # game/logic/events/audrey.rpy:1181
 translate spanish_LatAm Audrey_7_shemale_43819a01:
 
     # Audrey "I don't want to see such a beautiful boner go to waste."
     Audrey ""
+    Audrey "No quiero que tu linda erección se desperdicie."
 
 # game/logic/events/audrey.rpy:1183
 translate spanish_LatAm Audrey_7_shemale_aad58497:
 
     # Audrey "Welcome, my hero. Come into me!"
     Audrey ""
+    Audrey "Adelante, mi héroe. ¡Entra en mí!"
 
 # game/logic/events/audrey.rpy:1184
 translate spanish_LatAm Audrey_7_shemale_b62e5672:
 
     # ch_Name "{i}(There she is. Daring and stern Audrey, spreading her legs and begging me to come in.){/i}"
     ch_Name ""
+    ch_Name "{i}(Ahí está. La linda y tierna Audrey, abriendo sus piernas y rogándome que entre en ella.){/i}"
 
 # game/logic/events/audrey.rpy:1185
 translate spanish_LatAm Audrey_7_shemale_dea75e42:
 
     # ch_Name "I'm coming..."
     ch_Name ""
+    ch_Name "Voy entrando..."
 
 # game/logic/events/audrey.rpy:1187
 translate spanish_LatAm Audrey_7_shemale_e1e37224:
 
     # ch_Name "{i}(Her body is all tense and her pelvis is trembling with lust.){/i}"
     ch_Name ""
+    ch_Name "{i}(Su cuerpo está tenso y su pelvis tiembla de deseo.){/i}"
 
 # game/logic/events/audrey.rpy:1188
 translate spanish_LatAm Audrey_7_shemale_c8d88e70:
 
     # ch_Name "{i}(You can feel her longing for it. Why am I so tired?){/i}"
     ch_Name ""
+    ch_Name "{i}(Puedes sentirla anhelarlo. ¿Por qué estoy tan cansado?){/i}"
 
 # game/logic/events/audrey.rpy:1189
 translate spanish_LatAm Audrey_7_shemale_0288f3d6:
 
     # ch_Name "{i}(Okay. Get it together, [Name]. We can't be dirty.){/i}"
     ch_Name ""
+    ch_Name "{i}(Muy bien, concéntrate, [Name]. No podemos ser tan sucios.){/i}"
 
 # game/logic/events/audrey.rpy:1191
 translate spanish_LatAm Audrey_7_shemale_d82175e4:
 
     # ch_Name "So, are you ready?"
     ch_Name ""
+    ch_Name "¿Entonces, estás lista?"
 
 # game/logic/events/audrey.rpy:1192
 translate spanish_LatAm Audrey_7_shemale_9a7f7bbe:
 
     # Audrey "I've been ready for a long time, asshole... Don't keep me in suspense!"
     Audrey ""
+    Audrey "Estoyy lista desde hace mucho, idiota... ¡No me dejes en suspenso!"
 
 # game/logic/events/audrey.rpy:1193
 translate spanish_LatAm Audrey_7_shemale_308fdf25:
 
     # ch_Name "What are you ready for? I don't know."
     ch_Name ""
+    ch_Name "¿Para qué estás lista? Es que no sé."
 
 # game/logic/events/audrey.rpy:1195
 translate spanish_LatAm Audrey_7_shemale_50032f6b:
 
     # ch_Name "Ask me properly."
     ch_Name ""
+    ch_Name "Pídemelo como debe ser."
 
 # game/logic/events/audrey.rpy:1196
 translate spanish_LatAm Audrey_7_shemale_d15ab4ed:
 
     # Audrey "Fuck you... Fuck me like you've never fucked anyone before!"
     Audrey ""
+    Audrey "Púdrete... ¡Cógeme como no has cogido con nadie jamás!"
 
 # game/logic/events/audrey.rpy:1198
 translate spanish_LatAm Audrey_7_shemale_1b12de55:
 
     # Audrey "OHH!" with vpunch
     Audrey "" with vpunch
+    Audrey "¡OHH!" with vpunch
 
 # game/logic/events/audrey.rpy:1199
 translate spanish_LatAm Audrey_7_shemale_0f274ba8:
 
     # Audrey "Oh, yeah... It's so fleshy..."
     Audrey ""
+    Audrey "Oh, sí... Tan carnoso..."
 
 # game/logic/events/audrey.rpy:1201
 translate spanish_LatAm Audrey_7_shemale_ed9d995d:
 
     # ch_Name "You like that?"
     ch_Name ""
+    ch_Name "¿Te gusta?"
 
 # game/logic/events/audrey.rpy:1202
 translate spanish_LatAm Audrey_7_shemale_ec345f17:
 
     # Audrey "You bet I do. My hole is stretched to the limit."
     Audrey ""
+    Audrey "Apuesta a que sí. Estoy abierta hasta el límite."
 
 # game/logic/events/audrey.rpy:1204
 translate spanish_LatAm Audrey_7_shemale_3cb5df8f:
 
     # ch_Name "{i}(She's so slutty... She's begging to go deeper on my dick.){/i}"
     ch_Name ""
+    ch_Name "{i}(Es tan puta... Me está rogando que vaya más adentro.){/i}"
 
 # game/logic/events/audrey.rpy:1206
 translate spanish_LatAm Audrey_7_shemale_8a0b8f7a:
 
     # ch_Name "{i}(I won't keep the lady waiting!){/i}"
     ch_Name ""
+    ch_Name "{i}(No dejaré esperando a la... ¿Dama?){/i}"
 
 # game/logic/events/audrey.rpy:1207
 translate spanish_LatAm Audrey_7_shemale_0ae9bcd0:
-
-    # ""
-    ""
-
-# game/logic/events/audrey.rpy:1208
-translate spanish_LatAm Audrey_7_shemale_3b476c8d:
-
-    # Audrey "Oh... ah... uhm..."
-    Audrey ""
-
-# game/logic/events/audrey.rpy:1209
-translate spanish_LatAm Audrey_7_shemale_fc11be4e:
-
-    # Audrey "Mmm..."
-    Audrey ""
-
-# game/logic/events/audrey.rpy:1211
-translate spanish_LatAm Audrey_7_shemale_0ae9bcd0_1:
-
-    # ""
-    ""
-
-# game/logic/events/audrey.rpy:1212
+@ -3994,25 +3994,25 @@ translate spanish_LatAm Audrey_7_shemale_0ae9bcd0_1:
 translate spanish_LatAm Audrey_7_shemale_5b7c657f:
 
     # ch_Name "Do you like it like that?"
     ch_Name ""
+    ch_Name "¿Te gusta eso?"
 
 # game/logic/events/audrey.rpy:1213
 translate spanish_LatAm Audrey_7_shemale_fb7496e4:
 
     # Audrey "Oh yeah... That's it!"
     Audrey ""
+    Audrey "Oh, sí... ¡Claro que sí!"
 
 # game/logic/events/audrey.rpy:1214
 translate spanish_LatAm Audrey_7_shemale_818c76d3:
 
     # ch_Name "{i}(She seemed desperate for a good fuck.){/i}"
     ch_Name ""
+    ch_Name "{i}(Parecía desesperada por un buen sexo.){/i}"
 
 # game/logic/events/audrey.rpy:1216
 translate spanish_LatAm Audrey_7_shemale_f9573c34:
 
     # Audrey "You're so... good..."
     Audrey ""
+    Audrey "Eres tan... bueno..."
 
 # game/logic/events/audrey.rpy:1217
 translate spanish_LatAm Audrey_7_shemale_0ae9bcd0_2:
-
-    # ""
-    ""
-
-# game/logic/events/audrey.rpy:1218
-translate spanish_LatAm Audrey_7_shemale_3b476c8d_1:
-
-    # Audrey "Oh... ah... uhm..."
-    Audrey ""
-
-# game/logic/events/audrey.rpy:1219
-translate spanish_LatAm Audrey_7_shemale_fac02ba5:
-
-    # ch_Name "Mhm..."
-    ch_Name ""
-
-# game/logic/events/audrey.rpy:1221
+@ -4036,7 +4036,7 @@ translate spanish_LatAm Audrey_7_shemale_fac02ba5:
 translate spanish_LatAm Audrey_7_shemale_53a453ad:
 
     # Audrey "Deeper!"
     Audrey ""
+    Audrey "¡Más adentro!"
 
 # game/logic/events/audrey.rpy:1222
 translate spanish_LatAm Audrey_7_shemale_0ae9bcd0_3:
-
-    # ""
-    ""
-
-# game/logic/events/audrey.rpy:1223
+@ -4048,7 +4048,7 @@ translate spanish_LatAm Audrey_7_shemale_0ae9bcd0_3:
 translate spanish_LatAm Audrey_7_shemale_730cfb2c:
 
     # Audrey "So...{w} Good..."
     Audrey ""
+    Audrey "Qué...{w} bueno..."
 
 # game/logic/events/audrey.rpy:1224
 translate spanish_LatAm Audrey_7_shemale_4ee2d01e:
-
-    # Audrey "Mhm..."
-    Audrey ""
-
-# game/logic/events/audrey.rpy:1225
-translate spanish_LatAm Audrey_7_shemale_0ae9bcd0_4:
-
-    # ""
-    ""
-
-# game/logic/events/audrey.rpy:1227
+@ -4066,127 +4066,127 @@ translate spanish_LatAm Audrey_7_shemale_0ae9bcd0_4:
 translate spanish_LatAm Audrey_7_shemale_9eb15a47:
 
     # ch_Name "{i}(Something's starting to make me more queasy... Shit.){/i}"
     ch_Name ""
+    ch_Name "{i}(Algo está empezando a marearme más... Mierda.){/i}"
 
 # game/logic/events/audrey.rpy:1228
 translate spanish_LatAm Audrey_7_shemale_bce11716:
 
     # ch_Name "{i}(It's hard to concentrate on sex.){/i}"
     ch_Name ""
+    ch_Name "{i}(Es difícil concentrarme en el sexo.){/i}"
 
 # game/logic/events/audrey.rpy:1229
 translate spanish_LatAm Audrey_7_shemale_1c13f9c8:
 
     # Audrey "Would you like to change positions?"
     Audrey ""
+    Audrey "¿Te gustaría cambiar de posición?"
 
 # game/logic/events/audrey.rpy:1230
 translate spanish_LatAm Audrey_7_shemale_c9cfd758:
 
     # Audrey "For a change."
     Audrey ""
+    Audrey "Para variar."
 
 # game/logic/events/audrey.rpy:1232
 translate spanish_LatAm Audrey_7_shemale_5f78a841:
 
     # ch_Name "Phew... Well, I could."
     ch_Name ""
+    ch_Name "Fiu... Bueno, podría."
 
 # game/logic/events/audrey.rpy:1233
 translate spanish_LatAm Audrey_7_shemale_9776e8e2:
 
     # ch_Name "Despite my slight fatigue, I'm ready to continue."
     ch_Name ""
+    ch_Name "A pesar de mi cansancio, puedo seguir."
 
 # game/logic/events/audrey.rpy:1234
 translate spanish_LatAm Audrey_7_shemale_76f967f4:
 
     # ch_Name "{i}(Maybe it would be easier if I lay down.){/i}"
     ch_Name ""
+    ch_Name "{i}(Sería más fácil si me acostara.){/i}"
 
 # game/logic/events/audrey.rpy:1236
 translate spanish_LatAm Audrey_7_shemale_7289e44c:
 
     # Audrey "You look a little frail. Will your boner hold up?"
     Audrey ""
+    Audrey "Te ves un poco frágil. ¿Tu erección aguantará?"
 
 # game/logic/events/audrey.rpy:1237
 translate spanish_LatAm Audrey_7_shemale_3c5c2101:
 
     # ch_Name "Of course it will."
     ch_Name ""
+    ch_Name "Claro que lo hará."
 
 # game/logic/events/audrey.rpy:1238
 translate spanish_LatAm Audrey_7_shemale_6cb9f122:
 
     # ch_Name "Lie on your side, with your back to me."
     ch_Name ""
+    ch_Name "Acuéstate aquí, con tu espalda hacia mí."
 
 # game/logic/events/audrey.rpy:1240
 translate spanish_LatAm Audrey_7_shemale_dca7d3e3:
 
     # Audrey "Oh, you're taking the reins?"
     Audrey ""
+    Audrey "Oh, ¿Tomas las riendas?"
 
 # game/logic/events/audrey.rpy:1241
 translate spanish_LatAm Audrey_7_shemale_2c88481a:
 
     # Audrey "I like that."
     Audrey ""
+    Audrey "Me gusta eso."
 
 # game/logic/events/audrey.rpy:1242
 translate spanish_LatAm Audrey_7_shemale_de2d39c7:
 
     # Audrey "I love a man with balls."
     Audrey ""
+    Audrey "Me gusta un hombre con bolas."
 
 # game/logic/events/audrey.rpy:1248
 translate spanish_LatAm Audrey_7_shemale_a10d7e24:
 
     # Audrey "Wait, not so fast..."
     Audrey ""
+    Audrey "Espera, no tan rápido..."
 
 # game/logic/events/audrey.rpy:1249
 translate spanish_LatAm Audrey_7_shemale_e69908d2:
 
     # Audrey "Don't come in."
     Audrey ""
+    Audrey "No entres aún."
 
 # game/logic/events/audrey.rpy:1251
 translate spanish_LatAm Audrey_7_shemale_f113a10a:
 
     # ch_Name "Are you sure?"
     ch_Name ""
+    ch_Name "¿Segura?"
 
 # game/logic/events/audrey.rpy:1252
 translate spanish_LatAm Audrey_7_shemale_4eb4af5b:
 
     # ch_Name "Did something happen?"
     ch_Name ""
+    ch_Name "¿Pasó algo?"
 
 # game/logic/events/audrey.rpy:1254
 translate spanish_LatAm Audrey_7_shemale_016520b8:
 
     # Audrey "No, everything's fine."
     Audrey ""
+    Audrey "No, todo está bien."
 
 # game/logic/events/audrey.rpy:1255
 translate spanish_LatAm Audrey_7_shemale_59f115c4:
 
     # Audrey "I want to look into your eyes when you come in."
     Audrey ""
+    Audrey "Quiero mirarte a los ojos cuando entres."
 
 # game/logic/events/audrey.rpy:1256
 translate spanish_LatAm Audrey_7_shemale_96d504cd:
 
     # ch_Name "{i}(Strangely, that sounds too romantic for Audrey...){/i}"
     ch_Name ""
+    ch_Name "{i}(Extrañamente, eso suena muy romántico para Audrey...){/i}"
 
 # game/logic/events/audrey.rpy:1258
 translate spanish_LatAm Audrey_7_shemale_f9cb4485:
 
     # ch_Name "{i}(But I kind of like it...){/i}"
     ch_Name ""
+    ch_Name "{i}(Aun así me gusta...){/i}"
 
 # game/logic/events/audrey.rpy:1259
 translate spanish_LatAm Audrey_7_shemale_175d9b36:
-
-    # ch_Name "Ah, Audrey..."
-    ch_Name ""
-
-# game/logic/events/audrey.rpy:1260
-translate spanish_LatAm Audrey_7_shemale_fac02ba5_1:
-
-    # ch_Name "Mhm..."
-    ch_Name ""
-
-# game/logic/events/audrey.rpy:1261
-translate spanish_LatAm Audrey_7_shemale_eaa9ce6d:
-
-    # Audrey "Mmmm..."
-    Audrey ""
-
-# game/logic/events/audrey.rpy:1263
+@ -4210,7 +4210,7 @@ translate spanish_LatAm Audrey_7_shemale_eaa9ce6d:
 translate spanish_LatAm Audrey_7_shemale_357b353a:
 
     # Audrey "Now just breathe..."
     Audrey ""
+    Audrey "Ahora respira..."
 
 # game/logic/events/audrey.rpy:1264
 translate spanish_LatAm Audrey_7_shemale_8c41bb6f:
-
-    # ch_Name "Ah..."
-    ch_Name ""
-
-# game/logic/events/audrey.rpy:1266
+@ -4222,13 +4222,13 @@ translate spanish_LatAm Audrey_7_shemale_8c41bb6f:
 translate spanish_LatAm Audrey_7_shemale_caa8bb33:
 
     # ch_Name "{i}(It's happening again...){/i}"
     ch_Name ""
+    ch_Name "{i}(Está pasando otra vez...){/i}"
 
 # game/logic/events/audrey.rpy:1268
 translate spanish_LatAm Audrey_7_shemale_97c87cbe:
 
     # ch_Name "{i}(It's like she's feeding off my magical powers.){/i}"
     ch_Name ""
+    ch_Name "{i}(Es como si me estuviera quitando mis poderes mágicos.){/i}"
 
 # game/logic/events/audrey.rpy:1269
 translate spanish_LatAm Audrey_7_shemale_0ae9bcd0_5:
-
-    # ""
-    ""
-
-# game/logic/events/audrey.rpy:1271
+@ -4240,31 +4240,31 @@ translate spanish_LatAm Audrey_7_shemale_0ae9bcd0_5:
 translate spanish_LatAm Audrey_7_shemale_f7b5d1df:
 
     # Audrey "Are you ready to get your huge cock back in my hole?"
     Audrey ""
+    Audrey "¿Listo para metérmela en mi hoyo?"
 
 # game/logic/events/audrey.rpy:1272
 translate spanish_LatAm Audrey_7_shemale_6acac6e1:
 
     # ch_Name "Oh... I guess..."
     ch_Name ""
+    ch_Name "Oh... Supongo..."
 
 # game/logic/events/audrey.rpy:1273
 translate spanish_LatAm Audrey_7_shemale_fb9810e8:
 
     # ch_Name "I'm not sure."
     ch_Name ""
+    ch_Name "No estoy seguro."
 
 # game/logic/events/audrey.rpy:1275
 translate spanish_LatAm Audrey_7_shemale_606788c1:
 
     # ch_Name "What was that all about?"
     ch_Name ""
+    ch_Name "¿Qué fue todo eso?"
 
 # game/logic/events/audrey.rpy:1276
 translate spanish_LatAm Audrey_7_shemale_757a49a6:
 
     # ch_Name "My head is spinning..."
     ch_Name ""
+    ch_Name "Mi cabeza me da mil vueltas..."
 
 # game/logic/events/audrey.rpy:1277
 translate spanish_LatAm Audrey_7_shemale_b385b852:
-
-    # Audrey "Hey!"
-    Audrey ""
-
-# game/logic/events/audrey.rpy:1279
+@ -4276,55 +4276,55 @@ translate spanish_LatAm Audrey_7_shemale_b385b852:
 translate spanish_LatAm Audrey_7_shemale_73b628b1:
 
     # Audrey "Stop whining and asking questions, okay?"
     Audrey ""
+    Audrey "Deja de quejarte y hacer preguntas."
 
 # game/logic/events/audrey.rpy:1280
 translate spanish_LatAm Audrey_7_shemale_4e9c49a7:
 
     # Audrey "You know what I want you to do!"
     Audrey ""
+    Audrey "¡Sabes qué es lo que quiero!"
 
 # game/logic/events/audrey.rpy:1281
 translate spanish_LatAm Audrey_7_shemale_8bacebb2:
 
     # Audrey "FUCK ME."
     Audrey ""
+    Audrey "FÓLLAME."
 
 # game/logic/events/audrey.rpy:1283
 translate spanish_LatAm Audrey_7_shemale_6d8e0e82:
 
     # ch_Name "Oh... All right."
     ch_Name ""
+    ch_Name "Oh... Muy bien."
 
 # game/logic/events/audrey.rpy:1284
 translate spanish_LatAm Audrey_7_shemale_48dfd8d1:
 
     # ch_Name "How can I refuse such a request?"
     ch_Name ""
+    ch_Name "¿Cómo puedo rechazar esa petición?"
 
 # game/logic/events/audrey.rpy:1286
 translate spanish_LatAm Audrey_7_shemale_11a1ab31:
 
     # Audrey "That's better!"
     Audrey ""
+    Audrey "¡Así está mejor!"
 
 # game/logic/events/audrey.rpy:1287
 translate spanish_LatAm Audrey_7_shemale_8df623f8:
 
     # Audrey "Oh yeah..."
     Audrey ""
+    Audrey "Oh, sí..."
 
 # game/logic/events/audrey.rpy:1289
 translate spanish_LatAm Audrey_7_shemale_91d2e4e2:
 
     # ch_Name "{i}(I have to ignore the dizziness... It's too nice to stop.){/i}"
     ch_Name ""
+    ch_Name "{i}(Debo ignorar su pene y el mareo... Es mucho para detenerme ahora.){/i}"
 
 # game/logic/events/audrey.rpy:1291
 translate spanish_LatAm Audrey_7_shemale_ce804928:
 
     # ch_Name "Here I go!"
     ch_Name ""
+    ch_Name "¡Aquí voy!"
 
 # game/logic/events/audrey.rpy:1292
 translate spanish_LatAm Audrey_7_shemale_fac02ba5_2:
-
-    # ch_Name "Mhm..."
-    ch_Name ""
-
-# game/logic/events/audrey.rpy:1293
-translate spanish_LatAm Audrey_7_shemale_3b476c8d_2:
-
-    # Audrey "Oh... ah... uhm..."
-    Audrey ""
-
-# game/logic/events/audrey.rpy:1294
-translate spanish_LatAm Audrey_7_shemale_fac02ba5_3:
-
-    # ch_Name "Mhm..."
-    ch_Name ""
-
-# game/logic/events/audrey.rpy:1296
+@ -4348,19 +4348,19 @@ translate spanish_LatAm Audrey_7_shemale_fac02ba5_3:
 translate spanish_LatAm Audrey_7_shemale_a41ea034:
 
     # ch_Name "{i}(I can feel the pleasure ripple through her body.){/i}"
     ch_Name ""
+    ch_Name "{i}(Puedo sentir el placer en su cuerpo.){/i}"
 
 # game/logic/events/audrey.rpy:1297
 translate spanish_LatAm Audrey_7_shemale_be588d4a:
 
     # Audrey "Yes! Just like that!"
     Audrey ""
+    Audrey "¡Sí, justo así!"
 
 # game/logic/events/audrey.rpy:1298
 translate spanish_LatAm Audrey_7_shemale_730cfb2c_1:
 
     # Audrey "So...{w} Good..."
     Audrey ""
+    Audrey "Tan... {w} Bueno..."
 
 # game/logic/events/audrey.rpy:1299
 translate spanish_LatAm Audrey_7_shemale_4ee2d01e_1:
-
-    # Audrey "Mhm..."
-    Audrey ""
-
-# game/logic/events/audrey.rpy:1301
+@ -4372,13 +4372,13 @@ translate spanish_LatAm Audrey_7_shemale_4ee2d01e_1:
 translate spanish_LatAm Audrey_7_shemale_3023ca42:
 
     # Audrey "Don't stop! Fuck me harder!"
     Audrey ""
+    Audrey "¡No pares! ¡Fóllame más fuerte!"
 
 # game/logic/events/audrey.rpy:1302
 translate spanish_LatAm Audrey_7_shemale_ce96d05e:
 
     # Audrey "Oh... Yes... That's it!"
     Audrey ""
+    Audrey "Oh... sí... Eso es."
 
 # game/logic/events/audrey.rpy:1303
 translate spanish_LatAm Audrey_7_shemale_3b476c8d_3:
-
-    # Audrey "Oh... ah... uhm..."
-    Audrey ""
-
-# game/logic/events/audrey.rpy:1304
-translate spanish_LatAm Audrey_7_shemale_fac02ba5_4:
-
-    # ch_Name "Mhm..."
-    ch_Name ""
-
-# game/logic/events/audrey.rpy:1306
+@ -4396,7 +4396,7 @@ translate spanish_LatAm Audrey_7_shemale_fac02ba5_4:
 translate spanish_LatAm Audrey_7_shemale_78c2e269:
 
     # Audrey "Your cock fills me completely... It feels so good..."
     Audrey ""
+    Audrey "tu pene me llena... Se siente muy bien..."
 
 # game/logic/events/audrey.rpy:1307
 translate spanish_LatAm Audrey_7_shemale_fac02ba5_5:
-
-    # ch_Name "Mhm..."
-    ch_Name ""
-
-# game/logic/events/audrey.rpy:1308
-translate spanish_LatAm Audrey_7_shemale_2d5b0d4b:
-
-    # Audrey "Oh... ahh... uhm..."
-    Audrey ""
-
-# game/logic/events/audrey.rpy:1309
+@ -4414,13 +4414,13 @@ translate spanish_LatAm Audrey_7_shemale_2d5b0d4b:
 translate spanish_LatAm Audrey_7_shemale_0ca82cfb:
 
     # Audrey "I'm about to have an orgasm..."
     Audrey ""
+    Audrey "Me voy a cumear aquí..."
 
 # game/logic/events/audrey.rpy:1311
 translate spanish_LatAm Audrey_7_shemale_2183b87b:
 
     # ch_Name "{i}(I can do this!){/i}"
     ch_Name ""
+    ch_Name "{i}(¡Puedo hacerlo!){/i}"
 
 # game/logic/events/audrey.rpy:1312
 translate spanish_LatAm Audrey_7_shemale_08cecdb3:
-
-    # Audrey "Ah... Ah-h... A-H-H!"
-    Audrey ""
-
-# game/logic/events/audrey.rpy:1313
+@ -4432,7 +4432,7 @@ translate spanish_LatAm Audrey_7_shemale_08cecdb3:
 translate spanish_LatAm Audrey_7_shemale_eff5249f:
 
     # Audrey "I'm almost there..."
     Audrey ""
+    Audrey "Ya casi estoy..."
 
 # game/logic/events/audrey.rpy:1315
 translate spanish_LatAm Audrey_7_shemale_41b18ab1:
-
-    # Audrey "Oh..." with hpunch
-    Audrey "" with hpunch
-
-# game/logic/events/audrey.rpy:1316
+@ -4444,37 +4444,37 @@ translate spanish_LatAm Audrey_7_shemale_41b18ab1:
 translate spanish_LatAm Audrey_7_shemale_a5de0c11:
 
     # Audrey "Oh... Yes. That's it!"
     Audrey ""
+    Audrey "Oh... Yes. Eso es."
 
 # game/logic/events/audrey.rpy:1317
 translate spanish_LatAm Audrey_7_shemale_3dc1413f:
 
     # Audrey "I'm done..."
     Audrey ""
+    Audrey "Terminé..."
 
 # game/logic/events/audrey.rpy:1319
 translate spanish_LatAm Audrey_7_shemale_919fd414:
 
     # Audrey "That was incredible!"
     Audrey ""
+    Audrey "¡Eso fue increíble!"
 
 # game/logic/events/audrey.rpy:1320
 translate spanish_LatAm Audrey_7_shemale_060806f7:
 
     # ch_Name "{i}(It's strange that she's not even close to me anymore...){/i}"
     ch_Name ""
+    ch_Name "{i}(Es extraño ver que una mujer saque semen...){/i}"
 
 # game/logic/events/audrey.rpy:1321
 translate spanish_LatAm Audrey_7_shemale_fd8ef716:
 
     # Audrey "How much longer are you in there?"
     Audrey ""
+    Audrey "¿Cuánto más te falta?"
 
 # game/logic/events/audrey.rpy:1323
 translate spanish_LatAm Audrey_7_shemale_66f3430d:
 
     # Audrey "Finish it already!"
     Audrey ""
+    Audrey "¡Termina ya!"
 
 # game/logic/events/audrey.rpy:1324
 translate spanish_LatAm Audrey_7_shemale_43988d67:
-
-    # ch_Name "Um..."
-    ch_Name ""
-
-# game/logic/events/audrey.rpy:1325
+@ -4486,115 +4486,115 @@ translate spanish_LatAm Audrey_7_shemale_43988d67:
 translate spanish_LatAm Audrey_7_shemale_d5b4a72b:
 
     # ch_Name "To be honest, I'm not even close yet, baby."
     ch_Name ""
+    ch_Name "Siendo honesto, no estoy ni un poco cerca."
 
 # game/logic/events/audrey.rpy:1326
 translate spanish_LatAm Audrey_7_shemale_74ff5f48:
 
     # Audrey "Why should that be my problem? Get it out."
     Audrey ""
+    Audrey "¿Por qué debería importarme? Sácalo."
 
 # game/logic/events/audrey.rpy:1327
 translate spanish_LatAm Audrey_7_shemale_b510ad9f:
 
     # ch_Name "But..."
     ch_Name ""
+    ch_Name "Pero..."
 
 # game/logic/events/audrey.rpy:1329
 translate spanish_LatAm Audrey_7_shemale_451c49e1:
 
     # Audrey "Get it out, I said!" with hpunch
     Audrey "" with hpunch
+    Audrey "¡Dije que lo saques!" with hpunch
 
 # game/logic/events/audrey.rpy:1330
 translate spanish_LatAm Audrey_7_shemale_51fe0ce2:
 
     # ch_Name "Oh, okay, well..."
     ch_Name ""
+    ch_Name "Oh, muy bien, bueno..."
 
 # game/logic/events/audrey.rpy:1331
 translate spanish_LatAm Audrey_7_shemale_ce338fb2:
 
-    # ch_Name "But I'll need your help to cum."
+    # ch_Name "But I'll need your help to come."
     ch_Name ""
+    ch_Name "Tal vez necesite algo más para venirme."
 
 # game/logic/events/audrey.rpy:1333
 translate spanish_LatAm Audrey_7_shemale_16df9d7f:
 
     # Audrey "Don't count on a blow job. I'm tired."
     Audrey ""
+    Audrey "Ni pienses en una mamada. Estoy cansado... cansada."
 
 # game/logic/events/audrey.rpy:1334
 translate spanish_LatAm Audrey_7_shemale_55ba7ed0:
 
     # Audrey "And you already got more than you deserve tonight."
     Audrey ""
+    Audrey "Y ya tuviste más de lo que merecías hoy."
 
 # game/logic/events/audrey.rpy:1335
 translate spanish_LatAm Audrey_7_shemale_682578ae:
 
     # Audrey "If it helps, you can jerk off to me."
     Audrey ""
+    Audrey "Si de algo sirve, puedes jalártela viendo mi polla."
 
 # game/logic/events/audrey.rpy:1337
 translate spanish_LatAm Audrey_7_shemale_52fef265:
 
     # Audrey "But hurry up, I've got a lot to do."
     Audrey ""
+    Audrey "Pero apúrate, tengo cosas qué hacer."
 
 # game/logic/events/audrey.rpy:1338
 translate spanish_LatAm Audrey_7_shemale_baf22535:
 
     # ch_Name "{i}(So much for Audrey using me as a dildo on her feet.){/i}"
     ch_Name ""
+    ch_Name "{i}(Es como si me usara de consolador.){/i}"
 
 # game/logic/events/audrey.rpy:1340
 translate spanish_LatAm Audrey_7_shemale_97af16ee:
 
     # ch_Name "Now, now."
     ch_Name ""
+    ch_Name "Ya, ya."
 
 # game/logic/events/audrey.rpy:1341
 translate spanish_LatAm Audrey_7_shemale_bddcd34a:
 
     # ch_Name "Your whims don't make it go any faster."
     ch_Name ""
+    ch_Name "Tus gritos no lo harán más rápido."
 
 # game/logic/events/audrey.rpy:1343
 translate spanish_LatAm Audrey_7_shemale_5608b823:
 
     # ch_Name "{i}(Damn it... I should be at my limit by now.){/i}"
     ch_Name ""
+    ch_Name "{i}(Joder... Debo estar en mi límite ahora.){/i}"
 
 # game/logic/events/audrey.rpy:1344
 translate spanish_LatAm Audrey_7_shemale_6fb51edd:
 
     # ch_Name "{i}(And I hardly feel any pleasure...){/i}"
     ch_Name ""
+    ch_Name "{i}(Apenas siento placer por ver esa...){/i}"
 
 # game/logic/events/audrey.rpy:1346
 translate spanish_LatAm Audrey_7_shemale_ed7cd657:
 
     # ch_Name "{i}(What a bummer about this dry humping.){/i}"
     ch_Name ""
+    ch_Name "{i}(Qué fastidio que no sea como debería.){/i}"
 
 # game/logic/events/audrey.rpy:1347
 translate spanish_LatAm Audrey_7_shemale_d1c738d9:
 
     # ch_Name "Something's wrong..."
     ch_Name ""
+    ch_Name "Algo está mal..."
 
 # game/logic/events/audrey.rpy:1349
 translate spanish_LatAm Audrey_7_shemale_4ae8e156:
 
     # ch_Name "I'm passing out from fatigue and dizzy..."
     ch_Name ""
+    ch_Name "Me voy a desmayar por el mareo y el asco..."
 
 # game/logic/events/audrey.rpy:1350
 translate spanish_LatAm Audrey_7_shemale_632fb309:
 
     # ch_Name "It's hard to concentrate."
     ch_Name ""
+    ch_Name "Es difícil concentrarme."
 
 # game/logic/events/audrey.rpy:1351
 translate spanish_LatAm Audrey_7_shemale_9caeb230:
-
-    # Audrey "Hmm..."
-    Audrey ""
-
-# game/logic/events/audrey.rpy:1353
+@ -4606,151 +4606,151 @@ translate spanish_LatAm Audrey_7_shemale_9caeb230:
 translate spanish_LatAm Audrey_7_shemale_8709bc91:
 
     # Audrey "I wonder how that happened."
     Audrey ""
+    Audrey "Creo que sé lo que pasó."
 
 # game/logic/events/audrey.rpy:1354
 translate spanish_LatAm Audrey_7_shemale_21eb70f9:
 
     # Audrey "Maybe you don't have enough vitamins in your system?"
     Audrey ""
+    Audrey "¿Tal vez no tienes suficientes vitaminas en tu sistema?"
 
 # game/logic/events/audrey.rpy:1355
 translate spanish_LatAm Audrey_7_shemale_e216c47b:
 
     # ch_Name "Are you kidding me?"
     ch_Name ""
+    ch_Name "¿Me estás bromeando?"
 
 # game/logic/events/audrey.rpy:1357
 translate spanish_LatAm Audrey_7_shemale_5c96de3d:
 
     # Audrey "No, but I'm about to start."
     Audrey ""
+    Audrey "No, pero lo voy a hacer."
 
 # game/logic/events/audrey.rpy:1358
 translate spanish_LatAm Audrey_7_shemale_4533a1e0:
 
     # Audrey "Cause your dick is getting a little sluggish."
     Audrey ""
+    Audrey "Porque tu pene se está empezando a arrugar."
 
 # game/logic/events/audrey.rpy:1359
 translate spanish_LatAm Audrey_7_shemale_36fbcfdf:
 
     # ch_Name "Wait, I need to get my head together."
     ch_Name ""
+    ch_Name "Espera, necesito concentrarme."
 
 # game/logic/events/audrey.rpy:1361
 translate spanish_LatAm Audrey_7_shemale_1c2426a4:
 
     # Audrey "Oh, no, that's no good."
     Audrey ""
+    Audrey "Oh, no. Así no."
 
 # game/logic/events/audrey.rpy:1362
 translate spanish_LatAm Audrey_7_shemale_fa70fd98:
 
     # Audrey "Stop wasting my time and get lost, impotent."
     Audrey ""
+    Audrey "Deja de hacerme perder el tiempo y lárgate, impotente."
 
 # game/logic/events/audrey.rpy:1363
 translate spanish_LatAm Audrey_7_shemale_5ede8713:
 
     # ch_Name "Why so rude?"
     ch_Name ""
+    ch_Name "¿Por qué tan ruda?"
 
 # game/logic/events/audrey.rpy:1365
 translate spanish_LatAm Audrey_7_shemale_0b5d45f8:
 
     # ch_Name "You already came, so what's it to you?"
     ch_Name ""
+    ch_Name "Ya te cumeaste, ¿Así que qué te importa?"
 
 # game/logic/events/audrey.rpy:1366
 translate spanish_LatAm Audrey_7_shemale_861ecc0e:
 
     # ch_Name "Besides, it's the first time."
     ch_Name ""
+    ch_Name "Además es la primera vez."
 
 # game/logic/events/audrey.rpy:1367
 translate spanish_LatAm Audrey_7_shemale_e97777f9:
 
     # ch_Name "I usually have no problem getting a hard-on, I swear."
     ch_Name ""
+    ch_Name "No suelo tener problemas para tener una erección, lo juro."
 
 # game/logic/events/audrey.rpy:1369
 translate spanish_LatAm Audrey_7_shemale_705a3291:
 
     # Audrey "Yes, that's what all impotent men say."
     Audrey ""
+    Audrey "Sí, eso es todo lo que los impotentes suelen decir."
 
 # game/logic/events/audrey.rpy:1370
 translate spanish_LatAm Audrey_7_shemale_f71fd2d0:
 
     # Audrey "Once a year and the stick shoots."
     Audrey ""
+    Audrey "Una vez al año y la vara dispara."
 
 # game/logic/events/audrey.rpy:1371
 translate spanish_LatAm Audrey_7_shemale_9fec9f08:
 
     # Audrey "Although yours didn't even shoot, just aimed."
     Audrey ""
+    Audrey "Aunque la tuya ni siquiera disparó, sólo apuntó."
 
 # game/logic/events/audrey.rpy:1373
 translate spanish_LatAm Audrey_7_shemale_90f6ee1d:
 
     # ch_Name "That's not fair..."
     ch_Name ""
+    ch_Name "No es justo..."
 
 # game/logic/events/audrey.rpy:1374
 translate spanish_LatAm Audrey_7_shemale_d2d1281a:
 
     # ch_Name "My nickname is..."
     ch_Name ""
+    ch_Name "Mi apodo es..."
 
 # game/logic/events/audrey.rpy:1376
 translate spanish_LatAm Audrey_7_shemale_5a8d862e:
 
     # Audrey "Stop wasting my time, [Name]! Get out of here."
     Audrey ""
+    Audrey "No me hagas perder el tiempo, [Name]. Largo de aquí."
 
 # game/logic/events/audrey.rpy:1377
 translate spanish_LatAm Audrey_7_shemale_11dbf333:
 
     # Audrey "You can jerk off somewhere else."
     Audrey ""
+    Audrey "Puedes jalártela en otro lugar."
 
 # game/logic/events/audrey.rpy:1378
 translate spanish_LatAm Audrey_7_shemale_b510ad9f_1:
 
     # ch_Name "But..."
     ch_Name ""
+    ch_Name "Pero..."
 
 # game/logic/events/audrey.rpy:1380
 translate spanish_LatAm Audrey_7_shemale_edb4b40a:
 
     # Audrey "There's a way out." with hpunch
     Audrey "" with hpunch
+    Audrey "Allá está la salida." with hpunch
 
 # game/logic/events/audrey.rpy:1381
 translate spanish_LatAm Audrey_7_shemale_8b5ae744:
 
     # ch_Name "{i}(Unbelievable!){/i}"
     ch_Name ""
+    ch_Name "{i}(¡Increíble!){/i}"
 
 # game/logic/events/audrey.rpy:1382
 translate spanish_LatAm Audrey_7_shemale_e00bb96c:
 
     # ch_Name "{i}(What a bitch...){/i}"
     ch_Name ""
+    ch_Name "{i}(Pero que zorra...){/i}"
 
 # game/logic/events/audrey.rpy:1383
 translate spanish_LatAm Audrey_7_shemale_935f6ba4:
 
     # ch_Name "{i}(I need to figure out why I'm so fucked up today.){/i}"
     ch_Name ""
+    ch_Name "{i}(Debo descubrir por qué me siento de la verga hoy.){/i}"
 
 # game/logic/events/audrey.rpy:1384
 translate spanish_LatAm Audrey_7_shemale_b856a391:
 
     # ch_Name "{i}(And offer her round two.){/i}"
     ch_Name ""
+    ch_Name "{i}(Y tal vez ofrecerle una segunda ronda.){/i}"
 
 # game/logic/events/audrey.rpy:1385
 translate spanish_LatAm Audrey_7_shemale_25aa0e12:
-
-    # ch_Name "Pfft."
-    ch_Name ""
-
-# game/logic/events/audrey.rpy:1386
+@ -4762,7 +4762,7 @@ translate spanish_LatAm Audrey_7_shemale_25aa0e12:
 translate spanish_LatAm Audrey_7_shemale_3e3e63f8:
 
     # ch_Name "Good luck."
     ch_Name ""
-
+    ch_Name "Buena suerte."
 # game/logic/events/audrey.rpy:1396
 translate spanish_LatAm Audrey_6_label_b6ce45a5:
 
