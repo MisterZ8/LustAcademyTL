@@ -4,193 +4,193 @@
 translate philippine Samantha_3_label_f53da6c1:
 
     # ch_Name "Mr. Frollo, may I have a moment of your time?"
-    ch_Name ""
+    ch_Name "Mr. Frollo, may sandali ka ba?"
 
 # game/logic/events/jacob.rpy:96
 translate philippine Samantha_3_label_8a138f19:
 
     # Jacob "Be quick, I'm a busy man."
-    Jacob ""
+    Jacob "Bilisan mo, may gagawin pa ako."
 
 # game/logic/events/jacob.rpy:97
 translate philippine Samantha_3_label_c3bd7cd7:
 
     # Jacob "Come on, [Surname], spit it out."
-    Jacob ""
+    Jacob "Sige na, [Surname]. Sabihin mo na."
 
 # game/logic/events/jacob.rpy:98
 translate philippine Samantha_3_label_febe85e1:
 
     # Jacob "I've got my hands full."
-    Jacob ""
+    Jacob "Wala na akong oras."
 
 # game/logic/events/jacob.rpy:99
 translate philippine Samantha_3_label_9dc8023c:
 
     # ch_Name "{i}(So how do I get him on the right topic without names...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Paano ko ba sasabihin ito na walang mababanggit na pangalan...){/i}"
 
 # game/logic/events/jacob.rpy:100
 translate philippine Samantha_3_label_f66b1e12:
 
     # Jacob "Well?"
-    Jacob ""
+    Jacob "Ano ba?"
 
 # game/logic/events/jacob.rpy:102
 translate philippine Samantha_3_label_cc00f8fa:
 
     # ch_Name "Yesterday a third-year student told us that magic can be exhausted."
-    ch_Name ""
+    ch_Name "Kahapon may nagsabi na ang mahika ay mauubos."
 
 # game/logic/events/jacob.rpy:103
 translate philippine Samantha_3_label_c99d3fff:
 
     # Jacob "What? What exactly was he saying?"
-    Jacob ""
+    Jacob "Ano? Ano ba ang sinabi niya?"
 
 # game/logic/events/jacob.rpy:105
 translate philippine Samantha_3_label_50f65561:
 
     # ch_Name "He was telling us that a student from another school was getting sore hands."
-    ch_Name ""
+    ch_Name "Sabi niya na may estudyante sa ibang paaralan na nananakit ang kamay."
 
 # game/logic/events/jacob.rpy:106
 translate philippine Samantha_3_label_a0194069:
 
     # ch_Name "When he was doing magic."
-    ch_Name ""
+    ch_Name "Kapag gumagamit siya ng mahika."
 
 # game/logic/events/jacob.rpy:107
 translate philippine Samantha_3_label_b55f0d6a:
 
     # ch_Name "And then he lost the ability to do complex spells. At all."
-    ch_Name ""
+    ch_Name "At nawala ang kanyang kakayahang maggamit ng mga mahirap na mahika."
 
 # game/logic/events/jacob.rpy:108
 translate philippine Samantha_3_label_162ccf44:
 
     # ch_Name "Could that possibly be true?"
-    ch_Name ""
+    ch_Name "Totoo ba ito?"
 
 # game/logic/events/jacob.rpy:110
 translate philippine Samantha_3_label_26b44415:
 
     # Jacob "Hmm. I've heard of such symptoms, but..."
-    Jacob ""
+    Jacob "Hmm. Nakarinig na ako ng mga sintomas na ito, pero..."
 
 # game/logic/events/jacob.rpy:111
 translate philippine Samantha_3_label_c146d49a:
 
     # Jacob "Why, are you experiencing something similar?"
-    Jacob ""
+    Jacob "Bakit, may nararanasan ka rin ba na ganito?"
 
 # game/logic/events/jacob.rpy:113
 translate philippine Samantha_3_label_08783fb8:
 
     # ch_Name "No, not really. It's a story."
-    ch_Name ""
+    ch_Name "Hindi naman. Kuwento lamang."
 
 # game/logic/events/jacob.rpy:114
 translate philippine Samantha_3_label_eac193b9:
 
     # ch_Name "I'm just scared, to be honest."
-    ch_Name ""
+    ch_Name "Natakot lang ako, sa totoo lang."
 
 # game/logic/events/jacob.rpy:116
 translate philippine Samantha_3_label_94890760:
 
     # Jacob "Don't get any ideas, [Surname]. These things don't just happen."
-    Jacob ""
+    Jacob "'Wag kang mag-akala, [Surname]. Hindi ito nangyayari lamang."
 
 # game/logic/events/jacob.rpy:117
 translate philippine Samantha_3_label_3af329f2:
 
     # Jacob "Is that all you wanted?"
-    Jacob ""
+    Jacob "'Yan lang ba ang gusto mo?"
 
 # game/logic/events/jacob.rpy:118
 translate philippine Samantha_3_label_61471075:
 
     # Jacob "I have better things to do than dispel student myths."
-    Jacob ""
+    Jacob "May iba pa akong gagawin, hindi lamang ang pagwaksi ng mga alamat."
 
 # game/logic/events/jacob.rpy:120
 translate philippine Samantha_3_label_330c04cf:
 
     # ch_Name "Wait a minute!"
-    ch_Name ""
+    ch_Name "Sandali!"
 
 # game/logic/events/jacob.rpy:121
 translate philippine Samantha_3_label_ef96d3b2:
 
     # ch_Name "It's important for me to know what makes it happen. And how to treat it."
-    ch_Name ""
+    ch_Name "Dapat kong malaman kung ano ang dahilan nito. At kung paano paayusin."
 
 # game/logic/events/jacob.rpy:123
 translate philippine Samantha_3_label_233122c3:
 
     # Jacob "You seem very interested in the subject, [Surname]."
-    Jacob ""
+    Jacob "Parang interesado ka talaga, [Surname]."
 
 # game/logic/events/jacob.rpy:125
 translate philippine Samantha_3_label_41ff4fa1:
 
     # ch_Name "Curiosity and hypochondria are my greatest enemies."
-    ch_Name ""
+    ch_Name "Ang pagkamausisa at hypochondria ang pinakadakilang kalaban ko."
 
 # game/logic/events/jacob.rpy:126
 translate philippine Samantha_3_label_6620a107:
 
     # ch_Name "I want to make sure this doesn't happen to me."
-    ch_Name ""
+    ch_Name "Gusto ko lang malaman na hindi ito mangyayari sa akin."
 
 # game/logic/events/jacob.rpy:127
 translate philippine Samantha_3_label_a99b65aa:
 
     # ch_Name "Otherwise I won't be able to sleep."
-    ch_Name ""
+    ch_Name "Kujng hindi, 'di ako makakatulog sa gabi."
 
 # game/logic/events/jacob.rpy:129
 translate philippine Samantha_3_label_ba4b5b4c:
 
     # Jacob "You're not a convincing liar, Mr. [Surname]."
-    Jacob ""
+    Jacob "Hindi ka magaling sa pagsinungaling, Mr. [Surname]."
 
 # game/logic/events/jacob.rpy:130
 translate philippine Samantha_3_label_8be62783:
 
     # Jacob "No wonder you go to Leonheart."
-    Jacob ""
+    Jacob "Kaya pala Leonheart ka."
 
 # game/logic/events/jacob.rpy:131
 translate philippine Samantha_3_label_f71ee413:
 
     # ch_Name "{i}(Damn, no fooling him.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Puta, hindi siya maloloko.){/i}"
 
 # game/logic/events/jacob.rpy:132
 translate philippine Samantha_3_label_649da0df:
 
     # ch_Name "{i}(What to do?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ano ba ang gagawin ko?.){/i}"
 
 # game/logic/events/jacob.rpy:141
 translate philippine Samantha_3_label_7a85d41f:
 
     # Jacob "{i}(Unintelligible interference){/i}"
-    Jacob ""
+    Jacob "{i}(Hindi maintindihan na panghihimasok.){/i}"
 
 # game/logic/events/jacob.rpy:143
 translate philippine Samantha_3_label_f20b2ca2:
 
     # Jacob "{i}(Do you think you're the first student to have this gift?){/i}"
-    Jacob ""
+    Jacob "{i}("{i}(Sa tingin mo ba ikaw ang unang mag-aaral na nagkaroon ng kakayahang ito?){/i}"?){/i}"
 
 # game/logic/events/jacob.rpy:144
 translate philippine Samantha_3_label_6a01d9a3:
 
     # Jacob "{i}(Getting into teachers' heads with your weak skill is unwise.){/i}"
-    Jacob ""
+    Jacob "{i}(Hindi matalino ang pagpasok sa ulo ng mga guro kapag mahina ang kakayahan mo.){/i}"
 
 # game/logic/events/jacob.rpy:145
 translate philippine Samantha_3_label_0b362666:
@@ -202,439 +202,439 @@ translate philippine Samantha_3_label_0b362666:
 translate philippine Samantha_3_label_a7314be9:
 
     # ch_Name "Ah-ah-ah... Damn, that hurt."
-    ch_Name ""
+    ch_Name "Ah-ah-ah... Bwisit, ang sakit."
 
 # game/logic/events/jacob.rpy:148
 translate philippine Samantha_3_label_113e16cd:
 
     # ch_Name "What was that? Your voice in my head..."
-    ch_Name ""
+    ch_Name "Ano ba 'yun? Ang boses mo sa ulo ko..."
 
 # game/logic/events/jacob.rpy:149
 translate philippine Samantha_3_label_b21c0a80:
 
     # Jacob "Reading minds is just one of the skills of mind magic."
-    Jacob ""
+    Jacob "Ang pagbabasa ng mga isip ay isa lamang sa mga kasanayan sa mahika ng isip."
 
 # game/logic/events/jacob.rpy:150
 translate philippine Samantha_3_label_ae7f09d1:
 
     # Jacob "I hope you've learned your lesson."
-    Jacob ""
+    Jacob "Sana natutunan mo ang iyong aralin."
 
 # game/logic/events/jacob.rpy:151
 translate philippine Samantha_3_label_3180cc4b:
 
     # ch_Name "I have."
-    ch_Name ""
+    ch_Name "Oo."
 
 # game/logic/events/jacob.rpy:153
 translate philippine Samantha_3_label_82c13ae9:
 
     # ch_Name "I apologize."
-    ch_Name ""
+    ch_Name "Patawad na po."
 
 # game/logic/events/jacob.rpy:156
 translate philippine Samantha_3_label_43_f0536800:
 
     # ch_Name "Mr. Frollo, the truth is, I can't tell you what I need this information for."
-    ch_Name ""
+    ch_Name "Mr. Frollo, sa totoo lang, hindi ko masasabi sa iyo kung bakit kailangan ko ang impormasyong ito."
 
 # game/logic/events/jacob.rpy:157
 translate philippine Samantha_3_label_43_09534c55:
 
     # ch_Name "But it's a matter of life and death."
-    ch_Name ""
+    ch_Name "Pero buhay at kamatayan ito."
 
 # game/logic/events/jacob.rpy:159
 translate philippine Samantha_3_label_43_82113bfe:
 
     # ch_Name "If you help me, I'll be indebted to you."
-    ch_Name ""
+    ch_Name "Kung tutulungan mo ako, may utang na loob sa iyo."
 
 # game/logic/events/jacob.rpy:160
 translate philippine Samantha_3_label_43_fe89c128:
 
     # ch_Name "Please..."
-    ch_Name ""
+    ch_Name "Pakiusap nga..."
 
 # game/logic/events/jacob.rpy:161
 translate philippine Samantha_3_label_43_905bed4a:
 
     # Jacob "Now, that's a whole other conversation."
-    Jacob ""
+    Jacob "Ibang usapan na 'yan."
 
 # game/logic/events/jacob.rpy:163
 translate philippine Samantha_3_label_43_849a2efa:
 
     # Jacob "Mr. [Surname], are you willing to make a {b}magic pact{/b} with me?"
-    Jacob ""
+    Jacob "Mr. [Surname], handa ka bang gumawa ng {b}kasunduang mahika{/b} sa akin?"
 
 # game/logic/events/jacob.rpy:164
 translate philippine Samantha_3_label_43_dd664cea:
 
     # ch_Name "Could you be more specific about what that means?"
-    ch_Name ""
+    ch_Name "Pwede bang maging mas tiyak ka tungkol sa ibig sabihin nito?"
 
 # game/logic/events/jacob.rpy:165
 translate philippine Samantha_3_label_43_d4091b5a:
 
     # Jacob "You say you will be indebted to me, do you not?"
-    Jacob ""
+    Jacob "Sabi mo na may utang na loob ka sa akin, diba?"
 
 # game/logic/events/jacob.rpy:166
 translate philippine Samantha_3_label_43_b5abaa71:
 
     # Jacob "In the magical world, such words carry weight."
-    Jacob ""
+    Jacob "Sa mundo ng mahika, may kapangyarihan ang mga salita."
 
 # game/logic/events/jacob.rpy:167
 translate philippine Samantha_3_label_43_32799593:
 
     # Jacob "You and I will make a pact, and when the time comes, I will charge you for your service."
-    Jacob ""
+    Jacob "Gagawa tayo ng kasunduan, at sa tamang oras, sisingilin kita para sa iyong serbisyo."
 
 # game/logic/events/jacob.rpy:169
 translate philippine Samantha_3_label_43_23d41321:
 
     # ch_Name "And what happens to the one who breaks the contract?"
-    ch_Name ""
+    ch_Name "At ano ang mangyayari sa sisira sa kontrata?"
 
 # game/logic/events/jacob.rpy:171
 translate philippine Samantha_3_label_43_1e15df64:
 
     # Jacob "Are you such a one?"
-    Jacob ""
+    Jacob "Ganyan ka bang klase ng tao?"
 
 # game/logic/events/jacob.rpy:172
 translate philippine Samantha_3_label_43_6b672d2d:
 
     # ch_Name "Of course not. But I wonder..."
-    ch_Name ""
+    ch_Name "'Di naman. Pero nag-iisip lang ako..."
 
 # game/logic/events/jacob.rpy:174
 translate philippine Samantha_3_label_43_0581fa66:
 
     # Jacob "{b}His magic will be sealed forever.{/b}"
-    Jacob ""
+    Jacob "{b}Ang kanyang mahika ay tatatakan magpakailanman.{/b}"
 
 # game/logic/events/jacob.rpy:176
 translate philippine Samantha_3_label_43_cfa5cf05:
 
     # ch_Name "All I ask is that you share your knowledge as a student teacher..."
-    ch_Name ""
+    ch_Name "Ang hinihilang ko lang ay ibahagi mo lang kaalaman mo bilang guro..."
 
 # game/logic/events/jacob.rpy:177
 translate philippine Samantha_3_label_43_d47f537f:
 
     # Jacob "Ah, excuse me."
-    Jacob ""
+    Jacob "Ah, pasensya na."
 
 # game/logic/events/jacob.rpy:178
 translate philippine Samantha_3_label_43_ee8600a4:
 
     # Jacob "It seemed to me that you were in urgent need of information that only I have."
-    Jacob ""
+    Jacob "Para sa akin, kailangan mo ng impormasyon na ako lang ang may alam."
 
 # game/logic/events/jacob.rpy:179
 translate philippine Samantha_3_label_43_5267ad28:
 
     # Jacob "But if you just wanted to learn, wait until your third year."
-    Jacob ""
+    Jacob "Pero kung gusto mo matutunan, maghintay ka hanggang sa ikatlong taon mo."
 
 # game/logic/events/jacob.rpy:180
 translate philippine Samantha_3_label_43_f79d9129:
 
     # Jacob "That's when we're going to go over this topic."
-    Jacob ""
+    Jacob "Doon na natin tatalakayin ang paksang ito."
 
 # game/logic/events/jacob.rpy:182
 translate philippine Samantha_3_label_43_9c75a993:
 
     # Jacob "Now don't waste my time."
-    Jacob ""
+    Jacob "'Wag mo na sayangin ang oras ko."
 
 # game/logic/events/jacob.rpy:183
 translate philippine Samantha_3_label_43_044c0bd5:
 
     # ch_Name "Wait a minute."
-    ch_Name ""
+    ch_Name "Sandali lang."
 
 # game/logic/events/jacob.rpy:184
 translate philippine Samantha_3_label_43_b4464275:
 
     # ch_Name "I'm going to regret this."
-    ch_Name ""
+    ch_Name "Pagsisisihan ko ito."
 
 # game/logic/events/jacob.rpy:186
 translate philippine Samantha_3_label_43_71df9ad2:
 
     # ch_Name "I agree."
-    ch_Name ""
+    ch_Name "Sang-ayon ako."
 
 # game/logic/events/jacob.rpy:187
 translate philippine Samantha_3_label_43_11b7464a:
 
     # Jacob "Information for a favor. Let's shake on it."
-    Jacob ""
+    Jacob "Impormasyon para sa pabor. Magkamay tayo.,"
 
 # game/logic/events/jacob.rpy:188
 translate philippine Samantha_3_label_43_498e35dd:
 
     # Jacob "That's great."
-    Jacob ""
+    Jacob "Mabuti."
 
 # game/logic/events/jacob.rpy:189
 translate philippine Samantha_3_label_43_0f671be6:
 
     # Jacob "It's always nice to know an up-and-coming mage owes you a favor."
-    Jacob ""
+    Jacob "Palaging magandang malaman na may salamangkerong masigasig na may utang sa iyo."
 
 # game/logic/events/jacob.rpy:191
 translate philippine Samantha_3_label_43_4d0dafa9:
 
     # ch_Name "If you say so. Now, please answer my questions."
-    ch_Name ""
+    ch_Name "Sa tingin mo. Sagutin mo na ang mga tanong ko."
 
 # game/logic/events/jacob.rpy:193
 translate philippine Samantha_3_label_43_0393ce09:
 
     # Jacob "I don't know why you need this information so urgently."
-    Jacob ""
+    Jacob "'Di ko alam kung bakit kailangan mo ito kaagad."
 
 # game/logic/events/jacob.rpy:194
 translate philippine Samantha_3_label_43_68b3c03b:
 
     # Jacob "But the symptoms you describe are consistent with..."
-    Jacob ""
+    Jacob "Pero ang mga sintomas na sinabi mo naaalinsunod sa..."
 
 # game/logic/events/jacob.rpy:195
 translate philippine Samantha_3_label_43_f3c533d4:
 
     # Jacob "{b}...a ruptured magical ligament.{/b}"
-    Jacob ""
+    Jacob "{b}...pumutok na mahikang litid.{/b}"
 
 # game/logic/events/jacob.rpy:197
 translate philippine Samantha_3_label_43_19f5ed10:
 
     # ch_Name "A what?!"
-    ch_Name ""
+    ch_Name "Ano?!"
 
 # game/logic/events/jacob.rpy:198
 translate philippine Samantha_3_label_43_1a59728e:
 
     # ch_Name "Magic ligament rupture? Is that like tearing a muscle?"
-    ch_Name ""
+    ch_Name "Pumutok na mahikang litid? Tulad ng pagpunit ng kalamnan?"
 
 # game/logic/events/jacob.rpy:200
 translate philippine Samantha_3_label_43_c8d07b25:
 
     # Jacob "Not exactly. But you get the gist."
-    Jacob ""
+    Jacob "Hindi kaya. Pero nakuha mo ang diwa."
 
 # game/logic/events/jacob.rpy:201
 translate philippine Samantha_3_label_43_d6b63b37:
 
     # Jacob "When the magical ligaments are torn, it is impossible to perform complex spells."
-    Jacob ""
+    Jacob "Kapag nasira ang mga mahikang litid, imposible ang paggawa ng komplikadong mahika."
 
 # game/logic/events/jacob.rpy:202
 translate philippine Samantha_3_label_43_9f220998:
 
     # Jacob "The magic cannot stabilize and begins to destroy the sorcerer out of existence."
-    Jacob ""
+    Jacob "Hindi makapagtibay ang mahika at nagsisimulang sirain ang salamangkero."
 
 # game/logic/events/jacob.rpy:204
 translate philippine Samantha_3_label_43_502b683d:
 
     # ch_Name "This is terrible! Is there nothing you can do?"
-    ch_Name ""
+    ch_Name "Grabe naman! Wala na bang magagawa?"
 
 # game/logic/events/jacob.rpy:206
 translate philippine Samantha_3_label_43_9a6b18e1:
 
     # Jacob "Of course there is. It is an unpleasant but not fatal injury."
-    Jacob ""
+    Jacob "Siyempre, meron. Ito ay hindi kasiya-siya, ngunit hindi nakamamatay."
 
 # game/logic/events/jacob.rpy:207
 translate philippine Samantha_3_label_43_eabee476:
 
     # Jacob "All you have to do is make a {b}compress of night fairy pollen{/b} and a few herbs."
-    Jacob ""
+    Jacob "Ang kailangan mo lang ay {b}compress ng pollen mula sa diwatang panggabi{/b} at mga halamang gamot."
 
 # game/logic/events/jacob.rpy:208
 translate philippine Samantha_3_label_43_3e4bd061:
 
     # Jacob "{b}Miss Victoria should have a whole set of them.{/b}"
-    Jacob ""
+    Jacob "{b}Dapat may kumpletong nakahanda si Ms. Victoria.{/b}"
 
 # game/logic/events/jacob.rpy:210
 translate philippine Samantha_3_label_43_3a5c7650:
 
     # ch_Name "Thank you."
-    ch_Name ""
+    ch_Name "Salamat."
 
 # game/logic/events/jacob.rpy:212
 translate philippine Samantha_3_label_43_a27cc5c2:
 
     # Jacob "[Surname]. Listen to me carefully."
-    Jacob ""
+    Jacob "[Surname]. Makinig ka ng mabuti.."
 
 # game/logic/events/jacob.rpy:214
 translate philippine Samantha_3_label_43_d8c44f9c:
 
     # ch_Name "I'm sorry, I thought you were done..."
-    ch_Name ""
+    ch_Name "Pasensya, akala ko tapos ka na..."
 
 # game/logic/events/jacob.rpy:216
 translate philippine Samantha_3_label_43_0dc476bf:
 
     # Jacob "You're looking for solutions to the consequences when you should be looking for the cause."
-    Jacob ""
+    Jacob "Humahanap ka ng mga solusyon sa mga kahihinatnan, pero dapat hinahanap mo ang dahilan."
 
 # game/logic/events/jacob.rpy:218
 translate philippine Samantha_3_label_43_1855220c:
 
     # ch_Name "What?"
-    ch_Name ""
+    ch_Name "Ano?"
 
 # game/logic/events/jacob.rpy:220
 translate philippine Samantha_3_label_43_889e2027:
 
     # Jacob "Magic ligament rupture doesn't just happen."
-    Jacob ""
+    Jacob "Hindi lang ito nangyayari ng basta-basta."
 
 # game/logic/events/jacob.rpy:221
 translate philippine Samantha_3_label_43_819f31b2:
 
     # Jacob "If you don't want a repeat, find the cause."
-    Jacob ""
+    Jacob "Kung hindi mo gustong mangyari ito ulit, hanapin mo ang dahilan."
 
 # game/logic/events/jacob.rpy:223
 translate philippine Samantha_3_label_43_28efefa2:
 
     # ch_Name "And what could be the cause of such trauma?"
-    ch_Name ""
+    ch_Name "At ano ba ang dahilan ng traumang ito?"
 
 # game/logic/events/jacob.rpy:225
 translate philippine Samantha_3_label_43_36a4d254:
 
     # Jacob "Magic is unpredictable."
-    Jacob ""
+    Jacob "Ang mahika ay hindi mahuhulaan."
 
 # game/logic/events/jacob.rpy:226
 translate philippine Samantha_3_label_43_7ac60163:
 
     # Jacob "One thing I do know is that stirring the magical energy of beings of different essence is very dangerous."
-    Jacob ""
+    Jacob "Alam ko na ang pagpukaw ng mahika ng mga nilalang na may iba't-ibang diwa ay mapanganib."
 
 # game/logic/events/jacob.rpy:227
 translate philippine Samantha_3_label_43_bcc60582:
 
     # Jacob "It can kill whoever is doing it."
-    Jacob ""
+    Jacob "Maaaring mamatay ang gumagawa nito."
 
 # game/logic/events/jacob.rpy:228
 translate philippine Samantha_3_label_43_5362c273:
 
     # Jacob "Whoever you're looking for answers for is lucky to have gotten away with it."
-    Jacob ""
+    Jacob "Ang swerte ng tinutulungan mo kasi nakalusot sila."
 
 # game/logic/events/jacob.rpy:230
 translate philippine Samantha_3_label_43_4a4d64b4:
 
     # ch_Name "What do you mean, \"different essence\"?"
-    ch_Name ""
+    ch_Name "Ano ba ang ibig mong sabihin, \"ibang diwa\"?"
 
 # game/logic/events/jacob.rpy:232
 translate philippine Samantha_3_label_43_7f54c269:
 
     # Jacob "There are different kinds of magic, [Surname]. Humans, pixies, dragons, succubi..."
-    Jacob ""
+    Jacob "May ibang uri ng mahika, [Surname]. Mga tao, diwata, dragon, succubus."
 
 # game/logic/events/jacob.rpy:233
 translate philippine Samantha_3_label_43_ce72d42a:
 
     # Jacob "Lots of different races and different magics. It can be very dangerous to mix them."
-    Jacob ""
+    Jacob "Iba't-ibang nilalang at iba't-ibang nahika. Mapanganib ang paghalo sa kanila."
 
 # game/logic/events/jacob.rpy:235
 translate philippine Samantha_3_label_43_92b0868f:
 
     # ch_Name "Why are you telling me all this, Jacob?"
-    ch_Name ""
+    ch_Name "Bakit sinasabi mo ito sa akin, Jacob?"
 
 # game/logic/events/jacob.rpy:237
 translate philippine Samantha_3_label_43_bacd0055:
 
     # Jacob "You and I made a pact, [Surname]. And I always hold up my end of the bargain."
-    Jacob ""
+    Jacob "May kasunduan tayo, [Surname]. At palagi kong ginagawa ang aking bahagi."
 
 # game/logic/events/jacob.rpy:239
 translate philippine Samantha_3_label_43_39f4b9fe:
 
     # ch_Name "Thank you... I have to go."
-    ch_Name ""
+    ch_Name "Salamat... Aalis na ako."
 
 # game/logic/events/jacob.rpy:240
 translate philippine Samantha_3_label_43_7972298a:
 
     # Jacob "Oh no, Mr. [Surname]. It is I who thank you. Good luck, in your quest."
-    Jacob ""
+    Jacob "Hindi talaga, Mr. [Surname]. Ako ang nagpapasalamat sa iyo. Good luck sa ginagawa mo."
 
 # game/logic/events/jacob.rpy:244
 translate philippine Samantha_3_label_43_5bb4d59b:
 
     # ch_Name "{i}(Great. Now I just need to go ask Victoria about the cure.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ayos. Hihingi nalang ako ng lunas kay Victoria.){/i}"
 
 # game/logic/events/jacob.rpy:245
 translate philippine Samantha_3_label_43_f5d6db5d:
 
     # ch_Name "{i}(Oh... I have her lesson in the schedule.){/i}"
-    ch_Name ""
+    ch_Name ""{i}(Oo nga... May klase ako sa kanya.){/i}"
 
 # game/logic/events/jacob.rpy:246
 translate philippine Samantha_3_label_43_840360dc:
 
     # ch_Name "{i}(It's... right now!){/i}"
-    ch_Name ""
+    ch_Name "{i}(At... ngayon na pala!){/i}"
 
 # game/logic/events/jacob.rpy:247
 translate philippine Samantha_3_label_43_9e6cd387:
 
     # ch_Name "{i}(Alright, then. I'll just attend the lesson and then ask her about the cure.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sige. Papasok ako sa klase at tatanungin siya tungkol sa lunas..){/i}"
 
 # game/logic/events/jacob.rpy:259
 translate philippine Jacob_1_label_b3f37d5d:
 
     # ch_Name "Hey, Molly! Listen, I've got to go. I need to catch up with Jacob before he leaves."
-    ch_Name ""
+    ch_Name "Hey, Molly! Kailangan kong umalis. Hahabulin ko si Jacob bago siya aalis.."
 
 # game/logic/events/jacob.rpy:260
 translate philippine Jacob_1_label_60078c1d:
 
     # Molly "Really? Why do you need him?"
-    Molly ""
+    Molly "Talaga? Bakit kailangan mo siya?"
 
 # game/logic/events/jacob.rpy:261
 translate philippine Jacob_1_label_a2fd4e9d:
 
     # ch_Name "I want to join the dueling club."
-    ch_Name ""
+    ch_Name "Gusto kong sumali sa dueling club.,"
 
 # game/logic/events/jacob.rpy:262
 translate philippine Jacob_1_label_78d983a6:
 
     # Molly "That sounds cool! Your shift is over, so you can go. Good luck!"
-    Molly ""
+    Molly "Mabuti naman! Tapos na ang trabaho mo, pwede kang umalis. Good luck!"
 
 # game/logic/events/jacob.rpy:263
 translate philippine Jacob_1_label_84d3dc7e:
 
     # ch_Name "Thank you!"
-    ch_Name ""
+    ch_Name "Salamat!"
 
 # game/logic/events/jacob.rpy:267
 translate philippine Jacob_1_label_260c6984:
