@@ -10,43 +10,43 @@ translate turkish corridor_label_ead3beae:
 translate turkish corridor_label_81e64aac:
 
     # ch_Name "{i}(Hmm? Sounds coming from Ashley's room?!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ashley'in odasından bir ses geldi sanki!){/i}"
 
 # game/logic/locations/corridor.rpy:13
 translate turkish corridor_label_ce606a14:
 
     # ch_Name "{i}(She may have twisted her ankle. Maybe I should check on her?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bileğini burkmuş olabilir. Belki de bir kontrol etmeliyim?){/i}"
 
 # game/logic/locations/corridor.rpy:23
 translate turkish corridor_label_87fd2faa:
 
     # ch_Name "{i}(Just to be sure she's okay.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sadece iyi olduğuna emin olmak için.){/i}"
 
 # game/logic/locations/corridor.rpy:26
 translate turkish corridor_label_7bc2ecdf:
 
     # ch_Name "{i}(It's none of my business.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Beni ilgilendirmez.){/i}"
 
 # game/logic/locations/corridor.rpy:27
 translate turkish corridor_label_386a98d5:
 
     # ch_Name "{i}(I wonder how Olivia missed that moaning though.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ama Olivia bu sesleri nasıl duymadı merak ediyorum.){/i}"
 
 # game/logic/locations/corridor.rpy:28
 translate turkish corridor_label_646d756b:
 
     # ch_Name "{i}(Why was she sho pshyched about that prank letter?){/i}"
-    ch_Name ""
+    ch_Name "{i}(O şaka mektubu onu neden bu kadar telaşlandırdı ki?){/i}"
 
 # game/logic/locations/corridor.rpy:29
 translate turkish corridor_label_48c31730:
 
     # ch_Name "{i}(I need to hurry up if I want to find out.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eğer öğrenmek istiyorsam acele etmeliyim.){/i}"
 
 # game/logic/locations/corridor.rpy:59
 translate turkish ashlie_room_label_2_ef733a22:
@@ -64,7 +64,7 @@ translate turkish ashlie_room_label_2_db639e16:
 translate turkish ashlie_room_label_2_8cdf4eae:
 
     # ch_Name "{i}(Wow, Ashley is so...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vay, Ashley çok...){/i}"
 
 # game/logic/locations/corridor.rpy:66
 translate turkish ashlie_room_label_2_0546887e:
@@ -76,7 +76,7 @@ translate turkish ashlie_room_label_2_0546887e:
 translate turkish ashlie_room_label_2_9422f2a3:
 
     # ch_Name "{i}(Mature...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Olgun...){/i}"
 
 # game/logic/locations/corridor.rpy:72
 translate turkish ashlie_room_label_2_82b8f9a4:
@@ -94,13 +94,13 @@ translate turkish ashlie_room_label_2_344ff372:
 translate turkish ashlie_room_label_2_9e3a9b13:
 
     # ch_Name "{i}(What a beautiful sight!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ne güzel bir görüntü!){/i}"
 
 # game/logic/locations/corridor.rpy:79
 translate turkish ashlie_room_label_2_4bf9af45:
 
     # ch_Name "{i}(She tries so hard to keep her moans silent.){/i}"
-    ch_Name ""
+    ch_Name "{i}(İnlemelerini bastırmak için çok çabalıyor.){/i}"
 
 # game/logic/locations/corridor.rpy:82
 translate turkish ashlie_room_label_2_85170189:
@@ -112,7 +112,7 @@ translate turkish ashlie_room_label_2_85170189:
 translate turkish ashlie_room_label_2_05094fd4:
 
     # ch_Name "{i}(The fact she can't makes it even sexier!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bastıramaması ise her şeyi daha da seksileştiriyor!){/i}"
 
 # game/logic/locations/corridor.rpy:87
 translate turkish ashlie_room_label_2_bbb5db70:
@@ -124,7 +124,7 @@ translate turkish ashlie_room_label_2_bbb5db70:
 translate turkish ashlie_room_label_2_d08ee751:
 
     # ch_Name "{i}(Poor little thing is so horny...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Zavallı şey çok azmış...){/i}"
 
 # game/logic/locations/corridor.rpy:94
 translate turkish ashlie_room_label_2_64d3cd18:
@@ -136,13 +136,13 @@ translate turkish ashlie_room_label_2_64d3cd18:
 translate turkish ashlie_room_label_2_fa49132c:
 
     # ch_Name "{i}(If only I knew you needed assistance with your \"training\" sessions, Ashley.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ah şu \"egzersiz\" seanslarında yardıma ihtiyaç duyduğunu bir bilseydim, Ashley.){/i}"
 
 # game/logic/locations/corridor.rpy:98
 translate turkish ashlie_room_label_2_26c294ac:
 
     # ch_Name "{i}(Maybe next time...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Belki bir dahaki sefere...){/i}"
 
 # game/logic/locations/corridor.rpy:100
 translate turkish ashlie_room_label_2_884e13db:
@@ -154,7 +154,7 @@ translate turkish ashlie_room_label_2_884e13db:
 translate turkish ashlie_room_label_2_3f285bf6:
 
     # ch_Name "{i}(She's almost there...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Neredeyse boşalacak...){/i}"
 
 # game/logic/locations/corridor.rpy:107
 translate turkish ashlie_room_label_2_959e61f6:
@@ -166,31 +166,31 @@ translate turkish ashlie_room_label_2_959e61f6:
 translate turkish ashlie_room_label_2_8c91a788:
 
     # Ashley "Mmhm... uh... yeah..."
-    Ashley ""
+    Ashley "Mmhm... oh... evet..."
 
 # game/logic/locations/corridor.rpy:112
 translate turkish ashlie_room_label_2_550fb4eb:
 
     # ch_Name "{i}(Good job, baby!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Harikasın, bebeğim!){/i}"
 
 # game/logic/locations/corridor.rpy:114
 translate turkish ashlie_room_label_2_4f666b66:
 
     # ch_Name "{i}(Next time I'll show you an exercise for two!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bir dahaki sefer sana iki kişilik bir hareket göstericeğim!){/i}"
 
 # game/logic/locations/corridor.rpy:117
 translate turkish ashlie_room_label_2_b90f8537:
 
     # ch_Name "{i}(Oh shit, I completely forgot about Olivia.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Siktir, Olivia'yı unuttum.){/i}"
 
 # game/logic/locations/corridor.rpy:119
 translate turkish ashlie_room_label_2_3aabdd38:
 
     # ch_Name "{i}(I need to hurry if I want to catch anything.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eğer bir şeyler duymak istiyorsam acele etmeliyim.){/i}"
 
 # game/logic/locations/corridor.rpy:126
 translate turkish before_i_need_to_hurry_if_e22ac7b2:
@@ -202,103 +202,103 @@ translate turkish before_i_need_to_hurry_if_e22ac7b2:
 translate turkish before_i_need_to_hurry_if_08d59acf:
 
     # ch_Name "{i}(Alright, I shouldn’t be seeing it.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pekala, bunu görüyor olmamam lazım.){/i}"
 
 # game/logic/locations/corridor.rpy:128
 translate turkish before_i_need_to_hurry_if_3d6da892:
 
     # ch_Name "{i}(I need to hurry up if I want to find out why was Olivia so pshyched!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Olivia'nın telaşlanma nedenini öğrenmek istiyorsam acele etmeliyim!){/i}"
 
 # game/logic/locations/corridor.rpy:139
 translate turkish i_need_to_hurry_if_c888624e:
 
     # Olivia "Disaster! This is a disaster!"
-    Olivia ""
+    Olivia "Felaket! Bu bir felaket!"
 
 # game/logic/locations/corridor.rpy:141
 translate turkish i_need_to_hurry_if_edadeda3:
 
     # Olivia "It’s hard enough to deal with that boy! And now \"this\"!"
-    Olivia ""
+    Olivia "O çocukla uğraşmak yeterince zordu! Ve şimdi de \"bu\"!"
 
 # game/logic/locations/corridor.rpy:143
 translate turkish i_need_to_hurry_if_52d1c892:
 
     # Olivia "Doesn't it bother you, Don? Don't you understand what kind of situation we are in?"
-    Olivia ""
+    Olivia "Bu seni rahatsız etmiyor mu, Don? Ne tür bir durumda olduğumuzu anlamıyor musun?"
 
 # game/logic/locations/corridor.rpy:145
 translate turkish i_need_to_hurry_if_f5622498:
 
     # Don "Calm down, Olivia. Why do you think this is bad news?"
-    Don ""
+    Don "Sakinleş, Olivia. Neden bunun kötü bir haber olduğunu düşünüyorsun?"
 
 # game/logic/locations/corridor.rpy:147
 translate turkish i_need_to_hurry_if_fbfc8296:
 
     # Olivia "Are you not listening to me? He got a letter! This means that he is one of {i}\"them\"!{/i}"
-    Olivia ""
+    Olivia "Beni dinlemiyor musun? Ona bir mektup geldi! Bu demektir ki o {i}\"onlardan\"!{/i} biri!"
 
 # game/logic/locations/corridor.rpy:149
 translate turkish i_need_to_hurry_if_5247ea6c:
 
     # Olivia "How can I make him obey now?{w} He was contradicting every word I said before, but now..."
-    Olivia ""
+    Olivia "Şimdi ona nasıl söz geçireceğim?{w} Zaten söylediğim her söze karşı çıkıyordu ama şimdi..."
 
 # game/logic/locations/corridor.rpy:151
 translate turkish i_need_to_hurry_if_88c9173b:
 
     # Don "Now he's not your problem."
-    Don ""
+    Don "Artık o senin problemin değil."
 
 # game/logic/locations/corridor.rpy:153
 translate turkish i_need_to_hurry_if_b2e469d8:
 
     # Olivia "What do you mean by that?"
-    Olivia ""
+    Olivia "Ne demek istiyorsun?"
 
 # game/logic/locations/corridor.rpy:155
 translate turkish i_need_to_hurry_if_408a6227:
 
     # Don "What I'm trying to say is that this bastard isn't our headache anymore!"
-    Don ""
+    Don "Demek istediğim şey o piç artık bizim başımızı ağrıtmayacak!"
 
 # game/logic/locations/corridor.rpy:157
 translate turkish i_need_to_hurry_if_3f38818f:
 
     # Don "We need to help him pack his bags and pray that they will accept him."
-    Don ""
+    Don "Çantasını hazırlamasına yardım etmemiz ve onu kabul etmeleri için dua etmemiz lazım."
 
 # game/logic/locations/corridor.rpy:159
 translate turkish i_need_to_hurry_if_4f40f895:
 
     # Olivia "I don't understand you, Don."
-    Olivia ""
+    Olivia "Seni anlamıyorun, Don."
 
 # game/logic/locations/corridor.rpy:161
 translate turkish i_need_to_hurry_if_cc56433a:
 
     # Don "If he gets accepted into the academy, he will be out of our home at least until the end of the year."
-    Don ""
+    Don "Eğer akademiye kabul edilirse, en azından yıl sonuna kadar evimizden uzak olucak."
 
 # game/logic/locations/corridor.rpy:163
 translate turkish i_need_to_hurry_if_18590874:
 
     # Don "And in the long term, he may finally find his place in life and get off my neck."
-    Don ""
+    Don "Ve uzun vadede, belki sonunda hayattaki yerini bulup yakamdan düşer."
 
 # game/logic/locations/corridor.rpy:165
 translate turkish i_need_to_hurry_if_afb5a8a7:
 
     # Don "Just be nicer to him now. Just in case…"
-    Don ""
+    Don "Ona karşı biraz daha nazik ol. Ne olur ne olmaz..."
 
 # game/logic/locations/corridor.rpy:167
 translate turkish i_need_to_hurry_if_2518b682:
 
     # Olivia "Ah, Don! You're so clever!"
-    Olivia ""
+    Olivia "Ah, Don! Çok zekisin!"
 
 # game/logic/locations/corridor.rpy:172
 translate turkish i_need_to_hurry_if_1408dd6b:
