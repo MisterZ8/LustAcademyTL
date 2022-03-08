@@ -96,5 +96,5 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_screen.rpy:386
     old "My\nhouse"
-    new ""
+    new "我的\n房子"
 
