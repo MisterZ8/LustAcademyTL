@@ -1976,13 +1976,13 @@ translate chinese strings:
 translate chinese sheet_28_1_254_5b9a608c:
 
     # ch_Name "{i}(...wraps around my dick...){/i}"
-    ch_Name ""
+    ch_Name "{i}（。。。缠着我的小弟弟。。。）{/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:577
 translate chinese sheet_28_1_262_16_475d47b8:
 
     # Leona "Ahhh... mmm..."
-    Leona ""
+    Leona "啊。。。嗯。。。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:578
 translate chinese sheet_28_1_262_16_0ae9bcd0:
@@ -2000,15 +2000,15 @@ translate chinese sheet_28_1_262_16_0ae9bcd0_1:
 translate chinese sheet_28_1_262_16_475d47b8_1:
 
     # Leona "Ahhh... mmm..."
-    Leona ""
+    Leona "啊。。。嗯。。。"
 
 translate chinese strings:
 
     # game/logic/episodes_after_first/ep2/sheet_28.rpy:396
     old "No, it's enough"
-    new ""
+    new "不，这就够了"
 
     # game/logic/episodes_after_first/ep2/sheet_28.rpy:396
     old "Ready for action"
-    new ""
+    new "准备行动"
 
