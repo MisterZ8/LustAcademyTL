@@ -1148,9 +1148,9 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy:180
     old "High Contrast Text"
-    new ""
+    new "高对比度的文本"
 
     # renpy/common/00preferences.rpy:493
     old "high contrast text"
-    new ""
+    new "高对比度的文本"
 
