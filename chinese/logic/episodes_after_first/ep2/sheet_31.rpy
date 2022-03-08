@@ -872,71 +872,71 @@ translate chinese strings:
 translate chinese sheet_31_b3bb9fbb:
 
     # Samantha "What do you think?"
-    Samantha ""
+    Samantha "你觉得呢？"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:93
 translate chinese arthur_label_48673d84:
 
     # Elijah "Time to wake up!"
-    Elijah ""
+    Elijah "该起床了！"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:94
 translate chinese arthur_label_820192cd:
 
     # ch_Name "Why exactly calling?!"
-    ch_Name ""
+    ch_Name "为什么打电话？！"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:95
 translate chinese arthur_label_5328ca4d:
 
     # Elijah "I just wanted to hear your voice. You know, I feel lonely."
-    Elijah ""
+    Elijah "我只是想听听你的声音。你知道，我感到孤独。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:97
 translate chinese arthur_label_1e93415e:
 
     # ch_Name "Really?"
-    ch_Name ""
+    ch_Name "真的吗？"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:98
 translate chinese arthur_label_275c93f0:
 
     # Elijah "Nah. I'm just joking around!"
-    Elijah ""
+    Elijah "不。我只是在开玩笑！"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:99
 translate chinese arthur_label_d26cd93a:
 
     # Elijah "I wanted to say that we need to go to the {b}Main Hall{/b} soon."
-    Elijah ""
+    Elijah "我想说的是我们很快就要去{b}主大厅{/b}了。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:102
 translate chinese arthur_label_f2290ef2:
 
     # Elijah "The principal called a freshman meeting."
-    Elijah ""
+    Elijah "校长召开了新生大会。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:106
 translate chinese arthur_label_642e99f4:
 
     # Elijah "Alright?"
-    Elijah ""
+    Elijah "对吧？"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:107
 translate chinese arthur_label_c43d6e7b:
 
     # ch_Name "Ehm... Yeah."
-    ch_Name ""
+    ch_Name "嗯。。。是的。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:108
 translate chinese arthur_label_9ab09bfc:
 
     # Elijah "Sweet! See you."
-    Elijah ""
+    Elijah "甜的！见到你。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:109
 translate chinese arthur_label_74ebce9c:
 
     # ch_Name "Sure."
-    ch_Name ""
+    ch_Name "当然。"
 
