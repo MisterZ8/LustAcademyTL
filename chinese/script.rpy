@@ -878,173 +878,173 @@ translate chinese strings:
 
     # game/script.rpy:198
     old "House competitions"
-    new ""
+    new "房子比赛"
 
     # game/script.rpy:200
     old "Weekly competitions held"
-    new ""
+    new "每周举行的比赛"
 
     # game/script.rpy:202
     old "Leonheart wins"
-    new ""
+    new "Leonheart获胜"
 
     # game/script.rpy:204
     old "Adderin wins"
-    new ""
+    new "Adderin获胜"
 
     # game/script.rpy:206
     old "Crowhive wins"
-    new ""
+    new "Crowhive获胜"
 
     # game/script.rpy:208
     old "Martenden wins"
-    new ""
+    new "Martenden获胜"
 
     # game/script.rpy:210
     old "Lost books found"
-    new ""
+    new "丢失的书找到"
 
     # game/script.rpy:212
     old "Training"
-    new ""
+    new "培训"
 
     # game/script.rpy:214
     old "Combat Bolt Training"
-    new ""
+    new "战斗螺栓培训"
 
     # game/script.rpy:216
     old "Rictusempra Training"
-    new ""
+    new "Rictusempra培训"
 
     # game/script.rpy:218
     old "Incendio Training"
-    new ""
+    new "Incendio培训"
 
     # game/script.rpy:220
     old "Episkey Training"
-    new ""
+    new "Episkey培训"
 
     # game/script.rpy:222
     old "Lesser Heal potions brewed"
-    new ""
+    new "次级治疗药水酿造"
 
     # game/script.rpy:224
     old "Stoneskin potions brewed"
-    new ""
+    new "石肤药剂酿造"
 
     # game/script.rpy:226
     old "Inspiration potions brewed"
-    new ""
+    new "灵感药水酿造"
 
     # game/script.rpy:228
     old "Reflection potions brewed"
-    new ""
+    new "反射药水酿造"
 
     # game/script.rpy:230
     old "Duels performed"
-    new ""
+    new "展示决斗"
 
     # game/script.rpy:232
     old "Defeats in duels"
-    new ""
+    new "在决斗中失败"
 
     # game/script.rpy:234
     old "Victory over Adderin"
-    new ""
+    new "战胜Adderin"
 
     # game/script.rpy:236
     old "Victory over Crowhive"
-    new ""
+    new "战胜Crowhive"
 
     # game/script.rpy:238
     old "Victory over Martenden"
-    new ""
+    new "战胜Martenden"
 
     # game/script.rpy:240
     old "Used Combat Bolt"
-    new ""
+    new "使用战斗螺栓"
 
     # game/script.rpy:242
     old "Used Rictusempra"
-    new ""
+    new "使用Rictusempra"
 
     # game/script.rpy:244
     old "Used Incendio"
-    new ""
+    new "使用Incendio"
 
     # game/script.rpy:246
     old "Used Episkey"
-    new ""
+    new "使用Episkey"
 
     # game/script.rpy:248
     old "Lesser Heal potion used"
-    new ""
+    new "治疗药水使用"
 
     # game/script.rpy:250
     old "Stoneskin potion used"
-    new ""
+    new "石肤药剂使用"
 
     # game/script.rpy:252
     old "Inspiration potion used"
-    new ""
+    new "灵感药水使用"
 
     # game/script.rpy:254
     old "Reflection potions used"
-    new ""
+    new "反射药水使用"
 
     # game/script.rpy:256
     old "Total money earned"
-    new ""
+    new "总的赚的钱"
 
     # game/script.rpy:258
     old "Total money spent"
-    new ""
+    new "总花费"
 
     # game/script.rpy:260
     old "Found money"
-    new ""
+    new "发现钱"
 
     # game/script.rpy:262
     old "Worked shifts in the cafe"
-    new ""
+    new "在咖啡馆轮班工作"
 
     # game/script.rpy:264
     old "Earned money in the cafe"
-    new ""
+    new "在咖啡馆挣的钱"
 
     # game/script.rpy:266
     old "Fishing trips on Dale"
-    new ""
+    new "在Dale钓鱼旅行"
 
     # game/script.rpy:268
     old "Earned money fishing"
-    new ""
+    new "钓鱼赚钱"
 
     # game/script.rpy:270
     old "Earned money another way"
-    new ""
+    new "以另一种方式赚钱"
 
     # game/script.rpy:336
     old "Disclaimer!"
-    new ""
+    new "免责声明！"
 
     # game/script.rpy:337
     old "This is only the web version of the Lust Academy! Use it to try out our game right in your browser!"
-    new ""
+    new "这只是Lust Academy的网络版！在您的浏览器上来尝试运行我们的游戏！"
 
     # game/script.rpy:338
     old "To enjoy the game with 60fps animations and atmospheric sound design, we highly recommend trying the full version of Lust Academy."
-    new ""
+    new "为了享受60fps动画和大气音效设计的游戏，我们强烈建议尝试Lust Academy的完整版本。"
 
     # game/script.rpy:339
     old "Check out our {a=https://www.patreon.com/bearinthenight}Bear in the Night fan page{/a} for more details and to support the project!"
-    new ""
+    new "查看我们的{a=https://www.patreon.com/bearinthenight}Bear in the Night 粉丝页面{/a}了解更多细节并支持该项目！"
 
     # game/script.rpy:343
     old "Сontinue on the web version"
-    new ""
+    new "加载页面"
 
     # game/script.rpy:344
     old "Play the full version"
-    new ""
+    new "播放完整版"
 
