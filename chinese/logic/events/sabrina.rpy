@@ -2822,5 +2822,5 @@ translate chinese strings:
 
     # game/logic/events/sabrina.rpy:9
     old "Potion for Audrey"
-    new ""
+    new "为Audrey提供的药水"
 
