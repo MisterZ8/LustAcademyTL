@@ -4542,5 +4542,5 @@ translate chinese strings:
 translate chinese Samantha_4_label_c31086c4:
 
     # ch_Name "One of our house's students has torn magical ligaments."
-    ch_Name ""
+    ch_Name "我们家有个学生的魔法韧带撕裂了。"
 
