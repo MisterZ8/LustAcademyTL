@@ -1504,11 +1504,11 @@ translate chinese strings:
 translate chinese Samantha_3_label_43_6349d9c3:
 
     # ch_Name "{i}(Oh... I have her lesson in the schedule.){/i}"
-    ch_Name ""
+    ch_Name "{i}（哦。。。我的课程表上有她的课。）{/i}"
 
 translate chinese strings:
 
     # game/logic/events/jacob.rpy:15
     old "Tell him you have the seal"
-    new ""
+    new "告诉他印章在你手上"
 
