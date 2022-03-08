@@ -286,127 +286,127 @@ translate chinese strings:
 translate chinese not_now_label_a53f606d:
 
     # ch_Name "{i}(There's nothing we can talk about right now.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我们现在没什么好谈的。）{/i}"
 
 translate chinese strings:
 
     # game/screens.rpy:785
     old "SANDBOX"
-    new ""
+    new "沙盒"
 
     # game/screens.rpy:790
     old "Open World With Free Roam"
-    new ""
+    new "自由漫游的开放世界"
 
     # game/screens.rpy:792
     old "Possibility To Choose Desired Content"
-    new ""
+    new "选择理想内容的可能性"
 
     # game/screens.rpy:794
     old "Optional Mini-Games And Activities"
-    new ""
+    new "可选的迷你游戏和活动"
 
     # game/screens.rpy:802
     old "VISUAL NOVEL"
-    new ""
+    new "视觉小说"
 
     # game/screens.rpy:807
     old "All In One Storytelling"
-    new ""
+    new "一体机的故事"
 
     # game/screens.rpy:809
     old "Occasional Choices"
-    new ""
+    new "偶尔的选择"
 
     # game/screens.rpy:811
     old "Plot-Driven Structure"
-    new ""
+    new "时下结构"
 
     # game/screens.rpy:2320
     old "DISPLAY"
-    new ""
+    new "显示"
 
     # game/screens.rpy:2333
     old "FULLSCREEN"
-    new ""
+    new "全屏"
 
     # game/screens.rpy:2345
     old "WINDOWED"
-    new ""
+    new "窗口的"
 
     # game/screens.rpy:2350
     old "ROLLBACK SLIDE"
-    new ""
+    new "回滚滑动"
 
     # game/screens.rpy:2361
     old "LEFT"
-    new ""
+    new "左"
 
     # game/screens.rpy:2373
     old "DISABLE"
-    new ""
+    new "禁用"
 
     # game/screens.rpy:2385
     old "RIGHT"
-    new ""
+    new "正确的"
 
     # game/screens.rpy:2392
     old "SKIP"
-    new ""
+    new "跳过"
 
     # game/screens.rpy:2406
     old "UNSEEN TEXT"
-    new ""
+    new "看不见的文本"
 
     # game/screens.rpy:2422
     old "AFTER CHOICES"
-    new ""
+    new "之后的选择"
 
     # game/screens.rpy:2438
     old "TRANSITIONS"
-    new ""
+    new "转换"
 
     # game/screens.rpy:2446
     old "TEXT COLOR"
-    new ""
+    new "文本颜色"
 
     # game/screens.rpy:2458
     old "WHITE"
-    new ""
+    new "白色"
 
     # game/screens.rpy:2471
     old "BLUE"
-    new ""
+    new "蓝色"
 
     # game/screens.rpy:2483
     old "GOLD"
-    new ""
+    new "金色"
 
     # game/screens.rpy:2489
     old "Optional LGBTQ+ content"
-    new ""
+    new "可选 LGBTQ+ 内容"
 
     # game/screens.rpy:2502
     old "ENABLE"
-    new ""
+    new "启用"
 
     # game/screens.rpy:2535
     old "AUTO-FORWARD TIME"
-    new ""
+    new "自动前进时间"
 
     # game/screens.rpy:2542
     old "OFF"
-    new ""
+    new "关"
 
     # game/screens.rpy:2554
     old "TEXT SPEED"
-    new ""
+    new "文本速度"
 
     # game/screens.rpy:2581
     old "MUSIC VOLUME"
-    new ""
+    new "音乐音量"
 
     # game/screens.rpy:2591
     old "SOUND VOLUME"
-    new ""
+    new "音量"
 
