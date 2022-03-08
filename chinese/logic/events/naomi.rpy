@@ -7014,309 +7014,309 @@ translate chinese strings:
 translate chinese Naomi_8_label_74c1e274:
 
     # Naomi "He's so tense even through this pants."
-    Naomi ""
+    Naomi "即使穿着这条裤子，他也很紧张。"
 
 # game/logic/events/naomi.rpy:1249
 translate chinese Naomi_8_label_c58aa991:
 
     # Naomi "Mhmh..." with hpunch
-    Naomi "" with hpunch
+    Naomi "Mhmh。。。" with hpunch
 
 # game/logic/events/naomi.rpy:1352
 translate chinese Naomi_8_label_aa37de87:
 
     # Naomi "Oh, yes!"
-    Naomi ""
+    Naomi "哦，是的！"
 
 # game/logic/events/naomi.rpy:1495
 translate chinese Naomi_8_label_c21dff01:
 
     # Naomi "Good night, [Name]. See you in classes!"
-    Naomi ""
+    Naomi "晚安，[Name]。课上见！"
 
 # game/logic/events/naomi.rpy:1496
 translate chinese Naomi_8_label_fe2e0053:
 
     # ch_Name "Sure. Good night, Naomi!"
-    ch_Name ""
+    ch_Name "确定。晚安，Naomi！"
 
 # game/logic/events/naomi.rpy:1499
 translate chinese Naomi_8_label_946db98c:
 
     # ch_Name "{i}(Wow, I never thought she'd go so far. Brave girl.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我从没想过她会走这么远。勇敢的女孩。）{/i}"
 
 # game/logic/events/naomi.rpy:1500
 translate chinese Naomi_8_label_6baa7639:
 
     # ch_Name "{i}(I can't believe she's really going to suck my cock in the middle of the library.){/i}"
-    ch_Name ""
+    ch_Name "{i}（真不敢相信她真的要在图书馆中间给我口交。）{/i}"
 
 # game/logic/events/naomi.rpy:1502
 translate chinese Naomi_8_label_5d886fdd:
 
     # Naomi "It's time to unleash the beast."
-    Naomi ""
+    Naomi "是时候释放野兽了。"
 
 # game/logic/events/naomi.rpy:1503
 translate chinese Naomi_8_label_186fbe12:
 
     # ch_Name "{i}(I... I can't do this like that. This feels wrong.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我。。。我不能这样做。这个感觉错了。）{/i}"
 
 # game/logic/events/naomi.rpy:1504
 translate chinese Naomi_8_label_eccc8024:
 
     # ch_Name "Wait! Wait please! "
-    ch_Name ""
+    ch_Name "等等！请等待！"
 
 # game/logic/events/naomi.rpy:1506
 translate chinese Naomi_8_label_34bc570e:
 
     # Naomi "Is there something wrong?"
-    Naomi ""
+    Naomi "有什么问题吗？"
 
 # game/logic/events/naomi.rpy:1507
 translate chinese Naomi_8_label_02fd26fb:
 
     # ch_Name "Suddenly, I don't feel that comfortable."
-    ch_Name ""
+    ch_Name "突然间，我觉得不太舒服。"
 
 # game/logic/events/naomi.rpy:1508
 translate chinese Naomi_8_label_2aac5802:
 
     # ch_Name "It seems too vulgar."
-    ch_Name ""
+    ch_Name "这似乎太庸俗了。"
 
 # game/logic/events/naomi.rpy:1509
 translate chinese Naomi_8_label_0ff98cb9:
 
     # Naomi "Really?"
-    Naomi ""
+    Naomi "真的吗？"
 
 # game/logic/events/naomi.rpy:1510
 translate chinese Naomi_8_label_076b5ea4:
 
     # ch_Name "Yeah. Get up."
-    ch_Name ""
+    ch_Name "是的。起床了。"
 
 # game/logic/events/naomi.rpy:1512
 translate chinese Naomi_8_label_91e93188:
 
     # Naomi "It's quite a sudden change of hearts..."
-    Naomi ""
+    Naomi "心意的改变真是太突然了。。"
 
 # game/logic/events/naomi.rpy:1513
 translate chinese Naomi_8_label_7b771da4:
 
     # Naomi "I was almost ready to enjoy this."
-    Naomi ""
+    Naomi "我几乎准备好享受这一切了。"
 
 # game/logic/events/naomi.rpy:1514
 translate chinese Naomi_8_label_99549a6b:
 
     # ch_Name "Oh, we still can. "
-    ch_Name ""
+    ch_Name "我们还是可以的。"
 
 # game/logic/events/naomi.rpy:1516
 translate chinese Naomi_8_label_3e4074d5:
 
     # ch_Name "Come here, baby!"
-    ch_Name ""
+    ch_Name "过来，宝贝！"
 
 # game/logic/events/naomi.rpy:1517
 translate chinese Naomi_8_label_b81bcbc5:
 
     # Naomi "I must admit - that softness all of Leonhearters share..."
-    Naomi ""
+    Naomi "我必须承认——所有Leonhearters家族的人都有那种温柔。。。"
 
 # game/logic/events/naomi.rpy:1518
 translate chinese Naomi_8_label_23929c9e:
 
     # Naomi "That crave for intimacy..."
-    Naomi ""
+    Naomi "渴望亲密。。。"
 
 # game/logic/events/naomi.rpy:1520
 translate chinese Naomi_8_label_1dfe4621:
 
     # Naomi "Ah..."
-    Naomi ""
+    Naomi "啊。。。"
 
 # game/logic/events/naomi.rpy:1521
 translate chinese Naomi_8_label_4c6432aa:
 
     # ch_Name "Keep talking."
-    ch_Name ""
+    ch_Name "保持谈话。"
 
 # game/logic/events/naomi.rpy:1522
 translate chinese Naomi_8_label_3de0098f:
 
     # Naomi "At first I thought it was silly."
-    Naomi ""
+    Naomi "一开始我觉得这很傻。"
 
 # game/logic/events/naomi.rpy:1523
 translate chinese Naomi_8_label_01d2fae4:
 
     # Naomi "But I kind of like that in you..."
-    Naomi ""
+    Naomi "但我有点喜欢你这一点。。。"
 
 # game/logic/events/naomi.rpy:1524
 translate chinese Naomi_8_label_508445c1:
 
     # Naomi "[Name], wait! We're not alone!"
-    Naomi ""
+    Naomi "[Name]，等等！我们不是一个人！"
 
 # game/logic/events/naomi.rpy:1526
 translate chinese Naomi_8_label_a2fcf8a5:
 
     # ch_Name "What?!"
-    ch_Name ""
+    ch_Name "什么？！"
 
 # game/logic/events/naomi.rpy:1527
 translate chinese Naomi_8_label_e7742363:
 
     # Naomi "I saw Amelie there. She may have seen us!"
-    Naomi ""
+    Naomi "我在那里看到了Amelie。她可能看见我们了！"
 
 # game/logic/events/naomi.rpy:1528
 translate chinese Naomi_8_label_7aff0b72:
 
     # ch_Name "Shit. Are we in trouble?"
-    ch_Name ""
+    ch_Name "该死。我们有麻烦了吗？"
 
 # game/logic/events/naomi.rpy:1530
 translate chinese Naomi_8_label_c190373f:
 
     # Naomi "I don't know, man. Let's get out of here!"
-    Naomi ""
+    Naomi "我不知道，伙计。让我们离开这里！"
 
 # game/logic/events/naomi.rpy:1531
 translate chinese Naomi_8_label_0a22ab02:
 
     # ch_Name "Alright, let's go!"
-    ch_Name ""
+    ch_Name "好了，我们走吧！"
 
 # game/logic/events/naomi.rpy:1538
 translate chinese Naomi_8_label_3f656fab_1:
 
     # Naomi "Aha-ha-ha..."
-    Naomi ""
+    Naomi "啊哈-哈-哈。"
 
 # game/logic/events/naomi.rpy:1539
 translate chinese Naomi_8_label_b4700117:
 
     # Naomi "I can't believe we almost got caught making out in the library!"
-    Naomi ""
+    Naomi "真不敢相信我们在图书馆亲热差点被抓！"
 
 # game/logic/events/naomi.rpy:1540
 translate chinese Naomi_8_label_97965b80:
 
     # ch_Name "It wasn't the worst thing we could be caught doing there."
-    ch_Name ""
+    ch_Name "我们在那里被发现并不是最糟糕的事。"
 
 # game/logic/events/naomi.rpy:1541
 translate chinese Naomi_8_label_512a910b:
 
     # Naomi "True, true."
-    Naomi ""
+    Naomi "真的，真的。"
 
 # game/logic/events/naomi.rpy:1543
 translate chinese Naomi_8_label_ffb17198:
 
     # Naomi "So, can I get my answers now?"
-    Naomi ""
+    Naomi "我现在能得到答案了吗？"
 
 # game/logic/events/naomi.rpy:1544
 translate chinese Naomi_8_label_a6763c87_1:
 
     # ch_Name "I don't know."
-    ch_Name ""
+    ch_Name "我不知道。"
 
 # game/logic/events/naomi.rpy:1545
 translate chinese Naomi_8_label_90e1fedb:
 
     # ch_Name "Do you think you've earned them?"
-    ch_Name ""
+    ch_Name "你认为这是你应得的吗？"
 
 # game/logic/events/naomi.rpy:1546
 translate chinese Naomi_8_label_18448622:
 
     # Naomi "Come on, [Name]. I offered you more that enough. You rejected me."
-    Naomi ""
+    Naomi "来吧，[Name]。我给你的已经够多了。你拒绝了我。"
 
 # game/logic/events/naomi.rpy:1547
 translate chinese Naomi_8_label_93b9f354:
 
     # ch_Name "I just think that this was too soon. "
-    ch_Name ""
+    ch_Name "我只是觉得这太快了。"
 
 # game/logic/events/naomi.rpy:1549
 translate chinese Naomi_8_label_25ac8700:
 
     # ch_Name "But I was hoping that we both don't mind continuing this adventure..."
-    ch_Name ""
+    ch_Name "但我希望我们都不介意继续这次冒险。。。"
 
 # game/logic/events/naomi.rpy:1550
 translate chinese Naomi_8_label_5d58b492_1:
 
     # ch_Name "What do you say?"
-    ch_Name ""
+    ch_Name "你觉得怎么样？"
 
 # game/logic/events/naomi.rpy:1552
 translate chinese Naomi_8_label_7b5a9057_1:
 
     # Naomi "Maybe another time."
-    Naomi ""
+    Naomi "也许另一个时间。"
 
 # game/logic/events/naomi.rpy:1553
 translate chinese Naomi_8_label_1a8bcb45_1:
 
     # ch_Name "Don't I even deserve..."
-    ch_Name ""
+    ch_Name "难道我就不配。。。"
 
 # game/logic/events/naomi.rpy:1555
 translate chinese Naomi_8_label_5d752cf9_1:
 
     # ch_Name "{i}(Whoa...){/i}"
-    ch_Name ""
+    ch_Name "{i}（哇。。。）{/i}"
 
 # game/logic/events/naomi.rpy:1556
 translate chinese Naomi_8_label_3e491fa2_1:
 
     # Naomi "A goodbye kiss?"
-    Naomi ""
+    Naomi "一个再见的吻吗？"
 
 # game/logic/events/naomi.rpy:1558
 translate chinese Naomi_8_label_f0e7ae8b_1:
 
     # Naomi "I guess you do."
-    Naomi ""
+    Naomi "我猜你有。"
 
 # game/logic/events/naomi.rpy:1559
 translate chinese Naomi_8_label_39c36bce:
 
     # Naomi "Good night, [Name].See you in classes!"
-    Naomi ""
+    Naomi "晚安，[Name]。课上见！"
 
 # game/logic/events/naomi.rpy:1560
 translate chinese Naomi_8_label_fe2e0053_1:
 
     # ch_Name "Sure. Good night, Naomi!"
-    ch_Name ""
+    ch_Name "确定。晚安，Naomi！"
 
 # game/logic/events/naomi.rpy:2201
 translate chinese Naomi_10_label_from_gallery_90b8999a:
 
     # ch_Name "I'm cumming!" with flash
-    ch_Name "" with flash
+    ch_Name "我正在口交！" with flash
 
 translate chinese strings:
 
     # game/logic/events/naomi.rpy:1202
     old "Accept the blowjob"
-    new ""
+    new "接受口交"
 
     # game/logic/events/naomi.rpy:1202
     old "Reject the blowjob"
-    new ""
+    new "拒绝口交"
 
