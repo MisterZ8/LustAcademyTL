@@ -3614,269 +3614,269 @@ translate chinese strings:
 translate chinese CF_S2_label_e19d63b6:
 
     # ch_Name "{i}(Lily is a sci-fi fan. I never would have thought...){/i}"
-    ch_Name ""
+    ch_Name "{i}（Lily是个科幻迷。我从没想过。。。）{/i}"
 
 # game/logic/events/ahchi.rpy:325
 translate chinese CF_S2_label_7af8f647:
 
     # ch_Name "{i}(Okay, that was nice, but I never got my coffee.){/i}"
-    ch_Name ""
+    ch_Name "{i}（好吧，你说得很好，但我没喝咖啡。）{/i}"
 
 # game/logic/events/ahchi.rpy:326
 translate chinese CF_S2_label_8a92ff38:
 
     # ch_Name "{i}(Time to hit the coffee shop.){/i}"
-    ch_Name ""
+    ch_Name "{i}（该去咖啡店了。）{/i}"
 
 # game/logic/events/ahchi.rpy:335
 translate chinese CF_S2_label_d1180da5:
 
     # ch_Name "{i}(This place seems to be more popular with students than I thought.){/i}"
-    ch_Name ""
+    ch_Name "{i}（这个地方似乎比我想象的更受学生欢迎。）{/i}"
 
 # game/logic/events/ahchi.rpy:336
 translate chinese CF_S2_label_5d465962:
 
     # ch_Name "{i}(You can't walk a step without seeing familiar faces.){/i}"
-    ch_Name ""
+    ch_Name "{i}（你每走一步都能看到熟悉的面孔。）{/i}"
 
 # game/logic/events/ahchi.rpy:337
 translate chinese CF_S2_label_d31de49f:
 
     # ch_Name "{i}(Samantha and Audrey are inseparable even on weekends.){/i}"
-    ch_Name ""
+    ch_Name "{i}（Samantha和Audrey即使在周末也形影不离。）{/i}"
 
 # game/logic/events/ahchi.rpy:339
 translate chinese CF_S2_label_ac1a89bd:
 
     # ch_Name "{i}(I think it's worth adding my presence to their company.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我认为在他们公司增加我的影响力是值得的。）{/i}"
 
 # game/logic/events/ahchi.rpy:340
 translate chinese CF_S2_label_4f7e3d5b:
 
     # ch_Name "Hi, girls!"
-    ch_Name ""
+    ch_Name "嗨，女孩！"
 
 # game/logic/events/ahchi.rpy:445
 translate chinese CF_S2_label_1285adc7:
 
     # Samantha "Guys, finish your coffee quickly."
-    Samantha ""
+    Samantha "伙计们，快喝完你们的咖啡。"
 
 # game/logic/events/ahchi.rpy:446
 translate chinese CF_S2_label_0918f325:
 
     # Audrey "Why? Are we in a hurry?"
-    Audrey ""
+    Audrey "为什么？我们赶时间吗？"
 
 # game/logic/events/ahchi.rpy:447
 translate chinese CF_S2_label_68b53f0f:
 
     # ch_Name "I'm almost done. Why?"
-    ch_Name ""
+    ch_Name "我差不多要做完了。为什么？"
 
 # game/logic/events/ahchi.rpy:449
 translate chinese CF_S2_label_0aab4d7a:
 
     # Samantha "The ship will be here soon. I don't want to be late."
-    Samantha ""
+    Samantha "船马上就到。我不想迟到。"
 
 # game/logic/events/ahchi.rpy:450
 translate chinese CF_S2_label_cf86d6e9:
 
     # Samantha "You know how Jacob's gonna be if we delay the ferry."
-    Samantha ""
+    Samantha "你知道如果我们推迟渡船，雅各布会怎么样。"
 
 # game/logic/events/ahchi.rpy:451
 translate chinese CF_S2_label_1f0ec4ca:
 
     # Audrey "Ah-ha-ha. Right. I can't take another lecture on responsibility."
-    Audrey ""
+    Audrey "啊-哈-哈。正确的。我不想再听关于责任的说教了。"
 
 # game/logic/events/ahchi.rpy:452
 translate chinese CF_S2_label_73185c20:
 
     # ch_Name "Shall we go, then?"
-    ch_Name ""
+    ch_Name "那我们走吧？"
 
 # game/logic/events/ahchi.rpy:454
 translate chinese CF_S2_label_0b58d88e:
 
     # Samantha "Thank you, Ahchi! That was great."
-    Samantha ""
+    Samantha "谢谢你，Ahchi！这是伟大的。"
 
 # game/logic/events/ahchi.rpy:455
 translate chinese CF_S2_label_0e3f16ca:
 
     # Ahchi "Glad to try! Come back again!"
-    Ahchi ""
+    Ahchi "很高兴试试！再回来！"
 
 # game/logic/events/ahchi.rpy:456
 translate chinese CF_S2_label_02ab96ef:
 
     # ch_Name "We will, if we win the house competition."
-    ch_Name ""
+    ch_Name "我们会的，如果我们赢得了室内比赛。"
 
 # game/logic/events/ahchi.rpy:457
 translate chinese CF_S2_label_ed850162:
 
     # Audrey "It's worth the effort for this coffee."
-    Audrey ""
+    Audrey "这杯咖啡值得你付出努力。"
 
 # game/logic/events/ahchi.rpy:459
 translate chinese CF_S2_label_51363553:
 
     # Samantha "Too bad we have so little time here."
-    Samantha ""
+    Samantha "可惜我们时间不多了。"
 
 # game/logic/events/ahchi.rpy:460
 translate chinese CF_S2_label_774347ec:
 
     # Samantha "And why doesn't the ferry run every day?"
-    Samantha ""
+    Samantha "为什么渡船不是每天都开呢？"
 
 # game/logic/events/ahchi.rpy:461
 translate chinese CF_S2_label_82503a3b:
 
     # Audrey "Yeah, I'd give anything for a ride here after school."
-    Audrey ""
+    Audrey "是啊，我愿意放学后搭你的车过来。"
 
 # game/logic/events/ahchi.rpy:462
 translate chinese CF_S2_label_34393449:
 
     # ch_Name "We should pitch that idea to Arthur."
-    ch_Name ""
+    ch_Name "我们应该把这个想法告诉亚瑟。"
 
 # game/logic/events/ahchi.rpy:469
 translate chinese CF_S2_label_ec9215f3:
 
     # Samantha "Come on, guys, let's hurry up."
-    Samantha ""
+    Samantha "快点，伙计们，我们快点。"
 
 # game/logic/events/ahchi.rpy:470
 translate chinese CF_S2_label_8aa064bd:
 
     # Samantha "You know the schedule says the ferry only lasts 15 minutes."
-    Samantha ""
+    Samantha "你知道时刻表上说渡船只能开15分钟。"
 
 # game/logic/events/ahchi.rpy:471
 translate chinese CF_S2_label_3e04a9fa:
 
     # Audrey "Yeah, yeah, let's go!"
-    Audrey ""
+    Audrey "好，好，我们走！"
 
 # game/logic/events/ahchi.rpy:478
 translate chinese CF_S3_label_aa871a0d:
 
     # ch_Name "{i}(I wish all baristas were like Ahchi.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我希望所有的咖啡师都像阿奇一样。）{/i}"
 
 # game/logic/events/ahchi.rpy:479
 translate chinese CF_S3_label_79d2e2fa:
 
     # ch_Name "{i}(I haven't had coffee this good in a long time.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我很久没喝过这么好的咖啡了。）{/i}"
 
 # game/logic/events/ahchi.rpy:482
 translate chinese CF_S3_label_63ca837e:
 
     # ch_Name "{i}(Hey, it's Samantha and Audrey!){/i}"
-    ch_Name ""
+    ch_Name "{i}（嘿，是Samantha和Audrey！）{/i}"
 
 # game/logic/events/ahchi.rpy:483
 translate chinese CF_S3_label_b0774a22:
 
     # ch_Name "{i}(I guess I'm not the only one who appreciates good coffee.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我想我不是唯一一个喜欢好咖啡的人。）{/i}"
 
 # game/logic/events/ahchi.rpy:484
 translate chinese CF_S3_label_9a457d4a:
 
     # ch_Name "{i}(I think I'll keep them company.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我想我会陪着他们。）{/i}"
 
 # game/logic/events/ahchi.rpy:489
 translate chinese CF_S3_label_893ec62c:
 
     # ch_Name "Hey there, girls!"
-    ch_Name ""
+    ch_Name "嘿，女孩！"
 
 # game/logic/events/ahchi.rpy:591
 translate chinese CF_S3_label_4190a827:
 
     # ch_Name "{i}(No, it's better not to bother her too much.){/i}"
-    ch_Name ""
+    ch_Name "{i}（不，最好不要太打扰她。）{/i}"
 
 # game/logic/events/ahchi.rpy:592
 translate chinese CF_S3_label_fd77ad50:
 
     # ch_Name "{i}(Oh, it's so late already? I've spent too much time with the girls. I'm going for a walk.){/i}"
-    ch_Name ""
+    ch_Name "{i}（哦，已经这么晚了?我和姑娘们在一起的时间太长了。我要去散步。）{/i}"
 
 # game/logic/events/ahchi.rpy:594
 translate chinese CF_S3_label_c7d85ac0:
 
     # ch_Name "{i}(It's beautiful here.){/i}"
-    ch_Name ""
+    ch_Name "{i}（这里的美丽。）{/i}"
 
 # game/logic/events/ahchi.rpy:595
 translate chinese CF_S3_label_15b55d56:
 
     # ch_Name "{i}(But I know a place that's even better.){/i}"
-    ch_Name ""
+    ch_Name "{i}（但我知道一个更好的地方。）{/i}"
 
 # game/logic/events/ahchi.rpy:596
 translate chinese CF_S3_label_281dc17f:
 
     # ch_Name "{i}(It's time to go to the club!){/i}"
-    ch_Name ""
+    ch_Name "{i}（该去俱乐部了！）{/i}"
 
 # game/logic/events/ahchi.rpy:603
 translate chinese CF_S3_label_563385db:
 
     # Romul "Stop! There's a fee to get into the club, buddy."
-    Romul ""
+    Romul "停！要入会是要收费的，伙计。"
 
 # game/logic/events/ahchi.rpy:604
 translate chinese CF_S3_label_c87a1f3c:
 
     # ch_Name "What? You must be kidding me, big boy."
-    ch_Name ""
+    ch_Name "什么？你一定是在开玩笑吧，大孩子。"
 
 # game/logic/events/ahchi.rpy:605
 translate chinese CF_S3_label_924ba140:
 
     # Romul "Who are you calling a big boy? Are you looking for a fight?"
-    Romul ""
+    Romul "你说谁是大男孩？你想打架吗？"
 
 # game/logic/events/ahchi.rpy:606
 translate chinese CF_S3_label_1ed77277:
 
     # ch_Name "Nah. Look, here's my VIP pass. Any more questions?"
-    ch_Name ""
+    ch_Name "不。看，这是我的贵宾卡。更多的问题吗？"
 
 # game/logic/events/ahchi.rpy:608
 translate chinese CF_S3_label_4da1e0ad:
 
     # Romul "Hmm... It's really a VIP pass."
-    Romul ""
+    Romul "嗯。。。这真的是一张VIP通行证。"
 
 # game/logic/events/ahchi.rpy:609
 translate chinese CF_S3_label_e6cf0f73:
 
     # ch_Name "So can I go in?"
-    ch_Name ""
+    ch_Name "我能进去吗？"
 
 # game/logic/events/ahchi.rpy:611
 translate chinese CF_S3_label_a5fcfca5:
 
     # Romul "Go ahead, of course. Sorry, I didn't recognize you right away."
-    Romul ""
+    Romul "当然可以。抱歉，我没马上认出你来。"
 
 # game/logic/events/ahchi.rpy:612
 translate chinese CF_S3_label_502169ac:
 
     # ch_Name "That's what I thought."
-    ch_Name ""
+    ch_Name "我也是这么想的。"
 
