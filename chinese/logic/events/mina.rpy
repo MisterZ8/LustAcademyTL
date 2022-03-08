@@ -366,461 +366,461 @@ translate chinese strings:
 translate chinese Mina_2_label_8a798297:
 
     # ch_Name "Mina, I have to request another room."
-    ch_Name ""
+    ch_Name "Mina，我得要求另一间房。"
 
 # game/logic/events/mina.rpy:161
 translate chinese Mina_2_label_3b496535:
 
     # Mina "Oh. Did something happen to your room?"
-    Mina ""
+    Mina "哦。你的房间出什么事了吗？"
 
 # game/logic/events/mina.rpy:162
 translate chinese Mina_2_label_adad4cdb:
 
     # ch_Name "No, but it's just terrible conditions. It's impossible to live in."
-    ch_Name ""
+    ch_Name "没有，只是条件太差了。这是不可能的。"
 
 # game/logic/events/mina.rpy:163
 translate chinese Mina_2_label_ebbb7d46:
 
     # Mina "Is it really that bad?"
-    Mina ""
+    Mina "真的那么糟糕吗？"
 
 # game/logic/events/mina.rpy:165
 translate chinese Mina_2_label_d683af63:
 
     # Mina "Come on, show me what you don't like."
-    Mina ""
+    Mina "来吧，让我看看你不喜欢什么。"
 
 # game/logic/events/mina.rpy:166
 translate chinese Mina_2_label_529602bf:
 
     # Mina "And I'll try to fix it somehow."
-    Mina ""
+    Mina "我会想办法弥补的。"
 
 # game/logic/events/mina.rpy:167
 translate chinese Mina_2_label_f364a988:
 
     # ch_Name "Like giving me the keys to the room?"
-    ch_Name ""
+    ch_Name "比如把房间钥匙给我？"
 
 # game/logic/events/mina.rpy:169
 translate chinese Mina_2_label_0502c370:
 
     # Mina "We'll see."
-    Mina ""
+    Mina "我们将会看到。"
 
 # game/logic/events/mina.rpy:170
 translate chinese Mina_2_label_d4f81725:
 
     # Mina "First, let's figure out what's wrong with this room."
-    Mina ""
+    Mina "首先，我们得弄清楚这房间出了什么问题。"
 
 # game/logic/events/mina.rpy:171
 translate chinese Mina_2_label_4191da08:
 
     # ch_Name "I don't even know where to start..."
-    ch_Name ""
+    ch_Name "我甚至不知道从哪里开始。。。"
 
 # game/logic/events/mina.rpy:172
 translate chinese Mina_2_label_f362fb10:
 
     # Mina "We'll discuss it there, on the merits."
-    Mina ""
+    Mina "我们到时候再讨论案情。"
 
 # game/logic/events/mina.rpy:174
 translate chinese Mina_2_label_e544ec4a:
 
     # ch_Name "{i}(If she thinks she can change my mind...){/i}"
-    ch_Name ""
+    ch_Name "{i}（如果她认为她能改变我的主意。。。）{/i}"
 
 # game/logic/events/mina.rpy:175
 translate chinese Mina_2_label_741bcc71:
 
     # ch_Name "{i}(She's dead wrong.){/i}"
-    ch_Name ""
+    ch_Name "{i}（她是大错特错了。）{/i}"
 
 # game/logic/events/mina.rpy:176
 translate chinese Mina_2_label_6191505a:
 
     # ch_Name "{i}(Hmm, I hadn't noticed before how pretty Mina's figure is.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我之前都没注意到Mina的身材这么漂亮。）{/i}"
 
 # game/logic/events/mina.rpy:178
 translate chinese Mina_2_label_074132ca:
 
     # ch_Name "{i}(I wonder if she has a boyfriend.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我想知道她有没有男朋友。）{/i}"
 
 # game/logic/events/mina.rpy:179
 translate chinese Mina_2_label_7a1586dd:
 
     # ch_Name "{i}(Maybe I should ask her out for coffee at Ahchi's sometimes.){/i}"
-    ch_Name ""
+    ch_Name "{i}（许我该约她去Ahchi喝杯咖啡。）{/i}"
 
 # game/logic/events/mina.rpy:180
 translate chinese Mina_2_label_3f4b1010:
 
     # ch_Name "{i}(If she's not too offended by my request.){/i}"
-    ch_Name ""
+    ch_Name "{i}（如果她对我的要求不太生气的话。）{/i}"
 
 # game/logic/events/mina.rpy:187
 translate chinese Mina_2_label_773fbd81:
 
     # Mina "Well, here we are. At first glance, everything seems fine."
-    Mina ""
+    Mina "好了，我们到了。乍一看，一切似乎都很好。"
 
 # game/logic/events/mina.rpy:188
 translate chinese Mina_2_label_a52c7425:
 
     # Mina "Can you give me an example of precisely what you don't like about this place?"
-    Mina ""
+    Mina "你能确切地给我举个例子说明你不喜欢这个地方的地方吗？"
 
 # game/logic/events/mina.rpy:189
 translate chinese Mina_2_label_51c29650:
 
     # ch_Name "Oh, where to start..."
-    ch_Name ""
+    ch_Name "哦，从哪里开始呢。。。"
 
 # game/logic/events/mina.rpy:191
 translate chinese Mina_2_label_37d6624d:
 
     # ch_Name "The couch seats are so squished that the springs are digging into my butt."
-    ch_Name ""
+    ch_Name "沙发座位压得太紧了，弹簧都扎进我屁股里了。"
 
 # game/logic/events/mina.rpy:192
 translate chinese Mina_2_label_b446d014:
 
     # ch_Name "And the coffee table is wobbly."
-    ch_Name ""
+    ch_Name "咖啡桌也摇摇晃晃的。"
 
 # game/logic/events/mina.rpy:193
 translate chinese Mina_2_label_eb97b92b:
 
     # Mina "I think it would be easier for me to replace the sofa cushions, we have spare ones."
-    Mina ""
+    Mina "我想换掉沙发垫会更容易些，我们有多余的。"
 
 # game/logic/events/mina.rpy:194
 translate chinese Mina_2_label_f1ea684b:
 
     # Mina "And you could put a little book under the table."
-    Mina ""
+    Mina "你可以在桌子下面放一本小书。"
 
 # game/logic/events/mina.rpy:196
 translate chinese Mina_2_label_0fc94b84:
 
     # ch_Name "Oh, the hell with it, all right. But the desk, it's horrible..."
-    ch_Name ""
+    ch_Name "管它呢，好吧。但是桌子，太可怕了。。。"
 
 # game/logic/events/mina.rpy:197
 translate chinese Mina_2_label_341c2f52:
 
     # ch_Name "I could have sworn I could have rubbed a splinter on it!"
-    ch_Name ""
+    ch_Name "我发誓我可以在上面擦出一块碎片！"
 
 # game/logic/events/mina.rpy:198
 translate chinese Mina_2_label_7c4f1349:
 
     # Mina "I guess, but why would you rub it? That's not what it's for."
-    Mina ""
+    Mina "我想是的，但你为什么要揉它？那不是它的目的。"
 
 # game/logic/events/mina.rpy:199
 translate chinese Mina_2_label_82b4bd05:
 
     # Mina "This table's an antique."
-    Mina ""
+    Mina "这张桌子是古董。"
 
 # game/logic/events/mina.rpy:200
 translate chinese Mina_2_label_b50fa2ed:
 
     # Mina "Miss Lapis used to write her cheat sheets on it when she was a student."
-    Mina ""
+    Mina "Lapis小姐当学生的时候，经常在上面写小抄。"
 
 # game/logic/events/mina.rpy:201
 translate chinese Mina_2_label_ebd9c261:
 
     # ch_Name "Victoria stayed here when she was a student? I didn't know."
-    ch_Name ""
+    ch_Name "Victoria还是学生的时候住在这里吗？我不知道。"
 
 # game/logic/events/mina.rpy:202
 translate chinese Mina_2_label_ae69b697:
 
     # ch_Name "Well, okay, you can live with the desk, but..."
-    ch_Name ""
+    ch_Name "好吧，你可以用桌子，但是。。。"
 
 # game/logic/events/mina.rpy:204
 translate chinese Mina_2_label_1a0c424d:
 
     # ch_Name "Bathroom and toilet."
-    ch_Name ""
+    ch_Name "浴室和厕所。"
 
 # game/logic/events/mina.rpy:205
 translate chinese Mina_2_label_1357483e:
 
     # ch_Name "Look at them. There's mold..."
-    ch_Name ""
+    ch_Name "看看他们。有模具。。。"
 
 # game/logic/events/mina.rpy:206
 translate chinese Mina_2_label_af0f8c3f:
 
     # ch_Name "And leaking faucets."
-    ch_Name ""
+    ch_Name "和漏水的水龙头。"
 
 # game/logic/events/mina.rpy:207
 translate chinese Mina_2_label_2d01a68c:
 
     # Mina "You name it, it's moldy. The paint just peeled off."
-    Mina ""
+    Mina "你说得出来的，都发霉了。油漆刚刚剥落。"
 
 # game/logic/events/mina.rpy:208
 translate chinese Mina_2_label_c28abce7:
 
     # Mina "I'll send a plumber to tighten the taps and the problem will be solved."
-    Mina ""
+    Mina "我会派一个水管工去拧紧水龙头，问题就解决了。"
 
 # game/logic/events/mina.rpy:209
 translate chinese Mina_2_label_ec2a539f:
 
     # ch_Name "You haven't heard the main problem yet. Let's go."
-    ch_Name ""
+    ch_Name "你还没有听到主要问题。我们走吧。"
 
 # game/logic/events/mina.rpy:216
 translate chinese Mina_2_label_c9ca56d9:
 
     # ch_Name "This mattress is terrible. It's stiff and saggy."
-    ch_Name ""
+    ch_Name "这床垫太糟糕了。又硬又下垂。"
 
 # game/logic/events/mina.rpy:217
 translate chinese Mina_2_label_7ac6e8cb:
 
     # ch_Name "You can't sleep in here!"
-    ch_Name ""
+    ch_Name "你不能睡在这里！"
 
 # game/logic/events/mina.rpy:219
 translate chinese Mina_2_label_17d1efd4:
 
     # Mina "It's strange, there was a girl who stayed here before you."
-    Mina ""
+    Mina "真奇怪，有个女孩在你之前住过这里。"
 
 # game/logic/events/mina.rpy:220
 translate chinese Mina_2_label_e290d893:
 
     # Mina "She looked as fragile and delicate as a spike."
-    Mina ""
+    Mina "她看上去像一根长钉一样脆弱而娇弱。"
 
 # game/logic/events/mina.rpy:221
 translate chinese Mina_2_label_03221492:
 
     # ch_Name "So?"
-    ch_Name ""
+    ch_Name "所以呢？"
 
 # game/logic/events/mina.rpy:223
 translate chinese Mina_2_label_6371340e:
 
     # Mina "Neither she nor I thought the mattress was hard."
-    Mina ""
+    Mina "她和我都觉得床垫不硬。"
 
 # game/logic/events/mina.rpy:224
 translate chinese Mina_2_label_a1bdcaad:
 
     # ch_Name "{i}(By \"Neither she nor I\" she means...){/i}"
-    ch_Name ""
+    ch_Name "{i}（她所说的“她和我都不是”是指。。。）{/i}"
 
 # game/logic/events/mina.rpy:225
 translate chinese Mina_2_label_7893df0d:
 
     # ch_Name "{i}(That they were lying here together? What the... Maybe I got it wrong?){/i}"
-    ch_Name ""
+    ch_Name "{i}（他们一起躺在这里?什么。。。也许我弄错了？）{/i}"
 
 # game/logic/events/mina.rpy:227
 translate chinese Mina_2_label_0d67e0cd:
 
     # ch_Name "{i}(I can't outright ask if they fucked on.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我不能直接问他们有没有干过。）{/i}"
 
 # game/logic/events/mina.rpy:228
 translate chinese Mina_2_label_a32fcb1b:
 
     # ch_Name "Maybe not for a girl, but I think the bed is too flimsy."
-    ch_Name ""
+    ch_Name "也许不适合女孩，但我觉得这床太薄了。"
 
 # game/logic/events/mina.rpy:229
 translate chinese Mina_2_label_0e7c36c9:
 
     # ch_Name "I'm not sure it can handle any kind of activity."
-    ch_Name ""
+    ch_Name "我不确定它能处理任何活动。"
 
 # game/logic/events/mina.rpy:231
 translate chinese Mina_2_label_94746600:
 
     # Mina "Activity?"
-    Mina ""
+    Mina "活动？"
 
 # game/logic/events/mina.rpy:232
 translate chinese Mina_2_label_18181f96:
 
     # Mina "Could you be more specific? What kind of activities do you mean?"
-    Mina ""
+    Mina "你能说得更具体一点吗?你指的是什么样的活动？"
 
 # game/logic/events/mina.rpy:234
 translate chinese Mina_2_label_743604b7:
 
     # ch_Name "Oh, well..."
-    ch_Name ""
+    ch_Name "哦，好吧。。。"
 
 # game/logic/events/mina.rpy:235
 translate chinese Mina_2_label_4259d756:
 
     # ch_Name "All kinds."
-    ch_Name ""
+    ch_Name "各种各样。"
 
 # game/logic/events/mina.rpy:237
 translate chinese Mina_2_label_550a4da2:
 
     # ch_Name "{i}(Whoa! What is she doing? Why is she leaning so close?){/i}"
-    ch_Name ""
+    ch_Name "{i}（哇！她在做什么？她为什么靠得这么近？）{/i}"
 
 # game/logic/events/mina.rpy:238
 translate chinese Mina_2_label_3e273ffb:
 
     # Mina "I can assure you that this bed is much sturdier than it looks."
-    Mina ""
+    Mina "我可以向你保证，这张床比看起来要结实得多。"
 
 # game/logic/events/mina.rpy:239
 translate chinese Mina_2_label_7985b9d6:
 
     # Mina "I can't change your room without documenting your dissatisfaction with this one."
-    Mina ""
+    Mina "如果你不满意这个房间，我就不能给你换房间。"
 
 # game/logic/events/mina.rpy:240
 translate chinese Mina_2_label_1c55ea1f:
 
     # Mina "And if my boss finds out that clients are happy, I won't get the promotion."
-    Mina ""
+    Mina "如果我的老板发现客户很满意，我就得不到提升了。"
 
 # game/logic/events/mina.rpy:241
 translate chinese Mina_2_label_6741be37:
 
     # ch_Name "{i}(So that's why she's defending this room so fiercely... Oh, my...){/i}"
-    ch_Name ""
+    ch_Name "{i}（这就是为什么她要为这个房间辩护哦，我的。。。）{/i}"
 
 # game/logic/events/mina.rpy:242
 translate chinese Mina_2_label_0ea6b5ba:
 
     # ch_Name "I get it, but what about my comfort?"
-    ch_Name ""
+    ch_Name "我明白，但我的舒适怎么办？"
 
 # game/logic/events/mina.rpy:244
 translate chinese Mina_2_label_96bf4ebd:
 
     # Mina "I was just getting to that part."
-    Mina ""
+    Mina "我刚说到这部分。"
 
 # game/logic/events/mina.rpy:245
 translate chinese Mina_2_label_2b785166:
 
     # Mina "Let me prove to my boss that I'm a good hostess."
-    Mina ""
+    Mina "让我向老板证明我是个好女主人。"
 
 # game/logic/events/mina.rpy:246
 translate chinese Mina_2_label_24c3a1e1:
 
     # Mina "It's my duty as a good hostess to help you get happy and comfortable."
-    Mina ""
+    Mina "作为一个好女主人，我有责任帮助你得到快乐和舒适。"
 
 # game/logic/events/mina.rpy:247
 translate chinese Mina_2_label_3a5d5f46:
 
     # Mina "In particular, if we ignore the other inconveniences of the room."
-    Mina ""
+    Mina "特别是，如果我们忽略房间的其他不便。"
 
 # game/logic/events/mina.rpy:248
 translate chinese Mina_2_label_376b16dc:
 
     # Mina "And let's not go back to the question of changing rooms."
-    Mina ""
+    Mina "我们不要再回到更衣室的问题上了。"
 
 # game/logic/events/mina.rpy:249
 translate chinese Mina_2_label_3d634061:
 
     # ch_Name "Oh, well... That's a tempting offer. I'll have to think about it."
-    ch_Name ""
+    ch_Name "哦，好吧。。。这是个诱人的提议。我得想一想。"
 
 # game/logic/events/mina.rpy:251
 translate chinese Mina_2_label_e2092451:
 
     # Mina "Good! Let me know when you make up your mind."
-    Mina ""
+    Mina "好！你决定了就告诉我一声。"
 
 # game/logic/events/mina.rpy:252
 translate chinese Mina_2_label_82a402c0:
 
     # Mina "Until then, enjoy your stay at the Daly-ly Apartments!"
-    Mina ""
+    Mina "在此之前，祝您在Daly-ly公寓过得愉快！"
 
 # game/logic/events/mina.rpy:253
 translate chinese Mina_2_label_83040533:
 
     # Mina "I'll be at the front desk if you need anything."
-    Mina ""
+    Mina "如果你需要什么，我就在前台。"
 
 # game/logic/events/mina.rpy:254
 translate chinese Mina_2_label_c56c66f8:
 
     # ch_Name "Okay. Thank you."
-    ch_Name ""
+    ch_Name "好吧。谢谢你！"
 
 # game/logic/events/mina.rpy:256
 translate chinese Mina_2_label_331373d2:
 
     # ch_Name "{i}(What the hell...){/i}"
-    ch_Name ""
+    ch_Name "{i}（什么是地狱。。。）{/i}"
 
 # game/logic/events/mina.rpy:257
 translate chinese Mina_2_label_96cc7614:
 
     # ch_Name "{i}(Was it just me, or did she just hint at sex?){/i}"
-    ch_Name ""
+    ch_Name "{i}（是我的错觉，还是她暗示我要和她做爱？）{/i}"
 
 # game/logic/events/mina.rpy:258
 translate chinese Mina_2_label_803e9d75:
 
     # ch_Name "{i}(Seems like this room may work fine for me after all.){/i}"
-    ch_Name ""
+    ch_Name "{i}（看来这个房间对我来说还是挺合适的。）{/i}"
 
 # game/logic/events/mina.rpy:267
 translate chinese Mina_2_label_b82520d8:
 
     # ch_Name "{i}(As good as it sounds - I can't spend all the weekend just lying here.){/i}"
-    ch_Name ""
+    ch_Name "{i}（听起来不错，但我不能整个周末都躺在这里。）{/i}"
 
 # game/logic/events/mina.rpy:268
 translate chinese Mina_2_label_d50bf229:
 
     # ch_Name "{i}(First of all - I need to get ingredients for the ritual.){/i}"
-    ch_Name ""
+    ch_Name "{i}（首先，我需要为仪式准备材料。）{/i}"
 
 # game/logic/events/mina.rpy:269
 translate chinese Mina_2_label_43505be9:
 
     # ch_Name "{i}(After all, I've promised Haley that I would take care of it.){/i}"
-    ch_Name ""
+    ch_Name "{i}（毕竟，我答应过海莉我会处理好的。）{/i}"
 
 # game/logic/events/mina.rpy:270
 translate chinese Mina_2_label_bec2a0ee:
 
     # ch_Name "{i}(Good thing I know one fairy who can get everything I need.){/i}"
-    ch_Name ""
+    ch_Name "{i}（还好我认识一个仙女，她能帮我搞定一切。）{/i}"
 
 # game/logic/events/mina.rpy:271
 translate chinese Mina_2_label_82e923cd:
 
     # ch_Name "{i}(It's time to visit Gordon's shop.){/i}"
-    ch_Name ""
+    ch_Name "{i}（是时候参观Gordon的商店了。）{/i}"
 
 translate chinese strings:
 
     # game/logic/events/mina.rpy:130
     old "Request another room"
-    new ""
+    new "请求另一个房间"
 
