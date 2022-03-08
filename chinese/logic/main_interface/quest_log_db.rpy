@@ -1028,1053 +1028,1053 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Turns out that the statues in one of the gardens are actually alive! One of them even had a boner while we were walking there with Haley."
-    new ""
+    new "原来其中一个花园中的雕像是真的！我们和Haley在那里散步的时候，其中一个还勃起了。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "A young well-bred lady from Adderin with extraordinary magical abilities. She seems really nice, but Samantha finds her suspicious for some reason."
-    new ""
+    new "一位来自Adderin的有教养的年轻女士拥有非凡的魔法能力。她看起来很好，但Samantha觉得她很可疑出于某种原因。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Alston"
-    new ""
+    new "Alston"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "{b}Samantha's story{/b}"
-    new ""
+    new "{b}Samantha的故事{/b}"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Victoria's story"
-    new ""
+    new "Victoria的故事"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Leonheart points +5"
-    new ""
+    new "Leonheart分 +5"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Time skip"
-    new ""
+    new "时间跳过"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Magery practics"
-    new ""
+    new "Magery实践的"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Audrey's story"
-    new ""
+    new "Audrey的故事"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "{b}Giant's story{/b}"
-    new ""
+    new "{b}Giant的故事{/b}"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Sabrina's story"
-    new ""
+    new "Sabrina的故事"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "{b}Time skip +2{/b}"
-    new ""
+    new "{b}时间跳过 +2{/b}"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Alchemy practics"
-    new ""
+    new "Alchemy实践的"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "{b}Elijah's story{/b}"
-    new ""
+    new "{b}Elijah的故事{/b}"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Amelie's story"
-    new ""
+    new "Amelie的故事"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Leonheart points +X"
-    new ""
+    new "Leonheart点 +X"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Peeping at Molly"
-    new ""
+    new "偷看Molly"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "{b}Doesn't affect relationships{/b}"
-    new ""
+    new "{b}不会影响关系{/b}"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Haley's story"
-    new ""
+    new "Haley的故事"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "{b}Angel's story{/b}"
-    new ""
+    new "{b}Angel的故事{/b}"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "{b}Haley's story{/b}"
-    new ""
+    new "{b}Haley的故事{/b}"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Samantha's story"
-    new ""
+    new "Samantha的故事"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Time Skip"
-    new ""
+    new "时间跳过"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Lily's story"
-    new ""
+    new "Lily的故事"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Naomi's story"
-    new ""
+    new "Naomi的故事"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Elijah's story"
-    new ""
+    new "Elijah的故事"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Molly's story"
-    new ""
+    new "Molly的故事"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "First work in Cafe"
-    new ""
+    new "咖啡馆的第一份工作"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Leonheart points +3"
-    new ""
+    new "Leonheart分 +3"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Money +10...+35"
-    new ""
+    new "钱 +10。。。+35"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "{b}Lily's story{/b}"
-    new ""
+    new "{b}Lily的故事{/b}"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "{b}Leona's story{/b}"
-    new ""
+    new "{b}Leona的故事{/b}"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Academy Entrance"
-    new ""
+    new "学院入口"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Jacob's story"
-    new ""
+    new "Jacob的故事"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "First Duel"
-    new ""
+    new "第一次决斗"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Leonheart points +3...+15"
-    new ""
+    new "Leonheart分 +3。。。+15"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Girls bedroom"
-    new ""
+    new "女孩的卧室"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Leona's story"
-    new ""
+    new "Leona的故事"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "{b}Use Sorting Book{/b}"
-    new ""
+    new "{b}使用分拣册{/b}"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Nightly peeping at Haley"
-    new ""
+    new "每晚偷窥Haley"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Nightly peeping at Samantha"
-    new ""
+    new "夜间偷窥Samantha"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Nightly peeping at Audrey"
-    new ""
+    new "每晚偷窥Audrey"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "My bedroom"
-    new ""
+    new "我的卧室"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Nightly peeping at Lily"
-    new ""
+    new "夜间偷窥Lily"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Gordon's story"
-    new ""
+    new "Gordon的故事"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "First Fishing"
-    new ""
+    new "第一次钓鱼"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Money +1...+40"
-    new ""
+    new "钱 +1。。。+40"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Fishing"
-    new ""
+    new "钓鱼"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Willow's story"
-    new ""
+    new "Willow的故事"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Mina's story"
-    new ""
+    new "Mina的故事"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Jill's story"
-    new ""
+    new "Jill的故事"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Adele's story"
-    new ""
+    new "Adele的故事"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Ahchi's story"
-    new ""
+    new "Ahchi的故事"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Small talk with Ahchi"
-    new ""
+    new "与Ahchi小谈"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Small talk with Haley"
-    new ""
+    new "与Haley小谈"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Small talk with Sam & Audrey"
-    new ""
+    new "与Sam和Audrey小谈"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Romul's story"
-    new ""
+    new "Romul的故事"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Club Entrance"
-    new ""
+    new "俱乐部入口"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Lucy's Show"
-    new ""
+    new "Lucy的显示"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Sadira's Show"
-    new ""
+    new "Sadira的显示"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Vanessa's Story"
-    new ""
+    new "Vanessa的故事"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Giant's story"
-    new ""
+    new "Giant的故事"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Small talk with Lily"
-    new ""
+    new "与Lily小谈"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "VIP rooms"
-    new ""
+    new "VIP房间"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Adele showed me around club. I can now order a table from her or ask Sadira or Lucy about VIP rooms."
-    new ""
+    new "Adele带我参观了俱乐部。我现在可以向她订一张桌子，或者向Sadira或Lucy询问贵宾室的情况。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "next time"
-    new ""
+    new "下次"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Lady Luck"
-    new ""
+    new "幸运女神"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Adele seemed to be interested in me. I should ask her on a date next time im in Lady Luck."
-    new ""
+    new "Adele似乎对我很感兴趣。我下次在《幸运女神》的时候应该约她。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "afternoon"
-    new ""
+    new "下午"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "I worked up the courage to ask Adele out. She seemed surprised, but agreed. We agreed to meet in the afternoon at the Coffee Hut. I couldn't wait."
-    new ""
+    new "我鼓起勇气约Adele出去。她似乎很惊讶，但还是同意了。我们约定下午在咖啡馆见面。我不能等待。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "We had a great time with Adele at the Coffee Hut. She was very sociable and friendly. I think she liked me too. We agreed that we would do it again sometime, so I should talk to her next time I'm in Lady Luck."
-    new ""
+    new "我们和Adele在咖啡馆玩得很开心。她很好交际，很友好。我想她也喜欢我。我们说好以后还会再来的，所以下次我在《幸运女神》里的时候应该和她谈谈。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "It seems like good company and a good load of alcohol can make Adele do crazy things. And no one can deny how talented she is in what she does. I think I'll need to invite her to another after-hours date if I hope to see another show."
-    new ""
+    new "看起来很好的陪伴和大量的酒精可以让阿黛尔做出疯狂的事情。没有人能否认她在她所做的事情上有多么的才华。如果我还想看另一场演出，我想我得邀请她再来一次下班后的约会。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "books"
-    new ""
+    new "书"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "house"
-    new ""
+    new "房子"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "more books"
-    new ""
+    new "更多的书"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "wait"
-    new ""
+    new "等待"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "I helped Amelie deal with the pixies who tried to steal from her, but they managed to steal one of the potions. Amelie asked me to help her get it back when she figured out where they were hiding. I couldn't wait."
-    new ""
+    new "我帮Amelie对付了那些想偷她东西的仙子，但他们成功偷走了一种魔药。Amelie让我帮她把钱拿回来等她找到他们藏在哪里。我不能等待。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Amelie and I went to the pixie settlement in the woods and returned the stolen potion. It was epic! Admittedly, the potion broke and got on Amelie in the process, but that's okay... But, it was fun."
-    new ""
+    new "Amelie和我去了树林里的小精灵聚集地还回了偷来的魔药。这是史诗！不可否认，药水破了，在这个过程中迷上了Amelie，但这没关系。。。但是，这很有趣。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "angels"
-    new ""
+    new "天使"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "win"
-    new ""
+    new "赢得"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "classes"
-    new ""
+    new "类"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "duels"
-    new ""
+    new "决斗"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Winning"
-    new ""
+    new "赢得"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "money"
-    new ""
+    new "钱"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "get a job"
-    new ""
+    new "找到一份工作"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Сafe"
-    new ""
+    new "咖啡店"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Audrey only talks to men who can take her to a restaurant. It seems that I have to get a job to interest her in my persona. Elijah mentioned, that local Сafe needed some workers."
-    new ""
+    new "Audrey只和能带她去餐馆的男人说话。看来我得找份工作才能让她对我的角色感兴趣。Elijah提到，当地的咖啡店需要一些工人。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Living room"
-    new ""
+    new "客厅"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "evening"
-    new ""
+    new "晚上"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Sam"
-    new ""
+    new "Sam"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "morning"
-    new ""
+    new "早"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "I've tried to get Sam and Audrey to tell me if they're hiding something, but they told me nothing. I'll need to talk to Audrey in the Living room in the morning, when she's alone."
-    new ""
+    new "我试着让Sam和Audrey告诉我他们是否隐瞒了什么，但他们什么都没说。明早Audrey一个人的时候，我得去客厅跟她谈谈。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "to wait"
-    new ""
+    new "等待"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Audrey was so sweet about choosing a gift for Samantha. They must be really good friends. I think she likes me too, and maybe I should talk to her in the Living room in the evening?"
-    new ""
+    new "Audrey为Samantha挑选礼物真是太贴心了。他们一定是很好的朋友。我想她也喜欢我，也许我应该晚上在客厅和她谈谈？"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Audrey and Samantha acted really weird tonight: first they got touchy with each other and went to their room. Then Samantha stormed out and she looked concerned. I'll have to talk to Audrey in the morning if I want to know the details."
-    new ""
+    new "Audrey和Samantha今晚的行为很奇怪:首先，他们相互动手动脚，然后去了他们的房间。然后Samantha气冲冲地走了出去，看上去很担心。如果我想知道细节，明早我得和Audrey谈谈。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Audrey and I have a complicated situation, and I have to figure out what to do next. I should meet Audrey in the morning in the Living room to sort things out. If not for Audrey's sake, then for Samantha's."
-    new ""
+    new "Audrey和我有一个复杂的情况，我必须想出下一步该怎么做。我应该明天早上在起居室和Audrey见面，把事情弄清楚。如果不是为了Audrey，就是为了Samantha。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "succubus"
-    new ""
+    new "女妖"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "We finally talked to Audrey about our relationship and everything that had happened recently. Now we both have a better understanding of the boundaries between us. It's up to me to decide if I want to continue my relationship with her, I shouldn't forget that she's the succubus that almost got Samantha hurt. If I want to proceed with Audrey, I could probably talk to her in the morning in our Living room."
-    new ""
+    new "我们终于和Audrey谈了我们的关系以及最近发生的一切。现在我们都对我们之间的界限有了更好的了解。要不要继续和她交往由我自己决定，我不应该忘记她就是那个差点让Samantha受伤的魔女。如果我想继续和Audrey谈，我可以早上在我们的客厅里和她谈谈。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "In order to be able to have sex with Audrey I need to create a special potion. Only Sabrina can help me to find out where to look for the main ingredient. I'll meet her in Classroom 2 as usual."
-    new ""
+    new "为了能够与奥黛丽发生关系，我需要制作一种特殊的药水。只有Sabrina能帮我找到主要成分的位置。我将像往常一样在2号教室和她见面。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Lunar nymphaea"
-    new ""
+    new "月球睡莲属"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Tuesday night"
-    new ""
+    new "星期二晚上"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "The Moonwalk"
-    new ""
+    new "在月球上行走"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "tincture"
-    new ""
+    new "酊"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "To create a potion that will save me from Audrey's powers I need to look for Lunar nymphaea in the Inner Garden on Tuesday night. After I'll create The Moonwalk tincture on potions practice I should come talk to Audrey in the Living room in the evening."
-    new ""
+    new "为了研制出一种能把我从Audrey的力量中拯救出来的药剂我必须在周二晚上到内花园去找月亮睡莲。当我在魔药练习中创造出《太空步》酊剂后，我应该在晚上去客厅和Audrey谈谈。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "finally"
-    new ""
+    new "最后"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Audrey took me to her secret place and showed her succubus form. I finally saw what she really is and could not keep my emotions."
-    new ""
+    new "Audrey带我去了她的秘密地方，展示了她妖魔的样子。我终于看清了她的真面目，再也控制不住自己的情绪。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Elijah gave me my student card and told me to get my textbooks from the Library. Then I can visit classes."
-    new ""
+    new "Elijah把我的学生证给了我，让我去图书馆拿课本。然后我可以去上课。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "both classes"
-    new ""
+    new "两个班级"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Elijah recommended that I attend both classes and then find him in the Cafe in the evening."
-    new ""
+    new "Elijah建议我参加这两门课，然后晚上在咖啡馆找他。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Chompski Shop"
-    new ""
+    new "Chompski商店"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "When I went for Elijah's package to Gordon's shop I had a small chat with Willow. She showed me her magic grove. It seems like it is very important to her. I wonder what's inside...  She also gave me the nectar for Elijah. I should meet him at Cordale's Cafe in the evening."
-    new ""
+    new "当我去 Gordon 的商店取 Elijah 的包裹时，我和 Willow 聊天。 她向我展示了她的魔法小树林。 这对她来说似乎很重要。 我想知道里面是什么。。。她还给了我以利亚的花蜜。 我今晚在 Cordale 咖啡馆见他。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "next encounter"
-    new ""
+    new "下一个遇到"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "After the strange creature in Dale drank a potion Sabrina gave me, it regained consciousness. He thanked me and promised that one day he'd return the favor."
-    new ""
+    new "Dale城的怪物喝了塞布丽娜给我的药水后，它恢复了意识。他感谢了我，并承诺有一天他会回报我。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "$"
-    new ""
+    new "＄"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "each fish"
-    new ""
+    new "每一个鱼"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "It looks like fishing can be pretty profitable. I can go fishing whenever the shop is open and Gordon will always pay me a $ for each fish."
-    new ""
+    new "看起来捕鱼是很赚钱的。我可以在商店开门的时候去钓鱼，戈登总是会为每条鱼付给我＄。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "her Room"
-    new ""
+    new "她的房间"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Haley is getting ready for Victoria's private classes, I gotta find out what progress she's made. I'll try to talk to her in the morning before the lecture in the Classroom 1."
-    new ""
+    new "Haley在为Victoria的私人课程做准备，我得看看她有什么进步。我试着在早上上课前在1号教室和她谈谈。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "her own"
-    new ""
+    new "她自己的"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Haley said there was something strange in her textbook and called me over to look at it myself. We're meeting in the evening in her Room."
-    new ""
+    new "Haley说她的课本有点奇怪叫我过去看看。我们晚上在她的房间见面。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Together, Haley and I tried to unwrap the mystery about E.Bloom's notes in her book. Elijah seemed disturbed when we asked him questions. I need to meet Haley in the morning before classes to find out what's her plan."
-    new ""
+    new "我和Haley一起试图解开E。这是布鲁姆在她书中的笔记。我们问Elijah问题时，他看起来很不安。我得在早上上课前见海莉看看她有什么计划。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "We were alone in the courtyard, and Haley showed that she doesn't mind getting closer to me. She also asked me to spy on Amelie until I find a secret room in the Library. When I'm ready, I have to warn Haley about it in the morning before classes."
-    new ""
+    new "我们一个人在院子里，Hailey 表示她不介意靠近我。 她还让我看 Emily，直到我在图书馆找到一个秘密房间。 当我准备好后，我必须在早上上课前提醒 Haley。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Hours of spying were not wasted for nothing! I saw Amelie disappearing and coming back where there were no exits. I have to tell Haley about this, and she might know what to do. I'll meet her in the Classroom 2 in the afternoon."
-    new ""
+    new "间谍的时间没有浪费！ 我看到Amelie消失并回来了，那里没有出口。 我必须把这件事告诉 Hailey，她可能知道该怎么做。 下午我会在二号教室见她。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Haley needs some time to examine the coins she found in the Library and find out how to get to the secret room. I should ask her about this next time I see her before Sabrina's class in the afternoon."
-    new ""
+    new "Haley需要一些时间来检查她在图书馆找到的硬币，并弄清楚如何进入密室。 我应该在下午上课前再次见到Sabrina时问问她。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Haley discovered that Elijah's brother and Hans were lovers and were trying to escape from here. To replicate their ritual and open the portal, we'll need Samantha's help. I'll talk to her in the Living room in the morning."
-    new ""
+    new "Haley发现Elijah的兄弟和Hans 是恋人并试图逃跑。要复制他们的仪式并打开传送门，我们需要Samantha的帮助。 早上我会在客厅和她谈谈。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "ingredients"
-    new ""
+    new "成分"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "I made arrangements with Samantha and she will help us with the ritual. We're finally going to solve the mystery of E.Bloom. Also, Haley and I made a date. Until the date I have to get to Dale to buy the ingredients from Gordon."
-    new ""
+    new "Samantha和我安排她帮助我们完成仪式。 我们终于解决了E. Bloom之谜。另外，Hailey和我有个约会。在我去Dale向Gordon购买原料之前。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Willow helped me to get ingredients for the ritual. Now I just have to wait until Haley contacts me."
-    new ""
+    new "Willow帮我拿到了仪式所需的材料。现在只能等Hailey联系我了。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "her room"
-    new ""
+    new "她的房间"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Haley and I decided to celebrate our progression with E.Bloom investigation. I need to meet her at her room in the evening and take her out on a date."
-    new ""
+    new "Haley和我决定通过E.Bloom调查庆祝我们的进展。我需要晚上在她的房间见她，然后带她出去约会。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "To perform the ritual I have to wait until the full moon. When the day comes Haley will contact me."
-    new ""
+    new "要执行仪式，我必须等到满月。当那一天到来时，Haley会联系我。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Сombat spells"
-    new ""
+    new "Сombat法术"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "To enter the Dueling Club I need to learn Сombat spells. In order to do so, I have to visit more Victoria's lessons."
-    new ""
+    new "要进入决斗俱乐部，我需要学习Сombat法术。 为了做到这一点，我必须访问更多Victoria的课程。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "I was accepted into the Dueling Club, so I can come to the Academy Entrance every evening and take part in duels."
-    new ""
+    new "我被决斗俱乐部录取了，所以我每天晚上都能到学院的入口处参加决斗。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Whistley's Spa"
-    new ""
+    new "Whistley的温泉"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "$75"
-    new ""
+    new "$75"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "another massage"
-    new ""
+    new "另一个按摩"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Main hall"
-    new ""
+    new "大厅"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Katrina won't leave me alone. If I want to face her on my terms, I have to find a way to defeat her. I think I should contact Leona. Maybe the Sorting book in the Main hall of Academy will do the trick?"
-    new ""
+    new "Katrina不会放过我的如果我想以我的方式面对她，我就得想办法打败她。我想我应该联系Leona。也许学院大厅里的分院书能帮上忙?"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "next Tuesday"
-    new ""
+    new "下周二"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "If it weren't for Leona, I'd be stuck in a nightmare forever. It turned out that, under the guise of Katrina, It was a soul-eating phantom who tortured me in my dreams. Right now, I can do nothing about. On the next Tuesday I can summon Leona again to ask what should I do next."
-    new ""
+    new "如果不是Leona，我就永远困在噩梦里了。结果是，在Katrina的伪装下，是一个吞噬灵魂的幽灵在我的梦里折磨我。现在，我什么也做不了。下周二我可以再次召唤Leona问我下一步该做什么。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Lion's Seal"
-    new ""
+    new "狮子的密封"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "week"
-    new ""
+    new "周"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "It turned out that Jacob was behind the soul-stealing phantom attack. He was testing me to help him overpower Arthur. Jacob assures me that Arthur is the villain who killed my parents. To deal with him, I asked Leona to obtain for me an ancient artifact - the scroll of the Lion's Seal, but she needs a week to get it. Now I just need to wait."
-    new ""
+    new "事实证明，Jacob是窃取灵魂的幽灵袭击的幕后黑手。他在考验我帮他战胜Arthur。雅各布向我保证Arthur就是杀害我父母的恶棍。为了对付他，我让Leona帮我拿到一件古老的工艺品——狮印卷轴，但她需要一个星期才能拿到。现在我只需要等待。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Seal"
-    new ""
+    new "密封"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Now that Leona has given me the seal, I can help Jacob stop Arthur from his evil plans. He will be waiting for me near the entrance to the academy in the evening. However, Leona often warned me about how dangerous the seal is, so I should be careful."
-    new ""
+    new "现在Leona把封印给了我，我可以帮助Jacob阻止Arthur的邪恶计划。晚上他会在学院入口附近等我。然而，Leona经常警告我海豹有多危险，所以我应该小心。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Lion Seal"
-    new ""
+    new "狮子密封"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "I used the Lion Seal to drive the evil spirit out of Jacob. Now I could get the truth about my parents from him. I'll have to talk to him when he comes to his senses."
-    new ""
+    new "我用狮印驱走了Jacob体内的恶灵。现在我可以从他那里知道我父母的真相了。等他回过神来，我得跟他谈谈。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Victoria's class"
-    new ""
+    new "Victoria的类"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "I can try to get Lily to like me by attending Victoria's class and earning points for Leonheart."
-    new ""
+    new "我可以试着让Lily喜欢我去上Victoria的课，为Leonheart赢得分数。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "three"
-    new ""
+    new "三个"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "lie"
-    new ""
+    new "谎言"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "duel"
-    new ""
+    new "决斗"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Lily doesn't believe that I will be able to defeat my opponent in a duel. I need to talk to Jacob in order to participate in duels. If I win, Lily will be waiting for me in the evening at the fountain in the Inner Garden. I hope it will be worth it."
-    new ""
+    new "Lily不相信我能在决斗中打败我的对手。我需要和Jacob谈谈才能参加决斗。如果我赢了，Lily晚上会在内花园的喷泉边等我。我希望这是值得的。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "night"
-    new ""
+    new "晚上"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "I won at the duel. That means Lily owes me a date. She'll visit My Room herself in the night. I'd better get dressed and ready."
-    new ""
+    new "决斗我赢了。这意味着Lily欠我一个约会。她晚上会亲自来我的房间。我最好穿好衣服，做好准备。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "in"
-    new ""
+    new "在"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "We had some fun with Lily and then decided to discuss other house-related plans next time. Maybe I should talk to help before Sabrina's lesson in the Classroom 2 in the afternoon."
-    new ""
+    new "我们和Lily玩得很开心，然后决定下次再讨论其他有关房子的计划。也许我应该在下午2号教室Sabrina上课前帮她谈谈。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "I've agreed to help Sabrina and Lily to harvest some herbs. Lily and I got lost and had an unbelievable adventure. I think I should talk about this with Sabrina in the evening in Classroom 2."
-    new ""
+    new "我同意帮Sabrina和Lily采集草药。Lily和我迷路了，经历了一段难以置信的冒险。我想我应该晚上在2号教室和Sabrina谈谈这件事。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Mushroom girl"
-    new ""
+    new "蘑菇女孩"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "I told Sabrina about Mushroom girl I saw in the woods, and it turns out that the existence of these creatures has not yet been proven as a fact. I could be the discoverer of this species if I could find proof. But I have to wait until the compass is fixed. I should meet Lily in the morning before Victoria's class if I want to talk about what's happened."
-    new ""
+    new "我跟Sabrina说了我在树林里看到的蘑菇女孩，结果发现这些生物的存在还没有被证实。如果我能找到证据，我就能发现这个物种。但我得等到罗盘修好。我应该在早上Victoria上课前去见Lily如果我想谈谈发生了什么。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Dale-ly Hotel"
-    new ""
+    new "Dale-ly酒店"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Good news for students - there's a free room in the Dale-ly Hotel. Also, I saw Mina reading porno novels. I should talk to her again next time I'll be in Dale."
-    new ""
+    new "学生们有个好消息——Dale-ly酒店有一个免费房间。还有，我看到Mina在读色情小说。我下次去Dale的时候应该再找她谈谈。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "My room in the Hotel isn't perfect, but Mina hinted that her promotion depends on if I have any complaints and if I don't make any trouble for her, I can get some hot action. Now I just have to wait for an opportunity to catch that possibility."
-    new ""
+    new "我在酒店的房间并不完美，但Mina暗示，她的晋升取决于我是否有任何抱怨，如果我不给她制造任何麻烦，我可以得到一些激烈的行动。现在我只需要等待机会抓住这种可能性。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "afternoons"
-    new ""
+    new "下午"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "evenings"
-    new ""
+    new "晚上"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "five shifts"
-    new ""
+    new "五个转变"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Now I can help Molly serve food at her Cafe for a decent fee. It gets even better if I don't screw up and get more tips. Working together with Molly can get us closer. Her workload is less intense in the evening, so it's better to talk to her at this time. But first I'll gain her trust by working at least five shifts."
-    new ""
+    new "现在我可以帮Molly在她的咖啡馆里卖菜，还能赚一笔可观的钱。如果我不搞砸，得到更多的小费，情况会更好。和Molly合作能让我们更亲近。她晚上的工作量比较小，所以最好这个时候和她谈谈。但首先我得至少上五班才能赢得她的信任。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Naomi turned out to be arrogant and over-self-confident. I'm sure I can make her more obedient in time. Naomi can be found at the fountain in the Inner Garden in the evening."
-    new ""
+    new "Naomi是一个傲慢和过分自信的人。我相信我能让她更听话。晚上可以在内花园的喷泉边找到Naomi。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "I've tried to get her interested in me, but Naomi's a tricky one. I'll see if I can get a hold of her in the Classroom 2 in the afternoon."
-    new ""
+    new "我试过让她对我感兴趣，但Naomi很狡猾。我看看下午能不能在2号教室找到她。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Naomi tries to manipulate me into getting test answers for her. Let's see who'll end up outsmarted here. Naomi can be found at the fountain in the Inner Garden in the evening."
-    new ""
+    new "Naomi想操纵我帮她拿到考试答案。看看谁会更聪明。晚上可以在内花园的喷泉边找到Naomi。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Naomi failed to delay Sabrina, and I've got trapped in her class for several hours! I'll tell Naomi how \"fun\" that was before Victoria's lesson in the Classroom 1 in the morning!"
-    new ""
+    new "Naomi没能拖住Sabrina，我被困在她的课上好几个小时了！我会告诉Naomi这是多么“有趣”在Victoria的课之前，在1号教室早上！"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Naomi fooled with me, and now she needs to earn my forgiveness to get the test results she needs so desperately. I'll meet her in the Inner Garden in the evening to see what I can get out of this."
-    new ""
+    new "Naomi耍了我，现在她需要我的原谅才能拿到她急需的检测结果。晚上我会在内花园和她见面，看看我能从中得到些什么。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "I took Naomi to the library and made sure she's willing to go all the way if she needs something. I think she earned to get the test results. I think I'll meet her in the morning before Victoria's class."
-    new ""
+    new "我带Naomi去了图书馆确定如果她需要什么她愿意去。我认为她应该得到测试结果。我想我会在早上Victoria上课前和她见面。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Naomi and Sabrina got into a fight in class, and now Naomi needs help to win back the teacher's favor. I promised to meet her at night in the Classroom 2 and teach her how to make potions."
-    new ""
+    new "Naomi和Sabrina在课堂上吵了一架，现在Naomi需要帮助来赢回老师的欢心。我答应晚上在2号教室见她，教她制作魔药。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "fountain"
-    new ""
+    new "喷泉"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "When I helped Naomi to learn how to brew potions, there was some heat between us. She took me to the Library to finish what we've started the last time we were there. I should meet her in the evening after classes near the fountain to talk about what's happened."
-    new ""
+    new "我帮Naomi学泡药的时候，我们之间有些矛盾。她带我去图书馆完成上次我们在那里开始的事。我应该在晚上下课后和她在喷泉附近见面，谈谈发生的事情。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "VIP pass"
-    new ""
+    new "VIP通"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "This jerk asked for a bribe and almost let Adele be raped. I think I'll need to give him a lesson later. But the good thing is I've got a VIP pass to Lady Luck now."
-    new ""
+    new "这个混蛋要求贿赂还差点让Adele被强奸。我想我以后得给他上一课。但好消息是我现在有一张幸运女神的VIP通行证。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "According to Sabrina, only students who have attended Victoria's introductory lecture in the Classroom 1 are allowed into the potions class."
-    new ""
+    new "据Sabrina说，只有在1号教室上过Victoria的入门课的学生才可以上魔药课。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "visit another class"
-    new ""
+    new "访问另一个类"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "more lessons"
-    new ""
+    new "更多的课程"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "next lesson"
-    new ""
+    new "下节课"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "practice lessons"
-    new ""
+    new "实践课"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Stoneskin Potion"
-    new ""
+    new "石肤药剂"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Reflection Potion"
-    new ""
+    new "反射药水"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Inspiration Potion"
-    new ""
+    new "灵感药水"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "practice"
-    new ""
+    new "实践"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "I'm sure I can find a few valuable ways to use Inspiration Potion. Likely, I can now craft it with ease. I think I've finished all theory lessons this semester and now there will be only practice in the Classroom 1."
-    new ""
+    new "我相信我能找到一些使用灵感药水的有价值的方法。很可能，我现在可以轻松地制作它。我想我已经完成了这学期所有的理论课，现在只在1号教室进行练习。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Sam told me that masseuse could heal my leg if I visit Spa in Dale. She also seemed distressed because new spells were too hard for her. I think I'll know more if we have this kind of morning chit-chat more often."
-    new ""
+    new "Sam告诉我如果我去Dale的斯帕，按摩师可以治好我的腿。她似乎也因为新咒语对她来说太难而感到苦恼。我想如果我们能经常在早上聊天，我会知道更多。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Samantha thinks she's losing her magical powers forever and will get expelled. She expects me to talk to Jacob about her problem. Jacob usually spends his evenings at the Entrance of Academy."
-    new ""
+    new "Samantha认为她将永远失去她的魔法能力，并将被开除。她希望我和Jacob谈谈她的问题。Jacob通常在学院入口处度过他的夜晚。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "I've talked to Jacob. He told me that Samantha needs a special compress, which I have to get from Victoria in the Classroom 1."
-    new ""
+    new "我和Jacob谈过了。他告诉我Samantha需要特别的敷布，我必须从1号教室的Victoria那里得到。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Samantha is waiting for my help, I have to give her the compress in the Living room in the morning."
-    new ""
+    new "Samantha在等我的帮助，我不得不在客厅里给她敷布。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "I've solved Samantha's problem for now, but I need to find the source of those wounds before it's too late for her. She will meet me in the Living room in the evening to tell more about possible reasons."
-    new ""
+    new "我暂时解决了Samantha的问题，但我得找到那些伤口的来源，否则对她来说就太晚了。她会在晚上和我在客厅见面，告诉我更多可能的原因。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "some time"
-    new ""
+    new "一些时间"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Samantha and I had an awkward meeting in the Bathroom. Is it me, or was she flirting with me? I'd be happy to meet her alone later to try to understand how she feels about me. Maybe she'll be in the Living room in the afternoon?"
-    new ""
+    new "Samantha和我在洗手间尴尬地见面了。是我，还是她在跟我调情?我很乐意待会儿单独见她，试着了解她对我的感觉。也许下午她会在客厅？"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "wake up"
-    new ""
+    new "醒来"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Samantha was going to a third-year party and asked me to help her pick out an outfit. I hadn't noticed how hot she was before... Now she's gone to the party and probably won't be back until nightfall. I guess I'll wake up if I hear the noise at night."
-    new ""
+    new "Samantha要去参加三年级的派对，她让我帮她挑衣服。我以前没注意到她这么性感。现在她去参加派对了，可能要到傍晚才回来。我想如果晚上听到噪音我会醒过来的。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Samantha came back from the party drunk and started hitting on me. It looks like she may want to be more than friends with me. I should talk to her in the Living room in the morning when she's sober."
-    new ""
+    new "Samantha醉醺醺地从派对回来，开始勾引我。看来她不只是想和我做朋友。明早她清醒的时候我应该去客厅跟她谈谈。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Samantha and I went to a Cafe, and she shared that her dream is to find her biological father, whom Olivia didn't tell her anything about. I should talk to her once again. Maybe she'll be free in the morning, before clasess. I can probably find her in our Living room."
-    new ""
+    new "Samantha和我去了一家咖啡馆，她说她的梦想是找到她的生父，Olivia没跟她提过这个人。我应该再和她谈谈。也许她早上上课前有空。我也许能在客厅找到她。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "She'll contact me"
-    new ""
+    new "她会联系我"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Samantha signed for the tourney of wizards and one of her rivals made a lasting impression on me. I think I need to give Samantha some space to deal with her emotions. She'll contact me soon, I feel it."
-    new ""
+    new "Samantha报名参加了巫师大赛，她的一个对手给我留下了深刻的印象。我觉得我需要给Samantha一些空间来处理她的情绪。她很快就会联系我的，我感觉到了。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Samantha had a bizarre nightmare about Dakota killing me. Does this mean she cares about me that much? If I want her to be happy, I need to protect her dream and help her to win the tourney of wizards."
-    new ""
+    new "Samantha做了个奇怪的噩梦，梦到达科塔杀了我。这意味着她很在乎我吗？如果我想让她幸福，我需要保护她的梦想，帮助她赢得巫师锦标赛。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "buy"
-    new ""
+    new "买"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "drink"
-    new ""
+    new "喝"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "bar more"
-    new ""
+    new "酒吧更"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Bar"
-    new ""
+    new "酒吧"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "textbooks"
-    new ""
+    new "教科书"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "more often"
-    new ""
+    new "更经常"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "sleep"
-    new ""
+    new "睡眠"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "This time we talked about different sources of power. I could not tell the truth about Leona's night visit, so I had to lie about my source. I need to attend more lessons if I want to learn more."
-    new ""
+    new "这次我们讨论了不同的能量来源。我无法说出Leona那晚来访的真相，所以我不得不在消息来源上撒谎。如果我想学习更多，我需要参加更多的课程。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "new theory"
-    new ""
+    new "新理论"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "practical"
-    new ""
+    new "实用"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "more theory"
-    new ""
+    new "更多的理论"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Rictusempra is now available in duels and practical classes. I should stop by after school in the evening and ask her for more classes to get closer."
-    new ""
+    new "Rictusempra是现在可以在决斗和实践课程中使用。我应该在晚上放学后去找她，让她多上几节课。"
 
     # game/logic/main_interface/quest_log_db.rpy:2148
     old "Stop by the local Cafe to check out the place where you arranged to meet Elijah."
-    new ""
+    new "在当地的咖啡馆停下来，看看你安排与Elijah见面的地方。"
 
     # game/logic/main_interface/quest_log_db.rpy:2148
     old "Help your House score points in the competition to spend the weekend at Dale."
-    new ""
+    new "帮助你的马在比赛中得分，在Dale度过周末。"
 
     # game/logic/main_interface/quest_log_db.rpy:2148
     old "Learn the Incendio spell by continuing to attend Victoria's classes."
-    new ""
+    new "继续参加Victoria的课程学习火焰咒。"
 
     # game/logic/main_interface/quest_log_db.rpy:2148
     old "Learn the Reflection Potion recipe by continuing to attend Sabrina's classes."
-    new ""
+    new "通过继续参加Sabrina的课程来学习反射药水的配方。"
 
     # game/logic/main_interface/quest_log_db.rpy:2148
     old "Wait until Leona finds out how to help with your nightmares."
-    new ""
+    new "等着Leona发现如何帮你摆脱噩梦吧。"
 
     # game/logic/main_interface/quest_log_db.rpy:2148
     old "Wait until tuesday and summon Leona by using the Sorting foliant in the Main Hall."
-    new ""
+    new "等到星期二，在大厅里用分选叶剂召唤Leona。"
 
     # game/logic/main_interface/quest_log_db.rpy:2148
     old "Wait one week until Leona comes back with the Lion's Seal you need for Jacob."
-    new ""
+    new "等一个星期，直到Leona带着你要给Jacob的狮印回来。"
 
     # game/logic/main_interface/quest_log_db.rpy:2148
     old "Help Jacob to stop Arthur from his evil plans."
-    new ""
+    new "帮助Jacob阻止Arthur的邪恶计划。"
 
     # game/logic/main_interface/quest_log_db.rpy:2148
     old "Use the Character Info menu to complete all of the routes available in the current release,"
-    new ""
+    new "使用角色信息菜单来完成当前版本中所有可用的路线，"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "Lily spends about 2 hours a day to edit photos and maintain her blog in Lustagram."
-    new ""
+    new "Lily每天花2个小时来编辑照片和维护她在Lustagram的博客。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "You can click on doors or use the location windows on the bottom bar to move between locations."
-    new ""
+    new "你可以点击门或使用底部栏上的位置窗口在位置之间移动。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "If your house scores more points than the others during the week, you'll get a scholarship and can go on a weekend trip."
-    new ""
+    new "如果你的房子在一周内得分比其他房子高，你就能获得奖学金，可以去度周末旅行。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "If you're stuck and don't know what to do next, check out the Character Info for tips."
-    new ""
+    new "如果你卡住了，不知道下一步该做什么，看看角色信息的提示。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "There are lost books scattered all over the Academy. If you take them to Amelie in the library, she'll reward you with house points."
-    new ""
+    new "学院里到处都是丢失的书。如果你带它们去图书馆找Amelie，她会给你加分的。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "You can earn money by helping Molly with her cafe job at the Academy or by fishing for Gordon in Dale."
-    new ""
+    new "你可以通过帮助Molly在学院的咖啡馆工作或者在Dale帮Gordon钓鱼来赚钱。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "Practicing magic and potions earns you a lot of points at home."
-    new ""
+    new "在家里练习魔法和魔药可以为你赢得很多分数。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "The best way to beat another house in points is to defeat its representative in a duel."
-    new ""
+    new "在点数上击败另一家的最好方法是在决斗中击败它的代表。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "Potions prepared in practice classes can be used in duels."
-    new ""
+    new "在练习课上准备的药剂可以在决斗中使用。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "Attending Victoria's classes, you can learn new combat spells."
-    new ""
+    new "参加Victoria的课程，你可以学习新的战斗法术。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "Use the eye icon on the bottom right panel to highlight active objects in locations."
-    new ""
+    new "使用右下角面板上的眼睛图标突出显示活动对象的位置。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "The calendar shows all available routes and activities during the day and allows you to move immediately to the desired location."
-    new ""
+    new "日历显示了一天中所有可用的路线和活动，并允许您立即移动到所需的位置。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "School points can be earned for attending classes, working in the cafe, and winning in the Duel Club."
-    new ""
+    new "参加课程、在咖啡馆工作和在决斗俱乐部中获胜都可以获得学校积分。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "To level up your opponents in the Duel Club, defeat each school in the manual mode of the previous level."
-    new ""
+    new "要想在决斗俱乐部中升级你的对手，在前一关的手动模式中击败每个学校。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "Night Visits are extra content and do not affect relationships with girls."
-    new ""
+    new "夜访是额外的内容，不会影响与女孩的关系。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "You can revisit scenes you've already passed in the Gallery on the main menu."
-    new ""
+    new "你可以在主菜单的画廊中重新查看已经经过的场景。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "By clicking on one of the pictures in your room, you can start a Christmas special episode."
-    new ""
+    new "点击房间里的一张图片，你就可以开始圣诞特辑了。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "Money can be spent in Dale going for a massage or by booking a VIP room in the club."
-    new ""
+    new "在戴尔，你可以花钱去做个按摩，或者在俱乐部订个VIP房间。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "If you have LGBTQ+ option enabled, you can change the gender of tranny characters at any time in the Character Info tab."
-    new ""
+    new "如果你启用了LGBTQ+选项，你可以随时在字符信息选项卡中改变变性字符的性别。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "Every day you can find up to four lost books. Three of them are in the Academy, and one is on campus."
-    new ""
+    new "每天你最多可以找到四本丢失的书。其中三个在学院，一个在校园里。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "To get the maximum rewards for the minigames, you have to go through them manually, but it's unnecessary."
-    new ""
+    new "为了获得迷你游戏的最大奖励，你必须手动完成这些任务，但这是不必要的。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "You can peek at Molly in the Café in the mornings and it won't affect your relationship with the girls."
-    new ""
+    new "你可以早上在咖啡店上看Molly，这不会影响你和女孩们的关系。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "Meeting female students from the academy in Dale is extra content that doesn't affect relationships."
-    new ""
+    new "与Dale学院的女学生见面是额外的内容，不会影响关系。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "You can brew your own potions by clicking on the cauldron in potions class, even when not attending lessons."
-    new ""
+    new "你可以在魔药课上通过点击坩埚来酿造自己的魔药，即使你没有上课。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "Samantha would sell her soul for the rice pudding."
-    new ""
+    new "Samantha愿意为了米布丁出卖灵魂。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "“La La Land” is Samantha’s favorite movie of all time which she can watch over and over again."
-    new ""
+    new "“La La Land”是Samantha一直以来最喜欢的电影，她可以一遍又一遍地看。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "Haley often scribbles something in her diary, it's pages are filled with her innermost thoughts and emotional experience."
-    new ""
+    new "Haley经常在日记里涂鸦，日记里写满了她内心深处的想法和情感体验。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "If Audrey had to make a choice between life without her tattoos and life without sweets, she would probably choose the second option."
-    new ""
+    new "如果Audrey必须在没有纹身和没有糖果的生活之间做出选择，她可能会选择第二种。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "It only takes one touch of Haley’s nose tip to get a bright smile out of her."
-    new ""
+    new "只要轻轻碰一下Haley的鼻尖，她就会露出灿烂的笑容。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "Since childhood, Lily wanted to be a professional runner. A lot of things have changed since then, but love for running hasn’t."
-    new ""
+    new "从小，Lily就想成为一名职业跑步运动员。从那以后，很多事情都变了，但对跑步的热爱却没有变。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "Victoria graduated from Leonheart many years ago, but she just couldn't leave Cordale and decided to take a teaching position here."
-    new ""
+    new "Victoria多年前从Leonheart大学毕业，但她无法离开Cordale，决定在这里教书。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "Led Zeppelin is definitely Audrey’s favorite musical band - nothing even comes close."
-    new ""
+    new "齐柏林飞艇无疑是Audrey最喜欢的音乐乐队——没有任何乐队能与之媲美。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "Haley likes listening to classical music or lo-fi when she’s studying - it helps her to concentrate better."
-    new ""
+    new "Haley在学习时喜欢听古典音乐或低保真音乐，这有助于她更好地集中注意力。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "Samantha smells like milk with cardamom - the smell of childhood, peace and happiness."
-    new ""
+    new "Samantha闻起来像牛奶加豆蔻--童年、和平和幸福的味道。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "Lily really loves flowers - just thel of lilacs can drive her crazy."
-    new ""
+    new "Lily真的很喜欢花，紫丁香就能让她发疯。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "Haley likes romantic poetry - she is often seen with little Lord Byron’s poem book in her hands."
-    new ""
+    new "Haley喜欢浪漫主义诗歌，经常能看到她手里拿着小Lord Byron的诗集。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "Samantha is a wonderful dancer - many students of Cordale dream to dance the waltz with her."
-    new ""
+    new "Samantha是一位出色的舞者，Cordale的许多学生都梦想能和她一起跳华尔兹。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "For Haley spring rain smells like cinnamon, jasmine and rose, all together."
-    new ""
+    new "因为Haley的春雨散发着肉桂、茉莉花和玫瑰的味道。"
 
     # game/logic/main_interface/quest_log_db.rpy:2389
     old "Everybody here in the Academy knows that Amelie once had a love affair with senior students."
-    new ""
+    new "学院里的每个人都知道Amelie曾经和高年级学生有过一段恋情。"
 
