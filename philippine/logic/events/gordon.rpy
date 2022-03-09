@@ -1480,7 +1480,7 @@ translate philippine Willow_1_label_61e8d581:
 translate philippine Willow_1_label_ebd1adf6:
 
     # Willow "Then you should ask me out on a date to Ahchi's cafe sometime."
-    Willow "Kung ganoon, dapat mo akong yayain na magtagpuan sa kapehan ni Ahchi."
+    Willow "Kung ganoon, dapat mo akong yayain na magtipanan sa kapehan ni Ahchi."
 
 # game/logic/events/gordon.rpy:465
 translate philippine Willow_1_label_9020ac8a:
@@ -1522,7 +1522,7 @@ translate philippine Willow_1_label_0865ced5:
 translate philippine Willow_1_label_a82a2cd0:
 
     # ch_Name "{i}(Let's see where she was asking for a date.){/i}"
-    ch_Name "{i}(Tingnan natin kung saan siya humihingi ng tagpuan.){/i}"
+    ch_Name "{i}(Tingnan natin kung saan siya humihingi ng tipanan.){/i}"
 
 # game/logic/events/gordon.rpy:478
 translate philippine Willow_1_label_3d1d44f2:
