@@ -384,275 +384,275 @@ translate chinese strings:
 translate chinese Boat_2_3_4b7c57d4:
 
     # ch_Name "{i}(I spent the rest of the trip telling Haley about Willow's photoshoot.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我花了剩下的时间告诉Haley关于Willow的照片拍摄。）{/i}"
 
 # game/logic/story/logic.rpy:1324
 translate chinese Boat_2_4_007073d1:
 
     # Audrey "Imagine living in a town like this."
-    Audrey ""
+    Audrey "想象一下住在这样的小镇里。"
 
 # game/logic/story/logic.rpy:1325
 translate chinese Boat_2_4_95818568:
 
     # Samantha "I don't know. It has it's charms, but something is missing..."
-    Samantha ""
+    Samantha "我不知道。它有它的魅力，但缺少了什么。。。"
 
 # game/logic/story/logic.rpy:1326
 translate chinese Boat_2_4_2575b1a3:
 
     # ch_Name "You probably wish it had more clubs."
-    ch_Name ""
+    ch_Name "你可能希望它有更多的梅花。"
 
 # game/logic/story/logic.rpy:1327
 translate chinese Boat_2_4_80b2a1d3:
 
     # Samantha "Well, at least one without strippers would be nice, yeah."
-    Samantha ""
+    Samantha "至少有一个没有脱衣舞娘的地方会很好。"
 
 # game/logic/story/logic.rpy:1334
 translate chinese Boat_2_4_5f08a21d:
 
     # ch_Name "Where did Audrey go?"
-    ch_Name ""
+    ch_Name "Audrey去哪儿了？"
 
 # game/logic/story/logic.rpy:1335
 translate chinese Boat_2_4_baa077f2:
 
     # Samantha "She doesn't handle ferry's very well."
-    Samantha ""
+    Samantha "她不太会摆渡。"
 
 # game/logic/story/logic.rpy:1336
 translate chinese Boat_2_4_6daff9c9:
 
     # Samantha "I think she'll take her nausea potion and come be back."
-    Samantha ""
+    Samantha "我想她吃了恶心药就会回来的。"
 
 # game/logic/story/logic.rpy:1337
 translate chinese Boat_2_4_da677df5:
 
     # ch_Name "I see."
-    ch_Name ""
+    ch_Name "我明白了。"
 
 # game/logic/story/logic.rpy:1339
 translate chinese Boat_2_4_a56e90b9:
 
     # Audrey "I take it back, I wouldn't want to go through that every day."
-    Audrey ""
+    Audrey "我收回我说过的话，我可不想每天都经历这种事。"
 
 # game/logic/story/logic.rpy:1340
 translate chinese Boat_2_4_248600d2:
 
     # Samantha "Didn't the nausea potion work?"
-    Samantha ""
+    Samantha "恶心药水没起作用吗？"
 
 # game/logic/story/logic.rpy:1341
 translate chinese Boat_2_4_c89e8e57:
 
     # Audrey "It did for seasickness, but the taste of the potion makes me just as queasy..."
-    Audrey ""
+    Audrey "它是治晕船的，但药水的味道也让我想吐。。。"
 
 # game/logic/story/logic.rpy:1348
 translate chinese Boat_2_4_7f6318e7:
 
     # Jacob "Welcome back!"
-    Jacob ""
+    Jacob "欢迎回来！"
 
 # game/logic/story/logic.rpy:1349
 translate chinese Boat_2_4_37b62455:
 
     # Jacob "The ferry arrived almost on time this time. I'm proud of you."
-    Jacob ""
+    Jacob "这次渡船几乎准时到达。我为你骄傲。"
 
 # game/logic/story/logic.rpy:1351
 translate chinese Boat_2_4_7515940f:
 
     # Jacob "Now hurry up and go to bed."
-    Jacob ""
+    Jacob "现在快去睡觉吧。"
 
 # game/logic/story/logic.rpy:1352
 translate chinese Boat_2_4_b33f353d:
 
     # Jacob "To get your strength up before the school week begins."
-    Jacob ""
+    Jacob "让你在开学前恢复体力。"
 
 # game/logic/story/logic.rpy:1386
 translate chinese InStory_3_abf157bf:
 
     # ch_Name "{i}(The rest of the week passed rather boringly.){/i}"
-    ch_Name ""
+    ch_Name "{i}（这个星期剩下的日子过得相当无聊。）{/i}"
 
 # game/logic/story/logic.rpy:1387
 translate chinese InStory_3_ae2fc4ca:
 
     # ch_Name "{i}(It was the same as usual...){/i}"
-    ch_Name ""
+    ch_Name "{i}（和往常一样。。。）{/i}"
 
 # game/logic/story/logic.rpy:1394
 translate chinese InStory_3_a5c77519:
 
     # ch_Name "{i}(As usual, Joshi was getting into trouble in class.){/i}"
-    ch_Name ""
+    ch_Name "{i}（像往常一样，Joshi在课堂上惹麻烦了。）{/i}"
 
 # game/logic/story/logic.rpy:1395
 translate chinese InStory_3_35d34ab4:
 
     # ch_Name "{i}(Until Victoria made him assist her.){/i}"
-    ch_Name ""
+    ch_Name "{i}（直到Victoria让他帮她）{/i}"
 
 # game/logic/story/logic.rpy:1397
 translate chinese InStory_3_0c81f79b:
 
     # ch_Name "{i}(Joshi assures us that she makes the spells a little more painful on purpose...){/i}"
-    ch_Name ""
+    ch_Name "{i}（Joshi向我们保证她是故意让咒语更痛苦的。。。）{/i}"
 
 # game/logic/story/logic.rpy:1398
 translate chinese InStory_3_8ec2a876:
 
     # ch_Name "{i}(To punish him for chatting all the time.){/i}"
-    ch_Name ""
+    ch_Name "{i}（为了惩罚他整天聊天。）{/i}"
 
 # game/logic/story/logic.rpy:1399
 translate chinese InStory_3_5c11fdfe:
 
     # ch_Name "{i}(Somehow I believe that.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我相信这一点。）{/i}"
 
 # game/logic/story/logic.rpy:1406
 translate chinese InStory_3_d05744ad:
 
     # ch_Name "{i}(Haley volunteered to prepare some kind of report for Victoria.){/i}"
-    ch_Name ""
+    ch_Name "{i}（Haley自愿为Victoria准备了一份报告。）{/i}"
 
 # game/logic/story/logic.rpy:1407
 translate chinese InStory_3_3a733e82:
 
     # ch_Name "{i}(So she didn't get a chance to spend time with me.){/i}"
-    ch_Name ""
+    ch_Name "{i}（所以她没有机会和我在一起。）{/i}"
 
 # game/logic/story/logic.rpy:1408
 translate chinese InStory_3_7a2b9f8f:
 
     # ch_Name "{i}(It's hard with girls for whom studying always comes first.){/i}"
-    ch_Name ""
+    ch_Name "{i}（对那些总是把学习放在第一位的女孩来说，这很难。）{/i}"
 
 # game/logic/story/logic.rpy:1415
 translate chinese InStory_3_b1e6c876:
 
     # ch_Name "{i}(Naomi had another fight with Sabrina over discipline.){/i}"
-    ch_Name ""
+    ch_Name "{i}（Naomi又因为纪律问题和Sabrina吵架了。）{/i}"
 
 # game/logic/story/logic.rpy:1416
 translate chinese InStory_3_3e7ee529:
 
     # ch_Name "{i}(It never ceases to amaze me how stubborn she is.){/i}"
-    ch_Name ""
+    ch_Name "{i}（她的固执总是让我感到惊讶。）{/i}"
 
 # game/logic/story/logic.rpy:1417
 translate chinese InStory_3_d2bac274:
 
     # ch_Name "{i}(I'm surprised Sabrina hasn't complained about her to the principal yet.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我很惊讶Sabrina还没向校长投诉她。）{/i}"
 
 # game/logic/story/logic.rpy:1424
 translate chinese InStory_3_0ce11923:
 
     # ch_Name "{i}(And Lily and I helped Sabrina gather ingredients for potions again.){/i}"
-    ch_Name ""
+    ch_Name "{i}（Lily和我又帮Sabrina收集魔药的原料了。）{/i}"
 
 # game/logic/story/logic.rpy:1425
 translate chinese InStory_3_60b5a92d:
 
     # ch_Name "{i}(Enjoyed the views of the wildlife.){/i}"
-    ch_Name ""
+    ch_Name "{i}（欣赏野生动物的景色。）{/i}"
 
 # game/logic/story/logic.rpy:1427
 translate chinese InStory_3_c8869023:
 
     # ch_Name "{i}(No one got lost this time.){/i}"
-    ch_Name ""
+    ch_Name "{i}（这次没有人迷路。）{/i}"
 
 # game/logic/story/logic.rpy:1428
 translate chinese InStory_3_8f3cb0e5:
 
     # ch_Name "{i}(Sabrina didn't take a step away from us, just in case.){/i}"
-    ch_Name ""
+    ch_Name "{i}（Sabrina没有离开我们一步，只是以防万一。）{/i}"
 
 # game/logic/story/logic.rpy:1435
 translate chinese InStory_3_a4963a7b:
 
     # ch_Name "{i}(No one ever found out about my heroic deed of saving the academy.){/i}"
-    ch_Name ""
+    ch_Name "{i}（没人知道我拯救学院的英雄事迹。）{/i}"
 
 # game/logic/story/logic.rpy:1436
 translate chinese InStory_3_e2afec16:
 
     # ch_Name "{i}(But the principal generously rewarded Leonheart with points and victory was in our pocket.){/i}"
-    ch_Name ""
+    ch_Name "{i}（但校长慷慨地给了Leoheart分数，胜利就在我们的口袋里了。）{/i}"
 
 # game/logic/story/logic.rpy:1437
 translate chinese InStory_3_30b9f0a2:
 
     # ch_Name "{i}(So now I have a great weekend ahead of me in Dale.){/i}"
-    ch_Name ""
+    ch_Name "{i}（现在我要在Dale过一个愉快的周末了。）{/i}"
 
 # game/logic/story/logic.rpy:1439
 translate chinese InStory_3_72d09876:
 
     # ch_Name "{i}(The ship is about to depart!){/i}"
-    ch_Name ""
+    ch_Name "{i}（船就要开了！）{/i}"
 
 # game/logic/story/logic.rpy:1440
 translate chinese InStory_3_d186447e:
 
     # ch_Name "{i}(I can't wait.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我等不及了。）{/i}"
 
 # game/logic/story/logic.rpy:1447
 translate chinese InStory_3_23a67b64:
 
     # ch_Name "{i}(Here I am!){/i}"
-    ch_Name ""
+    ch_Name "{i}（我在这里！）{/i}"
 
 # game/logic/story/logic.rpy:1448
 translate chinese InStory_3_26f82cba:
 
     # ch_Name "{i}(It feels good to get a full breath of freedom.){/i}"
-    ch_Name ""
+    ch_Name "{i}（完全呼吸自由的感觉真好。）{/i}"
 
 # game/logic/story/logic.rpy:1450
 translate chinese InStory_3_48841934:
 
     # ch_Name "{i}(There's so much to do!){/i}"
-    ch_Name ""
+    ch_Name "{i}（有很多事情要做！）{/i}"
 
 # game/logic/story/logic.rpy:1451
 translate chinese InStory_3_6437be82:
 
     # ch_Name "{i}(But the first thing I'll do is check into a room at the Dale-ly.){/i}"
-    ch_Name ""
+    ch_Name "{i}（但我要做的第一件事就是在Dale-ly酒店登记入住。）{/i}"
 
 # game/logic/story/logic.rpy:1452
 translate chinese InStory_3_e7dfb5fc:
 
     # ch_Name "{i}(So tired of my old room.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我厌倦了我的旧房间。）{/i}"
 
 # game/logic/story/logic.rpy:1460
 translate chinese InStory_3_5740228c:
 
     # ch_Name "{i}(Maybe they have a better one available.){/i}"
-    ch_Name ""
+    ch_Name "{i}（也许他们有更好的。）{/i}"
 
 # game/logic/story/logic.rpy:1461
 translate chinese InStory_3_25076e48:
 
     # ch_Name "{i}(I should check with Mina before I check in.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我应该在报到前和Mina确认一下。）{/i}"
 
 # game/logic/story/logic.rpy:1462
 translate chinese InStory_3_9b81a6e8:
 
     # ch_Name "Hi! I have a favor to ask..."
-    ch_Name ""
+    ch_Name "你好！我想请你帮个忙。。。"
 
