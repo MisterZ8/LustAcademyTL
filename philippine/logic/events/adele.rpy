@@ -7900,7 +7900,7 @@ translate philippine adele_4_label_b786b006:
 translate philippine adele_4_label_105280ce:
 
     # Adele "{i}(A second date? It's been a while since I've gotten this far with someone.){/i}"
-    Adele "{i}(Ikalawang date? Ang tagal ko nang 'di nakaabot sa ikalawang pagkakataon.){/i}"
+    Adele "{i}(Ikalawang tipanan? Ang tagal ko nang 'di nakaabot sa ikalawang pagkakataon.){/i}"
 
 # game/logic/events/adele.rpy:2392
 translate philippine adele_4_label_08384f43:
