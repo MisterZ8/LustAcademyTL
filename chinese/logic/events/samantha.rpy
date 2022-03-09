@@ -5728,1891 +5728,1891 @@ translate chinese strings:
 translate chinese Samantha_1_label_b55c238c:
 
     # ch_Name "It's not as bad as it seems."
-    ch_Name ""
+    ch_Name "事情并不像看上去的那么糟。"
 
 # game/logic/events/samantha.rpy:256
 translate chinese Samantha_1_label_ba54441b:
 
     # ch_Name "Do you know anything about the massage parlor in the Dale?"
-    ch_Name ""
+    ch_Name "你知道Dale的按摩院吗？"
 
 # game/logic/events/samantha.rpy:258
 translate chinese Samantha_1_label_43a2c4ce:
 
     # Samantha "Of course I know, kiddo."
-    Samantha ""
+    Samantha "我当然知道，孩子。"
 
 # game/logic/events/samantha.rpy:259
 translate chinese Samantha_1_label_fec3bc87:
 
     # Samantha "I'm one of their regulars."
-    Samantha ""
+    Samantha "我是他们的常客。"
 
 # game/logic/events/samantha.rpy:261
 translate chinese Samantha_1_label_62c8b868:
 
     # ch_Name "It's real magic!"
-    ch_Name ""
+    ch_Name "这是真正的魔法！"
 
 # game/logic/events/samantha.rpy:262
 translate chinese Samantha_1_label_18977e50:
 
     # ch_Name "I got a massage there and it was incredible! Their masseuses can do wonders!"
-    ch_Name ""
+    ch_Name "我在那里做了按摩，感觉棒极了！他们的按摩师能创造奇迹！"
 
 # game/logic/events/samantha.rpy:263
 translate chinese Samantha_1_label_7f5ecfc8:
 
     # ch_Name "The leg doesn't seem to hurt as much as it was before."
-    ch_Name ""
+    ch_Name "这条腿似乎不像以前那么疼了。"
 
 # game/logic/events/samantha.rpy:265
 translate chinese Samantha_1_label_6bbd257c:
 
     # Samantha "For some reason I thought that you spent all your weekend in Lady Luck..."
-    Samantha ""
+    Samantha "不知什么原因，我以为你整个周末都在幸运女神。。。"
 
 # game/logic/events/samantha.rpy:266
 translate chinese Samantha_1_label_a5aa40f7:
 
     # Samantha "...but I was obviously mistaken."
-    Samantha ""
+    Samantha "。。。但我显然弄错了。"
 
 # game/logic/events/samantha.rpy:267
 translate chinese Samantha_1_label_f7ab615f:
 
     # ch_Name "No, of course not! How could you even think that?"
-    ch_Name ""
+    ch_Name "不，当然不是！你怎么能这么想？"
 
 # game/logic/events/samantha.rpy:269
 translate chinese Samantha_1_label_285f0424:
 
     # Samantha "Don't worry, I'm only kidding."
-    Samantha ""
+    Samantha "别担心，我只是开个玩笑。"
 
 # game/logic/events/samantha.rpy:270
 translate chinese Samantha_1_label_accbf8ac:
 
     # Samantha "Actually, I think that full recovery of your leg would take about 6 months."
-    Samantha ""
+    Samantha "事实上，我认为你的腿完全恢复需要6个月。"
 
 # game/logic/events/samantha.rpy:280
 translate chinese Samantha_1_label_c5f217b6:
 
     # Samantha "Wistley's Spa has a great masseuse."
-    Samantha ""
+    Samantha "威斯利水疗中心有个很棒的按摩师。"
 
 # game/logic/events/samantha.rpy:287
 translate chinese Samantha_1_label_875f6a1a:
 
     # Samantha "It's magical world, baby."
-    Samantha ""
+    Samantha "这是个神奇的世界，宝贝。"
 
 # game/logic/events/samantha.rpy:289
 translate chinese Samantha_1_label_61ec576a:
 
     # Samantha "But at Wistley's they practice curing magical massage."
-    Samantha ""
+    Samantha "但在Wistley，他们练习魔法按摩。"
 
 # game/logic/events/samantha.rpy:290
 translate chinese Samantha_1_label_acf76777:
 
     # Samantha "The results are amazing!"
-    Samantha ""
+    Samantha "结果是惊人的！"
 
 # game/logic/events/samantha.rpy:1119
 translate chinese Samantha_8_label_e8138e72:
 
     # ch_Name "{i}(One more day of this life.){/i}"
-    ch_Name ""
+    ch_Name "{i}（生命中的最后一天。）{/i}"
 
 # game/logic/events/samantha.rpy:1390
 translate chinese Samantha_9_label_21cd7c20:
 
     # ch_Name "{i}(And how on earth did she get invited to the third-year students party?){/i}"
-    ch_Name ""
+    ch_Name "{i}（她究竟是怎么被邀请参加三年级学生的派对的？）{/i}"
 
 # game/logic/events/samantha.rpy:1746
 translate chinese Samantha_12_label_808c6128:
 
     # ch_Name "Hello!"
-    ch_Name ""
+    ch_Name "你好！"
 
 # game/logic/events/samantha.rpy:1747
 translate chinese Samantha_12_label_4f87e7cb:
 
     # Samantha "Good morning, [Name]!"
-    Samantha ""
+    Samantha "早上好，[Name]！"
 
 # game/logic/events/samantha.rpy:1748
 translate chinese Samantha_12_label_bead6911:
 
     # ch_Name "What are you doing?"
-    ch_Name ""
+    ch_Name "你在干什么？"
 
 # game/logic/events/samantha.rpy:1750
 translate chinese Samantha_12_label_141e90b4:
 
     # Samantha "I'm dreaming of getting some more sleep, he-he."
-    Samantha ""
+    Samantha "我还想再睡会儿呢，他他。"
 
 # game/logic/events/samantha.rpy:1751
 translate chinese Samantha_12_label_ad92b40e:
 
     # Samantha "I barely slept last night."
-    Samantha ""
+    Samantha "我昨晚几乎没睡。"
 
 # game/logic/events/samantha.rpy:1752
 translate chinese Samantha_12_label_53817b1a:
 
     # ch_Name "You need to have more rest, Sam."
-    ch_Name ""
+    ch_Name "你需要多休息，Sam。"
 
 # game/logic/events/samantha.rpy:1753
 translate chinese Samantha_12_label_fed7f3ff:
 
     # ch_Name "Such a regime of life is unhealthy."
-    ch_Name ""
+    ch_Name "这样的生活方式是不健康的。"
 
 # game/logic/events/samantha.rpy:1755
 translate chinese Samantha_12_label_96cf314b:
 
     # Samantha "That's the least of my worries right now."
-    Samantha ""
+    Samantha "我现在最不担心的就是这个。"
 
 # game/logic/events/samantha.rpy:1756
 translate chinese Samantha_12_label_47980406:
 
     # ch_Name "There is no excuse for not caring for yourself."
-    ch_Name ""
+    ch_Name "没有理由不关心自己。"
 
 # game/logic/events/samantha.rpy:1757
 translate chinese Samantha_12_label_defe5f79:
 
     # Samantha "Ohh..."
-    Samantha ""
+    Samantha "哦。。。"
 
 # game/logic/events/samantha.rpy:1758
 translate chinese Samantha_12_label_b7c83091:
 
     # ch_Name "Okay, put a smile on your face and start to act as if you're happy."
-    ch_Name ""
+    ch_Name "好吧，面带微笑，表现出你很开心的样子。"
 
 # game/logic/events/samantha.rpy:1760
 translate chinese Samantha_12_label_1d537a56:
 
     # ch_Name "Maybe you'll start to feel how you act."
-    ch_Name ""
+    ch_Name "也许你会开始感觉到你的行为。"
 
 # game/logic/events/samantha.rpy:1761
 translate chinese Samantha_12_label_c0520dc4:
 
     # Samantha "It doesn't work that way."
-    Samantha ""
+    Samantha "但事实并非如此。"
 
 # game/logic/events/samantha.rpy:1763
 translate chinese Samantha_12_label_4f2d4e41:
 
     # ch_Name "Just try."
-    ch_Name ""
+    ch_Name "只是试一试。"
 
 # game/logic/events/samantha.rpy:1764
 translate chinese Samantha_12_label_2c098683:
 
     # ch_Name "Great!"
-    ch_Name ""
+    ch_Name "太棒了！"
 
 # game/logic/events/samantha.rpy:1765
 translate chinese Samantha_12_label_5b10c9ca:
 
     # ch_Name "Keep smiling, Sam."
-    ch_Name ""
+    ch_Name "保持微笑，Sam。"
 
 # game/logic/events/samantha.rpy:1767
 translate chinese Samantha_12_label_38d68cef:
 
     # ch_Name "You look very nice with a smile."
-    ch_Name ""
+    ch_Name "你笑起来很好看。"
 
 # game/logic/events/samantha.rpy:1768
 translate chinese Samantha_12_label_548e850c:
 
     # Samantha "Thank you, monsieur."
-    Samantha ""
+    Samantha "谢谢你，先生。"
 
 # game/logic/events/samantha.rpy:1769
 translate chinese Samantha_12_label_c2796fcb:
 
     # ch_Name "By the way, do you have any classes now?"
-    ch_Name ""
+    ch_Name "顺便问一下，你们现在有课吗？"
 
 # game/logic/events/samantha.rpy:1771
 translate chinese Samantha_12_label_4fdcfd04:
 
     # Samantha "I have a class in 20 minutes."
-    Samantha ""
+    Samantha "我20分钟后有一节课。"
 
 # game/logic/events/samantha.rpy:1772
 translate chinese Samantha_12_label_74dfa7d8:
 
     # Samantha "I've just wanted to go there."
-    Samantha ""
+    Samantha "我只是想去那里。"
 
 # game/logic/events/samantha.rpy:1773
 translate chinese Samantha_12_label_f861c32d:
 
     # ch_Name "We can take a walk together."
-    ch_Name ""
+    ch_Name "我们可以一起散步。"
 
 # game/logic/events/samantha.rpy:1774
 translate chinese Samantha_12_label_c26b6315:
 
     # Samantha "That'd be great!"
-    Samantha ""
+    Samantha "那就好了！"
 
 # game/logic/events/samantha.rpy:1782
 translate chinese Samantha_12_label_3cec2ba1:
 
     # ch_Name "Oh, I almost forgot."
-    ch_Name ""
+    ch_Name "哦，我差点忘了。"
 
 # game/logic/events/samantha.rpy:1783
 translate chinese Samantha_12_label_26583ad7:
 
     # ch_Name "What have you decided to do about The Great Wizards Tournament?"
-    ch_Name ""
+    ch_Name "你决定怎么处理伟大巫师锦标赛？"
 
 # game/logic/events/samantha.rpy:1784
 translate chinese Samantha_12_label_e5bec189:
 
     # Samantha "Yesterday was the last day for applications."
-    Samantha ""
+    Samantha "昨天是申请的最后一天。"
 
 # game/logic/events/samantha.rpy:1785
 translate chinese Samantha_12_label_860ca542:
 
     # ch_Name "Oh, really?"
-    ch_Name ""
+    ch_Name "哦，真的吗？"
 
 # game/logic/events/samantha.rpy:1787
 translate chinese Samantha_12_label_9f0bb977:
 
     # ch_Name "So you... you didn't..."
-    ch_Name ""
+    ch_Name "所以你。。。你没有。。。"
 
 # game/logic/events/samantha.rpy:1788
 translate chinese Samantha_12_label_8e59c4cf:
 
     # ch_Name "Until the very last second, I believed that you'd have the courage to participate!"
-    ch_Name ""
+    ch_Name "直到最后一秒，我还相信你有勇气参与！"
 
 # game/logic/events/samantha.rpy:1789
 translate chinese Samantha_12_label_a69298d2:
 
     # Samantha "And you weren't wrong, dear."
-    Samantha ""
+    Samantha "你说得没错，亲爱的。"
 
 # game/logic/events/samantha.rpy:1790
 translate chinese Samantha_12_label_1c6d1639:
 
     # Samantha "You know me too well."
-    Samantha ""
+    Samantha "你太了解我了。"
 
 # game/logic/events/samantha.rpy:1792
 translate chinese Samantha_12_label_240c3513:
 
     # Samantha "I talked to Victoria and finally decided to apply for this thing at the last moment."
-    Samantha ""
+    Samantha "我和Victoria谈过了，最后一刻才决定申请这个职位。"
 
 # game/logic/events/samantha.rpy:1793
 translate chinese Samantha_12_label_46f0210f:
 
     # ch_Name "You're great!"
-    ch_Name ""
+    ch_Name "你太棒了！"
 
 # game/logic/events/samantha.rpy:1794
 translate chinese Samantha_12_label_bea04523:
 
     # ch_Name "What's the next step?"
-    ch_Name ""
+    ch_Name "下一步是什么？"
 
 # game/logic/events/samantha.rpy:1795
 translate chinese Samantha_12_label_af71fca4:
 
     # Samantha "All applicants need to think of a 10-minute performance..."
-    Samantha ""
+    Samantha "所有的申请者都需要考虑10分钟的表演。。。"
 
 # game/logic/events/samantha.rpy:1796
 translate chinese Samantha_12_label_bf78bd99:
 
     # Samantha "...in which they will show all they're capable of."
-    Samantha ""
+    Samantha "。。。让他们展示自己的能力。"
 
 # game/logic/events/samantha.rpy:1798
 translate chinese Samantha_12_label_4a00e6e1:
 
     # Samantha "Commission will assess them and choose the 4 best of the best magicians."
-    Samantha ""
+    Samantha "委员会将评估他们，并选择4最好的最好的魔术师。"
 
 # game/logic/events/samantha.rpy:1799
 translate chinese Samantha_12_label_aa917f18:
 
     # Samantha "After that, the first challenge will start. "
-    Samantha ""
+    Samantha "之后，第一个挑战将开始。"
 
 # game/logic/events/samantha.rpy:1800
 translate chinese Samantha_12_label_a01a4200:
 
     # ch_Name "Sam, do you understand that you have everything to win, including luck?"
-    ch_Name ""
+    ch_Name "Sam，你知不知道你有一切可以赢，包括运气？"
 
 # game/logic/events/samantha.rpy:1801
 translate chinese Samantha_12_label_61350526:
 
     # ch_Name "Something inside of me just knows that."
-    ch_Name ""
+    ch_Name "我内心深处知道这一点。"
 
 # game/logic/events/samantha.rpy:1803
 translate chinese Samantha_12_label_4ef3ffa1:
 
     # ch_Name "And I believe that somewhere, deep down inside, you know it too."
-    ch_Name ""
+    ch_Name "我相信，在内心深处，你也知道。"
 
 # game/logic/events/samantha.rpy:1804
 translate chinese Samantha_12_label_b00438d0:
 
     # Samantha "Oh, [Name]..."
-    Samantha ""
+    Samantha "哦，[Name]。。。"
 
 # game/logic/events/samantha.rpy:1805
 translate chinese Samantha_12_label_3a1ebad5:
 
     # Samantha "I appreciate it, really, but..."
-    Samantha ""
+    Samantha "我很感激，真的，但是。。。"
 
 # game/logic/events/samantha.rpy:1806
 translate chinese Samantha_12_label_6ab51cab:
 
     # Samantha "You know nothing about other participants and their power."
-    Samantha ""
+    Samantha "你对其他参与者和他们的力量一无所知。"
 
 # game/logic/events/samantha.rpy:1808
 translate chinese Samantha_12_label_b87c3971:
 
     # Samantha "How can you judge?"
-    Samantha ""
+    Samantha "你怎么能判断呢？"
 
 # game/logic/events/samantha.rpy:1809
 translate chinese Samantha_12_label_e7c948cc:
 
     # Samantha "Part of me doesn't want to accept what exactly I sign up for."
-    Samantha ""
+    Samantha "我有点不愿意接受我报名的目的。"
 
 # game/logic/events/samantha.rpy:1810
 translate chinese Samantha_12_label_2f6a72f8:
 
     # Samantha "Come here, look!"
-    Samantha ""
+    Samantha "过来，看！"
 
 # game/logic/events/samantha.rpy:1817
 translate chinese Samantha_12_label_00b5e4d9:
 
     # ch_Name "Wow!"
-    ch_Name ""
+    ch_Name "哇！"
 
 # game/logic/events/samantha.rpy:1818
 translate chinese Samantha_12_label_1ae050eb:
 
     # ch_Name "Who is this girl?"
-    ch_Name ""
+    ch_Name "这个女孩是谁？"
 
 # game/logic/events/samantha.rpy:1819
 translate chinese Samantha_12_label_1b212fcd:
 
     # ch_Name "I've never met her."
-    ch_Name ""
+    ch_Name "我从来没见过她。"
 
 # game/logic/events/samantha.rpy:1821
 translate chinese Samantha_12_label_a987b051:
 
     # Samantha "Dakota Alston from Adderin is one of the participants."
-    Samantha ""
+    Samantha "来自Adderin的达科塔·阿尔斯顿Dakota Alston是参与者之一。"
 
 # game/logic/events/samantha.rpy:1822
 translate chinese Samantha_12_label_5312f612:
 
     # Samantha "What do you think of her at first sight?"
-    Samantha ""
+    Samantha "你对她的第一眼印象如何？"
 
 # game/logic/events/samantha.rpy:1823
 translate chinese Samantha_12_label_2671bfd5:
 
     # ch_Name "It's hard to say."
-    ch_Name ""
+    ch_Name "这很难说。"
 
 # game/logic/events/samantha.rpy:1824
 translate chinese Samantha_12_label_40d651f4:
 
     # ch_Name "Her beauty is undeniable, but..."
-    ch_Name ""
+    ch_Name "她的美丽无可否认，但是。。。"
 
 # game/logic/events/samantha.rpy:1826
 translate chinese Samantha_12_label_0108a7dd:
 
     # ch_Name "She doesn't look like others."
-    ch_Name ""
+    ch_Name "她看起来不像其他人。"
 
 # game/logic/events/samantha.rpy:1827
 translate chinese Samantha_12_label_7eeea7e7:
 
     # ch_Name "She seems different."
-    ch_Name ""
+    ch_Name "她看起来不同。"
 
 # game/logic/events/samantha.rpy:1828
 translate chinese Samantha_12_label_9c26e2f2:
 
     # Samantha "Ohh, really?"
-    Samantha ""
+    Samantha "哦，真的吗？"
 
 # game/logic/events/samantha.rpy:1829
 translate chinese Samantha_12_label_eab0bb62:
 
     # Samantha "That's the problem, you see only her appearance, her beauty, and fragility."
-    Samantha ""
+    Samantha "这就是问题所在，你只看到她的外表，她的美丽和脆弱。"
 
 # game/logic/events/samantha.rpy:1831
 translate chinese Samantha_12_label_0cb00428:
 
     # Samantha "But I can say you - she's just as harmless as belladonna's flowers, that's for sure."
-    Samantha ""
+    Samantha "但我可以说，她就像颠茄花一样无害，这是肯定的。"
 
 # game/logic/events/samantha.rpy:1832
 translate chinese Samantha_12_label_4976bc55:
 
     # Samantha "In her 12 years, she won battles with grown-up magicians!"
-    Samantha ""
+    Samantha "在她的12年里，她战胜了成年魔术师！"
 
 # game/logic/events/samantha.rpy:1833
 translate chinese Samantha_12_label_be0bca3c:
 
     # Samantha "She knows spells and techniques which you and I can't even imagine."
-    Samantha ""
+    Samantha "她懂得你我都无法想象的咒语和技巧。"
 
 # game/logic/events/samantha.rpy:1834
 translate chinese Samantha_12_label_ac1a0288:
 
     # ch_Name "Dakota friends with Elijah?"
-    ch_Name ""
+    ch_Name "Dakota和Elijah是朋友？"
 
 # game/logic/events/samantha.rpy:1836
 translate chinese Samantha_12_label_f197b370:
 
     # Samantha "Kind of."
-    Samantha ""
+    Samantha "一类的那种。"
 
 # game/logic/events/samantha.rpy:1837
 translate chinese Samantha_12_label_27ba33a8:
 
     # Samantha "But it doesn't look like a friendly chat, don't you think so?"
-    Samantha ""
+    Samantha "但这看起来不像是友好的交谈，你不这么认为吗？"
 
 # game/logic/events/samantha.rpy:1838
 translate chinese Samantha_12_label_0c24035b:
 
     # ch_Name "She looks like she wants to kill him with her poisonous eyes."
-    ch_Name ""
+    ch_Name "她看起来想用她恶毒的眼神杀了他。"
 
 # game/logic/events/samantha.rpy:1839
 translate chinese Samantha_12_label_93dc4305:
 
     # ch_Name "Dakota seems to be really angry!"
-    ch_Name ""
+    ch_Name "Dakota看起来很生气！"
 
 # game/logic/events/samantha.rpy:1841
 translate chinese Samantha_12_label_df8c371f:
 
     # Samantha "And only look at Elijah."
-    Samantha ""
+    Samantha "看看Elijah。"
 
 # game/logic/events/samantha.rpy:1842
 translate chinese Samantha_12_label_b4dca3fa:
 
     # Samantha "He looks scared!"
-    Samantha ""
+    Samantha "他看上去很害怕！"
 
 # game/logic/events/samantha.rpy:1845
 translate chinese Samantha_12_label_b0703665:
 
     # Samantha "I've never seen him like this."
-    Samantha ""
+    Samantha "我从没见过他这样。"
 
 # game/logic/events/samantha.rpy:1846
 translate chinese Samantha_12_label_0cae1207:
 
     # Samantha "Oh, God!"
-    Samantha ""
+    Samantha "哦，上帝！"
 
 # game/logic/events/samantha.rpy:1847
 translate chinese Samantha_12_label_1396a919:
 
     # ch_Name "Do you see what I see?"
-    ch_Name ""
+    ch_Name "你看到我看到的了吗？"
 
 # game/logic/events/samantha.rpy:1848
 translate chinese Samantha_12_label_33c1983e:
 
     # Samantha "Without a doubt."
-    Samantha ""
+    Samantha "毫无疑问。"
 
 # game/logic/events/samantha.rpy:1849
 translate chinese Samantha_12_label_665fb786:
 
     # ch_Name "What she's up to?"
-    ch_Name ""
+    ch_Name "她想干什么？"
 
 # game/logic/events/samantha.rpy:1851
 translate chinese Samantha_12_label_bcb6488a:
 
     # Samantha "I don't know, but she wouldn't dare whatever it is."
-    Samantha ""
+    Samantha "我不知道，但不管是什么她都不敢。"
 
 # game/logic/events/samantha.rpy:1852
 translate chinese Samantha_12_label_67e5eeb3:
 
     # Samantha "The world's gone crazy."
-    Samantha ""
+    Samantha "整个世界都疯了。"
 
 # game/logic/events/samantha.rpy:1853
 translate chinese Samantha_12_label_08785cbf:
 
     # Samantha "What the..."
-    Samantha ""
+    Samantha "什么。。。"
 
 # game/logic/events/samantha.rpy:1855
 translate chinese Samantha_12_label_602626d7:
 
     # Samantha "She's coming over here!"
-    Samantha ""
+    Samantha "她要过来了！"
 
 # game/logic/events/samantha.rpy:1856
 translate chinese Samantha_12_label_e30795ca:
 
     # Samantha "Act natural, okay?"
-    Samantha ""
+    Samantha "表现自然，好吗？"
 
 # game/logic/events/samantha.rpy:1857
 translate chinese Samantha_12_label_d75e04d3:
 
     # Samantha "Nothing strange is happening, it's just a talk."
-    Samantha ""
+    Samantha "没什么奇怪的事，只是说说而已。"
 
 # game/logic/events/samantha.rpy:1858
 translate chinese Samantha_12_label_ffbb21ce:
 
     # Dakota "Samantha? Nice to meet you."
-    Dakota ""
+    Dakota "Samantha？很高兴见到你。"
 
 # game/logic/events/samantha.rpy:1860
 translate chinese Samantha_12_label_3a604356:
 
     # Dakota "I only wanted to greet new participants of The Tournament."
-    Dakota ""
+    Dakota "我只是想问候比赛的新参与者。"
 
 # game/logic/events/samantha.rpy:1861
 translate chinese Samantha_12_label_ba96fba6:
 
     # Dakota "I saw your name at the end of the list."
-    Dakota ""
+    Dakota "我在名单最后看到了你的名字。"
 
 # game/logic/events/samantha.rpy:1862
 translate chinese Samantha_12_label_dd4dd39e:
 
     # Dakota "Seems like you hesitated a lot before applying, am I right?"
-    Dakota ""
+    Dakota "看来你在申请之前犹豫了很久，对吧？"
 
 # game/logic/events/samantha.rpy:1863
 translate chinese Samantha_12_label_61c7399d:
 
     # Dakota "I was one of the first who did it."
-    Dakota ""
+    Dakota "我是第一批这么做的人之一。"
 
 # game/logic/events/samantha.rpy:1865
 translate chinese Samantha_12_label_90bac37d:
 
     # Samantha "My congratulations, then."
-    Samantha ""
+    Samantha "我祝贺你，然后。"
 
 # game/logic/events/samantha.rpy:1866
 translate chinese Samantha_12_label_5931ef5e:
 
     # Dakota "We are going to have some fun, that's for sure."
-    Dakota ""
+    Dakota "我们一定会玩得很开心，这是肯定的。"
 
 # game/logic/events/samantha.rpy:1867
 translate chinese Samantha_12_label_beacd3eb:
 
     # Dakota "I can count powerful wizards among the participants on my one hand."
-    Dakota ""
+    Dakota "我一只手就能数出参与者中强大的巫师。"
 
 # game/logic/events/samantha.rpy:1869
 translate chinese Samantha_12_label_7eeed594:
 
     # Dakota "Others are the bunch of untalented magicians who know nothing about magic."
-    Dakota ""
+    Dakota "另一些人则是一群对魔术一无所知的没有天赋的魔术师。"
 
 # game/logic/events/samantha.rpy:1870
 translate chinese Samantha_12_label_85f19f49:
 
     # Dakota "On what they're counting on?"
-    Dakota ""
+    Dakota "他们指望什么呢？"
 
 # game/logic/events/samantha.rpy:1871
 translate chinese Samantha_12_label_a65c3672:
 
     # Samantha "I didn't think about it."
-    Samantha ""
+    Samantha "我没想过。"
 
 # game/logic/events/samantha.rpy:1872
 translate chinese Samantha_12_label_86e649a3:
 
     # Dakota "In any case, there is only one moral."
-    Dakota ""
+    Dakota "无论如何，道德只有一种。"
 
 # game/logic/events/samantha.rpy:1874
 translate chinese Samantha_12_label_5054b919:
 
     # Dakota "Everyone needs to choose the side which he wants to be on."
-    Dakota ""
+    Dakota "每个人都需要选择自己想站在哪一边。"
 
 # game/logic/events/samantha.rpy:1875
 translate chinese Samantha_12_label_5f95e413:
 
     # Dakota "Together with the weakest, with losers... "
-    Dakota ""
+    Dakota "和弱者，和失败者在一起。。。"
 
 # game/logic/events/samantha.rpy:1876
 translate chinese Samantha_12_label_4af075b4:
 
     # Dakota "Or with the strongest ones."
-    Dakota ""
+    Dakota "或者用最强的。"
 
 # game/logic/events/samantha.rpy:1877
 translate chinese Samantha_12_label_e665e11f:
 
     # Dakota "What is your personal choice, Samantha?"
-    Dakota ""
+    Dakota "你的个人选择是什么，Samantha？"
 
 # game/logic/events/samantha.rpy:1879
 translate chinese Samantha_12_label_4b12bbf5:
 
     # Samantha "I prefer not to divide the world in black and white, between losers and winners."
-    Samantha ""
+    Samantha "我不喜欢把世界分成黑与白，失败者和成功者。"
 
 # game/logic/events/samantha.rpy:1880
 translate chinese Samantha_12_label_56dfa6b7:
 
     # Samantha "In reality, it doesn't work like that."
-    Samantha ""
+    Samantha "在现实中，并不是这样的。"
 
 # game/logic/events/samantha.rpy:1881
 translate chinese Samantha_12_label_862f19dc:
 
     # Dakota "You're mistaken."
-    Dakota ""
+    Dakota "你错了。"
 
 # game/logic/events/samantha.rpy:1882
 translate chinese Samantha_12_label_68ebcd2f:
 
     # Dakota "But it's okay..."
-    Dakota ""
+    Dakota "但是没关系。。。"
 
 # game/logic/events/samantha.rpy:1883
 translate chinese Samantha_12_label_fb7b37ff:
 
     # Dakota "The Great Wizards Tournament will be your first experience in the world of magical battles. "
-    Dakota ""
+    Dakota "伟大的巫师锦标赛将是你在魔法战争世界的第一次体验。"
 
 # game/logic/events/samantha.rpy:1885
 translate chinese Samantha_12_label_eeaee832:
 
     # Dakota "You still have a lot to learn."
-    Dakota ""
+    Dakota "你还有很多东西要学。"
 
 # game/logic/events/samantha.rpy:1886
 translate chinese Samantha_12_label_5743b1f6:
 
     # Dakota "But I can help you with that."
-    Dakota ""
+    Dakota "但我可以帮你。"
 
 # game/logic/events/samantha.rpy:1887
 translate chinese Samantha_12_label_36059868:
 
     # Dakota "Only if you want, certainly."
-    Dakota ""
+    Dakota "当然，只要你愿意。"
 
 # game/logic/events/samantha.rpy:1888
 translate chinese Samantha_12_label_8709d183:
 
     # Samantha "Why are you telling me all these things?"
-    Samantha ""
+    Samantha "你为什么要告诉我这些？"
 
 # game/logic/events/samantha.rpy:1889
 translate chinese Samantha_12_label_d19ab74c:
 
     # Samantha "We barely know each other."
-    Samantha ""
+    Samantha "我们几乎不认识对方。"
 
 # game/logic/events/samantha.rpy:1891
 translate chinese Samantha_12_label_9f843ba9:
 
     # Dakota "You're a really powerful wizard, Samantha."
-    Dakota ""
+    Dakota "你真是个强大的巫师，Samantha。"
 
 # game/logic/events/samantha.rpy:1892
 translate chinese Samantha_12_label_730c661d:
 
     # Dakota "Everybody knows that."
-    Dakota ""
+    Dakota "每个人都知道。"
 
 # game/logic/events/samantha.rpy:1893
 translate chinese Samantha_12_label_87502119:
 
     # Dakota "Plus, I think that you and I are the same types of people."
-    Dakota ""
+    Dakota "而且，我觉得你和我是同一类型的人。"
 
 # game/logic/events/samantha.rpy:1894
 translate chinese Samantha_12_label_604dabed:
 
     # Dakota "It attracts, naturally."
-    Dakota ""
+    Dakota "它吸引了，自然。"
 
 # game/logic/events/samantha.rpy:1895
 translate chinese Samantha_12_label_977dcea0:
 
     # Samantha "The same types of people?"
-    Samantha ""
+    Samantha "同样类型的人？"
 
 # game/logic/events/samantha.rpy:1897
 translate chinese Samantha_12_label_704968b9:
 
     # Samantha "I don't like to jump to conclusions too quickly."
-    Samantha ""
+    Samantha "我不喜欢太快下结论。"
 
 # game/logic/events/samantha.rpy:1898
 translate chinese Samantha_12_label_cc7a5440:
 
     # Samantha "And don't forget that we will be competitors in The Tournament."
-    Samantha ""
+    Samantha "别忘了我们是比赛的对手。"
 
 # game/logic/events/samantha.rpy:1899
 translate chinese Samantha_12_label_2ee0038f:
 
     # Dakota "Well, yes."
-    Dakota ""
+    Dakota "嗯，是的。"
 
 # game/logic/events/samantha.rpy:1900
 translate chinese Samantha_12_label_20eb2e59:
 
     # Dakota "But maybe there is no need to always be against everybody?"
-    Dakota ""
+    Dakota "但是也许没有必要总是和每个人作对？"
 
 # game/logic/events/samantha.rpy:1902
 translate chinese Samantha_12_label_ad7142e7:
 
     # Dakota "Oh, I don't think we've met, young man."
-    Dakota ""
+    Dakota "我想我们还没见过面，年轻人。"
 
 # game/logic/events/samantha.rpy:1904
 translate chinese Samantha_12_label_30e44f76:
 
     # Dakota "My name is Dakota."
-    Dakota ""
+    Dakota "我叫Dakota。"
 
 # game/logic/events/samantha.rpy:1905
 translate chinese Samantha_12_label_27c53a27:
 
     # ch_Name "I'm [Name]. Nice to meet you, Dakota."
-    ch_Name ""
+    ch_Name "我[Name]。很高兴见到你，Dakota。"
 
 # game/logic/events/samantha.rpy:1907
 translate chinese Samantha_12_label_03e4e8b6:
 
     # Dakota "I'm a bit old-fashioned about these things, sorry."
-    Dakota ""
+    Dakota "我在这方面有点守旧，抱歉。"
 
 # game/logic/events/samantha.rpy:1908
 translate chinese Samantha_12_label_18ba2ac1:
 
     # ch_Name "There's nothing to feel sorry about."
-    ch_Name ""
+    ch_Name "没什么好难过的。"
 
 # game/logic/events/samantha.rpy:1910
 translate chinese Samantha_12_label_c21bde76:
 
     # ch_Name "That's adorable!"
-    ch_Name ""
+    ch_Name "这是可爱的！"
 
 # game/logic/events/samantha.rpy:1911
 translate chinese Samantha_12_label_edf88bbd:
 
     # Dakota "Thank you."
-    Dakota ""
+    Dakota "谢谢你！"
 
 # game/logic/events/samantha.rpy:1913
 translate chinese Samantha_12_label_6f78a245:
 
     # Dakota "Hope to see you again another time."
-    Dakota ""
+    Dakota "希望下次能再见到你。"
 
 # game/logic/events/samantha.rpy:1914
 translate chinese Samantha_12_label_2f2d1720:
 
     # Dakota "Have a great day!"
-    Dakota ""
+    Dakota "祝你今天愉快！"
 
 # game/logic/events/samantha.rpy:1916
 translate chinese Samantha_12_label_2fb38857:
 
     # Samantha "What it was all about?"
-    Samantha ""
+    Samantha "这到底是怎么回事？"
 
 # game/logic/events/samantha.rpy:1917
 translate chinese Samantha_12_label_bd5c1847:
 
     # ch_Name "What do you mean? "
-    ch_Name ""
+    ch_Name "你是什么意思？"
 
 # game/logic/events/samantha.rpy:1918
 translate chinese Samantha_12_label_baa9e994:
 
     # Samantha "Dakota is a lot more complicated when it seems."
-    Samantha ""
+    Samantha "Dakota看起来要复杂得多。"
 
 # game/logic/events/samantha.rpy:1919
 translate chinese Samantha_12_label_ec16921c:
 
     # Samantha "She's up to something."
-    Samantha ""
+    Samantha "她在谋划什么。"
 
 # game/logic/events/samantha.rpy:1920
 translate chinese Samantha_12_label_9de273fa:
 
     # Samantha "Tried to friend me, then flirted with you."
-    Samantha ""
+    Samantha "他想加我为好友，然后跟你调情。"
 
 # game/logic/events/samantha.rpy:1922
 translate chinese Samantha_12_label_ea436aef:
 
     # ch_Name "Flirted? Are you kidding me?"
-    ch_Name ""
+    ch_Name "调情？你在开玩笑吗？"
 
 # game/logic/events/samantha.rpy:1923
 translate chinese Samantha_12_label_bf8ca730:
 
     # ch_Name "She was only trying to be nice to me!"
-    ch_Name ""
+    ch_Name "她只是想对我好一点！"
 
 # game/logic/events/samantha.rpy:1924
 translate chinese Samantha_12_label_12b4bca4:
 
     # Samantha "Mm-mhm."
-    Samantha ""
+    Samantha "Mm-mhm。"
 
 # game/logic/events/samantha.rpy:1926
 translate chinese Samantha_12_label_c10fcffa:
 
     # ch_Name "Oh, Sam!"
-    ch_Name ""
+    ch_Name "哦，Sam！"
 
 # game/logic/events/samantha.rpy:1927
 translate chinese Samantha_12_label_74da78f3:
 
     # ch_Name "I am touched that you're jealous."
-    ch_Name ""
+    ch_Name "你嫉妒我，我很感动。"
 
 # game/logic/events/samantha.rpy:1928
 translate chinese Samantha_12_label_0dcb29a4:
 
     # ch_Name "It's really cute."
-    ch_Name ""
+    ch_Name "真的很可爱。"
 
 # game/logic/events/samantha.rpy:1929
 translate chinese Samantha_12_label_84b75cea:
 
     # Samantha "What!?"
-    Samantha ""
+    Samantha "什么！？"
 
 # game/logic/events/samantha.rpy:1931
 translate chinese Samantha_12_label_607ca851:
 
     # Samantha "Don't be ridiculous."
-    Samantha ""
+    Samantha "别荒谬。"
 
 # game/logic/events/samantha.rpy:1932
 translate chinese Samantha_12_label_1a7ccf33:
 
     # Samantha "Anyway, don't trust her that quickly."
-    Samantha ""
+    Samantha "总之，别那么快就相信她。"
 
 # game/logic/events/samantha.rpy:1933
 translate chinese Samantha_12_label_066f50f3:
 
     # Samantha "I heard that she's very cunning."
-    Samantha ""
+    Samantha "我听说她很狡猾。"
 
 # game/logic/events/samantha.rpy:1934
 translate chinese Samantha_12_label_ac1551a9:
 
     # Samantha "She wants to win The Tournament more than anything in the world."
-    Samantha ""
+    Samantha "她想赢得锦标赛，这是世界上最重要的事。"
 
 # game/logic/events/samantha.rpy:1936
 translate chinese Samantha_12_label_584045c3:
 
     # Samantha "And this odd situation with Elijah in front of everybody's eyes..."
-    Samantha ""
+    Samantha "而Elijah在众人面前的这种奇怪的情况。。。"
 
 # game/logic/events/samantha.rpy:1937
 translate chinese Samantha_12_label_dba5e2ba:
 
     # Samantha "You should be careful."
-    Samantha ""
+    Samantha "你应该小心。"
 
 # game/logic/events/samantha.rpy:1938
 translate chinese Samantha_12_label_dc0e8246:
 
     # ch_Name "Thanks for caring, but I think that you don't have to worry."
-    ch_Name ""
+    ch_Name "谢谢你的关心，但我觉得你不用担心。"
 
 # game/logic/events/samantha.rpy:1940
 translate chinese Samantha_12_label_49631ce8:
 
     # Samantha "We'll see."
-    Samantha ""
+    Samantha "我们将会看到。"
 
 # game/logic/events/samantha.rpy:1941
 translate chinese Samantha_12_label_71dd10a2:
 
     # Samantha "Oh, Gosh, I'm late for the class."
-    Samantha ""
+    Samantha "天啊，我上课要迟到了。"
 
 # game/logic/events/samantha.rpy:1942
 translate chinese Samantha_12_label_b48e434c:
 
     # Samantha "Sorry, [Name], I need to go."
-    Samantha ""
+    Samantha "对不起，[Name]，我得走了。"
 
 # game/logic/events/samantha.rpy:1944
 translate chinese Samantha_12_label_d2e0f35e:
 
     # ch_Name "Sure, no problem."
-    ch_Name ""
+    ch_Name "当然，没问题。"
 
 # game/logic/events/samantha.rpy:1945
 translate chinese Samantha_12_label_6c0d5264:
 
     # Samantha "See you!"
-    Samantha ""
+    Samantha "见到你！"
 
 # game/logic/events/samantha.rpy:1954
 translate chinese Samantha_12_label_debc94f8:
 
     # ch_Name "{i}(Well, that was interesting...){/i}"
-    ch_Name ""
+    ch_Name "{i}（嗯，那很有趣。。。）{/i}"
 
 # game/logic/events/samantha.rpy:1955
 translate chinese Samantha_12_label_3273432d:
 
     # ch_Name "{i}(That Dakota is an intriguing girl.){/i}"
-    ch_Name ""
+    ch_Name "{i}（达科塔是个迷人的女孩。）{/i}"
 
 # game/logic/events/samantha.rpy:1956
 translate chinese Samantha_12_label_9af76c9f:
 
     # ch_Name "{i}(Is she really as bad as Samantha says she is?){/i}"
-    ch_Name ""
+    ch_Name "{i}（她真的像Samantha说的那么坏吗？）{/i}"
 
 # game/logic/events/samantha.rpy:1958
 translate chinese Samantha_12_label_27d52f1f:
 
     # ch_Name "{i}(Anyway, there's still plenty of time until the evening.){/i}"
-    ch_Name ""
+    ch_Name "{i}（不管怎样，到晚上还有很多时间。）{/i}"
 
 # game/logic/events/samantha.rpy:1959
 translate chinese Samantha_12_label_f425a687:
 
     # ch_Name "{i}(But I don't feel like going to class.){/i}"
-    ch_Name ""
+    ch_Name "{i}（但我不想去上课。）{/i}"
 
 # game/logic/events/samantha.rpy:1960
 translate chinese Samantha_12_label_e782351b:
 
     # ch_Name "{i}(Maybe I should distract myself with something useful.){/i}"
-    ch_Name ""
+    ch_Name "{i}（也许我该找点有用的东西来分散注意力。）{/i}"
 
 # game/logic/events/samantha.rpy:1961
 translate chinese Samantha_12_label_8a2f8ec0:
 
     # ch_Name "{i}(Like work at Molly's...){/i}"
-    ch_Name ""
+    ch_Name "{i}（比如在Molly酒吧工作。。。）{/i}"
 
 # game/logic/events/samantha.rpy:1967
 translate chinese Samantha_13_label_50a7e8a8:
 
     # ch_Name "{i}(Fuck, I can't sleep.){/i}"
-    ch_Name ""
+    ch_Name "{i}（操，我睡不着。）{/i}"
 
 # game/logic/events/samantha.rpy:1968
 translate chinese Samantha_13_label_26d2324c:
 
     # ch_Name "{i}(All sorts of strange ideas come into my head.){/i}"
-    ch_Name ""
+    ch_Name "{i}（各种奇怪的想法涌上我的脑海。）{/i}"
 
 # game/logic/events/samantha.rpy:1969
 translate chinese Samantha_13_label_e21f6972:
 
     # ch_Name "{i}(Go for the walk, maybe?){/i}"
-    ch_Name ""
+    ch_Name "{i}（去散散步，怎么样？）{/i}"
 
 # game/logic/events/samantha.rpy:1970
 translate chinese Samantha_13_label_d0dee400:
 
     # ch_Name "{i}(Nah, I'm too lazy for that.){/i}"
-    ch_Name ""
+    ch_Name "{i}（不，我太懒了。）{/i}"
 
 # game/logic/events/samantha.rpy:1973
 translate chinese Samantha_13_label_3180df1c:
 
     # ch_Name "{i}(Fuck, I can't sleep. How could I after what I saw?){/i}"
-    ch_Name ""
+    ch_Name "{i}（操，我睡不着。我怎么能看到我所看到的？）{/i}"
 
 # game/logic/events/samantha.rpy:1974
 translate chinese Samantha_13_label_4d0fbd2e:
 
     # ch_Name "{i}(Even when I found out that Audrey is a succubus...){/i}"
-    ch_Name ""
+    ch_Name "{i}（即使当我发现奥德丽是个魅魔。。。）{/i}"
 
 # game/logic/events/samantha.rpy:1975
 translate chinese Samantha_13_label_1520f461:
 
     # ch_Name "{i}(I could never have thought that she looks so... different.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我从没想到她长得这么。。。不同。）{/i}"
 
 # game/logic/events/samantha.rpy:1976
 translate chinese Samantha_13_label_bef5a7b7:
 
     # ch_Name "{i}(Oh wow... It's both fantastic and terrifying.){/i}"
-    ch_Name ""
+    ch_Name "{i}（哦哇。。。这既奇妙又可怕。）{/i}"
 
 # game/logic/events/samantha.rpy:1980
 translate chinese Samantha_13_label_b6ce45a5:
 
     # NoName "Knock-Knock"
-    NoName ""
+    NoName "敲敲"
 
 # game/logic/events/samantha.rpy:1982
 translate chinese Samantha_13_label_0bfa802c:
 
     # ch_Name "{i}(Someone is knocking at the door, or I'm just imagining things?){/i}"
-    ch_Name ""
+    ch_Name "{i}（有人在敲门，还是我只是在想象？）{/i}"
 
 # game/logic/events/samantha.rpy:1983
 translate chinese Samantha_13_label_7110c850:
 
     # ch_Name "{i}(No, that's for real.){/i}"
-    ch_Name ""
+    ch_Name "{i}（不，这是真的。）{/i}"
 
 # game/logic/events/samantha.rpy:1984
 translate chinese Samantha_13_label_88ba4db2:
 
     # ch_Name "{i}(There's someone at the door.){/i}"
-    ch_Name ""
+    ch_Name "{i}（有人在门口。）{/i}"
 
 # game/logic/events/samantha.rpy:1986
 translate chinese Samantha_13_label_617e2589:
 
     # ch_Name "Samantha?!"
-    ch_Name ""
+    ch_Name "Samantha？！"
 
 # game/logic/events/samantha.rpy:1987
 translate chinese Samantha_13_label_784febcb:
 
     # ch_Name "Are you okay?"
-    ch_Name ""
+    ch_Name "你还好吗？"
 
 # game/logic/events/samantha.rpy:1988
 translate chinese Samantha_13_label_4f66375e:
 
     # ch_Name "Why are you crying?"
-    ch_Name ""
+    ch_Name "你为什么哭？"
 
 # game/logic/events/samantha.rpy:1989
 translate chinese Samantha_13_label_c7b8a2a8:
 
     # ch_Name "Come here."
-    ch_Name ""
+    ch_Name "到这里来。"
 
 # game/logic/events/samantha.rpy:1991
 translate chinese Samantha_13_label_e84ccbb7:
 
     # ch_Name "What happened?"
-    ch_Name ""
+    ch_Name "发生了什么事？"
 
 # game/logic/events/samantha.rpy:1992
 translate chinese Samantha_13_label_32ebbec1:
 
     # ch_Name "Awwww."
-    ch_Name ""
+    ch_Name "恩。"
 
 # game/logic/events/samantha.rpy:1993
 translate chinese Samantha_13_label_36b7ba10:
 
     # ch_Name "Okay, let's go to the bedroom."
-    ch_Name ""
+    ch_Name "好了，我们去卧室吧。"
 
 # game/logic/events/samantha.rpy:1995
 translate chinese Samantha_13_label_5d8bfede:
 
     # Samantha "I had a nightmare... that you died."
-    Samantha ""
+    Samantha "我做了个噩梦。。。你死了。"
 
 # game/logic/events/samantha.rpy:1996
 translate chinese Samantha_13_label_aa08e17a:
 
     # ch_Name "Oh!"
-    ch_Name ""
+    ch_Name "哦！"
 
 # game/logic/events/samantha.rpy:1997
 translate chinese Samantha_13_label_9f9d027b:
 
     # ch_Name "It was just a bad, very bad dream, Sam."
-    ch_Name ""
+    ch_Name "那只是一个非常非常糟糕的梦，Sam。"
 
 # game/logic/events/samantha.rpy:1998
 translate chinese Samantha_13_label_08e6dd81:
 
     # ch_Name "Everything is okay. I'm here with you, alive."
-    ch_Name ""
+    ch_Name "一切都是好的。我和你在一起，还活着。"
 
 # game/logic/events/samantha.rpy:2000
 translate chinese Samantha_13_label_46f4564a:
 
     # Samantha "I was so scared..."
-    Samantha ""
+    Samantha "我好害怕。。。"
 
 # game/logic/events/samantha.rpy:2001
 translate chinese Samantha_13_label_9e2d2020:
 
     # ch_Name "Of course, you were."
-    ch_Name ""
+    ch_Name "当然，你是。"
 
 # game/logic/events/samantha.rpy:2002
 translate chinese Samantha_13_label_05f41882:
 
     # ch_Name "Tell me about it."
-    ch_Name ""
+    ch_Name "告诉我吧。"
 
 # game/logic/events/samantha.rpy:2003
 translate chinese Samantha_13_label_2c7d21f4:
 
     # ch_Name "What was it like?"
-    ch_Name ""
+    ch_Name "它是什么样的？"
 
 # game/logic/events/samantha.rpy:2005
 translate chinese Samantha_13_label_2daa4790:
 
     # Samantha "I was arguing with you... about Dakota."
-    Samantha ""
+    Samantha "我在和你争论。。。Dakota。"
 
 # game/logic/events/samantha.rpy:2006
 translate chinese Samantha_13_label_d8e4d0f9:
 
     # Samantha "We were shouting at each other."
-    Samantha ""
+    Samantha "我们互相大喊大叫。"
 
 # game/logic/events/samantha.rpy:2007
 translate chinese Samantha_13_label_84789818:
 
     # Samantha "You told me that I'm wrong about her."
-    Samantha ""
+    Samantha "你说我看错她了。"
 
 # game/logic/events/samantha.rpy:2008
 translate chinese Samantha_13_label_954122d5:
 
     # Samantha "That I have a very strong prejudice against her, and it ain't right."
-    Samantha ""
+    Samantha "我对她有很强烈的偏见，这是不对的。"
 
 # game/logic/events/samantha.rpy:2010
 translate chinese Samantha_13_label_b9860629:
 
     # Samantha "Then Dakota showed up."
-    Samantha ""
+    Samantha "然后Dakota出现了。"
 
 # game/logic/events/samantha.rpy:2011
 translate chinese Samantha_13_label_4f42d678:
 
     # Samantha "I didn't expect that."
-    Samantha ""
+    Samantha "我没想到会这样。"
 
 # game/logic/events/samantha.rpy:2012
 translate chinese Samantha_13_label_566be9f8:
 
     # Samantha "She fired a kind of burning light at me."
-    Samantha ""
+    Samantha "她向我发出一种燃烧的光芒。"
 
 # game/logic/events/samantha.rpy:2013
 translate chinese Samantha_13_label_088c9101:
 
     # Samantha "I fell and I couldn't get up."
-    Samantha ""
+    Samantha "我摔倒了，站不起来。"
 
 # game/logic/events/samantha.rpy:2020
 translate chinese Samantha_13_label_7c03af63:
 
     # Samantha "You... you started to fight with her."
-    Samantha ""
+    Samantha "你。。。你开始和她吵架。"
 
 # game/logic/events/samantha.rpy:2021
 translate chinese Samantha_13_label_73670cd9:
 
     # Samantha "You were protecting me."
-    Samantha ""
+    Samantha "你在保护我。"
 
 # game/logic/events/samantha.rpy:2022
 translate chinese Samantha_13_label_c37fd30a:
 
     # Samantha "She was incredibly powerful, [Name]."
-    Samantha ""
+    Samantha "她非常有力量，[Name]。"
 
 # game/logic/events/samantha.rpy:2023
 translate chinese Samantha_13_label_326384b6:
 
     # Samantha "But you... you were amazing."
-    Samantha ""
+    Samantha "但是你。。。你是惊人的。"
 
 # game/logic/events/samantha.rpy:2025
 translate chinese Samantha_13_label_5869259f:
 
     # Samantha "It was a fair fight on equal terms."
-    Samantha ""
+    Samantha "这是一场平等的战斗。"
 
 # game/logic/events/samantha.rpy:2026
 translate chinese Samantha_13_label_4bce4971:
 
     # Samantha "You both refused to give up."
-    Samantha ""
+    Samantha "你们都拒绝放弃。"
 
 # game/logic/events/samantha.rpy:2027
 translate chinese Samantha_13_label_93085a97:
 
     # Samantha "Smoke filled the room, along with flashes of light."
-    Samantha ""
+    Samantha "房间里充满了烟，还有闪光。"
 
 # game/logic/events/samantha.rpy:2028
 translate chinese Samantha_13_label_9b724b77:
 
     # Samantha "Suddenly, something unthinkable happened."
-    Samantha ""
+    Samantha "突然，意想不到的事情发生了。"
 
 # game/logic/events/samantha.rpy:2029
 translate chinese Samantha_13_label_0a5558be:
 
     # ch_Name "...?"
-    ch_Name ""
+    ch_Name "。。。？"
 
 # game/logic/events/samantha.rpy:2031
 translate chinese Samantha_13_label_f936b7a8:
 
     # Samantha "Dakota came up to you..."
-    Samantha ""
+    Samantha "Dakota来找你。。。"
 
 # game/logic/events/samantha.rpy:2033
 translate chinese Samantha_13_label_6e07cd98:
 
     # Samantha "...and started to kiss you."
-    Samantha ""
+    Samantha "。。。然后开始吻你。"
 
 # game/logic/events/samantha.rpy:2034
 translate chinese Samantha_13_label_49de1a0b:
 
     # ch_Name "Ha-ha-ha-ha, really?"
-    ch_Name ""
+    ch_Name "哈哈哈哈，真的吗？"
 
 # game/logic/events/samantha.rpy:2035
 translate chinese Samantha_13_label_05554b8e:
 
     # Samantha "Yep, it sounds funny now."
-    Samantha ""
+    Samantha "是的，现在听起来很有趣。"
 
 # game/logic/events/samantha.rpy:2036
 translate chinese Samantha_13_label_115b585f:
 
     # Samantha "But I felt utterly blindsided by what I saw."
-    Samantha ""
+    Samantha "但我完全被眼前的景象惊呆了。"
 
 # game/logic/events/samantha.rpy:2037
 translate chinese Samantha_13_label_ac9047c9:
 
     # Samantha "So, you were kissing."
-    Samantha ""
+    Samantha "所以你们接吻了。"
 
 # game/logic/events/samantha.rpy:2038
 translate chinese Samantha_13_label_002981ab:
 
     # Samantha "I think her goal was to take you by surprise."
-    Samantha ""
+    Samantha "我觉得她的目的是给你个惊喜。"
 
 # game/logic/events/samantha.rpy:2039
 translate chinese Samantha_13_label_5242c598:
 
     # Samantha "It worked, actually."
-    Samantha ""
+    Samantha "实际上工作。"
 
 # game/logic/events/samantha.rpy:2041
 translate chinese Samantha_13_label_b7564b6b:
 
     # Samantha "She got you on the hop and spelled you before you did something."
-    Samantha ""
+    Samantha "她在你动手之前就给你下了咒。"
 
 # game/logic/events/samantha.rpy:2042
 translate chinese Samantha_13_label_c319229f:
 
     # Samantha "You fell to the ground and lay there, breathless and motionless."
-    Samantha ""
+    Samantha "你倒在地上，躺在那里，喘不过气来，一动也不动。"
 
 # game/logic/events/samantha.rpy:2043
 translate chinese Samantha_13_label_2566251c:
 
     # Samantha "It was horrible!"
-    Samantha ""
+    Samantha "这是可怕的！"
 
 # game/logic/events/samantha.rpy:2045
 translate chinese Samantha_13_label_234499c4:
 
     # Samantha "I was holding you in my arms and trying to wake you up."
-    Samantha ""
+    Samantha "我抱着你，想把你叫醒。"
 
 # game/logic/events/samantha.rpy:2046
 translate chinese Samantha_13_label_de46c03d:
 
     # Samantha "But nothing helped. You had no pulse and no breath sounds."
-    Samantha ""
+    Samantha "但没有什么帮助。你没有脉搏和呼吸声。"
 
 # game/logic/events/samantha.rpy:2047
 translate chinese Samantha_13_label_89ffeb6f:
 
     # Samantha "You were dead, [Name]!"
-    Samantha ""
+    Samantha "你已经死了，[Name]！"
 
 # game/logic/events/samantha.rpy:2048
 translate chinese Samantha_13_label_7b2079cd:
 
     # Samantha "I was pinching myself just to wake up, but I couldn't."
-    Samantha ""
+    Samantha "我掐着自己想要醒过来，但我做不到。"
 
 # game/logic/events/samantha.rpy:2049
 translate chinese Samantha_13_label_20375f98:
 
     # Samantha "It was so hurtful to understand that I lost you."
-    Samantha ""
+    Samantha "我失去了你，这让我很伤心。"
 
 # game/logic/events/samantha.rpy:2050
 translate chinese Samantha_13_label_8dc7bb8c:
 
     # Samantha "The part of my soul went together with you."
-    Samantha ""
+    Samantha "我灵魂的一部分和你在一起。"
 
 # game/logic/events/samantha.rpy:2052
 translate chinese Samantha_13_label_f72f54fa:
 
     # ch_Name "Oh, honey!"
-    ch_Name ""
+    ch_Name "哦，亲爱的！"
 
 # game/logic/events/samantha.rpy:2053
 translate chinese Samantha_13_label_d212ac22:
 
     # ch_Name "No one should have to experience things like that, even in a dream."
-    ch_Name ""
+    ch_Name "没人应该经历这种事，即使是在梦里。"
 
 # game/logic/events/samantha.rpy:2054
 translate chinese Samantha_13_label_3da96a4a:
 
     # ch_Name "But what was Dakota doing all that time?"
-    ch_Name ""
+    ch_Name "但是达科塔一直在做什么？"
 
 # game/logic/events/samantha.rpy:2055
 translate chinese Samantha_13_label_f8c506f8:
 
     # Samantha "Dakota?"
-    Samantha ""
+    Samantha "Dakota？"
 
 # game/logic/events/samantha.rpy:2057
 translate chinese Samantha_13_label_22a5f3f2:
 
     # Samantha "She was standing aside and watching us."
-    Samantha ""
+    Samantha "她站在一边看着我们。"
 
 # game/logic/events/samantha.rpy:2058
 translate chinese Samantha_13_label_8c5cee68:
 
     # ch_Name "Was she triumphing?"
-    ch_Name ""
+    ch_Name "她胜利了吗？"
 
 # game/logic/events/samantha.rpy:2059
 translate chinese Samantha_13_label_bec09bc8:
 
     # Samantha "Triumphing? Not at all."
-    Samantha ""
+    Samantha "胜利了吗？一点也不。"
 
 # game/logic/events/samantha.rpy:2060
 translate chinese Samantha_13_label_c2fcd1c3:
 
     # Samantha "She looked sad and tired."
-    Samantha ""
+    Samantha "她看起来又伤心又疲倦。"
 
 # game/logic/events/samantha.rpy:2061
 translate chinese Samantha_13_label_a48200e0:
 
     # ch_Name "Hmmm..."
-    ch_Name ""
+    ch_Name "嗯。。。"
 
 # game/logic/events/samantha.rpy:2062
 translate chinese Samantha_13_label_c35e5bee:
 
     # ch_Name "Well, that doesn't matter."
-    ch_Name ""
+    ch_Name "这没关系。"
 
 # game/logic/events/samantha.rpy:2064
 translate chinese Samantha_13_label_48c4ad7b:
 
     # ch_Name "Come here, baby."
-    ch_Name ""
+    ch_Name "来这里，宝贝。"
 
 # game/logic/events/samantha.rpy:2065
 translate chinese Samantha_13_label_8b939222:
 
     # ch_Name "Shhhhhhh."
-    ch_Name ""
+    ch_Name "Shhhhhhh。"
 
 # game/logic/events/samantha.rpy:2066
 translate chinese Samantha_13_label_0e0b4d5e:
 
     # ch_Name "It's over already."
-    ch_Name ""
+    ch_Name "它已经结束了。"
 
 # game/logic/events/samantha.rpy:2067
 translate chinese Samantha_13_label_d3ee7c95:
 
     # ch_Name "The worst is behind you."
-    ch_Name ""
+    ch_Name "最糟糕的时候已经过去了。"
 
 # game/logic/events/samantha.rpy:2069
 translate chinese Samantha_13_label_536c5b19:
 
     # ch_Name "I can't promise that I will never die in your arms, but..."
-    ch_Name ""
+    ch_Name "我不能保证我永远不会死在你的怀里，但是。。。"
 
 # game/logic/events/samantha.rpy:2070
 translate chinese Samantha_13_label_9345d3b0:
 
     # ch_Name "It is my objective not to let this happen."
-    ch_Name ""
+    ch_Name "我的目标是不让这种事发生。"
 
 # game/logic/events/samantha.rpy:2071
 translate chinese Samantha_13_label_89176db4:
 
     # Samantha "You're such a dummy!"
-    Samantha ""
+    Samantha "你真是个笨蛋！"
 
 # game/logic/events/samantha.rpy:2073
 translate chinese Samantha_13_label_bc3c857c:
 
     # Samantha "Mmmm..."
-    Samantha ""
+    Samantha "嗯。。。"
 
 # game/logic/events/samantha.rpy:2074
 translate chinese Samantha_13_label_c8727041:
 
     # ch_Name "Your breath is so warm."
-    ch_Name ""
+    ch_Name "你的呼吸是如此的温暖。"
 
 # game/logic/events/samantha.rpy:2075
 translate chinese Samantha_13_label_44bd4c7a:
 
     # Samantha "I'm so glad that you support me all the time."
-    Samantha ""
+    Samantha "我很高兴你一直支持我。"
 
 # game/logic/events/samantha.rpy:2076
 translate chinese Samantha_13_label_bf73860d:
 
     # Samantha "It means a lot to me, and I really appreciate it."
-    Samantha ""
+    Samantha "这对我意义重大，我真的很感激。"
 
 # game/logic/events/samantha.rpy:2078
 translate chinese Samantha_13_label_19401e63:
 
     # ch_Name "Aww, I'm happy to be here for you."
-    ch_Name ""
+    ch_Name "嗷，我很高兴能来帮你。"
 
 # game/logic/events/samantha.rpy:2079
 translate chinese Samantha_13_label_941f6120:
 
     # ch_Name "Don't thank me for that."
-    ch_Name ""
+    ch_Name "别为此感谢我。"
 
 # game/logic/events/samantha.rpy:2080
 translate chinese Samantha_13_label_344c819e:
 
     # Samantha "Let's just lie down for a bit?"
-    Samantha ""
+    Samantha "我们躺一会儿好吗？"
 
 # game/logic/events/samantha.rpy:2081
 translate chinese Samantha_13_label_74ebce9c:
 
     # ch_Name "Sure."
-    ch_Name ""
+    ch_Name "确定。"
 
 # game/logic/events/samantha.rpy:2083
 translate chinese Samantha_13_label_891535e2:
 
     # Samantha "I feel so safe with you."
-    Samantha ""
+    Samantha "和你在一起我感觉很安全。"
 
 # game/logic/events/samantha.rpy:2084
 translate chinese Samantha_13_label_73f8e0d7:
 
     # Samantha "So cozy..."
-    Samantha ""
+    Samantha "所以舒适。。。"
 
 # game/logic/events/samantha.rpy:2085
 translate chinese Samantha_13_label_86263a94:
 
     # Samantha "I can barely keep my eyes open."
-    Samantha ""
+    Samantha "我都快睁不开眼睛了。"
 
 # game/logic/events/samantha.rpy:2092
 translate chinese Samantha_13_label_aeb23eb5:
 
     # ch_Name "{i}(Oh, what time is it?){/i}"
-    ch_Name ""
+    ch_Name "{i}（哦，几点了？）{/i}"
 
 # game/logic/events/samantha.rpy:2093
 translate chinese Samantha_13_label_f4738e89:
 
     # ch_Name "{i}(Did we just fall asleep?){/i}"
-    ch_Name ""
+    ch_Name "{i}（我们刚刚睡着了吗？）{/i}"
 
 # game/logic/events/samantha.rpy:2094
 translate chinese Samantha_13_label_0f95a703:
 
     # ch_Name "{i}(I don't remember it.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我不记得了。）{/i}"
 
 # game/logic/events/samantha.rpy:2096
 translate chinese Samantha_13_label_2503f4fe:
 
     # ch_Name "{i}(Oh!){/i}"
-    ch_Name ""
+    ch_Name "{i}（哦！）{/i}"
 
 # game/logic/events/samantha.rpy:2097
 translate chinese Samantha_13_label_22ee252b:
 
     # ch_Name "{i}(Very, very exciting...){/i}"
-    ch_Name ""
+    ch_Name "{i}（非常令人兴奋的。。。）{/i}"
 
 # game/logic/events/samantha.rpy:2098
 translate chinese Samantha_13_label_dd71303c:
 
     # ch_Name "{i}(Only single touch, and I'm already turned on!){/i}"
-    ch_Name ""
+    ch_Name "{i}（只要碰一下，我就已经启动了！）{/i}"
 
 # game/logic/events/samantha.rpy:2100
 translate chinese Samantha_13_label_2c692bc7:
 
     # ch_Name "{i}(Only look at her!){/i}"
-    ch_Name ""
+    ch_Name "{i}（你看看她！）{/i}"
 
 # game/logic/events/samantha.rpy:2101
 translate chinese Samantha_13_label_92a7a023:
 
     # ch_Name "{i}(She's so sweet while sleeping.){/i}"
-    ch_Name ""
+    ch_Name "{i}（她睡觉的时候很可爱。）{/i}"
 
 # game/logic/events/samantha.rpy:2103
 translate chinese Samantha_13_label_0fe160df:
 
     # ch_Name "{i}(I can endlessly watch her chest rising and falling.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我可以不停地看着她的胸部起伏。）{/i}"
 
 # game/logic/events/samantha.rpy:2104
 translate chinese Samantha_13_label_63af416c:
 
     # ch_Name "{i}(Again and again, again and again...){/i}"
-    ch_Name ""
+    ch_Name "{i}（一次又一次，一次又一次。。。）{/i}"
 
 # game/logic/events/samantha.rpy:2105
 translate chinese Samantha_13_label_e1cf9885:
 
     # ch_Name "{i}(I have no thought of sleep...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我不想睡觉。。。）{/i}"
 
 # game/logic/events/samantha.rpy:2106
 translate chinese Samantha_13_label_1f9f2c38:
 
     # Samantha "Oh, [Name]!"
-    Samantha ""
+    Samantha "哦，[Name]！"
 
 # game/logic/events/samantha.rpy:2108
 translate chinese Samantha_13_label_ebd50d51:
 
     # ch_Name "Sam?"
-    ch_Name ""
+    ch_Name "Sam？"
 
 # game/logic/events/samantha.rpy:2109
 translate chinese Samantha_13_label_dfb65ccf:
 
     # ch_Name "{i}(Whoa!){/i}"
-    ch_Name ""
+    ch_Name "{i}（哇！）{/i}"
 
 # game/logic/events/samantha.rpy:2110
 translate chinese Samantha_13_label_e4cba2e4:
 
     # ch_Name "{i}(Has she called for me in her sleep?){/i}"
-    ch_Name ""
+    ch_Name "{i}（她有没有在睡梦中找过我？）{/i}"
 
 # game/logic/events/samantha.rpy:2111
 translate chinese Samantha_13_label_5132e95d:
 
     # ch_Name "{i}(I'm wondering what she is dreaming about.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我不知道她在做什么梦。）{/i}"
 
 # game/logic/events/samantha.rpy:2113
 translate chinese Samantha_13_label_082131a0:
 
     # ch_Name "{i}(Ugh...){/i}"
-    ch_Name ""
+    ch_Name "{i}（啊。。。）{/i}"
 
 # game/logic/events/samantha.rpy:2114
 translate chinese Samantha_13_label_cb58fe72:
 
     # ch_Name "{i}(What a lovely view!){/i}"
-    ch_Name ""
+    ch_Name "{i}（多美的景色啊！）{/i}"
 
 # game/logic/events/samantha.rpy:2118
 translate chinese Samantha_13_label_a4fe9521:
 
     # ch_Name "{i}(I just want to feel closer to her.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我只是想更亲近她。）{/i}"
 
 # game/logic/events/samantha.rpy:2120
 translate chinese Samantha_13_label_ace715d0:
 
     # ch_Name "{i}(Phew!){/i}"
-    ch_Name ""
+    ch_Name "{i}（唷！）{/i}"
 
 # game/logic/events/samantha.rpy:2121
 translate chinese Samantha_13_label_b8987a9b:
 
     # ch_Name "{i}(I can't believe that it's real!){/i}"
-    ch_Name ""
+    ch_Name "{i}（我不敢相信这是真的！）{/i}"
 
 # game/logic/events/samantha.rpy:2123
 translate chinese Samantha_13_label_72d98b8c:
 
     # ch_Name "{i}(I hope I'm not going to wake her up.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我希望我不会吵醒她。）{/i}"
 
 # game/logic/events/samantha.rpy:2124
 translate chinese Samantha_13_label_7c1fea2b:
 
     # ch_Name "{i}(That's the last thing that I want.){/i}"
-    ch_Name ""
+    ch_Name "{i}（这是我最不希望发生的事。）{/i}"
 
 # game/logic/events/samantha.rpy:2125
 translate chinese Samantha_13_label_a13f40db:
 
     # ch_Name "{i}(I need to be very careful.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我得非常小心。）{/i}"
 
 # game/logic/events/samantha.rpy:2127
 translate chinese Samantha_13_label_5030d6d8:
 
     # ch_Name "{i}(That feels sooo great!){/i}"
-    ch_Name ""
+    ch_Name "{i}（感觉太棒了！）{/i}"
 
 # game/logic/events/samantha.rpy:2128
 translate chinese Samantha_13_label_00997024:
 
     # ch_Name "{i}(Even better than I could imagine...){/i}"
-    ch_Name ""
+    ch_Name "{i}（比我想象的还要好。。。）{/i}"
 
 # game/logic/events/samantha.rpy:2130
 translate chinese Samantha_13_label_2be84f76:
 
     # Samantha "Mmmm!"
-    Samantha ""
+    Samantha "嗯！"
 
 # game/logic/events/samantha.rpy:2131
 translate chinese Samantha_13_label_18fe36ed:
 
     # ch_Name "{i}(Oh, Sam.){/i}"
-    ch_Name ""
+    ch_Name "{i}（哦，Sam。）{/i}"
 
 # game/logic/events/samantha.rpy:2133
 translate chinese Samantha_13_label_81149f48:
 
     # ch_Name "{i}(You're moaning so gently!){/i}"
-    ch_Name ""
+    ch_Name "{i}（你呻吟得这么轻！）{/i}"
 
 # game/logic/events/samantha.rpy:2134
 translate chinese Samantha_13_label_e9b2cff5:
 
     # ch_Name "{i}(It's like the music to my ears.){/i}"
-    ch_Name ""
+    ch_Name "{i}（对我来说就像音乐一样。）{/i}"
 
 # game/logic/events/samantha.rpy:2135
 translate chinese Samantha_13_label_a9214311:
 
     # ch_Name "{i}(I like to watch how my touches make her parted lips tremble...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我喜欢看我的触碰如何使她张开的嘴唇颤抖。。。）{/i}"
 
 # game/logic/events/samantha.rpy:2137
 translate chinese Samantha_13_label_a797398d:
 
     # ch_Name "{i}(Why is it so hard to take my eyes off your ass, Sam?){/i}"
-    ch_Name ""
+    ch_Name "{i}（为什么我就这么难把视线从你屁股上移开，Sam？）{/i}"
 
 # game/logic/events/samantha.rpy:2138
 translate chinese Samantha_13_label_31f8224a:
 
     # ch_Name "{i}(It's driving me crazy...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我快疯了。。。）{/i}"
 
 # game/logic/events/samantha.rpy:2139
 translate chinese Samantha_13_label_8d79d64f:
 
     # ch_Name "{i}(Her skin is so firm and smooth...){/i}"
-    ch_Name ""
+    ch_Name "{i}（她的皮肤又紧又滑。）{/i}"
 
 # game/logic/events/samantha.rpy:2140
 translate chinese Samantha_13_label_5030d6d8_1:
 
     # ch_Name "{i}(That feels sooo great!){/i}"
-    ch_Name ""
+    ch_Name "{i}（感觉太棒了！）{/i}"
 
 # game/logic/events/samantha.rpy:2142
 translate chinese Samantha_13_label_a0bc6c06:
 
     # ch_Name "{i}(Okay, I really need to get some sleep now.){/i}"
-    ch_Name ""
+    ch_Name "{i}（好吧，我现在真的需要睡觉了。）{/i}"
 
 # game/logic/events/samantha.rpy:2143
 translate chinese Samantha_13_label_16c04c5b:
 
     # ch_Name "{i}(I have to wake up early tomorrow, as always.){/i}"
-    ch_Name ""
+    ch_Name "{i}（和往常一样，我明天得早起。）{/i}"
 
 # game/logic/events/samantha.rpy:2144
 translate chinese Samantha_13_label_386d2869:
 
     # ch_Name "{i}(And I'm so tired to suffer from lack of sleep...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我太累了，饱受睡眠不足之苦。。。）{/i}"
 
 # game/logic/events/samantha.rpy:2146
 translate chinese Samantha_13_label_904364e3:
 
     # ch_Name "{i}(She is looking so peaceful.){/i}"
-    ch_Name ""
+    ch_Name "{i}（她看起来很平静。）{/i}"
 
 # game/logic/events/samantha.rpy:2147
 translate chinese Samantha_13_label_175183c8:
 
     # ch_Name "{i}(I'm starting to get sleepy...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我开始犯困了。。。）{/i}"
 
 # game/logic/events/samantha.rpy:2148
 translate chinese Samantha_13_label_bf902383:
 
     # ch_Name "{i}(Even without any distressing thought...){/i}"
-    ch_Name ""
+    ch_Name "{i}（即使没有任何痛苦的想法。。。）{/i}"
 
 # game/logic/events/samantha.rpy:2151
 translate chinese Samantha_13_label_5ee1b371:
 
     # ch_Name "{i}(But I hope she's not cold.){/i}"
-    ch_Name ""
+    ch_Name "{i}（但我希望她不会冷。）{/i}"
 
 # game/logic/events/samantha.rpy:2152
 translate chinese Samantha_13_label_8e45970b:
 
     # ch_Name "{i}(Maybe it's better to cover her with the blanket.){/i}"
-    ch_Name ""
+    ch_Name "{i}（也许用毯子盖住她会更好。）{/i}"
 
 # game/logic/events/samantha.rpy:2154
 translate chinese Samantha_13_label_81a9e84f:
 
     # ch_Name "{i}(Eh... I have to wake up early tomorrow, as always.){/i}"
-    ch_Name ""
+    ch_Name "{i}（呃。。。和往常一样，我明天得早起。）{/i}"
 
 # game/logic/events/samantha.rpy:2155
 translate chinese Samantha_13_label_72ae6df0:
 
     # ch_Name "{i}(I should try to get some sleep, there is no other way.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我应该试着睡一会儿，别无他法。）{/i}"
 
 # game/logic/events/samantha.rpy:2156
 translate chinese Samantha_13_label_67889b10:
 
     # ch_Name "{i}(And what can be better than falling asleep while listening to the sound of a beautiful girl's breathing?){/i}"
-    ch_Name ""
+    ch_Name "{i}（还有什么比边听着一个美丽女孩的呼吸声边睡着更好的呢？）{/i}"
 
 # game/logic/events/samantha.rpy:2169
 translate chinese Samantha_13_label_dffae693:
 
     # ch_Name "Sam..."
-    ch_Name ""
+    ch_Name "Sam。。。"
 
 # game/logic/events/samantha.rpy:2170
 translate chinese Samantha_13_label_75c8e67d:
 
     # ch_Name "Samantha?"
-    ch_Name ""
+    ch_Name "Samantha？"
 
 # game/logic/events/samantha.rpy:2171
 translate chinese Samantha_13_label_fee6e039:
 
     # ch_Name "{i}(Did she leave?){/i}"
-    ch_Name ""
+    ch_Name "{i}（她离开了吗？）{/i}"
 
 # game/logic/events/samantha.rpy:2172
 translate chinese Samantha_13_label_1a4a768c:
 
     # ch_Name "{i}(It seems so.){/i}"
-    ch_Name ""
+    ch_Name "{i}（似乎如此。）{/i}"
 
 # game/logic/events/samantha.rpy:2173
 translate chinese Samantha_13_label_ced1e917:
 
     # ch_Name "{i}(Okay, that's not a big deal.){/i}"
-    ch_Name ""
+    ch_Name "{i}（好吧，这没什么大不了的。）{/i}"
 
 # game/logic/events/samantha.rpy:2174
 translate chinese Samantha_13_label_8b6d5d7c:
 
     # ch_Name "{i}(But I can't deny that waking up all alone is very sad.){/i}"
-    ch_Name ""
+    ch_Name "{i}（但我不能否认，独自醒来是很悲伤的。）{/i}"
 
 translate chinese strings:
 
     # game/logic/events/samantha.rpy:16
     old "8 Talk to Samantha"
-    new ""
+    new "8和Samantha谈谈"
 
     # game/logic/events/samantha.rpy:2115
     old "Touch her butt"
-    new ""
+    new "抚摸她的屁股"
 
     # game/logic/events/samantha.rpy:2115
     old "Try to fall asleep"
-    new ""
+    new "试着入睡"
 
