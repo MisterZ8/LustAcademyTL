@@ -8061,7 +8061,7 @@ translate chinese Haley_14_label_a36128d6:
 # game/logic/events/haley.rpy:2444
 translate chinese Haley_15_label_from_gallery_b6ce45a5:
 
-    # NoName "Knock-Knock"
+    # NoName "咚咚"
     NoName "咚咚-咚咚"
 
 # game/logic/events/haley.rpy:2447
@@ -8085,7 +8085,7 @@ translate chinese Haley_15_label_from_gallery_18f70610:
 # game/logic/events/haley.rpy:2452
 translate chinese Haley_15_label_from_gallery_b6ce45a5_1:
 
-    # NoName "Knock-Knock"
+    # NoName "咚咚"
     NoName "咚咚-咚咚"
 
 # game/logic/events/haley.rpy:2454
@@ -11320,1759 +11320,1759 @@ translate chinese strings:
 translate chinese Haley_3_label_ingore_mollys_ass_01f64327:
 
     # Haley "Not the kind of guy who would sit with a girl in a cafe and think about eternal things."
-    Haley ""
+    Haley "他不是那种会和女孩坐在咖啡馆里思考永恒的事情的人。"
 
 # game/logic/events/haley.rpy:553
 translate chinese Haley_3_label_mtp_1_818fe50d:
 
     # Haley "I'm sorry, I was so focused on Victoria's assignment, I spaced out a little."
-    Haley ""
+    Haley "抱歉，我太专注于Victoria的任务了，有点心不在焉。"
 
 # game/logic/events/haley.rpy:608
 translate chinese Haley_4_label_a164abe7:
 
     # Haley "My potion book was dipped in ink last night by pixies."
-    Haley ""
+    Haley "我的魔药书昨晚被小精灵蘸了墨水。"
 
 # game/logic/events/haley.rpy:623
 translate chinese Haley_4_label_163765b8:
 
     # Haley "...like a knight on a white horse! Just like in the fairy tales!"
-    Haley ""
+    Haley "。。。就像骑在白马上的骑士！就像童话故事一样！"
 
 # game/logic/events/haley.rpy:726
 translate chinese Haley_6_label_ee91cb23:
 
     # ch_Name "Of course, it did!"
-    ch_Name ""
+    ch_Name "当然了！"
 
 # game/logic/events/haley.rpy:740
 translate chinese Haley_6_label_9990b578:
 
     # ch_Name "Be careful with it."
-    ch_Name ""
+    ch_Name "要小心。"
 
 # game/logic/events/haley.rpy:751
 translate chinese Haley_6_label_c2a61afd:
 
     # Haley "Of course, I'm kidding!"
-    Haley ""
+    Haley "当然，我开玩笑的！"
 
 # game/logic/events/haley.rpy:778
 translate chinese Haley_7_label_1454a5d5:
 
     # Haley "Of course, we do! She's a legend!"
-    Haley ""
+    Haley "当然，我们有！她是一个传奇！"
 
 # game/logic/events/haley.rpy:787
 translate chinese Haley_7_label_75099176:
 
     # Haley "I stumbled across something interesting in my potions textbook..."
-    Haley ""
+    Haley "我在我的魔药课本上偶然发现了一些有趣的东西。。。"
 
 # game/logic/events/haley.rpy:1145
 translate chinese haley_8_label_5c06e6f7:
 
     # Haley "[Name]! Of course, not!"
-    Haley ""
+    Haley "[Name]！当然，并不是！"
 
 # game/logic/events/haley.rpy:1256
 translate chinese haley_9_label_14fc47df:
 
     # Elijah "Oh, guys. It's not that easy to trade a book. Pixies steal them all the time!"
-    Elijah ""
+    Elijah "哦，伙计们。交换一本书并不容易。小精灵总是偷它们！"
 
 # game/logic/events/haley.rpy:1279
 translate chinese haley_9_label_625347bb:
 
     # Elijah "This book is five years old, I was still in high school."
-    Elijah ""
+    Elijah "这本书已经写了5年了，那时我还在上高中。"
 
 # game/logic/events/haley.rpy:1415
 translate chinese Haley_11_label_3f0345ef:
 
     # ch_Name "{i}(What do I do? Maybe some practice? Nah...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我该怎么办？也许一些练习？不。。。）{/i}"
 
 # game/logic/events/haley.rpy:1431
 translate chinese Haley_11_label_2bf7cb19:
 
     # Haley "Joshi would probably tell everyone if he found out."
-    Haley ""
+    Haley "如果Joshi知道了，他可能会告诉所有人。"
 
 # game/logic/events/haley.rpy:1590
 translate chinese haley_11_label_84_de757159:
 
     # ch_Name "Of course, it is!"
-    ch_Name ""
+    ch_Name "当然是！"
 
 # game/logic/events/haley.rpy:1649
 translate chinese Haley_12_label_a88ea113:
 
     # Amelie "Judging by my notes on Pascal Lovegood's \"Let the sphere burn!\"..."
-    Amelie ""
+    Amelie "从我对Pascal Lovegood的“让球体燃烧！”的笔记来看。。。"
 
 # game/logic/events/haley.rpy:1650
 translate chinese Haley_12_label_21216717:
 
     # Amelie "...there's plenty of information here."
-    Amelie ""
+    Amelie "。。。这里有很多信息。"
 
 # game/logic/events/haley.rpy:2026
 translate chinese Angels_1_label_a6b10898:
 
     # ch_Name "Of course, I was, but not that much as you."
-    ch_Name ""
+    ch_Name "我当然是，但没你那么厉害。"
 
 # game/logic/events/haley.rpy:2606
 translate chinese Haley_15_label_from_gallery_5b89d1d0:
 
     # ch_Name "{i}(I should probably get downstairs and have a cup of coffee.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我应该下楼去喝杯咖啡。）{/i}"
 
 # game/logic/events/haley.rpy:3184
 translate chinese CF_Haley_4_label_f6981770:
 
     # Haley "And her Lustagram..."
-    Haley ""
+    Haley "和她Lustagram。。。"
 
 # game/logic/events/haley.rpy:3233
 translate chinese Haley_17_label_d47c68ae:
 
     # ch_Name "Hey, Gordon!"
-    ch_Name ""
+    ch_Name "嘿，Gordon！"
 
 # game/logic/events/haley.rpy:3234
 translate chinese Haley_17_label_842a1a78:
 
     # Gordon "Hello! Come to work, hmm?"
-    Gordon ""
+    Gordon "你好！来工作吧？"
 
 # game/logic/events/haley.rpy:3235
 translate chinese Haley_17_label_687d6401:
 
     # ch_Name "Not now, but maybe a little bit later."
-    ch_Name ""
+    ch_Name "现在不行，过一会儿再说吧。"
 
 # game/logic/events/haley.rpy:3237
 translate chinese Haley_17_label_2b767165:
 
     # Gordon "Well, what do you want then?"
-    Gordon ""
+    Gordon "那你想要什么？"
 
 # game/logic/events/haley.rpy:3238
 translate chinese Haley_17_label_a85978b0:
 
     # ch_Name "I'm looking for some ingredients for my potion."
-    ch_Name ""
+    ch_Name "我在找我的药剂的配料。"
 
 # game/logic/events/haley.rpy:3239
 translate chinese Haley_17_label_d9dcc682:
 
     # ch_Name "Can you help me with that, mister?"
-    ch_Name ""
+    ch_Name "你能帮我吗，先生？"
 
 # game/logic/events/haley.rpy:3240
 translate chinese Haley_17_label_a4cc7c5c:
 
     # Gordon "It depends on what you need."
-    Gordon ""
+    Gordon "这取决于你需要什么。"
 
 # game/logic/events/haley.rpy:3241
 translate chinese Haley_17_label_be7cd22d:
 
     # ch_Name "A handful of solar dust, crushed dragon skin and fresh Edelweiss petals."
-    ch_Name ""
+    ch_Name "一把太阳尘，压碎的龙皮和新鲜的雪绒花花瓣。"
 
 # game/logic/events/haley.rpy:3242
 translate chinese Haley_17_label_6440db05:
 
     # Gordon "No-no-no. I can't help you with that."
-    Gordon ""
+    Gordon "不不不。我帮不了你。"
 
 # game/logic/events/haley.rpy:3244
 translate chinese Haley_17_label_4459e8fd:
 
     # Gordon "You better go and ask Willow."
-    Gordon ""
+    Gordon "你最好去问问Willow。"
 
 # game/logic/events/haley.rpy:3245
 translate chinese Haley_17_label_8b75b03e:
 
     # ch_Name "Okay, I get it."
-    ch_Name ""
+    ch_Name "好吧，我懂了。"
 
 # game/logic/events/haley.rpy:3247
 translate chinese Haley_17_label_35dd39ac:
 
     # Willow "[Name]!"
-    Willow ""
+    Willow "[Name]！"
 
 # game/logic/events/haley.rpy:3248
 translate chinese Haley_17_label_3f078692:
 
     # ch_Name "I'm here!"
-    ch_Name ""
+    ch_Name "我在这里！"
 
 # game/logic/events/haley.rpy:3250
 translate chinese Haley_17_label_e6c003b1:
 
     # Willow "Do you need some magical ingredients? "
-    Willow ""
+    Willow "你需要一些神奇的配料吗？"
 
 # game/logic/events/haley.rpy:3251
 translate chinese Haley_17_label_181a9c2b:
 
     # ch_Name "Exactly!"
-    ch_Name ""
+    ch_Name "完全正确！"
 
 # game/logic/events/haley.rpy:3252
 translate chinese Haley_17_label_a574b42b:
 
     # Willow "What do you need?"
-    Willow ""
+    Willow "你需要什么？"
 
 # game/logic/events/haley.rpy:3254
 translate chinese Haley_17_label_be7cd22d_1:
 
     # ch_Name "A handful of solar dust, crushed dragon skin and fresh Edelweiss petals."
-    ch_Name ""
+    ch_Name "一把太阳尘，压碎的龙皮和新鲜的雪绒花花瓣。"
 
 # game/logic/events/haley.rpy:3255
 translate chinese Haley_17_label_e388b7da:
 
     # ch_Name "Soo...?"
-    ch_Name ""
+    ch_Name "所以。。。？"
 
 # game/logic/events/haley.rpy:3257
 translate chinese Haley_17_label_57b60061:
 
     # Willow "That's impossible, [Name]!"
-    Willow ""
+    Willow "这是不可能的，[Name]！"
 
 # game/logic/events/haley.rpy:3258
 translate chinese Haley_17_label_3c190002:
 
     # Willow "Even if I really want to help you, I can't."
-    Willow ""
+    Willow "就算我真的想帮你，我也帮不了你。"
 
 # game/logic/events/haley.rpy:3259
 translate chinese Haley_17_label_be31ce93:
 
     # ch_Name "But why?"
-    ch_Name ""
+    ch_Name "但是为什么呢？"
 
 # game/logic/events/haley.rpy:3260
 translate chinese Haley_17_label_f829bf34:
 
     # ch_Name "I'll pay, surely."
-    ch_Name ""
+    ch_Name "我将支付，当然。"
 
 # game/logic/events/haley.rpy:3261
 translate chinese Haley_17_label_2dacf8e2:
 
     # Willow "I might get lucky enough to find some solar dust and dragon skin..."
-    Willow ""
+    Willow "我可能会幸运地找到一些太阳尘埃和龙皮。。。"
 
 # game/logic/events/haley.rpy:3263
 translate chinese Haley_17_label_8fc97e23:
 
     # Willow "But fresh Edelweiss petals..."
-    Willow ""
+    Willow "但新鲜的雪绒花花瓣。。。"
 
 # game/logic/events/haley.rpy:3264
 translate chinese Haley_17_label_89b1a149:
 
     # Willow "those I haven't seen them for ages."
-    Willow ""
+    Willow "那些我已经很久没见过了。"
 
 # game/logic/events/haley.rpy:3265
 translate chinese Haley_17_label_e109896c:
 
     # Willow "It's crazy!"
-    Willow ""
+    Willow "这太疯狂了！"
 
 # game/logic/events/haley.rpy:3266
 translate chinese Haley_17_label_fff54076:
 
     # ch_Name "But Willow, can you try?"
-    ch_Name ""
+    ch_Name "但是Willow，你能试试吗？"
 
 # game/logic/events/haley.rpy:3268
 translate chinese Haley_17_label_4ba57abc:
 
     # ch_Name "Please, honey!"
-    ch_Name ""
+    ch_Name "请，亲爱的！"
 
 # game/logic/events/haley.rpy:3269
 translate chinese Haley_17_label_09fc13c8:
 
     # ch_Name "This is really important."
-    ch_Name ""
+    ch_Name "这真的很重要。"
 
 # game/logic/events/haley.rpy:3270
 translate chinese Haley_17_label_b0377d12:
 
     # ch_Name "Not just for me, but for other people as well."
-    ch_Name ""
+    ch_Name "不仅对我，对其他人也一样。"
 
 # game/logic/events/haley.rpy:3271
 translate chinese Haley_17_label_49c4f055:
 
     # ch_Name "You can help save someone's life!"
-    ch_Name ""
+    ch_Name "你可以帮助拯救别人的生命！"
 
 # game/logic/events/haley.rpy:3273
 translate chinese Haley_17_label_c922c0af:
 
     # ch_Name "Besides I can't think of anyone else more capable, I don't think anyone else can help."
-    ch_Name ""
+    ch_Name "除此之外，我想不出还有谁比你更有能力，我想也没有人能帮上忙。"
 
 # game/logic/events/haley.rpy:3274
 translate chinese Haley_17_label_d32943c7:
 
     # Willow "Okay, enough sweet-talking."
-    Willow ""
+    Willow "好的，足够的甜言蜜语。"
 
 # game/logic/events/haley.rpy:3275
 translate chinese Haley_17_label_ecfebd8e:
 
     # Willow "I will try."
-    Willow ""
+    Willow "我将试一试。"
 
 # game/logic/events/haley.rpy:3276
 translate chinese Haley_17_label_5a632ce8:
 
     # Willow "But money alone isn't enough."
-    Willow ""
+    Willow "但是光有钱是不够的。"
 
 # game/logic/events/haley.rpy:3277
 translate chinese Haley_17_label_e12461f4:
 
     # ch_Name "What do you want, Willow?"
-    ch_Name ""
+    ch_Name "你想要什么，Willow？"
 
 # game/logic/events/haley.rpy:3278
 translate chinese Haley_17_label_791218da:
 
     # ch_Name "I'll pay more to make it worth your time."
-    ch_Name ""
+    ch_Name "我会付你更多的钱，让你值得花时间。"
 
 # game/logic/events/haley.rpy:3279
 translate chinese Haley_17_label_d4e202f4:
 
     # Willow "No, no, it's not about the money. I want something else."
-    Willow ""
+    Willow "不，不，这不是钱的问题。我想要别的东西。"
 
 # game/logic/events/haley.rpy:3281
 translate chinese Haley_17_label_e5f9be50:
 
     # ch_Name "Something else?"
-    ch_Name ""
+    ch_Name "别的吗？"
 
 # game/logic/events/haley.rpy:3282
 translate chinese Haley_17_label_1edc38c1:
 
     # ch_Name "Like what?"
-    ch_Name ""
+    ch_Name "像什么？"
 
 # game/logic/events/haley.rpy:3283
 translate chinese Haley_17_label_349044b0:
 
     # Willow "I'm not sure, that's why I asked you..."
-    Willow ""
+    Willow "我不确定，所以我才问你。。。"
 
 # game/logic/events/haley.rpy:3284
 translate chinese Haley_17_label_87a5c22f:
 
     # Willow "Do you have any suggestions?"
-    Willow ""
+    Willow "你有什么建议吗？"
 
 # game/logic/events/haley.rpy:3285
 translate chinese Haley_17_label_d2a0a33f:
 
     # ch_Name "Hmmmmm."
-    ch_Name ""
+    ch_Name "嗯。。。"
 
 # game/logic/events/haley.rpy:3287
 translate chinese Haley_17_label_aba7cc38:
 
     # ch_Name "Maybe you can do it in exchange..."
-    ch_Name ""
+    ch_Name "也许你可以这样做作为交换。。。"
 
 # game/logic/events/haley.rpy:3288
 translate chinese Haley_17_label_ff062b35:
 
     # ch_Name "...for a kiss?"
-    ch_Name ""
+    ch_Name "。。。一个吻吗？"
 
 # game/logic/events/haley.rpy:3289
 translate chinese Haley_17_label_185f8af3:
 
     # Willow "Ha-ha-ha-ha!"
-    Willow ""
+    Willow "哈哈哈哈！"
 
 # game/logic/events/haley.rpy:3291
 translate chinese Haley_17_label_a3f5af1b:
 
     # Willow "For a kiss! With you?"
-    Willow ""
+    Willow "一个吻！与你吗？"
 
 # game/logic/events/haley.rpy:3292
 translate chinese Haley_17_label_181a9c2b_1:
 
     # ch_Name "Exactly!"
-    ch_Name ""
+    ch_Name "完全正确！"
 
 # game/logic/events/haley.rpy:3293
 translate chinese Haley_17_label_d6a59c5b:
 
     # ch_Name "You'd be surprised."
-    ch_Name ""
+    ch_Name "你会惊讶的。"
 
 # game/logic/events/haley.rpy:3294
 translate chinese Haley_17_label_a835b898:
 
     # Willow "And what's so special about your kisses?"
-    Willow ""
+    Willow "你的吻有什么特别的？"
 
 # game/logic/events/haley.rpy:3295
 translate chinese Haley_17_label_d2f5b262:
 
     # ch_Name "You won't know if you don't try."
-    ch_Name ""
+    ch_Name "如果你不尝试，你就不会知道。"
 
 # game/logic/events/haley.rpy:3297
 translate chinese Haley_17_label_e8d414cb:
 
     # Willow "You intrigue me, [Name]."
-    Willow ""
+    Willow "你迷惑了我，[Name]。"
 
 # game/logic/events/haley.rpy:3298
 translate chinese Haley_17_label_72ab4b64:
 
     # ch_Name "So, what do you think?"
-    ch_Name ""
+    ch_Name "你觉得怎么样？"
 
 # game/logic/events/haley.rpy:3299
 translate chinese Haley_17_label_0972e2d4:
 
     # Willow "Okay, I'm in."
-    Willow ""
+    Willow "好的，我在。"
 
 # game/logic/events/haley.rpy:3301
 translate chinese Haley_17_label_6156786c:
 
     # Willow "But don't try and deny that you want this... maybe even more than I do."
-    Willow ""
+    Willow "但不要否认你想要这个。。。也许比我更爱你。"
 
 # game/logic/events/haley.rpy:3302
 translate chinese Haley_17_label_3279c0cd:
 
     # ch_Name "Let's mix business with a little pleasure."
-    ch_Name ""
+    ch_Name "我们把工作和娱乐混在一起吧。"
 
 # game/logic/events/haley.rpy:3303
 translate chinese Haley_17_label_9e02842e:
 
     # ch_Name "No need to make this harder than it has to be."
-    ch_Name ""
+    ch_Name "没必要把事情搞得更复杂。"
 
 # game/logic/events/haley.rpy:3305
 translate chinese Haley_17_label_019c6103:
 
     # Willow "Ohh!"
-    Willow ""
+    Willow "哦！"
 
 # game/logic/events/haley.rpy:3306
 translate chinese Haley_17_label_921c4921:
 
     # Willow "Mmmm!"
-    Willow ""
+    Willow "嗯！"
 
 # game/logic/events/haley.rpy:3307
 translate chinese Haley_17_label_06921174:
 
     # ch_Name "I like how your lips taste..."
-    ch_Name ""
+    ch_Name "我喜欢你嘴唇的味道。。。"
 
 # game/logic/events/haley.rpy:3308
 translate chinese Haley_17_label_36934de5:
 
     # ch_Name "Oww!"
-    ch_Name ""
+    ch_Name "嗷！"
 
 # game/logic/events/haley.rpy:3310
 translate chinese Haley_17_label_9a25fdca:
 
     # ch_Name "Are you biting?!"
-    ch_Name ""
+    ch_Name "你咬吗？！"
 
 # game/logic/events/haley.rpy:3311
 translate chinese Haley_17_label_c60697df:
 
     # ch_Name "I wasn't expecting that!"
-    ch_Name ""
+    ch_Name "我没想到会这样！"
 
 # game/logic/events/haley.rpy:3312
 translate chinese Haley_17_label_abfb9c60:
 
     # Willow "I like how it adds a little bit more excitement."
-    Willow ""
+    Willow "我喜欢它能增加一点刺激。"
 
 # game/logic/events/haley.rpy:3314
 translate chinese Haley_17_label_0860433e:
 
     # Willow "And you have very soft lips."
-    Willow ""
+    Willow "你的嘴唇很柔软。"
 
 # game/logic/events/haley.rpy:3315
 translate chinese Haley_17_label_9d864051:
 
     # Willow "It would be a sin not to bite them."
-    Willow ""
+    Willow "不咬他们是一种罪过。"
 
 # game/logic/events/haley.rpy:3316
 translate chinese Haley_17_label_438c82cd:
 
     # ch_Name "You're such a little devil!"
-    ch_Name ""
+    ch_Name "你真是个小魔鬼！"
 
 # game/logic/events/haley.rpy:3318
 translate chinese Haley_17_label_ef24b776:
 
     # Willow "You kiss pretty well for a human, I should admit."
-    Willow ""
+    Willow "我得承认，作为一个人类，你吻得很好。"
 
 # game/logic/events/haley.rpy:3319
 translate chinese Haley_17_label_5b26624c:
 
     # ch_Name "Oh, thanks!"
-    ch_Name ""
+    ch_Name "哦，谢谢！"
 
 # game/logic/events/haley.rpy:3320
 translate chinese Haley_17_label_540d4205:
 
     # Willow "Okay, this is all very fascinating..."
-    Willow ""
+    Willow "好吧，这些都很吸引人。。。"
 
 # game/logic/events/haley.rpy:3322
 translate chinese Haley_17_label_801f4d46:
 
     # Willow "But I need to get back to work."
-    Willow ""
+    Willow "但我得回去工作了。"
 
 # game/logic/events/haley.rpy:3323
 translate chinese Haley_17_label_c7c4cb92:
 
     # ch_Name "You what...? What about our deal?"
-    ch_Name ""
+    ch_Name "你什么。。。？那我们的协议呢？"
 
 # game/logic/events/haley.rpy:3324
 translate chinese Haley_17_label_525af4a8:
 
     # Willow "He-he-he."
-    Willow ""
+    Willow "他-他-他。"
 
 # game/logic/events/haley.rpy:3325
 translate chinese Haley_17_label_9d137df1:
 
     # Willow "I'm just messing with you."
-    Willow ""
+    Willow "我只是在逗你玩。"
 
 # game/logic/events/haley.rpy:3327
 translate chinese Haley_17_label_482cd62d:
 
     # Willow "Wait here."
-    Willow ""
+    Willow "在这儿等着。"
 
 # game/logic/events/haley.rpy:3328
 translate chinese Haley_17_label_b1fec1f2:
 
     # Willow "And don't touch anything."
-    Willow ""
+    Willow "别碰任何东西。"
 
 # game/logic/events/haley.rpy:3330
 translate chinese Haley_17_label_e2807538:
 
     # Willow "I'll be right back."
-    Willow ""
+    Willow "我马上就回来。"
 
 # game/logic/events/haley.rpy:3331
 translate chinese Haley_17_label_f08b5445:
 
     # ch_Name "Alright... be careful!"
-    ch_Name ""
+    ch_Name "好吧。。。小心！"
 
 # game/logic/events/haley.rpy:3333
 translate chinese Haley_17_label_60a3121a:
 
     # Willow "Hmm."
-    Willow ""
+    Willow "嗯。"
 
 # game/logic/events/haley.rpy:3335
 translate chinese Haley_17_label_2e27a77a:
 
     # ch_Name "{i}(Hope she can pull it off.){/i}"
-    ch_Name ""
+    ch_Name "{i}（希望她能成功。）{/i}"
 
 # game/logic/events/haley.rpy:3336
 translate chinese Haley_17_label_a5297357:
 
     # ch_Name "{i}(There is no plan B.){/i}"
-    ch_Name ""
+    ch_Name "{i}（没有备用计划。）{/i}"
 
 # game/logic/events/haley.rpy:3337
 translate chinese Haley_17_label_ff0872f8:
 
     # ch_Name "{i}(God!){/i}"
-    ch_Name ""
+    ch_Name "{i}（上帝！）{/i}"
 
 # game/logic/events/haley.rpy:3338
 translate chinese Haley_17_label_079c5233:
 
     # ch_Name "{i}(Now this is when I start to get nervous.){/i}"
-    ch_Name ""
+    ch_Name "{i}（现在我开始紧张了。）{/i}"
 
 # game/logic/events/haley.rpy:3340
 translate chinese Haley_17_label_8635f5be:
 
     # ch_Name "{i}(Pam-pam-pam!){/i}"
-    ch_Name ""
+    ch_Name "{i}（啪啪啪 ！）{/i}"
 
 # game/logic/events/haley.rpy:3341
 translate chinese Haley_17_label_7e876767:
 
     # ch_Name "{i}(She's taking a long time.){/i}"
-    ch_Name ""
+    ch_Name "{i}（她花了很长时间。）{/i}"
 
 # game/logic/events/haley.rpy:3342
 translate chinese Haley_17_label_8892a571:
 
     # ch_Name "{i}(Maybe something went wrong?){/i}"
-    ch_Name ""
+    ch_Name "{i}（也许出了什么问题？）{/i}"
 
 # game/logic/events/haley.rpy:3344
 translate chinese Haley_17_label_62d0506d:
 
     # Willow "Phew!"
-    Willow ""
+    Willow "唷！"
 
 # game/logic/events/haley.rpy:3345
 translate chinese Haley_17_label_c1e4731f:
 
     # Willow "I feel alive again, finally."
-    Willow ""
+    Willow "我终于觉得自己又活过来了。"
 
 # game/logic/events/haley.rpy:3346
 translate chinese Haley_17_label_cd849f21:
 
     # ch_Name "Any luck?"
-    ch_Name ""
+    ch_Name "运气吗？"
 
 # game/logic/events/haley.rpy:3348
 translate chinese Haley_17_label_d02ad890:
 
     # Willow "Here you go."
-    Willow ""
+    Willow "给你。"
 
 # game/logic/events/haley.rpy:3349
 translate chinese Haley_17_label_fd8f5a4e:
 
     # ch_Name "Woooooow!"
-    ch_Name ""
+    ch_Name "哇哇 ！"
 
 # game/logic/events/haley.rpy:3351
 translate chinese Haley_17_label_40a7c1f1:
 
     # ch_Name "You're my hero, Willow!"
-    ch_Name ""
+    ch_Name "你是我的英雄，Willow！"
 
 # game/logic/events/haley.rpy:3352
 translate chinese Haley_17_label_be461cc3:
 
     # ch_Name "You did a great job!"
-    ch_Name ""
+    ch_Name "你做得很好！"
 
 # game/logic/events/haley.rpy:3354
 translate chinese Haley_17_label_76b86346:
 
     # Willow "God, I'm soooo tired."
-    Willow ""
+    Willow "天啊，我太累了。"
 
 # game/logic/events/haley.rpy:3355
 translate chinese Haley_17_label_f50c06e3:
 
     # Willow "Do you have any food with you?"
-    Willow ""
+    Willow "你带食物了吗？"
 
 # game/logic/events/haley.rpy:3356
 translate chinese Haley_17_label_637dad97:
 
     # ch_Name "I have a carrot If you want one."
-    ch_Name ""
+    ch_Name "如果你想要的话，我有一根胡萝卜。"
 
 # game/logic/events/haley.rpy:3357
 translate chinese Haley_17_label_12568fff:
 
     # Willow "I haven't eaten anything for several days."
-    Willow ""
+    Willow "我已经好几天没吃东西了。"
 
 # game/logic/events/haley.rpy:3359
 translate chinese Haley_17_label_a5b65a7f:
 
     # ch_Name "Several days?"
-    ch_Name ""
+    ch_Name "几天？"
 
 # game/logic/events/haley.rpy:3360
 translate chinese Haley_17_label_170b35c4:
 
     # ch_Name "You've been gone for five, maybe ten minutes."
-    ch_Name ""
+    ch_Name "你才离开了五到十分钟。"
 
 # game/logic/events/haley.rpy:3361
 translate chinese Haley_17_label_54cfb4dd:
 
     # Willow "In my grove time goes on differently."
-    Willow ""
+    Willow "在我的树林里，时间是不同的。"
 
 # game/logic/events/haley.rpy:3362
 translate chinese Haley_17_label_60d251c1:
 
     # Willow "I spent nearly a week there to find your ingredients."
-    Willow ""
+    Willow "我在那里花了将近一个星期才找到你的食材。"
 
 # game/logic/events/haley.rpy:3364
 translate chinese Haley_17_label_dba1e000:
 
     # ch_Name "Willow!"
-    ch_Name ""
+    ch_Name "Willow！"
 
 # game/logic/events/haley.rpy:3365
 translate chinese Haley_17_label_4d112a71:
 
     # ch_Name "You're the sweetest thing ever!"
-    ch_Name ""
+    ch_Name "你是我遇到过最贴心的人！"
 
 # game/logic/events/haley.rpy:3366
 translate chinese Haley_17_label_81ac6c17:
 
     # ch_Name "I don't think I'll ever be able to thank you enough."
-    ch_Name ""
+    ch_Name "我想我永远都不知道该怎么感谢你。"
 
 # game/logic/events/haley.rpy:3367
 translate chinese Haley_17_label_e65b7b7b:
 
     # Willow "It's too early to tell, he-he."
-    Willow ""
+    Willow "现在说还为时过早，他-他。"
 
 # game/logic/events/haley.rpy:3369
 translate chinese Haley_17_label_f1ad236f:
 
     # Willow "Thanks for the carrot."
-    Willow ""
+    Willow "谢谢你的胡萝卜。"
 
 # game/logic/events/haley.rpy:3370
 translate chinese Haley_17_label_c3802fa6:
 
     # ch_Name "Aww, that's nothing."
-    ch_Name ""
+    ch_Name "嗷，那没什么。"
 
 # game/logic/events/haley.rpy:3371
 translate chinese Haley_17_label_e209608c:
 
     # ch_Name "Okay, I'll go."
-    ch_Name ""
+    ch_Name "好吧，我去。"
 
 # game/logic/events/haley.rpy:3373
 translate chinese Haley_17_label_9e4df313:
 
     # ch_Name "Come here, honey."
-    ch_Name ""
+    ch_Name "这儿来，亲爱的。"
 
 # game/logic/events/haley.rpy:3374
 translate chinese Haley_17_label_67676fec:
 
     # ch_Name "Thank you again!"
-    ch_Name ""
+    ch_Name "再一次感谢您！"
 
 # game/logic/events/haley.rpy:3375
 translate chinese Haley_17_label_f638b680:
 
     # Willow "Bye-bye!"
-    Willow ""
+    Willow "再见！"
 
 # game/logic/events/haley.rpy:3384
 translate chinese Haley_17_label_dad51014:
 
     # ch_Name "{i}(Well, now that it's done, I have some spare time.){/i}"
-    ch_Name ""
+    ch_Name "{i}（现在做完了，我有点空闲时间了。）{/i}"
 
 # game/logic/events/haley.rpy:3385
 translate chinese Haley_17_label_04b411c8:
 
     # ch_Name "{i}(And I surely want to go to Lady Luck later in the evening.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我今晚一定要去看幸运女神。）{/i}"
 
 # game/logic/events/haley.rpy:3386
 translate chinese Haley_17_label_4188200b:
 
     # ch_Name "{i}(Oh, I know! I should get some coffee.){/i}"
-    ch_Name ""
+    ch_Name "{i}（哦，我知道！我应该去喝点咖啡。）{/i}"
 
 # game/logic/events/haley.rpy:3388
 translate chinese Haley_17_label_39c50506:
 
     # ch_Name "{i}(Nothing makes the day better than a cup of Ahchi's coffee.){/i}"
-    ch_Name ""
+    ch_Name "{i}（没有什么比一杯Ahchi的咖啡更能让这一天变得美好的了。）{/i}"
 
 # game/logic/events/haley.rpy:3389
 translate chinese Haley_17_label_bda7f7fd:
 
     # ch_Name "{i}(And I'm sure I'll find some company to drink it with.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我肯定能找到人陪我一起喝。）{/i}"
 
 # game/logic/events/haley.rpy:3393
 translate chinese Haley_17_label_b2d25e4f:
 
     # ch_Name "{i}(Ah, I can already smell delicious arabica!){/i}"
-    ch_Name ""
+    ch_Name "{i}（我已经能闻到美味的阿拉比卡咖啡了！）{/i}"
 
 # game/logic/events/haley.rpy:3394
 translate chinese Haley_17_label_e33542ee:
 
     # ch_Name "{i}(What a pleasure!){/i}"
-    ch_Name ""
+    ch_Name "{i}（多么快乐！）{/i}"
 
 # game/logic/events/haley.rpy:3399
 translate chinese Haley_18_label_b4c8c248:
 
     # NoName "Ring-ring..."
-    NoName ""
+    NoName "叮叮。。。"
 
 # game/logic/events/haley.rpy:3400
 translate chinese Haley_18_label_df1c22ff:
 
     # ch_Name "{i}(Hmm, someone's calling me.){/i}"
-    ch_Name ""
+    ch_Name "{i}（嗯，有人打电话给我。）{/i}"
 
 # game/logic/events/haley.rpy:3402
 translate chinese Haley_18_label_960956ac:
 
     # ch_Name "Haley?"
-    ch_Name ""
+    ch_Name "Haley？"
 
 # game/logic/events/haley.rpy:3403
 translate chinese Haley_18_label_3f81266e:
 
     # Haley "Hello, [Name]!"
-    Haley ""
+    Haley "你好，[Name]！"
 
 # game/logic/events/haley.rpy:3404
 translate chinese Haley_18_label_2d29513b:
 
     # ch_Name "It's nice to hear your voice!"
-    ch_Name ""
+    ch_Name "听到你的声音真高兴！"
 
 # game/logic/events/haley.rpy:3405
 translate chinese Haley_18_label_a165e506:
 
     # Haley "You sound sleepy."
-    Haley ""
+    Haley "你听起来昏昏欲睡。"
 
 # game/logic/events/haley.rpy:3406
 translate chinese Haley_18_label_1aa1c4e4:
 
     # Haley "Sorry if I woke you up."
-    Haley ""
+    Haley "抱歉吵醒你了。"
 
 # game/logic/events/haley.rpy:3407
 translate chinese Haley_18_label_4c06826e:
 
     # ch_Name "No, no... that's okay."
-    ch_Name ""
+    ch_Name "不，不。。。没关系。"
 
 # game/logic/events/haley.rpy:3408
 translate chinese Haley_18_label_ea0255d8:
 
     # Haley "It's... I can't stop thinking about Elijah's brother, and the ritual."
-    Haley ""
+    Haley "这是。。。我一直在想Elijah的哥哥，还有那个仪式。"
 
 # game/logic/events/haley.rpy:3410
 translate chinese Haley_18_label_e8a31a8d:
 
     # Haley "I am not trying to rush you, but..."
-    Haley ""
+    Haley "我不是想催你，但是。。。"
 
 # game/logic/events/haley.rpy:3411
 translate chinese Haley_18_label_8c8d291e:
 
     # Haley "Did you manage to get all the ingredients for the ritual?"
-    Haley ""
+    Haley "你拿到仪式所需的所有材料了吗？"
 
 # game/logic/events/haley.rpy:3412
 translate chinese Haley_18_label_e0635a17:
 
     # ch_Name "Oh, Haley! Sorry, I completely forgot to tell you."
-    ch_Name ""
+    ch_Name "哦，Haley！对不起，我完全忘了告诉你。"
 
 # game/logic/events/haley.rpy:3413
 translate chinese Haley_18_label_1d0846ac:
 
     # ch_Name "I got very lucky!"
-    ch_Name ""
+    ch_Name "我很幸运！"
 
 # game/logic/events/haley.rpy:3414
 translate chinese Haley_18_label_3f2eef53:
 
     # ch_Name "I was able to get ahold of everything we needed."
-    ch_Name ""
+    ch_Name "我能弄到我们需要的所有东西。"
 
 # game/logic/events/haley.rpy:3415
 translate chinese Haley_18_label_3e0b777f:
 
     # ch_Name "The only thing we have left to do is perform the ritual."
-    ch_Name ""
+    ch_Name "我们唯一要做的就是举行仪式。"
 
 # game/logic/events/haley.rpy:3416
 translate chinese Haley_18_label_fe992e63:
 
     # Haley "Really?!"
-    Haley ""
+    Haley "真的吗？！"
 
 # game/logic/events/haley.rpy:3417
 translate chinese Haley_18_label_dc8c6395:
 
     # Haley "I'm so excited, [Name]!"
-    Haley ""
+    Haley "我太激动了，[Name]！"
 
 # game/logic/events/haley.rpy:3418
 translate chinese Haley_18_label_404e0e8e:
 
     # ch_Name "We need to celebrate it."
-    ch_Name ""
+    ch_Name "我们得庆祝一下。"
 
 # game/logic/events/haley.rpy:3420
 translate chinese Haley_18_label_caef6a1c:
 
     # ch_Name "Do you have plans for tonight?"
-    ch_Name ""
+    ch_Name "你今晚有安排吗？"
 
 # game/logic/events/haley.rpy:3421
 translate chinese Haley_18_label_1b7e60fc:
 
     # Haley "No, actually."
-    Haley ""
+    Haley "不，实际上。"
 
 # game/logic/events/haley.rpy:3422
 translate chinese Haley_18_label_256f4f06:
 
     # ch_Name "Maybe we can have our first real date... like we talked about?"
-    ch_Name ""
+    ch_Name "也许我们可以进行第一次真正的约会。。。就像我们说的？"
 
 # game/logic/events/haley.rpy:3423
 translate chinese Haley_18_label_7ee07798:
 
     # ch_Name "And now we have a reason!"
-    ch_Name ""
+    ch_Name "现在我们有理由了！"
 
 # game/logic/events/haley.rpy:3424
 translate chinese Haley_18_label_9aca9c31:
 
     # Haley "That'd be great!"
-    Haley ""
+    Haley "那就好了！"
 
 # game/logic/events/haley.rpy:3425
 translate chinese Haley_18_label_7b725f3c:
 
     # Haley "Where should we go?"
-    Haley ""
+    Haley "我们应该去哪里？"
 
 # game/logic/events/haley.rpy:3426
 translate chinese Haley_18_label_fd7f778e:
 
     # ch_Name "Let's go on a picnic!"
-    ch_Name ""
+    ch_Name "我们去野餐吧！"
 
 # game/logic/events/haley.rpy:3428
 translate chinese Haley_18_label_078393ae:
 
     # ch_Name "What do you think?"
-    ch_Name ""
+    ch_Name "你觉得呢？"
 
 # game/logic/events/haley.rpy:3429
 translate chinese Haley_18_label_5044eb69:
 
     # Haley "Picnic? Sounds awesome!"
-    Haley ""
+    Haley "野餐吗？听起来太棒了！"
 
 # game/logic/events/haley.rpy:3430
 translate chinese Haley_18_label_a2555d5c:
 
     # Haley "I hardly can wait for it."
-    Haley ""
+    Haley "我都等不及了。"
 
 # game/logic/events/haley.rpy:3431
 translate chinese Haley_18_label_ed503425:
 
     # ch_Name "So I'll pick you up tonight?"
-    ch_Name ""
+    ch_Name "那我今晚来接你？"
 
 # game/logic/events/haley.rpy:3432
 translate chinese Haley_18_label_fcdff6fd:
 
     # Haley "Okay. I'll be waiting for you."
-    Haley ""
+    Haley "好吧。我会等你的。"
 
 # game/logic/events/haley.rpy:3447
 translate chinese Haley_19_label_b6ce45a5:
 
-    # NoName "Knock-Knock"
-    NoName ""
+    # NoName "咚咚"
+    NoName "咚咚"
 
 # game/logic/events/haley.rpy:3448
 translate chinese Haley_19_label_255e8895:
 
     # ch_Name "{i}(All right, here we go.){/i}"
-    ch_Name ""
+    ch_Name "{i}（好了，开始吧。）{/i}"
 
 # game/logic/events/haley.rpy:3449
 translate chinese Haley_19_label_3a132477:
 
     # ch_Name "{i}(My palms are sweaty, and my heart is racing...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我手心冒汗，心跳加速。。。）{/i}"
 
 # game/logic/events/haley.rpy:3450
 translate chinese Haley_19_label_cff599a7:
 
     # ch_Name "{i}(What are you doing to me, Haley?){/i}"
-    ch_Name ""
+    ch_Name "{i}（你在对我做什么，Haley？）{/i}"
 
 # game/logic/events/haley.rpy:3451
 translate chinese Haley_19_label_c6beb62d:
 
     # Haley "One second, please."
-    Haley ""
+    Haley "请等一秒钟。"
 
 # game/logic/events/haley.rpy:3452
 translate chinese Haley_19_label_9454fffa:
 
     # Haley "I'm coming!"
-    Haley ""
+    Haley "我来了！"
 
 # game/logic/events/haley.rpy:3458
 translate chinese Haley_19_label_00b5e4d9:
 
     # ch_Name "Wow!"
-    ch_Name ""
+    ch_Name "我来了！"
 
 # game/logic/events/haley.rpy:3459
 translate chinese Haley_19_label_a1cbc74c:
 
     # ch_Name "I'm... um... just... wow!"
-    ch_Name ""
+    ch_Name "我。。。嗯。。。只是。。。哇！"
 
 # game/logic/events/haley.rpy:3460
 translate chinese Haley_19_label_832807a1:
 
     # ch_Name "Haley, you look... incredible!"
-    ch_Name ""
+    ch_Name "Haley，你看。。。难以置信！"
 
 # game/logic/events/haley.rpy:3462
 translate chinese Haley_19_label_1b97935e:
 
     # ch_Name "That dress is so pretty!"
-    ch_Name ""
+    ch_Name "那条裙子真漂亮！"
 
 # game/logic/events/haley.rpy:3463
 translate chinese Haley_19_label_1a6043ec:
 
     # ch_Name "This color looks really good on you."
-    ch_Name ""
+    ch_Name "你穿这种颜色很好看。"
 
 # game/logic/events/haley.rpy:3464
 translate chinese Haley_19_label_7b967ef1:
 
     # Haley "He-he-he."
-    Haley ""
+    Haley "他-他-他。"
 
 # game/logic/events/haley.rpy:3465
 translate chinese Haley_19_label_dbeb9bef:
 
     # Haley "Thank you! "
-    Haley ""
+    Haley "谢谢你！"
 
 # game/logic/events/haley.rpy:3467
 translate chinese Haley_19_label_0aeeed9f:
 
     # Haley "What do you have in the basket?"
-    Haley ""
+    Haley "你的篮子里有什么？"
 
 # game/logic/events/haley.rpy:3468
 translate chinese Haley_19_label_97c1eac8:
 
     # ch_Name "That's a little secret."
-    ch_Name ""
+    ch_Name "这是个小秘密。"
 
 # game/logic/events/haley.rpy:3469
 translate chinese Haley_19_label_cbedcd2e:
 
     # ch_Name "At least for now."
-    ch_Name ""
+    ch_Name "至少现在是这样。"
 
 # game/logic/events/haley.rpy:3470
 translate chinese Haley_19_label_83fc7f0b:
 
     # ch_Name "You'll find out in a little bit."
-    ch_Name ""
+    ch_Name "你们很快就会知道。"
 
 # game/logic/events/haley.rpy:3471
 translate chinese Haley_19_label_20c22808:
 
     # Haley "Intriguing! Okay, let's go then."
-    Haley ""
+    Haley "有趣的！好吧，那我们走吧。"
 
 # game/logic/events/haley.rpy:3473
 translate chinese Haley_19_label_20f3fe1d:
 
     # ch_Name "Mwah!"
-    ch_Name ""
+    ch_Name "Mwah!"
 
 # game/logic/events/haley.rpy:3474
 translate chinese Haley_19_label_a0a2abbb:
 
     # Haley "Ohh!"
-    Haley ""
+    Haley "哦！"
 
 # game/logic/events/haley.rpy:3475
 translate chinese Haley_19_label_36e25223:
 
     # Haley "That was sweet!"
-    Haley ""
+    Haley "这是甜蜜的！"
 
 # game/logic/events/haley.rpy:3477
 translate chinese Haley_19_label_91634caa:
 
     # ch_Name "You're sweet, Haley."
-    ch_Name ""
+    ch_Name "你是甜的，Haley。"
 
 # game/logic/events/haley.rpy:3478
 translate chinese Haley_19_label_5964e5d3:
 
     # Haley "Pheew!"
-    Haley ""
+    Haley "唷！"
 
 # game/logic/events/haley.rpy:3485
 translate chinese Haley_19_label_ac0d63e2:
 
     # Haley "There's such a different atmosphere here during the evenings."
-    Haley ""
+    Haley "晚上这里的气氛很不一样。"
 
 # game/logic/events/haley.rpy:3486
 translate chinese Haley_19_label_7a5e1d7d:
 
     # ch_Name "I'd say it's romantic... and maybe a bit more intimate."
-    ch_Name ""
+    ch_Name "我会说这很浪漫。。。也许会更亲密一些。"
 
 # game/logic/events/haley.rpy:3487
 translate chinese Haley_19_label_61dae750:
 
     # ch_Name "I just hope the angels don't decide to damage anything."
-    ch_Name ""
+    ch_Name "我只希望天使们不会破坏任何东西。"
 
 # game/logic/events/haley.rpy:3488
 translate chinese Haley_19_label_396db12c:
 
     # Haley "Ha-ha-ha, that's true."
-    Haley ""
+    Haley "哈哈哈，这是真的。"
 
 # game/logic/events/haley.rpy:3489
 translate chinese Haley_19_label_ada6f190:
 
     # ch_Name "I think they're making this date just a little more charming."
-    ch_Name ""
+    ch_Name "我觉得他们让这次约会更有魅力了。"
 
 # game/logic/events/haley.rpy:3491
 translate chinese Haley_19_label_640cb273:
 
     # Haley "Well, I couldn't say... this is all so new."
-    Haley ""
+    Haley "嗯，我不能说。。。这一切都是全新的。"
 
 # game/logic/events/haley.rpy:3492
 translate chinese Haley_19_label_5149149b:
 
     # Haley "This is my first real date..."
-    Haley ""
+    Haley "这是我第一次真正的约会。。。"
 
 # game/logic/events/haley.rpy:3493
 translate chinese Haley_19_label_f4c4a7be:
 
     # Haley "And my first time getting butterflies in my stomach."
-    Haley ""
+    Haley "这是我第一次忐忑不安。"
 
 # game/logic/events/haley.rpy:3494
 translate chinese Haley_19_label_9f107997:
 
     # ch_Name "I feel them too!"
-    ch_Name ""
+    ch_Name "我也能感觉到他们！"
 
 # game/logic/events/haley.rpy:3496
 translate chinese Haley_19_label_8dc57e52:
 
     # ch_Name "And some other emotions as well."
-    ch_Name ""
+    ch_Name "还有其他一些情绪。"
 
 # game/logic/events/haley.rpy:3497
 translate chinese Haley_19_label_bcd27df5:
 
     # ch_Name "I don't know if I can describe it but it's like..."
-    ch_Name ""
+    ch_Name "我不知道我能不能描述它，但它就像。。。"
 
 # game/logic/events/haley.rpy:3498
 translate chinese Haley_19_label_f1d85d99:
 
     # ch_Name "Joy, happiness, and a strange kind of excitement got all mixed together."
-    ch_Name ""
+    ch_Name "快乐、幸福和一种奇怪的兴奋交织在一起。"
 
 # game/logic/events/haley.rpy:3499
 translate chinese Haley_19_label_4d7bcd65:
 
     # ch_Name "But only when you're around."
-    ch_Name ""
+    ch_Name "但只有你在的时候。"
 
 # game/logic/events/haley.rpy:3500
 translate chinese Haley_19_label_0358ac6c:
 
     # Haley "Oh!"
-    Haley ""
+    Haley "哦！"
 
 # game/logic/events/haley.rpy:3501
 translate chinese Haley_19_label_c6cc3211:
 
     # ch_Name "This is new to me too... I didn't know it was possible to feel this way."
-    ch_Name ""
+    ch_Name "这对我来说也很新鲜。。。我不知道还能有这种感觉。"
 
 # game/logic/events/haley.rpy:3503
 translate chinese Haley_19_label_4b34586a:
 
     # Haley "Oh, God!"
-    Haley ""
+    Haley "哦，上帝！"
 
 # game/logic/events/haley.rpy:3504
 translate chinese Haley_19_label_80b5ed7f:
 
     # ch_Name "Fuck!"
-    ch_Name ""
+    ch_Name "他妈的！"
 
 # game/logic/events/haley.rpy:3505
 translate chinese Haley_19_label_6b7a1549:
 
     # Haley "Well... I'll never get used to how quickly they move."
-    Haley ""
+    Haley "嗯。。。我永远无法适应它们移动的速度。"
 
 # game/logic/events/haley.rpy:3507
 translate chinese Haley_19_label_5edfb9a5:
 
     # Haley "My heart nearly jumped out of my chest."
-    Haley ""
+    Haley "我的心几乎要跳出来了。"
 
 # game/logic/events/haley.rpy:3508
 translate chinese Haley_19_label_2f18f2ed:
 
     # Haley "The atmosphere is special here, but maybe we should find another place?"
-    Haley ""
+    Haley "这里的气氛很特别，但也许我们应该另找一个地方？"
 
 # game/logic/events/haley.rpy:3509
 translate chinese Haley_19_label_ac6e00c6:
 
     # Haley "Maybe one that's a little more peaceful?"
-    Haley ""
+    Haley "要不找个更安静的？"
 
 # game/logic/events/haley.rpy:3510
 translate chinese Haley_19_label_5ae94bce:
 
     # ch_Name "Hmmm... there's a lawn over there that's not too far."
-    ch_Name ""
+    ch_Name "嗯。。。那边有块草坪，不太远。"
 
 # game/logic/events/haley.rpy:3512
 translate chinese Haley_19_label_967889b2:
 
     # ch_Name "Plus, there are no angels over there. "
-    ch_Name ""
+    ch_Name "而且，那里也没有天使。"
 
 # game/logic/events/haley.rpy:3513
 translate chinese Haley_19_label_c768bf83:
 
     # Haley "That sounds perfect!"
-    Haley ""
+    Haley "这听起来完美！"
 
 # game/logic/events/haley.rpy:3514
 translate chinese Haley_19_label_8c8424be:
 
     # Haley "I'm starting to get a little hungry."
-    Haley ""
+    Haley "我有点饿了。"
 
 # game/logic/events/haley.rpy:3515
 translate chinese Haley_19_label_fedb2be9:
 
     # ch_Name "Then we need to fix that!"
-    ch_Name ""
+    ch_Name "那我们得解决这个问题！"
 
 # game/logic/events/haley.rpy:3524
 translate chinese Haley_19_label_from_gallery_07c24938:
 
     # ch_Name "Here we are."
-    ch_Name ""
+    ch_Name "我们到了。"
 
 # game/logic/events/haley.rpy:3525
 translate chinese Haley_19_label_from_gallery_5dcaafda:
 
     # Haley "Such a wonderful place for a picnic!"
-    Haley ""
+    Haley "真是个野餐的好地方！"
 
 # game/logic/events/haley.rpy:3526
 translate chinese Haley_19_label_from_gallery_b0c7ff0d:
 
     # ch_Name "Time to turn away."
-    ch_Name ""
+    ch_Name "是时候转身离开了。"
 
 # game/logic/events/haley.rpy:3527
 translate chinese Haley_19_label_from_gallery_6c2e838b:
 
     # Haley "What?!"
-    Haley ""
+    Haley "什么？！"
 
 # game/logic/events/haley.rpy:3528
 translate chinese Haley_19_label_from_gallery_4587f240:
 
     # ch_Name "No peeking until I get everything set up!"
-    ch_Name ""
+    ch_Name "在我把一切都准备好之前不许偷看！"
 
 # game/logic/events/haley.rpy:3529
 translate chinese Haley_19_label_from_gallery_cd156829:
 
     # ch_Name "Sorry, that's the rule."
-    ch_Name ""
+    ch_Name "对不起，这是规定。"
 
 # game/logic/events/haley.rpy:3531
 translate chinese Haley_19_label_from_gallery_698cf441:
 
     # Haley "Well..."
-    Haley ""
+    Haley "嗯。。。"
 
 # game/logic/events/haley.rpy:3532
 translate chinese Haley_19_label_from_gallery_dde5014d:
 
     # ch_Name "I'll be quick."
-    ch_Name ""
+    ch_Name "我要快。"
 
 # game/logic/events/haley.rpy:3533
 translate chinese Haley_19_label_from_gallery_7216038c:
 
     # ch_Name "So no peeking... okay?"
-    ch_Name ""
+    ch_Name "所以没有偷看。。。好吧？"
 
 # game/logic/events/haley.rpy:3534
 translate chinese Haley_19_label_from_gallery_3fefff43:
 
     # ch_Name "Keep your eyes shut until I say."
-    ch_Name ""
+    ch_Name "闭上眼睛，等我说。"
 
 # game/logic/events/haley.rpy:3536
 translate chinese Haley_19_label_from_gallery_82076cb0:
 
     # ch_Name "Can I trust you with that?"
-    ch_Name ""
+    ch_Name "我能相信你吗？"
 
 # game/logic/events/haley.rpy:3537
 translate chinese Haley_19_label_from_gallery_6be5f3e5:
 
     # Haley "C'mon, [Name], I'm not going to spoil your surprise."
-    Haley ""
+    Haley "拜托，[Name]，我不会破坏你的惊喜。"
 
 # game/logic/events/haley.rpy:3538
 translate chinese Haley_19_label_from_gallery_de97c222:
 
     # Haley "Take your time!"
-    Haley ""
+    Haley "把你的时间！"
 
 # game/logic/events/haley.rpy:3539
 translate chinese Haley_19_label_from_gallery_e7a556ae:
 
     # Haley "It's almost done."
-    Haley ""
+    Haley "差不多完成了。"
 
 # game/logic/events/haley.rpy:3541
 translate chinese Haley_19_label_from_gallery_797ba077:
 
     # Haley "Mmmmm!"
-    Haley ""
+    Haley "嗯！"
 
 # game/logic/events/haley.rpy:3542
 translate chinese Haley_19_label_from_gallery_8936a800:
 
     # Haley "So exciting to feel your warm breath..."
-    Haley ""
+    Haley "感觉你温暖的呼吸是如此令人兴奋。。。"
 
 # game/logic/events/haley.rpy:3543
 translate chinese Haley_19_label_from_gallery_bb3c633b:
 
     # ch_Name "The scent of your skin... "
-    ch_Name ""
+    ch_Name "你皮肤的味道。。。"
 
 # game/logic/events/haley.rpy:3544
 translate chinese Haley_19_label_from_gallery_d55f2c0d:
 
     # ch_Name "It's a turn-on, actually."
-    ch_Name ""
+    ch_Name "事实上，这很刺激。"
 
 # game/logic/events/haley.rpy:3546
 translate chinese Haley_19_label_from_gallery_f93f7439:
 
     # ch_Name "And the sweet taste of your lips..."
-    ch_Name ""
+    ch_Name "还有你唇间甜蜜的味道。。。"
 
 # game/logic/events/haley.rpy:3547
 translate chinese Haley_19_label_from_gallery_dfc2885e:
 
     # ch_Name "I missed it."
-    ch_Name ""
+    ch_Name "我错过了它。"
 
 # game/logic/events/haley.rpy:3548
 translate chinese Haley_19_label_from_gallery_c26d4416:
 
     # Haley "Mhmm..."
-    Haley ""
+    Haley "嗯。。。"
 
 # game/logic/events/haley.rpy:3549
 translate chinese Haley_19_label_from_gallery_2d203769:
 
     # ch_Name "The touch of your tongue... it's amazing!"
-    ch_Name ""
+    ch_Name "你舌头的触碰。。。这是惊人的！"
 
 # game/logic/events/haley.rpy:3551
 translate chinese Haley_19_label_from_gallery_02f69ecb:
 
     # ch_Name "I think I'm in love with you, Haley."
-    ch_Name ""
+    ch_Name "我想我爱上你了，Haley。"
 
 # game/logic/events/haley.rpy:3552
 translate chinese Haley_19_label_from_gallery_603a1e73:
 
     # Haley "I think that I feel it too..."
-    Haley ""
+    Haley "我想我也感觉到了。。。"
 
 # game/logic/events/haley.rpy:3553
 translate chinese Haley_19_label_from_gallery_8401127b:
 
     # Haley "Soo..."
-    Haley ""
+    Haley "所以。。。"
 
 # game/logic/events/haley.rpy:3555
 translate chinese Haley_19_label_from_gallery_97e3b716:
 
     # Haley "What about the picnic?"
-    Haley ""
+    Haley "野餐怎么样？"
 
 # game/logic/events/haley.rpy:3556
 translate chinese Haley_19_label_from_gallery_f18431a1:
 
     # ch_Name "Sorry, I almost forgot about it."
-    ch_Name ""
+    ch_Name "对不起，我差点忘了。"
 
 # game/logic/events/haley.rpy:3557
 translate chinese Haley_19_label_from_gallery_ed691f09:
 
     # ch_Name "I can't think about anything else whenever you're close to me."
-    ch_Name ""
+    ch_Name "只要你在我身边，我就不能想其他的事。"
 
 # game/logic/events/haley.rpy:3559
 translate chinese Haley_19_label_from_gallery_884f9d96:
 
     # ch_Name "Do you like it?"
-    ch_Name ""
+    ch_Name "你喜欢吗？"
 
 # game/logic/events/haley.rpy:3560
 translate chinese Haley_19_label_from_gallery_9aae42e1:
 
     # Haley "I'm speechless!"
-    Haley ""
+    Haley "我说不出话来！"
 
 # game/logic/events/haley.rpy:3561
 translate chinese Haley_19_label_from_gallery_36ad1fc9:
 
     # Haley "This is wonderful, [Name]!"
-    Haley ""
+    Haley "太棒了，[Name]！"
 
 # game/logic/events/haley.rpy:3562
 translate chinese Haley_19_label_from_gallery_8a1f46a1:
 
     # ch_Name "Bon appetit!"
-    ch_Name ""
+    ch_Name "好好享受你的美食吧。"
 
 # game/logic/events/haley.rpy:3564
 translate chinese Haley_19_label_from_gallery_abaa2456:
 
     # ch_Name "I didn't know which wine you'd prefer, so I took this one."
-    ch_Name ""
+    ch_Name "我不知道你更喜欢哪种酒，所以我就选了这瓶。"
 
 # game/logic/events/haley.rpy:3565
 translate chinese Haley_19_label_from_gallery_d8a4945e:
 
     # ch_Name "Hope you'll enjoy it."
-    ch_Name ""
+    ch_Name "希望你会喜欢。"
 
 # game/logic/events/haley.rpy:3566
 translate chinese Haley_19_label_from_gallery_c206fe05:
 
     # Haley "I don't really drink wine, actually."
-    Haley ""
+    Haley "其实我不怎么喝酒。"
 
 # game/logic/events/haley.rpy:3567
 translate chinese Haley_19_label_from_gallery_25818a5f:
 
     # ch_Name "Just a little bit."
-    ch_Name ""
+    ch_Name "只有一点点。"
 
 # game/logic/events/haley.rpy:3569
 translate chinese Haley_19_label_from_gallery_032aca43:
 
     # ch_Name "Not that much."
-    ch_Name ""
+    ch_Name "没有那么多。"
 
 # game/logic/events/haley.rpy:3570
 translate chinese Haley_19_label_from_gallery_86106c86:
 
     # Haley "Sure, I'm all for it."
-    Haley ""
+    Haley "当然，我完全赞成。"
 
 # game/logic/events/haley.rpy:3571
 translate chinese Haley_19_label_from_gallery_0330591a:
 
     # Haley "Especially with such company, he-he."
-    Haley ""
+    Haley "尤其是有这样的同伴，他-他。"
 
 # game/logic/events/haley.rpy:3572
 translate chinese Haley_19_label_from_gallery_078393ae:
 
     # ch_Name "What do you think?"
-    ch_Name ""
+    ch_Name "你觉得呢？"
 
 # game/logic/events/haley.rpy:3573
 translate chinese Haley_19_label_from_gallery_34d3918d:
 
     # Haley "Mmm!"
-    Haley ""
+    Haley "嗯！"
 
 # game/logic/events/haley.rpy:3574
 translate chinese Haley_19_label_from_gallery_9481bbe4:
 
     # ch_Name "Tastes good."
-    ch_Name ""
+    ch_Name "口味很好。"
 
 # game/logic/events/haley.rpy:3576
 translate chinese Haley_19_label_from_gallery_d8747eb7:
 
     # Haley "But I think I can already feel the effects of the alcohol. "
-    Haley ""
+    Haley "但我想我已经感觉到酒精的影响了。"
 
 # game/logic/events/haley.rpy:3577
 translate chinese Haley_19_label_from_gallery_a7f8b1dc:
 
     # ch_Name "That's not bad."
-    ch_Name ""
+    ch_Name "这是不坏。"
 
 # game/logic/events/haley.rpy:3578
 translate chinese Haley_19_label_from_gallery_f02503bc:
 
     # ch_Name "Let's just relax."
-    ch_Name ""
+    ch_Name "让我们放松。"
 
 # game/logic/events/haley.rpy:3579
 translate chinese Haley_19_label_from_gallery_44d07891:
 
     # ch_Name "We deserve the rest."
-    ch_Name ""
+    ch_Name "剩下的是我们应得的。"
 
 # game/logic/events/haley.rpy:3580
 translate chinese Haley_19_label_from_gallery_b67070b2:
 
     # Haley "Yes, you're right."
-    Haley ""
+    Haley "是的，你是对的。"
 
 # game/logic/events/haley.rpy:3582
 translate chinese Haley_19_label_from_gallery_281b4f03:
 
     # ch_Name "Do you feel cold?"
-    ch_Name ""
+    ch_Name "你觉得冷吗？"
 
 # game/logic/events/haley.rpy:3583
 translate chinese Haley_19_label_from_gallery_7a5be25c:
 
     # ch_Name "I can see your nipples get hard."
-    ch_Name ""
+    ch_Name "我看到你的乳头变硬了。"
 
 # game/logic/events/haley.rpy:3584
 translate chinese Haley_19_label_from_gallery_0426ee84:
 
     # ch_Name "Sorry, I'm just worried about you."
-    ch_Name ""
+    ch_Name "对不起，我只是担心你。"
 
 # game/logic/events/haley.rpy:3585
 translate chinese Haley_19_label_from_gallery_f0aa552f:
 
     # Haley "The breeze is a little chilly."
-    Haley ""
+    Haley "微风有点冷。"
 
 # game/logic/events/haley.rpy:3587
 translate chinese Haley_19_label_from_gallery_cb9fe62f:
 
     # Haley "And I've got goosebumps."
-    Haley ""
+    Haley "我都起鸡皮疙瘩了。"
 
 # game/logic/events/haley.rpy:3588
 translate chinese Haley_19_label_from_gallery_8696b042:
 
     # Haley "But maybe that's because of you?"
-    Haley ""
+    Haley "但也许是因为你？"
 
 # game/logic/events/haley.rpy:3589
 translate chinese Haley_19_label_from_gallery_5a3800f7:
 
     # Haley "I can't say."
-    Haley ""
+    Haley "我不能说。"
 
 # game/logic/events/haley.rpy:3590
 translate chinese Haley_19_label_from_gallery_860ca542:
 
     # ch_Name "Oh, really?"
-    ch_Name ""
+    ch_Name "哦，真的吗？"
 
 # game/logic/events/haley.rpy:3592
 translate chinese Haley_19_label_from_gallery_6083ec7f:
 
     # Haley "[Name], w-what..."
-    Haley ""
+    Haley "[Name]，什么。。。"
 
 # game/logic/events/haley.rpy:3593
 translate chinese Haley_19_label_from_gallery_a0a2abbb:
 
     # Haley "Ohh!"
-    Haley ""
+    Haley "哦！"
 
 # game/logic/events/haley.rpy:3594
 translate chinese Haley_19_label_from_gallery_4fd2d8cc:
 
     # Haley "What are you doing?"
-    Haley ""
+    Haley "你在干什么？"
 
 # game/logic/events/haley.rpy:3595
 translate chinese Haley_19_label_from_gallery_2adba954:
 
     # ch_Name "I only want to keep you warm."
-    ch_Name ""
+    ch_Name "我只想让你温暖。"
 
 # game/logic/events/haley.rpy:3596
 translate chinese Haley_19_label_from_gallery_30f19641:
 
     # ch_Name "But I'm starting to lose control."
-    ch_Name ""
+    ch_Name "但我开始失控了。"
 
 # game/logic/events/haley.rpy:3597
 translate chinese Haley_19_label_from_gallery_834aa93d:
 
     # Haley "I've dreamt about you, too many times to just stop."
-    Haley ""
+    Haley "我梦见过你，很多次都停不下来。"
 
 # game/logic/events/haley.rpy:3599
 translate chinese Haley_19_label_from_gallery_c3d0a140:
 
     # Haley "Mmmmmm!"
-    Haley ""
+    Haley "呣！"
 
 # game/logic/events/haley.rpy:3600
 translate chinese Haley_19_label_from_gallery_089940ee:
 
     # Haley "Whew!"
-    Haley ""
+    Haley "唷！"
 
 # game/logic/events/haley.rpy:3601
 translate chinese Haley_19_label_from_gallery_44c03efa:
 
     # ch_Name "What are you doing to me, Haley?"
-    ch_Name ""
+    ch_Name "你在对我做什么，Haley？"
 
 # game/logic/events/haley.rpy:3602
 translate chinese Haley_19_label_from_gallery_f8952711:
 
     # Haley "I..."
-    Haley ""
+    Haley "我。。。"
 
 # game/logic/events/haley.rpy:3604
 translate chinese Haley_19_label_from_gallery_d268e865:
 
     # ch_Name "How does this feel?"
-    ch_Name ""
+    ch_Name "这感觉怎么样？"
 
 # game/logic/events/haley.rpy:3605
 translate chinese Haley_19_label_from_gallery_44dccde5:
 
     # ch_Name "Is this your first time?"
-    ch_Name ""
+    ch_Name "这是你第一次吗？"
 
 # game/logic/events/haley.rpy:3606
 translate chinese Haley_19_label_from_gallery_51f4e860:
 
     # ch_Name "I think I'm the first to touch you here."
-    ch_Name ""
+    ch_Name "我想我是第一个碰你这里的人。"
 
 # game/logic/events/haley.rpy:3608
 translate chinese Haley_19_label_from_gallery_cd8abaea:
 
     # Haley "Oh, [Name]!"
-    Haley ""
+    Haley "哦，[Name]！"
 
 # game/logic/events/haley.rpy:3609
 translate chinese Haley_19_label_from_gallery_d6860621:
 
     # Haley "We should stop!"
-    Haley ""
+    Haley "我们应该停止！"
 
 # game/logic/events/haley.rpy:3610
 translate chinese Haley_19_label_from_gallery_11a00ce4:
 
     # Haley "My heart is about to explode!"
-    Haley ""
+    Haley "我的心都要爆炸了！"
 
 # game/logic/events/haley.rpy:3612
 translate chinese Haley_19_label_from_gallery_e1e7702f:
 
     # Haley "Gosh..."
-    Haley ""
+    Haley "天啊。。。"
 
 # game/logic/events/haley.rpy:3614
 translate chinese Haley_19_label_from_gallery_035f8115:
 
     # Haley "Mhmmm..."
-    Haley ""
+    Haley "嗯。。。"
 
 # game/logic/events/haley.rpy:3615
 translate chinese Haley_19_label_from_gallery_44f1d18a:
 
     # ch_Name "Do you still want me to stop?"
-    ch_Name ""
+    ch_Name "你还想让我停下来吗？"
 
 # game/logic/events/haley.rpy:3616
 translate chinese Haley_19_label_from_gallery_8275571d:
 
     # Haley "No, please!"
-    Haley ""
+    Haley "不，请！"
 
 # game/logic/events/haley.rpy:3617
 translate chinese Haley_19_label_from_gallery_19f7fb70:
 
     # Haley "Don't stop!"
-    Haley ""
+    Haley "不要停止！"
 
 # game/logic/events/haley.rpy:3618
 translate chinese Haley_19_label_from_gallery_0ae9bcd0:
@@ -13084,55 +13084,55 @@ translate chinese Haley_19_label_from_gallery_0ae9bcd0:
 translate chinese Haley_19_label_from_gallery_4cd7be04:
 
     # ch_Name "You're super wet already."
-    ch_Name ""
+    ch_Name "你已经湿透了。"
 
 # game/logic/events/haley.rpy:3621
 translate chinese Haley_19_label_from_gallery_8a4ce7a2:
 
     # ch_Name "And so warm..."
-    ch_Name ""
+    ch_Name "所以温暖。。。"
 
 # game/logic/events/haley.rpy:3622
 translate chinese Haley_19_label_from_gallery_571603df:
 
     # ch_Name "It's a real pleasure to touch you, Haley."
-    ch_Name ""
+    ch_Name "很高兴能碰你，Haley。"
 
 # game/logic/events/haley.rpy:3623
 translate chinese Haley_19_label_from_gallery_614bc22c:
 
     # ch_Name "You can't even imagine how long I've waited for this."
-    ch_Name ""
+    ch_Name "你都无法想象我等这一刻等了多久。"
 
 # game/logic/events/haley.rpy:3625
 translate chinese Haley_19_label_from_gallery_797ba077_1:
 
     # Haley "Mmmmm!"
-    Haley ""
+    Haley "嗯！"
 
 # game/logic/events/haley.rpy:3627
 translate chinese Haley_19_label_from_gallery_299af68e:
 
     # Haley "It's better than I thought it would be..."
-    Haley ""
+    Haley "比我想象的要好。。。"
 
 # game/logic/events/haley.rpy:3628
 translate chinese Haley_19_label_from_gallery_18511365:
 
     # ch_Name "You were thinking about us, right?"
-    ch_Name ""
+    ch_Name "你在想我们，对吧？"
 
 # game/logic/events/haley.rpy:3629
 translate chinese Haley_19_label_from_gallery_dc76ed94:
 
     # Haley "I think about it all the time."
-    Haley ""
+    Haley "我一直在想这件事。"
 
 # game/logic/events/haley.rpy:3630
 translate chinese Haley_19_label_from_gallery_515f8f58:
 
     # Haley "Sometimes it's really hard to focus on the study when all my thoughts are about you..."
-    Haley ""
+    Haley "有时候我的脑子里全是你，我真的很难集中精力学习。。。"
 
 # game/logic/events/haley.rpy:3631
 translate chinese Haley_19_label_from_gallery_0ae9bcd0_1:
@@ -13144,109 +13144,109 @@ translate chinese Haley_19_label_from_gallery_0ae9bcd0_1:
 translate chinese Haley_19_label_from_gallery_f8dbaeaa:
 
     # ch_Name "I think about me being inside you too often."
-    ch_Name ""
+    ch_Name "我经常想到我和你在一起。"
 
 # game/logic/events/haley.rpy:3634
 translate chinese Haley_19_label_from_gallery_60e9ebfd:
 
     # ch_Name "The mere thought of it could make me cum."
-    ch_Name ""
+    ch_Name "只要一想到它就能让我高潮。"
 
 # game/logic/events/haley.rpy:3635
 translate chinese Haley_19_label_from_gallery_0b5c6811:
 
     # ch_Name "The thought that we can be even closer to each other."
-    ch_Name ""
+    ch_Name "我们可以更亲近彼此的想法。"
 
 # game/logic/events/haley.rpy:3636
 translate chinese Haley_19_label_from_gallery_4c9eb580:
 
     # Haley "Uhhhh!"
-    Haley ""
+    Haley "哦！"
 
 # game/logic/events/haley.rpy:3638
 translate chinese Haley_19_label_from_gallery_9c147ffc:
 
     # ch_Name "I want to know what it feels like."
-    ch_Name ""
+    ch_Name "我想知道那是什么感觉。"
 
 # game/logic/events/haley.rpy:3639
 translate chinese Haley_19_label_from_gallery_797ba077_2:
 
     # Haley "Mmmmm!"
-    Haley ""
+    Haley "嗯！"
 
 # game/logic/events/haley.rpy:3640
 translate chinese Haley_19_label_from_gallery_4a32f391:
 
     # Haley "I want to feel you inside me..."
-    Haley ""
+    Haley "我想感受你在我体内。。。"
 
 # game/logic/events/haley.rpy:3641
 translate chinese Haley_19_label_from_gallery_f9d3413b:
 
     # Haley "I really want it, [Name]..."
-    Haley ""
+    Haley "我真的很想要，[Name]。。。"
 
 # game/logic/events/haley.rpy:3644
 translate chinese Haley_19_label_from_gallery_2d2fb8b9:
 
     # Haley "Oh, have you heard it?"
-    Haley ""
+    Haley "哦，你听过吗？"
 
 # game/logic/events/haley.rpy:3645
 translate chinese Haley_19_label_from_gallery_1855220c:
 
     # ch_Name "What?"
-    ch_Name ""
+    ch_Name "什么？"
 
 # game/logic/events/haley.rpy:3646
 translate chinese Haley_19_label_from_gallery_bf007894:
 
     # Haley "A strange rustle."
-    Haley ""
+    Haley "一个奇怪的沙沙声。"
 
 # game/logic/events/haley.rpy:3647
 translate chinese Haley_19_label_from_gallery_c23aa417:
 
     # Haley "That's coming from there!"
-    Haley ""
+    Haley "那是从那里传来的！"
 
 # game/logic/events/haley.rpy:3649
 translate chinese Haley_19_label_from_gallery_3826c36a:
 
     # ch_Name "I don't hear anything."
-    ch_Name ""
+    ch_Name "我什么都没听到。"
 
 # game/logic/events/haley.rpy:3650
 translate chinese Haley_19_label_from_gallery_8b2e28f7:
 
     # Haley "I will check the bushes."
-    Haley ""
+    Haley "我去看看灌木丛。"
 
 # game/logic/events/haley.rpy:3651
 translate chinese Haley_19_label_from_gallery_6fda8a79:
 
     # ch_Name "Let's go together."
-    ch_Name ""
+    ch_Name "让我们一起去。"
 
 # game/logic/events/haley.rpy:3658
 translate chinese Haley_19_label_from_gallery_ce1190e2:
 
     # Haley "Three..."
-    Haley ""
+    Haley "三。。。"
 
 # game/logic/events/haley.rpy:3659
 translate chinese Haley_19_label_from_gallery_184701d3:
 
     # ch_Name "Two..."
-    ch_Name ""
+    ch_Name "两。。。"
 
 # game/logic/events/haley.rpy:3660
 translate chinese Haley_19_label_from_gallery_aad105d8:
 
     # Haley "One..."
-    Haley ""
+    Haley "一。。。"
 
 # game/logic/events/haley.rpy:3662
 translate chinese Haley_19_label_from_gallery_bd4fc747:
@@ -13258,197 +13258,197 @@ translate chinese Haley_19_label_from_gallery_bd4fc747:
 translate chinese Haley_19_label_from_gallery_e97f88ee:
 
     # ch_Name "What the...?"
-    ch_Name ""
+    ch_Name "什么。。。？"
 
 # game/logic/events/haley.rpy:3665
 translate chinese Haley_19_label_from_gallery_45ecf467:
 
     # Haley "Oops!"
-    Haley ""
+    Haley "哦！"
 
 # game/logic/events/haley.rpy:3666
 translate chinese Haley_19_label_from_gallery_d5eefa03:
 
     # UnknownElf "What is going on?"
-    UnknownElf ""
+    UnknownElf "这是怎么回事？"
 
 # game/logic/events/haley.rpy:3667
 translate chinese Haley_19_label_from_gallery_02f04705:
 
     # ch_Name "Well, we..."
-    ch_Name ""
+    ch_Name "嗯，我们。。。"
 
 # game/logic/events/haley.rpy:3669
 translate chinese Haley_19_label_from_gallery_9dd6944f:
 
     # ch_Name "We're just looking around."
-    ch_Name ""
+    ch_Name "我们只是随便看看。"
 
 # game/logic/events/haley.rpy:3670
 translate chinese Haley_19_label_from_gallery_34e3ab01:
 
     # UnknownElf "And what do you want from us, magicians?"
-    UnknownElf ""
+    UnknownElf "你想从我们这里得到什么，魔术师们？"
 
 # game/logic/events/haley.rpy:3671
 translate chinese Haley_19_label_from_gallery_e3bac523:
 
     # ch_Name "Mmmm... Nothing. "
-    ch_Name ""
+    ch_Name "嗯。。。什么都没有。"
 
 # game/logic/events/haley.rpy:3672
 translate chinese Haley_19_label_from_gallery_35ed56b4:
 
     # Haley "Okay, we... will better go."
-    Haley ""
+    Haley "好吧，我们。。。将更好地走。"
 
 # game/logic/events/haley.rpy:3674
 translate chinese Haley_19_label_from_gallery_db57b327:
 
     # ch_Name "What the hell was that?"
-    ch_Name ""
+    ch_Name "那是什么鬼东西？"
 
 # game/logic/events/haley.rpy:3675
 translate chinese Haley_19_label_from_gallery_0cd4b51b:
 
     # ch_Name "Is there love in the air?"
-    ch_Name ""
+    ch_Name "空气中有爱吗？"
 
 # game/logic/events/haley.rpy:3676
 translate chinese Haley_19_label_from_gallery_29e085e6:
 
     # Haley "Ha-ha-ha-ha-ha-ha."
-    Haley ""
+    Haley "哈哈哈哈哈。"
 
 # game/logic/events/haley.rpy:3677
 translate chinese Haley_19_label_from_gallery_0c9cd5e7:
 
     # Haley "I have no idea, actually."
-    Haley ""
+    Haley "其实我也不知道。"
 
 # game/logic/events/haley.rpy:3678
 translate chinese Haley_19_label_from_gallery_b15edb20:
 
     # ch_Name "Well, yeah..."
-    ch_Name ""
+    ch_Name "嗯，是的。。。"
 
 # game/logic/events/haley.rpy:3679
 translate chinese Haley_19_label_from_gallery_bc1e7785:
 
     # Haley "What time is it, by the way?"
-    Haley ""
+    Haley "顺便问一下，现在几点了？"
 
 # game/logic/events/haley.rpy:3681
 translate chinese Haley_19_label_from_gallery_4059c118:
 
     # ch_Name "11 p.m."
-    ch_Name ""
+    ch_Name "晚上11点。"
 
 # game/logic/events/haley.rpy:3682
 translate chinese Haley_19_label_from_gallery_a0fd0f9a:
 
     # Haley "Really? It's so late."
-    Haley ""
+    Haley "真的吗？太晚了。"
 
 # game/logic/events/haley.rpy:3683
 translate chinese Haley_19_label_from_gallery_463c23c9:
 
     # Haley "Time to go to the campus."
-    Haley ""
+    Haley "该去校园了。"
 
 # game/logic/events/haley.rpy:3685
 translate chinese Haley_19_label_from_gallery_8cb61243:
 
     # ch_Name "Okay..."
-    ch_Name ""
+    ch_Name "好吧。。。"
 
 # game/logic/events/haley.rpy:3686
 translate chinese Haley_19_label_from_gallery_264c5a80:
 
     # ch_Name "Let's put all the things in the basket firstly."
-    ch_Name ""
+    ch_Name "让我们先把所有的东西放到篮子里。"
 
 # game/logic/events/haley.rpy:3687
 translate chinese Haley_19_label_from_gallery_9748eec8:
 
     # Haley "Sure, I'll help you with that."
-    Haley ""
+    Haley "当然，我会帮你的。"
 
 # game/logic/events/haley.rpy:3694
 translate chinese Haley_19_label_from_gallery_86402177:
 
     # Haley "I'm so sleepy!"
-    Haley ""
+    Haley "我太困了！"
 
 # game/logic/events/haley.rpy:3695
 translate chinese Haley_19_label_from_gallery_5a0f6903:
 
     # Haley "I want to go to bed as soon as possible."
-    Haley ""
+    Haley "我想尽快上床睡觉。"
 
 # game/logic/events/haley.rpy:3696
 translate chinese Haley_19_label_from_gallery_85c8579f:
 
     # ch_Name "Thank you for this evening, cutie."
-    ch_Name ""
+    ch_Name "今晚谢谢你，小可爱。"
 
 # game/logic/events/haley.rpy:3698
 translate chinese Haley_19_label_from_gallery_3d39623d:
 
     # Haley "It was you who organized everything!"
-    Haley ""
+    Haley "这一切都是你安排的！"
 
 # game/logic/events/haley.rpy:3699
 translate chinese Haley_19_label_from_gallery_58fa4769:
 
     # Haley "And it was amazing."
-    Haley ""
+    Haley "这太神奇了。"
 
 # game/logic/events/haley.rpy:3700
 translate chinese Haley_19_label_from_gallery_732bd28b:
 
     # ch_Name "Hope we can do it again one day."
-    ch_Name ""
+    ch_Name "希望有一天我们能再来一次。"
 
 # game/logic/events/haley.rpy:3701
 translate chinese Haley_19_label_from_gallery_7b967ef1:
 
     # Haley "He-he-he."
-    Haley ""
+    Haley "他-他-他。"
 
 # game/logic/events/haley.rpy:3702
 translate chinese Haley_19_label_from_gallery_8e56adab:
 
     # Haley "Oh, by the way, about the ritual..."
-    Haley ""
+    Haley "对了，关于仪式。。。"
 
 # game/logic/events/haley.rpy:3703
 translate chinese Haley_19_label_from_gallery_edd8bb84:
 
     # Haley "Let's wait for a full moon firstly."
-    Haley ""
+    Haley "我们先等满月吧。"
 
 # game/logic/events/haley.rpy:3704
 translate chinese Haley_19_label_from_gallery_20f8f431:
 
     # ch_Name "Okay. And I'll look for a suitable place where no one will bother us."
-    ch_Name ""
+    ch_Name "好吧。我去找个合适的地方，没人会打扰我们。"
 
 # game/logic/events/haley.rpy:3705
 translate chinese Haley_19_label_from_gallery_e854b5dc:
 
     # ch_Name "Everything must be perfect."
-    ch_Name ""
+    ch_Name "一切都必须完美。"
 
 # game/logic/events/haley.rpy:3707
 translate chinese Haley_19_label_from_gallery_a3757f41:
 
     # ch_Name "Good night, Haley."
-    ch_Name ""
+    ch_Name "晚安，Haley。"
 
 # game/logic/events/haley.rpy:3708
 translate chinese Haley_19_label_from_gallery_21f50013:
 
     # Haley "Night-night!"
-    Haley ""
+    Haley "夜晚夜晚！"
 
