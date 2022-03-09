@@ -1108,257 +1108,257 @@ translate brazilian CordRightWing_label_6ccc55c3:
 translate brazilian CordRightWing_label_4d3ec7ac:
 
     # ch_Name "{i}(It seems that our conversation has cooled her down a bit.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parece que nossa conversa acalmou ela um pouco.){/i}"
 
 # game/logic/tutorial.rpy:857
 translate brazilian CordRightWing_label_951789d8:
 
     # ch_Name "{i}(I didn't think anyone could be so angry about coffee.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não pensei que alguém pudesse ficar tão chateada por causa de café.){/i}"
 
 # game/logic/tutorial.rpy:859
 translate brazilian CordRightWing_label_ae1a6bec:
 
     # ch_Name "{i}(On the other hand, after all this talk about coffee, I'm craving a cup myself.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Por outro lado, depois de tanta conversa sobre café, estou desejando uma xícara.){/i}"
 
 # game/logic/tutorial.rpy:860
 translate brazilian CordRightWing_label_9d77b6f6:
 
     # ch_Name "{i}(Too bad the cafe is closed in the morning.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pena que o café está fechado de manhã.){/i}"
 
 # game/logic/tutorial.rpy:861
 translate brazilian CordRightWing_label_be0a645b:
 
     # ch_Name "{i}(I should stop by later.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Devia passar aqui mais tarde.){/i}"
 
 # game/logic/tutorial.rpy:874
 translate brazilian CordMainHall_label_38e027ca:
 
     # ch_Name "{i}(So this is what the main hall of the academy looks like when it's not in session.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Então é assim que é o salão principal da academia quando não está tendo uma reunião.){/i}"
 
 # game/logic/tutorial.rpy:875
 translate brazilian CordMainHall_label_ae97de9b:
 
     # ch_Name "{i}(So spacious...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tão espaçoso...){/i}"
 
 # game/logic/tutorial.rpy:876
 translate brazilian CordMainHall_label_1617ba3a:
 
     # ch_Name "{i}(I wonder what else is going on here?){/i}"
-    ch_Name ""
+    ch_Name "{i}(O que mais está acontecendo aqui?){/i}"
 
 # game/logic/tutorial.rpy:878
 translate brazilian CordMainHall_label_c21d0d35:
 
     # ch_Name "{i}(The tables are laid out like you could have a real feast here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(As mesas estão arrumadas como se fosse ter um verdadeiro banquete.){/i}"
 
 # game/logic/tutorial.rpy:879
 translate brazilian CordMainHall_label_0bd52afc:
 
     # ch_Name "{i}(Perhaps there used to be such a tradition?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Talvez costumasse ter essa tradição?){/i}"
 
 # game/logic/tutorial.rpy:880
 translate brazilian CordMainHall_label_19a1b81f:
 
     # ch_Name "{i}(And these statues of angels, they look like guards.){/i}"
-    ch_Name ""
+    ch_Name "{i}(E aquelas estátuas de anjos parecem guardas.){/i}"
 
 # game/logic/tutorial.rpy:881
 translate brazilian CordMainHall_label_070e7b11:
 
     # ch_Name "{i}(I wonder if they can come to life under spells.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Imagino se podem ganhar vida com algum feitiço.){/i}"
 
 # game/logic/tutorial.rpy:883
 translate brazilian CordMainHall_label_2ed49d76:
 
     # ch_Name "{i}(They must be guarding the folio.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eles devem estar guardando o livro.){/i}"
 
 # game/logic/tutorial.rpy:884
 translate brazilian CordMainHall_label_bf9fd4a5:
 
     # ch_Name "{i}(Strange that such an important relic is left lying unattended.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Estranho que um relíquia tão importante fique desguarnecida.){/i}"
 
 # game/logic/tutorial.rpy:885
 translate brazilian CordMainHall_label_e71a83d8:
 
     # Arthur "Conferring with your ancestors?"
-    Arthur ""
+    Arthur "Confabulando com seus ancestrais?"
 
 # game/logic/tutorial.rpy:887
 translate brazilian CordMainHall_label_dafee659:
 
     # ch_Name "Аh? Who's there?"
-    ch_Name ""
+    ch_Name "Anh? Quem está aí?"
 
 # game/logic/tutorial.rpy:888
 translate brazilian CordMainHall_label_86756501:
 
     # ch_Name "{i}(Is it just me, or did someone speak to me?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sou só eu, ou alguém falou comigo?){/i}"
 
 # game/logic/tutorial.rpy:889
 translate brazilian CordMainHall_label_3f75b23d:
 
     # ch_Name "{i}(Is that our director?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Isso foi o diretor?){/i}"
 
 # game/logic/tutorial.rpy:891
 translate brazilian CordMainHall_label_a8dd1f73:
 
     # Arthur "Don't be alarmed, [Name]. It's me, Arthur."
-    Arthur ""
+    Arthur "Não se assuste, [Name]. Sou eu, Arthur."
 
 # game/logic/tutorial.rpy:892
 translate brazilian CordMainHall_label_6972bd8b:
 
     # ch_Name "Director! I confess, I didn't immediately recognize you in that outfit."
-    ch_Name ""
+    ch_Name "Diretor! Confesso que não lhe reconheci de cara com essa roupa."
 
 # game/logic/tutorial.rpy:893
 translate brazilian CordMainHall_label_7eb7551a:
 
     # Arthur "Heh. Well, what can I say... Old men like to look neat, too."
-    Arthur ""
+    Arthur "Heha. Bem, o que posso dizer... Velhos como eu se arrumam também."
 
 # game/logic/tutorial.rpy:895
 translate brazilian CordMainHall_label_e1ba3607:
 
     # Arthur "I'm sure you're wondering why the academy has such a large hall."
-    Arthur ""
+    Arthur "Estou certo de que está se perguntando por que a academia tem um salão tão grande."
 
 # game/logic/tutorial.rpy:896
 translate brazilian CordMainHall_label_75e7562f:
 
     # Arthur "I myself sometimes wonder if this pompousness is necessary."
-    Arthur ""
+    Arthur "Eu, às vezes, me pergunto se esse pompa é necessária."
 
 # game/logic/tutorial.rpy:897
 translate brazilian CordMainHall_label_76d6ebe6:
 
     # Arthur "But all the important meetings concerning the academy are held here."
-    Arthur ""
+    Arthur "Mas todas as reuniões importantes sobre o academia acontecem aqui."
 
 # game/logic/tutorial.rpy:898
 translate brazilian CordMainHall_label_49ded05d:
 
     # Arthur "Besides, this room is ideal for keeping the folio."
-    Arthur ""
+    Arthur "Além disso, esse cômodo é ideal para manter o livro."
 
 # game/logic/tutorial.rpy:899
 translate brazilian CordMainHall_label_635f5f1c:
 
     # Arthur "It is always best to keep the most valuable things hidden in plain sight. Isn't it?"
-    Arthur ""
+    Arthur "É sempre melhor manter as coisas mais valiosas escondidas à vista, não?"
 
 # game/logic/tutorial.rpy:901
 translate brazilian CordMainHall_label_f661cea9:
 
     # ch_Name "Huh, I guess... "
-    ch_Name ""
+    ch_Name "Huh, pode ser..."
 
 # game/logic/tutorial.rpy:902
 translate brazilian CordMainHall_label_acb75231:
 
     # ch_Name "Thank you so much for the tour."
-    ch_Name ""
+    ch_Name "Muito obrigado pelo tour."
 
 # game/logic/tutorial.rpy:903
 translate brazilian CordMainHall_label_2d4b4444:
 
     # Arthur "You're welcome. We're here to educate you."
-    Arthur ""
+    Arthur "Disponha. Estamos felizes em educá-lo."
 
 # game/logic/tutorial.rpy:904
 translate brazilian CordMainHall_label_d2a747bb:
 
     # Arthur "By the way, I'm sure Victoria and Sabrina are already waiting for students."
-    Arthur ""
+    Arthur "Por sinel, tenho certeza que Victoria e Sabrina já estão esperando por alunos."
 
 # game/logic/tutorial.rpy:905
 translate brazilian CordMainHall_label_861eeaf9:
 
     # ch_Name "I was just on my way there..."
-    ch_Name ""
+    ch_Name "Eu estava a caminho de lá..."
 
 # game/logic/tutorial.rpy:906
 translate brazilian CordMainHall_label_bda6c814:
 
     # Arthur "Okay. Hurry up. You don't want to be late, do you?"
-    Arthur ""
+    Arthur "Ok. Se apresse. Não vai querer se atrasar, não é?"
 
 # game/logic/tutorial.rpy:907
 translate brazilian CordMainHall_label_78f0f7a9:
 
     # ch_Name "Of course not, sir. Goodbye, sir."
-    ch_Name ""
+    ch_Name "Claro que não, senhor. Até logo, senhor."
 
 translate brazilian strings:
 
     # game/logic/tutorial.rpy:19
     old "This is your personal profile. Here you can find all the information about the main character (stats, spell levels, inventory) and follow the progress of the weekly house competition."
-    new ""
+    new "Esse é o seu perfil pessoal. Aqui você pode encontrar tudo sobre a personagem principal (estatísticas, nível de feitiços, inventário) e seguir o progresso da competição semanal das casas."
 
     # game/logic/tutorial.rpy:19
     old "Here you can change the name of the main character at any time."
-    new ""
+    new "Aqui você pode mudar o nome da personagem principal a qualquer momento."
 
     # game/logic/tutorial.rpy:19
     old "This is a statistic of various indicators. It does not affect anything, but it can be interesting for tracking the process of the game."
-    new ""
+    new "Essa é uma estatística de vários indicadores. Não afeta nada, mas pode ser interessante para acompanhar o processo do jogo."
 
     # game/logic/tutorial.rpy:19
     old "This is a block with the current results of competitions between houses. At the end of each week, the house that earned the most points is sent to Dale."
-    new ""
+    new "Esse é um bloco com o resultado atual da competição entre as casas. Ao final de cada semana, a casa que tiver ganho mais pontos é mandada para Dale."
 
     # game/logic/tutorial.rpy:19
     old "This shows the spells you've learned, as well as your skill level. The higher your skill level, the more effective the spells are."
-    new ""
+    new "Isso mostra os feitiços que você aprendeu, assim como seu nível de habilidade. Quanto maior sua habilidade, mais efetivos serão seus feitiços."
 
     # game/logic/tutorial.rpy:19
     old "All items you collect go into the Inventory. You can mouse over over any item and get detailed information about it."
-    new ""
+    new "Todos os itens que você coletar vão para o Inventário. Pode passar o mouse sobre qualquer item e receber informações detalhadas sobre ele."
 
     # game/logic/tutorial.rpy:19
     old "And here, you can check your balance. You can earn money through various part-time jobs available in the game. In addition, a small amount of money is allocated by the Academy for winning the house competition."
-    new ""
+    new "E aqui você vê seu saldo. Você pode ganhar dinheiro através de vários empregos de meio período no jogo. Além disso, um pouco de dinheiro é alocado pela Academia para os vencedores da competição das casas."
 
     # game/logic/tutorial.rpy:19
     old "You can use this button anytime to watch this tutorial again and refresh your memory. Good luck!"
-    new ""
+    new "Você pode usar esse botão a qualquer momento para assistir o tutorial de novo e refrescar sua memória. Boa sorte!"
 
     # game/logic/tutorial.rpy:19
     old "The practical Potions class is self-guided. This tutorial will help you figure out how to discover new recipes and brew elixirs using recipes you've already learned."
-    new ""
+    new "A aula prática de Poções é auto guiada. Esse tutorial vai lhe ajudar a entender como descobrir novas receitas e fazer elixires usando as receitas que já aprendeu."
 
     # game/logic/tutorial.rpy:19
     old "This recipe has already been studied. Just click on Add to have all the necessary ingredients ready to mix"
-    new ""
+    new "Essa receita já foi estudada. Basta clicar em Adicionar para que todos os ingredientes necessários se juntem."
 
     # game/logic/tutorial.rpy:19
     old "You can learn the new recipes by visiting Sabrina's lectures, or you can try to discover them yourself."
-    new ""
+    new "Você pode aprender novas receitas visitando as aulas de Sabrina, ou pode tentar descobrí-las por conta própria."
 
     # game/logic/tutorial.rpy:19
     old "To do this, select any three ingredients you like and see what you get out of them. If your mix issuccessful, the new recipe will immediately be added to your recipes book You only get one try at each lesson. You decide whether to brew a well-known elixir or conduct an experiment."
-    new ""
+    new "Para fazer isso, selecione três ingredientes da sua escolha e veja o que consegue com eles. Se sua mistura for bem sucedida, a nova receita será imediatamente adicionada ao seu livro de receitas. Você só pode tentar uma vez a cada lição. Você decide se vai fazer um elixir conhecido ou fazer uma experiência."
 
     # game/logic/tutorial.rpy:19
     old "These ingredients are provided to students by the Academy for free and unlimited. When you happen to find rare reagents, they will go into this menu with the available quantity shown."
-    new ""
+    new "Esses ingredientes são fornecidos para os alunos da Academia de graça e sem limite. Quando você encontrar reagentes raros, eles virão para esse menu com a quantidade disponível exibida."
 
     # game/logic/tutorial.rpy:19
     old "The selected ingredients will go here. If you need to cancel your selection, click on the unwanted ingredient to clear the box. When you are ready, click on the MIX button."
-    new ""
+    new "Os ingredientes seleciondados vão aqui. Se precisar cancelar a seleção, clique no ingrediente indesejado para limpar a caixa. Quando estiver pronto, clique no botão MIX."
 
     # game/logic/tutorial.rpy:19
     old "You'll find out the result of your experiments here. All elixirs brewed in practice classes stay with the students, meaning your's went into your inventory. Combat elixirs can be used at the dueling club."
