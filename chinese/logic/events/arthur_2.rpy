@@ -1582,35 +1582,35 @@ translate chinese strings:
 translate chinese arthur_2_3_3df4f481:
 
     # ch_Name "{i}(On the other hand, sometimes I don't even understand mine.){/i}"
-    ch_Name ""
+    ch_Name "{i}（另一方面，有时我甚至不理解我的。）{/i}"
 
 # game/logic/events/arthur_2.rpy:374
 translate chinese arthur_2_3_4a080171:
 
     # Katrina "Enjoy your small victories while you can."
-    Katrina ""
+    Katrina "在你能做到的时候享受你的小胜利。"
 
 # game/logic/events/arthur_2.rpy:392
 translate chinese arthur_2_3_b72f5a90:
 
     # Haley "You were dreaming... Was it a nightmare? "
-    Haley ""
+    Haley "你是在做梦。。。这是一场噩梦吗？"
 
 # game/logic/events/arthur_2.rpy:420
 translate chinese arthur_2_3_a362ffa5:
 
     # Haley "Captain said she'd feed you to the sharks if you don't leave."
-    Haley ""
+    Haley "船长说如果你不走她就把你喂鲨鱼。"
 
 # game/logic/events/arthur_2.rpy:422
 translate chinese arthur_2_3_47fc46f6:
 
     # Haley "Would you be surprised?"
-    Haley ""
+    Haley "你会感到惊讶吗？"
 
 # game/logic/events/arthur_2.rpy:580
 translate chinese arthur_2_5_232f7e79:
 
     # Elijah "There's the hottest nightclub in town around the corner. Lady Luck."
-    Elijah ""
+    Elijah "街角有城里最火的夜总会。幸运女神。"
 
