@@ -1594,77 +1594,77 @@ translate chinese strings:
 translate chinese romul_2_label_64ccb634:
 
     # ch_Name "{i}(Hmm, this looks like a staff exit from the nightclub.){/i}"
-    ch_Name ""
+    ch_Name "{i}（嗯，这看起来像是一个工作人员从夜总会出来。）{/i}"
 
 # game/logic/events/romul.rpy:194
 translate chinese romul_2_label_f115d4e2:
 
     # ch_Name "{i}(Entry clearly costs less than a whole envelope of dough...){/i}"
-    ch_Name ""
+    ch_Name "{i}（参赛的成本显然还不到一整包面团的价格。。。）{/i}"
 
 # game/logic/events/romul.rpy:200
 translate chinese romul_2_label_f3c7dd8b:
 
     # ch_Name "{i}(Someone's coming out. A girl.){/i}"
-    ch_Name ""
+    ch_Name "{i}（别有人出来了。是一个女孩。）{/i}"
 
 # game/logic/events/romul.rpy:238
 translate chinese romul_2_label_56846112:
 
     # Adele "YOU'RE A DISGUSTING PERSON!"
-    Adele ""
+    Adele "你真是个恶心的人！"
 
 # game/logic/events/romul.rpy:288
 translate chinese romul_2_label_fb86d027:
 
     # ch_Name "The guy who's about to kick your ass."
-    ch_Name ""
+    ch_Name "那个要揍你一顿的家伙。"
 
 # game/logic/events/romul.rpy:320
 translate chinese romul_2_label_f1ba4970:
 
     # Adele "Go back to mommy, you abortion!"
-    Adele ""
+    Adele "回到妈妈身边去，你去堕胎！"
 
 # game/logic/events/romul.rpy:367
 translate chinese romul_2_label_f1ba4970_1:
 
     # Adele "Go back to mommy, you abortion!"
-    Adele ""
+    Adele "回到妈妈身边去，你去堕胎！"
 
 # game/logic/events/romul.rpy:369
 translate chinese romul_2_label_254a789a:
 
     # Adele "Hey... Thanks a lot!"
-    Adele ""
+    Adele "嘿。。。谢谢！"
 
 # game/logic/events/romul.rpy:371
 translate chinese romul_2_label_8af19aab:
 
     # ch_Name "{i}(In the end she did everything herself...){/i}"
-    ch_Name ""
+    ch_Name "{i}（最后一切都是她自己做的。）{/i}"
 
 # game/logic/events/romul.rpy:372
 translate chinese romul_2_label_dcaaea39:
 
     # Adele "I couldn't have done it without you."
-    Adele ""
+    Adele "没有你我做不到。"
 
 # game/logic/events/romul.rpy:373
 translate chinese romul_2_label_df1a1430:
 
     # ch_Name "{i}(Do you think it's obvious that I'm staring at her boobs?){/i}"
-    ch_Name ""
+    ch_Name "{i}（你觉得我盯着她的胸部看很明显吗？）{/i}"
 
 # game/logic/events/romul.rpy:434
 translate chinese romul_2_label_81adcd95:
 
     # Adele "It's a {b}VIP pass{/b} for club members."
-    Adele ""
+    Adele "这是俱乐部会员的{b}VIP通行证{/b}。"
 
 # game/logic/events/romul.rpy:440
 translate chinese romul_2_label_c6c7b4e7:
 
     # Adele "I've gotta go, hon. Thanks again!"
-    Adele ""
+    Adele "我得走了，亲爱的，再次谢谢你！"
 
