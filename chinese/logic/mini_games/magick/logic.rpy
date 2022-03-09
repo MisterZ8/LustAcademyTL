@@ -594,539 +594,539 @@ translate chinese strings:
 translate chinese MagicMiniGameLabel_start_9624437b:
 
     # Victoria "Pleasant surprise, Mr. [Surname]. "
-    Victoria ""
+    Victoria "惊喜，先生[Surname]。"
 
 # game/logic/mini_games/magick/logic.rpy:1313
 translate chinese MagicMiniGameLabel_start_d3b5301a:
 
     # Victoria "I can see you have good potential. "
-    Victoria ""
+    Victoria "我看得出你很有潜力。"
 
 # game/logic/mini_games/magick/logic.rpy:1315
 translate chinese MagicMiniGameLabel_start_37ccf7af:
 
     # ch_Name "{i}(Hell yes I do! That was too easy!){/i}"
-    ch_Name ""
+    ch_Name "{i}（当然，我愿意！那太容易了！）{/i}"
 
 # game/logic/mini_games/magick/logic.rpy:1317
 translate chinese MagicMiniGameLabel_start_03f7e5a9:
 
     # Victoria "Let's see if you can do even better."
-    Victoria ""
+    Victoria "看看你能不能做得更好。"
 
 # game/logic/mini_games/magick/logic.rpy:1319
 translate chinese MagicMiniGameLabel_start_7615ada7:
 
     # ch_Name "{i}(Bring it on!){/i}"
-    ch_Name ""
+    ch_Name "{i}（把它！）{/i}"
 
 # game/logic/mini_games/magick/logic.rpy:1331
 translate chinese MagicMiniGameLabel_start_9054e202:
 
     # Victoria "Not bad for the first time!"
-    Victoria ""
+    Victoria "这第一次还不错！"
 
 # game/logic/mini_games/magick/logic.rpy:1333
 translate chinese MagicMiniGameLabel_start_17474b4e:
 
     # Victoria "But I've had more capable students."
-    Victoria ""
+    Victoria "但我有更多有能力的学生。"
 
 # game/logic/mini_games/magick/logic.rpy:1335
 translate chinese MagicMiniGameLabel_start_829c5ea8:
 
     # ch_Name "{i}(Not bad? I can do better than \"not bad\"! Come on, [Name]!){/i}"
-    ch_Name ""
+    ch_Name "{i}（不坏？我可以做得比“不坏”更好！加油，[名字]！）{/i}"
 
 # game/logic/mini_games/magick/logic.rpy:1337
 translate chinese MagicMiniGameLabel_start_43090c88:
 
     # Victoria "Let's try to make it more difficult..."
-    Victoria ""
+    Victoria "让我们试着把它变得更难。。。"
 
 # game/logic/mini_games/magick/logic.rpy:1348
 translate chinese MagicMiniGameLabel_start_3ace795f:
 
     # Victoria "[Surname], you're on the verge of failure."
-    Victoria ""
+    Victoria "[Surname]，你在失败的边缘。"
 
 # game/logic/mini_games/magick/logic.rpy:1350
 translate chinese MagicMiniGameLabel_start_b6d47def:
 
     # Victoria "That kind of concentration is no good!"
-    Victoria ""
+    Victoria "那种专注是不好的！"
 
 # game/logic/mini_games/magick/logic.rpy:1352
 translate chinese MagicMiniGameLabel_start_3a586ab7:
 
     # ch_Name "{i}(Crap... I need to focus! I won't lose this!){/i}"
-    ch_Name ""
+    ch_Name "{i}（垃圾。。。我需要集中精力！我不会输的！）{/i}"
 
 # game/logic/mini_games/magick/logic.rpy:1354
 translate chinese MagicMiniGameLabel_start_718c1941:
 
     # Victoria "Try again."
-    Victoria ""
+    Victoria "再试一次。"
 
 # game/logic/mini_games/magick/logic.rpy:1373
 translate chinese MagicMiniGameLabel_start_5bdf1b13:
 
     # Victoria "Very good, Mr. [Surname]! "
-    Victoria ""
+    Victoria "很好，[Surname]先生！"
 
 # game/logic/mini_games/magick/logic.rpy:1375
 translate chinese MagicMiniGameLabel_start_1bf49698:
 
     # Victoria "It is clear that you have potential."
-    Victoria ""
+    Victoria "很明显你有潜力。"
 
 # game/logic/mini_games/magick/logic.rpy:1377
 translate chinese MagicMiniGameLabel_start_37ccf7af_1:
 
     # ch_Name "{i}(Hell yes I do! That was too easy!){/i}"
-    ch_Name ""
+    ch_Name "{i}（当然，我愿意！那太容易了！）{/i}"
 
 # game/logic/mini_games/magick/logic.rpy:1379
 translate chinese MagicMiniGameLabel_start_733fd849:
 
     # Victoria "Let's see how good can you use it right now."
-    Victoria ""
+    Victoria "让我们看看你现在能把它用得多好。"
 
 # game/logic/mini_games/magick/logic.rpy:1381
 translate chinese MagicMiniGameLabel_start_23a97552:
 
     # Victoria "Your last try! Go!"
-    Victoria ""
+    Victoria "你最后的尝试！走吧！"
 
 # game/logic/mini_games/magick/logic.rpy:1392
 translate chinese MagicMiniGameLabel_start_89012c81:
 
     # Victoria "Not bad, [Surname]!"
-    Victoria ""
+    Victoria "不坏，[Surname]！"
 
 # game/logic/mini_games/magick/logic.rpy:1394
 translate chinese MagicMiniGameLabel_start_8ce2feee:
 
     # Victoria "I'm really interested to see what else you can do!"
-    Victoria ""
+    Victoria "我很想看看你还能做些什么！"
 
 # game/logic/mini_games/magick/logic.rpy:1396
 translate chinese MagicMiniGameLabel_start_916ce3a3:
 
     # ch_Name "{i}(Is this a dream, or am I really that good?!){/i}"
-    ch_Name ""
+    ch_Name "{i}（这是梦吗，还是我真有那么棒！）{/i}"
 
 # game/logic/mini_games/magick/logic.rpy:1398
 translate chinese MagicMiniGameLabel_start_16970a07:
 
     # Victoria "Last one will be even more difficult. Get ready!"
-    Victoria ""
+    Victoria "最后一个将更加困难。做好准备！"
 
 # game/logic/mini_games/magick/logic.rpy:1400
 translate chinese MagicMiniGameLabel_start_80e3f604:
 
     # ch_Name "{i}(I am ready!){/i}"
-    ch_Name ""
+    ch_Name "{i}（我准备好了！）{/i}"
 
 # game/logic/mini_games/magick/logic.rpy:1413
 translate chinese MagicMiniGameLabel_start_5d62241e:
 
     # Victoria "Mr. [Surname]! "
-    Victoria ""
+    Victoria "[Surname]先生！"
 
 # game/logic/mini_games/magick/logic.rpy:1415
 translate chinese MagicMiniGameLabel_start_7260d6a4:
 
     # Victoria "I recommend that you take this task more seriously."
-    Victoria ""
+    Victoria "我建议你更认真地对待这项任务。"
 
 # game/logic/mini_games/magick/logic.rpy:1417
 translate chinese MagicMiniGameLabel_start_ebfeb22a:
 
     # ch_Name "{i}(I can do better, I know it!){/i}"
-    ch_Name ""
+    ch_Name "{i}（我能做得更好，我知道！）{/i}"
 
 # game/logic/mini_games/magick/logic.rpy:1419
 translate chinese MagicMiniGameLabel_start_c15eb5de:
 
     # Victoria "I'll give you one more try."
-    Victoria ""
+    Victoria "我再给你一次机会。"
 
 # game/logic/mini_games/magick/logic.rpy:1429
 translate chinese MagicMiniGameLabel_start_be9f0c4c:
 
     # Victoria "Better. "
-    Victoria ""
+    Victoria "更好。"
 
 # game/logic/mini_games/magick/logic.rpy:1431
 translate chinese MagicMiniGameLabel_start_f45b618f:
 
     # Victoria "Bot not perfect."
-    Victoria ""
+    Victoria "那不是完美的。"
 
 # game/logic/mini_games/magick/logic.rpy:1433
 translate chinese MagicMiniGameLabel_start_41b405df:
 
     # ch_Name "{i}(I can nail this. Just need a little bit more focus.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我能搞定。只需要再专注一点。）{/i}"
 
 # game/logic/mini_games/magick/logic.rpy:1435
 translate chinese MagicMiniGameLabel_start_d9fed8b4:
 
     # Victoria "Let's make the task more difficult this time..."
-    Victoria ""
+    Victoria "这次让我们把任务做得更难些。。。"
 
 # game/logic/mini_games/magick/logic.rpy:1447
 translate chinese MagicMiniGameLabel_start_cd0fc3a6:
 
     # Victoria "No, no, no... "
-    Victoria ""
+    Victoria "不，不，不。。。"
 
 # game/logic/mini_games/magick/logic.rpy:1449
 translate chinese MagicMiniGameLabel_start_3f0ad5e4:
 
     # Victoria "This is not the level I expect from my future students. "
-    Victoria ""
+    Victoria "这不是我对未来学生的期望。"
 
 # game/logic/mini_games/magick/logic.rpy:1451
 translate chinese MagicMiniGameLabel_start_9bd05493:
 
     # ch_Name "Sorry, I've probably got disctracted. "
-    ch_Name ""
+    ch_Name "对不起，我可能走神了。"
 
 # game/logic/mini_games/magick/logic.rpy:1453
 translate chinese MagicMiniGameLabel_start_c2f785e3:
 
     # Victoria "You still have one more try to impress me."
-    Victoria ""
+    Victoria "你还有一次机会来打动我。"
 
 # game/logic/mini_games/magick/logic.rpy:1455
 translate chinese MagicMiniGameLabel_start_b8b25fb0:
 
     # ch_Name "{i}(it's now or never!){/i}"
-    ch_Name ""
+    ch_Name "{i}（机不可失失不再来！）{/i}"
 
 # game/logic/mini_games/magick/logic.rpy:1473
 translate chinese MagicMiniGameLabel_start_ef6a093b:
 
     # Victoria "You're a little bit bellow our standart level, mister [Surname]. "
-    Victoria ""
+    Victoria "你的声音有点低于我们的标准，[Surname]先生。"
 
 # game/logic/mini_games/magick/logic.rpy:1475
 translate chinese MagicMiniGameLabel_start_db9935b9:
 
     # ch_Name "{i}(...Shit.){/i}"
-    ch_Name ""
+    ch_Name "{i}（。。。屎。）{/i}"
 
 # game/logic/mini_games/magick/logic.rpy:1477
 translate chinese MagicMiniGameLabel_start_92fb82f1:
 
     # ch_Name "{i}(I was so close. Is this... the end?){/i}"
-    ch_Name ""
+    ch_Name "{i}（我差一点就成功了。这是。。。结束吗？）{/i}"
 
 # game/logic/mini_games/magick/logic.rpy:1479
 translate chinese MagicMiniGameLabel_start_da62a5b0:
 
     # Victoria "But you've still managed to form a solid glyph for an entrant."
-    Victoria ""
+    Victoria "但你仍然成功地为进入者形成了一个坚实的字形。"
 
 # game/logic/mini_games/magick/logic.rpy:1482
 translate chinese MagicMiniGameLabel_start_ff017a1b:
 
     # ch_Name "Does this mean...?"
-    ch_Name ""
+    ch_Name "这是否意味着。。。？"
 
 # game/logic/mini_games/magick/logic.rpy:1484
 translate chinese MagicMiniGameLabel_start_c8649f98:
 
     # Victoria "Yes, but if you want to stay at this school, you'll have to show a special zeal for your studies."
-    Victoria ""
+    Victoria "是的，但如果你想留在这所学校，你必须对你的学习表现出特别的热情。"
 
 # game/logic/mini_games/magick/logic.rpy:1486
 translate chinese MagicMiniGameLabel_start_96d6fae8:
 
     # Victoria "You're enrolled."
-    Victoria ""
+    Victoria "你注册。"
 
 # game/logic/mini_games/magick/logic.rpy:1488
 translate chinese MagicMiniGameLabel_start_c7f59b2c:
 
     # Victoria "For now."
-    Victoria ""
+    Victoria "现在。"
 
 # game/logic/mini_games/magick/logic.rpy:1490
 translate chinese MagicMiniGameLabel_start_80bafeb1:
 
     # Victoria "But you'll have to show a special zeal for your studies."
-    Victoria ""
+    Victoria "但你必须对你的学习表现出特别的热情。"
 
 # game/logic/mini_games/magick/logic.rpy:1492
 translate chinese MagicMiniGameLabel_start_6fe44a2b:
 
     # Victoria "If you want to stay at this academy."
-    Victoria ""
+    Victoria "如果你还想留在学校。"
 
 # game/logic/mini_games/magick/logic.rpy:1494
 translate chinese MagicMiniGameLabel_start_1deb4694:
 
     # ch_Name "I do."
-    ch_Name ""
+    ch_Name "我做的事。"
 
 # game/logic/mini_games/magick/logic.rpy:1496
 translate chinese MagicMiniGameLabel_start_2d58164d:
 
     # ch_Name "I mean... I will. A special zeal from now on!"
-    ch_Name ""
+    ch_Name "我的意思是。。。我会的。从现在开始有一种特别的热情！"
 
 # game/logic/mini_games/magick/logic.rpy:1498
 translate chinese MagicMiniGameLabel_start_84d3dc7e:
 
     # ch_Name "Thank you!"
-    ch_Name ""
+    ch_Name "谢谢你！"
 
 # game/logic/mini_games/magick/logic.rpy:1505
 translate chinese MagicMiniGameLabel_start_a88e76b2:
 
     # Victoria "Well..."
-    Victoria ""
+    Victoria "嗯。。。"
 
 # game/logic/mini_games/magick/logic.rpy:1507
 translate chinese MagicMiniGameLabel_start_7bfa566e:
 
     # Victoria "At least you achieved some result."
-    Victoria ""
+    Victoria "至少你取得了一些成果。"
 
 # game/logic/mini_games/magick/logic.rpy:1509
 translate chinese MagicMiniGameLabel_start_12cf80c0:
 
     # ch_Name "{i}(Does this mean...?){/i}"
-    ch_Name ""
+    ch_Name "{i}（这是否意味着。。。？）{/i}"
 
 # game/logic/mini_games/magick/logic.rpy:1511
 translate chinese MagicMiniGameLabel_start_96d6fae8_1:
 
     # Victoria "You're enrolled."
-    Victoria ""
+    Victoria "你注册。"
 
 # game/logic/mini_games/magick/logic.rpy:1513
 translate chinese MagicMiniGameLabel_start_c7f59b2c_1:
 
     # Victoria "For now."
-    Victoria ""
+    Victoria "现在。"
 
 # game/logic/mini_games/magick/logic.rpy:1515
 translate chinese MagicMiniGameLabel_start_80bafeb1_1:
 
     # Victoria "But you'll have to show a special zeal for your studies."
-    Victoria ""
+    Victoria "但你必须对你的学习表现出特别的热情。"
 
 # game/logic/mini_games/magick/logic.rpy:1517
 translate chinese MagicMiniGameLabel_start_6fe44a2b_1:
 
     # Victoria "If you want to stay at this academy."
-    Victoria ""
+    Victoria "如果你还想留在学校。"
 
 # game/logic/mini_games/magick/logic.rpy:1519
 translate chinese MagicMiniGameLabel_start_1deb4694_1:
 
     # ch_Name "I do."
-    ch_Name ""
+    ch_Name "我做的事。"
 
 # game/logic/mini_games/magick/logic.rpy:1521
 translate chinese MagicMiniGameLabel_start_2d58164d_1:
 
     # ch_Name "I mean... I will. A special zeal from now on!"
-    ch_Name ""
+    ch_Name "我的意思是。。。我会的。从现在开始有一种特别的热情！"
 
 # game/logic/mini_games/magick/logic.rpy:1523
 translate chinese MagicMiniGameLabel_start_84d3dc7e_1:
 
     # ch_Name "Thank you!"
-    ch_Name ""
+    ch_Name "谢谢你！"
 
 # game/logic/mini_games/magick/logic.rpy:1531
 translate chinese MagicMiniGameLabel_start_a88e76b2_1:
 
     # Victoria "Well..."
-    Victoria ""
+    Victoria "嗯。。。"
 
 # game/logic/mini_games/magick/logic.rpy:1533
 translate chinese MagicMiniGameLabel_start_7bfa566e_1:
 
     # Victoria "At least you achieved some result."
-    Victoria ""
+    Victoria "至少你取得了一些成果。"
 
 # game/logic/mini_games/magick/logic.rpy:1535
 translate chinese MagicMiniGameLabel_start_12cf80c0_1:
 
     # ch_Name "{i}(Does this mean...?){/i}"
-    ch_Name ""
+    ch_Name "{i}（这是否意味着。。。？）{/i}"
 
 # game/logic/mini_games/magick/logic.rpy:1537
 translate chinese MagicMiniGameLabel_start_96d6fae8_2:
 
     # Victoria "You're enrolled."
-    Victoria ""
+    Victoria "你注册。"
 
 # game/logic/mini_games/magick/logic.rpy:1539
 translate chinese MagicMiniGameLabel_start_c7f59b2c_2:
 
     # Victoria "For now."
-    Victoria ""
+    Victoria "现在。"
 
 # game/logic/mini_games/magick/logic.rpy:1541
 translate chinese MagicMiniGameLabel_start_80bafeb1_2:
 
     # Victoria "But you'll have to show a special zeal for your studies."
-    Victoria ""
+    Victoria "但你必须对你的学习表现出特别的热情。"
 
 # game/logic/mini_games/magick/logic.rpy:1543
 translate chinese MagicMiniGameLabel_start_6fe44a2b_2:
 
     # Victoria "If you want to stay at this academy."
-    Victoria ""
+    Victoria "如果你还想留在学校。"
 
 # game/logic/mini_games/magick/logic.rpy:1545
 translate chinese MagicMiniGameLabel_start_1deb4694_2:
 
     # ch_Name "I do."
-    ch_Name ""
+    ch_Name "我做的事。"
 
 # game/logic/mini_games/magick/logic.rpy:1547
 translate chinese MagicMiniGameLabel_start_2d58164d_2:
 
     # ch_Name "I mean... I will. A special zeal from now on!"
-    ch_Name ""
+    ch_Name "我的意思是。。。我会的。从现在开始有一种特别的热情！"
 
 # game/logic/mini_games/magick/logic.rpy:1549
 translate chinese MagicMiniGameLabel_start_84d3dc7e_2:
 
     # ch_Name "Thank you!"
-    ch_Name ""
+    ch_Name "谢谢你！"
 
 # game/logic/mini_games/magick/logic.rpy:1553
 translate chinese MagicMiniGameLabel_start_836a6447:
 
     # Victoria "Congratulations, Mr. [Surname]! "
-    Victoria ""
+    Victoria "祝贺你，[Surname]先生！"
 
 # game/logic/mini_games/magick/logic.rpy:1555
 translate chinese MagicMiniGameLabel_start_3029edcb:
 
     # Victoria "You have passed this exam. "
-    Victoria ""
+    Victoria "你通过了这次考试。"
 
 # game/logic/mini_games/magick/logic.rpy:1557
 translate chinese MagicMiniGameLabel_start_1820d408:
 
     # Victoria "You have good potential! "
-    Victoria ""
+    Victoria "你很有潜力！"
 
 # game/logic/mini_games/magick/logic.rpy:1559
 translate chinese MagicMiniGameLabel_start_b2fa65d1:
 
     # Victoria "Someday you may even become a worthy wizard!"
-    Victoria ""
+    Victoria "有一天你甚至会成为一个值得尊敬的巫师！"
 
 # game/logic/mini_games/magick/logic.rpy:1561
 translate chinese MagicMiniGameLabel_start_90619c60:
 
     # ch_Name "Thank you, miss Lapis!"
-    ch_Name ""
+    ch_Name "谢谢你，Lapis小姐！"
 
 # game/logic/mini_games/magick/logic.rpy:1563
 translate chinese MagicMiniGameLabel_start_de1b88f9:
 
     # ch_Name "I won't dissapoint you!"
-    ch_Name ""
+    ch_Name "我不会让你失望的！"
 
 # game/logic/mini_games/magick/logic.rpy:1572
 translate chinese MagicMiniGameLabel_start_66986e19:
 
     # Victoria "Don't feel bad, Mr. [Surname]. "
-    Victoria ""
+    Victoria "别难过，先生[Surname]。"
 
 # game/logic/mini_games/magick/logic.rpy:1574
 translate chinese MagicMiniGameLabel_start_2246d7ff:
 
     # Victoria "I see such results on this test very rarely."
-    Victoria ""
+    Victoria "我在这个测试中很少看到这样的结果。"
 
 # game/logic/mini_games/magick/logic.rpy:1576
 translate chinese MagicMiniGameLabel_start_db8f0bf5:
 
     # ch_Name "Was it that bad?"
-    ch_Name ""
+    ch_Name "有那么糟糕吗？"
 
 # game/logic/mini_games/magick/logic.rpy:1578
 translate chinese MagicMiniGameLabel_start_c49a8d1c:
 
     # Victoria "On the contrary!"
-    Victoria ""
+    Victoria "恰恰相反！"
 
 # game/logic/mini_games/magick/logic.rpy:1580
 translate chinese MagicMiniGameLabel_start_40637ff2:
 
     # Victoria "A very decent result. But I think you can do better!"
-    Victoria ""
+    Victoria "一个非常不错的结果。但我认为你可以做得更好！"
 
 # game/logic/mini_games/magick/logic.rpy:1582
 translate chinese MagicMiniGameLabel_start_4012153e:
 
     # Victoria "You're accepted. "
-    Victoria ""
+    Victoria "你接受。"
 
 # game/logic/mini_games/magick/logic.rpy:1584
 translate chinese MagicMiniGameLabel_start_852c6fe8:
 
     # Victoria "You'll need a lot of practice to get even better."
-    Victoria ""
+    Victoria "你需要大量的练习才能做得更好。"
 
 # game/logic/mini_games/magick/logic.rpy:1586
 translate chinese MagicMiniGameLabel_start_086c8057:
 
     # ch_Name "I'm looking forward to it!"
-    ch_Name ""
+    ch_Name "我很期待！"
 
 # game/logic/mini_games/magick/logic.rpy:1588
 translate chinese MagicMiniGameLabel_start_21a50ec3:
 
     # Victoria "Nice zeal, don't lose it!"
-    Victoria ""
+    Victoria "热情不错，别失去它！"
 
 # game/logic/mini_games/magick/logic.rpy:1592
 translate chinese MagicMiniGameLabel_start_ccc7d79f:
 
     # Victoria "Great result, [Name]! "
-    Victoria ""
+    Victoria "伟大的结果，[Name]！"
 
 # game/logic/mini_games/magick/logic.rpy:1594
 translate chinese MagicMiniGameLabel_start_a21a0f87:
 
     # Victoria "You are definitely accepted!"
-    Victoria ""
+    Victoria "你绝对被接受了！"
 
 # game/logic/mini_games/magick/logic.rpy:1596
 translate chinese MagicMiniGameLabel_start_c58a677d:
 
     # Victoria "You have a great future ahead of you. "
-    Victoria ""
+    Victoria "你的前途一片光明。"
 
 # game/logic/mini_games/magick/logic.rpy:1598
 translate chinese MagicMiniGameLabel_start_1c8f3fb2:
 
     # Victoria "And I will do my best to help you reach your potential!"
-    Victoria ""
+    Victoria "我会尽我所能帮助你发挥你的潜力！"
 
 # game/logic/mini_games/magick/logic.rpy:1600
 translate chinese MagicMiniGameLabel_start_90619c60_1:
 
     # ch_Name "Thank you, miss Lapis!"
-    ch_Name ""
+    ch_Name "谢谢你，Lapis小姐！"
 
 # game/logic/mini_games/magick/logic.rpy:1602
 translate chinese MagicMiniGameLabel_start_2919d6ee:
 
     # ch_Name "That's an honor to hear this!"
-    ch_Name ""
+    ch_Name "很荣幸听到这个消息！"
 
