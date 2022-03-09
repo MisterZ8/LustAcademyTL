@@ -1558,251 +1558,251 @@ translate chinese strings:
 translate chinese Willow_1_label_aefaf764:
 
     # ch_Name "Maybe I can try to cheer her up?"
-    ch_Name ""
+    ch_Name "也许我可以试着让她高兴起来？"
 
 # game/logic/events/gordon.rpy:365
 translate chinese Willow_1_label_2e71c19d:
 
     # Gordon "Hmm, maybe. That's an idea! "
-    Gordon ""
+    Gordon "嗯，也许吧。这是一个主意！"
 
 # game/logic/events/gordon.rpy:366
 translate chinese Willow_1_label_fb80f5f4:
 
     # Gordon "In any case, you couldn't do any worse. Go for it."
-    Gordon ""
+    Gordon "无论如何，你不能做得更糟了。就去做吧。"
 
 # game/logic/events/gordon.rpy:371
 translate chinese Willow_1_label_48f490f0:
 
     # Willow "[Name]? "
-    Willow ""
+    Willow "[Name]？"
 
 # game/logic/events/gordon.rpy:373
 translate chinese Willow_1_label_81f12dc1:
 
     # ch_Name "You look frustrated, what's the matter?"
-    ch_Name ""
+    ch_Name "你看起来很沮丧，怎么了？"
 
 # game/logic/events/gordon.rpy:375
 translate chinese Willow_1_label_0e028c06:
 
     # Willow "Well, things could be better. It's not that bad, but..."
-    Willow ""
+    Willow "嗯，事情可以变得更好。没那么糟，但是。。。"
 
 # game/logic/events/gordon.rpy:376
 translate chinese Willow_1_label_c7f7b334:
 
     # ch_Name "Share it with me, baby. You can tell me just anything!"
-    ch_Name ""
+    ch_Name "和我分享吧，宝贝。你可以告诉我任何事情！"
 
 # game/logic/events/gordon.rpy:377
 translate chinese Willow_1_label_6b50b5a7:
 
     # Willow "The article will be up tomorrow... on the front page of our local newspaper..."
-    Willow ""
+    Willow "文章明天发表。在我们当地报纸的头版上。。。"
 
 # game/logic/events/gordon.rpy:380
 translate chinese Willow_1_label_abb32ea5:
 
     # Willow "Yes, about the Chompski shop."
-    Willow ""
+    Willow "是的，关于Chompski商店的事。"
 
 # game/logic/events/gordon.rpy:381
 translate chinese Willow_1_label_582fdc56:
 
     # Willow "We agreed to release it about two months ago and only now they are actually going to do it."
-    Willow ""
+    Willow "我们在两个月前就同意发布它，直到现在他们才真正打算这么做。"
 
 # game/logic/events/gordon.rpy:382
 translate chinese Willow_1_label_5f28d540:
 
     # ch_Name "My congratulations! And what's the problem, then?"
-    ch_Name ""
+    ch_Name "我祝贺你！那么问题是什么呢？"
 
 # game/logic/events/gordon.rpy:383
 translate chinese Willow_1_label_b539aac0:
 
     # Willow "They want to put my photo there, but all the pictures that were taken... they're just horrible!"
-    Willow ""
+    Willow "他们想把我的照片放在那里，但所有拍的照片。。。他们只是可怕！"
 
 # game/logic/events/gordon.rpy:386
 translate chinese Willow_1_label_9088fa50:
 
     # ch_Name "Yeah, that sucks... Have you tried talking to them?"
-    ch_Name ""
+    ch_Name "是的，那很糟糕。。。你跟他们谈过了吗？"
 
 # game/logic/events/gordon.rpy:389
 translate chinese Willow_1_label_b04f62ab:
 
     # Willow "The chief-editor just shrugged her shoulders. \"We can do nothing, baby girl.\" What a bitch!"
-    Willow ""
+    Willow "主编只是耸了耸肩。“我们什么也做不了，宝贝女儿。”真是个婊子！"
 
 # game/logic/events/gordon.rpy:391
 translate chinese Willow_1_label_793e5f87:
 
     # ch_Name "Don't worry, there's still time. I'm sure we can come up with something."
-    ch_Name ""
+    ch_Name "别担心，还有时间。我相信我们会想出办法的。"
 
 # game/logic/events/gordon.rpy:393
 translate chinese Willow_1_label_5624c095:
 
     # ch_Name "Hmm... Maybe I can take some photos of you, Willow?"
-    ch_Name ""
+    ch_Name "嗯。。。也许我可以给你拍几张照片，Willow？"
 
 # game/logic/events/gordon.rpy:394
 translate chinese Willow_1_label_d0129cf7:
 
     # ch_Name "And we will choose the best one together. What do you think?"
-    ch_Name ""
+    ch_Name "我们一起选择最好的。你觉得呢？"
 
 # game/logic/events/gordon.rpy:398
 translate chinese Willow_1_label_22676f21:
 
     # Willow "I can't believe that's really happening!"
-    Willow ""
+    Willow "我不敢相信这真的发生了！"
 
 # game/logic/events/gordon.rpy:399
 translate chinese Willow_1_label_08c0565f:
 
     # Willow "I would be so grateful to you, [Name]!"
-    Willow ""
+    Willow "我将非常感谢你，[Name]！"
 
 # game/logic/events/gordon.rpy:401
 translate chinese Willow_1_label_0aa2e74a:
 
     # ch_Name "Do you have a good camera?"
-    ch_Name ""
+    ch_Name "你有好的相机吗？"
 
 # game/logic/events/gordon.rpy:402
 translate chinese Willow_1_label_2b3ce958:
 
     # Willow "Daddy has a camera, he bought it for the fish pies photo-exhibition."
-    Willow ""
+    Willow "爸爸有一台相机，他是为鱼馅饼摄影展买的。"
 
 # game/logic/events/gordon.rpy:406
 translate chinese Willow_1_label_202cb1e3:
 
     # Willow "Whoa!"
-    Willow ""
+    Willow "哇！"
 
 # game/logic/events/gordon.rpy:414
 translate chinese Willow_1_label_b99bbf43:
 
     # ch_Name "The breeze feels so wonderful...It's so nice outside! "
-    ch_Name ""
+    ch_Name "微风吹得好美妙。。。外面天气真好！"
 
 # game/logic/events/gordon.rpy:415
 translate chinese Willow_1_label_74d87f45:
 
     # Willow "[Name]! Let's take some photos right in front of the shop."
-    Willow ""
+    Willow "[Name]！我们就在商店前面拍几张照片吧。"
 
 # game/logic/events/gordon.rpy:416
 translate chinese Willow_1_label_62960e17:
 
     # ch_Name "Yep. Give me a second to set up the camera."
-    ch_Name ""
+    ch_Name "是的。给我点时间把相机装好。"
 
 # game/logic/events/gordon.rpy:418
 translate chinese Willow_1_label_94c85620:
 
     # Willow "So... How should I pose?"
-    Willow ""
+    Willow "所以。。。我该怎么摆姿势？"
 
 # game/logic/events/gordon.rpy:420
 translate chinese Willow_1_label_faaa4a4e:
 
     # ch_Name "What happened to your face, honey?"
-    ch_Name ""
+    ch_Name "你的脸怎么了，亲爱的？"
 
 # game/logic/events/gordon.rpy:424
 translate chinese Willow_1_label_ca4ac583:
 
     # ch_Name "All that you need is to lift your head up and smile. Just relax, okay?"
-    ch_Name ""
+    ch_Name "你所需要的只是抬起头来微笑。放松，好吗？"
 
 # game/logic/events/gordon.rpy:425
 translate chinese Willow_1_label_a30018d2:
 
     # ch_Name "You look adorable, sweetie."
-    ch_Name ""
+    ch_Name "你看起来很可爱，亲爱的。"
 
 # game/logic/events/gordon.rpy:429
 translate chinese Willow_1_label_5e6102e0:
 
     # ch_Name "That's what we need!"
-    ch_Name ""
+    ch_Name "这就是我们需要的！"
 
 # game/logic/events/gordon.rpy:433
 translate chinese Willow_1_label_7451a21d:
 
     # ch_Name "Just look at me and smile." with flash
-    ch_Name "" with flash
+    ch_Name "看着我，笑一笑。" with flash
 
 # game/logic/events/gordon.rpy:435
 translate chinese Willow_1_label_38772a2f:
 
     # ch_Name "Yeah, exactly!"
-    ch_Name ""
+    ch_Name "是的，完全正确！"
 
 # game/logic/events/gordon.rpy:444
 translate chinese Willow_1_label_fca54c10:
 
     # ch_Name "These photos are amazing."
-    ch_Name ""
+    ch_Name "这些照片太棒了。"
 
 # game/logic/events/gordon.rpy:446
 translate chinese Willow_1_label_3094acb1:
 
     # ch_Name "Only look at this one!"
-    ch_Name ""
+    ch_Name "只看这个！"
 
 # game/logic/events/gordon.rpy:447
 translate chinese Willow_1_label_0d1543bc:
 
     # Willow "Wow! Who is this pretty girl?"
-    Willow ""
+    Willow "哇！这个漂亮的女孩是谁？"
 
 # game/logic/events/gordon.rpy:448
 translate chinese Willow_1_label_103f9115:
 
     # Willow "Is it even me? That can't be true!"
-    Willow ""
+    Willow "是我吗？那不可能是真的！"
 
 # game/logic/events/gordon.rpy:452
 translate chinese Willow_1_label_6a51f4ea:
 
     # Willow "Thanks, [Name]! I'm so grateful to you!"
-    Willow ""
+    Willow "谢谢，[Name]！我太感激你了！"
 
 # game/logic/events/gordon.rpy:453
 translate chinese Willow_1_label_5cf46851:
 
     # Willow "I don't know what I would have done without you."
-    Willow ""
+    Willow "我不知道没有你我该怎么办。"
 
 # game/logic/events/gordon.rpy:455
 translate chinese Willow_1_label_a891a2ad:
 
     # ch_Name "Oh, Willow, it's nothing."
-    ch_Name ""
+    ch_Name "噢，Willow，没什么。"
 
 # game/logic/events/gordon.rpy:458
 translate chinese Willow_1_label_67572129:
 
     # Willow "I only hope that you will visit us more often."
-    Willow ""
+    Willow "我只希望你能经常来看我们。"
 
 # game/logic/events/gordon.rpy:460
 translate chinese Willow_1_label_beafbab3:
 
     # ch_Name "I'll remember it, he-he."
-    ch_Name ""
+    ch_Name "我会记住的，他-他。"
 
 translate chinese strings:
 
     # game/logic/events/gordon.rpy:12
     old "5 Ask for ingredients"
-    new ""
+    new "5索要食材"
 
