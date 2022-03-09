@@ -5968,35 +5968,35 @@ translate chinese strings:
 translate chinese Xmas_start_mc_544ba0b6:
 
     # ch_Name "{i}(Oh, is it from that one time, when we celebrated Yule?){/i}"
-    ch_Name ""
+    ch_Name "{i}（是那次吗，我们庆祝圣诞节的时候？）{/i}"
 
 # game/logic/events/xmas.rpy:58
 translate chinese Xmas_start_mc_9e2ba908:
 
     # ch_Name "{i}(Yeah, that was fun...){/i}"
-    ch_Name ""
+    ch_Name "{i}（是啊，很有趣。。。）{/i}"
 
 # game/logic/events/xmas.rpy:59
 translate chinese Xmas_start_mc_87cfe0bc:
 
     # ch_Name "{i}(Strangely, it feels like I remember that day as if it was yesterday.){/i}"
-    ch_Name ""
+    ch_Name "{i}（奇怪的是，我感觉那天就像昨天一样。）{/i}"
 
 # game/logic/events/xmas.rpy:60
 translate chinese Xmas_start_mc_5cd7101b:
 
     # ch_Name "{i}(If I close my eyes, I can remember every second of it.){/i}"
-    ch_Name ""
+    ch_Name "{i}（如果我闭上眼睛，我能记得每一秒。）{/i}"
 
 # game/logic/events/xmas.rpy:104
 translate chinese Xmas_1_label_04b0d164:
 
     # Arthur "...and students go with their houses to celebrate Yule..."
-    Arthur ""
+    Arthur "。。。学生们和他们的房子一起庆祝圣诞节。。。"
 
 translate chinese strings:
 
     # game/logic/events/xmas.rpy:62
     old "Relive the memory"
-    new ""
+    new "重温记忆"
 
