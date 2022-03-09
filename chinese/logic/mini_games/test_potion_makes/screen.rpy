@@ -92,5 +92,5 @@ translate chinese strings:
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:20
     old "Protects your magical sources from the creatures of the night."
-    new ""
+    new "保护你的魔法资源不受暗夜生物的伤害。"
 
