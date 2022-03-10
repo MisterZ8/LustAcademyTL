@@ -997,7 +997,7 @@ translate russian strings:
     # renpy/common/00gltest.rpy:207
     old "Changes will take effect the next time this program is run."
     new "Изменения войдут в силу при следующем запуске"
-     
+
 
     # renpy/common/00gltest.rpy:242
     old "Performance Warning"
@@ -1149,9 +1149,8 @@ translate russian strings:
 
     # renpy/common/00accessibility.rpy:180
     old "High Contrast Text"
-    new ""
+    new "Высокий Контраст Текста"
 
     # renpy/common/00preferences.rpy:493
     old "high contrast text"
-    new ""
-
+    new "высокий контраст текста"
