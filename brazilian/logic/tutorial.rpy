@@ -1602,33 +1602,33 @@ translate brazilian strings:
 
     # game/logic/tutorial.rpy:19
     old "Now you can try it on your own! You can use this button anytime to watch this tutorial again and refresh your memory. Good luck!."
-    new ""
+    new "Agora você pode tentar sozinho! Você pode usar esse botão a qualquer momento para assistir esse tutorial novamente e refrescar sua memória. Boa sorte!"
 
     # game/logic/tutorial.rpy:19
     old "In this menu, you can easily find all the characters in the game that offer a quest or activity throughout the game day. Here’s the best part: you can instantly navigate to them right from the list."
-    new ""
+    new "Nesse menu você pode achar facilmente todas as personagens do jogo que oferecem missões ou atividade durante o dia de jogo. Eis a melhor parte: você pode navegar diretamente para eles a partir da lista."
 
     # game/logic/tutorial.rpy:19
     old "The characters' avatars are located opposite the time icons. This means that this is the time of day when you can interact with them."
-    new ""
+    new "Os avatares das personagens está oposto ao ícone de tempo. Isso significa que esse é o hosrário do dia em que você pode interagir."
 
     # game/logic/tutorial.rpy:19
     old "For example, all the characters whose activities are available in the night are shown here. This principle applies to any time of the day."
-    new ""
+    new "Por exemplo, todas as personagens cujas atividades estão disponíveis à noite são exibidas aqui. Esse princípio se aplica a qualquer horário do dia."
 
     # game/logic/tutorial.rpy:19
     old "Select the avatar of the character you plan to meet and click this button. You will immediately teleport to the location where that character is located."
-    new ""
+    new "Selecione o avatar da personagem com a qual planeja se encontrar e clique esse botão. Você irá se teleportar imediatamente para a localização onde essa personagem estiver."
 
     # game/logic/tutorial.rpy:19
     old "If you select a character whose interaction is available later in the day, you will be warned that this choice leads to a timeskip. This is done to protect you from accidentally clicking on it."
-    new ""
+    new "Se você selecionar uma personagem cuja interação está disponível mais tarde no dia, você será avisado que essa opção irá gerar um salto de tempo. Isso acontece para lhe proteger de clicar acidentalmente."
 
     # game/logic/tutorial.rpy:19
     old "If the time of day is over, the avatars become unavailable until the next morning. It still shows all the characters available at that time, but you can't access them directly from this menu until the new day arrives."
-    new ""
+    new "Se o horário de dia tiver passado, os avatares ficam indisponíveis até a manhã seguinte. Todas as personagens disponíveis naquele horário ainda aparecem, mas você não consegue acessá-las diretamente a partir desse menu até o novo dia."
 
     # game/logic/tutorial.rpy:550
     old "Close"
-    new ""
+    new "Fechar"
 
