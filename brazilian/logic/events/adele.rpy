@@ -3112,7 +3112,7 @@ translate brazilian vip_lucy_1_label_2_59b62c87_1:
 translate brazilian vip_lucy_1_label_2_0728f8ee:
 
     # ch_Name "It's so amazing to feel your every dirty hole."
-    ch_Name "Tão maravilhoso sentir o seu buraco."
+    ch_Name "Tão maravilhoso sentir todos os seus buracos."
 
 # game/logic/events/adele.rpy:1060
 translate brazilian vip_lucy_1_label_2_4902deb4:
@@ -3124,7 +3124,7 @@ translate brazilian vip_lucy_1_label_2_4902deb4:
 translate brazilian vip_lucy_1_label_2_022262cc:
 
     # Lucy "My skin wants to feel your cum!"
-    Lucy "Minha pele quer sentir seu sêmen!"
+    Lucy "Minha pele quer sentir seu gozo!"
 
 # game/logic/events/adele.rpy:1063
 translate brazilian vip_lucy_1_label_2_def28355:
@@ -3160,7 +3160,7 @@ translate brazilian vip_lucy_1_label_2_b7f092b8:
 translate brazilian vip_lucy_1_label_2_87084097:
 
     # Lucy "It's so pleasant to feel it flowing."
-    Lucy "Tão gostoso sentir como ele está escorrendo."
+    Lucy "Tão gostoso sentir ele escorrendo."
 
 # game/logic/events/adele.rpy:1071
 translate brazilian vip_lucy_1_label_2_f66c5d3b:
@@ -7552,7 +7552,7 @@ translate brazilian adele_3_label_978a119d:
 translate brazilian adele_3_label_0960d251:
 
     # Adele "Since you have the nerve to ask me out..."
-    Adele "Gostaria de experimentar?"
+    Adele "Já que você teve a coragem de me chamar para sair..."
 
 # game/logic/events/adele.rpy:2300
 translate brazilian adele_3_label_5bf81197:
