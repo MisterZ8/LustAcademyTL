@@ -28,7 +28,7 @@ translate russian sheet_28_3c0ea772:
 translate russian sheet_28_bd4fbe57:
 
     # ch_Name "[Name].{w} [Name] [Surname]."
-    ch_Name ""
+    ch_Name "[Name]. {w} [Name] [Surname]"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:11
 translate russian sheet_28_269d5cca:
@@ -178,7 +178,7 @@ translate russian sheet_28_c8e495b2:
 translate russian sheet_28_d1a986de:
 
     # Leona "Shh!"
-    Leona "Чшш!"
+    Leona "Тсс!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:58
 translate russian sheet_28_b75115ca:
@@ -226,7 +226,7 @@ translate russian sheet_28_c8537753:
 translate russian sheet_28_5296faab:
 
     # Katrina "Leona, I won't let you steal him."
-    Katrina "Leona, я не позволю тебе украсть его."
+    Katrina "Леона, я не позволю тебе украсть его."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:74
 translate russian sheet_28_e456d3a3:
@@ -262,37 +262,37 @@ translate russian sheet_28_bb8951a9:
 translate russian sheet_28_1a21ab5c:
 
     # Leona "Can't you see Katrina? [Name] is a brave Leoheart soul!"
-    Leona "Ты что, не видишь, Katrina? У [Name] храбрая душа Leoheart!"
+    Leona "Ты что, не видишь, Катрина? [Name] - храбрая душа Леонхарта!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:85
 translate russian sheet_28_dc7b457d:
 
     # Leona "Leonheart will guide him on a just path!"
-    Leona "Leonheart направит его на верный путь!"
+    Leona "Леонхарт направит его на верный путь!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:87
 translate russian sheet_28_1ff407a8:
 
     # Katrina "The only path for him is Adderin. He is a pureblood magician!"
-    Katrina "Его единственный путь это Adderin. Он чистокровный маг!"
+    Katrina "Его единственный путь это Аддерин. Он чистокровный маг!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:88
 translate russian sheet_28_58a2c036:
 
     # Katrina "We can fuel his potential!"
-    Katrina "Мы можем подпитать его потенциал!"
+    Katrina "Мы можем развить его потенциал!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:90
 translate russian sheet_28_0dd9b763:
 
     # Leona "I sense his loneliness and pain, Adderin will only hurt him more."
-    Leona "Я чувствую его одиночество и боль, Adderin только еще больше ранит его."
+    Leona "Я чувствую его одиночество и боль, Аддерин только еще больше ранит его."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:91
 translate russian sheet_28_a73f98c8:
 
     # Leona "He needs a family. He will find one at Leonheart."
-    Leona "Ему нужна семья. Он найдет ее в Leonheart."
+    Leona "Ему нужна семья. Он найдет ее в Леонхарте."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:93
 translate russian sheet_28_7c73c2b7:
@@ -351,8 +351,8 @@ translate russian sheet_28_cd3c1793:
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:111
 translate russian sheet_28_86954eb5:
 
-    # Leona "Но думаю, ты не пожалеешь!"
-    Leona ""
+    # Leona "But I think you won't regret it!"
+    Leona "Но думаю, ты не пожалеешь!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:113
 translate russian sheet_28_54e6e6b9:
@@ -424,7 +424,7 @@ translate russian sheet_28_from_gallery_e03ba84d:
 translate russian sheet_28_from_gallery_52e4e075:
 
     # ch_Name "What the fuck is wrong with you two?"
-    ch_Name "Что, блять, такое с вами двумя?"
+    ch_Name "Что, блять, такое с вами обеими?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:151
 translate russian sheet_28_from_gallery_7154ba39:
@@ -448,7 +448,7 @@ translate russian sheet_28_from_gallery_9b0b6ac3:
 translate russian sheet_28_from_gallery_5c7c2fb1:
 
     # Katrina "What a waste of time."
-    Katrina "Какая трата времени."
+    Katrina "Пустая трата времени."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:159
 translate russian sheet_28_from_gallery_ca42b9ae:
@@ -466,7 +466,7 @@ translate russian sheet_28_from_gallery_ae93d8cf:
 translate russian sheet_28_from_gallery_2ecc8345:
 
     # Katrina "To think of that I've almost invited you to Adderin! "
-    Katrina "Только подумать, что я чуть не пригласила тебя в Adderin! "
+    Katrina "Только подумать, что я чуть не пригласила тебя в Аддерин! "
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:165
 translate russian sheet_28_from_gallery_78cda8da:
@@ -520,7 +520,7 @@ translate russian sheet_28_from_gallery_dadcb623:
 translate russian sheet_28_from_gallery_05698d3f:
 
     # Leona "Yes. From now you are Leonheart. "
-    Leona "Да. С этого момента ты Leonheart. "
+    Leona "Да. С этого момента ты в Леонхарте. "
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:190
 translate russian sheet_28_1_254_2e831b09:
@@ -664,7 +664,7 @@ translate russian sheet_28_1_254_139838c1:
 translate russian sheet_28_1_254_d03ad61b:
 
     # Katrina "You're too shy, Leona!"
-    Katrina "Ты слишком застенчива, Leona!"
+    Katrina "Ты слишком застенчива, Леона!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:241
 translate russian sheet_28_1_254_195b1c93:
@@ -706,7 +706,7 @@ translate russian sheet_28_1_254_b5ae6df2:
 translate russian sheet_28_1_254_ebfac971:
 
     # Katrina "Let me show you what Adderin has to offer, [Name]."
-    Katrina "Позволь мне показать тебе, что может предложить Adderin, [Name]."
+    Katrina "Позволь мне показать тебе, что может предложить Аддерин, [Name]."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:257
 translate russian sheet_28_1_254_980c2b86:
@@ -796,7 +796,7 @@ translate russian sheet_28_1_254_b0d2137b:
 translate russian sheet_28_1_254_0d8169e2:
 
     # Katrina "I'm not afraid of this challenge, Leona!"
-    Katrina "Меня не пугает твой вызов, Leona!"
+    Katrina "Меня не пугает твой вызов, Леона!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:287
 translate russian sheet_28_1_254_9e817abb:
@@ -814,7 +814,7 @@ translate russian sheet_28_1_254_2ed45568:
 translate russian sheet_28_1_254_437735f2:
 
     # Leona "Let me show you a body of a real woman, [Name]."
-    Leona "ДАй мне показать тебе тело настоящей женщины, [Name]."
+    Leona "Дай мне показать тебе тело настоящей женщины, [Name]."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:293
 translate russian sheet_28_1_254_0f26d0e9:
@@ -826,7 +826,7 @@ translate russian sheet_28_1_254_0f26d0e9:
 translate russian sheet_28_1_254_e79ac0e6:
 
     # Leona "But Katrina, love!"
-    Leona "Но Katrina, любовь моя!"
+    Leona "Но Катрина, любовь моя!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:297
 translate russian sheet_28_1_254_7eee539d:
@@ -850,7 +850,7 @@ translate russian sheet_28_1_254_47c54a84:
 translate russian sheet_28_1_254_5e69a6d0:
 
     # Leona "Shhh!"
-    Leona "Чшшш!"
+    Leona "Тссс!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:305
 translate russian sheet_28_1_254_421372f7:
@@ -898,7 +898,7 @@ translate russian sheet_28_1_254_75d9bbeb:
 translate russian sheet_28_1_254_21be5fcc:
 
     # Katrina "*Gulp!*"
-    Katrina ""
+    Katrina "*(Глотает)*"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:325
 translate russian sheet_28_1_254_bfcf26fc:
@@ -1006,7 +1006,7 @@ translate russian sheet_28_1_254_65043f0e:
 translate russian sheet_28_1_254_56e3055f:
 
     # Leona "Choose Leonheat!"
-    Leona "Выбрать Leonheat!"
+    Leona "Выбрать Леонхарт!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:362
 translate russian sheet_28_1_254_615387ba:
@@ -1168,13 +1168,13 @@ translate russian sheet_28_1_254_0cd80de3:
 translate russian sheet_28_1_254_5e9b4f7b:
 
     # Katrina "To think that I'd almost invited you to Adderin!"
-    Katrina "Только подумать, что я чуть не пригласила тебя в Adderin!"
+    Katrina "Только подумать, что я чуть не пригласила тебя в Аддерин!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:419
 translate russian sheet_28_1_254_191fc114:
 
     # Katrina "Fucking joke."
-    Katrina "Гребаная шутка."
+    Katrina "Грёбаная шутка."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:420
 translate russian sheet_28_1_254_9d5ff652:
@@ -1270,13 +1270,13 @@ translate russian sheet_28_1_262_16_17260cb2:
 translate russian sheet_28_1_262_16_715458db:
 
     # Leona "Oh! Look at him, Katrina."
-    Leona "О! Взгляни на него, Katrina."
+    Leona "О! Взгляни на него, Катрина."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:443
 translate russian sheet_28_1_262_16_d4eee75f:
 
     # Leona "The boy speaks like a man."
-    Leona "Мальчик говорит как мужчина."
+    Leona "Мальчик говорит, как мужчина."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:445
 translate russian sheet_28_1_262_16_b9542e0c:
@@ -1348,7 +1348,7 @@ translate russian sheet_28_1_262_16_ad7f252b:
 translate russian sheet_28_1_262_16_d9dbcf65:
 
     # Leona "Katrina, are you sorry?"
-    Leona "Katrina, ты сожалеешь?"
+    Leona "Катрина, ты сожалеешь?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:468
 translate russian sheet_28_1_262_16_5102607f:
@@ -1378,7 +1378,7 @@ translate russian sheet_28_1_262_16_7bb8fbdf:
 translate russian sheet_28_1_262_16_19768154:
 
     # Katrina "...to please a future Adderin member."
-    Katrina "...чтобы угодить будущему члену Adderin."
+    Katrina "...чтобы угодить будущему члену Аддерина."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:478
 translate russian sheet_28_1_262_16_6ae18e9d:
@@ -1390,13 +1390,13 @@ translate russian sheet_28_1_262_16_6ae18e9d:
 translate russian sheet_28_1_262_16_fae4d255:
 
     # Leona "Even if [Name] chooses Leonheart?"
-    Leona "Даже если [Name] выберет Leonheart?"
+    Leona "Даже если [Name] выберет Леонхарт?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:482
 translate russian sheet_28_1_262_16_95cc9f22:
 
     # Katrina "You're delusional if you still hope to get him, Leona."
-    Katrina "Ты бредишь, если все еще надеешься заполучить его, Leona."
+    Katrina "Ты бредишь, если все еще надеешься заполучить его, Леона."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:484
 translate russian sheet_28_1_262_16_f750a086:
@@ -1414,7 +1414,7 @@ translate russian sheet_28_1_262_16_863c6a04:
 translate russian sheet_28_1_262_16_624decb3:
 
     # Leona "Are you lonely?"
-    Leona "Пебе одиноко?"
+    Leona "Тебе одиноко?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:490
 translate russian sheet_28_1_262_16_d3836db1:
@@ -1534,7 +1534,7 @@ translate russian sheet_28_1_262_16_22b43c7e:
 translate russian sheet_28_1_262_16_4745b8df:
 
     # ch_Name "{i}(Adderin or Leonheart?){/i}"
-    ch_Name "{i}(Adderin или Leonheart?){/i}"
+    ch_Name "{i}(Аддерин или Леонхарт?){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:533
 translate russian sheet_28_1_262_16_10c7ab55:
@@ -1546,13 +1546,13 @@ translate russian sheet_28_1_262_16_10c7ab55:
 translate russian sheet_28_1_262_16_28a0d6bc:
 
     # ch_Name "{i}(Adderin is tempting, but...){/i}"
-    ch_Name "i}(Adderin соблазнителен, но...){/i}"
+    ch_Name "i}(Аддерин привлекает, но...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:535
 translate russian sheet_28_1_262_16_fcea3e36:
 
     # ch_Name "{i}(Sam is Leonheart, so does Haley. And that asian chick... Lily?){/i}"
-    ch_Name "{i}(Sam в Leonheart, и Haley тоже. И эта азиатская цыпочка... Lily?){/i}"
+    ch_Name "{i}(Сэм в Леонхарте, и Хейли тоже. И эта азиатская цыпочка... Лили?){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:536
 translate russian sheet_28_1_262_16_f94eb1c6:
@@ -1564,7 +1564,7 @@ translate russian sheet_28_1_262_16_f94eb1c6:
 translate russian sheet_28_1_262_16_617f0420:
 
     # ch_Name "{i}(...Leona sucks so much better!){/i}"
-    ch_Name "{i}(...Leona сосет намного лучше!){/i}"
+    ch_Name "{i}(...Леона сосет намного лучше!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:539
 translate russian sheet_28_1_262_16_3ada17ee:
@@ -1624,13 +1624,13 @@ translate russian sheet_28_1_262_16_e5d2ce93:
 translate russian sheet_28_1_262_16_f7463d7c:
 
     # Katrina "Congratulations, Leona. It seems that you've got..."
-    Katrina "Поздравляю, Leona. Похоже, ты получила..."
+    Katrina "Поздравляю, Леона. Похоже, ты получила..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:553
 translate russian sheet_28_1_262_16_c8b29901:
 
     # Katrina "...another loser in Leonheart family."
-    Katrina "...еще одного лузера в семействе Leonheart"
+    Katrina "...еще одного лузера в семействе Леонхарт."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:555
 translate russian sheet_28_1_262_16_adb72d58:
@@ -1696,7 +1696,7 @@ translate russian sheet_28_1_262_16_d807b706:
 translate russian sheet_28_1_262_16_fd50b9ca:
 
     # Leona "Or you were just shy when we started?"
-    Leona "Или ты просто снеснялся, когда мы начинали?"
+    Leona "Или ты просто стеснялся, когда мы начинали?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:569
 translate russian sheet_28_1_262_16_edc0fd49:
@@ -1720,7 +1720,7 @@ translate russian sheet_28_1_262_16_429501c4:
 translate russian sheet_28_1_262_16_7cad1fbe:
 
     # Leona "*Gulp!*"
-    Leona ""
+    Leona "*(Глотает)*"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:574
 translate russian sheet_28_1_262_16_42c19953:
@@ -1744,7 +1744,7 @@ translate russian sheet_28_1_262_16_3de0a3e3:
 translate russian sheet_28_1_262_16_7cad1fbe_1:
 
     # Leona "*Gulp!*"
-    Leona ""
+    Leona "*(Глотает)*"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:582
 translate russian sheet_28_1_262_16_7db529f1:
@@ -1774,25 +1774,25 @@ translate russian test_sheet_28_face_5371717f:
 translate russian test_sheet_28_face_abf7b085:
 
     # Leona "Ahhh... *Gulp!*"
-    Leona "Аххх... *Gulp!*"
+    Leona "Аххх... *(Глотает)*"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:602
 translate russian test_sheet_28_face_2aa674be:
 
     # ch_Name "TAKE..."
-    ch_Name "ПРИМИ..."
+    ch_Name "ЭТО..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:603
 translate russian test_sheet_28_face_bd738279:
 
     # ch_Name "...IT..."
-    ch_Name "...ЭТО..."
+    ch_Name "...ВСЁ..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:609
 translate russian test_sheet_28_face_6aa29495:
 
     # ch_Name "...ALL!"
-    ch_Name "...ВСЕ!"
+    ch_Name "...ТЕБЕ!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:618
 translate russian test_sheet_28_face_766a1ca6:
@@ -1834,7 +1834,7 @@ translate russian test_sheet_28_face_1624089e:
 translate russian test_sheet_28_face_ee3a39a2:
 
     # Leona "You're a Leonheart now!"
-    Leona "Теперь ты Leonheart!"
+    Leona "Теперь ты в Леонхарте!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:636
 translate russian sheet_28_1_266_19e2785f:
@@ -1942,7 +1942,7 @@ translate russian sheet_28_1_265_6_1624089e:
 translate russian sheet_28_1_265_6_ee3a39a2:
 
     # Leona "You're a Leonheart now!"
-    Leona "Теперь ты Leonheart!"
+    Leona "Теперь ты в Леонхарте!"
 
 translate russian strings:
 
@@ -1976,13 +1976,13 @@ translate russian strings:
 translate russian sheet_28_1_254_5b9a608c:
 
     # ch_Name "{i}(...wraps around my dick...){/i}"
-    ch_Name ""
+    ch_Name "{i}(...обволакивает мой член...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:577
 translate russian sheet_28_1_262_16_475d47b8:
 
     # Leona "Ahhh... mmm..."
-    Leona ""
+    Leona "Ааахх... ммм..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:578
 translate russian sheet_28_1_262_16_0ae9bcd0:
@@ -2000,15 +2000,14 @@ translate russian sheet_28_1_262_16_0ae9bcd0_1:
 translate russian sheet_28_1_262_16_475d47b8_1:
 
     # Leona "Ahhh... mmm..."
-    Leona ""
+    Leona "Ааахх... ммм..."
 
 translate russian strings:
 
     # game/logic/episodes_after_first/ep2/sheet_28.rpy:396
     old "No, it's enough"
-    new ""
+    new "Нет, достаточно"
 
     # game/logic/episodes_after_first/ep2/sheet_28.rpy:396
     old "Ready for action"
-    new ""
-
+    new "Готов ко всему"
