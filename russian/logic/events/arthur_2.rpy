@@ -1582,35 +1582,34 @@ translate russian strings:
 translate russian arthur_2_3_3df4f481:
 
     # ch_Name "{i}(On the other hand, sometimes I don't even understand mine.){/i}"
-    ch_Name ""
+    ch_Name "{i}(С другой стороны, иногда я и сам себя не понимаю.){/i}"
 
 # game/logic/events/arthur_2.rpy:374
 translate russian arthur_2_3_4a080171:
 
     # Katrina "Enjoy your small victories while you can."
-    Katrina ""
+    Katrina "Наслаждайся своими мелкими успехами, пока можешь."
 
 # game/logic/events/arthur_2.rpy:392
 translate russian arthur_2_3_b72f5a90:
 
     # Haley "You were dreaming... Was it a nightmare? "
-    Haley ""
+    Haley "Тебе снилось что-то... Это был кошмар?"
 
 # game/logic/events/arthur_2.rpy:420
 translate russian arthur_2_3_a362ffa5:
 
     # Haley "Captain said she'd feed you to the sharks if you don't leave."
-    Haley ""
+    Haley "Капитан сказала, что акулам тебя скормит, если ты не уйдёшь."
 
 # game/logic/events/arthur_2.rpy:422
 translate russian arthur_2_3_47fc46f6:
 
     # Haley "Would you be surprised?"
-    Haley ""
+    Haley "А ты бы удивился?"
 
 # game/logic/events/arthur_2.rpy:580
 translate russian arthur_2_5_232f7e79:
 
     # Elijah "There's the hottest nightclub in town around the corner. Lady Luck."
-    Elijah ""
-
+    Elijah "Вот там за углом - самый обалденный ночной клуб в городке. Леди Удача."
