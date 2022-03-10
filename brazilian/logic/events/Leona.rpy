@@ -7378,13 +7378,13 @@ translate brazilian Leona_7_label_581301ce:
 translate brazilian Leona_7_label_4c1e4977:
 
     # Leona "I need a week, at least."
-    Leona ""
+    Leona "Preciso de uma semana, pelo menos."
 
 # game/logic/events/Leona.rpy:1975
 translate brazilian Leona_7_label_d81260ab:
 
     # Leona "I'll come to you myself when I have it. I'll see you later."
-    Leona "Vou voltar pessoalmente para você quando estiver com els. Lhe vejo mais tarde."
+    Leona "Vou voltar pessoalmente para você quando estiver com eles. Lhe vejo mais tarde."
 
 # game/logic/events/Leona.rpy:1976
 translate brazilian Leona_7_label_0e513cc0:
