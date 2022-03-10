@@ -34,7 +34,7 @@ translate russian sheet_26_ca6a8126:
 translate russian sheet_26_850ca336:
 
     # ch_Name "So, were you nervous?"
-    ch_Name "Итак, ты нервничала?"
+    ch_Name "Ну что, ты нервничала?"
 
 # game/logic/episodes_after_first/ep2/sheet_26.rpy:16
 translate russian sheet_26_cbe2b651:
@@ -130,7 +130,7 @@ translate russian sheet_26_fe381a32:
 translate russian sheet_26_2936cfd6:
 
     # Haley "Hey, look! It's miss Lapis on the stage."
-    Haley "Эй, смотри! Это мисс Lapis на сцене."
+    Haley "Эй, смотри! Это мисс Лапис на сцене."
 
 # game/logic/episodes_after_first/ep2/sheet_26.rpy:49
 translate russian sheet_26_04188701:
@@ -166,25 +166,25 @@ translate russian sheet_26_679e6a6e:
 translate russian sheet_26_c5cb79da:
 
     # Victoria "Let's welcome the headmaster of the Academy, Sir Arthur Dormé IV!"
-    Victoria "Давайте поприветствуем ректора Академии, сэра Arthur Dormé IV!"
+    Victoria "Давайте поприветствуем ректора Академии, сэра Артура Дорме IV!"
 
 # game/logic/episodes_after_first/ep2/sheet_26.rpy:62
 translate russian sheet_26_c8732426:
 
     # Arthur "Thank you, Miss Lapis."
-    Arthur "Благодарю, мисс Lapis."
+    Arthur "Благодарю, мисс Лапис."
 
 # game/logic/episodes_after_first/ep2/sheet_26.rpy:64
 translate russian sheet_26_3c91e94c:
 
     # Arthur "As the headmaster and curator of this academy..."
-    Arthur "Как ректор и куратор этой академии..."
+    Arthur "Как директор и куратор этой академии..."
 
 # game/logic/episodes_after_first/ep2/sheet_26.rpy:65
 translate russian sheet_26_7c8b7434:
 
     # Arthur "...I am delighted to welcome everyone to Cordale!"
-    Arthur "...я счастлив приветствовать вас всех в Cordale!"
+    Arthur "...я счастлив приветствовать вас всех в Кордейле!"
 
 # game/logic/episodes_after_first/ep2/sheet_26.rpy:67
 translate russian sheet_26_e9bc7b55:
@@ -208,7 +208,7 @@ translate russian sheet_26_c06014ca:
 translate russian sheet_26_b0483709:
 
     # Arthur "Joining Cordale will divide your life into “before” and “after”. But remember!"
-    Arthur "Поступление в Cordale разделит вашу жизнь на \"до\" и \"после\". Но помните!"
+    Arthur "Поступление в Кордейл разделит вашу жизнь на \"до\" и \"после\". Но помните!"
 
 # game/logic/episodes_after_first/ep2/sheet_26.rpy:75
 translate russian sheet_26_54044f6c:
@@ -262,19 +262,19 @@ translate russian sheet_26_5074638e:
 translate russian sheet_26_e9920ad2:
 
     # Arthur "Miss Lapis will guide you through the details."
-    Arthur "Мисс Lapis объяснит вам детали."
+    Arthur "Мисс Лапис объяснит вам детали."
 
 # game/logic/episodes_after_first/ep2/sheet_26.rpy:93
 translate russian sheet_26_26a97f06:
 
     # Arthur "Victoria, darling, I yield the floor!"
-    Arthur "Victoria, дорогая, даю Вам слово!"
+    Arthur "Виктория, дорогая, даю Вам слово!"
 
 # game/logic/episodes_after_first/ep2/sheet_26.rpy:95
 translate russian sheet_26_69f006fa:
 
     # Victoria "Thank you, Arthur."
-    Victoria "Спасибо, Arthur."
+    Victoria "Спасибо, Артур."
 
 # game/logic/episodes_after_first/ep2/sheet_26.rpy:97
 translate russian sheet_26_9b8bdbf2:
@@ -287,4 +287,3 @@ translate russian sheet_26_ff8491d2:
 
     # Victoria "I need your utter attention!"
     Victoria "Мне нужно ваше полное внимание!"
-
