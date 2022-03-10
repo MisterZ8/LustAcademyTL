@@ -4,37 +4,37 @@
 translate russian sheet_24_f73a96e2:
 
     # Victoria "Once you've started casting a spell..."
-    Victoria "Когда ты начнешь произносить заклинание..."
+    Victoria "Когда вы начнёте произносить заклинание..."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:11
 translate russian sheet_24_repeat_rules_8b048a73:
 
     # Victoria "...concentrate and try to form a magic glyph."
-    Victoria "...сосредоточься и попытайся сформировать магический символ."
+    Victoria "...сосредоточьтесь и попытайтесь сформировать магический символ."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:13
 translate russian sheet_24_repeat_rules_e9b3a2f0:
 
     # Victoria "Channel your magic powers into this glyph."
-    Victoria "Направь свои магические силы в этот символ."
+    Victoria "Направьте свои магические силы в этот символ."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:15
 translate russian sheet_24_repeat_rules_b5d0a861:
 
     # Victoria "Your goal is to be as accurate as you can."
-    Victoria "Твоя задача быть как можно более аккуратным."
+    Victoria "Ваша задача - быть как можно более аккуратным."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:17
 translate russian sheet_24_repeat_rules_42de5619:
 
     # Victoria "This way your spell is the strongest."
-    Victoria "Так твое заклинание будет наиболее сильным."
+    Victoria "Так ваше заклинание будет наиболее сильным."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:19
 translate russian sheet_24_repeat_rules_1e83dfa5:
 
     # Victoria "You'll have three tries to prove, that your magic source has potential."
-    Victoria "У тебя есть три попытки доказать, что твой магический источник имеет потенциал."
+    Victoria "У вас есть три попытки доказать, что ваш магический источник имеет потенциал."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:21
 translate russian sheet_24_repeat_rules_8c3404ab:
@@ -52,7 +52,7 @@ translate russian sheet_24_repeat_rules_0651d159:
 translate russian sheet_24_repeat_rules_68585e15:
 
     # Victoria "Show us what you got, Mr. [Surname]!"
-    Victoria "Покажи, на что ты способен, мистер [Surname]!"
+    Victoria "Покажите, на что вы способны, мистер [Surname]!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:33
 translate russian sheet_24_repeat_rules_a1746260:
@@ -100,7 +100,7 @@ translate russian sheet_24_game_1_9624437b:
 translate russian sheet_24_game_1_d3b5301a:
 
     # Victoria "I can see you have good potential. "
-    Victoria "Я вижу, у тебя хороший потенциал."
+    Victoria "Я вижу, у вас хороший потенциал."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:122
 translate russian sheet_24_game_1_37ccf7af:
@@ -112,13 +112,13 @@ translate russian sheet_24_game_1_37ccf7af:
 translate russian sheet_24_game_1_03f7e5a9:
 
     # Victoria "Let's see if you can do even better."
-    Victoria "Посмотрим, сможешь ли ты еще лучше."
+    Victoria "Посмотрим, сможете ли вы еще лучше."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:126
 translate russian sheet_24_game_1_7615ada7:
 
     # ch_Name "{i}(Bring it on!){/i}"
-    ch_Name "{i}(Давай!){/i}"
+    ch_Name "{i}(Давай-ка!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:138
 translate russian sheet_24_game_1_9054e202:
@@ -142,31 +142,31 @@ translate russian sheet_24_game_1_829c5ea8:
 translate russian sheet_24_game_1_43090c88:
 
     # Victoria "Let's try to make it more difficult..."
-    Victoria "Давай попробуем усложнить задачу..."
+    Victoria "Давайте попробуем усложнить задачу..."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:155
 translate russian sheet_24_game_1_3ace795f:
 
     # Victoria "[Surname], you're on the verge of failure."
-    Victoria "[Surname], ты на грани провала."
+    Victoria "[Surname], вы на грани провала."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:157
 translate russian sheet_24_game_1_b6d47def:
 
     # Victoria "That kind of concentration is no good!"
-    Victoria "Такой тип концентрации не подходит!"
+    Victoria "Такой слабой концентрации недостаточно!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:159
 translate russian sheet_24_game_1_3a586ab7:
 
     # ch_Name "{i}(Crap... I need to focus! I won't lose this!){/i}"
-    ch_Name "{i}(Дерьмо... Мне надо сосредоточиться! Я не потеряю это!){/i}"
+    ch_Name "{i}(Дерьмо... Мне надо сосредоточиться! Я не могу провалиться!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:161
 translate russian sheet_24_game_1_718c1941:
 
     # Victoria "Try again."
-    Victoria "Попробуй еще раз."
+    Victoria "Попробуйте еще раз."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:180
 translate russian sheet_24_game_1_5bdf1b13:
@@ -178,7 +178,7 @@ translate russian sheet_24_game_1_5bdf1b13:
 translate russian sheet_24_game_1_1bf49698:
 
     # Victoria "It is clear that you have potential."
-    Victoria "У тебя определенно имеется потенциал."
+    Victoria "У вас определенно имеется потенциал."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:184
 translate russian sheet_24_game_1_37ccf7af_1:
@@ -190,13 +190,13 @@ translate russian sheet_24_game_1_37ccf7af_1:
 translate russian sheet_24_game_1_250897e1:
 
     # Victoria "Let's see how good you can use it right now."
-    Victoria "Давай посмотрим, как хорошо ты сумеешь его применить прямо сейчас."
+    Victoria "Давайте посмотрим, как хорошо вы сумеете его применить прямо сейчас."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:188
 translate russian sheet_24_game_1_23a97552:
 
     # Victoria "Your last try! Go!"
-    Victoria "Твоя последняя попытка! Вперед!"
+    Victoria "Ваша последняя попытка! Вперед!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:199
 translate russian sheet_24_game_1_89012c81:
@@ -208,7 +208,7 @@ translate russian sheet_24_game_1_89012c81:
 translate russian sheet_24_game_1_8ce2feee:
 
     # Victoria "I'm really interested to see what else you can do!"
-    Victoria "Мне действительно интересно посмотреть, на что еще ты способен!"
+    Victoria "Мне действительно интересно посмотреть, на что еще вы способны!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:203
 translate russian sheet_24_game_1_916ce3a3:
@@ -220,7 +220,7 @@ translate russian sheet_24_game_1_916ce3a3:
 translate russian sheet_24_game_1_16970a07:
 
     # Victoria "Last one will be even more difficult. Get ready!"
-    Victoria "Последний будет еще сложнее. Приготовься!"
+    Victoria "Последний будет еще сложнее. Приготовьтесь!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:207
 translate russian sheet_24_game_1_80e3f604:
@@ -250,7 +250,7 @@ translate russian sheet_24_game_1_ebfeb22a:
 translate russian sheet_24_game_1_c15eb5de:
 
     # Victoria "I'll give you one more try."
-    Victoria "Я дам тебе еще одну попытку."
+    Victoria "Я дам вам еще одну попытку."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:237
 translate russian sheet_24_game_1_be9f0c4c:
@@ -274,7 +274,7 @@ translate russian sheet_24_game_1_41b405df:
 translate russian sheet_24_game_1_d9fed8b4:
 
     # Victoria "Let's make the task more difficult this time..."
-    Victoria "Давай усложним задачу на этот раз..."
+    Victoria "Давайте усложним задачу на этот раз..."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:256
 translate russian sheet_24_game_1_cd0fc3a6:
@@ -298,7 +298,7 @@ translate russian sheet_24_game_1_9bd05493:
 translate russian sheet_24_game_1_c2f785e3:
 
     # Victoria "You still have one more try to impress me."
-    Victoria "У тебя все еще есть одна попытка впечатлить меня."
+    Victoria "У вас все еще есть одна попытка впечатлить меня."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:264
 translate russian sheet_24_game_1_b8b25fb0:
@@ -310,7 +310,7 @@ translate russian sheet_24_game_1_b8b25fb0:
 translate russian sheet_24_game_1_ef6a093b:
 
     # Victoria "You're a little bit bellow our standart level, mister [Surname]. "
-    Victoria "Ты несколько ниже нашего стандартного уровня, мистер [Surname]. "
+    Victoria "Вы несколько ниже нашего стандартного уровня, мистер [Surname]. "
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:285
 translate russian sheet_24_game_1_a4e736e7:
@@ -328,7 +328,7 @@ translate russian sheet_24_game_1_92fb82f1:
 translate russian sheet_24_game_1_da62a5b0:
 
     # Victoria "But you've still managed to form a solid glyph for an entrant."
-    Victoria "Но ты все же смог сформировать цельный символ для абитуриента."
+    Victoria "Но вы все же смогли сформировать цельный символ для абитуриента."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:292
 translate russian sheet_24_game_1_ff017a1b:
@@ -346,7 +346,7 @@ translate russian sheet_24_game_1_0560b79b:
 translate russian sheet_24_game_1_96d6fae8:
 
     # Victoria "You're enrolled."
-    Victoria "Ты зачислен."
+    Victoria "Вы зачислены."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:298
 translate russian sheet_24_game_1_c7f59b2c:
@@ -358,13 +358,13 @@ translate russian sheet_24_game_1_c7f59b2c:
 translate russian sheet_24_game_1_80bafeb1:
 
     # Victoria "But you'll have to show a special zeal for your studies."
-    Victoria "Но тебе придется продемонстрировать особое рвение к своей учебе."
+    Victoria "Но вам придется продемонстрировать особое рвение к своей учебе."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:302
 translate russian sheet_24_game_1_6fe44a2b:
 
     # Victoria "If you want to stay at this academy."
-    Victoria "Если ты хочешь остаться в этой академии."
+    Victoria "Если вы хотите остаться в этой академии."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:304
 translate russian sheet_24_game_1_1deb4694:
@@ -376,7 +376,7 @@ translate russian sheet_24_game_1_1deb4694:
 translate russian sheet_24_game_1_2d58164d:
 
     # ch_Name "I mean... I will. A special zeal from now on!"
-    ch_Name "Я имею ввиду... Я буду. Особое рвение с этого самого момента!"
+    ch_Name "Я имею ввиду... Я постараюсь. Особое рвение с этого самого момента!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:308
 translate russian sheet_24_game_1_84d3dc7e:
@@ -388,13 +388,13 @@ translate russian sheet_24_game_1_84d3dc7e:
 translate russian sheet_24_game_1_a88e76b2:
 
     # Victoria "Well..."
-    Victoria "Чтож..."
+    Victoria "Что ж..."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:318
 translate russian sheet_24_game_1_7bfa566e:
 
     # Victoria "At least you achieved some result."
-    Victoria "По крайней мере, ты достиг некоторых результатов."
+    Victoria "По крайней мере, вы достигли некоторых результатов."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:320
 translate russian sheet_24_game_1_12cf80c0:
@@ -406,7 +406,7 @@ translate russian sheet_24_game_1_12cf80c0:
 translate russian sheet_24_game_1_96d6fae8_1:
 
     # Victoria "You're enrolled."
-    Victoria "Ты зачислен."
+    Victoria "Вы зачислены."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:324
 translate russian sheet_24_game_1_c7f59b2c_1:
@@ -418,13 +418,13 @@ translate russian sheet_24_game_1_c7f59b2c_1:
 translate russian sheet_24_game_1_80bafeb1_1:
 
     # Victoria "But you'll have to show a special zeal for your studies."
-    Victoria "Но тебе придется продемонстрировать особое рвение к своей учебе."
+    Victoria "Но вам придется продемонстрировать особое рвение к своей учебе."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:328
 translate russian sheet_24_game_1_6fe44a2b_1:
 
     # Victoria "If you want to stay at this academy."
-    Victoria "Если ты хочешь остаться в этой академии."
+    Victoria "Если вы хотите остаться в этой академии."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:330
 translate russian sheet_24_game_1_1deb4694_1:
@@ -436,7 +436,7 @@ translate russian sheet_24_game_1_1deb4694_1:
 translate russian sheet_24_game_1_2d58164d_1:
 
     # ch_Name "I mean... I will. A special zeal from now on!"
-    ch_Name "Я имею ввиду... Я буду. Особое рвение с этого самого момента!"
+    ch_Name "Я имею ввиду... Я постараюсь. Особое рвение с этого самого момента!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:334
 translate russian sheet_24_game_1_84d3dc7e_1:
@@ -448,13 +448,13 @@ translate russian sheet_24_game_1_84d3dc7e_1:
 translate russian sheet_24_game_1_a88e76b2_1:
 
     # Victoria "Well..."
-    Victoria "Чтож..."
+    Victoria "Что ж..."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:345
 translate russian sheet_24_game_1_7bfa566e_1:
 
     # Victoria "At least you achieved some result."
-    Victoria "По крайней мере, ты достиг некоторых результатов."
+    Victoria "По крайней мере, вы достигли некоторых результатов."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:347
 translate russian sheet_24_game_1_12cf80c0_1:
@@ -466,7 +466,7 @@ translate russian sheet_24_game_1_12cf80c0_1:
 translate russian sheet_24_game_1_96d6fae8_2:
 
     # Victoria "You're enrolled."
-    Victoria "Ты зачислен."
+    Victoria "Вы зачислены."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:351
 translate russian sheet_24_game_1_c7f59b2c_2:
@@ -478,13 +478,13 @@ translate russian sheet_24_game_1_c7f59b2c_2:
 translate russian sheet_24_game_1_80bafeb1_2:
 
     # Victoria "But you'll have to show a special zeal for your studies."
-    Victoria "Но тебе придется продемонстрировать особое рвение к своей учебе."
+    Victoria "Но вам придется продемонстрировать особое рвение к своей учебе."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:355
 translate russian sheet_24_game_1_6fe44a2b_2:
 
     # Victoria "If you want to stay at this academy."
-    Victoria "Если ты хочешь остаться в этой академии."
+    Victoria "Если вы хотите остаться в этой академии."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:357
 translate russian sheet_24_game_1_1deb4694_2:
@@ -496,7 +496,7 @@ translate russian sheet_24_game_1_1deb4694_2:
 translate russian sheet_24_game_1_2d58164d_2:
 
     # ch_Name "I mean... I will. A special zeal from now on!"
-    ch_Name "Я имею ввиду... Я буду. Особое рвение с этого самого момента!"
+    ch_Name "Я имею ввиду... Я постараюсь. Особое рвение с этого самого момента!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:361
 translate russian sheet_24_game_1_84d3dc7e_2:
@@ -514,37 +514,37 @@ translate russian sheet_24_game_1_836a6447:
 translate russian sheet_24_game_1_3029edcb:
 
     # Victoria "You have passed this exam. "
-    Victoria "Ты прошел экзамен."
+    Victoria "Вы прошли экзамен."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:369
 translate russian sheet_24_game_1_1820d408:
 
     # Victoria "You have good potential! "
-    Victoria "У тебя хороший потенциал."
+    Victoria "У вас хороший потенциал."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:371
 translate russian sheet_24_game_1_b2fa65d1:
 
     # Victoria "Someday you may even become a worthy wizard!"
-    Victoria "В один прекрасный день ты даже можешь стать достойным волшебником!"
+    Victoria "В один прекрасный день вы даже можете стать достойным волшебником!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:373
 translate russian sheet_24_game_1_90619c60:
 
     # ch_Name "Thank you, miss Lapis!"
-    ch_Name "Спасибо, мисс Lapis!"
+    ch_Name "Спасибо, мисс Лапис!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:375
 translate russian sheet_24_game_1_de1b88f9:
 
     # ch_Name "I won't dissapoint you!"
-    ch_Name "Я Вас не разочарую!"
+    ch_Name "Я вас не разочарую!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:384
 translate russian sheet_24_game_1_66986e19:
 
     # Victoria "Don't feel bad, Mr. [Surname]. "
-    Victoria "Не расстраивайся, мистер [Surname]. "
+    Victoria "Не расстраивайтесь, мистер [Surname]. "
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:386
 translate russian sheet_24_game_1_2246d7ff:
@@ -568,19 +568,19 @@ translate russian sheet_24_game_1_c49a8d1c:
 translate russian sheet_24_game_1_40637ff2:
 
     # Victoria "A very decent result. But I think you can do better!"
-    Victoria "Очень приличный результат. Но мне кажется, ты способен на большее!"
+    Victoria "Очень приличный результат. Но мне кажется, вы способны на большее!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:394
 translate russian sheet_24_game_1_4012153e:
 
     # Victoria "You're accepted. "
-    Victoria "Ты принят."
+    Victoria "Вы приняты."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:396
 translate russian sheet_24_game_1_852c6fe8:
 
     # Victoria "You'll need a lot of practice to get even better."
-    Victoria "Тебе придется много практиковаться, чтобы стать еще лучше."
+    Victoria "Вам придется много практиковаться, чтобы стать еще лучше."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:398
 translate russian sheet_24_game_1_086c8057:
@@ -592,7 +592,7 @@ translate russian sheet_24_game_1_086c8057:
 translate russian sheet_24_game_1_21a50ec3:
 
     # Victoria "Nice zeal, don't lose it!"
-    Victoria "Хороший настрой, не потеряй его!"
+    Victoria "Хороший настрой, не потеряйте его!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:404
 translate russian sheet_24_game_1_ccc7d79f:
@@ -604,25 +604,25 @@ translate russian sheet_24_game_1_ccc7d79f:
 translate russian sheet_24_game_1_a21a0f87:
 
     # Victoria "You are definitely accepted!"
-    Victoria "Ты безусловно принят!"
+    Victoria "Вы безусловно приняты!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:408
 translate russian sheet_24_game_1_c58a677d:
 
     # Victoria "You have a great future ahead of you. "
-    Victoria "Тебя ждет великое будущее."
+    Victoria "Вас ждет великое будущее."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:410
 translate russian sheet_24_game_1_1c8f3fb2:
 
     # Victoria "And I will do my best to help you reach your potential!"
-    Victoria "А я сделаю все возможное, чтобы помочь в раскрытии твоего потенциала!"
+    Victoria "А я сделаю все возможное, чтобы помочь в раскрытии вашего потенциала!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:412
 translate russian sheet_24_game_1_90619c60_1:
 
     # ch_Name "Thank you, miss Lapis!"
-    ch_Name "Спасибо, мисс Lapis!"
+    ch_Name "Спасибо, мисс Лапис!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:414
 translate russian sheet_24_game_1_2919d6ee:
@@ -640,19 +640,19 @@ translate russian sheet_24_end_game_aef6bd95:
 translate russian sheet_24_end_game_0bf4adf4:
 
     # Victoria "Congratulations, you're now officialy part of Cordale academy."
-    Victoria "Мои поздравления, теперь ты официально часть академии Cordale."
+    Victoria "Мои поздравления, теперь вы официально студент академии Кордейл."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:434
 translate russian sheet_24_end_game_3ee8b2ec:
 
     # ch_Name "{i}(I DID IT! Fuck yeah!){/i}"
-    ch_Name "{i}(Я СДЕЛАЛА ЭТО! О да!){/i}"
+    ch_Name "{i}(Я СДЕЛАЛ ЭТО! О да!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:436
 translate russian sheet_24_end_game_3e9ab8f4:
 
     # ch_Name "Thank you, Victoria."
-    ch_Name "Спасибо, Victoria."
+    ch_Name "Спасибо, Виктория."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:440
 translate russian sheet_24_end_game_5d62241e:
@@ -664,19 +664,19 @@ translate russian sheet_24_end_game_5d62241e:
 translate russian sheet_24_end_game_5c7d1701:
 
     # Victoria "I understand that you're happy, but mind your language!"
-    Victoria "Я понимаю что ты счастлив, но следи за своим языком!"
+    Victoria "Я понимаю что вы счастливы, но следите за своим языком!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:442
 translate russian sheet_24_end_game_20bf3e77:
 
     # Victoria "I'm miss Lapis for you."
-    Victoria "Для тебя я мисс Lapis."
+    Victoria "Для вас я мисс Лапис."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:444
 translate russian sheet_24_end_game_6a97bd4d:
 
     # Victoria "You have to be much better at magic to call me \"Victoria\"..."
-    Victoria "Тебе нужно быть намного лучше в магии, чтобы звать меня \"Victoria\"..."
+    Victoria "Вам нужно быть намного лучше в магии, чтобы звать меня \"Victoria\"..."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:445
 translate russian sheet_24_end_game_16c0256d:
@@ -694,23 +694,22 @@ translate russian sheet_24_end_game_fcaf1caf:
 translate russian sheet_24_end_game_ba634099:
 
     # Victoria "Go back to the Inner Garden..."
-    Victoria "Возвращайся в Inner Garden..."
+    Victoria "Возвращайтесь во внутренний дворик..."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:454
 translate russian sheet_24_end_game_d0c95866:
 
     # Victoria "And find the door opposite to the Front Hall."
-    Victoria "И найди дверь, противоположную от Front Hall."
+    Victoria "И найдите дверь, противоположную от переднего зала."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:456
 translate russian sheet_24_end_game_d0bd828f:
 
     # Victoria "That's all. Dismissed."
-    Victoria "Это все. Свободен."
+    Victoria "Это все. Вы свободны."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:458
 translate russian sheet_24_end_game_b1c02e84:
 
     # ch_Name "Alright. Have a good one!"
     ch_Name "Ладно. Удачи!"
-
