@@ -28,11 +28,11 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Turns out that the statues in one of the gardens are actually alive! One of them even had a boner while we were walking there with Haley."
-    new "No final das contas as estátuas de um dos jardins estão vivas! Uma delas inclusive ficou excitada enquanto eu andava por lá com Haley. A história \"Angels\" chegou ao fim para esta versão do jogo."
+    new "Acabou que as estátuas de um dos jardins estão vivas! Uma delas inclusive ficou excitada enquanto eu andava por lá com Haley."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Angels"
-    new ""
+    new "Anjos"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Garden's story has come to an end."
@@ -484,7 +484,7 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I made arrangements with Samantha and she will help us with the ritual. We're finally going to solve the mystery of E.Bloom. Also, Haley and I made a date. Until the date I have to get to Dale to buy the ingredients from Gordon."
-    new ""
+    new "Combinei com Samantha e ela vai nos ajudar com o ritual. Finalmente vamos resolver o mistério de E. Bloom. Além disso, Haley e eu marcamos um encontro. Até o encontro, tenho que ir a Dale comprar os ingredientes com Gordon."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've heard that Jacob usually spends his evenings at the hall. Should I talk to him about something?"
@@ -536,7 +536,7 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "It turned out that Jacob was behind the soul-stealing phantom attack. He was testing me to help him overpower Arthur. Jacob assures me that Arthur is the villain who killed my parents. To deal with him, I asked Leona to obtain for me an ancient artifact - the scroll of the Lion's Seal, but she needs a week to get it. Now I just need to wait."
-    new "Acaba que Jacob estava por trás no ataque do fantasma devorador de almas. Ele estava me testando para sobrepujar Arthur. Jacob me garante que Arthur é o vilão que matou meus pais. Para lidar com ele, pedi a Leona para obter um antigo artefato - o pergaminho de Lion's Seal. Agora só temos que esperar."
+    new "Acaba que Jacob estava por trás no ataque do fantasma devorador de almas. Ele estava me testando para ajudá-lo a sobrepujar Arthur. Jacob me garante que Arthur é o vilão que matou meus pais. Para lidar com ele, pedi a Leona para obter um antigo artefato - o pergaminho de Lion's Seal, mas ela pediu uma semana para conseguí-lo. Agora só tenho que esperar."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I think I'll meet Lily somewhere where she can earn Leonheart some points. Maybe at the class?"
@@ -564,7 +564,7 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've agreed to help Sabrina and Lily to harvest some herbs. Lily and I got lost and had an unbelievable adventure. I think we need to discuss it before Victoria's classes in the morning."
-    new ""
+    new "Concordei em ajudar Sabrina e Lily a colher algumas ervas. Lily e eu nos perdemos e tivemos uma aventura inacreditável. Acho que precisamos conversar antes da aula de Victoria, pela manhã."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I told Sabrina about the mushroom girl I saw in the woods, and it turns out that the existence of these creatures has not yet been proven as a fact. I could be the discoverer of this species if I could find proof. But I have to wait until the compass is fixed."
@@ -580,7 +580,7 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Good news for students - there's a free room in Dale-ly. Also, I saw Mina reading porno novels. I should talk to her again next time I'll be in Dale."
-    new ""
+    new "Boas notícias para os estudantes - há um quarto de graça no Dale-ly. Também, vi Mina lendo uma estória pornô. Devia conversar com ela da próxima vez que estiver em Dale."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I told Molly that I was working as a waiter once, and she offered me a job. On weekdays, afternoons, and evenings, I can help her around the cafe to make some money."
@@ -620,7 +620,7 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I took Naomi to the library, and we had some fun time together. I think she earned to get those test results. I think I'll meet her in the morning before Victoria's class."
-    new ""
+    new "Levei Naomi para a biblioteca e nos divertimos juntos. Acho que ela, finalmente, mereceu as repostas da prova. Acho que vou encontrar com ela de manhã antes da aula de Victoria."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Naomi and Sabrina got into a fight in class, and now Naomi needs help to win back the teacher's favor. I promised to meet her at night in the potions room and teach her how to make potions."
