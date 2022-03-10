@@ -4,7 +4,7 @@
 translate russian sheet_31_ebd50d51:
 
     # ch_Name "Sam?"
-    ch_Name ""
+    ch_Name "Сэм?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:5
 translate russian sheet_31_107e6932:
@@ -46,13 +46,13 @@ translate russian sheet_31_7c2819e0:
 translate russian sheet_31_b247ad42:
 
     # Samantha "Checking in on you."
-    Samantha "Я тебя проверял."
+    Samantha "Просто хотел узнать, как дела."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:13
 translate russian sheet_31_b1fc1b88:
 
     # Samantha "[Name]?"
-    Samantha ""
+    Samantha "[Name]?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:14
 translate russian sheet_31_1855220c:
@@ -64,7 +64,7 @@ translate russian sheet_31_1855220c:
 translate russian sheet_31_a93da04f:
 
     # Samantha "I always knew you were a Leonheart!"
-    Samantha "Я всегда знала, что ты Leonheart!"
+    Samantha "Я всегда знала, что ты окажется в Леонхарте!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:17
 translate russian sheet_31_59d8222f:
@@ -82,7 +82,7 @@ translate russian sheet_31_9175868f:
 translate russian sheet_31_60ca4aa3:
 
     # ch_Name "I might as well be an Adderin."
-    ch_Name "IЯ мог бы оказаться и в Adderin."
+    ch_Name "IЯ мог бы оказаться и в Аддерине."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:20
 translate russian sheet_31_0608ef1b:
@@ -100,7 +100,7 @@ translate russian sheet_31_60f36213:
 translate russian sheet_31_ba5a0641:
 
     # ch_Name "Honestly, the ritual took a lot out of me."
-    ch_Name "Если честно, ритуал меня вымотал."
+    ch_Name "Если честно, церемония меня вымотала."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:25
 translate russian sheet_31_6138ceec:
@@ -112,7 +112,7 @@ translate russian sheet_31_6138ceec:
 translate russian sheet_31_20d2ba3b:
 
     # ch_Name "Really?{w} How was your ritual?"
-    ch_Name "Правда?{w} Каким был твой ритуал?"
+    ch_Name "Правда?{w} Какой была церемония для тебя?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:27
 translate russian sheet_31_973abfe8:
@@ -160,7 +160,7 @@ translate russian sheet_31_aec82123:
 translate russian sheet_31_a4de7dd6:
 
     # Samantha "And then three of them left, and Leona invited me to Leonheart."
-    Samantha "А потом три из них ушли, а Leona пригласила меня в Leonheart."
+    Samantha "А потом три из них ушли, а Леона пригласила меня в Леонхарт."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:37
 translate russian sheet_31_d4b0ab00:
@@ -250,7 +250,7 @@ translate russian sheet_31_5165f300:
 translate russian sheet_31_f25ad6c8:
 
     # Samantha "And you must be tired after the ritual."
-    Samantha "А ты наверняка устал после ритуала."
+    Samantha "А ты наверняка устал после церемонии."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:55
 translate russian sheet_31_dc5bd276:
@@ -292,19 +292,19 @@ translate russian sheet_31_fbf96dea:
 translate russian sheet_31_8fa21deb:
 
     # ch_Name "{i}(The strangest day in my life. It still does not fit in my head...){/i}"
-    ch_Name "{i}(Самый странный день в моей жизни. Все еще в голове не укладывается...){/i}"
+    ch_Name "{i}(Самый странный день в моей жизни. Всё ещё в голове не укладывается...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:65
 translate russian sheet_31_7aa5afb5:
 
     # ch_Name "{i}(I am a wizard. Hell, why not? That sounds very cool!){/i}"
-    ch_Name "{i}(Я волшебник. Черт, почему нет? Звучит очень круто!){/i}"
+    ch_Name "{i}(Я волшебник. Чёрт, почему нет? Звучит очень круто!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:79
 translate russian arthur_label_14969a9a:
 
     # NoName "Ring, ring..."
-    NoName "Дзщинь, дзинь..."
+    NoName "Дзинь, дзинь..."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:85
 translate russian arthur_label_d007b8f0:
@@ -316,7 +316,7 @@ translate russian arthur_label_d007b8f0:
 translate russian arthur_label_9f954dd2:
 
     # Elijah "Yo, [Name]! Rise and shine!"
-    Elijah "Йоу, [Name]! RВосстань и сияй!"
+    Elijah "Йоу, [Name]! Проснись и пой!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:87
 translate russian arthur_label_6b2436c6:
@@ -370,7 +370,7 @@ translate russian arthur_label_47f718d1:
 translate russian arthur_label_0867eda4:
 
     # Elijah "{b}The principal called a freshman meeting in the main hall.{/b}"
-    Elijah "{b}Главный созвал всех новичков в main  на встречу в главном зале.{/b}"
+    Elijah "{b}Директор созвал всех новичков на встречу в главном зале.{/b}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:98
 translate russian arthur_label_8c41bb6f:
@@ -424,7 +424,7 @@ translate russian arthur_label_02deb966:
 translate russian arthur_label_91f4f5d5:
 
     # Arthur "It's a joy to see our new students successfully joining Houses!"
-    Arthur "Это счастье - видеть новых студентов, успешно присоединившихся к домам!"
+    Arthur "Это счастье - видеть новых студентов, успешно распределённых по факультетам!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:123
 translate russian arthur_label_c31776ac:
@@ -442,25 +442,25 @@ translate russian arthur_label_80de3aa2:
 translate russian arthur_label_5b283411:
 
     # ch_Name "Why does he ask? Is it possible to change house?"
-    ch_Name "Почему он спрашивает? Разве можно сменить дом?"
+    ch_Name "Почему он спрашивает? Разве можно сменить факультет?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:128
 translate russian arthur_label_1d3060fe:
 
     # Elijah "I've never heard of such a thing. Shh, let me listen!"
-    Elijah "Я о таком никогда не слышал. Чшш, дай послушать!"
+    Elijah "Я о таком никогда не слышал. Тсс, дай послушать!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:130
 translate russian arthur_label_58d0dc9f:
 
     # Arthur "In my practice, though, the founders have never been wrong."
-    Arthur "В моей практике впрочем, основатели никогда не ошибались."
+    Arthur "В моей практике впрочем, основательницы никогда не ошибались."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:131
 translate russian arthur_label_2df87af4:
 
     # Arthur "After all, they see those corners of your soul that you have never seen before."
-    Arthur "В конце концов, они видят самые потаенные закутки вашей души, о которых вы и не подозревали."
+    Arthur "В конце концов, они видят самые потаённые закутки вашей души, о которых вы и не подозревали."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:132
 translate russian arthur_label_3de98ae5:
@@ -478,7 +478,7 @@ translate russian arthur_label_fc61f75d:
 translate russian arthur_label_c6f55406:
 
     # Arthur "I'm sure you're all wondering why I gathered you here!"
-    Arthur "Уверен, вы задаетесь вопросом зачем я вас здесь собрал!"
+    Arthur "Уверен, вы задаётесь вопросом, зачем я вас здесь собрал!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:136
 translate russian arthur_label_8f4ca7bd:
@@ -490,7 +490,7 @@ translate russian arthur_label_8f4ca7bd:
 translate russian arthur_label_fba1b413:
 
     # Arthur "So I thought I'd tell you about the main features of Cordale."
-    Arthur "Так что я собираюсь рассказать вам об особенностях Cordale."
+    Arthur "Так что я собираюсь рассказать вам об особенностях Кордейла."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:139
 translate russian arthur_label_055a73d0:
@@ -514,37 +514,37 @@ translate russian arthur_label_94e09a2f:
 translate russian arthur_label_362d7496:
 
     # ch_Name "How'd you even get to be the head student?!"
-    ch_Name "Как ты вообще стал главным студентом?"
+    ch_Name "Как ты вообще стал старостой?!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:144
 translate russian arthur_label_5c504ec6:
 
     # Elijah "I don't know, Arthur loves me for something."
-    Elijah "Не знаю, за что-то Arthur меня любит."
+    Elijah "Не знаю, за что-то Артур меня любит."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:146
 translate russian arthur_label_b7b7e0ff:
 
     # Arthur "Now, as you all know, there are four houses."
-    Arthur "Итак, как вы все знаете, существуют четыре дома."
+    Arthur "Итак, как вы все знаете, существуют четыре Факультета."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:147
 translate russian arthur_label_6345370e:
 
     # Arthur "Leonheart, Martenden, Crowhive and Adderin."
-    Arthur "Leonheart, Martenden, Crowhive и Adderin."
+    Arthur "Леонхарт, Мартенден, Кроухайв и Аддерин."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:149
 translate russian arthur_label_4c85a07f:
 
     # Arthur "Each house is unique and stands on the ideals and beliefs of its founder."
-    Arthur "Каждый дом уникален и отстаивает идеалы и верования своего основателя."
+    Arthur "Каждый дом уникален и отстаивает идеалы и верования своей основательницы."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:150
 translate russian arthur_label_34ad8cfc:
 
     # Arthur "And these houses are constantly competing with each other."
-    Arthur "Дома постоянно соревнуются между собой."
+    Arthur "Факультеты постоянно соревнуются между собой."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:151
 translate russian arthur_label_2def8e23:
@@ -556,19 +556,19 @@ translate russian arthur_label_2def8e23:
 translate russian arthur_label_a264fa42:
 
     # Arthur "...is the cornerstone of Cordale Academy!"
-    Arthur "...является краеугольным камнем академии Cordale!"
+    Arthur "...является краеугольным камнем академии Кордейл!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:154
 translate russian arthur_label_e0b13fcc:
 
     # Arthur "And now I will tell you the details of how this rivalry is expressed."
-    Arthur "Сейчас я расскажу вам в чем выражается это соперничество."
+    Arthur "Сейчас я расскажу вам, в чём выражается это соперничество."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:155
 translate russian arthur_label_f4db8db0:
 
     # ch_Name "{i}(It's probably worth listening to attentively).{/i}"
-    ch_Name "{i}(Наверное стоит слушать внимательно.).{/i}"
+    ch_Name "{i}(Наверное, стоит слушать внимательно.).{/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:165
 translate russian sheet_31_menu_488802d2:
@@ -580,7 +580,7 @@ translate russian sheet_31_menu_488802d2:
 translate russian sheet_31_menu_4e6af0b4:
 
     # Arthur "In the first year, you have {b}Basic Magic{/b} and {b}Potions{/b} available to you."
-    Arthur "На первом году обучения, вам доступны {b}Основы Магии{/b} и {b}Зельеварение{/b}"
+    Arthur "На первом году обучения вам доступны {b}Основы Магии{/b} и {b}Зельеварение{/b}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:167
 translate russian sheet_31_menu_73b81beb:
@@ -622,7 +622,7 @@ translate russian sheet_31_menu_c496ea98:
 translate russian sheet_31_menu_00a9252d:
 
     # Arthur "Like a {b}trip to the beautiful town of Dale.{/b}"
-    Arthur "Такие как {b}поездка в красивый городок Dale.{/b}"
+    Arthur "Такие, как {b}поездка в красивый городок Дейл.{/b}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:180
 translate russian sheet_31_menu_d7581434:
@@ -640,7 +640,7 @@ translate russian sheet_31_menu_1df87019:
 translate russian sheet_31_menu_19a91d80:
 
     # Elijah "Oh, believe me... Dale is worth it."
-    Elijah "О, поверь мне, Dale того стоит."
+    Elijah "О, поверь мне, Дейл того стоит."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:184
 translate russian sheet_31_menu_b35ea416:
@@ -664,7 +664,7 @@ translate russian sheet_31_menu_9c15acfa:
 translate russian sheet_31_menu_c3e78e86:
 
     # Arthur "You're probably wondering how you can earn housepoints."
-    Arthur "Вероятно, вы гадаете, как заработать даллы дома."
+    Arthur "Вероятно, вы гадаете, как заработать баллы для факультета."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:193
 translate russian sheet_31_menu_230636ff:
@@ -676,7 +676,7 @@ translate russian sheet_31_menu_230636ff:
 translate russian sheet_31_menu_39d1aa9f:
 
     # Arthur "Well, I hear that our charming {b}librarian Miss Amelie{/b}..."
-    Arthur "Чтож, я слышал что наш очаровательный {b}библиотекарь мисс Amelie{/b}..."
+    Arthur "Что ж, я слышал, что наша очаровательная {b}библиотекарь мисс Амели{/b}..."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:195
 translate russian sheet_31_menu_cc02fcd8:
@@ -688,7 +688,7 @@ translate russian sheet_31_menu_cc02fcd8:
 translate russian sheet_31_menu_95b508e7:
 
     # Arthur "Also, you can {b}apply to Mr. Frollo to join the dueling club.{/b}"
-    Arthur "Также, можете {b}обратиться к мистеру Frollo, чтобы присоединиться к дуэльному клубу.{/b}"
+    Arthur "Также, можете {b}обратиться к мистеру Фролло, чтобы присоединиться к дуэльному клубу.{/b}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:198
 translate russian sheet_31_menu_fc99f0ba:
@@ -706,13 +706,13 @@ translate russian sheet_31_menu_293766b6:
 translate russian sheet_31_menu_708a175f:
 
     # Arthur "And losing students lose housepoints."
-    Arthur "И проигравшие студенты теряют баллы дома."
+    Arthur "И проигравшие студенты теряют баллы факультета."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:207
 translate russian sheet_31_76_7ab33d1c:
 
     # Arthur "Well, well, what else I wanted to say..."
-    Arthur "Ну, ну, что же я еще хотел сказать..."
+    Arthur "Так, так, что же я еще хотел сказать..."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:208
 translate russian sheet_31_76_a1711a22:
@@ -754,7 +754,7 @@ translate russian sheet_31_76_e4b251fd:
 translate russian sheet_31_76_7b68e21a:
 
     # Elijah "So you can start getting into this whole house battle."
-    Elijah "Чтобы ты смог принимать участие во всем этом сражении домов."
+    Elijah "Чтобы ты смог принимать участие во всем этом сражении факультетов."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:217
 translate russian sheet_31_76_d6dbd69c:
@@ -778,7 +778,7 @@ translate russian sheet_31_76_fa3d9593:
 translate russian sheet_31_76_1c465310:
 
     # Arthur "Teachers have the right to remind you of this and to levy housepoints..."
-    Arthur "Преподаватели имеют право напомнить вам об этом и снимать баллы дома..."
+    Arthur "Преподаватели имеют право напоминать вам об этом и снимать баллы факультета..."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:222
 translate russian sheet_31_76_d8336100:
@@ -826,13 +826,13 @@ translate russian sheet_31_76_701544bb:
 translate russian sheet_31_76_177bb03e:
 
     # ch_Name "{i}(It's uncomfortable and chilly.){/i}"
-    ch_Name "{i}(Это неудобно и холодно.){/i}"
+    ch_Name "{i}(Теперь неудобно и прохладно.){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:234
 translate russian sheet_31_76_ae1bf26a:
 
     # ch_Name "{i}(Gotta get back to the room.){/i}"
-    ch_Name "{i}(Придется вернуться в комнату.){/i}"
+    ch_Name "{i}(Придётся вернуться в комнату.){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:240
 translate russian sheet_31_76_f021783d:
@@ -850,7 +850,7 @@ translate russian sheet_31_76_b849b589:
 translate russian sheet_31_76_5bdce05f:
 
     # ch_Name "{i}(Now, let's get back to Elijah.){/i}"
-    ch_Name "{i}(Пора встретиться с Elijah.){/i}"
+    ch_Name "{i}(Пора встретиться с Элайджа.){/i}"
 
 translate russian strings:
 
@@ -872,65 +872,64 @@ translate russian strings:
 translate russian arthur_label_48673d84:
 
     # Elijah "Time to wake up!"
-    Elijah ""
+    Elijah "Пора вставать!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:94
 translate russian arthur_label_820192cd:
 
     # ch_Name "Why exactly calling?!"
-    ch_Name ""
+    ch_Name "Зачем надо обязательно звонить?!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:95
 translate russian arthur_label_5328ca4d:
 
     # Elijah "I just wanted to hear your voice. You know, I feel lonely."
-    Elijah ""
+    Elijah "Просто хотел услышать твой голос. Знаешь, мне так одиноко."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:97
 translate russian arthur_label_1e93415e:
 
     # ch_Name "Really?"
-    ch_Name ""
+    ch_Name "Серьёзно?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:98
 translate russian arthur_label_275c93f0:
 
     # Elijah "Nah. I'm just joking around!"
-    Elijah ""
+    Elijah "Не. Дурака валяю!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:99
 translate russian arthur_label_d26cd93a:
 
     # Elijah "I wanted to say that we need to go to the {b}Main Hall{/b} soon."
-    Elijah ""
+    Elijah "Хотел сообщить, что нам надо скоро идти в {b}Главный Зал{/b}."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:102
 translate russian arthur_label_f2290ef2:
 
     # Elijah "The principal called a freshman meeting."
-    Elijah ""
+    Elijah "Директор устраивает встречу с первокурсниками."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:106
 translate russian arthur_label_642e99f4:
 
     # Elijah "Alright?"
-    Elijah ""
+    Elijah "Хорошо?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:107
 translate russian arthur_label_c43d6e7b:
 
     # ch_Name "Ehm... Yeah."
-    ch_Name ""
+    ch_Name "Эмм... Ага."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:108
 translate russian arthur_label_9ab09bfc:
 
     # Elijah "Sweet! See you."
-    Elijah ""
+    Elijah "Чудненько! Увидимся."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:109
 translate russian arthur_label_74ebce9c:
 
     # ch_Name "Sure."
-    ch_Name ""
-
+    ch_Name "Конечно."
