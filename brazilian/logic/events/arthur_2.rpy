@@ -1528,7 +1528,7 @@ translate brazilian arthur_2_5_c6aa2781:
 translate brazilian arthur_2_5_f5a1d983:
 
     # Elijah "There's the hottest nightclub in town around the corner. Lady Luck."
-    Elijah "Tem o melhor clube da cidade na esquina. Mistress Luck."
+    Elijah "Tem o melhor clube da cidade na esquina. Lady Luck."
 
 # game/logic/events/arthur_2.rpy:582
 translate brazilian arthur_2_5_ffb89690:
@@ -1558,7 +1558,7 @@ translate brazilian strings:
 
     # game/logic/events/arthur_2.rpy:148
     old "At the moment, weekend activities are only available in Dale. To check them out - win a weekly house tournament"
-    new "No momento atividades de final de semana sõ estão disponíveis em Dale. Para poder ter acesso - ganhe o torneio semanal das casas."
+    new "No momento atividades de final de semana só estão disponíveis em Dale. Para poder ter acesso - ganhe o torneio semanal das casas."
 
     # game/logic/events/arthur_2.rpy:149
     old "For now, we'll skip the weekends and get straight back to Monday."
