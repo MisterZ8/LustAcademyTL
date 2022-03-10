@@ -262,7 +262,7 @@ translate brazilian Katrina_1_label_615d2280:
 translate brazilian Katrina_1_label_7c05334e:
 
     # ch_Name "I'm cuming!"
-    ch_Name "Estou indo!"
+    ch_Name "Estou gozando!"
 
 # game/logic/events/Katrina.rpy:81
 translate brazilian Katrina_1_label_2abd4c3a:
