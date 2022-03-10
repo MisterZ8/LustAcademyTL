@@ -106,19 +106,19 @@ translate russian strings:
 
     # game/screens.rpy:2855
     old "Rolls forward to later dialogue."
-    new "Прокрутите вниз для предыдущих диалогов"
+    new "Прокрутить вниз для предыдущих диалогов"
 
     # game/screens.rpy:2855
     old "Opens the inventory menu."
-    new "Откройте инвентарь"
+    new "Открыть инвентарь"
 
     # game/screens.rpy:2855
     old "Opens the phone menu."
-    new "Откройте меню телефона"
+    new "Открыть меню телефона"
 
     # game/screens.rpy:2855
     old "Opens the list of available routes."
-    new "Откройте список доступных маршрутов."
+    new "Открыть список доступных маршрутов."
 
     # game/screens.rpy:2880
     old "Takes a screenshot."
@@ -130,7 +130,7 @@ translate russian strings:
 
     # game/screens.rpy:2880
     old "Advances dialogue without selecting choices."
-    new "Продвигает диалог без выбора вариантов."
+    new "Продвинуть диалог без выбора вариантов."
 
     # game/screens.rpy:2880
     old "Skips dialogue while held down."
@@ -146,7 +146,7 @@ translate russian strings:
 
     # game/screens.rpy:2880
     old "Highlights all active objects."
-    new "Выделяет все активные объекты."
+    new "Выделить все активные объекты."
 
     # game/screens.rpy:2880
     old "Enables fullscreen mode."
@@ -154,15 +154,15 @@ translate russian strings:
 
     # game/screens.rpy:2880
     old "Navigate the interface."
-    new "Перейдите по интерфейсу."
+    new "Перейти по интерфейсу."
 
     # game/screens.rpy:2923
     old "Enter"
-    new ""
+    new "Войти"
 
     # game/screens.rpy:2924
     old "Advances dialogue and activates the interface."
-    new "Продвигает диалог и активирует интерфейс."
+    new "Продвинуть диалог и активировать интерфейс."
 
     # game/screens.rpy:2927
     old "Space"
@@ -178,7 +178,7 @@ translate russian strings:
 
     # game/screens.rpy:2936
     old "Accesses the game menu."
-    new "Открывает доступ к игровому меню."
+    new "Открыть доступ к игровому меню."
 
     # game/screens.rpy:2939
     old "Ctrl"
@@ -288,131 +288,130 @@ translate russian strings:
 translate russian not_now_label_a53f606d:
 
     # ch_Name "{i}(There's nothing we can talk about right now.){/i}"
-    ch_Name ""
+    ch_Name "{i}(На данный момент у нас нет особых тем для разговора.){/i}"
 
 translate russian strings:
 
     # game/screens.rpy:785
     old "SANDBOX"
-    new ""
+    new "ПЕСОЧНИЦА"
 
     # game/screens.rpy:790
     old "Open World With Free Roam"
-    new ""
+    new "Открытый мир со свободным перемещением"
 
     # game/screens.rpy:792
     old "Possibility To Choose Desired Content"
-    new ""
+    new "Возможность выбирать желаемый путь"
 
     # game/screens.rpy:794
     old "Optional Mini-Games And Activities"
-    new ""
+    new "Опциональные мини-игры и задания"
 
     # game/screens.rpy:802
     old "VISUAL NOVEL"
-    new ""
+    new "ВИЗУАЛЬНАЯ НОВЕЛЛА"
 
     # game/screens.rpy:807
     old "All In One Storytelling"
-    new ""
+    new "Все сюжетные линии вместе"
 
     # game/screens.rpy:809
     old "Occasional Choices"
-    new ""
+    new "Нечастая возможность выбора"
 
     # game/screens.rpy:811
     old "Plot-Driven Structure"
-    new ""
+    new "История движется по сценарию"
 
     # game/screens.rpy:2320
     old "DISPLAY"
-    new ""
+    new "ОТОБРАЖЕНИЕ"
 
     # game/screens.rpy:2333
     old "FULLSCREEN"
-    new ""
+    new "ПОЛНЫЙ ЭКРАН"
 
     # game/screens.rpy:2345
     old "WINDOWED"
-    new ""
+    new "ОКОННЫЙ РЕЖИМ"
 
     # game/screens.rpy:2350
     old "ROLLBACK SLIDE"
-    new ""
+    new "ОТМОТАТЬ НАЗАД"
 
     # game/screens.rpy:2361
     old "LEFT"
-    new ""
+    new "ВЛЕВО"
 
     # game/screens.rpy:2373
     old "DISABLE"
-    new ""
+    new "ОТМЕНИТЬ"
 
     # game/screens.rpy:2385
     old "RIGHT"
-    new ""
+    new "ВПРАВО"
 
     # game/screens.rpy:2392
     old "SKIP"
-    new ""
+    new "ПРОПУСКИ"
 
     # game/screens.rpy:2406
     old "UNSEEN TEXT"
-    new ""
+    new "НЕПРОСМОТРЕННЫЙ ТЕКСТ"
 
     # game/screens.rpy:2422
     old "AFTER CHOICES"
-    new ""
+    new "ПОСЛЕ ВЫБОРА"
 
     # game/screens.rpy:2438
     old "TRANSITIONS"
-    new ""
+    new "ПЕРЕХОДЫ"
 
     # game/screens.rpy:2446
     old "TEXT COLOR"
-    new ""
+    new "ЦВЕТ ТЕКСТА"
 
     # game/screens.rpy:2458
     old "WHITE"
-    new ""
+    new "БЕЛЫЙ"
 
     # game/screens.rpy:2471
     old "BLUE"
-    new ""
+    new "ГОЛУБОЙ"
 
     # game/screens.rpy:2483
     old "GOLD"
-    new ""
+    new "ЗОЛОТОЙ"
 
     # game/screens.rpy:2489
     old "Optional LGBTQ+ content"
-    new ""
+    new "Опциональный контент LGBTQ+"
 
     # game/screens.rpy:2502
     old "ENABLE"
-    new ""
+    new "ВКЛЮЧИТЬ"
 
     # game/screens.rpy:2535
     old "AUTO-FORWARD TIME"
-    new ""
+    new "АВТОПЕРЕМОТКА ВПЕРЁД"
 
     # game/screens.rpy:2542
     old "OFF"
-    new ""
+    new "ВЫКЛ"
 
     # game/screens.rpy:2554
     old "TEXT SPEED"
-    new ""
+    new "СКОРОСТЬ ТЕКСТА"
 
     # game/screens.rpy:2581
     old "MUSIC VOLUME"
-    new ""
+    new "ГРОМКОСТЬ МУЗЫКИ"
 
     # game/screens.rpy:2591
     old "SOUND VOLUME"
-    new ""
+    new "ГРОМКОСТЬ ЗВУКА"
 
     # game/screens.rpy:2990
     old "Escape"
-    new ""
-
+    new "Выход"
