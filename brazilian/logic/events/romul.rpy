@@ -514,7 +514,7 @@ translate brazilian romul_1_label_menu_bribe_7b254889:
 translate brazilian romul_2_label_89fc89bf:
 
     # ch_Name "{i}(Hmm, this looks like a staff exit from the nightclub.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm, parece ser a entrada de serviço do clube.){/i}"
 
 # game/logic/events/romul.rpy:192
 translate brazilian romul_2_label_9f9c2cee:
@@ -550,7 +550,7 @@ translate brazilian romul_2_label_4ee13620:
 translate brazilian romul_2_label_2ef37573:
 
     # ch_Name "{i}(Someone's coming out. A girl.){/i}"
-    ch_Name "{i}(Alguém saiu. Uma garota.){/i}"
+    ch_Name "{i}(Alguém está saindo. Uma garota.){/i}"
 
 # game/logic/events/romul.rpy:201
 translate brazilian romul_2_label_b0fe1185:
@@ -694,7 +694,7 @@ translate brazilian romul_2_label_9041e7ef:
 translate brazilian romul_2_label_72754f94:
 
     # Adele "YOU'RE A DISGUSTING PERSON!"
-    Adele "VOCÊ ME DÁ NOJO!"
+    Adele "VOCÊ É UMA PESSOA NOJENTA!"
 
 # game/logic/events/romul.rpy:239
 translate brazilian romul_2_label_e80cf4d9:
@@ -1006,7 +1006,7 @@ translate brazilian romul_2_label_f5935405:
 translate brazilian romul_2_label_8d97d692:
 
     # Adele "Go back to mommy, you abortion!"
-    Adele "Vão chorar no colo de mamãe, otário!"
+    Adele "Volta para a mamãe, seu aborto!"
 
 # game/logic/events/romul.rpy:322
 translate brazilian romul_2_label_64349375:
@@ -1204,7 +1204,7 @@ translate brazilian romul_2_label_f5935405_1:
 translate brazilian romul_2_label_8d97d692_1:
 
     # Adele "Go back to mommy, you abortion!"
-    Adele "Vai chorar no colo da mamãe, otário!"
+    Adele "Volta para a mamãe, seu aborto!"
 
 # game/logic/events/romul.rpy:369
 translate brazilian romul_2_label_ae8ef829:
@@ -1372,7 +1372,7 @@ translate brazilian romul_2_label_f5935405_2:
 translate brazilian romul_2_label_8d97d692_2:
 
     # Adele "Go back to mommy, you abortion!"
-    Adele "Vai chorar no colo da mamãe, otário!"
+    Adele "Volta para a mamãe, seu aborto!"
 
 # game/logic/events/romul.rpy:409
 translate brazilian romul_2_label_64349375_1:
