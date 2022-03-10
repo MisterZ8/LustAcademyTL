@@ -916,7 +916,7 @@ translate brazilian arthur_2_3_4570a174:
 translate brazilian arthur_2_3_92ec3fc3:
 
     # Katrina "Enjoy your small victories while you can."
-    Katrina "Aproveite suas pequenas vitótrias enquanto pode."
+    Katrina "Aproveite suas pequenas vitórias enquanto pode."
 
 # game/logic/events/arthur_2.rpy:375
 translate brazilian arthur_2_3_1c257f4f:
