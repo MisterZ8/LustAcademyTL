@@ -40,7 +40,7 @@ translate russian Boat_1_1_96e5d040:
 translate russian Boat_1_1_0de5c707:
 
     # ch_Name "{i}(All right, Dale, get ready! I'm on my way!){/i}"
-    ch_Name "{i}(Ну чтож, Dale, готовься! Я иду к тебе!){/i}"
+    ch_Name "{i}(Ну что ж, Дейл, готовься! Я иду к тебе!){/i}"
 
 # game/logic/story/logic.rpy:1127
 translate russian Boat_2_1_f3b337d9:
@@ -226,7 +226,7 @@ translate russian Boat_2_3_17b66340:
 translate russian Boat_2_3_40232474:
 
     # ch_Name "{i}(I spent the rest of the trip telling Hayley about Willow's photoshoot.){/i}"
-    ch_Name "{i}(Остаток путешествия я рассказываю Hayley о фотосессии Willow.){/i}"
+    ch_Name "{i}(Остаток путешествия я рассказываю Хейли о фотосессии Уиллоу.){/i}"
 
 # game/logic/story/logic.rpy:1181
 translate russian Boat_2_3_dd63f61b:
@@ -238,7 +238,7 @@ translate russian Boat_2_3_dd63f61b:
 translate russian Boat_2_3_a9613ed0:
 
     # Jacob "It's getting late, so please, head to your campus and get a good night's sleep."
-    Jacob "Уже поздно, так что пожалуйста, идите в кампус и хорошо выспитесь ночью."
+    Jacob "Уже поздно, так что пожалуйста, идите в общежитие и хорошо выспитесь ночью."
 
 # game/logic/story/logic.rpy:1184
 translate russian Boat_2_3_9ac33510:
@@ -316,7 +316,7 @@ translate russian InStory_2_ac807436:
 translate russian InStory_2_dcc69e96:
 
     # ch_Name "{i}(I could not really focus on lessons after what happened to Samantha.){/i}"
-    ch_Name "{i}(Не могу по настоящему сосредоточиться на занятиях после того, что произошло с Samantha.){/i}"
+    ch_Name "{i}(Не могу по настоящему сосредоточиться на занятиях после того, что произошло с Самантой.){/i}"
 
 # game/logic/story/logic.rpy:1208
 translate russian InStory_2_cb4e0649:
@@ -334,7 +334,7 @@ translate russian InStory_2_96f10ab4:
 translate russian InStory_2_c788c7f3:
 
     # ch_Name "{i}(But with my financial situation, it may be better to take one shift at Molly's cafe.){/i}"
-    ch_Name "{i}(Но при моих проблемах с финансами будет лучше поработать в кафе у Molly.){/i}"
+    ch_Name "{i}(Но при моих проблемах с финансами будет лучше поработать в кафе у Молли.){/i}"
 
 # game/logic/story/logic.rpy:1213
 translate russian InStory_2_b0ac28f6:
@@ -352,15 +352,15 @@ translate russian strings:
 
     # game/logic/story/logic.rpy:77
     old "Talk to Audrey"
-    new "Поговорить с Audrey"
+    new "Поговорить с Одри"
 
     # game/logic/story/logic.rpy:249
     old "Go to Audrey"
-    new "Подойти к Audrey"
+    new "Подойти к Одри"
 
     # game/logic/story/logic.rpy:249
     old "Go to Lily"
-    new "Подойти к Lily"
+    new "Подойти к Лили"
 
     # game/logic/story/logic.rpy:1218
     old "Skip mini-game"
@@ -384,275 +384,274 @@ translate russian strings:
 translate russian Boat_2_3_4b7c57d4:
 
     # ch_Name "{i}(I spent the rest of the trip telling Haley about Willow's photoshoot.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я провёл остаток поездки, рассказывая Хейли про фотосессию Уиллоу.){/i}"
 
 # game/logic/story/logic.rpy:1324
 translate russian Boat_2_4_007073d1:
 
     # Audrey "Imagine living in a town like this."
-    Audrey ""
+    Audrey "Представь себе жизнь в городке типа этого."
 
 # game/logic/story/logic.rpy:1325
 translate russian Boat_2_4_95818568:
 
     # Samantha "I don't know. It has it's charms, but something is missing..."
-    Samantha ""
+    Samantha "Не знаю. В нём есть свой шарм, но чего-то недостаёт..."
 
 # game/logic/story/logic.rpy:1326
 translate russian Boat_2_4_2575b1a3:
 
     # ch_Name "You probably wish it had more clubs."
-    ch_Name ""
+    ch_Name "Ты, видимо, хотела бы, чтобы тут было больше клубов."
 
 # game/logic/story/logic.rpy:1327
 translate russian Boat_2_4_80b2a1d3:
 
     # Samantha "Well, at least one without strippers would be nice, yeah."
-    Samantha ""
+    Samantha "Ну, хотя бы один клуб без стриптизёрш не помешал, да."
 
 # game/logic/story/logic.rpy:1334
 translate russian Boat_2_4_5f08a21d:
 
     # ch_Name "Where did Audrey go?"
-    ch_Name ""
+    ch_Name "Куда ушла Одри?"
 
 # game/logic/story/logic.rpy:1335
 translate russian Boat_2_4_baa077f2:
 
     # Samantha "She doesn't handle ferry's very well."
-    Samantha ""
+    Samantha "Она не очень хорошо переносит путешествия на пароме."
 
 # game/logic/story/logic.rpy:1336
 translate russian Boat_2_4_6daff9c9:
 
     # Samantha "I think she'll take her nausea potion and come be back."
-    Samantha ""
+    Samantha "Думаю, она примет зелье от укачивания и вернётся."
 
 # game/logic/story/logic.rpy:1337
 translate russian Boat_2_4_da677df5:
 
     # ch_Name "I see."
-    ch_Name ""
+    ch_Name "Понял."
 
 # game/logic/story/logic.rpy:1339
 translate russian Boat_2_4_a56e90b9:
 
     # Audrey "I take it back, I wouldn't want to go through that every day."
-    Audrey ""
+    Audrey "Забираю свои слова обратно, я бы не хотела через это проходить каждый день."
 
 # game/logic/story/logic.rpy:1340
 translate russian Boat_2_4_248600d2:
 
     # Samantha "Didn't the nausea potion work?"
-    Samantha ""
+    Samantha "Зелье от укачивания не помогло?"
 
 # game/logic/story/logic.rpy:1341
 translate russian Boat_2_4_c89e8e57:
 
     # Audrey "It did for seasickness, but the taste of the potion makes me just as queasy..."
-    Audrey ""
+    Audrey "От морской болезни помогло, но сам вкус зелья тоже вызывает тошноту..."
 
 # game/logic/story/logic.rpy:1348
 translate russian Boat_2_4_7f6318e7:
 
     # Jacob "Welcome back!"
-    Jacob ""
+    Jacob "Добро пожаловать назад!"
 
 # game/logic/story/logic.rpy:1349
 translate russian Boat_2_4_37b62455:
 
     # Jacob "The ferry arrived almost on time this time. I'm proud of you."
-    Jacob ""
+    Jacob "Паром прибыл почти по расписанию в этот раз. Я вами горжусь."
 
 # game/logic/story/logic.rpy:1351
 translate russian Boat_2_4_7515940f:
 
     # Jacob "Now hurry up and go to bed."
-    Jacob ""
+    Jacob "Теперь поскорее ложитесь спать."
 
 # game/logic/story/logic.rpy:1352
 translate russian Boat_2_4_b33f353d:
 
     # Jacob "To get your strength up before the school week begins."
-    Jacob ""
+    Jacob "Чтобы восстановить силы перед началом учебной недели."
 
 # game/logic/story/logic.rpy:1386
 translate russian InStory_3_abf157bf:
 
     # ch_Name "{i}(The rest of the week passed rather boringly.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Остаток недели прошёл довольно скучно.){/i}"
 
 # game/logic/story/logic.rpy:1387
 translate russian InStory_3_ae2fc4ca:
 
     # ch_Name "{i}(It was the same as usual...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Всё было как обычно...){/i}"
 
 # game/logic/story/logic.rpy:1394
 translate russian InStory_3_a5c77519:
 
     # ch_Name "{i}(As usual, Joshi was getting into trouble in class.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Как обычно, Джоши нарывался на неприятности на уроках.){/i}"
 
 # game/logic/story/logic.rpy:1395
 translate russian InStory_3_35d34ab4:
 
     # ch_Name "{i}(Until Victoria made him assist her.){/i}"
-    ch_Name ""
+    ch_Name "{i}(До тех пор, пока Виктория не заставила его помогать ей.){/i}"
 
 # game/logic/story/logic.rpy:1397
 translate russian InStory_3_0c81f79b:
 
     # ch_Name "{i}(Joshi assures us that she makes the spells a little more painful on purpose...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Джоши нас уверяет, что она намеренно делает заклинания чуть более болезненными...){/i}"
 
 # game/logic/story/logic.rpy:1398
 translate russian InStory_3_8ec2a876:
 
     # ch_Name "{i}(To punish him for chatting all the time.){/i}"
-    ch_Name ""
+    ch_Name "{i}(В наказание за его постоянную болтовню.){/i}"
 
 # game/logic/story/logic.rpy:1399
 translate russian InStory_3_5c11fdfe:
 
     # ch_Name "{i}(Somehow I believe that.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Почему-то я готов в это поверить.){/i}"
 
 # game/logic/story/logic.rpy:1406
 translate russian InStory_3_d05744ad:
 
     # ch_Name "{i}(Haley volunteered to prepare some kind of report for Victoria.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Хейли вызвалась приготовить какой-то там доклад для Виктории.){/i}"
 
 # game/logic/story/logic.rpy:1407
 translate russian InStory_3_3a733e82:
 
     # ch_Name "{i}(So she didn't get a chance to spend time with me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Так что у неё не было возможности провести время со мной.){/i}"
 
 # game/logic/story/logic.rpy:1408
 translate russian InStory_3_7a2b9f8f:
 
     # ch_Name "{i}(It's hard with girls for whom studying always comes first.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Сложно, конечно, с девушками, у которых учёба на первом месте.){/i}"
 
 # game/logic/story/logic.rpy:1415
 translate russian InStory_3_b1e6c876:
 
     # ch_Name "{i}(Naomi had another fight with Sabrina over discipline.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Наоми снова поцапалась с Сабриной по вопросам дисциплины.){/i}"
 
 # game/logic/story/logic.rpy:1416
 translate russian InStory_3_3e7ee529:
 
     # ch_Name "{i}(It never ceases to amaze me how stubborn she is.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Я не перестаю изумляться от её упёртости.){/i}"
 
 # game/logic/story/logic.rpy:1417
 translate russian InStory_3_d2bac274:
 
     # ch_Name "{i}(I'm surprised Sabrina hasn't complained about her to the principal yet.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Удивительно, как Сабрина до сих пор не пожаловалась на неё директору.){/i}"
 
 # game/logic/story/logic.rpy:1424
 translate russian InStory_3_0ce11923:
 
     # ch_Name "{i}(And Lily and I helped Sabrina gather ingredients for potions again.){/i}"
-    ch_Name ""
+    ch_Name "{i}(И ещё мы с Лили снова помогали Сабрине собирать ингредиенты для зелий.){/i}"
 
 # game/logic/story/logic.rpy:1425
 translate russian InStory_3_60b5a92d:
 
     # ch_Name "{i}(Enjoyed the views of the wildlife.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Наслаждались видами живой природы.){/i}"
 
 # game/logic/story/logic.rpy:1427
 translate russian InStory_3_c8869023:
 
     # ch_Name "{i}(No one got lost this time.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Никто на этот раз не заблудился.){/i}"
 
 # game/logic/story/logic.rpy:1428
 translate russian InStory_3_8f3cb0e5:
 
     # ch_Name "{i}(Sabrina didn't take a step away from us, just in case.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Сабрина на всякий случай ни на шаг от нас не отходила.){/i}"
 
 # game/logic/story/logic.rpy:1435
 translate russian InStory_3_a4963a7b:
 
     # ch_Name "{i}(No one ever found out about my heroic deed of saving the academy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Никто так и не узнал о том, как я героически спас всю академию.){/i}"
 
 # game/logic/story/logic.rpy:1436
 translate russian InStory_3_e2afec16:
 
     # ch_Name "{i}(But the principal generously rewarded Leonheart with points and victory was in our pocket.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Но директор щедро наградил Леонхарт баллами, так что победа в соревновании была нам обеспечена.){/i}"
 
 # game/logic/story/logic.rpy:1437
 translate russian InStory_3_30b9f0a2:
 
     # ch_Name "{i}(So now I have a great weekend ahead of me in Dale.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Так что теперь мне предстоит отличный уикенд в Дейле.){/i}"
 
 # game/logic/story/logic.rpy:1439
 translate russian InStory_3_72d09876:
 
     # ch_Name "{i}(The ship is about to depart!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Паром вот-вот отправится!){/i}"
 
 # game/logic/story/logic.rpy:1440
 translate russian InStory_3_d186447e:
 
     # ch_Name "{i}(I can't wait.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Жду-недождусь.){/i}"
 
 # game/logic/story/logic.rpy:1447
 translate russian InStory_3_23a67b64:
 
     # ch_Name "{i}(Here I am!){/i}"
-    ch_Name ""
+    ch_Name "{i}(А вот и я!){/i}"
 
 # game/logic/story/logic.rpy:1448
 translate russian InStory_3_26f82cba:
 
     # ch_Name "{i}(It feels good to get a full breath of freedom.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Приятное чувство - полной грудью дышать воздухом свободы.){/i}"
 
 # game/logic/story/logic.rpy:1450
 translate russian InStory_3_48841934:
 
     # ch_Name "{i}(There's so much to do!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Столько всего можно сделать!){/i}"
 
 # game/logic/story/logic.rpy:1451
 translate russian InStory_3_6437be82:
 
     # ch_Name "{i}(But the first thing I'll do is check into a room at the Dale-ly.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Но вначале надо забронировать себе комнату в местной гостинице.){/i}"
 
 # game/logic/story/logic.rpy:1452
 translate russian InStory_3_e7dfb5fc:
 
     # ch_Name "{i}(So tired of my old room.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Мне так надоела моя старая комната.){/i}"
 
 # game/logic/story/logic.rpy:1460
 translate russian InStory_3_5740228c:
 
     # ch_Name "{i}(Maybe they have a better one available.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Может, у них доступна комната получше.){/i}"
 
 # game/logic/story/logic.rpy:1461
 translate russian InStory_3_25076e48:
 
     # ch_Name "{i}(I should check with Mina before I check in.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Надо спросить у Мины перед заселением.){/i}"
 
 # game/logic/story/logic.rpy:1462
 translate russian InStory_3_9b81a6e8:
 
     # ch_Name "Hi! I have a favor to ask..."
-    ch_Name ""
-
+    ch_Name "Привет! Я хотел попросить об одолжении..."
