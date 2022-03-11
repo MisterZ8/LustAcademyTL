@@ -16,13 +16,13 @@ translate russian sheet_30_c7d7472a:
 translate russian sheet_30_14e32c59:
 
     # Elijah "Welcome to Leonheart, kids! "
-    Elijah "Добро пожаловать в Leonheart, детишки! "
+    Elijah "Добро пожаловать в Леонхарт, детишки! "
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:36
 translate russian sheet_30_f9c5a6d1:
 
     # Elijah "Best conditions for best students!"
-    Elijah "Лучшие учловия для лучших студентов!"
+    Elijah "Лучшие условия для лучших студентов!"
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:37
 translate russian sheet_30_0b357859:
@@ -40,7 +40,7 @@ translate russian sheet_30_134f228b:
 translate russian sheet_30_cef0c6ef:
 
     # Elijah "But the main place in our house is this living room. Here..."
-    Elijah "Но самое важное место в нашем доме это гостиная. Здесь..."
+    Elijah "Но самое важное место в нашем доме - это гостиная. Здесь..."
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:40
 translate russian sheet_30_e8fa5614:
@@ -58,7 +58,7 @@ translate russian sheet_30_8b95d622:
 translate russian sheet_30_cd2d528a:
 
     # Elijah "Celebrating house victories in tournaments and competitions, orgies..."
-    Elijah "Празднование побед дома в ткрнирах и соревнованиях, оргии... "
+    Elijah "Празднование побед факультета в турнирах и соревнованиях, оргии... "
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:43
 translate russian sheet_30_58d7675b:
@@ -148,7 +148,7 @@ translate russian sheet_30_menu_answ_2_dfad5c35:
 translate russian sheet_30_menu_answ_2_7306a082:
 
     # Elijah "And if you want to fail your training and get expelled — it's up to you."
-    Elijah "А если хотите провалить тренировки и вылететь - это ваше дело."
+    Elijah "А если хотите провалить обучение и вылететь - это ваше дело."
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:88
 translate russian sheet_30_menu_answ_2_676a3bd6:
@@ -184,7 +184,7 @@ translate russian sheet_30_menu_answ_3_9b4abf1c:
 translate russian sheet_30_menu_answ_3_47e05278:
 
     # ch_Name "Who is our house competing with?"
-    ch_Name "С кем наш дом соревнуется?"
+    ch_Name "С кем наш факультет соревнуется?"
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:98
 translate russian sheet_30_menu_answ_3_de295e21:
@@ -196,7 +196,7 @@ translate russian sheet_30_menu_answ_3_de295e21:
 translate russian sheet_30_menu_answ_3_39cc4c2b:
 
     # Elijah "The best house in Cordale is selected each week."
-    Elijah "Лучший дом в Cordale выбирается каждую неделю."
+    Elijah "Лучший факультет в Кордейле выбирается каждую неделю."
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:100
 translate russian sheet_30_menu_answ_3_58559787:
@@ -220,13 +220,13 @@ translate russian sheet_30_menu_answ_3_67008087:
 translate russian sheet_30_menu_answ_3_fe89c76b:
 
     # Elijah "And that's not a fact. I don't think they have a choice. But we do!"
-    Elijah "И это не факт. Сомневаюсь что у них есть выбор. Но у нас есть!"
+    Elijah "И то не факт. Сомневаюсь что у них есть выбор. Но у нас есть!"
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:104
 translate russian sheet_30_menu_answ_3_d4258485:
 
     # Elijah "Collect the most points — have fun in Dale!"
-    Elijah "Соберите больше всего баллов - и развлекайтесь в Dale!"
+    Elijah "Соберите больше всего баллов - и развлекайтесь в Дейле!"
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:105
 translate russian sheet_30_menu_answ_3_985de653:
@@ -274,7 +274,7 @@ translate russian end_sheet_30_178e9f31:
 translate russian end_sheet_30_76381c03:
 
     # ch_Name "{i}(This guy seems great.){/i}"
-    ch_Name "{i}(Похоже, этот парень замечательный.){/i}"
+    ch_Name "{i}(Похоже, он классный парень.){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:119
 translate russian end_sheet_30_cbf0a58e:
@@ -298,13 +298,13 @@ translate russian end_sheet_30_1a1af4d7:
 translate russian end_sheet_30_027b1c56:
 
     # ch_Name "..."
-    ch_Name ""
+    ch_Name "..."
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:130
 translate russian sheet_30_end_b82b98e2:
 
     # ch_Name "{i}(Sam?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Сэм?){/i}"
 
 translate russian strings:
 
@@ -319,4 +319,3 @@ translate russian strings:
     # game/logic/episodes_after_first/ep2/sheet_30.rpy:56
     old "Ask about competitions"
     new "Спросить о соревнованиях"
-
