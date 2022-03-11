@@ -5836,199 +5836,199 @@ translate philippine Haley_13_label_e67c43d5:
 translate philippine Haley_13_label_bfd13e84:
 
     # Haley "What am I taking a picture of? Oh, well... Myself. Selfies."
-    Haley ""
+    Haley "Anong kinukunan ko ng larawan? Oh... Sarili ko. Mga selfie."
 
 # game/logic/events/haley.rpy:1872
 translate philippine Haley_13_label_578dcddb:
 
     # Amelie "Um... Selfies, you say?"
-    Amelie ""
+    Amelie "Umm... Mga selfie, sabi mo?"
 
 # game/logic/events/haley.rpy:1874
 translate philippine Haley_13_label_94bd96d7:
 
     # Amelie "Let me see."
-    Amelie ""
+    Amelie "Ipakita mo sa akin."
 
 # game/logic/events/haley.rpy:1875
 translate philippine Haley_13_label_32c9f080:
 
     # Haley "I can't..."
-    Haley ""
+    Haley "Hindi pwede..."
 
 # game/logic/events/haley.rpy:1876
 translate philippine Haley_13_label_f6bfc114:
 
     # Amelie "Why not?"
-    Amelie ""
+    Amelie "Bakit hindi?"
 
 # game/logic/events/haley.rpy:1877
 translate philippine Haley_13_label_1532bc75:
 
     # Haley "I didn't like it so I deleted it."
-    Haley ""
+    Haley "Hindi ko nagustuhan kaya tinanggal ko."
 
 # game/logic/events/haley.rpy:1878
 translate philippine Haley_13_label_8cc07e8b:
 
     # Amelie "That's how it is. Then show me the last picture you took."
-    Amelie ""
+    Amelie "Ganun naman pala eh. Ipakita mo sakin yung huling picture mo."
 
 # game/logic/events/haley.rpy:1880
 translate philippine Haley_13_label_ebed8812:
 
     # Haley "Here it is. Check it out."
-    Haley ""
+    Haley "Heto. Tingnan mo."
 
 # game/logic/events/haley.rpy:1881
 translate philippine Haley_13_label_88e54d5e:
 
     # ch_Name "{i}(Oh no, now she's going to see the pictures Haley took...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Naku, ngayon makikita niya ang mga larawang kinuha ni Haley...){/i}"
 
 # game/logic/events/haley.rpy:1882
 translate philippine Haley_13_label_5218faa7:
 
     # ch_Name "{i}(And we're screwed.){/i}"
-    ch_Name ""
+    ch_Name "{i}(At magkakaproblema kami.){/i}"
 
 # game/logic/events/haley.rpy:1884
 translate philippine Haley_13_label_0a409ea4:
 
     # Amelie "Okay, Ms. Ranger. Sorry about the precautions."
-    Amelie ""
+    Amelie "Okay, Ms. Ranger. Pasensya sa mga pag-iingat."
 
 # game/logic/events/haley.rpy:1885
 translate philippine Haley_13_label_82d35d1b:
 
     # Amelie "As curator of the library, it's my responsibility to double-check everything."
-    Amelie ""
+    Amelie "Bilang tagapangasiwa ng aklatan, responsibilidad kong suriin ang lahat."
 
 # game/logic/events/haley.rpy:1886
 translate philippine Haley_13_label_3aa8b7c3:
 
     # Amelie "I found all the books you need."
-    Amelie ""
+    Amelie "Nahanap ko lahat ng librong kailangan mo."
 
 # game/logic/events/haley.rpy:1887
 translate philippine Haley_13_label_46e313f4:
 
     # ch_Name "{i}(I don't understand. How did Haley do that?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi ko maintindihan. Paano ba ginawa ni Haley?){/i}"
 
 # game/logic/events/haley.rpy:1888
 translate philippine Haley_13_label_a057e557:
 
     # ch_Name "{i}(Does she have some kind of technology?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mayroon ba siyang uri ng teknolohiya?){/i}"
 
 # game/logic/events/haley.rpy:1889
 translate philippine Haley_13_label_2ea77bb2:
 
     # Haley "Thank you very much. [Name] will help me get them to you."
-    Haley ""
+    Haley "Maraming salamat. Tutulungan ako ni [Name] na maihatid sila sa iyo."
 
 # game/logic/events/haley.rpy:1891
 translate philippine Haley_13_label_90dfa88c:
 
     # Haley "Come on, [Name]. Goodbye, Miss Amelie."
-    Haley ""
+    Haley "Halika, [Name]. Paalam, Miss Amelie."
 
 # game/logic/events/haley.rpy:1892
 translate philippine Haley_13_label_786b54ba:
 
     # ch_Name "Goodbye. Thank you for your help."
-    ch_Name ""
+    ch_Name "Paalam. Salamat sa tulong mo."
 
 # game/logic/events/haley.rpy:1893
 translate philippine Haley_13_label_e4ac9740:
 
     # Amelie "And thank you. I'll see you later."
-    Amelie ""
+    Amelie "At salamat. Magkita na lang tayo mamaya."
 
 # game/logic/events/haley.rpy:1901
 translate philippine Haley_13_label_4c3643f6:
 
     # ch_Name "That was incredible, Haley!"
-    ch_Name ""
+    ch_Name "Hindi kapani-paniwala 'yun, Haley!"
 
 # game/logic/events/haley.rpy:1902
 translate philippine Haley_13_label_f1afa101:
 
     # ch_Name "How did you manage not to not get caught?"
-    ch_Name ""
+    ch_Name "Paano mo nagawang hindi mahuli?"
 
 # game/logic/events/haley.rpy:1903
 translate philippine Haley_13_label_395bb3ec:
 
     # Haley "I just deleted all the photos before I gave her the phone."
-    Haley ""
+    Haley "Binura ko lahat ng larawan bago ko ibinigay sa kanya ang telepono."
 
 # game/logic/events/haley.rpy:1904
 translate philippine Haley_13_label_bb49a43a:
 
     # ch_Name "That's clever... But how do we solve the mystery of the library now?"
-    ch_Name ""
+    ch_Name "Matalino 'yan... Pero paano natin malulutas ang misteryo ng aklatan ngayon?"
 
 # game/logic/events/haley.rpy:1905
 translate philippine Haley_13_label_42793698:
 
     # Haley "Don't worry. I have everything saved."
-    Haley ""
+    Haley "Huwag kang mag-alala. Nandito pa ang lahat."
 
 # game/logic/events/haley.rpy:1906
 translate philippine Haley_13_label_4ccda901:
 
     # ch_Name "In your mind?"
-    ch_Name ""
+    ch_Name "Sa isip mo?"
 
 # game/logic/events/haley.rpy:1908
 translate philippine Haley_13_label_1058cbdc:
 
     # Haley "In a folder on my phone."
-    Haley ""
+    Haley "Nasa isang folder sa phone ko."
 
 # game/logic/events/haley.rpy:1909
 translate philippine Haley_13_label_b84b4f40:
 
     # ch_Name "Ah-ha-ha... Really? So simple and so genius."
-    ch_Name ""
+    ch_Name "Ah-ha-ha ... Talaga? Napakasimple at sobrang galing."
 
 # game/logic/events/haley.rpy:1910
 translate philippine Haley_13_label_6a88562c:
 
     # ch_Name "I never would have thought of that."
-    ch_Name ""
+    ch_Name "Hindi ko naisip iyon."
 
 # game/logic/events/haley.rpy:1911
 translate philippine Haley_13_label_f598e74f:
 
     # ch_Name "So, what's our next plan?"
-    ch_Name ""
+    ch_Name "Ano ang susunod nating plano?"
 
 # game/logic/events/haley.rpy:1912
 translate philippine Haley_13_label_64a2d4d4:
 
     # Haley "The coins and that statue have similar symbols, but I don't recognize them."
-    Haley ""
+    Haley "Ang mga barya at estatwa na iyon ay may magkatulad na mga simbolo, ngunit hindi ko nakikilala."
 
 # game/logic/events/haley.rpy:1914
 translate philippine Haley_13_label_965334a6:
 
     # Haley "I need time to do my research."
-    Haley ""
+    Haley "Kailangan ko ng oras para makapananaliksik."
 
 # game/logic/events/haley.rpy:1915
 translate philippine Haley_13_label_da07e2d6:
 
     # Haley "I'll call you when I know something."
-    Haley ""
+    Haley "Tatawagan kita kapag may alam ako."
 
 # game/logic/events/haley.rpy:1916
 translate philippine Haley_13_label_99ec009f:
 
     # ch_Name "All right. I'll talk to you soon."
-    ch_Name ""
+    ch_Name "Sige. Kakausapin kita." 
 
 # game/logic/events/haley.rpy:1917
 translate philippine Haley_13_label_e5eacb33:
@@ -6040,103 +6040,103 @@ translate philippine Haley_13_label_e5eacb33:
 translate philippine Haley_13_label_b4f26303:
 
     # ch_Name "Wait! What are we gonna do with all this junk you asked for?"
-    ch_Name ""
+    ch_Name "Teka! Anong gagawin natin sa lahat ng basurang hiniling mo?"
 
 # game/logic/events/haley.rpy:1920
 translate philippine Haley_13_label_ea6d50ff:
 
     # Haley "It's not junk, I'm really doing research."
-    Haley ""
+    Haley "It's not basura, nananaliksik talaga ako."
 
 # game/logic/events/haley.rpy:1921
 translate philippine Haley_13_label_bb94dee8:
 
     # Haley "Just leave it here. I'll go to class and come back for them."
-    Haley ""
+    Haley Iwan mo na lang dito. Pupunta ako sa klase at babalikan ko."
 
 # game/logic/events/haley.rpy:1922
 translate philippine Haley_13_label_52b7ab1a:
 
     # ch_Name "Listen, can I borrow something to read?"
-    ch_Name ""
+    ch_Name "Sandali, pwede bang humiram ng babasahin?"
 
 # game/logic/events/haley.rpy:1924
 translate philippine Haley_13_label_2fb0d1d6:
 
     # Haley "Read? That doesn't sound like you..."
-    Haley ""
+    Haley "Basahin mo? Parang hindi ikaw ang kinakausap ko..."
 
 # game/logic/events/haley.rpy:1925
 translate philippine Haley_13_label_de4cf710:
 
     # ch_Name "Don't underestimate me, baby. I'm a real book guy."
-    ch_Name ""
+    ch_Name "'Wag mo akong maliitin, baby. Ako ay isang tunay na nagmamahal sa libro."
 
 # game/logic/events/haley.rpy:1926
 translate philippine Haley_13_label_052a5e0c:
 
     # Haley "You know how to get a girl interested in... Oh, all right."
-    Haley ""
+    Haley "Alam mo kung paano mag-interes sa isang babae sa... Sige."
 
 # game/logic/events/haley.rpy:1928
 translate philippine Haley_13_label_e4de67fb:
 
     # Haley "Here you go. \"A book of magic tips for every day\"."
-    Haley ""
+    Haley Eto na. \"A Book of Magic Tips For Every Day\".
 
 # game/logic/events/haley.rpy:1929
 translate philippine Haley_13_label_73681011:
 
     # Haley "Victoria gave it to me."
-    Haley ""
+    Haley "Binigay sa akin ni Victoria."
 
 # game/logic/events/haley.rpy:1930
 translate philippine Haley_13_label_e1877b45:
 
     # ch_Name "Hmm, sounds interesting.{w} Thank you."
-    ch_Name ""
+    ch_Name "Hmm, mukhang kawili-wili.{w} Salamat."
 
 # game/logic/events/haley.rpy:1932
 translate philippine Haley_13_label_2b07ec34:
 
     # Haley "Okay. I have to get to class. I'll see you later."
-    Haley ""
+    Haley "Okay. I have to get to class. Kita na lang tayo mamaya."
 
 # game/logic/events/haley.rpy:1933
 translate philippine Haley_13_label_8493e8a5:
 
     # ch_Name "Okay. Bye."
-    ch_Name ""
+    ch_Name "Sige. Paalam."
 
 # game/logic/events/haley.rpy:1936
 translate philippine Haley_13_label_79abf293:
 
     # ch_Name "{i}(I'm sure Haley will crack this riddle in no time.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sigurado akong malalampasan ni Haley ang bugtong na ito.){/i}"
 
 # game/logic/events/haley.rpy:1937
 translate philippine Haley_13_label_6b294e9d:
 
     # ch_Name "{i}(In the meantime, I think I need to check how's Lily doing.){/i}"
-    ch_Name ""
+    ch_Name {i}(Samantala, kailangan kong tingnan kung kumusta si Lily.){/i}"
 
 # game/logic/events/haley.rpy:1938
 translate philippine Haley_13_label_ed9f718b:
 
     # ch_Name "{i}(After all, I haven't heard from her after what happened in my room.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wala na akong balita sa kanya pagkatapos ng nangyari sa kwarto ko.){/i}"
 
 # game/logic/events/haley.rpy:1940
 translate philippine Haley_13_label_ee296086:
 
     # ch_Name "{i}(Strange. She usually hangs out here, with Naomi.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kakaiba. Dito siya madalas tumatambay, kasama si Naomi.){/i}"
 
 # game/logic/events/haley.rpy:1941
 translate philippine Haley_13_label_08820375:
 
     # ch_Name "{i}(Hm... Maybe she's still at Sabrina's class?){/i}"
-    ch_Name ""
+    ch_Name"{i}(Hm... Baka nasa klase pa siya ni Sabrina?){/i}"""
 
 # game/logic/events/haley.rpy:1945
 translate philippine Haley_13_label_b8a7fc1e:
@@ -6148,241 +6148,241 @@ translate philippine Haley_13_label_b8a7fc1e:
 translate philippine Haley_13_label_f6725d6b:
 
     # ch_Name "{i}(Here she is!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Narito siya!){/i}"
 
 # game/logic/events/haley.rpy:1952
 translate philippine Angels_1_label_a015bf6b:
 
     # ch_Name "{i}(It's friday already. And I still haven't learned combat spells.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Biyernes na. At hindi ko pa rin natuto ng combat spells.){/i}"
 
 # game/logic/events/haley.rpy:1953
 translate philippine Angels_1_label_52157478:
 
     # ch_Name "{i}(If I want to win a bet against Lily, I need to learn one.){/i}"
-    ch_Name ""
+    ch_Name "{i} (Kung gusto kong manalo ng taya laban kay Lily, kailangan kong matuto ng isa.) {/i}"
 
 # game/logic/events/haley.rpy:1954
 translate philippine Angels_1_label_f17537ee:
 
     # ch_Name "{i}(Or Jacob won't let me in the dueling club.){/i}"
-    ch_Name ""
+    ch_Name "{i}(O hindi ako papasukin ni Jacob sa dueling club.){/i}"
 
 # game/logic/events/haley.rpy:1955
 translate philippine Angels_1_label_9b6fb15b:
 
     # ch_Name "{i}(Luckly, I know where I can learn it. It's time to visit Victoria's lesson.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Alam ko kung saan ko ito matututunan. Bisitahin ko ang klase ni Victoria.){/i}"
 
 # game/logic/events/haley.rpy:1959
 translate philippine Angels_1_label_3e57db8f:
 
     # ch_Name "Hey, how is your break going?"
-    ch_Name ""
+    ch_Name "Hey, kamusta ang bakasyon mo?"
 
 # game/logic/events/haley.rpy:1960
 translate philippine Angels_1_label_6e3a251b:
 
     # Haley "Hello, [Name]! I've already revised all my materials and now just waiting for the class."
-    Haley ""
+    Haley "Kamusta, [Name]! Narebisa ko na ang lahat ng mga agham ko at ngayon naghihintay na lang ako ng klase."
 
 # game/logic/events/haley.rpy:1962
 translate philippine Angels_1_label_25edb812:
 
     # Haley "But time moves so slowly."
-    Haley ""
+    Haley "Ngunit napakabagal ng oras."
 
 # game/logic/events/haley.rpy:1963
 translate philippine Angels_1_label_5fe4240e:
 
     # ch_Name "Seems like you need to get some fresh air. Let's go for a walk to the garden."
-    ch_Name ""
+    ch_Name "Mukhang kailangan mong makalanghap ng hangin. Pasyal tayo sa hardin."
 
 # game/logic/events/haley.rpy:1964
 translate philippine Angels_1_label_9e556db7:
 
     # Haley "Great idea! Let's go."
-    Haley ""
+    Haley "Great idea! Tara na."
 
 # game/logic/events/haley.rpy:1971
 translate philippine Angels_1_label_ba3ec0f3:
 
     # ch_Name "Such a magnificent garden!"
-    ch_Name ""
+    ch_Name "Napakagandang hardin!"
 
 # game/logic/events/haley.rpy:1972
 translate philippine Angels_1_label_0a311cfc:
 
     # ch_Name "To tell the truth, I've never been here before."
-    ch_Name ""
+    ch_Name "Sa totoo lang, hindi pa ako nakapunta dito."
 
 # game/logic/events/haley.rpy:1973
 translate philippine Angels_1_label_c546404b:
 
     # Haley "No way! It's the most incredible place of the Academy."
-    Haley ""
+    Haley "Imposible! Ito ang talagang hindi kapani-paniwalang lugar sa Akademiya."
 
 # game/logic/events/haley.rpy:1975
 translate philippine Angels_1_label_6140b9bd:
 
     # Haley "I like to listen to audiobooks here, especially in the evenings."
-    Haley ""
+    Haley "Gusto kong makinig ng mga audiobook dito, lalo na sa gabi."
 
 # game/logic/events/haley.rpy:1976
 translate philippine Angels_1_label_dfbb6449:
 
     # ch_Name "Sorry, what? Audiobooks?"
-    ch_Name ""
+    ch_Name Pasensya, ano? Mga audiobook?"
 
 # game/logic/events/haley.rpy:1977
 translate philippine Angels_1_label_9532a954:
 
     # Haley "Yep."
-    Haley ""
+    Haley "Oo."
 
 # game/logic/events/haley.rpy:1978
 translate philippine Angels_1_label_716f71f9:
 
     # Haley "What's wrong? Why are you looking at me like that?"
-    Haley ""
+    Haley "Ano ang problema? Bakit ganyan ang tingin mo sa akin?"
 
 # game/logic/events/haley.rpy:1980
 translate philippine Angels_1_label_d433aa45:
 
     # ch_Name "Nothing, it's just... I mean, do you listen to music at least sometimes?"
-    ch_Name ""
+    ch_Name "Wala lang... I mean, nakikinig ka ba kahit minsan ng music?"
 
 # game/logic/events/haley.rpy:1981
 translate philippine Angels_1_label_849eb4b4:
 
     # Haley "Almost never."
-    Haley ""
+    Haley "Halos hindi."
 
 # game/logic/events/haley.rpy:1982
 translate philippine Angels_1_label_aacc3ec9:
 
     # Haley "I don't even have a favourite singer or musical group."
-    Haley ""
+    Haley "Wala akong paboritong mang-aawit o grupo."
 
 # game/logic/events/haley.rpy:1983
 translate philippine Angels_1_label_64222c39:
 
     # ch_Name "Are you kidding me?! We gotta fix it."
-    ch_Name ""
+    ch_Name "Niloloko mo ba ako?! Kailangan nating ayusin ito."
 
 # game/logic/events/haley.rpy:1985
 translate philippine Angels_1_label_a29694ff:
 
     # Haley "I've just never had enough time for figuring it out."
-    Haley ""
+    Haley "Hindi lang ako nagkaroon ng sapat na oras para malaman ito"
 
 # game/logic/events/haley.rpy:1986
 translate philippine Angels_1_label_d3976ac9:
 
     # ch_Name "Is it even possible?"
-    ch_Name ""
+    ch_Name "Posible ba?"
 
 # game/logic/events/haley.rpy:1987
 translate philippine Angels_1_label_4ddbdb36:
 
     # ch_Name "You are missing out so much."
-    ch_Name ""
+    ch_Name "Ang dami mong nawawala."
 
 # game/logic/events/haley.rpy:1989
 translate philippine Angels_1_label_62fe044e:
 
     # Haley "Hmmm... Maybe you are right."
-    Haley ""
+    Haley "Hmmm... Baka tama ka."
 
 # game/logic/events/haley.rpy:1991
 translate philippine Angels_1_label_b785c3a9:
 
     # Haley "Is it just me or did I say it for the first time?"
-    Haley ""
+    Haley "Ako lang ba o unang beses ko 'yun nasabi?"
 
 # game/logic/events/haley.rpy:1992
 translate philippine Angels_1_label_db2bd747:
 
     # ch_Name "Hey, I've got an idea!"
-    ch_Name ""
+    ch_Name "Hoy, may naisip ako!"
 
 # game/logic/events/haley.rpy:1993
 translate philippine Angels_1_label_88891706:
 
     # ch_Name "I will create a special playlist of different songs I think you'd like."
-    ch_Name ""
+    ch_Name "Gagawin ko ang isang espesyal na playlist ng mga kanta na magugustuhan mo."
 
 # game/logic/events/haley.rpy:1995
 translate philippine Angels_1_label_ec00f50c:
 
     # ch_Name "And you will share your opinion about it."
-    ch_Name ""
+    ch_Name "At ibabahagi mo ang iyong opinyon."
 
 # game/logic/events/haley.rpy:1996
 translate philippine Angels_1_label_661b88a9:
 
     # Haley "How nice you are!"
-    Haley ""
+    Haley "Ang bait mo!"
 
 # game/logic/events/haley.rpy:1998
 translate philippine Angels_1_label_61857f57:
 
     # ch_Name "{i}(Maybe an intimate ambience will do the work words can't.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Siguro magagawa ng matalik na kapaligiran ang 'di kaya ng salita.){/i}"
 
 # game/logic/events/haley.rpy:1999
 translate philippine Angels_1_label_2254f687:
 
     # ch_Name "{i}(I'm sure there are a lot of tenderness as well as passion in this full lips){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sigurado akong maraming lambing at pagsinta sa labi niya.){/i}"
 
 # game/logic/events/haley.rpy:2001
 translate philippine Angels_1_label_4e8da61d:
 
     # ch_Name "{i}(I wonder what magic can you do with them...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nagtatako ako sa kung anong mahika ang magagawa mo sa kanila...){/i}"
 
 # game/logic/events/haley.rpy:2002
 translate philippine Angels_1_label_347073e5:
 
     # ch_Name "{i}(Maybe I'll find it out after making that playlist for you.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Siguro malalaman ko pagkatapos gawin ang playlist na iyon para sa iyo.){/i}"
 
 # game/logic/events/haley.rpy:2004
 translate philippine Angels_1_label_3730717e:
 
     # Haley "I still cannot believe that you haven't been here before!"
-    Haley ""
+    Haley "Hindi pa rin ako makapaniwala na hindi ka pa nakakapunta dito!"
 
 # game/logic/events/haley.rpy:2005
 translate philippine Angels_1_label_146fbc04:
 
     # Haley "What do you even do in your free time?"
-    Haley ""
+    Haley "Ano ang ginagawa mo sa iyong libreng oras?"
 
 # game/logic/events/haley.rpy:2007
 translate philippine Angels_1_label_b6b1ab95:
 
     # ch_Name "Oho, are there marble figures?"
-    ch_Name ""
+    ch_Name "Oho, mga pigurang marmol ba ito?"
 
 # game/logic/events/haley.rpy:2008
 translate philippine Angels_1_label_1803eb2b:
 
     # ch_Name "Angels!"
-    ch_Name ""
+    ch_Name "Mga anghel!"
 
 # game/logic/events/haley.rpy:2009
 translate philippine Angels_1_label_ae3de4d8:
 
     # ch_Name "I wonder how old are they... They look really vintage."
-    ch_Name ""
+    ch_Name "Ilang taon na ba ito... Mukhang antigo talaga."
 
 # game/logic/events/haley.rpy:2010
 translate philippine Angels_1_label_3937aa78:
 
     # ch_Name "And this precision of the details!"
-    ch_Name ""
+    ch_Name "At ang katumpakan ng mga detalye!"
 
 # game/logic/events/haley.rpy:2012
 translate philippine Angels_1_label_027b1c56:
@@ -6394,145 +6394,145 @@ translate philippine Angels_1_label_027b1c56:
 translate philippine Angels_1_label_4180a524:
 
     # ch_Name "Wait, what??"
-    ch_Name ""
+    ch_Name "Teka, ano??"
 
 # game/logic/events/haley.rpy:2015
 translate philippine Angels_1_label_e21ba1e6:
 
     # ch_Name "Did you see that?"
-    ch_Name ""
+    ch_Name "Nakita mo ba?"
 
 # game/logic/events/haley.rpy:2016
 translate philippine Angels_1_label_ce66932a:
 
     # Haley "What are you talking about?"
-    Haley ""
+    Haley "Anong pinagsasabi mo?"
 
 # game/logic/events/haley.rpy:2017
 translate philippine Angels_1_label_76613142:
 
     # ch_Name "Angels! Their positions were different just a minute ago!"
-    ch_Name ""
+    ch_Name "Mga anghel! Magkaiba ang posisyon nila kani-kanina lang!"
 
 # game/logic/events/haley.rpy:2019
 translate philippine Angels_1_label_b366decb:
 
     # Haley "Were you really never interested in the history of the Cordale?"
-    Haley ""
+    Haley "Hindi ka ba talaga interesado sa kasaysayan ng Cordale?"
 
 # game/logic/events/haley.rpy:2020
 translate philippine Angels_1_label_8f4a7f42:
 
     # ch_Name "Of course I was, but not that much as you."
-    ch_Name ""
+    ch_Name "Siyempre naman, pero hindi katulad mo."
 
 # game/logic/events/haley.rpy:2021
 translate philippine Angels_1_label_4b7bf9db:
 
     # Haley "I thought everybody knows about these magical creatures."
-    Haley ""
+    Haley Akala ko alam ng lahat ang tungkol sa mga nilalang na ito."
 
 # game/logic/events/haley.rpy:2023
 translate philippine Angels_1_label_41282353:
 
     # Haley "They are not just statues, they are real things. "
-    Haley ""
+    Haley "Ito ay hindi lamang mga estatwa, sila ay namumuhay."
 
 # game/logic/events/haley.rpy:2024
 translate philippine Angels_1_label_bd67f888:
 
     # ch_Name "What do you mean?"
-    ch_Name ""
+    ch_Name "Ano ang ibig mong sabihin?"
 
 # game/logic/events/haley.rpy:2025
 translate philippine Angels_1_label_caff4f04:
 
     # Haley "They can move, but only if nobody's watching."
-    Haley ""
+    Haley "Gumagalaw sila, ngunit kung walang nanonood."
 
 # game/logic/events/haley.rpy:2027
 translate philippine Angels_1_label_0d126b10:
 
     # Haley "Blinking also counts!"
-    Haley ""
+    Haley "Kasama doon ang pagpikit!"
 
 # game/logic/events/haley.rpy:2028
 translate philippine Angels_1_label_8591fec1:
 
     # Haley "These angels are babes, so they are too weak to do any harm."
-    Haley ""
+    Haley "Ang mga anghel ay parang sanggol, kaya sila ay masyadong mahina."
 
 # game/logic/events/haley.rpy:2029
 translate philippine Angels_1_label_648d1227:
 
     # Haley "But the patter of little feet and laughter could scare anyone, especially at nighttime."
-    Haley ""
+    Haley "Ngunit ang tunog ng mga paa at pagtawa ay nakakatakot ng sinuman, lalo na sa gabi."
 
 # game/logic/events/haley.rpy:2031
 translate philippine Angels_1_label_9b6938da:
 
     # ch_Name "After that I'll probably avoid night walks here."
-    ch_Name ""
+    ch_Name "Iiwasan ko na siguro ang mga lakad dito sa gabi."
 
 # game/logic/events/haley.rpy:2032
 translate philippine Angels_1_label_47cba832:
 
     # ch_Name "And what about grown-ups? "
-    ch_Name ""
+    ch_Name "At ang mga matatanda?"
 
 # game/logic/events/haley.rpy:2033
 translate philippine Angels_1_label_34705fb6:
 
     # Haley "Usually nothing that bad, but there's always an exception."
-    Haley ""
+    Haley "Kadalasan walang ganoong masama, ngunit palaging may pagbubukod."
 
 # game/logic/events/haley.rpy:2035
 translate philippine Angels_1_label_d0aec1e8:
 
     # Haley "If they've spent a significant amount of time without control and communication..."
-    Haley ""
+    Haley "Kung gumugol sila ng maraming oras nang walang kontrol at komunikasyon..."
 
 # game/logic/events/haley.rpy:2036
 translate philippine Angels_1_label_3372e664:
 
     # Haley "They could possibly start to kill."
-    Haley ""
+    Haley "Maaari silang magsimulang pumatay."
 
 # game/logic/events/haley.rpy:2037
 translate philippine Angels_1_label_3943a145:
 
     # Haley "And as you can understand, their magical powers are quite useful in this regard."
-    Haley ""
+    Haley "Ang kanilang mga mahiwagang kapangyarihan ay lubos na kapaki-pakinabang sa bagay na ito."
 
 # game/logic/events/haley.rpy:2039
 translate philippine Angels_1_label_f075f184:
 
     # ch_Name "Crazy angels that have everything you need to become the best murderers? Whoa!"
-    ch_Name ""
+    ch_Name Mga baliw na anghel na may magagamit mo para maging na mamamatay-tao? Whoa!"
 
 # game/logic/events/haley.rpy:2040
 translate philippine Angels_1_label_338fb49c:
 
     # ch_Name "Sounds kinda creepy, don't you think?"
-    ch_Name ""
+    ch_Name "Parang nakakatakot, diba?"
 
 # game/logic/events/haley.rpy:2041
 translate philippine Angels_1_label_7b7f7031:
 
     # ch_Name "{i}(Oh my gosh! There are too many dangers in this world...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Diyos ko! Napakaraming panganib sa mundong ito...){/i}"
 
 # game/logic/events/haley.rpy:2043
 translate philippine Angels_1_label_3b4ffaf6:
 
     # Haley "C'mon, don't be that scared!"
-    Haley ""
+    Haley "'Wag kang matakot!"
 
 # game/logic/events/haley.rpy:2044
 translate philippine Angels_1_label_8bb8b4c6:
 
     # Haley "Look how cute are they!"
-    Haley ""
+    Haley "Tingnan mo nga, ang cute nila!"
 
 # game/logic/events/haley.rpy:2046
 translate philippine Angels_1_label_8ae4e89d:
@@ -6544,43 +6544,43 @@ translate philippine Angels_1_label_8ae4e89d:
 translate philippine Angels_1_label_692778e7:
 
     # ch_Name "Cute? I wouldn't put it like that!"
-    ch_Name ""
+    ch_Name "Cute? Hindi ako sasabihin 'yan!"
 
 # game/logic/events/haley.rpy:2049
 translate philippine Angels_1_label_17fe8bf5:
 
     # Haley "Ohh, God, is it for real?"
-    Haley ""
+    Haley "Diyos ko, totoo ba?"
 
 # game/logic/events/haley.rpy:2050
 translate philippine Angels_1_label_559e30a1:
 
     # Haley "Their bodies work just like ours even?"
-    Haley ""
+    Haley "Gumagana ba ang kanilang mga katawan tulad natin?"
 
 # game/logic/events/haley.rpy:2051
 translate philippine Angels_1_label_a7abd829:
 
     # Haley "So, in any case..."
-    Haley ""
+    Haley "Sa anumang kaso..."
 
 # game/logic/events/haley.rpy:2053
 translate philippine Angels_1_label_02c027ad:
 
     # Haley "Don't worry, the probability that you will meet an angel dreaming of killing you is too low."
-    Haley ""
+    Haley "Huwag kang mag-alala, mababa ang posibilidad na makatagpo ka ng isang anghel na patayin ka."
 
 # game/logic/events/haley.rpy:2054
 translate philippine Angels_1_label_5bb16278:
 
     # Haley "You can trust me with that."
-    Haley ""
+    Haley "Maaari mong pagkatiwalaan ako sa ganyan."
 
 # game/logic/events/haley.rpy:2056
 translate philippine Angels_1_label_63ebde68:
 
     # Haley "Just relax!"
-    Haley ""
+    Haley "Huminga ka lang!"
 
 # game/logic/events/haley.rpy:2058
 translate philippine Angels_1_label_7a8445b3:
@@ -6598,223 +6598,223 @@ translate philippine Angels_1_label_1a300d8f:
 translate philippine Angels_1_label_43613340:
 
     # Haley "{i}(This thing has scared me so much I'm turning gray!){/i}"
-    Haley ""
+    Haley "{i}(Natakot ako sa bagay na ito kaya naging kulay abo ako!){/i}"
 
 # game/logic/events/haley.rpy:2062
 translate philippine Angels_1_label_b93f2ded:
 
     # ch_Name "{i}(Oh, I can read her thoughts now!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, nababasa ko na ang iniisip niya!){/i}"
 
 # game/logic/events/haley.rpy:2063
 translate philippine Angels_1_label_86a9122e:
 
     # ch_Name "{i}(How does it work?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Paano ba ito gumagana?){/i}"
 
 # game/logic/events/haley.rpy:2064
 translate philippine Angels_1_label_6a60dda9:
 
     # Haley "They are really more frightening than I thought."
-    Haley ""
+    Haley "Talagang mas nakakatakot sila kaysa sa inaakala ko."
 
 # game/logic/events/haley.rpy:2066
 translate philippine Angels_1_label_644edefd:
 
     # ch_Name "Ugh, don't worry, one sweetie told me that there is no need to be afraid of angels."
-    ch_Name ""
+    ch_Name "Wag kang mag-alala, sinabi sa akin na hindi mo kailangang matakot sa mga anghel."
 
 # game/logic/events/haley.rpy:2067
 translate philippine Angels_1_label_db6dac54:
 
     # Haley "That's not funny!"
-    Haley ""
+    Haley "Hindi iyon nakakatawa!"
 
 # game/logic/events/haley.rpy:2069
 translate philippine Angels_1_label_49272341:
 
     # Haley "{i}(Ohh, what a shame! What must he think of me now?){/i}"
-    Haley ""
+    Haley "{i}(Naku, nakakahiya! Ano ngayon ang tingin niya sa akin?){/i}"
 
 # game/logic/events/haley.rpy:2070
 translate philippine Angels_1_label_16ddc44f:
 
     # Haley "{i}(He is just laughing at me!){/i}"
-    Haley ""
+    Haley "{i}(Tinatawanan niya lang ako!){/i}"
 
 # game/logic/events/haley.rpy:2071
 translate philippine Angels_1_label_5328e6e9:
 
     # Haley "You're such a dummy!"
-    Haley ""
+    Haley "Bobo ka talaga!"
 
 # game/logic/events/haley.rpy:2073
 translate philippine Angels_1_label_f0f06957:
 
     # ch_Name "Why are you smiling then?"
-    ch_Name ""
+    ch_Name "At bakit ka nakangiti?"
 
 # game/logic/events/haley.rpy:2074
 translate philippine Angels_1_label_7155bbea:
 
     # Haley "I'm not smiling!"
-    Haley ""
+    Haley "Hindi ako ngumingiti!"
 
 # game/logic/events/haley.rpy:2075
 translate philippine Angels_1_label_84a7399a:
 
     # ch_Name "Yes, you just raised the corner of your lips."
-    ch_Name ""
+    ch_Name "Oo, tinaas mo lang ang sulok ng labi mo."
 
 # game/logic/events/haley.rpy:2076
 translate philippine Angels_1_label_10b23bbe:
 
     # ch_Name "Does that sound better?"
-    ch_Name ""
+    ch_Name "Mas maganda ba iyon?"
 
 # game/logic/events/haley.rpy:2078
 translate philippine Angels_1_label_e4c34fa0:
 
     # Haley "[Name], you are unbelievable!"
-    Haley ""
+    Haley "[Name], hindi ka makapaniwala!"
 
 # game/logic/events/haley.rpy:2079
 translate philippine Angels_1_label_960516a9:
 
     # Haley "{i}(But I won't argue that you're such a cutie when you are that perky.){/i}"
-    Haley ""
+    Haley "{i}(Pero papayag ako na maganda ka kapag ganyan ka kasigla.){/i}"
 
 # game/logic/events/haley.rpy:2080
 translate philippine Angels_1_label_bddd05f6:
 
     # ch_Name "{i}(Her thoughts! I can do it again!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ang iniisip niya! Kaya ko ulit!){/i}"
 
 # game/logic/events/haley.rpy:2081
 translate philippine Angels_1_label_7379ec6b:
 
     # ch_Name "{i}(Maybe her emotions help me to read her mind?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Siguro nakatulong ang emosyon niya sa pagbabasa ng isip niya?){/i}"
 
 # game/logic/events/haley.rpy:2082
 translate philippine Angels_1_label_7d48801a:
 
     # ch_Name "{i}(That's make sense!){/i}"
-    ch_Name ""
+    ch_Name ""{i}('Yan ang akma!){/i}"
 
 # game/logic/events/haley.rpy:2085
 translate philippine Angels_1_label_48badadf:
 
     # Haley "Well, that was a lovely walk, but I have to head back to get ready for class."
-    Haley ""
+    Haley "Ang ganda ng lakad nito, ngunit kailangan ko nang bumalik upang maghanda para sa klase."
 
 # game/logic/events/haley.rpy:2086
 translate philippine Angels_1_label_c7233f41:
 
     # Haley "Victoria's lesson is going to start soon."
-    Haley ""
+    Haley "Magsisimula na ang klase ni Victoria."
 
 # game/logic/events/haley.rpy:2087
 translate philippine Angels_1_label_d578419d:
 
     # ch_Name "I get it, I have something to do before the lesson too."
-    ch_Name ""
+    ch_Name "Naiintindihan ko, may gagawin din ako bago ang klase."
 
 # game/logic/events/haley.rpy:2089
 translate philippine Angels_1_label_9a78c0f9:
 
     # Haley "Will you walk me to the class?"
-    Haley ""
+    Haley "Ihahatid mo ba ako sa klase?"
 
 # game/logic/events/haley.rpy:2090
 translate philippine Angels_1_label_8ec64925:
 
     # ch_Name "Don't mind if I do."
-    ch_Name ""
+    ch_Name "Walang problema."
 
 # game/logic/events/haley.rpy:2093
 translate philippine Angels_1_label_854a567f:
 
     # Haley "Oh, the lesson is going to begin in 5 minutes. We need to hurry!"
-    Haley ""
+    Haley "Magsisimula na ang klase sa limang minuto. Kailangan na nating magmadali!"
 
 # game/logic/events/haley.rpy:2095
 translate philippine Angels_1_label_a17c3abc:
 
     # ch_Name "I think I will attend the class later. "
-    ch_Name ""
+    ch_Name "Sa tingin ko papasok ako sa klase mamaya."
 
 # game/logic/events/haley.rpy:2096
 translate philippine Angels_1_label_d3e39368:
 
     # ch_Name "I really want to wander around the garden."
-    ch_Name ""
+    ch_Name "Gusto ko talagang gumala sa garden."
 
 # game/logic/events/haley.rpy:2097
 translate philippine Angels_1_label_b4fca11f:
 
     # Haley "Just blink carefully."
-    Haley ""
+    Haley "Mag-ingat sa pagpikit."
 
 # game/logic/events/haley.rpy:2098
 translate philippine Angels_1_label_54497798:
 
     # ch_Name "Ha-ha-ha, thanks!"
-    ch_Name ""
+    ch_Name  "Ha-ha-ha, salamat!"
 
 # game/logic/events/haley.rpy:2100
 translate philippine Angels_1_label_fd2c8e41:
 
     # Haley "See ya!"
-    Haley ""
+    Haley ""Hanggang sa ulit!"
 
 # game/logic/events/haley.rpy:2101
 translate philippine Angels_1_label_0d4bb549:
 
     # Haley "Bye-bye!"
-    Haley ""
+    Haley "Paalam!"
 
 # game/logic/events/haley.rpy:2103
 translate philippine Angels_1_label_f86e87aa:
 
     # ch_Name "{i}(I'll have to remember this place!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kailangan kong tandaan ang lugar na ito!){/i}"
 
 # game/logic/events/haley.rpy:2104
 translate philippine Angels_1_label_ad1a153c:
 
     # ch_Name "{i}(Such a great opportunity to play a prank on somebody!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Napakagandang pagkakataon na makipaglaro sa isang tao!){/i}"
 
 # game/logic/events/haley.rpy:2112
 translate philippine Haley_14_label_3183dfd4:
 
     # ch_Name "{i}(Still can't believe I've found a new species.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi pa rin makapaniwalang nakahanap ako ng bagong species.){/i}"
 
 # game/logic/events/haley.rpy:2113
 translate philippine Haley_14_label_94e8cb69:
 
     # ch_Name "{i}(I knew that I'm lucky today.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Alam kong swerte ako ngayon.){/i}"
 
 # game/logic/events/haley.rpy:2114
 translate philippine Haley_14_label_ea729741:
 
     # ch_Name "{i}(Let's see if Haley has cracked to mystery of getting into the secret room.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tingnan natin kung nabasag na ni Haley ang misteryo ng pagpasok sa sekretong silid.){/i}"
 
 # game/logic/events/haley.rpy:2115
 translate philippine Haley_14_label_52f0b6e5:
 
     # ch_Name "{i}(With my fortune, we can get away with anything.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sa aking kapalaran, makakatakas kami sa kahit ano.){/i}"
 
 # game/logic/events/haley.rpy:2116
 translate philippine Haley_14_label_5c6e7d31:
 
     # ch_Name "{i}(Even with breaking into the secret library archives!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kahit sa pagpasok sa mga sekretong archive!){/i}"
 
 # game/logic/events/haley.rpy:2119
 translate philippine Haley_14_label_0f566738:
@@ -6826,7 +6826,7 @@ translate philippine Haley_14_label_0f566738:
 translate philippine Haley_14_label_f003adec:
 
     # ch_Name "How is it going?"
-    ch_Name ""
+    ch_Name "Kamusta ka?"
 
 # game/logic/events/haley.rpy:2121
 translate philippine Haley_14_label_bba7bb14:
@@ -6838,91 +6838,91 @@ translate philippine Haley_14_label_bba7bb14:
 translate philippine Haley_14_label_b6872938:
 
     # Haley "I was just coming to find you."
-    Haley ""
+    Haley "Hahanapin na sana kita."
 
 # game/logic/events/haley.rpy:2124
 translate philippine Haley_14_label_a41b6216:
 
     # ch_Name "Got anything?"
-    ch_Name ""
+    ch_Name "May nalaman ka ba?"
 
 # game/logic/events/haley.rpy:2125
 translate philippine Haley_14_label_75f19a7b:
 
     # Haley "It seems so! I think I know how to get into the hidden room."
-    Haley ""
+    Haley "Mukhang ganun! Parang alam ko na kung paano makapasok sa nakatagong silid."
 
 # game/logic/events/haley.rpy:2126
 translate philippine Haley_14_label_ffbed7ef:
 
     # ch_Name "Are you serious? "
-    ch_Name ""
+    ch_Name "Seryoso ka?"
 
 # game/logic/events/haley.rpy:2128
 translate philippine Haley_14_label_e63107c0:
 
     # Haley "Absolutely."
-    Haley ""
+    Haley "Siyempre."
 
 # game/logic/events/haley.rpy:2129
 translate philippine Haley_14_label_0a146317:
 
     # ch_Name "Let's go to the library tonight then!"
-    ch_Name ""
+    ch_Name "Punta tayo sa aklatan mamayang gabi!"
 
 # game/logic/events/haley.rpy:2130
 translate philippine Haley_14_label_73577dd0:
 
     # Haley "But we should wait till Amelie's gone first."
-    Haley ""
+    Haley "Pero maghintay muna tayo hanggang wala na si Amelie."
 
 # game/logic/events/haley.rpy:2131
 translate philippine Haley_14_label_055aedf6:
 
     # ch_Name "I don't think that it's too challenging."
-    ch_Name ""
+    ch_Name "Hindi ko iniisip na ito ay mahirap."
 
 # game/logic/events/haley.rpy:2132
 translate philippine Haley_14_label_715dd1c6:
 
     # ch_Name "She doesn't seem to sit there all day long."
-    ch_Name ""
+    ch_Name "Mukhang hindi siya nakaupo doon buong araw."
 
 # game/logic/events/haley.rpy:2134
 translate philippine Haley_14_label_08f4f04a:
 
     # Haley "I wouldn't be so sure."
-    Haley ""
+    Haley "Hindi ako sigurado."
 
 # game/logic/events/haley.rpy:2135
 translate philippine Haley_14_label_86038cd9:
 
     # Haley "All right, I need to go."
-    Haley ""
+    Haley "Sige, kailangan ko nang umalis."
 
 # game/logic/events/haley.rpy:2136
 translate philippine Haley_14_label_770b4ff3:
 
     # Haley "I promised to help Lily with a spell."
-    Haley ""
+    Haley "Nangako ako na tutulungan ko si Lily."
 
 # game/logic/events/haley.rpy:2137
 translate philippine Haley_14_label_cb98e895:
 
     # ch_Name "Okay."
-    ch_Name ""
+    ch_Name "Sige."
 
 # game/logic/events/haley.rpy:2138
 translate philippine Haley_14_label_46bf4d1b:
 
     # ch_Name "That let's meet near the Library right after that."
-    ch_Name ""
+    ch_Name "Magkita tayo malapit sa Aklatan pagkatapos nito."
 
 # game/logic/events/haley.rpy:2140
 translate philippine Haley_14_label_e7386e29:
 
     # Haley "Great!"
-    Haley ""
+    Haley "Ayos!"
 
 # game/logic/events/haley.rpy:2141
 translate philippine Haley_14_label_960956ac:
@@ -6934,109 +6934,109 @@ translate philippine Haley_14_label_960956ac:
 translate philippine Haley_14_label_8e87e1c0:
 
     # Haley "Yes?"
-    Haley ""
+    Haley "Ano?"
 
 # game/logic/events/haley.rpy:2143
 translate philippine Haley_14_label_5278948d:
 
     # ch_Name "Just want to say that you're looking beautiful today!"
-    ch_Name ""
+    ch_Name "Gusto ko lang sabihin na ang ganda mo ngayon!"
 
 # game/logic/events/haley.rpy:2145
 translate philippine Haley_14_label_d89dfafc:
 
     # Haley "Oww, thanks!"
-    Haley ""
+    Haley "Aww, salamat!"
 
 # game/logic/events/haley.rpy:2146
 translate philippine Haley_14_label_df1bdeac:
 
     # Haley "It's doubly satisfying to hear that from you."
-    Haley ""
+    Haley "Dobleng kasiya-siya na marinig 'yun mula sa iyo."
 
 # game/logic/events/haley.rpy:2147
 translate philippine Haley_14_label_d993430b:
 
     # ch_Name "See ya!"
-    ch_Name ""
+    ch_Name "Paalam!"
 
 # game/logic/events/haley.rpy:2154
 translate philippine Haley_14_label_00281189:
 
     # Haley "Here you are!"
-    Haley ""
+    Haley "Nandito ka!"
 
 # game/logic/events/haley.rpy:2155
 translate philippine Haley_14_label_964e8c8b:
 
     # Haley "Whoa, what do you need this book for?"
-    Haley ""
+    Haley "Bakit kailangan mo ang librong ito?"
 
 # game/logic/events/haley.rpy:2156
 translate philippine Haley_14_label_ba619d6f:
 
     # ch_Name "You gave me it in the library."
-    ch_Name ""
+    ch_Name "Binigay mo sa akin sa aklatan."
 
 # game/logic/events/haley.rpy:2157
 translate philippine Haley_14_label_e1b63fe9:
 
     # ch_Name "Don't you remember?"
-    ch_Name ""
+    ch_Name "Hindi mo ba naaalala?"
 
 # game/logic/events/haley.rpy:2158
 translate philippine Haley_14_label_e74a413d:
 
     # ch_Name "It's very exciting by the way."
-    ch_Name ""
+    ch_Name "Sobrang nakabibigla pala."
 
 # game/logic/events/haley.rpy:2160
 translate philippine Haley_14_label_b891804b:
 
     # ch_Name "I'm just trying to read more these days."
-    ch_Name ""
+    ch_Name Sinusubukan ko lang magbasa nang higit pa ngayon."
 
 # game/logic/events/haley.rpy:2161
 translate philippine Haley_14_label_a4503d5f:
 
     # Haley "You surprise me sometimes, [Name]."
-    Haley ""
+    Haley "Minsan nagugulat ako sa iyo, [Name]."
 
 # game/logic/events/haley.rpy:2162
 translate philippine Haley_14_label_976c7afe:
 
     # Haley "I just have the feeling that we'll get lucky today."
-    Haley ""
+    Haley "Sa tingin ko, swertehin tayo ngayon."
 
 # game/logic/events/haley.rpy:2163
 translate philippine Haley_14_label_f730d5e6:
 
     # ch_Name "I like your energy!"
-    ch_Name ""
+    ch_Name "Nais ko ang iyong sigla!"
 
 # game/logic/events/haley.rpy:2165
 translate philippine Haley_14_label_c6803d96:
 
     # ch_Name "All right."
-    ch_Name ""
+    ch_Name "Sige."
 
 # game/logic/events/haley.rpy:2166
 translate philippine Haley_14_label_27c4eb88:
 
     # ch_Name "Let's go?"
-    ch_Name ""
+    ch_Name "Tara?"
 
 # game/logic/events/haley.rpy:2167
 translate philippine Haley_14_label_0f3a96fc:
 
     # Haley "Yesss!"
-    Haley ""
+    Haley "Oo!"
 
 # game/logic/events/haley.rpy:2168
 translate philippine Haley_14_label_c83e6b48:
 
     # Haley "Onwards! To adventure!"
-    Haley ""
+    Haley "Sulong! Sa pakikipagsapalaran!"
 
 # game/logic/events/haley.rpy:2175
 translate philippine Haley_14_label_bbaaeb69:
