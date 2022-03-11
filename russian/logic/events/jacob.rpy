@@ -1503,11 +1503,10 @@ translate russian strings:
 translate russian Samantha_3_label_43_6349d9c3:
 
     # ch_Name "{i}(Oh... I have her lesson in the schedule.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Оу... У меня есть её занятие в расписании.){/i}"
 
 translate russian strings:
 
     # game/logic/events/jacob.rpy:15
     old "Tell him you have the seal"
-    new ""
-
+    new "Сказать ему, что у меня есть печать"
