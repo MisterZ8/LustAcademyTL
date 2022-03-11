@@ -52,7 +52,7 @@ translate russian sheet_21_3186aac9:
 translate russian sheet_21_5fa1cd32:
 
     # Victoria "Oh, the \"Meek Dame\"?"
-    Victoria "О, \"Meek Dame\"?"
+    Victoria "А, \"Смиренная Дама\"?"
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:22
 translate russian sheet_21_c245a14f:
@@ -190,13 +190,13 @@ translate russian sheet_21_3f9b6ae0:
 translate russian sheet_21_9f9b683d:
 
     # ch_Name "{i}(Look out, Victoria! Here I go!){/i}"
-    ch_Name "{i}(Берегись, Victoria! Я иду!){/i}"
+    ch_Name "{i}(Берегитесь, Виктория! Я иду!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:69
 translate russian sheet_21_547f9c67:
 
     # ch_Name "{i}(Oh! Is that Haley?){/i}"
-    ch_Name "{i}(О! Это Haley?){/i}"
+    ch_Name "{i}(О! Это Хейли?){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:71
 translate russian sheet_21_6c4dcf45:
@@ -268,7 +268,7 @@ translate russian sheet_21_dd93d73d:
 translate russian sheet_21_dd62ca3a:
 
     # ch_Name "They will erase your memory of magic and Cordale."
-    ch_Name "Они сотрут твою память о магии и о Cordale"
+    ch_Name "Они сотрут твою память о магии и о Кордейле."
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:95
 translate russian sheet_21_794a6d34:
@@ -322,7 +322,7 @@ translate russian sheet_21_6fd0ca70:
 translate russian sheet_21_8e69aad2:
 
     # ch_Name "Calm down Haley! I'm sure you will pass the exam."
-    ch_Name "Успокойся, Haley! Я уверен, что ты сдашь экзамен."
+    ch_Name "Успокойся, Хейли! Я уверен, что ты сдашь экзамен."
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:116
 translate russian sheet_21_047d6478:
@@ -364,7 +364,7 @@ translate russian sheet_21_280b3bfc:
 translate russian sheet_21_549f5aa8:
 
     # ch_Name "Haley, calm down. "
-    ch_Name "Haley, успокойся."
+    ch_Name "Хейли, успокойся."
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:143
 translate russian sheet_21_96523274:
@@ -388,7 +388,7 @@ translate russian sheet_21_98b1e84e:
 translate russian sheet_21_b14a12ef:
 
     # ch_Name "Haley!"
-    ch_Name "Haley!"
+    ch_Name "Хейли!"
 
 # game/logic/episodes_after_first/ep2/sheet_21.rpy:151
 translate russian sheet_21_7222c349:
@@ -530,9 +530,8 @@ translate russian strings:
 
     # game/logic/episodes_after_first/ep2/sheet_21.rpy:110
     old "Leave Haley to cry"
-    new "Позволить Haley плакать"
+    new "Позволить Хейли поплакать"
 
     # game/logic/episodes_after_first/ep2/sheet_21.rpy:110
     old "Hug Haley"
-    new "Обнять Haley"
-
+    new "Обнять Хейли"
