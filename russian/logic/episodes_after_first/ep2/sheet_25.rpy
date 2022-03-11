@@ -22,7 +22,7 @@ translate russian sheet_25_eb77bdf3:
 translate russian sheet_25_c19f4983:
 
     # Haley "Let's go to the Main Hall to get better seats."
-    Haley "Пойдем в the Main Hall, чтобы занять места получше."
+    Haley "Пойдем в the главный зал, чтобы занять места получше."
 
 # game/logic/episodes_after_first/ep2/sheet_25.rpy:16
 translate russian sheet_25_c55e5d25:
@@ -64,7 +64,7 @@ translate russian sheet_25_e72da4b9:
 translate russian sheet_25_0ef3fb14:
 
     # Haley "We'd better go to the main hall and get seats."
-    Haley "Лучше пойдём в the Main Hall и займем места получше."
+    Haley "Лучше пойдём в the главный зал и займем места получше."
 
 # game/logic/episodes_after_first/ep2/sheet_25.rpy:32
 translate russian sheet_25_f95373fd:
@@ -77,4 +77,3 @@ translate russian sheet_25_05f62152_1:
 
     # ch_Name "Cool. Let's go!"
     ch_Name "Здорово. Идем!"
-
