@@ -4,7 +4,7 @@
 translate russian sheet_22_a079cf9e:
 
     # UnknownLily "How can you dream of getting into Leonheart? They're losers!"
-    UnknownLily "Как ты можешь мечтать о том, чтобы попасть в Leonheart? Они же неудачники!"
+    UnknownLily "Как ты можешь мечтать о том, чтобы попасть в Леонхарт? Они же неудачники!"
 
 # game/logic/episodes_after_first/ep2/sheet_22.rpy:30
 translate russian sheet_22_ec2074d8:
@@ -16,7 +16,7 @@ translate russian sheet_22_ec2074d8:
 translate russian sheet_22_511913e7:
 
     # UnknownLily "These are not fairy tales, but life, Lily!"
-    UnknownLily "Это не сказки, а жизнь, Lily!"
+    UnknownLily "Это не сказки, а жизнь, Лили!"
 
 # game/logic/episodes_after_first/ep2/sheet_22.rpy:34
 translate russian sheet_22_b668211d:
@@ -58,19 +58,19 @@ translate russian sheet_22_574e4c84:
 translate russian sheet_22_c585ef12:
 
     # Lily "We're arguing about houses. Which one is better?"
-    Lily "Мы спорим о домах. Какой из них лучше?"
+    Lily "Мы спорим о факультетах. Какой из них лучше?"
 
 # game/logic/episodes_after_first/ep2/sheet_22.rpy:48
 translate russian sheet_22_287369d4:
 
     # Lily "I think that there's nothing better than getting into Leonheart."
-    Lily "Я думаю, что нет ничего лучше, чем попасть в Leonheart."
+    Lily "Я думаю, что нет ничего лучше, чем попасть в Леонхарт."
 
 # game/logic/episodes_after_first/ep2/sheet_22.rpy:50
 translate russian sheet_22_5c092d3e:
 
     # UnknownNaomi "And I believe that Adderin is a cut above any other!"
-    UnknownNaomi "А я верю, что Adderin на голову выше любого другого!"
+    UnknownNaomi "А я верю, что Аддерин на голову выше любого другого!"
 
 # game/logic/episodes_after_first/ep2/sheet_22.rpy:52
 translate russian sheet_22_36891d48:
@@ -88,19 +88,19 @@ translate russian sheet_22_3f835f72:
 translate russian sheet_22_0ffd8133:
 
     # ch_Name "Who are you anyway? What are these \"houses\"?"
-    ch_Name "Вы кто вообще? Что это за \"дома\"?"
+    ch_Name "Вы кто вообще? Что это за \"факультеты\"?"
 
 # game/logic/episodes_after_first/ep2/sheet_22.rpy:58
 translate russian sheet_22_ef9e1c7f:
 
     # Lily "Sorry, we seem to get too caught up in the argument. My name is Lily."
-    Lily "Извини, дискуссия слишком нас увлекла. Меня зовут Lily."
+    Lily "Извини, дискуссия слишком нас увлекла. Меня зовут Лили."
 
 # game/logic/episodes_after_first/ep2/sheet_22.rpy:60
 translate russian sheet_22_34d568c0:
 
     # UnknownNaomi "And I'm Naomi. What's your name?"
-    UnknownNaomi "А я Naomi. Как тебя зовут?"
+    UnknownNaomi "А я Наоми. Как тебя зовут?"
 
 # game/logic/episodes_after_first/ep2/sheet_22.rpy:62
 translate russian sheet_22_20feef56:
@@ -118,13 +118,13 @@ translate russian sheet_22_8a28f8d1:
 translate russian sheet_22_8be12f05:
 
     # Naomi "We were discussing the houses we want to enter and argued a lot."
-    Naomi "Мы обсуждали дома, в которые хотим войти и много спорили."
+    Naomi "Мы обсуждали факультеты, на которые хотим попасть, и много спорили."
 
 # game/logic/episodes_after_first/ep2/sheet_22.rpy:68
 translate russian sheet_22_49111a81:
 
     # ch_Name "No problem. So what houses are we talking about?"
-    ch_Name "Нет проблем. Так что это за дома, о которых вы говорите?"
+    ch_Name "Нет проблем. Так что это за факультеты, о которых вы говорите?"
 
 # game/logic/episodes_after_first/ep2/sheet_22.rpy:70
 translate russian sheet_22_4fdc0f5a:
@@ -136,7 +136,7 @@ translate russian sheet_22_4fdc0f5a:
 translate russian sheet_22_ac713c0f:
 
     # Lily "You are probably not one of the hereditary magicians, right?"
-    Lily "Ты вероятно не из потомственных магов, не так ли?"
+    Lily "Ты, вероятно, не из потомственных магов, не так ли?"
 
 # game/logic/episodes_after_first/ep2/sheet_22.rpy:74
 translate russian sheet_22_5082fdf7:
@@ -226,7 +226,7 @@ translate russian sheet_22_56acb7a7:
 translate russian sheet_22_cf2b17a5:
 
     # Naomi "House selection is the most important thing in Cordale! You choose your future connection..."
-    Naomi "Выбор дома это самая важная вещь в Cordale! Ты выбираешь свои будущие связи..."
+    Naomi "Выбор дома это самая важная вещь в Кордейле! Ты выбираешь свои будущие связи..."
 
 # game/logic/episodes_after_first/ep2/sheet_22.rpy:104
 translate russian sheet_22_aed3dbfe:
@@ -256,7 +256,7 @@ translate russian sheet_22_b15aa207:
 translate russian sheet_22_1ae8398c:
 
     # Lily "What are you talking about? What could be more important than the house?!"
-    Lily "О чем ты? Что может быть важнее дома?"
+    Lily "О чем ты? Что может быть важнее факультета?"
 
 # game/logic/episodes_after_first/ep2/sheet_22.rpy:114
 translate russian sheet_22_f1297bf1:
@@ -268,7 +268,7 @@ translate russian sheet_22_f1297bf1:
 translate russian sheet_22_e93ec53a:
 
     # ch_Name "How do you plan to get into the house if you don't get to go to the academy?"
-    ch_Name "Как вы собираетесь попасть в дом, если вас не примут в академию?"
+    ch_Name "Как вы собираетесь попасть на факультет, если вас не примут в академию?"
 
 # game/logic/episodes_after_first/ep2/sheet_22.rpy:118
 translate russian sheet_22_c76fafe9:
@@ -310,7 +310,7 @@ translate russian sheet_22_f874b1e2:
 translate russian sheet_22_04a5e019:
 
     # Naomi "So the house is what's most important!"
-    Naomi "Так что дом это то, что важнее всего!"
+    Naomi "Так что факультет реально важнее всего!"
 
 # game/logic/episodes_after_first/ep2/sheet_22.rpy:132
 translate russian sheet_22_4aed824a:
@@ -322,7 +322,7 @@ translate russian sheet_22_4aed824a:
 translate russian sheet_22_985f9fe4:
 
     # "Victoria" "Next!"
-    "Victoria" "Следующий!"
+    Victoria "Следующий!"
 
 # game/logic/episodes_after_first/ep2/sheet_22.rpy:137
 translate russian sheet_22_15ac0dc3:
@@ -346,7 +346,7 @@ translate russian sheet_22_ba5fd71e:
 translate russian sheet_22_23cee371:
 
     # UnknownGirl_4 "Hey, who was after Haley?"
-    UnknownGirl_4 "Эй, кто был после Haley?"
+    UnknownGirl_4 "Эй, кто был после Хейли?"
 
 # game/logic/episodes_after_first/ep2/sheet_22.rpy:146
 translate russian sheet_22_1e642b8f:
@@ -389,4 +389,3 @@ translate russian sheet_22_35299b82:
 
     # ch_Name "{i}(Come on, [Name]! Let's not make it our last one!){/i}"
     ch_Name "{i}(Давай, [Name]! Пусть он будет не последним!){/i}"
-
