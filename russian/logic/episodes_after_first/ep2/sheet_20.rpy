@@ -4,7 +4,7 @@
 translate russian sheet_20_a45e0d62:
 
     # Jacob "Welcome to the Cordale Academy of Magic and Wizardry!"
-    Jacob "Добро пожаловать в Академию Магии и Волшебства Cordale!"
+    Jacob "Добро пожаловать в Академию Магии и Волшебства Кордейл!"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:5
 translate russian sheet_20_c3b06147:
@@ -70,7 +70,7 @@ translate russian sheet_20_e7afd585:
 translate russian sheet_20_12cd647e:
 
     # Jacob "Oh, Miss Lapis!"
-    Jacob "О, мисс Ляпис!"
+    Jacob "О, мисс Лапис!"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:48
 translate russian sheet_20_660478ae:
@@ -196,7 +196,7 @@ translate russian sheet_20_9f87f016:
 translate russian sheet_20_b120c1eb:
 
     # Victoria "My name is Victoria Lapis. I am a teacher of battle magic and your examiner."
-    Victoria "Меня зовут Виктория Ляпис. Я учитель боевой магии и ваш экзаменатор."
+    Victoria "Меня зовут Виктория Лапис. Я учитель боевой магии и ваш экзаменатор."
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:84
 translate russian sheet_20_3d821629:
@@ -382,7 +382,7 @@ translate russian sheet_20_menu_1_ans_1_f5631da6:
 translate russian sheet_20_menu_1_ans_1_b0a387f2:
 
     # Victoria "Cordale is the oldest and most prestigious academy for magic and wizardry in New World."
-    Victoria "Cordale — старейшая и самая престижная академия магии и волшебства в Новом Свете."
+    Victoria "Кордейл — старейшая и самая престижная академия магии и волшебства в Новом Свете."
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:177
 translate russian sheet_20_menu_1_ans_1_2fadfefb:
@@ -448,13 +448,13 @@ translate russian sheet_20_menu_1_ans_1_fad50879:
 translate russian sheet_20_menu_1_ans_1_015e227f:
 
     # Victoria "All your friends and family know that you are going to the Cordale!"
-    Victoria "Все ваши друзья и родственники знают, что вы едете в Cordale!"
+    Victoria "Все ваши друзья и родственники знают, что вы едете в Кордейл!"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:199
 translate russian sheet_20_menu_1_ans_1_947a6409:
 
     # Victoria "An elite Ivy League-level educational institution. "
-    Victoria "Элитное учебное заведение уровня Лиги плюща."
+    Victoria "Элитное учебное заведение уровня Лиги Плюща."
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:201
 translate russian sheet_20_menu_1_ans_1_f1ef320b:
@@ -472,19 +472,19 @@ translate russian sheet_20_menu_1_ans_1_988ac9dc:
 translate russian sheet_20_menu_1_ans_1_b78a347c:
 
     # ch_Name "{i}(I am 99%% sure Don and Olivia know what's going on...){/i}"
-    ch_Name "{i}(Я на 99%% уверен, что Don и Olivia знают, что происходит...){/i}"
+    ch_Name "{i}(Я на 99%% уверен, что Дон и Оливия знают, что происходит...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:207
 translate russian sheet_20_menu_1_ans_1_cb2df23a:
 
     # ch_Name "{i}(Either your PR department is under-performing, or Sam told them...){/i}"
-    ch_Name "{i}(Либо ваш отдел по связям с общественностью плохо работает, либо Sam сказал им...){/i}"
+    ch_Name "{i}(Либо ваш отдел по связям с общественностью плохо работает, либо Сэм сказал им...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:209
 translate russian sheet_20_menu_1_ans_1_78ec54ec:
 
     # ch_Name "{i}(Next time I meet Samantha we should discuss this.){/i}"
-    ch_Name "{i}(В следующий раз, когда я встречусь с Samantha, мы должны обсудить это.){/i}"
+    ch_Name "{i}(В следующий раз, когда я встречусь с Самантой, мы должны обсудить это.){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:211
 translate russian sheet_20_menu_1_ans_1_ce79aeac:
@@ -562,13 +562,13 @@ translate russian sheet_20_menu_1_ans_3_358d392c:
 translate russian sheet_20_menu_1_ans_3_3e0ec3bc:
 
     # ch_Name "[Name]. "
-    ch_Name ""
+    ch_Name "[Name]."
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:243
 translate russian sheet_20_menu_1_ans_3_86f33a71:
 
     # ch_Name "[Name] [Surname]."
-    ch_Name ""
+    ch_Name "[Name] [Surname]."
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:245
 translate russian sheet_20_menu_1_ans_3_bc467059:
@@ -652,7 +652,7 @@ translate russian sheet_20_menu_2_ans_2_81ac9b71:
 translate russian sheet_20_menu_2_ans_2_2e004337:
 
     # Victoria "Let's hope that this is not your only talent if you want to pass my exam."
-    Victoria "Будем надеяться, что это не единственный твой талант, если ты хочешь сдать мой экзамен."
+    Victoria "Будем надеяться, что это не единственный твой талант, если вы хотите сдать мой экзамен."
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:288
 translate russian sheet_20_menu_2_ans_2_2ed2b56c:
@@ -705,4 +705,3 @@ translate russian strings:
     # game/logic/episodes_after_first/ep2/sheet_20.rpy:264
     old "Give a witty answer"
     new "Дать остроумный ответ"
-
