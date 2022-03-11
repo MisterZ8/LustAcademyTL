@@ -214,7 +214,7 @@ translate russian sheet_19_2f18b7c3:
 translate russian sheet_19_cfa2cac9:
 
     # Jacob "And the best is the only kind you can get here, at Cordale."
-    Jacob "А лучшые — единственные, которых можно найти здесь, в Cordale."
+    Jacob "А лучшые — единственные, которых можно найти здесь, в Кордейле."
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:93
 translate russian sheet_19_bfbf68e6:
@@ -347,4 +347,3 @@ translate russian sheet_19_f881e1a2:
 
     # Jacob "Everyone, please follow me."
     Jacob "Все, пожалуйста, проследуйте за мной."
-
