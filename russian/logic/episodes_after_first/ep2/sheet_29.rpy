@@ -16,7 +16,7 @@ translate russian sheet_29_027b1c56:
 translate russian sheet_29_86a18230:
 
     # ch_Name "For the Leonheart!"
-    ch_Name "За Leonheart!"
+    ch_Name "За Леонхарт!"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:11
 translate russian sheet_29_103d1121:
@@ -28,13 +28,13 @@ translate russian sheet_29_103d1121:
 translate russian sheet_29_f1735f91:
 
     # Victoria "You have completed the ritual, mister [Surname]."
-    Victoria ""
+    Victoria "Вы прошли церемонию, мистер [Surname]."
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:15
 translate russian sheet_29_fdbaa01d:
 
     # Victoria "So Leonheart? "
-    Victoria "Значит, Leonheart? "
+    Victoria "Значит, Леонхарт? "
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:16
 translate russian sheet_29_ef47707a:
@@ -52,13 +52,13 @@ translate russian sheet_29_a4e5a398:
 translate russian sheet_29_e0d6d212:
 
     # Victoria "Please, head back to the Inner Garden."
-    Victoria "Вернись, пожалуйста, в Inner Garden."
+    Victoria "Пройдите, пожалуйста, во внутренний двор."
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:22
 translate russian sheet_29_688103df:
 
     # Victoria "The head of your house will meet you near the fountain. "
-    Victoria "Глава твоего дома встретит тебя у фонтана."
+    Victoria "Глава вашего факультета встретит вас у фонтана."
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:24
 translate russian sheet_29_3a2b4da9:
@@ -76,7 +76,7 @@ translate russian sheet_29_b28259d5:
 translate russian sheet_29_af0890ec:
 
     # ch_Name "{i}(I’m still filled to brim with Leona’s magical energy...){/i}"
-    ch_Name "{i}(Я все еще до краев наполнен магической энергией Leona’s...){/i}"
+    ch_Name "{i}(Я все еще до краев наполнен магической энергией Леоны...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:33
 translate russian sheet_29_58a78b5c:
@@ -100,7 +100,7 @@ translate russian sheet_29_0d8e944c:
 translate russian sheet_29_9c0c18c4:
 
     # ch_Name "{i}(Is it the guy Victoria was talking about?){/i}"
-    ch_Name "{i}(Это тот парнишка, о котором говорила Victoria?){/i}"
+    ch_Name "{i}(Это тот парнишка, о котором говорила Виктория?){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:41
 translate russian sheet_29_83099d6e:
@@ -118,7 +118,7 @@ translate russian sheet_29_066e0dea:
 translate russian sheet_29_7bcdccdb:
 
     # Elijah "Leonheart freshman?"
-    Elijah "Новичок в Leonheart?"
+    Elijah "Новичок в Леонхарте?"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:47
 translate russian sheet_29_c0342522:
@@ -130,7 +130,7 @@ translate russian sheet_29_c0342522:
 translate russian sheet_29_b33de85c:
 
     # ch_Name "I'm looking for the head of Leonheart House. "
-    ch_Name "Я ищу главу дома Leonheart."
+    ch_Name "Я ищу главу дома Леонхарт."
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:49
 translate russian sheet_29_dcff3ab6:
@@ -148,19 +148,19 @@ translate russian sheet_29_637cd96c:
 translate russian sheet_29_40d07b7c:
 
     # Elijah "My name is Elijah Bloom."
-    Elijah "Меня зовут Elijah Bloom."
+    Elijah "Меня зовут Элайджа Блум."
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:53
 translate russian sheet_29_07516497:
 
     # Elijah "But you can call me El."
-    Elijah "Но можешь звать меня El."
+    Elijah "Но можешь звать меня Эл."
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:54
 translate russian sheet_29_c32aa245:
 
     # Elijah "I am a third year student and the new head of the Leonheart house."
-    Elijah "Я третьекурсник и новый глава дома Leonheart."
+    Elijah "Я третьекурсник и новый староста дома Леонхарт."
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:56
 translate russian sheet_29_7ec2887d:
@@ -190,7 +190,7 @@ translate russian sheet_29_abe087d8:
 translate russian sheet_29_ba376918:
 
     # ch_Name "Where're Haley and Lily?"
-    ch_Name "А где Haley и Lily?"
+    ch_Name "А где Хейли и Лили?"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:62
 translate russian sheet_29_55a5eac3:
@@ -202,7 +202,7 @@ translate russian sheet_29_55a5eac3:
 translate russian sheet_29_b97687c5:
 
     # Elijah "The asian chick felt sick after the ritual..."
-    Elijah "Азиатская цыпочка почувствовала себя нехорошо после ритуала..."
+    Elijah "Азиаточка почувствовала себя нехорошо после ритуала..."
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:64
 translate russian sheet_29_2bbaf6ae:
@@ -226,25 +226,25 @@ translate russian sheet_29_f0809d94:
 translate russian sheet_29_b25e4863:
 
     # Elijah "Glad that Leonheart chose you."
-    Elijah "Я рад, что Leonheart выбрала тебя."
+    Elijah "Я рад, что Леонхарт выбрала тебя."
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:69
 translate russian sheet_29_4c04dba5:
 
     # Elijah "You have no idea how lucky you are, boy!"
-    Elijah "Ты таже не представляешь, как тебе повезло, мальчик!"
+    Elijah "Ты даже не представляешь, как тебе повезло, парень!"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:70
 translate russian sheet_29_113bcef9:
 
     # Elijah "Leonheart has the craziest parties: seas of ​​booze and fairy dust!"
-    Elijah "В Leonheart проводят самые крышесносные вечеринки: море выпивки и волшебной пыльцы!"
+    Elijah "В Леонхарте проводят самые крышесносные вечеринки: море выпивки и волшебной пыльцы!"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:71
 translate russian sheet_29_efd3930c:
 
     # Elijah "Hot chicks who are just waiting to get into your pants and feel your nobility in themselves."
-    Elijah "Горячие цыпочки, только и ждущие момента, чтобы забраться тебе в штаны и почувствовать на себе твое благородство."
+    Elijah "Горячие цыпочки, только и ждущие момента, чтобы забраться тебе в штаны и почувствовать в себе твое благородство."
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:72
 translate russian sheet_29_7a14a198:
@@ -256,7 +256,7 @@ translate russian sheet_29_7a14a198:
 translate russian sheet_29_6172299e:
 
     # Elijah "Wow, first day in Cordale and you are already eager to fight!"
-    Elijah "Воу, первый день в Cordale и ты уже рвешься в бой!"
+    Elijah "Воу, первый день в Кордейле и ты уже рвешься в бой!"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:75
 translate russian sheet_29_f1a8621e:
@@ -316,7 +316,7 @@ translate russian sheet_29_a0044d00:
 translate russian sheet_29_a3e979f4:
 
     # Elijah "As the new head of the Leonheart..."
-    Elijah "И, как новый глава Leonheart..."
+    Elijah "И, как новый староста Леонхарта..."
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:87
 translate russian sheet_29_61aae17c:
@@ -346,7 +346,7 @@ translate russian sheet_29_49a4e4d8:
 translate russian sheet_29_87abec38:
 
     # ch_Name "{i}(Damn...){/i}"
-    ch_Name "{i}(Серт...){/i}"
+    ch_Name "{i}(Чёрт...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:102
 translate russian sheet_29_2c9a3f83:
@@ -406,7 +406,7 @@ translate russian sheet_29_1249d7e7:
 translate russian sheet_29_9b57ba86:
 
     # ch_Name "{i}(Hey! It's Haley!){/i}"
-    ch_Name "{i}(Эй! Это Haley!){/i}"
+    ch_Name "{i}(Эй! Это Хейли!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:115
 translate russian sheet_29_d1dba8a0:
@@ -424,7 +424,7 @@ translate russian sheet_29_215bb5e7:
 translate russian sheet_29_beeca78f:
 
     # ch_Name "You said Lily felt sick? "
-    ch_Name "Ты говорил, Lily нездоровилось?"
+    ch_Name "Ты говорил, Лили нездоровилось?"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:119
 translate russian sheet_29_dbf88577:
@@ -545,4 +545,3 @@ translate russian sheet_29_ecfe9af2:
 
     # Elijah "Follow me."
     Elijah "Идите за мной."
-
