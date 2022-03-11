@@ -196,9 +196,8 @@ translate russian strings:
 
     # game/logic/characters.rpy:32
     old "Faith"
-    new ""
+    new "Фейт"
 
     # game/logic/characters.rpy:51
     old "Dakota"
-    new ""
-
+    new "Дакота"
