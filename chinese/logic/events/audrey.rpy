@@ -17513,7 +17513,7 @@ translate chinese Audrey_12_shemale_c17eb71e:
 translate chinese Audrey_12_shemale_568c04c4:
 
     # ch_Name "I'm not gonna fuck \"that\"."
-    ch_Name "我不会去他妈的"那个"。"
+    ch_Name "我不会去他妈的\"那个\"。"
 
 # game/logic/events/audrey.rpy:4844
 translate chinese Audrey_12_shemale_7e939e9f:
