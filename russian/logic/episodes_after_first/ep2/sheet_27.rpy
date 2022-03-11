@@ -4,7 +4,7 @@
 translate russian sheet_27_a5cb088f:
 
     # Victoria "Now we will commit the eldest tradition of Cordale."
-    Victoria "Сейчас мы совершим наидревнейшую традицию Cordale."
+    Victoria "Сейчас мы совершим наидревнейшую церемонию в Кордейле."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:6
 translate russian sheet_27_ac9396b7:
@@ -16,19 +16,19 @@ translate russian sheet_27_ac9396b7:
 translate russian sheet_27_713a9741:
 
     # Victoria "The oldest artifact of Cordale!"
-    Victoria "Древнейший артефакт Cordale."
+    Victoria "Древнейший артефакт Кордейла."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:10
 translate russian sheet_27_1fba55a7:
 
     # Victoria "This is the Sorting Foliant."
-    Victoria "Это the Sorting Foliant."
+    Victoria "Это the Распределяющая Книга."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:12
 translate russian sheet_27_c3119d82:
 
     # Victoria "It was created by four founders of the academy."
-    Victoria "Он был создан четырьмя основательницами академии."
+    Victoria "Она была создана четырьмя основательницами академии."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:14
 translate russian sheet_27_775062cb:
@@ -52,7 +52,7 @@ translate russian sheet_27_dc31d2f5:
 translate russian sheet_27_15254895:
 
     # Naomi "Define \"parts\", please."
-    Naomi "Уточните \"части\", пожалуйста."
+    Naomi "Поясните про \"части\", пожалуйста."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:23
 translate russian sheet_27_0b4df4c6:
@@ -70,7 +70,7 @@ translate russian sheet_27_6a8a6c64:
 translate russian sheet_27_30157c97:
 
     # Victoria "You'll have this lesson later."
-    Victoria "Этот урок у вас будет позже."
+    Victoria "Урок про это у вас будет позже."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:29
 translate russian sheet_27_e1462c7b:
@@ -106,7 +106,7 @@ translate russian sheet_27_9f6e6ab4:
 translate russian sheet_27_9cf4fe67:
 
     # Victoria "There are four houses named after four founders of Cordale."
-    Victoria "Существует четыре дома, названные в честь четырех основателей Cordale."
+    Victoria "Существует четыре факультета, названные в честь четырех основательниц Кордейла."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:42
 translate russian sheet_27_75e8cb13:
@@ -118,7 +118,7 @@ translate russian sheet_27_75e8cb13:
 translate russian sheet_27_b0ae8dcc:
 
     # Victoria "Leona Leonheart!"
-    Victoria "Leona Leonheart!"
+    Victoria "Леона Леонхарт!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:49
 translate russian sheet_27_a9fcd493:
@@ -136,13 +136,13 @@ translate russian sheet_27_d998822a:
 translate russian sheet_27_f71c8d65:
 
     # Victoria "The house of Leonheart includes people who honor her teachings."
-    Victoria "Дом Leonheart включает людей, которые гордятся своими учениями."
+    Victoria "Дом Леонхарт включает людей, которые уважают её мировоззрение."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:56
 translate russian sheet_27_97fb5337:
 
     # Victoria "Katrina Adderin!"
-    Victoria "Katrina Adderin!"
+    Victoria "Катрина Аддерин!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:57
 translate russian sheet_27_391bc7a8:
@@ -160,37 +160,37 @@ translate russian sheet_27_738cba1a:
 translate russian sheet_27_cf787793:
 
     # Victoria "Those are the basis of the principles of the Adderin house."
-    Victoria "Таковы основные принципы дома Adderin."
+    Victoria "Таковы основные принципы дома Аддерин."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:65
 translate russian sheet_27_50fc92c4:
 
     # Victoria "Frida Crowhive!"
-    Victoria "Frida Crowhive!"
+    Victoria "Фрида Кроухайв!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:66
 translate russian sheet_27_41902f85:
 
     # Victoria "She chose to acquire all knowledge of the nature of magic..."
-    Victoria "Она предпочла приобрести все знания о природе магии..."
+    Victoria "Она предпочла собрать все знания о природе магии..."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:67
 translate russian sheet_27_f3b0cfee:
 
     # Victoria "Forsaking her personal ambitions."
-    Victoria "Отказ от собственных амбиций."
+    Victoria "Отказавшись от собственных амбиций."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:68
 translate russian sheet_27_b9e78c06:
 
     # Victoria "The Crowhive house is for people who are ready to continue her journey."
-    Victoria "Дом Crowhive - для людей, готовых продолжить ее путешествие."
+    Victoria "Дом Кроухайв - для людей, готовых продолжить ее путешествие."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:73
 translate russian sheet_27_6620202f:
 
     # Victoria "Jaina Martenden! "
-    Victoria "Jaina Martenden! "
+    Victoria "Джейна Мартенден! "
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:74
 translate russian sheet_27_08e73e74:
@@ -208,7 +208,7 @@ translate russian sheet_27_b26535d6:
 translate russian sheet_27_846ab114:
 
     # Victoria "Only with these qualities you can get into the Martenden house."
-    Victoria "Только с этими качествами вы можете попасть в дом Martenden."
+    Victoria "Только с этими качествами вы можете попасть в дом Мартенден."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:80
 translate russian sheet_27_678f3dcd:
@@ -232,7 +232,7 @@ translate russian sheet_27_2f7bd18d:
 translate russian sheet_27_552a0b19:
 
     # Victoria "Alright, everything is ready for the ceremony!"
-    Victoria "Ладно, все готово для церемонии."
+    Victoria "Ладно, всё готово для церемонии."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:88
 translate russian sheet_27_7d6b1319:
@@ -250,7 +250,7 @@ translate russian sheet_27_de96592c:
 translate russian sheet_27_d102de02:
 
     # Victoria "And tell us where the book sorted him or her."
-    Victoria "И сообщить нам, куда книга определила его или ее."
+    Victoria "И сообщить нам, куда книга определила его или её."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:94
 translate russian sheet_27_a6c9909b:
@@ -262,7 +262,7 @@ translate russian sheet_27_a6c9909b:
 translate russian sheet_27_1a92f1d0:
 
     # Victoria "Trust me, you'll know."
-    Victoria "Поверь мне, ты узнаешь."
+    Victoria "Поверьте мне, вы узнаете."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:98
 translate russian sheet_27_44c75612:
@@ -280,7 +280,7 @@ translate russian sheet_27_2ba1eae5:
 translate russian sheet_27_92004551:
 
     # Victoria "Naomi Banks!"
-    Victoria "Naomi Banks!"
+    Victoria "Наоми Бэнкс!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:104
 translate russian sheet_27_2f82bef4:
@@ -316,7 +316,7 @@ translate russian sheet_27_d650531e:
 translate russian sheet_27_98565ff7:
 
     # Naomi "Adderin or nothing."
-    Naomi "Adderin или ничего."
+    Naomi "Аддерин или ничего."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:118
 translate russian sheet_27_d4d031d0:
@@ -358,7 +358,7 @@ translate russian sheet_27_f71c3248_1:
 translate russian sheet_27_0d3f3fa8:
 
     # Naomi "Adderin!"
-    Naomi "Adderin!"
+    Naomi "Аддерин!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:129
 translate russian sheet_27_389b346c:
@@ -370,25 +370,25 @@ translate russian sheet_27_389b346c:
 translate russian sheet_27_e7f95bd6:
 
     # Victoria "Those who were sorted - please exit to the Inner Garden."
-    Victoria "Прошедшие сортировку - выходите, пожалуйста, в the Inner Garden."
+    Victoria "Прошедшие сортировку - выходите, пожалуйста, во внутренний дворик."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:133
 translate russian sheet_27_f8cade94:
 
     # Victoria "Your prefects will meet you there."
-    Victoria "Ваши префекты встретят вас там."
+    Victoria "Ваши старосты встретят вас там."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:135
 translate russian sheet_27_3a08ff3d:
 
     # Victoria "Next up... "
-    Victoria "Следующим будет..."
+    Victoria "Дальше выходит..."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:137
 translate russian sheet_27_440bf3d2:
 
     # Victoria "Haley Ranger!"
-    Victoria ""
+    Victoria "Хейли Рейнджер"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:139
 translate russian sheet_27_9007572e:
@@ -412,7 +412,7 @@ translate russian sheet_27_0d9f599a:
 translate russian sheet_27_ad70b619:
 
     # Haley "I'd either be Leonheart or Crowhive."
-    Haley "Пожалуй, я бы хотела быть в Leonheart или Crowhive."
+    Haley "Пожалуй, я бы хотела быть в Леонхарте или Кроухайве."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:147
 translate russian sheet_27_65346e11:
@@ -436,7 +436,7 @@ translate russian sheet_27_f6b2f095:
 translate russian sheet_27_5952edb2:
 
     # ch_Name "{i}(Maybe the book feels such things.){/i}"
-    ch_Name "{i}(Возможно книга чувствует такие вещи.){/i}"
+    ch_Name "{i}(Возможно, книга чувствует такие вещи.){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:155
 translate russian sheet_27_3e70098a:
@@ -490,7 +490,7 @@ translate russian sheet_27_c9560cb2_1:
 translate russian sheet_27_9c3b69ff:
 
     # Haley "I'm Leonheart!{w} Yeah!"
-    Haley "Я Leonheart!{w} Да!"
+    Haley "Я в Леонхарте!{w} Да!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:178
 translate russian sheet_27_389b346c_1:
@@ -508,13 +508,13 @@ translate russian sheet_27_aef6bd95:
 translate russian sheet_27_a1dbb544:
 
     # Victoria "Next is... "
-    Victoria "Следующий..."
+    Victoria "Дальше..."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:184
 translate russian sheet_27_56d368ff:
 
     # Victoria "Lily Aoki!"
-    Victoria ""
+    Victoria "Лили Аоки"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:186
 translate russian sheet_27_4763922b:
@@ -544,7 +544,7 @@ translate russian sheet_27_08c20d15:
 translate russian sheet_27_50e731fc:
 
     # Lily "Leonheart, please!"
-    Lily "Прошу, Leonheart!"
+    Lily "Прошу, Леонхарт!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:199
 translate russian sheet_27_8c0915e8:
@@ -556,7 +556,7 @@ translate russian sheet_27_8c0915e8:
 translate russian sheet_27_f3c3a17c:
 
     # Lily "Please, let it be Leonheart!"
-    Lily "Пожалуйста, пусть это будет Leonheart!"
+    Lily "Пожалуйста, пусть это будет Леонхарт!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:201
 translate russian sheet_27_aedf1fff:
@@ -586,7 +586,7 @@ translate russian sheet_27_08c20d15_2:
 translate russian sheet_27_ac2c897f:
 
     # Lily "L-leonheart! "
-    Lily ""
+    Lily "Л-Леонхарт"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:212
 translate russian sheet_27_389b346c_2:
@@ -604,7 +604,7 @@ translate russian sheet_27_e5bbbdee:
 translate russian sheet_27_8661ed23:
 
     # Victoria "[Name] [Surname]!"
-    Victoria ""
+    Victoria "[Name] [Surmane]!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:218
 translate russian sheet_27_510c73a2:
@@ -622,43 +622,43 @@ translate russian sheet_27_cce502b8:
 translate russian sheet_27_3d1e8b84:
 
     # ch_Name "{i}(Every house got some juice...){/i}"
-    ch_Name "{i}(В каждом доме есть свои прелести...){/i}"
+    ch_Name "{i}(В каждом факультете есть свои прелести...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:224
 translate russian sheet_27_36eb7d6c:
 
     # ch_Name "{i}(I know nothing about girls in Marteden and Crowhive...){/i}"
-    ch_Name "{i}(Я ничего не знаю о девочках из Marteden и Crowhive...){/i}"
+    ch_Name "{i}(Я ничего не знаю о девочках из Мартендена и Кроухайва...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:226
 translate russian sheet_27_a9eee12d:
 
     # ch_Name "{i}(While both Leonheart and Adderin got some juice.){/i}"
-    ch_Name "{i}(Зато в Leonheart и Adderin есть сочные кусочки.){/i}"
+    ch_Name "{i}(Зато в Леонхарте и Аддерине есть вкусняшки.){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:228
 translate russian sheet_27_e7d94bac:
 
     # ch_Name "{i}(Anyway, it's up to the book to decide.){/i}"
-    ch_Name "{i}(В любом случае решать книге.){/i}"
+    ch_Name "{i}(В любом случае, решать книге.){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:230
 translate russian sheet_27_77fe89f0:
 
     # Victoria "Are you ready for the ceremony?"
-    Victoria "Ты готов к церемонии?"
+    Victoria "Вы готовы к церемонии?"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:239
 translate russian test_sheet_27_d4c2202d:
 
     # ch_Name "How does choosing a house affect us?"
-    ch_Name "Как выбор дома повлияет на нас?"
+    ch_Name "Как выбор факультета повлияет на нас?"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:241
 translate russian test_sheet_27_ea9c9985:
 
     # Victoria "It is a great honor and an even greater responsibility to represent your house."
-    Victoria "Это большая честь и еще большая ответственность представлять свой дом."
+    Victoria "Это огромная честь и еще большая ответственность - представлять свой дом."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:243
 translate russian test_sheet_27_a912cb4c:
@@ -676,7 +676,7 @@ translate russian test_sheet_27_e865954a:
 translate russian test_sheet_27_35c3980f:
 
     # Victoria "The house with the most points at the end of the year wins."
-    Victoria "Дом, набравший больше всего баллов к концу года, побеждает."
+    Victoria "Факультет, набравший больше всего баллов к концу года, побеждает."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:249
 translate russian test_sheet_27_c6a9a807:
@@ -700,19 +700,19 @@ translate russian test_sheet_27_7156b113:
 translate russian sheet_27_put_your_hand_over_0238d127:
 
     # Victoria "Put your hand over the right page."
-    Victoria "Положи руку на правую страницу."
+    Victoria "Положите руку на правую страницу."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:259
 translate russian sheet_27_put_your_hand_over_2810d8ca:
 
     # ch_Name "Is that all?"
-    ch_Name "И это все?"
+    ch_Name "И это всё?"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:261
 translate russian sheet_27_put_your_hand_over_6b9a2085:
 
     # Victoria "That's all."
-    Victoria "Это все."
+    Victoria "Это всё."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:265
 translate russian sheet_27_put_your_hand_over_939fcc22:
@@ -765,4 +765,3 @@ translate russian strings:
     # game/logic/episodes_after_first/ep2/sheet_27.rpy:233
     old "I'm ready"
     new "Я готов"
-
