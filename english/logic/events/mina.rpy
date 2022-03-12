@@ -160,7 +160,7 @@ translate english mina_1_label_24_a946b826:
 translate english mina_1_label_24_cc034104:
 
     # ch_Name "{i}(Why are you blushing so much?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Why is she blushing so much?){/i}"
 
 # game/logic/events/mina.rpy:72
 translate english mina_1_label_24_32afbc03:
@@ -340,7 +340,7 @@ translate english mina_0_label_cd9ade03:
 translate english mina_0_label_ed101781:
 
     # ch_Name "It's a shame. "
-    ch_Name ""
+    ch_Name "That's a shame."
 
 translate english strings:
 
