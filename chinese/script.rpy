@@ -346,7 +346,7 @@ translate chinese start_input_2_3c004877:
 translate chinese start_input_2_668cf83e:
 
     # Olivia "And I talked Don out of kicking you out."
-    Olivia "谢谢，我知道..."
+    Olivia "我告诉唐我会把你赶出去。"
 
 # game/script.rpy:943
 translate chinese start_input_2_cbbc98eb:
@@ -418,7 +418,7 @@ translate chinese start_input_2_833ce195:
 translate chinese start_input_2_db8f91ff:
 
     # ch_Name "Olivia, hey. Tell me you're kidding..."
-    ch_Name "你不用为八月付钱，但是..."
+    ch_Name "Olivia，嘿。 告诉我你在开玩笑..."
 
 # game/script.rpy:967
 translate chinese start_input_2_3da42f20:
@@ -472,7 +472,7 @@ translate chinese start_input_2_0c3ee8a6:
 translate chinese start_input_2_143d02b4:
 
     # Olivia "Go into the living room and say it to Don's face."
-    Olivia "你不喜欢我们的提议?"
+    Olivia "到客厅里去，当着Don的面说。"
 
 # game/script.rpy:985
 translate chinese start_input_2_82ed18d6:
