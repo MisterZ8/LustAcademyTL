@@ -424,7 +424,7 @@ translate chinese Haley_2_label_40e53625:
 translate chinese Haley_2_label_e68fef8e:
 
     # Haley "Hi, [Name]. Thank you."
-    Haley "嗨，[name]。谢谢你！"
+    Haley "嗨，[Name]。谢谢你！"
 
 # game/logic/events/haley.rpy:338
 translate chinese Haley_2_label_ebecb59f:
