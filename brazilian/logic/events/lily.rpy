@@ -2650,67 +2650,67 @@ translate brazilian Lily_5_label_130_19d61f7d:
 translate brazilian lily_events_5_label_0_efb4bd7b:
 
     # ch_Name "{i}(Hey there, sleeping beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Olá, bela adormecida.){/i}"
 
 # game/logic/events/lily.rpy:989
 translate brazilian lily_events_5_label_0_311350b4:
 
     # ch_Name "{i}(I hope you're seeing a peaceful dream.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Espero que esteja tendo um sonho pacífico.){/i}"
 
 # game/logic/events/lily.rpy:991
 translate brazilian lily_events_5_label_0_6601b3c6:
 
     # ch_Name "{i}(Don't mind me, I'm here just to admire your beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não se importe comigo, estou aqui apenas para admirar sua beleza.){/i}"
 
 # game/logic/events/lily.rpy:992
 translate brazilian lily_events_5_label_0_5712fd19:
 
     # ch_Name "{i}(If only this blanket was not covering all the best parts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Se essa coberta não estivesse cobrindo todas as suas melhores partes.){/i}"
 
 # game/logic/events/lily.rpy:994
 translate brazilian lily_events_5_label_0_54402612:
 
     # ch_Name "{i}(Let's take a closer look at you.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vamos dar uma olhada melhor em você.){/i}"
 
 # game/logic/events/lily.rpy:995
 translate brazilian lily_events_5_label_0_d6ec0c90:
 
     # ch_Name "{i}(I'm sure you won't mind.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tenho certeza de que não vai se importar.){/i}"
 
 # game/logic/events/lily.rpy:997
 translate brazilian lily_events_5_label_0_d7463199:
 
     # ch_Name "{i}(Oh, my...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh,  cara...){/i}"
 
 # game/logic/events/lily.rpy:998
 translate brazilian lily_events_5_label_0_45ed5ace:
 
     # ch_Name "{i}(What a cute little lingerie you've got.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que lingerie bonita que você tem.){/i}"
 
 # game/logic/events/lily.rpy:999
 translate brazilian lily_events_5_label_0_a8e56b21:
 
     # ch_Name "{i}(I bet it looks even better down there...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aposto que é ainda mais bonita lá embaixo...){/i}"
 
 # game/logic/events/lily.rpy:1001
 translate brazilian lily_events_5_label_0_4af7f1ab:
 
     # ch_Name "{i}(How can I resist you...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Como posso resistir a você...){/i}"
 
 # game/logic/events/lily.rpy:1002
 translate brazilian lily_events_5_label_0_915a2952:
 
     # ch_Name "{i}(Let me get rid of that...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Deixa eu me livrar disso...){/i}"
 
 # game/logic/events/lily.rpy:1004
 translate brazilian lily_events_5_label_0_37c7c5e2:
@@ -2722,139 +2722,139 @@ translate brazilian lily_events_5_label_0_37c7c5e2:
 translate brazilian lily_events_5_label_0_d854112a:
 
     # ch_Name "{i}(Damn, I think she's gonna wake up any minute.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Droga, acho que ela vai acordar a qualquer instante.){/i}"
 
 # game/logic/events/lily.rpy:1006
 translate brazilian lily_events_5_label_0_03d6a422:
 
     # ch_Name "{i}(Better get out of here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Melhor eu sair daqui.){/i}"
 
 # game/logic/events/lily.rpy:1022
 translate brazilian lily_events_5_label_1_efb4bd7b:
 
     # ch_Name "{i}(Hey there, sleeping beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Olá, bela adormecida.){/i}"
 
 # game/logic/events/lily.rpy:1023
 translate brazilian lily_events_5_label_1_311350b4:
 
     # ch_Name "{i}(I hope you're seeing a peaceful dream.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Espero que esteja tendo um sonho pacífico.){/i}"
 
 # game/logic/events/lily.rpy:1025
 translate brazilian lily_events_5_label_1_6601b3c6:
 
     # ch_Name "{i}(Don't mind me, I'm here just to admire your beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não se importe comigo, estou aqui apenas para admirar sua beleza.){/i}"
 
 # game/logic/events/lily.rpy:1026
 translate brazilian lily_events_5_label_1_5712fd19:
 
     # ch_Name "{i}(If only this blanket was not covering all the best parts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Se essa coberta não estivesse cobrindo todas as suas melhores partes.){/i}"
 
 # game/logic/events/lily.rpy:1028
 translate brazilian lily_events_5_label_1_54402612:
 
     # ch_Name "{i}(Let's take a closer look at you.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vamos dar uma olhada melhor em você.){/i}"
 
 # game/logic/events/lily.rpy:1029
 translate brazilian lily_events_5_label_1_d6ec0c90:
 
     # ch_Name "{i}(I'm sure you won't mind.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tenho certeza de que não vai se importar.){/i}"
 
 # game/logic/events/lily.rpy:1031
 translate brazilian lily_events_5_label_1_d7463199:
 
     # ch_Name "{i}(Oh, my...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh,  cara...){/i}"
 
 # game/logic/events/lily.rpy:1032
 translate brazilian lily_events_5_label_1_45ed5ace:
 
     # ch_Name "{i}(What a cute little lingerie you've got.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que lingerie bonita que você tem.){/i}"
 
 # game/logic/events/lily.rpy:1034
 translate brazilian lily_events_5_label_1_4af7f1ab:
 
     # ch_Name "{i}(How can I resist you...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Como posso resistir a você...){/i}"
 
 # game/logic/events/lily.rpy:1035
 translate brazilian lily_events_5_label_1_915a2952:
 
     # ch_Name "{i}(Let me get rid of that...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Deixa eu me livrar disso...){/i}"
 
 # game/logic/events/lily.rpy:1037
 translate brazilian lily_events_5_label_1_fb23f50c:
 
     # ch_Name "{i}(Here we go.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vamos lá.){/i}"
 
 # game/logic/events/lily.rpy:1038
 translate brazilian lily_events_5_label_1_71d5e351:
 
     # ch_Name "{i}(Let me just enjoy this magnificent view.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Deixa eu admirar essa visão magnífica.){/i}"
 
 # game/logic/events/lily.rpy:1039
 translate brazilian lily_events_5_label_1_d510f3e0:
 
     # ch_Name "{i}(I don't know where to start...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não sei por onde começar...){/i}"
 
 # game/logic/events/lily.rpy:1041
 translate brazilian lily_events_5_label_1_f7f92d8d:
 
     # ch_Name "{i}(Your whole body is so incredibly hot...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Seu corpo todo é incrivelmente gostoso...){/i}"
 
 # game/logic/events/lily.rpy:1043
 translate brazilian lily_events_5_label_1_9ea9884c:
 
     # ch_Name "{i}(But the hardest thing is to take my eyes off those breasts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas a coisa mais difícil é tirar os olhos dos seus peitos.){/i}"
 
 # game/logic/events/lily.rpy:1044
 translate brazilian lily_events_5_label_1_6faf865d:
 
     # ch_Name "{i}(I bet it feels incredibly nice to touch them...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aposto que devem ser deliciosos de tocar...){/i}"
 
 # game/logic/events/lily.rpy:1045
 translate brazilian lily_events_5_label_1_7c7a5aaf:
 
     # ch_Name "{i}(Let's not rush things up. Let me take a look at another angle.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não vamos apressar as coisas. Deixe-me ver de outro ângulo.){/i}"
 
 # game/logic/events/lily.rpy:1047
 translate brazilian lily_events_5_label_1_9841f06d:
 
     # ch_Name "{i}(This lingerie enhances your beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Essa lingerie aumenta sua beleza.){/i}"
 
 # game/logic/events/lily.rpy:1049
 translate brazilian lily_events_5_label_1_a0e60060:
 
     # ch_Name "{i}(Especially between your legs...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Especialmente entre suas pernas...){/i}"
 
 # game/logic/events/lily.rpy:1050
 translate brazilian lily_events_5_label_1_85b2cc0f:
 
     # ch_Name "{i}(I bet you'll like my caresses.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aposto que vai gostar de minha carícia.){/i}"
 
 # game/logic/events/lily.rpy:1051
 translate brazilian lily_events_5_label_1_041a53cf:
 
     # ch_Name "{i}(I just know where to touch...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sei exatamente onde tocar...){/i}"
 
 # game/logic/events/lily.rpy:1053
 translate brazilian lily_events_5_label_1_37c7c5e2:
@@ -2866,229 +2866,229 @@ translate brazilian lily_events_5_label_1_37c7c5e2:
 translate brazilian lily_events_5_label_1_d854112a:
 
     # ch_Name "{i}(Damn, I think she's gonna wake up any minute.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Droga, acho que ela vai acordar a qualquer instante.){/i}"
 
 # game/logic/events/lily.rpy:1055
 translate brazilian lily_events_5_label_1_03d6a422:
 
     # ch_Name "{i}(Better get out of here.){/i}"
-    ch_Name ""
-
+    ch_Name "{i}(Melhor eu sair daqui.){/i}"
+    
 # game/logic/events/lily.rpy:1062
 translate brazilian lily_events_5_label_2_efb4bd7b:
 
     # ch_Name "{i}(Hey there, sleeping beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Olá, bela adormecida.){/i}"
 
 # game/logic/events/lily.rpy:1063
 translate brazilian lily_events_5_label_2_311350b4:
 
     # ch_Name "{i}(I hope you're seeing a peaceful dream.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Espero que esteja tendo um sonho pacífico.){/i}"
 
 # game/logic/events/lily.rpy:1065
 translate brazilian lily_events_5_label_2_6601b3c6:
 
     # ch_Name "{i}(Don't mind me, I'm here just to admire your beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não se importe comigo, estou aqui apenas para admirar sua beleza.){/i}"
 
 # game/logic/events/lily.rpy:1066
 translate brazilian lily_events_5_label_2_5712fd19:
 
     # ch_Name "{i}(If only this blanket was not covering all the best parts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Se essa coberta não estivesse cobrindo todas as suas melhores partes.){/i}"
 
 # game/logic/events/lily.rpy:1068
 translate brazilian lily_events_5_label_2_54402612:
 
     # ch_Name "{i}(Let's take a closer look at you.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vamos dar uma olhada melhor em você.){/i}"
 
 # game/logic/events/lily.rpy:1069
 translate brazilian lily_events_5_label_2_d6ec0c90:
 
     # ch_Name "{i}(I'm sure you won't mind.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tenho certeza de que não vai se importar.){/i}"
 
 # game/logic/events/lily.rpy:1071
 translate brazilian lily_events_5_label_2_d7463199:
 
     # ch_Name "{i}(Oh, my...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh,  cara...){/i}"
 
 # game/logic/events/lily.rpy:1072
 translate brazilian lily_events_5_label_2_45ed5ace:
 
     # ch_Name "{i}(What a cute little lingerie you've got.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que lingerie bonita que você tem.){/i}"
 
 # game/logic/events/lily.rpy:1073
 translate brazilian lily_events_5_label_2_a8e56b21:
 
     # ch_Name "{i}(I bet it looks even better down there...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aposto que é ainda mais bonita lá embaixo...){/i}"
 
 # game/logic/events/lily.rpy:1075
 translate brazilian lily_events_5_label_2_7b88459a:
 
     # ch_Name "{i}(Why do you even need blanket, anyway?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Para que você precisa de uma coberta, mesmo?){/i}"
 
 # game/logic/events/lily.rpy:1076
 translate brazilian lily_events_5_label_2_915a2952:
 
     # ch_Name "{i}(Let me get rid of that...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Deixa eu me livrar disso...){/i}"
 
 # game/logic/events/lily.rpy:1078
 translate brazilian lily_events_5_label_2_fb23f50c:
 
     # ch_Name "{i}(Here we go.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vamos lá.){/i}"
 
 # game/logic/events/lily.rpy:1079
 translate brazilian lily_events_5_label_2_71d5e351:
 
     # ch_Name "{i}(Let me just enjoy this magnificent view.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Deixe-me admirar essa visão magnífica.){/i}"
 
 # game/logic/events/lily.rpy:1080
 translate brazilian lily_events_5_label_2_d510f3e0:
 
     # ch_Name "{i}(I don't know where to start...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nâo sei nem por onde começar...){/i}"
 
 # game/logic/events/lily.rpy:1082
 translate brazilian lily_events_5_label_2_727aae98:
 
     # ch_Name "{i}(Your whole body is so damn hot...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Seu corpo inteiro é tão gostoso...){/i}"
 
 # game/logic/events/lily.rpy:1084
 translate brazilian lily_events_5_label_2_6c1902a5:
 
     # ch_Name "{i}(It's so hard to take your eyes off those breasts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(É tão difícil tirar os olhos de seus peitos.){/i}"
 
 # game/logic/events/lily.rpy:1085
 translate brazilian lily_events_5_label_2_ccf9b8cc:
 
     # ch_Name "{i}(I bet it feels incredibly nice to the touch them...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aposto que são deliciosos de tocar...){/i}"
 
 # game/logic/events/lily.rpy:1086
 translate brazilian lily_events_5_label_2_1d03d451:
 
     # ch_Name "{i}(Maybe this time I can actually try it...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Talvez eu possa tentar dessa vez...){/i}"
 
 # game/logic/events/lily.rpy:1088
 translate brazilian lily_events_5_label_2_26983f8c:
 
     # ch_Name "{i}(I'll try not to disturb your sleep, Lily.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vou tentar não perturbar seu sono, Lily.){/i}"
 
 # game/logic/events/lily.rpy:1089
 translate brazilian lily_events_5_label_2_499c2fb1:
 
     # ch_Name "{i}(Just relax and watch the naughty dreams...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Só relaxe e tenha sonhos safados...){/i}"
 
 # game/logic/events/lily.rpy:1091
 translate brazilian lily_events_5_label_2_bbb5c7d2:
 
     # ch_Name "{i}(Oh, yeah... That feels good.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ah, isso... Isso é bom.){/i}"
 
 # game/logic/events/lily.rpy:1092
 translate brazilian lily_events_5_label_2_6fdef796:
 
     # ch_Name "{i}(I can feel your heart beating, Lily.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Consigo sentir seu coração batendo, Lily){/i}"
 
 # game/logic/events/lily.rpy:1093
 translate brazilian lily_events_5_label_2_0e795e4c:
 
     # ch_Name "{i}(I can feel every breath you take.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Consigo sentir cada respiração sua.){/i}"
 
 # game/logic/events/lily.rpy:1094
 translate brazilian lily_events_5_label_2_f95a8045:
 
     # ch_Name "{i}(This really brings us clother, my dear.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Isso realmente nos aproxima, minha querida.){/i}"
 
 # game/logic/events/lily.rpy:1095
 translate brazilian lily_events_5_label_2_c8e3a53f:
 
     # ch_Name "{i}(Let's take a look at other honey spots...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vamos dar uma olhada em outros lugares atraentes...){/i}"
 
 # game/logic/events/lily.rpy:1097
 translate brazilian lily_events_5_label_2_18f06b32:
 
     # ch_Name "{i}(This underwear emphasizes your beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}Essa lingerie enfatiza sua beleza.){/i}"
 
 # game/logic/events/lily.rpy:1099
 translate brazilian lily_events_5_label_2_a0e60060:
 
     # ch_Name "{i}(Especially between your legs...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Especialmente entre suas pernas...){/i}"
 
 # game/logic/events/lily.rpy:1100
 translate brazilian lily_events_5_label_2_8586713a:
 
     # ch_Name "{i}(I bet you like my caresses.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aposto que vai gostar de minha carícia.){/i}"
 
 # game/logic/events/lily.rpy:1101
 translate brazilian lily_events_5_label_2_041a53cf:
 
     # ch_Name "{i}(I just know where to touch...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sei exatamente onde tocar...){/i}"
 
 # game/logic/events/lily.rpy:1103
 translate brazilian lily_events_5_label_2_2a1d499b:
 
     # ch_Name "{i}(I will be gentle with you, dear Lily.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vou ser delicado com você, querida Lily.){/i}"
 
 # game/logic/events/lily.rpy:1105
 translate brazilian lily_events_5_label_2_ed4ec38c:
 
     # ch_Name "{i}(I feel the heat of your loins.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sinto o calor de suas entranhas.){/i}"
 
 # game/logic/events/lily.rpy:1106
 translate brazilian lily_events_5_label_2_b613a332:
 
     # ch_Name "{i}(You obviously don't mind feeling someone's tender hands...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Você não se incomoda muito de sentur as mãos delicadas de outra pessoa...){/i}"
 
 # game/logic/events/lily.rpy:1107
 translate brazilian lily_events_5_label_2_26c294ac:
 
     # ch_Name "{i}(Maybe next time...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Talvez na próxima vez...){/i}"
 
 # game/logic/events/lily.rpy:1109
 translate brazilian lily_events_5_label_2_545f5f80:
 
     # ch_Name "{i}(The blanket is moved and I have a beautiful view of your legs...){/i}"
-    ch_Name ""
+    ch_Name "{i}(A coberta está fora e tenho uma bela visão de suas pernas...){/i}"
 
 # game/logic/events/lily.rpy:1110
 translate brazilian lily_events_5_label_2_a7b5e235:
 
     # ch_Name "{i}(They drive me crazy...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Elas me deixam maluco...){/i}"
 
 # game/logic/events/lily.rpy:1112
 translate brazilian lily_events_5_label_2_0ac6f219:
 
     # ch_Name "{i}(And your toes... I wish I could...){/i}"
-    ch_Name ""
+    ch_Name "{i}(E seus dedos... Queria poder...){/i}"
 
 # game/logic/events/lily.rpy:1114
 translate brazilian lily_events_5_label_2_37c7c5e2:
@@ -3100,301 +3100,301 @@ translate brazilian lily_events_5_label_2_37c7c5e2:
 translate brazilian lily_events_5_label_2_d854112a:
 
     # ch_Name "{i}(Damn, I think she's gonna wake up any minute.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Droga, acho que ela vai acordar a qualquer instante.){/i}"
 
 # game/logic/events/lily.rpy:1116
 translate brazilian lily_events_5_label_2_03d6a422:
 
     # ch_Name "{i}(Better get out of here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Melhor eu sair daqui.){/i}"
 
 # game/logic/events/lily.rpy:1125
 translate brazilian lily_events_5_label_3_efb4bd7b:
 
     # ch_Name "{i}(Hey there, sleeping beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Olá, bela adormecida.){/i}"
 
 # game/logic/events/lily.rpy:1126
 translate brazilian lily_events_5_label_3_311350b4:
 
     # ch_Name "{i}(I hope you're seeing a peaceful dream.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Espero que esteja tendo um sonho pacífico.){/i}"
 
 # game/logic/events/lily.rpy:1128
 translate brazilian lily_events_5_label_3_6601b3c6:
 
     # ch_Name "{i}(Don't mind me, I'm here just to admire your beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não se importe comigo, estou aqui apenas para admirar sua beleza.){/i}"
 
 # game/logic/events/lily.rpy:1129
 translate brazilian lily_events_5_label_3_5712fd19:
 
     # ch_Name "{i}(If only this blanket was not covering all the best parts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Se essa coberta não estivesse cobrindo todas as suas melhores partes.){/i}"
 
 # game/logic/events/lily.rpy:1131
 translate brazilian lily_events_5_label_3_54402612:
 
     # ch_Name "{i}(Let's take a closer look at you.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vamos dar uma olhada melhor em você.){/i}"
 
 # game/logic/events/lily.rpy:1132
 translate brazilian lily_events_5_label_3_d6ec0c90:
 
     # ch_Name "{i}(I'm sure you won't mind.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tenho certeza de que não vai se importar.){/i}"
 
 # game/logic/events/lily.rpy:1134
 translate brazilian lily_events_5_label_3_d7463199:
 
     # ch_Name "{i}(Oh, my...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh,  cara...){/i}"
 
 # game/logic/events/lily.rpy:1135
 translate brazilian lily_events_5_label_3_45ed5ace:
 
     # ch_Name "{i}(What a cute little lingerie you've got.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que lingerie bonita que você tem.){/i}"
 
 # game/logic/events/lily.rpy:1136
 translate brazilian lily_events_5_label_3_a8e56b21:
 
     # ch_Name "{i}(I bet it looks even better down there...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aposto que é ainda mais bonita lá embaixo...){/i}"
 
 # game/logic/events/lily.rpy:1137
 translate brazilian lily_events_5_label_3_915a2952:
 
     # ch_Name "{i}(Let me get rid of that...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Deixa eu me livrar disso...){/i}"
 
 # game/logic/events/lily.rpy:1139
 translate brazilian lily_events_5_label_3_fb23f50c:
 
     # ch_Name "{i}(Here we go.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vamos lá.){/i}"
 
 # game/logic/events/lily.rpy:1140
 translate brazilian lily_events_5_label_3_71d5e351:
 
     # ch_Name "{i}(Let me just enjoy this magnificent view.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Deixe-me aproveitar essa visão maravilhosa.){/i}"
 
 # game/logic/events/lily.rpy:1141
 translate brazilian lily_events_5_label_3_d510f3e0:
 
     # ch_Name "{i}(I don't know where to start...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não sei nem por onde começar...){/i}"
 
 # game/logic/events/lily.rpy:1143
 translate brazilian lily_events_5_label_3_727aae98:
 
     # ch_Name "{i}(Your whole body is so damn hot...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Seu corpo todo é muito gostoso...){/i}"
 
 # game/logic/events/lily.rpy:1145
 translate brazilian lily_events_5_label_3_9a747f21:
 
     # ch_Name "{i}(But I always tend to start with your breasts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas sempre costumo começar por seus peitos.){/i}"
 
 # game/logic/events/lily.rpy:1146
 translate brazilian lily_events_5_label_3_31f5db86:
 
     # ch_Name "{i}(I know for sure it feels incredibly nice to the touch them...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu sei que eles são incrivelmente gostosos de tocar...){/i}"
 
 # game/logic/events/lily.rpy:1147
 translate brazilian lily_events_5_label_3_26983f8c:
 
     # ch_Name "{i}(I'll try not to disturb your sleep, Lily.){/i}"
-    ch_Name ""
+    ch_Name "{I}(Vou tentar não atrapalhar seu sono, Lily.){/i}"
 
 # game/logic/events/lily.rpy:1148
 translate brazilian lily_events_5_label_3_499c2fb1:
 
     # ch_Name "{i}(Just relax and watch the naughty dreams...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Apenas relxe e tenha sonhos sasfados...){/i}"
 
 # game/logic/events/lily.rpy:1150
 translate brazilian lily_events_5_label_3_bbb5c7d2:
 
     # ch_Name "{i}(Oh, yeah... That feels good.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ah, isso... Isso é bom.){/i}"
 
 # game/logic/events/lily.rpy:1151
 translate brazilian lily_events_5_label_3_6fdef796:
 
     # ch_Name "{i}(I can feel your heart beating, Lily.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Consigo sentir seu coração batendo, Lily.){/i}"
 
 # game/logic/events/lily.rpy:1152
 translate brazilian lily_events_5_label_3_0e795e4c:
 
     # ch_Name "{i}(I can feel every breath you take.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Consigo sentir cada respiração sua.){/i}"
 
 # game/logic/events/lily.rpy:1153
 translate brazilian lily_events_5_label_3_c428a5f5:
 
     # ch_Name "{i}(I need to squeeze it and feel it in my hand...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Preciso apertar e sentir na minha mão...){/i}"
 
 # game/logic/events/lily.rpy:1154
 translate brazilian lily_events_5_label_3_09a917f4:
 
     # ch_Name "{i}(Maybe if I do it gently, she won't notice...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Talvez, se eu apertar gentilmente, ela não perceba...){/i}"
 
 # game/logic/events/lily.rpy:1156
 translate brazilian lily_events_5_label_3_de46fa71:
 
     # ch_Name "{i}(Gently...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Com calma...){/i}"
 
 # game/logic/events/lily.rpy:1158
 translate brazilian lily_events_5_label_3_1b854e6e:
 
     # ch_Name "{i}(Oh, yes...){/i}"
-    ch_Name ""
+    ch_Name "{i](Assim...){/i}"
 
 # game/logic/events/lily.rpy:1159
 translate brazilian lily_events_5_label_3_fd9d750a:
 
     # ch_Name "{i}(Her breasts feel like they were meant to be in my hand.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Seus peitos parecem feitos para estar em minhas mãos.){/i}"
 
 # game/logic/events/lily.rpy:1160
 translate brazilian lily_events_5_label_3_4a37019b:
 
     # ch_Name "{i}(Imagine what they feel like without a bra...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Imagina como devem ser sem um sutiã...){/i}"
 
 # game/logic/events/lily.rpy:1161
 translate brazilian lily_events_5_label_3_0f0655eb:
 
     # ch_Name "{i}(I have to find out how to take it off...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tenho que descobrir como tirar...){/i}"
 
 # game/logic/events/lily.rpy:1162
 translate brazilian lily_events_5_label_3_568768a7:
 
     # ch_Name "{i}(Meanwhile, I can take a look at your temple.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nesse meio tempo, posso dar uma olhada no seu templo.){/i}"
 
 # game/logic/events/lily.rpy:1164
 translate brazilian lily_events_5_label_3_18f06b32:
 
     # ch_Name "{i}(This underwear emphasizes your beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Essa lingerie enfatiza sua beleza.){/i}"
 
 # game/logic/events/lily.rpy:1166
 translate brazilian lily_events_5_label_3_a0e60060:
 
     # ch_Name "{i}(Especially between your legs...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Principalmente entre suas pernas...){/i}"
 
 # game/logic/events/lily.rpy:1167
 translate brazilian lily_events_5_label_3_6ea21969:
 
     # ch_Name "{i}(I know you like my caresses.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu sei que você gosta de minha carícia.){/i}"
 
 # game/logic/events/lily.rpy:1168
 translate brazilian lily_events_5_label_3_041a53cf:
 
     # ch_Name "{i}(I just know where to touch...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sei exatamente onde tocar...){/i}"
 
 # game/logic/events/lily.rpy:1170
 translate brazilian lily_events_5_label_3_2a1d499b:
 
     # ch_Name "{i}(I will be gentle with you, dear Lily.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Serei gentil com você, querida Lily.){/i}"
 
 # game/logic/events/lily.rpy:1172
 translate brazilian lily_events_5_label_3_ed4ec38c:
 
     # ch_Name "{i}(I feel the heat of your loins.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu consigo sentir o calor de suas entranhas.){/i}"
 
 # game/logic/events/lily.rpy:1173
 translate brazilian lily_events_5_label_3_b613a332:
 
     # ch_Name "{i}(You obviously don't mind feeling someone's tender hands...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Você claramente não se incomoda com as mãos delicadas de alguém...){/i}"
 
 # game/logic/events/lily.rpy:1174
 translate brazilian lily_events_5_label_3_7870d3b2:
 
     # ch_Name "{i}(But if you want to continue, I need to spread your legs.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas, se quiser que continue, preciso abrir suas pernas.){/i}"
 
 # game/logic/events/lily.rpy:1176
 translate brazilian lily_events_5_label_3_2ee42446:
 
     # ch_Name "{i}(Gently moving your beautiful leg...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Gentilmente mover sua bela perna...){/i}"
 
 # game/logic/events/lily.rpy:1177
 translate brazilian lily_events_5_label_3_259d469d:
 
     # ch_Name "{i}(And look at what a beautiful view opens up to us.){/i}"
-    ch_Name ""
+    ch_Name "{I}(E olhar para a bela visão que se abre para nós.){/i}"
 
 # game/logic/events/lily.rpy:1178
 translate brazilian lily_events_5_label_3_955bd88d:
 
     # ch_Name "{i}(Just move your panties...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Só mover sua calcinha...){/i}"
 
 # game/logic/events/lily.rpy:1180
 translate brazilian lily_events_5_label_3_8901a418:
 
     # ch_Name "{i}(I could admire your blossom forever, Lily.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu poderia admirar sua flor para sempre, Lily.){/i}"
 
 # game/logic/events/lily.rpy:1181
 translate brazilian lily_events_5_label_3_7eb774e9:
 
     # ch_Name "{i}(You're so tense... Did you feel my touch?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Você está tão tensa... Sentiu o meu toque?({/i}"
 
 # game/logic/events/lily.rpy:1182
 translate brazilian lily_events_5_label_3_18dabf16:
 
     # ch_Name "{i}(Shall we continue?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Devemos continuar?){/i}"
 
 # game/logic/events/lily.rpy:1184
 translate brazilian lily_events_5_label_3_6ee833df:
 
     # ch_Name "{i}(The blanket is pulled and I have a beautiful view of your legs...){/i}"
-    ch_Name ""
+    ch_Name "{i}(A coberta puxada e tenho uma bela visão de suas pernas...){/i}"
 
 # game/logic/events/lily.rpy:1185
 translate brazilian lily_events_5_label_3_a7b5e235:
 
     # ch_Name "{i}(They drive me crazy...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Me enloquecem...){/i}"
 
 # game/logic/events/lily.rpy:1187
 translate brazilian lily_events_5_label_3_0ac6f219:
 
     # ch_Name "{i}(And your toes... I wish I could...){/i}"
-    ch_Name ""
+    ch_Name "{i}(E seus dedos... Adoraria...){/i}"
 
 # game/logic/events/lily.rpy:1195
 translate brazilian lily_events_5_label_3_9aca7197:
 
     # ch_Name "{i}(I can't help it...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não resisto...){/i}"
 
 # game/logic/events/lily.rpy:1197
 translate brazilian lily_events_5_label_3_4bbad52a:
 
     # ch_Name "{i}(Your skin is so soft...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sua pele é tão macia...){/i}"
 
 # game/logic/events/lily.rpy:1199
 translate brazilian lily_events_5_label_3_22baf82d:
