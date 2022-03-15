@@ -2303,7 +2303,7 @@ translate chinese Leona_2_label_9563a299:
 translate chinese Leona_2_label_09b9982c:
 
     # Leona "But I'm not wearing that fancy hat. We should say something about my current attire."
-    Leona "快来，我们没时间争论了。"
+    Leona "但我没有戴那顶花哨的帽子。我们应该对我现在的装束说点什么。"
 
 # game/logic/events/Leona.rpy:618
 translate chinese Leona_2_label_c6760218:
