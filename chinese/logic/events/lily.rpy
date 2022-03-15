@@ -5614,7 +5614,7 @@ translate chinese Lily_6_label_224_faded8ff:
 translate chinese Lily_6_label_224_c73e0f10:
 
     # ch_Name "{i}(She seems a little upset.){/i}"
-    ch_Name "{i}(She seems a little upset.){/i}"
+    ch_Name "{i}(她似乎有点不高兴。){/i}"
 
 # game/logic/events/lily.rpy:1794
 translate chinese Lily_6_label_224_6fb36d8a:
