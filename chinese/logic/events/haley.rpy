@@ -5932,7 +5932,7 @@ translate chinese Haley_13_label_2ea77bb2:
 translate chinese Haley_13_label_90dfa88c:
 
     # Haley "Come on, [Name]. Goodbye, Miss Amelie."
-    Haley "来吧，[name]。再见，Amelie小姐。"
+    Haley "来吧，[Name]。再见，Amelie小姐。"
 
 # game/logic/events/haley.rpy:1892
 translate chinese Haley_13_label_786b54ba:
