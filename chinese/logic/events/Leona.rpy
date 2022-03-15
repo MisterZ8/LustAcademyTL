@@ -2465,7 +2465,7 @@ translate chinese Leona_2_label_322713b3:
 translate chinese Leona_2_label_027b1c56_1:
 
     # ch_Name "..."
-    ch_Name ""
+    ch_Name "..."
 
 # game/logic/events/Leona.rpy:661
 translate chinese Leona_2_label_f9ada20e:
