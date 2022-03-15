@@ -6394,7 +6394,7 @@ translate chinese Naomi_10_label_from_gallery_573b1b4c:
 translate chinese Naomi_10_label_from_gallery_cbe34110:
 
     # Naomi "Come on, [Name]."
-    Naomi "来吧，[name]。"
+    Naomi "来吧，[Name]。"
 
 # game/logic/events/naomi.rpy:2042
 translate chinese Naomi_10_label_from_gallery_63e32bc4:
