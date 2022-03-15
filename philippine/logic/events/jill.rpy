@@ -1390,217 +1390,217 @@ translate philippine Jill_4_label_47500326:
 translate philippine Jill_4_label_b0d2f87b:
 
     # Jill "Then go to the familiar room!"
-    Jill ""
+    Jill "Pumasok ka sa silid!"
 
 # game/logic/events/jill.rpy:537
 translate philippine Jill_4_label_from_gallery_77c4c62f:
 
     # ch_Name "{i}(How nice to be here again!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ang sarap pumunta ulit dito!){/i}"
 
 # game/logic/events/jill.rpy:538
 translate philippine Jill_4_label_from_gallery_bb7e1c76:
 
     # Faith "Hey! Glad to see you!"
-    Faith ""
+    Faith "Hoy! Natutuwa akong makita ka!"
 
 # game/logic/events/jill.rpy:540
 translate philippine Jill_4_label_from_gallery_e49ab927:
 
     # Faith "How are you?"
-    Faith ""
+    Faith "Kumusta ka?"
 
 # game/logic/events/jill.rpy:541
 translate philippine Jill_4_label_from_gallery_83fcc17d:
 
     # ch_Name "I feel noticeable improvements."
-    ch_Name ""
+    ch_Name "Nararamdaman ko ang kapansin-pansing mga pagpapabuti."
 
 # game/logic/events/jill.rpy:542
 translate philippine Jill_4_label_from_gallery_63c30ab4:
 
     # ch_Name "And my back doesn't hurt at all!"
-    ch_Name ""
+    ch_Name "At hindi naman masakit ang likod ko!"
 
 # game/logic/events/jill.rpy:543
 translate philippine Jill_4_label_from_gallery_263db661:
 
     # ch_Name "However, there's still a lot of stress and tension..."
-    ch_Name ""
+    ch_Name "Gayunpaman, ang dami pa rin ang stress at pag-igting..."
 
 # game/logic/events/jill.rpy:545
 translate philippine Jill_4_label_from_gallery_08f9ebb1:
 
     # ch_Name "...in different parts of the body..."
-    ch_Name ""
+    ch_Name "... sa ibang bahagi ng katawan ko..."
 
 # game/logic/events/jill.rpy:546
 translate philippine Jill_4_label_from_gallery_67f06a86:
 
     # ch_Name "...which needs to be removed."
-    ch_Name ""
+    ch_Name "...na kailangang tanggalin."
 
 # game/logic/events/jill.rpy:547
 translate philippine Jill_4_label_from_gallery_ab8bebb5:
 
     # ch_Name "But I think you can handle it."
-    ch_Name ""
+    ch_Name "Pero sa tingin ko kakayanin mo ito."
 
 # game/logic/events/jill.rpy:549
 translate philippine Jill_4_label_from_gallery_79cca176:
 
     # ch_Name "{i}(I wonder what she's thinking about?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ano ang iniisip niya?){/i}"
 
 # game/logic/events/jill.rpy:550
 translate philippine Jill_4_label_from_gallery_9a0a9d19:
 
     # ch_Name "{i}(Is she blushing?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Namumula ba siya?){/i}"
 
 # game/logic/events/jill.rpy:551
 translate philippine Jill_4_label_from_gallery_7e4b3354:
 
     # Faith "Yes, today we will work on it."
-    Faith ""
+    Faith "Oo, gagawin natin ito."
 
 # game/logic/events/jill.rpy:552
 translate philippine Jill_4_label_from_gallery_6cc306d5:
 
     # Faith "Get undressed, I will come soon."
-    Faith ""
+    Faith "Maghubad ka na, magsisimula na ako."
 
 # game/logic/events/jill.rpy:559
 translate philippine Jill_4_label_from_gallery_e39faf48:
 
     # Faith "Today I will give you a relaxing massage."
-    Faith ""
+    Faith "Ngayon bibigyan kita ng nakakapaghinga na masahe."
 
 # game/logic/events/jill.rpy:560
 translate philippine Jill_4_label_from_gallery_dd2afa3d:
 
     # ch_Name "Just what I need!"
-    ch_Name ""
+    ch_Name "Ang kailangan ko!"
 
 # game/logic/events/jill.rpy:561
 translate philippine Jill_4_label_from_gallery_c156806b:
 
     # Faith "It will help to remove muscle clamps and bring you overall relaxation."
-    Faith ""
+    Faith "Makakatulong ito sa pag-aalis ang mga pulikat ng kalamnan at magbibigay ng pagpapahinga."
 
 # game/logic/events/jill.rpy:563
 translate philippine Jill_4_label_from_gallery_60ab327e:
 
     # Faith "Also advise you to let all thoughts out of your head..."
-    Faith ""
+    Faith "Ipinapayo ko rin sa iyo na ilabas ang lahat ng iniisip mo..."
 
 # game/logic/events/jill.rpy:564
 translate philippine Jill_4_label_from_gallery_e69b8d41:
 
     # Faith "After all, our thoughts are strongly connected with the language and position of our body."
-    Faith ""
+    Faith "Dahil ang ating mga saloobin ay konektado sa wika at posisyon ng ating katawan."
 
 # game/logic/events/jill.rpy:565
 translate philippine Jill_4_label_from_gallery_f8b54836:
 
     # Faith "The presence of worries and fears always prevents the body from relaxing completely."
-    Faith ""
+    Faith "Ang pag-aalala at takot ay palaging pumipigil sa pagpahinga."
 
 # game/logic/events/jill.rpy:567
 translate philippine Jill_4_label_from_gallery_bb518681:
 
     # Faith "Usually, during such a massage I offer customers a special mask..."
-    Faith ""
+    Faith "Karaniwan, sa panahon ng gayong masahe ay nag-aalok ako ng espesyal na maskara ..."
 
 # game/logic/events/jill.rpy:568
 translate philippine Jill_4_label_from_gallery_1a5d57d0:
 
     # Faith "...which allows them to fall into dream."
-    Faith ""
+    Faith "... na nagpapahintulot sa iyong pagpasok sa panaginip."
 
 # game/logic/events/jill.rpy:569
 translate philippine Jill_4_label_from_gallery_9c426f04:
 
     # Faith "If you do not mind, then I will also use it for you."
-    Faith ""
+    Faith "Kung walang problema sa iyo, gagamitin ko rin ito sa iyo."
 
 # game/logic/events/jill.rpy:570
 translate philippine Jill_4_label_from_gallery_125308ff:
 
     # ch_Name "Oh, sure."
-    ch_Name ""
+    ch_Name "Sige."
 
 # game/logic/events/jill.rpy:572
 translate philippine Jill_4_label_from_gallery_2c2fded3:
 
     # ch_Name "{i}(How gentle her skin is!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Napakaamo ng balat niya!){/i}"
 
 # game/logic/events/jill.rpy:573
 translate philippine Jill_4_label_from_gallery_387891fd:
 
     # Faith "Forget everything that can worry you."
-    Faith ""
+    Faith "Kalimutan mo ang lahat ng bagay na maaaring mag-alala sa iyo."
 
 # game/logic/events/jill.rpy:575
 translate philippine Jill_4_label_from_gallery_a6319149:
 
     # Faith "I want to make our session as productive as possible."
-    Faith ""
+    Faith "Gusto kong gawing produktibo ang ating pagkakataon hangga't maaari."
 
 # game/logic/events/jill.rpy:576
 translate philippine Jill_4_label_from_gallery_79a45ce1:
 
     # ch_Name "{i}(Just amazing!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nakakamangha!){/i}"
 
 # game/logic/events/jill.rpy:577
 translate philippine Jill_4_label_from_gallery_908cfc19:
 
     # ch_Name "Your touches put me into a hypnotic state."
-    ch_Name ""
+    ch_Name "Na-hypnotize ako ng mga haplos mo."
 
 # game/logic/events/jill.rpy:579
 translate philippine Jill_4_label_from_gallery_7aea5e62:
 
     # ch_Name "You have magic fingers!"
-    ch_Name ""
+    ch_Name "Ikaw ay may daliring mahika!"
 
 # game/logic/events/jill.rpy:580
 translate philippine Jill_4_label_from_gallery_059a77cc:
 
     # ch_Name "Very skillful."
-    ch_Name ""
+    ch_Name "Napakahusay."
 
 # game/logic/events/jill.rpy:581
 translate philippine Jill_4_label_from_gallery_96a5eacc:
 
     # ch_Name "Not all hands can do that."
-    ch_Name ""
+    ch_Name "Hindi ito kaya ng karaniwang kamay."
 
 # game/logic/events/jill.rpy:582
 translate philippine Jill_4_label_from_gallery_d36e0661:
 
     # Faith "Ugh... Thanks!"
-    Faith ""
+    Faith "Ugh... Salamat!"
 
 # game/logic/events/jill.rpy:584
 translate philippine Jill_4_label_from_gallery_fa0965d1:
 
     # ch_Name "{i}(Today she has less initiative than last time.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ngayon ay mas kaunti ang inisyatiba niya kaysa noong nakaraan.){/i}"
 
 # game/logic/events/jill.rpy:585
 translate philippine Jill_4_label_from_gallery_69242145:
 
     # ch_Name "{i}(She's behaving like nothing happened.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nag-asal siya na parang walang nangyari.){/i}"
 
 # game/logic/events/jill.rpy:586
 translate philippine Jill_4_label_from_gallery_2ce2f7fe:
 
     # ch_Name "{i}(Maybe she's just very shy?){/i}"
-    ch_Name ""
+    ch_Name {i}(Siguro sobrang nahihiya lang siya?){/i}"
 
 # game/logic/events/jill.rpy:587
 translate philippine Jill_4_label_from_gallery_eff1c28d:
@@ -1612,25 +1612,25 @@ translate philippine Jill_4_label_from_gallery_eff1c28d:
 translate philippine Jill_4_label_from_gallery_40ba363a:
 
     # ch_Name "{i}(However, her \"shyness\" did not stop her from groping me during our last time...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Gayunpaman, hindi napigilan ng kanyang \"pagkamahiyain\" na yakapin ako noon...){/i}"
 
 # game/logic/events/jill.rpy:590
 translate philippine Jill_4_label_from_gallery_2e9c6f42:
 
     # ch_Name "{i}(...and whispering all sorts of things in my ear.){/i}"
-    ch_Name ""
+    ch_Name "{i}(...at binubulong ang iba't-ibang bagay sa aking tenga.){/i}"
 
 # game/logic/events/jill.rpy:591
 translate philippine Jill_4_label_from_gallery_110f6626:
 
     # ch_Name "{i}(So how do I relax and let all thoughts out if everything is so confusing!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kaya paano ako maghihinga at ilalabas ang lahat ng iniisip kung ang lahat ay nakakalito!){/i}"
 
 # game/logic/events/jill.rpy:592
 translate philippine Jill_4_label_from_gallery_27102876:
 
     # ch_Name "{i}(Maybe she is waiting for me to make a move, wanting me to be more active?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Baka hinihintay niya akong kumilos, gusto niya akong maging mas aktibo?){/i}"
 
 # game/logic/events/jill.rpy:593
 translate philippine Jill_4_label_from_gallery_7eddb51a:
@@ -1642,43 +1642,43 @@ translate philippine Jill_4_label_from_gallery_7eddb51a:
 translate philippine Jill_4_label_from_gallery_aac040d8:
 
     # ch_Name "And what other types of massage do you offer?"
-    ch_Name ""
+    ch_Name "At ano pang klase ng masahe ang inaalok mo?"
 
 # game/logic/events/jill.rpy:596
 translate philippine Jill_4_label_from_gallery_b7cbb954:
 
     # Faith "There are many!"
-    Faith ""
+    Faith "Marami naman!"
 
 # game/logic/events/jill.rpy:597
 translate philippine Jill_4_label_from_gallery_70794a09:
 
     # Faith "Literally anything you could imagine."
-    Faith ""
+    Faith "Kahit anong maisip mo."
 
 # game/logic/events/jill.rpy:598
 translate philippine Jill_4_label_from_gallery_d52710a9:
 
     # Faith "Sports, hot stone, aromatherapy, honey..."
-    Faith ""
+    Faith "Palakasan, mainit na bato, aromatherapy, pulot..."
 
 # game/logic/events/jill.rpy:599
 translate philippine Jill_4_label_from_gallery_17f910db:
 
     # Faith "And what do find you particularly interesting?"
-    Faith ""
+    Faith "At ano sa tingin mo ay partikular na kawili-wili?"
 
 # game/logic/events/jill.rpy:601
 translate philippine Jill_4_label_from_gallery_8876c556:
 
     # ch_Name "Maybe there is something even more relaxing?"
-    ch_Name ""
+    ch_Name "Baka may mas nakakapaghinga pa?"
 
 # game/logic/events/jill.rpy:602
 translate philippine Jill_4_label_from_gallery_e1cdd165:
 
     # ch_Name "Massages with energy exchange, like for example erotic..."
-    ch_Name ""
+    ch_Name "Mga masahe na may pagpapalitan ng enerhiya, tulad ng erotiko..."
 
 # game/logic/events/jill.rpy:603
 translate philippine Jill_4_label_from_gallery_49b81a39:
@@ -1690,61 +1690,61 @@ translate philippine Jill_4_label_from_gallery_49b81a39:
 translate philippine Jill_4_label_from_gallery_d6b6bc17:
 
     # Faith "There is no such thing in our catalog..."
-    Faith ""
+    Faith "Walang ganyan sa katalogo namin..."
 
 # game/logic/events/jill.rpy:606
 translate philippine Jill_4_label_from_gallery_f0907e3d:
 
     # Faith "But you can talk with the masseur personally..."
-    Faith ""
+    Faith "Ngunit maaari kang makipag-usap sa masahista..."
 
 # game/logic/events/jill.rpy:607
 translate philippine Jill_4_label_from_gallery_1971e367:
 
     # Faith "Tell more about the form of massage that you would like to try..."
-    Faith ""
+    Faith "Magkwento pa tungkol sa anyo ng masahe na gusto mong subukan..."
 
 # game/logic/events/jill.rpy:608
 translate philippine Jill_4_label_from_gallery_d51a9048:
 
     # Faith "And the massage therapist may agree if the proposal is interesting."
-    Faith ""
+    Faith "At ang masahista ay maaaring sumang-ayon kung ang panukala ay kawili-wili."
 
 # game/logic/events/jill.rpy:609
 translate philippine Jill_4_label_from_gallery_bc730fe7:
 
     # ch_Name "{i}(How deftly she answers!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ang bilis niyang sumagot!){/i}"
 
 # game/logic/events/jill.rpy:610
 translate philippine Jill_4_label_from_gallery_2d87addf:
 
     # ch_Name "Would you personally be interestеd in a session of such a massage?"
-    ch_Name ""
+    ch_Name "Maging interesado sa isang sesyon ng gayong masahe?"
 
 # game/logic/events/jill.rpy:612
 translate philippine Jill_4_label_from_gallery_89bc6757:
 
     # Faith "Now I am already finishing the relaxing massage."
-    Faith ""
+    Faith "Ngayong tinatapos ko na ang masaheng ito."
 
 # game/logic/events/jill.rpy:613
 translate philippine Jill_4_label_from_gallery_6e0fb2b0:
 
     # Faith "We can discuss it the next time, if you decide to visit us again."
-    Faith ""
+    Faith "Maaari nating pag-usapan sa susunod, kung magpasya kang bisitahin kami ulit."
 
 # game/logic/events/jill.rpy:614
 translate philippine Jill_4_label_from_gallery_fd71a4b2:
 
     # Faith "So, now it will hurt, but then the relaxation of the whole body will come..."
-    Faith ""
+    Faith "ito ay masakit, ngunit ang pagpapahinga ng buong katawan ay darating..."
 
 # game/logic/events/jill.rpy:616
 translate philippine Jill_4_label_from_gallery_e1064586:
 
     # Faith "Just saying!"
-    Faith ""
+    Faith "Sinasabi ko lang!"
 
 # game/logic/events/jill.rpy:617
 translate philippine Jill_4_label_from_gallery_3784bfdf:
@@ -1756,175 +1756,175 @@ translate philippine Jill_4_label_from_gallery_3784bfdf:
 translate philippine Jill_4_label_from_gallery_a82b3d9a:
 
     # ch_Name "{i}(In the mask all sensations seem to be so new!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sa maskara lahat ng sensasyon ay tila napakabago!){/i}"
 
 # game/logic/events/jill.rpy:619
 translate philippine Jill_4_label_from_gallery_32cb5d89:
 
     # ch_Name "Oh my God!"
-    ch_Name ""
+    ch_Name "Diyos ko!"
 
 # game/logic/events/jill.rpy:621
 translate philippine Jill_4_label_from_gallery_21ecad1c:
 
     # Faith "At the end of the relaxing massage, I always stimulate one point..."
-    Faith ""
+    Faith "Sa pagtatapos ng masahe, palagi kong pinupukaw ang isang punto..."
 
 # game/logic/events/jill.rpy:622
 translate philippine Jill_4_label_from_gallery_05b7e4a6:
 
     # Faith "...which removes all clamps."
-    Faith ""
+    Faith "...na nag-aalis ng lahat ng pulikat."
 
 # game/logic/events/jill.rpy:623
 translate philippine Jill_4_label_from_gallery_485530e0:
 
     # Faith "Quite painful, don't you think so?"
-    Faith ""
+    Faith "Medyo masakit, diba?"
 
 # game/logic/events/jill.rpy:624
 translate philippine Jill_4_label_from_gallery_b4de5f16:
 
     # ch_Name "Just unbelievable!"
-    ch_Name ""
+    ch_Name "Mahirap paniwalaan!"
 
 # game/logic/events/jill.rpy:626
 translate philippine Jill_4_label_from_gallery_81d88b5d:
 
     # Faith "So that is all!"
-    Faith ""
+    Faith "'Yun lang!"
 
 # game/logic/events/jill.rpy:627
 translate philippine Jill_4_label_from_gallery_72ad2025:
 
     # Faith "I hope you enjoy it."
-    Faith ""
+    Faith "Sana nagustuhan mo."
 
 # game/logic/events/jill.rpy:628
 translate philippine Jill_4_label_from_gallery_2654c981:
 
     # Faith "Regarding the details of our next session..."
-    Faith ""
+    Faith "Tungkol sa mga detalye ng ating susunod na sesyon..."
 
 # game/logic/events/jill.rpy:629
 translate philippine Jill_4_label_from_gallery_7578c7bc:
 
     # Faith "I will think about your offer."
-    Faith ""
+    Faith "Pag-iisipan ko ang alok mo."
 
 # game/logic/events/jill.rpy:631
 translate philippine Jill_4_label_from_gallery_0e0daac4:
 
     # Faith "It's time for me to go."
-    Faith ""
+    Faith "Oras na para aalis ako."
 
 # game/logic/events/jill.rpy:632
 translate philippine Jill_4_label_from_gallery_cabb447d:
 
     # Faith "See ya!"
-    Faith ""
+    Faith "Hanggang sa muli!"
 
 # game/logic/events/jill.rpy:633
 translate philippine Jill_4_label_from_gallery_db58e589:
 
     # ch_Name "Have a nice evening!"
-    ch_Name ""
+    ch_Name "Magandang gabi!"
 
 # game/logic/events/jill.rpy:635
 translate philippine Jill_4_label_from_gallery_a9b046ad:
 
     # ch_Name "{i}(And again she runs away.){/i}"
-    ch_Name ""
+    ch_Name "{i}(At muli siyang tumakas.){/i}"
 
 # game/logic/events/jill.rpy:636
 translate philippine Jill_4_label_from_gallery_c37a5b56:
 
     # ch_Name "{i}(Ehhh, I don't want to get up!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ehhh, ayoko bumangon!){/i}"
 
 # game/logic/events/jill.rpy:637
 translate philippine Jill_4_label_from_gallery_21b5a1d7:
 
     # ch_Name "{i}(A little more, and I'll just fall asleep.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kaunti pa, at matutulog na lang ako.){/i}"
 
 # game/logic/events/jill.rpy:638
 translate philippine Jill_4_label_from_gallery_e2b01a53:
 
     # Jill "Do you already want to leave?"
-    Jill ""
+    Jill "Gusto mo na bang umalis?"
 
 # game/logic/events/jill.rpy:639
 translate philippine Jill_4_label_from_gallery_7795b9f6:
 
     # Jill "Or maybe you will stay?"
-    Jill ""
+    Jill "O baka mananatili ka?"
 
 # game/logic/events/jill.rpy:641
 translate philippine Jill_4_label_from_gallery_a20be6b3:
 
     # Jill "For a little bit..."
-    Jill ""
+    Jill "Saglit lang..."
 
 # game/logic/events/jill.rpy:642
 translate philippine Jill_4_label_from_gallery_c3f4364a:
 
     # Jill "I only want to give you some pleasure."
-    Jill ""
+    Jill "Gusto lang kitang bigyan ng kasiyahan."
 
 # game/logic/events/jill.rpy:643
 translate philippine Jill_4_label_from_gallery_14c8bf24:
 
     # Jill "Some more relaxation"
-    Jill ""
+    Jill "Paghihinga."
 
 # game/logic/events/jill.rpy:645
 translate philippine Jill_4_label_from_gallery_34429cc8:
 
     # Jill "Just don't remove the mask!"
-    Jill ""
+    Jill "Basta huwag mong tanggalin ang maskara!"
 
 # game/logic/events/jill.rpy:646
 translate philippine Jill_4_label_from_gallery_f3196672:
 
     # Jill "How do you feel in it?"
-    Jill ""
+    Jill "Ano ang pakiramdam mo dito?"
 
 # game/logic/events/jill.rpy:647
 translate philippine Jill_4_label_from_gallery_e0a51034:
 
     # ch_Name "Very unusual."
-    ch_Name ""
+    ch_Name "Talagang kakaiba."
 
 # game/logic/events/jill.rpy:648
 translate philippine Jill_4_label_from_gallery_d053b818:
 
     # ch_Name "It's very exciting."
-    ch_Name ""
+    ch_Name "Talagang kapana-panabik."
 
 # game/logic/events/jill.rpy:650
 translate philippine Jill_4_label_from_gallery_669f5cad:
 
     # Jill "Such a charming atmosphere here, right?"
-    Jill ""
+    Jill "Napakaganda dito, tama ba?"
 
 # game/logic/events/jill.rpy:651
 translate philippine Jill_4_label_from_gallery_55e793c6:
 
     # ch_Name "Very intimate."
-    ch_Name ""
+    ch_Name "Napakatalik."
 
 # game/logic/events/jill.rpy:652
 translate philippine Jill_4_label_from_gallery_b93ae3b0:
 
     # Jill "Very pleasant smell, right?"
-    Jill ""
+    Jill "Napakasarap ng amoy, tama?"
 
 # game/logic/events/jill.rpy:654
 translate philippine Jill_4_label_from_gallery_84937f62:
 
     # Jill "Do you like it?"
-    Jill ""
+    Jill "Gusto mo ba?"
 
 # game/logic/events/jill.rpy:655
 translate philippine Jill_4_label_from_gallery_7eddb51a_1:
@@ -1936,31 +1936,31 @@ translate philippine Jill_4_label_from_gallery_7eddb51a_1:
 translate philippine Jill_4_label_from_gallery_f31ec266:
 
     # Jill "Something flowery and suffocatingly sweet, yes?"
-    Jill ""
+    Jill "Mabulaklak at nakakasawa na matamis?"
 
 # game/logic/events/jill.rpy:658
 translate philippine Jill_4_label_from_gallery_7fdd10d7:
 
     # Jill "You're so ready!"
-    Jill ""
+    Jill "Handa ka na!"
 
 # game/logic/events/jill.rpy:659
 translate philippine Jill_4_label_from_gallery_ab20b39a:
 
     # ch_Name "The atmosphere really helps..."
-    ch_Name ""
+    ch_Name "Nakakatulong talaga ang ramdam..."
 
 # game/logic/events/jill.rpy:660
 translate philippine Jill_4_label_from_gallery_4db4cff8:
 
     # Jill "So big..."
-    Jill ""
+    Jill "Ang laki..."
 
 # game/logic/events/jill.rpy:661
 translate philippine Jill_4_label_from_gallery_d3a406a6:
 
     # Jill "...and hard!"
-    Jill ""
+    Jill "...at tigas!"
 
 # game/logic/events/jill.rpy:663
 translate philippine Jill_4_label_from_gallery_edfd1465:
@@ -1972,7 +1972,7 @@ translate philippine Jill_4_label_from_gallery_edfd1465:
 translate philippine Jill_4_label_from_gallery_9fbbc8bf:
 
     # ch_Name "Oh my God, that's amazing!"
-    ch_Name ""
+    ch_Name "Diyos ko, napakasarap!"
 
 # game/logic/events/jill.rpy:665
 translate philippine Jill_4_label_from_gallery_92e438ba:
@@ -1984,19 +1984,19 @@ translate philippine Jill_4_label_from_gallery_92e438ba:
 translate philippine Jill_4_label_from_gallery_b240f004:
 
     # ch_Name "Just don't stop!"
-    ch_Name ""
+    ch_Name "'Wag kang titigil!"
 
 # game/logic/events/jill.rpy:668
 translate philippine Jill_4_label_from_gallery_900642b1:
 
     # ch_Name "I will finish soon..."
-    ch_Name ""
+    ch_Name "Matatapos na ako..."
 
 # game/logic/events/jill.rpy:669
 translate philippine Jill_4_label_from_gallery_da46273e:
 
     # ch_Name "What are you doing with me..."
-    ch_Name ""
+    ch_Name "Ano ba ang ginagawa mo sa akin..."
 
 # game/logic/events/jill.rpy:670
 translate philippine Jill_4_label_from_gallery_268c7720:
@@ -2008,165 +2008,165 @@ translate philippine Jill_4_label_from_gallery_268c7720:
 translate philippine Jill_4_label_from_gallery_41378966:
 
     # Jill "See you soon, honey."
-    Jill ""
+    Jill "Hanggang sa muli."
 
 # game/logic/events/jill.rpy:673
 translate philippine Jill_4_label_from_gallery_0b1071a9:
 
     # ch_Name "Leaving so soon?"
-    ch_Name ""
+    ch_Name "Aalis ka na agad?"
 
 # game/logic/events/jill.rpy:675
 translate philippine Jill_4_label_from_gallery_c2d80e31:
 
     # ch_Name "Wait!"
-    ch_Name ""
+    ch_Name "Teka!"
 
 # game/logic/events/jill.rpy:676
 translate philippine Jill_4_label_from_gallery_118fd2f5:
 
     # ch_Name "{i}(What the hell!?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ano ba!?){/i}"
 
 # game/logic/events/jill.rpy:677
 translate philippine Jill_4_label_from_gallery_d91b0073:
 
     # ch_Name "{i}(I'm sure that wasn't a dream!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sigurado akong hindi iyon panaginip!){/i}"
 
 # game/logic/events/jill.rpy:679
 translate philippine Jill_4_label_from_gallery_7b3827be:
 
     # ch_Name "{i}(Something strange is going on.){/i}"
-    ch_Name ""
+    ch_Name "{i}(May kakaibang nangyayari.){/i}"
 
 # game/logic/events/jill.rpy:680
 translate philippine Jill_4_label_from_gallery_8347f762:
 
     # ch_Name "{i}(But nothing stays buried forever.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ngunit walang nananatiling nakabaon magpakailanman.){/i}"
 
 # game/logic/events/jill.rpy:694
 translate philippine Jill_4_label_from_gallery_bc2c8759:
 
     # ch_Name "{i}(I could have sworn I just got jerked off...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Maaari akong sumumpa na ngayon lang ako binigyan ng handjob...){/i}"
 
 # game/logic/events/jill.rpy:695
 translate philippine Jill_4_label_from_gallery_acaf5041:
 
     # ch_Name "{i}(But my dick's still got a boner.){/i}"
-    ch_Name ""
+    ch_Name {i}(Ngunit ang titi ko ay matigas pa rin.){/i}"
 
 # game/logic/events/jill.rpy:696
 translate philippine Jill_4_label_from_gallery_9966d40d:
 
     # ch_Name "{i}(Well, I know a place in this town that can fix that problem.){/i}"
-    ch_Name ""
+    ch_Name "{i}(May alam akong lugar na maaaring ayusin ang problema ko.){/i}"
 
 # game/logic/events/jill.rpy:698
 translate philippine Jill_4_label_from_gallery_eaeb4ab3:
 
     # ch_Name "{i}(It must have gotten late in the evening during the massage.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Maaaring gumabi sa oras ng masahe.){/i}"
 
 # game/logic/events/jill.rpy:699
 translate philippine Jill_4_label_from_gallery_bba9e104:
 
     # ch_Name "{i}(So the club should be open.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kaya dapat bukas ang club.){/i}"
 
 # game/logic/events/jill.rpy:700
 translate philippine Jill_4_label_from_gallery_75b5f98f:
 
     # ch_Name "{i}(That's where I'll go.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Doon ako pupunta.){/i}"
 
 # game/logic/events/jill.rpy:702
 translate philippine Jill_4_label_from_gallery_e079f9a5:
 
     # ch_Name "{i}(And yet it's a strange place.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Gayunpaman, ito ay isang kakaibang lugar.){/i}"
 
 # game/logic/events/jill.rpy:703
 translate philippine Jill_4_label_from_gallery_2464a410:
 
     # ch_Name "{i}(Someday I'll solve the mystery of this spa.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Balang araw malulutas ko ang misteryo ng spa na ito.){/i}"
 
 # game/logic/events/jill.rpy:704
 translate philippine Jill_4_label_from_gallery_13f33a8e:
 
     # ch_Name "{i}(And fuck that naughty masseuse for good.){/i}"
-    ch_Name ""
+    ch_Name "{i}(At kantutin 'yung makulit masahista.){/i}"
 
 # game/logic/events/jill.rpy:710
 translate philippine Jill_4_label_from_gallery_f3d2555a:
 
     # ch_Name "{i}(The evening breeze has a nice chill.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Masarap ang simoy ng hangin sa gabi.){/i}"
 
 # game/logic/events/jill.rpy:711
 translate philippine Jill_4_label_from_gallery_05c1a6ee:
 
     # ch_Name "{i}(Maybe I should take a walk in the streets and get some air.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Siguro dapat akong mamasyal sa mga lansangan at magpahangin.){/i}"
 
 # game/logic/events/jill.rpy:712
 translate philippine Jill_4_label_from_gallery_90c004ce:
 
     # ch_Name "{i}(No, that's nonsense. I have a club and girls waiting for me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi, kalokohan iyon. May club at mga babae na naghihintay sa akin.){/i}"
 
 # game/logic/events/jill.rpy:715
 translate philippine Jill_4_label_from_gallery_9dc70ae3:
 
     # ch_Name "{i}(Who knows, maybe tonight I can win Adele's heart.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sino ang nakakaalam, baka ngayong gabi ay makuha ko ang puso ni Adele.){/i}"
 
 # game/logic/events/jill.rpy:716
 translate philippine Jill_4_label_from_gallery_2c7c2624:
 
     # ch_Name "{i}(She's been letting me know she likes me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ipinapaalam niya sa akin na gusto niya ako.){/i}"
 
 # game/logic/events/jill.rpy:717
 translate philippine Jill_4_label_from_gallery_c5404335:
 
     # ch_Name "{i}(Or does she flirt that way with all the visitors? Hmm...){/i}"
-    ch_Name ""
+    ch_Name "{i}(O nanliligaw ba siya sa lahat ng bisita? Hmm...){/i}"
 
 translate philippine strings:
 
     # game/logic/events/jill.rpy:14
     old "!Order a massage ($75)"
-    new ""
+    new "!Umorder ng masahe ($75)"
 
     # game/logic/events/jill.rpy:14
     old "1 Order a massage ($75)"
-    new ""
+    new "1 Umorder ng masahe ($75)"
 
     # game/logic/events/jill.rpy:14
     old "2 Order a massage ($75)"
-    new ""
+    new "2 Umorder ng masahe ($75)"
 
     # game/logic/events/jill.rpy:14
     old "4 Order a massage ($75)"
-    new ""
+    new "4 Umorder ng masahe ($75)"
 
     # game/logic/events/jill.rpy:14
     old "3 Order a massage"
-    new ""
+    new "3 Umorder ng masahe"
 
     # game/logic/events/jill.rpy:287
     old "Tease her"
-    new ""
+    new "Kulitin siya"
 
     # game/logic/events/jill.rpy:287
     old "Calm her "
-    new ""
+    new "Kalmahin siya"
 
     # game/logic/events/jill.rpy:469
     old "Order a massage ($75)"
-    new ""
+    new "Umorder ng masahe ($75)"
 
