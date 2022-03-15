@@ -3478,13 +3478,13 @@ translate chinese Audrey_7_girl_d1c738d9:
 translate chinese Audrey_7_girl_4ae8e156:
 
     # ch_Name "I'm passing out from fatigue and dizzy..."
-    ch_Name "我因疲劳和眩晕而晕过去了。"
+    ch_Name "我因疲劳和眩晕而晕过去了。。。"
 
 # game/logic/events/audrey.rpy:1086
 translate chinese Audrey_7_girl_632fb309:
 
     # ch_Name "It's hard to concentrate."
-    ch_Name "我因疲劳和眩晕而晕过去了。"
+    ch_Name "很难集中精力。"
 
 # game/logic/events/audrey.rpy:1087
 translate chinese Audrey_7_girl_9caeb230:
@@ -17513,7 +17513,7 @@ translate chinese Audrey_12_shemale_c17eb71e:
 translate chinese Audrey_12_shemale_568c04c4:
 
     # ch_Name "I'm not gonna fuck \"that\"."
-    ch_Name "我不会去他妈的\"那个\"。"
+    ch_Name "我不会去他妈的"那个"。"
 
 # game/logic/events/audrey.rpy:4844
 translate chinese Audrey_12_shemale_7e939e9f:
