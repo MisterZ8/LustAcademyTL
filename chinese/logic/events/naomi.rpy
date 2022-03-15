@@ -6472,7 +6472,7 @@ translate chinese Naomi_10_label_from_gallery_cd255e6d:
 translate chinese Naomi_10_label_from_gallery_51dd65f7:
 
     # Naomi "Oh, [Name]..."
-    Naomi "哦，[name]..."
+    Naomi "哦，[Name]..."
 
 # game/logic/events/naomi.rpy:2060
 translate chinese Naomi_10_label_from_gallery_ab30fdc8:
