@@ -4678,7 +4678,7 @@ translate chinese Samantha_10_label_from_gallery_3448f934:
 translate chinese Samantha_10_label_from_gallery_eb3462bb:
 
     # ch_Name "{i}(I can't believe this is not a dream...){/i}"
-    ch_Name "{i}我不敢相信这不是梦...(){/i}"
+    ch_Name "{i}(我不敢相信这不是梦...){/i}"
 
 # game/logic/events/samantha.rpy:1463
 translate chinese Samantha_10_label_from_gallery_e8eb439f:
