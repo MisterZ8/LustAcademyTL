@@ -5411,7 +5411,7 @@ translate chinese Leona_5_label_4bfd16e0:
 translate chinese Leona_5_label_b3b72ddc:
 
     # Samantha "What's wrong, [Name]?"
-    Samantha "怎么了,[Name]]？"
+    Samantha "怎么了,[Name]？"
 
 # game/logic/events/Leona.rpy:1490
 translate chinese Leona_5_label_532967d7:
