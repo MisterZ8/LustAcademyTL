@@ -9010,7 +9010,7 @@ translate chinese Audrey_9_label_L_26_4c6a6b7e:
 translate chinese Audrey_9_label_L_26_a5010ba7:
 
     # Audrey "Sorry, [Name]."
-    Audrey "对不起，[name]。"
+    Audrey "对不起，[Name]。"
 
 # game/logic/events/audrey.rpy:2717
 translate chinese Audrey_9_label_L_26_4c6c79b5:
