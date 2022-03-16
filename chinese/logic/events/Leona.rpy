@@ -2465,7 +2465,7 @@ translate chinese Leona_2_label_322713b3:
 translate chinese Leona_2_label_027b1c56_1:
 
     # ch_Name "..."
-    ch_Name "..."
+    ch_Name ""
 
 # game/logic/events/Leona.rpy:661
 translate chinese Leona_2_label_f9ada20e:
@@ -3737,7 +3737,7 @@ translate chinese Leona_4_label_986abe15:
 translate chinese Leona_4_label_5128742e:
 
     # Samantha "Oh, [Name], what's the matter with you?"
-    Samantha "哦，[Name]]，你怎么了？"
+    Samantha "哦，[Name]，你怎么了？"
 
 # game/logic/events/Leona.rpy:1058
 translate chinese Leona_4_label_622fe711:
@@ -4631,7 +4631,7 @@ translate chinese Leona_4_label_a3c34039:
 translate chinese Leona_4_label_9e1fb0b6:
 
     # Samantha "This is so wonderful, [Name]!"
-    Samantha "太棒了，[Name]]！"
+    Samantha "太棒了，[Name]！"
 
 # game/logic/events/Leona.rpy:1296
 translate chinese Leona_4_label_de60e426:
