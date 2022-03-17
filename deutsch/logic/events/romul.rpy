@@ -4,109 +4,109 @@
 translate deutsch romul_1_label_2691b779:
 
     # ch_Name "{i}(Did I really just I've spent almost all day fishing?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Habe ich wirklich gerade fast den ganzen Tag mit Angeln verbracht??){/i}"
 
 # game/logic/events/romul.rpy:50
 translate deutsch romul_1_label_d44b864b:
 
     # ch_Name "{i}(That's not how crazy weekends should look like!){/i}"
-    ch_Name ""
+    ch_Name "{i}(So sollten verrückte Wochenenden nicht aussehen!){/i}"
 
 # game/logic/events/romul.rpy:53
 translate deutsch romul_1_label_2748a5e2:
 
     # ch_Name "{i}(Man, It's not that late. I still have time to save this day from being ratshit.){/i}"
-    ch_Name ""
+    ch_Name "{i}(..., es ist noch nicht so spät. Ich habe noch Zeit, diesen Scheißtag zu retten.){/i}"
 
 # game/logic/events/romul.rpy:54
 translate deutsch romul_1_label_27504075:
 
     # ch_Name "{i}(Maybe I should visit a club Elijah was talking about?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vielleicht sollte ich den Club besuchen, von dem Elijah gesprochen hat?){/i}"
 
 # game/logic/events/romul.rpy:58
 translate deutsch romul_1_label_6c3ba351:
 
     # ch_Name "{i}(Lady's Luck? I think it's the place he told me about.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Lady's Luck? Ich glaube, das ist der Ort, von dem er geredet hat.){/i}"
 
 # game/logic/events/romul.rpy:59
 translate deutsch romul_1_label_7ab5a3b8:
 
     # ch_Name "{i}(Looks kind of creepy, but if Elijah was fine here, what can happen to me?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sieht irgendwie gruselig aus, aber wenn es Elijah hier gut ging, was kann mir dann schon passieren?){/i}"
 
 # game/logic/events/romul.rpy:60
 translate deutsch romul_1_label_e47f2d22:
 
     # ch_Name "{i}(Man, that dude looks huge. No wonder he's a bouncer.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mann, der Kerl sieht riesig aus. Kein Wunder, dass er ein Türsteher ist.){/i}"
 
 # game/logic/events/romul.rpy:62
 translate deutsch romul_1_label_71043eb2:
 
     # ch_Name "{i}(It seems not everyone is welcome here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Es scheint, dass nicht jeder hier willkommen ist.){/i}"
 
 # game/logic/events/romul.rpy:64
 translate deutsch romul_1_label_2abacd12:
 
     # Romul "Are you in a hurry, young man?"
-    Romul ""
+    Romul "Hast du es etwa eilig, junger Mann?"
 
 # game/logic/events/romul.rpy:65
 translate deutsch romul_1_label_3724fb11:
 
     # ch_Name "Just exploring the neighborhood."
-    ch_Name ""
+    ch_Name "Ich erkunde nur die Gegend."
 
 # game/logic/events/romul.rpy:66
 translate deutsch romul_1_label_ad4fe6b2:
 
     # ch_Name "Thought about checking out the club."
-    ch_Name ""
+    ch_Name "Ich dachte daran, den Club zu besuchen."
 
 # game/logic/events/romul.rpy:68
 translate deutsch romul_1_label_88b5c09a:
 
     # Romul "Go get another walk under the fresh air, little man."
-    Romul ""
+    Romul "Geh noch einmal an der frischen Luft spazieren, kleiner Mann."
 
 # game/logic/events/romul.rpy:69
 translate deutsch romul_1_label_bc58a3f5:
 
     # Romul "You're not going in."
-    Romul ""
+    Romul "Du kommst hier nicht rein."
 
 # game/logic/events/romul.rpy:70
 translate deutsch romul_1_label_95628a0e:
 
     # ch_Name "Why not?!"
-    ch_Name ""
+    ch_Name "Warum nicht?"
 
 # game/logic/events/romul.rpy:72
 translate deutsch romul_1_label_ad5df1e9:
 
     # Romul "You don't meet the standards."
-    Romul ""
+    Romul "Du erfüllst die Vorgaben nicht."
 
 # game/logic/events/romul.rpy:73
 translate deutsch romul_1_label_0791b685:
 
     # ch_Name "What standards?!"
-    ch_Name ""
+    ch_Name "Welche Vorgaben?!"
 
 # game/logic/events/romul.rpy:74
 translate deutsch romul_1_label_befdafa1:
 
     # Romul "My personal standards."
-    Romul ""
+    Romul "Meine persönlichen."
 
 # game/logic/events/romul.rpy:75
 translate deutsch romul_1_label_7769b9e5:
 
     # Romul "I don't like your face."
-    Romul ""
+    Romul "Ich mag dein Gesicht nicht."
 
 # game/logic/events/romul.rpy:77
 translate deutsch romul_1_label_5982560d:
