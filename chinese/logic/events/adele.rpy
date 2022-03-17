@@ -7684,7 +7684,7 @@ translate chinese adele_4_label_5e9867b9:
 translate chinese adele_4_label_90ca88a4:
 
     # ch_Name "Hey. I asked you out."
-    ch_Name "让我向你求爱？"
+    ch_Name "嘿，我约你出去了。"
 
 # game/logic/events/adele.rpy:2335
 translate chinese adele_4_label_f80b27b8:
