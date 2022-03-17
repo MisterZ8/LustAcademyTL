@@ -8509,7 +8509,7 @@ translate chinese Leona_9_label_b66d3f96:
 translate chinese Leona_9_label_44d65db4_1:
 
     # Jacob "Petrificus guttur!"
-    Jacob ""
+    Jacob "Petrificus guttur！"
 
 # game/logic/events/Leona.rpy:2255
 translate chinese Leona_9_label_f699b0d6:
