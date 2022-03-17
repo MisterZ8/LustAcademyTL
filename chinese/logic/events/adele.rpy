@@ -4162,7 +4162,7 @@ translate chinese vip_sadira_1_label_1_cda1ab7f:
 translate chinese vip_sadira_1_label_2_f1a178e1:
 
     # Sadira "And you're a naughty boy..."
-    Sadira ""
+    Sadira "而你是一个顽皮的孩子。。。"
 
 # game/logic/events/adele.rpy:1371
 translate chinese vip_sadira_1_label_2_9ffeeb0e:
