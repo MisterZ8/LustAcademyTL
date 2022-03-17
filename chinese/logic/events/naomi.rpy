@@ -6394,7 +6394,7 @@ translate chinese Naomi_10_label_from_gallery_573b1b4c:
 translate chinese Naomi_10_label_from_gallery_cbe34110:
 
     # Naomi "Come on, [Name]."
-    Naomi "来吧，[name]。"
+    Naomi "来吧，[Name]。"
 
 # game/logic/events/naomi.rpy:2042
 translate chinese Naomi_10_label_from_gallery_63e32bc4:
@@ -6472,7 +6472,7 @@ translate chinese Naomi_10_label_from_gallery_cd255e6d:
 translate chinese Naomi_10_label_from_gallery_51dd65f7:
 
     # Naomi "Oh, [Name]..."
-    Naomi "哦，[name]..."
+    Naomi "哦，[Name]..."
 
 # game/logic/events/naomi.rpy:2060
 translate chinese Naomi_10_label_from_gallery_ab30fdc8:
@@ -6502,7 +6502,7 @@ translate chinese Naomi_10_label_from_gallery_b90b0874:
 translate chinese Naomi_10_label_from_gallery_51dd65f7_1:
 
     # Naomi "Oh, [Name]..."
-    Naomi "哦，[name]..."
+    Naomi "哦，[Name]..."
 
 # game/logic/events/naomi.rpy:2067
 translate chinese Naomi_10_label_from_gallery_5a138b57:
