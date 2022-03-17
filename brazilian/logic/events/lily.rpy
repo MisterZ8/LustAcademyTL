@@ -3400,19 +3400,19 @@ translate brazilian lily_events_5_label_3_4bbad52a:
 translate brazilian lily_events_5_label_3_22baf82d:
 
     # ch_Name "{i}(I want to caress every part of your body.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Quero acariciar cada parte do seu corpo.){/i}"
 
 # game/logic/events/lily.rpy:1201
 translate brazilian lily_events_5_label_3_9c1d018a:
 
     # ch_Name "{i}(And especially those fingers...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Especialmente esses dedos...){/i}"
 
 # game/logic/events/lily.rpy:1203
 translate brazilian lily_events_5_label_3_e7d14d5c:
 
     # ch_Name "{i}(Your scent gives me an animal passion.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Seu cheiro me desperta uma paixão animalesca.){/i}"
 
 # game/logic/events/lily.rpy:1205
 translate brazilian lily_events_5_label_3_c20f2aa1:
@@ -3424,19 +3424,19 @@ translate brazilian lily_events_5_label_3_c20f2aa1:
 translate brazilian lily_events_5_label_3_06fb5783:
 
     # ch_Name "{i}(Does that tickles, Lily?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Faz cócegas, Lily?){/i}"
 
 # game/logic/events/lily.rpy:1209
 translate brazilian lily_events_5_label_3_8f854a62:
 
     # ch_Name "{i}(I'm sorry.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Desculpe.){/i}"
 
 # game/logic/events/lily.rpy:1211
 translate brazilian lily_events_5_label_3_40634567:
 
     # ch_Name "{i}(Got too playful with my tongue...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Me empolguei com minha língua...){/i}"
 
 # game/logic/events/lily.rpy:1214
 translate brazilian lily_events_5_label_3_162_37c7c5e2:
@@ -3448,409 +3448,409 @@ translate brazilian lily_events_5_label_3_162_37c7c5e2:
 translate brazilian lily_events_5_label_3_162_d854112a:
 
     # ch_Name "{i}(Damn, I think she's gonna wake up any minute.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Droga, acho que ela vai acordar a qualquer instante.){/i}"
 
 # game/logic/events/lily.rpy:1216
 translate brazilian lily_events_5_label_3_162_03d6a422:
 
     # ch_Name "{i}(Better get out of here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Melhor eu sair daqui.){/i}"
 
 # game/logic/events/lily.rpy:1232
 translate brazilian Lily_6_label_a32e20da:
 
     # ch_Name "Hi there, beautiful!"
-    ch_Name ""
+    ch_Name "Olá, linda!"
 
 # game/logic/events/lily.rpy:1233
 translate brazilian Lily_6_label_a2290a3a:
 
     # Lily "Hello!"
-    Lily ""
+    Lily "Oi!"
 
 # game/logic/events/lily.rpy:1235
 translate brazilian Lily_6_label_a55b9bde:
 
     # ch_Name "What are you doing, getting ready for class?"
-    ch_Name ""
+    ch_Name "O que está fazendo, se preparando para aula?"
 
 # game/logic/events/lily.rpy:1236
 translate brazilian Lily_6_label_73aeb29d:
 
     # Lily "Yeah, kind of."
-    Lily ""
+    Lily "Sim, mais ou menos."
 
 # game/logic/events/lily.rpy:1238
 translate brazilian Lily_6_label_5e5d2aa9:
 
     # Lily "Miss Spellman asked me to help harvest herbs for potions."
-    Lily ""
+    Lily "Srta. Spellman me pediu para ajudá-la a colher ervas para poções."
 
 # game/logic/events/lily.rpy:1239
 translate brazilian Lily_6_label_464abe91:
 
     # Lily "We're going to the Forbidden magical forest!"
-    Lily ""
+    Lily "Nós vamos para a floresta mágica proibida!"
 
 # game/logic/events/lily.rpy:1240
 translate brazilian Lily_6_label_afc12ee5:
 
     # Lily "I'm so excited!"
-    Lily ""
+    Lily "Estou tão empolgada!"
 
 # game/logic/events/lily.rpy:1241
 translate brazilian Lily_6_label_93a1d830:
 
     # ch_Name "{i}(She'll have to spend all day in the woods feeding mosquitoes...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela vai ter que passar o dia inteiro na floresta alimentando mosquitos...){/i}"
 
 # game/logic/events/lily.rpy:1243
 translate brazilian Lily_6_label_4d6554e1:
 
     # ch_Name "I don't know what you're so excited about. Isn't it dangerous?"
-    ch_Name ""
+    ch_Name "Não sei porque você está tão empolgada. Não é perigoso?"
 
 # game/logic/events/lily.rpy:1245
 translate brazilian Lily_6_label_b8e5cc5a:
 
     # Lily "With Miss Spellman? Of course not."
-    Lily ""
+    Lily "Com Srta. Spellman? Com certeza, não."
 
 # game/logic/events/lily.rpy:1246
 translate brazilian Lily_6_label_25fb5cf8:
 
     # Lily "I'm sure it would help enhance Leonheart's reputation."
-    Lily ""
+    Lily "Tenho certeza que vai ajudar na reputação de Leonheart."
 
 # game/logic/events/lily.rpy:1248
 translate brazilian Lily_6_label_a4bef3f4:
 
     # ch_Name "{i}(There she goes again...){/i}"
-    ch_Name ""
+    ch_Name "{i}(E lá vai ela de novo...){/i}"
 
 # game/logic/events/lily.rpy:1249
 translate brazilian Lily_6_label_e91f4525:
 
     # ch_Name "So that's your motive. I see."
-    ch_Name ""
+    ch_Name "Então esse é seu motivos. Saquei."
 
 # game/logic/events/lily.rpy:1251
 translate brazilian Lily_6_label_91b89b6a:
 
     # Lily "Oh, I'm so rude... Do you want to join us?"
-    Lily ""
+    Lily "Oh, sou tão rude... Quer ir conosco?"
 
 # game/logic/events/lily.rpy:1252
 translate brazilian Lily_6_label_c004c028:
 
     # ch_Name "{i}(I don't think I have anything else planned for today.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Acho que não tenho nada mais programado para hoje.){/i}"
 
 # game/logic/events/lily.rpy:1254
 translate brazilian Lily_6_label_77ebd183:
 
     # ch_Name "Yes. Why not?"
-    ch_Name ""
+    ch_Name "Sim. Por que não?"
 
 # game/logic/events/lily.rpy:1255
 translate brazilian Lily_6_label_5b5f6282:
 
     # Lily "Really? That's great! I'm so excited!"
-    Lily ""
+    Lily "Mesmo? Que ótimo! Estou tão empolgada!"
 
 # game/logic/events/lily.rpy:1256
 translate brazilian Lily_6_label_f948608f:
 
     # Lily "I just have to ask Miss Spellman."
-    Lily ""
+    Lily "Só preciso pedir a Srta. Spellman."
 
 # game/logic/events/lily.rpy:1258
 translate brazilian Lily_6_label_5e22096a:
 
     # Sabrina "Ask me what?"
-    Sabrina ""
+    Sabrina "Pedir o quê?"
 
 # game/logic/events/lily.rpy:1259
 translate brazilian Lily_6_label_ba016978:
 
     # Lily "Can [Name] come pick up the ingredients with us?"
-    Lily ""
+    Lily "[Name] pode ir com a gente colher os ingredientes?"
 
 # game/logic/events/lily.rpy:1261
 translate brazilian Lily_6_label_3506ff65:
 
     # Sabrina "So that's what!"
-    Sabrina ""
+    Sabrina "Então é isso!"
 
 # game/logic/events/lily.rpy:1262
 translate brazilian Lily_6_label_747c0c0c:
 
     # Sabrina "I didn't know you were interested in herbalism [Name]."
-    Sabrina ""
+    Sabrina "Não sabia que estava interessado em herbalismo, [Name]."
 
 # game/logic/events/lily.rpy:1263
 translate brazilian Lily_6_label_86249e7f:
 
     # ch_Name "He-he. I'm still searching for my calling."
-    ch_Name ""
+    ch_Name "He, he. Ainda estou procurando minha vocação."
 
 # game/logic/events/lily.rpy:1265
 translate brazilian Lily_6_label_6254ec04:
 
     # Sabrina "Well, I don't mind."
-    Sabrina ""
+    Sabrina "Bem, eu não me incomodo."
 
 # game/logic/events/lily.rpy:1266
 translate brazilian Lily_6_label_f20e68c3:
 
     # Sabrina "The more hands, the more ingredients."
-    Sabrina ""
+    Sabrina "Mais mãos, mais ingredientes."
 
 # game/logic/events/lily.rpy:1267
 translate brazilian Lily_6_label_cc8d8c28:
 
     # Lily "Hooray!"
-    Lily ""
+    Lily "Oba!"
 
 # game/logic/events/lily.rpy:1269
 translate brazilian Lily_6_label_ad36d64b:
 
     # Sabrina "Let's not waste any time! Follow me, guys."
-    Sabrina ""
+    Sabrina "Não vamos perder tempo! Sigam-me, pessoal."
 
 # game/logic/events/lily.rpy:1270
 translate brazilian Lily_6_label_798cea37:
 
     # Lily "Come on, [Name]!"
-    Lily ""
+    Lily "Vamos, [Name]!"
 
 # game/logic/events/lily.rpy:1274
 translate brazilian Lily_6_label_bd81e0dd:
 
     # ch_Name "{i}(I thought the woods are closer to the academy...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Achei que a floresta era mais perto da academia...){/i}"
 
 # game/logic/events/lily.rpy:1275
 translate brazilian Lily_6_label_a7f09be5:
 
     # ch_Name "{i}(I'm already a little tired even in sneakers.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Já estou um pouco cansado, mesmo de tênis.){/i}"
 
 # game/logic/events/lily.rpy:1276
 translate brazilian Lily_6_label_dbad8184:
 
     # ch_Name "{i}(I wonder if Sabrina and Lily are comfortable walking in those high-heels shoes.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Imagino se Sabrina e Lily estão confortáveis andando naqueles saltos altos.){/i}"
 
 # game/logic/events/lily.rpy:1278
 translate brazilian Lily_6_label_49fb7f9c:
 
     # Sabrina "Hmmm, you know what?"
-    Sabrina ""
+    Sabrina "Hmmm, sabe de uma coisa?"
 
 # game/logic/events/lily.rpy:1279
 translate brazilian Lily_6_label_7a50b7bb:
 
     # Lily "What?"
-    Lily ""
+    Lily "O quê?"
 
 # game/logic/events/lily.rpy:1280
 translate brazilian Lily_6_label_1855220c:
 
     # ch_Name "What?"
-    ch_Name ""
+    ch_Name "O quê?"
 
 # game/logic/events/lily.rpy:1281
 translate brazilian Lily_6_label_3faeca20:
 
     # Sabrina "I have an idea!"
-    Sabrina ""
+    Sabrina "Tenho uma ideia!"
 
 # game/logic/events/lily.rpy:1283
 translate brazilian Lily_6_label_7db13270:
 
     # Sabrina "Since we have extra hands, we can do something more efficient with you."
-    Sabrina ""
+    Sabrina "Já que temos mãos extras, podemos fazer algo mais eficiente com vocês."
 
 # game/logic/events/lily.rpy:1284
 translate brazilian Lily_6_label_ae9ed303:
 
     # Sabrina "If we split up now, I'll go gather the bloodblossom."
-    Sabrina ""
+    Sabrina "Se nos separarmos agora, eu vou pegar a {i}Flor de Sangue{/i}."
 
 # game/logic/events/lily.rpy:1285
 translate brazilian Lily_6_label_98f0c3eb:
 
     # Sabrina "And the two of you will gather the dragon berries."
-    Sabrina ""
+    Sabrina "E vocês dois vão pegar as {i}Bagas de Dragão{/i}."
 
 # game/logic/events/lily.rpy:1286
 translate brazilian Lily_6_label_4b71d5e4:
 
     # Lily "Sounds simple."
-    Lily ""
+    Lily "Parece simples."
 
 # game/logic/events/lily.rpy:1288
 translate brazilian Lily_6_label_d3744f11:
 
     # Sabrina "Here, [Name], take this."
-    Sabrina ""
+    Sabrina "Aqui, [Name], tome isso."
 
 # game/logic/events/lily.rpy:1289
 translate brazilian Lily_6_label_76cba302:
 
     # ch_Name "What's this?"
-    ch_Name ""
+    ch_Name "O que é isso?"
 
 # game/logic/events/lily.rpy:1291
 translate brazilian Lily_6_label_92e2c656:
 
     # Sabrina "It's a magic compass."
-    Sabrina ""
+    Sabrina "Uma bússola mágica."
 
 # game/logic/events/lily.rpy:1292
 translate brazilian Lily_6_label_0368b280:
 
     # Sabrina "It's very easy to get lost in a magical forest."
-    Sabrina ""
+    Sabrina "É muito fácil se perder em uma floresta mágica."
 
 # game/logic/events/lily.rpy:1293
 translate brazilian Lily_6_label_55227f74:
 
     # Sabrina "And this compass will always show you a safe way."
-    Sabrina ""
+    Sabrina "E essa bússola vai sempre indicar um caminho seguro."
 
 # game/logic/events/lily.rpy:1294
 translate brazilian Lily_6_label_48503569:
 
     # Sabrina "Follow its pointers and pick berries."
-    Sabrina ""
+    Sabrina "Siga suas indicações e peguem as bagas."
 
 # game/logic/events/lily.rpy:1296
 translate brazilian Lily_6_label_cdfcf2a3:
 
     # ch_Name "It vibrates slightly... {w} Is that supposed to be like that?"
-    ch_Name ""
+    ch_Name "Vibrou um pouco...{w} Era para fazer isso?"
 
 # game/logic/events/lily.rpy:1297
 translate brazilian Lily_6_label_b143b37f:
 
     # Sabrina "Yes, it's living magic."
-    Sabrina ""
+    Sabrina "Sim, é magia viva."
 
 # game/logic/events/lily.rpy:1299
 translate brazilian Lily_6_label_9de067b9:
 
     # Lily "Don't worry, Miss Spellman."
-    Lily ""
+    Lily "Não se preocupe, Srta. Spellman."
 
 # game/logic/events/lily.rpy:1300
 translate brazilian Lily_6_label_12bde992:
 
     # Lily "Everything's gonna be just fine."
-    Lily ""
+    Lily "Tudo vai correr bem."
 
 # game/logic/events/lily.rpy:1302
 translate brazilian Lily_6_label_f44161ae:
 
     # Sabrina "Good luck, guys!"
-    Sabrina ""
+    Sabrina "Boa sorte, pessoal!"
 
 # game/logic/events/lily.rpy:1303
 translate brazilian Lily_6_label_b430af35:
 
     # ch_Name "{i}(Let's see where this thing takes us...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vamos ver aonde essa coisa vai nos levar...){/i}"
 
 # game/logic/events/lily.rpy:1306
 translate brazilian Lily_6_label_d4e2d5d9:
 
     # ch_Name "{i}(The terrain seems to be starting to change a bit.){/i}"
-    ch_Name ""
+    ch_Name "{i}(O terreno parece estar mudando um pouco.){/i}"
 
 # game/logic/events/lily.rpy:1307
 translate brazilian Lily_6_label_303f41c3:
 
     # ch_Name "Oh, Lily, look, there are the berries!"
-    ch_Name ""
+    ch_Name "Oh, Lily, olha, lá estão as bagas!"
 
 # game/logic/events/lily.rpy:1308
 translate brazilian Lily_6_label_a6aa15ee:
 
     # Lily "I'll get them now."
-    Lily ""
+    Lily "Vou pegar elas."
 
 # game/logic/events/lily.rpy:1310
 translate brazilian Lily_6_label_4f3936c7:
 
     # ch_Name "{i}(Lily is picking berries so diligently, one might envy her dedication.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Lily está guardando as bagas tão cuidadosamente. Devemos invejar sua dedicação.){/i}"
 
 # game/logic/events/lily.rpy:1311
 translate brazilian Lily_6_label_00c05db4:
 
     # Lily "There don't seem to be any more here. Let's look for more."
-    Lily ""
+    Lily "Não parece ter mais aqui. Vamos procurar por mais."
 
 # game/logic/events/lily.rpy:1313
 translate brazilian Lily_6_label_e0cb0742:
 
     # ch_Name "The compass is pointing that way, let's go."
-    ch_Name ""
+    ch_Name "A bússola está apontando para esse direção, vamos."
 
 # game/logic/events/lily.rpy:1314
 translate brazilian Lily_6_label_52c0f765:
 
     # Lily "Okay."
-    Lily ""
+    Lily "Ok."
 
 # game/logic/events/lily.rpy:1316
 translate brazilian Lily_6_label_dd7b7f45:
 
     # Lily "Oh, look at those flowers!"
-    Lily ""
+    Lily "Oh, olha aquelas flores!"
 
 # game/logic/events/lily.rpy:1317
 translate brazilian Lily_6_label_1aeaa9d7:
 
     # ch_Name "{i}(I thought we were only picking berries.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Achei que estávamos apenas colhendo bagas.){/i}"
 
 # game/logic/events/lily.rpy:1318
 translate brazilian Lily_6_label_43988435:
 
     # ch_Name "{i}(Oh, well, I think she knows better.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ah, bem, ela sabe o que está fazendo.){/i}"
 
 # game/logic/events/lily.rpy:1319
 translate brazilian Lily_6_label_19e8f1bd:
 
     # Lily "Let's keep going!"
-    Lily ""
+    Lily "Vamos continuar!"
 
 # game/logic/events/lily.rpy:1321
 translate brazilian Lily_6_label_8996b4be:
 
     # ch_Name "Alright, baby."
-    ch_Name ""
+    ch_Name "Tudo bem, querida."
 
 # game/logic/events/lily.rpy:1323
 translate brazilian Lily_6_label_38f058ec:
 
     # ch_Name "Let's see where the compass is pointing."
-    ch_Name ""
+    ch_Name "Vamos ver para onde a bússola está apontando."
 
 # game/logic/events/lily.rpy:1324
 translate brazilian Lily_6_label_1cc63c88:
 
     # ch_Name "I think we need to go further..."
-    ch_Name ""
+    ch_Name "Acho que precisamos ir mais adiante..."
 
 # game/logic/events/lily.rpy:1326
 translate brazilian Lily_6_label_c1a2e863:
 
     # ch_Name "Oh, shit!"
-    ch_Name ""
+    ch_Name "Oh, merda!"
 
 # game/logic/events/lily.rpy:1327
 translate brazilian Lily_6_label_3ae85756:
@@ -3862,13 +3862,13 @@ translate brazilian Lily_6_label_3ae85756:
 translate brazilian Lily_6_label_282dc9cd:
 
     # Lily "Are you all right?"
-    Lily ""
+    Lily "Você está bem?"
 
 # game/logic/events/lily.rpy:1330
 translate brazilian Lily_6_label_ab477d1b:
 
     # ch_Name "I am. {w} But look at the compass..."
-    ch_Name ""
+    ch_Name "Estou. {w} Mas olha a bússola..."
 
 # game/logic/events/lily.rpy:1331
 translate brazilian Lily_6_label_aaacf40e:
@@ -3880,265 +3880,265 @@ translate brazilian Lily_6_label_aaacf40e:
 translate brazilian Lily_6_label_c4dd1805:
 
     # Lily "[Name], what are we going to do?"
-    Lily ""
+    Lily "[Name], o que vamos fazer?"
 
 # game/logic/events/lily.rpy:1334
 translate brazilian Lily_6_label_b94b3d81:
 
     # Lily "Without the compass, we don't know where to go..."
-    Lily ""
+    Lily "Sem a bússola, não sabemos para onde ir..."
 
 # game/logic/events/lily.rpy:1336
 translate brazilian Lily_6_label_044c0bd5:
 
     # ch_Name "Wait a minute."
-    ch_Name ""
+    ch_Name "Espere um momento."
 
 # game/logic/events/lily.rpy:1337
 translate brazilian Lily_6_label_b88408f9:
 
     # ch_Name "I need to think."
-    ch_Name ""
+    ch_Name "Preciso pensar."
 
 # game/logic/events/lily.rpy:1338
 translate brazilian Lily_6_label_47f8b6a1:
 
     # ch_Name "There's got to be a way out of these woods, right?"
-    ch_Name ""
+    ch_Name "Tem que ter uma saída dessa floresta, certo?"
 
 # game/logic/events/lily.rpy:1339
 translate brazilian Lily_6_label_c35de0bd:
 
     # Lily "I guess..."
-    Lily ""
+    Lily "Imagino..."
 
 # game/logic/events/lily.rpy:1341
 translate brazilian Lily_6_label_b8a2ee9b:
 
     # ch_Name "I know!"
-    ch_Name ""
+    ch_Name "Já sei!"
 
 # game/logic/events/lily.rpy:1342
 translate brazilian Lily_6_label_fe40cb0c:
 
     # ch_Name "Let's trace our footsteps back!"
-    ch_Name ""
+    ch_Name "Vamos seguir nossas pegadas de volta!"
 
 # game/logic/events/lily.rpy:1343
 translate brazilian Lily_6_label_7e1b84eb:
 
     # Lily "I don't know..."
-    Lily ""
+    Lily "Eu não sei..."
 
 # game/logic/events/lily.rpy:1344
 translate brazilian Lily_6_label_7aec9173:
 
     # Lily "Are you sure we're gonna remember how we got here?"
-    Lily ""
+    Lily "Tem certeza que vamos lembrar como chegamos aqui?"
 
 # game/logic/events/lily.rpy:1346
 translate brazilian Lily_6_label_ada5c0da:
 
     # ch_Name "Totally."
-    ch_Name ""
+    ch_Name "Totalmente."
 
 # game/logic/events/lily.rpy:1347
 translate brazilian Lily_6_label_991a74db:
 
     # ch_Name "{i}(Not really.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não necessariamente.){/i}"
 
 # game/logic/events/lily.rpy:1349
 translate brazilian Lily_6_label_56b7cbc5:
 
     # ch_Name "{i}(What's she so worried about?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Com o que ela está se preocupando tanto?){/i}"
 
 # game/logic/events/lily.rpy:1350
 translate brazilian Lily_6_label_5426e6a2:
 
     # ch_Name "{i}(What can happen in the woods?){/i}"
-    ch_Name ""
+    ch_Name "{i}(O que pode acontecer na floresta?){/i}"
 
 # game/logic/events/lily.rpy:1359
 translate brazilian Lily_6_label_from_gallery_182d7862:
 
     # Lily "Whoa..."
-    Lily ""
+    Lily "Eita..."
 
 # game/logic/events/lily.rpy:1360
 translate brazilian Lily_6_label_from_gallery_00b5e4d9:
 
     # ch_Name "Wow!"
-    ch_Name ""
+    ch_Name "Uau!"
 
 # game/logic/events/lily.rpy:1361
 translate brazilian Lily_6_label_from_gallery_2e19c88f:
 
     # Lily "What is this wonderful place?"
-    Lily ""
+    Lily "O que é esse lugar maravilhoso?"
 
 # game/logic/events/lily.rpy:1363
 translate brazilian Lily_6_label_from_gallery_963642fc:
 
     # ch_Name "I have no idea..."
-    ch_Name ""
+    ch_Name "Não faço ideia..."
 
 # game/logic/events/lily.rpy:1364
 translate brazilian Lily_6_label_from_gallery_4cc2f540:
 
     # Lily "It's so beautiful..."
-    Lily ""
+    Lily "É tão bonito..."
 
 # game/logic/events/lily.rpy:1365
 translate brazilian Lily_6_label_from_gallery_7714090c:
 
     # ch_Name "It's beautiful, it's true."
-    ch_Name ""
+    ch_Name "É lindo, é verdade."
 
 # game/logic/events/lily.rpy:1366
 translate brazilian Lily_6_label_from_gallery_2e4a0f3a:
 
     # ch_Name "{i}(But this place makes me feel uncomfortable.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas esse lugar me faz sentir desconfortável.){/i}"
 
 # game/logic/events/lily.rpy:1368
 translate brazilian Lily_6_label_from_gallery_da40774e:
 
     # Lily "Have you ever seen something so beautiful?"
-    Lily ""
+    Lily "Já viu alguma coisa tão bonita?"
 
 # game/logic/events/lily.rpy:1369
 translate brazilian Lily_6_label_from_gallery_083c9641:
 
     # Lily "Shall we go closer?"
-    Lily ""
+    Lily "Devemos chegar mais perto?"
 
 # game/logic/events/lily.rpy:1371
 translate brazilian Lily_6_label_from_gallery_8bcb1360:
 
     # ch_Name "Lily, wait!"
-    ch_Name ""
+    ch_Name "Lily, espera!"
 
 # game/logic/events/lily.rpy:1372
 translate brazilian Lily_6_label_from_gallery_54c2844f:
 
     # ch_Name "I don't think it's a good idea to go there..."
-    ch_Name ""
+    ch_Name "Não acho que é uma boa ideia ir até lá..."
 
 # game/logic/events/lily.rpy:1373
 translate brazilian Lily_6_label_from_gallery_06c8a7db:
 
     # ch_Name "It's definitely not that way."
-    ch_Name ""
+    ch_Name "Definitivamente não é o caminho."
 
 # game/logic/events/lily.rpy:1375
 translate brazilian Lily_6_label_from_gallery_17588095:
 
     # Lily "Come on! Look how beautiful it is."
-    Lily ""
+    Lily "Vamos! Olha como é lindo."
 
 # game/logic/events/lily.rpy:1376
 translate brazilian Lily_6_label_from_gallery_131b1265:
 
     # Lily "Why would you want to go back to the boring woods?"
-    Lily ""
+    Lily "Por que iria querer voltar para a floresta chata?"
 
 # game/logic/events/lily.rpy:1377
 translate brazilian Lily_6_label_from_gallery_ff1f472f:
 
     # Lily "I don't think we'll remember the way back."
-    Lily ""
+    Lily "Não acho que vamos lembrar o caminho de volta."
 
 # game/logic/events/lily.rpy:1379
 translate brazilian Lily_6_label_from_gallery_4d50dd8e:
 
     # Lily "It's best to wait for help."
-    Lily ""
+    Lily "É melhor esperar por ajuda."
 
 # game/logic/events/lily.rpy:1380
 translate brazilian Lily_6_label_from_gallery_8b8cfd15:
 
     # Lily "So why not in a nice place like this?"
-    Lily ""
+    Lily "Então por que não esperar em um lugar legal assim?"
 
 # game/logic/events/lily.rpy:1382
 translate brazilian Lily_6_label_from_gallery_3a7d0cad:
 
     # ch_Name "All right. Maybe you're right."
-    ch_Name ""
+    ch_Name "Tudo bem. Você deve estar certa."
 
 # game/logic/events/lily.rpy:1383
 translate brazilian Lily_6_label_from_gallery_0cd6b98f:
 
     # Lily "You'll see I'm right!"
-    Lily ""
+    Lily "Vai ver que estou certa!"
 
 # game/logic/events/lily.rpy:1385
 translate brazilian Lily_6_label_from_gallery_bb6180b4:
 
     # ch_Name "This is so unusual. Where did the light come from?"
-    ch_Name ""
+    ch_Name "Isso é tão incomum. De onde vem a luz?"
 
 # game/logic/events/lily.rpy:1386
 translate brazilian Lily_6_label_from_gallery_edb58538:
 
     # Lily "It's like some kind of magic."
-    Lily ""
+    Lily "É como se fosse mágica."
 
 # game/logic/events/lily.rpy:1387
 translate brazilian Lily_6_label_from_gallery_c916779b:
 
     # Lily "Do you think someone lives here?"
-    Lily ""
+    Lily "Você acha que alguém vive por aqui?"
 
 # game/logic/events/lily.rpy:1389
 translate brazilian Lily_6_label_from_gallery_3daf6173:
 
     # ch_Name "If so, it doesn't look like he's home."
-    ch_Name ""
+    ch_Name "Se sim, não parecem estar em casa."
 
 # game/logic/events/lily.rpy:1390
 translate brazilian Lily_6_label_from_gallery_89419d28:
 
     # ch_Name "{i}(I'm just now realizing how tired I am.){/i}"
-    ch_Name ""
+    ch_Name "{i](Estou percebendo agora o quanto estou cansado.){/i}"
 
 # game/logic/events/lily.rpy:1392
 translate brazilian Lily_6_label_from_gallery_a7fc4a8b:
 
     # ch_Name "{i}(Is Lily tired too?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Lily está cansada também?){/i}"
 
 # game/logic/events/lily.rpy:1393
 translate brazilian Lily_6_label_from_gallery_66cdcb01:
 
     # Lily "Sorry..."
-    Lily ""
+    Lily "Desculpe..."
 
 # game/logic/events/lily.rpy:1395
 translate brazilian Lily_6_label_from_gallery_13b09741:
 
     # ch_Name "Nevermind..."
-    ch_Name ""
+    ch_Name "Bobagem..."
 
 # game/logic/events/lily.rpy:1396
 translate brazilian Lily_6_label_from_gallery_606cc39a:
 
     # ch_Name "I think your yawn made me yawn too."
-    ch_Name ""
+    ch_Name "Acho que se bocejo me fez bocejar também."
 
 # game/logic/events/lily.rpy:1398
 translate brazilian Lily_6_label_from_gallery_dcaf3092:
 
     # Lily "Hee-hee-hee."
-    Lily ""
+    Lily "Hi, hi, hi."
 
 # game/logic/events/lily.rpy:1399
 translate brazilian Lily_6_label_from_gallery_32946264:
 
     # Lily "You're cute."
-    Lily ""
+    Lily "Você é fofo."
 
 # game/logic/events/lily.rpy:1401
 translate brazilian Lily_6_label_from_gallery_92da4a66:
@@ -4150,259 +4150,259 @@ translate brazilian Lily_6_label_from_gallery_92da4a66:
 translate brazilian Lily_6_label_from_gallery_a137c789:
 
     # ch_Name "{i}(Strange. Are we both tired by the road?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Estranho. Estamos ambos cansados do caminho?){/i}"
 
 # game/logic/events/lily.rpy:1404
 translate brazilian Lily_6_label_from_gallery_ee35b90f:
 
     # Lily "Alright, stop it!"
-    Lily ""
+    Lily "Tudo bem, pare!"
 
 # game/logic/events/lily.rpy:1405
 translate brazilian Lily_6_label_from_gallery_14d2e905:
 
     # Lily "Stop mocking me."
-    Lily ""
+    Lily "Pare de me arremedar."
 
 # game/logic/events/lily.rpy:1407
 translate brazilian Lily_6_label_from_gallery_bf02a9fe:
 
     # ch_Name "I was not moc..."
-    ch_Name ""
+    ch_Name "Não estava arre..."
 
 # game/logic/events/lily.rpy:1408
 translate brazilian Lily_6_label_from_gallery_cfba3927:
 
     # ch_Name "...king you. I swear."
-    ch_Name ""
+    ch_Name "...medando você. Juro."
 
 # game/logic/events/lily.rpy:1410
 translate brazilian Lily_6_label_from_gallery_8cf85081:
 
     # Lily "[Name], I think something is wrong."
-    Lily ""
+    Lily "[Name], acho que algo está errado."
 
 # game/logic/events/lily.rpy:1411
 translate brazilian Lily_6_label_from_gallery_f6dba431:
 
     # Lily "We yawn too much."
-    Lily ""
+    Lily "Estamos bocenjando demais."
 
 # game/logic/events/lily.rpy:1413
 translate brazilian Lily_6_label_from_gallery_8ef3c4c1:
 
     # ch_Name "Look!"
-    ch_Name ""
+    ch_Name "Veja!"
 
 # game/logic/events/lily.rpy:1414
 translate brazilian Lily_6_label_from_gallery_17d2090f:
 
     # Lily "What the fuck!"
-    Lily ""
+    Lily "Mas que porra!"
 
 # game/logic/events/lily.rpy:1415
 translate brazilian Lily_6_label_from_gallery_ada5d5f7:
 
     # Lily "Do you think they all suddenly got sleepy too?"
-    Lily ""
+    Lily "Você acha que eles ficaram com sono de repente, também?"
 
 # game/logic/events/lily.rpy:1417
 translate brazilian Lily_6_label_from_gallery_e25a542b:
 
     # ch_Name "We should get out of here anyway."
-    ch_Name ""
+    ch_Name "Devíamos sair daqui, de qualquer forma."
 
 # game/logic/events/lily.rpy:1418
 translate brazilian Lily_6_label_from_gallery_5adec989:
 
     # ch_Name "What do you think, Lily?{w} Lily?"
-    ch_Name ""
+    ch_Name "O que você acha, Lily?{w} Lily?"
 
 # game/logic/events/lily.rpy:1420
 translate brazilian Lily_6_label_from_gallery_3e248df1:
 
     # ch_Name "Lily! What are you doing?"
-    ch_Name ""
+    ch_Name "Lily! O que está fazendo?"
 
 # game/logic/events/lily.rpy:1421
 translate brazilian Lily_6_label_from_gallery_cb137cf5:
 
     # ch_Name "Are you crazy?!"
-    ch_Name ""
+    ch_Name "Está maluca?!"
 
 # game/logic/events/lily.rpy:1423
 translate brazilian Lily_6_label_from_gallery_d2e6e6ba:
 
     # Lily "I was just... I just sat down for a second to rest."
-    Lily ""
+    Lily "Eu só estava... Só sentei um pouquinho para descansar."
 
 # game/logic/events/lily.rpy:1424
 translate brazilian Lily_6_label_from_gallery_666efb13:
 
     # Lily "Try it, it's so soft..."
-    Lily ""
+    Lily "Experimente, é tão macio..."
 
 # game/logic/events/lily.rpy:1426
 translate brazilian Lily_6_label_from_gallery_8e0af2e7:
 
     # ch_Name "It' is soft, you're right!"
-    ch_Name ""
+    ch_Name "É macio mesmo, tem razão!"
 
 # game/logic/events/lily.rpy:1427
 translate brazilian Lily_6_label_from_gallery_98140673:
 
     # ch_Name "I could fall asleep here..."
-    ch_Name ""
+    ch_Name "Eu poderia dormir aqui..."
 
 # game/logic/events/lily.rpy:1429
 translate brazilian Lily_6_label_from_gallery_6c4d0ea0:
 
     # Lily "No, wait!"
-    Lily ""
+    Lily "Não, espera!"
 
 # game/logic/events/lily.rpy:1430
 translate brazilian Lily_6_label_from_gallery_353ef806:
 
     # Lily "What am I talking about?"
-    Lily ""
+    Lily "Do que estamos falando?"
 
 # game/logic/events/lily.rpy:1431
 translate brazilian Lily_6_label_from_gallery_1bb686a1:
 
     # Lily "Get up! Do you hear me?!"
-    Lily ""
+    Lily "Levanta! Está me ouvindo?!"
 
 # game/logic/events/lily.rpy:1433
 translate brazilian Lily_6_label_from_gallery_ada0f7dd:
 
     # Lily "[Name], we can't sleep!"
-    Lily ""
+    Lily "[Name], não podemos dormir!"
 
 # game/logic/events/lily.rpy:1434
 translate brazilian Lily_6_label_from_gallery_9245d1ad:
 
     # Lily "We have to think of something!"
-    Lily ""
+    Lily "Temos que pensar em alguma coisa!"
 
 # game/logic/events/lily.rpy:1436
 translate brazilian Lily_6_label_from_gallery_69f71ea1:
 
     # ch_Name "Huh, what? Yes... Right..."
-    ch_Name ""
+    ch_Name "Huh, o quê? Sim... Certo..."
 
 # game/logic/events/lily.rpy:1437
 translate brazilian Lily_6_label_from_gallery_d3a868ab:
 
     # ch_Name "Lily, what is it that keeps you up all night? Any ideas?"
-    ch_Name ""
+    ch_Name "Lily, o que lhe deixa acordada de noite? Alguma ideia?"
 
 # game/logic/events/lily.rpy:1439
 translate brazilian Lily_6_label_from_gallery_3ae9e23e:
 
     # Lily "Well..."
-    Lily ""
+    Lily "Bem..."
 
 # game/logic/events/lily.rpy:1440
 translate brazilian Lily_6_label_from_gallery_d606cda1:
 
     # Lily "Actually, there is one..."
-    Lily ""
+    Lily "Na verdade, tem uma coisa..."
 
 # game/logic/events/lily.rpy:1441
 translate brazilian Lily_6_label_from_gallery_05a24af5:
 
     # Lily "But..."
-    Lily ""
+    Lily "Mas..."
 
 # game/logic/events/lily.rpy:1443
 translate brazilian Lily_6_label_from_gallery_475a3bd4:
 
     # ch_Name "Our lives depend on it!"
-    ch_Name ""
+    ch_Name "Nossas vidas dependem disso!"
 
 # game/logic/events/lily.rpy:1445
 translate brazilian Lily_6_label_from_gallery_30ab53ed:
 
     # Lily "After that time in your room..."
-    Lily ""
+    Lily "Depois daquela vez no seu quarto..."
 
 # game/logic/events/lily.rpy:1446
 translate brazilian Lily_6_label_from_gallery_dbdcd045:
 
     # Lily "I couldn't sleep all night."
-    Lily ""
+    Lily "Não consegui dormir a noite toda."
 
 # game/logic/events/lily.rpy:1447
 translate brazilian Lily_6_label_from_gallery_1fa75235:
 
     # Lily "My heart was beating like crazy."
-    Lily ""
+    Lily "Meu coração estava batendo feito louco."
 
 # game/logic/events/lily.rpy:1449
 translate brazilian Lily_6_label_from_gallery_493e98cf:
 
     # Lily "But what about you..."
-    Lily ""
+    Lily "Mas, e você..."
 
 # game/logic/events/lily.rpy:1451
 translate brazilian Lily_6_label_from_gallery_d9db6cd1:
 
     # Lily "I know! We could have..."
-    Lily ""
+    Lily "Já sei! Poderíamos..."
 
 # game/logic/events/lily.rpy:1452
 translate brazilian Lily_6_label_from_gallery_1465e53f:
 
     # ch_Name "Lily..."
-    ch_Name ""
+    ch_Name "Lily..."
 
 # game/logic/events/lily.rpy:1454
 translate brazilian Lily_6_label_from_gallery_c754b21a:
 
     # Lily "That way we would both have to stay awake!"
-    Lily ""
+    Lily "Dessa forma ambos teríamos que ficar acordados!"
 
 # game/logic/events/lily.rpy:1455
 translate brazilian Lily_6_label_from_gallery_7ddb6032:
 
     # ch_Name "{i}(The important thing is not to fall asleep after sex...){/i}"
-    ch_Name ""
+    ch_Name "{i}(O importante é não dormir depois do sexo...){/i}"
 
 # game/logic/events/lily.rpy:1457
 translate brazilian Lily_6_label_from_gallery_a71cb868:
 
     # Lily "So... What do you say?"
-    Lily ""
+    Lily "Então... O que me diz?"
 
 # game/logic/events/lily.rpy:1464
 translate brazilian Lily_6_label_from_gallery_68ff4d2f:
 
     # ch_Name "Lily, I like you."
-    ch_Name ""
+    ch_Name "Lily, eu gosto de você."
 
 # game/logic/events/lily.rpy:1466
 translate brazilian Lily_6_label_from_gallery_3e093713:
 
     # Lily "I like you too, [Name]..."
-    Lily ""
+    Lily "Eu gosto de você também, [Name]..."
 
 # game/logic/events/lily.rpy:1467
 translate brazilian Lily_6_label_from_gallery_2f95961a:
 
     # Lily "I dreamed we were doing this..."
-    Lily ""
+    Lily "Eu sonhei que estávamos fazendo isso..."
 
 # game/logic/events/lily.rpy:1469
 translate brazilian Lily_6_label_from_gallery_25d115ba:
 
     # ch_Name "How was I in your dream?"
-    ch_Name ""
+    ch_Name "Como fui no seu sonho?"
 
 # game/logic/events/lily.rpy:1470
 translate brazilian Lily_6_label_from_gallery_348e9b62:
 
     # Lily "Passionate... tender... mine..."
-    Lily ""
+    Lily "Apaixonado... delicado... meu..."
 
 # game/logic/events/lily.rpy:1472
 translate brazilian Lily_6_label_from_gallery_1465e53f_1:
@@ -4414,25 +4414,25 @@ translate brazilian Lily_6_label_from_gallery_1465e53f_1:
 translate brazilian Lily_6_label_from_gallery_236efe4c:
 
     # ch_Name "{i}(Her lips. Soft as two pillows...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Seus lábios. Macios como travesseiros...){/i}"
 
 # game/logic/events/lily.rpy:1475
 translate brazilian Lily_6_label_from_gallery_66f60241:
 
     # Lily "Let's pick a spot away from the pile of corpses, if you don't mind."
-    Lily ""
+    Lily "Vamos escolher um local longe dos corpos, se não se importa."
 
 # game/logic/events/lily.rpy:1476
 translate brazilian Lily_6_label_from_gallery_40ed527c:
 
     # ch_Name "Yes, of course."
-    ch_Name ""
+    ch_Name "Sim, claro."
 
 # game/logic/events/lily.rpy:1477
 translate brazilian Lily_6_label_from_gallery_0544d154:
 
     # ch_Name "Anything you want."
-    ch_Name ""
+    ch_Name "O que você quiser."
 
 # game/logic/events/lily.rpy:1481
 translate brazilian Lily_6_label_from_gallery_69436d41:
@@ -4444,13 +4444,13 @@ translate brazilian Lily_6_label_from_gallery_69436d41:
 translate brazilian Lily_6_label_from_gallery_2cc17130:
 
     # ch_Name "{i}(I think she's not so sleepy anymore.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Acho que ela não está mais com sono.){/i}"
 
 # game/logic/events/lily.rpy:1484
 translate brazilian Lily_6_label_from_gallery_c9f88c71:
 
     # ch_Name "{i}(I know what will wake her up even more.){/i}"
-    ch_Name ""
+    ch_Name "{i](Eu sei o que vai arcordar ela ainda mais.){/i}"
 
 # game/logic/events/lily.rpy:1485
 translate brazilian Lily_6_label_from_gallery_ad0af347:
@@ -4462,49 +4462,49 @@ translate brazilian Lily_6_label_from_gallery_ad0af347:
 translate brazilian Lily_6_label_from_gallery_2d347382:
 
     # ch_Name "{i}(The fabric prevents me from feeling the magnificence of your tits...){/i}"
-    ch_Name ""
+    ch_Name "{i}(O tecido me impede de sentir a magnificência de suas tetas...){/i}"
 
 # game/logic/events/lily.rpy:1488
 translate brazilian Lily_6_label_from_gallery_1f5652ec:
 
     # ch_Name "Do you like it when I squeeze your breasts?"
-    ch_Name ""
+    ch_Name "Você gosta quando aperto seus peitos?"
 
 # game/logic/events/lily.rpy:1489
 translate brazilian Lily_6_label_from_gallery_aa964b0d:
 
     # Lily "Oh yes..."
-    Lily ""
+    Lily "Ah, sim..."
 
 # game/logic/events/lily.rpy:1491
 translate brazilian Lily_6_label_from_gallery_002efebe:
 
     # ch_Name "Then let's get rid of your top."
-    ch_Name ""
+    ch_Name "Então vamos nos livrar dessa blusa."
 
 # game/logic/events/lily.rpy:1492
 translate brazilian Lily_6_label_from_gallery_6f520e0c:
 
     # Lily "Okay..."
-    Lily ""
+    Lily "Ok..."
 
 # game/logic/events/lily.rpy:1493
 translate brazilian Lily_6_label_from_gallery_c4c877b3:
 
     # Lily "Do everything you've dreamed of doing with me."
-    Lily ""
+    Lily "Faça tudo que sonhou fazer comigo."
 
 # game/logic/events/lily.rpy:1495
 translate brazilian Lily_6_label_from_gallery_a109a1bc:
 
     # ch_Name "That's a whole other thing..."
-    ch_Name ""
+    ch_Name "Isso é uma outra coisa..."
 
 # game/logic/events/lily.rpy:1496
 translate brazilian Lily_6_label_from_gallery_7659af10:
 
     # ch_Name "What a view!"
-    ch_Name ""
+    ch_Name "Que visão!"
 
 # game/logic/events/lily.rpy:1498
 translate brazilian Lily_6_label_from_gallery_fe9f7bb4:
@@ -4522,7 +4522,7 @@ translate brazilian Lily_6_label_from_gallery_447abf77:
 translate brazilian Lily_6_label_from_gallery_ddd7d294:
 
     # ch_Name "{i}(Her breasts are so firm and neat...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Seus peitos são tão durinhos e bonitos...){/i}"
 
 # game/logic/events/lily.rpy:1502
 translate brazilian Lily_6_label_from_gallery_8476f41e:
@@ -4534,175 +4534,175 @@ translate brazilian Lily_6_label_from_gallery_8476f41e:
 translate brazilian Lily_6_label_from_gallery_d5c6c9ed:
 
     # Lily "Look, [Name], that's not good..."
-    Lily ""
+    Lily "Olha, [Name], isso não é bom..."
 
 # game/logic/events/lily.rpy:1505
 translate brazilian Lily_6_label_from_gallery_2396ff1f:
 
     # ch_Name "What happened, did I do something wrong?"
-    ch_Name ""
+    ch_Name "O que houve? Fiz alguma coisa errada?"
 
 # game/logic/events/lily.rpy:1506
 translate brazilian Lily_6_label_from_gallery_bf2f9518:
 
     # Lily "No, it's not that."
-    Lily ""
+    Lily "Não, não é isso."
 
 # game/logic/events/lily.rpy:1508
 translate brazilian Lily_6_label_from_gallery_6a21fa15:
 
     # Lily "It's just that you should take your clothes off too."
-    Lily ""
+    Lily "E só que você podeia tirar suas roupas também."
 
 # game/logic/events/lily.rpy:1509
 translate brazilian Lily_6_label_from_gallery_efe7b964:
 
     # Lily "If you want to play like a grown-up."
-    Lily ""
+    Lily "Se quiser brincar como um adulto."
 
 # game/logic/events/lily.rpy:1511
 translate brazilian Lily_6_label_from_gallery_78d46048:
 
     # ch_Name "You don't have to ask me twice, beautiful."
-    ch_Name ""
+    ch_Name "Não precisa me pedir duas vezes, linda."
 
 # game/logic/events/lily.rpy:1512
 translate brazilian Lily_6_label_from_gallery_ced2fa01:
 
     # Lily "Well, then I'll get rid of the extra stuff, too."
-    Lily ""
+    Lily "Bem, então vou me livrar dessas coisas extras, também."
 
 # game/logic/events/lily.rpy:1513
 translate brazilian Lily_6_label_from_gallery_37b29084:
 
     # ch_Name "{i}(And she's serious.){/i}"
-    ch_Name ""
+    ch_Name "{i}(E ela está falando sério.){/i}"
 
 # game/logic/events/lily.rpy:1515
 translate brazilian Lily_6_label_from_gallery_2d805950:
 
     # ch_Name "{i}(Hmm, what a figure!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm, que corpo!){/i}"
 
 # game/logic/events/lily.rpy:1516
 translate brazilian Lily_6_label_from_gallery_95675361:
 
     # ch_Name "Lily, you're incredibly beautiful..."
-    ch_Name ""
+    ch_Name "Lily, você é incrivelmente linda..."
 
 # game/logic/events/lily.rpy:1517
 translate brazilian Lily_6_label_from_gallery_96575846:
 
     # ch_Name "But why did you leave your panties on?"
-    ch_Name ""
+    ch_Name "Mas por que ficou com sua calcinha?"
 
 # game/logic/events/lily.rpy:1519
 translate brazilian Lily_6_label_from_gallery_3e3360e0:
 
     # Lily "What are you here for?"
-    Lily ""
+    Lily "Você está aqui para quê?"
 
 # game/logic/events/lily.rpy:1520
 translate brazilian Lily_6_label_from_gallery_5b3845f3:
 
     # Lily "Or do I have to do everything myself?"
-    Lily ""
+    Lily "Ou tenho que fazer tudo eu mesma?"
 
 # game/logic/events/lily.rpy:1521
 translate brazilian Lily_6_label_from_gallery_150aeb13:
 
     # ch_Name "Well. Fair enough. You'll have to do better than that."
-    ch_Name ""
+    ch_Name "Bem. Justo. Você tem que ficar melhor que isso."
 
 # game/logic/events/lily.rpy:1523
 translate brazilian Lily_6_label_from_gallery_395df51d:
 
     # Lily "Just... {w} Be gentle."
-    Lily ""
+    Lily "Apenas... {w} Seja gentil."
 
 # game/logic/events/lily.rpy:1524
 translate brazilian Lily_6_label_from_gallery_8714f481:
 
     # ch_Name "I promise."
-    ch_Name ""
+    ch_Name "Prometo."
 
 # game/logic/events/lily.rpy:1526
 translate brazilian Lily_6_label_from_gallery_63b9a07a:
 
     # ch_Name "{i}(What a cute little butt!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que bundinha linda!){/i}"
 
 # game/logic/events/lily.rpy:1527
 translate brazilian Lily_6_label_from_gallery_cda2482b:
 
     # ch_Name "{i}(I want to touch it...){/i}"
-    ch_Name ""
+    ch_Name "{i}(E quero tocar nela...){/i}"
 
 # game/logic/events/lily.rpy:1529
 translate brazilian Lily_6_label_from_gallery_754711c6:
 
     # ch_Name "{i}(Oh yes...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Assim...){/i}"
 
 # game/logic/events/lily.rpy:1530
 translate brazilian Lily_6_label_from_gallery_044733a4:
 
     # ch_Name "{i}(What soft skin.){/i}"
-    ch_Name ""
+    ch_Name "{i](Que pele macia.){/i}"
 
 # game/logic/events/lily.rpy:1531
 translate brazilian Lily_6_label_from_gallery_11e4280c:
 
     # ch_Name "{i}(And so firm!){/i}"
-    ch_Name ""
+    ch_Name "{i}(E tão firme!){/i}"
 
 # game/logic/events/lily.rpy:1533
 translate brazilian Lily_6_label_from_gallery_69f54bb1:
 
     # ch_Name "{i}(This is what I call a real stress relief toy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Isso é que eu chamo de brinquedo relaxante.){/i}"
 
 # game/logic/events/lily.rpy:1534
 translate brazilian Lily_6_label_from_gallery_23058060:
 
     # ch_Name "{i}(I already forgot about our misfortunes.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Até já esqueci nossos problemas.){/i}"
 
 # game/logic/events/lily.rpy:1536
 translate brazilian Lily_6_label_from_gallery_58340d64:
 
     # Lily "Honey, I'm going to sleep..."
-    Lily ""
+    Lily "Querido, eu vou dormir..."
 
 # game/logic/events/lily.rpy:1537
 translate brazilian Lily_6_label_from_gallery_e9354fad:
 
     # Lily "Do something!"
-    Lily ""
+    Lily "Faça alguma coisa!"
 
 # game/logic/events/lily.rpy:1539
 translate brazilian Lily_6_label_from_gallery_d5724ddb:
 
     # ch_Name "Oh, sure. Sorry."
-    ch_Name ""
+    ch_Name "Ah, com certeza. Desculpe."
 
 # game/logic/events/lily.rpy:1540
 translate brazilian Lily_6_label_from_gallery_37de1952:
 
     # ch_Name "Let's get rid of the cloth..."
-    ch_Name ""
+    ch_Name "Vamos nos livrar desse pano..."
 
 # game/logic/events/lily.rpy:1542
 translate brazilian Lily_6_label_from_gallery_88550846:
 
     # ch_Name "{i}(That's better.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bem melhor.){/i}"
 
 # game/logic/events/lily.rpy:1543
 translate brazilian Lily_6_label_from_gallery_d654bff3:
 
     # ch_Name "{i}(Though much is still hidden from me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Apesar de que muito ainda está escondido de mim.){/i}"
 
 # game/logic/events/lily.rpy:1544
 translate brazilian Lily_6_label_from_gallery_1465e53f_2:
@@ -4714,61 +4714,61 @@ translate brazilian Lily_6_label_from_gallery_1465e53f_2:
 translate brazilian Lily_6_label_from_gallery_42ba59a8:
 
     # Lily "Y-yes?"
-    Lily ""
+    Lily "S-Sim?"
 
 # game/logic/events/lily.rpy:1547
 translate brazilian Lily_6_label_from_gallery_37bce89b:
 
     # ch_Name "Could you arch your back a little bit, baby?"
-    ch_Name ""
+    ch_Name "Pode arquear as costas para trás um pouco, querida?"
 
 # game/logic/events/lily.rpy:1548
 translate brazilian Lily_6_label_from_gallery_bab96f1e:
 
     # Lily "Sure! Let me get comfy."
-    Lily ""
+    Lily "Claro! Deixa eu ficar confortável."
 
 # game/logic/events/lily.rpy:1550
 translate brazilian Lily_6_label_from_gallery_a095b912:
 
     # Lily "So, what then? How?"
-    Lily ""
+    Lily "Então, o que agora? Como?"
 
 # game/logic/events/lily.rpy:1551
 translate brazilian Lily_6_label_from_gallery_185539e3:
 
     # ch_Name "How?"
-    ch_Name ""
+    ch_Name "Como?"
 
 # game/logic/events/lily.rpy:1553
 translate brazilian Lily_6_label_from_gallery_90bdbfcf:
 
     # Lily "Yes... H-how do you want to do it?"
-    Lily ""
+    Lily "Sim... Como quer fazer?"
 
 # game/logic/events/lily.rpy:1554
 translate brazilian Lily_6_label_from_gallery_8b842d7f:
 
     # ch_Name "{i}(Let's see...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vejamos...){/i}"
 
 # game/logic/events/lily.rpy:1567
 translate brazilian Lily_6_label_224_d0e164d5:
 
     # ch_Name "{i}(That pie looks too yummy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Essa torta parece gostosa.){/i}"
 
 # game/logic/events/lily.rpy:1569
 translate brazilian Lily_6_label_224_4a13098c:
 
     # ch_Name "{i}(I just have to try it.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tenho que experimentar.){/i}"
 
 # game/logic/events/lily.rpy:1570
 translate brazilian Lily_6_label_224_a97a7dee:
 
     # ch_Name "I want to kiss you there..."
-    ch_Name ""
+    ch_Name "Eu quero lhe beijar lá..."
 
 # game/logic/events/lily.rpy:1572
 translate brazilian Lily_6_label_224_5f3a59ad:
@@ -4786,13 +4786,13 @@ translate brazilian Lily_6_label_224_1ad90dd1:
 translate brazilian Lily_6_label_224_1dca62a4:
 
     # ch_Name "{i}(I can feel her trembling with pleasure.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Posso sentir ela tremendo de prazer.){/i}"
 
 # game/logic/events/lily.rpy:1576
 translate brazilian Lily_6_label_224_176b8d78:
 
     # Lily "This is incredible!"
-    Lily ""
+    Lily "Isso é incrível!"
 
 # game/logic/events/lily.rpy:1578
 translate brazilian Lily_6_label_224_fa4720c1:
@@ -4804,19 +4804,19 @@ translate brazilian Lily_6_label_224_fa4720c1:
 translate brazilian Lily_6_label_224_db2beb5d:
 
     # Lily "I've never felt like this!"
-    Lily ""
+    Lily "Nunca me senti assim antes!"
 
 # game/logic/events/lily.rpy:1581
 translate brazilian Lily_6_label_224_f027d611:
 
     # ch_Name "{i}(How her moans turn me on!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Como seus gemidos me excitam!){/i}"
 
 # game/logic/events/lily.rpy:1582
 translate brazilian Lily_6_label_224_986f751f:
 
     # Lily "Yes... Oh..."
-    Lily ""
+    Lily "Sim... Oh..."
 
 # game/logic/events/lily.rpy:1584
 translate brazilian Lily_6_label_224_7a494eb2:
@@ -4834,25 +4834,25 @@ translate brazilian Lily_6_label_224_ad0af347:
 translate brazilian Lily_6_label_224_60a33da6:
 
     # ch_Name "Lily, I want to see you."
-    ch_Name ""
+    ch_Name "Lily, eu quero lhe ver."
 
 # game/logic/events/lily.rpy:1589
 translate brazilian Lily_6_label_224_60a33da6_1:
 
     # ch_Name "Lily, I want to see you."
-    ch_Name ""
+    ch_Name "Lily, eu quero lhe ver."
 
 # game/logic/events/lily.rpy:1590
 translate brazilian Lily_6_label_224_fa9aa194:
 
     # ch_Name "To see you enjoying yourself."
-    ch_Name ""
+    ch_Name "Para ver você se divertindo."
 
 # game/logic/events/lily.rpy:1591
 translate brazilian Lily_6_label_224_aa13e317:
 
     # ch_Name "Let me see your face."
-    ch_Name ""
+    ch_Name "Deixa eu ver seu rosto."
 
 # game/logic/events/lily.rpy:1593
 translate brazilian Lily_6_label_224_1ad90dd1_1:
@@ -4864,19 +4864,19 @@ translate brazilian Lily_6_label_224_1ad90dd1_1:
 translate brazilian Lily_6_label_224_e8e2f24d:
 
     # Lily "I want to see your face too."
-    Lily ""
+    Lily "Eu quero ver seu rosto também."
 
 # game/logic/events/lily.rpy:1596
 translate brazilian Lily_6_label_224_aebe81ee:
 
     # Lily "Like this?"
-    Lily ""
+    Lily "Assim?"
 
 # game/logic/events/lily.rpy:1597
 translate brazilian Lily_6_label_224_8568c134:
 
     # ch_Name "It's perfect."
-    ch_Name ""
+    ch_Name "Perfeito."
 
 # game/logic/events/lily.rpy:1599
 translate brazilian Lily_6_label_224_fa4720c1_1:
@@ -4888,7 +4888,7 @@ translate brazilian Lily_6_label_224_fa4720c1_1:
 translate brazilian Lily_6_label_224_986f751f_1:
 
     # Lily "Yes... Oh..."
-    Lily ""
+    Lily "Isso... Oh..."
 
 # game/logic/events/lily.rpy:1602
 translate brazilian Lily_6_label_224_5f3a59ad_1:
@@ -4900,7 +4900,7 @@ translate brazilian Lily_6_label_224_5f3a59ad_1:
 translate brazilian Lily_6_label_224_2cac1786:
 
     # ch_Name "{i}(This is definitely a pleasure she hasn't experienced before!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Esse é, definitivamente, um prazer que ela ainda não tinha experimentado!){/i}"
 
 # game/logic/events/lily.rpy:1605
 translate brazilian Lily_6_label_224_fe9f7bb4:
@@ -4912,7 +4912,7 @@ translate brazilian Lily_6_label_224_fe9f7bb4:
 translate brazilian Lily_6_label_224_986f751f_2:
 
     # Lily "Yes... Oh..."
-    Lily ""
+    Lily "Assim... Oh..."
 
 # game/logic/events/lily.rpy:1608
 translate brazilian Lily_6_label_224_1e130bec:
@@ -4924,13 +4924,13 @@ translate brazilian Lily_6_label_224_1e130bec:
 translate brazilian Lily_6_label_224_5afeb447:
 
     # Lily "Yeah, there you go..."
-    Lily ""
+    Lily "Assim, isso mesmo..."
 
 # game/logic/events/lily.rpy:1611
 translate brazilian Lily_6_label_224_06cc134d:
 
     # Lily "Go on..."
-    Lily ""
+    Lily "Continue..."
 
 # game/logic/events/lily.rpy:1613
 translate brazilian Lily_6_label_224_9cdd9737:
@@ -4948,91 +4948,91 @@ translate brazilian Lily_6_label_224_1ad90dd1_2:
 translate brazilian Lily_6_label_224_eade5de0:
 
     # ch_Name "Yes?"
-    ch_Name ""
+    ch_Name "Sim?"
 
 # game/logic/events/lily.rpy:1617
 translate brazilian Lily_6_label_224_4043024f:
 
     # Lily "[Name]... Hold on a second..."
-    Lily ""
+    Lily "[Name]... Espere um pouco..."
 
 # game/logic/events/lily.rpy:1618
 translate brazilian Lily_6_label_224_66730277:
 
     # ch_Name "Yes, baby?"
-    ch_Name ""
+    ch_Name "Sim, querida?"
 
 # game/logic/events/lily.rpy:1620
 translate brazilian Lily_6_label_224_cff985e6:
 
     # Lily "I can't do this anymore."
-    Lily ""
+    Lily "Não posso continuar isso."
 
 # game/logic/events/lily.rpy:1621
 translate brazilian Lily_6_label_224_77875e22:
 
     # Lily "I'm tired of wanting you."
-    Lily ""
+    Lily "Estou cansada de desejar você."
 
 # game/logic/events/lily.rpy:1623
 translate brazilian Lily_6_label_224_aed79b73:
 
     # Lily "Fuck me right here and now."
-    Lily ""
+    Lily "Me fode, aqui e agora!"
 
 # game/logic/events/lily.rpy:1624
 translate brazilian Lily_6_label_224_ad1bb3c2:
 
     # Lily "Fuck me so hard I can't stand!"
-    Lily ""
+    Lily "Me fode tão forte que não coniga ficar em pé!"
 
 # game/logic/events/lily.rpy:1625
 translate brazilian Lily_6_label_224_d74d9e68:
 
     # ch_Name "You don't have to ask for this twice."
-    ch_Name ""
+    ch_Name "Não precisa me pedir duas vezes!"
 
 # game/logic/events/lily.rpy:1631
 translate brazilian Lily_6_label_224_b74f54eb:
 
     # ch_Name "{i}(All right, Lily, you asked for it.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tudo bem, Lily, você que pediu.){/i}"
 
 # game/logic/events/lily.rpy:1633
 translate brazilian Lily_6_label_224_7355e964:
 
     # ch_Name "{i}(You're about to find out what I'm really good at.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Você está para descobrir no que eu sou realmente bom.){/i}"
 
 # game/logic/events/lily.rpy:1634
 translate brazilian Lily_6_label_224_7e28ab8a:
 
     # Lily "[Name], start gently..."
-    Lily ""
+    Lily "[Name], comece devagar..."
 
 # game/logic/events/lily.rpy:1636
 translate brazilian Lily_6_label_224_e043ec74:
 
     # ch_Name "Sure, baby."
-    ch_Name ""
+    ch_Name "Claro, querida."
 
 # game/logic/events/lily.rpy:1637
 translate brazilian Lily_6_label_224_a05b06d2:
 
     # ch_Name "{i}(I know how to handle the ladies, Lily. Don't worry.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu sei como lidar com as mulheres, Lily. Não se preocupe.){/i}"
 
 # game/logic/events/lily.rpy:1639
 translate brazilian Lily_6_label_224_0b3a0e49:
 
     # Lily "Ah... there you go..."
-    Lily ""
+    Lily "Ah... Assim mesmo..."
 
 # game/logic/events/lily.rpy:1640
 translate brazilian Lily_6_label_224_06cc134d_1:
 
     # Lily "Go on..."
-    Lily ""
+    Lily "Continue..."
 
 # game/logic/events/lily.rpy:1642
 translate brazilian Lily_6_label_224_aaacf40e:
@@ -5044,25 +5044,25 @@ translate brazilian Lily_6_label_224_aaacf40e:
 translate brazilian Lily_6_label_224_7c23e5be:
 
     # Lily "Ah, yes, oh, yes!"
-    Lily ""
+    Lily "Ah, isso, oh, assim!"
 
 # game/logic/events/lily.rpy:1645
 translate brazilian Lily_6_label_224_08b639a5:
 
     # ch_Name "Lily, baby, arch your back."
-    ch_Name ""
+    ch_Name "Lily, querida, arqueie as costas."
 
 # game/logic/events/lily.rpy:1646
 translate brazilian Lily_6_label_224_2738904f:
 
     # Lily "Okay, sure..."
-    Lily ""
+    Lily "Ok, claro..."
 
 # game/logic/events/lily.rpy:1648
 translate brazilian Lily_6_label_224_c2fd54da:
 
     # ch_Name "There you go!"
-    ch_Name ""
+    ch_Name "Assim mesmo!"
 
 # game/logic/events/lily.rpy:1650
 translate brazilian Lily_6_label_224_fa4720c1_2:
@@ -5074,7 +5074,7 @@ translate brazilian Lily_6_label_224_fa4720c1_2:
 translate brazilian Lily_6_label_224_2c1e031e:
 
     # Lily "Yeah... Oh..."
-    Lily ""
+    Lily "Isso... Oh..."
 
 # game/logic/events/lily.rpy:1653
 translate brazilian Lily_6_label_224_5f3a59ad_2:
@@ -5086,151 +5086,151 @@ translate brazilian Lily_6_label_224_5f3a59ad_2:
 translate brazilian Lily_6_label_224_5f9e1e5a:
 
     # ch_Name "Do you like the way I enter inside you?"
-    ch_Name ""
+    ch_Name "Gosta do jeito que entro em você?"
 
 # game/logic/events/lily.rpy:1656
 translate brazilian Lily_6_label_224_b29d0e18:
 
     # Lily "Yes..."
-    Lily ""
+    Lily "Gosto..."
 
 # game/logic/events/lily.rpy:1658
 translate brazilian Lily_6_label_224_aa964b0d:
 
     # Lily "Oh yes..."
-    Lily ""
+    Lily "Isso..."
 
 # game/logic/events/lily.rpy:1659
 translate brazilian Lily_6_label_224_a5a85d29:
 
     # Lily "More..."
-    Lily ""
+    Lily "Mais..."
 
 # game/logic/events/lily.rpy:1661
 translate brazilian Lily_6_label_224_e8ef3fd2:
 
     # ch_Name "I got something, baby!"
-    ch_Name ""
+    ch_Name "Eu tenho, querida!"
 
 # game/logic/events/lily.rpy:1662
 translate brazilian Lily_6_label_224_2c1e031e_1:
 
     # Lily "Yeah... Oh..."
-    Lily ""
+    Lily "Assim... Oh..."
 
 # game/logic/events/lily.rpy:1664
 translate brazilian Lily_6_label_224_09ee2879:
 
     # Lily "What? Oh..."
-    Lily ""
+    Lily "O quê? Oh..."
 
 # game/logic/events/lily.rpy:1665
 translate brazilian Lily_6_label_224_daf64807:
 
     # ch_Name "I want to change positions."
-    ch_Name ""
+    ch_Name "Eu queria mudar de posição."
 
 # game/logic/events/lily.rpy:1667
 translate brazilian Lily_6_label_224_4b589813:
 
     # Lily "Change positions?"
-    Lily ""
+    Lily "Mudar de posição?"
 
 # game/logic/events/lily.rpy:1668
 translate brazilian Lily_6_label_224_e257cca2:
 
     # Lily "I had no idea you were such a naughty boy, [Name]."
-    Lily ""
+    Lily "Não imaginava que você era um garoto tão safado, [Name]."
 
 # game/logic/events/lily.rpy:1670
 translate brazilian Lily_6_label_224_4397d992:
 
     # ch_Name "What's wrong with that?"
-    ch_Name ""
+    ch_Name "O que tem de errado nisso?"
 
 # game/logic/events/lily.rpy:1671
 translate brazilian Lily_6_label_224_9bd881b0:
 
     # ch_Name "I want to look into your eyes."
-    ch_Name ""
+    ch_Name "Quero olhar nos seus olhos."
 
 # game/logic/events/lily.rpy:1673
 translate brazilian Lily_6_label_224_73cda3bc:
 
     # Lily "You're right, [Name]..."
-    Lily ""
+    Lily "Está certo, [Name]..."
 
 # game/logic/events/lily.rpy:1674
 translate brazilian Lily_6_label_224_68b6517d:
 
     # Lily "I want to see your face as you enter me."
-    Lily ""
+    Lily "Quero ver seu rosto quando entra em mim."
 
 # game/logic/events/lily.rpy:1676
 translate brazilian Lily_6_label_224_48c4ad7b:
 
     # ch_Name "Come here, baby."
-    ch_Name ""
+    ch_Name "Venha cá, minha linda."
 
 # game/logic/events/lily.rpy:1677
 translate brazilian Lily_6_label_224_04c83549:
 
     # ch_Name "Let's melt into ecstasy."
-    ch_Name ""
+    ch_Name "Vamos nos derreter em êxtase."
 
 # game/logic/events/lily.rpy:1679
 translate brazilian Lily_6_label_224_46557123:
 
     # ch_Name "Come to me..."
-    ch_Name ""
+    ch_Name "Venha para mim..."
 
 # game/logic/events/lily.rpy:1681
 translate brazilian Lily_6_label_224_e1ad2be8:
 
     # ch_Name "What the?!"
-    ch_Name ""
+    ch_Name "Mas o quê?!"
 
 # game/logic/events/lily.rpy:1682
 translate brazilian Lily_6_label_224_3eea1d4d:
 
     # ch_Name "Did you hear that?"
-    ch_Name ""
+    ch_Name "Você ouviu aquilo?"
 
 # game/logic/events/lily.rpy:1684
 translate brazilian Lily_6_label_224_211bc746:
 
     # ch_Name "Some kind of weird glowing mushroom. It doesn't seem to have been here before."
-    ch_Name ""
+    ch_Name "Algum tipo de cogumelo brilhante esquisito. Não parecia estar aqui antes."
 
 # game/logic/events/lily.rpy:1685
 translate brazilian Lily_6_label_224_7b40781d:
 
     # ch_Name "{i}(Was it just me, or was it moving?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Impressão minha ou ele está se movendo?){/i}"
 
 # game/logic/events/lily.rpy:1687
 translate brazilian Lily_6_label_224_238ed909:
 
     # Lily "What kind of mushroom? Ah... [Name], come here!"
-    Lily ""
+    Lily "Que tipo de cogumelo? Ah... [Name], venha cá!"
 
 # game/logic/events/lily.rpy:1688
 translate brazilian Lily_6_label_224_fd8df5c1:
 
     # ch_Name "But... You're right..."
-    ch_Name ""
+    ch_Name "Mas... Você está certa..."
 
 # game/logic/events/lily.rpy:1690
 translate brazilian Lily_6_label_224_34071ca6:
 
     # ch_Name "I'm sorry, baby."
-    ch_Name ""
+    ch_Name "Desculpa, querida."
 
 # game/logic/events/lily.rpy:1691
 translate brazilian Lily_6_label_224_6ffac14a:
 
     # ch_Name "I got distracted."
-    ch_Name ""
+    ch_Name "Me distraí."
 
 # game/logic/events/lily.rpy:1693
 translate brazilian Lily_6_label_224_f71563da:
@@ -5242,13 +5242,13 @@ translate brazilian Lily_6_label_224_f71563da:
 translate brazilian Lily_6_label_224_6a3d767d:
 
     # ch_Name "But now I'm all yours!"
-    ch_Name ""
+    ch_Name "Mas agora sou todo seu!"
 
 # game/logic/events/lily.rpy:1696
 translate brazilian Lily_6_label_224_2c1e031e_2:
 
     # Lily "Yeah... Oh..."
-    Lily ""
+    Lily "Assim... Oh..."
 
 # game/logic/events/lily.rpy:1697
 translate brazilian Lily_6_label_224_5f3a59ad_3:
@@ -5260,13 +5260,13 @@ translate brazilian Lily_6_label_224_5f3a59ad_3:
 translate brazilian Lily_6_label_224_aa964b0d_1:
 
     # Lily "Oh yes..."
-    Lily ""
+    Lily "Isso..."
 
 # game/logic/events/lily.rpy:1701
 translate brazilian Lily_6_label_224_a5a85d29_1:
 
     # Lily "More..."
-    Lily ""
+    Lily "Mais..."
 
 # game/logic/events/lily.rpy:1702
 translate brazilian Lily_6_label_224_5f3a59ad_4:
@@ -5278,19 +5278,19 @@ translate brazilian Lily_6_label_224_5f3a59ad_4:
 translate brazilian Lily_6_label_224_ab7bd88c:
 
     # ch_Name "{i}(She keeps getting the shivers. I wonder how many times she cum?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela continua se arrepiando. Quantas vezes será que ela já gozou?){/i}"
 
 # game/logic/events/lily.rpy:1705
 translate brazilian Lily_6_label_224_2c1e031e_3:
 
     # Lily "Yeah... Oh..."
-    Lily ""
+    Lily "Assim... Oh..."
 
 # game/logic/events/lily.rpy:1707
 translate brazilian Lily_6_label_224_259c8aa0:
 
     # ch_Name "{i}(She's so tight inside. It's hard for me to get a full on.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela é tão apertadinha por dentro. É difícil entrar todo.){/i}"
 
 # game/logic/events/lily.rpy:1708
 translate brazilian Lily_6_label_224_aaacf40e_1:
@@ -5308,109 +5308,109 @@ translate brazilian Lily_6_label_224_5f3a59ad_5:
 translate brazilian Lily_6_label_224_f84c729e:
 
     # ch_Name "{i}(But that seems to be enough for her...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas isso parece ser o bastante para ela...){/i}"
 
 # game/logic/events/lily.rpy:1712
 translate brazilian Lily_6_label_224_ee9d9a54:
 
     # Lily "Ah... More..."
-    Lily ""
+    Lily "Ah... Mais..."
 
 # game/logic/events/lily.rpy:1714
 translate brazilian Lily_6_label_224_820e92b9:
 
     # ch_Name "Do you like everything, baby?"
-    ch_Name ""
+    ch_Name "Está gostando de tudo, linda?"
 
 # game/logic/events/lily.rpy:1715
 translate brazilian Lily_6_label_224_a30c090f:
 
     # Lily "Oh yes... Oh yes!"
-    Lily ""
+    Lily "Sim... Ah, sim!"
 
 # game/logic/events/lily.rpy:1717
 translate brazilian Lily_6_label_224_10e16e92:
 
     # Lily "But I'm ready to try something else."
-    Lily ""
+    Lily "Mas estou pronta para tentar algo diferente."
 
 # game/logic/events/lily.rpy:1718
 translate brazilian Lily_6_label_224_f1fc9002:
 
     # ch_Name "Get on your knees!"
-    ch_Name ""
+    ch_Name "Se ajoelhe!"
 
 # game/logic/events/lily.rpy:1720
 translate brazilian Lily_6_label_224_7ceaa81f:
 
     # Lily "The grass is so soft... Join me."
-    Lily ""
+    Lily "A grama é tão macia... Venha comigo."
 
 # game/logic/events/lily.rpy:1721
 translate brazilian Lily_6_label_224_401ccedb:
 
     # ch_Name "One second."
-    ch_Name ""
+    ch_Name "Um instante."
 
 # game/logic/events/lily.rpy:1723
 translate brazilian Lily_6_label_224_973e4186:
 
     # ch_Name "{i}(Let me enjoy the view.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Deixa eu admirar a vista.){/i}"
 
 # game/logic/events/lily.rpy:1724
 translate brazilian Lily_6_label_224_1d5ee0bd:
 
     # Lily "Where are you..."
-    Lily ""
+    Lily "Onde você está..."
 
 # game/logic/events/lily.rpy:1726
 translate brazilian Lily_6_label_224_3f078692:
 
     # ch_Name "I'm here!"
-    ch_Name ""
+    ch_Name "Estou aqui!"
 
 # game/logic/events/lily.rpy:1727
 translate brazilian Lily_6_label_224_56cf27d9:
 
     # Lily "Ah... Fuck me already!"
-    Lily ""
+    Lily "Ah... Me fode logo!"
 
 # game/logic/events/lily.rpy:1729
 translate brazilian Lily_6_label_224_7a36025c:
 
     # ch_Name "Like that?"
-    ch_Name ""
+    ch_Name "Assim?"
 
 # game/logic/events/lily.rpy:1731
 translate brazilian Lily_6_label_224_986f751f_3:
 
     # Lily "Yes... Oh..."
-    Lily ""
+    Lily "Isso... Oh..."
 
 # game/logic/events/lily.rpy:1732
 translate brazilian Lily_6_label_224_d58418ae:
 
     # ch_Name "Let's change something!"
-    ch_Name ""
+    ch_Name "Vamos mudar um pouco!"
 
 # game/logic/events/lily.rpy:1734
 translate brazilian Lily_6_label_224_80bb2aec:
 
     # Lily "Oh, what the..."
-    Lily ""
+    Lily "Oh, o que é..."
 
 # game/logic/events/lily.rpy:1735
 translate brazilian Lily_6_label_224_b3257d88:
 
     # ch_Name "That's better!"
-    ch_Name ""
+    ch_Name "Assim é melhor!"
 
 # game/logic/events/lily.rpy:1737
 translate brazilian Lily_6_label_224_8a119682:
 
     # Lily "Oh... Wow!"
-    Lily ""
+    Lily "Oh... Uau!"
 
 # game/logic/events/lily.rpy:1738
 translate brazilian Lily_6_label_224_aaacf40e_2:
@@ -5422,25 +5422,25 @@ translate brazilian Lily_6_label_224_aaacf40e_2:
 translate brazilian Lily_6_label_224_638f8fdf:
 
     # ch_Name "Just like you asked for, beautiful."
-    ch_Name ""
+    ch_Name "Exatamente como queria, linda."
 
 # game/logic/events/lily.rpy:1741
 translate brazilian Lily_6_label_224_f6ce1476:
 
     # Lily "Oh, yeah... Ah..."
-    Lily ""
+    Lily "Oh, isso... Ah..."
 
 # game/logic/events/lily.rpy:1743
 translate brazilian Lily_6_label_224_0ee6d175:
 
     # ch_Name "So you can't walk!"
-    ch_Name ""
+    ch_Name "Para que não consiga andar!"
 
 # game/logic/events/lily.rpy:1744
 translate brazilian Lily_6_label_224_5f17d83c:
 
     # Lily "Oh, yes... Oh, yes!"
-    Lily ""
+    Lily "Oh, assim... Oh, isso!"
 
 # game/logic/events/lily.rpy:1746
 translate brazilian Lily_6_label_224_f71563da_1:
@@ -5464,31 +5464,31 @@ translate brazilian Lily_6_label_224_41eddb2b:
 translate brazilian Lily_6_label_224_8462fe17:
 
     # Lily "Oh, yeah..."
-    Lily ""
+    Lily "Oh, isso..."
 
 # game/logic/events/lily.rpy:1751
 translate brazilian Lily_6_label_224_cabef4d8:
 
     # ch_Name "Lily! I think..."
-    ch_Name ""
+    ch_Name "Lily! Acho..."
 
 # game/logic/events/lily.rpy:1753
 translate brazilian Lily_6_label_224_c64e8a9e:
 
     # ch_Name "I'm... Going to cum!"
-    ch_Name ""
+    ch_Name "Que... Vou gozar!"
 
 # game/logic/events/lily.rpy:1754
 translate brazilian Lily_6_label_224_9894ae5a:
 
     # Lily "Hey! You're not going to come inside me, are you?"
-    Lily ""
+    Lily "Ei! Você não gozar dentro de mim, não é?"
 
 # game/logic/events/lily.rpy:1755
 translate brazilian Lily_6_label_224_c0aaced1:
 
     # Lily "Don't you dare!"
-    Lily ""
+    Lily "Não se atreva!"
 
 # game/logic/events/lily.rpy:1760
 translate brazilian Lily_6_label_224_aaacf40e_3:
@@ -5518,7 +5518,7 @@ translate brazilian Lily_6_label_224_eee686cf:
 translate brazilian Lily_6_label_224_f4bd7b4e:
 
     # ch_Name "Oh... Oh yes..."
-    ch_Name ""
+    ch_Name "Oh... Isso..."
 
 # game/logic/events/lily.rpy:1767
 translate brazilian Lily_6_label_224_aaacf40e_4:
@@ -5530,115 +5530,115 @@ translate brazilian Lily_6_label_224_aaacf40e_4:
 translate brazilian Lily_6_label_224_b49067ac:
 
     # Lily "What was that..."
-    Lily ""
+    Lily "O que foi isso..."
 
 # game/logic/events/lily.rpy:1770
 translate brazilian Lily_6_label_224_3726b26a:
 
     # Lily "YOU CAME IN ME?"
-    Lily ""
+    Lily "VOCÊ GOZOU DENTRO DE MIM?"
 
 # game/logic/events/lily.rpy:1771
 translate brazilian Lily_6_label_224_b96721b9:
 
     # Lily "Are you completely retarded?"
-    Lily ""
+    Lily "Você é completamente retardado?"
 
 # game/logic/events/lily.rpy:1773
 translate brazilian Lily_6_label_224_e4381724:
 
     # ch_Name "It's gonna be okay, Lily. Don't worry about it."
-    ch_Name ""
+    ch_Name "Vai ficar tudo bem, Lilyl. Não se preocupe com isso."
 
 # game/logic/events/lily.rpy:1774
 translate brazilian Lily_6_label_224_f88d011e:
 
     # Lily "I can't believe it!"
-    Lily ""
+    Lily "Não acredito!"
 
 # game/logic/events/lily.rpy:1776
 translate brazilian Lily_6_label_224_999f4e87:
 
     # Lily "Just let me go already."
-    Lily ""
+    Lily "Deixa eu sair logo."
 
 # game/logic/events/lily.rpy:1777
 translate brazilian Lily_6_label_224_97db32c6:
 
     # Lily "How could you be so irresponsible? What a bastard!"
-    Lily ""
+    Lily "Como pode ser tão irresponsável? Seu sacana!"
 
 # game/logic/events/lily.rpy:1779
 translate brazilian Lily_6_label_224_99a81c47:
 
     # Lily "Fucking..."
-    Lily ""
+    Lily "Caralho..."
 
 # game/logic/events/lily.rpy:1780
 translate brazilian Lily_6_label_224_1d272c63:
 
     # ch_Name "Why do you care so much?"
-    ch_Name ""
+    ch_Name "Por que se importa tanto?"
 
 # game/logic/events/lily.rpy:1782
 translate brazilian Lily_6_label_224_28e5ebaf:
 
     # Lily "I'll have to take some crapy medicine to take care of it now."
-    Lily ""
+    Lily "Vou ter que tomar um remédio maluco para dar um jeito, agora."
 
 # game/logic/events/lily.rpy:1783
 translate brazilian Lily_6_label_224_eecfe933:
 
     # Lily "That kind of magic affects your health, you know."
-    Lily ""
+    Lily "Do tipo que mexe com sua saúde, sabia?!"
 
 # game/logic/events/lily.rpy:1785
 translate brazilian Lily_6_label_224_ed2068b2:
 
     # Lily "Okay, I'll take care of this problem on my own..."
-    Lily ""
+    Lily "Ok, vou dar um jeito nesse problema sozinha..."
 
 # game/logic/events/lily.rpy:1786
 translate brazilian Lily_6_label_224_df8091a5:
 
     # Lily "You better help me figure out how to get out of here."
-    Lily ""
+    Lily "É melhor você dar um jeito de sairmos daqui."
 
 # game/logic/events/lily.rpy:1788
 translate brazilian Lily_6_label_224_faded8ff:
 
     # Lily "YOU IDIOT!!!" with hpunch
-    Lily "" with hpunch
+    Lily "SEU IDIOTA!!!" with hpunch
 
 # game/logic/events/lily.rpy:1789
 translate brazilian Lily_6_label_224_c73e0f10:
 
     # ch_Name "{i}(She seems a little upset.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela parece meio puta.){/i}"
 
 # game/logic/events/lily.rpy:1794
 translate brazilian Lily_6_label_224_6fb36d8a:
 
     # ch_Name "We have to go!"
-    ch_Name ""
+    ch_Name "Temos que ir!"
 
 # game/logic/events/lily.rpy:1795
 translate brazilian Lily_6_label_224_5cbb397c:
 
     # Lily "Yeah, you're right."
-    Lily ""
+    Lily "Sim, tem razão."
 
 # game/logic/events/lily.rpy:1798
 translate brazilian Lily_6_label_224_e824f604:
 
     # ch_Name "Baby..."
-    ch_Name ""
+    ch_Name "Querida..."
 
 # game/logic/events/lily.rpy:1799
 translate brazilian Lily_6_label_224_c7b8a2a8:
 
     # ch_Name "Come here."
-    ch_Name ""
+    ch_Name "Venha cá."
 
 # game/logic/events/lily.rpy:1801
 translate brazilian Lily_6_label_224_ad0af347_1:
@@ -5656,37 +5656,37 @@ translate brazilian Lily_6_label_224_1ad90dd1_3:
 translate brazilian Lily_6_label_224_f0b5ebb2:
 
     # Lily "We should go before we fall asleep..."
-    Lily ""
+    Lily "Devíamos ir antes que caiamos no sono..."
 
 # game/logic/events/lily.rpy:1805
 translate brazilian Lily_6_label_224_4a41b0d1:
 
     # ch_Name "You're right."
-    ch_Name ""
+    ch_Name "Você está certa."
 
 # game/logic/events/lily.rpy:1807
 translate brazilian Lily_6_label_224_d678c9ef:
 
     # ch_Name "Come on, Lily. We should get out of here."
-    ch_Name ""
+    ch_Name "Venha, Lily. Temos que sair daqui."
 
 # game/logic/events/lily.rpy:1808
 translate brazilian Lily_6_label_224_7c090c80:
 
     # Lily "I know, I know. You think it's easy to put on a bra that fast?"
-    Lily ""
+    Lily "Eu sei, eu sei. Você acha que é fácil colocar um sutiã tão rápido?"
 
 # game/logic/events/lily.rpy:1810
 translate brazilian Lily_6_label_224_58985e31:
 
     # ch_Name "Hmm... I don't know."
-    ch_Name ""
+    ch_Name "Hmm... Não sei."
 
 # game/logic/events/lily.rpy:1811
 translate brazilian Lily_6_label_224_b5db4e55:
 
     # ch_Name "You took it off pretty fast."
-    ch_Name ""
+    ch_Name "Você tirou bem rápido."
 
 # game/logic/events/lily.rpy:1813
 translate brazilian Lily_6_label_224_1ad90dd1_4:
@@ -5698,19 +5698,19 @@ translate brazilian Lily_6_label_224_1ad90dd1_4:
 translate brazilian Lily_6_label_224_f4a861cc:
 
     # Lily "I'm sleepy."
-    Lily ""
+    Lily "Estou com sono."
 
 # game/logic/events/lily.rpy:1815
 translate brazilian Lily_6_label_224_7055944c:
 
     # ch_Name "I know. Hang in there."
-    ch_Name ""
+    ch_Name "Eu sei. Aguenta aí."
 
 # game/logic/events/lily.rpy:1820
 translate brazilian Lily_6_label_224_15165959:
 
     # ch_Name "Oh... Oh yeah..."
-    ch_Name ""
+    ch_Name "Oh... Assim..."
 
 # game/logic/events/lily.rpy:1821
 translate brazilian Lily_6_label_224_a0f373db:
@@ -5728,7 +5728,7 @@ translate brazilian Lily_6_label_224_eee686cf_1:
 translate brazilian Lily_6_label_224_f4bd7b4e_1:
 
     # ch_Name "Oh... Oh yes..."
-    ch_Name ""
+    ch_Name "Oh... Assim..."
 
 # game/logic/events/lily.rpy:1826
 translate brazilian Lily_6_label_224_53f0a497:
@@ -5740,13 +5740,13 @@ translate brazilian Lily_6_label_224_53f0a497:
 translate brazilian Lily_6_label_224_1efa6cbd:
 
     # Lily "I can't believe how much of her there is!"
-    Lily ""
+    Lily "Não acredito que tem tanto assim!"
 
 # game/logic/events/lily.rpy:1829
 translate brazilian Lily_6_label_224_1050e8d9:
 
     # ch_Name "There's more!"
-    ch_Name ""
+    ch_Name "Tem mais!"
 
 # game/logic/events/lily.rpy:1830
 translate brazilian Lily_6_label_224_eee686cf_2:
@@ -5758,31 +5758,31 @@ translate brazilian Lily_6_label_224_eee686cf_2:
 translate brazilian Lily_6_label_224_50001d59:
 
     # ch_Name "...Oh yes..." with flash
-    ch_Name "" with flash
+    ch_Name "...Isso..." with flash
 
 # game/logic/events/lily.rpy:1833
 translate brazilian Lily_6_label_224_89a027c2:
 
     # Lily "Hee hee hee!"
-    Lily ""
+    Lily "Hi hi hi!"
 
 # game/logic/events/lily.rpy:1835
 translate brazilian Lily_6_label_224_521919e3:
 
     # Lily "And more?"
-    Lily ""
+    Lily "E mais?"
 
 # game/logic/events/lily.rpy:1836
 translate brazilian Lily_6_label_224_1fb3fcd7:
 
     # Lily "Unbelievable..."
-    Lily ""
+    Lily "Incrível..."
 
 # game/logic/events/lily.rpy:1838
 translate brazilian Lily_6_label_224_a0aa7c62:
 
     # ch_Name "Lily, you were incredible!"
-    ch_Name ""
+    ch_Name "Lily, você foi inacreditável!"
 
 # game/logic/events/lily.rpy:1839
 translate brazilian Lily_6_label_224_1ad90dd1_5:
@@ -5794,67 +5794,67 @@ translate brazilian Lily_6_label_224_1ad90dd1_5:
 translate brazilian Lily_6_label_224_21625fd1:
 
     # Lily "That was something..."
-    Lily ""
+    Lily "Isso foi algo..."
 
 # game/logic/events/lily.rpy:1842
 translate brazilian Lily_6_label_224_05b0a674:
 
     # Lily "I've never felt like that before."
-    Lily ""
+    Lily "Nunca me senti assim antes."
 
 # game/logic/events/lily.rpy:1844
 translate brazilian Lily_6_label_224_911d73d1:
 
     # Lily "Thank you, [Name]."
-    Lily ""
+    Lily "Obrigada, [Name]."
 
 # game/logic/events/lily.rpy:1845
 translate brazilian Lily_6_label_224_3a93c061:
 
     # Lily "I didn't expect THIS from you..."
-    Lily ""
+    Lily "Eu não esperava ISSO de você..."
 
 # game/logic/events/lily.rpy:1847
 translate brazilian Lily_6_label_224_8ec7e22a:
 
     # ch_Name "I didn't expect it from myself."
-    ch_Name ""
+    ch_Name "Eu não esperava isso de mim."
 
 # game/logic/events/lily.rpy:1848
 translate brazilian Lily_6_label_224_0efbb04c:
 
     # ch_Name "But you brought out the beast in me."
-    ch_Name ""
+    ch_Name "Mas você despertou um monstro em mim."
 
 # game/logic/events/lily.rpy:1849
 translate brazilian Lily_6_label_224_89a027c2_1:
 
     # Lily "Hee hee hee!"
-    Lily ""
+    Lily "Hi hi hi!"
 
 # game/logic/events/lily.rpy:1854
 translate brazilian Lily_6_label_224_6fb36d8a_1:
 
     # ch_Name "We have to go!"
-    ch_Name ""
+    ch_Name "Temos que ir!"
 
 # game/logic/events/lily.rpy:1855
 translate brazilian Lily_6_label_224_5cbb397c_1:
 
     # Lily "Yeah, you're right."
-    Lily ""
+    Lily "É, tem razão."
 
 # game/logic/events/lily.rpy:1858
 translate brazilian Lily_6_label_224_e824f604_1:
 
     # ch_Name "Baby..."
-    ch_Name ""
+    ch_Name "Querida..."
 
 # game/logic/events/lily.rpy:1859
 translate brazilian Lily_6_label_224_c7b8a2a8_1:
 
     # ch_Name "Come here."
-    ch_Name ""
+    ch_Name "Venha aqui."
 
 # game/logic/events/lily.rpy:1861
 translate brazilian Lily_6_label_224_ad0af347_2:
@@ -5872,37 +5872,37 @@ translate brazilian Lily_6_label_224_1ad90dd1_6:
 translate brazilian Lily_6_label_224_f0b5ebb2_1:
 
     # Lily "We should go before we fall asleep..."
-    Lily ""
+    Lily "Devíamos ir antes de cair no sono..."
 
 # game/logic/events/lily.rpy:1865
 translate brazilian Lily_6_label_224_4a41b0d1_1:
 
     # ch_Name "You're right."
-    ch_Name ""
+    ch_Name "Tem razão."
 
 # game/logic/events/lily.rpy:1867
 translate brazilian Lily_6_label_224_d678c9ef_1:
 
     # ch_Name "Come on, Lily. We should get out of here."
-    ch_Name ""
+    ch_Name "Vamos, Lily. Temos que sair daqui."
 
 # game/logic/events/lily.rpy:1868
 translate brazilian Lily_6_label_224_7c090c80_1:
 
     # Lily "I know, I know. You think it's easy to put on a bra that fast?"
-    Lily ""
+    Lily "Eu sei, eu sei. Você acha que é fácil colocar um sutiã tão rápido?"
 
 # game/logic/events/lily.rpy:1870
 translate brazilian Lily_6_label_224_58985e31_1:
 
     # ch_Name "Hmm... I don't know."
-    ch_Name ""
+    ch_Name "Hmm... Não sei."
 
 # game/logic/events/lily.rpy:1871
 translate brazilian Lily_6_label_224_b5db4e55_1:
 
     # ch_Name "You took it off pretty fast."
-    ch_Name ""
+    ch_Name "Você tirou ele bem rápido."
 
 # game/logic/events/lily.rpy:1873
 translate brazilian Lily_6_label_224_1ad90dd1_7:
@@ -5914,109 +5914,109 @@ translate brazilian Lily_6_label_224_1ad90dd1_7:
 translate brazilian Lily_6_label_224_f4a861cc_1:
 
     # Lily "I'm sleepy."
-    Lily ""
+    Lily "Estou com sono."
 
 # game/logic/events/lily.rpy:1875
 translate brazilian Lily_6_label_224_7055944c_1:
 
     # ch_Name "I know. Hang in there."
-    ch_Name ""
+    ch_Name "Eu sei. Aguente firme."
 
 # game/logic/events/lily.rpy:1881
 translate brazilian Lily_6_label_224_50419c03:
 
     # ch_Name "{i}(Hmm, what if?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm, e se?){/i}"
 
 # game/logic/events/lily.rpy:1883
 translate brazilian Lily_6_label_224_209abc75:
 
     # ch_Name "Lily, I want to try something."
-    ch_Name ""
+    ch_Name "Lily, quero tentar uma coisa."
 
 # game/logic/events/lily.rpy:1884
 translate brazilian Lily_6_label_224_fc3b95c9:
 
     # ch_Name "Will you be patient for me?"
-    ch_Name ""
+    ch_Name "Você tem paciência comigo?"
 
 # game/logic/events/lily.rpy:1886
 translate brazilian Lily_6_label_224_ff139b64:
 
     # Lily "Um... Well..."
-    Lily ""
+    Lily "Hm... Bem..."
 
 # game/logic/events/lily.rpy:1887
 translate brazilian Lily_6_label_224_e9b4307d:
 
     # Lily "L-okay."
-    Lily ""
+    Lily "O-Ok."
 
 # game/logic/events/lily.rpy:1889
 translate brazilian Lily_6_label_224_cffecadc:
 
     # Lily "Ouch..."
-    Lily ""
+    Lily "Ai..."
 
 # game/logic/events/lily.rpy:1890
 translate brazilian Lily_6_label_224_3884e1d4:
 
     # Lily "Ouch... Careful there..."
-    Lily ""
+    Lily "Ai... Cuidado aí..."
 
 # game/logic/events/lily.rpy:1892
 translate brazilian Lily_6_label_224_7c7843a8:
 
     # ch_Name "{i}(It's so bouncy...){/i}"
-    ch_Name ""
+    ch_Name "{i}(É tão apertado...){/i}"
 
 # game/logic/events/lily.rpy:1893
 translate brazilian Lily_6_label_224_9e68a0f2:
 
     # ch_Name "{i}(The sensation is unspeakable...){/i}"
-    ch_Name ""
+    ch_Name "{i}(A sensação é inenarrável...){/i}"
 
 # game/logic/events/lily.rpy:1895
 translate brazilian Lily_6_label_224_76bf6968:
 
     # Lily "Ouch! No... Wait, [Name]."
-    Lily ""
+    Lily "Ui! Não... Espera, [Name]."
 
 # game/logic/events/lily.rpy:1896
 translate brazilian Lily_6_label_224_98b51c16:
 
     # Lily "I'm sorry. But no."
-    Lily ""
+    Lily "Desculpa, mas não."
 
 # game/logic/events/lily.rpy:1898
 translate brazilian Lily_6_label_224_e4d4bb3a:
 
     # Lily "Maybe another time..."
-    Lily ""
+    Lily "Talvez uma outra vez..."
 
 # game/logic/events/lily.rpy:1899
 translate brazilian Lily_6_label_224_220338cf:
 
     # ch_Name "{i}(She said maybe another time?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela disse talvez em outra vez?){/i}"
 
 # game/logic/events/lily.rpy:1900
 translate brazilian Lily_6_label_224_62b3ead6:
 
     # ch_Name "Okay, okay."
-    ch_Name ""
+    ch_Name "Ok, ok."
 
 # game/logic/events/lily.rpy:1902
 translate brazilian Lily_6_label_224_c877d2ca:
 
     # ch_Name "We'll try it next time."
-    ch_Name ""
+    ch_Name "Tentaremos na próxima vez."
 
 # game/logic/events/lily.rpy:1905
 translate brazilian Lily_6_label_434_cfe72cf9:
 
     # ch_Name "I'm sorry, Lily."
-    ch_Name ""
+    ch_Name "Desculpa, Lily."
 
 # game/logic/events/lily.rpy:1906
 translate brazilian Lily_6_label_434_0062c087:
