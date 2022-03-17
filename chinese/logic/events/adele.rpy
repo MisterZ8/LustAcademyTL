@@ -2638,7 +2638,7 @@ translate chinese vip_lucy_1_label_2_f6cf9375:
 translate chinese vip_lucy_1_label_2_f1dfa227:
 
     # ch_Name "{i}(Oh, Lucy, I could never say \"no\" to you.){/i}"
-    ch_Name "{i}(哦，Lucy，我永远不会对你说\"no\"。){/i}"
+    ch_Name "{i}(哦，Lucy，我永远不会对你说\"不\"。){/i}"
 
 # game/logic/events/adele.rpy:958
 translate chinese vip_lucy_1_label_2_6b34e51d:
