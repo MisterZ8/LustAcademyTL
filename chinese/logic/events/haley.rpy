@@ -8650,13 +8650,13 @@ translate chinese Haley_15_label_from_gallery_048b74a3:
 translate chinese Haley_15_label_from_gallery_3657c1af:
 
     # Haley "But I just can't."
-    Haley "一切都发展得太快了。"
+    Haley "但我就是做不到。"
 
 # game/logic/events/haley.rpy:2579
 translate chinese Haley_15_label_from_gallery_24d057f6:
 
     # Haley "It all moves too fast."
-    Haley "我不太了解你。"
+    Haley "这一切都发展得太快了。"
 
 # game/logic/events/haley.rpy:2580
 translate chinese Haley_15_label_from_gallery_9894de8b:
