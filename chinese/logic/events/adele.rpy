@@ -4174,7 +4174,7 @@ translate chinese vip_sadira_1_label_2_9ffeeb0e:
 translate chinese vip_sadira_1_label_2_88e8dfba:
 
     # Sadira "Get ready, your life is about to be divided into \"before\" and \"after\"."
-    Sadira "准备好，你的人生即将分为\"before\"和\"after\"."
+    Sadira "准备好，你的人生即将分为\"之前\"和\"之后\"。"
 
 # game/logic/events/adele.rpy:1373
 translate chinese vip_sadira_1_label_2_eee686cf:
