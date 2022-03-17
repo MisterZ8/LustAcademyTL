@@ -928,7 +928,7 @@ translate chinese Molly_3_label_cbe27d96:
 translate chinese Molly_3_label_f9071751:
 
     # Molly "[Name], w-w-what are you doing?"
-    Molly "[Name]]，你在做什么?"
+    Molly "[Name]，你在做什么?"
 
 # game/logic/events/molly.rpy:437
 translate chinese Molly_3_label_fc4502fd_1:
