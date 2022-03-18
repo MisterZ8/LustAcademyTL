@@ -1804,223 +1804,223 @@ translate philippine Sabrina_5_label_95a4a6ab:
 translate philippine Sabrina_5_label_7f33726f:
 
     # Sabrina "But in reality this potion makes your skin hardened and more resistant to magic."
-    Sabrina ""
+    Sabrina "Pero sa katotohanan ang potion na ito ay nagpapatigas ng balat at mas lumalaban sa mahika."
 
 # game/logic/events/sabrina.rpy:637
 translate philippine Sabrina_5_label_ab4a4f4a:
 
     # Sabrina "\"But no \"Golem-like\" appearance."
-    Sabrina ""
+    Sabrina "\"Ngunit walang \"tulad ng Golem\" na hitsura."
 
 # game/logic/events/sabrina.rpy:638
 translate philippine Sabrina_5_label_ed11bd2c:
 
     # Sabrina "Your skin will just get as strong as the armor or the stone."
-    Sabrina ""
+    Sabrina "Ang iyong balat ay magiging kasing lakas ng baluti o bato."
 
 # game/logic/events/sabrina.rpy:639
 translate philippine Sabrina_5_label_73ed6194:
 
     # Sabrina "Hence the name \"Stoneskin\". That's all."
-    Sabrina ""
+    Sabrina "Kaya tinawag na \"Stoneskin\". 'Yun lang."
 
 # game/logic/events/sabrina.rpy:640
 translate philippine Sabrina_5_label_4bbf71b5:
 
     # Carter "Oh, that's why. I get it. Thank you."
-    Carter ""
+    Carter "Oh, kaya pala. Nakuha ko. Salamat."
 
 # game/logic/events/sabrina.rpy:642
 translate philippine Sabrina_5_label_ba2dd230:
 
     # Sabrina "Now, if there's no more questions, let's start brewing!"
-    Sabrina ""
+    Sabrina "Ngayon, kung wala nang tanong, simulan na natin ang pagtimpla!"
 
 # game/logic/events/sabrina.rpy:643
 translate philippine Sabrina_5_label_b51a177b:
 
     # Sabrina "Who's gonna be first?"
-    Sabrina ""
+    Sabrina "Sino ang mauuna?"
 
 # game/logic/events/sabrina.rpy:649
 translate philippine Sabrina_5_label_25ab6962:
 
     # Sabrina "Carter, who brews a stone-skin potion on such a low heat?"
-    Sabrina ""
+    Sabrina "Carter, sino ang nagtitimpla ng potion na balat ng bato sa kaunting init?"
 
 # game/logic/events/sabrina.rpy:650
 translate philippine Sabrina_5_label_89838258:
 
     # Sabrina "You see how sloppy it gets?"
-    Sabrina ""
+    Sabrina "Nakikita mo kung gaano ito kasanaw?"
 
 # game/logic/events/sabrina.rpy:651
 translate philippine Sabrina_5_label_18451237:
 
     # Carter "Yes."
-    Carter ""
+    Carter "Oo."
 
 # game/logic/events/sabrina.rpy:653
 translate philippine Sabrina_5_label_6114d53d:
 
     # Sabrina "Read the recipe again carefully, we'll try again next class."
-    Sabrina ""
+    Sabrina "Basahin ulit ng mabuti ang recipe, susubukan natin ito ulit sa susunod na klase."
 
 # game/logic/events/sabrina.rpy:654
 translate philippine Sabrina_5_label_ecc5e3a4:
 
     # Sabrina "Have a seat."
-    Sabrina ""
+    Sabrina "Maupo ka."
 
 # game/logic/events/sabrina.rpy:660
 translate philippine Sabrina_5_label_b184ed9d:
 
     # Sabrina "Grace, darling! It's a beautiful shade, but..."
-    Sabrina ""
+    Sabrina "Grace, darling! Ang ganda ng kulay, pero..."
 
 # game/logic/events/sabrina.rpy:662
 translate philippine Sabrina_5_label_78c3dff0:
 
     # Grace "It is, isn't it? I've tried hard!"
-    Grace ""
+    Grace "Diba? Sinubukan ko nang husto!"
 
 # game/logic/events/sabrina.rpy:663
 translate philippine Sabrina_5_label_de8ce282:
 
     # Grace "Thank you, Miss Spellman!"
-    Grace ""
+    Grace "Salamat, Ms. Spellman!"
 
 # game/logic/events/sabrina.rpy:664
 translate philippine Sabrina_5_label_5b7f781d:
 
     # Sabrina "I'm not finished."
-    Sabrina ""
+    Sabrina "Hindi ako tapos."
 
 # game/logic/events/sabrina.rpy:666
 translate philippine Sabrina_5_label_320c371a:
 
     # Sabrina "And this is what the stone skin potion looks like."
-    Sabrina ""
+    Sabrina "At ito ang hitsura ng gayuma sa balat ng bato."
 
 # game/logic/events/sabrina.rpy:667
 translate philippine Sabrina_5_label_a4a55be8:
 
     # Sabrina "It's beautiful, but you've obviously mixed up the ingredients."
-    Sabrina ""
+    Sabrina "Ang ganda, pero halatang pinaghalo mo ang mga sangkap."
 
 # game/logic/events/sabrina.rpy:669
 translate philippine Sabrina_5_label_de5348fe:
 
     # Sabrina "I'm afraid what you've concocted will kill a man rather than save him."
-    Sabrina ""
+    Sabrina "Sa totoo lang ang ginawa mo ay nakamamatay kaysa nagliligtas sa gagamit."
 
 # game/logic/events/sabrina.rpy:675
 translate philippine Sabrina_5_label_629b8876:
 
     # Sabrina "Stir a little faster, [Name]."
-    Sabrina ""
+    Sabrina "Bilisan mo ang paghalo, [Name]."
 
 # game/logic/events/sabrina.rpy:676
 translate philippine Sabrina_5_label_cc311338:
 
     # Sabrina "That's it, good."
-    Sabrina ""
+    Sabrina "'Yan, mabuti."
 
 # game/logic/events/sabrina.rpy:677
 translate philippine Sabrina_5_label_1e109358:
 
     # Sabrina "You have a natural gift for potions."
-    Sabrina ""
+    Sabrina "Natural ka pala sa mga potion."
 
 # game/logic/events/sabrina.rpy:679
 translate philippine Sabrina_5_label_155c8e19:
 
     # Sabrina "Look at the hue of that potion. Just like mine..."
-    Sabrina ""
+    Sabrina "Tingnan mo ang kulay ng potion na iyon. Katulad ng akin..."
 
 # game/logic/events/sabrina.rpy:680
 translate philippine Sabrina_5_label_3a5c7650:
 
     # ch_Name "Thank you."
-    ch_Name ""
+    ch_Name "Salamat."
 
 # game/logic/events/sabrina.rpy:681
 translate philippine Sabrina_5_label_3e6de555:
 
     # ch_Name "But it's all down to you, Miss Spellman."
-    ch_Name ""
+    ch_Name "Ngunit ang lahat ay nakasalalay sa iyo, Ms. Spellman."
 
 # game/logic/events/sabrina.rpy:682
 translate philippine Sabrina_5_label_11c01fcf:
 
     # ch_Name "You must be a natural-born teacher."
-    ch_Name ""
+    ch_Name "Siguradong natural ka na guro."
 
 # game/logic/events/sabrina.rpy:684
 translate philippine Sabrina_5_label_35d7f4b5:
 
     # Sabrina "Okay, now we're both flattering each other."
-    Sabrina ""
+    Sabrina "Okay, pareho na tayong nambobola sa isa't isa."
 
 # game/logic/events/sabrina.rpy:685
 translate philippine Sabrina_5_label_7b33d3ac:
 
     # Sabrina "Let's stop."
-    Sabrina ""
+    Sabrina "Tumigil na tayo."
 
 # game/logic/events/sabrina.rpy:686
 translate philippine Sabrina_5_label_ee0b9d19:
 
     # ch_Name "Don't you like getting compliments?"
-    ch_Name ""
+    ch_Name "Hindi ka ba mahilig makatanggap ng mga papuri?"
 
 # game/logic/events/sabrina.rpy:687
 translate philippine Sabrina_5_label_54fb4f2b:
 
     # Sabrina "I do. But not during class."
-    Sabrina ""
+    Sabrina "Siyempre. Pero hindi sa klase."
 
 # game/logic/events/sabrina.rpy:688
 translate philippine Sabrina_5_label_ecc5e3a4_1:
 
     # Sabrina "Have a seat."
-    Sabrina ""
+    Sabrina "Maupo ka."
 
 # game/logic/events/sabrina.rpy:694
 translate philippine Sabrina_5_label_649f364e:
 
     # Sabrina "Class, I want you all to pay attention to these two grains."
-    Sabrina ""
+    Sabrina "Class, gusto kong bigyan ninyo ng pansin ang dalawang butil na ito."
 
 # game/logic/events/sabrina.rpy:695
 translate philippine Sabrina_5_label_6d4fd842:
 
     # Sabrina "Perfect shade, nutty smell, no bubbles."
-    Sabrina ""
+    Sabrina "Perpektong lilim, mabangong amoy, walang mga bula."
 
 # game/logic/events/sabrina.rpy:697
 translate philippine Sabrina_5_label_50af50fe:
 
     # Sabrina "I made one of these bottles especially for the demonstration."
-    Sabrina ""
+    Sabrina "Ginawa ko ang isa sa mga bote na ito lalo na para sa demonstrasyon."
 
 # game/logic/events/sabrina.rpy:698
 translate philippine Sabrina_5_label_2428eff4:
 
     # ch_Name "{i}(No, don't tell me she decided...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi, huwag mong sabihing siya ay...){/i}"
 
 # game/logic/events/sabrina.rpy:700
 translate philippine Sabrina_5_label_dd8c816b:
 
     # Sabrina "And the other one was just brewed by Mr. [Surname]!"
-    Sabrina ""
+    Sabrina "At ang isa ay tinimpla ni Mr. [Surname]!"
 
 # game/logic/events/sabrina.rpy:701
 translate philippine Sabrina_5_label_90b09d2a:
 
     # Sabrina "Bravo! Let's all give him a round of applause!"
-    Sabrina ""
+    Sabrina "Bravo! Palakpakan nga natin siya!"
 
 # game/logic/events/sabrina.rpy:702
 translate philippine Sabrina_5_label_c404db7d:
@@ -2032,73 +2032,73 @@ translate philippine Sabrina_5_label_c404db7d:
 translate philippine Sabrina_5_label_dd9e45d4:
 
     # ch_Name "Come on, guys. I just got lucky."
-    ch_Name ""
+    ch_Name "Tara na guys. Swerte lang iyan."
 
 # game/logic/events/sabrina.rpy:705
 translate philippine Sabrina_5_label_600da1d3:
 
     # ch_Name "{i}(Damn, I was worried about nothing. It's nice to be the center of attention.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wala akong dapat alalahanin. Masarap maging sentro ng atensyon.){/i}
 
 # game/logic/events/sabrina.rpy:706
 translate philippine Sabrina_5_label_9478dfbb:
 
     # ch_Name "{i}(It's like stepping onto the field again and hearing the support of the stands...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parang tumuntong  ako ulit sa larangan at narinig ko ang suporta ng mga tao...){/i}"
 
 # game/logic/events/sabrina.rpy:708
 translate philippine Sabrina_5_label_3ff5654b:
 
     # Sabrina "That's the end of the lesson for today."
-    Sabrina ""
+    Sabrina "Iyan ang katapusan ng aralin para sa araw na ito."
 
 # game/logic/events/sabrina.rpy:709
 translate philippine Sabrina_5_label_2082fb0d:
 
     # Sabrina "[Name], don't forget to pick up your potion."
-    Sabrina ""
+    Sabrina "[Name], huwag mong kalimutang kunin ang iyong potion."
 
 # game/logic/events/sabrina.rpy:710
 translate philippine Sabrina_5_label_1c71b918:
 
     # ch_Name "{i}(That's right, I can take it back!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tama, pwede ko palang kunin!){/i}"
 
 # game/logic/events/sabrina.rpy:712
 translate philippine Sabrina_5_label_73943a23:
 
     # Sabrina "Here's your reward."
-    Sabrina ""
+    Sabrina "Eto na ang gantimpala mo."
 
 # game/logic/events/sabrina.rpy:713
 translate philippine Sabrina_5_label_79b9acd0:
 
     # ch_Name "What kind of reward is that?"
-    ch_Name ""
+    ch_Name "Anong klaseng gantimpala yan?"
 
 # game/logic/events/sabrina.rpy:714
 translate philippine Sabrina_5_label_76e87ae7:
 
     # Sabrina "What do you mean?"
-    Sabrina ""
+    Sabrina "Ano ang ibig mong sabihin?"
 
 # game/logic/events/sabrina.rpy:715
 translate philippine Sabrina_5_label_411e5a27:
 
     # ch_Name "Well, I brewed it. I can brew one just like it any time. Is that a reward?"
-    ch_Name ""
+    ch_Name "Ako ang nagtimpla nito. Makakatimpla ako ng ganito kahit kailanman. Gantimpala ba ito?"
 
 # game/logic/events/sabrina.rpy:717
 translate philippine Sabrina_5_label_6eca324b:
 
     # Sabrina "Hmm... Well, what do you want as a reward?"
-    Sabrina ""
+    Sabrina "Hmm... Ano ang gusto mong gantimpala?"
 
 # game/logic/events/sabrina.rpy:718
 translate philippine Sabrina_5_label_747fc3df:
 
     # ch_Name "I don't know... A kiss, maybe?"
-    ch_Name ""
+    ch_Name "Hindi ko alam... Isang halik, siguro?"
 
 # game/logic/events/sabrina.rpy:719
 translate philippine Sabrina_5_label_0026bb5e:
@@ -2116,7 +2116,7 @@ translate philippine Sabrina_5_label_976fc3fc:
 translate philippine Sabrina_5_label_6d6c92c1:
 
     # ch_Name "{i}(Ouch. Pretty painful reaction.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aray. Medyo masakit na reaksyon.){/i}"
 
 # game/logic/events/sabrina.rpy:723
 translate philippine Sabrina_5_label_0026bb5e_1:
@@ -2128,691 +2128,691 @@ translate philippine Sabrina_5_label_0026bb5e_1:
 translate philippine Sabrina_5_label_afa22010:
 
     # Sabrina "[Name], you can't be serious."
-    Sabrina ""
+    Sabrina "[Name], nagbibiro ka talaga."
 
 # game/logic/events/sabrina.rpy:727
 translate philippine Sabrina_5_label_14c8a1b9:
 
     # Sabrina "You're my student, and how would it even look from the outside..."
-    Sabrina ""
+    Sabrina "Estudyante kita, at ano ang makikita ng iba kapag malaman nila..."
 
 # game/logic/events/sabrina.rpy:728
 translate philippine Sabrina_5_label_db938ec5:
 
     # ch_Name "{i}(On the other hand, she didn't say she didn't like me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sa kabilang banda, hindi niya sinabing hindi niya ako gusto.){/i}"
 
 # game/logic/events/sabrina.rpy:729
 translate philippine Sabrina_5_label_9fcb939b:
 
     # ch_Name "{i}(I think it's just the opposite... But it's better to lighten the mood now.){/i}"
-    ch_Name ""
+    ch_Name ""{i}(Sa tingin ko ang kabaligtaran ay totoo... Pero mas magandang pagaanin ko ang mood ngayon.){/i}""
 
 # game/logic/events/sabrina.rpy:731
 translate philippine Sabrina_5_label_db22f06d:
 
     # ch_Name "Come on, Miss Spellman. It's just a joke."
-    ch_Name ""
+    ch_Name "Sige na, Ms. Spellman. Biro lang iyon."
 
 # game/logic/events/sabrina.rpy:732
 translate philippine Sabrina_5_label_888af1cf:
 
     # ch_Name "Just like you said."
-    ch_Name ""
+    ch_Name "Tulad ng sabi mo."
 
 # game/logic/events/sabrina.rpy:733
 translate philippine Sabrina_5_label_df9d9e74:
 
     # Sabrina "Oh, Victoria told me about those jokes of yours..."
-    Sabrina ""
+    Sabrina "Naku, sinabi sa akin ni Victoria ang tungkol sa mga biro mo..."
 
 # game/logic/events/sabrina.rpy:734
 translate philippine Sabrina_5_label_cf4edec9:
 
     # Sabrina "Lovely."
-    Sabrina ""
+    Sabrina "Kaibig-ibig."
 
 # game/logic/events/sabrina.rpy:738
 translate philippine Sabrina_5_label_fd9618db:
 
     # ch_Name "{i}(It looks like I'm getting popular among teachers.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mukhang sumikat ako sa mga guro.){/i}"
 
 # game/logic/events/sabrina.rpy:739
 translate philippine Sabrina_5_label_36d0e1cb:
 
     # ch_Name "Thank you for the lesson, miss Spellman."
-    ch_Name ""
+    ch_Name "Salamat sa leksyon, Ms. Spellman."
 
 # game/logic/events/sabrina.rpy:740
 translate philippine Sabrina_5_label_bccaeaf6:
 
     # ch_Name "Goodbye!"
-    ch_Name ""
+    ch_Name "Paalam!"
 
 # game/logic/events/sabrina.rpy:743
 translate philippine Sabrina_5_label_4858901a:
 
     # ch_Name "{i}(If I want to make real money, I have to think about more options.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kung gusto kong kumita ng pera, kailangan kong mag-isip ibang mga opsyon.){/i}"
 
 # game/logic/events/sabrina.rpy:744
 translate philippine Sabrina_5_label_faf54563:
 
     # ch_Name "{i}(You can't get rich on bartender tips.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi ka yumaman sa mga tip na binibigay sa bartender.){/i}"
 
 # game/logic/events/sabrina.rpy:745
 translate philippine Sabrina_5_label_fed78e67:
 
     # ch_Name "{i}(Maybe Elijah's offer can be more lucrative.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Siguro mas kumikita ang alok ni Elijah.){/i}"
 
 # game/logic/events/sabrina.rpy:750
 translate philippine Sabrina_6_label_d48e29af:
 
     # Sabrina "Greetings, students!"
-    Sabrina ""
+    Sabrina "Binabati ko kayo, mga mag-aaral!"
 
 # game/logic/events/sabrina.rpy:751
 translate philippine Sabrina_6_label_c314bfd2:
 
     # Sabrina "Today we're going to brew Magic Reflection Potion!"
-    Sabrina ""
+    Sabrina "Ngayon magtitimpla tayo ng Magic Reflection Potion!"
 
 # game/logic/events/sabrina.rpy:752
 translate philippine Sabrina_6_label_54591356:
 
     # Sabrina "This is a very useful potion if you encounter a wizard in battle."
-    Sabrina ""
+    Sabrina "Ito ay napaka-kapaki-pakinabang na potion kung makakatagpo kayo ng isang salamangkero sa labanan."
 
 # game/logic/events/sabrina.rpy:754
 translate philippine Sabrina_6_label_84bb0be7:
 
     # Sabrina "It reflects spells back to the one who is attacking you."
-    Sabrina ""
+    Sabrina "Ito ay sumasalamin sa mahika pabalik sa umaatake sa iyo."
 
 # game/logic/events/sabrina.rpy:755
 translate philippine Sabrina_6_label_895e031e:
 
     # Sabrina "This potion needs to be stirred continuously as you add ingredients."
-    Sabrina ""
+    Sabrina "Kailangang patuloy na hinalo ito habang nagdadagdag ka ng mga sangkap."
 
 # game/logic/events/sabrina.rpy:756
 translate philippine Sabrina_6_label_007a0b2f:
 
     # Sabrina "So today you have to split into pairs."
-    Sabrina ""
+    Sabrina "Kaya ngayon kailangan ninyong maghanap ng kapares."
 
 # game/logic/events/sabrina.rpy:758
 translate philippine Sabrina_6_label_0b89a04f:
 
     # Grace "Cool! Teamwork!"
-    Grace ""
+    Grace "Astig! Teamwork!"
 
 # game/logic/events/sabrina.rpy:759
 translate philippine Sabrina_6_label_653fe67c:
 
     # Grace "I'm with [Name]!"
-    Grace ""
+    Grace "Kasama ko si [Name]!"
 
 # game/logic/events/sabrina.rpy:760
 translate philippine Sabrina_6_label_47a0d16f:
 
     # ch_Name "{i}(Did I hear right? She wants to pair up with me?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tama ba ang narinig ko? Gusto niya akong ipares?){/i}"
 
 # game/logic/events/sabrina.rpy:761
 translate philippine Sabrina_6_label_ab4a2c44:
 
     # ch_Name "Me?"
-    ch_Name ""
+    ch_Name "Ako?"
 
 # game/logic/events/sabrina.rpy:763
 translate philippine Sabrina_6_label_becbed8b:
 
     # Grace "Of course she does. You and I are both great potion makers."
-    Grace ""
+    Grace "Siyempre. Mahusay tayong gumagawa ng potion."
 
 # game/logic/events/sabrina.rpy:764
 translate philippine Sabrina_6_label_e165becb:
 
     # Grace "We'll do great."
-    Grace ""
+    Grace "Wala tayong problema."
 
 # game/logic/events/sabrina.rpy:765
 translate philippine Sabrina_6_label_0e15f10f:
 
     # ch_Name "{i}(That's it...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kaya pala...){/i}"
 
 # game/logic/events/sabrina.rpy:769
 translate philippine Sabrina_6_label_736c9c64:
 
     # ch_Name "You convinced me. Let's show everyone what we can do!"
-    ch_Name ""
+    ch_Name "Napaniwala mo ako. Ipakita natin sa lahat ang kaya nating gawin!"
 
 # game/logic/events/sabrina.rpy:771
 translate philippine Sabrina_6_label_8b6b8da6:
 
     # Grace "What an investment!"
-    Grace ""
+    Grace "Mahusay na pamumuhunan!"
 
 # game/logic/events/sabrina.rpy:772
 translate philippine Sabrina_6_label_2cace53e:
 
     # Grace "I knew you had a winners mentality."
-    Grace ""
+    Grace "Alam kong may isip ka ng isang nagtatagumpay."
 
 # game/logic/events/sabrina.rpy:773
 translate philippine Sabrina_6_label_6853b286:
 
     # ch_Name "{i}(She seems to like successful guys.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mukhang gusto niya ang mga matagumpay na lalaki.){/i}"
 
 # game/logic/events/sabrina.rpy:774
 translate philippine Sabrina_6_label_fd5228ba:
 
     # ch_Name "{i}(Even if it's as simple a success as knowing how to brew potions.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kahit na ito ay simpleng tagumpay tulad ng pag-alam kung paano gumawa ng mga potion.){/i}"
 
 # game/logic/events/sabrina.rpy:776
 translate philippine Sabrina_6_label_11cda901:
 
     # ch_Name "You flatter me."
-    ch_Name ""
+    ch_Name "Nambobola mo ako."
 
 # game/logic/events/sabrina.rpy:777
 translate philippine Sabrina_6_label_9bace742:
 
     # ch_Name "Let's get started. We have a lot of work to do."
-    ch_Name ""
+    ch_Name "Magsimula na tayo. Marami pa tayong gagawin."
 
 # game/logic/events/sabrina.rpy:778
 translate philippine Sabrina_6_label_25b8da2c:
 
     # Grace "Good. (Laughs)"
-    Grace ""
+    Grace "Mabuti. (Tumatawa)"
 
 # game/logic/events/sabrina.rpy:784
 translate philippine Sabrina_6_label_4f52480b:
 
     # Grace "You're good at stirring, [Name]."
-    Grace ""
+    Grace "Ang galing mo maghalo, [Pangalan]."
 
 # game/logic/events/sabrina.rpy:785
 translate philippine Sabrina_6_label_df6f9ae5:
 
     # Grace "How many grams of butterfly wings again?"
-    Grace ""
+    Grace "Ilang gramo ulit ng pakpak ng pruparo?"
 
 # game/logic/events/sabrina.rpy:786
 translate philippine Sabrina_6_label_3e43bc8d:
 
     # ch_Name "Three and a half will do."
-    ch_Name ""
+    ch_Name "Tatlo at kalahati."
 
 # game/logic/events/sabrina.rpy:787
 translate philippine Sabrina_6_label_45551bf3:
 
     # Grace "Thank you, [Name]."
-    Grace ""
+    Grace "Salamat, [Name]."
 
 # game/logic/events/sabrina.rpy:789
 translate philippine Sabrina_6_label_9d5ddd22:
 
     # Grace "You've got such strong arms. Do you work out?"
-    Grace ""
+    Grace "Ang lakas ng braso mo. Nag-ehersisyo ka ba?"
 
 # game/logic/events/sabrina.rpy:790
 translate philippine Sabrina_6_label_fcaa8ea8:
 
     # ch_Name "{i}(Is she hitting on me? She's got time.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nililigawan ba niya ako? May oras siya.){/i}"
 
 # game/logic/events/sabrina.rpy:791
 translate philippine Sabrina_6_label_408bb464:
 
     # ch_Name "{i}(I have a potion to stir, really...){/i}"
-    ch_Name ""
+    ch_Name  "{i}(May potion pa akong haluin...){/i}"
 
 # game/logic/events/sabrina.rpy:792
 translate philippine Sabrina_6_label_bb372b0d:
 
     # ch_Name "I used to play soccer for years."
-    ch_Name ""
+    ch_Name "Naglalaro ako ng soccer moon."
 
 # game/logic/events/sabrina.rpy:793
 translate philippine Sabrina_6_label_71dd898a:
 
     # ch_Name "But after an injury, I quit."
-    ch_Name ""
+    ch_Name "Pero napinsala ako, at tumigil ako."
 
 # game/logic/events/sabrina.rpy:795
 translate philippine Sabrina_6_label_f922594a:
 
     # Grace "Too bad, I'd like to cheer for you from the stands sometime."
-    Grace ""
+    Grace "Sayang, gusto kitang palakpakan minsan sa mga stand."
 
 # game/logic/events/sabrina.rpy:796
 translate philippine Sabrina_6_label_d382a74d:
 
     # ch_Name "Well, we're in Cordale, so... Anything's possible."
-    ch_Name ""
+    ch_Name "Nasa Cordale tayo, kaya... Posible ang kahit ano."
 
 # game/logic/events/sabrina.rpy:797
 translate philippine Sabrina_6_label_5804b6d6:
 
     # Sabrina "Students, turn off the fire and stop stirring!"
-    Sabrina ""
+    Sabrina "Mga mag-aaral, patayin ang apoy at itigil ang paghahalo!"
 
 # game/logic/events/sabrina.rpy:803
 translate philippine Sabrina_6_label_31abdc9e:
 
     # Sabrina "This is unbelievable work, guys!"
-    Sabrina ""
+    Sabrina "Magaling talaga ito!"
 
 # game/logic/events/sabrina.rpy:804
 translate philippine Sabrina_6_label_403e284f:
 
     # Sabrina "You could sell a potion like this."
-    Sabrina ""
+    Sabrina "Maaari kayong magbenta ng potion tulad nito."
 
 # game/logic/events/sabrina.rpy:805
 translate philippine Sabrina_6_label_74db2cf3:
 
     # Sabrina "Both you did a great job."
-    Sabrina ""
+    Sabrina "Magaling ang ginawa ninyong dalawa."
 
 # game/logic/events/sabrina.rpy:806
 translate philippine Sabrina_6_label_acc0f4bd:
 
     # Grace "Thank you, ma'am."
-    Grace ""
+    Grace "Salamat po ma'am."
 
 # game/logic/events/sabrina.rpy:807
 translate philippine Sabrina_6_label_6e2f86c3:
 
     # Sabrina "Take a vial as a reward for your efforts."
-    Sabrina ""
+    Sabrina "Kumuha ng bote bilang gantimpala para sa iyong pagsisikap."
 
 # game/logic/events/sabrina.rpy:809
 translate philippine Sabrina_6_label_9a62a8e8:
 
     # ch_Name "You know that wouldn't be fair."
-    ch_Name ""
+    ch_Name Alam mo na hindi iyon patas."
 
 # game/logic/events/sabrina.rpy:811
 translate philippine Sabrina_6_label_f6a04c90:
 
     # ch_Name "I mean, we're both so good."
-    ch_Name ""
+    ch_Name "Pareho kaming magaling."
 
 # game/logic/events/sabrina.rpy:812
 translate philippine Sabrina_6_label_8428ab61:
 
     # ch_Name "It's better to pair up with guys who are less proficient."
-    ch_Name ""
+    ch_Name "Mas magandang makipagpares sa mga taong hindi gaanong marunong."
 
 # game/logic/events/sabrina.rpy:813
 translate philippine Sabrina_6_label_febcbd39:
 
     # ch_Name "To get them up to speed."
-    ch_Name ""
+    ch_Name "Para matuto sila."
 
 # game/logic/events/sabrina.rpy:815
 translate philippine Sabrina_6_label_4453f725:
 
     # Sabrina "Good idea, [Name]!"
-    Sabrina ""
+    Sabrina "Magandang ideya, [Name]!"
 
 # game/logic/events/sabrina.rpy:816
 translate philippine Sabrina_6_label_197474b3:
 
     # Sabrina "Pair up with Carter."
-    Sabrina ""
+    Sabrina "Ipares mo si Carter."
 
 # game/logic/events/sabrina.rpy:817
 translate philippine Sabrina_6_label_49495eaf:
 
     # ch_Name "Okay, Miss Spellman."
-    ch_Name ""
+    ch_Name "Sige, Ms. Spellman."
 
 # game/logic/events/sabrina.rpy:819
 translate philippine Sabrina_6_label_04fa6e93:
 
     # Grace "That's a shame. Okay, maybe you're right, [Name]."
-    Grace ""
+    Grace "Sayang. Sige, siguro tama ka, [Name]."
 
 # game/logic/events/sabrina.rpy:820
 translate philippine Sabrina_6_label_72dc1e3f:
 
     # Grace "But you'll see, this time my potion will be better than yours!"
-    Grace ""
+    Grace "Makikita mo, ang aking potion ay mas mahusay kaysa sa iyong magagawa!"
 
 # game/logic/events/sabrina.rpy:821
 translate philippine Sabrina_6_label_cde321f9:
 
     # ch_Name "Give it your best shot!"
-    ch_Name ""
+    ch_Name "Subukan mo!"
 
 # game/logic/events/sabrina.rpy:827
 translate philippine Sabrina_6_label_b9dfddd8:
 
     # ch_Name "You're good at stirring, Carter."
-    ch_Name ""
+    ch_Name "Ang galing mong maghalo, Carter."
 
 # game/logic/events/sabrina.rpy:828
 translate philippine Sabrina_6_label_13181a93:
 
     # Carter "Thank you. Years of cooking for my mother have not been in vain."
-    Carter ""
+    Carter "Salamat. Hindi nasayang ang mga taon ng pagluluto para sa aking ina."
 
 # game/logic/events/sabrina.rpy:829
 translate philippine Sabrina_6_label_220dc749:
 
     # Carter "Judging by the consistency of the potion, you did your job perfectly, too."
-    Carter ""
+    Carter "Base sa kabuuan ng potion, perpekto rin ang ginawa mo."
 
 # game/logic/events/sabrina.rpy:830
 translate philippine Sabrina_6_label_92c739d9:
 
     # ch_Name "Yeah, we make a great team."
-    ch_Name ""
+    ch_Name "Oo, tayo ay mahusay na koponan."
 
 # game/logic/events/sabrina.rpy:836
 translate philippine Sabrina_6_label_31abdc9e_1:
 
     # Sabrina "This is unbelievable work, guys!"
-    Sabrina ""
+    Sabrina "Magaling talaga ito!"
 
 # game/logic/events/sabrina.rpy:837
 translate philippine Sabrina_6_label_124a5bb0:
 
     # Sabrina "You could even sell a potion like this."
-    Sabrina ""
+    Sabrina "Maaari kayong magbenta ng potion tulad nito."
 
 # game/logic/events/sabrina.rpy:838
 translate philippine Sabrina_6_label_a9b4fa77:
 
     # Sabrina "Both of you did a great job."
-    Sabrina ""
+    Sabrina "Magaling kayong dalawa."
 
 # game/logic/events/sabrina.rpy:839
 translate philippine Sabrina_6_label_e0dbe7df:
 
     # Carter "Thank you, ma'am."
-    Carter ""
+    Carter "Salamat po ma'am."
 
 # game/logic/events/sabrina.rpy:840
 translate philippine Sabrina_6_label_4989fc49:
 
     # Sabrina "Take a vial each as a reward for your efforts."
-    Sabrina ""
+    Sabrina "Kumuha ng bote bilang gantimpala para sa iyong pagsisikap."
 
 # game/logic/events/sabrina.rpy:851
 translate philippine Sabrina_7_label_09115020:
 
     # Sabrina "Let's get this class started!"
-    Sabrina ""
+    Sabrina "Simulan na natin ang klase!"
 
 # game/logic/events/sabrina.rpy:852
 translate philippine Sabrina_7_label_e9aa7421:
 
     # Sabrina "We have a lot of work to do today!"
-    Sabrina ""
+    Sabrina "Marami tayong gagawin ngayon!"
 
 # game/logic/events/sabrina.rpy:853
 translate philippine Sabrina_7_label_97c136b5:
 
     # Sabrina "This potion takes five hours to brew."
-    Sabrina ""
+    Sabrina "Ang potion na ito ay tumatagal ng limang oras upang maitimpla."
 
 # game/logic/events/sabrina.rpy:855
 translate philippine Sabrina_7_label_c604023e:
 
     # Grace "Five hours?!"
-    Grace ""
+    Grace "Limang oras?!"
 
 # game/logic/events/sabrina.rpy:856
 translate philippine Sabrina_7_label_92226dc8:
 
     # Grace "Oh, I'm gonna be late for dueling..."
-    Grace ""
+    Grace "Oh, mahuhuli na ako sa dueling..."
 
 # game/logic/events/sabrina.rpy:857
 translate philippine Sabrina_7_label_c6d8288f:
 
     # Sabrina "And you can't miss the timings even a little bit, or else it will be spoiled."
-    Sabrina ""
+    Sabrina "At hindi pwedeng magkamali sa pagkakataon ng proseso, o masisira ito."
 
 # game/logic/events/sabrina.rpy:858
 translate philippine Sabrina_7_label_9fd700b0:
 
     # Sabrina "But I believe that we can do this!"
-    Sabrina ""
+    Sabrina "Ngunit naniniwala ako na magagawa natin ito!"
 
 # game/logic/events/sabrina.rpy:860
 translate philippine Sabrina_7_label_cfc96c77:
 
     # Carter "Miss Spellman, sorry!"
-    Carter ""
+    Carter "Ms. Spellman, pasensya na po!"
 
 # game/logic/events/sabrina.rpy:861
 translate philippine Sabrina_7_label_d9d19545:
 
     # Sabrina "Yes, Carter?"
-    Sabrina ""
+    Sabrina "Ano, Carter?"
 
 # game/logic/events/sabrina.rpy:862
 translate philippine Sabrina_7_label_10a42b8d:
 
     # Carter "I think I feel sick... Can I leave?"
-    Carter ""
+    Carter “May sakit yata ako... Pwede na ba akong umalis?
 
 # game/logic/events/sabrina.rpy:863
 translate philippine Sabrina_7_label_bade51b0:
 
     # Sabrina "Nice try, Carter. But next time try not to smile so much."
-    Sabrina ""
+    Sabrina "Magandang subok, Carter. Pero sa susunod 'wag kang ngumiti."
 
 # game/logic/events/sabrina.rpy:865
 translate philippine Sabrina_7_label_33060ed0:
 
     # Sabrina "What's the matter?"
-    Sabrina ""
+    Sabrina Ano ang nangyari?
 
 # game/logic/events/sabrina.rpy:866
 translate philippine Sabrina_7_label_b2cd19d0:
 
     # Sabrina "Aren't you inspired? Strange!"
-    Sabrina ""
+    Sabrina "Hindi ba kayo ispirado? Kakaiba!"
 
 # game/logic/events/sabrina.rpy:867
 translate philippine Sabrina_7_label_27d5c151:
 
     # Sabrina "Cause we're brewing the inspiration potion!"
-    Sabrina ""
+    Sabrina "Dahil gagawa tayo ng Inspiration Potion!"
 
 # game/logic/events/sabrina.rpy:868
 translate philippine Sabrina_7_label_55b571b1:
 
     # ch_Name "{i}(Sabrina is a little bit strange today. What got her so inspired?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Medyo kakaiba si Sabrina ngayon. Ano ang naging inspirasyon niya?){/i}"
 
 # game/logic/events/sabrina.rpy:869
 translate philippine Sabrina_7_label_fc3aaa50:
 
     # ch_Name "{i}(Maybe she drank a flask or two herself?){/i}"
-    ch_Name ""
+    ch_Name {i}(Marahil siya mismo ang uminom ng isa o dalawang flask?){/i}"
 
 # game/logic/events/sabrina.rpy:875
 translate philippine Sabrina_7_label_88ae4952:
 
     # Sabrina "Very well, [Name]. "
-    Sabrina ""
+    Sabrina "Sige, [Name]."
 
 # game/logic/events/sabrina.rpy:876
 translate philippine Sabrina_7_label_9cd649f1:
 
     # Sabrina "Make sure you're on time with adding ingredients."
-    Sabrina ""
+    Sabrina "Tiyaking nasa oras ka sa pagdaragdag ng mga sangkap."
 
 # game/logic/events/sabrina.rpy:877
 translate philippine Sabrina_7_label_3775a1cd:
 
     # ch_Name "You're right. Thank you."
-    ch_Name ""
+    ch_Name "Tama ka. Salamat."
 
 # game/logic/events/sabrina.rpy:883
 translate philippine Sabrina_7_label_fcb07386:
 
     # ch_Name "This is taking forever..."
-    ch_Name ""
+    ch_Name "Ang tagal..."
 
 # game/logic/events/sabrina.rpy:884
 translate philippine Sabrina_7_label_6df2c6b3:
 
     # ch_Name "{i}(I think I'm going to fall asleep face down into this pot...){/i}"
-    ch_Name ""
+    ch_Name ""{i}(Sa palagay ko matutulog na ako sa palayok na ito...){/i}"
 
 # game/logic/events/sabrina.rpy:885
 translate philippine Sabrina_7_label_f7b5cf68:
 
     # ch_Name "Miss Spellman, can I..."
-    ch_Name ""
+    ch_Name "Ms. Spellman, pwede bang..."
 
 # game/logic/events/sabrina.rpy:887
 translate philippine Sabrina_7_label_a779bf75:
 
     # ch_Name "Where is she?"
-    ch_Name ""
+    ch_Name "Nasaan siya?"
 
 # game/logic/events/sabrina.rpy:889
 translate philippine Sabrina_7_label_c8f5bd45:
 
     # Grace "She went to eat something,"
-    Grace ""
+    Grace "Kumain siya muna."
 
 # game/logic/events/sabrina.rpy:890
 translate philippine Sabrina_7_label_3e74e358:
 
     # ch_Name "Unbelievable..."
-    ch_Name ""
+    ch_Name "Hindi kapani-paniwala..."
 
 # game/logic/events/sabrina.rpy:896
 translate philippine Sabrina_7_label_0677306c:
 
     # Sabrina "Alright, students, It's time to turn off the heat."
-    Sabrina ""
+    Sabrina "Sige, mga estudyante, oras na para patayin ang init."
 
 # game/logic/events/sabrina.rpy:897
 translate philippine Sabrina_7_label_425e8fa1:
 
     # Sabrina "Great job everyone."
-    Sabrina ""
+    Sabrina "Magaling talaga ang lahat."
 
 # game/logic/events/sabrina.rpy:898
 translate philippine Sabrina_7_label_07494b84:
 
     # Sabrina "Now we leave them for a day and we'll find out how everyone did."
-    Sabrina ""
+    Sabrina "Ngayon iiwan natin sila ng isang araw at malalaman natin kung gaano kagaling ang ginawa ninyo."
 
 # game/logic/events/sabrina.rpy:899
 translate philippine Sabrina_7_label_a366e1e6:
 
     # Sabrina "Until then - class dismissed."
-    Sabrina ""
+    Sabrina "Hanggang doon - class dismissed."
 
 # game/logic/events/sabrina.rpy:900
 translate philippine Sabrina_7_label_f55238c7:
 
     # Sabrina "Have a nice day!"
-    Sabrina ""
+    Sabrina "Magandang araw!"
 
 # game/logic/events/sabrina.rpy:904
 translate philippine Sabrina_7_label_41ae8b80:
 
     # ch_Name "{i}(I can't believe she calls that exciting. I almost fell asleep.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi ako makapaniwalang tinawag niyang kapana-panabik iyon. Muntik na akong makatulog.){/i}"
 
 # game/logic/events/sabrina.rpy:905
 translate philippine Sabrina_7_label_ec417800:
 
     # ch_Name "{i}(Surprisingly, I'm really good at brewing potions.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nakakagulat, magaling talaga akong magtimpla ng potion.){/i}"
 
 # game/logic/events/sabrina.rpy:906
 translate philippine Sabrina_7_label_8bdd0b48:
 
     # ch_Name "{i}(Alright, let's get out of here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sige, umalis na tayo.){/i}"
 
 # game/logic/events/sabrina.rpy:909
 translate philippine Sabrina_7_label_7c7b58fc:
 
     # ch_Name "{i}(Ah! The fresh air! Finally!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ah! Ang sariwang hangin! Sa wakas!){/i}"
 
 # game/logic/events/sabrina.rpy:910
 translate philippine Sabrina_7_label_3b518b25:
 
     # ch_Name "{i}(I've promised to meet Haley in her room in the evening.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nangako akong makikipagkita kay Haley sa silid niya sa gabi.){/i}"
 
 # game/logic/events/sabrina.rpy:911
 translate philippine Sabrina_7_label_9ea66a67:
 
     # ch_Name "{i}(Should I go right away or take some time for other ventures?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Dapat ba akong pumunta kaagad o maglaan ng oras para sa ibang pakikipagsapalaran?){/i}"
 
 translate philippine strings:
 
     # game/logic/events/sabrina.rpy:9
     old "Ask about Giant"
-    new ""
+    new "Magtanong tungkol sa Higante"
 
     # game/logic/events/sabrina.rpy:9
     old "Attend lesson"
-    new ""
+    new "Pumasok sa klase"
 
     # game/logic/events/sabrina.rpy:9
     old "Practice"
-    new ""
+    new "Magsanay"
 
     # game/logic/events/sabrina.rpy:175
     old "Are they dead?"
-    new ""
+    new "Namatay ba sila?"
 
     # game/logic/events/sabrina.rpy:175
     old "Why do wizards need potions?"
-    new ""
+    new "Bakit kailangang ng mga salamangkero ng potions?"
 
     # game/logic/events/sabrina.rpy:287
     old "Stay silent"
-    new ""
+    new "Manahimik lamang"
 
     # game/logic/events/sabrina.rpy:318
     old "Unicorn tears, deer hair, Norwegian moss"
-    new ""
+    new "Luha ng unicorn, buhok ng usa, Norwegian moss"
 
     # game/logic/events/sabrina.rpy:318
     old "Goat tears, mockingbird feather, birch bark"
-    new ""
+    new "Luha ng kambing, balahibok ng mokimbed, balat ng puno"
 
     # game/logic/events/sabrina.rpy:318
     old "Tears of deer, unicorn hair, Icelandic lichen"
-    new ""
+    new "Luha ng usa, buhok ng unicorn, Icelandic lichen"
 
     # game/logic/events/sabrina.rpy:512
     old "Find an excuse"
-    new ""
+    new "Humanap ng palusot"
 
     # game/logic/events/sabrina.rpy:766
     old "Agree to work with Grace"
-    new ""
+    new "Samahan si Grace"
 
     # game/logic/events/sabrina.rpy:766
     old "Work with someone else"
-    new ""
+    new "Samahan sa ibang tao"
 
