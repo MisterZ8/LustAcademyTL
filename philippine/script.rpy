@@ -566,7 +566,7 @@ translate philippine strings:
 
     # game/script.rpy:88
     old "Inspiration"
-    new "inspirasyon"
+    new "Inspirasyon"
 
     # game/script.rpy:90
     old "Magic Reflection"
