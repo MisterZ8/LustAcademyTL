@@ -562,7 +562,7 @@ translate philippine Sabrina_2_label_096b1771:
 translate philippine Sabrina_2_label_23755bb1:
 
     # Sabrina "I was just about to brew myself a lesser healing potion."
-    Sabrina "Magtitimpla na sana ako ng Lesser Healing Potion."
+    Sabrina "Magtitimpla na sana ako ng potion ng Mababang Pag-ayos."
 
 # game/logic/events/sabrina.rpy:280
 translate philippine Sabrina_2_label_263732a4:
@@ -580,7 +580,7 @@ translate philippine Sabrina_2_label_763ea9c2:
 translate philippine Sabrina_2_label_d79eee61:
 
     # Sabrina "Who can show me what we put in the lesser healing potion?"
-    Sabrina "Sino ang magpakita sa akin kung ano ang inilagay natin sa lesser healing potion?"
+    Sabrina "Sino ang magpakita sa akin kung ano ang inilagay natin sa potion ng mababang pag-ayos?"
 
 # game/logic/events/sabrina.rpy:284
 translate philippine Sabrina_2_label_0e964f21:
@@ -1768,7 +1768,7 @@ translate philippine Sabrina_5_label_916187cb:
 translate philippine Sabrina_5_label_4163e302:
 
     # Sabrina "The topic of today's lesson will be: Stoneskin Potion."
-    Sabrina "Ang paksa ng aralin ngayon ay: Gayuma na Balat ng Bato."
+    Sabrina "Ang paksa ng aralin ngayon ay: Potion ng Balat ng Bato."
 
 # game/logic/events/sabrina.rpy:629
 translate philippine Sabrina_5_label_2c03fab6:
@@ -2218,7 +2218,7 @@ translate philippine Sabrina_6_label_d48e29af:
 translate philippine Sabrina_6_label_c314bfd2:
 
     # Sabrina "Today we're going to brew Magic Reflection Potion!"
-    Sabrina "Ngayon magtitimpla tayo ng Magic Reflection Potion!"
+    Sabrina "Ngayon magtitimpla tayo ng Potion ng Mahikang Salamin!"
 
 # game/logic/events/sabrina.rpy:752
 translate philippine Sabrina_6_label_54591356:
@@ -2632,7 +2632,7 @@ translate philippine Sabrina_7_label_b2cd19d0:
 translate philippine Sabrina_7_label_27d5c151:
 
     # Sabrina "Cause we're brewing the inspiration potion!"
-    Sabrina "Dahil gagawa tayo ng Inspiration Potion!"
+    Sabrina "Dahil gagawa tayo ng Potion ng Inspirasyon!"
 
 # game/logic/events/sabrina.rpy:868
 translate philippine Sabrina_7_label_55b571b1:
