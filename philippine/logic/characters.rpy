@@ -12,11 +12,11 @@ translate philippine strings:
 
     # game/logic/characters.rpy:9
     old "Radio"
-    new ""
+    new "Radyo"
 
     # game/logic/characters.rpy:10
     old "Note"
-    new ""
+    new "Tala"
 
     # game/logic/characters.rpy:11
     old "Adele"
@@ -176,17 +176,17 @@ translate philippine strings:
 
     # game/logic/characters.rpy:52
     old "Unknown Man"
-    new ""
+    new "Lalaking Hindi Kilala"
 
     # game/logic/characters.rpy:54
     old "Guy"
-    new ""
+    new "Lalaki"
 
     # game/logic/characters.rpy:55
     old "Unknown Girl"
-    new ""
+    new "Babaeng Hindi Kilala"
 
     # game/logic/characters.rpy:59
     old "Unknown elf"
-    new ""
+    new "Duwendeng Hindi Kilala"
 
