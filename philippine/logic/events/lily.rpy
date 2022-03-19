@@ -958,49 +958,49 @@ translate philippine Lily_3_label_8_6a61b7c1:
 translate philippine Lily_3_label_8_ba0203e2:
 
     # Lily "This way you can compensate points difference if we fall behind the other house."
-    Lily ""
+    Lily "Sa paraan ito mababayaran ang pagkakaiba ng mga puntos kung mahuhulog tayo sa likod ng kabilang bahay."
 
 # game/logic/events/lily.rpy:485
 translate philippine Lily_3_label_8_20123159:
 
     # Lily "So, what do you think?"
-    Lily ""
+    Lily "Ano sa tingin mo?"
 
 # game/logic/events/lily.rpy:487
 translate philippine Lily_3_label_8_8cbb22c6:
 
     # ch_Name "I can handle this."
-    ch_Name ""
+    ch_Name "Kaya ko."
 
 # game/logic/events/lily.rpy:488
 translate philippine Lily_3_label_8_793711a2:
 
     # Lily "I'm not sure you can..."
-    Lily ""
+    Lily "HIndi ako sigurado..."
 
 # game/logic/events/lily.rpy:490
 translate philippine Lily_3_label_8_efd5f12a:
 
     # ch_Name "Let's make a bet."
-    ch_Name ""
+    ch_Name "Magtaya tayo."
 
 # game/logic/events/lily.rpy:492
 translate philippine Lily_3_label_8_ef4f422a:
 
     # Lily "A bet?"
-    Lily ""
+    Lily "Taya?"
 
 # game/logic/events/lily.rpy:493
 translate philippine Lily_3_label_8_db4f4a16:
 
     # ch_Name "Yeah, a friendly bet."
-    ch_Name ""
+    ch_Name "Oo, taya."
 
 # game/logic/events/lily.rpy:494
 translate philippine Lily_3_label_8_9436658a:
 
     # ch_Name "If Leonheart takes other house points in a duel, I win..."
-    ch_Name ""
+    ch_Name "Kung kukuha ng ibang house points si Leonheart sa isang tunggalian, mananalo ako..."
 
 # game/logic/events/lily.rpy:495
 translate philippine Lily_3_label_8_33f0d1de:
@@ -9298,13 +9298,13 @@ translate philippine Lily_CF_5_label_80ef2fbf:
 translate philippine Lily_CF_5_label_69ecc344:
 
     # Lily "Speaking of SPA, I'll have to go."
-    Lily ""
+    Lily "Oo nga pala, aalis na ako."
 
 # game/logic/events/lily.rpy:2805
 translate philippine Lily_CF_5_label_2cd59523:
 
     # Lily "Faith hates it when I'm late."
-    Lily ""
+    Lily "Ayaw ni Faith kapag nahuhuli ako."
 
 # game/logic/events/lily.rpy:2806
 translate philippine Lily_CF_5_label_3b059e50:
@@ -9316,43 +9316,43 @@ translate philippine strings:
 
     # game/logic/events/lily.rpy:10
     old "0 Talk to Lily"
-    new ""
+    new "0 Kausapin Lily"
 
     # game/logic/events/lily.rpy:744
     old "Ask about her feelings"
-    new ""
+    new "Magtanong tungkol sa kanyang nararamdaman"
 
     # game/logic/events/lily.rpy:744
     old "Keep kissing Lily"
-    new ""
+    new "Halikan pa si Lily"
 
     # game/logic/events/lily.rpy:799
     old "Stop kissing"
-    new ""
+    new "Tigilan ang paghalik"
 
     # game/logic/events/lily.rpy:799
     old "Touch Lily"
-    new ""
+    new "Hawakan si Lily"
 
     # game/logic/events/lily.rpy:956
     old "Take a look at Lily"
-    new ""
+    new "Tignan si Lily"
 
     # game/logic/events/lily.rpy:1189
     old "Lick her toes"
-    new ""
+    new "Dilaan ang mga daliri sa paa"
 
     # game/logic/events/lily.rpy:1189
     old "Stop and go to sleep"
-    new ""
+    new "Tumigil at magtulog"
 
     # game/logic/events/lily.rpy:1561
     old "Cunnilingus"
-    new ""
+    new "Dilaan"
 
     # game/logic/events/lily.rpy:1561
     old "Classic"
-    new ""
+    new "Klasiko"
 
     # game/logic/events/lily.rpy:1561
     old "Anal"
@@ -9360,25 +9360,25 @@ translate philippine strings:
 
     # game/logic/events/lily.rpy:1756
     old "Cum on her back"
-    new ""
+    new "Pumutok sa kanyang likod"
 
     # game/logic/events/lily.rpy:1791
     old "We have to go"
-    new ""
+    new "Kailangan na nating umalis"
 
     # game/logic/events/lily.rpy:1791
     old "Hug her"
-    new ""
+    new "Yakapin siya"
 
     # game/logic/events/lily.rpy:2122
     old "Pose 1"
-    new ""
+    new "Pustura 1"
 
     # game/logic/events/lily.rpy:2122
     old "Pose 2"
-    new ""
+    new "Pustura 2"
 
     # game/logic/events/lily.rpy:2245
     old "Stay friends"
-    new ""
+    new "Manatiling magkaibigan"
 
