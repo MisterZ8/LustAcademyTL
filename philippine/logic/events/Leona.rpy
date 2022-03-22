@@ -1090,7 +1090,7 @@ translate philippine Leona_1_label_51afcce6:
 translate philippine Leona_1_label_ed7e585e:
 
     # Leona "Do you like coming inside me?"
-    Leona "Gusto mong bang puputok sa loob?"
+    Leona "Gusto mong bang magpapalabas ako sa loob?"
 
 # game/logic/events/Leona.rpy:306
 translate philippine Leona_1_label_c205f5f1:
@@ -1306,7 +1306,7 @@ translate philippine Leona_1_label_076f259e:
 translate philippine Leona_1_label_ef0afb53:
 
     # ch_Name "I'm...{w} I'm going to cum!"
-    ch_Name "Ako ay...{w} Puputok ako!"
+    ch_Name "Ako ay...{w} Magpapalabas na ako!"
 
 # game/logic/events/Leona.rpy:360
 translate philippine Leona_1_label_ffcbdaaa:
@@ -1372,7 +1372,7 @@ translate philippine Leona_1_label_de1d168e:
 translate philippine Leona_1_label_a2290cd3:
 
     # ch_Name "I...{w} I'm going to cum!"
-    ch_Name "Ako ay...{w} Puputok ako!"
+    ch_Name "Ako ay...{w} Magpapalabas na ako!"
 
 # game/logic/events/Leona.rpy:381
 translate philippine Leona_1_label_5ce9be3a:
@@ -1438,7 +1438,7 @@ translate philippine Leona_1_label_de1d168e_1:
 translate philippine Leona_1_label_ef0afb53_1:
 
     # ch_Name "I'm...{w} I'm going to cum!"
-    ch_Name "Ako ay...{w} Puputok ako!"
+    ch_Name "Ako ay...{w} Magpapalabas na ako!"
 
 # game/logic/events/Leona.rpy:401
 translate philippine Leona_1_label_eea56c11:
@@ -5908,7 +5908,7 @@ translate philippine Leona_5_label_from_gallery_f5d884c5:
 translate philippine Leona_5_label_from_gallery_5b308a13:
 
     # Naomi "Cum on my face soon."
-    Naomi "Pumutok sa mukha ko."
+    Naomi "Ipalabas sa mukha ko."
 
 # game/logic/events/Leona.rpy:1609
 translate philippine Leona_5_label_from_gallery_c07dc98b:
@@ -7414,15 +7414,15 @@ translate philippine strings:
 
     # game/logic/events/Leona.rpy:355
     old "Cum on stomach"
-    new "Pumutok sa tiyan"
+    new "Magpalabas sa tiyan"
 
     # game/logic/events/Leona.rpy:355
     old "Cum on her face"
-    new "Pumutok sa mukha"
+    new "Magpalabas sa mukha"
 
     # game/logic/events/Leona.rpy:355
     old "Cum inside"
-    new "Pumutok sa loob"
+    new "Magpalabas sa loob"
 
     # game/logic/events/Leona.rpy:503
     old "I like you naked"
