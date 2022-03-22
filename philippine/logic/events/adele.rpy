@@ -2482,7 +2482,7 @@ translate philippine vip_lucy_1_label_1_02a8a84d:
 translate philippine vip_lucy_1_label_1_1f4bb727:
 
     # ch_Name "I think I'm about to cum."
-    ch_Name "Puputok na ako."
+    ch_Name "Magpapalabas na ako."
 
 # game/logic/events/adele.rpy:914
 translate philippine vip_lucy_1_label_1_21447e34:
@@ -3118,7 +3118,7 @@ translate philippine vip_lucy_1_label_2_0728f8ee:
 translate philippine vip_lucy_1_label_2_4902deb4:
 
     # ch_Name "I think I'm going to cum."
-    ch_Name "Puputok na ako."
+    ch_Name "Magpapalabas na ako."
 
 # game/logic/events/adele.rpy:1061
 translate philippine vip_lucy_1_label_2_022262cc:
@@ -3790,7 +3790,7 @@ translate philippine vip_sadira_1_label_1_494c4534:
 translate philippine vip_sadira_1_label_1_c7ebc4c3:
 
     # ch_Name "I'm going to cum..."
-    ch_Name "Puputok ako..."
+    ch_Name "Magpapalabas ako..."
 
 # game/logic/events/adele.rpy:1276
 translate philippine vip_sadira_1_label_1_3c105d56:
@@ -4066,7 +4066,7 @@ translate philippine vip_sadira_1_label_1_3368d128:
 translate philippine vip_sadira_1_label_1_90eefd17:
 
     # ch_Name "I'm going to cum!"
-    ch_Name "Puputok ako!"
+    ch_Name "Magpapalabas na ako!"
 
 # game/logic/events/adele.rpy:1338
 translate philippine vip_sadira_1_label_1_b07af958:
@@ -4096,7 +4096,7 @@ translate philippine vip_sadira_1_label_1_4abb3998:
 translate philippine vip_sadira_1_label_1_c8be6e9b:
 
     # Sadira "I'm cuming too!"
-    Sadira "Puputok rin ako!"
+    Sadira "Magpapalabas rin ako!"
 
 # game/logic/events/adele.rpy:1345
 translate philippine vip_sadira_1_label_1_8851e55a:
@@ -4726,7 +4726,7 @@ translate philippine vip_sadira_1_label_2_fe881b29:
 translate philippine vip_sadira_1_label_2_7494d93a:
 
     # ch_Name "I'm going to come soon. Don't stop!"
-    ch_Name "Puputok na ako. 'Wag kang tumigil!"
+    ch_Name "Magpapalabas na ako. 'Wag kang tumigil!"
 
 # game/logic/events/adele.rpy:1500
 translate philippine vip_sadira_1_label_2_0a11198e_1:
@@ -4954,7 +4954,7 @@ translate philippine vip_sadira_1_label_2_08cb1794_1:
 translate philippine vip_sadira_1_label_2_4f5f4c9f_1:
 
     # Sadira "Your poor cock will burst with tension if I don't start now."
-    Sadira "Puputok sa pagkapuno ang iyong kawawang titi kapag 'di ko tutulungan."
+    Sadira "Magpapalabas sa pagkapuno ang iyong kawawang titi kapag 'di ko tutulungan."
 
 # game/logic/events/adele.rpy:1555
 translate philippine vip_sadira_1_label_2_8fa258af_1:
@@ -5380,7 +5380,7 @@ translate philippine vip_sadira_1_label_2_fe881b29_1:
 translate philippine vip_sadira_1_label_2_7494d93a_1:
 
     # ch_Name "I'm going to come soon. Don't stop!"
-    ch_Name "Puputok na ako. 'Wag kang tumigil!"
+    ch_Name "Magpapalabas na ako. 'Wag kang tumigil!"
 
 # game/logic/events/adele.rpy:1649
 translate philippine vip_sadira_1_label_2_0a11198e_3:
