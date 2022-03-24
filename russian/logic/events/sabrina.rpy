@@ -1960,7 +1960,7 @@ translate russian Sabrina_5_label_11c01fcf:
 translate russian Sabrina_5_label_35d7f4b5:
 
     # Sabrina "Okay, now we're both flattering each other."
-    Sabrina "Окей, а теперь мы просто взаимно льстим.
+    Sabrina "Окей, а теперь мы просто взаимно льстим."
 
 # game/logic/events/sabrina.rpy:685
 translate russian Sabrina_5_label_7b33d3ac:
