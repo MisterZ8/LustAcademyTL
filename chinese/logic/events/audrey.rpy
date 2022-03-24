@@ -12886,7 +12886,7 @@ translate chinese Audrey_10_label_b87563e7:
 translate chinese Audrey_10_label_a7b2e85b:
 
     # ch_Name "{i}(Well, Section 1 is called \"Succubi\".){/i}"
-    ch_Name "{i}（好吧，第一部分叫做“魅魔”。{/i}"
+    ch_Name "{i}（好吧，第一部分叫做“魅魔”。){/i}"
 
 # game/logic/events/audrey.rpy:3664
 translate chinese Audrey_10_label_838ceee8:
