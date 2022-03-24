@@ -484,7 +484,7 @@ translate chinese Elijah_3_label_5b7c05f7:
 translate chinese Elijah_3_label_aa892c32:
 
     # Elijah "I'm sure you'll soon be 100%% integrated into university life."
-    Elijah "我相信你很快就会100%融入大学生活。"
+    Elijah "我相信你很快就会100%%融入大学生活。"
 
 # game/logic/events/elijah.rpy:296
 translate chinese Elijah_3_label_bd67f888:
