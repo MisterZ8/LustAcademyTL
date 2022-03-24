@@ -12886,8 +12886,7 @@ translate chinese Audrey_10_label_b87563e7:
 translate chinese Audrey_10_label_a7b2e85b:
 
     # ch_Name "{i}(Well, Section 1 is called \"Succubi\".){/i}"
-    ch_Name "{i}（好吧，第一部分叫做“魅魔”。）
-{/i}"
+    ch_Name "{i}（好吧，第一部分叫做“魅魔”。{/i}"
 
 # game/logic/events/audrey.rpy:3664
 translate chinese Audrey_10_label_838ceee8:
@@ -17513,7 +17512,7 @@ translate chinese Audrey_12_shemale_c17eb71e:
 translate chinese Audrey_12_shemale_568c04c4:
 
     # ch_Name "I'm not gonna fuck \"that\"."
-    ch_Name "我不会去他妈的"那个"。"
+    ch_Name "我不会去他妈的\"那个\"。"
 
 # game/logic/events/audrey.rpy:4844
 translate chinese Audrey_12_shemale_7e939e9f:
