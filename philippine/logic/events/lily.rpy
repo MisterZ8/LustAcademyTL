@@ -6496,19 +6496,19 @@ translate philippine Lily_6_label_442_b77c9c35:
 translate philippine Lily_6_label_442_472cef19:
 
     # ch_Name "I don't want to talk!"
-    ch_Name ""
+    ch_Name "Ayokong mag-usap!"
 
 # game/logic/events/lily.rpy:2029
 translate philippine Lily_6_label_442_fa033f9f:
 
     # Lily "Then what is it?"
-    Lily ""
+    Lily "At ano kaya ang gusto mo?"
 
 # game/logic/events/lily.rpy:2032
 translate philippine Lily_6_label_442_92253b9f:
 
     # ch_Name "Just this."
-    ch_Name ""
+    ch_Name "Ito lang."
 
 # game/logic/events/lily.rpy:2034
 translate philippine Lily_6_label_442_02767e4d:
@@ -6538,637 +6538,637 @@ translate philippine Lily_6_label_442_08c20d15:
 translate philippine Lily_6_label_442_c756d224:
 
     # Lily "I have to go..."
-    Lily ""
+    Lily "Kailangan ko nang umalis..."
 
 # game/logic/events/lily.rpy:2042
 translate philippine Lily_6_label_442_991fd31c:
 
     # ch_Name "Good night, Lily."
-    ch_Name ""
+    ch_Name "Magandang gabi, Lily."
 
 # game/logic/events/lily.rpy:2051
 translate philippine Lily_7_label_71b6e6fd:
 
     # ch_Name "{i}(Yeah, As I've expected, it's break time. Sabrina is free.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Gaya ng inaasahan ko, oras ng pahinga na. Walang ginagawa si Sabrina.){/i}"
 
 # game/logic/events/lily.rpy:2052
 translate philippine Lily_7_label_835bee7d:
 
     # ch_Name "{i}(I'm sure there's nothing unusual about that mushroom girl for Sabrina.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sigurado akong walang kakaiba sa babaeng kabute na iyon para kay Sabrina.){/i}"
 
 # game/logic/events/lily.rpy:2053
 translate philippine Lily_7_label_af4ec73f:
 
     # ch_Name "{i}(But for me... I mean, that was in a flash-eating mushroom forest.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pero para sa akin... Nasa isang kabuteng kagubatan iyon na kumakain ng tao.){/i}"
 
 # game/logic/events/lily.rpy:2054
 translate philippine Lily_7_label_44e54d88:
 
     # ch_Name "{i}(It feels right to talk about with someone wise.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tama sa pakiramdam na makipag-usap sa taong matalino.){/i}"
 
 # game/logic/events/lily.rpy:2057
 translate philippine Lily_7_label_8a883949:
 
     # ch_Name "Ms. Spellman, I wanted to talk to you about something unusual."
-    ch_Name ""
+    ch_Name "Ms. Spellman, gusto kong makipag-usap sa iyo tungkol sa bagay na hindi karaniwan."
 
 # game/logic/events/lily.rpy:2058
 translate philippine Lily_7_label_5decb97e:
 
     # ch_Name "I think you might find it interesting."
-    ch_Name ""
+    ch_Name "Sa palagay ko kawili-wili ito para sa iyo."
 
 # game/logic/events/lily.rpy:2060
 translate philippine Lily_7_label_a92f0f36:
 
     # Sabrina "Well, you've already intrigued me."
-    Sabrina ""
+    Sabrina "Naintriga na ako."
 
 # game/logic/events/lily.rpy:2061
 translate philippine Lily_7_label_c2730673:
 
     # Sabrina "Don't keep me in suspense. [Name], what did you want to talk about?"
-    Sabrina ""
+    Sabrina "Huwag mo akong paghintayin. [Name], ano ang gusto mong pag-usapan?"
 
 # game/logic/events/lily.rpy:2062
 translate philippine Lily_7_label_9c4464ec:
 
     # ch_Name "Remember that time you and I went to find some ingredients?"
-    ch_Name ""
+    ch_Name "Natatandaan mo ba noong panahong naghanap tayo ng mga sangkap?"
 
 # game/logic/events/lily.rpy:2064
 translate philippine Lily_7_label_ce726a7e:
 
     # ch_Name "When Lily and I got lost and found ourselves in that weird mushroom forest..."
-    ch_Name ""
+    ch_Name "Noong mawala kami ni Lily at napadpad sa kakaibang kagubatan na iyon..."
 
 # game/logic/events/lily.rpy:2065
 translate philippine Lily_7_label_baeab850:
 
     # Sabrina "Of course I do. What about it?"
-    Sabrina ""
+    Sabrina "Siyempre. At ano?"
 
 # game/logic/events/lily.rpy:2066
 translate philippine Lily_7_label_98c79692:
 
     # ch_Name "I can't help thinking we weren't alone out there..."
-    ch_Name ""
+    ch_Name "Hindi ko maiwasang isipin na hindi kami nag-iisa doon..."
 
 # game/logic/events/lily.rpy:2068
 translate philippine Lily_7_label_143921ba:
 
     # Sabrina "What are you talking about?"
-    Sabrina ""
+    Sabrina "Ano ang pinagsasabi mo?"
 
 # game/logic/events/lily.rpy:2069
 translate philippine Lily_7_label_41b19084:
 
     # ch_Name "I saw a girl there. She kept beckoning me and Lily into her arms..."
-    ch_Name ""
+    ch_Name "May nakita akong babae doon. Paulit-ulit niya kaming sinenyasan sa mga bisig niya..."
 
 # game/logic/events/lily.rpy:2070
 translate philippine Lily_7_label_8e78d21b:
 
     # Sabrina "Maybe the mushrooms made you hallucinate."
-    Sabrina ""
+    Sabrina "Baka nabaliw ka dahil sa mga kabute."
 
 # game/logic/events/lily.rpy:2071
 translate philippine Lily_7_label_e9f6e150:
 
     # ch_Name "No, they didn't. I'm sure she was there..."
-    ch_Name ""
+    ch_Name "Hindi. Sigurado akong nandoon siya..."
 
 # game/logic/events/lily.rpy:2073
 translate philippine Lily_7_label_f6e22361:
 
     # ch_Name "She looked like a mushroom turned into a girl."
-    ch_Name ""
+    ch_Name "Para siyang kabute na naging babae."
 
 # game/logic/events/lily.rpy:2074
 translate philippine Lily_7_label_0316901a:
 
     # Sabrina "No way, [Name]!"
-    Sabrina ""
+    Sabrina "Hindi pwede, [Name]!"
 
 # game/logic/events/lily.rpy:2075
 translate philippine Lily_7_label_42f93170:
 
     # Sabrina "A mushroom that turned into a person? There's no such thing."
-    Sabrina ""
+    Sabrina "Kabute na naging tao? Walang ganyanan."
 
 # game/logic/events/lily.rpy:2077
 translate philippine Lily_7_label_24b82d1e:
 
     # Sabrina "It couldn't be Fungalor, really."
-    Sabrina ""
+    Sabrina "Hindi pwedeng Fungalor."
 
 # game/logic/events/lily.rpy:2078
 translate philippine Lily_7_label_84f6f03b:
 
     # ch_Name "I don't quite understand why you're so surprised."
-    ch_Name ""
+    ch_Name "Hindi ko maintindihan kung bakit ka nagulat."
 
 # game/logic/events/lily.rpy:2079
 translate philippine Lily_7_label_64f54167:
 
     # ch_Name "I thought there was nothing to be surprised about in the world of magic."
-    ch_Name ""
+    ch_Name "Akala ko walang dapat ikagulat sa mundo ng mahika."
 
 # game/logic/events/lily.rpy:2081
 translate philippine Lily_7_label_5a5810c1:
 
     # ch_Name "What kind of Fun-Ga-Lors are they?"
-    ch_Name ""
+    ch_Name "Ano ang mga Fun-Ga-Lor?"
 
 # game/logic/events/lily.rpy:2082
 translate philippine Lily_7_label_9cc6ed54:
 
     # Sabrina "Mushroommen. A humanoid race of mushroom men."
-    Sabrina ""
+    Sabrina "Mga taong kabute. Isang lahi ng mga lalaking kabute."
 
 # game/logic/events/lily.rpy:2084
 translate philippine Lily_7_label_7bb87683:
 
     # Sabrina "But they're really only mentioned in passing in a children's book on fantastic creatures."
-    Sabrina ""
+    Sabrina "Ngunit sila ay binanggit lamang sa pagpasa sa isang pambatang aklat tungkol sa kamangha-manghang mga nilalang."
 
 # game/logic/events/lily.rpy:2085
 translate philippine Lily_7_label_8422f6a0:
 
     # Sabrina "No one has officially documented their existence yet!"
-    Sabrina ""
+    Sabrina "Wala pang opisyal na nakadokumento sa kanilang pag-iral!"
 
 # game/logic/events/lily.rpy:2087
 translate philippine Lily_7_label_5080ee5c:
 
     # Sabrina "Do you realize what this means, [Name]?"
-    Sabrina ""
+    Sabrina "Naiintindihan mo ba kung ano ang ibig sabihin nito, [Name]?"
 
 # game/logic/events/lily.rpy:2088
 translate philippine Lily_7_label_1a213a48:
 
     # Sabrina "You may have discovered a new species!"
-    Sabrina ""
+    Sabrina "Baka may natuklasan kang bagong lahi!"
 
 # game/logic/events/lily.rpy:2089
 translate philippine Lily_7_label_fb613be0:
 
     # ch_Name "And if I prove their existence, I'll go down in history?"
-    ch_Name ""
+    ch_Name At kung patunayan ko ang kanilang pag-iral, mapapabilang ako sa kasaysayan?"
 
 # game/logic/events/lily.rpy:2091
 translate philippine Lily_7_label_c2cce783:
 
     # ch_Name "Well... [Name] [Surname] the Discoverer, that sounds cool!"
-    ch_Name ""
+    ch_Name "[Name] [Surname], ang Discoverer. Astig 'yan!"
 
 # game/logic/events/lily.rpy:2092
 translate philippine Lily_7_label_313796cd:
 
     # ch_Name "I'm going on a quest tomorrow..."
-    ch_Name ""
+    ch_Name "Maglalakbay ako bukas..."
 
 # game/logic/events/lily.rpy:2093
 translate philippine Lily_7_label_e36c8f06:
 
     # Sabrina "Wait! You're not going to search the woods, are you?"
-    Sabrina ""
+    Sabrina "Teka! Hindi ka naman maghahanap sa kakahuyan diba?"
 
 # game/logic/events/lily.rpy:2095
 translate philippine Lily_7_label_8742d6c1:
 
     # ch_Name "Actually, yes, I am. Why?"
-    ch_Name ""
+    ch_Name "Sa totoo lang, oo. Bakit?"
 
 # game/logic/events/lily.rpy:2096
 translate philippine Lily_7_label_943aaf8a:
 
     # Sabrina "The forest is too dangerous for students. You'll get lost again."
-    Sabrina ""
+    Sabrina "Masyadong delikado ang kagubatan para sa mga estudyante. Mawawala ka."
 
 # game/logic/events/lily.rpy:2098
 translate philippine Lily_7_label_83ba9684:
 
     # ch_Name "Hmm, right... I'd forgotten how easy it is to get lost out there."
-    ch_Name ""
+    ch_Name "Hmm, tama... Nakalimutan ko kung gaano kadaling mawala doon."
 
 # game/logic/events/lily.rpy:2099
 translate philippine Lily_7_label_aebc9802:
 
     # ch_Name "Can I borrow your compass, Miss Spellman?"
-    ch_Name ""
+    ch_Name "Pwede ko bang hiramin ang iyong kumpas, Ms. Spellman?"
 
 # game/logic/events/lily.rpy:2100
 translate philippine Lily_7_label_1948e485:
 
     # Sabrina "The one you broke last time? It's still being repaired."
-    Sabrina ""
+    Sabrina "'Yung nasira mo last time? Inaayos pa."
 
 # game/logic/events/lily.rpy:2102
 translate philippine Lily_7_label_91a92f77:
 
     # Sabrina "I should have known better than to give a compass to a freshman."
-    Sabrina ""
+    Sabrina "Dapat hindi ko binigay ang kumpas sa isang freshman."
 
 # game/logic/events/lily.rpy:2103
 translate philippine Lily_7_label_8da20d94:
 
     # Sabrina "It was a rare and valuable item. "
-    Sabrina ""
+    Sabrina "'Yun ay isang bihira at mahalagang bagay."
 
 # game/logic/events/lily.rpy:2104
 translate philippine Lily_7_label_28f12767:
 
     # ch_Name "Yeah, sorry about that. It's pretty embarrassing actually..."
-    ch_Name ""
+    ch_Name "Oo, pasensya na pala. Medyo nakakahiya talaga..."
 
 # game/logic/events/lily.rpy:2106
 translate philippine Lily_7_label_c5dfbb3f:
 
     # ch_Name "I'll buy you a new one once I discover the mushroom girl and get rich."
-    ch_Name ""
+    ch_Name "Bibilhan kita ng bago kapag nadiskubre ko ang babaeng kabute at yumaman ako."
 
 # game/logic/events/lily.rpy:2107
 translate philippine Lily_7_label_69de1656:
 
     # Sabrina "Ha-ha-ha. You're funny."
-    Sabrina ""
+    Sabrina "Ha-ha-ha. Nakakatawa ka talaga."
 
 # game/logic/events/lily.rpy:2108
 translate philippine Lily_7_label_7d16c79c:
 
     # Sabrina "There's no need for that! The Academy has already ordered a spare from the master."
-    Sabrina ""
+    Sabrina "Hindi na kailangan 'yan! Bumili na ang Academy ng bago mula sa master."
 
 # game/logic/events/lily.rpy:2110
 translate philippine Lily_7_label_ccfeb1b5:
 
     # Sabrina "Don't rush your research, wait for the compass."
-    Sabrina ""
+    Sabrina "Huwag mong madaliin ang iyong pananaliksik, hintayin ang kumpas."
 
 # game/logic/events/lily.rpy:2111
 translate philippine Lily_7_label_361a293a:
 
     # Sabrina "And don't worry about the mushrooms! They've not been seen in a thousand years!"
-    Sabrina ""
+    Sabrina "At 'wag kang mag-alala tungkol sa mga kabute! Hindi pa sila nakita sa loob ng isang libong taon!"
 
 # game/logic/events/lily.rpy:2112
 translate philippine Lily_7_label_d3d10fd7:
 
     # Sabrina "I don't think a couple of weeks will make any difference."
-    Sabrina ""
+    Sabrina "Sa palagay ko ay hindi magkakaroon ng anumang pagkakaiba ang ilang linggo."
 
 # game/logic/events/lily.rpy:2113
 translate philippine Lily_7_label_49044dd4:
 
     # ch_Name "You're right. Thanks for the advice, Miss Spellman. Goodbye."
-    ch_Name ""
+    ch_Name "Tama ka. Salamat sa payo, Ms. Spellman. Paalam."
 
 # game/logic/events/lily.rpy:2114
 translate philippine Lily_7_label_6e40098f:
 
     # Sabrina "Goodbye."
-    Sabrina ""
+    Sabrina "Paalam."
 
 # game/logic/events/lily.rpy:2143
 translate philippine Lily_8_label_db770778:
 
     # ch_Name "Hey there!"
-    ch_Name ""
+    ch_Name "Kamusta!"
 
 # game/logic/events/lily.rpy:2144
 translate philippine Lily_8_label_7f8df2fc:
 
     # ch_Name "Lily, you're gorgeous as always!"
-    ch_Name ""
+    ch_Name "Lily, talagang palagi kang maganda!"
 
 # game/logic/events/lily.rpy:2145
 translate philippine Lily_8_label_06e166f2:
 
     # ch_Name "How's it going?"
-    ch_Name ""
+    ch_Name "Kumusta na?"
 
 # game/logic/events/lily.rpy:2147
 translate philippine Lily_8_label_83fee3de:
 
     # Lily "Oh... [Name]! H-hello!"
-    Lily ""
+    Lily "Oh... [Name]! K-kamusta!"
 
 # game/logic/events/lily.rpy:2148
 translate philippine Lily_8_label_4bee1968:
 
     # Lily "I'm fine. I'm getting ready for class."
-    Lily ""
+    Lily "Ayos lang. Naghahanda na ako para sa klase."
 
 # game/logic/events/lily.rpy:2149
 translate philippine Lily_8_label_5d8aef4a:
 
     # ch_Name "No books?"
-    ch_Name ""
+    ch_Name "Walang libro?"
 
 # game/logic/events/lily.rpy:2151
 translate philippine Lily_8_label_37015864:
 
     # Lily "I'm preparing mentally."
-    Lily ""
+    Lily "Naghahanda ako sa isip."
 
 # game/logic/events/lily.rpy:2152
 translate philippine Lily_8_label_442fe016:
 
     # ch_Name "I'm sorry, I don't get it yet."
-    ch_Name ""
+    ch_Name "I'm sorry, hindi ko pa naiintindihan."
 
 # game/logic/events/lily.rpy:2153
 translate philippine Lily_8_label_6968e338:
 
     # ch_Name "What's there to be mentally prepared for?"
-    ch_Name ""
+    ch_Name "Ano ang dapat ihanda sa pag-iisip?"
 
 # game/logic/events/lily.rpy:2155
 translate philippine Lily_8_label_8b320e96:
 
     # Lily "Promise not to laugh!"
-    Lily ""
+    Lily "Mangako ka nga hindi ka tatawa!"
 
 # game/logic/events/lily.rpy:2156
 translate philippine Lily_8_label_17dba0f3:
 
     # Lily "After what happened in the woods..."
-    Lily ""
+    Lily "Pagkatapos ng nangyari sa kakahuyan..."
 
 # game/logic/events/lily.rpy:2157
 translate philippine Lily_8_label_7910c9b1:
 
     # Lily "I want to be prepared for anything."
-    Lily ""
+    Lily "Gusto kong maging handa sa anumang bagay."
 
 # game/logic/events/lily.rpy:2158
 translate philippine Lily_8_label_f442fe0f:
 
     # Lily "I don't want to feel helpless..."
-    Lily ""
+    Lily "Ayokong makaramdam ng kawalan ng magawa..."
 
 # game/logic/events/lily.rpy:2160
 translate philippine Lily_8_label_953126e8:
 
     # ch_Name "And why would I laugh?"
-    ch_Name ""
+    ch_Name "At bakit naman ako matatawa?"
 
 # game/logic/events/lily.rpy:2161
 translate philippine Lily_8_label_a710b117:
 
     # ch_Name "Honestly, I envy your determination."
-    ch_Name ""
+    ch_Name "Sa totoo lang, naiingit ako sa determinasyon mo."
 
 # game/logic/events/lily.rpy:2162
 translate philippine Lily_8_label_2cb60667:
 
     # ch_Name "And I admire it!"
-    ch_Name ""
+    ch_Name "At hinahangaan ko!"
 
 # game/logic/events/lily.rpy:2164
 translate philippine Lily_8_label_4c7e3e58:
 
     # Lily "You do?"
-    Lily ""
+    Lily "Talaga?"
 
 # game/logic/events/lily.rpy:2166
 translate philippine Lily_8_label_7b0ebaf9:
 
     # ch_Name "Absolutely! But there's a \"but\"!"
-    ch_Name ""
+    ch_Name "Talaga! Pero may \"pero\"!"
 
 # game/logic/events/lily.rpy:2167
 translate philippine Lily_8_label_63b490d5:
 
     # Lily "М?"
-    Lily ""
+    Lily "Hmm?"
 
 # game/logic/events/lily.rpy:2168
 translate philippine Lily_8_label_0361b677:
 
     # ch_Name "I don't think you're helpless. We're just freshmen."
-    ch_Name ""
+    ch_Name "Hindi ko akalain na wala kang magawa. Baguhan pa lang tayo."
 
 # game/logic/events/lily.rpy:2169
 translate philippine Lily_8_label_5ec8ff3a:
 
     # ch_Name "There was nothing we both could have done that day..."
-    ch_Name ""
+    ch_Name "Wala tayong magagawa sa araw na iyon..."
 
 # game/logic/events/lily.rpy:2170
 translate philippine Lily_8_label_2713804c:
 
     # ch_Name "If Sabrina hadn't gotten here in time, we both would have..."
-    ch_Name ""
+    ch_Name "Kung hindi nakarating si Sabrina sa tamang oras, pareho tayong..."
 
 # game/logic/events/lily.rpy:2172
 translate philippine Lily_8_label_06973114:
 
     # Lily "Let's not talk about it."
-    Lily ""
+    Lily "'Wag na nating pag-usapan."
 
 # game/logic/events/lily.rpy:2173
 translate philippine Lily_8_label_f98df494:
 
     # Lily "I just stopped having nightmares."
-    Lily ""
+    Lily "Tumigil na ako sa pagkakaroon ng bangungot."
 
 # game/logic/events/lily.rpy:2174
 translate philippine Lily_8_label_f9b42e14:
 
     # ch_Name "Okay, let's change the subject."
-    ch_Name ""
+    ch_Name "Okay, ibahin natin ang usapan."
 
 # game/logic/events/lily.rpy:2175
 translate philippine Lily_8_label_0f438c6f:
 
     # ch_Name "{i}(I think it's time to talk about the elephant in the room...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Palagay ko oras na para pag-usapan ang tungkol sa elepante sa kwarto...){/i}"
 
 # game/logic/events/lily.rpy:2176
 translate philippine Lily_8_label_7b786e53:
 
     # ch_Name "Look, Lily..."
-    ch_Name ""
+    ch_Name "Makinig, Lily..."
 
 # game/logic/events/lily.rpy:2178
 translate philippine Lily_8_label_16d32ea7:
 
     # Lily "Yeah, yeah?"
-    Lily ""
+    Lily "Ano, ano?"
 
 # game/logic/events/lily.rpy:2179
 translate philippine Lily_8_label_3be53a56:
 
     # ch_Name "About that offer you made in the woods..."
-    ch_Name ""
+    ch_Name "Tungkol sa alok na ginawa mo sa kakahuyan..."
 
 # game/logic/events/lily.rpy:2181
 translate philippine Lily_8_label_35a511e7:
 
     # Lily "Shh-shh-shh! You what?"
-    Lily ""
+    Lily "Shh-shh-shh! Ano?"
 
 # game/logic/events/lily.rpy:2182
 translate philippine Lily_8_label_e97ba89f:
 
     # Lily "Do you know what the acoustics are like in this class?"
-    Lily ""
+    Lily "Alam mo ba kung ano ang tunugan sa klase na ito?"
 
 # game/logic/events/lily.rpy:2183
 translate philippine Lily_8_label_5315439f:
 
     # ch_Name "Acoustics? Hmm, never thought of that..."
-    ch_Name ""
+    ch_Name "Tunugan? Hmm, hindi ko naisip iyon..."
 
 # game/logic/events/lily.rpy:2184
 translate philippine Lily_8_label_794a463c:
 
     # Lily "Then think about it now."
-    Lily ""
+    Lily "Pag-isipan mo ngayon."
 
 # game/logic/events/lily.rpy:2185
 translate philippine Lily_8_label_43675c58:
 
     # ch_Name "Heh... You're right, this isn't the place to discuss it."
-    ch_Name ""
+    ch_Name "Heh... Tama ka, hindi ito ang lugar para pag-usapan ito."
 
 # game/logic/events/lily.rpy:2186
 translate philippine Lily_8_label_ccd6a753:
 
     # ch_Name "Let's go!"
-    ch_Name ""
+    ch_Name "Tara!"
 
 # game/logic/events/lily.rpy:2188
 translate philippine Lily_8_label_fc188edf:
 
     # Lily "Where to?"
-    Lily ""
+    Lily "Saan?"
 
 # game/logic/events/lily.rpy:2189
 translate philippine Lily_8_label_36f8c463:
 
     # ch_Name "Someplace more private to talk."
-    ch_Name ""
+    ch_Name "Sa isang lugar na mas pribado para sa pag-usapan."
 
 # game/logic/events/lily.rpy:2190
 translate philippine Lily_8_label_b478df9f:
 
     # Lily "What about the lesson?"
-    Lily ""
+    Lily "Ang klase?"
 
 # game/logic/events/lily.rpy:2191
 translate philippine Lily_8_label_6efe0c2a:
 
     # ch_Name "Don't worry, we'll have another one this afternoon."
-    ch_Name ""
+    ch_Name "'Wag mag-alala, may isa pa mamayang hapon."
 
 # game/logic/events/lily.rpy:2193
 translate philippine Lily_8_label_171356d1:
 
     # Lily "But what about the points for Leonheart..."
-    Lily ""
+    Lily "Ngunit ang mga puntos para sa Leonheart..."
 
 # game/logic/events/lily.rpy:2194
 translate philippine Lily_8_label_aadc1e41:
 
     # ch_Name "We'll turn in a dozen books."
-    ch_Name ""
+    ch_Name "Magbibigay tayo ng isang dosenang libro."
 
 # game/logic/events/lily.rpy:2195
 translate philippine Lily_8_label_35631b58:
 
     # ch_Name "Don't worry about it, let's go..."
-    ch_Name ""
+    ch_Name "'Wag kang mag-alala, alis na tayo..."
 
 # game/logic/events/lily.rpy:2196
 translate philippine Lily_8_label_f8a06bfa:
 
     # Lily "O-okay..."
-    Lily ""
+    Lily "S-sige.."
 
 # game/logic/events/lily.rpy:2198
 translate philippine Lily_8_label_be4b42c2:
 
     # Lily "You're a bad influence on me!"
-    Lily ""
+    Lily "Masamang impluwensya ka sa akin!"
 
 # game/logic/events/lily.rpy:2199
 translate philippine Lily_8_label_bf9bd3fc:
 
     # ch_Name "Why is that?"
-    ch_Name ""
+    ch_Name "Bakit naman?"
 
 # game/logic/events/lily.rpy:2200
 translate philippine Lily_8_label_2ccc64e0:
 
     # Lily "I've never skipped school..."
-    Lily ""
+    Lily "Kahit kailan, hindi ako lumiban sa paaralan..."
 
 # game/logic/events/lily.rpy:2201
 translate philippine Lily_8_label_a19c97b6:
 
     # Lily "This could be fun!"
-    Lily ""
+    Lily "Magiging masaya ito!"
 
 # game/logic/events/lily.rpy:2202
 translate philippine Lily_8_label_1449697b:
 
     # ch_Name "You bet it is."
-    ch_Name ""
+    ch_Name "Tama ka."
 
 # game/logic/events/lily.rpy:2209
 translate philippine Lily_8_label_43dc9599:
 
     # Lily "Hey, wait a minute. Don't be in such a hurry!"
-    Lily ""
+    Lily "Hoy, saglit lang. Huwag kang magmadali!"
 
 # game/logic/events/lily.rpy:2210
 translate philippine Lily_8_label_63fc026f:
 
     # Lily "[Name], where are you taking me?"
-    Lily ""
+    Lily "[Name], saan mo ako dadalhin?"
 
 # game/logic/events/lily.rpy:2211
 translate philippine Lily_8_label_b854bffb:
 
     # Lily "I don't like surprises!"
-    Lily ""
+    Lily "Ayoko ng sorpresa!"
 
 # game/logic/events/lily.rpy:2213
 translate philippine Lily_8_label_a869879e:
 
     # ch_Name "We're here, baby. No surprises."
-    ch_Name ""
+    ch_Name "Nandito na tayo, baby. Walang sorpresa."
 
 # game/logic/events/lily.rpy:2214
 translate philippine Lily_8_label_140ec0cb:
 
     # Lily "So that's it."
-    Lily ""
+    Lily "Heto na."
 
 # game/logic/events/lily.rpy:2215
 translate philippine Lily_8_label_0c258b14:
 
     # Lily "And why were we going to the Academy foyer?"
-    Lily ""
+    Lily "At bakit tayo pumunta sa pasukan ng Academy?"
 
 # game/logic/events/lily.rpy:2216
 translate philippine Lily_8_label_8af9e7f5:
 
     # ch_Name "To talk, of course."
-    ch_Name ""
+    ch_Name "Para mag-usap, siyempre."
 
 # game/logic/events/lily.rpy:2217
 translate philippine Lily_8_label_e7ea7104:
 
     # ch_Name "The acoustics in here are terrible."
-    ch_Name ""
+    ch_Name "Ang tunugan dito ay kakila-kilabot."
 
 # game/logic/events/lily.rpy:2219
 translate philippine Lily_8_label_02cc2e6d:
@@ -7180,97 +7180,97 @@ translate philippine Lily_8_label_02cc2e6d:
 translate philippine Lily_8_label_a29451b6:
 
     # Lily "All right, then. Since you dragged me here..."
-    Lily ""
+    Lily "Sige na nga. Kasi kinaladkad mo ako dito..."
 
 # game/logic/events/lily.rpy:2221
 translate philippine Lily_8_label_b40e35d9:
 
     # Lily "Talk!"
-    Lily ""
+    Lily "Magsalita ka na!"
 
 # game/logic/events/lily.rpy:2223
 translate philippine Lily_8_label_5af825e1:
 
     # ch_Name "Oh, there you go. You were more proactive in the woods!"
-    ch_Name ""
+    ch_Name "Oh, ayan na. Mas maagap ka sa kakahuyan!"
 
 # game/logic/events/lily.rpy:2224
 translate philippine Lily_8_label_ac888833:
 
     # Lily "Well, you know..."
-    Lily ""
+    Lily "Alam mo naman..."
 
 # game/logic/events/lily.rpy:2226
 translate philippine Lily_8_label_3168215b:
 
     # ch_Name "Okay, actually, I really wanted to talk..."
-    ch_Name ""
+    ch_Name "Sige, sa totoo lang, gusto ko talagang makipag-usap..."
 
 # game/logic/events/lily.rpy:2227
 translate philippine Lily_8_label_9c95d240:
 
     # ch_Name "...about that offer you made in the woods..."
-    ch_Name ""
+    ch_Name "...tungkol sa alok na ginawa mo sa kakahuyan..."
 
 # game/logic/events/lily.rpy:2236
 translate philippine Lily_8_label_L_68_d7716959:
 
     # Lily "[Name], can I save you some time?"
-    Lily ""
+    Lily "[Name], maaari ba tayong makatipid ng oras?"
 
 # game/logic/events/lily.rpy:2237
 translate philippine Lily_8_label_L_68_a62f8cc4:
 
     # Lily "It was a critical situation, I panicked and didn't know what to do."
-    Lily ""
+    Lily "'Yun ay kritikal na sitwasyon, nagtaranta ako at hindi alam kung ano ang gagawin."
 
 # game/logic/events/lily.rpy:2238
 translate philippine Lily_8_label_L_68_53e1b695:
 
     # Lily "That sentence meant nothing. I'm even glad that..."
-    Lily ""
+    Lily "Walang ibig sabihin ang sabi ko. Natutuwa pa nga ako na ..."
 
 # game/logic/events/lily.rpy:2239
 translate philippine Lily_8_label_L_68_9d00e431:
 
     # Lily "That you kept your sanity and turned me down."
-    Lily ""
+    Lily "Na iningatan mo ang iyong katinuan at tinanggihan ako."
 
 # game/logic/events/lily.rpy:2240
 translate philippine Lily_8_label_L_68_3ab2b40f:
 
     # Lily "I know you're not interested in me as a girl, it's okay..."
-    Lily ""
+    Lily "Alam kong hindi ka interesado sa akin bilang babae, ayos lang..."
 
 # game/logic/events/lily.rpy:2242
 translate philippine Lily_8_label_L_68_536b4577:
 
     # ch_Name "Lily... Wait a minute. You've got it all wrong!"
-    ch_Name ""
+    ch_Name "Lily... Sandali. Nagkamali ka!"
 
 # game/logic/events/lily.rpy:2243
 translate philippine Lily_8_label_L_68_ecf6005b:
 
     # ch_Name "In those woods, I don't know what came over me..."
-    ch_Name ""
+    ch_Name "Sa kagubatan na iyon, hindi ko alam kung ano ang nangyari sa akin..."
 
 # game/logic/events/lily.rpy:2244
 translate philippine Lily_8_label_L_68_4899b771:
 
     # Lily "What do you mean?"
-    Lily ""
+    Lily "Ano ang ibig mong sabihin?"
 
 # game/logic/events/lily.rpy:2251
 translate philippine Lily_8_label_L_68_b9ac2715:
 
     # ch_Name "I didn't mean to offend you by saying no."
-    ch_Name ""
+    ch_Name "Hindi ko sinasadyang masaktan ka sa pagsasabi ng hindi."
 
 # game/logic/events/lily.rpy:2252
 translate philippine Lily_8_label_L_68_facb6537:
 
     # ch_Name "But you're too important to me. As a friend."
-    ch_Name ""
+    ch_Name "Pero masyado kang mahalaga sa akin. Bilang kaibigan."
 
 # game/logic/events/lily.rpy:2253
 translate philippine Lily_8_label_L_68_08c20d15:
@@ -7282,43 +7282,43 @@ translate philippine Lily_8_label_L_68_08c20d15:
 translate philippine Lily_8_label_L_68_1fc848bd:
 
     # ch_Name "I don't want to risk it, you know? I don't want to lose you."
-    ch_Name ""
+    ch_Name "Ayokong ipagsapalaran ito, alam mo ba? Ayokong mawala ka."
 
 # game/logic/events/lily.rpy:2256
 translate philippine Lily_8_label_L_68_3012cd12:
 
     # Lily "I understand..."
-    Lily ""
+    Lily "Naiintindihan ko..."
 
 # game/logic/events/lily.rpy:2257
 translate philippine Lily_8_label_L_68_c27d22ff:
 
     # Lily "I'm sorry, [Name]. I'll be going."
-    Lily ""
+    Lily "Patawad, [Name]. Aalis na ako."
 
 # game/logic/events/lily.rpy:2258
 translate philippine Lily_8_label_L_68_b510ad9f:
 
     # ch_Name "But..."
-    ch_Name ""
+    ch_Name "Pero..."
 
 # game/logic/events/lily.rpy:2260
 translate philippine Lily_8_label_L_68_7838d984:
 
     # Lily "I still want to make it to class. Bye."
-    Lily ""
+    Lily "Gusto ko pang pumasok sa klase. Paalam."
 
 # game/logic/events/lily.rpy:2269
 translate philippine Lily_8_label_L_68_c3cd30bc:
 
     # ch_Name "I just panicked at the time..."
-    ch_Name ""
+    ch_Name "Nagtaranta lang ako noon..."
 
 # game/logic/events/lily.rpy:2270
 translate philippine Lily_8_label_L_68_eccb57c5:
 
     # ch_Name "But since then, all I can think about is you."
-    ch_Name ""
+    ch_Name "Pero simula noon, ikaw lang ang nasa isip ko."
 
 # game/logic/events/lily.rpy:2271
 translate philippine Lily_8_label_L_68_02767e4d:
@@ -7348,19 +7348,19 @@ translate philippine Lily_8_label_L_68_8c41bb6f:
 translate philippine Lily_8_label_L_68_70c4ae87:
 
     # Lily "[Name], my offer..."
-    Lily ""
+    Lily "[Name], ang alok ko..."
 
 # game/logic/events/lily.rpy:2278
 translate philippine Lily_8_label_L_68_3abafedb:
 
     # Lily "It's more relevant than ever."
-    Lily ""
+    Lily "Mas may kaugnayan na kaysa dati."
 
 # game/logic/events/lily.rpy:2279
 translate philippine Lily_8_label_L_68_a9112dab:
 
     # ch_Name "What, right here?"
-    ch_Name ""
+    ch_Name "Ano, dito?"
 
 # game/logic/events/lily.rpy:2280
 translate philippine Lily_8_label_L_68_a6915996:
@@ -7372,97 +7372,97 @@ translate philippine Lily_8_label_L_68_a6915996:
 translate philippine Lily_8_label_L_96_c643f854:
 
     # ch_Name "It was so sudden and under the circumstances..."
-    ch_Name ""
+    ch_Name "Napakabigla at nakasalalay sa sitwasyon..."
 
 # game/logic/events/lily.rpy:2287
 translate philippine Lily_8_label_L_96_f5fda6eb:
 
     # ch_Name "I thought we should talk about it."
-    ch_Name ""
+    ch_Name "Akala ko dapat natin itong pag-usapan."
 
 # game/logic/events/lily.rpy:2288
 translate philippine Lily_8_label_L_96_929cbb08:
 
     # ch_Name "So there wouldn't be any awkwardness."
-    ch_Name ""
+    ch_Name "Para walang kaasiwaan."
 
 # game/logic/events/lily.rpy:2290
 translate philippine Lily_8_label_L_96_8a11c9a3:
 
     # Lily "Awkward?"
-    Lily ""
+    Lily "Kaasiwaan?"
 
 # game/logic/events/lily.rpy:2291
 translate philippine Lily_8_label_L_96_e21301dd:
 
     # Lily "Are you going to stand me up?"
-    Lily ""
+    Lily "Iwanan mo ba ako?"
 
 # game/logic/events/lily.rpy:2298
 translate philippine Lily_8_label_L_96_8ccad3ba:
 
     # ch_Name "I don't know how this happened, really."
-    ch_Name ""
+    ch_Name "Hindi ko talagang alam kung paano nangyari ito."
 
 # game/logic/events/lily.rpy:2299
 translate philippine Lily_8_label_L_96_facb6537:
 
     # ch_Name "But you're too important to me. As a friend."
-    ch_Name ""
+    ch_Name Pero masyado kang mahalaga sa akin. Bilang kaibigan."
 
 # game/logic/events/lily.rpy:2300
 translate philippine Lily_8_label_L_96_ed3ffdf3:
 
     # ch_Name "I don't want to risk that for sex, you know?"
-    ch_Name ""
+    ch_Name "Ayokong ipagsapalaran iyon para sa pakikipagtalik."
 
 # game/logic/events/lily.rpy:2301
 translate philippine Lily_8_label_L_96_b1d33935:
 
     # Lily "I get it..."
-    Lily ""
+    Lily "Nakuha ko..."
 
 # game/logic/events/lily.rpy:2303
 translate philippine Lily_8_label_L_96_822ba660:
 
     # ch_Name "So we're okay? Are we friends?"
-    ch_Name ""
+    ch_Name "So ayos na tayo? Magkaibigan ba tayo?"
 
 # game/logic/events/lily.rpy:2304
 translate philippine Lily_8_label_L_96_43b9d20c:
 
     # Lily "I'm sorry, [Name]. I'm gonna go."
-    Lily ""
+    Lily "Pasensya na, [Name]. Aalis na ako."
 
 # game/logic/events/lily.rpy:2305
 translate philippine Lily_8_label_L_96_b510ad9f:
 
     # ch_Name "But..."
-    ch_Name ""
+    ch_Name "Pero..."
 
 # game/logic/events/lily.rpy:2307
 translate philippine Lily_8_label_L_96_7838d984:
 
     # Lily "I still want to make it to class. Bye."
-    Lily ""
+    Lily "Gusto ko pang pumasok sa klase. Paalam."
 
 # game/logic/events/lily.rpy:2316
 translate philippine Lily_8_label_L_96_5ac24fb1:
 
     # ch_Name "You misunderstood me..."
-    ch_Name ""
+    ch_Name "Hindi mo ako naiintindihan..."
 
 # game/logic/events/lily.rpy:2317
 translate philippine Lily_8_label_L_96_945c0ff9:
 
     # ch_Name "I don't want this to remain a \"casual hookup\"..."
-    ch_Name ""
+    ch_Name "Ayokong manatiling isang \"casual hookup\" ito..."
 
 # game/logic/events/lily.rpy:2318
 translate philippine Lily_8_label_L_96_47c2fc72:
 
     # ch_Name "I can't stop thinking about you!"
-    ch_Name ""
+    ch_Name "Hindi ko maiwasang isipin ka!"
 
 # game/logic/events/lily.rpy:2319
 translate philippine Lily_8_label_L_96_02767e4d:
@@ -7492,49 +7492,49 @@ translate philippine Lily_8_label_L_96_8c41bb6f:
 translate philippine Lily_8_label_L_96_02d32aff:
 
     # Lily "Prove it!"
-    Lily ""
+    Lily "Patunayan mo!"
 
 # game/logic/events/lily.rpy:2326
 translate philippine Lily_8_label_L_96_a9112dab:
 
     # ch_Name "What, right here?"
-    ch_Name ""
+    ch_Name "Ano, dito?"
 
 # game/logic/events/lily.rpy:2327
 translate philippine Lily_8_label_L_96_941ff4aa:
 
     # Lily "Don't pretend that's not why you brought me to such a secluded corner..."
-    Lily ""
+    Lily "Huwag kang magpanggap na hindi iyon ang dahilan kung bakit mo ako dinala dito..."
 
 # game/logic/events/lily.rpy:2328
 translate philippine Lily_8_label_L_96_1201ee62:
 
     # Lily "So what are you waiting for?"
-    Lily ""
+    Lily "Kaya ano pang hinihintay mo?"
 
 # game/logic/events/lily.rpy:2337
 translate philippine Lily_8_label_L_122_ad5b4ecc:
 
     # ch_Name "Well, you asked for it!"
-    ch_Name ""
+    ch_Name "Ikaw ang naghiling!"
 
 # game/logic/events/lily.rpy:2338
 translate philippine Lily_8_label_L_122_2defb210:
 
     # Lily "I knew you couldn't resist my offer."
-    Lily ""
+    Lily "Alam kong hindi mo matatanggihan ang alok ko."
 
 # game/logic/events/lily.rpy:2340
 translate philippine Lily_8_label_L_122_8919ca00:
 
     # Lily "Look at this little nook, huh?"
-    Lily ""
+    Lily "Tingnan mo itong maliit na sulok."
 
 # game/logic/events/lily.rpy:2341
 translate philippine Lily_8_label_L_122_46487006:
 
     # Lily "I'm sure no one will bother us here."
-    Lily ""
+    Lily "Sigurado akong walang makakita sa atin dito."
 
 # game/logic/events/lily.rpy:2349
 translate philippine Lily_8_label_L_122_9cdd9737:
@@ -7546,19 +7546,19 @@ translate philippine Lily_8_label_L_122_9cdd9737:
 translate philippine Lily_8_label_L_122_bf6d57eb:
 
     # ch_Name "{i}(Teachers walk by here all the time... If we get caught, it'll be embarrassing.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Laging dumadaan dito ang mga guro... Kung mahuli tayo, mapapahiya tayo nito.){/i}"
 
 # game/logic/events/lily.rpy:2351
 translate philippine Lily_8_label_L_122_c2799705:
 
     # ch_Name "I didn't know that you're into that kind of stuff..."
-    ch_Name ""
+    ch_Name "Hindi ko alam na mahilig ka pala sa mga ganyang bagay..."
 
 # game/logic/events/lily.rpy:2352
 translate philippine Lily_8_label_L_122_e053c123:
 
     # Lily "Mmm... It's not important to me. I just want you."
-    Lily ""
+    Lily "Mmm... Hindi naman importante sakin. Gusto lang kita."
 
 # game/logic/events/lily.rpy:2354
 translate philippine Lily_8_label_L_122_534d604c:
@@ -7570,19 +7570,19 @@ translate philippine Lily_8_label_L_122_534d604c:
 translate philippine Lily_8_label_L_122_ad01c821:
 
     # Lily "Your lips are so soft."
-    Lily ""
+    Lily "Napakalambot ng labi mo."
 
 # game/logic/events/lily.rpy:2356
 translate philippine Lily_8_label_L_122_9a3f702b:
 
     # ch_Name "{i}(If she keeps reacting so loudly, someone will definitely catch us...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kung patuloy siyang tumauli nang napakalakas, tiyak na may makahanap sa amin...){/i}"
 
 # game/logic/events/lily.rpy:2358
 translate philippine Lily_8_label_L_122_8790a04d:
 
     # ch_Name "{i}(But I'd be lying if I said it didn't turn me on.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pero magsisinungaling ako kung sasabihin kong hindi ako napukaw.){/i}"
 
 # game/logic/events/lily.rpy:2359
 translate philippine Lily_8_label_L_122_ac1b6542:
@@ -7594,55 +7594,55 @@ translate philippine Lily_8_label_L_122_ac1b6542:
 translate philippine Lily_8_label_L_122_2f6e593a:
 
     # ch_Name "{i}(After every kiss I give her, she flinches and trembles.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pagkatapos ng bawat halik ko sa kanya, nanginginig talaga siya.){/i}"
 
 # game/logic/events/lily.rpy:2361
 translate philippine Lily_8_label_L_122_511e7a2e:
 
     # ch_Name "{i}(Does it really turn her on that much? Hehe...){/i}"
-    ch_Name ""
+    ch_Name  "{i}(Ganoon ba talaga ang pagkapukaw sa kanya? Hehe...){/i}"
 
 # game/logic/events/lily.rpy:2363
 translate philippine Lily_8_label_L_122_3a9e8d09:
 
     # ch_Name "{i}(It's like she's been waiting for this all day...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parang buong araw na niya itong hinihintay...){/i}"
 
 # game/logic/events/lily.rpy:2364
 translate philippine Lily_8_label_L_122_86b133b4:
 
     # ch_Name "{i}(Her body is just burning with excitement...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nag-aapoy lang ang katawan niya sa kilig...){/i}"
 
 # game/logic/events/lily.rpy:2365
 translate philippine Lily_8_label_L_122_3232b5a1:
 
     # Lily "Lily, I want you even more than before..."
-    Lily ""
+    Lily "Lily, gustung-gusto kita..."
 
 # game/logic/events/lily.rpy:2366
 translate philippine Lily_8_label_L_122_9c48f9a7:
 
     # Lily "Oh, [Name]. I'm all yours!"
-    Lily ""
+    Lily "Oh, [Name]. Iyo na ako!"
 
 # game/logic/events/lily.rpy:2368
 translate philippine Lily_8_label_L_122_c1146370:
 
     # Lily "Ah... Please be gentle there. They are very sensitive..."
-    Lily ""
+    Lily "Ah... Maging malumanay ka diyan. Napakasensitibo nila..."
 
 # game/logic/events/lily.rpy:2369
 translate philippine Lily_8_label_L_122_c7d6427b:
 
     # ch_Name "{i}(Her nipples are hard and swollen. So warm and nice...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Matigas at namamaga ang kanyang mga utong. Napakalambot at maganda...){/i}"
 
 # game/logic/events/lily.rpy:2370
 translate philippine Lily_8_label_L_122_26e41aae:
 
     # ch_Name "I'll try..."
-    ch_Name ""
+    ch_Name "Susubukan ko..."
 
 # game/logic/events/lily.rpy:2371
 translate philippine Lily_8_label_L_122_aaacf40e:
@@ -7654,91 +7654,91 @@ translate philippine Lily_8_label_L_122_aaacf40e:
 translate philippine Lily_8_label_L_122_ef5f4ef3:
 
     # Lily "[Name], I can't wait any longer..."
-    Lily ""
+    Lily "[Name], hindi na ako makapaghintay..."
 
 # game/logic/events/lily.rpy:2374
 translate philippine Lily_8_label_L_122_0205ec16:
 
     # Lily "Take off your clothes."
-    Lily ""
+    Lily "Maghubad ka."
 
 # game/logic/events/lily.rpy:2375
 translate philippine Lily_8_label_L_122_10fb5362:
 
     # ch_Name "As you command, my lady."
-    ch_Name ""
+    ch_Name "Susundin ko ang utos mo, ginang."
 
 # game/logic/events/lily.rpy:2377
 translate philippine Lily_8_label_L_122_62077154:
 
     # ch_Name "{i}(I can't believe we're really doing this here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi ako makapaniwala na talagang ginagawa namin ito dito.){/i}"
 
 # game/logic/events/lily.rpy:2378
 translate philippine Lily_8_label_L_122_b6f450e2:
 
     # ch_Name "{i}(I could have sworn I could hear Jacob's voice somewhere in the distance.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parang naririnig ko ang boses ni Jacob sa na malapit lang.){/i}"
 
 # game/logic/events/lily.rpy:2379
 translate philippine Lily_8_label_L_122_6a40b60f:
 
     # ch_Name "{i}(Let's hope he's not looking bored into every corner of the room.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sana hindi siya tumitingin sa bawat sulok ng kwarto.){/i}"
 
 # game/logic/events/lily.rpy:2381
 translate philippine Lily_8_label_L_122_c544ef07:
 
     # Lily "Yeah, that's much better."
-    Lily ""
+    Lily "Oo, mas mabuti iyon."
 
 # game/logic/events/lily.rpy:2382
 translate philippine Lily_8_label_L_122_04a7f616:
 
     # Lily "I see you're ready."
-    Lily ""
+    Lily "Nakikita kong handa ka na."
 
 # game/logic/events/lily.rpy:2384
 translate philippine Lily_8_label_L_122_efbb6d2f:
 
     # ch_Name "You bet I am!"
-    ch_Name ""
+    ch_Name "Handa na ako!"
 
 # game/logic/events/lily.rpy:2385
 translate philippine Lily_8_label_L_122_b76dbf1c:
 
     # ch_Name "You drive me crazy."
-    ch_Name ""
+    ch_Name "Binabaliw mo ako."
 
 # game/logic/events/lily.rpy:2386
 translate philippine Lily_8_label_L_122_bd5b78d3:
 
     # Lily "It's rather cold to stand naked in this stone hall."
-    Lily ""
+    Lily "Medyo malamig ang tumayong hubo't hubad sa batong bulwagan na ito."
 
 # game/logic/events/lily.rpy:2387
 translate philippine Lily_8_label_L_122_ea9857f9:
 
     # Lily "Can you warm me up?"
-    Lily ""
+    Lily "Maaari mo ba akong painitin?"
 
 # game/logic/events/lily.rpy:2389
 translate philippine Lily_8_label_L_122_6338b9c7:
 
     # ch_Name "Cold? That's strange. How hot you are must make the stones melt..."
-    ch_Name ""
+    ch_Name "Malamig? Kakaiba iyon. Dapat natutunaw ang mga bato sa init mo..."
 
 # game/logic/events/lily.rpy:2390
 translate philippine Lily_8_label_L_122_c6ba1437:
 
     # ch_Name "Well, I know how to help you out."
-    ch_Name ""
+    ch_Name "Alam ko kung paano ka tutulungan."
 
 # game/logic/events/lily.rpy:2391
 translate philippine Lily_8_label_L_122_c7b8a2a8:
 
     # ch_Name "Come here."
-    ch_Name ""
+    ch_Name "Halika dito."
 
 # game/logic/events/lily.rpy:2393
 translate philippine Lily_8_label_L_122_fda62d52:
@@ -7756,37 +7756,37 @@ translate philippine Lily_8_label_L_122_08c20d15:
 translate philippine Lily_8_label_L_122_daca054b:
 
     # ch_Name "{i}(I'm ready to melt into her lips forever. They're sweet as honey.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Handa na akong matunaw sa kanyang mga labi. Ang tamis nila.){/i}"
 
 # game/logic/events/lily.rpy:2396
 translate philippine Lily_8_label_L_122_fa38ef14:
 
     # Lily "That's better..."
-    Lily ""
+    Lily "Mas mabuti..."
 
 # game/logic/events/lily.rpy:2398
 translate philippine Lily_8_label_L_122_3c1b06f1:
 
     # Lily "But I'm still cold."
-    Lily ""
+    Lily "Pero nilalamig pa rin ako."
 
 # game/logic/events/lily.rpy:2399
 translate philippine Lily_8_label_L_122_5a528361:
 
     # ch_Name "What should we do?"
-    ch_Name ""
+    ch_Name "Ano ang dapat nating gawin?"
 
 # game/logic/events/lily.rpy:2400
 translate philippine Lily_8_label_L_122_b8229236:
 
     # Lily "I'm afraid..."
-    Lily ""
+    Lily "Parang..."
 
 # game/logic/events/lily.rpy:2401
 translate philippine Lily_8_label_L_122_087c83cb:
 
     # Lily "I'm afraid you'll have to fuck me to warm me up."
-    Lily ""
+    Lily "Parang kailangan mo akong kantutin para mapainit mo ako."
 
 # game/logic/events/lily.rpy:2403
 translate philippine Lily_8_label_L_122_ff71c99e:
@@ -7798,43 +7798,43 @@ translate philippine Lily_8_label_L_122_ff71c99e:
 translate philippine Lily_8_label_L_122_fffa1cf2:
 
     # Lily "Wow, [Name]! You're strong!"
-    Lily ""
+    Lily "Wow, [Name]! Ang lakas mo!"
 
 # game/logic/events/lily.rpy:2405
 translate philippine Lily_8_label_L_122_8b02b200:
 
     # ch_Name "You're as light as a rose petal, baby."
-    ch_Name ""
+    ch_Name "Ang gaan mo kasing talulot ng rosas, baby."
 
 # game/logic/events/lily.rpy:2407
 translate philippine Lily_8_label_L_122_11fc8e4c:
 
     # ch_Name "Let me show you some real strength."
-    ch_Name ""
+    ch_Name "Ipakita ko sa iyo ang tunay na lakas."
 
 # game/logic/events/lily.rpy:2408
 translate philippine Lily_8_label_L_122_8cabc175:
 
     # Lily "Oh, yeah, take me!"
-    Lily ""
+    Lily "Oh sige, kantutin mo na ako!"
 
 # game/logic/events/lily.rpy:2409
 translate philippine Lily_8_label_L_122_9f4d5fe5:
 
     # ch_Name "Just try not to scream too loud, okay?"
-    ch_Name ""
+    ch_Name "Huwag sumigaw ng masyadong malakas, ayos?"
 
 # game/logic/events/lily.rpy:2411
 translate philippine Lily_8_label_L_122_f7e64844:
 
     # Lily "No promises!"
-    Lily ""
+    Lily "Walang pangako!"
 
 # game/logic/events/lily.rpy:2413
 translate philippine Lily_8_label_L_122_ce804928:
 
     # ch_Name "Here I go!"
-    ch_Name ""
+    ch_Name "Heto na!"
 
 # game/logic/events/lily.rpy:2414
 translate philippine Lily_8_label_L_122_5f3a59ad:
@@ -7846,7 +7846,7 @@ translate philippine Lily_8_label_L_122_5f3a59ad:
 translate philippine Lily_8_label_L_122_1c7d3ad0:
 
     # ch_Name "{i}(Damn! I told her to keep her voice down...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sinabi ko sa kanya na hinaan ang boses niya...){/i}"
 
 # game/logic/events/lily.rpy:2417
 translate philippine Lily_8_label_L_122_aaacf40e_1:
@@ -7858,13 +7858,13 @@ translate philippine Lily_8_label_L_122_aaacf40e_1:
 translate philippine Lily_8_label_L_122_7c23e5be:
 
     # Lily "Ah, yes, oh, yes!"
-    Lily ""
+    Lily "Ah, oo, oo, oo!"
 
 # game/logic/events/lily.rpy:2419
 translate philippine Lily_8_label_L_122_1beb0520:
 
     # ch_Name "{i}(At this rate we're going to get caught...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mahuhuli tayo...){/i}"
 
 # game/logic/events/lily.rpy:2421
 translate philippine Lily_8_label_L_122_5f3a59ad_1:
@@ -7876,13 +7876,13 @@ translate philippine Lily_8_label_L_122_5f3a59ad_1:
 translate philippine Lily_8_label_L_122_938be480:
 
     # ch_Name "Baby, I'm not kidding, be quiet!"
-    ch_Name ""
+    ch_Name "Baby, hindi ako nagbibiro, tumahimik ka!"
 
 # game/logic/events/lily.rpy:2423
 translate philippine Lily_8_label_L_122_b4d3103c:
 
     # Lily "I... I'll try to..."
-    Lily ""
+    Lily "Ako... susubukan kong..."
 
 # game/logic/events/lily.rpy:2424
 translate philippine Lily_8_label_L_122_41f54cf8:
@@ -7894,7 +7894,7 @@ translate philippine Lily_8_label_L_122_41f54cf8:
 translate philippine Lily_8_label_L_122_3c767627:
 
     # ch_Name "{i}(It's so tight and tight, I can't believe it...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Napakasikip at sikip, hindi ako makapaniwala...){/i}"
 
 # game/logic/events/lily.rpy:2427
 translate philippine Lily_8_label_L_122_69436d41:
@@ -7912,13 +7912,13 @@ translate philippine Lily_8_label_L_122_aaacf40e_2:
 translate philippine Lily_8_label_L_122_02ecea6d:
 
     # Lily "Fuck me! Fuck me harder!"
-    Lily ""
+    Lily "Kantutin mo ako! Kantutin mo ako ng mas malakas!"
 
 # game/logic/events/lily.rpy:2431
 translate philippine Lily_8_label_L_122_35c3ed35:
 
     # Lily "Ah... Just like that!"
-    Lily ""
+    Lily "Ah... Ganoon!"
 
 # game/logic/events/lily.rpy:2432
 translate philippine Lily_8_label_L_122_fcf59f3b:
@@ -7930,103 +7930,103 @@ translate philippine Lily_8_label_L_122_fcf59f3b:
 translate philippine Lily_8_label_L_122_850c24b1:
 
     # ch_Name "{i}(Just a little bit more and I'll come...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kaunti na lang at magpapalabas na ako...){/i}"
 
 # game/logic/events/lily.rpy:2435
 translate philippine Lily_8_label_L_122_ed6e74ab:
 
     # ch_Name "I'm almost..."
-    ch_Name ""
+    ch_Name "Malapit na ako..."
 
 # game/logic/events/lily.rpy:2436
 translate philippine Lily_8_label_L_122_5a08dabd:
 
     # Lily "So am I. Don't stop."
-    Lily ""
+    Lily "Ako rin. 'Wag kang titigil."
 
 # game/logic/events/lily.rpy:2438
 translate philippine Lily_8_label_L_122_af3028bd:
 
     # Lily "Did you hear that?" with hpunch
-    Lily "" with hpunch
+    Lily "Narinig mo ba 'yun?" with hpunch
 
 # game/logic/events/lily.rpy:2439
 translate philippine Lily_8_label_L_122_090fd3be:
 
     # ch_Name "{i}(What the hell?! Now?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ano ba?! Ngayon?){/i}"
 
 # game/logic/events/lily.rpy:2440
 translate philippine Lily_8_label_L_122_010da679:
 
     # ch_Name "Yes.."
-    ch_Name ""
+    ch_Name "Oo..."
 
 # game/logic/events/lily.rpy:2442
 translate philippine Lily_8_label_L_122_f60d6d41:
 
     # ch_Name "I think someone's coming this way."
-    ch_Name ""
+    ch_Name "May pumupunta dito."
 
 # game/logic/events/lily.rpy:2443
 translate philippine Lily_8_label_L_122_1a33e168:
 
     # Lily "Shit... No way!"
-    Lily ""
+    Lily "Bwisit... Hindi!"
 
 # game/logic/events/lily.rpy:2444
 translate philippine Lily_8_label_L_122_b139bdfc:
 
     # Lily "Do you think they heard us?"
-    Lily ""
+    Lily "Narinig ba nila tayo?"
 
 # game/logic/events/lily.rpy:2446
 translate philippine Lily_8_label_L_122_74209dac:
 
     # Gabriella "...And then he suddenly applies Rictusempra!"
-    Gabriella ""
+    Gabriella "...At bigla siyang gumamit ng Rictusempra!"
 
 # game/logic/events/lily.rpy:2447
 translate philippine Lily_8_label_L_122_9da58a3a:
 
     # Carter "Come on! What about you?"
-    Carter ""
+    Carter "Talaga! Ano naman sayo?"
 
 # game/logic/events/lily.rpy:2448
 translate philippine Lily_8_label_L_122_923db741:
 
     # ch_Name "I don't know, I can't hear what they're saying..."
-    ch_Name ""
+    ch_Name "Hindi ko alam, hindi ko marinig ang sinasabi nila..."
 
 # game/logic/events/lily.rpy:2449
 translate philippine Lily_8_label_L_122_429b3608:
 
     # ch_Name "But it's too dangerous to go on."
-    ch_Name ""
+    ch_Name "Ngunit masyadong mapanganib magpatuloy."
 
 # game/logic/events/lily.rpy:2451
 translate philippine Lily_8_label_L_122_406ca087:
 
     # Lily "We must hurry."
-    Lily ""
+    Lily "Dapat tayong magmadali."
 
 # game/logic/events/lily.rpy:2452
 translate philippine Lily_8_label_L_122_9f5e8a5a:
 
     # Lily "If anyone asks, we were just studying the murals."
-    Lily ""
+    Lily "Kung may magtatanong, pinag-aaralan lang natin ang mga mural."
 
 # game/logic/events/lily.rpy:2454
 translate philippine Lily_8_label_L_122_11c19513:
 
     # ch_Name "It's a good thing we had time to get dressed."
-    ch_Name ""
+    ch_Name "Buti na lang nagkaroon tayo ng oras para magbihis."
 
 # game/logic/events/lily.rpy:2455
 translate philippine Lily_8_label_L_122_9da29d31:
 
     # ch_Name "I don't think anyone would believe that you have to be naked to study murals."
-    ch_Name ""
+    ch_Name "Walang maniniwala na kailangan mong maghubad para mag-aral ng mga mural."
 
 # game/logic/events/lily.rpy:2456
 translate philippine Lily_8_label_L_122_2390a044:
@@ -8038,7 +8038,7 @@ translate philippine Lily_8_label_L_122_2390a044:
 translate philippine Lily_8_label_L_122_c1466b66:
 
     # Lily "Yeah, that was close. Come here..."
-    Lily ""
+    Lily "Oo, malapit na. Halika dito..."
 
 # game/logic/events/lily.rpy:2459
 translate philippine Lily_8_label_L_122_fac02ba5:
@@ -8056,121 +8056,121 @@ translate philippine Lily_8_label_L_122_82381f4c:
 translate philippine Lily_8_label_L_122_06fee24e:
 
     # Lily "But we're not done, [Name]."
-    Lily ""
+    Lily "Pero hindi pa tayo tapos, [Name]."
 
 # game/logic/events/lily.rpy:2463
 translate philippine Lily_8_label_L_122_302e8dd8:
 
     # Lily "So this will have to be repeated!"
-    Lily ""
+    Lily "Kaya kailangang ulitin natin ito!"
 
 # game/logic/events/lily.rpy:2464
 translate philippine Lily_8_label_L_122_e26abf66:
 
     # ch_Name "{i}(Is she serious?! What a pervert! Although who am I to judge?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Seryoso ba siya?! Kabuktutan talaga ang sa isip niya! Pero sino ako para manghusga?){/i}"
 
 # game/logic/events/lily.rpy:2465
 translate philippine Lily_8_label_L_122_dc6907e6:
 
     # ch_Name "It will, baby. I'll see you later."
-    ch_Name ""
+    ch_Name "Siyempre, baby. magkita na lang tayo mamaya."
 
 # game/logic/events/lily.rpy:2467
 translate philippine Lily_8_label_L_122_2d419c8a:
 
     # ch_Name "{i}(We decided to separate and go to class separately.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nagpasya kaming maghiwalay at pumunta sa klase.){/i}"
 
 # game/logic/events/lily.rpy:2468
 translate philippine Lily_8_label_L_122_aeeb4acd:
 
     # ch_Name "{i}(To deflect suspicion...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Upang iwaksi ang hinala...){/i}"
 
 # game/logic/events/lily.rpy:2469
 translate philippine Lily_8_label_L_122_048c40fa:
 
     # ch_Name "{i}(In case Carter or Gaby saw something.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kung sakaling may nakita sina Carter o Gaby.){/i}"
 
 # game/logic/events/lily.rpy:2489
 translate philippine Lily_CF_1_label_2b1ff7a1:
 
     # ch_Name "{i}(Yes, the beds here are not as soft as in Cordale.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oo, ang mga kama dito ay hindi kasing lambot ng sa Cordale.){/i}"
 
 # game/logic/events/lily.rpy:2490
 translate philippine Lily_CF_1_label_b7155be3:
 
     # ch_Name "{i}(On the other hand, what do I want? It's free.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sa kabilang banda, ano ang gusto ko? Libre ito.){/i}"
 
 # game/logic/events/lily.rpy:2492
 translate philippine Lily_CF_1_label_8b8fc29a:
 
     # ch_Name "{i}(Okay, it's time to go.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Okay, oras na para umalis.){/i}"
 
 # game/logic/events/lily.rpy:2493
 translate philippine Lily_CF_1_label_323a8f06:
 
     # ch_Name "{i}(I don't want to lie in bed all last day in Dale.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ayokong humiga sa kama sa kabuuan ng huling araw sa Dale.){/i}"
 
 # game/logic/events/lily.rpy:2499
 translate philippine Lily_CF_1_label_beea7a08:
 
     # ch_Name "Good morning, Mina!"
-    ch_Name ""
+    ch_Name "Magandang umaga, Mina!"
 
 # game/logic/events/lily.rpy:2500
 translate philippine Lily_CF_1_label_329a047f:
 
     # Mina "Hello, [Name]! What are your plans for today?"
-    Mina ""
+    Mina "Kamusta, [Name]! Ano ang plano mo sa ngayong araw?"
 
 # game/logic/events/lily.rpy:2501
 translate philippine Lily_CF_1_label_692009ab:
 
     # ch_Name "I'll have coffee at Ahchi's, and then we'll see. Bye!"
-    ch_Name ""
+    ch_Name "Magkakape ako sa kay Ahchi, at malalaman natin ang pagkatapos. Paalam!"
 
 # game/logic/events/lily.rpy:2508
 translate philippine Lily_CF_1_label_f6b6de1f:
 
     # ch_Name "{i}(I can't believe my luck!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi ako makapaniwala sa swerte ko!){/i}"
 
 # game/logic/events/lily.rpy:2509
 translate philippine Lily_CF_1_label_a70c9784:
 
     # ch_Name "{i}(Familiar face!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Isang pamilyar na mukha!){/i}"
 
 # game/logic/events/lily.rpy:2510
 translate philippine Lily_CF_1_label_c3ccee48:
 
     # ch_Name "{i}(I was just wondering where Lily would go on weekends and here she is.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Iniisip ko kung saan pupunta si Lily kapag katapusan ng linggo at narito siya.){/i}"
 
 # game/logic/events/lily.rpy:2513
 translate philippine Lily_CF_1_label_c4cc292c:
 
     # ch_Name "{i}(Lily seems to be having a great time.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mukhang masaya si Lily.){/i}"
 
 # game/logic/events/lily.rpy:2514
 translate philippine Lily_CF_1_label_5da5e660:
 
     # ch_Name "{i}(Haley would definitely appreciate a book and coffee.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Si Haley ay tiyak na magpapasalamat sa libro at kape.){/i}"
 
 # game/logic/events/lily.rpy:2515
 translate philippine Lily_CF_1_label_72b283d6:
 
     # ch_Name "{i}(I hope my company will only make her day better.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sana ang pagdalo ko ang magpapaganda ng araw niya.){/i}"
 
 # game/logic/events/lily.rpy:2516
 translate philippine Lily_CF_1_label_ff2faaa2:
@@ -8182,583 +8182,583 @@ translate philippine Lily_CF_1_label_ff2faaa2:
 translate philippine Lily_CF_1_label_410d7708:
 
     # Lily "[Name], hi there!"
-    Lily ""
+    Lily "[Name], kumusta!"
 
 # game/logic/events/lily.rpy:2519
 translate philippine Lily_CF_1_label_30b733f5:
 
     # Lily "It's good to see you!"
-    Lily ""
+    Lily "Masaya akong makita ka!"
 
 # game/logic/events/lily.rpy:2520
 translate philippine Lily_CF_1_label_e215dadb:
 
     # Lily "Will you keep me company?"
-    Lily ""
+    Lily Sasamahan mo ba ako?"
 
 # game/logic/events/lily.rpy:2521
 translate philippine Lily_CF_1_label_23f06184:
 
     # ch_Name "Sure. (Laughs)"
-    ch_Name ""
+    ch_Name "Oo naman. (Tumawa)"
 
 # game/logic/events/lily.rpy:2523
 translate philippine Lily_CF_1_label_702e924d:
 
     # ch_Name "How's your weekend going? Enjoying a book?"
-    ch_Name ""
+    ch_Name "Kamusta ang araw mo? Tinatangkilik ang isang libro?"
 
 # game/logic/events/lily.rpy:2524
 translate philippine Lily_CF_1_label_7d0f13b1:
 
     # Lily "Decided to try coffee at a new place. I love it!"
-    Lily ""
+    Lily "Nagpasya na subukan ang kape sa bagong lugar. Gusto ko ito!"
 
 # game/logic/events/lily.rpy:2525
 translate philippine Lily_CF_1_label_6e3dd0c4:
 
     # Lily "Thought I'd sit in Lustagram while I drink, but my phone ran out of juice."
-    Lily ""
+    Lily "Akala ko magbabasa ako ng Lustagram habang umiinom, pero naubusan ng baterya ang phone ko."
 
 # game/logic/events/lily.rpy:2526
 translate philippine Lily_CF_1_label_fc8e1d57:
 
     # Lily "So desperately trying to find the fun in science fiction."
-    Lily ""
+    Lily "Kaya sinusubukan kong hanapin ang saya sa science fiction."
 
 # game/logic/events/lily.rpy:2528
 translate philippine Lily_CF_1_label_d0781bb0:
 
     # ch_Name "Oh no... I'm forced to compete with science fiction?"
-    ch_Name ""
+    ch_Name "Naku... Napipilitan akong makipaglaban sa science fiction?"
 
 # game/logic/events/lily.rpy:2529
 translate philippine Lily_CF_1_label_91d4a0bd:
 
     # ch_Name "I don't seem to have a chance."
-    ch_Name ""
+    ch_Name "Parang wala na akong pagkakataon."
 
 # game/logic/events/lily.rpy:2530
 translate philippine Lily_CF_1_label_234ba5b4:
 
     # ch_Name "I'm gonna go. I'll get out of your way."
-    ch_Name ""
+    ch_Name "Aalis na ako."
 
 # game/logic/events/lily.rpy:2532
 translate philippine Lily_CF_1_label_15f1ffb4:
 
     # Lily "Don't say that! Stay here."
-    Lily ""
+    Lily "'Wag mong sabihin yan! Manatili ka dito."
 
 # game/logic/events/lily.rpy:2533
 translate philippine Lily_CF_1_label_55ea5755:
 
     # Lily "I'm glad to have your company!"
-    Lily ""
+    Lily Natutuwa akong nandito ka!"
 
 # game/logic/events/lily.rpy:2534
 translate philippine Lily_CF_1_label_1b166bc1:
 
     # ch_Name "{i}(She got all excited. I guess I'm more interesting than her book.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Natuwa siya. Mas kawili-wili yata ako kaysa sa libro niya.){/i}"
 
 # game/logic/events/lily.rpy:2536
 translate philippine Lily_CF_1_label_25e09400:
 
     # ch_Name "Come on, I was just kidding."
-    ch_Name ""
+    ch_Name "Sige na, nagbibiro lang ako."
 
 # game/logic/events/lily.rpy:2537
 translate philippine Lily_CF_1_label_c989c735:
 
     # ch_Name "You better tell me, what are your plans for the rest of the weekend?"
-    ch_Name ""
+    ch_Name "Sabihin mo sa akin, ano ang iyong mga plano para sa natitirang linggo?"
 
 # game/logic/events/lily.rpy:2538
 translate philippine Lily_CF_1_label_96999dc4:
 
     # Lily "Why, do you want to ask me out?"
-    Lily ""
+    Lily "Bakit, gusto mo ba akong yayain?"
 
 # game/logic/events/lily.rpy:2539
 translate philippine Lily_CF_1_label_e9292ba3:
 
     # ch_Name "Maybe I do..."
-    ch_Name ""
+    ch_Name "Siguro..."
 
 # game/logic/events/lily.rpy:2541
 translate philippine Lily_CF_1_label_00872915:
 
     # Lily "Maybe some other time. I already made an appointment for a spa treatment."
-    Lily ""
+    Lily "Baka sa ibang pagkakataon. Gumawa na ako ng appointment para sa isang spa treatment."
 
 # game/logic/events/lily.rpy:2542
 translate philippine Lily_CF_1_label_0db83624:
 
     # Lily "And my sister's passing through Dale on business trip."
-    Lily ""
+    Lily "At dadaanan ng kapatid ko ang Dale sa paglalakbay-gawain."
 
 # game/logic/events/lily.rpy:2543
 translate philippine Lily_CF_1_label_5e1f18a7:
 
     # Lily "She works as a detective for the Ministry of Magic."
-    Lily ""
+    Lily "Nagtatrabaho siya bilang isang tiktik para sa Ministry of Magic."
 
 # game/logic/events/lily.rpy:2544
 translate philippine Lily_CF_1_label_1b4a6c60:
 
     # Lily "So I'll be hanging out with her."
-    Lily ""
+    Lily "Kaya makikipagsama ako sa kanya."
 
 # game/logic/events/lily.rpy:2546
 translate philippine Lily_CF_1_label_5bf73e12:
 
     # ch_Name "That's cool. I didn't even know you had a sister."
-    ch_Name ""
+    ch_Name "Mabuti naman. Hindi ko nga alam na may kapatid ka pala."
 
 # game/logic/events/lily.rpy:2547
 translate philippine Lily_CF_1_label_e3c49179:
 
     # ch_Name "Detective... Wow. Is she investigating something here?"
-    ch_Name ""
+    ch_Name "Tiktik... Wow. May iniimbestigahan ba siya dito?""
 
 # game/logic/events/lily.rpy:2549
 translate philippine Lily_CF_1_label_abee5886:
 
     # Lily "Mm-hmm. That's... That's a good question."
-    Lily ""
+    Lily "Mm-hmm. 'Yan ay... Magandang tanong 'yan."
 
 # game/logic/events/lily.rpy:2550
 translate philippine Lily_CF_1_label_a4ecc402:
 
     # Lily "But even if I knew, I couldn't tell you."
-    Lily ""
+    Lily "Pero kung alam ko, hindi ko masasabi sa iyo."
 
 # game/logic/events/lily.rpy:2551
 translate philippine Lily_CF_1_label_62c5c73f:
 
     # Lily "By the way, what time is it?"
-    Lily ""
+    Lily "Oo nga pala, anong oras na?"
 
 # game/logic/events/lily.rpy:2552
 translate philippine Lily_CF_1_label_1f5821f9:
 
     # ch_Name "It's almost 1:00. Why?"
-    ch_Name ""
+    ch_Name "Malapit na mag 1:00. Bakit?"
 
 # game/logic/events/lily.rpy:2553
 translate philippine Lily_CF_1_label_8ab0d91b:
 
     # ch_Name "And it's only a day and a half."
-    ch_Name ""
+    ch_Name "At isa't kalahating araw lang."
 
 # game/logic/events/lily.rpy:2555
 translate philippine Lily_CF_1_label_14582cd9:
 
     # Lily "Oh no, I'm late for Faith's appointment!"
-    Lily ""
+    Lily "Naku, late na ako sa tipanan kay Faith!"
 
 # game/logic/events/lily.rpy:2556
 translate philippine Lily_CF_1_label_f1f61776:
 
     # Lily "I hope my reservation doesn't go down."
-    Lily ""
+    Lily "Sana hindi sayang ang pagpapareserba ko."
 
 # game/logic/events/lily.rpy:2558
 translate philippine Lily_CF_1_label_20c9c1e8:
 
     # Lily "It was nice to see you, [Name]. But I gotta run!"
-    Lily ""
+    Lily "Natutuwa akong makita ka, [Name]. Pero kailangan kong tumakbo!"
 
 # game/logic/events/lily.rpy:2559
 translate philippine Lily_CF_1_label_c74e54eb:
 
     # ch_Name "Bye-bye."
-    ch_Name ""
+    ch_Name "Paalam."
 
 # game/logic/events/lily.rpy:2568
 translate philippine Lily_CF_1_label_f1362b59:
 
     # ch_Name "{i}(I wonder if that kind of weird stuff happens to Lily at the spa.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ano bang kakaibang bagay ang nangyayari kay Lily sa spa?){/i}"
 
 # game/logic/events/lily.rpy:2569
 translate philippine Lily_CF_1_label_ba38c197:
 
     # ch_Name "{i}(Or was that masseuse only attracted to me?){/i}"
-    ch_Name ""
+    ch_Name "{i}(O sa akin lang ba ang naakit ang masahista na iyon?){/i}"
 
 # game/logic/events/lily.rpy:2570
 translate philippine Lily_CF_1_label_15ac0dc3:
 
     # ch_Name "{i}(Oh, crap!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, bwisit!){/i}"
 
 # game/logic/events/lily.rpy:2571
 translate philippine Lily_CF_1_label_5d51385c:
 
     # ch_Name "{i}(I got so caught up with Lily, I forgot I had a date with Adele!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Napalingon ako kay Lily, nakalimutan kong may tipanan pala ako kay Adele!){/i}"
 
 # game/logic/events/lily.rpy:2572
 translate philippine Lily_CF_1_label_0eb089f3:
 
     # ch_Name "{i}(She's probably already waiting for me inside.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Malamang hinihintay na niya ako sa loob.){/i}"
 
 # game/logic/events/lily.rpy:2578
 translate philippine Lily_CF_2_label_05f1045e:
 
     # ch_Name "{i}(I think Lily is reading again.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nagbabasa na naman yata si Lily.){/i}"
 
 # game/logic/events/lily.rpy:2579
 translate philippine Lily_CF_2_label_52d770a9:
 
     # ch_Name "{i}(I wonder what happened to her phone this time?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ano naman ang nangyari sa kanyang telepono?){/i}"
 
 # game/logic/events/lily.rpy:2580
 translate philippine Lily_CF_2_label_348abc3b:
 
     # ch_Name "Hey! You're still reading! Have picked up the habit from Haley?"
-    ch_Name ""
+    ch_Name "Hoy! Nagbabasa ka pa! Nakuha mo ba kay Haley ang ugaling ito?"
 
 # game/logic/events/lily.rpy:2582
 translate philippine Lily_CF_2_label_acefe747:
 
     # Lily "[Name]! It's good to see you."
-    Lily ""
+    Lily "[Name]! Ikinagagalak kitang makita."
 
 # game/logic/events/lily.rpy:2583
 translate philippine Lily_CF_2_label_1a41e9da:
 
     # Lily "Have a seat."
-    Lily ""
+    Lily "Umupo ka."
 
 # game/logic/events/lily.rpy:2584
 translate philippine Lily_CF_2_label_67b347d0:
 
     # ch_Name "It's my pleasure."
-    ch_Name ""
+    ch_Name "Ikinagagalak ko."
 
 # game/logic/events/lily.rpy:2586
 translate philippine Lily_CF_2_label_7335f16a:
 
     # ch_Name "What's your book about?"
-    ch_Name ""
+    ch_Name "Tungkol saan ang libro mo?"
 
 # game/logic/events/lily.rpy:2587
 translate philippine Lily_CF_2_label_aa8b9be5:
 
     # Lily "About a planet overrun by intelligent octopuses."
-    Lily ""
+    Lily "Tungkol sa isang planeta na dinapuan ng mga matatalinong pugita."
 
 # game/logic/events/lily.rpy:2589
 translate philippine Lily_CF_2_label_c55a1739:
 
     # Lily "Science fiction. I can't believe it's so fascinating."
-    Lily ""
+    Lily "Science fiction. Hindi ako makapaniwalang nakakaakit ito."
 
 # game/logic/events/lily.rpy:2590
 translate philippine Lily_CF_2_label_1b658849:
 
     # Lily "I started it out of desperation, and now I can't stop."
-    Lily ""
+    Lily "Sinimulan ko ito dahil sa desperasyon, at ngayon hindi ko na mapigilan."
 
 # game/logic/events/lily.rpy:2591
 translate philippine Lily_CF_2_label_8fb0cb2f:
 
     # Lily "I'd forgotten that I wasn't interested in magic at all when I was a kid."
-    Lily ""
+    Lily "Nakalimutan ko na hindi ako interesado sa mahika noong bata pa ako."
 
 # game/logic/events/lily.rpy:2593
 translate philippine Lily_CF_2_label_cc23c376:
 
     # Lily "I was always fascinated by stories about space and uncharted galaxies."
-    Lily ""
+    Lily "Palagi akong nabighani sa mga kuwento tungkol sa kalawakan."
 
 # game/logic/events/lily.rpy:2594
 translate philippine Lily_CF_2_label_1d37a4cf:
 
     # Lily "I even used to believe that aliens would come and take me away."
-    Lily ""
+    Lily "Naniniwala pa ako noon na darating ang mga alien at dadalhin ako."
 
 # game/logic/events/lily.rpy:2595
 translate philippine Lily_CF_2_label_306efbbd:
 
     # Lily "I'm sorry, that probably sounds silly."
-    Lily ""
+    Lily "Pasensya, mukhang kalokohan 'yan."
 
 # game/logic/events/lily.rpy:2597
 translate philippine Lily_CF_2_label_f34f9e28:
 
     # ch_Name "No, no, it doesn't!"
-    ch_Name ""
+    ch_Name "Hindi, hindi naman!"
 
 # game/logic/events/lily.rpy:2598
 translate philippine Lily_CF_2_label_fdfde14c:
 
     # ch_Name "Go on, I'm very interested..."
-    ch_Name ""
+    ch_Name "Sige, interesado ako..."
 
 # game/logic/events/lily.rpy:2599
 translate philippine Lily_CF_2_label_2c213184:
 
     # ch_Name "{i}(I never would have thought that mages dreamed of space. Paradox.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi ko inakala na ang mga salamangkero ay nangangarap ng kalawakan. Kabalintunaan.){/i}"
 
 # game/logic/events/lily.rpy:2601
 translate philippine Lily_CF_2_label_f5d29d3f:
 
     # Lily "I used to love to wear weird makeup, make myself costumes out of tinfoil."
-    Lily ""
+    Lily "Mahilig ako noong magsuot ng kakaibang pampaganda, gumawa ako ng mga suot na gawa sa tinfoil."
 
 # game/logic/events/lily.rpy:2602
 translate philippine Lily_CF_2_label_0620f40d:
 
     # Lily "I even wrote a story myself, about a mighty space warrior princess."
-    Lily ""
+    Lily "Nagsulat pa ako ng isang kwento, tungkol sa isang makapangyarihang prinsesa ng mandirigma sa kalawakan."
 
 # game/logic/events/lily.rpy:2603
 translate philippine Lily_CF_2_label_0e1700bd:
 
     # ch_Name "Come on! You... Wrote a story?"
-    ch_Name ""
+    ch_Name "Ikaw... Nagsulat ng kwento?"
 
 # game/logic/events/lily.rpy:2604
 translate philippine Lily_CF_2_label_2f5d5c3d:
 
     # ch_Name "I've been dying to read it."
-    ch_Name ""
+    ch_Name "Gusto kong basahin."
 
 # game/logic/events/lily.rpy:2605
 translate philippine Lily_CF_2_label_64e85f97:
 
     # ch_Name "Do you still have copies?"
-    ch_Name ""
+    ch_Name "May kopya ka pa ba?"
 
 # game/logic/events/lily.rpy:2607
 translate philippine Lily_CF_2_label_72b96029:
 
     # Lily "Sadly, no."
-    Lily ""
+    Lily "Ikinalulungkot kong hindi."
 
 # game/logic/events/lily.rpy:2608
 translate philippine Lily_CF_2_label_a890b07d:
 
     # Lily "I was pretty cranky growing up."
-    Lily ""
+    Lily "Medyo mainit ang ulo ko noong lumalaki pa ako."
 
 # game/logic/events/lily.rpy:2609
 translate philippine Lily_CF_2_label_ec5484c2:
 
     # Lily "And when the aliens never came, I got mad."
-    Lily ""
+    Lily "At nang hindi dumating ang mga alien, nagalit ako."
 
 # game/logic/events/lily.rpy:2610
 translate philippine Lily_CF_2_label_32900290:
 
     # Lily "And I accidentally burned everything."
-    Lily ""
+    Lily "At hindi ko sinasadyang nasunog ang lahat."
 
 # game/logic/events/lily.rpy:2612
 translate philippine Lily_CF_2_label_cabbd13e:
 
     # ch_Name "Wow! What's that -- an uncontrollable burst of magic?"
-    ch_Name ""
+    ch_Name "Wow! Ano iyon -- isang hindi mapigilang pagsabog ng mahika?"
 
 # game/logic/events/lily.rpy:2613
 translate philippine Lily_CF_2_label_b081a05e:
 
     # ch_Name "Did you call up a fireball or something?"
-    ch_Name ""
+    ch_Name "Tumawag ka ba ng bolang apoy o ano?"
 
 # game/logic/events/lily.rpy:2614
 translate philippine Lily_CF_2_label_3ae9e23e:
 
     # Lily "Well..."
-    Lily ""
+    Lily "Umm..."
 
 # game/logic/events/lily.rpy:2616
 translate philippine Lily_CF_2_label_e0fa5f74:
 
     # Lily "I don't think a can of gasoline and a lighter could be considered a fireball."
-    Lily ""
+    Lily "Sa palagay ko hindi maituturing bolang apoy ang isang lata ng gasolina at panindi."
 
 # game/logic/events/lily.rpy:2617
 translate philippine Lily_CF_2_label_6eb75f02:
 
     # ch_Name "Huh... Are you a fan of arson? I never would have guessed that."
-    ch_Name ""
+    ch_Name "Huh ... Mahilig ka ba sa panununog? Hindi ko kailanman mahulaan iyon."
 
 # game/logic/events/lily.rpy:2618
 translate philippine Lily_CF_2_label_60bcb8e8:
 
     # Lily "I still have a lot of secrets from you."
-    Lily ""
+    Lily "Marami pa akong sekreto sa iyo."
 
 # game/logic/events/lily.rpy:2620
 translate philippine Lily_CF_2_label_1122dcc8:
 
     # Lily "But we'll leave them for another day."
-    Lily ""
+    Lily "Pero iiwan natin sa ibang araw."
 
 # game/logic/events/lily.rpy:2621
 translate philippine Lily_CF_2_label_219624ac:
 
     # Lily "I have to run to make sure I'm not late for my meeting."
-    Lily ""
+    Lily "Kailangan kong tumakbo para hindi ako mahuhuli sa aking pulong."
 
 # game/logic/events/lily.rpy:2622
 translate philippine Lily_CF_2_label_d4b11099:
 
     # Lily "See you later!"
-    Lily ""
+    Lily "Magkita tayo mamaya!"
 
 # game/logic/events/lily.rpy:2623
 translate philippine Lily_CF_2_label_15418d6e:
 
     # ch_Name "Bye."
-    ch_Name ""
+    ch_Name "Paalam."
 
 # game/logic/events/lily.rpy:2635
 translate philippine Lily_CF_3_label_956692aa:
 
     # ch_Name "Hey there, Lily!"
-    ch_Name ""
+    ch_Name "Hoy, Lily!"
 
 # game/logic/events/lily.rpy:2636
 translate philippine Lily_CF_3_label_a11ca724:
 
     # ch_Name "What are you doing? Still reading about space octopuses?"
-    ch_Name ""
+    ch_Name "Anong ginagawa mo? Nagbabasa pa rin ng tungkol sa mga pugita?"
 
 # game/logic/events/lily.rpy:2637
 translate philippine Lily_CF_3_label_90bf80d6:
 
     # Lily "Hi there! Yeah."
-    Lily ""
+    Lily "Kamusta! Oo."
 
 # game/logic/events/lily.rpy:2639
 translate philippine Lily_CF_3_label_498469f9:
 
     # ch_Name "And how are they doing?"
-    ch_Name ""
+    ch_Name "At kumusta naman ang libro?"
 
 # game/logic/events/lily.rpy:2640
 translate philippine Lily_CF_3_label_97b4dcc2:
 
     # Lily "The last of the human resistance is trying desperately to defeat them..."
-    Lily ""
+    Lily "Ang huling paglaban ng tao ay nagsisikap na talunin sila..."
 
 # game/logic/events/lily.rpy:2641
 translate philippine Lily_CF_3_label_634ca79d:
 
     # Lily "But they can't do it. The octopi can hold eight blasters each!"
-    Lily ""
+    Lily "Ngunit hindi nila ito magagawa. Ang bawat pugita ay makakahawak ng walong baril!"
 
 # game/logic/events/lily.rpy:2642
 translate philippine Lily_CF_3_label_c6130609:
 
     # ch_Name "{i}(Wow, she's a serious fan of that stuff. Who knew?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wow, seryosong mahilig siya sa mga bagay na iyon. Sino ang nakakaalam?){/i}"
 
 # game/logic/events/lily.rpy:2644
 translate philippine Lily_CF_3_label_9f685df3:
 
     # Lily "Anyway... I don't want to spoil it for you in case you decide to read it."
-    Lily ""
+    Lily "Ayokong sabihin sayo kung sakaling magdesisyon kang basahin ito."
 
 # game/logic/events/lily.rpy:2645
 translate philippine Lily_CF_3_label_2a9cdd25:
 
     # ch_Name "{i}(That's highly unlikely.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Malamang hindi iyon mangyayari.){/i}"
 
 # game/logic/events/lily.rpy:2646
 translate philippine Lily_CF_3_label_c56c66f8:
 
     # ch_Name "Okay. Thank you."
-    ch_Name ""
+    ch_Name "Sige, salamat."
 
 # game/logic/events/lily.rpy:2648
 translate philippine Lily_CF_3_label_005050c5:
 
     # Lily "By the way, I wanted to thank you."
-    Lily ""
+    Lily "Oo nga pala, gusto kong magpasalamat."
 
 # game/logic/events/lily.rpy:2649
 translate philippine Lily_CF_3_label_80c9c2bc:
 
     # ch_Name "For what?"
-    ch_Name ""
+    ch_Name "Para sa?"
 
 # game/logic/events/lily.rpy:2650
 translate philippine Lily_CF_3_label_9aacaf44:
 
     # Lily "I know how hard you work every week for Leonheart."
-    Lily ""
+    Lily "Alam ko kung gaano ka kahirap magtrabaho bawat linggo para sa Leonheart."
 
 # game/logic/events/lily.rpy:2651
 translate philippine Lily_CF_3_label_797cf3bc:
 
     # Lily "If it wasn't for you, I'd be sad on campus right now instead of sitting here."
-    Lily ""
+    Lily "Kung hindi dahil sayo, malungkot ako ngayon sa kampus imbes na dito ako uupo."
 
 # game/logic/events/lily.rpy:2652
 translate philippine Lily_CF_3_label_741224e9:
 
     # ch_Name "Come on, we all did a good job."
-    ch_Name ""
+    ch_Name "Sige na, tumutulong naman ang lahat."
 
 # game/logic/events/lily.rpy:2654
 translate philippine Lily_CF_3_label_74a7e6bb:
 
     # Lily "You're right. My mom will be proud when I tell her about my progress at home."
-    Lily ""
+    Lily "Tama ka. Magiging ipagmamalaki ng mama ko kapag sinabi ko sa kanya ang pag-unlad ko sa angkan."
 
 # game/logic/events/lily.rpy:2655
 translate philippine Lily_CF_3_label_3841f3fc:
 
     # ch_Name "Your mom loves Leonheart that much?"
-    ch_Name ""
+    ch_Name "Ganoon kamahal ng mama mo ang Leonheart?"
 
 # game/logic/events/lily.rpy:2656
 translate philippine Lily_CF_3_label_cf344e54:
 
     # Lily "Of course, she does. She was a great headmistress."
-    Lily ""
+    Lily "Siyempre. Siya ay naging mahusay na punong-guro."
 
 # game/logic/events/lily.rpy:2657
 translate philippine Lily_CF_3_label_5a4efd06:
 
     # Lily "In her years, Leonheart was considered by far the best."
-    Lily ""
+    Lily "Sa kanyang panahon, ang Leonheart ay itinuturing pinakamahusay."
 
 # game/logic/events/lily.rpy:2659
 translate philippine Lily_CF_3_label_3827c738:
 
     # Lily "She believes I can bring greatness back to the house."
-    Lily ""
+    Lily "Naniniwala siya na maibabalik ko ang kadakilaan sa angkan."
 
 # game/logic/events/lily.rpy:2660
 translate philippine Lily_CF_3_label_619942c6:
 
     # Lily "I can't let her down."
-    Lily ""
+    Lily "Hindi ko siya kayang biguin."
 
 # game/logic/events/lily.rpy:2661
 translate philippine Lily_CF_3_label_0332a015:
 
     # ch_Name "I didn't know it was so important to you."
-    ch_Name ""
+    ch_Name "Hindi ko alam na ganoon kahalaga ito sa iyo."
 
 # game/logic/events/lily.rpy:2662
 translate philippine Lily_CF_3_label_a4f6d09a:
 
     # Lily "I will prove to her that I am worthy to carry our family name."
-    Lily ""
+    Lily "Papatunayan ko sa kanya na karapat-dapat kong dalhin ang pangalan ng pamilya."
 
 # game/logic/events/lily.rpy:2664
 translate philippine Lily_CF_3_label_1465e53f:
@@ -8770,163 +8770,163 @@ translate philippine Lily_CF_3_label_1465e53f:
 translate philippine Lily_CF_3_label_e52e79e2:
 
     # ch_Name "I'm sure you'll do great."
-    ch_Name ""
+    ch_Name "Sigurado akong mahusay ka."
 
 # game/logic/events/lily.rpy:2666
 translate philippine Lily_CF_3_label_da31b59e:
 
     # ch_Name "Especially since we are all there for you."
-    ch_Name ""
+    ch_Name "Lalo na kasi nandito kaming lahat para sayo."
 
 # game/logic/events/lily.rpy:2667
 translate philippine Lily_CF_3_label_b2d1370c:
 
     # Lily "Thank you, [Name]..."
-    Lily ""
+    Lily "Salamat, [Name]..."
 
 # game/logic/events/lily.rpy:2669
 translate philippine Lily_CF_3_label_88882458:
 
     # Lily "That means a lot to me."
-    Lily ""
+    Lily "Malaking bagay talaga iyon sa akin."
 
 # game/logic/events/lily.rpy:2670
 translate philippine Lily_CF_3_label_199e2688:
 
     # Lily "I have a loving but very strict family."
-    Lily ""
+    Lily "Meron akong mapagmahal ngunit napakahigpit na pamilya."
 
 # game/logic/events/lily.rpy:2671
 translate philippine Lily_CF_3_label_70655abf:
 
     # Lily "And I've always felt the weakest..."
-    Lily ""
+    Lily "At palagi kong nararamdaman na ako ang pinakamahina..."
 
 # game/logic/events/lily.rpy:2673
 translate philippine Lily_CF_3_label_869b09a5:
 
     # ch_Name "Nonsense! You'll prove it to them."
-    ch_Name ""
+    ch_Name "Kalokohan! Patunayan mo sa kanila."
 
 # game/logic/events/lily.rpy:2674
 translate philippine Lily_CF_3_label_9f437c96:
 
     # ch_Name "We will prove it."
-    ch_Name ""
+    ch_Name "Papatunayan natin."
 
 # game/logic/events/lily.rpy:2676
 translate philippine Lily_CF_3_label_6b978ab2:
 
     # Lily "Excuse me, [Name]. But talking about Mom brings back memories..."
-    Lily ""
+    Lily "Pasensya, [Name]. Ang pag-uusap tungkol kay Nanay ay nagpapanumbalik ng mga alaala..."
 
 # game/logic/events/lily.rpy:2677
 translate philippine Lily_CF_3_label_3dd457bb:
 
     # Lily "I need to be alone to process them. So I'll take a walk."
-    Lily ""
+    Lily "Kailangan kong mag-isa para iproseso ang mga ito. Kaya mamasyal ako."
 
 # game/logic/events/lily.rpy:2678
 translate philippine Lily_CF_3_label_17d44a6a:
 
     # ch_Name "{i}(Oh... I guess I wasn't the only one who had a rough childhood.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Naku... hindi lang yata ako ang nagkaroon ng mahirap na pagkabata.){/i}"
 
 # game/logic/events/lily.rpy:2679
 translate philippine Lily_CF_3_label_42be1fa0:
 
     # ch_Name "I understand. I'll leave you alone with your thoughts."
-    ch_Name ""
+    ch_Name "Naiintindihan ko. Iiwan na lang kita sa mga iniisip mo."
 
 # game/logic/events/lily.rpy:2680
 translate philippine Lily_CF_3_label_adbe7997:
 
     # ch_Name "But if you change your mind, call me."
-    ch_Name ""
+    ch_Name "Pero kung magbago ang isip mo, tawagan mo ako."
 
 # game/logic/events/lily.rpy:2682
 translate philippine Lily_CF_3_label_20b95c2d:
 
     # Lily "I will. Thank you again. I'll see you later."
-    Lily ""
+    Lily "Sige. Salamat ulit. Kita na lang tayo mamaya."
 
 # game/logic/events/lily.rpy:2683
 translate philippine Lily_CF_3_label_7ae372d6:
 
     # ch_Name "You're welcome, beautiful."
-    ch_Name ""
+    ch_Name "Walang anuman, maganda."
 
 # game/logic/events/lily.rpy:2684
 translate philippine Lily_CF_3_label_c74e54eb:
 
     # ch_Name "Bye-bye."
-    ch_Name ""
+    ch_Name "Paalam."
 
 # game/logic/events/lily.rpy:2696
 translate philippine Lily_CF_4_label_baddf3fe:
 
     # ch_Name "{i}(It's nice to see that Lily has developed a whole weekend tradition.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nakakatuwang makita na si Lily ay nakabuo ng buong tradisyon sa katapusan ng linggo.){/i}"
 
 # game/logic/events/lily.rpy:2697
 translate philippine Lily_CF_4_label_1e1ab887:
 
     # ch_Name "{i}(Coffee, book, sunshine. Romance.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kape, libro, sikat ng araw. Romansa.){/i}"
 
 # game/logic/events/lily.rpy:2698
 translate philippine Lily_CF_4_label_3f7e62e2:
 
     # ch_Name "{i}(All that's missing is a gallant cavalier. Apparently, I got that role.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ang kulang na lang ay magiting na kabalyero. Tila, nakuha ko ang tungkuling iyon.){/i}"
 
 # game/logic/events/lily.rpy:2700
 translate philippine Lily_CF_4_label_164e1af1:
 
     # ch_Name "Hey there, Lily."
-    ch_Name ""
+    ch_Name "Kamusta, Lily."
 
 # game/logic/events/lily.rpy:2701
 translate philippine Lily_CF_4_label_76bc3988:
 
     # Lily "I was just thinking about you, [Name]."
-    Lily ""
+    Lily "Iniisip kita, [Name]."
 
 # game/logic/events/lily.rpy:2702
 translate philippine Lily_CF_4_label_537d4cb4:
 
     # Lily "There's a character in the book that looks just like you."
-    Lily ""
+    Lily "May isang tauhan sa libro na kamukha mo."
 
 # game/logic/events/lily.rpy:2703
 translate philippine Lily_CF_4_label_e12d3cc2:
 
     # ch_Name "There is? What's he like?"
-    ch_Name ""
+    ch_Name "Meron? Anong itsura niya?"
 
 # game/logic/events/lily.rpy:2705
 translate philippine Lily_CF_4_label_3f64e746:
 
     # Lily "Funny, good-looking, smart..."
-    Lily ""
+    Lily "Nakakatawa, maganda, matalino..."
 
 # game/logic/events/lily.rpy:2706
 translate philippine Lily_CF_4_label_af093da8:
 
     # ch_Name "Keep talking, I like him!"
-    ch_Name ""
+    ch_Name "Sige pa, gusto ko siya!"
 
 # game/logic/events/lily.rpy:2707
 translate philippine Lily_CF_4_label_fff6797f:
 
     # Lily "At least he was, until the octopuses started torturing him..."
-    Lily ""
+    Lily "... siya, hanggang sa pinahirapan siya ng mga pugita..."
 
 # game/logic/events/lily.rpy:2708
 translate philippine Lily_CF_4_label_26b7188d:
 
     # Lily "Now he's lost his mind and looks pretty pathetic."
-    Lily ""
+    Lily "Ngayon nawala ang kanyang isip at medyo kaawa-awa siya ngayon."
 
 # game/logic/events/lily.rpy:2710
 translate philippine Lily_CF_4_label_cc3b5d61:
@@ -8938,37 +8938,37 @@ translate philippine Lily_CF_4_label_cc3b5d61:
 translate philippine Lily_CF_4_label_30f1521b:
 
     # ch_Name "Now I wish you'd stopped at the smart stuff."
-    ch_Name ""
+    ch_Name "Sana tumigil ka sa matalinong bagay."
 
 # game/logic/events/lily.rpy:2712
 translate philippine Lily_CF_4_label_8659a0b8:
 
     # ch_Name "How's your coffee?"
-    ch_Name ""
+    ch_Name "Kamusta ang kape mo?"
 
 # game/logic/events/lily.rpy:2714
 translate philippine Lily_CF_4_label_b6df3192:
 
     # Lily "It's delicious! Ahchi is a goddamn genius!"
-    Lily ""
+    Lily "Masarap! Napakagaling ni Ahchi!"
 
 # game/logic/events/lily.rpy:2715
 translate philippine Lily_CF_4_label_16b3bdfe:
 
     # ch_Name "I know, right!"
-    ch_Name ""
+    ch_Name "Alam ko!"
 
 # game/logic/events/lily.rpy:2716
 translate philippine Lily_CF_4_label_cf8c68bf:
 
     # Lily "Do you want to try it?"
-    Lily ""
+    Lily "Gusto mo bang subukan?"
 
 # game/logic/events/lily.rpy:2717
 translate philippine Lily_CF_4_label_df7ba24a:
 
     # ch_Name "Hmm... If you don't mind."
-    ch_Name ""
+    ch_Name "Hmm... Kung hindi ka tututol."
 
 # game/logic/events/lily.rpy:2719
 translate philippine Lily_CF_4_label_8982e1c4:
@@ -8980,103 +8980,103 @@ translate philippine Lily_CF_4_label_8982e1c4:
 translate philippine Lily_CF_4_label_67246376:
 
     # ch_Name "{i}(Really good coffee.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Talagang masarap ang kape.){/i}"
 
 # game/logic/events/lily.rpy:2721
 translate philippine Lily_CF_4_label_2c68b44f:
 
     # ch_Name "{i}(Especially when combined with the taste of her lips on the cup.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Lalo na kapag pinagsama ang lasa ng kanyang mga labi sa tasa.){/i}"
 
 # game/logic/events/lily.rpy:2723
 translate philippine Lily_CF_4_label_cbdc08f0:
 
     # Lily "What do you think?"
-    Lily ""
+    Lily "Ano sa tingin mo?"
 
 # game/logic/events/lily.rpy:2724
 translate philippine Lily_CF_4_label_db3c0ed4:
 
     # ch_Name "You're right. It's really good."
-    ch_Name ""
+    ch_Name "Tama ka. Ang sarap talaga."
 
 # game/logic/events/lily.rpy:2726
 translate philippine Lily_CF_4_label_67e8cc37:
 
     # ch_Name "Makes me want to order something for myself too."
-    ch_Name ""
+    ch_Name "Nakakagusto din akong bumili ng para sa sarili ko."
 
 # game/logic/events/lily.rpy:2727
 translate philippine Lily_CF_4_label_9bd02a94:
 
     # ch_Name "Yeah, it's definitely worth it."
-    ch_Name ""
+    ch_Name "Oo, talagang sulit ito."
 
 # game/logic/events/lily.rpy:2728
 translate philippine Lily_CF_4_label_c7ddf178:
 
     # ch_Name "I'll be right back."
-    ch_Name ""
+    ch_Name "Babalik ako."
 
 # game/logic/events/lily.rpy:2730
 translate philippine Lily_CF_4_label_4ac7322d:
 
     # Lily "Actually, I don't think you'll see me when you get back."
-    Lily ""
+    Lily "Siguro hindi mo ako makikita sa pagbalik mo."
 
 # game/logic/events/lily.rpy:2731
 translate philippine Lily_CF_4_label_7616a14a:
 
     # Lily "I signed up for a tour of Dale's cave complexes."
-    Lily ""
+    Lily "Sumali ako sa paglilibot sa mga complex ng kuweba ni Dale."
 
 # game/logic/events/lily.rpy:2732
 translate philippine Lily_CF_4_label_a0cb0567:
 
     # Lily "And I have to leave pretty soon."
-    Lily ""
+    Lily "At kailangan kong umalis kaagad."
 
 # game/logic/events/lily.rpy:2733
 translate philippine Lily_CF_4_label_1f6bc804:
 
     # ch_Name "Oh, that's too bad. Well, have a great tour."
-    ch_Name ""
+    ch_Name "Naku, sayang naman. Sana magkaroon ka ng mahusay na paglalakbay.."
 
 # game/logic/events/lily.rpy:2735
 translate philippine Lily_CF_4_label_9c7d0aa9:
 
     # Lily "And you have a good coffee and a good day!"
-    Lily ""
+    Lily "At magkaroon ka ng masarap na kape at magandang araw!"
 
 # game/logic/events/lily.rpy:2736
 translate philippine Lily_CF_4_label_7928958b:
 
     # Lily "See you later, [Name]."
-    Lily ""
+    Lily "Magkita tayo mamaya, [Name]."
 
 # game/logic/events/lily.rpy:2737
 translate philippine Lily_CF_4_label_c74e54eb:
 
     # ch_Name "Bye-bye."
-    ch_Name ""
+    ch_Name "Paalam."
 
 # game/logic/events/lily.rpy:2749
 translate philippine Lily_CF_5_label_9d82e058:
 
     # ch_Name "{i}(I confess, I'm already starting to wonder if I should read this book.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aminin ko, nagsisimula na akong mag-isip kung dapat kong basahin ang aklat na ito.){/i}"
 
 # game/logic/events/lily.rpy:2750
 translate philippine Lily_CF_5_label_9f276a00:
 
     # ch_Name "{i}(Lily's reading it too enthusiastically.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Masyadong masigasig na binabasa ito ni Lily.){/i}"
 
 # game/logic/events/lily.rpy:2751
 translate philippine Lily_CF_5_label_da44388c:
 
     # ch_Name "{i}(It's a shame to tear it away. But what can you do?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nakakahiya na tanggalin ito. Pero ano ang magagawa mo?){/i}"
 
 # game/logic/events/lily.rpy:2753
 translate philippine Lily_CF_5_label_8d2f74a5:
@@ -9088,211 +9088,211 @@ translate philippine Lily_CF_5_label_8d2f74a5:
 translate philippine Lily_CF_5_label_4ad0e8cf:
 
     # ch_Name "So, what did you think of the cave tour? Should I go?"
-    ch_Name ""
+    ch_Name "So, ano ang naisip mo sa paglakbay? Sasama ba ako?"
 
 # game/logic/events/lily.rpy:2756
 translate philippine Lily_CF_5_label_1c75b386:
 
     # Lily "Uh... Don't remind me."
-    Lily ""
+    Lily "Uh... 'Wag mo nang ipaalala sa akin."
 
 # game/logic/events/lily.rpy:2757
 translate philippine Lily_CF_5_label_c93abf8f:
 
     # Lily "It's so cold. And dark."
-    Lily ""
+    Lily "Sobrang lamig. At madilim."
 
 # game/logic/events/lily.rpy:2758
 translate philippine Lily_CF_5_label_c5ccd7f7:
 
     # Lily "And it smells... I wouldn't say deadly, but weird."
-    Lily ""
+    Lily "At ang amoy... Hindi ko sasabihing nakamamatay, ngunit kakaiba."
 
 # game/logic/events/lily.rpy:2759
 translate philippine Lily_CF_5_label_e6a8b45c:
 
     # ch_Name "I'm sorry, I didn't know..."
-    ch_Name ""
+    ch_Name "Pasensya, hindi ko alam..."
 
 # game/logic/events/lily.rpy:2761
 translate philippine Lily_CF_5_label_0923fde5:
 
     # ch_Name "How did you even manage to sign up there?"
-    ch_Name ""
+    ch_Name "Paano mo nagawang sumama doon?"
 
 # game/logic/events/lily.rpy:2762
 translate philippine Lily_CF_5_label_5cdd99d2:
 
     # Lily "You're gonna laugh!"
-    Lily ""
+    Lily "Matatawa ka!"
 
 # game/logic/events/lily.rpy:2763
 translate philippine Lily_CF_5_label_04d7d242:
 
     # Lily "Naomi recommended it to me."
-    Lily ""
+    Lily "Nirekomenda ako ni Naomi."
 
 # game/logic/events/lily.rpy:2764
 translate philippine Lily_CF_5_label_afadba63:
 
     # ch_Name "Naomi? I never thought she liked field trips."
-    ch_Name ""
+    ch_Name "Si Naomi? Hindi ko akalain na mahilig pala siya sa paglalakbay."
 
 # game/logic/events/lily.rpy:2766
 translate philippine Lily_CF_5_label_a4ad35c3:
 
     # Lily "She doesn't. It was a prank!"
-    Lily ""
+    Lily "Hindi. Biro iyon!"
 
 # game/logic/events/lily.rpy:2767
 translate philippine Lily_CF_5_label_cb943f8c:
 
     # Lily "And I fell for it like an idiot."
-    Lily ""
+    Lily "At naniwala ako na parang tanga."
 
 # game/logic/events/lily.rpy:2768
 translate philippine Lily_CF_5_label_e611721d:
 
     # ch_Name "{i}(Oh, Naomi, you heartless bitch.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Naku Naomi, walang puso ka.){/i}"
 
 # game/logic/events/lily.rpy:2769
 translate philippine Lily_CF_5_label_dd0c60c0:
 
     # ch_Name "Don't say that! You're just kind and trusting."
-    ch_Name ""
+    ch_Name "Wag mong sabihin yan! Mabait ka lang at nagtitiwala."
 
 # game/logic/events/lily.rpy:2770
 translate philippine Lily_CF_5_label_a88f5984:
 
     # ch_Name "And Naomi... Adderin, what can you take from them?"
-    ch_Name ""
+    ch_Name "At Naomi... Adderin, ano ang makukuha mo sa kanila?"
 
 # game/logic/events/lily.rpy:2772
 translate philippine Lily_CF_5_label_759c77de:
 
     # Lily "Yeah. You're right, of course..."
-    Lily ""
+    Lily "Oo. Tama ka, siyempre..."
 
 # game/logic/events/lily.rpy:2773
 translate philippine Lily_CF_5_label_6e840498:
 
     # Lily "But it's still a shame I didn't think to look for a catch in what she said."
-    Lily ""
+    Lily "Pero sayang hindi ko naisip na humanap ng problema sa sinabi niya."
 
 # game/logic/events/lily.rpy:2774
 translate philippine Lily_CF_5_label_82ff9b40:
 
     # Lily "It's alright, I got her back."
-    Lily ""
+    Lily "Ayos lang, nakabawi ako."
 
 # game/logic/events/lily.rpy:2775
 translate philippine Lily_CF_5_label_64954435:
 
     # ch_Name "How's that?"
-    ch_Name ""
+    ch_Name "Paano?"
 
 # game/logic/events/lily.rpy:2777
 translate philippine Lily_CF_5_label_e9323183:
 
     # Lily "Well... She's been in Cordale all weekend."
-    Lily ""
+    Lily "Nasa Cordale siya ngayon."
 
 # game/logic/events/lily.rpy:2778
 translate philippine Lily_CF_5_label_a10004a1:
 
     # Lily "I'm enjoying a nice day here."
-    Lily ""
+    Lily "Tinatangkilik ko ang magandang araw dito."
 
 # game/logic/events/lily.rpy:2779
 translate philippine Lily_CF_5_label_a63c15cb:
 
     # Lily "Who has the last laugh?"
-    Lily ""
+    Lily "Sino ang nanalo?"
 
 # game/logic/events/lily.rpy:2781
 translate philippine Lily_CF_5_label_8f767b28:
 
     # ch_Name "Heh, it's true, isn't it?"
-    ch_Name ""
+    ch_Name "Heh, totoo naman diba?"
 
 # game/logic/events/lily.rpy:2782
 translate philippine Lily_CF_5_label_0efdb06f:
 
     # ch_Name "Tricks and tricks haven't helped her beat our house."
-    ch_Name ""
+    ch_Name "Hindi nakatulong ang mga pagdaraya sa kanya sa pagtalo ng angkan natin."
 
 # game/logic/events/lily.rpy:2783
 translate philippine Lily_CF_5_label_da4731f9:
 
     # ch_Name "All thanks to your hard work."
-    ch_Name ""
+    ch_Name "Salamat sa iyong pagsusumikap."
 
 # game/logic/events/lily.rpy:2784
 translate philippine Lily_CF_5_label_664ec574:
 
     # Lily "All right, all right. You embarrassed me."
-    Lily ""
+    Lily "Sige, sige. Pinahiya mo ako."
 
 # game/logic/events/lily.rpy:2786
 translate philippine Lily_CF_5_label_a4a352bb:
 
     # Lily "By the way, have you been to a spa place yet?"
-    Lily ""
+    Lily "By the way, nakapunta ka na ba sa spa?"
 
 # game/logic/events/lily.rpy:2790
 translate philippine Lily_CF_5_label_98b3e155:
 
     # ch_Name "I've been once or twice."
-    ch_Name ""
+    ch_Name "Isa o dalawang beses na."
 
 # game/logic/events/lily.rpy:2791
 translate philippine Lily_CF_5_label_725b14a9:
 
     # Lily "Then you know how great their massages are."
-    Lily ""
+    Lily "Kaya alam mo kung gaano kasarap ang mga masahe nila."
 
 # game/logic/events/lily.rpy:2792
 translate philippine Lily_CF_5_label_ec89d741:
 
     # ch_Name "{i}(You have no idea...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wala kang ideya...){/i}"
 
 # game/logic/events/lily.rpy:2793
 translate philippine Lily_CF_5_label_d44c93aa:
 
     # ch_Name "Yeah, I remember something like that."
-    ch_Name ""
+    ch_Name "Oo, may naalala akong ganyan."
 
 # game/logic/events/lily.rpy:2796
 translate philippine Lily_CF_5_label_3f384b86:
 
     # ch_Name "I haven't had a chance yet."
-    ch_Name ""
+    ch_Name "Wala pa akong pagkakataon."
 
 # game/logic/events/lily.rpy:2797
 translate philippine Lily_CF_5_label_52d8ab30:
 
     # Lily "You shouldn't have! Trust me, it's worth the money."
-    Lily ""
+    Lily "Hindi dapat! Maniwala ka sa akin, sulit ang pera."
 
 # game/logic/events/lily.rpy:2800
 translate philippine Lily_CF_5_label_536d0b14:
 
     # Lily "I'm going there right now."
-    Lily ""
+    Lily "Pupunta ako diyan ngayon."
 
 # game/logic/events/lily.rpy:2801
 translate philippine Lily_CF_5_label_7795d87f:
 
     # Lily "There's nothing like a massage after a hard week of school."
-    Lily ""
+    Lily "Walang katulad ng masahe pagkatapos ng mahirap na linggo sa paaralan."
 
 # game/logic/events/lily.rpy:2802
 translate philippine Lily_CF_5_label_80ef2fbf:
 
     # ch_Name "Hmm... You're probably right. Maybe I will."
-    ch_Name ""
+    ch_Name "Hmm... Malamang tama ka. Siguro gagawin ko."
 
 # game/logic/events/lily.rpy:2803
 translate philippine Lily_CF_5_label_69ecc344:
