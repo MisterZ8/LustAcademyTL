@@ -9486,3 +9486,1529 @@ translate russian Lily_8_label_L_122_c205f5f1:
     # ch_Name "Yes..."
     ch_Name ""
 
+# TODO: Translation updated at 2022-03-25 06:29
+
+# game/logic/events/lily.rpy:272
+translate russian Lily_1_label_caa12d0e:
+
+    # Lily "It couldn't have gone any other way. Just impossible!"
+    Lily ""
+
+# game/logic/events/lily.rpy:273
+translate russian Lily_1_label_e3b7a84c:
+
+    # Lily "But I was so happy at that moment! It was such a relief."
+    Lily ""
+
+# game/logic/events/lily.rpy:275
+translate russian Lily_1_label_ac05a8f6:
+
+    # Lily "Whoa, you got in too, right?"
+    Lily ""
+
+# game/logic/events/lily.rpy:278
+translate russian Lily_1_label_b6937064:
+
+    # Lily "That's great! I'm so glad for you!"
+    Lily ""
+
+# game/logic/events/lily.rpy:279
+translate russian Lily_1_label_9bf145d6:
+
+    # ch_Name "Oh, really? You are?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:281
+translate russian Lily_1_label_64c8e7a3:
+
+    # Lily "Um... I'm just a very empathetic person."
+    Lily ""
+
+# game/logic/events/lily.rpy:283
+translate russian Lily_1_label_b4a31116:
+
+    # Lily "And you seem really nice at first glance."
+    Lily ""
+
+# game/logic/events/lily.rpy:284
+translate russian Lily_1_label_d9f1d444:
+
+    # Lily "Plus we are both from Leonheart. We have to stick together!"
+    Lily ""
+
+# game/logic/events/lily.rpy:285
+translate russian Lily_1_label_a79f83ba:
+
+    # Lily "The house needs mages like us, like you and me!"
+    Lily ""
+
+# game/logic/events/lily.rpy:287
+translate russian Lily_1_label_2aec3c5d:
+
+    # ch_Name "{i}(Elijah should be worried about his position, that's for sure.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:292
+translate russian Lily_1_label_6d01b6e9:
+
+    # ch_Name "Maybe we can ask Elijah about that?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:296
+translate russian Lily_1_label_599e7dc6:
+
+    # ch_Name "You're so enthusiastic! I love it."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:297
+translate russian Lily_1_label_851f863d:
+
+    # Lily "He-he, thanks!"
+    Lily ""
+
+# game/logic/events/lily.rpy:298
+translate russian Lily_1_label_116a12da:
+
+    # Lily "Listen, every point counts."
+    Lily ""
+
+# game/logic/events/lily.rpy:303
+translate russian Lily_1_label_2e11a2c0:
+
+    # ch_Name "I just don't get it, Lily. If the house wins the competition, so what?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:305
+translate russian Lily_1_label_18f83242:
+
+    # Lily "So what? So what?!"
+    Lily ""
+
+# game/logic/events/lily.rpy:309
+translate russian Lily_1_label_84819822:
+
+    # Lily "It's a great line on a resume."
+    Lily ""
+
+# game/logic/events/lily.rpy:311
+translate russian Lily_1_label_0a07188d:
+
+    # ch_Name "Whoa, okay. If you say so."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:313
+translate russian Lily_1_label_77c98a97:
+
+    # ch_Name "I should admit that it sounds really useful."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:314
+translate russian Lily_1_label_0874f143:
+
+    # ch_Name "I'm in!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:316
+translate russian Lily_1_label_f3af79d6:
+
+    # Lily "Really?! Yay!"
+    Lily ""
+
+# game/logic/events/lily.rpy:317
+translate russian Lily_1_label_cded2793:
+
+    # ch_Name "{i}(She so surprised!){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:319
+translate russian Lily_1_label_8de9bdb2:
+
+    # ch_Name "Yeah, I'm going to try at least."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:335
+translate russian Lily_1_label_00ca6d4d:
+
+    # ch_Name "You're so cute when you're motivated. It's adorable!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:338
+translate russian Lily_1_label_5229cb18:
+
+    # Lily "He-he-he."
+    Lily ""
+
+# game/logic/events/lily.rpy:339
+translate russian Lily_1_label_1ecdfa8e:
+
+    # ch_Name "And that just makes you prettier! "
+    ch_Name ""
+
+# game/logic/events/lily.rpy:375
+translate russian Lily_2_label_29c7949f:
+
+    # ch_Name "Hi! I'm sorry, have we met?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:376
+translate russian Lily_2_label_6b6823a9:
+
+    # Lily "He-he-he, [Name]! Of course we've met before."
+    Lily ""
+
+# game/logic/events/lily.rpy:378
+translate russian Lily_2_label_70099426:
+
+    # ch_Name "I've just seen you here, and I'm... speechless."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:379
+translate russian Lily_2_label_fbf824b6:
+
+    # ch_Name "You look gorgeous!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:380
+translate russian Lily_2_label_4e08ca0d:
+
+    # ch_Name "Who are you, beautiful lady?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:381
+translate russian Lily_2_label_f8c1e243:
+
+    # Lily "Pheeew! [Name], don't make me blush!"
+    Lily ""
+
+# game/logic/events/lily.rpy:382
+translate russian Lily_2_label_4cbab251:
+
+    # ch_Name "What are you doing, sweetie?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:383
+translate russian Lily_2_label_47de7947:
+
+    # Lily "Nothing too exciting."
+    Lily ""
+
+# game/logic/events/lily.rpy:389
+translate russian Lily_2_label_b5ea94ca:
+
+    # Lily "But knowledge never hurts. And that's all so interesting!"
+    Lily ""
+
+# game/logic/events/lily.rpy:390
+translate russian Lily_2_label_612bcd84:
+
+    # ch_Name "Very well said."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:406
+translate russian Lily_2_label_2abaf26c:
+
+    # Lily "Did you know that the local magical creatures steal textbooks?"
+    Lily ""
+
+# game/logic/events/lily.rpy:407
+translate russian Lily_2_label_7c9f8890:
+
+    # ch_Name "Yeah, sure."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:408
+translate russian Lily_2_label_02eb711e:
+
+    # Lily "And that they leave them all over the academy? I was shocked!"
+    Lily ""
+
+# game/logic/events/lily.rpy:409
+translate russian Lily_2_label_a1eaa9ee:
+
+    # Lily "I mean, everybody's talking about it."
+    Lily ""
+
+# game/logic/events/lily.rpy:410
+translate russian Lily_2_label_77c9b0c1:
+
+    # ch_Name "Yep, she told me."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:417
+translate russian Lily_2_label_85602767:
+
+    # Lily "And it's something to do in our spare time! Isn't it awesome?"
+    Lily ""
+
+# game/logic/events/lily.rpy:473
+translate russian Lily_3_label_8_3f8f5693:
+
+    # ch_Name "Hey, baby!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:474
+translate russian Lily_3_label_8_bd21c0b8:
+
+    # Lily "Baby? He-he, what kind of nonsense is that?"
+    Lily ""
+
+# game/logic/events/lily.rpy:475
+translate russian Lily_3_label_8_c5ab913e:
+
+    # ch_Name "I just like the way it sounds. And you actually look like a baby girl!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:478
+translate russian Lily_3_label_8_1e35dfc0:
+
+    # Lily "I was just thinking about you..."
+    Lily ""
+
+# game/logic/events/lily.rpy:479
+translate russian Lily_3_label_8_6d99547d:
+
+    # ch_Name "Thinking about me?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:480
+translate russian Lily_3_label_8_75398644:
+
+    # ch_Name "{i}(What?){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:481
+translate russian Lily_3_label_8_2fdba5f1:
+
+    # ch_Name "I'm flattered, but..."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:482
+translate russian Lily_3_label_8_7f9cff70:
+
+    # Lily "No-no, I mean... "
+    Lily ""
+
+# game/logic/events/lily.rpy:483
+translate russian Lily_3_label_8_c8971a1f:
+
+    # Lily "I was thinking about the ways to get some additional points... For you and me..."
+    Lily ""
+
+# game/logic/events/lily.rpy:484
+translate russian Lily_3_label_8_42c2c814:
+
+    # ch_Name "{i}(She's so embarrassed!){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:485
+translate russian Lily_3_label_8_403d47e4:
+
+    # Lily "Um... It's time to get ready for the class now."
+    Lily ""
+
+# game/logic/events/lily.rpy:501
+translate russian Lily_3_label_8_db337521:
+
+    # ch_Name "What? Why?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:505
+translate russian Lily_3_label_8_333be9f6:
+
+    # ch_Name "Well, what do you suggest?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:512
+translate russian Lily_3_label_8_346a3344:
+
+    # Lily "We have to win at the Dueling club!"
+    Lily ""
+
+# game/logic/events/lily.rpy:517
+translate russian Lily_3_label_8_17dc3853:
+
+    # ch_Name "And how do we do that in the Dueling club?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:553
+translate russian Lily_3_label_8_960e2c45:
+
+    # Lily "We'll see!"
+    Lily ""
+
+# game/logic/events/lily.rpy:583
+translate russian Lily_4_label_7d99ee58:
+
+    # Lily "Hi, [Name]!"
+    Lily ""
+
+# game/logic/events/lily.rpy:591
+translate russian Lily_4_label_bab31562:
+
+    # ch_Name "I think you'll be happy to know that our house won the duel! "
+    ch_Name ""
+
+# game/logic/events/lily.rpy:595
+translate russian Lily_4_label_7b125556:
+
+    # ch_Name "We had a bet, honey..."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:598
+translate russian Lily_4_label_77d3f8b6:
+
+    # ch_Name "Oh, yes, exactly!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:609
+translate russian Lily_4_label_0396bd3e:
+
+    # Lily "Um... Private? With you?"
+    Lily ""
+
+# game/logic/events/lily.rpy:610
+translate russian Lily_4_label_c3ed65c2:
+
+    # ch_Name "Is something wrong?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:611
+translate russian Lily_4_label_518b4315:
+
+    # ch_Name "Remember that bet we made? It's kind of hard to forget."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:623
+translate russian Lily_4_label_70ef5326:
+
+    # Lily "Listen, I have an idea!"
+    Lily ""
+
+# game/logic/events/lily.rpy:625
+translate russian Lily_4_label_25e668fe:
+
+    # Lily "Why don't we meet in your room when it gets dark?"
+    Lily ""
+
+# game/logic/events/lily.rpy:628
+translate russian Lily_4_label_5935a52d:
+
+    # Lily "It's only... Haley and I share a room."
+    Lily ""
+
+# game/logic/events/lily.rpy:632
+translate russian Lily_4_label_8e659807:
+
+    # Lily "To talk, and discuss our next move, of course."
+    Lily ""
+
+# game/logic/events/lily.rpy:633
+translate russian Lily_4_label_b30955ec:
+
+    # ch_Name "What? I thought you meant our bet..."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:642
+translate russian Lily_4_label_162ee212:
+
+    # Lily "I can't stand you sometimes, [Name]!"
+    Lily ""
+
+# game/logic/events/lily.rpy:643
+translate russian Lily_4_label_79034826:
+
+    # ch_Name "You'll get over it, that's for sure."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:644
+translate russian Lily_4_label_b646a502:
+
+    # ch_Name "See you later, baby."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:684
+translate russian Lily_5_label_6b4f6cda:
+
+    # ch_Name "That's so cool! I'd go with you if it wasn't for my leg injury..."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:685
+translate russian Lily_5_label_a8c74a19:
+
+    # Lily "Whoa, then let's go running together!"
+    Lily ""
+
+# game/logic/events/lily.rpy:686
+translate russian Lily_5_label_6963aab5:
+
+    # Lily "When you heal your leg, of course."
+    Lily ""
+
+# game/logic/events/lily.rpy:688
+translate russian Lily_5_label_2d1d489d:
+
+    # ch_Name "Great idea, Lily!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:689
+translate russian Lily_5_label_1fa5403c:
+
+    # Lily "Wow, you got a cool room. "
+    Lily ""
+
+# game/logic/events/lily.rpy:691
+translate russian Lily_5_label_959da5d4:
+
+    # Lily "This room is even cooler than ours. That's for sure!"
+    Lily ""
+
+# game/logic/events/lily.rpy:692
+translate russian Lily_5_label_ffd0b82a:
+
+    # ch_Name "Really? You think so?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:708
+translate russian Lily_5_label_1ebb188d:
+
+    # ch_Name "Somehow I don't doubt it, miss."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2395
+translate russian Lily_8_label_L_122_707bb2fb:
+
+    # ch_Name "Lily, I want you even more than before..."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2858
+translate russian Lily_9_label_1e20eaa3:
+
+    # ch_Name "Good afternoon, Lily."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2859
+translate russian Lily_9_label_9e77aa74:
+
+    # Lily "Hello, [Name]!"
+    Lily ""
+
+# game/logic/events/lily.rpy:2860
+translate russian Lily_9_label_7fb9f15c:
+
+    # ch_Name "You're looking especially lovely today!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2861
+translate russian Lily_9_label_6d7b26fc:
+
+    # ch_Name "Your eyes are lighting up."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2862
+translate russian Lily_9_label_5cf9f336:
+
+    # ch_Name "{i}(I'm wondering what made them shine like that.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2864
+translate russian Lily_9_label_da94683c:
+
+    # Lily "Aww, thank you! I am in such a great mood!"
+    Lily ""
+
+# game/logic/events/lily.rpy:2865
+translate russian Lily_9_label_28f3019e:
+
+    # ch_Name "That's great! I like seeing you happy."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2866
+translate russian Lily_9_label_0d919067:
+
+    # ch_Name "{i}(Well, this feels like a good time to talk to her.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2867
+translate russian Lily_9_label_d99ea214:
+
+    # ch_Name "Lily, listen. "
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2868
+translate russian Lily_9_label_92a31528:
+
+    # ch_Name "I really want to talk with you about us."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2871
+translate russian Lily_9_label_e1e42638:
+
+    # ch_Name "And about our last... time."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2872
+translate russian Lily_9_label_9536cce3:
+
+    # ch_Name "I can't stop thinking about it, Lily."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2873
+translate russian Lily_9_label_5eb8c677:
+
+    # ch_Name "The way I felt, it was... indescribable!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2874
+translate russian Lily_9_label_68a58ac6:
+
+    # ch_Name "Something more than just physical closeness. "
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2875
+translate russian Lily_9_label_c276edf3:
+
+    # ch_Name "You know how I feel, right?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2877
+translate russian Lily_9_label_31b95653:
+
+    # Lily "Shhh! Are you crazy?!"
+    Lily ""
+
+# game/logic/events/lily.rpy:2878
+translate russian Lily_9_label_6696b535:
+
+    # Lily "Not so loud, someone will hear us!"
+    Lily ""
+
+# game/logic/events/lily.rpy:2879
+translate russian Lily_9_label_c0438dd2:
+
+    # Lily "It's very sweet of you, but... This isn't the right place to talk about it..."
+    Lily ""
+
+# game/logic/events/lily.rpy:2880
+translate russian Lily_9_label_562619ab:
+
+    # Lily "Let's get to that later, okay?"
+    Lily ""
+
+# game/logic/events/lily.rpy:2881
+translate russian Lily_9_label_4dc6f830:
+
+    # ch_Name "Sure. Sorry for being too emotional."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2884
+translate russian Lily_9_label_ccad29ab:
+
+    # ch_Name "Are you mad at me?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2885
+translate russian Lily_9_label_837c45ce:
+
+    # Lily "Mad at you? Why'd I mad at you?"
+    Lily ""
+
+# game/logic/events/lily.rpy:2886
+translate russian Lily_9_label_a3038b04:
+
+    # Lily "Stop talking in riddles, he-he."
+    Lily ""
+
+# game/logic/events/lily.rpy:2887
+translate russian Lily_9_label_15c587bc:
+
+    # ch_Name "You rushed off so quickly after we talked."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2888
+translate russian Lily_9_label_42a657d7:
+
+    # ch_Name "I don't know why, but I feel terrible about it."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2890
+translate russian Lily_9_label_134b4624:
+
+    # ch_Name "I really want to be closer to you, Lily, but..."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2891
+translate russian Lily_9_label_19606fa4:
+
+    # ch_Name "At the same time, I treasure our friendship so much."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2892
+translate russian Lily_9_label_37d3a39b:
+
+    # ch_Name "I don't want to ruin everything."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2893
+translate russian Lily_9_label_883612d8:
+
+    # ch_Name "And I don't want to hurt you, Lily. You're very precious to me."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2895
+translate russian Lily_9_label_c154dc54:
+
+    # Lily "What are you talking about? Everything is alright!"
+    Lily ""
+
+# game/logic/events/lily.rpy:2896
+translate russian Lily_9_label_db440b6d:
+
+    # Lily "I appreciate that you care about me so much, but you really need to chill out."
+    Lily ""
+
+# game/logic/events/lily.rpy:2897
+translate russian Lily_9_label_f6915470:
+
+    # Lily "Things happen, but you're still my friend, I'd even call you a close one."
+    Lily ""
+
+# game/logic/events/lily.rpy:2898
+translate russian Lily_9_label_e9bcf2a5:
+
+    # ch_Name "You're so right!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2900
+translate russian Lily_9_label_55908cae:
+
+    # ch_Name "What are you doing? Getting ready for the class?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2901
+translate russian Lily_9_label_681ba1b4:
+
+    # Lily "As always. "
+    Lily ""
+
+# game/logic/events/lily.rpy:2902
+translate russian Lily_9_label_738f8cd8:
+
+    # Lily "Today's topic is so interesting! I can hardly wait for the lesson."
+    Lily ""
+
+# game/logic/events/lily.rpy:2903
+translate russian Lily_9_label_494027a8:
+
+    # ch_Name "I love your enthusiasm!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2905
+translate russian Lily_9_label_bed828f8:
+
+    # ch_Name "And do you have any plans for tonight?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2906
+translate russian Lily_9_label_3f4ec8f5:
+
+    # Lily "I'm going to go out for a run."
+    Lily ""
+
+# game/logic/events/lily.rpy:2907
+translate russian Lily_9_label_a7b57ba1:
+
+    # ch_Name "I didn't know you go jogging."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2908
+translate russian Lily_9_label_0abe8f13:
+
+    # Lily "We have so much to learn about each other, he-he."
+    Lily ""
+
+# game/logic/events/lily.rpy:2909
+translate russian Lily_9_label_51d9f9cb:
+
+    # Lily "You can join me if you want, [Name]."
+    Lily ""
+
+# game/logic/events/lily.rpy:2911
+translate russian Lily_9_label_8d0f5928:
+
+    # ch_Name "I'd love to keep you company!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2912
+translate russian Lily_9_label_8eba0756:
+
+    # Lily "Great!"
+    Lily ""
+
+# game/logic/events/lily.rpy:2913
+translate russian Lily_9_label_66b5751d:
+
+    # Lily "Let's mix jogging with a nice little chat."
+    Lily ""
+
+# game/logic/events/lily.rpy:2914
+translate russian Lily_9_label_ab4a186b:
+
+    # Lily "I can pick you up in your room around 7 pm. What do you think?"
+    Lily ""
+
+# game/logic/events/lily.rpy:2915
+translate russian Lily_9_label_11056f22:
+
+    # ch_Name "Sounds just great!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2916
+translate russian Lily_9_label_e51108ef:
+
+    # Lily "Oh, the class is about to start. See you!"
+    Lily ""
+
+# game/logic/events/lily.rpy:2927
+translate russian Lily_10_label_fdb7de5c:
+
+    # ch_Name "Lily! You scared me half to death! "
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2928
+translate russian Lily_10_label_bcfb9ca5:
+
+    # Lily "I... I'm sorry if I'm a little too early..."
+    Lily ""
+
+# game/logic/events/lily.rpy:2929
+translate russian Lily_10_label_75c1b709:
+
+    # ch_Name "Oh, wow! I don't think I've ever seen you in sportswear. "
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2930
+translate russian Lily_10_label_4f9f0a1c:
+
+    # ch_Name "You do look great in these leggings!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2932
+translate russian Lily_10_label_f8b48af6:
+
+    # ch_Name "{i}(I wouldn't mind seeing her in these tight leggings all the time...){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2933
+translate russian Lily_10_label_d70f1b06:
+
+    # ch_Name "{i}(They're perfectly showing her juicy ass.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2934
+translate russian Lily_10_label_39842dec:
+
+    # Lily "Thank you, he-he."
+    Lily ""
+
+# game/logic/events/lily.rpy:2936
+translate russian Lily_10_label_d0690755:
+
+    # Lily "Whoa, it's been a long day... I just need to clear my head."
+    Lily ""
+
+# game/logic/events/lily.rpy:2937
+translate russian Lily_10_label_441462d3:
+
+    # ch_Name "The perfect time to have a nice jog, isn't it?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2938
+translate russian Lily_10_label_d1b868ae:
+
+    # Lily "And what are we waiting for? "
+    Lily ""
+
+# game/logic/events/lily.rpy:2945
+translate russian Lily_10_label_0d365412:
+
+    # Lily "There's something special about night-jogging."
+    Lily ""
+
+# game/logic/events/lily.rpy:2946
+translate russian Lily_10_label_ce11faf7:
+
+    # Lily "It is completely different from morning jogs."
+    Lily ""
+
+# game/logic/events/lily.rpy:2947
+translate russian Lily_10_label_41c8e367:
+
+    # ch_Name "Yes! I like to listen to music while running."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2948
+translate russian Lily_10_label_f3344f92:
+
+    # ch_Name "And it's usually something slow and melancholic in the evenings."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2949
+translate russian Lily_10_label_a2da6f27:
+
+    # ch_Name "That's a totally different vibe."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2951
+translate russian Lily_10_label_939fcc22:
+
+    # ch_Name "Phew!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2952
+translate russian Lily_10_label_10c27f9d:
+
+    # Lily "Hey, you're too slow."
+    Lily ""
+
+# game/logic/events/lily.rpy:2953
+translate russian Lily_10_label_b07590d2:
+
+    # Lily "Go on, go on!"
+    Lily ""
+
+# game/logic/events/lily.rpy:2954
+translate russian Lily_10_label_22904fb2:
+
+    # Lily "Let's speed up!"
+    Lily ""
+
+# game/logic/events/lily.rpy:2955
+translate russian Lily_10_label_67cdc9a9:
+
+    # ch_Name "{i}(Speed up? My breath is dying!){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2957
+translate russian Lily_10_label_7c9911de:
+
+    # ch_Name "I... I'm just saving my energy."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2958
+translate russian Lily_10_label_eee686cf:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2959
+translate russian Lily_10_label_f9fd22c8:
+
+    # ch_Name "{i}(My whole body is going to hurt tomorrow!){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2961
+translate russian Lily_10_label_cf6f795f:
+
+    # ch_Name "You must have a lot of stamina, Lily."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2962
+translate russian Lily_10_label_d423ba34:
+
+    # Lily "I guess... I guess it is so."
+    Lily ""
+
+# game/logic/events/lily.rpy:2963
+translate russian Lily_10_label_ed1c1ff0:
+
+    # Lily "My father is the one who instilled in me his own love of running."
+    Lily ""
+
+# game/logic/events/lily.rpy:2964
+translate russian Lily_10_label_eaf230b6:
+
+    # ch_Name "Wow, what?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2965
+translate russian Lily_10_label_ad09f719:
+
+    # Lily "He is a professional runner. We ran together when I was a little girl."
+    Lily ""
+
+# game/logic/events/lily.rpy:2967
+translate russian Lily_10_label_48f64c9f:
+
+    # Lily "He taught me a lot."
+    Lily ""
+
+# game/logic/events/lily.rpy:2968
+translate russian Lily_10_label_cb58fe72:
+
+    # ch_Name "{i}(What a lovely view!){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2969
+translate russian Lily_10_label_8c7926f5:
+
+    # Lily "Jogging became more like... a daily thing for me."
+    Lily ""
+
+# game/logic/events/lily.rpy:2970
+translate russian Lily_10_label_eb121c05:
+
+    # Lily "I jog every day here in this garden. "
+    Lily ""
+
+# game/logic/events/lily.rpy:2971
+translate russian Lily_10_label_32c8b25f:
+
+    # ch_Name "That's pretty cool!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2973
+translate russian Lily_10_label_4b302016:
+
+    # Lily "I'm so thankful that Haley told me about this place. It's just perfect!"
+    Lily ""
+
+# game/logic/events/lily.rpy:2974
+translate russian Lily_10_label_e863eb70:
+
+    # Lily "Jogging is the best anti-stress remedy, by the way."
+    Lily ""
+
+# game/logic/events/lily.rpy:2975
+translate russian Lily_10_label_f0808b16:
+
+    # Lily "Of course, it won't make your stress disappear, but..."
+    Lily ""
+
+# game/logic/events/lily.rpy:2976
+translate russian Lily_10_label_566f3189:
+
+    # Lily "...it will reduce some of the emotional intensity that you're feeling."
+    Lily ""
+
+# game/logic/events/lily.rpy:2978
+translate russian Lily_10_label_c510566d:
+
+    # Lily "And it is a great way to stay in great shape!"
+    Lily ""
+
+# game/logic/events/lily.rpy:2979
+translate russian Lily_10_label_57ad9c33:
+
+    # ch_Name "That is absolutely true."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2980
+translate russian Lily_10_label_75ae5de0:
+
+    # ch_Name "You do have an amazing body, Lily. It's something to look at!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2981
+translate russian Lily_10_label_7cba49e8:
+
+    # Lily "He-he, well, I doubly pleased to hear that from you."
+    Lily ""
+
+# game/logic/events/lily.rpy:2988
+translate russian Lily_10_label_84a0c895:
+
+    # Lily "C'mon, [Name], you're so slow!"
+    Lily ""
+
+# game/logic/events/lily.rpy:2989
+translate russian Lily_10_label_30f7f718:
+
+    # Lily "I bet you'll never catch me!"
+    Lily ""
+
+# game/logic/events/lily.rpy:2990
+translate russian Lily_10_label_d9a29c12:
+
+    # ch_Name "What...?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2991
+translate russian Lily_10_label_3e91f727:
+
+    # ch_Name "That's just ridiculous."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2993
+translate russian Lily_10_label_fdf3055a:
+
+    # ch_Name "You're gonna lose, Lily. I'm warning you."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2994
+translate russian Lily_10_label_e252236f:
+
+    # Lily "We'll see."
+    Lily ""
+
+# game/logic/events/lily.rpy:2995
+translate russian Lily_10_label_744a450e:
+
+    # ch_Name "{i}(No matter how cool she's in running, I can't give up that easy.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2997
+translate russian Lily_10_label_fba5c40d:
+
+    # Lily "Whoa, [Name]!"
+    Lily ""
+
+# game/logic/events/lily.rpy:2998
+translate russian Lily_10_label_4f8c2969:
+
+    # ch_Name "Ha-ha-ha!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2999
+translate russian Lily_10_label_6c8a6de4:
+
+    # ch_Name "That's it, Lily, we're done."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3001
+translate russian Lily_10_label_32317e00:
+
+    # Lily "Seriously, [Name], it was cool!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3002
+translate russian Lily_10_label_58a0377a:
+
+    # ch_Name "{i}(It's just me or did she do it on purpose?){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3003
+translate russian Lily_10_label_5c51e0fd:
+
+    # ch_Name "{i}(Like she wanted to be caught.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3004
+translate russian Lily_10_label_120f74e6:
+
+    # ch_Name "{i}(That was too easy...){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3006
+translate russian Lily_10_label_8aa64a02:
+
+    # Lily "Ugh... We're so close..."
+    Lily ""
+
+# game/logic/events/lily.rpy:3009
+translate russian Lily_10_label_5806f095:
+
+    # ch_Name "Ughm... I can't resist your charms..."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3010
+translate russian Lily_10_label_4fe9c65b:
+
+    # Lily "Mhm!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3011
+translate russian Lily_10_label_984c8f01:
+
+    # Lily "I missed your loving arms, [Name]..."
+    Lily ""
+
+# game/logic/events/lily.rpy:3012
+translate russian Lily_10_label_6b953d59:
+
+    # ch_Name "{i}(She's literally trembling with pleasure!) {/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3014
+translate russian Lily_10_label_687f52f4:
+
+    # Lily "Every moment away from your warm embrace... it's a torture for me!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3015
+translate russian Lily_10_label_ecc9a9ea:
+
+    # ch_Name "{i}(Her tongue is fire!){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3016
+translate russian Lily_10_label_b0c89866:
+
+    # ch_Name "{i}(Is it even possible to do something like that?){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3017
+translate russian Lily_10_label_560d39e4:
+
+    # ch_Name "{i}(She's a real wizard!){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3019
+translate russian Lily_10_label_f3772257:
+
+    # Lily "Your touches are so passionate, so tender, um..."
+    Lily ""
+
+# game/logic/events/lily.rpy:3020
+translate russian Lily_10_label_ea0d832f:
+
+    # Lily "Like the waves of pleasure, all over my body..."
+    Lily ""
+
+# game/logic/events/lily.rpy:3021
+translate russian Lily_10_label_98ed4831:
+
+    # Lily "My panties are so wet already..."
+    Lily ""
+
+# game/logic/events/lily.rpy:3023
+translate russian Lily_10_label_b4c8c248:
+
+    # NoName "Ring-ring..."
+    NoName ""
+
+# game/logic/events/lily.rpy:3025
+translate russian Lily_10_label_327af277:
+
+    # Lily "Oh... Wait for a second."
+    Lily ""
+
+# game/logic/events/lily.rpy:3026
+translate russian Lily_10_label_a199a63b:
+
+    # Lily "Someone's calling and I need to take this one."
+    Lily ""
+
+# game/logic/events/lily.rpy:3029
+translate russian Lily_10_label_b2df2c81:
+
+    # ch_Name "I'm so sorry, Lily! I almost knock you over."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3030
+translate russian Lily_10_label_8bf6429c:
+
+    # ch_Name "I hope that everything's okay."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3031
+translate russian Lily_10_label_8d009299:
+
+    # Lily "That's nothing, don't worry. I kind of enjoyed it, he-he."
+    Lily ""
+
+# game/logic/events/lily.rpy:3033
+translate russian Lily_10_label_b4c8c248_1:
+
+    # NoName "Ring-ring..."
+    NoName ""
+
+# game/logic/events/lily.rpy:3035
+translate russian Lily_10_label_f8a744e2:
+
+    # Lily "Oh... Wait for a second, please. "
+    Lily ""
+
+# game/logic/events/lily.rpy:3036
+translate russian Lily_10_label_a199a63b_1:
+
+    # Lily "Someone's calling and I need to take this one."
+    Lily ""
+
+# game/logic/events/lily.rpy:3038
+translate russian Lily_10_label_96ae8269:
+
+    # ch_Name "No problem."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3040
+translate russian Lily_10_label_c1d63b7a:
+
+    # ch_Name "{i}(She doesn't look really happy about this call.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3041
+translate russian Lily_10_label_0e1d724b:
+
+    # ch_Name "{i}(It's impossible not to notice that.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3042
+translate russian Lily_10_label_326e999e:
+
+    # Lily "...no, listen, I tried. I really tried!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3043
+translate russian Lily_10_label_8acef034:
+
+    # ch_Name "{i}(I'm wondering who she's talking to.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3044
+translate russian Lily_10_label_8aee4664:
+
+    # Lily "Yes, but..."
+    Lily ""
+
+# game/logic/events/lily.rpy:3046
+translate russian Lily_10_label_60c0626c:
+
+    # Lily "No, of course, not."
+    Lily ""
+
+# game/logic/events/lily.rpy:3047
+translate russian Lily_10_label_fbca9cb9:
+
+    # Lily "Don't say anything to dad, please!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3048
+translate russian Lily_10_label_2b8b8564:
+
+    # ch_Name "{i}(Is it her mother?){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3049
+translate russian Lily_10_label_280d2d51:
+
+    # Lily "I get it, ma. "
+    Lily ""
+
+# game/logic/events/lily.rpy:3050
+translate russian Lily_10_label_a70b92ab:
+
+    # Lily "I will do my best, I swear you."
+    Lily ""
+
+# game/logic/events/lily.rpy:3051
+translate russian Lily_10_label_da9ab177:
+
+    # Lily "Okay... Bye-bye."
+    Lily ""
+
+# game/logic/events/lily.rpy:3053
+translate russian Lily_10_label_68de5e52:
+
+    # ch_Name "Did something happened?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3054
+translate russian Lily_10_label_88ba7966:
+
+    # Lily "Not really."
+    Lily ""
+
+# game/logic/events/lily.rpy:3055
+translate russian Lily_10_label_ddcb27eb:
+
+    # ch_Name "Who... who called you? Your mom?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3056
+translate russian Lily_10_label_feaf09fd:
+
+    # Lily "Yes... I'm so sick of this!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3058
+translate russian Lily_10_label_fcf21f5f:
+
+    # ch_Name "Sick of what?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3059
+translate russian Lily_10_label_2ae52556:
+
+    # Lily "Unrealistic expectations of my family are killing me!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3060
+translate russian Lily_10_label_08ac5a4c:
+
+    # Lily "\"You're Leona's descendant! It is inappropriate!\""
+    Lily ""
+
+# game/logic/events/lily.rpy:3061
+translate russian Lily_10_label_50a9de64:
+
+    # Lily "They have extremely high standards for me."
+    Lily ""
+
+# game/logic/events/lily.rpy:3062
+translate russian Lily_10_label_03d304da:
+
+    # ch_Name "Leona's what?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3063
+translate russian Lily_10_label_25782a88:
+
+    # ch_Name "Do you mean Leona, the founder of Leonheart?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3065
+translate russian Lily_10_label_d93e2cee:
+
+    # Lily "Oh, [Name], I've never told it to you..."
+    Lily ""
+
+# game/logic/events/lily.rpy:3066
+translate russian Lily_10_label_a3185cf5:
+
+    # Lily "Actually, we are related by blood with Leona, on my mom's side."
+    Lily ""
+
+# game/logic/events/lily.rpy:3067
+translate russian Lily_10_label_e216c47b:
+
+    # ch_Name "Are you kidding me?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3068
+translate russian Lily_10_label_466c8788:
+
+    # Lily "Why would I?"
+    Lily ""
+
+# game/logic/events/lily.rpy:3070
+translate russian Lily_10_label_eb7101c4:
+
+    # Lily "The point is, my family is too proud of this part of our past."
+    Lily ""
+
+# game/logic/events/lily.rpy:3071
+translate russian Lily_10_label_9d410ef8:
+
+    # Lily "My parents believe that Leona's descendants should be the best at everything..."
+    Lily ""
+
+# game/logic/events/lily.rpy:3072
+translate russian Lily_10_label_a3405bba:
+
+    # Lily "...and there's no other way."
+    Lily ""
+
+# game/logic/events/lily.rpy:3073
+translate russian Lily_10_label_d72e5db0:
+
+    # Lily "It bugs me so much!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3074
+translate russian Lily_10_label_54a1b1fa:
+
+    # Lily "The last thing that I want is to waste all my energy just to get excellent grades!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3076
+translate russian Lily_10_label_ce7dad61:
+
+    # Lily "I'm so frustrated right now..."
+    Lily ""
+
+# game/logic/events/lily.rpy:3077
+translate russian Lily_10_label_4422b66d:
+
+    # Lily "Sorry, [Name], but I'd better go. I don't want to ruin your mood."
+    Lily ""
+
+# game/logic/events/lily.rpy:3078
+translate russian Lily_10_label_623adac0:
+
+    # ch_Name "C'mon, you're not ruining anything, Lily."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3080
+translate russian Lily_10_label_3bd2b941:
+
+    # Lily "I will text you later, okay?"
+    Lily ""
+
+# game/logic/events/lily.rpy:3081
+translate russian Lily_10_label_74ebce9c:
+
+    # ch_Name "Sure."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3082
+translate russian Lily_10_label_f7da01fa:
+
+    # ch_Name "{i}(Alright. I better talk with her when she will be in the mood.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3086
+translate russian Lily_10_label_ea5950b7:
+
+    # ch_Name "{i}(Stop-stop-stop.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3087
+translate russian Lily_10_label_50a0c904:
+
+    # ch_Name "{i}(Lily is Leona's offspring...){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3088
+translate russian Lily_10_label_4dbf6347:
+
+    # ch_Name "{i}(Does it mean that I had sex with both great-great-grandmother and granddaughter?){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3089
+translate russian Lily_10_label_dfb65ccf:
+
+    # ch_Name "{i}(Whoa!){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3090
+translate russian Lily_10_label_8c9ee3e6:
+
+    # ch_Name "{i}(That's a kind of story that you can't tell to anyone.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3091
+translate russian Lily_10_label_332d3728:
+
+    # ch_Name "{i}(No one would believe me anyway.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3094
+translate russian Lily_10_label_ea5950b7_1:
+
+    # ch_Name "{i}(Stop-stop-stop.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3095
+translate russian Lily_10_label_bac53f0f:
+
+    # ch_Name "{i}(And what will happen if Lily meets Leona?){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3096
+translate russian Lily_10_label_bd7edd49:
+
+    # ch_Name "{i}(Will the reality collapse? Whoa!){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3097
+translate russian Lily_10_label_f2c22632:
+
+    # ch_Name "{i}(It's better not to test this theory!){/i}"
+    ch_Name ""
+
+translate russian strings:
+
+    # game/logic/events/lily.rpy:80
+    old "6 Talk to Lily"
+    new ""
+

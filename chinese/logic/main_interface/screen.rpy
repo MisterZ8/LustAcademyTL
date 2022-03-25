@@ -364,3 +364,15 @@ translate chinese strings:
     old "Don't take"
     new "不要拿"
 
+# TODO: Translation updated at 2022-03-25 06:03
+
+translate chinese strings:
+
+    # game/logic/main_interface/screen.rpy:1492
+    old "You have successfully completed all available routes. Talk to Samantha to go on vacation."
+    new ""
+
+    # game/logic/main_interface/screen.rpy:1536
+    old "Skip time"
+    new ""
+

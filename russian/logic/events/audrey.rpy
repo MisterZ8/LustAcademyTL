@@ -19894,3 +19894,2213 @@ translate russian strings:
     old "Fuck me in the ass"
     new ""
 
+# TODO: Translation updated at 2022-03-25 06:29
+
+# game/logic/events/audrey.rpy:187
+translate russian Audrey_1_label_32fed6a1:
+
+    # Audrey "Oh, crap. Are you kidding me?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:188
+translate russian Audrey_1_label_16cbbd69:
+
+    # Audrey "We're out of cream."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:189
+translate russian Audrey_1_label_7a9f18dd:
+
+    # ch_Name "That's a shame!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:204
+translate russian Audrey_1_label_6299939e:
+
+    # ch_Name "C'mon, don't take that too seriously."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:208
+translate russian Audrey_1_label_244b6109:
+
+    # Audrey "I just wanted a cup of coffee in the morning..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:226
+translate russian Audrey_1_label_361a62e7:
+
+    # Audrey "Would you go get some milk or cream?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:235
+translate russian Audrey_1_label_da19a5bc:
+
+    # ch_Name "I know, I know."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:317
+translate russian Audrey_2_label_8c8b19ac:
+
+    # ch_Name "Of course, you do."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:337
+translate russian Audrey_3_label_f65de1ad:
+
+    # Audrey "Something like that. At least I'm trying."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:347
+translate russian Audrey_3_label_8399fcc5:
+
+    # Audrey "Samantha speaks too highly of you. Every damn day."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:351
+translate russian Audrey_3_label_6613b842:
+
+    # Audrey "But you know what..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:352
+translate russian Audrey_3_label_d27ff45a:
+
+    # Audrey "You're definitely not the worst person I've ever met."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:359
+translate russian Audrey_3_label_71281b8a:
+
+    # ch_Name "Hey! You've just said something nice to me for the first time and then ruined it..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:360
+translate russian Audrey_3_label_73136358:
+
+    # Audrey "What? "
+    Audrey ""
+
+# game/logic/events/audrey.rpy:361
+translate russian Audrey_3_label_d8346cf0:
+
+    # ch_Name "It's not very nice to ask someone to shut up."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:362
+translate russian Audrey_3_label_1ab19db0:
+
+    # ch_Name "Especially someone who has just helped you."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:364
+translate russian Audrey_3_label_0c15f49f:
+
+    # Audrey "That's just the way I talk."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:365
+translate russian Audrey_3_label_ab341f1b:
+
+    # Audrey "If you don't like it, that is only your problem."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:366
+translate russian Audrey_3_label_cf5017b6:
+
+    # Audrey "I didn't know you're that soft. Just like a teenage girl."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:367
+translate russian Audrey_3_label_8827afd1:
+
+    # ch_Name "Again!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:368
+translate russian Audrey_3_label_76cd0c3a:
+
+    # Audrey "Anyway, I didn't mean to hurt you."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:381
+translate russian Audrey_3_label_80d0df38:
+
+    # Audrey "What secret? What are you talking about?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:383
+translate russian Audrey_3_label_dc3a8757:
+
+    # Audrey "I mean, it just happened. Thats all you need to know."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:683
+translate russian Audrey_7_label_from_gallery_82294f3e:
+
+    # Audrey "Get the fuck out of here!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:865
+translate russian Audrey_7_label_from_gallery_82294f3e_1:
+
+    # Audrey "Get the fuck out of here!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:990
+translate russian Audrey_7_girl_ebe37423:
+
+    # Audrey "I've been ready for a long time... Don't keep me in suspense!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:1135
+translate russian Audrey_7_girl_bba7c3f1:
+
+    # ch_Name "{i}(What the fuck?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1136
+translate russian Audrey_7_girl_9d50e601:
+
+    # ch_Name "Then I'll need your help to cum."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1164
+translate russian Audrey_7_girl_60a2107e:
+
+    # Audrey "Seems like you've had a rough day. You know, it happens."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:1168
+translate russian Audrey_7_girl_1656823c:
+
+    # Audrey "Stop wasting my time."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:1173
+translate russian Audrey_7_girl_f14de76c:
+
+    # ch_Name "I usually have no problem getting a hard-on."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1175
+translate russian Audrey_7_girl_56653768:
+
+    # Audrey "That's what all you men say."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:1197
+translate russian Audrey_7_girl_b58e3520:
+
+    # ch_Name "Fuck you, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1198
+translate russian Audrey_7_girl_8e4fd793:
+
+    # Audrey "What?!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:1199
+translate russian Audrey_7_girl_e254a234:
+
+    # ch_Name "{i}(Whoo, what a relief!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1200
+translate russian Audrey_7_girl_9bed55cd:
+
+    # ch_Name "{i}(I've been waiting a long time for this!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1201
+translate russian Audrey_7_girl_869b7b09:
+
+    # ch_Name "You heard what I say. Chao!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1270
+translate russian Audrey_7_shemale_ebe37423:
+
+    # Audrey "I've been ready for a long time... Don't keep me in suspense!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:1405
+translate russian Audrey_7_shemale_bba7c3f1:
+
+    # ch_Name "{i}(What the fuck?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1434
+translate russian Audrey_7_shemale_60a2107e:
+
+    # Audrey "Seems like you've had a rough day. You know, it happens."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:1438
+translate russian Audrey_7_shemale_1656823c:
+
+    # Audrey "Stop wasting my time."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:1443
+translate russian Audrey_7_shemale_f14de76c:
+
+    # ch_Name "I usually have no problem getting a hard-on."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1445
+translate russian Audrey_7_shemale_56653768:
+
+    # Audrey "That's what all you men say."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:1466
+translate russian Audrey_7_shemale_b58e3520:
+
+    # ch_Name "Fuck you, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1467
+translate russian Audrey_7_shemale_8e4fd793:
+
+    # Audrey "What?!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:1468
+translate russian Audrey_7_shemale_869b7b09:
+
+    # ch_Name "You heard what I say. Chao!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1469
+translate russian Audrey_7_shemale_e254a234:
+
+    # ch_Name "{i}(Whoo, what a relief!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1470
+translate russian Audrey_7_shemale_9bed55cd:
+
+    # ch_Name "{i}(I've been waiting a long time for this!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1512
+translate russian Audrey_6_label_bcee9c7c:
+
+    # ch_Name "Well, I can't argue with that, so..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1516
+translate russian Audrey_6_label_30e96a74:
+
+    # ch_Name "Well, hello there. What do you want?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1588
+translate russian Audrey_6_label_e767b798:
+
+    # ch_Name "{i}(On the other hand, what's wrong with friends who has some benefits?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1660
+translate russian Audrey_5_label_09787c2d:
+
+    # ch_Name "Not if you got spare keys."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1756
+translate russian Audrey_5_label_4fe085a2:
+
+    # ch_Name "Yeah, in some twisted way."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1761
+translate russian Audrey_5_label_ed448056:
+
+    # ch_Name "Alright!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1911
+translate russian Audrey_4_label_122abd17:
+
+    # Samantha "You know I'm an open book!"
+    Samantha ""
+
+# game/logic/events/audrey.rpy:1937
+translate russian Audrey_4_label_19d9ae1c:
+
+    # Samantha "Hello! Yes? Mister Principal?"
+    Samantha ""
+
+# game/logic/events/audrey.rpy:1965
+translate russian Audrey_4_label_ef706104:
+
+    # ch_Name "Nevermind, I'm just really nosy."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1975
+translate russian Audrey_4_label_151dfc66:
+
+    # ch_Name "See ya later."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1992
+translate russian Audrey_2_2_label_f9f6d8de:
+
+    # ch_Name "Audrey, can we talk?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1993
+translate russian Audrey_2_2_label_606a0add:
+
+    # Audrey "We? Talk?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:1995
+translate russian Audrey_2_2_label_7bd4affe:
+
+    # Audrey "Sorry, I'll pass."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:1996
+translate russian Audrey_2_2_label_b997d453:
+
+    # ch_Name "Why not?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1997
+translate russian Audrey_2_2_label_811e3160:
+
+    # Audrey "We don't have anything to talk about."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:1998
+translate russian Audrey_2_2_label_e1ee588c:
+
+    # ch_Name "{i}(Just like that?!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1999
+translate russian Audrey_2_2_label_f2223bdf:
+
+    # ch_Name "{i}(You don't have a heart...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2001
+translate russian Audrey_2_2_label_94477ca7:
+
+    # ch_Name "Is she always like this?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2002
+translate russian Audrey_2_2_label_f43feca0:
+
+    # Samantha "Leave me out of it."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:2003
+translate russian Audrey_2_2_label_8499a8dc:
+
+    # ch_Name "I'm sorry."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2018
+translate russian Audrey_2_1_label_c1f92d11:
+
+    # ch_Name "Hey, guys, how's it going?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2019
+translate russian Audrey_2_1_label_dc174705:
+
+    # Samantha "I'm great."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:2020
+translate russian Audrey_2_1_label_5d9f1d18:
+
+    # Audrey "Yo."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2021
+translate russian Audrey_2_1_label_559efa65:
+
+    # ch_Name "Audrey, I was just coming to talk to you..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2023
+translate russian Audrey_2_1_label_9677d60b:
+
+    # Audrey "Not interested."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2024
+translate russian Audrey_2_1_label_bd67f888:
+
+    # ch_Name "What do you mean?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2025
+translate russian Audrey_2_1_label_e52708d0:
+
+    # Audrey "Leave us alone."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2026
+translate russian Audrey_2_1_label_9660a289:
+
+    # Audrey "Can't you see we're talking?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2028
+translate russian Audrey_2_1_label_d33aac1d:
+
+    # Samantha "Audrey..."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:2029
+translate russian Audrey_2_1_label_91fa741c:
+
+    # ch_Name "It's okay, Sam. I got it."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2030
+translate russian Audrey_2_1_label_27067458:
+
+    # ch_Name "{i}(She wants to look cool in front of Sam.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2031
+translate russian Audrey_2_1_label_53f87adb:
+
+    # ch_Name "{i}(I'm not getting anywhere here. I'd better go see her in the morning.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2033
+translate russian Audrey_2_1_label_e3c1a3e9:
+
+    # ch_Name "I'll leave you to it."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2050
+translate russian Audrey_1_2_label_fac0a734:
+
+    # ch_Name "Audrey, hi!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2051
+translate russian Audrey_1_2_label_f1c34640:
+
+    # Audrey "Hey."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2052
+translate russian Audrey_1_2_label_709925be:
+
+    # ch_Name "I'm thinking about getting some coffee, too."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2053
+translate russian Audrey_1_2_label_555667ef:
+
+    # ch_Name "Can I keep you company?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2055
+translate russian Audrey_1_2_label_3877b758:
+
+    # Audrey "No-no, I'm sorry, but I'm in a hurry."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2056
+translate russian Audrey_1_2_label_a21f7e3d:
+
+    # Audrey "I promised Frollo I wouldn't be late for practice."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2057
+translate russian Audrey_1_2_label_662ddc8d:
+
+    # ch_Name "Oh... That's too bad..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2058
+translate russian Audrey_1_2_label_51845ae0:
+
+    # ch_Name "When are you going to be free?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2060
+translate russian Audrey_1_2_label_de862835:
+
+    # Audrey "It's none of your business, but tonight."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2061
+translate russian Audrey_1_2_label_c6803d96:
+
+    # ch_Name "All right."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2083
+translate russian Audrey_1_1_label_0e5b5161:
+
+    # Audrey "No-no-no, stop. Don't even start."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2085
+translate russian Audrey_1_1_label_3c0ffeac:
+
+    # ch_Name "What? You don't know me at all, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2086
+translate russian Audrey_1_1_label_adb42c87:
+
+    # ch_Name "And that's what you think of me?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2088
+translate russian Audrey_1_1_label_272a6407:
+
+    # Audrey "I have an instinct for this kind of guys. "
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2089
+translate russian Audrey_1_1_label_44483b4d:
+
+    # ch_Name "You can't just lump people together."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2090
+translate russian Audrey_1_1_label_452012c1:
+
+    # ch_Name "I will prove that you're wrong."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2091
+translate russian Audrey_1_1_label_4602d515:
+
+    # ch_Name "{i}(I don't know how yet, but I'll think of something.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2096
+translate russian Audrey_1_1_label_f60b6088:
+
+    # Audrey "And if you're too young to work..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2097
+translate russian Audrey_1_1_label_1dda54b5:
+
+    # Audrey "...you're no match for a real woman, are you?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2659
+translate russian Audrey_8_label_3406d50e:
+
+    # Audrey "Thinking isn't really your thing, asshole."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2662
+translate russian Audrey_8_label_8db95b07:
+
+    # ch_Name "You need to learn how to be nicer to people, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2663
+translate russian Audrey_8_label_e71d8b8b:
+
+    # ch_Name "Just giving you friendly advice."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2665
+translate russian Audrey_8_label_1c0efde7:
+
+    # Audrey "Why would I do that?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2666
+translate russian Audrey_8_label_57eb7d19:
+
+    # ch_Name "Sometimes you're acting like a total bitch."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2667
+translate russian Audrey_8_label_ea5801cb:
+
+    # ch_Name "It pushes people away, that's for sure."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2668
+translate russian Audrey_8_label_0cd65c1f:
+
+    # ch_Name "You're the one who's criticizing and hurting people."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2669
+translate russian Audrey_8_label_4157a9ca:
+
+    # Audrey "Don't tell me what to do, [Name]."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2670
+translate russian Audrey_8_label_863c7430:
+
+    # Audrey "Keep that to yourself."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2671
+translate russian Audrey_8_label_b7fece4c:
+
+    # ch_Name "I..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2673
+translate russian Audrey_8_label_5246a68c:
+
+    # Audrey "Listen, [Name], I need to talk to you."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2674
+translate russian Audrey_8_label_98983b55:
+
+    # Audrey "We can argue later, okay?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2675
+translate russian Audrey_8_label_979bf769:
+
+    # ch_Name "{i}(She seems very concerned about something.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2676
+translate russian Audrey_8_label_cd84abd3:
+
+    # ch_Name "{i}(And she definitely has something to say to me.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2677
+translate russian Audrey_8_label_87c6dca7:
+
+    # ch_Name "What's the matter?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2697
+translate russian Audrey_8_label_ce6f315f:
+
+    # ch_Name "You're intriguing."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2713
+translate russian Audrey_8_label_00c628a5:
+
+    # ch_Name "I'm a bit confused, because that's the first time it's happened to me."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2812
+translate russian Audrey_8_label_e6e17347:
+
+    # Audrey "Get away from me, asshole."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2816
+translate russian Audrey_8_label_a21adaf4:
+
+    # ch_Name "You know what?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2817
+translate russian Audrey_8_label_8db95b07_1:
+
+    # ch_Name "You need to learn how to be nicer to people, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2818
+translate russian Audrey_8_label_e71d8b8b_1:
+
+    # ch_Name "Just giving you friendly advice."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2820
+translate russian Audrey_8_label_1c0efde7_1:
+
+    # Audrey "Why would I do that?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2821
+translate russian Audrey_8_label_57eb7d19_1:
+
+    # ch_Name "Sometimes you're acting like a total bitch."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2822
+translate russian Audrey_8_label_bab41c99:
+
+    # ch_Name "It pushes people away, believe me."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2823
+translate russian Audrey_8_label_0cd65c1f_1:
+
+    # ch_Name "You're the one who's criticizing and hurting people."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2824
+translate russian Audrey_8_label_4157a9ca_1:
+
+    # Audrey "Don't tell me what to do, [Name]."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2825
+translate russian Audrey_8_label_863c7430_1:
+
+    # Audrey "Keep that to yourself."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2827
+translate russian Audrey_8_label_328b34a4:
+
+    # Audrey "Anyway, I'm gonna go now."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2828
+translate russian Audrey_8_label_87f40699:
+
+    # ch_Name "Chao!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2829
+translate russian Audrey_8_label_7b9dc780:
+
+    # ch_Name "{i}(She has been acting a little bit weirder today.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2830
+translate russian Audrey_8_label_e176db7d:
+
+    # ch_Name "{i}(She was always so, but that wasn't that bad.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2831
+translate russian Audrey_8_label_64f3a1bf:
+
+    # ch_Name "{i}(Something happened. That's for sure.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2836
+translate russian Audrey_8_label_873bb887:
+
+    # ch_Name "Then a cup of coffee alone with me is what you need right now, baby!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2837
+translate russian Audrey_8_label_2e8ab540:
+
+    # Audrey "What do you say?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2838
+translate russian Audrey_8_label_ab14345e:
+
+    # Audrey "Talking is not enough for me."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2844
+translate russian Audrey_8_label_75c525ce:
+
+    # Audrey "Okay, fine. I'm gonna go."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2845
+translate russian Audrey_8_label_db7d5729:
+
+    # ch_Name "{i}(I need to find out why she's being so cold to me.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2846
+translate russian Audrey_8_label_64f3a1bf_1:
+
+    # ch_Name "{i}(Something happened. That's for sure.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2864
+translate russian Audrey_9_label_8236d2f3:
+
+    # ch_Name "{i}(Maybe it's better to talk to her.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2879
+translate russian Audrey_9_label_6d8d7062:
+
+    # ch_Name "Hey, beauty."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2884
+translate russian Audrey_9_label_d2552aef:
+
+    # Audrey "Actually, I don't want hear anything from your mouth."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2891
+translate russian Audrey_9_label_ff79c08d:
+
+    # ch_Name "I want to talk about our last conversation."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2910
+translate russian Audrey_9_label_L_26_6f8151b5:
+
+    # Audrey "Well, that's where things get interesting."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2912
+translate russian Audrey_9_label_L_26_0cfd5edb:
+
+    # ch_Name "I don't want it to end."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2914
+translate russian Audrey_9_label_L_26_7ee971c9:
+
+    # Audrey "You bet."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2925
+translate russian Audrey_9_label_L_26_54ca40e7:
+
+    # Audrey "It all comes back to your bruised ego."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2926
+translate russian Audrey_9_label_L_26_b8e20a7d:
+
+    # Audrey "Poor boy."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2927
+translate russian Audrey_9_label_L_26_106a86ab:
+
+    # ch_Name "Alright, I think I've enough of you."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2960
+translate russian Audrey_9_label_L_26_f15f7af1:
+
+    # ch_Name "{i}(That was to be expected. Nothing new.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2969
+translate russian Audrey_9_label_L_26_15418d6e:
+
+    # ch_Name "Bye."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3039
+translate russian Audrey_9_label_L_77_e67b2f25:
+
+    # ch_Name "{i}(I like her taste!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3052
+translate russian Audrey_9_label_L_77_e67b2f25_1:
+
+    # ch_Name "{i}(I like her taste!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3223
+translate russian Audrey_9_label_L_184_ebe37423:
+
+    # Audrey "I've been ready for a long time... Don't keep me in suspense!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3273
+translate russian Audrey_9_label_L_184_131ab1d2:
+
+    # ch_Name "Of course, it will."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3398
+translate russian Audrey_9_label_L_184_60a2107e:
+
+    # Audrey "Seems like you've had a rough day. You know, it happens."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3402
+translate russian Audrey_9_label_L_184_1656823c:
+
+    # Audrey "Stop wasting my time."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3407
+translate russian Audrey_9_label_L_184_f14de76c:
+
+    # ch_Name "I usually have no problem getting a hard-on."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3409
+translate russian Audrey_9_label_L_184_56653768:
+
+    # Audrey "That's what all you men say."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3431
+translate russian Audrey_9_label_L_184_b58e3520:
+
+    # ch_Name "Fuck you, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3432
+translate russian Audrey_9_label_L_184_8e4fd793:
+
+    # Audrey "What?!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3433
+translate russian Audrey_9_label_L_184_e254a234:
+
+    # ch_Name "{i}(Whoo, what a relief!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3434
+translate russian Audrey_9_label_L_184_9bed55cd:
+
+    # ch_Name "{i}(I've been waiting a long time for this!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3435
+translate russian Audrey_9_label_L_184_869b7b09:
+
+    # ch_Name "You heard what I say. Chao!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3518
+translate russian Audrey_9_label_L_374_131ab1d2:
+
+    # ch_Name "Of course, it will."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3641
+translate russian Audrey_9_label_L_374_60a2107e:
+
+    # Audrey "Seems like you've had a rough day. You know, it happens."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3645
+translate russian Audrey_9_label_L_374_1656823c:
+
+    # Audrey "Stop wasting my time."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3650
+translate russian Audrey_9_label_L_374_f14de76c:
+
+    # ch_Name "I usually have no problem getting a hard-on."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3652
+translate russian Audrey_9_label_L_374_56653768:
+
+    # Audrey "That's what all you men say."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3672
+translate russian Audrey_9_label_L_374_0796a70e:
+
+    # ch_Name "I'm off."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3674
+translate russian Audrey_9_label_L_374_b58e3520:
+
+    # ch_Name "Fuck you, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3675
+translate russian Audrey_9_label_L_374_8e4fd793:
+
+    # Audrey "What?!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3676
+translate russian Audrey_9_label_L_374_e254a234:
+
+    # ch_Name "{i}(Whoo, what a relief!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3677
+translate russian Audrey_9_label_L_374_9bed55cd:
+
+    # ch_Name "{i}(I've been waiting a long time for this!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3678
+translate russian Audrey_9_label_L_374_869b7b09:
+
+    # ch_Name "You heard what I say. Chao!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3709
+translate russian Audrey_9_label_L_549_6f2ff538:
+
+    # ch_Name "There I will have a great opportunity to demonstrate my good intentions."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3713
+translate russian Audrey_9_label_L_549_ef006c1d:
+
+    # Audrey "Deal. I will wait for you there."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3751
+translate russian Audrey_9_label_L_549_442d0d87:
+
+    # ch_Name "{i}(It's really hard to take my eyes off.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3752
+translate russian Audrey_9_label_L_549_1bdbcdb8:
+
+    # ch_Name "{i}(I want to come into her so badly...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3793
+translate russian Audrey_9_label_L_549_da16a864:
+
+    # ch_Name "{i}(It's really hard to take my eyes off it.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3847
+translate russian Audrey_10_label_4aca1eba:
+
+    # ch_Name "{i}(Let's take a look at the \"Interactions with a human being\" chapter.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5569
+translate russian Audrey_13_label_b4c8c248:
+
+    # NoName "Ring-ring..."
+    NoName ""
+
+# game/logic/events/audrey.rpy:5570
+translate russian Audrey_13_label_b4f988de:
+
+    # ch_Name "{i}(Oh my God...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5573
+translate russian Audrey_13_label_1bf2ae13:
+
+    # ch_Name "{i}(When waking-up with phone's ringing became a kind of morning ritual?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5574
+translate russian Audrey_13_label_1bc539a3:
+
+    # ch_Name "{i}(It seems that I don't even have to set the alarm clock.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5575
+translate russian Audrey_13_label_770cdf55:
+
+    # ch_Name "{i}(Anyway, someone will definitely call and wake me up.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5577
+translate russian Audrey_13_label_9e2c25c7:
+
+    # ch_Name "Hey?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5578
+translate russian Audrey_13_label_643b7dab:
+
+    # Samantha "Hi, [Name]! I'm sorry to wake you up this early, but it is a matter of life and death."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5579
+translate russian Audrey_13_label_e2145027:
+
+    # ch_Name "What are you talking about? What've happened?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5580
+translate russian Audrey_13_label_edab15aa:
+
+    # Samantha "Not on the phone... Can you come to my room, please? We are here with Audrey."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5597
+translate russian Audrey_13_label_L_12_df75ad5a:
+
+    # ch_Name "With Audrey?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5598
+translate russian Audrey_13_label_L_12_a9c15799:
+
+    # ch_Name "No-no, I'll better pass. We kind of ended things on bad terms last time I saw her."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5599
+translate russian Audrey_13_label_L_12_5c4aa0a3:
+
+    # Samantha "Listen, [Name], I..."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5600
+translate russian Audrey_13_label_L_12_8170d976:
+
+    # ch_Name "Are you surprised? Sorry, but my day is just beginning. "
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5601
+translate russian Audrey_13_label_L_12_c0405fa2:
+
+    # ch_Name "I don't want it to be ruined because of someone’s rudeness."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5602
+translate russian Audrey_13_label_L_12_dfe8d228:
+
+    # Samantha "I know exactly how you feel. But Audrey... "
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5603
+translate russian Audrey_13_label_L_12_764a3423:
+
+    # Samantha "She said she got a strange message from succubus!"
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5604
+translate russian Audrey_13_label_L_12_af02121d:
+
+    # Samantha "You do know what that means, don't you?"
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5605
+translate russian Audrey_13_label_L_12_2b9aee68:
+
+    # ch_Name "Not really. What does it change?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5607
+translate russian Audrey_13_label_L_12_b0e1b544:
+
+    # Samantha "Audrey was sure that her civilization became extinct and she was the last succubus alive."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5608
+translate russian Audrey_13_label_L_12_94db2964:
+
+    # Samantha "But if someone sent her a letter then it means there are other survivors, at least one!"
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5609
+translate russian Audrey_13_label_L_12_80153131:
+
+    # Samantha "With that, she gets a chance to come back home again!"
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5610
+translate russian Audrey_13_label_L_12_c69b452e:
+
+    # ch_Name "That's pretty cool, but..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5611
+translate russian Audrey_13_label_L_12_6195ad76:
+
+    # ch_Name "What do I have to do with it?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5613
+translate russian Audrey_13_label_L_12_d3867512:
+
+    # Samantha "The thing is..."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5614
+translate russian Audrey_13_label_L_12_fd60298c:
+
+    # Samantha "I can't convince Audrey that it's better to meet this letter's author with her own eyes."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5615
+translate russian Audrey_13_label_L_12_da798702:
+
+    # Samantha "She doubts for no reason and I really don't know why."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5616
+translate russian Audrey_13_label_L_12_e9fa52c7:
+
+    # Samantha "I'm pretty sure about one thing, [Name]. Audrey needs us more than ever now."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5617
+translate russian Audrey_13_label_L_12_79bc6de7:
+
+    # Samantha "And whatever went on between the two of you... She is still your friend."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5618
+translate russian Audrey_13_label_L_12_936d5620:
+
+    # ch_Name "{i}(Well, maybe she's right. At least I will be there for Sam.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5619
+translate russian Audrey_13_label_L_12_dc7aa3ca:
+
+    # ch_Name "Okay. I'll come in a few minutes."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5626
+translate russian Audrey_13_label_L_12_9b893fd9:
+
+    # ch_Name "{i}(Phew, how is great to be finally awake!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5627
+translate russian Audrey_13_label_L_12_fb50f59a:
+
+    # ch_Name "{i}(However, I still don't think this is a good idea to meet Audrey after I rejected her real appearance...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5628
+translate russian Audrey_13_label_L_12_68b02ee7:
+
+    # ch_Name "{i}(What to expect from her now?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5629
+translate russian Audrey_13_label_L_12_6ea688c3:
+
+    # ch_Name "{i}(Oh, these women...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5630
+translate russian Audrey_13_label_L_12_3894296f:
+
+    # ch_Name "{i}(Succubi, I mean.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5632
+translate russian Audrey_13_label_L_12_b6ce45a5:
+
+    # NoName "Knock-Knock"
+    NoName ""
+
+# game/logic/events/audrey.rpy:5634
+translate russian Audrey_13_label_L_12_de4decc0:
+
+    # ch_Name "{i}(No answer.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5636
+translate russian Audrey_13_label_L_12_b6ce45a5_1:
+
+    # NoName "Knock-Knock"
+    NoName ""
+
+# game/logic/events/audrey.rpy:5637
+translate russian Audrey_13_label_L_12_a69ba545:
+
+    # ch_Name "{i}(They must be busy with something.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5638
+translate russian Audrey_13_label_L_12_dd18e55e:
+
+    # ch_Name "{i}(Anyway, I'm pretty sure that nothing bad will happen if I just come in.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5645
+translate russian Audrey_13_label_L_12_52671cf0:
+
+    # ch_Name "{i}(Whoa! I'm... speechless.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5646
+translate russian Audrey_13_label_L_12_a0102ef6:
+
+    # ch_Name "{i}(Am I dreaming?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5647
+translate russian Audrey_13_label_L_12_a4dd0d7b:
+
+    # ch_Name "{i}(They're looking so fucking hot in these stockings!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5648
+translate russian Audrey_13_label_L_12_7d6daa6b:
+
+    # ch_Name "Girls, I'm really flattered that you greet me dressed like that, but it’s too much even for you..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5649
+translate russian Audrey_13_label_L_12_e1485994:
+
+    # ch_Name "It's not that I'm not into it..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5651
+translate russian Audrey_13_label_L_12_dadaffcf:
+
+    # ch_Name "...it's just too difficult for me to concentrate and not to look at you, he-he."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5652
+translate russian Audrey_13_label_L_12_e5832f4a:
+
+    # Samantha "[Name], you come! Somehow I didn't hear you knock."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5653
+translate russian Audrey_13_label_L_12_fb45f6a2:
+
+    # Samantha "Sorry, I'm like this... I started to change my clothes and Audrey distracted me..."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5654
+translate russian Audrey_13_label_L_12_9b70f835:
+
+    # Audrey "I can't believe you called him, Samantha! What the fuck?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5655
+translate russian Audrey_13_label_L_12_1c81eecd:
+
+    # Audrey "He's literally the last person I want to see now!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5657
+translate russian Audrey_13_label_L_12_e675af2e:
+
+    # ch_Name "Audrey, I..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5658
+translate russian Audrey_13_label_L_12_040a3232:
+
+    # Audrey "Get out of here. Now."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5659
+translate russian Audrey_13_label_L_12_f2aedb88:
+
+    # Audrey "Don't even dare to show your face here again!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5660
+translate russian Audrey_13_label_L_12_d9a872be:
+
+    # Samantha "What the hell is wrong with you, Audrey?"
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5662
+translate russian Audrey_13_label_L_12_341ebe26:
+
+    # Samantha "Let's all be grown-ups here and have an adult conversation."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5663
+translate russian Audrey_13_label_L_12_6030ae62:
+
+    # ch_Name "Samantha told me about the letter."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5664
+translate russian Audrey_13_label_L_12_7f32c819:
+
+    # ch_Name "I know it can be hard to decide what to do for the best, but... "
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5666
+translate russian Audrey_13_label_L_12_db2f2ac2:
+
+    # Audrey "GET OUT!" with vpunch
+    Audrey "" with vpunch
+
+# game/logic/events/audrey.rpy:5667
+translate russian Audrey_13_label_L_12_89cdb366:
+
+    # Samantha "Audrey!"
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5668
+translate russian Audrey_13_label_L_12_bae31121:
+
+    # ch_Name "I am trying to help and you are acting like a child. I’d rather give you a pacifier."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5669
+translate russian Audrey_13_label_L_12_5e9c5026:
+
+    # Audrey "I do not want or need your help."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5670
+translate russian Audrey_13_label_L_12_ad3da08e:
+
+    # ch_Name "Alright, if you say so... Live your life however you want."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5671
+translate russian Audrey_13_label_L_12_dd91f83f:
+
+    # ch_Name "Ciao!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5672
+translate russian Audrey_13_label_L_12_d213c052:
+
+    # Samantha "[Name], please!"
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5673
+translate russian Audrey_13_label_L_12_9683bfb6:
+
+    # ch_Name "Sorry, Sam, but I've had enough."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5680
+translate russian Audrey_13_label_L_12_de6734b5:
+
+    # ch_Name "{i}(I don't even have the strength to fight with Audrey again.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5681
+translate russian Audrey_13_label_L_12_9e315c70:
+
+    # ch_Name "{i}(I only hope she'd listen to Samantha and leave the Academy, at least for some time.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5682
+translate russian Audrey_13_label_L_12_bdde4ea8:
+
+    # ch_Name "{i}(I just need a little break from all of this.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5689
+translate russian Audrey_13_label_L_74_323b640b:
+
+    # ch_Name "With Audrey...?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5690
+translate russian Audrey_13_label_L_74_a5214fff:
+
+    # ch_Name "{i}(Hmm, interesting. I wonder what this could be about...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5692
+translate russian Audrey_13_label_L_74_cb98e895:
+
+    # ch_Name "Okay."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5693
+translate russian Audrey_13_label_L_74_e112f5bf:
+
+    # ch_Name "Just give me some time to wake myself up for a bit."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5694
+translate russian Audrey_13_label_L_74_c12e4e25:
+
+    # Samantha "We're waiting for you, honey."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5701
+translate russian Audrey_13_label_L_74_9b893fd9:
+
+    # ch_Name "{i}(Phew, how is great to be finally awake!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5702
+translate russian Audrey_13_label_L_74_9117cb9c:
+
+    # ch_Name "{i}(I feel better than ever... It is so amazing to be full of energy and ideas!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5704
+translate russian Audrey_13_label_L_74_b6ce45a5:
+
+    # NoName "Knock-Knock"
+    NoName ""
+
+# game/logic/events/audrey.rpy:5706
+translate russian Audrey_13_label_L_74_de4decc0:
+
+    # ch_Name "{i}(No answer.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5708
+translate russian Audrey_13_label_L_74_b6ce45a5_1:
+
+    # NoName "Knock-Knock"
+    NoName ""
+
+# game/logic/events/audrey.rpy:5709
+translate russian Audrey_13_label_L_74_a69ba545:
+
+    # ch_Name "{i}(They must be busy with something.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5710
+translate russian Audrey_13_label_L_74_dd18e55e:
+
+    # ch_Name "{i}(Anyway, I'm pretty sure that nothing bad will happen if I just come in.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5717
+translate russian Audrey_13_label_L_74_52671cf0:
+
+    # ch_Name "{i}(Whoa! I'm... speechless.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5718
+translate russian Audrey_13_label_L_74_a0102ef6:
+
+    # ch_Name "{i}(Am I dreaming?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5719
+translate russian Audrey_13_label_L_74_a4dd0d7b:
+
+    # ch_Name "{i}(They're looking so fucking hot in these stockings!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5721
+translate russian Audrey_13_label_L_74_02794d14:
+
+    # Audrey "Yo, [Name]!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5722
+translate russian Audrey_13_label_L_74_e5832f4a:
+
+    # Samantha "[Name], you come! Somehow I didn't hear you knock."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5723
+translate russian Audrey_13_label_L_74_fb101877:
+
+    # ch_Name "It's nothing, don't worry."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5724
+translate russian Audrey_13_label_L_74_7d6daa6b:
+
+    # ch_Name "Girls, I'm really flattered that you greet me dressed like that, but it’s too much even for you..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5725
+translate russian Audrey_13_label_L_74_fb45f6a2:
+
+    # Samantha "Sorry, I'm like this... I started to change my clothes and Audrey distracted me..."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5727
+translate russian Audrey_13_label_L_74_5150d274:
+
+    # ch_Name "No-no-no, it's not that I'm not into it."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5728
+translate russian Audrey_13_label_L_74_fc9f3bc2:
+
+    # ch_Name "It's the most beautiful lingerie I've ever seen. It's just..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5729
+translate russian Audrey_13_label_L_74_61c9b8c1:
+
+    # ch_Name "It is too difficult for me to concentrate and not to look at you, he-he."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5730
+translate russian Audrey_13_label_L_74_077c6360:
+
+    # ch_Name "Alright, nevermind, let's get down to business."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5732
+translate russian Audrey_13_label_L_74_bab4cc26:
+
+    # Audrey "Listen, guys, I have something to show to you both. Samantha hasn't seen it yet, either."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5733
+translate russian Audrey_13_label_L_74_73de120a:
+
+    # Audrey "It should be here somewhere."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5734
+translate russian Audrey_13_label_L_74_90467ed4:
+
+    # Audrey "Damn! Where did I put it?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5735
+translate russian Audrey_13_label_L_74_25474c50:
+
+    # ch_Name "{i}(I can't even understand what Audrey’s saying...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5736
+translate russian Audrey_13_label_L_74_a1f495af:
+
+    # ch_Name "{i}(Is it even possible not to look at Sam?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5737
+translate russian Audrey_13_label_L_74_9cdf4b06:
+
+    # ch_Name "{i}(How am I supposed to keep my eyes off of her body...?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5744
+translate russian Audrey_13_label_menu_check_fc152591:
+
+    # ch_Name "{i}(I can literally feel the sweet breath of her chest.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5745
+translate russian Audrey_13_label_menu_check_a82af1b3:
+
+    # ch_Name "{i}(Her tits are utterly perfect...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5746
+translate russian Audrey_13_label_menu_check_3446a65b:
+
+    # ch_Name "{i}(Um-mhm... Only look at them!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5747
+translate russian Audrey_13_label_menu_check_c3060125:
+
+    # ch_Name "{i}(I can easily imagine myself taking this bra off of her...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5748
+translate russian Audrey_13_label_menu_check_709fcf5d:
+
+    # ch_Name "{i}(Touching her smooth warm skin up and down...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5754
+translate russian Audrey_13_label_menu_check_f01feda7:
+
+    # ch_Name "{i}(It looks damn hot!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5755
+translate russian Audrey_13_label_menu_check_78da88ff:
+
+    # ch_Name "{i}(I'm proud to call myself one of the stockings' biggest fans...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5757
+translate russian Audrey_13_label_menu_check_f66e47e0:
+
+    # ch_Name "{i}(They perfectly show off her pretty legs and make them look even more amazing.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5758
+translate russian Audrey_13_label_menu_check_0df955d4:
+
+    # ch_Name "{i}(I never get tired of looking at it...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5760
+translate russian Audrey_13_label_menu_check_45575d87:
+
+    # ch_Name "{i}(Um-mhm, what a cute little panties!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5761
+translate russian Audrey_13_label_menu_check_8683e798:
+
+    # ch_Name "{i}(I can pull it off with literally one motion.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5762
+translate russian Audrey_13_label_menu_check_7e54918a:
+
+    # ch_Name "{i}(These strings are almost non-existent...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5769
+translate russian Audrey_13_label_menu_check_69f761a4:
+
+    # Audrey "There it is! I found it, guys."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5770
+translate russian Audrey_13_label_menu_check_cef8469c:
+
+    # ch_Name "{i}(What is that?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5771
+translate russian Audrey_13_label_menu_check_8751db8a:
+
+    # Audrey "The thing is... I received this letter yesterday."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5773
+translate russian Audrey_13_label_menu_check_d0b8fc89:
+
+    # ch_Name "Looks like somebody has a secret admirer, hm?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5774
+translate russian Audrey_13_label_menu_check_b4f550ee:
+
+    # Audrey "If only."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5775
+translate russian Audrey_13_label_menu_check_0ae36871:
+
+    # Samantha "Is that the letter you were talking about?"
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5777
+translate russian Audrey_13_label_menu_check_84535e92:
+
+    # ch_Name "Do you mind if I take a look?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5778
+translate russian Audrey_13_label_menu_check_5bd6a548:
+
+    # Audrey "That's why we called you, dummy."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5780
+translate russian Audrey_13_label_menu_check_fdd4a3d4:
+
+    # ch_Name "Wow, that's look impressive."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5781
+translate russian Audrey_13_label_menu_check_1e1d675b:
+
+    # ch_Name "{i}(What language is that? I've never seen something like it before.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5782
+translate russian Audrey_13_label_menu_check_6133a30d:
+
+    # ch_Name "{i}(So many strange signs and symbols...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5784
+translate russian Audrey_13_label_menu_check_61d16c7f:
+
+    # Audrey "What do you think, [Name]?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5785
+translate russian Audrey_13_label_menu_check_bca56d75:
+
+    # ch_Name "{i}(What does she expect me to say? Am I supposed to understand these scribbles?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5786
+translate russian Audrey_13_label_menu_check_ff6b92c9:
+
+    # ch_Name "Sorry, Audrey, but this doesn't make any sense for me."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5788
+translate russian Audrey_13_label_menu_check_696e7c8a:
+
+    # Audrey "Maybe because you're holding it upside down, mhm?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5789
+translate russian Audrey_13_label_menu_check_2b107865:
+
+    # Audrey "C'mon, [Name], you're not as stupid as you look, are you?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5790
+translate russian Audrey_13_label_menu_check_eee9f82b:
+
+    # ch_Name "Hey, easy! "
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5792
+translate russian Audrey_13_label_menu_check_79267775:
+
+    # ch_Name "Shit, I'm still missing something. "
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5793
+translate russian Audrey_13_label_menu_check_dc37111f:
+
+    # ch_Name "What's that about?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5794
+translate russian Audrey_13_label_menu_check_39dce242:
+
+    # Audrey "Man... Okay, it'll be quicker if I just tell you everything by myself."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5795
+translate russian Audrey_13_label_menu_check_9dcff3ae:
+
+    # Audrey "I received this letter yesterday and it is from... it is from succubus."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5797
+translate russian Audrey_13_label_menu_check_2a595405:
+
+    # Audrey "[Name], you do know what that means, don't you?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5798
+translate russian Audrey_13_label_menu_check_2b9aee68:
+
+    # ch_Name "Not really. What does it change?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5799
+translate russian Audrey_13_label_menu_check_80bf7b1d:
+
+    # Audrey "I was sure that our civilization became extinct and I was the last succubus alive."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5800
+translate russian Audrey_13_label_menu_check_46a421b8:
+
+    # Audrey "It was difficult, but I just had to accept it. But now..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5801
+translate russian Audrey_13_label_menu_check_4cef3a42:
+
+    # Audrey "If someone sent me a letter, then it means there are other survivors."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5803
+translate russian Audrey_13_label_menu_check_563dd586:
+
+    # Audrey "With that, I get a chance to come back home again!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5804
+translate russian Audrey_13_label_menu_check_025b5754:
+
+    # Samantha "And what exactly is in the letter? What's it about?"
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5805
+translate russian Audrey_13_label_menu_check_3e1dd865:
+
+    # Audrey "Nothing - well, nothing concrete. She wants to meet face-to-face. "
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5806
+translate russian Audrey_13_label_menu_check_c6311f08:
+
+    # Audrey "I'm asking myself if I should go, and... This all is pretty weird."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5807
+translate russian Audrey_13_label_menu_check_1e6db5c5:
+
+    # Audrey "And I will have to leave the Academy for some time."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5808
+translate russian Audrey_13_label_menu_check_f9173904:
+
+    # Audrey "And how long will that take? I don't even now."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5812
+translate russian Audrey_13_label_menu_check_8ac87752:
+
+    # ch_Name "You're kidding, right?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5813
+translate russian Audrey_13_label_menu_check_30464068:
+
+    # ch_Name "Of course, you should go, Audrey! Your whole life hangs on this decision."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5815
+translate russian Audrey_13_label_menu_check_7cce5a4f:
+
+    # ch_Name "If I were you, I'd grab every chance I get."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5816
+translate russian Audrey_13_label_menu_check_e2cedf61:
+
+    # ch_Name "Even if you meet her and find out you've got it all wrong, you have nothing to lose."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5817
+translate russian Audrey_13_label_menu_check_26df7a52:
+
+    # ch_Name "If that's what happens, then it wasn't meant to be, right?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5819
+translate russian Audrey_13_label_menu_check_72ff3d4a:
+
+    # ch_Name "But if it's all true and your civilization is not extinct... Only imagine!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5820
+translate russian Audrey_13_label_menu_check_3799b2c0:
+
+    # ch_Name "Anyway, it's worth a try."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5821
+translate russian Audrey_13_label_menu_check_e15c5cf6:
+
+    # ch_Name "It is better than just sitting around and doing... nothing."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5822
+translate russian Audrey_13_label_menu_check_eafb6695:
+
+    # Samantha "[Name] is reading my mind. I totally agree with him."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5825
+translate russian Audrey_13_label_menu_check_a5b2b69c:
+
+    # ch_Name "I really don't know, Audrey. I don't know."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5826
+translate russian Audrey_13_label_menu_check_ed7f55c5:
+
+    # ch_Name "But I urge you not to make rash decisions. You better think about this very carefully."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5827
+translate russian Audrey_13_label_menu_check_a5a59cb2:
+
+    # ch_Name "I wouldn't go anywhere if I were you."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5829
+translate russian Audrey_13_label_menu_check_133490f4:
+
+    # Samantha "[Name], are you serious right now?"
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5830
+translate russian Audrey_13_label_menu_check_06254d4d:
+
+    # Samantha "I'm sure that you should go, Audrey! Your whole life hangs on this decision."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5831
+translate russian Audrey_13_label_menu_check_5d279909:
+
+    # ch_Name "Sam, just think about the whole situation."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5833
+translate russian Audrey_13_label_menu_check_593a7216:
+
+    # ch_Name "Who's this letter from? Do you know this succubus?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5834
+translate russian Audrey_13_label_menu_check_c2bc2aa9:
+
+    # ch_Name "That's right, you don't."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5835
+translate russian Audrey_13_label_menu_check_a41d5e7b:
+
+    # ch_Name "She said she couldn't tell everything in a letter, but why? What's the problem?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5836
+translate russian Audrey_13_label_menu_check_e202f32f:
+
+    # ch_Name "Is this succubus afraid of something? What if she wants to lure Audrey into a trap?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5838
+translate russian Audrey_13_label_menu_check_16d89e85:
+
+    # ch_Name "Anybody could write this letter, me included. "
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5839
+translate russian Audrey_13_label_menu_check_3c409be6:
+
+    # ch_Name "That seems more and more strange, isn't it?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5840
+translate russian Audrey_13_label_menu_check_98697adc:
+
+    # Samantha "Well, it makes sense. I... I didn't see it like that before."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5841
+translate russian Audrey_13_label_menu_check_5b475e6a:
+
+    # ch_Name "If I were you, Audrey, I'd wait for another letter or sign."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5842
+translate russian Audrey_13_label_menu_check_16f0a1b4:
+
+    # ch_Name "One message is definitely not enough."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5845
+translate russian Audrey_13_label_menu_check_180c08a7:
+
+    # Samantha "But it's all up to you, surely. Just follow your heart's voice."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5846
+translate russian Audrey_13_label_menu_check_9ca6ba5d:
+
+    # ch_Name "But don't forget about the voice of reason, he-he."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5847
+translate russian Audrey_13_label_menu_check_2a6dafbe:
+
+    # Audrey "God, you guys... I'm so lucky to have you."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5849
+translate russian Audrey_13_label_menu_check_bb35b778:
+
+    # Audrey "Come here, baby."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5850
+translate russian Audrey_13_label_menu_check_677a7412:
+
+    # Samantha "You can always rely on us, Audrey. Whatever it is, we're here for you."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5852
+translate russian Audrey_13_label_menu_check_65268cb1:
+
+    # Audrey "Whatever it is? Then I would like a cappuccino."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5853
+translate russian Audrey_13_label_menu_check_1eb808bd:
+
+    # Samantha "Well..."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5854
+translate russian Audrey_13_label_menu_check_1b007b29:
+
+    # Audrey "Hey, I'm kidding, I'm kidding."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5856
+translate russian Audrey_13_label_menu_check_ba9cb7de:
+
+    # ch_Name "{i}(Am I an empty space...?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5857
+translate russian Audrey_13_label_menu_check_b157ffae:
+
+    # ch_Name "Yeah, great. You two are very good at hugging."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5858
+translate russian Audrey_13_label_menu_check_9f9adea0:
+
+    # Audrey "Are you jealous, [Name]?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5859
+translate russian Audrey_13_label_menu_check_d0a773ed:
+
+    # ch_Name "No, not at all... Anyway, I've got to go now."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5860
+translate russian Audrey_13_label_menu_check_3d546c28:
+
+    # Audrey "Where are you going? You do know we're not letting you leave without a hug, don't you?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5862
+translate russian Audrey_13_label_menu_check_b1527f1a:
+
+    # ch_Name "Oh, he-he-he..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5863
+translate russian Audrey_13_label_menu_check_b20c8646:
+
+    # ch_Name "{i}(That is the best hug I've ever had!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5865
+translate russian Audrey_13_label_menu_check_4269174b:
+
+    # ch_Name "{i}(Whoa! It feels even more better!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5866
+translate russian Audrey_13_label_menu_check_14710fc3:
+
+    # ch_Name "{i}(What a lovely start to my day...){/i}"
+    ch_Name ""
+
+translate russian strings:
+
+    # game/logic/events/audrey.rpy:1184
+    old "Be nice"
+    new ""
+
+    # game/logic/events/audrey.rpy:1184
+    old "Answer roughly"
+    new ""
+
+    # game/logic/events/audrey.rpy:2660
+    old "Talk tough"
+    new ""
+
+    # game/logic/events/audrey.rpy:2660
+    old "Play nice"
+    new ""
+
+    # game/logic/events/audrey.rpy:5739
+    old "Check out her boobs"
+    new ""
+
+    # game/logic/events/audrey.rpy:5809
+    old "It is better to go to the meeting"
+    new ""
+
+    # game/logic/events/audrey.rpy:5809
+    old "Advise her not to go anywhere"
+    new ""
+

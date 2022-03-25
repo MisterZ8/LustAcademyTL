@@ -10087,3 +10087,2597 @@ translate chinese strings:
     old "Don't give him the seal"
     new "别把咒印给他"
 
+# TODO: Translation updated at 2022-03-25 06:03
+
+# game/logic/events/Leona.rpy:1006
+translate chinese Leona_3_label_L_162_d5847ea3:
+
+    # ch_Name "Miss Spellman! I'm done."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2672
+translate chinese Leona_10_label_340f7938:
+
+    # ch_Name "{i}(How strange to see Jacob standing there.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2673
+translate chinese Leona_10_label_ec58bce4:
+
+    # ch_Name "{i}(As if nothing had happened.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2674
+translate chinese Leona_10_label_36daa6e1:
+
+    # ch_Name "{i}(My palms are clenching into fists in anger...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2676
+translate chinese Leona_10_label_d0b0f4f0:
+
+    # ch_Name "{i}(I'd just as soon tell him to his face what I think of him...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2677
+translate chinese Leona_10_label_f5531cb3:
+
+    # ch_Name "{i}(No, that's not why I'm here.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2678
+translate chinese Leona_10_label_088084d5:
+
+    # ch_Name "{i}(Arthur said that now Jacob would tell me the truth about my parents.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2679
+translate chinese Leona_10_label_ebd8ab27:
+
+    # ch_Name "{i}(And I won't rest until I know it.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2681
+translate chinese Leona_10_label_2b0d25a0:
+
+    # Jacob "Ehm, [Name]... I mean, mister [Surname]. How may I help you?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2682
+translate chinese Leona_10_label_fa668c70:
+
+    # Jacob "I vaguely remember what happened. But..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2683
+translate chinese Leona_10_label_c905561b:
+
+    # Jacob "I'm sorry."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2684
+translate chinese Leona_10_label_89467853:
+
+    # ch_Name "Save it. I'm not here to throw rocks at you."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2686
+translate chinese Leona_10_label_00961f2f:
+
+    # Jacob "No?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2687
+translate chinese Leona_10_label_397796af:
+
+    # Jacob "Then what was it for?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2688
+translate chinese Leona_10_label_735bdf04:
+
+    # ch_Name "You lied about my parents, didn't you?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2689
+translate chinese Leona_10_label_d35f1ab9:
+
+    # ch_Name "But you know the truth. And I want to hear it."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2691
+translate chinese Leona_10_label_f25678b8:
+
+    # Jacob "I... I was afraid you're going to ask this question."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2692
+translate chinese Leona_10_label_b76c7a74:
+
+    # Jacob "But I guess I owe you a truth after all that happened."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2693
+translate chinese Leona_10_label_785e8e01:
+
+    # ch_Name "I guess so, too."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2694
+translate chinese Leona_10_label_a9bc78aa:
+
+    # ch_Name "Start talking."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2696
+translate chinese Leona_10_label_bbb80c2b:
+
+    # Jacob "Oh..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2697
+translate chinese Leona_10_label_4307b109:
+
+    # Jacob "Let me get my thoughts together. It's not an easy subject. For both of us."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2698
+translate chinese Leona_10_label_39ca4a63:
+
+    # Jacob "I'm afraid this story may be worse than you think..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2700
+translate chinese Leona_10_label_d3fc8c95:
+
+    # ch_Name "Mister Frollo, listen..."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2701
+translate chinese Leona_10_label_f306ea32:
+
+    # ch_Name "{i}(I don't even know what to say... I didn't expect him to react so stormy.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2702
+translate chinese Leona_10_label_024df5b9:
+
+    # ch_Name "{i}(Is he so ashamed that he almost killed me?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2703
+translate chinese Leona_10_label_4ab4f869:
+
+    # ch_Name "{i}(No, it's something else...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2705
+translate chinese Leona_10_label_208e1ffb:
+
+    # ch_Name "I don't know what the story is that you're reacting that way."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2706
+translate chinese Leona_10_label_0310ec73:
+
+    # ch_Name "But whoever my parents were, I deserve to know the truth."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2708
+translate chinese Leona_10_label_45145b9b:
+
+    # ch_Name "Especially after everything I've been through because of you."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2709
+translate chinese Leona_10_label_b9f6ce61:
+
+    # ch_Name "I think I can handle any story."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2710
+translate chinese Leona_10_label_7dee1b18:
+
+    # ch_Name "So, please, tell me about them."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2712
+translate chinese Leona_10_label_b8b527b8:
+
+    # Jacob "Of course, you're right..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2713
+translate chinese Leona_10_label_d3ad7ca9:
+
+    # Jacob "But this story directly affects me."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2714
+translate chinese Leona_10_label_d2c15ca2:
+
+    # Jacob "And the more I think about it, the harder it is to remember..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2715
+translate chinese Leona_10_label_01fc273e:
+
+    # ch_Name "You have to push yourself."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2717
+translate chinese Leona_10_label_1b07cfa6:
+
+    # Jacob "It's a long story..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2718
+translate chinese Leona_10_label_db0aeba1:
+
+    # ch_Name "I have time."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2719
+translate chinese Leona_10_label_2024453f:
+
+    # Jacob "Well..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2720
+translate chinese Leona_10_label_04520b11:
+
+    # Jacob "Then let's arrange a time during the week..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2722
+translate chinese Leona_10_label_61d549fb:
+
+    # ch_Name "No way, Mr. Frollo."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2723
+translate chinese Leona_10_label_8db0163a:
+
+    # ch_Name "You can't do this to me."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2724
+translate chinese Leona_10_label_c5e2b625:
+
+    # ch_Name "You promised me the truth and you will give it to me. Now."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2726
+translate chinese Leona_10_label_7730b0a9:
+
+    # Jacob "All right. All right, uh... But not here."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2727
+translate chinese Leona_10_label_c26a6b33:
+
+    # Jacob "Follow me."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2728
+translate chinese Leona_10_label_163a3282:
+
+    # ch_Name "Your room?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2729
+translate chinese Leona_10_label_9b15ac6a:
+
+    # Jacob "No one will bother us there."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2730
+translate chinese Leona_10_label_51e4f673:
+
+    # ch_Name "Okay. Lead the way."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2732
+translate chinese Leona_10_label_6d4afa3d:
+
+    # ch_Name "{i}(I hope this isn't another trick.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2733
+translate chinese Leona_10_label_96db023e:
+
+    # ch_Name "{i}(How strange. Last time he led me up this staircase in a cloak and mask...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2734
+translate chinese Leona_10_label_29cdc5a6:
+
+    # ch_Name "{i}(And now it's like he's naked. Vulnerable. At least it seems that way.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2741
+translate chinese Leona_10_label_f1fecf9b:
+
+    # ch_Name "{i}(Jacob's room hasn't changed at all since last time.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2742
+translate chinese Leona_10_label_b9e4316a:
+
+    # ch_Name "{i}(Except it lacks that spooky, mystical atmosphere.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2743
+translate chinese Leona_10_label_519601be:
+
+    # ch_Name "{i}(Last time, this is where he convinced me that Arthur killed my parents...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2744
+translate chinese Leona_10_label_08753cc2:
+
+    # ch_Name "{i}(Symbolically, this is where I learn the truth about them. Finally.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2746
+translate chinese Leona_10_label_b0894cf5:
+
+    # Jacob "Have a seat, [Name]."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2747
+translate chinese Leona_10_label_d68d4e54:
+
+    # Jacob "Like I said, it's going to be a long story."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2748
+translate chinese Leona_10_label_cb98e895:
+
+    # ch_Name "Okay."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2750
+translate chinese Leona_10_label_74db1b4b:
+
+    # Jacob "Sorry about the mess. My memories are very tangled."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2751
+translate chinese Leona_10_label_262b0c09:
+
+    # Jacob "I've been studying my stuff all over again. Studying myself..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2752
+translate chinese Leona_10_label_78b57c24:
+
+    # ch_Name "It's fine, by my standards it's perfect cleanliness, sir."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2754
+translate chinese Leona_10_label_38003d9a:
+
+    # ch_Name "{i}(Whiskey? Well, if it helps him calm down and tell his story.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2755
+translate chinese Leona_10_label_8cf5c29d:
+
+    # ch_Name "{i}(But why two glasses? Suspicious...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2756
+translate chinese Leona_10_label_9837f0e7:
+
+    # ch_Name "{i}(Maybe it's just hospitality? But, I don't know...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2758
+translate chinese Leona_10_label_bc369896:
+
+    # Jacob "I hope you don't mind... My throat is dry."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2759
+translate chinese Leona_10_label_b58cc4d2:
+
+    # ch_Name "No problem. Anything to make it more comfortable for you."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2760
+translate chinese Leona_10_label_200ff27f:
+
+    # Jacob "Thank you."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2762
+translate chinese Leona_10_label_0e79bf06:
+
+    # Jacob "I used to be good with whiskey."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2763
+translate chinese Leona_10_label_2f3abb75:
+
+    # Jacob "But now I can barely smell it..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2765
+translate chinese Leona_10_label_183f68f2:
+
+    # Jacob "But the label says it's quality."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2766
+translate chinese Leona_10_label_e33792a7:
+
+    # Jacob "Let's see, how does it taste?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2768
+translate chinese Leona_10_label_4239230b:
+
+    # ch_Name "{i}(Just as I thought, he suggests I take a glass...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2769
+translate chinese Leona_10_label_b6f233fa:
+
+    # ch_Name "{i}(But can I trust him?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2774
+translate chinese Leona_10_label_13622f1c:
+
+    # ch_Name "{i}(Come on, why would he poison me? That's crazy.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2775
+translate chinese Leona_10_label_c0e347f4:
+
+    # ch_Name "{i}(What could possibly go wrong?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2777
+translate chinese Leona_10_label_4dbb74fb:
+
+    # ch_Name "I'd love to."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2778
+translate chinese Leona_10_label_9e4945b2:
+
+    # ch_Name "But I'm not sure I can help evaluate it."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2779
+translate chinese Leona_10_label_834c07a7:
+
+    # ch_Name "I don't really know much about whiskey."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2781
+translate chinese Leona_10_label_1619b985:
+
+    # Jacob "Heh, that's okay."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2782
+translate chinese Leona_10_label_2552c924:
+
+    # Jacob "It's simple. You have to taste the aftertaste."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2783
+translate chinese Leona_10_label_c78470ec:
+
+    # Jacob "What shall we drink to?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2784
+translate chinese Leona_10_label_5d07a9bd:
+
+    # ch_Name "The truth."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2785
+translate chinese Leona_10_label_f30f9bc8:
+
+    # Jacob "That's a good toast."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2789
+translate chinese Leona_10_label_b8d62fac:
+
+    # ch_Name "{i}(Not even considering Arthur's words...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2790
+translate chinese Leona_10_label_6c80b6c6:
+
+    # ch_Name "{i}(I'm not ready to blindly trust Jacob a second time.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2792
+translate chinese Leona_10_label_47d30b45:
+
+    # ch_Name "Thank you. I really am. But I don't drink."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2793
+translate chinese Leona_10_label_bb442d5a:
+
+    # ch_Name "I'm an athlete. You know that."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2794
+translate chinese Leona_10_label_37f1b43d:
+
+    # ch_Name "But feel free to drink in front of me."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2796
+translate chinese Leona_10_label_5b9dc306:
+
+    # Jacob "Oh... (chuckles) Yeah, well..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2797
+translate chinese Leona_10_label_0fcc2c35:
+
+    # Jacob "Athlete. Heh. Oh, well, I won't insist."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2798
+translate chinese Leona_10_label_c01db0a6:
+
+    # Jacob "I know you won't believe me, but I have no reason to poison you."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2799
+translate chinese Leona_10_label_72297a83:
+
+    # ch_Name "{i}(I guess I'm not lying very convincingly.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2800
+translate chinese Leona_10_label_9bc28c99:
+
+    # ch_Name "I trust you. Just not 100%%."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2803
+translate chinese Leona_10_label_cbc65fd5:
+
+    # Jacob "Okay, well..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2804
+translate chinese Leona_10_label_22f7a3f2:
+
+    # ch_Name "I think it's time to start talking."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2805
+translate chinese Leona_10_label_bf04c907:
+
+    # Jacob "One second."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2807
+translate chinese Leona_10_label_5d752cf9:
+
+    # ch_Name "{i}(Whoa...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2808
+translate chinese Leona_10_label_e084c144:
+
+    # ch_Name "{i}(The whole glass in one go? Wow...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2809
+translate chinese Leona_10_label_0fec771f:
+
+    # ch_Name "{i}(He's either very cool or very nervous...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2810
+translate chinese Leona_10_label_d2cb7750:
+
+    # ch_Name "Um... Is everything okay?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2812
+translate chinese Leona_10_label_180f5a7d:
+
+    # Jacob "Yes. [Name], you wanted to know about your parents."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2813
+translate chinese Leona_10_label_127b87db:
+
+    # Jacob "So now I'll tell you the story of your birth."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2814
+translate chinese Leona_10_label_1f255ad4:
+
+    # Jacob "Only now, many years later, freed from the demon's influence."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2815
+translate chinese Leona_10_label_a49d3b31:
+
+    # Jacob "I was able to put the pieces of my memories together."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2816
+translate chinese Leona_10_label_67daa766:
+
+    # Jacob "And remember how it all happened..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2823
+translate chinese Leona_10_label_f80514f1:
+
+    # Jacob "It was 18 years ago..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2824
+translate chinese Leona_10_label_25047975:
+
+    # Jacob "I'd finished working for the Ministry of Magic..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2825
+translate chinese Leona_10_label_104ef5d1:
+
+    # Jacob "I got a job at Cordale as a Defense Against the Dark Powers instructor."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2826
+translate chinese Leona_10_label_48c0642f:
+
+    # Jacob "I think it was my second or third month on the job."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2828
+translate chinese Leona_10_label_0cfe6f72:
+
+    # Jacob "As you can see, the Zaiwu are much smaller than the mighty Zouwu."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2829
+translate chinese Leona_10_label_3ecfbda4:
+
+    # Jacob "And can sometimes move on their hind legs."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2830
+translate chinese Leona_10_label_33570d93:
+
+    # Jacob "That makes them much faster. Because of this, the tactics to defend against them..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2831
+translate chinese Leona_10_label_1d9f63b5:
+
+    # Jacob "...are radically different. We'll discuss it in more detail in the next class."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2833
+translate chinese Leona_10_label_7f517a3f:
+
+    # Jacob "After the first class, I was getting ready for the next group of students as usual."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2834
+translate chinese Leona_10_label_3d5c072a:
+
+    # Jacob "That year my observations and comments were included in the textbooks."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2835
+translate chinese Leona_10_label_1c144003:
+
+    # Jacob "And I was very proud of that."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2837
+translate chinese Leona_10_label_48ef440a:
+
+    # Jacob "But I was distracted by a ringing and unusually melodious voice."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2838
+translate chinese Leona_10_label_f5fbde3c:
+
+    # Jacob "When I turned around, I realized that there was no one left in the class..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2839
+translate chinese Leona_10_label_370b1625:
+
+    # Jacob "Except me and Leonheart's student. A sophomore, Sarah [Surname]."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2841
+translate chinese Leona_10_label_dac31059:
+
+    # Jacob "She was waiting for everyone to leave so she could talk to me."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2842
+translate chinese Leona_10_label_49630e15:
+
+    # Jacob "I don't know, maybe she didn't want the other students to see."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2843
+translate chinese Leona_10_label_b2d2a5b9:
+
+    # Jacob "Or maybe she just didn't want to distract me while I was fiddling with the table..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2845
+translate chinese Leona_10_label_8b3a7670:
+
+    # Jacob "Anyway, she started talking."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2846
+translate chinese Leona_10_label_f42fb491:
+
+    # Jacob "She was so interested in the subject that she couldn't wait until the next class."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2847
+translate chinese Leona_10_label_b4c4ebcb:
+
+    # Jacob "Heh, she pelted me with questions so that all I could do was mumble confusedly."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2848
+translate chinese Leona_10_label_6fb6583b:
+
+    # Jacob "A couple of times I had to guffaw. But she seemed to enjoy it."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2850
+translate chinese Leona_10_label_1beef76b:
+
+    # Jacob "One thing led to another, and she beat it out of me, promising to study the subject in more detail."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2851
+translate chinese Leona_10_label_720a8bc5:
+
+    # Jacob "Together."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2852
+translate chinese Leona_10_label_915a10dc:
+
+    # Jacob "So we agreed to study more. At the library."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2854
+translate chinese Leona_10_label_a8474516:
+
+    # Jacob "I was over the moon. Such zeal is what I went into teaching for."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2855
+translate chinese Leona_10_label_5ae9cea1:
+
+    # Jacob "But more importantly..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2856
+translate chinese Leona_10_label_4f09cec7:
+
+    # Jacob "She was the first person I got along so well with."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2863
+translate chinese Leona_10_label_0d3f3a37:
+
+    # Jacob "We spent weeks of evenings in the library, studying books on protective magic."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2864
+translate chinese Leona_10_label_33597254:
+
+    # Jacob "We studied them from cover to cover, taking notes, debating."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2865
+translate chinese Leona_10_label_afb4e0a6:
+
+    # Jacob "Even though I was the teacher and she was the student..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2866
+translate chinese Leona_10_label_3a0fd6b5:
+
+    # Jacob "She was not at all inferior to me in her knowledge or in her willingness to defend her opinion."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2867
+translate chinese Leona_10_label_8cfa1394:
+
+    # Jacob "And there was another spark in the fire of heated arguments..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2869
+translate chinese Leona_10_label_8d2eb7c7:
+
+    # Jacob "We fell in love."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2870
+translate chinese Leona_10_label_e5a93e5d:
+
+    # ch_Name "{i}(What the...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2871
+translate chinese Leona_10_label_ebc8c81e:
+
+    # Jacob "We didn't realize it right away."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2873
+translate chinese Leona_10_label_ff72b0ec:
+
+    # Jacob "But more and more often, our eyes didn't linger on books."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2874
+translate chinese Leona_10_label_3e1d1471:
+
+    # Jacob "But on each other."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2875
+translate chinese Leona_10_label_b06da8c1:
+
+    # Jacob "And more and more often, the topic of conversation was not protective barriers..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2882
+translate chinese Leona_10_label_567f6215:
+
+    # Jacob "The teacher-student relationship was always judgmental."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2883
+translate chinese Leona_10_label_41e99db0:
+
+    # Jacob "So we could only be ourselves in the magic forest."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2884
+translate chinese Leona_10_label_a2eebd03:
+
+    # Jacob "Every chance we got, we'd run there..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2886
+translate chinese Leona_10_label_78dc446f:
+
+    # Jacob "I'd pick her wildflowers..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2887
+translate chinese Leona_10_label_0fe5295c:
+
+    # Jacob "She made incredibly delicious sandwiches..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2888
+translate chinese Leona_10_label_80f50345:
+
+    # Jacob "I'd read drafts of my research papers on barrier spells."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2889
+translate chinese Leona_10_label_68f10330:
+
+    # Jacob "And she was reading me her poems."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2891
+translate chinese Leona_10_label_1ec0fb10:
+
+    # Jacob "Before I met her, all I thought about was work."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2892
+translate chinese Leona_10_label_ab29d881:
+
+    # Jacob "But Sarah taught me to love life."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2893
+translate chinese Leona_10_label_e487f5f2:
+
+    # Jacob "And to enjoy even the little things, like watching the clouds."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2900
+translate chinese Leona_10_label_13ace727:
+
+    # Jacob "Just a second, I need to refill my drink..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2901
+translate chinese Leona_10_label_b2c4d0ed:
+
+    # Jacob "I think you already guessed that, didn't you?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2902
+translate chinese Leona_10_label_240758af:
+
+    # ch_Name "Jacob... Are you saying that you..."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2903
+translate chinese Leona_10_label_92b6df6f:
+
+    # Jacob "Yes... But let me finish the story."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2910
+translate chinese Leona_10_label_88ee1058:
+
+    # Jacob "Sarah may have taught me to love life, but I already had a passion."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2911
+translate chinese Leona_10_label_ff854c4d:
+
+    # Jacob "I believed I could write a new page in the history of barrier magic."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2912
+translate chinese Leona_10_label_8861cc8a:
+
+    # Jacob "And I never gave up on my research. Not for a day."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2913
+translate chinese Leona_10_label_9359cc31:
+
+    # Jacob "That day, I walked Sarah to campus."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2914
+translate chinese Leona_10_label_9d567381:
+
+    # Jacob "Even went inside, even though we risked being seen together."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2916
+translate chinese Leona_10_label_e4f246d0:
+
+    # Jacob "Then I headed to my lab."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2917
+translate chinese Leona_10_label_add70635:
+
+    # Jacob "I needed a quiet place where I could test the new slaughterhouse."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2918
+translate chinese Leona_10_label_9839e2d8:
+
+    # Jacob "And I didn't want to make too much noise and attract the director's attention."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2919
+translate chinese Leona_10_label_546eb157:
+
+    # Jacob "So I found a suitable abandoned building. Not far from the academy."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2921
+translate chinese Leona_10_label_bdbc14e7:
+
+    # Jacob "It was some old sanctuary."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2922
+translate chinese Leona_10_label_553d961a:
+
+    # Jacob "Half an hour's walk from the campuses."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2929
+translate chinese Leona_10_label_ce6c5069:
+
+    # Jacob "Like any young wizard, I thought I was smarter than everyone else."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2930
+translate chinese Leona_10_label_ae6ed94b:
+
+    # Jacob "I thought I could create the perfect barrier."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2931
+translate chinese Leona_10_label_63877818:
+
+    # Jacob "And I knew how I could defeat others."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2933
+translate chinese Leona_10_label_c2177b31:
+
+    # Jacob "You see, when creating a spell, all wizards test it with each other."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2934
+translate chinese Leona_10_label_98ab2b27:
+
+    # Jacob "But a wizard's arsenal is limited."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2935
+translate chinese Leona_10_label_b066df21:
+
+    # Jacob "And they never attack at full strength. They don't really want to kill you."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2936
+translate chinese Leona_10_label_0e63344c:
+
+    # Jacob "So how can they understand the true limits of barriers if I don't hit at full force?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2938
+translate chinese Leona_10_label_0964a1f7:
+
+    # Jacob "I've been testing my barriers against real monsters."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2939
+translate chinese Leona_10_label_6578dca1:
+
+    # Jacob "Against ancient and dangerous creatures from other dimensions."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2940
+translate chinese Leona_10_label_2712ba8a:
+
+    # Jacob "I learned how to summon them... Control them."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2941
+translate chinese Leona_10_label_b659d812:
+
+    # Jacob "That's what I thought."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2943
+translate chinese Leona_10_label_a53a0792:
+
+    # Jacob "Time after time, my spells protected me from their influence."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2944
+translate chinese Leona_10_label_32e8d7aa:
+
+    # Jacob "And suppressed the will of those things."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2945
+translate chinese Leona_10_label_cd93fa31:
+
+    # Jacob "What's more, I learned how to redirect their power against themselves."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2946
+translate chinese Leona_10_label_4b52fb27:
+
+    # Jacob "My barriers not only protected the caster, but also repelled attacks on the enemy."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2947
+translate chinese Leona_10_label_a16d5d2a:
+
+    # Jacob "Ullimate Defense..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2949
+translate chinese Leona_10_label_026b60f1:
+
+    # Jacob "How pitifully they wriggled in their final seconds."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2950
+translate chinese Leona_10_label_f0452b43:
+
+    # Jacob "Before the life left them."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2951
+translate chinese Leona_10_label_90c3b1ef:
+
+    # Jacob "I could already see the delight on the Minister of Magic's face when I taught this spell to the Special Forces."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2952
+translate chinese Leona_10_label_29292f9a:
+
+    # Jacob "But..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2954
+translate chinese Leona_10_label_6b11664f:
+
+    # Jacob "I was too impatient."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2955
+translate chinese Leona_10_label_95240c80:
+
+    # Jacob "In another attempt to raise the bar..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2956
+translate chinese Leona_10_label_5bacdca5:
+
+    # Jacob "I overdid it."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2957
+translate chinese Leona_10_label_1c982f96:
+
+    # Jacob "I was sure my spell was invincible."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2958
+translate chinese Leona_10_label_513e520f:
+
+    # Jacob "I thought they were mindless, aggressive, dangerous monsters."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2960
+translate chinese Leona_10_label_2bec3262:
+
+    # Jacob "Beasts incapable of learning."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2961
+translate chinese Leona_10_label_3aa65a8e:
+
+    # Jacob "And I wanted to test my spell on their ancestor."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2962
+translate chinese Leona_10_label_583e3de6:
+
+    # Jacob "The Overlord..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2963
+translate chinese Leona_10_label_c3e9f3c8:
+
+    # Jacob "I was able to summon him. It wasn't easy, but."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2964
+translate chinese Leona_10_label_93e6c756:
+
+    # Jacob "I used the Seal of Katrina that Arthur entrusted me to keep."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2966
+translate chinese Leona_10_label_c5fdb05d:
+
+    # Jacob "But when I tried to apply the barrier... It didn't work."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2967
+translate chinese Leona_10_label_5b49c2ee:
+
+    # Jacob "Every time I summoned these creatures, they studied me."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2968
+translate chinese Leona_10_label_209159fb:
+
+    # Jacob "Gathering information about my magic."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2969
+translate chinese Leona_10_label_5fa70142:
+
+    # Jacob "And the Lord was ready for whatever I had prepared."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2970
+translate chinese Leona_10_label_718b222b:
+
+    # Jacob "And before I could do anything, he grabbed me..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2977
+translate chinese Leona_10_label_9d6ab023:
+
+    # Jacob "I'm sorry, um..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2978
+translate chinese Leona_10_label_06b6b76c:
+
+    # Jacob "I need a drink."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2979
+translate chinese Leona_10_label_6fbcf163:
+
+    # Jacob "After that... My thoughts, my memories... They're not just mine."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2980
+translate chinese Leona_10_label_c5ef471c:
+
+    # Jacob "The Lord has moved into my body and mind."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2981
+translate chinese Leona_10_label_20bc544b:
+
+    # Jacob "A part of him fused with me, sucking on my soul."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2982
+translate chinese Leona_10_label_3c989d3f:
+
+    # Jacob "And began to poison it."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2989
+translate chinese Leona_10_label_e2c9542e:
+
+    # Jacob "For the first few hours, there was a struggle inside for my body."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2990
+translate chinese Leona_10_label_f6468a9c:
+
+    # Jacob "And I knew I couldn't win alone."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2991
+translate chinese Leona_10_label_01960eaf:
+
+    # Jacob "I somehow made my way back to the campuses and headed to Sarah's room for help."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2993
+translate chinese Leona_10_label_4cb810c5:
+
+    # Jacob "But when I got to her room..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2994
+translate chinese Leona_10_label_15ea789c:
+
+    # Jacob "I wasn't myself."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2995
+translate chinese Leona_10_label_da27be2c:
+
+    # Jacob "My mind was clinging to my attachment to Sarah."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2996
+translate chinese Leona_10_label_c5b407d4:
+
+    # Jacob "But I had no control over my thoughts and actions."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2998
+translate chinese Leona_10_label_0dac3f94:
+
+    # Jacob "Like an animal that smells its prey."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2999
+translate chinese Leona_10_label_b6895ebc:
+
+    # Jacob "I jumped up to her bed..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3000
+translate chinese Leona_10_label_8373703d:
+
+    # Jacob "I started pulling the blanket off the unsuspecting girl..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3002
+translate chinese Leona_10_label_084e3d97:
+
+    # Jacob "Sarah woke up from the noise and looked at me bewildered."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3003
+translate chinese Leona_10_label_0c745705:
+
+    # Jacob "At first she did not understand what was happening."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3004
+translate chinese Leona_10_label_a7914332:
+
+    # Jacob "She asked me something, but I don't remember if I answered..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3005
+translate chinese Leona_10_label_681c3a16:
+
+    # Jacob "I think that even if I tried... I couldn't get the human words out."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3007
+translate chinese Leona_10_label_9c44e2fa:
+
+    # Jacob "Then she met my eyes."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3008
+translate chinese Leona_10_label_0ebfaa62:
+
+    # Jacob "And she was terrified."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3009
+translate chinese Leona_10_label_2401d918:
+
+    # Jacob "She realized that it wasn't Jacob she knew..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3011
+translate chinese Leona_10_label_57c836e5:
+
+    # Jacob "She tried to scream, but I put my hand over her mouth."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3012
+translate chinese Leona_10_label_b0a75c9d:
+
+    # Jacob "She tried to fight back, but I was stronger."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3013
+translate chinese Leona_10_label_8934f49c:
+
+    # Jacob "She begged, but I couldn't understand her words..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3014
+translate chinese Leona_10_label_c185f858:
+
+    # Jacob "..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3021
+translate chinese Leona_10_label_abf29690:
+
+    # Jacob "I don't remember what happened when I was done with her."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3022
+translate chinese Leona_10_label_69ac1788:
+
+    # Jacob "But when I woke up in my office a few days later..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3023
+translate chinese Leona_10_label_af11abd8:
+
+    # Jacob "I found out that Sara [Surname] had escaped from the academy."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3024
+translate chinese Leona_10_label_8e900b31:
+
+    # Jacob "After an unknown person raped her right in her room..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3026
+translate chinese Leona_10_label_b360d120:
+
+    # ch_Name "{i}(I can't believe it... It's too much. It's all too much...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3027
+translate chinese Leona_10_label_b687aec2:
+
+    # ch_Name "But... How? Why didn't anyone find out?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3028
+translate chinese Leona_10_label_53e1baf9:
+
+    # ch_Name "What happened next?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3030
+translate chinese Leona_10_label_edf0f919:
+
+    # Jacob "I'm not sure... But I think I threatened to kill her if anyone found out."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3031
+translate chinese Leona_10_label_dd26ed50:
+
+    # Jacob "And she ran away without telling anyone."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3032
+translate chinese Leona_10_label_b619b4bb:
+
+    # Jacob "But by then, I didn't care. I wasn't me anymore..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3033
+translate chinese Leona_10_label_fdf6f759:
+
+    # Jacob "I didn't even know she was pregnant."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3034
+translate chinese Leona_10_label_a6df1151:
+
+    # Jacob "And that she died in childbirth..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3036
+translate chinese Leona_10_label_d84056d1:
+
+    # ch_Name "But I... But how so?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3037
+translate chinese Leona_10_label_213abdc7:
+
+    # ch_Name "You didn't even know I existed?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3038
+translate chinese Leona_10_label_2dd93036:
+
+    # Jacob "I didn't know..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3040
+translate chinese Leona_10_label_4242b120:
+
+    # Jacob "When I saw [Surname] on the list at the train station for the first time in years..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3041
+translate chinese Leona_10_label_a7590f53:
+
+    # Jacob "I didn't even recognize it right away..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3042
+translate chinese Leona_10_label_c893b28f:
+
+    # Jacob "But you must understand, my mind has been suppressed by the Lord's will..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3044
+translate chinese Leona_10_label_718cc92e:
+
+    # ch_Name "You must understand?!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3045
+translate chinese Leona_10_label_9dc5d2b8:
+
+    # ch_Name "Uh... No way. It's not something you can just pick up and understand."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3046
+translate chinese Leona_10_label_802ebba7:
+
+    # ch_Name "I need to process this. I need to be on my own, I'm sorry."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3048
+translate chinese Leona_10_label_7231d87d:
+
+    # Jacob "Wait, wait, wait, wait, wait, wait."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3049
+translate chinese Leona_10_label_fa8912f3:
+
+    # Jacob "I get it."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3050
+translate chinese Leona_10_label_9d9d87f5:
+
+    # Jacob "And I understand that I don't really have to ask you to forgive me..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3051
+translate chinese Leona_10_label_7dd90eb9:
+
+    # Jacob "But I do have something for you."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3053
+translate chinese Leona_10_label_646c6212:
+
+    # Jacob "Here."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3054
+translate chinese Leona_10_label_168ef2c8:
+
+    # ch_Name "{i}(It's a...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3056
+translate chinese Leona_10_label_13afaa9c:
+
+    # ch_Name "{i}(The Lion's seal!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3057
+translate chinese Leona_10_label_d0048e77:
+
+    # ch_Name "{i}(I thought it was lost!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3058
+translate chinese Leona_10_label_4d64e3e0:
+
+    # ch_Name "{i}(Wait a minute, he's not going to...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3060
+translate chinese Leona_10_label_27cb352f:
+
+    # ch_Name "Careful with that thing!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3061
+translate chinese Leona_10_label_65af6cab:
+
+    # ch_Name "Don't point it at me!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3063
+translate chinese Leona_10_label_5b12fd43:
+
+    # Jacob "Whoa-whoa, kid, don't panic."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3064
+translate chinese Leona_10_label_c933c3c4:
+
+    # Jacob "I won't paralyze you with it like I did last time."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3065
+translate chinese Leona_10_label_6485deba:
+
+    # Jacob "I'm a different person now."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3066
+translate chinese Leona_10_label_8e83d449:
+
+    # Jacob "And it's not very paternal, is it?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3068
+translate chinese Leona_10_label_bb84b840:
+
+    # ch_Name "{i}(Is he kidding me?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3069
+translate chinese Leona_10_label_627798e7:
+
+    # ch_Name "It's too early for that kind of joke..."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3070
+translate chinese Leona_10_label_19aad962:
+
+    # Jacob "You're right."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3071
+translate chinese Leona_10_label_82500ecd:
+
+    # Jacob "Still, please take the Seal back. Give it back to its rightful owner."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3073
+translate chinese Leona_10_label_564bec72:
+
+    # ch_Name "Well... Very well."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3074
+translate chinese Leona_10_label_49cdef6f:
+
+    # ch_Name "But only because Leona will be happy to have her artifact back."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3076
+translate chinese Leona_10_label_9205fa50:
+
+    # ch_Name "{i}(Hmm, the Seal vibrates stronger than before.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3077
+translate chinese Leona_10_label_171ab9d1:
+
+    # ch_Name "{i}(As if it gained strength after being used by Jacob.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3078
+translate chinese Leona_10_label_4b0cb009:
+
+    # ch_Name "{i}(Hopefully Leona knows what to do with this excess power.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3080
+translate chinese Leona_10_label_85f0d702:
+
+    # ch_Name "Goodbye, Jacob."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3081
+translate chinese Leona_10_label_ab72a251:
+
+    # ch_Name "Thank you for telling me the truth."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3083
+translate chinese Leona_10_label_8e183fd6:
+
+    # Jacob "It was the right thing to do. I'm sorry she's so..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3084
+translate chinese Leona_10_label_911e18d9:
+
+    # Jacob "I know you need time, but know this."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3085
+translate chinese Leona_10_label_c28cd17f:
+
+    # Jacob "My door is always open to you."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3087
+translate chinese Leona_10_label_8bb40f7b:
+
+    # ch_Name "Okay, well... Maybe I'll consider coming."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3088
+translate chinese Leona_10_label_facdbb47:
+
+    # ch_Name "But I'm warning you, don't expect me to start calling you daddy."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3100
+translate chinese Leona_11_label_c6ff9c13:
+
+    # ch_Name "{i}(It's time to give Leona her Seal back.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3101
+translate chinese Leona_11_label_9658f197:
+
+    # ch_Name "{i}(How much trouble such a little thing can cause...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3102
+translate chinese Leona_11_label_4582f8a8:
+
+    # ch_Name "{i}(It's all my fault.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3103
+translate chinese Leona_11_label_2812d5d9:
+
+    # ch_Name "{i}(How could I have been so gullible?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3104
+translate chinese Leona_11_label_77d15188:
+
+    # ch_Name "{i}(Leona warned me that the Seal was dangerous in the wrong hands...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3106
+translate chinese Leona_11_label_7d956bac:
+
+    # ch_Name "{i}(This place seems so quiet and peaceful now...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3107
+translate chinese Leona_11_label_946beb25:
+
+    # ch_Name "{i}(But when I think back...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3109
+translate chinese Leona_11_label_2aa9fc86:
+
+    # ch_Name "{i}(Jacob so easily defeated Victoria's spell.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3110
+translate chinese Leona_11_label_b08314e7:
+
+    # ch_Name "{i}(As if she were an inexperienced student rather than one of the academy's strongest mages.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3111
+translate chinese Leona_11_label_518accce:
+
+    # ch_Name "{i}(It seemed unstoppable...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3113
+translate chinese Leona_11_label_9c1b1c85:
+
+    # ch_Name "{i}(All thanks to this thing.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3114
+translate chinese Leona_11_label_0b729792:
+
+    # ch_Name "{i}(It looks like an ordinary box...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3116
+translate chinese Leona_11_label_f74fdef8:
+
+    # ch_Name "{i}(Another moment...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3117
+translate chinese Leona_11_label_abd5c5e5:
+
+    # ch_Name "{i}(If I didn't have time...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3119
+translate chinese Leona_11_label_b0fbbbc5:
+
+    # ch_Name "{i}(If he'd been able to point it at me...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3120
+translate chinese Leona_11_label_60f7aae3:
+
+    # ch_Name "{i}(We'd all be dead by now.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3121
+translate chinese Leona_11_label_3abf31db:
+
+    # ch_Name "{i}(Uh...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3122
+translate chinese Leona_11_label_ffb2156c:
+
+    # ch_Name "{i}(Even the memory gives me goosebumps.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3124
+translate chinese Leona_11_label_90d829e1:
+
+    # ch_Name "{i}(But the Seal doesn't have to be used for evil.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3125
+translate chinese Leona_11_label_2db4be23:
+
+    # ch_Name "{i}(Just imagine how much good could be done.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3126
+translate chinese Leona_11_label_59d1f0e3:
+
+    # ch_Name "{i}(Although... There's a reason they hid it away, isn't there?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3127
+translate chinese Leona_11_label_c96a9283:
+
+    # ch_Name "{i}(Leona, with her wisdom, can see better than I can.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3129
+translate chinese Leona_11_label_0bc04d4f:
+
+    # ch_Name "{i}(Well, let's see. Last time, to summon her, I...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3130
+translate chinese Leona_11_label_8514f172:
+
+    # ch_Name "{i}(I opened a page with house symbols.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3131
+translate chinese Leona_11_label_4a710304:
+
+    # ch_Name "{i}(I hope this works.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3133
+translate chinese Leona_11_label_cf7ae1de:
+
+    # ch_Name "{i}(Hmm... Weird.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3134
+translate chinese Leona_11_label_50f9e4f7:
+
+    # ch_Name "{i}(Usually you touch her and she's right there.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3135
+translate chinese Leona_11_label_b630459d:
+
+    # ch_Name "{i}(Maybe she's busy with something.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3137
+translate chinese Leona_11_label_8a19cbd8:
+
+    # ch_Name "{i}...{/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3138
+translate chinese Leona_11_label_29d27f54:
+
+    # ch_Name "{i}(It worked!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3140
+translate chinese Leona_11_label_0c0da4e0:
+
+    # ch_Name "Leona!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3141
+translate chinese Leona_11_label_03972776:
+
+    # ch_Name "It's so good to see you!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3142
+translate chinese Leona_11_label_30b478d5:
+
+    # ch_Name "You seem a little... different."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3144
+translate chinese Leona_11_label_edd471b0:
+
+    # Leona "Am I?"
+    Leona ""
+
+# game/logic/events/Leona.rpy:3145
+translate chinese Leona_11_label_f7444d93:
+
+    # Leona "What's wrong with me?"
+    Leona ""
+
+# game/logic/events/Leona.rpy:3146
+translate chinese Leona_11_label_8ac87752:
+
+    # ch_Name "You're kidding, right?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3147
+translate chinese Leona_11_label_4751def4:
+
+    # ch_Name "You look like I'm taking an exam again."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3149
+translate chinese Leona_11_label_739fdbf3:
+
+    # Leona "Oh, you mean that..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3150
+translate chinese Leona_11_label_bbe175e6:
+
+    # Leona "I guess I don't have the strength to keep up my \"live\" form anymore."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3151
+translate chinese Leona_11_label_f7bb05ba:
+
+    # ch_Name "No strength? What do you mean?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3152
+translate chinese Leona_11_label_6e42c9ac:
+
+    # Leona "The thing is, right now my soul is a little bit... eating away at me."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3153
+translate chinese Leona_11_label_d13167d6:
+
+    # Leona "Well, that's the price teachers pay for students' mistakes."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3155
+translate chinese Leona_11_label_81cdf012:
+
+    # ch_Name "Is this... Is this happening because of me?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3156
+translate chinese Leona_11_label_312c9cd3:
+
+    # ch_Name "Because Jacob used the Seal?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3157
+translate chinese Leona_11_label_95c258d2:
+
+    # Leona "Well, you could say that..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3158
+translate chinese Leona_11_label_de067692:
+
+    # ch_Name "I'm... I'm so sorry. I thought I was doing the right thing, but..."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3160
+translate chinese Leona_11_label_4f7805d3:
+
+    # Leona "I never doubted your motives, honey."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3161
+translate chinese Leona_11_label_5575b5ea:
+
+    # Leona "But you have to trust me more."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3162
+translate chinese Leona_11_label_010ec342:
+
+    # Leona "I warned you this would happen."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3164
+translate chinese Leona_11_label_c4be18b0:
+
+    # ch_Name "You knew everything, but you gave me the Seal anyway?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3165
+translate chinese Leona_11_label_7d395a3b:
+
+    # Leona "Well, not everything... But I assumed."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3166
+translate chinese Leona_11_label_66bafc1e:
+
+    # ch_Name "But then why give me the Seal?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3168
+translate chinese Leona_11_label_c5a0ed64:
+
+    # Leona "You have to learn and become stronger, [Name]."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3169
+translate chinese Leona_11_label_3ca87c41:
+
+    # Leona "I chose to believe that you could do it. And you believed in yourself too, didn't you?"
+    Leona ""
+
+# game/logic/events/Leona.rpy:3170
+translate chinese Leona_11_label_2147d9f8:
+
+    # Leona "Otherwise we wouldn't be having this conversation right now."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3171
+translate chinese Leona_11_label_5ca23958:
+
+    # ch_Name "I guess... But what do we do now?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3172
+translate chinese Leona_11_label_17a72234:
+
+    # Leona "For starters, do you have the Seal?"
+    Leona ""
+
+# game/logic/events/Leona.rpy:3173
+translate chinese Leona_11_label_64e49a8b:
+
+    # ch_Name "Yes."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3174
+translate chinese Leona_11_label_2a91b64c:
+
+    # Leona "I'd like it back."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3176
+translate chinese Leona_11_label_8c643af7:
+
+    # ch_Name "Of course, you would."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3177
+translate chinese Leona_11_label_a0a8fe6b:
+
+    # ch_Name "It seems to have been infused with power by Jacob's ritual."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3178
+translate chinese Leona_11_label_d0dd35e6:
+
+    # ch_Name "It vibrates so much, it's hard to hold it in your hand."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3180
+translate chinese Leona_11_label_8c1d6dd0:
+
+    # Leona "You're wrong, [Name]."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3181
+translate chinese Leona_11_label_01de78a3:
+
+    # Leona "It's soaked with power from you."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3182
+translate chinese Leona_11_label_c53a802b:
+
+    # Leona "Are you ready?"
+    Leona ""
+
+# game/logic/events/Leona.rpy:3183
+translate chinese Leona_11_label_80c9c2bc:
+
+    # ch_Name "For what?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3185
+translate chinese Leona_11_label_e87ea94a:
+
+    # Leona "..." with vpunch
+    Leona "" with vpunch
+
+# game/logic/events/Leona.rpy:3186
+translate chinese Leona_11_label_10b3a18e:
+
+    # ch_Name "FOR WHAT?!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3187
+translate chinese Leona_11_label_0e1f6871:
+
+    # Leona "To save me, of course..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3189
+translate chinese Leona_11_label_8ba3b2a5:
+
+    # ch_Name "Whoa... Where am I? Is this the forest?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3190
+translate chinese Leona_11_label_c86b8837:
+
+    # ch_Name "And where's Leona?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3191
+translate chinese Leona_11_label_3b854b6c:
+
+    # ch_Name "Hey... Leona! What's going on?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3193
+translate chinese Leona_11_label_a3238145:
+
+    # ch_Name "Hello?!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3194
+translate chinese Leona_11_label_b02eb245:
+
+    # ch_Name "Can anybody hear me?!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3195
+translate chinese Leona_11_label_a3238145_1:
+
+    # ch_Name "Hello?!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3196
+translate chinese Leona_11_label_aa1f0732:
+
+    # ch_Name "{i}(Damn her! Where the hell is Leona?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3198
+translate chinese Leona_11_label_6cc30a96:
+
+    # Leona "Help! Here!"
+    Leona ""
+
+# game/logic/events/Leona.rpy:3199
+translate chinese Leona_11_label_247786fe:
+
+    # ch_Name "{i}(That's Leona's voice! It's coming from over there.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3200
+translate chinese Leona_11_label_0298cea3:
+
+    # ch_Name "{i}(What the hell is going on out there?! We have to find out.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3207
+translate chinese Leona_11_label_a599990e:
+
+    # ch_Name "{i}(WHAT THE HELL?!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3208
+translate chinese Leona_11_label_9e257a1d:
+
+    # ch_Name "Leona?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3209
+translate chinese Leona_11_label_c3d4cbcc:
+
+    # Leona "[Name], hurry up, this way!"
+    Leona ""
+
+# game/logic/events/Leona.rpy:3210
+translate chinese Leona_11_label_21107fad:
+
+    # Leona "We don't have much, uh... time!"
+    Leona ""
+
+# game/logic/events/Leona.rpy:3212
+translate chinese Leona_11_label_55489556:
+
+    # ch_Name "{i}(Katrina is also entangled in tentacles...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3213
+translate chinese Leona_11_label_3c5d2cd4:
+
+    # ch_Name "{i}(All the foundresses seem to be in trouble. Damn!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3214
+translate chinese Leona_11_label_649da0df:
+
+    # ch_Name "{i}(What to do?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3216
+translate chinese Leona_11_label_57c5c127:
+
+    # ch_Name "{i}(Okay, Leona first!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3217
+translate chinese Leona_11_label_a6049aee:
+
+    # ch_Name "Leona, I'm coming!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3219
+translate chinese Leona_11_label_2a5c2d01:
+
+    # ch_Name "Damn mutant octopus, I'll show you!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3220
+translate chinese Leona_11_label_e01266b8:
+
+    # ch_Name "Leona, the Seal... How do I use it?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3221
+translate chinese Leona_11_label_a420ed26:
+
+    # Leona "Point it at him and direct it..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3223
+translate chinese Leona_11_label_3ac95f6d:
+
+    # ch_Name "{i}(Come on... Work!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3224
+translate chinese Leona_11_label_35a39048:
+
+    # Leona "Tell it with your heart, not with your head, you fool!"
+    Leona ""
+
+# game/logic/events/Leona.rpy:3225
+translate chinese Leona_11_label_3547d57f:
+
+    # ch_Name "{i}(With your heart... Shit... Gotta get it together. Yeah. I can do it. Get it!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3227
+translate chinese Leona_11_label_05b7181c:
+
+    # ch_Name "Is it working? It's working!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3228
+translate chinese Leona_11_label_ac028e87:
+
+    # ch_Name "I'm doing it, Leona!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3229
+translate chinese Leona_11_label_a0a034ae:
+
+    # ch_Name "I think I'm doing it!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3230
+translate chinese Leona_11_label_61eb37fe:
+
+    # Leona "Oof..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3232
+translate chinese Leona_11_label_5dc20efd:
+
+    # Leona "Oh, [Name]... Thank you!"
+    Leona ""
+
+# game/logic/events/Leona.rpy:3233
+translate chinese Leona_11_label_cf4ebe12:
+
+    # Leona "I knew you'd come..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3234
+translate chinese Leona_11_label_b7caf936:
+
+    # Leona "I prayed..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3236
+translate chinese Leona_11_label_ad6baa17:
+
+    # ch_Name "What are you... You're the one who brought me."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3237
+translate chinese Leona_11_label_887f3b5d:
+
+    # Leona "I... I don't remember. We were all held captive by him, [Name]."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3238
+translate chinese Leona_11_label_912a600d:
+
+    # Leona "Perhaps a part of me connected to you cried out for help. And you heard it."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3239
+translate chinese Leona_11_label_69137166:
+
+    # Katrina "Khee-khee..."
+    Katrina ""
+
+# game/logic/events/Leona.rpy:3241
+translate chinese Leona_11_label_8a4c467d:
+
+    # ch_Name "{i}(Katrina!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3242
+translate chinese Leona_11_label_3c3ce99b:
+
+    # ch_Name "We need to help the others!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3243
+translate chinese Leona_11_label_53349383:
+
+    # ch_Name "Katrina, I'm coming!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3245
+translate chinese Leona_11_label_0d486320:
+
+    # ch_Name "Eat it, monster!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3246
+translate chinese Leona_11_label_16c5718f:
+
+    # ch_Name "You like the power of the Seal, huh?!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3247
+translate chinese Leona_11_label_6270dfbc:
+
+    # ch_Name "Hey... Why doesn't that thing work for him anymore?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3249
+translate chinese Leona_11_label_4e7dfbcf:
+
+    # ch_Name "Leona! Help me!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3250
+translate chinese Leona_11_label_b1fc04d5:
+
+    # ch_Name "We have to free Katrina!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3251
+translate chinese Leona_11_label_0593f081:
+
+    # ch_Name "The Seal doesn't work..."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3253
+translate chinese Leona_11_label_c73bdef6:
+
+    # Leona "It can't work."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3254
+translate chinese Leona_11_label_4cc2874a:
+
+    # ch_Name "But how... Why can't it?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3255
+translate chinese Leona_11_label_5e5174cd:
+
+    # Leona "The Seal of House Leonheart is my relic."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3256
+translate chinese Leona_11_label_9ff23725:
+
+    # Leona "The bonds that bind me and this Seal are stronger than any creature."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3258
+translate chinese Leona_11_label_e3dc16f8:
+
+    # Leona "The souls of Katrina, Jaina and Frida are not bound to my Seal."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3259
+translate chinese Leona_11_label_1d59d59a:
+
+    # Leona "We can't help them now..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3260
+translate chinese Leona_11_label_43d35896:
+
+    # ch_Name "But we have to do something."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3261
+translate chinese Leona_11_label_959eab5d:
+
+    # ch_Name "We can't abandon them."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3263
+translate chinese Leona_11_label_9aaa10d9:
+
+    # Leona "And we won't leave them."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3264
+translate chinese Leona_11_label_8e60f25b:
+
+    # Leona "I will stay here and keep them alive. Keep the Keeper in check."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3265
+translate chinese Leona_11_label_37a1be6c:
+
+    # Leona "And you'll go in search of their artifacts."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3267
+translate chinese Leona_11_label_71328b74:
+
+    # ch_Name "That's a great idea, but..."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3268
+translate chinese Leona_11_label_7ebbb34e:
+
+    # ch_Name "How do I find them?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3270
+translate chinese Leona_11_label_bec76127:
+
+    # Leona "Arthur will help you. He must know what Jacob's stunt led to."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3271
+translate chinese Leona_11_label_70204a04:
+
+    # Leona "But don't think it's going to be that easy."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3272
+translate chinese Leona_11_label_6fb56db2:
+
+    # Leona "The lines between the worlds have been crossed and the lord's henchmen..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3273
+translate chinese Leona_11_label_3aa20974:
+
+    # Leona "...will be looking for artifacts as well."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3274
+translate chinese Leona_11_label_476b4eb6:
+
+    # Leona "After all, with them, he can finish absorbing our souls."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3275
+translate chinese Leona_11_label_a08fb250:
+
+    # Leona "And the world will fall into chaos."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3277
+translate chinese Leona_11_label_82c8caf6:
+
+    # Leona "But I'm sure you won't let that happen."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3278
+translate chinese Leona_11_label_58b317dd:
+
+    # Leona "Now, it's time for you to go back..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3279
+translate chinese Leona_11_label_8389e2f6:
+
+    # ch_Name "Are you sure you can handle it here? Should I get someone to help?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3280
+translate chinese Leona_11_label_b5bf920b:
+
+    # Leona "A mortal can't stay in this place for long."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3281
+translate chinese Leona_11_label_c2f6020d:
+
+    # Leona "Otherwise, he'd be easy prey for the Keeper."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3283
+translate chinese Leona_11_label_e472521b:
+
+    # Leona "I have to do this on my own. And I will."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3284
+translate chinese Leona_11_label_5df206f9:
+
+    # Leona "It gives me strength to believe that you can do your job."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3285
+translate chinese Leona_11_label_21dd86c5:
+
+    # ch_Name "Thank you, Leona. I won't let you down."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3286
+translate chinese Leona_11_label_8fb86c74:
+
+    # Leona "Goodbye..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3288
+translate chinese Leona_11_label_9328f9c3:
+
+    # ch_Name "Whoa..."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3289
+translate chinese Leona_11_label_331373d2:
+
+    # ch_Name "{i}(What the hell...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3290
+translate chinese Leona_11_label_c26ae946:
+
+    # ch_Name "{i}(If I don't stop the Overlord, all the founders...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3291
+translate chinese Leona_11_label_2ce1a75e:
+
+    # ch_Name "{i}(Die.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3293
+translate chinese Leona_11_label_58ef0d59:
+
+    # ch_Name "{i}(Oh, I've got a lot to do...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3294
+translate chinese Leona_11_label_769cc1ee:
+
+    # ch_Name "{i}(Well, [Name], you always wanted to be a hero.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3295
+translate chinese Leona_11_label_b02e5a99:
+
+    # ch_Name "{i}(Time to be one.){/i}"
+    ch_Name ""
+
+translate chinese strings:
+
+    # game/logic/events/Leona.rpy:2770
+    old "Do not accept the drink"
+    new ""
+

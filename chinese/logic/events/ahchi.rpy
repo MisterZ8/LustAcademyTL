@@ -3879,3 +3879,11 @@ translate chinese CF_S3_label_502169ac:
     # ch_Name "That's what I thought."
     ch_Name "我也是这么想的。"
 
+# TODO: Translation updated at 2022-03-25 06:03
+
+# game/logic/events/ahchi.rpy:946
+translate chinese CF_Ahchi_2_label_c44cf98f:
+
+    # Ahchi "Did you hear what old man Chompski pulled the other day?"
+    Ahchi ""
+

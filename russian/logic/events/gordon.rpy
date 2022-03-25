@@ -1806,3 +1806,47 @@ translate russian strings:
     old "5 Ask for ingredients"
     new ""
 
+# TODO: Translation updated at 2022-03-25 06:29
+
+# game/logic/events/gordon.rpy:114
+translate russian Gordon_1_label_f04d59cb:
+
+    # UnknownGordon "I'm Gordon Chompski."
+    UnknownGordon ""
+
+# game/logic/events/gordon.rpy:116
+translate russian Gordon_1_label_5f7e6b15:
+
+    # Gordon "And this is Chompski Shop. Best store in Dale."
+    Gordon ""
+
+# game/logic/events/gordon.rpy:203
+translate russian Gordon_1_label_a02a86a4:
+
+    # Gordon "If you need a part-time job, there's nobody better than Chompski."
+    Gordon ""
+
+# game/logic/events/gordon.rpy:353
+translate russian Willow_1_label_f0dc1db3:
+
+    # ch_Name "{i}(The Chompski Shop. That's where I'm going.){/i}"
+    ch_Name ""
+
+# game/logic/events/gordon.rpy:380
+translate russian Willow_1_label_9aa9e39f:
+
+    # Willow "Yes, about the Chompski Shop."
+    Willow ""
+
+# game/logic/events/gordon.rpy:389
+translate russian Willow_1_label_d5218044:
+
+    # Willow "The chief-editor just shrugged her shoulders: \"We can do nothing, baby girl\". What a bitch!"
+    Willow ""
+
+# game/logic/events/gordon.rpy:414
+translate russian Willow_1_label_1a65d07c:
+
+    # ch_Name "The breeze feels so wonderful... It's so nice outside!"
+    ch_Name ""
+

@@ -2245,3 +2245,771 @@ translate russian strings:
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I envy the photographer! Such a spectacular view of your curves!"
     new "Завидую фотографу! Такой шикарный вид перед ним открылся!"
+# TODO: Translation updated at 2022-03-25 06:29
+
+translate russian strings:
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "I make my own luck"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "\"Elegance must be the right combination of distinction, naturalness, care and simplicity. Outside this, believe me, there is no elegance. Only pretension.\""
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Christian Dior."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Vanessa:{/b} If you're a goddess, then I'm a demon."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Adele:{/b} He-he-he."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "You're too fucking gorgeous in this dress, I can't breathe..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Adele: I wonder what'd you say if I were without it...🙃"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Will you be my muse?"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Only look at these kitties! Which one would you choose?"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "P.S. This kiddo comes here every day, I think we're friends now."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Vanessa:{/b} Sorry, but I always wanted to get a cat, so..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Adele:{/b} 😢"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Some people believe that cats can feel good in people's hearts. If she came to you, then it says a lot."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "I have nothing against cats, but you're too seductive for choosing a fluffy animal."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "I hope you'll get enough rest, miss Amelie. ❤️"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Amelie: I'm not sure you'll keep me entertained long enough. 🙄 😛"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Amelie: Maybe... 😜"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Looks like the perfect outfit for the role-playing game if you know what I mean."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "When I'm tired there is only one thing that motivates me - I always remember that the sky is the limit 💪"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Olivia:{/b} We are so proud of you, baby! ❤️ "
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Samantha:{/b} Keep going, sis. You're great!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "You're an excellent example to be followed, Ash! I'm fascinated!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Ashley: It's refreshing to know that you think so, really."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Gymnastics is so sexy!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "You have to teach me this exercise someday! I will try hard, I swear..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Ashley: Too dubious..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Jacob:{/b} One of the biggest mysteries in you is how you manage not to be expelled if you don't finish your term paper."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "One look at this picture fills me with harmony. Or, well, maybe those are some other feelings. 😈 "
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "It's 10 p.m., Sam and I spontaneously decided to go to a costume party, and this is the only outfit that she found for me... "
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Shit, I just want to get drunk tonight! 👿"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Lily:{/b} These wings together with your tattoos... Wow!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Audrey:{/b} Thank you, sis."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Your life is such an adventure... I envy you sometimes, he-he."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Audrey: 🙃"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "What's happened to your face? If I were you, I wouldn't show this photo to anyone..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Audrey: A little longer and I will block you."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Heads up, I hate my outfit and this party is fucking terrible."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "@Samantha, you can never make me to dress like a damn white pigeon again!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Samantha:{/b} Are you kidding me?! You look just great! If I only could wipe this sour look off your face..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Audrey:{/b} 😜"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Elijah:{/b} Whoa, what? You guys were all hanging out and you didn't even invite me?"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Haley:{/b} There's something devilish about you but when you're dressed as an angel... It hits different."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "You're like a devilish angel... or maybe an angelic devil..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Even this angel's costume can't hide a devilish glint in your eyes."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "At first I think it is angel's costume but you really look more like a pigeon..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Audrey: Fuck off!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Lily:{/b} True. You guys are cute. ❤️"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "At first I was afraid I'd look bad, but next to you, I look handsome."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Haley: Thank's! Friend... 👀"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Haley: I haven't said anything about action. 🤭"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "The main question is - how sturdy is your bed? "
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Haley: Why?',' Haley: Oh! I got it! Ew!!! "
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "I never thought that marble will ever turn me on..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "I've never put out such photos in Lustagram, but I really like this one. Hope you don't mind... 😇 "
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Elijah:{/b} We hope to see more photos like that! You're a real beauty, Haley."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Samantha:{/b} Hey, we're all for!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Lily:{/b} You're as delicate as little flower!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "The only thing dividing our eyes and your beautiful body is the towel. Just the mere thought of that is a turn-on."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Haley: We'll talk about it later, in private."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "So that's why your skin is so soft! I thought that's just so, without any lotion... The way I see the world will never be the same after that..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Haley: You're kidding, right?"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Thanks @Lily for doing this beautiful makeup! She's a great makeup artist, that's for sure."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "I can hardly recognize myself in the mirror and it feels really strange. Do I look better?"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Naomi:{/b} Oh, my! I love you both - old sweety Haley and Haley - femme fatale! "
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Haley:{/b} Thanks, sweetheart. ❤️ "
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Elijah:{/b} With this makeup you look older, but you're still beautiful."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Haley:{/b} 😊"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Haley, you're perfect no matter what! ❤️"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Haley: Oh! 🥰"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "That's great that you help Lily to develop as a makeup artist, but what do you think about helping me to improve my body painting skills? You can be my model."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Haley: I will think about it..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Here you go. ❤️"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "There's a whole world of amazing possibilities, but here you are, asking for likes on Lustagram. 😢"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "I've never celebrated Christmas with my friends and voila! Dreams do come true! "
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Best Christmas ever! ❤️ "
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Samantha:{/b} He-he-he, you lit up like a Christmas tree."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Elijah:{/b} I enjoyed it too, really. We had so much fun together! "
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "I pray this is not the only Christmas we celebrate together."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Lily: Awwww!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Time to dream big! There are so many things in the world we never get to learn, and you were dreaming about hanging out with your friends at Christmas?!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Lily: Yes, so what?"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "The season for hats, scarves and sweaters, finally. My favorite time of the year!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Audrey:{/b} You're looking so cozy, I just want to hug you! 😺"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Lily:{/b} I'd be happy to have a hug!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Haley:{/b} Winter is my favorite time of year too!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "You are adorable in this winter hat!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Lily: Thanks!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Still, if you get cold, you can come to my room at any time and I will warm you in my arms..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Lily: 😇"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "I decided to unwind and went to the beach. I'd forgotten how much fun it was! I need to remind myself more often that there is such pure and carefree fun in the world."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Elijah:{/b} Wow, Molly!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Is that your picture next to \"charming\" in the dictionary?"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "You might be the primary reason for global warming, Molly. You're too hot!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "I think God was high when he created you because there's no one else who comes so close to perfection..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "My first photo session and only look at this! Seems that I can be successful not only in business... "
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Does anybody here have contacts with modeling agencies?"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Elijah:{/b} Wow! 💣"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Audrey:{/b} It's breathtaking, Molly! You should think about modeling, at least as a hobby."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Haley:{/b} It's sad, but I don't have any contacts :("
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "You're the piece of art, Molly!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Molly: Um, thanks!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Whoa, that's very sensual! Your body language is really something..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Three-time champion! "
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "P.S. Sorry, @Elijah, but you have much to learn."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Elijah:{/b} I'm dying for a rematch!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Molly:{/b} We'll see..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "I'd like to play chess with you sometime, what do you think?"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Molly: I'm all for!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "I thought that you were only good at coffee..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Molly: Hey!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "I found this new cafe and didn't expect anything special, but wow! "
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Here am I, drinking my best ginger tee!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Audrey:{/b} That's my favorite place, Ahchi can even call me a regular."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Lily:{/b} Thanks for the tip! We can go there together, what do you think?"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Naomi:{/b} Sure, baby! 😉"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "I will be happy to join you and Lily, so you can DM next time you go there."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Naomi: Sorry, this is supposed to be an all-girls party."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "How cute are you in this photo and how aggressive can you be in the real life..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Naomi: What's this about, [Name]?"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "I need some time by myself to sort all things out. Just leave me alone, okay? "
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Samantha:{/b} But we're here for you, sweetie... if you need us. Just remember that."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Naomi:{/b}❤️ "
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Elijah:{/b} Well, if you insist..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "I would give anything to join you and take a nice hot bath together..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Naomi: Sounds not that bad."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "There is no need to take a bath and drink champagne if you want to figure everything out. Don't be too dramatic, Naomi."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Naomi: You're intolerable!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Olivia:{/b}  I WILL END YOU! 😡"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Olivia:{/b} Thanks! But you can't have one. 😜"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Samantha:{/b} I'm your daughter. 🥺"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Olivia:{/b} Means nothing to me. 😈"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Your cupcakes looks delicious. 😏"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Don:{/b} You'll have to make this deal even. 👉👌"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Ashley:{/b} Mom, don't say that. Dad loves you for your personality too."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "You look gorgeous as always, Olivia."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Every friday night Don and I go to a fancy restaurant and enjoy the night at the chic hotel then, just for a change of scenery. Sometimes it can be hard to keep a romance alive in the relationship, but it's truly worth it! "
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Ashley:{/b} I don't want to know anything about that..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Olivia:{/b} C'mon, you're a grown woman already."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Ashley:{/b} It makes no difference!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Hm, it seems really difficult to be in a relationship with one person for many years and be romantic all the time."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Global warming, starvation in Africa, ozone layer depletion... There are so many problems, but you decide to fight against the lack of romance in the relationships..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "I always feel sexy and desired, even while cleaning. That's not too easy to get in touch with your feminine side, but you will feel like a different person after it!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Don:{/b} That's my woman!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Olivia:{/b}😍"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Evelyn:{/b}  I know there's a lot I can learn from you!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Olivia:{/b} I'm here for you, dear."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Samantha:{/b} Mom, don't you think that it is a little bit too much for Lustagram when everybody can see your posts?"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Seems that @Don is very lucky!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Okay, I should admit that even at your age is possible to look hot. But let's be honest - you still need to work on that..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Olivia: Nobody asked you, [Name]!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Are you a miracle from heaven? Seems like you came from the stars..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Let's just say I love my job... but I know what it feels like to be completely exhausted."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Jacob:{/b} We've all been there..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Amelie:{/b} I know exactly how you feel... 🥺"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Victoria:{/b} You were sleeping so peacefully... we didn't wake you up. Sorry! 🥺"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Oh, just remember that sleep is very important for the recovery of your body!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "If I were there I wouldn't let you sleep! 😈"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Come on, Sleeping Beauty, wake up!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Samantha:{/b} Last Summer..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Audrey:{/b} I'd eat you! 😈"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Samantha: We'll see. 😉"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Samantha: Your imagination is too limited to grasp all my abilities. 😜"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Elijah:{/b} Sure, sure."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "We've been planning to take pole dancing classes for months. Finally made it! Only one hour and I already feel how my sensuality is awakening, awwwwww 🥰"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Audrey:{/b} God damn, we are fucking gorgeous!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Elijah:{/b} I only wanted to spend 10 minutes in Lustagram before going to sleep and it was my biggest mistake - it's impossible to have any thought about sleep after this photo..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "I'm having a heart attack... These pictures are too perfect!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Samantha: I hope that everything is okay now..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Now I feel like I'm ready to take some lessons too. Do you think that I need to increase my feminine energy?"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Samantha: Ha-ha-ha, absolutely yes!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "I found this prom photo in my album and only look at this little girl! Great changes have taken place, but there is still a gentle kid living inside me."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Olivia:{/b} You're still the same sweet little girl for us. We love you so much! ❤️ "
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Haley:{/b} You have barely changed, he-he."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Samantha:{/b} Do you really think so?"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Audrey:{/b} You're too good to be true, babe..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "You look absolutely radiant, as ever! "
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Samantha: I do my best, thank you!"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Is that your secret little sister? Can you introduce me to her, please?"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Samantha: Poor thing, he doesn't know how to read. 😛"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "DM for bartender services"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Life is just a party, so come as you are! 😈"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Samantha:{/b} That was a blast! An amazing vibe, thank you for everything! 💜"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Everything looks insanely cool in this photo. I wish I were at this party..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "\"Come as you are?\"  Why are you still dressed then?"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Victoria:{/b} Thank you, Jacob. "
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Music is one of, if not the most important aspect of my life. It is a way to express myself and my feelings. It's something that I can go to whenever I need it. "
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Somebody once told me that music gives a soul to the universe, wings to the mind, flight to the imagination and life to everything."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Sabrina:{/b} My heart is going to stop! You look very elegant, dear. 🤤"
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "{b}Amelie:{/b} That's well said, Vicky. Only literature has such a great power as music has..."
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "I would really love to hear you play, miss... "
+    new ""
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Seems that you have well-trained fingers! I'm only interested in what more can they do to bring satisfaction..."
+    new ""
+

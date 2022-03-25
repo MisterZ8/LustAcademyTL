@@ -364,3 +364,15 @@ translate russian strings:
     old "Don't take"
     new "Не брать"
 
+# TODO: Translation updated at 2022-03-25 06:29
+
+translate russian strings:
+
+    # game/logic/main_interface/screen.rpy:1492
+    old "You have successfully completed all available routes. Talk to Samantha to go on vacation."
+    new ""
+
+    # game/logic/main_interface/screen.rpy:1536
+    old "Skip time"
+    new ""
+

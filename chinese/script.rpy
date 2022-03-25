@@ -1048,3 +1048,27 @@ translate chinese strings:
     old "Play the full version"
     new "播放完整版"
 
+# TODO: Translation updated at 2022-03-25 06:03
+
+translate chinese strings:
+
+    # game/script.rpy:272
+    old "{size=15}Note that night visits are entirely optional.{/size} \n{size=15}This additional content is not required to complete the game{/size} \n{size=15}and won’t influence your relationship with other characters.{/size}"
+    new ""
+
+    # game/script.rpy:274
+    old "1st"
+    new ""
+
+    # game/script.rpy:276
+    old "2nd"
+    new ""
+
+    # game/script.rpy:278
+    old "3rd"
+    new ""
+
+    # game/script.rpy:280
+    old "4th"
+    new ""
+

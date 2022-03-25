@@ -3874,3 +3874,11 @@ translate russian CF_S3_label_502169ac:
     # ch_Name "That's what I thought."
     ch_Name ""
 
+# TODO: Translation updated at 2022-03-25 06:29
+
+# game/logic/events/ahchi.rpy:946
+translate russian CF_Ahchi_2_label_c44cf98f:
+
+    # Ahchi "Did you hear what old man Chompski pulled the other day?"
+    Ahchi ""
+

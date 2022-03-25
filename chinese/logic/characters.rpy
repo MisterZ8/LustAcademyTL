@@ -202,3 +202,11 @@ translate chinese strings:
     old "Dakota"
     new "Dakota"
 
+# TODO: Translation updated at 2022-03-25 06:03
+
+translate chinese strings:
+
+    # game/logic/characters.rpy:52
+    old "Ezra"
+    new ""
+

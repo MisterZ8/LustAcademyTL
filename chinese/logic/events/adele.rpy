@@ -9360,3 +9360,1575 @@ translate chinese strings:
     old "Ask Adele out"
     new "问Adele了"
 
+# TODO: Translation updated at 2022-03-25 06:03
+
+# game/logic/events/adele.rpy:2608
+translate chinese Adele_5_label_from_gallery_d61aeecc:
+
+    # ch_Name "{i}(That much alcohol kills any shyness.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2726
+translate chinese Adele_6_label_f6d0bf83:
+
+    # ch_Name "{i}(It seems Adele's shift is almost coming to an end.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2727
+translate chinese Adele_6_label_f4b9cdcd:
+
+    # ch_Name "{i}(If i want to ask her for a date this is the best time.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2728
+translate chinese Adele_6_label_8c7d01cb:
+
+    # ch_Name "Hi there, gorgeous. "
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2730
+translate chinese Adele_6_label_31fb19a3:
+
+    # Adele "Hey, honey!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2731
+translate chinese Adele_6_label_d3752143:
+
+    # Adele "Are you looking to have some fun?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2732
+translate chinese Adele_6_label_c53322c1:
+
+    # ch_Name "Actually, I was thinking you and I can have another date."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2733
+translate chinese Adele_6_label_6d9e2767:
+
+    # ch_Name "Wanna have a drink?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2735
+translate chinese Adele_6_label_c7ec96b0:
+
+    # Adele "Not really."
+    Adele ""
+
+# game/logic/events/adele.rpy:2736
+translate chinese Adele_6_label_eee686cf:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2737
+translate chinese Adele_6_label_eb782f03:
+
+    # Adele "It's not about you, honey. I'm just tired of loud music and dim lights..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2739
+translate chinese Adele_6_label_68d441e1:
+
+    # Adele "Bu-u-u-t..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2740
+translate chinese Adele_6_label_1caa402b:
+
+    # Adele "I'd be happy to go for a walk. Look at some stars and shit..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2741
+translate chinese Adele_6_label_e8d84f43:
+
+    # ch_Name "Sounds great. I'm in."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2742
+translate chinese Adele_6_label_63c52919:
+
+    # Adele "Cool. Just give me few minutes."
+    Adele ""
+
+# game/logic/events/adele.rpy:2744
+translate chinese Adele_6_label_cbbdbe3f:
+
+    # Adele "Sadira, love! "
+    Adele ""
+
+# game/logic/events/adele.rpy:2745
+translate chinese Adele_6_label_3583d5da:
+
+    # Adele "Come here, please!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2746
+translate chinese Adele_6_label_52b10552:
+
+    # Sadira "Just a second!"
+    Sadira ""
+
+# game/logic/events/adele.rpy:2748
+translate chinese Adele_6_label_380405a8:
+
+    # Sadira "Hey, boss. "
+    Sadira ""
+
+# game/logic/events/adele.rpy:2749
+translate chinese Adele_6_label_4f4c235f:
+
+    # Sadira "Is there anything wrong?"
+    Sadira ""
+
+# game/logic/events/adele.rpy:2750
+translate chinese Adele_6_label_5cdf57a2:
+
+    # Adele "No, baby. You're wonderful as always!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2751
+translate chinese Adele_6_label_46e81fca:
+
+    # Adele "I was just thinking about taking a night off."
+    Adele ""
+
+# game/logic/events/adele.rpy:2752
+translate chinese Adele_6_label_bd81414f:
+
+    # Adele "My head aches from all this music..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2753
+translate chinese Adele_6_label_2f45fd31:
+
+    # Adele "Can you substitute for me?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2755
+translate chinese Adele_6_label_d6e26bc5:
+
+    # Sadira "No problem, boss!"
+    Sadira ""
+
+# game/logic/events/adele.rpy:2756
+translate chinese Adele_6_label_8c809322:
+
+    # Sadira "Go and have some rest. I have everything under control!"
+    Sadira ""
+
+# game/logic/events/adele.rpy:2764
+translate chinese Adele_6_label_1e6b2c47:
+
+    # Adele "What a beautiful night tonight."
+    Adele ""
+
+# game/logic/events/adele.rpy:2765
+translate chinese Adele_6_label_70fc0b61:
+
+    # Adele "Just look at those stars!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2767
+translate chinese Adele_6_label_377b1a75:
+
+    # ch_Name "I'm so glad I could get away from work..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2768
+translate chinese Adele_6_label_4aa8880b:
+
+    # ch_Name "I'm glad you could find the time to take a walk with me, too."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2770
+translate chinese Adele_6_label_d1cdcfde:
+
+    # ch_Name "The sky really is beautiful."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2771
+translate chinese Adele_6_label_b8741ab3:
+
+    # Adele "Look! Can you see it too?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2773
+translate chinese Adele_6_label_8b8d859e:
+
+    # Adele "It's a dragon!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2774
+translate chinese Adele_6_label_4341203b:
+
+    # ch_Name "It really is!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2776
+translate chinese Adele_6_label_9a0e1c8a:
+
+    # Adele "Oh, my God! I heard the rumors, but I didn't believe it!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2777
+translate chinese Adele_6_label_6db9172b:
+
+    # Adele "I thought all dragons were extinct..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2778
+translate chinese Adele_6_label_f1f6d915:
+
+    # ch_Name "No, it's definitely a dragon."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2780
+translate chinese Adele_6_label_762387eb:
+
+    # ch_Name "I think it's the same one I saw out the window on my way to the Academy."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2781
+translate chinese Adele_6_label_ac2a0ecb:
+
+    # Adele "You saw a dragon up close?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2782
+translate chinese Adele_6_label_9c7f93cb:
+
+    # Adele "Wow!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2783
+translate chinese Adele_6_label_e0c221ab:
+
+    # ch_Name "Yeah, well..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2784
+translate chinese Adele_6_label_15e08ce2:
+
+    # ch_Name "It scared the hell out of us when we first saw it."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2785
+translate chinese Adele_6_label_e422a4c1:
+
+    # Adele "I can imagine."
+    Adele ""
+
+# game/logic/events/adele.rpy:2787
+translate chinese Adele_6_label_fdc80d6f:
+
+    # Adele "They say their flames can burn through anything..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2788
+translate chinese Adele_6_label_c2d05393:
+
+    # ch_Name "You know, Adele. I've wanted to tell you for a long time that..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2791
+translate chinese Adele_6_label_c201e58a:
+
+    # ch_Name "Agh..." with vpunch
+    ch_Name "" with vpunch
+
+# game/logic/events/adele.rpy:2792
+translate chinese Adele_6_label_027b1c56:
+
+    # ch_Name "..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2793
+translate chinese Adele_6_label_078cc834:
+
+    # Adele "[Name], what happened?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2795
+translate chinese Adele_6_label_84edf1ac:
+
+    # Adele "Wha-at? It's you!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2796
+translate chinese Adele_6_label_3a6aa4b8:
+
+    # Adele "How dare you!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2798
+translate chinese Adele_6_label_0dea3671:
+
+    # Adele "Wait!" with vpunch
+    Adele "" with vpunch
+
+# game/logic/events/adele.rpy:2799
+translate chinese Adele_6_label_9bd1bc27:
+
+    # Adele "What are you doing?!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2811
+translate chinese Adele_6_label_from_gallery_eee686cf:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2812
+translate chinese Adele_6_label_from_gallery_99db81d9:
+
+    # ch_Name "{i}(What happened?){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2813
+translate chinese Adele_6_label_from_gallery_04e7e2a1:
+
+    # ch_Name "{i}(And why does my head hurt so much?){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2814
+translate chinese Adele_6_label_from_gallery_0514db29:
+
+    # ch_Name "{i}(It hurts so bad I can't even focus my eyes.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2816
+translate chinese Adele_6_label_from_gallery_3e7d979e:
+
+    # ch_Name "{i}(Shit... And my hands. Why can't I move them?){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2817
+translate chinese Adele_6_label_from_gallery_87226d4b:
+
+    # ch_Name "{i}(Am I tied up?){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2818
+translate chinese Adele_6_label_from_gallery_cc3b5d61:
+
+    # ch_Name "Ugh..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2820
+translate chinese Adele_6_label_from_gallery_9b5d1688:
+
+    # ch_Name "Adele? What's the matter with you?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2821
+translate chinese Adele_6_label_from_gallery_01acef89:
+
+    # ch_Name "Adele! Can you hear me? Wake up!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2822
+translate chinese Adele_6_label_from_gallery_f630457e:
+
+    # Diego "You don't have to try, she's out."
+    Diego ""
+
+# game/logic/events/adele.rpy:2824
+translate chinese Adele_6_label_from_gallery_7117d1a5:
+
+    # ch_Name "{i}(Who's there?){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2825
+translate chinese Adele_6_label_from_gallery_9cc234ab:
+
+    # ch_Name "{i}(Wait, I've seen him before...){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2826
+translate chinese Adele_6_label_from_gallery_1c2e444e:
+
+    # ch_Name "You!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2827
+translate chinese Adele_6_label_from_gallery_51d59576:
+
+    # ch_Name "What have you done to her?!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2829
+translate chinese Adele_6_label_from_gallery_fa1b367d:
+
+    # Diego "Nothing compared to what I'll do to her now."
+    Diego ""
+
+# game/logic/events/adele.rpy:2830
+translate chinese Adele_6_label_from_gallery_d4a6684d:
+
+    # Diego "And you got a front-row seat in the auditorium."
+    Diego ""
+
+# game/logic/events/adele.rpy:2831
+translate chinese Adele_6_label_from_gallery_e08fb1e2:
+
+    # ch_Name "What... What are you talking about?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2833
+translate chinese Adele_6_label_from_gallery_21018c9a:
+
+    # Diego "I've seen the way you look at her."
+    Diego ""
+
+# game/logic/events/adele.rpy:2834
+translate chinese Adele_6_label_from_gallery_6439fbb5:
+
+    # Diego "You want to fuck my woman? I don't think so!"
+    Diego ""
+
+# game/logic/events/adele.rpy:2835
+translate chinese Adele_6_label_from_gallery_178d333c:
+
+    # ch_Name "Adele has a right to choose who she sees."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2837
+translate chinese Adele_6_label_from_gallery_cd193517:
+
+    # Diego "You think you're in a position to argue with me?"
+    Diego ""
+
+# game/logic/events/adele.rpy:2838
+translate chinese Adele_6_label_from_gallery_703be7eb:
+
+    # Diego "I don't know what magic tricks you used to seduce her."
+    Diego ""
+
+# game/logic/events/adele.rpy:2839
+translate chinese Adele_6_label_from_gallery_16a1757a:
+
+    # Diego "But Adele is mine!"
+    Diego ""
+
+# game/logic/events/adele.rpy:2840
+translate chinese Adele_6_label_from_gallery_fa214528:
+
+    # ch_Name "And what are you going to do, keep her locked up here like a thing?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2842
+translate chinese Adele_6_label_from_gallery_6c55c0bd:
+
+    # Diego "Since you like her so much, I thought I'd let you see her."
+    Diego ""
+
+# game/logic/events/adele.rpy:2843
+translate chinese Adele_6_label_from_gallery_addd77b3:
+
+    # Diego "So now you'll see for yourself what I'm going to do with her."
+    Diego ""
+
+# game/logic/events/adele.rpy:2844
+translate chinese Adele_6_label_from_gallery_a5ab1afc:
+
+    # Adele "Oh... Uh... My head..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2846
+translate chinese Adele_6_label_from_gallery_234a38b2:
+
+    # Adele "Hey! What's going on in there!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2847
+translate chinese Adele_6_label_from_gallery_1f393adf:
+
+    # Adele "Release me now, you bastard!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2848
+translate chinese Adele_6_label_from_gallery_b77f8f4d:
+
+    # Adele "Can you hear me?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2849
+translate chinese Adele_6_label_from_gallery_cd37b934:
+
+    # Adele "What do you think you're doing?!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2851
+translate chinese Adele_6_label_from_gallery_ae1138fb:
+
+    # Diego "Oh, how her screams turn me on."
+    Diego ""
+
+# game/logic/events/adele.rpy:2852
+translate chinese Adele_6_label_from_gallery_4cb167af:
+
+    # Diego "She's so hot when she's angry."
+    Diego ""
+
+# game/logic/events/adele.rpy:2853
+translate chinese Adele_6_label_from_gallery_82023d84:
+
+    # Diego "You don't think so?"
+    Diego ""
+
+# game/logic/events/adele.rpy:2854
+translate chinese Adele_6_label_from_gallery_c152ecb2:
+
+    # ch_Name "No."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2855
+translate chinese Adele_6_label_from_gallery_bc95571c:
+
+    # ch_Name "Sorry, I'm not a sick bastard like you."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2857
+translate chinese Adele_6_label_from_gallery_04777931:
+
+    # Diego "I'll make you pay for what you said."
+    Diego ""
+
+# game/logic/events/adele.rpy:2858
+translate chinese Adele_6_label_from_gallery_5042ea63:
+
+    # Diego "After I'm done with her."
+    Diego ""
+
+# game/logic/events/adele.rpy:2860
+translate chinese Adele_6_label_from_gallery_25be94d2:
+
+    # Diego "You don't have to shout so loud, baby. Here I am!"
+    Diego ""
+
+# game/logic/events/adele.rpy:2861
+translate chinese Adele_6_label_from_gallery_b3fddcff:
+
+    # Adele "Diego, you bastard! Are you out of your mind?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2862
+translate chinese Adele_6_label_from_gallery_dcbe442c:
+
+    # Adele "I told you it's over between us!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2864
+translate chinese Adele_6_label_from_gallery_afd7f647:
+
+    # Diego "I don't think so."
+    Diego ""
+
+# game/logic/events/adele.rpy:2865
+translate chinese Adele_6_label_from_gallery_235ea374:
+
+    # Adele "I don't care what you think! Release me immediately."
+    Adele ""
+
+# game/logic/events/adele.rpy:2867
+translate chinese Adele_6_label_from_gallery_22a7a62d:
+
+    # Diego "Oh, baby!"
+    Diego ""
+
+# game/logic/events/adele.rpy:2868
+translate chinese Adele_6_label_from_gallery_a47532ba:
+
+    # Diego "You're in no position to demand anything."
+    Diego ""
+
+# game/logic/events/adele.rpy:2870
+translate chinese Adele_6_label_from_gallery_fabebc9a:
+
+    # Diego "I'm going to teach you obedience."
+    Diego ""
+
+# game/logic/events/adele.rpy:2871
+translate chinese Adele_6_label_from_gallery_d1044a19:
+
+    # Adele "Whatever you're thinking, I won't let you..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2873
+translate chinese Adele_6_label_from_gallery_5c70219c:
+
+    # Diego "You hear that, boy? She won't let me."
+    Diego ""
+
+# game/logic/events/adele.rpy:2874
+translate chinese Adele_6_label_from_gallery_3475a881:
+
+    # Diego "Maybe we should just let you go, then."
+    Diego ""
+
+# game/logic/events/adele.rpy:2876
+translate chinese Adele_6_label_from_gallery_4d828e66:
+
+    # ch_Name "Yes, please. You can see she's against..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2877
+translate chinese Adele_6_label_from_gallery_6621f457:
+
+    # ch_Name "What, what have you got there?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2879
+translate chinese Adele_6_label_from_gallery_d59f16a3:
+
+    # Diego "You're so naive, I swear."
+    Diego ""
+
+# game/logic/events/adele.rpy:2880
+translate chinese Adele_6_label_from_gallery_054959e4:
+
+    # Diego "I'll show you how to keep bitches like that in line."
+    Diego ""
+
+# game/logic/events/adele.rpy:2882
+translate chinese Adele_6_label_from_gallery_2b69c68c:
+
+    # ch_Name "No, wait..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2887
+translate chinese Adele_6_label_from_gallery_b3ab4a43:
+
+    # Adele "What... What are you doing in there?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2888
+translate chinese Adele_6_label_from_gallery_2bc36132:
+
+    # Adele "Stop it!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2891
+translate chinese Adele_6_label_from_gallery_4fc2e1ec:
+
+    # Adele "Ouch..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2892
+translate chinese Adele_6_label_from_gallery_8a74dd64:
+
+    # Adele "Ahh..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2894
+translate chinese Adele_6_label_from_gallery_6db67ee3:
+
+    # Diego "That's better."
+    Diego ""
+
+# game/logic/events/adele.rpy:2895
+translate chinese Adele_6_label_from_gallery_9f19c7eb:
+
+    # Diego "Now your ass looks gorgeous!"
+    Diego ""
+
+# game/logic/events/adele.rpy:2897
+translate chinese Adele_6_label_from_gallery_893a6267:
+
+    # Adele "You sick bastard!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2898
+translate chinese Adele_6_label_from_gallery_f35ee557:
+
+    # Adele "You think you can get away with this?!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2900
+translate chinese Adele_6_label_from_gallery_86f983c7:
+
+    # Diego "I think the bitch is still kicking. But nothing!"
+    Diego ""
+
+# game/logic/events/adele.rpy:2902
+translate chinese Adele_6_label_from_gallery_7d2e0319:
+
+    # Adele "Aah!" with hpunch
+    Adele "" with hpunch
+
+# game/logic/events/adele.rpy:2904
+translate chinese Adele_6_label_from_gallery_2af752ae:
+
+    # Adele "Ow!" with hpunch
+    Adele "" with hpunch
+
+# game/logic/events/adele.rpy:2907
+translate chinese Adele_6_label_from_gallery_ca0591c5:
+
+    # ch_Name "Stop it right now, asshole!" with hpunch
+    ch_Name "" with hpunch
+
+# game/logic/events/adele.rpy:2909
+translate chinese Adele_6_label_from_gallery_fe0c4f9b:
+
+    # ch_Name "You're hurting her!" with hpunch
+    ch_Name "" with hpunch
+
+# game/logic/events/adele.rpy:2910
+translate chinese Adele_6_label_from_gallery_0ae9bcd0:
+
+    # ""
+    ""
+
+# game/logic/events/adele.rpy:2912
+translate chinese Adele_6_label_from_gallery_73ebbcc2:
+
+    # Adele "[Name]..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2914
+translate chinese Adele_6_label_from_gallery_4495a533:
+
+    # Diego "I think she's calling you, puppy."
+    Diego ""
+
+# game/logic/events/adele.rpy:2915
+translate chinese Adele_6_label_from_gallery_4307fad9:
+
+    # Diego "But it's okay, I'll shut her up."
+    Diego ""
+
+# game/logic/events/adele.rpy:2917
+translate chinese Adele_6_label_from_gallery_1fc7a6eb:
+
+    # Diego "I have just the perfect way to shut it..."
+    Diego ""
+
+# game/logic/events/adele.rpy:2918
+translate chinese Adele_6_label_from_gallery_a454b74d:
+
+    # Adele "No, please! Don't!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2920
+translate chinese Adele_6_label_from_gallery_28358bcf:
+
+    # Diego "What's the matter, baby?"
+    Diego ""
+
+# game/logic/events/adele.rpy:2921
+translate chinese Adele_6_label_from_gallery_2d1e7a2f:
+
+    # Diego "Don't act like you don't like my dick. I know you don't."
+    Diego ""
+
+# game/logic/events/adele.rpy:2923
+translate chinese Adele_6_label_from_gallery_73ebbcc2_1:
+
+    # Adele "[Name]..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2924
+translate chinese Adele_6_label_from_gallery_58b9d110:
+
+    # Diego "He ain't gonna do you any good, whore."
+    Diego ""
+
+# game/logic/events/adele.rpy:2925
+translate chinese Adele_6_label_from_gallery_48a7c66c:
+
+    # Diego "Stop looking at him, look at me!"
+    Diego ""
+
+# game/logic/events/adele.rpy:2926
+translate chinese Adele_6_label_from_gallery_f4045f01:
+
+    # Adele "Please, [Name]... Do something!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2928
+translate chinese Adele_6_label_from_gallery_0e4418c2:
+
+    # ch_Name "Adele! I'm trying to..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2929
+translate chinese Adele_6_label_from_gallery_2bfba8c6:
+
+    # ch_Name "You hear me, you asshole? Get away from her right now!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2930
+translate chinese Adele_6_label_from_gallery_7794d55c:
+
+    # ch_Name "You're mad at me, not her!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2931
+translate chinese Adele_6_label_from_gallery_1fa594d8:
+
+    # ch_Name "Get over here and hit me with that bat, but don't touch her!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2933
+translate chinese Adele_6_label_from_gallery_f6869edb:
+
+    # Diego "All in good time, boy."
+    Diego ""
+
+# game/logic/events/adele.rpy:2934
+translate chinese Adele_6_label_from_gallery_1557df26:
+
+    # Diego "In the meantime, watch the bitch become a submissive pussy."
+    Diego ""
+
+# game/logic/events/adele.rpy:2935
+translate chinese Adele_6_label_from_gallery_a8bdf707:
+
+    # Adele "No! I won't do it!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2937
+translate chinese Adele_6_label_from_gallery_abce62e3:
+
+    # Diego "Turn around and open your mouth, bitch!"
+    Diego ""
+
+# game/logic/events/adele.rpy:2938
+translate chinese Adele_6_label_from_gallery_d3f680c5:
+
+    # Diego "You think I'm joking with you?"
+    Diego ""
+
+# game/logic/events/adele.rpy:2940
+translate chinese Adele_6_label_from_gallery_cc49a121:
+
+    # Diego "Now your lips are gonna remember what a real man tastes like."
+    Diego ""
+
+# game/logic/events/adele.rpy:2941
+translate chinese Adele_6_label_from_gallery_b37b92c2:
+
+    # Adele "Please... Don't!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2943
+translate chinese Adele_6_label_from_gallery_3a79f2e5:
+
+    # Adele "Ugh..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2944
+translate chinese Adele_6_label_from_gallery_f25e4217:
+
+    # Adele "Ugh-ugh!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2945
+translate chinese Adele_6_label_from_gallery_ecedb6e9:
+
+    # Diego "Open your mouth, I said!"
+    Diego ""
+
+# game/logic/events/adele.rpy:2948
+translate chinese Adele_6_label_from_gallery_3d80b9aa:
+
+    # ch_Name "{i}(I've got to do something!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2949
+translate chinese Adele_6_label_from_gallery_63a61ae4:
+
+    # ch_Name "{i}(Right now!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2950
+translate chinese Adele_6_label_from_gallery_b6c2a60d:
+
+    # ch_Name "{i}(Shit! Come on!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2951
+translate chinese Adele_6_label_from_gallery_27146d9c:
+
+    # ch_Name "{i}(I got it! I can break free!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2953
+translate chinese Adele_6_label_from_gallery_57f2ebb3:
+
+    # Diego "Come on, Adele. I know you want it too!"
+    Diego ""
+
+# game/logic/events/adele.rpy:2956
+translate chinese Adele_6_label_from_gallery_ec612954:
+
+    # Diego "What the?"
+    Diego ""
+
+# game/logic/events/adele.rpy:2957
+translate chinese Adele_6_label_from_gallery_de75c0c9:
+
+    # Diego "What do you think you're doing, you bastard?"
+    Diego ""
+
+# game/logic/events/adele.rpy:2958
+translate chinese Adele_6_label_from_gallery_6bc15856:
+
+    # Diego "You think you can stop me?"
+    Diego ""
+
+# game/logic/events/adele.rpy:2959
+translate chinese Adele_6_label_from_gallery_a0717fc0:
+
+    # Diego "All right, I'll pull up my pants and put you in your place."
+    Diego ""
+
+# game/logic/events/adele.rpy:2966
+translate chinese Adele_6_label_from_gallery_9e6926a6:
+
+    # Diego "You think you can do something?"
+    Diego ""
+
+# game/logic/events/adele.rpy:2967
+translate chinese Adele_6_label_from_gallery_e708f432:
+
+    # Diego "Come on, give it a shot!"
+    Diego ""
+
+# game/logic/events/adele.rpy:2969
+translate chinese Adele_6_label_from_gallery_184d53f1:
+
+    # ch_Name "You should have listened when I asked nicely."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2970
+translate chinese Adele_6_label_from_gallery_933bd3e4:
+
+    # ch_Name "Now it's gonna be bad."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2971
+translate chinese Adele_6_label_from_gallery_1444481c:
+
+    # Diego "Oh, you!"
+    Diego ""
+
+# game/logic/events/adele.rpy:2973
+translate chinese Adele_6_label_from_gallery_1578a1d3:
+
+    # ch_Name "{i}(He may look cool.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2974
+translate chinese Adele_6_label_from_gallery_54e00266:
+
+    # ch_Name "{i}(But I'm not afraid.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2975
+translate chinese Adele_6_label_from_gallery_9995d3c4:
+
+    # Diego "I'll get you now!"
+    Diego ""
+
+# game/logic/events/adele.rpy:2976
+translate chinese Adele_6_label_from_gallery_62c4bbf9:
+
+    # ch_Name "{i}(Time to show him what I learned at the Academy!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2979
+translate chinese Adele_6_label_from_gallery_60aa4c33:
+
+    # Diego "Argh..." with vpunch
+    Diego "" with vpunch
+
+# game/logic/events/adele.rpy:2980
+translate chinese Adele_6_label_from_gallery_2971d8dc:
+
+    # ch_Name "Take that, asshole!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2981
+translate chinese Adele_6_label_from_gallery_c9649a2b:
+
+    # Diego "..."
+    Diego ""
+
+# game/logic/events/adele.rpy:2983
+translate chinese Adele_6_label_from_gallery_e613737d:
+
+    # ch_Name "I think he's had enough."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2984
+translate chinese Adele_6_label_from_gallery_40d8a2da:
+
+    # Adele "[Name]! You did it!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2986
+translate chinese Adele_6_label_from_gallery_afdde4d2:
+
+    # ch_Name "Hang in there, Adele."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2987
+translate chinese Adele_6_label_from_gallery_0d953460:
+
+    # ch_Name "I'm on my way to help."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2989
+translate chinese Adele_6_label_from_gallery_b062b2b7:
+
+    # Adele "I knew you could do it..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2996
+translate chinese Adele_6_label_from_gallery_0aecfac8:
+
+    # Adele "Ah, that's better."
+    Adele ""
+
+# game/logic/events/adele.rpy:2997
+translate chinese Adele_6_label_from_gallery_e651b939:
+
+    # Adele "Thanks again."
+    Adele ""
+
+# game/logic/events/adele.rpy:2999
+translate chinese Adele_6_label_from_gallery_f6401630:
+
+    # ch_Name "{i}(This probably isn't the best time to stare.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3000
+translate chinese Adele_6_label_from_gallery_0aca9b6d:
+
+    # ch_Name "I just need to find your clothes."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3002
+translate chinese Adele_6_label_from_gallery_8f8b8eb0:
+
+    # Adele "I think I know where they are."
+    Adele ""
+
+# game/logic/events/adele.rpy:3003
+translate chinese Adele_6_label_from_gallery_f0a2515a:
+
+    # ch_Name "Yes? How did you know that?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3004
+translate chinese Adele_6_label_from_gallery_dfff9d87:
+
+    # Adele "I've been here once. I'll get them."
+    Adele ""
+
+# game/logic/events/adele.rpy:3006
+translate chinese Adele_6_label_from_gallery_72f787a4:
+
+    # ch_Name "{i}(He doesn't seem to be coming to his senses anytime soon.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3007
+translate chinese Adele_6_label_from_gallery_e8e74e5a:
+
+    # ch_Name "{i}(I didn't even think I could create such powerful spells.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3008
+translate chinese Adele_6_label_from_gallery_b6dc5515:
+
+    # ch_Name "{i}(It must be the adrenaline.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3010
+translate chinese Adele_6_label_from_gallery_12c15517:
+
+    # Adele "Okay, I found my clothes."
+    Adele ""
+
+# game/logic/events/adele.rpy:3011
+translate chinese Adele_6_label_from_gallery_da677df5:
+
+    # ch_Name "I see."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3013
+translate chinese Adele_6_label_from_gallery_3de104cb:
+
+    # Adele "Oh, [Name]. I was so scared."
+    Adele ""
+
+# game/logic/events/adele.rpy:3014
+translate chinese Adele_6_label_from_gallery_47b88595:
+
+    # Adele "If it wasn't for you, I don't know what would have happened..."
+    Adele ""
+
+# game/logic/events/adele.rpy:3016
+translate chinese Adele_6_label_from_gallery_e5cbb336:
+
+    # ch_Name "Don't be afraid. It's all over now."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3017
+translate chinese Adele_6_label_from_gallery_cc1c44b0:
+
+    # ch_Name "I'm just glad I could be there in time to help."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3019
+translate chinese Adele_6_label_from_gallery_b981bae9:
+
+    # ch_Name "What should we do with him? Should we call the police?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3020
+translate chinese Adele_6_label_from_gallery_a41fe6cd:
+
+    # Adele "No, that won't stop him. But I know what to do."
+    Adele ""
+
+# game/logic/events/adele.rpy:3021
+translate chinese Adele_6_label_from_gallery_3189b12c:
+
+    # Adele "Go away and leave it to me."
+    Adele ""
+
+# game/logic/events/adele.rpy:3022
+translate chinese Adele_6_label_from_gallery_f113a10a:
+
+    # ch_Name "Are you sure?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3023
+translate chinese Adele_6_label_from_gallery_0acd73bd:
+
+    # Adele "Oh, I'm sure."
+    Adele ""
+
+# game/logic/events/adele.rpy:3025
+translate chinese Adele_6_label_from_gallery_17620d50:
+
+    # ch_Name "{i}(What a night... Definitely not the date I had planned.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3026
+translate chinese Adele_6_label_from_gallery_1fa87991:
+
+    # ch_Name "{i}(I can't wait to go to bed and forget this like a bad dream.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3030
+translate chinese Adele_6_label_from_gallery_be2bda5d:
+
+    # ch_Name "Stop it at once, you sick bastard!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3031
+translate chinese Adele_6_label_from_gallery_fed24066:
+
+    # ch_Name "I won't let you make fun of her!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3034
+translate chinese Adele_6_label_from_gallery_0261c9dc:
+
+    # ch_Name "{i}(Come on, come on...){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3035
+translate chinese Adele_6_label_from_gallery_e084ea40:
+
+    # ch_Name "{i}(I can break free!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3037
+translate chinese Adele_6_label_from_gallery_6d92c75e:
+
+    # Diego "You little bastard!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3038
+translate chinese Adele_6_label_from_gallery_e1930dcc:
+
+    # Diego "Do you think you're a hero?"
+    Diego ""
+
+# game/logic/events/adele.rpy:3039
+translate chinese Adele_6_label_from_gallery_687def28:
+
+    # Diego "I'll show you!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3041
+translate chinese Adele_6_label_from_gallery_e9447afa:
+
+    # Diego "Where's my bat..."
+    Diego ""
+
+# game/logic/events/adele.rpy:3042
+translate chinese Adele_6_label_from_gallery_7f56ba75:
+
+    # ch_Name "{i}(I didn't think of the bat...){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3044
+translate chinese Adele_6_label_from_gallery_c2f42d48:
+
+    # Diego "Prepare to die!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3045
+translate chinese Adele_6_label_from_gallery_1074cd94:
+
+    # ch_Name "You don't scare me."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3046
+translate chinese Adele_6_label_from_gallery_8819a524:
+
+    # Diego "YOU'RE DEAD!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3049
+translate chinese Adele_6_label_from_gallery_171f65e5:
+
+    # ch_Name "{i}(I did it!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3050
+translate chinese Adele_6_label_from_gallery_4d535fcd:
+
+    # ch_Name "{i}(I'm free.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3051
+translate chinese Adele_6_label_from_gallery_d3a2babd:
+
+    # ch_Name "I'll show you now..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3053
+translate chinese Adele_6_label_from_gallery_0082fec2:
+
+    # Diego "Too slow!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3054
+translate chinese Adele_6_label_from_gallery_7e961ad6:
+
+    # Diego "HOME RUN!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3057
+translate chinese Adele_6_label_from_gallery_fb064b6d:
+
+    # ch_Name "Ught..." with vpunch
+    ch_Name "" with vpunch
+
+# game/logic/events/adele.rpy:3058
+translate chinese Adele_6_label_from_gallery_8a69a2de:
+
+    # ch_Name "{i}(Shit... He's so fast.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3059
+translate chinese Adele_6_label_from_gallery_8c8f7904:
+
+    # ch_Name "{i}(I'm not sure I can handle more blows.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3061
+translate chinese Adele_6_label_from_gallery_b1188517:
+
+    # Diego "Are you still standing?"
+    Diego ""
+
+# game/logic/events/adele.rpy:3062
+translate chinese Adele_6_label_from_gallery_ecf7f032:
+
+    # Diego "Well, it won't be long!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3063
+translate chinese Adele_6_label_from_gallery_9cd3d167:
+
+    # ch_Name "{i}(Shit, I won't make it...){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3066
+translate chinese Adele_6_label_from_gallery_fb064b6d_1:
+
+    # ch_Name "Ught..." with vpunch
+    ch_Name "" with vpunch
+
+# game/logic/events/adele.rpy:3067
+translate chinese Adele_6_label_from_gallery_cc976fe5:
+
+    # ch_Name "{i}(I have to prepare a spell, but he won't give me time...){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3069
+translate chinese Adele_6_label_from_gallery_21112a96:
+
+    # Diego "I'll give you credit, you're resilient."
+    Diego ""
+
+# game/logic/events/adele.rpy:3070
+translate chinese Adele_6_label_from_gallery_898a7d79:
+
+    # Diego "But this will be the last blow!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3073
+translate chinese Adele_6_label_from_gallery_09191dbc:
+
+    # ch_Name "Oh, no!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3074
+translate chinese Adele_6_label_from_gallery_20629761:
+
+    # ch_Name "It's my turn to strike!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3076
+translate chinese Adele_6_label_from_gallery_23a544be:
+
+    # Diego "Only if you make it in time!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3077
+translate chinese Adele_6_label_from_gallery_882e4883:
+
+    # Diego "GET THIS!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3080
+translate chinese Adele_6_label_from_gallery_09649997:
+
+    # Diego "Argh..."
+    Diego ""
+
+# game/logic/events/adele.rpy:3081
+translate chinese Adele_6_label_from_gallery_28778c69:
+
+    # Diego "Shit!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3084
+translate chinese Adele_6_label_from_gallery_e0c0b56c:
+
+    # Diego "My bat!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3085
+translate chinese Adele_6_label_from_gallery_e911d875:
+
+    # Diego "Shit... Shit!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3087
+translate chinese Adele_6_label_from_gallery_9cf07674:
+
+    # Diego "You think you're so tough?"
+    Diego ""
+
+# game/logic/events/adele.rpy:3088
+translate chinese Adele_6_label_from_gallery_931afac5:
+
+    # Diego "I'll kill you with my bare hands!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3091
+translate chinese Adele_6_label_from_gallery_60aa4c33_1:
+
+    # Diego "Argh..." with vpunch
+    Diego "" with vpunch
+
+# game/logic/events/adele.rpy:3092
+translate chinese Adele_6_label_from_gallery_58a860ff:
+
+    # ch_Name "Take that, motherfucker!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3093
+translate chinese Adele_6_label_from_gallery_c9649a2b_1:
+
+    # Diego "..."
+    Diego ""
+
+# game/logic/events/adele.rpy:3095
+translate chinese Adele_6_label_from_gallery_e613737d_1:
+
+    # ch_Name "I think he's had enough."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3096
+translate chinese Adele_6_label_from_gallery_40d8a2da_1:
+
+    # Adele "[Name]! You did it!"
+    Adele ""
+
+# game/logic/events/adele.rpy:3098
+translate chinese Adele_6_label_from_gallery_afdde4d2_1:
+
+    # ch_Name "Hang in there, Adele."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3099
+translate chinese Adele_6_label_from_gallery_0d953460_1:
+
+    # ch_Name "I'm on my way to help."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3101
+translate chinese Adele_6_label_from_gallery_b062b2b7_1:
+
+    # Adele "I knew you could do it..."
+    Adele ""
+
+# game/logic/events/adele.rpy:3103
+translate chinese Adele_6_label_from_gallery_21a8f0bd:
+
+    # ch_Name "Yeah, I'm so..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3104
+translate chinese Adele_6_label_from_gallery_35c90250:
+
+    # ch_Name "Oh...{w} I don't feel good..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3111
+translate chinese Adele_6_label_from_gallery_eee686cf_1:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3112
+translate chinese Adele_6_label_from_gallery_2b36f9c8:
+
+    # Adele "You came to your senses! Yay!"
+    Adele ""
+
+# game/logic/events/adele.rpy:3113
+translate chinese Adele_6_label_from_gallery_f5a1f715:
+
+    # ch_Name "Ouch..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3115
+translate chinese Adele_6_label_from_gallery_8168b11c:
+
+    # Adele "I was afraid I'd have to drag you to the hospital."
+    Adele ""
+
+# game/logic/events/adele.rpy:3116
+translate chinese Adele_6_label_from_gallery_886a4fbf:
+
+    # Adele "You poor thing, how badly did you get hurt?"
+    Adele ""
+
+# game/logic/events/adele.rpy:3117
+translate chinese Adele_6_label_from_gallery_46d296fc:
+
+    # ch_Name "I'll live..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3119
+translate chinese Adele_6_label_from_gallery_c8829339:
+
+    # ch_Name "Uh... What a weird moving floor."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3120
+translate chinese Adele_6_label_from_gallery_b5db61d8:
+
+    # ch_Name "Or is it just my head spinning?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3122
+translate chinese Adele_6_label_from_gallery_5beddf2b:
+
+    # Adele "Oh, [Name]. I was so scared..."
+    Adele ""
+
+# game/logic/events/adele.rpy:3123
+translate chinese Adele_6_label_from_gallery_47b88595_1:
+
+    # Adele "If it wasn't for you, I don't know what would have happened..."
+    Adele ""
+
+# game/logic/events/adele.rpy:3125
+translate chinese Adele_6_label_from_gallery_552c0564:
+
+    # ch_Name "Don't be scared. It's all over now."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3126
+translate chinese Adele_6_label_from_gallery_cc1c44b0_1:
+
+    # ch_Name "I'm just glad I could be there in time to help."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3128
+translate chinese Adele_6_label_from_gallery_b981bae9_1:
+
+    # ch_Name "What should we do with him? Should we call the police?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3129
+translate chinese Adele_6_label_from_gallery_a41fe6cd_1:
+
+    # Adele "No, that won't stop him. But I know what to do."
+    Adele ""
+
+# game/logic/events/adele.rpy:3130
+translate chinese Adele_6_label_from_gallery_3189b12c_1:
+
+    # Adele "Go away and leave it to me."
+    Adele ""
+
+# game/logic/events/adele.rpy:3131
+translate chinese Adele_6_label_from_gallery_f113a10a_1:
+
+    # ch_Name "Are you sure?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3132
+translate chinese Adele_6_label_from_gallery_0acd73bd_1:
+
+    # Adele "Oh, I'm sure."
+    Adele ""
+
+# game/logic/events/adele.rpy:3134
+translate chinese Adele_6_label_from_gallery_e2119ea8:
+
+    # ch_Name "{i}(What a night... I hope I can make it to the apartment without passing out.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3135
+translate chinese Adele_6_label_from_gallery_1fa87991_1:
+
+    # ch_Name "{i}(I can't wait to go to bed and forget this like a bad dream.){/i}"
+    ch_Name ""
+
+translate chinese strings:
+
+    # game/logic/events/adele.rpy:2883
+    old "Wait for a better moment "
+    new ""
+
+    # game/logic/events/adele.rpy:2883
+    old "Try to save her"
+    new ""
+

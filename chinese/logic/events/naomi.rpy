@@ -7320,3 +7320,1265 @@ translate chinese strings:
     old "Reject the blowjob"
     new "拒绝口交"
 
+# TODO: Translation updated at 2022-03-25 06:03
+
+# game/logic/events/naomi.rpy:306
+translate chinese Naomi_1_label_7fd2f19c:
+
+    # ch_Name "Hi, Naomi!"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:310
+translate chinese Naomi_1_label_4461ef1c:
+
+    # ch_Name "Yeah, exactly."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:311
+translate chinese Naomi_1_label_ed4ee76d:
+
+    # ch_Name "{i}(She remembered my name. That's a pretty good start!) {/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:317
+translate chinese Naomi_1_label_7977f35b:
+
+    # Naomi "But don't upset yourself, it's not your fault."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:319
+translate chinese Naomi_1_label_802bfce8:
+
+    # Naomi "What can you do, Adderin only picks the best..."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:321
+translate chinese Naomi_1_label_3bc6eb34:
+
+    # ch_Name "{i}(If you only knew how hard Katrina tried to make me choose her...){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:323
+translate chinese Naomi_1_label_4a7a23fa:
+
+    # ch_Name "I'm very happy with the way things turned out, actually."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:327
+translate chinese Naomi_1_label_6f504d72:
+
+    # ch_Name "{i}(She's so stubborn and tactless!){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:331
+translate chinese Naomi_1_label_3c2aab87:
+
+    # ch_Name "I don't understand what kind of truth you're talking about."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:332
+translate chinese Naomi_1_label_f69ab0da:
+
+    # ch_Name "And still, I didn't come here to argue."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:335
+translate chinese Naomi_1_label_fecfeaf0:
+
+    # ch_Name "I wanted to get to know you better. You look like a nice girl."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:336
+translate chinese Naomi_1_label_196364ca:
+
+    # Naomi "Nice girl? Ha-ha-ha!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:338
+translate chinese Naomi_1_label_7d1e3a5b:
+
+    # ch_Name "Maybe we're kindred spirits. What do you think?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:344
+translate chinese Naomi_1_label_f54bbb10:
+
+    # ch_Name "You'll never know until you try, Naomi."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:345
+translate chinese Naomi_1_label_4a6f855c:
+
+    # ch_Name "And what's so funny about that?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:361
+translate chinese Naomi_1_label_09a057b7:
+
+    # Naomi "What makes you think you can talk to me like that?"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:362
+translate chinese Naomi_1_label_5fa7113e:
+
+    # ch_Name "I was just using your words, cutie."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:363
+translate chinese Naomi_1_label_69691cf7:
+
+    # ch_Name "That, my friend, is a double standard."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:364
+translate chinese Naomi_1_label_5cd30673:
+
+    # Naomi "We are not friends, asshole."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:366
+translate chinese Naomi_1_label_8c6ff24e:
+
+    # ch_Name "That was rude, cutie.{w} Someone should teach you some manners."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:370
+translate chinese Naomi_1_label_e4a20cd0:
+
+    # ch_Name "Not chicken. Chick."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:372
+translate chinese Naomi_1_label_e4eeb3e4:
+
+    # ch_Name "But that's on you, all right? That's not my problem."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:387
+translate chinese Naomi_1_label_45_4a4d9054:
+
+    # ch_Name "Why are you trying so hard to act cold to me, Naomi?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:389
+translate chinese Naomi_1_label_45_a7193475:
+
+    # ch_Name "Are you sure that your method works?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:391
+translate chinese Naomi_1_label_45_29729994:
+
+    # Naomi "Why would I want to make friends? Especially with you!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:395
+translate chinese Naomi_1_label_55_9e809ad2:
+
+    # ch_Name "Look, I just want to know you better. Why are you acting so weird about this?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:398
+translate chinese Naomi_1_label_55_e5e34cee:
+
+    # Naomi "All right, I get it."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:399
+translate chinese Naomi_1_label_55_dd143486:
+
+    # ch_Name "You get it?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:401
+translate chinese Naomi_1_label_55_238076cc:
+
+    # Naomi "Do you want to get to know me better? Okay! But not right now."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:405
+translate chinese Naomi_1_label_55_0e0bdd6c:
+
+    # ch_Name "Let's meet later after your classes, okay?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:408
+translate chinese Naomi_1_label_55_ab84a908:
+
+    # ch_Name "Great! I'll find you."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:440
+translate chinese Naomi_2_label_b4b5a4d7:
+
+    # ch_Name "We were supposed to meet, remember?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:442
+translate chinese Naomi_2_label_3b0169ec:
+
+    # Naomi "You know, I'm hanging out with my friend right now..."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:445
+translate chinese Naomi_2_label_df5e7b1c:
+
+    # Lily "Oh, don't worry, I was just leaving. I have um... a lot of homework to do."
+    Lily ""
+
+# game/logic/events/naomi.rpy:448
+translate chinese Naomi_2_label_f4a1d4ca:
+
+    # Naomi "No, wait, we were going to..."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:453
+translate chinese Naomi_2_label_40f4d33c:
+
+    # ch_Name "Well, here we are alone. Isn't it intirely unexpected?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:455
+translate chinese Naomi_2_label_a8a5db7e:
+
+    # Naomi "Uh-uh, unexpected. I'm thrilled."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:457
+translate chinese Naomi_2_label_95edadf3:
+
+    # ch_Name "You're not giving me a chance!"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:459
+translate chinese Naomi_2_label_f3bdecab:
+
+    # Naomi "Why do I waste my time with you?"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:460
+translate chinese Naomi_2_label_de8b3eb0:
+
+    # Naomi "We can't be friends, [Name]. You're a Leonheart!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:461
+translate chinese Naomi_2_label_69be9a39:
+
+    # ch_Name "Just like your friend Lily. Did you forget she's also a Leonheart?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:464
+translate chinese Naomi_2_label_be41bcc9:
+
+    # ch_Name "What exactly makes this different?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:466
+translate chinese Naomi_2_label_b6b1fc90:
+
+    # Naomi "Oh, God, stop it! You're the most annoying person I ever met!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:467
+translate chinese Naomi_2_label_6ca57711:
+
+    # Naomi "I'm not here to hang out with just anybody!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:468
+translate chinese Naomi_2_label_87368176:
+
+    # ch_Name "C'mon, I'm not just anybody."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:470
+translate chinese Naomi_2_label_f90cb080:
+
+    # Naomi "You're not? Why's that?"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:479
+translate chinese Naomi_2_label_e12ccf73:
+
+    # Naomi "A smile is a smile. So far as I can tell, nothing special..."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:481
+translate chinese Naomi_2_label_3dc3ecd4:
+
+    # ch_Name "{i}(Ouch, she's so ruthless!){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:484
+translate chinese Naomi_2_label_2d3c4db3:
+
+    # Naomi "No, of course not."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:490
+translate chinese Naomi_2_label_43_b9ea0806:
+
+    # ch_Name "Try me out and you'll find out, baby."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:491
+translate chinese Naomi_2_label_43_9fd1f887:
+
+    # ch_Name "You'll be pleasantly surprised, I promise."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:496
+translate chinese Naomi_2_label_43_2ef47dfa:
+
+    # Naomi "Didn't want to upset you, but that's not the way how things work in real life."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:500
+translate chinese Naomi_2_label_43_733bd10a:
+
+    # ch_Name "I'm not interested in \"all girls\", dear."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:503
+translate chinese Naomi_2_label_43_bae8e581:
+
+    # Naomi "Yeah, and you're doing it against my wishes. Are you okay with that?"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:504
+translate chinese Naomi_2_label_43_0109f0bb:
+
+    # ch_Name "Wishes can change so fast, Naomi. Sometimes even too fast."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:505
+translate chinese Naomi_2_label_43_8be2d4ee:
+
+    # Naomi "I'm kind of sick of you now..."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:506
+translate chinese Naomi_2_label_43_c2560c93:
+
+    # Naomi "And I'm absolutely not in the mood to spend the whole evening with you here!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:511
+translate chinese Naomi_2_label_55_7f6f3d42:
+
+    # ch_Name "Oh, I haven't even started yet."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:513
+translate chinese Naomi_2_label_55_dd372564:
+
+    # Naomi "Then start. The suspense is killing me."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:518
+translate chinese Naomi_2_label_55_ddb3bbee:
+
+    # ch_Name "You know what? No."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:523
+translate chinese Naomi_2_label_55_bbade917:
+
+    # ch_Name "But think about it: you want me to surprise you, right?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:528
+translate chinese Naomi_2_label_55_31a417e4:
+
+    # Naomi "Well... That's right."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:530
+translate chinese Naomi_2_label_55_ccdfa22d:
+
+    # Naomi "And you don't stand a chance. Yeah, sorry for the spoiler."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:532
+translate chinese Naomi_2_label_55_bea48ad8:
+
+    # ch_Name "Ugh, I've already heard it. So, I have an idea..."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:533
+translate chinese Naomi_2_label_55_35fd66c4:
+
+    # ch_Name "I propose this: a problem that only an Adderin could solve..."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:538
+translate chinese Naomi_2_label_55_20a7e7a5:
+
+    # Naomi "I never thought I would say that but you have a point!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:540
+translate chinese Naomi_2_label_55_084a4841:
+
+    # ch_Name "C'mon, just anything."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:552
+translate chinese Naomi_2_label_55_cfca94cd:
+
+    # Naomi "But I need some time to think about your assignment."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:556
+translate chinese Naomi_2_label_55_f10e9230:
+
+    # Naomi "But why waste such fun on the first thing that comes to mind, right?"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:558
+translate chinese Naomi_2_label_55_3a384817:
+
+    # Naomi "Well, that's enough for today. I don't have a lot of time."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:559
+translate chinese Naomi_2_label_55_741f62b3:
+
+    # Naomi "I have many other things to do."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:560
+translate chinese Naomi_2_label_55_bd2a393d:
+
+    # ch_Name "Good luck!"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:602
+translate chinese Naomi_3_label_194ade13:
+
+    # ch_Name "I'm surprised that you're in such a good mood."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:603
+translate chinese Naomi_3_label_9a0092a9:
+
+    # Naomi "I've just had a nice chat with my mom. We don't do that very often."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:604
+translate chinese Naomi_3_label_7057d26d:
+
+    # Naomi "But that's not the only reason."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:605
+translate chinese Naomi_3_label_34091323:
+
+    # ch_Name "What else?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:607
+translate chinese Naomi_3_label_2f9bf2fe:
+
+    # Naomi "You're about to prove to me that you're worthy."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:622
+translate chinese Naomi_3_label_ae3d03aa:
+
+    # Naomi "C'mon, I just wasn't in the mood."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:626
+translate chinese Naomi_3_label_ee15c43a:
+
+    # ch_Name "I'm surprised that you're in such a good mood now."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:627
+translate chinese Naomi_3_label_9a0092a9_1:
+
+    # Naomi "I've just had a nice chat with my mom. We don't do that very often."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:628
+translate chinese Naomi_3_label_7057d26d_1:
+
+    # Naomi "But that's not the only reason."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:629
+translate chinese Naomi_3_label_34091323_1:
+
+    # ch_Name "What else?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:630
+translate chinese Naomi_3_label_2f9bf2fe_1:
+
+    # Naomi "You're about to prove to me that you're worthy."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:674
+translate chinese Naomi_3_label_39_81d50f54:
+
+    # ch_Name "Of course, you can trust me, baby."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:707
+translate chinese Naomi_3_label_54_d0afff00:
+
+    # Naomi "So, taking a picture of the answers to a potions test..."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:736
+translate chinese Naomi_4_label_a074a147:
+
+    # ch_Name "Naomi, are you free? I want to talk with you."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:739
+translate chinese Naomi_4_label_317081e0:
+
+    # Lily "It was nice to see both of you, I'm gonna run."
+    Lily ""
+
+# game/logic/events/naomi.rpy:746
+translate chinese Naomi_4_label_eecf18e2:
+
+    # ch_Name "Not exactly. First, tell me what your plan is."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:748
+translate chinese Naomi_4_label_82d44ed5:
+
+    # Naomi "I'm gonna knock on the door and distract Miss Spellman..."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:752
+translate chinese Naomi_4_label_90d23bd5:
+
+    # ch_Name "Are you kidding me, Naomi?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:757
+translate chinese Naomi_4_label_1ada1314:
+
+    # Naomi "Yeah, you're right."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:758
+translate chinese Naomi_4_label_263ba2ee:
+
+    # Naomi "But you wanted a test and you got it. What's wrong?"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:759
+translate chinese Naomi_4_label_d06d7416:
+
+    # Naomi "Are you in?"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:761
+translate chinese Naomi_4_label_b9391ebe:
+
+    # ch_Name "C'mon, you only live once. [Name], please!"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:762
+translate chinese Naomi_4_label_6c978664:
+
+    # ch_Name "Okay, okay. I'm in."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:764
+translate chinese Naomi_4_label_28bc1244:
+
+    # Naomi "You are? Phewww!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:782
+translate chinese Naomi_4_label_d13df9fb:
+
+    # ch_Name "But not today, Naomi."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:784
+translate chinese Naomi_4_label_c0dd396e:
+
+    # ch_Name "I need to get everything ready, okay?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:788
+translate chinese Naomi_4_label_7478a451:
+
+    # Naomi "No-no-no, we don't have another night, [Name]!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:789
+translate chinese Naomi_4_label_abc963a3:
+
+    # Naomi "And you don't need a camera. You can have mine."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:792
+translate chinese Naomi_4_label_d5b73793:
+
+    # Naomi "Let's not make this more complicated. Hurry up before Sabrina leaves."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:794
+translate chinese Naomi_4_label_fd67a037:
+
+    # Naomi "You're the best!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:986
+translate chinese Naomi_6_label_76835974:
+
+    # ch_Name "Wasn't it your idea to distract Sabrina?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:995
+translate chinese Naomi_6_label_3077df1d:
+
+    # Naomi "You poor thing!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:1028
+translate chinese Naomi_6_label_1818c771:
+
+    # ch_Name "I'm not in the mood for this."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:1040
+translate chinese Naomi_6_label_5e7105e9:
+
+    # ch_Name "After a date with me. Deal?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:1074
+translate chinese Naomi_7_label_6f206c58:
+
+    # Lily "Don't bother, I was just leaving. See ya later!"
+    Lily ""
+
+# game/logic/events/naomi.rpy:1078
+translate chinese Naomi_7_label_7b353757:
+
+    # ch_Name "Don't worry, I have them."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:1088
+translate chinese Naomi_7_label_91dec0e6:
+
+    # ch_Name "Hmm, I don't know..."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2270
+translate chinese Naomi_11_label_7559bb84:
+
+    # ch_Name "{i}(Only look how gorgeous Naomi is in the sunlight!){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2271
+translate chinese Naomi_11_label_8835d4dd:
+
+    # ch_Name "{i}(Her bronzing skin is glowing!){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2272
+translate chinese Naomi_11_label_15745191:
+
+    # ch_Name "{i}(Oh, wait a minute.){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2273
+translate chinese Naomi_11_label_7bf76d84:
+
+    # ch_Name "{i}(Seems that something upset her.){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2274
+translate chinese Naomi_11_label_d2918942:
+
+    # ch_Name "{i}(And Lily is frowning...){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2276
+translate chinese Naomi_11_label_826ca9b0:
+
+    # ch_Name "{i}(Are they yelling at each other?){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2277
+translate chinese Naomi_11_label_3a439428:
+
+    # ch_Name "{i}(I'm wondering what is going on.){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2278
+translate chinese Naomi_11_label_5bf06c10:
+
+    # ch_Name "{i}(Is it just a girl drama or something more?){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2280
+translate chinese Naomi_11_label_0c8c0ec3:
+
+    # Naomi "I... I don't believe it."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2281
+translate chinese Naomi_11_label_c26e2324:
+
+    # Lily "C'mon, Naomi. What you're asking me to do is not possible!"
+    Lily ""
+
+# game/logic/events/naomi.rpy:2282
+translate chinese Naomi_11_label_97137d01:
+
+    # Naomi "You don't understand anything!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2283
+translate chinese Naomi_11_label_3fb4d11a:
+
+    # Lily "Don't be so dramatic."
+    Lily ""
+
+# game/logic/events/naomi.rpy:2285
+translate chinese Naomi_11_label_300e2f36:
+
+    # Lily "It's not as bad as you're making it out to be here."
+    Lily ""
+
+# game/logic/events/naomi.rpy:2286
+translate chinese Naomi_11_label_98399b7f:
+
+    # Naomi "I thought that we were friends, Lily!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2287
+translate chinese Naomi_11_label_36097636:
+
+    # Lily "I haven't left your side this whole time."
+    Lily ""
+
+# game/logic/events/naomi.rpy:2289
+translate chinese Naomi_11_label_d329fea2:
+
+    # Lily "But I don't think I can help you now."
+    Lily ""
+
+# game/logic/events/naomi.rpy:2290
+translate chinese Naomi_11_label_b98e470a:
+
+    # ch_Name "{i}(Is this a really good time for an intervention?){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2291
+translate chinese Naomi_11_label_6811832c:
+
+    # ch_Name "{i}(Well, be that as it may, I need to know what's going on.){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2293
+translate chinese Naomi_11_label_5ed5b070:
+
+    # ch_Name "Hello, girls."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2295
+translate chinese Naomi_11_label_89163fed:
+
+    # Lily "Oh, [Name]!"
+    Lily ""
+
+# game/logic/events/naomi.rpy:2296
+translate chinese Naomi_11_label_3ae9e23e:
+
+    # Lily "Well..."
+    Lily ""
+
+# game/logic/events/naomi.rpy:2297
+translate chinese Naomi_11_label_b2e792ca:
+
+    # Lily "Now's not a good time..."
+    Lily ""
+
+# game/logic/events/naomi.rpy:2298
+translate chinese Naomi_11_label_c17eb71e:
+
+    # ch_Name "I'm sorry, but..."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2300
+translate chinese Naomi_11_label_0808af01:
+
+    # ch_Name "Wait, Naomi, where are you going?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2301
+translate chinese Naomi_11_label_39eb0466:
+
+    # ch_Name "No-no, just stop for a second!"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2302
+translate chinese Naomi_11_label_c75963d7:
+
+    # Naomi "Fuck off!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2303
+translate chinese Naomi_11_label_709d194c:
+
+    # ch_Name "Don't be that gross."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2304
+translate chinese Naomi_11_label_8e426f0c:
+
+    # ch_Name "What if I'm just trying to help?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2306
+translate chinese Naomi_11_label_95dfa492:
+
+    # Naomi "What can you do, [Name]?"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2307
+translate chinese Naomi_11_label_2e7e3585:
+
+    # ch_Name "Are you crying?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2308
+translate chinese Naomi_11_label_23574db6:
+
+    # ch_Name "{i}(I didn't even know that she's able to cry...){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2309
+translate chinese Naomi_11_label_7ca4c915:
+
+    # Naomi "Just get off me!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2310
+translate chinese Naomi_11_label_18a466e3:
+
+    # ch_Name "C'mon, there is no need to stay alone with your problems."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2312
+translate chinese Naomi_11_label_27bade71:
+
+    # ch_Name "That's what friends are for."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2313
+translate chinese Naomi_11_label_4245a6a6:
+
+    # Naomi "That's why I'm so mad at Lily!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2314
+translate chinese Naomi_11_label_28aa5825:
+
+    # ch_Name "Let's take a walk."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2315
+translate chinese Naomi_11_label_1894d147:
+
+    # Naomi "Why would you want to?"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2316
+translate chinese Naomi_11_label_cde690b1:
+
+    # ch_Name "Don't think about that, okay?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2323
+translate chinese Naomi_11_label_03f3453d:
+
+    # Naomi "I just want a normal life. Hanging out with whoever I want and having fun!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2324
+translate chinese Naomi_11_label_a2126e6c:
+
+    # ch_Name "What's stopping you?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2325
+translate chinese Naomi_11_label_b3a1d43c:
+
+    # Naomi "My fucking family! "
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2327
+translate chinese Naomi_11_label_07774125:
+
+    # Naomi "My dad wants me to go on a trip around the world with him for a whole year!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2328
+translate chinese Naomi_11_label_ab0f4254:
+
+    # ch_Name "Wow, that's so cool! And what's the problem?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2329
+translate chinese Naomi_11_label_9feecda6:
+
+    # Naomi "What's coming over all of you?"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2330
+translate chinese Naomi_11_label_8a40ccb0:
+
+    # Naomi "I don't want to go anywhere!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2332
+translate chinese Naomi_11_label_59973add:
+
+    # Naomi "Isn't it obvious?"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2333
+translate chinese Naomi_11_label_a4add9f7:
+
+    # ch_Name "Well, did you tell your dad about that?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2334
+translate chinese Naomi_11_label_395365fd:
+
+    # Naomi "Of course! But it's useless. He won't listen to me."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2335
+translate chinese Naomi_11_label_52103d41:
+
+    # Naomi "He is a magical explorer and gets too excited about all the magical things he usually does."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2336
+translate chinese Naomi_11_label_b34b875b:
+
+    # Naomi "Now he's obsessed with the idea to go in search of sources of magical power."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2337
+translate chinese Naomi_11_label_809f0305:
+
+    # Naomi "And these are just little things!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2339
+translate chinese Naomi_11_label_b2df00f2:
+
+    # Naomi "But for some reason, he expects me to continue that work after his retirement."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2340
+translate chinese Naomi_11_label_b8f818ce:
+
+    # Naomi "For him the trip is just an opportunity to teach me everything he knows!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2341
+translate chinese Naomi_11_label_c2646fc5:
+
+    # Naomi "What nonsense is that?!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2342
+translate chinese Naomi_11_label_873f5ba3:
+
+    # Naomi "This idea is so sick!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2343
+translate chinese Naomi_11_label_421b055b:
+
+    # ch_Name "Look, maybe Lily was right?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2345
+translate chinese Naomi_11_label_84b9d911:
+
+    # ch_Name "Maybe it's not as bad as you're making it out to be?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2346
+translate chinese Naomi_11_label_0803b971:
+
+    # Naomi "How long were you listening before you approached?"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2347
+translate chinese Naomi_11_label_17ee2929:
+
+    # ch_Name "Not very long, no."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2349
+translate chinese Naomi_11_label_3363b79d:
+
+    # ch_Name "I'm sorry, I shouldn't have been listening."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2350
+translate chinese Naomi_11_label_e5eef626:
+
+    # Naomi "After that, I'd tell you to get the hell away!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2351
+translate chinese Naomi_11_label_747da256:
+
+    # Naomi "But..."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2352
+translate chinese Naomi_11_label_2bb9a060:
+
+    # Naomi "I don't even have the energy to care now."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2353
+translate chinese Naomi_11_label_a2d672b2:
+
+    # Naomi "I'm so mentally exhausted."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2355
+translate chinese Naomi_11_label_48c4ad7b:
+
+    # ch_Name "Come here, baby."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2356
+translate chinese Naomi_11_label_464a2be5:
+
+    # Naomi "What the hell are you doing?"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2357
+translate chinese Naomi_11_label_d0568707:
+
+    # ch_Name "Pace yourself, Naomi."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2358
+translate chinese Naomi_11_label_6a332ae9:
+
+    # ch_Name "Just relax, okay?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2359
+translate chinese Naomi_11_label_c407c08a:
+
+    # ch_Name "There is no need to be afraid of simple caress."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2361
+translate chinese Naomi_11_label_1939dbca:
+
+    # Naomi "Hmm... Still, there's only one solution."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2362
+translate chinese Naomi_11_label_62f20ce6:
+
+    # ch_Name "I'm all ears."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2363
+translate chinese Naomi_11_label_b61b3609:
+
+    # Naomi "I can run away and hide somewhere!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2364
+translate chinese Naomi_11_label_0869c975:
+
+    # Naomi "There are so many places where he can't find me."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2366
+translate chinese Naomi_11_label_49a81cef:
+
+    # Naomi "This world is awfully big."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2367
+translate chinese Naomi_11_label_bb7b0101:
+
+    # Naomi "But I can't do it alone. I need somebody."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2368
+translate chinese Naomi_11_label_4a8ba8ea:
+
+    # Naomi "I asked Lily, but she refused to help."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2369
+translate chinese Naomi_11_label_37a9cba1:
+
+    # Naomi "Little bitch!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2371
+translate chinese Naomi_11_label_061c4074:
+
+    # ch_Name "But she definitely has a point, don't you think so?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2372
+translate chinese Naomi_11_label_59926bf7:
+
+    # ch_Name "Your plan is too dubious, let's be honest."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2373
+translate chinese Naomi_11_label_503df07c:
+
+    # ch_Name "Run somewhere and fuss? For what?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2374
+translate chinese Naomi_11_label_f0f6342f:
+
+    # ch_Name "Why not go on an adventure?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2376
+translate chinese Naomi_11_label_38f6b0a8:
+
+    # ch_Name "Who's to say that you can't hang out and have fun there?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2377
+translate chinese Naomi_11_label_158daa15:
+
+    # ch_Name "You will get a great experience if you choose to go on a trip."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2378
+translate chinese Naomi_11_label_ea1263a9:
+
+    # ch_Name "I'd get so excited about getting out and seeing the world!"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2379
+translate chinese Naomi_11_label_2e69a85a:
+
+    # Naomi "Oh, [Name], shut up!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2380
+translate chinese Naomi_11_label_77a830b4:
+
+    # Naomi "I don't want to move out of here. The Cordale Academy is my home!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2382
+translate chinese Naomi_11_label_967e6141:
+
+    # Naomi "There's nothing to talk about with you. That's useless!"
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2383
+translate chinese Naomi_11_label_df813346:
+
+    # ch_Name "You're too stubborn, Naomi."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2384
+translate chinese Naomi_11_label_d5c5199a:
+
+    # ch_Name "That's not bad, but now you're making it worse for yourself."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2385
+translate chinese Naomi_11_label_4b30b1a8:
+
+    # ch_Name "I don't know anything new to tell you."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2387
+translate chinese Naomi_11_label_c067a39e:
+
+    # ch_Name "Just try to think differently. You need to learn how to look on the bright side."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2388
+translate chinese Naomi_11_label_ff5d6f05:
+
+    # ch_Name "That's not as hard as you can imagine."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2389
+translate chinese Naomi_11_label_5a7f56fa:
+
+    # Naomi "Uh-huh. Aha."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2390
+translate chinese Naomi_11_label_178a6d04:
+
+    # Naomi "Alright, I need to go."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2391
+translate chinese Naomi_11_label_0d806d38:
+
+    # Naomi "Thank you for this idle talk, [Name]."
+    Naomi ""
+
+# game/logic/events/naomi.rpy:2393
+translate chinese Naomi_11_label_31e8fba2:
+
+    # ch_Name "Well, as you wish."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2394
+translate chinese Naomi_11_label_15a362c2:
+
+    # ch_Name "But think carefully about what I said to you."
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2395
+translate chinese Naomi_11_label_969d1ec8:
+
+    # ch_Name "Okay?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2397
+translate chinese Naomi_11_label_02d9babc:
+
+    # ch_Name "Who knows, maybe you'll change your mind?"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2398
+translate chinese Naomi_11_label_7b5c8f91:
+
+    # Naomi "Bye-bye!"
+    Naomi ""
+
+translate chinese strings:
+
+    # game/logic/events/naomi.rpy:205
+    old "7 Talk to Naomi"
+    new ""
+

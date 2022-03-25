@@ -1512,3 +1512,11 @@ translate chinese strings:
     old "Tell him you have the seal"
     new "告诉他印章在你手上"
 
+# TODO: Translation updated at 2022-03-25 06:03
+
+translate chinese strings:
+
+    # game/logic/events/jacob.rpy:15
+    old "Ask about your origins"
+    new ""
+

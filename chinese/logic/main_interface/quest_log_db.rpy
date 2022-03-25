@@ -2078,3 +2078,279 @@ translate chinese strings:
     old "Everybody here in the Academy knows that Amelie once had a love affair with senior students."
     new "学院里的每个人都知道Amelie曾经和高年级学生有过一段恋情。"
 
+# TODO: Translation updated at 2022-03-25 06:03
+
+translate chinese strings:
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Elijah's older brother Ezra went missing 8 years ago, after he was accused of murdering his friend Hans. Turns out he and Hans were lovers and tried to escape Cordale to live together, but something gone wrong and he got stuck on deserted Island for 8 years, before Haley and I rescued him."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:318
+    old "{b}Main story{/b}"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:318
+    old "{b}Outro of the First Season{/b}"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "Next time"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "It seems like good company and a good load of alcohol can make Adele do crazy things. And no one can deny how talented she is in what she does. Next time I'll be visiting Dale I can invite her on another date."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "Adele and I were attacked by Diego when we went on a date. I've managed to escape and knock him out before anything tragic happened. Adele then told me that she will take care of him, so I don't think he'll bother us again."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "Amelie and I went to the pixie settlement in the woods and returned the stolen potion. It was epic! Admittedly, the potion broke and got on Amelie in the process, but that's okay... But, it was fun. I should visit her at the Library to make sure she's okay after that incident."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "After helping Amelie with the books I've noticed that she's been hitting on me. I think seducing her would be easy, if I ever want to."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "wins"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "win "
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "Leona's Story"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "Sabrina's Lessons"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "Victoria's Lessons"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "Haley's Story"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "Magic"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "Potions"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "I've been to Dale and it's awesome. Winning the school competition is really valuable, plus they give money to winners. By the end of the term, I have to adapt to the life in the Academy and attend a full course of Magic and Potions."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "Arthur announced that we'll have winter holidays to celebrate Christmas with our families. I'm not so happy to return to Olivia and Don, but I guess it's better than nothing. When I'm ready to leave, I should talk to Samantha. She told me that she'll be waiting for me in our Living room in the morning."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "Audrey took me to her secret place and showed her succubus form. I finally saw what she really is and could not keep my emotions. It's better not to bother her for a while now."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "letter"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "leave"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "Turn out Audrey isn't the last succubus. She's received a letter from another one of her species and may decide to leave the Academy to go meet him."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "Сombat bolt"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "I should catch up with Haley. She's probably studying already, so I can meet her in the Classroom 1 in the morning."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "To perform the ritual I have to wait until the full moon. The next one should be on Tuesday. When the day comes Haley will contact me."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "After taking a risky trip to an island me and Haley had some fun and managed to save Elijah's older brother Ezra. It feels right to do something good."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "I've heard that Jacob usually spends his evenings at the Entrance of Academy. Should I talk to him about something?"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "I used the Lion Seal to drive the evil spirit out of Jacob. Now I can ask him to tell me the truth about my parents. He'll be waiting in the evening, at the Academy Entrance."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "Turns out Jacob is my dad. Who would've thought? I feel too conflicted about it for now. The only thing that's left for me to do, is to return the Lion Seal to Leona. I should be able to summon her from the book in the Main Hall in the evening."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "I was able to free Leona from the evil monsters, but other house founders are still trapped there. I'll need Arthur's help to find their artifacts and save them."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "Сlassroom 1"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "I think I'll meet Lily somewhere where she can earn Leonheart some points. Maybe in the Сlassroom 1 in the morning?"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "potion classes"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "We finally talked to Lily about the events in the forest of mushrooms and set things straight. Now we both know exactly what our relationship is and how the boundaries are. I can't stop thinking about what's happened between us. I should talk to her in the afternoon before potion classes to make sure we're okay."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "After settling things up with Lily we've decided to finally go jogging together. She'll be waiting for me in My Bedroom in the evening."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "After jogging with Lily I've accidently found out that she's Leona's descendant. I wonder if Leona knows it and what would happen if they meet each other?"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "5 shifts"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "I think I'll meet Naomi in the Classroom 1 in the morning."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "When I helped Naomi to learn how to brew potions, there was some heat between us. She took me to the Library to finish what we've started the last time we were there. I should meet her in the evening after classes near the Fountain and ask if everything is alright."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "Turn out Naomi's dad wants her to skip the second half of the year to take a world tour and learn magic by practicing it. It sounds fun, but It's a little bit sad that she won't be coming back soon."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "Samantha and I went to a Cafe, and she shared that her dream is to find her biological father, whom Olivia didn't tell her anything about. I should talk to her once again. Maybe she'll be free in the morning, before classes. I can probably find her in our Living room."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "Tournament"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "Samantha had a bizarre nightmare about Dakota killing me. Does this mean she cares about me that much? Anyway, I have to help her win the Tournament of wizards if she ever needs my help."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "One of the students refused to take part in the Tournament of wizards and now I'm the new competitor. I need to think of a plan to help Samantha win the Tournament and don't get myself killed in the process."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "I'll probably meet Vanessa next time im in Lady Luck in Dale. She works there as the bartender."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1809
+    old "Victoria is one of my teachers. I can probably meet her at the Сlassroom 1 in the morning or afternoon."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2238
+    old "Visit Haley"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2238
+    old "Visit Haley in her room at the dorm and take her on a date to local Cafe in the evening."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2238
+    old "Help Haley"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2238
+    old "Help Haley to get new potions textbook from the Amelie in the library."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2238
+    old "Talk to Haley in her room about strange notes she found in her new potions textbook."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2238
+    old "Haley secret room"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2238
+    old "Help Haley find the Library's secret room by spying on Amelie."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2238
+    old "Join Haley"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2238
+    old "Join Haley in her efforts to get into the secret room to find more evidence."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2238
+    old "Ask Samantha"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2238
+    old "Ask Samantha in the dorm for her help performing a ritual with Haley."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2238
+    old "Ingredients for a ritual"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2238
+    old "Get all the required ingredients for a ritual from Willow at Chompski Shop in Dale."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2238
+    old "Haley on a picnic"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2238
+    old "For a second date, take Haley on a picnic to enjoy nature."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2238
+    old "Elijah's brother"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2238
+    old "Together with Haley and Samantha perform a ritual to open a portal to follow Elijah's brother."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2238
+    old "Find Jacob"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2238
+    old "Find Jacob at the Entrance to find out the truth about your parents."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2238
+    old "Return the Lion Seal"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2238
+    old "Return the Lion Seal to Leona by using the Sorting foliant in the Main Hall."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2238
+    old "Use the Character Info menu to complete all of the routes available in the current release."
+    new ""
+

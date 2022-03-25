@@ -7615,3 +7615,887 @@ translate russian strings:
     old "Try to fall asleep"
     new ""
 
+# TODO: Translation updated at 2022-03-25 06:29
+
+# game/logic/events/samantha.rpy:1778
+translate russian Samantha_12_label_c4708bfc:
+
+    # ch_Name "Do you have any classes now?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1782
+translate russian Samantha_12_label_0c579f44:
+
+    # ch_Name "We can take a walk together. What do you think?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1797
+translate russian Samantha_12_label_f6f2a3bf:
+
+    # ch_Name "Until the very last second, I believed that you'd have the courage to participate."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1869
+translate russian Samantha_12_label_4e155c1a:
+
+    # Dakota "I only wanted to greet new participant of The Tournament."
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1995
+translate russian Samantha_13_label_8566e9bf:
+
+    # ch_Name "Samantha? Are you okay?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1996
+translate russian Samantha_13_label_fe285b27:
+
+    # ch_Name "Shhh, why are you crying?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1999
+translate russian Samantha_13_label_f3ae098d:
+
+    # ch_Name "What happened? Tell me."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2000
+translate russian Samantha_13_label_c347193e:
+
+    # ch_Name "{i}(What might have happened? I've never seen her so scared.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2001
+translate russian Samantha_13_label_f3437177:
+
+    # ch_Name "Let's go to the bedroom. I want you to tell me everything."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2010
+translate russian Samantha_13_label_43a1d28d:
+
+    # ch_Name "Tell me about it. What was it like?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2028
+translate russian Samantha_13_label_8d262197:
+
+    # Samantha "You were protecting me from her."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2029
+translate russian Samantha_13_label_42c82029:
+
+    # Samantha "She was incredibly powerful, [Name]. But you..."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2030
+translate russian Samantha_13_label_f66a8dc5:
+
+    # Samantha "...you were amazing."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2067
+translate russian Samantha_13_label_a84e9722:
+
+    # ch_Name "Hm..."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2084
+translate russian Samantha_13_label_98ea8317:
+
+    # ch_Name "Aww, I'm happy to be here for you. Don't thank me for that."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2088
+translate russian Samantha_13_label_4ed8c180:
+
+    # Samantha "I feel so safe with you, [Name]."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2089
+translate russian Samantha_13_label_ecce82c5:
+
+    # Samantha "I never felt that way with anybody else."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2191
+translate russian Samantha_14_label_a7b2e514:
+
+    # ch_Name "{i}(What a beautiful morning!){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2192
+translate russian Samantha_14_label_87cc4886:
+
+    # ch_Name "{i}(I have never felt so awake!){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2194
+translate russian Samantha_14_label_b6ce45a5:
+
+    # NoName "Knock-Knock"
+    NoName ""
+
+# game/logic/events/samantha.rpy:2196
+translate russian Samantha_14_label_daa08ff6:
+
+    # ch_Name "{i}(Oh, someone is knocking at the door.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2197
+translate russian Samantha_14_label_49645caa:
+
+    # ch_Name "{i}(It seems that I have some unexpected guests.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2198
+translate russian Samantha_14_label_dd594b50:
+
+    # ch_Name "{i}(Who could it be?){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2200
+translate russian Samantha_14_label_89b8d08c:
+
+    # Samantha "Good morning!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2201
+translate russian Samantha_14_label_f1beecfa:
+
+    # ch_Name "Sam! Nice to meet you!"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2202
+translate russian Samantha_14_label_8dbbd47f:
+
+    # Samantha "Are you going to go to the general meeting with the Principal?"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2203
+translate russian Samantha_14_label_649a826a:
+
+    # ch_Name "General meeting?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2204
+translate russian Samantha_14_label_87f73256:
+
+    # Samantha "The results of the preliminary round of The Tournament will be announced there."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2206
+translate russian Samantha_14_label_9f21e51e:
+
+    # Samantha "I am at my wit's end!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2207
+translate russian Samantha_14_label_7e271ede:
+
+    # Samantha "I wish you could come with me, [Name]."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2208
+translate russian Samantha_14_label_f7605260:
+
+    # Samantha "I need your support in this."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2209
+translate russian Samantha_14_label_e95ff866:
+
+    # Samantha "It calms me only to know you'll be there, for me."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2210
+translate russian Samantha_14_label_22375128:
+
+    # ch_Name "Sure!"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2212
+translate russian Samantha_14_label_2fb964e8:
+
+    # ch_Name "I'd be happy to go with you."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2213
+translate russian Samantha_14_label_1f9f2c38:
+
+    # Samantha "Oh, [Name]!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2214
+translate russian Samantha_14_label_da8e5529:
+
+    # Samantha "I really appreciate it!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2222
+translate russian Samantha_14_label_37aaaa38:
+
+    # Arthur "Today we're gathered you here to announce something really important."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2223
+translate russian Samantha_14_label_3f937b8c:
+
+    # Arthur "As all of you know, our Academy is a venue for The Great Wizard Tournament..."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2224
+translate russian Samantha_14_label_5e9e63db:
+
+    # Arthur "...which is about to take place."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2225
+translate russian Samantha_14_label_111f7064:
+
+    # Arthur "We received more than 50 applications, however, we had to choose only four people."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2226
+translate russian Samantha_14_label_ebff0c64:
+
+    # Arthur "Only four people who showed us the most astonishing results."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2228
+translate russian Samantha_14_label_375981bd:
+
+    # Samantha "I'm so nervous, I'm shaking like a leaf!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2229
+translate russian Samantha_14_label_0c6c3c6c:
+
+    # ch_Name "Relax, it's all going to be okay."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2231
+translate russian Samantha_14_label_b9b1e94a:
+
+    # Arthur "I will kindly ask the following students to take their places here with me."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2232
+translate russian Samantha_14_label_587441a8:
+
+    # Arthur "Please, welcome..."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2233
+translate russian Samantha_14_label_c2a79735:
+
+    # Arthur "...Oliver Kellet, Crowhive!"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2235
+translate russian Samantha_14_label_ffc14c49:
+
+    # Samantha "I've never seen him before."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2236
+translate russian Samantha_14_label_21f49aac:
+
+    # ch_Name "Me too."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2238
+translate russian Samantha_14_label_0245193a:
+
+    # Arthur "Our next participant is..."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2239
+translate russian Samantha_14_label_b38a92ee:
+
+    # Arthur "...Lovely Dakota Alston, Adderin!"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2240
+translate russian Samantha_14_label_5d3fdcea:
+
+    # Samantha "No wonder, right?"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2242
+translate russian Samantha_14_label_4516c473:
+
+    # Arthur "I was stunned by your performance, Miss Alston. "
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2243
+translate russian Samantha_14_label_a33010f8:
+
+    # Dakota "Thank you!"
+    Dakota ""
+
+# game/logic/events/samantha.rpy:2244
+translate russian Samantha_14_label_371fc621:
+
+    # Dakota "I'm truly honored by your praise!"
+    Dakota ""
+
+# game/logic/events/samantha.rpy:2246
+translate russian Samantha_14_label_a0f93d39:
+
+    # Arthur "The next one is an incredibly talented young lady..."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2247
+translate russian Samantha_14_label_90d61e1d:
+
+    # Arthur "...Samantha Rose, Leonheart!"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2249
+translate russian Samantha_14_label_04e06fa6:
+
+    # Samantha "Oh, my Godness!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2250
+translate russian Samantha_14_label_7d987929:
+
+    # Samantha "Am I sleeping?"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2251
+translate russian Samantha_14_label_bd2a393d:
+
+    # ch_Name "Good luck!"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2252
+translate russian Samantha_14_label_3e42dc6b:
+
+    # ch_Name "{i}(I'm so happy for her!){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2254
+translate russian Samantha_14_label_15b58632:
+
+    # Arthur "And finally, our last participant is..."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2255
+translate russian Samantha_14_label_4c985306:
+
+    # Arthur "...Isaak Gelbert, Martenden!"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2256
+translate russian Samantha_14_label_8938566f:
+
+    # Arthur "But I have some terrible news."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2258
+translate russian Samantha_14_label_793941fd:
+
+    # ch_Name "{i}(Why isn't he coming out?){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2259
+translate russian Samantha_14_label_a9b7cd16:
+
+    # Arthur "For the first time in the history of The Tournament..."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2260
+translate russian Samantha_14_label_75328e05:
+
+    # Arthur "...the winner of the preliminary round refused to participate in the championship."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2261
+translate russian Samantha_14_label_75398644:
+
+    # ch_Name "{i}(What?){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2263
+translate russian Samantha_14_label_2bc65421:
+
+    # Arthur "By the rules, you can refuse to participate in The Tournament only in special cases."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2264
+translate russian Samantha_14_label_b498c1eb:
+
+    # Arthur "However, in the case of Isaak Gelbert there are some conditions..."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2265
+translate russian Samantha_14_label_0cb71755:
+
+    # Arthur "...that allow him to leave with no repercussions due to his health problems."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2266
+translate russian Samantha_14_label_f15c0abd:
+
+    # Arthur "Since we encountered such a situation for the first time..."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2267
+translate russian Samantha_14_label_56d2fd62:
+
+    # Arthur "...we did not have a contingency plan."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2268
+translate russian Samantha_14_label_a9999fee:
+
+    # Arthur "So I convened the Teachers' Council to discuss how we can resolve this situation."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2269
+translate russian Samantha_14_label_3344b131:
+
+    # Arthur "We decided to choose one more participant instead of the eliminated contestant."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2271
+translate russian Samantha_14_label_831f70f3:
+
+    # Elijah "Sorry, Principal, can I ask you something?"
+    Elijah ""
+
+# game/logic/events/samantha.rpy:2272
+translate russian Samantha_14_label_13573edf:
+
+    # Arthur "Surely."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2273
+translate russian Samantha_14_label_bfc7f8e3:
+
+    # Elijah "Wouldn't it be better to pick someone who already performed well on preliminaries..."
+    Elijah ""
+
+# game/logic/events/samantha.rpy:2274
+translate russian Samantha_14_label_fd1bbb7a:
+
+    # Elijah "...rather than looking for a new participant?"
+    Elijah ""
+
+# game/logic/events/samantha.rpy:2275
+translate russian Samantha_14_label_6b3c9989:
+
+    # Arthur "That sounds reasonable, Mr. Bloom. "
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2277
+translate russian Samantha_14_label_de764c26:
+
+    # Arthur "But we must strictly apply the rules."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2278
+translate russian Samantha_14_label_f3a98690:
+
+    # Arthur "The rules of The Tournament clearly determine the position of those..."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2279
+translate russian Samantha_14_label_34d56077:
+
+    # Arthur "...who participated in the preliminary round..."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2280
+translate russian Samantha_14_label_12ae33bd:
+
+    # Arthur "...but were not chosen for further participation initially."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2281
+translate russian Samantha_14_label_d9e247f6:
+
+    # Arthur "They cannot take part in The Tournament for one year."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2282
+translate russian Samantha_14_label_4f5b69b2:
+
+    # Arthur "As you can see, we have no other choice but to find one new participant."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2283
+translate russian Samantha_14_label_1d8802b9:
+
+    # Arthur "If we have several candidates, then one more preliminary round will be organized."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2285
+translate russian Samantha_14_label_fb63d62d:
+
+    # Arthur "I urge you to think properly."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2286
+translate russian Samantha_14_label_8a148e2b:
+
+    # Arthur "Is there one amongst you who is interested in participation?"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2287
+translate russian Samantha_14_label_0601d8f5:
+
+    # Arthur "Maybe somebody who hesitated to submit an application within the official deadline?"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2288
+translate russian Samantha_14_label_d9db4deb:
+
+    # Arthur "This is your chance."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2290
+translate russian Samantha_14_label_09f0146a:
+
+    # ch_Name "{i}(Wait, wait, wait! ){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2291
+translate russian Samantha_14_label_c6ff1096:
+
+    # ch_Name "{i}(If I become a participant, then I will have the opportunity...){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2292
+translate russian Samantha_14_label_20f8f8a8:
+
+    # ch_Name "{i}(...to help Samantha to win The Tournament!){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2293
+translate russian Samantha_14_label_58217839:
+
+    # ch_Name "{i}(Even if I won't be able to hold out for long...){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2294
+translate russian Samantha_14_label_e3581e8d:
+
+    # ch_Name "{i}(...Sam will have one less guy to compete with!){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2296
+translate russian Samantha_14_label_a0b9e29f:
+
+    # ch_Name "{i}(I can even try to win The Tournament and give that one wish to her!){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2297
+translate russian Samantha_14_label_7d18dd5e:
+
+    # ch_Name "{i}(She definitely will be fascinated by my plan!){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2298
+translate russian Samantha_14_label_fe2ad70c:
+
+    # ch_Name "{i}(But Sam also can be a tiny bit angry because it's kinda cheating...){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2299
+translate russian Samantha_14_label_5731a62e:
+
+    # ch_Name "{i}(She is too good.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2301
+translate russian Samantha_14_label_33993b42:
+
+    # ch_Name "{i}(Hmmm...){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2302
+translate russian Samantha_14_label_4a3b37f5:
+
+    # ch_Name "{i}(But it is all for her, right?){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2303
+translate russian Samantha_14_label_ac2a931d:
+
+    # ch_Name "{i}(We will defeat Dakota together!){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2304
+translate russian Samantha_14_label_4e064f98:
+
+    # Arthur "Doesn't anybody want to participate?"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2306
+translate russian Samantha_14_label_72199761:
+
+    # ch_Name "I want!"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2307
+translate russian Samantha_14_label_da739e29:
+
+    # Elijah "You're kidding, right?"
+    Elijah ""
+
+# game/logic/events/samantha.rpy:2308
+translate russian Samantha_14_label_07312313:
+
+    # ch_Name "Do I look like someone who's kidding?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2309
+translate russian Samantha_14_label_f632d10c:
+
+    # Arthur "Who said that?"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2311
+translate russian Samantha_14_label_4d8dc16a:
+
+    # ch_Name "Me, [Name] [Surname], Leonheart."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2312
+translate russian Samantha_14_label_df672057:
+
+    # Arthur "Are you a freshman?"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2313
+translate russian Samantha_14_label_80dac3e2:
+
+    # ch_Name "Yes, that's true."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2314
+translate russian Samantha_14_label_cd8952da:
+
+    # Arthur "And do you think that freshman can have enough skills for participation in The Tournament?"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2316
+translate russian Samantha_14_label_a4b51552:
+
+    # ch_Name "I suppose so, Principal."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2317
+translate russian Samantha_14_label_26fdc82c:
+
+    # Arthur "Do you understand the responsibility that you're going to take?"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2318
+translate russian Samantha_14_label_5d320ec6:
+
+    # ch_Name "Сompletely and utterly."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2319
+translate russian Samantha_14_label_da6509b5:
+
+    # Arthur "Well, does anybody have an objection?"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2321
+translate russian Samantha_14_label_4ac22ff9:
+
+    # Victoria "I wish to note that [Name] proved to be a talented and hard-working student."
+    Victoria ""
+
+# game/logic/events/samantha.rpy:2322
+translate russian Samantha_14_label_4ae78261:
+
+    # Victoria "He's one of the best in my class."
+    Victoria ""
+
+# game/logic/events/samantha.rpy:2323
+translate russian Samantha_14_label_7d8e5b63:
+
+    # Victoria "And besides, it seems that he's the only person who is interested in participation."
+    Victoria ""
+
+# game/logic/events/samantha.rpy:2324
+translate russian Samantha_14_label_59dacbb3:
+
+    # Arthur "In this case..."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2326
+translate russian Samantha_14_label_6740d4e6:
+
+    # Arthur "Please welcome our last participant..."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2327
+translate russian Samantha_14_label_247772b3:
+
+    # Arthur "...[Name] [Surname], Leonheart!"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2328
+translate russian Samantha_14_label_17cf0f98:
+
+    # ch_Name "{i}(Is this really happening?){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2330
+translate russian Samantha_14_label_45815383:
+
+    # ch_Name "{i}(I hope I did everything right..){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2331
+translate russian Samantha_14_label_cd011a56:
+
+    # ch_Name "{i}(So many people...){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2332
+translate russian Samantha_14_label_54d90add:
+
+    # ch_Name "{i}(I need to get used to it.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2333
+translate russian Samantha_14_label_b8e076e2:
+
+    # Arthur "My congratulations!"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2340
+translate russian Samantha_14_label_4fcf1879:
+
+    # Samantha "For God's sake, what it was about?!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2341
+translate russian Samantha_14_label_332b7521:
+
+    # Samantha "What the hell were you thinking?"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2342
+translate russian Samantha_14_label_5d0af212:
+
+    # Samantha "You have no idea of how dangerous it can be!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2343
+translate russian Samantha_14_label_efc33047:
+
+    # Samantha "And I'm the one that started it all..."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2344
+translate russian Samantha_14_label_972e3c12:
+
+    # ch_Name "Sam, I'm just trying to find a way to help you."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2346
+translate russian Samantha_14_label_76a6768e:
+
+    # Samantha "That's not what I meant when I asked for your support!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2347
+translate russian Samantha_14_label_3f9816b7:
+
+    # ch_Name "Yes, but..."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2348
+translate russian Samantha_14_label_8c4ea598:
+
+    # Samantha "What buts can be here?!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2350
+translate russian Samantha_14_label_6c3bc7a7:
+
+    # ch_Name "You have all rights to be mad at me, Sam."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2351
+translate russian Samantha_14_label_a19c800a:
+
+    # ch_Name "But what's done is done."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2352
+translate russian Samantha_14_label_2ac7ed45:
+
+    # ch_Name "We can't change anything."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2353
+translate russian Samantha_14_label_aec5f058:
+
+    # ch_Name "So maybe we'd think about our plan, mhm?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2355
+translate russian Samantha_14_label_0e5dc5ef:
+
+    # Samantha "All right."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2356
+translate russian Samantha_14_label_40fd1000:
+
+    # Samantha "I need to stay focused."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2357
+translate russian Samantha_14_label_500d2dcb:
+
+    # Samantha "But I have to think about this on my own first."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2358
+translate russian Samantha_14_label_33dca898:
+
+    # Samantha "Sorry for being rude, [Name].{w} But I'm too confused."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2360
+translate russian Samantha_14_label_73f9fbdc:
+
+    # ch_Name "Don't worry."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2361
+translate russian Samantha_14_label_33ffab35:
+
+    # ch_Name "And I'd be confused too, if I were you."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2362
+translate russian Samantha_14_label_48c27076:
+
+    # Samantha "We'll talk later, okay?"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2363
+translate russian Samantha_14_label_47b5ce2b:
+
+    # ch_Name "At any time."
+    ch_Name ""
+
+translate russian strings:
+
+    # game/logic/events/samantha.rpy:16
+    old "I'm ready to leave"
+    new ""
+

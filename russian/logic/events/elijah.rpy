@@ -2491,3 +2491,59 @@ translate russian strings:
     # game/logic/events/elijah.rpy:781
     old "Kiss Elijah"
     new "Поцеловать Элайджа"
+# TODO: Translation updated at 2022-03-25 06:29
+
+# game/logic/events/elijah.rpy:371
+translate russian Elijah_3_label_39_80971209:
+
+    # Elijah "Yes.{w} A man who's open to new acquaintances."
+    Elijah ""
+
+# game/logic/events/elijah.rpy:433
+translate russian Elijah_3_label_51_ef69e8db:
+
+    # Elijah "How are you doing here, bro?"
+    Elijah ""
+
+# game/logic/events/elijah.rpy:480
+translate russian Elijah_4_label_a17b2a1e:
+
+    # ch_Name "So, I'm going to participate in the Dueling club tonight."
+    ch_Name ""
+
+# game/logic/events/elijah.rpy:524
+translate russian Elijah_4_label_84f5ef7f:
+
+    # Elijah "Hey, take it easy. No, of course, it's not!"
+    Elijah ""
+
+# game/logic/events/elijah.rpy:533
+translate russian Elijah_4_label_28_8670c67f:
+
+    # Elijah "You have to go to the Chompski Shop on the main square."
+    Elijah ""
+
+# game/logic/events/elijah.rpy:540
+translate russian Elijah_4_label_28_863c8d74:
+
+    # Elijah "Of course, it is, handsome. I told you it was a great job."
+    Elijah ""
+
+# game/logic/events/elijah.rpy:587
+translate russian Elijah_5_label_7ff34246:
+
+    # ch_Name "{i}(Oh, yes! I should probably go get that nectar for Elijah. Almost forgot about it.){/i}"
+    ch_Name ""
+
+# game/logic/events/elijah.rpy:731
+translate russian Elijah_6_label_29e1dfd4:
+
+    # Elijah "Let's take a walk and I'll tell you about the Dueling club."
+    Elijah ""
+
+# game/logic/events/elijah.rpy:732
+translate russian Elijah_6_label_57d809d1:
+
+    # ch_Name "The Dueling club?"
+    ch_Name ""
+

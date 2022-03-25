@@ -1510,3 +1510,11 @@ translate russian strings:
     # game/logic/events/jacob.rpy:15
     old "Tell him you have the seal"
     new "Сказать ему, что у меня есть печать"
+# TODO: Translation updated at 2022-03-25 06:29
+
+translate russian strings:
+
+    # game/logic/events/jacob.rpy:15
+    old "Ask about your origins"
+    new ""
+

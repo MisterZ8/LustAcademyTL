@@ -201,3 +201,11 @@ translate russian strings:
     # game/logic/characters.rpy:51
     old "Dakota"
     new "Дакота"
+# TODO: Translation updated at 2022-03-25 06:29
+
+translate russian strings:
+
+    # game/logic/characters.rpy:52
+    old "Ezra"
+    new ""
+
