@@ -634,7 +634,7 @@ translate brazilian Lily_2_label_ce09f520:
 translate brazilian Lily_2_label_efa98234:
 
     # Lily "And it's something to do in our spare time! Isn't it awesome?"
-    Lily "E é algo que podemos fazer no nosso tempo livre! Maravilha!"
+    Lily "E é algo que podemos fazer no nosso tempo livre! Não é maravilhoso?"
 
 # game/logic/events/lily.rpy:387
 translate brazilian Lily_2_label_be820b7a:
@@ -922,7 +922,7 @@ translate brazilian Lily_3_label_8_48ebd0a9:
 translate brazilian Lily_3_label_8_143e4e9a:
 
     # Lily "We have to win at the Dueling club!"
-    Lily "{b}Temos que vencer no Clube de Duelos!{/b}"
+    Lily "Temos que vencer no Clube de Duelos!"
 
 # game/logic/events/lily.rpy:477
 translate brazilian Lily_3_label_8_02c91267:
@@ -1096,7 +1096,7 @@ translate brazilian Lily_3_label_8_04b411ae:
 translate brazilian Lily_3_label_8_e252236f:
 
     # Lily "We'll see!"
-    Lily "Veremos."
+    Lily "Veremos!"
 
 # game/logic/events/lily.rpy:518
 translate brazilian Lily_3_label_8_3e3e63f8:
@@ -1318,7 +1318,7 @@ translate brazilian Lily_4_label_d572354b:
 translate brazilian Lily_4_label_1989eba4:
 
     # Lily "Why don't we meet in your room when it gets dark?"
-    Lily "Por que não {b}nos encontramos no seu quarto quando escurecer?{/b}"
+    Lily "Por que não nos encontramos no seu quarto quando escurecer?"
 
 # game/logic/events/lily.rpy:590
 translate brazilian Lily_4_label_fe0d8627:
@@ -1588,7 +1588,7 @@ translate brazilian Lily_5_label_015ce907:
 translate brazilian Lily_5_label_5ae6bc8b:
 
     # ch_Name "Somehow I don't doubt it, miss."
-    ch_Name "Não tenho dúvida."
+    ch_Name "Não tenho dúvida, senhorita."
 
 # game/logic/events/lily.rpy:673
 translate brazilian Lily_5_label_61eef2ef:
