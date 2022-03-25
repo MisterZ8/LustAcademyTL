@@ -1288,7 +1288,7 @@ translate brazilian Elijah_4_label_28_aafa205e:
 translate brazilian Elijah_4_label_28_e3b6b6a5:
 
     # Elijah "You have to go to the Chompski Shop on the main square."
-    Elijah "Você tem que ir até o Chompsky's na praça principal."
+    Elijah "Você tem que ir até a loja do Chompski, na praça principal."
 
 # game/logic/events/elijah.rpy:534
 translate brazilian Elijah_4_label_28_3bb01244:
@@ -1432,7 +1432,7 @@ translate brazilian Elijah_5_label_5ad75a04:
 translate brazilian Elijah_5_label_e56961db:
 
     # ch_Name "{i}(Oh, yes! I should probably go get that nectar for Elijah. Almost forgot about it.){/i}"
-    ch_Name "{i}(Sim, deveria pegar logo o néctar para Elijah. Quase esqueci.){/i}"
+    ch_Name "{i}(Sim! Deveria pegar logo o néctar para Elijah. Quase esqueci.){/i}"
 
 # game/logic/events/elijah.rpy:591
 translate brazilian Elijah_5_label_0f092cb9:
