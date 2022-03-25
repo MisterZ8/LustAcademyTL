@@ -356,7 +356,7 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "She's in Leonheart too, so I can probably meet her in the Living room in the morning."
-    new "Ela é de Leonheart também, então devo encontrá-la no nosso campus pela manhã."
+    new "Ela é de Leonheart também, então devo encontrá-la no nossa sala de estar pela manhã."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Audrey only talks to men who can take her to a restaurant. It seems that I have to get a job to interest her in my persona."
@@ -420,7 +420,7 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "This strange creature attacked me in Dale, but fended it off with Сombat bolt."
-    new "Essa criatura estranha me atacou em dale, mas a espantei com um Combat Bolt."
+    new "Essa criatura estranha me atacou em dale, mas a espantei com um Raio de Combate."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Strange creature that lives on the streets of Dale asked me to get a potion from Sabrina to lift his curse. I should talk to Sabrina when I get a chance."
