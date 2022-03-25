@@ -221,7 +221,7 @@ translate philippine strings:
     new "Tumatayo ka pa ba? Hindi tatagal 'yun."
 
     # game/logic/mini_games/duels/logic.rpy:2543
-    old "Those were easy points for Lenoheart."
+    old "Those were easy points for Leonheart."
     new "Mabilis na mga puntos para sa Leonheart."
 
     # game/logic/mini_games/duels/logic.rpy:2543

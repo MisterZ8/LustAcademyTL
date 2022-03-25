@@ -6002,7 +6002,7 @@ translate russian Samantha_12_label_9f0bb977:
 # game/logic/events/samantha.rpy:1788
 translate russian Samantha_12_label_8e59c4cf:
 
-    # ch_Name "Until the very last second, I believed that you'd have the courage to participate!"
+    # ch_Name "Until the very last second, I believed that you'd have the courage to participate."
     ch_Name ""
 
 # game/logic/events/samantha.rpy:1789
@@ -6314,7 +6314,7 @@ translate russian Samantha_12_label_ffbb21ce:
 # game/logic/events/samantha.rpy:1860
 translate russian Samantha_12_label_3a604356:
 
-    # Dakota "I only wanted to greet new participants of The Tournament."
+    # Dakota "I only wanted to greet new participant of The Tournament."
     Dakota ""
 
 # game/logic/events/samantha.rpy:1861

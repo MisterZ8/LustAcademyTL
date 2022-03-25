@@ -221,7 +221,7 @@ translate spanish_LatAm strings:
     new "¿Sigues de pie? No por mucho"
 
     # game/logic/mini_games/duels/logic.rpy:2543
-    old "Those were easy points for Lenoheart."
+    old "Those were easy points for Leonheart."
     new "Esos fueron puntos fáciles para Leonheart"
 
     # game/logic/mini_games/duels/logic.rpy:2543

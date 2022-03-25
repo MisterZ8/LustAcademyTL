@@ -221,7 +221,7 @@ translate deutsch strings:
     new "Bist du etwa immer noch auf deinen Beinen? Nicht mehr lange."
 
     # game/logic/mini_games/duels/logic.rpy:2543
-    old "Those were easy points for Lenoheart."
+    old "Those were easy points for Leonheart."
     new "Das waren einfache Punkte für Leonheart."
 
     # game/logic/mini_games/duels/logic.rpy:2543

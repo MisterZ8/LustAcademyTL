@@ -355,7 +355,7 @@ translate dutch strings:
     new "Dit personage heeft geen actieve missies in deze versie van het spel."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "She's in Leonheart too, so I can probably meet her in our campus in the morning."
+    old "She's in Leonheart too, so I can probably meet her in the Living room in the morning."
     new "Ze hoort ook bij Leonheart, dus ik kan haar waarschijnlijk morgenocthend ontmoeten in onze campus."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -391,7 +391,7 @@ translate dutch strings:
     new "Ik heb eindelijk met Audrey gepraat over onze relatie en alles wat er onlangs gebeurd is. Nu hebben we allebei een beter beeld van de lijnen tussen ons. Het is aan mij om te bepalen of ik mijn relatie met haar wil voortzetten, ik moet alleen niet vergeten dat zij de duivel is die Samantha bijna pijn deed."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "Elijah should give me a \"student card\". I can catch him in the living room in the morning."
+    old "Elijah should give me a student card. I can catch him in the Living room in the morning."
     new "Elijah zou me een \"studentenkaart\" geven. Ik kan hem 's-morgens in de woonkamer vinden."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -419,7 +419,7 @@ translate dutch strings:
     new "Elijah was erg blij dat ik hem heb geholpen om Dryad's nectar te krijgen. Het lijkt erop dat hij graag met mij samenwerkt."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "This strange creature attacked me in Dale, but fended it off with combat bolt."
+    old "This strange creature attacked me in Dale, but fended it off with Сombat bolt."
     new "Dit vreemde wezen viel me aan in Dale, maar ik heb me met een combat bolt verdedigd."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -575,7 +575,7 @@ translate dutch strings:
     new "We hebben eindelijk met Lily gepraat over de gebeurtenissen in het paddestoelenbos en alles rechtgezet. Nu weten we allebei precies wat onze relatie is en wat de grenzen zijn."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "Lucy is a pretty European girl who works as a stripper in Lady Luck. I think we can have some fun time together at the VIP lounge."
+    old "Lucy is a pretty european girl who works as a stripper in Lady Luck. I think we can have some fun time together at the VIP lounge."
     new "Lucy is een knappe Europese meid die als stripper werkt bij Lady Luck. Ik denk dat we samen wat plezier kunnen maken in de VIP lounge."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -671,7 +671,7 @@ translate dutch strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "Samantha suggested we meet in the living room in the morning."
+    old "Samantha suggested we meet in the Living room in the morning."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593

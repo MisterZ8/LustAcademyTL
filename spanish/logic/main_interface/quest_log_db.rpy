@@ -355,7 +355,7 @@ translate spanish strings:
     new "Este personaje no tiene misiones activas en está versión del juego."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "She's in Leonheart too, so I can probably meet her in our campus in the morning."
+    old "She's in Leonheart too, so I can probably meet her in the Living room in the morning."
     new "Ella también está en Lionheart, así que seguramente podré quedar con ella en el campus por la mañana."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -391,7 +391,7 @@ translate spanish strings:
     new "Por fin hemos hablado Audrey y yo sobre nuestra relación y todo lo que ha pasado ultimamente. Ahora ambos entendemos mejor los límites entre los dos. Ahora es cosa mía decidir si quiero continuar mi relación con ella o no, no hay que olvidar que ella es el súcubo que casi hiere a Samantha."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "Elijah should give me a \"student card\". I can catch him in the living room in the morning."
+    old "Elijah should give me a student card. I can catch him in the Living room in the morning."
     new "Elijah debería darme un \"carnet de estudiante\". Puedo alcanzarle por la mañana en la sala de estar."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -419,7 +419,7 @@ translate spanish strings:
     new "Elijah estaba muy agradecido por mi ayuda para conseguir el néctar de dríada. Parece que le gusta trabajar conmigo. "
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "This strange creature attacked me in Dale, but fended it off with combat bolt."
+    old "This strange creature attacked me in Dale, but fended it off with Сombat bolt."
     new "Esta extraña criatura me atacó en Dale, pero lo rechace con combat bolt."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -575,7 +575,7 @@ translate spanish strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "Lucy is a pretty European girl who works as a stripper in Lady Luck. I think we can have some fun time together at the VIP lounge."
+    old "Lucy is a pretty european girl who works as a stripper in Lady Luck. I think we can have some fun time together at the VIP lounge."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -671,7 +671,7 @@ translate spanish strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "Samantha suggested we meet in the living room in the morning."
+    old "Samantha suggested we meet in the Living room in the morning."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593

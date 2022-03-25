@@ -201,7 +201,7 @@ translate french Audrey_1_label_f382e2e5:
 # game/logic/events/audrey.rpy:186
 translate french Audrey_1_label_a6ed42e6:
 
-    # Audrey "{b}I just wanted a cup of coffee{/b} in the morning..."
+    # Audrey "I just wanted a cup of coffee in the morning..."
     Audrey ""
 
 # game/logic/events/audrey.rpy:187
@@ -291,7 +291,7 @@ translate french Audrey_1_label_d296d9fd:
 # game/logic/events/audrey.rpy:204
 translate french Audrey_1_label_d95d7941:
 
-    # Audrey "{b}Would you go get some milk or cream?{/b}"
+    # Audrey "Would you go get some milk or cream?"
     Audrey ""
 
 # game/logic/events/audrey.rpy:205
@@ -615,7 +615,7 @@ translate french Audrey_2_label_d48fe563:
 # game/logic/events/audrey.rpy:296
 translate french Audrey_2_label_b851b9e7:
 
-    # ch_Name "Of course you do."
+    # ch_Name "Of course, you do."
     ch_Name ""
 
 # game/logic/events/audrey.rpy:298
@@ -5163,7 +5163,7 @@ translate french Audrey_6_label_dbc212a0:
 # game/logic/events/audrey.rpy:1504
 translate french Audrey_6_label_afff30b8:
 
-    # ch_Name "{i}(On the other hand. what's wrong with friends ho has some benefits?){/i}"
+    # ch_Name "{i}(On the other hand, what's wrong with friends who has some benefits?){/i}"
     ch_Name ""
 
 # game/logic/events/audrey.rpy:1506
@@ -5421,7 +5421,7 @@ translate french Audrey_5_label_86bf0533:
 # game/logic/events/audrey.rpy:1576
 translate french Audrey_5_label_54e15098:
 
-    # ch_Name "Not if you got spare keys,"
+    # ch_Name "Not if you got spare keys."
     ch_Name ""
 
 # game/logic/events/audrey.rpy:1577
@@ -5805,7 +5805,7 @@ translate french Audrey_5_label_8e292442:
 # game/logic/events/audrey.rpy:1671
 translate french Audrey_5_label_359897f9:
 
-    # ch_Name "Yeah, In some twisted way."
+    # ch_Name "Yeah, in some twisted way."
     ch_Name ""
 
 # game/logic/events/audrey.rpy:1672
@@ -5823,7 +5823,7 @@ translate french Audrey_5_label_ddc89006:
 # game/logic/events/audrey.rpy:1676
 translate french Audrey_5_label_311e76e9:
 
-    # ch_Name "Alright,"
+    # ch_Name "Alright!"
     ch_Name ""
 
 # game/logic/events/audrey.rpy:1677
@@ -6165,7 +6165,7 @@ translate french Audrey_4_label_792efb14:
 # game/logic/events/audrey.rpy:1826
 translate french Audrey_4_label_9eea01c2:
 
-    # Samantha "You know I'm an open book:"
+    # Samantha "You know I'm an open book!"
     Samantha ""
 
 # game/logic/events/audrey.rpy:1827
@@ -6285,7 +6285,7 @@ translate french Audrey_4_label_6eceb4ab:
 # game/logic/events/audrey.rpy:1852
 translate french Audrey_4_label_241d53da:
 
-    # Samantha "Hello! Yes? Mister principal?"
+    # Samantha "Hello! Yes? Mister Principal?"
     Samantha ""
 
 # game/logic/events/audrey.rpy:1853

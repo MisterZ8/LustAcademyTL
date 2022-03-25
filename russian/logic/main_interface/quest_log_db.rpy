@@ -355,7 +355,7 @@ translate russian strings:
     new "В данной версии игры у этого персонажа нет активных квестов."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "She's in Leonheart too, so I can probably meet her in our campus in the morning."
+    old "She's in Leonheart too, so I can probably meet her in the Living room in the morning."
     new "Она тоже учится в Леорхарте, так что я могу встретить её по утрам у нас в общежитии."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -391,7 +391,7 @@ translate russian strings:
     new "Мы наконец поговорили с Одри о наших отношениях и обо всём, что недавно случилось. Теперь мы яснее расставили границы между нами. Решение за мной, хочу ли я продолжать отношения с ней, но при этом не стоит забывать, что она суккуб и причиняет Саманте боль."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "Elijah should give me a \"student card\". I can catch him in the living room in the morning."
+    old "Elijah should give me a student card. I can catch him in the Living room in the morning."
     new "Элайджа должен дать мне \"карточку студента\". Я могу застать его утром в гостиной."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -419,7 +419,7 @@ translate russian strings:
     new "Элайджа был очень рад, что я помог ему раздобыть нектар Дриад. Надеюсь, ему нравится со мной работать."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "This strange creature attacked me in Dale, but fended it off with combat bolt."
+    old "This strange creature attacked me in Dale, but fended it off with Сombat bolt."
     new "Какое-то странное создание напало на меня в Дейле, но я отбился с помощью боевой молнии."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -575,7 +575,7 @@ translate russian strings:
     new "Мы наконец поговорили с Лили насчёт событий в грибном лесу и всё прояснили. Теперь мы оба знаем, чего мы хотим от наших отношений и где проходят границы."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "Lucy is a pretty European girl who works as a stripper in Lady Luck. I think we can have some fun time together at the VIP lounge."
+    old "Lucy is a pretty european girl who works as a stripper in Lady Luck. I think we can have some fun time together at the VIP lounge."
     new "Люси - симпатичная европейская девушка, работает стриптизёршей в Леди Удаче. Мы наверняка отлично проведём с ней время в ВИП-зоне."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -671,7 +671,7 @@ translate russian strings:
     new "Садира - горячая арабская стриптизёрша в Леди Удаче. Она более чем рада ублажить меня, если я заплачу за ВИП-зону."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "Samantha suggested we meet in the living room in the morning."
+    old "Samantha suggested we meet in the Living room in the morning."
     new "Саманта предложила увидеться утром в гостиной."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -1679,7 +1679,7 @@ translate russian strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1745
-    old "Now I can help Molly serve food at her Cafe for a decent fee. It gets even better if I don't screw up and get more tips. Working together with Molly can get us closer. Her workload is less intense in the evening, so it's better to talk to her at this time. But first I'll gain her trust by working at least five shifts."
+    old "Now I can help Molly serve food at her Cafe for a decent fee. It gets even better if I don't screw up and get more tips. Working together with Molly can get us closer. Her workload is less intense in the evening, so it's better to talk to her at this time. But first I'll gain her trust by working at least 5 shifts."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1745

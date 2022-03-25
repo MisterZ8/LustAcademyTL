@@ -4,8 +4,7 @@
 translate chinese cafe_event_ahchi_1_ed70a383:
 
     # ch_Name "{i}(And this cafe looks pretty cozy.){/i}"
-    ch_Name "{i}(这家咖啡馆看起来很舒适。){/i}
-"
+    ch_Name "{i}(这家咖啡馆看起来很舒适。){/i}"
 
 # game/logic/events/ahchi.rpy:158
 translate chinese cafe_event_ahchi_1_afa58c33:
@@ -2997,7 +2996,7 @@ translate chinese CF_Ahchi_2_label_3da033dc:
 # game/logic/events/ahchi.rpy:862
 translate chinese CF_Ahchi_2_label_db16e8fe:
 
-    # Ahchi "Did you hear what old man Chompsky pulled the other day?"
+    # Ahchi "Did you hear what old man Chompski pulled the other day?"
     Ahchi "你听说Chompsky老头那天干了什么吗？"
 
 # game/logic/events/ahchi.rpy:863

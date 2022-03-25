@@ -221,7 +221,7 @@ translate russian strings:
     new "Ты всё ещё на ногах? Я это исправлю."
 
     # game/logic/mini_games/duels/logic.rpy:2543
-    old "Those were easy points for Lenoheart."
+    old "Those were easy points for Leonheart."
     new "Лёгкие очки в пользу Леонхарта."
 
     # game/logic/mini_games/duels/logic.rpy:2543

@@ -8961,7 +8961,7 @@ translate russian Haley_16_label_3b92c110:
 # game/logic/events/haley.rpy:2668
 translate russian Haley_16_label_bb1fe16b:
 
-    # Samantha "I just can't believe it!"
+    # Samantha "I... I can't believe it!"
     Samantha "Я просто поверить не могу!"
 
 # game/logic/events/haley.rpy:2670
@@ -9111,7 +9111,7 @@ translate russian Haley_16_label_26a17637:
 # game/logic/events/haley.rpy:2701
 translate russian Haley_16_label_d824b401:
 
-    # Samantha "It's all seems to be a silly joke!"
+    # Samantha "It all seems to be a silly joke!"
     Samantha "Это все выглядит как дурная шутка!"
 
 # game/logic/events/haley.rpy:2703
@@ -12218,7 +12218,7 @@ translate russian Haley_18_label_e0635a17:
 # game/logic/events/haley.rpy:3413
 translate russian Haley_18_label_1d0846ac:
 
-    # ch_Name "I got very lucky!"
+    # ch_Name "I got very lucky."
     ch_Name ""
 
 # game/logic/events/haley.rpy:3414
@@ -12272,7 +12272,7 @@ translate russian Haley_18_label_256f4f06:
 # game/logic/events/haley.rpy:3423
 translate russian Haley_18_label_7ee07798:
 
-    # ch_Name "And now we have a reason!"
+    # ch_Name "And now we have a reason."
     ch_Name ""
 
 # game/logic/events/haley.rpy:3424
@@ -12290,7 +12290,7 @@ translate russian Haley_18_label_7b725f3c:
 # game/logic/events/haley.rpy:3426
 translate russian Haley_18_label_fd7f778e:
 
-    # ch_Name "Let's go on a picnic!"
+    # ch_Name "Let's go on a picnic."
     ch_Name ""
 
 # game/logic/events/haley.rpy:3428
@@ -13064,13 +13064,13 @@ translate russian Haley_19_label_from_gallery_44f1d18a:
 # game/logic/events/haley.rpy:3616
 translate russian Haley_19_label_from_gallery_8275571d:
 
-    # Haley "No, please!"
+    # Haley "No, please..."
     Haley ""
 
 # game/logic/events/haley.rpy:3617
 translate russian Haley_19_label_from_gallery_19f7fb70:
 
-    # Haley "Don't stop!"
+    # Haley "Don't stop..."
     Haley ""
 
 # game/logic/events/haley.rpy:3618
@@ -13346,7 +13346,7 @@ translate russian Haley_19_label_from_gallery_4059c118:
 # game/logic/events/haley.rpy:3682
 translate russian Haley_19_label_from_gallery_a0fd0f9a:
 
-    # Haley "Really? It's so late."
+    # Haley "Really? It's late."
     Haley ""
 
 # game/logic/events/haley.rpy:3683
@@ -13394,13 +13394,13 @@ translate russian Haley_19_label_from_gallery_85c8579f:
 # game/logic/events/haley.rpy:3698
 translate russian Haley_19_label_from_gallery_3d39623d:
 
-    # Haley "It was you who organized everything!"
+    # Haley "It was you who organized everything."
     Haley ""
 
 # game/logic/events/haley.rpy:3699
 translate russian Haley_19_label_from_gallery_58fa4769:
 
-    # Haley "And it was amazing."
+    # Haley "And it was amazing!"
     Haley ""
 
 # game/logic/events/haley.rpy:3700

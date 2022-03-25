@@ -117,13 +117,13 @@ translate english Gordon_1_label_202d19cd:
 # game/logic/events/gordon.rpy:99
 translate english Gordon_1_label_dd55f052:
 
-    # UnknownGordon "I'm Gordon Chompsky."
+    # UnknownGordon "I'm Gordon Chompski."
     UnknownGordon ""
 
 # game/logic/events/gordon.rpy:101
 translate english Gordon_1_label_26f50841:
 
-    # Gordon "And this is Chompsky's shop. Best store in Dale."
+    # Gordon "And this is Chompski Shop. Best store in Dale."
     Gordon ""
 
 # game/logic/events/gordon.rpy:102
@@ -477,7 +477,7 @@ translate english Gordon_1_label_4b555c3a:
 # game/logic/events/gordon.rpy:188
 translate english Gordon_1_label_075093fc:
 
-    # Gordon "If you need a part-time job, there's nobody better than Chompsky."
+    # Gordon "If you need a part-time job, there's nobody better than Chompski."
     Gordon ""
 
 # game/logic/events/gordon.rpy:189
@@ -951,7 +951,7 @@ translate english Willow_1_label_51f86b76:
 # game/logic/events/gordon.rpy:338
 translate english Willow_1_label_bf7d543c:
 
-    # ch_Name "{i}(Chompsky's store. That's where I'm going.){/i}"
+    # ch_Name "{i}(The Chompski Shop. That's where I'm going.){/i}"
     ch_Name ""
 
 # game/logic/events/gordon.rpy:339

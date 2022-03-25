@@ -221,7 +221,7 @@ translate chinese strings:
     new "你还能站起来吗? 不会持续太久。"
 
     # game/logic/mini_games/duels/logic.rpy:2543
-    old "Those were easy points for Lenoheart."
+    old "Those were easy points for Leonheart."
     new "这些对勒诺哈特来说很容易。"
 
     # game/logic/mini_games/duels/logic.rpy:2543

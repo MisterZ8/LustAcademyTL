@@ -221,7 +221,7 @@ translate brazilian strings:
     new "Você ainda está em pé? Não por muito tempo."
 
     # game/logic/mini_games/duels/logic.rpy:2543
-    old "Those were easy points for Lenoheart."
+    old "Those were easy points for Leonheart."
     new "Esses pontos para Leonheart foram fáceis."
 
     # game/logic/mini_games/duels/logic.rpy:2543

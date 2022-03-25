@@ -8961,7 +8961,7 @@ translate chinese Haley_16_label_3b92c110:
 # game/logic/events/haley.rpy:2668
 translate chinese Haley_16_label_bb1fe16b:
 
-    # Samantha "I just can't believe it!"
+    # Samantha "I... I can't believe it!"
     Samantha "我简直不敢相信!"
 
 # game/logic/events/haley.rpy:2670
@@ -9111,7 +9111,7 @@ translate chinese Haley_16_label_26a17637:
 # game/logic/events/haley.rpy:2701
 translate chinese Haley_16_label_d824b401:
 
-    # Samantha "It's all seems to be a silly joke!"
+    # Samantha "It all seems to be a silly joke!"
     Samantha "这一切都像是一个愚蠢的玩笑!"
 
 # game/logic/events/haley.rpy:2703
@@ -12219,7 +12219,7 @@ translate chinese Haley_18_label_e0635a17:
 # game/logic/events/haley.rpy:3413
 translate chinese Haley_18_label_1d0846ac:
 
-    # ch_Name "I got very lucky!"
+    # ch_Name "I got very lucky."
     ch_Name "我很幸运！"
 
 # game/logic/events/haley.rpy:3414
@@ -12273,7 +12273,7 @@ translate chinese Haley_18_label_256f4f06:
 # game/logic/events/haley.rpy:3423
 translate chinese Haley_18_label_7ee07798:
 
-    # ch_Name "And now we have a reason!"
+    # ch_Name "And now we have a reason."
     ch_Name "现在我们有理由了！"
 
 # game/logic/events/haley.rpy:3424
@@ -12291,7 +12291,7 @@ translate chinese Haley_18_label_7b725f3c:
 # game/logic/events/haley.rpy:3426
 translate chinese Haley_18_label_fd7f778e:
 
-    # ch_Name "Let's go on a picnic!"
+    # ch_Name "Let's go on a picnic."
     ch_Name "我们去野餐吧！"
 
 # game/logic/events/haley.rpy:3428
@@ -13065,13 +13065,13 @@ translate chinese Haley_19_label_from_gallery_44f1d18a:
 # game/logic/events/haley.rpy:3616
 translate chinese Haley_19_label_from_gallery_8275571d:
 
-    # Haley "No, please!"
+    # Haley "No, please..."
     Haley "不，请！"
 
 # game/logic/events/haley.rpy:3617
 translate chinese Haley_19_label_from_gallery_19f7fb70:
 
-    # Haley "Don't stop!"
+    # Haley "Don't stop..."
     Haley "不要停止！"
 
 # game/logic/events/haley.rpy:3618
@@ -13347,7 +13347,7 @@ translate chinese Haley_19_label_from_gallery_4059c118:
 # game/logic/events/haley.rpy:3682
 translate chinese Haley_19_label_from_gallery_a0fd0f9a:
 
-    # Haley "Really? It's so late."
+    # Haley "Really? It's late."
     Haley "真的吗？太晚了。"
 
 # game/logic/events/haley.rpy:3683
@@ -13395,13 +13395,13 @@ translate chinese Haley_19_label_from_gallery_85c8579f:
 # game/logic/events/haley.rpy:3698
 translate chinese Haley_19_label_from_gallery_3d39623d:
 
-    # Haley "It was you who organized everything!"
+    # Haley "It was you who organized everything."
     Haley "这一切都是你安排的！"
 
 # game/logic/events/haley.rpy:3699
 translate chinese Haley_19_label_from_gallery_58fa4769:
 
-    # Haley "And it was amazing."
+    # Haley "And it was amazing!"
     Haley "这太神奇了。"
 
 # game/logic/events/haley.rpy:3700

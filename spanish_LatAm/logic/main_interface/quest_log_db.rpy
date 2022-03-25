@@ -355,7 +355,7 @@ translate spanish_LatAm strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "She's in Leonheart too, so I can probably meet her in our campus in the morning."
+    old "She's in Leonheart too, so I can probably meet her in the Living room in the morning."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -391,7 +391,7 @@ translate spanish_LatAm strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "Elijah should give me a \"student card\". I can catch him in the living room in the morning."
+    old "Elijah should give me a student card. I can catch him in the Living room in the morning."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -419,7 +419,7 @@ translate spanish_LatAm strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "This strange creature attacked me in Dale, but fended it off with combat bolt."
+    old "This strange creature attacked me in Dale, but fended it off with Сombat bolt."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -575,7 +575,7 @@ translate spanish_LatAm strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "Lucy is a pretty European girl who works as a stripper in Lady Luck. I think we can have some fun time together at the VIP lounge."
+    old "Lucy is a pretty european girl who works as a stripper in Lady Luck. I think we can have some fun time together at the VIP lounge."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -671,7 +671,7 @@ translate spanish_LatAm strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "Samantha suggested we meet in the living room in the morning."
+    old "Samantha suggested we meet in the Living room in the morning."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1593

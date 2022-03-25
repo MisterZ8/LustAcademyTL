@@ -213,7 +213,7 @@ translate brazilian Lily_1_label_d20e8a5a:
 # game/logic/events/lily.rpy:284
 translate brazilian Lily_1_label_2c03e5ed:
 
-    # Lily "It's a great line on a résumé."
+    # Lily "It's a great line on a resume."
     Lily "É uma ótima referência em um currĩculo."
 
 # game/logic/events/lily.rpy:285
@@ -633,7 +633,7 @@ translate brazilian Lily_2_label_ce09f520:
 # game/logic/events/lily.rpy:386
 translate brazilian Lily_2_label_efa98234:
 
-    # Lily "And it's something to do in our spare time! Awesome!"
+    # Lily "And it's something to do in our spare time! Isn't it awesome?"
     Lily "E é algo que podemos fazer no nosso tempo livre! Maravilha!"
 
 # game/logic/events/lily.rpy:387
@@ -921,7 +921,7 @@ translate brazilian Lily_3_label_8_48ebd0a9:
 # game/logic/events/lily.rpy:476
 translate brazilian Lily_3_label_8_143e4e9a:
 
-    # Lily "{b}We have to win at the dueling club!{/b}"
+    # Lily "We have to win at the Dueling club!"
     Lily "{b}Temos que vencer no Clube de Duelos!{/b}"
 
 # game/logic/events/lily.rpy:477
@@ -945,7 +945,7 @@ translate brazilian Lily_3_label_8_2b4242c1:
 # game/logic/events/lily.rpy:481
 translate brazilian Lily_3_label_8_88a368c2:
 
-    # ch_Name "And how do we do that in dueling club?"
+    # ch_Name "And how do we do that in the Dueling club?"
     ch_Name "E como fazer isso no Clube de Duelos?"
 
 # game/logic/events/lily.rpy:483
@@ -1095,7 +1095,7 @@ translate brazilian Lily_3_label_8_04b411ae:
 # game/logic/events/lily.rpy:517
 translate brazilian Lily_3_label_8_e252236f:
 
-    # Lily "We'll see."
+    # Lily "We'll see!"
     Lily "Veremos."
 
 # game/logic/events/lily.rpy:518
@@ -1317,7 +1317,7 @@ translate brazilian Lily_4_label_d572354b:
 # game/logic/events/lily.rpy:589
 translate brazilian Lily_4_label_1989eba4:
 
-    # Lily "Why don't we {b}meet in your room when it gets dark? {/b}"
+    # Lily "Why don't we meet in your room when it gets dark?"
     Lily "Por que não {b}nos encontramos no seu quarto quando escurecer?{/b}"
 
 # game/logic/events/lily.rpy:590
@@ -1587,7 +1587,7 @@ translate brazilian Lily_5_label_015ce907:
 # game/logic/events/lily.rpy:672
 translate brazilian Lily_5_label_5ae6bc8b:
 
-    # ch_Name "Somehow I don't doubt it."
+    # ch_Name "Somehow I don't doubt it, miss."
     ch_Name "Não tenho dúvida."
 
 # game/logic/events/lily.rpy:673

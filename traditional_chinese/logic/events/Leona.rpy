@@ -3513,7 +3513,7 @@ translate traditional_chinese Leona_3_label_L_162_918cbeb1:
 # game/logic/events/Leona.rpy:982
 translate traditional_chinese Leona_3_label_L_162_9ced630c:
 
-    # ch_Name "Ms. Spellman! I'm done."
+    # ch_Name "Miss Spellman! I'm done."
     ch_Name ""
 
 # game/logic/events/Leona.rpy:984

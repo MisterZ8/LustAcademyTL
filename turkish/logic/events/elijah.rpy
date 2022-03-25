@@ -717,7 +717,7 @@ translate turkish Elijah_3_label_39_2269a16e:
 # game/logic/events/elijah.rpy:371
 translate turkish Elijah_3_label_39_97dda2da:
 
-    # Elijah "Yes. {w} A man who's open to new acquaintances."
+    # Elijah "Yes.{w} A man who's open to new acquaintances."
     Elijah ""
 
 # game/logic/events/elijah.rpy:372
@@ -1077,7 +1077,7 @@ translate turkish Elijah_4_label_9af1ea5e:
 # game/logic/events/elijah.rpy:480
 translate turkish Elijah_4_label_473c339c:
 
-    # ch_Name "So, I'm going to participate in a dueling club tonight."
+    # ch_Name "So, I'm going to participate in the Dueling club tonight."
     ch_Name ""
 
 # game/logic/events/elijah.rpy:481
@@ -1251,7 +1251,7 @@ translate turkish Elijah_4_label_a0bf5e64:
 # game/logic/events/elijah.rpy:524
 translate turkish Elijah_4_label_2b36366b:
 
-    # Elijah "Hey, take it easy. No, of course it's not!"
+    # Elijah "Hey, take it easy. No, of course, it's not!"
     Elijah ""
 
 # game/logic/events/elijah.rpy:525
@@ -1287,7 +1287,7 @@ translate turkish Elijah_4_label_28_aafa205e:
 # game/logic/events/elijah.rpy:533
 translate turkish Elijah_4_label_28_e3b6b6a5:
 
-    # Elijah "You have to go to Chompsky's on the main square."
+    # Elijah "You have to go to the Chompski Shop on the main square."
     Elijah ""
 
 # game/logic/events/elijah.rpy:534
@@ -1323,7 +1323,7 @@ translate turkish Elijah_4_label_28_73250898:
 # game/logic/events/elijah.rpy:540
 translate turkish Elijah_4_label_28_9b5b6ac0:
 
-    # Elijah "Of course it is, handsome. I told you it was a great job."
+    # Elijah "Of course, it is, handsome. I told you it was a great job."
     Elijah ""
 
 # game/logic/events/elijah.rpy:542
@@ -1431,7 +1431,7 @@ translate turkish Elijah_5_label_5ad75a04:
 # game/logic/events/elijah.rpy:587
 translate turkish Elijah_5_label_e56961db:
 
-    # ch_Name "{i}(Oh yes I should probably go get that nectar for Elijah. Almost forgot about it.){/i}"
+    # ch_Name "{i}(Oh, yes! I should probably go get that nectar for Elijah. Almost forgot about it.){/i}"
     ch_Name ""
 
 # game/logic/events/elijah.rpy:591
@@ -2043,13 +2043,13 @@ translate turkish Elijah_6_label_29821818:
 # game/logic/events/elijah.rpy:730
 translate turkish Elijah_6_label_123a9dfb:
 
-    # Elijah "Let's take a walk and I'll tell you about the dueling club."
+    # Elijah "Let's take a walk and I'll tell you about the Dueling club."
     Elijah ""
 
 # game/logic/events/elijah.rpy:731
 translate turkish Elijah_6_label_51b1ec04:
 
-    # ch_Name "The dueling club?"
+    # ch_Name "The Dueling club?"
     ch_Name ""
 
 # game/logic/events/elijah.rpy:732

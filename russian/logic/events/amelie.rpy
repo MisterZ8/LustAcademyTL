@@ -1905,7 +1905,7 @@ translate russian Amelie_4_label_efe1bfae:
 # game/logic/events/amelie.rpy:710
 translate russian Amelie_4_label_a1da088d:
 
-    # Amelie "Three drops of mesmerizing potion can drive human being crazy for a small amount of time."
+    # Amelie "Three drops of the Mesmerizing potion can drive a human insane for a short time."
     Amelie "Три капли гипнотического зелья могут свести человека с ума на короткий период времени."
 
 # game/logic/events/amelie.rpy:711
@@ -3173,7 +3173,7 @@ translate russian Amelie_4_label_4083d767:
 # game/logic/events/amelie.rpy:703
 translate russian Amelie_4_label_6c3b8e81:
 
-    # Amelie "But since an average elf or pixy is much smaller than a human..."
+    # Amelie "But since an average elf or pixie is much smaller than a human..."
     Amelie ""
 
 # game/logic/events/amelie.rpy:704
@@ -3365,7 +3365,7 @@ translate russian Amelie_4_label_15fb16d0:
 # game/logic/events/amelie.rpy:861
 translate russian Amelie_4_label_9f92e69b:
 
-    # ch_Name "You were under the influence of mesmerizing potion."
+    # ch_Name "You were under the influence of the Mesmerizing potion."
     ch_Name ""
 
 # game/logic/events/amelie.rpy:866

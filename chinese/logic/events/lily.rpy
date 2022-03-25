@@ -213,7 +213,7 @@ translate chinese Lily_1_label_d20e8a5a:
 # game/logic/events/lily.rpy:284
 translate chinese Lily_1_label_2c03e5ed:
 
-    # Lily "It's a great line on a résumé."
+    # Lily "It's a great line on a resume."
     Lily "至少，写在简历上也必会令人跨目相看。"
 
 # game/logic/events/lily.rpy:285
@@ -633,7 +633,7 @@ translate chinese Lily_2_label_ce09f520:
 # game/logic/events/lily.rpy:386
 translate chinese Lily_2_label_efa98234:
 
-    # Lily "And it's something to do in our spare time! Awesome!"
+    # Lily "And it's something to do in our spare time! Isn't it awesome?"
     Lily "而且我们可以在课余时去找书！太棒了！"
 
 # game/logic/events/lily.rpy:387
@@ -921,7 +921,7 @@ translate chinese Lily_3_label_8_48ebd0a9:
 # game/logic/events/lily.rpy:476
 translate chinese Lily_3_label_8_143e4e9a:
 
-    # Lily "{b}We have to win at the dueling club!{/b}"
+    # Lily "We have to win at the Dueling club!"
     Lily "{b}我们只需在搏斗赛中胜出！{/b}"
 
 # game/logic/events/lily.rpy:477
@@ -945,7 +945,7 @@ translate chinese Lily_3_label_8_2b4242c1:
 # game/logic/events/lily.rpy:481
 translate chinese Lily_3_label_8_88a368c2:
 
-    # ch_Name "And how do we do that in dueling club?"
+    # ch_Name "And how do we do that in the Dueling club?"
     ch_Name "那我们如何透过搏斗赛夺取其他学院的分数？"
 
 # game/logic/events/lily.rpy:483
@@ -1095,7 +1095,7 @@ translate chinese Lily_3_label_8_04b411ae:
 # game/logic/events/lily.rpy:517
 translate chinese Lily_3_label_8_e252236f:
 
-    # Lily "We'll see."
+    # Lily "We'll see!"
     Lily "等着看吧。"
 
 # game/logic/events/lily.rpy:518
@@ -1317,7 +1317,7 @@ translate chinese Lily_4_label_d572354b:
 # game/logic/events/lily.rpy:589
 translate chinese Lily_4_label_1989eba4:
 
-    # Lily "Why don't we {b}meet in your room when it gets dark? {/b}"
+    # Lily "Why don't we meet in your room when it gets dark?"
     Lily "不如我们{b}晚上时在你房间见？ {/b}"
 
 # game/logic/events/lily.rpy:590
@@ -1587,7 +1587,7 @@ translate chinese Lily_5_label_015ce907:
 # game/logic/events/lily.rpy:672
 translate chinese Lily_5_label_5ae6bc8b:
 
-    # ch_Name "Somehow I don't doubt it."
+    # ch_Name "Somehow I don't doubt it, miss."
     ch_Name "无可否认。"
 
 # game/logic/events/lily.rpy:673

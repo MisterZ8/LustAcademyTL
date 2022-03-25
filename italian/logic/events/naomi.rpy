@@ -63,7 +63,7 @@ translate italian Naomi_1_label_86c5f0c9:
 # game/logic/events/naomi.rpy:313
 translate italian Naomi_1_label_d5802827:
 
-    # ch_Name "{i}(If you only knew how hard Katrina tried to make me choose her.){/i}"
+    # ch_Name "{i}(If you only knew how hard Katrina tried to make me choose her...){/i}"
     ch_Name "{i}(Se solo sapessi quanto Katrina ha provato a farmi scegliere lei.){/i}"
 
 # game/logic/events/naomi.rpy:315
@@ -279,7 +279,7 @@ translate italian Naomi_1_label_45_d8ceaebf:
 # game/logic/events/naomi.rpy:378
 translate italian Naomi_1_label_45_f3d3387a:
 
-    # ch_Name "Why are you trying so hard to act cold to me?"
+    # ch_Name "Why are you trying so hard to act cold to me, Naomi?"
     ch_Name "Perché mi stai trattando così male?"
 
 # game/logic/events/naomi.rpy:379
@@ -687,7 +687,7 @@ translate italian Naomi_2_label_43_28a8fe2e:
 # game/logic/events/naomi.rpy:492
 translate italian Naomi_2_label_43_1913ef4d:
 
-    # ch_Name "I'm not interested in \"all girls\"."
+    # ch_Name "I'm not interested in \"all girls\", dear."
     ch_Name "Non sono interessato a \"tutte le ragazze\""
 
 # game/logic/events/naomi.rpy:493
@@ -1431,7 +1431,7 @@ translate italian Naomi_3_label_54_3b815bf9:
 # game/logic/events/naomi.rpy:694
 translate italian Naomi_3_label_54_abd298b4:
 
-    # Naomi "So, taking a {b}picture of the answers to a potions test{/b}... "
+    # Naomi "So, taking a picture of the answers to a potions test..."
     Naomi "Quindi, fare una foto alle {b}risposte del test di Pozioni{/b}..."
 
 # game/logic/events/naomi.rpy:695
@@ -1719,7 +1719,7 @@ translate italian Naomi_4_label_d3d2c04e:
 # game/logic/events/naomi.rpy:782
 translate italian Naomi_4_label_d2302eea:
 
-    # Naomi "You're the best."
+    # Naomi "You're the best!"
     Naomi "Sei il meglio."
 
 # game/logic/events/naomi.rpy:787
@@ -2349,7 +2349,7 @@ translate italian Naomi_6_label_2bc52f0e:
 # game/logic/events/naomi.rpy:974
 translate italian Naomi_6_label_59f67278:
 
-    # ch_Name "Wasn't it your idea to distract Sabrina."
+    # ch_Name "Wasn't it your idea to distract Sabrina?"
     ch_Name "Avresti dovuto distrarre Sabrina."
 
 # game/logic/events/naomi.rpy:975
@@ -2391,7 +2391,7 @@ translate italian Naomi_6_label_a6cdea60:
 # game/logic/events/naomi.rpy:983
 translate italian Naomi_6_label_90f7776a:
 
-    # Naomi "You poor thing."
+    # Naomi "You poor thing!"
     Naomi "Oh, poverino..."
 
 # game/logic/events/naomi.rpy:985
@@ -2733,7 +2733,7 @@ translate italian Naomi_7_label_e51a94e8:
 # game/logic/events/naomi.rpy:1076
 translate italian Naomi_7_label_b3d2e62c:
 
-    # ch_Name "I don't know. "
+    # ch_Name "Hmm, I don't know..."
     ch_Name "Dipende."
 
 # game/logic/events/naomi.rpy:1077

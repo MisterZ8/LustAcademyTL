@@ -6003,7 +6003,7 @@ translate chinese Samantha_12_label_9f0bb977:
 # game/logic/events/samantha.rpy:1788
 translate chinese Samantha_12_label_8e59c4cf:
 
-    # ch_Name "Until the very last second, I believed that you'd have the courage to participate!"
+    # ch_Name "Until the very last second, I believed that you'd have the courage to participate."
     ch_Name "直到最后一秒，我还相信你有勇气参与！"
 
 # game/logic/events/samantha.rpy:1789
@@ -6315,7 +6315,7 @@ translate chinese Samantha_12_label_ffbb21ce:
 # game/logic/events/samantha.rpy:1860
 translate chinese Samantha_12_label_3a604356:
 
-    # Dakota "I only wanted to greet new participants of The Tournament."
+    # Dakota "I only wanted to greet new participant of The Tournament."
     Dakota "我只是想问候比赛的新参与者。"
 
 # game/logic/events/samantha.rpy:1861

@@ -1905,7 +1905,7 @@ translate dutch Amelie_4_label_efe1bfae:
 # game/logic/events/amelie.rpy:710
 translate dutch Amelie_4_label_a1da088d:
 
-    # Amelie "Three drops of mesmerizing potion can drive human being crazy for a small amount of time."
+    # Amelie "Three drops of the Mesmerizing potion can drive a human insane for a short time."
     Amelie ""
 
 # game/logic/events/amelie.rpy:711

@@ -355,7 +355,7 @@ translate chinese strings:
     new "这个角色在这个版本的游戏中没有主动的任务。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "She's in Leonheart too, so I can probably meet her in our campus in the morning."
+    old "She's in Leonheart too, so I can probably meet her in the Living room in the morning."
     new "她也在Leonheart，所以我可能早上在我们学校见她。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -391,7 +391,7 @@ translate chinese strings:
     new "我们终于和Audrey谈了我们的关系以及最近发生的一切。现在我们都对我们之间的界限有了更好的了解。要不要继续和她交往由我自己决定，我不应该忘记她就是那个差点让Samantha受伤的魔女。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "Elijah should give me a \"student card\". I can catch him in the living room in the morning."
+    old "Elijah should give me a student card. I can catch him in the Living room in the morning."
     new "Elijah应该给我一张“学生证”我早上能在客厅看到他。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -419,7 +419,7 @@ translate chinese strings:
     new "Elijah很高兴我帮他弄到了树精的花蜜。他似乎喜欢和我一起工作。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "This strange creature attacked me in Dale, but fended it off with combat bolt."
+    old "This strange creature attacked me in Dale, but fended it off with Сombat bolt."
     new "在Dale，这只奇怪的生物袭击了我，但用战斗弩箭把它击退了。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -575,7 +575,7 @@ translate chinese strings:
     new "我们终于和Lily谈了在蘑菇森林里发生的事情，把事情说清楚了。现在我们都清楚我们的关系和界限是什么。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "Lucy is a pretty European girl who works as a stripper in Lady Luck. I think we can have some fun time together at the VIP lounge."
+    old "Lucy is a pretty european girl who works as a stripper in Lady Luck. I think we can have some fun time together at the VIP lounge."
     new "Lucy是一个漂亮的欧洲女孩，在幸运女神中担任脱衣舞娘。我想我们可以在VIP厅一起玩。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -671,7 +671,7 @@ translate chinese strings:
     new "Sadira是幸运女神里的性感阿拉伯脱衣舞娘。如果我付VIP休息室的钱，她会非常乐意的。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "Samantha suggested we meet in the living room in the morning."
+    old "Samantha suggested we meet in the Living room in the morning."
     new "Samantha建议我们早上在客厅见面。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -1695,7 +1695,7 @@ translate chinese strings:
     new "五个转变"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
-    old "Now I can help Molly serve food at her Cafe for a decent fee. It gets even better if I don't screw up and get more tips. Working together with Molly can get us closer. Her workload is less intense in the evening, so it's better to talk to her at this time. But first I'll gain her trust by working at least five shifts."
+    old "Now I can help Molly serve food at her Cafe for a decent fee. It gets even better if I don't screw up and get more tips. Working together with Molly can get us closer. Her workload is less intense in the evening, so it's better to talk to her at this time. But first I'll gain her trust by working at least 5 shifts."
     new "现在我可以帮Molly在她的咖啡馆里卖菜，还能赚一笔可观的钱。如果我不搞砸，得到更多的小费，情况会更好。和Molly合作能让我们更亲近。她晚上的工作量比较小，所以最好这个时候和她谈谈。但首先我得至少上五班才能赢得她的信任。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745

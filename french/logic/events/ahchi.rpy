@@ -2991,7 +2991,7 @@ translate french CF_Ahchi_2_label_3da033dc:
 # game/logic/events/ahchi.rpy:862
 translate french CF_Ahchi_2_label_db16e8fe:
 
-    # Ahchi "Did you hear what old man Chompsky pulled the other day?"
+    # Ahchi "Did you hear what old man Chompski pulled the other day?"
     Ahchi ""
 
 # game/logic/events/ahchi.rpy:863

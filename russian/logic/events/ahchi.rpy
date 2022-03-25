@@ -2991,7 +2991,7 @@ translate russian CF_Ahchi_2_label_3da033dc:
 # game/logic/events/ahchi.rpy:862
 translate russian CF_Ahchi_2_label_db16e8fe:
 
-    # Ahchi "Did you hear what old man Chompsky pulled the other day?"
+    # Ahchi "Did you hear what old man Chompski pulled the other day?"
     Ahchi "Вы слышали, что на днях выкинул старик Хомпски?"
 
 # game/logic/events/ahchi.rpy:863

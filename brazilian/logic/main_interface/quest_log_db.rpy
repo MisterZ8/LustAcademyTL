@@ -355,7 +355,7 @@ translate brazilian strings:
     new "Essa personagem não tem missões ativas nessa versão do jogo."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "She's in Leonheart too, so I can probably meet her in our campus in the morning."
+    old "She's in Leonheart too, so I can probably meet her in the Living room in the morning."
     new "Ela é de Leonheart também, então devo encontrá-la no nosso campus pela manhã."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -391,7 +391,7 @@ translate brazilian strings:
     new "Nós finalmente conversamos com Audrey sobre nosso relacionamento e tudo que aconteceu recentemente. Agora temos uma compreensão melhor dos limites entre nós. Depende de mim se vou querer continuar minha relação com ela, não esquecendo que ela é uma súcubo que quase machucou Samantha."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "Elijah should give me a \"student card\". I can catch him in the living room in the morning."
+    old "Elijah should give me a student card. I can catch him in the Living room in the morning."
     new "Elijah deveria me dar um \"cartão de estudante\". Posso encontrá-lo na sala de estar pela manhã."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -419,7 +419,7 @@ translate brazilian strings:
     new "Elijah ficou muito satisfeito que o ajudei a conseguir o Néctar das Dríades. Parece que ele gosta de trabalhar comigo."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "This strange creature attacked me in Dale, but fended it off with combat bolt."
+    old "This strange creature attacked me in Dale, but fended it off with Сombat bolt."
     new "Essa criatura estranha me atacou em dale, mas a espantei com um Combat Bolt."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -575,7 +575,7 @@ translate brazilian strings:
     new "Finalmente conversei com Lily sobre o que aconteceu na flosresta dos cogumelos e alinhamos tudo. Agora sabemos exatamente onde nosso relacionamento está e quais são so limites."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "Lucy is a pretty European girl who works as a stripper in Lady Luck. I think we can have some fun time together at the VIP lounge."
+    old "Lucy is a pretty european girl who works as a stripper in Lady Luck. I think we can have some fun time together at the VIP lounge."
     new "Lucy é uma bela garota européia que trabalha de stripper no Lady Luck. Acho que podemos nos divertir na área VIP."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
@@ -671,7 +671,7 @@ translate brazilian strings:
     new "Sadira é uma bela stripper árabe do Lady Luck. Ela está disposta a me satisfazer se pagar pela área VIP."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
-    old "Samantha suggested we meet in the living room in the morning."
+    old "Samantha suggested we meet in the Living room in the morning."
     new "Samantha sugeriu que nos encontrássemos na sala de estar pela manhã."
 
     # game/logic/main_interface/quest_log_db.rpy:1593

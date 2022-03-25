@@ -8961,7 +8961,7 @@ translate spanish_LatAm Haley_16_label_3b92c110:
 # game/logic/events/haley.rpy:2668
 translate spanish_LatAm Haley_16_label_bb1fe16b:
 
-    # Samantha "I just can't believe it!"
+    # Samantha "I... I can't believe it!"
     Samantha ""
 
 # game/logic/events/haley.rpy:2670
@@ -9111,7 +9111,7 @@ translate spanish_LatAm Haley_16_label_26a17637:
 # game/logic/events/haley.rpy:2701
 translate spanish_LatAm Haley_16_label_d824b401:
 
-    # Samantha "It's all seems to be a silly joke!"
+    # Samantha "It all seems to be a silly joke!"
     Samantha ""
 
 # game/logic/events/haley.rpy:2703
