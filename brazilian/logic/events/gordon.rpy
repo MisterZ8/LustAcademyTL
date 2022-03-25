@@ -118,13 +118,13 @@ translate brazilian Gordon_1_label_202d19cd:
 translate brazilian Gordon_1_label_dd55f052:
 
     # UnknownGordon "I'm Gordon Chompski."
-    UnknownGordon "Sou Gordon Chompsky."
+    UnknownGordon "Sou Gordon Chompski."
 
 # game/logic/events/gordon.rpy:101
 translate brazilian Gordon_1_label_26f50841:
 
     # Gordon "And this is Chompski Shop. Best store in Dale."
-    Gordon "E essa é a loja do Chompsky. Melhor loja em Dale."
+    Gordon "E essa é a loja do Chompski. Melhor loja em Dale."
 
 # game/logic/events/gordon.rpy:102
 translate brazilian Gordon_1_label_544aa220:
@@ -478,7 +478,7 @@ translate brazilian Gordon_1_label_4b555c3a:
 translate brazilian Gordon_1_label_075093fc:
 
     # Gordon "If you need a part-time job, there's nobody better than Chompski."
-    Gordon "Se precisar de um trabalho de meio-turno, nada melhor que Chompsky."
+    Gordon "Se precisar de um trabalho de meio-turno, nada melhor que Chompski."
 
 # game/logic/events/gordon.rpy:189
 translate brazilian Gordon_1_label_bd3363fd:
@@ -952,7 +952,7 @@ translate brazilian Willow_1_label_51f86b76:
 translate brazilian Willow_1_label_bf7d543c:
 
     # ch_Name "{i}(The Chompski Shop. That's where I'm going.){/i}"
-    ch_Name "{i}(Loja de Chompsky. É onde eu vou.){/i}"
+    ch_Name "{i}(Loja de Chompski. É onde eu vou.){/i}"
 
 # game/logic/events/gordon.rpy:339
 translate brazilian Willow_1_label_b6d97888:
