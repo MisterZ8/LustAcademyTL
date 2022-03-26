@@ -58,7 +58,7 @@ translate chinese adele_1_label_ac7bbadc:
 translate chinese adele_1_label_d2cd6dee:
 
     # ch_Name "{i}(I never thought that a simple touch could be so pleasant...){/i}"
-    ch_Name "{i}我从没想过一个简单的触摸会如此令人愉快...{/i}"
+    ch_Name "{i}我从没想过一个简单的触摸会如此令人愉快....{/i}"
 
 # game/logic/events/adele.rpy:104
 translate chinese adele_1_label_feafb0b3:
