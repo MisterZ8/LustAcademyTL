@@ -3409,594 +3409,594 @@ translate chinese Amelie_4_label_383ccd48:
 # game/logic/events/amelie.rpy:710
 translate chinese Amelie_4_label_f4d9e96b:
 
-    # Amelie "Three drops of the Mesmerizing potion can drive a human insane for a short time."
-    Amelie ""
+# Amelie "Three drops of the Mesmerizing potion can drive a human insane for a short time."
+    Amelie "三滴迷魂药水可以使人在短时间内发疯。"
 
 # game/logic/events/amelie.rpy:713
 translate chinese Amelie_4_label_e80765e7:
 
     # Amelie "But since an average elf or pixie is much smaller than a human..."
-    Amelie ""
+    Amelie "然而，由于elf或pixie要平均比人类小得多。。。"
 
 # game/logic/events/amelie.rpy:820
 translate chinese Amelie_4_label_a6c4f7b7:
 
     # ch_Name "You got some of the Mesmerizing potion on you."
-    ch_Name ""
+    ch_Name "你身上有一些迷魂药水。"
 
 # game/logic/events/amelie.rpy:871
 translate chinese Amelie_4_label_8afb020c:
 
     # ch_Name "You were under the influence of the Mesmerizing potion."
-    ch_Name ""
+    ch_Name "你受到了迷魂药水的影响。"
 
 # game/logic/events/amelie.rpy:933
 translate chinese Amelie_5_label_a2d0446b:
 
     # ch_Name "It's so nice to see you, Amelie!"
-    ch_Name ""
+    ch_Name "很高兴见到你，Amelie!"
 
 # game/logic/events/amelie.rpy:934
 translate chinese Amelie_5_label_c851a750:
 
     # ch_Name "How are you? Are you alright?"
-    ch_Name ""
+    ch_Name "怎么样吗？你还好吗？"
 
 # game/logic/events/amelie.rpy:936
 translate chinese Amelie_5_label_d9e0c391:
 
     # Amelie "[Name]! Wait for a second, are you busy now?"
-    Amelie ""
+    Amelie "[Name]! 等一下，你现在忙吗？"
 
 # game/logic/events/amelie.rpy:937
 translate chinese Amelie_5_label_f8aa82d4:
 
     # ch_Name "I always have time for you, miss."
-    ch_Name ""
+    ch_Name "对你我总是有时间，小姐。"
 
 # game/logic/events/amelie.rpy:938
 translate chinese Amelie_5_label_70e3a094:
 
     # Amelie "I'm looking for someone who can help me with books."
-    Amelie ""
+    Amelie "我在寻找一个能帮助我处理看书的人。"
 
 # game/logic/events/amelie.rpy:939
 translate chinese Amelie_5_label_80392a9f:
 
     # Amelie "I need to put them on the shelves in alphabetical order."
-    Amelie ""
+    Amelie "我需要把它们按字母顺序放在书架上。"
 
 # game/logic/events/amelie.rpy:940
 translate chinese Amelie_5_label_4586a92d:
 
     # ch_Name "Of course, I'd be happy to help. Let's do this together!"
-    ch_Name ""
+    ch_Name "当然，我很乐意帮忙。让我们一起来做这件事吧!"
 
 # game/logic/events/amelie.rpy:947
 translate chinese Amelie_5_label_b30b828b:
 
     # ch_Name "Are you feeling better, Amelie? "
-    ch_Name ""
+    ch_Name "你感觉好些了吗，Amelie？"
 
 # game/logic/events/amelie.rpy:948
 translate chinese Amelie_5_label_759182c4:
 
     # ch_Name "Last time you didn't feel well."
-    ch_Name ""
+    ch_Name "上次你感觉不舒服。"
 
 # game/logic/events/amelie.rpy:949
 translate chinese Amelie_5_label_f77cae0e:
 
     # Amelie "Now it's almost great, thanks. I feel much better."
-    Amelie ""
+    Amelie "现在它几乎是完美，谢谢。我感觉好多了。"
 
 # game/logic/events/amelie.rpy:951
 translate chinese Amelie_5_label_b45fc78a:
 
     # ch_Name "That's good to hear. I was worried about you!"
-    ch_Name ""
+    ch_Name "听到这个消息真好。我很担心你!"
 
 # game/logic/events/amelie.rpy:952
 translate chinese Amelie_5_label_5a71562f:
 
     # Amelie "Really?"
-    Amelie ""
+    Amelie "真的吗？"
 
 # game/logic/events/amelie.rpy:953
 translate chinese Amelie_5_label_027694da:
 
     # Amelie "Anyway, that Mesmerizing potion..."
-    Amelie ""
+    Amelie "总之，那个迷魂药水。。。"
 
 # game/logic/events/amelie.rpy:955
 translate chinese Amelie_5_label_6c8c12ca:
 
     # Amelie "Give me this book, please."
-    Amelie ""
+    Amelie "请把这本书给我。"
 
 # game/logic/events/amelie.rpy:957
 translate chinese Amelie_5_label_cb923b08:
 
     # Amelie "Thank you!"
-    Amelie ""
+    Amelie "谢谢你!"
 
 # game/logic/events/amelie.rpy:958
 translate chinese Amelie_5_label_8d640ea5:
 
     # ch_Name "{i}(Um... I can't get used to this view... This tight skirt is really something...){/i}"
-    ch_Name ""
+    ch_Name "{i}（嗯。。。我无法适应这个景色。。。这条紧身裙真的很特别。。。）{/i}"
 
 # game/logic/events/amelie.rpy:959
 translate chinese Amelie_5_label_b2a89abb:
 
     # ch_Name "{i}(Oh, Amelie... Only look at her, all curvy and perky...){/i}"
-    ch_Name ""
+    ch_Name "{i}（哦，Amelie。。。只是看着她，所有优美的曲线。。。）{/i}"
 
 # game/logic/events/amelie.rpy:960
 translate chinese Amelie_5_label_011e375f:
 
     # ch_Name "{i}(And her muscles tense up so nicely when she puts a book on the shelf!){/i}"
-    ch_Name ""
+    ch_Name "{i}（当她把书放在书架上时，她的肌肉紧绷得真好！）{/i}"
 
 # game/logic/events/amelie.rpy:962
 translate chinese Amelie_5_label_0eaef48d:
 
     # Amelie "What was I saying? So, the Mesmerizing potion..."
-    Amelie ""
+    Amelie "我在说什么？所以，迷魂药水。。。"
 
 # game/logic/events/amelie.rpy:963
 translate chinese Amelie_5_label_315abf79:
 
     # Amelie "This is a pretty strong thing, I can say."
-    Amelie ""
+    Amelie "我可以说，这是一个相当强大的东西。"
 
 # game/logic/events/amelie.rpy:964
 translate chinese Amelie_5_label_d827c9c4:
 
     # Amelie "But everything bad is almost over now."
-    Amelie ""
+    Amelie "但一切不好的事情现在都快结束了。"
 
 # game/logic/events/amelie.rpy:966
 translate chinese Amelie_5_label_18a05c8b:
 
     # Amelie "Except of..."
-    Amelie ""
+    Amelie "除了。。。"  
 
 # game/logic/events/amelie.rpy:967
 translate chinese Amelie_5_label_aa191431:
 
     # ch_Name "Except of what?"
-    ch_Name ""
+    ch_Name "除了什么？"
 
 # game/logic/events/amelie.rpy:968
 translate chinese Amelie_5_label_025937d5:
 
     # Amelie "I'm not sure if I should tell you this part of the story..."
-    Amelie ""
+    Amelie "我不知道我是否应该告诉你这部分的故事。。。"
 
 # game/logic/events/amelie.rpy:969
 translate chinese Amelie_5_label_9a57bbe9:
 
     # ch_Name "I'm only interested in potions."
-    ch_Name ""
+    ch_Name "我只对药水感兴趣。"
 
 # game/logic/events/amelie.rpy:970
 translate chinese Amelie_5_label_c308f1ce:
 
     # ch_Name "You can ask Miss Spellman, I'm one of the best in her class."
-    ch_Name ""
+    ch_Name "你可以问Spellman小姐，我是她班上最好的一个。"
 
 # game/logic/events/amelie.rpy:972
 translate chinese Amelie_5_label_42d52850:
 
     # ch_Name "So I think that it will be very useful to know more about the Mesmerizing potion's effects."
-    ch_Name ""
+    ch_Name "所以我认为，了解更多关于迷魂药水的效果将是非常有用的。"
 
 # game/logic/events/amelie.rpy:973
 translate chinese Amelie_5_label_df95cc41:
 
     # ch_Name "Not from the textbook, but from the real person who experienced it."
-    ch_Name ""
+    ch_Name "不是从教科书上，而是从真正的经历者那里。"
 
 # game/logic/events/amelie.rpy:974
 translate chinese Amelie_5_label_59353fad:
 
     # Amelie "Yeah, Sabrina told me so many good things about your passion for potions."
-    Amelie ""
+    Amelie "是的，Sabrina告诉我很多关于你对魔药的热情的好事情。"
 
 # game/logic/events/amelie.rpy:975
 translate chinese Amelie_5_label_51c1b5a6:
 
     # Amelie "Okay, it's nothing to be embarrassed about."
-    Amelie ""
+    Amelie "好吧，这没什么可尴尬的。"
 
 # game/logic/events/amelie.rpy:976
 translate chinese Amelie_5_label_f8b59576:
 
     # Amelie "There is one lasting side effect..."
-    Amelie ""
+    Amelie "有一个持久的副作用。。。"
 
 # game/logic/events/amelie.rpy:978
 translate chinese Amelie_5_label_4b92f51d:
 
     # Amelie "...it went out that Mesmerizing potion causes increased libido."
-    Amelie ""
+    Amelie "。。。据说迷魂药水会导致性欲增强。"
 
 # game/logic/events/amelie.rpy:979
 translate chinese Amelie_5_label_8d1cefb4:
 
     # Amelie "I hope to get over it as soon as possible."
-    Amelie ""
+    Amelie "我希望能尽快克服它。"
 
 # game/logic/events/amelie.rpy:980
 translate chinese Amelie_5_label_93cdcae9:
 
     # ch_Name "Oh, that's not easy. I know exactly how it feels."
-    ch_Name ""
+    ch_Name "哦，这可不容易。我完全知道那是什么感觉。"
 
 # game/logic/events/amelie.rpy:981
 translate chinese Amelie_5_label_62a1fdae:
 
     # ch_Name "Do you remember any of what happened when you got some potion on you?"
-    ch_Name ""
+    ch_Name "你还记得当你身上有一些药水时发生的任何事情吗？"
 
 # game/logic/events/amelie.rpy:983
 translate chinese Amelie_5_label_e4c810a2:
 
     # Amelie "Actually, I recall something. Something really awkward..."
-    Amelie ""
+    Amelie "事实上，我想起了一些事情。一些非常尴尬的事情。。。"
 
 # game/logic/events/amelie.rpy:984
 translate chinese Amelie_5_label_fe98dfcc:
 
     # ch_Name "Um... Like what?"
-    ch_Name ""
+    ch_Name "嗯。。。比如什么？"
 
 # game/logic/events/amelie.rpy:985
 translate chinese Amelie_5_label_5b8d1ec0:
 
     # ch_Name "{i}(What exactly does she remember?){/i}"
-    ch_Name ""
+    ch_Name "{i}（她到底记得什么？）{/i}"
 
 # game/logic/events/amelie.rpy:987
 translate chinese Amelie_5_label_a882280a:
 
     # Amelie "I remember that I had a burning desire to kiss you..."
-    Amelie ""
+    Amelie "我记得我有一个强烈的愿望要吻你。。。"
 
 # game/logic/events/amelie.rpy:988
 translate chinese Amelie_5_label_e22ac7b2:
 
     # ch_Name "{i}(Woah!){/i}"
-    ch_Name ""
+    ch_Name "{i}（哇!）{/i}"
 
 # game/logic/events/amelie.rpy:989
 translate chinese Amelie_5_label_0f7f5962:
 
     # Amelie "But I don't remember if we actually did something reckless."
-    Amelie ""
+    Amelie "但我不记得我们是否真的做了什么鲁莽的事。"
 
 # game/logic/events/amelie.rpy:990
 translate chinese Amelie_5_label_d6c4489a:
 
     # Amelie "We didn't do anything, did we?"
-    Amelie ""
+    Amelie "我们什么都没做，是吗？"
 
 # game/logic/events/amelie.rpy:991
 translate chinese Amelie_5_label_d21ba21f:
 
     # ch_Name "No, of course, not at all."
-    ch_Name ""
+    ch_Name "不，当然，根本没有。"
 
 # game/logic/events/amelie.rpy:993
 translate chinese Amelie_5_label_a33171a3:
 
     # ch_Name "Don't worry about that."
-    ch_Name ""
+    ch_Name "不要担心这个问题。"
 
 # game/logic/events/amelie.rpy:994
 translate chinese Amelie_5_label_7d09cf39:
 
     # ch_Name "I respect you too much to allow myself to behave inappropriately."
-    ch_Name ""
+    ch_Name "我太尊重你了，不允许自己有不恰当的行为。"
 
 # game/logic/events/amelie.rpy:996
 translate chinese Amelie_5_label_9db6b677:
 
     # Amelie "Or maybe it's just an excuse?"
-    Amelie ""
+    Amelie "或者说，这只是一个借口？"
 
 # game/logic/events/amelie.rpy:997
 translate chinese Amelie_5_label_38dea423:
 
     # Amelie "Perhaps, I'm not your type, mmm?"
-    Amelie ""
+    Amelie "也许，我不是你喜欢的类型，嗯？"
 
 # game/logic/events/amelie.rpy:998
 translate chinese Amelie_5_label_c3327e8a:
 
     # Amelie "I'm not young and beautiful enough?"
-    Amelie ""
+    Amelie "我不够年轻和漂亮？"
 
 # game/logic/events/amelie.rpy:999
 translate chinese Amelie_5_label_cd9bb35a:
 
     # Amelie "What do you say on that?"
-    Amelie ""
+    Amelie "你对此有什么看法？"
 
 # game/logic/events/amelie.rpy:1001
 translate chinese Amelie_5_label_c9e85775:
 
     # Amelie "Okay, I'm only kidding."
-    Amelie ""
+    Amelie "好吧，我只是在开玩笑。"
 
 # game/logic/events/amelie.rpy:1002
 translate chinese Amelie_5_label_19088b3d:
 
     # Amelie "It's just me, or you're getting tensed up?"
-    Amelie ""
+    Amelie "是我的问题，还是你紧张了？"
 
 # game/logic/events/amelie.rpy:1003
 translate chinese Amelie_5_label_222273c8:
 
     # ch_Name "Sorry, but that's the stupidest thing I've ever heard."
-    ch_Name ""
+    ch_Name "对不起，但这是我听过的最愚蠢的事情。"
 
 # game/logic/events/amelie.rpy:1004
 translate chinese Amelie_5_label_8c0e5aac:
 
     # Amelie "What?"
-    Amelie ""
+    Amelie "什么？"
 
 # game/logic/events/amelie.rpy:1006
 translate chinese Amelie_5_label_3220c182:
 
     # ch_Name "How can you say such things about yourself?"
-    ch_Name ""
+    ch_Name "你怎么能这么评价自己呢？"
 
 # game/logic/events/amelie.rpy:1007
 translate chinese Amelie_5_label_5968995a:
 
     # ch_Name "You're actually one of the most gorgeous women that I've ever seen!"
-    ch_Name ""
+    ch_Name "实际上，你是我见过的最漂亮的女人之一！"
 
 # game/logic/events/amelie.rpy:1008
 translate chinese Amelie_5_label_41da535e:
 
     # ch_Name "You're... perfect! And I'm not exaggerating, believe me."
-    ch_Name ""
+    ch_Name "你是。。。完美的! 我没有夸大其词，相信我。"
 
 # game/logic/events/amelie.rpy:1009
 translate chinese Amelie_5_label_0aa9e643:
 
     # ch_Name "I can spend the whole eternity looking at you, Amelie."
-    ch_Name ""
+    ch_Name "我可以永远看着你，Amelie。"
 
 # game/logic/events/amelie.rpy:1011
 translate chinese Amelie_5_label_efa48e91:
 
     # Amelie "I... I wasn't expecting that..."
-    Amelie ""
+    Amelie "我。。。我没有想到。。。"
 
 # game/logic/events/amelie.rpy:1012
 translate chinese Amelie_5_label_d3ad7113:
 
     # Amelie "I'm very flattered, of course, but..."
-    Amelie ""
+    Amelie "当然，我受宠若惊，但。。。"
 
 # game/logic/events/amelie.rpy:1013
 translate chinese Amelie_5_label_eb3410ca:
 
     # Amelie "It's hard for me to take compliments, especially from you..."
-    Amelie ""
+    Amelie "我很难接受赞美，尤其是来自你的赞美。。。"
 
 # game/logic/events/amelie.rpy:1014
 translate chinese Amelie_5_label_bb7a94c3:
 
     # ch_Name "No-no-no, that's not just a compliment."
-    ch_Name ""
+    ch_Name "不-不-不，这不仅仅是一种恭维。"
 
 # game/logic/events/amelie.rpy:1016
 translate chinese Amelie_5_label_77291965:
 
     # ch_Name "I meant every word."
-    ch_Name ""
+    ch_Name "我指的是每一个字。"
 
 # game/logic/events/amelie.rpy:1017
 translate chinese Amelie_5_label_11c0051a:
 
     # Amelie "Okay..."
-    Amelie ""
+    Amelie "好的。。。"
 
 # game/logic/events/amelie.rpy:1018
 translate chinese Amelie_5_label_cc7db8f6:
 
     # Amelie "Let's finish with the books."
-    Amelie ""
+    Amelie "让我们以书为终点。"
 
 # game/logic/events/amelie.rpy:1019
 translate chinese Amelie_5_label_545f9ced:
 
     # Amelie "Otherwise we'll never get to the end of it."
-    Amelie ""
+    Amelie "否则，我们将永远无法进行到最后。"
 
 # game/logic/events/amelie.rpy:1026
 translate chinese Amelie_5_label_bcc1c817:
 
     # Amelie "I can't believe we're done here!"
-    Amelie ""
+    Amelie "我不相信我们在这里完成了!"
 
 # game/logic/events/amelie.rpy:1027
 translate chinese Amelie_5_label_ac8de740:
 
     # Amelie "Great job, [Name]!"
-    Amelie ""
+    Amelie "干得好，[Name]!"
 
 # game/logic/events/amelie.rpy:1029
 translate chinese Amelie_5_label_bb948281:
 
     # ch_Name "What's about this one?"
-    ch_Name ""
+    ch_Name "这个是什么？"
 
 # game/logic/events/amelie.rpy:1030
 translate chinese Amelie_5_label_38c5d866:
 
     # Amelie "Ops!"
-    Amelie ""
+    Amelie "哎呀!"
 
 # game/logic/events/amelie.rpy:1032
 translate chinese Amelie_5_label_08169b1a:
 
     # Amelie "I'll need it."
-    Amelie ""
+    Amelie "我将需要它。"
 
 # game/logic/events/amelie.rpy:1033
 translate chinese Amelie_5_label_87c31739:
 
     # ch_Name "{i}(That's too hot!){/i}"
-    ch_Name ""
+    ch_Name "{i}（那太热了!）{/i}"
 
 # game/logic/events/amelie.rpy:1035
 translate chinese Amelie_5_label_a0c58b46:
 
     # ch_Name "{i}(Oh, please, not now... Fuck!){/i}"
-    ch_Name ""
+    ch_Name "{i}（哦，拜托，不是现在。。。操！）{/i}"
 
 # game/logic/events/amelie.rpy:1036
 translate chinese Amelie_5_label_fb9929b2:
 
     # ch_Name "{i}(It's getting me an erection...){/i}"
-    ch_Name ""
+    ch_Name "{i}（它让我勃起了。。。）{/i}"
 
 # game/logic/events/amelie.rpy:1037
 translate chinese Amelie_5_label_5fc96338:
 
     # ch_Name "{i}(I hope she doesn't notice anything...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我希望她不会注意到什么。。。）{/i}"
 
 # game/logic/events/amelie.rpy:1039
 translate chinese Amelie_5_label_c4596f12:
 
     # Amelie "Thanks, [Name]! You helped me so much!"
-    Amelie ""
+    Amelie "谢谢你，[Name]! 你帮了我这么多!"
 
 # game/logic/events/amelie.rpy:1040
 translate chinese Amelie_5_label_0b9f210f:
 
     # Amelie "Seriously, I owe you."
-    Amelie ""
+    Amelie "说真的，我欠你的。"
 
 # game/logic/events/amelie.rpy:1041
 translate chinese Amelie_5_label_ea72efbc:
 
     # Amelie "Oh, what's that?"
-    Amelie ""
+    Amelie "哦，那是什么？"
 
 # game/logic/events/amelie.rpy:1042
 translate chinese Amelie_5_label_f3b76a97:
 
     # ch_Name "Sorry, I... I can't control it."
-    ch_Name ""
+    ch_Name "不起，我。。。我不能控制它。"
 
 # game/logic/events/amelie.rpy:1044
 translate chinese Amelie_5_label_cee761be:
 
     # ch_Name "When I see such a beautiful woman's body as you have, I just..."
-    ch_Name ""
+    ch_Name "当我看到像你这样美丽的女人的身体，我只是。。。"
 
 # game/logic/events/amelie.rpy:1045
 translate chinese Amelie_5_label_302c4188:
 
     # ch_Name "I'm getting turned on just thinking about it."
-    ch_Name ""
+    ch_Name "光是想一想，我就觉得很兴奋。"
 
 # game/logic/events/amelie.rpy:1046
 translate chinese Amelie_5_label_925eee38:
 
     # ch_Name "I hope this doesn't make you uncomfortable. That's just how my body reacts to you..."
-    ch_Name ""
+    ch_Name "我希望这不会让你感到不舒服。这只是我的身体对你的反应。。。"
 
 # game/logic/events/amelie.rpy:1047
 translate chinese Amelie_5_label_ab7be6e8:
 
     # Amelie "Don't worry, dear! I'm kinda flattered to see such a big \"reaction\"..."
-    Amelie ""
+    Amelie "别担心，亲爱的! 看到这么大的“反应”，我有点受宠若惊......"
 
 # game/logic/events/amelie.rpy:1048
 translate chinese Amelie_5_label_a7cdd88c:
 
     # Amelie "Anyway, you must be tired now. I think you better take a rest."
-    Amelie ""
+    Amelie "无论如何，你现在一定很累了。我想你最好休息一下。"
 
 # game/logic/events/amelie.rpy:1050
 translate chinese Amelie_5_label_dbc89c44:
 
     # Amelie "And that's for you."
-    Amelie ""
+    Amelie "而这是给你的。"
 
 # game/logic/events/amelie.rpy:1051
 translate chinese Amelie_5_label_5b985813:
 
     # Amelie "I have a feeling that you'll find it interesting."
-    Amelie ""
+    Amelie "我有一种感觉，你会发现它很有趣。"
 
 # game/logic/events/amelie.rpy:1052
 translate chinese Amelie_5_label_18042c44:
 
     # ch_Name "Whoa, thanks. What a pleasant surprise!"
-    ch_Name ""
+    ch_Name "哇，谢谢。多么令人惊喜啊!"
 
 # game/logic/events/amelie.rpy:1054
 translate chinese Amelie_5_label_93307cca:
 
     # Amelie "Have a good time!"
-    Amelie ""
+    Amelie "祝你玩得开心! "
 
 # game/logic/events/amelie.rpy:1062
 translate chinese Amelie_5_label_984c887e:
 
     # ch_Name "{i}(Well, what do we have here?){/i}"
-    ch_Name ""
+    ch_Name "{i}（那么，我们这里有什么呢？）{/i}"
 
 # game/logic/events/amelie.rpy:1063
 translate chinese Amelie_5_label_9fb01e2e:
 
     # ch_Name "{i}(Interesting!){/i}"
-    ch_Name ""
+    ch_Name "{i}（有趣的是!）{/i}"
 
 # game/logic/events/amelie.rpy:1065
 translate chinese Amelie_5_label_8f7f3873:
 
     # ch_Name "{i}(\"The Bible of Sex\"...){/i}"
-    ch_Name ""
+    ch_Name "{i}（“性的圣经”...）{/i}"
 
 # game/logic/events/amelie.rpy:1066
 translate chinese Amelie_5_label_cf14b8d3:
 
     # ch_Name "{i}(\"Art of Seduction\"...){/i}"
-    ch_Name ""
+    ch_Name "{i}（“诱惑的艺术”...）{/i}"
 
 # game/logic/events/amelie.rpy:1067
 translate chinese Amelie_5_label_75398644:
 
     # ch_Name "{i}(What?){/i}"
-    ch_Name ""
+    ch_Name "{i}（什么？）{/i}"
 
 # game/logic/events/amelie.rpy:1068
 translate chinese Amelie_5_label_eb6c183c:
 
     # ch_Name "{i}(It looks like a kinda signal...){/i}"
-    ch_Name ""
+    ch_Name "{i}（它看起来有点像一个信号。。。）{/i}"
 
 # game/logic/events/amelie.rpy:1069
 translate chinese Amelie_5_label_22e4afa4:
 
     # ch_Name "{i}(I should visit Amelie more often to find out what she’s up to...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我应该更经常地去看望Amelie，了解她在做什么。。。）{/i}"
 
 translate chinese strings:
 
     # game/logic/events/amelie.rpy:9
     old "2 Talk to Amelie"
-    new ""
+    new "2 与Amelie交谈"
 
