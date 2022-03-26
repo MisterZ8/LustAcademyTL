@@ -176,7 +176,7 @@ translate chinese strings:
 
     # game/logic/characters.rpy:52
     old "Unknown Man"
-    new "Unknown Man"
+    new "未知男人"
 
     # game/logic/characters.rpy:54
     old "Guy"
@@ -184,11 +184,11 @@ translate chinese strings:
 
     # game/logic/characters.rpy:55
     old "Unknown Girl"
-    new "Unknown Girl"
+    new "未知女孩"
 
     # game/logic/characters.rpy:59
     old "Unknown elf"
-    new "Unknown elf"
+    new "未知精灵"
 
 # TODO: Translation updated at 2022-03-03 04:01
 
@@ -208,5 +208,5 @@ translate chinese strings:
 
     # game/logic/characters.rpy:52
     old "Ezra"
-    new ""
+    new "Ezra"
 
