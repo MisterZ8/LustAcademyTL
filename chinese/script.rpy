@@ -1054,21 +1054,21 @@ translate chinese strings:
 
     # game/script.rpy:272
     old "{size=15}Note that night visits are entirely optional.{/size} \n{size=15}This additional content is not required to complete the game{/size} \n{size=15}and won’t influence your relationship with other characters.{/size}"
-    new ""
+    new "{size=15}请注意，夜间访问完全是可选的。{/size} \n{size=15}完成游戏不需要这些额外的内容{/size} \n{size=15}并且不会影响你与其他角色的关系。{/size}"
 
     # game/script.rpy:274
     old "1st"
-    new ""
+    new "第1"
 
     # game/script.rpy:276
     old "2nd"
-    new ""
+    new "第2"
 
     # game/script.rpy:278
     old "3rd"
-    new ""
+    new "第3"
 
     # game/script.rpy:280
     old "4th"
-    new ""
+    new "第4"
 
