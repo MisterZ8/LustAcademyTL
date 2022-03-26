@@ -2252,139 +2252,139 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I make my own luck"
-    new ""
+    new "我自己创造运气"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "\"Elegance must be the right combination of distinction, naturalness, care and simplicity. Outside this, believe me, there is no elegance. Only pretension.\""
-    new ""
+    new "“优雅必须是区别、自然、谨慎和简单的正确结合。除此之外，相信我，这里没有优雅。只是装腔作势而已。”"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Christian Dior."
-    new ""
+    new "Christian Dior。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Vanessa:{/b} If you're a goddess, then I'm a demon."
-    new ""
+    new "{b}Vanessa:{/b} 如果你是女神，那么我就是恶魔。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Adele:{/b} He-he-he."
-    new ""
+    new "{b}Adele:{/b} He-he-he."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "You're too fucking gorgeous in this dress, I can't breathe..."
-    new ""
+    new "你穿这件衣服太他妈漂亮了，我喘不过气来..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Adele: I wonder what'd you say if I were without it...🙃"
-    new ""
+    new "Adele：我想知道如果我没有它你会怎么说...🙃"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
-    old "Will you be my muse?"
+    old "你会成为我的女神吗？"
     new ""
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Only look at these kitties! Which one would you choose?"
-    new ""
+    new "看看这些小猫！你会选择哪一个？"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "P.S. This kiddo comes here every day, I think we're friends now."
-    new ""
+    new "P.S. 这个小伙子每天都来，我想我们现在是朋友了。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Vanessa:{/b} Sorry, but I always wanted to get a cat, so..."
-    new ""
+    new "{b}Vanessa:{/b} 对不起，我一直想养只猫，所以..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Adele:{/b} 😢"
-    new ""
+    new "{b}Adele:{/b} 😢"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Some people believe that cats can feel good in people's hearts. If she came to you, then it says a lot."
-    new ""
+    new "有些人相信猫在人们心中会感觉良好。如果她来找你，那说明了很多。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I have nothing against cats, but you're too seductive for choosing a fluffy animal."
-    new ""
+    new "我不反对猫，但你太有诱惑力了，不能选择毛茸茸的动物。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I hope you'll get enough rest, miss Amelie. ❤️"
-    new ""
+    new "我希望你能得到足够的休息，Amelie小姐。❤️"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Amelie: I'm not sure you'll keep me entertained long enough. 🙄 😛"
-    new ""
+    new "Amelie：我不确定你会不会让我放松得足够。🙄 😛"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Amelie: Maybe... 😜"
-    new ""
+    new "Amelie：可能...😜"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Looks like the perfect outfit for the role-playing game if you know what I mean."
-    new ""
+    new "如果你明白我的意思的话，看起来是角色扮演游戏的完美装备。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "When I'm tired there is only one thing that motivates me - I always remember that the sky is the limit 💪"
-    new ""
+    new "当我累的时候，只有一件事能激励我——我总是记得天空是极限💪"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Olivia:{/b} We are so proud of you, baby! ❤️ "
-    new ""
+    new "{b}Olivia:{/b}我们为你感到骄傲，宝贝！❤️"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Samantha:{/b} Keep going, sis. You're great!"
-    new ""
+    new "{b}Samantha:{/b} 继续，姐姐。你太棒了！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "You're an excellent example to be followed, Ash! I'm fascinated!"
-    new ""
+    new "你是个值得效仿的好榜样，阿！我被迷住了！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Ashley: It's refreshing to know that you think so, really."
-    new ""
+    new "Ashley：知道你这么想真让人耳目一新。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Gymnastics is so sexy!"
-    new ""
+    new "体操太性感了！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "You have to teach me this exercise someday! I will try hard, I swear..."
-    new ""
+    new "总有一天你得教我这个练习！我发誓，我会努力的..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Ashley: Too dubious..."
-    new ""
+    new "Ashley：太可疑了..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Jacob:{/b} One of the biggest mysteries in you is how you manage not to be expelled if you don't finish your term paper."
-    new ""
+    new "{b}Jacob:{/b} 你最大的谜团之一是，你是如何在的情况下不被开除的。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "One look at this picture fills me with harmony. Or, well, maybe those are some other feelings. 😈 "
-    new ""
+    new "看一眼这张照片，我就充满了和谐。或者，嗯，也许那是一些其他的感觉。😈"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "It's 10 p.m., Sam and I spontaneously decided to go to a costume party, and this is the only outfit that she found for me... "
-    new ""
+    new "现在是晚上10点，山姆和我自发地决定去参加化装舞会，这是她为我找到的唯一一套服装..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Shit, I just want to get drunk tonight! 👿"
-    new ""
+    new "妈的，我今晚只想喝醉！👿"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Lily:{/b} These wings together with your tattoos... Wow!"
-    new ""
+    new "{b}Lily:{/b} 这些翅膀和你的纹身...哇哦！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Audrey:{/b} Thank you, sis."
-    new ""
+    new "{b}Audrey:{/b} 谢谢你，姐姐。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Your life is such an adventure... I envy you sometimes, he-he."
-    new ""
+    new "你的生活是一场冒险。。。我有时羡慕你，he-he。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Audrey: 🙃"
-    new ""
+    new "Audrey: 🙃"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "What's happened to your face? If I were you, I wouldn't show this photo to anyone..."
@@ -2392,625 +2392,625 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Audrey: A little longer and I will block you."
-    new ""
+    new "你的脸怎么了？如果我是你，我不会把这张照片给任何人看。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Heads up, I hate my outfit and this party is fucking terrible."
-    new ""
+    new "小心点，我讨厌我的衣服，这个派对太糟糕了。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "@Samantha, you can never make me to dress like a damn white pigeon again!"
-    new ""
+    new "@Samantha，你再也不能让我穿得像只该死的白鸽了！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Samantha:{/b} Are you kidding me?! You look just great! If I only could wipe this sour look off your face..."
-    new ""
+    new "{b}Samantha:{/b} 你在开玩笑吧？！你看起来棒极了！如果我能擦掉你脸上的酸涩表情就好了..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Audrey:{/b} 😜"
-    new ""
+    new "{b}Audrey:{/b} 😜"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Elijah:{/b} Whoa, what? You guys were all hanging out and you didn't even invite me?"
-    new ""
+    new "{b}Elijah:{/b} 哇，什么？你们都出去玩了，还没邀请我？"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Haley:{/b} There's something devilish about you but when you're dressed as an angel... It hits different."
-    new ""
+    new "{b}Haley:{/b} 你身上有些邪恶的东西，但当你打扮成天使...它变成了不同的东西。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "You're like a devilish angel... or maybe an angelic devil..."
-    new ""
+    new "你就像一个邪恶的天使...或者是天使般的魔鬼..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Even this angel's costume can't hide a devilish glint in your eyes."
-    new ""
+    new "即使是天使的服装也无法在你的眼睛里隐藏恶魔般的光芒。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "At first I think it is angel's costume but you really look more like a pigeon..."
-    new ""
+    new "一开始我觉得这是天使的服装，但你看起来更像一只鸽子..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Audrey: Fuck off!"
-    new ""
+    new "Audrey: 滚！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Lily:{/b} True. You guys are cute. ❤️"
-    new ""
+    new "{b}Lily:{/b} 确实。你们真可爱。❤️"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "At first I was afraid I'd look bad, but next to you, I look handsome."
-    new ""
+    new "起初我担心我会看起来很糟糕，但在你旁边，我看起来很帅。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Haley: Thank's! Friend... 👀"
-    new ""
+    new "Haley: 谢谢了！朋友... 👀"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Haley: I haven't said anything about action. 🤭"
-    new ""
+    new "Haley: 关于行动，我什么也没说。🤭"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "The main question is - how sturdy is your bed? "
-    new ""
+    new "主要问题是——你的床有多结实？"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Haley: Why?',' Haley: Oh! I got it! Ew!!! "
-    new ""
+    new "Haley: 什么？','Haley: 噢！我明白了！呃！！！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I never thought that marble will ever turn me on..."
-    new ""
+    new "我从没想过大理石会让我兴奋..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I've never put out such photos in Lustagram, but I really like this one. Hope you don't mind... 😇 "
-    new ""
+    new "我从未在Lustagram发布过这样的照片，但我真的很喜欢这张。希望你不介意... 😇"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Elijah:{/b} We hope to see more photos like that! You're a real beauty, Haley."
-    new ""
+    new "{b}Elijah:{/b} 我们希望看到更多这样的照片！你真是个美人，Haley。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Samantha:{/b} Hey, we're all for!"
-    new ""
+    new "{b}Samantha:{/b} 嘿，我们都支持！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Lily:{/b} You're as delicate as little flower!"
-    new ""
+    new "{b}Lily:{/b} 你像小花一样娇嫩！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "The only thing dividing our eyes and your beautiful body is the towel. Just the mere thought of that is a turn-on."
-    new ""
+    new "唯一能让我们的眼睛和你美丽的身体分开的是毛巾。只要一想到这一点，你就会感到兴奋。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Haley: We'll talk about it later, in private."
-    new ""
+    new "Haley: 我们以后私下再谈。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "So that's why your skin is so soft! I thought that's just so, without any lotion... The way I see the world will never be the same after that..."
-    new ""
+    new "这就是为什么你的皮肤如此柔软！我以为就是这样，没有任何护肤品...从那以后，我对世界的看法就再也不一样了..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Haley: You're kidding, right?"
-    new ""
+    new "Haley: 你在开玩笑吧？"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Thanks @Lily for doing this beautiful makeup! She's a great makeup artist, that's for sure."
-    new ""
+    new "谢谢@Lily 感谢你化这么漂亮的妆！她是个很棒的化妆师，这是肯定的。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I can hardly recognize myself in the mirror and it feels really strange. Do I look better?"
-    new ""
+    new "我在镜子里几乎认不出自己，感觉很奇怪。我看起来好点了吗？"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Naomi:{/b} Oh, my! I love you both - old sweety Haley and Haley - femme fatale! "
-    new ""
+    new "{b}Naomi:{/b} 哦，天哪！我爱你们两个 - 老甜心Haley和Haley - 致命的女人！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Haley:{/b} Thanks, sweetheart. ❤️ "
-    new ""
+    new "{b}Haley:{/b} 谢谢，甜心。❤️"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Elijah:{/b} With this makeup you look older, but you're still beautiful."
-    new ""
+    new "{b}Elijah:{/b} 用这种化妆品你看起来老了，但你仍然很漂亮。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Haley:{/b} 😊"
-    new ""
+    new "{b}Haley:{/b} 😊"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Haley, you're perfect no matter what! ❤️"
-    new ""
+    new "Haley，不管怎样，你都是完美的！❤️"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Haley: Oh! 🥰"
-    new ""
+    new "Haley：哦！🥰"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "That's great that you help Lily to develop as a makeup artist, but what do you think about helping me to improve my body painting skills? You can be my model."
-    new ""
+    new "你帮助莉莉发展成为一名化妆师真是太好了，但是你觉得如何帮助我提高我的身体彩绘技巧呢？你可以做我的模特。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Haley: I will think about it..."
-    new ""
+    new "Haley：我会考虑的..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Here you go. ❤️"
-    new ""
+    new "这个给你。❤️"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "There's a whole world of amazing possibilities, but here you are, asking for likes on Lustagram. 😢"
-    new ""
+    new "这是一个充满惊人可能性的世界，但在这里，在Lustagram上你可以寻求赞赏。😢"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I've never celebrated Christmas with my friends and voila! Dreams do come true! "
-    new ""
+    new "我从来没有和朋友一起过圣诞节，瞧！梦想成真！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Best Christmas ever! ❤️ "
-    new ""
+    new "有史以来最好的圣诞节！❤️"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Samantha:{/b} He-he-he, you lit up like a Christmas tree."
-    new ""
+    new "{b}Samantha:{/b} 哈哈哈，就像一棵圣诞树。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Elijah:{/b} I enjoyed it too, really. We had so much fun together! "
-    new ""
+    new "{b}Elijah:{/b} 我也很喜欢，真的。我们在一起玩得很开心！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I pray this is not the only Christmas we celebrate together."
-    new ""
+    new "我希望这不是我们一起庆祝的唯一圣诞节。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Lily: Awwww!"
-    new ""
+    new "Lily：啊哇哇哇！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Time to dream big! There are so many things in the world we never get to learn, and you were dreaming about hanging out with your friends at Christmas?!"
-    new ""
+    new "是时候实现远大梦想了！世界上有太多我们永远学不到的东西，而你却梦想着在圣诞节和朋友们一起出去玩？！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Lily: Yes, so what?"
-    new ""
+    new "Lily：是的，那又怎样？"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "The season for hats, scarves and sweaters, finally. My favorite time of the year!"
-    new ""
+    new "终于到了帽子、围巾和毛衣的季节了。一年中我最喜欢的时间！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Audrey:{/b} You're looking so cozy, I just want to hug you! 😺"
-    new ""
+    new "{b}Audrey:{/b} 你看起来很舒服，我只想拥抱你！😺"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Lily:{/b} I'd be happy to have a hug!"
-    new ""
+    new "{b}Lily:{/b} 我很高兴能获得一个拥抱！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Haley:{/b} Winter is my favorite time of year too!"
-    new ""
+    new "{b}Haley:{/b} 冬天也是我一年中最喜欢的时间！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "You are adorable in this winter hat!"
-    new ""
+    new "你戴着这顶冬天的帽子真可爱！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Lily: Thanks!"
-    new ""
+    new "Lily：谢谢！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Still, if you get cold, you can come to my room at any time and I will warm you in my arms..."
-    new ""
+    new "不过，如果你感觉冷了，你可以随时来我的房间，我会用我的手臂温暖你.."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Lily: 😇"
-    new ""
+    new "Lily：😇"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I decided to unwind and went to the beach. I'd forgotten how much fun it was! I need to remind myself more often that there is such pure and carefree fun in the world."
-    new ""
+    new "我决定放松一下，去海滩。我忘了这有多有趣了！我需要更经常地提醒自己，世界上有如此纯粹无忧无虑的乐趣。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Elijah:{/b} Wow, Molly!"
-    new ""
+    new "{b}Elijah:{/b} 哇，Molly！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Is that your picture next to \"charming\" in the dictionary?"
-    new ""
+    new "字典里“迷人”旁边是你的照片吗？"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "You might be the primary reason for global warming, Molly. You're too hot!"
-    new ""
+    new "Molly，你可能是全球变暖的主要原因。Molly，你太热辣了！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I think God was high when he created you because there's no one else who comes so close to perfection..."
-    new ""
+    new "我认为上帝创造你的时候很高尚，因为没有其他人能如此接近完美..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "My first photo session and only look at this! Seems that I can be successful not only in business... "
-    new ""
+    new "我第一次拍照，只看这个！看来我不仅能在生意上成功..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Does anybody here have contacts with modeling agencies?"
-    new ""
+    new "这里有人和模特经纪公司有联系吗？"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Elijah:{/b} Wow! 💣"
-    new ""
+    new "{b}Elijah:{/b} 哇！💣"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Audrey:{/b} It's breathtaking, Molly! You should think about modeling, at least as a hobby."
-    new ""
+    new "{b}Audrey:{/b} 太惊人了，莫莉！你应该考虑建模，至少作为一种爱好。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Haley:{/b} It's sad, but I don't have any contacts :("
-    new ""
+    new "{b}Haley:{/b} 很遗憾，但我没有任何联系人 :("
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "You're the piece of art, Molly!"
-    new ""
+    new "你是件艺术品，Molly！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Molly: Um, thanks!"
-    new ""
+    new "Molly：嗯，谢谢！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Whoa, that's very sensual! Your body language is really something..."
-    new ""
+    new "哇，那太性感了！你的肢体语言真有那味..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Three-time champion! "
-    new ""
+    new "三次冠军！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "P.S. Sorry, @Elijah, but you have much to learn."
-    new ""
+    new "P.S. 抱歉，@Elijah，但你还有很多东西要学。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Elijah:{/b} I'm dying for a rematch!"
-    new ""
+    new "{b}Elijah:{/b} 我渴望重赛！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Molly:{/b} We'll see..."
-    new ""
+    new "{b}Molly:{/b} 走着瞧..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I'd like to play chess with you sometime, what do you think?"
-    new ""
+    new "我想找个时间和你下棋，你觉得怎么样？"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Molly: I'm all for!"
-    new ""
+    new "Molly：我全力以赴！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I thought that you were only good at coffee..."
-    new ""
+    new "我以为你只擅长咖啡..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Molly: Hey!"
-    new ""
+    new "Molly：嘿！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I found this new cafe and didn't expect anything special, but wow! "
-    new ""
+    new "我找到了这家新咖啡馆，没想到有什么特别的，但是哇！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Here am I, drinking my best ginger tee!"
-    new ""
+    new "我在这里，喝着我最好的姜汁茶！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Audrey:{/b} That's my favorite place, Ahchi can even call me a regular."
-    new ""
+    new "{b}Audrey:{/b} 那是我最喜欢的地方，阿赤甚至可以称我为常客"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Lily:{/b} Thanks for the tip! We can go there together, what do you think?"
-    new ""
+    new "{b}Lily:{/b} 谢谢你的提示！我们可以一起去那里，你觉得呢？"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Naomi:{/b} Sure, baby! 😉"
-    new ""
+    new "{b}Naomi:{/b} 当然，宝贝！😉"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I will be happy to join you and Lily, so you can DM next time you go there."
-    new ""
+    new "我很乐意加入你和莉莉，所以你下次去那里可以直接私信我。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Naomi: Sorry, this is supposed to be an all-girls party."
-    new ""
+    new "Naomi：抱歉，那是一个全女生的派对。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "How cute are you in this photo and how aggressive can you be in the real life..."
-    new ""
+    new "这张照片里的你有多可爱，现实生活中的你有多好斗.."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Naomi: What's this about, [Name]?"
-    new ""
+    new "Naomi：这是关于什么的，[Name]？"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I need some time by myself to sort all things out. Just leave me alone, okay? "
-    new ""
+    new "我需要一些时间自己解决所有问题。让我一个人呆着好吗？"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Samantha:{/b} But we're here for you, sweetie... if you need us. Just remember that."
-    new ""
+    new "{b}Samantha:{/b} 但我们会在这里等你，亲爱的...如果您需要我们。记住这一点。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Naomi:{/b}❤️ "
-    new ""
+    new "{b}Naomi:{/b}❤️"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Elijah:{/b} Well, if you insist..."
-    new ""
+    new "{b}Elijah:{/b} 好吧，如果你坚持..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I would give anything to join you and take a nice hot bath together..."
-    new ""
+    new "我愿意付出一切来和你一起洗个热水澡..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Naomi: Sounds not that bad."
-    new ""
+    new "Naomi：听起来还不错。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "There is no need to take a bath and drink champagne if you want to figure everything out. Don't be too dramatic, Naomi."
-    new ""
+    new "如果您想弄清楚一切，没必要洗澡和喝香槟。不要太戏剧化，Naomi。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Naomi: You're intolerable!"
-    new ""
+    new "Naomi：你受不了了！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Olivia:{/b}  I WILL END YOU! 😡"
-    new ""
+    new "{b}Olivia:{/b} 我会终结你的！😡"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Olivia:{/b} Thanks! But you can't have one. 😜"
-    new ""
+    new "{b}Olivia:{/b} 谢谢！但你不能拥有一个。 😜"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Samantha:{/b} I'm your daughter. 🥺"
-    new ""
+    new "{b}Samantha:{/b} 我是你的女儿。 🥺"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Olivia:{/b} Means nothing to me. 😈"
-    new ""
+    new "{b}Olivia:{/b} 对我来说毫无意义。 😈"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Your cupcakes looks delicious. 😏"
-    new ""
+    new "你的纸杯蛋糕看起来很好吃。 😏"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Don:{/b} You'll have to make this deal even. 👉👌"
-    new ""
+    new "{b}Don:{/b} 你将不得不做这笔交易。 👉👌"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Ashley:{/b} Mom, don't say that. Dad loves you for your personality too."
-    new ""
+    new "{b}Ashley:{/b} 妈妈，不要这么说。爸爸也爱的你的性格。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "You look gorgeous as always, Olivia."
-    new ""
+    new "你看起来一如既往的美丽，Olivia。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Every friday night Don and I go to a fancy restaurant and enjoy the night at the chic hotel then, just for a change of scenery. Sometimes it can be hard to keep a romance alive in the relationship, but it's truly worth it! "
-    new ""
+    new "每个星期五晚上，唐和我去一家高档餐厅，然后在别致的酒店享受夜晚，只是为了换个风景。有时很难在恋爱中保持浪漫，但这确实值得！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Ashley:{/b} I don't want to know anything about that..."
-    new ""
+    new "{b}Ashley:{/b} 我不想知道这件事..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Olivia:{/b} C'mon, you're a grown woman already."
-    new ""
+    new "{b}Olivia:{/b} 拜托，你已经是个成年女人了。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Ashley:{/b} It makes no difference!"
-    new ""
+    new "{b}Ashley:{/b} 这没什么区别！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Hm, it seems really difficult to be in a relationship with one person for many years and be romantic all the time."
-    new ""
+    new "嗯，和一个人交往多年，一直浪漫，似乎真的很难。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Global warming, starvation in Africa, ozone layer depletion... There are so many problems, but you decide to fight against the lack of romance in the relationships..."
-    new ""
+    new "全球变暖、非洲饥饿、臭氧层消耗...问题太多了，但你决定与缺乏浪漫的关系作斗争..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I always feel sexy and desired, even while cleaning. That's not too easy to get in touch with your feminine side, but you will feel like a different person after it!"
-    new ""
+    new "即使在清洁时，我也总是感到性感和渴望。这不太容易接触到你女性​​化的一面，但之后你会觉得自己变了一个人！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Don:{/b} That's my woman!"
-    new ""
+    new "{b}Don:{/b} 那是我的女人！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Olivia:{/b}😍"
-    new ""
+    new "{b}Olivia:{/b}😍"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Evelyn:{/b}  I know there's a lot I can learn from you!"
-    new ""
+    new "{b}Evelyn:{/b} 我知道我可以向你学习很多东西！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Olivia:{/b} I'm here for you, dear."
-    new ""
+    new "{b}Olivia:{/b} 我在这里等你，亲爱的。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Samantha:{/b} Mom, don't you think that it is a little bit too much for Lustagram when everybody can see your posts?"
-    new ""
+    new "{b}Samantha:{/b} 妈妈，你不觉得当大家都能看到你的帖子时，Lustagram 有点过分了吗？"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Seems that @Don is very lucky!"
-    new ""
+    new "看来@Don 很幸运！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Okay, I should admit that even at your age is possible to look hot. But let's be honest - you still need to work on that..."
-    new ""
+    new "好吧，我应该承认，即使在你这个年纪也有可能看起来很热。但说实话 -你仍然需要努力..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Olivia: Nobody asked you, [Name]!"
-    new ""
+    new "Olivia：没人问你，[Name]！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Are you a miracle from heaven? Seems like you came from the stars..."
-    new ""
+    new "你是来自天堂的奇迹吗？仿佛你来自星星..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Let's just say I love my job... but I know what it feels like to be completely exhausted."
-    new ""
+    new "让我们说我热爱我的工作...但我知道完全筋疲力尽的感觉。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Jacob:{/b} We've all been there..."
-    new ""
+    new "{b}Jacob:{/b} 我们都曾那样..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Amelie:{/b} I know exactly how you feel... 🥺"
-    new ""
+    new "{b}Amelie:{/b} 我知道你的感受... 🥺"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Victoria:{/b} You were sleeping so peacefully... we didn't wake you up. Sorry! 🥺"
-    new ""
+    new "{b}Victoria:{/b} 你睡得那么安详...我们没有叫醒你。对不起！ 🥺"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Oh, just remember that sleep is very important for the recovery of your body!"
-    new ""
+    new "哦，请记住，睡眠对身体的恢复非常重要！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "If I were there I wouldn't let you sleep! 😈"
-    new ""
+    new "如果我在那里，我不会让你睡觉！ 😈"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Come on, Sleeping Beauty, wake up!"
-    new ""
+    new "来吧，睡美人，醒醒吧！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Samantha:{/b} Last Summer..."
-    new ""
+    new "{b}Samantha:{/b} 上个夏天..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Audrey:{/b} I'd eat you! 😈"
-    new ""
+    new "{b}Audrey:{/b} 我要吃掉你！ 😈"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Samantha: We'll see. 😉"
-    new ""
+    new "Samantha：走着瞧。 😉"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Samantha: Your imagination is too limited to grasp all my abilities. 😜"
-    new ""
+    new "Samantha：你的想象力太有限，无法掌握我所有的能力。 😜"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Elijah:{/b} Sure, sure."
-    new ""
+    new "{b}Elijah:{/b} 好，好。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "We've been planning to take pole dancing classes for months. Finally made it! Only one hour and I already feel how my sensuality is awakening, awwwwww 🥰"
-    new ""
+    new "几个月来，我们一直计划参加钢管舞课程。终于成功了！只有一个小时，我已经感觉到我的感官正在觉醒，啊哈哈哈哈 🥰"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Audrey:{/b} God damn, we are fucking gorgeous!"
-    new ""
+    new "{b}Audrey:{/b} 该死的，我们太他妈棒了！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Elijah:{/b} I only wanted to spend 10 minutes in Lustagram before going to sleep and it was my biggest mistake - it's impossible to have any thought about sleep after this photo..."
-    new ""
+    new "{b}Elijah:{/b} 我只想在睡觉前在Lustagram待上10分钟，这是我最大的错误——拍完这张照片后，我不可能再想睡觉了..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I'm having a heart attack... These pictures are too perfect!"
-    new ""
+    new "我的心被击中了...这些照片太完美了！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Samantha: I hope that everything is okay now..."
-    new ""
+    new "Samantha：我希望现在一切都好..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Now I feel like I'm ready to take some lessons too. Do you think that I need to increase my feminine energy?"
-    new ""
+    new "现在我觉得我也准备好上一些课了。你认为我需要增加我的女性能量吗？"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Samantha: Ha-ha-ha, absolutely yes!"
-    new ""
+    new "Samantha：哈哈哈，完全需要！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I found this prom photo in my album and only look at this little girl! Great changes have taken place, but there is still a gentle kid living inside me."
-    new ""
+    new "我在相册里找到了这张毕业舞会的照片，看看这个小女孩！虽然发生了巨大的变化，但我内心仍然有一个温柔的孩子。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Olivia:{/b} You're still the same sweet little girl for us. We love you so much! ❤️ "
-    new ""
+    new "{b}Olivia:{/b} 对我们来说，你还是那个可爱的小女孩。我们都很喜欢你！ ❤️"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Haley:{/b} You have barely changed, he-he."
-    new ""
+    new "{b}Haley:{/b} 你几乎没有改变，哈哈。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Samantha:{/b} Do you really think so?"
-    new ""
+    new "{b}Samantha:{/b} 你真的这么想？"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Audrey:{/b} You're too good to be true, babe..."
-    new ""
+    new "{b}Audrey:{/b} 你好得令人难以置信，宝贝..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "You look absolutely radiant, as ever! "
-    new ""
+    new "你看起来绝对容光焕发，一如既往！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Samantha: I do my best, thank you!"
-    new ""
+    new "Samantha：我尽力了，谢谢！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Is that your secret little sister? Can you introduce me to her, please?"
-    new ""
+    new "那是你的秘密妹妹吗？请你把我介绍给她好吗？"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Samantha: Poor thing, he doesn't know how to read. 😛"
-    new ""
+    new "Samantha：可怜的家伙，他不知道怎么读。 😛"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "DM for bartender services"
-    new ""
+    new "DM 调酒师服务"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Life is just a party, so come as you are! 😈"
-    new ""
+    new "生活只是一场派对，来吧！ 😈"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Samantha:{/b} That was a blast! An amazing vibe, thank you for everything! 💜"
-    new ""
+    new "{b}Samantha:{/b} 那是一个爆炸！令人惊叹的氛围，感谢您所做的一切！ 💜"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Everything looks insanely cool in this photo. I wish I were at this party..."
-    new ""
+    new "在这张照片中，一切看起来都非常酷。我希望我去过个聚会上..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "\"Come as you are?\"  Why are you still dressed then?"
-    new ""
+    new "“照你的样子来？”那你怎么还穿着呢？"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Victoria:{/b} Thank you, Jacob. "
-    new ""
+    new "{b}Victoria:{/b} 谢谢你，Jacob。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Music is one of, if not the most important aspect of my life. It is a way to express myself and my feelings. It's something that I can go to whenever I need it. "
-    new ""
+    new "音乐是我生活中最重要的方面之一，如果不是的话。这是一种表达我自己和我的感受的方式。这是我需要时可以去的地方。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Somebody once told me that music gives a soul to the universe, wings to the mind, flight to the imagination and life to everything."
-    new ""
+    new "有人曾经告诉我，音乐赋予宇宙灵魂，赋予思想翅膀，赋予想象力，赋予一切生命。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Sabrina:{/b} My heart is going to stop! You look very elegant, dear. 🤤"
-    new ""
+    new "{b}Sabrina:{/b} 我的心要停止了！你看起来很优雅，亲爱的。 🤤"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Amelie:{/b} That's well said, Vicky. Only literature has such a great power as music has..."
-    new ""
+    new "{b}Amelie:{/b} 说得好，Vicky。只有文学才能像音乐一样具有如此强大的力量..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I would really love to hear you play, miss... "
-    new ""
+    new "我真的很想听你演奏，女士..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Seems that you have well-trained fingers! I'm only interested in what more can they do to bring satisfaction..."
-    new ""
+    new "看来你的手指训练有素！我只对他们还能做些什么来带来满足感感兴趣..."
 
