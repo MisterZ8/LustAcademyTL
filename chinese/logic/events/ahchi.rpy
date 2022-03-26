@@ -3885,5 +3885,5 @@ translate chinese CF_S3_label_502169ac:
 translate chinese CF_Ahchi_2_label_c44cf98f:
 
     # Ahchi "Did you hear what old man Chompski pulled the other day?"
-    Ahchi ""
+    Ahchi "你听说过Chompski老头前几天做的事吗？"
 
