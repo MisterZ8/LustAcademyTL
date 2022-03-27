@@ -1812,41 +1812,40 @@ translate chinese strings:
 translate chinese Gordon_1_label_f04d59cb:
 
     # UnknownGordon "I'm Gordon Chompski."
-    UnknownGordon ""
+    UnknownGordon "我是Gordon Chompski。"
 
 # game/logic/events/gordon.rpy:116
 translate chinese Gordon_1_label_5f7e6b15:
 
     # Gordon "And this is Chompski Shop. Best store in Dale."
-    Gordon ""
+    Gordon "这就是Chompski商店。在Dale最好的商店。"
 
 # game/logic/events/gordon.rpy:203
 translate chinese Gordon_1_label_a02a86a4:
 
     # Gordon "If you need a part-time job, there's nobody better than Chompski."
-    Gordon ""
+    Gordon "如果你需要一份兼职工作，没有哪里比Chompski更好。"
 
 # game/logic/events/gordon.rpy:353
 translate chinese Willow_1_label_f0dc1db3:
 
     # ch_Name "{i}(The Chompski Shop. That's where I'm going.){/i}"
-    ch_Name ""
+    ch_Name "{i}（Chompski 商店。那是我要去的地方。）{/i}"
 
 # game/logic/events/gordon.rpy:380
 translate chinese Willow_1_label_9aa9e39f:
 
     # Willow "Yes, about the Chompski Shop."
-    Willow ""
+    Willow "是的，关于Chompski商店。"
 
 # game/logic/events/gordon.rpy:389
 translate chinese Willow_1_label_d5218044:
 
     # Willow "The chief-editor just shrugged her shoulders: \"We can do nothing, baby girl\". What a bitch!"
-    Willow ""
+    Willow "主编只是耸了耸肩。“我们无能为力，宝贝女儿”。真是个婊子！" 
 
 # game/logic/events/gordon.rpy:414
 translate chinese Willow_1_label_1a65d07c:
 
     # ch_Name "The breeze feels so wonderful... It's so nice outside!"
-    ch_Name ""
-
+    ch_Name "微风的感觉如此美妙。。。外面的天气真好!"
