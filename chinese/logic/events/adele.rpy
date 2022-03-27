@@ -58,7 +58,7 @@ translate chinese adele_1_label_ac7bbadc:
 translate chinese adele_1_label_d2cd6dee:
 
     # ch_Name "{i}(I never thought that a simple touch could be so pleasant...){/i}"
-    ch_Name "{i}我从没想过一个简单的触摸会如此令人愉快...{/i}"
+    ch_Name "{i}我从没想过一个简单的触摸会如此令人愉快....{/i}"
 
 # game/logic/events/adele.rpy:104
 translate chinese adele_1_label_feafb0b3:
@@ -8217,7 +8217,7 @@ translate chinese strings:
 # game/logic/events/adele.rpy:395
 translate chinese adele_2_label_e446c96f:
 
-    # Adele "So, how do you like Lady Luck?"
+# Adele "So, how do you like Lady Luck?"
     Adele "你觉得幸运女神怎么样？"
 
 # game/logic/events/adele.rpy:932
@@ -8266,7 +8266,7 @@ translate chinese vip_lucy_1_label_2_e314424b:
 translate chinese vip_lucy_1_label_2_6e2566ed:
 
     # ch_Name "{i}(What a view!){/i}"
-    ch_Name "{i}（一个视图！）{/i}"
+    ch_Name "{i}（多美的景色啊！）{/i}"
 
 # game/logic/events/adele.rpy:1036
 translate chinese vip_lucy_1_label_2_5cdab09c:
@@ -8476,7 +8476,7 @@ translate chinese Adele_5_label_a2fe69f4:
 translate chinese Adele_5_label_85dec623:
 
     # ch_Name "Would it really stop the world if you took a break?"
-    ch_Name "如果你休息一下，真的会让世界停止运转吗？"
+    ch_Name "如果你休息一下，地球就不转了吗？"
 
 # game/logic/events/adele.rpy:2471
 translate chinese Adele_5_label_390954a2:
@@ -8560,7 +8560,7 @@ translate chinese Adele_5_label_7c97a2e7:
 translate chinese Adele_5_label_b6ec4d73:
 
     # Adele "My shift ends tonight."
-    Adele "我今晚下班。"
+    Adele "我的轮班今晚结束。"
 
 # game/logic/events/adele.rpy:2489
 translate chinese Adele_5_label_7ae6cd4a:
@@ -8596,7 +8596,7 @@ translate chinese Adele_5_label_dbf4b608:
 translate chinese Adele_5_label_f6d0bf83:
 
     # ch_Name "{i}(It seems Adele's shift is almost coming to an end.){/i}"
-    ch_Name "{i}（Adele的转变似乎就要结束了。）{/i}"
+    ch_Name "{i}（Adele的轮班似乎就要结束了。）{/i}"
 
 # game/logic/events/adele.rpy:2501
 translate chinese Adele_5_label_2d24405d:
@@ -8608,7 +8608,7 @@ translate chinese Adele_5_label_2d24405d:
 translate chinese Adele_5_label_0f56166d:
 
     # ch_Name "What's up, gorgeous? Aren't you tired of working?"
-    ch_Name "怎么了，漂亮吗？你难道不厌倦工作吗？"
+    ch_Name "怎么了，美人？你工作累了吗？"
 
 # game/logic/events/adele.rpy:2504
 translate chinese Adele_5_label_5f1b87cb:
@@ -8812,7 +8812,7 @@ translate chinese Adele_5_label_7a09b7af:
 translate chinese Adele_5_label_008b0636:
 
     # Adele "What, did you think I was just a hottie with a straw instead of a brain?"
-    Adele "怎么，你以为我只是个有吸管而没脑子的辣妹吗？"
+    Adele "怎么，你以为我只是个脑子里只有稻草的辣妹吗？"
 
 # game/logic/events/adele.rpy:2552
 translate chinese Adele_5_label_4983579f:
@@ -8860,7 +8860,7 @@ translate chinese Adele_5_label_26646a38:
 translate chinese Adele_5_label_from_gallery_84ca242b:
 
     # Adele "No, no, no. Just imagine - the whole club was the size of a current VIP."
-    Adele "不，不，不。想象一下——整个俱乐部的规模相当于现在的一位贵宾。"
+    Adele "不，不，不。想象一下——整个俱乐部的规模相当于现在的一位贵宾室。"
 
 # game/logic/events/adele.rpy:2572
 translate chinese Adele_5_label_from_gallery_474e0b39:
@@ -8890,19 +8890,19 @@ translate chinese Adele_5_label_from_gallery_24c55b74:
 translate chinese Adele_5_label_from_gallery_c63f61d6:
 
     # Adele "Yes, I used to. I was so popular, I was able to earn it all."
-    Adele "是的，我过去常去。我很受欢迎，我可以赚到所有的钱。"
+    Adele "是的，过去是。我很受欢迎，我可以赚到所有的钱。"
 
 # game/logic/events/adele.rpy:2578
 translate chinese Adele_5_label_from_gallery_a7dd15a3:
 
     # Adele "But not just my figure. Mind."
-    Adele "但不只是我的身材。脑海中。"
+    Adele "但不只是靠我的身材。靠脑子。"
 
 # game/logic/events/adele.rpy:2579
 translate chinese Adele_5_label_from_gallery_d1da3c18:
 
     # ch_Name "Mind is important. You've accomplished a lot."
-    ch_Name "心是很重要的。你已经取得了很大的成就。"
+    ch_Name "思维是很重要的。你已经取得了很大的成就。"
 
 # game/logic/events/adele.rpy:2580
 translate chinese Adele_5_label_from_gallery_c48f5a4d:
@@ -8986,7 +8986,7 @@ translate chinese Adele_5_label_from_gallery_ee22c2a5:
 translate chinese Adele_5_label_from_gallery_ffa2c909:
 
     # ch_Name "(That much alcohol kills any shyness.)"
-    ch_Name "（太多的酒精会让你羞于开口。）"
+    ch_Name "（那么多酒足以消除任何羞怯。）"
 
 # game/logic/events/adele.rpy:2599
 translate chinese Adele_5_label_from_gallery_54136682:
@@ -9058,7 +9058,7 @@ translate chinese Adele_5_label_from_gallery_0ae9bcd0_1:
 translate chinese Adele_5_label_from_gallery_6e04708d:
 
     # ch_Name "{i}(The other girls are no match for her skill!){/i}"
-    ch_Name "{i}（其他女孩的技巧根本不是她的对手！）{/i}"
+    ch_Name "{i}（其他女孩的在技巧上根本不是她的对手！）{/i}"
 
 # game/logic/events/adele.rpy:2621
 translate chinese Adele_5_label_from_gallery_9e8f52e6:
@@ -9070,13 +9070,13 @@ translate chinese Adele_5_label_from_gallery_9e8f52e6:
 translate chinese Adele_5_label_from_gallery_32f80e1c:
 
     # ch_Name "{i}(She does it like it's easy.){/i}"
-    ch_Name "{i}（她做得很简单。）{/i}"
+    ch_Name "{i}（她就像在做一件简单的事。）{/i}"
 
 # game/logic/events/adele.rpy:2623
 translate chinese Adele_5_label_from_gallery_057edcca:
 
     # ch_Name "{i}(And she knows exactly what poses to take to show off her virtues.){/i}"
-    ch_Name "{i}（她很清楚该用什么姿势来展示自己的美德。）{/i}"
+    ch_Name "{i}（她很清楚该用什么姿势来展示自己的优势。）{/i}"
 
 # game/logic/events/adele.rpy:2625
 translate chinese Adele_5_label_from_gallery_efd4c4d1:
@@ -9112,7 +9112,7 @@ translate chinese Adele_5_label_from_gallery_b4d5cabd:
 translate chinese Adele_5_label_from_gallery_3e8d44b2:
 
     # ch_Name "{i}(I can't take my eyes off her...){/i}"
-    ch_Name "{i}（她退出脱衣舞的那天，世界失去了很多。。。）{/i}"
+    ch_Name "{i}（我无法把目光从她身上移开。。。）{/i}"
 
 # game/logic/events/adele.rpy:2633
 translate chinese Adele_5_label_from_gallery_7287383d:
@@ -9124,7 +9124,7 @@ translate chinese Adele_5_label_from_gallery_7287383d:
 translate chinese Adele_5_label_from_gallery_38157963:
 
     # ch_Name "{i}(Isn't this the end? Is she going to...?){/i}"
-    ch_Name "{i}（这不是结束了吗？她打算。。。吗？）{/i}"
+    ch_Name "{i}（这不是结束了吗？她打算。。。？）{/i}"
 
 # game/logic/events/adele.rpy:2636
 translate chinese Adele_5_label_from_gallery_765197d7:
@@ -9136,7 +9136,7 @@ translate chinese Adele_5_label_from_gallery_765197d7:
 translate chinese Adele_5_label_from_gallery_dc94b7e2:
 
     # ch_Name "{i}(Did she really do it? Get naked? Right there?){/i}"
-    ch_Name "{i}（她真的这么做了吗？得到裸体吗？在这里吗？）{/i}"
+    ch_Name "{i}（她真的这么做了吗？裸体吗？在这里吗？）{/i}"
 
 # game/logic/events/adele.rpy:2639
 translate chinese Adele_5_label_from_gallery_7466f505:
@@ -9172,7 +9172,7 @@ translate chinese Adele_5_label_from_gallery_65cc15fa:
 translate chinese Adele_5_label_from_gallery_cefde44e:
 
     # ch_Name "{i}(All this... She does for me?){/i}"
-    ch_Name "{i}（这一切。。。她为我做了吗？）{/i}"
+    ch_Name "{i}（这一切。。。她是为了我才做的吗？）{/i}"
 
 # game/logic/events/adele.rpy:2647
 translate chinese Adele_5_label_from_gallery_c8859225:
@@ -9184,7 +9184,7 @@ translate chinese Adele_5_label_from_gallery_c8859225:
 translate chinese Adele_5_label_from_gallery_aab7b21f:
 
     # ch_Name "You're something!"
-    ch_Name "你的东西！"
+    ch_Name "你真了不起！"
 
 # game/logic/events/adele.rpy:2650
 translate chinese Adele_5_label_from_gallery_29fb7aa3:
@@ -9250,13 +9250,13 @@ translate chinese Adele_5_label_from_gallery_f6b6f4d5:
 translate chinese Adele_5_label_from_gallery_ab57f4fa:
 
     # ch_Name "I'm even a little shocked. I think I was speechless a few times looking at you."
-    ch_Name "我甚至有点震惊。我想有几次我无语的看着你。"
+    ch_Name "我甚至有点震惊。我有几次我在哪什么也讲不出来得的看着你。"
 
 # game/logic/events/adele.rpy:2669
 translate chinese Adele_5_label_from_gallery_d29e18ef:
 
     # Adele "Oh, come on, you're making me look bad."
-    Adele "得了吧，你让我很丢脸。"
+    Adele "得了吧，你让我看起来很糟糕。"
 
 # game/logic/events/adele.rpy:2670
 translate chinese Adele_5_label_from_gallery_65fbe6ff:
@@ -9322,13 +9322,13 @@ translate chinese Adele_5_label_from_gallery_55611147:
 translate chinese Adele_5_label_from_gallery_1fff42a7:
 
     # ch_Name "{i}(No one would have thought Adele owned this club.){/i}"
-    ch_Name "{i}（谁也不会想到这家俱乐部是阿黛勒开的。）{/i}"
+    ch_Name "{i}（谁也不会想到这家俱乐部是Adele开的。）{/i}"
 
 # game/logic/events/adele.rpy:2697
 translate chinese Adele_5_label_from_gallery_e7a1fd92:
 
     # ch_Name "{i}(And certainly not that she's so good on a pole.){/i}"
-    ch_Name "{i}（当然也不是她的钢管舞跳得那么好。）{/i}"
+    ch_Name "{i}（当然也不是因为她的钢管舞跳得那么好。）{/i}"
 
 # game/logic/events/adele.rpy:2699
 translate chinese Adele_5_label_from_gallery_f8569efd:
@@ -9358,7 +9358,7 @@ translate chinese strings:
 
     # game/logic/events/adele.rpy:23
     old "Ask Adele out"
-    new "问Adele了"
+    new "约Adele出去"
 
 # TODO: Translation updated at 2022-03-25 06:03
 
@@ -9372,7 +9372,7 @@ translate chinese Adele_5_label_from_gallery_d61aeecc:
 translate chinese Adele_6_label_f6d0bf83:
 
     # ch_Name "{i}(It seems Adele's shift is almost coming to an end.){/i}"
-    ch_Name "{i}（）{/i}"
+    ch_Name "{i}（Adele的轮班似乎即将结束。）{/i}"
 
 # game/logic/events/adele.rpy:2727
 translate chinese Adele_6_label_f4b9cdcd:
