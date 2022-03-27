@@ -20034,7 +20034,7 @@ translate chinese Audrey_3_label_80d0df38:
 # game/logic/events/audrey.rpy:383
 translate chinese Audrey_3_label_dc3a8757:
 
-    # Audrey "I mean, it just happened. Thats all you need to know."
+    # Audrey "I mean, it just happened. Thats all you need to know."
     Audrey "我的意思是，它刚刚发生。这就是你需要知道的一切。"
 
 # game/logic/events/audrey.rpy:683
