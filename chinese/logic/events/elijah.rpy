@@ -2498,53 +2498,53 @@ translate chinese strings:
 translate chinese Elijah_3_label_39_80971209:
 
     # Elijah "Yes.{w} A man who's open to new acquaintances."
-    Elijah ""
+    Elijah "是的。{w}。一个对新认识的人持开放态度的人。"
 
 # game/logic/events/elijah.rpy:433
 translate chinese Elijah_3_label_51_ef69e8db:
 
     # Elijah "How are you doing here, bro?"
-    Elijah ""
+    Elijah "你在这里过得怎么样，兄弟？"
 
 # game/logic/events/elijah.rpy:480
 translate chinese Elijah_4_label_a17b2a1e:
 
     # ch_Name "So, I'm going to participate in the Dueling club tonight."
-    ch_Name ""
+    ch_Name "所以，我今晚要参加决斗俱乐部的活动。"
 
 # game/logic/events/elijah.rpy:524
 translate chinese Elijah_4_label_84f5ef7f:
 
     # Elijah "Hey, take it easy. No, of course, it's not!"
-    Elijah ""
+    Elijah "嘿，别紧张。不，当然，不是的!"
 
 # game/logic/events/elijah.rpy:533
 translate chinese Elijah_4_label_28_8670c67f:
 
     # Elijah "You have to go to the Chompski Shop on the main square."
-    Elijah ""
+    Elijah "你必须去主广场上的Chompski Shop。"
 
 # game/logic/events/elijah.rpy:540
 translate chinese Elijah_4_label_28_863c8d74:
 
     # Elijah "Of course, it is, handsome. I told you it was a great job."
-    Elijah ""
+    Elijah "当然，是的，帅哥。我告诉过你这是个好工作。"
 
 # game/logic/events/elijah.rpy:587
 translate chinese Elijah_5_label_7ff34246:
 
     # ch_Name "{i}(Oh, yes! I should probably go get that nectar for Elijah. Almost forgot about it.){/i}"
-    ch_Name ""
+    ch_Name "{i}（哦，是的！我也许应该去为Elijah拿那瓶花蜜。差点忘了。）{/i}"
 
 # game/logic/events/elijah.rpy:731
 translate chinese Elijah_6_label_29e1dfd4:
 
     # Elijah "Let's take a walk and I'll tell you about the Dueling club."
-    Elijah ""
+    Elijah "我们出去走走，我告诉你决斗俱乐部的情况。"
 
 # game/logic/events/elijah.rpy:732
 translate chinese Elijah_6_label_57d809d1:
 
     # ch_Name "The Dueling club?"
-    ch_Name ""
+    ch_Name "决斗俱乐部？"
 
