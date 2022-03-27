@@ -1518,5 +1518,5 @@ translate chinese strings:
 
     # game/logic/events/jacob.rpy:15
     old "Ask about your origins"
-    new ""
+    new "询问你的出身"
 
