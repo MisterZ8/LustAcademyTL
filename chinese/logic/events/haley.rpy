@@ -11445,7 +11445,7 @@ translate chinese Haley_17_label_d47c68ae:
 # game/logic/events/haley.rpy:3234
 translate chinese Haley_17_label_842a1a78:
 
-    # Gordon "Hello! Come to work, hmm?"
+    # Gordon "Hello! Finally here to work, hmm?"
     Gordon "你好！来工作吧？"
 
 # game/logic/events/haley.rpy:3235
@@ -11457,7 +11457,7 @@ translate chinese Haley_17_label_687d6401:
 # game/logic/events/haley.rpy:3237
 translate chinese Haley_17_label_2b767165:
 
-    # Gordon "Well, what do you want then?"
+    # Gordon "Ghm... And what do you want then?"
     Gordon "那你想要什么？"
 
 # game/logic/events/haley.rpy:3238
@@ -11499,7 +11499,7 @@ translate chinese Haley_17_label_4459e8fd:
 # game/logic/events/haley.rpy:3245
 translate chinese Haley_17_label_8b75b03e:
 
-    # ch_Name "Okay, I get it."
+    # ch_Name "Uh, okay, I get it."
     ch_Name "好吧，我懂了。"
 
 # game/logic/events/haley.rpy:3247
@@ -11637,7 +11637,7 @@ translate chinese Haley_17_label_d32943c7:
 # game/logic/events/haley.rpy:3275
 translate chinese Haley_17_label_ecfebd8e:
 
-    # Willow "I will try."
+    # Willow "I will try to find everything for you."
     Willow "我将试一试。"
 
 # game/logic/events/haley.rpy:3276
@@ -12069,7 +12069,7 @@ translate chinese Haley_17_label_e65b7b7b:
 # game/logic/events/haley.rpy:3369
 translate chinese Haley_17_label_f1ad236f:
 
-    # Willow "Thanks for the carrot."
+    # Willow "And thanks for the carrot."
     Willow "谢谢你的胡萝卜。"
 
 # game/logic/events/haley.rpy:3370
@@ -12159,7 +12159,7 @@ translate chinese Haley_18_label_df1c22ff:
 # game/logic/events/haley.rpy:3402
 translate chinese Haley_18_label_960956ac:
 
-    # ch_Name "Haley?"
+    # ch_Name "Haley...?"
     ch_Name "Haley？"
 
 # game/logic/events/haley.rpy:3403
@@ -12303,7 +12303,7 @@ translate chinese Haley_18_label_078393ae:
 # game/logic/events/haley.rpy:3429
 translate chinese Haley_18_label_5044eb69:
 
-    # Haley "Picnic? Sounds awesome!"
+    # Haley "Picnic?{w} Sounds awesome!"
     Haley "野餐吗？听起来太棒了！"
 
 # game/logic/events/haley.rpy:3430
@@ -12495,7 +12495,7 @@ translate chinese Haley_19_label_ada6f190:
 # game/logic/events/haley.rpy:3491
 translate chinese Haley_19_label_640cb273:
 
-    # Haley "Well, I couldn't say... this is all so new."
+    # Haley "Well, I couldn't say...{w} this is all so new."
     Haley "嗯，我不能说。。。这一切都是全新的。"
 
 # game/logic/events/haley.rpy:3492
@@ -13505,13 +13505,13 @@ translate chinese Haley_16_label_679b8f74:
 # game/logic/events/haley.rpy:2637
 translate chinese Haley_16_label_8a1d0810:
 
-    # ch_Name "And let's call Haley. This concerns her too. "
+    # ch_Name "And let's call Haley, um? This concerns her too. "
     ch_Name "让我们给Haley打电话。这也与她有关。"
 
 # game/logic/events/haley.rpy:2638
 translate chinese Haley_16_label_ac738a57:
 
-    # Samantha "Sure. I never mind her company."
+    # Samantha "Sure, [Name]. I never mind her company."
     Samantha "当然，我从来不介意她的陪伴。"
 
 # game/logic/events/haley.rpy:2649
@@ -13955,7 +13955,7 @@ translate chinese Haley_19_label_from_gallery_9b07097f:
 # game/logic/events/haley.rpy:3542
 translate chinese Haley_19_label_from_gallery_938d4b5f:
 
-    # Haley "Take your time, he-he. I'm not going to spoil your surprise. "
+    # Haley "Take your time, he-he.{w} I'm not going to spoil your surprise. "
     Haley "慢慢来吧，哈-哈。我不打算破坏你的惊喜。"
 
 # game/logic/events/haley.rpy:3543
@@ -13979,7 +13979,7 @@ translate chinese Haley_19_label_from_gallery_3e354c07:
 # game/logic/events/haley.rpy:3547
 translate chinese Haley_19_label_from_gallery_6393b20a:
 
-    # ch_Name "Sorry, but I have missed delicate scent of your skin... It's a huge turn-on."
+    # ch_Name "Sorry, but I have missed delicate scent of your skin...{w} It's a huge turn-on."
     ch_Name "对不起，但我已经错过了你皮肤的细腻香味。。。那是一种巨大的兴奋。"
 
 # game/logic/events/haley.rpy:3550

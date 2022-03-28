@@ -2025,7 +2025,7 @@ translate russian Amelie_4_label_1813acfa:
 # game/logic/events/amelie.rpy:745
 translate russian Amelie_4_label_2a6de3fa:
 
-    # Amelie "It should be here."
+    # Amelie "Well, it should be here."
     Amelie "Это должно быть здесь."
 
 # game/logic/events/amelie.rpy:746
@@ -2061,7 +2061,7 @@ translate russian Amelie_4_label_a358fbfd:
 # game/logic/events/amelie.rpy:752
 translate russian Amelie_4_label_9192878e:
 
-    # Amelie "Here we are."
+    # Here we are.{w} Just great.
     Amelie "Мы на месте."
 
 # game/logic/events/amelie.rpy:754
@@ -2637,7 +2637,7 @@ translate russian Amelie_4_label_36d3f317:
 # game/logic/events/amelie.rpy:896
 translate russian Amelie_4_label_fbea9f7b:
 
-    # ch_Name "I'll come back later then."
+    # ch_Name "I'll come back later then, I promise."
     ch_Name "Я вернусь позже."
 
 # game/logic/events/amelie.rpy:904
@@ -3463,7 +3463,7 @@ translate russian Amelie_5_label_70e3a094:
 # game/logic/events/amelie.rpy:939
 translate russian Amelie_5_label_80392a9f:
 
-    # Amelie "I need to put them on the shelves in alphabetical order."
+    # Amelie "I need to put them on the shelves in alphabetical order. Can you..."
     Amelie ""
 
 # game/logic/events/amelie.rpy:940
@@ -3925,7 +3925,7 @@ translate russian Amelie_5_label_ab7be6e8:
 # game/logic/events/amelie.rpy:1048
 translate russian Amelie_5_label_a7cdd88c:
 
-    # Amelie "Anyway, you must be tired now. I think you better take a rest."
+    # Amelie "Anyway, you must be tired now. How about taking some rest?"
     Amelie ""
 
 # game/logic/events/amelie.rpy:1050
