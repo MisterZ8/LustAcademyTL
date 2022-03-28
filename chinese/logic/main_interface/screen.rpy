@@ -370,9 +370,9 @@ translate chinese strings:
 
     # game/logic/main_interface/screen.rpy:1492
     old "You have successfully completed all available routes. Talk to Samantha to go on vacation."
-    new ""
+    new "你已经成功完成了所有可用的路线。与Samantha交谈，去度假。"
 
     # game/logic/main_interface/screen.rpy:1536
     old "Skip time"
-    new ""
+    new "跳过时间"
 
