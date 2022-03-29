@@ -10259,7 +10259,7 @@ translate russian Lily_9_label_ab4a186b:
 # game/logic/events/lily.rpy:2915
 translate russian Lily_9_label_11056f22:
 
-    # ch_Name "Sounds just great!"
+    # ch_Name "Sounds just...{w} Pretty cool, yeah!"
     ch_Name ""
 
 # game/logic/events/lily.rpy:2916

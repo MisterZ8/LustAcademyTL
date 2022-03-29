@@ -7979,7 +7979,7 @@ translate chinese Naomi_7_label_91dec0e6:
 # game/logic/events/naomi.rpy:2270
 translate chinese Naomi_11_label_7559bb84:
 
-    # ch_Name "{i}(Only look how gorgeous Naomi is in the sunlight!){/i}"
+    # ch_Name "{i}(Look how gorgeous Naomi is in the sunlight!){/i}"
     ch_Name "{i}（只看Naomi在阳光下是多么的华丽!）{/i}"
 
 # game/logic/events/naomi.rpy:2271

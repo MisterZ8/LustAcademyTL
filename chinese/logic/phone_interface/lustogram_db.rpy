@@ -2279,8 +2279,8 @@ translate chinese strings:
     new "Adele：我想知道如果我没有它你会怎么说...🙃"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
-    old "你会成为我的女神吗？"
-    new ""
+    old "Will you be my muse?"
+    new "你会成为我的女神吗？"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Only look at these kitties! Which one would you choose?"
