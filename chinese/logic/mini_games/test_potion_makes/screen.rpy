@@ -94,3 +94,11 @@ translate chinese strings:
     old "Protects your magical sources from the creatures of the night."
     new "保护你的魔法资源不受暗夜生物的伤害。"
 
+# TODO: Translation updated at 2022-03-30 01:40
+
+translate chinese strings:
+
+    # game/logic/mini_games/test_potion_makes/screen.rpy:355
+    old "Learn this recipe by completing Audrey's quests."
+    new ""
+

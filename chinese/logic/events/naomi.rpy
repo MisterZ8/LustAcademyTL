@@ -8582,3 +8582,155 @@ translate chinese strings:
     old "7 Talk to Naomi"
     new "7 与Naomi交谈"
 
+# TODO: Translation updated at 2022-03-30 01:40
+
+# game/logic/events/naomi.rpy:2270
+translate chinese Naomi_11_label_96c94b02:
+
+    # ch_Name "{i}(Oh, wow. It's that late already?){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2271
+translate chinese Naomi_11_label_4ac7ad06:
+
+    # ch_Name "{i}(How did I manage to spend all day at the library?){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2272
+translate chinese Naomi_11_label_5c3c43c3:
+
+    # ch_Name "{i}(This is definitely some kind of magic Amelie used on me.){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2273
+translate chinese Naomi_11_label_d554c0e5:
+
+    # ch_Name "{i}(Or was it just that many books?){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2274
+translate chinese Naomi_11_label_afc0a9de:
+
+    # ch_Name "{i}(Anyway, I've missed all my classes.){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2275
+translate chinese Naomi_11_label_b1141625:
+
+    # ch_Name "{i}(Might as well spend some time with the girls.){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2276
+translate chinese Naomi_11_label_3f88f7b6:
+
+    # ch_Name "{i}(Luckily, Lily and Naomi are still here.){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2417
+translate chinese Naomi_11_label_2adfa268:
+
+    # ch_Name "{i}(I don't understand how she can hate spending time with her parents.){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2418
+translate chinese Naomi_11_label_9e5e7975:
+
+    # ch_Name "{i}(I'd give everything to talk to mine. Even once. I never even knew mine.){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2419
+translate chinese Naomi_11_label_a57250c3:
+
+    # ch_Name "{i}(I don't even know anything about them...){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2420
+translate chinese Naomi_11_label_ebd45dda:
+
+    # ch_Name "{i}(But Jacob does! Maybe it's time to visit him.){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2422
+translate chinese Naomi_11_label_aa8436dd:
+
+    # ch_Name "{i}(It's been enough time since the incident.){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2423
+translate chinese Naomi_11_label_76d44268:
+
+    # ch_Name "{i}(His memories should be fine by now.){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2424
+translate chinese Naomi_11_label_76375a20:
+
+    # ch_Name "{i}(And he sure owns me an explanation.){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2431
+translate chinese Naomi_11_label_340f7938:
+
+    # ch_Name "{i}(How strange to see Jacob standing there.){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2432
+translate chinese Naomi_11_label_ec58bce4:
+
+    # ch_Name "{i}(As if nothing had happened.){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2433
+translate chinese Naomi_11_label_36daa6e1:
+
+    # ch_Name "{i}(My palms are clenching into fists in anger...){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2434
+translate chinese Naomi_11_label_47422f48:
+
+    # ch_Name "{i}(I can't just talk to him. Can't just forget what he's done.){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2435
+translate chinese Naomi_11_label_78a73965:
+
+    # ch_Name "{i}(That was a stupid idea. I should just go...){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2437
+translate chinese Naomi_11_label_9ebb4d25:
+
+    # ch_Name "{i}(No... Wait.){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2438
+translate chinese Naomi_11_label_c5672a5b:
+
+    # ch_Name "{i}(Calm down, [Name]. You can do this.){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2439
+translate chinese Naomi_11_label_f2202ed8:
+
+    # ch_Name "{i}(I'd rather tell him to his face what I think of him...){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2440
+translate chinese Naomi_11_label_c6ea644e:
+
+    # ch_Name "{i}(But, that's not why I'm here.){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2441
+translate chinese Naomi_11_label_088084d5:
+
+    # ch_Name "{i}(Arthur said that now Jacob would tell me the truth about my parents.){/i}"
+    ch_Name ""
+
+# game/logic/events/naomi.rpy:2442
+translate chinese Naomi_11_label_ebd8ab27:
+
+    # ch_Name "{i}(And I won't rest until I know it.){/i}"
+    ch_Name ""
+

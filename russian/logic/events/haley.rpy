@@ -18461,3 +18461,329 @@ translate russian strings:
     old "Initiate sex"
     new ""
 
+# TODO: Translation updated at 2022-03-30 01:43
+
+# game/logic/events/haley.rpy:2638
+translate russian Haley_16_label_11be320e:
+
+    # ch_Name "And let's call Haley, um? This concerns her too. "
+    ch_Name ""
+
+# game/logic/events/haley.rpy:2639
+translate russian Haley_16_label_74d3a16d:
+
+    # Samantha "Sure, [Name]. I never mind her company."
+    Samantha ""
+
+# game/logic/events/haley.rpy:2736
+translate russian Haley_16_label_b1232b96:
+
+    # Samantha "We perform the ritual as soon as you get them, right?"
+    Samantha ""
+
+# game/logic/events/haley.rpy:2737
+translate russian Haley_16_label_4cff4398:
+
+    # Samantha "Wait..."
+    Samantha ""
+
+# game/logic/events/haley.rpy:2738
+translate russian Haley_16_label_091df0fc:
+
+    # Samantha "We also should wait for the full moon!"
+    Samantha ""
+
+# game/logic/events/haley.rpy:2740
+translate russian Haley_16_label_606a9a7f:
+
+    # Samantha "Anyway, keep me in the loop."
+    Samantha ""
+
+# game/logic/events/haley.rpy:2741
+translate russian Haley_16_label_b94289d0:
+
+    # Haley "Thank you, Sam."
+    Haley ""
+
+# game/logic/events/haley.rpy:2742
+translate russian Haley_16_label_5f2bb79a:
+
+    # Samantha "Oh, guys! So sorry I have to run..."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3242
+translate russian Haley_17_label_31b34493:
+
+    # Gordon "Hello! Finally here to work, hmm?"
+    Gordon ""
+
+# game/logic/events/haley.rpy:3245
+translate russian Haley_17_label_6609c3c6:
+
+    # Gordon "Ghm... And what do you want then?"
+    Gordon ""
+
+# game/logic/events/haley.rpy:3253
+translate russian Haley_17_label_0298b0a8:
+
+    # ch_Name "Uh, okay, I get it."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3283
+translate russian Haley_17_label_e1fa21e6:
+
+    # Willow "I will try to find everything for you."
+    Willow ""
+
+# game/logic/events/haley.rpy:3377
+translate russian Haley_17_label_871c71d8:
+
+    # Willow "And thanks for the carrot."
+    Willow ""
+
+# game/logic/events/haley.rpy:3379
+translate russian Haley_17_label_ae4c952d:
+
+    # ch_Name "I even feel kind of bad that I have to go...{w} There's a lot to be done today."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3412
+translate russian Haley_18_label_8837732a:
+
+    # ch_Name "Haley...?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3430
+translate russian Haley_18_label_c01d1b3b:
+
+    # Haley "N-no, actually."
+    Haley ""
+
+# game/logic/events/haley.rpy:3433
+translate russian Haley_18_label_f25e3bf8:
+
+    # Haley "Whoa, that'd be great!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3434
+translate russian Haley_18_label_bc4a88e4:
+
+    # Haley "And where are we going?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3435
+translate russian Haley_18_label_74780fc0:
+
+    # ch_Name "Let me think...{w} What about a picnic?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3438
+translate russian Haley_18_label_e1d49ec0:
+
+    # Haley "Picnic?{w} Sounds awesome!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3498
+translate russian Haley_19_label_2ab4023c:
+
+    # Haley "Well, I couldn't say...{w} this is all so new."
+    Haley ""
+
+# game/logic/events/haley.rpy:3542
+translate russian Haley_19_label_from_gallery_937e3d05:
+
+    # Haley "Take your time, he-he.{w} I'm not going to spoil your surprise. "
+    Haley ""
+
+# game/logic/events/haley.rpy:3547
+translate russian Haley_19_label_from_gallery_2c90a33e:
+
+    # ch_Name "Sorry, but I have missed delicate scent of your skin...{w} It's a huge turn-on."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3721
+translate russian Haley_20_label_9787957b:
+
+    # ch_Name "{i}(Wow, my first Yule...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3722
+translate russian Haley_20_label_6e8e03c0:
+
+    # ch_Name "{i}(It sure was unusual to feel happy around the Christmas holidays.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3723
+translate russian Haley_20_label_e8168d05:
+
+    # ch_Name "{i}(It felt nice to be with someone I care about...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3725
+translate russian Haley_20_label_9f9c6d7d:
+
+    # ch_Name "{i}(Samantha and her stupid childish love for snow.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3726
+translate russian Haley_20_label_35102262:
+
+    # ch_Name "{i}(It was so funny when she brought out that gigantic hat for a snowman.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3727
+translate russian Haley_20_label_676506fb:
+
+    # ch_Name "{i}(How come it never snows back at home?){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3728
+translate russian Haley_20_label_af3caa5f:
+
+    # ch_Name "{i}(With snow, it's so much better...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3730
+translate russian Haley_20_label_7bb043f3:
+
+    # ch_Name "{i}(And the presents!){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3731
+translate russian Haley_20_label_0b2279f8:
+
+    # ch_Name "{i}(That cake was delicious!){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3732
+translate russian Haley_20_label_0a56d312:
+
+    # ch_Name "{i}(Haley is so thoughtful!){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3733
+translate russian Haley_20_label_e61a07ee:
+
+    # ch_Name "{i}(It was nice to forget about all the problems and have time. that's for sure...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4746
+translate russian Haley_22_label_2bea8069_1:
+
+    # ch_Name "What are you going to do, Haley?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4747
+translate russian Haley_22_label_6d43c8b8_1:
+
+    # Haley "Well, I need to study as always. I missed the whole day."
+    Haley ""
+
+# game/logic/events/haley.rpy:4748
+translate russian Haley_22_label_97d2f422_1:
+
+    # ch_Name "I just thought, you know..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4750
+translate russian Haley_22_label_836a0428_1:
+
+    # ch_Name "Maybe you want to talk about what happened between us yesterday..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4751
+translate russian Haley_22_label_41c72874_1:
+
+    # ch_Name "We didn't get much time alone for this."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4752
+translate russian Haley_22_label_0629120f_1:
+
+    # Haley "I thought about that... but not right now, okay?"
+    Haley ""
+
+# game/logic/events/haley.rpy:4753
+translate russian Haley_22_label_8b9f8e8f_1:
+
+    # Haley "Sorry, I don't want to be late for the potion class."
+    Haley ""
+
+# game/logic/events/haley.rpy:4755
+translate russian Haley_22_label_0ec7921a_1:
+
+    # ch_Name "Sure. You can always call me..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4756
+translate russian Haley_22_label_6bb89e5f_1:
+
+    # ch_Name "...at all times of day and night."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4757
+translate russian Haley_22_label_94712973_1:
+
+    # Haley "He-he, alright. See you later, [Name]."
+    Haley ""
+
+# game/logic/events/haley.rpy:4764
+translate russian Haley_22_label_2bea8069_2:
+
+    # ch_Name "What are you going to do, Haley?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4765
+translate russian Haley_22_label_eb50f5b7:
+
+    # Haley "It's Saturday, you, silly."
+    Haley ""
+
+# game/logic/events/haley.rpy:4766
+translate russian Haley_22_label_4839e134:
+
+    # Haley "We need to get to the meeting in the Main hall."
+    Haley ""
+
+# game/logic/events/haley.rpy:4768
+translate russian Haley_22_label_3ad0fc53:
+
+    # ch_Name "Can't it wait?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4769
+translate russian Haley_22_label_2566207f:
+
+    # ch_Name "I don't want to end our adventure like that."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4770
+translate russian Haley_22_label_c0769511:
+
+    # Haley "Me too."
+    Haley ""
+
+# game/logic/events/haley.rpy:4771
+translate russian Haley_22_label_2792db76:
+
+    # Haley "But we have to go. What if we win and miss our boat 'cause of staying here?"
+    Haley ""
+
+# game/logic/events/haley.rpy:4773
+translate russian Haley_22_label_9e3aad72:
+
+    # Haley "We should go. Like, right now!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4774
+translate russian Haley_22_label_33991f84:
+
+    # ch_Name "Okay-okay..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4775
+translate russian Haley_22_label_5ba347aa:
+
+    # ch_Name "{i}(Gosh, this week is full of meetings. I'm getting tired of them.){/i}"
+    ch_Name ""
+

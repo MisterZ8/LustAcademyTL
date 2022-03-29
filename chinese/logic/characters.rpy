@@ -210,3 +210,19 @@ translate chinese strings:
     old "Ezra"
     new "Ezra"
 
+# TODO: Translation updated at 2022-03-30 01:40
+
+translate chinese strings:
+
+    # game/logic/characters.rpy:53
+    old "Penny"
+    new ""
+
+    # game/logic/characters.rpy:54
+    old "Minotaur"
+    new ""
+
+    # game/logic/characters.rpy:75
+    old "Strange girl"
+    new ""
+

@@ -3014,3 +3014,11 @@ translate chinese strings:
     old "Seems that you have well-trained fingers! I'm only interested in what more can they do to bring satisfaction..."
     new "看来你的手指训练有素！我只对他们还能做些什么来带来满足感感兴趣..."
 
+# TODO: Translation updated at 2022-03-30 01:40
+
+translate chinese strings:
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Will you be my muse?"
+    new ""
+

@@ -2354,3 +2354,179 @@ translate chinese strings:
     old "Use the Character Info menu to complete all of the routes available in the current release."
     new "使用角色信息菜单来完成当前版本中的所有路线。"
 
+# TODO: Translation updated at 2022-03-30 01:40
+
+translate chinese strings:
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Adele is an energetic and entrepreneurial magician. After arriving in Dale penniless, she made her money dancing at a strip club, bought it out, and is now the sole owner of Lady Luck. Adele enjoys authority with her co-workers because she always  treats everyone with respect. She likes to dress flashy and takes pride in her gorgeous body."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Friendly and sweet elf Ahchi owns the most fabulous coffee shop in Dale. He is an absolute wizard of his craft and can create an indescribable palette of tastes from any ingredients. And you can always chat with him and discuss anything."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Amelie has never had an outstanding talent for magic, but she has been fascinated by the wizarding world's history since childhood. She loves books and smart people more than anything else in the world. After graduating from Cordale, she took a job as a local librarian to be able to study the rarest magical writings and folios in the world."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Cordale is home to many magical creatures. Angel statues are one of the most entertaining. These creatures can move at great speed, but only if no one looks at them. They pretend to be statues in one of the academy's gardens and scare the first-year students."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Arthur Doorman the Fourth is a hereditary wizard from one of the oldest magical families in the world. He took the headmaster position in Cordale at the age of 42 and made the Academy one of the best in the world. Like his ancestors, he is noble and responsible in his job of guiding young wizards on the path of virtue."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Olivia and Don's youngest daughter, Ashley, is a dedicated and talented gymnast. Her room is crammed with all kinds of competition trophies, but it's never enough for Don and he puts a terrible pressure on her to make sure Ashley never lowers the bar and continues to train hard."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Audrey is a bitchy sophomore from Leonheart House and Samantha's best friend. She's a mysterious girl that's probably not even human. Audrey and Samantha have a long history together and it's seems like despite her spiky character she's always nice and loyal to her friend."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Newly enrolled at the academy, Carter is a well-mannered and quiet fellow with an unusually high talent for magic. He refused to enter the academy for many years to take care of a sick matter, but when Arthur healed her, the grateful Carter gladly agreed to study and went to Cordale."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Queen of the House of Adderin and Samantha's arch-rival, Dakota, is a true embodiment of her house's values. She is used to being the first in everything and is ready to go over the heads for the sake of success. Even the teachers are afraid of her."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "From an early age Diego hung around with all sorts of scum and quickly made a name for himself and a pretty good fortune on criminal affairs. Everyone in Dale knows him as one of the most dangerous and reckless thugs. He was permanently banned from the Lady Luck Club for stalking Adele."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Don is Samantha and Ashley's strict father, who had to work tirelessly to feed his family and me as well. He's always been a jerk, and he's become even more arrogant and demanding of his family since he got to the top job at the car dealership."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Heir to a hereditary family of wizards, headman of Leonheart, and Cordale's chief smuggler, Elijah is the kind of man who loves life and wants to take everything from it. He often lacks responsibility, but he has a good heart and will always come to the aid of his friends."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Ezra Bloom, Elijah's older brother who went missing years ago. It turned out that he was trying to escape with his lover Hans from his father's wrath, but everything went terribly wrong: Hans died, and Ezra was stranded on a desert island for eight years until Haley and I rescued him."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Frida is one of four students of the legendary Melissa Owlsight. Arriving with her from Europe, she helped to found Cordale Academy and established the house of Crowhive. Their top priorities have always been cold reasoning and a desire to accumulate and expand their knowledge of the magical world."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "This year, Gabriella, a lively and cheerful latina, enrolled at Cordale in the Martenden house. She is interested in martial magic and is a regular at the Dueling club. Among other students, Gabi has a reputation of a dangerous and ruthless rival, though she looks like she could hurt a fly."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "An ugly creature that terrified anyone who dared to walk the streets of Dale at night for a long time. Barely able to speak but requests to be called Harvey. He is said to be somehow related to Sabrina because he constantly calls out her name and preys on girls who look like her."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "A cunning and practical dwarf who owns a store in downtown Dale. He's not a bad guy despite his sullen appearance. He raises his daughter, half-dwarf and half-fairy Willow, alone and takes great pride in her. He loves fish pies and is always ready to hire anyone as a fisherman."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "A bright and determined freshman at Crowhive House, Grace does not possess outstanding talents, but she more than makes up for it in hard work. Sometimes it seems she only has fun when she studies. Grace dreams of excelling in the field of potions and inventing her own potion recipes."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Haley had dreamed of being a sorceress since childhood, even though she was born into a family of ordinary people. Her dream came true when she received a letter from Cordale, and now she's living a dream. She loves reading and learning new things, can't resist riddles, and is always ready to participate in any adventure."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Many considered Jacob Frollo one of the most promising mages of his generation. He is a renowned master of defensive spells and has always dreamed of inventing an ultimatum protective magic. He took a job at Cordale to find like-minded people and train them in his craft."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Jaina is one of four students of the legendary Melissa Owlsight. Arriving with her from Europe, she helped to found Cordale Academy and established the house of Martenden. Their top priorities have always been hard work and good intentions."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Lovely Jill loves pranks and jokes. She and her twin sister Faith inherited Whistley's Spa massage parlor in Dale from their parents. They have a rare talent for healing magic, and their gift has made their salon one of the most popular in the region. "
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Joshi, a young student of Crowhive House, has a unique talent for finding problems. He's no stranger to illegal substances, loves to party and talk, lives for the day, and doesn't think much about his studies or the future. He is easily one of the most hated students among teachers."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Katrina is one of four students of the legendary Melissa Owlsight. Arriving with her from Europe, she helped to found Cordale Academy and established the house of Adderin. Their top priorities have always been pure blood and earning success in any way possible."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Leona is one of four students of the legendary Melissa Owlsight. Arriving with her from Europe, she helped to found Cordale Academy and established the house of Leonheart. Their top priorities have always been сourage and honesty in all deeds."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "The gentle and slightly naive girl Lily, a young student of the House of Leonheart, is, in fact, a descendant of Leona Leonheart herself. Her parents are stringent and require Lily to succeed in everything in order not to shame the legacy of her great ancestors."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Lucy is a young, friendly, and somewhat kinky dancer from the Lady Luck Club. She came to Dale from Europe in search of a better life. Lucy respects Adele and her co-workers but still dreams of leaving her stripper career one day to pursue her dreams and fulfill her ambitions."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Mina is a young and shy receptionist at the Dale-ly Apartments. She has a hard time connecting with her peers, so she communicates with the hotel's residents most of the time. Mina works to save up for a trip worldwide and is willing to do whatever it takes to get a promotion."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "The hard-working businesswoman, Molly, is Arthur's niece. Instead of developing her magical talents, she decided to open her own cafe in Cordale and make money for her chain of restaurants. Arthur disapproves of his niece's choice but has no way of influencing it."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Freshman Adderin Naomi wants to seem like a cold-hearted bitch to everyone, but she's actually a pretty sweet and vulnerable girl. Her parents are respected and influential mages who expect their daughter to be able to carry on the family business with dignity."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Olivia is the mother of Samantha and Ashley and the wife of Don. Her best friend, my mom, died in childbirth, and she was forced to raise me with her children. She is unhappy in her marriage and drowns her sorrows in wine and expensive shopping."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "The young astral sorceress Penny is trained by the greatest astral magician Salazar Hudson and travels in search of rare artifacts on his instructions. On one of these trips, she got lost in the astral plane and almost lost her body, but everything turned out well."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Lambert"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Half-orc Romulus spent his entire life in Dale's criminal circles but got tired of constant run-ins with the police and decided to settle down. He got a job as a bouncer at Lady Luck nightclub and tries to lead an honest life, though he still can't deny himself the pleasure of extorting bribes."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Sabrina is the youngest of Cordale's teachers and a true fan of her craft. She has loved mixing and experimenting with potions since she was young, and being a teacher allows her to do her thing and have access to the rarest of magical ingredients."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Sadira, daughter of the eastern sultan, fled from an abusive father who did not allow her to enjoy life and her femininity. She needs no money and takes a job as a dancer at Lady Luck to enjoy the attention of men and satisfy her sexual needs. "
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Olivia's oldest daughter, Samantha, has always been kind and sweet to me. She is a sophomore from Leonheart's house at Cordale. Samantha is a very talented wizard and the pride of the whole academy. She has a great future in the magical world and dreams of becoming the champion of the most prestigious wizarding tournament."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "The mysterious Vanessa works at Lady Luck as a bartender. Unlike many other vampires, she is not bloodthirsty at all and leads a civilized life, eating only to survive. She has an obvious talent for making cocktails, and she's also into DJing. "
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Victoria, a strict but fair teacher of battle magic. She loves teaching prominent students and hates slackers. Victoria has won the Teacher of the Year awards many times. Her students and other teachers respect Victoria for her talents and noble character."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Playful and cheerful Willow is Gordon's daughter and his assistant in the Chompski shop. Thanks to her fairy talents, she is able to travel between worlds and find rare ingredients to sell. This has doubled the shop's profits and made her father very proud."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:3
+    old "Although there are many magical creatures in the wizard world that ordinary people cannot even imagine, some things seem to be fiction and legends even among sorcerers. Most magicians believe that Mushroom people are just a myth, but one of them was seen in the forest near Cordale."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:326
+    old "{b}Minotaurs' Story{/b}"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:1841
+    old "Victoria told us that although the ghosts living in the Academy can be frightening in appearance, they are absolutely harmless thanks to the protective barrier imposed by the founders on Cordale. I wish I could see a ghost. Joshi said that one was heard at night in the Main hall. Should I check it out?"
+    new ""
+

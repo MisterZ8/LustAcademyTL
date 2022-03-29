@@ -3982,3 +3982,707 @@ translate chinese strings:
     old "Offer a shoulder massage"
     new "提供肩部按摩"
 
+# TODO: Translation updated at 2022-03-30 01:40
+
+# game/logic/events/outro.rpy:147
+translate chinese Outro_2_label_from_nv_8c4d3e11:
+
+    # ch_Name "Let me think..."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:148
+translate chinese Outro_2_label_from_nv_0d0119af:
+
+    # ch_Name "Yeah, I'm ready."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:149
+translate chinese Outro_2_label_from_nv_f55a625f:
+
+    # Samantha "Great!"
+    Samantha ""
+
+# game/logic/events/outro.rpy:150
+translate chinese Outro_2_label_from_nv_a2a915d7:
+
+    # Samantha "Wait five minutes for me, I forgot to pack something."
+    Samantha ""
+
+# game/logic/events/outro.rpy:154
+translate chinese Outro_2_label_from_nv_14f0eb85:
+
+    # ch_Name "Hmm, come to think of it..."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:155
+translate chinese Outro_2_label_from_nv_de0f75bf:
+
+    # ch_Name "I still have a few things to do before I leave."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:156
+translate chinese Outro_2_label_from_nv_c7947006:
+
+    # ch_Name "I don't want to put them off for weeks."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:157
+translate chinese Outro_2_label_from_nv_feed3f85:
+
+    # ch_Name "Is it okay if I come back later?"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:159
+translate chinese Outro_2_label_from_nv_b5e617ec:
+
+    # Samantha "No problem."
+    Samantha ""
+
+# game/logic/events/outro.rpy:160
+translate chinese Outro_2_label_from_nv_b08431c4:
+
+    # ch_Name "Are you sure we won't be late for this?"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:161
+translate chinese Outro_2_label_from_nv_685d7962:
+
+    # Samantha "Don't worry, there are a lot of trains leaving these days."
+    Samantha ""
+
+# game/logic/events/outro.rpy:162
+translate chinese Outro_2_label_from_nv_6f21930e:
+
+    # Samantha "So just come see me when you're ready."
+    Samantha ""
+
+# game/logic/events/outro.rpy:163
+translate chinese Outro_2_label_from_nv_5082f007:
+
+    # ch_Name "Okay, it's a deal."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:167
+translate chinese Outro_2_label_from_nv_b0df0345:
+
+    # ch_Name "Hey, so..."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:172
+translate chinese Outro_2_label_from_nv_c9d4dc2e:
+
+    # ch_Name "{i}(Okay, I think we're done now.){/i}"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:173
+translate chinese Outro_2_label_from_nv_eba9f57a:
+
+    # ch_Name "Yeah, I'm ready to go."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:174
+translate chinese Outro_2_label_from_nv_8cc60f22:
+
+    # Samantha "Cool!"
+    Samantha ""
+
+# game/logic/events/outro.rpy:175
+translate chinese Outro_2_label_from_nv_a2a915d7_1:
+
+    # Samantha "Wait five minutes for me, I forgot to pack something."
+    Samantha ""
+
+# game/logic/events/outro.rpy:178
+translate chinese Outro_2_label_from_nv_b6a4adf5:
+
+    # ch_Name "I just remembered something. It's not time to leave yet."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:179
+translate chinese Outro_2_label_from_nv_88e9af80:
+
+    # Samantha "Okay."
+    Samantha ""
+
+# game/logic/events/outro.rpy:183
+translate chinese Outro_2_label_from_nv_5574ad18:
+
+    # ch_Name "Wait, you said you were ready..."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:184
+translate chinese Outro_2_label_from_nv_ae63de26:
+
+    # Samantha "I was ready, but then I remembered I had a couple of comfy bras..."
+    Samantha ""
+
+# game/logic/events/outro.rpy:185
+translate chinese Outro_2_label_from_nv_b510ad9f:
+
+    # ch_Name "But..."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:187
+translate chinese Outro_2_label_from_nv_845b4e9d:
+
+    # Samantha "You really want details, huh? Wait right here."
+    Samantha ""
+
+# game/logic/events/outro.rpy:188
+translate chinese Outro_2_label_from_nv_cb98e895:
+
+    # ch_Name "Okay."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:189
+translate chinese Outro_2_label_from_nv_6b9ec945:
+
+    # ch_Name "You have five minutes..."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:197
+translate chinese Outro_2_label_from_nv_3eb6309a:
+
+    # ch_Name "{i}(This reminds me of five hours later...){/i}"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:198
+translate chinese Outro_2_label_from_nv_936bc2bb:
+
+    # ch_Name "{i}(Does it really take that long to pack a pair of bras?){/i}"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:200
+translate chinese Outro_2_label_from_nv_58d863b9:
+
+    # ch_Name "Where the hell is she?"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:201
+translate chinese Outro_2_label_from_nv_027b1c56:
+
+    # ch_Name "..."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:202
+translate chinese Outro_2_label_from_nv_9ca2be9e:
+
+    # ch_Name "I'm about to climb the wall out of boredom."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:204
+translate chinese Outro_2_label_from_nv_50a451c2:
+
+    # ch_Name "{i}(Oh, here she comes...){/i}"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:205
+translate chinese Outro_2_label_from_nv_4e2eddb3:
+
+    # ch_Name "{i}(Finally!){/i}"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:206
+translate chinese Outro_2_label_from_nv_75c8e67d:
+
+    # ch_Name "Samantha?"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:208
+translate chinese Outro_2_label_from_nv_f38d9d16:
+
+    # ch_Name "Are you really still alive? I thought you were buried under a mountain of bras..."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:209
+translate chinese Outro_2_label_from_nv_9247d604:
+
+    # Samantha "I knew you missed me."
+    Samantha ""
+
+# game/logic/events/outro.rpy:210
+translate chinese Outro_2_label_from_nv_027b1c56_1:
+
+    # ch_Name "..."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:212
+translate chinese Outro_2_label_from_nv_91c54b77:
+
+    # Samantha "Okay, well, now I'm ready."
+    Samantha ""
+
+# game/logic/events/outro.rpy:213
+translate chinese Outro_2_label_from_nv_533b51af:
+
+    # ch_Name "{i}(I wish you weren't ready...){/i}"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:214
+translate chinese Outro_2_label_from_nv_dfb489b8:
+
+    # Samantha "Are you ready?"
+    Samantha ""
+
+# game/logic/events/outro.rpy:216
+translate chinese Outro_2_label_from_nv_b01e3a1b:
+
+    # ch_Name "Are you?"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:217
+translate chinese Outro_2_label_from_nv_5c0462b2:
+
+    # ch_Name "I've been waiting here for hours."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:218
+translate chinese Outro_2_label_from_nv_1b2758e2:
+
+    # ch_Name "What do you think, is this normal?"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:220
+translate chinese Outro_2_label_from_nv_7de5c485:
+
+    # Samantha "Oh, you look grumpy."
+    Samantha ""
+
+# game/logic/events/outro.rpy:221
+translate chinese Outro_2_label_from_nv_47eb16fc:
+
+    # Samantha "I'm so sorry I took so long."
+    Samantha ""
+
+# game/logic/events/outro.rpy:222
+translate chinese Outro_2_label_from_nv_af27f4eb:
+
+    # Samantha "I couldn't decide what to get..."
+    Samantha ""
+
+# game/logic/events/outro.rpy:223
+translate chinese Outro_2_label_from_nv_80fa8cbd:
+
+    # Samantha "It's a hard fate for a woman."
+    Samantha ""
+
+# game/logic/events/outro.rpy:225
+translate chinese Outro_2_label_from_nv_53b00b3b:
+
+    # ch_Name "Mm-hmm..."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:226
+translate chinese Outro_2_label_from_nv_358a44d8:
+
+    # ch_Name "{i}(Her suitcase looks pretty heavy. Although it's on wheels...){/i}"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:227
+translate chinese Outro_2_label_from_nv_fdd3d09b:
+
+    # ch_Name "{i}(But maybe I should help take it to the train station?){/i}"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:231
+translate chinese Outro_2_label_from_nv_b4aca4ba:
+
+    # ch_Name "{i}(On wheels or not, that's my duty as a gentleman.){/i}"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:233
+translate chinese Outro_2_label_from_nv_e98c0e30:
+
+    # ch_Name "Allow me."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:234
+translate chinese Outro_2_label_from_nv_77eaf3ee:
+
+    # Samantha "Oh, that's so sweet. Thank you!"
+    Samantha ""
+
+# game/logic/events/outro.rpy:235
+translate chinese Outro_2_label_from_nv_0f0997e8:
+
+    # Samantha "Since when are you so polite?"
+    Samantha ""
+
+# game/logic/events/outro.rpy:237
+translate chinese Outro_2_label_from_nv_8acc403c:
+
+    # ch_Name "You could reread the gentleman's bible three times in the time it takes you to get ready."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:238
+translate chinese Outro_2_label_from_nv_9c581af2:
+
+    # Samantha "Ha-ha-ha."
+    Samantha ""
+
+# game/logic/events/outro.rpy:239
+translate chinese Outro_2_label_from_nv_9af4f524:
+
+    # Samantha "You're such a joker!"
+    Samantha ""
+
+# game/logic/events/outro.rpy:240
+translate chinese Outro_2_label_from_nv_82d47414:
+
+    # Samantha "Good thing I have my headphones with me."
+    Samantha ""
+
+# game/logic/events/outro.rpy:243
+translate chinese Outro_2_label_from_nv_4bf68cb1:
+
+    # ch_Name "{i}(Come on, she won't strain herself.){/i}"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:244
+translate chinese Outro_2_label_from_nv_406ed85e:
+
+    # ch_Name "{i}(I've been waiting for her all this time.){/i}"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:246
+translate chinese Outro_2_label_from_nv_ab83da16:
+
+    # Samantha "Cheer up, [Name]."
+    Samantha ""
+
+# game/logic/events/outro.rpy:247
+translate chinese Outro_2_label_from_nv_a6aea1fd:
+
+    # Samantha "We're going on a trip!"
+    Samantha ""
+
+# game/logic/events/outro.rpy:248
+translate chinese Outro_2_label_from_nv_5ffc5b5b:
+
+    # ch_Name "If you say so."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:249
+translate chinese Outro_2_label_from_nv_8eb2398f:
+
+    # Samantha "I already have a feeling it's going to be interesting!"
+    Samantha ""
+
+# game/logic/events/outro.rpy:258
+translate chinese Outro_2_label_from_nv_0e88443b:
+
+    # ch_Name "{i}(There aren't that many trains running, as Samantha said.){/i}"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:259
+translate chinese Outro_2_label_from_nv_eff2a3d3:
+
+    # ch_Name "{i}(We've been here for ten minutes...){/i}"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:260
+translate chinese Outro_2_label_from_nv_25933c1e:
+
+    # ch_Name "{i}(Where is it?){/i}"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:262
+translate chinese Outro_2_label_from_nv_6420690b:
+
+    # ch_Name "Are you sure it's coming tonight?"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:263
+translate chinese Outro_2_label_from_nv_3ff8f101:
+
+    # Samantha "Oh... For the fifth time..."
+    Samantha ""
+
+# game/logic/events/outro.rpy:264
+translate chinese Outro_2_label_from_nv_54d50379:
+
+    # Samantha "Yes, I'm sure!"
+    Samantha ""
+
+# game/logic/events/outro.rpy:265
+translate chinese Outro_2_label_from_nv_8d33249e:
+
+    # ch_Name "Okay, um..."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:267
+translate chinese Outro_2_label_from_nv_272ecaa6:
+
+    # ch_Name "I'm sorry I don't have your skill set to spend hours on Lustagram."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:268
+translate chinese Outro_2_label_from_nv_358e436d:
+
+    # ch_Name "I'm bored."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:269
+translate chinese Outro_2_label_from_nv_2d56ae0b:
+
+    # ch_Name "VERY BORED."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:270
+translate chinese Outro_2_label_from_nv_3c3b3570:
+
+    # ch_Name "How can you do that?"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:272
+translate chinese Outro_2_label_from_nv_4d2a2ef7:
+
+    # Samantha "Um... Like you said, flipping through the Lustagram."
+    Samantha ""
+
+# game/logic/events/outro.rpy:273
+translate chinese Outro_2_label_from_nv_57f86421:
+
+    # Samantha "Did you get banned there?"
+    Samantha ""
+
+# game/logic/events/outro.rpy:274
+translate chinese Outro_2_label_from_nv_2078e322:
+
+    # ch_Name "No. I'm just not in the mood to be on the phone..."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:275
+translate chinese Outro_2_label_from_nv_74f26723:
+
+    # ch_Name "Something to do..."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:277
+translate chinese Outro_2_label_from_nv_072dc354:
+
+    # Samantha "Have you thought about going to talk to someone you know?"
+    Samantha ""
+
+# game/logic/events/outro.rpy:278
+translate chinese Outro_2_label_from_nv_cf6a3604:
+
+    # Samantha "It'll kill time before the train arrives."
+    Samantha ""
+
+# game/logic/events/outro.rpy:279
+translate chinese Outro_2_label_from_nv_f71c94a9:
+
+    # ch_Name "That's not a bad idea."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:280
+translate chinese Outro_2_label_from_nv_bcf04578:
+
+    # ch_Name "I always said you were a genius."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:281
+translate chinese Outro_2_label_from_nv_fa5999b6:
+
+    # ch_Name "But what if the train comes while I'm out walking?"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:283
+translate chinese Outro_2_label_from_nv_6ded627d:
+
+    # Samantha "What's the phone for?"
+    Samantha ""
+
+# game/logic/events/outro.rpy:284
+translate chinese Outro_2_label_from_nv_5ca11265:
+
+    # Samantha "I'll call you if the train comes while you're out walking."
+    Samantha ""
+
+# game/logic/events/outro.rpy:285
+translate chinese Outro_2_label_from_nv_8a531a5d:
+
+    # ch_Name "That's great."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:287
+translate chinese Outro_2_label_from_nv_f1a761d6:
+
+    # ch_Name "Thanks a lot, Sam!"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:288
+translate chinese Outro_2_label_from_nv_a5ef59b2:
+
+    # ch_Name "You're golden!"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:289
+translate chinese Outro_2_label_from_nv_6afaec83:
+
+    # ch_Name "{i}(Hmm, I don't have much time.){/i}"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:290
+translate chinese Outro_2_label_from_nv_237f00c6:
+
+    # ch_Name "{i}(I'll probably only have time to talk to one person.){/i}"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:291
+translate chinese Outro_2_label_from_nv_c8ad1c5e:
+
+    # ch_Name "{i}(Who will it be?){/i}"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:1075
+translate chinese Outro_VN_label_b4c8c248:
+
+    # NoName "Ring-ring..."
+    NoName ""
+
+# game/logic/events/outro.rpy:1077
+translate chinese Outro_VN_label_d007b8f0:
+
+    # ch_Name "Hello?"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:1078
+translate chinese Outro_VN_label_2b891666:
+
+    # Samantha "[Name], hi. It's Sam!"
+    Samantha ""
+
+# game/logic/events/outro.rpy:1079
+translate chinese Outro_VN_label_9446a3f9:
+
+    # ch_Name "Hey to you too."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:1081
+translate chinese Outro_VN_label_311e0033:
+
+    # ch_Name "What's up?"
+    ch_Name ""
+
+# game/logic/events/outro.rpy:1082
+translate chinese Outro_VN_label_0c47a0ab:
+
+    # Samantha "I was going to ask if you remember about our trip home for the holidays."
+    Samantha ""
+
+# game/logic/events/outro.rpy:1083
+translate chinese Outro_VN_label_6a401999:
+
+    # ch_Name "Well, sure."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:1084
+translate chinese Outro_VN_label_aea989aa:
+
+    # Samantha "Great! I've got everything ready and waiting for you."
+    Samantha ""
+
+# game/logic/events/outro.rpy:1085
+translate chinese Outro_VN_label_406f2e9d:
+
+    # Samantha "When you're ready - come to the Living room. I'll be waiting for you."
+    Samantha ""
+
+# game/logic/events/outro.rpy:1087
+translate chinese Outro_VN_label_72efb7d6:
+
+    # ch_Name "Alright, I've understood."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:1088
+translate chinese Outro_VN_label_19790c99:
+
+    # ch_Name "I need some time for my morning routine."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:1089
+translate chinese Outro_VN_label_5dd37fe9:
+
+    # ch_Name "I'll get down as soon as I can."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:1090
+translate chinese Outro_VN_label_4ff58fbf:
+
+    # Samantha "Sure, no problem."
+    Samantha ""
+
+# game/logic/events/outro.rpy:1091
+translate chinese Outro_VN_label_43e58b96:
+
+    # Samantha "See you soon."
+    Samantha ""
+
+# game/logic/events/outro.rpy:1092
+translate chinese Outro_VN_label_c6aa2781:
+
+    # ch_Name "Yeah."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:1093
+translate chinese Outro_VN_label_15418d6e:
+
+    # ch_Name "Bye."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:1100
+translate chinese Outro_VN_label_bcbe01f7:
+
+    # Samantha "Hi again! Are you packed yet?"
+    Samantha ""
+
+# game/logic/events/outro.rpy:1101
+translate chinese Outro_VN_label_6096080e:
+
+    # ch_Name "Yeah, I think I'm all packed."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:1102
+translate chinese Outro_VN_label_fcf7a5d4:
+
+    # Samantha "That's great."
+    Samantha ""
+
+# game/logic/events/outro.rpy:1104
+translate chinese Outro_VN_label_43b683fb:
+
+    # Samantha "You know, [Name], I'm so glad we're going together."
+    Samantha ""
+
+# game/logic/events/outro.rpy:1105
+translate chinese Outro_VN_label_a82cc599:
+
+    # Samantha "It was really hard and uncomfortable lying to my whole family about going to school."
+    Samantha ""
+
+# game/logic/events/outro.rpy:1106
+translate chinese Outro_VN_label_e596199f:
+
+    # Samantha "I'm just glad to have someone to share the burden with."
+    Samantha ""
+
+# game/logic/events/outro.rpy:1107
+translate chinese Outro_VN_label_59702830:
+
+    # ch_Name "Always happy to come to the rescue. I can imagine how hard it must have been for you."
+    ch_Name ""
+
+# game/logic/events/outro.rpy:1109
+translate chinese Outro_VN_label_67eabd92:
+
+    # Samantha "Thank you. (Chuckles)"
+    Samantha ""
+
+# game/logic/events/outro.rpy:1110
+translate chinese Outro_VN_label_b5e2f2eb:
+
+    # Samantha "So, are you ready?"
+    Samantha ""
+

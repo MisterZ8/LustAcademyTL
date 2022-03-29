@@ -94,3 +94,11 @@ translate russian strings:
     old "Protects your magical sources from the creatures of the night."
     new ""
 
+# TODO: Translation updated at 2022-03-30 01:43
+
+translate russian strings:
+
+    # game/logic/mini_games/test_potion_makes/screen.rpy:355
+    old "Learn this recipe by completing Audrey's quests."
+    new ""
+

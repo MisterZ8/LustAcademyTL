@@ -11011,3 +11011,479 @@ translate chinese strings:
     old "6 Talk to Lily"
     new "6 与莉莉交谈"
 
+# TODO: Translation updated at 2022-03-30 01:40
+
+# game/logic/events/lily.rpy:2677
+translate chinese Lily_CF_3_label_7d68505f:
+
+    # ch_Name "{i}(Oh, my head...){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2678
+translate chinese Lily_CF_3_label_092247aa:
+
+    # ch_Name "{i}(It still hurts.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2679
+translate chinese Lily_CF_3_label_11af1f67:
+
+    # ch_Name "{i}(But it's much better than yesterday, it's for sure.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2681
+translate chinese Lily_CF_3_label_dac70333:
+
+    # ch_Name "{i}(Oh, Adele...){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2682
+translate chinese Lily_CF_3_label_19db10fb:
+
+    # ch_Name "{i}(I'd better check out if she's okay.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2683
+translate chinese Lily_CF_3_label_8e55348f:
+
+    # ch_Name "{i}(I hope she took care of Diego for good.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2690
+translate chinese Lily_CF_3_label_70e8802a:
+
+    # Mina "Good morning, [Name]!"
+    Mina ""
+
+# game/logic/events/lily.rpy:2691
+translate chinese Lily_CF_3_label_c73e6b50:
+
+    # ch_Name "Hey there."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2692
+translate chinese Lily_CF_3_label_9f75b84d:
+
+    # Mina "Any plans for today?"
+    Mina ""
+
+# game/logic/events/lily.rpy:2693
+translate chinese Lily_CF_3_label_1f94afd3:
+
+    # ch_Name "Oh, you know... I just need to check if my friend is okay. Good luck!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2694
+translate chinese Lily_CF_3_label_13c8cd39:
+
+    # Mina "Bye! Have a nice day!"
+    Mina ""
+
+# game/logic/events/lily.rpy:2701
+translate chinese Lily_CF_3_label_cf6661f2:
+
+    # ch_Name "{i}(Damn it! It's closed.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2702
+translate chinese Lily_CF_3_label_0e616f79:
+
+    # ch_Name "{i}(I should've expected this. The club is always closed in the morning.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2703
+translate chinese Lily_CF_3_label_5be912cf:
+
+    # ch_Name "{i}(Why on earth I never cared to ask for her phone number...){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2705
+translate chinese Lily_CF_3_label_6db2bba2:
+
+    # ch_Name "{i}(Fuck...){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2706
+translate chinese Lily_CF_3_label_4e2759d0:
+
+    # ch_Name "{i}(Well, It's nothing I can do for now. Might as well get some coffee.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2713
+translate chinese Lily_CF_3_label_85ca7b49:
+
+    # ch_Name "{i}(Oh, is that Lily?){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2714
+translate chinese Lily_CF_3_label_167e2656:
+
+    # ch_Name "{i}(I still feel like crap, but...){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2715
+translate chinese Lily_CF_3_label_f8dd926b:
+
+    # ch_Name "{i}(I think I can still enjoy her company.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2776
+translate chinese Lily_CF_3_label_25cc4967:
+
+    # ch_Name "{i}(Well, Lily sure brought some life into me.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2777
+translate chinese Lily_CF_3_label_e2f080cf:
+
+    # ch_Name "{i}(Even my headache has almost gone.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2778
+translate chinese Lily_CF_3_label_02ede184:
+
+    # ch_Name "{i}(But I still can enjoy some coffee.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2781
+translate chinese Lily_CF_3_label_a476447c:
+
+    # ch_Name "{i}(Oh, what a majestic smell of fresh coffee!){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2782
+translate chinese Lily_CF_3_label_5077876c:
+
+    # ch_Name "{i}(I love this place!){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2913
+translate chinese Lily_9_label_e741fe16:
+
+    # ch_Name "{i}(I don't get why Sam got so angry. I did it for her.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2914
+translate chinese Lily_9_label_4b0bd58c:
+
+    # ch_Name "{i}(Maybe she's just worried for me.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2915
+translate chinese Lily_9_label_9b444bfe:
+
+    # ch_Name "{i}(But I can handle it. I just have to show her how strong I am.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2916
+translate chinese Lily_9_label_532ca8b0:
+
+    # ch_Name "{i}(Anyway, I can still make it to the potions class in time for Sabrina's lesson.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2917
+translate chinese Lily_9_label_ab5b96e9:
+
+    # ch_Name "{i}(No need to waste all the day because of this meeting.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2924
+translate chinese Lily_9_label_93cb46ce:
+
+    # ch_Name "{i}(I wonder if we can use potions during the tournament.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2925
+translate chinese Lily_9_label_f0cde9e9:
+
+    # ch_Name "{i}(If so, I should get my inventory ready.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2926
+translate chinese Lily_9_label_28abd496:
+
+    # ch_Name "{i}(Those participants are way more experienced than I am.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2927
+translate chinese Lily_9_label_fec4b43c:
+
+    # ch_Name "{i}(Maybe I should even ask Sabrina to teach me some advanced potions.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2934
+translate chinese Lily_9_label_70c0a916:
+
+    # ch_Name "{i}(Oh, what luck!){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2935
+translate chinese Lily_9_label_57cf9004:
+
+    # ch_Name "{i}(I still have time before the class begins.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2936
+translate chinese Lily_9_label_0c3122d0:
+
+    # ch_Name "{i}(And Lily is here already.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2937
+translate chinese Lily_9_label_04a7b558:
+
+    # ch_Name "{i}(I had no chance to talk to her about everything that happened to us.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2938
+translate chinese Lily_9_label_fa7fc846:
+
+    # ch_Name "{i}(Maybe this is the right time...){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3009
+translate chinese Lily_9_label_0a6d54f5:
+
+    # Sabrina "Greetings, class!"
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3010
+translate chinese Lily_9_label_0ae04382:
+
+    # Sabrina "Glad to see you all!"
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3011
+translate chinese Lily_9_label_93d0decb:
+
+    # Sabrina "Today we're going to mix the alternative formula of potions of reflection."
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3013
+translate chinese Lily_9_label_cabba38a:
+
+    # Sabrina "I know some of you have already learned the new formula."
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3014
+translate chinese Lily_9_label_e69ee018:
+
+    # Sabrina "So who wants to get here and show other students how it's done?"
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3015
+translate chinese Lily_9_label_1696d737:
+
+    # Grace "Can I, miss Spellman?"
+    Grace ""
+
+# game/logic/events/lily.rpy:3022
+translate chinese Lily_9_label_a14fd8b2:
+
+    # Grace "Am I swirling it right?"
+    Grace ""
+
+# game/logic/events/lily.rpy:3023
+translate chinese Lily_9_label_05e1b3ae:
+
+    # Sabrina "Oh yes, Grace, it looks very good."
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3024
+translate chinese Lily_9_label_61125c7b:
+
+    # Sabrina "You're getting better at this with every lesson! I'm so proud..."
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3031
+translate chinese Lily_9_label_257fa89e:
+
+    # Sabrina "Thank you, Grace, for that fantastic display of skill!"
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3032
+translate chinese Lily_9_label_dad3c904:
+
+    # Sabrina "That will be all for today! Have a lovely evening, guys!"
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3039
+translate chinese Lily_9_label_9ad107c9:
+
+    # ch_Name "Hey, Miss Spellman..."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3040
+translate chinese Lily_9_label_32d74168:
+
+    # ch_Name "Could I talk with you for a second?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3041
+translate chinese Lily_9_label_e12fe3cb:
+
+    # ch_Name "I wondered if you could help me prepare for the Tournament of wizards."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3043
+translate chinese Lily_9_label_786dab74:
+
+    # Sabrina "Wait a minute! Have you just said \"Tournament of wizards\"?"
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3044
+translate chinese Lily_9_label_672c1d5e:
+
+    # ch_Name "Well, yeah. Why?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3045
+translate chinese Lily_9_label_3b4ed2d3:
+
+    # Sabrina "I thought it was only for second-year students or higher."
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3047
+translate chinese Lily_9_label_45b40905:
+
+    # Sabrina "Are you sure you are allowed to participate, [Name]?"
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3048
+translate chinese Lily_9_label_9b2535b2:
+
+    # Sabrina "This could be really dangerous to you."
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3050
+translate chinese Lily_9_label_20f19783:
+
+    # ch_Name "Well, you know I was never afraid of danger."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3051
+translate chinese Lily_9_label_c14e897a:
+
+    # ch_Name "Besides, what should I be afraid of if I have such an amazing teacher."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3052
+translate chinese Lily_9_label_83df01f6:
+
+    # ch_Name "But I don't think my potions arsenal can match other participants."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3053
+translate chinese Lily_9_label_750fc1fd:
+
+    # ch_Name "Maybe you could help me learn more potent potions? Just in case."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3055
+translate chinese Lily_9_label_5b062a59:
+
+    # Sabrina "Well, if you've made up your mind about this Tournament."
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3056
+translate chinese Lily_9_label_6a70dd7a:
+
+    # Sabrina "It's the least that I can do to make sure my best student isn't killed."
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3057
+translate chinese Lily_9_label_bde31fce:
+
+    # Sabrina "So yeah, I'll help you."
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3058
+translate chinese Lily_9_label_81208865:
+
+    # ch_Name "Thanks, Sabrina! I mean, miss Spellman. You're the best!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3059
+translate chinese Lily_9_label_681738d9:
+
+    # ch_Name "Oops, I have to run. Lily will be waiting for me."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3061
+translate chinese Lily_9_label_bcde3702:
+
+    # Sabrina "Sure."
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3062
+translate chinese Lily_9_label_6b850326:
+
+    # Sabrina "Take care!"
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3064
+translate chinese Lily_9_label_3ad12c14:
+
+    # ch_Name "{i}(I'm so lucky to have miss Spellman on my side.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3065
+translate chinese Lily_9_label_d6bcd4c9:
+
+    # ch_Name "{i}(Now I just need to get to my room in time. It's rude to make Lily wait for too long.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3249
+translate chinese Lily_10_label_8d6f66c3:
+
+    # ch_Name "{i}(Oh, by the way... Speaking of meeting Leona.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3250
+translate chinese Lily_10_label_f98052f3:
+
+    # ch_Name "{i}(She's probably waiting for me to return the Seal.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3251
+translate chinese Lily_10_label_0e0b591f:
+
+    # ch_Name "{i}(I'd better be going.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3258
+translate chinese Lily_10_label_e85ab428:
+
+    # ch_Name "{i}(I can't even imagine how mad she is at me.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3259
+translate chinese Lily_10_label_ab672c20:
+
+    # ch_Name "{i}(I hope there won't be tons of \"I told you so\".){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3260
+translate chinese Lily_10_label_24aea8d9:
+
+    # ch_Name "{i}(Because she did tell me to be careful with the Seal.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3261
+translate chinese Lily_10_label_cd15c347:
+
+    # ch_Name "{i}(And I failed her.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3262
+translate chinese Lily_10_label_593e721e:
+
+    # ch_Name "{i}(I guess I've earned everything she's going to tell me.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3263
+translate chinese Lily_10_label_de3b9f19:
+
+    # ch_Name "{i}(Alright, here we go...){/i}"
+    ch_Name ""
+

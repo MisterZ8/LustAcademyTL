@@ -3882,3 +3882,197 @@ translate russian CF_Ahchi_2_label_c44cf98f:
     # Ahchi "Did you hear what old man Chompski pulled the other day?"
     Ahchi ""
 
+# TODO: Translation updated at 2022-03-30 01:43
+
+# game/logic/events/ahchi.rpy:879
+translate russian CF_S5_label_889724bc:
+
+    # ch_Name "{i}(Wow, I spent so much time hanging out here.){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:880
+translate russian CF_S5_label_d9265691:
+
+    # ch_Name "{i}(The club has probably opened already.){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:881
+translate russian CF_S5_label_e63f9a55:
+
+    # ch_Name "{i}(I should probably pay a visit to Adele before I leave for Christmas.){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:888
+translate russian CF_S5_label_0b6a76dc:
+
+    # ch_Name "{i}(Yeah, I was right.){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:889
+translate russian CF_S5_label_8a983cb9:
+
+    # ch_Name "{i}(It's evening already.){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:890
+translate russian CF_S5_label_3a80465f:
+
+    # ch_Name "{i}(The weather today is so great too. Maybe I should take Adele for a walk?){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:893
+translate russian CF_S5_label_0233e4c3:
+
+    # ch_Name "{i}(I wonder where do other guys from Cordale spend their evenings here.){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:894
+translate russian CF_S5_label_19f4a13b:
+
+    # ch_Name "{i}(I should ask Haley next time.){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:895
+translate russian CF_S5_label_ad0c5a2d:
+
+    # ch_Name "{i}(But I wouldn't be surprised if she's binge-reading the whole city library.){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:899
+translate russian CF_S5_label_9a01766c:
+
+    # ch_Name "{i}(Even Romul looks not as douchey today.){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:900
+translate russian CF_S5_label_136b7c99:
+
+    # ch_Name "{i}(What a great evening for a date!){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:901
+translate russian CF_S5_label_57766f08:
+
+    # ch_Name "{i}(Adele, here I come!){/i}"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:1017
+translate russian CF_Ahchi_2_label_e7d59ecf_1:
+
+    # ch_Name "That's what you need! Even more than that."
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:1018
+translate russian CF_Ahchi_2_label_4620c531_1:
+
+    # ch_Name "It's a masterpiece!"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:1019
+translate russian CF_Ahchi_2_label_05b553f3:
+
+    # ch_Name "Thanks, Ahchi."
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:1021
+translate russian CF_Ahchi_2_label_4a4c5e9f_1:
+
+    # Ahchi "Nothing warms the soul like a satisfied customer."
+    Ahchi ""
+
+# game/logic/events/ahchi.rpy:1022
+translate russian CF_Ahchi_2_label_a527d8e7:
+
+    # ch_Name "Oh, there's Sam and Audrey. I've gotta go, pal!"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:1023
+translate russian CF_Ahchi_2_label_56795ea9_1:
+
+    # Ahchi "See you soon!"
+    Ahchi ""
+
+# game/logic/events/ahchi.rpy:1066
+translate russian CF_Ahchi_3_label_fdc49706:
+
+    # ch_Name "Actually, about that..."
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:1067
+translate russian CF_Ahchi_3_label_36139648:
+
+    # ch_Name "I won't be coming for some time."
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:1068
+translate russian CF_Ahchi_3_label_fbc9d237:
+
+    # Ahchi "Really? How so?"
+    Ahchi ""
+
+# game/logic/events/ahchi.rpy:1069
+translate russian CF_Ahchi_3_label_02a6bbfa:
+
+    # ch_Name "The thing is, we're going on winter holidays at Cordale."
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:1070
+translate russian CF_Ahchi_3_label_66aafa9f:
+
+    # ch_Name "So I'm pretty sure no students will come in a few weeks."
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:1072
+translate russian CF_Ahchi_3_label_43c5d9aa:
+
+    # Ahchi "Ah, that's a shame..."
+    Ahchi ""
+
+# game/logic/events/ahchi.rpy:1073
+translate russian CF_Ahchi_3_label_f3d8c9ec:
+
+    # Ahchi "I'll miss my favorite clients."
+    Ahchi ""
+
+# game/logic/events/ahchi.rpy:1074
+translate russian CF_Ahchi_3_label_98b1ba13:
+
+    # Ahchi "And the cash, of course."
+    Ahchi ""
+
+# game/logic/events/ahchi.rpy:1076
+translate russian CF_Ahchi_3_label_f51bbdeb:
+
+    # Ahchi "But that doesn't mean I'm not happy for you."
+    Ahchi ""
+
+# game/logic/events/ahchi.rpy:1077
+translate russian CF_Ahchi_3_label_fc109b63:
+
+    # Ahchi "I hope you'll have some fun on your holidays."
+    Ahchi ""
+
+# game/logic/events/ahchi.rpy:1078
+translate russian CF_Ahchi_3_label_262cb002:
+
+    # ch_Name "Thanks, friend."
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:1079
+translate russian CF_Ahchi_3_label_5c9a3af8:
+
+    # ch_Name "I'll miss your coffee."
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:1080
+translate russian CF_Ahchi_3_label_6084f42f:
+
+    # ch_Name "Have a good day!"
+    ch_Name ""
+
+# game/logic/events/ahchi.rpy:1081
+translate russian CF_Ahchi_3_label_be3aac5c:
+
+    # Ahchi "You too."
+    Ahchi ""
+

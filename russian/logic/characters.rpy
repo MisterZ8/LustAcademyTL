@@ -209,3 +209,19 @@ translate russian strings:
     old "Ezra"
     new ""
 
+# TODO: Translation updated at 2022-03-30 01:43
+
+translate russian strings:
+
+    # game/logic/characters.rpy:53
+    old "Penny"
+    new ""
+
+    # game/logic/characters.rpy:54
+    old "Minotaur"
+    new ""
+
+    # game/logic/characters.rpy:75
+    old "Strange girl"
+    new ""
+

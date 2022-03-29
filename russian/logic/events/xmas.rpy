@@ -6000,3 +6000,197 @@ translate russian strings:
     old "Relive the memory"
     new ""
 
+# TODO: Translation updated at 2022-03-30 01:43
+
+# game/logic/events/xmas.rpy:57
+translate russian Xmas_start_mc_0c6236d7:
+
+    # ch_Name "{i}(Oh, is it from that one time when we celebrated Yule?){/i}"
+    ch_Name ""
+
+# game/logic/events/xmas.rpy:83
+translate russian Xmas_1_label_b4c8c248:
+
+    # NoName "Ring-ring..."
+    NoName ""
+
+# game/logic/events/xmas.rpy:85
+translate russian Xmas_1_label_d007b8f0:
+
+    # ch_Name "Hello?"
+    ch_Name ""
+
+# game/logic/events/xmas.rpy:86
+translate russian Xmas_1_label_27181521:
+
+    # Elijah "Yo, [Name]! It's time to get up!"
+    Elijah ""
+
+# game/logic/events/xmas.rpy:87
+translate russian Xmas_1_label_6684b9f2:
+
+    # ch_Name "Morning to you too. What's happened?"
+    ch_Name ""
+
+# game/logic/events/xmas.rpy:88
+translate russian Xmas_1_label_6e29e07a:
+
+    # Elijah "The headmaster is gathering the meeting in the Main hall."
+    Elijah ""
+
+# game/logic/events/xmas.rpy:89
+translate russian Xmas_1_label_f7391e81:
+
+    # ch_Name "Again?! Wasn't there a meeting yesterday?"
+    ch_Name ""
+
+# game/logic/events/xmas.rpy:90
+translate russian Xmas_1_label_d979667f:
+
+    # Elijah "Well, yeah."
+    Elijah ""
+
+# game/logic/events/xmas.rpy:92
+translate russian Xmas_1_label_21ced947:
+
+    # Elijah "Do you want me to tell him that that goes against your schedule, queen?"
+    Elijah ""
+
+# game/logic/events/xmas.rpy:93
+translate russian Xmas_1_label_1aa6129a:
+
+    # ch_Name "Alright, alright. Sorry."
+    ch_Name ""
+
+# game/logic/events/xmas.rpy:94
+translate russian Xmas_1_label_3968762d:
+
+    # ch_Name "I'll be there."
+    ch_Name ""
+
+# game/logic/events/xmas.rpy:95
+translate russian Xmas_1_label_38144831:
+
+    # Elijah "Cool. C'ya."
+    Elijah ""
+
+# game/logic/events/xmas.rpy:97
+translate russian Xmas_1_label_96eb30cd:
+
+    # ch_Name "{i}(Come to think of it, it's an excellent opportunity to catch up with Arthur...){/i}"
+    ch_Name ""
+
+# game/logic/events/xmas.rpy:98
+translate russian Xmas_1_label_a2434f6b:
+
+    # ch_Name "{i}(I need to hurry up.){/i}"
+    ch_Name ""
+
+# game/logic/events/xmas.rpy:99
+translate russian Xmas_1_label_60082023:
+
+    # ch_Name "{i}(If I get there before the meeting starts, I'll have time to talk to him...){/i}"
+    ch_Name ""
+
+# game/logic/events/xmas.rpy:100
+translate russian Xmas_1_label_f46411ad:
+
+    # ch_Name "{i}(...about what's happened to Leona and other house founders.){/i}"
+    ch_Name ""
+
+# game/logic/events/xmas.rpy:107
+translate russian Xmas_1_label_bdaaa2e3:
+
+    # ch_Name "{i}(I hope Arthur is here already.){/i}"
+    ch_Name ""
+
+# game/logic/events/xmas.rpy:108
+translate russian Xmas_1_label_5b71ead7:
+
+    # ch_Name "{i}(I'm afraid we don't have much time.){/i}"
+    ch_Name ""
+
+# game/logic/events/xmas.rpy:110
+translate russian Xmas_1_label_e9aa49be:
+
+    # Arthur "Hey there, [Name]! Are you here for the meeting?"
+    Arthur ""
+
+# game/logic/events/xmas.rpy:111
+translate russian Xmas_1_label_77390c3a:
+
+    # Arthur "You're pretty early..."
+    Arthur ""
+
+# game/logic/events/xmas.rpy:112
+translate russian Xmas_1_label_f7dd4703:
+
+    # ch_Name "Oh, mister Doorman! I was looking for you!"
+    ch_Name ""
+
+# game/logic/events/xmas.rpy:114
+translate russian Xmas_1_label_87371271:
+
+    # ch_Name "I need to tell you something important about house founders!"
+    ch_Name ""
+
+# game/logic/events/xmas.rpy:115
+translate russian Xmas_1_label_a5233990:
+
+    # Arthur "Is it about them being captured by that beast, Overlord?"
+    Arthur ""
+
+# game/logic/events/xmas.rpy:116
+translate russian Xmas_1_label_dab9fc48:
+
+    # ch_Name "You know?!"
+    ch_Name ""
+
+# game/logic/events/xmas.rpy:117
+translate russian Xmas_1_label_15597912:
+
+    # Arthur "Of course, I know. I am contacting four founders every day. This is my duty."
+    Arthur ""
+
+# game/logic/events/xmas.rpy:119
+translate russian Xmas_1_label_9b9b7723:
+
+    # Arthur "I am aware of the problem and of what you did already. Good job."
+    Arthur ""
+
+# game/logic/events/xmas.rpy:120
+translate russian Xmas_1_label_b1ae0576:
+
+    # Arthur "But I'm afraid it won't be so easy for the other three founders."
+    Arthur ""
+
+# game/logic/events/xmas.rpy:121
+translate russian Xmas_1_label_999710d2:
+
+    # Arthur "You need to be patient and wait until I finish my research."
+    Arthur ""
+
+# game/logic/events/xmas.rpy:122
+translate russian Xmas_1_label_2d2f98e8:
+
+    # ch_Name "If you say so, but will they be okay?"
+    ch_Name ""
+
+# game/logic/events/xmas.rpy:123
+translate russian Xmas_1_label_85b7bb10:
+
+    # Arthur "If we do what we must - they will. We'll talk this through later."
+    Arthur ""
+
+# game/logic/events/xmas.rpy:124
+translate russian Xmas_1_label_66a8129a:
+
+    # Arthur "And now, if you excuse me, I need to get dressed for the meeting..."
+    Arthur ""
+
+# game/logic/events/xmas.rpy:133
+translate russian Xmas_1_label_2e34ff30:
+
+    # ch_Name "{i}(Well it's no need to guess, he's going to tell us now.){/i}"
+    ch_Name ""
+
