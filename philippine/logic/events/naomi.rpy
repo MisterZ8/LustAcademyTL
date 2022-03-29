@@ -3280,19 +3280,19 @@ translate philippine Naomi_8_label_4e672b76:
 translate philippine Naomi_8_label_27b3ee72:
 
     # ch_Name "I want to see you try it."
-    ch_Name ""
+    ch_Name "Gusto kong makita na sinusubukan mo."
 
 # game/logic/events/naomi.rpy:1221
 translate philippine Naomi_8_label_b08c3eca:
 
     # ch_Name "Oh, yes..."
-    ch_Name ""
+    ch_Name "Oo..."
 
 # game/logic/events/naomi.rpy:1222
 translate philippine Naomi_8_label_884f9d96:
 
     # ch_Name "Do you like it?"
-    ch_Name ""
+    ch_Name "Nagugustuhan mo ba?"
 
 # game/logic/events/naomi.rpy:1224
 translate philippine Naomi_8_label_9c59aea4:
@@ -3304,79 +3304,79 @@ translate philippine Naomi_8_label_9c59aea4:
 translate philippine Naomi_8_label_0d175597:
 
     # ch_Name "Don't get distracted."
-    ch_Name ""
+    ch_Name "Huwag kang magambala."
 
 # game/logic/events/naomi.rpy:1227
 translate philippine Naomi_8_label_bcac5d9f:
 
     # ch_Name "Work with your tongue too, honey."
-    ch_Name ""
+    ch_Name "Gamitin mo rin ang dila mo, honey."
 
 # game/logic/events/naomi.rpy:1228
 translate philippine Naomi_8_label_16039b29:
 
     # ch_Name "Oh, yeah... That's it!"
-    ch_Name ""
+    ch_Name "Oo... Ayan!"
 
 # game/logic/events/naomi.rpy:1230
 translate philippine Naomi_8_label_2e831b09:
 
     # ch_Name "Wait..."
-    ch_Name ""
+    ch_Name "Teka..."
 
 # game/logic/events/naomi.rpy:1231
 translate philippine Naomi_8_label_6e37936c:
 
     # ch_Name "Before we continue, let's free your magnificent breasts..."
-    ch_Name ""
+    ch_Name "Bago tayo magpatuloy, palayain natin ang iyong mga magandang suso..."
 
 # game/logic/events/naomi.rpy:1232
 translate philippine Naomi_8_label_e71618ac:
 
     # ch_Name "...from the extra rags..."
-    ch_Name ""
+    ch_Name "...mula sa sobrang damit..."
 
 # game/logic/events/naomi.rpy:1235
 translate philippine Naomi_8_label_45f5cf09:
 
     # Naomi "Whatever you say."
-    Naomi ""
+    Naomi "Kahit anong sabihin mo."
 
 # game/logic/events/naomi.rpy:1236
 translate philippine Naomi_8_label_e891b000:
 
     # Naomi "If it comforts you and makes it up to me."
-    Naomi ""
+    Naomi "Kung umaaliw sa iyo at makakapabawi sa akin."
 
 # game/logic/events/naomi.rpy:1238
 translate philippine Naomi_8_label_17853ae7:
 
     # Naomi "Look."
-    Naomi ""
+    Naomi "Tignan mo."
 
 # game/logic/events/naomi.rpy:1239
 translate philippine Naomi_8_label_cca0e79d:
 
     # Naomi "You'll never see tits like that again in your life."
-    Naomi ""
+    Naomi "Hindi ka na makakakita ng mga suso tulad nito sa buhay mo."
 
 # game/logic/events/naomi.rpy:1240
 translate philippine Naomi_8_label_83299b2e:
 
     # ch_Name "{i}(Still thinks she's the queen of the world.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Iniisip niya pa rin na siya ang reyna ng mundo.){/i}"
 
 # game/logic/events/naomi.rpy:1242
 translate philippine Naomi_8_label_31b0e042:
 
     # ch_Name "{i}(That doesn't stop her from sucking me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi iyon pumipigil sa kanya sa pagtsupa sa akin.){/i}"
 
 # game/logic/events/naomi.rpy:1243
 translate philippine Naomi_8_label_b0c5aee1:
 
     # ch_Name "Fine. Get back to work."
-    ch_Name ""
+    ch_Name "Fine. Bumalik ka na sa trabaho."
 
 # game/logic/events/naomi.rpy:1245
 translate philippine Naomi_8_label_9c59aea4_1:
@@ -3388,241 +3388,241 @@ translate philippine Naomi_8_label_9c59aea4_1:
 translate philippine Naomi_8_label_51eb371d_1:
 
     # ch_Name "Oh, yeah..."
-    ch_Name ""
+    ch_Name "Oo..."
 
 # game/logic/events/naomi.rpy:1248
 translate philippine Naomi_8_label_2d3f44f5:
 
     # ch_Name "Keep going..."
-    ch_Name ""
+    ch_Name "Sige pa..."
 
 # game/logic/events/naomi.rpy:1250
 translate philippine Naomi_8_label_7e99b1b5:
 
     # ch_Name "There you go."
-    ch_Name ""
+    ch_Name "Ayan."
 
 # game/logic/events/naomi.rpy:1251
 translate philippine Naomi_8_label_09e199aa:
 
     # ch_Name "{i}(She seems to be getting a taste for it.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mukhang nasanay na siya.){/i}"
 
 # game/logic/events/naomi.rpy:1253
 translate philippine Naomi_8_label_8731ac11:
 
     # ch_Name "{i}(I'll bet she's getting wet right now!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Siguradong basa siya ngayon!){/i}"
 
 # game/logic/events/naomi.rpy:1254
 translate philippine Naomi_8_label_51eb371d_2:
 
     # ch_Name "Oh, yeah..."
-    ch_Name ""
+    ch_Name "Oo..."
 
 # game/logic/events/naomi.rpy:1256
 translate philippine Naomi_8_label_de29b2ba:
 
     # ch_Name "I want you..."
-    ch_Name ""
+    ch_Name "Gusto kita..."
 
 # game/logic/events/naomi.rpy:1257
 translate philippine Naomi_8_label_64adf8ce:
 
     # Naomi "That's... That wasn't the deal..."
-    Naomi ""
+    Naomi "Iyon... Hindi iyon ang kasunduan..."
 
 # game/logic/events/naomi.rpy:1260
 translate philippine Naomi_8_label_809e79db:
 
     # ch_Name "Forget the deal."
-    ch_Name ""
+    ch_Name "Kalimutan mo na ang kasunduan."
 
 # game/logic/events/naomi.rpy:1261
 translate philippine Naomi_8_label_72c1932a:
 
     # ch_Name "What do you really want, Naomi?"
-    ch_Name ""
+    ch_Name "Ano ba talagang gusto mo, Naomi?"
 
 # game/logic/events/naomi.rpy:1262
 translate philippine Naomi_8_label_7116f117:
 
     # Naomi "I..."
-    Naomi ""
+    Naomi "Ang..."
 
 # game/logic/events/naomi.rpy:1263
 translate philippine Naomi_8_label_b813c88f:
 
     # ch_Name "Come on..."
-    ch_Name ""
+    ch_Name "Sige na..."
 
 # game/logic/events/naomi.rpy:1265
 translate philippine Naomi_8_label_b201afdd:
 
     # Naomi "I want you, too..."
-    Naomi ""
+    Naomi "Gusto rin kita..."
 
 # game/logic/events/naomi.rpy:1266
 translate philippine Naomi_8_label_081a1509:
 
     # Naomi "But first, I want you to lick me..."
-    Naomi ""
+    Naomi "Pero, gusto kong dilaan mo ako..."
 
 # game/logic/events/naomi.rpy:1269
 translate philippine Naomi_8_label_0425ea3b:
 
     # ch_Name "{i}(After that you won't be able to hold back any longer...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pagkatapos noon hindi ka na makakapigil sa sarili mo...){/i}"
 
 # game/logic/events/naomi.rpy:1271
 translate philippine Naomi_8_label_90ec7985:
 
     # ch_Name "With pleasure..."
-    ch_Name ""
+    ch_Name "Kasiyahan kong gawin ito..."
 
 # game/logic/events/naomi.rpy:1272
 translate philippine Naomi_8_label_572e8fa9:
 
     # ch_Name "{i}(Oh, she seems very happy about this decision.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Naku, mukhang napakasaya niya sa desisyong ito.){/i}"
 
 # game/logic/events/naomi.rpy:1274
 translate philippine Naomi_8_label_3a0d859a:
 
     # Naomi "Wait a second..."
-    Naomi ""
+    Naomi "Sandali lang..."
 
 # game/logic/events/naomi.rpy:1275
 translate philippine Naomi_8_label_1ad3ba2a:
 
     # Naomi "Not many people get a chance to see my body."
-    Naomi ""
+    Naomi "Napakabihira ang pagkakataon na makita ang aking katawan."
 
 # game/logic/events/naomi.rpy:1277
 translate philippine Naomi_8_label_1d75d9e8:
 
     # ch_Name "That makes me special."
-    ch_Name ""
+    ch_Name "Espesyal pala ako."
 
 # game/logic/events/naomi.rpy:1278
 translate philippine Naomi_8_label_55d99b9d:
 
     # Naomi "That's right, baby."
-    Naomi ""
+    Naomi "Tama 'yan, baby."
 
 # game/logic/events/naomi.rpy:1280
 translate philippine Naomi_8_label_96dca461:
 
     # Naomi "You know I could have said no."
-    Naomi ""
+    Naomi "Alam mo kaya kong tumanggi."
 
 # game/logic/events/naomi.rpy:1281
 translate philippine Naomi_8_label_65dd0c25:
 
     # Naomi "I came here of my own free will."
-    Naomi ""
+    Naomi "Pinili kong pumunta dito."
 
 # game/logic/events/naomi.rpy:1283
 translate philippine Naomi_8_label_d7ab41ff:
 
     # ch_Name "You did?"
-    ch_Name ""
+    ch_Name "Talaga?"
 
 # game/logic/events/naomi.rpy:1284
 translate philippine Naomi_8_label_c6309833:
 
     # Naomi "Of course, I did."
-    Naomi ""
+    Naomi "Siyempre."
 
 # game/logic/events/naomi.rpy:1286
 translate philippine Naomi_8_label_265689ab:
 
     # Naomi "Look who's in front of you."
-    Naomi ""
+    Naomi "Tignan mo kung sino ang nasa harap mo."
 
 # game/logic/events/naomi.rpy:1287
 translate philippine Naomi_8_label_7ae7d078:
 
     # Naomi "You hit the jackpot, [Name]."
-    Naomi ""
+    Naomi "Natamaan mo ang pinakamataas na premyo, [Name]."
 
 # game/logic/events/naomi.rpy:1289
 translate philippine Naomi_8_label_55e7f967:
 
     # Naomi "But don't get cocky, thinking you've earned it."
-    Naomi ""
+    Naomi "Ngunit huwag kang magmayabang at mag-akala na kinita mo ito."
 
 # game/logic/events/naomi.rpy:1290
 translate philippine Naomi_8_label_7789fffa:
 
     # ch_Name "{i}(Strong move, Naomi.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Matitinding salita, Naomi.){/i}"
 
 # game/logic/events/naomi.rpy:1291
 translate philippine Naomi_8_label_1a00fef4:
 
     # ch_Name "{i}(But you're where I want you now. Naked and ready for anything.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ngunit nandiyan ka kung saan kita gusto. Hubad at handa sa anuman.){/i}"
 
 # game/logic/events/naomi.rpy:1293
 translate philippine Naomi_8_label_5f4739bb:
 
     # ch_Name "{i}(And I can see all your virtues.){/i}"
-    ch_Name ""
+    ch_Name "{i}(At nakikita ko ang lahat ng iyong kabutihan.){/i}"
 
 # game/logic/events/naomi.rpy:1294
 translate philippine Naomi_8_label_994e300b:
 
     # ch_Name "{i}(What an incredible beauty...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kahanga-hangang kagandahan...){/i}"
 
 # game/logic/events/naomi.rpy:1296
 translate philippine Naomi_8_label_ee58203f:
 
     # Naomi "Admit it, you want to touch that sexy body..."
-    Naomi ""
+    Naomi "Aminin mo, gusto mong hawakan ang magandang katawan na ito..."
 
 # game/logic/events/naomi.rpy:1297
 translate philippine Naomi_8_label_b08c3eca_1:
 
     # ch_Name "Oh, yes..."
-    ch_Name ""
+    ch_Name "Oo..."
 
 # game/logic/events/naomi.rpy:1299
 translate philippine Naomi_8_label_db57eaf7:
 
     # Naomi "Taste what winning women are made of..."
-    Naomi ""
+    Naomi "Tikman kung ano ang gawa ng mga nanalong babae..."
 
 # game/logic/events/naomi.rpy:1300
 translate philippine Naomi_8_label_876f412c:
 
     # Naomi "Come to me..."
-    Naomi ""
+    Naomi "Halika..."
 
 # game/logic/events/naomi.rpy:1302
 translate philippine Naomi_8_label_d14a9eaf:
 
     # ch_Name "{i}(How passionately she looks at me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Siya ay madamdaming tumitingin sa akin.){/i}"
 
 # game/logic/events/naomi.rpy:1303
 translate philippine Naomi_8_label_064e1adf:
 
     # ch_Name "{i}(As if I were her prey.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Para akong biktima niya.){/i}"
 
 # game/logic/events/naomi.rpy:1305
 translate philippine Naomi_8_label_5d99c05d:
 
     # ch_Name "{i}(It's time to taste you, Naomi.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oras na para tikman kita, Naomi.){/i}"
 
 # game/logic/events/naomi.rpy:1306
 translate philippine Naomi_8_label_2318e756:
 
     # ch_Name "Get ready to feel yourself in heaven of pleasure, baby."
-    ch_Name ""
+    ch_Name "Humanda ka sa langit, baby."
 
 # game/logic/events/naomi.rpy:1307
 translate philippine Naomi_8_label_bac676c5:
@@ -3634,115 +3634,115 @@ translate philippine Naomi_8_label_bac676c5:
 translate philippine Naomi_8_label_731b6f1f:
 
     # Naomi "Oh, yes..."
-    Naomi ""
+    Naomi "Oo..."
 
 # game/logic/events/naomi.rpy:1310
 translate philippine Naomi_8_label_31e7d1f4:
 
     # Naomi "Caress me."
-    Naomi ""
+    Naomi "Lambingin mo ako."
 
 # game/logic/events/naomi.rpy:1312
 translate philippine Naomi_8_label_0d3fee40:
 
     # ch_Name "{i}(She's so eager and trembling with passion.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Napakasabik niya at nanginginig siya sa kasiyahan.){/i}"
 
 # game/logic/events/naomi.rpy:1313
 translate philippine Naomi_8_label_7de65ad4:
 
     # ch_Name "{i}(She barely restrains herself from cumming at the first touch.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Halos hindi niya napigilan ang sarili na magpalabas sa unang pagpindot.){/i}"
 
 # game/logic/events/naomi.rpy:1315
 translate philippine Naomi_8_label_9951e40d:
 
     # ch_Name "{i}(It's okay, baby. I'll caress you all over.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ayos lang baby. Lambingin kita ng todo.){/i}"
 
 # game/logic/events/naomi.rpy:1316
 translate philippine Naomi_8_label_731b6f1f_1:
 
     # Naomi "Oh, yes..."
-    Naomi ""
+    Naomi "Oo..."
 
 # game/logic/events/naomi.rpy:1318
 translate philippine Naomi_8_label_fd78ac9c:
 
     # Naomi "Oh, God..."
-    Naomi ""
+    Naomi "Diyos ko..."
 
 # game/logic/events/naomi.rpy:1319
 translate philippine Naomi_8_label_36219ec3:
 
     # ch_Name "{i}(And there's no trace of your power...){/i}"
-    ch_Name ""
+    ch_Name "{i}(At walang bakas ng iyong kapangyarihan...){/i}"
 
 # game/logic/events/naomi.rpy:1321
 translate philippine Naomi_8_label_448f4b56:
 
     # ch_Name "{i}(How fortunate that the library is empty at night.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Napakapalad na walang laman ang library sa gabi.){/i}"
 
 # game/logic/events/naomi.rpy:1322
 translate philippine Naomi_8_label_eae7eb9d:
 
     # ch_Name "{i}(Where else could we have such privacy?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Saan pa ba tayo magkakaroon ng ganitong pagkapribado?){/i}"
 
 # game/logic/events/naomi.rpy:1324
 translate philippine Naomi_8_label_0250fea7:
 
     # Naomi "I'm trembling all over..."
-    Naomi ""
+    Naomi "Nanginginig ako..."
 
 # game/logic/events/naomi.rpy:1325
 translate philippine Naomi_8_label_78505de5:
 
     # ch_Name "{i}(Okay, I won't tease her any further.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sige, hindi ko na siya aasarin pa.){/i}"
 
 # game/logic/events/naomi.rpy:1326
 translate philippine Naomi_8_label_7af0c6f9:
 
     # ch_Name "Are you ready?"
-    ch_Name ""
+    ch_Name "Handa ka na ba?"
 
 # game/logic/events/naomi.rpy:1328
 translate philippine Naomi_8_label_8d96d733:
 
     # Naomi "Yes..."
-    Naomi ""
+    Naomi "Oo..."
 
 # game/logic/events/naomi.rpy:1329
 translate philippine Naomi_8_label_19688da8:
 
     # Naomi "Yes... Yes... Yes..."
-    Naomi ""
+    Naomi "Oo... Oo... Oo..."
 
 # game/logic/events/naomi.rpy:1331
 translate philippine Naomi_8_label_202b1018:
 
     # Naomi "It's unbelievable."
-    Naomi ""
+    Naomi "Hindi kapani-paniwala."
 
 # game/logic/events/naomi.rpy:1332
 translate philippine Naomi_8_label_2a56981f:
 
     # Naomi "This is so good!"
-    Naomi ""
+    Naomi "Napakaganda nito!"
 
 # game/logic/events/naomi.rpy:1334
 translate philippine Naomi_8_label_123891e9:
 
     # ch_Name "{i}(I think I'm good at everything sexually.){/i}"
-    ch_Name ""
+    ch_Name {i}(Magaling naman ako sa lahat ng bagay tungkol sa pakikipagtalik.){/i}"
 
 # game/logic/events/naomi.rpy:1335
 translate philippine Naomi_8_label_3c2516d3:
 
     # Naomi "Oh, yeah..."
-    Naomi ""
+    Naomi "Oo..."
 
 # game/logic/events/naomi.rpy:1336
 translate philippine Naomi_8_label_bac676c5_1:
@@ -3754,73 +3754,73 @@ translate philippine Naomi_8_label_bac676c5_1:
 translate philippine Naomi_8_label_437f9cbd:
 
     # Naomi "AAh... Oh, yeah..."
-    Naomi ""
+    Naomi "Ahh... Oo..."
 
 # game/logic/events/naomi.rpy:1339
 translate philippine Naomi_8_label_44c35c41:
 
     # Naomi "Yes... That's it."
-    Naomi ""
+    Naomi "Oo... Ayan."
 
 # game/logic/events/naomi.rpy:1341
 translate philippine Naomi_8_label_ed9d995d:
 
     # ch_Name "You like that?"
-    ch_Name ""
+    ch_Name "nagugustuhan mo ba?"
 
 # game/logic/events/naomi.rpy:1342
 translate philippine Naomi_8_label_38574ea0:
 
     # Naomi "Don't stop..."
-    Naomi ""
+    Naomi "'Wag kang tumigil..."
 
 # game/logic/events/naomi.rpy:1344
 translate philippine Naomi_8_label_374e560b:
 
     # Naomi "You have a magic tongue..."
-    Naomi ""
+    Naomi "May mahikang dila ka..."
 
 # game/logic/events/naomi.rpy:1345
 translate philippine Naomi_8_label_77cf9c04:
 
     # Naomi "Ah... Oh, yes..."
-    Naomi ""
+    Naomi "Ah... Oo..."
 
 # game/logic/events/naomi.rpy:1347
 translate philippine Naomi_8_label_526b77f8:
 
     # Naomi "Oh, yes!"
-    Naomi ""
+    Naomi "Oo..."
 
 # game/logic/events/naomi.rpy:1348
 translate philippine Naomi_8_label_3113f308:
 
     # Naomi "Oh my god..."
-    Naomi ""
+    Naomi "Diyos ko..."
 
 # game/logic/events/naomi.rpy:1350
 translate philippine Naomi_8_label_0463c797:
 
     # ch_Name "{i}(There you go!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ayan na!){/i}"
 
 # game/logic/events/naomi.rpy:1352
 translate philippine Naomi_8_label_b499e170:
 
     # Naomi "Unbelievable..."
-    Naomi ""
+    Naomi "Ang sarap..."
 
 # game/logic/events/naomi.rpy:1355
 translate philippine Naomi_8_label_fa97b037:
 
     # Naomi "[Name], I didn't expect..."
-    Naomi ""
+    Naomi "[Name], hindi ko inaasahang..."
 
 # game/logic/events/naomi.rpy:1357
 translate philippine Naomi_8_label_b786c2ab:
 
     # ch_Name "So, are you ready now?"
-    ch_Name ""
+    ch_Name "Handa ka na ba?"
 
 # game/logic/events/naomi.rpy:1360
 translate philippine Naomi_8_label_52fdabfe:
