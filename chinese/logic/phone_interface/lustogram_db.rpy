@@ -3000,7 +3000,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Sabrina:{/b} My heart is going to stop! You look very elegant, dear. 🤤"
-    new "{b}Sabrina:{/b} 我的心要停止了！你看起来很优雅，亲爱的。 🤤"
+    new "{b}Sabrina:{/b} 我的心要停止了！你看起来很优雅，亲爱的。🤤"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Amelie:{/b} That's well said, Vicky. Only literature has such a great power as music has..."
