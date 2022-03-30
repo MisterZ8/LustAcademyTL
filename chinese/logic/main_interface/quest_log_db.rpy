@@ -1743,7 +1743,7 @@ translate chinese strings:
     new "这个混蛋要求贿赂还差点让Adele被强奸。我想我以后得给他上一课。但好消息是我现在有一张幸运女神的VIP通行证。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
-    old "According to Sabrina, only students who have attended Victoria's introductory lecture in the Classroom 1 are allowed into the potions class."
+    old "According to Sabrina, only students who have attended Victoria's introductory lecture in the Classroom 2 are allowed into the potions class."
     new "据Sabrina说，只有在1号教室上过Victoria的入门课的学生才可以上魔药课。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
