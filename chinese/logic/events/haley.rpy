@@ -1618,7 +1618,7 @@ translate chinese Haley_4_label_3ca656da:
 translate chinese Haley_5_label_c050c5e8:
 
     # Amelie "Hello, Mr... [Surname], am I right?"
-    Amelie "你好，先生... [surname]，对吗?"
+    Amelie "你好，先生... [Surname]，对吗?"
 
 # game/logic/events/haley.rpy:655
 translate chinese Haley_5_label_f86f3c9d:

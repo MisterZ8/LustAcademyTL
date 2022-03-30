@@ -4576,7 +4576,7 @@ translate chinese Naomi_9_label_b3f293b1:
 translate chinese Naomi_9_label_5b658bfb:
 
     # Sabrina "Mr. [Surname], go back to your seat."
-    Sabrina "先生{Surname}，请回座位。"
+    Sabrina "先生 [Surname]，请回座位。"
 
 # game/logic/events/naomi.rpy:1552
 translate chinese Naomi_9_label_e4470995:
