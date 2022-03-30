@@ -4550,353 +4550,353 @@ translate chinese Samantha_4_label_c31086c4:
 translate chinese Victoria_12_label_e14dd911:
 
     # Victoria "Class, attention!"
-    Victoria ""
+    Victoria "上课了，注意！"
 
 # game/logic/events/victoria.rpy:1492
 translate chinese Victoria_12_label_39c3afcb:
 
     # Victoria "We have a special lesson today."
-    Victoria ""
+    Victoria "我们今天有一节特别的课。"
 
 # game/logic/events/victoria.rpy:1493
 translate chinese Victoria_12_label_97749c7d:
 
     # Victoria "Topic: ghosts and spirits."
-    Victoria ""
+    Victoria "主题：幽灵和灵魂。"
 
 # game/logic/events/victoria.rpy:1494
 translate chinese Victoria_12_label_50b2dbfa:
 
     # ch_Name "{i}(Hmm, I don't remember this paragraph in our textbook.){/i}"
-    ch_Name ""
+    ch_Name "{i}（嗯，我不记得我们课本上的这一段了。）{/i}"
 
 # game/logic/events/victoria.rpy:1495
 translate chinese Victoria_12_label_ef3f9735:
 
     # Victoria "As you all know, I particularly specialise in martial magic. "
-    Victoria ""
+    Victoria "大家都知道，我特别擅长物质魔法。"
 
 # game/logic/events/victoria.rpy:1496
 translate chinese Victoria_12_label_366ceaa8:
 
     # Victoria "But today's topic is usually studied as a part of Defense Against the Dark Arts course. "
-    Victoria ""
+    Victoria "但今天的主题通常是作为黑魔法防御课程的一部分来学习的。"
 
 # game/logic/events/victoria.rpy:1497
 translate chinese Victoria_12_label_829c0ddd:
 
     # Victoria "The principal personally asked me to give this little lecture to the first-year students."
-    Victoria ""
+    Victoria "校长亲自让我给一年级的学生做这个小讲座。"
 
 # game/logic/events/victoria.rpy:1499
 translate chinese Victoria_12_label_7ec553d0:
 
     # Victoria "The thing is, we've noticed that freshmen react to ghosts very strangely."
-    Victoria ""
+    Victoria "问题是，我们注意到新生对幽灵的反应非常奇怪。"
 
 # game/logic/events/victoria.rpy:1500
 translate chinese Victoria_12_label_69b5dec6:
 
     # Victoria "One of your classmates didn't even come to my lesson..."
-    Victoria ""
+    Victoria "你的一个同学甚至没来上我的课。。。"
 
 # game/logic/events/victoria.rpy:1501
 translate chinese Victoria_12_label_78dc176c:
 
     # Victoria "...because he was scared of a ghost in the Main hall."
-    Victoria ""
+    Victoria "。。。因为他害怕大厅里有鬼魂。"
 
 # game/logic/events/victoria.rpy:1502
 translate chinese Victoria_12_label_0608fbe0:
 
     # Victoria "Nonsense!"
-    Victoria ""
+    Victoria "胡扯！"
 
 # game/logic/events/victoria.rpy:1503
 translate chinese Victoria_12_label_f72b514b:
 
     # ch_Name "{i}(Who's she talking about?){/i}"
-    ch_Name ""
+    ch_Name "{i}（她在说谁？）{/i}"
 
 # game/logic/events/victoria.rpy:1505
 translate chinese Victoria_12_label_a16b845f:
 
     # Victoria "Ghosts have always lived in this castle. "
-    Victoria ""
+    Victoria "幽灵一直住在这座城堡里。"
 
 # game/logic/events/victoria.rpy:1506
 translate chinese Victoria_12_label_9162c35c:
 
     # Victoria "The Cordale Academy is their home, just like yours and mine."
-    Victoria ""
+    Victoria " Cordale学院是他们的家，就像你和我的一样。"
 
 # game/logic/events/victoria.rpy:1507
 translate chinese Victoria_12_label_a8a36fa8:
 
     # Victoria "However, the protective barrier separates our worlds."
-    Victoria ""
+    Victoria "然而，保护屏障将我们的世界分隔开来。"
 
 # game/logic/events/victoria.rpy:1508
 translate chinese Victoria_12_label_95134f6a:
 
     # Victoria "You can thank the founders who put it..."
-    Victoria ""
+    Victoria "你可以感谢创始人把它。。。"
 
 # game/logic/events/victoria.rpy:1509
 translate chinese Victoria_12_label_88298a88:
 
     # Victoria "...in order to ensure the safety of many generations of students to come."
-    Victoria ""
+    Victoria "...为了确保未来几代学生的安全。"
 
 # game/logic/events/victoria.rpy:1510
 translate chinese Victoria_12_label_b60113af:
 
     # ch_Name "{i}(Well, it’s definitely a good thing there’s this barrier.){/i}"
-    ch_Name ""
+    ch_Name "{i}（嗯，有这样的障碍肯定是件好事。）{/i}"
 
 # game/logic/events/victoria.rpy:1512
 translate chinese Victoria_12_label_e03137dc:
 
     # Victoria "As you may guess, this protection..."
-    Victoria ""
+    Victoria "正如你猜到的，这种保护。。。"
 
 # game/logic/events/victoria.rpy:1513
 translate chinese Victoria_12_label_b1ad3358:
 
     # Victoria "...makes any ghost activities harmless to all wizards within these walls."
-    Victoria ""
+    Victoria "。。。使任何幽灵活动对这些墙内的所有巫师无害。"
 
 # game/logic/events/victoria.rpy:1514
 translate chinese Victoria_12_label_c8cc718e:
 
     # Victoria "We still can hear and see them, surely. "
-    Victoria ""
+    Victoria "当然，我们仍然可以听到和看到它们。"
 
 # game/logic/events/victoria.rpy:1515
 translate chinese Victoria_12_label_ca3215ad:
 
     # Victoria "That allows us to communicate with ghosts."
-    Victoria ""
+    Victoria "这让我们可以和幽灵交流。"
 
 # game/logic/events/victoria.rpy:1516
 translate chinese Victoria_12_label_42a3e4d9:
 
     # Victoria "But I will repeat one clear and uncontested truth: they can't hurt you physically."
-    Victoria ""
+    Victoria "但我要重复一个明确且无可争议的事实：它们不会伤害你的肉身。"
 
 # game/logic/events/victoria.rpy:1518
 translate chinese Victoria_12_label_44c17c66:
 
     # Victoria "Yes, Gabriella, please."
-    Victoria ""
+    Victoria "好的，Gabriella，请讲。"
 
 # game/logic/events/victoria.rpy:1520
 translate chinese Victoria_12_label_7ab0c8ff:
 
     # Gabriella "I’m sorry, miss, but some ghosts seem pretty rude and aggressive."
-    Gabriella ""
+    Gabriella "对不起，小姐，有些幽灵看起来很粗鲁，很有攻击性。"
 
 # game/logic/events/victoria.rpy:1521
 translate chinese Victoria_12_label_9e89bfa3:
 
     # Gabriella "At first sight you wouldn't say they're harmless."
-    Gabriella ""
+    Gabriella "乍一看，你不会说它们是无害的。"
 
 # game/logic/events/victoria.rpy:1522
 translate chinese Victoria_12_label_893f223b:
 
     # Victoria "Even if a ghost acts provocatively, hold your nerve."
-    Victoria ""
+    Victoria "即使幽灵有挑衅行为，也要保持冷静。"
 
 # game/logic/events/victoria.rpy:1523
 translate chinese Victoria_12_label_b071371f:
 
     # Victoria "It can't hurt you.{w} To be more precise, it can't do anything to you at all."
-    Victoria ""
+    Victoria "它不会伤害你的。{w} 更准确地说，它根本不能对你做任何事。"
 
 # game/logic/events/victoria.rpy:1524
 translate chinese Victoria_12_label_64ff03a0:
 
     # Victoria "Just remember it."
-    Victoria ""
+    Victoria "记住这一点。"
 
 # game/logic/events/victoria.rpy:1525
 translate chinese Victoria_12_label_b5be7b94:
 
     # Victoria "The best possible option is to ignore them."
-    Victoria ""
+    Victoria "最好的选择是忽略它们。"
 
 # game/logic/events/victoria.rpy:1527
 translate chinese Victoria_12_label_9c6cab5d:
 
     # Victoria "If you don't pay attention to a ghost, then it won't bother you."
-    Victoria ""
+    Victoria "如果你不注意幽灵，它就不会打扰你。"
 
 # game/logic/events/victoria.rpy:1528
 translate chinese Victoria_12_label_662cac3d:
 
     # Victoria "This rule works perfectly."
-    Victoria ""
+    Victoria "这条规则非常有效。"
 
 # game/logic/events/victoria.rpy:1529
 translate chinese Victoria_12_label_19b775de:
 
     # Victoria "So, please, stop this ridiculous panic."
-    Victoria ""
+    Victoria "所以，请停止这种荒谬的恐慌。"
 
 # game/logic/events/victoria.rpy:1530
 translate chinese Victoria_12_label_00021192:
 
     # Victoria "Class dismissed. You may go."
-    Victoria ""
+    Victoria "下课了。你们可以走了。"
 
 # game/logic/events/victoria.rpy:1537
 translate chinese Victoria_12_label_78f19eb4:
 
     # Carter "Man, this lesson sucked. Nothing interesting happened."
-    Carter ""
+    Carter "老兄，这一课糟透了。没发生什么有趣的事。"
 
 # game/logic/events/victoria.rpy:1538
 translate chinese Victoria_12_label_7ce9598f:
 
     # ch_Name "What were you expecting?"
-    ch_Name ""
+    ch_Name "你在期待什么？"
 
 # game/logic/events/victoria.rpy:1539
 translate chinese Victoria_12_label_82f417bb:
 
     # Carter "They say at last class Victoria's blouse button came undone..."
-    Carter ""
+    Carter "他们说在最后一节课上Victoria的衬衫纽扣被解开了。。。"
 
 # game/logic/events/victoria.rpy:1540
 translate chinese Victoria_12_label_479307f7:
 
     # Carter "And you could see her bra. Too bad I missed it."
-    Carter ""
+    Carter "你可以看到她的胸罩。可惜我错过了。"
 
 # game/logic/events/victoria.rpy:1541
 translate chinese Victoria_12_label_c6aa2781:
 
     # ch_Name "Yeah."
-    ch_Name ""
+    ch_Name "好吧。"
 
 # game/logic/events/victoria.rpy:1542
 translate chinese Victoria_12_label_0ebb7dec:
 
     # ch_Name "{i}(So what... After what I've seen, it's nothing.){/i}"
-    ch_Name ""
+    ch_Name "{i}（那又怎么样。。。就我所见，这算不了什么。）{/i}"
 
 # game/logic/events/victoria.rpy:1543
 translate chinese Victoria_12_label_c1206a81:
 
     # Carter "Well, maybe we'll get lucky today."
-    Carter ""
+    Carter "也许我们今天会走运。"
 
 # game/logic/events/victoria.rpy:1545
 translate chinese Victoria_12_label_e4b64451:
 
     # Joshi "Hey, guys!"
-    Joshi ""
+    Joshi "嘿，伙计们！"
 
 # game/logic/events/victoria.rpy:1546
 translate chinese Victoria_12_label_78c0a4b2:
 
     # Joshi "I think I know why Victoria told us about ghosts all of a sudden."
-    Joshi ""
+    Joshi "我想我知道为什么Victoria突然告诉我们幽灵的事了。"
 
 # game/logic/events/victoria.rpy:1547
 translate chinese Victoria_12_label_30c48915:
 
     # ch_Name "Yeah? Spit it out."
-    ch_Name ""
+    ch_Name "啊？说啊。"
 
 # game/logic/events/victoria.rpy:1548
 translate chinese Victoria_12_label_ac04b3b6:
 
     # Joshi "Guys from Martenden told me that there's something crazy going on in the Main hall at night."
-    Joshi ""
+    Joshi "Martenden的人告诉我晚上大厅里发生了疯狂的事情。"
 
 # game/logic/events/victoria.rpy:1549
 translate chinese Victoria_12_label_30aa631f:
 
     # Carter "What kind of crazy?"
-    Carter ""
+    Carter "怎么个疯法？"
 
 # game/logic/events/victoria.rpy:1551
 translate chinese Victoria_12_label_0b4e6b88:
 
     # Joshi "They say they've been hearing women crying at night for days now."
-    Joshi ""
+    Joshi "他们说他们已经在晚上听到女人的哭声好几天了。"
 
 # game/logic/events/victoria.rpy:1552
 translate chinese Victoria_12_label_d830c37c:
 
     # Joshi "It's like she cries for help. But no matter how hard they look, they don't find anyone!"
-    Joshi ""
+    Joshi "她好像在呼救。但不管他们怎么努力，他们都找不到任何人！"
 
 # game/logic/events/victoria.rpy:1553
 translate chinese Victoria_12_label_d5e2aec4:
 
     # ch_Name "{i}(Hmm, sounds interesting.){/i}"
-    ch_Name ""
+    ch_Name "{i}（嗯，听起来很有趣。）{/i}"
 
 # game/logic/events/victoria.rpy:1554
 translate chinese Victoria_12_label_2dcf551f:
 
     # Carter "Oh, come on, that's all a story? Probably just ghosts fooling around. Let's go to class."
-    Carter ""
+    Carter "拜托，这都是故事？可能只是幽灵在搞怪。我们去上课吧。"
 
 # game/logic/events/victoria.rpy:1555
 translate chinese Victoria_12_label_0ff2a7c4:
 
     # Joshi "I don't know, what if it's something else? It wasn't there before..."
-    Joshi ""
+    Joshi "我不知道，如果是别的呢？它以前不在那里。。。"
 
 # game/logic/events/victoria.rpy:1557
 translate chinese Victoria_12_label_722c401c:
 
     # Carter "Just go there and check, mhm? In the middle of the night, obviously."
-    Carter ""
+    Carter "去看看，嗯？在半夜，很明显。"
 
 # game/logic/events/victoria.rpy:1558
 translate chinese Victoria_12_label_e8b0883f:
 
     # Joshi "No-no, even after Victoria's lesson I still don't believe ghosts are totally harmless."
-    Joshi ""
+    Joshi "不，不，即使在Victoria的课之后，我仍然不相信幽灵是完全无害的。"
 
 # game/logic/events/victoria.rpy:1559
 translate chinese Victoria_12_label_05d66bcf:
 
     # Joshi "You'll never make me go to the Main hall at night."
-    Joshi ""
+    Joshi "你永远不能让我晚上去大厅。"
 
 # game/logic/events/victoria.rpy:1560
 translate chinese Victoria_12_label_654e1d82:
 
     # ch_Name "{i}(What is going on there while all students are sleeping?){/i}"
-    ch_Name ""
+    ch_Name "{i}（当所有学生都在睡觉时，那里发生了什么？）{/i}"
 
 # game/logic/events/victoria.rpy:1561
 translate chinese Victoria_12_label_432aa071:
 
     # ch_Name "{i}(Maybe I should look in there sometime and check it out for myself.){/i}"
-    ch_Name ""
+    ch_Name "{i}（也许我该找个时间进去看看。）{/i}"
 
 # game/logic/events/victoria.rpy:1562
 translate chinese Victoria_12_label_f469130c:
 
     # ch_Name "{i}(And here is another mystery!){/i}"
-    ch_Name ""
+    ch_Name "{i}（还有一个谜团！）{/i}"
 
 # game/logic/events/victoria.rpy:1564
 translate chinese Victoria_12_label_8638da8f:
 
     # Joshi "Yo, [Name], if you wanna make it to the next class, catch up."
-    Joshi ""
+    Joshi "哟，[Name]，如果你想赶上下一节课，就跟上来。"
 
 # game/logic/events/victoria.rpy:1565
 translate chinese Victoria_12_label_21c35f6a:
 
     # ch_Name "Yeah, yeah, give a minute, I gotta think..."
-    ch_Name ""
+    ch_Name "是的，是的，等一下，我得想想。。。"
 
