@@ -22105,7 +22105,7 @@ translate chinese strings:
 
     # game/logic/events/audrey.rpy:5809
     old "Advise her not to go anywhere"
-    new "Advise her not to go anywhere"
+    new "劝她哪儿也别去"
 
 # TODO: Translation updated at 2022-03-30 01:40
 
@@ -22113,47 +22113,47 @@ translate chinese strings:
 translate chinese Audrey_3_label_140b7f45:
 
     # Audrey "I mean, it just happened. That's all you need to know."
-    Audrey ""
+    Audrey "我的意思是，它刚刚发生。这就是你需要知道的一切。"
 
 # game/logic/events/audrey.rpy:5577
 translate chinese Audrey_13_label_42eff3f8:
 
     # ch_Name "{i}(Gosh, I was so close.){/i}"
-    ch_Name ""
+    ch_Name "{i}（天哪，我离得太近了。）{/i}"
 
 # game/logic/events/audrey.rpy:5578
 translate chinese Audrey_13_label_92245276:
 
     # ch_Name "{i}(I can still feel her on my fingers.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我仍然能感觉到她在我的手指上。）{/i}"
 
 # game/logic/events/audrey.rpy:5579
 translate chinese Audrey_13_label_414598ac:
 
     # ch_Name "{i}(Stupid fucking elves who distracted us...){/i}"
-    ch_Name ""
+    ch_Name "{i}（那些让我们分心的蠢精灵。。。）{/i}"
 
 # game/logic/events/audrey.rpy:5580
 translate chinese Audrey_13_label_9b0e250d:
 
     # ch_Name "{i}(To think Haley was ready to go all the way and that happed.){/i}"
-    ch_Name ""
+    ch_Name "{i}（想到海莉已经准备好走完这条路，事情就发生了。）{/i}"
 
 # game/logic/events/audrey.rpy:5581
 translate chinese Audrey_13_label_9f77fb36:
 
     # ch_Name "{i}(FUCK.){/i}"
-    ch_Name ""
+    ch_Name "{i}（操。）{/i}"
 
 # game/logic/events/audrey.rpy:5582
 translate chinese Audrey_13_label_56a3a200:
 
     # ch_Name "{i}(I should go to sleep.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我该去睡觉了。）{/i}"
 
 # game/logic/events/audrey.rpy:5583
 translate chinese Audrey_13_label_c4edcc12:
 
     # ch_Name "{i}(I'm too angry to do anything else anyway.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我已经气到无法做别的事了。）{/i}"
 
