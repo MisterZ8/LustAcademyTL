@@ -10258,7 +10258,7 @@ translate chinese Lily_9_label_ab4a186b:
 # game/logic/events/lily.rpy:2915
 translate chinese Lily_9_label_11056f22:
 
-    # ch_Name "Sounds just...{w} Pretty cool, yeah!"
+    # ch_Name "Sounds just great!"
     ch_Name "听起来真不错!"
 
 # game/logic/events/lily.rpy:2916
@@ -11017,473 +11017,473 @@ translate chinese strings:
 translate chinese Lily_CF_3_label_7d68505f:
 
     # ch_Name "{i}(Oh, my head...){/i}"
-    ch_Name ""
+    ch_Name "{i}（哦，我的头。。。）{/i}"
 
 # game/logic/events/lily.rpy:2678
 translate chinese Lily_CF_3_label_092247aa:
 
     # ch_Name "{i}(It still hurts.){/i}"
-    ch_Name ""
+    ch_Name "{i}（还是很痛。）{/i}"
 
 # game/logic/events/lily.rpy:2679
 translate chinese Lily_CF_3_label_11af1f67:
 
     # ch_Name "{i}(But it's much better than yesterday, it's for sure.){/i}"
-    ch_Name ""
+    ch_Name "{i}（但肯定比昨天好多了。）{/i}"
 
 # game/logic/events/lily.rpy:2681
 translate chinese Lily_CF_3_label_dac70333:
 
     # ch_Name "{i}(Oh, Adele...){/i}"
-    ch_Name ""
+    ch_Name "{i}（哦，Adele。。。）{/i}"
 
 # game/logic/events/lily.rpy:2682
 translate chinese Lily_CF_3_label_19db10fb:
 
     # ch_Name "{i}(I'd better check out if she's okay.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我最好看看她是否没事。）{/i}"
 
 # game/logic/events/lily.rpy:2683
 translate chinese Lily_CF_3_label_8e55348f:
 
     # ch_Name "{i}(I hope she took care of Diego for good.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我希望她永远照顾Diego。）{/i}"
 
 # game/logic/events/lily.rpy:2690
 translate chinese Lily_CF_3_label_70e8802a:
 
     # Mina "Good morning, [Name]!"
-    Mina ""
+    Mina "早上好，[Name]！"
 
 # game/logic/events/lily.rpy:2691
 translate chinese Lily_CF_3_label_c73e6b50:
 
     # ch_Name "Hey there."
-    ch_Name ""
+    ch_Name "你好。"
 
 # game/logic/events/lily.rpy:2692
 translate chinese Lily_CF_3_label_9f75b84d:
 
     # Mina "Any plans for today?"
-    Mina ""
+    Mina "今天有什么计划吗？"
 
 # game/logic/events/lily.rpy:2693
 translate chinese Lily_CF_3_label_1f94afd3:
 
     # ch_Name "Oh, you know... I just need to check if my friend is okay. Good luck!"
-    ch_Name ""
+    ch_Name "哦，你知道。。。我只需要看看我朋友是否没事。祝你好运！"
 
 # game/logic/events/lily.rpy:2694
 translate chinese Lily_CF_3_label_13c8cd39:
 
     # Mina "Bye! Have a nice day!"
-    Mina ""
+    Mina "再见！祝您有个美好的一天！"
 
 # game/logic/events/lily.rpy:2701
 translate chinese Lily_CF_3_label_cf6661f2:
 
     # ch_Name "{i}(Damn it! It's closed.){/i}"
-    ch_Name ""
+    ch_Name "{i}（该死的！关门了。）{/i}"
 
 # game/logic/events/lily.rpy:2702
 translate chinese Lily_CF_3_label_0e616f79:
 
     # ch_Name "{i}(I should've expected this. The club is always closed in the morning.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我早该料到的。俱乐部早上总是关门。）{/i}"
 
 # game/logic/events/lily.rpy:2703
 translate chinese Lily_CF_3_label_5be912cf:
 
     # ch_Name "{i}(Why on earth I never cared to ask for her phone number...){/i}"
-    ch_Name ""
+    ch_Name "{i}（为什么我从来不想问她的电话号码。。。）{/i}"
 
 # game/logic/events/lily.rpy:2705
 translate chinese Lily_CF_3_label_6db2bba2:
 
     # ch_Name "{i}(Fuck...){/i}"
-    ch_Name ""
+    ch_Name "{i}（操。。。）{/i}"
 
 # game/logic/events/lily.rpy:2706
 translate chinese Lily_CF_3_label_4e2759d0:
 
     # ch_Name "{i}(Well, It's nothing I can do for now. Might as well get some coffee.){/i}"
-    ch_Name ""
+    ch_Name "{i}（好吧，现在我无能为力。不如喝点咖啡吧。）{/i}"
 
 # game/logic/events/lily.rpy:2713
 translate chinese Lily_CF_3_label_85ca7b49:
 
     # ch_Name "{i}(Oh, is that Lily?){/i}"
-    ch_Name ""
+    ch_Name "{i}（哦，那是Lily吗？）{/i}"
 
 # game/logic/events/lily.rpy:2714
 translate chinese Lily_CF_3_label_167e2656:
 
     # ch_Name "{i}(I still feel like crap, but...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我还是觉得很糟糕，但是。。。）{/i}"
 
 # game/logic/events/lily.rpy:2715
 translate chinese Lily_CF_3_label_f8dd926b:
 
     # ch_Name "{i}(I think I can still enjoy her company.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我想我仍然可以享受她的陪伴。）{/i}"
 
 # game/logic/events/lily.rpy:2776
 translate chinese Lily_CF_3_label_25cc4967:
 
     # ch_Name "{i}(Well, Lily sure brought some life into me.){/i}"
-    ch_Name ""
+    ch_Name "{i}（Lily确实给我带来了活力。）{/i}"
 
 # game/logic/events/lily.rpy:2777
 translate chinese Lily_CF_3_label_e2f080cf:
 
     # ch_Name "{i}(Even my headache has almost gone.){/i}"
-    ch_Name ""
+    ch_Name "{i}（连我的头痛都快好了。）{/i}"
 
 # game/logic/events/lily.rpy:2778
 translate chinese Lily_CF_3_label_02ede184:
 
     # ch_Name "{i}(But I still can enjoy some coffee.){/i}"
-    ch_Name ""
+    ch_Name "{i}（但我还是可以喝点咖啡。）{/i}"
 
 # game/logic/events/lily.rpy:2781
 translate chinese Lily_CF_3_label_a476447c:
 
     # ch_Name "{i}(Oh, what a majestic smell of fresh coffee!){/i}"
-    ch_Name ""
+    ch_Name "{i}（哦，新鲜咖啡的味道好极了！）{/i}"
 
 # game/logic/events/lily.rpy:2782
 translate chinese Lily_CF_3_label_5077876c:
 
     # ch_Name "{i}(I love this place!){/i}"
-    ch_Name ""
+    ch_Name "{i}（我爱这个地方！）{/i}"
 
 # game/logic/events/lily.rpy:2913
 translate chinese Lily_9_label_e741fe16:
 
     # ch_Name "{i}(I don't get why Sam got so angry. I did it for her.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我不明白Sam为什么这么生气。我是为她做的。）{/i}"
 
 # game/logic/events/lily.rpy:2914
 translate chinese Lily_9_label_4b0bd58c:
 
     # ch_Name "{i}(Maybe she's just worried for me.){/i}"
-    ch_Name ""
+    ch_Name "{i}（也许她只是为我担心。）{/i}"
 
 # game/logic/events/lily.rpy:2915
 translate chinese Lily_9_label_9b444bfe:
 
     # ch_Name "{i}(But I can handle it. I just have to show her how strong I am.){/i}"
-    ch_Name ""
+    ch_Name "{i}（但我能应付。我要让她知道我有多坚强）{/i}"
 
 # game/logic/events/lily.rpy:2916
 translate chinese Lily_9_label_532ca8b0:
 
     # ch_Name "{i}(Anyway, I can still make it to the potions class in time for Sabrina's lesson.){/i}"
-    ch_Name ""
+    ch_Name "{i}（不管怎样，我还是能及时赶到魔药课，赶上Sabrina的课。）{/i}"
 
 # game/logic/events/lily.rpy:2917
 translate chinese Lily_9_label_ab5b96e9:
 
     # ch_Name "{i}(No need to waste all the day because of this meeting.){/i}"
-    ch_Name ""
+    ch_Name "{i}（没有必要因为这次会议而浪费一整天。）{/i}"
 
 # game/logic/events/lily.rpy:2924
 translate chinese Lily_9_label_93cb46ce:
 
     # ch_Name "{i}(I wonder if we can use potions during the tournament.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我想知道我们能否在比赛期间使用药剂。）{/i}"
 
 # game/logic/events/lily.rpy:2925
 translate chinese Lily_9_label_f0cde9e9:
 
     # ch_Name "{i}(If so, I should get my inventory ready.){/i}"
-    ch_Name ""
+    ch_Name "{i}（如果是这样，我应该准备好我的库存。）{/i}"
 
 # game/logic/events/lily.rpy:2926
 translate chinese Lily_9_label_28abd496:
 
     # ch_Name "{i}(Those participants are way more experienced than I am.){/i}"
-    ch_Name ""
+    ch_Name "{i}（这些参与者比我更有经验。）{/i}"
 
 # game/logic/events/lily.rpy:2927
 translate chinese Lily_9_label_fec4b43c:
 
     # ch_Name "{i}(Maybe I should even ask Sabrina to teach me some advanced potions.){/i}"
-    ch_Name ""
+    ch_Name "{i}（也许我该要求Sabrina教我一些高级药剂。）{/i}"
 
 # game/logic/events/lily.rpy:2934
 translate chinese Lily_9_label_70c0a916:
 
     # ch_Name "{i}(Oh, what luck!){/i}"
-    ch_Name ""
+    ch_Name "{i}（哦，真幸运！）{/i}"
 
 # game/logic/events/lily.rpy:2935
 translate chinese Lily_9_label_57cf9004:
 
     # ch_Name "{i}(I still have time before the class begins.){/i}"
-    ch_Name ""
+    ch_Name "{i}（上课前我还有时间。）{/i}"
 
 # game/logic/events/lily.rpy:2936
 translate chinese Lily_9_label_0c3122d0:
 
     # ch_Name "{i}(And Lily is here already.){/i}"
-    ch_Name ""
+    ch_Name "{i}（Lily已经来了。）{/i}"
 
 # game/logic/events/lily.rpy:2937
 translate chinese Lily_9_label_04a7b558:
 
     # ch_Name "{i}(I had no chance to talk to her about everything that happened to us.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我没有机会和她谈我们身上发生的一切。）{/i}"
 
 # game/logic/events/lily.rpy:2938
 translate chinese Lily_9_label_fa7fc846:
 
     # ch_Name "{i}(Maybe this is the right time...){/i}"
-    ch_Name ""
+    ch_Name "{i}（也许现在正是时候。。。）{/i}"
 
 # game/logic/events/lily.rpy:3009
 translate chinese Lily_9_label_0a6d54f5:
 
     # Sabrina "Greetings, class!"
-    Sabrina ""
+    Sabrina "同学们，大家好！"
 
 # game/logic/events/lily.rpy:3010
 translate chinese Lily_9_label_0ae04382:
 
     # Sabrina "Glad to see you all!"
-    Sabrina ""
+    Sabrina "很高兴见到你们！"
 
 # game/logic/events/lily.rpy:3011
 translate chinese Lily_9_label_93d0decb:
 
     # Sabrina "Today we're going to mix the alternative formula of potions of reflection."
-    Sabrina ""
+    Sabrina "今天我们将混合反射药剂的替代配方。"
 
 # game/logic/events/lily.rpy:3013
 translate chinese Lily_9_label_cabba38a:
 
     # Sabrina "I know some of you have already learned the new formula."
-    Sabrina ""
+    Sabrina "我知道你们中的一些人已经学会了新的配方。"
 
 # game/logic/events/lily.rpy:3014
 translate chinese Lily_9_label_e69ee018:
 
     # Sabrina "So who wants to get here and show other students how it's done?"
-    Sabrina ""
+    Sabrina "那么，谁想来到这里，向其他学生展示它是如何做到的呢？"
 
 # game/logic/events/lily.rpy:3015
 translate chinese Lily_9_label_1696d737:
 
     # Grace "Can I, miss Spellman?"
-    Grace ""
+    Grace "我可以吗，Spellman小姐？"
 
 # game/logic/events/lily.rpy:3022
 translate chinese Lily_9_label_a14fd8b2:
 
     # Grace "Am I swirling it right?"
-    Grace ""
+    Grace "我转的对吗？"
 
 # game/logic/events/lily.rpy:3023
 translate chinese Lily_9_label_05e1b3ae:
 
     # Sabrina "Oh yes, Grace, it looks very good."
-    Sabrina ""
+    Sabrina "哦，是的，Grace，看起来很不错。"
 
 # game/logic/events/lily.rpy:3024
 translate chinese Lily_9_label_61125c7b:
 
     # Sabrina "You're getting better at this with every lesson! I'm so proud..."
-    Sabrina ""
+    Sabrina "每节课你都在进步！我很骄傲。。。"
 
 # game/logic/events/lily.rpy:3031
 translate chinese Lily_9_label_257fa89e:
 
     # Sabrina "Thank you, Grace, for that fantastic display of skill!"
-    Sabrina ""
+    Sabrina "谢谢你，Grace，谢谢你出色的技巧展示！"
 
 # game/logic/events/lily.rpy:3032
 translate chinese Lily_9_label_dad3c904:
 
     # Sabrina "That will be all for today! Have a lovely evening, guys!"
-    Sabrina ""
+    Sabrina "今天就这些了！祝大家晚上愉快！"
 
 # game/logic/events/lily.rpy:3039
 translate chinese Lily_9_label_9ad107c9:
 
     # ch_Name "Hey, Miss Spellman..."
-    ch_Name ""
+    ch_Name "嘿，Spellman小姐。。。"
 
 # game/logic/events/lily.rpy:3040
 translate chinese Lily_9_label_32d74168:
 
     # ch_Name "Could I talk with you for a second?"
-    ch_Name ""
+    ch_Name "我能和你谈谈吗？"
 
 # game/logic/events/lily.rpy:3041
 translate chinese Lily_9_label_e12fe3cb:
 
     # ch_Name "I wondered if you could help me prepare for the Tournament of wizards."
-    ch_Name ""
+    ch_Name "我想知道你能否帮我准备巫师锦标赛。"
 
 # game/logic/events/lily.rpy:3043
 translate chinese Lily_9_label_786dab74:
 
     # Sabrina "Wait a minute! Have you just said \"Tournament of wizards\"?"
-    Sabrina ""
+    Sabrina "等一下！你刚才说过“巫师锦标赛”吗？"
 
 # game/logic/events/lily.rpy:3044
 translate chinese Lily_9_label_672c1d5e:
 
     # ch_Name "Well, yeah. Why?"
-    ch_Name ""
+    ch_Name "嗯，是的。怎么了？"
 
 # game/logic/events/lily.rpy:3045
 translate chinese Lily_9_label_3b4ed2d3:
 
     # Sabrina "I thought it was only for second-year students or higher."
-    Sabrina ""
+    Sabrina "我以为这只适对二年级或更高年级的学生开放。"
 
 # game/logic/events/lily.rpy:3047
 translate chinese Lily_9_label_45b40905:
 
     # Sabrina "Are you sure you are allowed to participate, [Name]?"
-    Sabrina ""
+    Sabrina "你确定你被允许参加，[Name]？"
 
 # game/logic/events/lily.rpy:3048
 translate chinese Lily_9_label_9b2535b2:
 
     # Sabrina "This could be really dangerous to you."
-    Sabrina ""
+    Sabrina "这对你来说真的很危险。"
 
 # game/logic/events/lily.rpy:3050
 translate chinese Lily_9_label_20f19783:
 
     # ch_Name "Well, you know I was never afraid of danger."
-    ch_Name ""
+    ch_Name "你知道我从不害怕危险。"
 
 # game/logic/events/lily.rpy:3051
 translate chinese Lily_9_label_c14e897a:
 
     # ch_Name "Besides, what should I be afraid of if I have such an amazing teacher."
-    ch_Name ""
+    ch_Name "此外，如果我有这么一位了不起的老师，我该害怕什么呢。"
 
 # game/logic/events/lily.rpy:3052
 translate chinese Lily_9_label_83df01f6:
 
     # ch_Name "But I don't think my potions arsenal can match other participants."
-    ch_Name ""
+    ch_Name "但我认为我的药剂库无法与其他参与者匹敌。"
 
 # game/logic/events/lily.rpy:3053
 translate chinese Lily_9_label_750fc1fd:
 
     # ch_Name "Maybe you could help me learn more potent potions? Just in case."
-    ch_Name ""
+    ch_Name "也许你能帮我学习更有效的药剂？以防万一。"
 
 # game/logic/events/lily.rpy:3055
 translate chinese Lily_9_label_5b062a59:
 
     # Sabrina "Well, if you've made up your mind about this Tournament."
-    Sabrina ""
+    Sabrina "好吧，如果你已经决定参加这次比赛的话。"
 
 # game/logic/events/lily.rpy:3056
 translate chinese Lily_9_label_6a70dd7a:
 
     # Sabrina "It's the least that I can do to make sure my best student isn't killed."
-    Sabrina ""
+    Sabrina "我至少能确保我最好的学生不被杀。"
 
 # game/logic/events/lily.rpy:3057
 translate chinese Lily_9_label_bde31fce:
 
     # Sabrina "So yeah, I'll help you."
-    Sabrina ""
+    Sabrina "所以，好的，我会帮你的。"
 
 # game/logic/events/lily.rpy:3058
 translate chinese Lily_9_label_81208865:
 
     # ch_Name "Thanks, Sabrina! I mean, miss Spellman. You're the best!"
-    ch_Name ""
+    ch_Name "谢谢，Sabrina！我是说Spellman小姐。你是最棒的！"
 
 # game/logic/events/lily.rpy:3059
 translate chinese Lily_9_label_681738d9:
 
     # ch_Name "Oops, I have to run. Lily will be waiting for me."
-    ch_Name ""
+    ch_Name "哎呀，我得走了。Lily会等我的。"
 
 # game/logic/events/lily.rpy:3061
 translate chinese Lily_9_label_bcde3702:
 
     # Sabrina "Sure."
-    Sabrina ""
+    Sabrina "好。"
 
 # game/logic/events/lily.rpy:3062
 translate chinese Lily_9_label_6b850326:
 
     # Sabrina "Take care!"
-    Sabrina ""
+    Sabrina "小心点！"
 
 # game/logic/events/lily.rpy:3064
 translate chinese Lily_9_label_3ad12c14:
 
     # ch_Name "{i}(I'm so lucky to have miss Spellman on my side.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我很幸运有Spellman小姐在我身边。）{/i}"
 
 # game/logic/events/lily.rpy:3065
 translate chinese Lily_9_label_d6bcd4c9:
 
     # ch_Name "{i}(Now I just need to get to my room in time. It's rude to make Lily wait for too long.){/i}"
-    ch_Name ""
+    ch_Name "{i}（现在我只需要即使赶回我的房间。让Lily等我太久很没有礼貌。）{/i}"
 
 # game/logic/events/lily.rpy:3249
 translate chinese Lily_10_label_8d6f66c3:
 
     # ch_Name "{i}(Oh, by the way... Speaking of meeting Leona.){/i}"
-    ch_Name ""
+    ch_Name "{i}（哦，顺便。。。说下与Leona的约见。）{/i}"
 
 # game/logic/events/lily.rpy:3250
 translate chinese Lily_10_label_f98052f3:
 
     # ch_Name "{i}(She's probably waiting for me to return the Seal.){/i}"
-    ch_Name ""
+    ch_Name "{i}（她可能在等我归还封印。）{/i}"
 
 # game/logic/events/lily.rpy:3251
 translate chinese Lily_10_label_0e0b591f:
 
     # ch_Name "{i}(I'd better be going.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我最好走了。）{/i}"
 
 # game/logic/events/lily.rpy:3258
 translate chinese Lily_10_label_e85ab428:
 
     # ch_Name "{i}(I can't even imagine how mad she is at me.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我甚至无法想象她对我有多生气。）{/i}"
 
 # game/logic/events/lily.rpy:3259
 translate chinese Lily_10_label_ab672c20:
 
     # ch_Name "{i}(I hope there won't be tons of \"I told you so\".){/i}"
-    ch_Name ""
+    ch_Name "{i}（我希望不会有太多的“我早就告诉过你了”。）{/i}"
 
 # game/logic/events/lily.rpy:3260
 translate chinese Lily_10_label_24aea8d9:
 
     # ch_Name "{i}(Because she did tell me to be careful with the Seal.){/i}"
-    ch_Name ""
+    ch_Name "{i}（因为她告诉我要小心封印。）{/i}"
 
 # game/logic/events/lily.rpy:3261
 translate chinese Lily_10_label_cd15c347:
 
     # ch_Name "{i}(And I failed her.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我辜负了她。）{/i}"
 
 # game/logic/events/lily.rpy:3262
 translate chinese Lily_10_label_593e721e:
 
     # ch_Name "{i}(I guess I've earned everything she's going to tell me.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我想她要告诉我的一切都是我活该。）{/i}"
 
 # game/logic/events/lily.rpy:3263
 translate chinese Lily_10_label_de3b9f19:
 
     # ch_Name "{i}(Alright, here we go...){/i}"
-    ch_Name ""
+    ch_Name "{i}（好了，我们开始。。。）{/i}"
 
