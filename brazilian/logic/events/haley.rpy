@@ -784,67 +784,67 @@ translate brazilian Haley_3_label_37a799c4:
 translate brazilian Haley_3_label_5e27b2af:
 
     # ch_Name "I've been looking at your boobs for a long time!"
-    ch_Name ""
+    ch_Name "Eu estava olhando para seus peitos por um bom tempo!"
 
 # game/logic/events/haley.rpy:430
 translate brazilian Haley_3_label_4c61576c:
 
     # Haley "There! That's what I'm talking about!"
-    Haley ""
+    Haley "Aí! É disso que eu estava falando!"
 
 # game/logic/events/haley.rpy:431
 translate brazilian Haley_3_label_6d5eb6b8:
 
     # ch_Name "I'm a multifaceted person."
-    ch_Name ""
+    ch_Name "Sou uma pessoa multifacetada."
 
 # game/logic/events/haley.rpy:432
 translate brazilian Haley_3_label_d6f40943:
 
     # Haley "Forget it."
-    Haley ""
+    Haley "Esquece."
 
 # game/logic/events/haley.rpy:439
 translate brazilian Haley_3_label_f8a9adee:
 
     # ch_Name "About your eyes."
-    ch_Name ""
+    ch_Name "Sobre seus olhos."
 
 # game/logic/events/haley.rpy:441
 translate brazilian Haley_3_label_53319468:
 
     # Haley "W-what, excuse me?"
-    Haley ""
+    Haley "O-o quê, desculpa?"
 
 # game/logic/events/haley.rpy:442
 translate brazilian Haley_3_label_83c31c2e:
 
     # ch_Name "I didn't mean to sound creepy..."
-    ch_Name ""
+    ch_Name "Não quis parecer estranho..."
 
 # game/logic/events/haley.rpy:444
 translate brazilian Haley_3_label_3bf803fb:
 
     # ch_Name "It's just, I don't know if it's the magic in the air..."
-    ch_Name ""
+    ch_Name "É que, não sei se é a mágica no ar..."
 
 # game/logic/events/haley.rpy:445
 translate brazilian Haley_3_label_d5468db1:
 
     # ch_Name "...or if you have really expressive eyes..."
-    ch_Name ""
+    ch_Name "...ou se você tem olhos realmente expressivos..."
 
 # game/logic/events/haley.rpy:446
 translate brazilian Haley_3_label_53f169e7:
 
     # ch_Name "I got a little lost in them."
-    ch_Name ""
+    ch_Name "Eu me perdi neles, um pouco."
 
 # game/logic/events/haley.rpy:448
 translate brazilian Haley_3_label_325a0981:
 
     # Haley "[Name]... Are you serious?"
-    Haley ""
+    Haley "[Name]... Está falando sério?"
 
 # game/logic/events/haley.rpy:449
 translate brazilian Haley_3_label_f9247aa8:
