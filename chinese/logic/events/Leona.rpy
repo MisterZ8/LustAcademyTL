@@ -12687,155 +12687,155 @@ translate chinese strings:
 translate chinese Leona_10_label_e9c642dd:
 
     # ch_Name "{i}(Jacob is MY FATHER?){/i}"
-    ch_Name ""
+    ch_Name "{i}（Jacob是我的父亲？）{/i}"
 
 # game/logic/events/Leona.rpy:3089
 translate chinese Leona_10_label_bc30a3f0:
 
     # ch_Name "{i}(How can this be possible...){/i}"
-    ch_Name ""
+    ch_Name "{i}（这怎么可能呢。。。）{/i}"
 
 # game/logic/events/Leona.rpy:3090
 translate chinese Leona_10_label_8af5a543:
 
     # ch_Name "{i}(But why would he lie about it now?){/i}"
-    ch_Name ""
+    ch_Name "{i}（但他现在为什么要撒谎呢？）{/i}"
 
 # game/logic/events/Leona.rpy:3093
 translate chinese Leona_10_label_9d0c3150:
 
     # ch_Name "{i}(It just doesn't make sense...){/i}"
-    ch_Name ""
+    ch_Name "{i}（这实在是说不通。。。）{/i}"
 
 # game/logic/events/Leona.rpy:3094
 translate chinese Leona_10_label_9ea228ef:
 
     # ch_Name "{i}(I need some time to think about it on my own.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我需要点时间自己想想。）{/i}"
 
 # game/logic/events/Leona.rpy:3101
 translate chinese Leona_10_label_d348d327:
 
     # ch_Name "{i}(Ugh... I can't fall asleep no matter how hard I try.){/i}"
-    ch_Name ""
+    ch_Name "{i}（呃。。。不管我怎么努力，我都无法入睡。）{/i}"
 
 # game/logic/events/Leona.rpy:3102
 translate chinese Leona_10_label_54523e16:
 
     # ch_Name "{i}(Jacob... I still can't believe that.){/i}"
-    ch_Name ""
+    ch_Name "{i}（Jacob。。。我仍然无法相信。）{/i}"
 
 # game/logic/events/Leona.rpy:3103
 translate chinese Leona_10_label_cabe03fd:
 
     # ch_Name "{i}(And to think that this demon raped my mother...){/i}"
-    ch_Name ""
+    ch_Name "{i}（想到这个恶魔强奸了我的母亲。。。）{/i}"
 
 # game/logic/events/Leona.rpy:3104
 translate chinese Leona_10_label_8ca1b918:
 
     # ch_Name "{i}(Forget the phantom, this is the real nightmare fuel.){/i}"
-    ch_Name ""
+    ch_Name "{i}（忘记幻影吧，这是真正的噩梦燃料。）{/i}"
 
 # game/logic/events/Leona.rpy:3105
 translate chinese Leona_10_label_8f07fed5:
 
     # ch_Name "{i}(I'm not sure I'm comfortable sharing this information with anyone.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我不确定我是否适合与任何人分享这些信息。）{/i}"
 
 # game/logic/events/Leona.rpy:3106
 translate chinese Leona_10_label_59043c82:
 
     # ch_Name "{i}(Not even Haley or Samantha...){/i}"
-    ch_Name ""
+    ch_Name "{i}（甚至是Haley或Samantha。。。）{/i}"
 
 # game/logic/events/Leona.rpy:3107
 translate chinese Leona_10_label_28b3fb55:
 
     # ch_Name "{i}(Fuck it. I'll just pretend I've heard nothing and try to get some sleep again.){/i}"
-    ch_Name ""
+    ch_Name "{i}（去它的。我就假装什么都没听到，然后试着再睡一会儿。）{/i}"
 
 # game/logic/events/Leona.rpy:3317
 translate chinese Leona_11_label_48da3b43:
 
     # ch_Name "{i}(That's too much for one man to carry on his shoulders.){/i}"
-    ch_Name ""
+    ch_Name "{i}（这对一个人来说，肩上的担子太重了。）{/i}"
 
 # game/logic/events/Leona.rpy:3318
 translate chinese Leona_11_label_6eaf0f19:
 
     # ch_Name "{i}(I can't even think of where to start my search for artifacts.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我甚至想不出该从哪里开始寻找文物。）{/i}"
 
 # game/logic/events/Leona.rpy:3319
 translate chinese Leona_11_label_2f700175:
 
     # ch_Name "{i}(I hope Arthur has some leads.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我希望Arthur有一些线索。）{/i}"
 
 # game/logic/events/Leona.rpy:3327
 translate chinese Leona_11_label_e5b11224:
 
     # ch_Name "{i}(Maybe Jacob can be helpful too.){/i}"
-    ch_Name ""
+    ch_Name "{i}（也许Jacob也能提供帮助。）{/i}"
 
 # game/logic/events/Leona.rpy:3328
 translate chinese Leona_11_label_b1414c04:
 
     # ch_Name "{i}(After all, he started all this shit.){/i}"
-    ch_Name ""
+    ch_Name "{i}（毕竟，这一切是他造成的。）{/i}"
 
 # game/logic/events/Leona.rpy:3329
 translate chinese Leona_11_label_847a8bbd:
 
     # ch_Name "{i}(This may as well be a way for him to redeem himself.){/i}"
-    ch_Name ""
+    ch_Name "{i}（这不妨是他赎罪的一种方式。）{/i}"
 
 # game/logic/events/Leona.rpy:3336
 translate chinese Leona_11_label_37918ebe:
 
     # ch_Name "{i}(Oh, what a crazy night.){/i}"
-    ch_Name ""
+    ch_Name "{i}（哦，真是个疯狂的夜晚。）{/i}"
 
 # game/logic/events/Leona.rpy:3337
 translate chinese Leona_11_label_b2b8fb63:
 
     # ch_Name "{i}(I can't wait to fall asleep and get this out of my head.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我迫不及待地想入睡，把这一切从我的脑海中抹去。）{/i}"
 
 # game/logic/events/Leona.rpy:3344
 translate chinese Leona_11_label_1380e5c5:
 
     # ch_Name "{i}(Come to think of it...){/i}"
-    ch_Name ""
+    ch_Name "{i}（来想想吧。。。）{/i}"
 
 # game/logic/events/Leona.rpy:3345
 translate chinese Leona_11_label_30b92980:
 
     # ch_Name "{i}(This is my fault too.){/i}"
-    ch_Name ""
+    ch_Name "{i}（这也是我的错。）{/i}"
 
 # game/logic/events/Leona.rpy:3346
 translate chinese Leona_11_label_2215dd5f:
 
     # ch_Name "{i}(If only I'd listened to Leona.){/i}"
-    ch_Name ""
+    ch_Name "{i}（如果我当时听了Leona的话就好了。）{/i}"
 
 # game/logic/events/Leona.rpy:3348
 translate chinese Leona_11_label_24bc42fd:
 
     # ch_Name "{i}(No one would have suffered from Jacob and his demon...){/i}"
-    ch_Name ""
+    ch_Name "{i}（没有人会受到Jacob和他的恶魔的影响。）{/i}"
 
 # game/logic/events/Leona.rpy:3349
 translate chinese Leona_11_label_201ab856:
 
     # ch_Name "{i}(How could I be so stupid? Trusting shady guy with such powerful artifact...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我怎么会这么傻？把如此强大的神器托付给黑心的家伙。。。）{/i}"
 
 # game/logic/events/Leona.rpy:3350
 translate chinese Leona_11_label_127f03c9:
 
     # ch_Name "{i}(I won't make that kind of mistake twice.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我不会再犯这种错误了。）{/i}"
 
