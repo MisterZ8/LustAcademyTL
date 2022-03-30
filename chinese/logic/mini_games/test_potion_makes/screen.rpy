@@ -100,5 +100,5 @@ translate chinese strings:
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:355
     old "Learn this recipe by completing Audrey's quests."
-    new ""
+    new "通过完成Audrey的任务来学习这个配方。"
 
