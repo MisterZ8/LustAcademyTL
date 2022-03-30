@@ -418,7 +418,7 @@ translate chinese Mino_3_label_c7a12ce1:
 translate chinese Mino_3_label_9c919fa7:
 
     # Minotaur "[Name]! You've actually found the feather!"
-    Minotaur "[姓名]! 你真的找到了那根羽毛!"
+    Minotaur "[Name]! 你真的找到了那根羽毛!"
 
 # game/logic/events/Minotaur.rpy:155
 translate chinese Mino_3_label_98262ecc:

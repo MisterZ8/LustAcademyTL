@@ -14022,7 +14022,7 @@ translate chinese Haley_19_label_from_gallery_faadbc1e:
 translate chinese Haley_19_label_from_gallery_d75c4c90:
 
     # Haley "[Name], I'm..."
-    Haley "[姓名]，我是。。。"
+    Haley "[Name]，我是。。。"
 
 # game/logic/events/haley.rpy:3558
 translate chinese Haley_19_label_from_gallery_ecd9a5b5:
