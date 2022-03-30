@@ -1743,7 +1743,7 @@ translate chinese strings:
     new "这个混蛋要求贿赂还差点让Adele被强奸。我想我以后得给他上一课。但好消息是我现在有一张幸运女神的VIP通行证。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
-    old "According to Sabrina, only students who have attended Victoria's introductory lecture in the Classroom 2 are allowed into the potions class."
+    old "According to Sabrina, only students who have attended Victoria's introductory lecture in the Classroom 1 are allowed into the potions class."
     new "据Sabrina说，只有在1号教室上过Victoria的入门课的学生才可以上魔药课。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
@@ -1779,7 +1779,7 @@ translate chinese strings:
     new "实践"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
-    old "I'm sure I can find a few valuable ways to use Inspiration Potion. Likely, I can now craft it with ease. I think I've finished all theory lessons this semester and now there will be only practice in the Classroom 1."
+    old "I'm sure I can find a few valuable ways to use Inspiration Potion. Likely, I can now craft it with ease. I think I've finished all theory lessons this semester and now there will be only practice in the Classroom 2."
     new "我相信我能找到一些使用灵感药水的有价值的方法。很可能，我现在可以轻松地制作它。我想我已经完成了这学期所有的理论课，现在只在1号教室进行练习。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745

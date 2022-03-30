@@ -1727,7 +1727,7 @@ translate russian strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1745
-    old "According to Sabrina, only students who have attended Victoria's introductory lecture in the Classroom 2 are allowed into the potions class."
+    old "According to Sabrina, only students who have attended Victoria's introductory lecture in the Classroom 1 are allowed into the potions class."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1745
@@ -1763,7 +1763,7 @@ translate russian strings:
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1745
-    old "I'm sure I can find a few valuable ways to use Inspiration Potion. Likely, I can now craft it with ease. I think I've finished all theory lessons this semester and now there will be only practice in the Classroom 1."
+    old "I'm sure I can find a few valuable ways to use Inspiration Potion. Likely, I can now craft it with ease. I think I've finished all theory lessons this semester and now there will be only practice in the Classroom 2."
     new ""
 
     # game/logic/main_interface/quest_log_db.rpy:1745
