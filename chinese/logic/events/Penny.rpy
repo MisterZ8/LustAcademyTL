@@ -1469,4 +1469,4 @@ translate chinese strings:
     # game/logic/events/Penny.rpy:12
     old "Talk to a strange girl"
     new "和一个陌生的女孩交谈"
-    
+
