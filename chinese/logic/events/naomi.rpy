@@ -7979,7 +7979,7 @@ translate chinese Naomi_7_label_91dec0e6:
 # game/logic/events/naomi.rpy:2270
 translate chinese Naomi_11_label_7559bb84:
 
-    # ch_Name "{i}(Look how gorgeous Naomi is in the sunlight!){/i}"
+    # ch_Name "{i}(Only look how gorgeous Naomi is in the sunlight!){/i}"
     ch_Name "{i}（只看Naomi在阳光下是多么的华丽!）{/i}"
 
 # game/logic/events/naomi.rpy:2271
@@ -8588,149 +8588,149 @@ translate chinese strings:
 translate chinese Naomi_11_label_96c94b02:
 
     # ch_Name "{i}(Oh, wow. It's that late already?){/i}"
-    ch_Name ""
+    ch_Name "{i}（哦，哇，已经这么晚了？）{/i}"
 
 # game/logic/events/naomi.rpy:2271
 translate chinese Naomi_11_label_4ac7ad06:
 
     # ch_Name "{i}(How did I manage to spend all day at the library?){/i}"
-    ch_Name ""
+    ch_Name "{i}（我是怎么在图书馆呆了一整天的？）{/i}"
 
 # game/logic/events/naomi.rpy:2272
 translate chinese Naomi_11_label_5c3c43c3:
 
     # ch_Name "{i}(This is definitely some kind of magic Amelie used on me.){/i}"
-    ch_Name ""
+    ch_Name "{i}（这绝对是Amelie用在我身上的魔法。）{/i}"
 
 # game/logic/events/naomi.rpy:2273
 translate chinese Naomi_11_label_d554c0e5:
 
     # ch_Name "{i}(Or was it just that many books?){/i}"
-    ch_Name ""
+    ch_Name "{i}（还是只有那么多书？）{/i}"
 
 # game/logic/events/naomi.rpy:2274
 translate chinese Naomi_11_label_afc0a9de:
 
     # ch_Name "{i}(Anyway, I've missed all my classes.){/i}"
-    ch_Name ""
+    ch_Name "{i}（不管怎样，我已经错过了所有的课程。）{/i}"
 
 # game/logic/events/naomi.rpy:2275
 translate chinese Naomi_11_label_b1141625:
 
     # ch_Name "{i}(Might as well spend some time with the girls.){/i}"
-    ch_Name ""
+    ch_Name "{i}（不如花点时间和女孩们在一起。）{/i}"
 
 # game/logic/events/naomi.rpy:2276
 translate chinese Naomi_11_label_3f88f7b6:
 
     # ch_Name "{i}(Luckily, Lily and Naomi are still here.){/i}"
-    ch_Name ""
+    ch_Name "{i}（幸运的是，Lily和Naomi还在这里。）{/i}"
 
 # game/logic/events/naomi.rpy:2417
 translate chinese Naomi_11_label_2adfa268:
 
     # ch_Name "{i}(I don't understand how she can hate spending time with her parents.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我不明白她怎么会讨厌和父母在一起。）{/i}"
 
 # game/logic/events/naomi.rpy:2418
 translate chinese Naomi_11_label_9e5e7975:
 
     # ch_Name "{i}(I'd give everything to talk to mine. Even once. I never even knew mine.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我愿意尽一切努力和我的父母交谈。哪怕一次。我甚至都不知道我的父母是谁。）{/i}"
 
 # game/logic/events/naomi.rpy:2419
 translate chinese Naomi_11_label_a57250c3:
 
     # ch_Name "{i}(I don't even know anything about them...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我对他们一无所知。。。）{/i}"
 
 # game/logic/events/naomi.rpy:2420
 translate chinese Naomi_11_label_ebd45dda:
 
     # ch_Name "{i}(But Jacob does! Maybe it's time to visit him.){/i}"
-    ch_Name ""
+    ch_Name "{i}（但Jacob做到了！也许是时候去拜访他了。）{/i}"
 
 # game/logic/events/naomi.rpy:2422
 translate chinese Naomi_11_label_aa8436dd:
 
     # ch_Name "{i}(It's been enough time since the incident.){/i}"
-    ch_Name ""
+    ch_Name "{i}（这件事已经过去很久了。）{/i}"
 
 # game/logic/events/naomi.rpy:2423
 translate chinese Naomi_11_label_76d44268:
 
     # ch_Name "{i}(His memories should be fine by now.){/i}"
-    ch_Name ""
+    ch_Name "{i}（他的记忆力现在应该好了。）{/i}"
 
 # game/logic/events/naomi.rpy:2424
 translate chinese Naomi_11_label_76375a20:
 
     # ch_Name "{i}(And he sure owns me an explanation.){/i}"
-    ch_Name ""
+    ch_Name "{i}（他肯定会给我一个解释。）{/i}"
 
 # game/logic/events/naomi.rpy:2431
 translate chinese Naomi_11_label_340f7938:
 
     # ch_Name "{i}(How strange to see Jacob standing there.){/i}"
-    ch_Name ""
+    ch_Name "{i}（看到Jacob站在那里真奇怪。）{/i}"
 
 # game/logic/events/naomi.rpy:2432
 translate chinese Naomi_11_label_ec58bce4:
 
     # ch_Name "{i}(As if nothing had happened.){/i}"
-    ch_Name ""
+    ch_Name "{i}（好像什么都没发生过。）{/i}"
 
 # game/logic/events/naomi.rpy:2433
 translate chinese Naomi_11_label_36daa6e1:
 
     # ch_Name "{i}(My palms are clenching into fists in anger...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我的手掌在愤怒中握紧拳头。。。）{/i}"
 
 # game/logic/events/naomi.rpy:2434
 translate chinese Naomi_11_label_47422f48:
 
     # ch_Name "{i}(I can't just talk to him. Can't just forget what he's done.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我没办法和他讲话。无法忘记他做过什么。）{/i}"
 
 # game/logic/events/naomi.rpy:2435
 translate chinese Naomi_11_label_78a73965:
 
     # ch_Name "{i}(That was a stupid idea. I should just go...){/i}"
-    ch_Name ""
+    ch_Name "{i}（那是个愚蠢的主意。我该走了。。。）{/i}"
 
 # game/logic/events/naomi.rpy:2437
 translate chinese Naomi_11_label_9ebb4d25:
 
     # ch_Name "{i}(No... Wait.){/i}"
-    ch_Name ""
+    ch_Name "{i}（不。。。等等。）{/i}"
 
 # game/logic/events/naomi.rpy:2438
 translate chinese Naomi_11_label_c5672a5b:
 
     # ch_Name "{i}(Calm down, [Name]. You can do this.){/i}"
-    ch_Name ""
+    ch_Name "{i}（冷静点，[Name]。你可以做到。）{/i}"
 
 # game/logic/events/naomi.rpy:2439
 translate chinese Naomi_11_label_f2202ed8:
 
     # ch_Name "{i}(I'd rather tell him to his face what I think of him...){/i}"
-    ch_Name ""
+    ch_Name "{i}（我宁愿当面告诉他我对他的看法。。。）{/i}"
 
 # game/logic/events/naomi.rpy:2440
 translate chinese Naomi_11_label_c6ea644e:
 
     # ch_Name "{i}(But, that's not why I'm here.){/i}"
-    ch_Name ""
+    ch_Name "{i}（但是，这不是我来这里的原因。）{/i}"
 
 # game/logic/events/naomi.rpy:2441
 translate chinese Naomi_11_label_088084d5:
 
     # ch_Name "{i}(Arthur said that now Jacob would tell me the truth about my parents.){/i}"
-    ch_Name ""
+    ch_Name "{i}（Arthur说现在Jacob会告诉我关于我父母的真相。）{/i}"
 
 # game/logic/events/naomi.rpy:2442
 translate chinese Naomi_11_label_ebd8ab27:
 
     # ch_Name "{i}(And I won't rest until I know it.){/i}"
-    ch_Name ""
+    ch_Name "{i}（在我知道之前我不会休息。）{/i}"
 
