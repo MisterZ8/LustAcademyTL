@@ -18438,7 +18438,7 @@ translate chinese Haley_22_label_6bb89e5f:
 translate chinese Haley_22_label_94712973:
 
     # Haley "He-he, alright. See you later, [Name]."
-    Haley "哈-哈，好吧。回头见，[姓名]。"
+    Haley "哈-哈，好吧。回头见，[Name]。"
 
 translate chinese strings:
 
