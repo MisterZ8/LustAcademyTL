@@ -6006,191 +6006,191 @@ translate chinese strings:
 translate chinese Xmas_start_mc_0c6236d7:
 
     # ch_Name "{i}(Oh, is it from that one time when we celebrated Yule?){/i}"
-    ch_Name ""
+    ch_Name "{i}（哦，是从我们庆祝圣诞节那一次开始的吗？）{/i}"
 
 # game/logic/events/xmas.rpy:83
 translate chinese Xmas_1_label_b4c8c248:
 
     # NoName "Ring-ring..."
-    NoName ""
+    NoName "叮铃铃。。。"
 
 # game/logic/events/xmas.rpy:85
 translate chinese Xmas_1_label_d007b8f0:
 
     # ch_Name "Hello?"
-    ch_Name ""
+    ch_Name "你好？"
 
 # game/logic/events/xmas.rpy:86
 translate chinese Xmas_1_label_27181521:
 
     # Elijah "Yo, [Name]! It's time to get up!"
-    Elijah ""
+    Elijah "哟，[Name]！该起床了！"
 
 # game/logic/events/xmas.rpy:87
 translate chinese Xmas_1_label_6684b9f2:
 
     # ch_Name "Morning to you too. What's happened?"
-    ch_Name ""
+    ch_Name "早上好。发生了什么事？"
 
 # game/logic/events/xmas.rpy:88
 translate chinese Xmas_1_label_6e29e07a:
 
     # Elijah "The headmaster is gathering the meeting in the Main hall."
-    Elijah ""
+    Elijah "校长正在大厅开会。"
 
 # game/logic/events/xmas.rpy:89
 translate chinese Xmas_1_label_f7391e81:
 
     # ch_Name "Again?! Wasn't there a meeting yesterday?"
-    ch_Name ""
+    ch_Name "又来？昨天没有开会吗？"
 
 # game/logic/events/xmas.rpy:90
 translate chinese Xmas_1_label_d979667f:
 
     # Elijah "Well, yeah."
-    Elijah ""
+    Elijah "嗯，是的。"
 
 # game/logic/events/xmas.rpy:92
 translate chinese Xmas_1_label_21ced947:
 
     # Elijah "Do you want me to tell him that that goes against your schedule, queen?"
-    Elijah ""
+    Elijah "你想让我告诉他这违背了你的计划吗，女王？"
 
 # game/logic/events/xmas.rpy:93
 translate chinese Xmas_1_label_1aa6129a:
 
     # ch_Name "Alright, alright. Sorry."
-    ch_Name ""
+    ch_Name "好吧，好吧。很抱歉。"
 
 # game/logic/events/xmas.rpy:94
 translate chinese Xmas_1_label_3968762d:
 
     # ch_Name "I'll be there."
-    ch_Name ""
+    ch_Name "我会去的。"
 
 # game/logic/events/xmas.rpy:95
 translate chinese Xmas_1_label_38144831:
 
     # Elijah "Cool. C'ya."
-    Elijah ""
+    Elijah "好的，再见。"
 
 # game/logic/events/xmas.rpy:97
 translate chinese Xmas_1_label_96eb30cd:
 
     # ch_Name "{i}(Come to think of it, it's an excellent opportunity to catch up with Arthur...){/i}"
-    ch_Name ""
+    ch_Name "{i}（想想看，这是一个赶上Arthur的绝佳机会。。。）{/i}"
 
 # game/logic/events/xmas.rpy:98
 translate chinese Xmas_1_label_a2434f6b:
 
     # ch_Name "{i}(I need to hurry up.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我得快点。）{/i}"
 
 # game/logic/events/xmas.rpy:99
 translate chinese Xmas_1_label_60082023:
 
     # ch_Name "{i}(If I get there before the meeting starts, I'll have time to talk to him...){/i}"
-    ch_Name ""
+    ch_Name "{i}（如果我在会议开始前赶到那里，我会有时间和他谈谈。。。）{/i}"
 
 # game/logic/events/xmas.rpy:100
 translate chinese Xmas_1_label_f46411ad:
 
     # ch_Name "{i}(...about what's happened to Leona and other house founders.){/i}"
-    ch_Name ""
+    ch_Name "{i}（。。。Leona和其他学院创始人的遭遇。）{/i}"
 
 # game/logic/events/xmas.rpy:107
 translate chinese Xmas_1_label_bdaaa2e3:
 
     # ch_Name "{i}(I hope Arthur is here already.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我希望Arthur已经到了。）{/i}"
 
 # game/logic/events/xmas.rpy:108
 translate chinese Xmas_1_label_5b71ead7:
 
     # ch_Name "{i}(I'm afraid we don't have much time.){/i}"
-    ch_Name ""
+    ch_Name "{i}（恐怕我们时间不多了。）{/i}"
 
 # game/logic/events/xmas.rpy:110
 translate chinese Xmas_1_label_e9aa49be:
 
     # Arthur "Hey there, [Name]! Are you here for the meeting?"
-    Arthur ""
+    Arthur "嘿，[Name]！你是来开会的吗？"
 
 # game/logic/events/xmas.rpy:111
 translate chinese Xmas_1_label_77390c3a:
 
     # Arthur "You're pretty early..."
-    Arthur ""
+    Arthur "你来得真早。。。"
 
 # game/logic/events/xmas.rpy:112
 translate chinese Xmas_1_label_f7dd4703:
 
     # ch_Name "Oh, mister Doorman! I was looking for you!"
-    ch_Name ""
+    ch_Name "哦，门卫先生！我在找你！"
 
 # game/logic/events/xmas.rpy:114
 translate chinese Xmas_1_label_87371271:
 
     # ch_Name "I need to tell you something important about house founders!"
-    ch_Name ""
+    ch_Name "我要告诉你一些关于学院创始人的重要事情！"
 
 # game/logic/events/xmas.rpy:115
 translate chinese Xmas_1_label_a5233990:
 
     # Arthur "Is it about them being captured by that beast, Overlord?"
-    Arthur ""
+    Arthur "是因为他们被那野兽抓了吗，霸主？"
 
 # game/logic/events/xmas.rpy:116
 translate chinese Xmas_1_label_dab9fc48:
 
     # ch_Name "You know?!"
-    ch_Name ""
+    ch_Name "你知道的？！"
 
 # game/logic/events/xmas.rpy:117
 translate chinese Xmas_1_label_15597912:
 
     # Arthur "Of course, I know. I am contacting four founders every day. This is my duty."
-    Arthur ""
+    Arthur "当然，我知道。我每天联系四位创始人。这是我的职责。"
 
 # game/logic/events/xmas.rpy:119
 translate chinese Xmas_1_label_9b9b7723:
 
     # Arthur "I am aware of the problem and of what you did already. Good job."
-    Arthur ""
+    Arthur "我知道这个问题，也知道你已经做了什么。干得好。"
 
 # game/logic/events/xmas.rpy:120
 translate chinese Xmas_1_label_b1ae0576:
 
     # Arthur "But I'm afraid it won't be so easy for the other three founders."
-    Arthur ""
+    Arthur "但我担心这对其他三位创始人来说不会那么容易。"
 
 # game/logic/events/xmas.rpy:121
 translate chinese Xmas_1_label_999710d2:
 
     # Arthur "You need to be patient and wait until I finish my research."
-    Arthur ""
+    Arthur "你需要耐心等待，直到我完成我的研究。"
 
 # game/logic/events/xmas.rpy:122
 translate chinese Xmas_1_label_2d2f98e8:
 
     # ch_Name "If you say so, but will they be okay?"
-    ch_Name ""
+    ch_Name "如果你这么说，他们会没事吗？"
 
 # game/logic/events/xmas.rpy:123
 translate chinese Xmas_1_label_85b7bb10:
 
     # Arthur "If we do what we must - they will. We'll talk this through later."
-    Arthur ""
+    Arthur "如果我们做我们必须做的事，他们会没事的。我们以后再谈。"
 
 # game/logic/events/xmas.rpy:124
 translate chinese Xmas_1_label_66a8129a:
 
     # Arthur "And now, if you excuse me, I need to get dressed for the meeting..."
-    Arthur ""
+    Arthur "现在，如果你不介意的话，我需要为会议换好衣服。。。"
 
 # game/logic/events/xmas.rpy:133
 translate chinese Xmas_1_label_2e34ff30:
 
     # ch_Name "{i}(Well it's no need to guess, he's going to tell us now.){/i}"
-    ch_Name ""
+    ch_Name "{i}（没必要猜测，他现在就告诉我们。）{/i}"
 

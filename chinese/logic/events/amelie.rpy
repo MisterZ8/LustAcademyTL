@@ -4006,143 +4006,143 @@ translate chinese strings:
 translate chinese Amelie_4_label_8acdecdb:
 
     # ch_Name "{i}(Um. What time is it?){/i}"
-    ch_Name ""
+    ch_Name "{i}（嗯，现在几点了？）{/i}"
 
 # game/logic/events/amelie.rpy:713
 translate chinese Amelie_4_label_d1dec250:
 
     # ch_Name "Yeah, you are right... 10 minutes, okay?"
-    ch_Name ""
+    ch_Name "是的，你说得对。。。10分钟，好吗？"
 
 # game/logic/events/amelie.rpy:765
 translate chinese Amelie_4_label_9ebe47fb:
 
     # Amelie "Well, it should be here."
-    Amelie ""
+    Amelie "对，应该在这儿。"
 
 # game/logic/events/amelie.rpy:768
 translate chinese Amelie_4_label_fb647291:
 
     # Amelie "Here we are.{w} Just great."
-    Amelie ""
+    Amelie "我们到了。{w} 太好了。"
 
 # game/logic/events/amelie.rpy:910
 translate chinese Amelie_4_label_2a73ce1e:
 
     # ch_Name "I'll come back later then, I promise."
-    ch_Name ""
+    ch_Name "我保证以后再回来。"
 
 # game/logic/events/amelie.rpy:953
 translate chinese Amelie_5_label_dfb845c3:
 
     # ch_Name "{i}(Well, that was something...){/i}"
-    ch_Name ""
+    ch_Name "{i}（好吧，那是。。。）{/i}"
 
 # game/logic/events/amelie.rpy:954
 translate chinese Amelie_5_label_6c92db65:
 
     # ch_Name "{i}(Not what I'm used to doing when I wake up, but, yeah.){/i}"
-    ch_Name ""
+    ch_Name "{i}（不是我睡醒时习惯做的，但是，是的。）{/i}"
 
 # game/logic/events/amelie.rpy:955
 translate chinese Amelie_5_label_dc93f9c9:
 
     # ch_Name "{i}(At least I got to know that Audrey is not the only succubus in the world.){/i}"
-    ch_Name ""
+    ch_Name "{i}（至少我知道奥黛丽不是世界上唯一的魅魔。）{/i}"
 
 # game/logic/events/amelie.rpy:956
 translate chinese Amelie_5_label_72538a36:
 
     # ch_Name "{i}(If whoever wrote that letter tells the truth.){/i}"
-    ch_Name ""
+    ch_Name "{i}（如果写那封信的人说的是实话。）{/i}"
 
 # game/logic/events/amelie.rpy:958
 translate chinese Amelie_5_label_67f06a36:
 
     # ch_Name "{i}(The good thing is that I have a lot of time before classes.){/i}"
-    ch_Name ""
+    ch_Name "{i}（好消息是我在上课前有很多时间。）{/i}"
 
 # game/logic/events/amelie.rpy:959
 translate chinese Amelie_5_label_bc728477:
 
     # ch_Name "{i}(I can pay a visit to Amelie to ask how she is.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我可以去拜访Amelie，问问她怎么样。）{/i}"
 
 # game/logic/events/amelie.rpy:960
 translate chinese Amelie_5_label_930630d6:
 
     # ch_Name "{i}(It's been a while since that incident with elves.){/i}"
-    ch_Name ""
+    ch_Name "{i}（精灵事件已经过去一段时间了。）{/i}"
 
 # game/logic/events/amelie.rpy:967
 translate chinese Amelie_5_label_6554fa42:
 
     # ch_Name "{i}(It's been a few weeks...){/i}"
-    ch_Name ""
+    ch_Name "{i}（已经好几个星期了。。。）{/i}"
 
 # game/logic/events/amelie.rpy:968
 translate chinese Amelie_5_label_018085af:
 
     # ch_Name "{i}(I hope Amelie isn't mad I haven't shown up for so long.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我希望艾米莉不会因为我很久没露面而生气。）{/i}"
 
 # game/logic/events/amelie.rpy:969
 translate chinese Amelie_5_label_db353223:
 
     # ch_Name "{i}(But I had a lot on my plate recently, and that was just a Mesmerizing potion...){/i}"
-    ch_Name ""
+    ch_Name "{i}（但最近我的盘子里有很多，那只是一剂迷人的药水。。。）{/i}"
 
 # game/logic/events/amelie.rpy:970
 translate chinese Amelie_5_label_3a5021d4:
 
     # ch_Name "{i}(Am I overthinking this? I'm just another student to her.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我是不是想得太多了？对她来说，我只是一个学生。）{/i}"
 
 # game/logic/events/amelie.rpy:972
 translate chinese Amelie_5_label_a808a800:
 
     # ch_Name "{i}(Anyway, it's no use guessing how she feels.){/i}"
-    ch_Name ""
+    ch_Name "{i}（不管怎样，猜测她的感受是没有用的。）{/i}"
 
 # game/logic/events/amelie.rpy:973
 translate chinese Amelie_5_label_f7fd47ea:
 
     # ch_Name "{i}(I'll find it out in a second.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我马上就知道了。）{/i}"
 
 # game/logic/events/amelie.rpy:987
 translate chinese Amelie_5_label_1ec15e71:
 
     # Amelie "I need to put them on the shelves in alphabetical order. Can you..."
-    Amelie ""
+    Amelie "我需要按字母顺序把它们放在书架上。你能。。。"
 
 # game/logic/events/amelie.rpy:995
 translate chinese Amelie_5_label_96b5e006:
 
     # ch_Name "Are you better, Amelie? "
-    ch_Name ""
+    ch_Name "你好些了吗，Amelie？"
 
 # game/logic/events/amelie.rpy:996
 translate chinese Amelie_5_label_2e55558f:
 
     # ch_Name "It's just... Last time you didn't feel well."
-    ch_Name ""
+    ch_Name "只是。。。上次你感觉不舒服。"
 
 # game/logic/events/amelie.rpy:997
 translate chinese Amelie_5_label_bb4909ba:
 
     # Amelie "Now it's almost great, thanks. "
-    Amelie ""
+    Amelie "现在差不多很棒了，谢谢。"
 
 # game/logic/events/amelie.rpy:1096
 translate chinese Amelie_5_label_62c76db5:
 
     # Amelie "Anyway, you must be tired now. How about taking some rest?"
-    Amelie ""
+    Amelie "不管怎样，你现在一定累了。休息一下怎么样？"
 
 translate chinese strings:
 
     # game/logic/events/amelie.rpy:9
     old "Levitation feather"
-    new ""
+    new "悬浮羽毛"
 
