@@ -216,13 +216,13 @@ translate chinese strings:
 
     # game/logic/characters.rpy:53
     old "Penny"
-    new ""
+    new "Penny"
 
     # game/logic/characters.rpy:54
     old "Minotaur"
-    new ""
+    new "牛头怪"
 
     # game/logic/characters.rpy:75
     old "Strange girl"
-    new ""
+    new "奇怪的女孩"
 
