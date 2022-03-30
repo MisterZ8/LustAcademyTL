@@ -2360,173 +2360,174 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Adele is an energetic and entrepreneurial magician. After arriving in Dale penniless, she made her money dancing at a strip club, bought it out, and is now the sole owner of Lady Luck. Adele enjoys authority with her co-workers because she always  treats everyone with respect. She likes to dress flashy and takes pride in her gorgeous body."
-    new ""
+    new "Adele是一位精力充沛、富有创业精神的魔术师。来到Dale后，她身无分文，在一家脱衣舞俱乐部跳舞挣钱，买下了它，现在是Lady Luck的唯一所有者。Adele在同事中享有权威，因为她总是尊重每个人。她喜欢穿华而不实的衣服，为自己华丽的身体感到自豪。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Friendly and sweet elf Ahchi owns the most fabulous coffee shop in Dale. He is an absolute wizard of his craft and can create an indescribable palette of tastes from any ingredients. And you can always chat with him and discuss anything."
-    new ""
+    new "友好甜美的精灵Ahchi拥有Dale最棒的咖啡馆。他是一位技艺高超的巫师，能用任何配料创造出难以形容的口味。你可以随时和他聊天，讨论任何事情。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Amelie has never had an outstanding talent for magic, but she has been fascinated by the wizarding world's history since childhood. She loves books and smart people more than anything else in the world. After graduating from Cordale, she took a job as a local librarian to be able to study the rarest magical writings and folios in the world."
-    new ""
+    new "Amelie从来没有杰出的魔法天赋，但她从小就对巫师世界的历史着迷。她最喜欢书和聪明人。从Cordale学院毕业后，她找到了一份当地图书馆员的工作，能够学习世界上最罕见的魔法著作和对开本。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Cordale is home to many magical creatures. Angel statues are one of the most entertaining. These creatures can move at great speed, but only if no one looks at them. They pretend to be statues in one of the academy's gardens and scare the first-year students."
-    new ""
+    new "Cordale是许多神奇生物的家园。天使雕像是最有趣的雕塑之一。这些生物可以高速移动，但前提是没人看它们。他们假装是学院花园里的雕像，吓坏了一年级的学生。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Arthur Doorman the Fourth is a hereditary wizard from one of the oldest magical families in the world. He took the headmaster position in Cordale at the age of 42 and made the Academy one of the best in the world. Like his ancestors, he is noble and responsible in his job of guiding young wizards on the path of virtue."
-    new ""
+    new "Arthur门卫四世是一位世袭巫师，来自世界上最古老的魔法家族之一。42岁时，他在Cordale担任校长，使该学院成为世界上最好的学院之一。像他的祖先一样，他在引导年轻巫师走上美德之路的工作中是高尚和负责任的。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Olivia and Don's youngest daughter, Ashley, is a dedicated and talented gymnast. Her room is crammed with all kinds of competition trophies, but it's never enough for Don and he puts a terrible pressure on her to make sure Ashley never lowers the bar and continues to train hard."
-    new ""
+    new "Olivia和Don的小女儿Ashley是一名专注而有天赋的体操运动员。她的房间里塞满了各种各样的比赛奖杯，但这对Don来说永远不够，他给她施加了巨大的压力，让她确保阿什利永远不会降低标准，继续努力训练。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Audrey is a bitchy sophomore from Leonheart House and Samantha's best friend. She's a mysterious girl that's probably not even human. Audrey and Samantha have a long history together and it's seems like despite her spiky character she's always nice and loyal to her friend."
-    new ""
+    new "Audrey是Leonheart分院的一个脾气暴躁的大二学生，也是Samantha最好的朋友。她是一个神秘的女孩，甚至可能不是人类。Audrey和Samantha在一起有着悠久的历史，尽管她性格尖锐，但似乎她对朋友总是很好，很忠诚。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Newly enrolled at the academy, Carter is a well-mannered and quiet fellow with an unusually high talent for magic. He refused to enter the academy for many years to take care of a sick matter, but when Arthur healed her, the grateful Carter gladly agreed to study and went to Cordale."
-    new ""
+    new "Carter刚进入该学院，他是一个举止优雅、沉默寡言的人，在魔法方面有着不同寻常的天赋。多年来，他拒绝进入学院照顾病人，但当Arthur治愈了她，心存感激的Carter欣然同意学习，并去了Cordale。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Queen of the House of Adderin and Samantha's arch-rival, Dakota, is a true embodiment of her house's values. She is used to being the first in everything and is ready to go over the heads for the sake of success. Even the teachers are afraid of her."
-    new ""
+    new "Adderin家族的女王和Samantha的主要竞争对手达Dakota是她家族价值观的真实体现。她已经习惯了在任何事情上都是第一位的，并且准备为了成功而超越一切。连老师都怕她。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "From an early age Diego hung around with all sorts of scum and quickly made a name for himself and a pretty good fortune on criminal affairs. Everyone in Dale knows him as one of the most dangerous and reckless thugs. He was permanently banned from the Lady Luck Club for stalking Adele."
-    new ""
+    new "从很小的时候起，Diego就和各种各样的人渣混在一起，很快就成名了，并在刑事事务上发了大财。Dale的每个人都知道他是最危险、最鲁莽的暴徒之一。他因跟踪Adele而被永久禁止进入Lady Luck俱乐部。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Don is Samantha and Ashley's strict father, who had to work tirelessly to feed his family and me as well. He's always been a jerk, and he's become even more arrogant and demanding of his family since he got to the top job at the car dealership."
-    new ""
+    new "Don是Samantha和Ashley严厉的父亲，他不得不不知疲倦地工作来养活他的家人和我。他一直是个混蛋，自从他在汽车经销店担任最高职务以来，他变得更加傲慢，对家人的要求也越来越高。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Heir to a hereditary family of wizards, headman of Leonheart, and Cordale's chief smuggler, Elijah is the kind of man who loves life and wants to take everything from it. He often lacks responsibility, but he has a good heart and will always come to the aid of his friends."
-    new ""
+    new "Elijah是一个巫师世袭家族的继承人，Leonheart的首领，Cordale的主要走私者，他是那种热爱生活并想从中夺取一切的人。他常常缺乏责任感，但他心地善良，总是会帮助他的朋友。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Ezra Bloom, Elijah's older brother who went missing years ago. It turned out that he was trying to escape with his lover Hans from his father's wrath, but everything went terribly wrong: Hans died, and Ezra was stranded on a desert island for eight years until Haley and I rescued him."
-    new ""
+    new "Ezra Bloom，Elijah的哥哥，几年前失踪了。原来他正试图和他的情人Hans一起逃离父亲的愤怒，但一切都非常糟糕：Hans死了，Ezra被困在荒岛上八年，直到Haley和我救了他。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Frida is one of four students of the legendary Melissa Owlsight. Arriving with her from Europe, she helped to found Cordale Academy and established the house of Crowhive. Their top priorities have always been cold reasoning and a desire to accumulate and expand their knowledge of the magical world."
-    new ""
+    new "Frida是传说中的Melissa鹰眼的四名学生之一。她从欧洲来到这里，帮助创办了Cordale学院，并建立了Crowhive分院。他们的首要任务一直是冷静的推理，以及积累和扩展魔法世界知识的愿望。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "This year, Gabriella, a lively and cheerful latina, enrolled at Cordale in the Martenden house. She is interested in martial magic and is a regular at the Dueling club. Among other students, Gabi has a reputation of a dangerous and ruthless rival, though she looks like she could hurt a fly."
-    new ""
+    new "今年，活泼开朗的拉美裔Gabriella在Martenden house的Cordale报到。她对物质魔法很感兴趣，是决斗俱乐部的常客。在其他学生中，加比有一个危险而无情的对手的名声，尽管她看起来可能会伤害一只苍蝇。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "An ugly creature that terrified anyone who dared to walk the streets of Dale at night for a long time. Barely able to speak but requests to be called Harvey. He is said to be somehow related to Sabrina because he constantly calls out her name and preys on girls who look like her."
-    new ""
+    new "一个丑陋的生物，它吓坏了任何敢于在夜间在Dale的街道上走很长时间的人。几乎不能说话，但要求被称为Harvey。据说他和Sabrina有某种关系，因为他经常喊她的名字，并捕食长得像她的女孩。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "A cunning and practical dwarf who owns a store in downtown Dale. He's not a bad guy despite his sullen appearance. He raises his daughter, half-dwarf and half-fairy Willow, alone and takes great pride in her. He loves fish pies and is always ready to hire anyone as a fisherman."
-    new ""
+    new "一个狡猾而务实的侏儒，在Dale市中心开了一家商店。尽管他闷闷不乐，但他不是坏人。他独自抚养着自己的女儿，一半是矮子，一半是仙子，并以她为荣。他喜欢鱼馅饼，随时准备雇用任何人当渔夫。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "A bright and determined freshman at Crowhive House, Grace does not possess outstanding talents, but she more than makes up for it in hard work. Sometimes it seems she only has fun when she studies. Grace dreams of excelling in the field of potions and inventing her own potion recipes."
-    new ""
+    new "Grace是Crowhive分院的一名聪明而坚定的新生，她并不拥有杰出的才能，但她通过努力工作弥补了这一点。有时，她似乎只有在学习的时候才有乐趣。Grace梦想在药水领域出类拔萃，并发明自己的药水配方。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Haley had dreamed of being a sorceress since childhood, even though she was born into a family of ordinary people. Her dream came true when she received a letter from Cordale, and now she's living a dream. She loves reading and learning new things, can't resist riddles, and is always ready to participate in any adventure."
-    new ""
+    new "Haley从小就梦想成为一名女巫，尽管她出生在一个普通人的家庭。当她收到Cordale的一封信时，她的梦想实现了，现在她活在梦想中。她喜欢阅读和学习新事物，无法抗拒解密，并且随时准备参加任何冒险活动。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Many considered Jacob Frollo one of the most promising mages of his generation. He is a renowned master of defensive spells and has always dreamed of inventing an ultimatum protective magic. He took a job at Cordale to find like-minded people and train them in his craft."
-    new ""
+    new "许多人认为Jacob Frollo是他那一代最有前途的法师之一。他是著名的防御魔法大师，一直梦想发明最后通牒保护魔法。他在Cordale找到了一份工作，寻找志同道合的人，并对他们进行技能培训。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Jaina is one of four students of the legendary Melissa Owlsight. Arriving with her from Europe, she helped to found Cordale Academy and established the house of Martenden. Their top priorities have always been hard work and good intentions."
-    new ""
+    new "Jaina是传说中的Melissa鹰眼的四名学生之一。与她一起从欧洲来到这里，她帮助建立了Cordale学院，并建立了Martenden分院。他们的首要任务一直是努力工作和良好意愿。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lovely Jill loves pranks and jokes. She and her twin sister Faith inherited Whistley's Spa massage parlor in Dale from their parents. They have a rare talent for healing magic, and their gift has made their salon one of the most popular in the region. "
-    new ""
+    new "可爱的Jill喜欢恶作剧和笑话。她和孪生姐妹Faith从父母那里继承了Whistley在Dale的水疗按摩院。他们在治疗魔法方面有着罕见的天赋，他们的天赋使他们的沙龙成为该地区最受欢迎的沙龙之一。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Joshi, a young student of Crowhive House, has a unique talent for finding problems. He's no stranger to illegal substances, loves to party and talk, lives for the day, and doesn't think much about his studies or the future. He is easily one of the most hated students among teachers."
-    new ""
+    new "Joshi是Crowhive分院的一名年轻学生，在发现问题方面有着独特的天赋。他对非法物质并不陌生，喜欢聚会和聊天，整天都在生活，对自己的学习和未来也不太在意。他无疑是老师们最讨厌的学生之一。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Katrina is one of four students of the legendary Melissa Owlsight. Arriving with her from Europe, she helped to found Cordale Academy and established the house of Adderin. Their top priorities have always been pure blood and earning success in any way possible."
-    new ""
+    new "Katrina是传说中的Melissa鹰眼观的四名学生之一。她从欧洲来到这里，帮助创办了Cordale学院，并建立了Adderin分院。他们的首要任务一直是纯血统和以任何可能的方式获得成功。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Leona is one of four students of the legendary Melissa Owlsight. Arriving with her from Europe, she helped to found Cordale Academy and established the house of Leonheart. Their top priorities have always been сourage and honesty in all deeds."
-    new ""
+    new "Leona娜是传说中的Melissa鹰眼的四名学生之一。她从欧洲来到这里，帮助创办了Cordale学院，并建立了Leonheart分院。他们的首要任务一直是在所有行为中保持诚实和诚实。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The gentle and slightly naive girl Lily, a young student of the House of Leonheart, is, in fact, a descendant of Leona Leonheart herself. Her parents are stringent and require Lily to succeed in everything in order not to shame the legacy of her great ancestors."
-    new ""
+    new "温柔而略带天真的女孩Lily是Leonheart家族的一名年轻学生，事实上，她也是利Leona Leonheart的后代。她的父母很严格，要求莉莉在每件事上都要成功，以免羞辱她伟大祖先的遗产。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lucy is a young, friendly, and somewhat kinky dancer from the Lady Luck Club. She came to Dale from Europe in search of a better life. Lucy respects Adele and her co-workers but still dreams of leaving her stripper career one day to pursue her dreams and fulfill her ambitions."
-    new ""
+    new "Lucy是幸运女神俱乐部的一位年轻、友好、有点古怪的舞蹈演员。她从欧洲来到Dale寻求更好的生活。Lucy尊重Adele和她的同事，但她仍然梦想着有一天离开她的脱衣舞事业，去追求她的梦想，实现她的抱负。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Mina is a young and shy receptionist at the Dale-ly Apartments. She has a hard time connecting with her peers, so she communicates with the hotel's residents most of the time. Mina works to save up for a trip worldwide and is willing to do whatever it takes to get a promotion."
-    new ""
+    new "Mina是Dale-ly公寓的一名年轻而害羞的接待员。她很难与同龄人沟通，因此她大部分时间都与酒店的居民沟通。Mina努力为环球旅行存钱，并愿意不惜一切代价获得晋升。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The hard-working businesswoman, Molly, is Arthur's niece. Instead of developing her magical talents, she decided to open her own cafe in Cordale and make money for her chain of restaurants. Arthur disapproves of his niece's choice but has no way of influencing it."
-    new ""
+    new "勤奋的女商人Molly是Arthur的侄女。她没有发展自己的魔法天赋，而是决定在Cordale开一家自己的咖啡馆，为连锁餐厅赚钱。Arthur不赞成他侄女的选择，但没有办法影响他的选择。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Freshman Adderin Naomi wants to seem like a cold-hearted bitch to everyone, but she's actually a pretty sweet and vulnerable girl. Her parents are respected and influential mages who expect their daughter to be able to carry on the family business with dignity."
-    new ""
+    new "大一新生Adderin Naomi想让每个人都觉得她是一个冷酷的婊子，但实际上她是一个非常可爱和脆弱的女孩。她的父母都是受人尊敬的、有影响力的法师，他们希望他们的女儿能够有尊严地继承家族事业。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Olivia is the mother of Samantha and Ashley and the wife of Don. Her best friend, my mom, died in childbirth, and she was forced to raise me with her children. She is unhappy in her marriage and drowns her sorrows in wine and expensive shopping."
-    new ""
+    new "Olivia是Samantha和Ashley的母亲，也是Don的妻子。她最好的朋友，我的妈妈，在分娩时去世了，她被迫带着孩子抚养我。她婚姻不幸福，用酒和昂贵的购物来消愁。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The young astral sorceress Penny is trained by the greatest astral magician Salazar Hudson and travels in search of rare artifacts on his instructions. On one of these trips, she got lost in the astral plane and almost lost her body, but everything turned out well."
-    new ""
+    new "年轻的星界女巫Penny接受了最伟大的星界魔术师Salazar Hudson的训练，按照他的指示四处寻找稀有的神器。在其中一次旅行中，她在灵界迷路了，差点失去了肉身，但一切都很顺利。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lambert"
-    new ""
+    new "Lambert"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Half-orc Romulus spent his entire life in Dale's criminal circles but got tired of constant run-ins with the police and decided to settle down. He got a job as a bouncer at Lady Luck nightclub and tries to lead an honest life, though he still can't deny himself the pleasure of extorting bribes."
-    new ""
+    new "半兽人Romulus一生都在Dale的犯罪圈子里度过，但厌倦了与警察的不断磨合，决定安定下来。他在Lady Luck夜总会找到了一份保镖的工作，并试图过上诚实的生活，尽管他仍然无法否认自己勒索贿赂的乐趣。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Sabrina is the youngest of Cordale's teachers and a true fan of her craft. She has loved mixing and experimenting with potions since she was young, and being a teacher allows her to do her thing and have access to the rarest of magical ingredients."
-    new ""
+    new "Sabrina是Cordale最年轻的老师，也是她的手艺的忠实粉丝。她从小就喜欢混合和试验药剂，作为一名教师，她可以做自己的事情，获得最稀有的魔法材料。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Sadira, daughter of the eastern sultan, fled from an abusive father who did not allow her to enjoy life and her femininity. She needs no money and takes a job as a dancer at Lady Luck to enjoy the attention of men and satisfy her sexual needs. "
-    new ""
+    new "东部苏丹的女儿Sadira逃离了一位虐待她的父亲，父亲不允许她享受生活和女性气质。她不需要钱，在Lady Luck找了一份舞蹈演员的工作，以享受男人的关注并满足她的性需求。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Olivia's oldest daughter, Samantha, has always been kind and sweet to me. She is a sophomore from Leonheart's house at Cordale. Samantha is a very talented wizard and the pride of the whole academy. She has a great future in the magical world and dreams of becoming the champion of the most prestigious wizarding tournament."
-    new ""
+    new "Olivia的大女儿Samantha对我一直都很好，很甜蜜。她是Cordale的Leonheart家的大二学生。Samantha是一个非常有天赋的巫师，是整个学院的骄傲。她在魔法世界有着美好的未来，梦想成为最负盛名的巫师锦标赛冠军。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The mysterious Vanessa works at Lady Luck as a bartender. Unlike many other vampires, she is not bloodthirsty at all and leads a civilized life, eating only to survive. She has an obvious talent for making cocktails, and she's also into DJing. "
-    new ""
+    new "神秘的Vanessa在Lady Luck酒吧当酒保。与许多其他吸血鬼不同，她一点也不嗜血，过着文明的生活，吃东西只是为了生存。她显然有制作鸡尾酒的天赋，而且她也喜欢DJ"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Victoria, a strict but fair teacher of battle magic. She loves teaching prominent students and hates slackers. Victoria has won the Teacher of the Year awards many times. Her students and other teachers respect Victoria for her talents and noble character."
-    new ""
+    new "Victoria，一位严格但公平的战斗魔法老师。她喜欢教优秀的学生，讨厌懒汉。Victoria多次获得年度最佳教师奖。她的学生和其他老师尊重Victoria的才华和高尚品格。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Playful and cheerful Willow is Gordon's daughter and his assistant in the Chompski shop. Thanks to her fairy talents, she is able to travel between worlds and find rare ingredients to sell. This has doubled the shop's profits and made her father very proud."
-    new ""
+    new "活泼开朗的Willow是Gordon的女儿和他在Chompski商店的助手。多亏了她的仙女天赋，她能够在世界之间旅行，找到稀有的原料出售。这使商店的利润翻了一番，使她的父亲非常自豪。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Although there are many magical creatures in the wizard world that ordinary people cannot even imagine, some things seem to be fiction and legends even among sorcerers. Most magicians believe that Mushroom people are just a myth, but one of them was seen in the forest near Cordale."
-    new ""
+    new "虽然巫师世界里有许多普通人甚至无法想象的魔法生物，但有些东西甚至在巫师中也似乎是虚构和传说。大多数魔术师相信蘑菇人只是一个神话，但他们中的一个是在Cordale附近的森林里看到的。"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "{b}Minotaurs' Story{/b}"
-    new ""
+    new "{b}牛头怪的故事{/b}"
 
     # game/logic/main_interface/quest_log_db.rpy:1841
     old "Victoria told us that although the ghosts living in the Academy can be frightening in appearance, they are absolutely harmless thanks to the protective barrier imposed by the founders on Cordale. I wish I could see a ghost. Joshi said that one was heard at night in the Main hall. Should I check it out?"
-    new ""
+    new "Victoria告诉我们，尽管生活在学院里的鬼魂在外表上可能很吓人，但由于创始人对Cordale设置了保护屏障，它们绝对无害。我希望我能看见鬼。Joshi说晚上在大厅里听到了一声。我应该去看看吗？"
+
 
