@@ -104,6 +104,5 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_screen.rpy:568
     old "{b}Sabrina`s picture{/b}\n{size=16}Click to view{/size}"
-    new "{b}Sabrina的照片{/b}\n{size=16}点击以浏览{/size} 
-"
+    new "{b}Sabrina的照片{/b}\n{size=16}点击以浏览{/size}"
 
