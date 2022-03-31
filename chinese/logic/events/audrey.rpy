@@ -22163,5 +22163,5 @@ translate chinese strings:
 
     # game/logic/events/audrey.rpy:14
     old "Do you want Audrey to be a female or a shemale?"
-    new ""
+    new "你希望Audrey是女性还是人妖?"
 
