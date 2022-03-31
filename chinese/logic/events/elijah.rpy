@@ -2548,3 +2548,11 @@ translate chinese Elijah_6_label_57d809d1:
     # ch_Name "The Dueling club?"
     ch_Name "决斗俱乐部？"
 
+# TODO: Translation updated at 2022-03-31 15:32
+
+translate chinese strings:
+
+    # game/logic/events/elijah.rpy:8
+    old "Do you want Elijah to be a hetero or a homo?"
+    new ""
+

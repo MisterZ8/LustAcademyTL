@@ -10932,3 +10932,11 @@ translate chinese strings:
     old "Try to save her"
     new "试图拯救她"
 
+# TODO: Translation updated at 2022-03-31 15:32
+
+translate chinese strings:
+
+    # game/logic/events/adele.rpy:8
+    old "Do you want Sadira to be a female or a shemale?"
+    new ""
+

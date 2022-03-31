@@ -8734,3 +8734,11 @@ translate chinese Naomi_11_label_ebd8ab27:
     # ch_Name "{i}(And I won't rest until I know it.){/i}"
     ch_Name "{i}（在我知道之前我不会休息。）{/i}"
 
+# TODO: Translation updated at 2022-03-31 15:32
+
+# game/logic/events/naomi.rpy:2283
+translate chinese Naomi_11_label_0a80449d:
+
+    # ch_Name "{i}(Look how gorgeous Naomi is in the sunlight!){/i}"
+    ch_Name ""
+

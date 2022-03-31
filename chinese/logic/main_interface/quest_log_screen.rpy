@@ -98,3 +98,11 @@ translate chinese strings:
     old "My\nhouse"
     new "我的\n房子"
 
+# TODO: Translation updated at 2022-03-31 15:32
+
+translate chinese strings:
+
+    # game/logic/main_interface/quest_log_screen.rpy:568
+    old "{b}Sabrina`s picture{/b}\n{size=16}Click to view{/size}"
+    new ""
+

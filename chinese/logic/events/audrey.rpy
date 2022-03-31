@@ -22157,3 +22157,11 @@ translate chinese Audrey_13_label_c4edcc12:
     # ch_Name "{i}(I'm too angry to do anything else anyway.){/i}"
     ch_Name "{i}（我已经气到无法做别的事了。）{/i}"
 
+# TODO: Translation updated at 2022-03-31 15:32
+
+translate chinese strings:
+
+    # game/logic/events/audrey.rpy:14
+    old "Do you want Audrey to be a female or a shemale?"
+    new ""
+
