@@ -108,21 +108,21 @@ translate chinese strings:
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:208
     old "RECIPES"
-    new ""
+    new "食谱"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:209
     old "ALCHEMY"
-    new ""
+    new "炼金术"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:210
     old "INGREDIENTS"
-    new ""
+    new "成分"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:347
     old "Recipe"
-    new ""
+    new "食谱"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:366
     old "Recipe locked"
-    new ""
+    new "食谱锁"
 
