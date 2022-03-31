@@ -102,3 +102,27 @@ translate chinese strings:
     old "Learn this recipe by completing Audrey's quests."
     new "通过完成Audrey的任务来学习这个配方。"
 
+# TODO: Translation updated at 2022-03-31 21:54
+
+translate chinese strings:
+
+    # game/logic/mini_games/test_potion_makes/screen.rpy:208
+    old "RECIPES"
+    new ""
+
+    # game/logic/mini_games/test_potion_makes/screen.rpy:209
+    old "ALCHEMY"
+    new ""
+
+    # game/logic/mini_games/test_potion_makes/screen.rpy:210
+    old "INGREDIENTS"
+    new ""
+
+    # game/logic/mini_games/test_potion_makes/screen.rpy:347
+    old "Recipe"
+    new ""
+
+    # game/logic/mini_games/test_potion_makes/screen.rpy:366
+    old "Recipe locked"
+    new ""
+

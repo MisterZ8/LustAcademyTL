@@ -1072,3 +1072,19 @@ translate chinese strings:
     old "4th"
     new "第4"
 
+# TODO: Translation updated at 2022-03-31 21:54
+
+translate chinese strings:
+
+    # game/script.rpy:282
+    old "Lesser Heal Potion"
+    new ""
+
+    # game/script.rpy:284
+    old "Magic Reflection Potion"
+    new ""
+
+    # game/script.rpy:286
+    old "The Moonwalk tincture"
+    new ""
+
