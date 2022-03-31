@@ -1078,13 +1078,13 @@ translate chinese strings:
 
     # game/script.rpy:282
     old "Lesser Heal Potion"
-    new ""
+    new "较小的治疗药水"
 
     # game/script.rpy:284
     old "Magic Reflection Potion"
-    new ""
+    new "魔法反射药水"
 
     # game/script.rpy:286
     old "The Moonwalk tincture"
-    new ""
+    new "月球漫步酊剂"
 
