@@ -1096,229 +1096,229 @@ translate brazilian Haley_3_label_mtp_1_532cb1d7:
 translate brazilian Haley_3_label_mtp_1_02d86417:
 
     # ch_Name "You're desperately lacking in simple impulses in your life."
-    ch_Name ""
+    ch_Name "Você está em falta total de impulsos simples na sua vida."
 
 # game/logic/events/haley.rpy:518
 translate brazilian Haley_3_label_mtp_1_4ef1da60:
 
     # ch_Name "I asked you out because I wanted to ask you out."
-    ch_Name ""
+    ch_Name "Lhe convidei para sair porque eu queria lhe convidar."
 
 # game/logic/events/haley.rpy:519
 translate brazilian Haley_3_label_mtp_1_e25e13ae:
 
     # ch_Name "I hardly know anybody here but you."
-    ch_Name ""
+    ch_Name "Não conheço muita gente aqui além de você."
 
 # game/logic/events/haley.rpy:520
 translate brazilian Haley_3_label_mtp_1_33d33358:
 
     # ch_Name "And I thought we had a great time on the train..."
-    ch_Name ""
+    ch_Name "E achei que tínhamos nos divertido no trem..."
 
 # game/logic/events/haley.rpy:521
 translate brazilian Haley_3_label_mtp_1_aae9b149:
 
     # Haley "Yeah, you were a lot of fun."
-    Haley ""
+    Haley "É, você foi bem divertido."
 
 # game/logic/events/haley.rpy:523
 translate brazilian Haley_3_label_mtp_1_0d90dbfd:
 
     # Haley "I'm sorry for jumping to the punch line."
-    Haley ""
+    Haley "Desculpa por estragar a surpresa."
 
 # game/logic/events/haley.rpy:524
 translate brazilian Haley_3_label_mtp_1_e97a8ec5:
 
     # Haley "In high school, guys often pretended to be interested in me."
-    Haley ""
+    Haley "Na escola os rapazes normalmente fingiam estar interessados em mim."
 
 # game/logic/events/haley.rpy:525
 translate brazilian Haley_3_label_mtp_1_08026be0:
 
     # Haley "And in reality, they needed help in school."
-    Haley ""
+    Haley "Quando, na verdade, precisavam de ajuda na escola."
 
 # game/logic/events/haley.rpy:526
 translate brazilian Haley_3_label_mtp_1_3bdd86bf:
 
     # ch_Name "{i}(And what, no one wanted to get into your pants?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Como assim, ninguém quis tirar sua roupa?){/i}"
 
 # game/logic/events/haley.rpy:527
 translate brazilian Haley_3_label_mtp_1_7e1e62f6:
 
     # ch_Name "I'm sorry that you went to school with scumbags."
-    ch_Name ""
+    ch_Name "Sinto muito que tenha ido à escola com babacas."
 
 # game/logic/events/haley.rpy:528
 translate brazilian Haley_3_label_mtp_1_24f66cf2:
 
     # ch_Name "But don't lump everyone together."
-    ch_Name ""
+    ch_Name "Mas não coloque todos no mesmo saco."
 
 # game/logic/events/haley.rpy:530
 translate brazilian Haley_3_label_mtp_1_8e85b161:
 
     # ch_Name "Give me a chance and eventually you'll see what I'm really like."
-    ch_Name ""
+    ch_Name "Me dê uma chance e, eventualmente, você verá como realmente eu sou."
 
 # game/logic/events/haley.rpy:531
 translate brazilian Haley_3_label_mtp_1_8ca419b8:
 
     # ch_Name "There's no other way."
-    ch_Name ""
+    ch_Name "Não tem outro jeito."
 
 # game/logic/events/haley.rpy:532
 translate brazilian Haley_3_label_mtp_1_53e5b6ee:
 
     # Haley "Hmm. Okay."
-    Haley ""
+    Haley "Hmm. Ok."
 
 # game/logic/events/haley.rpy:533
 translate brazilian Haley_3_label_mtp_1_8e70fb5c:
 
     # Haley "Friends?"
-    Haley ""
+    Haley "Amigos?"
 
 # game/logic/events/haley.rpy:534
 translate brazilian Haley_3_label_mtp_1_a93666d8:
 
     # ch_Name "Friends. For now."
-    ch_Name ""
+    ch_Name "Amigos. Por enquanto."
 
 # game/logic/events/haley.rpy:535
 translate brazilian Haley_3_label_mtp_1_a91a892c:
 
     # Haley "For now?!"
-    Haley ""
+    Haley "Por enquanto?!"
 
 # game/logic/events/haley.rpy:536
 translate brazilian Haley_3_label_mtp_1_93d80927:
 
     # ch_Name "Who knows what you'll do..."
-    ch_Name ""
+    ch_Name "Quem sabe o que você vai aprontar..."
 
 # game/logic/events/haley.rpy:537
 translate brazilian Haley_3_label_mtp_1_8c9cf574:
 
     # Haley "Heh, okay."
-    Haley ""
+    Haley "Hehe, ok."
 
 # game/logic/events/haley.rpy:539
 translate brazilian Haley_3_label_mtp_1_16a49169:
 
     # Haley "Look, [Name], it was really nice to make a friend, but..."
-    Haley ""
+    Haley "Olha, [Name], foi muito legal fazer uma amizade mas..."
 
 # game/logic/events/haley.rpy:540
 translate brazilian Haley_3_label_mtp_1_cfd44bd8:
 
     # ch_Name "Have we already had a fight?!"
-    ch_Name ""
+    ch_Name "Nós já tivemos uma briga?!"
 
 # game/logic/events/haley.rpy:541
 translate brazilian Haley_3_label_mtp_1_936bf0cb:
 
     # Haley "No, no! I have to finish my individual assignment from Victoria."
-    Haley ""
+    Haley "Não, não! Tenho que terminar meu trabalho individual para Victoria."
 
 # game/logic/events/haley.rpy:542
 translate brazilian Haley_3_label_mtp_1_0d4dc40c:
 
     # Haley "Gotta run!"
-    Haley ""
+    Haley "Tenho que ir!"
 
 # game/logic/events/haley.rpy:543
 translate brazilian Haley_3_label_mtp_1_4d714413:
 
     # ch_Name "I get it. It's hard to let go and just stop being a straight-A student."
-    ch_Name ""
+    ch_Name "Entendo. E difícil se soltar e deixar de ser um aluno nota 10."
 
 # game/logic/events/haley.rpy:544
 translate brazilian Haley_3_label_mtp_1_3b212891:
 
     # ch_Name "Just do what you think is right."
-    ch_Name ""
+    ch_Name "Apenas faça o que achar que é certo."
 
 # game/logic/events/haley.rpy:546
 translate brazilian Haley_3_label_mtp_1_ede11384:
 
     # Haley "Thank you for a lovely evening."
-    Haley ""
+    Haley "Obrigada pela noite maravlhosa."
 
 # game/logic/events/haley.rpy:547
 translate brazilian Haley_3_label_mtp_1_79227660:
 
     # ch_Name "You, too."
-    ch_Name ""
+    ch_Name "Para você também."
 
 # game/logic/events/haley.rpy:550
 translate brazilian Haley_3_label_mtp_1_d3cb92b3:
 
     # ch_Name "By the way, it just so happens, that I live in the same building."
-    ch_Name ""
+    ch_Name "Por sinal, só por acaso, eu vivo no mesmo prédio."
 
 # game/logic/events/haley.rpy:551
 translate brazilian Haley_3_label_mtp_1_145e7ca2:
 
     # ch_Name "So if I don't seem too intrusive to you.{w} Can I walk you back to the dorm?"
-    ch_Name ""
+    ch_Name "Então, se não for muito atrevimento meu.{w} Posso lhe acompanhar até o dormitório?"
 
 # game/logic/events/haley.rpy:552
 translate brazilian Haley_3_label_mtp_1_28466bed:
 
     # Haley "Intrusive? Not at all!"
-    Haley ""
+    Haley "Atrevimento? De jeito nenhum!"
 
 # game/logic/events/haley.rpy:553
 translate brazilian Haley_3_label_mtp_1_86f3f234:
 
     # Haley "I'm sorry, I was so focused on Victoria's assigment, I spaced out a little."
-    Haley ""
+    Haley "Desculpa, estou tão focada no trabalho de Victoria, que {i}viajei{/i} um pouco."
 
 # game/logic/events/haley.rpy:554
 translate brazilian Haley_3_label_mtp_1_03ee8af7:
 
     # Haley "Sure you can. Let's go!"
-    Haley ""
+    Haley "Claro que pode. Vamos!"
 
 # game/logic/events/haley.rpy:557
 translate brazilian Haley_3_label_mtp_1_d4ae486a:
 
     # ch_Name "{i}(Well, that date turned out to be pretty awkward.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bem, esse encontro acabou sendo bem estranho.){/i}"
 
 # game/logic/events/haley.rpy:558
 translate brazilian Haley_3_label_mtp_1_3dbd1262:
 
     # ch_Name "{i}(But somehow, it wasn't bad awkward. I think we had fun.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas, de algum jeito, não foi estranho ruim. Acho que nos divertimos.){/i}"
 
 # game/logic/events/haley.rpy:559
 translate brazilian Haley_3_label_mtp_1_75ffe0d5:
 
     # ch_Name "{i}(I still can't believe no one was interested in Haley in high school.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ainda não acredito que ninguém se interessou pela Haley na escola.){/i}"
 
 # game/logic/events/haley.rpy:560
 translate brazilian Haley_3_label_mtp_1_3640ea02:
 
     # ch_Name "{i}(Were her classmates blind?!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Os colegas dela eram cegos?!){/i}"
 
 # game/logic/events/haley.rpy:561
 translate brazilian Haley_3_label_mtp_1_b08483aa:
 
     # ch_Name "{i}(Anyway, I need to think of a plan to not get stuck in her friendzone.){/i}"
-    ch_Name ""
+    ch_Name "{i}(De qualquer forma, preciso pensar em um plano para não ficar preso na {b}friendzone{/b}.){/i}"
 
 # game/logic/events/haley.rpy:562
 translate brazilian Haley_3_label_mtp_1_20c5edb0:
 
     # ch_Name "{i}(But later. I have to get some sleep.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas, depois. Agora tenho que dormir um pouco.){/i}"
 
 # game/logic/events/haley.rpy:573
 translate brazilian Haley_4_label_b14a12ef:
@@ -1330,265 +1330,265 @@ translate brazilian Haley_4_label_b14a12ef:
 translate brazilian Haley_4_label_9852e58e:
 
     # ch_Name "I knew I'd find you here!"
-    ch_Name ""
+    ch_Name "Sabia que ia lhe encontrar aqui!"
 
 # game/logic/events/haley.rpy:576
 translate brazilian Haley_4_label_4f5a31ad:
 
     # Haley "[Name], good to see you!"
-    Haley ""
+    Haley "[Name], bom lhe ver!"
 
 # game/logic/events/haley.rpy:577
 translate brazilian Haley_4_label_4fac2503:
 
     # Haley "What's up?"
-    Haley ""
+    Haley "Qual foi?"
 
 # game/logic/events/haley.rpy:579
 translate brazilian Haley_4_label_31a209a4:
 
     # ch_Name "Nothing. I just missed you."
-    ch_Name ""
+    ch_Name "Nada, não. Saudades suas."
 
 # game/logic/events/haley.rpy:580
 translate brazilian Haley_4_label_bead6911:
 
     # ch_Name "What are you doing?"
-    ch_Name ""
+    ch_Name "Está fazendo o quê?"
 
 # game/logic/events/haley.rpy:582
 translate brazilian Haley_4_label_21f590b7:
 
     # Haley "Studying."
-    Haley ""
+    Haley "Estudando;"
 
 # game/logic/events/haley.rpy:583
 translate brazilian Haley_4_label_fe511a5a:
 
     # Haley "I have an individual test with Miss Victoria after class."
-    Haley ""
+    Haley "Tenho um teste individual com Srta. Victoria depois da aula."
 
 # game/logic/events/haley.rpy:585
 translate brazilian Haley_4_label_c76b4668:
 
     # ch_Name "Individual test?!"
-    ch_Name ""
+    ch_Name "Teste individual?"
 
 # game/logic/events/haley.rpy:586
 translate brazilian Haley_4_label_7d497b12:
 
     # ch_Name "What the fuck is that?"
-    ch_Name ""
+    ch_Name "Que porra é essa?"
 
 # game/logic/events/haley.rpy:587
 translate brazilian Haley_4_label_164d630b:
 
     # ch_Name "We're supposed to be studying?"
-    ch_Name ""
+    ch_Name "Deveríamos estar estudando?"
 
 # game/logic/events/haley.rpy:589
 translate brazilian Haley_4_label_f1a17aa6:
 
     # Haley "Aha-ha. No, no!"
-    Haley ""
+    Haley "Ha ha ha. Não, não!"
 
 # game/logic/events/haley.rpy:591
 translate brazilian Haley_4_label_a5d48b9d:
 
     # Haley "I just wanted to pick up some tutorials on how to do advanced martial arts spells."
-    Haley ""
+    Haley "Eu só queria pegar alguns tutoriais sobre como avançar feitiços de artes marciais."
 
 # game/logic/events/haley.rpy:592
 translate brazilian Haley_4_label_2b022b58:
 
     # Haley "Mostly for the theory, of course."
-    Haley ""
+    Haley "Basicamente pela teoria, é claro."
 
 # game/logic/events/haley.rpy:593
 translate brazilian Haley_4_label_4999292e:
 
     # Haley "But you can't get books like that for a freshman, it's too dangerous."
-    Haley ""
+    Haley "Mas você não pode pegar livros como esse sendo calouro, é muito perigoso."
 
 # game/logic/events/haley.rpy:595
 translate brazilian Haley_4_label_255b6a18:
 
     # Haley "Miss Lapis is willing to make an exception for me."
-    Haley ""
+    Haley "Srta. Lapis está disposta a abrir uma excessão para mim."
 
 # game/logic/events/haley.rpy:596
 translate brazilian Haley_4_label_b46655fc:
 
     # Haley " If I get full marks on the spell course from the basic textbook."
-    Haley ""
+    Haley "Se conseguir boas notas no curso de feitiços do livro básico."
 
 # game/logic/events/haley.rpy:598
 translate brazilian Haley_4_label_32e602f5:
 
     # ch_Name "Oh... Sounds hard."
-    ch_Name ""
+    ch_Name "Oh... Parece difícil."
 
 # game/logic/events/haley.rpy:600
 translate brazilian Haley_4_label_a009bcae:
 
     # Haley "Hard doesn't mean impossible!"
-    Haley ""
+    Haley "Difícil não é impossível!"
 
 # game/logic/events/haley.rpy:601
 translate brazilian Haley_4_label_89760957:
 
     # ch_Name "Heh. I'll keep that in mind."
-    ch_Name ""
+    ch_Name "Hehe. Vou me lembrar disso."
 
 # game/logic/events/haley.rpy:602
 translate brazilian Haley_4_label_ef703fda:
 
     # ch_Name "Okay, I'll get out of your way."
-    ch_Name ""
+    ch_Name "Ok, não vou lhe atrapalhar."
 
 # game/logic/events/haley.rpy:604
 translate brazilian Haley_4_label_330c04cf:
 
     # ch_Name "Wait a minute!"
-    ch_Name ""
+    ch_Name "Espera um pouco!"
 
 # game/logic/events/haley.rpy:605
 translate brazilian Haley_4_label_c03ce48f:
 
     # Haley "I have a favor to ask you..."
-    Haley ""
+    Haley "Queria lhe pedir um favor..."
 
 # game/logic/events/haley.rpy:607
 translate brazilian Haley_4_label_62f20ce6:
 
     # ch_Name "I'm all ears."
-    ch_Name ""
+    ch_Name "Sou todo ouvidos."
 
 # game/logic/events/haley.rpy:608
 translate brazilian Haley_4_label_a1a7697f:
 
     # Haley "{b}My potion book was dipped in ink last night{/b} by pixies."
-    Haley ""
+    Haley "Meu livro de poções foi mergulhado em tinta pelos duendes ontem à noite."
 
 # game/logic/events/haley.rpy:610
 translate brazilian Haley_4_label_4168a1b1:
 
     # Haley "I went to the library and left a request for a replacement."
-    Haley ""
+    Haley "Estive na biblioteca e fiz um pedido de substituição."
 
 # game/logic/events/haley.rpy:611
 translate brazilian Haley_4_label_0c921508:
 
     # Haley "But Miss Amelie couldn't find the textbook right away."
-    Haley ""
+    Haley "Mas Srta, Amelie não conseguiu encontrar um imediatamente."
 
 # game/logic/events/haley.rpy:612
 translate brazilian Haley_4_label_37f58bc5:
 
     # Haley "So she told me to come in between classes."
-    Haley ""
+    Haley "Então ela disse para eu voltar entre as aulas."
 
 # game/logic/events/haley.rpy:613
 translate brazilian Haley_4_label_5ea33d85:
 
     # Haley "And then Miss Lapis said my practical was after class."
-    Haley ""
+    Haley "E Srta. Lapis disse que minha prova prática é depois da aula."
 
 # game/logic/events/haley.rpy:615
 translate brazilian Haley_4_label_2ede2fbe:
 
     # ch_Name "What a busy day you've had this morning."
-    ch_Name ""
+    ch_Name "Que dia cheio o seu agora de manhã."
 
 # game/logic/events/haley.rpy:616
 translate brazilian Haley_4_label_8655a6d0:
 
     # ch_Name "I don't envy you."
-    ch_Name ""
+    ch_Name "Não lhe invejo."
 
 # game/logic/events/haley.rpy:617
 translate brazilian Haley_4_label_dde1766e:
 
     # ch_Name "So what's your request?"
-    ch_Name ""
+    ch_Name "Então, qual o seu pedido?"
 
 # game/logic/events/haley.rpy:619
 translate brazilian Haley_4_label_61ae5754:
 
     # Haley "I don't have time to pick up my textbook myself before Potions."
-    Haley ""
+    Haley "Eu não tenho tempo de pegar o livro antes da aula de Poções."
 
 # game/logic/events/haley.rpy:620
 translate brazilian Haley_4_label_ee3320a4:
 
     # Haley "And the library closes after class."
-    Haley ""
+    Haley "E a biblioteca fecha depois das aulas."
 
 # game/logic/events/haley.rpy:621
 translate brazilian Haley_4_label_3fe63ad3:
 
     # Haley "I didn't know what to do, but then you showed up..."
-    Haley ""
+    Haley "Não sabia o que fazer mas, então, você apareceu..."
 
 # game/logic/events/haley.rpy:623
 translate brazilian Haley_4_label_aec70737:
 
     # Haley "Like a knight on a white horse! Just like in the fairy tales!"
-    Haley ""
+    Haley "Como um cavaleiro em um cavalo branco! Que nem um conto de fadas!"
 
 # game/logic/events/haley.rpy:624
 translate brazilian Haley_4_label_347aa0a1:
 
     # ch_Name "Hey, wait a minute!"
-    ch_Name ""
+    ch_Name "Ei, espera um pouco!"
 
 # game/logic/events/haley.rpy:625
 translate brazilian Haley_4_label_a2acf721:
 
     # ch_Name "I haven't agreed to anything yet."
-    ch_Name ""
+    ch_Name "Não concordei com nada, ainda."
 
 # game/logic/events/haley.rpy:627
 translate brazilian Haley_4_label_093eb1d3:
 
     # Haley "Yeah, I know."
-    Haley ""
+    Haley "É, eu sei."
 
 # game/logic/events/haley.rpy:628
 translate brazilian Haley_4_label_a9e71d67:
 
     # Haley "Just daydreaming."
-    Haley ""
+    Haley "Só devaneando."
 
 # game/logic/events/haley.rpy:629
 translate brazilian Haley_4_label_d6e63f3c:
 
     # Haley "So, can you pick up the textbook?"
-    Haley ""
+    Haley "Então, você poderia pegar o livro?"
 
 # game/logic/events/haley.rpy:631
 translate brazilian Haley_4_label_96ae8269:
 
     # ch_Name "No problem."
-    ch_Name ""
+    ch_Name "Sem problemas."
 
 # game/logic/events/haley.rpy:632
 translate brazilian Haley_4_label_aecbb95f:
 
     # ch_Name "But you'll owe me one."
-    ch_Name ""
+    ch_Name "Mas vai ficar me devendo."
 
 # game/logic/events/haley.rpy:634
 translate brazilian Haley_4_label_350240d6:
 
     # Haley "The knights in fairy tales do good deeds in the name of honor!"
-    Haley ""
+    Haley "Os cavaleiros dos contos de fadas fazem boas ações em nome da honra!"
 
 # game/logic/events/haley.rpy:635
 translate brazilian Haley_4_label_605e4a62:
 
     # ch_Name "I'm just a product of my times and upbringing."
-    ch_Name ""
+    ch_Name "Sou apenas um produto do meu tempo e criação."
 
 # game/logic/events/haley.rpy:636
 translate brazilian Haley_4_label_735aef29:
