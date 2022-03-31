@@ -2523,7 +2523,7 @@ translate chinese strings:
     new "虽然巫师世界里有许多普通人甚至无法想象的魔法生物，但有些东西甚至在巫师中也似乎是虚构和传说。大多数魔术师相信蘑菇人只是一个神话，但他们中的一个是在Cordale附近的森林里看到的。"
 
     # game/logic/main_interface/quest_log_db.rpy:326
-    old "{b}Minotaurs' Story{/b}"
+    old "{b}Minotaurs' story{/b}"
     new "{b}牛头怪的故事{/b}"
 
     # game/logic/main_interface/quest_log_db.rpy:1841
