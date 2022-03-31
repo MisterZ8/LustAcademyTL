@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/logic/events/sleep_wakeup.rpy:274
     old "Week {color=#E0CCB9}[week_num]{/color}"
-    new ""
+    new "周{color=#E0CCB9}[week_num]{/color}"
 
