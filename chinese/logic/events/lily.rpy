@@ -11493,5 +11493,5 @@ translate chinese Lily_10_label_de3b9f19:
 translate chinese Lily_9_label_c7aab37d:
 
     # ch_Name "Sounds just...{w} Pretty cool, yeah!"
-    ch_Name ""
+    ch_Name "听起来只是。。。{w} 很酷，是的！"
 
