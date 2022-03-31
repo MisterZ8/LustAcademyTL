@@ -562,7 +562,7 @@ translate philippine Sabrina_2_label_096b1771:
 translate philippine Sabrina_2_label_23755bb1:
 
     # Sabrina "I was just about to brew myself a lesser healing potion."
-    Sabrina "Magtitimpla na sana ako ng potion ng Mababang Pag-ayos."
+    Sabrina "Magtitimpla na sana ako ng potion ng Mababang Panggaling."
 
 # game/logic/events/sabrina.rpy:280
 translate philippine Sabrina_2_label_263732a4:
@@ -580,7 +580,7 @@ translate philippine Sabrina_2_label_763ea9c2:
 translate philippine Sabrina_2_label_d79eee61:
 
     # Sabrina "Who can show me what we put in the lesser healing potion?"
-    Sabrina "Sino ang magpakita sa akin kung ano ang inilagay natin sa potion ng mababang pag-ayos?"
+    Sabrina "Sino ang magpakita sa akin kung ano ang inilagay natin sa potion ng mababang panggaling?"
 
 # game/logic/events/sabrina.rpy:284
 translate philippine Sabrina_2_label_0e964f21:
