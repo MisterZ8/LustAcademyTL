@@ -558,7 +558,7 @@ translate philippine strings:
 
     # game/script.rpy:84
     old "Lesser Heal"
-    new "Mababang Pag-ayos"
+    new "Mababang Panggaling"
 
     # game/script.rpy:86
     old "Stoneskin"
