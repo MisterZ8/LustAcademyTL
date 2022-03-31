@@ -662,407 +662,407 @@ translate chinese InStory_3_9b81a6e8:
 translate chinese Boat_2_5_f415bec9:
 
     # ch_Name "{i}(I hope Adele is okay.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我希望Adele没事。）{/i}"
 
 # game/logic/story/logic.rpy:1486
 translate chinese Boat_2_5_bc858e84:
 
     # ch_Name "{i}(I wish I had time to check before the boat.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我希望在上船前有时间检查一下。）{/i}"
 
 # game/logic/story/logic.rpy:1487
 translate chinese Boat_2_5_0c1f4ac4:
 
     # ch_Name "{i}(Now I'll be able to meet her only in a few weeks.){/i}"
-    ch_Name ""
+    ch_Name "{i}（现在我只能在几周后见到她。）{/i}"
 
 # game/logic/story/logic.rpy:1494
 translate chinese Boat_2_5_89bdb209:
 
     # Haley "Where do I spend my evening in Dale?"
-    Haley ""
+    Haley "我晚上在Dale哪里度过？"
 
 # game/logic/story/logic.rpy:1495
 translate chinese Boat_2_5_99e6c3bb:
 
     # Haley "Well, at the library, of course! It has so many exciting books about magic!"
-    Haley ""
+    Haley "当然是在图书馆！它有那么多关于魔法的激动人心的书！"
 
 # game/logic/story/logic.rpy:1496
 translate chinese Boat_2_5_776a156f:
 
     # ch_Name "{i}(I should consider creating a \"Haley Bingo\". I'd be a champion.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我应该考虑创建一个“Haley Bingo”。我会成为冠军的。）{/i}"
 
 # game/logic/story/logic.rpy:1497
 translate chinese Boat_2_5_73e82aae:
 
     # ch_Name "Heh, I should check it sometimes."
-    ch_Name ""
+    ch_Name "嘿，我什么时候应该检查一下。"
 
 # game/logic/story/logic.rpy:1498
 translate chinese Boat_2_5_4b59e2da:
 
     # Haley "Cool! You can keep me company!"
-    Haley ""
+    Haley "好啊！你可以陪我！"
 
 # game/logic/story/logic.rpy:1505
 translate chinese Boat_2_5_7f6318e7:
 
     # Jacob "Welcome back!"
-    Jacob ""
+    Jacob "欢迎回来！"
 
 # game/logic/story/logic.rpy:1506
 translate chinese Boat_2_5_675afa6c:
 
     # Jacob "I hope you had fun at Dale."
-    Jacob ""
+    Jacob "我希望你在Dale玩得开心。"
 
 # game/logic/story/logic.rpy:1508
 translate chinese Boat_2_5_4ae29bd7:
 
     # Jacob "Get some sleep, everybody!"
-    Jacob ""
+    Jacob "大家睡一觉！"
 
 # game/logic/story/logic.rpy:1509
 translate chinese Boat_2_5_bd2d9016:
 
     # Jacob "Tomorrow the train will take you home to your families."
-    Jacob ""
+    Jacob "明天火车会带你回家和家人团聚。"
 
 # game/logic/story/logic.rpy:1627
 translate chinese InStory_4_1e692147:
 
     # ch_Name "So who won?"
-    ch_Name ""
+    ch_Name "那么谁赢了？"
 
 # game/logic/story/logic.rpy:1628
 translate chinese InStory_4_9e76ffb0:
 
     # Haley "We're about to find out."
-    Haley ""
+    Haley "我们就要知道了。"
 
 # game/logic/story/logic.rpy:1630
 translate chinese InStory_4_df58dea4:
 
     # Arthur "Dear students!"
-    Arthur ""
+    Arthur "亲爱的同学们！"
 
 # game/logic/story/logic.rpy:1631
 translate chinese InStory_4_d683f700:
 
     # Arthur "Congratulations on the successful completion of the first half of the school year!"
-    Arthur ""
+    Arthur "祝贺你们顺利完成上半年的学业！"
 
 # game/logic/story/logic.rpy:1632
 translate chinese InStory_4_3582ceaa:
 
     # Arthur "Your friends and relatives are probably waiting for you to go home for Christmas."
-    Arthur ""
+    Arthur "你的朋友和亲戚可能在等你回家过圣诞节。"
 
 # game/logic/story/logic.rpy:1633
 translate chinese InStory_4_61b3d39a:
 
     # Arthur "So everyone is welcome to take a two-week vacation and visit them."
-    Arthur ""
+    Arthur "因此，欢迎每个人休两周的假并拜访他们。"
 
 # game/logic/story/logic.rpy:1635
 translate chinese InStory_4_6e9c5840:
 
     # ch_Name "Didn't we celebrate Yule recently?"
-    ch_Name ""
+    ch_Name "我们最近不是庆祝圣诞节吗？"
 
 # game/logic/story/logic.rpy:1636
 translate chinese InStory_4_d4b4225b:
 
     # Haley "Were you even listening to him?"
-    Haley ""
+    Haley "你在听他说话吗？"
 
 # game/logic/story/logic.rpy:1637
 translate chinese InStory_4_1afe7092:
 
     # Haley "Yule is a magical holiday."
-    Haley ""
+    Haley "圣诞节是一个神奇的节日。"
 
 # game/logic/story/logic.rpy:1638
 translate chinese InStory_4_4ffcd011:
 
     # Haley "And Christmas vacation is for spending it with relatives."
-    Haley ""
+    Haley "圣诞节假期是和亲戚一起度过的。"
 
 # game/logic/story/logic.rpy:1639
 translate chinese InStory_4_b16df4e3:
 
     # Haley "Don't interfere with Arthur's listening, please."
-    Haley ""
+    Haley "请不要干扰我听Arthur说话。"
 
 # game/logic/story/logic.rpy:1641
 translate chinese InStory_4_e226270c:
 
     # Arthur "I'm sure I don't need to remind you that our society keeps magic a closely guarded secret."
-    Arthur ""
+    Arthur "我相信我不需要提醒你，我们的社会对魔法保密。"
 
 # game/logic/story/logic.rpy:1642
 translate chinese InStory_4_58675ec4:
 
     # Arthur "So stick to the legend of your education."
-    Arthur ""
+    Arthur "所以，坚持你所受的传统教育。"
 
 # game/logic/story/logic.rpy:1643
 translate chinese InStory_4_968753a4:
 
     # Arthur "And not a word about what Cordale Academy really is."
-    Arthur ""
+    Arthur "Cordale学院到底是什么一字不提。"
 
 # game/logic/story/logic.rpy:1644
 translate chinese InStory_4_b587ff89:
 
     # Arthur "Remember, after six months with us - you're already considered wizards."
-    Arthur ""
+    Arthur "记住，我们在一起在这里呆了六个月后，你们已经被认为是巫师了。"
 
 # game/logic/story/logic.rpy:1645
 translate chinese InStory_4_856da4ee:
 
     # Arthur "And the Ministry of Magic severely punishes wizards..."
-    Arthur ""
+    Arthur "魔法部严厉惩罚那些。。。"
 
 # game/logic/story/logic.rpy:1646
 translate chinese InStory_4_26dd68c1:
 
     # Arthur "...who violate the rules of the secret existence of the magical world."
-    Arthur ""
+    Arthur "。。。违反了魔法世界秘密存在规则的巫师。"
 
 # game/logic/story/logic.rpy:1647
 translate chinese InStory_4_221022b2:
 
     # Arthur "I hope you heard me and understood the seriousness of the matter."
-    Arthur ""
+    Arthur "我希望你能听到我的话并理解事情的严重性。"
 
 # game/logic/story/logic.rpy:1649
 translate chinese InStory_4_d440a389:
 
     # Arthur "And now, for the organization of the journey home..."
-    Arthur ""
+    Arthur "现在，对于组织回家的旅程。。。"
 
 # game/logic/story/logic.rpy:1650
 translate chinese InStory_4_33d82b80:
 
     # Arthur "...as of today, there will be trains running from our station."
-    Arthur ""
+    Arthur "。。。从今天起，将有火车从我们的车站开出。"
 
 # game/logic/story/logic.rpy:1651
 translate chinese InStory_4_b160b985:
 
     # Arthur "The schedule will be made available to your elders."
-    Arthur ""
+    Arthur "你的长辈们可以使用这个时间表。"
 
 # game/logic/story/logic.rpy:1652
 translate chinese InStory_4_57c3b417:
 
     # Arthur "I hope you have a good time with your families and return safe and sound."
-    Arthur ""
+    Arthur "我希望你们和家人过得愉快，平安归来。"
 
 # game/logic/story/logic.rpy:1653
 translate chinese InStory_4_a3e3f26f:
 
     # Arthur "See you in two weeks!"
-    Arthur ""
+    Arthur "两周后见！"
 
 # game/logic/story/logic.rpy:1654
 translate chinese InStory_4_33c2dfd7:
 
     # ch_Name "{i}(Christmas with Samantha's family...){/i}"
-    ch_Name ""
+    ch_Name "{i}（和Samantha的家人一起过圣诞节。。。）{/i}"
 
 # game/logic/story/logic.rpy:1655
 translate chinese InStory_4_9c436c0f:
 
     # ch_Name "{i}(I don't think it will be that festive.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我不认为会有那么喜庆的气氛。）{/i}"
 
 # game/logic/story/logic.rpy:1656
 translate chinese InStory_4_14d7dfac:
 
     # ch_Name "{i}(But staying here by myself when everyone else leaves will be lonely, too...){/i}"
-    ch_Name ""
+    ch_Name "{i}（但当其他人离开时，独自留在这里也会很孤独。。。）{/i}"
 
 # game/logic/story/logic.rpy:1657
 translate chinese InStory_4_4e1ed717:
 
     # ch_Name "{i}(Eh, what to do...){/i}"
-    ch_Name ""
+    ch_Name "{i}（呃，怎么办。。。）{/i}"
 
 # game/logic/story/logic.rpy:1658
 translate chinese InStory_4_5a56eb7d:
 
     # ch_Name "{i}(No matter what you choose, I'll have a lousy Christmas anyway...){/i}"
-    ch_Name ""
+    ch_Name "{i}（不管你怎么选，我都会过一个糟糕的圣诞节。。。）{/i}"
 
 # game/logic/story/logic.rpy:1659
 translate chinese InStory_4_d37f607f:
 
     # ch_Name "{i}(I can't wait for these two weeks to go by!){/i}"
-    ch_Name ""
+    ch_Name "{i}（我等不及这两周过去了！）{/i}"
 
 # game/logic/story/logic.rpy:1661
 translate chinese InStory_4_39f9c506:
 
     # Arthur "Oh, I almost forgot!"
-    Arthur ""
+    Arthur "哦，我差点忘了！"
 
 # game/logic/story/logic.rpy:1662
 translate chinese InStory_4_d4f56add:
 
     # Arthur "Congratulations to Leonheart for winning the weekly house competition!"
-    Arthur ""
+    Arthur "祝贺Leonheart赢得每周分院比赛！"
 
 # game/logic/story/logic.rpy:1663
 translate chinese InStory_4_f06021cf:
 
     # Arthur "It's important to honor our traditions, so you can go to Dale."
-    Arthur ""
+    Arthur "尊重我们的传统很重要，所以你们可以去Dale。"
 
 # game/logic/story/logic.rpy:1664
 translate chinese InStory_4_c8a2f252:
 
     # Arthur "Don't worry. You'll be able to take train home after you return."
-    Arthur ""
+    Arthur "别担心。你回来后可以坐火车回家。"
 
 # game/logic/story/logic.rpy:1665
 translate chinese InStory_4_4edb884a:
 
     # Arthur "The boat is already waiting for you for anyone who wants to visit Dale one last time this year."
-    Arthur ""
+    Arthur "船已经在等着你，等着今年最后一次来Dale的人。"
 
 # game/logic/story/logic.rpy:1666
 translate chinese InStory_4_24496e03:
 
     # Arthur "Have fun!"
-    Arthur ""
+    Arthur "玩的开心！"
 
 # game/logic/story/logic.rpy:1668
 translate chinese InStory_4_9788e3a6:
 
     # Haley "Wow! That's great!"
-    Haley ""
+    Haley "哇！太好了！"
 
 # game/logic/story/logic.rpy:1669
 translate chinese InStory_4_7d583343:
 
     # Haley "It would be sad to leave without tasting Ahchi's coffee one last time."
-    Haley ""
+    Haley "如果没有最后一次品尝Ahchi的咖啡就走了，那将是一件令人难过的事。"
 
 # game/logic/story/logic.rpy:1670
 translate chinese InStory_4_e06a7df8:
 
     # ch_Name "You've read my thoughts!"
-    ch_Name ""
+    ch_Name "你读过我的想法！"
 
 # game/logic/story/logic.rpy:1671
 translate chinese InStory_4_1141adc1:
 
     # ch_Name "Let's go to the boat!"
-    ch_Name ""
+    ch_Name "我们上船吧！"
 
 # game/logic/story/logic.rpy:1672
 translate chinese InStory_4_148911c7:
 
     # Haley "Yay!"
-    Haley ""
+    Haley "耶！"
 
 # game/logic/story/logic.rpy:1679
 translate chinese InStory_4_4154be42:
 
     # ch_Name "{i}(Wow, Haley got so excited about Dale...){/i}"
-    ch_Name ""
+    ch_Name "{i}（哇，Haley对Dale太兴奋了。。。）{/i}"
 
 # game/logic/story/logic.rpy:1680
 translate chinese InStory_4_3982ac6f:
 
     # ch_Name "{i}(I can barely catch up to her.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我几乎追不上她。）{/i}"
 
 # game/logic/story/logic.rpy:1681
 translate chinese InStory_4_705c95fb:
 
     # ch_Name "{i}(Maybe she needs some space after what happened...){/i}"
-    ch_Name ""
+    ch_Name "{i}（也许她在事情发生后需要一些空间。。。）{/i}"
 
 # game/logic/story/logic.rpy:1683
 translate chinese InStory_4_bddfe8f3:
 
     # ch_Name "{i}(Yeah, probably.){/i}"
-    ch_Name ""
+    ch_Name "{i}（对，可能吧。）{/i}"
 
 # game/logic/story/logic.rpy:1684
 translate chinese InStory_4_36972a68:
 
     # ch_Name "{i}(I shouldn't be so persistent about keeping her company.){/i}"
-    ch_Name ""
+    ch_Name "{i}（我不该如此执着地想和她作伴。）{/i}"
 
 # game/logic/story/logic.rpy:1685
 translate chinese InStory_4_c3f03a90:
 
     # ch_Name "{i}(Besides, I have a lot of stuff to do in Dale.){/i}"
-    ch_Name ""
+    ch_Name "{i}（此外，我在Dale有很多事情要做。）{/i}"
 
 # game/logic/story/logic.rpy:1687
 translate chinese InStory_4_e0dda525:
 
     # ch_Name "{i}(Ah, this is nice.){/i}"
-    ch_Name ""
+    ch_Name "{i}（啊，这太好了。）{/i}"
 
 # game/logic/story/logic.rpy:1688
 translate chinese InStory_4_d964704d:
 
     # ch_Name "{i}(Best coffee in the world, here I go!){/i}"
-    ch_Name ""
+    ch_Name "{i}（世界上最好的咖啡，我来了！）{/i}"
 
 # game/logic/story/logic.rpy:1695
 translate chinese InStory_4_6ecef2b8:
 
     # ch_Name "{i}(Alright, [Name]. No need to think about awkward Christmas with Rouse's.){/i}"
-    ch_Name ""
+    ch_Name "{i}（好的，[Name]。没必要去想Rouse家的尴尬圣诞节。）{/i}"
 
 # game/logic/story/logic.rpy:1696
 translate chinese InStory_4_d851ebcd:
 
     # ch_Name "{i}(Right now you're going to have a blast in Dale.){/i}"
-    ch_Name ""
+    ch_Name "{i}（现在你会在Dale玩得很开心。）{/i}"
 
 # game/logic/story/logic.rpy:1698
 translate chinese InStory_4_5807b037:
 
     # ch_Name "{i}(And the best way to start a great weekend is with coffee.){/i}"
-    ch_Name ""
+    ch_Name "{i}（开始一个美好周末的最好方式就是喝咖啡。）{/i}"
 
 # game/logic/story/logic.rpy:1699
 translate chinese InStory_4_a8fd09ef:
 
     # ch_Name "{i}(Time to visit Ahchi.){/i}"
-    ch_Name ""
+    ch_Name "{i}（是时候去拜访Ahchi了。）{/i}"
 
 # game/logic/story/logic.rpy:1706
 translate chinese InStory_4_c5912085:
 
     # ch_Name "{i}(Gosh, even the weather is nice today.){/i}"
-    ch_Name ""
+    ch_Name "{i}（天哪，连今天的天气都很好。）{/i}"
 
 # game/logic/story/logic.rpy:1707
 translate chinese InStory_4_ffcb2aa6:
 
     # ch_Name "{i}(Maybe I should drink my coffee outside?){/i}"
-    ch_Name ""
+    ch_Name "{i}（也许我应该在外面喝咖啡？）{/i}"
 
 # game/logic/story/logic.rpy:1708
 translate chinese InStory_4_67d5df8b:
 
     # ch_Name "{i}(But that way I won't have a chat with Ahchi...){/i}"
-    ch_Name ""
+    ch_Name "{i}（但那样我就不能和Ahchi聊天了。。。）{/i}"
 
 # game/logic/story/logic.rpy:1709
 translate chinese InStory_4_f07c58db:
 
     # ch_Name "{i}(Well, let's see how it goes before I decide.){/i}"
-    ch_Name ""
+    ch_Name "{i}（好吧，在我决定之前，让我们看看进展如何。）{/i}"
 
