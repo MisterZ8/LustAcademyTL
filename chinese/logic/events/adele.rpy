@@ -10938,5 +10938,5 @@ translate chinese strings:
 
     # game/logic/events/adele.rpy:8
     old "Do you want Sadira to be a female or a shemale?"
-    new ""
+    new "你希望Sadira是女性还是人妖?"
 
