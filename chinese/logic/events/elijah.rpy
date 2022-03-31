@@ -2554,5 +2554,5 @@ translate chinese strings:
 
     # game/logic/events/elijah.rpy:8
     old "Do you want Elijah to be a hetero or a homo?"
-    new ""
+    new "你希望Elijah是异性恋还是同性恋？"
 
