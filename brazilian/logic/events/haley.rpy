@@ -850,247 +850,247 @@ translate brazilian Haley_3_label_325a0981:
 translate brazilian Haley_3_label_f9247aa8:
 
     # Haley "I'd sooner believe that you're dreaming about my sushi."
-    Haley ""
+    Haley "Era mais fácil eu acreditar que você estava sonhando com meu sushi."
 
 # game/logic/events/haley.rpy:450
 translate brazilian Haley_3_label_1855220c:
 
     # ch_Name "What?"
-    ch_Name ""
+    ch_Name "O quê?"
 
 # game/logic/events/haley.rpy:452
 translate brazilian Haley_3_label_229a09fa_1:
 
     # Haley "Well, it's just that you..."
-    Haley ""
+    Haley "Bem, é só que você..."
 
 # game/logic/events/haley.rpy:453
 translate brazilian Haley_3_label_8bc527ae_1:
 
     # Haley "I'm sorry, I'll be blunt..."
-    Haley ""
+    Haley "Desculpe, serei direta..."
 
 # game/logic/events/haley.rpy:455
 translate brazilian Haley_3_label_59bd2de2:
 
     # Molly "Your order."
-    Molly ""
+    Molly "Seu pedido."
 
 # game/logic/events/haley.rpy:464
 translate brazilian Haley_3_label_47c32155:
 
     # ch_Name "Thank you very much."
-    ch_Name ""
+    ch_Name "Muito obrigado."
 
 # game/logic/events/haley.rpy:465
 translate brazilian Haley_3_label_3da0c332:
 
     # Haley "Thank you."
-    Haley ""
+    Haley "Obrigada."
 
 # game/logic/events/haley.rpy:467
 translate brazilian Haley_3_label_7e449dae:
 
     # ch_Name "{i}(Check this out!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Olha isso!){/i}"
 
 # game/logic/events/haley.rpy:469
 translate brazilian Haley_3_label_e980dd76:
 
     # ch_Name "{i}(That's the kind of service I like.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Esse é o tipo de atendimento que eu gosto.){/i}"
 
 # game/logic/events/haley.rpy:470
 translate brazilian Haley_3_label_4c82cd65:
 
     # ch_Name "{i}(No wonder Molly gets so many tips.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não é à toa que Molly ganha tantas gorjetas.){/i}"
 
 # game/logic/events/haley.rpy:472
 translate brazilian Haley_3_label_c5289494:
 
     # Haley "Hey, buddy."
-    Haley ""
+    Haley "Ei, cara."
 
 # game/logic/events/haley.rpy:473
 translate brazilian Haley_3_label_de879303:
 
     # ch_Name "Oh... I was just..."
-    ch_Name ""
+    ch_Name "Oh... Estava só..."
 
 # game/logic/events/haley.rpy:475
 translate brazilian Haley_3_label_77a2e829:
 
     # Haley "Proving to me that you weren't joking about being a perv?"
-    Haley ""
+    Haley "Provando para mim que não estava brincando sobre ser um tarado?"
 
 # game/logic/events/haley.rpy:476
 translate brazilian Haley_3_label_4693860c:
 
     # ch_Name "Sorry, let's pretend that didn't happen."
-    ch_Name ""
+    ch_Name "Desculpe, vamos fazer de conta que isso não aconteceu."
 
 # game/logic/events/haley.rpy:480
 translate brazilian Haley_3_label_ingore_mollys_ass_309362dd:
 
     # ch_Name "You wanted to tell me something..."
-    ch_Name ""
+    ch_Name "Você queria me dizer alguma coisa..."
 
 # game/logic/events/haley.rpy:481
 translate brazilian Haley_3_label_ingore_mollys_ass_d6f40943:
 
     # Haley "Forget it."
-    Haley ""
+    Haley "Esquece."
 
 # game/logic/events/haley.rpy:482
 translate brazilian Haley_3_label_ingore_mollys_ass_8639843f:
 
     # ch_Name "No, come on. I'm curious!"
-    ch_Name ""
+    ch_Name "Não, vamos. Estou curioso!"
 
 # game/logic/events/haley.rpy:484
 translate brazilian Haley_3_label_ingore_mollys_ass_7423cb53:
 
     # ch_Name "Why don't you believe my compliment is sincere?"
-    ch_Name ""
+    ch_Name "Por que não acredita que meu elogio é sincero?"
 
 # game/logic/events/haley.rpy:485
 translate brazilian Haley_3_label_ingore_mollys_ass_698cf441:
 
     # Haley "Well..."
-    Haley ""
+    Haley "Bem..."
 
 # game/logic/events/haley.rpy:487
 translate brazilian Haley_3_label_ingore_mollys_ass_6bfef549:
 
     # Haley "You don't strike me as a romantic!"
-    Haley ""
+    Haley "Você não me parece ser um romântico!"
 
 # game/logic/events/haley.rpy:488
 translate brazilian Haley_3_label_ingore_mollys_ass_bd67f888:
 
     # ch_Name "What do you mean?"
-    ch_Name ""
+    ch_Name "O que quer dizer?"
 
 # game/logic/events/haley.rpy:489
 translate brazilian Haley_3_label_ingore_mollys_ass_587c8404:
 
     # Haley "We haven't known each other very long, but..."
-    Haley ""
+    Haley "Não nos conhecemos há muito tempo, mas..."
 
 # game/logic/events/haley.rpy:490
 translate brazilian Haley_3_label_ingore_mollys_ass_b37429c5:
 
     # Haley "You seem like a simpler, more straightforward kind of guy."
-    Haley ""
+    Haley "Você parece um cara mais simples, mais direto."
 
 # game/logic/events/haley.rpy:492
 translate brazilian Haley_3_label_ingore_mollys_ass_8c69aeeb:
 
     # Haley "Not the kind of guy who would sit with a girl in a café and think about eternal things."
-    Haley ""
+    Haley "Não do tipo que senta com uma garota em um café e pensa em coisas eternas."
 
 # game/logic/events/haley.rpy:493
 translate brazilian Haley_3_label_ingore_mollys_ass_728b62d2:
 
     # Haley "I'd be less surprised if you were staring at my chest."
-    Haley ""
+    Haley "Eu estaria menos surpresa se estivess olhando para meus peitos."
 
 # game/logic/events/haley.rpy:494
 translate brazilian Haley_3_label_ingore_mollys_ass_37a799c4:
 
     # ch_Name "You're hurting my feelings."
-    ch_Name ""
+    ch_Name "Você está ferindo meus sentimentos."
 
 # game/logic/events/haley.rpy:496
 translate brazilian Haley_3_label_ingore_mollys_ass_5e27b2af:
 
     # ch_Name "I've been looking at your boobs for a long time!"
-    ch_Name ""
+    ch_Name "Eu estava olhando para seus peitos por bastante tempo!"
 
 # game/logic/events/haley.rpy:497
 translate brazilian Haley_3_label_ingore_mollys_ass_4c61576c:
 
     # Haley "There! That's what I'm talking about!"
-    Haley ""
+    Haley "Isso! É disso que estou falando!"
 
 # game/logic/events/haley.rpy:498
 translate brazilian Haley_3_label_ingore_mollys_ass_6d5eb6b8:
 
     # ch_Name "I'm a multifaceted person."
-    ch_Name ""
+    ch_Name "Sou um cara multifacetado."
 
 # game/logic/events/haley.rpy:499
 translate brazilian Haley_3_label_ingore_mollys_ass_b60dfe73:
 
     # Haley "Never mind."
-    Haley ""
+    Haley "Deixe para lá."
 
 # game/logic/events/haley.rpy:503
 translate brazilian Haley_3_label_mtp_1_76a73585:
 
     # Haley "Anyway, spit it out!"
-    Haley ""
+    Haley "De qualquer forma, fala logo!"
 
 # game/logic/events/haley.rpy:504
 translate brazilian Haley_3_label_mtp_1_bd67f888:
 
     # ch_Name "What do you mean?"
-    ch_Name ""
+    ch_Name "Como assim?"
 
 # game/logic/events/haley.rpy:505
 translate brazilian Haley_3_label_mtp_1_cd6d28bd:
 
     # Haley "Tell me why you called me here."
-    Haley ""
+    Haley "Me diga por que me chamou aqui."
 
 # game/logic/events/haley.rpy:506
 translate brazilian Haley_3_label_mtp_1_8e3f5ba5:
 
     # ch_Name "What do you mean..."
-    ch_Name ""
+    ch_Name "Como assim..."
 
 # game/logic/events/haley.rpy:508
 translate brazilian Haley_3_label_mtp_1_906ff982:
 
     # Haley "You wanted to talk about something?"
-    Haley ""
+    Haley "Você queria me falar alguma coisa?"
 
 # game/logic/events/haley.rpy:509
 translate brazilian Haley_3_label_mtp_1_88a0bf08:
 
     # Haley "To talk about the basics of magic?"
-    Haley ""
+    Haley "Falar sobre os básicos de magia?"
 
 # game/logic/events/haley.rpy:510
 translate brazilian Haley_3_label_mtp_1_aeee42f4:
 
     # Haley "Maybe practice some magic together?"
-    Haley ""
+    Haley "Talvez praticar alguma magia juntos?"
 
 # game/logic/events/haley.rpy:512
 translate brazilian Haley_3_label_mtp_1_831ab89e:
 
     # Haley "Or were you trying to trick me?"
-    Haley ""
+    Haley "Ou estava tentando me enganar?"
 
 # game/logic/events/haley.rpy:513
 translate brazilian Haley_3_label_mtp_1_2c59a5ba:
 
     # ch_Name "Is it working?"
-    ch_Name ""
+    ch_Name "Está funcionando?"
 
 # game/logic/events/haley.rpy:514
 translate brazilian Haley_3_label_mtp_1_814da241:
 
     # Haley "I knew it!"
-    Haley ""
+    Haley "Sabia!"
 
 # game/logic/events/haley.rpy:515
 translate brazilian Haley_3_label_mtp_1_532cb1d7:
 
     # ch_Name "I was just kidding!"
-    ch_Name ""
+    ch_Name "Estava brincando!"
 
 # game/logic/events/haley.rpy:516
 translate brazilian Haley_3_label_mtp_1_02d86417:
