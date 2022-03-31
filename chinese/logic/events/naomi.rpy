@@ -8740,5 +8740,5 @@ translate chinese Naomi_11_label_ebd8ab27:
 translate chinese Naomi_11_label_0a80449d:
 
     # ch_Name "{i}(Look how gorgeous Naomi is in the sunlight!){/i}"
-    ch_Name ""
+    ch_Name "{i}(看看Naomi在阳光下多么美丽！){/i}"
 
