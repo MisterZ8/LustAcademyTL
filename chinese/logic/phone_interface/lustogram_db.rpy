@@ -3013,3 +3013,19 @@ translate chinese strings:
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Seems that you have well-trained fingers! I'm only interested in what more can they do to bring satisfaction..."
     new "看来你的手指训练有素！我只对他们还能做些什么来带来满足感感兴趣..."
+# TODO: Translation updated at 2022-04-02 04:02
+
+translate chinese strings:
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Elijah: Only Sam? What about me?"
+    new "Elijah:只有Sam? 关于我的什么?"
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Samantha: Also because the one who helped me to choose my outfit has reeeally good taste..."
+    new "Samantha:还因为帮我选衣服的那个人真的很有品位..."
+
+    # game/logic/phone_interface/lustogram_db.rpy:52
+    old "Samantha: C'mon, don't take it too seriously, ok?"
+    new ""
+
