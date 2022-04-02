@@ -136,7 +136,7 @@ translate chinese sheet_19_93031dde:
 translate chinese sheet_19_c4506604:
 
     # Jacob "There are only three magic institutions in America."
-    Jacob "美国只有三家神奇的机构。"
+    Jacob "美国只有三家魔法机构。"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:67
 translate chinese sheet_19_6d9fca84:
@@ -148,7 +148,7 @@ translate chinese sheet_19_6d9fca84:
 translate chinese sheet_19_859af304:
 
     # Jacob "Our academy was founded in the18th century."
-    Jacob "我们的学院建于18世纪。"
+    Jacob "我们的学院于18世纪。"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:71
 translate chinese sheet_19_71f5a7e3:
@@ -166,7 +166,7 @@ translate chinese sheet_19_e3c4f908:
 translate chinese sheet_19_59e5e3ca:
 
     # Jacob "...by four wizards who had immigrated from Europe."
-    Jacob "...四个从欧洲移民来的巫师"
+    Jacob "...由四个从欧洲移民来的巫师建立。"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:77
 translate chinese sheet_19_db82bdfc:
