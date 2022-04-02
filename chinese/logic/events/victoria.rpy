@@ -4510,7 +4510,7 @@ translate chinese strings:
 
     # game/logic/events/victoria.rpy:551
     old "Answer modestly"
-    new "适度的答案"
+    new "谦虚地回答"
 
     # game/logic/events/victoria.rpy:551
     old "Answer confidently"
@@ -4522,7 +4522,7 @@ translate chinese strings:
 
     # game/logic/events/victoria.rpy:806
     old "Check out her breasts"
-    new "看看她的乳房"
+    new "看看她的胸"
 
     # game/logic/events/victoria.rpy:1119
     old "Be silent"
