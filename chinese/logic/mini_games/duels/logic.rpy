@@ -112,7 +112,7 @@ translate chinese end_duel_61eb1d29:
 translate chinese end_duel_9a6c67b5:
 
     # Jacob "Great job! That's all for today."
-    Jacob "伟大的工作! 今天就到这里。"
+    Jacob "干得好! 今天就到这里。"
 
 # game/logic/mini_games/duels/logic.rpy:2561
 translate chinese end_duel_9af6ed18:
@@ -130,19 +130,19 @@ translate chinese strings:
 
     # game/logic/mini_games/duels/logic.rpy:319
     old "Combat Bolt"
-    new "战斗螺栓"
+    new "战斗弓箭"
 
     # game/logic/mini_games/duels/logic.rpy:335
     old "Incendio"
-    new "Incendio"
+    new "开火"
 
     # game/logic/mini_games/duels/logic.rpy:357
     old "Episkey"
-    new "Episkey"
+    new "愈合如初"
 
     # game/logic/mini_games/duels/logic.rpy:381
     old "Rictusempra"
-    new "Rictusempra"
+    new "咧嘴呼啦啦"
 
     # game/logic/mini_games/duels/logic.rpy:511
     old "Aggressive"
@@ -158,7 +158,7 @@ translate chinese strings:
 
     # game/logic/mini_games/duels/logic.rpy:945
     old "Locked"
-    new "锁着的"
+    new "已锁定"
 
     # game/logic/mini_games/duels/logic.rpy:953
     old "Cooldown: 1 Round"
@@ -178,7 +178,7 @@ translate chinese strings:
 
     # game/logic/mini_games/duels/logic.rpy:1747
     old "points"
-    new "点"
+    new "点数"
 
     # game/logic/mini_games/duels/logic.rpy:2173
     old "Get ready to lose your house points, loser!"
@@ -222,7 +222,7 @@ translate chinese strings:
 
     # game/logic/mini_games/duels/logic.rpy:2543
     old "Those were easy points for Leonheart."
-    new "这些对勒诺哈特来说很容易。"
+    new "这些对Leonheart来说很容易。"
 
     # game/logic/mini_games/duels/logic.rpy:2543
     old "I like you better when you're quiet."
@@ -230,7 +230,7 @@ translate chinese strings:
 
     # game/logic/mini_games/duels/logic.rpy:2543
     old "So appetizing. I wonder who's hiding beneath that mask?"
-    new "所以开胃。我想知道面具下藏着谁?"
+    new "太美味了。我想知道面具下藏着谁?"
 
     # game/logic/mini_games/duels/logic.rpy:2543
     old "A worthy fight! I wish I knew who you were..."
