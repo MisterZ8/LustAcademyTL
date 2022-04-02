@@ -24,15 +24,15 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_screen.rpy:351
     old "HOUSE POINTS"
-    new "房屋积分"
+    new "分院积分"
 
     # game/logic/main_interface/quest_log_screen.rpy:355
     old "   My\nhouse"
-    new "我的\n房屋"
+    new "我的\n分院"
 
     # game/logic/main_interface/quest_log_screen.rpy:440
     old "KNOWN SPEELS"
-    new "已知药水"
+    new "已知咒语"
 
     # game/logic/main_interface/quest_log_screen.rpy:464
     old "Spellpower"
@@ -40,7 +40,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_screen.rpy:471
     old "duels_locked"
-    new "决斗_锁定"
+    new "决斗_已锁定"
 
     # game/logic/main_interface/quest_log_screen.rpy:477
     old "This spell is not learned yet."
@@ -68,7 +68,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_screen.rpy:839
     old "Progress"
-    new "进步"
+    new "进度"
 
     # game/logic/main_interface/quest_log_screen.rpy:877
     old "Here you can keep track of all the routes, activities, etc. that are available to you. and quickly navigate"
@@ -104,5 +104,5 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_screen.rpy:568
     old "{b}Sabrina`s picture{/b}\n{size=16}Click to view{/size}"
-    new "{b}Sabrina的照片{/b}\n{size=16}点击以浏览{/size}"
+    new "{b}Sabrina的照片{/b}\n{size=16}点击以浏览{/size} "
 
