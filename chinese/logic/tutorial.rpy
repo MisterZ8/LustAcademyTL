@@ -112,7 +112,7 @@ translate chinese CordEntrance_label_4d0a14f3:
 translate chinese CordEntrance_label_b7843e2d:
 
     # Jacob "You're a messed up case, aren't you?"
-    Jacob "你这案子真是一团糟，是吧?"
+    Jacob "你这情况真是一团糟，是吧?"
 
 # game/logic/tutorial.rpy:601
 translate chinese CordEntrance_label_0313eace:
@@ -154,7 +154,7 @@ translate chinese CordEntrance_label_4614f3ee:
 translate chinese CordEntrance_label_bc91fdd7:
 
     # Jacob "Don't mention it. Try to be more attentive, Mr Brown."
-    Jacob "别客气。布朗先生，注意听点。"
+    Jacob "别客气。Brown先生，注意听点。"
 
 # game/logic/tutorial.rpy:609
 translate chinese CordEntrance_label_a8ebf1f0:
@@ -280,13 +280,13 @@ translate chinese CordGarden_label_0a4f54a9:
 translate chinese CordGarden_label_6351b055:
 
     # ch_Name "I'll take it! Thanks."
-    ch_Name "我就要它了! 谢谢。"
+    ch_Name "我拿一根! 谢谢。"
 
 # game/logic/tutorial.rpy:650
 translate chinese CordGarden_label_2c25e386:
 
     # Joshi "Let me give you a light."
-    Joshi "我给你点灯。"
+    Joshi "我给你点上。"
 
 # game/logic/tutorial.rpy:651
 translate chinese CordGarden_label_2f97a81b:
@@ -310,7 +310,7 @@ translate chinese CordGarden_label_a1d2923d:
 translate chinese CordGarden_label_6e34bba6:
 
     # ch_Name "Go ahead."
-    ch_Name "去做吧。"
+    ch_Name "说吧。"
 
 # game/logic/tutorial.rpy:656
 translate chinese CordGarden_label_7ad82520:
@@ -322,7 +322,7 @@ translate chinese CordGarden_label_7ad82520:
 translate chinese CordGarden_label_79f00acd:
 
     # ch_Name "Depends on what you're talking about."
-    ch_Name "这取决于你在说什么。"
+    ch_Name "这取决于你在说什么方面。"
 
 # game/logic/tutorial.rpy:658
 translate chinese CordGarden_label_9234c432:
@@ -442,7 +442,7 @@ translate chinese CordGarden_label_112c95db:
 translate chinese CordGarden_label_210e23fc:
 
     # Joshi "Did I mess up the meeting place?"
-    Joshi "我把见面地点弄乱了吗?"
+    Joshi "我搞错面地点了吗?"
 
 # game/logic/tutorial.rpy:686
 translate chinese CordGarden_label_b12eabfd:
@@ -496,7 +496,7 @@ translate chinese CordGarden_label_fc435854:
 translate chinese CordGarden_label_92ad7b29:
 
     # Joshi "It's up to you."
-    Joshi "由你决定。"
+    Joshi "这取决于你。"
 
 # game/logic/tutorial.rpy:700
 translate chinese CordGarden_label_41c699ca:
@@ -514,7 +514,7 @@ translate chinese CordGarden_label_a1d2923d_1:
 translate chinese CordGarden_label_6e34bba6_1:
 
     # ch_Name "Go ahead."
-    ch_Name "去做吧。"
+    ch_Name "说吧。"
 
 # game/logic/tutorial.rpy:704
 translate chinese CordGarden_label_7ad82520_1:
@@ -526,7 +526,7 @@ translate chinese CordGarden_label_7ad82520_1:
 translate chinese CordGarden_label_79f00acd_1:
 
     # ch_Name "Depends on what you're talking about."
-    ch_Name "这取决于你在说什么。"
+    ch_Name "这取决于你在说什么方面。"
 
 # game/logic/tutorial.rpy:706
 translate chinese CordGarden_label_883b147f:
@@ -550,7 +550,7 @@ translate chinese CordGarden_label_94f22a93_1:
 translate chinese CordGarden_label_ff262520_1:
 
     # ch_Name "Yeah, there's that."
-    ch_Name "是的，有。"
+    ch_Name "是的，确实。"
 
 # game/logic/tutorial.rpy:712
 translate chinese CordGarden_label_8bddcee8_1:
@@ -616,7 +616,7 @@ translate chinese CordGarden_label_feb7664c_1:
 translate chinese CordGarden_label_782b8053_1:
 
     # Joshi "And on the right is the cafe and Sabrina's class."
-    Joshi "右边是咖啡厅和Sabrina的课。"
+    Joshi "右边是咖啡厅和Sabrina的课堂。"
 
 # game/logic/tutorial.rpy:726
 translate chinese CordGarden_label_03c9e045_1:
@@ -646,7 +646,7 @@ translate chinese CordGarden_label_112c95db_1:
 translate chinese CordGarden_label_210e23fc_1:
 
     # Joshi "Did I mess up the meeting place?"
-    Joshi "我把见面地点弄乱了吗?"
+    Joshi "我搞错面地了吗?"
 
 # game/logic/tutorial.rpy:734
 translate chinese CordGarden_label_b12eabfd_1:
@@ -724,7 +724,7 @@ translate chinese CordLeftWing_label_2724fee9:
 translate chinese CordLeftWing_label_a1f254c7:
 
     # ch_Name "{i}(Shit, I can't catch her in time!){/i}"
-    ch_Name "{i}(该死，我没能及时赶上她!){/i}"
+    ch_Name "{i}(该死，我没能及时抓住她!){/i}"
 
 # game/logic/tutorial.rpy:763
 translate chinese CordLeftWing_label_2a64a53a:
@@ -820,7 +820,7 @@ translate chinese CordLeftWing_label_ba4ef7db:
 translate chinese CordLeftWing_label_9e0bcb90:
 
     # ch_Name "Anybody can be."
-    ch_Name "任何人都可以。"
+    ch_Name "任何人都可能。"
 
 # game/logic/tutorial.rpy:783
 translate chinese CordLeftWing_label_aa4f4b7a:
@@ -862,7 +862,7 @@ translate chinese CordLeftWing_label_be38b0ad:
 translate chinese CordLeftWing_label_46ca7571:
 
     # ch_Name "{i}(Shit, I need to think of an excuse to call her out... Oh, I know!){/i}"
-    ch_Name "{i}(妈的，我得找个借口叫她出来... 哦，我知道!){/i}"
+    ch_Name "{i}(妈的，我得找个借口约她出来... 哦，我知道!){/i}"
 
 # game/logic/tutorial.rpy:793
 translate chinese CordLeftWing_label_65c02259:
@@ -874,7 +874,7 @@ translate chinese CordLeftWing_label_65c02259:
 translate chinese CordLeftWing_label_5a0bb231:
 
     # ch_Name "But do you happen to know where Victoria's class is?"
-    ch_Name "但你知道Victoria的课在哪吗?"
+    ch_Name "但你知道Victoria的课堂在哪吗?"
 
 # game/logic/tutorial.rpy:796
 translate chinese CordLeftWing_label_3cd9236e:
@@ -904,7 +904,7 @@ translate chinese CordLeftWing_label_ac72bb37:
 translate chinese CordLeftWing_label_0ce6f211:
 
     # ch_Name "{i}(Fuck, [Name]. Where is Victoria's class? Really?){/i}"
-    ch_Name "{i}(他妈的，[Name]。Victoria的班级在哪里? 真的吗?){/i}"
+    ch_Name "{i}(他妈的，[Name]。Victoria的教室在哪里? 真的吗?){/i}"
 
 # game/logic/tutorial.rpy:802
 translate chinese CordLeftWing_label_1b893d3b:
@@ -1012,7 +1012,7 @@ translate chinese CordRightWing_label_99f37457:
 translate chinese CordRightWing_label_14e10a0f:
 
     # Grace "I'm sorry you had to watch that scene."
-    Grace "我很抱歉让你看了那场戏。"
+    Grace "我很抱歉让你看到了那个场景。"
 
 # game/logic/tutorial.rpy:837
 translate chinese CordRightWing_label_391b24b0:
@@ -1078,13 +1078,13 @@ translate chinese CordRightWing_label_6d8ac43b:
 translate chinese CordRightWing_label_450affd3:
 
     # Grace "Thanks for the offer. You're cute."
-    Grace "谢谢你的好意。你是可爱的。"
+    Grace "谢谢你的好意。你真可爱。"
 
 # game/logic/tutorial.rpy:851
 translate chinese CordRightWing_label_0a51a956:
 
     # ch_Name "{i}(You're nice, too.){/i}"
-    ch_Name "{i}(你是漂亮的。){/i}"
+    ch_Name "{i}(你也很好。){/i}"
 
 # game/logic/tutorial.rpy:852
 translate chinese CordRightWing_label_96ae8269:
@@ -1210,7 +1210,7 @@ translate chinese CordMainHall_label_86756501:
 translate chinese CordMainHall_label_3f75b23d:
 
     # ch_Name "{i}(Is that our director?){/i}"
-    ch_Name "{i}(那是我们的领导吗?){/i}"
+    ch_Name "{i}(那是我们的向导吗?){/i}"
 
 # game/logic/tutorial.rpy:891
 translate chinese CordMainHall_label_a8dd1f73:
@@ -1222,7 +1222,7 @@ translate chinese CordMainHall_label_a8dd1f73:
 translate chinese CordMainHall_label_6972bd8b:
 
     # ch_Name "Director! I confess, I didn't immediately recognize you in that outfit."
-    ch_Name "领导! 我承认，你穿这身衣服我都没认出来。"
+    ch_Name "向导! 我承认，你穿这身衣服我都没认出来。"
 
 # game/logic/tutorial.rpy:893
 translate chinese CordMainHall_label_7eb7551a:
@@ -1300,13 +1300,13 @@ translate chinese CordMainHall_label_bda6c814:
 translate chinese CordMainHall_label_78f0f7a9:
 
     # ch_Name "Of course not, sir. Goodbye, sir."
-    ch_Name "当然不是，先生，再见，先生。"
+    ch_Name "当然不想，先生，再见，先生。"
 
 translate chinese strings:
 
     # game/logic/tutorial.rpy:19
     old "This is your personal profile. Here you can find all the information about the main character (stats, spell levels, inventory) and follow the progress of the weekly house competition."
-    new "这是你的个人简介。在这里你可以找到所有关于主角的信息(属性，法术等级，库存)，并跟踪每周房屋竞争的进展。"
+    new "这是你的个人简介。在这里你可以找到所有关于主角的信息(属性，法术等级，库存)，并跟踪每周分院比赛的进展。"
 
     # game/logic/tutorial.rpy:19
     old "Here you can change the name of the main character at any time."
@@ -1318,7 +1318,7 @@ translate chinese strings:
 
     # game/logic/tutorial.rpy:19
     old "This is a block with the current results of competitions between houses. At the end of each week, the house that earned the most points is sent to Dale."
-    new "这是一个住宅之间竞争的结果。每周结束时，得分最高的房子会被送到Dale那里。"
+    new "这是一个分院比赛的结果。每周结束时，得分最高的分院会被送到Dale那里。"
 
     # game/logic/tutorial.rpy:19
     old "This shows the spells you've learned, as well as your skill level. The higher your skill level, the more effective the spells are."
@@ -1358,7 +1358,7 @@ translate chinese strings:
 
     # game/logic/tutorial.rpy:19
     old "The selected ingredients will go here. If you need to cancel your selection, click on the unwanted ingredient to clear the box. When you are ready, click on the MIX button."
-    new "选好的食材放在这里。如果您需要取消您的选择，请单击不需要的成分清除方框。当你准备好了，点击混合按钮。"
+    new "选好的材料放在这里。如果您需要取消您的选择，请单击不需要的成分清除方框。当你准备好了，点击混合按钮。"
 
     # game/logic/tutorial.rpy:19
     old "You'll find out the result of your experiments here. All elixirs brewed in practice classes stay with the students, meaning your's went into your inventory. Combat elixirs can be used at the dueling club."
@@ -1370,7 +1370,7 @@ translate chinese strings:
 
     # game/logic/tutorial.rpy:19
     old "Here you can find information about every character you’ve met: their description, relationship towards your hero, quest logs, and list of interesting scenes."
-    new "在这里你可以找到你所遇到的每个角色的信息:他们的描述，与英雄的关系，任务日志，以及有趣的场景列表。"
+    new "在这里你可以找到你所遇到的每个角色的信息:他们的描述，与你的主角的关系，任务日志，以及有趣的场景列表。"
 
     # game/logic/tutorial.rpy:19
     old "List of all characters in game, sorted from A to Z and their current route progression. You can click on any character from the list to get more detailed info."
@@ -1378,11 +1378,11 @@ translate chinese strings:
 
     # game/logic/tutorial.rpy:19
     old "Use the star icon to mark favorite characters. They will always appear at the top of the list."
-    new "使用星号图标来标记喜爱的字符。它们总是出现在列表的顶端。"
+    new "使用星号图标来标记喜爱的角色。它们会置顶。"
 
     # game/logic/tutorial.rpy:19
     old "Click here to find a short character description, including full name, age, etc."
-    new "点击这里查看简短的字符描述，包括全名、年龄等。"
+    new "点击这里查看简短的角色描述，包括全名、年龄等。"
 
     # game/logic/tutorial.rpy:19
     old "This bar represents the history of the relationship with this character. You can click on the completed steps to refresh your memory."
@@ -1454,7 +1454,7 @@ translate chinese strings:
 
     # game/logic/tutorial.rpy:19
     old "To exit the app and turn off your phone, tap this button or just click past the smartphone screen."
-    new "要退出应用程序和关闭您的手机，点击这个按钮，或只是点击过去的智能手机屏幕。"
+    new "要退出应用程序和关闭您的手机，点击这个按钮，或只是点击智能手机屏幕的外侧。"
 
     # game/logic/tutorial.rpy:19
     old "We recommend a short introductory tutorial to learn the purpose of all the elements of the main interface and how to use them to simplify the game."
@@ -1466,7 +1466,7 @@ translate chinese strings:
 
     # game/logic/tutorial.rpy:19
     old "If you want to accelerate the events, click on the \"Skip Time\" button, which is available in any location between scenes"
-    new "如果你想要加速事件，点击“Skip Time”按钮，在场景之间的任何位置都可以使用"
+    new "如果你想要加速事件，点击“跳过时间”按钮，在场景之间的任何位置都可以使用"
 
     # game/logic/tutorial.rpy:19
     old "Whenever you feel stuck or don’t know what to do you can check out this panel to find out about the current quest!"
@@ -1474,7 +1474,7 @@ translate chinese strings:
 
     # game/logic/tutorial.rpy:19
     old "These hints are only connected with the main storyline and do not affect character routes. All character routes are optional and can be skipped."
-    new "这些提示只与主要故事情节有关，并不影响角色路线。所有字符路由都是可选的，可以跳过。"
+    new "这些提示只与主要故事情节有关，并不影响角色路线。所有角色路线都是可选的，可以跳过。"
 
     # game/logic/tutorial.rpy:19
     old "Here you can check out your progress any time. The bar will be filled when you finish all possible quests for the current version of the game."
@@ -1494,7 +1494,7 @@ translate chinese strings:
 
     # game/logic/tutorial.rpy:19
     old "This is your personal profile. Here you can find all the information about the main character: stats, spell levels, inventory. In addition, you can follow the progress of the weekly house competition here."
-    new "这是你的个人简介。在这里你可以找到所有关于主角的信息:属性，法术等级，库存。另外，您可以在这里跟踪每周的房屋竞赛的进度。"
+    new "这是你的个人简介。在这里你可以找到所有关于主角的信息:属性，法术等级，库存。另外，您可以在这里跟踪每周的分院竞赛的进度。"
 
     # game/logic/tutorial.rpy:19
     old "This is your phone You can use it to view your friend's photos in the Lustagram app. We may add new features to the smartphone in future releases."
@@ -1502,7 +1502,7 @@ translate chinese strings:
 
     # game/logic/tutorial.rpy:19
     old "Here is the map, which allows you to quickly move between the available game zones."
-    new "这是地图，它允许你快速移动在可用的游戏区域之间。"
+    new "这是地图，它允许你在可用的游戏区域之间快速移动。"
 
     # game/logic/tutorial.rpy:19
     old "Each game zone is divided into several locations. This panel is responsible for moving quickly between locations within the zone. You can move from room to room in the usual way - through doors or signs."
@@ -1550,7 +1550,7 @@ translate chinese strings:
 
     # game/logic/tutorial.rpy:19
     old "Working in Cafe allows you to earn some money and get points for your school. This tutorial will tell you how to do the job right and get more money."
-    new "在咖啡馆工作可以让你赚一些钱，并为你的学校获得点数。本教程将告诉你如何做好工作，并获得更多的钱。"
+    new "在咖啡馆工作可以让你赚一些钱，并为你的分院获得点数。本教程将告诉你如何做好工作，并获得更多的钱。"
 
     # game/logic/tutorial.rpy:19
     old "This is the first out of five possible orders. Remember the sequence of dishes. When you're ready, click Start."
@@ -1586,11 +1586,11 @@ translate chinese strings:
 
     # game/logic/tutorial.rpy:19
     old "Here is your character's hitbar. Watch your stamina level and use elixirs and healing spells on time. If you have them in your arsenal, of course. Here you will also see all the buffs and debuffs on your character."
-    new "这是你的角色的耐力值。注意你的耐力水平，并及时使用长生不老药和治疗法术。当然，如果你有的话。在这里你也会看到你的角色的所有增益和减益。"
+    new "这是你的角色的耐力值。注意你的耐力水平，并及时使用长生不老药和治疗法术。当然，如果你有的话。在这里你也会看到你的角色的所有增益和负面效果。"
 
     # game/logic/tutorial.rpy:19
     old "All of your character's combat elixirs are shown here. You can use one of the available elixirs before each spell. The turn order is not lost."
-    new "你所有角色的战斗药剂都显示在这里。你可以在每个咒语之前使用一种可用的长生不老药。回合顺序不会丢失。"
+    new "你所有角色的战斗药剂都显示在这里。你可以在每个咒语之前使用一种可用的长生不老药。不会消耗回合。"
 
     # game/logic/tutorial.rpy:19
     old "These are the combat spells available to you. Combat Bolt can be used without restriction, and the others no more often than once every two turns. You can learn the missing spells in Victoria's lessons."
