@@ -72,19 +72,19 @@ translate chinese strings:
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:274
     old "Choose any {color=#f1af70}three{/color} ingredients and try to mix them."
-    new "选择任何{color=#f1af70}三种{/color}原料，并试着混合它们。"
+    new "选择任何{color=#f1af70}三种{/color}材料料，并试着混合它们。"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:275
     old "If you're lucky, you'll learn a new recipe."
-    new "幸运的话，你会学到一种新食谱。"
+    new "幸运的话，你会学到一种新配方。"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:276
     old "Or click on the learned recipe to select required ingredients."
-    new "或者点击学习的食谱来选择所需的配料。"
+    new "或者点击学习的配方来选择所需的配料。"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:319
     old "Learn this recipe by attending the Potions lecture."
-    new "参加魔药课学习这个食谱。"
+    new "参加魔药课学习这个配方。"
 
 # TODO: Translation updated at 2022-03-03 04:01
 
@@ -125,4 +125,3 @@ translate chinese strings:
     # game/logic/mini_games/test_potion_makes/screen.rpy:366
     old "Recipe locked"
     new "食谱锁"
-
