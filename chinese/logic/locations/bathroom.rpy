@@ -32,7 +32,7 @@ translate chinese strings:
 
     # game/logic/locations/bathroom.rpy:23
     old "Masturbate remembering..."
-    new "手淫的记忆。。。"
+    new "手淫的记忆..."
 
     # game/logic/locations/bathroom.rpy:23
     old "Finish the bath"
@@ -76,7 +76,7 @@ translate chinese strings:
 
     # game/logic/locations/bathroom.rpy:150
     old "There’s no half-singing in the shower, you’re either a rock star or an opera diva."
-    new "洗澡的时候没有半唱半唱，你要么是摇滚明星，要么是歌剧女主角。"
+    new "洗澡的时候没有唱几句，你要么是摇滚明星，要么是歌剧女主角。"
 
     # game/logic/locations/bathroom.rpy:150
     old "You don't know what fatigue is until you've had to rest after taking a shower."
@@ -88,7 +88,7 @@ translate chinese strings:
 
     # game/logic/locations/bathroom.rpy:150
     old "No matter how many times I shower, I still have some dirty thoughts..."
-    new "不管我洗多少次澡，我还是会有一些不好的想法。。。"
+    new "不管我洗多少次澡，我还是会有一些不好的想法..."
 
     # game/logic/locations/bathroom.rpy:150
     old "Take as much as long shower you need to think clearer. Many times, we get our best idea inside the restroom."
