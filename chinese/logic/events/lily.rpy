@@ -172,7 +172,7 @@ translate chinese Lily_1_label_122ecae8:
 translate chinese Lily_1_label_ee2ba0a9:
 
     # Lily "It's every student's job to fight for their house."
-    Lily "为院争光，人人有责！"
+    Lily "为分院争光，人人有责！"
 
 # game/logic/events/lily.rpy:276
 translate chinese Lily_1_label_33f96222:
@@ -190,7 +190,7 @@ translate chinese Lily_1_label_c919cdf9:
 translate chinese Lily_1_label_a629af4b:
 
     # ch_Name "I just don't get it, if the house wins the competition, so what?"
-    ch_Name "我这就不明白了，即使我们的学院赢了，那又怎么样！？ "
+    ch_Name "我这就不明白了，即使我们的分院赢了，那又怎么样！？ "
 
 # game/logic/events/lily.rpy:280
 translate chinese Lily_1_label_9e72fc37:
@@ -208,7 +208,7 @@ translate chinese Lily_1_label_eb1ea353:
 translate chinese Lily_1_label_d20e8a5a:
 
     # Lily "The whole magical world watches the results of house battles."
-    Lily "整个魔法界都在关注学院赛的成绩。"
+    Lily "整个魔法界都在关注分院赛的成绩。"
 
 # game/logic/events/lily.rpy:284
 translate chinese Lily_1_label_2c03e5ed:
@@ -220,7 +220,7 @@ translate chinese Lily_1_label_2c03e5ed:
 translate chinese Lily_1_label_9948c612:
 
     # Lily "At the very least!" - No Translation needed, included in previous line - Night0Shade_220129_0348hr
-    Lily ""
+    Lily "至少！"
 
 # game/logic/events/lily.rpy:286
 translate chinese Lily_1_label_5ffc5b5b:
@@ -244,7 +244,7 @@ translate chinese Lily_1_label_9ca81bf7:
 translate chinese Lily_1_label_0f326c06:
 
     # ch_Name "Then I'm in."
-    ch_Name "好吧，我愿意。"
+    ch_Name "好吧，我加入。"
 
 # game/logic/events/lily.rpy:291
 translate chinese Lily_1_label_cadb256e:
@@ -262,7 +262,7 @@ translate chinese Lily_1_label_49148c8e:
 translate chinese Lily_1_label_b2fefe9b:
 
     # ch_Name "{i}(How many people has she already tried to impose her housebattles on?!){/i}"
-    ch_Name "{i}(她到底挑战了多少人参与学院战啊？！){/i}"
+    ch_Name "{i}(她已经试图把她的分院战争强加给多少人了？！){/i}"
 
 # game/logic/events/lily.rpy:294
 translate chinese Lily_1_label_3bd6b702:
@@ -376,7 +376,7 @@ translate chinese Lily_1_label_d2e0f35e:
 translate chinese Lily_1_label_b0e7b226:
 
     # ch_Name "Our main goal is house points, right?"
-    ch_Name "我们的目标还是学院分，对吧?"
+    ch_Name "我们的目标还是分院分，对吧?"
 
 # game/logic/events/lily.rpy:320
 translate chinese Lily_1_label_9041fcc3:
@@ -490,7 +490,7 @@ translate chinese Lily_2_label_7342b7c9:
 translate chinese Lily_2_label_daedbf62:
 
     # ch_Name "I thought you got house points for attending."
-    ch_Name "你不是为了学院分而来上课的吗？"
+    ch_Name "你不是为了分院分而来上课的吗？"
 
 # game/logic/events/lily.rpy:356
 translate chinese Lily_2_label_93bd463c:
@@ -502,7 +502,7 @@ translate chinese Lily_2_label_93bd463c:
 translate chinese Lily_2_label_5f3ed3db:
 
     # Lily "I'm here for points."
-    Lily "我确实来上课是为了学院分。"
+    Lily "我确实来上课是为了分院分。"
 
 # game/logic/events/lily.rpy:359
 translate chinese Lily_2_label_78b6bf57:
@@ -532,7 +532,7 @@ translate chinese Lily_2_label_ab3fa1d4:
 translate chinese Lily_2_label_1d51c312:
 
     # Lily "And how's the point collection going?"
-    Lily "那学院分收集到如何了啊？"
+    Lily "那分院分收集到如何了啊？"
 
 # game/logic/events/lily.rpy:365
 translate chinese Lily_2_label_17b66340:
@@ -562,7 +562,7 @@ translate chinese Lily_2_label_c43ed6fc:
 translate chinese Lily_2_label_f7316e3e:
 
     # Lily "I have a few more ideas on how to score points!"
-    Lily "对了，我想到更多的方法来赢取学院分！"
+    Lily "对了，我想到更多的方法来赢取分院分！"
 
 # game/logic/events/lily.rpy:372
 translate chinese Lily_2_label_47595be8:
@@ -622,7 +622,7 @@ translate chinese Lily_2_label_1f8ee285:
 translate chinese Lily_2_label_6ce1f0a7:
 
     # Lily "Because Amelie gives faculty points for books!"
-    Lily "因为每当你还书时，Amelia会给你学院分啊！"
+    Lily "因为每当你还书时，Amelia会给你分院分啊！"
 
 # game/logic/events/lily.rpy:384
 translate chinese Lily_2_label_ce09f520:
@@ -808,7 +808,7 @@ translate chinese Lily_3_label_8_ca838981:
 translate chinese Lily_3_label_8_daedbf62:
 
     # ch_Name "I thought you got house points for attending."
-    ch_Name "你不是为了学院分而来上课的吗？"
+    ch_Name "你不是为了分院分而来上课的吗？"
 
 # game/logic/events/lily.rpy:451
 translate chinese Lily_3_label_8_93bd463c:
@@ -820,7 +820,7 @@ translate chinese Lily_3_label_8_93bd463c:
 translate chinese Lily_3_label_8_5f3ed3db:
 
     # Lily "I'm here for points."
-    Lily "我确实来上课是为了学院分。"
+    Lily "我确实来上课是为了分院分。"
 
 # game/logic/events/lily.rpy:454
 translate chinese Lily_3_label_8_78b6bf57:
@@ -850,7 +850,7 @@ translate chinese Lily_3_label_8_ab3fa1d4:
 translate chinese Lily_3_label_8_1d51c312:
 
     # Lily "And how's the point collection going?"
-    Lily "那学院分收集到如何了啊？"
+    Lily "那分院分收集到如何了啊？"
 
 # game/logic/events/lily.rpy:461
 translate chinese Lily_3_label_8_56fdf728:
@@ -2590,7 +2590,7 @@ translate chinese Lily_5_label_130_0da7b555:
 translate chinese Lily_5_label_130_f3f33777:
 
     # ch_Name "Let's discuss everything, including the faculty point plan, some other time."
-    ch_Name "我们下次再来讨论吧，包括学院分的计划。"
+    ch_Name "我们下次再来讨论吧，包括分院分的计划。"
 
 # game/logic/events/lily.rpy:920
 translate chinese Lily_5_label_130_8f73a628:
@@ -9360,7 +9360,7 @@ translate chinese strings:
 
     # game/logic/events/lily.rpy:1756
     old "Cum on her back"
-    new "射在她背"
+    new "射在她背后"
 
     # game/logic/events/lily.rpy:1791
     old "We have to go"
