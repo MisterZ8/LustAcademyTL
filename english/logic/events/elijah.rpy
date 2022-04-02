@@ -1936,7 +1936,7 @@ translate english Elijah_5_label_6f3b8d60:
 translate english Elijah_5_label_5d87b9f3:
 
     # ch_Name "{i}(I just need to bring this bottle to Elijah back in the Cordale.){/i}"
-    ch_Name "{i}(I just need to bring this bottle to Elijah back in Cordale.){/i"
+    ch_Name "{i}(I just need to bring this bottle to Elijah back in Cordale.){/i}"
 
 # game/logic/events/elijah.rpy:705
 translate english Elijah_5_label_2c7aeb3c:
