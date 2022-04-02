@@ -1558,7 +1558,7 @@ translate chinese strings:
 
     # game/logic/events/arthur_2.rpy:148
     old "At the moment, weekend activities are only available in Dale. To check them out - win a weekly house tournament"
-    new "目前，只有Dale有周末活动。去看看他们，赢得每周的家庭锦标赛"
+    new "目前，只有Dale有周末活动。去看看他们，赢得每周的分院比赛"
 
     # game/logic/events/arthur_2.rpy:149
     old "For now, we'll skip the weekends and get straight back to Monday."
@@ -1612,5 +1612,5 @@ translate chinese arthur_2_3_47fc46f6:
 translate chinese arthur_2_5_232f7e79:
 
     # Elijah "There's the hottest nightclub in town around the corner. Lady Luck."
-    Elijah "街角有城里最火的夜总会。幸运女神。"
+    Elijah "街角有城里最火的夜总会。Lady Luck。"
 
