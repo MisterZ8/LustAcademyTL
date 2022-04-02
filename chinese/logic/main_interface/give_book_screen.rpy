@@ -4,11 +4,11 @@ translate chinese strings:
 
     # game/logic/main_interface/give_book_screen.rpy:80
     old "Get points"
-    new "得到分"
+    new "得到分数"
 
     # game/logic/main_interface/give_book_screen.rpy:91
     old "Chose the quantity:"
-    new "选择数量"
+    new "选择数量:"
 
     # game/logic/main_interface/give_book_screen.rpy:124
     old "Confirm"
