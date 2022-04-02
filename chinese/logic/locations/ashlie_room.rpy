@@ -52,7 +52,7 @@ translate chinese ashlie_room_label_58a2b055:
 translate chinese ashlie_room_label_7f0478cb:
 
     # ch_Name "{i}(I'd better go.){/i}"
-    ch_Name "{i}(我最好去。){/i}"
+    ch_Name "{i}(我最好离开。){/i}"
 
 # game/logic/locations/ashlie_room.rpy:71
 translate chinese ashlie_room_label_de7a2503:
