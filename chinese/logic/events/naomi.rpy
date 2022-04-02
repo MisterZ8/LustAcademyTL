@@ -28,7 +28,7 @@ translate chinese Naomi_1_label_6d6afb1b:
 translate chinese Naomi_1_label_ff0681ca:
 
     # Naomi "You got into the same house as Lily, right?"
-    Naomi "你和Lily进了同一间房子，对吧?"
+    Naomi "你和Lily进了同一间分院，对吧?"
 
 # game/logic/events/naomi.rpy:306
 translate chinese Naomi_1_label_3b273a7d:
@@ -154,7 +154,7 @@ translate chinese Naomi_1_label_472e76d2:
 translate chinese Naomi_1_label_f806d24d:
 
     # Naomi "That's funny."
-    Naomi "这是有趣的。"
+    Naomi "这很趣的。"
 
 # game/logic/events/naomi.rpy:336
 translate chinese Naomi_1_label_d81e3a5c:
@@ -6986,7 +6986,7 @@ translate chinese strings:
 
     # game/logic/events/naomi.rpy:1267
     old "Agree for cunnilingus"
-    new "同意对阴茎舔"
+    new "同意舔阴茎"
 
     # game/logic/events/naomi.rpy:1267
     old "Go straight to sex"
@@ -8740,5 +8740,5 @@ translate chinese Naomi_11_label_ebd8ab27:
 translate chinese Naomi_11_label_0a80449d:
 
     # ch_Name "{i}(Look how gorgeous Naomi is in the sunlight!){/i}"
-    ch_Name "{i}(看看Naomi在阳光下多么美丽！){/i}"
+    ch_Name "{i}（看看Naomi在阳光下多么美丽！）{/i}"
 
