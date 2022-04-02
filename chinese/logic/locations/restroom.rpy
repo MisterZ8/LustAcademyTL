@@ -22,7 +22,7 @@ translate chinese restroom_label_ecefc0d1:
 translate chinese restroom_label_5a5f8bdc:
 
     # Don "Get to the point, [Name]."
-    Don "言归正传，(姓名)。"
+    Don "言归正传，[Name]。"
 
 # game/logic/locations/restroom.rpy:19
 translate chinese restroom_label_3b0c1b5a:
@@ -142,7 +142,7 @@ translate chinese restroom_label_e3052bd7:
 translate chinese restroom_label_5e4ace9f:
 
     # Don "You're 18. You don't study and you're sitting on my neck."
-    Don "你是18岁。你不学习，坐在我脖子上。"
+    Don "你已经18岁。你不学习，坐在我脖子上。"
 
 # game/logic/locations/restroom.rpy:59
 translate chinese restroom_label_2572973c:
@@ -274,7 +274,7 @@ translate chinese restroom_label_89df8599:
 translate chinese restroom_label_a99eee17:
 
     # Don "Pay your rent or find yourself a new place to live. What's it gonna be?"
-    Don "要么交房租，要么找个新地方住。会是什么?"
+    Don "要么交房租，要么找个新地方住。还能怎样?"
 
 # game/logic/locations/restroom.rpy:112
 translate chinese restroom_menu_2_label_527c060b:
@@ -388,7 +388,7 @@ translate chinese restroom_menu_2_label_f6e4a5c9:
 translate chinese restroom_menu_2_label_d39ba59a:
 
     # ch_Name "I hear you."
-    ch_Name "我听到你。"
+    ch_Name "我听到了。"
 
 # game/logic/locations/restroom.rpy:150
 translate chinese restroom_menu_2_label_02514dd4:
@@ -400,7 +400,7 @@ translate chinese restroom_menu_2_label_02514dd4:
 translate chinese restroom_menu_3_label_1b0b05ae:
 
     # ch_Name "I... I need to think."
-    ch_Name "我... 我需要思考。"
+    ch_Name "我... 我需要想想。"
 
 # game/logic/locations/restroom.rpy:158
 translate chinese restroom_menu_3_label_4af10fbd:
@@ -436,15 +436,15 @@ translate chinese restroom_menu_3_label_41ea1485:
 translate chinese restroom_menu_3_label_24687b0f:
 
     # ch_Name "{i}(I wonder how you'd act if it were Ashley who got hurt instead?){/i}"
-    ch_Name "{i}(我想知道如果受伤的是艾希礼，你会怎么做?){/i}"
+    ch_Name "{i}(我想知道如果受伤的是Ashley，你会怎么做?){/i}"
 
 translate chinese strings:
 
     # game/logic/locations/restroom.rpy:63
     old "Object politely"
-    new "礼貌的对象"
+    new "表现得礼貌"
 
     # game/logic/locations/restroom.rpy:63
     old "Object sharply"
-    new "刻薄的对象"
+    new "表现得刻薄"
 
