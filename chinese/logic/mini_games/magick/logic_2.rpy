@@ -58,7 +58,7 @@ translate chinese MagicMiniGameLabel_2_c2ed29a9:
 translate chinese MagicMiniGameLabel_2_b103f4dd:
 
     # Victoria "Come on, [Name]. I'm sure you can do better."
-    Victoria "来吧，[Name]。我相信你能找到更好的。"
+    Victoria "来吧，[Name]。我相信你能做的更好。"
 
 # game/logic/mini_games/magick/logic_2.rpy:832
 translate chinese MagicMiniGameLabel_2_2dc12541:
@@ -70,7 +70,7 @@ translate chinese MagicMiniGameLabel_2_2dc12541:
 translate chinese MagicMiniGameLabel_2_ade62796:
 
     # Victoria "Well done, [Name]! You're getting better and better! Will you do it again?"
-    Victoria "做得好，[Name]! 你越来越好了! 你会再做一次吗?"
+    Victoria "做得好，[Name]! 你越来越好了! 你能再做一次吗?"
 
 # game/logic/mini_games/magick/logic_2.rpy:861
 translate chinese MagicMiniGameLabel_2_51d176b9:
@@ -100,13 +100,13 @@ translate chinese MagicMiniGameLabel_2_49d1071b:
 translate chinese end_MagicMiniGame_2_label_7feba4d1:
 
     # Victoria "That's enough, [Name]. The class has come to an end, so we'll continue next time."
-    Victoria "这是足够的，[Name]。课程结束了，我们下节课继续。"
+    Victoria "够了，[Name]。课程结束了，我们下节课继续。"
 
 # game/logic/mini_games/magick/logic_2.rpy:881
 translate chinese end_MagicMiniGame_2_label_6e5c62ef:
 
     # ch_Name "Thank you, Miss Lapis. You are my favorite teacher!"
-    ch_Name "谢谢你，拉皮斯小姐。您是我最敬爱的老师!"
+    ch_Name "谢谢你，Lapis小姐。您是我最敬爱的老师!"
 
 translate chinese strings:
 
