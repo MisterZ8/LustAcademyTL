@@ -2720,7 +2720,7 @@ translate chinese strings:
 
     # game/logic/events/amelie.rpy:9
     old "Lost foliants"
-    new "失去了弗利安"
+    new "丢失的对开本"
 
     # game/logic/events/amelie.rpy:9
     old "Talk to Amelie"
