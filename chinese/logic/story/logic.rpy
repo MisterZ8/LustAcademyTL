@@ -76,7 +76,7 @@ translate chinese Boat_2_1_f56bc90e:
 translate chinese Boat_2_1_7fd0a907:
 
     # ch_Name "{i}(I guess I'll have to win another house competition just to come here again!){/i}"
-    ch_Name "{i}(我想我得再赢另一间房子比赛才能再来这里!){/i}"
+    ch_Name "{i}(我想我得再赢一次分院比赛才能再来这里!){/i}"
 
 # game/logic/story/logic.rpy:1137
 translate chinese Boat_2_1_dd63f61b:
@@ -184,13 +184,13 @@ translate chinese Boat_2_2_b365fe8b:
 translate chinese Boat_2_3_45de00c5:
 
     # Haley "I can't believe we almost missed the boat!"
-    Haley "真不敢相信我们差点就错过了机会!"
+    Haley "真不敢相信我们差点就错过了船!"
 
 # game/logic/story/logic.rpy:1170
 translate chinese Boat_2_3_a1403d1c:
 
     # Haley "Can you imagine how mad Jacob would be if we weren't on the boat?"
-    Haley "你能想象如果我们不在船上雅各布会有多生气吗?"
+    Haley "你能想象如果我们不在船上Jacob会有多生气吗?"
 
 # game/logic/story/logic.rpy:1171
 translate chinese Boat_2_3_1ed38359:
@@ -226,13 +226,13 @@ translate chinese Boat_2_3_17b66340:
 translate chinese Boat_2_3_40232474:
 
     # ch_Name "{i}(I spent the rest of the trip telling Hayley about Willow's photoshoot.){/i}"
-    ch_Name "{i}(我花了剩下的时间告诉海莉薇洛的照片。){/i}"
+    ch_Name "{i}(我花了剩下的时间告诉Haley关于Willow的照片。){/i}"
 
 # game/logic/story/logic.rpy:1181
 translate chinese Boat_2_3_dd63f61b:
 
     # Jacob "Welcome back, students!"
-    Jacob "欢迎回来，学生!"
+    Jacob "欢迎回来，学生们!"
 
 # game/logic/story/logic.rpy:1182
 translate chinese Boat_2_3_a9613ed0:
@@ -256,7 +256,7 @@ translate chinese Boat_2_3_1bf8fc9f:
 translate chinese InStory_1_b4c8c248:
 
     # NoName "Ring-ring..."
-    NoName "酸性岩体..."
+    NoName "叮铃铃..."
 
 # game/logic/story/logic.rpy:1192
 translate chinese InStory_1_13b178b4:
@@ -280,7 +280,7 @@ translate chinese InStory_1_2a6c2d09:
 translate chinese InStory_1_b4112b7a:
 
     # ch_Name "Oof."
-    ch_Name "现钞。"
+    ch_Name "哦。"
 
 # game/logic/story/logic.rpy:1197
 translate chinese InStory_1_f0175db8:
@@ -316,7 +316,7 @@ translate chinese InStory_2_ac807436:
 translate chinese InStory_2_dcc69e96:
 
     # ch_Name "{i}(I could not really focus on lessons after what happened to Samantha.){/i}"
-    ch_Name "{i}(萨曼莎的事之后，我没法专心上课了。){/i}"
+    ch_Name "{i}(Samantha的事之后，我没法专心上课了。){/i}"
 
 # game/logic/story/logic.rpy:1208
 translate chinese InStory_2_cb4e0649:
@@ -402,7 +402,7 @@ translate chinese Boat_2_4_95818568:
 translate chinese Boat_2_4_2575b1a3:
 
     # ch_Name "You probably wish it had more clubs."
-    ch_Name "你可能希望它有更多的梅花。"
+    ch_Name "你可能希望它有更多的俱乐部。"
 
 # game/logic/story/logic.rpy:1327
 translate chinese Boat_2_4_80b2a1d3:
