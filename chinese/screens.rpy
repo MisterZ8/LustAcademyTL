@@ -30,7 +30,7 @@ translate chinese strings:
 
     # game/screens.rpy:986
     old "Load"
-    new "负载"
+    new "载入"
 
     # game/screens.rpy:1006
     old "Main Menu"
@@ -38,7 +38,7 @@ translate chinese strings:
 
     # game/screens.rpy:1024
     old "Credits"
-    new "学分"
+    new "贡献榜"
 
     # game/screens.rpy:1042
     old "Gallery"
@@ -50,7 +50,7 @@ translate chinese strings:
 
     # game/screens.rpy:1087
     old "Quit"
-    new "辞职"
+    new "退出"
 
     # game/screens.rpy:1150
     old "Details"
@@ -78,15 +78,15 @@ translate chinese strings:
 
     # game/screens.rpy:2096
     old "empty slot"
-    new "空槽"
+    new "空位"
 
     # game/screens.rpy:2118
     old "Yes"
-    new "是的"
+    new "是"
 
     # game/screens.rpy:2118
     old "No"
-    new "没有"
+    new "否"
 
     # game/screens.rpy:2178
     old "{#auto_page}A"
@@ -98,11 +98,11 @@ translate chinese strings:
 
     # game/screens.rpy:2572
     old "MUTE ALL"
-    new "沉默的一切"
+    new "全部静音"
 
     # game/screens.rpy:2770
     old "The dialogue history is empty."
-    new "对话的历史是空的。"
+    new "历史对话是空的。"
 
     # game/screens.rpy:2855
     old "Rolls forward to later dialogue."
@@ -166,7 +166,7 @@ translate chinese strings:
 
     # game/screens.rpy:2927
     old "Space"
-    new "空间"
+    new "空格"
 
     # game/screens.rpy:2931
     old "Arrow Keys"
@@ -174,7 +174,7 @@ translate chinese strings:
 
     # game/screens.rpy:2935
     old "Escape"
-    new "逃避"
+    new "退出"
 
     # game/screens.rpy:2936
     old "Accesses the game menu."
@@ -234,15 +234,15 @@ translate chinese strings:
 
     # game/screens.rpy:3016
     old "Right Trigger\nA/Bottom Button"
-    new "正确的触发\nA/底部按钮"
+    new "右扳机键\nA/底部按钮"
 
     # game/screens.rpy:3020
     old "Left Trigger\nLeft Shoulder"
-    new "离开触发\n左肩膀"
+    new "左扳机键\n左肩键"
 
     # game/screens.rpy:3024
     old "Right Shoulder"
-    new "右肩"
+    new "右肩键"
 
     # game/screens.rpy:3029
     old "D-Pad, Sticks"
@@ -250,7 +250,7 @@ translate chinese strings:
 
     # game/screens.rpy:3033
     old "Start, Guide"
-    new "首先，导"
+    new "开始键，向导键"
 
     # game/screens.rpy:3037
     old "Y/Top Button"
@@ -266,7 +266,7 @@ translate chinese strings:
 
     # game/screens.rpy:3497
     old "Back"
-    new "回来"
+    new "返回"
 
     # game/screens.rpy:3498
     old "Skip"
@@ -312,11 +312,11 @@ translate chinese strings:
 
     # game/screens.rpy:807
     old "All In One Storytelling"
-    new "一体机的故事"
+    new "沉浸式故事讲述"
 
     # game/screens.rpy:809
     old "Occasional Choices"
-    new "偶尔的选择"
+    new "少量的选择"
 
     # game/screens.rpy:811
     old "Plot-Driven Structure"
@@ -332,7 +332,7 @@ translate chinese strings:
 
     # game/screens.rpy:2345
     old "WINDOWED"
-    new "窗口的"
+    new "窗口"
 
     # game/screens.rpy:2350
     old "ROLLBACK SLIDE"
@@ -348,7 +348,7 @@ translate chinese strings:
 
     # game/screens.rpy:2385
     old "RIGHT"
-    new "正确的"
+    new "右"
 
     # game/screens.rpy:2392
     old "SKIP"
@@ -356,15 +356,15 @@ translate chinese strings:
 
     # game/screens.rpy:2406
     old "UNSEEN TEXT"
-    new "看不见的文本"
+    new "未读的文本"
 
     # game/screens.rpy:2422
     old "AFTER CHOICES"
-    new "之后的选择"
+    new "选择之后"
 
     # game/screens.rpy:2438
     old "TRANSITIONS"
-    new "转换"
+    new "过渡"
 
     # game/screens.rpy:2446
     old "TEXT COLOR"
@@ -392,7 +392,7 @@ translate chinese strings:
 
     # game/screens.rpy:2535
     old "AUTO-FORWARD TIME"
-    new "自动前进时间"
+    new "自动推进时间"
 
     # game/screens.rpy:2542
     old "OFF"
@@ -408,5 +408,5 @@ translate chinese strings:
 
     # game/screens.rpy:2591
     old "SOUND VOLUME"
-    new "音量"
+    new "音效音量"
 
