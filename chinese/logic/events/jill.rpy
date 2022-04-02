@@ -2144,19 +2144,19 @@ translate chinese strings:
 
     # game/logic/events/jill.rpy:14
     old "1 Order a massage ($75)"
-    new "1 订购按摩($75)"
+    new "1 预约按摩($75)"
 
     # game/logic/events/jill.rpy:14
     old "2 Order a massage ($75)"
-    new "2 订购按摩($75)"
+    new "2 预约按摩($75)"
 
     # game/logic/events/jill.rpy:14
     old "4 Order a massage ($75)"
-    new "4 订购按摩($75)"
+    new "4 预约按摩($75)"
 
     # game/logic/events/jill.rpy:14
     old "3 Order a massage"
-    new "3 订购按摩"
+    new "3 预约按摩"
 
     # game/logic/events/jill.rpy:287
     old "Tease her"
@@ -2168,7 +2168,7 @@ translate chinese strings:
 
     # game/logic/events/jill.rpy:469
     old "Order a massage ($75)"
-    new "订购按摩($75)"
+    new "预约按摩($75)"
 
 # TODO: Translation updated at 2022-03-03 04:01
 
