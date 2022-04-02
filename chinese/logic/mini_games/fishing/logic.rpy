@@ -4,25 +4,25 @@
 translate chinese fishing_start_7abcb9ea:
 
     # Gordon "And you call that a catch? I can catch that much with my bare hands!"
-    Gordon "你说这是陷阱? 我徒手就能捉到那么多!"
+    Gordon "你把这叫钓鱼? 我徒手就能捉到那么多!"
 
 # game/logic/mini_games/fishing/logic.rpy:147
 translate chinese fishing_start_ff6f4082:
 
     # ch_Name "What can I say? No bite..."
-    ch_Name "我能说什么呢? 没有咬..."
+    ch_Name "我能说什么呢? 没有咬钩..."
 
 # game/logic/mini_games/fishing/logic.rpy:148
 translate chinese fishing_start_35bfd362:
 
     # Gordon "All right, just like we agreed, $ per fish."
-    Gordon "好吧，就像我们说好的，每条鱼一$。"
+    Gordon "好吧，就像我们说好的，每条鱼$。"
 
 # game/logic/mini_games/fishing/logic.rpy:149
 translate chinese fishing_start_5367360f:
 
     # Gordon "Don't go crazy with that kind of crazy money, kid."
-    Gordon "别把为了那笔钱疯了，孩子。"
+    Gordon "别为了赚那笔钱变得疯狂，孩子。"
 
 # game/logic/mini_games/fishing/logic.rpy:154
 translate chinese fishing_start_1b05426e:
@@ -58,7 +58,7 @@ translate chinese fishing_start_c3bbeb84:
 translate chinese fishing_start_e7e4fcbf:
 
     # ch_Name "He-he-heh, I've tried my best."
-    ch_Name "呵呵，我已经尽力了。"
+    ch_Name "哈哈哈，我已经尽力了。"
 
 # game/logic/mini_games/fishing/logic.rpy:163
 translate chinese fishing_start_af8488b6:
@@ -70,11 +70,11 @@ translate chinese fishing_start_af8488b6:
 translate chinese fishing_start_654489a2:
 
     # Gordon "Here's your payment. Good job!"
-    Gordon "这是给你的付款。好工作!"
+    Gordon "这是给你的报酬。干得好!"
 
 # game/logic/mini_games/fishing/logic.rpy:166
 translate chinese fishing_start_980b7020:
 
     # ch_Name "{i}(Now, let's go for a walk and visit some of the places Elijah recommended.){/i}"
-    ch_Name "{i}(现在，让我们去散步，参观一些以利亚推荐的地方。){/i}"
+    ch_Name "{i}(现在，让我们去散步，参观一些Elijah推荐的地方。){/i}"
 
