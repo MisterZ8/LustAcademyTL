@@ -172,7 +172,7 @@ translate chinese kitchen_label_2_04a5fbe8:
 translate chinese kitchen_label_2_245f2fa8:
 
     # Olivia "How'd it go?"
-    Olivia "怎么去了?"
+    Olivia "怎么样?"
 
 # game/logic/locations/kitchen.rpy:100
 translate chinese kitchen_label_2_1ad560a9:
@@ -190,7 +190,7 @@ translate chinese kitchen_label_2_a6fbdfe3:
 translate chinese kitchen_label_2_3902fe2a:
 
     # Olivia "Take your time, [Name]."
-    Olivia "慢慢来，(姓名)。"
+    Olivia "慢慢来，[Name]。"
 
 # game/logic/locations/kitchen.rpy:106
 translate chinese kitchen_label_2_8ea066ad:
