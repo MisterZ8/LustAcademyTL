@@ -4,13 +4,13 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_screen.rpy:397
     old "Posts"
-    new ""
+    new "邮件"
 
     # game/logic/phone_interface/lustogram_screen.rpy:398
     old "Followers"
-    new ""
+    new "追随者"
 
     # game/logic/phone_interface/lustogram_screen.rpy:399
     old "Following"
-    new ""
+    new "接着的"
 
