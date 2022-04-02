@@ -148,7 +148,7 @@ translate chinese hide_all_caffe_screens_4d5b28e8:
 translate chinese hide_all_caffe_screens_ac2a50e0:
 
     # ch_Name "I guarantee it!{w} Until next time!"
-    ch_Name "我保证它!{w} 下次再见!"
+    ch_Name "我保证!{w} 下次再见!"
 
 # game/logic/mini_games/caffe/logic.rpy:386
 translate chinese hide_all_caffe_screens_28fa1654:
@@ -172,7 +172,7 @@ translate chinese hide_all_caffe_screens_081376df:
 translate chinese hide_all_caffe_screens_27c21352:
 
     # Molly "Goblin socks, [Name]! Thanks for volunteering, of course..."
-    Molly "妖精袜子，[Name]! 当然，谢谢你的志愿服务..."
+    Molly "地精袜子，[Name]! 当然，谢谢你的志愿服务..."
 
 # game/logic/mini_games/caffe/logic.rpy:394
 translate chinese hide_all_caffe_screens_be5fe4a5:
