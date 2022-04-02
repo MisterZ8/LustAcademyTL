@@ -166,7 +166,7 @@ translate chinese sheet_20_45335ac2:
 translate chinese sheet_20_f4a57c70:
 
     # Jacob "Sure. "
-    Jacob "确定。"
+    Jacob "好的。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:74
 translate chinese sheet_20_ee1cd8d1:
@@ -310,19 +310,19 @@ translate chinese sheet_20_e3dcaad9:
 translate chinese sheet_20_0d4ae3d5:
 
     # Victoria "That's right."
-    Victoria "这是正确的。"
+    Victoria "对。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:129
 translate chinese sheet_20_98a0f3c2:
 
     # Victoria "Here!"
-    Victoria "这里!"
+    Victoria "这个!"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:131
 translate chinese sheet_20_76dbe08f:
 
     # ch_Name "{i}(Holy shit!){/i}"
-    ch_Name "{i}(神圣的狗屎!){/i}"
+    ch_Name "{i}(我草!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:133
 translate chinese sheet_20_b9733e3d:
@@ -418,7 +418,7 @@ translate chinese sheet_20_menu_1_ans_1_09295ee7:
 translate chinese sheet_20_menu_1_ans_1_54de9780:
 
     # ch_Name "...yet most of the people think that magic is not real?"
-    ch_Name "...然而，大多数人认为魔术是不真实的?"
+    ch_Name "...然而，大多数人认为魔法是不真实的?"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:189
 translate chinese sheet_20_menu_1_ans_1_30b827ed:
@@ -454,7 +454,7 @@ translate chinese sheet_20_menu_1_ans_1_015e227f:
 translate chinese sheet_20_menu_1_ans_1_947a6409:
 
     # Victoria "An elite Ivy League-level educational institution. "
-    Victoria "常春藤联盟级别的精英教育机构。"
+    Victoria "是一个常春藤联盟级别的精英教育机构。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:201
 translate chinese sheet_20_menu_1_ans_1_f1ef320b:
@@ -520,7 +520,7 @@ translate chinese sheet_20_menu_1_ans_2_d5c8eea9:
 translate chinese sheet_20_menu_1_ans_2_1b6c7bc8:
 
     # Victoria "All that's left is for you to show me how you use it. During the examination."
-    Victoria "剩下的就交给你来教我怎么用了。在考试。"
+    Victoria "剩下的就是在考试由你们来教我怎么用了。。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:226
 translate chinese sheet_20_menu_1_ans_2_73710bd5:
@@ -568,7 +568,7 @@ translate chinese sheet_20_menu_1_ans_3_3e0ec3bc:
 translate chinese sheet_20_menu_1_ans_3_86f33a71:
 
     # ch_Name "[Name] [Surname]."
-    ch_Name "[Name] [Surname]."
+    ch_Name "[Surname][Name] ."
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:245
 translate chinese sheet_20_menu_1_ans_3_bc467059:
@@ -704,5 +704,5 @@ translate chinese strings:
 
     # game/logic/episodes_after_first/ep2/sheet_20.rpy:264
     old "Give a witty answer"
-    new "回答要机智"
+    new "机智地回答"
 
