@@ -11312,7 +11312,7 @@ translate chinese strings:
 
     # game/logic/events/haley.rpy:2294
     old "Get some distance"
-    new "得到一些距离"
+    new "保持一些距离"
 
 # TODO: Translation updated at 2022-03-03 04:01
 
