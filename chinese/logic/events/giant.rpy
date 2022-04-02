@@ -708,11 +708,11 @@ translate chinese strings:
 
     # game/logic/events/giant.rpy:83
     old "Say you'll help"
-    new "说你会帮"
+    new "说你会帮忙"
 
     # game/logic/events/giant.rpy:83
     old "Don't help"
-    new "不帮"
+    new "不帮忙"
 
 # TODO: Translation updated at 2022-03-03 04:01
 
@@ -1408,11 +1408,11 @@ translate chinese strings:
 
     # game/logic/events/giant.rpy:276
     old "Ignore the boobs"
-    new "忽略了乳房"
+    new "忽略胸部"
 
     # game/logic/events/giant.rpy:310
     old "Talk him out"
-    new "说服他了"
+    new "说服他"
 
     # game/logic/events/giant.rpy:310
     old "Attack him"
