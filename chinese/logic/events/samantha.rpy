@@ -118,13 +118,13 @@ translate chinese Samantha_1_label_eb311b55:
 translate chinese Samantha_1_label_9e01b05a:
 
     # ch_Name "The guy you came with to cheer for me at my game."
-    ch_Name "他还开一辆浅蓝色的道奇。"
+    ch_Name "在比赛中为我加油的那个人，和你一起来的那个。"
 
 # game/logic/events/samantha.rpy:222
 translate chinese Samantha_1_label_37c0f190:
 
     # ch_Name "He also drives a light blue Dodge."
-    ch_Name "嗯... 那就是你在谈论的人。你是怎么记得他的?"
+    ch_Name "他还开着一辆浅蓝色的道奇。"
 
 # game/logic/events/samantha.rpy:224
 translate chinese Samantha_1_label_e2d7cbcf:
