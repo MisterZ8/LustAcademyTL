@@ -8,7 +8,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Cuill"
-    new ""
+    new "Cuill"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "This friendly elf is the best barista in all of Dale. Not only will he masterfully prepare any drink, but he's also happy to tell the customer interesting news and rumors from over the world."
@@ -16,7 +16,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Fiennes"
-    new ""
+    new "Fiennes"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Cordale's librarian goes by the name Amelie. She loves books and smart people more than anything else in the world. I'm not sure, but it feels like she doesn't seem to mind having affairs with young guys."
@@ -36,7 +36,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Garden's story has come to an end."
-    new "加登的故事已经结束。"
+    new "Garden的故事已经结束。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Arthur Doorman is the headmaster of the school and a respected member of the Wizarding Society. He is an example to all."
@@ -56,7 +56,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Girl/Shemale"
-    new "女孩/Shemale"
+    new "女孩/人妖"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Audrey is Samantha's best friend. I think she's hiding something and Samantha is in on it too. She has a pretty bad temper."
@@ -100,7 +100,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "One of the four co-founders of Cordale Academy. Founder of Crowhive house and the keeper of knowledge."
-    new "Cordale Academy 的四位联合创始人之一。Crowhive之家的创始人和知识的守护者。"
+    new "Cordale学院的四位联合创始人之一。Crowhive分院的创始人和知识的守护者。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Cheerful Latino-American student from Martenden. She likes dancing, duels, and living a life full of adventures."
@@ -116,7 +116,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "A business-oriented dwarf. Owner of the only store in Dale. Willow's father. You can always make money from him by fishing."
-    new "一个面向业务的侏儒。Dale唯一一家店的老板。Willow的父亲。你总可以从他那里靠钓鱼赚钱。"
+    new "一个面向业务的侏儒。Dale唯一一家商店的老板。Willow的父亲。你总可以从他那里靠钓鱼赚钱。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Chompski"
@@ -124,7 +124,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "First year student of the house Crowhive. She's intelligent and shy. As far as I know, she likes visiting potions classes."
-    new "Crowhive家的一年级学生。她既聪明又害羞。据我所知，她喜欢上魔药课。"
+    new "Crowhive分院的一年级学生。她既聪明又害羞。据我所知，她喜欢上魔药课。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old " Sherman"
@@ -148,7 +148,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "One of the four co-founders of Cordale Academy. Founder of Martenden house and the keeper of Housefire."
-    new "Cordale学院的四位联合创始人之一。Martenden家的创始人，火之家的守护者。"
+    new "Cordale学院的四位联合创始人之一。Martenden分院的创始人，火之家的守护者。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Owner of Whistley's SPA. She gives excellent massages but it seems that there's something strange about her."
@@ -160,7 +160,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "At this version of Lust Academy there's no more massage scenes."
-    new "这个版本的Lust Academy里没有按摩镜头。"
+    new "这个版本的欲望学院里没有按摩场景。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Joshi is a talkative young guy who clearly lives only to have a good time and relax."
@@ -172,11 +172,11 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "One of the four co-founders of Cordale Academy. Founder of Adderin house and the keeper of Success."
-    new "Cordale学院的四位联合创始人之一。Adderin家的创始人，成功的守护者。"
+    new "Cordale学院的四位联合创始人之一。Adderin分院的创始人，成功的守护者。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "One of the four co-founders of Cordale Academy. Founder of Leonheart house and the keeper of Justice."
-    new "Cordale学院的四位联合创始人之一。Leonheart家的创始人，正义的守护者。"
+    new "Cordale学院的四位联合创始人之一。Leonheart分院的创始人，正义的守护者。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Leonheart"
@@ -196,7 +196,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lucy is one of the dancers at Lady Luck night club. I think I'll get to know her better if I invite her to VIP."
-    new "Lucy是幸运女神夜总会的一名舞者。我想如果我邀请她去VIP会更好地了解她。"
+    new "Lucy是Lady Luck夜总会的一名舞者。我想如果我邀请她去VIP会更好地了解她。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Altidore"
@@ -212,7 +212,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Molly is a hard-working businesswoman who keeps her café in Cordale. She helps me with a part-time job when I need money."
-    new "Molly是一个努力工作的女商人，她把她的咖啡馆留在Cordale。当我需要钱的时候，她帮我做兼职。"
+    new "Molly是一个努力工作的女商人，她在Cordale开咖啡馆。当我需要钱的时候，她帮我做兼职。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Maeve"
@@ -228,7 +228,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Olivia is Samantha and Ashley's mother, She's married to Don. I don't know if she has any hobbies except shopping and spending money."
-    new "Olivia是Samantha和 Ashley的母亲，她嫁给了Don。除了购物和花钱，我不知道她还有什么爱好。"
+    new "Olivia是Samantha和Ashley的母亲，她嫁给了Don。除了购物和花钱，我不知道她还有什么爱好。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Wild-Rose"
@@ -236,7 +236,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "A bouncer. He's a prick who asks for bribes to let you in the club. He tricked me and almost let Diego rape Adele."
-    new "一个保镖。他是个混蛋，为了让你进俱乐部而向你索贿。他骗了我，还差点让迭戈强奸Adele。"
+    new "一个保镖。他是个混蛋，为了让你进俱乐部而向你索贿。他骗了我，还差点让Diego强奸Adele。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Mobs"
@@ -256,7 +256,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Sadira is one of the dancers at Lady Luck. She seems strange and exotic, I think I'll enjoy what she can offer in VIP."
-    new "Sadira是幸运女神舞团的一员。她看起来很奇怪，很有异国情调，我想我会喜欢她在VIP提供的服务。"
+    new "Sadira是Lady Luck舞团的一员。她看起来很奇怪，很有异国情调，我想我会喜欢她在VIP提供的服务。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Adala"
@@ -268,7 +268,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Vanessa is a barman at Lady Luck. She's mysterious and obsessed with her special cocktails."
-    new "Vanessa是幸运女神酒吧的酒保。她很神秘，对她的特制鸡尾酒很着迷。"
+    new "Vanessa是Lady Luck酒吧的酒保。她很神秘，对她的特制鸡尾酒很着迷。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Le Court"
@@ -276,7 +276,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Victoria is strict, but just teacher. Everyone respects her a lot. She makes it look like my flirting is useless, but I won't stop trying."
-    new "Victoria很严格，但只是个老师。每个人都很尊敬她。她说得好像我的调情毫无用处，但我不会停止尝试。"
+    new "Victoria很严格，但只是个老师。每个人都很尊敬她。她让我的调情看起来毫无用处，但我不会停止尝试。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lapis"
@@ -284,7 +284,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "At this version of Lust Academy there's no more theory or scenes for Victoria."
-    new "在这个版本的Lust Academy里，Victoria没有更多的理论和场景。"
+    new "在这个版本的欲望学院里，Victoria没有更多的理论和场景。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Fairy"
@@ -296,7 +296,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "When me and Lily got lost and almost died in a magical flesh-eating mushroom forest I saw strange creature, that looked like a hybrid of mushroom and human girl. She was cute. I wonder who she is?"
-    new "当我和Lily在一个神奇的食肉蘑菇森林里迷路，差点死掉的时候，我看到了一个奇怪的生物，看起来像是蘑菇和人类女孩的混合体。她是可爱的。我想知道她是谁?"
+    new "当我和Lily在一个神奇的食肉蘑菇森林里迷路，差点死掉的时候，我看到了一个奇怪的生物，看起来像是蘑菇和人类女孩的混合体。她很可爱。我想知道她是谁?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Adele showed me around club. I can now  order a table or VIP lounge from her anytime I want."
@@ -304,7 +304,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Adele seemed to be interested in me, but for now - she rejected all my moves."
-    new "Adele似乎对我感兴趣，但眼下—她拒绝了我的一切举动。"
+    new "Adele似乎对我感兴趣，但眼下——她拒绝了我的一切举动。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I worked up the courage to ask Adele out. She seemed surprised, but agreed. We agreed to meet in the afternoon at a cafe. I couldn't wait."
@@ -312,7 +312,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We had a great time with Adele at the cafe. She was very sociable and friendly. I think she liked me too. We agreed that we will do it again sometime, so a second date is in my pocket."
-    new "我们和Adele在咖啡厅玩得很开心。她很好交际，很友好。我想她也喜欢我。我们说好以后还会再约的，所以第二次约会就在我口袋里。"
+    new "我们和Adele在咖啡厅玩得很开心。她很好交际，很友好。我想她也喜欢我。我们说好以后还会再约的，所以第二次约会计划就在我口袋里。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Ahchi is a pleasant and sociable barista who makes incredibly cool coffee. He is always nice to talk to and often tells interesting news and rumors."
@@ -320,15 +320,15 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Amelie said that magical creatures can prank students by stealing their books. If I find lost books scattered around the academy, I can return them to the library in exchange for house points."
-    new "Amelie说魔法生物会偷学生的书来捉弄他们。如果我在学校里找到遗失的书，我可以把它们归还给图书馆，以换取舍分。"
+    new "Amelie说魔法生物会偷学生的书来捉弄他们。如果我在学校里找到遗失的书，我可以把它们归还给图书馆，以换取分院积分。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Amelie didn't lie - for every book I return, she gives me the points needed to win the weekly competition. I could turn in one book at a time or continue collecting and turn in many at once. She will surely appreciate the help. If I want to get closer, I need to find more books."
-    new "Amelie没有撒谎—我每归还一本书，她都会给我赢得每周竞赛所需的点数。我可以一次只交一本书，也可以继续收集，同时交很多本书。她一定会感激你的帮助。如果我想靠近点，我需要找更多的书。"
+    new "Amelie没有撒谎——我每归还一本书，她都会给我赢得每周竞赛所需的点数。我可以一次只交一本书，也可以继续收集，同时交很多本书。她一定会感激你的帮助。如果我想再跟她接近点，我需要找更多的书。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I helped Amelie deal with the elves who tried to steal from her, but they managed to steal one of the potions. Amelie asked me to help her get it back when she figured out where they were hiding. I couldn't wait."
-    new "我帮Amelie对付那些想偷她东西的精灵，但他们设法偷了一种魔药。Amelie让我帮她把钱拿回来等她找到他们藏在哪里。我等不及了。"
+    new "我帮Amelie对付那些想偷她东西的精灵，但他们设法偷了一种魔药。等她找到他们藏在哪里，Amelie让我帮她把药拿回来。我等不及了。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Amelie and I went to the elf settlement in the woods and returned the stolen potion. It was epic! Admittedly, the potion broke and got on Amelie in the process, but that's okay... But, it was fun."
@@ -344,15 +344,15 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "If Leonheart wins weekly house competition we'll be able to visit local town - Dale. To win the competition I need to earn points by visiting classes, collecting books or winning in duels."
-    new "如果Leonheart赢得了每周的家族比赛我们就能去参观当地的小镇Dale。为了赢得比赛，我需要通过访问课程、收集书籍或在决斗中获胜来赢得分数。"
+    new "如果Leonheart赢得了每周的分院比赛我们就能去参观当地的小镇Dale。为了赢得比赛，我需要通过学习课程、收集书籍或在决斗中获胜来赢得分数。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've been to Dale and it's awesome. Winning the school competition is really valuable, plus they give money to winners. I should try to win again."
-    new "我去过Dale，那里很棒。赢得学校比赛真的很有价值，而且他们会给优胜者钱。我应该努力再赢一次。"
+    new "我去过Dale，那里很棒。赢得分院比赛真的很有价值，而且他们会给优胜者钱。我应该努力再赢一次。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "This character has no active quests in this version of the game."
-    new "这个角色在这个版本的游戏中没有主动的任务。"
+    new "这个角色在这个版本的游戏中没有激活的任务。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "She's in Leonheart too, so I can probably meet her in the Living room in the morning."
@@ -372,7 +372,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We had a fantastic time drinking coffee at Molly's while it was still closed. I think we're getting closer. I'll just have to wait until she makes her move."
-    new "我们在Molly酒吧还没关门的时候喝咖啡，度过了一段美妙的时光。我觉得我们越来越接近了。我只能等她采取行动了。"
+    new "我们在Molly的咖啡馆还没关门的时候喝咖啡，度过了一段美妙的时光。我觉得我们越来越接近了。我只能等她采取行动了。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Audrey was so sweet about choosing a gift for Samantha. They must be really good friends. I think she likes me too, and Maybe I should talk to her in the evening?"
@@ -388,7 +388,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We finally talked to Audrey about our relationship and everything that happened recently. Now we both have a better understanding of the boundaries between us. It's up to me to decide if I want to continue my relationship with her, I shouldn't forget that she's the succubus that almost got Samantha hurt."
-    new "我们终于和Audrey谈了我们的关系以及最近发生的一切。现在我们都对我们之间的界限有了更好的了解。要不要继续和她交往由我自己决定，我不应该忘记她就是那个差点让Samantha受伤的魔女。"
+    new "我们终于和Audrey谈了我们的关系以及最近发生的一切。现在我们都对我们之间的界限有了更好的了解。要不要继续和她交往由我自己决定，我不应该忘记她就是那个差点让Samantha受伤的魅魔。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah should give me a student card. I can catch him in the Living room in the morning."
@@ -404,11 +404,11 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah said that sometimes he could give me some sketchy job. I think he'll have more to say if I win the house competition and visit Dale to find out what goods that place has to offer."
-    new "Elijah说他有时会给我一些不太体面的工作。我想他会有更多的话说如果我赢得了房子的竞争，并拜访Dale，看看那里有什么商品。"
+    new "Elijah说他有时会给我一些不太体面的工作。我想他会有更多的话说如果我赢得了分院的竞争，并拜访Dale，看看那里有什么商品。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah asked me to get some nectar from Willow in Chompski Shop in Dale. To get to Dale, our house has to win the weekly competition."
-    new "Elijah让我去找Dale的Chompski商店的Willow买些花蜜。要接近Dale，我们的房子必须赢得每周比赛。"
+    new "Elijah让我去找Dale的Chompski商店的Willow买些花蜜。要接近Dale，我们的分院必须赢得每周比赛。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "When I went for Elijah's package to Gordon's shop I had a small chat with Willow. She showed me her magic grove.  It seems like it is very important to her. I wonder what's inside...  She also gave me the nectar for Elijah. I should meet hit at Cordale's cafe."
@@ -476,7 +476,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley and I broke into the secret room and borrowed files that might contain information about E.Bloom. Haley will look into them and get back to me in the morning."
-    new "Haley和我闯进了密室借了一些文件里面可能有关于E Bloom的信息。Haley会调查的，明早再给我答复。"
+    new "Haley和我闯进了密室借了一些文件里面可能有关于E.Bloom的信息。Haley会调查的，明早再给我答复。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley discovered that Elijah's brother and Hans were lovers and were trying to escape from here. To replicate their ritual and open the portal, we'll need Samantha's help. I'll talk to her in the morning."
@@ -484,7 +484,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I made arrangements with Samantha and she will help us with the ritual. We're finally going to solve the mystery of E.Bloom. Also, Haley and I made a date. Things are going as well as can be expected!"
-    new "我和Samantha安排好了她会帮我们举行仪式。我们终于要解开E Bloom之谜了。还有，Haley和我约好了。事情进展得和预料的一样好!"
+    new "我和Samantha安排好了她会帮我们举行仪式。我们终于要解开E.Bloom之谜了。还有，Haley和我约好了。事情进展得和预料的一样好!"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've heard that Jacob usually spends his evenings at the hall. Should I talk to him about something?"
@@ -500,7 +500,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Jill is the nice ginger girl, who owns a massage saloon at Dale. I can get a massage at Whistley's Spa for $75 when i'm in Dale. Pricey, but I think it's worth it."
-    new "Jill是个漂亮的姜黄色女孩，她在Dale开了一家按摩店。我在Dale的时候花$75就能在Whistley温泉中心做按摩。很贵，但我觉得很值。"
+    new "Jill是个漂亮的姜黄色女孩，她在Dale开了一家按摩店。我在Dale的时候花$75就能在Whistley水疗中心做按摩。很贵，但我觉得很值。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "My massage master got so turned on, that she could not finish the process. That was strange. I've overheard her arguing with someone. I think she got pranked by that person. I guess I'll have to have another massage to get closer to the truth."
@@ -512,7 +512,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Even after all the craziness I've seen at this spa, I can't believe I was able to talk the masseuse into jerking me off. Maybe this is just the beginning of our intimate massage sessions. I wonder what she'll agree to next time?"
-    new "即使我在这个温泉中心看到了那么多疯狂的事，我还是不敢相信我能说服按摩师给我手淫。也许这只是我们亲密按摩的开始。我不知道她下次会同意什么?"
+    new "即使我在这个水疗中心看到了那么多疯狂的事，我还是不敢相信我能说服按摩师给我手淫。也许这只是我们亲密按摩的开始。我不知道她下次会同意什么?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've got a feeling that that forest wasn't the last time I've met her. But right now, I can only guess."
@@ -520,7 +520,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "It seems that I have some special connection with the ancient spirit of Leonheart's founder, Leona Leonheart. She materialized in the real world to help me with my source of power."
-    new "似乎我和Leonheart的创始人，Leona Leonheart的古老精神有某种特殊的联系。她出现在现实世界中帮助我获得我的力量。"
+    new "似乎我和Leonheart的创始人，古老的Leona Leonheart的有某种特殊的精神联系。她出现在现实世界中帮助我获得我的力量。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Katrina won't leave me alone. If I want to face her on my terms, I have to find a way to defeat her. I think I should contact Leona. Maybe a sorting book in the Main hall will do the trick?"
@@ -532,11 +532,11 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "If it weren't for Leona, I'd be stuck in a nightmare forever. It turned out that, under the guise of Katrina, It was a soul-eating phantom who tortured me in my dreams. But who had set it on me?"
-    new "如果不是Leona，我就永远困在噩梦里了。结果是，在Katrina的伪装下，是一个吞噬灵魂的幽灵在我的梦里折磨我。可是是谁放我出来的呢?"
+    new "如果不是Leona，我就永远困在噩梦里了。结果是，在Katrina的伪装下，是一个吞噬灵魂的幽灵在我的梦里折磨我。可是是谁把它放进我的梦里的呢?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "It turned out that Jacob was behind the soul-stealing phantom attack. He was testing me to help him overpower Arthur. Jacob assures me that Arthur is the villain who killed my parents. To deal with him, I asked Leona to obtain for me an ancient artifact - the scroll of the Lion's Seal. Now all we have to do is wait."
-    new "事实证明，Jacob是窃取灵魂的幽灵袭击的幕后黑手。他在考验我帮他战胜Arthur。Jacob向我保证Arthur就是杀害我父母的恶棍。为了对付他，我让Leona帮我弄到一件古老的工艺品——狮印卷轴。现在我们要做的就是等待。"
+    new "事实证明，Jacob是窃取灵魂的幽灵袭击的幕后黑手。他在考验我帮他战胜Arthur。Jacob向我保证Arthur就是杀害我父母的恶棍。为了对付他，我让Leona帮我弄到一件古老的工艺品——Lion的封印。现在我们要做的就是等待。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I think I'll meet Lily somewhere where she can earn Leonheart some points. Maybe at the class?"
@@ -560,7 +560,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We had some fun with Lily and then decided to discuss other house-related plans next time. Maybe I should talk to help before Sabrina's lesson."
-    new "我们和Lily玩得很开心，然后决定下次再讨论其他有关房子的计划。也许我该在Sabrina上课前找人帮忙。"
+    new "我们和Lily玩得很开心，然后决定下次再讨论其他有关分院的计划。也许我该在Sabrina上课前找人帮忙。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've agreed to help Sabrina and Lily to harvest some herbs. Lily and I got lost and had an unbelievable adventure."
@@ -576,7 +576,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Lucy is a pretty european girl who works as a stripper in Lady Luck. I think we can have some fun time together at the VIP lounge."
-    new "Lucy是一个漂亮的欧洲女孩，在幸运女神中担任脱衣舞娘。我想我们可以在VIP厅一起玩。"
+    new "Lucy是一个漂亮的欧洲女孩，在Lady Luck中担任脱衣舞娘。我想我们可以在VIP厅一起玩。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Good news for students - there's a free room in Dale-ly. Also, I saw Mina reading porno novels. Maybe In future I can use this to lure other dark secrets she might have."
@@ -584,7 +584,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I told Molly that I was working as a waiter once, and she offered me a job. On weekdays, afternoons, and evenings, I can help her around the cafe to make some money."
-    new "我告诉Molly我曾经做过服务员，她给了我一份工作。在工作日的下午和晚上，我可以帮她在咖啡馆周围挣些钱。"
+    new "我告诉Molly我曾经做过服务员，她给了我一份工作。在工作日的下午和晚上，我可以在咖啡馆给她当帮手来挣些钱。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Now I can help Molly serve food at her cafe for a decent fee, It gets even better if I don't screw up and get more tips. Working together with Molly can get us closer.  Her workload is less intense in the evening, so it's better to talk to her at this time. But first I'll gain her trust by working at least five shifts."
@@ -1048,7 +1048,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Leonheart points +5"
-    new "Leonheart分 +5"
+    new "Leonheart分数 +5"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Time skip"
@@ -1088,7 +1088,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Leonheart points +X"
-    new "Leonheart点 +X"
+    new "Leonheart分数 +X"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Peeping at Molly"
@@ -1116,7 +1116,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Time Skip"
-    new "时间跳过"
+    new "跳过时间"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Lily's story"
@@ -1140,7 +1140,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Leonheart points +3"
-    new "Leonheart分 +3"
+    new "Leonheart分数 +3"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Money +10...+35"
@@ -1168,7 +1168,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Leonheart points +3...+15"
-    new "Leonheart分 +3。。。+15"
+    new "Leonheart分数 +3。。。+15"
 
     # game/logic/main_interface/quest_log_db.rpy:310
     old "Girls bedroom"
@@ -1784,7 +1784,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Sam told me that masseuse could heal my leg if I visit Spa in Dale. She also seemed distressed because new spells were too hard for her. I think I'll know more if we have this kind of morning chit-chat more often."
-    new "Sam告诉我如果我去Dale的斯帕，按摩师可以治好我的腿。她似乎也因为新咒语对她来说太难而感到苦恼。我想如果我们能经常在早上聊天，我会知道更多。"
+    new "Sam告诉我如果我去Dale的水疗按摩院，按摩师可以治好我的腿。她似乎也因为新咒语对她来说太难而感到苦恼。我想如果我们能经常在早上聊天，我会知道更多。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Samantha thinks she's losing her magical powers forever and will get expelled. She expects me to talk to Jacob about her problem. Jacob usually spends his evenings at the Entrance of Academy."
@@ -2452,7 +2452,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Katrina is one of four students of the legendary Melissa Owlsight. Arriving with her from Europe, she helped to found Cordale Academy and established the house of Adderin. Their top priorities have always been pure blood and earning success in any way possible."
-    new "Katrina是传说中的Melissa鹰眼观的四名学生之一。她从欧洲来到这里，帮助创办了Cordale学院，并建立了Adderin分院。他们的首要任务一直是纯血统和以任何可能的方式获得成功。"
+    new "Katrina是传说中的Melissa鹰眼的四名学生之一。她从欧洲来到这里，帮助创办了Cordale学院，并建立了Adderin分院。他们的首要任务一直是纯血统和以任何可能的方式获得成功。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Leona is one of four students of the legendary Melissa Owlsight. Arriving with her from Europe, she helped to found Cordale Academy and established the house of Leonheart. Their top priorities have always been сourage and honesty in all deeds."
@@ -2460,7 +2460,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The gentle and slightly naive girl Lily, a young student of the House of Leonheart, is, in fact, a descendant of Leona Leonheart herself. Her parents are stringent and require Lily to succeed in everything in order not to shame the legacy of her great ancestors."
-    new "温柔而略带天真的女孩Lily是Leonheart家族的一名年轻学生，事实上，她也是利Leona Leonheart的后代。她的父母很严格，要求莉莉在每件事上都要成功，以免羞辱她伟大祖先的遗产。"
+    new "温柔而略带天真的女孩Lily是Leonheart家族的一名年轻学生，事实上，她也是利Leona Leonheart的后代。她的父母很严格，要求Lily在每件事上都要成功，以免羞辱她伟大祖先的遗产。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lucy is a young, friendly, and somewhat kinky dancer from the Lady Luck Club. She came to Dale from Europe in search of a better life. Lucy respects Adele and her co-workers but still dreams of leaving her stripper career one day to pursue her dreams and fulfill her ambitions."
@@ -2484,7 +2484,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The young astral sorceress Penny is trained by the greatest astral magician Salazar Hudson and travels in search of rare artifacts on his instructions. On one of these trips, she got lost in the astral plane and almost lost her body, but everything turned out well."
-    new "年轻的星界女巫Penny接受了最伟大的星界魔术师Salazar Hudson的训练，按照他的指示四处寻找稀有的神器。在其中一次旅行中，她在灵界迷路了，差点失去了肉身，但一切都很顺利。"
+    new "年轻的星界女巫Penny接受了最伟大的灵魂魔术师Salazar Hudson的训练，按照他的指示四处寻找稀有的神器。在其中一次旅行中，她在灵界迷路了，差点失去了肉身，但一切都很顺利。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lambert"
@@ -2504,7 +2504,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Olivia's oldest daughter, Samantha, has always been kind and sweet to me. She is a sophomore from Leonheart's house at Cordale. Samantha is a very talented wizard and the pride of the whole academy. She has a great future in the magical world and dreams of becoming the champion of the most prestigious wizarding tournament."
-    new "Olivia的大女儿Samantha对我一直都很好，很甜蜜。她是Cordale的Leonheart家的大二学生。Samantha是一个非常有天赋的巫师，是整个学院的骄傲。她在魔法世界有着美好的未来，梦想成为最负盛名的巫师锦标赛冠军。"
+    new "Olivia的大女儿Samantha对我一直都很好，很甜蜜。她是Cordale的Leonheart分院的大二学生。Samantha是一个非常有天赋的巫师，是整个学院的骄傲。她在魔法世界有着美好的未来，梦想成为最负盛名的巫师锦标赛冠军。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The mysterious Vanessa works at Lady Luck as a bartender. Unlike many other vampires, she is not bloodthirsty at all and leads a civilized life, eating only to survive. She has an obvious talent for making cocktails, and she's also into DJing. "
