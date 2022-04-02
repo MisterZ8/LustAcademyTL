@@ -12486,7 +12486,7 @@ translate chinese strings:
 
     # game/logic/events/audrey.rpy:1964
     old "Don't risk"
-    new "不危险"
+    new "不冒险"
 
     # game/logic/events/audrey.rpy:2789
     old "Go after her"
@@ -22089,7 +22089,7 @@ translate chinese strings:
 
     # game/logic/events/audrey.rpy:2660
     old "Talk tough"
-    new "谈强硬"
+    new "强硬地谈"
 
     # game/logic/events/audrey.rpy:2660
     old "Play nice"
