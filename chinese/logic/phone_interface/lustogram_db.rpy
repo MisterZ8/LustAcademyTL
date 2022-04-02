@@ -3027,5 +3027,5 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Samantha: C'mon, don't take it too seriously, ok?"
-    new ""
+    new "Samantha: 拜托，别太认真了，好吗？"
 
