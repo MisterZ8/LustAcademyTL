@@ -1294,7 +1294,7 @@ translate chinese Molly_3_label_bb6353df:
 translate chinese Molly_3_label_ac0b8115:
 
     # ch_Name "I'm just helping Molly around the cafe."
-    ch_Name ""
+    ch_Name "我只是在咖啡馆给Molly当帮手"
 
 # game/logic/events/molly.rpy:525
 translate chinese Molly_3_label_91af838b:
