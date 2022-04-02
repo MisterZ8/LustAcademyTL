@@ -1510,7 +1510,7 @@ translate chinese strings:
 
     # game/logic/events/jacob.rpy:15
     old "Tell him you have the seal"
-    new "告诉他印章在你手上"
+    new "告诉他封印在你手上"
 
 # TODO: Translation updated at 2022-03-25 06:03
 
