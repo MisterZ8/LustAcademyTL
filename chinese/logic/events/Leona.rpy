@@ -7451,7 +7451,7 @@ translate chinese strings:
 
     # game/logic/events/Leona.rpy:1233
     old "Touch the monster"
-    new "接触到怪物"
+    new "接触怪物"
 
 # TODO: Translation updated at 2022-03-03 04:01
 
@@ -10081,11 +10081,11 @@ translate chinese strings:
 
     # game/logic/events/Leona.rpy:2194
     old "Give him the seal"
-    new "把咒印给他"
+    new "把封印给他"
 
     # game/logic/events/Leona.rpy:2194
     old "Don't give him the seal"
-    new "别把咒印给他"
+    new "别把封印给他"
 
 # TODO: Translation updated at 2022-03-25 06:03
 
