@@ -1566,7 +1566,7 @@ translate chinese strings:
 
     # game/logic/events/romul.rpy:96
     old "!Bribe ($50)"
-    new "!输入($50)"
+    new "!贿赂($50)"
 
     # game/logic/events/romul.rpy:96
     old "Bribe ($50)"
