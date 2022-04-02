@@ -8190,11 +8190,11 @@ translate chinese strings:
 
     # game/logic/events/adele.rpy:2214
     old "Sadira's table"
-    new "Sadira's 桌子"
+    new "Sadira的桌子"
 
     # game/logic/events/adele.rpy:2221
     old "Lucy's table"
-    new "Lucy's 桌子"
+    new "Lucy的桌子"
 
     # game/logic/events/adele.rpy:2231
     old "1 Talk to Vanessa"
@@ -10930,7 +10930,7 @@ translate chinese strings:
 
     # game/logic/events/adele.rpy:2883
     old "Try to save her"
-    new "试图拯救她"
+    new "试图救她"
 
 # TODO: Translation updated at 2022-03-31 15:32
 
