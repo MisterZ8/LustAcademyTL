@@ -68,11 +68,11 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "It can be so lonely in the library. Aren't there any readers left among the youths?"
-    new "在图书馆里会很孤独。年轻人中没有读者了吗?"
+    new "在图书馆里会很孤独。年轻人中没有读书的人了吗?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Victoria:{/b} Dear, I have seen two or three students with books. So yeah, let's say that they are on the brim of extinction."
-    new "{b}Victoria:{/b} 亲爱的，我见过两三个学生拿着书。所以，让我们假设它们处于灭绝的边缘。"
+    new "{b}Victoria:{/b} 亲爱的，我见过两三个学生拿着书。所以，我想这种人已经濒危了。"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Haley:{/b} I'm sure people don't realize how much fun it is to Library-dive until you've read ten or twenty books while searching for an answer."
@@ -128,7 +128,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Once William Shakespeare said \"I like this place and could willingly waste my time in it\", and that's exactly how I feel about my library. I can even call it \"second home\" - cannot even imagine my life without it. I want belong here and I do belong here - everything is in place."
-    new "William Shakespeare曾经说过:“我喜欢这个地方，愿意在这里浪费时间”，这正是我对我的图书馆的感觉。我甚至可以把它称为“第二个家”—我甚至无法想象没有它的生活。我想要属于这里，我确实属于这里—一切都在这里。"
+    new "William Shakespeare曾经说过:“我喜欢这个地方，愿意在这里浪费时间”，这正是我对我的图书馆的感觉。我甚至可以把它称为“第二个家”—我甚至无法想象没有它的生活。我想要属于这里，我确实属于这里——一切都在这里。"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Victoria:{/b} Beautifully said! 🥰"
@@ -496,7 +496,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Jacob:{/b} One of the biggest mysteries in you is how you manage not to be expelled if you don't finish your term paper"
-    new "{b}Jacob:{/b} 你身上最大的谜团之一就是，如果你没有完成你的学期论文，你是如何设法不被开除的"
+    new "{b}Jacob:{/b} 你身上最大的谜团之一就是，你没有完成你的学期论文，你却没被开除的。"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Hey, sometimes it's worth the risk. I think you're just that case."
@@ -556,7 +556,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "This summer's discovery: Yoga."
-    new "今年夏天的发现:瑜伽。"
+    new "今年夏天的发现: 瑜伽。"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I feel a peace and harmony I've never experienced before. I never would have thought that body and soul were so strongly connected. Thanks for the advice, Samantha."
@@ -636,7 +636,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "1 book a day and it's okay"
-    new "一天读一本书就可以了。"
+    new "一天读一本书足矣。"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "What could be more satisfying than gliding on ice while the wind flutters your hair? "
@@ -700,7 +700,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Elijah:{/b} I'm sorry, was #Funnight a mistake, or why am I here, reading about reading? Ugh..."
-    new "{b}Elijah:{/b} 不好意思，有趣之夜是一个错误吗，还是我为什么在这里，读关于阅读的书?啊..."
+    new "{b}Elijah:{/b} 不好意思，#Funnigh 是一个错误吗，还是我为什么在这里，读关于阅读的书?啊..."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Lily:{/b} That's a tremendous amount of books. How do you read so fast?"
@@ -1020,7 +1020,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "It looks soothing. Can you recommend a place?"
-    new "它看起来舒缓。你能推荐一个地方吗?"
+    new "它看起来让人舒缓。你能推荐一个地方吗?"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I wish I was water in that pool..."
@@ -1456,7 +1456,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Wife, model, artist"
-    new "妻子，模型，艺术家"
+    new "妻子，模特，艺术家"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "My friends often ask me what is the secret of my beautiful skin."
@@ -1752,11 +1752,11 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Some ingredients are not so easy to obtain! For instance, I recently had to swim naked into a cave to get my magic mixed with the water so that the mermaid flowers would appear on the shore. What can't I do, for the sake of science!"
-    new "有些配料不是那么容易获得的!例如，我最近不得不裸泳进一个洞穴，让我的魔法与水混合，这样美人鱼的花朵就会出现在岸边。为了科学，我不能做什么!"
+    new "有些配料不是那么容易获得的!例如，我最近不得不裸泳进一个洞穴，让我的魔法与水混合，这样美人鱼的花朵就会出现在岸边。为了科学，我什么都能做!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Jacob:{/b} Always loved mermaid flowers in potions. You're doing amazing job, Sabrina!"
-    new "{b}Jacob:{/b} 我一直很喜欢人鱼花。你做得很好，Sabrina!"
+    new "{b}Jacob:{/b} 我一直喜欢美人鱼花的药剂。你做得很好，Sabrina!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Potions are so complex and interesting. Please, tell me more!"
@@ -1772,7 +1772,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Many students are skeptical about Potion classes, but those who give it a shot usually fall in love with this place. Trust me."
-    new "许多学生对魔药课持怀疑态度，但那些尝试的人通常会爱上这所学校。相信我。"
+    new "许多学生对魔药课持怀疑态度，但那些尝试魔药课的人通常会爱上这个地方。相信我。"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Elijah:{/b} So It works just as like as with alcohol? "
@@ -1824,7 +1824,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "What a view..."
-    new "一个视图..."
+    new "多美的景色啊..."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "How can anyone swim in pools? I thought people pee there..."
@@ -1884,7 +1884,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "At times like this, I wish we'd spent a vacation together so that you can see the difference between a gentleman and a joke."
-    new "在这种时候，我真希望我们能一起度假这样你就能明白绅士和笑话之间的区别了。"
+    new "在这种时候，我真希望我们能一起度假，这样你就能明白绅士和笑话之间的区别了。"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Imagine how fun that strange armchair can be when it comes to coitus!"
@@ -1892,7 +1892,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I don't understand people who swim in the hotel pool when they come to the sea. There are real beaches! Swimming pools are for taking nice pictures near them in a swimsuit. Like this one. "
-    new "我真不理解那些来到海边却在酒店游泳池里游泳的人。那里有真正的海滩! 游泳池边穿着泳装拍漂亮的照片。像这一个。"
+    new "我不理解那些来海边时在酒店泳池游泳的人。这里有真正的海滩！游泳池是用来穿着泳衣在附近拍照的。就像这个。"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Olivia:{/b} Nonsense, swimming pool is so much more convenient!"
@@ -1960,7 +1960,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Samantha:{/b} Audrey! Stop it..."
-    new "{b}Samantha:{/b} Audrey! 阻止它..."
+    new "{b}Samantha:{/b} Audrey! 不要..."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Elijah:{/b} No, please! Don't stop. "
@@ -1988,7 +1988,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Jacob:{/b} It's a great honor to get a place among those murals. Do you think you've even earned the right to ask things like that?"
-    new "{b}Jacob:{/b} 能在这些壁画中占有一席之地是一种莫大的荣誉。你觉得你有资格问这样的问题吗?"
+    new "{b}Jacob:{/b} 能在这些壁画中占有一席之地是一种莫大的荣誉。你觉得你有权问这样的问题吗？"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Victoria:{/b} Don't be so harsh, Jacob, Samantha meant nothing but respect."
@@ -2016,7 +2016,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Interesting statistic: 75% of guys won't remember the color of my eyes if they don't look at the photo again."
-    new "有趣的统计数据:75%的男人如果不看我的照片就不会记得我眼睛的颜色。"
+    new "有趣的统计数据:75%的男人如果不看我的照片，就不会记得我眼睛的颜色。"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Molly:{/b} I'm a girl, but those things are worth looking at."
@@ -2028,7 +2028,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Molly:{/b} I got hacked."
-    new "{b}Molly:{/b} 我砍了。"
+    new "{b}Molly:{/b} 我号被盗了。"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Elijah:{/b} sure, sure."
@@ -2124,7 +2124,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Ohh, i was there and the quality of massage is really good!"
-    new "哦，我也在那里，而且按摩的质量真的很好!"
+    new "哦，我也去过那里，而且按摩的质量真的很好!"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Fantastic ass!"
@@ -2192,7 +2192,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Victoria: Thank you, mister [Name]."
-    new "Victoria: 谢谢你，先生[Name]。"
+    new "Victoria: 谢谢你，[Name]先生。"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Don't worry, miss Lapis. When you have curves like this, no one pays attention to your emotions."
@@ -2224,7 +2224,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Decision to spend my vacation in the countryside was the best idea ever. Back to nature - zero inconvenience."
-    new "决定去乡下度假是我有生以来最好的主意。回归自然，零不便。"
+    new "决定去乡下度假是我有生以来最好的主意。回归自然，没有不便。"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Sabrina:{/b} Oh, dear, you've fulfilled my dream!"
@@ -2236,7 +2236,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "{b}Victoria:{/b} All details in the Direct."
-    new "{b}Victoria:{/b} 所有细节都在Direct中。"
+    new "{b}Victoria:{/b} 交代所有细节。"
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "I'm so happy that you had at least little rest from your work. "
@@ -2268,7 +2268,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Adele:{/b} He-he-he."
-    new "{b}Adele:{/b} He-he-he."
+    new "{b}Adele:{/b} 哈哈哈."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "You're too fucking gorgeous in this dress, I can't breathe..."
@@ -2356,7 +2356,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Jacob:{/b} One of the biggest mysteries in you is how you manage not to be expelled if you don't finish your term paper."
-    new "{b}Jacob:{/b} 你最大的谜团之一是，你是如何在的情况下不被开除的。"
+    new "{b}Jacob:{/b} 你最大的谜团之一是，你是如何在没有完成学期论文的情况下不被开除的。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "One look at this picture fills me with harmony. Or, well, maybe those are some other feelings. 😈 "
@@ -2364,7 +2364,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "It's 10 p.m., Sam and I spontaneously decided to go to a costume party, and this is the only outfit that she found for me... "
-    new "现在是晚上10点，山姆和我自发地决定去参加化装舞会，这是她为我找到的唯一一套服装..."
+    new "现在是晚上10点，Sam和我自发地决定去参加化装舞会，这是她为我找到的唯一一套服装..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Shit, I just want to get drunk tonight! 👿"
@@ -2380,7 +2380,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Your life is such an adventure... I envy you sometimes, he-he."
-    new "你的生活是一场冒险。。。我有时羡慕你，he-he。"
+    new "你的生活是一场冒险。。。我有时羡慕你，哈哈。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Audrey: 🙃"
@@ -2388,11 +2388,11 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "What's happened to your face? If I were you, I wouldn't show this photo to anyone..."
-    new ""
+    new "你的脸怎么了？如果我是你，我不会把这张照片给任何人看..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Audrey: A little longer and I will block you."
-    new "Audrey: 你的脸怎么了？如果我是你，我不会把这张照片给任何人看。"
+    new "你的脸怎么了？如果我是你，我不会把这张照片给任何人看。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Heads up, I hate my outfit and this party is fucking terrible."
@@ -2640,7 +2640,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Audrey:{/b} It's breathtaking, Molly! You should think about modeling, at least as a hobby."
-    new "{b}Audrey:{/b} 太惊人了，莫莉！你应该考虑建模，至少作为一种爱好。"
+    new "{b}Audrey:{/b} 太惊人了，莫莉！你应该考虑做模特，至少作为一种爱好。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Haley:{/b} It's sad, but I don't have any contacts :("
@@ -2700,7 +2700,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Audrey:{/b} That's my favorite place, Ahchi can even call me a regular."
-    new "{b}Audrey:{/b} 那是我最喜欢的地方，阿赤甚至可以称我为常客"
+    new "{b}Audrey:{/b} 那是我最喜欢的地方，Ahchi甚至可以称我为常客"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Lily:{/b} Thanks for the tip! We can go there together, what do you think?"
@@ -2712,7 +2712,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I will be happy to join you and Lily, so you can DM next time you go there."
-    new "我很乐意加入你和莉莉，所以你下次去那里可以直接私信我。"
+    new "我很乐意加入你和Lily，所以你下次去那里可以直接私信我。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Naomi: Sorry, this is supposed to be an all-girls party."
@@ -2792,7 +2792,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Every friday night Don and I go to a fancy restaurant and enjoy the night at the chic hotel then, just for a change of scenery. Sometimes it can be hard to keep a romance alive in the relationship, but it's truly worth it! "
-    new "每个星期五晚上，唐和我去一家高档餐厅，然后在别致的酒店享受夜晚，只是为了换个风景。有时很难在恋爱中保持浪漫，但这确实值得！"
+    new "每个星期五晚上，Don和我去一家高档餐厅，然后在别致的酒店享受夜晚，只是为了换个风景。有时很难在恋爱中保持浪漫，但这确实值得！"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Ashley:{/b} I don't want to know anything about that..."
@@ -2836,7 +2836,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Samantha:{/b} Mom, don't you think that it is a little bit too much for Lustagram when everybody can see your posts?"
-    new "{b}Samantha:{/b} 妈妈，你不觉得当大家都能看到你的帖子时，Lustagram 有点过分了吗？"
+    new "{b}Samantha:{/b} 妈妈，当每个人都能看到你的帖子时，你不觉得这对Lustagram来说有点太过分了吗？"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Seems that @Don is very lucky!"
@@ -3013,6 +3013,7 @@ translate chinese strings:
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Seems that you have well-trained fingers! I'm only interested in what more can they do to bring satisfaction..."
     new "看来你的手指训练有素！我只对他们还能做些什么来带来满足感感兴趣..."
+
 # TODO: Translation updated at 2022-04-02 04:02
 
 translate chinese strings:
@@ -3028,4 +3029,3 @@ translate chinese strings:
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Samantha: C'mon, don't take it too seriously, ok?"
     new "Samantha: 拜托，别太认真了，好吗？"
-
