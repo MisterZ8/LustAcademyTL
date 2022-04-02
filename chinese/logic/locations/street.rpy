@@ -22,7 +22,7 @@ translate chinese street_label_bfba75ba:
 translate chinese street_label_4b8f11ed:
 
     # ch_Name "Dear Mr. [Name] [Surname]."
-    ch_Name "尊敬的[Name][Surname]先生:"
+    ch_Name "尊敬的[Name][Surname]先生。"
 
 # game/logic/locations/street.rpy:29
 translate chinese street_label_a4bfb822:
@@ -34,13 +34,13 @@ translate chinese street_label_a4bfb822:
 translate chinese street_label_e59e5cf0:
 
     # ch_Name "...for an elite institution of higher education: the Cordale Academy of Magic and Wizardry."
-    ch_Name "...一所精英高等教育机构:科代尔魔法学院。"
+    ch_Name "...一所精英高等教育机构:Cordale魔法学院。"
 
 # game/logic/locations/street.rpy:31
 translate chinese street_label_ca651f50:
 
     # ch_Name "To take the exam, you need to arrive at the central station at 12 pm, on August 31st."
-    ch_Name "参加考试，你需要在8月31日晚上12点到达中央车站。"
+    ch_Name "你需要在8月31日晚上12点到达中央车站参加考试。"
 
 # game/logic/locations/street.rpy:32
 translate chinese street_label_b8e60260:
@@ -64,7 +64,7 @@ translate chinese street_label_bb78052c:
 translate chinese street_label_16f31a9e:
 
     # ch_Name "...you may need in order to settle down at the Cordale Dorm."
-    ch_Name "...你可能需要这样才能在科代尔宿舍安顿下来"
+    ch_Name "...你可能需要这样才能在Cordale宿舍安顿下来"
 
 # game/logic/locations/street.rpy:37
 translate chinese street_label_9946de68:
