@@ -8,7 +8,7 @@ translate chinese strings:
 
     # game/logic/characters.rpy:8
     old "Ring, ring..."
-    new "环，环..."
+    new "叮铃铃..."
 
     # game/logic/characters.rpy:9
     old "Radio"
