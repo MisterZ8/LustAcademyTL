@@ -10,5 +10,5 @@ translate chinese strings:
 
     # game/logic/systems/optimisation.rpy:123
     old "Loading, please wait..."
-    new "加载，请稍候..."
+    new "加载中，请稍候..."
 
