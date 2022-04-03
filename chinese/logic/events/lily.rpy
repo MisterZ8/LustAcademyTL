@@ -6724,7 +6724,7 @@ translate chinese Lily_7_label_fb613be0:
 translate chinese Lily_7_label_c2cce783:
 
     # ch_Name "Well... [Name] [Surname] the Discoverer, that sounds cool!"
-    ch_Name "确实。。。探险者[Name][Surname]，听起来蛮酷的！"
+    ch_Name "确实。。。探险者[Surname] [Name]，听起来蛮酷的！"
 
 # game/logic/events/lily.rpy:2092
 translate chinese Lily_7_label_313796cd:
