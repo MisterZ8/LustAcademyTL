@@ -8342,7 +8342,7 @@ translate chinese Samantha_14_label_6740d4e6:
 translate chinese Samantha_14_label_247772b3:
 
     # Arthur "...[Name] [Surname], Leonheart!"
-    Arthur "。。。[Name][Surname]，Leonheart!"
+    Arthur "。。。[Surname] [Name]，Leonheart!"
 
 # game/logic/events/samantha.rpy:2328
 translate chinese Samantha_14_label_17cf0f98:
