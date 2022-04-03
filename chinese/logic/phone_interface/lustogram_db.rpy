@@ -2392,7 +2392,7 @@ translate chinese strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Audrey: A little longer and I will block you."
-    new "你的脸怎么了？如果我是你，我不会把这张照片给任何人看。"
+    new "Audrey: 你的脸怎么了？如果我是你，我不会把这张照片给任何人看。"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Heads up, I hate my outfit and this party is fucking terrible."
