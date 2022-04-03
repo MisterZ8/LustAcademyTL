@@ -256,7 +256,7 @@ translate chinese cofe_event_2_21d2f836:
 translate chinese cofe_event_2_4c62a131:
 
     # ch_Name "Hi, I'm [Name] [Surname]."
-    ch_Name "你好，我叫[Name][Surname]。"
+    ch_Name "你好，我叫[Surname] [Name]。"
 
 # game/logic/events/molly.rpy:227
 translate chinese cofe_event_2_f48c6c9d:
