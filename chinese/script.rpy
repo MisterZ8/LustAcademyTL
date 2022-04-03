@@ -4,7 +4,7 @@
 translate chinese 69ff737f:
 
     # "Here you can keep track of all the routes, activities, etc. that are available to you. and quickly navigate to the desired one, without wasting time walking around the locations and searching. Next to the avatars of the characters are icons, the decoding of which is next."
-    "在这里，你可以跟踪所有的路线，活动等，你可以使用。并快速导航到所需的一个，而不浪费时间走在周围的位置和搜索。在角色的化身旁边是图标，接下来是对图标的解码。"
+    "在这里，你可以跟踪所有的可以的路线，活动等，并快速导航到所需的一个，而不浪费时间走过地图和搜索。在角色的化身旁边的图标，是对图标的解释。"
 
 # game/script.rpy:742
 translate chinese start_54c881dc:
@@ -16,7 +16,7 @@ translate chinese start_54c881dc:
 translate chinese start_input_2_a0ecd7a8:
 
     # ch_Name "My name is [Name] [Surname] and I am 18 years old."
-    ch_Name "我叫[Name][Surname]，今年18岁。"
+    ch_Name "我叫[Surname] [Name]，今年18岁。"
 
 # game/script.rpy:774
 translate chinese start_input_2_f789cadc:
@@ -106,7 +106,7 @@ translate chinese start_input_2_b9fa1026:
 translate chinese start_input_2_b6ce45a5:
 
     # NoName "Knock-Knock"
-    NoName "能听懂"
+    NoName "敲——敲"
 
 # game/script.rpy:863
 translate chinese start_input_2_6f8b77bd:
@@ -160,7 +160,7 @@ translate chinese start_input_2_b510ad9f:
 translate chinese start_input_2_ad8c35fe:
 
     # Olivia "No buts!"
-    Olivia "没有借口!"
+    Olivia "别找借口!"
 
 # game/script.rpy:881
 translate chinese start_input_2_9a44f10c:
@@ -226,7 +226,7 @@ translate chinese start_input_2_f6724a46:
 translate chinese start_input_2_4682ac22:
 
     # ch_Name "I'd be at university right now if it wasn't for my leg..."
-    ch_Name "你知道为什么会这样!"
+    ch_Name "如果不是因为我的腿，我现在就在大学了..."
 
 # game/script.rpy:903
 translate chinese start_input_2_6eb4f2dc:
@@ -268,7 +268,7 @@ translate chinese start_input_2_b1e52819:
 translate chinese start_input_2_2aa9b9d5:
 
     # Olivia "He's working..."
-    Olivia "他的工作..."
+    Olivia "他在工作..."
 
 # game/script.rpy:917
 translate chinese start_input_2_b33dc905:
@@ -346,7 +346,7 @@ translate chinese start_input_2_3c004877:
 translate chinese start_input_2_668cf83e:
 
     # Olivia "And I talked Don out of kicking you out."
-    Olivia "我告诉唐我会把你赶出去。"
+    Olivia "我告诉Don不会把你赶出去。"
 
 # game/script.rpy:943
 translate chinese start_input_2_cbbc98eb:
@@ -484,7 +484,7 @@ translate chinese start_input_2_82ed18d6:
 translate chinese start_input_2_b8f6f104:
 
     # ch_Name "{i}(Damn it, I knew I shouldn't have fallen for her provocations...){/i}"
-    ch_Name "{i}(该死，我就知道我不应该听信她的挑衅。){/i}"
+    ch_Name "{i}(该死，我就知道我不应该听信她的挑衅。。。){/i}"
 
 # game/script.rpy:989
 translate chinese start_input_2_931280c0:
@@ -514,7 +514,7 @@ translate chinese strings:
 
     # game/script.rpy:61
     old "Nice"
-    new "不错的"
+    new "好的"
 
     # game/script.rpy:63
     old "Flirty"
@@ -522,7 +522,7 @@ translate chinese strings:
 
     # game/script.rpy:65
     old "Troll"
-    new "巨魔"
+    new "圆滑的"
 
     # game/script.rpy:67
     old "Angry"
@@ -534,11 +534,11 @@ translate chinese strings:
 
     # game/script.rpy:71
     old "Support"
-    new "支持"
+    new "支持的"
 
     # game/script.rpy:73
     old "Joke"
-    new "笑话"
+    new "开玩笑"
 
     # game/script.rpy:75
     old "Funny"
@@ -730,7 +730,7 @@ translate chinese strings:
 
     # game/script.rpy:172
     old "Viewpoint"
-    new "观点"
+    new "观景点"
 
     # game/script.rpy:174
     old "Main Street"
@@ -782,7 +782,7 @@ translate chinese strings:
 
     # game/script.rpy:206
     old "All characters are 18 age or older even if specified otherwise."
-    new "所有字符都是18岁或以上，即使另有指定。"
+    new "所有字角色是18岁或以上，即使另有指定。"
 
     # game/script.rpy:207
     old "This game contains violence, obscene scenes (naked girls and sex scenes), "
@@ -814,11 +814,11 @@ translate chinese strings:
 
     # game/script.rpy:340
     old "Note that our game features LGBTQ+ scenes. If you're not interested in stuff like that at all, you can turn this option"
-    new "注意，我们的游戏以LGBTQ+场景为特色。如果你对这样的东西一点都不感兴趣，你可以选择这个选项"
+    new "注意，我们的游戏以LGBTQ+场景为特色。如果你对这样的东西一点都不感兴趣，你可以关闭这个选项"
 
     # game/script.rpy:340
     old "off right now (you can always turn it on later, in the settings). Leave this option enabled if you're only"
-    new "立即关闭(你可以随时在设置中打开它)。如果您只是"
+    new "立即关闭(你可以随时在设置中打开它)。如果您只是，可以使选项保持开启"
 
     # game/script.rpy:340
     old "interested in some of the possible content. Don't worry! We'll ask you beforehand each"
@@ -878,7 +878,7 @@ translate chinese strings:
 
     # game/script.rpy:198
     old "House competitions"
-    new "房子比赛"
+    new "分院比赛"
 
     # game/script.rpy:200
     old "Weekly competitions held"
@@ -902,7 +902,7 @@ translate chinese strings:
 
     # game/script.rpy:210
     old "Lost books found"
-    new "丢失的书找到"
+    new "找到丢失的书"
 
     # game/script.rpy:212
     old "Training"
@@ -926,19 +926,19 @@ translate chinese strings:
 
     # game/script.rpy:222
     old "Lesser Heal potions brewed"
-    new "次级治疗药水酿造"
+    new "酿造次级治疗药水"
 
     # game/script.rpy:224
     old "Stoneskin potions brewed"
-    new "石肤药剂酿造"
+    new "酿造石肤药剂"
 
     # game/script.rpy:226
     old "Inspiration potions brewed"
-    new "灵感药水酿造"
+    new "酿造灵感药水"
 
     # game/script.rpy:228
     old "Reflection potions brewed"
-    new "反射药水酿造"
+    new "酿造反射药水"
 
     # game/script.rpy:230
     old "Duels performed"
@@ -978,19 +978,19 @@ translate chinese strings:
 
     # game/script.rpy:248
     old "Lesser Heal potion used"
-    new "治疗药水使用"
+    new "使用治疗药水"
 
     # game/script.rpy:250
     old "Stoneskin potion used"
-    new "石肤药剂使用"
+    new "使用石肤药剂"
 
     # game/script.rpy:252
     old "Inspiration potion used"
-    new "灵感药水使用"
+    new "使用灵感药水"
 
     # game/script.rpy:254
     old "Reflection potions used"
-    new "反射药水使用"
+    new "使用反射药水"
 
     # game/script.rpy:256
     old "Total money earned"
@@ -1018,7 +1018,7 @@ translate chinese strings:
 
     # game/script.rpy:268
     old "Earned money fishing"
-    new "钓鱼赚钱"
+    new "钓鱼的赚钱"
 
     # game/script.rpy:270
     old "Earned money another way"
@@ -1042,11 +1042,11 @@ translate chinese strings:
 
     # game/script.rpy:343
     old "Сontinue on the web version"
-    new "加载页面"
+    new "继续使用网页版"
 
     # game/script.rpy:344
     old "Play the full version"
-    new "播放完整版"
+    new "玩完整版"
 
 # TODO: Translation updated at 2022-03-25 06:03
 
@@ -1071,20 +1071,4 @@ translate chinese strings:
     # game/script.rpy:280
     old "4th"
     new "第4"
-
-# TODO: Translation updated at 2022-03-31 21:54
-
-translate chinese strings:
-
-    # game/script.rpy:282
-    old "Lesser Heal Potion"
-    new "较小的治疗药水"
-
-    # game/script.rpy:284
-    old "Magic Reflection Potion"
-    new "魔法反射药水"
-
-    # game/script.rpy:286
-    old "The Moonwalk tincture"
-    new "月球漫步酊剂"
 
