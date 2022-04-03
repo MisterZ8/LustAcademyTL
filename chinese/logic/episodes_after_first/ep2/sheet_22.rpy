@@ -106,7 +106,7 @@ translate chinese sheet_22_34d568c0:
 translate chinese sheet_22_20feef56:
 
     # ch_Name "I am [Name] [Surname]. Nice to meet you."
-    ch_Name "我叫[Name][Surname]。很高兴见到你。"
+    ch_Name "我叫[Surname][Name]。很高兴见到你。"
 
 # game/logic/episodes_after_first/ep2/sheet_22.rpy:64
 translate chinese sheet_22_8a28f8d1:
