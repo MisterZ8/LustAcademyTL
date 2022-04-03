@@ -16,7 +16,7 @@ translate chinese start_54c881dc:
 translate chinese start_input_2_a0ecd7a8:
 
     # ch_Name "My name is [Name] [Surname] and I am 18 years old."
-    ch_Name "我叫[Surname][Name]，今年18岁。"
+    ch_Name "我叫[Surname] [Name]，今年18岁。"
 
 # game/script.rpy:774
 translate chinese start_input_2_f789cadc:
