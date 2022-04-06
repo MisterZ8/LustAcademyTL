@@ -1432,31 +1432,31 @@ translate philippine samantha_events_4_label_0_ab189795:
 translate philippine samantha_events_4_label_0_cb4a7390:
 
     # ch_Name "{i}(I can see a little bit more, than I thought I would...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Makikita ko ang higit pa sa inaakala ko...){/i}"
 
 # game/logic/events/samantha.rpy:610
 translate philippine samantha_events_4_label_0_c7f558db:
 
     # ch_Name "{i}(This tiny bra can't hide all of your gorgeous breasts...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi maitatago ng bra na ito ang  iyong mga magandang suso...){/i}"
 
 # game/logic/events/samantha.rpy:612
 translate philippine samantha_events_4_label_0_30b34bfe:
 
     # ch_Name "{i}(Sometimes you're even too gorgeous, Samantha...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Minsan, napakaganda mo, Samantha...){/i}"
 
 # game/logic/events/samantha.rpy:613
 translate philippine samantha_events_4_label_0_4af7f1ab:
 
     # ch_Name "{i}(How can I resist you...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Paano kita lalabanan...){/i}"
 
 # game/logic/events/samantha.rpy:615
 translate philippine samantha_events_4_label_0_12c8e7bb:
 
     # ch_Name "{i}(Let's turn you on your back...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Humiga sa iyong likod...){/i}"
 
 # game/logic/events/samantha.rpy:617
 translate philippine samantha_events_4_label_0_cee6277a:
@@ -1468,49 +1468,49 @@ translate philippine samantha_events_4_label_0_cee6277a:
 translate philippine samantha_events_4_label_0_8a4d6e8a:
 
     # ch_Name "{i}(Damn, I think that could wake her up...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bwisit, magigising na siya...){/i}"
 
 # game/logic/events/samantha.rpy:619
 translate philippine samantha_events_4_label_0_d507495b:
 
     # ch_Name "{i}(Better get out of here and get some sleep.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas mabuting umalis na ako rito at matulog.){/i}"
 
 # game/logic/events/samantha.rpy:639
 translate philippine samantha_events_4_label_1_4ba616a1:
 
     # ch_Name "{i}(Samantha always looks so peaceful in her sleep.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mukhang napakapayapa ni Samantha sa kanyang pagtulog.){/i}"
 
 # game/logic/events/samantha.rpy:640
 translate philippine samantha_events_4_label_1_54402612:
 
     # ch_Name "{i}(Let's take a closer look at you.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Titingnan kita nang mas malapit.){/i}"
 
 # game/logic/events/samantha.rpy:642
 translate philippine samantha_events_4_label_1_95bb1ad7:
 
     # ch_Name "{i}(Sleeping beauty...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Magandang natutulog...){/i}"
 
 # game/logic/events/samantha.rpy:643
 translate philippine samantha_events_4_label_1_1d59502e:
 
     # ch_Name "{i}(I could have looked at you all night...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kaya kitang tingnan nang buong gabi...){/i}"
 
 # game/logic/events/samantha.rpy:644
 translate philippine samantha_events_4_label_1_4c464436:
 
     # ch_Name "{i}(Still hiding from me under the blanket, Samantha?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nagtatago ka ba sa akin sa ilalim ng kumot, Samantha?){/i}"
 
 # game/logic/events/samantha.rpy:646
 translate philippine samantha_events_4_label_1_45b010da:
 
     # ch_Name "{i}(Let's take that off...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tanggalin na natin 'yan...){/i}"
 
 # game/logic/events/samantha.rpy:647
 translate philippine samantha_events_4_label_1_ab189795:
@@ -1522,73 +1522,73 @@ translate philippine samantha_events_4_label_1_ab189795:
 translate philippine samantha_events_4_label_1_56f92b12:
 
     # ch_Name "{i}(What a beauty...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ang ganda...){/i}"
 
 # game/logic/events/samantha.rpy:650
 translate philippine samantha_events_4_label_1_a055e888:
 
     # ch_Name "{i}(I've never thought you'd be that sexy, Sam...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi ko inakala na ganito ka kaganda, Sam...){/i}"
 
 # game/logic/events/samantha.rpy:652
 translate philippine samantha_events_4_label_1_25edd9f3:
 
     # ch_Name "{i}(This time, I'll be more cautious.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ngayon magiging mas maingat ako.){/i}"
 
 # game/logic/events/samantha.rpy:653
 translate philippine samantha_events_4_label_1_036ec1b9:
 
     # ch_Name "{i}(Oh, yes.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ay, oo.){/i}"
 
 # game/logic/events/samantha.rpy:654
 translate philippine samantha_events_4_label_1_8a199824:
 
     # ch_Name "{i}(Now I see all the best parts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ngayon nakikita ko ang lahat ng pinakamagandang bahagi.){/i}"
 
 # game/logic/events/samantha.rpy:655
 translate philippine samantha_events_4_label_1_739a1ff4:
 
     # ch_Name "{i}(To be honest...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sa katotohanan...){/i}"
 
 # game/logic/events/samantha.rpy:657
 translate philippine samantha_events_4_label_1_914d37e8:
 
     # ch_Name "{i}(You've exceeded all my expectations, Sam.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nalampasan mo na ang lahat ng inaasahan ko, Sam.){/i}"
 
 # game/logic/events/samantha.rpy:658
 translate philippine samantha_events_4_label_1_1027f3c2:
 
     # ch_Name "{i}(I could look at you forever.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Maaari kitang tingnan magpakailanman.){/i}"
 
 # game/logic/events/samantha.rpy:659
 translate philippine samantha_events_4_label_1_28a638af:
 
     # ch_Name "{i}(But I don't want to miss other parts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ngunit ayaw kong makaligtaan ang ibang bahagi.){/i}"
 
 # game/logic/events/samantha.rpy:661
 translate philippine samantha_events_4_label_1_d6f77ec0:
 
     # ch_Name "{i}(Your white panties are so cute..){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ang cute ng puti mong panloob..){/i}"
 
 # game/logic/events/samantha.rpy:662
 translate philippine samantha_events_4_label_1_7eaa5b2d:
 
     # ch_Name "{i}(I'm sure it's even better underneath them.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sigurado akong mas maganda pa ang lalim nila.){/i}"
 
 # game/logic/events/samantha.rpy:664
 translate philippine samantha_events_4_label_1_bd63290c:
 
     # ch_Name "{i}(Let me try to move your skirt a little bit...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hayaan mo akong ilipat ang iyong palda ng kaunti...){/i}"
 
 # game/logic/events/samantha.rpy:666
 translate philippine samantha_events_4_label_1_cee6277a:
@@ -1600,49 +1600,49 @@ translate philippine samantha_events_4_label_1_cee6277a:
 translate philippine samantha_events_4_label_1_70bb8333:
 
     # ch_Name "{i}(Damn, I think she could wake up any minute.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Damn, I think that could wake her up...){/i}"
 
 # game/logic/events/samantha.rpy:668
 translate philippine samantha_events_4_label_1_03d6a422:
 
     # ch_Name "{i}(Better get out of here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas mabuting umalis na ako rito at matulog.){/i}"
 
 # game/logic/events/samantha.rpy:679
 translate philippine samantha_events_4_label_2_4ba616a1:
 
     # ch_Name "{i}(Samantha always looks so peaceful in her sleep.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mukhang napakapayapa ni Samantha sa kanyang pagtulog.){/i}"
 
 # game/logic/events/samantha.rpy:680
 translate philippine samantha_events_4_label_2_54402612:
 
     # ch_Name "{i}(Let's take a closer look at you.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Titingnan kita nang mas malapit.){/i}"
 
 # game/logic/events/samantha.rpy:682
 translate philippine samantha_events_4_label_2_95bb1ad7:
 
     # ch_Name "{i}(Sleeping beauty...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Magandang natutulog...){/i}"
 
 # game/logic/events/samantha.rpy:683
 translate philippine samantha_events_4_label_2_1d59502e:
 
     # ch_Name "{i}(I could have looked at you all night...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kaya kitang tingnan nang buong gabi...){/i}"
 
 # game/logic/events/samantha.rpy:684
 translate philippine samantha_events_4_label_2_4c464436:
 
     # ch_Name "{i}(Still hiding from me under the blanket, Samantha?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nagtatago ka ba sa akin sa ilalim ng kumot, Samantha?){/i}"
 
 # game/logic/events/samantha.rpy:686
 translate philippine samantha_events_4_label_2_45b010da:
 
     # ch_Name "{i}(Let's take that off...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tanggalin na natin 'yan...){/i}"
 
 # game/logic/events/samantha.rpy:687
 translate philippine samantha_events_4_label_2_ab189795:
@@ -1654,103 +1654,103 @@ translate philippine samantha_events_4_label_2_ab189795:
 translate philippine samantha_events_4_label_2_56f92b12:
 
     # ch_Name "{i}(What a beauty...){/i}"
-    ch_Name ""
+    ch_Name {i}(Ang ganda...){/i}"
 
 # game/logic/events/samantha.rpy:690
 translate philippine samantha_events_4_label_2_a055e888:
 
     # ch_Name "{i}(I've never thought you'd be that sexy, Sam...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi ko inakala na ganito ka kaganda, Sam...){/i}"
 
 # game/logic/events/samantha.rpy:692
 translate philippine samantha_events_4_label_2_25edd9f3:
 
     # ch_Name "{i}(This time, I'll be more cautious.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ngayon magiging mas maingat ako.){/i}"
 
 # game/logic/events/samantha.rpy:693
 translate philippine samantha_events_4_label_2_036ec1b9:
 
     # ch_Name "{i}(Oh, yes.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ay, oo.){/i}"
 
 # game/logic/events/samantha.rpy:694
 translate philippine samantha_events_4_label_2_8a199824:
 
     # ch_Name "{i}(Now I see all the best parts.){/i}"
-    ch_Name ""
+    ch_Name {i}(Ngayon nakikita ko ang lahat ng mga pinakamagandang bahagi.){/i}"
 
 # game/logic/events/samantha.rpy:695
 translate philippine samantha_events_4_label_2_739a1ff4:
 
     # ch_Name "{i}(To be honest...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sa katotohanan...){/i}"
 
 # game/logic/events/samantha.rpy:697
 translate philippine samantha_events_4_label_2_914d37e8:
 
     # ch_Name "{i}(You've exceeded all my expectations, Sam.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nalampasan mo na ang lahat ng inaasahan ko, Sam.){/i}"
 
 # game/logic/events/samantha.rpy:698
 translate philippine samantha_events_4_label_2_15fff55a:
 
     # ch_Name "{i}(It's so hard to take your eyes off them.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Napakahirap alisin ng tingin mo sa kanila.){/i}"
 
 # game/logic/events/samantha.rpy:699
 translate philippine samantha_events_4_label_2_4f2a4bb9:
 
     # ch_Name "{i}(Especially when you're dressed like that...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Lalo na kapag ganyan ang suot mo...){/i}"
 
 # game/logic/events/samantha.rpy:700
 translate philippine samantha_events_4_label_2_faa1d333:
 
     # ch_Name "{i}(I wonder if the fabric still feels the same?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pareho pa rin ba ang pakiramdam ng tela?){/i}"
 
 # game/logic/events/samantha.rpy:702
 translate philippine samantha_events_4_label_2_264f0e45:
 
     # ch_Name "{i}(I just have to try it...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kailangan kong subukan...){/i}"
 
 # game/logic/events/samantha.rpy:704
 translate philippine samantha_events_4_label_2_1b854e6e:
 
     # ch_Name "{i}(Oh, yes...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ay, oo...){/i}"
 
 # game/logic/events/samantha.rpy:705
 translate philippine samantha_events_4_label_2_c4ced739:
 
     # ch_Name "{i}(It's the best feeling I've ever had...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ito ang pinakamagandang pakiramdam na naranasan ko...){/i}"
 
 # game/logic/events/samantha.rpy:706
 translate philippine samantha_events_4_label_2_1d8d5528:
 
     # ch_Name "{i}(The fabric of your bra is so soft and tender...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Napakalambot ng tela ng iyong bra...){/i}"
 
 # game/logic/events/samantha.rpy:708
 translate philippine samantha_events_4_label_2_813f2c8c:
 
     # ch_Name "{i}(And your breasts...){/i}"
-    ch_Name ""
+    ch_Name "{i}(At ang iyong mga suso...){/i}"
 
 # game/logic/events/samantha.rpy:709
 translate philippine samantha_events_4_label_2_1c2fa9a1:
 
     # ch_Name "{i}(You're driving me crazy...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Binabaliw mo ako...){/i}"
 
 # game/logic/events/samantha.rpy:710
 translate philippine samantha_events_4_label_2_44e53a41:
 
     # ch_Name "{i}(Between the softness and firmness of your breasts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sa pagitan ng lambot at katigasan ng iyong mga suso...){/i}"
 
 # game/logic/events/samantha.rpy:711
 translate philippine samantha_events_4_label_2_4025186b:
@@ -1762,55 +1762,55 @@ translate philippine samantha_events_4_label_2_4025186b:
 translate philippine samantha_events_4_label_2_7581546e:
 
     # ch_Name "{i}(I have to stop before she woke up!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kailangan kong huminto bago siya magising!){/i}"
 
 # game/logic/events/samantha.rpy:714
 translate philippine samantha_events_4_label_2_e8c3ef74:
 
     # ch_Name "{i}(Shit, I think it's better to run away.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bwisit, sa tingin ko mas mabuting tumakas.){/i}"
 
 # game/logic/events/samantha.rpy:715
 translate philippine samantha_events_4_label_2_812d51d1:
 
     # ch_Name "{i}(And get some sleep.){/i}"
-    ch_Name ""
+    ch_Name "{i}(At matulog na ako.){/i}"
 
 # game/logic/events/samantha.rpy:727
 translate philippine samantha_events_4_label_3_4ba616a1:
 
     # ch_Name "{i}(Samantha always looks so peaceful in her sleep.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mukhang napakapayapa ni Samantha sa kanyang pagtulog.){/i}"
 
 # game/logic/events/samantha.rpy:728
 translate philippine samantha_events_4_label_3_54402612:
 
     # ch_Name "{i}(Let's take a closer look at you.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Titingnan kita nang mas malapit.){/i}"
 
 # game/logic/events/samantha.rpy:730
 translate philippine samantha_events_4_label_3_95bb1ad7:
 
     # ch_Name "{i}(Sleeping beauty...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Magandang natutulog...){/i}"
 
 # game/logic/events/samantha.rpy:731
 translate philippine samantha_events_4_label_3_1d59502e:
 
     # ch_Name "{i}(I could have looked at you all night...){/i}"
-    ch_Name ""
+    ch_Nam "{i}(Kaya kitang tingnan nang buong gabi...){/i}"
 
 # game/logic/events/samantha.rpy:732
 translate philippine samantha_events_4_label_3_4c464436:
 
     # ch_Name "{i}(Still hiding from me under the blanket, Samantha?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nagtatago ka ba sa akin sa ilalim ng kumot, Samantha?){/i}"
 
 # game/logic/events/samantha.rpy:734
 translate philippine samantha_events_4_label_3_45b010da:
 
     # ch_Name "{i}(Let's take that off...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tanggalin na natin 'yan...){/i}"
 
 # game/logic/events/samantha.rpy:735
 translate philippine samantha_events_4_label_3_ab189795:
@@ -1822,115 +1822,115 @@ translate philippine samantha_events_4_label_3_ab189795:
 translate philippine samantha_events_4_label_3_56f92b12:
 
     # ch_Name "{i}(What a beauty...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ang ganda...){/i}"
 
 # game/logic/events/samantha.rpy:738
 translate philippine samantha_events_4_label_3_a055e888:
 
     # ch_Name "{i}(I've never thought you'd be that sexy, Sam...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi ko inakala na ganito ka kaganda, Sam...){/i}"
 
 # game/logic/events/samantha.rpy:740
 translate philippine samantha_events_4_label_3_25edd9f3:
 
     # ch_Name "{i}(This time, I'll be more cautious.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ngayon magiging mas maingat ako.){/i}"
 
 # game/logic/events/samantha.rpy:741
 translate philippine samantha_events_4_label_3_036ec1b9:
 
     # ch_Name "{i}(Oh, yes.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ay, oo.){/i}"
 
 # game/logic/events/samantha.rpy:742
 translate philippine samantha_events_4_label_3_8a199824:
 
     # ch_Name "{i}(Now I see all the best parts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ngayon nakikita ko ang lahat ng pinakamagandang bahagi.){/i}"
 
 # game/logic/events/samantha.rpy:743
 translate philippine samantha_events_4_label_3_739a1ff4:
 
     # ch_Name "{i}(To be honest...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sa katotohanan...){/i}"
 
 # game/logic/events/samantha.rpy:745
 translate philippine samantha_events_4_label_3_914d37e8:
 
     # ch_Name "{i}(You've exceeded all my expectations, Sam.){/i}"
-    ch_Name ""
+    ch_Name  "{i}(Nalampasan mo na ang lahat ng inaasahan ko, Sam.){/i}"
 
 # game/logic/events/samantha.rpy:746
 translate philippine samantha_events_4_label_3_370de842:
 
     # ch_Name "{i}(Sometimes you're even too gorgeous...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Minsan, sumusobra ang ganda mo...){/i}"
 
 # game/logic/events/samantha.rpy:747
 translate philippine samantha_events_4_label_3_47156fa9:
 
     # ch_Name "{i}(I wonder what you're wearing underneath today...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ano ang suot mo sa ilalim ngayon...){/i}"
 
 # game/logic/events/samantha.rpy:749
 translate philippine samantha_events_4_label_3_e1c2dc65:
 
     # ch_Name "{i}(Oh, Samantha... Let me see your temple.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, Samantha... Tingnan ko ang iyong templo.){/i}"
 
 # game/logic/events/samantha.rpy:750
 translate philippine samantha_events_4_label_3_830604ee:
 
     # ch_Name "{i}(What could be more beautiful?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ano kaya ang mas maganda?){/i}"
 
 # game/logic/events/samantha.rpy:752
 translate philippine samantha_events_4_label_3_7d9b6623:
 
     # ch_Name "{i}(Let's lift that skirt...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Itaas natin ang palda...){/i}"
 
 # game/logic/events/samantha.rpy:754
 translate philippine samantha_events_4_label_3_f021783d:
 
     # ch_Name "{i}(That's much better.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas maganda iyon.){/i}"
 
 # game/logic/events/samantha.rpy:755
 translate philippine samantha_events_4_label_3_97c4f57c:
 
     # ch_Name "{i}(What a nice view I have!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ang ganda ng tanawin ko!){/i}"
 
 # game/logic/events/samantha.rpy:756
 translate philippine samantha_events_4_label_3_0c2e2813:
 
     # ch_Name "{i}(I wonder if you're ready for some rubbing...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Handa ka na ba sa paghipo ko...){/i}"
 
 # game/logic/events/samantha.rpy:758
 translate philippine samantha_events_4_label_3_a1d7a4e7:
 
     # ch_Name "{i}(Just one gentle touch...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Marahang na paghawak lang...){/i}"
 
 # game/logic/events/samantha.rpy:759
 translate philippine samantha_events_4_label_3_5d256338:
 
     # ch_Name "{i}(I have contact.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Heto na.){/i}"
 
 # game/logic/events/samantha.rpy:760
 translate philippine samantha_events_4_label_3_e0165d32:
 
     # ch_Name "{i}(I can feel your whole body tense...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nararamdaman kong naninigas ang buong katawan mo...){/i}"
 
 # game/logic/events/samantha.rpy:761
 translate philippine samantha_events_4_label_3_bb9c6b27:
 
     # ch_Name "{i}(I bet you haven't felt man's touch for a while...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sigurado akong matagal ka nang hindi nakakaramdam ng yakap ng lalaki...){/i}"
 
 # game/logic/events/samantha.rpy:762
 translate philippine samantha_events_4_label_3_4025186b:
@@ -1942,55 +1942,55 @@ translate philippine samantha_events_4_label_3_4025186b:
 translate philippine samantha_events_4_label_3_7581546e:
 
     # ch_Name "{i}(I have to stop before she woke up!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kailangan kong huminto bago siya magising!){/i}"
 
 # game/logic/events/samantha.rpy:765
 translate philippine samantha_events_4_label_3_e8c3ef74:
 
     # ch_Name "{i}(Shit, I think it's better to run away.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bwisit, sa tingin ko mas mabuting tumakas.){/i}"
 
 # game/logic/events/samantha.rpy:766
 translate philippine samantha_events_4_label_3_812d51d1:
 
     # ch_Name "{i}(And get some sleep.){/i}"
-    ch_Name ""
+    ch_Name "{i}(At matulog na ako.){/i}"
 
 # game/logic/events/samantha.rpy:777
 translate philippine samantha_events_4_label_4_4ba616a1:
 
     # ch_Name "{i}(Samantha always looks so peaceful in her sleep.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mukhang napakapayapa ni Samantha sa kanyang pagtulog.){/i}"
 
 # game/logic/events/samantha.rpy:778
 translate philippine samantha_events_4_label_4_54402612:
 
     # ch_Name "{i}(Let's take a closer look at you.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Titingnan kita nang mas malapit.){/i}"
 
 # game/logic/events/samantha.rpy:780
 translate philippine samantha_events_4_label_4_95bb1ad7:
 
     # ch_Name "{i}(Sleeping beauty...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Magandang natutulog...){/i}"
 
 # game/logic/events/samantha.rpy:781
 translate philippine samantha_events_4_label_4_1d59502e:
 
     # ch_Name "{i}(I could have looked at you all night...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kaya kitang tingnan nang buong gabi...){/i}"
 
 # game/logic/events/samantha.rpy:782
 translate philippine samantha_events_4_label_4_4c464436:
 
     # ch_Name "{i}(Still hiding from me under the blanket, Samantha?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nagtatago ka ba sa akin sa ilalim ng kumot, Samantha?){/i}"
 
 # game/logic/events/samantha.rpy:784
 translate philippine samantha_events_4_label_4_45b010da:
 
     # ch_Name "{i}(Let's take that off...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tanggalin na natin 'yan...){/i}"
 
 # game/logic/events/samantha.rpy:785
 translate philippine samantha_events_4_label_4_ab189795:
@@ -2002,169 +2002,169 @@ translate philippine samantha_events_4_label_4_ab189795:
 translate philippine samantha_events_4_label_4_56f92b12:
 
     # ch_Name "{i}(What a beauty...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ang ganda...){/i}"
 
 # game/logic/events/samantha.rpy:788
 translate philippine samantha_events_4_label_4_a055e888:
 
     # ch_Name "{i}(I've never thought you'd be that sexy, Sam...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi ko inakala na ganito ka kaganda, Sam...){/i}"
 
 # game/logic/events/samantha.rpy:790
 translate philippine samantha_events_4_label_4_25edd9f3:
 
     # ch_Name "{i}(This time, I'll be more cautious.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ngayon magiging mas maingat ako.){/i}"
 
 # game/logic/events/samantha.rpy:791
 translate philippine samantha_events_4_label_4_036ec1b9:
 
     # ch_Name "{i}(Oh, yes.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ay, oo.){/i}"
 
 # game/logic/events/samantha.rpy:792
 translate philippine samantha_events_4_label_4_8a199824:
 
     # ch_Name "{i}(Now I see all the best parts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ngayon nakikita ko ang lahat ng pinakamagandang bahagi.){/i}"
 
 # game/logic/events/samantha.rpy:793
 translate philippine samantha_events_4_label_4_739a1ff4:
 
     # ch_Name "{i}(To be honest...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sa katotohanan...){/i}"
 
 # game/logic/events/samantha.rpy:795
 translate philippine samantha_events_4_label_4_914d37e8:
 
     # ch_Name "{i}(You've exceeded all my expectations, Sam.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nalampasan mo na ang lahat ng inaasahan ko, Sam.){/i}"
 
 # game/logic/events/samantha.rpy:796
 translate philippine samantha_events_4_label_4_15fff55a:
 
     # ch_Name "{i}(It's so hard to take your eyes off them.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Napakahirap alisin ng tingin mo sa kanila.){/i}"
 
 # game/logic/events/samantha.rpy:797
 translate philippine samantha_events_4_label_4_4f2a4bb9:
 
     # ch_Name "{i}(Especially when you're dressed like that...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Lalo na kapag ganyan ang suot mo...){/i}"
 
 # game/logic/events/samantha.rpy:798
 translate philippine samantha_events_4_label_4_faa1d333:
 
     # ch_Name "{i}(I wonder if the fabric still feels the same?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pareho pa rin ba ang pakiramdam ng tela?){/i}"
 
 # game/logic/events/samantha.rpy:800
 translate philippine samantha_events_4_label_4_71962553:
 
     # ch_Name "{i}(I just have to try it once again...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kailangan kong subukan ulit...){/i}"
 
 # game/logic/events/samantha.rpy:802
 translate philippine samantha_events_4_label_4_754711c6:
 
     # ch_Name "{i}(Oh yes...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ay, oo...){/i}"
 
 # game/logic/events/samantha.rpy:803
 translate philippine samantha_events_4_label_4_c4ced739:
 
     # ch_Name "{i}(It's the best feeling I've ever had...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ito ang pinakamagandang pakiramdam na naranasan ko...){/i}"
 
 # game/logic/events/samantha.rpy:804
 translate philippine samantha_events_4_label_4_1d8d5528:
 
     # ch_Name "{i}(The fabric of your bra is so soft and tender...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Napakalambot ng tela ng iyong bra...){/i}"
 
 # game/logic/events/samantha.rpy:806
 translate philippine samantha_events_4_label_4_813f2c8c:
 
     # ch_Name "{i}(And your breasts...){/i}"
-    ch_Name ""
+    ch_Name "{i}(At ang iyong mga suso...){/i}"
 
 # game/logic/events/samantha.rpy:807
 translate philippine samantha_events_4_label_4_1c2fa9a1:
 
     # ch_Name "{i}(You're driving me crazy...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Binabaliw mo ako...){/i}"
 
 # game/logic/events/samantha.rpy:809
 translate philippine samantha_events_4_label_4_d833f15e:
 
     # ch_Name "{i}(Alright. I should stop for now.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sige. Titigil muna ako.){/i}"
 
 # game/logic/events/samantha.rpy:810
 translate philippine samantha_events_4_label_4_e0a7b2b1:
 
     # ch_Name "{i}(And pay some attention to other honey spots...){/i}"
-    ch_Name ""
+    ch_Name "{i}(At bigyang pansin ang iba pang bahagi ng katawan niya...){/i}"
 
 # game/logic/events/samantha.rpy:812
 translate philippine samantha_events_4_label_4_e1c2dc65:
 
     # ch_Name "{i}(Oh, Samantha... Let me see your temple.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, Samantha... Tingnan ko ang iyong templo.){/i}"
 
 # game/logic/events/samantha.rpy:813
 translate philippine samantha_events_4_label_4_830604ee:
 
     # ch_Name "{i}(What could be more beautiful?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ano kaya ang mas maganda?){/i}"
 
 # game/logic/events/samantha.rpy:815
 translate philippine samantha_events_4_label_4_7d9b6623:
 
     # ch_Name "{i}(Let's lift that skirt...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Itaas natin ang palda...){/i}"
 
 # game/logic/events/samantha.rpy:816
 translate philippine samantha_events_4_label_4_f021783d:
 
     # ch_Name "{i}(That's much better.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas maganda iyon.){/i}"
 
 # game/logic/events/samantha.rpy:817
 translate philippine samantha_events_4_label_4_97c4f57c:
 
     # ch_Name "{i}(What a nice view I have!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ang ganda ng tanawin ko!){/i}"
 
 # game/logic/events/samantha.rpy:818
 translate philippine samantha_events_4_label_4_0c2e2813:
 
     # ch_Name "{i}(I wonder if you're ready for some rubbing...){/i}"
-    ch_Name ""
+    ch_Name {i}(Handa ka na ba sa paghipo ko...){/i}"
 
 # game/logic/events/samantha.rpy:820
 translate philippine samantha_events_4_label_4_a1d7a4e7:
 
     # ch_Name "{i}(Just one gentle touch...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Marahang na paghawak lang...){/i}"
 
 # game/logic/events/samantha.rpy:821
 translate philippine samantha_events_4_label_4_5d256338:
 
     # ch_Name "{i}(I have contact.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Heto na.){/i}"
 
 # game/logic/events/samantha.rpy:822
 translate philippine samantha_events_4_label_4_e0165d32:
 
     # ch_Name "{i}(I can feel your whole body tense...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nararamdaman kong naninigas ang buong katawan mo...){/i}"
 
 # game/logic/events/samantha.rpy:823
 translate philippine samantha_events_4_label_4_bb9c6b27:
 
     # ch_Name "{i}(I bet you haven't felt man's touch for a while...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sigurado akong matagal ka nang hindi nakakaramdam ng yakap ng lalaki...){/i}"
 
 # game/logic/events/samantha.rpy:824
 translate philippine samantha_events_4_label_4_4025186b:
@@ -2176,31 +2176,31 @@ translate philippine samantha_events_4_label_4_4025186b:
 translate philippine samantha_events_4_label_4_7ef94094:
 
     # ch_Name "{i}(Do you like it?!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Gusto mo ba?!){/i}"
 
 # game/logic/events/samantha.rpy:827
 translate philippine samantha_events_4_label_4_c197a5ba:
 
     # ch_Name "{i}(Let's make it even better...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pagandahin pa natin...){/i}"
 
 # game/logic/events/samantha.rpy:828
 translate philippine samantha_events_4_label_4_8f2a0eef:
 
     # ch_Name "{i}(You don't really need those panties right now...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi mo naman kailangan ang panloob na 'yan ngayon...){/i}"
 
 # game/logic/events/samantha.rpy:829
 translate philippine samantha_events_4_label_4_db3e13b4:
 
     # ch_Name "{i}(I hope you're having a spicy dream.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sana masaya ang panaginip mo.){/i}"
 
 # game/logic/events/samantha.rpy:830
 translate philippine samantha_events_4_label_4_17f620b6:
 
     # ch_Name "{i}(Let's take them off...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tanggalin natin ito...){/i}"
 
 # game/logic/events/samantha.rpy:832
 translate philippine samantha_events_4_label_4_cee6277a:
@@ -2212,247 +2212,247 @@ translate philippine samantha_events_4_label_4_cee6277a:
 translate philippine samantha_events_4_label_4_3c4e3762:
 
     # ch_Name "{i}(Damn, I think she might wake up...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bwisit, magigising na siya...){/i}"
 
 # game/logic/events/samantha.rpy:834
 translate philippine samantha_events_4_label_4_03d6a422:
 
     # ch_Name "{i}(Better get out of here.){/i}"
-    ch_Name ""
+    ch_Name  "{i}(Mas mabuting umalis na ako.){/i}"
 
 # game/logic/events/samantha.rpy:841
 translate philippine Samantha_6_label_30e9a867:
 
     # Samantha "...And then she added gnoll blood instead of gnoll saliva."
-    Samantha ""
+    Samantha "...At nagdagdag siya ng dugo ng gnoll sa halip ng laway ng gnoll."
 
 # game/logic/events/samantha.rpy:842
 translate philippine Samantha_6_label_d1ca1ae0:
 
     # Samantha "Everything in that class was covered in pink stinky goo."
-    Samantha ""
+    Samantha "Natamaan ang lahat sa klase ng mabahong putik."
 
 # game/logic/events/samantha.rpy:844
 translate philippine Samantha_6_label_cfb3e361:
 
     # Samantha "Sabrina was furious..."
-    Samantha ""
+    Samantha "Galit na galit si Sabrina..."
 
 # game/logic/events/samantha.rpy:845
 translate philippine Samantha_6_label_64aaff8f:
 
     # Samantha "That's pretty much everything interesting that happened to me lately."
-    Samantha ""
+    Samantha "Iyon ay halos lahat ng kawili-wiling nangyari sa akin."
 
 # game/logic/events/samantha.rpy:846
 translate philippine Samantha_6_label_d842b5cb:
 
     # Samantha "How was your day?{w} You know, before saving my life."
-    Samantha ""
+    Samantha "Kamusta ang araw mo?{with} Alam mo, bago mo naligtas ang buhay ko."
 
 # game/logic/events/samantha.rpy:848
 translate philippine Samantha_6_label_c0445287:
 
     # ch_Name "{i}(Oh, that's why she's been telling me all of this?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, kaya pala niya sinasabi sa akin ang lahat ng ito?){/i}"
 
 # game/logic/events/samantha.rpy:849
 translate philippine Samantha_6_label_3ef1e052:
 
     # ch_Name "{i}(At what point I've made the mistake of asking how was her day?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sa anong punto ako nagkamali sa pagtatanong kung kumusta ang araw niya?){/i}"
 
 # game/logic/events/samantha.rpy:850
 translate philippine Samantha_6_label_ce7e969d:
 
     # ch_Name "It doesn't really matter, Sam. We have more important things to talk about."
-    ch_Name ""
+    ch_Name "Hindi ito mahalaga, Sam. May mas importante pa tayong pag-uusapan."
 
 # game/logic/events/samantha.rpy:852
 translate philippine Samantha_6_label_ffc62c1a:
 
     # Samantha "What's the matter?"
-    Samantha ""
+    Samantha "Ano ang problema?"
 
 # game/logic/events/samantha.rpy:853
 translate philippine Samantha_6_label_d8d9bbb6:
 
     # ch_Name "It's about your problem."
-    ch_Name ""
+    ch_Name "Tungkol sa problema mo."
 
 # game/logic/events/samantha.rpy:854
 translate philippine Samantha_6_label_7e7ca517:
 
     # ch_Name "The compress I gave you can cure ruptured ligaments."
-    ch_Name ""
+    ch_Name "Ang binigay ko sa iyo ay nakakapagpagaling ng nasirang litid."
 
 # game/logic/events/samantha.rpy:855
 translate philippine Samantha_6_label_915c3cf1:
 
     # ch_Name "But the rupture was caused by something..."
-    ch_Name ""
+    ch_Name "Ngunit ang pagkasira ay may sanhi..."
 
 # game/logic/events/samantha.rpy:857
 translate philippine Samantha_6_label_e9ed8e63:
 
     # Samantha "What are you talking about?"
-    Samantha ""
+    Samantha "Anong pinagsasabi mo?"
 
 # game/logic/events/samantha.rpy:858
 translate philippine Samantha_6_label_5b37f7b2:
 
     # Samantha "Is there something wrong with me?"
-    Samantha ""
+    Samantha "May mali ba sa akin?"
 
 # game/logic/events/samantha.rpy:859
 translate philippine Samantha_6_label_ab54e313:
 
     # ch_Name "Not with you."
-    ch_Name ""
+    ch_Name "Hindi sa iyo."
 
 # game/logic/events/samantha.rpy:861
 translate philippine Samantha_6_label_2236f78d:
 
     # ch_Name "Frollo said, that stirring different magical energy can be the problem."
-    ch_Name ""
+    ch_Name "Sinabi ni Frollo, ang pagpapakilos ng iba't ibang mahika ay maaaring maging problema."
 
 # game/logic/events/samantha.rpy:862
 translate philippine Samantha_6_label_f840e045:
 
     # ch_Name "As if some other creature somehow affects your magic."
-    ch_Name ""
+    ch_Name "Na parang may ibang nilalang na nakakaapekto sa magic mo."
 
 # game/logic/events/samantha.rpy:866
 translate philippine Samantha_6_label_7dc2a31c:
 
     # ch_Name "{i}(This is it! The look on her face...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ito na! Ang mukha niya...){/i}"
 
 # game/logic/events/samantha.rpy:867
 translate philippine Samantha_6_label_6fcb3059:
 
     # ch_Name "{i}(She's hiding something.){/i}"
-    ch_Name ""
+    ch_Name "{i}(May tinatago siya.){/i}"
 
 # game/logic/events/samantha.rpy:868
 translate philippine Samantha_6_label_83f56789:
 
     # ch_Name "{i}(But I have to be gentle...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ngunit kailangan kong magiging marahan...){/i}"
 
 # game/logic/events/samantha.rpy:869
 translate philippine Samantha_6_label_838933ef:
 
     # ch_Name "Nothing comes to your mind?"
-    ch_Name ""
+    ch_Name "Walang pumapasok sa isip mo?"
 
 # game/logic/events/samantha.rpy:871
 translate philippine Samantha_6_label_d899ee0f:
 
     # Samantha "Not really."
-    Samantha ""
+    Samantha "Wala naman."
 
 # game/logic/events/samantha.rpy:872
 translate philippine Samantha_6_label_1107bbbf:
 
     # Samantha "It all sounds so strange."
-    Samantha ""
+    Samantha "Parang kakaiba ang lahat."
 
 # game/logic/events/samantha.rpy:873
 translate philippine Samantha_6_label_37245932:
 
     # Samantha "Is he sure?"
-    Samantha ""
+    Samantha "Sigurado ba siya?"
 
 # game/logic/events/samantha.rpy:875
 translate philippine Samantha_6_label_e26f2f97:
 
     # ch_Name "He sounded like he was sure. "
-    ch_Name ""
+    ch_Name "Mukhang sigurado siya."
 
 # game/logic/events/samantha.rpy:876
 translate philippine Samantha_6_label_41d863f4:
 
     # ch_Name "He would not lie to me. We made a deal."
-    ch_Name ""
+    ch_Name "Hindi siya magsisinungaling sa akin. May kasunduan kami."
 
 # game/logic/events/samantha.rpy:877
 translate philippine Samantha_6_label_2801f5b6:
 
     # Samantha "What kind of deal, [Name]? That sounds dangerous."
-    Samantha ""
+    Samantha "Anong klaseng kasunduan, [Name]? Mukhang delikado iyon."
 
 # game/logic/events/samantha.rpy:879
 translate philippine Samantha_6_label_d461231d:
 
     # ch_Name "Do not switch the subject, Sam."
-    ch_Name ""
+    ch_Name "Huwag mong ibahin ang usapan, Sam."
 
 # game/logic/events/samantha.rpy:880
 translate philippine Samantha_6_label_d0f61e9f:
 
     # ch_Name "Do you understand how important this is?"
-    ch_Name ""
+    ch_Name "Naiintindihan mo ba kung gaano kahalaga ito?"
 
 # game/logic/events/samantha.rpy:882
 translate philippine Samantha_6_label_50555328:
 
     # Samantha "I do!{w} I really do..."
-    Samantha ""
+    Samantha "Oo!{w} Oo naman..."
 
 # game/logic/events/samantha.rpy:883
 translate philippine Samantha_6_label_ece51db3:
 
     # Samantha "But it's not that simple."
-    Samantha ""
+    Samantha "Ngunit hindi ganoon kasimple."
 
 # game/logic/events/samantha.rpy:884
 translate philippine Samantha_6_label_fcf76165:
 
     # Samantha "I'm afraid I don't know what's he talking about."
-    Samantha ""
+    Samantha "Hindi ko alam kung ano ang sinasabi niya."
 
 # game/logic/events/samantha.rpy:886
 translate philippine Samantha_6_label_36e87331:
 
     # ch_Name "Don't play fool with me, Sam!"
-    ch_Name ""
+    ch_Name "'Wag mo akong paglaruan Sam!"
 
 # game/logic/events/samantha.rpy:887
 translate philippine Samantha_6_label_0c8cc1d3:
 
     # ch_Name "Maybe I'm not the brightest, but It's not that hard to see."
-    ch_Name ""
+    ch_Name "Siguro hindi ako ang pinakamatalino, pero hindi naman ganoon kahirap makita."
 
 # game/logic/events/samantha.rpy:889
 translate philippine Samantha_6_label_7ee9df9e:
 
     # Samantha "Wh...{w} What are you talking about?"
-    Samantha ""
+    Samantha "A...{w} Ano ang sinasabi mo?"
 
 # game/logic/events/samantha.rpy:890
 translate philippine Samantha_6_label_10a0b1dd:
 
     # ch_Name "Come on! You spend all your time with one person..."
-    ch_Name ""
+    ch_Name "Sige na! Ginugugol mo ang lahat ng iyong oras sa isang tao..."
 
 # game/logic/events/samantha.rpy:891
 translate philippine Samantha_6_label_47f441df:
 
     # Samantha "Please, [Name], I don't want to talk about this."
-    Samantha ""
+    Samantha "Pakiusap, [Name], ayaw kong pag-usapan ito."
 
 # game/logic/events/samantha.rpy:892
 translate philippine Samantha_6_label_0e717334:
 
     # ch_Name "About what?"
-    ch_Name ""
+    ch_Name "Ang ano?"
 
 # game/logic/events/samantha.rpy:893
 translate philippine Samantha_6_label_2be06dec:
 
     # ch_Name "About the fact, that Audrey is..."
-    ch_Name ""
+    ch_Name "Tungkol sa katunayan,na si Audrey ay..."
 
 # game/logic/events/samantha.rpy:895
 translate philippine Samantha_6_label_906eac9b:
@@ -2464,43 +2464,43 @@ translate philippine Samantha_6_label_906eac9b:
 translate philippine Samantha_6_label_d90b87e8:
 
     # Samantha "NOT HERE!"
-    Samantha ""
+    Samantha "HINDI DITO!"
 
 # game/logic/events/samantha.rpy:897
 translate philippine Samantha_6_label_111e1baf:
 
     # Samantha "Nobody can know!"
-    Samantha ""
+    Samantha "Walang makakaalam!"
 
 # game/logic/events/samantha.rpy:898
 translate philippine Samantha_6_label_61636eb7:
 
     # ch_Name "{i}(Wow... I was going to say \"somehow involved in this\".){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wow... sasabihin ko sana na \"kahit paano kasali dito\".){/i}"
 
 # game/logic/events/samantha.rpy:899
 translate philippine Samantha_6_label_2f1566b2:
 
     # ch_Name "{i}(But now I know I'm right.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pero ngayon alam kong tama ako.){/i}"
 
 # game/logic/events/samantha.rpy:900
 translate philippine Samantha_6_label_2323991b:
 
     # ch_Name "{i}(If Sam thinks I know already, I'll play along.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kung sa tingin ni Sam alam ko na, magpapanggap ko.){/i}"
 
 # game/logic/events/samantha.rpy:902
 translate philippine Samantha_6_label_9854b594:
 
     # Samantha "Please, [Name], you have to promise me you'll stay silent..."
-    Samantha ""
+    Samantha "Pakiusap, [Name], kailangan mong ipangako sa akin na manahimik ka..."
 
 # game/logic/events/samantha.rpy:903
 translate philippine Samantha_6_label_2e532544:
 
     # Samantha "Do you promise?"
-    Samantha ""
+    Samantha "Pinapangako mo ba?"
 
 # game/logic/events/samantha.rpy:904
 translate philippine Samantha_6_label_73364261:
@@ -2512,157 +2512,157 @@ translate philippine Samantha_6_label_73364261:
 translate philippine Samantha_6_label_1b9a4306:
 
     # Samantha "Nod if you agree."
-    Samantha ""
+    Samantha "Tumango ka kung oo."
 
 # game/logic/events/samantha.rpy:907
 translate philippine Samantha_6_label_2db6a3fe:
 
     # Samantha "Good boy."
-    Samantha ""
+    Samantha "Mabuting bata."
 
 # game/logic/events/samantha.rpy:908
 translate philippine Samantha_6_label_610e1fa1:
 
     # Samantha "Now I let you go."
-    Samantha ""
+    Samantha "Ngayon ip na kita."
 
 # game/logic/events/samantha.rpy:910
 translate philippine Samantha_6_label_4ea51c94:
 
     # ch_Name "I promised to Victoria that your problem won't happen again."
-    ch_Name ""
+    ch_Name “Nangako ako kay Victoria na hindi na mauulit ang problema mo."
 
 # game/logic/events/samantha.rpy:911
 translate philippine Samantha_6_label_b3e3da42:
 
     # ch_Name "How can I be sure I keep my word if you're not willing to cooperate?"
-    ch_Name ""
+    ch_Name "Paano ako tutuparin ang sinabi ko kung ayaw mong makipagtulungan?"
 
 # game/logic/events/samantha.rpy:913
 translate philippine Samantha_6_label_aac19350:
 
     # ch_Name "Guess I should tell Victoria all that I know, so she can handle this..."
-    ch_Name ""
+    ch_Name "Siguro dapat kong sabihin kay Victoria ang lahat ng alam ko, para siya na bahala..."
 
 # game/logic/events/samantha.rpy:914
 translate philippine Samantha_6_label_a89c1d36:
 
     # Samantha "No! You can't do that! "
-    Samantha ""
+    Samantha "Hindi! Hindi mo magagawa iyon!"
 
 # game/logic/events/samantha.rpy:916
 translate philippine Samantha_6_label_5c9cfe50:
 
     # Samantha "They'll kill Audrey!"
-    Samantha ""
+    Samantha "Papatayin nila si Audrey!"
 
 # game/logic/events/samantha.rpy:917
 translate philippine Samantha_6_label_8cfd867d:
 
     # ch_Name "{i}(What the fuck? What exactly is happening here?!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ano? Ano ba talaga ang nangyayari dito?!){/i}"
 
 # game/logic/events/samantha.rpy:919
 translate philippine Samantha_6_label_d6440323:
 
     # Samantha "[Name], dear [Name], please, you can't..."
-    Samantha ""
+    Samantha "[Name], mahal kong [Name], pakiusap, hindi mo magagawa ito..."
 
 # game/logic/events/samantha.rpy:920
 translate philippine Samantha_6_label_62ec360e:
 
     # ch_Name "{i}(Maybe I'll regret this, but it's not like I have a lot to tell Victoria about anyway...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Siguro pagsisisihan ko ito, pero hindi naman siguro marami ang masasabi ko kay Victoria...){/i}"
 
 # game/logic/events/samantha.rpy:922
 translate philippine Samantha_6_label_307ba90b:
 
     # ch_Name "Allright..."
-    ch_Name ""
+    ch_Name "Sige..."
 
 # game/logic/events/samantha.rpy:923
 translate philippine Samantha_6_label_586a4cc2:
 
     # ch_Name "But you have to tell me everything In details."
-    ch_Name ""
+    ch_Name "Ngunit kailangan mong sabihin sa akin ang lahat nang detalyado."
 
 # game/logic/events/samantha.rpy:924
 translate philippine Samantha_6_label_a065326f:
 
     # ch_Name "Otherwise I won't be able to help you."
-    ch_Name ""
+    ch_Name "Kung hindi, hindi kita matutulungan."
 
 # game/logic/events/samantha.rpy:926
 translate philippine Samantha_6_label_8422f383:
 
     # Samantha "You're right. "
-    Samantha ""
+    Samantha "Tama ka."
 
 # game/logic/events/samantha.rpy:927
 translate philippine Samantha_6_label_ce33c4c6:
 
     # Samantha "I promise, I will."
-    Samantha ""
+    Samantha "Pangako, gagawin ko iyon."
 
 # game/logic/events/samantha.rpy:929
 translate philippine Samantha_6_label_5a2c61a2:
 
     # Samantha "But right now I have to get to class. Audrey is waiting..."
-    Samantha ""
+    Samantha "Pero sa ngayon kailangan kong pumasok sa klase. naghihintay si Audrey..."
 
 # game/logic/events/samantha.rpy:930
 translate philippine Samantha_6_label_b4326595:
 
     # ch_Name "Then when?"
-    ch_Name ""
+    ch_Name "Kailan kaya?"
 
 # game/logic/events/samantha.rpy:932
 translate philippine Samantha_6_label_19fd5df6:
 
     # Samantha "Let's meet at noon in my room."
-    Samantha ""
+    Samantha "Magkita tayo mamayang tanghali sa kwarto ko."
 
 # game/logic/events/samantha.rpy:933
 translate philippine Samantha_6_label_1e900074:
 
     # Samantha "I'll make sure that no one will disturb us there."
-    Samantha ""
+    Samantha "Sisiguraduhin kong walang mang-iistorbo sa atin doon."
 
 # game/logic/events/samantha.rpy:934
 translate philippine Samantha_6_label_10898524:
 
     # ch_Name "Alright..."
-    ch_Name ""
+    ch_Name "Sige..."
 
 # game/logic/events/samantha.rpy:935
 translate philippine Samantha_6_label_fc326150:
 
     # ch_Name "Cya."
-    ch_Name ""
+    ch_Name "Magkita tayo."
 
 # game/logic/events/samantha.rpy:938
 translate philippine Samantha_6_label_4da54076:
 
     # ch_Name "{i}(Well, I'm happy that Samantha's problem is solved.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Natutuwa akong nalutas na ang problema ni Samantha.){/i}"
 
 # game/logic/events/samantha.rpy:939
 translate philippine Samantha_6_label_613dd731:
 
     # ch_Name "{i}(But I have to hurry up if I want to make it in time for Sabrina's lesson.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pero kailangan kong magmadali kung gusto kong makarating sa klase ni Sabrina.){/i}"
 
 # game/logic/events/samantha.rpy:944
 translate philippine Samantha_7_label_4f7e3d5b:
 
     # ch_Name "Hi, girls!"
-    ch_Name ""
+    ch_Name "Kamusta!"
 
 # game/logic/events/samantha.rpy:945
 translate philippine Samantha_7_label_63875a07:
 
     # Samantha "Hi there. [Name]!"
-    Samantha ""
+    Samantha "Kamusta. [Name]!"
 
 # game/logic/events/samantha.rpy:946
 translate philippine Samantha_7_label_5d9f1d18:
@@ -2674,547 +2674,547 @@ translate philippine Samantha_7_label_5d9f1d18:
 translate philippine Samantha_7_label_1888f750:
 
     # ch_Name "{i}(And these two are together as always...){/i}"
-    ch_Name ""
+    ch_Name "{i}(At magkasama ang dalawa gaya ng dati...){/i}"
 
 # game/logic/events/samantha.rpy:949
 translate philippine Samantha_7_label_2f55a2f5:
 
     # ch_Name "Sam, you promised we could talk tonight."
-    ch_Name ""
+    ch_Name "Sam, nangako ka na mag-uusap tayo mamayang gabi."
 
 # game/logic/events/samantha.rpy:950
 translate philippine Samantha_7_label_aba88f2d:
 
     # ch_Name "Alone."
-    ch_Name ""
+    ch_Name "Tayo lang."
 
 # game/logic/events/samantha.rpy:951
 translate philippine Samantha_7_label_46697044:
 
     # Samantha "Oh yeah...{w} Sure. Um..."
-    Samantha ""
+    Samantha "Ay oo...{w} Sige. Um..."
 
 # game/logic/events/samantha.rpy:953
 translate philippine Samantha_7_label_0f2655c8:
 
     # Samantha "Audrey, can [Name] and I go to our room for a while?"
-    Samantha ""
+    Samantha "Audrey, pwede ba kaming pumunta ni [Name] sa ating silid?"
 
 # game/logic/events/samantha.rpy:954
 translate philippine Samantha_7_label_2c7537f2:
 
     # Audrey "Yeah, sure. Maybe I'll even join you."
-    Audrey ""
+    Audrey "Yeah, sige. Baka samahan pa kita."
 
 # game/logic/events/samantha.rpy:955
 translate philippine Samantha_7_label_d14f128c:
 
     # Audrey "There's nothing to do here anyway."
-    Audrey ""
+    Audrey "Wala namang gagawin dito eh."
 
 # game/logic/events/samantha.rpy:956
 translate philippine Samantha_7_label_788e627c:
 
     # Samantha "Um... It's kind of a private matter."
-    Samantha ""
+    Samantha "Um... Pribadong bagay ito."
 
 # game/logic/events/samantha.rpy:957
 translate philippine Samantha_7_label_b110bb17:
 
     # ch_Name "Yeah, it's about Don. My foster father."
-    ch_Name ""
+    ch_Name “Oo, tungkol ito kay Don. Ang aking ama-amahan."
 
 # game/logic/events/samantha.rpy:958
 translate philippine Samantha_7_label_4a89d7bb:
 
     # ch_Name "And her father."
-    ch_Name ""
+    ch_Name "At ang kanyang ama."
 
 # game/logic/events/samantha.rpy:959
 translate philippine Samantha_7_label_5f390f2a:
 
     # Samantha "Yes."
-    Samantha ""
+    Samantha "Oo."
 
 # game/logic/events/samantha.rpy:961
 translate philippine Samantha_7_label_dfd07645:
 
     # Audrey "Sure, whatever."
-    Audrey ""
+    Audrey "Sige."
 
 # game/logic/events/samantha.rpy:962
 translate philippine Samantha_7_label_dc4d507f:
 
     # Audrey "I'm just gonna go hang out on the phone here, that's all."
-    Audrey ""
+    Audrey "Dito lang ako tatambay."
 
 # game/logic/events/samantha.rpy:964
 translate philippine Samantha_7_label_c7335c46:
 
     # Samantha "Thanks, sweetie."
-    Samantha ""
+    Samantha "Salamat mahal."
 
 # game/logic/events/samantha.rpy:965
 translate philippine Samantha_7_label_af0c2e41:
 
     # Samantha "I'll be right back."
-    Samantha ""
+    Samantha "Babalik ako."
 
 # game/logic/events/samantha.rpy:966
 translate philippine Samantha_7_label_a434bae2:
 
     # Samantha "Come on, [Name]."
-    Samantha ""
+    Samantha "Tara, [Name]."
 
 # game/logic/events/samantha.rpy:968
 translate philippine Samantha_7_label_b0b37bce:
 
     # Samantha "What are you standing there for, get in the bed!"
-    Samantha ""
+    Samantha "Bakit nakatayo ka diyan, humiga ka na!"
 
 # game/logic/events/samantha.rpy:969
 translate philippine Samantha_7_label_a40f6d67:
 
     # ch_Name "{i}(Whoa... Samantha, we're not teenagers anymore.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Whoa... Samantha, hindi na tayo binata.){/i}"
 
 # game/logic/events/samantha.rpy:970
 translate philippine Samantha_7_label_5bd087a0:
 
     # ch_Name "{i}(When you playfully call me to the bed...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kapag pinatugtog mo akong tinawag sa kama...){/i}"
 
 # game/logic/events/samantha.rpy:971
 translate philippine Samantha_7_label_7df46f93:
 
     # ch_Name "{i}(Thoughts popping into my head.){/i}"
-    ch_Name ""
+    ch_Name "{i}(May mga ideyang pumapasok sa aking isipan.){/i}"
 
 # game/logic/events/samantha.rpy:973
 translate philippine Samantha_7_label_998b2e3c:
 
     # Samantha "Earth to [Name]. Over!"
-    Samantha ""
+    Samantha "Earth para kay [Name]. Over!"
 
 # game/logic/events/samantha.rpy:974
 translate philippine Samantha_7_label_538263d2:
 
     # ch_Name "Sorry, I was thinking."
-    ch_Name ""
+    ch_Name "Pasensya, may iniisip ako."
 
 # game/logic/events/samantha.rpy:975
 translate philippine Samantha_7_label_fa6a3d49:
 
     # ch_Name "You've done such a beautiful job of decorating this place."
-    ch_Name ""
+    ch_Name "Ang ganda ng pagdekorasyon mo sa lugar na ito."
 
 # game/logic/events/samantha.rpy:976
 translate philippine Samantha_7_label_bee679d5:
 
     # Samantha "Thank you."
-    Samantha ""
+    Samantha "Salamat."
 
 # game/logic/events/samantha.rpy:978
 translate philippine Samantha_7_label_1823465e:
 
     # Samantha "Let's get down to business."
-    Samantha ""
+    Samantha "Magsimula na tayo."
 
 # game/logic/events/samantha.rpy:979
 translate philippine Samantha_7_label_42567b66:
 
     # Samantha "How much do you know?"
-    Samantha ""
+    Samantha "Ano ang alam mo?"
 
 # game/logic/events/samantha.rpy:980
 translate philippine Samantha_7_label_9cb9cff3:
 
     # ch_Name "Sam, it doesn't work like that. You think I don't watch detective movies?"
-    ch_Name ""
+    ch_Name "Sam, hindi ganyan ang nangyayari. Sa tingin mo hindi ako nanonood ng mga pelikula?"
 
 # game/logic/events/samantha.rpy:982
 translate philippine Samantha_7_label_e9ed8e63:
 
     # Samantha "What are you talking about?"
-    Samantha ""
+    Samantha "Ano ang sinasabi mo?"
 
 # game/logic/events/samantha.rpy:984
 translate philippine Samantha_7_label_4399a59e:
 
     # ch_Name "I'm not gonna tell you what I know, or you're gonna lie to me."
-    ch_Name ""
+    ch_Name "Hindi ko sasabihin sa iyo ang nalalaman ko, o magsisinungaling ka sa akin."
 
 # game/logic/events/samantha.rpy:985
 translate philippine Samantha_7_label_0de24aa4:
 
     # ch_Name "Or you'll be selective with the truth."
-    ch_Name ""
+    ch_Name "O pipili ka sa katotohanan."
 
 # game/logic/events/samantha.rpy:987
 translate philippine Samantha_7_label_cef050e4:
 
     # Samantha "You're a fool."
-    Samantha ""
+    Samantha "Isa kang tanga."
 
 # game/logic/events/samantha.rpy:988
 translate philippine Samantha_7_label_5ea3a9fa:
 
     # Samantha "Did you really think I'm like that?"
-    Samantha ""
+    Samantha "Akala mo ba ganyan talaga ako?"
 
 # game/logic/events/samantha.rpy:989
 translate philippine Samantha_7_label_5a23840a:
 
     # ch_Name "You lied to me before."
-    ch_Name ""
+    ch_Name "Nagsinungaling ka sa akin."
 
 # game/logic/events/samantha.rpy:990
 translate philippine Samantha_7_label_c10fc6b1:
 
     # Samantha "You're right. I'm sorry. I'm just nervous."
-    Samantha ""
+    Samantha "Tama ka. Patawad na. Kinakabahan lang ako."
 
 # game/logic/events/samantha.rpy:991
 translate philippine Samantha_7_label_0e717334:
 
     # ch_Name "About what?"
-    ch_Name ""
+    ch_Name "Tungkol sa?"
 
 # game/logic/events/samantha.rpy:993
 translate philippine Samantha_7_label_19c842b2:
 
     # Samantha "You're both very close to me, [Name]."
-    Samantha ""
+    Samantha "Pareho kayong malapit sa aking puso, [Name]."
 
 # game/logic/events/samantha.rpy:994
 translate philippine Samantha_7_label_d4cba390:
 
     # Samantha "I didn't mean to deceive you, I just didn't tell you everything."
-    Samantha ""
+    Samantha "Hindi ko sinasadya na lokohin ka, hindi ko lang sinabi sa iyo ang lahat."
 
 # game/logic/events/samantha.rpy:995
 translate philippine Samantha_7_label_fa5d9bef:
 
     # ch_Name "Get to the point, Sam."
-    ch_Name ""
+    ch_Name "Sabihin mo na, Sam."
 
 # game/logic/events/samantha.rpy:996
 translate philippine Samantha_7_label_242e7cac:
 
     # ch_Name "I'm not mad at you, so stop making excuses."
-    ch_Name ""
+    ch_Name "Hindi ako galit sa iyo, kaya huwag ka nang magdahilan."
 
 # game/logic/events/samantha.rpy:998
 translate philippine Samantha_7_label_3554d818:
 
     # Samantha "I will. You're right."
-    Samantha ""
+    Samantha "Sige. Tama ka."
 
 # game/logic/events/samantha.rpy:999
 translate philippine Samantha_7_label_6bdbf971:
 
     # Samantha "I wanted it to be quick, and now I'm dragging it out..."
-    Samantha ""
+    Samantha "Nais ko sanang mabilis ito, at ngayon ay ginagawa ko itong mas matagal."
 
 # game/logic/events/samantha.rpy:1000
 translate philippine Samantha_7_label_0dda5d98:
 
     # Samantha "As I'm sure you've probably figured out by now. Audrey is not human."
-    Samantha ""
+    Samantha "Sigurado akong nalaman mo na ngayon. Hindi tao si Audrey."
 
 # game/logic/events/samantha.rpy:1004
 translate philippine Samantha_7_label_c44d3a88:
 
     # ch_Name "{i}(What-what? What did I fuck then? Who?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ano-ano? Ano ang nalaman ko noon? Sino?){/i}"
 
 # game/logic/events/samantha.rpy:1007
 translate philippine Samantha_7_label_c83fff51:
 
     # ch_Name "{i}(What? How would I know that?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ano? Paano ko malalaman iyon?){/i}"
 
 # game/logic/events/samantha.rpy:1010
 translate philippine Samantha_7_label_19d93001:
 
     # ch_Name "{i}(I have to act surprised or she'll know I didn't know.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kailangan kong magtaka para hindi niya malalaman na hindi ko alam.){/i}"
 
 # game/logic/events/samantha.rpy:1011
 translate philippine Samantha_7_label_6026ebda:
 
     # ch_Name "{i}(And I'll never know the truth.){/i}"
-    ch_Name ""
+    ch_Name "{i}(At hindi ko malalaman ang katotohanan.){/i}"
 
 # game/logic/events/samantha.rpy:1013
 translate philippine Samantha_7_label_8ab9d1e6:
 
     # Samantha "Shit, she's not even from our world."
-    Samantha ""
+    Samantha "Puta, hindi siya taga-mundo natin."
 
 # game/logic/events/samantha.rpy:1014
 translate philippine Samantha_7_label_6aa82c79:
 
     # ch_Name "Go on."
-    ch_Name ""
+    ch_Name "Sige."
 
 # game/logic/events/samantha.rpy:1016
 translate philippine Samantha_7_label_7ccdfcc6:
 
     # Samantha "Audrey is a succubus who feeds off the magical powers of living things."
-    Samantha ""
+    Samantha "Si Audrey ay isang succubus na kumakain ng mahikang kapangyarihan ng mga nabubuhay."
 
 # game/logic/events/samantha.rpy:1017
 translate philippine Samantha_7_label_92d1f446:
 
     # Samantha "Mostly mine."
-    Samantha ""
+    Samantha "Karamihan mula sa akin."
 
 # game/logic/events/samantha.rpy:1021
 translate philippine Samantha_7_label_fafc2eb6:
 
     # ch_Name "{i}(So that's what it was...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kaya pala iyon ang nangyari...){/i}"
 
 # game/logic/events/samantha.rpy:1022
 translate philippine Samantha_7_label_72090fd0:
 
     # ch_Name "{i}(That wasn't sex... She was eating me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi iyon pakikipagtalik... Kinakain niya ako.){/i}"
 
 # game/logic/events/samantha.rpy:1023
 translate philippine Samantha_7_label_8f591dcd:
 
     # ch_Name "{i}(That's fucked up...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bastos 'yan...){/i}"
 
 # game/logic/events/samantha.rpy:1025
 translate philippine Samantha_7_label_be4c30cc:
 
     # Samantha "Are you okay?"
-    Samantha ""
+    Samantha "Ayos ka lang ba?"
 
 # game/logic/events/samantha.rpy:1026
 translate philippine Samantha_7_label_6d5be38a:
 
     # ch_Name "Yeah, just listening to you carefully, go on."
-    ch_Name ""
+    ch_Name "Oo, nakikinig lang sayo ng mabuti, sige."
 
 # game/logic/events/samantha.rpy:1029
 translate philippine Samantha_7_label_344efcfe:
 
     # ch_Name "And because of that, you had a ruptured ligament."
-    ch_Name ""
+    ch_Name "At dahil doon, naputol ang litid mo."
 
 # game/logic/events/samantha.rpy:1030
 translate philippine Samantha_7_label_fd074305:
 
     # Samantha "Apparently..."
-    Samantha ""
+    Samantha "Malamang..."
 
 # game/logic/events/samantha.rpy:1031
 translate philippine Samantha_7_label_e1b283de:
 
     # ch_Name "And how long has this been going on?"
-    ch_Name ""
+    ch_Name "At gaano katagal na ito nangyayari?"
 
 # game/logic/events/samantha.rpy:1032
 translate philippine Samantha_7_label_dced8b76:
 
     # ch_Name "Is it voluntary, or are you her slave?"
-    ch_Name ""
+    ch_Name "Boluntaryo ba, o alipin ka niya?"
 
 # game/logic/events/samantha.rpy:1033
 translate philippine Samantha_7_label_4402846f:
 
     # ch_Name "Does anyone else know?"
-    ch_Name ""
+    ch_Name "May iba bang nakaalam?"
 
 # game/logic/events/samantha.rpy:1035
 translate philippine Samantha_7_label_2be4ef2f:
 
     # ch_Name "Damn it, Samantha, I have so many questions!"
-    ch_Name ""
+    ch_Name "Samantha, ang dami kong tanong!"
 
 # game/logic/events/samantha.rpy:1036
 translate philippine Samantha_7_label_b6b87343:
 
     # Samantha "I've noticed!"
-    Samantha ""
+    Samantha "Napansin ko!"
 
 # game/logic/events/samantha.rpy:1037
 translate philippine Samantha_7_label_7098dd09:
 
     # Samantha "It's been going on for two years. No one knows."
-    Samantha ""
+    Samantha "Dalawang taon na. Walang nakakaalam."
 
 # game/logic/events/samantha.rpy:1038
 translate philippine Samantha_7_label_74f4455d:
 
     # Samantha "I volunteered to help her. She's all alone here."
-    Samantha ""
+    Samantha "Nagboluntaryo akong tulungan siya. Nag-iisa lang siya dito."
 
 # game/logic/events/samantha.rpy:1040
 translate philippine Samantha_7_label_2b177cf1:
 
     # ch_Name "It's fucked up. You know that, right?"
-    ch_Name ""
+    ch_Name "Bwisit talaga. Alam mo naman 'yun diba?"
 
 # game/logic/events/samantha.rpy:1041
 translate philippine Samantha_7_label_f70251e6:
 
     # Samantha "Why?"
-    Samantha ""
+    Samantha "Bakit?"
 
 # game/logic/events/samantha.rpy:1042
 translate philippine Samantha_7_label_3d1d6515:
 
     # ch_Name "Victoria said the breakup could happen again."
-    ch_Name ""
+    ch_Name "Sinabi ni Victoria na ito ay maaaring mangyari ulit."
 
 # game/logic/events/samantha.rpy:1043
 translate philippine Samantha_7_label_ac414857:
 
     # ch_Name "You can't put that kind of stress on your ligaments."
-    ch_Name ""
+    ch_Name "Hindi mo maaaring ilagay ang ganoong uri ng stress sa iyong litid."
 
 # game/logic/events/samantha.rpy:1045
 translate philippine Samantha_7_label_18d96fb1:
 
     # Samantha "Is there any other way?"
-    Samantha ""
+    Samantha "May iba pa bang paraan?"
 
 # game/logic/events/samantha.rpy:1046
 translate philippine Samantha_7_label_57199a5b:
 
     # Samantha "I refuse to leave Audrey. She can't survive without me."
-    Samantha ""
+    Samantha "Hindi ko iiwan si Audrey. Hindi siya makakaligtas nang wala ako."
 
 # game/logic/events/samantha.rpy:1048
 translate philippine Samantha_7_label_1c13d90c:
 
     # ch_Name "She'll suck up to someone else."
-    ch_Name ""
+    ch_Name "Kailangan niyang pumunta sa iba."
 
 # game/logic/events/samantha.rpy:1049
 translate philippine Samantha_7_label_f625b539:
 
     # Samantha "I don't want that!"
-    Samantha ""
+    Samantha "Ayoko niyan!"
 
 # game/logic/events/samantha.rpy:1050
 translate philippine Samantha_7_label_ac9e6a06:
 
     # ch_Name "Okay, fine."
-    ch_Name ""
+    ch_Name "Sige, sige."
 
 # game/logic/events/samantha.rpy:1051
 translate philippine Samantha_7_label_89618a25:
 
     # ch_Name "What if we don't have to leave her?"
-    ch_Name ""
+    ch_Name "Paano kung hindi natin siya kailangang iwan?"
 
 # game/logic/events/samantha.rpy:1053
 translate philippine Samantha_7_label_696c518c:
 
     # Samantha "What are you saying?"
-    Samantha ""
+    Samantha "Ano ang sinasabi mo?"
 
 # game/logic/events/samantha.rpy:1054
 translate philippine Samantha_7_label_a41be21f:
 
     # Samantha "Is there another way?"
-    Samantha ""
+    Samantha "May iba pa bang paraan?"
 
 # game/logic/events/samantha.rpy:1055
 translate philippine Samantha_7_label_cb5b1461:
 
     # ch_Name "I could be a second donor."
-    ch_Name ""
+    ch_Name "Maaari akong maging pangalawang donante."
 
 # game/logic/events/samantha.rpy:1057
 translate philippine Samantha_7_label_35dc90a0:
 
     # Samantha "What? You..."
-    Samantha ""
+    Samantha "Ano? Ikaw..."
 
 # game/logic/events/samantha.rpy:1058
 translate philippine Samantha_7_label_90828c7e:
 
     # ch_Name "Think about it."
-    ch_Name ""
+    ch_Name "Pag-isipan mo."
 
 # game/logic/events/samantha.rpy:1059
 translate philippine Samantha_7_label_c9e21e1d:
 
     # ch_Name "We'd keep her secret and reduce the strain on your ligaments."
-    ch_Name ""
+    ch_Name "Itatago natin ang kanyang sekreto at bawasan ang pilay sa iyong mga litid."
 
 # game/logic/events/samantha.rpy:1061
 translate philippine Samantha_7_label_28efb758:
 
     # Samantha "Yeah, but... I can't make this decision on my own."
-    Samantha ""
+    Samantha "Oo, pero... hindi ko magagawa ang desisyong ito sa sarili ko."
 
 # game/logic/events/samantha.rpy:1062
 translate philippine Samantha_7_label_40bbbb5b:
 
     # Samantha "I have to talk to Audrey about it. I don't know when I can tell her yet..."
-    Samantha ""
+    Samantha "Kailangan kong kausapin si Audrey. Hindi ko alam kung kailan ko pa sasabihin sa kanya..."
 
 # game/logic/events/samantha.rpy:1063
 translate philippine Samantha_7_label_ad45dafc:
 
     # Samantha "I need her to trust you, you know?"
-    Samantha ""
+    Samantha "Kailangan kong pagkatiwalaan ka niya."
 
 # game/logic/events/samantha.rpy:1065
 translate philippine Samantha_7_label_317600c4:
 
     # ch_Name "Of course. I understand that."
-    ch_Name ""
+    ch_Name "Oo naman. Naiintindihan ko."
 
 # game/logic/events/samantha.rpy:1066
 translate philippine Samantha_7_label_61e732c1:
 
     # ch_Name "Sure, I don't think that's gonna be a problem."
-    ch_Name ""
+    ch_Name "Sige, hindi ko iniisip na magiging problema iyon."
 
 # game/logic/events/samantha.rpy:1067
 translate philippine Samantha_7_label_0efec728:
 
     # ch_Name "You talk to her, I'll wait."
-    ch_Name ""
+    ch_Name "Kausapin mo siya, maghihintay ako."
 
 # game/logic/events/samantha.rpy:1069
 translate philippine Samantha_7_label_cfa7f3e3:
 
     # Samantha "Thank you, [Name]."
-    Samantha ""
+    Samantha "Salamat, [Name]."
 
 # game/logic/events/samantha.rpy:1070
 translate philippine Samantha_7_label_a5939b11:
 
     # ch_Name "I'm always here for you, Samantha."
-    ch_Name ""
+    ch_Name "Lagi akong nandito para sayo, Samantha."
 
 # game/logic/events/samantha.rpy:1072
 translate philippine Samantha_7_label_04c6ccf1:
 
     # Samantha "I've got to get back to Audrey's, she's bored there."
-    Samantha ""
+    Samantha "Kailangan kong bumalik kay Audrey, naiinip na siya doon."
 
 # game/logic/events/samantha.rpy:1074
 translate philippine Samantha_7_label_2b131db8:
 
     # ch_Name "I need some time to digest the information."
-    ch_Name ""
+    ch_Name "Kailangan ko ng ilang oras upang matunaw ang impormasyon."
 
 # game/logic/events/samantha.rpy:1075
 translate philippine Samantha_7_label_3a35a586:
 
     # ch_Name "See you later!"
-    ch_Name ""
+    ch_Name "Magkita tayo mamaya!"
 
 # game/logic/events/samantha.rpy:1084
 translate philippine Samantha_8_label_b6e4953b:
