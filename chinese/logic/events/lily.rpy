@@ -11495,3 +11495,11 @@ translate chinese Lily_9_label_c7aab37d:
     # ch_Name "Sounds just...{w} Pretty cool, yeah!"
     ch_Name "听起来只是。。。{w} 很酷，是的！"
 
+# TODO: Translation updated at 2022-04-07 19:55
+
+# game/logic/events/lily.rpy:1780
+translate chinese Lily_6_label_224_0ae9bcd0:
+
+    # ""
+    ""
+
