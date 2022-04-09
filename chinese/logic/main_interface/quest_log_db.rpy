@@ -2531,3 +2531,123 @@ translate chinese strings:
     new "Victoria告诉我们，尽管生活在学院里的鬼魂在外表上可能很吓人，但由于创始人对Cordale设置了保护屏障，它们绝对无害。我希望我能看见鬼。Joshi说晚上在大厅里听到了一声。我应该去看看吗？"
 
 
+# TODO: Translation updated at 2022-04-09 09:38
+
+translate chinese strings:
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "I once heard that a nightclub in Dale was run by a hottie named Adele. Unfortunately, I never found the time to go to the club and meet her. I'll have to correct that mistake when I get back from vacation."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "The club in Dale is run by a gorgeous beauty named Adele. She dresses very seductively and flirts with all the visitors. Not surprisingly, she has admirers and even stalkers."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "Even though Adele runs Dale's famous Lady Luck club, she's still a down-to-earth, cheerful girl. Her gorgeous body and status scare most of the suitors, so she gladly agreed to go on a date with me"
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "Adele gorgeous body and pleasant personality made her a target for a stalker named Diego. He locked us in the basement and wanted to rape her, but I came to the rescue in time. "
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "I wish all schools had librarians like that. Amelie is smart, good at what she does, and she's a freaking beautiful woman for her age. She loves to read and discuss books with our teacher Victoria."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "I wish all schools had librarians like that. Amelie is witty and a freaking beautiful woman for her age. We're starting to bond closer after what happened in the elven forest. I wonder if I have a shot with her."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "On the way to the Academy, we met Samantha's friend Audrey. There was a strange spark between them. I've tried to be nice to her, but Samantha's best friend struck me as cocky, arrogant, and unfriendly. I still can't get what Samantha found in her, but they spent all their time together. Luckily, Sam never insisted on the three of us hanging out together, so I decided not to tolerate Audrey's boorish attitude and avoid interacting with her if possible."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "I had met Samantha's cocky and arrogant friend Audrey on my way to the Academy. At first, I didn't understand why she was so unfriendly and unwilling to let new people get close to her. But then it turned out that Audrey was only pretending to be human. In fact, she is a succubus who feeds off the magical powers of other beings, and only the assistance and support of Samantha allows her to hide her true face and not starve to death."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "It turns out that Audrey is not that bad. Her boorishness and insolence are her way of keeping people at a distance so that no one will find out her secret. The truth is that Audrey is a succubus who survived the death of her homeworld. She hides in our world and feeds off the magical powers of other creatures to survive. Until recently, Audrey thought she was the last succubus, but after receiving a letter whose author assured her that he was her kin, she decided to go to the address and find out if it was true."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "The head of my house, Elijah, has always been good to me and helped me get used to the academy. After Haley and I rescued his brother Ezra, our relationship got even better."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "I met the curious and witty Haley back on the train to the Academy. Thanks to Haley, life in Cordale never seemed dull. I knew from day one that I just had to ask this beauty out on a date. Her charming smile quickly convinced me to agree to help her solve the mystery of a textbook. Unwrapping that case led us to a long and dangerous adventure that not only saved Elijah's older brother but also to an unforgettable night we've spent together on a beautiful island."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "I met the curious and witty Haley back on the train to the Academy. Thanks to Haley, life in Cordale never seemed dull. I knew from day one that I just had to ask this beauty out on a date. Her charming smile quickly convinced me to agree to help her solve the mystery of a textbook. Unwrapping that case led us to a long and dangerous adventure that saved Elijah's older brother, who was unjustly accused of murder and considered dead."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "I still can't believe that the teacher in charge of the Dueling club, Jacob, was actually my father, who had been possessed by a demon many years ago. He tried to destroy the academy, but I stopped him."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "After possessed Jacob has tried to consume the Sorting book for power, the founder of the Leonheart house struggles for other founder's lives and needs my help. After everything she did for me - I must help her."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "Even before the entrance exam, I met an energetic Asian girl named Lily. She's a fierce fan of the Leonheart house and was ecstatic to join it upon enrolling in the academy. Lily is Naomi's best friend, even though it doesn't stop them from arguing all the time. Apparently, Lily is a responsible student because she has never missed a class and has often received praise from Victoria and Sabrina."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "An energetic Asian girl named Lily is a fierce fan of the Leonheart house and made winning in house competition her main goal. She even convinced me to help Leonheart get as many points as possible. After we got lost in a forest together and had a chance to know each other better, we became closer, and it turned out that Lily can get pretty risky and decisive when sex is on the line."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "An energetic Asian girl named Lily is a fierce fan of the Leonheart house and made winning in house competition her main goal. She even convinced me to help Leonheart get as many points as possible. Lily is so loyal to Leonheart that she's ready to do anything for the benefit of the house. Lily is Naomi's best friend, even though it doesn't stop them from arguing all the time."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "An energetic Asian girl named Lily is a fierce fan of the Leonheart house and made winning in house competition her main goal. She even convinced me to help Leonheart get as many points as possible. Her devotion is not surprising, considering she's a descendant of Leona. After we got lost in a forest together and had a chance to know each other better, we became closer, and it turned out that Lily can get pretty risky and decisive when sex is on the line. I wonder if she gets it from her ancestor."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "An energetic Asian girl named Lily is a fierce fan of the Leonheart house and made winning in house competition her main goal. She even convinced me to help Leonheart get as many points as possible. Lily is so loyal to Leonheart that she's ready to do anything for the benefit of the house. And it should not surprise me. After all, she's a descendant and rightful heiress of Leona."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "Arthur's beautiful and enterprising niece, Molly, refused to develop her magical talents and instead decided to open her own business. Her cafe in Cordale is popular with students."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "I first met the narcissistic and arrogant Naomi on my way to the entrance exam. This pure-blooded sorceress is convinced that the students of House Adderin are superior to everyone else and was happy to get there. She spends her free time with her friend Lily, with whom she is constantly arguing about which house is better. Naomi may be beautiful, but her obnoxious nature has discouraged any desire to get to know her better."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "Narcissistic and arrogant, Naomi is convinced that the students of House Adderin are superior to everyone else. She considers herself a cut above the rest, but despite her beliefs, she fails to convince teachers of her superiority and constantly gets into quarrels with them. Naomi has a talent for getting into trouble and dragging other people into them, including me. However, when backed in a corner, she can go all the way to earn back your trust. And Naomi is way better at sex than she is at building relationships."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "Narcissistic and arrogant,  Naomi is convinced that the students of House Adderin are superior to everyone else and was happy to get there. She considers herself a cut above the rest, but despite her beliefs, she constantly fails to prove her talents in classes. She has a terrible relationship with teachers and often gets into trouble. Naomi spends her free time with her friend Lily, with whom she is constantly arguing about which house is better. Naomi may be beautiful, but her obnoxious nature has discouraged any desire to get to know her better."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "Narcissistic and arrogant, Naomi is convinced that the students of House Adderin are superior. Naomi often quarrels with teachers and plots shady schemes to fix the situation. She almost dragged me into trouble but was ready to make it up for herself. And Naomi is way better at sex than she is at building relationships. Unfortunately, her father doesn't think that studying at Cordale can replace real-life experience and pulls his daughter out of school for half a year to take her on a trip around the world."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "Narcissistic and arrogant, Naomi is convinced that the students of House Adderin are superior to everyone else. She considers herself a cut above the rest, but despite her beliefs, she constantly fails to prove her talents in classes. She has a terrible relationship with teachers and often gets into trouble. Naomi may be beautiful, but her obnoxious nature has discouraged any desire to get intimate. Her father doesn't think that studying at Cordale can replace real-life experience and pulls his daughter out of school for half a year to take her on a trip around the world."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "Sabrina is a real potion geek, and she teaches her subject with great passion. I often show good results during her classes. My success brings Sabrina joy, and I feel that we'll get even closer in time."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "How could I have grown up with Samantha for so many years without noticing how amazing she is? During our time together at Cordale, I've realized again how kind, compassionate, and caring Sam can be. Besides, she's a gorgeous woman. Shortly after my arrival, Samantha had health-related problems, but I helped her fix them. I've also learned about her ambitions and goals in the magical world, and I'll be sure to help Samantha achieve them when we return from our vacation together."
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "Victoria is a talented magician and a good teacher. She's hard to get with regular flirting. In fact, she just gets irritated by that. But I think she and I are getting closer, especially when I put effort into studying. "
+    new ""
+
+    # game/logic/main_interface/quest_log_db.rpy:2636
+    old "The convenience store owner in Dale, Gordon, has an adorable daughter. Half-fairy half-dwarf Willow has an innate flair for magical artifacts and can get even the rarest ingredients on demand if you ask her to."
+    new ""
+

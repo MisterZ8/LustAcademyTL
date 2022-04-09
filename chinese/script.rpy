@@ -1087,3 +1087,11 @@ translate chinese strings:
     # game/script.rpy:286
     old "The Moonwalk tincture"
     new "月球漫步酊剂"
+# TODO: Translation updated at 2022-04-09 09:38
+
+translate chinese strings:
+
+    # game/script.rpy:512
+    old "NEXT"
+    new ""
+
