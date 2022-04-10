@@ -1093,5 +1093,5 @@ translate chinese strings:
 
     # game/script.rpy:512
     old "NEXT"
-    new ""
+    new "下一个"
 
