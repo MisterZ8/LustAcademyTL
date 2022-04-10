@@ -4692,13 +4692,13 @@ translate chinese Outro_VN_label_b5e2f2eb:
 translate chinese Outro_1_label_62a86693:
 
     # Elijah "Like half an hour. Tops."
-    Elijah ""
+    Elijah "像半小时。顶端。"
 
 # game/logic/events/outro.rpy:17
 translate chinese Outro_1_label_8904ecfb:
 
     # Elijah "See you at the Main hall."
-    Elijah ""
+    Elijah "在主厅见。"
 
 # game/logic/events/outro.rpy:20
 translate chinese Outro_1_label_96eb30cd:
