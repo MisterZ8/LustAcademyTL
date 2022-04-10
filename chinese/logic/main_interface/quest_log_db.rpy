@@ -2537,117 +2537,116 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "I once heard that a nightclub in Dale was run by a hottie named Adele. Unfortunately, I never found the time to go to the club and meet her. I'll have to correct that mistake when I get back from vacation."
-    new ""
+    new "我曾经听说，Dale的一家夜总会是由一个叫Adele的辣妹经营的。不幸的是，我从来没空去俱乐部和她见面。等我度假回来后，我必须纠正这个错误。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "The club in Dale is run by a gorgeous beauty named Adele. She dresses very seductively and flirts with all the visitors. Not surprisingly, she has admirers and even stalkers."
-    new ""
+    new "Dale的俱乐部是由一个名叫Adele的超级大美女经营。她的穿着极具诱惑，并与所有客人调情。难怪她有崇拜者，甚至是跟踪者。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "Even though Adele runs Dale's famous Lady Luck club, she's still a down-to-earth, cheerful girl. Her gorgeous body and status scare most of the suitors, so she gladly agreed to go on a date with me"
-    new ""
+    new "尽管Adele经营着戴尔著名的Lady Luck俱乐部，但她仍然是一个脚踏实地、开朗的女孩。她美丽动人的身材和地位令大多数追求者退缩，所以她欣然同意与我约会。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "Adele gorgeous body and pleasant personality made her a target for a stalker named Diego. He locked us in the basement and wanted to rape her, but I came to the rescue in time. "
-    new ""
+    new "Adele美丽动人的身材和讨人喜欢的性格使她成为一个名叫Diego的跟踪者的目标。他把我们锁在地下室里，想强奸她，但我及时赶到救下了她。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "I wish all schools had librarians like that. Amelie is smart, good at what she does, and she's a freaking beautiful woman for her age. She loves to read and discuss books with our teacher Victoria."
-    new ""
+    new "我希望所有学校都有这样的图书管理员。Amelie很聪明，擅长她的工作，而且在她的同龄人中，她算得上是一个超级大美人。她喜欢阅读和与我们的Victoria老师讨论书籍。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "I wish all schools had librarians like that. Amelie is witty and a freaking beautiful woman for her age. We're starting to bond closer after what happened in the elven forest. I wonder if I have a shot with her."
-    new ""
+    new "我希望所有学校都有这样的图书管理员。Amelie很机智，而且在她的同龄人中，她算得上是个超级大美人。在精灵森林的事情发生之后，我们的关系变得更加紧密。我想知道我是否有机会和她在一起。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "On the way to the Academy, we met Samantha's friend Audrey. There was a strange spark between them. I've tried to be nice to her, but Samantha's best friend struck me as cocky, arrogant, and unfriendly. I still can't get what Samantha found in her, but they spent all their time together. Luckily, Sam never insisted on the three of us hanging out together, so I decided not to tolerate Audrey's boorish attitude and avoid interacting with her if possible."
-    new ""
+    new "在去学院的路上，我们遇到了Samantha的朋友Audrey。她们之间有一种奇怪的火花。我一直试图对她示好，但Samantha的好朋友给我的印象是自大、傲慢和不友好。我仍然无法理解Samantha 看上她哪一点了，但她们几乎所有的时间都在一起。幸运的是，Sam从不坚持我们三个人在一起玩，所以我决定不惯着Audrey的粗鲁态度，尽可能避免与她交往。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "I had met Samantha's cocky and arrogant friend Audrey on my way to the Academy. At first, I didn't understand why she was so unfriendly and unwilling to let new people get close to her. But then it turned out that Audrey was only pretending to be human. In fact, she is a succubus who feeds off the magical powers of other beings, and only the assistance and support of Samantha allows her to hide her true face and not starve to death."
-    new ""
+    new "我在去学院的路上遇到了Samantha的自大狂朋友Audrey。起初，我不明白她为什么这么不友好，不愿意让新人接近她。但后来发现Audrey只是在假装自己是人类。事实上，她是一个以其他生命的魔力为生的魅魔，只有Samantha的协助和支持才能让她隐藏自己的真面目，不至于饿死。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "It turns out that Audrey is not that bad. Her boorishness and insolence are her way of keeping people at a distance so that no one will find out her secret. The truth is that Audrey is a succubus who survived the death of her homeworld. She hides in our world and feeds off the magical powers of other creatures to survive. Until recently, Audrey thought she was the last succubus, but after receiving a letter whose author assured her that he was her kin, she decided to go to the address and find out if it was true."
-    new ""
+    new "事实证明，Audrey并没有那么坏。她的粗鲁和无礼是她与人们保持距离的方式，以阻止有人发现她的秘密。事实是，Audrey是一个从她的家园世界死亡中幸存下来的魅魔。她躲在我们的世界里，靠其他生物的魔法力量来生存。直到最近，Audrey还认为她是最后一个魅魔，但在收到一封作者向她保证是她的亲属的信后，她决定去地址看看是否是真的。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "The head of my house, Elijah, has always been good to me and helped me get used to the academy. After Haley and I rescued his brother Ezra, our relationship got even better."
-    new ""
+    new "我房间的房主，Elijah，一直对我很好，帮助我适应学院的生活。在我和Haley救出他的弟弟Ezra后，我们的关系变得更好。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "I met the curious and witty Haley back on the train to the Academy. Thanks to Haley, life in Cordale never seemed dull. I knew from day one that I just had to ask this beauty out on a date. Her charming smile quickly convinced me to agree to help her solve the mystery of a textbook. Unwrapping that case led us to a long and dangerous adventure that not only saved Elijah's older brother but also to an unforgettable night we've spent together on a beautiful island."
-    new ""
+    new "我在去学院的火车上遇到了好奇心强、机智的Haley。多亏了Haley，在Cordale的生活似乎永远不会枯燥。从第一天起，我就知道我必须要约这个美女出来。她迷人的微笑很快就说服了我，同意帮助她解决一本教科书的谜团。为解开这个谜团我们开始了一个漫长而危险的冒险，不仅拯救了Elijah的哥哥，而且我们还在一个美丽的岛上共同度过了一个难忘的夜晚。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "I met the curious and witty Haley back on the train to the Academy. Thanks to Haley, life in Cordale never seemed dull. I knew from day one that I just had to ask this beauty out on a date. Her charming smile quickly convinced me to agree to help her solve the mystery of a textbook. Unwrapping that case led us to a long and dangerous adventure that saved Elijah's older brother, who was unjustly accused of murder and considered dead."
-    new ""
+    new "我在去学院的火车上遇到了好奇心强、机智的Haley。多亏了Haley，在Cordale的生活似乎永远不会枯燥。从第一天起，我就知道我必须要约这个美女出来。她迷人的微笑很快就说服了我，同意帮助她解决一本教科书的谜团。为解开这个谜团我们开始了漫长而危险的冒险，拯救了Elijah的哥哥，他被不公正地指控为谋杀犯并被认为已经死亡。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "I still can't believe that the teacher in charge of the Dueling club, Jacob, was actually my father, who had been possessed by a demon many years ago. He tried to destroy the academy, but I stopped him."
-    new ""
+    new "我仍然无法相信，负责决斗俱乐部的老师Jacob实际上是我的父亲，他多年前被恶魔附身。他试图摧毁学院，但我阻止了他。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "After possessed Jacob has tried to consume the Sorting book for power, the founder of the Leonheart house struggles for other founder's lives and needs my help. After everything she did for me - I must help her."
-    new ""
+    new "在被附身的Jacob试图吞噬分院册以获取力量后，Leonheart分院的创始人为其他创始人的生命而抗争，并且需要我的帮助。在她为我所做的一切之后-我必须帮助她。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "Even before the entrance exam, I met an energetic Asian girl named Lily. She's a fierce fan of the Leonheart house and was ecstatic to join it upon enrolling in the academy. Lily is Naomi's best friend, even though it doesn't stop them from arguing all the time. Apparently, Lily is a responsible student because she has never missed a class and has often received praise from Victoria and Sabrina."
-    new ""
+    new "甚至在入学考试之前，我就遇到了一个精力充沛的亚洲女孩，她叫Lily。她是Leonheart分院的狂热粉丝，在进入学院后欣喜若狂地加入了它。Lily是Naomi最好的朋友，然而这并不能避免她们一直在争吵。显然，Lily是一个负责任的学生，因为她从来没有缺过课，而且经常得到Victoria和Sabrina的表扬。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "An energetic Asian girl named Lily is a fierce fan of the Leonheart house and made winning in house competition her main goal. She even convinced me to help Leonheart get as many points as possible. After we got lost in a forest together and had a chance to know each other better, we became closer, and it turned out that Lily can get pretty risky and decisive when sex is on the line."
-    new ""
+    new "一个名叫Lily的精力充沛的亚洲女孩是Leonheart分院的狂热粉丝，并把在分院比赛中获胜作为她的主要目标。她甚至说服了我帮助Leonheart获得尽可能多的分数。在我们一起在森林里迷路并有机会更好地了解对方之后，我们变得更亲密了，事实证明，在做爱的时候，Lily可以变得相当冒险和果断。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "An energetic Asian girl named Lily is a fierce fan of the Leonheart house and made winning in house competition her main goal. She even convinced me to help Leonheart get as many points as possible. Lily is so loyal to Leonheart that she's ready to do anything for the benefit of the house. Lily is Naomi's best friend, even though it doesn't stop them from arguing all the time."
-    new ""
+    new "一个名叫Lily的精力充沛的亚洲女孩是Leonheart分院的狂热粉丝，并把在分院比赛中获胜作为她的主要目标。她甚至说服我帮助Leonheart获得尽可能多的分数。Lily对Leonheart非常忠诚，为了分院的利益，她愿意做任何事。Lily是Naomi最好的朋友，然而这并不能避免她们一直在争吵。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "An energetic Asian girl named Lily is a fierce fan of the Leonheart house and made winning in house competition her main goal. She even convinced me to help Leonheart get as many points as possible. Her devotion is not surprising, considering she's a descendant of Leona. After we got lost in a forest together and had a chance to know each other better, we became closer, and it turned out that Lily can get pretty risky and decisive when sex is on the line. I wonder if she gets it from her ancestor."
-    new ""
+    new "一个名叫Lily的精力充沛的亚洲女孩是Leonheart分院的狂热粉丝，并把在分院比赛中获胜作为她的主要目标。她甚至说服我帮助Leonheart获得尽可能多的分数。考虑到她是Leona的后裔，她的奉献精神并不令人惊讶。在我们一起在森林里迷路并有机会更好地了解对方之后，我们变得更加亲密，事实证明，Lily在性生活方面可以变得相当冒险和果断。我想知道她是不是从她的祖上那里遗传的。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "An energetic Asian girl named Lily is a fierce fan of the Leonheart house and made winning in house competition her main goal. She even convinced me to help Leonheart get as many points as possible. Lily is so loyal to Leonheart that she's ready to do anything for the benefit of the house. And it should not surprise me. After all, she's a descendant and rightful heiress of Leona."
-    new ""
+    new "一个名叫Lily的精力充沛的亚洲女孩是Leonheart分院的狂热粉丝，并把在分院比赛中获胜作为她的主要目标。她甚至说服我帮助Leonheart获得尽可能多的分数。Lily对Leonheart非常忠诚，为了分院的利益，她愿意做任何事情。我对此并不惊讶。毕竟，她是Leona的后裔与合法继承人。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "Arthur's beautiful and enterprising niece, Molly, refused to develop her magical talents and instead decided to open her own business. Her cafe in Cordale is popular with students."
-    new ""
+    new "Arthur美丽而富有进取心的侄女Molly拒绝发展她的魔法才能，而是决定开辟自己的事业。她在Cordale的咖啡馆很受学生欢迎。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "I first met the narcissistic and arrogant Naomi on my way to the entrance exam. This pure-blooded sorceress is convinced that the students of House Adderin are superior to everyone else and was happy to get there. She spends her free time with her friend Lily, with whom she is constantly arguing about which house is better. Naomi may be beautiful, but her obnoxious nature has discouraged any desire to get to know her better."
-    new ""
+    new "我第一次见到自恋而傲慢的Naomi是在去参加入学考试的路上。这个血统纯正的女巫坚信Adderin分院的学生比其他人都要优秀，并为能到达那里而高兴。她和她的朋友Lily一起度过她的空闲时间，她经常和她争论哪个学院更好。也许Naomi很美，但她令人讨厌的天性使任何想更好地了解她的愿望都打消了。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "Narcissistic and arrogant, Naomi is convinced that the students of House Adderin are superior to everyone else. She considers herself a cut above the rest, but despite her beliefs, she fails to convince teachers of her superiority and constantly gets into quarrels with them. Naomi has a talent for getting into trouble and dragging other people into them, including me. However, when backed in a corner, she can go all the way to earn back your trust. And Naomi is way better at sex than she is at building relationships."
-    new ""
+    new "自恋和傲慢，Naomi确信Adderin分院的学生比其他人都要优秀。她认为自己比其他人高出一截，但尽管她有这样的想法，她却无法说服老师相信她的优越性，并不断与他们发生争吵。Naomi有闯祸的天赋，并会把其他人也拖下水，包括我。然而，当被逼到墙角时，她可以不惜一切代价来赢回你的信任。而且Naomi在性方面比她在建立关系方面要好得多。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "Narcissistic and arrogant,  Naomi is convinced that the students of House Adderin are superior to everyone else and was happy to get there. She considers herself a cut above the rest, but despite her beliefs, she constantly fails to prove her talents in classes. She has a terrible relationship with teachers and often gets into trouble. Naomi spends her free time with her friend Lily, with whom she is constantly arguing about which house is better. Naomi may be beautiful, but her obnoxious nature has discouraged any desire to get to know her better."
-    new ""
+    new "自恋和傲慢，Naomi确信Adderin分院的学生比其他人都要优越，并且很高兴能达到这个目的。她认为自己比其他人高出一截，但尽管她有这样的信念，她在课堂上却不断无法证明自己的才能。她与老师的关系很糟糕，经常惹麻烦。Naomi把空闲时间花在她的朋友Lily身上，她经常和她争论哪个分院更好。或许Naomi很美，但她令人讨厌的性格使人们不愿意更好地了解她。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "Narcissistic and arrogant, Naomi is convinced that the students of House Adderin are superior. Naomi often quarrels with teachers and plots shady schemes to fix the situation. She almost dragged me into trouble but was ready to make it up for herself. And Naomi is way better at sex than she is at building relationships. Unfortunately, her father doesn't think that studying at Cordale can replace real-life experience and pulls his daughter out of school for half a year to take her on a trip around the world."
-    new ""
+    new "自恋和傲慢，Naomi确信Adderin分院的学生是优越的。Naomi经常与老师争吵，并策划阴暗的计划来解决这个问题。她几乎把我拖入困境，但又准备自己弥补。而Naomi在性方面比她在建立关系方面要好得多。不幸的是，她的父亲不认为在Cordale学习可以取代现实生活中的经验，把女儿从学校拉出来半年，带她去环游世界。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "Narcissistic and arrogant, Naomi is convinced that the students of House Adderin are superior to everyone else. She considers herself a cut above the rest, but despite her beliefs, she constantly fails to prove her talents in classes. She has a terrible relationship with teachers and often gets into trouble. Naomi may be beautiful, but her obnoxious nature has discouraged any desire to get intimate. Her father doesn't think that studying at Cordale can replace real-life experience and pulls his daughter out of school for half a year to take her on a trip around the world."
-    new ""
+    new "自恋和傲慢，Naomi确信Adderin分院的学生比其他人都要优秀。她认为自己比其他人高出一截，但尽管她有这样的信念，她在课堂上却不断无法证明自己的才能。她与老师的关系很糟糕，经常惹麻烦。互相Naomi很美，但她令人讨厌的性格使她不愿意与人亲近。她的父亲不认为在Cordale学习可以取代现实生活中的经验，把女儿从学校拉出来半年，带她去环游世界。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "Sabrina is a real potion geek, and she teaches her subject with great passion. I often show good results during her classes. My success brings Sabrina joy, and I feel that we'll get even closer in time."
-    new ""
+    new "Sabrina是一个真正的药水怪人，她以极大的热情教授她的科目。在她的课上，我经常表现出良好的成绩。我的成功给Sabrina带来了快乐，我觉得我们会逐渐变得更加亲近。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "How could I have grown up with Samantha for so many years without noticing how amazing she is? During our time together at Cordale, I've realized again how kind, compassionate, and caring Sam can be. Besides, she's a gorgeous woman. Shortly after my arrival, Samantha had health-related problems, but I helped her fix them. I've also learned about her ambitions and goals in the magical world, and I'll be sure to help Samantha achieve them when we return from our vacation together."
-    new ""
+    new "我和Samantha一起成长了这么多年，怎么会没有注意到她有多么了不起？在我们一起在Cordale的日子里，我再次意识到Sam是多么善良、富有同情心和富有爱心。此外，她还是个漂亮的女人。在我到这里后不久，Samantha出现了与健康有关的问题，但我帮助她解决了这些问题。我还了解到她在魔法世界的野心和目标，当我们一起度假回来后，我一定会帮助Samantha实现这些目标。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "Victoria is a talented magician and a good teacher. She's hard to get with regular flirting. In fact, she just gets irritated by that. But I think she and I are getting closer, especially when I put effort into studying. "
-    new ""
+    new "Victoria是一个有天赋的魔法师和一个好老师。很难用常规的调情方式来获得她的好感。事实上，她只是对此感到恼火。但我认为她和我越来越亲近，特别是当我在学习上付出努力时。"
 
     # game/logic/main_interface/quest_log_db.rpy:2636
     old "The convenience store owner in Dale, Gordon, has an adorable daughter. Half-fairy half-dwarf Willow has an innate flair for magical artifacts and can get even the rarest ingredients on demand if you ask her to."
-    new ""
-
+    new "Dale的便利店老板Gordon有一个可爱的女儿。半仙女半矮人的Willow对寻找魔法文物有天赋，如果你向她提出需求，她甚至可以搞到最稀有的材料。"
