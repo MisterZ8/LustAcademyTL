@@ -234,7 +234,7 @@ translate chinese strings:
 
     # game/logic/mini_games/duels/logic.rpy:2543
     old "A worthy fight! I wish I knew who you were..."
-    new "一个有价值的战斗! 我希望我知道你是谁..."
+    new "一个有价值的战斗! 我希望我知道你是谁。。。"
 
     # game/logic/mini_games/duels/logic.rpy:2543
     old "And so shall it be with anyone I challenge!"
@@ -246,91 +246,91 @@ translate chinese strings:
 translate chinese test_duel_game_start_a30443e9_1:
 
     # UnknownGirl "[unknown_girl_say]"
-    UnknownGirl ""
+    UnknownGirl "[unknown_girl_say]"
 
 translate chinese strings:
 
     # game/logic/mini_games/duels/logic.rpy:2192
     old "I'm ready."
-    new ""
+    new "我准备好了。"
 
     # game/logic/mini_games/duels/logic.rpy:2192
     old "Can we start already?"
-    new ""
+    new "我们可以开始了吗？"
 
     # game/logic/mini_games/duels/logic.rpy:2192
     old "What's taking you so long? When can we start?"
-    new ""
+    new "什么事让你花了这么长时间？我们什么时候可以开始？"
 
     # game/logic/mini_games/duels/logic.rpy:2192
     old "Do I have permission to start?"
-    new ""
+    new "我是否有权限开始？"
 
     # game/logic/mini_games/duels/logic.rpy:2200
     old "The best option for you is to surrender before it's too late, pal."
-    new ""
+    new "对你来说，最好的选择是尽早投降，伙计。"
 
     # game/logic/mini_games/duels/logic.rpy:2200
     old "I've been practicing my moves all week."
-    new ""
+    new "我整个星期都在练习我的动作。"
 
     # game/logic/mini_games/duels/logic.rpy:2200
     old "You don't stand a chance! Whatever happens here - don't take it personally, will you?"
-    new ""
+    new "你没有机会了! 无论这里发生什么事-都别搞成私人恩怨，好吗？"
 
     # game/logic/mini_games/duels/logic.rpy:2200
     old "Remember, it's a practice match. Let's not hurt each other."
-    new ""
+    new "记住，这是一场练习赛。我们不要让彼此受伤。"
 
     # game/logic/mini_games/duels/logic.rpy:2200
     old "Sadly, they don't allow us to show faces."
-    new ""
+    new "可悲的是，他们不允许我们露面。"
 
     # game/logic/mini_games/duels/logic.rpy:2200
     old "I want to see yours when we're done."
-    new ""
+    new "我们完事后，我想看看你的脸。"
 
     # game/logic/mini_games/duels/logic.rpy:2200
     old "I hope we'll have a fun time no matter who wins."
-    new ""
+    new "我希望无论谁获胜，我们都会打的尽兴。"
 
     # game/logic/mini_games/duels/logic.rpy:2329
     old "I've got to admit - you're not half as bad as I thought you'd be."
-    new ""
+    new "我不得不承认-你没有我想象中的一半那么糟糕。"
 
     # game/logic/mini_games/duels/logic.rpy:2329
     old "How are you still standing? That was my best move!"
-    new ""
+    new "你怎么还能站着？这是我最强的一招！"
 
     # game/logic/mini_games/duels/logic.rpy:2329
     old "Can't you even block simple spells like that? Why am I not surprised?"
-    new ""
+    new "你连这么简单法术都挡不住吗？为啥我一点都不惊讶呢？"
 
     # game/logic/mini_games/duels/logic.rpy:2329
     old "Wow! That really worked?! Yay! I wasn't sure I could pull that off!"
-    new ""
+    new "哇！这真的有用吗？诶! 我不确定我是否能做到这一点!"
 
     # game/logic/mini_games/duels/logic.rpy:2329
     old "You're too predictable, bud."
-    new ""
+    new "你太好猜了，伙计。"
 
     # game/logic/mini_games/duels/logic.rpy:2329
     old "Sorry, but I'm just better."
-    new ""
+    new "对不起，但只是我更好。"
 
     # game/logic/mini_games/duels/logic.rpy:2611
     old "It was easy-peasy, lemon squeezy! "
-    new ""
+    new "很容易的，很容易的，小菜一碟。"
 
     # game/logic/mini_games/duels/logic.rpy:2611
     old "Hey, Jacob! I think I've outgrown academy tournaments. Where can I find the real challenge?"
-    new ""
+    new "嘿，Jacob! 我想我已经能力超越了学院里的比赛。我在哪里可以找到真正的挑战？"
 
     # game/logic/mini_games/duels/logic.rpy:2611
     old "I've enjoyed our battle. Thank you!"
-    new ""
+    new "我很享受我们的战斗。谢谢你!"
 
     # game/logic/mini_games/duels/logic.rpy:2611
     old "It was close. Maybe another time you'll be luckier."
-    new ""
+    new "很接近了。也许下次你会更幸运。"
 
