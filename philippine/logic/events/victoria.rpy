@@ -4,373 +4,373 @@
 translate philippine Samantha_4_label_5bea03e8:
 
     # ch_Name "Good afternoon, Miss Lapis. May I have a moment of your time?"
-    ch_Name ""
+    ch_Name "Magandang hapon, Ms. Lapis. Pwede ba kitang kausapin?"
 
 # game/logic/events/victoria.rpy:235
 translate philippine Samantha_4_label_317730bf:
 
     # Victoria "You seem very modest and polite today. [Surname]."
-    Victoria ""
+    Victoria "Napakagalang mo ngayong araw, [Surname]."
 
 # game/logic/events/victoria.rpy:236
 translate philippine Samantha_4_label_85bc7b4d:
 
     # Victoria "You want something from me, don't you?"
-    Victoria ""
+    Victoria "May gusto ka sa akin, tama ba?"
 
 # game/logic/events/victoria.rpy:237
 translate philippine Samantha_4_label_eb215e0d:
 
     # ch_Name "{i}(It's amazing, she reads me like an open book...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nakakamangha, binabasa niya ako na parang bukas na libro...){/i}"
 
 # game/logic/events/victoria.rpy:238
 translate philippine Samantha_4_label_883aa471:
 
     # Victoria "So, did I get it right?"
-    Victoria ""
+    Victoria "Tama ba ako?"
 
 # game/logic/events/victoria.rpy:240
 translate philippine Samantha_4_label_04ba74f4:
 
     # ch_Name "There's nothing I can hide from you, Miss Lapis."
-    ch_Name ""
+    ch_Name "Wala akong maitatago sa iyo, Ms. Lapis."
 
 # game/logic/events/victoria.rpy:241
 translate philippine Samantha_4_label_a21000c8:
 
     # ch_Name "That's why you're Cordale's best teacher."
-    ch_Name ""
+    ch_Name "Kaya nga ikaw ang pinakamahusay na guro sa Cordale."
 
 # game/logic/events/victoria.rpy:243
 translate philippine Samantha_4_label_d17e29fe:
 
     # Victoria "I don't care for rude flattery. But I commend you for trying."
-    Victoria ""
+    Victoria "Wala akong pakialam sa pambobola. Ngunit pinupuri kita sa iyong pagsubok."
 
 # game/logic/events/victoria.rpy:244
 translate philippine Samantha_4_label_4b148ae1:
 
     # ch_Name "But it's true! Everyone I've talked to thinks you're the most talented."
-    ch_Name ""
+    ch_Name "Pero totoo naman! Sinasabi ng lahat ng nakausap ko na ikaw ang pinakamahusay."
 
 # game/logic/events/victoria.rpy:246
 translate philippine Samantha_4_label_00a98cac:
 
     # Victoria "You're certainly better at flattery than witchcraft, [Surname]."
-    Victoria ""
+    Victoria "Mas mahusay ka sa pambobola kaysa sa mahika, [Surname]."
 
 # game/logic/events/victoria.rpy:247
 translate philippine Samantha_4_label_d5575358:
 
     # Victoria "Though you have room to grow in both."
-    Victoria ""
+    Victoria "Kahit na maaari mong pagbutihin ang dalawa."
 
 # game/logic/events/victoria.rpy:248
 translate philippine Samantha_4_label_4e811fea:
 
     # ch_Name "You are cruel but fair."
-    ch_Name ""
+    ch_Name "Ikaw ay malupit, ngunit patas pa rin."
 
 # game/logic/events/victoria.rpy:250
 translate philippine Samantha_4_label_2b818a34:
 
     # Victoria "[Name], get to the point. I have plans and I don't want to be late."
-    Victoria ""
+    Victoria "[Name], bilisan mo na. May mga plano ako at ayokong mahuhuli."
 
 # game/logic/events/victoria.rpy:251
 translate philippine Samantha_4_label_c195848c:
 
     # ch_Name "Miss Lapis. I really need to borrow your {b}night fairy pollen compress{/b}..."
-    ch_Name ""
+    ch_Name "Ms. Lapis. Kailangan ko talagang hiramin ang iyong {b}compress ng pollen mula sa diwatang panggabi{/b}..."
 
 # game/logic/events/victoria.rpy:252
 translate philippine Samantha_4_label_79d44dd4:
 
     # Victoria "That's an interesting request. Why would you need a compress?"
-    Victoria ""
+    Victoria "Iyan ay kakaibang kahilingan. Bakit ba kailangan mo?"
 
 # game/logic/events/victoria.rpy:253
 translate philippine Samantha_4_label_f2fcf20e:
 
     # Victoria "And how did a first-year student even hear about them?"
-    Victoria ""
+    Victoria "At paano nalaman ng isang bagong estudyante ang tungkol sa ito?"
 
 # game/logic/events/victoria.rpy:254
 translate philippine Samantha_4_label_e1d1aa22:
 
     # ch_Name "Mr. Frollo. He told me about the compress and its properties because..."
-    ch_Name ""
+    ch_Name "Mr. Frollo. Sinabi niya sa akin ang tungkol sa compress at ang mga katangian nito dahil..."
 
 # game/logic/events/victoria.rpy:255
 translate philippine Samantha_4_label_8244a0c0:
 
     # ch_Name "I really need to help a friend."
-    ch_Name ""
+    ch_Name "Kailangan ko talagang tumulong sa isang kaibigan."
 
 # game/logic/events/victoria.rpy:257
 translate philippine Samantha_4_label_c2538ab1:
 
     # Victoria "That's a very vague explanation."
-    Victoria ""
+    Victoria "Napakalabong dahilan naman."
 
 # game/logic/events/victoria.rpy:258
 translate philippine Samantha_4_label_5f327eeb:
 
     # Victoria "Would you care to give me one reason to even consider..."
-    Victoria ""
+    Victoria "Gusto mo bang bigyan ako ng isang dahilan para maisaalang-alang..."
 
 # game/logic/events/victoria.rpy:259
 translate philippine Samantha_4_label_e4b95342:
 
     # Victoria "...giving you a fairly rare healing drug?"
-    Victoria ""
+    Victoria "...ang pagbibigay sa iyo ng bihirang gamot na ito?"
 
 # game/logic/events/victoria.rpy:260
 translate philippine Samantha_4_label_d1db6e23:
 
     # ch_Name "Miss Lapis, I wish I could... But I can't."
-    ch_Name ""
+    ch_Name "Ms. Lapis, gusto ko sana... Pero hindi pwede."
 
 # game/logic/events/victoria.rpy:262
 translate philippine Samantha_4_label_6e509f21:
 
     # Victoria "Well, you know where the door is."
-    Victoria ""
+    Victoria "Alam mo kung saan ang pinto."
 
 # game/logic/events/victoria.rpy:263
 translate philippine Samantha_4_label_f7a0a7ed:
 
     # ch_Name "Victoria, I'm begging you."
-    ch_Name ""
+    ch_Name "Victoria, nakikiusap ako."
 
 # game/logic/events/victoria.rpy:265
 translate philippine Samantha_4_label_ad2dce51:
 
     # Victoria "[Name], don't be ridiculous."
-    Victoria ""
+    Victoria "[Name], huwag kang maging tanga."
 
 # game/logic/events/victoria.rpy:266
 translate philippine Samantha_4_label_8f5ebfee:
 
     # Victoria "However you rephrase \"please\" it doesn't change the situation."
-    Victoria ""
+    Victoria "Kahit paano mo sabihin ang \"pakiusap\" hindi nito binabago ang sitwasyon."
 
 # game/logic/events/victoria.rpy:267
 translate philippine Samantha_4_label_6850e64c:
 
     # Victoria "You're asking me to give you a rare resource for no reason but cute eyes."
-    Victoria ""
+    Victoria "Hinihiling mo na bigyan ka ng pambihirang gamot nang walang dahilan kundi ang cute na mga mata mo."
 
 # game/logic/events/victoria.rpy:268
 translate philippine Samantha_4_label_ffdba096:
 
     # ch_Name "So you think my eyes are cute?"
-    ch_Name ""
+    ch_Name "Iniisip mo ba na cute na mga mata ko?"
 
 # game/logic/events/victoria.rpy:269
 translate philippine Samantha_4_label_c7bbbcb4:
 
     # Victoria "Don't waste my time."
-    Victoria ""
+    Victoria "Huwag mong sayangin ang oras ko."
 
 # game/logic/events/victoria.rpy:271
 translate philippine Samantha_4_label_e7a8fa96:
 
     # ch_Name "I'm not asking for a compress for myself."
-    ch_Name ""
+    ch_Name "Hindi ako humihingi ng compress para sa sarili ko."
 
 # game/logic/events/victoria.rpy:272
 translate philippine Samantha_4_label_61be30cd:
 
     # ch_Name "One of our faculty students has torn magical ligaments."
-    ch_Name ""
+    ch_Name "Ang isa sa aming mga mag-aaral sa angkan ay may nasirang mhikang litid."
 
 # game/logic/events/victoria.rpy:273
 translate philippine Samantha_4_label_01f01e90:
 
     # ch_Name "He can't manage without a compress."
-    ch_Name ""
+    ch_Name "Hindi niya kayang tiisin nang walang compress."
 
 # game/logic/events/victoria.rpy:275
 translate philippine Samantha_4_label_712a3f80:
 
     # Victoria "Why didn't you say so before!"
-    Victoria ""
+    Victoria "Bakit hindi mo sinabi kanina!"
 
 # game/logic/events/victoria.rpy:276
 translate philippine Samantha_4_label_ec3ad79f:
 
     # Victoria "Take me to the injured person, we'll quickly solve his problem and find the cause."
-    Victoria ""
+    Victoria "Dalhin mo ako sa nasugatan, malulutas natin ang problema niya at hanapin ang dahilan."
 
 # game/logic/events/victoria.rpy:277
 translate philippine Samantha_4_label_8a24beac:
 
     # ch_Name "No!{w} Wait.{w} I can't take you to him."
-    ch_Name ""
+    ch_Name "Hindi!{w} Teka.{w} Hindi kita madadala sa kanya."
 
 # game/logic/events/victoria.rpy:279
 translate philippine Samantha_4_label_f0c29618:
 
     # Victoria "Why not?"
-    Victoria ""
+    Victoria "Bakit hindi?"
 
 # game/logic/events/victoria.rpy:280
 translate philippine Samantha_4_label_9b03c702:
 
     # ch_Name "I promised I wouldn't betray his secret to the teachers. I won't break my word."
-    ch_Name ""
+    ch_Name "Nangako ako na hindi ko sabihin ang kanyang sikreto sa mga guro. Hindi ako magiging sinungaling."
 
 # game/logic/events/victoria.rpy:281
 translate philippine Samantha_4_label_ac78ac2d:
 
     # Victoria "Oh, why am I surprised? You're Leonheart's student."
-    Victoria ""
+    Victoria "Oh, bakit ako nagulat? Estudyante ka ni Leonheart."
 
 # game/logic/events/victoria.rpy:283
 translate philippine Samantha_4_label_51355ece:
 
     # Victoria "You know this isn't a joke, don't you?"
-    Victoria ""
+    Victoria "Alam mo namang hindi biro ito diba?"
 
 # game/logic/events/victoria.rpy:284
 translate philippine Samantha_4_label_bdbdcc2d:
 
     # Victoria "If you don't find the cause of the ruptured magical ligaments, it could happen again."
-    Victoria ""
+    Victoria "Kung hindi mo mahanap ang sanhi nito, maaari itong mangyari ulit."
 
 # game/logic/events/victoria.rpy:285
 translate philippine Samantha_4_label_71bc8536:
 
     # ch_Name "{i}(What have you gotten yourself into, Sam?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ano ang nangyayari sa iyo, Sam?){/i}"
 
 # game/logic/events/victoria.rpy:286
 translate philippine Samantha_4_label_e3a667b3:
 
     # ch_Name "{i}(I'll have to have a serious talk with her and find out the truth...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kailangan kong makipag-usap nang seryoso sa kanya at alamin ang totoo...){/i}"
 
 # game/logic/events/victoria.rpy:287
 translate philippine Samantha_4_label_be491b2e:
 
     # Victoria "Are you going to run to me every time and waste rare academy resources?"
-    Victoria ""
+    Victoria "Pupunta ka ba sa akin sa bawat pagkakataon at mag-aaksaya ng mga mapagkukunan ng akademya?"
 
 # game/logic/events/victoria.rpy:289
 translate philippine Samantha_4_label_a32757f5:
 
     # ch_Name "No. I will solve this problem. I'll find the reason."
-    ch_Name ""
+    ch_Name "Hindi. Aayusin ko ang problemang ito. Hahanapin ko ang dahilan."
 
 # game/logic/events/victoria.rpy:290
 translate philippine Samantha_4_label_5f1f5623:
 
     # Victoria "You? A first-year student?"
-    Victoria ""
+    Victoria "Ikaw? Isang estudyante sa kanyang unang taon?"
 
 # game/logic/events/victoria.rpy:291
 translate philippine Samantha_4_label_23c5b85a:
 
     # Victoria "Yes. Trust me."
-    Victoria ""
+    Victoria "Oo. Maniwala ka sa akin."
 
 # game/logic/events/victoria.rpy:293
 translate philippine Samantha_4_label_c62c428f:
 
     # Victoria "Yes, you have a lot of confidence. But you have a problem with wisdom..."
-    Victoria ""
+    Victoria "Oo, may kumpiyansa ka. Pero may problema ka sa karunungan..."
 
 # game/logic/events/victoria.rpy:294
 translate philippine Samantha_4_label_4084cc2c:
 
     # ch_Name "{i}(This is a failure...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ito ay isang kabiguan...){/i}"
 
 # game/logic/events/victoria.rpy:295
 translate philippine Samantha_4_label_ff4753d5:
 
     # ch_Name "{i}(We'll have to bring Samantha in.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kailangan nating dahlin dito si Samantha.){/i}"
 
 # game/logic/events/victoria.rpy:296
 translate philippine Samantha_4_label_5201247d:
 
     # ch_Name "{i}(Or find a compress somewhere else.){/i}"
-    ch_Name ""
+    ch_Name "{i}(O maghanap ng compress sa ibang lugar.){/i}"
 
 # game/logic/events/victoria.rpy:298
 translate philippine Samantha_4_label_68fe6155:
 
     # ch_Name "{i}(At least it looks good.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parang maayos na ito.){/i}"
 
 # game/logic/events/victoria.rpy:299
 translate philippine Samantha_4_label_40037b21:
 
     # ch_Name "{i}(I didn't waste my time.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi ako nag-aksaya ng oras.){/i}"
 
 # game/logic/events/victoria.rpy:301
 translate philippine Samantha_4_label_f8d9eb37:
 
     # Victoria "But wisdom comes with experience."
-    Victoria ""
+    Victoria "Ngunit ang karunungan ay kasama ng karanasan."
 
 # game/logic/events/victoria.rpy:302
 translate philippine Samantha_4_label_07a0854d:
 
     # ch_Name "I don't understand. You're giving me the compress?"
-    ch_Name ""
+    ch_Name "Hindi ko maintindihan. Ibibigay mo sa akin?"
 
 # game/logic/events/victoria.rpy:303
 translate philippine Samantha_4_label_e44ffe31:
 
     # Victoria "And experience comes with mistakes. Go help your friend."
-    Victoria ""
+    Victoria "At ang karanasan ay kasama ng mga pagkakamali. Tulungan mo ang iyong kaibigan."
 
 # game/logic/events/victoria.rpy:304
 translate philippine Samantha_4_label_84d3dc7e:
 
     # ch_Name "Thank you!"
-    ch_Name ""
+    ch_Name "Salamat!"
 
 # game/logic/events/victoria.rpy:306
 translate philippine Samantha_4_label_2303c6a6:
 
     # Victoria "But promise me that if you don't find the cause of his injury soon..."
-    Victoria ""
+    Victoria "Ngunit ipangako mo sa akin na kung hindi mo mahanap ang dahilan..."
 
 # game/logic/events/victoria.rpy:307
 translate philippine Samantha_4_label_3a21ab60:
 
     # Victoria "You will come to me."
-    Victoria ""
+    Victoria "Pupunta ka sa akin."
 
 # game/logic/events/victoria.rpy:308
 translate philippine Samantha_4_label_1a8b70fd:
 
     # ch_Name "You have my word, Victoria. Thank you."
-    ch_Name ""
+    ch_Name "Pinapangako ko, Victoria. Salamat."
 
 # game/logic/events/victoria.rpy:309
 translate philippine Samantha_4_label_cb6c84f8:
 
     # Victoria "I believe you."
-    Victoria ""
+    Victoria "Naniniwala ako sa iyo."
 
 # game/logic/events/victoria.rpy:310
 translate philippine Samantha_4_label_33f454e0:
 
     # Victoria "Good luck to you."
-    Victoria ""
+    Victoria "Good luck sa iyo."
 
 # game/logic/events/victoria.rpy:323
 translate philippine Victoria_1_label_7c89fd18:
 
     # ch_Name "{i}(I wonder what's going to happen in class today.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ano kaya ang mangyayari sa klase ngayon?){/i}"
 
 # game/logic/events/victoria.rpy:325
 translate philippine Victoria_1_label_aedc1a63:
@@ -4492,17 +4492,17 @@ translate philippine Victoria_11_label_266596e7:
 translate philippine Victoria_11_label_e1d7e239:
 
     # ch_Name "{i}(Let's find out!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tignan nga natin!){/i}"
 
 translate philippine strings:
 
     # game/logic/events/victoria.rpy:8
     old "Ask for remedy"
-    new ""
+    new "Humingi ng lunas"
 
     # game/logic/events/victoria.rpy:8
     old "Talk to Victoria"
-    new ""
+    new "Kausapin si Victoria"
 
     # game/logic/events/victoria.rpy:446
     old "Be terrified"
@@ -4510,29 +4510,29 @@ translate philippine strings:
 
     # game/logic/events/victoria.rpy:551
     old "Answer modestly"
-    new ""
+    new "Sumagot nang mahinhin"
 
     # game/logic/events/victoria.rpy:551
     old "Answer confidently"
-    new ""
+    new "Sumagot nang may kumpiyansa"
 
     # game/logic/events/victoria.rpy:806
     old "Thank you"
-    new ""
+    new "Salamat"
 
     # game/logic/events/victoria.rpy:806
     old "Check out her breasts"
-    new ""
+    new "Tignan ang kanyang mga suso"
 
     # game/logic/events/victoria.rpy:1119
     old "Be silent"
-    new ""
+    new "Manahimik lang"
 
     # game/logic/events/victoria.rpy:1119
     old "Volunteer"
-    new ""
+    new "Magboluntaryo"
 
     # game/logic/events/victoria.rpy:1413
     old "Look in mirror"
-    new ""
+    new "Tumingin sa salamin"
 
