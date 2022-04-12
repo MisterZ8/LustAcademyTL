@@ -16,7 +16,7 @@ translate chinese start_54c881dc:
 translate chinese start_input_2_a0ecd7a8:
 
     # ch_Name "My name is [Name] [Surname] and I am 18 years old."
-    ch_Name "我叫[Surname] [Name]，今年18岁。"
+    ch_Name "我叫[Name] [Surname]，今年18岁。"
 
 # game/script.rpy:774
 translate chinese start_input_2_f789cadc:
@@ -70,13 +70,13 @@ translate chinese start_input_2_55620e58:
 translate chinese start_input_2_a8a5cb72:
 
     # ch_Name "As it turns out, I'm a natural!"
-    ch_Name "事实证明，我是天生的!"
+    ch_Name "事实证明，我有这个天赋!"
 
 # game/script.rpy:793
 translate chinese start_input_2_e0b7f024:
 
     # ch_Name "Now I work part-time as a photographer to save money for college."
-    ch_Name "现在我做兼职摄影师是为了攒钱上大学。"
+    ch_Name "现在我为了攒钱上大学做兼职摄影师。"
 
 # game/script.rpy:798
 translate chinese start_input_2_0eb03f84:
@@ -346,7 +346,7 @@ translate chinese start_input_2_3c004877:
 translate chinese start_input_2_668cf83e:
 
     # Olivia "And I talked Don out of kicking you out."
-    Olivia "我告诉Don不会把你赶出去。"
+    Olivia "我告诉Don不要把你赶出去。"
 
 # game/script.rpy:943
 translate chinese start_input_2_cbbc98eb:
@@ -412,7 +412,7 @@ translate chinese start_input_2_8ac87752:
 translate chinese start_input_2_833ce195:
 
     # Olivia "You don't have to pay for August, but..."
-    Olivia "你不用为八月付钱，但是..."
+    Olivia "你不付八月的钱，但是..."
 
 # game/script.rpy:965
 translate chinese start_input_2_db8f91ff:
@@ -626,7 +626,7 @@ translate chinese strings:
 
     # game/script.rpy:120
     old "Sleep"
-    new "睡眠"
+    new "睡觉"
 
     # game/script.rpy:122
     old "Inner Garden"
@@ -734,7 +734,7 @@ translate chinese strings:
 
     # game/script.rpy:174
     old "Main Street"
-    new "咖啡小屋"
+    new "主干道"
 
     # game/script.rpy:176
     old "Coffee Hut"
@@ -790,7 +790,7 @@ translate chinese strings:
 
     # game/script.rpy:208
     old "rude humor, scenes that depict smoking or infrequent use of profanity."
-    new "粗鲁的幽默，描述吸烟或不经常使用脏话的场景。"
+    new "粗俗的幽默，描述吸烟或不经常使用脏话的场景。"
 
     # game/script.rpy:330
     old "Warning!"
