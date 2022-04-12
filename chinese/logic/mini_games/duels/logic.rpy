@@ -22,13 +22,13 @@ translate chinese test_duel_game_start_f80b189c:
 translate chinese test_duel_game_start_77c82957:
 
     # Jacob "Student to my right represents the house [f_now]!"
-    Jacob "我右边的学生代表房子[f_now]!"
+    Jacob "我右边的学生代表[f_now]分院!"
 
 # game/logic/mini_games/duels/logic.rpy:2156
 translate chinese test_duel_game_start_8e46ead1:
 
     # Jacob "Student to my left represents the house Leonheart!"
-    Jacob "我左边的学生代表Leonheart家族!"
+    Jacob "我左边的学生代表Leonheart分院!"
 
 # game/logic/mini_games/duels/logic.rpy:2158
 translate chinese test_duel_game_start_4df77c95:
@@ -40,7 +40,7 @@ translate chinese test_duel_game_start_4df77c95:
 translate chinese test_duel_game_start_aa59c47b:
 
     # Jacob "And may the strongest win!"
-    Jacob "并且可能是最强的获胜!"
+    Jacob "并且最强者才能获胜!"
 
 # game/logic/mini_games/duels/logic.rpy:2168
 translate chinese test_duel_game_start_368f8719:
@@ -76,7 +76,7 @@ translate chinese test_duel_lose_681664bf:
 translate chinese test_duel_lose_58203aaa:
 
     # UnknownGirl "{b}Combat bolt!{/b}"
-    UnknownGirl "{b}战斗螺栓!{/b}"
+    UnknownGirl "{b}战斗弓箭!{/b}"
 
 # game/logic/mini_games/duels/logic.rpy:2373
 translate chinese test_duel_lose_a30443e9:
@@ -106,7 +106,7 @@ translate chinese end_duel_37310b9f:
 translate chinese end_duel_61eb1d29:
 
     # Jacob "Victory to the House of Leonheart!"
-    Jacob "胜利属于Leonheart家族!"
+    Jacob "胜利属于Leonheart分院!"
 
 # game/logic/mini_games/duels/logic.rpy:2559
 translate chinese end_duel_9a6c67b5:
@@ -124,7 +124,7 @@ translate chinese end_duel_9af6ed18:
 translate chinese end_duel_f815f9fd:
 
     # Jacob "...see to the loser."
-    Jacob "...照顾失败者。"
+    Jacob "...去看看失败者。"
 
 translate chinese strings:
 
@@ -178,7 +178,7 @@ translate chinese strings:
 
     # game/logic/mini_games/duels/logic.rpy:1747
     old "points"
-    new "点数"
+    new "分数"
 
     # game/logic/mini_games/duels/logic.rpy:2173
     old "Get ready to lose your house points, loser!"
@@ -222,7 +222,7 @@ translate chinese strings:
 
     # game/logic/mini_games/duels/logic.rpy:2543
     old "Those were easy points for Leonheart."
-    new "这些对Leonheart来说很容易。"
+    new "这些分对Leonheart来说很容易得。"
 
     # game/logic/mini_games/duels/logic.rpy:2543
     old "I like you better when you're quiet."
