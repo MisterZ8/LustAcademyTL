@@ -154,7 +154,7 @@ translate chinese Outro_1_label_375a27c5:
 translate chinese Outro_1_label_d37d027e:
 
     # Elijah "And Christmas vacation is for spending it with relatives."
-    Elijah "而圣诞假期是用来和亲戚一起度过的。"
+    Elijah "而圣诞假期是用来和家人一起度过的。"
 
 # game/logic/events/outro.rpy:41
 translate chinese Outro_1_label_cf8eb5e1:
@@ -376,7 +376,7 @@ translate chinese Outro_1_label_75a248b6:
 translate chinese Outro_1_label_d9141ab6:
 
     # ch_Name "I wish I had your confidence."
-    ch_Name "我希望我有你的信心。"
+    ch_Name "我希望我有跟你一样有信心。"
 
 # game/logic/events/outro.rpy:95
 translate chinese Outro_1_label_f0615303:
@@ -1048,7 +1048,7 @@ translate chinese Outro_2_label_fa5999b6:
 translate chinese Outro_2_label_6ded627d:
 
     # Samantha "What's the phone for?"
-    Samantha "这款手机是用来做什么的？"
+    Samantha "那手机是用来干什么的？"
 
 # game/logic/events/outro.rpy:282
 translate chinese Outro_2_label_5ca11265:
@@ -1450,7 +1450,7 @@ translate chinese Outro_2_label_L_115_7ec2096f:
 translate chinese Outro_2_label_L_115_ab7c5b43:
 
     # Haley "I have to lie to them. It's not like I can tell them I'm a magician."
-    Haley "我必须对他们撒谎。我又不能告诉他们我是个魔术师。"
+    Haley "我必须对他们撒谎。我又不能告诉他们我是个魔法师。"
 
 # game/logic/events/outro.rpy:422
 translate chinese Outro_2_label_L_115_9617e8b9:
@@ -1594,7 +1594,7 @@ translate chinese Outro_2_label_L_115_1579f14c:
 translate chinese Outro_2_label_L_115_a82ff8c8:
 
     # ch_Name "Come on, we don't want to be late."
-    ch_Name "来吧，我们不想迟到。"
+    ch_Name "来吧，我们别迟到。"
 
 # game/logic/events/outro.rpy:463
 translate chinese Outro_2_label_L_202_70c0a916:
@@ -1672,7 +1672,7 @@ translate chinese Outro_2_label_L_202_cfeb18ea:
 translate chinese Outro_2_label_L_202_4a1ad9bc:
 
     # Lily "Oh, Mom. There's a principal here who wants to talk...."
-    Lily "哦，妈妈。这里有一位校长想谈谈。。。"
+    Lily "哦，妈妈。这里有一位校长想跟我谈谈。。。"
 
 # game/logic/events/outro.rpy:480
 translate chinese Outro_2_label_L_202_73deb4bd:
@@ -1816,13 +1816,13 @@ translate chinese Outro_2_label_L_202_e2f45d5c:
 translate chinese Outro_2_label_L_202_35a555ff:
 
     # Lily "The worst thing about this trip is that you'll be far away..."
-    Lily "这次旅行最糟糕的是，你将会在远方。。。"
+    Lily "这次旅行最糟糕的是，会离你很远。。。"
 
 # game/logic/events/outro.rpy:510
 translate chinese Outro_2_label_L_202_d22f3120:
 
     # Lily "But maybe I can bring another good memory with me there?"
-    Lily "但也许我可以把另一个美好的回忆带到那里？"
+    Lily "但也许我可以把一个美好的回忆带到回去？"
 
 # game/logic/events/outro.rpy:512
 translate chinese Outro_2_label_L_202_a48200e0:
@@ -1918,7 +1918,7 @@ translate chinese Outro_2_label_L_202_a9c3265f:
 translate chinese Outro_2_label_L_202_a4a3694b:
 
     # Joshi "You two lovebirds are out of conscience."
-    Joshi "你们两个爱情鸟是出于良心。"
+    Joshi "这两个爱情鸟真没良心。"
 
 # game/logic/events/outro.rpy:535
 translate chinese Outro_2_label_L_202_f9c44acc:
@@ -1972,7 +1972,7 @@ translate chinese Outro_2_label_L_202_b192667d:
 translate chinese Outro_2_label_L_202_623cbe24:
 
     # Lily "What do you think if we go..."
-    Lily "如果我们去，你怎么看。。。"
+    Lily "你觉得如果我们去。。。"
 
 # game/logic/events/outro.rpy:547
 translate chinese Outro_2_label_L_202_b4c8c248:
@@ -1990,7 +1990,7 @@ translate chinese Outro_2_label_L_202_fa44c2a1:
 translate chinese Outro_2_label_L_202_5d6ac103:
 
     # ch_Name "Can't they just not answer?"
-    ch_Name "他们就不能不回答吗？"
+    ch_Name "就不能不接他们电话吗？"
 
 # game/logic/events/outro.rpy:552
 translate chinese Outro_2_label_L_202_158b9619:
@@ -2050,7 +2050,7 @@ translate chinese Outro_2_label_L_202_05d14571:
 translate chinese Outro_2_label_L_202_7a73ee74:
 
     # ch_Name "Well, there's..."
-    ch_Name "嗯，有的。。。"
+    ch_Name "嗯，这。。。"
 
 # game/logic/events/outro.rpy:567
 translate chinese Outro_2_label_L_202_315fd980:
@@ -2152,13 +2152,13 @@ translate chinese Outro_2_label_L_202_5a65a1d5:
 translate chinese Outro_2_label_L_202_7d2637a9:
 
     # Lily "And hear about my irresponsibility when I get there? Oh, no."
-    Lily "当我到达那里时，听到我的不负责任吗？哦，不。"
+    Lily "当我回家后，说我的不负责任吗？哦，不。"
 
 # game/logic/events/outro.rpy:589
 translate chinese Outro_2_label_L_202_cb76b46c:
 
     # Lily "I have to take this."
-    Lily "我必须接受这个。"
+    Lily "我必须接这个电话。"
 
 # game/logic/events/outro.rpy:590
 translate chinese Outro_2_label_L_202_8f1a642a:
@@ -2188,13 +2188,13 @@ translate chinese Outro_2_label_L_202_b15489ef:
 translate chinese Outro_2_label_L_202_83cbf0c3:
 
     # Lily "No, of course, not more important than the mother herself. But it's the principal..."
-    Lily "不，当然，不比母亲本人更重要。但它是校长。"
+    Lily "不，当然，不比母亲本人更重要。但那是校长。"
 
 # game/logic/events/outro.rpy:596
 translate chinese Outro_2_label_L_202_a0813e8b:
 
     # Lily "Yes, Mammy. Sorry, I'm listening, I'm not interrupting."
-    Lily "是的，妈咪。对不起，我在听，我没有插话。"
+    Lily "是的，妈咪。对不起，我在听，我没有插嘴。"
 
 # game/logic/events/outro.rpy:597
 translate chinese Outro_2_label_L_202_248b8e39:
@@ -2236,7 +2236,7 @@ translate chinese Outro_2_label_L_305_bead6911:
 translate chinese Outro_2_label_L_305_ffd9f122:
 
     # Naomi "Oh, hey, [Name]. Just standing around, talking..."
-    Naomi "哦，嘿，[Name]。只是站在那里，说话。。。"
+    Naomi "哦，嘿，[Name]。别只站在那里，说话啊。。。"
 
 # game/logic/events/outro.rpy:616
 translate chinese Outro_2_label_L_305_821dff86:
@@ -2284,13 +2284,13 @@ translate chinese Outro_2_label_L_305_7ad61d0c:
 translate chinese Outro_2_label_L_305_4b8e50df:
 
     # Naomi "Dakota, do you mind if [Name] and I go out for a while?"
-    Naomi "达科他，你介意我和[Name]出去一下吗？"
+    Naomi "Dakota，你介意我和[Name]出去一下吗？"
 
 # game/logic/events/outro.rpy:627
 translate chinese Outro_2_label_L_305_040512ba:
 
     # Dakota "I don't care."
-    Dakota "我不在意。"
+    Dakota "没关系。"
 
 # game/logic/events/outro.rpy:628
 translate chinese Outro_2_label_L_305_89c41449:
@@ -2302,7 +2302,7 @@ translate chinese Outro_2_label_L_305_89c41449:
 translate chinese Outro_2_label_L_305_1fd99557:
 
     # Naomi "Then I'll be right back."
-    Naomi "然后我马上回来。"
+    Naomi "我马上回来。"
 
 # game/logic/events/outro.rpy:636
 translate chinese Outro_2_label_L_305_72db89dc:
@@ -2362,7 +2362,7 @@ translate chinese Outro_2_label_L_305_bb8aaf2f:
 translate chinese Outro_2_label_L_305_d7e04824:
 
     # Naomi "I'm not coming back for my second semester, [Name]..."
-    Naomi "我的第二个学期不会回来，[Name]。。。。"
+    Naomi "第二个学期我不会回来，[Name]。。。。"
 
 # game/logic/events/outro.rpy:648
 translate chinese Outro_2_label_L_305_bfa6ae55:
@@ -2386,7 +2386,7 @@ translate chinese Outro_2_label_L_305_b095bb4b:
 translate chinese Outro_2_label_L_305_37cbfd0e:
 
     # ch_Name "I can't believe I won't see you for six months..."
-    ch_Name "我不相信我将有六个月见不到你。。。"
+    ch_Name "难以相信我将有六个月见不到你。。。"
 
 # game/logic/events/outro.rpy:656
 translate chinese Outro_2_label_L_305_e2b4003f:
@@ -2398,13 +2398,13 @@ translate chinese Outro_2_label_L_305_e2b4003f:
 translate chinese Outro_2_label_L_305_f7822d23:
 
     # Naomi "I think I know what you're getting at..."
-    Naomi "我想我知道你在说什么。。。"
+    Naomi "我想我知道你想干什么。。。"
 
 # game/logic/events/outro.rpy:659
 translate chinese Outro_2_label_L_305_a055e1fe:
 
     # Naomi "You're a naughty boy, [Name]."
-    Naomi "你是个顽皮的孩子，[Name]。"
+    Naomi "你是个坏男孩，[Name]。"
 
 # game/logic/events/outro.rpy:660
 translate chinese Outro_2_label_L_305_a507c0d4:
@@ -2422,7 +2422,7 @@ translate chinese Outro_2_label_L_305_39a3c03f:
 translate chinese Outro_2_label_L_305_171c0a3f:
 
     # Naomi "Follow me."
-    Naomi "跟着我。"
+    Naomi "跟我来。"
 
 # game/logic/events/outro.rpy:664
 translate chinese Outro_2_label_L_305_eece1047:
@@ -2578,7 +2578,7 @@ translate chinese Outro_2_label_L_305_61c1bb6c:
 translate chinese Outro_2_label_L_305_43097dc6:
 
     # ch_Name "I... I'm so close..."
-    ch_Name "我。。。我是如此接近。。。"
+    ch_Name "我。。。我要射了。。。"
 
 # game/logic/events/outro.rpy:705
 translate chinese Outro_2_label_L_305_fc73d342:
@@ -2668,7 +2668,7 @@ translate chinese Outro_2_label_L_305_74b92aae:
 translate chinese Outro_2_label_L_305_c0a1f27e:
 
     # Naomi "Yeah, well, Daddy can be very insistent..."
-    Naomi "是啊，爸爸可以非常坚持。。。"
+    Naomi "是啊，但是，爸爸非常坚持。。。"
 
 # game/logic/events/outro.rpy:732
 translate chinese Outro_2_label_L_305_d71db193:
@@ -2680,7 +2680,7 @@ translate chinese Outro_2_label_L_305_d71db193:
 translate chinese Outro_2_label_L_305_dd8722f6:
 
     # Naomi "Thank you for being here for me.{w} I'm gonna miss you."
-    Naomi "谢谢你在我身边。{w}我会想念你的。"
+    Naomi "谢谢跟我来这。{w}我会想念你的。"
 
 # game/logic/events/outro.rpy:735
 translate chinese Outro_2_label_L_305_b9059f21:
@@ -3040,19 +3040,19 @@ translate chinese Outro_2_label_L_431_d5d07172:
 translate chinese Outro_2_label_L_431_d9800d91:
 
     # Samantha "I'm proud of how strong you are."
-    Samantha "我为你的坚强感到骄傲。"
+    Samantha "我为你的强壮感到骄傲。"
 
 # game/logic/events/outro.rpy:837
 translate chinese Outro_2_label_L_431_78427aac:
 
     # ch_Name "You are?"
-    ch_Name "你是？"
+    ch_Name "你确定？"
 
 # game/logic/events/outro.rpy:839
 translate chinese Outro_2_label_L_431_cd038b46:
 
     # Samantha "Of course, I am."
-    Samantha "当然，我是。"
+    Samantha "当然，我确定。"
 
 # game/logic/events/outro.rpy:840
 translate chinese Outro_2_label_L_431_1b0ec9fe:
@@ -3160,13 +3160,13 @@ translate chinese Outro_2_label_L_431_1613637f:
 translate chinese Outro_2_label_L_431_fa464ce3:
 
     # Samantha "Of course, I am!"
-    Samantha "当然，我是!"
+    Samantha "当然，我准备好了!"
 
 # game/logic/events/outro.rpy:866
 translate chinese Outro_2_label_L_431_f2cc1bd2:
 
     # ch_Name "{i}(Her beautiful legs are so close...){/i}"
-    ch_Name "{i}（她美丽的双腿是如此接近。。。）{/i}"
+    ch_Name "{i}（她美丽的双腿如此靠近我。。。）{/i}"
 
 # game/logic/events/outro.rpy:868
 translate chinese Outro_2_label_L_431_841469ca:
@@ -3214,19 +3214,19 @@ translate chinese Outro_2_label_L_431_712d7d8d:
 translate chinese Outro_2_label_L_431_8bf70e37:
 
     # Samantha "You know, I feel like I should pay you back for this pleasure..."
-    Samantha "你知道吗，我觉得我应该回报你的这份快乐。。。"
+    Samantha "你知道吗，我觉得我应该回报你的这份舒适。。。"
 
 # game/logic/events/outro.rpy:878
 translate chinese Outro_2_label_L_431_b09e1b33:
 
     # Samantha "But I'd feel more comfortable massaging you if you took your clothes off."
-    Samantha "但如果你把衣服脱了，我觉得给你按摩会更舒服。"
+    Samantha "但如果你把衣服脱了，我觉得你的按摩会更舒服。"
 
 # game/logic/events/outro.rpy:879
 translate chinese Outro_2_label_L_431_3f1987d8:
 
     # ch_Name "{i}(I... Did I hear that?){/i}"
-    ch_Name "{i}（我。。。我听到了吗？）{/i}"
+    ch_Name "{i}（我。。。我听到了啥？）{/i}"
 
 # game/logic/events/outro.rpy:880
 translate chinese Outro_2_label_L_431_32836a9a:
@@ -3286,13 +3286,13 @@ translate chinese Outro_2_label_L_431_37be5155:
 translate chinese Outro_2_label_L_431_ef712276:
 
     # ch_Name "Oh, yeah, there you go."
-    ch_Name "哦，是的，你去那里。"
+    ch_Name "哦，好的，给你。"
 
 # game/logic/events/outro.rpy:899
 translate chinese Outro_2_label_L_431_c1413864:
 
     # Samantha "You like that? Do you?"
-    Samantha "你喜欢这个吗？你喜欢吗？"
+    Samantha "你喜欢这样吗？你喜欢吗？"
 
 # game/logic/events/outro.rpy:901
 translate chinese Outro_2_label_L_431_fb7303d3:
@@ -3304,7 +3304,7 @@ translate chinese Outro_2_label_L_431_fb7303d3:
 translate chinese Outro_2_label_L_431_eb7b098a:
 
     # ch_Name "Are you kidding me? It's so good!"
-    ch_Name "你在跟我开玩笑吗？它是如此的好!"
+    ch_Name "你在跟我开玩笑吗？这感觉太好了!"
 
 # game/logic/events/outro.rpy:903
 translate chinese Outro_2_label_L_431_77a060ed:
@@ -3412,7 +3412,7 @@ translate chinese Outro_2_label_L_431_2b8a8ffd:
 translate chinese Outro_2_label_L_431_7f7a4ee5:
 
     # ch_Name "Why did you offer me this?"
-    ch_Name "你为什么要给我这个？"
+    ch_Name "你为什么为我做这个？"
 
 # game/logic/events/outro.rpy:927
 translate chinese Outro_2_label_L_431_598cfec1:
@@ -3466,7 +3466,7 @@ translate chinese Outro_2_label_L_431_96d1f3ee:
 translate chinese Outro_2_label_L_431_ba20d426:
 
     # ch_Name "Maybe you'd like to check out..."
-    ch_Name "也许你想去看看。"
+    ch_Name "也许你想看看。"
 
 # game/logic/events/outro.rpy:940
 translate chinese Outro_2_label_L_431_0bfe6d6b:
@@ -3520,7 +3520,7 @@ translate chinese Outro_2_label_L_431_1436ca23:
 translate chinese Outro_2_label_L_431_1b0e5499:
 
     # Samantha "You have talent."
-    Samantha "你有天赋。"
+    Samantha "你很有天赋。"
 
 # game/logic/events/outro.rpy:958
 translate chinese Outro_2_label_L_431_483cb572:
@@ -3610,7 +3610,7 @@ translate chinese Outro_2_label_L_431_54c29572:
 translate chinese Outro_2_label_L_431_609ac5bc:
 
     # Samantha "I have an idea how to make this massage even better..."
-    Samantha "我有一个想法，如何使这种按摩更加完美。。。"
+    Samantha "我有一个想法，可以让这种按摩更加完美。。。"
 
 # game/logic/events/outro.rpy:984
 translate chinese Outro_2_label_L_431_2c7fc799:
@@ -3688,7 +3688,7 @@ translate chinese Outro_2_label_L_431_ed876907:
 translate chinese Outro_2_label_L_431_a1f4891e:
 
     # ch_Name "Are you kidding? You're really great..."
-    ch_Name "你在开玩笑吗？你真的很伟大。。。"
+    ch_Name "你在开玩笑吗？你真的很棒。。。"
 
 # game/logic/events/outro.rpy:1002
 translate chinese Outro_2_label_L_431_744a16cd_2:
@@ -3766,7 +3766,7 @@ translate chinese Outro_2_label_L_431_c20747ee_1:
 translate chinese Outro_2_label_L_431_c24a90de:
 
     # Samantha "There you go! I told you you'd love the trains."
-    Samantha "你来了！我告诉你，你会喜欢这趟火车的。"
+    Samantha "好了！我告诉你了，你会喜欢这趟火车的。"
 
 # game/logic/events/outro.rpy:1018
 translate chinese Outro_2_label_L_431_40d4a5ce:
@@ -3790,13 +3790,13 @@ translate chinese Outro_2_label_L_431_77a060ed_1:
 translate chinese Outro_2_label_L_586_8d960fa8:
 
     # ch_Name "And to think..."
-    ch_Name "而且要思考。。。"
+    ch_Name "而且要考虑到。。。"
 
 # game/logic/events/outro.rpy:1037
 translate chinese Outro_2_label_L_586_b25dbace:
 
     # ch_Name "Six months ago, I thought magic only existed in children's fairy tales."
-    ch_Name "六个月前，我认为魔法只存在于儿童的童话故事中。"
+    ch_Name "六个月前，我认为魔法只存在于童话故事中。"
 
 # game/logic/events/outro.rpy:1038
 translate chinese Outro_2_label_L_586_fadfe099:
@@ -3844,7 +3844,7 @@ translate chinese Outro_2_label_L_586_616c35c8:
 translate chinese Outro_2_label_L_586_e68d9984:
 
     # Samantha "Enjoy life both as a normal person and as a magician."
-    Samantha "既要享受普通人的生活，又要享受魔术师的生活。"
+    Samantha "既要享受普通人的生活，又要享受魔法师的生活。"
 
 # game/logic/events/outro.rpy:1048
 translate chinese Outro_2_label_L_586_312d89e5:
@@ -4198,7 +4198,7 @@ translate chinese Outro_2_label_from_nv_f38d9d16:
 translate chinese Outro_2_label_from_nv_9247d604:
 
     # Samantha "I knew you missed me."
-    Samantha "我就知道你想我。"
+    Samantha "我就知道你会想我。"
 
 # game/logic/events/outro.rpy:210
 translate chinese Outro_2_label_from_nv_027b1c56_1:
