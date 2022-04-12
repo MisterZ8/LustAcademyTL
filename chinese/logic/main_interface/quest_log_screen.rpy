@@ -28,7 +28,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_screen.rpy:355
     old "   My\nhouse"
-    new "我的\n分院"
+    new "   我的\n分院"
 
     # game/logic/main_interface/quest_log_screen.rpy:440
     old "KNOWN SPEELS"
@@ -80,7 +80,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_screen.rpy:887
     old "avatars of the characters are icons, the decoding of which is next."
-    new "角色的化身是图标，接下来是对图标的解码。"
+    new "图标是角色的头像，旁边来是对图标的解释。"
 
     # game/logic/main_interface/quest_log_screen.rpy:1040
     old "This route is not available at this time of the day. Chosing this option will lead to a time skip. Continue?"
@@ -88,7 +88,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_screen.rpy:1046
     old "Decline"
-    new "下降"
+    new "拒绝"
 
 # TODO: Translation updated at 2022-03-03 04:01
 
@@ -96,7 +96,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_screen.rpy:386
     old "My\nhouse"
-    new "我的\n房子"
+    new "我的\n分院"
 
 # TODO: Translation updated at 2022-03-31 15:32
 
