@@ -38,7 +38,7 @@ translate chinese strings:
 
     # game/screens.rpy:1024
     old "Credits"
-    new "贡献榜"
+    new "制作组"
 
     # game/screens.rpy:1042
     old "Gallery"
