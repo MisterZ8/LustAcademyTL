@@ -1560,7 +1560,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "I was accepted into the Dueling Club, so I can come to the Academy Entrance every evening and take part in duels."
-    new "我被决斗俱乐部录取了，所以我每天晚上都能到学院的入口处参加决斗。"
+    new "我被接受加入决斗俱乐部了，所以我每天晚上都能到学院的入口处参加决斗。"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
     old "Whistley's Spa"
@@ -2360,7 +2360,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Adele is an energetic and entrepreneurial magician. After arriving in Dale penniless, she made her money dancing at a strip club, bought it out, and is now the sole owner of Lady Luck. Adele enjoys authority with her co-workers because she always  treats everyone with respect. She likes to dress flashy and takes pride in her gorgeous body."
-    new "Adele是一位精力充沛、富有创业精神的魔术师。来到Dale后，她身无分文，在一家脱衣舞俱乐部跳舞挣钱，买下了它，现在是Lady Luck的唯一所有者。Adele在同事中享有权威，因为她总是尊重每个人。她喜欢穿华而不实的衣服，为自己华丽的身体感到自豪。"
+    new "Adele是一位精力充沛、富有创业精神的魔法师。来到Dale后，她身无分文，在一家脱衣舞俱乐部跳舞挣钱，并买下了它，现在是Lady Luck的唯一所有者。Adele在同事中享有权威，因为她总是尊重每个人。她喜欢穿华而不实的衣服，为自己美丽动人的身材感到自豪。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Friendly and sweet elf Ahchi owns the most fabulous coffee shop in Dale. He is an absolute wizard of his craft and can create an indescribable palette of tastes from any ingredients. And you can always chat with him and discuss anything."
@@ -2392,7 +2392,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Queen of the House of Adderin and Samantha's arch-rival, Dakota, is a true embodiment of her house's values. She is used to being the first in everything and is ready to go over the heads for the sake of success. Even the teachers are afraid of her."
-    new "Adderin家族的女王和Samantha的主要竞争对手达Dakota是她家族价值观的真实体现。她已经习惯了在任何事情上都是第一位的，并且准备为了成功而超越一切。连老师都怕她。"
+    new "Adderin分院的女王和Samantha的主要竞争对手，Dakota是她的分院价值观的真实体现。她已经习惯了在任何事情上都是第一位的，并且时刻准备着为了成功而超越一切。连老师都怕她。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "From an early age Diego hung around with all sorts of scum and quickly made a name for himself and a pretty good fortune on criminal affairs. Everyone in Dale knows him as one of the most dangerous and reckless thugs. He was permanently banned from the Lady Luck Club for stalking Adele."
@@ -2412,11 +2412,11 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Frida is one of four students of the legendary Melissa Owlsight. Arriving with her from Europe, she helped to found Cordale Academy and established the house of Crowhive. Their top priorities have always been cold reasoning and a desire to accumulate and expand their knowledge of the magical world."
-    new "Frida是传说中的Melissa鹰眼的四名学生之一。她从欧洲来到这里，帮助创办了Cordale学院，并建立了Crowhive分院。他们的首要任务一直是冷静的推理，以及积累和扩展魔法世界知识的愿望。"
+    new "Frida是传说中的Melissa鹰眼的四名学生之一。她从欧洲来到这里，帮助创办了Cordale学院，并建立了Crowhive分院。分院的宗旨是冷静的推理，以及积累和扩展魔法世界知识的愿望。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "This year, Gabriella, a lively and cheerful latina, enrolled at Cordale in the Martenden house. She is interested in martial magic and is a regular at the Dueling club. Among other students, Gabi has a reputation of a dangerous and ruthless rival, though she looks like she could hurt a fly."
-    new "今年，活泼开朗的拉美裔Gabriella在Martenden house的Cordale报到。她对物质魔法很感兴趣，是决斗俱乐部的常客。在其他学生中，加比有一个危险而无情的对手的名声，尽管她看起来可能会伤害一只苍蝇。"
+    new "今年，活泼开朗的拉美裔Gabriella在Cordale的Martenden分院报到。她对物质魔法很感兴趣，是决斗俱乐部的常客。在其他学生中，Gabi有一个危险而无情的对手的名声，尽管她看起来可能会只能伤害一只苍蝇。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "An ugly creature that terrified anyone who dared to walk the streets of Dale at night for a long time. Barely able to speak but requests to be called Harvey. He is said to be somehow related to Sabrina because he constantly calls out her name and preys on girls who look like her."
@@ -2440,7 +2440,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Jaina is one of four students of the legendary Melissa Owlsight. Arriving with her from Europe, she helped to found Cordale Academy and established the house of Martenden. Their top priorities have always been hard work and good intentions."
-    new "Jaina是传说中的Melissa鹰眼的四名学生之一。与她一起从欧洲来到这里，她帮助建立了Cordale学院，并建立了Martenden分院。他们的首要任务一直是努力工作和良好意愿。"
+    new "Jaina是传说中的Melissa鹰眼的四名学生之一。与她一起从欧洲来到这里，她帮助建立了Cordale学院，并建立了Martenden分院。分院的宗旨是努力工作和良好意愿。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lovely Jill loves pranks and jokes. She and her twin sister Faith inherited Whistley's Spa massage parlor in Dale from their parents. They have a rare talent for healing magic, and their gift has made their salon one of the most popular in the region. "
@@ -2452,19 +2452,19 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Katrina is one of four students of the legendary Melissa Owlsight. Arriving with her from Europe, she helped to found Cordale Academy and established the house of Adderin. Their top priorities have always been pure blood and earning success in any way possible."
-    new "Katrina是传说中的Melissa鹰眼的四名学生之一。她从欧洲来到这里，帮助创办了Cordale学院，并建立了Adderin分院。他们的首要任务一直是纯血统和以任何可能的方式获得成功。"
+    new "Katrina是传说中的Melissa鹰眼的四名学生之一。她从欧洲来到这里，帮助创办了Cordale学院，并建立了Adderin分院。分院的宗旨是纯血统和以任何可能的方式获得成功。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Leona is one of four students of the legendary Melissa Owlsight. Arriving with her from Europe, she helped to found Cordale Academy and established the house of Leonheart. Their top priorities have always been сourage and honesty in all deeds."
-    new "Leona娜是传说中的Melissa鹰眼的四名学生之一。她从欧洲来到这里，帮助创办了Cordale学院，并建立了Leonheart分院。他们的首要任务一直是在所有行为中保持诚实和诚实。"
+    new "Leona娜是传说中的Melissa鹰眼的四名学生之一。她从欧洲来到这里，帮助创办了Cordale学院，并建立了Leonheart分院。分院的宗旨是在所有行为中保持诚实和诚实。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The gentle and slightly naive girl Lily, a young student of the House of Leonheart, is, in fact, a descendant of Leona Leonheart herself. Her parents are stringent and require Lily to succeed in everything in order not to shame the legacy of her great ancestors."
-    new "温柔而略带天真的女孩Lily是Leonheart家族的一名年轻学生，事实上，她也是利Leona Leonheart的后代。她的父母很严格，要求Lily在每件事上都要成功，以免羞辱她伟大祖先的遗产。"
+    new "温柔而略带天真的女孩Lily是Leonheart分院的一名年轻学生，事实上，她也是利Leona Leonheart的后代。她的父母很严格，要求Lily在每件事上都要成功，以免愧对她伟大祖先的遗产。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lucy is a young, friendly, and somewhat kinky dancer from the Lady Luck Club. She came to Dale from Europe in search of a better life. Lucy respects Adele and her co-workers but still dreams of leaving her stripper career one day to pursue her dreams and fulfill her ambitions."
-    new "Lucy是幸运女神俱乐部的一位年轻、友好、有点古怪的舞蹈演员。她从欧洲来到Dale寻求更好的生活。Lucy尊重Adele和她的同事，但她仍然梦想着有一天离开她的脱衣舞事业，去追求她的梦想，实现她的抱负。"
+    new "Lucy是Lady Luck俱乐部的一位年轻、友好、有点古怪的舞蹈演员。她从欧洲来到Dale寻求更好的生活。Lucy尊重Adele和她的同事，但她仍然梦想着有一天离开她的脱衣舞事业，去追求她的梦想，实现她的抱负。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Mina is a young and shy receptionist at the Dale-ly Apartments. She has a hard time connecting with her peers, so she communicates with the hotel's residents most of the time. Mina works to save up for a trip worldwide and is willing to do whatever it takes to get a promotion."
@@ -2472,7 +2472,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The hard-working businesswoman, Molly, is Arthur's niece. Instead of developing her magical talents, she decided to open her own cafe in Cordale and make money for her chain of restaurants. Arthur disapproves of his niece's choice but has no way of influencing it."
-    new "勤奋的女商人Molly是Arthur的侄女。她没有发展自己的魔法天赋，而是决定在Cordale开一家自己的咖啡馆，为连锁餐厅赚钱。Arthur不赞成他侄女的选择，但没有办法影响他的选择。"
+    new "勤奋的女商人Molly是Arthur的侄女。她没有发展自己的魔法天赋，而是决定在Cordale开一家自己的咖啡馆，为她的连锁餐厅赚钱。Arthur不赞成他侄女的选择，但没有办法影响她的选择。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Freshman Adderin Naomi wants to seem like a cold-hearted bitch to everyone, but she's actually a pretty sweet and vulnerable girl. Her parents are respected and influential mages who expect their daughter to be able to carry on the family business with dignity."
@@ -2484,7 +2484,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The young astral sorceress Penny is trained by the greatest astral magician Salazar Hudson and travels in search of rare artifacts on his instructions. On one of these trips, she got lost in the astral plane and almost lost her body, but everything turned out well."
-    new "年轻的星界女巫Penny接受了最伟大的灵魂魔术师Salazar Hudson的训练，按照他的指示四处寻找稀有的神器。在其中一次旅行中，她在灵界迷路了，差点失去了肉身，但一切都很顺利。"
+    new "年轻的灵界女巫Penny接受了最伟大的灵魂魔术师Salazar Hudson的训练，按照他的指示四处寻找稀有的神器。在其中一次旅行中，她在灵界迷路了，差点失去了肉身，但一切都很顺利。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lambert"
