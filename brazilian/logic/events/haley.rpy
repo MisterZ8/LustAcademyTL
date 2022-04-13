@@ -2164,79 +2164,79 @@ translate brazilian Haley_7_label_6498ea8e:
 translate brazilian Haley_7_label_6ee72ae7:
 
     # ch_Name "{i}(Well, If I'm not asleep, I should probably do something before classes.){/i}"
-    ch_Name ""
+    ch_Name ""{i}(Bem, se não estou dormindo, deveria fazer alguma coisa entre as aulas.){/i}
 
 # game/logic/events/haley.rpy:858
 translate brazilian haley_events_4_label_0_11dd609e:
 
     # ch_Name "{i}(Haley looks so peaceful in her sleep.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Haley parece tão tranquila enquanto dorme.){/i}"
 
 # game/logic/events/haley.rpy:859
 translate brazilian haley_events_4_label_0_54402612:
 
     # ch_Name "{i}(Let's take a closer look at you.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vamos dar uma olhada melhor em você.){/i}"
 
 # game/logic/events/haley.rpy:861
 translate brazilian haley_events_4_label_0_95bb1ad7:
 
     # ch_Name "{i}(Sleeping beauty...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bela adormecida...){/i}"
 
 # game/logic/events/haley.rpy:862
 translate brazilian haley_events_4_label_0_0a0f56f2:
 
     # ch_Name "{i}(It's not that cold here, though. Do we really need that blanket?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não está frio aqui, no entanto. Realmente precisamos desse cobertor?){/i}"
 
 # game/logic/events/haley.rpy:864
 translate brazilian haley_events_4_label_0_29d447b5:
 
     # ch_Name "{i}(So what are you hiding here, Haley...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Então, o que você está escondendo aqui, Haley...?){/i}"
 
 # game/logic/events/haley.rpy:865
 translate brazilian haley_events_4_label_0_8b842d7f:
 
     # ch_Name "{i}(Let's see...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vamos ver...){/i}"
 
 # game/logic/events/haley.rpy:867
 translate brazilian haley_events_4_label_0_ab189795:
 
     # ch_Name "{i}(Oh, wow...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, uau...){/i}"
 
 # game/logic/events/haley.rpy:868
 translate brazilian haley_events_4_label_0_56f92b12:
 
     # ch_Name "{i}(What a beauty...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que beleza...){/i}"
 
 # game/logic/events/haley.rpy:869
 translate brazilian haley_events_4_label_0_4e1d1bd4:
 
     # ch_Name "{i}(I'm sure I'm not dreaming?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tenho certeza que não estou sonhando?){/i}"
 
 # game/logic/events/haley.rpy:871
 translate brazilian haley_events_4_label_0_86444b62:
 
     # ch_Name "{i}(Sometimes you're even too gorgeous, Haley...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Às vezes você é até bonita demais, Haley...){/i}"
 
 # game/logic/events/haley.rpy:872
 translate brazilian haley_events_4_label_0_4af7f1ab:
 
     # ch_Name "{i}(How can I resist you...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Como posso resistir a você...){/i}"
 
 # game/logic/events/haley.rpy:873
 translate brazilian haley_events_4_label_0_2cf8f9cb:
 
     # ch_Name "{i}(I wonder what you're wearing underneath...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Imagino o que está vestindo por baixo...){/i}"
 
 # game/logic/events/haley.rpy:875
 translate brazilian haley_events_4_label_0_73c21bd3:
@@ -2248,193 +2248,193 @@ translate brazilian haley_events_4_label_0_73c21bd3:
 translate brazilian haley_events_4_label_0_d854112a:
 
     # ch_Name "{i}(Damn, I think she's gonna wake up any minute.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Droga, acho que ela vai acordar a qualquer instante.){/i}"
 
 # game/logic/events/haley.rpy:877
 translate brazilian haley_events_4_label_0_03d6a422:
 
     # ch_Name "{i}(Better get out of here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Melhor cair fora daqui.){/i}"
 
 # game/logic/events/haley.rpy:892
 translate brazilian haley_events_4_label_1_a967e354:
 
     # ch_Name "{i}(Haley always looks so peaceful in her sleep.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Haley parece tão tranquila enquanto dorme.){/i}"
 
 # game/logic/events/haley.rpy:893
 translate brazilian haley_events_4_label_1_54402612:
 
     # ch_Name "{i}(Let's take a closer look at you.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vamos dar uma olhada mais de perto.){/i}"
 
 # game/logic/events/haley.rpy:895
 translate brazilian haley_events_4_label_1_95bb1ad7:
 
     # ch_Name "{i}(Sleeping beauty...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bela adormecida...){/i}"
 
 # game/logic/events/haley.rpy:896
 translate brazilian haley_events_4_label_1_0a0f56f2:
 
     # ch_Name "{i}(It's not that cold here, though. Do we really need that blanket?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não está frio aqui. Precisamos mesmo desse cobertor?){/i}"
 
 # game/logic/events/haley.rpy:898
 translate brazilian haley_events_4_label_1_5ef406c5:
 
     # ch_Name "{i}(Still hiding from me under the blanket, Haley?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ainda se escondendo de mim sob o cobertor, Haley?){/i}"
 
 # game/logic/events/haley.rpy:899
 translate brazilian haley_events_4_label_1_45b010da:
 
     # ch_Name "{i}(Let's take that off...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vamos tirar isso...){/i}"
 
 # game/logic/events/haley.rpy:901
 translate brazilian haley_events_4_label_1_ab189795:
 
     # ch_Name "{i}(Oh, wow...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, uau...){/i}"
 
 # game/logic/events/haley.rpy:902
 translate brazilian haley_events_4_label_1_56f92b12:
 
     # ch_Name "{i}(What a beauty...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que beleza...){/i}"
 
 # game/logic/events/haley.rpy:903
 translate brazilian haley_events_4_label_1_8f10ba96:
 
     # ch_Name "{i}(Everytime I'm amazed at your beauty.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sempre estou impressionado com sua beleza.){/i}"
 
 # game/logic/events/haley.rpy:905
 translate brazilian haley_events_4_label_1_86444b62:
 
     # ch_Name "{i}(Sometimes you're even too gorgeous, Haley...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Às vezes você é até bonita demais, Haley...){/i}"
 
 # game/logic/events/haley.rpy:906
 translate brazilian haley_events_4_label_1_4af7f1ab:
 
     # ch_Name "{i}(How can I resist you...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Como posso resistir a você...){/i}"
 
 # game/logic/events/haley.rpy:907
 translate brazilian haley_events_4_label_1_47156fa9:
 
     # ch_Name "{i}(I wonder what you're wearing underneath today...){/i}"
-    ch_Name ""
+    ch_Name "{i}(O que será que você está usando por baixo hoje?){/i}"
 
 # game/logic/events/haley.rpy:909
 translate brazilian haley_events_4_label_1_93828498:
 
     # ch_Name "{i}(Haley, show me all of yourself...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Haley, se mostre toda para mim...){/i}"
 
 # game/logic/events/haley.rpy:910
 translate brazilian haley_events_4_label_1_f366cfd9:
 
     # ch_Name "{i}(I bet you're not just beautiful on top...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aposto que você não é bonita apenas em cima...){/i}"
 
 # game/logic/events/haley.rpy:912
 translate brazilian haley_events_4_label_1_a59c32be:
 
     # ch_Name "{i}(It exceeds all my expectations.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Isso ultrapassa minhas expectativas.){/i}"
 
 # game/logic/events/haley.rpy:913
 translate brazilian haley_events_4_label_1_1027f3c2:
 
     # ch_Name "{i}(I could look at you forever.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Poderia olhar para você para sempre.){/i}"
 
 # game/logic/events/haley.rpy:914
 translate brazilian haley_events_4_label_1_f89bb077:
 
     # ch_Name "{i}(But the clock is ticking.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas o tempo está passando.){/i}"
 
 # game/logic/events/haley.rpy:916
 translate brazilian haley_events_4_label_1_4a40c8af:
 
     # ch_Name "{i}(Is it just me, or are you bored?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sou só eu, ou você está entediada?){/i}"
 
 # game/logic/events/haley.rpy:917
 translate brazilian haley_events_4_label_1_81799734:
 
     # ch_Name "{i}(Let's get to the fun part...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vamos para a parte dievrtida...){/i}"
 
 # game/logic/events/haley.rpy:919
 translate brazilian haley_events_4_label_1_a2762f69:
 
     # ch_Name "{i}(What do we have here?){/i}"
-    ch_Name ""
+    ch_Name "{i}(O que temos aqui?){/i}"
 
 # game/logic/events/haley.rpy:920
 translate brazilian haley_events_4_label_1_15fff55a:
 
     # ch_Name "{i}(It's so hard to take your eyes off them.){/i}"
-    ch_Name ""
+    ch_Name "{i}(É tão difícil tirar os olhos deles.){/i}"
 
 # game/logic/events/haley.rpy:921
 translate brazilian haley_events_4_label_1_4f2a4bb9:
 
     # ch_Name "{i}(Especially when you're dressed like that...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Especialmente quando você está vestida dessa forma...){/i}"
 
 # game/logic/events/haley.rpy:922
 translate brazilian haley_events_4_label_1_0cbff8bb:
 
     # ch_Name "{i}(I wonder what this fabric feels like?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Como será a textura desse tecido?){/i}"
 
 # game/logic/events/haley.rpy:923
 translate brazilian haley_events_4_label_1_62487aa9:
 
     # ch_Name "{i}(Let's take a look at another piece of art...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vamos olhar para outra obra de arte...){/i}"
 
 # game/logic/events/haley.rpy:925
 translate brazilian haley_events_4_label_1_d3e3f53b:
 
     # ch_Name "{i}(Oh, Haley... Let me see your temple.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, Haley... Deixe-me ver seu templo.){/i}"
 
 # game/logic/events/haley.rpy:926
 translate brazilian haley_events_4_label_1_830604ee:
 
     # ch_Name "{i}(What could be more beautiful?){/i}"
-    ch_Name ""
+    ch_Name "{i}(O que poderia ser mais bonito?){/i}"
 
 # game/logic/events/haley.rpy:928
 translate brazilian haley_events_4_label_1_c42d6872:
 
     # ch_Name "{i}(And your legs...){/i}"
-    ch_Name ""
+    ch_Name "{i}(E suas pernas...){/i}"
 
 # game/logic/events/haley.rpy:929
 translate brazilian haley_events_4_label_1_09f31735:
 
     # ch_Name "{i}(Your soft skin makes me crazy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sua pele macia me deixa maluco.){/i}"
 
 # game/logic/events/haley.rpy:930
 translate brazilian haley_events_4_label_1_be60ff5c:
 
     # ch_Name "{i}(What's so playful through your transparent panties?){/i}"
-    ch_Name ""
+    ch_Name "{i}(O que é tão divertido através de sua calcinha transparente?){/i}"
 
 # game/logic/events/haley.rpy:931
 translate brazilian haley_events_4_label_1_396386d7:
 
     # ch_Name "{i}(It's tempting to touch...){/i}"
-    ch_Name ""
+    ch_Name "{i}(É tentador tocar...){/i}"
 
 # game/logic/events/haley.rpy:933
 translate brazilian haley_events_4_label_1_73c21bd3:
@@ -2446,13 +2446,13 @@ translate brazilian haley_events_4_label_1_73c21bd3:
 translate brazilian haley_events_4_label_1_70bb8333:
 
     # ch_Name "{i}(Damn, I think she could wake up any minute.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Droga, acho que ela pode acordar a qualquer momento.){/i}"
 
 # game/logic/events/haley.rpy:935
 translate brazilian haley_events_4_label_1_03d6a422:
 
     # ch_Name "{i}(Better get out of here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Melhor cair fora daqui.){/i}"
 
 # game/logic/events/haley.rpy:943
 translate brazilian haley_events_4_label_2_a967e354:
