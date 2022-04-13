@@ -232,7 +232,7 @@ translate english mina_1_label_24_142c23e7:
 translate english mina_1_label_24_d8596d2c:
 
     # Mina "Of course it does not."
-    Mina "^^^ check this sentence placement. Doesn't make sense in context"
+    Mina ""
 
 # game/logic/events/mina.rpy:90
 translate english mina_1_label_24_5539f319:
