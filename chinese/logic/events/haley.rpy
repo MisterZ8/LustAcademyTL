@@ -11274,10 +11274,6 @@ translate chinese strings:
     old "Don't look at Molly's butt"
     new "别看Molly的屁股"
 
-    # game/logic/events/haley.rpy:825
-    old "Take a look at Haley"
-    new "看看Haley"
-
     # game/logic/events/haley.rpy:1156
     old "Caricature of Sabrina"
     new "Sabrina的漫画"

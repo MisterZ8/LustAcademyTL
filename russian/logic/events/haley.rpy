@@ -11274,10 +11274,6 @@ translate russian strings:
     old "Don't look at Molly's butt"
     new "Не смотреть на задницу Молли"
 
-    # game/logic/events/haley.rpy:825
-    old "Take a look at Haley"
-    new "Взглянуть на Хейли"
-
     # game/logic/events/haley.rpy:1156
     old "Caricature of Sabrina"
     new "Карикатура на Сабрину"
