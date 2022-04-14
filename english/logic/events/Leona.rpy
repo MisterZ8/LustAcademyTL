@@ -4768,7 +4768,7 @@ translate english Leona_5_label_78ea733d:
 translate english Leona_5_label_3a9f300c:
 
     # ch_Name "{i}(Ever since Leona and I stopped the nightmares, I sleep like a baby.){/i}"
-    ch_Name "{i}(Since Leona and I stopped the Showerdragon, I've slept like a baby.){/i}"
+    ch_Name ""
 
 # game/logic/events/Leona.rpy:1336
 translate english Leona_5_label_b6ce45a5:
