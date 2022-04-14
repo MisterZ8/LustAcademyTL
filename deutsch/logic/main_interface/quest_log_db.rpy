@@ -4,7 +4,7 @@ translate deutsch strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "She's the mysterious hostess of the strip club called Lady Luck. It seems like she's in charge there. She once almost got raped by Diego."
-    new ""
+    new "Sie ist die geheimnisvolle Gastgeberin des Stripclubs Lady Luck. Es scheint, als hätte sie dort das Sagen. Einmal wurde sie fast von Diego vergewaltigt."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Cuill"
@@ -12,7 +12,7 @@ translate deutsch strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "This friendly elf is the best barista in all of Dale. Not only will he masterfully prepare any drink, but he's also happy to tell the customer interesting news and rumors from over the world."
-    new ""
+    new "Dieser freundliche Elf ist der Barista in ganz Dale. Er bereitet nicht nur jedes Getränk meisterhaft zu, sondern erzählt dem Kunden auch gerne interessante Neuigkeiten und Gerüchte aus der ganzen Welt."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Fiennes"
@@ -20,7 +20,7 @@ translate deutsch strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Cordale's librarian goes by the name Amelie. She loves books and smart people more than anything else in the world. I'm not sure, but it feels like she doesn't seem to mind having affairs with young guys."
-    new ""
+    new "Die Bibliothekarin von Cordale heißt Amelie. Sie liebt Bücherund kluge Leute mehr als alles andere auf der Welt. Ich bin mir nicht sicher, aber ich habe das Gefühl, dass es ihr nichts ausmacht, Affären mit jungen Männern zu haben."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Earhart"
@@ -28,7 +28,7 @@ translate deutsch strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Turns out that the statues in one of the gardens are actually alive! One of them even had a boner while we were walking there with Haley."
-    new ""
+    new "Es stellte sich heraus, dass die Statuen in einem der Gärten tatsächlich lebendig sind! Eine von ihnen hatte sogar einen Ständer, als ich mit Haley dort spazieren gegangen bin."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Angels"
@@ -36,11 +36,11 @@ translate deutsch strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Garden's story has come to an end."
-    new ""
+    new "Die Geschichte vom Garten ist zu Ende gegangen."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Arthur Doorman is the headmaster of the school and a respected member of the Wizarding Society. He is an example to all."
-    new ""
+    new "Arthur Doorman ist der Schulleiter dieser Akademie und ein angesehenes Mitglied der Zauberergesellschaft. Er ist ein Vorbild für alle."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Doorman IV"
@@ -48,7 +48,7 @@ translate deutsch strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Olivia and Don's youngest daughter, Ashley, is a prominent athlete who competes in artistic gymnastics."
-    new ""
+    new "Die jüngste Tochter von Olivia und Don, Ashley, ist eine herausragende Sportlerin, die im Kunstturnen antritt."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Rose"
@@ -56,27 +56,27 @@ translate deutsch strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Girl/Shemale"
-    new ""
+    new "Mädchen/Trans"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Audrey is Samantha's best friend. I think she's hiding something and Samantha is in on it too. She has a pretty bad temper."
-    new ""
+    new "Adrey ist die beste Freundin von Samantha. Ich glaube, sie verheimlicht etwas und Samantha weiß auch Bescheid. Sie hat eine ziemlich schlechte Laune."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Burns"
-    new ""
+    new "Brennt"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Carter is almost 30. He's the oldest student in the academy despite being a freshman. He's not very talkative."
-    new ""
+    new "Carter ist fast 30. Er ist der älteste Student der Akademie, obwohl er ein Studienanfänger ist. Er ist nicht sehr gesprächig."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Brown"
-    new ""
+    new "Braun"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "A nasty guy who fell in love with Adele after seeing her in a club. Tried to rape the girl, but was disgraced and sent running."
-    new ""
+    new "Ein fieser Typ, der sich in Adele verliebt hat, nachdem er sie im Club gesehen hat. Er versuchte, das Mädchen zu vergewaltigen, wurde aber in Ungnade fallen gelassen und weggeschickt."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Faradenza"
