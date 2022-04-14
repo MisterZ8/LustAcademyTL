@@ -195,7 +195,7 @@ translate portuguese romul_1_label_menu_bribe_18862a23:
 # game/logic/events/romul.rpy:107
 translate portuguese romul_1_label_menu_bribe_beb13fa7:
 
-    # Romul "What does that eveb mean?"
+    # Romul "What does that even mean?"
     Romul ""
 
 # game/logic/events/romul.rpy:108
@@ -285,7 +285,7 @@ translate portuguese romul_1_label_menu_bribe_18862a23_1:
 # game/logic/events/romul.rpy:129
 translate portuguese romul_1_label_menu_bribe_beb13fa7_1:
 
-    # Romul "What does that eveb mean?"
+    # Romul "What does that even mean?"
     Romul ""
 
 # game/logic/events/romul.rpy:130

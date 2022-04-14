@@ -3585,7 +3585,7 @@ translate chinese Samantha_8_label_c7a9ed9e:
 # game/logic/events/samantha.rpy:1168
 translate chinese Samantha_8_label_426aaa8b:
 
-    # ch_Name "Let be honest."
+    # ch_Name "Let's be honest."
     ch_Name "我们是诚实的。"
 
 # game/logic/events/samantha.rpy:1169

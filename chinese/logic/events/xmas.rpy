@@ -4143,7 +4143,7 @@ translate chinese Xmas_6_label_cfdd39d3:
 # game/logic/events/xmas.rpy:1108
 translate chinese Xmas_6_label_a58f5800:
 
-    # ch_Name "It's hard to take your eyes off you."
+    # ch_Name "It's hard to take my eyes off you."
     ch_Name "你的眼睛很难从你身上移开。"
 
 # game/logic/events/xmas.rpy:1110
@@ -5745,8 +5745,8 @@ translate chinese Xmas_6_label_6d269c6d:
 # game/logic/events/xmas.rpy:1476
 translate chinese Xmas_6_label_d94613a2:
 
-    # ch_Name "Yeah, feeling you squeeze every muscle in my vagina is priceless, too."
-    ch_Name "是啊，感觉你挤压我阴道的每一块肌肉也是无价的。"
+    # Selene "Yeah, feeling you squeeze every muscle in my vagina is priceless, too."
+    Selene "是啊，感觉你挤压我阴道的每一块肌肉也是无价的。"
 
 # game/logic/events/xmas.rpy:1477
 translate chinese Xmas_6_label_085a93e2:

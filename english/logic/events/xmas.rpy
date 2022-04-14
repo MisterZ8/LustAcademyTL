@@ -4143,7 +4143,7 @@ translate english Xmas_6_label_cfdd39d3:
 # game/logic/events/xmas.rpy:1108
 translate english Xmas_6_label_a58f5800:
 
-    # ch_Name "It's hard to take your eyes off you."
+    # ch_Name "It's hard to take my eyes off you."
     ch_Name ""
 
 # game/logic/events/xmas.rpy:1110
@@ -5745,8 +5745,8 @@ translate english Xmas_6_label_6d269c6d:
 # game/logic/events/xmas.rpy:1476
 translate english Xmas_6_label_d94613a2:
 
-    # ch_Name "Yeah, feeling you squeeze every muscle in my vagina is priceless, too."
-    ch_Name ""
+    # Selene "Yeah, feeling you squeeze every muscle in my vagina is priceless, too."
+    Selene ""
 
 # game/logic/events/xmas.rpy:1477
 translate english Xmas_6_label_085a93e2:
