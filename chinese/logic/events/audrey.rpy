@@ -20994,7 +20994,7 @@ translate chinese Audrey_13_label_b4f988de:
 # game/logic/events/audrey.rpy:5573
 translate chinese Audrey_13_label_1bf2ae13:
 
-    # ch_Name "{i}(When waking-up with phone's ringing became a kind of morning ritual?){/i}"
+    # ch_Name "{i}(When has waking up with the phone ringing become a kind of morning ritual?){/i}"
     ch_Name "{i}（当被电话铃声吵醒成为一种早晨的仪式？）{/i}"
 
 # game/logic/events/audrey.rpy:5574
@@ -21024,7 +21024,7 @@ translate chinese Audrey_13_label_643b7dab:
 # game/logic/events/audrey.rpy:5579
 translate chinese Audrey_13_label_e2145027:
 
-    # ch_Name "What are you talking about? What've happened?"
+    # ch_Name "What are you talking about? What's happened?"
     ch_Name "你在说什么？发生了什么事？"
 
 # game/logic/events/audrey.rpy:5580
@@ -21690,7 +21690,7 @@ translate chinese Audrey_13_label_menu_check_5bd6a548:
 # game/logic/events/audrey.rpy:5780
 translate chinese Audrey_13_label_menu_check_fdd4a3d4:
 
-    # ch_Name "Wow, that's look impressive."
+    # ch_Name "Wow! That looks impressive..."
     ch_Name "哇，这看起来令人印象深刻。"
 
 # game/logic/events/audrey.rpy:5781
@@ -22068,7 +22068,7 @@ translate chinese Audrey_13_label_menu_check_b20c8646:
 # game/logic/events/audrey.rpy:5865
 translate chinese Audrey_13_label_menu_check_4269174b:
 
-    # ch_Name "{i}(Whoa! It feels even more better!){/i}"
+    # ch_Name "{i}(Whoa! Now it feels even better!){/i}"
     ch_Name "{i}（哇! 感觉更棒了!）{/i}"
 
 # game/logic/events/audrey.rpy:5866

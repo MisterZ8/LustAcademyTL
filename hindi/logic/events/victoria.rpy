@@ -3081,7 +3081,7 @@ translate hindi Victoria_9_label_a18b061a:
 # game/logic/events/victoria.rpy:1100
 translate hindi Victoria_9_label_18c0e491:
 
-    # Victoria "As you all know at this lessons we study Battle Magic."
+    # Victoria "As you all know at these lessons we study Battle Magic."
     Victoria ""
 
 # game/logic/events/victoria.rpy:1101

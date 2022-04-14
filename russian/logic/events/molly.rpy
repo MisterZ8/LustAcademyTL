@@ -717,7 +717,7 @@ translate russian Molly_3_label_d1306351:
 # game/logic/events/molly.rpy:383
 translate russian Molly_3_label_609c44dd:
 
-    # ch_Name "All right, all right, I'll do it. I won't leave you in the lurch."
+    # ch_Name "Alright, alright, I'll do it. I won't leave you hanging."
     ch_Name "Ладно, ладно, я помогу. Я не оставлю тебя в беде."
 
 # game/logic/events/molly.rpy:384

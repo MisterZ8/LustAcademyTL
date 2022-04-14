@@ -2619,7 +2619,7 @@ translate spanish Samantha_6_label_b4326595:
 # game/logic/events/samantha.rpy:932
 translate spanish Samantha_6_label_19fd5df6:
 
-    # Samantha "Let's meet at noon in my room."
+    # Samantha "Let's meet in the evening in my room."
     Samantha ""
 
 # game/logic/events/samantha.rpy:933
@@ -3597,7 +3597,7 @@ translate spanish Samantha_8_label_48c8c9ac:
 # game/logic/events/samantha.rpy:1170
 translate spanish Samantha_8_label_013afe9b:
 
-    # ch_Name "And you know perfectly well that you're looking very good in this lingerie."
+    # ch_Name "And you know perfectly well that you're looking very good in that lingerie."
     ch_Name ""
 
 # game/logic/events/samantha.rpy:1171
@@ -5607,7 +5607,7 @@ translate spanish Samantha_11_label_4a9bfa4c:
 # game/logic/events/samantha.rpy:1684
 translate spanish Samantha_11_label_1a6f2f41:
 
-    # ch_Name "It's already midnight."
+    # ch_Name "It's already midday."
     ch_Name ""
 
 # game/logic/events/samantha.rpy:1685

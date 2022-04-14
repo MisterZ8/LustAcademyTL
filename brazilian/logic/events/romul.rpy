@@ -429,7 +429,7 @@ translate brazilian romul_1_label_menu_bribe_f932106d:
 # game/logic/events/romul.rpy:163
 translate brazilian romul_1_label_menu_bribe_66b18611:
 
-    # Romul "The girls complained, so you're banneded from entering forever."
+    # Romul "The girls complained, so you're banned from entering forever."
     Romul "As garotas reclamaram então você foi banido para sempre."
 
 # game/logic/events/romul.rpy:165

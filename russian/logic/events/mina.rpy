@@ -694,7 +694,7 @@ translate russian Mina_2_label_7985b9d6:
 # game/logic/events/mina.rpy:240
 translate russian Mina_2_label_1c55ea1f:
 
-    # Mina "And if my boss finds out that clients are happy, I won't get the promotion."
+    # Mina "And if my boss finds out clients aren't happy, I won't get a promotion."
     Mina ""
 
 # game/logic/events/mina.rpy:241

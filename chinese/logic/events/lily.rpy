@@ -7893,7 +7893,7 @@ translate chinese Lily_8_label_L_122_41f54cf8:
 # game/logic/events/lily.rpy:2426
 translate chinese Lily_8_label_L_122_3c767627:
 
-    # ch_Name "{i}(It's so tight and tight, I can't believe it...){/i}"
+    # ch_Name "{i}(It's so tight and wet, I can't believe it...){/i}"
     ch_Name "{i}(太紧了，我不敢相信。。。){/i}"
 
 # game/logic/events/lily.rpy:2427
@@ -10414,7 +10414,7 @@ translate chinese Lily_10_label_cf6f795f:
 # game/logic/events/lily.rpy:2962
 translate chinese Lily_10_label_d423ba34:
 
-    # Lily "I guess... I guess it is so."
+    # Lily "I guess... I guess it's true."
     Lily "我想。。。我猜是这样的。"
 
 # game/logic/events/lily.rpy:2963
@@ -10510,7 +10510,7 @@ translate chinese Lily_10_label_75ae5de0:
 # game/logic/events/lily.rpy:2981
 translate chinese Lily_10_label_7cba49e8:
 
-    # Lily "He-he, well, I doubly pleased to hear that from you."
+    # Lily "He-he, well I am doubly pleased to hear that from you."
     Lily "哈-哈，好吧，听到你这么说，我倍感高兴。"
 
 # game/logic/events/lily.rpy:2988
@@ -10798,7 +10798,7 @@ translate chinese Lily_10_label_da9ab177:
 # game/logic/events/lily.rpy:3053
 translate chinese Lily_10_label_68de5e52:
 
-    # ch_Name "Did something happened?"
+    # ch_Name "Did something happen?"
     ch_Name "发生了什么事吗？"
 
 # game/logic/events/lily.rpy:3054
@@ -10942,7 +10942,7 @@ translate chinese Lily_10_label_74ebce9c:
 # game/logic/events/lily.rpy:3082
 translate chinese Lily_10_label_f7da01fa:
 
-    # ch_Name "{i}(Alright. I better talk with her when she will be in the mood.){/i}"
+    # ch_Name "{i}(Alright. I better talk with her when she's in a better mood.){/i}"
     ch_Name "{i}（好吧。我最好在她有心情的时候和她谈谈。）{/i}"
 
 # game/logic/events/lily.rpy:3086

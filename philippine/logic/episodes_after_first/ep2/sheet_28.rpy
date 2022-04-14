@@ -1341,7 +1341,7 @@ translate philippine sheet_28_1_262_16_507485ad:
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:464
 translate philippine sheet_28_1_262_16_ad7f252b:
 
-    # Leona "Guess we'll have to beg for your forgivness..."
+    # Leona "Guess we'll have to beg for your forgiveness."
     Leona "Hihingi kami ng patawad sa iyo..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:466
@@ -1551,7 +1551,7 @@ translate philippine sheet_28_1_262_16_28a0d6bc:
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:535
 translate philippine sheet_28_1_262_16_fcea3e36:
 
-    # ch_Name "{i}(Sam is Leonheart, so does Haley. And that asian chick... Lily?){/i}"
+    # ch_Name "{i}(Sam is Leonheart, so is Haley. And that asian chick... Lily?){/i}"
     ch_Name "{i}(Nasa Leonheart sina Sam at Haley. At 'yung asyano... Lily?)"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:536

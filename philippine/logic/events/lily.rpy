@@ -7893,7 +7893,7 @@ translate philippine Lily_8_label_L_122_41f54cf8:
 # game/logic/events/lily.rpy:2426
 translate philippine Lily_8_label_L_122_3c767627:
 
-    # ch_Name "{i}(It's so tight and tight, I can't believe it...){/i}"
+    # ch_Name "{i}(It's so tight and wet, I can't believe it...){/i}"
     ch_Name "{i}(Napakasikip at sikip, hindi ako makapaniwala...){/i}"
 
 # game/logic/events/lily.rpy:2427

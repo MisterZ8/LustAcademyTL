@@ -387,7 +387,7 @@ translate chinese Penny_1_label_c6c65c42:
 # game/logic/events/Penny.rpy:113
 translate chinese Penny_1_label_0ae59c12:
 
-    # Penny "Then I will get out of the trans and return to my body. Only if my theory is right, of course..."
+    # Penny "Then I will break free of the trance and return to my body. Only if my theory is right, of course..."
     Penny "然后我就会从反转机里出来，回到我的身体里。当然，前提是我的理论是正确的。。。"
 
 # game/logic/events/Penny.rpy:114
@@ -627,7 +627,7 @@ translate chinese Penny_1_label_2eb102e3:
 # game/logic/events/Penny.rpy:169
 translate chinese Penny_1_label_56d0c68a:
 
-    # Penny "How it feels like?"
+    # Penny "How does it feel?"
     Penny "它的感觉如何？"
 
 # game/logic/events/Penny.rpy:170
@@ -1233,7 +1233,7 @@ translate chinese Penny_1_label_40691834:
 # game/logic/events/Penny.rpy:316
 translate chinese Penny_1_label_ad6033cc:
 
-    # ch_Name "{i}(Phew, so that’s how it looks like!){/i}"
+    # ch_Name "{i}(Phew, so that's what it looks like!){/i}"
     ch_Name "{i}（呵，原来是这样的！）{/i}"
 
 # game/logic/events/Penny.rpy:317
@@ -1251,7 +1251,7 @@ translate chinese Penny_1_label_b0aa0ac9:
 # game/logic/events/Penny.rpy:325
 translate chinese Penny_1_label_5da8bf80:
 
-    # Penny "I was the happiest girl in the world, I swear you, he-he."
+    # Penny "I was the happiest girl in the world, I swear to you, he-he."
     Penny "我是世界上最幸福的女孩，我向你发誓，哈哈。"
 
 # game/logic/events/Penny.rpy:326
@@ -1275,7 +1275,7 @@ translate chinese Penny_1_label_b0352f41:
 # game/logic/events/Penny.rpy:330
 translate chinese Penny_1_label_f9fc7bc1:
 
-    # Penny "That's too sad that we don't have all night, [Name]."
+    # Penny "It's too bad that we don't have all night, [Name]."
     Penny "我们没有整晚的时间，[Name]，这太悲哀了。"
 
 # game/logic/events/Penny.rpy:331

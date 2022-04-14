@@ -1485,7 +1485,7 @@ translate french Jill_4_label_from_gallery_dd2afa3d:
 # game/logic/events/jill.rpy:561
 translate french Jill_4_label_from_gallery_c156806b:
 
-    # Faith "It will help to remove muscle clamps and bring you overall relaxation."
+    # Faith "It will help to remove muscle cramps and bring you overall relaxation."
     Faith ""
 
 # game/logic/events/jill.rpy:563
@@ -1773,7 +1773,7 @@ translate french Jill_4_label_from_gallery_21ecad1c:
 # game/logic/events/jill.rpy:622
 translate french Jill_4_label_from_gallery_05b7e4a6:
 
-    # Faith "...which removes all clamps."
+    # Faith "...which removes all cramps."
     Faith ""
 
 # game/logic/events/jill.rpy:623

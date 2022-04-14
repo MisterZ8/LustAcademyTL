@@ -2861,7 +2861,7 @@ translate chinese strings:
     new "两个喝醉的女孩!?"
 
     # game/logic/locations/corridor.rpy:940
-    old "Take a look Haley"
+    old "Take a look at Haley"
     new "看看Haley"
 
     # game/logic/locations/corridor.rpy:953

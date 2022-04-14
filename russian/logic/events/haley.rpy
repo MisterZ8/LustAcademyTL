@@ -10905,7 +10905,7 @@ translate russian CF_Haley_4_label_faa06063:
 # game/logic/events/haley.rpy:3149
 translate russian CF_Haley_4_label_5183bde9:
 
-    # ch_Name "Do you get on well?"
+    # ch_Name "Do you get along well?"
     ch_Name "Вы нормально ладите?"
 
 # game/logic/events/haley.rpy:3150
@@ -13130,7 +13130,7 @@ translate russian Haley_19_label_from_gallery_dc76ed94:
 # game/logic/events/haley.rpy:3630
 translate russian Haley_19_label_from_gallery_515f8f58:
 
-    # Haley "Sometimes it's really hard to focus on the study when all my thoughts are about you..."
+    # Haley "Sometimes it's really hard to focus on my studies when all my thoughts are about you..."
     Haley ""
 
 # game/logic/events/haley.rpy:3631
@@ -13190,7 +13190,7 @@ translate russian Haley_19_label_from_gallery_f9d3413b:
 # game/logic/events/haley.rpy:3644
 translate russian Haley_19_label_from_gallery_2d2fb8b9:
 
-    # Haley "Oh, have you heard it?"
+    # Haley "Oh, did you hear that?"
     Haley ""
 
 # game/logic/events/haley.rpy:3645
@@ -13996,7 +13996,7 @@ translate russian Haley_19_label_from_gallery_ebfa4227:
 # game/logic/events/haley.rpy:3552
 translate russian Haley_19_label_from_gallery_52824972:
 
-    # ch_Name "{i}(I have to say her how I feel.){/i}"
+    # ch_Name "{i}(I have to tell her how I feel.){/i}"
     ch_Name ""
 
 # game/logic/events/haley.rpy:3553
@@ -14122,7 +14122,7 @@ translate russian Haley_19_label_from_gallery_dcc226e9:
 # game/logic/events/haley.rpy:3584
 translate russian Haley_19_label_from_gallery_58e36fe9:
 
-    # ch_Name "{i}(Is it getting cold in here?){/i}"
+    # ch_Name "{i}(Is it getting cold out here?){/i}"
     ch_Name ""
 
 # game/logic/events/haley.rpy:3586
@@ -14236,7 +14236,7 @@ translate russian Haley_19_label_from_gallery_bba7c3f1:
 # game/logic/events/haley.rpy:3664
 translate russian Haley_19_label_from_gallery_39ff1b66:
 
-    # Haley "Ops, I'm sorry we have bothered you."
+    # Haley "Ops, sorry to have bothered you."
     Haley ""
 
 # game/logic/events/haley.rpy:3670

@@ -7893,7 +7893,7 @@ translate russian Lily_8_label_L_122_41f54cf8:
 # game/logic/events/lily.rpy:2426
 translate russian Lily_8_label_L_122_3c767627:
 
-    # ch_Name "{i}(It's so tight and tight, I can't believe it...){/i}"
+    # ch_Name "{i}(It's so tight and wet, I can't believe it...){/i}"
     ch_Name "{i}(Там так узко и туго, поверить не могу...){/i}"
 
 # game/logic/events/lily.rpy:2427
@@ -10415,7 +10415,7 @@ translate russian Lily_10_label_cf6f795f:
 # game/logic/events/lily.rpy:2962
 translate russian Lily_10_label_d423ba34:
 
-    # Lily "I guess... I guess it is so."
+    # Lily "I guess... I guess it's true."
     Lily ""
 
 # game/logic/events/lily.rpy:2963
@@ -10511,7 +10511,7 @@ translate russian Lily_10_label_75ae5de0:
 # game/logic/events/lily.rpy:2981
 translate russian Lily_10_label_7cba49e8:
 
-    # Lily "He-he, well, I doubly pleased to hear that from you."
+    # Lily "He-he, well I am doubly pleased to hear that from you."
     Lily ""
 
 # game/logic/events/lily.rpy:2988
@@ -10799,7 +10799,7 @@ translate russian Lily_10_label_da9ab177:
 # game/logic/events/lily.rpy:3053
 translate russian Lily_10_label_68de5e52:
 
-    # ch_Name "Did something happened?"
+    # ch_Name "Did something happen?"
     ch_Name ""
 
 # game/logic/events/lily.rpy:3054
@@ -10943,7 +10943,7 @@ translate russian Lily_10_label_74ebce9c:
 # game/logic/events/lily.rpy:3082
 translate russian Lily_10_label_f7da01fa:
 
-    # ch_Name "{i}(Alright. I better talk with her when she will be in the mood.){/i}"
+    # ch_Name "{i}(Alright. I better talk with her when she's in a better mood.){/i}"
     ch_Name ""
 
 # game/logic/events/lily.rpy:3086

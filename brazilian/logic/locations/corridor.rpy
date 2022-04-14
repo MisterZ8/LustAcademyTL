@@ -2861,7 +2861,7 @@ translate brazilian strings:
     new "Duas garotas bêbadas!?"
 
     # game/logic/locations/corridor.rpy:940
-    old "Take a look Haley"
+    old "Take a look at Haley"
     new "Olhar Haley"
 
     # game/logic/locations/corridor.rpy:953

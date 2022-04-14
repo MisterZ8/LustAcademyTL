@@ -417,7 +417,7 @@ translate english CordGarden_label_782b8053:
 # game/logic/tutorial.rpy:678
 translate english CordGarden_label_03c9e045:
 
-    # Joshi "By the way, have you seen Sabrina yet? Dude, I'm still having a boner..."
+    # Joshi "By the way, have you seen Sabrina yet? Dude, I still have a boner..."
     Joshi ""
 
 # game/logic/tutorial.rpy:679
@@ -621,7 +621,7 @@ translate english CordGarden_label_782b8053_1:
 # game/logic/tutorial.rpy:726
 translate english CordGarden_label_03c9e045_1:
 
-    # Joshi "By the way, have you seen Sabrina yet? Dude, I'm still having a boner..."
+    # Joshi "By the way, have you seen Sabrina yet? Dude, I still have a boner..."
     Joshi ""
 
 # game/logic/tutorial.rpy:727

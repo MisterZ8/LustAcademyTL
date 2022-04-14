@@ -2861,7 +2861,7 @@ translate philippine strings:
     new ""
 
     # game/logic/locations/corridor.rpy:940
-    old "Take a look Haley"
+    old "Take a look at Haley"
     new ""
 
     # game/logic/locations/corridor.rpy:953

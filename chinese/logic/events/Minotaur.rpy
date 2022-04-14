@@ -81,7 +81,7 @@ translate chinese Mino_1_label_a346ae5e:
 # game/logic/events/Minotaur.rpy:57
 translate chinese Mino_1_label_a4c07b3e:
 
-    # Minotaur "Listen... How is your name again?"
+    # Minotaur "Listen... what is your name again?"
     Minotaur "听着。。。你的名字是什么来着？"
 
 # game/logic/events/Minotaur.rpy:58

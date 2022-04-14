@@ -81,7 +81,7 @@ translate russian Mino_1_label_a346ae5e:
 # game/logic/events/Minotaur.rpy:57
 translate russian Mino_1_label_a4c07b3e:
 
-    # Minotaur "Listen... How is your name again?"
+    # Minotaur "Listen... what is your name again?"
     Minotaur ""
 
 # game/logic/events/Minotaur.rpy:58

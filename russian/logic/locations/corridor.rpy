@@ -2861,7 +2861,7 @@ translate russian strings:
     new "Две пьяные девушки?!"
 
     # game/logic/locations/corridor.rpy:940
-    old "Take a look Haley"
+    old "Take a look at Haley"
     new "Посмотреть на Хейли"
 
     # game/logic/locations/corridor.rpy:953

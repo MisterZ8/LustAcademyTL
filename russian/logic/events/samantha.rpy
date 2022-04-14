@@ -2619,7 +2619,7 @@ translate russian Samantha_6_label_b4326595:
 # game/logic/events/samantha.rpy:932
 translate russian Samantha_6_label_19fd5df6:
 
-    # Samantha "Let's meet at noon in my room."
+    # Samantha "Let's meet in the evening in my room."
     Samantha "Давай в полдень у меня в комнате."
 
 # game/logic/events/samantha.rpy:933
@@ -3597,7 +3597,7 @@ translate russian Samantha_8_label_48c8c9ac:
 # game/logic/events/samantha.rpy:1170
 translate russian Samantha_8_label_013afe9b:
 
-    # ch_Name "And you know perfectly well that you're looking very good in this lingerie."
+    # ch_Name "And you know perfectly well that you're looking very good in that lingerie."
     ch_Name "И ты прекрасно понимаешь, что ты отлично выглядишь в этом белье."
 
 # game/logic/events/samantha.rpy:1171
@@ -5607,7 +5607,7 @@ translate russian Samantha_11_label_4a9bfa4c:
 # game/logic/events/samantha.rpy:1684
 translate russian Samantha_11_label_1a6f2f41:
 
-    # ch_Name "It's already midnight."
+    # ch_Name "It's already midday."
     ch_Name "Уже полночь."
 
 # game/logic/events/samantha.rpy:1685
@@ -5954,7 +5954,7 @@ translate russian Samantha_12_label_4fdcfd04:
 # game/logic/events/samantha.rpy:1772
 translate russian Samantha_12_label_74dfa7d8:
 
-    # Samantha "I've just wanted to go there."
+    # Samantha "I was just about to go there."
     Samantha ""
 
 # game/logic/events/samantha.rpy:1773
@@ -7070,7 +7070,7 @@ translate russian Samantha_13_label_5242c598:
 # game/logic/events/samantha.rpy:2041
 translate russian Samantha_13_label_b7564b6b:
 
-    # Samantha "She got you on the hop and spelled you before you did something."
+    # Samantha "She caught you off guard, and hit you with a spell before you could do anything."
     Samantha ""
 
 # game/logic/events/samantha.rpy:2042
@@ -7094,7 +7094,7 @@ translate russian Samantha_13_label_234499c4:
 # game/logic/events/samantha.rpy:2046
 translate russian Samantha_13_label_de46c03d:
 
-    # Samantha "But nothing helped. You had no pulse and no breath sounds."
+    # Samantha "But nothing helped. You had no pulse, and you weren't breathing."
     Samantha ""
 
 # game/logic/events/samantha.rpy:2047
@@ -7764,7 +7764,7 @@ translate russian Samantha_14_label_89b8d08c:
 # game/logic/events/samantha.rpy:2201
 translate russian Samantha_14_label_f1beecfa:
 
-    # ch_Name "Sam! Nice to meet you!"
+    # ch_Name "Sam! Nice to see you!"
     ch_Name ""
 
 # game/logic/events/samantha.rpy:2202
@@ -7956,7 +7956,7 @@ translate russian Samantha_14_label_90d61e1d:
 # game/logic/events/samantha.rpy:2249
 translate russian Samantha_14_label_04e06fa6:
 
-    # Samantha "Oh, my Godness!"
+    # Samantha "Oh, my Goodness!"
     Samantha ""
 
 # game/logic/events/samantha.rpy:2250
@@ -8376,7 +8376,7 @@ translate russian Samantha_14_label_b8e076e2:
 # game/logic/events/samantha.rpy:2340
 translate russian Samantha_14_label_4fcf1879:
 
-    # Samantha "For God's sake, what it was about?!"
+    # Samantha "For God's sake, what was that about?!"
     Samantha ""
 
 # game/logic/events/samantha.rpy:2341

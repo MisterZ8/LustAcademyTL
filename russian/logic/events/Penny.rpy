@@ -387,7 +387,7 @@ translate russian Penny_1_label_c6c65c42:
 # game/logic/events/Penny.rpy:113
 translate russian Penny_1_label_0ae59c12:
 
-    # Penny "Then I will get out of the trans and return to my body. Only if my theory is right, of course..."
+    # Penny "Then I will break free of the trance and return to my body. Only if my theory is right, of course..."
     Penny ""
 
 # game/logic/events/Penny.rpy:114
@@ -627,7 +627,7 @@ translate russian Penny_1_label_2eb102e3:
 # game/logic/events/Penny.rpy:169
 translate russian Penny_1_label_56d0c68a:
 
-    # Penny "How it feels like?"
+    # Penny "How does it feel?"
     Penny ""
 
 # game/logic/events/Penny.rpy:170
@@ -1233,7 +1233,7 @@ translate russian Penny_1_label_40691834:
 # game/logic/events/Penny.rpy:316
 translate russian Penny_1_label_ad6033cc:
 
-    # ch_Name "{i}(Phew, so that’s how it looks like!){/i}"
+    # ch_Name "{i}(Phew, so that's what it looks like!){/i}"
     ch_Name ""
 
 # game/logic/events/Penny.rpy:317
@@ -1251,7 +1251,7 @@ translate russian Penny_1_label_b0aa0ac9:
 # game/logic/events/Penny.rpy:325
 translate russian Penny_1_label_5da8bf80:
 
-    # Penny "I was the happiest girl in the world, I swear you, he-he."
+    # Penny "I was the happiest girl in the world, I swear to you, he-he."
     Penny ""
 
 # game/logic/events/Penny.rpy:326
@@ -1275,7 +1275,7 @@ translate russian Penny_1_label_b0352f41:
 # game/logic/events/Penny.rpy:330
 translate russian Penny_1_label_f9fc7bc1:
 
-    # Penny "That's too sad that we don't have all night, [Name]."
+    # Penny "It's too bad that we don't have all night, [Name]."
     Penny ""
 
 # game/logic/events/Penny.rpy:331

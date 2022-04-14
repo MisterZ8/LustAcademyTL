@@ -717,7 +717,7 @@ translate chinese Molly_3_label_d1306351:
 # game/logic/events/molly.rpy:383
 translate chinese Molly_3_label_609c44dd:
 
-    # ch_Name "All right, all right, I'll do it. I won't leave you in the lurch."
+    # ch_Name "Alright, alright, I'll do it. I won't leave you hanging."
     ch_Name "好吧，好吧，我来。我不会丢下你不管的。"
 
 # game/logic/events/molly.rpy:384

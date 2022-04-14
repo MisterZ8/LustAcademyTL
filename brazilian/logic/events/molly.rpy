@@ -717,7 +717,7 @@ translate brazilian Molly_3_label_d1306351:
 # game/logic/events/molly.rpy:383
 translate brazilian Molly_3_label_609c44dd:
 
-    # ch_Name "All right, all right, I'll do it. I won't leave you in the lurch."
+    # ch_Name "Alright, alright, I'll do it. I won't leave you hanging."
     ch_Name "Tudo bem, tudo bem, eu ajudo. Não vou lhe deixar na mão, assim."
 
 # game/logic/events/molly.rpy:384

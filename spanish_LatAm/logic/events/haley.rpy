@@ -10905,7 +10905,7 @@ translate spanish_LatAm CF_Haley_4_label_faa06063:
 # game/logic/events/haley.rpy:3149
 translate spanish_LatAm CF_Haley_4_label_5183bde9:
 
-    # ch_Name "Do you get on well?"
+    # ch_Name "Do you get along well?"
     ch_Name ""
 
 # game/logic/events/haley.rpy:3150

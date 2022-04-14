@@ -20991,7 +20991,7 @@ translate russian Audrey_13_label_b4f988de:
 # game/logic/events/audrey.rpy:5573
 translate russian Audrey_13_label_1bf2ae13:
 
-    # ch_Name "{i}(When waking-up with phone's ringing became a kind of morning ritual?){/i}"
+    # ch_Name "{i}(When has waking up with the phone ringing become a kind of morning ritual?){/i}"
     ch_Name ""
 
 # game/logic/events/audrey.rpy:5574
@@ -21021,7 +21021,7 @@ translate russian Audrey_13_label_643b7dab:
 # game/logic/events/audrey.rpy:5579
 translate russian Audrey_13_label_e2145027:
 
-    # ch_Name "What are you talking about? What've happened?"
+    # ch_Name "What are you talking about? What's happened?"
     ch_Name ""
 
 # game/logic/events/audrey.rpy:5580
@@ -21687,7 +21687,7 @@ translate russian Audrey_13_label_menu_check_5bd6a548:
 # game/logic/events/audrey.rpy:5780
 translate russian Audrey_13_label_menu_check_fdd4a3d4:
 
-    # ch_Name "Wow, that's look impressive."
+    # ch_Name "Wow! That looks impressive..."
     ch_Name ""
 
 # game/logic/events/audrey.rpy:5781
@@ -22065,7 +22065,7 @@ translate russian Audrey_13_label_menu_check_b20c8646:
 # game/logic/events/audrey.rpy:5865
 translate russian Audrey_13_label_menu_check_4269174b:
 
-    # ch_Name "{i}(Whoa! It feels even more better!){/i}"
+    # ch_Name "{i}(Whoa! Now it feels even better!){/i}"
     ch_Name ""
 
 # game/logic/events/audrey.rpy:5866

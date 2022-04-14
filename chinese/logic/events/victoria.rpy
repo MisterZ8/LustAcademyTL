@@ -3081,7 +3081,7 @@ translate chinese Victoria_9_label_a18b061a:
 # game/logic/events/victoria.rpy:1100
 translate chinese Victoria_9_label_18c0e491:
 
-    # Victoria "As you all know at this lessons we study Battle Magic."
+    # Victoria "As you all know at these lessons we study Battle Magic."
     Victoria "正如你们所知道的，在这节课中，我们学习战斗魔法。"
 
 # game/logic/events/victoria.rpy:1101

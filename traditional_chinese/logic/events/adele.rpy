@@ -45,7 +45,7 @@ translate traditional_chinese adele_1_label_8be935fe:
 # game/logic/events/adele.rpy:100
 translate traditional_chinese adele_1_label_cf46efba:
 
-    # Adele "You won't regreat you've stopped by."
+    # Adele "You won't regret you've stopped by."
     Adele ""
 
 # game/logic/events/adele.rpy:101
@@ -447,7 +447,7 @@ translate traditional_chinese adele_1_label_bde81262:
 # game/logic/events/adele.rpy:200
 translate traditional_chinese adele_1_label_f5f45550:
 
-    # Vanessa "Don't be so nervious."
+    # Vanessa "Don't be so nervous."
     Vanessa ""
 
 # game/logic/events/adele.rpy:201

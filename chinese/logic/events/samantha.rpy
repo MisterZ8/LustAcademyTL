@@ -2619,7 +2619,7 @@ translate chinese Samantha_6_label_b4326595:
 # game/logic/events/samantha.rpy:932
 translate chinese Samantha_6_label_19fd5df6:
 
-    # Samantha "Let's meet at noon in my room."
+    # Samantha "Let's meet in the evening in my room."
     Samantha "我们中午在我房间见吧。"
 
 # game/logic/events/samantha.rpy:933
@@ -3597,7 +3597,7 @@ translate chinese Samantha_8_label_48c8c9ac:
 # game/logic/events/samantha.rpy:1170
 translate chinese Samantha_8_label_013afe9b:
 
-    # ch_Name "And you know perfectly well that you're looking very good in this lingerie."
+    # ch_Name "And you know perfectly well that you're looking very good in that lingerie."
     ch_Name "你很清楚你穿这件内衣很好看。"
 
 # game/logic/events/samantha.rpy:1171
@@ -5607,7 +5607,7 @@ translate chinese Samantha_11_label_4a9bfa4c:
 # game/logic/events/samantha.rpy:1684
 translate chinese Samantha_11_label_1a6f2f41:
 
-    # ch_Name "It's already midnight."
+    # ch_Name "It's already midday."
     ch_Name "已经是午夜了。"
 
 # game/logic/events/samantha.rpy:1685
@@ -5955,7 +5955,7 @@ translate chinese Samantha_12_label_4fdcfd04:
 # game/logic/events/samantha.rpy:1772
 translate chinese Samantha_12_label_74dfa7d8:
 
-    # Samantha "I've just wanted to go there."
+    # Samantha "I was just about to go there."
     Samantha "我只是想去那里。"
 
 # game/logic/events/samantha.rpy:1773
@@ -7071,7 +7071,7 @@ translate chinese Samantha_13_label_5242c598:
 # game/logic/events/samantha.rpy:2041
 translate chinese Samantha_13_label_b7564b6b:
 
-    # Samantha "She got you on the hop and spelled you before you did something."
+    # Samantha "She caught you off guard, and hit you with a spell before you could do anything."
     Samantha "她在你动手之前就给你下了咒。"
 
 # game/logic/events/samantha.rpy:2042
@@ -7095,7 +7095,7 @@ translate chinese Samantha_13_label_234499c4:
 # game/logic/events/samantha.rpy:2046
 translate chinese Samantha_13_label_de46c03d:
 
-    # Samantha "But nothing helped. You had no pulse and no breath sounds."
+    # Samantha "But nothing helped. You had no pulse, and you weren't breathing."
     Samantha "但没有什么帮助。你没有脉搏和呼吸声。"
 
 # game/logic/events/samantha.rpy:2047
@@ -7765,7 +7765,7 @@ translate chinese Samantha_14_label_89b8d08c:
 # game/logic/events/samantha.rpy:2201
 translate chinese Samantha_14_label_f1beecfa:
 
-    # ch_Name "Sam! Nice to meet you!"
+    # ch_Name "Sam! Nice to see you!"
     ch_Name "Sam! 很高兴见到你!"
 
 # game/logic/events/samantha.rpy:2202
@@ -7957,7 +7957,7 @@ translate chinese Samantha_14_label_90d61e1d:
 # game/logic/events/samantha.rpy:2249
 translate chinese Samantha_14_label_04e06fa6:
 
-    # Samantha "Oh, my Godness!"
+    # Samantha "Oh, my Goodness!"
     Samantha "哦，我的上帝啊！"
 
 # game/logic/events/samantha.rpy:2250
@@ -8377,7 +8377,7 @@ translate chinese Samantha_14_label_b8e076e2:
 # game/logic/events/samantha.rpy:2340
 translate chinese Samantha_14_label_4fcf1879:
 
-    # Samantha "For God's sake, what it was about?!"
+    # Samantha "For God's sake, what was that about?!"
     Samantha "看在上帝的份上，它是关于什么的？"
 
 # game/logic/events/samantha.rpy:2341

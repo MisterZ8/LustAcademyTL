@@ -2619,7 +2619,7 @@ translate philippine Samantha_6_label_b4326595:
 # game/logic/events/samantha.rpy:932
 translate philippine Samantha_6_label_19fd5df6:
 
-    # Samantha "Let's meet at noon in my room."
+    # Samantha "Let's meet in the evening in my room."
     Samantha "Magkita tayo mamayang tanghali sa kwarto ko."
 
 # game/logic/events/samantha.rpy:933
@@ -3597,7 +3597,7 @@ translate philippine Samantha_8_label_48c8c9ac:
 # game/logic/events/samantha.rpy:1170
 translate philippine Samantha_8_label_013afe9b:
 
-    # ch_Name "And you know perfectly well that you're looking very good in this lingerie."
+    # ch_Name "And you know perfectly well that you're looking very good in that lingerie."
     ch_Name "At alam mong napakaganda mo sa panloob na iyan."
 
 # game/logic/events/samantha.rpy:1171
@@ -5607,7 +5607,7 @@ translate philippine Samantha_11_label_4a9bfa4c:
 # game/logic/events/samantha.rpy:1684
 translate philippine Samantha_11_label_1a6f2f41:
 
-    # ch_Name "It's already midnight."
+    # ch_Name "It's already midday."
     ch_Name "Hatinggabi na."
 
 # game/logic/events/samantha.rpy:1685

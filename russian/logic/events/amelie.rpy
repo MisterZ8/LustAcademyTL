@@ -3005,7 +3005,7 @@ translate russian Amelie_3_label_6d9d85aa:
 # game/logic/events/amelie.rpy:579
 translate russian Amelie_3_label_57fc024f:
 
-    # ch_Name "Here's your pursue, at least."
+    # ch_Name "Here's your purse, at least."
     ch_Name ""
 
 # game/logic/events/amelie.rpy:580

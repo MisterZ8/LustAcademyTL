@@ -1341,7 +1341,7 @@ translate spanish sheet_28_1_262_16_507485ad:
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:464
 translate spanish sheet_28_1_262_16_ad7f252b:
 
-    # Leona "Guess we'll have to beg for your forgivness..."
+    # Leona "Guess we'll have to beg for your forgiveness."
     Leona "Supongo que tendremos que suplicar tu perdon..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:466
@@ -1551,7 +1551,7 @@ translate spanish sheet_28_1_262_16_28a0d6bc:
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:535
 translate spanish sheet_28_1_262_16_fcea3e36:
 
-    # ch_Name "{i}(Sam is Leonheart, so does Haley. And that asian chick... Lily?){/i}"
+    # ch_Name "{i}(Sam is Leonheart, so is Haley. And that asian chick... Lily?){/i}"
     ch_Name "{i}(Sam y Haley son de Leonheart. Y el pivón asiático... ¿Lily?){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:536
