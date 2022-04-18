@@ -22165,3 +22165,29 @@ translate chinese strings:
     old "Do you want Audrey to be a female or a shemale?"
     new "你希望Audrey是女性还是人妖?"
 
+# TODO: Translation updated at 2022-04-18 21:02
+
+# game/logic/events/audrey.rpy:5652
+translate chinese Audrey_13_label_e8bf95ce:
+
+    # ch_Name "{i}(When has waking up with the phone ringing become a kind of morning ritual?){/i}"
+    ch_Name "{i}（当被电话铃声吵醒成为一种早晨的仪式？）{/i}"
+
+# game/logic/events/audrey.rpy:5658
+translate chinese Audrey_13_label_18dec291:
+
+    # ch_Name "What are you talking about? What's happened?"
+    ch_Name "你在说什么？发生了什么事？"
+
+# game/logic/events/audrey.rpy:5859
+translate chinese Audrey_13_label_menu_check_5089fe18:
+
+    # ch_Name "Wow! That looks impressive..."
+    ch_Name "哇，这看起来令人印象深刻。"
+
+# game/logic/events/audrey.rpy:5944
+translate chinese Audrey_13_label_menu_check_4078b395:
+
+    # ch_Name "{i}(Whoa! Now it feels even better!){/i}"
+    ch_Name "{i}（哇! 感觉更棒了!）{/i}"
+

@@ -2556,3 +2556,11 @@ translate chinese strings:
     old "Do you want Elijah to be a hetero or a homo?"
     new "你希望Elijah是异性恋还是同性恋？"
 
+# TODO: Translation updated at 2022-04-18 21:02
+
+# game/logic/events/elijah.rpy:178
+translate chinese Elijah_1_label_db363295:
+
+    # Elijah "Here take your Student ID Card... Show it at the library."
+    Elijah "来，带上你的{b}学生证{/b}...去图书馆看看。"
+

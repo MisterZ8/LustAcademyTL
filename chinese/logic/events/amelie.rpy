@@ -4146,3 +4146,11 @@ translate chinese strings:
     old "Levitation feather"
     new "悬浮羽毛"
 
+# TODO: Translation updated at 2022-04-18 21:02
+
+# game/logic/events/amelie.rpy:606
+translate chinese Amelie_3_label_6368547e:
+
+    # ch_Name "Here's your purse, at least."
+    ch_Name "至少这是你的追求。"
+

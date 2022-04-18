@@ -10940,3 +10940,17 @@ translate chinese strings:
     old "Do you want Sadira to be a female or a shemale?"
     new "你希望Sadira是女性还是人妖?"
 
+# TODO: Translation updated at 2022-04-18 21:02
+
+# game/logic/events/adele.rpy:122
+translate chinese adele_1_label_6d503bca:
+
+    # Adele "You won't regret you've stopped by."
+    Adele "你不会后悔你已经停下来了。"
+
+# game/logic/events/adele.rpy:222
+translate chinese adele_1_label_ae0ea87f:
+
+    # Vanessa "Don't be so nervous."
+    Vanessa "不要那么紧张。"
+

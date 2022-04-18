@@ -1632,3 +1632,17 @@ translate chinese strings:
     old "Close"
     new "关闭"
 
+# TODO: Translation updated at 2022-04-18 21:02
+
+# game/logic/tutorial.rpy:678
+translate chinese CordGarden_label_e19e47e3:
+
+    # Joshi "By the way, have you seen Sabrina yet? Dude, I still have a boner..."
+    Joshi "对了，你见过Sabrina了吗? 老兄，我还在勃起..."
+
+# game/logic/tutorial.rpy:726
+translate chinese CordGarden_label_e19e47e3_1:
+
+    # Joshi "By the way, have you seen Sabrina yet? Dude, I still have a boner..."
+    Joshi "对了，你见过Sabrina了吗? 老兄，我还在勃起..."
+

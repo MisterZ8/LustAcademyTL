@@ -8500,3 +8500,65 @@ translate chinese strings:
     old "I'm ready to leave"
     new "我已经准备好离开了"
 
+# TODO: Translation updated at 2022-04-18 21:02
+
+# game/logic/events/samantha.rpy:973
+translate chinese Samantha_6_label_699e54d5:
+
+    # Samantha "Let's meet in the evening in my room."
+    Samantha "我们中午在我房间见吧。"
+
+# game/logic/events/samantha.rpy:1216
+translate chinese Samantha_8_label_b527a690:
+
+    # ch_Name "Let's be honest."
+    ch_Name "我们是诚实的。"
+
+# game/logic/events/samantha.rpy:1218
+translate chinese Samantha_8_label_b7210a45:
+
+    # ch_Name "And you know perfectly well that you're looking very good in that lingerie."
+    ch_Name "你很清楚你穿这件内衣很好看。"
+
+# game/logic/events/samantha.rpy:1735
+translate chinese Samantha_11_label_86eb009c:
+
+    # ch_Name "It's already midday."
+    ch_Name "已经是午夜了。"
+
+# game/logic/events/samantha.rpy:1785
+translate chinese Samantha_12_label_e3b1e792:
+
+    # Samantha "I was just about to go there."
+    Samantha "我只是想去那里。"
+
+# game/logic/events/samantha.rpy:2052
+translate chinese Samantha_13_label_72729732:
+
+    # Samantha "She caught you off guard, and hit you with a spell before you could do anything."
+    Samantha "她在你动手之前就给你下了咒。"
+
+# game/logic/events/samantha.rpy:2057
+translate chinese Samantha_13_label_2e32ba86:
+
+    # Samantha "But nothing helped. You had no pulse, and you weren't breathing."
+    Samantha "但没有什么帮助。你没有脉搏和呼吸声。"
+
+# game/logic/events/samantha.rpy:2205
+translate chinese Samantha_14_label_f873c853:
+
+    # ch_Name "Sam! Nice to see you!"
+    ch_Name "Sam! 很高兴见到你!"
+
+# game/logic/events/samantha.rpy:2253
+translate chinese Samantha_14_label_f567c965:
+
+    # Samantha "Oh, my Goodness!"
+    Samantha "哦，我的上帝啊！"
+
+# game/logic/events/samantha.rpy:2345
+translate chinese Samantha_14_label_ceb27b58:
+
+    # Samantha "For God's sake, what was that about?!"
+    Samantha "看在上帝的份上，它是关于什么的？"
+

@@ -2232,3 +2232,17 @@ translate chinese Jill_3_label_19e33edc:
     # "I spend the rest of the day wandering around Dale and sightseeing."
     "剩下的时间我都在Dale附近闲逛观光。"
 
+# TODO: Translation updated at 2022-04-18 21:02
+
+# game/logic/events/jill.rpy:572
+translate chinese Jill_4_label_from_gallery_5f0d1e19:
+
+    # Faith "It will help to remove muscle cramps and bring you overall relaxation."
+    Faith "这将有助于去除肌肉夹，给你带来全面的放松。"
+
+# game/logic/events/jill.rpy:633
+translate chinese Jill_4_label_from_gallery_14b7e6c3:
+
+    # Faith "...which removes all cramps."
+    Faith "...可以移除所有的夹子。"
+

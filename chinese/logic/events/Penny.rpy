@@ -1470,3 +1470,35 @@ translate chinese strings:
     old "Talk to a strange girl"
     new "和一个陌生的女孩交谈"
 
+# TODO: Translation updated at 2022-04-18 21:02
+
+# game/logic/events/Penny.rpy:113
+translate chinese Penny_1_label_91f99dfd:
+
+    # Penny "Then I will break free of the trance and return to my body. Only if my theory is right, of course..."
+    Penny "然后我就会从反转机里出来，回到我的身体里。当然，前提是我的理论是正确的。。。"
+
+# game/logic/events/Penny.rpy:169
+translate chinese Penny_1_label_bcf4e23b:
+
+    # Penny "How does it feel?"
+    Penny "它的感觉如何？"
+
+# game/logic/events/Penny.rpy:316
+translate chinese Penny_1_label_6988edd2:
+
+    # ch_Name "{i}(Phew, so that's what it looks like!){/i}"
+    ch_Name "{i}（呵，原来是这样的！）{/i}"
+
+# game/logic/events/Penny.rpy:325
+translate chinese Penny_1_label_56156515:
+
+    # Penny "I was the happiest girl in the world, I swear to you, he-he."
+    Penny "我是世界上最幸福的女孩，我向你发誓，哈哈。"
+
+# game/logic/events/Penny.rpy:330
+translate chinese Penny_1_label_422d98f0:
+
+    # Penny "It's too bad that we don't have all night, [Name]."
+    Penny "我们没有整晚的时间，[Name]，这太悲哀了。"
+

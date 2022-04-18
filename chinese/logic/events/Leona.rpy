@@ -12838,3 +12838,59 @@ translate chinese Leona_11_label_127f03c9:
     # ch_Name "{i}(I won't make that kind of mistake twice.){/i}"
     ch_Name "{i}（我不会再犯这种错误了。）{/i}"
 
+# TODO: Translation updated at 2022-04-18 21:02
+
+# game/logic/events/Leona.rpy:2801
+translate chinese Leona_10_label_473350ff:
+
+    # ch_Name "Thanks. But I don't drink"
+    ch_Name "谢谢你。我真的是。但我不喝酒。"
+
+# game/logic/events/Leona.rpy:2926
+translate chinese Leona_10_label_5e770558:
+
+    # Jacob "I needed a quiet place where I could test the new spell."
+    Jacob "我需要一个安静的地方，我可以测试新的屠宰场。"
+
+# game/logic/events/Leona.rpy:2956
+translate chinese Leona_10_label_614e897c:
+
+    # Jacob "Ultimate Defense..."
+    Jacob "气候防御。。。"
+
+# game/logic/events/Leona.rpy:2988
+translate chinese Leona_10_label_8fa8f175:
+
+    # Jacob "After that... My thoughts, my memories... They weren't just mine."
+    Jacob "在那之后。。。我的思想，我的记忆。。。它们不仅仅是我的。"
+
+# game/logic/events/Leona.rpy:2989
+translate chinese Leona_10_label_04349fa3:
+
+    # Jacob "The Lord had moved into my body and mind."
+    Jacob "霸主已经进入了我的身体和心灵。"
+
+# game/logic/events/Leona.rpy:2998
+translate chinese Leona_10_label_8149e2bb:
+
+    # Jacob "For the first few hours, there was a struggle for control of my body."
+    Jacob "在最初的几个小时里，我的身体里有一种挣扎。"
+
+# game/logic/events/Leona.rpy:3018
+translate chinese Leona_10_label_ca915e19:
+
+    # Jacob "She realized that it wasn't the Jacob she knew..."
+    Jacob "她意识到这不是她所认识的Jacob。。。"
+
+# game/logic/events/Leona.rpy:3044
+translate chinese Leona_10_label_07564acf:
+
+    # Jacob "And that she died during childbirth.."
+    Jacob "而且，她死于分娩。"
+
+# game/logic/events/Leona.rpy:3052
+translate chinese Leona_10_label_476999f9:
+
+    # Jacob "But you must understand, my mind had been suppressed by the Lord's will..."
+    Jacob "但你必须理解，我的思想已经被霸主的意志所压制。。。"
+

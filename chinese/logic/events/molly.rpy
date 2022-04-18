@@ -1408,3 +1408,11 @@ translate chinese strings:
     old "Say goodbye and leave"
     new "说再见然后离开"
 
+# TODO: Translation updated at 2022-04-18 21:02
+
+# game/logic/events/molly.rpy:384
+translate chinese Molly_3_label_584db1ca:
+
+    # ch_Name "Alright, alright, I'll do it. I won't leave you hanging."
+    ch_Name "好吧，好吧，我来。我不会丢下你不管的。"
+

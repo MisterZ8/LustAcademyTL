@@ -622,3 +622,11 @@ translate chinese strings:
     old "Use the Levitation feather"
     new "使用浮空羽毛"
 
+# TODO: Translation updated at 2022-04-18 21:02
+
+# game/logic/events/Minotaur.rpy:57
+translate chinese Mino_1_label_2d580e9e:
+
+    # Minotaur "Listen... what is your name again?"
+    Minotaur "听着。。。你的名字是什么来着？"
+

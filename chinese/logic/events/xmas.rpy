@@ -6194,3 +6194,17 @@ translate chinese Xmas_1_label_2e34ff30:
     # ch_Name "{i}(Well it's no need to guess, he's going to tell us now.){/i}"
     ch_Name "{i}（没必要猜测，他现在就告诉我们。）{/i}"
 
+# TODO: Translation updated at 2022-04-18 21:02
+
+# game/logic/events/xmas.rpy:1222
+translate chinese Xmas_6_label_5a9a32d0:
+
+    # ch_Name "It's hard to take my eyes off you."
+    ch_Name "你的眼睛很难从你身上移开。"
+
+# game/logic/events/xmas.rpy:1592
+translate chinese Xmas_6_label_b9269a91:
+
+    # Selene "Yeah, feeling you squeeze every muscle in my vagina is priceless, too."
+    Selene "是啊，感觉你挤压我阴道的每一块肌肉也是无价的。"
+

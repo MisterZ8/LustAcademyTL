@@ -4900,3 +4900,11 @@ translate chinese Victoria_12_label_21c35f6a:
     # ch_Name "Yeah, yeah, give a minute, I gotta think..."
     ch_Name "是的，是的，等一下，我得想想。。。"
 
+# TODO: Translation updated at 2022-04-18 21:02
+
+# game/logic/events/victoria.rpy:1103
+translate chinese Victoria_9_label_ab22f6ec:
+
+    # Victoria "As you all know at these lessons we study Battle Magic."
+    Victoria "正如你们所知道的，在这节课中，我们学习战斗魔法。"
+

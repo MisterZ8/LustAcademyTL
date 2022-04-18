@@ -714,3 +714,11 @@ translate chinese sheet_24_end_game_b1c02e84:
     # ch_Name "Alright. Have a good one!"
     ch_Name "好吧。祝你愉快!"
 
+# TODO: Translation updated at 2022-04-18 21:02
+
+# game/logic/episodes_after_first/ep2/sheet_24.rpy:446
+translate chinese sheet_24_end_game_aeacb5e5:
+
+    # ch_Name "{i}(Whoa, was that a clue or was I imagining it?){/i}"
+    ch_Name "{i}(哇，这是暗示吗，还是我想象出来的?){/i}"
+

@@ -1668,3 +1668,23 @@ translate chinese romul_2_label_c6c7b4e7:
     # Adele "I've gotta go, hon. Thanks again!"
     Adele "我得走了，亲爱的，再次谢谢你！"
 
+# TODO: Translation updated at 2022-04-18 21:02
+
+# game/logic/events/romul.rpy:107
+translate chinese romul_1_label_menu_bribe_7dd18c43:
+
+    # Romul "What does that even mean?"
+    Romul "这到底是什么意思?"
+
+# game/logic/events/romul.rpy:129
+translate chinese romul_1_label_menu_bribe_7dd18c43_1:
+
+    # Romul "What does that even mean?"
+    Romul "这到底是什么意思?"
+
+# game/logic/events/romul.rpy:163
+translate chinese romul_1_label_menu_bribe_739fd6bf:
+
+    # Romul "The girls complained, so you're banned from entering forever."
+    Romul "姑娘们抱怨了，所以你被永远禁止进入。"
+

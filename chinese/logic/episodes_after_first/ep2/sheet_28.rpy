@@ -2012,3 +2012,17 @@ translate chinese strings:
     old "Ready for action"
     new "准备行动"
 
+# TODO: Translation updated at 2022-04-18 21:02
+
+# game/logic/episodes_after_first/ep2/sheet_28.rpy:464
+translate chinese sheet_28_1_262_16_05a71fa1:
+
+    # Leona "Guess we'll have to beg for your forgiveness."
+    Leona "我想我们得乞求你的原谅了..."
+
+# game/logic/episodes_after_first/ep2/sheet_28.rpy:536
+translate chinese sheet_28_1_262_16_5bf20199:
+
+    # ch_Name "{i}(Sam is Leonheart, so is Haley. And that asian chick... Lily?){/i}"
+    ch_Name "{i}(Sam是Leonheart，Haley也是还有那个亚洲小妞... Lily?){/i}"
+

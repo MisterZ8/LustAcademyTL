@@ -18784,3 +18784,203 @@ translate chinese Haley_22_label_5ba347aa:
     # ch_Name "{i}(Gosh, this week is full of meetings. I'm getting tired of them.){/i}"
     ch_Name "{i}（天哪，这周会议太多了。我已经厌倦了。）{/i}"
 
+# TODO: Translation updated at 2022-04-18 21:02
+
+# game/logic/events/haley.rpy:3167
+translate chinese CF_Haley_4_label_a9628907:
+
+    # ch_Name "Do you get along well?"
+    ch_Name "你们相处得好吗?"
+
+# game/logic/events/haley.rpy:3556
+translate chinese Haley_19_label_from_gallery_9d3a446f:
+
+    # ch_Name "{i}(I have to tell her how I feel.){/i}"
+    ch_Name "{i}（我必须告诉她我的感受。）{/i}"
+
+# game/logic/events/haley.rpy:3589
+translate chinese Haley_19_label_from_gallery_bb2f9e78:
+
+    # ch_Name "{i}(Is it getting cold out here?){/i}"
+    ch_Name "{i}（这里变冷了吗？）{/i}"
+
+# game/logic/events/haley.rpy:3639
+translate chinese Haley_19_label_from_gallery_6c28f47c:
+
+    # Haley "Sometimes it's really hard to focus on my studies when all my thoughts are about you..."
+    Haley "有时候我的脑子里全是你，我真的很难集中精力学习。。。"
+
+# game/logic/events/haley.rpy:3652
+translate chinese Haley_19_label_from_gallery_5faf8a43:
+
+    # Haley "Oh, did you hear that?"
+    Haley "哦，你听过吗？"
+
+# game/logic/events/haley.rpy:3673
+translate chinese Haley_19_label_from_gallery_055382aa:
+
+    # Haley "Ops, sorry to have bothered you."
+    Haley "哎呀，我很抱歉我们打扰了你。"
+
+# game/logic/events/haley.rpy:3747
+translate chinese Haley_20_label_8e5fa22c:
+
+    # ch_Name "{i}(Oh... Is someone calling?){/i}"
+    ch_Name "{i}（哦。。。有人打电话来吗？）{/i}"
+
+# game/logic/events/haley.rpy:3757
+translate chinese Haley_20_label_88dbee4f:
+
+    # Samantha "And I have a couple days off so I thought."
+    Samantha "而且我有几天的假期，所以我想。。。"
+
+# game/logic/events/haley.rpy:3809
+translate chinese Haley_20_label_8d22190b:
+
+    # Samantha "Why are you just standing there [Name]? I can't do everything by myself."
+    Samantha "你为什么这样站着，[Name]？我不能独自做所有事情。"
+
+# game/logic/events/haley.rpy:3819
+translate chinese Haley_20_label_6b12ea16:
+
+    # Samantha "We got everything right."
+    Samantha "我们把所有事情都做对了。"
+
+# game/logic/events/haley.rpy:3857
+translate chinese Haley_20_label_a00ac60b:
+
+    # Samantha "If your not back by then, I'll sound the alarm."
+    Samantha "如果你还没有回来，那我就拉响警报。"
+
+# game/logic/events/haley.rpy:3861
+translate chinese Haley_20_label_576efa6e:
+
+    # ch_Name "You can't even imagine how important this night is for us."
+    ch_Name "你甚至无法想象这个夜晚对我们来说有多重要。"
+
+# game/logic/events/haley.rpy:3903
+translate chinese Haley_20_label_969c813e:
+
+    # ch_Name "I've never seen such a bird before. Her eyes look a little strange."
+    ch_Name "我以前从未见过这样的鸟。她的眼睛看起来有点奇怪。"
+
+# game/logic/events/haley.rpy:3926
+translate chinese Haley_20_label_8ac8f0c0:
+
+    # Haley "I don't think anyone wants to live in such a place when it's so beautiful outside."
+    Haley "我想没有人愿意住在这样的地方，因为外面是如此美丽。"
+
+# game/logic/events/haley.rpy:3942
+translate chinese Haley_20_label_f6ee79db:
+
+    # ch_Name "It might be, but we don't have any evidence of that."
+    ch_Name "这很可能是真的，但我们没有证据。"
+
+# game/logic/events/haley.rpy:3951
+translate chinese Haley_20_label_cb3bc2c3:
+
+    # Haley "We're stuck on an empty island with a skeleton!"
+    Haley "我们被困在有骷髅的空岛上了!"
+
+# game/logic/events/haley.rpy:4085
+translate chinese Haley_20_label_from_gallery_d3490a7d:
+
+    # ch_Name "Yeah... Have you seen a girl around here?"
+    ch_Name "是的。。。你没看到这里有一个女孩吗？"
+
+# game/logic/events/haley.rpy:4130
+translate chinese Haley_20_label_L218_ce53f238:
+
+    # ch_Name "But it's getting too hot here... I'm afraid we might need to get out of these clothes."
+    ch_Name "但这里越来越热了。。。恐怕我们需要脱掉衣服了。"
+
+# game/logic/events/haley.rpy:4164
+translate chinese Haley_20_label_L218_47c1f23b:
+
+    # ch_Name "{i}(I don't even mind getting it all over me.){/i}"
+    ch_Name "{i}（我甚至不介意把它弄得全身都是。）{/i}"
+
+# game/logic/events/haley.rpy:4171
+translate chinese Haley_20_label_L218_c98583bb:
+
+    # ch_Name "Well, you may feast your eyes, my lady."
+    ch_Name "好吧，你可以大饱眼福了，女士。"
+
+# game/logic/events/haley.rpy:4182
+translate chinese Haley_20_label_L218_f786dd35:
+
+    # ch_Name "Oh, yeah. But if you want, I'll stop..."
+    ch_Name "哦，是的。但如果你不介意的话，我就不说了。。。"
+
+# game/logic/events/haley.rpy:4280
+translate chinese Haley_20_label_menu_check_71ae7736:
+
+    # ch_Name "(How could I forget that she's a virgin...)"
+    ch_Name "（我怎么会忘记她是个处女呢。。。）"
+
+# game/logic/events/haley.rpy:4331
+translate chinese Haley_20_label_menu_check_232202b0:
+
+    # ch_Name "{i}(And mine is not that small so it might hurt.){/i}"
+    ch_Name "{i}（而且，我的东西也没那么小，所以这并不重要。）{/i}"
+
+# game/logic/events/haley.rpy:4400
+translate chinese Haley_20_label_menu_check_cd5d9c0c:
+
+    # ch_Name "{i}(It seems like her vagina is starting to adjust to my size.){/i}"
+    ch_Name "{i}（看来她的阴道开始适应我的尺寸了。）{/i}"
+
+# game/logic/events/haley.rpy:4463
+translate chinese Haley_20_label_menu_check_da1b82c7:
+
+    # Haley "My doctor told me it's good for my hormones."
+    Haley "医生告诉我，这对我的荷尔蒙有好处。"
+
+# game/logic/events/haley.rpy:4472
+translate chinese Haley_20_label_menu_check_cc8d7a98:
+
+    # ch_Name "{i}(If I died right now, I wouldn't mind.){/i}"
+    ch_Name "{i}（如果我现在就死了，我也不会介意。）{/i}"
+
+# game/logic/events/haley.rpy:4473
+translate chinese Haley_20_label_menu_check_3a834f4b:
+
+    # ch_Name "{i}(Because it feels like it can't get much better than this.){/i}"
+    ch_Name "{i}（因为它感觉不可能比这更好了。）{/i}"
+
+# game/logic/events/haley.rpy:4686
+translate chinese Haley_22_label_4fe77063:
+
+    # ch_Name "...you can't even imagine what you did for me."
+    ch_Name "。。。你甚至无法想象你为我做了什么。"
+
+# game/logic/events/haley.rpy:4689
+translate chinese Haley_22_label_5bc444ef:
+
+    # ch_Name "It literally brightened up my world."
+    ch_Name "它实际上照亮了我的世界。"
+
+# game/logic/events/haley.rpy:4716
+translate chinese Haley_22_label_e5f2074d:
+
+    # Elijah "I dropped everything to come. What happened?"
+    Elijah "我已经丢下所有事过来了! 发生了什么事？"
+
+# game/logic/events/haley.rpy:4747
+translate chinese Haley_22_label_40e8555c:
+
+    # Elijah "But do not abuse that privilege! That's the rule."
+    Elijah "但不能滥用特权！这是规则。这就是规则。"
+
+# game/logic/events/haley.rpy:4753
+translate chinese Haley_22_label_6ba73002:
+
+    # Elijah "And dad? He's going to have a heart attack when he sees you!"
+    Elijah "那爸爸呢？! 他看到你的时候会有心脏病发作的!"
+
+# game/logic/events/haley.rpy:4783
+translate chinese Haley_22_label_26c0c8c0:
+
+    # ch_Name "..at any time, day or night."
+    ch_Name "。。。在白天和晚上的任何时候。"
+

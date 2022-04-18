@@ -824,3 +824,11 @@ translate chinese strings:
     old "Request another room"
     new "请求另一个房间"
 
+# TODO: Translation updated at 2022-04-18 21:02
+
+# game/logic/events/mina.rpy:240
+translate chinese Mina_2_label_7a2bc9c7:
+
+    # Mina "And if my boss finds out clients aren't happy, I won't get a promotion."
+    Mina "如果我的老板发现客户很满意，我就得不到提升了。"
+

@@ -11503,3 +11503,35 @@ translate chinese Lily_6_label_224_0ae9bcd0:
     # ""
     ""
 
+# TODO: Translation updated at 2022-04-18 21:02
+
+# game/logic/events/lily.rpy:2493
+translate chinese Lily_8_label_L_122_1783c03c:
+
+    # ch_Name "{i}(It's so tight and wet, I can't believe it...){/i}"
+    ch_Name "{i}(太紧了，我不敢相信。。。){/i}"
+
+# game/logic/events/lily.rpy:3133
+translate chinese Lily_10_label_327c5a79:
+
+    # Lily "I guess... I guess it's true."
+    Lily "我想。。。我猜是这样的。"
+
+# game/logic/events/lily.rpy:3152
+translate chinese Lily_10_label_282d18c4:
+
+    # Lily "He-he, well I am doubly pleased to hear that from you."
+    Lily "哈-哈，好吧，听到你这么说，我倍感高兴。"
+
+# game/logic/events/lily.rpy:3224
+translate chinese Lily_10_label_4eb4af5b:
+
+    # ch_Name "Did something happen?"
+    ch_Name "发生了什么事吗？"
+
+# game/logic/events/lily.rpy:3253
+translate chinese Lily_10_label_1617656a:
+
+    # ch_Name "{i}(Alright. I better talk with her when she's in a better mood.){/i}"
+    ch_Name "{i}（好吧。我最好在她有心情的时候和她谈谈。）{/i}"
+
