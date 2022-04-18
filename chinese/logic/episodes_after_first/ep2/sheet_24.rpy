@@ -681,7 +681,7 @@ translate chinese sheet_24_end_game_6a97bd4d:
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:445
 translate chinese sheet_24_end_game_16c0256d:
 
-    # ch_Name "{i}(Whoa, was that a clue, or was I imagine it?){/i}"
+    # ch_Name "{i}(Whoa, was that a clue or was I imagining it?){/i}"
     ch_Name "{i}(哇，这是暗示吗，还是我想象出来的?){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:450

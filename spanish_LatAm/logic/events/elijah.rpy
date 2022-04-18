@@ -81,7 +81,7 @@ translate spanish_LatAm Elijah_1_label_35e0ad63:
 # game/logic/events/elijah.rpy:178
 translate spanish_LatAm Elijah_1_label_07a8e0f7:
 
-    # Elijah "Here, take your {b}student card{/b}... Show it to the library."
+    # Elijah "Here take your Student ID Card... Show it at the library."
     Elijah ""
 
 # game/logic/events/elijah.rpy:179
