@@ -1024,1141 +1024,1141 @@ translate philippine Victoria_2_label_44_2fa7d6e6:
 translate philippine Victoria_2_label_44_2a1b8785:
 
     # Victoria "Well and good, then let's get back to the lesson."
-    Victoria ""
+    Victoria "Mabuti naman, ngayon babalik na tayo sa aralin."
 
 # game/logic/events/victoria.rpy:493
 translate philippine Victoria_2_label_44_63939870:
 
     # Victoria "Wizards and certain creatures can manipulate magic."
-    Victoria ""
+    Victoria "Ang mga salamangkero at ilang mga nilalang ay maaaring gumamit ng mahika."
 
 # game/logic/events/victoria.rpy:494
 translate philippine Victoria_2_label_44_4ffeb3d1:
 
     # Victoria "And use it to change the matter of the world."
-    Victoria ""
+    Victoria "Upang baguhin ang anyo ng mundo."
 
 # game/logic/events/victoria.rpy:495
 translate philippine Victoria_2_label_44_cc9b6f19:
 
     # Victoria "This ability is innate."
-    Victoria ""
+    Victoria "Ang kakayahang ito ay likas."
 
 # game/logic/events/victoria.rpy:497
 translate philippine Victoria_2_label_44_d49b4aa6:
 
     # Victoria "People first began to notice their ability to do magic a long time ago."
-    Victoria ""
+    Victoria "Matagal nang alam ng mga tao ang kanilang kakayahang gumawa ng mahika."
 
 # game/logic/events/victoria.rpy:498
 translate philippine Victoria_2_label_44_59a3eb1b:
 
     # Victoria "For centuries, magic was not controlled in any way."
-    Victoria ""
+    Victoria "Sa loob ng maraming siglo, ang mahika ay hindi kontrolado sa anumang paraan."
 
 # game/logic/events/victoria.rpy:499
 translate philippine Victoria_2_label_44_baffa702:
 
     # Victoria "And quite a bit of it was made public."
-    Victoria ""
+    Victoria "At medyo kilala pa ito sa publiko."
 
 # game/logic/events/victoria.rpy:500
 translate philippine Victoria_2_label_44_96b7ab8a:
 
     # Victoria "Which led to the persecution and extermination of magicians."
-    Victoria ""
+    Victoria "Ito ay humantong sa pag-uusig at pagpuksa sa mga salamangkero."
 
 # game/logic/events/victoria.rpy:502
 translate philippine Victoria_2_label_44_5d7ff539:
 
     # Victoria "Fortunately, this stopped before the first written sources appeared."
-    Victoria ""
+    Victoria "Mabuti naman na huminto ito bago lumitaw ang unang nakasulat na mga mapagkukunan."
 
 # game/logic/events/victoria.rpy:503
 translate philippine Victoria_2_label_44_7908f42e:
 
     # Victoria "It is now accepted around the world that magic is kept secret from non-magicians."
-    Victoria ""
+    Victoria "Tinatanggap na ngayon sa buong mundo na ang mahika ay sekreto mula sa mga hindi salamangkero."
 
 # game/logic/events/victoria.rpy:504
 translate philippine Victoria_2_label_44_4cbedd9d:
 
     # Victoria "And it is not used to influence secular society."
-    Victoria ""
+    Victoria "At hindi ito ginagamit upang maimpluwensyahan ang sekular na lipunan."
 
 # game/logic/events/victoria.rpy:506
 translate philippine Victoria_2_label_44_de429efa:
 
     # Victoria "But you will study this in more detail in the history of magic."
-    Victoria ""
+    Victoria "Ngunit pag-aaralan ninyo ito nang mas detalyado sa kasaysayan ng mahika."
 
 # game/logic/events/victoria.rpy:507
 translate philippine Victoria_2_label_44_1c68b59b:
 
     # Victoria "And that's all for today."
-    Victoria ""
+    Victoria "At iyon lang para sa araw na ito."
 
 # game/logic/events/victoria.rpy:508
 translate philippine Victoria_2_label_44_b02e2a12:
 
     # Victoria "Your homework remains the same: Find your source of power."
-    Victoria ""
+    Victoria "Nanatili pa rin ang takdang-aralin: Hanapin ang iyong pinagmumulan ng kapangyarihan."
 
 # game/logic/events/victoria.rpy:511
 translate philippine Victoria_2_label_44_66ce9b6e:
 
     # Victoria "That's it for today! See you tomorrow."
-    Victoria ""
+    Victoria "Yun lang para sa araw na ito! See you tomorrow."
 
 # game/logic/events/victoria.rpy:512
 translate philippine Victoria_2_label_44_4dda41e8:
 
     # Victoria "Don't forget about the Potion brewing lesson. Sabrina is waiting for you, guys!"
-    Victoria ""
+    Victoria "Wag ninyong kakalimutan ang aralin sa Potions. Hinihintay na kayo ni Sabrina!"
 
 # game/logic/events/victoria.rpy:515
 translate philippine Victoria_2_label_44_b46243d0:
 
     # Joshi "Man, potion brewing sucks. I'll probably skip. Who wants with me?"
-    Joshi ""
+    Joshi "Naku, nakakainis ang Potions. Malamang laktawan ko. Sinong gustong sumama sa akin?"
 
 # game/logic/events/victoria.rpy:516
 translate philippine Victoria_2_label_44_0bb71d98:
 
     # ch_Name "Don't you want to earn house points?"
-    ch_Name ""
+    ch_Name "Ayaw mo bang kumita ng mga puntos?"
 
 # game/logic/events/victoria.rpy:517
 translate philippine Victoria_2_label_44_f9b12352:
 
     # Joshi "I couldn't care less about house points, bro."
-    Joshi ""
+    Joshi "Wala akong pakialam sa mga puntos, bro."
 
 # game/logic/events/victoria.rpy:518
 translate philippine Victoria_2_label_44_b8514a39:
 
     # Joshi "See you guys later."
-    Joshi ""
+    Joshi "Mamaya naman."
 
 # game/logic/events/victoria.rpy:522
 translate philippine Victoria_2_label_44_8716a5d7:
 
     # ch_Name "{i}(I hope that guy is wrong, and this time potions will be more enjoyable.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sana mali siya, at sa pagkakataong ito magiging mas kasiya-siya ang Potions.){/i}"
 
 # game/logic/events/victoria.rpy:523
 translate philippine Victoria_2_label_44_17748fab:
 
     # ch_Name "{i}(But even if the theory is boring, I'm sure it'll be helpful in future.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ngunit kahit na nakakainip ang teorya, sigurado akong makakatulong ito sa hinaharap.){/i}"
 
 # game/logic/events/victoria.rpy:538
 translate philippine Victoria_3_label_e14dd911:
 
     # Victoria "Class, attention!"
-    Victoria ""
+    Victoria "Klase, makinig kayo!"
 
 # game/logic/events/victoria.rpy:539
 translate philippine Victoria_3_label_f5cc9ece:
 
     # Victoria "The lesson is about to begin."
-    Victoria ""
+    Victoria "Magsisimula na ang aralin."
 
 # game/logic/events/victoria.rpy:540
 translate philippine Victoria_3_label_2f909817:
 
     # Victoria "Today's topic: Mastering the source of power."
-    Victoria ""
+    Victoria "Paksa ngayon: Pagsasanay ng pinagmumulan ng kapangyarihan."
 
 # game/logic/events/victoria.rpy:541
 translate philippine Victoria_3_label_86d22989:
 
     # Victoria "Would anyone like to talk about their progress?"
-    Victoria ""
+    Victoria "May gusto bang magsalita tungkol sa kanilang paghahanap?"
 
 # game/logic/events/victoria.rpy:543
 translate philippine Victoria_3_label_efc48da6:
 
     # Victoria "How about you, Mr. [Surname]?"
-    Victoria ""
+    Victoria "Ikaw, Mr. [Surname]?"
 
 # game/logic/events/victoria.rpy:544
 translate philippine Victoria_3_label_c7ea5672:
 
     # ch_Name "Who? Me?"
-    ch_Name ""
+    ch_Name "Sino? Ako?"
 
 # game/logic/events/victoria.rpy:545
 translate philippine Victoria_3_label_121ff22d:
 
     # Victoria "Yes. You."
-    Victoria ""
+    Victoria "Oo. Ikaw."
 
 # game/logic/events/victoria.rpy:546
 translate philippine Victoria_3_label_d2dfab03:
 
     # Victoria "So, have you found your source of power?"
-    Victoria ""
+    Victoria "Nahanap mo na ba ang pinagmumulan ng kakayahan mo?"
 
 # game/logic/events/victoria.rpy:548
 translate philippine Victoria_3_label_6287174b:
 
     # ch_Name "{i}(It's about time I showed the power Leona gave me!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Panahon na para ipakita ko ang kapangyarihang ibinigay sa akin ni Leona!){/i}"
 
 # game/logic/events/victoria.rpy:558
 translate philippine Victoria_3_label_ce4e5780:
 
     # ch_Name "I'm not 100%% sure...{w} But I think I have."
-    ch_Name ""
+    ch_Name "Hindi pa talaga akong sigurado...{w} Pero sa tingin ko nahanap ko na."
 
 # game/logic/events/victoria.rpy:559
 translate philippine Victoria_3_label_592b902c:
 
     # Victoria "More Courage!"
-    Victoria ""
+    Victoria "Dapat matapang!"
 
 # game/logic/events/victoria.rpy:560
 translate philippine Victoria_3_label_31670eef:
 
     # ch_Name "...I mean...{w} I have. I have!"
-    ch_Name ""
+    ch_Name "...Ibig kong sabihin...{w} Nahanap ko na. Nahanap ko na!"
 
 # game/logic/events/victoria.rpy:561
 translate philippine Victoria_3_label_959fa115:
 
     # ch_Name "I think I can control the source of power."
-    ch_Name ""
+    ch_Name "Parang kaya ko nang kontrolin ang pinagmumulan ng kapangyarihan."
 
 # game/logic/events/victoria.rpy:563
 translate philippine Victoria_3_label_e2015a1d:
 
     # Victoria "Come on! Be brave!"
-    Victoria ""
+    Victoria "Sige na! Dapat matapang!"
 
 # game/logic/events/victoria.rpy:569
 translate philippine Victoria_3_label_18_820fb866:
 
     # ch_Name "Of course. What did you expect?"
-    ch_Name ""
+    ch_Name "Oo naman. Ano bang inaasahan mo?"
 
 # game/logic/events/victoria.rpy:570
 translate philippine Victoria_3_label_18_46d07922:
 
     # Victoria "You sound pretty confident in yourself."
-    Victoria ""
+    Victoria "Mukhang may tiwala ka sa sarili mo."
 
 # game/logic/events/victoria.rpy:571
 translate philippine Victoria_3_label_18_45e000a3:
 
     # Victoria "That's commendable."
-    Victoria ""
+    Victoria "Iyan ay kapuri-puri."
 
 # game/logic/events/victoria.rpy:573
 translate philippine Victoria_3_label_18_b7bacdbb:
 
     # ch_Name "It's only natural."
-    ch_Name ""
+    ch_Name "Natural lang naman."
 
 # game/logic/events/victoria.rpy:579
 translate philippine Victoria_3_label_22_a8579663:
 
     # Victoria "Tell me, what is the source of your strength?"
-    Victoria ""
+    Victoria "Sabihin mo sa akin, ano ang pinagmumulan ng iyong lakas?"
 
 # game/logic/events/victoria.rpy:580
 translate philippine Victoria_3_label_22_f28d953f:
 
     # ch_Name "This may sound rather unusual."
-    ch_Name ""
+    ch_Name "Maaaring ito ay medyo hindi karaniwan."
 
 # game/logic/events/victoria.rpy:581
 translate philippine Victoria_3_label_22_cd606afb:
 
     # ch_Name "But none of the elements of nature fit me."
-    ch_Name ""
+    ch_Name "Ngunit wala sa mga elemento ng kalikasan ang angkop sa akin."
 
 # game/logic/events/victoria.rpy:583
 translate philippine Victoria_3_label_22_fa5977a2:
 
     # Victoria "Yes?"
-    Victoria ""
+    Victoria "At?"
 
 # game/logic/events/victoria.rpy:584
 translate philippine Victoria_3_label_22_a53152b1:
 
     # Victoria "So what did you do?"
-    Victoria ""
+    Victoria "Ano ang ginawa mo?"
 
 # game/logic/events/victoria.rpy:585
 translate philippine Victoria_3_label_22_f94bf6b1:
 
     # Victoria "You found another solution?"
-    Victoria ""
+    Victoria "May iba ka bang solusyon?"
 
 # game/logic/events/victoria.rpy:587
 translate philippine Victoria_3_label_22_9150492d:
 
     # ch_Name "Exactly."
-    ch_Name ""
+    ch_Name "Tama."
 
 # game/logic/events/victoria.rpy:588
 translate philippine Victoria_3_label_22_bc1f03fe:
 
     # Victoria "Tell me."
-    Victoria ""
+    Victoria "Sabihin mo."
 
 # game/logic/events/victoria.rpy:589
 translate philippine Victoria_3_label_22_8d396d69:
 
     # ch_Name "I don't know exactly what it is."
-    ch_Name ""
+    ch_Name "Hindi pa ako sigurado kung ano talaga ito."
 
 # game/logic/events/victoria.rpy:590
 translate philippine Victoria_3_label_22_56c6fafa:
 
     # ch_Name "But it's a burning feeling inside."
-    ch_Name ""
+    ch_Name "Pero ramdam ko na nasusunog ang kaluluwa ko."
 
 # game/logic/events/victoria.rpy:591
 translate philippine Victoria_3_label_22_ee1af1bd:
 
     # ch_Name "The desire to be first."
-    ch_Name ""
+    ch_Name "Dahil gusto kong mauna sa lahat."
 
 # game/logic/events/victoria.rpy:593
 translate philippine Victoria_3_label_22_8f1c521e:
 
     # Victoria "I wonder..."
-    Victoria ""
+    Victoria "Ano kaya..."
 
 # game/logic/events/victoria.rpy:594
 translate philippine Victoria_3_label_22_0370cc55:
 
     # Victoria "You're not an athlete by any chance, are you?"
-    Victoria ""
+    Victoria "Nagkakataon ba na atleta ka?"
 
 # game/logic/events/victoria.rpy:595
 translate philippine Victoria_3_label_22_a9d10fda:
 
     # ch_Name "How did you know that?!"
-    ch_Name ""
+    ch_Name "Paano mo nalaman?!"
 
 # game/logic/events/victoria.rpy:596
 translate philippine Victoria_3_label_22_ab09f47f:
 
     # Victoria "Oh, it all makes sense to me then."
-    Victoria ""
+    Victoria "Oh, may katuturan na para sa akin."
 
 # game/logic/events/victoria.rpy:598
 translate philippine Victoria_3_label_22_bc99e26d:
 
     # Victoria "It's the power of motivation."
-    Victoria ""
+    Victoria "Iyan ang kapangyarihan ng pagganyak."
 
 # game/logic/events/victoria.rpy:599
 translate philippine Victoria_3_label_22_aeb7c838:
 
     # Victoria "Athletes have been motivated by achievement since childhood."
-    Victoria ""
+    Victoria "Ang mga atleta ay inuudyuk ng tagumpay mula noong bata pa sila."
 
 # game/logic/events/victoria.rpy:600
 translate philippine Victoria_3_label_22_611a1371:
 
     # Victoria "No wonder that's the path closest to you."
-    Victoria ""
+    Victoria "Hindi nakakagulat na iyon ang landas na pinakamalapit sa iyo."
 
 # game/logic/events/victoria.rpy:602
 translate philippine Victoria_3_label_22_cb758d05:
 
     # ch_Name "{i}(Whew... Good thing it worked out...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Whew... Buti na lang...){/i}"
 
 # game/logic/events/victoria.rpy:603
 translate philippine Victoria_3_label_22_1ed49ba8:
 
     # ch_Name "{i}(If it weren't for my past...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kung hindi dahil sa nakaraan ko...){/i}"
 
 # game/logic/events/victoria.rpy:604
 translate philippine Victoria_3_label_22_ed2a747a:
 
     # ch_Name "{i}(It would have been hard for me to explain Leona's ″gift.″){/i}"
-    ch_Name ""
+    ch_Name {i}(Mahirap para sa akin na ipaliwanag ang \"regalo\" ni Leona){/i}"
 
 # game/logic/events/victoria.rpy:606
 translate philippine Victoria_3_label_22_fc132003:
 
     # Victoria "Well done, [Name]."
-    Victoria ""
+    Victoria "Magaling, [Name]."
 
 # game/logic/events/victoria.rpy:607
 translate philippine Victoria_3_label_22_3da853f4:
 
     # Victoria "Keep looking for sources of power."
-    Victoria ""
+    Victoria "Patuloy na maghanap ng mga mapagkukunan ng kapangyarihan."
 
 # game/logic/events/victoria.rpy:608
 translate philippine Victoria_3_label_22_5cac1f55:
 
     # Victoria "It will help you feel your magic better."
-    Victoria ""
+    Victoria "Ito ay makakatulong sa iyo na madama ang mahika nang mas mahusay."
 
 # game/logic/events/victoria.rpy:609
 translate philippine Victoria_3_label_22_6b19d429:
 
     # ch_Name "Thank you for the advice."
-    ch_Name ""
+    ch_Name "Salamat sa payo."
 
 # game/logic/events/victoria.rpy:611
 translate philippine Victoria_3_label_22_9fde08e7:
 
     # Victoria "Anyone else wants to tell me about their source?"
-    Victoria ""
+    Victoria "May iba bang gustong sabihin sa akin ang pinagkukunan nila?"
 
 # game/logic/events/victoria.rpy:612
 translate philippine Victoria_3_label_22_9681c55e:
 
     # Joshi "Yesterday, as I was roasting marshmallows on the fire, it hit me..."
-    Joshi ""
+    Joshi "Kahapon, habang nag-iihaw ako ng marshmallow sa apoy, naisip ko na..."
 
 # game/logic/events/victoria.rpy:614
 translate philippine Victoria_3_label_22_b49c13b2:
 
     # Victoria "Wait...Were you roasting marshmallows on academy grounds?"
-    Victoria ""
+    Victoria "Teka...Nag-ihaw ka ba ng marshmallow sa loob ng akademiya?"
 
 # game/logic/events/victoria.rpy:615
 translate philippine Victoria_3_label_22_5522c63c:
 
     # Victoria "Interesting!"
-    Victoria ""
+    Victoria "Kawili-wili!"
 
 # game/logic/events/victoria.rpy:616
 translate philippine Victoria_3_label_22_2b874df7:
 
     # Victoria "Tell me more about that!"
-    Victoria ""
+    Victoria "Sabihin mo pa sa akin ang tungkol diyan!"
 
 # game/logic/events/victoria.rpy:618
 translate philippine Victoria_3_label_22_99990fc3:
 
     # "After a long and uninteresting story about roasting marshmallows."
-    ""
+    "Pagkatapos ng isang mahaba at hindi mahalagang kwento tungkol sa pag-ihaw ng marshmallow."
 
 # game/logic/events/victoria.rpy:619
 translate philippine Victoria_3_label_22_06fe3081:
 
     # Victoria "Oops! I totally lost track of the time."
-    Victoria ""
+    Victoria "Oops! Nawala sa isip ko ang oras."
 
 # game/logic/events/victoria.rpy:620
 translate philippine Victoria_3_label_22_e904ad15:
 
     # Victoria "Thank you all for your attention."
-    Victoria ""
+    Victoria "Salamat sa lahat sa iyong pagkikinig."
 
 # game/logic/events/victoria.rpy:621
 translate philippine Victoria_3_label_22_6167f34f:
 
     # Victoria "That's the end of our lesson for today!"
-    Victoria ""
+    Victoria "Tapos na ang aralin natin ngayon!"
 
 # game/logic/events/victoria.rpy:634
 translate philippine Victoria_4_label_3636fdd8:
 
     # Victoria "Class, attention! Class is about to begin."
-    Victoria ""
+    Victoria "Makinig kayo, mga estudyante! Magsisimula na ang klase."
 
 # game/logic/events/victoria.rpy:635
 translate philippine Victoria_4_label_040127af:
 
     # Victoria "Today you and I will learn how to use the energy of a power source."
-    Victoria ""
+    Victoria "Ngayon matututo tayo kung paano gamitin ang enerhiya ng pinagmumulan natin."
 
 # game/logic/events/victoria.rpy:636
 translate philippine Victoria_4_label_be98e686:
 
     # Victoria "To create a simple projectile of magical energy."
-    Victoria ""
+    Victoria "Upang lumikha ng isang simpleng panudla ng mahikang enerhiya."
 
 # game/logic/events/victoria.rpy:637
 translate philippine Victoria_4_label_29d5aaec:
 
     # Victoria "To form a spell out of magical matter."
-    Victoria ""
+    Victoria "Upang bumuo ng mahika mula sa mahiwagang bagay."
 
 # game/logic/events/victoria.rpy:639
 translate philippine Victoria_4_label_2e46c6ae:
 
     # Victoria "Your task: to clearly visualize the result."
-    Victoria ""
+    Victoria "Ang iyong gawain: mailarawan nang malinaw ang resulta."
 
 # game/logic/events/victoria.rpy:640
 translate philippine Victoria_4_label_5601a294:
 
     # Victoria "The form, the properties and all the characteristics of the spell."
-    Victoria ""
+    Victoria "Ang anyo at lahat ng mga katangian ng mahika."
 
 # game/logic/events/victoria.rpy:641
 translate philippine Victoria_4_label_a3995b8b:
 
     # Victoria "The more complex the magic, the harder it is to exactly achieve the desired result."
-    Victoria ""
+    Victoria "Kung mas kumplikado ang magic, mas mahirap na eksaktong makamit ang ninanais na resulta."
 
 # game/logic/events/victoria.rpy:643
 translate philippine Victoria_4_label_d21100c5:
 
     # Victoria "To do this, we start with your source of power."
-    Victoria ""
+    Victoria "Upang gawin ito, magsimula tayo sa iyong pinagmumulan ng kapangyarihan."
 
 # game/logic/events/victoria.rpy:644
 translate philippine Victoria_4_label_949ae303:
 
     # Victoria "Concentrating on it, start imagining how you change it."
-    Victoria ""
+    Victoria "Magpokus kayo, at isipin kung paano ito babaguhin."
 
 # game/logic/events/victoria.rpy:645
 translate philippine Victoria_4_label_f21189ac:
 
     # Victoria "To begin, imagine something simple: the shape of a ball."
-    Victoria ""
+    Victoria "Halimbawa, isipin ang isang bagay na simple: ang hugis ng isang bola."
 
 # game/logic/events/victoria.rpy:646
 translate philippine Victoria_4_label_d1be2579:
 
     # Victoria "A smooth ball of concentrated magical power."
-    Victoria ""
+    Victoria "Isang makinis na bola ng mahikang kapangyarihan."
 
 # game/logic/events/victoria.rpy:647
 translate philippine Victoria_4_label_c77a3f32:
 
     # Victoria "Nourished by the nature of your source."
-    Victoria ""
+    Victoria "Nilikha ng likas na katangian ng iyong pinagmulan."
 
 # game/logic/events/victoria.rpy:649
 translate philippine Victoria_4_label_caf4de98:
 
     # Gabriella "Excuse me!"
-    Gabriella ""
+    Gabriella "Pasensya po!"
 
 # game/logic/events/victoria.rpy:650
 translate philippine Victoria_4_label_fa5977a2:
 
     # Victoria "Yes?"
-    Victoria ""
+    Victoria "Ano?"
 
 # game/logic/events/victoria.rpy:651
 translate philippine Victoria_4_label_6c34870b:
 
     # Gabriella "And if my source of power is heavily tangible..."
-    Gabriella ""
+    Gabriella "At kung ang aking pinagmumulan ay lubos na nakikita..."
 
 # game/logic/events/victoria.rpy:652
 translate philippine Victoria_4_label_8ba0b52f:
 
     # Gabriella "How do you concentrate it into such a rigorous form?"
-    Gabriella ""
+    Gabriella "Paano mo ito ibagay sa ganitong mahigpit na anyo?"
 
 # game/logic/events/victoria.rpy:654
 translate philippine Victoria_4_label_95de31cb:
 
     # Victoria "That's a good question."
-    Victoria ""
+    Victoria "Mabuting tanong."
 
 # game/logic/events/victoria.rpy:655
 translate philippine Victoria_4_label_22909a76:
 
     # Victoria "You know what the problem with all Cordale freshmen is?"
-    Victoria ""
+    Victoria "Alam nyo ba kung ano ang problema sa lahat ng Cordale freshmen?"
 
 # game/logic/events/victoria.rpy:656
 translate philippine Victoria_4_label_a8f4e851:
 
     # Victoria "You guys think in terms of the physics of our world."
-    Victoria ""
+    Victoria "Nag-iisip kayo ng mga tuntunin ng pisika ng ating mundo."
 
 # game/logic/events/victoria.rpy:657
 translate philippine Victoria_4_label_2a44258c:
 
     # Victoria "And that's okay, because you grew up here and studied here."
-    Victoria ""
+    Victoria "At ayos lang iyon, kasi dito kayo lumaki at dito kayo nag-aral."
 
 # game/logic/events/victoria.rpy:658
 translate philippine Victoria_4_label_fed71bf1:
 
     # Victoria "But magic isn't one world."
-    Victoria ""
+    Victoria "Ngunit ang magic ay hindi mula sa isang mundo."
 
 # game/logic/events/victoria.rpy:659
 translate philippine Victoria_4_label_e1aa54c0:
 
     # Victoria "And it's not limited by the rules of our universe."
-    Victoria ""
+    Victoria "At hindi ito nalilimitahan ng mga patakaran ng ating uniberso."
 
 # game/logic/events/victoria.rpy:660
 translate philippine Victoria_4_label_01628f9f:
 
     # Victoria "In order to create a true miracle..."
-    Victoria ""
+    Victoria "Upang lumikha ng isang tunay na himala..."
 
 # game/logic/events/victoria.rpy:661
 translate philippine Victoria_4_label_4f512253:
 
     # Victoria "You have to make yourself forget those rules."
-    Victoria ""
+    Victoria "Kailangan ninyong kalimutan ang mga patakarang iyon."
 
 # game/logic/events/victoria.rpy:663
 translate philippine Victoria_4_label_2f86aa31:
 
     # Victoria "Look: right now there is just air in the palm of my hand."
-    Victoria ""
+    Victoria "Heto: ngayon lang hangin ang nasa palad ko."
 
 # game/logic/events/victoria.rpy:664
 translate philippine Victoria_4_label_bde64ef3:
 
     # Victoria "Thanks to the source of power in the air, I begin to draw energy."
-    Victoria ""
+    Victoria "At dahil sa kapangyarihan sa hangin, nagsisimula akong kumuha ng enerhiya."
 
 # game/logic/events/victoria.rpy:665
 translate philippine Victoria_4_label_f4923b86:
 
     # Victoria "And I hold in my head a perfectly straight ball."
-    Victoria ""
+    Victoria "At hawak ko sa aking isip ang isang perpektong bola."
 
 # game/logic/events/victoria.rpy:666
 translate philippine Victoria_4_label_0e13d500:
 
     # Victoria "While the ball is forming I keep in my mind all the time..."
-    Victoria ""
+    Victoria "Habang nabubuo ang bola lagi kong iniisip..."
 
 # game/logic/events/victoria.rpy:667
 translate philippine Victoria_4_label_ae2057d7:
 
     # Victoria "The balloon, the gust of wind, the jolt."
-    Victoria ""
+    Victoria "Ang lobo, ang bugso ng hangin, ang pag-alog."
 
 # game/logic/events/victoria.rpy:668
 translate philippine Victoria_4_label_cc887211:
 
     # Victoria "It's very simple, isn't it?"
-    Victoria ""
+    Victoria "Napakasimple nito, diba?"
 
 # game/logic/events/victoria.rpy:669
 translate philippine Victoria_4_label_438750d4:
 
     # Victoria "I use magic to enclose the gust of wind into a ball."
-    Victoria ""
+    Victoria "Gumagamit ako ng mahika upang ilakip ang bugso ng hangin sa isang bola."
 
 # game/logic/events/victoria.rpy:670
 translate philippine Victoria_4_label_78cfeecb:
 
     # Victoria "Strengthening the properties of the element, but not changing them."
-    Victoria ""
+    Victoria "Pagpapalakas ng mga katangian ng elemento, ngunit hindi binabago."
 
 # game/logic/events/victoria.rpy:671
 translate philippine Victoria_4_label_ee3efbb3:
 
     # Victoria "It's simple magic, easy to learn."
-    Victoria ""
+    Victoria "Ito ay simpleng mahika, madaling matutunan."
 
 # game/logic/events/victoria.rpy:672
 translate philippine Victoria_4_label_0669c92e:
 
     # Victoria "Even an ogre would be knocked unconscious by such a projectile."
-    Victoria ""
+    Victoria "Kahit isang dambuhala ay mawalan ng malay kung matamaan nito."
 
 # game/logic/events/victoria.rpy:674
 translate philippine Victoria_4_label_0d3d7055:
 
     # Victoria "I hope everyone understands how it works."
-    Victoria ""
+    Victoria "Sana maintindihan ng lahat kung paano ito gumagana."
 
 # game/logic/events/victoria.rpy:675
 translate philippine Victoria_4_label_25122621:
 
     # Victoria "By the next session, I want all of you to be able to create one!"
-    Victoria ""
+    Victoria "Sa susunod na klase, gusto kong lahat kayo ay makagawa nito!"
 
 # game/logic/events/victoria.rpy:676
 translate philippine Victoria_4_label_3c0a4f89:
 
     # Victoria "At least for a few seconds."
-    Victoria ""
+    Victoria "Kahit na ilang segundo lamang."
 
 # game/logic/events/victoria.rpy:678
 translate philippine Victoria_4_label_8fbbb0c1:
 
     # Victoria "So practice more often."
-    Victoria ""
+    Victoria "Kaya magsanay nang mas madalas."
 
 # game/logic/events/victoria.rpy:679
 translate philippine Victoria_4_label_b5d3e3e3:
 
     # Victoria "Every time you try, it will get easier and easier!"
-    Victoria ""
+    Victoria "Sa tuwing susubukan ninyo, ito ay magiging mas madali at mas madali!"
 
 # game/logic/events/victoria.rpy:680
 translate philippine Victoria_4_label_4aef145d:
 
     # Victoria "Trust me."
-    Victoria ""
+    Victoria "Maniwala kayo sa akin."
 
 # game/logic/events/victoria.rpy:681
 translate philippine Victoria_4_label_7c18edee:
 
     # Victoria "Class dismissed."
-    Victoria ""
+    Victoria "Tapos na ang klase."
 
 # game/logic/events/victoria.rpy:694
 translate philippine Victoria_5_label_6671f384:
 
     # Victoria "Class is starting!"
-    Victoria ""
+    Victoria "Magsisimula na ang klase!"
 
 # game/logic/events/victoria.rpy:695
 translate philippine Victoria_5_label_d096d369:
 
     # Victoria "Class! Turn to page 42 of the Magic Fundamentals textbook."
-    Victoria ""
+    Victoria "Class! Buksan ang ika-42 na pahina ng librong Magic Fundamentals."
 
 # game/logic/events/victoria.rpy:696
 translate philippine Victoria_5_label_ce0f6b36:
 
     # Victoria "Topic: Defensive and Attack Spells."
-    Victoria ""
+    Victoria "Paksa: Mahikang Nagsasanggalang at Umaatake."
 
 # game/logic/events/victoria.rpy:698
 translate philippine Victoria_5_label_ba86656b:
 
     # ch_Name "What's going on there? Is she looking for a book?"
-    ch_Name ""
+    ch_Name "Ano ang nangyayari? Naghahanap ba siya ng libro?"
 
 # game/logic/events/victoria.rpy:699
 translate philippine Victoria_5_label_1a582fc5:
 
     # ch_Name "{i}(What are you looking at, Joshie?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ano ang tinitingin-tingin mo, Joshie?){/i}"
 
 # game/logic/events/victoria.rpy:701
 translate philippine Victoria_5_label_0168bc94:
 
     # ch_Name "I can't blame you, though."
-    ch_Name ""
+    ch_Name "Pero hindi kita masisisi."
 
 # game/logic/events/victoria.rpy:702
 translate philippine Victoria_5_label_170b77ff:
 
     # ch_Name "{i}(She's got a great ass and she's twirling it right in front of your nose...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Siya ay may mahusay na pwet at iniikot-ikot niya ito sa harap mismo ng iyong mukha...){/i}"
 
 # game/logic/events/victoria.rpy:704
 translate philippine Victoria_5_label_a75e1887:
 
     # ch_Name "{i}(I think the hem of her dress is a little bit pulled up.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parang medyo nahila ang laylayan ng damit niya.){/i}"
 
 # game/logic/events/victoria.rpy:705
 translate philippine Victoria_5_label_e4d9ab87:
 
     # ch_Name "{i}(Joshi, you lucky bastard!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Joshi, maswerte kang gago!){/i}"
 
 # game/logic/events/victoria.rpy:707
 translate philippine Victoria_5_label_80c45e51:
 
     # ch_Name "{i}(I bet it's a great view.){/i}"
-    ch_Name ""
+    ch_Name {i}(Tiyak na magandang tanawinn iyon.){/i}
 
 # game/logic/events/victoria.rpy:708
 translate philippine Victoria_5_label_67da31ee:
 
     # ch_Name "{i}(Damn!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bwisit!){/i}"
 
 # game/logic/events/victoria.rpy:709
 translate philippine Victoria_5_label_87fc2484:
 
     # ch_Name "{i}(How can I concentrate on my studies with this?!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Paano ako makakapagpokus sa aking pag-aaral na ganito ako?!){/i}"
 
 # game/logic/events/victoria.rpy:711
 translate philippine Victoria_5_label_528f0e86:
 
     # Victoria "As you already know, the nature of magic allows it to change its properties."
-    Victoria ""
+    Victoria "Alam niyo na ang likas na katangian ng mahika ay nagpapahintulot na baguhin nito ang mga katangian nito."
 
 # game/logic/events/victoria.rpy:712
 translate philippine Victoria_5_label_b9620d0e:
 
     # Victoria "And the properties of the objects it interacts with."
-    Victoria ""
+    Victoria "At ang mga katangian ng mga bagay na nakikipag-ugnayan dito."
 
 # game/logic/events/victoria.rpy:713
 translate philippine Victoria_5_label_a3700443:
 
     # Victoria "This has many uses."
-    Victoria ""
+    Victoria "Ito ay maraming gamit."
 
 # game/logic/events/victoria.rpy:714
 translate philippine Victoria_5_label_d7972d97:
 
     # Victoria "But the more complex and unusual a property is for an object."
-    Victoria ""
+    Victoria "Ngunit ang mas kumplikado at hindi pangkaraniwang bagay ay..."
 
 # game/logic/events/victoria.rpy:716
 translate philippine Victoria_5_label_5e2e0f07:
 
     # Victoria "The harder it is to create it with magic."
-    Victoria ""
+    Victoria "Mas mahirap gawin ito gamit ng mahika."
 
 # game/logic/events/victoria.rpy:717
 translate philippine Victoria_5_label_0a75f26f:
 
     # Victoria "For example: it's easy to create a magic projectile."
-    Victoria ""
+    Victoria "Halimbawa: madaling gumawa ng mahikang panudla."
 
 # game/logic/events/victoria.rpy:718
 translate philippine Victoria_5_label_726c5be6:
 
     # Victoria "But it's much harder to make in into real fireball."
-    Victoria ""
+    Victoria "Ngunit mas mahirap itong gawing isang totoong bola ng apoy."
 
 # game/logic/events/victoria.rpy:720
 translate philippine Victoria_5_label_9fd83f34:
 
     # Victoria "Remember when we studied magic projectiles?"
-    Victoria ""
+    Victoria "Naaalala  iyo ba noong nag-aral tayo ng mahikang panudla?"
 
 # game/logic/events/victoria.rpy:721
 translate philippine Victoria_5_label_6cac3b2c:
 
     # Victoria "Using a balloon as an example."
-    Victoria ""
+    Victoria "Gamitin natin ang lobo bilang halimbawa."
 
 # game/logic/events/victoria.rpy:722
 translate philippine Victoria_5_label_ec4c3693:
 
     # Victoria "By adding the right emotion and presenting the right property..."
-    Victoria ""
+    Victoria "Sa pamamagitan ng pagdaragdag ng tamang emosyon at paglalahad ng tamang pag-aari..."
 
 # game/logic/events/victoria.rpy:723
 translate philippine Victoria_5_label_e884bf39:
 
     # Victoria "You can change it to suit your needs."
-    Victoria ""
+    Victoria "Maaari itong baguhin upang umangkop sa iyong mga pangangailangan."
 
 # game/logic/events/victoria.rpy:725
 translate philippine Victoria_5_label_7e071ff2:
 
     # Victoria "Next time, we're going to practice..."
-    Victoria ""
+    Victoria "Sa susunod, magsasanay na tayo..."
 
 # game/logic/events/victoria.rpy:726
 translate philippine Victoria_5_label_1df58b9d:
 
     # Victoria "...in creating the {b}Combat Bolt{/b}!"
-    Victoria ""
+    Victoria "...sa paggawa ng {b}Combat Bolt{/b}!"
 
 # game/logic/events/victoria.rpy:727
 translate philippine Victoria_5_label_00d002b7:
 
     # Victoria "This simple combat spell is in every wizard's arsenal."
-    Victoria ""
+    Victoria "Ang simpleng mahikang ito ay nasa arsenal ng bawat wizard."
 
 # game/logic/events/victoria.rpy:729
 translate philippine Victoria_5_label_9bcb4f9a:
 
     # Victoria "There will be some practical exercises..."
-    Victoria ""
+    Victoria "Magkakaroon ng ilang praktikal na pagsasanay..."
 
 # game/logic/events/victoria.rpy:730
 translate philippine Victoria_5_label_99f933f5:
 
     # Victoria "...similar to your entrance exam."
-    Victoria ""
+    Victoria "...katulad ng pagsusulit sa pasukan ninyo."
 
 # game/logic/events/victoria.rpy:731
 translate philippine Victoria_5_label_af3571cf:
 
     # ch_Name "{i}(It looks like it's going to be interesting.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mukhang magiging kawili-wili ito.){/i}"
 
 # game/logic/events/victoria.rpy:733
 translate philippine Victoria_5_label_4645d418:
 
     # Victoria "Well? Glad you're about to learn your first spell?"
-    Victoria ""
+    Victoria "At? Masaya na ba kayo na malapit niyo nang matutunan ang iyong unang mahika?"
 
 # game/logic/events/victoria.rpy:734
 translate philippine Victoria_5_label_d152b056:
 
     # Joshi "You bet!"
-    Joshi ""
+    Joshi "Tama!"
 
 # game/logic/events/victoria.rpy:735
 translate philippine Victoria_5_label_e85eebfa:
 
     # Victoria "That's good!"
-    Victoria ""
+    Victoria "Mabuti 'yan!"
 
 # game/logic/events/victoria.rpy:737
 translate philippine Victoria_5_label_5bfa2f9a:
 
     # Victoria "By the way, {b}you can join our dueling club with this spell{/b}."
-    Victoria ""
+    Victoria "Oo nga pala, {b}maaari kayong sumali sa dueling club gamit ang mahikang ito{/b}."
 
 # game/logic/events/victoria.rpy:738
 translate philippine Victoria_5_label_1678f143:
 
     # Victoria "That's the end of the lesson."
-    Victoria ""
+    Victoria "Tapos na ang klase."
 
 # game/logic/events/victoria.rpy:740
 translate philippine Victoria_5_label_b4d61fd1:
 
     # Victoria "If you need any more help learning the spell..."
-    Victoria ""
+    Victoria "Kung kailangan niyo pa ng tulong sa pag-aaral ng ito..."
 
 # game/logic/events/victoria.rpy:742
 translate philippine Victoria_5_label_7992f6ab:
 
     # Victoria "...feel free to consult me."
-    Victoria ""
+    Victoria "...huwag kayong mahiyang kumunsulta sa akin."
 
 # game/logic/events/victoria.rpy:756
 translate philippine Victoria_6_label_0a442d92:
 
     # ch_Name "Miss Lapis!"
-    ch_Name ""
+    ch_Name "Ms. Lapis!"
 
 # game/logic/events/victoria.rpy:757
 translate philippine Victoria_6_label_61df9eb7:
 
     # ch_Name "Just wanted to thank you for the lessons."
-    ch_Name ""
+    ch_Name "Gusto ko lang magpasalamat para sa mga klase."
 
 # game/logic/events/victoria.rpy:759
 translate philippine Victoria_6_label_4ea3c200:
 
     # ch_Name "It was very productive."
-    ch_Name ""
+    ch_Name "Napaka-produktibo."
 
 # game/logic/events/victoria.rpy:761
 translate philippine Victoria_6_label_1f3c446c:
 
     # Victoria "Was it?"
-    Victoria ""
+    Victoria "Talaga?"
 
 # game/logic/events/victoria.rpy:762
 translate philippine Victoria_6_label_cfd7cf28:
 
     # ch_Name "Yes, of course it has!"
-    ch_Name ""
+    ch_Name "Oo, siyempre!"
 
 # game/logic/events/victoria.rpy:763
 translate philippine Victoria_6_label_22293fbe:
 
     # ch_Name "I feel like I'm growing every day."
-    ch_Name ""
+    ch_Name "Pakiramdam ko araw-araw akong lumalaki."
 
 # game/logic/events/victoria.rpy:764
 translate philippine Victoria_6_label_35c2728c:
 
     # Victoria "It's nice to hear that."
-    Victoria ""
+    Victoria "Magandang pakinggan."
 
 # game/logic/events/victoria.rpy:766
 translate philippine Victoria_6_label_13162ead:
 
     # ch_Name "I would like to understand exactly how to create a Combat bolt."
-    ch_Name ""
+    ch_Name "Gusto kong maunawaan nang eksakto kung paano lumikha ng Combat bolt."
 
 # game/logic/events/victoria.rpy:767
 translate philippine Victoria_6_label_8b187c95:
 
     # ch_Name "I can imagine the ball and stretch it out..."
-    ch_Name ""
+    ch_Name "Naiimagine ko ang bola at iniunat ito..."
 
 # game/logic/events/victoria.rpy:768
 translate philippine Victoria_6_label_0258f56c:
 
     # ch_Name "But how do I fill it with my source of power?"
-    ch_Name ""
+    ch_Name "Ngunit paano ko ito pupunuin ng aking pinagmumulan?"
 
 # game/logic/events/victoria.rpy:770
 translate philippine Victoria_6_label_77819ed7:
 
     # Victoria "That's an interesting way to look at it, Mr. [Surname]."
-    Victoria ""
+    Victoria "Iyan ay kawili-wiling paraan upang tingnan ito, Mr. [Surname]."
 
 # game/logic/events/victoria.rpy:771
 translate philippine Victoria_6_label_a7a9ce5b:
 
     # Victoria "But you're getting way ahead of yourself."
-    Victoria ""
+    Victoria "Pero nauuna ka sa pag-aaral mo."
 
 # game/logic/events/victoria.rpy:772
 translate philippine Victoria_6_label_61715ed1:
 
     # Victoria "Advanced spells effectively combine different magic."
-    Victoria ""
+    Victoria "Epektibong pinagsama ng mga masikot na mahika ang iba't ibang pangkukulam."
 
 # game/logic/events/victoria.rpy:773
 translate philippine Victoria_6_label_39b043de:
 
     # Victoria "And they can have several natures at once."
-    Victoria ""
+    Victoria "At maaari silang magkaroon ng maraming anyo nang sabay-sabay."
 
 # game/logic/events/victoria.rpy:775
 translate philippine Victoria_6_label_e50327cc:
 
     # Victoria "But a Combat Bolt is a pure projectile of kinetic energy."
-    Victoria ""
+    Victoria "Ngunit ang Combat Bolt ay isang purong panulda ng kinetikong enerhiya."
 
 # game/logic/events/victoria.rpy:776
 translate philippine Victoria_6_label_3793e334:
 
     # Victoria "A beginner can't turn it into a fireball just by adding fire."
-    Victoria ""
+    Victoria "Ang baguhan ay hindi makakagawa nito sa pamamagitan lamang ng pagdaragdag ng apoy."
 
 # game/logic/events/victoria.rpy:777
 translate philippine Victoria_6_label_1bc68915:
 
     # Victoria "You're just starting out, so take your time mastering everything."
-    Victoria ""
+    Victoria "Nagsisimula ka pa lang, kaya maglaan ka ng oras sa pagsanay ng lahat."
 
 # game/logic/events/victoria.rpy:779
 translate philippine Victoria_6_label_38ce42a1:
 
     # Victoria "Focus on the first step."
-    Victoria ""
+    Victoria "Tumutok sa unang hakbang."
 
 # game/logic/events/victoria.rpy:780
 translate philippine Victoria_6_label_065ac257:
 
     # Victoria "And stretch your ball of energy into projectile form."
-    Victoria ""
+    Victoria "At iunat ang iyong bola ng enerhiya sa anyo ng panudla."
 
 # game/logic/events/victoria.rpy:781
 translate philippine Victoria_6_label_993ef184:
 
     # Victoria "Believe me, it's not practical for everyone either."
-    Victoria ""
+    Victoria "Maniwala ka sa akin, hindi rin ito praktikal para sa lahat."
 
 # game/logic/events/victoria.rpy:782
 translate philippine Victoria_6_label_bd19d307:
 
     # Victoria "But get it right once and you'll remember it forever."
-    Victoria ""
+    Victoria "Ngunit gawin mo at maaalala mo ito magpakailanman."
 
 # game/logic/events/victoria.rpy:784
 translate philippine Victoria_6_label_33f96222:
 
     # ch_Name "So that's how it is."
-    ch_Name ""
+    ch_Name "Kaya pala."
 
 # game/logic/events/victoria.rpy:785
 translate philippine Victoria_6_label_8ae356e0:
 
     # ch_Name "Now I get it. Thank you."
-    ch_Name ""
+    ch_Name "Naiintindihan ko na. Salamat."
 
 # game/logic/events/victoria.rpy:786
 translate philippine Victoria_6_label_764c191b:
 
     # Victoria "No problem."
-    Victoria ""
+    Victoria "Walang problema."
 
 # game/logic/events/victoria.rpy:788
 translate philippine Victoria_6_label_f6ed6c2d:
 
     # Victoria "I'm glad to see I was wrong about you, Mr. [Surname]."
-    Victoria ""
+    Victoria "Natutuwa akong nagkamali ako sa iyo, Mr. [Surname].
 
 # game/logic/events/victoria.rpy:789
 translate philippine Victoria_6_label_2f074a1a:
 
     # ch_Name "А? Huh?"
-    ch_Name ""
+    ch_Name "Ano?"
 
 # game/logic/events/victoria.rpy:790
 translate philippine Victoria_6_label_80140f12:
 
     # Victoria "I was pretty prejudiced against you after I met you."
-    Victoria ""
+    Victoria "Medyo nagtaka ako sa iyo pagkatapos kitang makilala."
 
 # game/logic/events/victoria.rpy:791
 translate philippine Victoria_6_label_4bbd0fed:
 
     # Victoria "But it turns out you're more than just sharp-tongued."
-    Victoria ""
+    Victoria "Ngunit nakikita ko na ikaw ay higit pa sa matalas na dila."
 
 # game/logic/events/victoria.rpy:792
 translate philippine Victoria_6_label_cdf35c0e:
 
     # Victoria "Your zeal to study my subject is evident to the naked eye."
-    Victoria ""
+    Victoria "Kitang-kita sa mata ang kasigasigan mong pag-aralan ang paksa ko."
 
 # game/logic/events/victoria.rpy:793
 translate philippine Victoria_6_label_c185eb3d:
 
     # ch_Name "Wait a minute..."
-    ch_Name ""
+    ch_Name "Sandali lang..."
 
 # game/logic/events/victoria.rpy:794
 translate philippine Victoria_6_label_14755895:
 
     # ch_Name "Ms. Lapis, why were you prejudiced against me?"
-    ch_Name ""
+    ch_Name “Ms. Lapis, bakit mo ako kinampihan?"
 
 # game/logic/events/victoria.rpy:795
 translate philippine Victoria_6_label_e4e95cf7:
 
     # ch_Name "What did I do to you?"
-    ch_Name ""
+    ch_Name "Ano ang ginawa ko sa'yo?"
 
 # game/logic/events/victoria.rpy:797
 translate philippine Victoria_6_label_5c179b17:
 
     # Victoria "I don't know. A gut feeling."
-    Victoria ""
+    Victoria "Hindi ko alam. Biglaang pakiramdam."
 
 # game/logic/events/victoria.rpy:798
 translate philippine Victoria_6_label_4bea6a4f:
 
     # Victoria "{i}(Maybe it's the strange nature of his source of power...){/i}"
-    Victoria ""
+    Victoria "{i}(Siguro ang kakaibang katangian ng kanyang kapangyarihan...){/i}"
 
 # game/logic/events/victoria.rpy:799
 translate philippine Victoria_6_label_0a561a5b:
 
     # ch_Name "{i}(Wow! I could hear her thoughts!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wow! Narinig ko ang iniisip niya!){/i}"
 
 # game/logic/events/victoria.rpy:800
 translate philippine Victoria_6_label_35bfaad8:
 
     # ch_Name "{i}(My source of power?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aking pinagmumulan ng kapangyarihan?){/i}
 
 # game/logic/events/victoria.rpy:801
 translate philippine Victoria_6_label_063509e4:
 
     # ch_Name "{i}(So she felt Leona's influence after all, right?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Naramdaman niya ang impluwensya ni Leona?){/i}"
 
 # game/logic/events/victoria.rpy:803
 translate philippine Victoria_6_label_86346c09:
 
     # Victoria "Anyway, what I meant to say was that it's in the past."
-    Victoria ""
+    Victoria "Ang ibig kong sabihin ay nakaraan na ito."
 
 # game/logic/events/victoria.rpy:804
 translate philippine Victoria_6_label_6dd09785:
 
     # Victoria "That's all. You can go now."
-    Victoria ""
+    Victoria "'Yun lang. Pwede ka nang umalis."
 
 # game/logic/events/victoria.rpy:809
 translate philippine Victoria_6_label_42_3050e3a8:
