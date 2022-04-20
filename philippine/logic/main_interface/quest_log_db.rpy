@@ -4,7 +4,7 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "She's the mysterious hostess of the strip club called Lady Luck. It seems like she's in charge there. She once almost got raped by Diego."
-    new ""
+    new "Siya ang misteryosong hostess ng strip club na tinatawag na Lady Luck. Parang siya ang may hawak doon. Muntik na siyang ginahasa ni Diego."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Cuill"
@@ -12,7 +12,7 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "This friendly elf is the best barista in all of Dale. Not only will he masterfully prepare any drink, but he's also happy to tell the customer interesting news and rumors from over the world."
-    new ""
+    new "Ang palakaibigang duwende na ito ang pinakamahusay na barista sa buong Dale. Mahusay na maghahanda ng anumang inumin, masaya rin siyang sabihin sa suki ang mga tsismis mula sa iba't-ibang panig ng mundo."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Fiennes"
@@ -20,7 +20,7 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Cordale's librarian goes by the name Amelie. She loves books and smart people more than anything else in the world. I'm not sure, but it feels like she doesn't seem to mind having affairs with young guys."
-    new ""
+    new "Ang librarian sa Cordale ay si Amelie. Mas gusto niya ang mga libro at matatalinong tao kaysa sa anumang bagay sa mundo. Hindi ako sigurado, ngunit parang hindi siyang magtataka kaung makipagrelasyon siya sa mga kabataang lalaki."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Earhart"
@@ -28,19 +28,19 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Turns out that the statues in one of the gardens are actually alive! One of them even had a boner while we were walking there with Haley."
-    new ""
+    new "Buhay pala ang mga estatwa sa hardin! May titing matigas pa nga ang isa sa kanila habang naglalakad kami doon ni Haley."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Angels"
-    new ""
+    new "Mga Anghel"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Garden's story has come to an end."
-    new ""
+    new "Natapos na ang kwento sa Garden."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Arthur Doorman is the headmaster of the school and a respected member of the Wizarding Society. He is an example to all."
-    new ""
+    new "Si Arthur Doorman ang punong guro ng paaralan at isang respetadong miyembro ng Wizarding Society. Isa siyang halimbawa para sa lahat."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Doorman IV"
@@ -48,7 +48,7 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Olivia and Don's youngest daughter, Ashley, is a prominent athlete who competes in artistic gymnastics."
-    new ""
+    new "Ang bunsong anak nina Olivia at Don, si Ashley, ay isang kilalang atleta na nakikipagkumpitensya sa artistikong himnastiko."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Rose"
@@ -56,11 +56,11 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Girl/Shemale"
-    new ""
+    new "Babae/Shemale"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Audrey is Samantha's best friend. I think she's hiding something and Samantha is in on it too. She has a pretty bad temper."
-    new ""
+    new "Si Audrey ang matalik na kaibigan ni Samantha. May tinatago yata siya at alam rin si Samantha. Medyo masama ang ugali niya."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Burns"
@@ -68,7 +68,7 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Carter is almost 30. He's the oldest student in the academy despite being a freshman. He's not very talkative."
-    new ""
+    new "Si Carter ay halos 30. Siya ang pinakamatandang estudyante sa akademya sa kahit na siya'y freshman. Hindi siya masyadong madaldal."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Brown"
@@ -76,7 +76,7 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "A nasty guy who fell in love with Adele after seeing her in a club. Tried to rape the girl, but was disgraced and sent running."
-    new ""
+    new "Isang masamang lalaki na umibig kay Adele matapos siyang makita sa isang club. Sinubukan nitong halayin ang babae, ngunit nadisgrasya at pinatakbo."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Faradenza"
@@ -84,7 +84,7 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Don works as a mid-level manager at the largest car dealership in town. He's a total control freak, and I think he's cheating on Olivia."
-    new ""
+    new "Nagtatrabaho si Don bilang manager sa pinakamalaking dealership ng kotse sa siyudad. Isa siyang control freak, at sa tingin ko niloloko niya si Olivia."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Homo/Hetero"
@@ -92,7 +92,7 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Elijah is the cheerful swashbuckler, Leonheart's headman, and a hoarder who smuggles all sorts of forbidden things into the academy."
-    new ""
+    new "Si Elijah ay ang masayahing swashbuckler, ang pinuno ng Leonheart, at isang tagapagtago ng lahat ng uri ng ipinagbabawal na bagay sa akademya."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Bloom"
@@ -100,11 +100,11 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "One of the four co-founders of Cordale Academy. Founder of Crowhive house and the keeper of knowledge."
-    new ""
+    new "Isa sa apat na nagtatag ng Cordale Academy. Tagapagtatag ng Crowhive at ang tagapag-ingat ng kaalaman."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Cheerful Latino-American student from Martenden. She likes dancing, duels, and living a life full of adventures."
-    new ""
+    new "Masayang Latino-American na estudyante mula sa Martenden. Mahilig siyang sumayaw, makipaglaban, at mamuhay ng puno ng pakikipagsapalaran."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Leal"
@@ -112,11 +112,11 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The strange monster that wonders on the night streets of Dale."
-    new ""
+    new "Ang kakaibang halimaw na nagtataka sa mga kalye ng Dale sa gabi ."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "A business-oriented dwarf. Owner of the only store in Dale. Willow's father. You can always make money from him by fishing."
-    new ""
+    new "Isang bulilit na nakatuon sa negosyo. May-ari ng nag-iisang tindahan sa Dale. Ang ama ni Willow. Maaari kang laging kumita mula sa kanya sa pamamagitan ng pangingisda."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Chompski"
@@ -124,7 +124,7 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "First year student of the house Crowhive. She's intelligent and shy. As far as I know, she likes visiting potions classes."
-    new ""
+    new "Baguhang estudyante ng Crowhive. Matalino at mahiyain. Sa pagkakaalam ko, mahilig siyang bumisita sa mga klase ng Potions."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old " Sherman"
@@ -132,7 +132,7 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The first person I met on my way to becoming a wizard. She's smart, beautiful, and funny. I wonder if we can be more than friends..."
-    new ""
+    new "Ang unang taong nakilala ko sa aking daan sa pagiging salamangkero. Siya ay matalino, maganda, at nakakatawa. Iniisip ko kung maaari kaming maging higit pa sa magkaibigan..."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Ranger"
@@ -140,7 +140,7 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Jacob met us at the train station when I'd just arrived at Cordale. He's most certainly the grimmest teacher in the academy. He runs a dueling club. He has a certain creepy vibe about him."
-    new ""
+    new "Nakilala kami ni Jacob sa estasyon ng tren nang kararating ko lang sa Cordale. Siya ang tiyak na pinakamabangis na guro sa akademya. Nagpapatakbo siya ng isang dueling club. Medyo nakakatakot siya."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Frollo"
@@ -148,11 +148,11 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "One of the four co-founders of Cordale Academy. Founder of Martenden house and the keeper of Housefire."
-    new ""
+    new "Isa sa apat na nagtatag ng Cordale Academy. Tagapagtatag ng Martenden at tagapag-ingat ng Housefire."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Owner of Whistley's SPA. She gives excellent massages but it seems that there's something strange about her."
-    new ""
+    new "May-ari ng Whistley's SPA. Nagbibigay ng magandang masahe pero parang may kakaiba sa kanya."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Whistley"
@@ -160,11 +160,11 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "At this version of Lust Academy there's no more massage scenes."
-    new ""
+    new "Sa bersyong ito ng Lust Academy wala nang mga eksena sa masahe."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Joshi is a talkative young guy who clearly lives only to have a good time and relax."
-    new ""
+    new "Si Joshi ay isang madaldal na binata na malinaw na nabubuhay lamang upang magkaroon ng magandang oras at magpahinga."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Backs"
@@ -172,11 +172,11 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "One of the four co-founders of Cordale Academy. Founder of Adderin house and the keeper of Success."
-    new ""
+    new "Isa sa apat na nagtatag ng Cordale Academy. Tagapagtatag ng Adderin at tagapag-ingat ng Tagumpay."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "One of the four co-founders of Cordale Academy. Founder of Leonheart house and the keeper of Justice."
-    new ""
+    new "Isa sa apat na nagtatag ng Cordale Academy. Tagapagtatag ng Leonheart at tagapag-ingat ng Hustisya."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Leonheart"
@@ -184,11 +184,11 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The main story for this version has come to an end."
-    new ""
+    new "Ang pangunahing kuwento para sa bersyon na ito ay natapos na."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lily is a real diehard fan of Leonheart. She does a lot for its sake and gets thrilled when I help her with that."
-    new ""
+    new "Si Lily ay isang tunay na tagahanga ng Leonheart. Marami siyang ginagawa para sa kapakanan nito at kinikilig kapag tinutulungan ko siya."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Hebi"
@@ -196,7 +196,7 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lucy is one of the dancers at Lady Luck night club. I think I'll get to know her better if I invite her to VIP."
-    new ""
+    new "Si Lucy ay isa sa mga mananayaw sa Lady Luck. Sa tingin ko mas makikilala ko siya kung iimbitahan ko siya sa VIP."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Altidore"
@@ -204,7 +204,7 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Mina is a very shy girl who manages a local hostel. I saw her reading porn novels, I wonder if she has any other secrets."
-    new ""
+    new "Si Mina ay isang napakahiyang babae na namamahala sa isang lokal na hostel. Nakita ko siyang nagbabasa ng mga porn novel, iniisip ko kung mayroon siyang iba pang mga sikreto."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Harper"
@@ -212,7 +212,7 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Molly is a hard-working businesswoman who keeps her café in Cordale. She helps me with a part-time job when I need money."
-    new ""
+    new "Si Molly ay isang masipag na negosyante na nagpapanatili ng kanyang kapehan sa Cordale. Tinutulungan niya ako sa isang part-time na trabaho kapag kailangan ko ng pera."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Maeve"
@@ -220,7 +220,7 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Naomi is a coldhearted rising queen of manipulation from Adderin and Lily's best friend."
-    new ""
+    new "Si Naomi ay isang walang pusong eyna ng manipulasyon mula sa Adderin at matalik na kaibigan ni Lily."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Kimba"
@@ -228,7 +228,7 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Olivia is Samantha and Ashley's mother, She's married to Don. I don't know if she has any hobbies except shopping and spending money."
-    new ""
+    new "Si Olivia ang nanay nina Samantha at Ashley, Kasal siya kay Don. Hindi ko alam kung may libangan ba siya maliban sa pamimili at paggastos ng pera."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Wild-Rose"
@@ -236,7 +236,7 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "A bouncer. He's a prick who asks for bribes to let you in the club. He tricked me and almost let Diego rape Adele."
-    new ""
+    new "Isang bouncer. Isa siyang gago na humihingi ng suhol para makapasok ka sa club. Niloko niya ako at muntik na niyang hayaang halayin ni Diego si Adele.
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Mobs"
@@ -244,7 +244,7 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Sabrina is the sweetest teacher in the Academy, and you can always see how happy she gets when she seems some dedication in her lessons."
-    new ""
+    new "Si Sabrina ang pinakamabait na guro sa Academy, at makikita mo palagi kung gaano siya kasaya kapag nakakita siya ng dedikasyon sa kanyang mga aralin."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Spellman"
@@ -252,11 +252,11 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "There are no more theory lessons available for this version of the game."
-    new ""
+    new "Wala nang na mga theory lesson para sa bersyong ito ng laro."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Sadira is one of the dancers at Lady Luck. She seems strange and exotic, I think I'll enjoy what she can offer in VIP."
-    new ""
+    new "Isa si Sadira sa mga mananayaw sa Lady Luck. Parang kakaiba siya, Sa tingin ko ay magugustuhan ko ang maibibigay niya sa VIP."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Adala"
@@ -264,11 +264,11 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Samantha is my best friend and Olivia's first child. She's kind and supportive and sees good even where no one else can."
-    new ""
+    new "Si Samantha ang matalik kong kaibigan at ang panganay na anak ni Olivia. Siya ay mabait, matulungin, at nakikita ang mabuti sa loob ng bawat tao."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Vanessa is a barman at Lady Luck. She's mysterious and obsessed with her special cocktails."
-    new ""
+    new "Si Vanessa ay isang bartender sa Lady Luck. Siya ay misteryoso at nahuhumaling sa kanyang mga espesyal na cocktail."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Le Court"
@@ -276,7 +276,7 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Victoria is strict, but just teacher. Everyone respects her a lot. She makes it look like my flirting is useless, but I won't stop trying."
-    new ""
+    new "Strikto si Victoria pero guro siya. Nirerespeto siya ng lahat. Pinamukha niyang walang kwenta ang panliligaw ko, pero hindi ako titigil sa pagsusubok sa kanya."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lapis"
@@ -284,7 +284,7 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "At this version of Lust Academy there's no more theory or scenes for Victoria."
-    new ""
+    new "Sa bersyong ito ng Lust Academy, wala nang teorya o eksena para kay Victoria."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Fairy"
@@ -292,31 +292,31 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Willow is a cheerful and quirky daughter of Gordon. She's helpful when someone needs magical artifacts."
-    new ""
+    new "Si Willow ay isang masayahin at kakaibang anak ni Gordon. Siya ay matulungin kapag may nangangailangan ng mahikang bagay."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "When me and Lily got lost and almost died in a magical flesh-eating mushroom forest I saw strange creature, that looked like a hybrid of mushroom and human girl. She was cute. I wonder who she is?"
-    new ""
+    new "Nang kami ni Lily ay naligaw at muntik nang mamatay sa gubat na kumakain ng tao, may nakita akong kakaibang nilalang na mukhang halo ng kabute at babae. Ang cute niya. Sino ba siya?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Adele showed me around club. I can now  order a table or VIP lounge from her anytime I want."
-    new ""
+    new "Ipinakita sa akin ni Adele ang club. Maaari na akong mag-order ng mesa o VIP lounge mula sa kanya anumang oras na gusto ko."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Adele seemed to be interested in me, but for now - she rejected all my moves."
-    new ""
+    new "Mukhang interesado si Adele sa akin, ngunit sa ngayon - tinanggihan niya ang lahat ng aking mga galaw."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I worked up the courage to ask Adele out. She seemed surprised, but agreed. We agreed to meet in the afternoon at a cafe. I couldn't wait."
-    new ""
+    new "Naglakas loob akong yayain si Adele. Mukhang nagulat siya, pero pumayag naman. Napagkasunduan naming magkita sa hapon sa kapehan. Hindi na ako makapaghintay."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We had a great time with Adele at the cafe. She was very sociable and friendly. I think she liked me too. We agreed that we will do it again sometime, so a second date is in my pocket."
-    new ""
+    new "Masaya kaming kasama ni Adele sa kapehan. Siya ay napaka-palakaibigan. Sa tingin ko nagustuhan niya rin ako. Napagkasunduan namin na gagawin namin ulit ito, kaya may pangalawang tipanan na ako sa susunod."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Ahchi is a pleasant and sociable barista who makes incredibly cool coffee. He is always nice to talk to and often tells interesting news and rumors."
-    new ""
+    new "Si Ahchi ay isang kaaya-aya at palakaibigang barista na gumagawa ng hindi kapani-paniwalang kape. Siya ay palaging masarap kausapin at madalas na nagsasabi ng mga kawili-wiling balita at tsismis."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Amelie said that magical creatures can prank students by stealing their books. If I find lost books scattered around the academy, I can return them to the library in exchange for house points."
