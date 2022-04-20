@@ -76,7 +76,7 @@ translate philippine strings:
 
     # game/logic/characters.rpy:25
     old "Giant"
-    new ""
+    new "Higante"
 
     # game/logic/characters.rpy:26
     old "Gordon"
@@ -132,7 +132,7 @@ translate philippine strings:
 
     # game/logic/characters.rpy:40
     old "Mushroom Girl"
-    new ""
+    new "Babaeng Kabute"
 
     # game/logic/characters.rpy:41
     old "Naomi"
