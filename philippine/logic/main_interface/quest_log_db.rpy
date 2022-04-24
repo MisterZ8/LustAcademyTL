@@ -320,99 +320,99 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Amelie said that magical creatures can prank students by stealing their books. If I find lost books scattered around the academy, I can return them to the library in exchange for house points."
-    new ""
+    new "Sinabi ni Amelie na ang mga nilalang ay nagbibiro sa mga estudyante sa pagnanakaw ng mga libro. Kapag nakita ko ang mga nawawalang libro na nakakalat, maaari ko silang ibalik sa silid-aklatan bilang kapalit ng mga punto ng bahay."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Amelie didn't lie - for every book I return, she gives me the points needed to win the weekly competition. I could turn in one book at a time or continue collecting and turn in many at once. She will surely appreciate the help. If I want to get closer, I need to find more books."
-    new ""
+    new "Hindi nagsinungaling si Amelie - sa bawat librong ibabalik ko, binibigyan niya ako ng mga puntos. Maaari kong ibigay ang isang libro sa isang pagkakataon o magpatuloy sa pagkolekta at ibigay nang sabay-sabay. Kung gusto kong mapalapit, kailangan ko pang maghanap ng mga libro."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I helped Amelie deal with the elves who tried to steal from her, but they managed to steal one of the potions. Amelie asked me to help her get it back when she figured out where they were hiding. I couldn't wait."
-    new ""
+    new "Tinulungan ko si Amelie sa pagharap ng mga duwende na nagnakaw sa kanya, ngunit ninakaw nila ang isa sa mga potions. Hiniling sa akin ni Amelie na tulungan siyang maibalik iyon nang malaman niya kung saan sila nagtatago. Hindi na ako makapaghintay."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Amelie and I went to the elf settlement in the woods and returned the stolen potion. It was epic! Admittedly, the potion broke and got on Amelie in the process, but that's okay... But, it was fun."
-    new ""
+    new "Pumunta kami ni Amelie sa bahay ng mga duwende at ibinalik ang ninakaw na potion. Ang astig! Aminin ko, nabasag ang potion at natamaan si Amelie, pero ayos lang... Pero, masaya."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Now I know that we have really creepy angels living in the garden, Garden's story has come to an end."
-    new ""
+    new "Ngayon alam ko na talaga na may mga nakakatakot na anghel na nakatira sa hardin, tapos na ang kwento sa Garden."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Now I know that we have really creepy angels living in the garden."
-    new ""
+    new "Ngayon alam ko na talaga na may mga nakakatakot na anghel na nakatira sa hardin."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "If Leonheart wins weekly house competition we'll be able to visit local town - Dale. To win the competition I need to earn points by visiting classes, collecting books or winning in duels."
-    new ""
+    new "Kung nanalo ang Leonheart sa lingguhang kumpetisyon, mabibisita namin ang lokal na bayan - Dale. Para manalo sa kompetisyon kailangan kong makakuha ng mga puntos sa pamamagitan ng pagbisita sa mga klase, pagkolekta ng mga libro o pagkapanalo sa mga duels."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've been to Dale and it's awesome. Winning the school competition is really valuable, plus they give money to winners. I should try to win again."
-    new ""
+    new "Nakapunta na ako sa Dale. Ang pagkapanalo sa kumpetisyon ay napakahalaga, at nagbibigay sila ng pera sa mga nanalo. Dapat kong subukang manalo ulit."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "This character has no active quests in this version of the game."
-    new ""
+    new "Ang tauhang ito ay walang aktibong pakikipagsapalaran sa bersyong ito ng laro."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "She's in Leonheart too, so I can probably meet her in the Living room in the morning."
-    new ""
+    new "Nasa Leonheart din siya, kaya malamang makakasama ko siya sa Living Room sa umaga."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Audrey only talks to men who can take her to a restaurant. It seems that I have to get a job to interest her in my persona."
-    new ""
+    new "Si Audrey ay nakikipag-usap lang sa mga lalaking pwedeng maghatid sa kanya sa karinderya. Mukhang kailangan kong makakuha ng trabaho para interesado siya akin."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've helped Audrey get milk for her morning coffee, and I hope it'll melt some ice between us. Audrey will be waiting for me in the living room in the evening. I wonder if that's a hint."
-    new ""
+    new "Tinulungan ko si Audrey na kumuha ng gatas para sa kanyang pang-umagang kape, at sana'y matunaw ito ng yelo sa pagitan namin. Maghihintay sa akin si Audrey sa Living Room sa gabi."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've tried to get Sam and Audrey to tell me if they're hiding something, but they told me nothing. I'll need to talk to Audrey in the morning, when she's alone."
-    new ""
+    new "Sinubukan kong ipasabi sa akin nina Sam at Audrey kung may tinatago sila, pero wala silang sinabi. Kailangan kong makausap si Audrey sa umaga, kapag nag-iisa siya."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We had a fantastic time drinking coffee at Molly's while it was still closed. I think we're getting closer. I'll just have to wait until she makes her move."
-    new ""
+    new "Masaya ang pagtambay namin sa kapehan ni Molly habang sarado pa. Magkalapit na yata kami. Maghihintay lang ako hanggang kikilos siya."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Audrey was so sweet about choosing a gift for Samantha. They must be really good friends. I think she likes me too, and Maybe I should talk to her in the evening?"
-    new ""
+    new "Napakabuti ni Audrey sa pagpili ng regalo para kay Samantha. Tiyak na magkaibigan talaga sila. Sa tingin ko gusto niya rin ako. Siguro kailangan ko siyang kausapin sa gabi?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Audrey and Samantha acted  really weird  tonight: first they  got touchy with each other and went to their room. Then, Samantha stormed out and she looked concerned. I'll have to talk to Audrey again if I want to know the details."
-    new ""
+    new "Kakaiba talaga ang kilos nina Audrey at Samantha ngayong gabi: silang naging masyadong maramdamin sa isa't-isa at pumunta sa kanilang silid. Pagkatapos, lumabas si Samantha at mukhang nag-aalala. Kailangan kong kausapin ulit si Audrey kung gusto kong malaman ang mga detalye."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Audrey and I have a complicated situation, and I have to figure out what to do next. If not for Audrey's sake, then for Samantha's, who is very close to her."
-    new ""
+    new "Magulo ang sitwasyon namin ni Audrey, at kailangan kong malaman kung ano ang susunod na gagawin. Kung hindi para sa kapakanan ni Audrey, para kay Samantha."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We finally talked to Audrey about our relationship and everything that happened recently. Now we both have a better understanding of the boundaries between us. It's up to me to decide if I want to continue my relationship with her, I shouldn't forget that she's the succubus that almost got Samantha hurt."
-    new ""
+    new Sa wakas napag-usapan namin ang tungkol sa aming relasyon at lahat ng nangyari kamakailan. Ngayon mas naiintindihan na naming dalawa ang isa't-isa. Ako na ang magdesisyon kung gusto kong ituloy ang relasyon ko sa kanya, hindi ko dapat kalimutan na siya ang succubus na muntik nang masaktan si Samantha."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah should give me a student card. I can catch him in the Living room in the morning."
-    new ""
+    new "Dapat bigyan ako ni Elijah ng student card. Mahuhuli ko siya sa Living Room sa umaga."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah gave me my student card and told me to get my textbooks from the library. Then I return to him or visit classes."
-    new ""
+    new "Ibinigay ni Elijah sa akin ang student card ko at sinabihan akong kunin ang mga textbook ko sa aklatan. Pagkatapos babalik ako sa kanya o bumisita sa mga klase."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah recommended that I attend both classes and then find him in the café in the evening."
-    new ""
+    new "Inirerekomenda ni Elijah na dumalo ako sa dalawang klase at pagkatapos ay hanapin siya sa kapehan sa gabi."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah said that sometimes he could give me some sketchy job. I think he'll have more to say if I win the house competition and visit Dale to find out what goods that place has to offer."
-    new ""
+    new "Sinabi ni Elijah na kung minsan ay maaari niya akong bigyan ng kaunting trabaho. Sa palagay ko ay marami pa siyang sasabihin kung manalo ako sa kompetisyon at bibisitahin ang Dale para malaman kung anong mga produkto ang maiaalok ng lugar na iyon."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah asked me to get some nectar from Willow in Chompski Shop in Dale. To get to Dale, our house has to win the weekly competition."
-    new ""
+    new "Hiniling sa akin ni Elijah na kumuha ng nektar mula kay Willow sa Chompski Shop sa Dale. Upang makarating sa Dale, kailangang manalo ako sa lingguhang kompetisyon."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "When I went for Elijah's package to Gordon's shop I had a small chat with Willow. She showed me her magic grove.  It seems like it is very important to her. I wonder what's inside...  She also gave me the nectar for Elijah. I should meet hit at Cordale's cafe."
-    new ""
+    new "Nang pumunta ako para sa pakete ni Elijah sa tindahan ni Gordon, kinausap ko si Willow. Ipinakita niya sa akin ang kanyang kakahuyan. Parang napakaimportante nito sa kanya. Ano kaya ang nasa loob... Binigyan din niya ako ng nektar para kay Elijah. Dapat kong makipagkita sa kanya sa kapehan sa Cordale."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah was very pleased that I've helped him to get Dryad's nectar. It seems that he likes working with me. "
@@ -1000,25 +1000,25 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Willow nectar"
-    new ""
+    new "Willow nektar"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Get some nectar from Willow in Chompski Shop in Dale at Elijah's request."
-    new ""
+    new "Kumuha ng nektar mula kay Willow sa Chompski Shop sa Dale sa kahilingan ni Elijah."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Elijah nectar"
-    new ""
+    new "Elijah nektar"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Meet Elijah at Cordale's cafe to give him some nectar from Dale."
-    new ""
+    new "Hanapin si Elijah sa kapehan sa Cordale para bigyan siya ng nektar mula sa Dale."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Character info roots"
-    new ""
+    new "Mga Ruta ng Character Info"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Use the Character Info menu to complete all of the Roots available in the current release."
-    new ""
+    new "Gamitin ang menu ng Character Info para kumpletuhin ang lahat ng mga Ruta na makukuha sa kasalukuyang bersyon."
 
