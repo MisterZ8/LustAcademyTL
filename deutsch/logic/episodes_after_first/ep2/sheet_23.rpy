@@ -4,7 +4,7 @@
 translate deutsch sheet_23_56f31de7:
 
     # ch_Name "Good day, miss.{w} [Name] [Surname]."
-    ch_Name "Guten Tag.{w} [Name] [Surname]."
+    ch_Name "Guten Tag. Frau {w} [Name] [Surname]."
 
 # game/logic/episodes_after_first/ep2/sheet_23.rpy:8
 translate deutsch sheet_23_95435110:
@@ -28,7 +28,7 @@ translate deutsch sheet_23_a2243e3f:
 translate deutsch sheet_23_3257afba:
 
     # ch_Name "{i}(You're making it sound so easy...){/i}"
-    ch_Name "{i}(Sie sagt es alsob das so einfach wäre...){/i}"
+    ch_Name "{i}(Das sagst du so leicht...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_23.rpy:15
 translate deutsch sheet_23_dececf74:
@@ -40,19 +40,19 @@ translate deutsch sheet_23_dececf74:
 translate deutsch sheet_23_62414f37:
 
     # ch_Name "Maybe a good luck kiss?"
-    ch_Name "Vielleicht ein Glückskuss davor?"
+    ch_Name "Vielleicht ein Glückskuss?"
 
 # game/logic/episodes_after_first/ep2/sheet_23.rpy:26
 translate deutsch sheet_23_753fc12e:
 
     # Victoria "I'll assume that's just your stress talking, Mister [Surname]. "
-    Victoria "Ich nehme an, das ist nur Ihr Stress, Mister [Surname]. "
+    Victoria "Ich nehme an, das ist nur Ihr Stress, Herr [Surname]. "
 
 # game/logic/episodes_after_first/ep2/sheet_23.rpy:28
 translate deutsch sheet_23_fdbf5b57:
 
     # Victoria "Stop this childish behavior."
-    Victoria "Hören sie auf mit diesem kindischen Verhalten."
+    Victoria "Hören Sie auf mit diesem kindischen Verhalten."
 
 # game/logic/episodes_after_first/ep2/sheet_23.rpy:30
 translate deutsch sheet_23_dececf74_1:
@@ -70,7 +70,7 @@ translate deutsch sheet_23_menu_2_2d98ec54:
 translate deutsch sheet_23_menu_2_0c4b85ad:
 
     # ch_Name "{i}(It's been so long since I was with a girl.){/i}"
-    ch_Name "{i}(Es ist so lange her, seit ich mit einem Mädchen zusammen war.){/i}"
+    ch_Name "{i}(Es ist so lange her, dass ich mit einem Mädchen zusammen war.){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_23.rpy:41
 translate deutsch sheet_23_menu_2_0befe970:
@@ -100,7 +100,7 @@ translate deutsch sheet_23_menu_2_481e1933:
 translate deutsch sheet_23_menu_2_171d3537:
 
     # ch_Name "{i}(Guess I'm gonna have a hard time.){/i}"
-    ch_Name "{i}(Ich schätze, ich werde eine harte zeit haben.){/i}"
+    ch_Name "{i}(Ich schätze, ich werde es schwer haben.){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_23.rpy:61
 translate deutsch sheet_23_ashley_157c71fb:
@@ -124,19 +124,19 @@ translate deutsch sheet_23_haley_1a444368:
 translate deutsch sheet_23_haley_9b62d2f0:
 
     # ch_Name "{i}(Sweet transparent panties.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Süßes transparentes Höschen.){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_23.rpy:82
 translate deutsch sheet_23_haley_c76c34cf:
 
     # ch_Name "{i}(Oh yes! You're even a little wet...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oh, ja! Du bist sogar ein bisschen feucht...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_23.rpy:84
 translate deutsch sheet_23_haley_7634ea46:
 
     # ch_Name "{i}(What a neat, tight holes you've got...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Was für hübsche, enge Löcher du hast...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_23.rpy:91
 translate deutsch sheet_23_energy_4e743823:
