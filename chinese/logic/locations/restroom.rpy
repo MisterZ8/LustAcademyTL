@@ -10,19 +10,19 @@ translate chinese restroom_stump_label_6bcbc6d0:
 translate chinese restroom_label_2b70a15b:
 
     # ch_Name "Don, hi!"
-    ch_Name "Don，你好!"
+    ch_Name "你好呀Don!"
 
 # game/logic/locations/restroom.rpy:15
 translate chinese restroom_label_ecefc0d1:
 
     # ch_Name "How's it going, how's work?"
-    ch_Name "最近怎么样，工作怎么样?"
+    ch_Name "最近怎么样，工作还好吧?"
 
 # game/logic/locations/restroom.rpy:17
 translate chinese restroom_label_5a5f8bdc:
 
     # Don "Get to the point, [Name]."
-    Don "言归正传，[Name]。"
+    Don "有屁快放，[Name]。"
 
 # game/logic/locations/restroom.rpy:19
 translate chinese restroom_label_3b0c1b5a:
@@ -34,19 +34,19 @@ translate chinese restroom_label_3b0c1b5a:
 translate chinese restroom_label_d4167a3d:
 
     # Don "Baseball's about to start, so hurry up and talk..."
-    Don "棒球马上就要开始了，所以快点说话吧..."
+    Don "棒球赛马上就要开始了，所以有话快说..."
 
 # game/logic/locations/restroom.rpy:23
 translate chinese restroom_label_3eb81665:
 
     # Don "What do you want?"
-    Don "你想要什么?"
+    Don "你想说什么?"
 
 # game/logic/locations/restroom.rpy:25
 translate chinese restroom_label_0c152f26:
 
     # ch_Name "The thing is, Olivia came to see me..."
-    ch_Name "问题是，奥利维亚来找过我"
+    ch_Name "额，奥利维亚来找过我"
 
 # game/logic/locations/restroom.rpy:27
 translate chinese restroom_label_ccfe8b04:
@@ -58,19 +58,19 @@ translate chinese restroom_label_ccfe8b04:
 translate chinese restroom_label_58012455:
 
     # ch_Name "And? I'd like to discuss your rental idea..."
-    ch_Name "然后呢? 我想和你谈谈你的租赁计划..."
+    ch_Name "然后? 我想和你谈谈你的租赁计划..."
 
 # game/logic/locations/restroom.rpy:31
 translate chinese restroom_label_81537022:
 
     # Don "It's not an idea."
-    Don "这不是一个想法。"
+    Don "你想挺多啊。"
 
 # game/logic/locations/restroom.rpy:33
 translate chinese restroom_label_a410d3a2:
 
     # Don "It's a fact you've been informed about."
-    Don "这是你已经知道的事实。"
+    Don "事实就是你已经知道了。"
 
 # game/logic/locations/restroom.rpy:35
 translate chinese restroom_label_0aa19b5e:
@@ -82,13 +82,13 @@ translate chinese restroom_label_0aa19b5e:
 translate chinese restroom_label_f5f74f6c:
 
     # Don "And since you're 18 and working..."
-    Don "既然你18岁还在工作..."
+    Don "既然你18岁了而且还有工作..."
 
 # game/logic/locations/restroom.rpy:39
 translate chinese restroom_label_e0555c31:
 
     # Don "Why should I sweat for another grown man?"
-    Don "我为什么要为另一个成年人流汗?"
+    Don "我为什么要为你累死累活?"
 
 # game/logic/locations/restroom.rpy:41
 translate chinese restroom_label_14fd1ab9:
@@ -106,13 +106,13 @@ translate chinese restroom_label_626491b9:
 translate chinese restroom_label_1fb30e0f:
 
     # ch_Name "But hang on, Don- I still want to study!"
-    ch_Name "但是等一下，唐——我还想学习!"
+    ch_Name "但是等一下，Don我还想学习!"
 
 # game/logic/locations/restroom.rpy:47
 translate chinese restroom_label_fd5a0c7e:
 
     # Don "I don't see you packing a suitcase full of books."
-    Don "我没看到你在收拾装满书的箱子。"
+    Don "你箱子里可没多少书。"
 
 # game/logic/locations/restroom.rpy:49
 translate chinese restroom_label_6f619831:
@@ -136,25 +136,25 @@ translate chinese restroom_label_9c8b6339:
 translate chinese restroom_label_e3052bd7:
 
     # Don "There are no \"If’s\" in history, boy."
-    Don "历史上没有“如果”，男孩。"
+    Don "没有“如果”，男孩。"
 
 # game/logic/locations/restroom.rpy:57
 translate chinese restroom_label_5e4ace9f:
 
     # Don "You're 18. You don't study and you're sitting on my neck."
-    Don "你已经18岁。你不学习，坐在我脖子上。"
+    Don "你已经18岁。你不学习，而且还在我家白吃白住。"
 
 # game/logic/locations/restroom.rpy:59
 translate chinese restroom_label_2572973c:
 
     # Don "I'm tired of it. I won't allow it anymore."
-    Don "你是18岁。你不学习，坐在我脖子上。"
+    Don "我已经受够了，你别想继续白嫖了。"
 
 # game/logic/locations/restroom.rpy:61
 translate chinese restroom_label_cf56f434:
 
     # Don "These are the facts we have."
-    Don "这是我们掌握的事实。"
+    Don "这就是现实。"
 
 # game/logic/locations/restroom.rpy:69
 translate chinese restroom_label_682b054f:
@@ -166,19 +166,19 @@ translate chinese restroom_label_682b054f:
 translate chinese restroom_label_fcb78012:
 
     # ch_Name "I'm not sitting idle at all!"
-    ch_Name "我一点也不闲着!"
+    ch_Name "我一点也不闲!"
 
 # game/logic/locations/restroom.rpy:73
 translate chinese restroom_label_abf076ed:
 
     # ch_Name "And I've been working all summer just to get an education."
-    ch_Name "我整个夏天都在工作，就为了接受教育。"
+    ch_Name "我整个夏天都在工作，就为了攒点钱上学。"
 
 # game/logic/locations/restroom.rpy:75
 translate chinese restroom_label_f6015940:
 
     # ch_Name "To pay for college. You know what I mean?"
-    ch_Name "支付大学学费。你明白我的意思吗?"
+    ch_Name "为了支付大学学费。你知道我在说什么吗?"
 
 # game/logic/locations/restroom.rpy:77
 translate chinese restroom_label_5e01fdd4:
@@ -202,7 +202,7 @@ translate chinese restroom_label_b5777121:
 translate chinese restroom_label_820cafde:
 
     # Don "You get the point."
-    Don "你懂的。"
+    Don "对。"
 
 # game/logic/locations/restroom.rpy:85
 translate chinese restroom_label_08b46c47:
@@ -226,13 +226,13 @@ translate chinese restroom_label_16f04a0d:
 translate chinese restroom_label_8d9ed8c8:
 
     # ch_Name "And I'll have to keep paying you."
-    ch_Name "我还得继续付钱给你。"
+    ch_Name "而且我还得继续付钱给你。"
 
 # game/logic/locations/restroom.rpy:93
 translate chinese restroom_label_3bb46233:
 
     # ch_Name "It's a vicious circle. You can't be serious... I mean..."
-    ch_Name "这是一个恶性循环。你不是认真的吧... 我的意思是..."
+    ch_Name "这是一个恶性循环。你莫不是在跟我搞笑... 我的意思是..."
 
 # game/logic/locations/restroom.rpy:95
 translate chinese restroom_label_57e413fb:
@@ -250,25 +250,25 @@ translate chinese restroom_label_18b25c53:
 translate chinese restroom_label_8203ea8f:
 
     # Don "It's time you learned how to be independent, kid."
-    Don "你是时候学会独立了，孩子。"
+    Don "是时候学会独立了，孩子。"
 
 # game/logic/locations/restroom.rpy:101
 translate chinese restroom_label_e04485a7:
 
     # Don "Lesson one: you're 18 and your problems are your problems."
-    Don "第一课，你已经18岁了，你的问题就是你的问题。"
+    Don "第一课：你已经18岁了，自己的问题自己解决。"
 
 # game/logic/locations/restroom.rpy:103
 translate chinese restroom_label_d1e1ef88:
 
     # Don "The world doesn't revolve around you."
-    Don "世界不是围着你转。"
+    Don "世界不是围着你转的。"
 
 # game/logic/locations/restroom.rpy:105
 translate chinese restroom_label_89df8599:
 
     # Don "Don't put your issues on me."
-    Don "别把你的问题推到我身上。"
+    Don "不要把你的问题推到我身上。"
 
 # game/logic/locations/restroom.rpy:107
 translate chinese restroom_label_a99eee17:
@@ -280,7 +280,7 @@ translate chinese restroom_label_a99eee17:
 translate chinese restroom_menu_2_label_527c060b:
 
     # ch_Name "Are you sure you got all the facts straight, Don?!"
-    ch_Name "你确定你把事实都搞清楚了吗，Don?!"
+    ch_Name "你确定你要这么做么，Don?!"
 
 # game/logic/locations/restroom.rpy:114
 translate chinese restroom_menu_2_label_f87461fa:
@@ -310,7 +310,7 @@ translate chinese restroom_menu_2_label_8d965803:
 translate chinese restroom_menu_2_label_01f136c0:
 
     # Don "And I suggest you shut up and think about your tone."
-    Don "我建议你闭嘴，好好想想你的语气。"
+    Don "我建议你闭嘴然后端正下你的态度。"
 
 # game/logic/locations/restroom.rpy:124
 translate chinese restroom_menu_2_label_d80e228a:
@@ -322,7 +322,7 @@ translate chinese restroom_menu_2_label_d80e228a:
 translate chinese restroom_menu_2_label_363df24c:
 
     # Don "Haven't I worked hard enough to give you food, clothes and an education?"
-    Don "难道我还不够努力工作给你吃的，穿的，受的教育吗?"
+    Don "难道我努力工作给你吃的，穿的，还有学上这些还不够吗?"
 
 # game/logic/locations/restroom.rpy:128
 translate chinese restroom_menu_2_label_32fefd64:
@@ -334,7 +334,7 @@ translate chinese restroom_menu_2_label_32fefd64:
 translate chinese restroom_menu_2_label_c152ecb2:
 
     # ch_Name "No."
-    ch_Name "不。"
+    ch_Name "不知道。"
 
 # game/logic/locations/restroom.rpy:132
 translate chinese restroom_menu_2_label_bbb98143:
@@ -346,13 +346,13 @@ translate chinese restroom_menu_2_label_bbb98143:
 translate chinese restroom_menu_2_label_3fe05916:
 
     # ch_Name "It's hard to keep your emotions in check when you're being slung in the face."
-    ch_Name "当你被吊在脸上时，很难控制自己的情绪。"
+    ch_Name "当你被甩脸子的时候，很难控制自己的情绪。"
 
 # game/logic/locations/restroom.rpy:136
 translate chinese restroom_menu_2_label_2d95ecb9:
 
     # Don "Oh, you poor thing!"
-    Don "啊，你这个可怜的家伙!"
+    Don "啊，你这个可悲的家伙!"
 
 # game/logic/locations/restroom.rpy:138
 translate chinese restroom_menu_2_label_6c4d7e3c:
@@ -370,13 +370,13 @@ translate chinese restroom_menu_2_label_34919b9e:
 translate chinese restroom_menu_2_label_0d4f4111:
 
     # Don "You're 18! Surprise! Nobody owes you anything."
-    Don "你18岁! 惊喜! 没人欠你什么。"
+    Don "你18岁了! 惊不惊喜! 没人欠你什么。"
 
 # game/logic/locations/restroom.rpy:144
 translate chinese restroom_menu_2_label_fbfeb7e0:
 
     # Don "Certainly not me."
-    Don "肯定不是我。"
+    Don "至少我肯定什么都不欠你。"
 
 # game/logic/locations/restroom.rpy:146
 translate chinese restroom_menu_2_label_f6e4a5c9:
@@ -412,19 +412,19 @@ translate chinese restroom_menu_3_label_4af10fbd:
 translate chinese restroom_menu_3_label_c5b7df6d:
 
     # Don "Go on, get out of here."
-    Don "走吧，离开这里。"
+    Don "去吧，麻溜滚蛋。"
 
 # game/logic/locations/restroom.rpy:162
 translate chinese restroom_menu_3_label_1f8ee931:
 
     # Don "And welcome to adulthood, boy!"
-    Don "欢迎你长大成人，孩子!"
+    Don "还有，欢迎你长大成人，孩子!"
 
 # game/logic/locations/restroom.rpy:164
 translate chinese restroom_menu_3_label_f708fe02:
 
     # ch_Name "{i}(Shove your \"welcome to adulthood\" up your ass.){/i}"
-    ch_Name "{i}(把你那句“欢迎成年”塞进你的屁眼里吧。){/i}"
+    ch_Name "{i}(把你那句“长大成人”塞进你的屁眼里吧。){/i}"
 
 # game/logic/locations/restroom.rpy:166
 translate chinese restroom_menu_3_label_41ea1485:
