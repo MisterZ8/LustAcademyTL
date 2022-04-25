@@ -5290,7 +5290,7 @@ translate chinese vip_sadira_1_label_2_6394ed59_1:
 translate chinese vip_sadira_1_label_2_0681017a_1:
 
     # ch_Name "{i}(It's worth the money, that's for sure...){/i}"
-    ch_Name "{i}(这是物有所值的，这是肯定的...)[/i]"
+    ch_Name "{i}(这是物有所值的，这是肯定的...){/i}"
 
 # game/logic/events/adele.rpy:1632
 translate chinese vip_sadira_1_label_2_0a11198e_2:
