@@ -524,79 +524,79 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Katrina won't leave me alone. If I want to face her on my terms, I have to find a way to defeat her. I think I should contact Leona. Maybe a sorting book in the Main hall will do the trick?"
-    new ""
+    new "Hindi ako pababayaan ni Katrina. Kung gusto ko siyang harapin, kailangan kong gumawa ng paraan para matalo siya. Dapat kong kontakin si Leona. Baka makatulong ang libro sa Main Hall?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Leona took my memories of that nightmare with Katrina to find out what is happening to me. I guess I'll just have to wait."
-    new ""
+    new "Kinuha ni Leona ang mga alaala ko sa bangungot na iyon kasama si Katrina para malaman kung ano ang nangyayari sa akin. Maghihintay na lang yata ako."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "If it weren't for Leona, I'd be stuck in a nightmare forever. It turned out that, under the guise of Katrina, It was a soul-eating phantom who tortured me in my dreams. Right now, I can do nothing about. On the next Tuesday I can summon Leona again to ask what should I do next."
-    new ""
+    new "Kung hindi dahil kay Leona, tuluyan na akong makulong sa bangungot. Aswang pala na kumakain ng kaluluwa ang nagpapahirap sa akin gamit ng anyo ni Katrina. Sa ngayon, wala akong magawa. Sa susunod na Martes ay maaari kong tatawagin ulit si Leona para itanong kung ano ang susunod kong gagawin."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "It turned out that Jacob was behind the soul-stealing phantom attack. He was testing me to help him overpower Arthur. Jacob assures me that Arthur is the villain who killed my parents. To deal with him, I asked Leona to obtain for me an ancient artifact - the scroll of the Lion's Seal, but she needs a week to get it. Now I just need to wait."
-    new ""
+    new "Si Jacob pala ang may kasalanan ng pag-atake. Sinusubukan niya ako para tulungan siyang madaig si Arthur. Tiniyak sa akin ni Jacob na si Arthur ang kontrabida na pumatay sa aking mga magulang. Para harapin siya, hiniling ko kay Leona na kunin ang isang sinaunang artifact - ang pergamino ng Lion's Seal. Maghihintay lang muna ako."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I think I'll meet Lily somewhere where she can earn Leonheart some points. Maybe at the class?"
-    new ""
+    new "Mahahanap ko si Lily kung saan makakita siya ng mga puntos para sa Leonheart. Siguro sa klase?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I can try to get Lily to like me by attending class and earning points for Leonheart."
-    new ""
+    new "Maaari kong subukan na magustuhan ako ni Lily sa pagkuha ng mga puntos para sa Leonheart."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Lily expects me to find at least three lost books and turn them in at the library. I can also lie to her about doing it. I'm sure she won't know."
-    new ""
+    new "Inaasahan ni Lily na makakahanap ako ng tatlong nawawalang libro at ibibigay ko ito sa aklatan. Maaari rin akong magsinungaling sa kanya tungkol sa paggawa nito. Sigurado akong hindi niya malalaman."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Lily doesn't believe that I will be able to defeat my opponent in a duel. I need to talk to Jacob in order to participate in duels. If I win, Lily will be waiting for me in the evening at the fountain. I hope it will be worth it."
-    new ""
+    new "Hindi naniniwala si Lily na kaya kong talunin ang kalaban ko. Kailangan kong makausap si Jacob para makasali ako. Kapag nanalo ako, hihintayin ako ni Lily sa gabi sa fountain. Sana sulit ito."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I won at the duel. That means Lily owes me a date. She'll visit my room herself in the evening. I'd better get dressed and ready."
-    new ""
+    new "Nanalo ako. Ibig sabihin may utang sa akin si Lily. Siya mismo ang bibisita sa kwarto ko sa gabi. Dapat na akong magbihis at maghanda."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We had some fun with Lily and then decided to discuss other house-related plans next time. Maybe I should talk to help before Sabrina's lesson."
-    new ""
+    new "Nagsaya kami at nagpasya na pag-usapan ang iba pang mga plano sa susunod. Siguro kailangan ko siyang kausapin tungkol sa pagtulong bago ang klase ni Sabrina."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've agreed to help Sabrina and Lily to harvest some herbs. Lily and I got lost and had an unbelievable adventure. I think we need to discuss it before Victoria's classes in the morning."
-    new ""
+    new "Pumayag akong tulungan sina Sabrina at Lily na mag-ani ng ilang halamang gamot. Naligaw kami ni Lily at nagkaroon ng hindi kapani-paniwalang pakikipagsapalaran. Sa tingin ko kailangan naming pag-usapan ito bago ang klase ni Victoria sa umaga."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I told Sabrina about the mushroom girl I saw in the woods, and it turns out that the existence of these creatures has not yet been proven as a fact. I could be the discoverer of this species if I could find proof. But I have to wait until the compass is fixed."
-    new ""
+    new "Sinabi ko kay Sabrina ang tungkol sa mushroom girl na nakita ko sa kakahuyan, at hindi pa pala napapatunayan ang pagkakaroon ng mga nilalang na ito. Makakahanap ako ng pruweba. Ngunit kailangan kong maghintay hanggang sa maayos ang kumpas."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We finally talked to Lily about the events in the forest of mushrooms and set things straight. Now we both know exactly what our relationship is and how the boundaries are."
-    new ""
+    new "Sa wakas ay nakipag-usap ako kay Lily tungkol sa kung ano ang nangyari sa kagubatan at itinuwid ang mga bagay. Ngayon ay alam na naming pareho kung ano ang aming relasyon at kung ano ang mga hangganan."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Lucy is a pretty european girl who works as a stripper in Lady Luck. I think we can have some fun time together at the VIP lounge."
-    new ""
+    new "Si Lucy ay isang magandang babaeng European na nagtatrabaho bilang stripper sa Lady Luck. Maaari kaming magsaya sa VIP lounge."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Good news for students - there's a free room in Dale-ly. Also, I saw Mina reading porno novels. I should talk to her again next time I'll be in Dale."
-    new ""
+    new "Magandang balita para sa mga mag-aaral - may libreng silid sa Dale-ly. At saka, nakita ko si Mina na nagbabasa ng mga porno novel. Dapat ko siyang makausap ulit sa susunod na pupunta ako sa Dale."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I told Molly that I was working as a waiter once, and she offered me a job. On weekdays, afternoons, and evenings, I can help her around the cafe to make some money."
-    new ""
+    new "Sinabi ko kay Molly na nagtrabaho ako bilang isang waiter, at inalok niya ako ng trabaho. Sa mga hapon at gabi, maaari ko siyang tulungan sa kapehan upang kumita ng pera."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Now I can help Molly serve food at her cafe for a decent fee, It gets even better if I don't screw up and get more tips. Working together with Molly can get us closer.  Her workload is less intense in the evening, so it's better to talk to her at this time. But first I'll gain her trust by working at least five shifts."
-    new ""
+    new "Ngayon matutulungan ko na si Molly sa kanyang kapehan, kung hindi ako magkamali - makakuha ako ng higit pang pera. Ang pakikipagtulungan kay Molly ay makapagpapalapit sa atin. Hindi gaanong matindi ang kanyang trabaho sa gabi, kaya mas mabuting kausapin siya sa ganitong oras. Ngunit kukunin ko muna ang kanyang tiwala sa pagtatrabaho ng limang araw."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've helped Molly to clean the room after workhours, so we can get a little bit closer to each other. We had some fun and then the headmaster visited her. I'm pretty sure he's her uncle."
-    new ""
+    new "Tinulungan ko si Molly na maglinis pagkatapos ng oras ng trabaho, para mas maging malapit kami sa isa't isa. Nagkaroon kami ng kasiyahan at pagkatapos ay binisita siya ng punong guro. Sigurado akong tiyuhin niya siya."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I think I'll meet Naomi somewhere where she can earn Adderin some points. Maybe at the class?"
-    new ""
+    new "Mahahanap ko si Naomi kung saan makakita siya ng mga puntos para sa Adderin. Siguro sa klase?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Naomi turned out to be arrogant and over-self-confident. I'm sure I can make her more obedient in time. Naomi can be found at the fountain in the evening."
