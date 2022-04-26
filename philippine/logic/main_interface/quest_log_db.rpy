@@ -416,111 +416,111 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah was very pleased that I've helped him to get Dryad's nectar. It seems that he likes working with me. "
-    new ""
+    new ""Masayang-masaya si Elijah na nakuha ko ang nektar . Mukhang gusto niyang magtrabaho kasama sa akin."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "This strange creature attacked me in Dale, but fended it off with Сombat bolt."
-    new ""
+    new "Inatake ako ng kakaibang nilalang na ito sa Dale, ngunit nalabanan ito gamit ng Combat Bolt."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Strange creature that lives on the streets of Dale asked me to get a potion from Sabrina to lift his curse. I should talk to Sabrina when I get a chance."
-    new ""
+    new "Kakaibang nilalang na nakatira sa kalye ng Dale at humiling sa akin na kumuha ng potion kay Sabrina para matanggal ang sumpa niya. Dapat kong kausapin si Sabrina kapag nagkaroon ako ng pagkakataon."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Sabrina was interested by the story about Giant who asked for help. She agreed to give me the potion he asked for if I promise to tell her all the details of our next encounter with that Thing. Seems fair."
-    new ""
+    new "Interesado si Sabrina sa kwento tungkol sa Higante na humingi ng tulong. Pumayag siyang ibigay sa akin ang gayuma na hinihingi niya kung ipapangako kong sasabihin ko sa kanya ang lahat ng detalye ng susunod naming pagkikita sa bagay na iyon. Mukhang patas."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Gordon told me he's always ready to pay a $ for each fish I catch for him. He's odd, but I think he's a fair trader."
-    new ""
+    new "Sinabi sa akin ni Gordon na palagi siyang handang magbayad ng $1 para sa bawat isda na mahuhuli ko para sa kanya. Siya ay kakaiba, ngunit sa tingin ko siya ay isang makatarungang mangangalakal."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "It looks like fishing can be pretty profitable. I can go fishing whenever the shop is open and Gordon will always pay me $1 for each fish."
-    new ""
+    new "Mukhang malaki ang kita ng pangingisda. Maaari akong mangisda tuwing bukas ang tindahan at palaging babayaran ako ni Gordon ng $1 para sa bawat isda."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I should catch up with Haley. She's probably studying already."
-    new ""
+    new "Dapat maabutan ko si Haley. Malamang nag-aaral na siya."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley will be waiting for me in her room in the evening. I hope it's a date!"
-    new ""
+    new "Hihintayin ako ni Haley sa kwarto niya mamayang gabi. Sana tipanan ito!"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley is getting ready for Victoria's private classes, I gotta find out what progress she's made. 'll try to talk to her in the morning before the lecture."
-    new ""
+    new "Naghahanda na si Haley para sa mga pribadong klase ni Victoria, kailangan kong malaman kung ano na ang nagawa niya. Susubukan kong kausapin siya sa umaga bago magsimula ang klase."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley's too wrapped up in her studies. I don't want to intrude. I'll let her make a move on her own."
-    new ""
+    new "Masyadong abala si Haley sa kanyang pag-aaral. Ayo kong manghimasok. Hahayaan ko siyang kumilos mag-isa."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley said there was something strange in her textbook and called me over to look at it myself. We're meeting in the evening, in her room."
-    new ""
+    new "Sabi ni Haley may kakaiba sa aklat niya at tinawag niya ako para tignan ito. Magkikita kami sa gabi, sa kwarto niya."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Together, Haley and I tried to unwrap the mystery about E.Bloom's notes in her book. Elijah seemed disturbed when we asked him questions. I need to meet Haley before classes to find out what's her plan."
-    new ""
+    new "Sinubukan naming buksan ni Haley ang misteryo tungkol sa mga tala ni E. Bloom sa kanyang libro. Tila nabalisa si Elijah nang magtanong kami sa kanya. Kailangan kong makita si Haley bago ang klase para malaman kung ano ang plano niya."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We were alone in the courtyard, and Haley showed that she doesn't mind getting closer to me. She also asked me to spy on Amelie until I find a secret room in the library."
-    new ""
+    new "Nasa looban kami at ipinakita ni Haley na wala siyang pakialam na lapitan niya ako. Pinakiusapan din niya akong tiktikan si Amelie hanggang sa makakita ako ng sekretong bahagi ng aklatan."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Hours of spying were not wasted for nothing! I saw Amelie disappearing and coming back where there were no exits. I have to tell Haley about this, and she might know what to do."
-    new ""
+    new "Hindi nasayang ang mga oras ng pag-espiya! Nakita ko si Amelie na nawawala at bumalik kung saan walang labasan. Kailangan kong sabihin ito kay Haley, at baka malaman niya ang gagawin."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley needs some time to examine the coins she found in the library and find out how to get to the secret room."
-    new ""
+    new "Kailangan ni Haley ng ilang oras upang suriin ang mga barya na nakita niya sa aklatan at alamin kung paano makarating sa sekretong silid."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley and I broke into the secret room and borrowed files that might contain information about E.Bloom. Haley will look into them and get back to me in the morning."
-    new ""
+    new "Pumasok kami ni Haley sa sekretong silid at humiram ng mga papel na maaaring naglalaman ng impormasyon tungkol kay E. Bloom. Titingnan ni Haley at babalikan ako sa umaga."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley discovered that Elijah's brother and Hans were lovers and were trying to escape from here. To replicate their ritual and open the portal, we'll need Samantha's help. I'll talk to her in the morning."
-    new ""
+    new "Natuklasan ni Haley na magkasintahan ang kapatid sina Elijah at Hans at sinusubukan nilang tumakas mula rito. Upang maulit ang kanilang ritwal at mabuksan ang portal, kakailanganin natin ang tulong ni Samantha. Kakausapin ko siya sa umaga."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I made arrangements with Samantha and she will help us with the ritual. We're finally going to solve the mystery of E.Bloom. Also, Haley and I made a date. Until the date I have to get to Dale to buy the ingredients from Gordon."
-    new ""
+    new "Nakipag-ayos ako kay Samantha at tutulungan niya kami sa ritwal. Sa wakas ay malulutas na natin ang misteryo ng E. Bloom. Isa pa, nakipagtipanan kami ni Haley. Hihintay ako hanngang sa araw na pupunta sa Dale para bumili ng mga sangkap mula kay Gordon."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've heard that Jacob usually spends his evenings at the hall. Should I talk to him about something?"
-    new ""
+    new "Narinig ko na si Jacob ay karaniwang nagpapalipas ng kanyang mga gabi sa bulwagan. Dapat ko ba siyang kausapin?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "To enter the Dueling Club I need to learn combat spells. In order to do so, I have to visit more Victoria's lessons."
-    new ""
+    new "Para makapasok sa Dueling Club kailangan kong matuto ng mga mahikang panlaban. Para magawa ito, kailangan kong bisitahin ang mga aralin ni Victoria."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I was accepted into the dueling club, so I can come to the Academy lobby every night and take part in duels."
-    new ""
+    new "Natanggap ako sa dueling club, at makapunta ako sa lobby ng Academy gabi-gabi at makasali sa mga laban."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Jill is the nice ginger girl, who owns a massage saloon at Dale. I can get a massage at Whistley's Spa for $75 when i'm in Dale. Pricey, but I think it's worth it."
-    new ""
+    new "Si Jill ang mabait na may pulang buhok at nagmamasahe sa Dale. Maaari akong magpamasahe sa Whistley's Spa sa halagang $75 kapag nasa Dale ako. Ang mahal, ngunit sa tingin ko sulit ito."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "My massage master got so turned on, that she could not finish the process. That was strange. I've overheard her arguing with someone. I think she got pranked by that person. I guess I'll have to have another massage to get closer to the truth."
-    new ""
+    new "Nalibog ang aking masahista at hindi niya natapos ang proseso. Kakaiba iyon. Narinig ko ang pakikipagtalo niya sa isang tao. Sa palagay ko ay naiinis siya sa taong iyon. Kakailanganin kong magkaroon ng isa pang masahe upang malaman ang katotohanan."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "So, I don't get it. Is she Jill or Faith, and why does she act so strange? First, she seemed shy, but then she literally grabbed my cock! I'll need to have another massage to understand what's going on."
-    new ""
+    new "Hindi ko alam. Siya ba ay Jill o Faith, at bakit siya kumikilos ng kakaiba? Una, parang nahihiya siya, ngunit pagkatapos ay literal na hinawakan niya ang aking titi! Kailangan kong magkaroon ng isa pang masahe upang maunawaan kung ano ang nangyayari. "
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Even after all the craziness I've seen at this spa, I can't believe I was able to talk the masseuse into jerking me off. Maybe this is just the beginning of our intimate massage sessions. I wonder what she'll agree to next time?"
-    new ""
+    new "Pagkatapos ng lahat ng pagkahumaling na nakita ko dito, hindi ako makapaniwala na kinausap ko ang masahista at sinalsal ako. Marahil ito lamang ang simula ng aming matalik na masahe. Ano kaya ang gagawin niya sa susunod?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've got a feeling that that forest wasn't the last time I've met her. But right now, I can only guess."
-    new ""
+    new "Mayroon akong pakiramdam na ang kagubatan ay hindi ang huling pagkakataon na nakita ko siya. Maaari ko lamang hulaan ngayon."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "It seems that I have some special connection with the ancient spirit of Leonheart's founder, Leona Leonheart. She materialized in the real world to help me with my source of power."
-    new ""
+    new "Tila mayroon akong ilang espesyal na koneksyon sa sinaunang espiritu ng tagapagtatag ni Leonheart na si Leona Leonheart. Siya ay pumasok sa totoong mundo upang matulungan ako sa aking mapagkukunan ng kapangyarihan."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Katrina won't leave me alone. If I want to face her on my terms, I have to find a way to defeat her. I think I should contact Leona. Maybe a sorting book in the Main hall will do the trick?"
