@@ -952,7 +952,7 @@ translate chinese Amelie_1_1_label_73d913c4:
 translate chinese Amelie_1_1_label_5ab67802:
 
     # Amelie "Do you already have a {b}student card?{/b} "
-    Amelie "你已经有一张[b]学生证了[/b]？"
+    Amelie "你已经有一张{b}学生证了{/b}？"
 
 # game/logic/events/amelie.rpy:463
 translate chinese Amelie_1_1_label_1cf907ab:
