@@ -628,13 +628,13 @@ translate spanish sheet_28_1_254_18966bb9:
 translate spanish sheet_28_1_254_47794c64:
 
     # ch_Name "{i}(It feels so good...){/i}"
-    ch_Name "{i}(Es increible...)[/i]"
+    ch_Name "{i}(Es increible...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:229
 translate spanish sheet_28_1_254_76c2b3d7:
 
     # ch_Name "{i}(It's been a while since I've got touched... there...){/i}"
-    ch_Name "{i}(Hace un montón que no me tocan... ahí...)[/i]"
+    ch_Name "{i}(Hace un montón que no me tocan... ahí...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:231
 translate spanish sheet_28_1_254_a5e02ebc:
