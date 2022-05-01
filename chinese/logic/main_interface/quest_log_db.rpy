@@ -1579,7 +1579,7 @@ translate chinese strings:
     new "大厅"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
-    old "Katrina won't leave me alone. If I want to face her on my terms, I have to find a way to defeat her. I think I should contact Leona. Maybe the Sorting book in the Main hall of Academy will do the trick?"
+    old "Katrina won't leave me alone. If I want to face her on my terms, I have to find a way to defeat her. I think I should contact Leona. Maybe the Sorting book in the Main hall of Academy will do the trick? I should try it in the evening."
     new "Katrina不会放过我的如果我想以我的方式面对她，我就得想办法打败她。我想我应该联系Leona。也许学院大厅里的分院书能帮上忙?"
 
     # game/logic/main_interface/quest_log_db.rpy:1745
