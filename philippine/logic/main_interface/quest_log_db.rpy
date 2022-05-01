@@ -600,79 +600,79 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Naomi turned out to be arrogant and over-self-confident. I'm sure I can make her more obedient in time. Naomi can be found at the fountain in the evening."
-    new ""
+    new "Si Naomi pala ay mayabang at sobrang kumpiyansa. Sigurado akong kaya ko siyang gawing mas masunurin sa tamang oras. Makikita si Naomi sa fountain sa gabi."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've tried to get her interested in me, but Naomi's a tricky one. I'll see if I can get a hold of her in Potions class this afternoon."
-    new ""
+    new "Sinubukan kong maging interesado siya sa akin, ngunit mapanlinlang si Naomi. Titingnan ko kung makukuha ko siya sa klase ng Potions mamayang hapon."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Naomi tries to manipulate me into getting test answers for her. Let's see who'll end up outsmarted here. Naomi can be found at the fountain in the evening."
-    new ""
+    new "Sinusubukan ni Naomi na manipulahin ako para makakuha ng mga sagot sa pagsusulit para sa kanya. Tingnan natin kung sino ang mahuhuli dito. Makikita si Naomi sa fountain sa gabi."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Naomi failed to delay Sabrina, and I've got trapped in her class for several hours! I'll tell Naomi how \"fun\" that was in the morning!"
-    new ""
+    new "Hindi naantala ni Naomi si Sabrina, at ilang oras na akong nakulong sa klase niya! Sasabihin ko kay Naomi kung gaano \"kasaya\" iyon sa umaga!"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Naomi fooled with me, and now she needs to earn my forgiveness to get the test results she needs so desperately. I'll meet her in the evening to see what I can get out of this."
-    new ""
+    new "Niloko ako ni Naomi, at ngayon kailangan niyang makuha ang aking kapatawaran para makuha ang resulta ng pagsusulit na gusto niya. Makikipagkita ako sa kanya sa gabi para makita kung ano ang makukuha ko."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I took Naomi to the library, and we had some fun time together. I think she earned to get those test results. I think I'll meet her in the morning before Victoria's class."
-    new ""
+    new "Dinala ko si Naomi sa library, at masaya kaming magkasama. Sa tingin ko ay kinita niya ang gusto niya. Hahanapin ko siya sa umaga bago ang klase ni Victoria."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Naomi and Sabrina got into a fight in class, and now Naomi needs help to win back the teacher's favor. I promised to meet her at night in the potions room and teach her how to make potions."
-    new ""
+    new "Nag-away sina Naomi at Sabrina sa klase, at ngayon ay kailangan ni Naomi ng tulong para makuha ulit ang pabor ng guro. Nangako akong magkikita kami sa gabi at tuturuan ko siya kung paano gumawa ng potion."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "The pottery class quickly turned into a flirtation and Naomi and I went to the library to have some fun."
-    new ""
+    new "Mabilis na naging panliligaw ang klase ng potions at pumunta kami ni Naomi sa aklatan para magsaya."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "This jerk asked for a bribe and almost let Adele be raped. I think I'll need to give him a lesson later. But the good thing is I've got a VIP pass to the club now."
-    new ""
+    new "Humingi ng suhol ang gagong ito at muntik nang nagahasa si Adele. Sa tingin ko kailangan ko siyang bigyan ng leksyon mamaya. Pero may VIP pass na ako ngayon sa club."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "According to Sabrina, only students who have attended Victoria's introductory lecture are allowed into the potions class. "
-    new ""
+    new "Ayon kay Sabrina, ang mga mag-aaral lang na dumalo sa panimulang lecture ni Victoria ang pinapayagan sa klase ng potions."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "First potions lessons were all about safety. It turns out potions can be perilous if handled carelessly. I should visit another class to learn more."
-    new ""
+    new "Ang mga unang aralin sa potion ay tungkol sa kaligtasan. Ang mga potion ay maaaring maging delikado kung hawakan nang walang ingat. Dapat akong bumisita sa ibang klase para matuto pa."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "This time we've talked about healing potions and why do mages need potions. To learn more, I have to visit more lessons."
-    new ""
+    new "Ngayon napag-usapan na namin ang tungkol sa mga potion na panggamot at bakit kailangan ng namin ito. Para matuto pa, kailangan kong bumisita ng mas maraming lessons."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Sabrina taught us how to prepare a workspace before brewing potions properly. The next lesson should be interesting!"
-    new ""
+    new "Itinuro sa amin ni Sabrina kung paano maghanda ng lugar bago magtimpla ng mga potion. Siguradong masaya ang susunod na aralin!"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "At this lesson, students try to brew potions for themselves for the first time. Now I can visit practice lessons to keep my memory fresh and earn more house points for Leonheart."
-    new ""
+    new "Sa araling ito, sinubukan naming magtimpla ng potion. Ngayon maaari na akong bumisita sa mga pagsasanay na aralin upang makakuha ng mas maraming house point para sa Leonheart."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We've learned how to brew Stoneskin Potion that can help me sustain more damage in duels. I love brewing potions, because I'm really good at this. I think people in the class are starting to notice my success."
-    new ""
+    new "Natutunan namin kung paano gumawa ng Potion para sa Balat na Bato na makakatulong sa pagtigil ng pinsala sa mga laban. Gustung-gusto ko ang Potions, dahil talagang magaling ako dito. Sa tingin ko ay nagsisimula nang mapansin ng mga tao sa klase ang tagumpay ko."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Now I know how to brew Reflection Potion that can reflect spells back at the attacker. This can come in handy in duels, I think. I can't wait to test! "
-    new ""
+    new "Ngayon alam ko na kung paano gumawa ng Potion ng Mahikang Salamin na nagpapabalik ng mga mahika pabalik sa umaatake. Magagamit ito sa mga laban. Hindi ako makapaghintay na masubukan ko ito!"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I'm sure I can find few useful ways to use Inspiration Potion. Likely, I can now craft it with ease."
-    new ""
+    new "Makakahanap ako ng paraan para magamit ang Potion ng Inspirasyon. Malamang, madali ko na itong magawa."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Sadira is a hot arab stripper from Lady Luck. She's more than willing to please me if I pay for the VIP lounge."
-    new ""
+    new "Si Sadira ay isang magandang Arab stripper mula sa Lady Luck. Siya ay higit sa payag na pasayahin ako kung magbabayad ako para sa VIP Lounge."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Samantha suggested we meet in the Living room in the morning."
-    new ""
+    new "Iminungkahi ni Samantha na magkita kami sa Sala sa umaga."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Sam told me that nurse could heal my leg when she gets back from her vacation. She also seemed distressed because new spells were too hard for her. I think I'll know more if we have this kind of morning chit-chat more often."
