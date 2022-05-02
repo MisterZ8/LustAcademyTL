@@ -676,131 +676,131 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Sam told me that nurse could heal my leg when she gets back from her vacation. She also seemed distressed because new spells were too hard for her. I think I'll know more if we have this kind of morning chit-chat more often."
-    new ""
+    new "Sinabi sa akin ni Sam na maaaring pagalingin ng nars ang aking binti kapag nakabalik siya. Siya rin ay nababalisa dahil nahihirapan siya sa mga bagong mahika. Mas malalaman ko kung mas madalas tayong magkaroon ng ganitong uri ng kausapan sa umaga."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Samantha thinks she's losing her magical powers forever and will get expelled. She expects me to talk to Jacob about her problem."
-    new ""
+    new "Si Samantha ay nawawalan ng kanyang kapangyarihan at mapapatalsik siya. Inaasahan niyang kakausapin ko si Jacob tungkol sa kanyang problema."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've talked to Jacob. He told me that Samantha needs a special compress, which I have to get from Victoria."
-    new ""
+    new "Nakausap ko na si Jacob. Sinabi niya na kailangan ni Samantha ng espesyal na compress na kailangan kong makuha mula kay Victoria."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Samantha is waiting for my help, I have to give her the compress in the morning."
-    new ""
+    new "Naghihintay si Samantha ng tulong ko, kailangan kong ibigay sa kanya ang compress sa umaga."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've solved Samantha's problem for now, but I need to find the source of those wounds before it's too late for her."
-    new ""
+    new "Nalutas ko na ang problema ni Samantha sa ngayon, ngunit kailangan kong hanapin ang pinagmulan ng problema bago pa huli ang lahat para sa kanya."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Samantha told me the truth about Audrey. It turns out she's a succubus, and Samantha feeds her and covers for her. I need some time to sort this out."
-    new ""
+    new "Sinabi ni Samantha ang tungkol kay Audrey. Siya ay isang succubus, at si Samantha ang nagpapakain at nagtatakip para sa kanya."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Samantha and I had an awkward meeting at the bathroom. Is it me, or was she flirting with me?"
-    new ""
+    new "Kakaiba ang pagkikita namin ni Samantha sa banyo. Ako lang ba, o nililigawan niya ako?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Samantha was going to a third-year party and asked me to help her pick out an outfit. I hadn't noticed how hot she was before... Now she's gone to the party and probably won't be back until nightfall. I guess I'll wake up if I hear the noise at night."
-    new ""
+    new "Pupunta si Samantha sa isang salu-salo at tinulungan ko siyang pumili ng damit. Hindi ko napansin kung gaano siya kaganda... Ngayon nasa salu-salo siya at hindi na babalik hanggang gabi. Magigising siguro ako kapag nakarinig ako ng ingay sa gabi."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Samantha came back from the party drunk and started hitting on me. It looks like she may want to be more than friends with me. I should talk to her when she's sober."
-    new ""
+    new "Bumalik si Samantha mula sa party na lasing at nagsimulang manligaw sa akin. Gusto niyang maging higit pa sa kaibigan. Dapat kausapin ko siya kapag matino na siya."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Samantha and I went to a cafe, and she shared that her dream is to find her biological father, whom Olivia didn't tell her anything about."
-    new ""
+    new "Nagpunta kami ni Samantha sa isang kapehan, at ibinahagi niya na ang kanyang pangarap ay mahanap ang kanyang biyolohikal na ama na hindi sinabi ni Olivia sa kanya ng anuman."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I'll probably meet Vanessa next time im at the club in Dale. She works there as the bartender."
-    new ""
+    new "Makikita ko si Vanessa sa susunod na nasa club ako. Nagtatrabaho siya doon bilang bartender."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Vanessa made it clear, that she's not there to amuse clients and she won't bother talking to me unless I buy something for a drink."
-    new ""
+    new "Nilinaw ni Vanessa na wala siya doon para pasayahin ang mga kliyente at hindi niya ako kakausapin kung hindi ako bibili ako ng maiinom."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Turns out - Vanessa is a vampire who was more interested in my blood than in my heart. Or was she? Maybe I should stop around her bar more, to get closer to this sexy creature of the night?"
-    new ""
+    new "Si Vanessa ay isang bampira na mas interesado sa dugo ko kaysa sa puso ko. O hindi kaya? Siguro kailangan ko pang huminto sa bar niya, para mapalapit sa itong nilalang ng gabi?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I had a nice chat with Vanessa at the bar. Her drink selection has expanded and she never minds talking to a bar customer. I think she's starting to like me, although she's not showing it."
-    new ""
+    new "Nakipag-usap ako kay Vanessa. Lumawak ang kanyang mga inumin at hindi niya kailanman kinasusuklaman ang pakikipag-usap sa isang suki. Parang nagugustuhan niya ako, pero hindi niya pinapakita."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Victoria is one of my teachers. I can probably meet her at the class."
-    new ""
+    new "Si Victoria ay isa sa aking mga guro. Malamang makikilala ko siya sa klase."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "According to academy rules, students cannot attend classes without textbooks. To get to Victoria's lecture, I have to get books from Amelie in the library first."
-    new ""
+    new "Ayon sa mga tuntunin ng akademya, hindi maaaring pumasok sa mga klase nang walang mga aklat. Para makapasok, kailangan kong kumuha ng mga libro kay Amelie sa aklatan."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Victoria seems to like students who are interested in learning. Maybe if I attend her classes more often, I can get closer to her."
-    new ""
+    new "Gusto ni Victoria ang mga estudyanteng gustong matuto. Siguro kung mas madalas akong pumapasok sa mga klase niya, mas mapalapit ako sa kanya."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "In the class, Victoria told us about the sources of magical power. I have no idea how to do that but... Maybe I'll dream about something in my sleep."
-    new ""
+    new "Sinabi sa amin ni Victoria ang tungkol sa mga mapagkukunan ng mahikang kapangyarihan. Hindi ko alam kung paano gawin... Baka may malalaman ako sa panaginip ko."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Today we talked about different sources of power. I could not tell the truth about Leona's night visit, so I had to lie about my source. I need to attend more lessons if I want to learn more."
-    new ""
+    new "Napag-usapan namin ang pinagmulan ng kapangyarihan. Wala akong masabi tungkol sa pagbisita ni Leona, kaya kinailangan kong magsinungaling. Kailangan kong pumasok sa klase kung gusto kong matuto pa."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Victoria told us about creating bolts of magic energy. Skillful mages can transform those bolts into any imaginable magic. I need to visit more lessons to learn my first real spell."
-    new ""
+    new "Sinabi sa amin ni Victoria ang tungkol sa paglikha ng kidlat ng mahika. Maaaring baguhin ng mga mahuhusay na salamangkero ang mga iyon sa anumang maiisip na mahika. Kailangan kong makatuto ang tunay na mahika."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Victoria showed us how to create a Combat Bolt. Now I can join Dueling Club and try it in action. I can also practice Combat Bolt on her lessons to make it stronger."
-    new ""
+    new "Itinuro sa amin ni Victoria kung paano gumawa ng Combat Bolt. Ngayon ay maaari na akong sumali sa Dueling Club at subukan ito sa aksyon. Maaari ko ring isanay ang Combat Bolt sa kanyang mga klase upang maging mas malakas ito."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've helped Victoria get her books to the library and had an excellent opportunity to check out her divine curves. I think she's starting to like me. Maybe I should visit her lesson more often?"
-    new ""
+    new "Tinulungan ko si Victoria na dalhin ang kanyang mga libro sa aklatan at nagkakataon na natingnan ko ang kanyang banal na hugis. Siguro dapat kong bisitahin ang kanyang aralin nang mas madalas?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "In this lesson, we learned Incendio, and now I can practice it too. On the other hand, there's a lot of new theory to learn as well."
-    new ""
+    new "Sa araling ito, natutunan natin ang Incendio. Magagawa ko rin ito. Sa kabilang banda, marami rin ang mga bagong bagay na matututunan."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've now studied a healing spell Episkey. It's now available for practical lessons. To learn new skills I have to visit more theory lessons."
-    new ""
+    new "Nag-aral na ako ngayon ng Episkey. Ito ay magagamit para sa mga praktikal na aralin. Upang matuto ng mga bagong kasanayan bibisita ako ng higit pang mga aralin."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Rictusempra is now available in duels and practical classes."
-    new ""
+    new "Ang Rictusempra ay magagamit na ngayon sa mga duels at praktikal na mga klase."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Victoria had a one-on-one session with me and showed me that she wasn't very good at earth magic. With each such rendezvous, I feel that she and I are getting closer and closer."
-    new ""
+    new "Nakipag-isa kami ni Victoria at ipinakita sa akin na hindi siya masyadong magaling sa earth magic. Pakiramdam ko na nagiging malapit na ako sa kanya."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Willow is Gordon's daugher and a half-fairy who helps him in a store. I can talk to her through Gordon if I want to get to know her better."
-    new ""
+    new "Si Willow ay anak ni Gordon at kalahating diwata na tumutulong sa kanya sa tindahan. Maaari ko siyang kausapin sa pamamagitan ni Gordon kung gusto ko siyang mas makilala."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "It was nice to remember my days as a professional photographer and help Willow with her photo shoot. She is a natural born model. I'm sure she'll return the favor."
-    new ""
+    new "Nakakatuwang alalahanin ang mga araw ko bilang  photographer at tinulungan si Willow sa kanyang photo shoot. Isa siyang natural na model. Sigurado akong ibabalik niya ang pabor."
 
     # game/logic/main_interface/quest_log_db.rpy:1961
     old "Medium Reduction in opponent Stamina."
-    new ""
+    new "Katamtamang Pagbawas sa Kalusugan ng kalaban."
 
     # game/logic/main_interface/quest_log_db.rpy:1961
     old "Medium Reduction in opponent Stamina. Chance of Small Stun."
-    new ""
+    new "Katamtamang Pagbawas sa Kalusugan ng kalaban. Pagkakataon ng Kaunting Stun."
 
     # game/logic/main_interface/quest_log_db.rpy:1961
     old "Medium Reduction in opponent Stamina. Chance of Medium Burn."
-    new ""
+    new "Katamtamang Pagbawas sa Kalusugan ng kalaban. Pagkakataon ng Katamtamang Pagsunog."
 
     # game/logic/main_interface/quest_log_db.rpy:1961
     old "Medium Heal. Chance of Small Heal over time."
-    new ""
+    new "Katamtamang Paggamot. Pagkakataon ng Kaunting Paggamot sa paglipas ng panahon."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Student card"
@@ -808,195 +808,195 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Talk to Elijah in the Living room in the morning to get his student card."
-    new ""
+    new "Kausapin mo si Elijah sa sala sa umaga para kunin ang student card."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Go to the library"
-    new ""
+    new "Pumunta sa aklatan"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Go to the Academy and find the Library in the left wing of the Inner Garden."
-    new ""
+    new "Pumunta sa Academy at hanapin ang Library sa kaliwang bahagi ng Inner Garden."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Library books"
-    new ""
+    new "Mga aklat sa Library"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Get your books from Amelie in the Library to get to your first class."
-    new ""
+    new "Kunin mo ang mga libro mo kay Amelie sa Library para makarating sa unang klase."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Victoria lesson"
-    new ""
+    new "Klase ni Victoria"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Attend Victoria's class in Classroom 1 in the morning or the afternoon."
-    new ""
+    new "Pumasok sa klase ni Victoria sa Classroom 1 sa umaga o hapon."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Sabrina lesson"
-    new ""
+    new "Klase ni Sabrina"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Attend Sabrina's class in Classroom 2 in the morning or the afternoon."
-    new ""
+    new "Pumasok sa klase ni Sabrina sa Classroom 2 sa umaga o hapon."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Go to the cafe"
-    new ""
+    new "Pumunta sa kapehan"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Stop by the Cafe in the afternoon or evening to check out the place where you arranged to meet Elijah."
-    new ""
+    new "Pumunta ka sa Cafe sa hapon o gabi para tingnan ang lugar kung saan mo inayos ang pagkikita kay Elijah."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Talk to Elijah at the local Cafe by meeting him in the evening."
-    new ""
+    new "Kausapin si Elijah sa Cafe sa pakikipagkita sa kanya sa gabi."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Amelie book"
-    new ""
+    new "Libro ni Amelie"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Find at least one lost book and return it to Amelie in Library."
-    new ""
+    new "Maghanap ng kahit isang nawawalang libro at ibalik ito kay Amelie sa Library."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Victoria lesson again"
-    new ""
+    new "Inulit na klase ni Victoria"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Attend another Victoria class in Classroom 1 in the morning or afternoon."
-    new ""
+    new "Dumalo sa isa pang klase ni Victoria sa Classroom 1 sa umaga o hapon."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Talk to Jacob in the evening at Academy Entrance and find out the rules for joining the Dueling Club."
-    new ""
+    new "Kausapin si Jacob sa gabi sa Academy Entrance at alamin ang mga patakaran sa pagsali sa Dueling Club."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learning \"Combat Bolt\""
-    new ""
+    new "Pag-aaral ng \"Combat Bolt\""
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Combat Bolt spell while attending more Victoria's classes."
-    new ""
+    new "Alamin ang Combat Bolt habang pumapasok sa mas maraming klase ni Victoria."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Arrange with Jacob tonight at Academy Entrance to have a Dueling Club match."
-    new ""
+    new "Kausapin si Jacob ngayong gabi sa Academy Entrance para magkaroon ng laban sa Dueling Club."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Home win"
-    new ""
+    new "Tagumpay"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "elp your House score points in the competition to spend the weekend at Dale."
-    new ""
+    new "Tulungan ang iyong Angkan na makakuha ng mga puntos upang magpalipas ng katapusan ng linggo sa Dale."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Visit Chompski Shop"
-    new ""
+    new "Bisitahin ang Chompski Shop"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Visit the Chompski Shop in Dale to find out what goods that place has to offer."
-    new ""
+    new "Bisitahin ang Chompski Shop sa Dale para malaman kung anong mga produkto ang inaalok ng lugar na iyon."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Dale cafe"
-    new ""
+    new "Kapehan sa Dale"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Look around Dale and look for a decent cafe to get good coffee."
-    new ""
+    new "Maghanap ka ng disenteng kapehan para makakuha ng masarap na kape."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Dale spa"
-    new ""
+    new "Spa sa Dale"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Visit a spa and enjoy the massage."
-    new ""
+    new "Bisitahin ang spa at tamasahin ang masahe."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Dale club"
-    new ""
+    new "Club sa Dale"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Visit a nightclub in Dale and try to have fun."
-    new ""
+    new "Bisitahin ang nightclub sa Dale at subukang magsaya."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learning \"Incendio\""
-    new ""
+    new "Pag-aaral ng \"Incendio\""
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Incendio spell  by continuing to attend Victoria's classes."
-    new ""
+    new "Alamin ang Incendio sa patuloy na pagdalo sa mga klase ni Victoria."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Recipe \"Lesser Heal\""
-    new ""
+    new "Recipe \"Mababang Panggaling\""
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Lesser Heal Potion recipe while continuing to attend Sabrina's classes."
-    new ""
+    new "Alamin ang recipe ng Potion ng Mababang Panggaling habang patuloy na dumalo sa mga klase ni Sabrina."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Elijah work"
-    new ""
+    new "Magtrabaho para kay Elijah"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Talk to Elijah about his job offer by meeting him at Molly's cafe in the evening."
-    new ""
+    new "Kausapin si Elijah tungkol sa kanyang alok sa trabaho sa kapehan ni Molly sa gabi."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learning \"Episkey\""
-    new ""
+    new "Pag-aaral ng \"Episkey\""
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Episkey spell by continuing to attend Victoria's classes."
-    new ""
+    new "Alamin ang Episkey sa pamamagitan ng patuloy na pagdalo sa mga klase ni Victoria."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Recipe \"Stoneskin\""
-    new ""
+    new "Recipe \"Balat na Bato\""
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Stoneskin Potion recipe by continuing to attend Sabrina's classes."
-    new ""
+    new "Alamin ang recipe ng Potion ng Balat na Bato sa pagpatuloy na pagdalo sa mga klase ni Sabrina."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Sorting book"
-    new ""
+    new "Sorting Book"
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Try to contact Leona using a Sorting book in the Main Hall of Academy in the evening."
-    new ""
+    new "Subukan mong tawagin si Leona gamit ng Sorting Book sa Main Hall ng Academy sa gabi."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Recipe \"Reflection\""
-    new ""
+    new "Recipe \"Mahikang Salamin\""
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Reflection Potion recipe  by continuing to attend Sabrina's classes."
-    new ""
+    new "Alamin ang recipe ng Potion ng Mahikang Salamin sa pagpatuloy na pagdalo sa mga klase ni Sabrina."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learning \"Rictusempra\""
-    new ""
+    new "Pag-aaral ng \"Rictusempra\""
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Rictusempra spell  by continuing to attend Victoria's classes."
-    new ""
+    new "Alamin ang Rictusempra sa pagtutuloy na pagdalo sa mga klase ni Victoria."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Recipe \"Inspiration\""
-    new ""
+    new "Recipe \"Inspirasyon\""
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Learn the Inspiration Potion recipe by continuing to attend Sabrina's classes."
-    new ""
+    new "Alamin ang recipe ng Potion ng Inspiration sa pagpatuloy na pagdalo sa mga klase ni Sabrina."
 
     # game/logic/main_interface/quest_log_db.rpy:1968
     old "Willow nectar"
