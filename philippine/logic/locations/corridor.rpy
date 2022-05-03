@@ -10,43 +10,43 @@ translate philippine corridor_label_ead3beae:
 translate philippine corridor_label_81e64aac:
 
     # ch_Name "{i}(Hmm? Sounds coming from Ashley's room?!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm? May mga tunog galing sa kwarto ni Ashley?!){/i}"
 
 # game/logic/locations/corridor.rpy:13
 translate philippine corridor_label_ce606a14:
 
     # ch_Name "{i}(She may have twisted her ankle. Maybe I should check on her?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Baka nasaktan niya ang kanyang paa. Tignan ko ba?){/i}"
 
 # game/logic/locations/corridor.rpy:23
 translate philippine corridor_label_87fd2faa:
 
     # ch_Name "{i}(Just to be sure she's okay.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Para alam ko na ayos lang siya.){/i}"
 
 # game/logic/locations/corridor.rpy:26
 translate philippine corridor_label_7bc2ecdf:
 
     # ch_Name "{i}(It's none of my business.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wala naman akong pakialam.){/i}"
 
 # game/logic/locations/corridor.rpy:27
 translate philippine corridor_label_386a98d5:
 
     # ch_Name "{i}(I wonder how Olivia missed that moaning though.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bakit hindi narinig ni Olivia ang pag-ungol na iyon?){/i}"
 
 # game/logic/locations/corridor.rpy:28
 translate philippine corridor_label_646d756b:
 
     # ch_Name "{i}(Why was she sho pshyched about that prank letter?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bakit sobrang nag-aalala siya sa prank letter na iyon?){/i}"
 
 # game/logic/locations/corridor.rpy:29
 translate philippine corridor_label_48c31730:
 
     # ch_Name "{i}(I need to hurry up if I want to find out.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kailangan kong magmadali kung gusto kong malaman.){/i}"
 
 # game/logic/locations/corridor.rpy:59
 translate philippine ashlie_room_label_2_ef733a22:
@@ -64,7 +64,7 @@ translate philippine ashlie_room_label_2_db639e16:
 translate philippine ashlie_room_label_2_8cdf4eae:
 
     # ch_Name "{i}(Wow, Ashley is so...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wow, si Ashley ay...){/i}"
 
 # game/logic/locations/corridor.rpy:66
 translate philippine ashlie_room_label_2_0546887e:
@@ -76,7 +76,7 @@ translate philippine ashlie_room_label_2_0546887e:
 translate philippine ashlie_room_label_2_9422f2a3:
 
     # ch_Name "{i}(Mature...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Malaki na...){/i}"
 
 # game/logic/locations/corridor.rpy:72
 translate philippine ashlie_room_label_2_82b8f9a4:
@@ -94,13 +94,13 @@ translate philippine ashlie_room_label_2_344ff372:
 translate philippine ashlie_room_label_2_9e3a9b13:
 
     # ch_Name "{i}(What a beautiful sight!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Napakagandang tanawin!){/i}"
 
 # game/logic/locations/corridor.rpy:79
 translate philippine ashlie_room_label_2_4bf9af45:
 
     # ch_Name "{i}(She tries so hard to keep her moans silent.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pilit niyang pinipigilan ang mga halinghing niya.){/i}"
 
 # game/logic/locations/corridor.rpy:82
 translate philippine ashlie_room_label_2_85170189:
@@ -112,7 +112,7 @@ translate philippine ashlie_room_label_2_85170189:
 translate philippine ashlie_room_label_2_05094fd4:
 
     # ch_Name "{i}(The fact she can't makes it even sexier!){/i}"
-    ch_Name ""
+    ch_Name {i}(Mas maganda pa kasi hindi niya mapigilan!){/i}"
 
 # game/logic/locations/corridor.rpy:87
 translate philippine ashlie_room_label_2_bbb5db70:
@@ -124,7 +124,7 @@ translate philippine ashlie_room_label_2_bbb5db70:
 translate philippine ashlie_room_label_2_d08ee751:
 
     # ch_Name "{i}(Poor little thing is so horny...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Napukaw talaga ang kawawang ito...){/i}"
 
 # game/logic/locations/corridor.rpy:94
 translate philippine ashlie_room_label_2_64d3cd18:
@@ -136,13 +136,13 @@ translate philippine ashlie_room_label_2_64d3cd18:
 translate philippine ashlie_room_label_2_fa49132c:
 
     # ch_Name "{i}(If only I knew you needed assistance with your \"training\" sessions, Ashley.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kung alam ko lang na kailangan mo ng tulong sa iyong \"pagsasanay\", Ashley.){/i}"
 
 # game/logic/locations/corridor.rpy:98
 translate philippine ashlie_room_label_2_26c294ac:
 
     # ch_Name "{i}(Maybe next time...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Siguro sa susunod nalang...){/i}"
 
 # game/logic/locations/corridor.rpy:100
 translate philippine ashlie_room_label_2_884e13db:
@@ -154,7 +154,7 @@ translate philippine ashlie_room_label_2_884e13db:
 translate philippine ashlie_room_label_2_3f285bf6:
 
     # ch_Name "{i}(She's almost there...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Malapit na siya...){/i}"
 
 # game/logic/locations/corridor.rpy:107
 translate philippine ashlie_room_label_2_959e61f6:
@@ -172,25 +172,25 @@ translate philippine ashlie_room_label_2_8c91a788:
 translate philippine ashlie_room_label_2_550fb4eb:
 
     # ch_Name "{i}(Good job, baby!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ang galing, baby!){/i}"
 
 # game/logic/locations/corridor.rpy:114
 translate philippine ashlie_room_label_2_4f666b66:
 
     # ch_Name "{i}(Next time I'll show you an exercise for two!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sa susunod ipapakita ko sa iyo ang ehersisyo para sa ating dalawa!){/i}"
 
 # game/logic/locations/corridor.rpy:117
 translate philippine ashlie_room_label_2_b90f8537:
 
     # ch_Name "{i}(Oh shit, I completely forgot about Olivia.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Naku, nakalimutan ko talaga si Olivia.){/i}"
 
 # game/logic/locations/corridor.rpy:119
 translate philippine ashlie_room_label_2_3aabdd38:
 
     # ch_Name "{i}(I need to hurry if I want to catch anything.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kailangan kong magmadali kung may gusto akong mahuli.){/i}"
 
 # game/logic/locations/corridor.rpy:126
 translate philippine before_i_need_to_hurry_if_e22ac7b2:
@@ -202,319 +202,319 @@ translate philippine before_i_need_to_hurry_if_e22ac7b2:
 translate philippine before_i_need_to_hurry_if_08d59acf:
 
     # ch_Name "{i}(Alright, I shouldn’t be seeing it.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sige, hindi ko dapat ito nakikita.){/i}"
 
 # game/logic/locations/corridor.rpy:128
 translate philippine before_i_need_to_hurry_if_3d6da892:
 
     # ch_Name "{i}(I need to hurry up if I want to find out why was Olivia so pshyched!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Kailangan kong magmadali kung gusto kong malaman kung bakit nagkaganoon si Olivia!){/i}"
 
 # game/logic/locations/corridor.rpy:139
 translate philippine i_need_to_hurry_if_c888624e:
 
     # Olivia "Disaster! This is a disaster!"
-    Olivia ""
+    Olivia "Kalamidad! Ito ay isang kalamidad!"
 
 # game/logic/locations/corridor.rpy:141
 translate philippine i_need_to_hurry_if_edadeda3:
 
     # Olivia "It’s hard enough to deal with that boy! And now \"this\"!"
-    Olivia ""
+    Olivia "Ang hirap kayang magpalaki sa batang iyon! At ngayon \"ito\"!"
 
 # game/logic/locations/corridor.rpy:143
 translate philippine i_need_to_hurry_if_52d1c892:
 
     # Olivia "Doesn't it bother you, Don? Don't you understand what kind of situation we are in?"
-    Olivia ""
+    Olivia "Hindi ka ba nakakaabala, Don? Hindi mo ba naiintindihan kung ano ang sitwasyon natin?"
 
 # game/logic/locations/corridor.rpy:145
 translate philippine i_need_to_hurry_if_f5622498:
 
     # Don "Calm down, Olivia. Why do you think this is bad news?"
-    Don ""
+    Don "Tumahimik ka, Olivia. Bakit sa tingin mo ito ay masamang balita?"
 
 # game/logic/locations/corridor.rpy:147
 translate philippine i_need_to_hurry_if_fbfc8296:
 
     # Olivia "Are you not listening to me? He got a letter! This means that he is one of {i}\"them\"!{/i}"
-    Olivia ""
+    Olivia "Hindi ka ba nakikinig sa akin? May sulat siya! Ibig sabihin kasali siya sa {i}\"kanila\"!{/i}"
 
 # game/logic/locations/corridor.rpy:149
 translate philippine i_need_to_hurry_if_5247ea6c:
 
     # Olivia "How can I make him obey now?{w} He was contradicting every word I said before, but now..."
-    Olivia ""
+    Olivia "Paano ko siya mapapasunod ngayon?{w} Sinasalungat niya ang bawat salitang sinabi ko noon, pero..."
 
 # game/logic/locations/corridor.rpy:151
 translate philippine i_need_to_hurry_if_88c9173b:
 
     # Don "Now he's not your problem."
-    Don ""
+    Don "Ngayon hindi na siya problema."
 
 # game/logic/locations/corridor.rpy:153
 translate philippine i_need_to_hurry_if_b2e469d8:
 
     # Olivia "What do you mean by that?"
-    Olivia ""
+    Olivia "Ano ang ibig mong sabihin?"
 
 # game/logic/locations/corridor.rpy:155
 translate philippine i_need_to_hurry_if_408a6227:
 
     # Don "What I'm trying to say is that this bastard isn't our headache anymore!"
-    Don ""
+    Don "Ang gusto kong sabihin ay hindi na ang bastos na ito ang sakit ng ulo natin!"
 
 # game/logic/locations/corridor.rpy:157
 translate philippine i_need_to_hurry_if_3f38818f:
 
     # Don "We need to help him pack his bags and pray that they will accept him."
-    Don ""
+    Don "Kailangan nating tulungan siyang mag-impake at manalangin na tanggapin siya."
 
 # game/logic/locations/corridor.rpy:159
 translate philippine i_need_to_hurry_if_4f40f895:
 
     # Olivia "I don't understand you, Don."
-    Olivia ""
+    Olivia "Hindi kita maintindihan, Don."
 
 # game/logic/locations/corridor.rpy:161
 translate philippine i_need_to_hurry_if_cc56433a:
 
     # Don "If he gets accepted into the academy, he will be out of our home at least until the end of the year."
-    Don ""
+    Don "Kung tatanggapin siya sa akademya, wala siya sa ating tahanan kahit hanggang sa katapusan ng taon."
 
 # game/logic/locations/corridor.rpy:163
 translate philippine i_need_to_hurry_if_18590874:
 
     # Don "And in the long term, he may finally find his place in life and get off my neck."
-    Don ""
+    Don "At sa tamang panahon, makahanap siya ng kanyang lugar at mawala sa ating buhay."
 
 # game/logic/locations/corridor.rpy:165
 translate philippine i_need_to_hurry_if_afb5a8a7:
 
     # Don "Just be nicer to him now. Just in case…"
-    Don ""
+    Don "Maging mas mabait ka sa kanya ngayon. Kung sakali..."
 
 # game/logic/locations/corridor.rpy:167
 translate philippine i_need_to_hurry_if_2518b682:
 
     # Olivia "Ah, Don! You're so clever!"
-    Olivia ""
+    Olivia "Ah, Don! Napakatalino mo!"
 
 # game/logic/locations/corridor.rpy:172
 translate philippine i_need_to_hurry_if_1408dd6b:
 
     # ch_Name "{i}(Hm, I wonder why Olivia got so bothered with that stupid letter...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hm, nagtataka ako kung bakit naabala si Olivia sa katangahang sulat na iyon...){/i}"
 
 # game/logic/locations/corridor.rpy:174
 translate philippine i_need_to_hurry_if_c5c824ec:
 
     # Samantha "And what are you doing here, exactly?"
-    Samantha ""
+    Samantha "At ano ang ginagawa mo dito?"
 
 # game/logic/locations/corridor.rpy:178
 translate philippine i_need_to_hurry_if_80b5ed7f:
 
     # ch_Name "Fuck!"
-    ch_Name ""
+    ch_Name "Puta!"
 
 # game/logic/locations/corridor.rpy:208
 translate philippine i_1_051_test_180c8976:
 
     # ch_Name "Samantha! You can't scare people like that!"
-    ch_Name ""
+    ch_Name "Samantha! Hindi ka pwedeng makatakot ng mga tao ng ganyan!"
 
 # game/logic/locations/corridor.rpy:210
 translate philippine i_1_051_test_5ff81acc:
 
     # Samantha "The last time I checked, you can't spy on people either. "
-    Samantha ""
+    Samantha "Kung tama ang naalala ko, hindi ka rin pwedeng mag-espasya sa mga tao."
 
 # game/logic/locations/corridor.rpy:212
 translate philippine i_1_051_test_9ba22bb6:
 
     # Samantha "Or did you not know that?"
-    Samantha ""
+    Samantha "O hindi mo ba alam iyon?"
 
 # game/logic/locations/corridor.rpy:214
 translate philippine i_1_051_test_bc04450c:
 
     # ch_Name "Of course I know, but I have a good reason.{w} You won't rat me out to Don, will you? I beg you!"
-    ch_Name ""
+    ch_Name "Siyempre alam ko, pero may magandang dahilan naman.{w} Hindi mo naman ako buburahin kay Don, diba? Nakikiusap ako sa'yo!"
 
 # game/logic/locations/corridor.rpy:216
 translate philippine i_1_051_test_d1817470:
 
     # Samantha "Didn't even cross my mind. I hope you don't make eavesdropping a habit."
-    Samantha ""
+    Samantha "Hindi man lang sumagi sa isip ko. Sana huwag mong ulitin ito."
 
 # game/logic/locations/corridor.rpy:218
 translate philippine i_1_051_test_ec581336:
 
     # Samantha "Did you already get the letter I was telling you about?"
-    Samantha ""
+    Samantha "Nakuha mo na ba yung liham na sinasabi ko sayo?"
 
 # game/logic/locations/corridor.rpy:220
 translate philippine i_1_051_test_beec5d34:
 
     # ch_Name "Yes, but Olivia confiscated it and ran to Don. "
-    ch_Name ""
+    ch_Name "Oo, pero kinumpiska ito ni Olivia at tumakbo papunta kay Don."
 
 # game/logic/locations/corridor.rpy:222
 translate philippine i_1_051_test_175c704c:
 
     # ch_Name "I'm just trying to understand what they are talking about…"
-    ch_Name ""
+    ch_Name "Sinusubukan ko lang intindihin ang pinag-uusapan nila..."
 
 # game/logic/locations/corridor.rpy:224
 translate philippine i_1_051_test_1f2da946:
 
     # Samantha "And you didn't have time to read it?"
-    Samantha ""
+    Samantha "At wala kang oras para basahin ito?"
 
 # game/logic/locations/corridor.rpy:226
 translate philippine i_1_051_test_dc7eb86b:
 
     # ch_Name "I read it. And at first I was sure it was a stupid prank of yours."
-    ch_Name ""
+    ch_Name "Nabasa ko. Naging sigurado akong kalokohan mo 'yun."
 
 # game/logic/locations/corridor.rpy:228
 translate philippine i_1_051_test_9c978051:
 
     # ch_Name "But your parents reacted rather strangely."
-    ch_Name ""
+    ch_Name "Pero kakaiba ang reaksyon ng mga magulang mo."
 
 # game/logic/locations/corridor.rpy:230
 translate philippine i_1_051_test_3d73f30d:
 
     # Samantha "Believe me, I wouldn't go through such a hassle for the sake of some kind of prank."
-    Samantha ""
+    Samantha "Maniwala ka sa akin, hindi ako dadaan sa ganoong abala para sa kapakanan ng kalokohan."
 
 # game/logic/locations/corridor.rpy:232
 translate philippine i_1_051_test_d6385197:
 
     # ch_Name "How would you react if you got an invitation to a school of wizardry?"
-    ch_Name ""
+    ch_Name "Ano ang magiging reaksyon mo kung nakatanggap ka ng imbitasyon sa isang paaralan ng mahika?"
 
 # game/logic/locations/corridor.rpy:234
 translate philippine i_1_051_test_2b2801cd:
 
     # Samantha "I understand you, I experienced it myself last year."
-    Samantha ""
+    Samantha "Naiintindihan kita, nakaranas ako nito noong nakaraang taon."
 
 # game/logic/locations/corridor.rpy:236
 translate philippine i_1_051_test_ec5354f0:
 
     # ch_Name "Hmm, I remember something like that. It wasn't a prank then?"
-    ch_Name ""
+    ch_Name "Hmm, may naalala akong ganyan. Hindi kalokohan iyon?"
 
 # game/logic/locations/corridor.rpy:238
 translate philippine i_1_051_test_4ce32109:
 
     # Samantha "No, but I couldn't tell you about it."
-    Samantha ""
+    Samantha "Hindi, ngunit hindi ko masabi sa iyo."
 
 # game/logic/locations/corridor.rpy:240
 translate philippine i_1_051_test_4b8dbc1c:
 
     # Samantha "It isn't customary to discuss our secrets outside the Academy."
-    Samantha ""
+    Samantha "Hindi pwedeng pag-usapan ang mga sikreto sa labas ng Academy."
 
 # game/logic/locations/corridor.rpy:242
 translate philippine i_1_051_test_127d5fab:
 
     # ch_Name "Secret school of magic? Are you studying to become an illusionist there?"
-    ch_Name ""
+    ch_Name "Sikretong paaralan ng mahika? Nag-aaral ka ba para maging ilusyonista doon?"
 
 # game/logic/locations/corridor.rpy:244
 translate philippine i_1_051_test_2e1ccfd0:
 
     # Samantha "No, not a illusionist. This is exactly what the letter says it is."
-    Samantha ""
+    Samantha "Hindi, hindi ilusyonista. Tulad talaga sa sinasabi ng liham."
 
 # game/logic/locations/corridor.rpy:246
 translate philippine i_1_051_test_b8d3998a:
 
     # ch_Name "There aren't many details in it. What is Cordale? And what does this magic look like?"
-    ch_Name ""
+    ch_Name "Walang maraming detalye dito. Ano ang Cordale? At ano ang hitsura ng mahikang ito?"
 
 # game/logic/locations/corridor.rpy:248
 translate philippine i_1_051_test_d3942ab5:
 
     # Samantha "You have a lot of questions but I cannot answer them..."
-    Samantha ""
+    Samantha "Marami kang tanong pero hindi ko masagot..."
 
 # game/logic/locations/corridor.rpy:250
 translate philippine i_1_051_test_3fdf8efe:
 
     # ch_Name "But why? What kind of mystery is this?"
-    ch_Name ""
+    ch_Name "Pero bakit? Anong klaseng misteryo ito?"
 
 # game/logic/locations/corridor.rpy:252
 translate philippine i_1_051_test_d1ea040b:
 
     # Samantha "It is strictly forbidden for all students to talk about the Academy outside of it."
-    Samantha ""
+    Samantha "Mahigpit na ipinagbabawal ang pag-usapan tungkol sa Academy sa labas."
 
 # game/logic/locations/corridor.rpy:254
 translate philippine i_1_051_test_536f52f5:
 
     # ch_Name "Is it really that strict?"
-    ch_Name ""
+    ch_Name "Ganun ba talaga kahigpit?"
 
 # game/logic/locations/corridor.rpy:256
 translate philippine i_1_051_test_27035b52:
 
     # Samantha "If I blabber, they will turn me into a pig.{w} By the way, they'll have to turn you into one too..."
-    Samantha ""
+    Samantha "Kung sabihin ko, gagawin nila akong baboy.{w} Oo nga pala, ikaw rin..."
 
 # game/logic/locations/corridor.rpy:258
 translate philippine i_1_051_test_f0d125d5:
 
     # Samantha "Just kidding! I will simply be expelled and the path to magic will be forever closed to me."
-    Samantha ""
+    Samantha "Biro lang! Papatalsikin lang ako at tuluyan nang sarado sa akin ang daan patungo sa mahika."
 
 # game/logic/locations/corridor.rpy:260
 translate philippine i_1_051_test_c09b7cb1:
 
     # ch_Name "Wow, that sucks... Okay! Let's say I believe you. What is the plan?"
-    ch_Name ""
+    ch_Name "Wow, ang pangit... Sige! Isipin natin na naniniwala ako. Ano ang plano?"
 
 # game/logic/locations/corridor.rpy:262
 translate philippine i_1_051_test_ca929f6f:
 
     # Samantha "To be on time for the exam, you need to be at the train station tomorrow at noon..."
-    Samantha ""
+    Samantha "Para nandoon ka para sa pagsusulit, kailangan mong pumunta sa tren bukas sa tanghali..."
 
 # game/logic/locations/corridor.rpy:264
 translate philippine i_1_051_test_819331ef:
 
     # ch_Name "Woah. That's right, August 31st is tomorrow..."
-    ch_Name ""
+    ch_Name "Woah. Tama, August 31 na bukas..."
 
 # game/logic/locations/corridor.rpy:266
 translate philippine i_1_051_test_9db2befe:
 
     # Samantha "That's what I'm saying! Pack your bags and go to bed, I'll wake you up in the morning."
-    Samantha ""
+    Samantha "'Yan na nga ba ang sinasabi ko! Ihanda mo na ang mga gamit mo at matulog ka na, gigisingin kita sa umaga."
 
 # game/logic/locations/corridor.rpy:268
 translate philippine i_1_051_test_17cfcff0:
 
     # ch_Name "Sounds reasonable. Until tomorrow then!"
-    ch_Name ""
+    ch_Name "Makatwiran naman. Bukas naman!"
 
 # game/logic/locations/corridor.rpy:270
 translate philippine i_1_051_test_a2ad67db:
 
     # ch_Name "{i}(I can't believe I'm being fooled by this...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi ako makapaniwalang niloloko ako nito...){/i}"
 
 # game/logic/locations/corridor.rpy:272
 translate philippine i_1_051_test_fc3704ae:
 
     # ch_Name "{i}(If this is a prank, then it is already going too far.){/i}"
-    ch_Name ""
+    ch_Name {i}(Kung isa itong kalokohan, malalayo na ito.){/i}"
 
 # game/logic/locations/corridor.rpy:274
 translate philippine i_1_051_test_d10a117e:
@@ -526,91 +526,91 @@ translate philippine i_1_051_test_d10a117e:
 translate philippine i_1_051_test_45d094f8:
 
     # Samantha "What, [Name]?"
-    Samantha ""
+    Samantha "Ano, [Name]?"
 
 # game/logic/locations/corridor.rpy:280
 translate philippine i_1_051_test_98101a54:
 
     # ch_Name "Swear you're not messing with me."
-    ch_Name ""
+    ch_Name "Ipangako mo sa akin na hindi ka nagbibiro.."
 
 # game/logic/locations/corridor.rpy:282
 translate philippine i_1_051_test_1fba17d9:
 
     # Samantha "I swear."
-    Samantha ""
+    Samantha "Nangangako ako."
 
 # game/logic/locations/corridor.rpy:284
 translate philippine i_1_051_test_1ca92a70:
 
     # ch_Name "Okay. Good night, Samantha."
-    ch_Name ""
+    ch_Name "Sige. Magandang gabi, Samantha."
 
 # game/logic/locations/corridor.rpy:286
 translate philippine i_1_051_test_c5716951:
 
     # ch_Name "{i}(I wonder what's going on with Olivia and Don.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Nagtataka ako kung ano ang nangyayari kina Olivia at Don.){/i}"
 
 # game/logic/locations/corridor.rpy:288
 translate philippine i_1_051_test_19476bd8:
 
     # ch_Name "{i}(I know I've promised Sam to stop eavesdropping...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Alam kong nangako ako kay Sam na titigil ako sa pakikinig...){/i}"
 
 # game/logic/locations/corridor.rpy:289
 translate philippine i_1_051_test_836fd714:
 
     # ch_Name "{i}(...but I don't want to miss anything!){/i}"
-    ch_Name ""
+    ch_Name "{i}(...pero wala akong gustong palampasin!){/i}"
 
 # game/logic/locations/corridor.rpy:290
 translate philippine i_1_051_test_81e7ad8c:
 
     # ch_Name "{i}(What should I do?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ano ang dapat kong gawin?){/i}"
 
 # game/logic/locations/corridor.rpy:295
 translate philippine i_1_051_test_66f05b0e:
 
     # ch_Name "{i}(I guess one last time does not count!){/i}"
-    ch_Name ""
+    ch_Name  "{i}(Wala namang problema kung huling pagkakataon na ito!){/i}"
 
 # game/logic/locations/corridor.rpy:298
 translate philippine i_1_051_test_32ed700b:
 
     # ch_Name "{i}(I'm a man of my word. I'd better go.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hindi ako sinungaling. Mas mabuti pang umalis na ako.){/i}"
 
 # game/logic/locations/corridor.rpy:319
 translate philippine i_1_051_test_from_gallery_d15af015:
 
     # '[Name]' "{i}(Nah, I dont want to see this.){/i}"
-    '[Name]' ""
+    '[Name]' "{i}(Nah, ayaw kong makita ito.){/i}"
 
 # game/logic/locations/corridor.rpy:324
 translate philippine i_1_051_test_from_gallery_27b77f45:
 
     # Don "It's time to use your head as it was intented too!"
-    Don ""
+    Don "Panahon na para gamitin ang iyong ulo!"
 
 # game/logic/locations/corridor.rpy:326
 translate philippine i_1_051_test_from_gallery_3a9086a1:
 
     # Don "Because your chattering is giving me headache."
-    Don ""
+    Don "Nakakasakit kasi ng ulo ang kadaldalan mo."
 
 # game/logic/locations/corridor.rpy:328
 translate philippine i_1_051_test_from_gallery_7608bb75:
 
     # Olivia "I'm..."
-    Olivia ""
+    Olivia "Ako ay..."
 
 # game/logic/locations/corridor.rpy:330
 translate philippine i_1_051_test_from_gallery_e5d596b8:
 
     # Don "What are you saying? I can't hear you!"
-    Don ""
+    Don "Ano ang sinasabi mo? Hindi kita marinig!"
 
 # game/logic/locations/corridor.rpy:334
 translate philippine i_1_051_test_from_gallery_a668428e:
@@ -622,7 +622,7 @@ translate philippine i_1_051_test_from_gallery_a668428e:
 translate philippine i_1_051_test_from_gallery_8da9a5b1:
 
     # Don "Yeah bitch, do you say that you like the taste of my cock?"
-    Don ""
+    Don "Oo nga, sinasabi mo ba na gusto mo ang lasa ng aking titi?"
 
 # game/logic/locations/corridor.rpy:340
 translate philippine i_1_051_test_from_gallery_a668428e_1:
@@ -634,7 +634,7 @@ translate philippine i_1_051_test_from_gallery_a668428e_1:
 translate philippine i_1_051_test_from_gallery_557e9d67:
 
     # Don "That's not all!"
-    Don ""
+    Don "Hindi iyan ang lahat!"
 
 # game/logic/locations/corridor.rpy:344
 translate philippine i_1_051_test_from_gallery_87404d4c:
