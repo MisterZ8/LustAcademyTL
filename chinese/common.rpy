@@ -272,7 +272,7 @@ translate chinese strings:
 
     # renpy/common/00action_file.rpy:444
     old "Load slot %s: [text]"
-    new "加载位 %s：[text["
+    new "加载位 %s：[text]"
 
     # renpy/common/00action_file.rpy:497
     old "Delete slot [text]"
