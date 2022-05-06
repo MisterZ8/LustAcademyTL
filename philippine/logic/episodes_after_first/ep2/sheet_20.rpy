@@ -4,7 +4,7 @@
 translate philippine sheet_20_a45e0d62:
 
     # Jacob "Welcome to the Cordale Academy of Magic and Wizardry!"
-    Jacob "Maligayang pagbati sa CoCordale Academy of Magic and Wizardry!"
+    Jacob "Maligayang pagbati sa Cordale Academy of Magic and Wizardry!"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:5
 translate philippine sheet_20_c3b06147:
