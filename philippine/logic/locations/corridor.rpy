@@ -1408,301 +1408,301 @@ translate philippine scene_16_a1c3f1f5:
 translate philippine i_1_082a_test_7fb91c8b:
 
     # ch_Name "{i}(What a cutie!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ang cute niya!){/i}"
 
 # game/logic/locations/corridor.rpy:732
 translate philippine i_1_082a_test_975a0a11:
 
     # ch_Name "Oh, no, not really. Be my guest!"
-    ch_Name ""
+    ch_Name  "Oh, wala naman. Umupo ka!"
 
 # game/logic/locations/corridor.rpy:734
 translate philippine i_1_082a_test_7c365fdd:
 
     # UnknownHaley "Excellent! You are my savior."
-    UnknownHaley ""
+    UnknownHaley "Salamat! Ikaw ang aking tagapagligtas."
 
 # game/logic/locations/corridor.rpy:744
 translate philippine train_menu_0_c570c9df:
 
     # ch_Name "Let me help you!"
-    ch_Name ""
+    ch_Name "Tutulungan kita!"
 
 # game/logic/locations/corridor.rpy:748
 translate philippine train_menu_1_98084fe6:
 
     # ch_Name "Here you go!"
-    ch_Name ""
+    ch_Name "Heto!"
 
 # game/logic/locations/corridor.rpy:750
 translate philippine train_menu_1_546fcf8b:
 
     # UnknownHaley "Thanks."
-    UnknownHaley ""
+    UnknownHaley "Salamat."
 
 # game/logic/locations/corridor.rpy:752
 translate philippine train_menu_1_91cb8934:
 
     # ch_Name "No problem, I'm always happy to help."
-    ch_Name ""
+    ch_Name "Walang problema, madali naman."
 
 # game/logic/locations/corridor.rpy:754
 translate philippine train_menu_1_a90a7fa2:
 
     # UnknownHaley "Could you...{w} move over a little further?"
-    UnknownHaley ""
+    UnknownHaley "Pwede bang...{w} lumipat pa ng kaunti?"
 
 # game/logic/locations/corridor.rpy:756
 translate philippine train_menu_1_eaf17708:
 
     # ch_Name "Oh. Yes, of course."
-    ch_Name ""
+    ch_Name "Oh. Oo, Siyempre."
 
 # game/logic/locations/corridor.rpy:769
 translate philippine train_menu_2_4384efc0:
 
     # UnknownHaley "Hey!!! What are you staring at? You'd better help me with my suitcase."
-    UnknownHaley ""
+    UnknownHaley "Hoy!!! Anong tinititigan mo? Mas mabuting tulungan mo ako sa maleta ko."
 
 # game/logic/locations/corridor.rpy:771
 translate philippine train_menu_2_4f486dbd:
 
     # ch_Name "This is not what it looks like. I was just distracted by... Nevermind."
-    ch_Name ""
+    ch_Name "Hindi naman. Ginulo lang ako ng... Hindi bale."
 
 # game/logic/locations/corridor.rpy:779
 translate philippine train_menu_end_d19e87d6:
 
     # ch_Name "Sorry... It got awkward..."
-    ch_Name ""
+    ch_Name "Sorry... Kakaiba ito..."
 
 # game/logic/locations/corridor.rpy:781
 translate philippine train_menu_end_49031043:
 
     # UnknownHaley "Don't worry, all guys are a little perverted."
-    UnknownHaley ""
+    UnknownHaley "Huwag kang mag-alala, medyo bastos naman kayong mga lalaki."
 
 # game/logic/locations/corridor.rpy:783
 translate philippine train_menu_end_12663923:
 
     # ch_Name "{i}(Well, I would not say \"a little\"...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Well, hindi ko sasabihing \"medyo\"...){/i}"
 
 # game/logic/locations/corridor.rpy:785
 translate philippine train_menu_end_c2c689d4:
 
     # ch_Name "It is not true! I wasn't thinking of anything like that."
-    ch_Name ""
+    ch_Name "Hindi totoo! Wala akong iniisip na ganyan."
 
 # game/logic/locations/corridor.rpy:787
 translate philippine train_menu_end_643c85a2:
 
     # UnknownHaley "Why?!"
-    UnknownHaley ""
+    UnknownHaley "Bakit?!"
 
 # game/logic/locations/corridor.rpy:789
 translate philippine train_menu_end_993174e4:
 
     # ch_Name "Um, well..."
-    ch_Name ""
+    ch_Name "Um, kasi..."
 
 # game/logic/locations/corridor.rpy:791
 translate philippine train_menu_end_1c912a5c:
 
     # UnknownHaley "Relax! I'm just kidding."
-    UnknownHaley ""
+    UnknownHaley "Huwag mag-alala! Nagbibiro lang ako."
 
 # game/logic/locations/corridor.rpy:793
 translate philippine train_menu_end_9def1b56:
 
     # UnknownHaley "By the way, my name is Haley! Yours?"
-    UnknownHaley ""
+    UnknownHaley "Nga pala, ako si Haley! Ikaw?"
 
 # game/logic/locations/corridor.rpy:795
 translate philippine train_menu_end_a34c12ad:
 
     # ch_Name "[Name]. Nice to meet you! You are funny."
-    ch_Name ""
+    ch_Name "[Name]. Mabuting nakilala kita! Nakakatawa ka."
 
 # game/logic/locations/corridor.rpy:797
 translate philippine train_menu_end_048847b4:
 
     # Haley "Thank you, [Name]! You are nice too."
-    Haley ""
+    Haley "Salamat, [Name]! Ikaw rin."
 
 # game/logic/locations/corridor.rpy:799
 translate philippine train_menu_end_6e7dc279:
 
     # ch_Name "Sorry if this question is a bit forward..."
-    ch_Name ""
+    ch_Name "Pasensya na kung walang galang ang tanong na ito..."
 
 # game/logic/locations/corridor.rpy:801
 translate philippine train_menu_end_135e2748:
 
     # ch_Name "...but didn't all the passengers take their seats an hour ago?"
-    ch_Name ""
+    ch_Name "...pero hindi ba naka-upo na ang ibang mga ng pasahero?"
 
 # game/logic/locations/corridor.rpy:803
 translate philippine train_menu_end_b3783af0:
 
     # ch_Name "How did it happen that you are coming here only now?"
-    ch_Name ""
+    ch_Name "Bakit ngayon ka lang pumunta dito?"
 
 # game/logic/locations/corridor.rpy:805
 translate philippine train_menu_end_13e2be0c:
 
     # Haley "There's a rather extravagant girl in my compartment..."
-    Haley ""
+    Haley "May isang medyo maluho na babae kanina..."
 
 # game/logic/locations/corridor.rpy:807
 translate philippine train_menu_end_fde91a9a:
 
     # Haley "She drank a bottle of whiskey in the blink of an eye and started hitting on me."
-    Haley ""
+    Haley "Mabilis siyang uminom ng whisky at nagsimulang manligaw sa akin."
 
 # game/logic/locations/corridor.rpy:809
 translate philippine train_menu_end_d95d0ba4:
 
     # Haley "So I decided to get out of there!"
-    Haley ""
+    Haley "Kaya umalis na lang ako!"
 
 # game/logic/locations/corridor.rpy:811
 translate philippine train_menu_end_30fa9be1:
 
     # Haley "And you are the only one who has a free seat in the couchette!"
-    Haley ""
+    Haley "At ikaw lang ang walang kasama!"
 
 # game/logic/locations/corridor.rpy:813
 translate philippine train_menu_end_3f90c8fd:
 
     # Haley "You don't mind if I join you, do you?"
-    Haley ""
+    Haley "Wala ka namang pakialam kung samahan kita, diba?"
 
 # game/logic/locations/corridor.rpy:821
 translate philippine train_menu_end_cfcc7ad5:
 
     # ch_Name "Of course not! There is plenty of room here, and it is always more fun with company."
-    ch_Name ""
+    ch_Name "Siyempre! Maluwag naman dito, at mas masaya kapag may kasama."
 
 # game/logic/locations/corridor.rpy:823
 translate philippine train_menu_end_45624086:
 
     # Haley "Agreed! I hope you're not planning on getting drunk and harassing me?"
-    Haley ""
+    Haley "Agree! Wala kang balak magpakalasing at asarin ako?"
 
 # game/logic/locations/corridor.rpy:825
 translate philippine train_menu_end_a4f16ca5:
 
     # ch_Name "I am not."
-    ch_Name ""
+    ch_Name "Wala naman."
 
 # game/logic/locations/corridor.rpy:827
 translate philippine train_menu_end_5e5375c6:
 
     # Haley "Thanks."
-    Haley ""
+    Haley "Salamat."
 
 # game/logic/locations/corridor.rpy:829
 translate philippine train_menu_end_537272fc:
 
     # ch_Name "For now..."
-    ch_Name ""
+    ch_Name "Sa ngayon..."
 
 # game/logic/locations/corridor.rpy:834
 translate philippine train_menu_drunk_girls_80f77679:
 
     # ch_Name "Wait! Are you saying that somewhere on the train there is a compartment with a drunk hottie?"
-    ch_Name ""
+    ch_Name "Teka! Sinasabi mo bang may lasing na bebot sa ating tren?"
 
 # game/logic/locations/corridor.rpy:836
 translate philippine train_menu_drunk_girls_058b166c:
 
     # Haley "Yes, couchette number 8. Why?"
-    Haley ""
+    Haley "Oo, sa ika-walong karwahe. Bakit?"
 
 # game/logic/locations/corridor.rpy:838
 translate philippine train_menu_drunk_girls_6b3f7d0a:
 
     # ch_Name "I'll leave this compartment at your complete disposal."
-    ch_Name ""
+    ch_Name "Iiwan ko sa iyo ang compartment na ito."
 
 # game/logic/locations/corridor.rpy:840
 translate philippine train_menu_drunk_girls_791e178a:
 
     # ch_Name "I have urgent business in couchette number 8!"
-    ch_Name ""
+    ch_Name "Mayroon akong kailangang gawin sa ika-walong karwahe!"
 
 # game/logic/locations/corridor.rpy:845
 translate philippine train_menu_after_drunk_girls_2ddd6179:
 
     # Haley "Wait, what?!"
-    Haley ""
+    Haley "Teka, ano?!"
 
 # game/logic/locations/corridor.rpy:847
 translate philippine train_menu_after_drunk_girls_cbe7ca11:
 
     # ch_Name "Relax, it was just a joke."
-    ch_Name ""
+    ch_Name "Relax, biro lang 'yun."
 
 # game/logic/locations/corridor.rpy:849
 translate philippine train_menu_after_drunk_girls_b45a1a5a:
 
     # ch_Name "{i}(Although the prospect is not the worst.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bagaman ang inaasam-asam ay hindi ang pinakamasama.){/i}"
 
 # game/logic/locations/corridor.rpy:851
 translate philippine train_menu_after_drunk_girls_c58f7524:
 
     # Haley "You are funny. I didn’t know that the Academy had a faculty of humorists."
-    Haley ""
+    Haley "Nakakatawa ka. Hindi ko alam na ang Academy ay may mga komedyante."
 
 # game/logic/locations/corridor.rpy:853
 translate philippine train_menu_after_drunk_girls_57d355ce:
 
     # ch_Name "Someone has to take care of the future world of stand-up!"
-    ch_Name ""
+    ch_Name "Kailangang may nag-iingat sa kinabukasan ng stand-up!"
 
 # game/logic/locations/corridor.rpy:856
 translate philippine train_menu_after_drunk_girls_97ac8811:
 
     # ch_Name "Besides, no stand-up works without a bit of magic!"
-    ch_Name ""
+    ch_Name "At saka, walang stand-up na gumagana na walang mahika!"
 
 # game/logic/locations/corridor.rpy:858
 translate philippine train_menu_after_drunk_girls_94f9e592:
 
     # Haley "Wait, are you kidding me? Or are you serious?"
-    Haley ""
+    Haley "Teka, niloloko mo ba ako? O seryoso ka?"
 
 # game/logic/locations/corridor.rpy:860
 translate philippine train_menu_after_drunk_girls_2c9c86ec:
 
     # Haley "What do you know about magic?"
-    Haley ""
+    Haley "Ano ang alam mo sa mahika?"
 
 # game/logic/locations/corridor.rpy:862
 translate philippine train_menu_after_drunk_girls_487ed017:
 
     # Haley "I've been digging around the Internet and the city library all week..."
-    Haley ""
+    Haley "Buong linggo akong naghuhukay sa Internet at sa aklatan..."
 
 # game/logic/locations/corridor.rpy:864
 translate philippine train_menu_after_drunk_girls_14b24ef0:
 
     # Haley "...but I haven't found any specifics!"
-    Haley ""
+    Haley "...pero wala akong nakitang detalye!"
 
 # game/logic/locations/corridor.rpy:866
 translate philippine train_menu_after_drunk_girls_3da38669:
 
     # Haley "But I won't give up. I'm sure the information I found there will still be useful to me."
-    Haley ""
+    Haley "Ngunit hindi ako susuko. Siguradong makinabangan ko pa rin ang impormasyong nahanap ko doon."
 
 # game/logic/locations/corridor.rpy:868
 translate philippine train_menu_after_drunk_girls_c1900c94:
 
     # Haley "What do you think, which people were closest to learning the theory of magic?"
-    Haley ""
+    Haley "Ano sa palagay mo, sino ang pinakamalapit sa pag-aaral ng teorya ng mahika? "
 
 # game/logic/locations/corridor.rpy:870
 translate philippine train_menu_after_drunk_girls_01658f27:
@@ -1714,115 +1714,115 @@ translate philippine train_menu_after_drunk_girls_01658f27:
 translate philippine train_menu_after_drunk_girls_bdced21f:
 
     # Haley "Do you know anything about magic at all?"
-    Haley ""
+    Haley "May alam ka ba tungkol sa magic?"
 
 # game/logic/locations/corridor.rpy:874
 translate philippine train_menu_after_drunk_girls_0bc7dfc8:
 
     # ch_Name "Actually, my friend is in her sophomore year in Cordale."
-    ch_Name ""
+    ch_Name "Actually, nasa ikalawang taon na ang kaibigan ko sa Cordale."
 
 # game/logic/locations/corridor.rpy:876
 translate philippine train_menu_after_drunk_girls_9240ebca:
 
     # Haley "Did she tell you anything? Please, share with me!"
-    Haley ""
+    Haley "May sinabi ba siya sa'yo? Pakiusap, sabihin mo!"
 
 # game/logic/locations/corridor.rpy:878
 translate philippine train_menu_after_drunk_girls_19dffb29:
 
     # ch_Name "She didn't tell me anything! "
-    ch_Name ""
+    ch_Name "Wala siyang sinabi sa akin!"
 
 # game/logic/locations/corridor.rpy:880
 translate philippine train_menu_after_drunk_girls_de19a0ac:
 
     # ch_Name "It is all very secret and they are forbidden to talk about the details."
-    ch_Name ""
+    ch_Name "Sikreto ang lahat at bawal silang magsabi ng mga detalye."
 
 # game/logic/locations/corridor.rpy:882
 translate philippine train_menu_after_drunk_girls_55a87f52:
 
     # Haley "What friend leaves her pal in ignorance like that?"
-    Haley ""
+    Haley "Sino ba ang nag-iiwan ng kanyang kaibigan sa kamangmangan?"
 
 # game/logic/locations/corridor.rpy:884
 translate philippine train_menu_after_drunk_girls_fd777908:
 
     # ch_Name "Don't say that! I will meet up with her when I arrive and she will help me."
-    ch_Name ""
+    ch_Name "'Wag mong sabihin 'yan! Makikipagkita ako sa kanya pagdating natin at tutulungan niya ako."
 
 # game/logic/locations/corridor.rpy:886
 translate philippine train_menu_after_drunk_girls_05ef46dc:
 
     # Haley "Okay, okay! Excuse me, I got excited."
-    Haley ""
+    Haley "Sige! Pasensya na, maramdamin lang ako."
 
 # game/logic/locations/corridor.rpy:888
 translate philippine train_menu_after_drunk_girls_7027103e:
 
     # Haley "I'm so delighted that magic exists..."
-    Haley ""
+    Haley "Natutuwa akong totoo pala ang mahika..."
 
 # game/logic/locations/corridor.rpy:890
 translate philippine train_menu_after_drunk_girls_8aec3731:
 
     # Haley "...I can barely contain myself."
-    Haley ""
+    Haley "... halos hindi ko mapigilan ang sarili ko."
 
 # game/logic/locations/corridor.rpy:892
 translate philippine train_menu_after_drunk_girls_660afcba:
 
     # Haley "You should know how many theories I have!"
-    Haley ""
+    Haley "Gaano karaming mga teorya ang mayroon ako!"
 
 # game/logic/locations/corridor.rpy:894
 translate philippine train_menu_after_drunk_girls_fd325397:
 
     # Haley "What if magic is..."
-    Haley ""
+    Haley "Paano kung ang mahika ay..."
 
 # game/logic/locations/corridor.rpy:896
 translate philippine train_menu_after_drunk_girls_580cca29:
 
     # "For the next few hours Haley shares her crazy theories about the Academy..."
-    ""
+    "Sa susunod na ilang oras, ibinahagi ni Haley ang kanyang mga nakatutuwang teorya tungkol sa Academy..."
 
 # game/logic/locations/corridor.rpy:898
 translate philippine train_menu_after_drunk_girls_56d523d2:
 
     # "...until you manage to convince her that it's worth getting some sleep before the big day."
-    ""
+    "...hanggang sa makumbinsi mo siya na matulog bago ang malaking araw."
 
 # game/logic/locations/corridor.rpy:905
 translate philippine train_menu_after_drunk_girls_60870614:
 
     # ch_Name "{i}(It was getting quite dark outside the window.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Medyo dumilim sa labas ng bintana.){/i}"
 
 # game/logic/locations/corridor.rpy:907
 translate philippine train_menu_after_drunk_girls_792b6e86:
 
     # ch_Name "{i}(And I still haven't fallen asleep.){/i}"
-    ch_Name ""
+    ch_Name "{i}(At hindi pa rin ako nakatulog.){/i}"
 
 # game/logic/locations/corridor.rpy:909
 translate philippine train_menu_after_drunk_girls_92ce7869:
 
     # ch_Name "{i}(Time to do something about this insomnia.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oras na para maghanap ng solusyon para sa insomnia na ito.){/i}"
 
 # game/logic/locations/corridor.rpy:911
 translate philippine train_menu_after_drunk_girls_5a292311:
 
     # ch_Name "{i}(But who can blame me?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ngunit sino ang maaaring sisihin sa akin?){/i}"
 
 # game/logic/locations/corridor.rpy:913
 translate philippine train_menu_after_drunk_girls_670c78e0:
 
     # ch_Name "{i}(It's hard to fall asleep when your dick's on fire.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mahirap makatulog kapag nasusunog ang titi mo.){/i}"
 
 # game/logic/locations/corridor.rpy:915
 translate philippine train_menu_after_drunk_girls_2780eec2:
