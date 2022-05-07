@@ -4,37 +4,37 @@
 translate chinese sheet_19_de22dd03:
 
     # UnknownJacob "All set? "
-    UnknownJacob "都准备好了吗?"
+    UnknownJacob "大家都准备好了吗?"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:12
 translate chinese sheet_19_5e301744:
 
     # UnknownJacob "Great, let's begin!"
-    UnknownJacob "太好了，让我们开始吧!"
+    UnknownJacob "太好了，我们开始吧!"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:14
 translate chinese sheet_19_b411353a:
 
     # UnknownJacob "Gather around, so you can all hear me!"
-    UnknownJacob "围过来，这样你们都能听到我说话!"
+    UnknownJacob "都围过来，这样你们才能听到我说话!"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:16
 translate chinese sheet_19_142f896f:
 
     # UnknownJacob "Applicants! "
-    UnknownJacob "申请人!"
+    UnknownJacob "各位新人!"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:18
 translate chinese sheet_19_317d1e3d:
 
     # UnknownJacob "I am here to welcome you!"
-    UnknownJacob "我在这里欢迎你!"
+    UnknownJacob "我在这里欢迎你们的光临!"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:20
 translate chinese sheet_19_2876f8c6:
 
     # UnknownJacob "There you can see the Academy itself! "
-    UnknownJacob "在那里你可以看到学院本身!"
+    UnknownJacob "那边就是学院主楼了!"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:22
 translate chinese sheet_19_cd0a6c85:
@@ -52,7 +52,7 @@ translate chinese sheet_19_ad65eec5:
 translate chinese sheet_19_7a01eddb:
 
     # ch_Name "{i}(I can't wait to get a closer look!){/i}"
-    ch_Name "{i}(我等不及要近距离看了!){/i}"
+    ch_Name "{i}(我等不及要走近看看了!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:28
 translate chinese sheet_19_7eb50257:
@@ -70,7 +70,7 @@ translate chinese sheet_19_9c3c1527:
 translate chinese sheet_19_04538919:
 
     # UnknownJacob "...or fail and leave this place forever."
-    UnknownJacob "...要么失败，永远离开这里。"
+    UnknownJacob "...否则就接受失败，然后永远离开这里。"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:34
 translate chinese sheet_19_0aba2282:
@@ -88,25 +88,25 @@ translate chinese sheet_19_0c80d2cb:
 translate chinese sheet_19_ce4ca856:
 
     # Jacob "I was assigned to meet the freshmen and take them to the exam location."
-    Jacob "我被分配去见新生，带他们去考场。"
+    Jacob "我的任务就是和新生见面，然后带他们去考场。"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:40
 translate chinese sheet_19_2dd89bc3:
 
     # Jacob "I'm sure you have a lot of questions..."
-    Jacob "我相信你有很多问题..."
+    Jacob "我相信你们都有很多问题..."
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:42
 translate chinese sheet_19_92d7c394:
 
     # Jacob "...but people are already waiting for us."
-    Jacob "...但人们已经在等我们了。"
+    Jacob "...但大家都在等我们了。"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:44
 translate chinese sheet_19_edde9df5:
 
     # Jacob "Let's hurry! All your questions will be answered very soon."
-    Jacob "让我们快点!你的问题很快就会得到解答。"
+    Jacob "动作快点!你的问题很快就会得到解答。"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:57
 translate chinese sheet_19_fdaa42a8:
@@ -130,7 +130,7 @@ translate chinese sheet_19_7dc24aca:
 translate chinese sheet_19_93031dde:
 
     # ch_Name "{i}(I have to make sure I'll pass the exam.){/i}"
-    ch_Name "{i}(我必须确保通过考试。){/i}"
+    ch_Name "{i}(我一定要通过考试。){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:65
 translate chinese sheet_19_c4506604:
@@ -148,7 +148,7 @@ translate chinese sheet_19_6d9fca84:
 translate chinese sheet_19_859af304:
 
     # Jacob "Our academy was founded in the18th century."
-    Jacob "我们的学院于18世纪。"
+    Jacob "我们的学院建于18世纪。"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:71
 translate chinese sheet_19_71f5a7e3:
@@ -184,19 +184,19 @@ translate chinese sheet_19_af8133c6:
 translate chinese sheet_19_85cf84c5:
 
     # Jacob "Being a Cordale alumnus is very prestigious."
-    Jacob "作为Cordale的校友是很有声望的。"
+    Jacob "能够成为Cordale的校友可是很有面子的。"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:83
 translate chinese sheet_19_695d999e:
 
     # Jacob "It opens a great bunch of doors..."
-    Jacob "它打开了很多扇门..."
+    Jacob "这层关系可以让你左右逢源..."
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:85
 translate chinese sheet_19_0dfc7b92:
 
     # Jacob "...and serves you for the rest of your life."
-    Jacob "...并为你服务一辈子。"
+    Jacob "...并受益终身。"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:87
 translate chinese sheet_19_df9cc034:
@@ -214,7 +214,7 @@ translate chinese sheet_19_2f18b7c3:
 translate chinese sheet_19_cfa2cac9:
 
     # Jacob "And the best is the only kind you can get here, at Cordale."
-    Jacob "在Cordale，你只能找到最好的了。"
+    Jacob "你的最佳选择，就是来Cordale。"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:93
 translate chinese sheet_19_bfbf68e6:
@@ -250,7 +250,7 @@ translate chinese sheet_19_25a065a5:
 translate chinese sheet_19_c9dfa630:
 
     # Jacob "You know...{w} Magic can be dangerous."
-    Jacob "你知道的...{w} 魔法是危险的。"
+    Jacob "你知道的...{w} 魔法很危险。"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:105
 translate chinese sheet_19_a7109d95:
@@ -268,7 +268,7 @@ translate chinese sheet_19_4fd666c5:
 translate chinese sheet_19_126793fe:
 
     # Jacob "Yes, what's about it?"
-    Jacob "好的，是什么?"
+    Jacob "是的，有什么问题吗?"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:114
 translate chinese sheet_19_bf6fb6d7:
@@ -280,7 +280,7 @@ translate chinese sheet_19_bf6fb6d7:
 translate chinese sheet_19_05430c1f:
 
     # Jacob "This is an exam in wizardry. Do a spell."
-    Jacob "这是一场魔法考试。施咒。"
+    Jacob "这是一场魔法考试。就是念咒语。"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:118
 translate chinese sheet_19_7450b9e6:
@@ -310,19 +310,19 @@ translate chinese sheet_19_453b3226:
 translate chinese sheet_19_4e008960:
 
     # Jacob "If you got an invitation, that means you're a wizard, [Name]."
-    Jacob "如果你收到了邀请，这意味着你是一个巫师，[Name]。"
+    Jacob "如果你收到了邀请，这就意味着你是一个巫师，[Name]。"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:128
 translate chinese sheet_19_5925f563:
 
     # ch_Name "It's still to much to fit in my head. I know you say that..."
-    ch_Name "这对我来说还有很多。我知道你说..."
+    ch_Name "我还是有很多想问的，我懂你的意思..."
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:130
 translate chinese sheet_19_2c6f27e9:
 
     # ch_Name "But it feels like I'm just [Name]..."
-    ch_Name "但感觉我只是[Name]..."
+    ch_Name "但感觉我只是[Name]而已..."
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:132
 translate chinese sheet_19_2e0ca786:
@@ -334,13 +334,13 @@ translate chinese sheet_19_2e0ca786:
 translate chinese sheet_19_df59ad17:
 
     # Jacob "And this goes for all of you - if you were invited there is magic within you."
-    Jacob "这也适用于你们所有人—如果你们被邀请，你们的内心就会有魔法。"
+    Jacob "这也适用于你们所有人—如果你们收到了邀请，说明你们都自带魔法。"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:136
 translate chinese sheet_19_639c04ac:
 
     # Jacob "Just try your best to find it when the time comes!"
-    Jacob "当时间到来的时候，尽你最大的努力去找到它吧!"
+    Jacob "当时机成熟之时，尽你最大的努力去找到它吧!"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:138
 translate chinese sheet_19_f881e1a2:
