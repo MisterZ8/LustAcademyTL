@@ -16,43 +16,43 @@ translate chinese sheet_20_c3b06147:
 translate chinese sheet_20_7d567074:
 
     # ch_Name "Excuse me, can we look around here?"
-    ch_Name "打扰一下，我们能在这里看看吗?"
+    ch_Name "不好意思，我们能四处看看吗?"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:9
 translate chinese sheet_20_ec73717e:
 
     # Jacob "Impressive, isn't it?"
-    Jacob "令人印象深刻，不是吗?"
+    Jacob "真是令人印象深刻，是吧?"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:11
 translate chinese sheet_20_4c6d30ad:
 
     # Jacob "We are proud of the history of our academy. "
-    Jacob "我们为我们学院的历史感到骄傲。"
+    Jacob "我们为学院的历史感到骄傲。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:13
 translate chinese sheet_20_bf133f93:
 
     # Jacob "Many great wizards are depicted on murals and gobelins throughout the institution!"
-    Jacob "许多伟大的巫师被描绘在整个学院的壁画和妖精!"
+    Jacob "许多伟大的巫师和哥布林都被描绘在整个机构的壁画上！"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:15
 translate chinese sheet_20_417f6864:
 
     # Jacob "But it would be better, if you dont get distracted by this majesty."
-    Jacob "但如果你不被这威严分心，那就更好了。"
+    Jacob "但如果你不被这种威严分心，那就更好了。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:17
 translate chinese sheet_20_c480c785:
 
     # Jacob "Better focus on your exam."
-    Jacob "你最好集中精力考试。"
+    Jacob "你们最好把注意力集中在考试上。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:19
 translate chinese sheet_20_36c945c0:
 
     # Jacob "You'll have plenty of time to gaze all these over later..."
-    Jacob "以后你会有足够的时间来审视这些..."
+    Jacob "以后你有大把的时间来欣赏这些..."
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:21
 translate chinese sheet_20_ba647e2b:
@@ -94,25 +94,25 @@ translate chinese sheet_20_47585275:
 translate chinese sheet_20_cbd6f300:
 
     # Victoria "It's up to the examiner to meet the applicants."
-    Victoria "是否会见申请人由考官决定。"
+    Victoria "是否要见申请者由考官决定。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:57
 translate chinese sheet_20_b7d77e61:
 
     # Victoria "I am the examiner."
-    Victoria "我是主考人。"
+    Victoria "我才是主考官。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:58
 translate chinese sheet_20_2309e121:
 
     # Victoria "So this is my task."
-    Victoria "这就是我的任务。"
+    Victoria "所以这是我的事。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:59
 translate chinese sheet_20_46d3fd29:
 
     # Victoria "Care to explain yourself?"
-    Victoria "能解释一下吗?"
+    Victoria "你能解释一下吗?"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:61
 translate chinese sheet_20_5ce402c1:
@@ -124,7 +124,7 @@ translate chinese sheet_20_5ce402c1:
 translate chinese sheet_20_d32e8575:
 
     # Jacob "So the deal is..."
-    Jacob "所以交易是..."
+    Jacob "所以你有什么事..."
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:63
 translate chinese sheet_20_e0e90f05:
@@ -136,7 +136,7 @@ translate chinese sheet_20_e0e90f05:
 translate chinese sheet_20_26f10086:
 
     # Jacob "...and he asked me to meet the students."
-    Jacob "...他让我去见学生们。"
+    Jacob "...他让我去接学生。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:66
 translate chinese sheet_20_45b4ecdd:
@@ -148,19 +148,19 @@ translate chinese sheet_20_45b4ecdd:
 translate chinese sheet_20_3565a1bc:
 
     # Jacob "Don't overthink it."
-    Jacob "别深思。"
+    Jacob "别想太多。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:69
 translate chinese sheet_20_1bd47f69:
 
     # Victoria "How strange. I didn't receive any messages from him."
-    Victoria "多么奇怪。我没有收到他的任何信息。"
+    Victoria "好奇怪啊。我都没有收到他的信息。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:70
 translate chinese sheet_20_45335ac2:
 
     # Victoria "Thank you, Jacob. From this point I'll take the lead."
-    Victoria "谢谢你，Jacob。从这一点起，我来带头。"
+    Victoria "谢谢你，Jacob。从现在开始，这里交给我吧。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:72
 translate chinese sheet_20_f4a57c70:
@@ -178,13 +178,13 @@ translate chinese sheet_20_ee1cd8d1:
 translate chinese sheet_20_2e5351c4:
 
     # Jacob "Good luck at the exam, Vicky."
-    Jacob "祝你考试好运，Vicky。"
+    Jacob "祝你监考顺利，Vicky。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:78
 translate chinese sheet_20_12d0a9e2:
 
     # Victoria "Applicants!"
-    Victoria "申请人!"
+    Victoria "各位新人!"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:80
 translate chinese sheet_20_9f87f016:
@@ -226,13 +226,13 @@ translate chinese sheet_20_c1cb3803:
 translate chinese sheet_20_e52af344:
 
     # Victoria "When Melissa was on her deathbed."
-    Victoria "当Melissa临终的时候。"
+    Victoria "Melissa临终之时。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:95
 translate chinese sheet_20_ef701d31:
 
     # Victoria "She united four of her students to continue her path."
-    Victoria "她联合她的四个学生继续她的道路。"
+    Victoria "她把四名学生聚在一起，继承她的遗志。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:97
 translate chinese sheet_20_0afbd62d:
@@ -256,25 +256,25 @@ translate chinese sheet_20_855d98c5:
 translate chinese sheet_20_009b5863:
 
     # Victoria "...dreams of finding the way to obtain her hidden knowledge."
-    Victoria "...梦想找到获取她隐藏知识的方法。"
+    Victoria "...都梦想着找到她隐藏学识的方法。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:105
 translate chinese sheet_20_dc864394:
 
     # Victoria "Who knows, maybe one of you can do it!"
-    Victoria "谁知道呢，也许你们中的一个能做到!"
+    Victoria "谁知道呢，也许你们其中之一就能做到!"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:108
 translate chinese sheet_20_5336e15c:
 
     # Victoria "But first you'll have to prove yourself worthy."
-    Victoria "但首先你得证明自己的价值。"
+    Victoria "但首先你得通过考试。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:110
 translate chinese sheet_20_27a1070f:
 
     # Victoria "By passing my exam.{w} Good luck with that!"
-    Victoria "通过考试。{w} 祝你好运!"
+    Victoria "来证明自己的价值。{w} 祝你们好运!"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:112
 translate chinese sheet_20_2b3b2693:
@@ -286,13 +286,13 @@ translate chinese sheet_20_2b3b2693:
 translate chinese sheet_20_458a6c3e:
 
     # Victoria "...that he came up with an excuse not to answer your questions, so I'll have to."
-    Victoria "...他找了个借口不回答你的问题，所以我只好。"
+    Victoria "...他找了个借口来回避你们的问题，所以只好由我来回答了。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:116
 translate chinese sheet_20_784e1f08:
 
     # Victoria "Ask your questions!"
-    Victoria "问你的问题!"
+    Victoria "提问吧!"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:118
 translate chinese sheet_20_37b07f5c:
@@ -310,13 +310,13 @@ translate chinese sheet_20_e3dcaad9:
 translate chinese sheet_20_0d4ae3d5:
 
     # Victoria "That's right."
-    Victoria "对。"
+    Victoria "是的。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:129
 translate chinese sheet_20_98a0f3c2:
 
     # Victoria "Here!"
-    Victoria "这个!"
+    Victoria "就是这个!"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:131
 translate chinese sheet_20_76dbe08f:
@@ -328,19 +328,19 @@ translate chinese sheet_20_76dbe08f:
 translate chinese sheet_20_b9733e3d:
 
     # ch_Name "{i}(This IS real!){/i}"
-    ch_Name "{i}(这是真实的!){/i}"
+    ch_Name "{i}(这是真的!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:135
 translate chinese sheet_20_42896c1b:
 
     # ch_Name "{i}(Freaking fireball!){/i}"
-    ch_Name "{i}(这是真实的!){/i}"
+    ch_Name "{i}(这尼玛是个火球！){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:137
 translate chinese sheet_20_82fcd1a3:
 
     # Victoria "Take a good look, applicants!"
-    Victoria "申请人们，好好看看吧!"
+    Victoria "新生们，好好看看吧!"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:139
 translate chinese sheet_20_289d913b:
@@ -358,19 +358,19 @@ translate chinese sheet_20_11b57537:
 translate chinese sheet_20_44e5eb96:
 
     # Victoria "So that you can stand up for yourself."
-    Victoria "这样你才能为自己挺身而出。"
+    Victoria "这样你们才能为自己挺身而出。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:148
 translate chinese sheet_20_c162c461:
 
     # Victoria "The world of magic is far from harmless."
-    Victoria "魔法世界远不是无害的。"
+    Victoria "魔法世界肯定不是太平盛世。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:150
 translate chinese sheet_20_729ba2b7:
 
     # Victoria "Other questions?"
-    Victoria "其他问题吗?"
+    Victoria "还有其他问题吗?"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:171
 translate chinese sheet_20_menu_1_ans_1_f5631da6:
@@ -394,7 +394,7 @@ translate chinese sheet_20_menu_1_ans_1_2fadfefb:
 translate chinese sheet_20_menu_1_ans_1_e42a22f3:
 
     # Victoria "You will discover your specialization!"
-    Victoria "你会发现你的专业性!"
+    Victoria "你会发现你们有多专业!"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:181
 translate chinese sheet_20_menu_1_ans_1_c40bb6b5:
@@ -406,7 +406,7 @@ translate chinese sheet_20_menu_1_ans_1_c40bb6b5:
 translate chinese sheet_20_menu_1_ans_1_ffcb5e86:
 
     # Victoria "Anything else?"
-    Victoria "还有别的事吗?"
+    Victoria "还有其他问题吗?"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:185
 translate chinese sheet_20_menu_1_ans_1_09295ee7:
@@ -436,7 +436,7 @@ translate chinese sheet_20_menu_1_ans_1_16d5d343:
 translate chinese sheet_20_menu_1_ans_1_5192ead6:
 
     # Victoria "Well, more precisely — the painstaking work of the PR department. "
-    Victoria "准确地说，是公关部门的辛苦工作。"
+    Victoria "准确地说，是公关部门的战略忽悠。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:195
 translate chinese sheet_20_menu_1_ans_1_fad50879:
@@ -454,7 +454,7 @@ translate chinese sheet_20_menu_1_ans_1_015e227f:
 translate chinese sheet_20_menu_1_ans_1_947a6409:
 
     # Victoria "An elite Ivy League-level educational institution. "
-    Victoria "是一个常春藤联盟级别的精英教育机构。"
+    Victoria "只是一个常春藤联盟级别的精英教育机构。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:201
 translate chinese sheet_20_menu_1_ans_1_f1ef320b:
@@ -466,7 +466,7 @@ translate chinese sheet_20_menu_1_ans_1_f1ef320b:
 translate chinese sheet_20_menu_1_ans_1_988ac9dc:
 
     # ch_Name "{i}(Hmm...It's strange.){/i}"
-    ch_Name "{i}(嗯... 这是奇怪的。){/i}"
+    ch_Name "{i}(嗯...好奇怪啊。){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:205
 translate chinese sheet_20_menu_1_ans_1_b78a347c:
@@ -478,7 +478,7 @@ translate chinese sheet_20_menu_1_ans_1_b78a347c:
 translate chinese sheet_20_menu_1_ans_1_cb2df23a:
 
     # ch_Name "{i}(Either your PR department is under-performing, or Sam told them...){/i}"
-    ch_Name "{i}(要么是你的公关部门表现不佳，要么是Sam告诉他们...){/i}"
+    ch_Name "{i}(要么是你的公关部门表现不佳，要么是Sam告诉了他们...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:209
 translate chinese sheet_20_menu_1_ans_1_78ec54ec:
@@ -490,13 +490,13 @@ translate chinese sheet_20_menu_1_ans_1_78ec54ec:
 translate chinese sheet_20_menu_1_ans_1_ce79aeac:
 
     # Victoria "Right now, they are certain that you are getting some respected profession."
-    Victoria "现在，他们肯定你得到了一些受人尊敬的职业。"
+    Victoria "现在，他们肯定你们得到了一份受人尊敬的职业。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:213
 translate chinese sheet_20_menu_1_ans_1_729ba2b7:
 
     # Victoria "Other questions?"
-    Victoria "其他问题吗?"
+    Victoria "还有其他问题吗?"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:218
 translate chinese sheet_20_menu_1_ans_2_3ec437db:
@@ -508,7 +508,7 @@ translate chinese sheet_20_menu_1_ans_2_3ec437db:
 translate chinese sheet_20_menu_1_ans_2_76e68130:
 
     # Victoria "You all might have noticed something unusual after your trip on our train."
-    Victoria "你们坐了我们的火车之后可能注意到了一些不寻常的事情。"
+    Victoria "你们下了火车之后可能注意到了一些不寻常的事情。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:222
 translate chinese sheet_20_menu_1_ans_2_d5c8eea9:
@@ -520,7 +520,7 @@ translate chinese sheet_20_menu_1_ans_2_d5c8eea9:
 translate chinese sheet_20_menu_1_ans_2_1b6c7bc8:
 
     # Victoria "All that's left is for you to show me how you use it. During the examination."
-    Victoria "剩下的就是在考试由你们来教我怎么用了。。"
+    Victoria "接下来，你们要在考试中给我展示展示你们将如何运用这股力量。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:226
 translate chinese sheet_20_menu_1_ans_2_73710bd5:
@@ -532,7 +532,7 @@ translate chinese sheet_20_menu_1_ans_2_73710bd5:
 translate chinese sheet_20_menu_1_ans_2_9d9cd2e0:
 
     # Victoria "Trust me, if you have the potential, it will happen. More questions?"
-    Victoria "相信我，如果你有这个潜力，它就会发生。更多的问题吗?"
+    Victoria "相信我，如果你有这个潜力，就肯定能做到。还有其他的问题吗?"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:233
 translate chinese sheet_20_menu_1_ans_3_12fb96fc:
@@ -574,7 +574,7 @@ translate chinese sheet_20_menu_1_ans_3_86f33a71:
 translate chinese sheet_20_menu_1_ans_3_bc467059:
 
     # Victoria "That sounds familiar. "
-    Victoria "这听起来很熟悉。"
+    Victoria "听起来有点耳熟。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:247
 translate chinese sheet_20_menu_1_ans_3_0e49ed36:
@@ -598,19 +598,19 @@ translate chinese sheet_20_menu_1_ans_3_61094853:
 translate chinese sheet_20_menu_1_ans_3_146b6940:
 
     # Victoria "Is that so? Well in that case..."
-    Victoria "是这样吗? 这样的话..."
+    Victoria "是吗? 这样的话..."
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:257
 translate chinese sheet_20_menu_1_ans_3_016157f0:
 
     # Victoria "It would be a pity if the friend of my most talented student was kicked out of the academy..."
-    Victoria "如果我最有才华的学生的朋友被学校开除，那将是一个遗憾。"
+    Victoria "如果我最有才华的学生的朋友被学校开除了，那将是莫大的遗憾。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:259
 translate chinese sheet_20_menu_1_ans_3_82a26771:
 
     # Victoria "...just because he decided to make fun of the examiner before the exam. "
-    Victoria "...只是因为他决定在考试前取笑考官。"
+    Victoria "...就因为他决定在考试前取笑考官。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:261
 translate chinese sheet_20_menu_1_ans_3_02b23698:
@@ -634,7 +634,7 @@ translate chinese sheet_20_menu_2_ans_1_5c6ec76b:
 translate chinese sheet_20_menu_2_ans_1_6b9deb9c:
 
     # Victoria "Respect for teachers is part of our customs.{w} More questions?"
-    Victoria "尊敬教师是我们的风俗习惯的一部分。{w} 还有问题么?"
+    Victoria "尊敬教师是我们的传统的一部分。{w} 还有问题么?"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:282
 translate chinese sheet_20_menu_2_ans_2_2d242468:
@@ -646,7 +646,7 @@ translate chinese sheet_20_menu_2_ans_2_2d242468:
 translate chinese sheet_20_menu_2_ans_2_81ac9b71:
 
     # Victoria "Mr. [Surname], you have a sharp tongue."
-    Victoria "先生[Surname]，你说话真刻薄。"
+    Victoria "[Surname]先生，你说话真刻薄。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:286
 translate chinese sheet_20_menu_2_ans_2_2e004337:
@@ -664,13 +664,13 @@ translate chinese sheet_20_menu_2_ans_2_2ed2b56c:
 translate chinese sheet_20_menu_1_ans_4_5d361209:
 
     # ch_Name "No more questions! I am ready!"
-    ch_Name "没有更多的问题! 我准备好了!"
+    ch_Name "没有了! 我准备好了!"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:295
 translate chinese sheet_20_menu_1_ans_4_b3f9fd86:
 
     # Victoria "I'm afraid we can't make people wait much longer."
-    Victoria "恐怕我们不能让人们等太久了。"
+    Victoria "恐怕我们不能让大家等太久。"
 
 # game/logic/episodes_after_first/ep2/sheet_20.rpy:297
 translate chinese sheet_20_menu_1_ans_4_9bb8b009:
@@ -682,7 +682,7 @@ translate chinese sheet_20_menu_1_ans_4_9bb8b009:
 translate chinese sheet_20_menu_1_ans_4_39dd1bb6:
 
     # Victoria "Applicants, please follow me!"
-    Victoria "申请者们，请跟着我!"
+    Victoria "各位新人，请跟我来!"
 
 translate chinese strings:
 
