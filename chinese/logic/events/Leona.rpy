@@ -7524,7 +7524,7 @@ translate chinese Leona_8_label_b26ccda5:
 translate chinese Leona_8_label_9a0848fe:
 
     # ch_Name "{i}(I don't remember what I dreamed, but something about it seems strange.){/i}"
-    ch_Name "{i}（我不记得我梦到了什么，但好像有点奇怪。）/i}"
+    ch_Name "{i}（我不记得我梦到了什么，但好像有点奇怪。）{/i}"
 
 # game/logic/events/Leona.rpy:1996
 translate chinese Leona_8_label_5558d8bc:

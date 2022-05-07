@@ -3958,7 +3958,7 @@ translate chinese Audrey_7_shemale_ec345f17:
 translate chinese Audrey_7_shemale_3cb5df8f:
 
     # ch_Name "{i}(She's so slutty... She's begging to go deeper on my dick.){/i}"
-    ch_Name "{i}(她很性感... 她求着要在我老二上插得更深。){i/}"
+    ch_Name "{i}(她很性感... 她求着要在我老二上插得更深。){/i}"
 
 # game/logic/events/audrey.rpy:1206
 translate chinese Audrey_7_shemale_8a0b8f7a:

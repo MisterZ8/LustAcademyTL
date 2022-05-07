@@ -846,7 +846,7 @@ translate chinese strings:
 
     # game/script.rpy:728
     old "{b}Olivia{/b} said I have to talk to Don about this rent thing. \nHe should be in the living room."
-    new "{b}Olivia{\b}说我得和Don谈谈房租的事。\n他应该在客厅里。"
+    new "{b}Olivia{/b}说我得和Don谈谈房租的事。\n他应该在客厅里。"
 
     # game/script.rpy:748
     old "Enter your name"
