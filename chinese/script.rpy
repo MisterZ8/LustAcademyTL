@@ -722,7 +722,7 @@ translate chinese strings:
 
     # game/script.rpy:168
     old "Bath Ducks"
-    new "浴鸭子"
+    new "小黄鸭"
 
     # game/script.rpy:170
     old "Toothbrush"
@@ -782,7 +782,7 @@ translate chinese strings:
 
     # game/script.rpy:206
     old "All characters are 18 age or older even if specified otherwise."
-    new "所有字角色是18岁或以上，即使另有指定。"
+    new "所有的角色均为18岁以上，除非另有说明。"
 
     # game/script.rpy:207
     old "This game contains violence, obscene scenes (naked girls and sex scenes), "
