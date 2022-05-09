@@ -4,7 +4,7 @@
 translate chinese 69ff737f:
 
     # "Here you can keep track of all the routes, activities, etc. that are available to you. and quickly navigate to the desired one, without wasting time walking around the locations and searching. Next to the avatars of the characters are icons, the decoding of which is next."
-    "在这里，你可以跟踪所有的可以的路线，活动等，并快速导航到所需的一个，而不浪费时间走过地图和搜索。在角色的化身旁边的图标，是对图标的解释。"
+    "在这里，你可以追踪所有可用的路线，活动等，并快速导航到想要去的地点，而不必浪费时间四处走动。在角色头像的旁边是图标，接下来则是注释。"
 
 # game/script.rpy:742
 translate chinese start_54c881dc:
@@ -810,23 +810,23 @@ translate chinese strings:
 
     # game/script.rpy:334
     old "Enjoy the game!"
-    new "享受游戏!"
+    new "玩得开心!"
 
     # game/script.rpy:340
     old "Note that our game features LGBTQ+ scenes. If you're not interested in stuff like that at all, you can turn this option"
-    new "注意，我们的游戏以LGBTQ+场景为特色。如果你对这样的东西一点都不感兴趣，你可以关闭这个选项"
+    new "请注意，我们的游戏有LGBTQ+场景。如果你对这样的东西完全不感兴趣，你可以现在就关闭这个选项（你可以在以后的设置中随时打开它）。"
 
     # game/script.rpy:340
     old "off right now (you can always turn it on later, in the settings). Leave this option enabled if you're only"
-    new "立即关闭(你可以随时在设置中打开它)。如果您只是，可以使选项保持开启"
+    new "如果你只对一些可能的内容感兴趣，请将此选项启用。"
 
     # game/script.rpy:340
     old "interested in some of the possible content. Don't worry! We'll ask you beforehand each"
-    new "对一些可能的内容感兴趣。别担心! 我们会事先问你们"
+    new "不要担心! 每次有机会遇到这种互动时，"
 
     # game/script.rpy:340
     old "time there's a chance to encounter such interactions."
-    new "是时候有机会遇到这样的互动了。"
+    new "我们都会事先询问你。"
 
     # game/script.rpy:340
     old "Do you want to enable LGBTQ+ content?"
@@ -842,7 +842,7 @@ translate chinese strings:
 
     # game/script.rpy:356
     old "On Sunday evening, all students return to Cordale. So you did."
-    new "周日晚上，所有学生返回Cordale。所以你做的。"
+    new "周日晚上，所有学生返回Cordale。你也不例外。"
 
     # game/script.rpy:728
     old "{b}Olivia{/b} said I have to talk to Don about this rent thing. \nHe should be in the living room."
@@ -870,7 +870,7 @@ translate chinese strings:
 
     # game/script.rpy:807
     old "Skip prologue"
-    new "跳过序言"
+    new "跳过序章"
 
 # TODO: Translation updated at 2022-03-03 04:01
 
@@ -998,11 +998,11 @@ translate chinese strings:
 
     # game/script.rpy:258
     old "Total money spent"
-    new "总花费"
+    new "总支出"
 
     # game/script.rpy:260
     old "Found money"
-    new "发现钱"
+    new "你找到了钱"
 
     # game/script.rpy:262
     old "Worked shifts in the cafe"
@@ -1018,7 +1018,7 @@ translate chinese strings:
 
     # game/script.rpy:268
     old "Earned money fishing"
-    new "钓鱼的赚钱"
+    new "钓鱼赚的钱"
 
     # game/script.rpy:270
     old "Earned money another way"
@@ -1030,7 +1030,7 @@ translate chinese strings:
 
     # game/script.rpy:337
     old "This is only the web version of the Lust Academy! Use it to try out our game right in your browser!"
-    new "这只是Lust Academy的网络版！在您的浏览器上来尝试运行我们的游戏！"
+    new "这只是Lust Academy的网页版！在您的浏览器上来尝试运行我们的游戏！"
 
     # game/script.rpy:338
     old "To enjoy the game with 60fps animations and atmospheric sound design, we highly recommend trying the full version of Lust Academy."
