@@ -62,7 +62,7 @@ translate chinese strings:
 
     # game/screens.rpy:2007
     old "Page {}"
-    new "页面 {}"
+    new "第{}页"
 
     # game/screens.rpy:2007
     old "Automatic saves"
@@ -102,7 +102,7 @@ translate chinese strings:
 
     # game/screens.rpy:2770
     old "The dialogue history is empty."
-    new "历史对话是空的。"
+    new "历史对话为空。"
 
     # game/screens.rpy:2855
     old "Rolls forward to later dialogue."
@@ -158,7 +158,7 @@ translate chinese strings:
 
     # game/screens.rpy:2923
     old "Enter"
-    new "输入"
+    new ""
 
     # game/screens.rpy:2924
     old "Advances dialogue and activates the interface."
@@ -170,11 +170,11 @@ translate chinese strings:
 
     # game/screens.rpy:2931
     old "Arrow Keys"
-    new "箭头键"
+    new "方向键"
 
     # game/screens.rpy:2935
     old "Escape"
-    new "退出"
+    new ""
 
     # game/screens.rpy:2936
     old "Accesses the game menu."
@@ -182,19 +182,19 @@ translate chinese strings:
 
     # game/screens.rpy:2939
     old "Ctrl"
-    new "控制"
+    new ""
 
     # game/screens.rpy:2943
     old "Tab"
-    new "选项卡"
+    new ""
 
     # game/screens.rpy:2947
     old "Page Up"
-    new "选项卡"
+    new ""
 
     # game/screens.rpy:2951
     old "Page Down"
-    new "下一页"
+    new ""
 
     # game/screens.rpy:2956
     old "I"
