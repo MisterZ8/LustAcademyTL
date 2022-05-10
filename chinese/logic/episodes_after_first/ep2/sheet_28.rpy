@@ -10,7 +10,7 @@ translate chinese sheet_28_bb62cf69:
 translate chinese sheet_28_8d7527ac:
 
     # qqq "Name!"
-    qqq "姓名!"
+    qqq "报上名来!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:8
 translate chinese sheet_28_1855220c:
@@ -22,7 +22,7 @@ translate chinese sheet_28_1855220c:
 translate chinese sheet_28_3c0ea772:
 
     # qqq "Say your name."
-    qqq "说你的名字。"
+    qqq "你叫什么名字？快说！"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:10
 translate chinese sheet_28_bd4fbe57:
@@ -34,13 +34,13 @@ translate chinese sheet_28_bd4fbe57:
 translate chinese sheet_28_269d5cca:
 
     # ch_Name "And who are you?"
-    ch_Name "你是谁?"
+    ch_Name "你们是谁?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:12
 translate chinese sheet_28_8f2e56f9:
 
     # qqq "Come closer, [Name]."
-    qqq "过来，[Name]。"
+    qqq "过来，靠近点，[Name]。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:14
 translate chinese sheet_28_ad35e680:
@@ -52,7 +52,7 @@ translate chinese sheet_28_ad35e680:
 translate chinese sheet_28_59670ee3:
 
     # ch_Name "{i}(They don't look like humans...){/i}"
-    ch_Name "{i}(他们看起来不像人类...){/i}"
+    ch_Name "{i}(她们看起来不像是人类...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:16
 translate chinese sheet_28_ba360b04:
@@ -64,7 +64,7 @@ translate chinese sheet_28_ba360b04:
 translate chinese sheet_28_0279290f:
 
     # Frida "Silence."
-    Frida "沉默。"
+    Frida "闭嘴。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:20
 translate chinese sheet_28_bc015238:
@@ -82,7 +82,7 @@ translate chinese sheet_28_e18103d6:
 translate chinese sheet_28_e87717a0:
 
     # Frida "Nothing interesting."
-    Frida "没有什么有趣的。"
+    Frida "真没意思。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:26
 translate chinese sheet_28_67f7b103:
@@ -124,13 +124,13 @@ translate chinese sheet_28_362cd7ef:
 translate chinese sheet_28_f561e499:
 
     # Leona "Don't pay attention to them. "
-    Leona "不要理会他们。"
+    Leona "别理她们。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:40
 translate chinese sheet_28_7c173153:
 
     # Leona "They are too blind to notice!"
-    Leona "他们太瞎了，看不见!"
+    Leona "他们都瞎了，根本看不见!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:42
 translate chinese sheet_28_db4608e9:
@@ -142,7 +142,7 @@ translate chinese sheet_28_db4608e9:
 translate chinese sheet_28_fd67a7ce:
 
     # Leona "I can feel...{w} your potential."
-    Leona "我能感觉到...{w} 你的潜力。"
+    Leona "我就能感觉到...{w} 你的潜力。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:46
 translate chinese sheet_28_74f93904:
@@ -166,7 +166,7 @@ translate chinese sheet_28_336bb36d:
 translate chinese sheet_28_6e244650:
 
     # ch_Name "What's going on..."
-    ch_Name "发生了什么..."
+    ch_Name "发生什么事了..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:54
 translate chinese sheet_28_c8e495b2:
@@ -220,7 +220,7 @@ translate chinese sheet_28_37daa46a:
 translate chinese sheet_28_c8537753:
 
     # Katrina "Not so fast!"
-    Katrina "不要这么快!"
+    Katrina "别急嘛!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:72
 translate chinese sheet_28_5296faab:
@@ -238,7 +238,7 @@ translate chinese sheet_28_e456d3a3:
 translate chinese sheet_28_78cec70a:
 
     # Katrina "Your blood is strong!"
-    Katrina "你的血液是强大的!"
+    Katrina "你的血统很强大!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:78
 translate chinese sheet_28_cf041776:
@@ -250,19 +250,19 @@ translate chinese sheet_28_cf041776:
 translate chinese sheet_28_6dea2617:
 
     # Katrina "You can be the greatest!"
-    Katrina "你可以成为最伟大的!"
+    Katrina "你可以成为最伟大的法师!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:82
 translate chinese sheet_28_bb8951a9:
 
     # Katrina "I'm assigning you to the Adderin House."
-    Katrina "我要派你去Adderin。"
+    Katrina "我要送你去Adderin。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:84
 translate chinese sheet_28_1a21ab5c:
 
     # Leona "Can't you see Katrina? [Name] is a brave Leoheart soul!"
-    Leona "你看不见Katrina吗? [Name]是一个勇敢的狮子座的灵魂!"
+    Leona "你看不见吗？Katrina。 [Name]有着勇敢的Leoheart之魂!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:85
 translate chinese sheet_28_dc7b457d:
@@ -292,7 +292,7 @@ translate chinese sheet_28_0dd9b763:
 translate chinese sheet_28_a73f98c8:
 
     # Leona "He needs a family. He will find one at Leonheart."
-    Leona "他需要一个家庭。他会在Leonheart找到一个。"
+    Leona "他需要一个家。他会在Leonheart找到的。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:93
 translate chinese sheet_28_7c73c2b7:
@@ -304,7 +304,7 @@ translate chinese sheet_28_7c73c2b7:
 translate chinese sheet_28_128c68cf:
 
     # Katrina "You wanna fight for him?"
-    Katrina "你想为他而战?"
+    Katrina "你想为了他和我打一架?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:97
 translate chinese sheet_28_b663bce0:
@@ -334,7 +334,7 @@ translate chinese sheet_28_539ad3bb:
 translate chinese sheet_28_59636c26:
 
     # Leona "There's one way to decide..."
-    Leona "有一种方法可以决定..."
+    Leona "只有一种方法可以决定..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:107
 translate chinese sheet_28_4ac54ec7:
@@ -370,13 +370,13 @@ translate chinese sheet_28_7c17e96c:
 translate chinese sheet_28_07986f6e:
 
     # Katrina "To both of us."
-    Katrina "为我们俩。"
+    Katrina "对我们俩来说。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:119
 translate chinese sheet_28_abbb00fb:
 
     # Leona "Usually, one of us is more persistent."
-    Leona "通常，我们中的一个会更执着。"
+    Leona "通常来说，我们中的一个会更执着。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:121
 translate chinese sheet_28_0039ec45:
@@ -406,19 +406,19 @@ translate chinese sheet_28_d6d85c79:
 translate chinese sheet_28_4d7d3b51:
 
     # Katrina "Only if you can't satisfy any of us..."
-    Katrina "除非你不能让我们任何人满意..."
+    Katrina "除非你不能用你那迷人的大屌..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:131
 translate chinese sheet_28_0c407239:
 
     # Katrina "With that impressive cock!"
-    Katrina "用那迷人的鸡!"
+    Katrina "让我们任何一个人满意!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:147
 translate chinese sheet_28_from_gallery_e03ba84d:
 
     # ch_Name "Stop it! Immediately!"
-    ch_Name "停止它! 立即!"
+    ch_Name "别这样！快停下！"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:149
 translate chinese sheet_28_from_gallery_52e4e075:
@@ -430,19 +430,19 @@ translate chinese sheet_28_from_gallery_52e4e075:
 translate chinese sheet_28_from_gallery_7154ba39:
 
     # ch_Name "We've just fucking met!"
-    ch_Name "我们才他妈认识!"
+    ch_Name "我们他妈的才刚认识!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:153
 translate chinese sheet_28_from_gallery_405b97fc:
 
     # Leona "Interesting..."
-    Leona "有趣的..."
+    Leona "有意思..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:155
 translate chinese sheet_28_from_gallery_9b0b6ac3:
 
     # ch_Name "What's now?"
-    ch_Name "现在是什么?"
+    ch_Name "现在呢?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:157
 translate chinese sheet_28_from_gallery_5c7c2fb1:
@@ -460,13 +460,13 @@ translate chinese sheet_28_from_gallery_ca42b9ae:
 translate chinese sheet_28_from_gallery_ae93d8cf:
 
     # Katrina "Make's me want to wommit."
-    Katrina "让我想做。"
+    Katrina "都让我想睡觉了。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:163
 translate chinese sheet_28_from_gallery_2ecc8345:
 
     # Katrina "To think of that I've almost invited you to Adderin! "
-    Katrina "想想看，我差点就邀请你去Adderin了!"
+    Katrina "想想看，我差一点就把你请进Adderin了!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:165
 translate chinese sheet_28_from_gallery_78cda8da:
@@ -478,25 +478,25 @@ translate chinese sheet_28_from_gallery_78cda8da:
 translate chinese sheet_28_from_gallery_6cfaa056:
 
     # ch_Name "What a sudden change of opinion..."
-    ch_Name "你的观点突然改变了..."
+    ch_Name "你怎么翻脸比翻书还快..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:169
 translate chinese sheet_28_from_gallery_681e0fd2:
 
     # Leona "Don't mind her."
-    Leona "她不介意。"
+    Leona "别管她。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:171
 translate chinese sheet_28_from_gallery_11a89325:
 
     # Leona "She's just realized that you are not of her kin."
-    Leona "她刚意识到你不是她的亲戚。"
+    Leona "她才刚意识到你和她不是一路人。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:173
 translate chinese sheet_28_from_gallery_c6c73bbf:
 
     # Leona "It was very brave of you to stand up for your ideals."
-    Leona "你坚持自己的理想，真勇敢。"
+    Leona "你很勇敢，敢于坚持自己的理想。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:175
 translate chinese sheet_28_from_gallery_db172934:
@@ -508,7 +508,7 @@ translate chinese sheet_28_from_gallery_db172934:
 translate chinese sheet_28_from_gallery_809c699e:
 
     # Leona "I respect that.{w} It was the choice of your heart."
-    Leona "我尊重这一点。{w} 这是你的心的选择。"
+    Leona "我尊重这一点。{w} 这是你发自内心的选择。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:179
 translate chinese sheet_28_from_gallery_dadcb623:
@@ -520,7 +520,7 @@ translate chinese sheet_28_from_gallery_dadcb623:
 translate chinese sheet_28_from_gallery_05698d3f:
 
     # Leona "Yes. From now you are Leonheart. "
-    Leona "是的。从现在起，你就是Leonheart。"
+    Leona "是的。从现在起，你就是Leonheart的学生了。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:190
 translate chinese sheet_28_1_254_2e831b09:
@@ -586,13 +586,13 @@ translate chinese sheet_28_1_254_91ecd289:
 translate chinese sheet_28_1_254_ed61a070:
 
     # Leona "I'm sorry, did I hear any objections?"
-    Leona "抱歉，有人反对吗?"
+    Leona "抱歉，我听到有人反对吗?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:213
 translate chinese sheet_28_1_254_d2bbfd06:
 
     # ch_Name "No, ma'am."
-    ch_Name "不，女士。"
+    ch_Name "没有，女士。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:215
 translate chinese sheet_28_1_254_026152f8:
@@ -604,7 +604,7 @@ translate chinese sheet_28_1_254_026152f8:
 translate chinese sheet_28_1_254_1953fd2c:
 
     # Leona "Show us the strength of your lion..."
-    Leona "让我们看看你的狮子的力量..."
+    Leona "让我们看看你这头雄狮的力量..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:221
 translate chinese sheet_28_1_254_68bd4a91:
@@ -634,19 +634,19 @@ translate chinese sheet_28_1_254_47794c64:
 translate chinese sheet_28_1_254_76c2b3d7:
 
     # ch_Name "{i}(It's been a while since I've got touched... there...){/i}"
-    ch_Name "{i}(我已经有一段时间没有被触摸了... 在那里...){/i}"
+    ch_Name "{i}(我那里……已经有一段时间没有被碰过了...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:231
 translate chinese sheet_28_1_254_a5e02ebc:
 
     # Leona "It's getting bigger."
-    Leona "它是越来越大。"
+    Leona "它越来越大了。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:233
 translate chinese sheet_28_1_254_4dda5541:
 
     # Leona "I'm impressed."
-    Leona "给我留下了深刻的印象。"
+    Leona "真是令人难忘。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:235
 translate chinese sheet_28_1_254_f21f98e7:
@@ -676,7 +676,7 @@ translate chinese sheet_28_1_254_195b1c93:
 translate chinese sheet_28_1_254_352a8ecf:
 
     # Katrina "Here..."
-    Katrina "在这里..."
+    Katrina "走一个..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:245
 translate chinese sheet_28_1_254_bec7ef11:
@@ -706,7 +706,7 @@ translate chinese sheet_28_1_254_b5ae6df2:
 translate chinese sheet_28_1_254_ebfac971:
 
     # Katrina "Let me show you what Adderin has to offer, [Name]."
-    Katrina "让我向你展示Adderin所提供的，[Name]。"
+    Katrina "让我给你看看Adderin能提供什么，[Name]。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:257
 translate chinese sheet_28_1_254_980c2b86:
@@ -742,13 +742,13 @@ translate chinese sheet_28_1_254_ae5f2cc8:
 translate chinese sheet_28_1_254_1b9b981a:
 
     # ch_Name "{i}(...giving real pleasure!){/i}"
-    ch_Name "{i}(...给真正的快乐!){/i}"
+    ch_Name "{i}(...给我真正的快乐!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:269
 translate chinese sheet_28_1_254_5a9c41ed:
 
     # Katrina "Greedy as always."
-    Katrina "贪婪的一如既往。"
+    Katrina "一如既往地贪婪。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:271
 translate chinese sheet_28_1_254_61c442dd:
@@ -760,7 +760,7 @@ translate chinese sheet_28_1_254_61c442dd:
 translate chinese sheet_28_1_254_9a655ef7:
 
     # Leona "You want your turn?"
-    Leona "轮到你了吗?"
+    Leona "你想试试吗?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:275
 translate chinese sheet_28_1_254_e4de6b49:
@@ -814,19 +814,19 @@ translate chinese sheet_28_1_254_2ed45568:
 translate chinese sheet_28_1_254_437735f2:
 
     # Leona "Let me show you a body of a real woman, [Name]."
-    Leona "让我给你看一个真正的女人的身体，[Name]。"
+    Leona "让我给你看看真正的女人的身体长什么样，[Name]。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:293
 translate chinese sheet_28_1_254_0f26d0e9:
 
     # Leona "Now we're equal."
-    Leona "现在我们是相等的。"
+    Leona "现在我们扯平了。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:295
 translate chinese sheet_28_1_254_e79ac0e6:
 
     # Leona "But Katrina, love!"
-    Leona "但是Katrina，爱!"
+    Leona "但是Katrina，亲爱的!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:297
 translate chinese sheet_28_1_254_7eee539d:
@@ -838,7 +838,7 @@ translate chinese sheet_28_1_254_7eee539d:
 translate chinese sheet_28_1_254_6ee92a98:
 
     # Leona "I'll help you!"
-    Leona "我会帮助你!"
+    Leona "我会帮你的!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:301
 translate chinese sheet_28_1_254_47c54a84:
@@ -874,7 +874,7 @@ translate chinese sheet_28_1_254_754711c6:
 translate chinese sheet_28_1_254_7dfe3d2c:
 
     # ch_Name "{i}(It's amazing!){/i}"
-    ch_Name "{i}(这是惊人的!){/i}"
+    ch_Name "{i}(这太神奇了!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:316
 translate chinese sheet_28_1_254_a28c1b67:
@@ -886,7 +886,7 @@ translate chinese sheet_28_1_254_a28c1b67:
 translate chinese sheet_28_1_254_f34bf1cf:
 
     # ch_Name "{i}(Each time my dick hammers her throat...){/i}"
-    ch_Name "{i}(每次我的阴茎敲她的喉咙...){/i}"
+    ch_Name "{i}(每次我的阴茎撞击她的喉咙...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:321
 translate chinese sheet_28_1_254_75d9bbeb:
@@ -904,7 +904,7 @@ translate chinese sheet_28_1_254_21be5fcc:
 translate chinese sheet_28_1_254_bfcf26fc:
 
     # ch_Name "{i}(I feel so much power!){/i}"
-    ch_Name "{i}(我感到如此强大的力量!){/i}"
+    ch_Name "{i}(我都能感到如此强大的力量!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:328
 translate chinese sheet_28_1_254_19ebbc58:
@@ -916,7 +916,7 @@ translate chinese sheet_28_1_254_19ebbc58:
 translate chinese sheet_28_1_254_7faeacad:
 
     # Leona "What do you think, Katrina?"
-    Leona "你觉得呢，Katrina?"
+    Leona "你觉得怎么样，Katrina?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:332
 translate chinese sheet_28_1_254_18966bb9_1:
@@ -958,7 +958,7 @@ translate chinese sheet_28_1_254_95d8a47a:
 translate chinese sheet_28_1_254_972a8197:
 
     # Leona "...what you can miss."
-    Leona "...你能错过的。"
+    Leona "...你无法错过的。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:346
 translate chinese sheet_28_1_254_01ab6782:
@@ -988,7 +988,7 @@ translate chinese sheet_28_1_254_14fda324:
 translate chinese sheet_28_1_254_ddb05e0f:
 
     # ch_Name "{i}(...take off her bottom?..){/i}"
-    ch_Name "{i}(....脱掉她的屁股?...){/i}"
+    ch_Name "{i}(....脱掉她的内裤?...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:356
 translate chinese sheet_28_1_254_65eff44e:
@@ -1012,7 +1012,7 @@ translate chinese sheet_28_1_254_56e3055f:
 translate chinese sheet_28_1_254_615387ba:
 
     # Katrina "You sneaky little..."
-    Katrina "你卑鄙的小..."
+    Katrina "你这个卑鄙的小..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:364
 translate chinese sheet_28_1_254_a3bb513c:
@@ -1024,7 +1024,7 @@ translate chinese sheet_28_1_254_a3bb513c:
 translate chinese sheet_28_1_254_39fe7184:
 
     # Katrina "You think you've got something I don't?"
-    Katrina "你觉得你有我没有的东西吗?"
+    Katrina "你觉得你有的东西，我没有吗？"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:368
 translate chinese sheet_28_1_254_bf58c183:
@@ -1048,31 +1048,31 @@ translate chinese sheet_28_1_254_40f786a7:
 translate chinese sheet_28_1_254_5292f91c:
 
     # Katrina "You and your touchy attitude."
-    Katrina "你和你敏感的态度。"
+    Katrina "看看你那暴躁的态度。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:376
 translate chinese sheet_28_1_254_99e48c04:
 
     # Katrina "Trying to take the initiative."
-    Katrina "你和你敏感的态度。"
+    Katrina "还想掌握主动权。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:378
 translate chinese sheet_28_1_254_32c84c5a:
 
     # Katrina "He'll be mine!"
-    Katrina "他会是我的!"
+    Katrina "他是我的!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:380
 translate chinese sheet_28_1_254_c14cb44c:
 
     # Katrina "Even if I have to go further."
-    Katrina "即使我必须走得更远。"
+    Katrina "即使我要更进一步。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:382
 translate chinese sheet_28_1_254_67f85c3f:
 
     # Katrina "Nothing you can do about it."
-    Katrina "你对此无能为力。"
+    Katrina "你对此无可奈何。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:384
 translate chinese sheet_28_1_254_a21006f1:
@@ -1084,7 +1084,7 @@ translate chinese sheet_28_1_254_a21006f1:
 translate chinese sheet_28_1_254_7ce054e6:
 
     # Leona "Gosh, sometimes you get too loud!"
-    Leona "天啊，有时候你太吵了!"
+    Leona "天啊，有时候你真的吵死了!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:388
 translate chinese sheet_28_1_254_c96bc5c9:
@@ -1108,7 +1108,7 @@ translate chinese sheet_28_1_254_857d4f5c:
 translate chinese sheet_28_1_254_ba73a946:
 
     # Leona "Will you let us finish this once and for all?"
-    Leona "你能让我们彻底解决这事吗?"
+    Leona "你能让我们一劳永逸地解决这个问题吗?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:406
 translate chinese sheet_28_1_254_b66d3f96:
@@ -1126,7 +1126,7 @@ translate chinese sheet_28_1_254_4136e48b:
 translate chinese sheet_28_1_254_9314086d:
 
     # ch_Name "I'm not interested in getting a girl so easily."
-    ch_Name "我没兴趣这么容易就得到一个女孩。"
+    ch_Name "我可没兴趣就这么容易上了一个女孩。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:410
 translate chinese sheet_28_1_254_d406c864:
@@ -1144,19 +1144,19 @@ translate chinese sheet_28_1_254_7eddcee5:
 translate chinese sheet_28_1_254_d9c5f0b9:
 
     # Katrina "Very well?!"
-    Katrina "非常好?!"
+    Katrina "很好?!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:413
 translate chinese sheet_28_1_254_7424ec64:
 
     # Katrina "Da fuck is very well?!"
-    Katrina "他妈的很好?!"
+    Katrina "这他妈的叫很好?!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:415
 translate chinese sheet_28_1_254_3541dccb:
 
     # Katrina "How can you, mortal worm, decline me?"
-    Katrina "你怎么能拒绝我?"
+    Katrina "你，你这个凡人怎么能拒绝我?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:416
 translate chinese sheet_28_1_254_0cd80de3:
@@ -1168,19 +1168,19 @@ translate chinese sheet_28_1_254_0cd80de3:
 translate chinese sheet_28_1_254_5e9b4f7b:
 
     # Katrina "To think that I'd almost invited you to Adderin!"
-    Katrina "我差点就邀请你去Adderin了!"
+    Katrina "我差点就把你请进Adderin了!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:419
 translate chinese sheet_28_1_254_191fc114:
 
     # Katrina "Fucking joke."
-    Katrina "该死的玩笑。"
+    Katrina "他妈的开什么玩笑。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:420
 translate chinese sheet_28_1_254_9d5ff652:
 
     # Katrina "A waste of time!"
-    Katrina "该死的玩笑。"
+    Katrina "纯纯浪费时间。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:421
 translate chinese sheet_28_1_254_a6b3ba36:
@@ -1210,7 +1210,7 @@ translate chinese sheet_28_1_254_15823068:
 translate chinese sheet_28_1_254_b90dc707:
 
     # Leona "The most important thing is that you've chosen with your heart."
-    Leona "最重要的是你用心去选择。"
+    Leona "最重要的是你的选择是发自内心的。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:427
 translate chinese sheet_28_1_254_d8c8166a:
@@ -1282,7 +1282,7 @@ translate chinese sheet_28_1_262_16_d4eee75f:
 translate chinese sheet_28_1_262_16_b9542e0c:
 
     # Katrina "Don't try to change the subject!"
-    Katrina "别想改变话题!"
+    Katrina "别想转移话题!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:447
 translate chinese sheet_28_1_262_16_275440bb:
@@ -1312,19 +1312,19 @@ translate chinese sheet_28_1_262_16_9d520a94:
 translate chinese sheet_28_1_262_16_56ac2a94:
 
     # Leona "Do you really want to keep that majestic cock waiting?"
-    Leona "你真想让那只雄壮的鸡等着吗?"
+    Leona "你真想让那只雄壮的鸡儿等着吗?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:457
 translate chinese sheet_28_1_262_16_f5ce769e:
 
     # Katrina "You're right."
-    Katrina "你是对的。"
+    Katrina "你说得对。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:459
 translate chinese sheet_28_1_262_16_24ff6936:
 
     # ch_Name "Girls! If you've settled your quarells..."
-    ch_Name "女孩! 如果你们已经解决了争吵..."
+    ch_Name "姑娘们! 如果你们已经吵完了..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:461
 translate chinese sheet_28_1_262_16_c298be94:
@@ -1354,7 +1354,7 @@ translate chinese sheet_28_1_262_16_d9dbcf65:
 translate chinese sheet_28_1_262_16_5102607f:
 
     # Katrina "I am. "
-    Katrina "我是。"
+    Katrina "我。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:470
 translate chinese sheet_28_1_262_16_3d1c3937:
@@ -1396,25 +1396,25 @@ translate chinese sheet_28_1_262_16_fae4d255:
 translate chinese sheet_28_1_262_16_95cc9f22:
 
     # Katrina "You're delusional if you still hope to get him, Leona."
-    Katrina "如果你还想抓到他，那你就妄想了，Leona。"
+    Katrina "你还想抓到他，简直痴心妄想，Leona。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:484
 translate chinese sheet_28_1_262_16_f750a086:
 
     # Leona "We'll see."
-    Leona "我们将会看到。"
+    Leona "我们拭目以待。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:486
 translate chinese sheet_28_1_262_16_863c6a04:
 
     # Leona "Hey, champion."
-    Leona "嘿，冠军。"
+    Leona "嘿，英雄。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:488
 translate chinese sheet_28_1_262_16_624decb3:
 
     # Leona "Are you lonely?"
-    Leona "你是孤独的吗?"
+    Leona "你孤独吗?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:490
 translate chinese sheet_28_1_262_16_d3836db1:
@@ -1426,7 +1426,7 @@ translate chinese sheet_28_1_262_16_d3836db1:
 translate chinese sheet_28_1_262_16_2b9a3adc:
 
     # ch_Name "Well, looking at you I've realised..."
-    ch_Name "看着你，我意识到..."
+    ch_Name "看着你，我感觉到..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:494
 translate chinese sheet_28_1_262_16_8b991e2d:
@@ -1438,25 +1438,25 @@ translate chinese sheet_28_1_262_16_8b991e2d:
 translate chinese sheet_28_1_262_16_2cac92c8:
 
     # Leona "From that icicle?"
-    Leona "从那冷冰冰的?"
+    Leona "来温暖你那根冰柱吗?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:498
 translate chinese sheet_28_1_262_16_2b6f66da:
 
     # Leona "I′ll show you what is the real \"heat\"."
-    Leona "我来告诉你什么是真正的“热”。"
+    Leona "我来告诉你什么是才真正的“热”。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:500
 translate chinese sheet_28_1_262_16_5dff2f86:
 
     # ch_Name "It feels like I'm interested."
-    ch_Name "我感觉我很感兴趣。"
+    ch_Name "感觉我有兴趣了。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:502
 translate chinese sheet_28_1_262_16_fb1897f0:
 
     # Leona "Yes?"
-    Leona "是吗?"
+    Leona "所以呢?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:504
 translate chinese sheet_28_1_262_16_c4e6b94f:
@@ -1468,7 +1468,7 @@ translate chinese sheet_28_1_262_16_c4e6b94f:
 translate chinese sheet_28_1_262_16_f1255512:
 
     # ch_Name "And while I'm busy..."
-    ch_Name "当我忙的时候..."
+    ch_Name "我还在忙着考虑的时候..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:508
 translate chinese sheet_28_1_262_16_b5f47fff:
@@ -1510,7 +1510,7 @@ translate chinese sheet_28_1_262_16_dd382f24:
 translate chinese sheet_28_1_262_16_80cea173:
 
     # ch_Name "{i}(But her energy... has something special...){/i}"
-    ch_Name "{i}(但她的能量... 有一些特别的...){/i}"
+    ch_Name "{i}(但她的能量... 有点特别...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:524
 translate chinese sheet_28_1_262_16_e5ea7036:
@@ -1552,7 +1552,7 @@ translate chinese sheet_28_1_262_16_28a0d6bc:
 translate chinese sheet_28_1_262_16_fcea3e36:
 
     # ch_Name "{i}(Sam is Leonheart, so is Haley. And that asian chick... Lily?){/i}"
-    ch_Name "{i}(Sam是Leonheart，Haley也是还有那个亚洲小妞... Lily?){/i}"
+    ch_Name "{i}(Sam去了Leonheart，Haley也是，还有那个亚洲小妞... Lily?){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:536
 translate chinese sheet_28_1_262_16_f94eb1c6:
@@ -1576,7 +1576,7 @@ translate chinese sheet_28_1_262_16_3ada17ee:
 translate chinese sheet_28_1_262_16_a50e4f58:
 
     # ch_Name "Me? Nothing!"
-    ch_Name "我吗? 没有什么!"
+    ch_Name "我吗? 没什么!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:541
 translate chinese sheet_28_1_262_16_944d18b1:
@@ -1588,7 +1588,7 @@ translate chinese sheet_28_1_262_16_944d18b1:
 translate chinese sheet_28_1_262_16_55b53336:
 
     # Katrina "You think I can't read your thoughts?"
-    Katrina "你以为我读不懂你的思想吗?"
+    Katrina "你以为我会读心术吗?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:544
 translate chinese sheet_28_1_262_16_0ef9abee:
@@ -1600,13 +1600,13 @@ translate chinese sheet_28_1_262_16_0ef9abee:
 translate chinese sheet_28_1_262_16_95460236:
 
     # Katrina "What a joke! "
-    Katrina "什么一个笑话!"
+    Katrina "真鸡巴搞笑!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:547
 translate chinese sheet_28_1_262_16_23e2b2b6:
 
     # Katrina "And I've wasted my time on you?"
-    Katrina "而我却在你身上浪费时间?"
+    Katrina "而我还在你身上浪费时间?"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:549
 translate chinese sheet_28_1_262_16_6ac98d91:
@@ -1618,19 +1618,19 @@ translate chinese sheet_28_1_262_16_6ac98d91:
 translate chinese sheet_28_1_262_16_e5d2ce93:
 
     # ch_Name "What a disgrace!"
-    ch_Name "一种耻辱!"
+    ch_Name "真是耻辱!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:552
 translate chinese sheet_28_1_262_16_f7463d7c:
 
     # Katrina "Congratulations, Leona. It seems that you've got..."
-    Katrina "祝贺你，Leona。看来你有..."
+    Katrina "祝贺你，Leona。看来你已经得到了..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:553
 translate chinese sheet_28_1_262_16_c8b29901:
 
     # Katrina "...another loser in Leonheart family."
-    Katrina "...Leonheart家族的又一个失败者。"
+    Katrina "...Leonheart大家庭的又一个失败者。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:555
 translate chinese sheet_28_1_262_16_adb72d58:
@@ -1714,7 +1714,7 @@ translate chinese sheet_28_1_262_16_fcda8058:
 translate chinese sheet_28_1_262_16_429501c4:
 
     # ch_Name "And do MORE!"
-    ch_Name "和做更多的事情!"
+    ch_Name "多做事!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:573
 translate chinese sheet_28_1_262_16_7cad1fbe:
@@ -1786,13 +1786,13 @@ translate chinese test_sheet_28_face_2aa674be:
 translate chinese test_sheet_28_face_bd738279:
 
     # ch_Name "...IT..."
-    ch_Name "...他..."
+    ch_Name "...它..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:609
 translate chinese test_sheet_28_face_6aa29495:
 
     # ch_Name "...ALL!"
-    ch_Name "...全部!"
+    ch_Name "...全部吞下去!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:618
 translate chinese test_sheet_28_face_766a1ca6:
@@ -1834,13 +1834,13 @@ translate chinese test_sheet_28_face_1624089e:
 translate chinese test_sheet_28_face_ee3a39a2:
 
     # Leona "You're a Leonheart now!"
-    Leona "你现在是Leonheart家族的一员了!"
+    Leona "你现在是Leonheart分院的一员了!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:636
 translate chinese sheet_28_1_266_19e2785f:
 
     # ch_Name "Here it comes!"
-    ch_Name "这里来了!"
+    ch_Name "我要射了!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:637
 translate chinese sheet_28_1_266_18b427d7:
@@ -1882,7 +1882,7 @@ translate chinese sheet_28_1_266_899033d9:
 translate chinese sheet_28_1_266_3dbd79a7:
 
     # ch_Name "I've got some more for you!"
-    ch_Name "我还有一些给你!"
+    ch_Name "我还有一点要给你!"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:656
 translate chinese sheet_28_1_266_447d425e:
@@ -1906,7 +1906,7 @@ translate chinese sheet_28_1_266_c55d83ca:
 translate chinese sheet_28_1_266_1e3bb23a:
 
     # Leona "I'm so messy..."
-    Leona "我很混乱..."
+    Leona "被你搞得一团糟..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:661
 translate chinese sheet_28_1_266_085a93e2:
@@ -1924,13 +1924,13 @@ translate chinese sheet_28_1_266_0187a6f4:
 translate chinese sheet_28_1_266_a6f36cb9:
 
     # Leona "And the most pleasant thing is..."
-    Leona "最令人愉快的事是..."
+    Leona "最令人愉快的事请在于..."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:666
 translate chinese sheet_28_1_266_b15fc409:
 
     # Leona "...that you've chosen with your heart."
-    Leona "...那是你用心选择的。"
+    Leona "...你的选择发自内心。"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:669
 translate chinese sheet_28_1_265_6_1624089e:
@@ -1942,13 +1942,13 @@ translate chinese sheet_28_1_265_6_1624089e:
 translate chinese sheet_28_1_265_6_ee3a39a2:
 
     # Leona "You're a Leonheart now!"
-    Leona "你现在是Leonheart家族的一员了!"
+    Leona "你现在是Leonheart分院的一员了!"
 
 translate chinese strings:
 
     # game/logic/episodes_after_first/ep2/sheet_28.rpy:136
     old "WTF? Stop it!"
-    new "WTF? 停止它!"
+    new "搞什么飞机？快停下！"
 
     # game/logic/episodes_after_first/ep2/sheet_28.rpy:136
     old "Wait... What?"
@@ -1956,7 +1956,7 @@ translate chinese strings:
 
     # game/logic/episodes_after_first/ep2/sheet_28.rpy:396
     old "No. It's enough."
-    new "不。这是足够的。"
+    new "不。够了。"
 
     # game/logic/episodes_after_first/ep2/sheet_28.rpy:396
     old "Ready for action."
@@ -2006,7 +2006,7 @@ translate chinese strings:
 
     # game/logic/episodes_after_first/ep2/sheet_28.rpy:396
     old "No, it's enough"
-    new "不，这就够了"
+    new "不，够了"
 
     # game/logic/episodes_after_first/ep2/sheet_28.rpy:396
     old "Ready for action"
@@ -2024,5 +2024,5 @@ translate chinese sheet_28_1_262_16_05a71fa1:
 translate chinese sheet_28_1_262_16_5bf20199:
 
     # ch_Name "{i}(Sam is Leonheart, so is Haley. And that asian chick... Lily?){/i}"
-    ch_Name "{i}(Sam是Leonheart，Haley也是还有那个亚洲小妞... Lily?){/i}"
+    ch_Name "{i}(Sam去了Leonheart，Haley也是，还有那个亚洲小妞... Lily?){/i}"
 
