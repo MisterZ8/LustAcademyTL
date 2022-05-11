@@ -22,19 +22,19 @@ translate chinese sheet_31_1534902e:
 translate chineses sheet_31_b3bb9fbb:
 
     # Samantha "What do you think?"
-    Samantha "你觉得呢?"
+    Samantha "感觉怎么样?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:9
 translate chinese sheet_31_e8e530fb:
 
     # ch_Name "Pretty cozy."
-    ch_Name "很舒适的。"
+    ch_Name "很舒服。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:10
 translate chinese sheet_31_5854bd1b:
 
     # ch_Name "Where are you?"
-    ch_Name "你在哪里?"
+    ch_Name "你在干嘛呢?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:11
 translate chinese sheet_31_7c2819e0:
@@ -46,7 +46,7 @@ translate chinese sheet_31_7c2819e0:
 translate chinese sheet_31_b247ad42:
 
     # Samantha "Checking in on you."
-    Samantha "来看看你。"
+    Samantha "顺便来看看你。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:13
 translate chinese sheet_31_b1fc1b88:
@@ -58,13 +58,13 @@ translate chinese sheet_31_b1fc1b88:
 translate chinese sheet_31_1855220c:
 
     # ch_Name "What?"
-    ch_Name "什么?"
+    ch_Name "怎么了?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:16
 translate chinese sheet_31_a93da04f:
 
     # Samantha "I always knew you were a Leonheart!"
-    Samantha "我就知道你是Leonheart家族的人!"
+    Samantha "我就知道你进了Leonheart!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:17
 translate chinese sheet_31_59d8222f:
@@ -76,13 +76,13 @@ translate chinese sheet_31_59d8222f:
 translate chinese sheet_31_9175868f:
 
     # ch_Name "Oh, come on."
-    ch_Name "哦，来吧。"
+    ch_Name "哦，你少来。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:19
 translate chinese sheet_31_60ca4aa3:
 
     # ch_Name "I might as well be an Adderin."
-    ch_Name "我还不如Adderin呢。"
+    ch_Name "我还不如去Adderin呢。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:20
 translate chinese sheet_31_0608ef1b:
@@ -94,7 +94,7 @@ translate chinese sheet_31_0608ef1b:
 translate chinese sheet_31_60f36213:
 
     # ch_Name "Okay, okay. Take it easy."
-    ch_Name "好吧，好吧。不要着急。"
+    ch_Name "好吧，好吧。淡定。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:24
 translate chinese sheet_31_ba5a0641:
@@ -106,13 +106,13 @@ translate chinese sheet_31_ba5a0641:
 translate chinese sheet_31_6138ceec:
 
     # Samantha "That's okay."
-    Samantha "没关系。"
+    Samantha "不要紧的。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:26
 translate chinese sheet_31_20d2ba3b:
 
     # ch_Name "Really?{w} How was your ritual?"
-    ch_Name "真的吗?{w} 你的仪式怎么样?"
+    ch_Name "真的吗?{w} 你当年参加仪式的时候是怎么样的?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:27
 translate chinese sheet_31_973abfe8:
@@ -124,13 +124,13 @@ translate chinese sheet_31_973abfe8:
 translate chinese sheet_31_9e894ac0:
 
     # Samantha "It's just like everyone else's."
-    Samantha "这是个奇怪的问题。"
+    Samantha "就像其他人一样啊"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:30
 translate chinese sheet_31_c7583a33:
 
     # ch_Name "What're the details?"
-    ch_Name "什么是细节?"
+    ch_Name "有细节吗?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:31
 translate chinese sheet_31_4e89bc91:
@@ -178,13 +178,13 @@ translate chinese sheet_31_122c8fbc:
 translate chinese sheet_31_82b88627:
 
     # Samantha "And she hugged me at the end."
-    Samantha "最后她拥抱了我。"
+    Samantha "最后她还拥抱了我。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:41
 translate chinese sheet_31_233c7281:
 
     # ch_Name "So that's it."
-    ch_Name "这就是它。"
+    ch_Name "我说的就是这个。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:42
 translate chinese sheet_31_792efb14:
@@ -214,19 +214,19 @@ translate chinese sheet_31_42b65fad:
 translate chinese sheet_31_53b3aaf3:
 
     # Samantha "I always said you had an unusual mind!"
-    Samantha "我总是说你有一个不寻常的想法!"
+    Samantha "我一直都说你的思维方式不同寻常!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:48
 translate chinese sheet_31_e5193ec7:
 
     # ch_Name "You didn't usually say that as a compliment."
-    ch_Name "你通常不会这么说的。"
+    ch_Name "你一般不会用这种方式表扬我。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:49
 translate chinese sheet_31_54b12bb4:
 
     # Samantha "Details..."
-    Samantha "细节..."
+    Samantha "注意细节哦..."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:51
 translate chinese sheet_31_19a3f8f7:
@@ -274,7 +274,7 @@ translate chinese sheet_31_6ec5555c:
 translate chinese sheet_31_0b051706:
 
     # ch_Name "All right, then. I'll see you later."
-    ch_Name "好吧，然后。待会儿见。"
+    ch_Name "好吧，那就，晚点见。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:60
 translate chinese sheet_31_5935d785:
@@ -286,19 +286,19 @@ translate chinese sheet_31_5935d785:
 translate chinese sheet_31_fbf96dea:
 
     # ch_Name "{i}(Get some sleep? Easy to say...){/i}"
-    ch_Name "{i}(去睡眠? 容易说...){/i}"
+    ch_Name "{i}(去睡觉? 那不然呢...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:64
 translate chinese sheet_31_8fa21deb:
 
     # ch_Name "{i}(The strangest day in my life. It still does not fit in my head...){/i}"
-    ch_Name "{i}(这是我一生中最奇怪的一天。我还是记不住...){/i}"
+    ch_Name "{i}(这是我一生中最奇怪的一天。我还是无法适应...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:65
 translate chinese sheet_31_7aa5afb5:
 
     # ch_Name "{i}(I am a wizard. Hell, why not? That sounds very cool!){/i}"
-    ch_Name "{i}(我是一个巫师。见鬼，为什么不呢? 听起来很酷!){/i}"
+    ch_Name "{i}(我是一个巫师。见鬼，有何不可? 听起来很酷!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:79
 translate chinese arthur_label_14969a9a:
@@ -316,7 +316,7 @@ translate chinese arthur_label_d007b8f0:
 translate chinese arthur_label_9f954dd2:
 
     # Elijah "Yo, [Name]! Rise and shine!"
-    Elijah "哟，[Name]! 太阳升了!"
+    Elijah "哟，[Name]! 太阳晒屁股了!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:87
 translate chinese arthur_label_6b2436c6:
@@ -340,7 +340,7 @@ translate chinese arthur_label_dbe17141:
 translate chinese arthur_label_b7d5f3ec:
 
     # Elijah "A little bit. Seriously, I need that like."
-    Elijah "一点。说真的，我需要这样。"
+    Elijah "算是吧。说真的，我要那个赞。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:92
 translate chinese arthur_label_9465c390:
@@ -358,19 +358,19 @@ translate chinese arthur_label_784119be:
 translate chinese arthur_label_83fd625f:
 
     # Elijah "I'll pick you up in, like, ten minutes."
-    Elijah "对了，还有，电话别打太久。"
+    Elijah "我等一下来接你，大概，十分钟吧。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:96
 translate chinese arthur_label_47f718d1:
 
     # ch_Name "What's that for?"
-    ch_Name "那是什么?"
+    ch_Name "为什么?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:97
 translate chinese arthur_label_0867eda4:
 
     # Elijah "{b}The principal called a freshman meeting in the main hall.{/b}"
-    Elijah "{b}校长在大厅里召开新生大会。{/b}"
+    Elijah "{b}校长要在大礼堂召开新生大会。{/b}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:98
 translate chinese arthur_label_8c41bb6f:
@@ -388,7 +388,7 @@ translate chinese arthur_label_cf3dd5a0:
 translate chinese arthur_label_d7045292:
 
     # Elijah "Focus on what's important."
-    Elijah "专注于重要的事情。"
+    Elijah "把注意力集中在重要的事情上。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:102
 translate chinese arthur_label_37474af2:
@@ -424,31 +424,31 @@ translate chinese arthur_label_02deb966:
 translate chinese arthur_label_91f4f5d5:
 
     # Arthur "It's a joy to see our new students successfully joining Houses!"
-    Arthur "很高兴看到我们的新生成功地加入家族!"
+    Arthur "很高兴看到我们的新生成功地加入各大分院!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:123
 translate chinese arthur_label_c31776ac:
 
     # Arthur "Nothing brings young wizards closer together than the house."
-    Arthur "没有什么比这房子更能拉近年轻巫师之间的距离了。"
+    Arthur "没有什么比同在一个屋檐下更能拉近年轻巫师之间的距离了。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:125
 translate chinese arthur_label_80de3aa2:
 
     # Arthur "I hope everyone is happy with where they are placed?"
-    Arthur "我希望每个人都对自己的位置感到满意。"
+    Arthur "我希望每个人都对自己所在的分院感到满意。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:127
 translate chinese arthur_label_5b283411:
 
     # ch_Name "Why does he ask? Is it possible to change house?"
-    ch_Name "他为什么这么问? 可以换房子吗?"
+    ch_Name "他为什么这么问? 可以换分院吗?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:128
 translate chinese arthur_label_1d3060fe:
 
     # Elijah "I've never heard of such a thing. Shh, let me listen!"
-    Elijah "我从来没听说过这样的事。嘘，让我听!"
+    Elijah "我从来没听说过这样的事。嘘，让我仔细听听!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:130
 translate chinese arthur_label_58d0dc9f:
@@ -520,13 +520,13 @@ translate chinese arthur_label_362d7496:
 translate chinese arthur_label_5c504ec6:
 
     # Elijah "I don't know, Arthur loves me for something."
-    Elijah "我不知道，Arthur爱我是因为什么。"
+    Elijah "我不知道，Arthur是因为某些原因才喜欢我吧。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:146
 translate chinese arthur_label_b7b7e0ff:
 
     # Arthur "Now, as you all know, there are four houses."
-    Arthur "你们都知道，这里有四所房子。"
+    Arthur "你们都知道，这里有四大分院。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:147
 translate chinese arthur_label_6345370e:
@@ -538,13 +538,13 @@ translate chinese arthur_label_6345370e:
 translate chinese arthur_label_4c85a07f:
 
     # Arthur "Each house is unique and stands on the ideals and beliefs of its founder."
-    Arthur "每一所房子都是独一无二的，都立足于其创始人的理想和信仰。"
+    Arthur "每一所分院都是独一无二的，都立足于其创始人的理想和信仰之上。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:150
 translate chinese arthur_label_34ad8cfc:
 
     # Arthur "And these houses are constantly competing with each other."
-    Arthur "这些房子一直在相互竞争。"
+    Arthur "这些分院一直在相互竞争。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:151
 translate chinese arthur_label_2def8e23:
@@ -562,7 +562,7 @@ translate chinese arthur_label_a264fa42:
 translate chinese arthur_label_e0b13fcc:
 
     # Arthur "And now I will tell you the details of how this rivalry is expressed."
-    Arthur "现在我将告诉你这种竞争是如何表达的细节。"
+    Arthur "现在我将告诉你们这样的竞赛活动究竟如何运作。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:155
 translate chinese arthur_label_f4db8db0:
@@ -580,13 +580,13 @@ translate chinese sheet_31_menu_488802d2:
 translate chinese sheet_31_menu_4e6af0b4:
 
     # Arthur "In the first year, you have {b}Basic Magic{/b} and {b}Potions{/b} available to you."
-    Arthur "在第一年，你有“基本魔法”和“魔药”可供你使用。"
+    Arthur "在第一年，你有“基础魔法”和“魔药”可供使用。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:167
 translate chinese sheet_31_menu_73b81beb:
 
     # Arthur "{b}You can attend classes in the mornings and afternoons on weekdays.{/b}"
-    Arthur "{b}你可以在工作日的上午和下午上课。{/b}"
+    Arthur "{b}你可以在工作日的上午和下午来上课。{/b}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:169
 translate chinese sheet_31_menu_b9689b36:
@@ -610,19 +610,19 @@ translate chinese sheet_31_menu_35cd3be0:
 translate chinese sheet_31_menu_2f8878df:
 
     # Arthur "Every week, on Saturday morning, we sum up the results of the house competition."
-    Arthur "每周六早上，我们都会总结房屋竞赛的结果。"
+    Arthur "每周六早上，我们都会总结分院竞赛的结果。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:177
 translate chinese sheet_31_menu_c496ea98:
 
     # Arthur "And the house with the most points gets {b}special privileges.{/b}"
-    Arthur "得分最高的房子可以享受{b}特殊待遇{/b}。"
+    Arthur "得分最高的分院可以享受{b}特殊待遇{/b}。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:179
 translate chinese sheet_31_menu_00a9252d:
 
     # Arthur "Like a {b}trip to the beautiful town of Dale.{/b}"
-    Arthur "就像{b}去美丽的小镇Dale之旅{/b}。"
+    Arthur "就比如说{b}美丽小镇Dale一日游{/b}。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:180
 translate chinese sheet_31_menu_d7581434:
@@ -634,13 +634,13 @@ translate chinese sheet_31_menu_d7581434:
 translate chinese sheet_31_menu_1df87019:
 
     # ch_Name "What is that town?"
-    ch_Name "那是什么城?"
+    ch_Name "那是什么地方?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:183
 translate chinese sheet_31_menu_19a91d80:
 
     # Elijah "Oh, believe me... Dale is worth it."
-    Elijah "哦，相信我... Dale值得你这么做。"
+    Elijah "哦，相信我... Dale值得你去一趟。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:184
 translate chinese sheet_31_menu_b35ea416:
@@ -658,7 +658,7 @@ translate chinese sheet_31_menu_85a1be50:
 translate chinese sheet_31_menu_9c15acfa:
 
     # Arthur "There's no classes on the weekends and you're on your own."
-    Arthur "周末没有课，你自己一个人。"
+    Arthur "周末没有课，你的时间可以自行安排。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:192
 translate chinese sheet_31_menu_c3e78e86:
@@ -682,7 +682,7 @@ translate chinese sheet_31_menu_39d1aa9f:
 translate chinese sheet_31_menu_cc02fcd8:
 
     # Arthur "...would be happy to {b}reward you with points for a little help.{/b}"
-    Arthur "...我很乐意{b}为你的小帮助奖励积分。{/b}"
+    Arthur "...很乐意{b}为你的举手之劳奖励积分。{/b}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:197
 translate chinese sheet_31_menu_95b508e7:
@@ -706,13 +706,13 @@ translate chinese sheet_31_menu_293766b6:
 translate chinese sheet_31_menu_708a175f:
 
     # Arthur "And losing students lose housepoints."
-    Arthur "失败学生就失去了积分。"
+    Arthur "失败的学生会失去积分。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:207
 translate chinese sheet_31_76_7ab33d1c:
 
     # Arthur "Well, well, what else I wanted to say..."
-    Arthur "好吧，好吧，我还想说什么..."
+    Arthur "嗯，我还想说什么来着..."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:208
 translate chinese sheet_31_76_a1711a22:
@@ -742,7 +742,7 @@ translate chinese sheet_31_76_4f58e093:
 translate chinese sheet_31_76_b59bfac7:
 
     # ch_Name "Okay. What for?"
-    ch_Name "好吧。什么?"
+    ch_Name "好吧。为什么?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:215
 translate chinese sheet_31_76_e4b251fd:
@@ -754,7 +754,7 @@ translate chinese sheet_31_76_e4b251fd:
 translate chinese sheet_31_76_7b68e21a:
 
     # Elijah "So you can start getting into this whole house battle."
-    Elijah "这样你就可以开始这场房子大战了。"
+    Elijah "这样你就可以开始这场分院大战了。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:217
 translate chinese sheet_31_76_d6dbd69c:
@@ -778,19 +778,19 @@ translate chinese sheet_31_76_fa3d9593:
 translate chinese sheet_31_76_1c465310:
 
     # Arthur "Teachers have the right to remind you of this and to levy housepoints..."
-    Arthur "老师有权利提醒你这一点，并征收扣分..."
+    Arthur "老师有权利提醒你这一点，并且对不敬之举..."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:222
 translate chinese sheet_31_76_d8336100:
 
     # Arthur "...for undignified behavior."
-    Arthur "...对不庄重的行为。"
+    Arthur "...可以扣除分数。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:224
 translate chinese sheet_31_76_e3f95e31:
 
     # ch_Name "Oh, that's unpleasant."
-    ch_Name "噢，那是不愉快的。"
+    ch_Name "噢，真令人不爽。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:225
 translate chinese sheet_31_76_e92f4000:
@@ -808,13 +808,13 @@ translate chinese sheet_31_76_9641f5f5:
 translate chinese sheet_31_76_0f21babf:
 
     # Arthur "I won't hold you up on your first day of study!"
-    Arthur "我不会耽误你第一天的学习!"
+    Arthur "我不会耽误你们第一天的学习!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:230
 translate chinese sheet_31_76_f0f0c68f:
 
     # Arthur "Hurry up so you're not late for class."
-    Arthur "快点，上课就不会迟到了。"
+    Arthur "动作快点，上课就不会迟到了。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:232
 translate chinese sheet_31_76_701544bb:
@@ -838,19 +838,19 @@ translate chinese sheet_31_76_ae1bf26a:
 translate chinese sheet_31_76_f021783d:
 
     # ch_Name "{i}(That's much better.){/i}"
-    ch_Name "{i}(这是更好的。){/i}"
+    ch_Name "{i}(这样好多了。){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:241
 translate chinese sheet_31_76_b849b589:
 
     # ch_Name "{i}(It's much more cozy in underpants.){/i}"
-    ch_Name "{i}(穿内裤舒服多了。){/i}"
+    ch_Name "{i}(穿上内裤舒服多了。){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:242
 translate chinese sheet_31_76_5bdce05f:
 
     # ch_Name "{i}(Now, let's get back to Elijah.){/i}"
-    ch_Name "{i}(现在，让我们回到Elijah。){/i}"
+    ch_Name "{i}(现在，我们要回去找Elijah。){/i}"
 
 translate chinese strings:
 
@@ -864,7 +864,7 @@ translate chinese strings:
 
     # game/logic/episodes_after_first/ep2/sheet_31.rpy:161
     old "How to earn housepoints"
-    new "如何赚取房子积分"
+    new "如何赚取分院积分"
 
 # TODO: Translation updated at 2022-03-03 04:01
 
@@ -884,13 +884,13 @@ translate chinese arthur_label_48673d84:
 translate chinese arthur_label_820192cd:
 
     # ch_Name "Why exactly calling?!"
-    ch_Name "为什么打电话？！"
+    ch_Name "干嘛要打电话？！"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:95
 translate chinese arthur_label_5328ca4d:
 
     # Elijah "I just wanted to hear your voice. You know, I feel lonely."
-    Elijah "我只是想听听你的声音。你知道，我感到孤独。"
+    Elijah "我只是想听听你的声音。你懂的，我感到孤独。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:97
 translate chinese arthur_label_1e93415e:
@@ -908,7 +908,7 @@ translate chinese arthur_label_275c93f0:
 translate chinese arthur_label_d26cd93a:
 
     # Elijah "I wanted to say that we need to go to the {b}Main Hall{/b} soon."
-    Elijah "我想说的是我们很快就要去{b}主大厅{/b}了。"
+    Elijah "我想说的是我们很快就要去{b}大礼堂{/b}了。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:102
 translate chinese arthur_label_f2290ef2:
@@ -932,7 +932,7 @@ translate chinese arthur_label_c43d6e7b:
 translate chinese arthur_label_9ab09bfc:
 
     # Elijah "Sweet! See you."
-    Elijah "甜的！见到你。"
+    Elijah "甜心！再见。"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:109
 translate chinese arthur_label_74ebce9c:
