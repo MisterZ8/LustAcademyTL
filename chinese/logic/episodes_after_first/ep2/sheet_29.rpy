@@ -16,7 +16,7 @@ translate chinese sheet_29_027b1c56:
 translate chinese sheet_29_86a18230:
 
     # ch_Name "For the Leonheart!"
-    ch_Name "对于Leonheart!"
+    ch_Name "为了Leonheart!"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:11
 translate chinese sheet_29_103d1121:
@@ -28,25 +28,25 @@ translate chinese sheet_29_103d1121:
 translate chinese sheet_29_f1735f91:
 
     # Victoria "You have completed the ritual, mister [Surname]."
-    Victoria "你已经完成了仪式，先生[Surname]。"
+    Victoria "你已经完成了仪式，[Surname]先生。"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:15
 translate chinese sheet_29_fdbaa01d:
 
     # Victoria "So Leonheart? "
-    Victoria "所以Leonheart?"
+    Victoria "所以你选Leonheart了?"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:16
 translate chinese sheet_29_ef47707a:
 
     # Victoria "Interesting."
-    Victoria "有趣。"
+    Victoria "有意思。"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:18
 translate chinese sheet_29_a4e5a398:
 
     # Victoria "Alright."
-    Victoria "好吧。"
+    Victoria "好了。"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:20
 translate chinese sheet_29_e0d6d212:
@@ -58,13 +58,13 @@ translate chinese sheet_29_e0d6d212:
 translate chinese sheet_29_688103df:
 
     # Victoria "The head of your house will meet you near the fountain. "
-    Victoria "你们家的人会在喷泉边等你。"
+    Victoria "你们分院的领导会在喷泉边等你。"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:24
 translate chinese sheet_29_3a2b4da9:
 
     # ch_Name "Understood."
-    ch_Name "理解。"
+    ch_Name "明白。"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:29
 translate chinese sheet_29_b28259d5:
@@ -76,13 +76,13 @@ translate chinese sheet_29_b28259d5:
 translate chinese sheet_29_af0890ec:
 
     # ch_Name "{i}(I’m still filled to brim with Leona’s magical energy...){/i}"
-    ch_Name "{i}(我仍然充满了Leona的魔法能量...){/i}"
+    ch_Name "{i}(我浑身上下依旧充满了Leona的魔法能量...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:33
 translate chinese sheet_29_58a78b5c:
 
     # ch_Name "{i}(I hope it will last.){/i}"
-    ch_Name "{i}(我希望它能持续下去。){/i}"
+    ch_Name "{i}(我希望能一直持续下去。){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:35
 translate chinese sheet_29_8595d21a:
@@ -118,7 +118,7 @@ translate chinese sheet_29_066e0dea:
 translate chinese sheet_29_7bcdccdb:
 
     # Elijah "Leonheart freshman?"
-    Elijah "Leonheart新生吧?"
+    Elijah "Leonheart的新生吧?"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:47
 translate chinese sheet_29_c0342522:
@@ -130,7 +130,7 @@ translate chinese sheet_29_c0342522:
 translate chinese sheet_29_b33de85c:
 
     # ch_Name "I'm looking for the head of Leonheart House. "
-    ch_Name "我在找Leonheart屋的老大。"
+    ch_Name "我在找Leonheart分院的老大。"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:49
 translate chinese sheet_29_dcff3ab6:
@@ -142,7 +142,7 @@ translate chinese sheet_29_dcff3ab6:
 translate chinese sheet_29_637cd96c:
 
     # Elijah "Precisely so! "
-    Elijah "正是如此!"
+    Elijah "正是!"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:52
 translate chinese sheet_29_40d07b7c:
@@ -160,7 +160,7 @@ translate chinese sheet_29_07516497:
 translate chinese sheet_29_c32aa245:
 
     # Elijah "I am a third year student and the new head of the Leonheart house."
-    Elijah "我是三年级学生，Leonheart学院的新领导。"
+    Elijah "我是大三学生，Leonheart学院的新领导。"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:56
 translate chinese sheet_29_7ec2887d:
@@ -184,7 +184,7 @@ translate chinese sheet_29_754b1987:
 translate chinese sheet_29_abe087d8:
 
     # Elijah "Same to you!"
-    Elijah "你也一样!"
+    Elijah "我也一样!"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:60
 translate chinese sheet_29_ba376918:
@@ -196,19 +196,19 @@ translate chinese sheet_29_ba376918:
 translate chinese sheet_29_55a5eac3:
 
     # Elijah "Oh, I see you already know other newcomers!"
-    Elijah "哦，我看你已经认识其他新来者了!"
+    Elijah "哦，我看你已经认识其他新人了!"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:63
 translate chinese sheet_29_b97687c5:
 
     # Elijah "The asian chick felt sick after the ritual..."
-    Elijah "那个亚洲小妞在仪式后感到恶心..."
+    Elijah "那个亚洲小妞在仪式后感到有点不舒服..."
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:64
 translate chinese sheet_29_2bbaf6ae:
 
     # Elijah "So the other one took her to the lady's room."
-    Elijah "所以另一个带她去了女厕。"
+    Elijah "所以另一个人带她去了厕所。"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:65
 translate chinese sheet_29_fde0943e:
@@ -274,7 +274,7 @@ translate chinese sheet_29_fbb0f43b:
 translate chinese sheet_29_a1d9a122:
 
     # Elijah "He says that this will put an end to all the magicians. "
-    Elijah "他说这会终结所有的魔术师。"
+    Elijah "他说这会把所有的魔法师都毁了。"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:78
 translate chinese sheet_29_b5f813ce:
@@ -298,7 +298,7 @@ translate chinese sheet_29_14bfc356:
 translate chinese sheet_29_a1a49f05:
 
     # Elijah "I've got a good feeling about us."
-    Elijah "我对我们很有信心。"
+    Elijah "我对我们的关系很有信心。"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:83
 translate chinese sheet_29_bd67f888:
@@ -316,13 +316,13 @@ translate chinese sheet_29_a0044d00:
 translate chinese sheet_29_a3e979f4:
 
     # Elijah "As the new head of the Leonheart..."
-    Elijah "作为Leonheart家族的新首领..."
+    Elijah "作为Leonheart分院的新领导..."
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:87
 translate chinese sheet_29_61aae17c:
 
     # Elijah "I'm inventing the new tradition! Selfies!"
-    Elijah "我在创造新的传统! 我自己!"
+    Elijah "我在发明新的传统！来张自拍！"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:88
 translate chinese sheet_29_04be94fc:
@@ -334,13 +334,13 @@ translate chinese sheet_29_04be94fc:
 translate chinese sheet_29_b01456a1:
 
     # ch_Name "{i}(Gosh, seems like he's not...){/i}"
-    ch_Name "{i}(天啊，看起来他不是...){/i}"
+    ch_Name "{i}(天啊，看来他并不是在...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:90
 translate chinese sheet_29_49a4e4d8:
 
     # ch_Name "{i}(I need to choose a cool pose...){/i}"
-    ch_Name "{i}(我需要选择一个很酷的姿势...){/i}"
+    ch_Name "{i}(我要选一个很酷的姿势...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:100
 translate chinese sheet_29_87abec38:
@@ -358,7 +358,7 @@ translate chinese sheet_29_2c9a3f83:
 translate chinese sheet_29_cf2493a2:
 
     # ch_Name "I was not ready."
-    ch_Name "我还没准备好。"
+    ch_Name "我还没准备好呢。"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:105
 translate chinese sheet_29_0156a866:
@@ -370,19 +370,19 @@ translate chinese sheet_29_0156a866:
 translate chinese sheet_29_c15849e9:
 
     # Elijah "Come on!"
-    Elijah "来吧!"
+    Elijah "得了吧!"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:108
 translate chinese sheet_29_9e41b530:
 
     # Elijah "Maybe it's good."
-    Elijah "也许这很好。"
+    Elijah "或许这还不错。"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:109
 translate chinese sheet_29_b8e8fd8a:
 
     # Elijah "Let's take a look."
-    Elijah "让我们来看看。"
+    Elijah "我们来看看。"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:110
 translate chinese sheet_29_f3cb360f:
@@ -424,7 +424,7 @@ translate chinese sheet_29_215bb5e7:
 translate chinese sheet_29_beeca78f:
 
     # ch_Name "You said Lily felt sick? "
-    ch_Name "你说Lily生病了?"
+    ch_Name "你说Lily感觉不舒服?"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:119
 translate chinese sheet_29_dbf88577:
@@ -436,19 +436,19 @@ translate chinese sheet_29_dbf88577:
 translate chinese sheet_29_394011b2:
 
     # Elijah "She was pale and looked sick when I saw her the first time."
-    Elijah "我第一次见到她时，她脸色苍白，看上去病了。"
+    Elijah "我第一次见到她时，她脸色苍白，看上去好像病了。"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:121
 translate chinese sheet_29_1a392aeb:
 
     # ch_Name "She looks lovely now. I hope it's fine."
-    ch_Name "她现在看起来很可爱。我希望它是好的。"
+    ch_Name "她现在看起来很可爱。我希望她没事。"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:123
 translate chinese sheet_29_e24f55da:
 
     # Lily "...and that's how i realized that my best friend is imaginary!"
-    Lily "...所以我才意识到我最好的朋友是虚构的!"
+    Lily "...所以我才意识到我最好的朋友其实是虚构的!"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:124
 translate chinese sheet_29_6c21fccf:
@@ -466,7 +466,7 @@ translate chinese sheet_29_88c9e129:
 translate chinese sheet_29_3e2792d0:
 
     # Haley "I can't even imagine doing something like that."
-    Haley "我甚至不能想象做那样的事。"
+    Haley "那种事情我连想都不敢想。"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:127
 translate chinese sheet_29_332c02fb:
@@ -496,19 +496,19 @@ translate chinese sheet_29_6cbadba5:
 translate chinese sheet_29_d85aa832:
 
     # Lily "Yeah. Thank you for asking,"
-    Lily "是的。谢谢你的关心。"
+    Lily "很好。谢谢你的关心。"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:133
 translate chinese sheet_29_57c16521:
 
     # Lily "I feel better."
-    Lily "我感觉更好。"
+    Lily "我感觉好多了。"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:135
 translate chinese sheet_29_3626a6fb:
 
     # Haley "[Name]! You're here too!"
-    Haley "[Name]! 你在这里!"
+    Haley "[Name]! 你也在!"
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:136
 translate chinese sheet_29_477d6cc5:
