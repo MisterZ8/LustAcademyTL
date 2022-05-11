@@ -158,7 +158,7 @@ translate chinese strings:
 
     # game/screens.rpy:2923
     old "Enter"
-    new "输入"
+    new ""
 
     # game/screens.rpy:2924
     old "Advances dialogue and activates the interface."
@@ -170,11 +170,11 @@ translate chinese strings:
 
     # game/screens.rpy:2931
     old "Arrow Keys"
-    new "箭头键"
+    new "方向键"
 
     # game/screens.rpy:2935
     old "Escape"
-    new "退出"
+    new ""
 
     # game/screens.rpy:2936
     old "Accesses the game menu."
@@ -182,19 +182,19 @@ translate chinese strings:
 
     # game/screens.rpy:2939
     old "Ctrl"
-    new "控制"
+    new ""
 
     # game/screens.rpy:2943
     old "Tab"
-    new "选项卡"
+    new ""
 
     # game/screens.rpy:2947
     old "Page Up"
-    new "选项卡"
+    new ""
 
     # game/screens.rpy:2951
     old "Page Down"
-    new "下一页"
+    new ""
 
     # game/screens.rpy:2956
     old "I"
@@ -246,7 +246,7 @@ translate chinese strings:
 
     # game/screens.rpy:3029
     old "D-Pad, Sticks"
-    new "方向键，棒"
+    new "方向键，摇杆"
 
     # game/screens.rpy:3033
     old "Start, Guide"
@@ -320,7 +320,7 @@ translate chinese strings:
 
     # game/screens.rpy:811
     old "Plot-Driven Structure"
-    new "时下结构"
+    new "剧情驱动的结构"
 
     # game/screens.rpy:2320
     old "DISPLAY"
