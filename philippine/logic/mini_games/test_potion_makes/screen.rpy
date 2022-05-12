@@ -86,3 +86,35 @@ translate philippine strings:
     old "Learn this recipe by attending the Potions lecture."
     new "Alamin ang recipe na ito sa pamamaraan ng pagpasok sa Potions na klase."
 
+# TODO: Translation updated at 2022-05-12 08:59
+
+translate philippine strings:
+
+    # game/logic/mini_games/test_potion_makes/screen.rpy:20
+    old "Protects your magical sources from the creatures of the night."
+    new ""
+
+    # game/logic/mini_games/test_potion_makes/screen.rpy:208
+    old "RECIPES"
+    new ""
+
+    # game/logic/mini_games/test_potion_makes/screen.rpy:209
+    old "ALCHEMY"
+    new ""
+
+    # game/logic/mini_games/test_potion_makes/screen.rpy:210
+    old "INGREDIENTS"
+    new ""
+
+    # game/logic/mini_games/test_potion_makes/screen.rpy:347
+    old "Recipe"
+    new ""
+
+    # game/logic/mini_games/test_potion_makes/screen.rpy:361
+    old "Learn this recipe by completing Audrey's quests."
+    new ""
+
+    # game/logic/mini_games/test_potion_makes/screen.rpy:366
+    old "Recipe locked"
+    new ""
+

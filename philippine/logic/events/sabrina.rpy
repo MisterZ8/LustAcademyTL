@@ -2816,3 +2816,11 @@ translate philippine strings:
     old "Work with someone else"
     new "Samahan sa ibang tao"
 
+# TODO: Translation updated at 2022-05-12 08:59
+
+translate philippine strings:
+
+    # game/logic/events/sabrina.rpy:9
+    old "Potion for Audrey"
+    new ""
+

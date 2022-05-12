@@ -7452,3 +7452,5383 @@ translate philippine strings:
     old "Touch the monster"
     new "Hawakan ang halimaw"
 
+# TODO: Translation updated at 2022-05-12 08:59
+
+# game/logic/events/Leona.rpy:316
+translate philippine Leona_1_label_428b3f35:
+
+    # Leona "Then fill me with your huge cock!"
+    Leona ""
+
+# game/logic/events/Leona.rpy:338
+translate philippine Leona_1_label_e4462430:
+
+    # Leona "Do you like being in charge?"
+    Leona ""
+
+# game/logic/events/Leona.rpy:339
+translate philippine Leona_1_label_3d2d9a1b:
+
+    # ch_Name "Ah... Yes..."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:1006
+translate philippine Leona_3_label_L_162_d5847ea3:
+
+    # ch_Name "Miss Spellman! I'm done."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:1298
+translate philippine Leona_4_label_c8a1276f:
+
+    # Leona "I think it's time for you to wake up. I need to go now. Summon me on tuesday."
+    Leona ""
+
+# game/logic/events/Leona.rpy:1299
+translate philippine Leona_4_label_136171eb:
+
+    # Leona "Until then I'll try to find out who's behind all of this."
+    Leona ""
+
+# game/logic/events/Leona.rpy:1301
+translate philippine Leona_4_label_dc4b9cba:
+
+    # ch_Name "Wait a minute! Are you leaving already? I have so many questions for you..."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:1302
+translate philippine Leona_4_label_0f78d939:
+
+    # Leona "Alas, I have to go. I'll answer them next time we'll meet."
+    Leona ""
+
+# game/logic/events/Leona.rpy:1643
+translate philippine Leona_5_label_from_gallery_2223479f:
+
+    # ch_Name "Ah! Oh yes!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2005
+translate philippine Leona_7_label_d2afe3ed:
+
+    # Leona "I don't know. I made sure it would be hard to get. Even for me."
+    Leona ""
+
+# game/logic/events/Leona.rpy:2006
+translate philippine Leona_7_label_a1d4fa8e:
+
+    # Leona "I need a week, at least."
+    Leona ""
+
+# game/logic/events/Leona.rpy:2022
+translate philippine Leona_8_label_b26ccda5:
+
+    # ch_Name "{i}(Wow, what a night...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2023
+translate philippine Leona_8_label_9a0848fe:
+
+    # ch_Name "{i}(I don't remember what I dreamed, but something about it seems strange.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2024
+translate philippine Leona_8_label_5558d8bc:
+
+    # ch_Name "{i}(Almost as if something warm was pressed up against me...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2026
+translate philippine Leona_8_label_83fad307:
+
+    # ch_Name "{i}(It felt so real, I can still feel it...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2027
+translate philippine Leona_8_label_814ccb44:
+
+    # ch_Name "{i}(Wait a minute! It was real...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2028
+translate philippine Leona_8_label_094e1c1f:
+
+    # ch_Name "{i}(I can feel it right now, pressing up against me...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2030
+translate philippine Leona_8_label_ee119434:
+
+    # ch_Name "{i}(LEONA?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2031
+translate philippine Leona_8_label_102af7ca:
+
+    # ch_Name "{i}(Am I still dreaming?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2032
+translate philippine Leona_8_label_ab5d609f:
+
+    # ch_Name "{i}(Why is she in my bed?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2034
+translate philippine Leona_8_label_f132098f:
+
+    # ch_Name "{i}(I don't understand what's going on...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2035
+translate philippine Leona_8_label_158e7ed8:
+
+    # ch_Name "{i}(Maybe she can explain it to me.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2037
+translate philippine Leona_8_label_840ecfb5:
+
+    # ch_Name "Hey... Wake up!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2038
+translate philippine Leona_8_label_c65779f8:
+
+    # Leona "Mmmm..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:2039
+translate philippine Leona_8_label_327ff0cc:
+
+    # Leona "Five more minutes..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:2040
+translate philippine Leona_8_label_8898424e:
+
+    # ch_Name "What five minutes? Wake up!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2042
+translate philippine Leona_8_label_35085036:
+
+    # Leona "Oh..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:2043
+translate philippine Leona_8_label_d33ca7d8:
+
+    # Leona "Are you always this noisy in the morning?"
+    Leona ""
+
+# game/logic/events/Leona.rpy:2044
+translate philippine Leona_8_label_6c627fef:
+
+    # ch_Name "Only mornings when I could get caught in bed with my house's founder."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2046
+translate philippine Leona_8_label_7bf2182b:
+
+    # Leona "You're so worried about the little things."
+    Leona ""
+
+# game/logic/events/Leona.rpy:2047
+translate philippine Leona_8_label_63843e04:
+
+    # Leona "It's cute and funny."
+    Leona ""
+
+# game/logic/events/Leona.rpy:2048
+translate philippine Leona_8_label_91343e12:
+
+    # ch_Name "Come on, it's time to get up."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2049
+translate philippine Leona_8_label_80cc1fcd:
+
+    # Leona "Okay, okay."
+    Leona ""
+
+# game/logic/events/Leona.rpy:2056
+translate philippine Leona_8_label_3d56aeea:
+
+    # Leona "I must admit... I haven't slept this soundly in a long time!"
+    Leona ""
+
+# game/logic/events/Leona.rpy:2057
+translate philippine Leona_8_label_41e1dfc3:
+
+    # Leona "These modern beds are such a luxury!"
+    Leona ""
+
+# game/logic/events/Leona.rpy:2058
+translate philippine Leona_8_label_ebfe60e5:
+
+    # ch_Name "Hmm, never thought of that. Is that why you came to bed with me?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2059
+translate philippine Leona_8_label_05ee1011:
+
+    # Leona "I'm sorry if I took advantage of you, my darling boy."
+    Leona ""
+
+# game/logic/events/Leona.rpy:2060
+translate philippine Leona_8_label_45c1e012:
+
+    # Leona "But I can only take a physical form when I'm with you."
+    Leona ""
+
+# game/logic/events/Leona.rpy:2062
+translate philippine Leona_8_label_635e04b8:
+
+    # Leona "I wanted to remember what sleep felt like... when I was alive."
+    Leona ""
+
+# game/logic/events/Leona.rpy:2063
+translate philippine Leona_8_label_f5ec7a55:
+
+    # ch_Name "It's okay, I get it. I'm sure I'd feel the same if I were in your shoes."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2064
+translate philippine Leona_8_label_b62f5ce0:
+
+    # ch_Name "Still, you didn't come here just to sleep, did you?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2065
+translate philippine Leona_8_label_e1bcc0a9:
+
+    # ch_Name "Since you're here I'm assuming you found what I asked for?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2067
+translate philippine Leona_8_label_dc1b0f42:
+
+    # Leona "Yes, I have the Lion's Seal..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:2068
+translate philippine Leona_8_label_769db06d:
+
+    # Leona "But, before I give it to you, I have to ask again..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:2069
+translate philippine Leona_8_label_eecdf959:
+
+    # Leona "Are you sure you know what you're asking for?"
+    Leona ""
+
+# game/logic/events/Leona.rpy:2070
+translate philippine Leona_8_label_ad0c9ae4:
+
+    # Leona "It's a very powerful artifact."
+    Leona ""
+
+# game/logic/events/Leona.rpy:2072
+translate philippine Leona_8_label_cc5706b2:
+
+    # ch_Name "I know it is, but I wouldn't ask you if there was any other way."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2073
+translate philippine Leona_8_label_39d667a8:
+
+    # ch_Name "Something terrible is coming and I need the seal to stop it."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2074
+translate philippine Leona_8_label_6eaa75a6:
+
+    # ch_Name "Please, trust me."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2076
+translate philippine Leona_8_label_dd9960af:
+
+    # Leona "I don't like this, [Name]."
+    Leona ""
+
+# game/logic/events/Leona.rpy:2077
+translate philippine Leona_8_label_8b92ee51:
+
+    # Leona "We shouldn't keep secrets from each other..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:2078
+translate philippine Leona_8_label_360ec5bf:
+
+    # ch_Name "I promise to tell you everything, but I can't just yet."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2079
+translate philippine Leona_8_label_bf0f00be:
+
+    # Leona "..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:2080
+translate philippine Leona_8_label_bfb32191:
+
+    # Leona "Are you sure you can't do it without the Seal?"
+    Leona ""
+
+# game/logic/events/Leona.rpy:2081
+translate philippine Leona_8_label_64e49a8b:
+
+    # ch_Name "Yes."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2083
+translate philippine Leona_8_label_b6905549:
+
+    # Leona "Good. (Sighs) So be it."
+    Leona ""
+
+# game/logic/events/Leona.rpy:2084
+translate philippine Leona_8_label_a32e6474:
+
+    # Leona "I can't refuse you, you know."
+    Leona ""
+
+# game/logic/events/Leona.rpy:2085
+translate philippine Leona_8_label_84cf84f9:
+
+    # Leona "I brought it here."
+    Leona ""
+
+# game/logic/events/Leona.rpy:2087
+translate philippine Leona_8_label_4f1b68cd:
+
+    # Leona "Here it is. The Lion's Seal."
+    Leona ""
+
+# game/logic/events/Leona.rpy:2088
+translate philippine Leona_8_label_f005d5f4:
+
+    # Leona "I beg of you. Be careful with it."
+    Leona ""
+
+# game/logic/events/Leona.rpy:2089
+translate philippine Leona_8_label_cefda48b:
+
+    # ch_Name "I have to be."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2090
+translate philippine Leona_8_label_3a5c7650:
+
+    # ch_Name "Thank you."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2092
+translate philippine Leona_8_label_d1bef83a:
+
+    # Leona "Well, my mission is accomplished. Time to go back to my world..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:2094
+translate philippine Leona_8_label_49103bb3:
+
+    # Leona "I'll miss you... and your soft pillows."
+    Leona ""
+
+# game/logic/events/Leona.rpy:2095
+translate philippine Leona_8_label_4e543c3a:
+
+    # ch_Name "I'll come find you as soon as I can. I promise."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2096
+translate philippine Leona_8_label_6ba30766:
+
+    # Leona "I'll be waiting."
+    Leona ""
+
+# game/logic/events/Leona.rpy:2098
+translate philippine Leona_8_label_3e74e358:
+
+    # ch_Name "Unbelievable..."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2099
+translate philippine Leona_8_label_c3553cc9:
+
+    # ch_Name "{i}(And this is the Lion's Seal?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2100
+translate philippine Leona_8_label_0d054c57:
+
+    # ch_Name "{i}(Does this little box really contain great power?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2102
+translate philippine Leona_8_label_95389447:
+
+    # ch_Name "{i}(I hope Leona isn't upset that I didn't tell her everything.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2103
+translate philippine Leona_8_label_73894813:
+
+    # ch_Name "{i}(But I gave my word to Frollo that no one would know.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2104
+translate philippine Leona_8_label_158633f3:
+
+    # ch_Name "{i}(Not even the ghosts... Okay, I'm definitely not into that right now.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2106
+translate philippine Leona_8_label_bc03a82c:
+
+    # ch_Name "{i}(I've got the Seal, that's what's important.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2107
+translate philippine Leona_8_label_0df55243:
+
+    # ch_Name "{i}(I'll have to tell Frollo about it tonight.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2116
+translate philippine Leona_8_label_c6d88fa4:
+
+    # ch_Name "{i}(The main thing is not to let the Seal fall into the wrong hands.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2117
+translate philippine Leona_8_label_d6fac71f:
+
+    # ch_Name "{i}(Wow, what a responsibility that is.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2118
+translate philippine Leona_8_label_ff090305:
+
+    # ch_Name "{i}(Only now I'm feeling it. I can't let Leona and Jacob down...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2119
+translate philippine Leona_8_label_d01ce624:
+
+    # ch_Name "{i}(No, I can't take it anymore. I need a distraction.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2120
+translate philippine Leona_8_label_28d9cf91:
+
+    # ch_Name "{i}(And I should probably dress up...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2127
+translate philippine Leona_8_label_349818c0:
+
+    # ch_Name "{i}(Now... where should I go...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2128
+translate philippine Leona_8_label_47fd1af6:
+
+    # ch_Name "{i}(I'm gonna take a walk. I think better in the fresh air.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2129
+translate philippine Leona_8_label_e75e0bb8:
+
+    # ch_Name "{i}(There's still plenty of time before class.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2131
+translate philippine Leona_8_label_c0a36373:
+
+    # ch_Name "{i}(But to be honest, I'm not in the mood to study today at all.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2132
+translate philippine Leona_8_label_bc4017bf:
+
+    # ch_Name "{i}(I need to think of something to distract me from this.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2133
+translate philippine Leona_8_label_9d51ed00:
+
+    # ch_Name "{i}(Because this is an emotional torment...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2135
+translate philippine Leona_8_label_20a3df09:
+
+    # ch_Name "{i}(Oh, what luck! I see Samantha hasn't left for her class yet.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2136
+translate philippine Leona_8_label_74e504d6:
+
+    # ch_Name "{i}(Maybe she can keep me company.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2144
+translate philippine Leona_9_label_08f36748:
+
+    # ch_Name "{i}(I have the seal; it's time to tell Jacob about it.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2145
+translate philippine Leona_9_label_cbde2c36:
+
+    # ch_Name "{i}(I hope it's not too late to stop Arthur...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2146
+translate philippine Leona_9_label_0562c7aa:
+
+    # ch_Name "{i}(And avenge my parents.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2148
+translate philippine Leona_9_label_b477ea22:
+
+    # ch_Name "Mr. Frollo, good evening!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2149
+translate philippine Leona_9_label_b84575fc:
+
+    # Jacob "Mr. [Surname]..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2151
+translate philippine Leona_9_label_6b2406d3:
+
+    # Jacob "Are you here to sign up for a duel?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2152
+translate philippine Leona_9_label_adc1d7ef:
+
+    # ch_Name "No. I'm here on another matter..."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2153
+translate philippine Leona_9_label_8756583b:
+
+    # ch_Name "I have something... that thing we talked about."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2155
+translate philippine Leona_9_label_e8181c98:
+
+    # Jacob "Do you...?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2156
+translate philippine Leona_9_label_ca848f36:
+
+    # Jacob "I never doubted you, [Name]."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2158
+translate philippine Leona_9_label_7712c3e0:
+
+    # Jacob "I'm very proud of you..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2159
+translate philippine Leona_9_label_25705c91:
+
+    # Jacob "A sentiment I believe your parents would share."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2161
+translate philippine Leona_9_label_90700f4f:
+
+    # ch_Name "I hope... are we able to stop Arthur now?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2162
+translate philippine Leona_9_label_14828ba0:
+
+    # Jacob "Now..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2164
+translate philippine Leona_9_label_5a9fffaf:
+
+    # Jacob "You and I can do anything!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2165
+translate philippine Leona_9_label_e4ced971:
+
+    # Jacob "Finally, the time to avenge them has come... are you ready?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2166
+translate philippine Leona_9_label_b08e0704:
+
+    # ch_Name "I think so..."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2168
+translate philippine Leona_9_label_55a5e3ae:
+
+    # Jacob "Then we better hurry."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2169
+translate philippine Leona_9_label_c26a6b33:
+
+    # Jacob "Follow me."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2170
+translate philippine Leona_9_label_b2bfcd29:
+
+    # ch_Name "Where to?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2172
+translate philippine Leona_9_label_ebe8a8a3:
+
+    # Jacob "No time to explain, [Name]."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2173
+translate philippine Leona_9_label_f079c964:
+
+    # Jacob "We must hurry before Arthur suspects anything."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2175
+translate philippine Leona_9_label_f6db79c1:
+
+    # ch_Name "{i}(What's the rush right now? It's strange...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2176
+translate philippine Leona_9_label_434c96d2:
+
+    # ch_Name "{i}(Though if I'd waited 18 years for an opportunity for revenge...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2177
+translate philippine Leona_9_label_46ac4a70:
+
+    # ch_Name "{i}(I'd probably be in a rush, too.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2185
+translate philippine Leona_9_label_df3d93a3:
+
+    # Jacob "Don't worry, [Name]. It'll be over quickly."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2186
+translate philippine Leona_9_label_40f666cc:
+
+    # Jacob "Thanks to your help, they don't stand a chance."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2187
+translate philippine Leona_9_label_d3955ad9:
+
+    # ch_Name "Okay, but what exactly is the plan?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2189
+translate philippine Leona_9_label_91a08730:
+
+    # Jacob "Soon you'll know everything."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2190
+translate philippine Leona_9_label_241bc8e6:
+
+    # Jacob "Soon they'll all know..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2191
+translate philippine Leona_9_label_5c7d3679:
+
+    # Jacob "Let us make haste!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2199
+translate philippine Leona_9_label_1c996c23:
+
+    # ch_Name "{i}(So the source of Arthur's powers is hidden somewhere in the main hall.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2200
+translate philippine Leona_9_label_3f04eb35:
+
+    # ch_Name "{i}(We must have come here to seal it up.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2201
+translate philippine Leona_9_label_5f38b41d:
+
+    # ch_Name "{i}(And keep it from destroying the academy.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2202
+translate philippine Leona_9_label_a15020c0:
+
+    # Jacob "We need to make sure no one gets in our way."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2205
+translate philippine Leona_9_label_a49adca7:
+
+    # Jacob "Sigillum!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2206
+translate philippine Leona_9_label_ad3c10c0:
+
+    # Jacob "That's better. Now that door's unbreakable..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2207
+translate philippine Leona_9_label_ce0c263f:
+
+    # ch_Name "{i}(Clever.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2209
+translate philippine Leona_9_label_a42094a0:
+
+    # Jacob "Thanks to you, [Name], we're closer than we've ever been..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2210
+translate philippine Leona_9_label_21a747f6:
+
+    # Jacob "Soon, all of this will come to an end."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2212
+translate philippine Leona_9_label_21a1d16a:
+
+    # Jacob "Arthur will pay bitterly for everything he's done."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2213
+translate philippine Leona_9_label_82622a27:
+
+    # Jacob "And your father will be absolved."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2214
+translate philippine Leona_9_label_11e84c89:
+
+    # Jacob "Now... it is time to begin the ritual!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2216
+translate philippine Leona_9_label_7a4fd598:
+
+    # ch_Name "The ritual?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2217
+translate philippine Leona_9_label_b9da26dc:
+
+    # ch_Name "What do I have to do?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2219
+translate philippine Leona_9_label_33a13e71:
+
+    # Jacob "You have fulfilled your destiny."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2220
+translate philippine Leona_9_label_43a0b227:
+
+    # Jacob "Now, give me the Lion's Seal!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2221
+translate philippine Leona_9_label_02e01937:
+
+    # ch_Name "{i}(I don't like all this.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2223
+translate philippine Leona_9_label_7ec40849:
+
+    # ch_Name "{i}(Maybe I shouldn't trust the Seal to the wrong hands.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2224
+translate philippine Leona_9_label_37c028ad:
+
+    # Jacob "Now!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2229
+translate philippine Leona_9_label_645e1207:
+
+    # ch_Name "{i}(If it hadn't been for Jacob, I never would have known who my parents were.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2230
+translate philippine Leona_9_label_fddb9ff9:
+
+    # ch_Name "{i}(I can trust him.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2231
+translate philippine Leona_9_label_c718ac25:
+
+    # ch_Name "{i}(Now we will avenge them!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2233
+translate philippine Leona_9_label_33652319:
+
+    # ch_Name "Here it is."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2234
+translate philippine Leona_9_label_99056160:
+
+    # ch_Name "But be careful, Leona warned me..."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2235
+translate philippine Leona_9_label_ef832bf4:
+
+    # Jacob "Yes, yes. I know of the power hidden in this box."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2237
+translate philippine Leona_9_label_e709e502:
+
+    # Jacob "The Seal of the Lion."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2238
+translate philippine Leona_9_label_e1442edb:
+
+    # Jacob "I finally have it..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2240
+translate philippine Leona_9_label_e1c0d5fb:
+
+    # ch_Name "Now what. What can I do to help?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2241
+translate philippine Leona_9_label_b2419bd4:
+
+    # Jacob "Help? Huh..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2242
+translate philippine Leona_9_label_1882d7e0:
+
+    # ch_Name "What's so funny?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2244
+translate philippine Leona_9_label_ac628930:
+
+    # Jacob "I don't need you anymore."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2245
+translate philippine Leona_9_label_1b67e978:
+
+    # ch_Name "What are you talking about?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2246
+translate philippine Leona_9_label_18bf626b:
+
+    # Jacob "That you're just getting in the way!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2248
+translate philippine Leona_9_label_beab4137:
+
+    # Jacob "And now... I'm going to fix it... I'll fix everything!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2249
+translate philippine Leona_9_label_4ed31efa:
+
+    # ch_Name "Mr. Frollo, what are you doing?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2251
+translate philippine Leona_9_label_44d65db4:
+
+    # Jacob "Petrificus guttur!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2253
+translate philippine Leona_9_label_19d253a1:
+
+    # ch_Name "Ackh... heh..." with vpunch
+    ch_Name "" with vpunch
+
+# game/logic/events/Leona.rpy:2254
+translate philippine Leona_9_label_f5190ddf:
+
+    # ch_Name "{i}(Shit! What's going on? I can't move...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2255
+translate philippine Leona_9_label_6a2b8ef6:
+
+    # ch_Name "{i}(And my throat is constricted so I can't make a sound!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2257
+translate philippine Leona_9_label_4c10386a:
+
+    # Jacob "Thank you. I couldn't have done this without you."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2258
+translate philippine Leona_9_label_fa2a191e:
+
+    # Jacob "Soon, this'll all be over."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2259
+translate philippine Leona_9_label_cfda2d52:
+
+    # Jacob "Don't worry, you're lucky."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2260
+translate philippine Leona_9_label_1fb226ef:
+
+    # Jacob "You'll get to witness everything with your own eyes."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2262
+translate philippine Leona_9_label_e70a68cf:
+
+    # Jacob "With this seal, no one can stop me!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2263
+translate philippine Leona_9_label_fe49f055:
+
+    # Jacob "Today... Arthur and this damned academy die!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2264
+translate philippine Leona_9_label_e5a93e5d:
+
+    # ch_Name "{i}(What the...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2268
+translate philippine Leona_9_label_8446310d:
+
+    # ch_Name "{i}(There's a reason Leona warned me about the dangers of the Seal.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2269
+translate philippine Leona_9_label_4b6038bd:
+
+    # ch_Name "{i}(I shouldn't place it in the wrong hands.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2270
+translate philippine Leona_9_label_eb0c3637:
+
+    # ch_Name "{i}(Even if it's to avenge my parents.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2271
+translate philippine Leona_9_label_7c2fb15a:
+
+    # Jacob "What are you waiting for? Where is the seal?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2273
+translate philippine Leona_9_label_5b32a238:
+
+    # ch_Name "I promised Leona that I would be careful with the seal."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2274
+translate philippine Leona_9_label_19f672d7:
+
+    # ch_Name "I don't think I should hand it over."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2275
+translate philippine Leona_9_label_5b4ee52f:
+
+    # ch_Name "Tell me what needs to be done and I'll do it myself."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2277
+translate philippine Leona_9_label_19e8bbc4:
+
+    # Jacob "So that's what you think, [Name]..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2278
+translate philippine Leona_9_label_08e6397b:
+
+    # Jacob "It's a shame, really."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2279
+translate philippine Leona_9_label_10bd93d4:
+
+    # Jacob "You disappoint me."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2281
+translate philippine Leona_9_label_d8eb2131:
+
+    # Jacob "I don't have time to instruct you. Give me the seal... Now!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2282
+translate philippine Leona_9_label_b66d3f96:
+
+    # ch_Name "No!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2284
+translate philippine Leona_9_label_44d65db4_1:
+
+    # Jacob "Petrificus guttur!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2286
+translate philippine Leona_9_label_f699b0d6:
+
+    # ch_Name "Ahh... ah..." with vpunch
+    ch_Name "" with vpunch
+
+# game/logic/events/Leona.rpy:2287
+translate philippine Leona_9_label_28d0ef50:
+
+    # ch_Name "{i}(Shit! What's happening? I can't move...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2288
+translate philippine Leona_9_label_74c0bb29:
+
+    # ch_Name "{i}(And my throat is so tight that I can't make a sound!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2290
+translate philippine Leona_9_label_80a48530:
+
+    # Jacob "I'm sorry it's come to this, [Name]."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2291
+translate philippine Leona_9_label_ce303d97:
+
+    # Jacob "But I won't let you stand in my way."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2292
+translate philippine Leona_9_label_fe49f055_1:
+
+    # Jacob "Today... Arthur and this damned academy die!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2294
+translate philippine Leona_9_label_e5a93e5d_1:
+
+    # ch_Name "{i}(What the...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2295
+translate philippine Leona_9_label_c806eb22:
+
+    # Jacob "There it is..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2296
+translate philippine Leona_9_label_6ad7496c:
+
+    # Jacob "The Lion's Seal."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2298
+translate philippine Leona_9_label_4c10386a_1:
+
+    # Jacob "Thank you. I couldn't have done this without you."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2299
+translate philippine Leona_9_label_fa2a191e_1:
+
+    # Jacob "Soon, this'll all be over."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2301
+translate philippine Leona_9_label_cfda2d52_1:
+
+    # Jacob "Don't worry, you're lucky."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2302
+translate philippine Leona_9_label_1fb226ef_1:
+
+    # Jacob "You'll get to witness everything with your own eyes."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2303
+translate philippine Leona_9_label_4ee13620:
+
+    # ch_Name "{i}(What's he up to?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2306
+translate philippine Leona_9_label_c5653d9b:
+
+    # ch_Name "{i}(What do you mean, \"the academy will die\"?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2307
+translate philippine Leona_9_label_bc5aebb6:
+
+    # ch_Name "{i}(What is he up to and where is he going?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2308
+translate philippine Leona_9_label_080979a4:
+
+    # ch_Name "{i}(A folio!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2310
+translate philippine Leona_9_label_cd35546c:
+
+    # Jacob "Let's see what we have here..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2311
+translate philippine Leona_9_label_07d7f6b8:
+
+    # Jacob "Yes, I can feel it. The souls of the founders who guard this academy."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2312
+translate philippine Leona_9_label_f2d7cfba:
+
+    # Jacob "They're still here."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2313
+translate philippine Leona_9_label_243984af:
+
+    # Jacob "This is great. They'll serve as an excellent fuel source..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2314
+translate philippine Leona_9_label_42292b2c:
+
+    # ch_Name "{i}(Fuel? He wants to destroy the souls of the founders? Leona...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2316
+translate philippine Leona_9_label_42f6f2a8:
+
+    # Jacob "The seal's starting to vibrate."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2317
+translate philippine Leona_9_label_0f7b927c:
+
+    # Jacob "Do you feel the presence of your maker's soul?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2318
+translate philippine Leona_9_label_920ad080:
+
+    # Jacob "Nothing, it's about to disappear!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2321
+translate philippine Leona_9_label_ffdc9149:
+
+    # Jacob "Audi meipsum, Audi vocationem!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2322
+translate philippine Leona_9_label_018cca83:
+
+    # Jacob "Audi clamor meus!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2323
+translate philippine Leona_9_label_b27c571c:
+
+    # Jacob "Ad mundum!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2324
+translate philippine Leona_9_label_eded4350:
+
+    # Jacob "Nos accipere meum offer!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2326
+translate philippine Leona_9_label_5fbdd514:
+
+    # ch_Name "{i}(What's going on? What's he doing?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2327
+translate philippine Leona_9_label_618b934b:
+
+    # Jacob "Yes... Yes! It works!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2328
+translate philippine Leona_9_label_1a76d732:
+
+    # Jacob "Audi meipsum, Audi vocationem!" with hpunch
+    Jacob "" with hpunch
+
+# game/logic/events/Leona.rpy:2329
+translate philippine Leona_9_label_0c605a25:
+
+    # Jacob "Audi clamor meus! Ad mundum!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2331
+translate philippine Leona_9_label_eded4350_1:
+
+    # Jacob "Nos accipere meum offer!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2332
+translate philippine Leona_9_label_ce98f482:
+
+    # Grace "What's happening?"
+    Grace ""
+
+# game/logic/events/Leona.rpy:2333
+translate philippine Leona_9_label_3ec38c71:
+
+    # Carter "I don't know... Look at the sky!"
+    Carter ""
+
+# game/logic/events/Leona.rpy:2335
+translate philippine Leona_9_label_0bf948f9:
+
+    # Grace "Woah..."
+    Grace ""
+
+# game/logic/events/Leona.rpy:2336
+translate philippine Leona_9_label_4743310e:
+
+    # Joshi "This does not seem right..."
+    Joshi ""
+
+# game/logic/events/Leona.rpy:2343
+translate philippine Leona_9_label_ffdc9149_1:
+
+    # Jacob "Audi meipsum, Audi vocationem!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2344
+translate philippine Leona_9_label_66884446:
+
+    # Jacob "Yes! Come to my call!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2345
+translate philippine Leona_9_label_7b333a64:
+
+    # Jacob "Eat their souls and give me strength!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2348
+translate philippine Leona_9_label_0c605a25_1:
+
+    # Jacob "Audi clamor meus! Ad mundum!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2349
+translate philippine Leona_9_label_c39f9d56:
+
+    # Jacob "AD MUNDUM!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2352
+translate philippine Leona_9_label_e1f821e8:
+
+    # Unknown "Shugg c- k'yarnak!"
+    Unknown ""
+
+# game/logic/events/Leona.rpy:2353
+translate philippine Leona_9_label_85de588e:
+
+    # Jacob "Lord, can you hear me?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2354
+translate philippine Leona_9_label_907632dc:
+
+    # Jacob "Heed my call!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2355
+translate philippine Leona_9_label_973b15c2:
+
+    # Unknown "Y'ai 'ng'ngah..."
+    Unknown ""
+
+# game/logic/events/Leona.rpy:2357
+translate philippine Leona_9_label_4d245a77:
+
+    # ch_Name "{i}(What is happening...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2358
+translate philippine Leona_9_label_13802aa8:
+
+    # ch_Name "{i}(I could have sworn I heard a voice from over there...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2360
+translate philippine Leona_9_label_12db8dee:
+
+    # ch_Name "{i}(Damn, I've got to do something.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2361
+translate philippine Leona_9_label_f84d094b:
+
+    # ch_Name "{i}(But I can't move...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2362
+translate philippine Leona_9_label_c2993be8:
+
+    # ch_Name "{i}(Shit! Shit! Shit!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2363
+translate philippine Leona_9_label_13ee00cb:
+
+    # ch_Name "..." with vpunch
+    ch_Name "" with vpunch
+
+# game/logic/events/Leona.rpy:2364
+translate philippine Leona_9_label_c456cfac:
+
+    # Jacob "AD MUNDUM! AD MUNDUM!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2367
+translate philippine Leona_9_label_ab3d3495:
+
+    # ch_Name "{i}(What the fuck is that?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2368
+translate philippine Leona_9_label_98de187b:
+
+    # Jacob "Yeah! Yeah!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2369
+translate philippine Leona_9_label_4a26bb3d:
+
+    # Victoria "Stop right there!"
+    Victoria ""
+
+# game/logic/events/Leona.rpy:2370
+translate philippine Leona_9_label_d98eaee3:
+
+    # ch_Name "{i}(Victoria? Did I hear that?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2372
+translate philippine Leona_9_label_e7fa0095:
+
+    # Jacob "What?!" with hpunch
+    Jacob "" with hpunch
+
+# game/logic/events/Leona.rpy:2373
+translate philippine Leona_9_label_dd9a413e:
+
+    # Jacob "Who dares interrupt the coming of the lord?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2375
+translate philippine Leona_9_label_87aaaee5:
+
+    # Arthur "What is the meaning of this, Jacob?"
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2376
+translate philippine Leona_9_label_f69e4746:
+
+    # Jacob "You're too late, old man! You can't stop me now!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2377
+translate philippine Leona_9_label_67931f50:
+
+    # Jacob "A new world is coming!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2379
+translate philippine Leona_9_label_141ad34c:
+
+    # Victoria "Mr. [Surname], what are you doing here? Relashio!"
+    Victoria ""
+
+# game/logic/events/Leona.rpy:2380
+translate philippine Leona_9_label_1bc38af5:
+
+    # Victoria "Apprentices have no place in a battle of adult wizards."
+    Victoria ""
+
+# game/logic/events/Leona.rpy:2381
+translate philippine Leona_9_label_fff4a772:
+
+    # Victoria "Leave immediately."
+    Victoria ""
+
+# game/logic/events/Leona.rpy:2383
+translate philippine Leona_9_label_49b062ec:
+
+    # ch_Name "{i}(I can feel my body again. It feels so good.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2384
+translate philippine Leona_9_label_44ea44fa:
+
+    # ch_Name "Whew... Thank you, Miss Lapis."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2385
+translate philippine Leona_9_label_7df9c8e0:
+
+    # ch_Name "{i}(Leave immediately...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2386
+translate philippine Leona_9_label_6b529ac7:
+
+    # ch_Name "{i}(No! I can't run away! It's my fault.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2388
+translate philippine Leona_9_label_18587b20:
+
+    # ch_Name "But I refuse to run away!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2389
+translate philippine Leona_9_label_3c1a164e:
+
+    # ch_Name "I will help you fight!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2390
+translate philippine Leona_9_label_ee49188f:
+
+    # Victoria "No, wait!"
+    Victoria ""
+
+# game/logic/events/Leona.rpy:2392
+translate philippine Leona_9_label_40ab89a5:
+
+    # Jacob "That's so sweet."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2393
+translate philippine Leona_9_label_6249714d:
+
+    # Jacob "But you are but a dust under my feet."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2395
+translate philippine Leona_9_label_8e4b1245:
+
+    # Jacob "Just like your dear teacher."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2396
+translate philippine Leona_9_label_e0f724a3:
+
+    # Jacob "Stay out of my way."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2398
+translate philippine Leona_9_label_f67a89fb:
+
+    # Jacob "Freeze!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2400
+translate philippine Leona_9_label_fee60f2f:
+
+    # ch_Name "{i}(Shit! No...){/i}" with vpunch
+    ch_Name "" with vpunch
+
+# game/logic/events/Leona.rpy:2401
+translate philippine Leona_9_label_725ce6eb:
+
+    # ch_Name "{i}(I can't move again...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2402
+translate philippine Leona_9_label_2dc94bea:
+
+    # ch_Name "{i}(I can't believe I'm so useless...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2404
+translate philippine Leona_9_label_4d9c097a:
+
+    # Victoria "That's it, I'm done! No one raises their hand against my students."
+    Victoria ""
+
+# game/logic/events/Leona.rpy:2405
+translate philippine Leona_9_label_ea090887:
+
+    # Victoria "You're going to regret this!"
+    Victoria ""
+
+# game/logic/events/Leona.rpy:2408
+translate philippine Leona_9_label_422e9de3:
+
+    # Victoria "Incendio!"
+    Victoria ""
+
+# game/logic/events/Leona.rpy:2409
+translate philippine Leona_9_label_20c23bea:
+
+    # Jacob "Is that supposed to scare me?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2410
+translate philippine Leona_9_label_3101fb4d:
+
+    # Victoria "I wouldn't be so calm if I were you."
+    Victoria ""
+
+# game/logic/events/Leona.rpy:2411
+translate philippine Leona_9_label_8b9f0286:
+
+    # Victoria "You've yet to beat me whenever we've spared... or have you forgotten?"
+    Victoria ""
+
+# game/logic/events/Leona.rpy:2413
+translate philippine Leona_9_label_e8680d90:
+
+    # Arthur "I'm sorry it's come to this, Miss Lapis."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2414
+translate philippine Leona_9_label_13e5e54c:
+
+    # Arthur "We have no choice but to teach Mr. Frollo a lesson."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2416
+translate philippine Leona_9_label_1041942d:
+
+    # Arthur "Brace yourselves!"
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2417
+translate philippine Leona_9_label_102a2429:
+
+    # ch_Name "{i}(Whoa, Arthur can control two spells at once? Cool!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2418
+translate philippine Leona_9_label_870f4c2a:
+
+    # Jacob "Hmmm..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2420
+translate philippine Leona_9_label_7309d18d:
+
+    # Jacob "Headmaster, aren't you afraid that your wretched, decrepit body will crumble?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2421
+translate philippine Leona_9_label_b7e23c61:
+
+    # Jacob "If I were you, I'd accept defeat and not embarrass myself."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2423
+translate philippine Leona_9_label_b62afab3:
+
+    # Unknown "Shugg c- k'yarnak!" with vpunch
+    Unknown "" with vpunch
+
+# game/logic/events/Leona.rpy:2425
+translate philippine Leona_9_label_80b4e833:
+
+    # ch_Name "{i}(Whatever is behind that portal is clearly bursting forth...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2426
+translate philippine Leona_9_label_4d71529e:
+
+    # Jacob "Yes, lord."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2427
+translate philippine Leona_9_label_2cc0d8c4:
+
+    # Jacob "Now I will do away with these heretics."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2429
+translate philippine Leona_9_label_0ad86efd:
+
+    # Victoria "Who else is going to do away with who."
+    Victoria ""
+
+# game/logic/events/Leona.rpy:2430
+translate philippine Leona_9_label_90ad5dac:
+
+    # Victoria "I don't know what you're up to, but you're crazy."
+    Victoria ""
+
+# game/logic/events/Leona.rpy:2431
+translate philippine Leona_9_label_42bc8a7e:
+
+    # Victoria "And I will put an end to your nonsense!"
+    Victoria ""
+
+# game/logic/events/Leona.rpy:2432
+translate philippine Leona_9_label_4e0c03db:
+
+    # Victoria "Die!"
+    Victoria ""
+
+# game/logic/events/Leona.rpy:2434
+translate philippine Leona_9_label_b06c8d08:
+
+    # Jacob "Not so fast, darling."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2435
+translate philippine Leona_9_label_35398cdd:
+
+    # Jacob "Maybe I never won a sparring match against you..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2436
+translate philippine Leona_9_label_6574678a:
+
+    # Jacob "But there's something you didn't count on!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2438
+translate philippine Leona_9_label_0a60e8d1:
+
+    # Victoria "What's that?"
+    Victoria ""
+
+# game/logic/events/Leona.rpy:2439
+translate philippine Leona_9_label_495c9710:
+
+    # Victoria "My magic... But..."
+    Victoria ""
+
+# game/logic/events/Leona.rpy:2440
+translate philippine Leona_9_label_4a238fb1:
+
+    # Victoria "Is that the Lion's Seal?! Impossible!"
+    Victoria ""
+
+# game/logic/events/Leona.rpy:2442
+translate philippine Leona_9_label_5d33d604:
+
+    # Victoria "No... It's definitely her."
+    Victoria ""
+
+# game/logic/events/Leona.rpy:2443
+translate philippine Leona_9_label_c459c10f:
+
+    # Victoria "I can't feel my power source..."
+    Victoria ""
+
+# game/logic/events/Leona.rpy:2444
+translate philippine Leona_9_label_a510e381:
+
+    # Victoria "But from where?"
+    Victoria ""
+
+# game/logic/events/Leona.rpy:2447
+translate philippine Leona_9_label_e93b6f0f:
+
+    # Victoria "Argh!" with hpunch
+    Victoria "" with hpunch
+
+# game/logic/events/Leona.rpy:2448
+translate philippine Leona_9_label_e1518376:
+
+    # Jacob "Take that!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2450
+translate philippine Leona_9_label_aaefad1c:
+
+    # ch_Name "{i}(Victoria! No!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2451
+translate philippine Leona_9_label_0e483183:
+
+    # Arthur "Victoria!"
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2453
+translate philippine Leona_9_label_6c8c3545:
+
+    # Jacob "I think I won this sparring match after all."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2454
+translate philippine Leona_9_label_7c53b3b2:
+
+    # Victoria "..."
+    Victoria ""
+
+# game/logic/events/Leona.rpy:2455
+translate philippine Leona_9_label_5aa5be51:
+
+    # Jacob "What a shame. You should have sided with me..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2457
+translate philippine Leona_9_label_05f43c7a:
+
+    # Jacob "No one can beat me with this seal."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2458
+translate philippine Leona_9_label_3dbea4fa:
+
+    # Jacob "Thank you, [Name]..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2460
+translate philippine Leona_9_label_b62afab3_1:
+
+    # Unknown "Shugg c- k'yarnak!" with vpunch
+    Unknown "" with vpunch
+
+# game/logic/events/Leona.rpy:2462
+translate philippine Leona_9_label_d91f5ea3:
+
+    # ch_Name "{i}(The tentacles are getting bigger...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2463
+translate philippine Leona_9_label_162486ea:
+
+    # ch_Name "{i}(If nothing is done, this thing will break loose!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2465
+translate philippine Leona_9_label_63505db2:
+
+    # Jacob "One down..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2466
+translate philippine Leona_9_label_775b77b4:
+
+    # Jacob "Now it's time to deal with you, old man."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2468
+translate philippine Leona_9_label_91d30533:
+
+    # Jacob "What the...?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2469
+translate philippine Leona_9_label_cbb4caa6:
+
+    # Jacob "Where did he go?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2471
+translate philippine Leona_9_label_69d17d9e:
+
+    # Jacob "Are you trying to play hide-and-seek with me?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2472
+translate philippine Leona_9_label_170a960e:
+
+    # Jacob "Or are you running away before it's too late? Huh, Arthur?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2475
+translate philippine Leona_9_label_8529e372:
+
+    # ch_Name "{i}(Headmaster! Wow, what speed...){/i}" with hpunch
+    ch_Name "" with hpunch
+
+# game/logic/events/Leona.rpy:2476
+translate philippine Leona_9_label_cb75444a:
+
+    # Arthur "It's time to put an end to this!"
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2477
+translate philippine Leona_9_label_4eec9990:
+
+    # Jacob "Why, you..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2480
+translate philippine Leona_9_label_f8ec246d:
+
+    # Arthur "You're too young to overpower me!"
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2481
+translate philippine Leona_9_label_1a847e15:
+
+    # Jacob "Argh!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2484
+translate philippine Leona_9_label_113f8dda:
+
+    # Unknown "Bugs yha'h!"
+    Unknown ""
+
+# game/logic/events/Leona.rpy:2485
+translate philippine Leona_9_label_54bb2c5a:
+
+    # Arthur "Whatever you are, get back in the portal!"
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2486
+translate philippine Leona_9_label_75aa71b7:
+
+    # Arthur "You are not welcome in this world!"
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2488
+translate philippine Leona_9_label_685a99b2:
+
+    # ch_Name "{i}(Well, Jacob, did you enjoy getting hit in the face with magic?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2489
+translate philippine Leona_9_label_0ad856e5:
+
+    # ch_Name "{i}(Looks like you underestimated the headmaster. We're saved!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2490
+translate philippine Leona_9_label_1dbcb698:
+
+    # Jacob "Argh..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2492
+translate philippine Leona_9_label_0aa404aa:
+
+    # Jacob "How dare you, you fool!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2493
+translate philippine Leona_9_label_6862e4ec:
+
+    # Jacob "Do you even know who you're talking to?!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2494
+translate philippine Leona_9_label_c2ac4ce5:
+
+    # Jacob "Step away from the portal!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2495
+translate philippine Leona_9_label_8019d8be:
+
+    # Arthur "I don't know, but you're going to help me close it..."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2497
+translate philippine Leona_9_label_dc544b82:
+
+    # Jacob "No way!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2498
+translate philippine Leona_9_label_38fa159f:
+
+    # Arthur "It's not a request, it's an order, Jacob."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2499
+translate philippine Leona_9_label_4c053d9d:
+
+    # Arthur "You've done too many stupid things already."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2502
+translate philippine Leona_9_label_a3a7f066:
+
+    # Arthur "Don't make me go to extremes."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2503
+translate philippine Leona_9_label_f0011581:
+
+    # Jacob "You're too soft-hearted, you won't do it!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2504
+translate philippine Leona_9_label_623deed5:
+
+    # Arthur "You leave me no choice..."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2506
+translate philippine Leona_9_label_c0743df1:
+
+    # Arthur "I'll do what needs to be done."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2507
+translate philippine Leona_9_label_ce6d4f1f:
+
+    # Jacob "No! I beg you!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2509
+translate philippine Leona_9_label_bddb468e:
+
+    # Jacob "Is that what you expected to hear, you old fool?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2510
+translate philippine Leona_9_label_45e70db6:
+
+    # Jacob "You are insignificant in the face of my master's will!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2512
+translate philippine Leona_9_label_fc0f1aa3:
+
+    # Arthur "Your madness is driving you insane."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2513
+translate philippine Leona_9_label_4c70936c:
+
+    # Arthur "I'm sorry your life will end like this."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2514
+translate philippine Leona_9_label_46f5a279:
+
+    # Arthur "Goodbye, Jacob."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2516
+translate philippine Leona_9_label_2355be9d:
+
+    # Arthur "What..."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2517
+translate philippine Leona_9_label_13933ce1:
+
+    # Arthur "But when did you make it?"
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2519
+translate philippine Leona_9_label_5011daf0:
+
+    # Jacob "I'm sorry, was I supposed to lie still and wait to die while you proselytize?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2520
+translate philippine Leona_9_label_3ddf919f:
+
+    # Jacob "Your kindness and faith in others... weakens you like any other poison."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2521
+translate philippine Leona_9_label_7828ad39:
+
+    # Jacob "You've grown too soft with age, Arthur."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2522
+translate philippine Leona_9_label_9c840797:
+
+    # Jacob "And now your blood will be the key to the release of the Keeper!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2524
+translate philippine Leona_9_label_e9a16a12:
+
+    # ch_Name "{i}(Oh no, Arthur is powerless too...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2525
+translate philippine Leona_9_label_d8d50944:
+
+    # ch_Name "{i}(What's happening? What's Jacob going to do?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2527
+translate philippine Leona_9_label_2e7b0f87:
+
+    # Jacob "I could lie, claiming it'll be quick and painless..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2528
+translate philippine Leona_9_label_f8c36844:
+
+    # Jacob "But the more you suffer, the more fun it'll be for me."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2529
+translate philippine Leona_9_label_71e49444:
+
+    # Jacob "Now get ready to bleed... slowly and painfully..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2531
+translate philippine Leona_9_label_55472951:
+
+    # ch_Name "{i}(Will they all die...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2532
+translate philippine Leona_9_label_b18d8288:
+
+    # ch_Name "{i}(All because of me!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2533
+translate philippine Leona_9_label_5c487b67:
+
+    # ch_Name "{i}(If only I'd listened to Leona. If only I hadn't been so stupid...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2534
+translate philippine Leona_9_label_867af075:
+
+    # ch_Name "{i}(And so useless...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2535
+translate philippine Leona_9_label_467922ae:
+
+    # Leona "{i}(Only you decide your own fate.){/i}"
+    Leona ""
+
+# game/logic/events/Leona.rpy:2536
+translate philippine Leona_9_label_4e0c9295:
+
+    # ch_Name "{i}(Leona? But what can I...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2537
+translate philippine Leona_9_label_c0cf853b:
+
+    # Leona "{i}(I chose you because I believe in you.){/i}"
+    Leona ""
+
+# game/logic/events/Leona.rpy:2538
+translate philippine Leona_9_label_0ae88935:
+
+    # Leona "{i}(Believe in yourself and you...){/i}"
+    Leona ""
+
+# game/logic/events/Leona.rpy:2539
+translate philippine Leona_9_label_503cf917:
+
+    # ch_Name "{i}(But I...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2541
+translate philippine Leona_9_label_1e94b372:
+
+    # Jacob "Your blood shall be food for my lord, old man!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2542
+translate philippine Leona_9_label_3e77341e:
+
+    # Jacob "And he'll level this academy to build his temple in its place!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2543
+translate philippine Leona_9_label_182e1ddb:
+
+    # Jacob "We will take Dale... then America, and finally, the rest of the world!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2544
+translate philippine Leona_9_label_7a2d8772:
+
+    # ch_Name "{i}(No way... I can't let him do that!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2546
+translate philippine Leona_9_label_03a0fe0a:
+
+    # ch_Name "{i}(Damn this paralysis! I refuse to just stand by and watch this happen!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2547
+translate philippine Leona_9_label_635771f4:
+
+    # ch_Name "{i}(I REFUSE TO BE USELESS!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2549
+translate philippine Leona_9_label_f27a05fa:
+
+    # ch_Name "{i}(It worked! I can't believe it...){/i}" with vpunch
+    ch_Name "" with vpunch
+
+# game/logic/events/Leona.rpy:2550
+translate philippine Leona_9_label_83a3639e:
+
+    # ch_Name "{i}(No! No time to wonder. Gotta help Arthur!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2552
+translate philippine Leona_9_label_0f06bf12:
+
+    # Jacob "... And when the Overlord consumes this world, we'll go to the next!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2553
+translate philippine Leona_9_label_b2f35dd0:
+
+    # ch_Name "Not so fast, asshole!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2555
+translate philippine Leona_9_label_7db1127b:
+
+    # Jacob "What do you mean...?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2556
+translate philippine Leona_9_label_a742f6d9:
+
+    # Jacob "You pesky fly!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2558
+translate philippine Leona_9_label_ee408d1c:
+
+    # ch_Name "I may be a fly."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2559
+translate philippine Leona_9_label_1f1bfbb4:
+
+    # ch_Name "But you won't catch me at that trick again!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2560
+translate philippine Leona_9_label_f5bcb591:
+
+    # Jacob "Let go of me! Let go of my hand!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2562
+translate philippine Leona_9_label_05328130:
+
+    # ch_Name "Taste it for yourself!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2563
+translate philippine Leona_9_label_e0ee3211:
+
+    # Jacob "No-o-o-o-o-o-o-o-o-o-o-o-o-o-o!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2565
+translate philippine Leona_9_label_c10217bf:
+
+    # ch_Name "Take that!" with vpunch
+    ch_Name "" with vpunch
+
+# game/logic/events/Leona.rpy:2567
+translate philippine Leona_9_label_0dd17511:
+
+    # Jacob "What have you done?!"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2568
+translate philippine Leona_9_label_aa67983a:
+
+    # Jacob "How dare you?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2569
+translate philippine Leona_9_label_236089c8:
+
+    # Unknown "Bu... mg- Fhtagn!"
+    Unknown ""
+
+# game/logic/events/Leona.rpy:2572
+translate philippine Leona_9_label_b6c4ae7f:
+
+    # Jacob "Overlord!" with vpunch
+    Jacob "" with vpunch
+
+# game/logic/events/Leona.rpy:2573
+translate philippine Leona_9_label_d141d4d7:
+
+    # ch_Name "{i}(The portal is shrinking! I did it!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2574
+translate philippine Leona_9_label_1d733184:
+
+    # ch_Name "It seems you have lost, Frollo."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2575
+translate philippine Leona_9_label_c185f858:
+
+    # Jacob "..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2577
+translate philippine Leona_9_label_1dbcb698_1:
+
+    # Jacob "Argh..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2578
+translate philippine Leona_9_label_4ad93cbe:
+
+    # ch_Name "Jacob? What's happening?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2579
+translate philippine Leona_9_label_960a9f8a:
+
+    # Arthur "The servant of darkness that Jacob was possessed by is leaving his body."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2581
+translate philippine Leona_9_label_46e9d980:
+
+    # Arthur "You cast him out of this world."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2582
+translate philippine Leona_9_label_4305df15:
+
+    # Arthur "Good job, [Name]!"
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2583
+translate philippine Leona_9_label_ff466a35:
+
+    # ch_Name "Uh, I don't feel so good..."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2585
+translate philippine Leona_9_label_537c9423:
+
+    # Arthur "[Name], what's wrong with you?!" with vpunch
+    Arthur "" with vpunch
+
+# game/logic/events/Leona.rpy:2586
+translate philippine Leona_9_label_905116b9:
+
+    # Arthur "[Name]! [Name]!"
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2587
+translate philippine Leona_9_label_d19cc2ca:
+
+    # Arthur "Poor boy..."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2598
+translate philippine Leona_9_label_03b04278:
+
+    # ch_Name "{i}(Uh... What's wrong with me... How did I end up in my room?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2599
+translate philippine Leona_9_label_381f855c:
+
+    # ch_Name "{i}(What a pain.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2600
+translate philippine Leona_9_label_9c0aca13:
+
+    # ch_Name "Headmaster... is that you?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2602
+translate philippine Leona_9_label_8e5682c5:
+
+    # Arthur "Ah, you're finally awake! I knew you'd be all right."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2603
+translate philippine Leona_9_label_ac74cbda:
+
+    # Arthur "A strong young body isn't so easy to beat, is it?"
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2604
+translate philippine Leona_9_label_513b81c2:
+
+    # ch_Name "I suppose... Miss Lapis, is she all right?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2606
+translate philippine Leona_9_label_e4ac5f80:
+
+    # Arthur "Don't you worry. Victoria's already got her strength back."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2607
+translate philippine Leona_9_label_a930521f:
+
+    # Arthur "She's managed only a few scrapes and a bruised pride."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2608
+translate philippine Leona_9_label_da1af040:
+
+    # Arthur "Nothing time can't cure."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2610
+translate philippine Leona_9_label_2130878f:
+
+    # ch_Name "And Jacob..."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2611
+translate philippine Leona_9_label_eecc0912:
+
+    # ch_Name "What about him?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2612
+translate philippine Leona_9_label_7f4d8e99:
+
+    # Arthur "Oh, it's not that simple..."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2614
+translate philippine Leona_9_label_3cd91058:
+
+    # Arthur "His body carried too much of the demon's soul."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2615
+translate philippine Leona_9_label_669b6efe:
+
+    # Arthur "He's awake now, but he doesn't remember much."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2616
+translate philippine Leona_9_label_2281342c:
+
+    # Arthur "And there's no telling whether he'll be able to recover his memories."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2617
+translate philippine Leona_9_label_220465c0:
+
+    # Arthur "I've allowed him to get back to "
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2618
+translate philippine Leona_9_label_7a29e075:
+
+    # ch_Name "He used me... He lied about knowing my parents."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2619
+translate philippine Leona_9_label_f8c3675c:
+
+    # Arthur "That's not a lie. He'll tell you the truth when he's ready."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2620
+translate philippine Leona_9_label_44ae8a5d:
+
+    # Arthur "But give him some time to recover."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2621
+translate philippine Leona_9_label_7e514734:
+
+    # Arthur "For now, I allowed him to come back to curate the duels."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2622
+translate philippine Leona_9_label_9dbdf0a6:
+
+    # Arthur "But he is suspended from giving classes to senior students."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2623
+translate philippine Leona_9_label_9ef42bce:
+
+    # Arthur "It will do him good. Less stress."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2624
+translate philippine Leona_9_label_950a0fe0:
+
+    # Arthur "It's better if we don't remind him about recent events just yet."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2626
+translate philippine Leona_9_label_f9d88f42:
+
+    # Arthur "And also, [Name]... What you did back there in the hall."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2627
+translate philippine Leona_9_label_18049da0:
+
+    # Arthur "That was the act of a true hero."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2628
+translate philippine Leona_9_label_30056229:
+
+    # Arthur "You saved not only my life, but hundreds, thousands of others..."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2629
+translate philippine Leona_9_label_fb1e63c3:
+
+    # Arthur "Which makes it all the harder for me to ask you to keep that story a secret."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2631
+translate philippine Leona_9_label_a819b744:
+
+    # ch_Name "A secret? But why?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2632
+translate philippine Leona_9_label_ef10f1e7:
+
+    # Arthur "It would be too hard to explain what happened."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2633
+translate philippine Leona_9_label_d56920f4:
+
+    # Arthur "Jacob shouldn't suffer any more than he already has... He's a victim in this as well."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2634
+translate philippine Leona_9_label_3572a2b6:
+
+    # Arthur "Can I count on your silence?"
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2636
+translate philippine Leona_9_label_78ecbd76:
+
+    # ch_Name "Sure, I'd like to brag about it to the girls..."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2637
+translate philippine Leona_9_label_cbd1aa08:
+
+    # ch_Name "But I know what you mean. You can count on me to keep my mouth shut."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2638
+translate philippine Leona_9_label_a0980e6e:
+
+    # Arthur "That's great. I knew you'd make the right decision."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2640
+translate philippine Leona_9_label_3df5a692:
+
+    # Arthur "Well, I don't want to bore you with my senile speeches."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2641
+translate philippine Leona_9_label_9d2fc3e1:
+
+    # Arthur "Get your strength back and get some rest."
+    Arthur ""
+
+# game/logic/events/Leona.rpy:2642
+translate philippine Leona_9_label_f4e69269:
+
+    # ch_Name "Thank you, Headmaster."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2644
+translate philippine Leona_9_label_797f035c:
+
+    # ch_Name "{i}(I can't believe the Headmaster doesn't want me to talk about what happened.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2645
+translate philippine Leona_9_label_1f276544:
+
+    # ch_Name "{i}(But maybe Jacob really doesn't deserve to be treated that way.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2646
+translate philippine Leona_9_label_5803bf4e:
+
+    # ch_Name "{i}(I'll have to pay him a visit and find out the truth about my parents.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2655
+translate philippine Leona_9_label_537f9f24:
+
+    # ch_Name "{i}(Oh, I wish I could tell someone about my adventures...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2656
+translate philippine Leona_9_label_cdb61e2f:
+
+    # ch_Name "{i}(I'm sure Haley, Samantha and Lily would be proud of me...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2657
+translate philippine Leona_9_label_6bdc0c3e:
+
+    # ch_Name "{i}(But Arthur's right, it could ruin Jacob's life.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2659
+translate philippine Leona_9_label_fe17f769:
+
+    # ch_Name "{i}(I should heed the principal's words and keep it a secret.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2660
+translate philippine Leona_9_label_f11e9275:
+
+    # ch_Name "{i}(But how do I keep my mouth shut?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2661
+translate philippine Leona_9_label_ab30896b:
+
+    # ch_Name "{i}(I know!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2663
+translate philippine Leona_9_label_7f8ae878:
+
+    # ch_Name "{i}(I'm going to have a chat with someone so unpleasant...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2664
+translate philippine Leona_9_label_11cf24bd:
+
+    # ch_Name "{i}(...that even possessed Jacob seems cute compared to her.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2671
+translate philippine Leona_9_label_8e6cef39:
+
+    # ch_Name "{i}(I hope Audrey hasn't left for class yet.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2672
+translate philippine Leona_9_label_aa67b41c:
+
+    # ch_Name "{i}(If I'm right, she should be...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2680
+translate philippine Leona_10_label_340f7938:
+
+    # ch_Name "{i}(How strange to see Jacob standing there.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2681
+translate philippine Leona_10_label_ec58bce4:
+
+    # ch_Name "{i}(As if nothing had happened.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2682
+translate philippine Leona_10_label_36daa6e1:
+
+    # ch_Name "{i}(My palms are clenching into fists in anger...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2684
+translate philippine Leona_10_label_d0b0f4f0:
+
+    # ch_Name "{i}(I'd just as soon tell him to his face what I think of him...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2685
+translate philippine Leona_10_label_f5531cb3:
+
+    # ch_Name "{i}(No, that's not why I'm here.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2686
+translate philippine Leona_10_label_088084d5:
+
+    # ch_Name "{i}(Arthur said that now Jacob would tell me the truth about my parents.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2687
+translate philippine Leona_10_label_ebd8ab27:
+
+    # ch_Name "{i}(And I won't rest until I know it.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2690
+translate philippine Leona_10_label_2b0d25a0:
+
+    # Jacob "Ehm, [Name]... I mean, mister [Surname]. How may I help you?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2691
+translate philippine Leona_10_label_fa668c70:
+
+    # Jacob "I vaguely remember what happened. But..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2692
+translate philippine Leona_10_label_c905561b:
+
+    # Jacob "I'm sorry."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2693
+translate philippine Leona_10_label_89467853:
+
+    # ch_Name "Save it. I'm not here to throw rocks at you."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2695
+translate philippine Leona_10_label_00961f2f:
+
+    # Jacob "No?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2696
+translate philippine Leona_10_label_397796af:
+
+    # Jacob "Then what was it for?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2697
+translate philippine Leona_10_label_735bdf04:
+
+    # ch_Name "You lied about my parents, didn't you?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2698
+translate philippine Leona_10_label_d35f1ab9:
+
+    # ch_Name "But you know the truth. And I want to hear it."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2700
+translate philippine Leona_10_label_f25678b8:
+
+    # Jacob "I... I was afraid you're going to ask this question."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2701
+translate philippine Leona_10_label_b76c7a74:
+
+    # Jacob "But I guess I owe you a truth after all that happened."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2702
+translate philippine Leona_10_label_785e8e01:
+
+    # ch_Name "I guess so, too."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2703
+translate philippine Leona_10_label_a9bc78aa:
+
+    # ch_Name "Start talking."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2705
+translate philippine Leona_10_label_bbb80c2b:
+
+    # Jacob "Oh..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2706
+translate philippine Leona_10_label_4307b109:
+
+    # Jacob "Let me get my thoughts together. It's not an easy subject. For both of us."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2707
+translate philippine Leona_10_label_39ca4a63:
+
+    # Jacob "I'm afraid this story may be worse than you think..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2709
+translate philippine Leona_10_label_d3fc8c95:
+
+    # ch_Name "Mister Frollo, listen..."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2710
+translate philippine Leona_10_label_f306ea32:
+
+    # ch_Name "{i}(I don't even know what to say... I didn't expect him to react so stormy.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2711
+translate philippine Leona_10_label_024df5b9:
+
+    # ch_Name "{i}(Is he so ashamed that he almost killed me?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2712
+translate philippine Leona_10_label_4ab4f869:
+
+    # ch_Name "{i}(No, it's something else...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2714
+translate philippine Leona_10_label_208e1ffb:
+
+    # ch_Name "I don't know what the story is that you're reacting that way."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2715
+translate philippine Leona_10_label_0310ec73:
+
+    # ch_Name "But whoever my parents were, I deserve to know the truth."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2717
+translate philippine Leona_10_label_45145b9b:
+
+    # ch_Name "Especially after everything I've been through because of you."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2718
+translate philippine Leona_10_label_b9f6ce61:
+
+    # ch_Name "I think I can handle any story."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2719
+translate philippine Leona_10_label_7dee1b18:
+
+    # ch_Name "So, please, tell me about them."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2721
+translate philippine Leona_10_label_b8b527b8:
+
+    # Jacob "Of course, you're right..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2722
+translate philippine Leona_10_label_d3ad7ca9:
+
+    # Jacob "But this story directly affects me."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2723
+translate philippine Leona_10_label_d2c15ca2:
+
+    # Jacob "And the more I think about it, the harder it is to remember..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2724
+translate philippine Leona_10_label_01fc273e:
+
+    # ch_Name "You have to push yourself."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2726
+translate philippine Leona_10_label_1b07cfa6:
+
+    # Jacob "It's a long story..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2727
+translate philippine Leona_10_label_db0aeba1:
+
+    # ch_Name "I have time."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2728
+translate philippine Leona_10_label_2024453f:
+
+    # Jacob "Well..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2729
+translate philippine Leona_10_label_04520b11:
+
+    # Jacob "Then let's arrange a time during the week..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2731
+translate philippine Leona_10_label_61d549fb:
+
+    # ch_Name "No way, Mr. Frollo."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2732
+translate philippine Leona_10_label_8db0163a:
+
+    # ch_Name "You can't do this to me."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2733
+translate philippine Leona_10_label_c5e2b625:
+
+    # ch_Name "You promised me the truth and you will give it to me. Now."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2735
+translate philippine Leona_10_label_7730b0a9:
+
+    # Jacob "All right. All right, uh... But not here."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2736
+translate philippine Leona_10_label_c26a6b33:
+
+    # Jacob "Follow me."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2737
+translate philippine Leona_10_label_163a3282:
+
+    # ch_Name "Your room?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2738
+translate philippine Leona_10_label_9b15ac6a:
+
+    # Jacob "No one will bother us there."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2739
+translate philippine Leona_10_label_51e4f673:
+
+    # ch_Name "Okay. Lead the way."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2741
+translate philippine Leona_10_label_6d4afa3d:
+
+    # ch_Name "{i}(I hope this isn't another trick.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2742
+translate philippine Leona_10_label_96db023e:
+
+    # ch_Name "{i}(How strange. Last time he led me up this staircase in a cloak and mask...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2743
+translate philippine Leona_10_label_29cdc5a6:
+
+    # ch_Name "{i}(And now it's like he's naked. Vulnerable. At least it seems that way.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2750
+translate philippine Leona_10_label_f1fecf9b:
+
+    # ch_Name "{i}(Jacob's room hasn't changed at all since last time.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2751
+translate philippine Leona_10_label_b9e4316a:
+
+    # ch_Name "{i}(Except it lacks that spooky, mystical atmosphere.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2752
+translate philippine Leona_10_label_519601be:
+
+    # ch_Name "{i}(Last time, this is where he convinced me that Arthur killed my parents...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2753
+translate philippine Leona_10_label_08753cc2:
+
+    # ch_Name "{i}(Symbolically, this is where I learn the truth about them. Finally.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2755
+translate philippine Leona_10_label_b0894cf5:
+
+    # Jacob "Have a seat, [Name]."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2756
+translate philippine Leona_10_label_d68d4e54:
+
+    # Jacob "Like I said, it's going to be a long story."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2757
+translate philippine Leona_10_label_cb98e895:
+
+    # ch_Name "Okay."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2759
+translate philippine Leona_10_label_74db1b4b:
+
+    # Jacob "Sorry about the mess. My memories are very tangled."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2760
+translate philippine Leona_10_label_262b0c09:
+
+    # Jacob "I've been studying my stuff all over again. Studying myself..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2761
+translate philippine Leona_10_label_78b57c24:
+
+    # ch_Name "It's fine, by my standards it's perfect cleanliness, sir."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2763
+translate philippine Leona_10_label_38003d9a:
+
+    # ch_Name "{i}(Whiskey? Well, if it helps him calm down and tell his story.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2764
+translate philippine Leona_10_label_8cf5c29d:
+
+    # ch_Name "{i}(But why two glasses? Suspicious...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2765
+translate philippine Leona_10_label_9837f0e7:
+
+    # ch_Name "{i}(Maybe it's just hospitality? But, I don't know...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2767
+translate philippine Leona_10_label_bc369896:
+
+    # Jacob "I hope you don't mind... My throat is dry."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2768
+translate philippine Leona_10_label_b58cc4d2:
+
+    # ch_Name "No problem. Anything to make it more comfortable for you."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2769
+translate philippine Leona_10_label_200ff27f:
+
+    # Jacob "Thank you."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2771
+translate philippine Leona_10_label_0e79bf06:
+
+    # Jacob "I used to be good with whiskey."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2772
+translate philippine Leona_10_label_2f3abb75:
+
+    # Jacob "But now I can barely smell it..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2774
+translate philippine Leona_10_label_183f68f2:
+
+    # Jacob "But the label says it's quality."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2775
+translate philippine Leona_10_label_e33792a7:
+
+    # Jacob "Let's see, how does it taste?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2777
+translate philippine Leona_10_label_4239230b:
+
+    # ch_Name "{i}(Just as I thought, he suggests I take a glass...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2778
+translate philippine Leona_10_label_b6f233fa:
+
+    # ch_Name "{i}(But can I trust him?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2783
+translate philippine Leona_10_label_13622f1c:
+
+    # ch_Name "{i}(Come on, why would he poison me? That's crazy.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2784
+translate philippine Leona_10_label_c0e347f4:
+
+    # ch_Name "{i}(What could possibly go wrong?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2786
+translate philippine Leona_10_label_4dbb74fb:
+
+    # ch_Name "I'd love to."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2787
+translate philippine Leona_10_label_9e4945b2:
+
+    # ch_Name "But I'm not sure I can help evaluate it."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2788
+translate philippine Leona_10_label_834c07a7:
+
+    # ch_Name "I don't really know much about whiskey."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2790
+translate philippine Leona_10_label_1619b985:
+
+    # Jacob "Heh, that's okay."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2791
+translate philippine Leona_10_label_2552c924:
+
+    # Jacob "It's simple. You have to taste the aftertaste."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2792
+translate philippine Leona_10_label_c78470ec:
+
+    # Jacob "What shall we drink to?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2793
+translate philippine Leona_10_label_5d07a9bd:
+
+    # ch_Name "The truth."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2794
+translate philippine Leona_10_label_f30f9bc8:
+
+    # Jacob "That's a good toast."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2798
+translate philippine Leona_10_label_b8d62fac:
+
+    # ch_Name "{i}(Not even considering Arthur's words...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2799
+translate philippine Leona_10_label_6c80b6c6:
+
+    # ch_Name "{i}(I'm not ready to blindly trust Jacob a second time.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2801
+translate philippine Leona_10_label_473350ff:
+
+    # ch_Name "Thanks. But I don't drink"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2802
+translate philippine Leona_10_label_bb442d5a:
+
+    # ch_Name "I'm an athlete. You know that."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2803
+translate philippine Leona_10_label_37f1b43d:
+
+    # ch_Name "But feel free to drink in front of me."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2805
+translate philippine Leona_10_label_5b9dc306:
+
+    # Jacob "Oh... (chuckles) Yeah, well..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2806
+translate philippine Leona_10_label_0fcc2c35:
+
+    # Jacob "Athlete. Heh. Oh, well, I won't insist."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2807
+translate philippine Leona_10_label_c01db0a6:
+
+    # Jacob "I know you won't believe me, but I have no reason to poison you."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2808
+translate philippine Leona_10_label_72297a83:
+
+    # ch_Name "{i}(I guess I'm not lying very convincingly.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2809
+translate philippine Leona_10_label_9bc28c99:
+
+    # ch_Name "I trust you. Just not 100%%."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2812
+translate philippine Leona_10_label_cbc65fd5:
+
+    # Jacob "Okay, well..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2813
+translate philippine Leona_10_label_22f7a3f2:
+
+    # ch_Name "I think it's time to start talking."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2814
+translate philippine Leona_10_label_bf04c907:
+
+    # Jacob "One second."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2816
+translate philippine Leona_10_label_5d752cf9:
+
+    # ch_Name "{i}(Whoa...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2817
+translate philippine Leona_10_label_e084c144:
+
+    # ch_Name "{i}(The whole glass in one go? Wow...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2818
+translate philippine Leona_10_label_0fec771f:
+
+    # ch_Name "{i}(He's either very cool or very nervous...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2819
+translate philippine Leona_10_label_d2cb7750:
+
+    # ch_Name "Um... Is everything okay?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2821
+translate philippine Leona_10_label_180f5a7d:
+
+    # Jacob "Yes. [Name], you wanted to know about your parents."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2822
+translate philippine Leona_10_label_127b87db:
+
+    # Jacob "So now I'll tell you the story of your birth."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2823
+translate philippine Leona_10_label_1f255ad4:
+
+    # Jacob "Only now, many years later, freed from the demon's influence."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2824
+translate philippine Leona_10_label_a49d3b31:
+
+    # Jacob "I was able to put the pieces of my memories together."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2825
+translate philippine Leona_10_label_67daa766:
+
+    # Jacob "And remember how it all happened..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2832
+translate philippine Leona_10_label_f80514f1:
+
+    # Jacob "It was 18 years ago..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2833
+translate philippine Leona_10_label_25047975:
+
+    # Jacob "I'd finished working for the Ministry of Magic..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2834
+translate philippine Leona_10_label_104ef5d1:
+
+    # Jacob "I got a job at Cordale as a Defense Against the Dark Powers instructor."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2835
+translate philippine Leona_10_label_48c0642f:
+
+    # Jacob "I think it was my second or third month on the job."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2837
+translate philippine Leona_10_label_0cfe6f72:
+
+    # Jacob "As you can see, the Zaiwu are much smaller than the mighty Zouwu."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2838
+translate philippine Leona_10_label_3ecfbda4:
+
+    # Jacob "And can sometimes move on their hind legs."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2839
+translate philippine Leona_10_label_33570d93:
+
+    # Jacob "That makes them much faster. Because of this, the tactics to defend against them..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2840
+translate philippine Leona_10_label_1d9f63b5:
+
+    # Jacob "...are radically different. We'll discuss it in more detail in the next class."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2842
+translate philippine Leona_10_label_7f517a3f:
+
+    # Jacob "After the first class, I was getting ready for the next group of students as usual."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2843
+translate philippine Leona_10_label_3d5c072a:
+
+    # Jacob "That year my observations and comments were included in the textbooks."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2844
+translate philippine Leona_10_label_1c144003:
+
+    # Jacob "And I was very proud of that."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2846
+translate philippine Leona_10_label_48ef440a:
+
+    # Jacob "But I was distracted by a ringing and unusually melodious voice."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2847
+translate philippine Leona_10_label_f5fbde3c:
+
+    # Jacob "When I turned around, I realized that there was no one left in the class..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2848
+translate philippine Leona_10_label_370b1625:
+
+    # Jacob "Except me and Leonheart's student. A sophomore, Sarah [Surname]."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2850
+translate philippine Leona_10_label_dac31059:
+
+    # Jacob "She was waiting for everyone to leave so she could talk to me."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2851
+translate philippine Leona_10_label_49630e15:
+
+    # Jacob "I don't know, maybe she didn't want the other students to see."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2852
+translate philippine Leona_10_label_b2d2a5b9:
+
+    # Jacob "Or maybe she just didn't want to distract me while I was fiddling with the table..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2854
+translate philippine Leona_10_label_8b3a7670:
+
+    # Jacob "Anyway, she started talking."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2855
+translate philippine Leona_10_label_f42fb491:
+
+    # Jacob "She was so interested in the subject that she couldn't wait until the next class."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2856
+translate philippine Leona_10_label_b4c4ebcb:
+
+    # Jacob "Heh, she pelted me with questions so that all I could do was mumble confusedly."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2857
+translate philippine Leona_10_label_6fb6583b:
+
+    # Jacob "A couple of times I had to guffaw. But she seemed to enjoy it."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2859
+translate philippine Leona_10_label_1beef76b:
+
+    # Jacob "One thing led to another, and she beat it out of me, promising to study the subject in more detail."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2860
+translate philippine Leona_10_label_720a8bc5:
+
+    # Jacob "Together."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2861
+translate philippine Leona_10_label_915a10dc:
+
+    # Jacob "So we agreed to study more. At the library."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2863
+translate philippine Leona_10_label_a8474516:
+
+    # Jacob "I was over the moon. Such zeal is what I went into teaching for."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2864
+translate philippine Leona_10_label_5ae9cea1:
+
+    # Jacob "But more importantly..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2865
+translate philippine Leona_10_label_4f09cec7:
+
+    # Jacob "She was the first person I got along so well with."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2872
+translate philippine Leona_10_label_0d3f3a37:
+
+    # Jacob "We spent weeks of evenings in the library, studying books on protective magic."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2873
+translate philippine Leona_10_label_33597254:
+
+    # Jacob "We studied them from cover to cover, taking notes, debating."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2874
+translate philippine Leona_10_label_afb4e0a6:
+
+    # Jacob "Even though I was the teacher and she was the student..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2875
+translate philippine Leona_10_label_3a0fd6b5:
+
+    # Jacob "She was not at all inferior to me in her knowledge or in her willingness to defend her opinion."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2876
+translate philippine Leona_10_label_8cfa1394:
+
+    # Jacob "And there was another spark in the fire of heated arguments..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2878
+translate philippine Leona_10_label_8d2eb7c7:
+
+    # Jacob "We fell in love."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2879
+translate philippine Leona_10_label_e5a93e5d:
+
+    # ch_Name "{i}(What the...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2880
+translate philippine Leona_10_label_ebc8c81e:
+
+    # Jacob "We didn't realize it right away."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2882
+translate philippine Leona_10_label_ff72b0ec:
+
+    # Jacob "But more and more often, our eyes didn't linger on books."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2883
+translate philippine Leona_10_label_3e1d1471:
+
+    # Jacob "But on each other."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2884
+translate philippine Leona_10_label_b06da8c1:
+
+    # Jacob "And more and more often, the topic of conversation was not protective barriers..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2891
+translate philippine Leona_10_label_567f6215:
+
+    # Jacob "The teacher-student relationship was always judgmental."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2892
+translate philippine Leona_10_label_41e99db0:
+
+    # Jacob "So we could only be ourselves in the magic forest."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2893
+translate philippine Leona_10_label_a2eebd03:
+
+    # Jacob "Every chance we got, we'd run there..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2895
+translate philippine Leona_10_label_78dc446f:
+
+    # Jacob "I'd pick her wildflowers..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2896
+translate philippine Leona_10_label_0fe5295c:
+
+    # Jacob "She made incredibly delicious sandwiches..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2897
+translate philippine Leona_10_label_80f50345:
+
+    # Jacob "I'd read drafts of my research papers on barrier spells."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2898
+translate philippine Leona_10_label_68f10330:
+
+    # Jacob "And she was reading me her poems."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2900
+translate philippine Leona_10_label_1ec0fb10:
+
+    # Jacob "Before I met her, all I thought about was work."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2901
+translate philippine Leona_10_label_ab29d881:
+
+    # Jacob "But Sarah taught me to love life."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2902
+translate philippine Leona_10_label_e487f5f2:
+
+    # Jacob "And to enjoy even the little things, like watching the clouds."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2909
+translate philippine Leona_10_label_13ace727:
+
+    # Jacob "Just a second, I need to refill my drink..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2910
+translate philippine Leona_10_label_b2c4d0ed:
+
+    # Jacob "I think you already guessed that, didn't you?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2911
+translate philippine Leona_10_label_240758af:
+
+    # ch_Name "Jacob... Are you saying that you..."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:2912
+translate philippine Leona_10_label_92b6df6f:
+
+    # Jacob "Yes... But let me finish the story."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2919
+translate philippine Leona_10_label_88ee1058:
+
+    # Jacob "Sarah may have taught me to love life, but I already had a passion."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2920
+translate philippine Leona_10_label_ff854c4d:
+
+    # Jacob "I believed I could write a new page in the history of barrier magic."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2921
+translate philippine Leona_10_label_8861cc8a:
+
+    # Jacob "And I never gave up on my research. Not for a day."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2922
+translate philippine Leona_10_label_9359cc31:
+
+    # Jacob "That day, I walked Sarah to campus."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2923
+translate philippine Leona_10_label_9d567381:
+
+    # Jacob "Even went inside, even though we risked being seen together."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2925
+translate philippine Leona_10_label_e4f246d0:
+
+    # Jacob "Then I headed to my lab."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2926
+translate philippine Leona_10_label_5e770558:
+
+    # Jacob "I needed a quiet place where I could test the new spell."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2927
+translate philippine Leona_10_label_9839e2d8:
+
+    # Jacob "And I didn't want to make too much noise and attract the director's attention."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2928
+translate philippine Leona_10_label_546eb157:
+
+    # Jacob "So I found a suitable abandoned building. Not far from the academy."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2930
+translate philippine Leona_10_label_bdbc14e7:
+
+    # Jacob "It was some old sanctuary."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2931
+translate philippine Leona_10_label_553d961a:
+
+    # Jacob "Half an hour's walk from the campuses."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2938
+translate philippine Leona_10_label_ce6c5069:
+
+    # Jacob "Like any young wizard, I thought I was smarter than everyone else."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2939
+translate philippine Leona_10_label_ae6ed94b:
+
+    # Jacob "I thought I could create the perfect barrier."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2940
+translate philippine Leona_10_label_63877818:
+
+    # Jacob "And I knew how I could defeat others."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2942
+translate philippine Leona_10_label_c2177b31:
+
+    # Jacob "You see, when creating a spell, all wizards test it with each other."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2943
+translate philippine Leona_10_label_98ab2b27:
+
+    # Jacob "But a wizard's arsenal is limited."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2944
+translate philippine Leona_10_label_b066df21:
+
+    # Jacob "And they never attack at full strength. They don't really want to kill you."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2945
+translate philippine Leona_10_label_0e63344c:
+
+    # Jacob "So how can they understand the true limits of barriers if I don't hit at full force?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2947
+translate philippine Leona_10_label_0964a1f7:
+
+    # Jacob "I've been testing my barriers against real monsters."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2948
+translate philippine Leona_10_label_6578dca1:
+
+    # Jacob "Against ancient and dangerous creatures from other dimensions."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2949
+translate philippine Leona_10_label_2712ba8a:
+
+    # Jacob "I learned how to summon them... Control them."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2950
+translate philippine Leona_10_label_b659d812:
+
+    # Jacob "That's what I thought."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2952
+translate philippine Leona_10_label_a53a0792:
+
+    # Jacob "Time after time, my spells protected me from their influence."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2953
+translate philippine Leona_10_label_32e8d7aa:
+
+    # Jacob "And suppressed the will of those things."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2954
+translate philippine Leona_10_label_cd93fa31:
+
+    # Jacob "What's more, I learned how to redirect their power against themselves."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2955
+translate philippine Leona_10_label_4b52fb27:
+
+    # Jacob "My barriers not only protected the caster, but also repelled attacks on the enemy."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2956
+translate philippine Leona_10_label_614e897c:
+
+    # Jacob "Ultimate Defense..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2958
+translate philippine Leona_10_label_026b60f1:
+
+    # Jacob "How pitifully they wriggled in their final seconds."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2959
+translate philippine Leona_10_label_f0452b43:
+
+    # Jacob "Before the life left them."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2960
+translate philippine Leona_10_label_90c3b1ef:
+
+    # Jacob "I could already see the delight on the Minister of Magic's face when I taught this spell to the Special Forces."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2961
+translate philippine Leona_10_label_29292f9a:
+
+    # Jacob "But..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2963
+translate philippine Leona_10_label_6b11664f:
+
+    # Jacob "I was too impatient."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2964
+translate philippine Leona_10_label_95240c80:
+
+    # Jacob "In another attempt to raise the bar..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2965
+translate philippine Leona_10_label_5bacdca5:
+
+    # Jacob "I overdid it."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2966
+translate philippine Leona_10_label_1c982f96:
+
+    # Jacob "I was sure my spell was invincible."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2967
+translate philippine Leona_10_label_513e520f:
+
+    # Jacob "I thought they were mindless, aggressive, dangerous monsters."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2969
+translate philippine Leona_10_label_2bec3262:
+
+    # Jacob "Beasts incapable of learning."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2970
+translate philippine Leona_10_label_3aa65a8e:
+
+    # Jacob "And I wanted to test my spell on their ancestor."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2971
+translate philippine Leona_10_label_583e3de6:
+
+    # Jacob "The Overlord..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2972
+translate philippine Leona_10_label_c3e9f3c8:
+
+    # Jacob "I was able to summon him. It wasn't easy, but."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2973
+translate philippine Leona_10_label_93e6c756:
+
+    # Jacob "I used the Seal of Katrina that Arthur entrusted me to keep."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2975
+translate philippine Leona_10_label_c5fdb05d:
+
+    # Jacob "But when I tried to apply the barrier... It didn't work."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2976
+translate philippine Leona_10_label_5b49c2ee:
+
+    # Jacob "Every time I summoned these creatures, they studied me."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2977
+translate philippine Leona_10_label_209159fb:
+
+    # Jacob "Gathering information about my magic."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2978
+translate philippine Leona_10_label_5fa70142:
+
+    # Jacob "And the Lord was ready for whatever I had prepared."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2979
+translate philippine Leona_10_label_718b222b:
+
+    # Jacob "And before I could do anything, he grabbed me..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2986
+translate philippine Leona_10_label_9d6ab023:
+
+    # Jacob "I'm sorry, um..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2987
+translate philippine Leona_10_label_06b6b76c:
+
+    # Jacob "I need a drink."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2988
+translate philippine Leona_10_label_8fa8f175:
+
+    # Jacob "After that... My thoughts, my memories... They weren't just mine."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2989
+translate philippine Leona_10_label_04349fa3:
+
+    # Jacob "The Lord had moved into my body and mind."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2990
+translate philippine Leona_10_label_20bc544b:
+
+    # Jacob "A part of him fused with me, sucking on my soul."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2991
+translate philippine Leona_10_label_3c989d3f:
+
+    # Jacob "And began to poison it."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2998
+translate philippine Leona_10_label_8149e2bb:
+
+    # Jacob "For the first few hours, there was a struggle for control of my body."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:2999
+translate philippine Leona_10_label_f6468a9c:
+
+    # Jacob "And I knew I couldn't win alone."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3000
+translate philippine Leona_10_label_01960eaf:
+
+    # Jacob "I somehow made my way back to the campuses and headed to Sarah's room for help."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3002
+translate philippine Leona_10_label_4cb810c5:
+
+    # Jacob "But when I got to her room..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3003
+translate philippine Leona_10_label_15ea789c:
+
+    # Jacob "I wasn't myself."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3004
+translate philippine Leona_10_label_da27be2c:
+
+    # Jacob "My mind was clinging to my attachment to Sarah."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3005
+translate philippine Leona_10_label_c5b407d4:
+
+    # Jacob "But I had no control over my thoughts and actions."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3007
+translate philippine Leona_10_label_0dac3f94:
+
+    # Jacob "Like an animal that smells its prey."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3008
+translate philippine Leona_10_label_b6895ebc:
+
+    # Jacob "I jumped up to her bed..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3009
+translate philippine Leona_10_label_8373703d:
+
+    # Jacob "I started pulling the blanket off the unsuspecting girl..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3011
+translate philippine Leona_10_label_084e3d97:
+
+    # Jacob "Sarah woke up from the noise and looked at me bewildered."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3012
+translate philippine Leona_10_label_0c745705:
+
+    # Jacob "At first she did not understand what was happening."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3013
+translate philippine Leona_10_label_a7914332:
+
+    # Jacob "She asked me something, but I don't remember if I answered..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3014
+translate philippine Leona_10_label_681c3a16:
+
+    # Jacob "I think that even if I tried... I couldn't get the human words out."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3016
+translate philippine Leona_10_label_9c44e2fa:
+
+    # Jacob "Then she met my eyes."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3017
+translate philippine Leona_10_label_0ebfaa62:
+
+    # Jacob "And she was terrified."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3018
+translate philippine Leona_10_label_ca915e19:
+
+    # Jacob "She realized that it wasn't the Jacob she knew..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3020
+translate philippine Leona_10_label_57c836e5:
+
+    # Jacob "She tried to scream, but I put my hand over her mouth."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3021
+translate philippine Leona_10_label_b0a75c9d:
+
+    # Jacob "She tried to fight back, but I was stronger."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3022
+translate philippine Leona_10_label_8934f49c:
+
+    # Jacob "She begged, but I couldn't understand her words..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3023
+translate philippine Leona_10_label_c185f858:
+
+    # Jacob "..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3030
+translate philippine Leona_10_label_abf29690:
+
+    # Jacob "I don't remember what happened when I was done with her."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3031
+translate philippine Leona_10_label_69ac1788:
+
+    # Jacob "But when I woke up in my office a few days later..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3032
+translate philippine Leona_10_label_af11abd8:
+
+    # Jacob "I found out that Sara [Surname] had escaped from the academy."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3033
+translate philippine Leona_10_label_8e900b31:
+
+    # Jacob "After an unknown person raped her right in her room..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3035
+translate philippine Leona_10_label_b360d120:
+
+    # ch_Name "{i}(I can't believe it... It's too much. It's all too much...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3036
+translate philippine Leona_10_label_b687aec2:
+
+    # ch_Name "But... How? Why didn't anyone find out?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3038
+translate philippine Leona_10_label_53e1baf9:
+
+    # ch_Name "What happened next?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3040
+translate philippine Leona_10_label_edf0f919:
+
+    # Jacob "I'm not sure... But I think I threatened to kill her if anyone found out."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3041
+translate philippine Leona_10_label_dd26ed50:
+
+    # Jacob "And she ran away without telling anyone."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3042
+translate philippine Leona_10_label_b619b4bb:
+
+    # Jacob "But by then, I didn't care. I wasn't me anymore..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3043
+translate philippine Leona_10_label_fdf6f759:
+
+    # Jacob "I didn't even know she was pregnant."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3044
+translate philippine Leona_10_label_07564acf:
+
+    # Jacob "And that she died during childbirth.."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3046
+translate philippine Leona_10_label_d84056d1:
+
+    # ch_Name "But I... But how so?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3047
+translate philippine Leona_10_label_213abdc7:
+
+    # ch_Name "You didn't even know I existed?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3048
+translate philippine Leona_10_label_2dd93036:
+
+    # Jacob "I didn't know..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3050
+translate philippine Leona_10_label_4242b120:
+
+    # Jacob "When I saw [Surname] on the list at the train station for the first time in years..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3051
+translate philippine Leona_10_label_a7590f53:
+
+    # Jacob "I didn't even recognize it right away..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3052
+translate philippine Leona_10_label_476999f9:
+
+    # Jacob "But you must understand, my mind had been suppressed by the Lord's will..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3054
+translate philippine Leona_10_label_718cc92e:
+
+    # ch_Name "You must understand?!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3055
+translate philippine Leona_10_label_9dc5d2b8:
+
+    # ch_Name "Uh... No way. It's not something you can just pick up and understand."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3056
+translate philippine Leona_10_label_802ebba7:
+
+    # ch_Name "I need to process this. I need to be on my own, I'm sorry."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3058
+translate philippine Leona_10_label_7231d87d:
+
+    # Jacob "Wait, wait, wait, wait, wait, wait."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3059
+translate philippine Leona_10_label_fa8912f3:
+
+    # Jacob "I get it."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3060
+translate philippine Leona_10_label_9d9d87f5:
+
+    # Jacob "And I understand that I don't really have to ask you to forgive me..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3061
+translate philippine Leona_10_label_7dd90eb9:
+
+    # Jacob "But I do have something for you."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3063
+translate philippine Leona_10_label_646c6212:
+
+    # Jacob "Here."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3064
+translate philippine Leona_10_label_168ef2c8:
+
+    # ch_Name "{i}(It's a...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3066
+translate philippine Leona_10_label_13afaa9c:
+
+    # ch_Name "{i}(The Lion's seal!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3067
+translate philippine Leona_10_label_d0048e77:
+
+    # ch_Name "{i}(I thought it was lost!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3068
+translate philippine Leona_10_label_4d64e3e0:
+
+    # ch_Name "{i}(Wait a minute, he's not going to...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3070
+translate philippine Leona_10_label_27cb352f:
+
+    # ch_Name "Careful with that thing!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3071
+translate philippine Leona_10_label_65af6cab:
+
+    # ch_Name "Don't point it at me!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3073
+translate philippine Leona_10_label_5b12fd43:
+
+    # Jacob "Whoa-whoa, kid, don't panic."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3074
+translate philippine Leona_10_label_c933c3c4:
+
+    # Jacob "I won't paralyze you with it like I did last time."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3075
+translate philippine Leona_10_label_6485deba:
+
+    # Jacob "I'm a different person now."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3076
+translate philippine Leona_10_label_8e83d449:
+
+    # Jacob "And it's not very paternal, is it?"
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3078
+translate philippine Leona_10_label_bb84b840:
+
+    # ch_Name "{i}(Is he kidding me?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3079
+translate philippine Leona_10_label_627798e7:
+
+    # ch_Name "It's too early for that kind of joke..."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3080
+translate philippine Leona_10_label_19aad962:
+
+    # Jacob "You're right."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3081
+translate philippine Leona_10_label_82500ecd:
+
+    # Jacob "Still, please take the Seal back. Give it back to its rightful owner."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3083
+translate philippine Leona_10_label_564bec72:
+
+    # ch_Name "Well... Very well."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3084
+translate philippine Leona_10_label_49cdef6f:
+
+    # ch_Name "But only because Leona will be happy to have her artifact back."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3086
+translate philippine Leona_10_label_9205fa50:
+
+    # ch_Name "{i}(Hmm, the Seal vibrates stronger than before.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3087
+translate philippine Leona_10_label_171ab9d1:
+
+    # ch_Name "{i}(As if it gained strength after being used by Jacob.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3088
+translate philippine Leona_10_label_4b0cb009:
+
+    # ch_Name "{i}(Hopefully Leona knows what to do with this excess power.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3090
+translate philippine Leona_10_label_85f0d702:
+
+    # ch_Name "Goodbye, Jacob."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3091
+translate philippine Leona_10_label_ab72a251:
+
+    # ch_Name "Thank you for telling me the truth."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3093
+translate philippine Leona_10_label_8e183fd6:
+
+    # Jacob "It was the right thing to do. I'm sorry she's so..."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3094
+translate philippine Leona_10_label_911e18d9:
+
+    # Jacob "I know you need time, but know this."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3095
+translate philippine Leona_10_label_c28cd17f:
+
+    # Jacob "My door is always open to you."
+    Jacob ""
+
+# game/logic/events/Leona.rpy:3097
+translate philippine Leona_10_label_8bb40f7b:
+
+    # ch_Name "Okay, well... Maybe I'll consider coming."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3098
+translate philippine Leona_10_label_facdbb47:
+
+    # ch_Name "But I'm warning you, don't expect me to start calling you daddy."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3107
+translate philippine Leona_10_label_e9c642dd:
+
+    # ch_Name "{i}(Jacob is MY FATHER?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3108
+translate philippine Leona_10_label_bc30a3f0:
+
+    # ch_Name "{i}(How can this be possible...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3109
+translate philippine Leona_10_label_8af5a543:
+
+    # ch_Name "{i}(But why would he lie about it now?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3112
+translate philippine Leona_10_label_9d0c3150:
+
+    # ch_Name "{i}(It just doesn't make sense...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3113
+translate philippine Leona_10_label_9ea228ef:
+
+    # ch_Name "{i}(I need some time to think about it on my own.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3120
+translate philippine Leona_10_label_d348d327:
+
+    # ch_Name "{i}(Ugh... I can't fall asleep no matter how hard I try.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3121
+translate philippine Leona_10_label_54523e16:
+
+    # ch_Name "{i}(Jacob... I still can't believe that.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3122
+translate philippine Leona_10_label_cabe03fd:
+
+    # ch_Name "{i}(And to think that this demon raped my mother...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3123
+translate philippine Leona_10_label_8ca1b918:
+
+    # ch_Name "{i}(Forget the phantom, this is the real nightmare fuel.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3124
+translate philippine Leona_10_label_8f07fed5:
+
+    # ch_Name "{i}(I'm not sure I'm comfortable sharing this information with anyone.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3125
+translate philippine Leona_10_label_59043c82:
+
+    # ch_Name "{i}(Not even Haley or Samantha...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3126
+translate philippine Leona_10_label_28b3fb55:
+
+    # ch_Name "{i}(Fuck it. I'll just pretend I've heard nothing and try to get some sleep again.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3132
+translate philippine Leona_11_label_c6ff9c13:
+
+    # ch_Name "{i}(It's time to give Leona her Seal back.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3133
+translate philippine Leona_11_label_9658f197:
+
+    # ch_Name "{i}(How much trouble such a little thing can cause...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3134
+translate philippine Leona_11_label_4582f8a8:
+
+    # ch_Name "{i}(It's all my fault.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3135
+translate philippine Leona_11_label_2812d5d9:
+
+    # ch_Name "{i}(How could I have been so gullible?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3136
+translate philippine Leona_11_label_77d15188:
+
+    # ch_Name "{i}(Leona warned me that the Seal was dangerous in the wrong hands...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3138
+translate philippine Leona_11_label_7d956bac:
+
+    # ch_Name "{i}(This place seems so quiet and peaceful now...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3139
+translate philippine Leona_11_label_946beb25:
+
+    # ch_Name "{i}(But when I think back...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3141
+translate philippine Leona_11_label_2aa9fc86:
+
+    # ch_Name "{i}(Jacob so easily defeated Victoria's spell.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3142
+translate philippine Leona_11_label_b08314e7:
+
+    # ch_Name "{i}(As if she were an inexperienced student rather than one of the academy's strongest mages.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3143
+translate philippine Leona_11_label_518accce:
+
+    # ch_Name "{i}(It seemed unstoppable...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3145
+translate philippine Leona_11_label_9c1b1c85:
+
+    # ch_Name "{i}(All thanks to this thing.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3146
+translate philippine Leona_11_label_0b729792:
+
+    # ch_Name "{i}(It looks like an ordinary box...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3148
+translate philippine Leona_11_label_f74fdef8:
+
+    # ch_Name "{i}(Another moment...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3149
+translate philippine Leona_11_label_abd5c5e5:
+
+    # ch_Name "{i}(If I didn't have time...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3151
+translate philippine Leona_11_label_b0fbbbc5:
+
+    # ch_Name "{i}(If he'd been able to point it at me...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3152
+translate philippine Leona_11_label_60f7aae3:
+
+    # ch_Name "{i}(We'd all be dead by now.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3153
+translate philippine Leona_11_label_3abf31db:
+
+    # ch_Name "{i}(Uh...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3154
+translate philippine Leona_11_label_ffb2156c:
+
+    # ch_Name "{i}(Even the memory gives me goosebumps.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3156
+translate philippine Leona_11_label_90d829e1:
+
+    # ch_Name "{i}(But the Seal doesn't have to be used for evil.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3157
+translate philippine Leona_11_label_2db4be23:
+
+    # ch_Name "{i}(Just imagine how much good could be done.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3158
+translate philippine Leona_11_label_59d1f0e3:
+
+    # ch_Name "{i}(Although... There's a reason they hid it away, isn't there?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3159
+translate philippine Leona_11_label_c96a9283:
+
+    # ch_Name "{i}(Leona, with her wisdom, can see better than I can.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3161
+translate philippine Leona_11_label_0bc04d4f:
+
+    # ch_Name "{i}(Well, let's see. Last time, to summon her, I...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3162
+translate philippine Leona_11_label_8514f172:
+
+    # ch_Name "{i}(I opened a page with house symbols.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3163
+translate philippine Leona_11_label_4a710304:
+
+    # ch_Name "{i}(I hope this works.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3165
+translate philippine Leona_11_label_cf7ae1de:
+
+    # ch_Name "{i}(Hmm... Weird.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3166
+translate philippine Leona_11_label_50f9e4f7:
+
+    # ch_Name "{i}(Usually you touch her and she's right there.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3167
+translate philippine Leona_11_label_b630459d:
+
+    # ch_Name "{i}(Maybe she's busy with something.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3169
+translate philippine Leona_11_label_8a19cbd8:
+
+    # ch_Name "{i}...{/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3170
+translate philippine Leona_11_label_29d27f54:
+
+    # ch_Name "{i}(It worked!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3172
+translate philippine Leona_11_label_0c0da4e0:
+
+    # ch_Name "Leona!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3173
+translate philippine Leona_11_label_03972776:
+
+    # ch_Name "It's so good to see you!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3174
+translate philippine Leona_11_label_30b478d5:
+
+    # ch_Name "You seem a little... different."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3176
+translate philippine Leona_11_label_edd471b0:
+
+    # Leona "Am I?"
+    Leona ""
+
+# game/logic/events/Leona.rpy:3177
+translate philippine Leona_11_label_f7444d93:
+
+    # Leona "What's wrong with me?"
+    Leona ""
+
+# game/logic/events/Leona.rpy:3178
+translate philippine Leona_11_label_8ac87752:
+
+    # ch_Name "You're kidding, right?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3179
+translate philippine Leona_11_label_4751def4:
+
+    # ch_Name "You look like I'm taking an exam again."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3181
+translate philippine Leona_11_label_739fdbf3:
+
+    # Leona "Oh, you mean that..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3182
+translate philippine Leona_11_label_bbe175e6:
+
+    # Leona "I guess I don't have the strength to keep up my \"live\" form anymore."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3183
+translate philippine Leona_11_label_f7bb05ba:
+
+    # ch_Name "No strength? What do you mean?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3184
+translate philippine Leona_11_label_6e42c9ac:
+
+    # Leona "The thing is, right now my soul is a little bit... eating away at me."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3185
+translate philippine Leona_11_label_d13167d6:
+
+    # Leona "Well, that's the price teachers pay for students' mistakes."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3187
+translate philippine Leona_11_label_81cdf012:
+
+    # ch_Name "Is this... Is this happening because of me?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3188
+translate philippine Leona_11_label_312c9cd3:
+
+    # ch_Name "Because Jacob used the Seal?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3189
+translate philippine Leona_11_label_95c258d2:
+
+    # Leona "Well, you could say that..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3190
+translate philippine Leona_11_label_de067692:
+
+    # ch_Name "I'm... I'm so sorry. I thought I was doing the right thing, but..."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3192
+translate philippine Leona_11_label_4f7805d3:
+
+    # Leona "I never doubted your motives, honey."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3193
+translate philippine Leona_11_label_5575b5ea:
+
+    # Leona "But you have to trust me more."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3194
+translate philippine Leona_11_label_010ec342:
+
+    # Leona "I warned you this would happen."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3196
+translate philippine Leona_11_label_c4be18b0:
+
+    # ch_Name "You knew everything, but you gave me the Seal anyway?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3197
+translate philippine Leona_11_label_7d395a3b:
+
+    # Leona "Well, not everything... But I assumed."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3198
+translate philippine Leona_11_label_66bafc1e:
+
+    # ch_Name "But then why give me the Seal?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3200
+translate philippine Leona_11_label_c5a0ed64:
+
+    # Leona "You have to learn and become stronger, [Name]."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3201
+translate philippine Leona_11_label_3ca87c41:
+
+    # Leona "I chose to believe that you could do it. And you believed in yourself too, didn't you?"
+    Leona ""
+
+# game/logic/events/Leona.rpy:3202
+translate philippine Leona_11_label_2147d9f8:
+
+    # Leona "Otherwise we wouldn't be having this conversation right now."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3203
+translate philippine Leona_11_label_5ca23958:
+
+    # ch_Name "I guess... But what do we do now?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3204
+translate philippine Leona_11_label_17a72234:
+
+    # Leona "For starters, do you have the Seal?"
+    Leona ""
+
+# game/logic/events/Leona.rpy:3205
+translate philippine Leona_11_label_64e49a8b:
+
+    # ch_Name "Yes."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3206
+translate philippine Leona_11_label_2a91b64c:
+
+    # Leona "I'd like it back."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3208
+translate philippine Leona_11_label_8c643af7:
+
+    # ch_Name "Of course, you would."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3209
+translate philippine Leona_11_label_a0a8fe6b:
+
+    # ch_Name "It seems to have been infused with power by Jacob's ritual."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3210
+translate philippine Leona_11_label_d0dd35e6:
+
+    # ch_Name "It vibrates so much, it's hard to hold it in your hand."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3212
+translate philippine Leona_11_label_8c1d6dd0:
+
+    # Leona "You're wrong, [Name]."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3213
+translate philippine Leona_11_label_01de78a3:
+
+    # Leona "It's soaked with power from you."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3214
+translate philippine Leona_11_label_c53a802b:
+
+    # Leona "Are you ready?"
+    Leona ""
+
+# game/logic/events/Leona.rpy:3215
+translate philippine Leona_11_label_80c9c2bc:
+
+    # ch_Name "For what?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3217
+translate philippine Leona_11_label_e87ea94a:
+
+    # Leona "..." with vpunch
+    Leona "" with vpunch
+
+# game/logic/events/Leona.rpy:3218
+translate philippine Leona_11_label_10b3a18e:
+
+    # ch_Name "FOR WHAT?!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3219
+translate philippine Leona_11_label_0e1f6871:
+
+    # Leona "To save me, of course..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3221
+translate philippine Leona_11_label_8ba3b2a5:
+
+    # ch_Name "Whoa... Where am I? Is this the forest?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3222
+translate philippine Leona_11_label_c86b8837:
+
+    # ch_Name "And where's Leona?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3223
+translate philippine Leona_11_label_3b854b6c:
+
+    # ch_Name "Hey... Leona! What's going on?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3225
+translate philippine Leona_11_label_a3238145:
+
+    # ch_Name "Hello?!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3226
+translate philippine Leona_11_label_b02eb245:
+
+    # ch_Name "Can anybody hear me?!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3227
+translate philippine Leona_11_label_a3238145_1:
+
+    # ch_Name "Hello?!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3228
+translate philippine Leona_11_label_aa1f0732:
+
+    # ch_Name "{i}(Damn her! Where the hell is Leona?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3230
+translate philippine Leona_11_label_6cc30a96:
+
+    # Leona "Help! Here!"
+    Leona ""
+
+# game/logic/events/Leona.rpy:3231
+translate philippine Leona_11_label_247786fe:
+
+    # ch_Name "{i}(That's Leona's voice! It's coming from over there.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3232
+translate philippine Leona_11_label_0298cea3:
+
+    # ch_Name "{i}(What the hell is going on out there?! We have to find out.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3239
+translate philippine Leona_11_label_a599990e:
+
+    # ch_Name "{i}(WHAT THE HELL?!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3240
+translate philippine Leona_11_label_9e257a1d:
+
+    # ch_Name "Leona?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3241
+translate philippine Leona_11_label_c3d4cbcc:
+
+    # Leona "[Name], hurry up, this way!"
+    Leona ""
+
+# game/logic/events/Leona.rpy:3242
+translate philippine Leona_11_label_21107fad:
+
+    # Leona "We don't have much, uh... time!"
+    Leona ""
+
+# game/logic/events/Leona.rpy:3244
+translate philippine Leona_11_label_55489556:
+
+    # ch_Name "{i}(Katrina is also entangled in tentacles...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3245
+translate philippine Leona_11_label_3c5d2cd4:
+
+    # ch_Name "{i}(All the foundresses seem to be in trouble. Damn!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3246
+translate philippine Leona_11_label_649da0df:
+
+    # ch_Name "{i}(What to do?){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3248
+translate philippine Leona_11_label_57c5c127:
+
+    # ch_Name "{i}(Okay, Leona first!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3249
+translate philippine Leona_11_label_a6049aee:
+
+    # ch_Name "Leona, I'm coming!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3251
+translate philippine Leona_11_label_2a5c2d01:
+
+    # ch_Name "Damn mutant octopus, I'll show you!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3252
+translate philippine Leona_11_label_e01266b8:
+
+    # ch_Name "Leona, the Seal... How do I use it?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3253
+translate philippine Leona_11_label_a420ed26:
+
+    # Leona "Point it at him and direct it..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3255
+translate philippine Leona_11_label_3ac95f6d:
+
+    # ch_Name "{i}(Come on... Work!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3256
+translate philippine Leona_11_label_35a39048:
+
+    # Leona "Tell it with your heart, not with your head, you fool!"
+    Leona ""
+
+# game/logic/events/Leona.rpy:3257
+translate philippine Leona_11_label_3547d57f:
+
+    # ch_Name "{i}(With your heart... Shit... Gotta get it together. Yeah. I can do it. Get it!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3259
+translate philippine Leona_11_label_05b7181c:
+
+    # ch_Name "Is it working? It's working!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3260
+translate philippine Leona_11_label_ac028e87:
+
+    # ch_Name "I'm doing it, Leona!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3261
+translate philippine Leona_11_label_a0a034ae:
+
+    # ch_Name "I think I'm doing it!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3262
+translate philippine Leona_11_label_61eb37fe:
+
+    # Leona "Oof..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3264
+translate philippine Leona_11_label_5dc20efd:
+
+    # Leona "Oh, [Name]... Thank you!"
+    Leona ""
+
+# game/logic/events/Leona.rpy:3265
+translate philippine Leona_11_label_cf4ebe12:
+
+    # Leona "I knew you'd come..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3266
+translate philippine Leona_11_label_b7caf936:
+
+    # Leona "I prayed..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3268
+translate philippine Leona_11_label_ad6baa17:
+
+    # ch_Name "What are you... You're the one who brought me."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3269
+translate philippine Leona_11_label_887f3b5d:
+
+    # Leona "I... I don't remember. We were all held captive by him, [Name]."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3270
+translate philippine Leona_11_label_912a600d:
+
+    # Leona "Perhaps a part of me connected to you cried out for help. And you heard it."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3271
+translate philippine Leona_11_label_69137166:
+
+    # Katrina "Khee-khee..."
+    Katrina ""
+
+# game/logic/events/Leona.rpy:3273
+translate philippine Leona_11_label_8a4c467d:
+
+    # ch_Name "{i}(Katrina!){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3274
+translate philippine Leona_11_label_3c3ce99b:
+
+    # ch_Name "We need to help the others!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3275
+translate philippine Leona_11_label_53349383:
+
+    # ch_Name "Katrina, I'm coming!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3277
+translate philippine Leona_11_label_0d486320:
+
+    # ch_Name "Eat it, monster!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3278
+translate philippine Leona_11_label_16c5718f:
+
+    # ch_Name "You like the power of the Seal, huh?!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3279
+translate philippine Leona_11_label_6270dfbc:
+
+    # ch_Name "Hey... Why doesn't that thing work for him anymore?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3281
+translate philippine Leona_11_label_4e7dfbcf:
+
+    # ch_Name "Leona! Help me!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3282
+translate philippine Leona_11_label_b1fc04d5:
+
+    # ch_Name "We have to free Katrina!"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3283
+translate philippine Leona_11_label_0593f081:
+
+    # ch_Name "The Seal doesn't work..."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3285
+translate philippine Leona_11_label_c73bdef6:
+
+    # Leona "It can't work."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3286
+translate philippine Leona_11_label_4cc2874a:
+
+    # ch_Name "But how... Why can't it?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3287
+translate philippine Leona_11_label_5e5174cd:
+
+    # Leona "The Seal of House Leonheart is my relic."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3288
+translate philippine Leona_11_label_9ff23725:
+
+    # Leona "The bonds that bind me and this Seal are stronger than any creature."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3290
+translate philippine Leona_11_label_e3dc16f8:
+
+    # Leona "The souls of Katrina, Jaina and Frida are not bound to my Seal."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3291
+translate philippine Leona_11_label_1d59d59a:
+
+    # Leona "We can't help them now..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3292
+translate philippine Leona_11_label_43d35896:
+
+    # ch_Name "But we have to do something."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3293
+translate philippine Leona_11_label_959eab5d:
+
+    # ch_Name "We can't abandon them."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3295
+translate philippine Leona_11_label_9aaa10d9:
+
+    # Leona "And we won't leave them."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3296
+translate philippine Leona_11_label_8e60f25b:
+
+    # Leona "I will stay here and keep them alive. Keep the Keeper in check."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3297
+translate philippine Leona_11_label_37a1be6c:
+
+    # Leona "And you'll go in search of their artifacts."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3299
+translate philippine Leona_11_label_71328b74:
+
+    # ch_Name "That's a great idea, but..."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3300
+translate philippine Leona_11_label_7ebbb34e:
+
+    # ch_Name "How do I find them?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3302
+translate philippine Leona_11_label_bec76127:
+
+    # Leona "Arthur will help you. He must know what Jacob's stunt led to."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3303
+translate philippine Leona_11_label_70204a04:
+
+    # Leona "But don't think it's going to be that easy."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3304
+translate philippine Leona_11_label_6fb56db2:
+
+    # Leona "The lines between the worlds have been crossed and the lord's henchmen..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3305
+translate philippine Leona_11_label_3aa20974:
+
+    # Leona "...will be looking for artifacts as well."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3306
+translate philippine Leona_11_label_476b4eb6:
+
+    # Leona "After all, with them, he can finish absorbing our souls."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3307
+translate philippine Leona_11_label_a08fb250:
+
+    # Leona "And the world will fall into chaos."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3309
+translate philippine Leona_11_label_82c8caf6:
+
+    # Leona "But I'm sure you won't let that happen."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3310
+translate philippine Leona_11_label_58b317dd:
+
+    # Leona "Now, it's time for you to go back..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3311
+translate philippine Leona_11_label_8389e2f6:
+
+    # ch_Name "Are you sure you can handle it here? Should I get someone to help?"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3312
+translate philippine Leona_11_label_b5bf920b:
+
+    # Leona "A mortal can't stay in this place for long."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3313
+translate philippine Leona_11_label_c2f6020d:
+
+    # Leona "Otherwise, he'd be easy prey for the Keeper."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3315
+translate philippine Leona_11_label_e472521b:
+
+    # Leona "I have to do this on my own. And I will."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3316
+translate philippine Leona_11_label_5df206f9:
+
+    # Leona "It gives me strength to believe that you can do your job."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3317
+translate philippine Leona_11_label_21dd86c5:
+
+    # ch_Name "Thank you, Leona. I won't let you down."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3318
+translate philippine Leona_11_label_8fb86c74:
+
+    # Leona "Goodbye..."
+    Leona ""
+
+# game/logic/events/Leona.rpy:3320
+translate philippine Leona_11_label_9328f9c3:
+
+    # ch_Name "Whoa..."
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3321
+translate philippine Leona_11_label_331373d2:
+
+    # ch_Name "{i}(What the hell...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3322
+translate philippine Leona_11_label_c26ae946:
+
+    # ch_Name "{i}(If I don't stop the Overlord, all the founders...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3323
+translate philippine Leona_11_label_2ce1a75e:
+
+    # ch_Name "{i}(Die.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3325
+translate philippine Leona_11_label_58ef0d59:
+
+    # ch_Name "{i}(Oh, I've got a lot to do...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3326
+translate philippine Leona_11_label_769cc1ee:
+
+    # ch_Name "{i}(Well, [Name], you always wanted to be a hero.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3327
+translate philippine Leona_11_label_b02e5a99:
+
+    # ch_Name "{i}(Time to be one.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3336
+translate philippine Leona_11_label_48da3b43:
+
+    # ch_Name "{i}(That's too much for one man to carry on his shoulders.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3337
+translate philippine Leona_11_label_6eaf0f19:
+
+    # ch_Name "{i}(I can't even think of where to start my search for artifacts.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3338
+translate philippine Leona_11_label_2f700175:
+
+    # ch_Name "{i}(I hope Arthur has some leads.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3346
+translate philippine Leona_11_label_e5b11224:
+
+    # ch_Name "{i}(Maybe Jacob can be helpful too.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3347
+translate philippine Leona_11_label_b1414c04:
+
+    # ch_Name "{i}(After all, he started all this shit.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3348
+translate philippine Leona_11_label_847a8bbd:
+
+    # ch_Name "{i}(This may as well be a way for him to redeem himself.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3355
+translate philippine Leona_11_label_37918ebe:
+
+    # ch_Name "{i}(Oh, what a crazy night.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3356
+translate philippine Leona_11_label_b2b8fb63:
+
+    # ch_Name "{i}(I can't wait to fall asleep and get this out of my head.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3363
+translate philippine Leona_11_label_1380e5c5:
+
+    # ch_Name "{i}(Come to think of it...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3364
+translate philippine Leona_11_label_30b92980:
+
+    # ch_Name "{i}(This is my fault too.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3365
+translate philippine Leona_11_label_2215dd5f:
+
+    # ch_Name "{i}(If only I'd listened to Leona.){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3367
+translate philippine Leona_11_label_24bc42fd:
+
+    # ch_Name "{i}(No one would have suffered from Jacob and his demon...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3368
+translate philippine Leona_11_label_201ab856:
+
+    # ch_Name "{i}(How could I be so stupid? Trusting shady guy with such powerful artifact...){/i}"
+    ch_Name ""
+
+# game/logic/events/Leona.rpy:3369
+translate philippine Leona_11_label_127f03c9:
+
+    # ch_Name "{i}(I won't make that kind of mistake twice.){/i}"
+    ch_Name ""
+
+translate philippine strings:
+
+    # game/logic/events/Leona.rpy:2225
+    old "Give him the seal"
+    new ""
+
+    # game/logic/events/Leona.rpy:2225
+    old "Don't give him the seal"
+    new ""
+
+    # game/logic/events/Leona.rpy:2779
+    old "Do not accept the drink"
+    new ""
+

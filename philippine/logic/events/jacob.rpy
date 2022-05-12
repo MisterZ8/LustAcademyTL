@@ -1498,3 +1498,21 @@ translate philippine strings:
     old "Crowhive"
     new ""
 
+# TODO: Translation updated at 2022-05-12 08:59
+
+# game/logic/events/jacob.rpy:262
+translate philippine Samantha_3_label_43_6349d9c3:
+
+    # ch_Name "{i}(Oh... I have her lesson in the schedule.){/i}"
+    ch_Name ""
+
+translate philippine strings:
+
+    # game/logic/events/jacob.rpy:15
+    old "Ask about your origins"
+    new ""
+
+    # game/logic/events/jacob.rpy:15
+    old "Tell him you have the seal"
+    new ""
+

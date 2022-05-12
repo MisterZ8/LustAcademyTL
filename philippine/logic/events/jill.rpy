@@ -2170,3 +2170,77 @@ translate philippine strings:
     old "Order a massage ($75)"
     new "Umorder ng masahe ($75)"
 
+# TODO: Translation updated at 2022-05-12 08:59
+
+# game/logic/events/jill.rpy:135
+translate philippine Jill_2_label_8_2153276c:
+
+    # Faith "You know, of your muscle pain."
+    Faith ""
+
+# game/logic/events/jill.rpy:152
+translate philippine Jill_2_label_8_5fd306ab:
+
+    # ch_Name "{i}(My leg... What's going on?){/i}"
+    ch_Name ""
+
+# game/logic/events/jill.rpy:162
+translate philippine Jill_2_label_8_43d795e2:
+
+    # ch_Name "Um... Y-yes, I guess."
+    ch_Name ""
+
+# game/logic/events/jill.rpy:169
+translate philippine Jill_2_label_8_9f1c724c:
+
+    # Faith "You're too tense...{w} Ah..."
+    Faith ""
+
+# game/logic/events/jill.rpy:171
+translate philippine Jill_2_label_8_2708f99a:
+
+    # Faith "Relax your shoulders...{w} Ah...{w} Now we'll give them a good..."
+    Faith ""
+
+# game/logic/events/jill.rpy:176
+translate philippine Jill_2_label_8_4bf4ff3e:
+
+    # Faith "Oh... Yeah...{w} What the hell is that..."
+    Faith ""
+
+# game/logic/events/jill.rpy:317
+translate philippine Jill_3_label_df9cbb37:
+
+    # Faith "Of course, I can."
+    Faith ""
+
+# game/logic/events/jill.rpy:341
+translate philippine Jill_3_label_293230e8:
+
+    # Faith "I need to go, sorry."
+    Faith ""
+
+# game/logic/events/jill.rpy:354
+translate philippine Jill_3_label_21237630:
+
+    # Faith "Wow... Yeah, you sure did enjoy my massage."
+    Faith ""
+
+# game/logic/events/jill.rpy:371
+translate philippine Jill_3_label_19e33edc:
+
+    # "I spend the rest of the day wandering around Dale and sightseeing."
+    ""
+
+# game/logic/events/jill.rpy:571
+translate philippine Jill_4_label_from_gallery_5f0d1e19:
+
+    # Faith "It will help to remove muscle cramps and bring you overall relaxation."
+    Faith ""
+
+# game/logic/events/jill.rpy:632
+translate philippine Jill_4_label_from_gallery_14b7e6c3:
+
+    # Faith "...which removes all cramps."
+    Faith ""
+

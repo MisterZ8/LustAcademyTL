@@ -1408,3 +1408,11 @@ translate philippine strings:
     old "Say goodbye and leave"
     new "Magpaalam at umalis"
 
+# TODO: Translation updated at 2022-05-12 08:59
+
+# game/logic/events/molly.rpy:384
+translate philippine Molly_3_label_584db1ca:
+
+    # ch_Name "Alright, alright, I'll do it. I won't leave you hanging."
+    ch_Name ""
+

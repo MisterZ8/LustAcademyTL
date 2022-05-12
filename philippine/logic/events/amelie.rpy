@@ -2742,3 +2742,1341 @@ translate philippine strings:
     old "Stop it"
     new "Pigilan"
 
+# TODO: Translation updated at 2022-05-12 08:59
+
+# game/logic/events/amelie.rpy:522
+translate philippine Amelie_3_label_01fb8671:
+
+    # ch_Name "Amelie! How are you doing?"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:524
+translate philippine Amelie_3_label_ced9f87a:
+
+    # Amelie "It could be better. I'm a little bit sleep-deprived."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:525
+translate philippine Amelie_3_label_6dc332a9:
+
+    # ch_Name "Well, it's hard to say. You're looking so fresh!"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:526
+translate philippine Amelie_3_label_438c809a:
+
+    # Amelie "Oh, thanks!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:527
+translate philippine Amelie_3_label_1da5e150:
+
+    # Amelie "It's really nice to see you. You barely come here to the library lately."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:530
+translate philippine Amelie_3_label_423d4627:
+
+    # ch_Name "Um, kind of."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:531
+translate philippine Amelie_3_label_6f105fce:
+
+    # ch_Name "But that's not a reason to leave your fantastic world of books and magic. It's too appealing, he-he."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:532
+translate philippine Amelie_3_label_134767ea:
+
+    # Amelie "That makes me optimistic."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:534
+translate philippine Amelie_3_label_c1897fc3:
+
+    # Amelie "Actually, you missed a lot. It's been a difficult few days."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:536
+translate philippine Amelie_3_label_a5b7fae7:
+
+    # Amelie "The pixies lost their minds completely!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:540
+translate philippine Amelie_3_label_b739e5ac:
+
+    # Amelie "They've started to steal other things!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:541
+translate philippine Amelie_3_label_8ca27646:
+
+    # Amelie "The last one was my purse."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:542
+translate philippine Amelie_3_label_f225cb89:
+
+    # Amelie "I still can't find it, can you imagine?"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:543
+translate philippine Amelie_3_label_d861727f:
+
+    # ch_Name "Are you sure it was pixies?"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:545
+translate philippine Amelie_3_label_b293244a:
+
+    # Amelie "Yes, pixies. Or elves... They live and work together in our Academy's forest."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:546
+translate philippine Amelie_3_label_779980d7:
+
+    # Amelie "They have kinda symbiotic relationship."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:547
+translate philippine Amelie_3_label_75138360:
+
+    # ch_Name "I think we should do something with the scoundrels."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:548
+translate philippine Amelie_3_label_26c4294e:
+
+    # ch_Name "But let's try to find the purse first. Where did you see it last time before it was stolen?"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:551
+translate philippine Amelie_3_label_c77d71c5:
+
+    # ch_Name "Hmm, let me think."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:553
+translate philippine Amelie_3_label_31e3e888:
+
+    # ch_Name "Shh! Do you hear that?"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:555
+translate philippine Amelie_3_label_8c0a1000:
+
+    # Amelie "Hear what?"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:563
+translate philippine Amelie_3_label_1378f435:
+
+    # ch_Name "{i}(And this booty!){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:564
+translate philippine Amelie_3_label_d9b05244:
+
+    # ch_Name "{i}(Breathtaking!){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:566
+translate philippine Amelie_3_label_bd39e135:
+
+    # ch_Name "No, I definitely heard something... It sounds like it's coming from right over here. "
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:567
+translate philippine Amelie_3_label_8598f65e:
+
+    # Amelie "You seem to have good hearing, [Name]. "
+    Amelie ""
+
+# game/logic/events/amelie.rpy:568
+translate philippine Amelie_3_label_b7fece4c:
+
+    # ch_Name "I..."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:573
+translate philippine Amelie_3_label_5fc7e775:
+
+    # ch_Name "I hope you've heard that at least."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:574
+translate philippine Amelie_3_label_57792d40:
+
+    # Amelie "Oh, my... Yes!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:575
+translate philippine Amelie_3_label_e3757910:
+
+    # ch_Name "We're on the right track."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:577
+translate philippine Amelie_3_label_422f6650:
+
+    # ch_Name "Something is going on behind these shelves."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:578
+translate philippine Amelie_3_label_789c28fc:
+
+    # ch_Name "By the way, are pixies dangerous for us?"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:579
+translate philippine Amelie_3_label_6fba8bf4:
+
+    # Amelie "It's hard to say."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:580
+translate philippine Amelie_3_label_6a10e97d:
+
+    # Amelie "I want you to be ready for anything, just in case."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:582
+translate philippine Amelie_3_label_5f0f0848:
+
+    # Amelie "But I believe that we'll be okay."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:583
+translate philippine Amelie_3_label_a1becfc5:
+
+    # Amelie "Don't forget about the purse! We need to get it back."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:584
+translate philippine Amelie_3_label_ad0fe220:
+
+    # ch_Name "No-no, that's not the most important thing."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:585
+translate philippine Amelie_3_label_74180c62:
+
+    # ch_Name "We need to teach these thieves a lesson."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:587
+translate philippine Amelie_3_label_8377723d:
+
+    # ch_Name "They need a little lesson, don't they?"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:588
+translate philippine Amelie_3_label_4264b5ea:
+
+    # ch_Name "Full ahead, Amelie!"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:597
+translate philippine Amelie_3_label_c8cfceed:
+
+    # ch_Name "No, wait!"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:599
+translate philippine Amelie_3_label_903ee691:
+
+    # Amelie "It's time to stop, guys. We need to talk."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:600
+translate philippine Amelie_3_label_6ec0a41e:
+
+    # Amelie "Guys...?"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:601
+translate philippine Amelie_3_label_6d9d85aa:
+
+    # ch_Name "No offense, but I think it's completely useless. They won't listen to you."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:606
+translate philippine Amelie_3_label_6368547e:
+
+    # ch_Name "Here's your purse, at least."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:607
+translate philippine Amelie_3_label_84f6c743:
+
+    # ch_Name "Is something missing?"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:610
+translate philippine Amelie_3_label_e36b0f2e:
+
+    # ch_Name "{i}(I mean, it's...){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:624
+translate philippine Amelie_3_label_ef5bc296:
+
+    # ch_Name "It looks like a vibraror."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:633
+translate philippine Amelie_3_label_4cdd06f7:
+
+    # ch_Name "Wow, that's really cool!"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:634
+translate philippine Amelie_3_label_52e17347:
+
+    # ch_Name "You look like a woman who likes experiments."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:636
+translate philippine Amelie_3_label_72a1eba5:
+
+    # ch_Name "And here we do have proof."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:643
+translate philippine Amelie_3_label_7ff9817e:
+
+    # Amelie "Give it to me, please."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:644
+translate philippine Amelie_3_label_c6810245:
+
+    # ch_Name "Yes, sure."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:646
+translate philippine Amelie_3_label_8af4e554:
+
+    # ch_Name "Is there anything missing?"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:647
+translate philippine Amelie_3_label_84bb2fd4:
+
+    # Amelie "I don't think so. Or..."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:650
+translate philippine Amelie_3_label_0ddbee09:
+
+    # Amelie "Oh, no! The potion?"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:655
+translate philippine Amelie_3_label_802c4fe7:
+
+    # Amelie "We practiced it with Miss Spellman... Just for fun."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:658
+translate philippine Amelie_3_label_dcf36819:
+
+    # Amelie "I'm telling you, it's not here. Pixies stole it!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:659
+translate philippine Amelie_3_label_45db865e:
+
+    # Amelie "[Name], we have to get it back by all possible means!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:663
+translate philippine Amelie_3_label_65897747:
+
+    # Amelie "In the Elves lair. It's somewhere in the forest."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:667
+translate philippine Amelie_3_label_7b7ba9ca:
+
+    # Amelie "There is a special spell, but I can't remember it, to tell the truth. "
+    Amelie ""
+
+# game/logic/events/amelie.rpy:668
+translate philippine Amelie_3_label_28589e2d:
+
+    # Amelie "I need to check the books."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:670
+translate philippine Amelie_3_label_db995889:
+
+    # ch_Name "Okay, let's keep in touch. "
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:672
+translate philippine Amelie_3_label_ab8493c0:
+
+    # Amelie "We don't have much time, actually. I should hurry."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:673
+translate philippine Amelie_3_label_1f580a49:
+
+    # Amelie "Oh, my hands are shaking... I'm so nervous!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:676
+translate philippine Amelie_3_label_b92607ad:
+
+    # ch_Name "Just text or call me if anything comes up."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:705
+translate philippine Amelie_4_label_8acdecdb:
+
+    # ch_Name "{i}(Um. What time is it?){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:706
+translate philippine Amelie_4_label_53509c19:
+
+    # ch_Name "Good morning, Amelie. Has something happened?"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:709
+translate philippine Amelie_4_label_51d3ac6c:
+
+    # Amelie "And the faster we go there and get the potion is the better."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:710
+translate philippine Amelie_4_label_d1dec250:
+
+    # ch_Name "Yeah, you are right... 10 minutes, okay?"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:722
+translate philippine Amelie_4_label_025580a6:
+
+    # Amelie "I'm so glad that you're here with me, [Name]!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:723
+translate philippine Amelie_4_label_4083d767:
+
+    # Amelie "Let's get on with it."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:727
+translate philippine Amelie_4_label_f4d9e96b:
+
+    # Amelie "Three drops of the Mesmerizing potion can drive a human insane for a short time."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:730
+translate philippine Amelie_4_label_e80765e7:
+
+    # Amelie "But since an average elf or pixie is much smaller than a human..."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:731
+translate philippine Amelie_4_label_1f5dd3ac:
+
+    # Amelie "...even one drop can be lethal for them in the best of cases..."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:734
+translate philippine Amelie_4_label_b940560d:
+
+    # Amelie "In the worst case... I don't even want to picture that."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:735
+translate philippine Amelie_4_label_d2cae793:
+
+    # ch_Name "Ugh... Let's hurry up!"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:744
+translate philippine Amelie_4_label_d85bd9ab:
+
+    # ch_Name "Yep, with miss Spellman."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:751
+translate philippine Amelie_4_label_41172288:
+
+    # ch_Name "Сertainly, Amelie, don't worry about that."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:754
+translate philippine Amelie_4_label_be89e9fa:
+
+    # Amelie "No-no, not really."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:755
+translate philippine Amelie_4_label_83a0e003:
+
+    # Amelie "We are close."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:762
+translate philippine Amelie_4_label_9ebe47fb:
+
+    # Amelie "Well, it should be here."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:765
+translate philippine Amelie_4_label_fb647291:
+
+    # Amelie "Here we are.{w} Just great."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:766
+translate philippine Amelie_4_label_b18b47b4:
+
+    # ch_Name "Wow! It works!"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:771
+translate philippine Amelie_4_label_06d43762:
+
+    # Amelie "We only need to negotiate with the pixies. And it would be wise not to anger them..."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:772
+translate philippine Amelie_4_label_212342cd:
+
+    # Amelie "Let's hope for the best."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:775
+translate philippine Amelie_4_label_97a74cb9:
+
+    # UnknownElf "You have no business here, magicians. This is our territory."
+    UnknownElf ""
+
+# game/logic/events/amelie.rpy:777
+translate philippine Amelie_4_label_74612202:
+
+    # UnknownElf "To speak about what?"
+    UnknownElf ""
+
+# game/logic/events/amelie.rpy:779
+translate philippine Amelie_4_label_c6524743:
+
+    # Amelie "Something was stolen from the Academy by pixies. "
+    Amelie ""
+
+# game/logic/events/amelie.rpy:781
+translate philippine Amelie_4_label_48d41008:
+
+    # UnknownElf "Are you sure that those who stole it were pixies?"
+    UnknownElf ""
+
+# game/logic/events/amelie.rpy:783
+translate philippine Amelie_4_label_e31c74d1:
+
+    # ch_Name "We saw it with our own eyes!"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:784
+translate philippine Amelie_4_label_755289fc:
+
+    # UnknownElf "Um... Wait here."
+    UnknownElf ""
+
+# game/logic/events/amelie.rpy:787
+translate philippine Amelie_4_label_ab12b9e5:
+
+    # UnknownElf3 "My name is Grang. What are you looking for, strangers?"
+    UnknownElf3 ""
+
+# game/logic/events/amelie.rpy:789
+translate philippine Amelie_4_label_8bb0e6d1:
+
+    # Amelie "We just want to get it back."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:800
+translate philippine Amelie_4_label_4c3fb4ad:
+
+    # Grang "How much would you pay for that?"
+    Grang ""
+
+# game/logic/events/amelie.rpy:809
+translate philippine Amelie_4_label_6a9c3d85:
+
+    # Grang "It's yours, then. You're free to do whatever you want with it!"
+    Grang ""
+
+# game/logic/events/amelie.rpy:812
+translate philippine Amelie_4_label_5bd2fc10:
+
+    # ch_Name "Amelie!" with vpunch
+    ch_Name "" with vpunch
+
+# game/logic/events/amelie.rpy:821
+translate philippine Amelie_4_label_f30f3ebb:
+
+    # Grang "RIGHT NOW!"
+    Grang ""
+
+# game/logic/events/amelie.rpy:822
+translate philippine Amelie_4_label_00dbb33b:
+
+    # ch_Name "I said everything. One more time and you'll have to deal with the Principal."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:836
+translate philippine Amelie_4_label_bbed08c0:
+
+    # ch_Name "Yes, Amelie."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:837
+translate philippine Amelie_4_label_a6c4f7b7:
+
+    # ch_Name "You got some of the Mesmerizing potion on you."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:843
+translate philippine Amelie_4_label_cb7de0a5:
+
+    # Amelie "Shh!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:848
+translate philippine Amelie_4_label_209d7342:
+
+    # Amelie "Oh, what a pleasure!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:849
+translate philippine Amelie_4_label_7cebe310:
+
+    # Amelie "You can't even imagine how long I've been waiting for this moment!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:860
+translate philippine Amelie_4_label_38076951:
+
+    # ch_Name "No-no-no, Amelie."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:861
+translate philippine Amelie_4_label_1b9b27cf:
+
+    # ch_Name "It's not you, it's the potion!"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:868
+translate philippine Amelie_4_label_15fb16d0:
+
+    # ch_Name "Shh!"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:888
+translate philippine Amelie_4_label_8afb020c:
+
+    # ch_Name "You were under the influence of the Mesmerizing potion."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:893
+translate philippine Amelie_4_label_61f8b8c0:
+
+    # ch_Name "You need to rest, Amelie."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:896
+translate philippine Amelie_4_label_ff443696:
+
+    # Amelie "Ohh, [Name], thank you! What would I do without you?"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:900
+translate philippine Amelie_4_label_ed81b3d2:
+
+    # ch_Name "It's nothing, Amelie."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:904
+translate philippine Amelie_4_label_b5f6ce7b:
+
+    # Amelie "Oh, I feel so weak in my head..."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:905
+translate philippine Amelie_4_label_fea10c57:
+
+    # ch_Name "It's better to have some sleep."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:907
+translate philippine Amelie_4_label_2a73ce1e:
+
+    # ch_Name "I'll come back later then, I promise."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:916
+translate philippine Amelie_4_label_383ccd48:
+
+    # ch_Name "{i}(This trip to the woods with Amelie was pretty exhausting.){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:950
+translate philippine Amelie_5_label_dfb845c3:
+
+    # ch_Name "{i}(Well, that was something...){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:951
+translate philippine Amelie_5_label_6c92db65:
+
+    # ch_Name "{i}(Not what I'm used to doing when I wake up, but, yeah.){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:952
+translate philippine Amelie_5_label_dc93f9c9:
+
+    # ch_Name "{i}(At least I got to know that Audrey is not the only succubus in the world.){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:953
+translate philippine Amelie_5_label_72538a36:
+
+    # ch_Name "{i}(If whoever wrote that letter tells the truth.){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:955
+translate philippine Amelie_5_label_67f06a36:
+
+    # ch_Name "{i}(The good thing is that I have a lot of time before classes.){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:956
+translate philippine Amelie_5_label_bc728477:
+
+    # ch_Name "{i}(I can pay a visit to Amelie to ask how she is.){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:957
+translate philippine Amelie_5_label_930630d6:
+
+    # ch_Name "{i}(It's been a while since that incident with elves.){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:964
+translate philippine Amelie_5_label_6554fa42:
+
+    # ch_Name "{i}(It's been a few weeks...){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:965
+translate philippine Amelie_5_label_018085af:
+
+    # ch_Name "{i}(I hope Amelie isn't mad I haven't shown up for so long.){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:966
+translate philippine Amelie_5_label_db353223:
+
+    # ch_Name "{i}(But I had a lot on my plate recently, and that was just a Mesmerizing potion...){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:967
+translate philippine Amelie_5_label_3a5021d4:
+
+    # ch_Name "{i}(Am I overthinking this? I'm just another student to her.){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:969
+translate philippine Amelie_5_label_a808a800:
+
+    # ch_Name "{i}(Anyway, it's no use guessing how she feels.){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:970
+translate philippine Amelie_5_label_f7fd47ea:
+
+    # ch_Name "{i}(I'll find it out in a second.){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:978
+translate philippine Amelie_5_label_a2d0446b:
+
+    # ch_Name "It's so nice to see you, Amelie!"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:979
+translate philippine Amelie_5_label_c851a750:
+
+    # ch_Name "How are you? Are you alright?"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:981
+translate philippine Amelie_5_label_d9e0c391:
+
+    # Amelie "[Name]! Wait for a second, are you busy now?"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:982
+translate philippine Amelie_5_label_f8aa82d4:
+
+    # ch_Name "I always have time for you, miss."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:983
+translate philippine Amelie_5_label_70e3a094:
+
+    # Amelie "I'm looking for someone who can help me with books."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:984
+translate philippine Amelie_5_label_1ec15e71:
+
+    # Amelie "I need to put them on the shelves in alphabetical order. Can you..."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:985
+translate philippine Amelie_5_label_4586a92d:
+
+    # ch_Name "Of course, I'd be happy to help. Let's do this together!"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:992
+translate philippine Amelie_5_label_96b5e006:
+
+    # ch_Name "Are you better, Amelie? "
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:993
+translate philippine Amelie_5_label_2e55558f:
+
+    # ch_Name "It's just... Last time you didn't feel well."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:994
+translate philippine Amelie_5_label_bb4909ba:
+
+    # Amelie "Now it's almost great, thanks. "
+    Amelie ""
+
+# game/logic/events/amelie.rpy:996
+translate philippine Amelie_5_label_b45fc78a:
+
+    # ch_Name "That's good to hear. I was worried about you!"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:997
+translate philippine Amelie_5_label_5a71562f:
+
+    # Amelie "Really?"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:998
+translate philippine Amelie_5_label_027694da:
+
+    # Amelie "Anyway, that Mesmerizing potion..."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1000
+translate philippine Amelie_5_label_6c8c12ca:
+
+    # Amelie "Give me this book, please."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1002
+translate philippine Amelie_5_label_cb923b08:
+
+    # Amelie "Thank you!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1003
+translate philippine Amelie_5_label_8d640ea5:
+
+    # ch_Name "{i}(Um... I can't get used to this view... This tight skirt is really something...){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1004
+translate philippine Amelie_5_label_b2a89abb:
+
+    # ch_Name "{i}(Oh, Amelie... Only look at her, all curvy and perky...){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1005
+translate philippine Amelie_5_label_011e375f:
+
+    # ch_Name "{i}(And her muscles tense up so nicely when she puts a book on the shelf!){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1007
+translate philippine Amelie_5_label_0eaef48d:
+
+    # Amelie "What was I saying? So, the Mesmerizing potion..."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1008
+translate philippine Amelie_5_label_315abf79:
+
+    # Amelie "This is a pretty strong thing, I can say."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1009
+translate philippine Amelie_5_label_d827c9c4:
+
+    # Amelie "But everything bad is almost over now."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1011
+translate philippine Amelie_5_label_18a05c8b:
+
+    # Amelie "Except of..."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1012
+translate philippine Amelie_5_label_aa191431:
+
+    # ch_Name "Except of what?"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1013
+translate philippine Amelie_5_label_025937d5:
+
+    # Amelie "I'm not sure if I should tell you this part of the story..."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1014
+translate philippine Amelie_5_label_9a57bbe9:
+
+    # ch_Name "I'm only interested in potions."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1015
+translate philippine Amelie_5_label_c308f1ce:
+
+    # ch_Name "You can ask Miss Spellman, I'm one of the best in her class."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1017
+translate philippine Amelie_5_label_42d52850:
+
+    # ch_Name "So I think that it will be very useful to know more about the Mesmerizing potion's effects."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1018
+translate philippine Amelie_5_label_df95cc41:
+
+    # ch_Name "Not from the textbook, but from the real person who experienced it."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1019
+translate philippine Amelie_5_label_59353fad:
+
+    # Amelie "Yeah, Sabrina told me so many good things about your passion for potions."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1020
+translate philippine Amelie_5_label_51c1b5a6:
+
+    # Amelie "Okay, it's nothing to be embarrassed about."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1021
+translate philippine Amelie_5_label_f8b59576:
+
+    # Amelie "There is one lasting side effect..."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1023
+translate philippine Amelie_5_label_4b92f51d:
+
+    # Amelie "...it went out that Mesmerizing potion causes increased libido."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1024
+translate philippine Amelie_5_label_8d1cefb4:
+
+    # Amelie "I hope to get over it as soon as possible."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1025
+translate philippine Amelie_5_label_93cdcae9:
+
+    # ch_Name "Oh, that's not easy. I know exactly how it feels."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1026
+translate philippine Amelie_5_label_62a1fdae:
+
+    # ch_Name "Do you remember any of what happened when you got some potion on you?"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1028
+translate philippine Amelie_5_label_e4c810a2:
+
+    # Amelie "Actually, I recall something. Something really awkward..."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1029
+translate philippine Amelie_5_label_fe98dfcc:
+
+    # ch_Name "Um... Like what?"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1030
+translate philippine Amelie_5_label_5b8d1ec0:
+
+    # ch_Name "{i}(What exactly does she remember?){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1032
+translate philippine Amelie_5_label_a882280a:
+
+    # Amelie "I remember that I had a burning desire to kiss you..."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1033
+translate philippine Amelie_5_label_e22ac7b2:
+
+    # ch_Name "{i}(Woah!){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1034
+translate philippine Amelie_5_label_0f7f5962:
+
+    # Amelie "But I don't remember if we actually did something reckless."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1035
+translate philippine Amelie_5_label_d6c4489a:
+
+    # Amelie "We didn't do anything, did we?"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1036
+translate philippine Amelie_5_label_d21ba21f:
+
+    # ch_Name "No, of course, not at all."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1038
+translate philippine Amelie_5_label_a33171a3:
+
+    # ch_Name "Don't worry about that."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1039
+translate philippine Amelie_5_label_7d09cf39:
+
+    # ch_Name "I respect you too much to allow myself to behave inappropriately."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1041
+translate philippine Amelie_5_label_9db6b677:
+
+    # Amelie "Or maybe it's just an excuse?"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1042
+translate philippine Amelie_5_label_38dea423:
+
+    # Amelie "Perhaps, I'm not your type, mmm?"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1043
+translate philippine Amelie_5_label_c3327e8a:
+
+    # Amelie "I'm not young and beautiful enough?"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1044
+translate philippine Amelie_5_label_cd9bb35a:
+
+    # Amelie "What do you say on that?"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1046
+translate philippine Amelie_5_label_c9e85775:
+
+    # Amelie "Okay, I'm only kidding."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1047
+translate philippine Amelie_5_label_19088b3d:
+
+    # Amelie "It's just me, or you're getting tensed up?"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1048
+translate philippine Amelie_5_label_222273c8:
+
+    # ch_Name "Sorry, but that's the stupidest thing I've ever heard."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1049
+translate philippine Amelie_5_label_8c0e5aac:
+
+    # Amelie "What?"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1051
+translate philippine Amelie_5_label_3220c182:
+
+    # ch_Name "How can you say such things about yourself?"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1052
+translate philippine Amelie_5_label_5968995a:
+
+    # ch_Name "You're actually one of the most gorgeous women that I've ever seen!"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1053
+translate philippine Amelie_5_label_41da535e:
+
+    # ch_Name "You're... perfect! And I'm not exaggerating, believe me."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1054
+translate philippine Amelie_5_label_0aa9e643:
+
+    # ch_Name "I can spend the whole eternity looking at you, Amelie."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1056
+translate philippine Amelie_5_label_efa48e91:
+
+    # Amelie "I... I wasn't expecting that..."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1057
+translate philippine Amelie_5_label_d3ad7113:
+
+    # Amelie "I'm very flattered, of course, but..."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1058
+translate philippine Amelie_5_label_eb3410ca:
+
+    # Amelie "It's hard for me to take compliments, especially from you..."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1059
+translate philippine Amelie_5_label_bb7a94c3:
+
+    # ch_Name "No-no-no, that's not just a compliment."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1061
+translate philippine Amelie_5_label_77291965:
+
+    # ch_Name "I meant every word."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1062
+translate philippine Amelie_5_label_11c0051a:
+
+    # Amelie "Okay..."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1063
+translate philippine Amelie_5_label_cc7db8f6:
+
+    # Amelie "Let's finish with the books."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1064
+translate philippine Amelie_5_label_545f9ced:
+
+    # Amelie "Otherwise we'll never get to the end of it."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1071
+translate philippine Amelie_5_label_bcc1c817:
+
+    # Amelie "I can't believe we're done here!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1072
+translate philippine Amelie_5_label_ac8de740:
+
+    # Amelie "Great job, [Name]!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1074
+translate philippine Amelie_5_label_bb948281:
+
+    # ch_Name "What's about this one?"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1075
+translate philippine Amelie_5_label_38c5d866:
+
+    # Amelie "Ops!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1077
+translate philippine Amelie_5_label_08169b1a:
+
+    # Amelie "I'll need it."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1078
+translate philippine Amelie_5_label_87c31739:
+
+    # ch_Name "{i}(That's too hot!){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1080
+translate philippine Amelie_5_label_a0c58b46:
+
+    # ch_Name "{i}(Oh, please, not now... Fuck!){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1081
+translate philippine Amelie_5_label_fb9929b2:
+
+    # ch_Name "{i}(It's getting me an erection...){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1082
+translate philippine Amelie_5_label_5fc96338:
+
+    # ch_Name "{i}(I hope she doesn't notice anything...){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1084
+translate philippine Amelie_5_label_c4596f12:
+
+    # Amelie "Thanks, [Name]! You helped me so much!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1085
+translate philippine Amelie_5_label_0b9f210f:
+
+    # Amelie "Seriously, I owe you."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1086
+translate philippine Amelie_5_label_ea72efbc:
+
+    # Amelie "Oh, what's that?"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1087
+translate philippine Amelie_5_label_f3b76a97:
+
+    # ch_Name "Sorry, I... I can't control it."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1089
+translate philippine Amelie_5_label_cee761be:
+
+    # ch_Name "When I see such a beautiful woman's body as you have, I just..."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1090
+translate philippine Amelie_5_label_302c4188:
+
+    # ch_Name "I'm getting turned on just thinking about it."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1091
+translate philippine Amelie_5_label_925eee38:
+
+    # ch_Name "I hope this doesn't make you uncomfortable. That's just how my body reacts to you..."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1092
+translate philippine Amelie_5_label_ab7be6e8:
+
+    # Amelie "Don't worry, dear! I'm kinda flattered to see such a big \"reaction\"..."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1093
+translate philippine Amelie_5_label_62c76db5:
+
+    # Amelie "Anyway, you must be tired now. How about taking some rest?"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1095
+translate philippine Amelie_5_label_dbc89c44:
+
+    # Amelie "And that's for you."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1096
+translate philippine Amelie_5_label_5b985813:
+
+    # Amelie "I have a feeling that you'll find it interesting."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1097
+translate philippine Amelie_5_label_18042c44:
+
+    # ch_Name "Whoa, thanks. What a pleasant surprise!"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1099
+translate philippine Amelie_5_label_93307cca:
+
+    # Amelie "Have a good time!"
+    Amelie ""
+
+# game/logic/events/amelie.rpy:1107
+translate philippine Amelie_5_label_984c887e:
+
+    # ch_Name "{i}(Well, what do we have here?){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1108
+translate philippine Amelie_5_label_9fb01e2e:
+
+    # ch_Name "{i}(Interesting!){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1110
+translate philippine Amelie_5_label_8f7f3873:
+
+    # ch_Name "{i}(\"The Bible of Sex\"...){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1111
+translate philippine Amelie_5_label_cf14b8d3:
+
+    # ch_Name "{i}(\"Art of Seduction\"...){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1112
+translate philippine Amelie_5_label_75398644:
+
+    # ch_Name "{i}(What?){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1113
+translate philippine Amelie_5_label_eb6c183c:
+
+    # ch_Name "{i}(It looks like a kinda signal...){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:1114
+translate philippine Amelie_5_label_22e4afa4:
+
+    # ch_Name "{i}(I should visit Amelie more often to find out what she’s up to...){/i}"
+    ch_Name ""
+
+translate philippine strings:
+
+    # game/logic/events/amelie.rpy:9
+    old "2 Talk to Amelie"
+    new ""
+
+    # game/logic/events/amelie.rpy:9
+    old "Levitation feather"
+    new ""
+

@@ -1632,3 +1632,17 @@ translate philippine strings:
     old "Close"
     new "Isara"
 
+# TODO: Translation updated at 2022-05-12 08:59
+
+# game/logic/tutorial.rpy:678
+translate philippine CordGarden_label_e19e47e3:
+
+    # Joshi "By the way, have you seen Sabrina yet? Dude, I still have a boner..."
+    Joshi ""
+
+# game/logic/tutorial.rpy:726
+translate philippine CordGarden_label_e19e47e3_1:
+
+    # Joshi "By the way, have you seen Sabrina yet? Dude, I still have a boner..."
+    Joshi ""
+

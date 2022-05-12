@@ -9382,3 +9382,2117 @@ translate philippine strings:
     old "Stay friends"
     new "Manatiling magkaibigan"
 
+# TODO: Translation updated at 2022-05-12 08:59
+
+# game/logic/events/lily.rpy:271
+translate philippine Lily_1_label_caa12d0e:
+
+    # Lily "It couldn't have gone any other way. Just impossible!"
+    Lily ""
+
+# game/logic/events/lily.rpy:272
+translate philippine Lily_1_label_e3b7a84c:
+
+    # Lily "But I was so happy at that moment! It was such a relief."
+    Lily ""
+
+# game/logic/events/lily.rpy:274
+translate philippine Lily_1_label_ac05a8f6:
+
+    # Lily "Whoa, you got in too, right?"
+    Lily ""
+
+# game/logic/events/lily.rpy:277
+translate philippine Lily_1_label_b6937064:
+
+    # Lily "That's great! I'm so glad for you!"
+    Lily ""
+
+# game/logic/events/lily.rpy:278
+translate philippine Lily_1_label_9bf145d6:
+
+    # ch_Name "Oh, really? You are?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:280
+translate philippine Lily_1_label_64c8e7a3:
+
+    # Lily "Um... I'm just a very empathetic person."
+    Lily ""
+
+# game/logic/events/lily.rpy:282
+translate philippine Lily_1_label_b4a31116:
+
+    # Lily "And you seem really nice at first glance."
+    Lily ""
+
+# game/logic/events/lily.rpy:283
+translate philippine Lily_1_label_d9f1d444:
+
+    # Lily "Plus we are both from Leonheart. We have to stick together!"
+    Lily ""
+
+# game/logic/events/lily.rpy:284
+translate philippine Lily_1_label_a79f83ba:
+
+    # Lily "The house needs mages like us, like you and me!"
+    Lily ""
+
+# game/logic/events/lily.rpy:286
+translate philippine Lily_1_label_2aec3c5d:
+
+    # ch_Name "{i}(Elijah should be worried about his position, that's for sure.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:291
+translate philippine Lily_1_label_6d01b6e9:
+
+    # ch_Name "Maybe we can ask Elijah about that?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:295
+translate philippine Lily_1_label_599e7dc6:
+
+    # ch_Name "You're so enthusiastic! I love it."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:296
+translate philippine Lily_1_label_851f863d:
+
+    # Lily "He-he, thanks!"
+    Lily ""
+
+# game/logic/events/lily.rpy:297
+translate philippine Lily_1_label_116a12da:
+
+    # Lily "Listen, every point counts."
+    Lily ""
+
+# game/logic/events/lily.rpy:302
+translate philippine Lily_1_label_2e11a2c0:
+
+    # ch_Name "I just don't get it, Lily. If the house wins the competition, so what?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:304
+translate philippine Lily_1_label_18f83242:
+
+    # Lily "So what? So what?!"
+    Lily ""
+
+# game/logic/events/lily.rpy:308
+translate philippine Lily_1_label_84819822:
+
+    # Lily "It's a great line on a resume."
+    Lily ""
+
+# game/logic/events/lily.rpy:310
+translate philippine Lily_1_label_0a07188d:
+
+    # ch_Name "Whoa, okay. If you say so."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:312
+translate philippine Lily_1_label_77c98a97:
+
+    # ch_Name "I should admit that it sounds really useful."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:313
+translate philippine Lily_1_label_0874f143:
+
+    # ch_Name "I'm in!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:315
+translate philippine Lily_1_label_f3af79d6:
+
+    # Lily "Really?! Yay!"
+    Lily ""
+
+# game/logic/events/lily.rpy:316
+translate philippine Lily_1_label_cded2793:
+
+    # ch_Name "{i}(She so surprised!){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:318
+translate philippine Lily_1_label_8de9bdb2:
+
+    # ch_Name "Yeah, I'm going to try at least."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:329
+translate philippine Lily_1_label_8be32841:
+
+    # Lily "We are definitely not going to lose the house competition to Naomi!"
+    Lily ""
+
+# game/logic/events/lily.rpy:334
+translate philippine Lily_1_label_00ca6d4d:
+
+    # ch_Name "You're so cute when you're motivated. It's adorable!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:337
+translate philippine Lily_1_label_5229cb18:
+
+    # Lily "He-he-he."
+    Lily ""
+
+# game/logic/events/lily.rpy:338
+translate philippine Lily_1_label_1ecdfa8e:
+
+    # ch_Name "And that just makes you prettier! "
+    ch_Name ""
+
+# game/logic/events/lily.rpy:374
+translate philippine Lily_2_label_29c7949f:
+
+    # ch_Name "Hi! I'm sorry, have we met?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:375
+translate philippine Lily_2_label_6b6823a9:
+
+    # Lily "He-he-he, [Name]! Of course we've met before."
+    Lily ""
+
+# game/logic/events/lily.rpy:377
+translate philippine Lily_2_label_70099426:
+
+    # ch_Name "I've just seen you here, and I'm... speechless."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:378
+translate philippine Lily_2_label_fbf824b6:
+
+    # ch_Name "You look gorgeous!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:379
+translate philippine Lily_2_label_4e08ca0d:
+
+    # ch_Name "Who are you, beautiful lady?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:380
+translate philippine Lily_2_label_f8c1e243:
+
+    # Lily "Pheeew! [Name], don't make me blush!"
+    Lily ""
+
+# game/logic/events/lily.rpy:381
+translate philippine Lily_2_label_4cbab251:
+
+    # ch_Name "What are you doing, sweetie?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:382
+translate philippine Lily_2_label_47de7947:
+
+    # Lily "Nothing too exciting."
+    Lily ""
+
+# game/logic/events/lily.rpy:388
+translate philippine Lily_2_label_b5ea94ca:
+
+    # Lily "But knowledge never hurts. And that's all so interesting!"
+    Lily ""
+
+# game/logic/events/lily.rpy:389
+translate philippine Lily_2_label_612bcd84:
+
+    # ch_Name "Very well said."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:405
+translate philippine Lily_2_label_2abaf26c:
+
+    # Lily "Did you know that the local magical creatures steal textbooks?"
+    Lily ""
+
+# game/logic/events/lily.rpy:406
+translate philippine Lily_2_label_7c9f8890:
+
+    # ch_Name "Yeah, sure."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:407
+translate philippine Lily_2_label_02eb711e:
+
+    # Lily "And that they leave them all over the academy? I was shocked!"
+    Lily ""
+
+# game/logic/events/lily.rpy:408
+translate philippine Lily_2_label_a1eaa9ee:
+
+    # Lily "I mean, everybody's talking about it."
+    Lily ""
+
+# game/logic/events/lily.rpy:409
+translate philippine Lily_2_label_77c9b0c1:
+
+    # ch_Name "Yep, she told me."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:413
+translate philippine Lily_2_label_8e357813:
+
+    # Lily "Because Amelie gives house points for books!"
+    Lily ""
+
+# game/logic/events/lily.rpy:416
+translate philippine Lily_2_label_85602767:
+
+    # Lily "And it's something to do in our spare time! Isn't it awesome?"
+    Lily ""
+
+# game/logic/events/lily.rpy:474
+translate philippine Lily_3_label_8_3f8f5693:
+
+    # ch_Name "Hey, baby!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:475
+translate philippine Lily_3_label_8_bd21c0b8:
+
+    # Lily "Baby? He-he, what kind of nonsense is that?"
+    Lily ""
+
+# game/logic/events/lily.rpy:476
+translate philippine Lily_3_label_8_c5ab913e:
+
+    # ch_Name "I just like the way it sounds. And you actually look like a baby girl!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:479
+translate philippine Lily_3_label_8_1e35dfc0:
+
+    # Lily "I was just thinking about you..."
+    Lily ""
+
+# game/logic/events/lily.rpy:480
+translate philippine Lily_3_label_8_6d99547d:
+
+    # ch_Name "Thinking about me?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:481
+translate philippine Lily_3_label_8_75398644:
+
+    # ch_Name "{i}(What?){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:482
+translate philippine Lily_3_label_8_2fdba5f1:
+
+    # ch_Name "I'm flattered, but..."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:483
+translate philippine Lily_3_label_8_7f9cff70:
+
+    # Lily "No-no, I mean... "
+    Lily ""
+
+# game/logic/events/lily.rpy:484
+translate philippine Lily_3_label_8_c8971a1f:
+
+    # Lily "I was thinking about the ways to get some additional points... For you and me..."
+    Lily ""
+
+# game/logic/events/lily.rpy:485
+translate philippine Lily_3_label_8_42c2c814:
+
+    # ch_Name "{i}(She's so embarrassed!){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:486
+translate philippine Lily_3_label_8_403d47e4:
+
+    # Lily "Um... It's time to get ready for the class now."
+    Lily ""
+
+# game/logic/events/lily.rpy:502
+translate philippine Lily_3_label_8_db337521:
+
+    # ch_Name "What? Why?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:506
+translate philippine Lily_3_label_8_333be9f6:
+
+    # ch_Name "Well, what do you suggest?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:513
+translate philippine Lily_3_label_8_346a3344:
+
+    # Lily "We have to win at the Dueling club!"
+    Lily ""
+
+# game/logic/events/lily.rpy:518
+translate philippine Lily_3_label_8_17dc3853:
+
+    # ch_Name "And how do we do that in the Dueling club?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:554
+translate philippine Lily_3_label_8_960e2c45:
+
+    # Lily "We'll see!"
+    Lily ""
+
+# game/logic/events/lily.rpy:584
+translate philippine Lily_4_label_7d99ee58:
+
+    # Lily "Hi, [Name]!"
+    Lily ""
+
+# game/logic/events/lily.rpy:592
+translate philippine Lily_4_label_bab31562:
+
+    # ch_Name "I think you'll be happy to know that our house won the duel! "
+    ch_Name ""
+
+# game/logic/events/lily.rpy:596
+translate philippine Lily_4_label_7b125556:
+
+    # ch_Name "We had a bet, honey..."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:599
+translate philippine Lily_4_label_77d3f8b6:
+
+    # ch_Name "Oh, yes, exactly!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:610
+translate philippine Lily_4_label_0396bd3e:
+
+    # Lily "Um... Private? With you?"
+    Lily ""
+
+# game/logic/events/lily.rpy:611
+translate philippine Lily_4_label_c3ed65c2:
+
+    # ch_Name "Is something wrong?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:612
+translate philippine Lily_4_label_518b4315:
+
+    # ch_Name "Remember that bet we made? It's kind of hard to forget."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:624
+translate philippine Lily_4_label_70ef5326:
+
+    # Lily "Listen, I have an idea!"
+    Lily ""
+
+# game/logic/events/lily.rpy:626
+translate philippine Lily_4_label_25e668fe:
+
+    # Lily "Why don't we meet in your room when it gets dark?"
+    Lily ""
+
+# game/logic/events/lily.rpy:629
+translate philippine Lily_4_label_5935a52d:
+
+    # Lily "It's only... Haley and I share a room."
+    Lily ""
+
+# game/logic/events/lily.rpy:633
+translate philippine Lily_4_label_8e659807:
+
+    # Lily "To talk, and discuss our next move, of course."
+    Lily ""
+
+# game/logic/events/lily.rpy:634
+translate philippine Lily_4_label_b30955ec:
+
+    # ch_Name "What? I thought you meant our bet..."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:643
+translate philippine Lily_4_label_162ee212:
+
+    # Lily "I can't stand you sometimes, [Name]!"
+    Lily ""
+
+# game/logic/events/lily.rpy:644
+translate philippine Lily_4_label_79034826:
+
+    # ch_Name "You'll get over it, that's for sure."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:645
+translate philippine Lily_4_label_b646a502:
+
+    # ch_Name "See you later, baby."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:685
+translate philippine Lily_5_label_6b4f6cda:
+
+    # ch_Name "That's so cool! I'd go with you if it wasn't for my leg injury..."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:686
+translate philippine Lily_5_label_a8c74a19:
+
+    # Lily "Whoa, then let's go running together!"
+    Lily ""
+
+# game/logic/events/lily.rpy:687
+translate philippine Lily_5_label_6963aab5:
+
+    # Lily "When you heal your leg, of course."
+    Lily ""
+
+# game/logic/events/lily.rpy:689
+translate philippine Lily_5_label_2d1d489d:
+
+    # ch_Name "Great idea, Lily!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:690
+translate philippine Lily_5_label_1fa5403c:
+
+    # Lily "Wow, you got a cool room. "
+    Lily ""
+
+# game/logic/events/lily.rpy:692
+translate philippine Lily_5_label_959da5d4:
+
+    # Lily "This room is even cooler than ours. That's for sure!"
+    Lily ""
+
+# game/logic/events/lily.rpy:693
+translate philippine Lily_5_label_ffd0b82a:
+
+    # ch_Name "Really? You think so?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:709
+translate philippine Lily_5_label_1ebb188d:
+
+    # ch_Name "Somehow I don't doubt it, miss."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:845
+translate philippine Lily_5_label_101_0eb871fd:
+
+    # ch_Name "Let's discuss the house points plan some other time."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:962
+translate philippine Lily_5_label_130_e806eb66:
+
+    # ch_Name "Let's discuss everything, including the house point plan, some other time."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:1322
+translate philippine Lily_6_label_b8666e03:
+
+    # Sabrina "If we split up now, I'll go gather the blood blossom."
+    Sabrina ""
+
+# game/logic/events/lily.rpy:1368
+translate philippine Lily_6_label_ef52c95a:
+
+    # ch_Name "I am.{w} But look at the compass..."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:1437
+translate philippine Lily_6_label_from_gallery_52a91796:
+
+    # Lily "You're cute."
+    Lily ""
+
+# game/logic/events/lily.rpy:1535
+translate philippine Lily_6_label_from_gallery_74397ddc:
+
+    # ch_Name "What a view!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:1657
+translate philippine Lily_6_label_224_d286d62a:
+
+    # Lily "Mhm-mm..."
+    Lily ""
+
+# game/logic/events/lily.rpy:1700
+translate philippine Lily_6_label_224_fa4720c1_3:
+
+    # Lily "M-m-m..."
+    Lily ""
+
+# game/logic/events/lily.rpy:1780
+translate philippine Lily_6_label_224_0ae9bcd0:
+
+    # ""
+    ""
+
+# game/logic/events/lily.rpy:1812
+translate philippine Lily_6_label_224_41c699e0:
+
+    # Lily "Hey! You're not going to cum inside me, are you?"
+    Lily ""
+
+# game/logic/events/lily.rpy:1830
+translate philippine Lily_6_label_224_aeccde45:
+
+    # Lily "DID YOU CUM IN ME?"
+    Lily ""
+
+# game/logic/events/lily.rpy:1842
+translate philippine Lily_6_label_224_006a0fd3:
+
+    # Lily "I'll have to take some crappy medicine to take care of it now."
+    Lily ""
+
+# game/logic/events/lily.rpy:1946
+translate philippine Lily_6_label_224_61b86815:
+
+    # Lily "O-okay."
+    Lily ""
+
+# game/logic/events/lily.rpy:2120
+translate philippine Lily_7_label_42045c25:
+
+    # ch_Name "Miss Spellman, I wanted to talk to you about something unusual."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2429
+translate philippine Lily_8_label_L_122_707bb2fb:
+
+    # ch_Name "Lily, I want you even more than before..."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2493
+translate philippine Lily_8_label_L_122_1783c03c:
+
+    # ch_Name "{i}(It's so tight and wet, I can't believe it...){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2503
+translate philippine Lily_8_label_L_122_74eafeff:
+
+    # ch_Name "{i}(Just a little bit more and I'll cum...){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2509
+translate philippine Lily_8_label_L_122_c205f5f1:
+
+    # ch_Name "Yes..."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2705
+translate philippine Lily_CF_3_label_7d68505f:
+
+    # ch_Name "{i}(Oh, my head...){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2706
+translate philippine Lily_CF_3_label_092247aa:
+
+    # ch_Name "{i}(It still hurts.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2707
+translate philippine Lily_CF_3_label_11af1f67:
+
+    # ch_Name "{i}(But it's much better than yesterday, it's for sure.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2709
+translate philippine Lily_CF_3_label_dac70333:
+
+    # ch_Name "{i}(Oh, Adele...){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2710
+translate philippine Lily_CF_3_label_19db10fb:
+
+    # ch_Name "{i}(I'd better check out if she's okay.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2711
+translate philippine Lily_CF_3_label_8e55348f:
+
+    # ch_Name "{i}(I hope she took care of Diego for good.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2718
+translate philippine Lily_CF_3_label_70e8802a:
+
+    # Mina "Good morning, [Name]!"
+    Mina ""
+
+# game/logic/events/lily.rpy:2719
+translate philippine Lily_CF_3_label_c73e6b50:
+
+    # ch_Name "Hey there."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2720
+translate philippine Lily_CF_3_label_9f75b84d:
+
+    # Mina "Any plans for today?"
+    Mina ""
+
+# game/logic/events/lily.rpy:2721
+translate philippine Lily_CF_3_label_1f94afd3:
+
+    # ch_Name "Oh, you know... I just need to check if my friend is okay. Good luck!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2722
+translate philippine Lily_CF_3_label_13c8cd39:
+
+    # Mina "Bye! Have a nice day!"
+    Mina ""
+
+# game/logic/events/lily.rpy:2729
+translate philippine Lily_CF_3_label_cf6661f2:
+
+    # ch_Name "{i}(Damn it! It's closed.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2730
+translate philippine Lily_CF_3_label_0e616f79:
+
+    # ch_Name "{i}(I should've expected this. The club is always closed in the morning.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2731
+translate philippine Lily_CF_3_label_5be912cf:
+
+    # ch_Name "{i}(Why on earth I never cared to ask for her phone number...){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2733
+translate philippine Lily_CF_3_label_6db2bba2:
+
+    # ch_Name "{i}(Fuck...){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2734
+translate philippine Lily_CF_3_label_4e2759d0:
+
+    # ch_Name "{i}(Well, It's nothing I can do for now. Might as well get some coffee.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2741
+translate philippine Lily_CF_3_label_85ca7b49:
+
+    # ch_Name "{i}(Oh, is that Lily?){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2742
+translate philippine Lily_CF_3_label_167e2656:
+
+    # ch_Name "{i}(I still feel like crap, but...){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2743
+translate philippine Lily_CF_3_label_f8dd926b:
+
+    # ch_Name "{i}(I think I can still enjoy her company.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2804
+translate philippine Lily_CF_3_label_25cc4967:
+
+    # ch_Name "{i}(Well, Lily sure brought some life into me.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2805
+translate philippine Lily_CF_3_label_e2f080cf:
+
+    # ch_Name "{i}(Even my headache has almost gone.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2806
+translate philippine Lily_CF_3_label_02ede184:
+
+    # ch_Name "{i}(But I still can enjoy some coffee.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2809
+translate philippine Lily_CF_3_label_a476447c:
+
+    # ch_Name "{i}(Oh, what a majestic smell of fresh coffee!){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2810
+translate philippine Lily_CF_3_label_5077876c:
+
+    # ch_Name "{i}(I love this place!){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2941
+translate philippine Lily_9_label_e741fe16:
+
+    # ch_Name "{i}(I don't get why Sam got so angry. I did it for her.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2942
+translate philippine Lily_9_label_4b0bd58c:
+
+    # ch_Name "{i}(Maybe she's just worried for me.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2943
+translate philippine Lily_9_label_9b444bfe:
+
+    # ch_Name "{i}(But I can handle it. I just have to show her how strong I am.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2944
+translate philippine Lily_9_label_532ca8b0:
+
+    # ch_Name "{i}(Anyway, I can still make it to the potions class in time for Sabrina's lesson.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2945
+translate philippine Lily_9_label_ab5b96e9:
+
+    # ch_Name "{i}(No need to waste all the day because of this meeting.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2952
+translate philippine Lily_9_label_93cb46ce:
+
+    # ch_Name "{i}(I wonder if we can use potions during the tournament.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2953
+translate philippine Lily_9_label_f0cde9e9:
+
+    # ch_Name "{i}(If so, I should get my inventory ready.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2954
+translate philippine Lily_9_label_28abd496:
+
+    # ch_Name "{i}(Those participants are way more experienced than I am.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2955
+translate philippine Lily_9_label_fec4b43c:
+
+    # ch_Name "{i}(Maybe I should even ask Sabrina to teach me some advanced potions.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2962
+translate philippine Lily_9_label_70c0a916:
+
+    # ch_Name "{i}(Oh, what luck!){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2963
+translate philippine Lily_9_label_57cf9004:
+
+    # ch_Name "{i}(I still have time before the class begins.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2964
+translate philippine Lily_9_label_0c3122d0:
+
+    # ch_Name "{i}(And Lily is here already.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2965
+translate philippine Lily_9_label_04a7b558:
+
+    # ch_Name "{i}(I had no chance to talk to her about everything that happened to us.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2966
+translate philippine Lily_9_label_fa7fc846:
+
+    # ch_Name "{i}(Maybe this is the right time...){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2970
+translate philippine Lily_9_label_1e20eaa3:
+
+    # ch_Name "Good afternoon, Lily."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2971
+translate philippine Lily_9_label_9e77aa74:
+
+    # Lily "Hello, [Name]!"
+    Lily ""
+
+# game/logic/events/lily.rpy:2972
+translate philippine Lily_9_label_7fb9f15c:
+
+    # ch_Name "You're looking especially lovely today!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2973
+translate philippine Lily_9_label_6d7b26fc:
+
+    # ch_Name "Your eyes are lighting up."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2974
+translate philippine Lily_9_label_5cf9f336:
+
+    # ch_Name "{i}(I'm wondering what made them shine like that.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2976
+translate philippine Lily_9_label_da94683c:
+
+    # Lily "Aww, thank you! I am in such a great mood!"
+    Lily ""
+
+# game/logic/events/lily.rpy:2977
+translate philippine Lily_9_label_28f3019e:
+
+    # ch_Name "That's great! I like seeing you happy."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2978
+translate philippine Lily_9_label_0d919067:
+
+    # ch_Name "{i}(Well, this feels like a good time to talk to her.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2979
+translate philippine Lily_9_label_d99ea214:
+
+    # ch_Name "Lily, listen. "
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2980
+translate philippine Lily_9_label_92a31528:
+
+    # ch_Name "I really want to talk with you about us."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2983
+translate philippine Lily_9_label_e1e42638:
+
+    # ch_Name "And about our last... time."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2984
+translate philippine Lily_9_label_9536cce3:
+
+    # ch_Name "I can't stop thinking about it, Lily."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2985
+translate philippine Lily_9_label_5eb8c677:
+
+    # ch_Name "The way I felt, it was... indescribable!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2986
+translate philippine Lily_9_label_68a58ac6:
+
+    # ch_Name "Something more than just physical closeness. "
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2987
+translate philippine Lily_9_label_c276edf3:
+
+    # ch_Name "You know how I feel, right?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2989
+translate philippine Lily_9_label_31b95653:
+
+    # Lily "Shhh! Are you crazy?!"
+    Lily ""
+
+# game/logic/events/lily.rpy:2990
+translate philippine Lily_9_label_6696b535:
+
+    # Lily "Not so loud, someone will hear us!"
+    Lily ""
+
+# game/logic/events/lily.rpy:2991
+translate philippine Lily_9_label_c0438dd2:
+
+    # Lily "It's very sweet of you, but... This isn't the right place to talk about it..."
+    Lily ""
+
+# game/logic/events/lily.rpy:2992
+translate philippine Lily_9_label_562619ab:
+
+    # Lily "Let's get to that later, okay?"
+    Lily ""
+
+# game/logic/events/lily.rpy:2993
+translate philippine Lily_9_label_4dc6f830:
+
+    # ch_Name "Sure. Sorry for being too emotional."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2996
+translate philippine Lily_9_label_ccad29ab:
+
+    # ch_Name "Are you mad at me?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:2997
+translate philippine Lily_9_label_837c45ce:
+
+    # Lily "Mad at you? Why'd I mad at you?"
+    Lily ""
+
+# game/logic/events/lily.rpy:2998
+translate philippine Lily_9_label_a3038b04:
+
+    # Lily "Stop talking in riddles, he-he."
+    Lily ""
+
+# game/logic/events/lily.rpy:2999
+translate philippine Lily_9_label_15c587bc:
+
+    # ch_Name "You rushed off so quickly after we talked."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3000
+translate philippine Lily_9_label_42a657d7:
+
+    # ch_Name "I don't know why, but I feel terrible about it."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3002
+translate philippine Lily_9_label_134b4624:
+
+    # ch_Name "I really want to be closer to you, Lily, but..."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3003
+translate philippine Lily_9_label_19606fa4:
+
+    # ch_Name "At the same time, I treasure our friendship so much."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3004
+translate philippine Lily_9_label_37d3a39b:
+
+    # ch_Name "I don't want to ruin everything."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3005
+translate philippine Lily_9_label_883612d8:
+
+    # ch_Name "And I don't want to hurt you, Lily. You're very precious to me."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3007
+translate philippine Lily_9_label_c154dc54:
+
+    # Lily "What are you talking about? Everything is alright!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3008
+translate philippine Lily_9_label_db440b6d:
+
+    # Lily "I appreciate that you care about me so much, but you really need to chill out."
+    Lily ""
+
+# game/logic/events/lily.rpy:3009
+translate philippine Lily_9_label_f6915470:
+
+    # Lily "Things happen, but you're still my friend, I'd even call you a close one."
+    Lily ""
+
+# game/logic/events/lily.rpy:3010
+translate philippine Lily_9_label_e9bcf2a5:
+
+    # ch_Name "You're so right!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3012
+translate philippine Lily_9_label_55908cae:
+
+    # ch_Name "What are you doing? Getting ready for the class?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3013
+translate philippine Lily_9_label_681ba1b4:
+
+    # Lily "As always. "
+    Lily ""
+
+# game/logic/events/lily.rpy:3014
+translate philippine Lily_9_label_738f8cd8:
+
+    # Lily "Today's topic is so interesting! I can hardly wait for the lesson."
+    Lily ""
+
+# game/logic/events/lily.rpy:3015
+translate philippine Lily_9_label_494027a8:
+
+    # ch_Name "I love your enthusiasm!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3017
+translate philippine Lily_9_label_bed828f8:
+
+    # ch_Name "And do you have any plans for tonight?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3018
+translate philippine Lily_9_label_3f4ec8f5:
+
+    # Lily "I'm going to go out for a run."
+    Lily ""
+
+# game/logic/events/lily.rpy:3019
+translate philippine Lily_9_label_a7b57ba1:
+
+    # ch_Name "I didn't know you go jogging."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3020
+translate philippine Lily_9_label_0abe8f13:
+
+    # Lily "We have so much to learn about each other, he-he."
+    Lily ""
+
+# game/logic/events/lily.rpy:3021
+translate philippine Lily_9_label_51d9f9cb:
+
+    # Lily "You can join me if you want, [Name]."
+    Lily ""
+
+# game/logic/events/lily.rpy:3023
+translate philippine Lily_9_label_8d0f5928:
+
+    # ch_Name "I'd love to keep you company!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3024
+translate philippine Lily_9_label_8eba0756:
+
+    # Lily "Great!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3025
+translate philippine Lily_9_label_66b5751d:
+
+    # Lily "Let's mix jogging with a nice little chat."
+    Lily ""
+
+# game/logic/events/lily.rpy:3026
+translate philippine Lily_9_label_ab4a186b:
+
+    # Lily "I can pick you up in your room around 7 pm. What do you think?"
+    Lily ""
+
+# game/logic/events/lily.rpy:3027
+translate philippine Lily_9_label_c7aab37d:
+
+    # ch_Name "Sounds just...{w} Pretty cool, yeah!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3028
+translate philippine Lily_9_label_e51108ef:
+
+    # Lily "Oh, the class is about to start. See you!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3037
+translate philippine Lily_9_label_0a6d54f5:
+
+    # Sabrina "Greetings, class!"
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3038
+translate philippine Lily_9_label_0ae04382:
+
+    # Sabrina "Glad to see you all!"
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3039
+translate philippine Lily_9_label_93d0decb:
+
+    # Sabrina "Today we're going to mix the alternative formula of potions of reflection."
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3041
+translate philippine Lily_9_label_cabba38a:
+
+    # Sabrina "I know some of you have already learned the new formula."
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3042
+translate philippine Lily_9_label_e69ee018:
+
+    # Sabrina "So who wants to get here and show other students how it's done?"
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3043
+translate philippine Lily_9_label_1696d737:
+
+    # Grace "Can I, miss Spellman?"
+    Grace ""
+
+# game/logic/events/lily.rpy:3050
+translate philippine Lily_9_label_a14fd8b2:
+
+    # Grace "Am I swirling it right?"
+    Grace ""
+
+# game/logic/events/lily.rpy:3051
+translate philippine Lily_9_label_05e1b3ae:
+
+    # Sabrina "Oh yes, Grace, it looks very good."
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3052
+translate philippine Lily_9_label_61125c7b:
+
+    # Sabrina "You're getting better at this with every lesson! I'm so proud..."
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3059
+translate philippine Lily_9_label_257fa89e:
+
+    # Sabrina "Thank you, Grace, for that fantastic display of skill!"
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3060
+translate philippine Lily_9_label_dad3c904:
+
+    # Sabrina "That will be all for today! Have a lovely evening, guys!"
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3067
+translate philippine Lily_9_label_9ad107c9:
+
+    # ch_Name "Hey, Miss Spellman..."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3068
+translate philippine Lily_9_label_32d74168:
+
+    # ch_Name "Could I talk with you for a second?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3069
+translate philippine Lily_9_label_e12fe3cb:
+
+    # ch_Name "I wondered if you could help me prepare for the Tournament of wizards."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3071
+translate philippine Lily_9_label_786dab74:
+
+    # Sabrina "Wait a minute! Have you just said \"Tournament of wizards\"?"
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3072
+translate philippine Lily_9_label_672c1d5e:
+
+    # ch_Name "Well, yeah. Why?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3073
+translate philippine Lily_9_label_3b4ed2d3:
+
+    # Sabrina "I thought it was only for second-year students or higher."
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3075
+translate philippine Lily_9_label_45b40905:
+
+    # Sabrina "Are you sure you are allowed to participate, [Name]?"
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3076
+translate philippine Lily_9_label_9b2535b2:
+
+    # Sabrina "This could be really dangerous to you."
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3078
+translate philippine Lily_9_label_20f19783:
+
+    # ch_Name "Well, you know I was never afraid of danger."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3079
+translate philippine Lily_9_label_c14e897a:
+
+    # ch_Name "Besides, what should I be afraid of if I have such an amazing teacher."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3080
+translate philippine Lily_9_label_83df01f6:
+
+    # ch_Name "But I don't think my potions arsenal can match other participants."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3081
+translate philippine Lily_9_label_750fc1fd:
+
+    # ch_Name "Maybe you could help me learn more potent potions? Just in case."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3083
+translate philippine Lily_9_label_5b062a59:
+
+    # Sabrina "Well, if you've made up your mind about this Tournament."
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3084
+translate philippine Lily_9_label_6a70dd7a:
+
+    # Sabrina "It's the least that I can do to make sure my best student isn't killed."
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3085
+translate philippine Lily_9_label_bde31fce:
+
+    # Sabrina "So yeah, I'll help you."
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3086
+translate philippine Lily_9_label_81208865:
+
+    # ch_Name "Thanks, Sabrina! I mean, miss Spellman. You're the best!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3087
+translate philippine Lily_9_label_681738d9:
+
+    # ch_Name "Oops, I have to run. Lily will be waiting for me."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3089
+translate philippine Lily_9_label_bcde3702:
+
+    # Sabrina "Sure."
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3090
+translate philippine Lily_9_label_6b850326:
+
+    # Sabrina "Take care!"
+    Sabrina ""
+
+# game/logic/events/lily.rpy:3092
+translate philippine Lily_9_label_3ad12c14:
+
+    # ch_Name "{i}(I'm so lucky to have miss Spellman on my side.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3093
+translate philippine Lily_9_label_d6bcd4c9:
+
+    # ch_Name "{i}(Now I just need to get to my room in time. It's rude to make Lily wait for too long.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3098
+translate philippine Lily_10_label_fdb7de5c:
+
+    # ch_Name "Lily! You scared me half to death! "
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3099
+translate philippine Lily_10_label_bcfb9ca5:
+
+    # Lily "I... I'm sorry if I'm a little too early..."
+    Lily ""
+
+# game/logic/events/lily.rpy:3100
+translate philippine Lily_10_label_75c1b709:
+
+    # ch_Name "Oh, wow! I don't think I've ever seen you in sportswear. "
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3101
+translate philippine Lily_10_label_4f9f0a1c:
+
+    # ch_Name "You do look great in these leggings!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3103
+translate philippine Lily_10_label_f8b48af6:
+
+    # ch_Name "{i}(I wouldn't mind seeing her in these tight leggings all the time...){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3104
+translate philippine Lily_10_label_d70f1b06:
+
+    # ch_Name "{i}(They're perfectly showing her juicy ass.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3105
+translate philippine Lily_10_label_39842dec:
+
+    # Lily "Thank you, he-he."
+    Lily ""
+
+# game/logic/events/lily.rpy:3107
+translate philippine Lily_10_label_d0690755:
+
+    # Lily "Whoa, it's been a long day... I just need to clear my head."
+    Lily ""
+
+# game/logic/events/lily.rpy:3108
+translate philippine Lily_10_label_441462d3:
+
+    # ch_Name "The perfect time to have a nice jog, isn't it?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3109
+translate philippine Lily_10_label_d1b868ae:
+
+    # Lily "And what are we waiting for? "
+    Lily ""
+
+# game/logic/events/lily.rpy:3116
+translate philippine Lily_10_label_0d365412:
+
+    # Lily "There's something special about night-jogging."
+    Lily ""
+
+# game/logic/events/lily.rpy:3117
+translate philippine Lily_10_label_ce11faf7:
+
+    # Lily "It is completely different from morning jogs."
+    Lily ""
+
+# game/logic/events/lily.rpy:3118
+translate philippine Lily_10_label_41c8e367:
+
+    # ch_Name "Yes! I like to listen to music while running."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3119
+translate philippine Lily_10_label_f3344f92:
+
+    # ch_Name "And it's usually something slow and melancholic in the evenings."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3120
+translate philippine Lily_10_label_a2da6f27:
+
+    # ch_Name "That's a totally different vibe."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3122
+translate philippine Lily_10_label_939fcc22:
+
+    # ch_Name "Phew!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3123
+translate philippine Lily_10_label_10c27f9d:
+
+    # Lily "Hey, you're too slow."
+    Lily ""
+
+# game/logic/events/lily.rpy:3124
+translate philippine Lily_10_label_b07590d2:
+
+    # Lily "Go on, go on!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3125
+translate philippine Lily_10_label_22904fb2:
+
+    # Lily "Let's speed up!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3126
+translate philippine Lily_10_label_67cdc9a9:
+
+    # ch_Name "{i}(Speed up? My breath is dying!){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3128
+translate philippine Lily_10_label_7c9911de:
+
+    # ch_Name "I... I'm just saving my energy."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3129
+translate philippine Lily_10_label_eee686cf:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3130
+translate philippine Lily_10_label_f9fd22c8:
+
+    # ch_Name "{i}(My whole body is going to hurt tomorrow!){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3132
+translate philippine Lily_10_label_cf6f795f:
+
+    # ch_Name "You must have a lot of stamina, Lily."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3133
+translate philippine Lily_10_label_327c5a79:
+
+    # Lily "I guess... I guess it's true."
+    Lily ""
+
+# game/logic/events/lily.rpy:3134
+translate philippine Lily_10_label_ed1c1ff0:
+
+    # Lily "My father is the one who instilled in me his own love of running."
+    Lily ""
+
+# game/logic/events/lily.rpy:3135
+translate philippine Lily_10_label_eaf230b6:
+
+    # ch_Name "Wow, what?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3136
+translate philippine Lily_10_label_ad09f719:
+
+    # Lily "He is a professional runner. We ran together when I was a little girl."
+    Lily ""
+
+# game/logic/events/lily.rpy:3138
+translate philippine Lily_10_label_48f64c9f:
+
+    # Lily "He taught me a lot."
+    Lily ""
+
+# game/logic/events/lily.rpy:3139
+translate philippine Lily_10_label_cb58fe72:
+
+    # ch_Name "{i}(What a lovely view!){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3140
+translate philippine Lily_10_label_8c7926f5:
+
+    # Lily "Jogging became more like... a daily thing for me."
+    Lily ""
+
+# game/logic/events/lily.rpy:3141
+translate philippine Lily_10_label_eb121c05:
+
+    # Lily "I jog every day here in this garden. "
+    Lily ""
+
+# game/logic/events/lily.rpy:3142
+translate philippine Lily_10_label_32c8b25f:
+
+    # ch_Name "That's pretty cool!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3144
+translate philippine Lily_10_label_4b302016:
+
+    # Lily "I'm so thankful that Haley told me about this place. It's just perfect!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3145
+translate philippine Lily_10_label_e863eb70:
+
+    # Lily "Jogging is the best anti-stress remedy, by the way."
+    Lily ""
+
+# game/logic/events/lily.rpy:3146
+translate philippine Lily_10_label_f0808b16:
+
+    # Lily "Of course, it won't make your stress disappear, but..."
+    Lily ""
+
+# game/logic/events/lily.rpy:3147
+translate philippine Lily_10_label_566f3189:
+
+    # Lily "...it will reduce some of the emotional intensity that you're feeling."
+    Lily ""
+
+# game/logic/events/lily.rpy:3149
+translate philippine Lily_10_label_c510566d:
+
+    # Lily "And it is a great way to stay in great shape!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3150
+translate philippine Lily_10_label_57ad9c33:
+
+    # ch_Name "That is absolutely true."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3151
+translate philippine Lily_10_label_75ae5de0:
+
+    # ch_Name "You do have an amazing body, Lily. It's something to look at!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3152
+translate philippine Lily_10_label_282d18c4:
+
+    # Lily "He-he, well I am doubly pleased to hear that from you."
+    Lily ""
+
+# game/logic/events/lily.rpy:3159
+translate philippine Lily_10_label_84a0c895:
+
+    # Lily "C'mon, [Name], you're so slow!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3160
+translate philippine Lily_10_label_30f7f718:
+
+    # Lily "I bet you'll never catch me!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3161
+translate philippine Lily_10_label_d9a29c12:
+
+    # ch_Name "What...?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3162
+translate philippine Lily_10_label_3e91f727:
+
+    # ch_Name "That's just ridiculous."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3164
+translate philippine Lily_10_label_fdf3055a:
+
+    # ch_Name "You're gonna lose, Lily. I'm warning you."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3165
+translate philippine Lily_10_label_e252236f:
+
+    # Lily "We'll see."
+    Lily ""
+
+# game/logic/events/lily.rpy:3166
+translate philippine Lily_10_label_744a450e:
+
+    # ch_Name "{i}(No matter how cool she's in running, I can't give up that easy.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3168
+translate philippine Lily_10_label_fba5c40d:
+
+    # Lily "Whoa, [Name]!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3169
+translate philippine Lily_10_label_4f8c2969:
+
+    # ch_Name "Ha-ha-ha!"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3170
+translate philippine Lily_10_label_6c8a6de4:
+
+    # ch_Name "That's it, Lily, we're done."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3172
+translate philippine Lily_10_label_32317e00:
+
+    # Lily "Seriously, [Name], it was cool!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3173
+translate philippine Lily_10_label_58a0377a:
+
+    # ch_Name "{i}(It's just me or did she do it on purpose?){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3174
+translate philippine Lily_10_label_5c51e0fd:
+
+    # ch_Name "{i}(Like she wanted to be caught.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3175
+translate philippine Lily_10_label_120f74e6:
+
+    # ch_Name "{i}(That was too easy...){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3177
+translate philippine Lily_10_label_8aa64a02:
+
+    # Lily "Ugh... We're so close..."
+    Lily ""
+
+# game/logic/events/lily.rpy:3180
+translate philippine Lily_10_label_5806f095:
+
+    # ch_Name "Ughm... I can't resist your charms..."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3181
+translate philippine Lily_10_label_4fe9c65b:
+
+    # Lily "Mhm!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3182
+translate philippine Lily_10_label_984c8f01:
+
+    # Lily "I missed your loving arms, [Name]..."
+    Lily ""
+
+# game/logic/events/lily.rpy:3183
+translate philippine Lily_10_label_6b953d59:
+
+    # ch_Name "{i}(She's literally trembling with pleasure!) {/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3185
+translate philippine Lily_10_label_687f52f4:
+
+    # Lily "Every moment away from your warm embrace... it's a torture for me!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3186
+translate philippine Lily_10_label_ecc9a9ea:
+
+    # ch_Name "{i}(Her tongue is fire!){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3187
+translate philippine Lily_10_label_b0c89866:
+
+    # ch_Name "{i}(Is it even possible to do something like that?){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3188
+translate philippine Lily_10_label_560d39e4:
+
+    # ch_Name "{i}(She's a real wizard!){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3190
+translate philippine Lily_10_label_f3772257:
+
+    # Lily "Your touches are so passionate, so tender, um..."
+    Lily ""
+
+# game/logic/events/lily.rpy:3191
+translate philippine Lily_10_label_ea0d832f:
+
+    # Lily "Like the waves of pleasure, all over my body..."
+    Lily ""
+
+# game/logic/events/lily.rpy:3192
+translate philippine Lily_10_label_98ed4831:
+
+    # Lily "My panties are so wet already..."
+    Lily ""
+
+# game/logic/events/lily.rpy:3194
+translate philippine Lily_10_label_b4c8c248:
+
+    # NoName "Ring-ring..."
+    NoName ""
+
+# game/logic/events/lily.rpy:3196
+translate philippine Lily_10_label_327af277:
+
+    # Lily "Oh... Wait for a second."
+    Lily ""
+
+# game/logic/events/lily.rpy:3197
+translate philippine Lily_10_label_a199a63b:
+
+    # Lily "Someone's calling and I need to take this one."
+    Lily ""
+
+# game/logic/events/lily.rpy:3200
+translate philippine Lily_10_label_b2df2c81:
+
+    # ch_Name "I'm so sorry, Lily! I almost knock you over."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3201
+translate philippine Lily_10_label_8bf6429c:
+
+    # ch_Name "I hope that everything's okay."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3202
+translate philippine Lily_10_label_8d009299:
+
+    # Lily "That's nothing, don't worry. I kind of enjoyed it, he-he."
+    Lily ""
+
+# game/logic/events/lily.rpy:3204
+translate philippine Lily_10_label_b4c8c248_1:
+
+    # NoName "Ring-ring..."
+    NoName ""
+
+# game/logic/events/lily.rpy:3206
+translate philippine Lily_10_label_f8a744e2:
+
+    # Lily "Oh... Wait for a second, please. "
+    Lily ""
+
+# game/logic/events/lily.rpy:3207
+translate philippine Lily_10_label_a199a63b_1:
+
+    # Lily "Someone's calling and I need to take this one."
+    Lily ""
+
+# game/logic/events/lily.rpy:3209
+translate philippine Lily_10_label_96ae8269:
+
+    # ch_Name "No problem."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3211
+translate philippine Lily_10_label_c1d63b7a:
+
+    # ch_Name "{i}(She doesn't look really happy about this call.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3212
+translate philippine Lily_10_label_0e1d724b:
+
+    # ch_Name "{i}(It's impossible not to notice that.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3213
+translate philippine Lily_10_label_326e999e:
+
+    # Lily "...no, listen, I tried. I really tried!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3214
+translate philippine Lily_10_label_8acef034:
+
+    # ch_Name "{i}(I'm wondering who she's talking to.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3215
+translate philippine Lily_10_label_8aee4664:
+
+    # Lily "Yes, but..."
+    Lily ""
+
+# game/logic/events/lily.rpy:3217
+translate philippine Lily_10_label_60c0626c:
+
+    # Lily "No, of course, not."
+    Lily ""
+
+# game/logic/events/lily.rpy:3218
+translate philippine Lily_10_label_fbca9cb9:
+
+    # Lily "Don't say anything to dad, please!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3219
+translate philippine Lily_10_label_2b8b8564:
+
+    # ch_Name "{i}(Is it her mother?){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3220
+translate philippine Lily_10_label_280d2d51:
+
+    # Lily "I get it, ma. "
+    Lily ""
+
+# game/logic/events/lily.rpy:3221
+translate philippine Lily_10_label_a70b92ab:
+
+    # Lily "I will do my best, I swear you."
+    Lily ""
+
+# game/logic/events/lily.rpy:3222
+translate philippine Lily_10_label_da9ab177:
+
+    # Lily "Okay... Bye-bye."
+    Lily ""
+
+# game/logic/events/lily.rpy:3224
+translate philippine Lily_10_label_4eb4af5b:
+
+    # ch_Name "Did something happen?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3225
+translate philippine Lily_10_label_88ba7966:
+
+    # Lily "Not really."
+    Lily ""
+
+# game/logic/events/lily.rpy:3226
+translate philippine Lily_10_label_ddcb27eb:
+
+    # ch_Name "Who... who called you? Your mom?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3227
+translate philippine Lily_10_label_feaf09fd:
+
+    # Lily "Yes... I'm so sick of this!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3229
+translate philippine Lily_10_label_fcf21f5f:
+
+    # ch_Name "Sick of what?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3230
+translate philippine Lily_10_label_2ae52556:
+
+    # Lily "Unrealistic expectations of my family are killing me!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3231
+translate philippine Lily_10_label_08ac5a4c:
+
+    # Lily "\"You're Leona's descendant! It is inappropriate!\""
+    Lily ""
+
+# game/logic/events/lily.rpy:3232
+translate philippine Lily_10_label_50a9de64:
+
+    # Lily "They have extremely high standards for me."
+    Lily ""
+
+# game/logic/events/lily.rpy:3233
+translate philippine Lily_10_label_03d304da:
+
+    # ch_Name "Leona's what?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3234
+translate philippine Lily_10_label_25782a88:
+
+    # ch_Name "Do you mean Leona, the founder of Leonheart?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3236
+translate philippine Lily_10_label_d93e2cee:
+
+    # Lily "Oh, [Name], I've never told it to you..."
+    Lily ""
+
+# game/logic/events/lily.rpy:3237
+translate philippine Lily_10_label_a3185cf5:
+
+    # Lily "Actually, we are related by blood with Leona, on my mom's side."
+    Lily ""
+
+# game/logic/events/lily.rpy:3238
+translate philippine Lily_10_label_e216c47b:
+
+    # ch_Name "Are you kidding me?"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3239
+translate philippine Lily_10_label_466c8788:
+
+    # Lily "Why would I?"
+    Lily ""
+
+# game/logic/events/lily.rpy:3241
+translate philippine Lily_10_label_eb7101c4:
+
+    # Lily "The point is, my family is too proud of this part of our past."
+    Lily ""
+
+# game/logic/events/lily.rpy:3242
+translate philippine Lily_10_label_9d410ef8:
+
+    # Lily "My parents believe that Leona's descendants should be the best at everything..."
+    Lily ""
+
+# game/logic/events/lily.rpy:3243
+translate philippine Lily_10_label_a3405bba:
+
+    # Lily "...and there's no other way."
+    Lily ""
+
+# game/logic/events/lily.rpy:3244
+translate philippine Lily_10_label_d72e5db0:
+
+    # Lily "It bugs me so much!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3245
+translate philippine Lily_10_label_54a1b1fa:
+
+    # Lily "The last thing that I want is to waste all my energy just to get excellent grades!"
+    Lily ""
+
+# game/logic/events/lily.rpy:3247
+translate philippine Lily_10_label_ce7dad61:
+
+    # Lily "I'm so frustrated right now..."
+    Lily ""
+
+# game/logic/events/lily.rpy:3248
+translate philippine Lily_10_label_4422b66d:
+
+    # Lily "Sorry, [Name], but I'd better go. I don't want to ruin your mood."
+    Lily ""
+
+# game/logic/events/lily.rpy:3249
+translate philippine Lily_10_label_623adac0:
+
+    # ch_Name "C'mon, you're not ruining anything, Lily."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3251
+translate philippine Lily_10_label_3bd2b941:
+
+    # Lily "I will text you later, okay?"
+    Lily ""
+
+# game/logic/events/lily.rpy:3252
+translate philippine Lily_10_label_74ebce9c:
+
+    # ch_Name "Sure."
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3253
+translate philippine Lily_10_label_1617656a:
+
+    # ch_Name "{i}(Alright. I better talk with her when she's in a better mood.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3257
+translate philippine Lily_10_label_ea5950b7:
+
+    # ch_Name "{i}(Stop-stop-stop.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3258
+translate philippine Lily_10_label_50a0c904:
+
+    # ch_Name "{i}(Lily is Leona's offspring...){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3259
+translate philippine Lily_10_label_4dbf6347:
+
+    # ch_Name "{i}(Does it mean that I had sex with both great-great-grandmother and granddaughter?){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3260
+translate philippine Lily_10_label_dfb65ccf:
+
+    # ch_Name "{i}(Whoa!){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3261
+translate philippine Lily_10_label_8c9ee3e6:
+
+    # ch_Name "{i}(That's a kind of story that you can't tell to anyone.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3262
+translate philippine Lily_10_label_332d3728:
+
+    # ch_Name "{i}(No one would believe me anyway.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3265
+translate philippine Lily_10_label_ea5950b7_1:
+
+    # ch_Name "{i}(Stop-stop-stop.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3266
+translate philippine Lily_10_label_bac53f0f:
+
+    # ch_Name "{i}(And what will happen if Lily meets Leona?){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3267
+translate philippine Lily_10_label_bd7edd49:
+
+    # ch_Name "{i}(Will the reality collapse? Whoa!){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3268
+translate philippine Lily_10_label_f2c22632:
+
+    # ch_Name "{i}(It's better not to test this theory!){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3277
+translate philippine Lily_10_label_8d6f66c3:
+
+    # ch_Name "{i}(Oh, by the way... Speaking of meeting Leona.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3278
+translate philippine Lily_10_label_f98052f3:
+
+    # ch_Name "{i}(She's probably waiting for me to return the Seal.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3279
+translate philippine Lily_10_label_0e0b591f:
+
+    # ch_Name "{i}(I'd better be going.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3286
+translate philippine Lily_10_label_e85ab428:
+
+    # ch_Name "{i}(I can't even imagine how mad she is at me.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3287
+translate philippine Lily_10_label_ab672c20:
+
+    # ch_Name "{i}(I hope there won't be tons of \"I told you so\".){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3288
+translate philippine Lily_10_label_24aea8d9:
+
+    # ch_Name "{i}(Because she did tell me to be careful with the Seal.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3289
+translate philippine Lily_10_label_cd15c347:
+
+    # ch_Name "{i}(And I failed her.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3290
+translate philippine Lily_10_label_593e721e:
+
+    # ch_Name "{i}(I guess I've earned everything she's going to tell me.){/i}"
+    ch_Name ""
+
+# game/logic/events/lily.rpy:3291
+translate philippine Lily_10_label_de3b9f19:
+
+    # ch_Name "{i}(Alright, here we go...){/i}"
+    ch_Name ""
+
+translate philippine strings:
+
+    # game/logic/events/lily.rpy:79
+    old "6 Talk to Lily"
+    new ""
+

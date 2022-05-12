@@ -1588,3 +1588,101 @@ translate philippine strings:
     old "Use magic"
     new "Gumamit ng mahika"
 
+# TODO: Translation updated at 2022-05-12 08:59
+
+# game/logic/events/romul.rpy:107
+translate philippine romul_1_label_menu_bribe_7dd18c43:
+
+    # Romul "What does that even mean?"
+    Romul ""
+
+# game/logic/events/romul.rpy:129
+translate philippine romul_1_label_menu_bribe_7dd18c43_1:
+
+    # Romul "What does that even mean?"
+    Romul ""
+
+# game/logic/events/romul.rpy:163
+translate philippine romul_1_label_menu_bribe_739fd6bf:
+
+    # Romul "The girls complained, so you're banned from entering forever."
+    Romul ""
+
+# game/logic/events/romul.rpy:190
+translate philippine romul_2_label_64ccb634:
+
+    # ch_Name "{i}(Hmm, this looks like a staff exit from the nightclub.){/i}"
+    ch_Name ""
+
+# game/logic/events/romul.rpy:194
+translate philippine romul_2_label_f115d4e2:
+
+    # ch_Name "{i}(Entry clearly costs less than a whole envelope of dough...){/i}"
+    ch_Name ""
+
+# game/logic/events/romul.rpy:200
+translate philippine romul_2_label_f3c7dd8b:
+
+    # ch_Name "{i}(Someone's coming out. A girl.){/i}"
+    ch_Name ""
+
+# game/logic/events/romul.rpy:238
+translate philippine romul_2_label_56846112:
+
+    # Adele "YOU'RE A DISGUSTING PERSON!"
+    Adele ""
+
+# game/logic/events/romul.rpy:290
+translate philippine romul_2_label_fb86d027:
+
+    # ch_Name "The guy who's about to kick your ass."
+    ch_Name ""
+
+# game/logic/events/romul.rpy:324
+translate philippine romul_2_label_f1ba4970:
+
+    # Adele "Go back to mommy, you abortion!"
+    Adele ""
+
+# game/logic/events/romul.rpy:373
+translate philippine romul_2_label_f1ba4970_1:
+
+    # Adele "Go back to mommy, you abortion!"
+    Adele ""
+
+# game/logic/events/romul.rpy:375
+translate philippine romul_2_label_254a789a:
+
+    # Adele "Hey... Thanks a lot!"
+    Adele ""
+
+# game/logic/events/romul.rpy:377
+translate philippine romul_2_label_8af19aab:
+
+    # ch_Name "{i}(In the end she did everything herself...){/i}"
+    ch_Name ""
+
+# game/logic/events/romul.rpy:378
+translate philippine romul_2_label_dcaaea39:
+
+    # Adele "I couldn't have done it without you."
+    Adele ""
+
+# game/logic/events/romul.rpy:379
+translate philippine romul_2_label_df1a1430:
+
+    # ch_Name "{i}(Do you think it's obvious that I'm staring at her boobs?){/i}"
+    ch_Name ""
+
+# game/logic/events/romul.rpy:440
+translate philippine romul_2_label_81adcd95:
+
+    # Adele "It's a {b}VIP pass{/b} for club members."
+    Adele ""
+
+# game/logic/events/romul.rpy:446
+translate philippine romul_2_label_c6c7b4e7:
+
+    # Adele "I've gotta go, hon. Thanks again!"
+    Adele ""
+

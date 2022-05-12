@@ -1576,3 +1576,41 @@ translate philippine strings:
     old "Don't look"
     new "Huwag magtingin"
 
+# TODO: Translation updated at 2022-05-12 08:59
+
+# game/logic/events/arthur_2.rpy:274
+translate philippine arthur_2_3_3df4f481:
+
+    # ch_Name "{i}(On the other hand, sometimes I don't even understand mine.){/i}"
+    ch_Name ""
+
+# game/logic/events/arthur_2.rpy:376
+translate philippine arthur_2_3_4a080171:
+
+    # Katrina "Enjoy your small victories while you can."
+    Katrina ""
+
+# game/logic/events/arthur_2.rpy:395
+translate philippine arthur_2_3_b72f5a90:
+
+    # Haley "You were dreaming... Was it a nightmare? "
+    Haley ""
+
+# game/logic/events/arthur_2.rpy:423
+translate philippine arthur_2_3_a362ffa5:
+
+    # Haley "Captain said she'd feed you to the sharks if you don't leave."
+    Haley ""
+
+# game/logic/events/arthur_2.rpy:425
+translate philippine arthur_2_3_47fc46f6:
+
+    # Haley "Would you be surprised?"
+    Haley ""
+
+# game/logic/events/arthur_2.rpy:583
+translate philippine arthur_2_5_232f7e79:
+
+    # Elijah "There's the hottest nightclub in town around the corner. Lady Luck."
+    Elijah ""
+

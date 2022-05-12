@@ -4536,3 +4536,371 @@ translate philippine strings:
     old "Look in mirror"
     new "Tumingin sa salamin"
 
+# TODO: Translation updated at 2022-05-12 08:59
+
+# game/logic/events/victoria.rpy:274
+translate philippine Samantha_4_label_c31086c4:
+
+    # ch_Name "One of our house's students has torn magical ligaments."
+    ch_Name ""
+
+# game/logic/events/victoria.rpy:1104
+translate philippine Victoria_9_label_ab22f6ec:
+
+    # Victoria "As you all know at these lessons we study Battle Magic."
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1492
+translate philippine Victoria_12_label_e14dd911:
+
+    # Victoria "Class, attention!"
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1493
+translate philippine Victoria_12_label_39c3afcb:
+
+    # Victoria "We have a special lesson today."
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1494
+translate philippine Victoria_12_label_97749c7d:
+
+    # Victoria "Topic: ghosts and spirits."
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1495
+translate philippine Victoria_12_label_50b2dbfa:
+
+    # ch_Name "{i}(Hmm, I don't remember this paragraph in our textbook.){/i}"
+    ch_Name ""
+
+# game/logic/events/victoria.rpy:1496
+translate philippine Victoria_12_label_ef3f9735:
+
+    # Victoria "As you all know, I particularly specialise in martial magic. "
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1497
+translate philippine Victoria_12_label_366ceaa8:
+
+    # Victoria "But today's topic is usually studied as a part of Defense Against the Dark Arts course. "
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1498
+translate philippine Victoria_12_label_829c0ddd:
+
+    # Victoria "The principal personally asked me to give this little lecture to the first-year students."
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1500
+translate philippine Victoria_12_label_7ec553d0:
+
+    # Victoria "The thing is, we've noticed that freshmen react to ghosts very strangely."
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1501
+translate philippine Victoria_12_label_69b5dec6:
+
+    # Victoria "One of your classmates didn't even come to my lesson..."
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1502
+translate philippine Victoria_12_label_78dc176c:
+
+    # Victoria "...because he was scared of a ghost in the Main hall."
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1503
+translate philippine Victoria_12_label_0608fbe0:
+
+    # Victoria "Nonsense!"
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1504
+translate philippine Victoria_12_label_f72b514b:
+
+    # ch_Name "{i}(Who's she talking about?){/i}"
+    ch_Name ""
+
+# game/logic/events/victoria.rpy:1506
+translate philippine Victoria_12_label_a16b845f:
+
+    # Victoria "Ghosts have always lived in this castle. "
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1507
+translate philippine Victoria_12_label_9162c35c:
+
+    # Victoria "The Cordale Academy is their home, just like yours and mine."
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1508
+translate philippine Victoria_12_label_a8a36fa8:
+
+    # Victoria "However, the protective barrier separates our worlds."
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1509
+translate philippine Victoria_12_label_95134f6a:
+
+    # Victoria "You can thank the founders who put it..."
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1510
+translate philippine Victoria_12_label_88298a88:
+
+    # Victoria "...in order to ensure the safety of many generations of students to come."
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1511
+translate philippine Victoria_12_label_b60113af:
+
+    # ch_Name "{i}(Well, it’s definitely a good thing there’s this barrier.){/i}"
+    ch_Name ""
+
+# game/logic/events/victoria.rpy:1513
+translate philippine Victoria_12_label_e03137dc:
+
+    # Victoria "As you may guess, this protection..."
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1514
+translate philippine Victoria_12_label_b1ad3358:
+
+    # Victoria "...makes any ghost activities harmless to all wizards within these walls."
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1515
+translate philippine Victoria_12_label_c8cc718e:
+
+    # Victoria "We still can hear and see them, surely. "
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1516
+translate philippine Victoria_12_label_ca3215ad:
+
+    # Victoria "That allows us to communicate with ghosts."
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1517
+translate philippine Victoria_12_label_42a3e4d9:
+
+    # Victoria "But I will repeat one clear and uncontested truth: they can't hurt you physically."
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1519
+translate philippine Victoria_12_label_44c17c66:
+
+    # Victoria "Yes, Gabriella, please."
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1521
+translate philippine Victoria_12_label_7ab0c8ff:
+
+    # Gabriella "I’m sorry, miss, but some ghosts seem pretty rude and aggressive."
+    Gabriella ""
+
+# game/logic/events/victoria.rpy:1522
+translate philippine Victoria_12_label_9e89bfa3:
+
+    # Gabriella "At first sight you wouldn't say they're harmless."
+    Gabriella ""
+
+# game/logic/events/victoria.rpy:1523
+translate philippine Victoria_12_label_893f223b:
+
+    # Victoria "Even if a ghost acts provocatively, hold your nerve."
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1524
+translate philippine Victoria_12_label_b071371f:
+
+    # Victoria "It can't hurt you.{w} To be more precise, it can't do anything to you at all."
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1525
+translate philippine Victoria_12_label_64ff03a0:
+
+    # Victoria "Just remember it."
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1526
+translate philippine Victoria_12_label_b5be7b94:
+
+    # Victoria "The best possible option is to ignore them."
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1528
+translate philippine Victoria_12_label_9c6cab5d:
+
+    # Victoria "If you don't pay attention to a ghost, then it won't bother you."
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1529
+translate philippine Victoria_12_label_662cac3d:
+
+    # Victoria "This rule works perfectly."
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1530
+translate philippine Victoria_12_label_19b775de:
+
+    # Victoria "So, please, stop this ridiculous panic."
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1531
+translate philippine Victoria_12_label_00021192:
+
+    # Victoria "Class dismissed. You may go."
+    Victoria ""
+
+# game/logic/events/victoria.rpy:1538
+translate philippine Victoria_12_label_78f19eb4:
+
+    # Carter "Man, this lesson sucked. Nothing interesting happened."
+    Carter ""
+
+# game/logic/events/victoria.rpy:1539
+translate philippine Victoria_12_label_7ce9598f:
+
+    # ch_Name "What were you expecting?"
+    ch_Name ""
+
+# game/logic/events/victoria.rpy:1540
+translate philippine Victoria_12_label_82f417bb:
+
+    # Carter "They say at last class Victoria's blouse button came undone..."
+    Carter ""
+
+# game/logic/events/victoria.rpy:1541
+translate philippine Victoria_12_label_479307f7:
+
+    # Carter "And you could see her bra. Too bad I missed it."
+    Carter ""
+
+# game/logic/events/victoria.rpy:1542
+translate philippine Victoria_12_label_c6aa2781:
+
+    # ch_Name "Yeah."
+    ch_Name ""
+
+# game/logic/events/victoria.rpy:1543
+translate philippine Victoria_12_label_0ebb7dec:
+
+    # ch_Name "{i}(So what... After what I've seen, it's nothing.){/i}"
+    ch_Name ""
+
+# game/logic/events/victoria.rpy:1544
+translate philippine Victoria_12_label_c1206a81:
+
+    # Carter "Well, maybe we'll get lucky today."
+    Carter ""
+
+# game/logic/events/victoria.rpy:1546
+translate philippine Victoria_12_label_e4b64451:
+
+    # Joshi "Hey, guys!"
+    Joshi ""
+
+# game/logic/events/victoria.rpy:1547
+translate philippine Victoria_12_label_78c0a4b2:
+
+    # Joshi "I think I know why Victoria told us about ghosts all of a sudden."
+    Joshi ""
+
+# game/logic/events/victoria.rpy:1548
+translate philippine Victoria_12_label_30c48915:
+
+    # ch_Name "Yeah? Spit it out."
+    ch_Name ""
+
+# game/logic/events/victoria.rpy:1549
+translate philippine Victoria_12_label_ac04b3b6:
+
+    # Joshi "Guys from Martenden told me that there's something crazy going on in the Main hall at night."
+    Joshi ""
+
+# game/logic/events/victoria.rpy:1550
+translate philippine Victoria_12_label_30aa631f:
+
+    # Carter "What kind of crazy?"
+    Carter ""
+
+# game/logic/events/victoria.rpy:1552
+translate philippine Victoria_12_label_0b4e6b88:
+
+    # Joshi "They say they've been hearing women crying at night for days now."
+    Joshi ""
+
+# game/logic/events/victoria.rpy:1553
+translate philippine Victoria_12_label_d830c37c:
+
+    # Joshi "It's like she cries for help. But no matter how hard they look, they don't find anyone!"
+    Joshi ""
+
+# game/logic/events/victoria.rpy:1554
+translate philippine Victoria_12_label_d5e2aec4:
+
+    # ch_Name "{i}(Hmm, sounds interesting.){/i}"
+    ch_Name ""
+
+# game/logic/events/victoria.rpy:1555
+translate philippine Victoria_12_label_2dcf551f:
+
+    # Carter "Oh, come on, that's all a story? Probably just ghosts fooling around. Let's go to class."
+    Carter ""
+
+# game/logic/events/victoria.rpy:1556
+translate philippine Victoria_12_label_0ff2a7c4:
+
+    # Joshi "I don't know, what if it's something else? It wasn't there before..."
+    Joshi ""
+
+# game/logic/events/victoria.rpy:1558
+translate philippine Victoria_12_label_722c401c:
+
+    # Carter "Just go there and check, mhm? In the middle of the night, obviously."
+    Carter ""
+
+# game/logic/events/victoria.rpy:1559
+translate philippine Victoria_12_label_e8b0883f:
+
+    # Joshi "No-no, even after Victoria's lesson I still don't believe ghosts are totally harmless."
+    Joshi ""
+
+# game/logic/events/victoria.rpy:1560
+translate philippine Victoria_12_label_05d66bcf:
+
+    # Joshi "You'll never make me go to the Main hall at night."
+    Joshi ""
+
+# game/logic/events/victoria.rpy:1561
+translate philippine Victoria_12_label_654e1d82:
+
+    # ch_Name "{i}(What is going on there while all students are sleeping?){/i}"
+    ch_Name ""
+
+# game/logic/events/victoria.rpy:1562
+translate philippine Victoria_12_label_432aa071:
+
+    # ch_Name "{i}(Maybe I should look in there sometime and check it out for myself.){/i}"
+    ch_Name ""
+
+# game/logic/events/victoria.rpy:1563
+translate philippine Victoria_12_label_f469130c:
+
+    # ch_Name "{i}(And here is another mystery!){/i}"
+    ch_Name ""
+
+# game/logic/events/victoria.rpy:1565
+translate philippine Victoria_12_label_8638da8f:
+
+    # Joshi "Yo, [Name], if you wanna make it to the next class, catch up."
+    Joshi ""
+
+# game/logic/events/victoria.rpy:1566
+translate philippine Victoria_12_label_21c35f6a:
+
+    # ch_Name "Yeah, yeah, give a minute, I gotta think..."
+    ch_Name ""
+

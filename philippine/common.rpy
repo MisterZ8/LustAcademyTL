@@ -1142,3 +1142,15 @@ translate philippine strings:
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new ""
 
+# TODO: Translation updated at 2022-05-12 08:59
+
+translate philippine strings:
+
+    # renpy/common/00accessibility.rpy:180
+    old "High Contrast Text"
+    new ""
+
+    # renpy/common/00preferences.rpy:493
+    old "high contrast text"
+    new ""
+

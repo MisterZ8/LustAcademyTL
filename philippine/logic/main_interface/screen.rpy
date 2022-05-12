@@ -364,3 +364,15 @@ translate philippine strings:
     old "Don't take"
     new "Huwag kunin"
 
+# TODO: Translation updated at 2022-05-12 08:59
+
+translate philippine strings:
+
+    # game/logic/main_interface/screen.rpy:1598
+    old "You have successfully completed all available routes. Talk to Samantha to go on vacation."
+    new ""
+
+    # game/logic/main_interface/screen.rpy:1642
+    old "Skip time"
+    new ""
+
