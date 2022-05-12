@@ -40,13 +40,13 @@ translate chinese Katrina_1_label_913db7e4:
 translate chinese Katrina_1_label_2f6462d4:
 
     # ch_Name "I was..."
-    ch_Name "我是..."
+    ch_Name "我之前还在..."
 
 # game/logic/events/Katrina.rpy:16
 translate chinese Katrina_1_label_625bc507:
 
     # ch_Name "{i}(I can't remember... But I definitely wasn't here. Right?..){/i}"
-    ch_Name "{i}(我不记得... 但我之前肯定不是在这。对吧?。){/i}"
+    ch_Name "{i}(我不记得了... 但我之前肯定不是在这。对吧?。){/i}"
 
 # game/logic/events/Katrina.rpy:17
 translate chinese Katrina_1_label_18bebd9d:
@@ -64,13 +64,13 @@ translate chinese Katrina_1_label_e3defce8:
 translate chinese Katrina_1_label_8e629884:
 
     # ch_Name "{i}(It can't be!){/i}"
-    ch_Name "{i}(它不可能是!){/i}"
+    ch_Name "{i}(不可能是梦!){/i}"
 
 # game/logic/events/Katrina.rpy:21
 translate chinese Katrina_1_label_6b707201:
 
     # ch_Name "{i}(I was invited to study. Somewhere.){/i}"
-    ch_Name "{i}(我被邀请去学习。在某处。){/i}"
+    ch_Name "{i}(我被邀请去学习。在某个地方。){/i}"
 
 # game/logic/events/Katrina.rpy:22
 translate chinese Katrina_1_label_d948a5cb:
@@ -82,7 +82,7 @@ translate chinese Katrina_1_label_d948a5cb:
 translate chinese Katrina_1_label_06ecb25b:
 
     # ch_Name "{i}(Yes, that's right! A letter!){/i}"
-    ch_Name "{i}(是的，是这个的! 一封信!){/i}"
+    ch_Name "{i}(是的，就是这样！ 一封信!){/i}"
 
 # game/logic/events/Katrina.rpy:26
 translate chinese Katrina_1_label_760ac188:
@@ -94,13 +94,13 @@ translate chinese Katrina_1_label_760ac188:
 translate chinese Katrina_1_label_25ce2f6d:
 
     # ch_Name "{i}(That almost never happens to me.){/i}"
-    ch_Name "{i}(这几乎从未发生在我身上。){/i}"
+    ch_Name "{i}(这种事情几乎不会发生在我身上。){/i}"
 
 # game/logic/events/Katrina.rpy:29
 translate chinese Katrina_1_label_13dd8db6:
 
     # ch_Name "{i}(Especially since the invention of emails and mobile phones.){/i}"
-    ch_Name "{i}(尤其是自从电子邮件和移动电话发明之后。){/i}"
+    ch_Name "{i}(尤其是自从电子邮件和手机发明之后。){/i}"
 
 # game/logic/events/Katrina.rpy:30
 translate chinese Katrina_1_label_f628c877:
@@ -178,13 +178,13 @@ translate chinese Katrina_1_label_2d5efd43:
 translate chinese Katrina_1_label_7f5e4de6:
 
     # Samantha "You want me to call you a cab? Do you want me to clean your room for you too?"
-    Samantha "要我帮你叫辆出租车吗? 还要我帮你打扫房间吗?"
+    Samantha "要我帮你叫辆出租车? 还要我帮你打扫房间?"
 
 # game/logic/events/Katrina.rpy:57
 translate chinese Katrina_1_label_bd3b0136:
 
     # ch_Name "You don't have to do that. We're going to the academy together."
-    ch_Name "你不必这么做。我们要一起去学校。"
+    ch_Name "没必要。我们只是要一起去学校。"
 
 # game/logic/events/Katrina.rpy:58
 translate chinese Katrina_1_label_f045b6ee:
@@ -196,7 +196,7 @@ translate chinese Katrina_1_label_f045b6ee:
 translate chinese Katrina_1_label_026a9f57:
 
     # Samantha "Oh. That's what you mean."
-    Samantha "哦。这就是你的意思。"
+    Samantha "哦。这是说这个啊。"
 
 # game/logic/events/Katrina.rpy:61
 translate chinese Katrina_1_label_d58f5d79:
@@ -208,7 +208,7 @@ translate chinese Katrina_1_label_d58f5d79:
 translate chinese Katrina_1_label_1241f5af:
 
     # Samantha "Did you really fall for that childish prank? No, what, really?"
-    Samantha "你真的被那个幼稚的恶作剧所欺骗了吗？ 不，什么，这是真的吗?"
+    Samantha "你真的被那个幼稚的恶作剧欺骗了吗？ 不，什么，真的吗?"
 
 # game/logic/events/Katrina.rpy:64
 translate chinese Katrina_1_label_8d43ee78:
@@ -232,7 +232,7 @@ translate chinese Katrina_1_label_b925146b:
 translate chinese Katrina_1_label_37c38f7d:
 
     # ch_Name "{i}(How is it... It all seemed so real.){/i}"
-    ch_Name "{i}(它是怎样... 一切看起来都那么真实。){/i}"
+    ch_Name "{i}(怎么会... 一切看起来都那么真实。){/i}"
 
 # game/logic/events/Katrina.rpy:69
 translate chinese Katrina_1_label_9f5c2061:
@@ -268,7 +268,7 @@ translate chinese Katrina_1_label_7c05334e:
 translate chinese Katrina_1_label_2abd4c3a:
 
     # ch_Name "{i}(Why did you have to yell like that when you're standing there eating breakfast?){/i}"
-    ch_Name "{i}(你站在那儿吃早餐的时候为什么要那样大喊大叫?){/i}"
+    ch_Name "{i}(你吃早餐的时候为什么要那样大喊大叫?){/i}"
 
 # game/logic/events/Katrina.rpy:82
 translate chinese Katrina_1_label_633a0e53:
@@ -280,7 +280,7 @@ translate chinese Katrina_1_label_633a0e53:
 translate chinese Katrina_1_label_a92639e0:
 
     # Don "I wouldn't put it like that."
-    Don "我不会这么说。"
+    Don "我可没说过这种话。"
 
 # game/logic/events/Katrina.rpy:85
 translate chinese Katrina_1_label_94523afa:
@@ -292,7 +292,7 @@ translate chinese Katrina_1_label_94523afa:
 translate chinese Katrina_1_label_b1a06616:
 
     # ch_Name "{i}(That's not good.){/i}"
-    ch_Name "{i}(那不是很好。){/i}"
+    ch_Name "{i}(感觉不太妙。){/i}"
 
 # game/logic/events/Katrina.rpy:87
 translate chinese Katrina_1_label_4eb4af5b:
@@ -310,13 +310,13 @@ translate chinese Katrina_1_label_131b1e98:
 translate chinese Katrina_1_label_965dc6b2:
 
     # ch_Name "{i}(Is he going to charge me again?){/i}"
-    ch_Name "{i}(他又要起诉我吗?){/i}"
+    ch_Name "{i}(他又要收我的钱了吗？){/i}"
 
 # game/logic/events/Katrina.rpy:91
 translate chinese Katrina_1_label_48cac36a:
 
     # ch_Name "Vaguely."
-    ch_Name "模糊的。"
+    ch_Name "有点不记得了。"
 
 # game/logic/events/Katrina.rpy:92
 translate chinese Katrina_1_label_6be7e5fb:
@@ -328,7 +328,7 @@ translate chinese Katrina_1_label_6be7e5fb:
 translate chinese Katrina_1_label_6706d91d:
 
     # Don "You don't study, you pay the rent."
-    Don "你不学习，你付房租。"
+    Don "你不学习，你就要付房租。"
 
 # game/logic/events/Katrina.rpy:95
 translate chinese Katrina_1_label_d0450104:
@@ -340,7 +340,7 @@ translate chinese Katrina_1_label_d0450104:
 translate chinese Katrina_1_label_6c25205d:
 
     # ch_Name "Right now?! What's going on?"
-    ch_Name "现在? ! 这是怎么呢"
+    ch_Name "现在? ! 这是怎么回事？"
 
 # game/logic/events/Katrina.rpy:97
 translate chinese Katrina_1_label_8da30f91:
@@ -352,7 +352,7 @@ translate chinese Katrina_1_label_8da30f91:
 translate chinese Katrina_1_label_7c0d2d20:
 
     # Don "What can I say? It's time!"
-    Don "我能说什么呢? 是时候!"
+    Don "我能说什么呢? 是时候了！"
 
 # game/logic/events/Katrina.rpy:100
 translate chinese Katrina_1_label_d9952f2c:
@@ -412,7 +412,7 @@ translate chinese Katrina_1_label_2051c3f0:
 translate chinese Katrina_1_label_10b2a5f8:
 
     # ch_Name "What are you, cuckoo?"
-    ch_Name "你是什么，布谷鸟?"
+    ch_Name "你是什么玩意，布谷鸟吗?"
 
 # game/logic/events/Katrina.rpy:117
 translate chinese Katrina_1_label_c768b14a:
@@ -454,7 +454,7 @@ translate chinese Katrina_1_label_2bfd0a34:
 translate chinese Katrina_1_label_9d235d11:
 
     # Don "Get up and get out of here."
-    Don "起来，离开这里。"
+    Don "起来，赶紧滚。"
 
 # game/logic/events/Katrina.rpy:127
 translate chinese Katrina_1_label_92cf679b:
@@ -502,7 +502,7 @@ translate chinese Katrina_1_label_e47527a0:
 translate chinese Katrina_1_label_b587077f:
 
     # ch_Name "So what?! What are you, cuckoo?"
-    ch_Name "那又怎样?! 你是什么，布谷鸟?"
+    ch_Name "那又怎样?! 你是什么玩意，布谷鸟?"
 
 # game/logic/events/Katrina.rpy:142
 translate chinese Katrina_1_label_17614078:
@@ -550,7 +550,7 @@ translate chinese Katrina_1_label_24caf8e7:
 translate chinese Katrina_1_label_9d235d11_1:
 
     # Don "Get up and get out of here."
-    Don "起来，离开这里。"
+    Don "起来，赶紧滚。"
 
 # game/logic/events/Katrina.rpy:153
 translate chinese Katrina_1_label_92cf679b_1:
@@ -598,7 +598,7 @@ translate chinese Katrina_1_label_21e6bd45:
 translate chinese Katrina_1_label_d19411dc:
 
     # Olivia "Oh, you woke up... Good."
-    Olivia "哦，你醒了... 好。"
+    Olivia "哦，你醒了... 很好。"
 
 # game/logic/events/Katrina.rpy:171
 translate chinese Katrina_1_label_15383e87:
@@ -622,7 +622,7 @@ translate chinese Katrina_1_label_c3dcd672:
 translate chinese Katrina_1_label_d4e6076d:
 
     # Olivia "Yeah. Why?"
-    Olivia "是的。为什么?"
+    Olivia "是的。怎么了？"
 
 # game/logic/events/Katrina.rpy:177
 translate chinese Katrina_1_label_1d13d0bf:
@@ -634,7 +634,7 @@ translate chinese Katrina_1_label_1d13d0bf:
 translate chinese Katrina_1_label_2f8dcbc1:
 
     # ch_Name "I'm not sure if I should..."
-    ch_Name "我不确定我是否应该..."
+    ch_Name "我不确定我是不是要..."
 
 # game/logic/events/Katrina.rpy:180
 translate chinese Katrina_1_label_34df1127:
@@ -718,7 +718,7 @@ translate chinese Katrina_1_label_5eb602a8:
 translate chinese Katrina_1_label_f9313e09:
 
     # ch_Name "{i}(This is interesting. What's got into her?){/i}"
-    ch_Name "{i}(这是有趣的。她怎么了?){/i}"
+    ch_Name "{i}(有意思。她怎么了?){/i}"
 
 # game/logic/events/Katrina.rpy:202
 translate chinese Katrina_1_label_6459c863:
@@ -730,7 +730,7 @@ translate chinese Katrina_1_label_6459c863:
 translate chinese Katrina_1_label_4172b047:
 
     # Olivia "Enjoy the taste."
-    Olivia "喜欢这味道。"
+    Olivia "好好尝尝。"
 
 # game/logic/events/Katrina.rpy:205
 translate chinese Katrina_1_label_fac02ba5:
@@ -748,13 +748,13 @@ translate chinese Katrina_1_label_ad18feb9:
 translate chinese Katrina_1_label_2490e958:
 
     # ch_Name "{i}(This wine tastes divine... Almost unreal){/i}"
-    ch_Name "{i}(这酒尝起来好极了。好的都不真实了。){/i}"
+    ch_Name "{i}(这酒尝起来好极了。好得都不真实了。){/i}"
 
 # game/logic/events/Katrina.rpy:209
 translate chinese Katrina_1_label_692c8386:
 
     # ch_Name "{i}(Or is it the way it's served?){/i}"
-    ch_Name "{i}(还是它被端上来的方式?){/i}"
+    ch_Name "{i}(还是说这就是它本来的味道？){/i}"
 
 # game/logic/events/Katrina.rpy:210
 translate chinese Katrina_1_label_9bda0a50:
@@ -778,7 +778,7 @@ translate chinese Katrina_1_label_afb09aec:
 translate chinese Katrina_1_label_c97d1a39:
 
     # ch_Name "{i}(So why do you allow Don to use you like a toy?){/i}"
-    ch_Name "{i}(那你为什么让Don把你当玩具玩?){/i}"
+    ch_Name "{i}(那你为什么让Don把你当成玩物?){/i}"
 
 # game/logic/events/Katrina.rpy:216
 translate chinese Katrina_1_label_e4fb603a:
@@ -820,7 +820,7 @@ translate chinese Katrina_1_label_39b1a1c0:
 translate chinese Katrina_1_label_d6f9934c:
 
     # ch_Name "{i}(What the fuck, take your feet away from me, woman!){/i}"
-    ch_Name "{i}(搞什么，把你的脚拿开，女人!){/i}"
+    ch_Name "{i}(搞什么，把你的脚拿开，老太婆!){/i}"
 
 # game/logic/events/Katrina.rpy:227
 translate chinese Katrina_1_label_412400e1:
@@ -832,13 +832,13 @@ translate chinese Katrina_1_label_412400e1:
 translate chinese Katrina_1_label_95810372:
 
     # Olivia "Why did I ever think you could fit in my house."
-    Olivia "为什么我觉得我的房子能容纳你。"
+    Olivia "为什么我觉得我的房子竟然能容下你。"
 
 # game/logic/events/Katrina.rpy:230
 translate chinese Katrina_1_label_03b6c80d:
 
     # ch_Name "That was harsh..."
-    ch_Name "那是残酷的..."
+    ch_Name "那太残酷了..."
 
 # game/logic/events/Katrina.rpy:231
 translate chinese Katrina_1_label_e0730eec:
@@ -1036,7 +1036,7 @@ translate chinese Katrina_1_label_809d0262:
 translate chinese Katrina_1_label_bc3deadb:
 
     # Olivia "If I were you. I'd crawl up some empty hole and die there."
-    Olivia "如果我是你。我会爬上一个空洞，死在那里。"
+    Olivia "如果我是你。我会找个地缝钻进去，然后死在那里。"
 
 # game/logic/events/Katrina.rpy:274
 translate chinese Katrina_1_label_5e13d69a:
@@ -1048,13 +1048,13 @@ translate chinese Katrina_1_label_5e13d69a:
 translate chinese Katrina_1_label_c4c2ec06:
 
     # Olivia "Excuse me?"
-    Olivia "原谅我吗?"
+    Olivia "你说什么?"
 
 # game/logic/events/Katrina.rpy:277
 translate chinese Katrina_1_label_1963ed87:
 
     # ch_Name "Why don't you crawl up some empty hole and die, huh?"
-    ch_Name "你为什么不爬到一个空洞里去死呢?"
+    ch_Name "你为什么不钻进一个地缝里去死呢?"
 
 # game/logic/events/Katrina.rpy:278
 translate chinese Katrina_1_label_3a9b9724:
@@ -1102,7 +1102,7 @@ translate chinese Katrina_1_label_85a6c616:
 translate chinese Katrina_1_label_9e5ef16e:
 
     # Olivia "Yes! That's right."
-    Olivia "是的! 这是正确的。"
+    Olivia "是的! 你说得对。"
 
 # game/logic/events/Katrina.rpy:289
 translate chinese Katrina_1_label_402cd952:
@@ -1120,13 +1120,13 @@ translate chinese Katrina_1_label_c11d9a8b:
 translate chinese Katrina_1_label_fdb80cd0:
 
     # Katrina "Pretend anymore."
-    Katrina "假装。"
+    Katrina "再演下去了。"
 
 # game/logic/events/Katrina.rpy:293
 translate chinese Katrina_1_label_f795ff95:
 
     # ch_Name "Hi there, ugly."
-    ch_Name "嗨，丑人。"
+    ch_Name "嗨，丑逼。"
 
 # game/logic/events/Katrina.rpy:294
 translate chinese Katrina_1_label_b8128d00:
@@ -1168,7 +1168,7 @@ translate chinese Katrina_1_label_04024769:
 translate chinese Katrina_1_label_1b68c28f:
 
     # Katrina "And once upon a night you won't find a way back."
-    Katrina "有一天晚上你再也找不到回去的路了。"
+    Katrina "总有一天晚上你会再也找不到回去的路。"
 
 # game/logic/events/Katrina.rpy:310
 translate chinese Katrina_1_label_027b1c56_1:
