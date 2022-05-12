@@ -184,7 +184,7 @@ translate philippine Samantha_3_label_7a85d41f:
 translate philippine Samantha_3_label_f20b2ca2:
 
     # Jacob "{i}(Do you think you're the first student to have this gift?){/i}"
-    Jacob "{i}("{i}(Sa tingin mo ba ikaw ang unang mag-aaral na nagkaroon ng kakayahang ito?){/i}"?){/i}"
+    Jacob "{i}(Sa tingin mo ba ikaw ang unang mag-aaral na nagkaroon ng kakayahang ito?){/i}"
 
 # game/logic/events/jacob.rpy:144
 translate philippine Samantha_3_label_6a01d9a3:
@@ -592,7 +592,7 @@ translate philippine Samantha_3_label_43_5bb4d59b:
 translate philippine Samantha_3_label_43_f5d6db5d:
 
     # ch_Name "{i}(Oh... I have her lesson in the schedule.){/i}"
-    ch_Name ""{i}(Oo nga... May klase ako sa kanya.){/i}"
+    ch_Name "{i}(Oo nga... May klase ako sa kanya.){/i}"
 
 # game/logic/events/jacob.rpy:246
 translate philippine Samantha_3_label_43_840360dc:
@@ -670,7 +670,7 @@ translate philippine Jacob_1_label_989195b7:
 translate philippine Jacob_1_label_306472fc:
 
     # ch_Name "I was just wondering what you were studying here."
-    ch_Name "Iniisip ko lang kung ano ang pinag-aaralan mo dito.
+    ch_Name "Iniisip ko lang kung ano ang pinag-aaralan mo dito."
 
 # game/logic/events/jacob.rpy:279
 translate philippine Jacob_1_label_44bbb496:
@@ -982,19 +982,19 @@ translate philippine Jacob_1_label_3a5c7650:
 translate philippine Jacob_1_label_37c031b9:
 
     # ch_Name "{i}(Arrogant prick...){/i}"
-    ch_Name {i}(Mayabang na gago...){/i}"
+    ch_Name "{i}(Mayabang na gago...){/i}"
 
 # game/logic/events/jacob.rpy:347
 translate philippine Jacob_1_label_8030eefe:
 
     # ch_Name "{i}(That Gaby was all right...){/i}"
-    ch_Name {i}(Maayos naman si Gaby...){/i}"
+    ch_Name "{i}(Maayos naman si Gaby...){/i}"
 
 # game/logic/events/jacob.rpy:350
 translate philippine Jacob_1_label_df1441e3:
 
     # ch_Name "{i}(I should ask her number or something.){/i}"
-    ch_Name {i}(Hihingi siguro ako ng numero niya.){/i}"
+    ch_Name "{i}(Hihingi siguro ako ng numero niya.){/i}"
 
 # game/logic/events/jacob.rpy:351
 translate philippine Jacob_1_label_c9ab0315:

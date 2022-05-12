@@ -412,7 +412,7 @@ translate philippine Gordon_1_label_d0463ee7:
 translate philippine Gordon_1_label_8c0ba6b6:
 
     # Gordon "I know how annoying she can be. She's half a fairy."
-    Gordon ""Alam ko kung gaano siya nakakainis. Kalahting diwata siya."
+    Gordon "Alam ko kung gaano siya nakakainis. Kalahting diwata siya."
 
 # game/logic/events/gordon.rpy:174
 translate philippine Gordon_1_label_05d1f373:
@@ -922,7 +922,7 @@ translate philippine Gordon_2_label_1f99ef04_1:
 translate philippine Willow_1_label_b5da35ff:
 
     # ch_Name "{i}(I am about to see all the beauties of Dale town.){/i}"
-    ch_Name"{i}(Malapit ko nang makita ang lahat ng kagandahan ng Dale.){/i}"""
+    ch_Name"{i}(Malapit ko nang makita ang lahat ng kagandahan ng Dale.){/i}"
 
 # game/logic/events/gordon.rpy:332
 translate philippine Willow_1_label_c47818af:
@@ -946,7 +946,7 @@ translate philippine Willow_1_label_6f5f6e1b:
 translate philippine Willow_1_label_51f86b76:
 
     # ch_Name "{i}(Maybe Gordon's store has something interesting in stock.){/i}"
-    ch_Name {i}(Siguro may nakakawili sa tindahan ni Gordon.){/i}"
+    ch_Name "{i}(Siguro may nakakawili sa tindahan ni Gordon.){/i}"
 
 # game/logic/events/gordon.rpy:338
 translate philippine Willow_1_label_bf7d543c:
@@ -1444,13 +1444,13 @@ translate philippine Willow_1_label_38280bd1:
 translate philippine Willow_1_label_24c4b1db:
 
     # ch_Name "I'm glad that I can help you."
-    ch_Name "Masaya ako kasi matutulungan kita.""
+    ch_Name "Masaya ako kasi matutulungan kita."
 
 # game/logic/events/gordon.rpy:453
 translate philippine Willow_1_label_50f6cccf:
 
     # Willow "I can only hope that you will visit us more often."
-    Willow "Sana dadalawin mo kami ng madalas.""
+    Willow "Sana dadalawin mo kami ng madalas."
 
 # game/logic/events/gordon.rpy:454
 translate philippine Willow_1_label_169aee20:

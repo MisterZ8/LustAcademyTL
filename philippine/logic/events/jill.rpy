@@ -124,7 +124,7 @@ translate philippine Jill_2_label_8_f9b2ce61:
 translate philippine Jill_2_label_8_946ee40e:
 
     # Jill "Nevermind. My name is Faith and I'm happy to relieve you."
-    Jill Wag na lang. Ako si Faith at ikalulugod kong mapawi ka."
+    Jill "Wag na lang. Ako si Faith at ikalulugod kong mapawi ka."
 
 # game/logic/events/jill.rpy:133
 translate philippine Jill_2_label_8_1855220c:
@@ -250,13 +250,13 @@ translate philippine Jill_2_label_8_94cd9f76:
 translate philippine Jill_2_label_8_65319b24:
 
     # ch_Name "Um... Y-yes, I guess."
-    ch_Name Um... O-oo.
+    ch_Name "Um... O-oo."
 
 # game/logic/events/jill.rpy:162
 translate philippine Jill_2_label_8_9633c1dd:
 
     # ch_Name "{i}(I swear I can feel her wet panties on my skin.){/i}"
-    ch_Name "{i}(Parang ramdam ko ang basang panty niya sa balat ko.){/i}
+    ch_Name "{i}(Parang ramdam ko ang basang panty niya sa balat ko.){/i}"
 
 # game/logic/events/jill.rpy:163
 translate philippine Jill_2_label_8_83e41bfd:
@@ -268,7 +268,7 @@ translate philippine Jill_2_label_8_83e41bfd:
 translate philippine Jill_2_label_8_2e8bb3da:
 
     # Faith "You have such a broad back. There's no other way I can manage."
-    Faith Napakalawak ng likod mo. Wala na akong ibang paraan.
+    Faith "Napakalawak ng likod mo. Wala na akong ibang paraan."
 
 # game/logic/events/jill.rpy:166
 translate philippine Jill_2_label_8_796bb54f:
@@ -334,7 +334,7 @@ translate philippine Jill_2_label_8_471de324:
 translate philippine Jill_2_label_8_a55970ab:
 
     # Faith "It's just a routine procedure..."
-    Faith "Karaniwang procedure lang ito...
+    Faith "Karaniwang procedure lang ito..."
 
 # game/logic/events/jill.rpy:181
 translate philippine Jill_2_label_8_0871da16:
@@ -478,7 +478,7 @@ translate philippine Jill_2_label_8_64d999f7:
 translate philippine Jill_2_label_8_5655ca56:
 
     # ch_Name "{i}(I need to hurry up, the boat to Cordale leaves soon.){/i}"
-    ch_Name {i}(Kailangan kong magmadali, malapit nang umalis ang bangka papuntang Cordale.){/i}"
+    ch_Name "{i}(Kailangan kong magmadali, malapit nang umalis ang bangka papuntang Cordale.){/i}"
 
 # game/logic/events/jill.rpy:226
 translate philippine Jill_0_label_de5c0105:
@@ -634,13 +634,13 @@ translate philippine Jill_3_label_f8eedec0:
 translate philippine Jill_3_label_6fb76786:
 
     # ch_Name "{i}(I wonder if she'll follow through this time.){/i}"
-    ch_Name {i}(Nagtataka ako kung magpapatuloy siya.){/i}
+    ch_Name "{i}(Nagtataka ako kung magpapatuloy siya.){/i}"
 
 # game/logic/events/jill.rpy:270
 translate philippine Jill_3_label_57af8977:
 
     # ch_Name "{i}(Although I don't mind feeling her body quiver with pleasure again...){/i}"
-    ch_Name "{i}(Pero wala naman akong problemang maramdaman na nanginginig ang katawan niya...){/i}
+    ch_Name "{i}(Pero wala naman akong problemang maramdaman na nanginginig ang katawan niya...){/i}"
 
 # game/logic/events/jill.rpy:272
 translate philippine Jill_3_label_7609878e:
@@ -796,7 +796,7 @@ translate philippine Jill_3_label_4f674c4f:
 translate philippine Jill_3_label_6fd1db2a:
 
     # ch_Name "Massage, baby. I mean massage."
-    ch_Name Masahe, baby. Masahe.
+    ch_Name "Masahe, baby. Masahe."
 
 # game/logic/events/jill.rpy:312
 translate philippine Jill_3_label_0106b1fc:
@@ -1030,7 +1030,7 @@ translate philippine Jill_3_label_78fcf97c:
 translate philippine Jill_3_label_d7923bce:
 
     # "I spend the rest of the day wandering around Dale and sightseeing."
-    Maghapon akong gumagala kay Dale at nagmamasyal."
+    "Maghapon akong gumagala kay Dale at nagmamasyal."
 
 # game/logic/events/jill.rpy:369
 translate philippine Jill_3_label_0b5cb0b6:
@@ -1600,7 +1600,7 @@ translate philippine Jill_4_label_from_gallery_69242145:
 translate philippine Jill_4_label_from_gallery_2ce2f7fe:
 
     # ch_Name "{i}(Maybe she's just very shy?){/i}"
-    ch_Name {i}(Siguro sobrang nahihiya lang siya?){/i}"
+    ch_Name "{i}(Siguro sobrang nahihiya lang siya?){/i}"
 
 # game/logic/events/jill.rpy:587
 translate philippine Jill_4_label_from_gallery_eff1c28d:
@@ -2056,7 +2056,7 @@ translate philippine Jill_4_label_from_gallery_bc2c8759:
 translate philippine Jill_4_label_from_gallery_acaf5041:
 
     # ch_Name "{i}(But my dick's still got a boner.){/i}"
-    ch_Name {i}(Ngunit ang titi ko ay matigas pa rin.){/i}"
+    ch_Name "{i}(Ngunit ang titi ko ay matigas pa rin.){/i}"
 
 # game/logic/events/jill.rpy:696
 translate philippine Jill_4_label_from_gallery_9966d40d:

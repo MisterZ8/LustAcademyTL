@@ -112,7 +112,7 @@ translate philippine ashlie_room_label_2_85170189:
 translate philippine ashlie_room_label_2_05094fd4:
 
     # ch_Name "{i}(The fact she can't makes it even sexier!){/i}"
-    ch_Name {i}(Mas maganda pa kasi hindi niya mapigilan!){/i}"
+    ch_Name "{i}(Mas maganda pa kasi hindi niya mapigilan!){/i}"
 
 # game/logic/locations/corridor.rpy:87
 translate philippine ashlie_room_label_2_bbb5db70:
@@ -514,7 +514,7 @@ translate philippine i_1_051_test_a2ad67db:
 translate philippine i_1_051_test_fc3704ae:
 
     # ch_Name "{i}(If this is a prank, then it is already going too far.){/i}"
-    ch_Name {i}(Kung isa itong kalokohan, malalayo na ito.){/i}"
+    ch_Name "{i}(Kung isa itong kalokohan, malalayo na ito.){/i}"
 
 # game/logic/locations/corridor.rpy:274
 translate philippine i_1_051_test_d10a117e:
@@ -850,7 +850,7 @@ translate philippine morning_2_d0c304b6:
 translate philippine morning_2_7800a7fc:
 
     # Samantha "You met me undressed on purpose."
-    Samantha ""Na nakahubad ka sa harap ko."
+    Samantha "Na nakahubad ka sa harap ko."
 
 # game/logic/locations/corridor.rpy:464
 translate philippine morning_2_4226a150:
@@ -1066,7 +1066,7 @@ translate philippine i_1_072_5_test_997d853f:
 translate philippine i_1_072_5_test_9528fce4:
 
     # ch_Name "Let's go, show me where the compartment is."
-    ch_Name Tara, ituro mo sa akin kung saan ang compartment.""
+    ch_Name "Tara, ituro mo sa akin kung saan ang compartment."
 
 # game/logic/locations/corridor.rpy:567
 translate philippine i_1_072_5_test_ca8ba1e5:
@@ -2524,7 +2524,7 @@ translate philippine test_label_ep1_1_91e785f7:
 translate philippine test_label_ep1_1_066bb089:
 
     # ch_Name "{i}(I thought I could hear Haley's thoughts.){/i}"
-    ch_Name {i}(Akala ko naririnig ko ang iniisip ni Haley.){/i}"
+    ch_Name "{i}(Akala ko naririnig ko ang iniisip ni Haley.){/i}"
 
 # game/logic/locations/corridor.rpy:1496
 translate philippine test_label_ep1_1_e382213f:
@@ -2542,7 +2542,7 @@ translate philippine test_label_ep1_1_e6fe81a2:
 translate philippine end_no_nothing_855666ac:
 
     # Samantha "Don't be afraid of me, pal. I am trying to help."
-    Samantha Huwag kang matakot sa akin. Sinusubukan ko lang tumulong sa iyo."
+    Samantha "Huwag kang matakot sa akin. Sinusubukan ko lang tumulong sa iyo."
 
 # game/logic/locations/corridor.rpy:1516
 translate philippine end_no_nothing_f7b247cf:

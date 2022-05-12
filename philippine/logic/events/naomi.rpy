@@ -58,7 +58,7 @@ translate philippine Naomi_1_label_a7ebb0cd:
 translate philippine Naomi_1_label_86c5f0c9:
 
     # ch_Name "{i}(Naive girl.){/i}"
-    ch_Name "{i}(Walang muwang.){/i}""
+    ch_Name "{i}(Walang muwang.){/i}"
 
 # game/logic/events/naomi.rpy:313
 translate philippine Naomi_1_label_d5802827:
@@ -376,7 +376,7 @@ translate philippine Naomi_1_label_55_c3b317ca:
 translate philippine Naomi_2_label_dd930706:
 
     # ch_Name "{i}(Now, I just have to find Naomi.){/i}"
-    ch_Name {i}(Ngayon, kailangan ko lang hanapin si Naomi.){/i}"
+    ch_Name "{i}(Ngayon, kailangan ko lang hanapin si Naomi.){/i}"
 
 # game/logic/events/naomi.rpy:417
 translate philippine Naomi_2_label_86f6571d:
@@ -784,7 +784,7 @@ translate philippine Naomi_2_label_55_62c4f831:
 translate philippine Naomi_2_label_55_ad48158c:
 
     # Naomi "And?"
-    Naomi "At?
+    Naomi "At?"
 
 # game/logic/events/naomi.rpy:517
 translate philippine Naomi_2_label_55_4e5629a5:
@@ -988,7 +988,7 @@ translate philippine Naomi_2_label_55_ff82ca41:
 translate philippine Naomi_2_label_55_4295c38a:
 
     # ch_Name "{i}(Merlin knows what can her twisted Adderin mind come up to.){/i}"
-    ch_Name {i}(Sino ang may alam kung ano ang naiisip ng baluktot niyang utak na Adderin.){/i}"
+    ch_Name "{i}(Sino ang may alam kung ano ang naiisip ng baluktot niyang utak na Adderin.){/i}"
 
 # game/logic/events/naomi.rpy:562
 translate philippine Naomi_2_label_55_942e54d0:
@@ -2410,7 +2410,7 @@ translate philippine Naomi_6_label_7b508741:
 translate philippine Naomi_6_label_a7fcd15b:
 
     # ch_Name "{i}(Naomi, were you trying to set me up on purpose?){/i}"
-    ch_Name ""{i}(Naomi, sinadya mo bang mahuhuli ako?){/i}"
+    ch_Name "{i}(Naomi, sinadya mo bang mahuhuli ako?){/i}"
 
 # game/logic/events/naomi.rpy:990
 translate philippine Naomi_6_label_686f22b6:
@@ -2554,7 +2554,7 @@ translate philippine Naomi_6_label_2de7e235:
 translate philippine Naomi_6_label_bb466da1:
 
     # ch_Name "{i}(No way. It's bad sportsmanship to kick someone when they're down.){/i}"
-    ch_Name {i}(Hindi pwede. Hindi magandang sipain ang isang tao kapag siya bumagsak.){/i}
+    ch_Name "{i}(Hindi pwede. Hindi magandang sipain ang isang tao kapag siya bumagsak.){/i}"
 
 # game/logic/events/naomi.rpy:1022
 translate philippine Naomi_6_label_9175868f:
@@ -2590,7 +2590,7 @@ translate philippine Naomi_6_label_a8adae04:
 translate philippine Naomi_6_label_a838ce4d:
 
     # ch_Name "After a date with me."
-    ch_Name Pagkatapos ng tipanan natin."
+    ch_Name "Pagkatapos ng tipanan natin."
 
 # game/logic/events/naomi.rpy:1030
 translate philippine Naomi_6_label_921bcf05:
@@ -3736,7 +3736,7 @@ translate philippine Naomi_8_label_2a56981f:
 translate philippine Naomi_8_label_123891e9:
 
     # ch_Name "{i}(I think I'm good at everything sexually.){/i}"
-    ch_Name {i}(Magaling naman ako sa lahat ng bagay tungkol sa pakikipagtalik.){/i}"
+    ch_Name "{i}(Magaling naman ako sa lahat ng bagay tungkol sa pakikipagtalik.){/i}"
 
 # game/logic/events/naomi.rpy:1335
 translate philippine Naomi_8_label_3c2516d3:
@@ -4198,7 +4198,7 @@ translate philippine Naomi_8_label_6a6de72b:
 translate philippine Naomi_8_label_36ab3866:
 
     # ch_Name "Yeah, that was something."
-    ch_Name Oo, kawili-wili naman."
+    ch_Name "Oo, kawili-wili naman."
 
 # game/logic/events/naomi.rpy:1454
 translate philippine Naomi_8_label_cc7b3703:
@@ -4270,7 +4270,7 @@ translate philippine Naomi_8_label_3f656fab:
 translate philippine Naomi_8_label_a48b29f7:
 
     # Naomi "I can't believe we almost got caught naked in the library!"
-    Naomi “Hindi ako makapaniwalang muntik na tayong mahuli na nakahubad sa aklatan!"
+    Naomi "Hindi ako makapaniwalang muntik na tayong mahuli na nakahubad sa aklatan!"
 
 # game/logic/events/naomi.rpy:1471
 translate philippine Naomi_8_label_c5bbe63e:
@@ -5068,7 +5068,7 @@ translate philippine Naomi_9_label_ecc1eb90:
 translate philippine Naomi_9_label_9279b077:
 
     # Naomi "It doesn't make any sense... This is bullshit!"
-    Naomi “Walang kwenta... Bwisit talaga!"
+    Naomi "Walang kwenta... Bwisit talaga!"
 
 # game/logic/events/naomi.rpy:1692
 translate philippine Naomi_9_label_2fc01744:

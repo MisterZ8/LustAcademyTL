@@ -304,7 +304,7 @@ translate philippine romul_1_label_menu_bribe_78c0f666_1:
 translate philippine romul_1_label_menu_bribe_c1e33678_1:
 
     # Romul "Go before I change my mind."
-    Romul Umalis ka na bago pa magbago ang isip ko."
+    Romul "Umalis ka na bago pa magbago ang isip ko."
 
 # game/logic/events/romul.rpy:134
 translate philippine romul_1_label_menu_bribe_4f2903ab_1:
@@ -412,7 +412,7 @@ translate philippine romul_1_label_menu_bribe_595947cc:
 translate philippine romul_1_label_menu_bribe_e34c7394:
 
     # ch_Name "{i}(I can't contain my curiosity...){/i}"
-    ch_Name "{i}(Hindi ko mapigilan ang pag-usisa ko...){/i}
+    ch_Name "{i}(Hindi ko mapigilan ang pag-usisa ko...){/i}"
 
 # game/logic/events/romul.rpy:160
 translate philippine romul_1_label_menu_bribe_b2cc4624:
@@ -580,7 +580,7 @@ translate philippine romul_2_label_7c04cd23:
 translate philippine romul_2_label_70a65c9f:
 
     # Diego "Adele, please, give me a chance to explain..."
-    Diego Adele, pakiusap, bigyan mo ako ng pagkakataong magpaliwanag..."
+    Diego "Adele, pakiusap, bigyan mo ako ng pagkakataong magpaliwanag..."
 
 # game/logic/events/romul.rpy:210
 translate philippine romul_2_label_c5100042:
@@ -718,7 +718,7 @@ translate philippine romul_2_label_f8852ede:
 translate philippine romul_2_label_9e2fa702:
 
     # Diego "It's okay, I'm gonna make you pay!"
-    Diego "Ayos lang, magbabayad ka!"!"
+    Diego "Ayos lang, magbabayad ka!"
 
 # game/logic/events/romul.rpy:245
 translate philippine romul_2_label_e8f44bc4:
@@ -1378,7 +1378,7 @@ translate philippine romul_2_label_8d97d692_2:
 translate philippine romul_2_label_64349375_1:
 
     # Adele "Hey, are you alright?"
-    Adele Hoy, ayos ka lang ba?"
+    Adele "Hoy, ayos ka lang ba?"
 
 # game/logic/events/romul.rpy:410
 translate philippine romul_2_label_0b92d5d2_1:
@@ -1486,7 +1486,7 @@ translate philippine romul_2_label_401055c5:
 translate philippine romul_2_label_9fb9135b:
 
     # ch_Name "What's that?"
-    ch_Name Ano iyan?
+    ch_Name "Ano iyan?"
 
 # game/logic/events/romul.rpy:434
 translate philippine romul_2_label_3dbf630b:
@@ -1546,7 +1546,7 @@ translate philippine romul_2_label_6452d2ad:
 translate philippine romul_2_label_99b7b01e:
 
     # ch_Name "{i}(With that pass, that bouncer prick won't have a choice but to let me in.){/i}"
-    ch_Name "{i}(Sa pamamagitan nito, hindi na ako mapipigilan ng gagong bouncer.){/i}
+    ch_Name "{i}(Sa pamamagitan nito, hindi na ako mapipigilan ng gagong bouncer.){/i}"
 
 # game/logic/events/romul.rpy:454
 translate philippine romul_2_label_7c90deba:
@@ -1562,7 +1562,7 @@ translate philippine strings:
 
     # game/logic/events/romul.rpy:11
     old "2 Enter the Club"
-    new "2 Pumasok sa Club""
+    new "2 Pumasok sa Club"
 
     # game/logic/events/romul.rpy:96
     old "!Bribe ($50)"

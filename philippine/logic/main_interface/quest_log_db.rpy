@@ -236,7 +236,7 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "A bouncer. He's a prick who asks for bribes to let you in the club. He tricked me and almost let Diego rape Adele."
-    new "Isang bouncer. Isa siyang gago na humihingi ng suhol para makapasok ka sa club. Niloko niya ako at muntik na niyang hayaang halayin ni Diego si Adele.
+    new "Isang bouncer. Isa siyang gago na humihingi ng suhol para makapasok ka sa club. Niloko niya ako at muntik na niyang hayaang halayin ni Diego si Adele."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Mobs"
@@ -388,7 +388,7 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We finally talked to Audrey about our relationship and everything that happened recently. Now we both have a better understanding of the boundaries between us. It's up to me to decide if I want to continue my relationship with her, I shouldn't forget that she's the succubus that almost got Samantha hurt."
-    new Sa wakas napag-usapan namin ang tungkol sa aming relasyon at lahat ng nangyari kamakailan. Ngayon mas naiintindihan na naming dalawa ang isa't-isa. Ako na ang magdesisyon kung gusto kong ituloy ang relasyon ko sa kanya, hindi ko dapat kalimutan na siya ang succubus na muntik nang masaktan si Samantha."
+    new "Sa wakas napag-usapan namin ang tungkol sa aming relasyon at lahat ng nangyari kamakailan. Ngayon mas naiintindihan na naming dalawa ang isa't-isa. Ako na ang magdesisyon kung gusto kong ituloy ang relasyon ko sa kanya, hindi ko dapat kalimutan na siya ang succubus na muntik nang masaktan si Samantha."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah should give me a student card. I can catch him in the Living room in the morning."
@@ -416,7 +416,7 @@ translate philippine strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah was very pleased that I've helped him to get Dryad's nectar. It seems that he likes working with me. "
-    new ""Masayang-masaya si Elijah na nakuha ko ang nektar . Mukhang gusto niyang magtrabaho kasama sa akin."
+    new "Masayang-masaya si Elijah na nakuha ko ang nektar . Mukhang gusto niyang magtrabaho kasama sa akin."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "This strange creature attacked me in Dale, but fended it off with Сombat bolt."

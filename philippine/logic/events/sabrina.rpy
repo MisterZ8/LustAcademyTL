@@ -514,7 +514,7 @@ translate philippine Sabrina_1_label_54_bef24927:
 translate philippine Sabrina_2_label_e3c0b186:
 
     # Sabrina "Students!"
-    Sabrina Mga mag-aaral!"
+    Sabrina "Mga mag-aaral!"
 
 # game/logic/events/sabrina.rpy:269
 translate philippine Sabrina_2_label_916187cb:
@@ -820,7 +820,7 @@ translate philippine Sabrina_2_label_46_3ad59955:
 translate philippine Sabrina_2_label_46_15332525:
 
     # Sabrina "All details are extremely important!"
-    Sabrina Importante ang bawat detalye!"
+    Sabrina "Importante ang bawat detalye!"
 
 # game/logic/events/sabrina.rpy:365
 translate philippine Sabrina_2_label_46_f779b388:
@@ -898,7 +898,7 @@ translate philippine Sabrina_2_label_46_c9d71da1:
 translate philippine Sabrina_2_label_46_bc70f05d:
 
     # Sabrina "If you go overboard with the ingredients without knowing their properties."
-    Sabrina Kung lampasan mo ang mga sangkap nang hindi nalalaman ang kanilang mga katangian."
+    Sabrina "Kung lampasan mo ang mga sangkap nang hindi nalalaman ang kanilang mga katangian."
 
 # game/logic/events/sabrina.rpy:381
 translate philippine Sabrina_2_label_46_56855a9d:
@@ -952,7 +952,7 @@ translate philippine Sabrina_2_label_46_9ed796a6:
 translate philippine Sabrina_2_label_46_fbc146ed:
 
     # ch_Name "{i}(I should be more attentive.){/i}"
-    ch_Name {i}(Dapat maging mas maasikaso ako.){/i}"
+    ch_Name "{i}(Dapat maging mas maasikaso ako.){/i}"
 
 # game/logic/events/sabrina.rpy:397
 translate philippine Sabrina_2_label_46_adf5c82e:
@@ -964,7 +964,7 @@ translate philippine Sabrina_2_label_46_adf5c82e:
 translate philippine Sabrina_2_label_46_03ebb22f:
 
     # ch_Name "{i}(That may help me to cover all the expenses.){/i}"
-    ch_Name {i}(Maaaring makatulong sa pagbabayad ng mga gastos.){/i}"
+    ch_Name "{i}(Maaaring makatulong sa pagbabayad ng mga gastos.){/i}"
 
 # game/logic/events/sabrina.rpy:399
 translate philippine Sabrina_2_label_46_39b15567:
@@ -976,7 +976,7 @@ translate philippine Sabrina_2_label_46_39b15567:
 translate philippine Sabrina_3_label_e3c0b186:
 
     # Sabrina "Students!"
-    Sabrina"Mga mag-aaral!"""
+    Sabrina"Mga mag-aaral!"
 
 # game/logic/events/sabrina.rpy:416
 translate philippine Sabrina_3_label_916187cb:
@@ -2038,7 +2038,7 @@ translate philippine Sabrina_5_label_dd9e45d4:
 translate philippine Sabrina_5_label_600da1d3:
 
     # ch_Name "{i}(Damn, I was worried about nothing. It's nice to be the center of attention.){/i}"
-    ch_Name "{i}(Wala akong dapat alalahanin. Masarap maging sentro ng atensyon.){/i}
+    ch_Name "{i}(Wala akong dapat alalahanin. Masarap maging sentro ng atensyon.){/i}"
 
 # game/logic/events/sabrina.rpy:706
 translate philippine Sabrina_5_label_9478dfbb:
@@ -2146,7 +2146,7 @@ translate philippine Sabrina_5_label_db938ec5:
 translate philippine Sabrina_5_label_9fcb939b:
 
     # ch_Name "{i}(I think it's just the opposite... But it's better to lighten the mood now.){/i}"
-    ch_Name ""{i}(Sa tingin ko ang kabaligtaran ay totoo... Pero mas magandang pagaanin ko ang mood ngayon.){/i}""
+    ch_Name "{i}(Sa tingin ko ang kabaligtaran ay totoo... Pero mas magandang pagaanin ko ang mood ngayon.){/i}"
 
 # game/logic/events/sabrina.rpy:731
 translate philippine Sabrina_5_label_db22f06d:
@@ -2440,7 +2440,7 @@ translate philippine Sabrina_6_label_6e2f86c3:
 translate philippine Sabrina_6_label_9a62a8e8:
 
     # ch_Name "You know that wouldn't be fair."
-    ch_Name Alam mo na hindi iyon patas."
+    ch_Name "Alam mo na hindi iyon patas."
 
 # game/logic/events/sabrina.rpy:811
 translate philippine Sabrina_6_label_f6a04c90:
@@ -2608,7 +2608,7 @@ translate philippine Sabrina_7_label_d9d19545:
 translate philippine Sabrina_7_label_10a42b8d:
 
     # Carter "I think I feel sick... Can I leave?"
-    Carter “May sakit yata ako... Pwede na ba akong umalis?
+    Carter "May sakit yata ako... Pwede na ba akong umalis?"
 
 # game/logic/events/sabrina.rpy:863
 translate philippine Sabrina_7_label_bade51b0:
@@ -2620,7 +2620,7 @@ translate philippine Sabrina_7_label_bade51b0:
 translate philippine Sabrina_7_label_33060ed0:
 
     # Sabrina "What's the matter?"
-    Sabrina Ano ang nangyari?
+    Sabrina "Ano ang nangyari?"
 
 # game/logic/events/sabrina.rpy:866
 translate philippine Sabrina_7_label_b2cd19d0:
@@ -2644,7 +2644,7 @@ translate philippine Sabrina_7_label_55b571b1:
 translate philippine Sabrina_7_label_fc3aaa50:
 
     # ch_Name "{i}(Maybe she drank a flask or two herself?){/i}"
-    ch_Name {i}(Marahil siya mismo ang uminom ng isa o dalawang flask?){/i}"
+    ch_Name "{i}(Marahil siya mismo ang uminom ng isa o dalawang flask?){/i}"
 
 # game/logic/events/sabrina.rpy:875
 translate philippine Sabrina_7_label_88ae4952:
@@ -2674,7 +2674,7 @@ translate philippine Sabrina_7_label_fcb07386:
 translate philippine Sabrina_7_label_6df2c6b3:
 
     # ch_Name "{i}(I think I'm going to fall asleep face down into this pot...){/i}"
-    ch_Name ""{i}(Sa palagay ko matutulog na ako sa palayok na ito...){/i}"
+    ch_Name "{i}(Sa palagay ko matutulog na ako sa palayok na ito...){/i}"
 
 # game/logic/events/sabrina.rpy:885
 translate philippine Sabrina_7_label_f7b5cf68:

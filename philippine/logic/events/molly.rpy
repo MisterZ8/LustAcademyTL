@@ -238,7 +238,7 @@ translate philippine cofe_event_2_21b2d7d5:
 translate philippine cofe_event_2_5604387e:
 
     # ch_Name "{i}(Anyway, she looks pretty cute.){/i}"
-    ch_Name {i}(Ang cute niyang tingnan.){/i}
+    ch_Name "{i}(Ang cute niyang tingnan.){/i}"
 
 # game/logic/events/molly.rpy:222
 translate philippine cofe_event_2_e4de7f80:
@@ -268,7 +268,7 @@ translate philippine cofe_event_2_f48c6c9d:
 translate philippine cofe_event_2_676f9575:
 
     # Molly "Haven't seen you here before. Are you new here?"
-    Molly "Hindi pa kita nakita dito. Bago ka ba?
+    Molly "Hindi pa kita nakita dito. Bago ka ba?"
 
 # game/logic/events/molly.rpy:230
 translate philippine cofe_event_2_56f74b30:
@@ -382,7 +382,7 @@ translate philippine cofe_event_2_465b2a97:
 translate philippine cofe_event_2_4c145c00:
 
     # ch_Name "So you got a job here as a waitress?"
-    ch_Name So may trabaho ka dito bilang serbidora?"
+    ch_Name "So may trabaho ka dito bilang serbidora?"
 
 # game/logic/events/molly.rpy:272
 translate philippine cofe_event_2_73141131:
@@ -418,7 +418,7 @@ translate philippine cofe_event_2_792b7e30:
 translate philippine cofe_event_2_5b32e7aa:
 
     # Molly "It's a small business. For now."
-    Molly Ito ay maliit na negosyo. Sa ngayon."
+    Molly "Ito ay maliit na negosyo. Sa ngayon."
 
 # game/logic/events/molly.rpy:280
 translate philippine cofe_event_2_d2809d4b:
@@ -748,7 +748,7 @@ translate philippine Molly_3_label_6814d848:
 translate philippine Molly_3_label_4e4989ba:
 
     # ch_Name "Oh, wow! (Laughs){w} Okay. Will you put my picture up in a frame?"
-    ch_Name Ay, wow! (Laughs){w} Okay. Ilalagay mo ba ang aking larawan sa dingding?"
+    ch_Name "Ay, wow! (Laughs){w} Okay. Ilalagay mo ba ang aking larawan sa dingding?"
 
 # game/logic/events/molly.rpy:391
 translate philippine Molly_3_label_4cc454aa:
@@ -1282,7 +1282,7 @@ translate philippine Molly_3_label_b1be45fc:
 translate philippine Molly_3_label_567243ac:
 
     # ch_Name "Good evening, Principal Arthur, sir!"
-    ch_Name Magandang gabi, Principal Arthur, sir!"
+    ch_Name "Magandang gabi, Principal Arthur, sir!"
 
 # game/logic/events/molly.rpy:522
 translate philippine Molly_3_label_bb6353df:
