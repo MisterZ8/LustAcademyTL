@@ -28,19 +28,19 @@ translate chinese sheet_30_f9c5a6d1:
 translate chinese sheet_30_0b357859:
 
     # Elijah "Make room!"
-    Elijah "进房间!"
+    Elijah "选房间吧!"
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:38
 translate chinese sheet_30_134f228b:
 
     # Elijah "Choose any free room for yourself. This is your home now!"
-    Elijah "为自己选择任何空闲的房间。这里现在是你的家了!"
+    Elijah "这里的空房间你们随便选。这里现在是你的家了!"
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:39
 translate chinese sheet_30_cef0c6ef:
 
     # Elijah "But the main place in our house is this living room. Here..."
-    Elijah "但我们家最主要的地方是这个客厅。在这里..."
+    Elijah "但我们家最主要的地方是这个客厅。这里..."
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:40
 translate chinese sheet_30_e8fa5614:
@@ -52,13 +52,13 @@ translate chinese sheet_30_e8fa5614:
 translate chinese sheet_30_8b95d622:
 
     # Elijah "Parties, get-togethers, live communication..."
-    Elijah "聚会、聚会、现场交流..."
+    Elijah "聚会、在一起、现场交流..."
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:42
 translate chinese sheet_30_cd2d528a:
 
     # Elijah "Celebrating house victories in tournaments and competitions, orgies..."
-    Elijah "在比赛和比赛中庆祝家庭胜利，狂欢..."
+    Elijah "在各大比赛和锦标赛中庆祝家庭胜利，还有狂欢..."
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:43
 translate chinese sheet_30_58d7675b:
@@ -70,7 +70,7 @@ translate chinese sheet_30_58d7675b:
 translate chinese sheet_30_2c1c6663:
 
     # Elijah "You are new blood. Pioneers. I believe in you."
-    Elijah "你是新鲜血液。先锋。我相信你。"
+    Elijah "你们是新鲜血液。先驱者。我相信你们。"
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:45
 translate chinese sheet_30_5671d544:
@@ -94,7 +94,7 @@ translate chinese sheet_30_menu_7472c685:
 translate chinese sheet_30_menu_a20f54f7:
 
     # Elijah "The booze is all right here, trust me! We have our own sources."
-    Elijah "酒都在这里，相信我! 我们有自己的消息来源。"
+    Elijah "酒都在这里，相信我! 我们有自己的渠道。"
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:70
 translate chinese sheet_30_menu_4a010f54:
@@ -106,13 +106,13 @@ translate chinese sheet_30_menu_4a010f54:
 translate chinese sheet_30_menu_06981438:
 
     # Elijah "And after that, you can die in peace!"
-    Elijah "在那之后，你可以安详地死去!"
+    Elijah "在那之后，你可以安息了!"
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:77
 translate chinese sheet_30_menu_answ_2_a244ffa2:
 
     # ch_Name "When is the best time to go to bed? "
-    ch_Name "什么时候睡觉最好?"
+    ch_Name "什么时候上床睡觉最好?"
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:79
 translate chinese sheet_30_menu_answ_2_236d0644:
@@ -130,7 +130,7 @@ translate chinese sheet_30_menu_answ_2_c3fa66cd:
 translate chinese sheet_30_menu_answ_2_c7bb271a:
 
     # Elijah "Your schedule and all news are sent directly to your mobile phone."
-    Elijah "你的日程安排和所有新闻都直接发送到你的手机。"
+    Elijah "你的日程安排和所有消息都会直接发送到你的手机上。"
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:84
 translate chinese sheet_30_menu_answ_2_96e798ee:
@@ -160,19 +160,19 @@ translate chinese sheet_30_menu_answ_2_676a3bd6:
 translate chinese sheet_30_menu_answ_2_b5331d41:
 
     # Elijah "The magical energy that charged you up on the train is about to run out..."
-    Elijah "在火车上给你充电的魔法能量即将耗尽..."
+    Elijah "在火车上给你注入的魔法能量即将耗尽..."
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:90
 translate chinese sheet_30_menu_answ_2_ea52561a:
 
     # Elijah "...and no one likes to drag students... "
-    Elijah "...没有人喜欢拖着学生..."
+    Elijah "...没有人喜欢把晕倒的同学..."
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:91
 translate chinese sheet_30_menu_answ_2_599c22de:
 
     # Elijah "...who have passed out in the middle of the room to their bedrooms."
-    Elijah "...没有人喜欢拖着学生..."
+    Elijah "...拖回自己的房间。"
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:95
 translate chinese sheet_30_menu_answ_3_9b4abf1c:
@@ -184,31 +184,31 @@ translate chinese sheet_30_menu_answ_3_9b4abf1c:
 translate chinese sheet_30_menu_answ_3_47e05278:
 
     # ch_Name "Who is our house competing with?"
-    ch_Name "我们的房子在和谁竞争?"
+    ch_Name "我们的分院在和谁竞争?"
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:98
 translate chinese sheet_30_menu_answ_3_de295e21:
 
     # Elijah "Great question! With other houses, of course!"
-    Elijah "好问题! 当然还有其他房子!"
+    Elijah "好问题! 当然是和其他分院！"
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:99
 translate chinese sheet_30_menu_answ_3_39cc4c2b:
 
     # Elijah "The best house in Cordale is selected each week."
-    Elijah "每周都会选出Cordale最好的房子。"
+    Elijah "每周都会选出Cordale最优秀的分院。"
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:100
 translate chinese sheet_30_menu_answ_3_58559787:
 
     # Elijah "It depends on how fun and rowdy you spend your weekend."
-    Elijah "这取决于你周末过得有多开心和吵闹。"
+    Elijah "这决定于你的周末过得有多开心，多闹腾。"
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:101
 translate chinese sheet_30_menu_answ_3_a05ff41a:
 
     # Elijah "You are probably impressed by the academy, but! "
-    Elijah "你可能对学院印象深刻，但是!"
+    Elijah "你可能对这所学院印象深刻，但是!"
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:102
 translate chinese sheet_30_menu_answ_3_67008087:
@@ -220,19 +220,19 @@ translate chinese sheet_30_menu_answ_3_67008087:
 translate chinese sheet_30_menu_answ_3_fe89c76b:
 
     # Elijah "And that's not a fact. I don't think they have a choice. But we do!"
-    Elijah "这不是事实。我觉得他们别无选择。但是我们做的!"
+    Elijah "实际上不是这样。我觉得他们别无选择。但是我们有!"
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:104
 translate chinese sheet_30_menu_answ_3_d4258485:
 
     # Elijah "Collect the most points — have fun in Dale!"
-    Elijah "收集最多的点-在Dale有乐趣!"
+    Elijah "拿到最多的分数——在Dale才有乐趣!"
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:105
 translate chinese sheet_30_menu_answ_3_985de653:
 
     # Elijah "It's not saying much but trust me — it's worth being ready for class!"
-    Elijah "这并没有说明什么，但是相信我—这是值得为上课做好准备的!"
+    Elijah "这并没有说明什么，但是相信我——就为了这个，你值得为好好听课做准备！"
 
 # game/logic/episodes_after_first/ep2/sheet_30.rpy:109
 translate chinese end_sheet_30_8d099b3e:
