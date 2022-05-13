@@ -10,7 +10,7 @@ translate chinese sheet_24_f73a96e2:
 translate chinese sheet_24_repeat_rules_8b048a73:
 
     # Victoria "...concentrate and try to form a magic glyph."
-    Victoria "...集中精神，试着形成一个神奇的符号。"
+    Victoria "...就要集中精神，试着形成一个魔法符号。"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:13
 translate chinese sheet_24_repeat_rules_e9b3a2f0:
@@ -22,19 +22,19 @@ translate chinese sheet_24_repeat_rules_e9b3a2f0:
 translate chinese sheet_24_repeat_rules_b5d0a861:
 
     # Victoria "Your goal is to be as accurate as you can."
-    Victoria "你的目标是尽可能准确。"
+    Victoria "你的目标要尽可能准确。"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:17
 translate chinese sheet_24_repeat_rules_42de5619:
 
     # Victoria "This way your spell is the strongest."
-    Victoria "这样你的咒语最强。"
+    Victoria "这样你的咒语才能最强。"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:19
 translate chinese sheet_24_repeat_rules_1e83dfa5:
 
     # Victoria "You'll have three tries to prove, that your magic source has potential."
-    Victoria "你有三次机会来证明，你的魔法来源有潜力。"
+    Victoria "你有三次机会来证明你的魔法之源有潜力。"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:21
 translate chinese sheet_24_repeat_rules_8c3404ab:
@@ -70,7 +70,7 @@ translate chinese sheet_24_repeat_rules_c0612a71:
 translate chinese sheet_24_repeat_rules_5f6046f7:
 
     # Victoria "No problem. As I've said..."
-    Victoria "没有问题。我已经说过了..."
+    Victoria "没问题。我已经说过了..."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:97
 translate chinese sheet_24_game_1_534d5c17:
@@ -94,7 +94,7 @@ translate chinese sheet_24_game_1_534d5c17_2:
 translate chinese sheet_24_game_1_9624437b:
 
     # Victoria "Pleasant surprise, Mr. [Surname]. "
-    Victoria "惊喜，先生[Surname]。"
+    Victoria "真是叹为观止，[Surname]。"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:120
 translate chinese sheet_24_game_1_d3b5301a:
@@ -106,7 +106,7 @@ translate chinese sheet_24_game_1_d3b5301a:
 translate chinese sheet_24_game_1_37ccf7af:
 
     # ch_Name "{i}(Hell yes I do! That was too easy!){/i}"
-    ch_Name "{i}(当然，我愿意! 那太容易了!){/i}"
+    ch_Name "{i}(当然! 简直易如反掌！){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:124
 translate chinese sheet_24_game_1_03f7e5a9:
@@ -118,7 +118,7 @@ translate chinese sheet_24_game_1_03f7e5a9:
 translate chinese sheet_24_game_1_7615ada7:
 
     # ch_Name "{i}(Bring it on!){/i}"
-    ch_Name "{i}(把它!){/i}"
+    ch_Name "{i}(走起!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:138
 translate chinese sheet_24_game_1_9054e202:
@@ -130,37 +130,37 @@ translate chinese sheet_24_game_1_9054e202:
 translate chinese sheet_24_game_1_17474b4e:
 
     # Victoria "But I've had more capable students."
-    Victoria "但我有更多有能力的学生。"
+    Victoria "但我之前的学生比你更有能力。"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:142
 translate chinese sheet_24_game_1_829c5ea8:
 
     # ch_Name "{i}(Not bad? I can do better than \"not bad\"! Come on, [Name]!){/i}"
-    ch_Name "{i}(不坏? 我可以做得比“不坏”更好!加油，[Name]!){/i}"
+    ch_Name "{i}(还不错? 我可以做得比“还不错”更好!加油，[Name]!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:144
 translate chinese sheet_24_game_1_43090c88:
 
     # Victoria "Let's try to make it more difficult..."
-    Victoria "让我们试着把它变得更难..."
+    Victoria "让我们提高点难度..."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:155
 translate chinese sheet_24_game_1_3ace795f:
 
     # Victoria "[Surname], you're on the verge of failure."
-    Victoria "[Surname]，你在失败的边缘。"
+    Victoria "[Surname]，你在就要失败了。"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:157
 translate chinese sheet_24_game_1_b6d47def:
 
     # Victoria "That kind of concentration is no good!"
-    Victoria "那种专注是不好的!"
+    Victoria "你的注意力不集中!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:159
 translate chinese sheet_24_game_1_3a586ab7:
 
     # ch_Name "{i}(Crap... I need to focus! I won't lose this!){/i}"
-    ch_Name "{i}(垃圾... 我需要集中精力! 我不会输的!){/i}"
+    ch_Name "{i}(他娘的... 我需要集中精力! 我不会输的!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:161
 translate chinese sheet_24_game_1_718c1941:
@@ -172,7 +172,7 @@ translate chinese sheet_24_game_1_718c1941:
 translate chinese sheet_24_game_1_5bdf1b13:
 
     # Victoria "Very good, Mr. [Surname]! "
-    Victoria "很好，[Surname]先生!"
+    Victoria "很好，[Surname]!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:182
 translate chinese sheet_24_game_1_1bf49698:
@@ -184,25 +184,25 @@ translate chinese sheet_24_game_1_1bf49698:
 translate chinese sheet_24_game_1_37ccf7af_1:
 
     # ch_Name "{i}(Hell yes I do! That was too easy!){/i}"
-    ch_Name "{i}(当然，我愿意! 那太容易了!){/i}"
+    ch_Name "{i}(当然，简直易如反掌！){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:186
 translate chinese sheet_24_game_1_250897e1:
 
     # Victoria "Let's see how good you can use it right now."
-    Victoria "让我们看看你现在能把它用得多好。"
+    Victoria "我们看看你现在能把它运用得多好。"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:188
 translate chinese sheet_24_game_1_23a97552:
 
     # Victoria "Your last try! Go!"
-    Victoria "你最后的尝试! 走吧!"
+    Victoria "这是你最后的机会！走起！"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:199
 translate chinese sheet_24_game_1_89012c81:
 
     # Victoria "Not bad, [Surname]!"
-    Victoria "不坏，[Surname]!"
+    Victoria "不错，[Surname]!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:201
 translate chinese sheet_24_game_1_8ce2feee:
@@ -214,13 +214,13 @@ translate chinese sheet_24_game_1_8ce2feee:
 translate chinese sheet_24_game_1_916ce3a3:
 
     # ch_Name "{i}(Is this a dream, or am I really that good?!){/i}"
-    ch_Name "{i}(这是梦吗，还是我真有那么棒?!){/i}"
+    ch_Name "{i}(这在做梦吗，还是我真有那么棒?!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:205
 translate chinese sheet_24_game_1_16970a07:
 
     # Victoria "Last one will be even more difficult. Get ready!"
-    Victoria "最后一个将更加困难。做好准备!"
+    Victoria "最后一次会更加困难。做好准备!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:207
 translate chinese sheet_24_game_1_80e3f604:
@@ -232,7 +232,7 @@ translate chinese sheet_24_game_1_80e3f604:
 translate chinese sheet_24_game_1_5d62241e:
 
     # Victoria "Mr. [Surname]! "
-    Victoria "[Surname]先生!"
+    Victoria "[Surname]!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:222
 translate chinese sheet_24_game_1_7260d6a4:
@@ -256,13 +256,13 @@ translate chinese sheet_24_game_1_c15eb5de:
 translate chinese sheet_24_game_1_be9f0c4c:
 
     # Victoria "Better. "
-    Victoria "更好。"
+    Victoria "好多了。"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:239
 translate chinese sheet_24_game_1_f45b618f:
 
     # Victoria "Bot not perfect."
-    Victoria "那不是完美的。"
+    Victoria "但并不完美。"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:241
 translate chinese sheet_24_game_1_41b405df:
@@ -274,7 +274,7 @@ translate chinese sheet_24_game_1_41b405df:
 translate chinese sheet_24_game_1_d9fed8b4:
 
     # Victoria "Let's make the task more difficult this time..."
-    Victoria "这次让我们把任务做得更难些..."
+    Victoria "这次让我们把任务再提高难度..."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:256
 translate chinese sheet_24_game_1_cd0fc3a6:
@@ -310,25 +310,25 @@ translate chinese sheet_24_game_1_b8b25fb0:
 translate chinese sheet_24_game_1_ef6a093b:
 
     # Victoria "You're a little bit bellow our standart level, mister [Surname]. "
-    Victoria "你的声音有点低于我们的标准，先生[Surname]。"
+    Victoria "你的能力有点低于我们的标准，[Surname]先生。"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:285
 translate chinese sheet_24_game_1_a4e736e7:
 
     # ch_Name "{i}(....Shit.){/i}"
-    ch_Name "{i}(...屎。){/i}"
+    ch_Name "{i}(...该死。){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:287
 translate chinese sheet_24_game_1_92fb82f1:
 
     # ch_Name "{i}(I was so close. Is this... the end?){/i}"
-    ch_Name "{i}(我差一点就成功了。这是... 结束吗?){/i}"
+    ch_Name "{i}(我差一点就成功了。这就... 结束了?){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:289
 translate chinese sheet_24_game_1_da62a5b0:
 
     # Victoria "But you've still managed to form a solid glyph for an entrant."
-    Victoria "但你仍然成功地为进入者形成了一个坚实的字形。"
+    Victoria "但你作为一个初学者，还是成功地画出了一个完整的字形。"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:292
 translate chinese sheet_24_game_1_ff017a1b:
@@ -346,13 +346,13 @@ translate chinese sheet_24_game_1_0560b79b:
 translate chinese sheet_24_game_1_96d6fae8:
 
     # Victoria "You're enrolled."
-    Victoria "你入学了。"
+    Victoria "你被录取了。"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:298
 translate chinese sheet_24_game_1_c7f59b2c:
 
     # Victoria "For now."
-    Victoria "现在。"
+    Victoria "至少现在是这样。"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:300
 translate chinese sheet_24_game_1_80bafeb1:
@@ -370,7 +370,7 @@ translate chinese sheet_24_game_1_6fe44a2b:
 translate chinese sheet_24_game_1_1deb4694:
 
     # ch_Name "I do."
-    ch_Name "我做的事。"
+    ch_Name "我愿意。"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:306
 translate chinese sheet_24_game_1_2d58164d:
@@ -406,13 +406,13 @@ translate chinese sheet_24_game_1_12cf80c0:
 translate chinese sheet_24_game_1_96d6fae8_1:
 
     # Victoria "You're enrolled."
-    Victoria "你入学了。"
+    Victoria "你被录取了。"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:324
 translate chinese sheet_24_game_1_c7f59b2c_1:
 
     # Victoria "For now."
-    Victoria "现在。"
+    Victoria "至少现在是这样。"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:326
 translate chinese sheet_24_game_1_80bafeb1_1:
@@ -430,7 +430,7 @@ translate chinese sheet_24_game_1_6fe44a2b_1:
 translate chinese sheet_24_game_1_1deb4694_1:
 
     # ch_Name "I do."
-    ch_Name "我做的事。"
+    ch_Name "我愿意。"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:332
 translate chinese sheet_24_game_1_2d58164d_1:
@@ -466,13 +466,13 @@ translate chinese sheet_24_game_1_12cf80c0_1:
 translate chinese sheet_24_game_1_96d6fae8_2:
 
     # Victoria "You're enrolled."
-    Victoria "你入学了。"
+    Victoria "你被录取了。"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:351
 translate chinese sheet_24_game_1_c7f59b2c_2:
 
     # Victoria "For now."
-    Victoria "现在。"
+    Victoria "至少现在是这样。"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:353
 translate chinese sheet_24_game_1_80bafeb1_2:
@@ -490,7 +490,7 @@ translate chinese sheet_24_game_1_6fe44a2b_2:
 translate chinese sheet_24_game_1_1deb4694_2:
 
     # ch_Name "I do."
-    ch_Name "我做的事。"
+    ch_Name "我愿意。"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:359
 translate chinese sheet_24_game_1_2d58164d_2:
@@ -526,7 +526,7 @@ translate chinese sheet_24_game_1_1820d408:
 translate chinese sheet_24_game_1_b2fa65d1:
 
     # Victoria "Someday you may even become a worthy wizard!"
-    Victoria "有一天你甚至会成为一个值得尊敬的巫师!"
+    Victoria "总有一天你会成为一个值得尊敬的巫师!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:373
 translate chinese sheet_24_game_1_90619c60:
@@ -544,7 +544,7 @@ translate chinese sheet_24_game_1_de1b88f9:
 translate chinese sheet_24_game_1_66986e19:
 
     # Victoria "Don't feel bad, Mr. [Surname]. "
-    Victoria "别难过，先生[Surname]。"
+    Victoria "别难过，[Surname]先生。"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:386
 translate chinese sheet_24_game_1_2246d7ff:
@@ -574,7 +574,7 @@ translate chinese sheet_24_game_1_40637ff2:
 translate chinese sheet_24_game_1_4012153e:
 
     # Victoria "You're accepted. "
-    Victoria "你可以接受。"
+    Victoria "你被录取了。"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:396
 translate chinese sheet_24_game_1_852c6fe8:
@@ -592,19 +592,19 @@ translate chinese sheet_24_game_1_086c8057:
 translate chinese sheet_24_game_1_21a50ec3:
 
     # Victoria "Nice zeal, don't lose it!"
-    Victoria "热情不错，别失去它!"
+    Victoria "你有着很高的热情，别忘初心！"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:404
 translate chinese sheet_24_game_1_ccc7d79f:
 
     # Victoria "Great result, [Name]! "
-    Victoria "伟大的结果，[Name]!"
+    Victoria "结果很优秀，[Name]!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:406
 translate chinese sheet_24_game_1_a21a0f87:
 
     # Victoria "You are definitely accepted!"
-    Victoria "你绝对被接受了!"
+    Victoria "毫无疑问你被录取了!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:408
 translate chinese sheet_24_game_1_c58a677d:
@@ -634,7 +634,7 @@ translate chinese sheet_24_game_1_2919d6ee:
 translate chinese sheet_24_end_game_aef6bd95:
 
     # Victoria "Alright! "
-    Victoria "好吧!"
+    Victoria "好的!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:432
 translate chinese sheet_24_end_game_0bf4adf4:
@@ -706,7 +706,7 @@ translate chinese sheet_24_end_game_d0c95866:
 translate chinese sheet_24_end_game_d0bd828f:
 
     # Victoria "That's all. Dismissed."
-    Victoria "这是所有。别错过。"
+    Victoria "就这样了。解散。"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:458
 translate chinese sheet_24_end_game_b1c02e84:
