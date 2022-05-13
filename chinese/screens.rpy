@@ -158,7 +158,7 @@ translate chinese strings:
 
     # game/screens.rpy:2923
     old "Enter"
-    new ""
+    new "Enter"
 
     # game/screens.rpy:2924
     old "Advances dialogue and activates the interface."
@@ -174,7 +174,7 @@ translate chinese strings:
 
     # game/screens.rpy:2935
     old "Escape"
-    new ""
+    new "Escape"
 
     # game/screens.rpy:2936
     old "Accesses the game menu."
@@ -182,19 +182,19 @@ translate chinese strings:
 
     # game/screens.rpy:2939
     old "Ctrl"
-    new ""
+    new "Ctrl"
 
     # game/screens.rpy:2943
     old "Tab"
-    new ""
+    new "Tab"
 
     # game/screens.rpy:2947
     old "Page Up"
-    new ""
+    new "Page Up"
 
     # game/screens.rpy:2951
     old "Page Down"
-    new ""
+    new "Page Down"
 
     # game/screens.rpy:2956
     old "I"
