@@ -1138,13 +1138,13 @@ translate chinese CordRightWing_label_be0a645b:
 translate chinese CordMainHall_label_38e027ca:
 
     # ch_Name "{i}(So this is what the main hall of the academy looks like when it's not in session.){/i}"
-    ch_Name "{i}(这就是学院的主厅在不开会的时候的样子。){/i}"
+    ch_Name "{i}(这就是学院的礼堂在不开会的时候的样子。){/i}"
 
 # game/logic/tutorial.rpy:875
 translate chinese CordMainHall_label_ae97de9b:
 
     # ch_Name "{i}(So spacious...){/i}"
-    ch_Name "{i}(所以宽敞...){/i}"
+    ch_Name "{i}(好宽敞啊...){/i}"
 
 # game/logic/tutorial.rpy:876
 translate chinese CordMainHall_label_1617ba3a:
@@ -1180,7 +1180,7 @@ translate chinese CordMainHall_label_070e7b11:
 translate chinese CordMainHall_label_2ed49d76:
 
     # ch_Name "{i}(They must be guarding the folio.){/i}"
-    ch_Name "{i}(他们一定是在保护对开本。){/i}"
+    ch_Name "{i}(他们一定是在保护分流之书。){/i}"
 
 # game/logic/tutorial.rpy:884
 translate chinese CordMainHall_label_bf9fd4a5:
@@ -1192,13 +1192,13 @@ translate chinese CordMainHall_label_bf9fd4a5:
 translate chinese CordMainHall_label_e71a83d8:
 
     # Arthur "Conferring with your ancestors?"
-    Arthur "和你的祖先商量?"
+    Arthur "在和你的祖先说悄悄话？"
 
 # game/logic/tutorial.rpy:887
 translate chinese CordMainHall_label_dafee659:
 
     # ch_Name "Аh? Who's there?"
-    ch_Name "啊? 那里是谁?"
+    ch_Name "啊? 谁在那里？"
 
 # game/logic/tutorial.rpy:888
 translate chinese CordMainHall_label_86756501:
@@ -1210,7 +1210,7 @@ translate chinese CordMainHall_label_86756501:
 translate chinese CordMainHall_label_3f75b23d:
 
     # ch_Name "{i}(Is that our director?){/i}"
-    ch_Name "{i}(那是我们的向导吗?){/i}"
+    ch_Name "{i}(那是我们的校长吗?){/i}"
 
 # game/logic/tutorial.rpy:891
 translate chinese CordMainHall_label_a8dd1f73:
@@ -1222,13 +1222,13 @@ translate chinese CordMainHall_label_a8dd1f73:
 translate chinese CordMainHall_label_6972bd8b:
 
     # ch_Name "Director! I confess, I didn't immediately recognize you in that outfit."
-    ch_Name "向导! 我承认，你穿这身衣服我都没认出来。"
+    ch_Name "校长! 我承认，你穿这身衣服我都没认出来。"
 
 # game/logic/tutorial.rpy:893
 translate chinese CordMainHall_label_7eb7551a:
 
     # Arthur "Heh. Well, what can I say... Old men like to look neat, too."
-    Arthur "哈。我能说什么呢... 老男人也喜欢看起来整洁。"
+    Arthur "哈。我能说什么呢... 老男人也喜欢干干净净。"
 
 # game/logic/tutorial.rpy:895
 translate chinese CordMainHall_label_e1ba3607:
@@ -1252,7 +1252,7 @@ translate chinese CordMainHall_label_76d6ebe6:
 translate chinese CordMainHall_label_49ded05d:
 
     # Arthur "Besides, this room is ideal for keeping the folio."
-    Arthur "再说，这个房间最适合存放对开的书了。"
+    Arthur "再说，这个房间最适合存放分流之书了。"
 
 # game/logic/tutorial.rpy:899
 translate chinese CordMainHall_label_635f5f1c:
@@ -1264,7 +1264,7 @@ translate chinese CordMainHall_label_635f5f1c:
 translate chinese CordMainHall_label_f661cea9:
 
     # ch_Name "Huh, I guess... "
-    ch_Name "嗯，我猜..."
+    ch_Name "嗯，我想是的..."
 
 # game/logic/tutorial.rpy:902
 translate chinese CordMainHall_label_acb75231:
@@ -1276,13 +1276,13 @@ translate chinese CordMainHall_label_acb75231:
 translate chinese CordMainHall_label_2d4b4444:
 
     # Arthur "You're welcome. We're here to educate you."
-    Arthur "不客气我们是来教育你们的。"
+    Arthur "不客气。我们是来教书育人的。"
 
 # game/logic/tutorial.rpy:904
 translate chinese CordMainHall_label_d2a747bb:
 
     # Arthur "By the way, I'm sure Victoria and Sabrina are already waiting for students."
-    Arthur "顺便说一下，Victoria和Sabrina肯定已经在等学生了。"
+    Arthur "顺便说一下，Victoria和Sabrina肯定已经在等同学们了。"
 
 # game/logic/tutorial.rpy:905
 translate chinese CordMainHall_label_861eeaf9:
@@ -1294,13 +1294,13 @@ translate chinese CordMainHall_label_861eeaf9:
 translate chinese CordMainHall_label_bda6c814:
 
     # Arthur "Okay. Hurry up. You don't want to be late, do you?"
-    Arthur "好吧。快点。你不想迟到，是吗?"
+    Arthur "好吧。快点。你不想迟到，对吧?"
 
 # game/logic/tutorial.rpy:907
 translate chinese CordMainHall_label_78f0f7a9:
 
     # ch_Name "Of course not, sir. Goodbye, sir."
-    ch_Name "当然不想，先生，再见，先生。"
+    ch_Name "当然不想，再见，先生。"
 
 translate chinese strings:
 
@@ -1330,11 +1330,11 @@ translate chinese strings:
 
     # game/logic/tutorial.rpy:19
     old "And here, you can check your balance. You can earn money through various part-time jobs available in the game. In addition, a small amount of money is allocated by the Academy for winning the house competition."
-    new "在这里，你可以查看你的余额。你可以通过游戏中的各种兼职工作赚钱。此外，学院还会为赢得室内比赛而拨出一小笔钱。"
+    new "在这里，你可以查看你的余额。你可以通过游戏中的各种兼职工作赚钱。此外，学院还会为赢得分院比赛而拨出一小笔钱。"
 
     # game/logic/tutorial.rpy:19
     old "You can use this button anytime to watch this tutorial again and refresh your memory. Good luck!"
-    new "您可以随时使用此按钮再次观看本教程并刷新您的记忆。好运!"
+    new "您可以随时使用此按钮再次观看本教程并加以复习。祝你好运!"
 
     # game/logic/tutorial.rpy:19
     old "The practical Potions class is self-guided. This tutorial will help you figure out how to discover new recipes and brew elixirs using recipes you've already learned."
@@ -1350,7 +1350,7 @@ translate chinese strings:
 
     # game/logic/tutorial.rpy:19
     old "To do this, select any three ingredients you like and see what you get out of them. If your mix issuccessful, the new recipe will immediately be added to your recipes book You only get one try at each lesson. You decide whether to brew a well-known elixir or conduct an experiment."
-    new "要做到这一点，选择任何三种你喜欢的配料，看看能从中得到什么。如果你的配方成功了，新配方将立即被添加到你的配方书中。每堂课你只能尝试一次。你可以决定是酿造一种著名的灵丹妙药，还是进行一项实验。"
+    new "要做到这一点，选择任何三种你喜欢的配料，看看能从中得到什么。如果你的配方成功了，新配方将立即被添加到你的配方书中。每堂课你只能尝试一次。你可以决定是配制一种著名的魔药，还是进行一项实验。"
 
     # game/logic/tutorial.rpy:19
     old "These ingredients are provided to students by the Academy for free and unlimited. When you happen to find rare reagents, they will go into this menu with the available quantity shown."
@@ -1358,15 +1358,15 @@ translate chinese strings:
 
     # game/logic/tutorial.rpy:19
     old "The selected ingredients will go here. If you need to cancel your selection, click on the unwanted ingredient to clear the box. When you are ready, click on the MIX button."
-    new "选好的材料放在这里。如果您需要取消您的选择，请单击不需要的成分清除方框。当你准备好了，点击混合按钮。"
+    new "选好的材料放在这里。如果您需要取消您的选择，请单击不需要的成分清除格子。当你准备好了，点击混合按钮。"
 
     # game/logic/tutorial.rpy:19
     old "You'll find out the result of your experiments here. All elixirs brewed in practice classes stay with the students, meaning your's went into your inventory. Combat elixirs can be used at the dueling club."
-    new "你将在这里发现你的实验结果。所有在练习课上酿造的长生不老药都留在学生身边，这意味着你的长生不老药会被存入你的库存。战斗药剂可以在决斗俱乐部使用。"
+    new "你将在这里发现你的实验结果。所有在练习课上配制的魔药都会留在学生身边，这意味着你的魔药会被存入你的库存。战斗药剂可以在决斗俱乐部使用。"
 
     # game/logic/tutorial.rpy:19
     old "You can start practicing. You can use this button anytime to watch this tutorial again and refresh your memory. Good luck!"
-    new "你可以开始练习了。您可以随时使用此按钮再次观看本教程并刷新您的记忆。好运！"
+    new "你可以开始练习了。您可以随时使用此按钮再次观看本教程并加以复习。祝你好运！"
 
     # game/logic/tutorial.rpy:19
     old "Here you can find information about every character you’ve met: their description, relationship towards your hero, quest logs, and list of interesting scenes."
@@ -1386,7 +1386,7 @@ translate chinese strings:
 
     # game/logic/tutorial.rpy:19
     old "This bar represents the history of the relationship with this character. You can click on the completed steps to refresh your memory."
-    new "这个条代表了与这个角色的关系的历史。您可以单击已完成的步骤来刷新您的记忆。"
+    new "这个条代表了与这个角色的关系的历史。您可以单击已完成的步骤来重温这段回忆。"
 
     # game/logic/tutorial.rpy:19
     old "This icon means that at this step, the story of the relationship with the character is suspended in the current release of the game but will continue in the future."
@@ -1442,11 +1442,11 @@ translate chinese strings:
 
     # game/logic/tutorial.rpy:19
     old "This feed features all the photos from people you’ve already met. Scroll down and up tho view them all."
-    new "这个动态展示了所有你已经见过的人的照片。向下和向上滚动，查看所有的。"
+    new "这个动态展示了所有你已经见过的人的照片。向下和向上滚动，查看所有的作品。"
 
     # game/logic/tutorial.rpy:19
     old "To go the person’s personal page click on his/her avatar."
-    new "要进入该人的个人页面，请点击他/她的头像。"
+    new "要进入某个人的个人页面，请点击他/她的头像。"
 
     # game/logic/tutorial.rpy:19
     old "Click on the photo to switch to the fullscreen view."
@@ -1454,7 +1454,7 @@ translate chinese strings:
 
     # game/logic/tutorial.rpy:19
     old "To exit the app and turn off your phone, tap this button or just click past the smartphone screen."
-    new "要退出应用程序和关闭您的手机，点击这个按钮，或只是点击智能手机屏幕的外侧。"
+    new "要退出应用程序和关闭您的手机，点击这个按钮，或点击手机屏幕的外侧。"
 
     # game/logic/tutorial.rpy:19
     old "We recommend a short introductory tutorial to learn the purpose of all the elements of the main interface and how to use them to simplify the game."
@@ -1462,7 +1462,7 @@ translate chinese strings:
 
     # game/logic/tutorial.rpy:19
     old "Here you can see the current time of day. Altogether there are four: morning, afternoon, evening and night. There are special events and activities for each time. Keep an eye on the time so you don't miss your appointments."
-    new "在这里你可以看到一天的当前时间。总共有四个时间:上午、下午、晚上和晚上。每一次都有特别的活动。注意看时间，这样你就不会错过约会了。"
+    new "在这里你可以看到一天的当前时间。总共有四个时间:上午、下午、晚上和夜晚。每一次都有特别的活动。注意看时间，这样你就不会错过约会了。"
 
     # game/logic/tutorial.rpy:19
     old "If you want to accelerate the events, click on the \"Skip Time\" button, which is available in any location between scenes"
@@ -1534,7 +1534,7 @@ translate chinese strings:
 
     # game/logic/tutorial.rpy:19
     old "This is a shortcut button for accessing the dialog log. It can be useful if you want to refresh your memory and review previous lines of the characters."
-    new "这是一个访问对话框日志的快捷按钮。如果你想要刷新你的记忆和回顾之前的字符行，它可能是有用的。"
+    new "这是一个访问对话日志的快捷按钮，可以用于重温记忆并回顾之前的角色故事线。"
 
     # game/logic/tutorial.rpy:19
     old "These are the buttons to quickly save and load the game."
@@ -1574,7 +1574,7 @@ translate chinese strings:
 
     # game/logic/tutorial.rpy:19
     old "You can get to work now. You can use this button anytime to watch this tutorial again and refresh your memory. Good luck!"
-    new "你现在可以开始工作了。您可以随时使用此按钮再次观看本教程并刷新您的记忆。好运！"
+    new "你现在可以开始工作了。您可以随时使用此按钮再次观看本教程并加以复习。祝你好运！"
 
     # game/logic/tutorial.rpy:19
     old "Welcome to the arena. Here's a quick guide to the mini-game, so you can play without any hassle."
@@ -1582,15 +1582,15 @@ translate chinese strings:
 
     # game/logic/tutorial.rpy:19
     old "This is your opponent's hitbar. The goal of the game is to bring his stamina level to zero. The first one who manages to do so is declared the winner."
-    new "这是你对手的击键。游戏的目标是将他的耐力水平降至零。第一个做到这一点的人被宣布为获胜者。"
+    new "这是你对手的血条。游戏的目标是将他的耐力水平降至零。第一个做到这一点的人被宣布为获胜者。"
 
     # game/logic/tutorial.rpy:19
     old "Here is your character's hitbar. Watch your stamina level and use elixirs and healing spells on time. If you have them in your arsenal, of course. Here you will also see all the buffs and debuffs on your character."
-    new "这是你的角色的耐力值。注意你的耐力水平，并及时使用长生不老药和治疗法术。当然，如果你有的话。在这里你也会看到你的角色的所有增益和负面效果。"
+    new "这是你角色的耐力值。注意你的耐力水平，并及时使用魔药和治疗法术。当然，如果你有的话。在这里你也会看到角色的所有增益和负面效果。"
 
     # game/logic/tutorial.rpy:19
     old "All of your character's combat elixirs are shown here. You can use one of the available elixirs before each spell. The turn order is not lost."
-    new "你所有角色的战斗药剂都显示在这里。你可以在每个咒语之前使用一种可用的长生不老药。不会消耗回合。"
+    new "你所有角色的战斗药剂都显示在这里。你可以在每个咒语之前使用一种可用的魔药。不会消耗回合数。"
 
     # game/logic/tutorial.rpy:19
     old "These are the combat spells available to you. Combat Bolt can be used without restriction, and the others no more often than once every two turns. You can learn the missing spells in Victoria's lessons."
@@ -1598,19 +1598,19 @@ translate chinese strings:
 
     # game/logic/tutorial.rpy:19
     old "Watch the slider on the magic glyph to stop it at the moment of maximum coloring. The more area of the glyph is painted, the more powerful the spell will be. Castl power is also affected by the level of the spell."
-    new "观看魔术字形上的滑块，在最大着色的时刻停止它。象形文字绘制的区域越多，这个咒语就越强大。城堡的力量也受到法术等级的影响。"
+    new "观看魔法字形上的滑块，在最大着色的时刻点击停止。法印绘制的区域越多，这个咒语就越强大。施法的力量也受到法术等级的影响。"
 
     # game/logic/tutorial.rpy:19
     old "Now you can try it on your own! You can use this button anytime to watch this tutorial again and refresh your memory. Good luck!."
-    new "现在您可以自己尝试一下了! 您可以随时使用此按钮再次观看本教程并刷新您的记忆。好运!"
+    new "现在您可以自己尝试一下了! 您可以随时使用此按钮再次观看本教程并加以复习。祝你好运!"
 
     # game/logic/tutorial.rpy:19
     old "In this menu, you can easily find all the characters in the game that offer a quest or activity throughout the game day. Here’s the best part: you can instantly navigate to them right from the list."
-    new "在这个菜单中，你可以很容易地找到游戏中提供任务或活动的所有角色。这是最好的部分:你可以直接从列表中导航到他们。"
+    new "在这个菜单中，你可以很容易地找到游戏中提供任务或活动的所有角色。这是最好玩的部分:你可以直接从列表中导航到他们所在的位置。"
 
     # game/logic/tutorial.rpy:19
     old "The characters' avatars are located opposite the time icons. This means that this is the time of day when you can interact with them."
-    new "角色的化身位于时间图标的对面。这意味着这是一天中你可以与他们互动的时间。"
+    new "角色的头像列于时间图标之后。这意味着这是一天中你可以与他们互动的时间。"
 
     # game/logic/tutorial.rpy:19
     old "For example, all the characters whose activities are available in the night are shown here. This principle applies to any time of the day."
@@ -1618,15 +1618,15 @@ translate chinese strings:
 
     # game/logic/tutorial.rpy:19
     old "Select the avatar of the character you plan to meet and click this button. You will immediately teleport to the location where that character is located."
-    new "选择你计划见面的角色的化身，然后点击这个按钮。你将立即传送到角色所在的位置。"
+    new "选择你计划见面的角色的头像，然后点击这个按钮。你将立即传送到角色所在的位置。"
 
     # game/logic/tutorial.rpy:19
     old "If you select a character whose interaction is available later in the day, you will be warned that this choice leads to a timeskip. This is done to protect you from accidentally clicking on it."
-    new "如果您选择了一个在当天晚些时候可以进行交互的字符，您将被警告该选择将导致跳过。这样做是为了保护你不小心点击它。"
+    new "如果您选择了一个在当天晚些时候可以进行交互的角色，您将被警告该选择将导致跳过。这样做是为了以防万一你不小心点到它。"
 
     # game/logic/tutorial.rpy:19
     old "If the time of day is over, the avatars become unavailable until the next morning. It still shows all the characters available at that time, but you can't access them directly from this menu until the new day arrives."
-    new "如果一天的时间结束了，虚拟角色直到第二天早上才可用。它仍然显示了所有可用的字符，但你不能直接从这个菜单，直到新的一天到来。"
+    new "如果一天的时间结束了，头像直到第二天早上才可以点击。它仍然显示了所有可用的角色，但你不能直接从这个菜单传送过去，除非等到新一天的到来。"
 
     # game/logic/tutorial.rpy:550
     old "Close"
