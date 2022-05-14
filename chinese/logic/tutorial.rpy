@@ -34,7 +34,7 @@ translate chinese CordEntrance_label_4b7232ff:
 translate chinese CordEntrance_label_77d471be:
 
     # Carter "Ehm... Where? Why..."
-    Carter "嗯... 在哪里? 为什么..."
+    Carter "嗯... 去哪里？怎么了..."
 
 # game/logic/tutorial.rpy:585
 translate chinese CordEntrance_label_00959311:
@@ -94,13 +94,13 @@ translate chinese CordEntrance_label_0fdab458:
 translate chinese CordEntrance_label_824eb68a:
 
     # Jacob "To get there, just go through one of the two arches on either side of the stairs."
-    Jacob "要到那里，只需穿过楼梯两侧的两个拱门之一。"
+    Jacob "要到那里，只需穿过楼梯两侧的其中一个拱门。"
 
 # game/logic/tutorial.rpy:597
 translate chinese CordEntrance_label_fca81d84:
 
     # Jacob "Then turn to left. You need the first door."
-    Jacob "然后向左转。你需要第一扇门。"
+    Jacob "然后向左转。你需要穿过第一扇门。"
 
 # game/logic/tutorial.rpy:598
 translate chinese CordEntrance_label_4d0a14f3:
@@ -112,13 +112,13 @@ translate chinese CordEntrance_label_4d0a14f3:
 translate chinese CordEntrance_label_b7843e2d:
 
     # Jacob "You're a messed up case, aren't you?"
-    Jacob "你这情况真是一团糟，是吧?"
+    Jacob "你这的脑子已经乱成一团了，是吧?"
 
 # game/logic/tutorial.rpy:601
 translate chinese CordEntrance_label_0313eace:
 
     # Jacob "You need those arches over there. "
-    Jacob "你需要那边的那些拱门。"
+    Jacob "你需要穿过那边的拱门。"
 
 # game/logic/tutorial.rpy:602
 translate chinese CordEntrance_label_29142250:
@@ -130,7 +130,7 @@ translate chinese CordEntrance_label_29142250:
 translate chinese CordEntrance_label_afff9aa0:
 
     # Jacob "I hope you can work it out from there, you were there when you took your exam."
-    Jacob "我希望你们能从这里开始，你们参加考试的时候在场。"
+    Jacob "我希望能把这个问题解决，你们当时还在这里参加考试。"
 
 # game/logic/tutorial.rpy:604
 translate chinese CordEntrance_label_f5190618:
@@ -154,13 +154,13 @@ translate chinese CordEntrance_label_4614f3ee:
 translate chinese CordEntrance_label_bc91fdd7:
 
     # Jacob "Don't mention it. Try to be more attentive, Mr Brown."
-    Jacob "别客气。Brown先生，注意听点。"
+    Jacob "别客气。Brown先生，注意听讲。"
 
 # game/logic/tutorial.rpy:609
 translate chinese CordEntrance_label_a8ebf1f0:
 
     # Jacob "The rules are there for a reason. It would be a shame to get expelled for such foolishness."
-    Jacob "规则的存在是有原因的。因为这样的愚蠢行为而被开除太可惜了。"
+    Jacob "规则的存在是有原因的。因为这样的愚蠢行为而被开除就太可惜了。"
 
 # game/logic/tutorial.rpy:610
 translate chinese CordEntrance_label_7d6017ea:
@@ -172,19 +172,19 @@ translate chinese CordEntrance_label_7d6017ea:
 translate chinese CordEntrance_label_b2235bb4:
 
     # ch_Name "{i}(Phew, it's a good thing I didn't have time to follow him.){/i}"
-    ch_Name "{i}(幸好我没时间跟踪他。){/i}"
+    ch_Name "{i}(幸好我没时间跟着他。){/i}"
 
 # game/logic/tutorial.rpy:613
 translate chinese CordEntrance_label_7ca1a037:
 
     # ch_Name "{i}(Or I'd have gotten my ass kicked by Jacob.){/i}"
-    ch_Name "{i}(不然我就被Jacob揍了一顿。){/i}"
+    ch_Name "{i}(不然我就被Jacob臭骂一顿了。){/i}"
 
 # game/logic/tutorial.rpy:614
 translate chinese CordEntrance_label_4ed7d299:
 
     # ch_Name "{i}(I wonder what's on the second floor that students aren't allowed up there.){/i}"
-    ch_Name "{i}(我想知道二楼有什么是学生不允许上去的。){/i}"
+    ch_Name "{i}(我想知道二楼有什么东西，连学生都不允许上去。){/i}"
 
 # game/logic/tutorial.rpy:615
 translate chinese CordEntrance_label_89fc7eb8:
@@ -196,7 +196,7 @@ translate chinese CordEntrance_label_89fc7eb8:
 translate chinese CordEntrance_label_a185157a:
 
     # ch_Name "{i}(I have so much to do before school starts.){/i}"
-    ch_Name "{i}(开学前我还有很多事要做。){/i}"
+    ch_Name "{i}(开始上课前我还有很多事要做。){/i}"
 
 # game/logic/tutorial.rpy:618
 translate chinese CordEntrance_label_478994c0:
@@ -214,13 +214,13 @@ translate chinese CordEntrance_label_53648e18:
 translate chinese CordEntrance_label_f3ca9d12:
 
     # ch_Name "{i}(And that's all I need to know during my first year.){/i}"
-    ch_Name "{i}(这就是我第一年需要知道的一切。){/i}"
+    ch_Name "{i}(这就是我第一年需要知道的所有东西。){/i}"
 
 # game/logic/tutorial.rpy:633
 translate chinese CordGarden_label_e389e50c:
 
     # ch_Name "{i}(Well, here it is. The inner garden.){/i}"
-    ch_Name "{i}(好吧，就在这里。内部的花园。){/i}"
+    ch_Name "{i}(好吧，就是这里。内花园。){/i}"
 
 # game/logic/tutorial.rpy:634
 translate chinese CordGarden_label_a89f8e02:
@@ -250,7 +250,7 @@ translate chinese CordGarden_label_d2b75454:
 translate chinese CordGarden_label_6a8823d6:
 
     # Joshi "Nevermind. Some business."
-    Joshi "别介意。一些业务。"
+    Joshi "别介意。有点事情。"
 
 # game/logic/tutorial.rpy:641
 translate chinese CordGarden_label_73f50c33:
@@ -268,7 +268,7 @@ translate chinese CordGarden_label_ab7c8a20:
 translate chinese CordGarden_label_760df6d7:
 
     # Joshi "You can, as long as none of the teachers are watching."
-    Joshi "可以，只要没有老师在看。"
+    Joshi "可以，只要没有老师发现。"
 
 # game/logic/tutorial.rpy:647
 translate chinese CordGarden_label_0a4f54a9:
@@ -280,7 +280,7 @@ translate chinese CordGarden_label_0a4f54a9:
 translate chinese CordGarden_label_6351b055:
 
     # ch_Name "I'll take it! Thanks."
-    ch_Name "我拿一根! 谢谢。"
+    ch_Name "给我拿一根! 谢谢。"
 
 # game/logic/tutorial.rpy:650
 translate chinese CordGarden_label_2c25e386:
@@ -292,7 +292,7 @@ translate chinese CordGarden_label_2c25e386:
 translate chinese CordGarden_label_2f97a81b:
 
     # Joshi "No problem. I don't like smoking alone."
-    Joshi "没有问题。我不喜欢独自吸烟。"
+    Joshi "没问题。我不喜欢独自吸烟。"
 
 # game/logic/tutorial.rpy:652
 translate chinese CordGarden_label_2f80a538:
@@ -346,13 +346,13 @@ translate chinese CordGarden_label_94f22a93:
 translate chinese CordGarden_label_ff262520:
 
     # ch_Name "Yeah, there's that."
-    ch_Name "是的，有。"
+    ch_Name "是的，确实。"
 
 # game/logic/tutorial.rpy:664
 translate chinese CordGarden_label_8bddcee8:
 
     # Joshi "Luckily, I haven't racked my brain yet."
-    Joshi "幸运的是，我还没有绞尽脑汁。"
+    Joshi "幸运的是，我的脑子还没爆。"
 
 # game/logic/tutorial.rpy:665
 translate chinese CordGarden_label_849dfb8b:
@@ -370,31 +370,31 @@ translate chinese CordGarden_label_a63f3e45:
 translate chinese CordGarden_label_f7bff53b:
 
     # Joshi "Of course it is. You don't believe me?"
-    Joshi "当然是。你不相信我?"
+    Joshi "当然了。你不相信我?"
 
 # game/logic/tutorial.rpy:669
 translate chinese CordGarden_label_7623e196:
 
     # ch_Name "No, why not, I do..."
-    ch_Name "不，为什么不呢..."
+    ch_Name "不，相信你又有何妨..."
 
 # game/logic/tutorial.rpy:670
 translate chinese CordGarden_label_b9a64fc1:
 
     # Joshi "It's easy if you just remember the right places."
-    Joshi "如果你记得正确的地方，这很容易。"
+    Joshi "如果你记得正确的位置就很容易了。"
 
 # game/logic/tutorial.rpy:671
 translate chinese CordGarden_label_8db70d96:
 
     # Joshi "The room where the morning meeting was held on the track behind me."
-    Joshi "上午会议的房间就在我身后的跑道上。"
+    Joshi "我身后那条路可以通往上午开会的房间。"
 
 # game/logic/tutorial.rpy:672
 translate chinese CordGarden_label_50073e08:
 
     # Joshi "At the end of the courtyard."
-    Joshi "在院子的尽头。"
+    Joshi "就在院子的尽头。"
 
 # game/logic/tutorial.rpy:674
 translate chinese CordGarden_label_028c7c85:
@@ -412,7 +412,7 @@ translate chinese CordGarden_label_feb7664c:
 translate chinese CordGarden_label_782b8053:
 
     # Joshi "And on the right is the cafe and Sabrina's class."
-    Joshi "右边是咖啡厅和Sabrina的课。"
+    Joshi "右边是咖啡厅和Sabrina的教室。"
 
 # game/logic/tutorial.rpy:678
 translate chinese CordGarden_label_03c9e045:
@@ -442,7 +442,7 @@ translate chinese CordGarden_label_112c95db:
 translate chinese CordGarden_label_210e23fc:
 
     # Joshi "Did I mess up the meeting place?"
-    Joshi "我搞错面地点了吗?"
+    Joshi "我搞错见面地点了吗?"
 
 # game/logic/tutorial.rpy:686
 translate chinese CordGarden_label_b12eabfd:
@@ -478,7 +478,7 @@ translate chinese CordGarden_label_f89e56dc:
 translate chinese CordGarden_label_20277380:
 
     # ch_Name "{i}(Okay, I don't have time for that right now...){/i}"
-    ch_Name "{i}(好吧，我现在没时间谈这个...){/i}"
+    ch_Name "{i}(好吧，我现在没时间管这个了...){/i}"
 
 # game/logic/tutorial.rpy:696
 translate chinese CordGarden_label_5fd89adf:
@@ -490,13 +490,13 @@ translate chinese CordGarden_label_5fd89adf:
 translate chinese CordGarden_label_fc435854:
 
     # ch_Name "Thanks, I'll pass."
-    ch_Name "谢谢，我会通过。"
+    ch_Name "谢谢，我就不必了。"
 
 # game/logic/tutorial.rpy:699
 translate chinese CordGarden_label_92ad7b29:
 
     # Joshi "It's up to you."
-    Joshi "这取决于你。"
+    Joshi "随你。"
 
 # game/logic/tutorial.rpy:700
 translate chinese CordGarden_label_41c699ca:
@@ -574,7 +574,7 @@ translate chinese CordGarden_label_a63f3e45_1:
 translate chinese CordGarden_label_f7bff53b_1:
 
     # Joshi "Of course it is. You don't believe me?"
-    Joshi "当然是。你不相信我?"
+    Joshi "当然好。你不相信我?"
 
 # game/logic/tutorial.rpy:717
 translate chinese CordGarden_label_7623e196_1:
@@ -586,19 +586,19 @@ translate chinese CordGarden_label_7623e196_1:
 translate chinese CordGarden_label_b9a64fc1_1:
 
     # Joshi "It's easy if you just remember the right places."
-    Joshi "如果你记得正确的地方，这很容易。"
+    Joshi "如果你记得正确的地方就这很容易了。"
 
 # game/logic/tutorial.rpy:719
 translate chinese CordGarden_label_8db70d96_1:
 
     # Joshi "The room where the morning meeting was held on the track behind me."
-    Joshi "上午会议的房间就在我身后的跑道上。"
+    Joshi "我身后的那条路可以通往上午会议的房间。"
 
 # game/logic/tutorial.rpy:720
 translate chinese CordGarden_label_50073e08_1:
 
     # Joshi "At the end of the courtyard."
-    Joshi "在院子的尽头。"
+    Joshi "就在院子的尽头。"
 
 # game/logic/tutorial.rpy:722
 translate chinese CordGarden_label_028c7c85_1:
@@ -646,7 +646,7 @@ translate chinese CordGarden_label_112c95db_1:
 translate chinese CordGarden_label_210e23fc_1:
 
     # Joshi "Did I mess up the meeting place?"
-    Joshi "我搞错面地了吗?"
+    Joshi "我搞错见面地点了吗?"
 
 # game/logic/tutorial.rpy:734
 translate chinese CordGarden_label_b12eabfd_1:
@@ -682,7 +682,7 @@ translate chinese CordGarden_label_f89e56dc_1:
 translate chinese CordGarden_label_97ebb784:
 
     # ch_Name "{i}(Okay, I can't deal with that right now...){/i}"
-    ch_Name "{i}(好吧，我现在没空处理这个...){/i}"
+    ch_Name "{i}(好吧，我现在没空管这个...){/i}"
 
 # game/logic/tutorial.rpy:753
 translate chinese CordLeftWing_label_4bddd5b5:
@@ -718,7 +718,7 @@ translate chinese CordLeftWing_label_09a54e31:
 translate chinese CordLeftWing_label_2724fee9:
 
     # ch_Name "{i}(She tripped!){/i}"
-    ch_Name "{i}(她倒了!){/i}"
+    ch_Name "{i}(她摔倒了!){/i}"
 
 # game/logic/tutorial.rpy:761
 translate chinese CordLeftWing_label_a1f254c7:
@@ -730,7 +730,7 @@ translate chinese CordLeftWing_label_a1f254c7:
 translate chinese CordLeftWing_label_2a64a53a:
 
     # ch_Name "{i}(Poor thing... I have to help her.){/i}"
-    ch_Name "{i}(可怜... 我必须帮她。){/i}"
+    ch_Name "{i}(真可怜... 我必须帮她。){/i}"
 
 # game/logic/tutorial.rpy:764
 translate chinese CordLeftWing_label_242d4568:
@@ -742,13 +742,13 @@ translate chinese CordLeftWing_label_242d4568:
 translate chinese CordLeftWing_label_1a79f119:
 
     # ch_Name "Hey. How are you? Is everything okay?"
-    ch_Name "嘿。你好吗? 一切都好吗?"
+    ch_Name "嘿。你还好吗? 你没事吧?"
 
 # game/logic/tutorial.rpy:766
 translate chinese CordLeftWing_label_15215b5d:
 
     # Gabriella "I think so..."
-    Gabriella "我想是这样..."
+    Gabriella "应该没事..."
 
 # game/logic/tutorial.rpy:768
 translate chinese CordLeftWing_label_118eed74:
@@ -778,13 +778,13 @@ translate chinese CordLeftWing_label_ad35e680:
 translate chinese CordLeftWing_label_c6e8b771:
 
     # ch_Name "{i}(Let's consider it a nice bonus to me for coming to the rescue.){/i}"
-    ch_Name "{i}(让我们把它看作是对我来救援的一种奖励吧。){/i}"
+    ch_Name "{i}(就把它看作是对我施以援手的一种奖励吧。){/i}"
 
 # game/logic/tutorial.rpy:774
 translate chinese CordLeftWing_label_da4629f1:
 
     # ch_Name "{i}(No wonder she tripped. With those heels.){/i}"
-    ch_Name "{i}(难怪她绊倒了。穿高跟鞋。){/i}"
+    ch_Name "{i}(难怪她绊倒了。穿着高跟鞋呢。){/i}"
 
 # game/logic/tutorial.rpy:776
 translate chinese CordLeftWing_label_8b7873e2:
@@ -820,19 +820,19 @@ translate chinese CordLeftWing_label_ba4ef7db:
 translate chinese CordLeftWing_label_9e0bcb90:
 
     # ch_Name "Anybody can be."
-    ch_Name "任何人都可能。"
+    ch_Name "这种情况任何人都可能遇到的。"
 
 # game/logic/tutorial.rpy:783
 translate chinese CordLeftWing_label_aa4f4b7a:
 
     # ch_Name "Here, here are your books. Why do you need them anyway?"
-    ch_Name "给，这是你的书。你为什么需要它们呢?"
+    ch_Name "给，这是你的书。你为什么要拿这么多书呢?"
 
 # game/logic/tutorial.rpy:785
 translate chinese CordLeftWing_label_8ae7748d:
 
     # Gabriella "I've promised Victoria to bring new books from the library."
-    Gabriella "我答应Victoria从图书馆带新书来。"
+    Gabriella "我答应Victoria要从图书馆带些新书过去。"
 
 # game/logic/tutorial.rpy:786
 translate chinese CordLeftWing_label_7c8ba907:
@@ -862,31 +862,31 @@ translate chinese CordLeftWing_label_be38b0ad:
 translate chinese CordLeftWing_label_46ca7571:
 
     # ch_Name "{i}(Shit, I need to think of an excuse to call her out... Oh, I know!){/i}"
-    ch_Name "{i}(妈的，我得找个借口约她出来... 哦，我知道!){/i}"
+    ch_Name "{i}(妈的，我得找个借口约她出来... 哦，我想起来了!){/i}"
 
 # game/logic/tutorial.rpy:793
 translate chinese CordLeftWing_label_65c02259:
 
     # ch_Name "Hey! Excuse me, please."
-    ch_Name "嘿! 请原谅我。"
+    ch_Name "嘿! 不好意思。"
 
 # game/logic/tutorial.rpy:794
 translate chinese CordLeftWing_label_5a0bb231:
 
     # ch_Name "But do you happen to know where Victoria's class is?"
-    ch_Name "但你知道Victoria的课堂在哪吗?"
+    ch_Name "你知道Victoria的课堂在哪吗?"
 
 # game/logic/tutorial.rpy:796
 translate chinese CordLeftWing_label_3cd9236e:
 
     # Gabriella "Of course I do. That's where I'm going."
-    Gabriella "我当然知道。我要去那里。"
+    Gabriella "我当然知道。我正要去那里。"
 
 # game/logic/tutorial.rpy:797
 translate chinese CordLeftWing_label_bd9ff197:
 
     # Gabriella "It's that door right down the hall."
-    Gabriella "就是走廊尽头的那扇门。"
+    Gabriella "就是走廊尽头的那间房。"
 
 # game/logic/tutorial.rpy:798
 translate chinese CordLeftWing_label_b252878a:
@@ -898,13 +898,13 @@ translate chinese CordLeftWing_label_b252878a:
 translate chinese CordLeftWing_label_ac72bb37:
 
     # Gabriella "No problem! See you later."
-    Gabriella "没问题! 再见。"
+    Gabriella "没事! 再见。"
 
 # game/logic/tutorial.rpy:801
 translate chinese CordLeftWing_label_0ce6f211:
 
     # ch_Name "{i}(Fuck, [Name]. Where is Victoria's class? Really?){/i}"
-    ch_Name "{i}(他妈的，[Name]。Victoria的教室在哪里? 真的吗?){/i}"
+    ch_Name "{i}(他妈的，[Name]。Victoria的教室在哪里? 这个理由是认真的吗?){/i}"
 
 # game/logic/tutorial.rpy:802
 translate chinese CordLeftWing_label_1b893d3b:
@@ -994,7 +994,7 @@ translate chinese CordRightWing_label_832bd4cf:
 translate chinese CordRightWing_label_ab45415b:
 
     # ch_Name "Did I hear you arguing with the door? You bet you did."
-    ch_Name "我听到你在和门争吵吗? 你当然知道。"
+    ch_Name "我听到你在和门争吵吗? 是这样吧。"
 
 # game/logic/tutorial.rpy:833
 translate chinese CordRightWing_label_e6510c69:
@@ -1006,13 +1006,13 @@ translate chinese CordRightWing_label_e6510c69:
 translate chinese CordRightWing_label_99f37457:
 
     # Grace "It's your second day here and you're already building a reputation as the local lunatic."
-    Grace "这是你在这里的第二天你已经树立了当地疯子的名声。"
+    Grace "这才是你来这里的第二天，就打响了作为本地疯子的名号。"
 
 # game/logic/tutorial.rpy:836
 translate chinese CordRightWing_label_14e10a0f:
 
     # Grace "I'm sorry you had to watch that scene."
-    Grace "我很抱歉让你看到了那个场景。"
+    Grace "我很抱歉让你看到这种场面。"
 
 # game/logic/tutorial.rpy:837
 translate chinese CordRightWing_label_391b24b0:
@@ -1030,25 +1030,25 @@ translate chinese CordRightWing_label_256064a0:
 translate chinese CordRightWing_label_29cab73c:
 
     # Grace "But the local cafe is closed in the morning. Can you believe it?!"
-    Grace "但是当地的咖啡馆早上就关门了。你能相信吗?!"
+    Grace "但是这里的咖啡馆早上就关门了。你能相信吗?!"
 
 # game/logic/tutorial.rpy:841
 translate chinese CordRightWing_label_e9ba6cc6:
 
     # ch_Name "Bummer, of course."
-    ch_Name "当然，游手好闲的人。"
+    ch_Name "当然，老板躺平了。"
 
 # game/logic/tutorial.rpy:842
 translate chinese CordRightWing_label_a9685a1c:
 
     # ch_Name "I'm sorry your plans got disrupted, really."
-    ch_Name "很抱歉你的计划被打乱了，真的。"
+    ch_Name "很遗憾你的计划被打乱了，真的。"
 
 # game/logic/tutorial.rpy:843
 translate chinese CordRightWing_label_22c9ef25:
 
     # ch_Name "You can stop by Leonheart's dorm if you want."
-    ch_Name "如果你愿意，你可以去 Leonheart 的房间。"
+    ch_Name "如果你愿意，你可以去 Leonheart 的宿舍。"
 
 # game/logic/tutorial.rpy:844
 translate chinese CordRightWing_label_3d71edd5:
@@ -1072,7 +1072,7 @@ translate chinese CordRightWing_label_93350343:
 translate chinese CordRightWing_label_6d8ac43b:
 
     # Grace "I guess I'll have to have coffee after class."
-    Grace "我想下课后我得喝咖啡了。"
+    Grace "我想只能在下课后喝咖啡了。"
 
 # game/logic/tutorial.rpy:850
 translate chinese CordRightWing_label_450affd3:
@@ -1090,7 +1090,7 @@ translate chinese CordRightWing_label_0a51a956:
 translate chinese CordRightWing_label_96ae8269:
 
     # ch_Name "No problem."
-    ch_Name "没有问题。"
+    ch_Name "没事。"
 
 # game/logic/tutorial.rpy:853
 translate chinese CordRightWing_label_07e757d2:
@@ -1114,7 +1114,7 @@ translate chinese CordRightWing_label_4d3ec7ac:
 translate chinese CordRightWing_label_951789d8:
 
     # ch_Name "{i}(I didn't think anyone could be so angry about coffee.){/i}"
-    ch_Name "{i}(我没想到有人会对咖啡这么生气。){/i}"
+    ch_Name "{i}(我没想到有人会对喝不到咖啡这么生气。){/i}"
 
 # game/logic/tutorial.rpy:859
 translate chinese CordRightWing_label_ae1a6bec:
