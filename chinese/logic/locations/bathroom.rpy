@@ -56,7 +56,7 @@ translate chinese strings:
 
     # game/logic/locations/bathroom.rpy:132
     old "If Romeo had just masturbated a couple of times a week he would have saved both those nice families a heap of trouble."
-    new "如果Romeo每周手淫几次，他就可以为这两个美好的家庭省下一大堆麻烦。"
+    new "如果Romeo每周手淫几次，他就可以为这两个美好的家庭省下一大堆麻烦。（Romeo，即罗密欧，《罗密欧与朱丽叶》里的男主角）"
 
     # game/logic/locations/bathroom.rpy:132
     old "I'm such a good lover because I practice a lot on my own."
@@ -92,5 +92,5 @@ translate chinese strings:
 
     # game/logic/locations/bathroom.rpy:150
     old "Take as much as long shower you need to think clearer. Many times, we get our best idea inside the restroom."
-    new "洗澡的时间越长越好，这样你才能想得更清楚。很多时候，我们在洗手间里得到了最好的想法。"
+    new "洗澡的时间越长越好，这样你才能想得更清楚。很多时候，我们在洗手间里想出了最好的点子。"
 
