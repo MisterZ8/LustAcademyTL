@@ -4,7 +4,7 @@
 translate chinese Mino_1_label_eea8a38b:
 
     # ch_Name "{i}(This minotaur's head stonework is a masterpiece!){/i}"
-    ch_Name "{i}（这个牛头怪的头部石雕是一个杰作!）{/i}"
+    ch_Name "{i}（这个牛头怪的头部石雕简直就是是一个杰作!）{/i}（译者注：牛头怪，即minotaur，这个单词源自希腊神话里的牛头人怪兽米诺陶洛斯。）"
 
 # game/logic/events/Minotaur.rpy:40
 translate chinese Mino_1_label_1af10e27:
@@ -16,7 +16,7 @@ translate chinese Mino_1_label_1af10e27:
 translate chinese Mino_1_label_ac4f3a04:
 
     # ch_Name "{i}(And the head actually looks like a real one.){/i}"
-    ch_Name "{i}（而且这个头实际上看起来就像一个真的。）{/i}"
+    ch_Name "{i}（而且这个头看起来就像真的一样。）{/i}"
 
 # game/logic/events/Minotaur.rpy:44
 translate chinese Mino_1_label_03a8f08e:
@@ -28,7 +28,7 @@ translate chinese Mino_1_label_03a8f08e:
 translate chinese Mino_1_label_2352d0db:
 
     # ch_Name "{i}(I've nearly jumped out of my skin!){/i}"
-    ch_Name "{i}（我几乎要从我的皮肤上跳出来了!）{/i}"
+    ch_Name "{i}（我的鸡皮疙瘩都要起来了!）{/i}"
 
 # game/logic/events/Minotaur.rpy:47
 translate chinese Mino_1_label_a25957d2:
@@ -40,7 +40,7 @@ translate chinese Mino_1_label_a25957d2:
 translate chinese Mino_1_label_1cfaf5d4:
 
     # ch_Name "I'm sorry... who is this?"
-    ch_Name "对不起。。。这是谁？"
+    ch_Name "对不起……谁在说话？"
 
 # game/logic/events/Minotaur.rpy:49
 translate chinese Mino_1_label_41428110:
@@ -52,7 +52,7 @@ translate chinese Mino_1_label_41428110:
 translate chinese Mino_1_label_6827de25:
 
     # ch_Name "Minotaur? I just didn't think that you were real..."
-    ch_Name "牛头怪？我只是不认为你是真的。"
+    ch_Name "牛头怪？我还认为你是假的。"
 
 # game/logic/events/Minotaur.rpy:52
 translate chinese Mino_1_label_92f271cd:
@@ -70,7 +70,7 @@ translate chinese Mino_1_label_77e7d9b9:
 translate chinese Mino_1_label_5b6c7dc1:
 
     # Minotaur "Well, at least you can move around."
-    Minotaur "好吧，至少你可以四处走动。"
+    Minotaur "好吧，至少你还能四处走走。"
 
 # game/logic/events/Minotaur.rpy:56
 translate chinese Mino_1_label_a346ae5e:
@@ -82,19 +82,19 @@ translate chinese Mino_1_label_a346ae5e:
 translate chinese Mino_1_label_a4c07b3e:
 
     # Minotaur "Listen... what is your name again?"
-    Minotaur "听着。。。你的名字是什么来着？"
+    Minotaur "听着……你的名字是什么来着？"
 
 # game/logic/events/Minotaur.rpy:58
 translate chinese Mino_1_label_e717a6b3:
 
     # ch_Name "I didn't get a chance to introduce myself, actually. I'm [Name]."
-    ch_Name "实际上，我没有机会介绍自己。我是[Name]。"
+    ch_Name "实际上，我都没有机会介绍自己。我叫[Name]。"
 
 # game/logic/events/Minotaur.rpy:60
 translate chinese Mino_1_label_ff9bc8c7:
 
     # Minotaur "We need you to do something for us, [Name]."
-    Minotaur "我们需要你为我们做一些事情，[Name]。"
+    Minotaur "我需要你为我们做一些事情，[Name]。"
 
 # game/logic/events/Minotaur.rpy:61
 translate chinese Mino_1_label_87c6dca7:
@@ -118,7 +118,7 @@ translate chinese Mino_1_label_1ae0fa80:
 translate chinese Mino_1_label_c3ec798c:
 
     # ch_Name "I'd love to do it, but I don't even think I could lift you..."
-    ch_Name "我很想这么做，但我甚至认为我无法举起你。"
+    ch_Name "我很想这么做，但我认为我根本无法把你举起来。"
 
 # game/logic/events/Minotaur.rpy:66
 translate chinese Mino_1_label_a2a11d87:
@@ -130,19 +130,19 @@ translate chinese Mino_1_label_a2a11d87:
 translate chinese Mino_1_label_849171bb:
 
     # Minotaur "Why don't you ask Amelie about the levitation feather?"
-    Minotaur "你为什么不问Amelie关于悬浮羽毛的事？"
+    Minotaur "你为什么不问问Amelie关于悬浮羽毛的事呢？"
 
 # game/logic/events/Minotaur.rpy:68
 translate chinese Mino_1_label_4e017d68:
 
     # Minotaur "She has the whole vault of magical artifacts."
-    Minotaur "她拥有整个金库的魔法文物。"
+    Minotaur "她拥有整个宝库的魔法神器。"
 
 # game/logic/events/Minotaur.rpy:70
 translate chinese Mino_1_label_a97ef9d3:
 
     # ch_Name "Well, that's an idea..."
-    ch_Name "嗯，这是个方法。。。"
+    ch_Name "嗯，这倒是个方法……"
 
 # game/logic/events/Minotaur.rpy:71
 translate chinese Mino_1_label_a87ec228:
@@ -154,13 +154,13 @@ translate chinese Mino_1_label_a87ec228:
 translate chinese Mino_1_label_6bd504cd:
 
     # Minotaur "Uh-huh... You all say that and then you don't come back."
-    Minotaur "嗯，嗯。。。你们都这么说，然后就不回来了。"
+    Minotaur "嗯，嗯……你们都这么说，然后就不回来了。"
 
 # game/logic/events/Minotaur.rpy:74
 translate chinese Mino_1_label_53843be9:
 
     # ch_Name "C'mon, dude! It's not them. It's me."
-    ch_Name "来吧，伙计！这不是他们。是我。"
+    ch_Name "来吧，伙计！这次是我，不是他们。"
 
 # game/logic/events/Minotaur.rpy:75
 translate chinese Mino_1_label_0bb070ea:
@@ -184,13 +184,13 @@ translate chinese Mino_1_label_ba51152f:
 translate chinese Mino_1_label_1cdfc511:
 
     # ch_Name "When I find the feather, I will help you. Trust me with that, okay?"
-    ch_Name "当我找到羽毛的时候，我会帮助你。相信我，好吗？"
+    ch_Name "当我找到羽毛的时候，我会帮你的。相信我，好吗？"
 
 # game/logic/events/Minotaur.rpy:80
 translate chinese Mino_1_label_ac338a3d:
 
     # Minotaur "I leave this to your conscience."
-    Minotaur "我把这留给你的良心。"
+    Minotaur "说这话的时候，希望你摸着你的良心。"
 
 # game/logic/events/Minotaur.rpy:81
 translate chinese Mino_1_label_2ec3d925:
@@ -220,7 +220,7 @@ translate chinese Mino_2_label_b7f6bd92:
 translate chinese Mino_2_label_08b61edc:
 
     # Amelie "Would you like to have a cup or two together with me?"
-    Amelie "你想和我一起喝一两杯吗？"
+    Amelie "你想和我一起喝两杯吗？"
 
 # game/logic/events/Minotaur.rpy:99
 translate chinese Mino_2_label_83b98eeb:
@@ -244,7 +244,7 @@ translate chinese Mino_2_label_a99a67bd:
 translate chinese Mino_2_label_64dc1128:
 
     # Amelie "Of course, what is it?"
-    Amelie "当然，它是什么？"
+    Amelie "当然，有什么事？"
 
 # game/logic/events/Minotaur.rpy:104
 translate chinese Mino_2_label_c12149a3:
@@ -298,7 +298,7 @@ translate chinese Mino_2_label_3b3d89c9:
 translate chinese Mino_2_label_4aa975ea:
 
     # ch_Name "I just decided to see the artifact with my own eyes, and..."
-    ch_Name "我只是决定用自己的眼睛去看这个文物，而且。。。"
+    ch_Name "我只是决定亲眼看看这个道具，而且……"
 
 # game/logic/events/Minotaur.rpy:115
 translate chinese Mino_2_label_ef7bce0f:
@@ -316,7 +316,7 @@ translate chinese Mino_2_label_a393ee18:
 translate chinese Mino_2_label_86e2f0de:
 
     # ch_Name "Little birdie told me..."
-    ch_Name "小鸟告诉我。。。"
+    ch_Name "小鸟告诉我的……"
 
 # game/logic/events/Minotaur.rpy:119
 translate chinese Mino_2_label_a76c94d6:
@@ -346,31 +346,31 @@ translate chinese Mino_2_label_597fc5f4:
 translate chinese Mino_2_label_dff5b0cc:
 
     # ch_Name "{i}(Then I’m doubly pleased that she is ready to trust me with it.){/i}"
-    ch_Name "{i}（那么我就会加倍高兴，因为她已经准备好把它交给我。）{/i}"
+    ch_Name "{i}（她已经相信我所说的话，我更高兴了。）{/i}"
 
 # game/logic/events/Minotaur.rpy:131
 translate chinese Mino_2_label_483d8f1d:
 
     # Amelie "That will be your responsibility, my dear."
-    Amelie "这将是你的责任，我亲爱的。"
+    Amelie "你要负起责任，亲爱的。"
 
 # game/logic/events/Minotaur.rpy:132
 translate chinese Mino_2_label_6a0999e2:
 
     # Amelie "Use it, but you have to promise me something before."
-    Amelie "使用它，但你必须在之前答应我一些事情。"
+    Amelie "你可以拿去用，但你必须在此之前答应我一些事情。"
 
 # game/logic/events/Minotaur.rpy:133
 translate chinese Mino_2_label_fb39ff40:
 
     # ch_Name "Sure, just anything."
-    ch_Name "当然，就是任何东西。"
+    ch_Name "当然，任您差遣。"
 
 # game/logic/events/Minotaur.rpy:135
 translate chinese Mino_2_label_5658aea4:
 
     # Amelie "It’s very fragile. I'm not even exaggerating, so take this seriously, okay?"
-    Amelie "它是非常脆弱的。我甚至没有夸大其词，所以认真对待，好吗？"
+    Amelie "它非常脆弱。我甚至没有夸大其词，所以请认真对待，好吗？"
 
 # game/logic/events/Minotaur.rpy:136
 translate chinese Mino_2_label_631e446f:
@@ -382,7 +382,7 @@ translate chinese Mino_2_label_631e446f:
 translate chinese Mino_2_label_d3b3d1c2:
 
     # Amelie "We'll see, we'll see..."
-    Amelie "我们会看到，我们会看到。。。"
+    Amelie "我们拭目以待……"
 
 # game/logic/events/Minotaur.rpy:138
 translate chinese Mino_2_label_5513783e:
@@ -394,13 +394,13 @@ translate chinese Mino_2_label_5513783e:
 translate chinese Mino_3_label_860bbc0c:
 
     # ch_Name "{i}(Hell! I guess I forgot to ask her how to use is.){/i}"
-    ch_Name "{i}（该死的! 我想我忘了问她如何使用。）{/i}"
+    ch_Name "{i}（该死的! 我想我忘了问她怎么用了。）{/i}"
 
 # game/logic/events/Minotaur.rpy:150
 translate chinese Mino_3_label_90d6ad53:
 
     # ch_Name "{i}(Anyway, it's too late for kicking myself.){/i}"
-    ch_Name "{i}（总之，现在踢自己已经太晚了。）{/i}"
+    ch_Name "{i}（总之，现在后悔已经太晚了。）{/i}"
 
 # game/logic/events/Minotaur.rpy:151
 translate chinese Mino_3_label_49458a53:
@@ -448,7 +448,7 @@ translate chinese Mino_3_label_010cfac7:
 translate chinese Mino_3_label_444fd16b:
 
     # Minotaur "You're on the right track. Keep moving!"
-    Minotaur "你在正确的轨道上。继续前进!"
+    Minotaur "你步入正轨了。继续前进!"
 
 # game/logic/events/Minotaur.rpy:165
 translate chinese Mino_3_label_d048d85a:
@@ -460,7 +460,7 @@ translate chinese Mino_3_label_d048d85a:
 translate chinese Mino_3_label_507c2ddc:
 
     # ch_Name "{i}(Yeah. Here we go.){/i}"
-    ch_Name "{i}（是的，我们来了。）{/i}"
+    ch_Name "{i}（是的，我们继续。）{/i}"
 
 # game/logic/events/Minotaur.rpy:168
 translate chinese Mino_3_label_e1dc4cea:
@@ -478,7 +478,7 @@ translate chinese Mino_3_label_635b6692:
 translate chinese Mino_3_label_5d93953a:
 
     # ch_Name "Holy smoke!"
-    ch_Name "神圣的烟雾!"
+    ch_Name "这烟雾，卧槽!"
 
 # game/logic/events/Minotaur.rpy:175
 translate chinese Mino_3_label_0ae620fb:
@@ -496,19 +496,19 @@ translate chinese Mino_3_label_de78394f:
 translate chinese Mino_3_label_e6cec9dc:
 
     # Minotaur "Thank you, my friend.{w} Ghm, it's the biggest favor anybody's ever done for me."
-    Minotaur "谢谢你，我的朋友。{w} 嗯，这是任何人为我做过的最大的帮助。"
+    Minotaur "谢谢你，我的朋友。{w} 嗯，这是人类为我提供过的最大的帮助。"
 
 # game/logic/events/Minotaur.rpy:179
 translate chinese Mino_3_label_03acd897:
 
     # ch_Name "I'm glad I could help... Wait, what's it?"
-    ch_Name "我很高兴能帮助。。。等等，是什么？"
+    ch_Name "我很高兴能帮助……等等，那是什么？"
 
 # game/logic/events/Minotaur.rpy:180
 translate chinese Mino_3_label_82aa93b7:
 
     # Minotaur "Oh, this one."
-    Minotaur "哦，这个人。"
+    Minotaur "哦，你说这个啊。"
 
 # game/logic/events/Minotaur.rpy:181
 translate chinese Mino_3_label_ad222400:
@@ -526,19 +526,19 @@ translate chinese Mino_3_label_cbe4d4b3:
 translate chinese Mino_3_label_d8c946ff:
 
     # Minotaur "I couldn't even tell you what this photo is about."
-    Minotaur "我甚至无法告诉你这张照片是关于什么的。"
+    Minotaur "我甚至无法告诉你这张照片和什么有关。"
 
 # game/logic/events/Minotaur.rpy:185
 translate chinese Mino_3_label_115a9c41:
 
     # Minotaur "But you can have the picture if you want. You obviously like it, so..."
-    Minotaur "但如果你想的话，你可以拥有这张照片。你显然喜欢它，所以。。。"
+    Minotaur "但如果你想的话，你可以拿走这张照片。很显然，你喜欢它，所以……"
 
 # game/logic/events/Minotaur.rpy:186
 translate chinese Mino_3_label_f594e58f:
 
     # Minotaur "Think of this as a gift for your help and kindness."
-    Minotaur "把这看作是对你的帮助和善意的礼物。"
+    Minotaur "把这看作是对你的帮助和善意的礼物吧。"
 
 # game/logic/events/Minotaur.rpy:188
 translate chinese Mino_3_label_74c8cb2a:
@@ -562,19 +562,19 @@ translate chinese Mino_3_label_6d6e2215:
 translate chinese Mino_3_label_a2762f69:
 
     # ch_Name "{i}(What do we have here?){/i}"
-    ch_Name "{i}（我们这里有什么？）{/i}"
+    ch_Name "{i}（看看我发现了什么？）{/i}"
 
 # game/logic/events/Minotaur.rpy:193
 translate chinese Mino_3_label_49a75238:
 
     # ch_Name "{i}(Oh... My... God!){/i}"
-    ch_Name "{i}（哦。。。我的。。。我天啊!）{/i}"
+    ch_Name "{i}（哦……我的……天啊!）{/i}"
 
 # game/logic/events/Minotaur.rpy:194
 translate chinese Mino_3_label_211e7b16:
 
     # ch_Name "{i}(I can't believe that this picture actually exists...){/i}"
-    ch_Name "{i}（我无法相信这张照片真的存在。。。）{/i}"
+    ch_Name "{i}（我不敢相信这张照片真的存在……）{/i}"
 
 # game/logic/events/Minotaur.rpy:196
 translate chinese Mino_3_label_8c205af0:
@@ -604,13 +604,13 @@ translate chinese Mino_3_label_8bf408dd:
 translate chinese Mino_3_label_2e872ed0:
 
     # ch_Name "{i}(But who could catch the moment like that on camera?){/i}"
-    ch_Name "{i}（但谁能用镜头前抓住这样的时刻呢？）{/i}"
+    ch_Name "{i}（但是是谁抓拍了这样的美丽时刻呢？）{/i}"
 
 # game/logic/events/Minotaur.rpy:202
 translate chinese Mino_3_label_567687e1:
 
     # ch_Name "{i}(Honestly, I can't think of a single person...){/i}"
-    ch_Name "{i}（说实话，我想不出一个人。。。）{/i}"
+    ch_Name "{i}（说实话，我想不出是谁……）{/i}"
 
 translate chinese strings:
 
@@ -628,5 +628,5 @@ translate chinese strings:
 translate chinese Mino_1_label_2d580e9e:
 
     # Minotaur "Listen... what is your name again?"
-    Minotaur "听着。。。你的名字是什么来着？"
+    Minotaur "听着……你的名字叫什么来着？"
 
