@@ -5152,13 +5152,13 @@ translate chinese Leona_5_label_016f108a:
 translate chinese Leona_5_label_8f2952c2:
 
     # ch_Name "Someone put a phantom soulstealer on me. It hunts people in their dreams."
-    ch_Name "有人在我身上放了幽灵。它在人们的梦中追捕他们。"
+    ch_Name "有人在我身上植入了幽灵。它会在梦里猎杀我们。"
 
 # game/logic/events/Leona.rpy:1426
 translate chinese Leona_5_label_88cedd08:
 
     # Haley "A phantom soulstealer? Are you sure?! I think I've read about them."
-    Haley "一个幽灵吗？你确定吗？！我想我读过他们的书。"
+    Haley "幽灵吗？你确定？！我想我在书上看到过。"
 
 # game/logic/events/Leona.rpy:1427
 translate chinese Leona_5_label_7fc22401:
@@ -5176,37 +5176,37 @@ translate chinese Leona_5_label_0318f19b:
 translate chinese Leona_5_label_0c19842c:
 
     # ch_Name "And now someone's messing with me. Left a note under my door this morning."
-    ch_Name "现在有人在耍我。我今早在门底下留了张纸条。"
+    ch_Name "现在有人在搞我，还在我门底下留了张纸条。"
 
 # game/logic/events/Leona.rpy:1431
 translate chinese Leona_5_label_ab4bb0b2:
 
     # ch_Name "He says he's testing me for something and wants to meet. One on one."
-    ch_Name "他说他在测试我，想和我见面。一个对一个。"
+    ch_Name "他说他在测试我，想和我单独见面。"
 
 # game/logic/events/Leona.rpy:1432
 translate chinese Leona_5_label_71502dca:
 
     # Haley "Sounds suspicious..."
-    Haley "听起来可疑..."
+    Haley "听起来很可疑..."
 
 # game/logic/events/Leona.rpy:1433
 translate chinese Leona_5_label_1d7122d4:
 
     # ch_Name "I know. But he says he knew my parents."
-    ch_Name "我知道。但他说他认识我父母。"
+    ch_Name "我知道。但他说他认识我爸妈。"
 
 # game/logic/events/Leona.rpy:1434
 translate chinese Leona_5_label_b976e36a:
 
     # ch_Name "I'm scared. But I have to go. Wouldn't you?"
-    ch_Name "我很害怕。但我得走了。难道你？"
+    ch_Name "我很害怕。但我必须去，你不觉得吗？"
 
 # game/logic/events/Leona.rpy:1436
 translate chinese Leona_5_label_d383518a:
 
     # Haley "Honestly, it would scare me too."
-    Haley "老实说，这也会吓到我。"
+    Haley "老实说，我也挺怕的。"
 
 # game/logic/events/Leona.rpy:1437
 translate chinese Leona_5_label_086dcc26:
@@ -5218,19 +5218,19 @@ translate chinese Leona_5_label_086dcc26:
 translate chinese Leona_5_label_dd28a24d:
 
     # Haley "I have faith that you'll be fine. You're a very talented and strong wizard."
-    Haley "我相信你会没事的。你是一个非常有天赋和强大的巫师。"
+    Haley "我相信你会没事的。你是一个非常有天赋且强大的巫师。"
 
 # game/logic/events/Leona.rpy:1440
 translate chinese Leona_5_label_feb537d8:
 
     # Haley "And you always know what to do in a stressful situation."
-    Haley "你总是知道在有压力的情况下该怎么做。"
+    Haley "在重压之下，你总能找到办法。"
 
 # game/logic/events/Leona.rpy:1441
 translate chinese Leona_5_label_9c801c43:
 
     # Haley "If it wasn't for you, I don't know what I would have done in the library..."
-    Haley "如果不是你，我不知道我会在图书馆做什么..."
+    Haley "如果不是你，我都不知道自己会在图书馆干出什么事……"
 
 # game/logic/events/Leona.rpy:1442
 translate chinese Leona_5_label_3bf8ea9f:
@@ -5254,7 +5254,7 @@ translate chinese Leona_5_label_3facfa8c:
 translate chinese Leona_5_label_5c31b9bd:
 
     # ch_Name "Come here..."
-    ch_Name "来这里..."
+    ch_Name "过来……"
 
 # game/logic/events/Leona.rpy:1448
 translate chinese Leona_5_label_7945e9da:
@@ -5266,7 +5266,7 @@ translate chinese Leona_5_label_7945e9da:
 translate chinese Leona_5_label_23b7136a:
 
     # ch_Name "{i}(It's impossible to be sad in her arms.){/i}"
-    ch_Name "{i}(在她的怀抱里不可能悲伤。){/i}"
+    ch_Name "{i}(在她的怀抱里没有悲伤。){/i}"
 
 # game/logic/events/Leona.rpy:1450
 translate chinese Leona_5_label_8965ef06:
@@ -5296,25 +5296,25 @@ translate chinese Leona_5_label_754e1e57:
 translate chinese Leona_5_label_a6694ee4:
 
     # Haley "I can't shake the thought of the statues staring at me."
-    Haley "我无法忽略那些雕像盯着我看的想法。"
+    Haley "那些雕像盯着我看的场景总是令人挥之不去。"
 
 # game/logic/events/Leona.rpy:1457
 translate chinese Leona_5_label_04a0251e:
 
     # ch_Name "I mean, I can understand them."
-    ch_Name "我是说，我能理解他们。"
+    ch_Name "我是说，我理解他们的想法。"
 
 # game/logic/events/Leona.rpy:1458
 translate chinese Leona_5_label_5168f873:
 
     # Haley "Stupid!"
-    Haley "傻瓜！"
+    Haley "你个傻瓜！"
 
 # game/logic/events/Leona.rpy:1459
 translate chinese Leona_5_label_499d9f3e:
 
     # ch_Name "All right, let's go. Thank you. I needed this."
-    ch_Name "好了，走吧。谢谢你！我需要这个。"
+    ch_Name "好了，走吧。谢谢你！这就是我需要的。"
 
 # game/logic/events/Leona.rpy:1461
 translate chinese Leona_5_label_a50f8ff1:
@@ -5338,13 +5338,13 @@ translate chinese Leona_5_label_b5e617ec:
 translate chinese Leona_5_label_01b269f5:
 
     # Samantha "I take it you wanted to talk in private? I love secrets."
-    Samantha "我猜你想私下谈谈？我爱秘密。"
+    Samantha "我猜你想私下谈谈？我喜欢秘密。"
 
 # game/logic/events/Leona.rpy:1474
 translate chinese Leona_5_label_9900a37d:
 
     # ch_Name "{i}(Oh, yeah. That's right!){/i}"
-    ch_Name "{i}(哦,是的。对！){/i}"
+    ch_Name "{i}(哦,是的。她说得对！){/i}"
 
 # game/logic/events/Leona.rpy:1475
 translate chinese Leona_5_label_87c629cf:
@@ -5362,13 +5362,13 @@ translate chinese Leona_5_label_5d4df1f4:
 translate chinese Leona_5_label_333403da:
 
     # ch_Name "And you're in a playful mood today. It's nice to see you like this."
-    ch_Name "你今天心情很好。很高兴看到你这样。"
+    ch_Name "你今天心情很好。很高兴能看到你这样。"
 
 # game/logic/events/Leona.rpy:1479
 translate chinese Leona_5_label_58b65d98:
 
     # ch_Name "But I didn't call you here to seduce you. Not tonight."
-    ch_Name "但我叫你来不是为了勾引你。不是今晚。"
+    ch_Name "但我叫你来不是为了勾引你。至少不是今晚。"
 
 # game/logic/events/Leona.rpy:1480
 translate chinese Leona_5_label_5cd76f1a:
@@ -5398,7 +5398,7 @@ translate chinese Leona_5_label_86c8377c:
 translate chinese Leona_5_label_45786a59:
 
     # ch_Name "Unfortunately, I'm not really feeling up for jokes at the moment."
-    ch_Name "不幸的是，我现在没心情讲笑话。"
+    ch_Name "很遗憾，我现在没心情讲笑话。"
 
 # game/logic/events/Leona.rpy:1487
 translate chinese Leona_5_label_4bfd16e0:
@@ -5434,13 +5434,13 @@ translate chinese Leona_5_label_e195ab66:
 translate chinese Leona_5_label_eddadb2a:
 
     # ch_Name "And now I know it was sent after me on purpose."
-    ch_Name "现在我知道它是故意来追杀我的。"
+    ch_Name "现在我知道这是某人有意为之。"
 
 # game/logic/events/Leona.rpy:1495
 translate chinese Leona_5_label_ba62c973:
 
     # Samantha "What do you mean?"
-    Samantha "你是什么意思？"
+    Samantha "什么意思？"
 
 # game/logic/events/Leona.rpy:1496
 translate chinese Leona_5_label_81b737b9:
@@ -5452,7 +5452,7 @@ translate chinese Leona_5_label_81b737b9:
 translate chinese Leona_5_label_67609b77:
 
     # ch_Name "He says he's been testing me. And he wants to meet me."
-    ch_Name "他说他在考验我。他想见我。"
+    ch_Name "他说他在考验我，还想见我。"
 
 # game/logic/events/Leona.rpy:1499
 translate chinese Leona_5_label_54cfa09b:
@@ -5476,13 +5476,13 @@ translate chinese Leona_5_label_68f773a3:
 translate chinese Leona_5_label_c733a346:
 
     # ch_Name "I don't know. I'm confused..."
-    ch_Name "我不知道。我很迷..."
+    ch_Name "我不知道。我很迷茫..."
 
 # game/logic/events/Leona.rpy:1504
 translate chinese Leona_5_label_1ea814ca:
 
     # Samantha "Well, well, well. Come here."
-    Samantha "好,好,好。到这里来。"
+    Samantha "好吧，你过来。"
 
 # game/logic/events/Leona.rpy:1505
 translate chinese Leona_5_label_361cee48:
@@ -5500,13 +5500,13 @@ translate chinese Leona_5_label_29c32f7d:
 translate chinese Leona_5_label_d09eec46:
 
     # ch_Name "The letter says he knew my parents. My real parents."
-    ch_Name "信上说他认识我父母。我真正的父母。"
+    ch_Name "信上说他认识我父母。我的亲生父母。"
 
 # game/logic/events/Leona.rpy:1508
 translate chinese Leona_5_label_8f0b549e:
 
     # Samantha "Wow! But do you really believe it all?"
-    Samantha "哇！但你真的相信这一切吗？"
+    Samantha "哇！但你真的相信吗？"
 
 # game/logic/events/Leona.rpy:1510
 translate chinese Leona_5_label_92533f1d:
@@ -5524,13 +5524,13 @@ translate chinese Leona_5_label_d891c1a1:
 translate chinese Leona_5_label_5af4bf24:
 
     # ch_Name "I have to go. I've made up my mind."
-    ch_Name "我得走了。我已经决定了。"
+    ch_Name "我必须去。我已经决定了。"
 
 # game/logic/events/Leona.rpy:1513
 translate chinese Leona_5_label_217682ad:
 
     # Samantha "Then I'll support you. I'm sure you'll make it, no matter what's waiting out there..."
-    Samantha "那我就支持你。我相信你会成功的，不管外面有什么等待着你..."
+    Samantha "那我就支持你。我相信你会成功的，不管等待你的是什么..."
 
 # game/logic/events/Leona.rpy:1515
 translate chinese Leona_5_label_09258ff7:
@@ -5662,13 +5662,13 @@ translate chinese Leona_5_label_from_gallery_67b74165:
 translate chinese Leona_5_label_from_gallery_4c98d3a6:
 
     # ch_Name "{i}(I don't think she does.){/i}"
-    ch_Name "{i}(我不认为她知道。){/i}"
+    ch_Name "{i}(我觉得她对此一无所知。){/i}"
 
 # game/logic/events/Leona.rpy:1555
 translate chinese Leona_5_label_from_gallery_861ffe01:
 
     # ch_Name "{i}(Is that her waving to me so cheerfully?){/i}"
-    ch_Name "{i}(是她这么高兴地向我招手吗？){/i}"
+    ch_Name "{i}(那个向我招手的女孩，还那么高兴，是她吗？){/i}"
 
 # game/logic/events/Leona.rpy:1557
 translate chinese Leona_5_label_from_gallery_fa6fec9d:
@@ -5680,19 +5680,19 @@ translate chinese Leona_5_label_from_gallery_fa6fec9d:
 translate chinese Leona_5_label_from_gallery_9dad1140:
 
     # ch_Name "{i}(Just smile and wave. Just smile and wave...){/i}"
-    ch_Name "{i}(只要微笑和挥手。只要微笑和挥手...){/i}"
+    ch_Name "{i}(只要笑着挥挥手...){/i}"
 
 # game/logic/events/Leona.rpy:1560
 translate chinese Leona_5_label_from_gallery_ea9f42f4:
 
     # ch_Name "{i}(Man, it's hard to concentrate when your head...){/i}"
-    ch_Name "{i}(天啊，当你的脑袋...){/i}"
+    ch_Name "{i}(天啊，当你的鸡儿被舔得这么熟练的时候……){/i}"
 
 # game/logic/events/Leona.rpy:1561
 translate chinese Leona_5_label_from_gallery_2937ea49:
 
     # ch_Name "{i}(...being licked so skillfully?){/i}"
-    ch_Name "{i}(...被舔得这么熟练？){/i}"
+    ch_Name "{i}(……是很难集中注意力的！){/i}"
 
 # game/logic/events/Leona.rpy:1562
 translate chinese Leona_5_label_from_gallery_24a64263:
@@ -5776,7 +5776,7 @@ translate chinese Leona_5_label_from_gallery_1e109b8f:
 translate chinese Leona_5_label_from_gallery_581ca28a:
 
     # Naomi "Ugh... Muhu."
-    Naomi "啊... 唔护。"
+    Naomi "啊... 唔呼。"
 
 # game/logic/events/Leona.rpy:1581
 translate chinese Leona_5_label_from_gallery_30f358dc:
@@ -5842,13 +5842,13 @@ translate chinese Leona_5_label_from_gallery_0ae9bcd0_4:
 translate chinese Leona_5_label_from_gallery_a672a175:
 
     # ch_Name "With an admission of guilt and an offer to meet? Would you go?"
-    ch_Name "他承认了罪行，还提出见面？你会去吗？"
+    ch_Name "他承认了这是就是他干的，还提出要见面？你会去吗？"
 
 # game/logic/events/Leona.rpy:1595
 translate chinese Leona_5_label_from_gallery_79c6cd12:
 
     # Naomi "Well, of course I would. I'd go."
-    Naomi "我当然愿意。我会去。"
+    Naomi "我当然会去。"
 
 # game/logic/events/Leona.rpy:1596
 translate chinese Leona_5_label_from_gallery_ebd5046f:
@@ -5866,7 +5866,7 @@ translate chinese Leona_5_label_from_gallery_f532c688:
 translate chinese Leona_5_label_from_gallery_8e808ec7:
 
     # Naomi "To kick his ass."
-    Naomi "揍他一顿。"
+    Naomi "然后揍他一顿。"
 
 # game/logic/events/Leona.rpy:1600
 translate chinese Leona_5_label_from_gallery_d9fb5f77:
@@ -5878,7 +5878,7 @@ translate chinese Leona_5_label_from_gallery_d9fb5f77:
 translate chinese Leona_5_label_from_gallery_d78b298f:
 
     # Naomi "Of course, you would. Nobody messes with me like that."
-    Naomi "当然，你会的。没人能这样惹我。"
+    Naomi "当然，我一定要去。没人能这样惹我。"
 
 # game/logic/events/Leona.rpy:1602
 translate chinese Leona_5_label_from_gallery_c45ad7f1:
@@ -5902,7 +5902,7 @@ translate chinese Leona_5_label_from_gallery_db99c414:
 translate chinese Leona_5_label_from_gallery_f5d884c5:
 
     # ch_Name "Is there anything I can do to thank you?"
-    ch_Name "我能做点什么来感谢你吗？"
+    ch_Name "我能做点什么来报答你吗？"
 
 # game/logic/events/Leona.rpy:1608
 translate chinese Leona_5_label_from_gallery_5b308a13:
@@ -5926,25 +5926,25 @@ translate chinese Leona_5_label_from_gallery_c9b23224:
 translate chinese Leona_5_label_from_gallery_0dafb7c7:
 
     # ch_Name "Ah! Oh yes!" with flash
-    ch_Name "啊！哦,是的！" with flash
+    ch_Name "啊！哦，好极了！" with flash
 
 # game/logic/events/Leona.rpy:1613
 translate chinese Leona_5_label_from_gallery_7bb6bb07:
 
     # ch_Name "How nice..." with flash
-    ch_Name "多好..." with flash
+    ch_Name "你真是..." with flash
 
 # game/logic/events/Leona.rpy:1614
 translate chinese Leona_5_label_from_gallery_971015c3:
 
     # ch_Name "Naomi, you're a miracle worker."
-    ch_Name "Naomi，你真是个奇迹创造者。"
+    ch_Name "Naomi，你真能创造奇迹。"
 
 # game/logic/events/Leona.rpy:1616
 translate chinese Leona_5_label_from_gallery_49b9a3ec:
 
     # Naomi "Huh. I'm not just a wizard, dummy. I'm the best wizard."
-    Naomi "嗯。我不仅仅是个巫师，笨蛋。我是最好的巫师。"
+    Naomi "嗯。我不仅仅是个巫师，笨蛋。我还是最好的巫师。"
 
 # game/logic/events/Leona.rpy:1617
 translate chinese Leona_5_label_from_gallery_58d95a42:
@@ -5974,7 +5974,7 @@ translate chinese Leona_5_label_from_gallery_06779f0b:
 translate chinese Leona_5_label_from_gallery_1b2b186d:
 
     # ch_Name "{i}(Naomi's right, I should know who's trying to play these games with me.){/i}"
-    ch_Name "{i}(Naomi说得对，我应该知道是谁想跟我玩这些游戏。){/i}"
+    ch_Name "{i}(Naomi说得对，我应该知道是谁想跟我玩这种把戏。){/i}"
 
 # game/logic/events/Leona.rpy:1629
 translate chinese Leona_5_label_from_gallery_121995b5:
@@ -5986,7 +5986,7 @@ translate chinese Leona_5_label_from_gallery_121995b5:
 translate chinese Leona_5_label_from_gallery_de19c038:
 
     # ch_Name "Thanks for taking the time to meet me, Lily."
-    ch_Name "谢谢你花时间见我，Lily。"
+    ch_Name "谢谢你抽空来见我，Lily。"
 
 # game/logic/events/Leona.rpy:1643
 translate chinese Leona_5_label_from_gallery_5699ba00:
@@ -6016,13 +6016,13 @@ translate chinese Leona_5_label_from_gallery_ce815bbd:
 translate chinese Leona_5_label_from_gallery_d28fc00e:
 
     # ch_Name "And for good reason. It was no ordinary dream."
-    ch_Name "理由很充分。这不是一个普通的梦。"
+    ch_Name "理由很简单。这不是一个普通的梦。"
 
 # game/logic/events/Leona.rpy:1649
 translate chinese Leona_5_label_from_gallery_2322c6f3:
 
     # ch_Name "Somebody put a phantom soulstealer on me. He hunts in dreams."
-    ch_Name "有人在我身上放了幽灵。他在梦中追捕我。"
+    ch_Name "有人在我身上植入了幽灵。他在梦中追杀我。"
 
 # game/logic/events/Leona.rpy:1651
 translate chinese Leona_5_label_from_gallery_df025b9c:
@@ -6064,7 +6064,7 @@ translate chinese Leona_5_label_from_gallery_ca51da66:
 translate chinese Leona_5_label_from_gallery_245f82bf:
 
     # Lily "Phantom soulstealers, they're no joke."
-    Lily "幽灵偷魂者，他们可不是开玩笑的。"
+    Lily "幽灵窃魂者，他们可不是开玩笑的。"
 
 # game/logic/events/Leona.rpy:1660
 translate chinese Leona_5_label_from_gallery_7a6755cc:
@@ -6076,7 +6076,7 @@ translate chinese Leona_5_label_from_gallery_7a6755cc:
 translate chinese Leona_5_label_from_gallery_c68fb71d:
 
     # Lily "I think you should go. I don't think it's a trap."
-    Lily "我觉得你该走了。我不认为这是个陷阱。"
+    Lily "我觉得你应该去。我不认为这是个陷阱。"
 
 # game/logic/events/Leona.rpy:1662
 translate chinese Leona_5_label_from_gallery_3d992bfd:
@@ -6136,7 +6136,7 @@ translate chinese Leona_5_label_from_gallery_261528a4:
 translate chinese Leona_5_label_from_gallery_8e036bbc:
 
     # ch_Name "{i}(No, that's nonsense.){/i}"
-    ch_Name "{i}(不,那是无稽之谈。){/i}"
+    ch_Name "{i}(不，那是无稽之谈。){/i}"
 
 # game/logic/events/Leona.rpy:1683
 translate chinese Leona_5_label_from_gallery_1361262b:
@@ -6154,19 +6154,19 @@ translate chinese Leona_5_label_from_gallery_d9cc1bcb:
 translate chinese Leona_5_label_from_gallery_871603bf:
 
     # ch_Name "Somebody set a phantom soulstealer on me. That's why I slept the whole day."
-    ch_Name "有人放了个幽灵来偷我的魂。所以我睡了一整天。"
+    ch_Name "有人植入了个幽灵来偷我的灵魂。所以我睡了一整天。"
 
 # game/logic/events/Leona.rpy:1686
 translate chinese Leona_5_label_from_gallery_e8d1b274:
 
     # Elijah "Oh, yeah? A phantom soulstealer?! It's a dangerous thing, bro."
-    Elijah "噢,是吗？一个幽灵 ？！这很危险，兄弟。"
+    Elijah "噢，是吗？一个幽灵 ？！这很危险，兄弟。"
 
 # game/logic/events/Leona.rpy:1687
 translate chinese Leona_5_label_from_gallery_a2d48967:
 
     # ch_Name "And now I got a note. They want to meet. They say they're testing me."
-    ch_Name "现在我收到了一张纸条。他们想见面。他们说这是在考验我。"
+    ch_Name "现在我收到了一张纸条。他们想见我，说这是在考验我。"
 
 # game/logic/events/Leona.rpy:1688
 translate chinese Leona_5_label_from_gallery_bc811c1b:
@@ -6238,13 +6238,13 @@ translate chinese Leona_5_label_from_gallery_ef28aa84:
 translate chinese Leona_5_label_from_gallery_0b56faaa:
 
     # Elijah "Hey, [Name]! Hold up!"
-    Elijah "嘿,[name]！举手！"
+    Elijah "嘿,[name]！等一下！"
 
 # game/logic/events/Leona.rpy:1707
 translate chinese Leona_5_label_from_gallery_7d1c4653:
 
     # Elijah "Wait, please. Don't go away."
-    Elijah "请等待。不要走开。"
+    Elijah "等一下。别走。"
 
 # game/logic/events/Leona.rpy:1709
 translate chinese Leona_5_label_from_gallery_94ac4f7c:
@@ -6256,7 +6256,7 @@ translate chinese Leona_5_label_from_gallery_94ac4f7c:
 translate chinese Leona_5_label_from_gallery_9996c226:
 
     # Elijah "What if it's something dangerous?"
-    Elijah "如果是危险的东西呢？"
+    Elijah "如果是某些危险的东西呢？"
 
 # game/logic/events/Leona.rpy:1711
 translate chinese Leona_5_label_from_gallery_e745ce63:
@@ -6370,7 +6370,7 @@ translate chinese Leona_6_label_0a0dcbf8:
 translate chinese Leona_6_label_3ade40f8:
 
     # ch_Name "{i}(Judging from the note, he's preparing me for something.){/i}"
-    ch_Name "{i}(从纸条上看，他对我有所准备。){/i}"
+    ch_Name "{i}(从纸条上看，他是有备而来。){/i}"
 
 # game/logic/events/Leona.rpy:1751
 translate chinese Leona_6_label_b639b283:
@@ -6382,13 +6382,13 @@ translate chinese Leona_6_label_b639b283:
 translate chinese Leona_6_label_b78d8ea4:
 
     # ch_Name "{i}(I understand that he wants to seem mysterious...){/i}"
-    ch_Name "{i}(我知道他想显得很神秘...){/i}"
+    ch_Name "{i}(我知道他想装得很神秘...){/i}"
 
 # game/logic/events/Leona.rpy:1753
 translate chinese Leona_6_label_ba0869be:
 
     # ch_Name "{i}(But why forget punctuality?){/i}"
-    ch_Name "{i}(但为什么要忘记守时呢？){/i}"
+    ch_Name "{i}(但怎么就忘了要守时呢？){/i}"
 
 # game/logic/events/Leona.rpy:1754
 translate chinese Leona_6_label_cf643070:
@@ -6412,13 +6412,13 @@ translate chinese Leona_6_label_e97f88ee:
 translate chinese Leona_6_label_6f386d8a:
 
     # ch_Name "{i}(Who the hell is that? What's with the outfit?){/i}"
-    ch_Name "{i}(那是谁？你穿这身衣服干什么？){/i}"
+    ch_Name "{i}(你是谁？你穿这身衣服干什么？){/i}"
 
 # game/logic/events/Leona.rpy:1759
 translate chinese Leona_6_label_15e0ec16:
 
     # ch_Name "Do you have to sneak up behind me?!"
-    ch_Name "你一定要从后面偷袭我吗？！"
+    ch_Name "你一定要从后面突然冒出来吗？！"
 
 # game/logic/events/Leona.rpy:1761
 translate chinese Leona_6_label_80ddaaae:
@@ -6430,7 +6430,7 @@ translate chinese Leona_6_label_80ddaaae:
 translate chinese Leona_6_label_07502a04:
 
     # ch_Name "So what's next. I'm here."
-    ch_Name "所以下一步是什么。我在这里。"
+    ch_Name "所以下一步做什么。我来了。"
 
 # game/logic/events/Leona.rpy:1763
 translate chinese Leona_6_label_88456b0f:
@@ -6442,7 +6442,7 @@ translate chinese Leona_6_label_88456b0f:
 translate chinese Leona_6_label_8d955900:
 
     # UnknownJacob "Not here. Follow me."
-    UnknownJacob "不是这里。跟我来。"
+    UnknownJacob "借一步说话。跟我来。"
 
 # game/logic/events/Leona.rpy:1766
 translate chinese Leona_6_label_2a85864c:
@@ -6472,13 +6472,13 @@ translate chinese Leona_6_label_20c58fdd:
 translate chinese Leona_6_label_e1280250:
 
     # ch_Name "So are you answering? With silence?"
-    ch_Name "你在回答吗？用沉默？"
+    ch_Name "这就是你的回答吗？用沉默？"
 
 # game/logic/events/Leona.rpy:1772
 translate chinese Leona_6_label_d361b4de:
 
     # UnknownJacob "Not here."
-    UnknownJacob "不是这里。"
+    UnknownJacob "这里不方便。"
 
 # game/logic/events/Leona.rpy:1773
 translate chinese Leona_6_label_795b7e3b:
