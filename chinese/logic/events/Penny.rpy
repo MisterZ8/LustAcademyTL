@@ -4,19 +4,19 @@
 translate chinese Penny_1_label_6157d860:
 
     # ch_Name "{i}(Whoa... I can't believe it!){/i}"
-    ch_Name "{i}（哇。。。我不能相信!）{/i}"
+    ch_Name "{i}（哇……简直不敢相信!）{/i}"
 
 # game/logic/events/Penny.rpy:33
 translate chinese Penny_1_label_1851147a:
 
     # ch_Name "{i}(These rumors are true after all.){/i}"
-    ch_Name "{i}（这些传言毕竟是真的。）{/i}"
+    ch_Name "{i}（这些传言竟然是真的。）{/i}"
 
 # game/logic/events/Penny.rpy:34
 translate chinese Penny_1_label_0be9a1bd:
 
     # ch_Name "{i}(But somehow... Somehow she doesn't scare me at all.){/i}"
-    ch_Name "{i}（但不知何故。。。不知何故，她根本没有让我感到害怕。）{/i}"
+    ch_Name "{i}（但不知为何……她完全没有吓到我。）{/i}"
 
 # game/logic/events/Penny.rpy:36
 translate chinese Penny_1_label_d007b8f0:
@@ -40,19 +40,19 @@ translate chinese Penny_1_label_8d320ad9:
 translate chinese Penny_1_label_054f2d9e:
 
     # UnknownPenny "I'm sorry, are you talking to... me?"
-    UnknownPenny "不好意思，你是在和。。。我"
+    UnknownPenny "不好意思，你是在和我……说话吗？"
 
 # game/logic/events/Penny.rpy:41
 translate chinese Penny_1_label_f07c136e:
 
     # ch_Name "Yes, who else?"
-    ch_Name "是的，还有谁？"
+    ch_Name "是的，不然呢？"
 
 # game/logic/events/Penny.rpy:42
 translate chinese Penny_1_label_de11dbca:
 
     # UnknownPenny "You... You can see me, for real?"
-    UnknownPenny "你。。。你能看到我，是真的吗？"
+    UnknownPenny "你……你能看到我，是真的吗？"
 
 # game/logic/events/Penny.rpy:43
 translate chinese Penny_1_label_b48b7ebd:
@@ -64,13 +64,13 @@ translate chinese Penny_1_label_b48b7ebd:
 translate chinese Penny_1_label_397f83a5:
 
     # ch_Name "I can even hear you loud and clear. Are you surprised?"
-    ch_Name "我甚至能清楚地听到你的声音。你惊讶吗？"
+    ch_Name "我甚至能清楚地听到你的声音。你很惊讶吗？"
 
 # game/logic/events/Penny.rpy:46
 translate chinese Penny_1_label_ea87c812:
 
     # UnknownPenny "Oh my God, oh my God, oh my God..."
-    UnknownPenny "哦，我的上帝，哦，我的上帝，哦，我的上帝。。。"
+    UnknownPenny "哦，我的上帝，哦，我的上帝……"
 
 # game/logic/events/Penny.rpy:47
 translate chinese Penny_1_label_183372be:
@@ -82,7 +82,7 @@ translate chinese Penny_1_label_183372be:
 translate chinese Penny_1_label_7783a0f6:
 
     # UnknownPenny "Boy, please, you have to help me... You are my last hope..."
-    UnknownPenny "孩子，请你一定要帮我。。。你是我最后的希望。。。"
+    UnknownPenny "孩子，请你一定要帮我……你是我最后的希望。。。"
 
 # game/logic/events/Penny.rpy:50
 translate chinese Penny_1_label_de6c51a7:
@@ -94,13 +94,13 @@ translate chinese Penny_1_label_de6c51a7:
 translate chinese Penny_1_label_84aa074b:
 
     # UnknownPenny "It fell out and I could do nothing ..."
-    UnknownPenny "它掉了出来，我什么也做不了。。。"
+    UnknownPenny "它掉了出来，我什么也做不了……"
 
 # game/logic/events/Penny.rpy:52
 translate chinese Penny_1_label_a5e79d25:
 
     # UnknownPenny "I'm desperate..."
-    UnknownPenny "我很绝望。。。"
+    UnknownPenny "我很绝望……"
 
 # game/logic/events/Penny.rpy:54
 translate chinese Penny_1_label_93e4f097:
@@ -112,13 +112,13 @@ translate chinese Penny_1_label_93e4f097:
 translate chinese Penny_1_label_13e61a84:
 
     # ch_Name "Wait-wait-wait."
-    ch_Name "等等-等等-等等。"
+    ch_Name "等等，等等，等等。"
 
 # game/logic/events/Penny.rpy:56
 translate chinese Penny_1_label_5753ac94:
 
     # ch_Name "Calm down and tell me everything from the beginning, okay?"
-    ch_Name "冷静下来，从头告诉我一切，好吗？"
+    ch_Name "冷静，从头告诉我发生什么事了，好吗？"
 
 # game/logic/events/Penny.rpy:57
 translate chinese Penny_1_label_c8526f13:
@@ -130,13 +130,13 @@ translate chinese Penny_1_label_c8526f13:
 translate chinese Penny_1_label_8649c0e1:
 
     # UnknownPenny "Phew... You're right, I'm sorry."
-    UnknownPenny "吁。。。你是对的，我很抱歉。"
+    UnknownPenny "吁……你说的有道理，不好意思。"
 
 # game/logic/events/Penny.rpy:60
 translate chinese Penny_1_label_3bd4544b:
 
     # UnknownPenny "My name's Penny. What's yours?"
-    UnknownPenny "我的名字叫Penny。你叫什么名字？"
+    UnknownPenny "我叫Penny。你叫什么名字？"
 
 # game/logic/events/Penny.rpy:61
 translate chinese Penny_1_label_d47b4f44:
@@ -166,7 +166,7 @@ translate chinese Penny_1_label_4e56215a:
 translate chinese Penny_1_label_2a34888c:
 
     # Penny "Listen, [Name], what I do is I travel between worlds in search of magical artifacts."
-    Penny "听着，[Name]，我的工作是在世界之间旅行，寻找神奇的文物。"
+    Penny "听着，[Name]，我的工作是在各个世界之间旅行，寻找神奇的文物。"
 
 # game/logic/events/Penny.rpy:67
 translate chinese Penny_1_label_17049e4a:
@@ -178,7 +178,7 @@ translate chinese Penny_1_label_17049e4a:
 translate chinese Penny_1_label_3ac9c08d:
 
     # ch_Name "Hm, not really."
-    ch_Name "嗯，不是真的。"
+    ch_Name "嗯，没有。"
 
 # game/logic/events/Penny.rpy:69
 translate chinese Penny_1_label_4d1668eb:
@@ -214,19 +214,19 @@ translate chinese Penny_1_label_ff3684e1:
 translate chinese Penny_1_label_7656034a:
 
     # Penny "After many days of wandering between worlds and time I finally managed to find it."
-    Penny "在世界和时间之间徘徊了许多天后，我终于设法找到了它。"
+    Penny "在各个世界之间经历了许多天的时空穿越之后，我终于设法找到了它。"
 
 # game/logic/events/Penny.rpy:77
 translate chinese Penny_1_label_bd80d305:
 
     # Penny "It was getting late, so I decided to spend the night in the forest in my tent."
-    Penny "天色渐晚，所以我决定在森林里的帐篷里过夜。"
+    Penny "天色渐晚，所以我决定在森林里的帐篷过夜。"
 
 # game/logic/events/Penny.rpy:78
 translate chinese Penny_1_label_a1b3156f:
 
     # Penny "I was about going to bed, but I wanted to hold my long-awaited find one more time."
-    Penny "我正要去睡觉，但我想再拿起一次我期待已久的发现。"
+    Penny "我正要去睡觉，但我想再看看我期待已久的发现。"
 
 # game/logic/events/Penny.rpy:79
 translate chinese Penny_1_label_71eebc2f:
@@ -244,25 +244,25 @@ translate chinese Penny_1_label_f650777e:
 translate chinese Penny_1_label_a3cb2cc3:
 
     # Penny "I opened a lid and I swear, I was floating in pure ecstasy for a minute..."
-    Penny "我打开一个盖子，我发誓，我在纯粹的狂喜中漂浮了一分钟。。。"
+    Penny "我打开一个盖子，我发誓，我在纯粹的狂喜中漂浮了一会……"
 
 # game/logic/events/Penny.rpy:84
 translate chinese Penny_1_label_36cbb5ef:
 
     # Penny "...before waves of pleasure push and pull me back into my body."
-    Penny "。。。在一波又一波的快感推拉着我回到我的身体里之前。"
+    Penny "……在一波又一波的快感推拉着我回到我的身体里之前。"
 
 # game/logic/events/Penny.rpy:86
 translate chinese Penny_1_label_15d499ad:
 
     # Penny "I didn't even notice how the jar fell out..."
-    Penny "我甚至没有注意到这个罐子是怎么掉出来的。。。"
+    Penny "我甚至没有注意到这个罐子是怎么掉出来的……"
 
 # game/logic/events/Penny.rpy:87
 translate chinese Penny_1_label_69428b31:
 
     # Penny "It seems that the fumes of Demon Oil acted as a strong sedative as I fell into a deep sleep."
-    Penny "似乎恶魔之油的烟雾起到了强烈的镇静作用，我陷入了深深的睡眠。"
+    Penny "似乎恶魔之油的烟雾起到了强烈的镇静作用，我陷入了深深的沉睡。"
 
 # game/logic/events/Penny.rpy:89
 translate chinese Penny_1_label_6d52e8e7:
@@ -280,31 +280,31 @@ translate chinese Penny_1_label_debfa670:
 translate chinese Penny_1_label_a3d0bebe:
 
     # Penny "I couldn't even find it - the connection with my body was completely lost."
-    Penny "我甚至找不到它-与我的身体的联系完全丧失。"
+    Penny "我甚至找不到它，我与自己身体的联系完全消失。"
 
 # game/logic/events/Penny.rpy:93
 translate chinese Penny_1_label_48ba3928:
 
     # Penny "I came here to the Academy. Believe me, I was screaming for a help last couples of days..."
-    Penny "我来到这里的学院。相信我，在过去的几天里，我一直在叫喊着寻求帮助。。。"
+    Penny "我来到这座学院。相信我，在过去的几天里，我一直在叫喊着寻求帮助……"
 
 # game/logic/events/Penny.rpy:94
 translate chinese Penny_1_label_2481ec3e:
 
     # Penny "...hoping to meet other astral magician, but nobody could see me."
-    Penny "。。。希望能遇到其他灵魂魔法师，但没有人能够看到我。"
+    Penny "……希望能遇到其他灵魂魔法师，但没有人能够看到我。"
 
 # game/logic/events/Penny.rpy:95
 translate chinese Penny_1_label_cc4c7025:
 
     # Penny "I almost given up and then you came along... "
-    Penny "我几乎放弃了，然后你出现了。。。"
+    Penny "我几乎都要放弃了，然后你出现了……"
 
 # game/logic/events/Penny.rpy:96
 translate chinese Penny_1_label_030bde44:
 
     # Penny "Can even you imagine how it feels like? It's so crazy!"
-    Penny "你能想象那是什么感觉吗？它是如此疯狂!"
+    Penny "你能想象那是什么感觉吗？感觉如此疯狂!"
 
 # game/logic/events/Penny.rpy:98
 translate chinese Penny_1_label_59f08cbc:
@@ -322,7 +322,7 @@ translate chinese Penny_1_label_32ecc5d1:
 translate chinese Penny_1_label_2904abd5:
 
     # ch_Name "Well, I am... I'm totally shocked."
-    ch_Name "嗯，我是。。。我完全震惊了。"
+    ch_Name "嗯，我……我完全震惊了。"
 
 # game/logic/events/Penny.rpy:101
 translate chinese Penny_1_label_b1d8b51e:
@@ -340,19 +340,19 @@ translate chinese Penny_1_label_e83f9a33:
 translate chinese Penny_1_label_d5965eb2:
 
     # Penny "Well, I have a theory..."
-    Penny "嗯，我有一个理论。。。"
+    Penny "嗯，我有一个理论……"
 
 # game/logic/events/Penny.rpy:105
 translate chinese Penny_1_label_76c75ff1:
 
     # Penny "The deeper you go through the levels of astral realm..."
-    Penny "你在灵界的层次中越走越深。。。"
+    Penny "你在灵界中越走越深……"
 
 # game/logic/events/Penny.rpy:106
 translate chinese Penny_1_label_3eb87e09:
 
     # Penny "...the greater the chance to reach the place where your physical body lies."
-    Penny "。。。到达你的肉体所在的地方的机会就越大。"
+    Penny "……到达你的肉体所在的地方的机会就越大。"
 
 # game/logic/events/Penny.rpy:107
 translate chinese Penny_1_label_e48c5ed2:
@@ -364,13 +364,13 @@ translate chinese Penny_1_label_e48c5ed2:
 translate chinese Penny_1_label_f27503bb:
 
     # ch_Name "You mean that if you immerse yourself deeper in the astral world..."
-    ch_Name "你的意思是，如果你把自己沉浸在灵界的深处。。。"
+    ch_Name "你的意思是，如果你把自己沉浸在灵界的深处……"
 
 # game/logic/events/Penny.rpy:109
 translate chinese Penny_1_label_11e4be32:
 
     # ch_Name "...then you'll have a chance to find your body?"
-    ch_Name "。。。那么你就有机会找到你的身体？"
+    ch_Name "……那么你就有机会找到你的身体？"
 
 # game/logic/events/Penny.rpy:110
 translate chinese Penny_1_label_d1ecafbc:
@@ -388,19 +388,19 @@ translate chinese Penny_1_label_c6c65c42:
 translate chinese Penny_1_label_0ae59c12:
 
     # Penny "Then I will break free of the trance and return to my body. Only if my theory is right, of course..."
-    Penny "然后我就会从反转机里出来，回到我的身体里。当然，前提是我的理论是正确的。。。"
+    Penny "然后我将挣脱这种恍惚状态，回到我的身体。当然，前提是我的理论是正确的……"
 
 # game/logic/events/Penny.rpy:114
 translate chinese Penny_1_label_c6196e96:
 
     # ch_Name "Let's call it a plan."
-    ch_Name "让我们把它称为一个计划。"
+    ch_Name "这个计划就这么说定了。"
 
 # game/logic/events/Penny.rpy:115
 translate chinese Penny_1_label_ee6ef104:
 
     # Penny "Yeah, but... I've never moved between astral levels before."
-    Penny "是的，但是。。。我以前从未在灵魂层面之间移动过。"
+    Penny "是的，但是……我以前从未在灵魂层面之间移动过。"
 
 # game/logic/events/Penny.rpy:116
 translate chinese Penny_1_label_24cedda7:
