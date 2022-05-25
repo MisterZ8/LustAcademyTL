@@ -12390,19 +12390,19 @@ translate chinese Leona_11_label_b7caf936:
 translate chinese Leona_11_label_ad6baa17:
 
     # ch_Name "What are you... You're the one who brought me."
-    ch_Name "你是什么。。。是你带我来的。"
+    ch_Name "你说什么……是你带我来的。"
 
 # game/logic/events/Leona.rpy:3237
 translate chinese Leona_11_label_887f3b5d:
 
     # Leona "I... I don't remember. We were all held captive by him, [Name]."
-    Leona "我。。。我不记得了。我们都被他囚禁了，[Name]。"
+    Leona "我……我不记得了。我们都被他囚禁了，[Name]。"
 
 # game/logic/events/Leona.rpy:3238
 translate chinese Leona_11_label_912a600d:
 
     # Leona "Perhaps a part of me connected to you cried out for help. And you heard it."
-    Leona "也许我与你相连的一部分呼唤着帮助。而你听到了它。"
+    Leona "也许是我灵魂中某个和你相连的部分在呼唤你，而你恰好听到了。"
 
 # game/logic/events/Leona.rpy:3239
 translate chinese Leona_11_label_69137166:
@@ -12420,7 +12420,7 @@ translate chinese Leona_11_label_8a4c467d:
 translate chinese Leona_11_label_3c3ce99b:
 
     # ch_Name "We need to help the others!"
-    ch_Name "我们需要帮助其他的人!"
+    ch_Name "我们还要帮其他人!"
 
 # game/logic/events/Leona.rpy:3243
 translate chinese Leona_11_label_53349383:
@@ -12432,25 +12432,25 @@ translate chinese Leona_11_label_53349383:
 translate chinese Leona_11_label_0d486320:
 
     # ch_Name "Eat it, monster!"
-    ch_Name "吃吧，怪物！"
+    ch_Name "尝尝这个，怪物！"
 
 # game/logic/events/Leona.rpy:3246
 translate chinese Leona_11_label_16c5718f:
 
     # ch_Name "You like the power of the Seal, huh?!"
-    ch_Name "你喜欢封印的力量，是吗？！"
+    ch_Name "你喜欢印章的力量，是吗？！"
 
 # game/logic/events/Leona.rpy:3247
 translate chinese Leona_11_label_6270dfbc:
 
     # ch_Name "Hey... Why doesn't that thing work for him anymore?"
-    ch_Name "嘿。。。为什么那东西对他不起作用了？"
+    ch_Name "嘿……为什么那东西对他不起作用了？"
 
 # game/logic/events/Leona.rpy:3249
 translate chinese Leona_11_label_4e7dfbcf:
 
     # ch_Name "Leona! Help me!"
-    ch_Name "Leona! 帮助我! "
+    ch_Name "Leona! 帮帮我! "
 
 # game/logic/events/Leona.rpy:3250
 translate chinese Leona_11_label_b1fc04d5:
@@ -12462,19 +12462,19 @@ translate chinese Leona_11_label_b1fc04d5:
 translate chinese Leona_11_label_0593f081:
 
     # ch_Name "The Seal doesn't work..."
-    ch_Name "封印不起作用。。。"
+    ch_Name "印章不起作用……"
 
 # game/logic/events/Leona.rpy:3253
 translate chinese Leona_11_label_c73bdef6:
 
     # Leona "It can't work."
-    Leona "这不可能成功。"
+    Leona "确实没有用。"
 
 # game/logic/events/Leona.rpy:3254
 translate chinese Leona_11_label_4cc2874a:
 
     # ch_Name "But how... Why can't it?"
-    ch_Name "但怎么。。。为什么不能？"
+    ch_Name "但怎么……为什么没用呢？"
 
 # game/logic/events/Leona.rpy:3255
 translate chinese Leona_11_label_5e5174cd:
@@ -12486,55 +12486,55 @@ translate chinese Leona_11_label_5e5174cd:
 translate chinese Leona_11_label_9ff23725:
 
     # Leona "The bonds that bind me and this Seal are stronger than any creature."
-    Leona "捆绑我和这个封印的纽带比任何生物都强。"
+    Leona "我和印章之间互相绑定的纽带比任何人都要强。"
 
 # game/logic/events/Leona.rpy:3258
 translate chinese Leona_11_label_e3dc16f8:
 
     # Leona "The souls of Katrina, Jaina and Frida are not bound to my Seal."
-    Leona "Katrina、Jaina和Frida的灵魂不受我封印的约束。"
+    Leona "Katrina、Jaina和Frida的灵魂不受我印章的约束。"
 
 # game/logic/events/Leona.rpy:3259
 translate chinese Leona_11_label_1d59d59a:
 
     # Leona "We can't help them now..."
-    Leona "我们现在不能帮助他们。。。"
+    Leona "我们现在帮不了他们……"
 
 # game/logic/events/Leona.rpy:3260
 translate chinese Leona_11_label_43d35896:
 
     # ch_Name "But we have to do something."
-    ch_Name "但我们必须做一些事情。"
+    ch_Name "但我们必须做点什么。"
 
 # game/logic/events/Leona.rpy:3261
 translate chinese Leona_11_label_959eab5d:
 
     # ch_Name "We can't abandon them."
-    ch_Name "我们不能抛弃他们。"
+    ch_Name "我们不能抛弃她们。"
 
 # game/logic/events/Leona.rpy:3263
 translate chinese Leona_11_label_9aaa10d9:
 
     # Leona "And we won't leave them."
-    Leona "而且我们不会离开他们。"
+    Leona "也不会离她们而去。"
 
 # game/logic/events/Leona.rpy:3264
 translate chinese Leona_11_label_8e60f25b:
 
     # Leona "I will stay here and keep them alive. Keep the Keeper in check."
-    Leona "我会留在这里，让他们活着。 保持Keeper处于检查状态。"
+    Leona "我会留在这里，维持她们的生命。随时把握Keeper的状况。"
 
 # game/logic/events/Leona.rpy:3265
 translate chinese Leona_11_label_37a1be6c:
 
     # Leona "And you'll go in search of their artifacts."
-    Leona "而你要去寻找他们的文物。"
+    Leona "而你要去寻找他们的神器。"
 
 # game/logic/events/Leona.rpy:3267
 translate chinese Leona_11_label_71328b74:
 
     # ch_Name "That's a great idea, but..."
-    ch_Name "这是个好主意，但是。。。"
+    ch_Name "这是个好主意，但是……"
 
 # game/logic/events/Leona.rpy:3268
 translate chinese Leona_11_label_7ebbb34e:
@@ -12546,7 +12546,7 @@ translate chinese Leona_11_label_7ebbb34e:
 translate chinese Leona_11_label_bec76127:
 
     # Leona "Arthur will help you. He must know what Jacob's stunt led to."
-    Leona "Arthur会帮助你。他一定知道Jacob的特技导致了什么。"
+    Leona "Arthur会帮你的。他一定知道Jacob的特殊能力导致了什么结果。"
 
 # game/logic/events/Leona.rpy:3271
 translate chinese Leona_11_label_70204a04:
@@ -12558,19 +12558,19 @@ translate chinese Leona_11_label_70204a04:
 translate chinese Leona_11_label_6fb56db2:
 
     # Leona "The lines between the worlds have been crossed and the lord's henchmen..."
-    Leona "世界之间的界限已经被跨越，霸主的随从。。。"
+    Leona "世界之间的界限已经被跨越，霸主的爪牙……"
 
 # game/logic/events/Leona.rpy:3273
 translate chinese Leona_11_label_3aa20974:
 
     # Leona "...will be looking for artifacts as well."
-    Leona "。。。也将寻找人工制品。"
+    Leona "……也在寻找神器。"
 
 # game/logic/events/Leona.rpy:3274
 translate chinese Leona_11_label_476b4eb6:
 
     # Leona "After all, with them, he can finish absorbing our souls."
-    Leona "毕竟，有了它们，他可以完成对我们灵魂的吸收。"
+    Leona "毕竟，有了它们，他才能完成对我们灵魂的吸收。"
 
 # game/logic/events/Leona.rpy:3275
 translate chinese Leona_11_label_a08fb250:
@@ -12612,13 +12612,13 @@ translate chinese Leona_11_label_c2f6020d:
 translate chinese Leona_11_label_e472521b:
 
     # Leona "I have to do this on my own. And I will."
-    Leona "我必须靠自己来做这件事。而且我会的。"
+    Leona "我必须靠自己来做这件事。而且我能做到。"
 
 # game/logic/events/Leona.rpy:3284
 translate chinese Leona_11_label_5df206f9:
 
     # Leona "It gives me strength to believe that you can do your job."
-    Leona "它给了我力量，让我相信你能做好你的工作。"
+    Leona "它给了我力量，让我相信你能做到。"
 
 # game/logic/events/Leona.rpy:3285
 translate chinese Leona_11_label_21dd86c5:
@@ -12630,37 +12630,37 @@ translate chinese Leona_11_label_21dd86c5:
 translate chinese Leona_11_label_8fb86c74:
 
     # Leona "Goodbye..."
-    Leona "再见。。。"
+    Leona "再见……"
 
 # game/logic/events/Leona.rpy:3288
 translate chinese Leona_11_label_9328f9c3:
 
     # ch_Name "Whoa..."
-    ch_Name "哇。。。"
+    ch_Name "哇……"
 
 # game/logic/events/Leona.rpy:3289
 translate chinese Leona_11_label_331373d2:
 
     # ch_Name "{i}(What the hell...){/i}"
-    ch_Name "{i}（搞什么鬼。。。）{/i}"
+    ch_Name "{i}（搞什么鬼……）{/i}"
 
 # game/logic/events/Leona.rpy:3290
 translate chinese Leona_11_label_c26ae946:
 
     # ch_Name "{i}(If I don't stop the Overlord, all the founders...){/i}"
-    ch_Name "{i}（如果我不阻止霸主，所有的创始人。。。）{/i}"
+    ch_Name "{i}（如果我不阻止霸主，所有的创始人……）{/i}"
 
 # game/logic/events/Leona.rpy:3291
 translate chinese Leona_11_label_2ce1a75e:
 
     # ch_Name "{i}(Die.){/i}"
-    ch_Name "{i}（死吧。）{/i}"
+    ch_Name "{i}（去死吧。）{/i}"
 
 # game/logic/events/Leona.rpy:3293
 translate chinese Leona_11_label_58ef0d59:
 
     # ch_Name "{i}(Oh, I've got a lot to do...){/i}"
-    ch_Name "{i}（哦，我有很多事情要做。。。）{/i}"
+    ch_Name "{i}（哦，我有很多事情要做……）{/i}"
 
 # game/logic/events/Leona.rpy:3294
 translate chinese Leona_11_label_769cc1ee:
@@ -12672,13 +12672,13 @@ translate chinese Leona_11_label_769cc1ee:
 translate chinese Leona_11_label_b02e5a99:
 
     # ch_Name "{i}(Time to be one.){/i}"
-    ch_Name "{i}（是时候成为一个人了。）{/i}"
+    ch_Name "{i}（是时候走上这条路了。）{/i}"
 
 translate chinese strings:
 
     # game/logic/events/Leona.rpy:2770
     old "Do not accept the drink"
-    new "不接受酒"
+    new "拒绝喝酒"
 
 # TODO: Translation updated at 2022-03-30 01:40
 
@@ -12692,7 +12692,7 @@ translate chinese Leona_10_label_e9c642dd:
 translate chinese Leona_10_label_bc30a3f0:
 
     # ch_Name "{i}(How can this be possible...){/i}"
-    ch_Name "{i}（这怎么可能呢。。。）{/i}"
+    ch_Name "{i}（这怎么可能呢……）{/i}"
 
 # game/logic/events/Leona.rpy:3090
 translate chinese Leona_10_label_8af5a543:
@@ -12704,7 +12704,7 @@ translate chinese Leona_10_label_8af5a543:
 translate chinese Leona_10_label_9d0c3150:
 
     # ch_Name "{i}(It just doesn't make sense...){/i}"
-    ch_Name "{i}（这实在是说不通。。。）{/i}"
+    ch_Name "{i}（这实在是说不通……）{/i}"
 
 # game/logic/events/Leona.rpy:3094
 translate chinese Leona_10_label_9ea228ef:
@@ -12716,7 +12716,7 @@ translate chinese Leona_10_label_9ea228ef:
 translate chinese Leona_10_label_d348d327:
 
     # ch_Name "{i}(Ugh... I can't fall asleep no matter how hard I try.){/i}"
-    ch_Name "{i}（呃。。。不管我怎么努力，我都无法入睡。）{/i}"
+    ch_Name "{i}（呃……不管我怎么努力，我都无法入睡。）{/i}"
 
 # game/logic/events/Leona.rpy:3102
 translate chinese Leona_10_label_54523e16:
@@ -12728,25 +12728,25 @@ translate chinese Leona_10_label_54523e16:
 translate chinese Leona_10_label_cabe03fd:
 
     # ch_Name "{i}(And to think that this demon raped my mother...){/i}"
-    ch_Name "{i}（想到这个恶魔强奸了我的母亲。。。）{/i}"
+    ch_Name "{i}（想到这个恶魔强奸了我的母亲……）{/i}"
 
 # game/logic/events/Leona.rpy:3104
 translate chinese Leona_10_label_8ca1b918:
 
     # ch_Name "{i}(Forget the phantom, this is the real nightmare fuel.){/i}"
-    ch_Name "{i}（忘记幻影吧，这是真正的噩梦燃料。）{/i}"
+    ch_Name "{i}（忘了幽灵吧，它才是真正的噩梦源头。）{/i}"
 
 # game/logic/events/Leona.rpy:3105
 translate chinese Leona_10_label_8f07fed5:
 
     # ch_Name "{i}(I'm not sure I'm comfortable sharing this information with anyone.){/i}"
-    ch_Name "{i}（我不确定我是否适合与任何人分享这些信息。）{/i}"
+    ch_Name "{i}（我不确定和别人分享这些信息是否合适。）{/i}"
 
 # game/logic/events/Leona.rpy:3106
 translate chinese Leona_10_label_59043c82:
 
     # ch_Name "{i}(Not even Haley or Samantha...){/i}"
-    ch_Name "{i}（甚至是Haley或Samantha。。。）{/i}"
+    ch_Name "{i}（哪怕是Haley或者Samantha呢）{/i}"
 
 # game/logic/events/Leona.rpy:3107
 translate chinese Leona_10_label_28b3fb55:
@@ -12764,7 +12764,7 @@ translate chinese Leona_11_label_48da3b43:
 translate chinese Leona_11_label_6eaf0f19:
 
     # ch_Name "{i}(I can't even think of where to start my search for artifacts.){/i}"
-    ch_Name "{i}（我甚至想不出该从哪里开始寻找文物。）{/i}"
+    ch_Name "{i}（我甚至想不出该从哪里开始寻找神器。）{/i}"
 
 # game/logic/events/Leona.rpy:3319
 translate chinese Leona_11_label_2f700175:
@@ -12806,7 +12806,7 @@ translate chinese Leona_11_label_b2b8fb63:
 translate chinese Leona_11_label_1380e5c5:
 
     # ch_Name "{i}(Come to think of it...){/i}"
-    ch_Name "{i}（来想想吧。。。）{/i}"
+    ch_Name "{i}（好好想想吧……）{/i}"
 
 # game/logic/events/Leona.rpy:3345
 translate chinese Leona_11_label_30b92980:
@@ -12830,7 +12830,7 @@ translate chinese Leona_11_label_24bc42fd:
 translate chinese Leona_11_label_201ab856:
 
     # ch_Name "{i}(How could I be so stupid? Trusting shady guy with such powerful artifact...){/i}"
-    ch_Name "{i}（我怎么会这么傻？把如此强大的神器托付给黑心的家伙。。。）{/i}"
+    ch_Name "{i}（我怎么会这么傻？把如此强大的神器托付给黑心的家伙……）{/i}"
 
 # game/logic/events/Leona.rpy:3350
 translate chinese Leona_11_label_127f03c9:
@@ -12844,25 +12844,25 @@ translate chinese Leona_11_label_127f03c9:
 translate chinese Leona_10_label_473350ff:
 
     # ch_Name "Thanks. But I don't drink"
-    ch_Name "谢谢你。我真的是。但我不喝酒。"
+    ch_Name "谢谢你。但我不喝酒。"
 
 # game/logic/events/Leona.rpy:2926
 translate chinese Leona_10_label_5e770558:
 
     # Jacob "I needed a quiet place where I could test the new spell."
-    Jacob "我需要一个安静的地方，我可以测试新的屠宰场。"
+    Jacob "我需要一个安静的地方来测试新的咒语。"
 
 # game/logic/events/Leona.rpy:2956
 translate chinese Leona_10_label_614e897c:
 
     # Jacob "Ultimate Defense..."
-    Jacob "气候防御。。。"
+    Jacob "终极防御……"
 
 # game/logic/events/Leona.rpy:2988
 translate chinese Leona_10_label_8fa8f175:
 
     # Jacob "After that... My thoughts, my memories... They weren't just mine."
-    Jacob "在那之后。。。我的思想，我的记忆。。。它们不仅仅是我的。"
+    Jacob "在那之后……我的思想，我的记忆……就不完全是我的了。"
 
 # game/logic/events/Leona.rpy:2989
 translate chinese Leona_10_label_04349fa3:
@@ -12874,13 +12874,13 @@ translate chinese Leona_10_label_04349fa3:
 translate chinese Leona_10_label_8149e2bb:
 
     # Jacob "For the first few hours, there was a struggle for control of my body."
-    Jacob "在最初的几个小时里，我的身体里有一种挣扎。"
+    Jacob "在最初的几个小时里，我的身体还抗拒这种控制。"
 
 # game/logic/events/Leona.rpy:3018
 translate chinese Leona_10_label_ca915e19:
 
     # Jacob "She realized that it wasn't the Jacob she knew..."
-    Jacob "她意识到这不是她所认识的Jacob。。。"
+    Jacob "她意识到这不是她所认识的Jacob……"
 
 # game/logic/events/Leona.rpy:3044
 translate chinese Leona_10_label_07564acf:
@@ -12892,5 +12892,5 @@ translate chinese Leona_10_label_07564acf:
 translate chinese Leona_10_label_476999f9:
 
     # Jacob "But you must understand, my mind had been suppressed by the Lord's will..."
-    Jacob "但你必须理解，我的思想已经被霸主的意志所压制。。。"
+    Jacob "但你必须明白，我的思想已经被霸主的意志所压制……"
 
