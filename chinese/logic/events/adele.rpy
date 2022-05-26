@@ -22,7 +22,7 @@ translate chinese adele_1_label_d7d11d21:
 translate chinese adele_1_label_47c177b7:
 
     # Adele "My name is Adele."
-    Adele "我的名字是 Adele."
+    Adele "我叫Adele."
 
 # game/logic/events/adele.rpy:95
 translate chinese adele_1_label_f2f91473:
@@ -40,13 +40,13 @@ translate chinese adele_1_label_934cf06d:
 translate chinese adele_1_label_8be935fe:
 
     # ch_Name "Come on, I'm just..."
-    ch_Name "来吧，我只是..."
+    ch_Name "得了吧，我只是..."
 
 # game/logic/events/adele.rpy:100
 translate chinese adele_1_label_cf46efba:
 
     # Adele "You won't regret you've stopped by."
-    Adele "你不会后悔你已经停下来了。"
+    Adele "你不会后悔你在此驻足的。"
 
 # game/logic/events/adele.rpy:101
 translate chinese adele_1_label_ac7bbadc:
@@ -76,25 +76,25 @@ translate chinese adele_1_label_ead3e140:
 translate chinese adele_1_label_839ca76d:
 
     # Adele "The least I can do is give you a tour."
-    Adele "我能做的至少就是带你参观一下。"
+    Adele "我能做的只是带你参观一下。"
 
 # game/logic/events/adele.rpy:107
 translate chinese adele_1_label_22a4b9a8:
 
     # Adele "Follow me."
-    Adele "跟着我。"
+    Adele "跟我来。"
 
 # game/logic/events/adele.rpy:109
 translate chinese adele_1_label_569442f9:
 
     # Adele "There's a great view of the place from here."
-    Adele "从这里可以看到这个地方的美景。"
+    Adele "从这里可以对我们店的美景一览无余。"
 
 # game/logic/events/adele.rpy:110
 translate chinese adele_1_label_4f864279:
 
     # Adele "You like what you see?"
-    Adele "你喜欢你所看到的？"
+    Adele "你喜欢吗？"
 
 # game/logic/events/adele.rpy:111
 translate chinese adele_1_label_0a743bf8:
@@ -124,7 +124,7 @@ translate chinese adele_1_label_6f427bfa:
 translate chinese adele_1_label_9dea4c8a:
 
     # ch_Name "{i}(I wonder if she dances, too.){/i}"
-    ch_Name "{i}(我想知道她是否也会跳舞。){/i}"
+    ch_Name "{i}(我想知道她是不是也会跳舞。){/i}"
 
 # game/logic/events/adele.rpy:118
 translate chinese adele_1_label_93cbd2c4:
@@ -136,7 +136,7 @@ translate chinese adele_1_label_93cbd2c4:
 translate chinese adele_1_label_2996e23a:
 
     # Adele "To meet these pretty girls!"
-    Adele "认识这些漂亮的女孩！"
+    Adele "去认识这些漂亮的女孩！"
 
 # game/logic/events/adele.rpy:121
 translate chinese adele_1_label_b34f9f72:
@@ -154,7 +154,7 @@ translate chinese adele_1_label_fd4aff03:
 translate chinese adele_1_label_37d05529:
 
     # Adele "But you wouldn't know it from her body."
-    Adele "但你不会从她的身体里知道。"
+    Adele "但你从她身上你一点都看不出来。"
 
 # game/logic/events/adele.rpy:125
 translate chinese adele_1_label_b7f48e9c:
@@ -10946,7 +10946,7 @@ translate chinese strings:
 translate chinese adele_1_label_6d503bca:
 
     # Adele "You won't regret you've stopped by."
-    Adele "你不会后悔你已经停下来了。"
+    Adele "你不会后悔在此驻足的。"
 
 # game/logic/events/adele.rpy:222
 translate chinese adele_1_label_ae0ea87f:
