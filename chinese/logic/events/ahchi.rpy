@@ -1461,13 +1461,13 @@ translate chinese CF_S3_label_f5afae39:
 translate chinese CF_S3_label_82fcdf8a:
 
     # Samantha "Seems I haven't changed much."
-    Samantha "看来我变化不大。"
+    Samantha "看来这几年我变化不大。"
 
 # game/logic/events/ahchi.rpy:505
 translate chinese CF_S3_label_e5aa0dd7:
 
     # Audrey "You look gorgeous here!"
-    Audrey "你在这里看起来美极了！"
+    Audrey "这里面的你看起来美极了！"
 
 # game/logic/events/ahchi.rpy:506
 translate chinese CF_S3_label_dd0be327:
@@ -1485,7 +1485,7 @@ translate chinese CF_S3_label_f77862e4:
 translate chinese CF_S3_label_d6808a47:
 
     # Samantha "Thank you, guys!"
-    Samantha "谢谢你,伙计们！"
+    Samantha "谢谢，朋友们！"
 
 # game/logic/events/ahchi.rpy:510
 translate chinese CF_S3_label_b4c8c248:
@@ -1497,13 +1497,13 @@ translate chinese CF_S3_label_b4c8c248:
 translate chinese CF_S3_label_fa1fec95:
 
     # Samantha "Oh, Dad calling."
-    Samantha "哦，我爸爸打电话了。"
+    Samantha "哦，我爸爸打电话来了。"
 
 # game/logic/events/ahchi.rpy:513
 translate chinese CF_S3_label_2c28fd39:
 
     # Samantha "I will talk to him outside."
-    Samantha "我去外面跟他说。"
+    Samantha "我去外面接电话。"
 
 # game/logic/events/ahchi.rpy:514
 translate chinese CF_S3_label_74fe46c5:
@@ -1521,7 +1521,7 @@ translate chinese CF_S3_label_f0e2b69a:
 translate chinese CF_S3_label_ddf997b6:
 
     # Audrey "I will go too."
-    Audrey "我也要去。"
+    Audrey "我也要走了。"
 
 # game/logic/events/ahchi.rpy:517
 translate chinese CF_S3_label_d993430b:
@@ -1545,13 +1545,13 @@ translate chinese CF_S3_label_bd73d1ce:
 translate chinese CF_S3_label_7ec1ec1d:
 
     # ch_Name "{i}(Sure that Olivia has a couple of them somewhere.){/i}"
-    ch_Name "{i}(Olivia 肯定有几个。){/i}"
+    ch_Name "{i}(Olivia 肯定有几张。){/i}"
 
 # game/logic/events/ahchi.rpy:522
 translate chinese CF_S3_label_65aa3967:
 
     # ch_Name "{i}(Maybe I should write her?){/i}"
-    ch_Name "{i}(也许我应该写给她？){/i}"
+    ch_Name "{i}(也许我应该发消息给她？){/i}"
 
 # game/logic/events/ahchi.rpy:536
 translate chinese CF_S4_label_4d7c1aa5:
@@ -1563,7 +1563,7 @@ translate chinese CF_S4_label_4d7c1aa5:
 translate chinese CF_S4_label_108b79ad:
 
     # Samantha "Hey! We hoped to meet you, [Name]."
-    Samantha "嘿！我们希望见到你，[Name]。"
+    Samantha "嘿！我们正想着能不能见到你呢，[Name]。"
 
 # game/logic/events/ahchi.rpy:538
 translate chinese CF_S4_label_860ca542:
@@ -1617,7 +1617,7 @@ translate chinese CF_S4_label_dd6e2ec8:
 translate chinese CF_S4_label_3fb52869:
 
     # Ahchi "Yes! Very calming."
-    Ahchi "是的！很平和的。"
+    Ahchi "有的！很平和的。"
 
 # game/logic/events/ahchi.rpy:549
 translate chinese CF_S4_label_8ee58798:
@@ -1677,7 +1677,7 @@ translate chinese CF_S4_label_9c56039c:
 translate chinese CF_S4_label_c93d9440:
 
     # Audrey "What? That's not true."
-    Audrey "什么？那不是真的。"
+    Audrey "什么？才没有呢。"
 
 # game/logic/events/ahchi.rpy:562
 translate chinese CF_S4_label_e9740d31:
@@ -1689,13 +1689,13 @@ translate chinese CF_S4_label_e9740d31:
 translate chinese CF_S4_label_26e8784c:
 
     # Audrey "And you never asked me much."
-    Audrey "你从来没问过我太多。"
+    Audrey "你从来没问过我。"
 
 # game/logic/events/ahchi.rpy:564
 translate chinese CF_S4_label_65e13a9d:
 
     # Audrey "In general, I just hate asking people cliché questions without the context."
-    Audrey "一般来说，我只是不喜欢在没有背景的情况下问别人平庸无奇的问题。"
+    Audrey "一般来说，我只是不喜欢在没有太多交集的情况下问别人平庸无奇的问题。"
 
 # game/logic/events/ahchi.rpy:565
 translate chinese CF_S4_label_4ec7db0c:
@@ -1707,7 +1707,7 @@ translate chinese CF_S4_label_4ec7db0c:
 translate chinese CF_S4_label_85e0a26c:
 
     # Audrey "And this \"tell me anything about yourself\". Disgusting!"
-    Audrey "还有这句“告诉我关于你自己的任何事情”。真恶心！"
+    Audrey "还有这句“把关于你的一切都告诉我”。真恶心！"
 
 # game/logic/events/ahchi.rpy:568
 translate chinese CF_S4_label_2b17479e:
@@ -1719,7 +1719,7 @@ translate chinese CF_S4_label_2b17479e:
 translate chinese CF_S4_label_b0b1b3b0:
 
     # ch_Name "I personally start with some basic questions about person's life which you called \"cliché\"."
-    ch_Name "我会从一些关于人的生活的基本问题开始，你称之为“平庸无奇”。"
+    ch_Name "我会从一些关于人的生活的基本问题开始，也就是被你称之为“平庸无奇”的东西。"
 
 # game/logic/events/ahchi.rpy:570
 translate chinese CF_S4_label_5e266a86:
