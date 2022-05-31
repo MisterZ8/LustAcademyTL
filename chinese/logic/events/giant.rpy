@@ -28,43 +28,43 @@ translate chinese giant_1_label_90b439bd:
 translate chinese giant_1_label_5f763497:
 
     # ch_Name "{i}(Do people here even sleep?){/i}"
-    ch_Name "{i}(这里的人在睡觉吗?){/i}"
+    ch_Name "{i}(这里的人都不用睡觉的吗？){/i}"
 
 # game/logic/events/giant.rpy:38
 translate chinese giant_1_label_59c4b5fd:
 
     # ch_Name "{i}(Oh, main street, on the other hand, is almost empty.){/i}"
-    ch_Name "{i}(另一方面，主街上几乎空无一人。){/i}"
+    ch_Name "{i}(再看看另一边，主街上几乎空无一人。){/i}"
 
 # game/logic/events/giant.rpy:39
 translate chinese giant_1_label_8a1fc90f:
 
     # ch_Name "{i}(But who is that strange creature?){/i}"
-    ch_Name "{i}(但是那个奇怪的生物是谁?){/i}"
+    ch_Name "{i}(但是那个奇怪的生物是什么？){/i}"
 
 # game/logic/events/giant.rpy:40
 translate chinese giant_1_label_781d9f29:
 
     # ch_Name "{i}(I'm almost sure he's watching my every step.){/i}"
-    ch_Name "{i}(我几乎可以肯定他在监视我的一举一动。){/i}"
+    ch_Name "{i}(我似乎可以肯定他在监视我的一举一动。){/i}"
 
 # game/logic/events/giant.rpy:43
 translate chinese giant_1_label_96867ce2:
 
     # ch_Name "{i}(The creature looks at me strangely.){/i}"
-    ch_Name "{i}(这个生物奇怪地看着我。){/i}"
+    ch_Name "{i}(这个生物诧异地看着我。){/i}"
 
 # game/logic/events/giant.rpy:44
 translate chinese giant_1_label_2051de2b:
 
     # ch_Name "{i}(It's bugging me.){/i}"
-    ch_Name "{i}(它一直在困扰着我。){/i}"
+    ch_Name "{i}(这件事困扰我很久了。){/i}"
 
 # game/logic/events/giant.rpy:45
 translate chinese giant_1_label_f525fa43:
 
     # ch_Name "{i}(I need to find out what it wants.){/i}"
-    ch_Name "{i}(我得知道它想要什么。){/i}"
+    ch_Name "{i}(我得知道它想干什么。){/i}"
 
 # game/logic/events/giant.rpy:47
 translate chinese giant_1_label_8676d769:
@@ -76,31 +76,31 @@ translate chinese giant_1_label_8676d769:
 translate chinese giant_1_label_0931de10:
 
     # ch_Name "Hey... Man... You okay?"
-    ch_Name "嘿...男人。你没事吧?"
+    ch_Name "嘿...兄弟。你没事吧？"
 
 # game/logic/events/giant.rpy:50
 translate chinese giant_1_label_1932b048:
 
     # ch_Name "{i}(I don't like this. He seems to be reaching out to me...){/i}"
-    ch_Name "{i}(我不喜欢这样。他似乎在联系我...){/i}"
+    ch_Name "{i}(我不喜欢这样。他似乎在向我求助...){/i}"
 
 # game/logic/events/giant.rpy:51
 translate chinese giant_1_label_a63c50d4:
 
     # ch_Name "{i}(I'll probably regret this...){/i}"
-    ch_Name "{i}(我可能会后悔...){/i}"
+    ch_Name "{i}(我可能会后悔要帮他...){/i}"
 
 # game/logic/events/giant.rpy:53
 translate chinese giant_1_label_0c318f89:
 
     # ch_Name "{i}(What kind of creature is this... Terrifying sight...){/i}"
-    ch_Name "{i}(这是什么生物...可怕的景象...){/i}"
+    ch_Name "{i}(这是什么生物...长得真吓人...){/i}"
 
 # game/logic/events/giant.rpy:54
 translate chinese giant_1_label_bc556efa:
 
     # ch_Name "Hey. Is there anything I can do to help?"
-    ch_Name "嘿。我能帮上什么忙吗?"
+    ch_Name "嘿。我能帮上什么忙吗？"
 
 # game/logic/events/giant.rpy:56
 translate chinese giant_1_label_3b592f2c:
@@ -112,13 +112,13 @@ translate chinese giant_1_label_3b592f2c:
 translate chinese giant_1_label_7a0e2657:
 
     # ch_Name "{i}(What the hell... Did it try to grab and eat me?){/i}"
-    ch_Name "{i}(到底...它想抓我再吃掉我吗?){/i}"
+    ch_Name "{i}(搞什么...它想抓住我然后把我吃掉吗?){/i}"
 
 # game/logic/events/giant.rpy:59
 translate chinese giant_1_label_de6a29d5:
 
     # ch_Name "I warn you, I'm a wizard!"
-    ch_Name "我警告你，我是个巫师!"
+    ch_Name "我警告你，我可是个巫师!"
 
 # game/logic/events/giant.rpy:60
 translate chinese giant_1_label_c394a369:
@@ -130,7 +130,7 @@ translate chinese giant_1_label_c394a369:
 translate chinese giant_1_label_13615c40:
 
     # Giant "Don't hurt!.. me..."
-    Giant "不要伤害！...我..."
+    Giant "不要伤害...我！"
 
 # game/logic/events/giant.rpy:63
 translate chinese giant_1_label_c11f8925:
@@ -148,7 +148,7 @@ translate chinese giant_1_label_8eb6dc9d:
 translate chinese giant_1_label_dc8b5566:
 
     # ch_Name "{i}(What the hell is going on... What is he doing?){/i}"
-    ch_Name "{i}(到底发生了什么...他在做什么?){/i}"
+    ch_Name "{i}(到底发生了什么事...他在做什么?){/i}"
 
 # game/logic/events/giant.rpy:68
 translate chinese giant_1_label_5f829599:
@@ -160,13 +160,13 @@ translate chinese giant_1_label_5f829599:
 translate chinese giant_1_label_2255db69:
 
     # ch_Name "{i}(He also looks around to make sure we're alone...){/i}"
-    ch_Name "{i}(他还四处看了看，以确保我们单独在一起。){/i}"
+    ch_Name "{i}(他还四处看了看，以确保周围没有人。){/i}"
 
 # game/logic/events/giant.rpy:71
 translate chinese giant_1_label_b4589463:
 
     # ch_Name "W... what do you want?!"
-    ch_Name "什...你想要什么?!"
+    ch_Name "你...你想干什么?!"
 
 # game/logic/events/giant.rpy:72
 translate chinese giant_1_label_f34efcbc:
@@ -184,7 +184,7 @@ translate chinese giant_1_label_7799b362:
 translate chinese giant_1_label_2fd601bc:
 
     # Giant "You're not one of them, are you?!"
-    Giant "你不是他们中的一员，对吧？！"
+    Giant "你和他们不是一伙的，对吧？！"
 
 # game/logic/events/giant.rpy:76
 translate chinese giant_1_label_2e0430d5:
@@ -208,7 +208,7 @@ translate chinese giant_1_label_71ccbe85:
 translate chinese giant_1_label_b80462a2:
 
     # Giant "But promise... help!"
-    Giant "但承诺...的帮助！"
+    Giant "但承诺...帮我！"
 
 # game/logic/events/giant.rpy:88
 translate chinese giant_1_label_41edf95c:
@@ -220,13 +220,13 @@ translate chinese giant_1_label_41edf95c:
 translate chinese giant_1_label_a9981ea3:
 
     # Giant "You're with them!"
-    Giant "你与他们！"
+    Giant "你和他们是一伙的！"
 
 # game/logic/events/giant.rpy:91
 translate chinese giant_1_label_6bc07948:
 
     # Giant "You're one of them! YOU'RE ONE OF THEM!"
-    Giant "你是他们中的一员！你是他们中的一员！"
+    Giant "都是一丘之貉！一丘之貉！"
 
 # game/logic/events/giant.rpy:93
 translate chinese giant_1_label_4871c555:
@@ -238,7 +238,7 @@ translate chinese giant_1_label_4871c555:
 translate chinese giant_1_label_008d75e2:
 
     # ch_Name "{i}(What the hell!){/i}"
-    ch_Name "{i}(到底发生了什么！){/i}"
+    ch_Name "{i}(到底什么情况！){/i}"
 
 # game/logic/events/giant.rpy:95
 translate chinese giant_1_label_6ac6b442:
@@ -256,13 +256,13 @@ translate chinese giant_1_label_bcb05f60:
 translate chinese giant_1_label_e40e7ea6:
 
     # ch_Name "That's it, I warned you!"
-    ch_Name "够了，我警告过你！"
+    ch_Name "够了，我警告过你了！"
 
 # game/logic/events/giant.rpy:100
 translate chinese giant_1_label_33b7a34b:
 
     # ch_Name "Eat this!" with hpunch
-    ch_Name "吃这个！" with hpunch
+    ch_Name "尝尝这个！" with hpunch
 
 # game/logic/events/giant.rpy:101
 translate chinese giant_1_label_b9cfb0db:
@@ -286,7 +286,7 @@ translate chinese giant_1_label_ef534a43:
 translate chinese giant_1_label_963fd335:
 
     # Giant "Leave me alone!"
-    Giant "别管我！"
+    Giant "离我远点！"
 
 # game/logic/events/giant.rpy:107
 translate chinese giant_1_label_fd29a07b:
@@ -298,7 +298,7 @@ translate chinese giant_1_label_fd29a07b:
 translate chinese giant_1_label_22c8ad77:
 
     # ch_Name "{i}(He doesn't seem to be chasing me...){/i}"
-    ch_Name "{i}(他似乎没有在追我...){/i}"
+    ch_Name "{i}(他似乎没有想要追我...){/i}"
 
 # game/logic/events/giant.rpy:110
 translate chinese giant_1_label_a2bc7378:
@@ -310,19 +310,19 @@ translate chinese giant_1_label_a2bc7378:
 translate chinese giant_1_label_e3e69c43:
 
     # ch_Name "{i}(I was lucky he was stopped by my feeble combat shell.){/i}"
-    ch_Name "{i}(我很幸运，他被我虚弱的弹壳挡住了。){/i}"
+    ch_Name "{i}(我很幸运，他被我脆弱的战斗护盾挡住了。){/i}"
 
 # game/logic/events/giant.rpy:113
 translate chinese giant_1_label_0e9a9852:
 
     # ch_Name "{i}(Damn, that was even too close...){/i}"
-    ch_Name "{i}(该死，太近了...){/i}"
+    ch_Name "{i}(该死，好险啊...){/i}"
 
 # game/logic/events/giant.rpy:114
 translate chinese giant_1_label_185a728d:
 
     # ch_Name "{i}(His paws would have easily broken my bones.){/i}"
-    ch_Name "{i}(他的爪子很容易就能打断我的骨头。){/i}"
+    ch_Name "{i}(他的爪子轻易就能打断我的骨头。){/i}"
 
 # game/logic/events/giant.rpy:115
 translate chinese giant_1_label_d746b2a1:
@@ -340,7 +340,7 @@ translate chinese giant_1_label_5205b150:
 translate chinese giant_1_label_e09d8bf5:
 
     # ch_Name "All right, all right! I'll help."
-    ch_Name "好了，好了！我会帮助。"
+    ch_Name "好了，好了！我会帮你。"
 
 # game/logic/events/giant.rpy:129
 translate chinese giant_1_label_c17b209e:
@@ -358,7 +358,7 @@ translate chinese giant_1_label_24bd4a7b:
 translate chinese giant_1_label_f5f5ed9d:
 
     # Giant "Words are hard for me. Talking..."
-    Giant "语言对我来说太难了。说话..."
+    Giant "语言对我来说太难了。要说话..."
 
 # game/logic/events/giant.rpy:133
 translate chinese giant_1_label_aab5c872:
@@ -376,7 +376,7 @@ translate chinese giant_1_label_ee22f82d:
 translate chinese giant_1_label_f06f5087:
 
     # ch_Name "Do you know Miss Spellman?"
-    ch_Name "你认识Spellman小姐吗?"
+    ch_Name "你认识Spellman小姐?"
 
 # game/logic/events/giant.rpy:137
 translate chinese giant_1_label_0e23c020:
@@ -388,19 +388,19 @@ translate chinese giant_1_label_0e23c020:
 translate chinese giant_1_label_f69ff33a:
 
     # ch_Name "I'll talk to Sabrina and try to help."
-    ch_Name "我会跟Sabrina谈谈，试着帮忙。"
+    ch_Name "我会跟Sabrina谈谈，试着帮帮你。"
 
 # game/logic/events/giant.rpy:140
 translate chinese giant_1_label_7bbf7244:
 
     # Giant "I'll be... argh... waiting!"
-    Giant "我将...啊...等等！"
+    Giant "我会...啊...等待！"
 
 # game/logic/events/giant.rpy:141
 translate chinese giant_1_label_23617545:
 
     # ch_Name "{i}(That was pretty weird...){/i}"
-    ch_Name "{i}(这很奇怪...){/i}"
+    ch_Name "{i}(这好怪异啊...){/i}"
 
 # game/logic/events/giant.rpy:143
 translate chinese giant_1_label_5d0ef032:
@@ -424,7 +424,7 @@ translate chinese Giant_2_label_3e938d2c:
 translate chinese Giant_2_label_1a458728:
 
     # ch_Name "Miss Spellman, may I address you?"
-    ch_Name "Spellman小姐，我可以打扰你吗?"
+    ch_Name "Spellman小姐，我占用你一点时间吗?"
 
 # game/logic/events/giant.rpy:162
 translate chinese Giant_2_label_91afc8d1:
@@ -442,7 +442,7 @@ translate chinese Giant_2_label_4e3f09bb:
 translate chinese Giant_2_label_f2ca5068:
 
     # ch_Name "I wasn't embarrassed."
-    ch_Name "我不尴尬。"
+    ch_Name "我不是因为尴尬才这个时候问的。"
 
 # game/logic/events/giant.rpy:165
 translate chinese Giant_2_label_f96ffb9e:
@@ -472,7 +472,7 @@ translate chinese Giant_2_label_1d20dfde:
 translate chinese Giant_2_label_c054f392:
 
     # Sabrina "A giant? You intrigue me."
-    Sabrina "一个巨人？你骗我。"
+    Sabrina "一个巨人？你的话题让我很感兴趣。"
 
 # game/logic/events/giant.rpy:171
 translate chinese Giant_2_label_5ea8eb34:
@@ -490,37 +490,37 @@ translate chinese Giant_2_label_c6d0cfa3:
 translate chinese Giant_2_label_92bf47e4:
 
     # Sabrina "You're running ahead of the course, [Name]."
-    Sabrina "你太超前了，[Name]。"
+    Sabrina "你的问题超纲了，[Name]。"
 
 # game/logic/events/giant.rpy:175
 translate chinese Giant_2_label_29c252f3:
 
     # Sabrina "You won't be studying it until the end of the school year."
-    Sabrina "直到这学年结束你才会学习它。"
+    Sabrina "直到这学年结束你才会学到这个内容。"
 
 # game/logic/events/giant.rpy:177
 translate chinese Giant_2_label_969a581a:
 
     # Sabrina "Why would you want to do that?"
-    Sabrina "你为什么要这么做?"
+    Sabrina "你为什么要这么问?"
 
 # game/logic/events/giant.rpy:178
 translate chinese Giant_2_label_b4c39f7b:
 
     # Sabrina "You haven't cursed anyone, have you?"
-    Sabrina "你没有诅咒过任何人，是吗?"
+    Sabrina "你没有诅咒过任何人，不是吗?"
 
 # game/logic/events/giant.rpy:179
 translate chinese Giant_2_label_421f7484:
 
     # ch_Name "No, that's... It's not for me."
-    ch_Name "不，那是...不适合我。"
+    ch_Name "确实，那个...药水不是给我的。"
 
 # game/logic/events/giant.rpy:180
 translate chinese Giant_2_label_7c52f3ae:
 
     # Sabrina "Who's it for?"
-    Sabrina "它是谁?"
+    Sabrina "那是给谁？"
 
 # game/logic/events/giant.rpy:181
 translate chinese Giant_2_label_22ee6288:
@@ -532,25 +532,25 @@ translate chinese Giant_2_label_22ee6288:
 translate chinese Giant_2_label_ef599765:
 
     # Sabrina "All the more interesting. Spit it out."
-    Sabrina "这就更有趣了。说出来。"
+    Sabrina "这就更有趣了。说说看。"
 
 # game/logic/events/giant.rpy:184
 translate chinese Giant_2_label_433b5c01:
 
     # ch_Name "One drawl in Dale, some ugly giant in rags came at me."
-    ch_Name "Dale一拖事，一个衣衫褴褛的丑巨人就向我扑来。"
+    ch_Name "就是在Dale的一件小事，有一个衣衫褴褛的丑巨人找到了我。"
 
 # game/logic/events/giant.rpy:185
 translate chinese Giant_2_label_839e70ec:
 
     # ch_Name "He was begging for a potion to break the curse."
-    ch_Name "他在乞求解咒药水来打破诅咒。"
+    ch_Name "他向我乞求解咒药水来解除诅咒。"
 
 # game/logic/events/giant.rpy:186
 translate chinese Giant_2_label_351719e2:
 
     # Sabrina "Um... Anything else?"
-    Sabrina "嗯...还有别的事吗?"
+    Sabrina "嗯...仅此而已吗?"
 
 # game/logic/events/giant.rpy:187
 translate chinese Giant_2_label_70206e65:
@@ -562,7 +562,7 @@ translate chinese Giant_2_label_70206e65:
 translate chinese Giant_2_label_08e0b55d:
 
     # ch_Name "Unintelligible, but I got it..."
-    ch_Name "听不懂，但我明白了..."
+    ch_Name "说得含糊不清，但我还是听懂了..."
 
 # game/logic/events/giant.rpy:190
 translate chinese Giant_2_label_a4dba615:
@@ -574,13 +574,13 @@ translate chinese Giant_2_label_a4dba615:
 translate chinese Giant_2_label_5bd55916:
 
     # Sabrina "I wonder how he knows it..."
-    Sabrina "我想知道他是怎么知道的..."
+    Sabrina "我想知道他是怎么认识你的..."
 
 # game/logic/events/giant.rpy:192
 translate chinese Giant_2_label_8fdc573d:
 
     # Sabrina "Could it be him?.. No, nonsense!"
-    Sabrina "会是他吗？不，胡说八道!"
+    Sabrina "会是他吗？不，肯定不是!"
 
 # game/logic/events/giant.rpy:193
 translate chinese Giant_2_label_2444346b:
@@ -592,19 +592,19 @@ translate chinese Giant_2_label_2444346b:
 translate chinese Giant_2_label_7acde20c:
 
     # Sabrina "We need to be sure. I'll give you the right potion."
-    Sabrina "我们需要确定。我会给你合适的药剂。"
+    Sabrina "我们需要再确认一下。我会给你合适的药剂。"
 
 # game/logic/events/giant.rpy:196
 translate chinese Giant_2_label_e2b2ff66:
 
     # ch_Name "You will?"
-    ch_Name "你会吗?"
+    ch_Name "真的吗?"
 
 # game/logic/events/giant.rpy:197
 translate chinese Giant_2_label_e26e6f8a:
 
     # Sabrina "Of course, I will. But only on the condition that you tell me everything."
-    Sabrina "当然，我会的。但前提是你要告诉我一切。"
+    Sabrina "当然，但前提是你要把一切都告诉我。"
 
 # game/logic/events/giant.rpy:198
 translate chinese Giant_2_label_a689c1e0:
@@ -622,13 +622,13 @@ translate chinese Giant_2_label_41544636:
 translate chinese Giant_2_label_846971fa:
 
     # Sabrina "Oh, of course, there it is!"
-    Sabrina "哦，当然，在那儿!"
+    Sabrina "哦，找到了！"
 
 # game/logic/events/giant.rpy:202
 translate chinese Giant_2_label_bffa0bca:
 
     # Sabrina "How could I miss it?"
-    Sabrina "我怎么能错过呢?"
+    Sabrina "我怎么能看走眼呢？"
 
 # game/logic/events/giant.rpy:204
 translate chinese Giant_2_label_6dd3d436:
@@ -658,7 +658,7 @@ translate chinese Giant_2_label_09922e76:
 translate chinese Giant_2_label_ca939a29:
 
     # ch_Name "So do I. I have to run, thank you."
-    ch_Name "我也是，我得走了，谢谢。"
+    ch_Name "希望如此，我得走了，谢谢。"
 
 # game/logic/events/giant.rpy:210
 translate chinese Giant_2_label_8deaf9fc:
@@ -700,11 +700,11 @@ translate chinese strings:
 
     # game/logic/events/giant.rpy:11
     old "0 Come closer"
-    new "0 过来"
+    new "0 走近一点"
 
     # game/logic/events/giant.rpy:11
     old "Stay away"
-    new "远离"
+    new "离远一点"
 
     # game/logic/events/giant.rpy:83
     old "Say you'll help"
@@ -720,13 +720,13 @@ translate chinese strings:
 translate chinese giant_1_label_182441d2:
 
     # ch_Name "{i}(I was lucky he was stopped by my feeble combat spell.){/i}"
-    ch_Name "{i}（我很幸运，他被我微弱的战斗法术阻止了。）{/i}"
+    ch_Name "{i}（我很幸运，他被我微弱的战斗法术挡住了。）{/i}"
 
 # game/logic/events/giant.rpy:255
 translate chinese Giant_3_label_c5b870d9:
 
     # ch_Name "{i}(I never thought Adele could be so fun and relaxed.){/i}"
-    ch_Name "{i}（我从没想过Adele会这么有趣和轻松。）{/i}"
+    ch_Name "{i}（我从没想过Adele会这么有趣和随和。）{/i}"
 
 # game/logic/events/giant.rpy:256
 translate chinese Giant_3_label_18ca5677:
@@ -744,19 +744,19 @@ translate chinese Giant_3_label_db953ea2:
 translate chinese Giant_3_label_4f33f7f4:
 
     # ch_Name "{i}(And her pole dancing... Mmm, real magic.){/i}"
-    ch_Name "{i}（还有她的钢管舞。。。嗯，真正的魔法。）{/i}"
+    ch_Name "{i}（还有她的钢管舞……嗯，这才是真正的魔法。）{/i}"
 
 # game/logic/events/giant.rpy:259
 translate chinese Giant_3_label_687dcfcb:
 
     # ch_Name "{i}(Imagine what she can do in the VIP room.){/i}"
-    ch_Name "{i}（想象一下她在贵宾室能做什么。）{/i}"
+    ch_Name "{i}（想象一下她在VIP包厢能做什么。）{/i}"
 
 # game/logic/events/giant.rpy:260
 translate chinese Giant_3_label_0ae018b7:
 
     # ch_Name "{i}(I should ask for another date next time im in town.){/i}"
-    ch_Name "{i}（下次我在城里的时候应该再约一次。）{/i}"
+    ch_Name "{i}（下次我来城里的时候应该再约一次。）{/i}"
 
 # game/logic/events/giant.rpy:267
 translate chinese Giant_3_label_49a2b2a3:
@@ -780,7 +780,7 @@ translate chinese Giant_3_label_07a42c00:
 translate chinese Giant_3_label_e83253cb:
 
     # Giant "W... Wait! Sabrina!"
-    Giant "等。。。等等！Sabrina！"
+    Giant "等……等等！Sabrina！"
 
 # game/logic/events/giant.rpy:272
 translate chinese Giant_3_label_e6a7102b:
@@ -798,13 +798,13 @@ translate chinese Giant_3_label_d32450e5:
 translate chinese Giant_3_label_c3546d97:
 
     # ch_Name "{i}(I guess I see the resemblance...){/i}"
-    ch_Name "{i}（我想我看到了相似之处。。。）{/i}"
+    ch_Name "{i}（我想我看到了相似之处……）{/i}"
 
 # game/logic/events/giant.rpy:275
 translate chinese Giant_3_label_8e7bd467:
 
     # ch_Name "{i}(It looks like he ripped her shirt off...){/i}"
-    ch_Name "{i}（看起来他扯掉了她的衬衫。。。）{/i}"
+    ch_Name "{i}（看起来他扯掉了她的衬衫……）{/i}"
 
 # game/logic/events/giant.rpy:280
 translate chinese Giant_3_label_6038af3d:
@@ -846,7 +846,7 @@ translate chinese Giant_3_label_47a930da:
 translate chinese Giant_3_label_9966f34c:
 
     # ch_Name "Hey! Not so fast!"
-    ch_Name "嘿！不要这么快！"
+    ch_Name "嘿！别着急啊！"
 
 # game/logic/events/giant.rpy:293
 translate chinese Giant_3_label_e82fbb2c:
@@ -858,7 +858,7 @@ translate chinese Giant_3_label_e82fbb2c:
 translate chinese Giant_3_label_b28e3bb4:
 
     # Giant "SABRINA..."
-    Giant "SABRINA。。。"
+    Giant "SABRINA……"
 
 # game/logic/events/giant.rpy:295
 translate chinese Giant_3_label_5fb2c57a:
@@ -870,13 +870,13 @@ translate chinese Giant_3_label_5fb2c57a:
 translate chinese Giant_3_label_136aa293:
 
     # Giant "SHE'S GETTING AWAY! MOVE!"
-    Giant "她越来越远！动！"
+    Giant "她越走越远了！让开！"
 
 # game/logic/events/giant.rpy:298
 translate chinese Giant_3_label_057902c7:
 
     # ch_Name "I won't!"
-    ch_Name "我不会！"
+    ch_Name "不行！"
 
 # game/logic/events/giant.rpy:299
 translate chinese Giant_3_label_66115db4:
@@ -888,25 +888,25 @@ translate chinese Giant_3_label_66115db4:
 translate chinese Giant_3_label_cd2f8380:
 
     # Giant "I SAID, \"MOVE\"!"
-    Giant "我说，“移动”！"
+    Giant "我说了，“给我让开”！"
 
 # game/logic/events/giant.rpy:302
 translate chinese Giant_3_label_13ee00cb:
 
     # ch_Name "..." with vpunch
-    ch_Name "。。。" with vpunch
+    ch_Name "……" with vpunch
 
 # game/logic/events/giant.rpy:303
 translate chinese Giant_3_label_aaceba44:
 
     # ch_Name "{i}(Fuck, he tossed me to the ground as if was a toddler.){/i}"
-    ch_Name "{i}（操，他把我扔在地上，就像把我当小孩一样。）{/i}"
+    ch_Name "{i}（操，他把我像小孩一样扔在了地上。）{/i}"
 
 # game/logic/events/giant.rpy:304
 translate chinese Giant_3_label_cc3b5d61:
 
     # ch_Name "Ugh..."
-    ch_Name "啊。。。"
+    ch_Name "啊……"
 
 # game/logic/events/giant.rpy:306
 translate chinese Giant_3_label_fcfb3970:
@@ -918,7 +918,7 @@ translate chinese Giant_3_label_fcfb3970:
 translate chinese Giant_3_label_2e831b09:
 
     # ch_Name "Wait..."
-    ch_Name "等等。。。"
+    ch_Name "等等……"
 
 # game/logic/events/giant.rpy:314
 translate chinese Giant_3_label_e3330606:
@@ -930,13 +930,13 @@ translate chinese Giant_3_label_e3330606:
 translate chinese Giant_3_label_669eaada:
 
     # Giant "DIE!"
-    Giant "死的！"
+    Giant "去死！"
 
 # game/logic/events/giant.rpy:317
 translate chinese Giant_3_label_13fb7065:
 
     # ch_Name "Wait, please! "
-    ch_Name "请等等！"
+    ch_Name "等一下，求你了！"
 
 # game/logic/events/giant.rpy:318
 translate chinese Giant_3_label_57320e7e:
@@ -948,7 +948,7 @@ translate chinese Giant_3_label_57320e7e:
 translate chinese Giant_3_label_80234384:
 
     # ch_Name "I know Sabrina! I can help!"
-    ch_Name "我知道Sabrina！我可以帮助！"
+    ch_Name "我认识Sabrina！我可以帮忙！"
 
 # game/logic/events/giant.rpy:323
 translate chinese Giant_3_label_e3330606_1:
@@ -960,13 +960,13 @@ translate chinese Giant_3_label_e3330606_1:
 translate chinese Giant_3_label_669eaada_1:
 
     # Giant "DIE!"
-    Giant "死的！"
+    Giant "去死！"
 
 # game/logic/events/giant.rpy:326
 translate chinese Giant_3_label_c230c6ce:
 
     # ch_Name "I don't think so!"
-    ch_Name "我不这么认为！"
+    ch_Name "想都别想！"
 
 # game/logic/events/giant.rpy:327
 translate chinese Giant_3_label_a47041e6:
@@ -978,7 +978,7 @@ translate chinese Giant_3_label_a47041e6:
 translate chinese Giant_3_label_9ad86c52:
 
     # ch_Name "Eat this!"
-    ch_Name "吃这个！"
+    ch_Name "尝尝这个！"
 
 # game/logic/events/giant.rpy:330
 translate chinese Giant_3_label_c196f903:
@@ -990,13 +990,13 @@ translate chinese Giant_3_label_c196f903:
 translate chinese Giant_3_label_aa3c7a84:
 
     # Giant "HURTS! IT HURTS!"
-    Giant "伤害了！这很伤我的心！"
+    Giant "好痛！痛死我了！"
 
 # game/logic/events/giant.rpy:332
 translate chinese Giant_3_label_87f13241:
 
     # ch_Name "Sorry for that. I had to. Now let me help you."
-    ch_Name "对不起。我不得不。现在让我来帮你。"
+    ch_Name "对不起。不得已而为之。现在让我来帮你吧。"
 
 # game/logic/events/giant.rpy:335
 translate chinese Giant_3_label_e3330606_2:
@@ -1008,13 +1008,13 @@ translate chinese Giant_3_label_e3330606_2:
 translate chinese Giant_3_label_669eaada_2:
 
     # Giant "DIE!"
-    Giant "死的！"
+    Giant "去死！"
 
 # game/logic/events/giant.rpy:338
 translate chinese Giant_3_label_13fb7065_1:
 
     # ch_Name "Wait, please! "
-    ch_Name "请等等！"
+    ch_Name "等一下，拜托了！"
 
 # game/logic/events/giant.rpy:339
 translate chinese Giant_3_label_57320e7e_1:
@@ -1026,25 +1026,25 @@ translate chinese Giant_3_label_57320e7e_1:
 translate chinese Giant_3_label_80234384_1:
 
     # ch_Name "I know Sabrina! I can help!"
-    ch_Name "我知道Sabrina！我可以帮助！"
+    ch_Name "我认识Sabrina！我可以帮忙！"
 
 # game/logic/events/giant.rpy:343
 translate chinese Giant_3_label_3fb1038f:
 
     # Giant "HELP?"
-    Giant "帮助吗？"
+    Giant "帮我？"
 
 # game/logic/events/giant.rpy:344
 translate chinese Giant_3_label_6992712c:
 
     # Giant "..."
-    Giant "。。。"
+    Giant "……"
 
 # game/logic/events/giant.rpy:345
 translate chinese Giant_3_label_b40d5743:
 
     # Giant "Arght... Help..."
-    Giant "是。。。帮助。。。"
+    Giant "啊……帮我……"
 
 # game/logic/events/giant.rpy:346
 translate chinese Giant_3_label_535d953a:
@@ -1056,19 +1056,19 @@ translate chinese Giant_3_label_535d953a:
 translate chinese Giant_3_label_f7be860b:
 
     # Giant "Lies?"
-    Giant "谎言吗？"
+    Giant "没说谎吗？"
 
 # game/logic/events/giant.rpy:349
 translate chinese Giant_3_label_afbf9cc8:
 
     # ch_Name "Lies? What?"
-    ch_Name "谎言吗？什么？"
+    ch_Name "说谎？什么？"
 
 # game/logic/events/giant.rpy:350
 translate chinese Giant_3_label_2adf653b:
 
     # ch_Name "No. No lies. I'm telling the truth."
-    ch_Name "不。没有谎言。我说的是实话。"
+    ch_Name "不。没说谎。我说的是实话。"
 
 # game/logic/events/giant.rpy:351
 translate chinese Giant_3_label_9c85fe1a:
@@ -1080,13 +1080,13 @@ translate chinese Giant_3_label_9c85fe1a:
 translate chinese Giant_3_label_2aefa9ba:
 
     # ch_Name "Here, take this."
-    ch_Name "在这里，把这个。"
+    ch_Name "在这里，拿着这个。"
 
 # game/logic/events/giant.rpy:354
 translate chinese Giant_3_label_d9be0b7e:
 
     # Giant "Arght..."
-    Giant "是。。。"
+    Giant "啊……"
 
 # game/logic/events/giant.rpy:355
 translate chinese Giant_3_label_640f25a1:
@@ -1104,7 +1104,7 @@ translate chinese Giant_3_label_2ffa536f:
 translate chinese Giant_3_label_f05e2bbc:
 
     # Giant "S... Sabrina?"
-    Giant "S。。。Sabrina？"
+    Giant "S……Sabrina？"
 
 # game/logic/events/giant.rpy:358
 translate chinese Giant_3_label_c6aa2781:
@@ -1116,19 +1116,19 @@ translate chinese Giant_3_label_c6aa2781:
 translate chinese Giant_3_label_f7552c21:
 
     # Giant "Ugh..."
-    Giant "啊。。。"
+    Giant "啊……"
 
 # game/logic/events/giant.rpy:361
 translate chinese Giant_3_label_fa1b3085:
 
     # Giant "Yes..."
-    Giant "是的。。。"
+    Giant "是的……"
 
 # game/logic/events/giant.rpy:362
 translate chinese Giant_3_label_eba6dc00:
 
     # Giant "A potion."
-    Giant "一种药水。"
+    Giant "药水。"
 
 # game/logic/events/giant.rpy:364
 translate chinese Giant_3_label_c41b4463:
@@ -1140,25 +1140,25 @@ translate chinese Giant_3_label_c41b4463:
 translate chinese Giant_3_label_f282e664:
 
     # ch_Name "{i}(Is it working? What is he staring at?){/i}"
-    ch_Name "{i}（是工作吗?他在看什么？）{/i}"
+    ch_Name "{i}（起作用了吗?他在看什么？）{/i}"
 
 # game/logic/events/giant.rpy:366
 translate chinese Giant_3_label_6992712c_1:
 
     # Giant "..."
-    Giant "。。。"
+    Giant "……"
 
 # game/logic/events/giant.rpy:367
 translate chinese Giant_3_label_02fd30c8:
 
     # Giant "That thing..."
-    Giant "那件事。。。"
+    Giant "那家伙……"
 
 # game/logic/events/giant.rpy:369
 translate chinese Giant_3_label_2c739b57:
 
     # Giant "Is that really me?"
-    Giant "那件事。。。？"
+    Giant "那真的是我吗？"
 
 # game/logic/events/giant.rpy:370
 translate chinese Giant_3_label_9721bf14:
@@ -1170,7 +1170,7 @@ translate chinese Giant_3_label_9721bf14:
 translate chinese Giant_3_label_a06509a6:
 
     # Giant "How can it be..."
-    Giant "怎么可能。。。"
+    Giant "怎么可能……"
 
 # game/logic/events/giant.rpy:372
 translate chinese Giant_3_label_708076b7:
@@ -1182,7 +1182,7 @@ translate chinese Giant_3_label_708076b7:
 translate chinese Giant_3_label_b71086f5:
 
     # ch_Name "{i}(Looks like it worked. His mind is clear now. But he's still a monster...){/i}"
-    ch_Name "{i}（看起来奏效了。他现在头脑清醒了。但他还是个怪物。。。）{/i}"
+    ch_Name "{i}（看起来奏效了。他现在头脑清醒了。但他还是个怪物……）{/i}"
 
 # game/logic/events/giant.rpy:375
 translate chinese Giant_3_label_8c038d53:
@@ -1194,43 +1194,43 @@ translate chinese Giant_3_label_8c038d53:
 translate chinese Giant_3_label_e3555362:
 
     # ch_Name "Me? Nevermind."
-    ch_Name "我吗？别介意。"
+    ch_Name "我吗？别客气。"
 
 # game/logic/events/giant.rpy:377
 translate chinese Giant_3_label_4c228611:
 
     # Giant "You saved me. You saved my mind."
-    Giant "你救了我。你拯救了我的思想。"
+    Giant "你救了我。你让我恢复了理智。"
 
 # game/logic/events/giant.rpy:378
 translate chinese Giant_3_label_4a5674fd:
 
     # Giant "And you've stopped me from doing things I'd regret my whole life."
-    Giant "你阻止了我做一些让我后悔一辈子的事。"
+    Giant "你阻止了我，避免我做出一些让我后悔一辈子的事。"
 
 # game/logic/events/giant.rpy:379
 translate chinese Giant_3_label_94c6fbfd:
 
     # ch_Name "No problem. Anyone would do the same."
-    ch_Name "没有问题。任何人都会这么做的。"
+    ch_Name "没事。是个人都会这么做的。"
 
 # game/logic/events/giant.rpy:381
 translate chinese Giant_3_label_c7ae81e1:
 
     # Giant "Brave and humble. You must be from Leonheart."
-    Giant "勇敢和谦逊。你一定是Leonheart人。"
+    Giant "勇敢且谦逊。你一定是来自Leonheart。"
 
 # game/logic/events/giant.rpy:382
 translate chinese Giant_3_label_f476fb37:
 
     # ch_Name "{i}(He knows about houses and knew Sabrina. Strange.){/i}"
-    ch_Name "{i}（他知道房子的事，也认识Sabrina。奇怪。）{/i}"
+    ch_Name "{i}（他知道学院的事，也认识Sabrina。真奇怪。）{/i}"
 
 # game/logic/events/giant.rpy:383
 translate chinese Giant_3_label_9aae3aab:
 
     # ch_Name "What happened to you?"
-    ch_Name "你怎么了？"
+    ch_Name "你的身体怎么了？"
 
 # game/logic/events/giant.rpy:384
 translate chinese Giant_3_label_c5bc2711:
@@ -1248,13 +1248,13 @@ translate chinese Giant_3_label_5b109d91:
 translate chinese Giant_3_label_0246e4b6:
 
     # Giant "And for now..."
-    Giant "现在。。。"
+    Giant "至于现在……"
 
 # game/logic/events/giant.rpy:387
 translate chinese Giant_3_label_a431f4c8:
 
     # Giant "Tell Sabrina that Harvey thanks her for saving his life once again."
-    Giant "告诉Sabrina，Harvey又一次感谢她救了他的命。"
+    Giant "告诉Sabrina，Harvey再一次感谢她救了他的命。"
 
 # game/logic/events/giant.rpy:388
 translate chinese Giant_3_label_7bb14ae0:
@@ -1266,7 +1266,7 @@ translate chinese Giant_3_label_7bb14ae0:
 translate chinese Giant_3_label_b7d71cbe:
 
     # ch_Name "{i}(Phew, what a night...){/i}"
-    ch_Name "{i}（唷，多么美好的一夜。。。）{/i}"
+    ch_Name "{i}（唷，多么美好的一夜……）{/i}"
 
 # game/logic/events/giant.rpy:398
 translate chinese Giant_3_label_9f6f7b43:
@@ -1278,7 +1278,7 @@ translate chinese Giant_3_label_9f6f7b43:
 translate chinese Giant_3_label_f3657428:
 
     # ch_Name "{i}(That monster... Harvey... I wonder what happened to him?){/i}"
-    ch_Name "{i}（怪物。。。Harvey。。。我想知道他发生了什么事？）{/i}"
+    ch_Name "{i}（怪物……Harvey……我想知道他到底发生了什么事？）{/i}"
 
 # game/logic/events/giant.rpy:401
 translate chinese Giant_3_label_6568bf3e:
@@ -1302,13 +1302,13 @@ translate chinese Giant_3_label_1bbf1277:
 translate chinese Giant_3_label_7d6e9386:
 
     # ch_Name "{i}(I'm exhausted...){/i}"
-    ch_Name "{i}（我累坏了。。。）{/i}"
+    ch_Name "{i}（我累坏了……）{/i}"
 
 # game/logic/events/giant.rpy:417
 translate chinese Giant_3_label_4e6a3c94:
 
     # ch_Name "{i}(Oh yes, it was good to sleep...){/i}"
-    ch_Name "{i}（哦，是的，睡一觉真好。。。）{/i}"
+    ch_Name "{i}（哦，是的，睡一觉真好……）{/i}"
 
 # game/logic/events/giant.rpy:418
 translate chinese Giant_3_label_40f280af:
@@ -1344,7 +1344,7 @@ translate chinese Giant_3_label_8a237802:
 translate chinese Giant_3_label_41ccf192:
 
     # ch_Name "I slept great. I'm full of energy and spirit."
-    ch_Name "我睡得很好。我充满了活力和精神。"
+    ch_Name "我睡得很好。我现在活力充沛。"
 
 # game/logic/events/giant.rpy:433
 translate chinese Giant_3_label_023f88fe:
@@ -1392,7 +1392,7 @@ translate chinese Giant_3_label_41000686:
 translate chinese Giant_3_label_607719cd:
 
     # ch_Name "{i}(Lily also decided to start her day with coffee at Ahchi's.){/i}"
-    ch_Name "{i}（Lily还决定在Ahchi的咖啡馆喝咖啡开始她的一天。）{/i}"
+    ch_Name "{i}（Lily也决定在Ahchi的咖啡馆，以一杯咖啡来开始她新的一天。）{/i}"
 
 # game/logic/events/giant.rpy:448
 translate chinese Giant_3_label_ac0070ce:
@@ -1408,7 +1408,7 @@ translate chinese strings:
 
     # game/logic/events/giant.rpy:276
     old "Ignore the boobs"
-    new "忽略胸部"
+    new "无视胸部"
 
     # game/logic/events/giant.rpy:310
     old "Talk him out"
