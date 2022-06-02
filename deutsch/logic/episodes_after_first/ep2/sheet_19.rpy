@@ -16,7 +16,7 @@ translate deutsch sheet_19_5e301744:
 translate deutsch sheet_19_b411353a:
 
     # UnknownJacob "Gather around, so you can all hear me!"
-    UnknownJacob "Sammelt euch um mich, damit ihr mich alle hören könnt!"
+    UnknownJacob "Sammelt Euch um mich, damit Ihr mich alle hören könnt!"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:16
 translate deutsch sheet_19_142f896f:
@@ -58,13 +58,13 @@ translate deutsch sheet_19_7a01eddb:
 translate deutsch sheet_19_7eb50257:
 
     # ch_Name "{i}(I bet it's gorgeous.){/i}"
-    ch_Name "{i}(Ich wette, sie ist Hinreißend.){/i}"
+    ch_Name "{i}(Ich wette, sie ist hinreißend.){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:30
 translate deutsch sheet_19_9c3c1527:
 
     # UnknownJacob "Soon you'll prove yourself worthy to stay..."
-    UnknownJacob "Bald werdet ihr euch als würdig erweisen zu bleiben..."
+    UnknownJacob "Bald werdet Ihr Euch als würdig erweisen zu bleiben..."
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:32
 translate deutsch sheet_19_04538919:
@@ -88,13 +88,13 @@ translate deutsch sheet_19_0c80d2cb:
 translate deutsch sheet_19_ce4ca856:
 
     # Jacob "I was assigned to meet the freshmen and take them to the exam location."
-    Jacob "Ich wurde beauftragt, die Erstsemester abzuholen und sie zum Prüfungsort zu bringen."
+    Jacob "Ich wurde beauftragt, das Erstsemester abzuholen und sie zum Prüfungsort zu bringen."
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:40
 translate deutsch sheet_19_2dd89bc3:
 
     # Jacob "I'm sure you have a lot of questions..."
-    Jacob "Ich bin mir sicher, ihr habt viele Fragen..."
+    Jacob "Ich bin mir sicher, Ihr habt viele Fragen..."
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:42
 translate deutsch sheet_19_92d7c394:
@@ -208,7 +208,7 @@ translate deutsch sheet_19_df9cc034:
 translate deutsch sheet_19_2f18b7c3:
 
     # Jacob "You'll have a better chance to survive if you learn from the best."
-    Jacob "Du hast bessere Überlebenschancen, wenn du von den Besten lernst."
+    Jacob "Man hat bessere Überlebenschancen, wenn man von den Besten lernt."
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:91
 translate deutsch sheet_19_cfa2cac9:
@@ -292,7 +292,7 @@ translate deutsch sheet_19_7450b9e6:
 translate deutsch sheet_19_20ffc234:
 
     # Jacob "What is your name, young man?"
-    Jacob "Wie lautet dein Name, junger Mann?"
+    Jacob "Wie lautet Dein Name, junger Mann?"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:122
 translate deutsch sheet_19_eccdf630:
@@ -310,13 +310,13 @@ translate deutsch sheet_19_453b3226:
 translate deutsch sheet_19_4e008960:
 
     # Jacob "If you got an invitation, that means you're a wizard, [Name]."
-    Jacob "Wenn du eine Einladung bekommen hast, bedeutet das, dass du ein Zauberer bist, [Name]."
+    Jacob "Wenn Du eine Einladung bekommen hast, bedeutet das, dass Du ein Zauberer bist, [Name]."
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:128
 translate deutsch sheet_19_5925f563:
 
     # ch_Name "It's still to much to fit in my head. I know you say that..."
-    ch_Name "Das bekomme ich immer noch nicht in den Kopf. Ich weiß, dass sie das sagen..."
+    ch_Name "Das bekomme ich immer noch nicht in den Kopf. Ich weiß, dass Sie das sagen..."
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:130
 translate deutsch sheet_19_2c6f27e9:
@@ -328,7 +328,7 @@ translate deutsch sheet_19_2c6f27e9:
 translate deutsch sheet_19_2e0ca786:
 
     # Jacob "Well, \"just [Name]\" — you are a wizard!"
-    Jacob "Nun, \"nur [Name]\" — du bist ein Zauberer!"
+    Jacob "Nun, \"nur [Name]\" — Du bist ein Zauberer!"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:134
 translate deutsch sheet_19_df59ad17:
