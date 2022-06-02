@@ -28,7 +28,7 @@ translate deutsch sheet_29_103d1121:
 translate deutsch sheet_29_f1735f91:
 
     # Victoria "You have completed the ritual, mister [Surname]."
-    Victoria "Sie haben das Ritual vollendet, Herr [Surname]."
+    Victoria "Sie haben das Ritual vollendet, Mister [Surname]."
 
 # game/logic/episodes_after_first/ep2/sheet_29.rpy:15
 translate deutsch sheet_29_fdbaa01d:
