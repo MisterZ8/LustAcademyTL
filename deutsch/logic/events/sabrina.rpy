@@ -16,7 +16,7 @@ translate deutsch Sabrina_1_label_603a49d2:
 translate deutsch Sabrina_1_label_50497ffe:
 
     # Sabrina "My name is Miss Sabrina Spellman."
-    Sabrina "Mein Name ist Sabrina Spellman."
+    Sabrina "Mein Name ist Miss Sabrina Spellman."
 
 # game/logic/events/sabrina.rpy:136
 translate deutsch Sabrina_1_label_40be17e2:
