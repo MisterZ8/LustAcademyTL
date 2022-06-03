@@ -4,7 +4,7 @@
 translate deutsch sheet_23_56f31de7:
 
     # ch_Name "Good day, miss.{w} [Name] [Surname]."
-    ch_Name "Guten Tag. Frau {w} [Name] [Surname]."
+    ch_Name "Guten Tag, Miss {w} [Name] [Surname]."
 
 # game/logic/episodes_after_first/ep2/sheet_23.rpy:8
 translate deutsch sheet_23_95435110:
@@ -46,7 +46,7 @@ translate deutsch sheet_23_62414f37:
 translate deutsch sheet_23_753fc12e:
 
     # Victoria "I'll assume that's just your stress talking, Mister [Surname]. "
-    Victoria "Ich nehme an, das ist nur Ihr Stress, Herr [Surname]. "
+    Victoria "Ich nehme an, das ist nur Ihr Stress, Mister [Surname]. "
 
 # game/logic/episodes_after_first/ep2/sheet_23.rpy:28
 translate deutsch sheet_23_fdbf5b57:
