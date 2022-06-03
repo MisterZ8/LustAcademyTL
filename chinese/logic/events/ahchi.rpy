@@ -1725,7 +1725,7 @@ translate chinese CF_S4_label_b0b1b3b0:
 translate chinese CF_S4_label_5e266a86:
 
     # ch_Name "It helps to form mental image of other person and get used to each other."
-    ch_Name "它有助于形成他人的心理形象，并相互习惯。"
+    ch_Name "这种方式有助于构建一个人的心理印象，并彼此熟悉。"
 
 # game/logic/events/ahchi.rpy:571
 translate chinese CF_S4_label_3b966a4c:
@@ -1737,7 +1737,7 @@ translate chinese CF_S4_label_3b966a4c:
 translate chinese CF_S4_label_7f134599:
 
     # Audrey "The dialogue will go in natural way."
-    Audrey "对话将以自然的方式进行。"
+    Audrey "对话将会以自然的方式进行。"
 
 # game/logic/events/ahchi.rpy:574
 translate chinese CF_S4_label_8f6ca75e:
@@ -1761,13 +1761,13 @@ translate chinese CF_S4_label_2631c1b5:
 translate chinese CF_S4_label_fa1c88de:
 
     # ch_Name "And you can be friends not only with your soulmates."
-    ch_Name "你们不仅可以成为灵魂伴侣的朋友。"
+    ch_Name "你们可以成为朋友，而不仅仅是什么灵魂伴侣。"
 
 # game/logic/events/ahchi.rpy:579
 translate chinese CF_S4_label_f8fe9b03:
 
     # ch_Name "Friendship can be different."
-    ch_Name "友谊可以是不同的。"
+    ch_Name "不同的友谊也是不同的。"
 
 # game/logic/events/ahchi.rpy:580
 translate chinese CF_S4_label_703a916c:
@@ -1779,7 +1779,7 @@ translate chinese CF_S4_label_703a916c:
 translate chinese CF_S4_label_daa7f19b:
 
     # Audrey "In other case it's just hanging out."
-    Audrey "在其他情况下，它只是挂在外面。"
+    Audrey "在其他情况下，所谓“朋友”都只是虚有其表。"
 
 # game/logic/events/ahchi.rpy:582
 translate chinese CF_S4_label_2fd4427a:
@@ -1791,7 +1791,7 @@ translate chinese CF_S4_label_2fd4427a:
 translate chinese CF_S4_label_ad5e230d:
 
     # ch_Name "Let's ask you one of such \"cliché\" question."
-    ch_Name "让我们问你一个这样的“平庸无奇”问题吧。"
+    ch_Name "我问你一个“平庸无奇”问题吧。"
 
 # game/logic/events/ahchi.rpy:585
 translate chinese CF_S4_label_7d534b4e:
@@ -1803,13 +1803,13 @@ translate chinese CF_S4_label_7d534b4e:
 translate chinese CF_S4_label_0d44aa30:
 
     # Audrey "I've never had a dream like this."
-    Audrey "我从没做过这样的梦。"
+    Audrey "我从没想过这种问题。"
 
 # game/logic/events/ahchi.rpy:587
 translate chinese CF_S4_label_de0b98ad:
 
     # Audrey "In childhood I've never saw myself as a grown-up."
-    Audrey "童年时，我从未想象过自己长大了。"
+    Audrey "童年时，我从未想象过自己长大以后是什么样子。"
 
 # game/logic/events/ahchi.rpy:589
 translate chinese CF_S4_label_8b5832ac:
@@ -1833,13 +1833,13 @@ translate chinese CF_S4_label_3b92c110:
 translate chinese CF_S4_label_726e2e08:
 
     # Audrey "Tell me that you had a big dream when you was a kid!"
-    Audrey "告诉我，当你还是个孩子的时候，你有一个远大的梦想！"
+    Audrey "你跟我说说，你小的时候树立了一个多么远大的理想！"
 
 # game/logic/events/ahchi.rpy:593
 translate chinese CF_S4_label_5694438d:
 
     # Samantha "Actually, I had one!"
-    Samantha "事实上，我有一个！"
+    Samantha "事实上，我还真有一个！"
 
 # game/logic/events/ahchi.rpy:595
 translate chinese CF_S4_label_75998090:
@@ -1863,7 +1863,7 @@ translate chinese CF_S4_label_f5afae39:
 translate chinese CF_S4_label_92bdfeec:
 
     # Audrey "Well, it's hard to say by looking at you."
-    Audrey "好吧，看你的样子就不知道了。"
+    Audrey "好吧，看你的样子就很难说了。"
 
 # game/logic/events/ahchi.rpy:599
 translate chinese CF_S4_label_e0c3a325:
@@ -1881,7 +1881,7 @@ translate chinese CF_S4_label_a6519057:
 translate chinese CF_S4_label_21b5d0d9:
 
     # Samantha "And I also went to the theatre workshop at school."
-    Samantha "我还去了学校的戏剧工作坊。"
+    Samantha "我还去了学校的戏剧工坊。"
 
 # game/logic/events/ahchi.rpy:603
 translate chinese CF_S4_label_00b5e4d9:
@@ -1893,7 +1893,7 @@ translate chinese CF_S4_label_00b5e4d9:
 translate chinese CF_S4_label_cc749268:
 
     # ch_Name "And what's gone wrong?"
-    ch_Name "有什么问题？"
+    ch_Name "然后呢？出什么事了？"
 
 # game/logic/events/ahchi.rpy:605
 translate chinese CF_S4_label_ba62c973:
@@ -1923,7 +1923,7 @@ translate chinese CF_S4_label_6c1b53c3:
 translate chinese CF_S4_label_cba76203:
 
     # Samantha "Couldn't forbid me to enjoy dances and do plays in the school, of course."
-    Samantha "当然，不能禁止我在学校里跳舞和表演。"
+    Samantha "当然，他们不能阻止我在学校里跳舞和参加表演。"
 
 # game/logic/events/ahchi.rpy:611
 translate chinese CF_S4_label_8cab13c4:
@@ -1935,13 +1935,13 @@ translate chinese CF_S4_label_8cab13c4:
 translate chinese CF_S4_label_51b33c10:
 
     # Samantha "Something on which I can make money."
-    Samantha "能让我赚钱的东西。"
+    Samantha "能让我赚钱的事。"
 
 # game/logic/events/ahchi.rpy:614
 translate chinese CF_S4_label_4bf8b8bc:
 
     # Samantha "Raised to the voice of reason."
-    Samantha "提高到理智的声音。"
+    Samantha "要多听听理性之声。"
 
 # game/logic/events/ahchi.rpy:615
 translate chinese CF_S4_label_db81e202:
@@ -1959,7 +1959,7 @@ translate chinese CF_S4_label_fbb0a549:
 translate chinese CF_S4_label_ce708bd5:
 
     # Samantha "I just understand that they were right."
-    Samantha "我只理解他们是对的。"
+    Samantha "我心里明白他们说得对。"
 
 # game/logic/events/ahchi.rpy:619
 translate chinese CF_S4_label_53d9c637:
@@ -1971,7 +1971,7 @@ translate chinese CF_S4_label_53d9c637:
 translate chinese CF_S4_label_4f1baf01:
 
     # Samantha "So I focused more on my academics."
-    Samantha "所以我更专注于我的学业。"
+    Samantha "所以我把更多精力放在我的学业上了。"
 
 # game/logic/events/ahchi.rpy:621
 translate chinese CF_S4_label_36600186:
@@ -1983,7 +1983,7 @@ translate chinese CF_S4_label_36600186:
 translate chinese CF_S4_label_96b06499:
 
     # Samantha "Not all dreams have to come true."
-    Samantha "不是所有的梦想都必须实现。"
+    Samantha "不是所有的梦想都能够实现的。"
 
 # game/logic/events/ahchi.rpy:623
 translate chinese CF_S4_label_2d230ba6:
@@ -1995,7 +1995,7 @@ translate chinese CF_S4_label_2d230ba6:
 translate chinese CF_S4_label_c78851c8:
 
     # Samantha "Aaaand this is where the story ends."
-    Samantha "这就是故事的结尾。"
+    Samantha "然后故事就结束了。"
 
 # game/logic/events/ahchi.rpy:626
 translate chinese CF_S4_label_48eabf46:
@@ -2007,7 +2007,7 @@ translate chinese CF_S4_label_48eabf46:
 translate chinese CF_S4_label_dd297664:
 
     # Samantha "I wouldn't say that."
-    Samantha "我可不这么说。"
+    Samantha "我倒不觉得。"
 
 # game/logic/events/ahchi.rpy:628
 translate chinese CF_S4_label_cca07e0e:
@@ -2025,7 +2025,7 @@ translate chinese CF_S4_label_fef74951:
 translate chinese CF_S4_label_6f6761ee:
 
     # Samantha "It's all for the best."
-    Samantha "这是最好的结果。"
+    Samantha "这或许是最好的结果。"
 
 # game/logic/events/ahchi.rpy:632
 translate chinese CF_S4_label_81189199:
@@ -2073,7 +2073,7 @@ translate chinese CF_S4_label_b7a6e315:
 translate chinese CF_S4_label_4281814e:
 
     # Audrey "To tell the truth I wonder what having a big dream is like."
-    Audrey "说实话，我想知道有一个大的梦想是什么样的。"
+    Audrey "说实话，我想知道有一个远大的理想的感觉是什么样的。"
 
 # game/logic/events/ahchi.rpy:642
 translate chinese CF_S4_label_446e555e:
@@ -2085,13 +2085,13 @@ translate chinese CF_S4_label_446e555e:
 translate chinese CF_S4_label_48737801:
 
     # ch_Name "This story makes me feel depressed."
-    ch_Name "这个故事让我很沮丧。"
+    ch_Name "这个故事让感觉我很沮丧。"
 
 # game/logic/events/ahchi.rpy:644
 translate chinese CF_S4_label_e8305472:
 
     # Samantha "Come on, [Name]!"
-    Samantha "加油，[Name]！"
+    Samantha "好了，[Name]！"
 
 # game/logic/events/ahchi.rpy:645
 translate chinese CF_S4_label_0e556fec:
@@ -2115,7 +2115,7 @@ translate chinese CF_S4_label_6a38d5e9:
 translate chinese CF_S4_label_92ebf60f:
 
     # ch_Name "I would rather stay."
-    ch_Name "我宁愿留下来。"
+    ch_Name "我还是坐在这里吧。"
 
 # game/logic/events/ahchi.rpy:650
 translate chinese CF_S4_label_a0bece4d:
@@ -2127,7 +2127,7 @@ translate chinese CF_S4_label_a0bece4d:
 translate chinese CF_S4_label_231bb812:
 
     # Samantha "Yep, I want to go outside."
-    Samantha "是的，我想出去。"
+    Samantha "我想出去。"
 
 # game/logic/events/ahchi.rpy:653
 translate chinese CF_S4_label_1b3de031:
@@ -2139,7 +2139,7 @@ translate chinese CF_S4_label_1b3de031:
 translate chinese CF_S4_label_2ee7995b:
 
     # ch_Name "You too!"
-    ch_Name "你也是！"
+    ch_Name "你们也是！"
 
 # game/logic/events/ahchi.rpy:655
 translate chinese CF_S4_label_0a064ba5:
@@ -2169,7 +2169,7 @@ translate chinese CF_S4_label_66754142:
 translate chinese CF_S4_label_97ef0262:
 
     # ch_Name "{i}(But it's all for the best, even if I don't know it yet.){/i}"
-    ch_Name "{i}(但这是最好的选择，即使我还不知道。){/i}"
+    ch_Name "{i}(但这是最好的选择，即使我还不确定。){/i}"
 
 # game/logic/events/ahchi.rpy:674
 translate chinese CF_S5_label_9391aacd:
@@ -2181,7 +2181,7 @@ translate chinese CF_S5_label_9391aacd:
 translate chinese CF_S5_label_c0918b05:
 
     # ch_Name "Is this seat taken?"
-    ch_Name "这个座位有人坐吗？"
+    ch_Name "这个座位有人吗？"
 
 # game/logic/events/ahchi.rpy:676
 translate chinese CF_S5_label_d92d91f8:
@@ -2193,7 +2193,7 @@ translate chinese CF_S5_label_d92d91f8:
 translate chinese CF_S5_label_da9201ef:
 
     # Audrey "You can take it if you like."
-    Audrey "如果你愿意，你可以坐在这。"
+    Audrey "如果你愿意的话，可以坐在这里。"
 
 # game/logic/events/ahchi.rpy:679
 translate chinese CF_S5_label_4fa8e71c:
@@ -2211,7 +2211,7 @@ translate chinese CF_S5_label_07c4a65c:
 translate chinese CF_S5_label_2ed4494d:
 
     # ch_Name "That's true!"
-    ch_Name "这是真的！"
+    ch_Name "确实！"
 
 # game/logic/events/ahchi.rpy:682
 translate chinese CF_S5_label_7b5cf47a:
@@ -2229,7 +2229,7 @@ translate chinese CF_S5_label_02f3f04c:
 translate chinese CF_S5_label_3ef95973:
 
     # Audrey "It's still warm."
-    Audrey "它仍然是温暖。"
+    Audrey "你喝吧，还温着呢。"
 
 # game/logic/events/ahchi.rpy:685
 translate chinese CF_S5_label_5b26624c:
@@ -2271,7 +2271,7 @@ translate chinese CF_S5_label_8d320ad9:
 translate chinese CF_S5_label_5fda0ca4:
 
     # Samantha "What?"
-    Samantha "什么？"
+    Samantha "干嘛？"
 
 # game/logic/events/ahchi.rpy:694
 translate chinese CF_S5_label_55bb41d5:
@@ -2295,7 +2295,7 @@ translate chinese CF_S5_label_ea353f18:
 translate chinese CF_S5_label_0ef7d4ae:
 
     # Audrey "I wonder what's going on in your phone."
-    Audrey "我想知道你的手机怎么了。"
+    Audrey "我想知道你在手机上看到什么了。"
 
 # game/logic/events/ahchi.rpy:699
 translate chinese CF_S5_label_1dd2b3cf:
@@ -2325,7 +2325,7 @@ translate chinese CF_S5_label_03876a46:
 translate chinese CF_S5_label_2d4e822f:
 
     # Samantha "I needed to answer."
-    Samantha "我需要回答。"
+    Samantha "我需要回复。"
 
 # game/logic/events/ahchi.rpy:705
 translate chinese CF_S5_label_44c66424:
@@ -2343,7 +2343,7 @@ translate chinese CF_S5_label_720760d2:
 translate chinese CF_S5_label_d0a42381:
 
     # Audrey "Something's happened?"
-    Audrey "发生了什么？"
+    Audrey "发生什么事了？"
 
 # game/logic/events/ahchi.rpy:709
 translate chinese CF_S5_label_160bed4c:
@@ -2385,7 +2385,7 @@ translate chinese CF_S5_label_97eb58fd:
 translate chinese CF_S5_label_d899ee0f:
 
     # Samantha "Not really."
-    Samantha "不是真的。"
+    Samantha "不是很好。"
 
 # game/logic/events/ahchi.rpy:717
 translate chinese CF_S5_label_bf359d50:
@@ -2397,7 +2397,7 @@ translate chinese CF_S5_label_bf359d50:
 translate chinese CF_S5_label_6e27942d:
 
     # Samantha "At least now."
-    Samantha "至少现在。"
+    Samantha "至少现在不好。"
 
 # game/logic/events/ahchi.rpy:719
 translate chinese CF_S5_label_c20521b8:
@@ -2433,7 +2433,7 @@ translate chinese CF_S5_label_607b496d:
 translate chinese CF_S5_label_5bb0c906:
 
     # Samantha "Became a teenage and just... went crazy."
-    Samantha "变成一个青少年，就疯了。"
+    Samantha "变成一个大姑娘，就疯了。"
 
 # game/logic/events/ahchi.rpy:727
 translate chinese CF_S5_label_e63d553d:
@@ -2505,7 +2505,7 @@ translate chinese CF_S5_label_debcafe6:
 translate chinese CF_S5_label_780e315a:
 
     # Samantha "And the most interesting part of the story is that mom and dad did just nothing!"
-    Samantha "这件事最有趣的部分是爸爸妈妈什么也没做！"
+    Samantha "这件事最有趣的地方在于爸爸妈妈什么也没做！"
 
 # game/logic/events/ahchi.rpy:741
 translate chinese CF_S5_label_e704a373:
@@ -2559,7 +2559,7 @@ translate chinese CF_S5_label_15cbb767:
 translate chinese CF_S5_label_7eddb761:
 
     # Audrey "But if you're texting with Ashley now..."
-    Audrey "但如果你现在在跟Ashley发短信"
+    Audrey "但如果你现在在跟Ashley发短信……"
 
 # game/logic/events/ahchi.rpy:752
 translate chinese CF_S5_label_5af8cb19:
@@ -2571,19 +2571,19 @@ translate chinese CF_S5_label_5af8cb19:
 translate chinese CF_S5_label_ce42519b:
 
     # Samantha "I really hope."
-    Samantha "我真的希望会的。"
+    Samantha "我真的希望如此。"
 
 # game/logic/events/ahchi.rpy:754
 translate chinese CF_S5_label_d5dd3f41:
 
     # Samantha "The very fact that she reached out to me when something went wrong!"
-    Samantha "事实就是某些事变糟了她来找我。"
+    Samantha "事实就是她捅了篓子之后就会来找我。"
 
 # game/logic/events/ahchi.rpy:755
 translate chinese CF_S5_label_86b1217f:
 
     # Samantha "Means a lot for me."
-    Samantha "对我来说意义重大。"
+    Samantha "这对我来说太重要了。"
 
 # game/logic/events/ahchi.rpy:757
 translate chinese CF_S5_label_b4c8c248:
@@ -2601,19 +2601,19 @@ translate chinese CF_S5_label_f6e66399:
 translate chinese CF_S5_label_6b94667e:
 
     # Samantha "Ashley's calling!"
-    Samantha "Ashley在打电话！"
+    Samantha "Ashley打电话来了！"
 
 # game/logic/events/ahchi.rpy:761
 translate chinese CF_S5_label_a5288758:
 
     # Samantha "I will take this one."
-    Samantha "我会接的。"
+    Samantha "我要接一下。"
 
 # game/logic/events/ahchi.rpy:762
 translate chinese CF_S5_label_4655cdf9:
 
     # Samantha "Hope you won't mind."
-    Samantha "希望你不要介意。"
+    Samantha "希望你们不要介意。"
 
 # game/logic/events/ahchi.rpy:763
 translate chinese CF_S5_label_17e25e81:
@@ -2649,7 +2649,7 @@ translate chinese CF_S5_label_4fa28c89:
 translate chinese CF_S5_label_45632ec4:
 
     # Audrey "I'm really happy that we start to hang out more."
-    Audrey "我真的很高兴我们出去玩了。"
+    Audrey "我真的很高兴我们有更多时间在一起。"
 
 # game/logic/events/ahchi.rpy:770
 translate chinese CF_S5_label_9580c855:
@@ -2667,7 +2667,7 @@ translate chinese CF_S5_label_15c61b42:
 translate chinese CF_S5_label_b9624aa3:
 
     # ch_Name "I'll take it as a compliment."
-    ch_Name "我就当这是恭维吧。"
+    ch_Name "我就当这是赞美吧。"
 
 # game/logic/events/ahchi.rpy:774
 translate chinese CF_S5_label_b4c33c46:
@@ -2703,13 +2703,13 @@ translate chinese CF_S5_label_eaac26a4:
 translate chinese CF_S5_label_20c7648a:
 
     # Audrey "Okay, I'd rather go."
-    Audrey "好吧，我宁愿去。"
+    Audrey "好吧，我该走了。"
 
 # game/logic/events/ahchi.rpy:782
 translate chinese CF_S5_label_29dec0ac:
 
     # Audrey "Will try to find Samantha."
-    Audrey "我会去找Samantha。"
+    Audrey "我要去找Samantha。"
 
 # game/logic/events/ahchi.rpy:783
 translate chinese CF_S5_label_930a228d:
@@ -2721,7 +2721,7 @@ translate chinese CF_S5_label_930a228d:
 translate chinese CF_S5_label_72881c92:
 
     # ch_Name "Actually, thank you, Audrey."
-    ch_Name "谢谢你，Audrey。"
+    ch_Name "也谢谢你，Audrey。"
 
 # game/logic/events/ahchi.rpy:785
 translate chinese CF_S5_label_20d84f11:
@@ -2739,13 +2739,13 @@ translate chinese CF_Ahchi_1_label_83609cb9:
 translate chinese CF_Ahchi_1_label_763e1d8f:
 
     # Ahchi "Good to see you again. Congratulations, on winning your house."
-    Ahchi "很高兴再次见到你。恭喜你赢得了房子。"
+    Ahchi "很高兴再次见到你。恭喜你赢得了分院比赛。"
 
 # game/logic/events/ahchi.rpy:799
 translate chinese CF_Ahchi_1_label_0ff308dc:
 
     # ch_Name "А? How do you know it won?"
-    ch_Name "A？你怎么知道赢了？"
+    ch_Name "啊？你怎么知道我赢了？"
 
 # game/logic/events/ahchi.rpy:801
 translate chinese CF_Ahchi_1_label_94522089:
