@@ -16,25 +16,25 @@ translate chinese arthur_2_d007b8f0:
 translate chinese arthur_2_9f954dd2:
 
     # Elijah "Yo, [Name]! Rise and shine!"
-    Elijah "哟,[Name]!起床早上了！"
+    Elijah "哟,[Name]！起床了！太阳晒屁股了！"
 
 # game/logic/events/arthur_2.rpy:47
 translate chinese arthur_2_e990ff8f:
 
     # ch_Name "What the hell, Isn't it too early?"
-    ch_Name "管他呢，现在不是太早了吗?"
+    ch_Name "搞什么鬼？现在还早着呢！"
 
 # game/logic/events/arthur_2.rpy:48
 translate chinese arthur_2_2485cfe9:
 
     # Elijah "If you don't want to miss the principal's speech, it's not."
-    Elijah "大便。我马上就到大厅。"
+    Elijah "如果你不想错过校长的演讲的话，就赶紧起来，。"
 
 # game/logic/events/arthur_2.rpy:50
 translate chinese arthur_2_9257a1f9:
 
     # ch_Name "Shit. I'll be in the hall in a minute."
-    ch_Name "大便。我马上就到大厅。"
+    ch_Name "操，我马上就到大厅。"
 
 # game/logic/events/arthur_2.rpy:51
 translate chinese arthur_2_c78a1ce3:
@@ -46,19 +46,19 @@ translate chinese arthur_2_c78a1ce3:
 translate chinese arthur_2_36d985d4:
 
     # Arthur "Greetings, students!"
-    Arthur "问候,学生!"
+    Arthur "大家好，同学们！"
 
 # game/logic/events/arthur_2.rpy:56
 translate chinese arthur_2_310b1595:
 
     # Arthur "I'm sure you're wondering why I've gathered you all here today!"
-    Arthur "我相信你们一定很好奇我今天为什么把你们都叫来!"
+    Arthur "我相信你们一定很好奇我今天为什么把你们都叫来！"
 
 # game/logic/events/arthur_2.rpy:58
 translate chinese arthur_2_c7b1aca6:
 
     # Arthur "Every Saturday morning, we summarise the results of our traditional house tournament."
-    Arthur "每周六早上，我们都会总结传统的室内锦标赛的结果。"
+    Arthur "每周六早上，我们都会按照传统，总结分院比赛的结果。"
 
 # game/logic/events/arthur_2.rpy:59
 translate chinese arthur_2_6dfcc04f:
@@ -112,25 +112,25 @@ translate chinese arthur_2_4d54c055:
 translate chinese arthur_2_1f8bb2b6:
 
     # ch_Name "Yahoo! We won!"
-    ch_Name "雅虎我们赢了!"
+    ch_Name "呀呼！我们赢了!"
 
 # game/logic/events/arthur_2.rpy:81
 translate chinese arthur_2_9e7c23b9:
 
     # Elijah "Great job, everyone!"
-    Elijah "大家好!"
+    Elijah "干得漂亮，同学们！"
 
 # game/logic/events/arthur_2.rpy:83
 translate chinese arthur_2_1c5cb8cc:
 
     # Arthur "Congratulations to Leonheart! The path to Dale is now open to you."
-    Arthur "祝贺Leonheart !通往Dale的路现在向你敞开了。"
+    Arthur "祝贺Leonheart！通往Dale的路现在向你敞开了。"
 
 # game/logic/events/arthur_2.rpy:84
 translate chinese arthur_2_bee80711:
 
     # Arthur "Each student from the winning house receives $50 allowance you can spend in Dale."
-    Arthur "获胜之家的每个学生都会得到50美元的津贴，你可以在Dale消费。"
+    Arthur "获胜分院的每个学生都会得到50美元的津贴，你们可以在Dale消费。"
 
 # game/logic/events/arthur_2.rpy:86
 translate chinese arthur_2_b7455f8e:
@@ -142,31 +142,31 @@ translate chinese arthur_2_b7455f8e:
 translate chinese arthur_2_3f164f48:
 
     # Arthur "To all the other students who haven't won this week: try to keep up your spirits!"
-    Arthur "这周所有未获奖的学生:振作精神!"
+    Arthur "这周所有未获胜的学生，都振作一点！"
 
 # game/logic/events/arthur_2.rpy:89
 translate chinese arthur_2_087ce206:
 
     # Arthur "You will have a chance to visit Dale next time."
-    Arthur "下次你有机会去拜访Dale。"
+    Arthur "下次你们还有机会去拜访Dale。"
 
 # game/logic/events/arthur_2.rpy:90
 translate chinese arthur_2_0dad76fb:
 
     # Arthur "All you need is to put more effort and win next week's competition!"
-    Arthur "你所需要的就是更加努力，赢得下周的比赛!"
+    Arthur "你们要做的就是更加努力，赢得下周的比赛!"
 
 # game/logic/events/arthur_2.rpy:92
 translate chinese arthur_2_dfa6d1e8:
 
     # Arthur "Take care, everyone, and have a lovely weekend!"
-    Arthur "保重，大家，周末愉快!"
+    Arthur "大家保重，周末愉快!"
 
 # game/logic/events/arthur_2.rpy:93
 translate chinese arthur_2_cea9308a:
 
     # ch_Name "Well, that was informative."
-    ch_Name "你说得真有见地。"
+    ch_Name "这条信息很有用。"
 
 # game/logic/events/arthur_2.rpy:94
 translate chinese arthur_2_a70cde9c:
@@ -178,7 +178,7 @@ translate chinese arthur_2_a70cde9c:
 translate chinese arthur_2_32_a7a4792e:
 
     # Arthur "This week's winner house is {b}[wins_house]{/b}!"
-    Arthur "本周的赢家之家是{b}[wins_house]{/b}!"
+    Arthur "本周的获胜学院是{b}[wins_house]{/b}!"
 
 # game/logic/events/arthur_2.rpy:102
 translate chinese arthur_2_32_a26c5366:
@@ -196,13 +196,13 @@ translate chinese arthur_2_32_1838a81d:
 translate chinese arthur_2_32_d1098240:
 
     # ch_Name "You're not very optimistic about us."
-    ch_Name "你对我们不太乐观。"
+    ch_Name "你不太乐观。"
 
 # game/logic/events/arthur_2.rpy:106
 translate chinese arthur_2_32_48a616a4:
 
     # Arthur "Congratulations to [wins_house]! The path to Dale is now open to you."
-    Arthur "祝贺[wins_house]!通往Dale的路现在向你敞开了。"
+    Arthur "祝贺[wins_house]！通往Dale的路现在向你敞开了。"
 
 # game/logic/events/arthur_2.rpy:107
 translate chinese arthur_2_32_0d0cf108:
@@ -214,37 +214,37 @@ translate chinese arthur_2_32_0d0cf108:
 translate chinese arthur_2_32_36af6813:
 
     # Arthur "He will help you to get to the ferry."
-    Arthur "他会帮你到渡口。"
+    Arthur "他会带你到渡口。"
 
 # game/logic/events/arthur_2.rpy:110
 translate chinese arthur_2_32_3f164f48:
 
     # Arthur "To all the other students who haven't won this week: try to keep up your spirits!"
-    Arthur "这周所有未获奖的学生:振作精神!"
+    Arthur "这周所有未获胜的学生，都振作一点！"
 
 # game/logic/events/arthur_2.rpy:111
 translate chinese arthur_2_32_087ce206:
 
     # Arthur "You will have a chance to visit Dale next time."
-    Arthur "下次你有机会去拜访Dale。"
+    Arthur "下次你还有机会去拜访Dale。"
 
 # game/logic/events/arthur_2.rpy:113
 translate chinese arthur_2_32_0dad76fb:
 
     # Arthur "All you need is to put more effort and win next week's competition!"
-    Arthur "你所需要的就是更加努力，赢得下周的比赛!"
+    Arthur "你们要做的就是更加努力，赢得下周的比赛!"
 
 # game/logic/events/arthur_2.rpy:115
 translate chinese arthur_2_32_dfa6d1e8:
 
     # Arthur "Take care, everyone, and have a lovely weekend!"
-    Arthur "保重，大家，周末愉快!"
+    Arthur "大家保重，周末愉快!"
 
 # game/logic/events/arthur_2.rpy:116
 translate chinese arthur_2_32_cea9308a:
 
     # ch_Name "Well, that was informative."
-    ch_Name "你说得真有见地。"
+    ch_Name "你说得真有道理。"
 
 # game/logic/events/arthur_2.rpy:117
 translate chinese arthur_2_32_e0cf2721:
@@ -256,19 +256,19 @@ translate chinese arthur_2_32_e0cf2721:
 translate chinese arthur_2_0_36d985d4:
 
     # Arthur "Greetings, students!"
-    Arthur "问候,学生!"
+    Arthur "大家好，同学们！"
 
 # game/logic/events/arthur_2.rpy:160
 translate chinese arthur_2_0_c32abc02:
 
     # Arthur "As usual, we're gathered you here to announce the results of our traditional house tournament."
-    Arthur "和往常一样，我们把你们聚在这里是为了宣布我们传统的室内锦标赛的结果。"
+    Arthur "和往常一样，我们聚在这里是为了按照传统宣布我们分院比赛的结果。"
 
 # game/logic/events/arthur_2.rpy:161
 translate chinese arthur_2_0_8e86b1c7:
 
     # Arthur "We've calculated the total points for each House. And the winner is..."
-    Arthur "我们计算了每个议院的总得分。获胜者是..."
+    Arthur "我们计算了每个分院的总得分。获胜者是..."
 
 # game/logic/events/arthur_2.rpy:179
 translate chinese arthur_2_0_6e55cc3b:
@@ -280,25 +280,25 @@ translate chinese arthur_2_0_6e55cc3b:
 translate chinese arthur_2_0_1f8bb2b6:
 
     # ch_Name "Yahoo! We won!"
-    ch_Name "雅虎我们赢了!"
+    ch_Name "呀呼！我们赢了!"
 
 # game/logic/events/arthur_2.rpy:182
 translate chinese arthur_2_0_9e7c23b9:
 
     # Elijah "Great job, everyone!"
-    Elijah "大家好!"
+    Elijah "各位干得漂亮！"
 
 # game/logic/events/arthur_2.rpy:184
 translate chinese arthur_2_0_1c5cb8cc:
 
     # Arthur "Congratulations to Leonheart! The path to Dale is now open to you."
-    Arthur "祝贺Leonheart !通往Dale的路现在向你敞开了。"
+    Arthur "祝贺Leonheart！通往Dale的路现在向你敞开了。"
 
 # game/logic/events/arthur_2.rpy:187
 translate chinese arthur_2_0_bee80711:
 
     # Arthur "Each student from the winning house receives $50 allowance you can spend in Dale."
-    Arthur "获胜之家的每个学生都会得到50美元的津贴，你可以在Dale消费。"
+    Arthur "获胜分院的学生每人都会得到50美元的津贴，你可以在Dale消费。"
 
 # game/logic/events/arthur_2.rpy:189
 translate chinese arthur_2_0_b7455f8e:
@@ -310,31 +310,31 @@ translate chinese arthur_2_0_b7455f8e:
 translate chinese arthur_2_0_3f164f48:
 
     # Arthur "To all the other students who haven't won this week: try to keep up your spirits!"
-    Arthur "这周所有未获奖的学生:振作精神!"
+    Arthur "这周所有未获胜的学生，都振作一点！"
 
 # game/logic/events/arthur_2.rpy:192
 translate chinese arthur_2_0_087ce206:
 
     # Arthur "You will have a chance to visit Dale next time."
-    Arthur "下次你有机会去拜访Dale。"
+    Arthur "下次你还有机会去拜访Dale。"
 
 # game/logic/events/arthur_2.rpy:193
 translate chinese arthur_2_0_0dad76fb:
 
     # Arthur "All you need is to put more effort and win next week's competition!"
-    Arthur "你所需要的就是更加努力，赢得下周的比赛!"
+    Arthur "你们要做的就是更加努力，赢得下周的比赛!"
 
 # game/logic/events/arthur_2.rpy:195
 translate chinese arthur_2_0_dfa6d1e8:
 
     # Arthur "Take care, everyone, and have a lovely weekend!"
-    Arthur "保重，大家，周末愉快!"
+    Arthur "大家保重，周末愉快!"
 
 # game/logic/events/arthur_2.rpy:196
 translate chinese arthur_2_0_cea9308a:
 
     # ch_Name "Well, that was informative."
-    ch_Name "你说得真有见地。"
+    ch_Name "这条信息很有用。"
 
 # game/logic/events/arthur_2.rpy:197
 translate chinese arthur_2_0_acf8d85f:
@@ -364,7 +364,7 @@ translate chinese arthur_2_0_18_1838a81d:
 translate chinese arthur_2_0_18_cea9308a:
 
     # ch_Name "Well, that was informative."
-    ch_Name "你说得真有见地。"
+    ch_Name "你说得真有道理。"
 
 # game/logic/events/arthur_2.rpy:224
 translate chinese arthur_2_0_18_e0cf2721:
@@ -382,7 +382,7 @@ translate chinese arthur_2_3_307168cc:
 translate chinese arthur_2_3_7ff6c938:
 
     # Jacob "I think we're just waiting for you."
-    Jacob "我想我们只是在等你。"
+    Jacob "就等你一个了。"
 
 # game/logic/events/arthur_2.rpy:253
 translate chinese arthur_2_3_40891a2c:
@@ -400,13 +400,13 @@ translate chinese arthur_2_3_cb71a21f:
 translate chinese arthur_2_3_ae8c5522:
 
     # Jacob "Students, follow me."
-    Jacob "学生, 跟我来。"
+    Jacob "同学们，跟我来。"
 
 # game/logic/events/arthur_2.rpy:257
 translate chinese arthur_2_3_3f81266e:
 
     # Haley "Hello, [Name]!"
-    Haley "你好, [Name]!"
+    Haley "你好，[Name]！"
 
 # game/logic/events/arthur_2.rpy:258
 translate chinese arthur_2_3_fe943653:
@@ -418,7 +418,7 @@ translate chinese arthur_2_3_fe943653:
 translate chinese arthur_2_3_d8dd83a4:
 
     # Haley "Do you have plans for Dale yet?"
-    Haley "你对Dale有什么计划了吗?"
+    Haley "你对Dale有什么计划吗?"
 
 # game/logic/events/arthur_2.rpy:261
 translate chinese arthur_2_3_82381200:
@@ -436,19 +436,19 @@ translate chinese arthur_2_3_4e61651c:
 translate chinese arthur_2_3_c15f9a7d:
 
     # ch_Name "I'm sure there is."
-    ch_Name "我肯定有。"
+    ch_Name "那肯定有。"
 
 # game/logic/events/arthur_2.rpy:265
 translate chinese arthur_2_3_2c528bbd:
 
     # Haley "Oh, Lily, I was just looking for you!"
-    Haley "哦，Lily, 我正找你呢!"
+    Haley "哦，Lily，我正找你呢!"
 
 # game/logic/events/arthur_2.rpy:266
 translate chinese arthur_2_3_75813012:
 
     # Haley "Aren't you going to the library?"
-    Haley "你不是要去图书馆吗?"
+    Haley "你不是要去图书馆吗？"
 
 # game/logic/events/arthur_2.rpy:268
 translate chinese arthur_2_3_60743925:
@@ -472,43 +472,43 @@ translate chinese arthur_2_3_f3f897ab:
 translate chinese arthur_2_3_37f91fc5:
 
     # ch_Name "{i}(Hmm, so Haley's gonna be at the library all weekend?){/i}"
-    ch_Name "{i}(所以Haley整个周末都在图书馆吗?){/i}"
+    ch_Name "{i}(所以Haley整个周末都在图书馆吗？){/i}"
 
 # game/logic/events/arthur_2.rpy:273
 translate chinese arthur_2_3_972052a9:
 
     # ch_Name "{i}(Sometimes I don't understand her interests.){/i}"
-    ch_Name "{i}(有时候我不理解她的兴趣。){/i}"
+    ch_Name "{i}(有时候我真不理解她的兴趣。){/i}"
 
 # game/logic/events/arthur_2.rpy:274
 translate chinese arthur_2_3_382ae55e:
 
     # ch_Name "{i}(On the other hand, sometimes I don't even understand mine.){/i}"
-    ch_Name "{i}(另一方面，有时我甚至不了解我的。){/i}"
+    ch_Name "{i}(另一方面，有时我甚至也不了解我自己的兴趣。){/i}"
 
 # game/logic/events/arthur_2.rpy:275
 translate chinese arthur_2_3_69a82ab3:
 
     # ch_Name "{i}(Speaking of which, I wonder what I'll be doing this weekend?){/i}"
-    ch_Name "{i}(说到这个，我想知道这个周末我要做什么?){/i}"
+    ch_Name "{i}(说到这个，我想知道这个周末我要做什么。){/i}"
 
 # game/logic/events/arthur_2.rpy:277
 translate chinese arthur_2_3_3591cbf9:
 
     # ch_Name "{i}(Guess I'll find out in Dale.){/i}"
-    ch_Name "{i}(我想我会在Dale找到答案。){/i}"
+    ch_Name "{i}(我想我能在Dale找到答案。){/i}"
 
 # game/logic/events/arthur_2.rpy:281
 translate chinese arthur_2_3_d6a72beb:
 
     # ch_Name "Wow, wow, this is beautiful!"
-    ch_Name "哇，哇，太美了!"
+    ch_Name "哇，哇，太美了！"
 
 # game/logic/events/arthur_2.rpy:282
 translate chinese arthur_2_3_863d5fef:
 
     # Jacob "Impressed?"
-    Jacob "深刻的印象吗?"
+    Jacob "很震撼吗？"
 
 # game/logic/events/arthur_2.rpy:283
 translate chinese arthur_2_3_c9725451:
@@ -520,7 +520,7 @@ translate chinese arthur_2_3_c9725451:
 translate chinese arthur_2_3_444151a5:
 
     # ch_Name "Why, sir?"
-    ch_Name "先生, 为什么?"
+    ch_Name "先生，为什么?"
 
 # game/logic/events/arthur_2.rpy:286
 translate chinese arthur_2_3_a9865265:
@@ -532,25 +532,25 @@ translate chinese arthur_2_3_a9865265:
 translate chinese arthur_2_3_dc2c2252:
 
     # ch_Name "What system?"
-    ch_Name "什么系统?"
+    ch_Name "什么系统？"
 
 # game/logic/events/arthur_2.rpy:288
 translate chinese arthur_2_3_71026dc1:
 
     # Jacob "You'll hear about it in a moment. I think everyone needs this information."
-    Jacob "你马上就会听到。我想每个人都需要这个信息。"
+    Jacob "你马上就会听到。我想每个人都需要知晓。"
 
 # game/logic/events/arthur_2.rpy:290
 translate chinese arthur_2_3_7a843e21:
 
     # Jacob "Students! Pay attention."
-    Jacob "学生! 注意。"
+    Jacob "同学们！注意了。"
 
 # game/logic/events/arthur_2.rpy:291
 translate chinese arthur_2_3_dad06e80:
 
     # Jacob "We at Cordale are well aware that..."
-    Jacob "我们在Cordale很清楚..."
+    Jacob "我们在Cordale都知道..."
 
 # game/logic/events/arthur_2.rpy:292
 translate chinese arthur_2_3_aad21c2b:
@@ -568,7 +568,7 @@ translate chinese arthur_2_3_6df880d7:
 translate chinese arthur_2_3_ade72805:
 
     # Jacob "You, as the winners of the house competition, can board the ship."
-    Jacob "你们作为房屋竞赛的优胜者，可以登上这艘船了。"
+    Jacob "你们作为分院竞赛的优胜者，可以登上这艘船了。"
 
 # game/logic/events/arthur_2.rpy:296
 translate chinese arthur_2_3_94bcba85:
@@ -580,25 +580,25 @@ translate chinese arthur_2_3_94bcba85:
 translate chinese arthur_2_3_0832f183:
 
     # Jacob "And this ship has everything you need so you don't get bored while you're sailing."
-    Jacob "这艘船有你需要的一切所以你在航行时不会感到无聊。"
+    Jacob "这艘船有你需要的一切，所以你在航行时不会感到无聊。"
 
 # game/logic/events/arthur_2.rpy:299
 translate chinese arthur_2_3_5feb7aea:
 
     # Lily "But why a ship at all? We could just teleport..."
-    Lily "但为什么是船呢?我们可以瞬间移动..."
+    Lily "但为什么要坐船呢？我们不是可以瞬间移动吗？"
 
 # game/logic/events/arthur_2.rpy:300
 translate chinese arthur_2_3_d05addfc:
 
     # Jacob "Thanks for that interesting point!"
-    Jacob "谢谢你这个有趣的观点!"
+    Jacob "谢谢你这个有趣的观点！"
 
 # game/logic/events/arthur_2.rpy:301
 translate chinese arthur_2_3_c1b959f0:
 
     # Jacob "Portal magic in Cordale territory is limited as much as possible."
-    Jacob "Cordale领地的传送门魔法被尽可能地限制了。"
+    Jacob "在Cordale的地界内，传送门魔法被尽可能限制了。"
 
 # game/logic/events/arthur_2.rpy:302
 translate chinese arthur_2_3_cc8ef5ee:
@@ -616,7 +616,7 @@ translate chinese arthur_2_3_57d12cf9:
 translate chinese arthur_2_3_a97b44f1:
 
     # Jacob "The endless lake."
-    Jacob "无休止的湖。"
+    Jacob "一片无边无际的湖。"
 
 # game/logic/events/arthur_2.rpy:306
 translate chinese arthur_2_3_16dc6224:
@@ -640,13 +640,13 @@ translate chinese arthur_2_3_24015a42:
 translate chinese arthur_2_3_0c204af1:
 
     # Jacob "You don't even want to know."
-    Jacob "你不会想知道的。"
+    Jacob "你们不会想知道结果的。"
 
 # game/logic/events/arthur_2.rpy:312
 translate chinese arthur_2_3_7bc8d5d8:
 
     # Jacob "The only vessel that can cross it is right here in front of you."
-    Jacob "唯一能穿过它的船就在你面前。"
+    Jacob "唯一能穿过它的船就在你们面前。"
 
 # game/logic/events/arthur_2.rpy:313
 translate chinese arthur_2_3_3bacab58:
@@ -664,19 +664,19 @@ translate chinese arthur_2_3_8c56aa86:
 translate chinese arthur_2_3_774eb7c4:
 
     # Jacob "Any other questions?"
-    Jacob "还有其他问题吗?"
+    Jacob "还有其他问题吗？"
 
 # game/logic/events/arthur_2.rpy:317
 translate chinese arthur_2_3_48da8f22:
 
     # Haley "Can I get on board now?"
-    Haley "我现在可以登机了吗?"
+    Haley "我现在可以上船了吗?"
 
 # game/logic/events/arthur_2.rpy:318
 translate chinese arthur_2_3_85c97756:
 
     # Jacob "Of course. Come on in and take your seats."
-    Jacob "当然可以。请进，坐好。"
+    Jacob "当然可以。上来吧，坐好。"
 
 # game/logic/events/arthur_2.rpy:319
 translate chinese arthur_2_3_cbf16cc0:
@@ -706,13 +706,13 @@ translate chinese arthur_2_3_f3a662d1:
 translate chinese arthur_2_3_f374b3f7:
 
     # ch_Name "{i}(Wow, I've never been on the ship before.){/i}"
-    ch_Name "{i}(哇，我以前从没上过船。){/i}"
+    ch_Name "{i}(哇，我以前从没坐过船。){/i}"
 
 # game/logic/events/arthur_2.rpy:327
 translate chinese arthur_2_3_0d8a9635:
 
     # ch_Name "{i}(It's shaking when people get on the deck... Should it be like that?){/i}"
-    ch_Name "{i}(当人们在甲板上的时候，它在摇晃... 应该是这样吗?){/i}"
+    ch_Name "{i}(人们在甲板上的时候船会摇晃...正常情况都是这样吗？){/i}"
 
 # game/logic/events/arthur_2.rpy:328
 translate chinese arthur_2_3_f9fea4d0:
@@ -724,13 +724,13 @@ translate chinese arthur_2_3_f9fea4d0:
 translate chinese arthur_2_3_0ab39970:
 
     # ch_Name "{i}(Wow! What a view!){/i}"
-    ch_Name "{i}(哇!一个视图!){/i}"
+    ch_Name "{i}(哇！好美的风景！){/i}"
 
 # game/logic/events/arthur_2.rpy:331
 translate chinese arthur_2_3_95360302:
 
     # ch_Name "{i}(Who might've thought that a boat trip could be so picturesque.){/i}"
-    ch_Name "{i}(谁能想到乘船旅行会如此风景如画。){/i}"
+    ch_Name "{i}(谁能想到乘船旅行会有如此美丽的风景。){/i}"
 
 # game/logic/events/arthur_2.rpy:332
 translate chinese arthur_2_3_42a7bbc2:
@@ -742,19 +742,19 @@ translate chinese arthur_2_3_42a7bbc2:
 translate chinese arthur_2_3_39e2e9bd:
 
     # ch_Name "{i}(It's so peaceful. That's how any weekend should start.){/i}"
-    ch_Name "{i}(它是如此平静。任何周末都应该这样开始。){/i}"
+    ch_Name "{i}(一切都是如此平静。任何周末都应该这样开始。){/i}"
 
 # game/logic/events/arthur_2.rpy:335
 translate chinese arthur_2_3_618c4214:
 
     # ch_Name "{i}(I might start enjoying winning house tournaments.){/i}"
-    ch_Name "{i}(我可能会开始享受豪斯比赛的胜利。){/i}"
+    ch_Name "{i}(我可能会开始享受分院比赛的胜利。){/i}"
 
 # game/logic/events/arthur_2.rpy:337
 translate chinese arthur_2_3_b860604d:
 
     # ch_Name "Ouch... Ough..."
-    ch_Name "哎哟... 咳嗽..."
+    ch_Name "哎哟...咳嗽..."
 
 # game/logic/events/arthur_2.rpy:338
 translate chinese arthur_2_3_c3e92aac:
@@ -772,19 +772,19 @@ translate chinese arthur_2_3_8bc4bb1a:
 translate chinese arthur_2_3_a84083ef:
 
     # ch_Name "{i}(Like a broken one. Damn...){/i}"
-    ch_Name "{i}(像个坏掉的。该死的...){/i}"
+    ch_Name "{i}(像个坏掉的唱片机。该死的...){/i}"
 
 # game/logic/events/arthur_2.rpy:342
 translate chinese arthur_2_3_7f9042d8:
 
     # ch_Name "{i}(Fuck... What's happening?){/i}"
-    ch_Name "{i}(他妈的... 发生什么事情了?){/i}"
+    ch_Name "{i}(他妈的...发生什么事情了?){/i}"
 
 # game/logic/events/arthur_2.rpy:343
 translate chinese arthur_2_3_197ab54b:
 
     # ch_Name "{i}(Am I seasick?){/i}"
-    ch_Name "{i}(我晕船吗?){/i}"
+    ch_Name "{i}(我晕船了吗？){/i}"
 
 # game/logic/events/arthur_2.rpy:345
 translate chinese arthur_2_3_78205a63:
@@ -808,19 +808,19 @@ translate chinese arthur_2_3_027b1c56:
 translate chinese arthur_2_3_57656768:
 
     # ch_Name "{i}(What the fuck. Where am I?){/i}"
-    ch_Name "{i}(他妈的什么。我在哪儿?){/i}"
+    ch_Name "{i}(什么玩意？我在哪儿？){/i}"
 
 # game/logic/events/arthur_2.rpy:352
 translate chinese arthur_2_3_26210414:
 
     # ch_Name "{i}(Is this the place from inside the Sorting Foliant?){/i}"
-    ch_Name "{i}(这是分选剂里面的地方吗?){/i}"
+    ch_Name "{i}(这是分流之书里面的世界吗？){/i}"
 
 # game/logic/events/arthur_2.rpy:353
 translate chinese arthur_2_3_4d99e310:
 
     # ch_Name "{i}(Why can't I move my arms and legs...){/i}"
-    ch_Name "{i}(为什么我的胳膊和腿动不了...){/i}"
+    ch_Name "{i}(为什么我的胳膊和腿都动不了...){/i}"
 
 # game/logic/events/arthur_2.rpy:354
 translate chinese arthur_2_3_2bde5603:
@@ -832,49 +832,49 @@ translate chinese arthur_2_3_2bde5603:
 translate chinese arthur_2_3_3d590dc8:
 
     # ch_Name "WHAT THE FUCK?!"
-    ch_Name "什么他妈的? !"
+    ch_Name "什么鬼东西？！"
 
 # game/logic/events/arthur_2.rpy:357
 translate chinese arthur_2_3_fa255266:
 
     # Katrina "Oh yes... "
-    Katrina "哦,是的..."
+    Katrina "哦，是的..."
 
 # game/logic/events/arthur_2.rpy:359
 translate chinese arthur_2_3_0261c977:
 
     # Katrina "That what I was waiting for."
-    Katrina "这就是我一直在等待的。"
+    Katrina "我等你等了好久啊。"
 
 # game/logic/events/arthur_2.rpy:360
 translate chinese arthur_2_3_8700343a:
 
     # Katrina "What's the matter now?"
-    Katrina "现在又怎么了?"
+    Katrina "你怎么回事呀？"
 
 # game/logic/events/arthur_2.rpy:361
 translate chinese arthur_2_3_2a41ff02:
 
     # Katrina " You're not so confident anymore!"
-    Katrina "你不再那么自信了!"
+    Katrina "你不再那么自信了！"
 
 # game/logic/events/arthur_2.rpy:363
 translate chinese arthur_2_3_9537c361:
 
     # ch_Name "Katrina? What the fuck is happening?!"
-    ch_Name "Katrina? 这他妈的是怎么回事?!"
+    ch_Name "Katrina？这他妈的是怎么回事？！"
 
 # game/logic/events/arthur_2.rpy:364
 translate chinese arthur_2_3_8443d39a:
 
     # ch_Name "Where am I? "
-    ch_Name "我在哪儿?"
+    ch_Name "我在哪儿？"
 
 # game/logic/events/arthur_2.rpy:365
 translate chinese arthur_2_3_990c4e05:
 
     # ch_Name "Is this a dream?"
-    ch_Name "这是梦吗?"
+    ch_Name "我是在做梦吗？"
 
 # game/logic/events/arthur_2.rpy:367
 translate chinese arthur_2_3_738b8f79:
@@ -892,49 +892,49 @@ translate chinese arthur_2_3_dd4e8edc:
 translate chinese arthur_2_3_0dc35f8c:
 
     # Katrina "Chose my enemy and exceeded my house!"
-    Katrina "选择了我的敌人，超越了我的家!"
+    Katrina "选择了我的敌人，还胜过我的学院！"
 
 # game/logic/events/arthur_2.rpy:370
 translate chinese arthur_2_3_216ece1c:
 
     # Katrina "You think someone can just do that to Katina Adderin and walk away?!"
-    Katrina "你认为有人可以对Katina Adderin那样做然后走开？！"
+    Katrina "你以为有人可以对Katina Adderin做出那样的事然后扬长而去？！"
 
 # game/logic/events/arthur_2.rpy:371
 translate chinese arthur_2_3_88f8330e:
 
     # ch_Name "Wait, let's talk..."
-    ch_Name "等待, 让我们谈谈..."
+    ch_Name "等等，我们谈谈..."
 
 # game/logic/events/arthur_2.rpy:373
 translate chinese arthur_2_3_4570a174:
 
     # Katrina "You've said all you had to say. boy."
-    Katrina "该说的你都说了。男孩。"
+    Katrina "该说的你都说了。孩子。"
 
 # game/logic/events/arthur_2.rpy:374
 translate chinese arthur_2_3_92ec3fc3:
 
     # Katrina "Enjoy your small victories while you can."
-    Katrina "尽可能地享受你的小胜利。"
+    Katrina "趁你还有最后一口气，好好享受你的小胜利吧。"
 
 # game/logic/events/arthur_2.rpy:375
 translate chinese arthur_2_3_1c257f4f:
 
     # Katrina "But do not forget about me."
-    Katrina "但不要忘记我。"
+    Katrina "但不要忘了我。"
 
 # game/logic/events/arthur_2.rpy:376
 translate chinese arthur_2_3_fd3312e8:
 
     # Katrina "Because if I can get you from underworld..."
-    Katrina "因为如果我能把你从地下世界"
+    Katrina "因为如果我能从地下世界抓到你……"
 
 # game/logic/events/arthur_2.rpy:377
 translate chinese arthur_2_3_d7e6f74a:
 
     # Katrina "Imagine what I'll do to you when I get out of here!"
-    Katrina "想象一下我离开这里后会对你做什么!"
+    Katrina "想象一下我从这里出去之后会对你做什么吧！"
 
 # game/logic/events/arthur_2.rpy:379
 translate chinese arthur_2_3_f1160c60:
@@ -958,55 +958,55 @@ translate chinese arthur_2_3_01b7dc97:
 translate chinese arthur_2_3_87a2fb83:
 
     # "..." "Wake up."
-    "..." "醒来。"
+    "..." "醒醒。"
 
 # game/logic/events/arthur_2.rpy:384
 translate chinese arthur_2_3_eec2e1d3:
 
     # "..." "We're here!"
-    "..." "我们在这里!"
+    "..." "我们都在！"
 
 # game/logic/events/arthur_2.rpy:385
 translate chinese arthur_2_3_51441921:
 
     # "..." "Why are you shaking?"
-    "..." "你为什么在发抖?"
+    "..." "你为什么在发抖？"
 
 # game/logic/events/arthur_2.rpy:389
 translate chinese arthur_2_3_293d994b:
 
     # Haley "Are you okay? Wake up! "
-    Haley "你还好吗? 醒醒吧!"
+    Haley "你还好吗？醒醒！"
 
 # game/logic/events/arthur_2.rpy:390
 translate chinese arthur_2_3_ce7b0e67:
 
     # Haley "There you go. "
-    Haley "那就这样吧。"
+    Haley "你醒过来了。"
 
 # game/logic/events/arthur_2.rpy:392
 translate chinese arthur_2_3_57a334e8:
 
     # Haley "You were dreaming... Was it a nightmare? "
-    Haley "你在做梦... 这是一场噩梦吗?"
+    Haley "你在做梦...这是一场噩梦吗？"
 
 # game/logic/events/arthur_2.rpy:393
 translate chinese arthur_2_3_2ead44c8:
 
     # ch_Name "Yeah, kind of."
-    ch_Name "是的, 有点。"
+    ch_Name "是的，差不多吧。"
 
 # game/logic/events/arthur_2.rpy:394
 translate chinese arthur_2_3_d8e94121:
 
     # Haley "Well, not even the storm could wake you."
-    Haley "即使是暴风雨也不能把你吵醒。"
+    Haley "即使是天塌下来也不能把你吵醒。"
 
 # game/logic/events/arthur_2.rpy:395
 translate chinese arthur_2_3_d6fe227a:
 
     # Haley "I was worried."
-    Haley "我是担心。"
+    Haley "我担心死了。"
 
 # game/logic/events/arthur_2.rpy:397
 translate chinese arthur_2_3_bb62cf69:
@@ -1030,31 +1030,31 @@ translate chinese arthur_2_3_3a5c7650:
 translate chinese arthur_2_3_417e0cff:
 
     # ch_Name "So... Are we there?"
-    ch_Name "所以... 我们有吗?"
+    ch_Name "所以...我们到了吗?"
 
 # game/logic/events/arthur_2.rpy:402
 translate chinese arthur_2_3_2fba814e:
 
     # Haley "Yeah. Everybody has already left for Dale."
-    Haley "是的。大家都去Dale了。"
+    Haley "到了。大家都去Dale了。"
 
 # game/logic/events/arthur_2.rpy:403
 translate chinese arthur_2_3_febd1634:
 
     # Haley "Captain said you have five minutes to get out."
-    Haley "队长说你有五分钟时间离开。"
+    Haley "船长说你还有五分钟时间可以离开。"
 
 # game/logic/events/arthur_2.rpy:404
 translate chinese arthur_2_3_6a816938:
 
     # Haley "She was very pissed with your \"moanings\"."
-    Haley "她被你的\"抱怨\"惹恼了。"
+    Haley "她被你的\"梦话\"惹恼了。"
 
 # game/logic/events/arthur_2.rpy:406
 translate chinese arthur_2_3_1a6c1590:
 
     # Haley "Do you think it's hard to navigate the ship?"
-    Haley "你觉得导航这艘船很难吗?"
+    Haley "你觉得驾驶这艘船很难吗?"
 
 # game/logic/events/arthur_2.rpy:407
 translate chinese arthur_2_3_297e8375:
@@ -1066,13 +1066,13 @@ translate chinese arthur_2_3_297e8375:
 translate chinese arthur_2_3_0868fcec:
 
     # Haley "When will you learn to get when I'm joking and when I'm serious."
-    Haley "你什么时候才能明白我什么时候开玩笑，什么时候认真。"
+    Haley "你什么时候才能明白我什么时候开玩笑，什么时候认真啊。"
 
 # game/logic/events/arthur_2.rpy:410
 translate chinese arthur_2_3_54e75ba9:
 
     # ch_Name "We should spend more time together if you want me to do that."
-    ch_Name "如果你想让我这么做的话，我们应该多花点时间在一起。"
+    ch_Name "如果你想让我了解你的话，我们应该多花点时间在一起。"
 
 # game/logic/events/arthur_2.rpy:411
 translate chinese arthur_2_3_05f34be1:
@@ -1084,25 +1084,25 @@ translate chinese arthur_2_3_05f34be1:
 translate chinese arthur_2_3_d7f5d57c:
 
     # ch_Name "I do not dare to stand between you and local library."
-    ch_Name "我不敢站在你和当地图书馆之间。"
+    ch_Name "我可不敢打扰你和本地图书馆的约会。"
 
 # game/logic/events/arthur_2.rpy:413
 translate chinese arthur_2_3_f4f1bd13:
 
     # ch_Name "But maybe after you learn all about Dale."
-    ch_Name "但也许在你了解Dale的一切之后。"
+    ch_Name "但也许在你了解完Dale的一切之后吧。"
 
 # game/logic/events/arthur_2.rpy:415
 translate chinese arthur_2_3_0eac045a:
 
     # Haley "Maybe. Who knows..."
-    Haley "也许吧。谁知道..."
+    Haley "也许吧。谁知道呢..."
 
 # game/logic/events/arthur_2.rpy:416
 translate chinese arthur_2_3_27f9dca5:
 
     # ch_Name "You're killing me."
-    ch_Name "我杀死你。"
+    ch_Name "你会杀了我的。"
 
 # game/logic/events/arthur_2.rpy:417
 translate chinese arthur_2_3_6084ae42:
@@ -1120,7 +1120,7 @@ translate chinese arthur_2_3_f63fdcff:
 translate chinese arthur_2_3_430ba448:
 
     # Haley "Captain said she'd feed you to the sharks if you don't leave."
-    Haley "船长说如果你不走她就把你喂鲨鱼。"
+    Haley "船长说如果你再不走她就把你喂鲨鱼。"
 
 # game/logic/events/arthur_2.rpy:421
 translate chinese arthur_2_3_607fe232:
@@ -1138,7 +1138,7 @@ translate chinese arthur_2_3_071463ea:
 translate chinese arthur_2_3_edcc2604:
 
     # Haley "Bye!"
-    Haley "轮空！"
+    Haley "再见！"
 
 # game/logic/events/arthur_2.rpy:425
 translate chinese arthur_2_3_bded165d:
@@ -1162,7 +1162,7 @@ translate chinese arthur_2_3_adf707ea:
 translate chinese arthur_2_3_fc6b4958:
 
     # ch_Name "{i}(I'll think about crazy old witch inside of my mind later.){/i}"
-    ch_Name "{i}(我晚点再在脑子里想那个疯女巫。){/i}"
+    ch_Name "{i}(我晚点再想那个疯女巫。){/i}"
 
 # game/logic/events/arthur_2.rpy:430
 translate chinese arthur_2_3_176569fa:
@@ -1174,7 +1174,7 @@ translate chinese arthur_2_3_176569fa:
 translate chinese arthur_2_5_b2558151:
 
     # ch_Name "{i}(What nice weather! I'm sure it's going to be a great weekend.){/i}"
-    ch_Name "{i}(什么好天气!我相信这将是一个美好的周末。){/i}"
+    ch_Name "{i}(天气真好！我相信这将是一个美好的周末。){/i}"
 
 # game/logic/events/arthur_2.rpy:481
 translate chinese arthur_2_5_42ad2fc5:
@@ -1192,13 +1192,13 @@ translate chinese arthur_2_5_34371a38:
 translate chinese arthur_2_5_9bb528c6:
 
     # ch_Name "Do you know yet?"
-    ch_Name "你知道了吗?"
+    ch_Name "你都知道了？"
 
 # game/logic/events/arthur_2.rpy:485
 translate chinese arthur_2_5_42bca763:
 
     # Elijah "Sure, the captain's been grumbling and complaining about you the whole way."
-    Elijah "当然，船长一路上一直在抱怨你。"
+    Elijah "当然，船长一路上一直在抱怨。"
 
 # game/logic/events/arthur_2.rpy:487
 translate chinese arthur_2_5_2e1472ef:
@@ -1216,25 +1216,25 @@ translate chinese arthur_2_5_541f3cf4:
 translate chinese arthur_2_5_bfd9816e:
 
     # ch_Name "I just got seasick. I'm fine."
-    ch_Name "我只是晕船。我很好。"
+    ch_Name "我只是晕船。我没事。"
 
 # game/logic/events/arthur_2.rpy:490
 translate chinese arthur_2_5_6431c90f:
 
     # Elijah "I'm just going into town to give you a mini tour?"
-    Elijah "我只是进城带你参观一下吗?"
+    Elijah "要我带你进城参观一下吗?"
 
 # game/logic/events/arthur_2.rpy:495
 translate chinese arthur_2_5_05a537ad:
 
     # ch_Name "I think I'll pass."
-    ch_Name "我想我还是算了。"
+    ch_Name "我想还是算了。"
 
 # game/logic/events/arthur_2.rpy:497
 translate chinese arthur_2_5_d1fcfa84:
 
     # Elijah "There you go. Well, it's up to you."
-    Elijah "那就这样吧。好吧，这取决于你。"
+    Elijah "那就这样吧。好吧，你说了算。"
 
 # game/logic/events/arthur_2.rpy:498
 translate chinese arthur_2_5_4845c0f2:
@@ -1252,7 +1252,7 @@ translate chinese arthur_2_5_a93d50a5:
 translate chinese arthur_2_5_cd0a3917:
 
     # ch_Name "{i}(I hope I didn't hurt Elijah's feelings by saying no.){/i}"
-    ch_Name "{i}(我希望我说不不会伤害Elijah的感情。){/i}"
+    ch_Name "{i}(我希望我的拒绝不会伤害Elijah的感情。){/i}"
 
 # game/logic/events/arthur_2.rpy:506
 translate chinese arthur_2_5_a9fc412a:
@@ -1270,7 +1270,7 @@ translate chinese arthur_2_5_4190058d:
 translate chinese arthur_2_5_666e2702:
 
     # ch_Name "{i}(Until I see him naked, I won't know...){/i}"
-    ch_Name "{i}(直到我看到他的裸体，我才会知道){/i}"
+    ch_Name "{i}(直到我看到他的裸体，我才能确定){/i}"
 
 # game/logic/events/arthur_2.rpy:509
 translate chinese arthur_2_5_b14e2288:
@@ -1342,13 +1342,13 @@ translate chinese arthur_2_5_712fff03:
 translate chinese arthur_2_5_b6ff4b22:
 
     # ch_Name "I love it. I wish I had my camera with me."
-    ch_Name "我爱它。我要是带着相机就好了。"
+    ch_Name "我爱死它了。我要是带着相机就好了。"
 
 # game/logic/events/arthur_2.rpy:538
 translate chinese arthur_2_5_34598957:
 
     # Elijah "What's wrong with a phone?"
-    Elijah "电话怎么了?"
+    Elijah "你的手机不行吗？"
 
 # game/logic/events/arthur_2.rpy:539
 translate chinese arthur_2_5_706e4bef:
@@ -1360,7 +1360,7 @@ translate chinese arthur_2_5_706e4bef:
 translate chinese arthur_2_5_a1ddbb09:
 
     # Elijah "Maybe you can find yourself a new camera there."
-    Elijah "也许你可以在那里买台新相机。"
+    Elijah "也许你可以去那里买台新相机。"
 
 # game/logic/events/arthur_2.rpy:542
 translate chinese arthur_2_5_9fb9135b:
@@ -1372,25 +1372,25 @@ translate chinese arthur_2_5_9fb9135b:
 translate chinese arthur_2_5_0ff62b56:
 
     # Elijah "It's a local store. It's mostly just stuff, but they bring in everything on request."
-    Elijah "这是当地的一家商店。大部分都是些东西，但他们会按要求提供所有东西。"
+    Elijah "这是当地的一家商店。大部分都是些日用品，但他们会按要求提供一切你想要的东西。"
 
 # game/logic/events/arthur_2.rpy:545
 translate chinese arthur_2_5_273da471:
 
     # ch_Name "I got it. I don't think I have enough money for a new camera, but it's worth a look."
-    ch_Name "我得到了它。我想我没有足够的钱买一台新照相机，但值得一看。"
+    ch_Name "我知道了。不过我还没有足够的钱买一台新相机，但值得一看。"
 
 # game/logic/events/arthur_2.rpy:546
 translate chinese arthur_2_5_9a53d507:
 
     # Elijah "Speaking of places to look. See that sign to the right?"
-    Elijah "说到看的地方。看到右边那个标志了吗?"
+    Elijah "说到要好好看看的地方。看到右边那个标志了吗?"
 
 # game/logic/events/arthur_2.rpy:548
 translate chinese arthur_2_5_347329ba:
 
     # ch_Name "Spa?"
-    ch_Name "温泉吗?"
+    ch_Name "水疗吗?"
 
 # game/logic/events/arthur_2.rpy:549
 translate chinese arthur_2_5_8c7c9a2c:
@@ -1420,7 +1420,7 @@ translate chinese arthur_2_5_270f9a32:
 translate chinese arthur_2_5_5431f94c:
 
     # Elijah "It's really close."
-    Elijah "真的很接近。"
+    Elijah "我们就快到了。"
 
 # game/logic/events/arthur_2.rpy:556
 translate chinese arthur_2_5_7b339b58:
@@ -1432,13 +1432,13 @@ translate chinese arthur_2_5_7b339b58:
 translate chinese arthur_2_5_ceff46fd:
 
     # ch_Name "You're a good headman."
-    ch_Name "你是个好领导。"
+    ch_Name "你是个好领袖。"
 
 # game/logic/events/arthur_2.rpy:558
 translate chinese arthur_2_5_95eca2c7:
 
     # Elijah "Aha-ha-ha. You really think so?"
-    Elijah "Aha-ha-ha。你真的这么想吗?"
+    Elijah "啊哈哈，你真的这么想吗?"
 
 # game/logic/events/arthur_2.rpy:560
 translate chinese arthur_2_5_13010f77:
@@ -1450,25 +1450,25 @@ translate chinese arthur_2_5_13010f77:
 translate chinese arthur_2_5_b2bfcd29:
 
     # ch_Name "Where to?"
-    ch_Name "去哪儿?"
+    ch_Name "去哪儿？"
 
 # game/logic/events/arthur_2.rpy:563
 translate chinese arthur_2_5_1d29d069:
 
     # Elijah "Were you looking at my ass instead of looking around?"
-    Elijah "你是在看我屁股，而不是到处看吗?"
+    Elijah "你是在看我屁股，而不是看周围吗?"
 
 # game/logic/events/arthur_2.rpy:565
 translate chinese arthur_2_5_074885a4:
 
     # Elijah "The Daily Lee Apartments. This is the hotel I was talking about."
-    Elijah "Daily Lee 公寓。 这就是我说的酒店。"
+    Elijah "Daily Lee公寓。 这就是我说的酒店。"
 
 # game/logic/events/arthur_2.rpy:566
 translate chinese arthur_2_5_f7626c6c:
 
     # Elijah "It's pretty cozy, and you can ask about student discounts."
-    Elijah "那里很舒适，你还可以询问学生折扣。"
+    Elijah "那里很舒适，你还可以要学生折扣。"
 
 # game/logic/events/arthur_2.rpy:567
 translate chinese arthur_2_5_84067ac1:
@@ -1480,7 +1480,7 @@ translate chinese arthur_2_5_84067ac1:
 translate chinese arthur_2_5_5ebfede2:
 
     # Elijah "That was the end of our micro-excursion. I'm going this way."
-    Elijah "我们的微型旅行就这样结束了。我要走这边。"
+    Elijah "我们的微旅行就这样结束了。我们要分开了。"
 
 # game/logic/events/arthur_2.rpy:570
 translate chinese arthur_2_5_2cf85384:
@@ -1492,25 +1492,25 @@ translate chinese arthur_2_5_2cf85384:
 translate chinese arthur_2_5_bc2335e9:
 
     # Elijah "No problem. I'll show you the rest of the city some other time."
-    Elijah "没有问题。改天我带你去城里其他地方看看。"
+    Elijah "咱兄弟俩谁跟谁啊。改天我带你去城里其他地方看看。"
 
 # game/logic/events/arthur_2.rpy:573
 translate chinese arthur_2_5_c6803d96:
 
     # ch_Name "All right."
-    ch_Name "好吧。"
+    ch_Name "好。"
 
 # game/logic/events/arthur_2.rpy:575
 translate chinese arthur_2_5_16f690a8:
 
     # Elijah "[Name], wait!"
-    Elijah "[Name], 等等!"
+    Elijah "[Name]，等等！"
 
 # game/logic/events/arthur_2.rpy:576
 translate chinese arthur_2_5_32200a27:
 
     # Elijah "I almost forgot the most important thing!"
-    Elijah "我差点忘了最重要的事!"
+    Elijah "我差点忘了最重要的事！"
 
 # game/logic/events/arthur_2.rpy:578
 translate chinese arthur_2_5_7e9b118f:
@@ -1522,31 +1522,31 @@ translate chinese arthur_2_5_7e9b118f:
 translate chinese arthur_2_5_c6aa2781:
 
     # ch_Name "Yeah."
-    ch_Name "是的。"
+    ch_Name "看到了。"
 
 # game/logic/events/arthur_2.rpy:580
 translate chinese arthur_2_5_f5a1d983:
 
     # Elijah "There's the hottest nightclub in town around the corner. Lady Luck."
-    Elijah "角有城里最火的夜总会。情妇运气。"
+    Elijah "角有城里最火的夜总会。叫幸运女神。"
 
 # game/logic/events/arthur_2.rpy:582
 translate chinese arthur_2_5_ffb89690:
 
     # Elijah "The guard's a dick, but if you can get in..."
-    Elijah "警卫是个混蛋，但如果你能进去..."
+    Elijah "警卫是个混蛋，但如果你能进去的话..."
 
 # game/logic/events/arthur_2.rpy:583
 translate chinese arthur_2_5_edf1a719:
 
     # Elijah "I highly suggest you check out Sadira's. It's... unforgettable."
-    Elijah "我强烈建议你去看看Sadira的。这是... 难忘。"
+    Elijah "我强烈建议你去看看Sadira。真的很...难忘。"
 
 # game/logic/events/arthur_2.rpy:585
 translate chinese arthur_2_5_8b8fbc30:
 
     # ch_Name "Whoa, cool. Thanks for the tip, bro."
-    ch_Name "哇,酷。谢谢你的提示，兄弟。"
+    ch_Name "哇，酷啊。谢谢你的提示，兄弟。"
 
 # game/logic/events/arthur_2.rpy:586
 translate chinese arthur_2_5_df8edd54:
@@ -1558,7 +1558,7 @@ translate chinese strings:
 
     # game/logic/events/arthur_2.rpy:148
     old "At the moment, weekend activities are only available in Dale. To check them out - win a weekly house tournament"
-    new "目前，只有Dale有周末活动。去看看他们，赢得每周的分院比赛"
+    new "目前，只有Dale有周末活动。好好留意一下，赢得每周的分院比赛"
 
     # game/logic/events/arthur_2.rpy:149
     old "For now, we'll skip the weekends and get straight back to Monday."
@@ -1570,7 +1570,7 @@ translate chinese strings:
 
     # game/logic/events/arthur_2.rpy:503
     old "Check out Elijah's booty"
-    new "看看 Elijah 的战利品"
+    new "看看 Elijah 的屁股"
 
     # game/logic/events/arthur_2.rpy:503
     old "Don't look"
@@ -1582,25 +1582,25 @@ translate chinese strings:
 translate chinese arthur_2_3_3df4f481:
 
     # ch_Name "{i}(On the other hand, sometimes I don't even understand mine.){/i}"
-    ch_Name "{i}（另一方面，有时我甚至不理解我的。）{/i}"
+    ch_Name "{i}（另一方面，有时我甚至不理解自己的兴趣。）{/i}"
 
 # game/logic/events/arthur_2.rpy:374
 translate chinese arthur_2_3_4a080171:
 
     # Katrina "Enjoy your small victories while you can."
-    Katrina "在你能做到的时候享受你的小胜利。"
+    Katrina "趁你还有最后一口气，好好享受你的小胜利吧。"
 
 # game/logic/events/arthur_2.rpy:392
 translate chinese arthur_2_3_b72f5a90:
 
     # Haley "You were dreaming... Was it a nightmare? "
-    Haley "你是在做梦。。。这是一场噩梦吗？"
+    Haley "你在做梦……是噩梦吗？"
 
 # game/logic/events/arthur_2.rpy:420
 translate chinese arthur_2_3_a362ffa5:
 
     # Haley "Captain said she'd feed you to the sharks if you don't leave."
-    Haley "船长说如果你不走她就把你喂鲨鱼。"
+    Haley "船长说如果你再不走她就把你喂鲨鱼。"
 
 # game/logic/events/arthur_2.rpy:422
 translate chinese arthur_2_3_47fc46f6:
@@ -1612,5 +1612,5 @@ translate chinese arthur_2_3_47fc46f6:
 translate chinese arthur_2_5_232f7e79:
 
     # Elijah "There's the hottest nightclub in town around the corner. Lady Luck."
-    Elijah "街角有城里最火的夜总会。Lady Luck。"
+    Elijah "街角有城里最火的夜总会，叫幸运女神。"
 
