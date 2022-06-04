@@ -2733,7 +2733,7 @@ translate chinese CF_S5_label_20d84f11:
 translate chinese CF_Ahchi_1_label_83609cb9:
 
     # ch_Name "Hello, Ahchi! How are you?"
-    ch_Name "你好，Ahchi！你好吗？"
+    ch_Name "你好，Ahchi！过得怎么样？"
 
 # game/logic/events/ahchi.rpy:798
 translate chinese CF_Ahchi_1_label_763e1d8f:
@@ -2757,13 +2757,13 @@ translate chinese CF_Ahchi_1_label_94522089:
 translate chinese CF_Ahchi_1_label_ca4a76ad:
 
     # Ahchi "How else would you get here?"
-    Ahchi "你怎么来这里？"
+    Ahchi "要不然你怎么会来这里呢？"
 
 # game/logic/events/ahchi.rpy:803
 translate chinese CF_Ahchi_1_label_d18526a2:
 
     # ch_Name "Huh, that's true. By the way, my name is [Name]."
-    ch_Name "嗯，确实。顺便说一下，我的名字叫[Name]。"
+    ch_Name "嗯，确实。顺便说一下，我叫[Name]。"
 
 # game/logic/events/ahchi.rpy:804
 translate chinese CF_Ahchi_1_label_307d1c84:
@@ -2793,7 +2793,7 @@ translate chinese CF_Ahchi_1_label_16fc89fa:
 translate chinese CF_Ahchi_1_label_3766c058:
 
     # Ahchi "Bingo! But now it's more of a storybook club, about old times."
-    Ahchi "没错！但现在它更像是一个故事书俱乐部，关于过去的故事。"
+    Ahchi "没错！但现在它更像是一个故事书俱乐部，都是一些老故事。"
 
 # game/logic/events/ahchi.rpy:811
 translate chinese CF_Ahchi_1_label_666528b5:
@@ -2805,19 +2805,19 @@ translate chinese CF_Ahchi_1_label_666528b5:
 translate chinese CF_Ahchi_1_label_2c5de84d:
 
     # Ahchi "They say he heard that there are dragons in the mountains above Dale."
-    Ahchi "他们说他听说山谷上方的山上有龙。"
+    Ahchi "有人说他知道Dale的山上有龙。"
 
 # game/logic/events/ahchi.rpy:813
 translate chinese CF_Ahchi_1_label_e293a2e1:
 
     # Ahchi "Can you believe it? I wish I could see a dragon with my own eyes."
-    Ahchi "你相信吗？我希望我能亲眼看到龙。"
+    Ahchi "你信吗？我希望我能亲眼看到龙。"
 
 # game/logic/events/ahchi.rpy:815
 translate chinese CF_Ahchi_1_label_1126f449:
 
     # ch_Name "Extinct? Are you sure about that?"
-    ch_Name "灭绝了吗？你确定吗？"
+    ch_Name "灭绝了？你确定吗？"
 
 # game/logic/events/ahchi.rpy:816
 translate chinese CF_Ahchi_1_label_aa19ad03:
@@ -2829,37 +2829,37 @@ translate chinese CF_Ahchi_1_label_aa19ad03:
 translate chinese CF_Ahchi_1_label_2d19c4ef:
 
     # Ahchi "Oh, come on! You're not lying?"
-    Ahchi "哦，来吧！你没有说谎？"
+    Ahchi "哦，得了吧！你没有说谎吗？"
 
 # game/logic/events/ahchi.rpy:818
 translate chinese CF_Ahchi_1_label_88685b49:
 
     # ch_Name "Why would I lie? I didn't even know it was rare..."
-    ch_Name "我为什么要撒谎？我甚至不知道这很罕见..."
+    ch_Name "我为什么要撒谎？我甚至不知道龙很罕见..."
 
 # game/logic/events/ahchi.rpy:819
 translate chinese CF_Ahchi_1_label_1f63e0d6:
 
     # Ahchi "Lucky me! Big ones? Breathing fire? How did you survive?"
-    Ahchi "我太幸运了！大的吗？喷火?你是怎么活下来的？"
+    Ahchi "我太幸运了！它们很大？喷火吗？你是怎么活下来的？"
 
 # game/logic/events/ahchi.rpy:820
 translate chinese CF_Ahchi_1_label_bf80a1c7:
 
     # Ahchi "Tell me everything!"
-    Ahchi "告诉我一切！"
+    Ahchi "快跟我说说！"
 
 # game/logic/events/ahchi.rpy:822
 translate chinese CF_Ahchi_1_label_0a9e5ce7:
 
     # ch_Name "Hmm... I'd love to, but I'm starving."
-    ch_Name "嗯...我很想，但是我快饿死了。"
+    ch_Name "嗯...我很想，但是我要饿死了。"
 
 # game/logic/events/ahchi.rpy:823
 translate chinese CF_Ahchi_1_label_29fb3b25:
 
     # ch_Name "Do you have any advice on what to eat?"
-    ch_Name "你想吃什么？"
+    ch_Name "关于吃的，你有什么建议？"
 
 # game/logic/events/ahchi.rpy:824
 translate chinese CF_Ahchi_1_label_fa1342e3:
@@ -2871,25 +2871,25 @@ translate chinese CF_Ahchi_1_label_fa1342e3:
 translate chinese CF_Ahchi_1_label_05ca34a4:
 
     # Ahchi "I just got a delivery today that sells out in a matter of hours."
-    Ahchi "我今天刚收到一份快递几小时内就卖光了。"
+    Ahchi "我今天刚收到一份外卖，这个东西几个小时内就卖光了。"
 
 # game/logic/events/ahchi.rpy:827
 translate chinese CF_Ahchi_1_label_dd4dda29:
 
     # Ahchi "There you go!"
-    Ahchi "走吧！"
+    Ahchi "尝尝！"
 
 # game/logic/events/ahchi.rpy:828
 translate chinese CF_Ahchi_1_label_80902941:
 
     # ch_Name "That looks great. What is it?"
-    ch_Name "看起来很好。它是什么?"
+    ch_Name "看起来不错。这是什么?"
 
 # game/logic/events/ahchi.rpy:829
 translate chinese CF_Ahchi_1_label_fb4a43fb:
 
     # Ahchi "Enchanted roll. It's just the name."
-    Ahchi "魔法卷。像名字一样。"
+    Ahchi "魔法卷。就是这个名字。"
 
 # game/logic/events/ahchi.rpy:830
 translate chinese CF_Ahchi_1_label_758cd741:
@@ -2913,31 +2913,31 @@ translate chinese CF_Ahchi_1_label_307a5230:
 translate chinese CF_Ahchi_1_label_0479a329:
 
     # Ahchi "Just tell me about the dragons!"
-    Ahchi "快告诉我关于龙的事！"
+    Ahchi "快跟我说说龙的事！"
 
 # game/logic/events/ahchi.rpy:835
 translate chinese CF_Ahchi_1_label_ac570391:
 
     # ch_Name "Huh, wow. Thank you very much. I'd be happy to tell you."
-    ch_Name "嗯，哇。非常感谢。我很乐意告诉你。"
+    ch_Name "嗯，哇。非常感谢。我很开心，那就告诉你吧。"
 
 # game/logic/events/ahchi.rpy:837
 translate chinese CF_Ahchi_1_label_bfd0cf3d:
 
     # ch_Name "{i}(Ahchi enjoyed listening to the story about the dragons we saw with Haley.){/i}"
-    ch_Name "{i}(Ahchi很喜欢听我们和Haley一起看到的龙的故事。){/i}"
+    ch_Name "{i}(Ahchi很喜欢听我说我和Haley一起看到的龙的故事。){/i}"
 
 # game/logic/events/ahchi.rpy:838
 translate chinese CF_Ahchi_1_label_195eaddc:
 
     # ch_Name "{i}(He's surprisingly easy and fun to talk to, and also a good listener.){/i}"
-    ch_Name "{i}(他是一个非常容易和有趣的谈话的人，也是一个很好的倾听者。){/i}"
+    ch_Name "{i}(他是一个非常随和且有趣的谈话对象，也是一个很好的倾听者。){/i}"
 
 # game/logic/events/ahchi.rpy:839
 translate chinese CF_Ahchi_1_label_dad808b9:
 
     # ch_Name "{i}(If he didn't have other visitors, we'd be chatting until closing time.){/i}"
-    ch_Name "{i}(如果他没有其他访客，我们会一直聊到关门时间。){/i}"
+    ch_Name "{i}(如果他没有其他顾客，我们会一直聊到打烊。){/i}"
 
 # game/logic/events/ahchi.rpy:851
 translate chinese CF_Ahchi_2_label_c31d152b:
@@ -2949,7 +2949,7 @@ translate chinese CF_Ahchi_2_label_c31d152b:
 translate chinese CF_Ahchi_2_label_3f26d7ac:
 
     # Ahchi "It's going pretty good. Thanks to the students, I'm always afloat."
-    Ahchi "一切都很顺利。多亏了学生们，我才能继续开张。"
+    Ahchi "一切都很顺利。多亏了同学们，我才能继续开张。"
 
 # game/logic/events/ahchi.rpy:853
 translate chinese CF_Ahchi_2_label_faf8687c:
@@ -2961,7 +2961,7 @@ translate chinese CF_Ahchi_2_label_faf8687c:
 translate chinese CF_Ahchi_2_label_8f6aa11c:
 
     # ch_Name "I want to quench my thirst. What can I get you?"
-    ch_Name "我想解渴。您要做什么？"
+    ch_Name "我渴了。您能给我做什么？"
 
 # game/logic/events/ahchi.rpy:856
 translate chinese CF_Ahchi_2_label_d5a01eea:
@@ -2973,7 +2973,7 @@ translate chinese CF_Ahchi_2_label_d5a01eea:
 translate chinese CF_Ahchi_2_label_53d8459d:
 
     # ch_Name "Of course I do."
-    ch_Name "当然，我喜欢。"
+    ch_Name "当然。"
 
 # game/logic/events/ahchi.rpy:858
 translate chinese CF_Ahchi_2_label_a43d2d51:
@@ -2985,13 +2985,13 @@ translate chinese CF_Ahchi_2_label_a43d2d51:
 translate chinese CF_Ahchi_2_label_bd6fa9cb:
 
     # ch_Name "Sounds weird, but I'm in."
-    ch_Name "听起来很奇怪，但我可以。"
+    ch_Name "听起来很奇怪，但我可以试试。"
 
 # game/logic/events/ahchi.rpy:861
 translate chinese CF_Ahchi_2_label_3da033dc:
 
     # Ahchi "I'll be right there."
-    Ahchi "我马上就来。"
+    Ahchi "马上就来。"
 
 # game/logic/events/ahchi.rpy:862
 translate chinese CF_Ahchi_2_label_db16e8fe:
@@ -3003,7 +3003,7 @@ translate chinese CF_Ahchi_2_label_db16e8fe:
 translate chinese CF_Ahchi_2_label_7c828677:
 
     # ch_Name "Gordon? No, what happened?"
-    ch_Name "Gordon？不，发生了什么事?"
+    ch_Name "Gordon？没有啊，发生了什么事?"
 
 # game/logic/events/ahchi.rpy:865
 translate chinese CF_Ahchi_2_label_9fc12201:
@@ -3021,13 +3021,13 @@ translate chinese CF_Ahchi_2_label_3c19d858:
 translate chinese CF_Ahchi_2_label_da87f1cf:
 
     # Ahchi "Right in Gordon's face."
-    Ahchi "就在Gordon的脸上。"
+    Ahchi "就当着Gordon的面。"
 
 # game/logic/events/ahchi.rpy:868
 translate chinese CF_Ahchi_2_label_d01f092f:
 
     # ch_Name "{i}(Ugh, I don't envy him...){/i}"
-    ch_Name "{i}(呃，我不羡慕他...){/i}"
+    ch_Name "{i}(呃，我并不羡慕他...){/i}"
 
 # game/logic/events/ahchi.rpy:869
 translate chinese CF_Ahchi_2_label_86dd4401:
@@ -3039,13 +3039,13 @@ translate chinese CF_Ahchi_2_label_86dd4401:
 translate chinese CF_Ahchi_2_label_0e2694ac:
 
     # Ahchi "I'd never seen a man beaten with raw fish before."
-    Ahchi "我从没见过有人用生鱼打人。"
+    Ahchi "我从没见过有人用活鱼打人。"
 
 # game/logic/events/ahchi.rpy:872
 translate chinese CF_Ahchi_2_label_29cb63c2:
 
     # Ahchi "But it was spectacular."
-    Ahchi "但这是壮观的。"
+    Ahchi "真是壮观。"
 
 # game/logic/events/ahchi.rpy:873
 translate chinese CF_Ahchi_2_label_4bf1f5db:
@@ -3063,7 +3063,7 @@ translate chinese CF_Ahchi_2_label_c734abf5:
 translate chinese CF_Ahchi_2_label_9296df75:
 
     # ch_Name "{i}(I wish I'd seen it! It must have been quite a sight.){/i}"
-    ch_Name "{i}(我真希望我看到了！那一定很壮观。){/i}"
+    ch_Name "{i}(我真希望我能亲眼看看！那一定很壮观。){/i}"
 
 # game/logic/events/ahchi.rpy:877
 translate chinese CF_Ahchi_2_label_d6d59e22:
@@ -3081,7 +3081,7 @@ translate chinese CF_Ahchi_2_label_3d22d094:
 translate chinese CF_Ahchi_2_label_26e2c164:
 
     # Ahchi "One Pumpkin Latte to your order."
-    Ahchi "给您点一杯南瓜拿铁。"
+    Ahchi "给您上一杯南瓜拿铁。"
 
 # game/logic/events/ahchi.rpy:881
 translate chinese CF_Ahchi_2_label_3a5c7650:
@@ -3135,19 +3135,19 @@ translate chinese CF_Ahchi_2_label_67d48020:
 translate chinese CF_Ahchi_2_label_3e65b2b6:
 
     # ch_Name "{i}(This guy's a goddamn wizard!){/i}"
-    ch_Name "{i}(这家伙是个该死的巫师!){/i}"
+    ch_Name "{i}(这家伙他妈的是个魔法师!){/i}"
 
 # game/logic/events/ahchi.rpy:893
 translate chinese CF_Ahchi_2_label_e7d59ecf:
 
     # ch_Name "That's what you need! Even more than that."
-    ch_Name "这就是你需要的！甚至更多。"
+    ch_Name "这就是你想要的！我还能再夸张一点。"
 
 # game/logic/events/ahchi.rpy:894
 translate chinese CF_Ahchi_2_label_4620c531:
 
     # ch_Name "It's a masterpiece!"
-    ch_Name "这是一个杰作！"
+    ch_Name "堪称杰作！"
 
 # game/logic/events/ahchi.rpy:895
 translate chinese CF_Ahchi_2_label_ffdf8df9:
@@ -3177,7 +3177,7 @@ translate chinese CF_Ahchi_3_label_b4fe6b7c:
 translate chinese CF_Ahchi_3_label_89a3c9cf:
 
     # ch_Name "What's your surprise today?"
-    ch_Name "你今天的惊喜是什么？"
+    ch_Name "你今天的又有什么惊喜啊？"
 
 # game/logic/events/ahchi.rpy:912
 translate chinese CF_Ahchi_3_label_a1a1005e:
@@ -3195,7 +3195,7 @@ translate chinese CF_Ahchi_3_label_bf474da2:
 translate chinese CF_Ahchi_3_label_17d84ca0:
 
     # ch_Name "Heh. Of course, it's a story."
-    ch_Name "哈。当然，这是一个故事。"
+    ch_Name "哈。当然是一个故事了。"
 
 # game/logic/events/ahchi.rpy:916
 translate chinese CF_Ahchi_3_label_6804af7f:
@@ -3207,7 +3207,7 @@ translate chinese CF_Ahchi_3_label_6804af7f:
 translate chinese CF_Ahchi_3_label_9bf0946c:
 
     # Ahchi "Then it'll be two for one."
-    Ahchi "那就是二变一了。"
+    Ahchi "那就是花一分钱买两份惊喜了。"
 
 # game/logic/events/ahchi.rpy:919
 translate chinese CF_Ahchi_3_label_b936bb84:
@@ -3219,7 +3219,7 @@ translate chinese CF_Ahchi_3_label_b936bb84:
 translate chinese CF_Ahchi_3_label_39b1d81b:
 
     # Ahchi "Not a single victim, unless you count the girl who broke her knee running away."
-    Ahchi "一个受害者都没有，除非你算上那个摔断膝盖逃跑的女孩。"
+    Ahchi "一个受害者都没有，除非你算上那个摔伤膝盖逃跑的女孩。"
 
 # game/logic/events/ahchi.rpy:921
 translate chinese CF_Ahchi_3_label_d558ace0:
@@ -3237,7 +3237,7 @@ translate chinese CF_Ahchi_3_label_abae4ef0:
 translate chinese CF_Ahchi_3_label_d2908df4:
 
     # ch_Name "{i}(Could it be that giant? No, that sounds crazy...){/i}"
-    ch_Name "{i}(有那么大吗？不，这听起来很疯狂...){/i}"
+    ch_Name "{i}(那会是巨人吗？不，这听起来很疯狂...){/i}"
 
 # game/logic/events/ahchi.rpy:925
 translate chinese CF_Ahchi_3_label_bf070351:
@@ -3249,7 +3249,7 @@ translate chinese CF_Ahchi_3_label_bf070351:
 translate chinese CF_Ahchi_3_label_4aedf8e7:
 
     # Ahchi "But interesting. Why blondes in particular?"
-    Ahchi "但也很有趣。为什么是金发女郎呢？"
+    Ahchi "但也很有趣。为什么会是金发女郎呢？"
 
 # game/logic/events/ahchi.rpy:927
 translate chinese CF_Ahchi_3_label_5e4acdf9:
@@ -3267,7 +3267,7 @@ translate chinese CF_Ahchi_3_label_ff4afb9b:
 translate chinese CF_Ahchi_3_label_6ab5f741:
 
     # Ahchi "Do you want it exactly the same as last time, or should I sprinkle it with dried roses?"
-    Ahchi "你想要和上次一模一样，还是要我在上面撒些干玫瑰？"
+    Ahchi "你想要和上次一样，还是要我在上面撒些干玫瑰？"
 
 # game/logic/events/ahchi.rpy:931
 translate chinese CF_Ahchi_3_label_3ca0aa8a:
@@ -3297,7 +3297,7 @@ translate chinese CF_Ahchi_3_label_2b457faf:
 translate chinese CF_Ahchi_3_label_41d62b80:
 
     # Ahchi "Tell me later how you like this recipe."
-    Ahchi "稍后告诉我你喜欢这个食谱吗。"
+    Ahchi "稍后告诉我你觉得这个搭配怎么样。"
 
 # game/logic/events/ahchi.rpy:937
 translate chinese CF_Ahchi_3_label_874b9ce4:
@@ -3363,7 +3363,7 @@ translate chinese CF_Ahchi_4_label_a9d5e155:
 translate chinese CF_Ahchi_4_label_3891a6df:
 
     # ch_Name "Anything new?"
-    ch_Name "新东西吗？"
+    ch_Name "有新品吗？"
 
 # game/logic/events/ahchi.rpy:960
 translate chinese CF_Ahchi_4_label_371a7f24:
@@ -3375,13 +3375,13 @@ translate chinese CF_Ahchi_4_label_371a7f24:
 translate chinese CF_Ahchi_4_label_3b367f9b:
 
     # Ahchi "It's going great. I came up with a new recipe!"
-    Ahchi "它很好。我想出了一个新食谱！"
+    Ahchi "太好了。我想出了一个新食谱！"
 
 # game/logic/events/ahchi.rpy:963
 translate chinese CF_Ahchi_4_label_616d1087:
 
     # Ahchi "Orange cappuccino with unicorn tears."
-    Ahchi "橙色卡布奇诺配独角兽眼泪。"
+    Ahchi "橙子卡布奇诺配独角兽眼泪。"
 
 # game/logic/events/ahchi.rpy:964
 translate chinese CF_Ahchi_4_label_50cbc804:
@@ -3429,13 +3429,13 @@ translate chinese CF_Ahchi_4_label_9135f026:
 translate chinese CF_Ahchi_4_label_a9a58dc2:
 
     # ch_Name "{i}(Since Ahchi is buying me coffee, I can afford to get some food.){/i}"
-    ch_Name "{i}(既然Ahchi请我喝咖啡，我就能买些吃的。){/i}"
+    ch_Name "{i}(既然Ahchi请我喝咖啡，那我就买些吃的吧。){/i}"
 
 # game/logic/events/ahchi.rpy:974
 translate chinese CF_Ahchi_4_label_6d8cbfb0:
 
     # ch_Name "I think I'll have that nice roll to go with it."
-    ch_Name "我想我会有一个漂亮的卷来搭配它。"
+    ch_Name "我想我会买一个漂亮的面包卷来搭配它。"
 
 # game/logic/events/ahchi.rpy:975
 translate chinese CF_Ahchi_4_label_33ee5232:
@@ -3447,13 +3447,13 @@ translate chinese CF_Ahchi_4_label_33ee5232:
 translate chinese CF_Ahchi_4_label_76ade1ec:
 
     # ch_Name "I'll take your word for it."
-    ch_Name "我相信你的话。"
+    ch_Name "我记住了。"
 
 # game/logic/events/ahchi.rpy:978
 translate chinese CF_Ahchi_4_label_dea6d119:
 
     # Ahchi "A couple of moments and your drink will be ready."
-    Ahchi "稍等片刻，你的饮料就好了。"
+    Ahchi "稍等片刻，你的饮料马上就好。"
 
 # game/logic/events/ahchi.rpy:979
 translate chinese CF_Ahchi_4_label_b7992447:
@@ -3465,19 +3465,19 @@ translate chinese CF_Ahchi_4_label_b7992447:
 translate chinese CF_Ahchi_4_label_95f9d601:
 
     # Ahchi "Your drink, please. Appleseed's signature cappuccino!"
-    Ahchi "您的饮料，请。苹果的签名卡布奇诺！"
+    Ahchi "您的饮料，请。苹果公司招牌卡布奇诺！"
 
 # game/logic/events/ahchi.rpy:982
 translate chinese CF_Ahchi_4_label_07a419c4:
 
     # Ahchi "Enjoy while I get your roll."
-    Ahchi "好好享受，我去拿你的卷。"
+    Ahchi "好好享受，我去拿你的面包卷。"
 
 # game/logic/events/ahchi.rpy:983
 translate chinese CF_Ahchi_4_label_3a400630:
 
     # ch_Name "(Sniffs) Thank you. Mmm, that smells good!"
-    ch_Name "(嗅探)谢谢。嗯，闻起来真香！"
+    ch_Name "(嗅)谢谢。嗯，闻起来真香！"
 
 # game/logic/events/ahchi.rpy:985
 translate chinese CF_Ahchi_4_label_42081cc8:
@@ -3489,7 +3489,7 @@ translate chinese CF_Ahchi_4_label_42081cc8:
 translate chinese CF_Ahchi_4_label_728603e2:
 
     # ch_Name "I never would have thought orange and cotton candy would be so accentuated..."
-    ch_Name "我从没想过橙色和棉花糖会如此突出..."
+    ch_Name "我从没想过橙味和棉花糖味会如此突出..."
 
 # game/logic/events/ahchi.rpy:987
 translate chinese CF_Ahchi_4_label_1e63a354:
@@ -3501,31 +3501,31 @@ translate chinese CF_Ahchi_4_label_1e63a354:
 translate chinese CF_Ahchi_4_label_54f03489:
 
     # Ahchi "Here's your roll."
-    Ahchi "这是你的卷。"
+    Ahchi "这是你的面包卷。"
 
 # game/logic/events/ahchi.rpy:990
 translate chinese CF_Ahchi_4_label_ad74fd2e:
 
     # Ahchi "Bon appétit!"
-    Ahchi "享受你的一餐！"
+    Ahchi "Bon appétit！（法语：祝您用餐愉快）"
 
 # game/logic/events/ahchi.rpy:991
 translate chinese CF_Ahchi_4_label_13815555:
 
     # ch_Name "I don't know how I ever lived without this cafe. Thank you so much."
-    ch_Name "我不知道没有这家咖啡馆我是怎么活下来的。非常感谢你。"
+    ch_Name "我不知道没有这家咖啡馆我还怎么活得下去。非常感谢。"
 
 # game/logic/events/ahchi.rpy:993
 translate chinese CF_Ahchi_4_label_b2fb0f4c:
 
     # Ahchi "You're welcome, friend. Your smile makes my day better."
-    Ahchi "你太客气了，朋友。你的微笑让我的日子更美好。"
+    Ahchi "你太客气了，朋友。你的微笑让我的生活更美好。"
 
 # game/logic/events/ahchi.rpy:994
 translate chinese CF_Ahchi_4_label_948f3703:
 
     # Ahchi "So come back for more."
-    Ahchi "所以再多光顾。"
+    Ahchi "所以多多光顾。"
 
 # game/logic/events/ahchi.rpy:995
 translate chinese CF_Ahchi_4_label_7bb14ae0:
@@ -3613,13 +3613,13 @@ translate chinese strings:
 translate chinese CF_S2_label_e19d63b6:
 
     # ch_Name "{i}(Lily is a sci-fi fan. I never would have thought...){/i}"
-    ch_Name "{i}（Lily是个科幻迷。我从没想过。。。）{/i}"
+    ch_Name "{i}（Lily是个科幻迷。我真没想到……）{/i}"
 
 # game/logic/events/ahchi.rpy:325
 translate chinese CF_S2_label_7af8f647:
 
     # ch_Name "{i}(Okay, that was nice, but I never got my coffee.){/i}"
-    ch_Name "{i}（好吧，你说得很好，但我没喝咖啡。）{/i}"
+    ch_Name "{i}（好吧，很不错，但我还没喝咖啡。）{/i}"
 
 # game/logic/events/ahchi.rpy:326
 translate chinese CF_S2_label_8a92ff38:
@@ -3649,13 +3649,13 @@ translate chinese CF_S2_label_d31de49f:
 translate chinese CF_S2_label_ac1a89bd:
 
     # ch_Name "{i}(I think it's worth adding my presence to their company.){/i}"
-    ch_Name "{i}（我认为在他们公司增加我的影响力是值得的。）{/i}"
+    ch_Name "{i}（我认为在她们中间增加我的影响力是值得的。）{/i}"
 
 # game/logic/events/ahchi.rpy:340
 translate chinese CF_S2_label_4f7e3d5b:
 
     # ch_Name "Hi, girls!"
-    ch_Name "嗨，女孩！"
+    ch_Name "嗨，姑娘们！"
 
 # game/logic/events/ahchi.rpy:445
 translate chinese CF_S2_label_1285adc7:
@@ -3673,7 +3673,7 @@ translate chinese CF_S2_label_0918f325:
 translate chinese CF_S2_label_68b53f0f:
 
     # ch_Name "I'm almost done. Why?"
-    ch_Name "我差不多要做完了。为什么？"
+    ch_Name "我差不多要喝完了。怎么了？"
 
 # game/logic/events/ahchi.rpy:449
 translate chinese CF_S2_label_0aab4d7a:
@@ -3685,13 +3685,13 @@ translate chinese CF_S2_label_0aab4d7a:
 translate chinese CF_S2_label_cf86d6e9:
 
     # Samantha "You know how Jacob's gonna be if we delay the ferry."
-    Samantha "你知道如果我们推迟渡船，雅各布会怎么样。"
+    Samantha "你知道如果我们上船迟到，雅各布会怎么样。"
 
 # game/logic/events/ahchi.rpy:451
 translate chinese CF_S2_label_1f0ec4ca:
 
     # Audrey "Ah-ha-ha. Right. I can't take another lecture on responsibility."
-    Audrey "啊-哈-哈。正确的。我不想再听关于责任的说教了。"
+    Audrey "啊哈哈。说得对。我不想再听关于责任的说教了。"
 
 # game/logic/events/ahchi.rpy:452
 translate chinese CF_S2_label_73185c20:
@@ -3703,19 +3703,19 @@ translate chinese CF_S2_label_73185c20:
 translate chinese CF_S2_label_0b58d88e:
 
     # Samantha "Thank you, Ahchi! That was great."
-    Samantha "谢谢你，Ahchi！这是伟大的。"
+    Samantha "谢谢你，Ahchi！咖啡太棒了。"
 
 # game/logic/events/ahchi.rpy:455
 translate chinese CF_S2_label_0e3f16ca:
 
     # Ahchi "Glad to try! Come back again!"
-    Ahchi "很高兴试试！再回来！"
+    Ahchi "很高兴你们来品尝！再回来哦！"
 
 # game/logic/events/ahchi.rpy:456
 translate chinese CF_S2_label_02ab96ef:
 
     # ch_Name "We will, if we win the house competition."
-    ch_Name "我们会的，如果我们赢得了室内比赛。"
+    ch_Name "我们会的，如果我们赢得了分院比赛的话。"
 
 # game/logic/events/ahchi.rpy:457
 translate chinese CF_S2_label_ed850162:
@@ -3793,31 +3793,31 @@ translate chinese CF_S3_label_b0774a22:
 translate chinese CF_S3_label_9a457d4a:
 
     # ch_Name "{i}(I think I'll keep them company.){/i}"
-    ch_Name "{i}（我想我会陪着他们。）{/i}"
+    ch_Name "{i}（我会陪着她们。）{/i}"
 
 # game/logic/events/ahchi.rpy:489
 translate chinese CF_S3_label_893ec62c:
 
     # ch_Name "Hey there, girls!"
-    ch_Name "嘿，女孩！"
+    ch_Name "嘿，姑娘们！"
 
 # game/logic/events/ahchi.rpy:591
 translate chinese CF_S3_label_4190a827:
 
     # ch_Name "{i}(No, it's better not to bother her too much.){/i}"
-    ch_Name "{i}（不，最好不要太打扰她。）{/i}"
+    ch_Name "{i}（不，最好不要打扰她。）{/i}"
 
 # game/logic/events/ahchi.rpy:592
 translate chinese CF_S3_label_fd77ad50:
 
     # ch_Name "{i}(Oh, it's so late already? I've spent too much time with the girls. I'm going for a walk.){/i}"
-    ch_Name "{i}（哦，已经这么晚了?我和姑娘们在一起的时间太长了。我要去散步。）{/i}"
+    ch_Name "{i}（哦，已经这么晚了？我和姑娘们在一起的时间太长了。我要去散步了。）{/i}"
 
 # game/logic/events/ahchi.rpy:594
 translate chinese CF_S3_label_c7d85ac0:
 
     # ch_Name "{i}(It's beautiful here.){/i}"
-    ch_Name "{i}（这里的美丽。）{/i}"
+    ch_Name "{i}（这里真美。）{/i}"
 
 # game/logic/events/ahchi.rpy:595
 translate chinese CF_S3_label_15b55d56:
@@ -3835,13 +3835,13 @@ translate chinese CF_S3_label_281dc17f:
 translate chinese CF_S3_label_563385db:
 
     # Romul "Stop! There's a fee to get into the club, buddy."
-    Romul "停！要入会是要收费的，伙计。"
+    Romul "站住！入场是要收费的，伙计。"
 
 # game/logic/events/ahchi.rpy:604
 translate chinese CF_S3_label_c87a1f3c:
 
     # ch_Name "What? You must be kidding me, big boy."
-    ch_Name "什么？你一定是在开玩笑吧，大孩子。"
+    ch_Name "什么？你一定是在开玩笑吧，大男孩。"
 
 # game/logic/events/ahchi.rpy:605
 translate chinese CF_S3_label_924ba140:
@@ -3853,25 +3853,25 @@ translate chinese CF_S3_label_924ba140:
 translate chinese CF_S3_label_1ed77277:
 
     # ch_Name "Nah. Look, here's my VIP pass. Any more questions?"
-    ch_Name "不。看，这是我的贵宾卡。更多的问题吗？"
+    ch_Name "不。看，这是我的贵宾卡。还有问题吗？"
 
 # game/logic/events/ahchi.rpy:608
 translate chinese CF_S3_label_4da1e0ad:
 
     # Romul "Hmm... It's really a VIP pass."
-    Romul "嗯。。。这真的是一张VIP通行证。"
+    Romul "嗯……这真的是一张VIP通行证。"
 
 # game/logic/events/ahchi.rpy:609
 translate chinese CF_S3_label_e6cf0f73:
 
     # ch_Name "So can I go in?"
-    ch_Name "我能进去吗？"
+    ch_Name "所以我能进去了吗？"
 
 # game/logic/events/ahchi.rpy:611
 translate chinese CF_S3_label_a5fcfca5:
 
     # Romul "Go ahead, of course. Sorry, I didn't recognize you right away."
-    Romul "当然可以。抱歉，我没马上认出你来。"
+    Romul "当然可以。抱歉，我没有立即认出你。"
 
 # game/logic/events/ahchi.rpy:612
 translate chinese CF_S3_label_502169ac:
@@ -3899,7 +3899,7 @@ translate chinese CF_S5_label_889724bc:
 translate chinese CF_S5_label_d9265691:
 
     # ch_Name "{i}（The club has probably opened already.){/i}"
-    ch_Name "{i}（俱乐部可能已经开业了。）{/i}"
+    ch_Name "{i}（俱乐部可能已经开门了。）{/i}"
 
 # game/logic/events/ahchi.rpy:881
 translate chinese CF_S5_label_e63f9a55:
@@ -3941,7 +3941,7 @@ translate chinese CF_S5_label_19f4a13b:
 translate chinese CF_S5_label_ad0c5a2d:
 
     # ch_Name "{i}（But I wouldn't be surprised if she's binge-reading the whole city library.){/i}"
-    ch_Name "{i}（但如果她在全城图书馆大肆阅读，我也不会感到惊讶。){/i}"
+    ch_Name "{i}（但如果她在全城的图书馆里大肆阅读，我也不会感到惊讶。){/i}"
 
 # game/logic/events/ahchi.rpy:899
 translate chinese CF_S5_label_9a01766c:
@@ -3965,13 +3965,13 @@ translate chinese CF_S5_label_57766f08:
 translate chinese CF_Ahchi_2_label_e7d59ecf_1:
 
     # ch_Name "That's what you need! Even more than that."
-    ch_Name "这就是你需要的！甚至比这还要多。"
+    ch_Name "这就是你想要的！我还能表现得更夸张。"
 
 # game/logic/events/ahchi.rpy:1018
 translate chinese CF_Ahchi_2_label_4620c531_1:
 
     # ch_Name "It's a masterpiece!"
-    ch_Name "这是一部杰作！"
+    ch_Name "简直就是杰作！"
 
 # game/logic/events/ahchi.rpy:1019
 translate chinese CF_Ahchi_2_label_05b553f3:
@@ -3983,7 +3983,7 @@ translate chinese CF_Ahchi_2_label_05b553f3:
 translate chinese CF_Ahchi_2_label_4a4c5e9f_1:
 
     # Ahchi "Nothing warms the soul like a satisfied customer."
-    Ahchi "没有什么比满意的顾客更能温暖灵魂了。"
+    Ahchi "没有什么比满意的顾客更能温暖人心了。"
 
 # game/logic/events/ahchi.rpy:1022
 translate chinese CF_Ahchi_2_label_a527d8e7:
@@ -4001,13 +4001,13 @@ translate chinese CF_Ahchi_2_label_56795ea9_1:
 translate chinese CF_Ahchi_3_label_fdc49706:
 
     # ch_Name "Actually, about that..."
-    ch_Name "事实上，关于这个。。。"
+    ch_Name "事实上，关于这个……"
 
 # game/logic/events/ahchi.rpy:1067
 translate chinese CF_Ahchi_3_label_36139648:
 
     # ch_Name "I won't be coming for some time."
-    ch_Name "我有一段时间不来了。"
+    ch_Name "我有一段时间没来了。"
 
 # game/logic/events/ahchi.rpy:1068
 translate chinese CF_Ahchi_3_label_fbc9d237:
@@ -4025,13 +4025,13 @@ translate chinese CF_Ahchi_3_label_02a6bbfa:
 translate chinese CF_Ahchi_3_label_66aafa9f:
 
     # ch_Name "So I'm pretty sure no students will come in a few weeks."
-    ch_Name "所以我很确定几周内不会有学生来。"
+    ch_Name "所以我很确定几周内不会有学生来了。"
 
 # game/logic/events/ahchi.rpy:1072
 translate chinese CF_Ahchi_3_label_43c5d9aa:
 
     # Ahchi "Ah, that's a shame..."
-    Ahchi "真遗憾。。。"
+    Ahchi "真遗憾……"
 
 # game/logic/events/ahchi.rpy:1073
 translate chinese CF_Ahchi_3_label_f3d8c9ec:
@@ -4073,7 +4073,7 @@ translate chinese CF_Ahchi_3_label_5c9a3af8:
 translate chinese CF_Ahchi_3_label_6084f42f:
 
     # ch_Name "Have a good day!"
-    ch_Name "祝您今天过得愉快！"
+    ch_Name "祝你今天过得愉快！"
 
 # game/logic/events/ahchi.rpy:1081
 translate chinese CF_Ahchi_3_label_be3aac5c:
