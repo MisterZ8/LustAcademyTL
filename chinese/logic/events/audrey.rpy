@@ -7624,7 +7624,7 @@ translate chinese Audrey_events_4_label_4_d9a2c4c0:
 translate chinese Audrey_events_4_label_4_0505b15c:
 
     # ch_Name "{i}(I have a feeling that you don't need that blanket.){/i}"
-    ch_Name "{i}(我觉得你不需要那条毯子。){/i}"
+    ch_Name "{i}(我觉得你不需要那条毯子了。){/i}"
 
 # game/logic/events/audrey.rpy:2347
 translate chinese Audrey_events_4_label_4_45b010da:
@@ -7660,13 +7660,13 @@ translate chinese Audrey_events_4_label_4_758abff3:
 translate chinese Audrey_events_4_label_4_5eb8e38c:
 
     # ch_Name "{i}(To feel them.){/i}"
-    ch_Name "{i}(感觉他们。){/i}"
+    ch_Name "{i}(摸摸看。){/i}"
 
 # game/logic/events/audrey.rpy:2355
 translate chinese Audrey_events_4_label_4_3cf00a50:
 
     # ch_Name "{i}(Ah, that's what I was hoping for...){/i}"
-    ch_Name "{i}(啊，这正是我所希望的...){/i}"
+    ch_Name "{i}(啊，这正是我想要的...){/i}"
 
 # game/logic/events/audrey.rpy:2356
 translate chinese Audrey_events_4_label_4_0039b627:
@@ -7678,19 +7678,19 @@ translate chinese Audrey_events_4_label_4_0039b627:
 translate chinese Audrey_events_4_label_4_d4653179:
 
     # ch_Name "{i}(But I can't be sure until I try both...){/i}"
-    ch_Name "{i}(但在我两个都试过之前，我不能确定...){/i}"
+    ch_Name "{i}(但在我两个都摸过之前，我还不能确定...){/i}"
 
 # game/logic/events/audrey.rpy:2359
 translate chinese Audrey_events_4_label_4_651772ab:
 
     # ch_Name "{i}(Oh yes.){/i}"
-    ch_Name "{i}(噢是的。){/i}"
+    ch_Name "{i}(噢真好。){/i}"
 
 # game/logic/events/audrey.rpy:2361
 translate chinese Audrey_events_4_label_4_91ce9b34:
 
     # ch_Name "{i}(That's what I'm talking about.){/i}"
-    ch_Name "{i}(这就是我想说的。){/i}"
+    ch_Name "{i}(我想说的就是这个。){/i}"
 
 # game/logic/events/audrey.rpy:2362
 translate chinese Audrey_events_4_label_4_424b8172:
@@ -7702,7 +7702,7 @@ translate chinese Audrey_events_4_label_4_424b8172:
 translate chinese Audrey_events_4_label_4_b4b66763:
 
     # ch_Name "{i}(Are you dreaming about me squeezing them?){/i}"
-    ch_Name "{i}(你梦到我捏他们了吗?){/i}"
+    ch_Name "{i}(你梦到我捏它们了吗?){/i}"
 
 # game/logic/events/audrey.rpy:2365
 translate chinese Audrey_events_4_label_4_32467d81:
@@ -7714,7 +7714,7 @@ translate chinese Audrey_events_4_label_4_32467d81:
 translate chinese Audrey_events_4_label_4_5ad53cd9:
 
     # ch_Name "{i}(And I'm happy to deliver this pleasure to you.){/i}"
-    ch_Name "{i}(我很高兴把这份荣幸带给你。){/i}"
+    ch_Name "{i}(我很高兴把这份快感带给你。){/i}"
 
 # game/logic/events/audrey.rpy:2368
 translate chinese Audrey_events_4_label_4_b8dbc381:
@@ -7750,7 +7750,7 @@ translate chinese Audrey_events_4_label_4_4eadd048:
 translate chinese Audrey_events_4_label_4_96d7d7ed:
 
     # ch_Name "{i}(Oh shit... Did she just talked through her sleep?){/i}"
-    ch_Name "{i}(哦屎... 她刚才是不是说梦话了?){/i}"
+    ch_Name "{i}(卧槽... 她刚才是不是说梦话了?){/i}"
 
 # game/logic/events/audrey.rpy:2376
 translate chinese Audrey_events_4_label_4_02480d3c:
@@ -7768,25 +7768,25 @@ translate chinese Audrey_events_4_label_4_a7afb175:
 translate chinese Audrey_events_4_label_4_f8216fe7:
 
     # ch_Name "{i}(I'll just gently move my hand...){/i}"
-    ch_Name "{i}(我只要轻轻移动我的手...){/i}"
+    ch_Name "{i}(我只要轻轻挪动我的手...){/i}"
 
 # game/logic/events/audrey.rpy:2381
 translate chinese Audrey_events_4_label_4_119d3389:
 
     # ch_Name "{i}(And here we are.){/i}"
-    ch_Name "{i}(我们到了。){/i}"
+    ch_Name "{i}(就是这里。){/i}"
 
 # game/logic/events/audrey.rpy:2382
 translate chinese Audrey_events_4_label_4_32b4afba:
 
     # ch_Name "{i}(Oh yes, you are a little bit wet...){/i}"
-    ch_Name "{i}(哦，是的，你有点湿...){/i}"
+    ch_Name "{i}(哦，是的，你有点湿了...){/i}"
 
 # game/logic/events/audrey.rpy:2383
 translate chinese Audrey_events_4_label_4_7dc1d089:
 
     # ch_Name "{i}(Are you ready to turn this bed into a lake, then?){/i}"
-    ch_Name "{i}(你准备好把这床变成湖了吗?){/i}"
+    ch_Name "{i}(你准备好把这张床变成湖了吗?){/i}"
 
 # game/logic/events/audrey.rpy:2385
 translate chinese Audrey_events_4_label_4_fa434e8f:
@@ -7816,7 +7816,7 @@ translate chinese Audrey_events_4_label_4_62e94daf:
 translate chinese Audrey_events_4_label_4_af04c5ca:
 
     # ch_Name "{i}(I wonder how far this can go...){/i}"
-    ch_Name "{i}(我想知道这能走多远...){/i}"
+    ch_Name "{i}(我想知道我能探索多远...){/i}"
 
 # game/logic/events/audrey.rpy:2390
 translate chinese Audrey_events_4_label_4_7b541e67:
@@ -7876,13 +7876,13 @@ translate chinese Audrey_events_4_label_4_shemale_d9a2c4c0:
 translate chinese Audrey_events_4_label_4_shemale_0505b15c:
 
     # ch_Name "{i}(I have a feeling that you don't need that blanket.){/i}"
-    ch_Name "{i}(我觉得你不需要那条毯子。){/i}"
+    ch_Name "{i}(我觉得你不需要那条毯子了。){/i}"
 
 # game/logic/events/audrey.rpy:2410
 translate chinese Audrey_events_4_label_4_shemale_45b010da:
 
     # ch_Name "{i}(Let's take that off...){/i}"
-    ch_Name "{i}(让我们把它拿掉...){/i}"
+    ch_Name "{i}(我们把它拿掉...){/i}"
 
 # game/logic/events/audrey.rpy:2411
 translate chinese Audrey_events_4_label_4_shemale_96295ed4:
@@ -7900,7 +7900,7 @@ translate chinese Audrey_events_4_label_4_shemale_b31fb100:
 translate chinese Audrey_events_4_label_4_shemale_21141cc9:
 
     # ch_Name "{i}(Don't worry, I'll be gentle with them.){/i}"
-    ch_Name "{i}(别担心，我会对他们温柔的。){/i}"
+    ch_Name "{i}(别担心，我会对它们温柔点的。){/i}"
 
 # game/logic/events/audrey.rpy:2415
 translate chinese Audrey_events_4_label_4_shemale_758abff3:
@@ -7912,13 +7912,13 @@ translate chinese Audrey_events_4_label_4_shemale_758abff3:
 translate chinese Audrey_events_4_label_4_shemale_5eb8e38c:
 
     # ch_Name "{i}(To feel them.){/i}"
-    ch_Name "{i}(感觉他们。){/i}"
+    ch_Name "{i}(摸摸看。){/i}"
 
 # game/logic/events/audrey.rpy:2418
 translate chinese Audrey_events_4_label_4_shemale_3cf00a50:
 
     # ch_Name "{i}(Ah, that's what I was hoping for...){/i}"
-    ch_Name "{i}(啊，这正是我所希望的...){/i}"
+    ch_Name "{i}(啊，这正是我想要的...){/i}"
 
 # game/logic/events/audrey.rpy:2419
 translate chinese Audrey_events_4_label_4_shemale_0039b627:
@@ -7930,7 +7930,7 @@ translate chinese Audrey_events_4_label_4_shemale_0039b627:
 translate chinese Audrey_events_4_label_4_shemale_d4653179:
 
     # ch_Name "{i}(But I can't be sure until I try both...){/i}"
-    ch_Name "{i}(但在我两个都试过之前，我不能确定){/i}"
+    ch_Name "{i}(但在我两个都摸过之前，我不能确定){/i}"
 
 # game/logic/events/audrey.rpy:2422
 translate chinese Audrey_events_4_label_4_shemale_651772ab:
@@ -7966,7 +7966,7 @@ translate chinese Audrey_events_4_label_4_shemale_32467d81:
 translate chinese Audrey_events_4_label_4_shemale_5ad53cd9:
 
     # ch_Name "{i}(And I'm happy to deliver this pleasure to you.){/i}"
-    ch_Name "{i}(我很高兴把这份荣幸带给你。){/i}"
+    ch_Name "{i}(我很高兴把这份快感带给你。){/i}"
 
 # game/logic/events/audrey.rpy:2431
 translate chinese Audrey_events_4_label_4_shemale_b8dbc381:
@@ -8002,7 +8002,7 @@ translate chinese Audrey_events_4_label_4_shemale_4eadd048:
 translate chinese Audrey_events_4_label_4_shemale_96d7d7ed:
 
     # ch_Name "{i}(Oh shit... Did she just talked through her sleep?){/i}"
-    ch_Name "{i}(哦屎... 她刚才是不是说梦话了?){/i}"
+    ch_Name "{i}(卧槽... 她刚才是不是说梦话了?){/i}"
 
 # game/logic/events/audrey.rpy:2439
 translate chinese Audrey_events_4_label_4_shemale_c75fa28c:
@@ -8014,43 +8014,43 @@ translate chinese Audrey_events_4_label_4_shemale_c75fa28c:
 translate chinese Audrey_events_4_label_4_shemale_7de846c2:
 
     # ch_Name "{i}(Now, let's see if your manly parts are happy to see me.){/i}"
-    ch_Name "{i}(现在，让我们看看你的男性部分是否乐意见到我。){/i}"
+    ch_Name "{i}(现在，让我们看看你的男性部位是否乐意见到我。){/i}"
 
 # game/logic/events/audrey.rpy:2442
 translate chinese Audrey_events_4_label_4_shemale_f8216fe7:
 
     # ch_Name "{i}(I'll just gently move my hand...){/i}"
-    ch_Name "{i}(我只要轻轻移动我的手...){/i}"
+    ch_Name "{i}(我只要轻轻挪动我的手...){/i}"
 
 # game/logic/events/audrey.rpy:2444
 translate chinese Audrey_events_4_label_4_shemale_119d3389:
 
     # ch_Name "{i}(And here we are.){/i}"
-    ch_Name "{i}(我们到了。){/i}"
+    ch_Name "{i}(就是这里。){/i}"
 
 # game/logic/events/audrey.rpy:2445
 translate chinese Audrey_events_4_label_4_shemale_19d64222:
 
     # ch_Name "{i}(What's the matter? I thought you liked my teasing...){/i}"
-    ch_Name "{i}(有什么事吗?我以为你喜欢我的取笑...){/i}"
+    ch_Name "{i}(怎么了？我以为你喜欢我的挑逗...){/i}"
 
 # game/logic/events/audrey.rpy:2446
 translate chinese Audrey_events_4_label_4_shemale_75fe32f7:
 
     # ch_Name "{i}(Or do you need a special treatment?){/i}"
-    ch_Name "{i}(还是需要特殊待遇?){/i}"
+    ch_Name "{i}(还是说你需要特殊待遇?){/i}"
 
 # game/logic/events/audrey.rpy:2448
 translate chinese Audrey_events_4_label_4_shemale_b00135ca:
 
     # ch_Name "{i}(Let me get a good grasp...){/i}"
-    ch_Name "{i}(让我好好把握一下...){/i}"
+    ch_Name "{i}(让我好好握一下...){/i}"
 
 # game/logic/events/audrey.rpy:2449
 translate chinese Audrey_events_4_label_4_shemale_7f38f8cc:
 
     # ch_Name "{i}(Oh, it's erected. A little bit.){/i}"
-    ch_Name "{i}(哦，这是竖立。一点。){/i}"
+    ch_Name "{i}(哦，竖起来了。){/i}"
 
 # game/logic/events/audrey.rpy:2450
 translate chinese Audrey_events_4_label_4_shemale_ea01d6f4_1:
@@ -8104,13 +8104,13 @@ translate chinese Audrey_events_4_label_4_shemale_d507495b:
 translate chinese Audrey_8_label_c7b7353f:
 
     # ch_Name "{i}(Here she is.){/i}"
-    ch_Name "{i}(她是在这里。){/i}"
+    ch_Name "{i}(她在这里。){/i}"
 
 # game/logic/events/audrey.rpy:2468
 translate chinese Audrey_8_label_7b775243:
 
     # ch_Name "{i}(I still can't believe she's a succubus.){/i}"
-    ch_Name "{i}(我还是不敢相信她是个女妖。){/i}"
+    ch_Name "{i}(我还是不敢相信她是个魅魔。){/i}"
 
 # game/logic/events/audrey.rpy:2469
 translate chinese Audrey_8_label_3d6b3a69:
@@ -8134,7 +8134,7 @@ translate chinese Audrey_8_label_16200483:
 translate chinese Audrey_8_label_00e26c6d:
 
     # ch_Name "Hi there!"
-    ch_Name "大家好!"
+    ch_Name "你好呀!"
 
 # game/logic/events/audrey.rpy:2478
 translate chinese Audrey_8_label_49a9dac9:
@@ -8146,7 +8146,7 @@ translate chinese Audrey_8_label_49a9dac9:
 translate chinese Audrey_8_label_eb1f0605:
 
     # Audrey "Huh? Why am I the moodiest?"
-    Audrey "嗯? 为什么我最喜怒无常?"
+    Audrey "嗯? 为什么我是最喜怒无常的人?"
 
 # game/logic/events/audrey.rpy:2481
 translate chinese Audrey_8_label_66d4ec21:
@@ -8158,13 +8158,13 @@ translate chinese Audrey_8_label_66d4ec21:
 translate chinese Audrey_8_label_c5dca9b4:
 
     # ch_Name "It was meant as a compliment."
-    ch_Name "这是一种恭维。"
+    ch_Name "这是一种赞美。"
 
 # game/logic/events/audrey.rpy:2484
 translate chinese Audrey_8_label_4f9e5494:
 
     # Audrey "Thinking isn't really your thing."
-    Audrey "思考不是你的强项。"
+    Audrey "深思熟虑不是你的强项。"
 
 # game/logic/events/audrey.rpy:2485
 translate chinese Audrey_8_label_0f043f3c:
@@ -8200,19 +8200,19 @@ translate chinese Audrey_8_label_82751834:
 translate chinese Audrey_8_label_4c006010:
 
     # ch_Name "You do? What's that?"
-    ch_Name "你会怎么做?那是什么?"
+    ch_Name "是吗？什么东西？"
 
 # game/logic/events/audrey.rpy:2492
 translate chinese Audrey_8_label_7398f2ce:
 
     # Audrey "Not here. I don't want Samantha to hear us."
-    Audrey "不在这里。我不想让Samantha听到。"
+    Audrey "借一步说话。我不想让Samantha听到。"
 
 # game/logic/events/audrey.rpy:2493
 translate chinese Audrey_8_label_ab273139:
 
     # ch_Name "Samantha? What difference does it make?"
-    ch_Name "Samantha? 这有什么区别?"
+    ch_Name "Samantha？她在不在有什么区别?"
 
 # game/logic/events/audrey.rpy:2494
 translate chinese Audrey_8_label_4513df7a:
@@ -8248,13 +8248,13 @@ translate chinese Audrey_8_label_09f9d010:
 translate chinese Audrey_8_label_151822f8:
 
     # ch_Name "Oh, you're intriguing!"
-    ch_Name "哦，你是有趣的!"
+    ch_Name "哦，你真有趣!"
 
 # game/logic/events/audrey.rpy:2503
 translate chinese Audrey_8_label_e1e02413:
 
     # ch_Name "Lead the way. I'm right behind you."
-    ch_Name "领导的方式。我就在你后面。"
+    ch_Name "带路吧。我就在你后面。"
 
 # game/logic/events/audrey.rpy:2504
 translate chinese Audrey_8_label_5db72749:
@@ -8272,13 +8272,13 @@ translate chinese Audrey_8_label_3e4e2f82:
 translate chinese Audrey_8_label_e89ff3e1:
 
     # ch_Name "{i}(I've never seen Audrey so careful.){/i}"
-    ch_Name "{i}(我从没见过Audrey这么小心。){/i}"
+    ch_Name "{i}(我从没见过Audrey这么谨慎。){/i}"
 
 # game/logic/events/audrey.rpy:2508
 translate chinese Audrey_8_label_b15d82bc:
 
     # ch_Name "{i}(Apparently she doesn't want anyone we know to overhear us.){/i}"
-    ch_Name "{i}(显然她不想让我们认识的人听到我们说话。){/i}"
+    ch_Name "{i}(显然她不想让熟人听到我们说话。){/i}"
 
 # game/logic/events/audrey.rpy:2510
 translate chinese Audrey_8_label_b8e89af6:
@@ -8290,25 +8290,25 @@ translate chinese Audrey_8_label_b8e89af6:
 translate chinese Audrey_8_label_2ef71514:
 
     # ch_Name "What's the mystery? What's up?"
-    ch_Name "谜是什么? 有什么事吗?"
+    ch_Name "怎么搞得神神秘秘的？到底怎么了？"
 
 # game/logic/events/audrey.rpy:2512
 translate chinese Audrey_8_label_c84dff2b:
 
     # Audrey "I wanted to talk to you..."
-    Audrey "我想和你谈谈"
+    Audrey "我想和你谈谈……"
 
 # game/logic/events/audrey.rpy:2514
 translate chinese Audrey_8_label_f739a8a8:
 
     # Audrey "...about that time in our room..."
-    Audrey "...大概那个时候在我们房间里..."
+    Audrey "...关于那个时候在我们房间里说的事..."
 
 # game/logic/events/audrey.rpy:2515
 translate chinese Audrey_8_label_c2446083:
 
     # ch_Name "I wanted to talk about it myself."
-    ch_Name "我想亲自谈谈。"
+    ch_Name "我想亲自和你说。"
 
 # game/logic/events/audrey.rpy:2517
 translate chinese Audrey_8_label_392cf7cb:
@@ -8398,13 +8398,13 @@ translate chinese Audrey_8_label_1760035f:
 translate chinese Audrey_8_label_0e9298b5:
 
     # Audrey "It wasn't your fault what happened."
-    Audrey "发生的事不是你的错。"
+    Audrey "发生这种事不是你的错。"
 
 # game/logic/events/audrey.rpy:2537
 translate chinese Audrey_8_label_9ca6d56a:
 
     # Audrey "If it was anybody's fault but mine."
-    Audrey "如果这不是我的错。"
+    Audrey "不怪别人，只能怪我。"
 
 # game/logic/events/audrey.rpy:2541
 translate chinese Audrey_8_label_b25531ed:
@@ -8422,7 +8422,7 @@ translate chinese Audrey_8_label_cd440c86:
 translate chinese Audrey_8_label_51680295:
 
     # ch_Name "{i}(I'll play along and pretend I didn't know what she was.){/i}"
-    ch_Name "{i}(我会配合她，假装我不知道她是谁。){/i}"
+    ch_Name "{i}(我会配合她，假装我不知道她的真实身份。){/i}"
 
 # game/logic/events/audrey.rpy:2546
 translate chinese Audrey_8_label_277afae2:
@@ -8470,7 +8470,7 @@ translate chinese Audrey_8_label_8db03f22:
 translate chinese Audrey_8_label_1dbcaa9a:
 
     # Audrey "And in my world... People like you are just food, disenfranchised cattle."
-    Audrey "在我的世界里... 像你这样的人只是食物，被剥夺权利的牲畜。"
+    Audrey "在我们的世界里... 像你这样的人只是食物，被剥夺权利的牲畜。"
 
 # game/logic/events/audrey.rpy:2558
 translate chinese Audrey_8_label_339a8d49:
@@ -8482,13 +8482,13 @@ translate chinese Audrey_8_label_339a8d49:
 translate chinese Audrey_8_label_1c08bf49:
 
     # ch_Name "Please, let's talk like civilized people."
-    ch_Name "拜托，让我们像文明人一样说话。"
+    ch_Name "拜托，我们能不能像文化人一样说话。"
 
 # game/logic/events/audrey.rpy:2561
 translate chinese Audrey_8_label_bda027fa:
 
     # Audrey "Huh!"
-    Audrey "哈!"
+    Audrey "哈！"
 
 # game/logic/events/audrey.rpy:2562
 translate chinese Audrey_8_label_a30ad55e:
@@ -8500,25 +8500,25 @@ translate chinese Audrey_8_label_a30ad55e:
 translate chinese Audrey_8_label_ec1f6a45:
 
     # Audrey "I'm not human. I'm a succubus."
-    Audrey "我不是人类。我是一个妓女。"
+    Audrey "我不是人类。我是一个魅魔。"
 
 # game/logic/events/audrey.rpy:2565
 translate chinese Audrey_8_label_832368ed:
 
     # Audrey "I feed on the magical power of living things. Their souls."
-    Audrey "我以生物的魔力为食。他们的灵魂。"
+    Audrey "我以生物的魔力为食，还有他们的灵魂。"
 
 # game/logic/events/audrey.rpy:2566
 translate chinese Audrey_8_label_1f57b255:
 
     # Audrey "And it can be pretty exhausting for whomever I choose to snack on..."
-    Audrey "对于我选择吃零食的人来说，这是相当累人的..."
+    Audrey "对于那些被我作为零食吸食的人来说，这是相当累人的..."
 
 # game/logic/events/audrey.rpy:2568
 translate chinese Audrey_8_label_a0886fb6:
 
     # ch_Name "So you... fed on me?"
-    ch_Name "所以你... 吃我吗?"
+    ch_Name "所以你...也要吃我吗?"
 
 # game/logic/events/audrey.rpy:2569
 translate chinese Audrey_8_label_36adcd84:
@@ -8530,13 +8530,13 @@ translate chinese Audrey_8_label_36adcd84:
 translate chinese Audrey_8_label_8eb2b0cd:
 
     # ch_Name "Uh... That sounds pretty creepy, Audrey."
-    ch_Name "嗯... 听起来很恐怖，Audrey。"
+    ch_Name "嗯...听起来很恐怖，Audrey。"
 
 # game/logic/events/audrey.rpy:2571
 translate chinese Audrey_8_label_f7492efe:
 
     # ch_Name "Why are you telling me this now?"
-    ch_Name "你为什么现在告诉我?"
+    ch_Name "你为什么选择现在告诉我？"
 
 # game/logic/events/audrey.rpy:2573
 translate chinese Audrey_8_label_fa6d1dd2:
@@ -8554,7 +8554,7 @@ translate chinese Audrey_8_label_135d4110:
 translate chinese Audrey_8_label_f56830b3:
 
     # ch_Name "{i}(She wants to finish me off?){/i}"
-    ch_Name "{i}(她想干掉我?){/i}"
+    ch_Name "{i}(她想把我榨干？){/i}"
 
 # game/logic/events/audrey.rpy:2578
 translate chinese Audrey_8_label_a1e3ee86:
@@ -8566,13 +8566,13 @@ translate chinese Audrey_8_label_a1e3ee86:
 translate chinese Audrey_8_label_8adbbea7:
 
     # ch_Name "{i}(She wants me to finish?){/i}"
-    ch_Name "{i}(她想让我说完?){/i}"
+    ch_Name "{i}(她真的想让我被彻底榨干？){/i}"
 
 # game/logic/events/audrey.rpy:2581
 translate chinese Audrey_8_label_7f0d51ae:
 
     # Audrey "Are you happy with the way it ended?"
-    Audrey "你对结局满意吗?"
+    Audrey "你对结果满意吗？"
 
 # game/logic/events/audrey.rpy:2582
 translate chinese Audrey_8_label_8b5ebcd1:
@@ -8584,7 +8584,7 @@ translate chinese Audrey_8_label_8b5ebcd1:
 translate chinese Audrey_8_label_d2f21d8a:
 
     # Audrey "It ruins the taste."
-    Audrey "它破坏了味道。"
+    Audrey "会扫了我的兴。"
 
 # game/logic/events/audrey.rpy:2585
 translate chinese Audrey_8_label_5fb29d9a:
@@ -8596,19 +8596,19 @@ translate chinese Audrey_8_label_5fb29d9a:
 translate chinese Audrey_8_label_247c88a8:
 
     # ch_Name "Do you really think that if you wiggle your tail..."
-    ch_Name "你真的认为如果你摆动你的尾巴..."
+    ch_Name "你真的以为你摆一摆尾巴..."
 
 # game/logic/events/audrey.rpy:2587
 translate chinese Audrey_8_label_8d665a31:
 
     # ch_Name "... I'll run to be your servant?"
-    ch_Name "...我要跑去做你的仆人?"
+    ch_Name "...我就要跑去为你做牛做马？"
 
 # game/logic/events/audrey.rpy:2588
 translate chinese Audrey_8_label_0857dd2d:
 
     # ch_Name "Agree to be your fodder?"
-    ch_Name "同意做你的素材?"
+    ch_Name "同意做你的耗材?"
 
 # game/logic/events/audrey.rpy:2590
 translate chinese Audrey_8_label_b4b419dc:
@@ -8620,13 +8620,13 @@ translate chinese Audrey_8_label_b4b419dc:
 translate chinese Audrey_8_label_c89d0068:
 
     # Audrey "You gonna pretend it wasn't worth it?"
-    Audrey "你要假装不值得吗?"
+    Audrey "你还要骗自己这不值得吗？"
 
 # game/logic/events/audrey.rpy:2592
 translate chinese Audrey_8_label_8ce9f305:
 
     # Audrey "Admit it, it was fucking great sex."
-    Audrey "承认吧，那真是太爽了。"
+    Audrey "你就承认吧，那真是太爽了。"
 
 # game/logic/events/audrey.rpy:2594
 translate chinese Audrey_8_label_fd02da36:
@@ -8668,7 +8668,7 @@ translate chinese Audrey_8_label_4b5d0f9f:
 translate chinese Audrey_8_label_f4e0a0bc:
 
     # Audrey "I trusted you."
-    Audrey "我信任你。"
+    Audrey "我相信你。"
 
 # game/logic/events/audrey.rpy:2604
 translate chinese Audrey_8_label_d22d169d:
@@ -8692,7 +8692,7 @@ translate chinese Audrey_8_label_c9b7916b:
 translate chinese Audrey_8_label_1a750126:
 
     # ch_Name "{i}(I need to figure out how not to lose my mojo...){/i}"
-    ch_Name "{i}(我得想办法不失去我的魔力...){/i}"
+    ch_Name "{i}(我得想办法如何才能不丧失我的魔力...){/i}"
 
 # game/logic/events/audrey.rpy:2615
 translate chinese Audrey_8_label_29f8a398:
@@ -8758,7 +8758,7 @@ translate chinese Audrey_8_label_a4a2b07b:
 translate chinese Audrey_8_label_16e5a4f2:
 
     # ch_Name "Okay, fine. I'm gonna go."
-    ch_Name "好的，很好。我要走了。"
+    ch_Name "好吧，我走了。"
 
 # game/logic/events/audrey.rpy:2629
 translate chinese Audrey_8_label_5bcd9baa:
@@ -8770,7 +8770,7 @@ translate chinese Audrey_8_label_5bcd9baa:
 translate chinese Audrey_8_label_e56c4f59:
 
     # ch_Name "(Something happened. That's for sure.)"
-    ch_Name "(发生了一件事。这是肯定的。)"
+    ch_Name "(肯定出了什么事。)"
 
 # game/logic/events/audrey.rpy:2642
 translate chinese Audrey_9_label_111d13ed:
@@ -8782,13 +8782,13 @@ translate chinese Audrey_9_label_111d13ed:
 translate chinese Audrey_9_label_e41eed0f:
 
     # ch_Name "{i}(Where can I kill time before classes start?){/i}"
-    ch_Name "{i}(上课前我可以在哪里消磨时间?){/i}"
+    ch_Name "{i}(上课前我可以去哪里消磨时间呢？){/i}"
 
 # game/logic/events/audrey.rpy:2645
 translate chinese Audrey_9_label_5f0cfbac:
 
     # ch_Name "{i}(I can't stop thinking about that night with Audrey and Samantha.){/i}"
-    ch_Name "{i}(我一直在想Audrey和Samantha的那晚。){/i}"
+    ch_Name "{i}(我一直在想Audrey和Samantha的那个晚上。){/i}"
 
 # game/logic/events/audrey.rpy:2646
 translate chinese Audrey_9_label_e29a771d:
@@ -8818,19 +8818,19 @@ translate chinese Audrey_9_label_5d0520e4:
 translate chinese Audrey_9_label_3ac49e1b:
 
     # ch_Name "{i}(Well, finding her wasn't a problem. It's just a matter of talking.){/i}"
-    ch_Name "{i}(找到她不是问题。只是说说而已。){/i}"
+    ch_Name "{i}(找到她不是问题。只是找她说说话而已。){/i}"
 
 # game/logic/events/audrey.rpy:2662
 translate chinese Audrey_9_label_f6dfe85d:
 
     # ch_Name "Hey, beautiful!"
-    ch_Name "嘿，漂亮!"
+    ch_Name "嘿，美女！"
 
 # game/logic/events/audrey.rpy:2663
 translate chinese Audrey_9_label_8e4fd793:
 
     # Audrey "What?!"
-    Audrey "什么? !"
+    Audrey "干嘛？！"
 
 # game/logic/events/audrey.rpy:2664
 translate chinese Audrey_9_label_33611a83:
@@ -8848,13 +8848,13 @@ translate chinese Audrey_9_label_6585d5ab:
 translate chinese Audrey_9_label_3612fcb2:
 
     # Audrey "I don't wanna hear it from your mouth."
-    Audrey "我不想听你亲口说。"
+    Audrey "我不想听到这种话从你嘴里说出来。"
 
 # game/logic/events/audrey.rpy:2668
 translate chinese Audrey_9_label_c4f16b4c:
 
     # Audrey "It sounds pathetic."
-    Audrey "这听起来可悲。"
+    Audrey "这听起来真可悲。"
 
 # game/logic/events/audrey.rpy:2669
 translate chinese Audrey_9_label_6cfc8928:
@@ -8866,13 +8866,13 @@ translate chinese Audrey_9_label_6cfc8928:
 translate chinese Audrey_9_label_16af06a1:
 
     # ch_Name "Seems like you enjoy it."
-    ch_Name "看起来你挺喜欢的。"
+    ch_Name "看起来你还挺喜欢这样子。"
 
 # game/logic/events/audrey.rpy:2672
 translate chinese Audrey_9_label_44ad5e3f:
 
     # Audrey "Do you have something to tell me?"
-    Audrey "你有什么事要告诉我吗?"
+    Audrey "你有什么事找我吗?"
 
 # game/logic/events/audrey.rpy:2673
 translate chinese Audrey_9_label_65b4bb82:
