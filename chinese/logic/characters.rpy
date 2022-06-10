@@ -12,11 +12,11 @@ translate chinese strings:
 
     # game/logic/characters.rpy:9
     old "Radio"
-    new "Radio"
+    new "广播/收音机"
 
     # game/logic/characters.rpy:10
     old "Note"
-    new "Note"
+    new "笔记/备注"
 
     # game/logic/characters.rpy:11
     old "Adele"
@@ -132,7 +132,7 @@ translate chinese strings:
 
     # game/logic/characters.rpy:40
     old "Mushroom Girl"
-    new "Mushroom Girl"
+    new "蘑菇女孩"
 
     # game/logic/characters.rpy:41
     old "Naomi"
