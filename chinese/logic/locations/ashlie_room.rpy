@@ -34,7 +34,7 @@ translate chinese ashlie_room_label_ad35e680:
 translate chinese ashlie_room_label_0539956b:
 
     # ch_Name "{i}(Ashley in her finest - so graceful!){/i}"
-    ch_Name "{i}(Ashley穿着她最好的衣服——多么优雅啊!){/i}"
+    ch_Name "{i}(Ashley穿着她最漂亮的衣服——多么优雅啊!){/i}"
 
 # game/logic/locations/ashlie_room.rpy:44
 translate chinese ashlie_room_label_1e136241:
@@ -46,13 +46,13 @@ translate chinese ashlie_room_label_1e136241:
 translate chinese ashlie_room_label_58a2b055:
 
     # ch_Name "{i}(Alas, Don won't wait too long.){/i}"
-    ch_Name "{i}(唉，希望不要等太久。){/i}"
+    ch_Name "{i}(唉，希望不要让Don等太久。){/i}"
 
 # game/logic/locations/ashlie_room.rpy:47
 translate chinese ashlie_room_label_7f0478cb:
 
     # ch_Name "{i}(I'd better go.){/i}"
-    ch_Name "{i}(我最好离开。){/i}"
+    ch_Name "{i}(我最好赶紧过去。){/i}"
 
 # game/logic/locations/ashlie_room.rpy:71
 translate chinese ashlie_room_label_de7a2503:
