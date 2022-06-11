@@ -4,7 +4,7 @@ translate chinese strings:
 
     # game/logic/main_interface/give_book_screen.rpy:80
     old "Get points"
-    new "得到分数"
+    new "获取分数"
 
     # game/logic/main_interface/give_book_screen.rpy:91
     old "Chose the quantity:"
