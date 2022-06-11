@@ -16,13 +16,13 @@ translate chinese corridor_label_81e64aac:
 translate chinese corridor_label_ce606a14:
 
     # ch_Name "{i}(She may have twisted her ankle. Maybe I should check on her?){/i}"
-    ch_Name "{i}(她可能扭伤了脚踝。也许我该去看看她?){/i}"
+    ch_Name "{i}(她可能扭伤了脚踝。也许我该去看看？){/i}"
 
 # game/logic/locations/corridor.rpy:23
 translate chinese corridor_label_87fd2faa:
 
     # ch_Name "{i}(Just to be sure she's okay.){/i}"
-    ch_Name "{i}(只是想确认一下她没事。){/i}"
+    ch_Name "{i}(只是确认一下她没事。){/i}"
 
 # game/logic/locations/corridor.rpy:26
 translate chinese corridor_label_7bc2ecdf:
@@ -40,7 +40,7 @@ translate chinese corridor_label_386a98d5:
 translate chinese corridor_label_646d756b:
 
     # ch_Name "{i}(Why was she sho pshyched about that prank letter?){/i}"
-    ch_Name "{i}(她为什么对那封恶作剧信那么紧张?){/i}"
+    ch_Name "{i}(她为什么对那封恶作剧的信件那么紧张?){/i}"
 
 # game/logic/locations/corridor.rpy:29
 translate chinese corridor_label_48c31730:
@@ -52,7 +52,7 @@ translate chinese corridor_label_48c31730:
 translate chinese ashlie_room_label_2_ef733a22:
 
     # ch_Name "{i}(Jackpot!){/i}"
-    ch_Name "{i}(大奖!){/i}"
+    ch_Name "{i}(中大奖了！){/i}"
 
 # game/logic/locations/corridor.rpy:62
 translate chinese ashlie_room_label_2_db639e16:
@@ -64,7 +64,7 @@ translate chinese ashlie_room_label_2_db639e16:
 translate chinese ashlie_room_label_2_8cdf4eae:
 
     # ch_Name "{i}(Wow, Ashley is so...){/i}"
-    ch_Name "{i}(哇，Ashley好...){/i}"
+    ch_Name "{i}(哇，Ashley真是...){/i}"
 
 # game/logic/locations/corridor.rpy:66
 translate chinese ashlie_room_label_2_0546887e:
@@ -76,7 +76,7 @@ translate chinese ashlie_room_label_2_0546887e:
 translate chinese ashlie_room_label_2_9422f2a3:
 
     # ch_Name "{i}(Mature...){/i}"
-    ch_Name "{i}(成熟...){/i}"
+    ch_Name "{i}(好成熟啊...){/i}"
 
 # game/logic/locations/corridor.rpy:72
 translate chinese ashlie_room_label_2_82b8f9a4:
@@ -100,7 +100,7 @@ translate chinese ashlie_room_label_2_9e3a9b13:
 translate chinese ashlie_room_label_2_4bf9af45:
 
     # ch_Name "{i}(She tries so hard to keep her moans silent.){/i}"
-    ch_Name "{i}(她很努力地让自己的呻吟声保持安静。){/i}"
+    ch_Name "{i}(她很努力地压低自己的呻吟声。){/i}"
 
 # game/logic/locations/corridor.rpy:82
 translate chinese ashlie_room_label_2_85170189:
@@ -112,7 +112,7 @@ translate chinese ashlie_room_label_2_85170189:
 translate chinese ashlie_room_label_2_05094fd4:
 
     # ch_Name "{i}(The fact she can't makes it even sexier!){/i}"
-    ch_Name "{i}(事实是她不能让它更性感!){/i}"
+    ch_Name "{i}(这真是太性感了！){/i}"
 
 # game/logic/locations/corridor.rpy:87
 translate chinese ashlie_room_label_2_bbb5db70:
@@ -130,7 +130,7 @@ translate chinese ashlie_room_label_2_d08ee751:
 translate chinese ashlie_room_label_2_64d3cd18:
 
     # Ashley "Um… umh… ah…"
-    Ashley "嗯… 嗯… 啊…"
+    Ashley "嗯……嗯……啊……"
 
 # game/logic/locations/corridor.rpy:96
 translate chinese ashlie_room_label_2_fa49132c:
@@ -148,13 +148,13 @@ translate chinese ashlie_room_label_2_26c294ac:
 translate chinese ashlie_room_label_2_884e13db:
 
     # Ashley "Ah… ah… ah…"
-    Ashley "啊… 啊… 啊…"
+    Ashley "啊……啊……啊……"
 
 # game/logic/locations/corridor.rpy:102
 translate chinese ashlie_room_label_2_3f285bf6:
 
     # ch_Name "{i}(She's almost there...){/i}"
-    ch_Name "{i}(她几乎要到了...){/i}"
+    ch_Name "{i}(她快要高潮了...){/i}"
 
 # game/logic/locations/corridor.rpy:107
 translate chinese ashlie_room_label_2_959e61f6:
@@ -172,25 +172,25 @@ translate chinese ashlie_room_label_2_8c91a788:
 translate chinese ashlie_room_label_2_550fb4eb:
 
     # ch_Name "{i}(Good job, baby!){/i}"
-    ch_Name "{i}(好，宝贝!){/i}"
+    ch_Name "{i}(干得漂亮，宝贝！){/i}"
 
 # game/logic/locations/corridor.rpy:114
 translate chinese ashlie_room_label_2_4f666b66:
 
     # ch_Name "{i}(Next time I'll show you an exercise for two!){/i}"
-    ch_Name "{i}(下次我给你看两个人的练习!){/i}"
+    ch_Name "{i}(下次我给你看看双人练习！){/i}"
 
 # game/logic/locations/corridor.rpy:117
 translate chinese ashlie_room_label_2_b90f8537:
 
     # ch_Name "{i}(Oh shit, I completely forgot about Olivia.){/i}"
-    ch_Name "{i}(该死，我完全忘了Olivia。){/i}"
+    ch_Name "{i}(该死，我完全忘了还要去找Olivia。){/i}"
 
 # game/logic/locations/corridor.rpy:119
 translate chinese ashlie_room_label_2_3aabdd38:
 
     # ch_Name "{i}(I need to hurry if I want to catch anything.){/i}"
-    ch_Name "{i}(如果我想赶上什么，我得快点。){/i}"
+    ch_Name "{i}(如果我不想错过什么事，我就得快点。){/i}"
 
 # game/logic/locations/corridor.rpy:126
 translate chinese before_i_need_to_hurry_if_e22ac7b2:
@@ -202,25 +202,25 @@ translate chinese before_i_need_to_hurry_if_e22ac7b2:
 translate chinese before_i_need_to_hurry_if_08d59acf:
 
     # ch_Name "{i}(Alright, I shouldn’t be seeing it.){/i}"
-    ch_Name "{i}(好吧，我不应该看到它。){/i}"
+    ch_Name "{i}(好吧，我不应该看的。){/i}"
 
 # game/logic/locations/corridor.rpy:128
 translate chinese before_i_need_to_hurry_if_3d6da892:
 
     # ch_Name "{i}(I need to hurry up if I want to find out why was Olivia so pshyched!){/i}"
-    ch_Name "{i}(如果我想知道Olivia为什么这么兴奋，我得抓紧时间!){/i}"
+    ch_Name "{i}(如果我想知道Olivia为什么这么兴奋，我就得抓紧时间！){/i}"
 
 # game/logic/locations/corridor.rpy:139
 translate chinese i_need_to_hurry_if_c888624e:
 
     # Olivia "Disaster! This is a disaster!"
-    Olivia "灾难! 这是一场灾难!"
+    Olivia "灾难! 简直是一场灾难！"
 
 # game/logic/locations/corridor.rpy:141
 translate chinese i_need_to_hurry_if_edadeda3:
 
     # Olivia "It’s hard enough to deal with that boy! And now \"this\"!"
-    Olivia "对付那个男孩已经够难的了!现在“这”!"
+    Olivia "对付那个小男孩已经够难的了！现在又来“这个”!"
 
 # game/logic/locations/corridor.rpy:143
 translate chinese i_need_to_hurry_if_52d1c892:
@@ -232,19 +232,19 @@ translate chinese i_need_to_hurry_if_52d1c892:
 translate chinese i_need_to_hurry_if_f5622498:
 
     # Don "Calm down, Olivia. Why do you think this is bad news?"
-    Don "冷静下来，Olivia。你为什么认为这是坏消息?"
+    Don "冷静，Olivia。你为什么认为这是坏消息呢？"
 
 # game/logic/locations/corridor.rpy:147
 translate chinese i_need_to_hurry_if_fbfc8296:
 
     # Olivia "Are you not listening to me? He got a letter! This means that he is one of {i}\"them\"!{/i}"
-    Olivia "你没在听我说话吗? 他收到了一封信! 这意味着他是“他们”中的一员!"
+    Olivia "你没在听我说话吗? 他收到了一封信！这意味着他是“他们”的人！"
 
 # game/logic/locations/corridor.rpy:149
 translate chinese i_need_to_hurry_if_5247ea6c:
 
     # Olivia "How can I make him obey now?{w} He was contradicting every word I said before, but now..."
-    Olivia "我现在怎样才能让他服从呢?{w} 以前我说的每句话他都反驳，但现在..."
+    Olivia "我现在怎样才能让他服从呢?{w}以前我说的每句话他都反驳，但现在..."
 
 # game/logic/locations/corridor.rpy:151
 translate chinese i_need_to_hurry_if_88c9173b:
@@ -268,13 +268,13 @@ translate chinese i_need_to_hurry_if_408a6227:
 translate chinese i_need_to_hurry_if_3f38818f:
 
     # Don "We need to help him pack his bags and pray that they will accept him."
-    Don "我们得帮他收拾行李，祈祷他们会接受他。"
+    Don "我们得帮他收拾行李，祈祷他们能录取他。"
 
 # game/logic/locations/corridor.rpy:159
 translate chinese i_need_to_hurry_if_4f40f895:
 
     # Olivia "I don't understand you, Don."
-    Olivia "我不理解你，Don。"
+    Olivia "我不理解，Don。"
 
 # game/logic/locations/corridor.rpy:161
 translate chinese i_need_to_hurry_if_cc56433a:
@@ -286,7 +286,7 @@ translate chinese i_need_to_hurry_if_cc56433a:
 translate chinese i_need_to_hurry_if_18590874:
 
     # Don "And in the long term, he may finally find his place in life and get off my neck."
-    Don "从长远来看，他可能最终会找到自己的位置，摆脱我的脖子。"
+    Don "从长远来看，他可能最终能够成家立业，从此摆脱我们。"
 
 # game/logic/locations/corridor.rpy:165
 translate chinese i_need_to_hurry_if_afb5a8a7:
@@ -298,7 +298,7 @@ translate chinese i_need_to_hurry_if_afb5a8a7:
 translate chinese i_need_to_hurry_if_2518b682:
 
     # Olivia "Ah, Don! You're so clever!"
-    Olivia "啊，Don! 你真聪明!"
+    Olivia "啊，Don！你真聪明！"
 
 # game/logic/locations/corridor.rpy:172
 translate chinese i_need_to_hurry_if_1408dd6b:
@@ -316,13 +316,13 @@ translate chinese i_need_to_hurry_if_c5c824ec:
 translate chinese i_need_to_hurry_if_80b5ed7f:
 
     # ch_Name "Fuck!"
-    ch_Name "他妈的!"
+    ch_Name "卧槽！"
 
 # game/logic/locations/corridor.rpy:208
 translate chinese i_1_051_test_180c8976:
 
     # ch_Name "Samantha! You can't scare people like that!"
-    ch_Name "Samantha! 你不能这样吓唬人!"
+    ch_Name "Samantha！你不能这样吓唬人!"
 
 # game/logic/locations/corridor.rpy:210
 translate chinese i_1_051_test_5ff81acc:
@@ -340,7 +340,7 @@ translate chinese i_1_051_test_9ba22bb6:
 translate chinese i_1_051_test_bc04450c:
 
     # ch_Name "Of course I know, but I have a good reason.{w} You won't rat me out to Don, will you? I beg you!"
-    ch_Name "我当然知道，但我有个好理由。{w} 你不会向Don告发我的，对吧? 我请求你!"
+    ch_Name "我当然知道，但是我情有可原。{w}你不会向Don告发我的，对吧？我求你了！"
 
 # game/logic/locations/corridor.rpy:216
 translate chinese i_1_051_test_d1817470:
@@ -358,37 +358,37 @@ translate chinese i_1_051_test_ec581336:
 translate chinese i_1_051_test_beec5d34:
 
     # ch_Name "Yes, but Olivia confiscated it and ran to Don. "
-    ch_Name "是的，但Olivia把它没收了，然后跑去找Don。"
+    ch_Name "收到了，但Olivia把它没收了，然后跑去找Don。"
 
 # game/logic/locations/corridor.rpy:222
 translate chinese i_1_051_test_175c704c:
 
     # ch_Name "I'm just trying to understand what they are talking about…"
-    ch_Name "我只是想了解他们在说什么…"
+    ch_Name "我只是想知道他们在说什么…"
 
 # game/logic/locations/corridor.rpy:224
 translate chinese i_1_051_test_1f2da946:
 
     # Samantha "And you didn't have time to read it?"
-    Samantha "你没时间看吗?"
+    Samantha "你没来得及看吗？"
 
 # game/logic/locations/corridor.rpy:226
 translate chinese i_1_051_test_dc7eb86b:
 
     # ch_Name "I read it. And at first I was sure it was a stupid prank of yours."
-    ch_Name "我读了它。一开始我还以为是你的恶作剧呢。"
+    ch_Name "看了，一开始我还以为是你的恶作剧呢。"
 
 # game/logic/locations/corridor.rpy:228
 translate chinese i_1_051_test_9c978051:
 
     # ch_Name "But your parents reacted rather strangely."
-    ch_Name "但你父母的反应很奇怪。"
+    ch_Name "但你爸妈的反应很奇怪。"
 
 # game/logic/locations/corridor.rpy:230
 translate chinese i_1_051_test_3d73f30d:
 
     # Samantha "Believe me, I wouldn't go through such a hassle for the sake of some kind of prank."
-    Samantha "相信我，我不会为了某种恶作剧而经历这么大的麻烦。"
+    Samantha "相信我，我不会没事闲的搞这种恶作剧。"
 
 # game/logic/locations/corridor.rpy:232
 translate chinese i_1_051_test_d6385197:
@@ -400,7 +400,7 @@ translate chinese i_1_051_test_d6385197:
 translate chinese i_1_051_test_2b2801cd:
 
     # Samantha "I understand you, I experienced it myself last year."
-    Samantha "我理解你，我去年也经历过。"
+    Samantha "我理解，我去年也经历过。"
 
 # game/logic/locations/corridor.rpy:236
 translate chinese i_1_051_test_ec5354f0:
@@ -412,31 +412,31 @@ translate chinese i_1_051_test_ec5354f0:
 translate chinese i_1_051_test_4ce32109:
 
     # Samantha "No, but I couldn't tell you about it."
-    Samantha "没有，但我不能告诉你。"
+    Samantha "不是，但我不能告诉你细节。"
 
 # game/logic/locations/corridor.rpy:240
 translate chinese i_1_051_test_4b8dbc1c:
 
     # Samantha "It isn't customary to discuss our secrets outside the Academy."
-    Samantha "在学院外谈论我们的秘密是不习惯的。"
+    Samantha "我们没有在学院外谈论学院秘密的习惯。"
 
 # game/logic/locations/corridor.rpy:242
 translate chinese i_1_051_test_127d5fab:
 
     # ch_Name "Secret school of magic? Are you studying to become an illusionist there?"
-    ch_Name "秘密魔法学校? 你在那里学习成为一名魔术师吗?"
+    ch_Name "秘密的魔法学校？所以你在那里学习就是为了成为一名魔法师吗？"
 
 # game/logic/locations/corridor.rpy:244
 translate chinese i_1_051_test_2e1ccfd0:
 
     # Samantha "No, not a illusionist. This is exactly what the letter says it is."
-    Samantha "不，不是魔术师。这就是信上说的。"
+    Samantha "不，不是魔法师。信上说的是什么就是什么。"
 
 # game/logic/locations/corridor.rpy:246
 translate chinese i_1_051_test_b8d3998a:
 
     # ch_Name "There aren't many details in it. What is Cordale? And what does this magic look like?"
-    ch_Name "里面没有太多的细节。Cordale是什么? 这个魔法是什么样子的?"
+    ch_Name "里面缺失了太多的细节。Cordale是什么？这个魔法是什么样子的？"
 
 # game/logic/locations/corridor.rpy:248
 translate chinese i_1_051_test_d3942ab5:
@@ -448,7 +448,7 @@ translate chinese i_1_051_test_d3942ab5:
 translate chinese i_1_051_test_3fdf8efe:
 
     # ch_Name "But why? What kind of mystery is this?"
-    ch_Name "但是为什么呢? 这是什么秘密?"
+    ch_Name "但是为什么呢？这是什么秘密？"
 
 # game/logic/locations/corridor.rpy:252
 translate chinese i_1_051_test_d1ea040b:
@@ -466,19 +466,19 @@ translate chinese i_1_051_test_536f52f5:
 translate chinese i_1_051_test_27035b52:
 
     # Samantha "If I blabber, they will turn me into a pig.{w} By the way, they'll have to turn you into one too..."
-    Samantha "如果我喋喋不休，他们会把我变成一头猪。{w} 顺便说一句，他们也得把你变成一个…"
+    Samantha "如果我喋喋不休，他们会把我变成一头猪。{w} 顺便说一句，他们也得把你变成一头猪…"
 
 # game/logic/locations/corridor.rpy:258
 translate chinese i_1_051_test_f0d125d5:
 
     # Samantha "Just kidding! I will simply be expelled and the path to magic will be forever closed to me."
-    Samantha "只是开个玩笑! 我只会被开除，魔法之路也将永远对我关闭。"
+    Samantha "只是开个玩笑！我只会被开除，我的魔法之路也走到尽头了。"
 
 # game/logic/locations/corridor.rpy:260
 translate chinese i_1_051_test_c09b7cb1:
 
     # ch_Name "Wow, that sucks... Okay! Let's say I believe you. What is the plan?"
-    ch_Name "哇，那很糟糕... 好吧! 假设我相信你。计划是什么?"
+    ch_Name "哇，那太糟糕了……好吧！假设我相信你。你有什么计划？"
 
 # game/logic/locations/corridor.rpy:262
 translate chinese i_1_051_test_ca929f6f:
@@ -502,13 +502,13 @@ translate chinese i_1_051_test_9db2befe:
 translate chinese i_1_051_test_17cfcff0:
 
     # ch_Name "Sounds reasonable. Until tomorrow then!"
-    ch_Name "听起来很合理。直到明天!"
+    ch_Name "听起来很合理。明天见！"
 
 # game/logic/locations/corridor.rpy:270
 translate chinese i_1_051_test_a2ad67db:
 
     # ch_Name "{i}(I can't believe I'm being fooled by this...){/i}"
-    ch_Name "{i}(我真不敢相信我被骗了...){/i}"
+    ch_Name "{i}(我真不敢相信自己被忽悠了...){/i}"
 
 # game/logic/locations/corridor.rpy:272
 translate chinese i_1_051_test_fc3704ae:
@@ -526,13 +526,13 @@ translate chinese i_1_051_test_d10a117e:
 translate chinese i_1_051_test_45d094f8:
 
     # Samantha "What, [Name]?"
-    Samantha "什么，[Name]?"
+    Samantha "怎么了，[Name]?"
 
 # game/logic/locations/corridor.rpy:280
 translate chinese i_1_051_test_98101a54:
 
     # ch_Name "Swear you're not messing with me."
-    ch_Name "发誓你没惹我。"
+    ch_Name "你发誓你没有忽悠我。"
 
 # game/logic/locations/corridor.rpy:282
 translate chinese i_1_051_test_1fba17d9:
@@ -556,7 +556,7 @@ translate chinese i_1_051_test_c5716951:
 translate chinese i_1_051_test_19476bd8:
 
     # ch_Name "{i}(I know I've promised Sam to stop eavesdropping...){/i}"
-    ch_Name "{i}(我知道我已经答应Sam不再偷听了...){/i}"
+    ch_Name "{i}(我知道我已经答应Sam再也不偷听了...){/i}"
 
 # game/logic/locations/corridor.rpy:289
 translate chinese i_1_051_test_836fd714:
@@ -580,7 +580,7 @@ translate chinese i_1_051_test_66f05b0e:
 translate chinese i_1_051_test_32ed700b:
 
     # ch_Name "{i}(I'm a man of my word. I'd better go.){/i}"
-    ch_Name "{i}(我是个说话算话的人。我最好去。){/i}"
+    ch_Name "{i}(我是个说话算话的人。我最好赶紧走。){/i}"
 
 # game/logic/locations/corridor.rpy:319
 translate chinese i_1_051_test_from_gallery_d15af015:
@@ -610,7 +610,7 @@ translate chinese i_1_051_test_from_gallery_7608bb75:
 translate chinese i_1_051_test_from_gallery_e5d596b8:
 
     # Don "What are you saying? I can't hear you!"
-    Don "你在说什么? 我听不见你说什么!"
+    Don "你在说什么？我听不见你说话！"
 
 # game/logic/locations/corridor.rpy:334
 translate chinese i_1_051_test_from_gallery_a668428e:
@@ -646,7 +646,7 @@ translate chinese i_1_051_test_from_gallery_87404d4c:
 translate chinese i_1_051_test_from_gallery_55af9713:
 
     # Don "That's it! Eat it!"
-    Don "就是这样! 吃它!"
+    Don "就是这样！好好尝尝！"
 
 # game/logic/locations/corridor.rpy:353
 translate chinese i_1_051_test_from_gallery_7b58d97e:
@@ -658,25 +658,25 @@ translate chinese i_1_051_test_from_gallery_7b58d97e:
 translate chinese i_1_051_test_from_gallery_2af69542:
 
     # Don "Show me your boobs! Oh yeah!"
-    Don "让我看看你的胸部! 噢，是的!"
+    Don "让我看看你的奶子！欧耶！"
 
 # game/logic/locations/corridor.rpy:367
 translate chinese i_1_051_test_from_gallery_1bad80b1:
 
     # ch_Name "{i}(Hmm. Olivia looks unsatisfied.){/i}"
-    ch_Name "{i}(嗯。Olivia看起来不满意。){/i}"
+    ch_Name "{i}(嗯。Olivia看起来很不满意。){/i}"
 
 # game/logic/locations/corridor.rpy:369
 translate chinese i_1_051_test_from_gallery_b262ccf8:
 
     # Don "I'm going to take a shower, clean yourself up."
-    Don "我去洗个澡，把自己洗干净。"
+    Don "我去洗个澡，你也去吧。"
 
 # game/logic/locations/corridor.rpy:371
 translate chinese i_1_051_test_from_gallery_7f0478cb:
 
     # ch_Name "{i}(I'd better go.){/i}"
-    ch_Name "{i}(我最好去。){/i}"
+    ch_Name "{i}(我最好赶紧走。){/i}"
 
 # game/logic/locations/corridor.rpy:383
 translate chinese go_to_you_room_ep1_d73a5bd6:
@@ -730,7 +730,7 @@ translate chinese go_to_you_room_ep1_a73cc21f:
 translate chinese go_to_you_room_ep1_006bbf77:
 
     # ch_Name "{i}(When I show up in the living room with my suitcase.){/i}"
-    ch_Name "{i}(当我提着箱子出现在客厅时。){/i}"
+    ch_Name "{i}(就在我提着箱子出现在客厅的时候。){/i}"
 
 # game/logic/locations/corridor.rpy:401
 translate chinese go_to_you_room_ep1_97279731:
@@ -748,7 +748,7 @@ translate chinese morning_2_b6ce45a5:
 translate chinese morning_2_53b085a3:
 
     # ch_Name "Good morning, [Name] Junior! "
-    ch_Name "早上好，[Name] 少年!"
+    ch_Name "早上好，[Name]弟弟！"
 
 # game/logic/locations/corridor.rpy:420
 translate chinese morning_2_793f47fd:
@@ -760,13 +760,13 @@ translate chinese morning_2_793f47fd:
 translate chinese morning_2_86d75a3e:
 
     # ch_Name "{i}(It's going to be a sunny day...){/i}"
-    ch_Name "{i}(今天会是个晴天。。。){/i}"
+    ch_Name "{i}(今天会是个晴天……){/i}"
 
 # game/logic/locations/corridor.rpy:424
 translate chinese morning_2_cba214fe:
 
     # ch_Name "{i}(It's a good luck!){/i}"
-    ch_Name "{i}(这是好运!){/i}"
+    ch_Name "{i}(这是个好兆头！){/i}"
 
 # game/logic/locations/corridor.rpy:426
 translate chinese morning_2_f243bfcb:
@@ -778,13 +778,13 @@ translate chinese morning_2_f243bfcb:
 translate chinese morning_2_0f5f7b84:
 
     # Samantha "No thanks, I've already had breakfast, Ma."
-    Samantha "不，谢谢，我已经吃过早餐了，妈妈。"
+    Samantha "不用了，谢谢，我已经吃过早餐了，妈妈。"
 
 # game/logic/locations/corridor.rpy:432
 translate chinese morning_2_5b26d4c0:
 
     # Samantha "We should be getting ready now. I'm just on my way to wake up [Name]!"
-    Samantha "我们现在应该准备好了。我正准备醒来[Name]!"
+    Samantha "我们现在应该准备好了。我正准备去叫醒[Name]！"
 
 # game/logic/locations/corridor.rpy:434
 translate chinese morning_2_ca8f8882:
@@ -796,19 +796,19 @@ translate chinese morning_2_ca8f8882:
 translate chinese morning_2_41532e83:
 
     # ch_Name "Sam, where are your manners? Who taught you to barge in without knocking?"
-    ch_Name "Sam，你的礼貌哪去了? 谁教你不敲门就闯进来的?"
+    ch_Name "Sam，你的礼貌哪去了？谁教你不敲门就闯进来的？"
 
 # game/logic/locations/corridor.rpy:440
 translate chinese morning_2_73a5400d:
 
     # Samantha "But I... Would you... Cover him up!"
-    Samantha "但我… 你能… 遮住他!"
+    Samantha "可是我……你能……快把它遮住！"
 
 # game/logic/locations/corridor.rpy:445
 translate chinese morning_2_1ad81615:
 
     # ch_Name "Do we have to go now?"
-    ch_Name "我们必须现在就走吗?"
+    ch_Name "我们必须现在就走吗？"
 
 # game/logic/locations/corridor.rpy:447
 translate chinese morning_2_64a7eb80:
@@ -850,7 +850,7 @@ translate chinese morning_2_d0c304b6:
 translate chinese morning_2_7800a7fc:
 
     # Samantha "You met me undressed on purpose."
-    Samantha "你是故意让我脱光衣服的。"
+    Samantha "你是故意让我看到你裸体的。"
 
 # game/logic/locations/corridor.rpy:464
 translate chinese morning_2_4226a150:
@@ -868,7 +868,7 @@ translate chinese morning_2_2530c776:
 translate chinese morning_2_213ad1d3:
 
     # Samantha "Jerk! I got your invitation from my parents, because without it they wouldn't let you on the train."
-    Samantha "蠢猪! 我从我父母那里收到了你的邀请，因为没有邀请他们就不让你上火车。"
+    Samantha "蠢猪! 我从我爸妈那里拿到了你的录取通知书，因为没有通知书他们就不让你上火车。"
 
 # game/logic/locations/corridor.rpy:470
 translate chinese morning_2_2414603f:
@@ -880,13 +880,13 @@ translate chinese morning_2_2414603f:
 translate chinese morning_2_a3b159ad:
 
     # Samantha "I've already called a taxi. I'll meet you downstairs with your things in ten minutes."
-    Samantha "我已经叫了一辆出租车。十分钟后我拿着你的东西在楼下等你。"
+    Samantha "我已经叫了一辆出租车。十分钟后我在楼下等你，还有你的行李。"
 
 # game/logic/locations/corridor.rpy:475
 translate chinese morning_2_ca98a775:
 
     # ch_Name "{i}(Is it just me, or could she not take her eyes off my cock?){/i}"
-    ch_Name "{i}(是只有我，还是她不能把她的目光从我的阴茎上移开?){/i}"
+    ch_Name "{i}(她是在看我，还是她不能把她的目光从我的阴茎上移开？){/i}"
 
 # game/logic/locations/corridor.rpy:477
 translate chinese morning_2_05c6557c:
@@ -898,7 +898,7 @@ translate chinese morning_2_05c6557c:
 translate chinese morning_2_aaf32922:
 
     # ch_Name "{i}(Well. We're at the train station.){/i}"
-    ch_Name "{i}(好。我们在火车站。){/i}"
+    ch_Name "{i}(好。我们到火车站了。){/i}"
 
 # game/logic/locations/corridor.rpy:490
 translate chinese morning_2_77a99645:
@@ -934,13 +934,13 @@ translate chinese morning_2_87aeabab:
 translate chinese morning_2_b7870b7d:
 
     # ch_Name "{i}(I've never seen her like this with any of her other girlfriends.){/i}"
-    ch_Name "{i}(我从没见过她这样和其他女朋友在一起。){/i}"
+    ch_Name "{i}(我从没见过她和其他友女在一起还表现得这样。){/i}"
 
 # game/logic/locations/corridor.rpy:502
 translate chinese morning_2_f52d109e:
 
     # ch_Name "{i}(Yeah, and this girl... Hot...){/i}"
-    ch_Name "{i}(是的，这个女孩... 热辣...){/i}"
+    ch_Name "{i}(是的，这个女孩...很火辣...){/i}"
 
 # game/logic/locations/corridor.rpy:504
 translate chinese morning_2_0c3cc543:
@@ -964,19 +964,19 @@ translate chinese i_1_072_5_test_04f5142d:
 translate chinese i_1_072_5_test_7c6d364a:
 
     # Samantha "She's just kidding!"
-    Samantha "她只是开玩笑!"
+    Samantha "她只是在开玩笑!"
 
 # game/logic/locations/corridor.rpy:529
 translate chinese i_1_072_5_test_cd42bc76:
 
     # Samantha "Audrey, this is my friend [Name]. Remember I told you about him?"
-    Samantha "Audrey，这是我的朋友[Name]。还记得我跟你说过他吗?"
+    Samantha "Audrey，这是我的朋友[Name]。还记得我跟你提过他吗?"
 
 # game/logic/locations/corridor.rpy:531
 translate chinese i_1_072_5_test_772ccdaf:
 
     # Samantha "[Name], this is Audrey. My classmate and best friend."
-    Samantha "[Name]，我是Audrey。我的同学和最好的朋友。"
+    Samantha "[Name]，这是Audrey。我的同学兼最好的朋友。"
 
 # game/logic/locations/corridor.rpy:533
 translate chinese i_1_072_5_test_754b1987:
@@ -988,25 +988,25 @@ translate chinese i_1_072_5_test_754b1987:
 translate chinese i_1_072_5_test_c22aca09:
 
     # Audrey "Whatever."
-    Audrey "无论什么。"
+    Audrey "无所谓。"
 
 # game/logic/locations/corridor.rpy:537
 translate chinese i_1_072_5_test_d7e28a5b:
 
     # Audrey "You're cute."
-    Audrey "你是可爱的。"
+    Audrey "你很可爱。"
 
 # game/logic/locations/corridor.rpy:539
 translate chinese i_1_072_5_test_6894ec69:
 
     # Audrey "But you're cuter."
-    Audrey "但是你可爱。"
+    Audrey "但是你更可爱。"
 
 # game/logic/locations/corridor.rpy:543
 translate chinese i_1_072_5_test_d2884107:
 
     # ch_Name "{i}(Strange.){/i}"
-    ch_Name "{i}(奇怪。){/i}"
+    ch_Name "{i}(好奇怪啊。){/i}"
 
 # game/logic/locations/corridor.rpy:544
 translate chinese i_1_072_5_test_6ff22eb8:
@@ -1018,13 +1018,13 @@ translate chinese i_1_072_5_test_6ff22eb8:
 translate chinese i_1_072_5_test_166de9c0:
 
     # ch_Name "Thanks.{w} I guess."
-    ch_Name "谢谢。{w} 我想。"
+    ch_Name "我该说什么？{w}谢谢。"
 
 # game/logic/locations/corridor.rpy:548
 translate chinese i_1_072_5_test_4be1cdfa:
 
     # Audrey "I'll get us a compartment, babe."
-    Audrey "我去找个隔间，宝贝。"
+    Audrey "我去找车厢了，宝贝。"
 
 # game/logic/locations/corridor.rpy:550
 translate chinese i_1_072_5_test_99d16b27:
@@ -1036,7 +1036,7 @@ translate chinese i_1_072_5_test_99d16b27:
 translate chinese i_1_072_5_test_4c06122d:
 
     # ch_Name "And this... is your best friend?"
-    ch_Name "这… 是你最好的朋友吗?"
+    ch_Name "这……就是你最好的朋友吗?"
 
 # game/logic/locations/corridor.rpy:554
 translate chinese i_1_072_5_test_e0cd4860:
@@ -1060,13 +1060,13 @@ translate chinese i_1_072_5_test_ad1df313:
 translate chinese i_1_072_5_test_997d853f:
 
     # ch_Name "Well, we've got a whole trip to do that..."
-    ch_Name "好吧，我们有一整个旅程去做…"
+    ch_Name "好吧，这一路上有的是机会……"
 
 # game/logic/locations/corridor.rpy:565
 translate chinese i_1_072_5_test_9528fce4:
 
     # ch_Name "Let's go, show me where the compartment is."
-    ch_Name "走吧，告诉我包厢在哪里。"
+    ch_Name "走吧，告诉我要去哪个车厢。"
 
 # game/logic/locations/corridor.rpy:567
 translate chinese i_1_072_5_test_ca8ba1e5:
@@ -1084,13 +1084,13 @@ translate chinese i_1_072_5_test_8b95c549:
 translate chinese i_1_072_5_test_1ee458c4:
 
     # ch_Name "What's not so simple?"
-    ch_Name "有什么不简单的?"
+    ch_Name "什么不那么简单？"
 
 # game/logic/locations/corridor.rpy:573
 translate chinese i_1_072_5_test_3621634d:
 
     # Samantha "See, there's a separate compartment for freshmen."
-    Samantha "看，新生有一个单独的隔间。"
+    Samantha "看，新生有一个单独的车厢。"
 
 # game/logic/locations/corridor.rpy:575
 translate chinese i_1_072_5_test_01d441c1:
@@ -1102,7 +1102,7 @@ translate chinese i_1_072_5_test_01d441c1:
 translate chinese i_1_072_5_test_637c7b7e:
 
     # Samantha "And you can't join us."
-    Samantha "你不能加入我们。"
+    Samantha "你也不能加入我们。"
 
 # game/logic/locations/corridor.rpy:579
 translate chinese i_1_072_5_test_5f14f9a8:
@@ -1114,25 +1114,25 @@ translate chinese i_1_072_5_test_5f14f9a8:
 translate chinese i_1_072_5_test_222c4f80:
 
     # ch_Name "That's ridiculous."
-    ch_Name "那太荒唐了。"
+    ch_Name "那太离谱了。"
 
 # game/logic/locations/corridor.rpy:583
 translate chinese i_1_072_5_test_66486773:
 
     # ch_Name "Why can't I go with you?"
-    ch_Name "为什么我不能和你一起去?"
+    ch_Name "为什么我不能和你一起走？"
 
 # game/logic/locations/corridor.rpy:585
 translate chinese i_1_072_5_test_d053b0dd:
 
     # Samantha "So the sophomores don't tell you the secret of the entrance exam, of course."
-    Samantha "所以二年级的学生当然不会告诉你入学考试的秘密，当然。"
+    Samantha "因为二年级的学生肯定不会告诉你入学考试的秘密。"
 
 # game/logic/locations/corridor.rpy:587
 translate chinese i_1_072_5_test_3e2dc2c5:
 
     # ch_Name "The entrance ex..."
-    ch_Name "入口处的前…"
+    ch_Name "入学考……"
 
 # game/logic/locations/corridor.rpy:589
 translate chinese i_1_072_5_test_69560604:
@@ -1162,13 +1162,13 @@ translate chinese i_1_072_5_test_287cf33e:
 translate chinese i_1_072_5_test_0dee9005:
 
     # ch_Name "How am I supposed to pass the school of magic entrance exam, Sam?"
-    ch_Name "我怎么能通过魔法学校的入学考试呢，Sam?"
+    ch_Name "我怎么可能通过魔法学校的入学考试呢，Sam?"
 
 # game/logic/locations/corridor.rpy:599
 translate chinese i_1_072_5_test_2776720f:
 
     # ch_Name "I don't even know any card tricks..."
-    ch_Name "我甚至不知道什么纸牌戏法…"
+    ch_Name "我甚至连纸牌戏法都不知道……（译者注：英语中“魔法”和“魔术”都是magic，在入学前，主角大概率还不知道这是一所魔法学院，以为是魔术学院，因此如是说。）"
 
 # game/logic/locations/corridor.rpy:601
 translate chinese i_1_072_5_test_b1bf6a64:
@@ -1180,19 +1180,19 @@ translate chinese i_1_072_5_test_b1bf6a64:
 translate chinese i_1_072_5_test_d6c1920a:
 
     # Samantha "But that's all I'm gonna tell you."
-    Samantha "但我只能告诉你这么多。"
+    Samantha "但是言尽于此。"
 
 # game/logic/locations/corridor.rpy:605
 translate chinese i_1_072_5_test_45f13d5f:
 
     # ch_Name "Samantha. Oh, please."
-    ch_Name "Samantha。哦，请。"
+    ch_Name "Samantha。哦，拜托了，别这样。"
 
 # game/logic/locations/corridor.rpy:607
 translate chinese i_1_072_5_test_07f2259a:
 
     # ch_Name "I'm sure you want me to pass and study with you."
-    ch_Name "我肯定你想让我通过和你一起学习。"
+    ch_Name "我敢肯定你希望我通过考试，能和你一起学习。"
 
 # game/logic/locations/corridor.rpy:609
 translate chinese i_1_072_5_test_9b249ed0:
@@ -1204,13 +1204,13 @@ translate chinese i_1_072_5_test_9b249ed0:
 translate chinese i_1_072_5_test_a9d6c47f:
 
     # ch_Name "Help me not to lose it!"
-    ch_Name "帮我别把它弄丢了!"
+    ch_Name "帮帮我，别让我失去这个机会！"
 
 # game/logic/locations/corridor.rpy:613
 translate chinese i_1_072_5_test_94ba5507:
 
     # Samantha "Shit, I can't resist you, you know that!"
-    Samantha "妈的，我无法抗拒你，你知道的!"
+    Samantha "妈的，我无法抗拒你，你知道的！"
 
 # game/logic/locations/corridor.rpy:615
 translate chinese i_1_072_5_test_77925122:
@@ -1240,7 +1240,7 @@ translate chinese i_1_072_5_test_cb98e895:
 translate chinese i_1_072_5_test_8a975907:
 
     # Samantha "I'll meet you on the platform when you arrive."
-    Samantha "你到达时我将在月台上和你见面。"
+    Samantha "到时候我会在站台上和你见面。"
 
 # game/logic/locations/corridor.rpy:625
 translate chinese i_1_072_5_test_2a9eb020:
@@ -1276,7 +1276,7 @@ translate chinese i_1_072_5_test_d4693fdc:
 translate chinese i_1_072_5_test_f457a1b4:
 
     # Samantha "The second one behind you. It was listed in the letter."
-    Samantha "你后面的第二个。这是在信中列出的。"
+    Samantha "你后面的第二个。信里面已经说了。"
 
 # game/logic/locations/corridor.rpy:637
 translate chinese i_1_072_5_test_742174be:
@@ -1288,19 +1288,19 @@ translate chinese i_1_072_5_test_742174be:
 translate chinese i_1_072_5_test_29613b59:
 
     # Samantha "You'd have learned how to read letters yourself?"
-    Samantha "你会自己学会读字母吗?"
+    Samantha "你没学过怎么阅读信件吗？"
 
 # game/logic/locations/corridor.rpy:641
 translate chinese i_1_072_5_test_8d7bc299:
 
     # Samantha "You... You can read, can't you?"
-    Samantha "你… 你会读书，不是吗?"
+    Samantha "你……你有阅读能力的，不是吗?"
 
 # game/logic/locations/corridor.rpy:643
 translate chinese i_1_072_5_test_6fd20a6c:
 
     # ch_Name "Very funny."
-    ch_Name "很有趣。"
+    ch_Name "有意思。"
 
 # game/logic/locations/corridor.rpy:645
 translate chinese i_1_072_5_test_c8a1dad9:
@@ -1330,7 +1330,7 @@ translate chinese i_1_072_5_test_8de52f6d:
 translate chinese i_1_072_5_test_647af2b4:
 
     # ch_Name "Go on, then. Run to your girlfriend!"
-    ch_Name "那么，继续。快去找你女朋友!"
+    ch_Name "那么，去吧。快去找你友女吧！"
 
 # game/logic/locations/corridor.rpy:666
 translate chinese i_1_072_5_test_55db3660:
@@ -1360,7 +1360,7 @@ translate chinese i_1_072_5_test_5179379f:
 translate chinese i_1_072_5_test_8e3b37fe:
 
     # ch_Name "{i}(Time to find out what awaits me in mine...){/i}"
-    ch_Name "{i}(是时候知道我的生活中等待着我的是什么了…){/i}"
+    ch_Name "{i}(是时候知道等待着我的是什么了……){/i}"
 
 # game/logic/locations/corridor.rpy:697
 translate chinese scene_16_a87ec4e0:
@@ -1384,19 +1384,19 @@ translate chinese scene_16_f8a9f0cd:
 translate chinese scene_16_f77030b1:
 
     # ch_Name "{i}(The wiki says this is an ivy league elite educational institution.){/i}"
-    ch_Name "{i}(Wiki上说这是一所常春藤名校。){/i}"
+    ch_Name "{i}(维基百科上说这是一所常春藤名校。){/i}"
 
 # game/logic/locations/corridor.rpy:713
 translate chinese scene_16_32aff761:
 
     # ch_Name "{i}(Yet there was nothing about magic... Is that true? Am I a wizard?){/i}"
-    ch_Name "{i}(然而，这里没有魔法… 这是真的吗? 我是巫师吗?){/i}"
+    ch_Name "{i}(然而，这里并没有魔法… 这是真的吗? 我是巫师吗？){/i}"
 
 # game/logic/locations/corridor.rpy:716
 translate chinese scene_16_280e1463:
 
     # UnknownHaley "Excuse me, are these seats taken?"
-    UnknownHaley "对不起，这些座位有人坐吗?"
+    UnknownHaley "不好意思，这里有人坐吗？"
 
 # game/logic/locations/corridor.rpy:718
 translate chinese scene_16_a1c3f1f5:
@@ -1408,13 +1408,13 @@ translate chinese scene_16_a1c3f1f5:
 translate chinese i_1_082a_test_7fb91c8b:
 
     # ch_Name "{i}(What a cutie!){/i}"
-    ch_Name "{i}(多么漂亮的女孩!){/i}"
+    ch_Name "{i}(好漂亮的姑娘啊！){/i}"
 
 # game/logic/locations/corridor.rpy:732
 translate chinese i_1_082a_test_975a0a11:
 
     # ch_Name "Oh, no, not really. Be my guest!"
-    ch_Name "哦，不，不完全是。是我的客人!"
+    ch_Name "哦，没有，一个人都没有。你可以坐这里！"
 
 # game/logic/locations/corridor.rpy:734
 translate chinese i_1_082a_test_7c365fdd:
@@ -1432,7 +1432,7 @@ translate chinese train_menu_0_c570c9df:
 translate chinese train_menu_1_98084fe6:
 
     # ch_Name "Here you go!"
-    ch_Name "在这里你去!"
+    ch_Name "走你！"
 
 # game/logic/locations/corridor.rpy:750
 translate chinese train_menu_1_546fcf8b:
@@ -1444,19 +1444,19 @@ translate chinese train_menu_1_546fcf8b:
 translate chinese train_menu_1_91cb8934:
 
     # ch_Name "No problem, I'm always happy to help."
-    ch_Name "没问题，我很乐意帮忙。"
+    ch_Name "没事，我很乐意帮忙。"
 
 # game/logic/locations/corridor.rpy:754
 translate chinese train_menu_1_a90a7fa2:
 
     # UnknownHaley "Could you...{w} move over a little further?"
-    UnknownHaley "你能…{w} 移得更远一点?"
+    UnknownHaley "你能…{w}挪得远一点吗？"
 
 # game/logic/locations/corridor.rpy:756
 translate chinese train_menu_1_eaf17708:
 
     # ch_Name "Oh. Yes, of course."
-    ch_Name "哦。是的，当然。"
+    ch_Name "哦。当然可以。"
 
 # game/logic/locations/corridor.rpy:769
 translate chinese train_menu_2_4384efc0:
@@ -1474,7 +1474,7 @@ translate chinese train_menu_2_4f486dbd:
 translate chinese train_menu_end_d19e87d6:
 
     # ch_Name "Sorry... It got awkward..."
-    ch_Name "对不起… 它尴尬…"
+    ch_Name "对不起…这下尴尬了……"
 
 # game/logic/locations/corridor.rpy:781
 translate chinese train_menu_end_49031043:
@@ -1486,13 +1486,13 @@ translate chinese train_menu_end_49031043:
 translate chinese train_menu_end_12663923:
 
     # ch_Name "{i}(Well, I would not say \"a little\"...){/i}"
-    ch_Name "{i}(我不会说“一点点”…){/i}"
+    ch_Name "{i}(恐怕不止“一点点”吧……){/i}"
 
 # game/logic/locations/corridor.rpy:785
 translate chinese train_menu_end_c2c689d4:
 
     # ch_Name "It is not true! I wasn't thinking of anything like that."
-    ch_Name "这不是真的! 我没想过那样的事。"
+    ch_Name "不是这样的！我没想过那样的事。"
 
 # game/logic/locations/corridor.rpy:787
 translate chinese train_menu_end_643c85a2:
@@ -1516,19 +1516,19 @@ translate chinese train_menu_end_1c912a5c:
 translate chinese train_menu_end_9def1b56:
 
     # UnknownHaley "By the way, my name is Haley! Yours?"
-    UnknownHaley "对了，我叫Haley! 你的吗?"
+    UnknownHaley "对了，我叫Haley！你呢？"
 
 # game/logic/locations/corridor.rpy:795
 translate chinese train_menu_end_a34c12ad:
 
     # ch_Name "[Name]. Nice to meet you! You are funny."
-    ch_Name "[Name]。见到你很高兴! 你是有趣的。"
+    ch_Name "[Name]。见到你很高兴! 你很有趣。"
 
 # game/logic/locations/corridor.rpy:797
 translate chinese train_menu_end_048847b4:
 
     # Haley "Thank you, [Name]! You are nice too."
-    Haley "谢谢你，[Name]! 你也不错。"
+    Haley "谢谢你，[Name]！你也不错。"
 
 # game/logic/locations/corridor.rpy:799
 translate chinese train_menu_end_6e7dc279:
@@ -1558,19 +1558,19 @@ translate chinese train_menu_end_13e2be0c:
 translate chinese train_menu_end_fde91a9a:
 
     # Haley "She drank a bottle of whiskey in the blink of an eye and started hitting on me."
-    Haley "她一眨眼的功夫就喝了一瓶威士忌，开始对我献殷勤。"
+    Haley "她一眨眼的功夫就喝了一瓶威士忌，然后开始对我献殷勤。"
 
 # game/logic/locations/corridor.rpy:809
 translate chinese train_menu_end_d95d0ba4:
 
     # Haley "So I decided to get out of there!"
-    Haley "所以我决定离开那里!"
+    Haley "所以我决定离开！"
 
 # game/logic/locations/corridor.rpy:811
 translate chinese train_menu_end_30fa9be1:
 
     # Haley "And you are the only one who has a free seat in the couchette!"
-    Haley "而你是唯一一个在卧铺上有空位的人!"
+    Haley "而你是唯一一个在卧铺上还有空位的人！"
 
 # game/logic/locations/corridor.rpy:813
 translate chinese train_menu_end_3f90c8fd:
@@ -1582,7 +1582,7 @@ translate chinese train_menu_end_3f90c8fd:
 translate chinese train_menu_end_cfcc7ad5:
 
     # ch_Name "Of course not! There is plenty of room here, and it is always more fun with company."
-    ch_Name "当然不是! 这里有很多地方，有同伴在这里总是很有趣。"
+    ch_Name "当然不介意！这里地方大着呢，有同伴在这里总是很有趣。"
 
 # game/logic/locations/corridor.rpy:823
 translate chinese train_menu_end_45624086:
@@ -1594,7 +1594,7 @@ translate chinese train_menu_end_45624086:
 translate chinese train_menu_end_a4f16ca5:
 
     # ch_Name "I am not."
-    ch_Name "我不会。"
+    ch_Name "不会的。"
 
 # game/logic/locations/corridor.rpy:827
 translate chinese train_menu_end_5e5375c6:
@@ -1618,7 +1618,7 @@ translate chinese train_menu_drunk_girls_80f77679:
 translate chinese train_menu_drunk_girls_058b166c:
 
     # Haley "Yes, couchette number 8. Why?"
-    Haley "是的，8号卧铺。为什么?"
+    Haley "是的，8号卧铺。怎么了？"
 
 # game/logic/locations/corridor.rpy:838
 translate chinese train_menu_drunk_girls_6b3f7d0a:
@@ -1636,7 +1636,7 @@ translate chinese train_menu_drunk_girls_791e178a:
 translate chinese train_menu_after_drunk_girls_2ddd6179:
 
     # Haley "Wait, what?!"
-    Haley "等等，什么? !"
+    Haley "等等，啥玩意？！"
 
 # game/logic/locations/corridor.rpy:847
 translate chinese train_menu_after_drunk_girls_cbe7ca11:
@@ -1654,7 +1654,7 @@ translate chinese train_menu_after_drunk_girls_b45a1a5a:
 translate chinese train_menu_after_drunk_girls_c58f7524:
 
     # Haley "You are funny. I didn’t know that the Academy had a faculty of humorists."
-    Haley "你是有趣的。我不知道该学院还有一批幽默大师。"
+    Haley "你很有趣。我不知道学院还有一批幽默大师。"
 
 # game/logic/locations/corridor.rpy:853
 translate chinese train_menu_after_drunk_girls_57d355ce:
@@ -1666,37 +1666,37 @@ translate chinese train_menu_after_drunk_girls_57d355ce:
 translate chinese train_menu_after_drunk_girls_97ac8811:
 
     # ch_Name "Besides, no stand-up works without a bit of magic!"
-    ch_Name "此外，没有单口相声没有一点魔法!"
+    ch_Name "此外，单口相声魔法都是相辅相成的！"
 
 # game/logic/locations/corridor.rpy:858
 translate chinese train_menu_after_drunk_girls_94f9e592:
 
     # Haley "Wait, are you kidding me? Or are you serious?"
-    Haley "等等，你在开玩笑吗? 或者你是认真的?"
+    Haley "等等，你在开玩笑吗？还是说你是认真的？"
 
 # game/logic/locations/corridor.rpy:860
 translate chinese train_menu_after_drunk_girls_2c9c86ec:
 
     # Haley "What do you know about magic?"
-    Haley "你对魔法了解多少?"
+    Haley "你对魔法了解多少？"
 
 # game/logic/locations/corridor.rpy:862
 translate chinese train_menu_after_drunk_girls_487ed017:
 
     # Haley "I've been digging around the Internet and the city library all week..."
-    Haley "我整个星期都在网上和城市图书馆找…"
+    Haley "我整个星期都在网上和市图书馆里到处找……"
 
 # game/logic/locations/corridor.rpy:864
 translate chinese train_menu_after_drunk_girls_14b24ef0:
 
     # Haley "...but I haven't found any specifics!"
-    Haley "…但我还没有找到任何细节!"
+    Haley "……但我还是没有找到任何细节！"
 
 # game/logic/locations/corridor.rpy:866
 translate chinese train_menu_after_drunk_girls_3da38669:
 
     # Haley "But I won't give up. I'm sure the information I found there will still be useful to me."
-    Haley "但我不会放弃。我相信我在那里找到的信息对我还是有用的。"
+    Haley "但我不会放弃。我相信我找到的信息对我还是有用的。"
 
 # game/logic/locations/corridor.rpy:868
 translate chinese train_menu_after_drunk_girls_c1900c94:
@@ -1708,7 +1708,7 @@ translate chinese train_menu_after_drunk_girls_c1900c94:
 translate chinese train_menu_after_drunk_girls_01658f27:
 
     # ch_Name "Uh... Winx fairies?"
-    ch_Name "嗯… Winx仙女吗?"
+    ch_Name "嗯… 魔法仙女吗?"
 
 # game/logic/locations/corridor.rpy:872
 translate chinese train_menu_after_drunk_girls_bdced21f:
@@ -1726,7 +1726,7 @@ translate chinese train_menu_after_drunk_girls_0bc7dfc8:
 translate chinese train_menu_after_drunk_girls_9240ebca:
 
     # Haley "Did she tell you anything? Please, share with me!"
-    Haley "她告诉你什么了吗? 请和我分享吧!"
+    Haley "她告诉你什么了吗？和我说说！"
 
 # game/logic/locations/corridor.rpy:878
 translate chinese train_menu_after_drunk_girls_19dffb29:
@@ -1738,19 +1738,19 @@ translate chinese train_menu_after_drunk_girls_19dffb29:
 translate chinese train_menu_after_drunk_girls_de19a0ac:
 
     # ch_Name "It is all very secret and they are forbidden to talk about the details."
-    ch_Name "这是非常秘密的，他们被禁止谈论细节。"
+    ch_Name "这是机密，他们被禁止谈论细节。"
 
 # game/logic/locations/corridor.rpy:882
 translate chinese train_menu_after_drunk_girls_55a87f52:
 
     # Haley "What friend leaves her pal in ignorance like that?"
-    Haley "哪个朋友会对自己的朋友如此无知?"
+    Haley "哪个朋友会对自己的朋友如此愚昧?"
 
 # game/logic/locations/corridor.rpy:884
 translate chinese train_menu_after_drunk_girls_fd777908:
 
     # ch_Name "Don't say that! I will meet up with her when I arrive and she will help me."
-    ch_Name "不要说! 我到的时候会和她见面，她会帮助我。"
+    ch_Name "别这么说！我到时候会和她见面，她会帮我的。"
 
 # game/logic/locations/corridor.rpy:886
 translate chinese train_menu_after_drunk_girls_05ef46dc:
@@ -1762,13 +1762,13 @@ translate chinese train_menu_after_drunk_girls_05ef46dc:
 translate chinese train_menu_after_drunk_girls_7027103e:
 
     # Haley "I'm so delighted that magic exists..."
-    Haley "我很高兴魔法的存在…"
+    Haley "我很高兴有魔法的存在……"
 
 # game/logic/locations/corridor.rpy:890
 translate chinese train_menu_after_drunk_girls_8aec3731:
 
     # Haley "...I can barely contain myself."
-    Haley "…我几乎控制不住自己。"
+    Haley "……我几乎控制不住自己。"
 
 # game/logic/locations/corridor.rpy:892
 translate chinese train_menu_after_drunk_girls_660afcba:
@@ -1792,13 +1792,13 @@ translate chinese train_menu_after_drunk_girls_580cca29:
 translate chinese train_menu_after_drunk_girls_56d523d2:
 
     # "...until you manage to convince her that it's worth getting some sleep before the big day."
-    "…直到你说服她在大日子到来之前睡一觉是值得的。"
+    "……直到你说服她值得在重要的一天到来之前睡一觉。"
 
 # game/logic/locations/corridor.rpy:905
 translate chinese train_menu_after_drunk_girls_60870614:
 
     # ch_Name "{i}(It was getting quite dark outside the window.){/i}"
-    ch_Name "{i}(窗外天色渐渐黑了。){/i}"
+    ch_Name "{i}(窗外天色逐渐变暗。){/i}"
 
 # game/logic/locations/corridor.rpy:907
 translate chinese train_menu_after_drunk_girls_792b6e86:
@@ -1828,19 +1828,19 @@ translate chinese train_menu_after_drunk_girls_670c78e0:
 translate chinese train_menu_after_drunk_girls_2780eec2:
 
     # ch_Name "{i}(I haven't fucked since I broke my leg.){/i}"
-    ch_Name "{i}(我摔断腿后就没上过床了。){/i}"
+    ch_Name "{i}(我摔断腿后就没上过妹子了。){/i}"
 
 # game/logic/locations/corridor.rpy:917
 translate chinese train_menu_after_drunk_girls_954301ae:
 
     # ch_Name "{i}(And here...){/i}"
-    ch_Name "{i}(这里…){/i}"
+    ch_Name "{i}(在这里……){/i}"
 
 # game/logic/locations/corridor.rpy:919
 translate chinese train_menu_after_drunk_girls_72b33558:
 
     # ch_Name "{i}(Such a hottie!){/i}"
-    ch_Name "{i}(这样的美女!){/i}"
+    ch_Name "{i}(有一个如此火辣的美女！){/i}"
 
 # game/logic/locations/corridor.rpy:921
 translate chinese train_menu_after_drunk_girls_c5700282:
@@ -1882,7 +1882,7 @@ translate chinese train_menu_after_drunk_girls_81e7ad8c:
 translate chinese test_choice_menu_ce8bfb54:
 
     # ch_Name "{i}(What have we here...){/i}"
-    ch_Name "{i}(我们这里有什么…){/i}"
+    ch_Name "{i}(我发现了什么……){/i}"
 
 # game/logic/locations/corridor.rpy:976
 translate chinese test_choice_menu_75c67607:
@@ -1960,19 +1960,19 @@ translate chinese train_not_too_big_e090f714:
 translate chinese train_not_too_big_0a7859bf:
 
     # ch_Name "{i}(I wonder how it fits in my hand?){/i}"
-    ch_Name "{i}(我想知道它在我的手里放不放?){/i}"
+    ch_Name "{i}(我想知道它在我的手里合不合适？){/i}"
 
 # game/logic/locations/corridor.rpy:1081
 translate chinese train_not_too_big_c6590b10:
 
     # ch_Name "{i}(It's so soft to the touch!){/i}"
-    ch_Name "{i}(它摸起来很软!){/i}"
+    ch_Name "{i}(摸起来很软!){/i}"
 
 # game/logic/locations/corridor.rpy:1085
 translate chinese train_not_too_big_2b8ccd71:
 
     # ch_Name "{i}(And so warm.){/i}"
-    ch_Name "{i}(所以温暖。){/i}"
+    ch_Name "{i}(好温暖啊。){/i}"
 
 # game/logic/locations/corridor.rpy:1089
 translate chinese train_not_too_big_768d59cf:
@@ -1984,7 +1984,7 @@ translate chinese train_not_too_big_768d59cf:
 translate chinese train_not_too_big_625b1304:
 
     # ch_Name "{i}(Oh, yes! Divine.){/i}"
-    ch_Name "{i}(哦，是的!神圣。){/i}"
+    ch_Name "{i}(哦，是的！惊为天人。){/i}"
 
 # game/logic/locations/corridor.rpy:1110
 translate chinese train_not_too_big_1c4eae0a:
@@ -2038,7 +2038,7 @@ translate chinese train_not_too_big_deb23e4b:
 translate chinese train_not_too_big_24c40400:
 
     # ch_Name "{i}(And... Voila!){/i}"
-    ch_Name "{i}(和… 瞧!){/i}"
+    ch_Name "{i}(还有……瞧!){/i}"
 
 # game/logic/locations/corridor.rpy:1159
 translate chinese train_not_too_big_1bddf9ae:
@@ -2050,7 +2050,7 @@ translate chinese train_not_too_big_1bddf9ae:
 translate chinese train_not_too_big_afeadfb4:
 
     # ch_Name "{i}(It's so neat.){/i}"
-    ch_Name "{i}(它是如此整洁。){/i}"
+    ch_Name "{i}(如此整洁。){/i}"
 
 # game/logic/locations/corridor.rpy:1167
 translate chinese train_not_too_big_252c8e49:
@@ -2068,7 +2068,7 @@ translate chinese train_not_too_big_69660076:
 translate chinese train_not_too_big_7c636307:
 
     # ch_Name "{i}(Turned away from me.){/i}"
-    ch_Name "{i}(转身离开我。){/i}"
+    ch_Name "{i}(转身了。){/i}"
 
 # game/logic/locations/corridor.rpy:1179
 translate chinese train_not_too_big_2352b182:
@@ -2080,25 +2080,25 @@ translate chinese train_not_too_big_2352b182:
 translate chinese train_not_too_big_b5be0bab:
 
     # ch_Name "{i}(I'm not gonna push my luck anymore.){/i}"
-    ch_Name "{i}(我不会再得寸进宝了。){/i}"
+    ch_Name "{i}(我不会再得寸进尺了。){/i}"
 
 # game/logic/locations/corridor.rpy:1187
 translate chinese train_not_too_big_a4963e7c:
 
     # ch_Name "{i}(You're done for the day.){/i}"
-    ch_Name "{i}(今天到此为止。){/i}"
+    ch_Name "{i}(今天到此为止吧。){/i}"
 
 # game/logic/locations/corridor.rpy:1191
 translate chinese train_not_too_big_a0b38d9b:
 
     # ch_Name "{i}(But we'll get back to it!){/i}"
-    ch_Name "{i}(但是我们会回到它的!){/i}"
+    ch_Name "{i}(但是我们还有机会的！){/i}"
 
 # game/logic/locations/corridor.rpy:1195
 translate chinese train_not_too_big_842b7743:
 
     # ch_Name "{i}(Won't we?){/i}"
-    ch_Name "{i}(不会吗?){/i}"
+    ch_Name "{i}(不是吗？){/i}"
 
 # game/logic/locations/corridor.rpy:1199
 translate chinese train_not_too_big_7e8269c9:
@@ -2110,7 +2110,7 @@ translate chinese train_not_too_big_7e8269c9:
 translate chinese train_not_too_big_261de453:
 
     # ch_Name "{i}(My heart's beating like crazy.){/i}"
-    ch_Name "{i}(我的心狂跳。){/i}"
+    ch_Name "{i}(我的心在狂跳。){/i}"
 
 # game/logic/locations/corridor.rpy:1210
 translate chinese train_end_16_1_ef9e3e55:
