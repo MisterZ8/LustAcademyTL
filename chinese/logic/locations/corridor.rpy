@@ -2134,7 +2134,7 @@ translate chinese train_end_16_1_a0dc44c3:
 translate chinese train_end_16_1_0089bfed:
 
     # ch_Name "Well, just a few more minutes..."
-    ch_Name "再过几分钟…"
+    ch_Name "让我再睡几分钟…"
 
 # game/logic/locations/corridor.rpy:1224
 translate chinese train_end_16_1_89382e47:
@@ -2146,25 +2146,25 @@ translate chinese train_end_16_1_89382e47:
 translate chinese train_end_16_1_04785988:
 
     # ch_Name "Did you say something?"
-    ch_Name "你说什么了?"
+    ch_Name "你说什么了吗？"
 
 # game/logic/locations/corridor.rpy:1234
 translate chinese train_end_16_1_5ca9338c:
 
     # Haley "I said WAKE UP! You won't believe your eyes!"
-    Haley "我说醒醒! 你不会相信你的眼睛!"
+    Haley "我叫你醒醒！你的眼睛一点都不可靠！"
 
 # game/logic/locations/corridor.rpy:1238
 translate chinese train_end_16_1_d3523126:
 
     # ch_Name "{i}(I'm sure she just called me cute...){/i}"
-    ch_Name "{i}(我肯定她刚才说我可爱…){/i}"
+    ch_Name "{i}(我肯定她刚才说我可爱了…){/i}"
 
 # game/logic/locations/corridor.rpy:1242
 translate chinese train_end_16_1_2c1e9e70:
 
     # ch_Name "{i}(Was that what she was thinking?){/i}"
-    ch_Name "{i}(她是这么想的吗?){/i}"
+    ch_Name "{i}(她真的是这么想的吗？){/i}"
 
 # game/logic/locations/corridor.rpy:1246
 translate chinese train_end_16_1_977eeda5:
@@ -2200,7 +2200,7 @@ translate chinese train_end_16_1_170850cd:
 translate chinese train_end_16_1_c212acb2:
 
     # ch_Name "Fucking dragons!"
-    ch_Name "该死的龙!"
+    ch_Name "卧槽是条龙!"
 
 # game/logic/locations/corridor.rpy:1271
 translate chinese train_end_16_1_3e74e358:
@@ -2212,7 +2212,7 @@ translate chinese train_end_16_1_3e74e358:
 translate chinese train_end_16_1_f1e164fe:
 
     # Haley "Magical..."
-    Haley "神奇…"
+    Haley "太魔幻了……"
 
 # game/logic/locations/corridor.rpy:1280
 translate chinese train_end_16_1_346beea5:
@@ -2230,7 +2230,7 @@ translate chinese train_end_16_1_a6679a5b:
 translate chinese train_end_16_1_68896626:
 
     # Haley "Do you think they can attack a train?"
-    Haley "你觉得他们能袭击火车吗?"
+    Haley "你觉得他们会袭击火车吗?"
 
 # game/logic/locations/corridor.rpy:1293
 translate chinese train_end_16_1_fb1f3628:
@@ -2248,7 +2248,7 @@ translate chinese train_end_16_1_c230c6ce:
 translate chinese train_end_16_1_d0af53fc:
 
     # ch_Name "They seem pretty peaceful."
-    ch_Name "他们看起来很和平。"
+    ch_Name "他们看起来很平和。"
 
 # game/logic/locations/corridor.rpy:1307
 translate chinese train_end_16_1_d61fc905:
@@ -2272,19 +2272,19 @@ translate chinese train_end_16_1_ae8734d1:
 translate chinese train_end_16_1_17fa1d94:
 
     # ch_Name "They would have attacked a long time ago!"
-    ch_Name "他们很久以前就会进攻了!"
+    ch_Name "如果要打的话，它们早就进攻了！"
 
 # game/logic/locations/corridor.rpy:1323
 translate chinese train_end_16_1_d3c17d2c:
 
     # Haley "I guess you're right."
-    Haley "我想你是对的。"
+    Haley "我想你说得有道理。"
 
 # game/logic/locations/corridor.rpy:1327
 translate chinese train_end_16_1_c488fc38:
 
     # Haley "Sorry, I'm a little afraid of all lizards..."
-    Haley "对不起，我有点害怕所有的蜥蜴…"
+    Haley "对不起，我对所有的蜥蜴都有点害怕……"
 
 # game/logic/locations/corridor.rpy:1331
 translate chinese train_end_16_1_eb8c6edb:
@@ -2314,13 +2314,13 @@ translate chinese test_label_ep1_1_63bf38a9:
 translate chinese test_label_ep1_1_aa81c689:
 
     # ch_Name "...What a long tunnel..."
-    ch_Name "…多长的隧道啊…"
+    ch_Name "……好长的隧道啊…"
 
 # game/logic/locations/corridor.rpy:1356
 translate chinese test_label_ep1_1_dba360aa:
 
     # Haley "It's like an eternity."
-    Haley "就像永恒一样。"
+    Haley "就像无尽的永恒一样。"
 
 # game/logic/locations/corridor.rpy:1358
 translate chinese test_label_ep1_1_919dda1c:
@@ -2368,7 +2368,7 @@ translate chinese test_label_ep1_1_ffd0dea4:
 translate chinese test_label_ep1_1_fac1f63a:
 
     # "Radio" "Applicants for the Cordale entrance exam..."
-    "Radio" "Cordale大学入学考试的申请人…"
+    "Radio" "Cordale学院入学考试的申请人……"
 
 # game/logic/locations/corridor.rpy:1386
 translate chinese test_label_ep1_1_3d481eee:
@@ -2386,13 +2386,13 @@ translate chinese test_label_ep1_1_f01eb552:
 translate chinese test_label_ep1_1_6267bfe7:
 
     # Haley "[Name], hey, you coming?"
-    Haley "[Name]，嘿，你要来吗?"
+    Haley "[Name]，嘿，你要一起来吗？"
 
 # game/logic/locations/corridor.rpy:1398
 translate chinese test_label_ep1_1_654929b0:
 
     # ch_Name "Go without me."
-    ch_Name "没有我。"
+    ch_Name "你自己先走吧。"
 
 # game/logic/locations/corridor.rpy:1402
 translate chinese test_label_ep1_1_8df2eae4:
@@ -2404,13 +2404,13 @@ translate chinese test_label_ep1_1_8df2eae4:
 translate chinese test_label_ep1_1_7d9168ea:
 
     # ch_Name "I'll find you later."
-    ch_Name "我一会儿找你。"
+    ch_Name "我一会儿去找你。"
 
 # game/logic/locations/corridor.rpy:1414
 translate chinese test_label_ep1_1_354a9cc9:
 
     # ch_Name "{i}(I need to find Samantha. Where was the meeting point?){/i}"
-    ch_Name "{i}(我得找到Samantha。会面地点在哪里?){/i}"
+    ch_Name "{i}(我得找到Samantha。见面地点在哪里?){/i}"
 
 # game/logic/locations/corridor.rpy:1418
 translate chinese test_label_ep1_1_939c46f3:
@@ -2428,7 +2428,7 @@ translate chinese test_label_ep1_1_add9410c:
 translate chinese test_label_ep1_1_184a2fb8:
 
     # Samantha "Let's step aside."
-    Samantha "让我们下台。"
+    Samantha "我们靠边站。"
 
 # game/logic/locations/corridor.rpy:1430
 translate chinese test_label_ep1_1_e46aa815:
@@ -2440,7 +2440,7 @@ translate chinese test_label_ep1_1_e46aa815:
 translate chinese test_label_ep1_1_ca60e23b:
 
     # Samantha "Not here."
-    Samantha "不在这里。"
+    Samantha "借一步说话。"
 
 # game/logic/locations/corridor.rpy:1438
 translate chinese test_label_ep1_1_b6d3dd39:
@@ -2458,7 +2458,7 @@ translate chinese test_label_ep1_1_981dad95:
 translate chinese test_label_ep1_1_76c7b076:
 
     # Samantha "Shh! Speak quietly. "
-    Samantha "嘘! 小声地说。"
+    Samantha "嘘! 小声点。"
 
 # game/logic/locations/corridor.rpy:1452
 translate chinese test_label_ep1_1_0c755b8e:
@@ -2518,7 +2518,7 @@ translate chinese test_label_ep1_1_1db51077:
 translate chinese test_label_ep1_1_91e785f7:
 
     # Samantha "Did you feel... powerful?"
-    Samantha "你感觉… 强大的吗?"
+    Samantha "你感觉……自己变得强大了吗？"
 
 # game/logic/locations/corridor.rpy:1492
 translate chinese test_label_ep1_1_066bb089:
@@ -2542,7 +2542,7 @@ translate chinese test_label_ep1_1_e6fe81a2:
 translate chinese end_no_nothing_855666ac:
 
     # Samantha "Don't be afraid of me, pal. I am trying to help."
-    Samantha "别怕我，伙计。我只是想帮忙。"
+    Samantha "别怕，朋友。我只是想帮忙。"
 
 # game/logic/locations/corridor.rpy:1516
 translate chinese end_no_nothing_f7b247cf:
@@ -2566,13 +2566,13 @@ translate chinese end_no_nothing_191158e4:
 translate chinese end_no_nothing_a7ca91d9:
 
     # Samantha "Did you shatter glass just by looking at it?"
-    Samantha "你光看玻璃就把它打碎了吗?"
+    Samantha "你看一眼玻璃就把它打碎吗?"
 
 # game/logic/locations/corridor.rpy:1524
 translate chinese end_no_nothing_df06b3a5:
 
     # Samantha "Did you read someone's thoughts?"
-    Samantha "你读到了别人的想法吗?"
+    Samantha "你读出了别人的想法吗?"
 
 # game/logic/locations/corridor.rpy:1526
 translate chinese end_no_nothing_902f5322:
@@ -2584,13 +2584,13 @@ translate chinese end_no_nothing_902f5322:
 translate chinese end_no_nothing_31ab1b88:
 
     # Samantha "I know everything! Remember that. Come on, read my mind!"
-    Samantha "我知道一切! 记住这一点。来吧，看看我在想什么!"
+    Samantha "我什么都知道！记住这一点。来吧，看看我在想什么！"
 
 # game/logic/locations/corridor.rpy:1530
 translate chinese end_no_nothing_537e3051:
 
     # ch_Name "I don't know how to do it on purpose..."
-    ch_Name "我不知道怎么故意这么做..."
+    ch_Name "我不知道如何刻意为之..."
 
 # game/logic/locations/corridor.rpy:1532
 translate chinese end_no_nothing_177dee75:
@@ -2602,7 +2602,7 @@ translate chinese end_no_nothing_177dee75:
 translate chinese end_no_nothing_5239c40e:
 
     # Samantha "Make sure you remember one thing: in this place nothing \"seems\" a certain way without reason."
-    Samantha "一定要记住一件事:在这个地方，没有什么事情是没有理由的。"
+    Samantha "一定要记住一件事：在这个地方，没有什么事情是没有理由的。"
 
 # game/logic/locations/corridor.rpy:1536
 translate chinese end_no_nothing_b57e43d9:
@@ -2614,19 +2614,19 @@ translate chinese end_no_nothing_b57e43d9:
 translate chinese Read_Samanthas_thoughts_label_75fed526:
 
     # "{i}Sam is humming Avril Lavigne - Girlfriend in her mind.{/i}"
-    "{i}Sam在脑海中哼着Avril Lavigne-女朋友的歌。{/i}"
+    "{i}Sam在心里哼着Avril Lavigne的《女朋友》。{/i}"
 
 # game/logic/locations/corridor.rpy:1546
 translate chinese Read_Samanthas_thoughts_label_90ddfdc6:
 
     # ch_Name "You have terrible taste in music."
-    ch_Name "你的音乐品味很差。"
+    ch_Name "你的音乐品味很差啊。"
 
 # game/logic/locations/corridor.rpy:1548
 translate chinese Read_Samanthas_thoughts_label_35f374ae:
 
     # Samantha "Very cool! Try again!"
-    Samantha "非常酷! 再试一次!"
+    Samantha "太酷了！再试一次！"
 
 # game/logic/locations/corridor.rpy:1554
 translate chinese Read_Samanthas_thoughts_label_b592d5b3:
@@ -2638,19 +2638,19 @@ translate chinese Read_Samanthas_thoughts_label_b592d5b3:
 translate chinese Read_Samanthas_thoughts_label_acdef95d:
 
     # ch_Name "I... I can't..."
-    ch_Name "我… 我不能…"
+    ch_Name "我……我不行……"
 
 # game/logic/locations/corridor.rpy:1558
 translate chinese Read_Samanthas_thoughts_label_861e54b9:
 
     # Samantha "This is called a \"mental block.\""
-    Samantha "这被称为“心理障碍”。"
+    Samantha "这被称为“心理屏障”。"
 
 # game/logic/locations/corridor.rpy:1560
 translate chinese Read_Samanthas_thoughts_label_89231c2e:
 
     # Samantha "A telepath of your level will not be able to read the thoughts of a talented magician like me."
-    Samantha "你这个等级的心灵感应是无法读懂像我这样天才魔术师的思想的。"
+    Samantha "你这个等级的心灵感应是无法读懂像我这样天才魔法师的思想的。"
 
 # game/logic/locations/corridor.rpy:1562
 translate chinese Read_Samanthas_thoughts_label_bd9158ad:
@@ -2668,13 +2668,13 @@ translate chinese Read_Samanthas_thoughts_label_5a8cbd85:
 translate chinese Read_Samanthas_thoughts_label_89d75694:
 
     # Samantha "You will have plenty of time to practice your skill."
-    Samantha "你将有足够的时间来练习你的技能。"
+    Samantha "你会有足够的时间来练习你的技巧。"
 
 # game/logic/locations/corridor.rpy:1568
 translate chinese Read_Samanthas_thoughts_label_3ef9f68f:
 
     # Samantha "If you don't fail the entrance exams..."
-    Samantha "如果你入学考试及格…"
+    Samantha "如果你入学考试及格的话……"
 
 # game/logic/locations/corridor.rpy:1570
 translate chinese Read_Samanthas_thoughts_label_ccfb137f:
@@ -2686,7 +2686,7 @@ translate chinese Read_Samanthas_thoughts_label_ccfb137f:
 translate chinese Read_Samanthas_thoughts_label_bacd6e13:
 
     # ch_Name "My memory isn't erased?!"
-    ch_Name "我的记忆没有被抹去?!"
+    ch_Name "我的记忆不会被抹去？！"
 
 # game/logic/locations/corridor.rpy:1574
 translate chinese Read_Samanthas_thoughts_label_5aa7f8a1:
@@ -2698,7 +2698,7 @@ translate chinese Read_Samanthas_thoughts_label_5aa7f8a1:
 translate chinese Read_Samanthas_thoughts_label_e8dcf684:
 
     # Samantha "Listen!"
-    Samantha "听!"
+    Samantha "听好了！"
 
 # game/logic/locations/corridor.rpy:1578
 translate chinese Read_Samanthas_thoughts_label_f75a62da:
@@ -2710,7 +2710,7 @@ translate chinese Read_Samanthas_thoughts_label_f75a62da:
 translate chinese Read_Samanthas_thoughts_label_bb4487e3:
 
     # Samantha "If you fail, your memory will be erased and you'll be sent back to the world without magic."
-    Samantha "如果你失败了，你的记忆就会被抹去你就会被送回没有魔法的世界。"
+    Samantha "如果你失败了，你的记忆就会被抹去，你就会被送回没有魔法的世界。"
 
 # game/logic/locations/corridor.rpy:1582
 translate chinese Read_Samanthas_thoughts_label_31a35028:
@@ -2728,13 +2728,13 @@ translate chinese Read_Samanthas_thoughts_label_5f55f2f9:
 translate chinese Read_Samanthas_thoughts_label_94837700:
 
     # Samantha "Don't fail the exam."
-    Samantha "考试不要不及格。"
+    Samantha "别考砸了。"
 
 # game/logic/locations/corridor.rpy:1588
 translate chinese Read_Samanthas_thoughts_label_26c73589:
 
     # ch_Name "And this is your wise advice?!"
-    ch_Name "这就是你明智的建议?!"
+    ch_Name "这就是你明智的建议？！"
 
 # game/logic/locations/corridor.rpy:1590
 translate chinese Read_Samanthas_thoughts_label_95264c4f:
@@ -2752,13 +2752,13 @@ translate chinese Read_Samanthas_thoughts_label_85f1d0f3:
 translate chinese Read_Samanthas_thoughts_label_2e16d0e1:
 
     # Samantha "Focus on something that you have a passion for and you will definitely succeed."
-    Samantha "专注于你所热爱的事情，你一定会成功。"
+    Samantha "专注于你所热爱的事情，你一定会成功的。"
 
 # game/logic/locations/corridor.rpy:1596
 translate chinese Read_Samanthas_thoughts_label_ad676582:
 
     # ch_Name "But why am I just now... starting to read minds?"
-    ch_Name "但为什么我刚才… 开始读心术了?"
+    ch_Name "但为什么我刚才……开始会读心术了?"
 
 # game/logic/locations/corridor.rpy:1598
 translate chinese Read_Samanthas_thoughts_label_5d204ef4:
@@ -2800,7 +2800,7 @@ translate chinese Read_Samanthas_thoughts_label_764a091a:
 translate chinese Read_Samanthas_thoughts_label_490283c6:
 
     # Radio "...will lose the opportunity to take part in the entrance exam."
-    Radio "…将失去参加入学考试的机会。"
+    Radio "……将丧失参加入学考试的资格。"
 
 # game/logic/locations/corridor.rpy:1612
 translate chinese Read_Samanthas_thoughts_label_57489638:
@@ -2818,7 +2818,7 @@ translate chinese Read_Samanthas_thoughts_label_9fa400f5:
 translate chinese Read_Samanthas_thoughts_label_abc10325:
 
     # Samantha "Good luck!"
-    Samantha "好运!"
+    Samantha "祝你好运!"
 
 # game/logic/locations/corridor.rpy:1618
 translate chinese Read_Samanthas_thoughts_label_5f912d8f:
@@ -2846,7 +2846,7 @@ translate chinese strings:
 
     # game/logic/locations/corridor.rpy:736
     old "Enjoy the view"
-    new "享受视角"
+    new "享受美景"
 
     # game/logic/locations/corridor.rpy:763
     old "Continue enjoying the view"
@@ -2898,7 +2898,7 @@ translate chinese strings:
 
     # game/logic/locations/corridor.rpy:1500
     old "I heard thoughts"
-    new "我听到了思绪"
+    new "我听到了你的想法"
 
     # game/logic/locations/corridor.rpy:1500
     old "No, nothing"
@@ -2906,5 +2906,5 @@ translate chinese strings:
 
     # game/logic/locations/corridor.rpy:1540
     old "Read Samantha's thoughts"
-    new "读Samantha的想法"
+    new "对Samantha施展读心术"
 
