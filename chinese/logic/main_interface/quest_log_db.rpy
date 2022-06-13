@@ -4,7 +4,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "She's the mysterious hostess of the strip club called Lady Luck. It seems like she's in charge there. She once almost got raped by Diego."
-    new "她是脱衣舞俱乐部的神秘女主人，叫Lady Luck。看起来她是那里的负责人。她有次差点被Diego强奸。"
+    new "她是脱衣舞俱乐部幸运女神的神秘女主人，看起来她就是那里的负责人。她有一次差点被Diego强奸了。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Cuill"
@@ -28,7 +28,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Turns out that the statues in one of the gardens are actually alive! One of them even had a boner while we were walking there with Haley. \"Angels\" storyline for this version of the game has come to an end."
-    new "原来其中一个花园中的雕像是活的!我们和Haley在那里散步的时候，其中一个还勃起了。“天使”的故事线为这个版本的游戏已经结束了。"
+    new "原来其中一个花园中的雕像是活的!我们和Haley在那里散步的时候，其中一个还勃起了。“天使”故事线在此版本的游戏里已经结束。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Angels"
@@ -36,7 +36,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Garden's story has come to an end."
-    new "Garden的故事已经结束。"
+    new "花园的故事已结束。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Arthur Doorman is the headmaster of the school and a respected member of the Wizarding Society. He is an example to all."
@@ -116,7 +116,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "A business-oriented dwarf. Owner of the only store in Dale. Willow's father. You can always make money from him by fishing."
-    new "一个面向业务的侏儒。Dale唯一一家商店的老板。Willow的父亲。你总可以从他那里靠钓鱼赚钱。"
+    new "一个经商的侏儒。Dale唯一一家商店的老板。Willow的父亲。你总可以从他那里靠钓鱼赚钱。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Chompski"
@@ -132,7 +132,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The first person I met on my way to becoming a wizard. She's smart, beautiful, and funny. I wonder if we can be more than friends..."
-    new "我成为巫师的路上遇到的第一个人。她聪明、漂亮、有趣。我想知道我们是否能超越朋友的关系..."
+    new "我成为巫师的路上遇到的第一个人。她很聪明、漂亮、有趣。我想知道我们是否能超越朋友的关系..."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Ranger"
@@ -140,7 +140,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Jacob met us at the train station when I'd just arrived at Cordale. He's most certainly the grimmest teacher in the academy. He runs a dueling club. He has a certain creepy vibe about him."
-    new "我刚到Cordale时，Jacob在火车站接我们。他肯定是学院里最严厉的老师。他经营一家决斗俱乐部。他身上有种令人毛骨悚然的感觉。"
+    new "我刚到Cordale时，Jacob在火车站接我们。他肯定是学院里最严厉的老师。他管理着一家决斗俱乐部。他身上有种令人毛骨悚然的感觉。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Frollo"
@@ -160,7 +160,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "At this version of Lust Academy there's no more massage scenes."
-    new "这个版本的欲望学院里没有按摩场景。"
+    new "这个版本的欲望学院里没有更多的按摩场景了。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Joshi is a talkative young guy who clearly lives only to have a good time and relax."
@@ -184,11 +184,11 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The main story for this version has come to an end."
-    new "这个版本的主要故事已经结束了。"
+    new "此版本的主线故事已结束。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lily is a real diehard fan of Leonheart. She does a lot for its sake and gets thrilled when I help her with that."
-    new "Lily是Leonheart的死忠粉。她为此做了很多，当我帮助她时，她很兴奋。"
+    new "Lily是Leonheart的死忠粉。她为此做了很多，每次我帮助她，她都很兴奋。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Hebi"
@@ -196,7 +196,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lucy is one of the dancers at Lady Luck night club. I think I'll get to know her better if I invite her to VIP."
-    new "Lucy是Lady Luck夜总会的一名舞者。我想如果我邀请她去VIP会更好地了解她。"
+    new "Lucy是Lady Luck夜总会的一名舞者。我想如果我邀请她去VIP可以更好地了解她。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Altidore"
@@ -212,7 +212,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Molly is a hard-working businesswoman who keeps her café in Cordale. She helps me with a part-time job when I need money."
-    new "Molly是一个努力工作的女商人，她在Cordale开咖啡馆。当我需要钱的时候，她帮我做兼职。"
+    new "Molly是一个努力工作的女商人，她在Cordale开咖啡馆。在我需要钱的时候，她会给我提供兼职岗位。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Maeve"
@@ -220,7 +220,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Naomi is a coldhearted rising queen of manipulation from Adderin and Lily's best friend."
-    new "Naomi是一个冷血的女王，是Adderin和 Lily最好的朋友。"
+    new "Naomi是一个热衷操控且高冷的女王，来自Adderin，也是Lily最好的朋友。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Kimba"
@@ -232,7 +232,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Wild-Rose"
-    new "Wild-Rose"
+    new "Wild-Rose狂野玫瑰"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "A bouncer. He's a prick who asks for bribes to let you in the club. He tricked me and almost let Diego rape Adele."
@@ -240,11 +240,11 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Mobs"
-    new "Mobs"
+    new "暴徒"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Sabrina is the sweetest teacher in the Academy, and you can always see how happy she gets when she seems some dedication in her lessons."
-    new "Sabrina是学院里最贴心的老师，你总能看到，当她在课堂上表现得很投入时，她有多开心。"
+    new "Sabrina是学院里最贴心的老师，你总能看到她在课堂上表现得很投入时，她有多开心。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Spellman"
@@ -252,11 +252,11 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "There are no more theory lessons available for this version of the game."
-    new "这个版本的游戏没有更多的理论课程。"
+    new "这个版本的游戏没有更多的理论课程了。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Sadira is one of the dancers at Lady Luck. She seems strange and exotic, I think I'll enjoy what she can offer in VIP."
-    new "Sadira是Lady Luck舞团的一员。她看起来很奇怪，很有异国情调，我想我会喜欢她在VIP提供的服务。"
+    new "Sadira是幸运女神的一员。她看起来很奇怪，很有异国情调，我想我会喜欢她在VIP提供的服务。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Adala"
@@ -264,11 +264,11 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Samantha is my best friend and Olivia's first child. She's kind and supportive and sees good even where no one else can."
-    new "Samantha是我最好的朋友也是Olivia的第一个孩子。她善良，乐于助人，即使别人看不到她的优点，她也能看到。"
+    new "Samantha是我最好的朋友，也是Olivia的第一个孩子。她善良，乐于助人，即使别人看不到她的优点，她也能反过来看到别人的优点。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Vanessa is a barman at Lady Luck. She's mysterious and obsessed with her special cocktails."
-    new "Vanessa是Lady Luck酒吧的酒保。她很神秘，对她的特制鸡尾酒很着迷。"
+    new "Vanessa是幸运女神俱乐部的酒保。她很神秘，对她的特制鸡尾酒很着迷。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Le Court"
@@ -276,7 +276,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Victoria is strict, but just teacher. Everyone respects her a lot. She makes it look like my flirting is useless, but I won't stop trying."
-    new "Victoria很严格，但只是个老师。每个人都很尊敬她。她让我的调情看起来毫无用处，但我不会停止尝试。"
+    new "Victoria很严格，但只是个老师。每个人都很尊敬她。她让我的调情看起来毫无用处，但我就此作罢。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lapis"
@@ -284,7 +284,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "At this version of Lust Academy there's no more theory or scenes for Victoria."
-    new "在这个版本的欲望学院里，Victoria没有更多的理论和场景。"
+    new "在这个版本的欲望学院里，Victoria没有更多的理论课程和性爱场景了。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Fairy"
@@ -292,7 +292,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Willow is a cheerful and quirky daughter of Gordon. She's helpful when someone needs magical artifacts."
-    new "Willow是Gordon的女儿，性格开朗又古怪。有人需要魔法物品时，她会帮忙。"
+    new "Willow是Gordon的女儿，性格开朗又古怪。有人需要魔法物品时，她就会帮忙。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "When me and Lily got lost and almost died in a magical flesh-eating mushroom forest I saw strange creature, that looked like a hybrid of mushroom and human girl. She was cute. I wonder who she is?"
@@ -312,11 +312,11 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We had a great time with Adele at the cafe. She was very sociable and friendly. I think she liked me too. We agreed that we will do it again sometime, so a second date is in my pocket."
-    new "我们和Adele在咖啡厅玩得很开心。她很好交际，很友好。我想她也喜欢我。我们说好以后还会再约的，所以第二次约会计划就在我口袋里。"
+    new "我和Adele在咖啡厅过得很开心。她很好交际，很友好。我想她也喜欢我。我们说好以后还会再约的，所以我已经计划好第二次约会了。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Ahchi is a pleasant and sociable barista who makes incredibly cool coffee. He is always nice to talk to and often tells interesting news and rumors."
-    new "Ahchi是一位和蔼可亲、善于交际的咖啡师，他的咖啡非常酷。他总是很好聊天，经常告诉有趣的新闻和谣言。"
+    new "Ahchi是一位和蔼可亲、善于交际的咖啡师，他的咖啡非常酷。他总是很好聊天，经常和我分享有趣的新闻和传言。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Amelie said that magical creatures can prank students by stealing their books. If I find lost books scattered around the academy, I can return them to the library in exchange for house points."
@@ -324,7 +324,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Amelie didn't lie - for every book I return, she gives me the points needed to win the weekly competition. I could turn in one book at a time or continue collecting and turn in many at once. She will surely appreciate the help. If I want to get closer, I need to find more books."
-    new "Amelie没有撒谎——我每归还一本书，她都会给我赢得每周竞赛所需的点数。我可以一次只交一本书，也可以继续收集，同时交很多本书。她一定会感激你的帮助。如果我想再跟她接近点，我需要找更多的书。"
+    new "Amelie没有撒谎——我每归还一本书，她都会给我赢得每周竞赛所需的点数。我可以一次只交一本书，也可以继续收集，同时交很多本书。她一定会感激我的帮助。如果我想再跟她接近点，我需要找更多的书。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I helped Amelie deal with the elves who tried to steal from her, but they managed to steal one of the potions. Amelie asked me to help her get it back when she figured out where they were hiding. I couldn't wait."
@@ -332,11 +332,11 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Amelie and I went to the elf settlement in the woods and returned the stolen potion. It was epic! Admittedly, the potion broke and got on Amelie in the process, but that's okay... But, it was fun."
-    new "Amelie和我去了森林里的精灵聚集地找回了偷来的魔药。这是史诗! 不可否认，药水破了，在这个过程中迷上了Amelie，但这没关系... 但是，这很有趣。"
+    new "Amelie和我去了森林里的精灵聚集地，找回了被偷走的魔药。可谓史诗壮举！不可否认，药水瓶碎了，在此过程中Amelie中了迷药，但这没关系... 但是，这很有趣。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Now I know that we have really creepy angels living in the garden, Garden's story has come to an end."
-    new "现在我知道我们真的有令人毛骨悚然的天使住在花园里，花园的故事已经结束了。"
+    new "现在我知道真的有令人毛骨悚然的天使住在花园里，花园的故事线已结束。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Now I know that we have really creepy angels living in the garden."
@@ -344,43 +344,43 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "If Leonheart wins weekly house competition we'll be able to visit local town - Dale. To win the competition I need to earn points by visiting classes, collecting books or winning in duels."
-    new "如果Leonheart赢得了每周的分院比赛我们就能去参观当地的小镇Dale。为了赢得比赛，我需要通过学习课程、收集书籍或在决斗中获胜来赢得分数。"
+    new "如果Leonheart赢得了每周的分院比赛，我们就能去参观当地的Dale镇。为了赢得比赛，我需要通过学习课程、收集书籍或在决斗中获胜来赢得分数。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've been to Dale and it's awesome. Winning the school competition is really valuable, plus they give money to winners. I should try to win again."
-    new "我去过Dale，那里很棒。赢得分院比赛真的很有价值，而且他们会给优胜者钱。我应该努力再赢一次。"
+    new "我去过Dale，那里很棒。赢得分院比赛真的很有价值，而且他们会给优胜者补贴。我应该努力再赢一次。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "This character has no active quests in this version of the game."
-    new "这个角色在这个版本的游戏中没有激活的任务。"
+    new "此角色在此版本的游戏中无可用任务。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "She's in Leonheart too, so I can probably meet her in the Living room in the morning."
-    new "她也在Leonheart，所以我可能早上在我们学校见她。"
+    new "她也在Leonheart，所以我可能早上会在客厅见到她。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Audrey only talks to men who can take her to a restaurant. It seems that I have to get a job to interest her in my persona."
-    new "Audrey只和能带她去餐馆的男人说话。看来我得找份工作才能让她对我的角色感兴趣。"
+    new "Audrey只和能带她去餐馆的男人说话。看来我得找份工作才能让她对我感兴趣。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've helped Audrey get milk for her morning coffee, and I hope it'll melt some ice between us. Audrey will be waiting for me in the living room in the evening. I wonder if that's a hint."
-    new "我帮Audrey买了牛奶做晨间咖啡，我希望这能让我们之间的关系有所缓和。Audrey晚上会在客厅等我。我想这是不是一个暗示。"
+    new "我帮Audrey买了牛奶给她做早咖啡，我希望这能让我们之间的关系有所缓和。Audrey晚上会在客厅等我。我想这是不是一个暗示。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've tried to get Sam and Audrey to tell me if they're hiding something, but they told me nothing. I'll need to talk to Audrey in the morning, when she's alone."
-    new "我试着让Sam和Audrey告诉我他们是否隐瞒了什么，但他们什么都没说。明早Audrey一个人的时候，我得和她谈谈。"
+    new "我试着让Sam和Audrey告诉我他们是不是隐瞒了什么，但他们什么都没说。明早Audrey一个人的时候，我得和她谈谈。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We had a fantastic time drinking coffee at Molly's while it was still closed. I think we're getting closer. I'll just have to wait until she makes her move."
-    new "我们在Molly的咖啡馆还没关门的时候喝咖啡，度过了一段美妙的时光。我觉得我们越来越接近了。我只能等她采取行动了。"
+    new "我们在Molly的咖啡馆还没关门的时候偷偷喝了咖啡，度过了一段美妙的时光。我觉得我们越来越近了。我只能等她采取行动了。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Audrey was so sweet about choosing a gift for Samantha. They must be really good friends. I think she likes me too, and Maybe I should talk to her in the evening?"
-    new "Audrey为Samantha挑选礼物真是太贴心了。他们一定是很好的朋友。我想她也喜欢我也许我应该晚上和她谈谈?"
+    new "Audrey为Samantha挑选礼物真是太贴心了。她们一定是很好的朋友。我想她也喜欢我，也许我晚上应该和她谈谈?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Audrey and Samantha acted  really weird  tonight: first they  got touchy with each other and went to their room. Then, Samantha stormed out and she looked concerned. I'll have to talk to Audrey again if I want to know the details."
-    new "Audrey和Samantha今晚的行为很奇怪:首先，她们相互动手动脚，然后去了她们的房间。然后，Samantha气冲冲地走了出去，看起来很担心。如果我想知道细节，我得再和Audrey谈谈。"
+    new "Audrey和Samantha今晚的行为很奇怪:首先，她们相互动手动脚，然后回了她们的房间。再然后，Samantha气冲冲地走了出去，看起来很担心。如果我想知道细节的话，我得再和Audrey谈谈。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Audrey and I have a complicated situation, and I have to figure out what to do next. If not for Audrey's sake, then for Samantha's, who is very close to her."
