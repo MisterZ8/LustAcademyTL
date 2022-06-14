@@ -19924,8 +19924,7 @@ translate chinese Audrey_1_label_6299939e:
 translate chinese Audrey_1_label_244b6109:
 
     # Audrey "I just wanted a cup of coffee in the morning..."
-    Audrey "我只是想在早上喝杯咖啡。。。
-"
+    Audrey "我只是想在早上喝杯咖啡。。。"
 
 # game/logic/events/audrey.rpy:226
 translate chinese Audrey_1_label_361a62e7:
@@ -19961,8 +19960,7 @@ translate chinese Audrey_3_label_8399fcc5:
 translate chinese Audrey_3_label_6613b842:
 
     # Audrey "But you know what..."
-    Audrey "但你知道吗。。。
-"
+    Audrey "但你知道吗。。。"
 
 # game/logic/events/audrey.rpy:352
 translate chinese Audrey_3_label_d27ff45a:
@@ -19974,8 +19972,7 @@ translate chinese Audrey_3_label_d27ff45a:
 translate chinese Audrey_3_label_71281b8a:
 
     # ch_Name "Hey! You've just said something nice to me for the first time and then ruined it..."
-    ch_Name "嘿！你刚刚第一次对我说了些好话，然后就毁了它。。。
-"
+    ch_Name "嘿！你刚刚第一次对我说了些好话，然后就毁了它。。。"
 
 # game/logic/events/audrey.rpy:360
 translate chinese Audrey_3_label_73136358:

@@ -3174,13 +3174,13 @@ translate chinese Amelie_4_label_4083d767:
 translate chinese Amelie_4_label_6c3b8e81:
 
     # Amelie "But since an average elf or pixie is much smaller than a human..."
-    Amelie "但由于一般的精灵或小精灵比人类要小得多……
+    Amelie "但由于一般的精灵或小精灵比人类要小得多……"
 
 # game/logic/events/amelie.rpy:704
 translate chinese Amelie_4_label_1f5dd3ac:
 
     # Amelie "...even one drop can be lethal for them in the best of cases..."
-    Amelie ……在最好的情况下，哪怕一滴也可能致命……
+    Amelie "……在最好的情况下，哪怕一滴也可能致命……"
 
 # game/logic/events/amelie.rpy:707
 translate chinese Amelie_4_label_b940560d:
@@ -3234,7 +3234,7 @@ translate chinese Amelie_4_label_fb6aa252:
 translate chinese Amelie_4_label_06d43762:
 
     # Amelie "We only need to negotiate with the pixies. And it would be wise not to anger them..."
-    Amelie "我们只需要和精灵们谈判。最好不要激怒他们……
+    Amelie "我们只需要和精灵们谈判。最好不要激怒他们……"
 
 # game/logic/events/amelie.rpy:745
 translate chinese Amelie_4_label_212342cd:
@@ -3416,7 +3416,7 @@ translate chinese Amelie_4_label_f4d9e96b:
 translate chinese Amelie_4_label_e80765e7:
 
     # Amelie "But since an average elf or pixie is much smaller than a human..."
-    Amelie "然而，由于精灵和小精灵的平均体型要比人类小得多……
+    Amelie "然而，由于精灵和小精灵的平均体型要比人类小得多……"
 
 # game/logic/events/amelie.rpy:820
 translate chinese Amelie_4_label_a6c4f7b7:

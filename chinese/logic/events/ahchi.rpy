@@ -208,8 +208,7 @@ translate chinese CF_S1_label_808c6128:
 translate chinese CF_S1_label_093532ce:
 
     # Samantha "[Name]! It's really surprising to see you here."
-    Samantha "[Name]！在这里见到你真高兴。
-"
+    Samantha "[Name]！在这里见到你真高兴。"
 
 # game/logic/events/ahchi.rpy:222
 translate chinese CF_S1_label_fc12dca9:
@@ -311,8 +310,7 @@ translate chinese CF_S1_label_fd236a41:
 translate chinese CF_S1_label_ab5dcd1d:
 
     # Samantha "All these new people, first impressions, emotions, parties and lots of fun!"
-    Samantha "所有的新人，所有第一印象，还有感情，派对和许多快乐！
-"
+    Samantha "所有的新人，所有第一印象，还有感情，派对和许多快乐！"
 
 # game/logic/events/ahchi.rpy:243
 translate chinese CF_S1_label_89d7466f:
@@ -576,8 +574,7 @@ translate chinese CF_S1_label_28a98ab9:
 translate chinese CF_S1_label_9a458d38:
 
     # Samantha "It was nice to meet you, [Name]."
-    Samantha "很高兴见到你，[Name]。
-"
+    Samantha "很高兴见到你，[Name]。"
 
 # game/logic/events/ahchi.rpy:296
 translate chinese CF_S1_label_20d84f11:
@@ -895,8 +892,7 @@ translate chinese CF_S2_label_8fc8fbc5:
 translate chinese CF_S2_label_5d5f6a4b:
 
     # Audrey "I've hanged out with other guys, but it was more about on-call fuck buddies."
-    Audrey "我和其他男人一起出去玩，但更多的是随叫随到的炮友。
-"
+    Audrey "我和其他男人一起出去玩，但更多的是随叫随到的炮友。"
 
 # game/logic/events/ahchi.rpy:377
 translate chinese CF_S2_label_3ef5256d:
@@ -1100,8 +1096,7 @@ translate chinese CF_S3_label_4d7c1aa5:
 translate chinese CF_S3_label_f4b7a84b:
 
     # Samantha "[Name]! Nice to meet you!"
-    Samantha "[Name]！见到你很高兴！
-"
+    Samantha "[Name]！见到你很高兴！"
 
 # game/logic/events/ahchi.rpy:431
 translate chinese CF_S3_label_2ccbdaaa:

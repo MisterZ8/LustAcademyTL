@@ -11598,7 +11598,7 @@ translate chinese Leona_10_label_802ebba7:
 translate chinese Leona_10_label_7231d87d:
 
     # Jacob "Wait, wait, wait, wait, wait, wait."
-    Jacob 等一下，等一下。"
+    Jacob "等一下，等一下。"
 
 # game/logic/events/Leona.rpy:3049
 translate chinese Leona_10_label_fa8912f3:
