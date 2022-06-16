@@ -12,7 +12,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "This friendly elf is the best barista in all of Dale. Not only will he masterfully prepare any drink, but he's also happy to tell the customer interesting news and rumors from over the world."
-    new "这个友好的精灵是全Dale最好的咖啡师。他不仅会熟练地准备任何饮料，还会很高兴地告诉顾客来自世界各地的有趣新闻和谣言。"
+    new "这个友好的精灵是全Dale最好的咖啡师。他不仅会熟练地准备任何饮料，还会很高兴地告诉顾客来自世界各地的有趣新闻和传言。"
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Fiennes"
@@ -328,11 +328,11 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I helped Amelie deal with the elves who tried to steal from her, but they managed to steal one of the potions. Amelie asked me to help her get it back when she figured out where they were hiding. I couldn't wait."
-    new "我帮Amelie对付那些想偷她东西的精灵，但他们设法偷了一种魔药。等她找到他们藏在哪里，Amelie让我帮她把药拿回来。我等不及了。"
+    new "我帮Amelie对付了那些想偷她东西的精灵，但他们设法偷了一种魔药。等她找到他们藏在哪里，Amelie就会让我帮她把药拿回来。我等不及了。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Amelie and I went to the elf settlement in the woods and returned the stolen potion. It was epic! Admittedly, the potion broke and got on Amelie in the process, but that's okay... But, it was fun."
-    new "Amelie和我去了森林里的精灵聚集地，找回了被偷走的魔药。可谓史诗壮举！不可否认，药水瓶碎了，在此过程中Amelie中了迷药，但这没关系... 但是，这很有趣。"
+    new "Amelie和我去了森林里的精灵聚落，找回了被偷走的魔药。可谓史诗壮举！不可否认，药水瓶碎了，在此过程中Amelie中了迷药，但这没关系... 但是，这很有趣。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Now I know that we have really creepy angels living in the garden, Garden's story has come to an end."
@@ -396,31 +396,31 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah gave me my student card and told me to get my textbooks from the library. Then I return to him or visit classes."
-    new "Elijah把我的学生证给了我，让我去图书馆拿课本。然后我回到他身边或去上课。"
+    new "Elijah把学生证给了我，让我去图书馆拿课本。然后我回到他身边或去上课。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah recommended that I attend both classes and then find him in the café in the evening."
-    new "Elijah建议我参加这两门课，然后晚上在咖啡馆上找到他。"
+    new "Elijah建议我参加这两门课，然后晚上去咖啡馆找他。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah said that sometimes he could give me some sketchy job. I think he'll have more to say if I win the house competition and visit Dale to find out what goods that place has to offer."
-    new "Elijah说他有时会给我一些不太体面的工作。我想他会有更多的话说如果我赢得了分院的竞争，并拜访Dale，看看那里有什么商品。"
+    new "Elijah说他有时会给我一些不太体面的工作。如果我赢得了分院的比赛，他肯定有更多的话想说，而且我可以参观Dale，看看那里有什么商品。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah asked me to get some nectar from Willow in Chompski Shop in Dale. To get to Dale, our house has to win the weekly competition."
-    new "Elijah让我去找Dale的Chompski商店的Willow买些花蜜。要接近Dale，我们的分院必须赢得每周比赛。"
+    new "Elijah让我去找Dale的Chompski商店的Willow买些花蜜。要去Dale的话，我们的分院必须赢得每周比赛。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "When I went for Elijah's package to Gordon's shop I had a small chat with Willow. She showed me her magic grove.  It seems like it is very important to her. I wonder what's inside...  She also gave me the nectar for Elijah. I should meet hit at Cordale's cafe."
-    new "当我去Gordon的店里取Elijah的包裹时，我和Willow聊了一会儿。她带我看了她的魔法小树林。这对她来说似乎很重要。我想知道里面是什么...她还给了我给Elijah的甘露。我应该在Cordale咖啡馆见她。"
+    new "我去Gordon的店里取Elijah的包裹的时候，我和Willow聊了一会儿。她带我看了她的魔法小树林。这对她来说似乎很重要。我想知道里面有什么...她交给我Elijah要的花蜜。我应该在Cordale咖啡馆约见她。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Elijah was very pleased that I've helped him to get Dryad's nectar. It seems that he likes working with me. "
-    new "Elijah很高兴我帮他弄到了树精的花蜜。他似乎喜欢和我一起工作。"
+    new "Elijah很高兴我帮他弄到了树精的花蜜。他似乎很喜欢和我一起工作。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "This strange creature attacked me in Dale, but fended it off with Сombat bolt."
-    new "在Dale，这只奇怪的生物袭击了我，但用战斗弩箭把它击退了。"
+    new "在Dale，这只奇怪的生物袭击了我，但我用战斗弩箭把它击退了。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Strange creature that lives on the streets of Dale asked me to get a potion from Sabrina to lift his curse. I should talk to Sabrina when I get a chance."
@@ -428,23 +428,23 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Sabrina was interested by the story about Giant who asked for help. She agreed to give me the potion he asked for if I promise to tell her all the details of our next encounter with that Thing. Seems fair."
-    new "Sabrina对巨人寻求帮助的故事很感兴趣。她答应给我他要的魔药，只要我答应告诉她我们下次遇到那东西的所有细节。似乎是合理的。"
+    new "Sabrina对巨人寻求帮助的故事很感兴趣。她答应给我他要的魔药，只要我答应告诉她我们下次遇到那东西的所有细节。这个要求有一定道理。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Gordon told me he's always ready to pay a $ for each fish I catch for him. He's odd, but I think he's a fair trader."
-    new "Gordon告诉我，他随时准备为我为他钓到的每条鱼支付一美元。他很古怪，但我认为他是个诚实的人。"
+    new "Gordon说他会为我钓到的每条鱼支付一美元。他有点古怪，但我认为他是个诚实的人。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "It looks like fishing can be pretty profitable. I can go fishing whenever the shop is open and Gordon will always pay me $1 for each fish."
-    new "看起来捕鱼是很赚钱的。我可以在商店开门的时候去钓鱼，Gordon总是为每条鱼付给我1美元。"
+    new "看起来捕鱼还是很赚钱的。我可以在商店开门的时候去钓鱼，Gordon会为每条鱼付给我1美元。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I should catch up with Haley. She's probably studying already."
-    new "我去追上Haley她可能已经在学习了。"
+    new "我要去追上Haley，她可能已经在学习了。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley will be waiting for me in her room in the evening. I hope it's a date!"
-    new "晚上Haley会在她房间等我。我希望这是个约会!"
+    new "晚上Haley会在她房间等我。我希望这会是个约会!"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley is getting ready for Victoria's private classes, I gotta find out what progress she's made. 'll try to talk to her in the morning before the lecture."
@@ -452,23 +452,23 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley's too wrapped up in her studies. I don't want to intrude. I'll let her make a move on her own."
-    new "Haley太专注于学业了。我不想打扰你。我会让她自己行动的。"
+    new "Haley太专注于学业了。我不想打扰她。我会让她自己决定的。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley said there was something strange in her textbook and called me over to look at it myself. We're meeting in the evening, in her room."
-    new "Haley说她的课本有点奇怪叫我过去看看。我们晚上见面，在她房间里。"
+    new "Haley说她的课本有些奇怪的东西，叫我过去看看。我们晚上在她房间见面。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Together, Haley and I tried to unwrap the mystery about E.Bloom's notes in her book. Elijah seemed disturbed when we asked him questions. I need to meet Haley before classes to find out what's her plan."
-    new "Haley和我一起试图解开E Bloom书中笔记的谜团。我们问Elijah问题时，他看起来很不安。我得在上课前见Haley看看她有什么计划。"
+    new "Haley和我一起试图解开E Bloom书中笔记的谜团。我们询问Elijah的时候，他看起来很不安。我得在上课前找Haley，看看她有什么计划。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We were alone in the courtyard, and Haley showed that she doesn't mind getting closer to me. She also asked me to spy on Amelie until I find a secret room in the library."
-    new "我们单独在院子里，Haley表现出她不介意靠近我。她还让我监视Amelie直到我在图书馆找到一间密室。"
+    new "我们单独在院子里，看得出来Haley并不介意与我亲近。她还让我监视Amelie直到我们找到图书馆的密室为止。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Hours of spying were not wasted for nothing! I saw Amelie disappearing and coming back where there were no exits. I have to tell Haley about this, and she might know what to do."
-    new "间谍的时间并没有白白浪费!我看见Amelie消失了，又回来了，那里没有出口。我得把这事告诉Haley，她也许知道该怎么做。"
+    new "监视的并非毫无意义！我看见Amelie消失了，又出现了，那个地方没有出口。我得把这事告诉Haley，她也许知道该怎么做。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley needs some time to examine the coins she found in the library and find out how to get to the secret room."
@@ -476,19 +476,19 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley and I broke into the secret room and borrowed files that might contain information about E.Bloom. Haley will look into them and get back to me in the morning."
-    new "Haley和我闯进了密室借了一些文件里面可能有关于E.Bloom的信息。Haley会调查的，明早再给我答复。"
+    new "Haley和我闯进了密室，借了一些文件，里面可能有关于E.Bloom的信息。Haley会调查的，明早再给我答复。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley discovered that Elijah's brother and Hans were lovers and were trying to escape from here. To replicate their ritual and open the portal, we'll need Samantha's help. I'll talk to her in the morning."
-    new "Haley发现Elijah的哥哥和Hans是恋人，他们想逃离这里。要复制他们的仪式并打开传送门，我们需要Samantha的帮助。我明早再跟她谈。"
+    new "Haley发现Elijah的哥哥和Hans是恋人，他们想逃离这里。要复制他们的仪式并打开传送门，我们就需要Samantha的帮助。我明早再跟她谈。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I made arrangements with Samantha and she will help us with the ritual. We're finally going to solve the mystery of E.Bloom. Also, Haley and I made a date. Things are going as well as can be expected!"
-    new "我和Samantha安排好了她会帮我们举行仪式。我们终于要解开E.Bloom之谜了。还有，Haley和我约好了。事情进展得和预料的一样好!"
+    new "我和Samantha安排好了，她会帮我们举行仪式。我们终于要解开E.Bloom之谜了。还有，Haley和我约好了。事情进展得和预料的一样好!"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've heard that Jacob usually spends his evenings at the hall. Should I talk to him about something?"
-    new "我听说Jacob晚上通常都在大厅度过。我应该跟他说点什么吗?"
+    new "我听说Jacob晚上通常都待在大厅。我应该跟他说点什么吗?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "To enter the Dueling Club I need to learn combat spells. In order to do so, I have to visit more Victoria's lessons."
@@ -496,7 +496,7 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I was accepted into the dueling club, so I can come to the Academy lobby every night and take part in duels."
-    new "我被录取加入了决斗俱乐部，所以我可以每天晚上来学院大厅参加决斗。"
+    new "我成功加入了决斗俱乐部，所以我可以每天晚上来学院大厅参加决斗。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Jill is the nice ginger girl, who owns a massage saloon at Dale. I can get a massage at Whistley's Spa for $75 when i'm in Dale. Pricey, but I think it's worth it."
