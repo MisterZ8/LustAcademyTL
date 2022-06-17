@@ -500,31 +500,31 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Jill is the nice ginger girl, who owns a massage saloon at Dale. I can get a massage at Whistley's Spa for $75 when i'm in Dale. Pricey, but I think it's worth it."
-    new "Jill是个漂亮的姜黄色女孩，她在Dale开了一家按摩店。我在Dale的时候花$75就能在Whistley水疗中心做按摩。很贵，但我觉得很值。"
+    new "Jill是个漂亮的长着雀斑的红发女孩，她在Dale开了一家按摩店。我在Dale的时候花$75就能在Whistley水疗中心做按摩。很贵，但我觉得很值。（译者注：“长着红发的雀斑女孩”，即原文的“Ginger girl”，ginger一词在极个别情况下有歧视意味。）"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "My massage master got so turned on, that she could not finish the process. That was strange. I've overheard her arguing with someone. I think she got pranked by that person. I guess I'll have to have another massage to get closer to the truth."
-    new "我的按摩师非常兴奋，以至于她无法完成整个过程。这是奇怪的。我无意中听到她和别人争吵。我觉得她被那个人耍了。我想我得再做一次按摩才能接近真相。"
+    new "我的按摩师感觉非常不安，她甚至无法完成整个按摩过程，这很奇怪。我无意中听到她在和别人争吵。我觉得她被那个人耍了。我想我得再做一次按摩才能接近真相。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "So, I don't get it. Is she Jill or Faith, and why does she act so strange? First, she seemed shy, but then she literally grabbed my cock! I'll need to have another massage to understand what's going on."
-    new "所以，我不明白。她是Jill还是Faith，她为什么表现得这么奇怪?一开始她看起来很害羞，但后来她真的抓住了我的鸡巴!我得再做一次按摩才能搞清楚是怎么回事。"
+    new "所以，我不明白。她到底是Jill还是Faith，她为什么表现得这么奇怪？一开始她看起来很害羞，但后来她真的抓住了我的鸡巴！我得再做一次按摩才能搞清楚是怎么回事。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Even after all the craziness I've seen at this spa, I can't believe I was able to talk the masseuse into jerking me off. Maybe this is just the beginning of our intimate massage sessions. I wonder what she'll agree to next time?"
-    new "即使我在这个水疗中心看到了那么多疯狂的事，我还是不敢相信我能说服按摩师给我手淫。也许这只是我们亲密按摩的开始。我不知道她下次会同意什么?"
+    new "即便我在这个水疗中心看到了那么多疯狂的事，我还是不敢相信我能说服按摩师给我打飞机。也许这只是我们亲密按摩的开始。我不知道她下次还会同意做什么。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've got a feeling that that forest wasn't the last time I've met her. But right now, I can only guess."
-    new "我有种感觉那片森林不是我最后一次见到她。但现在，我只能猜测。"
+    new "我有种感觉，在森林里的相遇并不是我最后一次见她。但现在，我只能猜测。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "It seems that I have some special connection with the ancient spirit of Leonheart's founder, Leona Leonheart. She materialized in the real world to help me with my source of power."
-    new "似乎我和Leonheart的创始人，古老的Leona Leonheart的有某种特殊的精神联系。她出现在现实世界中帮助我获得我的力量。"
+    new "似乎我和Leonheart的创始人，Leona Leonheart的古老灵魂有某种特殊的精神联系。她出现在现实世界中来帮助我获得力量。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Katrina won't leave me alone. If I want to face her on my terms, I have to find a way to defeat her. I think I should contact Leona. Maybe a sorting book in the Main hall will do the trick?"
-    new "Katrina不会放过我的如果我想以我的方式面对她，我就得想办法打败她。我想我应该联系Leona。也许在大厅里放一本分类书就行了?"
+    new "Katrina不会放过我的。如果我想以我的方式面对她，我就得想办法先打败她。我想我应该联系Leona。也许大厅里的分流之书可以帮我？"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Leona took my memories of that nightmare with Katrina to find out what is happening to me. I guess I'll just have to wait."
@@ -532,15 +532,15 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "If it weren't for Leona, I'd be stuck in a nightmare forever. It turned out that, under the guise of Katrina, It was a soul-eating phantom who tortured me in my dreams. But who had set it on me?"
-    new "如果不是Leona，我就永远困在噩梦里了。结果是，在Katrina的伪装下，是一个吞噬灵魂的幽灵在我的梦里折磨我。可是是谁把它放进我的梦里的呢?"
+    new "如果不是Leona，我就永远困在噩梦里了。最终结果却是一个披着Katrina外皮的吞噬灵魂的幽灵在我的梦里折磨我。可是是谁把它放进我的梦里的呢?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "It turned out that Jacob was behind the soul-stealing phantom attack. He was testing me to help him overpower Arthur. Jacob assures me that Arthur is the villain who killed my parents. To deal with him, I asked Leona to obtain for me an ancient artifact - the scroll of the Lion's Seal. Now all we have to do is wait."
-    new "事实证明，Jacob是窃取灵魂的幽灵袭击的幕后黑手。他在考验我帮他战胜Arthur。Jacob向我保证Arthur就是杀害我父母的恶棍。为了对付他，我让Leona帮我弄到一件古老的工艺品——Lion的封印。现在我们要做的就是等待。"
+    new "事实证明，Jacob是窃魂者袭击的幕后黑手。他在考验我，让我帮他推翻Arthur。Jacob向我保证，Arthur就是杀害我父母的凶手。为了对付他，我让Leona帮我弄到一件古老的神器——狮子封印。现在我们要做的只有等待。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I think I'll meet Lily somewhere where she can earn Leonheart some points. Maybe at the class?"
-    new "我想我会去找Lily，让她给Leonheart加分。也许在课堂上?"
+    new "我会去找Lily，她能给Leonheart挣分数。也许她在课堂上？"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I can try to get Lily to like me by attending class and earning points for Leonheart."
@@ -556,11 +556,11 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I won at the duel. That means Lily owes me a date. She'll visit my room herself in the evening. I'd better get dressed and ready."
-    new "决斗我赢了。这意味着Lily欠我一个约会。她晚上会亲自来我的房间。我最好穿好衣服，做好准备。"
+    new "我赢了决斗。这意味着Lily欠我一个约会。她晚上会亲自来我的房间。我最好穿好衣服，做好准备。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We had some fun with Lily and then decided to discuss other house-related plans next time. Maybe I should talk to help before Sabrina's lesson."
-    new "我们和Lily玩得很开心，然后决定下次再讨论其他有关分院的计划。也许我该在Sabrina上课前找人帮忙。"
+    new "我和Lily玩得很开心，然后决定下次再讨论其他有关分院的计划。也许我该在Sabrina上课前找人帮忙。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've agreed to help Sabrina and Lily to harvest some herbs. Lily and I got lost and had an unbelievable adventure."
@@ -568,47 +568,47 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I told Sabrina about the mushroom girl I saw in the woods, and it turns out that the existence of these creatures has not yet been proven as a fact. I could be the discoverer of this species if I could find proof. But I have to wait until the compass is fixed."
-    new "我跟Sabrina说了我在树林里看到的蘑菇女孩，结果发现这些生物的存在还没有被证明是事实。如果我能找到证据，我就能发现这个物种。但我得等到罗盘修好。"
+    new "我跟Sabrina说了我在树林里看到的蘑菇女孩，结果发现这些生物的存在还没有被证实。如果我能找到证据，我就能发现这个物种。但我得等到指南针修好。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We finally talked to Lily about the events in the forest of mushrooms and set things straight. Now we both know exactly what our relationship is and how the boundaries are."
-    new "我们终于和Lily谈了在蘑菇森林里发生的事情，把事情说清楚了。现在我们都清楚我们的关系和界限是什么。"
+    new "我终于和Lily谈了谈有关蘑菇林里的事，把事情说清楚了。现在我们都清楚我们的关系和界限了。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Lucy is a pretty european girl who works as a stripper in Lady Luck. I think we can have some fun time together at the VIP lounge."
-    new "Lucy是一个漂亮的欧洲女孩，在Lady Luck中担任脱衣舞娘。我想我们可以在VIP厅一起玩。"
+    new "Lucy是一个漂亮的欧洲女孩，在幸运女神担任脱衣舞娘。我想我们可以在VIP厅一起找点乐子。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Good news for students - there's a free room in Dale-ly. Also, I saw Mina reading porno novels. Maybe In future I can use this to lure other dark secrets she might have."
-    new "学生们有个好消息——Dale-ly有一个免费的房间。还有，我看到Mina在读色情小说。也许将来我可以用这个来引出她可能有的其他秘密。"
+    new "同学们有个好消息——Dale-ly旅馆有个免费房间。还有，我看到Mina在读色情小说。也许将来我可以借此来引出其他可能的秘密。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I told Molly that I was working as a waiter once, and she offered me a job. On weekdays, afternoons, and evenings, I can help her around the cafe to make some money."
-    new "我告诉Molly我曾经做过服务员，她给了我一份工作。在工作日的下午和晚上，我可以在咖啡馆给她当帮手来挣些钱。"
+    new "我告诉Molly我曾经做过服务员，她给了我一份工作。在工作日的下午和晚上，我可以在咖啡馆里帮忙来挣些钱。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Now I can help Molly serve food at her cafe for a decent fee, It gets even better if I don't screw up and get more tips. Working together with Molly can get us closer.  Her workload is less intense in the evening, so it's better to talk to her at this time. But first I'll gain her trust by working at least five shifts."
-    new "现在我可以帮Molly在她的咖啡馆里卖菜，还能赚一笔可观的钱。如果我不搞砸，还能得到更多的小费，那就更好了。和Molly合作能让我们更亲近。她晚上的工作量比较小，所以最好这个时候和她谈谈。但首先我得至少上五班才能赢得她的信任。"
+    new "现在我可以在Molly的咖啡馆里帮忙上菜，还能赚一笔可观的钱。如果我不搞砸的话，还能得到更多的小费，那就更好了。和Molly合作能让我们更亲近了。她晚上的工作量比较小，所以最好这个时候和她谈谈。但首先我得至少上够五天班才能赢得她的信任。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've helped Molly to clean the room after workhours, so we can get a little bit closer to each other. We had some fun and then the headmaster visited her. I'm pretty sure he's her uncle."
-    new "下班后我帮Molly打扫房间，这样我们就能更接近对方了。我们玩得很开心，然后校长来看她了。我很确定他是她叔叔。"
+    new "下班后我帮Molly打扫餐厅，这样我们就能更接近对方了。我们玩得很开心，然后校长来看她了。我很确定校长是她叔叔。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I think I'll meet Naomi somewhere where she can earn Adderin some points. Maybe at the class?"
-    new "我想我应该去找Naomi让她给Adderin加分。也许在课堂上?"
+    new "我想我应该去找Naomi，她能给Adderin挣分数。也许她在课堂上？"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Naomi turned out to be arrogant and over-self-confident. I'm sure I can make her more obedient in time. Naomi can be found at the fountain in the evening."
-    new "Naomi是一个傲慢和过分自信的人。我相信我能让她更听话。晚上可以在喷泉边找到Naomi。"
+    new "Naomi是一个傲慢且自负的人。我相信我能让她更听话。晚上可以在喷泉边找到Naomi。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've tried to get her interested in me, but Naomi's a tricky one. I'll see if I can get a hold of her in Potions class this afternoon."
-    new "我试过让她对我感兴趣，但Naomi很狡猾。我看看能不能在今天下午的魔药课上联系到她。"
+    new "我试过让她对我感兴趣，但Naomi很狡猾。我看看能不能在今天下午的魔药课上见到她。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Naomi tries to manipulate me into getting test answers for her. Let's see who'll end up outsmarted here. Naomi can be found at the fountain in the evening."
-    new "Naomi想操纵我帮她拿到考试答案。看看谁会更聪明。晚上可以在喷泉边找到Naomi。"
+    new "Naomi想操纵我帮她拿到考试答案。看看谁更聪明。晚上可以在喷泉边找到Naomi。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Naomi failed to delay Sabrina, and I've got trapped in her class for several hours! I'll tell Naomi how \"fun\" that was in the morning!"
