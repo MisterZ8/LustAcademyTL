@@ -612,27 +612,27 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Naomi failed to delay Sabrina, and I've got trapped in her class for several hours! I'll tell Naomi how \"fun\" that was in the morning!"
-    new "Naomi没能拖住Sabrina，我被困在她的课上好几个小时了!我会告诉Naomi早上那有多“有趣”!"
+    new "Naomi没能拖住Sabrina，我被困在她的教室里好几个小时了！明天早上我会告诉Naomi那有多“有趣”！"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Naomi fooled with me, and now she needs to earn my forgiveness to get the test results she needs so desperately. I'll meet her in the evening to see what I can get out of this."
-    new "Naomi耍了我，现在她需要我的原谅才能拿到她急需的结果。我晚上去见她，看看能从这件事中得到什么。"
+    new "Naomi耍了我，除非我原谅她她才能拿到急需的结果。我晚上去见她，看看我能得到什么。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I took Naomi to the library, and we had some fun time together. I think she finally earned to get those test results..."
-    new "我带Naomi去了图书馆，我们一起玩得很开心。我想她终于有资格拿到那些检查结果了..."
+    new "我带Naomi去了图书馆，我们一起玩得很开心。我想她终于有资格拿到考试答案了..."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Naomi and Sabrina got into a fight in class, and now Naomi needs help to win back the teacher's favor. I promised to meet her at night in the potions room and teach her how to make potions."
-    new "Naomi和Sabrina在课堂上吵了一架，现在Naomi需要帮助来赢回老师的欢心。我答应晚上在魔药室见她，教她制作魔药。"
+    new "Naomi和Sabrina在课堂上吵了一架，现在Naomi需要人帮忙才能赢回老师的欢心。我答应晚上在魔药课教室见她，教她制取魔药。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "The pottery class quickly turned into a flirtation and Naomi and I went to the library to have some fun."
-    new "陶艺课很快就变成了一场调情，Naomi和我去图书馆找乐子。"
+    new "魔药课很快就变成了一场调情，Naomi和我去图书馆找乐子。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "This jerk asked for a bribe and almost let Adele be raped. I think I'll need to give him a lesson later. But the good thing is I've got a VIP pass to the club now."
-    new "这个混蛋要求贿赂还差点让Adele被强奸。我想我以后得给他上一课。但好消息是我现在有了俱乐部的VIP通行证。"
+    new "这个混蛋图谋不轨，差点让Adele被强奸。我以后得给他上一课。但好在我现在有了俱乐部的VIP通行证。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "According to Sabrina, only students who have attended Victoria's introductory lecture are allowed into the potions class. "
@@ -640,27 +640,27 @@ translate chinese strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "First potions lessons were all about safety. It turns out potions can be perilous if handled carelessly. I should visit another class to learn more."
-    new "最初的魔药课都是关于安全的。事实证明，如果不小心使用药剂会很危险。我应该去另一个班多学点东西。"
+    new "一开始的魔药课都是关于实验安全的。事实证明，如果不小心使用药剂会很危险。我应该去另一个班多学点东西。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "This time we've talked about healing potions and why do mages need potions. To learn more, I have to visit more lessons."
-    new "这次我们讨论了治疗药水以及为什么法师需要药水。为了学到更多，我必须去上更多的课。"
+    new "这次我们讨论了治疗药水以及为什么法师需要药水。为了学到更多东西，我必须去上更多的课。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Sabrina taught us how to prepare a workspace before brewing potions properly. The next lesson should be interesting!"
-    new "Sabrina教过我们如何在泡药水前准备好工作空间。下节课应该很有趣!"
+    new "Sabrina教过我们如何在制备药水前做好实验准备。下节课应该会很有趣！"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "At this lesson, students try to brew potions for themselves for the first time. Now I can visit practice lessons to keep my memory fresh and earn more house points for Leonheart."
-    new "在这节课上，学生们第一次尝试自己配制药水。现在我可以去上练习课来保持记忆的新鲜，并为Leonheart赢得更多的分数。"
+    new "在这节课上，学生们第一次尝试自己配制药水。现在我可以去上实验课来避免遗忘，并为Leonheart赢得更多的分数。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "We've learned how to brew Stoneskin Potion that can help me sustain more damage in duels. I love brewing potions, because I'm really good at this. I think people in the class are starting to notice my success."
-    new "我们学会了如何酿造石皮药剂，可以帮助我在决斗中承受更多的伤害。我喜欢泡药水，因为我很擅长这个。我想班上的人已经开始注意到我的成功了。"
+    new "我们学会了如何制备石肤药剂，可以帮助我在决斗中承受更多的伤害。我喜欢制备药水，因为我很擅长这个。我想班上的人已经开始注意到我的成功了。"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Now I know how to brew Reflection Potion that can reflect spells back at the attacker. This can come in handy in duels, I think. I can't wait to test! "
-    new "现在我知道如何酿造反射药水，可以将法术反射回攻击者。我想这在决斗中可以派上用场。我等不及要测试了!"
+    new "现在我知道如何制备弹反药水，可以将法术反射回攻击者。我想这在决斗中可以派上用场。我等不及要测试了!"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I'm sure I can find few useful ways to use Inspiration Potion. Likely, I can now craft it with ease."
