@@ -10,43 +10,43 @@ translate brazilian sheet_31_ebd50d51:
 translate brazilian sheet_31_107e6932:
 
     # Samantha "Hey! What's up, buddy?"
-    Samantha ""
+    Samantha "Hey! E aí, amigo?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:7
 translate brazilian sheet_31_1534902e:
 
     # ch_Name "Just saw our living room."
-    ch_Name ""
+    ch_Name "Acabei de ver nossa sala de estar."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:8
 translate brazilian sheet_31_b3bb9fbb:
 
     # Samantha "What do you think?"
-    Samantha ""
+    Samantha "O que você achou?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:9
 translate brazilian sheet_31_e8e530fb:
 
     # ch_Name "Pretty cozy."
-    ch_Name ""
+    ch_Name "Bem aconchegante."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:10
 translate brazilian sheet_31_5854bd1b:
 
     # ch_Name "Where are you?"
-    ch_Name ""
+    ch_Name "Onde você foi?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:11
 translate brazilian sheet_31_7c2819e0:
 
     # Samantha "Just catching up with an old friend."
-    Samantha ""
+    Samantha "Eu estava apenas conversando com um velho amigo."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:12
 translate brazilian sheet_31_b247ad42:
 
     # Samantha "Checking in on you."
-    Samantha ""
+    Samantha "Olhando para você."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:13
 translate brazilian sheet_31_b1fc1b88:
@@ -58,247 +58,247 @@ translate brazilian sheet_31_b1fc1b88:
 translate brazilian sheet_31_1855220c:
 
     # ch_Name "What?"
-    ch_Name ""
+    ch_Name "O que?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:16
 translate brazilian sheet_31_a93da04f:
 
     # Samantha "I always knew you were a Leonheart!"
-    Samantha ""
+    Samantha "Eu sempre soube que você era um Leonheart!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:17
 translate brazilian sheet_31_59d8222f:
 
     # Samantha "At least I hoped so."
-    Samantha ""
+    Samantha "Pelo menos eu esperava que sim."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:18
 translate brazilian sheet_31_9175868f:
 
     # ch_Name "Oh, come on."
-    ch_Name ""
+    ch_Name "Ahh Qual Foi."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:19
 translate brazilian sheet_31_60ca4aa3:
 
     # ch_Name "I might as well be an Adderin."
-    ch_Name ""
+    ch_Name "Eu poderia muito bem ser um Adderin."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:20
 translate brazilian sheet_31_0608ef1b:
 
     # Samantha "Hey! Don't joke about that!"
-    Samantha ""
+    Samantha "Ei! Não brinque com isso!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:22
 translate brazilian sheet_31_60f36213:
 
     # ch_Name "Okay, okay. Take it easy."
-    ch_Name ""
+    ch_Name "Está bem, está bem. Vá com calma."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:24
 translate brazilian sheet_31_ba5a0641:
 
     # ch_Name "Honestly, the ritual took a lot out of me."
-    ch_Name ""
+    ch_Name "Honestamente, o ritual exigiu muito de mim."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:25
 translate brazilian sheet_31_6138ceec:
 
     # Samantha "That's okay."
-    Samantha ""
+    Samantha "Está se sentindo bem."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:26
 translate brazilian sheet_31_20d2ba3b:
 
     # ch_Name "Really?{w} How was your ritual?"
-    ch_Name ""
+    ch_Name "Sim? {w} Como foi seu ritual?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:27
 translate brazilian sheet_31_973abfe8:
 
     # Samantha "That's a weird question."
-    Samantha ""
+    Samantha "Essa é uma pergunta estranha."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:29
 translate brazilian sheet_31_9e894ac0:
 
     # Samantha "It's just like everyone else's."
-    Samantha ""
+    Samantha "É como é como todos."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:30
 translate brazilian sheet_31_c7583a33:
 
     # ch_Name "What're the details?"
-    ch_Name ""
+    ch_Name "Quais são os detalhes?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:31
 translate brazilian sheet_31_4e89bc91:
 
     # Samantha "I found myself in a strange forest."
-    Samantha ""
+    Samantha "Eu me encontrei em uma floresta estranha."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:32
 translate brazilian sheet_31_f9588ac6:
 
     # Samantha "There were four founders."
-    Samantha ""
+    Samantha "eu vi os quatro fundadores."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:33
 translate brazilian sheet_31_9bca5d39:
 
     # Samantha "Each of them had a few words for me..."
-    Samantha ""
+    Samantha "Cada um deles tinha algumas palavras para mim..."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:35
 translate brazilian sheet_31_aec82123:
 
     # ch_Name "And?"
-    ch_Name ""
+    ch_Name "E o que houve?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:36
 translate brazilian sheet_31_a4de7dd6:
 
     # Samantha "And then three of them left, and Leona invited me to Leonheart."
-    Samantha ""
+    Samantha "E então três deles foram embora, e Leona me convidou para Leonheart."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:37
 translate brazilian sheet_31_d4b0ab00:
 
     # ch_Name "Invited you?"
-    ch_Name ""
+    ch_Name "Convidou você?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:38
 translate brazilian sheet_31_122c8fbc:
 
     # Samantha "Well, yeah."
-    Samantha ""
+    Samantha "Isso ai!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:39
 translate brazilian sheet_31_82b88627:
 
     # Samantha "And she hugged me at the end."
-    Samantha ""
+    Samantha "E ela me abraçou no final."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:41
 translate brazilian sheet_31_233c7281:
 
     # ch_Name "So that's it."
-    ch_Name ""
+    ch_Name "Então é isso."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:42
 translate brazilian sheet_31_792efb14:
 
     # Samantha "What's the big deal?"
-    Samantha ""
+    Samantha "Qual é o problema?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:43
 translate brazilian sheet_31_d00b2372:
 
     # ch_Name "I was just wondering if everyone had the same ritual."
-    ch_Name ""
+    ch_Name "Eu só estava me perguntando se todo mundo tinha o mesmo ritual."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:44
 translate brazilian sheet_31_edd77b30:
 
     # ch_Name "Now I know we did."
-    ch_Name ""
+    ch_Name "Agora eu sei que fizemos."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:46
 translate brazilian sheet_31_42b65fad:
 
     # Samantha "Hmm. I've never wondered how other people's rituals went before."
-    Samantha ""
+    Samantha "Hmm. Eu nunca me perguntei como foi os rituais de outras pessoas antes."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:47
 translate brazilian sheet_31_53b3aaf3:
 
     # Samantha "I always said you had an unusual mind!"
-    Samantha ""
+    Samantha "Eu sempre disse que você tinha uma mente incomum!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:48
 translate brazilian sheet_31_e5193ec7:
 
     # ch_Name "You didn't usually say that as a compliment."
-    ch_Name ""
+    ch_Name "Você não costumava dizer isso como um elogio."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:49
 translate brazilian sheet_31_54b12bb4:
 
     # Samantha "Details..."
-    Samantha ""
+    Samantha "Detalhes..."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:51
 translate brazilian sheet_31_19a3f8f7:
 
     # ch_Name "Shall we meet?"
-    ch_Name ""
+    ch_Name "Nos encontraremos?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:52
 translate brazilian sheet_31_2a82e517:
 
     # ch_Name "Where are you now?"
-    ch_Name ""
+    ch_Name "Onde você vai agora?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:53
 translate brazilian sheet_31_5165f300:
 
     # Samantha "I'm busy today."
-    Samantha ""
+    Samantha "Estou ocupada hoje."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:54
 translate brazilian sheet_31_f25ad6c8:
 
     # Samantha "And you must be tired after the ritual."
-    Samantha ""
+    Samantha "E você deve estar cansado depois do ritual."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:55
 translate brazilian sheet_31_dc5bd276:
 
     # Samantha "Let's meet in the morning."
-    Samantha ""
+    Samantha "Vamos nos encontrar pela manhã."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:56
 translate brazilian sheet_31_cbd63ed0:
 
     # ch_Name "Alright."
-    ch_Name ""
+    ch_Name "Okay."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:57
 translate brazilian sheet_31_6ec5555c:
 
     # Samantha "Get a good night's sleep."
-    Samantha ""
+    Samantha "Tenha uma boa noite de sono."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:59
 translate brazilian sheet_31_0b051706:
 
     # ch_Name "All right, then. I'll see you later."
-    ch_Name ""
+    ch_Name "Tudo bem, então. conversamos depois."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:60
 translate brazilian sheet_31_5935d785:
 
     # Samantha "Bye-bye!"
-    Samantha ""
+    Samantha "Tchauzinho .."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:63
 translate brazilian sheet_31_fbf96dea:
 
     # ch_Name "{i}(Get some sleep? Easy to say...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Durma um pouco? Fácil falar...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:64
 translate brazilian sheet_31_8fa21deb:
 
     # ch_Name "{i}(The strangest day in my life. It still does not fit in my head...){/i}"
-    ch_Name ""
+    ch_Name "{i}(O dia mais estranho da minha vida. Ainda não conseguir compreender direito...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:65
 translate brazilian sheet_31_7aa5afb5:
 
     # ch_Name "{i}(I am a wizard. Hell, why not? That sounds very cool!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu sou um mago. Por que não? Isso parece muito legal!){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:79
 translate brazilian arthur_label_14969a9a:
@@ -310,31 +310,31 @@ translate brazilian arthur_label_14969a9a:
 translate brazilian arthur_label_d007b8f0:
 
     # ch_Name "Hello?"
-    ch_Name ""
+    ch_Name "Alô"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:86
 translate brazilian arthur_label_9f954dd2:
 
     # Elijah "Yo, [Name]! Rise and shine!"
-    Elijah ""
+    Elijah "Yo, [Name]! Levante-se e brilhe!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:87
 translate brazilian arthur_label_6b2436c6:
 
     # ch_Name "Whoa, what time is it?"
-    ch_Name ""
+    ch_Name "Vixi, que horas são?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:88
 translate brazilian arthur_label_2e3c5a02:
 
     # Elijah "Time to like my {b}Lustagram pic{/b}, dude!"
-    Elijah ""
+    Elijah "Hora de curtir minha {b}foto do Lustagram{/b}, mano!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:89
 translate brazilian arthur_label_dbe17141:
 
     # ch_Name "Are you kidding me? That's why you're calling?!"
-    ch_Name ""
+    ch_Name "Você está zoando né? é pra isso que está me ligando?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:90
 translate brazilian arthur_label_b7d5f3ec:
