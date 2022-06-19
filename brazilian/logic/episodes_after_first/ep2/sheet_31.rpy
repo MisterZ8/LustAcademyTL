@@ -334,43 +334,43 @@ translate brazilian arthur_label_2e3c5a02:
 translate brazilian arthur_label_dbe17141:
 
     # ch_Name "Are you kidding me? That's why you're calling?!"
-    ch_Name "Você está zoando né? é pra isso que está me ligando?"
+    ch_Name "Você está me zoando né? é pra isso que está me ligando?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:90
 translate brazilian arthur_label_b7d5f3ec:
 
     # Elijah "A little bit. Seriously, I need that like."
-    Elijah ""
+    Elijah "Não, não .. é sério, vai ser legal."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:92
 translate brazilian arthur_label_9465c390:
 
     # ch_Name "All right, all right."
-    ch_Name ""
+    ch_Name "Tudo bem, tudo bem."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:93
 translate brazilian arthur_label_784119be:
 
     # Elijah "Oh, and by the way, don't stay on the phone too long."
-    Elijah ""
+    Elijah "Ah, e a propósito, não fique muito tempo no telefone."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:94
 translate brazilian arthur_label_83fd625f:
 
     # Elijah "I'll pick you up in, like, ten minutes."
-    Elijah ""
+    Elijah "Eu venho buscá-lo em dez minutos."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:96
 translate brazilian arthur_label_47f718d1:
 
     # ch_Name "What's that for?"
-    ch_Name ""
+    ch_Name "Para que é isso?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:97
 translate brazilian arthur_label_0867eda4:
 
     # Elijah "{b}The principal called a freshman meeting in the main hall.{/b}"
-    Elijah ""
+    Elijah "{b}O diretor convocou uma reunião de novatos no salão principal.{/b}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:98
 translate brazilian arthur_label_8c41bb6f:
@@ -382,151 +382,151 @@ translate brazilian arthur_label_8c41bb6f:
 translate brazilian arthur_label_cf3dd5a0:
 
     # Elijah "[Name], don't bother yourself with this crap!"
-    Elijah ""
+    Elijah "[Name], não se incomode com essa porcaria!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:101
 translate brazilian arthur_label_d7045292:
 
     # Elijah "Focus on what's important."
-    Elijah ""
+    Elijah "Foque no que é importante."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:102
 translate brazilian arthur_label_37474af2:
 
     # Elijah "{b}Give me a like{/b}. See you later."
-    Elijah ""
+    Elijah "{b}Me dê um like{/b}. Até logo."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:103
 translate brazilian arthur_label_cf2db29f:
 
     # ch_Name "{i}(Why is he so obsessed with his Lustagram?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Por que será que ele está tão obcecado com o Lustagram?){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:104
 translate brazilian arthur_label_16842756:
 
     # ch_Name "Okay, I'll check it out after the meeting."
-    ch_Name ""
+    ch_Name "Okay, vou ver o que tem depois da reunião."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:119
 translate brazilian arthur_label_dbe35e38:
 
     # Arthur "Students! Hurry up and take your seats, our assembly is about to begin!"
-    Arthur ""
+    Arthur "Turma! Apressem-se e tomem seus lugares, nossa assembléia está prestes a começar!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:120
 translate brazilian arthur_label_02deb966:
 
     # Arthur "We need to be quick if you want to be in time for your first classes."
-    Arthur ""
+    Arthur "Vocês precisam ser rápidos se você quiserem chegar a tempo para as primeiras aulas."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:122
 translate brazilian arthur_label_91f4f5d5:
 
     # Arthur "It's a joy to see our new students successfully joining Houses!"
-    Arthur ""
+    Arthur "É uma alegria ver nossos novos alunos ingressarem com sucesso nas Casas!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:123
 translate brazilian arthur_label_c31776ac:
 
     # Arthur "Nothing brings young wizards closer together than the house."
-    Arthur ""
+    Arthur "Nada aproxima os jovens bruxos mais do que a casa."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:125
 translate brazilian arthur_label_80de3aa2:
 
     # Arthur "I hope everyone is happy with where they are placed?"
-    Arthur ""
+    Arthur "Espero que todos estejam felizes onde estão."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:127
 translate brazilian arthur_label_5b283411:
 
     # ch_Name "Why does he ask? Is it possible to change house?"
-    ch_Name ""
+    ch_Name "Por que ele pergunta? É possível trocar de casa?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:128
 translate brazilian arthur_label_1d3060fe:
 
     # Elijah "I've never heard of such a thing. Shh, let me listen!"
-    Elijah ""
+    Elijah "Eu nunca ouvi falar de tal coisa. Shh, deixe-me ouvir!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:130
 translate brazilian arthur_label_58d0dc9f:
 
     # Arthur "In my practice, though, the founders have never been wrong."
-    Arthur ""
+    Arthur "Na minha prática, porém, os fundadores nunca estiveram errados."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:131
 translate brazilian arthur_label_2df87af4:
 
     # Arthur "After all, they see those corners of your soul that you have never seen before."
-    Arthur ""
+    Arthur "Afinal, eles veem aqueles cantos da sua alma que você nunca viu antes."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:132
 translate brazilian arthur_label_3de98ae5:
 
     # Arthur "Anyway..."
-    Arthur ""
+    Arthur "De qualquer forma..."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:133
 translate brazilian arthur_label_fc61f75d:
 
     # Arthur "What was I saying... Oh, yes!"
-    Arthur ""
+    Arthur "O que eu estava dizendo... Oh, sim!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:135
 translate brazilian arthur_label_c6f55406:
 
     # Arthur "I'm sure you're all wondering why I gathered you here!"
-    Arthur ""
+    Arthur "Tenho certeza que todos vocês estão se perguntando por que eu os reuni aqui!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:136
 translate brazilian arthur_label_8f4ca7bd:
 
     # Arthur "The fact is that the educational process at our Academy is quite unusual."
-    Arthur ""
+    Arthur "O fato é que o processo educacional em nossa Academia é bastante incomum."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:137
 translate brazilian arthur_label_fba1b413:
 
     # Arthur "So I thought I'd tell you about the main features of Cordale."
-    Arthur ""
+    Arthur "Então eu pensei em lhe contar sobre as principais características de Cordale."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:139
 translate brazilian arthur_label_055a73d0:
 
     # Elijah "Oh, I remembered, he gave our course this kind of meeting too!"
-    Elijah ""
+    Elijah "Ah, eu me lembrei, ele deu ao nosso curso esse tipo de reunião também!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:140
 translate brazilian arthur_label_80493a5d:
 
     # ch_Name "Yes? So was that informative?"
-    ch_Name ""
+    ch_Name "Sim? Então isso foi informativo?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:142
 translate brazilian arthur_label_94e09a2f:
 
     # Elijah "I don't know, I slept through mine. Let's hear it together."
-    Elijah ""
+    Elijah "Eu não sei, eu dormi durante o meu. Vamos ouvir juntos."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:143
 translate brazilian arthur_label_362d7496:
 
     # ch_Name "How'd you even get to be the head student?!"
-    ch_Name ""
+    ch_Name "Como você chegou a ser o aluno-chefe?!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:144
 translate brazilian arthur_label_5c504ec6:
 
     # Elijah "I don't know, Arthur loves me for something."
-    Elijah ""
+    Elijah "Eu não sei, Arthur me ama por algum motivo."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:146
 translate brazilian arthur_label_b7b7e0ff:
 
     # Arthur "Now, as you all know, there are four houses."
-    Arthur ""
+    Arthur "Agora, como todos sabem, há quatro casas."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:147
 translate brazilian arthur_label_6345370e:
@@ -538,223 +538,223 @@ translate brazilian arthur_label_6345370e:
 translate brazilian arthur_label_4c85a07f:
 
     # Arthur "Each house is unique and stands on the ideals and beliefs of its founder."
-    Arthur ""
+    Arthur "Cada casa é única e se baseia nos ideais e crenças de seu fundador."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:150
 translate brazilian arthur_label_34ad8cfc:
 
     # Arthur "And these houses are constantly competing with each other."
-    Arthur ""
+    Arthur "E essas casas estão constantemente competindo umas com as outras."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:151
 translate brazilian arthur_label_2def8e23:
 
     # Arthur "This spirit of healthy competition among the four houses..."
-    Arthur ""
+    Arthur "Este espírito de competição saudável entre as quatro casas..."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:152
 translate brazilian arthur_label_a264fa42:
 
     # Arthur "...is the cornerstone of Cordale Academy!"
-    Arthur ""
+    Arthur "...é a pedra angular da Cordale Academy!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:154
 translate brazilian arthur_label_e0b13fcc:
 
     # Arthur "And now I will tell you the details of how this rivalry is expressed."
-    Arthur ""
+    Arthur "E agora vou contar os detalhes de como essa rivalidade se expressa."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:155
 translate brazilian arthur_label_f4db8db0:
 
     # ch_Name "{i}(It's probably worth listening to attentively).{/i}"
-    ch_Name ""
+    ch_Name "{i}(Provavelmente vale a pena ouvir com atenção).{/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:165
 translate brazilian sheet_31_menu_488802d2:
 
     # Arthur "As at any educational institution, classes are the basis of everything."
-    Arthur ""
+    Arthur "Como em qualquer instituição de ensino, as aulas são a base de tudo."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:166
 translate brazilian sheet_31_menu_4e6af0b4:
 
     # Arthur "In the first year, you have {b}Basic Magic{/b} and {b}Potions{/b} available to you."
-    Arthur ""
+    Arthur "No primeiro ano, você tem {b}Mágia básica{/b} e {b}Poções{/b} disponíveis para você."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:167
 translate brazilian sheet_31_menu_73b81beb:
 
     # Arthur "{b}You can attend classes in the mornings and afternoons on weekdays.{/b}"
-    Arthur ""
+    Arthur "{b}Você pode assistir às aulas de manhã e à tarde durante a semana.{/b}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:169
 translate brazilian sheet_31_menu_b9689b36:
 
     # Arthur "Unlike many other schools, we don't set any limits."
-    Arthur ""
+    Arthur "Ao contrário de muitas outras escolas, não estabelecemos limites."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:170
 translate brazilian sheet_31_menu_267dc137:
 
     # Arthur "You can attend class or you can make time for other activities."
-    Arthur ""
+    Arthur "Você pode assistir às aulas ou pode arranjar tempo para outras atividades."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:171
 translate brazilian sheet_31_menu_35cd3be0:
 
     # Arthur "Instead, {b}we encourage attendance with housepoints.{/b}"
-    Arthur ""
+    Arthur "Em vez disso, {b}incentivamos a participação com pontos domésticos.{/b}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:176
 translate brazilian sheet_31_menu_2f8878df:
 
     # Arthur "Every week, on Saturday morning, we sum up the results of the house competition."
-    Arthur ""
+    Arthur "Toda semana, no sábado de manhã, resumimos os resultados da competição da casa."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:177
 translate brazilian sheet_31_menu_c496ea98:
 
     # Arthur "And the house with the most points gets {b}special privileges.{/b}"
-    Arthur ""
+    Arthur "E a casa com mais pontos recebe {b}privilégios especiais.{/b}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:179
 translate brazilian sheet_31_menu_00a9252d:
 
     # Arthur "Like a {b}trip to the beautiful town of Dale.{/b}"
-    Arthur ""
+    Arthur "Como uma {b}viagem à bela cidade de Dale.{/b}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:180
 translate brazilian sheet_31_menu_d7581434:
 
     # Arthur "After which our academy is partly named."
-    Arthur ""
+    Arthur "Depois do qual nossa academia é parcialmente nomeada."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:182
 translate brazilian sheet_31_menu_1df87019:
 
     # ch_Name "What is that town?"
-    ch_Name ""
+    ch_Name "Onde é essa cidade?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:183
 translate brazilian sheet_31_menu_19a91d80:
 
     # Elijah "Oh, believe me... Dale is worth it."
-    Elijah ""
+    Elijah "Oh, acredite em mim... Dale vale a pena."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:184
 translate brazilian sheet_31_menu_b35ea416:
 
     # Elijah "It's the closest thing to civilization that's within walking distance."
-    Elijah ""
+    Elijah "É a cidade mais próxima da civilização que está a uma curta distância."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:185
 translate brazilian sheet_31_menu_85a1be50:
 
     # Elijah "There's plenty to do there."
-    Elijah ""
+    Elijah "Há muito o que fazer lá."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:187
 translate brazilian sheet_31_menu_9c15acfa:
 
     # Arthur "There's no classes on the weekends and you're on your own."
-    Arthur ""
+    Arthur "Não há aulas nos fins de semana e você está sozinho."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:192
 translate brazilian sheet_31_menu_c3e78e86:
 
     # Arthur "You're probably wondering how you can earn housepoints."
-    Arthur ""
+    Arthur "Você provavelmente está se perguntando como você pode ganhar pontos da casa."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:193
 translate brazilian sheet_31_menu_230636ff:
 
     # Arthur "Besides attending classes."
-    Arthur ""
+    Arthur "Além de assistir às aulas."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:194
 translate brazilian sheet_31_menu_39d1aa9f:
 
     # Arthur "Well, I hear that our charming {b}librarian Miss Amelie{/b}..."
-    Arthur ""
+    Arthur "Bem, ouvi dizer que nossa charmosa {b}bibliotecária, Srta. Amelie{/b}..."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:195
 translate brazilian sheet_31_menu_cc02fcd8:
 
     # Arthur "...would be happy to {b}reward you with points for a little help.{/b}"
-    Arthur ""
+    Arthur "...ficaria feliz em {b}recompensar você com pontos por uma pequena ajuda.{/b}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:197
 translate brazilian sheet_31_menu_95b508e7:
 
     # Arthur "Also, you can {b}apply to Mr. Frollo to join the dueling club.{/b}"
-    Arthur ""
+    Arthur "Além disso, você pode {b}candidatar-se ao Sr. Frollo para se juntar ao clube de duelos.{/b}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:198
 translate brazilian sheet_31_menu_fc99f0ba:
 
     # Arthur "But be careful!"
-    Arthur ""
+    Arthur "Mas tenha cuidado!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:199
 translate brazilian sheet_31_menu_293766b6:
 
     # Arthur "There are not only winners in duels, but also losers."
-    Arthur ""
+    Arthur "Não há apenas vencedores em duelos, mas também perdedores."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:200
 translate brazilian sheet_31_menu_708a175f:
 
     # Arthur "And losing students lose housepoints."
-    Arthur ""
+    Arthur "E os alunos perdem pontos da casa."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:207
 translate brazilian sheet_31_76_7ab33d1c:
 
     # Arthur "Well, well, what else I wanted to say..."
-    Arthur ""
+    Arthur "Bem, bem, o que mais eu queria dizer..."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:208
 translate brazilian sheet_31_76_a1711a22:
 
     # Arthur "Eh, being old isn't a joy..."
-    Arthur ""
+    Arthur "Eh, ser velho não é uma diversão..."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:210
 translate brazilian sheet_31_76_34263fed:
 
     # Elijah "By the way, [Name]."
-    Elijah ""
+    Elijah "A propósito, [Name]."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:211
 translate brazilian sheet_31_76_1855220c:
 
     # ch_Name "What?"
-    ch_Name ""
+    ch_Name "o que foi?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:212
 translate brazilian sheet_31_76_4f58e093:
 
     # Elijah "I forgot to tell you that {b}I need to meet you on campus{/b} after the meeting."
-    Elijah ""
+    Elijah "Esqueci de dizer que {b}preciso encontrar você no campus{/b} depois da reunião."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:213
 translate brazilian sheet_31_76_b59bfac7:
 
     # ch_Name "Okay. What for?"
-    ch_Name ""
+    ch_Name "Ok. Para quê?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:215
 translate brazilian sheet_31_76_e4b251fd:
 
     # Elijah "To give you {b}your student ID card{/b}, dummy."
-    Elijah ""
+    Elijah "Para dar a você {b}sua carteira de estudante{/b}, manequim."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:216
 translate brazilian sheet_31_76_7b68e21a:
 
     # Elijah "So you can start getting into this whole house battle."
-    Elijah ""
+    Elijah "Então você pode começar a entrar nessa batalha de casa inteira."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:217
 translate brazilian sheet_31_76_d6dbd69c:
@@ -766,103 +766,103 @@ translate brazilian sheet_31_76_d6dbd69c:
 translate brazilian sheet_31_76_c6803d96:
 
     # ch_Name "All right."
-    ch_Name ""
+    ch_Name "Tudo bem."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:220
 translate brazilian sheet_31_76_fa3d9593:
 
     # Arthur "And remember, wizards must behave with dignity!"
-    Arthur ""
+    Arthur "E lembre-se, magos devem se comportar com dignidade!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:221
 translate brazilian sheet_31_76_1c465310:
 
     # Arthur "Teachers have the right to remind you of this and to levy housepoints..."
-    Arthur ""
+    Arthur "Os professores têm o direito de lembrá-lo disso e cobrar pontos da casa..."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:222
 translate brazilian sheet_31_76_d8336100:
 
     # Arthur "...for undignified behavior."
-    Arthur ""
+    Arthur "...por comportamento indigno."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:224
 translate brazilian sheet_31_76_e3f95e31:
 
     # ch_Name "Oh, that's unpleasant."
-    ch_Name ""
+    ch_Name "Ah, isso é desagradável."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:225
 translate brazilian sheet_31_76_e92f4000:
 
     # Elijah "Don't sweat it. You have to try really, really hard to get your points taken away."
-    Elijah ""
+    Elijah "Não se preocupe. Você tem que tentar muito, muito para perder seus pontos."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:227
 translate brazilian sheet_31_76_9641f5f5:
 
     # Arthur "I guess that's it!"
-    Arthur ""
+    Arthur "Acho que é isso!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:228
 translate brazilian sheet_31_76_0f21babf:
 
     # Arthur "I won't hold you up on your first day of study!"
-    Arthur ""
+    Arthur "Eu não vou te segurar no seu primeiro dia de estudo!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:230
 translate brazilian sheet_31_76_f0f0c68f:
 
     # Arthur "Hurry up so you're not late for class."
-    Arthur ""
+    Arthur "Apresse-se para que você não se atrase para a aula."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:232
 translate brazilian sheet_31_76_701544bb:
 
     # ch_Name "{i}(Damn, I was in such a hurry I forgot to put on my underwear...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Droga, eu estava com tanta pressa que esqueci de colocar minha calcinha...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:233
 translate brazilian sheet_31_76_177bb03e:
 
     # ch_Name "{i}(It's uncomfortable and chilly.){/i}"
-    ch_Name ""
+    ch_Name "{i}(É desconfortável e frio.){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:234
 translate brazilian sheet_31_76_ae1bf26a:
 
     # ch_Name "{i}(Gotta get back to the room.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tenho que voltar para a sala.){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:240
 translate brazilian sheet_31_76_f021783d:
 
     # ch_Name "{i}(That's much better.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Agora ficou muito melhor.){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:241
 translate brazilian sheet_31_76_b849b589:
 
     # ch_Name "{i}(It's much more cozy in underpants.){/i}"
-    ch_Name ""
+    ch_Name "{i}(É muito mais confortável do que calcinha.){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:242
 translate brazilian sheet_31_76_5bdce05f:
 
     # ch_Name "{i}(Now, let's get back to Elijah.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Agora, vamos voltar para Elijah.){/i}"
 
 translate brazilian strings:
 
     # game/logic/episodes_after_first/ep2/sheet_31.rpy:161
     old "About classes"
-    new ""
+    new "Sobre as aulas"
 
     # game/logic/episodes_after_first/ep2/sheet_31.rpy:161
     old "About weekends"
-    new ""
+    new "Sobre fins de semana"
 
     # game/logic/episodes_after_first/ep2/sheet_31.rpy:161
     old "How to earn housepoints"
-    new ""
+    new "Como ganhar pontos da casa"
 
