@@ -5708,7 +5708,7 @@ translate brazilian strings:
 
     # game/logic/events/samantha.rpy:495
     old "Switch to your lips"
-    new ""
+    new "Troque para seus lábios"
 
     # game/logic/events/samantha.rpy:495
     old "Let her kiss your cheeks"
