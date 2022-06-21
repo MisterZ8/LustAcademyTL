@@ -388,121 +388,121 @@ translate brazilian sheet_24_game_1_84d3dc7e:
 translate brazilian sheet_24_game_1_a88e76b2:
 
     # Victoria "Well..."
-    Victoria ""
+    Victoria "Bem..."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:318
 translate brazilian sheet_24_game_1_7bfa566e:
 
     # Victoria "At least you achieved some result."
-    Victoria ""
+    Victoria "Pelo menos você conseguiu algum resultado."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:320
 translate brazilian sheet_24_game_1_12cf80c0:
 
     # ch_Name "{i}(Does this mean...?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Isso significa...?){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:322
 translate brazilian sheet_24_game_1_96d6fae8_1:
 
     # Victoria "You're enrolled."
-    Victoria ""
+    Victoria "Você está matriculado."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:324
 translate brazilian sheet_24_game_1_c7f59b2c_1:
 
     # Victoria "For now."
-    Victoria ""
+    Victoria "Por enquanto."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:326
 translate brazilian sheet_24_game_1_80bafeb1_1:
 
     # Victoria "But you'll have to show a special zeal for your studies."
-    Victoria ""
+    Victoria "Mas você terá que mostrar um zelo especial pelos seus estudos."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:328
 translate brazilian sheet_24_game_1_6fe44a2b_1:
 
     # Victoria "If you want to stay at this academy."
-    Victoria ""
+    Victoria "Se você quiser ficar nesta academia."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:330
 translate brazilian sheet_24_game_1_1deb4694_1:
 
     # ch_Name "I do."
-    ch_Name ""
+    ch_Name "Sim."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:332
 translate brazilian sheet_24_game_1_2d58164d_1:
 
     # ch_Name "I mean... I will. A special zeal from now on!"
-    ch_Name ""
+    ch_Name "Quero dizer... eu vou. Um zelo especial a partir de agora!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:334
 translate brazilian sheet_24_game_1_84d3dc7e_1:
 
     # ch_Name "Thank you!"
-    ch_Name ""
+    ch_Name "Obrigado!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:343
 translate brazilian sheet_24_game_1_a88e76b2_1:
 
     # Victoria "Well..."
-    Victoria ""
+    Victoria "Bem..."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:345
 translate brazilian sheet_24_game_1_7bfa566e_1:
 
     # Victoria "At least you achieved some result."
-    Victoria ""
+    Victoria "Pelo menos você conseguiu algum resultado."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:347
 translate brazilian sheet_24_game_1_12cf80c0_1:
 
     # ch_Name "{i}(Does this mean...?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Isso significa...?){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:349
 translate brazilian sheet_24_game_1_96d6fae8_2:
 
     # Victoria "You're enrolled."
-    Victoria ""
+    Victoria "Você está matriculado."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:351
 translate brazilian sheet_24_game_1_c7f59b2c_2:
 
     # Victoria "For now."
-    Victoria ""
+    Victoria "Por enquanto."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:353
 translate brazilian sheet_24_game_1_80bafeb1_2:
 
     # Victoria "But you'll have to show a special zeal for your studies."
-    Victoria ""
+    Victoria "Mas você terá que mostrar um zelo especial pelos seus estudos."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:355
 translate brazilian sheet_24_game_1_6fe44a2b_2:
 
     # Victoria "If you want to stay at this academy."
-    Victoria ""
+    Victoria "Se você quiser ficar nesta academia."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:357
 translate brazilian sheet_24_game_1_1deb4694_2:
 
     # ch_Name "I do."
-    ch_Name ""
+    ch_Name "Sim."
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:359
 translate brazilian sheet_24_game_1_2d58164d_2:
 
     # ch_Name "I mean... I will. A special zeal from now on!"
-    ch_Name ""
+    ch_Name "Quero dizer... eu vou. Um zelo especial a partir de agora!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:361
 translate brazilian sheet_24_game_1_84d3dc7e_2:
 
     # ch_Name "Thank you!"
-    ch_Name ""
+    ch_Name "Obrigado!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:365
 translate brazilian sheet_24_game_1_836a6447:
@@ -532,7 +532,7 @@ translate brazilian sheet_24_game_1_b2fa65d1:
 translate brazilian sheet_24_game_1_90619c60:
 
     # ch_Name "Thank you, miss Lapis!"
-    ch_Name "Thank you, miss Lapis!"
+    ch_Name "Obrigado, miss Lapis!"
 
 # game/logic/episodes_after_first/ep2/sheet_24.rpy:375
 translate brazilian sheet_24_game_1_de1b88f9:
