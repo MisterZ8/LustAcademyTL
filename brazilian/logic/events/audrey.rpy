@@ -8038,19 +8038,19 @@ translate brazilian Audrey_events_4_label_4_shemale_19d64222:
 translate brazilian Audrey_events_4_label_4_shemale_75fe32f7:
 
     # ch_Name "{i}(Or do you need a special treatment?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ou você precisa de um tratamento especial?){/i}"
 
 # game/logic/events/audrey.rpy:2448
 translate brazilian Audrey_events_4_label_4_shemale_b00135ca:
 
     # ch_Name "{i}(Let me get a good grasp...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Deixe-me entender...){/i}"
 
 # game/logic/events/audrey.rpy:2449
 translate brazilian Audrey_events_4_label_4_shemale_7f38f8cc:
 
     # ch_Name "{i}(Oh, it's erected. A little bit.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ah, está erguido. Um pouco.){/i}"
 
 # game/logic/events/audrey.rpy:2450
 translate brazilian Audrey_events_4_label_4_shemale_ea01d6f4_1:
@@ -8062,25 +8062,25 @@ translate brazilian Audrey_events_4_label_4_shemale_ea01d6f4_1:
 translate brazilian Audrey_events_4_label_4_shemale_c6e83680:
 
     # ch_Name "{i}(So you like it, don't you?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Então você gosta, não é?){/i}"
 
 # game/logic/events/audrey.rpy:2452
 translate brazilian Audrey_events_4_label_4_shemale_bb7a1e51:
 
     # ch_Name "{i}(Alright, I'll jerk you off...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tudo bem, eu vou te masturbar...){/i}"
 
 # game/logic/events/audrey.rpy:2453
 translate brazilian Audrey_events_4_label_4_shemale_aea7ce78:
 
     # ch_Name "{i}(You'd do the same for me if you were on my place.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Você faria o mesmo por mim se estivesse no meu lugar.){/i}"
 
 # game/logic/events/audrey.rpy:2454
 translate brazilian Audrey_events_4_label_4_shemale_edef34cc:
 
     # ch_Name "{i}(Let's try to get those panties off...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vamos tentar tirar essa calcinha...){/i}"
 
 # game/logic/events/audrey.rpy:2456
 translate brazilian Audrey_events_4_label_4_shemale_f0cce54d:
@@ -8092,91 +8092,91 @@ translate brazilian Audrey_events_4_label_4_shemale_f0cce54d:
 translate brazilian Audrey_events_4_label_4_shemale_3c4e3762:
 
     # ch_Name "{i}(Damn, I think she might wake up...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Droga, acho que ela pode acordar...){/i}"
 
 # game/logic/events/audrey.rpy:2458
 translate brazilian Audrey_events_4_label_4_shemale_d507495b:
 
     # ch_Name "{i}(Better get out of here and get some sleep.){/i}"
-    ch_Name ""
+    ch_Name "{i}(É melhor sair daqui e dormir um pouco.){/i}"
 
 # game/logic/events/audrey.rpy:2467
 translate brazilian Audrey_8_label_c7b7353f:
 
     # ch_Name "{i}(Here she is.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aqui está ela.){/i}"
 
 # game/logic/events/audrey.rpy:2468
 translate brazilian Audrey_8_label_7b775243:
 
     # ch_Name "{i}(I still can't believe she's a succubus.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ainda não consigo acreditar que ela é uma súcubo.){/i}"
 
 # game/logic/events/audrey.rpy:2469
 translate brazilian Audrey_8_label_3d6b3a69:
 
     # ch_Name "{i}(I mean, I know It's true.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Quero dizer, eu sei que é verdade.){/i}"
 
 # game/logic/events/audrey.rpy:2470
 translate brazilian Audrey_8_label_f59bf6df:
 
     # ch_Name "{i}(But it all feels so surreal.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas tudo parece tão surreal.){/i}"
 
 # game/logic/events/audrey.rpy:2471
 translate brazilian Audrey_8_label_16200483:
 
     # ch_Name "{i}(Anyway, let's find out how yesterday affected her mood.){/i}"
-    ch_Name ""
+    ch_Name "{i}(De qualquer forma, vamos descobrir como ontem afetou o humor dela.){/i}"
 
 # game/logic/events/audrey.rpy:2477
 translate brazilian Audrey_8_label_00e26c6d:
 
     # ch_Name "Hi there!"
-    ch_Name ""
+    ch_Name "Olá!"
 
 # game/logic/events/audrey.rpy:2478
 translate brazilian Audrey_8_label_49a9dac9:
 
     # ch_Name "How's Leonheart's most sullen student doing?"
-    ch_Name ""
+    ch_Name "Como está a aluna mais mal-humorada de Leonheart?"
 
 # game/logic/events/audrey.rpy:2480
 translate brazilian Audrey_8_label_eb1f0605:
 
     # Audrey "Huh? Why am I the moodiest?"
-    Audrey ""
+    Audrey "Huh? Por que eu sou a mais mal-humorada?"
 
 # game/logic/events/audrey.rpy:2481
 translate brazilian Audrey_8_label_66d4ec21:
 
     # ch_Name "Oh, come on, don't be so grumpy. That's what I like about you."
-    ch_Name ""
+    ch_Name "Ah, vamos lá, não seja tão mal-humorado. É disso que eu gosto em você."
 
 # game/logic/events/audrey.rpy:2482
 translate brazilian Audrey_8_label_c5dca9b4:
 
     # ch_Name "It was meant as a compliment."
-    ch_Name ""
+    ch_Name "Foi feito como um elogio."
 
 # game/logic/events/audrey.rpy:2484
 translate brazilian Audrey_8_label_4f9e5494:
 
     # Audrey "Thinking isn't really your thing."
-    Audrey ""
+    Audrey "Pensar não é sua praia."
 
 # game/logic/events/audrey.rpy:2485
 translate brazilian Audrey_8_label_0f043f3c:
 
     # ch_Name "You don't always have to be so cold."
-    ch_Name ""
+    ch_Name "Você nem sempre precisa ser tão fria."
 
 # game/logic/events/audrey.rpy:2486
 translate brazilian Audrey_8_label_4e1b9db6:
 
     # ch_Name "Why don't we go out for coffee?"
-    ch_Name ""
+    ch_Name "Por que não saímos para tomar um café?"
 
 # game/logic/events/audrey.rpy:2487
 translate brazilian Audrey_8_label_9430f0d5:
@@ -8188,301 +8188,301 @@ translate brazilian Audrey_8_label_9430f0d5:
 translate brazilian Audrey_8_label_01735cb4:
 
     # Audrey "I think I'll pass."
-    Audrey ""
+    Audrey "Acho que vou passar."
 
 # game/logic/events/audrey.rpy:2490
 translate brazilian Audrey_8_label_82751834:
 
     # Audrey "But I do have something for you."
-    Audrey ""
+    Audrey "Mas eu tenho algo para você."
 
 # game/logic/events/audrey.rpy:2491
 translate brazilian Audrey_8_label_4c006010:
 
     # ch_Name "You do? What's that?"
-    ch_Name ""
+    ch_Name "Você sabe? O que é isso?"
 
 # game/logic/events/audrey.rpy:2492
 translate brazilian Audrey_8_label_7398f2ce:
 
     # Audrey "Not here. I don't want Samantha to hear us."
-    Audrey ""
+    Audrey "Aqui não. Não quero que Samantha nos ouça."
 
 # game/logic/events/audrey.rpy:2493
 translate brazilian Audrey_8_label_ab273139:
 
     # ch_Name "Samantha? What difference does it make?"
-    ch_Name ""
+    ch_Name "Samantha? Que diferença faz?"
 
 # game/logic/events/audrey.rpy:2494
 translate brazilian Audrey_8_label_4513df7a:
 
     # ch_Name "Does it have something to do with her?"
-    ch_Name ""
+    ch_Name "Tem algo a ver com ela?"
 
 # game/logic/events/audrey.rpy:2496
 translate brazilian Audrey_8_label_11508b23:
 
     # Audrey "Shh. Keep your voice down."
-    Audrey ""
+    Audrey "Shh. Mantenha sua voz baixa."
 
 # game/logic/events/audrey.rpy:2497
 translate brazilian Audrey_8_label_293dfd4f:
 
     # Audrey "Let's go upstairs and talk about it."
-    Audrey ""
+    Audrey "Vamos subir e falar sobre isso."
 
 # game/logic/events/audrey.rpy:2498
 translate brazilian Audrey_8_label_9e0a4a1e:
 
     # ch_Name "All right. You seem mysterious today."
-    ch_Name ""
+    ch_Name "Tudo bem. Você parece misteriosa hoje."
 
 # game/logic/events/audrey.rpy:2500
 translate brazilian Audrey_8_label_09f9d010:
 
     # Audrey "There's a reason for that."
-    Audrey ""
+    Audrey "Há uma razão para isso."
 
 # game/logic/events/audrey.rpy:2501
 translate brazilian Audrey_8_label_151822f8:
 
     # ch_Name "Oh, you're intriguing!"
-    ch_Name ""
+    ch_Name "Ah, você é intrigante!"
 
 # game/logic/events/audrey.rpy:2503
 translate brazilian Audrey_8_label_e1e02413:
 
     # ch_Name "Lead the way. I'm right behind you."
-    ch_Name ""
+    ch_Name "Mostre o caminho. Estou bem atrás de você."
 
 # game/logic/events/audrey.rpy:2504
 translate brazilian Audrey_8_label_5db72749:
 
     # Audrey "Hurry up."
-    Audrey ""
+    Audrey "Apresse-se."
 
 # game/logic/events/audrey.rpy:2506
 translate brazilian Audrey_8_label_3e4e2f82:
 
     # Audrey "Lily and Haley have already left for class, so no one will interrupt us here."
-    Audrey ""
+    Audrey "Lily e Haley já foram para a aula, então ninguém vai nos interromper aqui."
 
 # game/logic/events/audrey.rpy:2507
 translate brazilian Audrey_8_label_e89ff3e1:
 
     # ch_Name "{i}(I've never seen Audrey so careful.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu nunca vi Audrey tão cuidadosa.){/i}"
 
 # game/logic/events/audrey.rpy:2508
 translate brazilian Audrey_8_label_b15d82bc:
 
     # ch_Name "{i}(Apparently she doesn't want anyone we know to overhear us.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aparentemente ela não quer que ninguém que conheçamos nos ouça.){/i}"
 
 # game/logic/events/audrey.rpy:2510
 translate brazilian Audrey_8_label_b8e89af6:
 
     # ch_Name "{i}(Maybe it's time to find out why!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Talvez seja hora de descobrir o porquê!){/i}"
 
 # game/logic/events/audrey.rpy:2511
 translate brazilian Audrey_8_label_2ef71514:
 
     # ch_Name "What's the mystery? What's up?"
-    ch_Name ""
+    ch_Name "Qual é o mistério? E aí?"
 
 # game/logic/events/audrey.rpy:2512
 translate brazilian Audrey_8_label_c84dff2b:
 
     # Audrey "I wanted to talk to you..."
-    Audrey ""
+    Audrey "Eu queria falar com você..."
 
 # game/logic/events/audrey.rpy:2514
 translate brazilian Audrey_8_label_f739a8a8:
 
     # Audrey "...about that time in our room..."
-    Audrey ""
+    Audrey "...sobre aquela hora no nosso quarto..."
 
 # game/logic/events/audrey.rpy:2515
 translate brazilian Audrey_8_label_c2446083:
 
     # ch_Name "I wanted to talk about it myself."
-    ch_Name ""
+    ch_Name "Eu queria falar sobre isso sozinho."
 
 # game/logic/events/audrey.rpy:2517
 translate brazilian Audrey_8_label_392cf7cb:
 
     # ch_Name "I swear that's the first time it's happened to me."
-    ch_Name ""
+    ch_Name "Eu juro que é a primeira vez que isso acontece comigo."
 
 # game/logic/events/audrey.rpy:2518
 translate brazilian Audrey_8_label_6b5c44f4:
 
     # ch_Name "You were great, don't think it was about the quality of the sex."
-    ch_Name ""
+    ch_Name "Você foi ótima, não pense que foi pela qualidade do sexo."
 
 # game/logic/events/audrey.rpy:2519
 translate brazilian Audrey_8_label_babde306:
 
     # ch_Name "The sex was incredible!"
-    ch_Name ""
+    ch_Name "O sexo foi incrível!"
 
 # game/logic/events/audrey.rpy:2521
 translate brazilian Audrey_8_label_9bd7e65a:
 
     # Audrey "Quiet, you fool!"
-    Audrey ""
+    Audrey "Quieto, seu tolo!"
 
 # game/logic/events/audrey.rpy:2522
 translate brazilian Audrey_8_label_94a7e7ae:
 
     # Audrey "They can hear from downstairs..."
-    Audrey ""
+    Audrey "Podem ouvir a gente lá de baixo..."
 
 # game/logic/events/audrey.rpy:2523
 translate brazilian Audrey_8_label_646b1519:
 
     # Audrey "You..."
-    Audrey ""
+    Audrey "Você..."
 
 # game/logic/events/audrey.rpy:2525
 translate brazilian Audrey_8_label_b8782e83:
 
     # ch_Name "All I'm saying is I don't know what happened."
-    ch_Name ""
+    ch_Name "Tudo o que estou dizendo é que não sei o que aconteceu."
 
 # game/logic/events/audrey.rpy:2526
 translate brazilian Audrey_8_label_a1bd002b:
 
     # ch_Name "It's like they sucked all the energy out of me."
-    ch_Name ""
+    ch_Name "É como se eles tivessem sugado toda a minha energia."
 
 # game/logic/events/audrey.rpy:2528
 translate brazilian Audrey_8_label_a6aff21e:
 
     # ch_Name "And don't tell me you didn't notice something strange in the air that night."
-    ch_Name ""
+    ch_Name "E não me diga que você não notou algo estranho no ar naquela noite."
 
 # game/logic/events/audrey.rpy:2529
 translate brazilian Audrey_8_label_54fe522e:
 
     # ch_Name "You know something about it, Audrey?"
-    ch_Name ""
+    ch_Name "Você sabe alguma coisa sobre isso, Audrey?"
 
 # game/logic/events/audrey.rpy:2531
 translate brazilian Audrey_8_label_39c533c6:
 
     # Audrey "That's what I wanted to talk to you about. Ugh."
-    Audrey ""
+    Audrey "É sobre isso que eu queria falar com você. Ugh."
 
 # game/logic/events/audrey.rpy:2532
 translate brazilian Audrey_8_label_ddd7598d:
 
     # Audrey "You're so impatient. I can barely get a word in."
-    Audrey ""
+    Audrey "Você está tão impaciente. Eu mal consigo dizer uma palavra."
 
 # game/logic/events/audrey.rpy:2533
 translate brazilian Audrey_8_label_38a6aa6c:
 
     # Audrey "The thing is, I..."
-    Audrey ""
+    Audrey "A questão é que eu..."
 
 # game/logic/events/audrey.rpy:2534
 translate brazilian Audrey_8_label_1760035f:
 
     # Audrey "I overreacted when I threw you out last time."
-    Audrey ""
+    Audrey "Eu exagerei quando te expulsei da última vez."
 
 # game/logic/events/audrey.rpy:2535
 translate brazilian Audrey_8_label_0e9298b5:
 
     # Audrey "It wasn't your fault what happened."
-    Audrey ""
+    Audrey "Não foi sua culpa o que aconteceu."
 
 # game/logic/events/audrey.rpy:2537
 translate brazilian Audrey_8_label_9ca6d56a:
 
     # Audrey "If it was anybody's fault but mine."
-    Audrey ""
+    Audrey "Se fosse culpa de alguém, menos minha."
 
 # game/logic/events/audrey.rpy:2541
 translate brazilian Audrey_8_label_b25531ed:
 
     # ch_Name "{i}(She decided to tell me herself after all.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela mesma decidiu me contar depois de tudo.){/i}"
 
 # game/logic/events/audrey.rpy:2542
 translate brazilian Audrey_8_label_cd440c86:
 
     # ch_Name "{i}(Great. That means she trusts me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ótimo. Isso significa que ela confia em mim.){/i}"
 
 # game/logic/events/audrey.rpy:2543
 translate brazilian Audrey_8_label_51680295:
 
     # ch_Name "{i}(I'll play along and pretend I didn't know what she was.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vou brincar e fingir que não sabia o que ela era.){/i}"
 
 # game/logic/events/audrey.rpy:2546
 translate brazilian Audrey_8_label_277afae2:
 
     # ch_Name "{i}(What's she talking about?){/i}"
-    ch_Name ""
+    ch_Name "{i}(O que ela está falando?){/i}"
 
 # game/logic/events/audrey.rpy:2547
 translate brazilian Audrey_8_label_ee03bf4b:
 
     # ch_Name "{i}(There's that weird glow in her eyes again...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tem aquele brilho estranho nos olhos dela de novo...){/i}"
 
 # game/logic/events/audrey.rpy:2548
 translate brazilian Audrey_8_label_3b9cb3b2:
 
     # ch_Name "{i}(There's obviously something wrong with Audrey...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Obviamente há algo errado com Audrey...){/i}"
 
 # game/logic/events/audrey.rpy:2551
 translate brazilian Audrey_8_label_1b67e978:
 
     # ch_Name "What are you talking about?"
-    ch_Name ""
+    ch_Name "Do que você está falando?"
 
 # game/logic/events/audrey.rpy:2552
 translate brazilian Audrey_8_label_1dd0fc17:
 
     # ch_Name "And what's wrong with your eyes, Audrey?"
-    ch_Name ""
+    ch_Name "E o que há de errado com seus olhos, Audrey?"
 
 # game/logic/events/audrey.rpy:2554
 translate brazilian Audrey_8_label_2db49c4f:
 
     # Audrey "You see, I'm not exactly who I say I am."
-    Audrey ""
+    Audrey "Você vê, eu não sou exatamente quem eu digo que sou."
 
 # game/logic/events/audrey.rpy:2555
 translate brazilian Audrey_8_label_8db03f22:
 
     # Audrey "I come from a completely different world."
-    Audrey ""
+    Audrey "Eu venho de um mundo completamente diferente."
 
 # game/logic/events/audrey.rpy:2556
 translate brazilian Audrey_8_label_1dbcaa9a:
 
     # Audrey "And in my world... People like you are just food, disenfranchised cattle."
-    Audrey ""
+    Audrey "E no meu mundo... Pessoas como você são apenas comida, gado marginalizado."
 
 # game/logic/events/audrey.rpy:2558
 translate brazilian Audrey_8_label_339a8d49:
 
     # ch_Name "Um... What are you talking about, Audrey?"
-    ch_Name ""
+    ch_Name "Hum... Do que você está falando, Audrey?"
 
 # game/logic/events/audrey.rpy:2559
 translate brazilian Audrey_8_label_1c08bf49:
 
     # ch_Name "Please, let's talk like civilized people."
-    ch_Name ""
+    ch_Name "Por favor, vamos falar como pessoas civilizadas."
 
 # game/logic/events/audrey.rpy:2561
 translate brazilian Audrey_8_label_bda027fa:
@@ -8494,673 +8494,673 @@ translate brazilian Audrey_8_label_bda027fa:
 translate brazilian Audrey_8_label_a30ad55e:
 
     # Audrey "That's exactly my point."
-    Audrey ""
+    Audrey "Esse é exatamente o meu ponto."
 
 # game/logic/events/audrey.rpy:2564
 translate brazilian Audrey_8_label_ec1f6a45:
 
     # Audrey "I'm not human. I'm a succubus."
-    Audrey ""
+    Audrey "Eu não sou humana. Eu sou uma succubus."
 
 # game/logic/events/audrey.rpy:2565
 translate brazilian Audrey_8_label_832368ed:
 
     # Audrey "I feed on the magical power of living things. Their souls."
-    Audrey ""
+    Audrey "Eu me alimento do poder mágico das coisas vivas. Suas almas."
 
 # game/logic/events/audrey.rpy:2566
 translate brazilian Audrey_8_label_1f57b255:
 
     # Audrey "And it can be pretty exhausting for whomever I choose to snack on..."
-    Audrey ""
+    Audrey "E pode ser bem cansativo para quem eu escolho lanchar..."
 
 # game/logic/events/audrey.rpy:2568
 translate brazilian Audrey_8_label_a0886fb6:
 
     # ch_Name "So you... fed on me?"
-    ch_Name ""
+    ch_Name "Então você... se alimentou de mim?"
 
 # game/logic/events/audrey.rpy:2569
 translate brazilian Audrey_8_label_36adcd84:
 
     # Audrey "Thanks for the treat."
-    Audrey ""
+    Audrey "Obrigada pelo mimo."
 
 # game/logic/events/audrey.rpy:2570
 translate brazilian Audrey_8_label_8eb2b0cd:
 
     # ch_Name "Uh... That sounds pretty creepy, Audrey."
-    ch_Name ""
+    ch_Name "Uh... Isso soa bem assustador, Audrey."
 
 # game/logic/events/audrey.rpy:2571
 translate brazilian Audrey_8_label_f7492efe:
 
     # ch_Name "Why are you telling me this now?"
-    ch_Name ""
+    ch_Name "Por que você está me contando isso agora?"
 
 # game/logic/events/audrey.rpy:2573
 translate brazilian Audrey_8_label_fa6d1dd2:
 
     # Audrey "That time you satiated me..."
-    Audrey ""
+    Audrey "Aquela vez que você me saciou..."
 
 # game/logic/events/audrey.rpy:2575
 translate brazilian Audrey_8_label_135d4110:
 
     # Audrey "But it's not enough for me..."
-    Audrey ""
+    Audrey "Mas não é suficiente para mim..."
 
 # game/logic/events/audrey.rpy:2576
 translate brazilian Audrey_8_label_f56830b3:
 
     # ch_Name "{i}(She wants to finish me off?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela quer acabar comigo?){/i}"
 
 # game/logic/events/audrey.rpy:2578
 translate brazilian Audrey_8_label_a1e3ee86:
 
     # Audrey "I want you to finish the job."
-    Audrey ""
+    Audrey "Eu quero que você termine o trabalho."
 
 # game/logic/events/audrey.rpy:2579
 translate brazilian Audrey_8_label_8adbbea7:
 
     # ch_Name "{i}(She wants me to finish?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela quer que eu termine?){/i}"
 
 # game/logic/events/audrey.rpy:2581
 translate brazilian Audrey_8_label_7f0d51ae:
 
     # Audrey "Are you happy with the way it ended?"
-    Audrey ""
+    Audrey "Você está feliz com a forma como terminou?"
 
 # game/logic/events/audrey.rpy:2582
 translate brazilian Audrey_8_label_8b5ebcd1:
 
     # Audrey "Don't disappoint me a second time, [Name]."
-    Audrey ""
+    Audrey "Não me decepcione uma segunda vez, [Name]."
 
 # game/logic/events/audrey.rpy:2583
 translate brazilian Audrey_8_label_d2f21d8a:
 
     # Audrey "It ruins the taste."
-    Audrey ""
+    Audrey "Isso estraga o sabor."
 
 # game/logic/events/audrey.rpy:2585
 translate brazilian Audrey_8_label_5fb29d9a:
 
     # ch_Name "Wait a minute, Audrey."
-    ch_Name ""
+    ch_Name "Espere um minuto, Audrey."
 
 # game/logic/events/audrey.rpy:2586
 translate brazilian Audrey_8_label_247c88a8:
 
     # ch_Name "Do you really think that if you wiggle your tail..."
-    ch_Name ""
+    ch_Name "Você realmente acha que se mexer o rabo..."
 
 # game/logic/events/audrey.rpy:2587
 translate brazilian Audrey_8_label_8d665a31:
 
     # ch_Name "... I'll run to be your servant?"
-    ch_Name ""
+    ch_Name "... Vou correr para ser seu servo?"
 
 # game/logic/events/audrey.rpy:2588
 translate brazilian Audrey_8_label_0857dd2d:
 
     # ch_Name "Agree to be your fodder?"
-    ch_Name ""
+    ch_Name "Concorda em ser sua forragem?"
 
 # game/logic/events/audrey.rpy:2590
 translate brazilian Audrey_8_label_b4b419dc:
 
     # Audrey "What do you think you're doing, boy?"
-    Audrey ""
+    Audrey "O que você pensa que está fazendo, garoto?"
 
 # game/logic/events/audrey.rpy:2591
 translate brazilian Audrey_8_label_c89d0068:
 
     # Audrey "You gonna pretend it wasn't worth it?"
-    Audrey ""
+    Audrey "Você vai fingir que não valeu a pena?"
 
 # game/logic/events/audrey.rpy:2592
 translate brazilian Audrey_8_label_8ce9f305:
 
     # Audrey "Admit it, it was fucking great sex."
-    Audrey ""
+    Audrey "Admita, que foi um transa ótima pra caralho."
 
 # game/logic/events/audrey.rpy:2594
 translate brazilian Audrey_8_label_fd02da36:
 
     # Audrey "And we can do it again."
-    Audrey ""
+    Audrey "E nós podemos fazer isso de novo."
 
 # game/logic/events/audrey.rpy:2595
 translate brazilian Audrey_8_label_73aaa433:
 
     # Audrey "If you can get over your impotence that is."
-    Audrey ""
+    Audrey "Se você pode superar sua impotência que é."
 
 # game/logic/events/audrey.rpy:2596
 translate brazilian Audrey_8_label_c38bcfef:
 
     # ch_Name "You know, Audrey..."
-    ch_Name ""
+    ch_Name "Sabe, Audrey..."
 
 # game/logic/events/audrey.rpy:2598
 translate brazilian Audrey_8_label_df69401d:
 
     # ch_Name "I'll think about it."
-    ch_Name ""
+    ch_Name "Vou pensar sobre isso."
 
 # game/logic/events/audrey.rpy:2599
 translate brazilian Audrey_8_label_04fea62c:
 
     # ch_Name "First, I need to figure out how to keep myself safe from a succubus's powers."
-    ch_Name ""
+    ch_Name "Primeiro, preciso descobrir como me manter a salvo dos poderes de uma súcubo."
 
 # game/logic/events/audrey.rpy:2601
 translate brazilian Audrey_8_label_4b5d0f9f:
 
     # Audrey "Hey! Keep your voice down..."
-    Audrey ""
+    Audrey "Ei! Fale baixo..."
 
 # game/logic/events/audrey.rpy:2602
 translate brazilian Audrey_8_label_f4e0a0bc:
 
     # Audrey "I trusted you."
-    Audrey ""
+    Audrey "Eu confiei em você."
 
 # game/logic/events/audrey.rpy:2604
 translate brazilian Audrey_8_label_d22d169d:
 
     # ch_Name "You can trust me. I won't reveal your secret."
-    ch_Name ""
+    ch_Name "Você pode confiar em mim. Não vou revelar seu segredo."
 
 # game/logic/events/audrey.rpy:2605
 translate brazilian Audrey_8_label_a9b86689:
 
     # ch_Name "And I'll think about your offer."
-    ch_Name ""
+    ch_Name "E vou pensar na sua oferta."
 
 # game/logic/events/audrey.rpy:2607
 translate brazilian Audrey_8_label_c9b7916b:
 
     # ch_Name "{i}(I can't believe a succubus wants me to be her lover...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não acredito que uma súcubo quer que eu seja seu amante...){/i}"
 
 # game/logic/events/audrey.rpy:2608
 translate brazilian Audrey_8_label_1a750126:
 
     # ch_Name "{i}(I need to figure out how not to lose my mojo...){/i}"
-    ch_Name ""
+    ch_Name "{i}(preciso descobrir como não perder meu mojo...){/i}"
 
 # game/logic/events/audrey.rpy:2615
 translate brazilian Audrey_8_label_29f8a398:
 
     # ch_Name "Hey there! Would you like to go get coffee with me?"
-    ch_Name ""
+    ch_Name "Ei! Você gostaria de tomar um café comigo?"
 
 # game/logic/events/audrey.rpy:2616
 translate brazilian Audrey_8_label_68d8d5e2:
 
     # Audrey "Get away from me."
-    Audrey ""
+    Audrey "Afaste-se de mim."
 
 # game/logic/events/audrey.rpy:2617
 translate brazilian Audrey_8_label_55685397:
 
     # ch_Name "Is something wrong, or are you just not in the mood?"
-    ch_Name ""
+    ch_Name "Há algo errado, ou você simplesmente não está com vontade?"
 
 # game/logic/events/audrey.rpy:2619
 translate brazilian Audrey_8_label_e6e76d0e:
 
     # Audrey "I'm not in the mood."
-    Audrey ""
+    Audrey "Não estou com vontade."
 
 # game/logic/events/audrey.rpy:2620
 translate brazilian Audrey_8_label_38d19f45:
 
     # ch_Name "Then a cup of coffee alone with me is just what you need right now, baby!"
-    ch_Name ""
+    ch_Name "Então, uma xícara de café a sós comigo é exatamente o que você precisa agora, baby!"
 
 # game/logic/events/audrey.rpy:2621
 translate brazilian Audrey_8_label_5d58b492:
 
     # ch_Name "What do you say?"
-    ch_Name ""
+    ch_Name "O que você diz?"
 
 # game/logic/events/audrey.rpy:2622
 translate brazilian Audrey_8_label_a1fc1305:
 
     # Audrey "Talking is not enough for me. "
-    Audrey ""
+    Audrey "Falar não é suficiente para mim."
 
 # game/logic/events/audrey.rpy:2624
 translate brazilian Audrey_8_label_63a2ac9b:
 
     # Audrey "Fuck off."
-    Audrey ""
+    Audrey "Foda-se."
 
 # game/logic/events/audrey.rpy:2625
 translate brazilian Audrey_8_label_7bc318f8:
 
     # ch_Name "Are you serious?"
-    ch_Name ""
+    ch_Name "Você está falando sério?"
 
 # game/logic/events/audrey.rpy:2626
 translate brazilian Audrey_8_label_a4a2b07b:
 
     # ch_Name "What is wrong with you today?"
-    ch_Name ""
+    ch_Name "O que há de errado com você hoje?"
 
 # game/logic/events/audrey.rpy:2628
 translate brazilian Audrey_8_label_16e5a4f2:
 
     # ch_Name "Okay, fine. I'm gonna go."
-    ch_Name ""
+    ch_Name "Ok, tudo bem. Eu vou."
 
 # game/logic/events/audrey.rpy:2629
 translate brazilian Audrey_8_label_5bcd9baa:
 
     # ch_Name "(I need to find out why she's being so cold to me.)"
-    ch_Name ""
+    ch_Name "(Preciso descobrir por que ela está sendo tão fria comigo.)"
 
 # game/logic/events/audrey.rpy:2630
 translate brazilian Audrey_8_label_e56c4f59:
 
     # ch_Name "(Something happened. That's for sure.)"
-    ch_Name ""
+    ch_Name "(Algo aconteceu. Com certeza.)"
 
 # game/logic/events/audrey.rpy:2642
 translate brazilian Audrey_9_label_111d13ed:
 
     # ch_Name "{i}(I woke up earlier than usual today...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Acordei mais cedo que o normal hoje...){/i}"
 
 # game/logic/events/audrey.rpy:2643
 translate brazilian Audrey_9_label_e41eed0f:
 
     # ch_Name "{i}(Where can I kill time before classes start?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Onde posso matar o tempo antes do início das aulas?){/i}"
 
 # game/logic/events/audrey.rpy:2645
 translate brazilian Audrey_9_label_5f0cfbac:
 
     # ch_Name "{i}(I can't stop thinking about that night with Audrey and Samantha.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não consigo parar de pensar naquela noite com Audrey e Samantha.){/i}"
 
 # game/logic/events/audrey.rpy:2646
 translate brazilian Audrey_9_label_e29a771d:
 
     # ch_Name "{i}(Maybe I should go see Audrey.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Talvez eu deva ir ver Audrey.){/i}"
 
 # game/logic/events/audrey.rpy:2647
 translate brazilian Audrey_9_label_e964984f:
 
     # ch_Name "{i}(Maybe I can finally talk to her.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Talvez eu possa finalmente falar com ela.){/i}"
 
 # game/logic/events/audrey.rpy:2648
 translate brazilian Audrey_9_label_dffb0f7a:
 
     # ch_Name "{i}(And set the record straight.){/i}"
-    ch_Name ""
+    ch_Name "{i}(E defina o registro.){/i}"
 
 # game/logic/events/audrey.rpy:2656
 translate brazilian Audrey_9_label_5d0520e4:
 
     # ch_Name "{i}(Just as I thought, Audrey's always in the kitchen in the morning.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Assim como eu pensava, Audrey está sempre na cozinha de manhã.){/i}"
 
 # game/logic/events/audrey.rpy:2657
 translate brazilian Audrey_9_label_3ac49e1b:
 
     # ch_Name "{i}(Well, finding her wasn't a problem. It's just a matter of talking.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bem, encontrá-la não foi um problema. É só uma questão de conversa.){/i}"
 
 # game/logic/events/audrey.rpy:2662
 translate brazilian Audrey_9_label_f6dfe85d:
 
     # ch_Name "Hey, beautiful!"
-    ch_Name ""
+    ch_Name "Hey, gatinha!"
 
 # game/logic/events/audrey.rpy:2663
 translate brazilian Audrey_9_label_8e4fd793:
 
     # Audrey "What?!"
-    Audrey ""
+    Audrey "Fala"
 
 # game/logic/events/audrey.rpy:2664
 translate brazilian Audrey_9_label_33611a83:
 
     # Audrey "Don't call me that!"
-    Audrey ""
+    Audrey "Não me chame assim!"
 
 # game/logic/events/audrey.rpy:2665
 translate brazilian Audrey_9_label_6585d5ab:
 
     # ch_Name "Don't you think that you're beautiful?"
-    ch_Name ""
+    ch_Name "Você não se acha uma gatinha?"
 
 # game/logic/events/audrey.rpy:2667
 translate brazilian Audrey_9_label_3612fcb2:
 
     # Audrey "I don't wanna hear it from your mouth."
-    Audrey ""
+    Audrey "Eu não quero ouvir isso da sua boca."
 
 # game/logic/events/audrey.rpy:2668
 translate brazilian Audrey_9_label_c4f16b4c:
 
     # Audrey "It sounds pathetic."
-    Audrey ""
+    Audrey "Parece patético."
 
 # game/logic/events/audrey.rpy:2669
 translate brazilian Audrey_9_label_6cfc8928:
 
     # ch_Name "Why are you always so rude?"
-    ch_Name ""
+    ch_Name "Por que você é sempre tão rude?"
 
 # game/logic/events/audrey.rpy:2670
 translate brazilian Audrey_9_label_16af06a1:
 
     # ch_Name "Seems like you enjoy it."
-    ch_Name ""
+    ch_Name "Parece que você gostou."
 
 # game/logic/events/audrey.rpy:2672
 translate brazilian Audrey_9_label_44ad5e3f:
 
     # Audrey "Do you have something to tell me?"
-    Audrey ""
+    Audrey "Você tem algo para me dizer?"
 
 # game/logic/events/audrey.rpy:2673
 translate brazilian Audrey_9_label_65b4bb82:
 
     # Audrey "Because if you want to have a heart-to-heart..."
-    Audrey ""
+    Audrey "Porque se você quer ter uma conversa franca..."
 
 # game/logic/events/audrey.rpy:2674
 translate brazilian Audrey_9_label_f7a53527:
 
     # Audrey "...then I'm not in the mood."
-    Audrey ""
+    Audrey "...então não estou com vontade."
 
 # game/logic/events/audrey.rpy:2675
 translate brazilian Audrey_9_label_2f9b893f:
 
     # ch_Name "I want to talk with you about our last conversation."
-    ch_Name ""
+    ch_Name "Quero falar com você sobre nossa última conversa."
 
 # game/logic/events/audrey.rpy:2693
 translate brazilian Audrey_9_label_L_26_3b3e65ef:
 
     # ch_Name "I have some thoughts about it."
-    ch_Name ""
+    ch_Name "Tenho alguns pensamentos sobre isso."
 
 # game/logic/events/audrey.rpy:2694
 translate brazilian Audrey_9_label_L_26_5f997e99:
 
     # Audrey "What are you waiting for then?"
-    Audrey ""
+    Audrey "O que você está esperando então?"
 
 # game/logic/events/audrey.rpy:2695
 translate brazilian Audrey_9_label_L_26_ab6a529b:
 
     # ch_Name "I think that this relationship can benefit both of us..."
-    ch_Name ""
+    ch_Name "Acho que esse relacionamento pode beneficiar nós dois..."
 
 # game/logic/events/audrey.rpy:2696
 translate brazilian Audrey_9_label_L_26_1b6f766e:
 
     # ch_Name "So I really don't want it to end."
-    ch_Name ""
+    ch_Name "Então, eu realmente não quero que isso acabe."
 
 # game/logic/events/audrey.rpy:2698
 translate brazilian Audrey_9_label_L_26_cb8e8b5c:
 
     # Audrey "You bet!"
-    Audrey ""
+    Audrey "Pode apostar!"
 
 # game/logic/events/audrey.rpy:2699
 translate brazilian Audrey_9_label_L_26_b510ad9f:
 
     # ch_Name "But..."
-    ch_Name ""
+    ch_Name "Mas..."
 
 # game/logic/events/audrey.rpy:2700
 translate brazilian Audrey_9_label_L_26_c74241e0:
 
     # Audrey "What buts can there be here?"
-    Audrey ""
+    Audrey "Que mas pode haver aqui?"
 
 # game/logic/events/audrey.rpy:2701
 translate brazilian Audrey_9_label_L_26_c90922d5:
 
     # ch_Name "We should find a way of saving my energy."
-    ch_Name ""
+    ch_Name "Devemos encontrar uma maneira de economizar minha energia."
 
 # game/logic/events/audrey.rpy:2702
 translate brazilian Audrey_9_label_L_26_9b9a7ab2:
 
     # ch_Name "We can't just take it."
-    ch_Name ""
+    ch_Name "Não podemos simplesmente aceitar."
 
 # game/logic/events/audrey.rpy:2704
 translate brazilian Audrey_9_label_L_26_e489f747:
 
     # ch_Name "You literally feed off my magical powers."
-    ch_Name ""
+    ch_Name "Você literalmente se alimenta dos meus poderes mágicos."
 
 # game/logic/events/audrey.rpy:2705
 translate brazilian Audrey_9_label_L_26_ced1d9fd:
 
     # ch_Name "And you still have no idea of what I'm capable of."
-    ch_Name ""
+    ch_Name "E você ainda não tem ideia do que eu sou capaz."
 
 # game/logic/events/audrey.rpy:2706
 translate brazilian Audrey_9_label_L_26_2c889833:
 
     # Audrey "Don't flatter yourself."
-    Audrey ""
+    Audrey "Não se gabe."
 
 # game/logic/events/audrey.rpy:2707
 translate brazilian Audrey_9_label_L_26_e9f363ac:
 
     # ch_Name "It's not about that!"
-    ch_Name ""
+    ch_Name "Não é sobre isso!"
 
 # game/logic/events/audrey.rpy:2709
 translate brazilian Audrey_9_label_L_26_21329df8:
 
     # Audrey "Just look at this poor thing!"
-    Audrey ""
+    Audrey "Olha só esse coitado!"
 
 # game/logic/events/audrey.rpy:2710
 translate brazilian Audrey_9_label_L_26_c44d79b3:
 
     # ch_Name "I think I've enough of your sarcasm."
-    ch_Name ""
+    ch_Name "Acho que já cansei do seu sarcasmo."
 
 # game/logic/events/audrey.rpy:2711
 translate brazilian Audrey_9_label_L_26_1303986e:
 
     # ch_Name "If you can't be constructive..."
-    ch_Name ""
+    ch_Name "Se você não pode ser construtiva..."
 
 # game/logic/events/audrey.rpy:2712
 translate brazilian Audrey_9_label_L_26_e3ae38dc:
 
     # ch_Name "...then I better go."
-    ch_Name ""
+    ch_Name "...então é melhor eu ir."
 
 # game/logic/events/audrey.rpy:2714
 translate brazilian Audrey_9_label_L_26_cadfb743:
 
     # Audrey "Don't go!"
-    Audrey ""
+    Audrey "Não vá!"
 
 # game/logic/events/audrey.rpy:2715
 translate brazilian Audrey_9_label_L_26_4c6a6b7e:
 
     # Audrey "I..."
-    Audrey ""
+    Audrey "Eu..."
 
 # game/logic/events/audrey.rpy:2716
 translate brazilian Audrey_9_label_L_26_a5010ba7:
 
     # Audrey "Sorry, [Name]."
-    Audrey ""
+    Audrey "Desculpe, [Name]."
 
 # game/logic/events/audrey.rpy:2717
 translate brazilian Audrey_9_label_L_26_4c6c79b5:
 
     # Audrey "I don't know what's come over me."
-    Audrey ""
+    Audrey "Eu não sei o que deu em mim."
 
 # game/logic/events/audrey.rpy:2719
 translate brazilian Audrey_9_label_L_26_f6f732fc:
 
     # Audrey "Do you already have some ideas?"
-    Audrey ""
+    Audrey "Você já tem algumas ideias?"
 
 # game/logic/events/audrey.rpy:2720
 translate brazilian Audrey_9_label_L_26_bd04a417:
 
     # Audrey "Maybe there are special potions or spells?"
-    Audrey ""
+    Audrey "Talvez haja poções ou feitiços especiais?"
 
 # game/logic/events/audrey.rpy:2721
 translate brazilian Audrey_9_label_L_26_55bb9fa7:
 
     # ch_Name "I'm sure there is a solution."
-    ch_Name ""
+    ch_Name "Tenho certeza de que existe uma solução."
 
 # game/logic/events/audrey.rpy:2722
 translate brazilian Audrey_9_label_L_26_200886cd:
 
     # ch_Name "We just need to think about it properly."
-    ch_Name ""
+    ch_Name "Nós só precisamos pensar sobre isso corretamente."
 
 # game/logic/events/audrey.rpy:2724
 translate brazilian Audrey_9_label_L_26_00f3a710:
 
     # ch_Name "I will try to find something in the library."
-    ch_Name ""
+    ch_Name "Vou tentar encontrar algo na biblioteca."
 
 # game/logic/events/audrey.rpy:2725
 translate brazilian Audrey_9_label_L_26_e00cb624:
 
     # ch_Name "I don't think that we are the first people on Earth to face such a problem."
-    ch_Name ""
+    ch_Name "Não acho que sejamos as primeiras pessoas na Terra a enfrentar esse problema."
 
 # game/logic/events/audrey.rpy:2726
 translate brazilian Audrey_9_label_L_26_ee177bab:
 
     # Audrey "Wait a moment!"
-    Audrey ""
+    Audrey "Espere um momento!"
 
 # game/logic/events/audrey.rpy:2727
 translate brazilian Audrey_9_label_L_26_b2f1d867:
 
     # Audrey "I'm sure that there is one book you can find something in!"
-    Audrey ""
+    Audrey "Tenho certeza de que há um livro em que você pode encontrar algo!"
 
 # game/logic/events/audrey.rpy:2729
 translate brazilian Audrey_9_label_L_26_60668b03:
 
     # ch_Name "What book?"
-    ch_Name ""
+    ch_Name "Que livro?"
 
 # game/logic/events/audrey.rpy:2730
 translate brazilian Audrey_9_label_L_26_42c23b65:
 
     # Audrey "I don't remember the actual title."
-    Audrey ""
+    Audrey "Não me lembro do título real."
 
 # game/logic/events/audrey.rpy:2731
 translate brazilian Audrey_9_label_L_26_1dd5dbcf:
 
     # Audrey "Something about succubi."
-    Audrey ""
+    Audrey "Algo sobre súcubos."
 
 # game/logic/events/audrey.rpy:2732
 translate brazilian Audrey_9_label_L_26_886658f4:
 
     # Audrey "When I was interested to know more about myself I found it really useful."
-    Audrey ""
+    Audrey "Quando eu estava interessada em saber mais sobre mim, achei muito útil."
 
 # game/logic/events/audrey.rpy:2733
 translate brazilian Audrey_9_label_L_26_1173fa0b:
 
     # Audrey "There is one problem: I don't think that freshmen are allowed to read such literature."
-    Audrey ""
+    Audrey "Há um problema: não acho que os novatos possam ler essa literatura."
 
 # game/logic/events/audrey.rpy:2734
 translate brazilian Audrey_9_label_L_26_11d20c3b:
 
     # Audrey "So you should make a bit of effort."
-    Audrey ""
+    Audrey "Então você deve fazer um pouco de esforço."
 
 # game/logic/events/audrey.rpy:2736
 translate brazilian Audrey_9_label_L_26_192053f4:
 
     # Audrey "Maybe you can cajole Amelie..."
-    Audrey ""
+    Audrey "Talvez você possa persuadir Amelie..."
 
 # game/logic/events/audrey.rpy:2737
 translate brazilian Audrey_9_label_L_26_b48fffde:
 
     # Audrey "That's your business."
-    Audrey ""
+    Audrey "Isso é problema seu."
 
 # game/logic/events/audrey.rpy:2738
 translate brazilian Audrey_9_label_L_26_376433d0:
 
     # ch_Name "Maybe you can get the book?"
-    ch_Name ""
+    ch_Name "Talvez você consiga o livro?"
 
 # game/logic/events/audrey.rpy:2739
 translate brazilian Audrey_9_label_L_26_02eda199:
 
     # Audrey "I don't have time for it."
-    Audrey ""
+    Audrey "Não tenho tempo para isso."
 
 # game/logic/events/audrey.rpy:2741
 translate brazilian Audrey_9_label_L_26_8a342795:
 
     # Audrey "And actually you need this more, not me."
-    Audrey ""
+    Audrey "E na verdade você precisa mais disso, não de mim."
 
 # game/logic/events/audrey.rpy:2742
 translate brazilian Audrey_9_label_L_26_27ffd86c:
 
     # ch_Name "{i}(Well-well.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bem-bem.){/i}"
 
 # game/logic/events/audrey.rpy:2743
 translate brazilian Audrey_9_label_L_26_4a3c3f6a:
 
     # ch_Name "{i}(I should never rely on you, Audrey.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu nunca deveria confiar em você, Audrey.){/i}"
 
 # game/logic/events/audrey.rpy:2744
 translate brazilian Audrey_9_label_L_26_26cb6371:
 
     # ch_Name "I wouldn't need to depend on you."
-    ch_Name ""
+    ch_Name "Eu não precisaria depender de você."
 
 # game/logic/events/audrey.rpy:2746
 translate brazilian Audrey_9_label_L_26_d79a83a2:
 
     # ch_Name "So don't worry, I will handle it somehow."
-    ch_Name ""
+    ch_Name "Então não se preocupe, eu vou lidar com isso de alguma forma."
 
 # game/logic/events/audrey.rpy:2747
 translate brazilian Audrey_9_label_L_26_445df814:
 
     # Audrey "Just let me know when you find something."
-    Audrey ""
+    Audrey "Apenas me avise quando encontrar algo."
 
 # game/logic/events/audrey.rpy:2748
 translate brazilian Audrey_9_label_L_26_b1708dd8:
@@ -9172,319 +9172,319 @@ translate brazilian Audrey_9_label_L_26_b1708dd8:
 translate brazilian Audrey_9_label_L_26_1fe735ac:
 
     # Audrey "Then if we have nothing to discuss..."
-    Audrey ""
+    Audrey "Então, se não temos nada para discutir..."
 
 # game/logic/events/audrey.rpy:2751
 translate brazilian Audrey_9_label_L_26_9311f38b:
 
     # Audrey "I'd better go."
-    Audrey ""
+    Audrey "É melhor eu ir."
 
 # game/logic/events/audrey.rpy:2752
 translate brazilian Audrey_9_label_L_26_d993430b:
 
     # ch_Name "See ya!"
-    ch_Name ""
+    ch_Name "Até logo!"
 
 # game/logic/events/audrey.rpy:2753
 translate brazilian Audrey_9_label_L_26_a3549afd:
 
     # Audrey "Have a nice day!"
-    Audrey ""
+    Audrey "Tenha um bom dia!"
 
 # game/logic/events/audrey.rpy:2757
 translate brazilian Audrey_9_label_L_77_55e8d931:
 
     # Audrey "Which one?"
-    Audrey ""
+    Audrey "Qual?"
 
 # game/logic/events/audrey.rpy:2758
 translate brazilian Audrey_9_label_L_77_94607ee3:
 
     # ch_Name "When you and Sam left to your room."
-    ch_Name ""
+    ch_Name "Quando você e Sam foram para o seu quarto."
 
 # game/logic/events/audrey.rpy:2759
 translate brazilian Audrey_9_label_L_77_a8020bbf:
 
     # ch_Name "I had a feeling you girls where up to something."
-    ch_Name ""
+    ch_Name "Tive a sensação de que vocês estavam tramando alguma coisa."
 
 # game/logic/events/audrey.rpy:2760
 translate brazilian Audrey_9_label_L_77_25fb8413:
 
     # ch_Name "It feels like I should've joined. But I ignored it."
-    ch_Name ""
+    ch_Name "Parece que eu deveria ter entrado. Mas ignorei."
 
 # game/logic/events/audrey.rpy:2762
 translate brazilian Audrey_9_label_L_77_9b402ff9:
 
     # ch_Name "I don't know what was wrong with me."
-    ch_Name ""
+    ch_Name "Eu não sei o que havia de errado comigo."
 
 # game/logic/events/audrey.rpy:2763
 translate brazilian Audrey_9_label_L_77_08ab7a1a:
 
     # ch_Name "But maybe you can help me with that lost piece of puzzle?"
-    ch_Name ""
+    ch_Name "Mas talvez você possa me ajudar com aquela peça perdida do quebra-cabeça?"
 
 # game/logic/events/audrey.rpy:2764
 translate brazilian Audrey_9_label_L_77_40a29368:
 
     # Audrey "Lost piece of puzzle?"
-    Audrey ""
+    Audrey "Perdeu uma peça do quebra-cabeça?"
 
 # game/logic/events/audrey.rpy:2765
 translate brazilian Audrey_9_label_L_77_e5ed4a93:
 
     # Audrey "Do you think you can fool around with me, like it's a game?"
-    Audrey ""
+    Audrey "Você acha que pode brincar comigo, como se fosse um jogo?"
 
 # game/logic/events/audrey.rpy:2766
 translate brazilian Audrey_9_label_L_77_0b493631:
 
     # ch_Name "I just..."
-    ch_Name ""
+    ch_Name "Eu apenas..."
 
 # game/logic/events/audrey.rpy:2768
 translate brazilian Audrey_9_label_L_77_8b7cf8ae:
 
     # Audrey "You just missed your golden ticket that day."
-    Audrey ""
+    Audrey "Você acabou de perder seu bilhete dourado naquele dia."
 
 # game/logic/events/audrey.rpy:2769
 translate brazilian Audrey_9_label_L_77_8b35cea4:
 
     # Audrey "Do you really think you can win the lottery twice?"
-    Audrey ""
+    Audrey "Você realmente acha que pode ganhar na loteria duas vezes?"
 
 # game/logic/events/audrey.rpy:2770
 translate brazilian Audrey_9_label_L_77_5a073471:
 
     # ch_Name "I'm still not sure what I've missed."
-    ch_Name ""
+    ch_Name "Ainda não tenho certeza do que perdi."
 
 # game/logic/events/audrey.rpy:2771
 translate brazilian Audrey_9_label_L_77_8219ac79:
 
     # ch_Name "But I'm sure you can show me."
-    ch_Name ""
+    ch_Name "Mas tenho certeza que você pode me mostrar."
 
 # game/logic/events/audrey.rpy:2773
 translate brazilian Audrey_9_label_L_77_fd8cf794:
 
     # ch_Name "I won't disappoint you."
-    ch_Name ""
+    ch_Name "Não vou decepcioná-la."
 
 # game/logic/events/audrey.rpy:2774
 translate brazilian Audrey_9_label_L_77_2700cb78:
 
     # ch_Name "You know you want it."
-    ch_Name ""
+    ch_Name "Você sabe que quer."
 
 # game/logic/events/audrey.rpy:2775
 translate brazilian Audrey_9_label_L_77_f2285ce6:
 
     # ch_Name "I know I want it. "
-    ch_Name ""
+    ch_Name "Eu sei que quero."
 
 # game/logic/events/audrey.rpy:2776
 translate brazilian Audrey_9_label_L_77_a9fa5c5b:
 
     # Audrey "Enough chitchat!"
-    Audrey ""
+    Audrey "Chega de conversa fiada!"
 
 # game/logic/events/audrey.rpy:2778
 translate brazilian Audrey_9_label_L_77_f99f186d:
 
     # Audrey "If you are so sure..."
-    Audrey ""
+    Audrey "Se você tem tanta certeza..."
 
 # game/logic/events/audrey.rpy:2779
 translate brazilian Audrey_9_label_L_77_ac30b59c:
 
     # Audrey "...then prove it not by words, but by actions."
-    Audrey ""
+    Audrey "...então prove não com palavras, mas com ações."
 
 # game/logic/events/audrey.rpy:2780
 translate brazilian Audrey_9_label_L_77_c65bd153:
 
     # ch_Name "Let's go to your bedroom."
-    ch_Name ""
+    ch_Name "Vamos para o seu quarto."
 
 # game/logic/events/audrey.rpy:2782
 translate brazilian Audrey_9_label_L_77_b4c45eff:
 
     # ch_Name "And there I will have a great opportunity to demonstrate my good intentions."
-    ch_Name ""
+    ch_Name "E lá terei uma grande oportunidade de demonstrar minhas boas intenções."
 
 # game/logic/events/audrey.rpy:2783
 translate brazilian Audrey_9_label_L_77_654c5dd1:
 
     # ch_Name "{i}(Oh, Audrey, it's so obvious that you want it even more than I do.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ah, Audrey, é tão óbvio que você quer ainda mais do que eu.){/i}"
 
 # game/logic/events/audrey.rpy:2784
 translate brazilian Audrey_9_label_L_77_d03e2d63:
 
     # ch_Name "{i}(I see how even now you're shaking with excitement.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vejo como até agora você está tremendo de emoção.){/i}"
 
 # game/logic/events/audrey.rpy:2786
 translate brazilian Audrey_9_label_L_77_7b922284:
 
     # Audrey "I will wait for you there then."
-    Audrey ""
+    Audrey "Eu vou esperar por você lá então."
 
 # game/logic/events/audrey.rpy:2787
 translate brazilian Audrey_9_label_L_77_381e6e50:
 
     # Audrey "I hope you don't chicken out again."
-    Audrey ""
+    Audrey "Espero que você não se acovarde novamente."
 
 # game/logic/events/audrey.rpy:2795
 translate brazilian Audrey_9_label_L_77_a2893dde:
 
     # ch_Name "{i}(Although, all this still seems to be really strange.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Embora tudo isso ainda pareça muito estranho.){/i}"
 
 # game/logic/events/audrey.rpy:2796
 translate brazilian Audrey_9_label_L_77_d896775f:
 
     # ch_Name "{i}(There's something wrong with Audrey acting like that.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Há algo errado com Audrey agindo assim.){/i}"
 
 # game/logic/events/audrey.rpy:2797
 translate brazilian Audrey_9_label_L_77_1a3fd0ae:
 
     # ch_Name "{i}(I feel it in my gut.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sinto no meu estômago.){/i}"
 
 # game/logic/events/audrey.rpy:2798
 translate brazilian Audrey_9_label_L_77_fc43ed26:
 
     # ch_Name "{i}(Maybe it's better not to go?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Talvez seja melhor não ir?){/i}"
 
 # game/logic/events/audrey.rpy:2799
 translate brazilian Audrey_9_label_L_77_a515916f:
 
     # ch_Name "{i}(I will lose just nothing.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não vou perder nada.){/i}"
 
 # game/logic/events/audrey.rpy:2800
 translate brazilian Audrey_9_label_L_77_a5af9180:
 
     # ch_Name "{i}(Yep, let's keep it in this way, at least for now.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sim, vamos manter assim, pelo menos por enquanto.){/i}"
 
 # game/logic/events/audrey.rpy:2807
 translate brazilian Audrey_9_label_L_77_b7ba6309:
 
     # ch_Name "Knock, knock. Can I come in?"
-    ch_Name ""
+    ch_Name "Toc, toc. Posso entrar?"
 
 # game/logic/events/audrey.rpy:2808
 translate brazilian Audrey_9_label_L_77_0247b421:
 
     # Audrey "Come in... Come in, of course!"
-    Audrey ""
+    Audrey "Entre... Entre, é claro!"
 
 # game/logic/events/audrey.rpy:2817
 translate brazilian Audrey_9_label_L_77_c41f1ae4:
 
     # ch_Name "{i}(Whoa, wow!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Uau, uau!){/i}"
 
 # game/logic/events/audrey.rpy:2818
 translate brazilian Audrey_9_label_L_77_ea3fcabf:
 
     # ch_Name "{i}(She's already in her underwear?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela já está de calcinha?){/i}"
 
 # game/logic/events/audrey.rpy:2819
 translate brazilian Audrey_9_label_L_77_6fa75db8:
 
     # ch_Name "{i}(This lingerie is really sexy!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Esta lingerie é muito sexy!){/i}"
 
 # game/logic/events/audrey.rpy:2820
 translate brazilian Audrey_9_label_L_77_ea9d604c:
 
     # ch_Name "{i}(I like her taste in clothes!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu curto o gosto dela para roupas!){/i}"
 
 # game/logic/events/audrey.rpy:2822
 translate brazilian Audrey_9_label_L_77_322aecd9:
 
     # Audrey "Come here, honey!"
-    Audrey ""
+    Audrey "Venha aqui, querida!"
 
 # game/logic/events/audrey.rpy:2823
 translate brazilian Audrey_9_label_L_77_74ebce9c:
 
     # ch_Name "Sure."
-    ch_Name ""
+    ch_Name "Claro."
 
 # game/logic/events/audrey.rpy:2830
 translate brazilian Audrey_9_label_L_77_c41f1ae4_1:
 
     # ch_Name "{i}(Whoa, wow!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Uau, uau!){/i}"
 
 # game/logic/events/audrey.rpy:2831
 translate brazilian Audrey_9_label_L_77_ea3fcabf_1:
 
     # ch_Name "{i}(She's already in her underwear?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela já está de calcinha?){/i}"
 
 # game/logic/events/audrey.rpy:2832
 translate brazilian Audrey_9_label_L_77_6fa75db8_1:
 
     # ch_Name "{i}(This lingerie is really sexy!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Esta lingerie é muito sexy!){/i}"
 
 # game/logic/events/audrey.rpy:2833
 translate brazilian Audrey_9_label_L_77_ea9d604c_1:
 
     # ch_Name "{i}(I like her taste in clothes!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu curto o gosto dela para roupas!){/i}"
 
 # game/logic/events/audrey.rpy:2835
 translate brazilian Audrey_9_label_L_77_322aecd9_1:
 
     # Audrey "Come here, honey!"
-    Audrey ""
+    Audrey "Venha aqui, querida!"
 
 # game/logic/events/audrey.rpy:2836
 translate brazilian Audrey_9_label_L_77_74ebce9c_1:
 
     # ch_Name "Sure."
-    ch_Name ""
+    ch_Name "Claro."
 
 # game/logic/events/audrey.rpy:2839
 translate brazilian Audrey_9_label_L_77_43d8fe57:
 
     # Audrey "[Name], you know... You look so appetizing in this light."
-    Audrey ""
+    Audrey "[Name], você sabe... Você parece tão apetitosa sob essa luz."
 
 # game/logic/events/audrey.rpy:2840
 translate brazilian Audrey_9_label_L_77_88bfc039:
 
     # ch_Name "Do you really think so?"
-    ch_Name ""
+    ch_Name "Você realmente acha isso?"
 
 # game/logic/events/audrey.rpy:2841
 translate brazilian Audrey_9_label_L_77_1015ca8d:
 
     # Audrey "Yes..."
-    Audrey ""
+    Audrey "Sim..."
 
 # game/logic/events/audrey.rpy:2842
 translate brazilian Audrey_9_label_L_77_b1447061:
 
     # Audrey "I'd love to touch your body..."
-    Audrey ""
+    Audrey "Eu adoraria tocar seu corpo..."
 
 # game/logic/events/audrey.rpy:2844
 translate brazilian Audrey_9_label_L_77_8982e1c4:
@@ -9502,7 +9502,7 @@ translate brazilian Audrey_9_label_L_77_bd79f293:
 translate brazilian Audrey_9_label_L_77_2092222c:
 
     # Audrey "I've only just started."
-    Audrey ""
+    Audrey "Acabei de começar."
 
 # game/logic/events/audrey.rpy:2849
 translate brazilian Audrey_9_label_L_77_7d7c4a3c:
@@ -9514,127 +9514,127 @@ translate brazilian Audrey_9_label_L_77_7d7c4a3c:
 translate brazilian Audrey_9_label_L_77_0ece8f1b:
 
     # ch_Name "What are you..."
-    ch_Name ""
+    ch_Name "O que você está..."
 
 # game/logic/events/audrey.rpy:2852
 translate brazilian Audrey_9_label_L_77_a39f4d65:
 
     # ch_Name "...doing to me?"
-    ch_Name ""
+    ch_Name "...fazendo comigo?"
 
 # game/logic/events/audrey.rpy:2853
 translate brazilian Audrey_9_label_L_77_bc5a8923:
 
     # Audrey "I have the very same question for you."
-    Audrey ""
+    Audrey "Eu tenho a mesma pergunta para você."
 
 # game/logic/events/audrey.rpy:2854
 translate brazilian Audrey_9_label_L_77_9bc5f4e0:
 
     # Audrey "I just want you."
-    Audrey ""
+    Audrey "Eu só quero você."
 
 # game/logic/events/audrey.rpy:2855
 translate brazilian Audrey_9_label_L_77_dfb65ccf:
 
     # ch_Name "{i}(Whoa!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Uau!){/i}"
 
 # game/logic/events/audrey.rpy:2856
 translate brazilian Audrey_9_label_L_77_9d78ada4:
 
     # ch_Name "What exactly do you want?"
-    ch_Name ""
+    ch_Name "O que exatamente você quer?"
 
 # game/logic/events/audrey.rpy:2858
 translate brazilian Audrey_9_label_L_77_4bfefdb1:
 
     # Audrey "Want to feel you inside me with every fiber of my being."
-    Audrey ""
+    Audrey "Quero sentir você dentro de mim com cada fibra do meu ser."
 
 # game/logic/events/audrey.rpy:2859
 translate brazilian Audrey_9_label_L_77_077e8ddd:
 
     # Audrey "And I also see how badly you want to fuck me."
-    Audrey ""
+    Audrey "E também vejo o quanto você quer me foder."
 
 # game/logic/events/audrey.rpy:2860
 translate brazilian Audrey_9_label_L_77_4230aef9:
 
     # ch_Name "{i}(Just look at this smart girl!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Olhe para essa garota esperta!){/i}"
 
 # game/logic/events/audrey.rpy:2861
 translate brazilian Audrey_9_label_L_77_9dbbaafd:
 
     # Audrey "Am I right?"
-    Audrey ""
+    Audrey "Estou certo?"
 
 # game/logic/events/audrey.rpy:2862
 translate brazilian Audrey_9_label_L_77_b7fece4c:
 
     # ch_Name "I..."
-    ch_Name ""
+    ch_Name "Eu..."
 
 # game/logic/events/audrey.rpy:2864
 translate brazilian Audrey_9_label_L_77_c1134697:
 
     # Audrey "You don't have to answer."
-    Audrey ""
+    Audrey "Você não precisa responder."
 
 # game/logic/events/audrey.rpy:2865
 translate brazilian Audrey_9_label_L_77_d7dae746:
 
     # Audrey "I can see everything in your sultry eyes."
-    Audrey ""
+    Audrey "Eu posso ver tudo em seus olhos sensuais."
 
 # game/logic/events/audrey.rpy:2866
 translate brazilian Audrey_9_label_L_77_788e0217:
 
     # ch_Name "That's just amazing! "
-    ch_Name ""
+    ch_Name "Isso é simplesmente incrível!"
 
 # game/logic/events/audrey.rpy:2868
 translate brazilian Audrey_9_label_L_77_0b493631_1:
 
     # ch_Name "I just..."
-    ch_Name ""
+    ch_Name "Eu apenas..."
 
 # game/logic/events/audrey.rpy:2869
 translate brazilian Audrey_9_label_L_77_9aa71376:
 
     # ch_Name "I have no words..."
-    ch_Name ""
+    ch_Name "Não tenho palavras..."
 
 # game/logic/events/audrey.rpy:2871
 translate brazilian Audrey_9_label_L_77_d71abb87:
 
     # ch_Name "{i}(I do have a few, but I don't know how to say them...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tenho alguns, mas não sei como dizê-los...){/i}"
 
 # game/logic/events/audrey.rpy:2872
 translate brazilian Audrey_9_label_L_77_f08ae7ff:
 
     # ch_Name "{i}(THOSE TITS ARE SO FUCKING JUICY!){/i}"
-    ch_Name ""
+    ch_Name "{i}(ESSES PEITOS SÃO TÃO SUCULENTOS!){/i}"
 
 # game/logic/events/audrey.rpy:2874
 translate brazilian Audrey_9_label_L_77_2a5fb0b7:
 
     # Audrey "Pick your jaw up off the floor, boy."
-    Audrey ""
+    Audrey "Pegue seu queixo do chão, garoto."
 
 # game/logic/events/audrey.rpy:2876
 translate brazilian Audrey_9_label_L_77_7dc084d7:
 
     # Audrey "Watch and enjoy."
-    Audrey ""
+    Audrey "Assista e divirta-se."
 
 # game/logic/events/audrey.rpy:2877
 translate brazilian Audrey_9_label_L_77_3cc55ae9:
 
     # ch_Name "{i}(There. That. Yeah.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Aqui. Isso. Sim.){/i}"
 
 # game/logic/events/audrey.rpy:2879
 translate brazilian Audrey_9_label_L_77_73f15e61:
@@ -9652,91 +9652,91 @@ translate brazilian Audrey_9_label_L_77_a734a048:
 translate brazilian Audrey_9_label_L_77_e24d48bc:
 
     # ch_Name "{i}(I could watch this forever!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu poderia ficar vendo isso para sempre!){/i}"
 
 # game/logic/events/audrey.rpy:2883
 translate brazilian Audrey_9_label_L_77_fb63fe71:
 
     # Audrey "It's a normal reaction."
-    Audrey ""
+    Audrey "É uma reação normal."
 
 # game/logic/events/audrey.rpy:2884
 translate brazilian Audrey_9_label_L_77_141180f2:
 
     # Audrey "Few people can take their eyes off them."
-    Audrey ""
+    Audrey "Poucas pessoas conseguem tirar os olhos deles."
 
 # game/logic/events/audrey.rpy:2885
 translate brazilian Audrey_9_label_L_77_567aca63:
 
     # Audrey "You men are so predictable."
-    Audrey ""
+    Audrey "Vocês homens são tão previsíveis."
 
 # game/logic/events/audrey.rpy:2887
 translate brazilian Audrey_9_label_L_77_c112ca94:
 
     # Audrey "Too predictable!"
-    Audrey ""
+    Audrey "Muito previsível!"
 
 # game/logic/events/audrey.rpy:2888
 translate brazilian Audrey_9_label_L_77_3d3d9240:
 
     # Audrey "But don't think I'm using you."
-    Audrey ""
+    Audrey "Mas não pense que estou usando você."
 
 # game/logic/events/audrey.rpy:2890
 translate brazilian Audrey_9_label_L_77_5c18c493:
 
     # Audrey "My body craves a man's caress. "
-    Audrey ""
+    Audrey "Meu corpo anseia pela carícia de um homem."
 
 # game/logic/events/audrey.rpy:2891
 translate brazilian Audrey_9_label_L_77_2bbec341:
 
     # Audrey "Not just my breasts, but everything below is yours!"
-    Audrey ""
+    Audrey "Não apenas meus seios, mas tudo abaixo é seu!"
 
 # game/logic/events/audrey.rpy:2893
 translate brazilian Audrey_9_label_L_77_9687281b:
 
     # ch_Name "Let's start with those beauties."
-    ch_Name ""
+    ch_Name "Vamos começar com essas belezas."
 
 # game/logic/events/audrey.rpy:2894
 translate brazilian Audrey_9_label_L_77_bedf9d5b:
 
     # Audrey "If that's what you want..."
-    Audrey ""
+    Audrey "Se é isso que você quer..."
 
 # game/logic/events/audrey.rpy:2895
 translate brazilian Audrey_9_label_L_77_d78ea350:
 
     # ch_Name "And then we'll think about everything else."
-    ch_Name ""
+    ch_Name "E então vamos pensar em todo o resto."
 
 # game/logic/events/audrey.rpy:2897
 translate brazilian Audrey_9_label_L_77_9d07a9c2:
 
     # Audrey "Oh my gosh..."
-    Audrey ""
+    Audrey "Oh meu Deus..."
 
 # game/logic/events/audrey.rpy:2898
 translate brazilian Audrey_9_label_L_77_0de84302:
 
     # Audrey "Please, fuck me!"
-    Audrey ""
+    Audrey "Por favor, me fode!"
 
 # game/logic/events/audrey.rpy:2902
 translate brazilian Audrey_9_label_L_77_3e1d98bf:
 
     # ch_Name "I want it as much as you do."
-    ch_Name ""
+    ch_Name "Eu quero tanto quanto você."
 
 # game/logic/events/audrey.rpy:2904
 translate brazilian Audrey_9_label_L_77_d6cfa68b:
 
     # Audrey "I'm not wrong about you, [Name]."
-    Audrey ""
+    Audrey "Eu não estou errada sobre você, [Name]."
 
 # game/logic/events/audrey.rpy:2905
 translate brazilian Audrey_9_label_L_77_2503f4fe:
@@ -9748,49 +9748,49 @@ translate brazilian Audrey_9_label_L_77_2503f4fe:
 translate brazilian Audrey_9_label_L_77_188c5931:
 
     # ch_Name "{i}(What a cute view...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que visão...){/i}"
 
 # game/logic/events/audrey.rpy:2908
 translate brazilian Audrey_9_label_L_77_1ab6616d:
 
     # Audrey "Do you realize how lucky you are?"
-    Audrey ""
+    Audrey "Você percebe o quão sortudo você é?"
 
 # game/logic/events/audrey.rpy:2910
 translate brazilian Audrey_9_label_L_77_185539e3:
 
     # ch_Name "How?"
-    ch_Name ""
+    ch_Name "Como?"
 
 # game/logic/events/audrey.rpy:2911
 translate brazilian Audrey_9_label_L_77_19ffe066:
 
     # Audrey "Someone like you to get me..."
-    Audrey ""
+    Audrey "Alguém como você para me pegar..."
 
 # game/logic/events/audrey.rpy:2913
 translate brazilian Audrey_9_label_L_77_f8a399ff:
 
     # Audrey "Think of it as winning the lottery."
-    Audrey ""
+    Audrey "Pense nisso como ganhar na loteria."
 
 # game/logic/events/audrey.rpy:2914
 translate brazilian Audrey_9_label_L_77_4170760f:
 
     # Audrey "Like..."
-    Audrey ""
+    Audrey "Gostei..."
 
 # game/logic/events/audrey.rpy:2915
 translate brazilian Audrey_9_label_L_77_db9344c9:
 
     # Audrey "Do you like your prize?"
-    Audrey ""
+    Audrey "Você gostou do seu prêmio?"
 
 # game/logic/events/audrey.rpy:2917
 translate brazilian Audrey_9_label_L_77_1bd915fd:
 
     # Audrey "Although I can see that you do."
-    Audrey ""
+    Audrey "Embora eu possa ver que você faz."
 
 # game/logic/events/audrey.rpy:2919
 translate brazilian Audrey_9_label_L_77_a734a048_1:
@@ -9802,55 +9802,55 @@ translate brazilian Audrey_9_label_L_77_a734a048_1:
 translate brazilian Audrey_9_label_L_77_b64e3a96:
 
     # ch_Name "I can't take my eyes off you. Of course, you do..."
-    ch_Name ""
+    ch_Name "Não consigo tirar os olhos de você..."
 
 # game/logic/events/audrey.rpy:2922
 translate brazilian Audrey_9_label_L_77_f8b1589a:
 
     # ch_Name "I don't know why, but I'm getting pretty tired."
-    ch_Name ""
+    ch_Name "Não sei porque, mas estou ficando muito cansado."
 
 # game/logic/events/audrey.rpy:2923
 translate brazilian Audrey_9_label_L_77_4e54cd43:
 
     # ch_Name "And I feel like the room's a little blurry in front of my eyes."
-    ch_Name ""
+    ch_Name "E eu sinto que a sala está um pouco embaçada na frente dos meus olhos."
 
 # game/logic/events/audrey.rpy:2924
 translate brazilian Audrey_9_label_L_77_2858ef0c:
 
     # Audrey "Relax, it'll pass."
-    Audrey ""
+    Audrey "Relaxa, vai passar."
 
 # game/logic/events/audrey.rpy:2926
 translate brazilian Audrey_9_label_L_77_ecc5ccf0:
 
     # Audrey "It's just a little stuffy in here."
-    Audrey ""
+    Audrey "Está um pouco abafado aqui."
 
 # game/logic/events/audrey.rpy:2927
 translate brazilian Audrey_9_label_L_77_0f7c4027:
 
     # Audrey "Hurry up and take your shirt off so you feel better."
-    Audrey ""
+    Audrey "Vamos tire sua camisa para se sentir melhor."
 
 # game/logic/events/audrey.rpy:2928
 translate brazilian Audrey_9_label_L_77_602b4416:
 
     # Audrey "And let's get down to business!"
-    Audrey ""
+    Audrey "E vamos ao que interessa!"
 
 # game/logic/events/audrey.rpy:2934
 translate brazilian Audrey_9_label_L_77_3e1d98bf_1:
 
     # ch_Name "I want it as much as you do."
-    ch_Name ""
+    ch_Name "Eu quero tanto quanto você."
 
 # game/logic/events/audrey.rpy:2935
 translate brazilian Audrey_9_label_L_77_d6cfa68b_1:
 
     # Audrey "I'm not wrong about you, [Name]."
-    Audrey ""
+    Audrey "Eu não estou errada sobre você, [Name]."
 
 # game/logic/events/audrey.rpy:2936
 translate brazilian Audrey_9_label_L_77_2503f4fe_1:
@@ -9862,49 +9862,49 @@ translate brazilian Audrey_9_label_L_77_2503f4fe_1:
 translate brazilian Audrey_9_label_L_77_02e61f7a:
 
     # ch_Name "{i}(What a cute view...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que visão...){/i}"
 
 # game/logic/events/audrey.rpy:2939
 translate brazilian Audrey_9_label_L_77_1ab6616d_1:
 
     # Audrey "Do you realize how lucky you are?"
-    Audrey ""
+    Audrey "Você percebe o quão sortudo você é?"
 
 # game/logic/events/audrey.rpy:2941
 translate brazilian Audrey_9_label_L_77_185539e3_1:
 
     # ch_Name "How?"
-    ch_Name ""
+    ch_Name "Como?"
 
 # game/logic/events/audrey.rpy:2942
 translate brazilian Audrey_9_label_L_77_19ffe066_1:
 
     # Audrey "Someone like you to get me..."
-    Audrey ""
+    Audrey "Alguém como você para me pegar..."
 
 # game/logic/events/audrey.rpy:2944
 translate brazilian Audrey_9_label_L_77_f8a399ff_1:
 
     # Audrey "Think of it as winning the lottery."
-    Audrey ""
+    Audrey "Pense nisso como ganhar na loteria."
 
 # game/logic/events/audrey.rpy:2945
 translate brazilian Audrey_9_label_L_77_4170760f_1:
 
     # Audrey "Like..."
-    Audrey ""
+    Audrey "Gostei..."
 
 # game/logic/events/audrey.rpy:2946
 translate brazilian Audrey_9_label_L_77_db9344c9_1:
 
     # Audrey "Do you like your prize?"
-    Audrey ""
+    Audrey "Você gostou do seu prêmio?"
 
 # game/logic/events/audrey.rpy:2948
 translate brazilian Audrey_9_label_L_77_9f3e6d4a:
 
     # Audrey "Although I can see that I do."
-    Audrey ""
+    Audrey "Embora eu possa ver que eu faço."
 
 # game/logic/events/audrey.rpy:2950
 translate brazilian Audrey_9_label_L_77_a734a048_2:
@@ -9916,91 +9916,91 @@ translate brazilian Audrey_9_label_L_77_a734a048_2:
 translate brazilian Audrey_9_label_L_77_9802e321:
 
     # ch_Name "I can't take my eyes off you. Of course you do..."
-    ch_Name ""
+    ch_Name "Não consigo tirar os olhos de você..."
 
 # game/logic/events/audrey.rpy:2953
 translate brazilian Audrey_9_label_L_77_f8b1589a_1:
 
     # ch_Name "I don't know why, but I'm getting pretty tired."
-    ch_Name ""
+    ch_Name "Não sei porque, mas estou ficando muito cansado."
 
 # game/logic/events/audrey.rpy:2954
 translate brazilian Audrey_9_label_L_77_4e54cd43_1:
 
     # ch_Name "And I feel like the room's a little blurry in front of my eyes."
-    ch_Name ""
+    ch_Name "E eu sinto que a sala está um pouco embaçada na frente dos meus olhos."
 
 # game/logic/events/audrey.rpy:2955
 translate brazilian Audrey_9_label_L_77_2858ef0c_1:
 
     # Audrey "Relax, it'll pass."
-    Audrey ""
+    Audrey "Relaxa, vai passar."
 
 # game/logic/events/audrey.rpy:2957
 translate brazilian Audrey_9_label_L_77_ecc5ccf0_1:
 
     # Audrey "It's just a little stuffy in here."
-    Audrey ""
+    Audrey "Está um pouco abafado aqui."
 
 # game/logic/events/audrey.rpy:2958
 translate brazilian Audrey_9_label_L_77_0f7c4027_1:
 
     # Audrey "Hurry up and take your shirt off so you feel better."
-    Audrey ""
+    Audrey "Vamos tire sua camisa para se sentir melhor."
 
 # game/logic/events/audrey.rpy:2959
 translate brazilian Audrey_9_label_L_77_602b4416_1:
 
     # Audrey "And let's get down to business!"
-    Audrey ""
+    Audrey "E vamos ao que interessa!"
 
 # game/logic/events/audrey.rpy:2974
 translate brazilian Audrey_9_label_L_184_7db41b82:
 
     # Audrey "Come here, handsome."
-    Audrey ""
+    Audrey "Venha aqui, bonitão."
 
 # game/logic/events/audrey.rpy:2975
 translate brazilian Audrey_9_label_L_184_859b023a:
 
     # Audrey "I miss the warmth of your arms..."
-    Audrey ""
+    Audrey "Sinto falta do calor dos seus braços..."
 
 # game/logic/events/audrey.rpy:2976
 translate brazilian Audrey_9_label_L_184_531bb326:
 
     # ch_Name "{i}(What a strange thing she's doing...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que coisa estranha ela está fazendo...){/i}"
 
 # game/logic/events/audrey.rpy:2978
 translate brazilian Audrey_9_label_L_184_4a68296c:
 
     # ch_Name "{i}(It's like she's instinctively trying her best to lure me into bed.){/i}"
-    ch_Name ""
+    ch_Name "{i}(É como se ela estivesse instintivamente tentando o seu melhor para me atrair para a cama.){/i}"
 
 # game/logic/events/audrey.rpy:2979
 translate brazilian Audrey_9_label_L_184_f5666163:
 
     # ch_Name "{i}(Am I really that attractive?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sou tão atraente assim?){/i}"
 
 # game/logic/events/audrey.rpy:2980
 translate brazilian Audrey_9_label_L_184_3d7715eb:
 
     # ch_Name "{i}(The last time I had this kind of excitement was when I played sports.){/i}"
-    ch_Name ""
+    ch_Name "{i}(A última vez que tive esse tipo de emoção foi quando pratiquei esportes.){/i}"
 
 # game/logic/events/audrey.rpy:2982
 translate brazilian Audrey_9_label_L_184_5a8290a3:
 
     # Audrey "What are you standing there for?"
-    Audrey ""
+    Audrey "O que você está fazendo aí?"
 
 # game/logic/events/audrey.rpy:2983
 translate brazilian Audrey_9_label_L_184_483401e0:
 
     # Audrey "You do realize this is the happiest moment of your life, right?"
-    Audrey ""
+    Audrey "Você percebe que este é o momento mais feliz da sua vida, certo?"
 
 # game/logic/events/audrey.rpy:2984
 translate brazilian Audrey_9_label_L_184_027b1c56:
@@ -10012,103 +10012,103 @@ translate brazilian Audrey_9_label_L_184_027b1c56:
 translate brazilian Audrey_9_label_L_184_4a41b0d1:
 
     # ch_Name "You're right."
-    ch_Name ""
+    ch_Name "Você está certa."
 
 # game/logic/events/audrey.rpy:2987
 translate brazilian Audrey_9_label_L_184_44747143:
 
     # ch_Name "All this beating around the bush is gonna make my dick fall off."
-    ch_Name ""
+    ch_Name "Toda essa enrolação vai fazer meu pau cair."
 
 # game/logic/events/audrey.rpy:2988
 translate brazilian Audrey_9_label_L_184_c90a8ee7:
 
     # ch_Name "It's time to get down to business."
-    ch_Name ""
+    ch_Name "É hora de começar a trabalhar."
 
 # game/logic/events/audrey.rpy:2990
 translate brazilian Audrey_9_label_L_184_fccecc40:
 
     # Audrey "Yeah, I didn't think you'd be that easy to get."
-    Audrey ""
+    Audrey "Sim, eu não pensei que você seria tão fácil de conseguir."
 
 # game/logic/events/audrey.rpy:2991
 translate brazilian Audrey_9_label_L_184_3f08abbc:
 
     # Audrey "Come here!"
-    Audrey ""
+    Audrey "Venha aqui!"
 
 # game/logic/events/audrey.rpy:2992
 translate brazilian Audrey_9_label_L_184_43819a01:
 
     # Audrey "I don't want to see such a beautiful boner go to waste."
-    Audrey ""
+    Audrey "Eu não quero ver uma ereção tão bonita ser desperdiçada."
 
 # game/logic/events/audrey.rpy:2994
 translate brazilian Audrey_9_label_L_184_aad58497:
 
     # Audrey "Welcome, my hero. Come into me!"
-    Audrey ""
+    Audrey "Bem-vindo, meu herói. Venha para mim!"
 
 # game/logic/events/audrey.rpy:2995
 translate brazilian Audrey_9_label_L_184_b62e5672:
 
     # ch_Name "{i}(There she is. Daring and stern Audrey, spreading her legs and begging me to come in.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Lá está ela. Audrey ousada e severa, abrindo as pernas e me implorando para entrar.){/i}"
 
 # game/logic/events/audrey.rpy:2996
 translate brazilian Audrey_9_label_L_184_dea75e42:
 
     # ch_Name "I'm coming..."
-    ch_Name ""
+    ch_Name "Estou indo..."
 
 # game/logic/events/audrey.rpy:2998
 translate brazilian Audrey_9_label_L_184_e1e37224:
 
     # ch_Name "{i}(Her body is all tense and her pelvis is trembling with lust.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Seu corpo está todo tenso e sua pélvis está tremendo de desejo.){/i}"
 
 # game/logic/events/audrey.rpy:2999
 translate brazilian Audrey_9_label_L_184_2077bb60:
 
     # ch_Name "{i}(I can feel her longing for it. Why am I so tired?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Posso sentir o desejo dela. Por que estou tão cansado?){/i}"
 
 # game/logic/events/audrey.rpy:3000
 translate brazilian Audrey_9_label_L_184_c62b51f0:
 
     # ch_Name "{i}(Okay. Get it together, [Name]. We can't be sloppy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ok. Reúna-se, [Name]. Não podemos ser descuidados.){/i}"
 
 # game/logic/events/audrey.rpy:3002
 translate brazilian Audrey_9_label_L_184_d82175e4:
 
     # ch_Name "So, are you ready?"
-    ch_Name ""
+    ch_Name "Então, você está pronto?"
 
 # game/logic/events/audrey.rpy:3003
 translate brazilian Audrey_9_label_L_184_9a7f7bbe:
 
     # Audrey "I've been ready for a long time, asshole... Don't keep me in suspense!"
-    Audrey ""
+    Audrey "Estou pronta há muito tempo, idiota... Não me deixe esperando!"
 
 # game/logic/events/audrey.rpy:3004
 translate brazilian Audrey_9_label_L_184_308fdf25:
 
     # ch_Name "What are you ready for? I don't know."
-    ch_Name ""
+    ch_Name "Para o que você está pronta? Eu não sei."
 
 # game/logic/events/audrey.rpy:3006
 translate brazilian Audrey_9_label_L_184_50032f6b:
 
     # ch_Name "Ask me properly."
-    ch_Name ""
+    ch_Name "Pergunte-me corretamente."
 
 # game/logic/events/audrey.rpy:3007
 translate brazilian Audrey_9_label_L_184_d15ab4ed:
 
     # Audrey "Fuck you... Fuck me like you've never fucked anyone before!"
-    Audrey ""
+    Audrey "Foda-se... me fode como nunca fodeu ninguém antes!"
 
 # game/logic/events/audrey.rpy:3009
 translate brazilian Audrey_9_label_L_184_1b12de55:
@@ -10120,55 +10120,55 @@ translate brazilian Audrey_9_label_L_184_1b12de55:
 translate brazilian Audrey_9_label_L_184_0f274ba8:
 
     # Audrey "Oh, yeah... It's so fleshy..."
-    Audrey ""
+    Audrey "Ah, sim... É tão carnudo..."
 
 # game/logic/events/audrey.rpy:3012
 translate brazilian Audrey_9_label_L_184_ed9d995d:
 
     # ch_Name "You like that?"
-    ch_Name ""
+    ch_Name "Você gosta disso?"
 
 # game/logic/events/audrey.rpy:3013
 translate brazilian Audrey_9_label_L_184_ec345f17:
 
     # Audrey "You bet I do. My hole is stretched to the limit."
-    Audrey ""
+    Audrey "Pode apostar que sim. Meu buraco está esticado até o limite."
 
 # game/logic/events/audrey.rpy:3015
 translate brazilian Audrey_9_label_L_184_ee380a8c:
 
     # ch_Name "Oh, baby..."
-    ch_Name ""
+    ch_Name "Ah, querida..."
 
 # game/logic/events/audrey.rpy:3016
 translate brazilian Audrey_9_label_L_184_2ad5adec:
 
     # ch_Name "Every inch of your body turns me on."
-    ch_Name ""
+    ch_Name "Cada centímetro do seu corpo me excita."
 
 # game/logic/events/audrey.rpy:3017
 translate brazilian Audrey_9_label_L_184_5e2a4c89:
 
     # Audrey "Please go deeper..."
-    Audrey ""
+    Audrey "Por favor, vá mais fundo..."
 
 # game/logic/events/audrey.rpy:3019
 translate brazilian Audrey_9_label_L_184_03d46cd7:
 
     # ch_Name "{i}(She's so slutty... I like that.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela é tão sacana... eu gosto disso.){/i}"
 
 # game/logic/events/audrey.rpy:3021
 translate brazilian Audrey_9_label_L_184_8a0b8f7a:
 
     # ch_Name "{i}(I won't keep the lady waiting!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não vou deixar a senhora esperando!){/i}"
 
 # game/logic/events/audrey.rpy:3022
 translate brazilian Audrey_9_label_L_184_fe177997:
 
     # Audrey "Ah! Oh yes!"
-    Audrey ""
+    Audrey "Ah! Ah sim!"
 
 # game/logic/events/audrey.rpy:3023
 translate brazilian Audrey_9_label_L_184_35c6cc19:
@@ -10186,7 +10186,7 @@ translate brazilian Audrey_9_label_L_184_fc11be4e:
 translate brazilian Audrey_9_label_L_184_1015ca8d:
 
     # Audrey "Yes..."
-    Audrey ""
+    Audrey "Sim..."
 
 # game/logic/events/audrey.rpy:3027
 translate brazilian Audrey_9_label_L_184_fac02ba5:
@@ -10198,13 +10198,13 @@ translate brazilian Audrey_9_label_L_184_fac02ba5:
 translate brazilian Audrey_9_label_L_184_fb7496e4:
 
     # Audrey "Oh yeah... That's it!"
-    Audrey ""
+    Audrey "Ah sim... É isso!"
 
 # game/logic/events/audrey.rpy:3029
 translate brazilian Audrey_9_label_L_184_818c76d3:
 
     # ch_Name "{i}(She seemed desperate for a good fuck.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela parecia desesperada por uma boa foda.){/i}"
 
 # game/logic/events/audrey.rpy:3031
 translate brazilian Audrey_9_label_L_184_4ee2d01e:
@@ -10216,7 +10216,7 @@ translate brazilian Audrey_9_label_L_184_4ee2d01e:
 translate brazilian Audrey_9_label_L_184_41f318bf:
 
     # Audrey "That's it... Just like that!"
-    Audrey ""
+    Audrey "É isso... Simples assim!"
 
 # game/logic/events/audrey.rpy:3033
 translate brazilian Audrey_9_label_L_184_3b476c8d:
@@ -10246,7 +10246,7 @@ translate brazilian Audrey_9_label_L_184_a258e218:
 translate brazilian Audrey_9_label_L_184_730cfb2c:
 
     # Audrey "So...{w} Good..."
-    Audrey ""
+    Audrey "Tão...{w} Bom..."
 
 # game/logic/events/audrey.rpy:3039
 translate brazilian Audrey_9_label_L_184_4ee2d01e_1:
@@ -10258,133 +10258,133 @@ translate brazilian Audrey_9_label_L_184_4ee2d01e_1:
 translate brazilian Audrey_9_label_L_184_4dbe194a:
 
     # ch_Name "{i}(It feels like we've been fucking for ages now.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parece que estamos transando há muito tempo.){/i}"
 
 # game/logic/events/audrey.rpy:3042
 translate brazilian Audrey_9_label_L_184_9eb15a47:
 
     # ch_Name "{i}(Something's starting to make me more queasy... Shit.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Algo está começando a me deixar mais enjoado... Merda.){/i}"
 
 # game/logic/events/audrey.rpy:3043
 translate brazilian Audrey_9_label_L_184_bce11716:
 
     # ch_Name "{i}(It's hard to concentrate on sex.){/i}"
-    ch_Name ""
+    ch_Name "{i}(É difícil se concentrar no sexo.){/i}"
 
 # game/logic/events/audrey.rpy:3044
 translate brazilian Audrey_9_label_L_184_1c13f9c8:
 
     # Audrey "Would you like to change positions?"
-    Audrey ""
+    Audrey "Você gostaria de mudar de posição?"
 
 # game/logic/events/audrey.rpy:3045
 translate brazilian Audrey_9_label_L_184_c9cfd758:
 
     # Audrey "For a change."
-    Audrey ""
+    Audrey "Para variar."
 
 # game/logic/events/audrey.rpy:3047
 translate brazilian Audrey_9_label_L_184_5f78a841:
 
     # ch_Name "Phew... Well, I could."
-    ch_Name ""
+    ch_Name "Ufa... Bem, eu poderia."
 
 # game/logic/events/audrey.rpy:3048
 translate brazilian Audrey_9_label_L_184_9776e8e2:
 
     # ch_Name "Despite my slight fatigue, I'm ready to continue."
-    ch_Name ""
+    ch_Name "Apesar do meu leve cansaço, estou pronto para continuar."
 
 # game/logic/events/audrey.rpy:3049
 translate brazilian Audrey_9_label_L_184_76f967f4:
 
     # ch_Name "{i}(Maybe it would be easier if I lay down.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Talvez fosse mais fácil se eu me deitasse.){/i}"
 
 # game/logic/events/audrey.rpy:3051
 translate brazilian Audrey_9_label_L_184_7289e44c:
 
     # Audrey "You look a little frail. Will your boner hold up?"
-    Audrey ""
+    Audrey "Você parece um pouco frágil. Seu tesão vai aguentar?"
 
 # game/logic/events/audrey.rpy:3052
 translate brazilian Audrey_9_label_L_184_3c5c2101:
 
     # ch_Name "Of course it will."
-    ch_Name ""
+    ch_Name "Claro que sim."
 
 # game/logic/events/audrey.rpy:3053
 translate brazilian Audrey_9_label_L_184_6cb9f122:
 
     # ch_Name "Lie on your side, with your back to me."
-    ch_Name ""
+    ch_Name "Deite-se de lado, de costas para mim."
 
 # game/logic/events/audrey.rpy:3055
 translate brazilian Audrey_9_label_L_184_dca7d3e3:
 
     # Audrey "Oh, you're taking the reins?"
-    Audrey ""
+    Audrey "Ah, você está tomando as rédeas?"
 
 # game/logic/events/audrey.rpy:3056
 translate brazilian Audrey_9_label_L_184_2c88481a:
 
     # Audrey "I like that."
-    Audrey ""
+    Audrey "Eu gosto disso."
 
 # game/logic/events/audrey.rpy:3057
 translate brazilian Audrey_9_label_L_184_de2d39c7:
 
     # Audrey "I love a man with balls."
-    Audrey ""
+    Audrey "Eu amo um homem com culhões."
 
 # game/logic/events/audrey.rpy:3064
 translate brazilian Audrey_9_label_L_184_a10d7e24:
 
     # Audrey "Wait, not so fast..."
-    Audrey ""
+    Audrey "Espere, não tão rápido..."
 
 # game/logic/events/audrey.rpy:3065
 translate brazilian Audrey_9_label_L_184_e69908d2:
 
     # Audrey "Don't come in."
-    Audrey ""
+    Audrey "Não entre."
 
 # game/logic/events/audrey.rpy:3067
 translate brazilian Audrey_9_label_L_184_f113a10a:
 
     # ch_Name "Are you sure?"
-    ch_Name ""
+    ch_Name "Tem certeza?"
 
 # game/logic/events/audrey.rpy:3068
 translate brazilian Audrey_9_label_L_184_4eb4af5b:
 
     # ch_Name "Did something happen?"
-    ch_Name ""
+    ch_Name "Aconteceu alguma coisa?"
 
 # game/logic/events/audrey.rpy:3070
 translate brazilian Audrey_9_label_L_184_016520b8:
 
     # Audrey "No, everything's fine."
-    Audrey ""
+    Audrey "Não, está tudo bem."
 
 # game/logic/events/audrey.rpy:3071
 translate brazilian Audrey_9_label_L_184_59f115c4:
 
     # Audrey "I want to look into your eyes when you come in."
-    Audrey ""
+    Audrey "Eu quero olhar em seus olhos quando você entrar."
 
 # game/logic/events/audrey.rpy:3072
 translate brazilian Audrey_9_label_L_184_96d504cd:
 
     # ch_Name "{i}(Strangely, that sounds too romantic for Audrey...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Estranhamente, isso soa muito romântico para Audrey...){/i}"
 
 # game/logic/events/audrey.rpy:3074
 translate brazilian Audrey_9_label_L_184_f9cb4485:
 
     # ch_Name "{i}(But I kind of like it...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas eu meio que gosto...){/i}"
 
 # game/logic/events/audrey.rpy:3075
 translate brazilian Audrey_9_label_L_184_a734a048:
@@ -10408,7 +10408,7 @@ translate brazilian Audrey_9_label_L_184_eaa9ce6d_1:
 translate brazilian Audrey_9_label_L_184_357b353a:
 
     # Audrey "Now just breathe..."
-    Audrey ""
+    Audrey "Agora é só respirar..."
 
 # game/logic/events/audrey.rpy:3081
 translate brazilian Audrey_9_label_L_184_8c41bb6f:
@@ -10420,43 +10420,43 @@ translate brazilian Audrey_9_label_L_184_8c41bb6f:
 translate brazilian Audrey_9_label_L_184_caa8bb33:
 
     # ch_Name "{i}(It's happening again...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Está acontecendo de novo...){/i}"
 
 # game/logic/events/audrey.rpy:3085
 translate brazilian Audrey_9_label_L_184_97c87cbe:
 
     # ch_Name "{i}(It's like she's feeding off my magical powers.){/i}"
-    ch_Name ""
+    ch_Name "{i}(É como se ela estivesse se alimentando dos meus poderes mágicos.){/i}"
 
 # game/logic/events/audrey.rpy:3087
 translate brazilian Audrey_9_label_L_184_f7b5d1df:
 
     # Audrey "Are you ready to get your huge cock back in my hole?"
-    Audrey ""
+    Audrey "Você está pronto para colocar seu pau enorme de volta no meu buraco?"
 
 # game/logic/events/audrey.rpy:3088
 translate brazilian Audrey_9_label_L_184_6acac6e1:
 
     # ch_Name "Oh... I guess..."
-    ch_Name ""
+    ch_Name "Ah... eu acho..."
 
 # game/logic/events/audrey.rpy:3089
 translate brazilian Audrey_9_label_L_184_fb9810e8:
 
     # ch_Name "I'm not sure."
-    ch_Name ""
+    ch_Name "Não tenho certeza."
 
 # game/logic/events/audrey.rpy:3091
 translate brazilian Audrey_9_label_L_184_606788c1:
 
     # ch_Name "What was that all about?"
-    ch_Name ""
+    ch_Name "O que foi isso?"
 
 # game/logic/events/audrey.rpy:3092
 translate brazilian Audrey_9_label_L_184_757a49a6:
 
     # ch_Name "My head is spinning..."
-    ch_Name ""
+    ch_Name "Minha cabeça está girando..."
 
 # game/logic/events/audrey.rpy:3093
 translate brazilian Audrey_9_label_L_184_b385b852:
@@ -10468,37 +10468,37 @@ translate brazilian Audrey_9_label_L_184_b385b852:
 translate brazilian Audrey_9_label_L_184_73b628b1:
 
     # Audrey "Stop whining and asking questions, okay?"
-    Audrey ""
+    Audrey "Pare de choramingar e fazer perguntas, ok?"
 
 # game/logic/events/audrey.rpy:3096
 translate brazilian Audrey_9_label_L_184_4e9c49a7:
 
     # Audrey "You know what I want you to do!"
-    Audrey ""
+    Audrey "Você sabe o que eu quero que você faça!"
 
 # game/logic/events/audrey.rpy:3097
 translate brazilian Audrey_9_label_L_184_8bacebb2:
 
     # Audrey "FUCK ME."
-    Audrey ""
+    Audrey "ME FODE PORRA"
 
 # game/logic/events/audrey.rpy:3099
 translate brazilian Audrey_9_label_L_184_6d8e0e82:
 
     # ch_Name "Oh... All right."
-    ch_Name ""
+    ch_Name "Ah... Tudo bem."
 
 # game/logic/events/audrey.rpy:3100
 translate brazilian Audrey_9_label_L_184_48dfd8d1:
 
     # ch_Name "How can I refuse such a request?"
-    ch_Name ""
+    ch_Name "Como posso recusar tal pedido?"
 
 # game/logic/events/audrey.rpy:3102
 translate brazilian Audrey_9_label_L_184_11a1ab31:
 
     # Audrey "That's better!"
-    Audrey ""
+    Audrey "Assim está melhor!"
 
 # game/logic/events/audrey.rpy:3103
 translate brazilian Audrey_9_label_L_184_8df623f8:
@@ -10510,13 +10510,13 @@ translate brazilian Audrey_9_label_L_184_8df623f8:
 translate brazilian Audrey_9_label_L_184_91d2e4e2:
 
     # ch_Name "{i}(I have to ignore the dizziness... It's too nice to stop.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tenho que ignorar a tontura... É bom demais para parar.){/i}"
 
 # game/logic/events/audrey.rpy:3107
 translate brazilian Audrey_9_label_L_184_ce804928:
 
     # ch_Name "Here I go!"
-    ch_Name ""
+    ch_Name "Aqui vou eu!"
 
 # game/logic/events/audrey.rpy:3108
 translate brazilian Audrey_9_label_L_184_fac02ba5_3:
@@ -10540,19 +10540,19 @@ translate brazilian Audrey_9_label_L_184_fac02ba5_4:
 translate brazilian Audrey_9_label_L_184_a41ea034:
 
     # ch_Name "{i}(I can feel the pleasure ripple through her body.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Posso sentir o prazer percorrer o corpo dela.){/i}"
 
 # game/logic/events/audrey.rpy:3113
 translate brazilian Audrey_9_label_L_184_be588d4a:
 
     # Audrey "Yes! Just like that!"
-    Audrey ""
+    Audrey "Sim! Assim mesmo!"
 
 # game/logic/events/audrey.rpy:3114
 translate brazilian Audrey_9_label_L_184_730cfb2c_1:
 
     # Audrey "So...{w} Good..."
-    Audrey ""
+    Audrey "Tão...{w} Bom..."
 
 # game/logic/events/audrey.rpy:3115
 translate brazilian Audrey_9_label_L_184_4ee2d01e_2:
@@ -10564,13 +10564,13 @@ translate brazilian Audrey_9_label_L_184_4ee2d01e_2:
 translate brazilian Audrey_9_label_L_184_3023ca42:
 
     # Audrey "Don't stop! Fuck me harder!"
-    Audrey ""
+    Audrey "Não pare! me fode mais forte!"
 
 # game/logic/events/audrey.rpy:3118
 translate brazilian Audrey_9_label_L_184_ce96d05e:
 
     # Audrey "Oh... Yes... That's it!"
-    Audrey ""
+    Audrey "Ah... Sim... É isso!"
 
 # game/logic/events/audrey.rpy:3119
 translate brazilian Audrey_9_label_L_184_3b476c8d_2:
@@ -10588,7 +10588,7 @@ translate brazilian Audrey_9_label_L_184_fac02ba5_5:
 translate brazilian Audrey_9_label_L_184_6ddc8059:
 
     # Audrey "Your cock is filling me completely... It feels so good..."
-    Audrey ""
+    Audrey "Seu pau está me enchendo completamente... É tão bom..."
 
 # game/logic/events/audrey.rpy:3123
 translate brazilian Audrey_9_label_L_184_fac02ba5_6:
@@ -10606,13 +10606,13 @@ translate brazilian Audrey_9_label_L_184_2d5b0d4b:
 translate brazilian Audrey_9_label_L_184_0ca82cfb:
 
     # Audrey "I'm about to have an orgasm..."
-    Audrey ""
+    Audrey "Estou prestes a ter um orgasmo..."
 
 # game/logic/events/audrey.rpy:3127
 translate brazilian Audrey_9_label_L_184_2183b87b:
 
     # ch_Name "{i}(I can do this!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu posso fazer isso!){/i}"
 
 # game/logic/events/audrey.rpy:3128
 translate brazilian Audrey_9_label_L_184_08cecdb3:
@@ -10624,7 +10624,7 @@ translate brazilian Audrey_9_label_L_184_08cecdb3:
 translate brazilian Audrey_9_label_L_184_eff5249f:
 
     # Audrey "I'm almost there..."
-    Audrey ""
+    Audrey "Estou quase lá..."
 
 # game/logic/events/audrey.rpy:3131
 translate brazilian Audrey_9_label_L_184_949a8990:
@@ -10636,37 +10636,37 @@ translate brazilian Audrey_9_label_L_184_949a8990:
 translate brazilian Audrey_9_label_L_184_ce96d05e_1:
 
     # Audrey "Oh... Yes... That's it!"
-    Audrey ""
+    Audrey "Ah... Sim... É isso!"
 
 # game/logic/events/audrey.rpy:3133
 translate brazilian Audrey_9_label_L_184_3dc1413f:
 
     # Audrey "I'm done..."
-    Audrey ""
+    Audrey "Terminei..."
 
 # game/logic/events/audrey.rpy:3135
 translate brazilian Audrey_9_label_L_184_919fd414:
 
     # Audrey "That was incredible!"
-    Audrey ""
+    Audrey "Isso foi incrível!"
 
 # game/logic/events/audrey.rpy:3136
 translate brazilian Audrey_9_label_L_184_60cdc06a:
 
     # ch_Name "{i}(It's strange that she's not even close to me...){/i}"
-    ch_Name ""
+    ch_Name "{i}(É estranho que ela não seja nem perto de mim...){/i}"
 
 # game/logic/events/audrey.rpy:3137
 translate brazilian Audrey_9_label_L_184_2611d091:
 
     # Audrey "How much longer are you gonna take?"
-    Audrey ""
+    Audrey "Quanto tempo você vai demorar?"
 
 # game/logic/events/audrey.rpy:3139
 translate brazilian Audrey_9_label_L_184_66f3430d:
 
     # Audrey "Finish it already!"
-    Audrey ""
+    Audrey "Termine já!"
 
 # game/logic/events/audrey.rpy:3140
 translate brazilian Audrey_9_label_L_184_43988d67:
@@ -10678,115 +10678,115 @@ translate brazilian Audrey_9_label_L_184_43988d67:
 translate brazilian Audrey_9_label_L_184_d5b4a72b:
 
     # ch_Name "To be honest, I'm not even close yet, baby."
-    ch_Name ""
+    ch_Name "Para ser honesto, ainda nem cheguei perto, baby."
 
 # game/logic/events/audrey.rpy:3143
 translate brazilian Audrey_9_label_L_184_74ff5f48:
 
     # Audrey "Why should that be my problem? Get it out."
-    Audrey ""
+    Audrey "Por que isso deveria ser meu problema? Tire isso daqui."
 
 # game/logic/events/audrey.rpy:3144
 translate brazilian Audrey_9_label_L_184_b510ad9f:
 
     # ch_Name "But..."
-    ch_Name ""
+    ch_Name "Mas..."
 
 # game/logic/events/audrey.rpy:3146
 translate brazilian Audrey_9_label_L_184_451c49e1:
 
     # Audrey "Get it out, I said!" with hpunch
-    Audrey "" with hpunch
+    Audrey "Saia daqui!" with hpunch
 
 # game/logic/events/audrey.rpy:3147
 translate brazilian Audrey_9_label_L_184_51fe0ce2:
 
     # ch_Name "Oh, okay, well..."
-    ch_Name ""
+    ch_Name "Ah, tudo bem, bem..."
 
 # game/logic/events/audrey.rpy:3148
 translate brazilian Audrey_9_label_L_184_ce338fb2:
 
     # ch_Name "But I'll need your help to cum."
-    ch_Name ""
+    ch_Name "Mas vou precisar de sua ajuda para gozar."
 
 # game/logic/events/audrey.rpy:3150
 translate brazilian Audrey_9_label_L_184_16df9d7f:
 
     # Audrey "Don't count on a blow job. I'm tired."
-    Audrey ""
+    Audrey "Não conte com um boquete. Estou cansada."
 
 # game/logic/events/audrey.rpy:3151
 translate brazilian Audrey_9_label_L_184_55ba7ed0:
 
     # Audrey "And you already got more than you deserve tonight."
-    Audrey ""
+    Audrey "E você já teve mais do que merece esta noite."
 
 # game/logic/events/audrey.rpy:3152
 translate brazilian Audrey_9_label_L_184_682578ae:
 
     # Audrey "If it helps, you can jerk off to me."
-    Audrey ""
+    Audrey "Se isso ajudar, você pode se masturbar comigo."
 
 # game/logic/events/audrey.rpy:3154
 translate brazilian Audrey_9_label_L_184_52fef265:
 
     # Audrey "But hurry up, I've got a lot to do."
-    Audrey ""
+    Audrey "Mas se apresse, eu tenho muito o que fazer."
 
 # game/logic/events/audrey.rpy:3155
 translate brazilian Audrey_9_label_L_184_baf22535:
 
     # ch_Name "{i}(So much for Audrey using me as a dildo on her feet.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tanto para Audrey me usar como um vibrador em seus pés.){/i}"
 
 # game/logic/events/audrey.rpy:3157
 translate brazilian Audrey_9_label_L_184_97af16ee:
 
     # ch_Name "Now, now."
-    ch_Name ""
+    ch_Name "Agora, agora."
 
 # game/logic/events/audrey.rpy:3158
 translate brazilian Audrey_9_label_L_184_bddcd34a:
 
     # ch_Name "Your whims don't make it go any faster."
-    ch_Name ""
+    ch_Name "Seus caprichos não o fazem ir mais rápido."
 
 # game/logic/events/audrey.rpy:3160
 translate brazilian Audrey_9_label_L_184_5608b823:
 
     # ch_Name "{i}(Damn it... I should be at my limit by now.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Droga... Eu deveria estar no meu limite agora.){/i}"
 
 # game/logic/events/audrey.rpy:3161
 translate brazilian Audrey_9_label_L_184_6fb51edd:
 
     # ch_Name "{i}(And I hardly feel any pleasure...){/i}"
-    ch_Name ""
+    ch_Name "{i}(E quase não sinto prazer...){/i}"
 
 # game/logic/events/audrey.rpy:3163
 translate brazilian Audrey_9_label_L_184_ed7cd657:
 
     # ch_Name "{i}(What a bummer about this dry humping.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que chatice sobre essa transa seca.){/i}"
 
 # game/logic/events/audrey.rpy:3164
 translate brazilian Audrey_9_label_L_184_d1c738d9:
 
     # ch_Name "Something's wrong..."
-    ch_Name ""
+    ch_Name "Algo está errado..."
 
 # game/logic/events/audrey.rpy:3166
 translate brazilian Audrey_9_label_L_184_32246c07:
 
     # ch_Name "I'm passing out from fatigue and dizziness..."
-    ch_Name ""
+    ch_Name "Estou desmaiando de cansaço e tontura..."
 
 # game/logic/events/audrey.rpy:3167
 translate brazilian Audrey_9_label_L_184_632fb309:
 
     # ch_Name "It's hard to concentrate."
-    ch_Name ""
+    ch_Name "É difícil se concentrar."
 
 # game/logic/events/audrey.rpy:3168
 translate brazilian Audrey_9_label_L_184_9caeb230:
@@ -10798,151 +10798,151 @@ translate brazilian Audrey_9_label_L_184_9caeb230:
 translate brazilian Audrey_9_label_L_184_8709bc91:
 
     # Audrey "I wonder how that happened."
-    Audrey ""
+    Audrey "Eu me pergunto como isso aconteceu."
 
 # game/logic/events/audrey.rpy:3171
 translate brazilian Audrey_9_label_L_184_21eb70f9:
 
     # Audrey "Maybe you don't have enough vitamins in your system?"
-    Audrey ""
+    Audrey "Talvez você não tenha vitaminas suficientes em seu sistema?"
 
 # game/logic/events/audrey.rpy:3172
 translate brazilian Audrey_9_label_L_184_e216c47b:
 
     # ch_Name "Are you kidding me?"
-    ch_Name ""
+    ch_Name "Você está brincando comigo?"
 
 # game/logic/events/audrey.rpy:3174
 translate brazilian Audrey_9_label_L_184_5c96de3d:
 
     # Audrey "No, but I'm about to start."
-    Audrey ""
+    Audrey "Não, mas estou prestes a começar."
 
 # game/logic/events/audrey.rpy:3175
 translate brazilian Audrey_9_label_L_184_4533a1e0:
 
     # Audrey "Cause your dick is getting a little sluggish."
-    Audrey ""
+    Audrey "Porque seu pau está ficando um pouco mole."
 
 # game/logic/events/audrey.rpy:3176
 translate brazilian Audrey_9_label_L_184_36fbcfdf:
 
     # ch_Name "Wait, I need to get my head together."
-    ch_Name ""
+    ch_Name "Espere, eu preciso colocar minha cabeça no lugar."
 
 # game/logic/events/audrey.rpy:3178
 translate brazilian Audrey_9_label_L_184_1c2426a4:
 
     # Audrey "Oh, no, that's no good."
-    Audrey ""
+    Audrey "Oh, não, isso não é bom."
 
 # game/logic/events/audrey.rpy:3179
 translate brazilian Audrey_9_label_L_184_fa70fd98:
 
     # Audrey "Stop wasting my time and get lost, impotent."
-    Audrey ""
+    Audrey "Pare de desperdiçar meu tempo e se perca, impotente."
 
 # game/logic/events/audrey.rpy:3180
 translate brazilian Audrey_9_label_L_184_d139edf4:
 
     # ch_Name "Why are you so rude?"
-    ch_Name ""
+    ch_Name "Por que você é tão rude?"
 
 # game/logic/events/audrey.rpy:3182
 translate brazilian Audrey_9_label_L_184_0b5d45f8:
 
     # ch_Name "You already came, so what's it to you?"
-    ch_Name ""
+    ch_Name "Você já gozou, então o que você tem a ver?"
 
 # game/logic/events/audrey.rpy:3183
 translate brazilian Audrey_9_label_L_184_861ecc0e:
 
     # ch_Name "Besides, it's the first time."
-    ch_Name ""
+    ch_Name "Além disso, é a primeira vez."
 
 # game/logic/events/audrey.rpy:3184
 translate brazilian Audrey_9_label_L_184_e97777f9:
 
     # ch_Name "I usually have no problem getting a hard-on, I swear."
-    ch_Name ""
+    ch_Name "Eu normalmente não tenho problemas em ficar de pau duro, eu juro."
 
 # game/logic/events/audrey.rpy:3186
 translate brazilian Audrey_9_label_L_184_705a3291:
 
     # Audrey "Yes, that's what all impotent men say."
-    Audrey ""
+    Audrey "Sim, isso é o que todos os homens impotentes dizem."
 
 # game/logic/events/audrey.rpy:3187
 translate brazilian Audrey_9_label_L_184_f71fd2d0:
 
     # Audrey "Once a year and the stick shoots."
-    Audrey ""
+    Audrey "Uma vez por ano e a vara atira."
 
 # game/logic/events/audrey.rpy:3188
 translate brazilian Audrey_9_label_L_184_9fec9f08:
 
     # Audrey "Although yours didn't even shoot, just aimed."
-    Audrey ""
+    Audrey "Embora o seu nem tenha atirado, apenas mirou."
 
 # game/logic/events/audrey.rpy:3190
 translate brazilian Audrey_9_label_L_184_90f6ee1d:
 
     # ch_Name "That's not fair..."
-    ch_Name ""
+    ch_Name "Isso não é justo..."
 
 # game/logic/events/audrey.rpy:3191
 translate brazilian Audrey_9_label_L_184_d2d1281a:
 
     # ch_Name "My nickname is..."
-    ch_Name ""
+    ch_Name "Meu apelido é..."
 
 # game/logic/events/audrey.rpy:3193
 translate brazilian Audrey_9_label_L_184_5a8d862e:
 
     # Audrey "Stop wasting my time, [Name]! Get out of here."
-    Audrey ""
+    Audrey "Pare de desperdiçar meu tempo, [Name]! Saia daqui."
 
 # game/logic/events/audrey.rpy:3194
 translate brazilian Audrey_9_label_L_184_11dbf333:
 
     # Audrey "You can jerk off somewhere else."
-    Audrey ""
+    Audrey "Você pode se masturbar em outro lugar."
 
 # game/logic/events/audrey.rpy:3195
 translate brazilian Audrey_9_label_L_184_b510ad9f_1:
 
     # ch_Name "But..."
-    ch_Name ""
+    ch_Name "Mas..."
 
 # game/logic/events/audrey.rpy:3197
 translate brazilian Audrey_9_label_L_184_8af3dd15:
 
     # Audrey "There's the way out." with hpunch
-    Audrey "" with hpunch
+    Audrey "Existe uma saída." with hpunch
 
 # game/logic/events/audrey.rpy:3198
 translate brazilian Audrey_9_label_L_184_8b5ae744:
 
     # ch_Name "{i}(Unbelievable!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Inacreditável!){/i}"
 
 # game/logic/events/audrey.rpy:3199
 translate brazilian Audrey_9_label_L_184_e00bb96c:
 
     # ch_Name "{i}(What a bitch...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que vadia...){/i}"
 
 # game/logic/events/audrey.rpy:3200
 translate brazilian Audrey_9_label_L_184_935f6ba4:
 
     # ch_Name "{i}(I need to figure out why I'm so fucked up today.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Preciso descobrir por que estou tão fodido hoje.){/i}"
 
 # game/logic/events/audrey.rpy:3201
 translate brazilian Audrey_9_label_L_184_b856a391:
 
     # ch_Name "{i}(And offer her round two.){/i}"
-    ch_Name ""
+    ch_Name "{i}(E ofereça a segunda rodada.){/i}"
 
 # game/logic/events/audrey.rpy:3202
 translate brazilian Audrey_9_label_L_184_25aa0e12:
@@ -10954,61 +10954,61 @@ translate brazilian Audrey_9_label_L_184_25aa0e12:
 translate brazilian Audrey_9_label_L_184_3e3e63f8:
 
     # ch_Name "Good luck."
-    ch_Name ""
+    ch_Name "Boa sorte."
 
 # game/logic/events/audrey.rpy:3204
 translate brazilian Audrey_9_label_L_184_3a0194d2:
 
     # ch_Name "I'm off."
-    ch_Name ""
+    ch_Name "Estou fora."
 
 # game/logic/events/audrey.rpy:3217
 translate brazilian Audrey_9_label_L_374_7db41b82:
 
     # Audrey "Come here, handsome."
-    Audrey ""
+    Audrey "Venha aqui, bonitão."
 
 # game/logic/events/audrey.rpy:3218
 translate brazilian Audrey_9_label_L_374_859b023a:
 
     # Audrey "I miss the warmth of your arms..."
-    Audrey ""
+    Audrey "Sinto falta do calor dos seus braços..."
 
 # game/logic/events/audrey.rpy:3219
 translate brazilian Audrey_9_label_L_374_531bb326:
 
     # ch_Name "{i}(What a strange thing she's doing...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que coisa estranha ela está fazendo...){/i}"
 
 # game/logic/events/audrey.rpy:3221
 translate brazilian Audrey_9_label_L_374_4a68296c:
 
     # ch_Name "{i}(It's like she's instinctively trying her best to lure me into bed.){/i}"
-    ch_Name ""
+    ch_Name "{i}(É como se ela estivesse instintivamente tentando o seu melhor para me atrair para a cama.){/i}"
 
 # game/logic/events/audrey.rpy:3222
 translate brazilian Audrey_9_label_L_374_f5666163:
 
     # ch_Name "{i}(Am I really that attractive?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sou tão atraente assim?){/i}"
 
 # game/logic/events/audrey.rpy:3223
 translate brazilian Audrey_9_label_L_374_3d7715eb:
 
     # ch_Name "{i}(The last time I had this kind of excitement was when I played sports.){/i}"
-    ch_Name ""
+    ch_Name "{i}(A última vez que tive esse tipo de emoção foi quando pratiquei esportes.){/i}"
 
 # game/logic/events/audrey.rpy:3225
 translate brazilian Audrey_9_label_L_374_5a8290a3:
 
     # Audrey "What are you standing there for?"
-    Audrey ""
+    Audrey "O que você está fazendo aí?"
 
 # game/logic/events/audrey.rpy:3226
 translate brazilian Audrey_9_label_L_374_483401e0:
 
     # Audrey "You do realize this is the happiest moment of your life, right?"
-    Audrey ""
+    Audrey "Você percebe que este é o momento mais feliz da sua vida, certo?"
 
 # game/logic/events/audrey.rpy:3227
 translate brazilian Audrey_9_label_L_374_027b1c56:
@@ -11020,103 +11020,103 @@ translate brazilian Audrey_9_label_L_374_027b1c56:
 translate brazilian Audrey_9_label_L_374_4a41b0d1:
 
     # ch_Name "You're right."
-    ch_Name ""
+    ch_Name "Você está certo."
 
 # game/logic/events/audrey.rpy:3230
 translate brazilian Audrey_9_label_L_374_44747143:
 
     # ch_Name "All this beating around the bush is gonna make my dick fall off."
-    ch_Name ""
+    ch_Name "Toda essa enrolação vai fazer meu pau cair."
 
 # game/logic/events/audrey.rpy:3231
 translate brazilian Audrey_9_label_L_374_c90a8ee7:
 
     # ch_Name "It's time to get down to business."
-    ch_Name ""
+    ch_Name "É hora de começar a trabalhar."
 
 # game/logic/events/audrey.rpy:3233
 translate brazilian Audrey_9_label_L_374_fccecc40:
 
     # Audrey "Yeah, I didn't think you'd be that easy to get."
-    Audrey ""
+    Audrey "Sim, eu não pensei que você seria tão fácil de conseguir."
 
 # game/logic/events/audrey.rpy:3234
 translate brazilian Audrey_9_label_L_374_3f08abbc:
 
     # Audrey "Come here!"
-    Audrey ""
+    Audrey "Venha aqui!"
 
 # game/logic/events/audrey.rpy:3235
 translate brazilian Audrey_9_label_L_374_43819a01:
 
     # Audrey "I don't want to see such a beautiful boner go to waste."
-    Audrey ""
+    Audrey "Eu não quero ver uma ereção tão bonita ser desperdiçada."
 
 # game/logic/events/audrey.rpy:3237
 translate brazilian Audrey_9_label_L_374_aad58497:
 
     # Audrey "Welcome, my hero. Come into me!"
-    Audrey ""
+    Audrey "Bem-vindo, meu herói. Venha para mim!"
 
 # game/logic/events/audrey.rpy:3238
 translate brazilian Audrey_9_label_L_374_b62e5672:
 
     # ch_Name "{i}(There she is. Daring and stern Audrey, spreading her legs and begging me to come in.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Lá está ela. Audrey ousada e severa, abrindo as pernas e me implorando para entrar.){/i}"
 
 # game/logic/events/audrey.rpy:3239
 translate brazilian Audrey_9_label_L_374_dea75e42:
 
     # ch_Name "I'm coming..."
-    ch_Name ""
+    ch_Name "Estou indo..."
 
 # game/logic/events/audrey.rpy:3241
 translate brazilian Audrey_9_label_L_374_e1e37224:
 
     # ch_Name "{i}(Her body is all tense and her pelvis is trembling with lust.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Seu corpo está todo tenso e sua pélvis está tremendo de desejo.){/i}"
 
 # game/logic/events/audrey.rpy:3242
 translate brazilian Audrey_9_label_L_374_c8d88e70:
 
     # ch_Name "{i}(You can feel her longing for it. Why am I so tired?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Você pode sentir o desejo dela. Por que estou tão cansado?){/i}"
 
 # game/logic/events/audrey.rpy:3243
 translate brazilian Audrey_9_label_L_374_0288f3d6:
 
     # ch_Name "{i}(Okay. Get it together, [Name]. We can't be dirty.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ok. Reúna-se, [Name]. Não podemos ser sujos.){/i}"
 
 # game/logic/events/audrey.rpy:3245
 translate brazilian Audrey_9_label_L_374_d82175e4:
 
     # ch_Name "So, are you ready?"
-    ch_Name ""
+    ch_Name "Então, você está pronta?"
 
 # game/logic/events/audrey.rpy:3246
 translate brazilian Audrey_9_label_L_374_9a7f7bbe:
 
     # Audrey "I've been ready for a long time, asshole... Don't keep me in suspense!"
-    Audrey ""
+    Audrey "Estou pronta há muito tempo, idiota... Não me deixe em esperando!"
 
 # game/logic/events/audrey.rpy:3247
 translate brazilian Audrey_9_label_L_374_308fdf25:
 
     # ch_Name "What are you ready for? I don't know."
-    ch_Name ""
+    ch_Name "Para o que você está pronto? Eu não sei."
 
 # game/logic/events/audrey.rpy:3249
 translate brazilian Audrey_9_label_L_374_50032f6b:
 
     # ch_Name "Ask me properly."
-    ch_Name ""
+    ch_Name "Pergunte-me corretamente."
 
 # game/logic/events/audrey.rpy:3250
 translate brazilian Audrey_9_label_L_374_d15ab4ed:
 
     # Audrey "Fuck you... Fuck me like you've never fucked anyone before!"
-    Audrey ""
+    Audrey "Foda-se... me fode como nunca fodeu ninguém antes!"
 
 # game/logic/events/audrey.rpy:3252
 translate brazilian Audrey_9_label_L_374_1b12de55:
@@ -11128,31 +11128,31 @@ translate brazilian Audrey_9_label_L_374_1b12de55:
 translate brazilian Audrey_9_label_L_374_0f274ba8:
 
     # Audrey "Oh, yeah... It's so fleshy..."
-    Audrey ""
+    Audrey "Ah, sim... É tão carnudo..."
 
 # game/logic/events/audrey.rpy:3255
 translate brazilian Audrey_9_label_L_374_ed9d995d:
 
     # ch_Name "You like that?"
-    ch_Name ""
+    ch_Name "Você gosta disso?"
 
 # game/logic/events/audrey.rpy:3256
 translate brazilian Audrey_9_label_L_374_ec345f17:
 
     # Audrey "You bet I do. My hole is stretched to the limit."
-    Audrey ""
+    Audrey "Pode apostar que sim. Meu buraco está esticado até o limite."
 
 # game/logic/events/audrey.rpy:3258
 translate brazilian Audrey_9_label_L_374_3cb5df8f:
 
     # ch_Name "{i}(She's so slutty... She's begging to go deeper on my dick.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela é tão sacana... Ela está implorando para ir mais fundo no meu pau.){/i}"
 
 # game/logic/events/audrey.rpy:3260
 translate brazilian Audrey_9_label_L_374_8a0b8f7a:
 
     # ch_Name "{i}(I won't keep the lady waiting!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não vou deixar a senhora esperando!){/i}"
 
 # game/logic/events/audrey.rpy:3261
 translate brazilian Audrey_9_label_L_374_3b476c8d:
@@ -11170,25 +11170,25 @@ translate brazilian Audrey_9_label_L_374_fc11be4e:
 translate brazilian Audrey_9_label_L_374_5b7c657f:
 
     # ch_Name "Do you like it like that?"
-    ch_Name ""
+    ch_Name "Você gosta assim?"
 
 # game/logic/events/audrey.rpy:3265
 translate brazilian Audrey_9_label_L_374_fb7496e4:
 
     # Audrey "Oh yeah... That's it!"
-    Audrey ""
+    Audrey "Ah sim... É isso!"
 
 # game/logic/events/audrey.rpy:3266
 translate brazilian Audrey_9_label_L_374_818c76d3:
 
     # ch_Name "{i}(She seemed desperate for a good fuck.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela parecia desesperada por uma boa foda.){/i}"
 
 # game/logic/events/audrey.rpy:3268
 translate brazilian Audrey_9_label_L_374_f9573c34:
 
     # Audrey "You're so... good..."
-    Audrey ""
+    Audrey "Você é tão... bom..."
 
 # game/logic/events/audrey.rpy:3269
 translate brazilian Audrey_9_label_L_374_3b476c8d_1:
@@ -11206,13 +11206,13 @@ translate brazilian Audrey_9_label_L_374_fac02ba5:
 translate brazilian Audrey_9_label_L_374_53a453ad:
 
     # Audrey "Deeper!"
-    Audrey ""
+    Audrey "Mais fundo!"
 
 # game/logic/events/audrey.rpy:3273
 translate brazilian Audrey_9_label_L_374_730cfb2c:
 
     # Audrey "So...{w} Good..."
-    Audrey ""
+    Audrey "Tão...{w} Bom..."
 
 # game/logic/events/audrey.rpy:3274
 translate brazilian Audrey_9_label_L_374_4ee2d01e:
@@ -11224,127 +11224,127 @@ translate brazilian Audrey_9_label_L_374_4ee2d01e:
 translate brazilian Audrey_9_label_L_374_9eb15a47:
 
     # ch_Name "{i}(Something's starting to make me more queasy... Shit.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Algo está começando a me deixar mais enjoado... Merda.){/i}"
 
 # game/logic/events/audrey.rpy:3277
 translate brazilian Audrey_9_label_L_374_bce11716:
 
     # ch_Name "{i}(It's hard to concentrate on sex.){/i}"
-    ch_Name ""
+    ch_Name "{i}(É difícil se concentrar no sexo.){/i}"
 
 # game/logic/events/audrey.rpy:3278
 translate brazilian Audrey_9_label_L_374_1c13f9c8:
 
     # Audrey "Would you like to change positions?"
-    Audrey ""
+    Audrey "Você gostaria de mudar de posição?"
 
 # game/logic/events/audrey.rpy:3279
 translate brazilian Audrey_9_label_L_374_c9cfd758:
 
     # Audrey "For a change."
-    Audrey ""
+    Audrey "Para variar."
 
 # game/logic/events/audrey.rpy:3281
 translate brazilian Audrey_9_label_L_374_5f78a841:
 
     # ch_Name "Phew... Well, I could."
-    ch_Name ""
+    ch_Name "Ufa... Bem, eu poderia."
 
 # game/logic/events/audrey.rpy:3282
 translate brazilian Audrey_9_label_L_374_9776e8e2:
 
     # ch_Name "Despite my slight fatigue, I'm ready to continue."
-    ch_Name ""
+    ch_Name "Apesar do meu leve cansaço, estou pronto para continuar."
 
 # game/logic/events/audrey.rpy:3283
 translate brazilian Audrey_9_label_L_374_76f967f4:
 
     # ch_Name "{i}(Maybe it would be easier if I lay down.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Talvez fosse mais fácil se eu me deitasse.){/i}"
 
 # game/logic/events/audrey.rpy:3285
 translate brazilian Audrey_9_label_L_374_7289e44c:
 
     # Audrey "You look a little frail. Will your boner hold up?"
-    Audrey ""
+    Audrey "Você parece um pouco frágil. Seu tesão vai aguentar?"
 
 # game/logic/events/audrey.rpy:3286
 translate brazilian Audrey_9_label_L_374_3c5c2101:
 
     # ch_Name "Of course it will."
-    ch_Name ""
+    ch_Name "Claro que sim."
 
 # game/logic/events/audrey.rpy:3287
 translate brazilian Audrey_9_label_L_374_6cb9f122:
 
     # ch_Name "Lie on your side, with your back to me."
-    ch_Name ""
+    ch_Name "Deite-se de lado, de costas para mim."
 
 # game/logic/events/audrey.rpy:3289
 translate brazilian Audrey_9_label_L_374_dca7d3e3:
 
     # Audrey "Oh, you're taking the reins?"
-    Audrey ""
+    Audrey "Ah, você está tomando as rédeas?"
 
 # game/logic/events/audrey.rpy:3290
 translate brazilian Audrey_9_label_L_374_2c88481a:
 
     # Audrey "I like that."
-    Audrey ""
+    Audrey "Eu gosto disso."
 
 # game/logic/events/audrey.rpy:3291
 translate brazilian Audrey_9_label_L_374_de2d39c7:
 
     # Audrey "I love a man with balls."
-    Audrey ""
+    Audrey "Eu amo um homem com culhões."
 
 # game/logic/events/audrey.rpy:3298
 translate brazilian Audrey_9_label_L_374_a10d7e24:
 
     # Audrey "Wait, not so fast..."
-    Audrey ""
+    Audrey "Espere, não tão rápido..."
 
 # game/logic/events/audrey.rpy:3299
 translate brazilian Audrey_9_label_L_374_e69908d2:
 
     # Audrey "Don't come in."
-    Audrey ""
+    Audrey "Não entre."
 
 # game/logic/events/audrey.rpy:3301
 translate brazilian Audrey_9_label_L_374_f113a10a:
 
     # ch_Name "Are you sure?"
-    ch_Name ""
+    ch_Name "Tem certeza?"
 
 # game/logic/events/audrey.rpy:3302
 translate brazilian Audrey_9_label_L_374_4eb4af5b:
 
     # ch_Name "Did something happen?"
-    ch_Name ""
+    ch_Name "Aconteceu alguma coisa?"
 
 # game/logic/events/audrey.rpy:3304
 translate brazilian Audrey_9_label_L_374_016520b8:
 
     # Audrey "No, everything's fine."
-    Audrey ""
+    Audrey "Não, está tudo bem."
 
 # game/logic/events/audrey.rpy:3305
 translate brazilian Audrey_9_label_L_374_59f115c4:
 
     # Audrey "I want to look into your eyes when you come in."
-    Audrey ""
+    Audrey "Eu quero olhar em seus olhos quando você entrar."
 
 # game/logic/events/audrey.rpy:3306
 translate brazilian Audrey_9_label_L_374_96d504cd:
 
     # ch_Name "{i}(Strangely, that sounds too romantic for Audrey...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Estranhamente, isso soa muito romântico para Audrey...){/i}"
 
 # game/logic/events/audrey.rpy:3308
 translate brazilian Audrey_9_label_L_374_f9cb4485:
 
     # ch_Name "{i}(But I kind of like it...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas eu meio que gosto...){/i}"
 
 # game/logic/events/audrey.rpy:3309
 translate brazilian Audrey_9_label_L_374_175d9b36:
@@ -11368,7 +11368,7 @@ translate brazilian Audrey_9_label_L_374_eaa9ce6d:
 translate brazilian Audrey_9_label_L_374_357b353a:
 
     # Audrey "Now just breathe..."
-    Audrey ""
+    Audrey "Agora é só respirar..."
 
 # game/logic/events/audrey.rpy:3314
 translate brazilian Audrey_9_label_L_374_8c41bb6f:
@@ -11380,43 +11380,43 @@ translate brazilian Audrey_9_label_L_374_8c41bb6f:
 translate brazilian Audrey_9_label_L_374_caa8bb33:
 
     # ch_Name "{i}(It's happening again...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Está acontecendo de novo...){/i}"
 
 # game/logic/events/audrey.rpy:3318
 translate brazilian Audrey_9_label_L_374_97c87cbe:
 
     # ch_Name "{i}(It's like she's feeding off my magical powers.){/i}"
-    ch_Name ""
+    ch_Name "{i}(É como se ela estivesse se alimentando dos meus poderes mágicos.){/i}"
 
 # game/logic/events/audrey.rpy:3320
 translate brazilian Audrey_9_label_L_374_f7b5d1df:
 
     # Audrey "Are you ready to get your huge cock back in my hole?"
-    Audrey ""
+    Audrey "Você está pronta para colocar seu pau enorme de volta no meu buraco?"
 
 # game/logic/events/audrey.rpy:3321
 translate brazilian Audrey_9_label_L_374_6acac6e1:
 
     # ch_Name "Oh... I guess..."
-    ch_Name ""
+    ch_Name "Ah... eu acho..."
 
 # game/logic/events/audrey.rpy:3322
 translate brazilian Audrey_9_label_L_374_fb9810e8:
 
     # ch_Name "I'm not sure."
-    ch_Name ""
+    ch_Name "Não tenho certeza."
 
 # game/logic/events/audrey.rpy:3324
 translate brazilian Audrey_9_label_L_374_606788c1:
 
     # ch_Name "What was that all about?"
-    ch_Name ""
+    ch_Name "O que foi isso?"
 
 # game/logic/events/audrey.rpy:3325
 translate brazilian Audrey_9_label_L_374_757a49a6:
 
     # ch_Name "My head is spinning..."
-    ch_Name ""
+    ch_Name "Minha cabeça está girando..."
 
 # game/logic/events/audrey.rpy:3326
 translate brazilian Audrey_9_label_L_374_b385b852:
@@ -11428,55 +11428,55 @@ translate brazilian Audrey_9_label_L_374_b385b852:
 translate brazilian Audrey_9_label_L_374_73b628b1:
 
     # Audrey "Stop whining and asking questions, okay?"
-    Audrey ""
+    Audrey "Pare de choramingar e fazer perguntas, ok?"
 
 # game/logic/events/audrey.rpy:3329
 translate brazilian Audrey_9_label_L_374_4e9c49a7:
 
     # Audrey "You know what I want you to do!"
-    Audrey ""
+    Audrey "Você sabe o que eu quero que você faça!"
 
 # game/logic/events/audrey.rpy:3330
 translate brazilian Audrey_9_label_L_374_8bacebb2:
 
     # Audrey "FUCK ME."
-    Audrey ""
+    Audrey "ME FODE PORRA."
 
 # game/logic/events/audrey.rpy:3332
 translate brazilian Audrey_9_label_L_374_6d8e0e82:
 
     # ch_Name "Oh... All right."
-    ch_Name ""
+    ch_Name "Ah... Tudo bem."
 
 # game/logic/events/audrey.rpy:3333
 translate brazilian Audrey_9_label_L_374_48dfd8d1:
 
     # ch_Name "How can I refuse such a request?"
-    ch_Name ""
+    ch_Name "Como posso recusar tal pedido?"
 
 # game/logic/events/audrey.rpy:3335
 translate brazilian Audrey_9_label_L_374_11a1ab31:
 
     # Audrey "That's better!"
-    Audrey ""
+    Audrey "Assim está melhor!"
 
 # game/logic/events/audrey.rpy:3336
 translate brazilian Audrey_9_label_L_374_8df623f8:
 
     # Audrey "Oh yeah..."
-    Audrey ""
+    Audrey "Ah sim..."
 
 # game/logic/events/audrey.rpy:3338
 translate brazilian Audrey_9_label_L_374_91d2e4e2:
 
     # ch_Name "{i}(I have to ignore the dizziness... It's too nice to stop.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tenho que ignorar a tontura... É bom demais para parar.){/i}"
 
 # game/logic/events/audrey.rpy:3340
 translate brazilian Audrey_9_label_L_374_ce804928:
 
     # ch_Name "Here I go!"
-    ch_Name ""
+    ch_Name "Aqui vou eu!"
 
 # game/logic/events/audrey.rpy:3341
 translate brazilian Audrey_9_label_L_374_fac02ba5_2:
@@ -11500,19 +11500,19 @@ translate brazilian Audrey_9_label_L_374_fac02ba5_3:
 translate brazilian Audrey_9_label_L_374_a41ea034:
 
     # ch_Name "{i}(I can feel the pleasure ripple through her body.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Posso sentir o prazer percorrer o corpo dela.){/i}"
 
 # game/logic/events/audrey.rpy:3346
 translate brazilian Audrey_9_label_L_374_be588d4a:
 
     # Audrey "Yes! Just like that!"
-    Audrey ""
+    Audrey "Sim! Assim mesmo!"
 
 # game/logic/events/audrey.rpy:3347
 translate brazilian Audrey_9_label_L_374_730cfb2c_1:
 
     # Audrey "So...{w} Good..."
-    Audrey ""
+    Audrey "Tão...{w} Bom..."
 
 # game/logic/events/audrey.rpy:3348
 translate brazilian Audrey_9_label_L_374_4ee2d01e_1:
@@ -11524,13 +11524,13 @@ translate brazilian Audrey_9_label_L_374_4ee2d01e_1:
 translate brazilian Audrey_9_label_L_374_3023ca42:
 
     # Audrey "Don't stop! Fuck me harder!"
-    Audrey ""
+    Audrey "Não pare! me fode mais forte!"
 
 # game/logic/events/audrey.rpy:3351
 translate brazilian Audrey_9_label_L_374_ce96d05e:
 
     # Audrey "Oh... Yes... That's it!"
-    Audrey ""
+    Audrey "Ah... Sim... É isso!"
 
 # game/logic/events/audrey.rpy:3352
 translate brazilian Audrey_9_label_L_374_3b476c8d_3:
@@ -11548,7 +11548,7 @@ translate brazilian Audrey_9_label_L_374_fac02ba5_4:
 translate brazilian Audrey_9_label_L_374_6ddc8059:
 
     # Audrey "Your cock is filling me completely... It feels so good..."
-    Audrey ""
+    Audrey "Seu pau está me enchendo completamente... É tão bom..."
 
 # game/logic/events/audrey.rpy:3356
 translate brazilian Audrey_9_label_L_374_fac02ba5_5:
@@ -11566,13 +11566,13 @@ translate brazilian Audrey_9_label_L_374_2d5b0d4b:
 translate brazilian Audrey_9_label_L_374_0ca82cfb:
 
     # Audrey "I'm about to have an orgasm..."
-    Audrey ""
+    Audrey "Estou prestes a ter um orgasmo..."
 
 # game/logic/events/audrey.rpy:3360
 translate brazilian Audrey_9_label_L_374_2183b87b:
 
     # ch_Name "{i}(I can do this!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu posso sentir isso!){/i}"
 
 # game/logic/events/audrey.rpy:3361
 translate brazilian Audrey_9_label_L_374_08cecdb3:
@@ -11584,7 +11584,7 @@ translate brazilian Audrey_9_label_L_374_08cecdb3:
 translate brazilian Audrey_9_label_L_374_eff5249f:
 
     # Audrey "I'm almost there..."
-    Audrey ""
+    Audrey "Estou quase lá..."
 
 # game/logic/events/audrey.rpy:3364
 translate brazilian Audrey_9_label_L_374_949a8990:
@@ -11596,37 +11596,37 @@ translate brazilian Audrey_9_label_L_374_949a8990:
 translate brazilian Audrey_9_label_L_374_a5de0c11:
 
     # Audrey "Oh... Yes. That's it!"
-    Audrey ""
+    Audrey "Ah... Sim. É isso!"
 
 # game/logic/events/audrey.rpy:3366
 translate brazilian Audrey_9_label_L_374_3dc1413f:
 
     # Audrey "I'm done..."
-    Audrey ""
+    Audrey "Terminei..."
 
 # game/logic/events/audrey.rpy:3368
 translate brazilian Audrey_9_label_L_374_919fd414:
 
     # Audrey "That was incredible!"
-    Audrey ""
+    Audrey "Isso foi incrível!"
 
 # game/logic/events/audrey.rpy:3369
 translate brazilian Audrey_9_label_L_374_060806f7:
 
     # ch_Name "{i}(It's strange that she's not even close to me anymore...){/i}"
-    ch_Name ""
+    ch_Name "{i}(É estranho que ela nem esteja mais perto de mim...){/i}"
 
 # game/logic/events/audrey.rpy:3370
 translate brazilian Audrey_9_label_L_374_60e4d6ff:
 
     # Audrey "How much longer are you gonna be in there?"
-    Audrey ""
+    Audrey "Quanto tempo mais você vai ficar aí?"
 
 # game/logic/events/audrey.rpy:3372
 translate brazilian Audrey_9_label_L_374_66f3430d:
 
     # Audrey "Finish it already!"
-    Audrey ""
+    Audrey "Termine já!"
 
 # game/logic/events/audrey.rpy:3373
 translate brazilian Audrey_9_label_L_374_43988d67:
@@ -11638,115 +11638,115 @@ translate brazilian Audrey_9_label_L_374_43988d67:
 translate brazilian Audrey_9_label_L_374_d5b4a72b:
 
     # ch_Name "To be honest, I'm not even close yet, baby."
-    ch_Name ""
+    ch_Name "Para ser honesto, ainda nem cheguei perto, baby."
 
 # game/logic/events/audrey.rpy:3376
 translate brazilian Audrey_9_label_L_374_74ff5f48:
 
     # Audrey "Why should that be my problem? Get it out."
-    Audrey ""
+    Audrey "Por que isso deveria ser meu problema? Tire isso daqui."
 
 # game/logic/events/audrey.rpy:3377
 translate brazilian Audrey_9_label_L_374_b510ad9f:
 
     # ch_Name "But..."
-    ch_Name ""
+    ch_Name "Mas..."
 
 # game/logic/events/audrey.rpy:3379
 translate brazilian Audrey_9_label_L_374_451c49e1:
 
     # Audrey "Get it out, I said!" with hpunch
-    Audrey "" with hpunch
+    Audrey "Saia daqui!" with hpunch
 
 # game/logic/events/audrey.rpy:3380
 translate brazilian Audrey_9_label_L_374_51fe0ce2:
 
     # ch_Name "Oh, okay, well..."
-    ch_Name ""
+    ch_Name "Ah, tudo bem, bem..."
 
 # game/logic/events/audrey.rpy:3381
 translate brazilian Audrey_9_label_L_374_ce338fb2:
 
     # ch_Name "But I'll need your help to cum."
-    ch_Name ""
+    ch_Name "Mas vou precisar de sua ajuda para gozar."
 
 # game/logic/events/audrey.rpy:3383
 translate brazilian Audrey_9_label_L_374_16df9d7f:
 
     # Audrey "Don't count on a blow job. I'm tired."
-    Audrey ""
+    Audrey "Não conte com um boquete. Estou cansada."
 
 # game/logic/events/audrey.rpy:3384
 translate brazilian Audrey_9_label_L_374_55ba7ed0:
 
     # Audrey "And you already got more than you deserve tonight."
-    Audrey ""
+    Audrey "E você já tem mais do que merece esta noite."
 
 # game/logic/events/audrey.rpy:3385
 translate brazilian Audrey_9_label_L_374_682578ae:
 
     # Audrey "If it helps, you can jerk off to me."
-    Audrey ""
+    Audrey "Se isso ajudar, você pode se masturbar comigo."
 
 # game/logic/events/audrey.rpy:3387
 translate brazilian Audrey_9_label_L_374_52fef265:
 
     # Audrey "But hurry up, I've got a lot to do."
-    Audrey ""
+    Audrey "Mas se apresse, eu tenho muito o que fazer."
 
 # game/logic/events/audrey.rpy:3388
 translate brazilian Audrey_9_label_L_374_baf22535:
 
     # ch_Name "{i}(So much for Audrey using me as a dildo on her feet.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Tanto para Audrey me usar como um vibrador em seus pés.){/i}"
 
 # game/logic/events/audrey.rpy:3390
 translate brazilian Audrey_9_label_L_374_97af16ee:
 
     # ch_Name "Now, now."
-    ch_Name ""
+    ch_Name "Agora, agora."
 
 # game/logic/events/audrey.rpy:3391
 translate brazilian Audrey_9_label_L_374_bddcd34a:
 
     # ch_Name "Your whims don't make it go any faster."
-    ch_Name ""
+    ch_Name "Seus caprichos não o fazem ir mais rápido."
 
 # game/logic/events/audrey.rpy:3393
 translate brazilian Audrey_9_label_L_374_5608b823:
 
     # ch_Name "{i}(Damn it... I should be at my limit by now.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Droga... Eu deveria estar no meu limite agora.){/i}"
 
 # game/logic/events/audrey.rpy:3394
 translate brazilian Audrey_9_label_L_374_6fb51edd:
 
     # ch_Name "{i}(And I hardly feel any pleasure...){/i}"
-    ch_Name ""
+    ch_Name "{i}(E quase não sinto prazer...){/i}"
 
 # game/logic/events/audrey.rpy:3396
 translate brazilian Audrey_9_label_L_374_ed7cd657:
 
     # ch_Name "{i}(What a bummer about this dry humping.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que chatice sobre essa transa seca.){/i}"
 
 # game/logic/events/audrey.rpy:3397
 translate brazilian Audrey_9_label_L_374_d1c738d9:
 
     # ch_Name "Something's wrong..."
-    ch_Name ""
+    ch_Name "Algo está errado..."
 
 # game/logic/events/audrey.rpy:3399
 translate brazilian Audrey_9_label_L_374_32246c07:
 
     # ch_Name "I'm passing out from fatigue and dizziness..."
-    ch_Name ""
+    ch_Name "Estou desmaiando de cansaço e tontura..."
 
 # game/logic/events/audrey.rpy:3400
 translate brazilian Audrey_9_label_L_374_632fb309:
 
     # ch_Name "It's hard to concentrate."
-    ch_Name ""
+    ch_Name "É difícil se concentrar."
 
 # game/logic/events/audrey.rpy:3401
 translate brazilian Audrey_9_label_L_374_9caeb230:
@@ -11758,151 +11758,151 @@ translate brazilian Audrey_9_label_L_374_9caeb230:
 translate brazilian Audrey_9_label_L_374_8709bc91:
 
     # Audrey "I wonder how that happened."
-    Audrey ""
+    Audrey "Eu me pergunto como isso aconteceu."
 
 # game/logic/events/audrey.rpy:3404
 translate brazilian Audrey_9_label_L_374_21eb70f9:
 
     # Audrey "Maybe you don't have enough vitamins in your system?"
-    Audrey ""
+    Audrey "Talvez você não tenha vitaminas suficientes em seu organismo?"
 
 # game/logic/events/audrey.rpy:3405
 translate brazilian Audrey_9_label_L_374_e216c47b:
 
     # ch_Name "Are you kidding me?"
-    ch_Name ""
+    ch_Name "Você está brincando comigo?"
 
 # game/logic/events/audrey.rpy:3407
 translate brazilian Audrey_9_label_L_374_5c96de3d:
 
     # Audrey "No, but I'm about to start."
-    Audrey ""
+    Audrey "Não, mas estou prestes a começar."
 
 # game/logic/events/audrey.rpy:3408
 translate brazilian Audrey_9_label_L_374_4533a1e0:
 
     # Audrey "Cause your dick is getting a little sluggish."
-    Audrey ""
+    Audrey "Porque seu pau está ficando um pouco mole."
 
 # game/logic/events/audrey.rpy:3409
 translate brazilian Audrey_9_label_L_374_36fbcfdf:
 
     # ch_Name "Wait, I need to get my head together."
-    ch_Name ""
+    ch_Name "Espere, eu preciso colocar minha cabeça no lugar."
 
 # game/logic/events/audrey.rpy:3411
 translate brazilian Audrey_9_label_L_374_1c2426a4:
 
     # Audrey "Oh, no, that's no good."
-    Audrey ""
+    Audrey "Oh, não, isso não é bom."
 
 # game/logic/events/audrey.rpy:3412
 translate brazilian Audrey_9_label_L_374_fa70fd98:
 
     # Audrey "Stop wasting my time and get lost, impotent."
-    Audrey ""
+    Audrey "Pare de desperdiçar meu tempo e se perca, impotente."
 
 # game/logic/events/audrey.rpy:3413
 translate brazilian Audrey_9_label_L_374_5ede8713:
 
     # ch_Name "Why so rude?"
-    ch_Name ""
+    ch_Name "Por que tão rude?"
 
 # game/logic/events/audrey.rpy:3415
 translate brazilian Audrey_9_label_L_374_0b5d45f8:
 
     # ch_Name "You already came, so what's it to you?"
-    ch_Name ""
+    ch_Name "Você já gozou, então o que você tem a ver?"
 
 # game/logic/events/audrey.rpy:3416
 translate brazilian Audrey_9_label_L_374_861ecc0e:
 
     # ch_Name "Besides, it's the first time."
-    ch_Name ""
+    ch_Name "Além disso, é a primeira vez."
 
 # game/logic/events/audrey.rpy:3417
 translate brazilian Audrey_9_label_L_374_e97777f9:
 
     # ch_Name "I usually have no problem getting a hard-on, I swear."
-    ch_Name ""
+    ch_Name "Eu normalmente não tenho problemas em ficar de pau duro, eu juro."
 
 # game/logic/events/audrey.rpy:3419
 translate brazilian Audrey_9_label_L_374_705a3291:
 
     # Audrey "Yes, that's what all impotent men say."
-    Audrey ""
+    Audrey "Sim, isso é o que todos os homens impotentes dizem."
 
 # game/logic/events/audrey.rpy:3420
 translate brazilian Audrey_9_label_L_374_f71fd2d0:
 
     # Audrey "Once a year and the stick shoots."
-    Audrey ""
+    Audrey "Uma vez por ano e a vara atira."
 
 # game/logic/events/audrey.rpy:3421
 translate brazilian Audrey_9_label_L_374_9fec9f08:
 
     # Audrey "Although yours didn't even shoot, just aimed."
-    Audrey ""
+    Audrey "Embora o seu nem tenha atirado, apenas mirou."
 
 # game/logic/events/audrey.rpy:3423
 translate brazilian Audrey_9_label_L_374_90f6ee1d:
 
     # ch_Name "That's not fair..."
-    ch_Name ""
+    ch_Name "Isso não é justo..."
 
 # game/logic/events/audrey.rpy:3424
 translate brazilian Audrey_9_label_L_374_d2d1281a:
 
     # ch_Name "My nickname is..."
-    ch_Name ""
+    ch_Name "Meu apelido é..."
 
 # game/logic/events/audrey.rpy:3426
 translate brazilian Audrey_9_label_L_374_5a8d862e:
 
     # Audrey "Stop wasting my time, [Name]! Get out of here."
-    Audrey ""
+    Audrey "Pare de desperdiçar meu tempo, [Name]! Saia daqui."
 
 # game/logic/events/audrey.rpy:3427
 translate brazilian Audrey_9_label_L_374_11dbf333:
 
     # Audrey "You can jerk off somewhere else."
-    Audrey ""
+    Audrey "Você pode se masturbar em outro lugar."
 
 # game/logic/events/audrey.rpy:3428
 translate brazilian Audrey_9_label_L_374_b510ad9f_1:
 
     # ch_Name "But..."
-    ch_Name ""
+    ch_Name "Mas..."
 
 # game/logic/events/audrey.rpy:3430
 translate brazilian Audrey_9_label_L_374_8af3dd15:
 
     # Audrey "There's the way out." with hpunch
-    Audrey "" with hpunch
+    Audrey "Existe a saída." with hpunch
 
 # game/logic/events/audrey.rpy:3431
 translate brazilian Audrey_9_label_L_374_8b5ae744:
 
     # ch_Name "{i}(Unbelievable!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Inacreditável!){/i}"
 
 # game/logic/events/audrey.rpy:3432
 translate brazilian Audrey_9_label_L_374_e00bb96c:
 
     # ch_Name "{i}(What a bitch...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que vadia...){/i}"
 
 # game/logic/events/audrey.rpy:3433
 translate brazilian Audrey_9_label_L_374_935f6ba4:
 
     # ch_Name "{i}(I need to figure out why I'm so fucked up today.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Preciso descobrir por que estou tão fodido hoje.){/i}"
 
 # game/logic/events/audrey.rpy:3434
 translate brazilian Audrey_9_label_L_374_b856a391:
 
     # ch_Name "{i}(And offer her round two.){/i}"
-    ch_Name ""
+    ch_Name "{i}(E ofereça a segunda rodada.){/i}"
 
 # game/logic/events/audrey.rpy:3435
 translate brazilian Audrey_9_label_L_374_25aa0e12:
@@ -11914,585 +11914,585 @@ translate brazilian Audrey_9_label_L_374_25aa0e12:
 translate brazilian Audrey_9_label_L_374_3e3e63f8:
 
     # ch_Name "Good luck."
-    ch_Name ""
+    ch_Name "Boa sorte."
 
 # game/logic/events/audrey.rpy:3442
 translate brazilian Audrey_9_label_L_549_358a33d6:
 
     # Audrey "It seems that you've already said everything."
-    Audrey ""
+    Audrey "Parece que você já disse tudo."
 
 # game/logic/events/audrey.rpy:3443
 translate brazilian Audrey_9_label_L_549_9a35515a:
 
     # ch_Name "No, listen!"
-    ch_Name ""
+    ch_Name "Não, preste atenção!"
 
 # game/logic/events/audrey.rpy:3444
 translate brazilian Audrey_9_label_L_549_0223d973:
 
     # ch_Name "I just want to say sorry."
-    ch_Name ""
+    ch_Name "Só quero pedir desculpas."
 
 # game/logic/events/audrey.rpy:3445
 translate brazilian Audrey_9_label_L_549_9b402ff9:
 
     # ch_Name "I don't know what was wrong with me."
-    ch_Name ""
+    ch_Name "Eu não sei o que havia de errado comigo."
 
 # game/logic/events/audrey.rpy:3447
 translate brazilian Audrey_9_label_L_549_0c559cfa:
 
     # ch_Name "Just weird thoughts in my mind."
-    ch_Name ""
+    ch_Name "Apenas pensamentos estranhos em minha mente."
 
 # game/logic/events/audrey.rpy:3448
 translate brazilian Audrey_9_label_L_549_08260743:
 
     # ch_Name "But maybe we can fix it somehow?"
-    ch_Name ""
+    ch_Name "Mas talvez possamos consertar isso de alguma forma?"
 
 # game/logic/events/audrey.rpy:3449
 translate brazilian Audrey_9_label_L_549_548ddb4a:
 
     # Audrey "Fix it?"
-    Audrey ""
+    Audrey "Corrigir?"
 
 # game/logic/events/audrey.rpy:3450
 translate brazilian Audrey_9_label_L_549_58f28af0:
 
     # Audrey "Last time you just turned around and walked out."
-    Audrey ""
+    Audrey "A última vez que você se virou e saiu."
 
 # game/logic/events/audrey.rpy:3451
 translate brazilian Audrey_9_label_L_549_0b493631:
 
     # ch_Name "I just..."
-    ch_Name ""
+    ch_Name "Eu apenas..."
 
 # game/logic/events/audrey.rpy:3453
 translate brazilian Audrey_9_label_L_549_54e334b5:
 
     # Audrey "You just rejected me!"
-    Audrey ""
+    Audrey "Você acabou de me rejeitar!"
 
 # game/logic/events/audrey.rpy:3454
 translate brazilian Audrey_9_label_L_549_ffac1830:
 
     # Audrey "Do you really think that we can fix it easily?"
-    Audrey ""
+    Audrey "Você realmente acha que podemos consertar isso facilmente?"
 
 # game/logic/events/audrey.rpy:3455
 translate brazilian Audrey_9_label_L_549_37f4909f:
 
     # ch_Name "I do apologize, Audrey."
-    ch_Name ""
+    ch_Name "Peço desculpas, Audrey."
 
 # game/logic/events/audrey.rpy:3456
 translate brazilian Audrey_9_label_L_549_90fe3188:
 
     # ch_Name "And I really want to make amends."
-    ch_Name ""
+    ch_Name "E eu realmente quero fazer as pazes."
 
 # game/logic/events/audrey.rpy:3458
 translate brazilian Audrey_9_label_L_549_c64eba57:
 
     # ch_Name "Everybody makes mistakes."
-    ch_Name ""
+    ch_Name "Todo mundo comete erros."
 
 # game/logic/events/audrey.rpy:3459
 translate brazilian Audrey_9_label_L_549_bb727a62:
 
     # ch_Name "Even you."
-    ch_Name ""
+    ch_Name "Até você."
 
 # game/logic/events/audrey.rpy:3460
 translate brazilian Audrey_9_label_L_549_7dd1dc2a:
 
     # ch_Name "And even me."
-    ch_Name ""
+    ch_Name "E até eu."
 
 # game/logic/events/audrey.rpy:3461
 translate brazilian Audrey_9_label_L_549_a9fa5c5b:
 
     # Audrey "Enough chitchat!"
-    Audrey ""
+    Audrey "Chega de conversa fiada!"
 
 # game/logic/events/audrey.rpy:3463
 translate brazilian Audrey_9_label_L_549_5c2df43f:
 
     # Audrey "If you really want to fix things..."
-    Audrey ""
+    Audrey "Se você realmente quer consertar as coisas..."
 
 # game/logic/events/audrey.rpy:3464
 translate brazilian Audrey_9_label_L_549_ac30b59c:
 
     # Audrey "...then prove it not by words, but by actions."
-    Audrey ""
+    Audrey "...então prove não com palavras, mas com ações."
 
 # game/logic/events/audrey.rpy:3465
 translate brazilian Audrey_9_label_L_549_c65bd153:
 
     # ch_Name "Let's go to your bedroom."
-    ch_Name ""
+    ch_Name "Vamos para o seu quarto."
 
 # game/logic/events/audrey.rpy:3467
 translate brazilian Audrey_9_label_L_549_b4c45eff:
 
     # ch_Name "And there I will have a great opportunity to demonstrate my good intentions."
-    ch_Name ""
+    ch_Name "E lá terei uma grande oportunidade de demonstrar minhas boas intenções."
 
 # game/logic/events/audrey.rpy:3468
 translate brazilian Audrey_9_label_L_549_654c5dd1:
 
     # ch_Name "{i}(Oh, Audrey, it's so obvious that you want it even more than I do.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ah, Audrey, é tão óbvio que você quer ainda mais do que eu.){/i}"
 
 # game/logic/events/audrey.rpy:3469
 translate brazilian Audrey_9_label_L_549_d03e2d63:
 
     # ch_Name "{i}(I see how even now you're shaking with excitement.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vejo como até agora você está tremendo de emoção.){/i}"
 
 # game/logic/events/audrey.rpy:3471
 translate brazilian Audrey_9_label_L_549_7b922284:
 
     # Audrey "I will wait for you there then."
-    Audrey ""
+    Audrey "Eu vou esperar por você lá então."
 
 # game/logic/events/audrey.rpy:3472
 translate brazilian Audrey_9_label_L_549_381e6e50:
 
     # Audrey "I hope you don't chicken out again."
-    Audrey ""
+    Audrey "Espero que você não se acovarde novamente."
 
 # game/logic/events/audrey.rpy:3477
 translate brazilian Audrey_9_label_L_549_b7ba6309:
 
     # ch_Name "Knock, knock. Can I come in?"
-    ch_Name ""
+    ch_Name "Toc, toc. Posso entrar?"
 
 # game/logic/events/audrey.rpy:3478
 translate brazilian Audrey_9_label_L_549_0247b421:
 
     # Audrey "Come in... Come in, of course!"
-    Audrey ""
+    Audrey "Entre... Entre, é claro!"
 
 # game/logic/events/audrey.rpy:3480
 translate brazilian Audrey_9_label_L_549_27401167:
 
     # ch_Name "{i}(Audrey is already standing half-naked...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Audrey já está seminua...){/i}"
 
 # game/logic/events/audrey.rpy:3481
 translate brazilian Audrey_9_label_L_549_4e018ad1:
 
     # ch_Name "{i}(She doesn't seem to have wasted any time.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela não parece ter perdido tempo.){/i}"
 
 # game/logic/events/audrey.rpy:3482
 translate brazilian Audrey_9_label_L_549_f5159450:
 
     # ch_Name "You look great, baby."
-    ch_Name ""
+    ch_Name "Você está ótima, querida."
 
 # game/logic/events/audrey.rpy:3483
 translate brazilian Audrey_9_label_L_549_1f4d73b7:
 
     # ch_Name "Is it for me?"
-    ch_Name ""
+    ch_Name "É para mim?"
 
 # game/logic/events/audrey.rpy:3485
 translate brazilian Audrey_9_label_L_549_85148292:
 
     # Audrey "Well, who else would it be for."
-    Audrey ""
+    Audrey "Bem, para quem mais seria."
 
 # game/logic/events/audrey.rpy:3486
 translate brazilian Audrey_9_label_L_549_b21e3827:
 
     # Audrey "I hope your wand is happy to see me too."
-    Audrey ""
+    Audrey "Espero que sua varinha esteja feliz em me ver também."
 
 # game/logic/events/audrey.rpy:3487
 translate brazilian Audrey_9_label_L_549_f8c18349:
 
     # Audrey "It has to be really hard if you want to satisfy me."
-    Audrey ""
+    Audrey "Tem que ser muito difícil se você quiser me satisfazer."
 
 # game/logic/events/audrey.rpy:3488
 translate brazilian Audrey_9_label_L_549_256187ef:
 
     # ch_Name "{i}(And she's straight.){/i}"
-    ch_Name ""
+    ch_Name "{i}(E ela é hetero.){/i}"
 
 # game/logic/events/audrey.rpy:3490
 translate brazilian Audrey_9_label_L_549_8186bad7:
 
     # Audrey "Get ready for an incredible spectacle, handsome."
-    Audrey ""
+    Audrey "Prepare-se para um espetáculo incrível, lindo."
 
 # game/logic/events/audrey.rpy:3491
 translate brazilian Audrey_9_label_L_549_aa7d9014:
 
     # Audrey "I'm already waiting for you."
-    Audrey ""
+    Audrey "Já estou te esperando."
 
 # game/logic/events/audrey.rpy:3492
 translate brazilian Audrey_9_label_L_549_9c13a925:
 
     # ch_Name "{i}(I wonder if it's the hunger talking, or if she's really attracted to me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu me pergunto se é a fome falando, ou se ela está realmente atraída por mim.){/i}"
 
 # game/logic/events/audrey.rpy:3493
 translate brazilian Audrey_9_label_L_549_dc2ce2bf:
 
     # ch_Name "{i}(Either way, she gets what she wants. So do I.){/i}"
-    ch_Name ""
+    ch_Name "{i}(De qualquer forma, ela consegue o que quer. Eu também.){/i}"
 
 # game/logic/events/audrey.rpy:3495
 translate brazilian Audrey_9_label_L_549_cad1aecd:
 
     # Audrey "I can see how greedy you are looking at my breasts."
-    Audrey ""
+    Audrey "Eu posso ver o quão ganancioso você está olhando para os meus seios."
 
 # game/logic/events/audrey.rpy:3496
 translate brazilian Audrey_9_label_L_549_5ad37d03:
 
     # Audrey "All men are the same. But I even like that."
-    Audrey ""
+    Audrey "Todos os homens são iguais. Mas eu até gosto disso."
 
 # game/logic/events/audrey.rpy:3497
 translate brazilian Audrey_9_label_L_549_9155ac07:
 
     # Audrey "It's nice to know that you can seduce anyone."
-    Audrey ""
+    Audrey "É bom saber que você pode seduzir qualquer um."
 
 # game/logic/events/audrey.rpy:3498
 translate brazilian Audrey_9_label_L_549_7d681fb2:
 
     # ch_Name "Not all men are so easily seduced by naked breasts..."
-    ch_Name ""
+    ch_Name "Nem todos os homens são tão facilmente seduzidos por seios nus..."
 
 # game/logic/events/audrey.rpy:3500
 translate brazilian Audrey_9_label_L_549_1bff58ad:
 
     # Audrey "Breasts, maybe not..."
-    Audrey ""
+    Audrey "Seios, talvez não..."
 
 # game/logic/events/audrey.rpy:3501
 translate brazilian Audrey_9_label_L_549_b96816c6:
 
     # Audrey "But with this..."
-    Audrey ""
+    Audrey "Mas com isso..."
 
 # game/logic/events/audrey.rpy:3502
 translate brazilian Audrey_9_label_L_549_56f92b12:
 
     # ch_Name "{i}(What a beauty...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que beleza...){/i}"
 
 # game/logic/events/audrey.rpy:3503
 translate brazilian Audrey_9_label_L_549_370c0960:
 
     # Audrey "It'll blow any man's mind."
-    Audrey ""
+    Audrey "Isso pode explodir a mente de qualquer homem."
 
 # game/logic/events/audrey.rpy:3505
 translate brazilian Audrey_9_label_L_549_733d052a:
 
     # Audrey "I know."
-    Audrey ""
+    Audrey "Eu sei."
 
 # game/logic/events/audrey.rpy:3506
 translate brazilian Audrey_9_label_L_549_873367ef:
 
     # Audrey "You can't take your eyes off her..."
-    Audrey ""
+    Audrey "Você não consegue tirar os olhos dela..."
 
 # game/logic/events/audrey.rpy:3508
 translate brazilian Audrey_9_label_L_549_f1ed00c2:
 
     # ch_Name "{i}(She's right, her pussy is perfect.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela está certa, a buceta dela é perfeita.){/i}"
 
 # game/logic/events/audrey.rpy:3509
 translate brazilian Audrey_9_label_L_549_88b7bc56:
 
     # ch_Name "{i}(It's really hard to take your eyes off her.){/i}"
-    ch_Name ""
+    ch_Name "{i}(É muito difícil tirar os olhos dela.){/i}"
 
 # game/logic/events/audrey.rpy:3510
 translate brazilian Audrey_9_label_L_549_73426fbb:
 
     # ch_Name "{i}(I want to get inside her.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Quero entrar nela.){/i}"
 
 # game/logic/events/audrey.rpy:3511
 translate brazilian Audrey_9_label_L_549_3cf8f7d7:
 
     # Audrey "So what are you waiting for?"
-    Audrey ""
+    Audrey "Então, o que você está esperando?"
 
 # game/logic/events/audrey.rpy:3512
 translate brazilian Audrey_9_label_L_549_d08588a9:
 
     # ch_Name "{i}(Is she reading my mind?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela está lendo minha mente?){/i}"
 
 # game/logic/events/audrey.rpy:3519
 translate brazilian Audrey_9_label_L_549_b7ba6309_1:
 
     # ch_Name "Knock, knock. Can I come in?"
-    ch_Name ""
+    ch_Name "Toc, toc. Posso entrar?"
 
 # game/logic/events/audrey.rpy:3520
 translate brazilian Audrey_9_label_L_549_0247b421_1:
 
     # Audrey "Come in... Come in, of course!"
-    Audrey ""
+    Audrey "Entre... Entre, é claro!"
 
 # game/logic/events/audrey.rpy:3522
 translate brazilian Audrey_9_label_L_549_dda8d16d:
 
     # ch_Name "{i}(Audrey's already standing there half-naked...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Audrey já está ali seminua...){/i}"
 
 # game/logic/events/audrey.rpy:3523
 translate brazilian Audrey_9_label_L_549_4e018ad1_1:
 
     # ch_Name "{i}(She doesn't seem to have wasted any time.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela não parece ter perdido tempo.){/i}"
 
 # game/logic/events/audrey.rpy:3524
 translate brazilian Audrey_9_label_L_549_e2a82295:
 
     # ch_Name "You look great, babe."
-    ch_Name ""
+    ch_Name "Você está ótima, querida."
 
 # game/logic/events/audrey.rpy:3525
 translate brazilian Audrey_9_label_L_549_1f4d73b7_1:
 
     # ch_Name "Is it for me?"
-    ch_Name ""
+    ch_Name "É para mim?"
 
 # game/logic/events/audrey.rpy:3527
 translate brazilian Audrey_9_label_L_549_85148292_1:
 
     # Audrey "Well, who else would it be for."
-    Audrey ""
+    Audrey "Bem, para quem mais seria."
 
 # game/logic/events/audrey.rpy:3528
 translate brazilian Audrey_9_label_L_549_b21e3827_1:
 
     # Audrey "I hope your wand is happy to see me too."
-    Audrey ""
+    Audrey "Espero que sua varinha esteja feliz em me ver também."
 
 # game/logic/events/audrey.rpy:3529
 translate brazilian Audrey_9_label_L_549_f8c18349_1:
 
     # Audrey "It has to be really hard if you want to satisfy me."
-    Audrey ""
+    Audrey "Tem que ser muito difícil se você quiser me satisfazer."
 
 # game/logic/events/audrey.rpy:3530
 translate brazilian Audrey_9_label_L_549_256187ef_1:
 
     # ch_Name "{i}(And she's straight.){/i}"
-    ch_Name ""
+    ch_Name "{i}(E ela é hetero.){/i}"
 
 # game/logic/events/audrey.rpy:3532
 translate brazilian Audrey_9_label_L_549_8186bad7_1:
 
     # Audrey "Get ready for an incredible spectacle, handsome."
-    Audrey ""
+    Audrey "Prepare-se para um espetáculo incrível, lindo."
 
 # game/logic/events/audrey.rpy:3533
 translate brazilian Audrey_9_label_L_549_aa7d9014_1:
 
     # Audrey "I'm already waiting for you."
-    Audrey ""
+    Audrey "Já estou te esperando."
 
 # game/logic/events/audrey.rpy:3534
 translate brazilian Audrey_9_label_L_549_9c13a925_1:
 
     # ch_Name "{i}(I wonder if it's the hunger talking, or if she's really attracted to me.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu me pergunto se é a fome falando, ou se ela está realmente atraída por mim.){/i}"
 
 # game/logic/events/audrey.rpy:3535
 translate brazilian Audrey_9_label_L_549_dc2ce2bf_1:
 
     # ch_Name "{i}(Either way, she gets what she wants. So do I.){/i}"
-    ch_Name ""
+    ch_Name "{i}(De qualquer forma, ela consegue o que quer. Eu também.){/i}"
 
 # game/logic/events/audrey.rpy:3537
 translate brazilian Audrey_9_label_L_549_cad1aecd_1:
 
     # Audrey "I can see how greedy you are looking at my breasts."
-    Audrey ""
+    Audrey "Eu posso ver o quão ganancioso você está olhando para os meus seios."
 
 # game/logic/events/audrey.rpy:3538
 translate brazilian Audrey_9_label_L_549_5ad37d03_1:
 
     # Audrey "All men are the same. But I even like that."
-    Audrey ""
+    Audrey "Todos os homens são iguais. Mas eu até gosto disso."
 
 # game/logic/events/audrey.rpy:3539
 translate brazilian Audrey_9_label_L_549_9155ac07_1:
 
     # Audrey "It's nice to know that you can seduce anyone."
-    Audrey ""
+    Audrey "É bom saber que você pode seduzir qualquer um."
 
 # game/logic/events/audrey.rpy:3540
 translate brazilian Audrey_9_label_L_549_7d681fb2_1:
 
     # ch_Name "Not all men are so easily seduced by naked breasts..."
-    ch_Name ""
+    ch_Name "Nem todos os homens são tão facilmente seduzidos por seios nus..."
 
 # game/logic/events/audrey.rpy:3542
 translate brazilian Audrey_9_label_L_549_1bff58ad_1:
 
     # Audrey "Breasts, maybe not..."
-    Audrey ""
+    Audrey "Seios, talvez não..."
 
 # game/logic/events/audrey.rpy:3543
 translate brazilian Audrey_9_label_L_549_b96816c6_1:
 
     # Audrey "But with this..."
-    Audrey ""
+    Audrey "Mas com isso..."
 
 # game/logic/events/audrey.rpy:3544
 translate brazilian Audrey_9_label_L_549_56f92b12_1:
 
     # ch_Name "{i}(What a beauty...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que beleza...){/i}"
 
 # game/logic/events/audrey.rpy:3545
 translate brazilian Audrey_9_label_L_549_b2455ef9:
 
     # Audrey "It blows every man's mind."
-    Audrey ""
+    Audrey "Isso explode a mente de todos os homens."
 
 # game/logic/events/audrey.rpy:3547
 translate brazilian Audrey_9_label_L_549_f8c85f8c:
 
     # Audrey "Even if they're hiding it."
-    Audrey ""
+    Audrey "Mesmo que eles estejam escondendo."
 
 # game/logic/events/audrey.rpy:3548
 translate brazilian Audrey_9_label_L_549_68e1651d:
 
     # Audrey "You can't take your eyes off it..."
-    Audrey ""
+    Audrey "Você não consegue tirar os olhos disso..."
 
 # game/logic/events/audrey.rpy:3550
 translate brazilian Audrey_9_label_L_549_825965b7:
 
     # ch_Name "{i}(She's right, her dick is perfect.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela está certa, o pau dela é perfeito.){/i}"
 
 # game/logic/events/audrey.rpy:3551
 translate brazilian Audrey_9_label_L_549_a3638f09:
 
     # ch_Name "{i}(It's really hard to take your eyes off it.){/i}"
-    ch_Name ""
+    ch_Name "{i}(É muito difícil tirar os olhos disso.){/i}"
 
 # game/logic/events/audrey.rpy:3552
 translate brazilian Audrey_9_label_L_549_a8c308e7:
 
     # ch_Name "{i}(I can't wait to touch it.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mal posso esperar para tocá-lo.){/i}"
 
 # game/logic/events/audrey.rpy:3553
 translate brazilian Audrey_9_label_L_549_3cf8f7d7_1:
 
     # Audrey "So what are you waiting for?"
-    Audrey ""
+    Audrey "Então, o que você está esperando?"
 
 # game/logic/events/audrey.rpy:3554
 translate brazilian Audrey_9_label_L_549_d08588a9_1:
 
     # ch_Name "{i}(Is she reading my mind?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela está lendo minha mente?){/i}"
 
 translate brazilian strings:
 
     # game/logic/events/audrey.rpy:29
     old "0 Talk to Audrey"
-    new ""
+    new "0 Fale com Audrey"
 
     # game/logic/events/audrey.rpy:29
     old "4 Talk to Audrey"
-    new ""
+    new "4 Fale com Audrey"
 
     # game/logic/events/audrey.rpy:29
     old "5 Talk to Audrey"
-    new ""
+    new "5 Fale com Audrey"
 
     # game/logic/events/audrey.rpy:29
     old "6 Talk to Audrey"
-    new ""
+    new "6 Fale com Audrey"
 
     # game/logic/events/audrey.rpy:93
     old "3 Talk to Audrey"
-    new ""
+    new "3 Fale com Audrey"
 
     # game/logic/events/audrey.rpy:564
     old "Go find out"
-    new ""
+    new "Vá descobrir"
 
     # game/logic/events/audrey.rpy:564
     old "Ignore"
-    new ""
+    new "Ignorar"
 
     # game/logic/events/audrey.rpy:816
     old "It's weird"
-    new ""
+    new "É estranho"
 
     # game/logic/events/audrey.rpy:1470
     old "Try to kiss her"
-    new ""
+    new "Tente beijá-la"
 
     # game/logic/events/audrey.rpy:1470
     old "Ask her to leave"
-    new ""
+    new "Peça para ela sair"
 
     # game/logic/events/audrey.rpy:1560
     old "Boast"
-    new ""
+    new "Se orgulhar"
 
     # game/logic/events/audrey.rpy:1560
     old "Be shy"
-    new ""
+    new "Seja tímido"
 
     # game/logic/events/audrey.rpy:1696
     old "Check out her legs"
-    new ""
+    new "Olhe as pernas dela"
 
     # game/logic/events/audrey.rpy:1696
     old "Check out her tattoos"
-    new ""
+    new "Olhe as tatuagens dela"
 
     # game/logic/events/audrey.rpy:1696
     old "Touch her hand"
-    new ""
+    new "Toque a mão dela"
 
     # game/logic/events/audrey.rpy:1696
     old "Do nothing"
-    new ""
+    new "não faça nada"
 
     # game/logic/events/audrey.rpy:1964
     old "Take a look at Audrey"
-    new ""
+    new "Dê uma olhada em Audrey"
 
     # game/logic/events/audrey.rpy:1964
     old "Don't risk"
-    new ""
+    new "Não arrisque"
 
     # game/logic/events/audrey.rpy:2789
     old "Go after her"
-    new ""
+    new "Vá atrás dela"
 
     # game/logic/events/audrey.rpy:2789
     old "Stay here"
-    new ""
+    new "Fique aqui"
 
