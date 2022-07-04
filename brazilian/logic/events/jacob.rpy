@@ -1504,15 +1504,15 @@ translate brazilian strings:
 translate brazilian Samantha_3_label_43_6349d9c3:
 
     # ch_Name "{i}(Oh... I have her lesson in the schedule.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ah... eu tenho a aula dela na programação.){/i}"
 
 translate brazilian strings:
 
     # game/logic/events/jacob.rpy:15
     old "Ask about your origins"
-    new ""
+    new "Pergunte sobre suas origens"
 
     # game/logic/events/jacob.rpy:15
     old "Tell him you have the seal"
-    new ""
+    new "Diga a ele que você tem o selo"
 
