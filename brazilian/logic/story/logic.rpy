@@ -378,3 +378,689 @@ translate brazilian strings:
     old "Go to fishing"
     new "Vá pescar"
 
+# TODO: Translation updated at 2022-07-04 17:01
+
+# game/logic/story/logic.rpy:1449
+translate brazilian Boat_2_3_4b7c57d4:
+
+    # ch_Name "{i}(I spent the rest of the trip telling Haley about Willow's photoshoot.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1461
+translate brazilian Boat_2_4_007073d1:
+
+    # Audrey "Imagine living in a town like this."
+    Audrey ""
+
+# game/logic/story/logic.rpy:1462
+translate brazilian Boat_2_4_95818568:
+
+    # Samantha "I don't know. It has it's charms, but something is missing..."
+    Samantha ""
+
+# game/logic/story/logic.rpy:1463
+translate brazilian Boat_2_4_2575b1a3:
+
+    # ch_Name "You probably wish it had more clubs."
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1464
+translate brazilian Boat_2_4_80b2a1d3:
+
+    # Samantha "Well, at least one without strippers would be nice, yeah."
+    Samantha ""
+
+# game/logic/story/logic.rpy:1471
+translate brazilian Boat_2_4_5f08a21d:
+
+    # ch_Name "Where did Audrey go?"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1472
+translate brazilian Boat_2_4_baa077f2:
+
+    # Samantha "She doesn't handle ferry's very well."
+    Samantha ""
+
+# game/logic/story/logic.rpy:1473
+translate brazilian Boat_2_4_6daff9c9:
+
+    # Samantha "I think she'll take her nausea potion and come be back."
+    Samantha ""
+
+# game/logic/story/logic.rpy:1474
+translate brazilian Boat_2_4_da677df5:
+
+    # ch_Name "I see."
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1476
+translate brazilian Boat_2_4_a56e90b9:
+
+    # Audrey "I take it back, I wouldn't want to go through that every day."
+    Audrey ""
+
+# game/logic/story/logic.rpy:1477
+translate brazilian Boat_2_4_248600d2:
+
+    # Samantha "Didn't the nausea potion work?"
+    Samantha ""
+
+# game/logic/story/logic.rpy:1478
+translate brazilian Boat_2_4_c89e8e57:
+
+    # Audrey "It did for seasickness, but the taste of the potion makes me just as queasy..."
+    Audrey ""
+
+# game/logic/story/logic.rpy:1485
+translate brazilian Boat_2_4_7f6318e7:
+
+    # Jacob "Welcome back!"
+    Jacob ""
+
+# game/logic/story/logic.rpy:1486
+translate brazilian Boat_2_4_37b62455:
+
+    # Jacob "The ferry arrived almost on time this time. I'm proud of you."
+    Jacob ""
+
+# game/logic/story/logic.rpy:1488
+translate brazilian Boat_2_4_7515940f:
+
+    # Jacob "Now hurry up and go to bed."
+    Jacob ""
+
+# game/logic/story/logic.rpy:1489
+translate brazilian Boat_2_4_b33f353d:
+
+    # Jacob "To get your strength up before the school week begins."
+    Jacob ""
+
+# game/logic/story/logic.rpy:1494
+translate brazilian Boat_2_5_f415bec9:
+
+    # ch_Name "{i}(I hope Adele is okay.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1495
+translate brazilian Boat_2_5_bc858e84:
+
+    # ch_Name "{i}(I wish I had time to check before the boat.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1496
+translate brazilian Boat_2_5_0c1f4ac4:
+
+    # ch_Name "{i}(Now I'll be able to meet her only in a few weeks.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1503
+translate brazilian Boat_2_5_89bdb209:
+
+    # Haley "Where do I spend my evening in Dale?"
+    Haley ""
+
+# game/logic/story/logic.rpy:1504
+translate brazilian Boat_2_5_99e6c3bb:
+
+    # Haley "Well, at the library, of course! It has so many exciting books about magic!"
+    Haley ""
+
+# game/logic/story/logic.rpy:1505
+translate brazilian Boat_2_5_776a156f:
+
+    # ch_Name "{i}(I should consider creating a \"Haley Bingo\". I'd be a champion.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1506
+translate brazilian Boat_2_5_73e82aae:
+
+    # ch_Name "Heh, I should check it sometimes."
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1507
+translate brazilian Boat_2_5_4b59e2da:
+
+    # Haley "Cool! You can keep me company!"
+    Haley ""
+
+# game/logic/story/logic.rpy:1514
+translate brazilian Boat_2_5_7f6318e7:
+
+    # Jacob "Welcome back!"
+    Jacob ""
+
+# game/logic/story/logic.rpy:1515
+translate brazilian Boat_2_5_675afa6c:
+
+    # Jacob "I hope you had fun at Dale."
+    Jacob ""
+
+# game/logic/story/logic.rpy:1517
+translate brazilian Boat_2_5_4ae29bd7:
+
+    # Jacob "Get some sleep, everybody!"
+    Jacob ""
+
+# game/logic/story/logic.rpy:1518
+translate brazilian Boat_2_5_bd2d9016:
+
+    # Jacob "Tomorrow the train will take you home to your families."
+    Jacob ""
+
+# game/logic/story/logic.rpy:1553
+translate brazilian InStory_3_abf157bf:
+
+    # ch_Name "{i}(The rest of the week passed rather boringly.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1554
+translate brazilian InStory_3_ae2fc4ca:
+
+    # ch_Name "{i}(It was the same as usual...){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1561
+translate brazilian InStory_3_a5c77519:
+
+    # ch_Name "{i}(As usual, Joshi was getting into trouble in class.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1562
+translate brazilian InStory_3_35d34ab4:
+
+    # ch_Name "{i}(Until Victoria made him assist her.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1564
+translate brazilian InStory_3_0c81f79b:
+
+    # ch_Name "{i}(Joshi assures us that she makes the spells a little more painful on purpose...){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1565
+translate brazilian InStory_3_8ec2a876:
+
+    # ch_Name "{i}(To punish him for chatting all the time.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1566
+translate brazilian InStory_3_5c11fdfe:
+
+    # ch_Name "{i}(Somehow I believe that.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1573
+translate brazilian InStory_3_d05744ad:
+
+    # ch_Name "{i}(Haley volunteered to prepare some kind of report for Victoria.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1574
+translate brazilian InStory_3_3a733e82:
+
+    # ch_Name "{i}(So she didn't get a chance to spend time with me.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1575
+translate brazilian InStory_3_7a2b9f8f:
+
+    # ch_Name "{i}(It's hard with girls for whom studying always comes first.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1582
+translate brazilian InStory_3_b1e6c876:
+
+    # ch_Name "{i}(Naomi had another fight with Sabrina over discipline.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1583
+translate brazilian InStory_3_3e7ee529:
+
+    # ch_Name "{i}(It never ceases to amaze me how stubborn she is.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1584
+translate brazilian InStory_3_d2bac274:
+
+    # ch_Name "{i}(I'm surprised Sabrina hasn't complained about her to the principal yet.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1591
+translate brazilian InStory_3_0ce11923:
+
+    # ch_Name "{i}(And Lily and I helped Sabrina gather ingredients for potions again.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1592
+translate brazilian InStory_3_60b5a92d:
+
+    # ch_Name "{i}(Enjoyed the views of the wildlife.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1594
+translate brazilian InStory_3_c8869023:
+
+    # ch_Name "{i}(No one got lost this time.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1595
+translate brazilian InStory_3_8f3cb0e5:
+
+    # ch_Name "{i}(Sabrina didn't take a step away from us, just in case.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1602
+translate brazilian InStory_3_a4963a7b:
+
+    # ch_Name "{i}(No one ever found out about my heroic deed of saving the academy.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1603
+translate brazilian InStory_3_e2afec16:
+
+    # ch_Name "{i}(But the principal generously rewarded Leonheart with points and victory was in our pocket.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1604
+translate brazilian InStory_3_30b9f0a2:
+
+    # ch_Name "{i}(So now I have a great weekend ahead of me in Dale.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1606
+translate brazilian InStory_3_72d09876:
+
+    # ch_Name "{i}(The ship is about to depart!){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1607
+translate brazilian InStory_3_d186447e:
+
+    # ch_Name "{i}(I can't wait.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1614
+translate brazilian InStory_3_23a67b64:
+
+    # ch_Name "{i}(Here I am!){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1615
+translate brazilian InStory_3_26f82cba:
+
+    # ch_Name "{i}(It feels good to get a full breath of freedom.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1617
+translate brazilian InStory_3_48841934:
+
+    # ch_Name "{i}(There's so much to do!){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1618
+translate brazilian InStory_3_6437be82:
+
+    # ch_Name "{i}(But the first thing I'll do is check into a room at the Dale-ly.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1619
+translate brazilian InStory_3_e7dfb5fc:
+
+    # ch_Name "{i}(So tired of my old room.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1627
+translate brazilian InStory_3_5740228c:
+
+    # ch_Name "{i}(Maybe they have a better one available.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1628
+translate brazilian InStory_3_25076e48:
+
+    # ch_Name "{i}(I should check with Mina before I check in.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1629
+translate brazilian InStory_3_9b81a6e8:
+
+    # ch_Name "Hi! I have a favor to ask..."
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1636
+translate brazilian InStory_4_1e692147:
+
+    # ch_Name "So who won?"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1637
+translate brazilian InStory_4_9e76ffb0:
+
+    # Haley "We're about to find out."
+    Haley ""
+
+# game/logic/story/logic.rpy:1639
+translate brazilian InStory_4_df58dea4:
+
+    # Arthur "Dear students!"
+    Arthur ""
+
+# game/logic/story/logic.rpy:1640
+translate brazilian InStory_4_d683f700:
+
+    # Arthur "Congratulations on the successful completion of the first half of the school year!"
+    Arthur ""
+
+# game/logic/story/logic.rpy:1641
+translate brazilian InStory_4_3582ceaa:
+
+    # Arthur "Your friends and relatives are probably waiting for you to go home for Christmas."
+    Arthur ""
+
+# game/logic/story/logic.rpy:1642
+translate brazilian InStory_4_61b3d39a:
+
+    # Arthur "So everyone is welcome to take a two-week vacation and visit them."
+    Arthur ""
+
+# game/logic/story/logic.rpy:1644
+translate brazilian InStory_4_6e9c5840:
+
+    # ch_Name "Didn't we celebrate Yule recently?"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1645
+translate brazilian InStory_4_d4b4225b:
+
+    # Haley "Were you even listening to him?"
+    Haley ""
+
+# game/logic/story/logic.rpy:1646
+translate brazilian InStory_4_1afe7092:
+
+    # Haley "Yule is a magical holiday."
+    Haley ""
+
+# game/logic/story/logic.rpy:1647
+translate brazilian InStory_4_4ffcd011:
+
+    # Haley "And Christmas vacation is for spending it with relatives."
+    Haley ""
+
+# game/logic/story/logic.rpy:1648
+translate brazilian InStory_4_b16df4e3:
+
+    # Haley "Don't interfere with Arthur's listening, please."
+    Haley ""
+
+# game/logic/story/logic.rpy:1650
+translate brazilian InStory_4_e226270c:
+
+    # Arthur "I'm sure I don't need to remind you that our society keeps magic a closely guarded secret."
+    Arthur ""
+
+# game/logic/story/logic.rpy:1651
+translate brazilian InStory_4_58675ec4:
+
+    # Arthur "So stick to the legend of your education."
+    Arthur ""
+
+# game/logic/story/logic.rpy:1652
+translate brazilian InStory_4_968753a4:
+
+    # Arthur "And not a word about what Cordale Academy really is."
+    Arthur ""
+
+# game/logic/story/logic.rpy:1653
+translate brazilian InStory_4_b587ff89:
+
+    # Arthur "Remember, after six months with us - you're already considered wizards."
+    Arthur ""
+
+# game/logic/story/logic.rpy:1654
+translate brazilian InStory_4_856da4ee:
+
+    # Arthur "And the Ministry of Magic severely punishes wizards..."
+    Arthur ""
+
+# game/logic/story/logic.rpy:1655
+translate brazilian InStory_4_26dd68c1:
+
+    # Arthur "...who violate the rules of the secret existence of the magical world."
+    Arthur ""
+
+# game/logic/story/logic.rpy:1656
+translate brazilian InStory_4_221022b2:
+
+    # Arthur "I hope you heard me and understood the seriousness of the matter."
+    Arthur ""
+
+# game/logic/story/logic.rpy:1658
+translate brazilian InStory_4_d440a389:
+
+    # Arthur "And now, for the organization of the journey home..."
+    Arthur ""
+
+# game/logic/story/logic.rpy:1659
+translate brazilian InStory_4_33d82b80:
+
+    # Arthur "...as of today, there will be trains running from our station."
+    Arthur ""
+
+# game/logic/story/logic.rpy:1660
+translate brazilian InStory_4_b160b985:
+
+    # Arthur "The schedule will be made available to your elders."
+    Arthur ""
+
+# game/logic/story/logic.rpy:1661
+translate brazilian InStory_4_57c3b417:
+
+    # Arthur "I hope you have a good time with your families and return safe and sound."
+    Arthur ""
+
+# game/logic/story/logic.rpy:1662
+translate brazilian InStory_4_a3e3f26f:
+
+    # Arthur "See you in two weeks!"
+    Arthur ""
+
+# game/logic/story/logic.rpy:1663
+translate brazilian InStory_4_33c2dfd7:
+
+    # ch_Name "{i}(Christmas with Samantha's family...){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1664
+translate brazilian InStory_4_9c436c0f:
+
+    # ch_Name "{i}(I don't think it will be that festive.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1665
+translate brazilian InStory_4_14d7dfac:
+
+    # ch_Name "{i}(But staying here by myself when everyone else leaves will be lonely, too...){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1666
+translate brazilian InStory_4_4e1ed717:
+
+    # ch_Name "{i}(Eh, what to do...){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1667
+translate brazilian InStory_4_5a56eb7d:
+
+    # ch_Name "{i}(No matter what you choose, I'll have a lousy Christmas anyway...){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1668
+translate brazilian InStory_4_d37f607f:
+
+    # ch_Name "{i}(I can't wait for these two weeks to go by!){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1670
+translate brazilian InStory_4_39f9c506:
+
+    # Arthur "Oh, I almost forgot!"
+    Arthur ""
+
+# game/logic/story/logic.rpy:1671
+translate brazilian InStory_4_d4f56add:
+
+    # Arthur "Congratulations to Leonheart for winning the weekly house competition!"
+    Arthur ""
+
+# game/logic/story/logic.rpy:1672
+translate brazilian InStory_4_f06021cf:
+
+    # Arthur "It's important to honor our traditions, so you can go to Dale."
+    Arthur ""
+
+# game/logic/story/logic.rpy:1673
+translate brazilian InStory_4_c8a2f252:
+
+    # Arthur "Don't worry. You'll be able to take train home after you return."
+    Arthur ""
+
+# game/logic/story/logic.rpy:1674
+translate brazilian InStory_4_4edb884a:
+
+    # Arthur "The boat is already waiting for you for anyone who wants to visit Dale one last time this year."
+    Arthur ""
+
+# game/logic/story/logic.rpy:1675
+translate brazilian InStory_4_24496e03:
+
+    # Arthur "Have fun!"
+    Arthur ""
+
+# game/logic/story/logic.rpy:1677
+translate brazilian InStory_4_9788e3a6:
+
+    # Haley "Wow! That's great!"
+    Haley ""
+
+# game/logic/story/logic.rpy:1678
+translate brazilian InStory_4_7d583343:
+
+    # Haley "It would be sad to leave without tasting Ahchi's coffee one last time."
+    Haley ""
+
+# game/logic/story/logic.rpy:1679
+translate brazilian InStory_4_e06a7df8:
+
+    # ch_Name "You've read my thoughts!"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1680
+translate brazilian InStory_4_1141adc1:
+
+    # ch_Name "Let's go to the boat!"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1681
+translate brazilian InStory_4_148911c7:
+
+    # Haley "Yay!"
+    Haley ""
+
+# game/logic/story/logic.rpy:1688
+translate brazilian InStory_4_4154be42:
+
+    # ch_Name "{i}(Wow, Haley got so excited about Dale...){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1689
+translate brazilian InStory_4_3982ac6f:
+
+    # ch_Name "{i}(I can barely catch up to her.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1690
+translate brazilian InStory_4_705c95fb:
+
+    # ch_Name "{i}(Maybe she needs some space after what happened...){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1692
+translate brazilian InStory_4_bddfe8f3:
+
+    # ch_Name "{i}(Yeah, probably.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1693
+translate brazilian InStory_4_36972a68:
+
+    # ch_Name "{i}(I shouldn't be so persistent about keeping her company.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1694
+translate brazilian InStory_4_c3f03a90:
+
+    # ch_Name "{i}(Besides, I have a lot of stuff to do in Dale.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1696
+translate brazilian InStory_4_e0dda525:
+
+    # ch_Name "{i}(Ah, this is nice.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1697
+translate brazilian InStory_4_d964704d:
+
+    # ch_Name "{i}(Best coffee in the world, here I go!){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1704
+translate brazilian InStory_4_6ecef2b8:
+
+    # ch_Name "{i}(Alright, [Name]. No need to think about awkward Christmas with Rouse's.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1705
+translate brazilian InStory_4_d851ebcd:
+
+    # ch_Name "{i}(Right now you're going to have a blast in Dale.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1707
+translate brazilian InStory_4_5807b037:
+
+    # ch_Name "{i}(And the best way to start a great weekend is with coffee.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1708
+translate brazilian InStory_4_a8fd09ef:
+
+    # ch_Name "{i}(Time to visit Ahchi.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1715
+translate brazilian InStory_4_c5912085:
+
+    # ch_Name "{i}(Gosh, even the weather is nice today.){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1716
+translate brazilian InStory_4_ffcb2aa6:
+
+    # ch_Name "{i}(Maybe I should drink my coffee outside?){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1717
+translate brazilian InStory_4_67d5df8b:
+
+    # ch_Name "{i}(But that way I won't have a chat with Ahchi...){/i}"
+    ch_Name ""
+
+# game/logic/story/logic.rpy:1718
+translate brazilian InStory_4_f07c58db:
+
+    # ch_Name "{i}(Well, let's see how it goes before I decide.){/i}"
+    ch_Name ""
+

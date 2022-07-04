@@ -364,3 +364,15 @@ translate brazilian strings:
     old "Don't take"
     new "Não pegar"
 
+# TODO: Translation updated at 2022-07-04 17:01
+
+translate brazilian strings:
+
+    # game/logic/main_interface/screen.rpy:1598
+    old "You have successfully completed all available routes. Talk to Samantha to go on vacation."
+    new ""
+
+    # game/logic/main_interface/screen.rpy:1642
+    old "Skip time"
+    new ""
+

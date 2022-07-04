@@ -1632,3 +1632,17 @@ translate brazilian strings:
     old "Close"
     new "Fechar"
 
+# TODO: Translation updated at 2022-07-04 17:01
+
+# game/logic/tutorial.rpy:678
+translate brazilian CordGarden_label_e19e47e3:
+
+    # Joshi "By the way, have you seen Sabrina yet? Dude, I still have a boner..."
+    Joshi ""
+
+# game/logic/tutorial.rpy:726
+translate brazilian CordGarden_label_e19e47e3_1:
+
+    # Joshi "By the way, have you seen Sabrina yet? Dude, I still have a boner..."
+    Joshi ""
+

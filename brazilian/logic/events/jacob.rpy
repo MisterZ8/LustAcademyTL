@@ -1498,3 +1498,21 @@ translate brazilian strings:
     old "Crowhive"
     new ""
 
+# TODO: Translation updated at 2022-07-04 17:01
+
+# game/logic/events/jacob.rpy:262
+translate brazilian Samantha_3_label_43_6349d9c3:
+
+    # ch_Name "{i}(Oh... I have her lesson in the schedule.){/i}"
+    ch_Name ""
+
+translate brazilian strings:
+
+    # game/logic/events/jacob.rpy:15
+    old "Ask about your origins"
+    new ""
+
+    # game/logic/events/jacob.rpy:15
+    old "Tell him you have the seal"
+    new ""
+

@@ -2816,3 +2816,11 @@ translate brazilian strings:
     old "Work with someone else"
     new "Dupla com outra pessoa"
 
+# TODO: Translation updated at 2022-07-04 17:01
+
+translate brazilian strings:
+
+    # game/logic/events/sabrina.rpy:9
+    old "Potion for Audrey"
+    new ""
+

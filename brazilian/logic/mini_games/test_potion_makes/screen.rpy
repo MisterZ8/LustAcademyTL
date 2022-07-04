@@ -86,3 +86,35 @@ translate brazilian strings:
     old "Learn this recipe by attending the Potions lecture."
     new "Aprenda essa receita nas aulas sobre poções."
 
+# TODO: Translation updated at 2022-07-04 17:01
+
+translate brazilian strings:
+
+    # game/logic/mini_games/test_potion_makes/screen.rpy:20
+    old "Protects your magical sources from the creatures of the night."
+    new ""
+
+    # game/logic/mini_games/test_potion_makes/screen.rpy:208
+    old "RECIPES"
+    new ""
+
+    # game/logic/mini_games/test_potion_makes/screen.rpy:209
+    old "ALCHEMY"
+    new ""
+
+    # game/logic/mini_games/test_potion_makes/screen.rpy:210
+    old "INGREDIENTS"
+    new ""
+
+    # game/logic/mini_games/test_potion_makes/screen.rpy:347
+    old "Recipe"
+    new ""
+
+    # game/logic/mini_games/test_potion_makes/screen.rpy:361
+    old "Learn this recipe by completing Audrey's quests."
+    new ""
+
+    # game/logic/mini_games/test_potion_makes/screen.rpy:366
+    old "Recipe locked"
+    new ""
+

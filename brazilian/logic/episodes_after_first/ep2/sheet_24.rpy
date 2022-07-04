@@ -714,3 +714,11 @@ translate brazilian sheet_24_end_game_b1c02e84:
     # ch_Name "Alright. Have a good one!"
     ch_Name "Tudo bem. Tenha um bom dia!"
 
+# TODO: Translation updated at 2022-07-04 17:01
+
+# game/logic/episodes_after_first/ep2/sheet_24.rpy:446
+translate brazilian sheet_24_end_game_aeacb5e5:
+
+    # ch_Name "{i}(Whoa, was that a clue or was I imagining it?){/i}"
+    ch_Name ""
+

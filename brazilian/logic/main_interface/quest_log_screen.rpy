@@ -90,3 +90,15 @@ translate brazilian strings:
     old "Decline"
     new "Dispensar"
 
+# TODO: Translation updated at 2022-07-04 17:01
+
+translate brazilian strings:
+
+    # game/logic/main_interface/quest_log_screen.rpy:397
+    old "My\nhouse"
+    new ""
+
+    # game/logic/main_interface/quest_log_screen.rpy:568
+    old "{b}Sabrina`s picture{/b}\n{size=16}Click to view{/size}"
+    new ""
+

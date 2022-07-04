@@ -240,3 +240,97 @@ translate brazilian strings:
     old "And so shall it be with anyone I challenge!"
     new "E assim será com qualquer um que eu desafiar!"
 
+# TODO: Translation updated at 2022-07-04 17:01
+
+# game/logic/mini_games/duels/logic.rpy:2216
+translate brazilian test_duel_game_start_a30443e9_1:
+
+    # UnknownGirl "[unknown_girl_say]"
+    UnknownGirl ""
+
+translate brazilian strings:
+
+    # game/logic/mini_games/duels/logic.rpy:2192
+    old "I'm ready."
+    new ""
+
+    # game/logic/mini_games/duels/logic.rpy:2192
+    old "Can we start already?"
+    new ""
+
+    # game/logic/mini_games/duels/logic.rpy:2192
+    old "What's taking you so long? When can we start?"
+    new ""
+
+    # game/logic/mini_games/duels/logic.rpy:2192
+    old "Do I have permission to start?"
+    new ""
+
+    # game/logic/mini_games/duels/logic.rpy:2200
+    old "The best option for you is to surrender before it's too late, pal."
+    new ""
+
+    # game/logic/mini_games/duels/logic.rpy:2200
+    old "I've been practicing my moves all week."
+    new ""
+
+    # game/logic/mini_games/duels/logic.rpy:2200
+    old "You don't stand a chance! Whatever happens here - don't take it personally, will you?"
+    new ""
+
+    # game/logic/mini_games/duels/logic.rpy:2200
+    old "Remember, it's a practice match. Let's not hurt each other."
+    new ""
+
+    # game/logic/mini_games/duels/logic.rpy:2200
+    old "Sadly, they don't allow us to show faces."
+    new ""
+
+    # game/logic/mini_games/duels/logic.rpy:2200
+    old "I want to see yours when we're done."
+    new ""
+
+    # game/logic/mini_games/duels/logic.rpy:2200
+    old "I hope we'll have a fun time no matter who wins."
+    new ""
+
+    # game/logic/mini_games/duels/logic.rpy:2329
+    old "I've got to admit - you're not half as bad as I thought you'd be."
+    new ""
+
+    # game/logic/mini_games/duels/logic.rpy:2329
+    old "How are you still standing? That was my best move!"
+    new ""
+
+    # game/logic/mini_games/duels/logic.rpy:2329
+    old "Can't you even block simple spells like that? Why am I not surprised?"
+    new ""
+
+    # game/logic/mini_games/duels/logic.rpy:2329
+    old "Wow! That really worked?! Yay! I wasn't sure I could pull that off!"
+    new ""
+
+    # game/logic/mini_games/duels/logic.rpy:2329
+    old "You're too predictable, bud."
+    new ""
+
+    # game/logic/mini_games/duels/logic.rpy:2329
+    old "Sorry, but I'm just better."
+    new ""
+
+    # game/logic/mini_games/duels/logic.rpy:2611
+    old "It was easy-peasy, lemon squeezy! "
+    new ""
+
+    # game/logic/mini_games/duels/logic.rpy:2611
+    old "Hey, Jacob! I think I've outgrown academy tournaments. Where can I find the real challenge?"
+    new ""
+
+    # game/logic/mini_games/duels/logic.rpy:2611
+    old "I've enjoyed our battle. Thank you!"
+    new ""
+
+    # game/logic/mini_games/duels/logic.rpy:2611
+    old "It was close. Maybe another time you'll be luckier."
+    new ""
+

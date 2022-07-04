@@ -11310,3 +11310,6651 @@ translate brazilian strings:
     old "Get some distance"
     new "Afaste-se"
 
+# TODO: Translation updated at 2022-07-04 17:01
+
+# game/logic/events/haley.rpy:249
+translate brazilian Haley_1_label_edcb5f2d:
+
+    # Haley "I'm so excited!"
+    Haley ""
+
+# game/logic/events/haley.rpy:259
+translate brazilian Haley_1_label_6b7db306:
+
+    # ch_Name "I believe you. No doubt, he-he."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:267
+translate brazilian Haley_1_label_a01574f8:
+
+    # Haley "I'm dying to make a start!"
+    Haley ""
+
+# game/logic/events/haley.rpy:269
+translate brazilian Haley_1_label_abf521bf:
+
+    # Haley "I've never been so happy in my life."
+    Haley ""
+
+# game/logic/events/haley.rpy:270
+translate brazilian Haley_1_label_b5fc0763:
+
+    # ch_Name "I'm happy for you!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:297
+translate brazilian Haley_1_label_4af62050:
+
+    # ch_Name "Objections will only be accepted via email."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:493
+translate brazilian Haley_3_label_ingore_mollys_ass_01f64327:
+
+    # Haley "Not the kind of guy who would sit with a girl in a cafe and think about eternal things."
+    Haley ""
+
+# game/logic/events/haley.rpy:554
+translate brazilian Haley_3_label_mtp_1_818fe50d:
+
+    # Haley "I'm sorry, I was so focused on Victoria's assignment, I spaced out a little."
+    Haley ""
+
+# game/logic/events/haley.rpy:609
+translate brazilian Haley_4_label_a164abe7:
+
+    # Haley "My potion book was dipped in ink last night by pixies."
+    Haley ""
+
+# game/logic/events/haley.rpy:624
+translate brazilian Haley_4_label_163765b8:
+
+    # Haley "...like a knight on a white horse! Just like in the fairy tales!"
+    Haley ""
+
+# game/logic/events/haley.rpy:727
+translate brazilian Haley_6_label_ee91cb23:
+
+    # ch_Name "Of course, it did!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:741
+translate brazilian Haley_6_label_9990b578:
+
+    # ch_Name "Be careful with it."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:752
+translate brazilian Haley_6_label_c2a61afd:
+
+    # Haley "Of course, I'm kidding!"
+    Haley ""
+
+# game/logic/events/haley.rpy:779
+translate brazilian Haley_7_label_1454a5d5:
+
+    # Haley "Of course, we do! She's a legend!"
+    Haley ""
+
+# game/logic/events/haley.rpy:788
+translate brazilian Haley_7_label_75099176:
+
+    # Haley "I stumbled across something interesting in my potions textbook..."
+    Haley ""
+
+# game/logic/events/haley.rpy:1146
+translate brazilian haley_8_label_5c06e6f7:
+
+    # Haley "[Name]! Of course, not!"
+    Haley ""
+
+# game/logic/events/haley.rpy:1258
+translate brazilian haley_9_label_14fc47df:
+
+    # Elijah "Oh, guys. It's not that easy to trade a book. Pixies steal them all the time!"
+    Elijah ""
+
+# game/logic/events/haley.rpy:1281
+translate brazilian haley_9_label_625347bb:
+
+    # Elijah "This book is five years old, I was still in high school."
+    Elijah ""
+
+# game/logic/events/haley.rpy:1417
+translate brazilian Haley_11_label_3f0345ef:
+
+    # ch_Name "{i}(What do I do? Maybe some practice? Nah...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:1433
+translate brazilian Haley_11_label_2bf7cb19:
+
+    # Haley "Joshi would probably tell everyone if he found out."
+    Haley ""
+
+# game/logic/events/haley.rpy:1593
+translate brazilian haley_11_label_84_de757159:
+
+    # ch_Name "Of course, it is!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:1652
+translate brazilian Haley_12_label_a88ea113:
+
+    # Amelie "Judging by my notes on Pascal Lovegood's \"Let the sphere burn!\"..."
+    Amelie ""
+
+# game/logic/events/haley.rpy:1653
+translate brazilian Haley_12_label_21216717:
+
+    # Amelie "...there's plenty of information here."
+    Amelie ""
+
+# game/logic/events/haley.rpy:2030
+translate brazilian Angels_1_label_a6b10898:
+
+    # ch_Name "Of course, I was, but not that much as you."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:2480
+translate brazilian Haley_15_label_from_gallery_cf209b59:
+
+    # ch_Name "Okay, Miss Detective."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:2610
+translate brazilian Haley_15_label_from_gallery_5b89d1d0:
+
+    # ch_Name "{i}(I should probably get downstairs and have a cup of coffee.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:2634
+translate brazilian Haley_16_label_679b8f74:
+
+    # ch_Name "Hello, Sam, are you busy now?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:2641
+translate brazilian Haley_16_label_11be320e:
+
+    # ch_Name "And let's call Haley, um? This concerns her too. "
+    ch_Name ""
+
+# game/logic/events/haley.rpy:2642
+translate brazilian Haley_16_label_74d3a16d:
+
+    # Samantha "Sure, [Name]. I never mind her company."
+    Samantha ""
+
+# game/logic/events/haley.rpy:2653
+translate brazilian Haley_16_label_6898069f:
+
+    # Haley "It's very, very long story."
+    Haley ""
+
+# game/logic/events/haley.rpy:2655
+translate brazilian Haley_16_label_2e4f6704:
+
+    # Haley "So... It all started when we found the textbook with strange inscription..."
+    Haley ""
+
+# game/logic/events/haley.rpy:2656
+translate brazilian Haley_16_label_3450b3e8:
+
+    # Haley "...belonging to somebody called E. Bloom..."
+    Haley ""
+
+# game/logic/events/haley.rpy:2662
+translate brazilian Haley_16_label_c4a1da97:
+
+    # ch_Name "And that's the problem. We have no idea."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:2679
+translate brazilian Haley_16_label_dd02296b:
+
+    # Samantha "I... I can't believe it!"
+    Samantha ""
+
+# game/logic/events/haley.rpy:2682
+translate brazilian Haley_16_label_b0764d98:
+
+    # Samantha "Just give me a minute and you will see."
+    Samantha ""
+
+# game/logic/events/haley.rpy:2687
+translate brazilian Haley_16_label_b18ba95c:
+
+    # Haley "Do you understand anything?"
+    Haley ""
+
+# game/logic/events/haley.rpy:2688
+translate brazilian Haley_16_label_906b7a03:
+
+    # ch_Name "Not at all."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:2692
+translate brazilian Haley_16_label_0b739a0d:
+
+    # Haley "Oh, [Name]..."
+    Haley ""
+
+# game/logic/events/haley.rpy:2693
+translate brazilian Haley_16_label_b11b4114:
+
+    # Haley "What if Samantha comes in?"
+    Haley ""
+
+# game/logic/events/haley.rpy:2694
+translate brazilian Haley_16_label_d698d44d:
+
+    # ch_Name "We still have a few minutes."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:2696
+translate brazilian Haley_16_label_f41144a8:
+
+    # ch_Name "I'm not fool enough not to take every opportunity to kiss you one more time."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:2697
+translate brazilian Haley_16_label_0405b2dd:
+
+    # Haley "Well, he-he..."
+    Haley ""
+
+# game/logic/events/haley.rpy:2699
+translate brazilian Haley_16_label_43133787:
+
+    # Samantha "Guys, look what I've found!"
+    Samantha ""
+
+# game/logic/events/haley.rpy:2713
+translate brazilian Haley_16_label_ec81ba5f:
+
+    # Samantha "It all seems to be a silly joke!"
+    Samantha ""
+
+# game/logic/events/haley.rpy:2718
+translate brazilian Haley_16_label_817581a3:
+
+    # Samantha "Are you sure, [Name]?"
+    Samantha ""
+
+# game/logic/events/haley.rpy:2720
+translate brazilian Haley_16_label_cbc3041e:
+
+    # Samantha "It can be really dangerous."
+    Samantha ""
+
+# game/logic/events/haley.rpy:2721
+translate brazilian Haley_16_label_3506d01c:
+
+    # ch_Name "I'm afraid that's the only solution, Samantha."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:2731
+translate brazilian Haley_16_label_da1b2910:
+
+    # Haley "Okay..."
+    Haley ""
+
+# game/logic/events/haley.rpy:2735
+translate brazilian Haley_16_label_9f61018e:
+
+    # Samantha "Yep, you can count on me. I like adventures!"
+    Samantha ""
+
+# game/logic/events/haley.rpy:2739
+translate brazilian Haley_16_label_b1232b96:
+
+    # Samantha "We perform the ritual as soon as you get them, right?"
+    Samantha ""
+
+# game/logic/events/haley.rpy:2740
+translate brazilian Haley_16_label_4cff4398:
+
+    # Samantha "Wait..."
+    Samantha ""
+
+# game/logic/events/haley.rpy:2741
+translate brazilian Haley_16_label_091df0fc:
+
+    # Samantha "We also should wait for the full moon!"
+    Samantha ""
+
+# game/logic/events/haley.rpy:2743
+translate brazilian Haley_16_label_606a9a7f:
+
+    # Samantha "Anyway, keep me in the loop."
+    Samantha ""
+
+# game/logic/events/haley.rpy:2744
+translate brazilian Haley_16_label_b94289d0:
+
+    # Haley "Thank you, Sam."
+    Haley ""
+
+# game/logic/events/haley.rpy:2745
+translate brazilian Haley_16_label_5f2bb79a:
+
+    # Samantha "Oh, guys! So sorry I have to run..."
+    Samantha ""
+
+# game/logic/events/haley.rpy:2748
+translate brazilian Haley_16_label_2018557e:
+
+    # Haley "I don't know what we would do without you."
+    Haley ""
+
+# game/logic/events/haley.rpy:2756
+translate brazilian Haley_16_label_109c3dd7:
+
+    # Haley "There's no other way. Things are going to be great!"
+    Haley ""
+
+# game/logic/events/haley.rpy:2760
+translate brazilian Haley_16_label_db37cb2e:
+
+    # ch_Name "{i}(She's in such a good mood!){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:2761
+translate brazilian Haley_16_label_6a3b285c:
+
+    # ch_Name "{i}(This feels like a special moment. Should I ask her about our date now? Hm...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:2762
+translate brazilian Haley_16_label_c009099d:
+
+    # ch_Name "{i}(My gut tells I'm doing the right thing.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:2763
+translate brazilian Haley_16_label_e0bc909f:
+
+    # ch_Name "{i}(Anyway, nothing bad is going to happen.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:2770
+translate brazilian Haley_16_label_54c3af9a:
+
+    # ch_Name "I've never been more serious in my life."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:2771
+translate brazilian Haley_16_label_690ba244:
+
+    # Haley "Then my answer is yes."
+    Haley ""
+
+# game/logic/events/haley.rpy:2772
+translate brazilian Haley_16_label_a0588e52:
+
+    # ch_Name "Really?! This is awesome!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:2774
+translate brazilian Haley_16_label_ae0c7e34:
+
+    # Haley "Um..."
+    Haley ""
+
+# game/logic/events/haley.rpy:2775
+translate brazilian Haley_16_label_3df6f9c7:
+
+    # Haley "Why are you surprised? Don't you think that you deserve a chance?"
+    Haley ""
+
+# game/logic/events/haley.rpy:2776
+translate brazilian Haley_16_label_9d112798:
+
+    # ch_Name "No-no, that's not about that. I'm just really happy."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:2777
+translate brazilian Haley_16_label_29fe8072:
+
+    # ch_Name "I'll text you about the details, right?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:2779
+translate brazilian Haley_16_label_f998bbfc:
+
+    # Haley "Okay, I'll be in touch."
+    Haley ""
+
+# game/logic/events/haley.rpy:2780
+translate brazilian Haley_16_label_7b5b5894:
+
+    # Haley "I've got to go now. The last thing I want is to be late for my additional magic lesson. "
+    Haley ""
+
+# game/logic/events/haley.rpy:3167
+translate brazilian CF_Haley_4_label_a9628907:
+
+    # ch_Name "Do you get along well?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3196
+translate brazilian CF_Haley_4_label_f6981770:
+
+    # Haley "And her Lustagram..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3245
+translate brazilian Haley_17_label_d47c68ae:
+
+    # ch_Name "Hey, Gordon!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3246
+translate brazilian Haley_17_label_31b34493:
+
+    # Gordon "Hello! Finally here to work, hmm?"
+    Gordon ""
+
+# game/logic/events/haley.rpy:3247
+translate brazilian Haley_17_label_687d6401:
+
+    # ch_Name "Not now, but maybe a little bit later."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3249
+translate brazilian Haley_17_label_6609c3c6:
+
+    # Gordon "Ghm... And what do you want then?"
+    Gordon ""
+
+# game/logic/events/haley.rpy:3250
+translate brazilian Haley_17_label_a85978b0:
+
+    # ch_Name "I'm looking for some ingredients for my potion."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3251
+translate brazilian Haley_17_label_f41a67e5:
+
+    # ch_Name "Can you help me with that, Gordon?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3252
+translate brazilian Haley_17_label_a4cc7c5c:
+
+    # Gordon "It depends on what you need."
+    Gordon ""
+
+# game/logic/events/haley.rpy:3253
+translate brazilian Haley_17_label_be7cd22d:
+
+    # ch_Name "A handful of solar dust, crushed dragon skin and fresh Edelweiss petals."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3254
+translate brazilian Haley_17_label_6440db05:
+
+    # Gordon "No-no-no. I can't help you with that."
+    Gordon ""
+
+# game/logic/events/haley.rpy:3256
+translate brazilian Haley_17_label_4459e8fd:
+
+    # Gordon "You better go and ask Willow."
+    Gordon ""
+
+# game/logic/events/haley.rpy:3257
+translate brazilian Haley_17_label_0298b0a8:
+
+    # ch_Name "Uh, okay, I get it."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3259
+translate brazilian Haley_17_label_35dd39ac:
+
+    # Willow "[Name]!"
+    Willow ""
+
+# game/logic/events/haley.rpy:3260
+translate brazilian Haley_17_label_3f078692:
+
+    # ch_Name "I'm here!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3262
+translate brazilian Haley_17_label_e6c003b1:
+
+    # Willow "Do you need some magical ingredients? "
+    Willow ""
+
+# game/logic/events/haley.rpy:3263
+translate brazilian Haley_17_label_181a9c2b:
+
+    # ch_Name "Exactly!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3264
+translate brazilian Haley_17_label_a574b42b:
+
+    # Willow "What do you need?"
+    Willow ""
+
+# game/logic/events/haley.rpy:3266
+translate brazilian Haley_17_label_be7cd22d_1:
+
+    # ch_Name "A handful of solar dust, crushed dragon skin and fresh Edelweiss petals."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3267
+translate brazilian Haley_17_label_e388b7da:
+
+    # ch_Name "Soo...?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3269
+translate brazilian Haley_17_label_57b60061:
+
+    # Willow "That's impossible, [Name]!"
+    Willow ""
+
+# game/logic/events/haley.rpy:3270
+translate brazilian Haley_17_label_3c190002:
+
+    # Willow "Even if I really want to help you, I can't."
+    Willow ""
+
+# game/logic/events/haley.rpy:3271
+translate brazilian Haley_17_label_be31ce93:
+
+    # ch_Name "But why?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3272
+translate brazilian Haley_17_label_f829bf34:
+
+    # ch_Name "I'll pay, surely."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3273
+translate brazilian Haley_17_label_2dacf8e2:
+
+    # Willow "I might get lucky enough to find some solar dust and dragon skin..."
+    Willow ""
+
+# game/logic/events/haley.rpy:3275
+translate brazilian Haley_17_label_8fc97e23:
+
+    # Willow "But fresh Edelweiss petals..."
+    Willow ""
+
+# game/logic/events/haley.rpy:3276
+translate brazilian Haley_17_label_9f89b8fc:
+
+    # Willow "... those I haven't seen them for ages."
+    Willow ""
+
+# game/logic/events/haley.rpy:3277
+translate brazilian Haley_17_label_e109896c:
+
+    # Willow "It's crazy!"
+    Willow ""
+
+# game/logic/events/haley.rpy:3278
+translate brazilian Haley_17_label_fff54076:
+
+    # ch_Name "But Willow, can you try?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3280
+translate brazilian Haley_17_label_4ba57abc:
+
+    # ch_Name "Please, honey!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3281
+translate brazilian Haley_17_label_09fc13c8:
+
+    # ch_Name "This is really important."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3282
+translate brazilian Haley_17_label_70412f4b:
+
+    # ch_Name "Not just for me..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3283
+translate brazilian Haley_17_label_49c4f055:
+
+    # ch_Name "You can help save someone's life!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3285
+translate brazilian Haley_17_label_c922c0af:
+
+    # ch_Name "Besides I can't think of anyone else more capable, I don't think anyone else can help."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3286
+translate brazilian Haley_17_label_d32943c7:
+
+    # Willow "Okay, enough sweet-talking."
+    Willow ""
+
+# game/logic/events/haley.rpy:3287
+translate brazilian Haley_17_label_e1fa21e6:
+
+    # Willow "I will try to find everything for you."
+    Willow ""
+
+# game/logic/events/haley.rpy:3288
+translate brazilian Haley_17_label_5a632ce8:
+
+    # Willow "But money alone isn't enough."
+    Willow ""
+
+# game/logic/events/haley.rpy:3289
+translate brazilian Haley_17_label_e12461f4:
+
+    # ch_Name "What do you want, Willow?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3290
+translate brazilian Haley_17_label_791218da:
+
+    # ch_Name "I'll pay more to make it worth your time."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3291
+translate brazilian Haley_17_label_d4e202f4:
+
+    # Willow "No, no, it's not about the money. I want something else."
+    Willow ""
+
+# game/logic/events/haley.rpy:3293
+translate brazilian Haley_17_label_e5f9be50:
+
+    # ch_Name "Something else?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3294
+translate brazilian Haley_17_label_1edc38c1:
+
+    # ch_Name "Like what?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3295
+translate brazilian Haley_17_label_349044b0:
+
+    # Willow "I'm not sure, that's why I asked you..."
+    Willow ""
+
+# game/logic/events/haley.rpy:3296
+translate brazilian Haley_17_label_87a5c22f:
+
+    # Willow "Do you have any suggestions?"
+    Willow ""
+
+# game/logic/events/haley.rpy:3297
+translate brazilian Haley_17_label_d2a0a33f:
+
+    # ch_Name "Hmmmmm."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3299
+translate brazilian Haley_17_label_aba7cc38:
+
+    # ch_Name "Maybe you can do it in exchange..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3300
+translate brazilian Haley_17_label_ff062b35:
+
+    # ch_Name "...for a kiss?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3301
+translate brazilian Haley_17_label_185f8af3:
+
+    # Willow "Ha-ha-ha-ha!"
+    Willow ""
+
+# game/logic/events/haley.rpy:3303
+translate brazilian Haley_17_label_a3f5af1b:
+
+    # Willow "For a kiss! With you?"
+    Willow ""
+
+# game/logic/events/haley.rpy:3304
+translate brazilian Haley_17_label_181a9c2b_1:
+
+    # ch_Name "Exactly!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3305
+translate brazilian Haley_17_label_d6a59c5b:
+
+    # ch_Name "You'd be surprised."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3306
+translate brazilian Haley_17_label_a835b898:
+
+    # Willow "And what's so special about your kisses?"
+    Willow ""
+
+# game/logic/events/haley.rpy:3307
+translate brazilian Haley_17_label_d2f5b262:
+
+    # ch_Name "You won't know if you don't try."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3309
+translate brazilian Haley_17_label_e8d414cb:
+
+    # Willow "You intrigue me, [Name]."
+    Willow ""
+
+# game/logic/events/haley.rpy:3310
+translate brazilian Haley_17_label_72ab4b64:
+
+    # ch_Name "So, what do you think?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3311
+translate brazilian Haley_17_label_3aa4370d:
+
+    # Willow "You know what? I'm in."
+    Willow ""
+
+# game/logic/events/haley.rpy:3313
+translate brazilian Haley_17_label_6156786c:
+
+    # Willow "But don't try and deny that you want this... maybe even more than I do."
+    Willow ""
+
+# game/logic/events/haley.rpy:3314
+translate brazilian Haley_17_label_3279c0cd:
+
+    # ch_Name "Let's mix business with a little pleasure."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3315
+translate brazilian Haley_17_label_9e02842e:
+
+    # ch_Name "No need to make this harder than it has to be."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3317
+translate brazilian Haley_17_label_019c6103:
+
+    # Willow "Ohh!"
+    Willow ""
+
+# game/logic/events/haley.rpy:3318
+translate brazilian Haley_17_label_921c4921:
+
+    # Willow "Mmmm!"
+    Willow ""
+
+# game/logic/events/haley.rpy:3319
+translate brazilian Haley_17_label_06921174:
+
+    # ch_Name "I like how your lips taste..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3320
+translate brazilian Haley_17_label_36934de5:
+
+    # ch_Name "Oww!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3322
+translate brazilian Haley_17_label_9a25fdca:
+
+    # ch_Name "Are you biting?!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3323
+translate brazilian Haley_17_label_c60697df:
+
+    # ch_Name "I wasn't expecting that!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3324
+translate brazilian Haley_17_label_abfb9c60:
+
+    # Willow "I like how it adds a little bit more excitement."
+    Willow ""
+
+# game/logic/events/haley.rpy:3326
+translate brazilian Haley_17_label_0860433e:
+
+    # Willow "And you have very soft lips."
+    Willow ""
+
+# game/logic/events/haley.rpy:3327
+translate brazilian Haley_17_label_9d864051:
+
+    # Willow "It would be a sin not to bite them."
+    Willow ""
+
+# game/logic/events/haley.rpy:3328
+translate brazilian Haley_17_label_438c82cd:
+
+    # ch_Name "You're such a little devil!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3330
+translate brazilian Haley_17_label_ef24b776:
+
+    # Willow "You kiss pretty well for a human, I should admit."
+    Willow ""
+
+# game/logic/events/haley.rpy:3331
+translate brazilian Haley_17_label_5b26624c:
+
+    # ch_Name "Oh, thanks!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3332
+translate brazilian Haley_17_label_540d4205:
+
+    # Willow "Okay, this is all very fascinating..."
+    Willow ""
+
+# game/logic/events/haley.rpy:3334
+translate brazilian Haley_17_label_801f4d46:
+
+    # Willow "But I need to get back to work."
+    Willow ""
+
+# game/logic/events/haley.rpy:3335
+translate brazilian Haley_17_label_c7c4cb92:
+
+    # ch_Name "You what...? What about our deal?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3336
+translate brazilian Haley_17_label_525af4a8:
+
+    # Willow "He-he-he."
+    Willow ""
+
+# game/logic/events/haley.rpy:3337
+translate brazilian Haley_17_label_9d137df1:
+
+    # Willow "I'm just messing with you."
+    Willow ""
+
+# game/logic/events/haley.rpy:3339
+translate brazilian Haley_17_label_482cd62d:
+
+    # Willow "Wait here."
+    Willow ""
+
+# game/logic/events/haley.rpy:3340
+translate brazilian Haley_17_label_b1fec1f2:
+
+    # Willow "And don't touch anything."
+    Willow ""
+
+# game/logic/events/haley.rpy:3342
+translate brazilian Haley_17_label_e2807538:
+
+    # Willow "I'll be right back."
+    Willow ""
+
+# game/logic/events/haley.rpy:3343
+translate brazilian Haley_17_label_f08b5445:
+
+    # ch_Name "Alright... be careful!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3345
+translate brazilian Haley_17_label_60a3121a:
+
+    # Willow "Hmm."
+    Willow ""
+
+# game/logic/events/haley.rpy:3347
+translate brazilian Haley_17_label_2e27a77a:
+
+    # ch_Name "{i}(Hope she can pull it off.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3348
+translate brazilian Haley_17_label_a5297357:
+
+    # ch_Name "{i}(There is no plan B.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3349
+translate brazilian Haley_17_label_ff0872f8:
+
+    # ch_Name "{i}(God!){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3350
+translate brazilian Haley_17_label_079c5233:
+
+    # ch_Name "{i}(Now this is when I start to get nervous.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3352
+translate brazilian Haley_17_label_8635f5be:
+
+    # ch_Name "{i}(Pam-pam-pam!){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3353
+translate brazilian Haley_17_label_7e876767:
+
+    # ch_Name "{i}(She's taking a long time.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3354
+translate brazilian Haley_17_label_8892a571:
+
+    # ch_Name "{i}(Maybe something went wrong?){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3356
+translate brazilian Haley_17_label_62d0506d:
+
+    # Willow "Phew!"
+    Willow ""
+
+# game/logic/events/haley.rpy:3357
+translate brazilian Haley_17_label_c1e4731f:
+
+    # Willow "I feel alive again, finally."
+    Willow ""
+
+# game/logic/events/haley.rpy:3358
+translate brazilian Haley_17_label_cd849f21:
+
+    # ch_Name "Any luck?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3360
+translate brazilian Haley_17_label_d02ad890:
+
+    # Willow "Here you go."
+    Willow ""
+
+# game/logic/events/haley.rpy:3361
+translate brazilian Haley_17_label_fd8f5a4e:
+
+    # ch_Name "Woooooow!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3363
+translate brazilian Haley_17_label_40a7c1f1:
+
+    # ch_Name "You're my hero, Willow!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3364
+translate brazilian Haley_17_label_be461cc3:
+
+    # ch_Name "You did a great job!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3366
+translate brazilian Haley_17_label_76b86346:
+
+    # Willow "God, I'm soooo tired."
+    Willow ""
+
+# game/logic/events/haley.rpy:3367
+translate brazilian Haley_17_label_f50c06e3:
+
+    # Willow "Do you have any food with you?"
+    Willow ""
+
+# game/logic/events/haley.rpy:3368
+translate brazilian Haley_17_label_637dad97:
+
+    # ch_Name "I have a carrot If you want one."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3369
+translate brazilian Haley_17_label_12568fff:
+
+    # Willow "I haven't eaten anything for several days."
+    Willow ""
+
+# game/logic/events/haley.rpy:3371
+translate brazilian Haley_17_label_a5b65a7f:
+
+    # ch_Name "Several days?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3372
+translate brazilian Haley_17_label_170b35c4:
+
+    # ch_Name "You've been gone for five, maybe ten minutes."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3373
+translate brazilian Haley_17_label_54cfb4dd:
+
+    # Willow "In my grove time goes on differently."
+    Willow ""
+
+# game/logic/events/haley.rpy:3374
+translate brazilian Haley_17_label_60d251c1:
+
+    # Willow "I spent nearly a week there to find your ingredients."
+    Willow ""
+
+# game/logic/events/haley.rpy:3376
+translate brazilian Haley_17_label_dba1e000:
+
+    # ch_Name "Willow!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3377
+translate brazilian Haley_17_label_4d112a71:
+
+    # ch_Name "You're the sweetest thing ever!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3378
+translate brazilian Haley_17_label_81ac6c17:
+
+    # ch_Name "I don't think I'll ever be able to thank you enough."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3379
+translate brazilian Haley_17_label_e65b7b7b:
+
+    # Willow "It's too early to tell, he-he."
+    Willow ""
+
+# game/logic/events/haley.rpy:3381
+translate brazilian Haley_17_label_871c71d8:
+
+    # Willow "And thanks for the carrot."
+    Willow ""
+
+# game/logic/events/haley.rpy:3382
+translate brazilian Haley_17_label_c3802fa6:
+
+    # ch_Name "Aww, that's nothing."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3383
+translate brazilian Haley_17_label_ae4c952d:
+
+    # ch_Name "I even feel kind of bad that I have to go...{w} There's a lot to be done today."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3385
+translate brazilian Haley_17_label_9e4df313:
+
+    # ch_Name "Come here, honey."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3386
+translate brazilian Haley_17_label_17531176:
+
+    # ch_Name "You're a miracle. Thank you again!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3387
+translate brazilian Haley_17_label_f638b680:
+
+    # Willow "Bye-bye!"
+    Willow ""
+
+# game/logic/events/haley.rpy:3396
+translate brazilian Haley_17_label_dad51014:
+
+    # ch_Name "{i}(Well, now that it's done, I have some spare time.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3397
+translate brazilian Haley_17_label_04b411c8:
+
+    # ch_Name "{i}(And I surely want to go to Lady Luck later in the evening.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3398
+translate brazilian Haley_17_label_4188200b:
+
+    # ch_Name "{i}(Oh, I know! I should get some coffee.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3400
+translate brazilian Haley_17_label_39c50506:
+
+    # ch_Name "{i}(Nothing makes the day better than a cup of Ahchi's coffee.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3401
+translate brazilian Haley_17_label_bda7f7fd:
+
+    # ch_Name "{i}(And I'm sure I'll find some company to drink it with.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3405
+translate brazilian Haley_17_label_b2d25e4f:
+
+    # ch_Name "{i}(Ah, I can already smell delicious arabica!){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3406
+translate brazilian Haley_17_label_e33542ee:
+
+    # ch_Name "{i}(What a pleasure!){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3413
+translate brazilian Haley_18_label_b4c8c248:
+
+    # NoName "Ring-ring..."
+    NoName ""
+
+# game/logic/events/haley.rpy:3414
+translate brazilian Haley_18_label_df1c22ff:
+
+    # ch_Name "{i}(Hmm, someone's calling me.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3416
+translate brazilian Haley_18_label_8837732a:
+
+    # ch_Name "Haley...?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3417
+translate brazilian Haley_18_label_3f81266e:
+
+    # Haley "Hello, [Name]!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3418
+translate brazilian Haley_18_label_8e02dc0e:
+
+    # ch_Name "Good morning!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3419
+translate brazilian Haley_18_label_a165e506:
+
+    # Haley "You sound sleepy."
+    Haley ""
+
+# game/logic/events/haley.rpy:3420
+translate brazilian Haley_18_label_1aa1c4e4:
+
+    # Haley "Sorry if I woke you up."
+    Haley ""
+
+# game/logic/events/haley.rpy:3421
+translate brazilian Haley_18_label_4c06826e:
+
+    # ch_Name "No, no... that's okay."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3422
+translate brazilian Haley_18_label_cbdce43c:
+
+    # Haley "It's only... I can't stop thinking about Elijah's brother, and the ritual."
+    Haley ""
+
+# game/logic/events/haley.rpy:3424
+translate brazilian Haley_18_label_e8a31a8d:
+
+    # Haley "I am not trying to rush you, but..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3425
+translate brazilian Haley_18_label_8c8d291e:
+
+    # Haley "Did you manage to get all the ingredients for the ritual?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3426
+translate brazilian Haley_18_label_e0635a17:
+
+    # ch_Name "Oh, Haley! Sorry, I completely forgot to tell you."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3427
+translate brazilian Haley_18_label_1384e051:
+
+    # ch_Name "I got very lucky."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3428
+translate brazilian Haley_18_label_3f2eef53:
+
+    # ch_Name "I was able to get ahold of everything we needed."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3429
+translate brazilian Haley_18_label_3e0b777f:
+
+    # ch_Name "The only thing we have left to do is perform the ritual."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3430
+translate brazilian Haley_18_label_fe992e63:
+
+    # Haley "Really?!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3431
+translate brazilian Haley_18_label_a420173e:
+
+    # Haley "I knew I could rely on you. I'm so excited, [Name]!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3433
+translate brazilian Haley_18_label_caef6a1c:
+
+    # ch_Name "Do you have plans for tonight?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3434
+translate brazilian Haley_18_label_c01d1b3b:
+
+    # Haley "N-no, actually."
+    Haley ""
+
+# game/logic/events/haley.rpy:3435
+translate brazilian Haley_18_label_256f4f06:
+
+    # ch_Name "Maybe we can have our first real date... like we talked about?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3436
+translate brazilian Haley_18_label_992bb0d4:
+
+    # ch_Name "I just thought we could celebrate our small victory together."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3437
+translate brazilian Haley_18_label_f25e3bf8:
+
+    # Haley "Whoa, that'd be great!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3438
+translate brazilian Haley_18_label_bc4a88e4:
+
+    # Haley "And where are we going?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3439
+translate brazilian Haley_18_label_74780fc0:
+
+    # ch_Name "Let me think...{w} What about a picnic?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3441
+translate brazilian Haley_18_label_078393ae:
+
+    # ch_Name "What do you think?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3442
+translate brazilian Haley_18_label_e1d49ec0:
+
+    # Haley "Picnic?{w} Sounds awesome!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3443
+translate brazilian Haley_18_label_ed503425:
+
+    # ch_Name "So I'll pick you up tonight?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3444
+translate brazilian Haley_18_label_fcdff6fd:
+
+    # Haley "Okay. I'll be waiting for you."
+    Haley ""
+
+# game/logic/events/haley.rpy:3459
+translate brazilian Haley_19_label_b6ce45a5:
+
+    # NoName "Knock-Knock"
+    NoName ""
+
+# game/logic/events/haley.rpy:3460
+translate brazilian Haley_19_label_255e8895:
+
+    # ch_Name "{i}(All right, here we go.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3461
+translate brazilian Haley_19_label_3a132477:
+
+    # ch_Name "{i}(My palms are sweaty, and my heart is racing...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3462
+translate brazilian Haley_19_label_cff599a7:
+
+    # ch_Name "{i}(What are you doing to me, Haley?){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3463
+translate brazilian Haley_19_label_c6beb62d:
+
+    # Haley "One second, please."
+    Haley ""
+
+# game/logic/events/haley.rpy:3464
+translate brazilian Haley_19_label_9454fffa:
+
+    # Haley "I'm coming!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3470
+translate brazilian Haley_19_label_00b5e4d9:
+
+    # ch_Name "Wow!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3471
+translate brazilian Haley_19_label_a1cbc74c:
+
+    # ch_Name "I'm... um... just... wow!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3472
+translate brazilian Haley_19_label_832807a1:
+
+    # ch_Name "Haley, you look... incredible!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3474
+translate brazilian Haley_19_label_44beed7e:
+
+    # ch_Name "That dress is so pretty! This color looks really good on you."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3475
+translate brazilian Haley_19_label_252932bd:
+
+    # ch_Name "Who needs a little black dress, when you have that?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3476
+translate brazilian Haley_19_label_68ac2662:
+
+    # Haley "He-he-he, thank you! "
+    Haley ""
+
+# game/logic/events/haley.rpy:3478
+translate brazilian Haley_19_label_0aeeed9f:
+
+    # Haley "What do you have in the basket?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3479
+translate brazilian Haley_19_label_9877b25b:
+
+    # ch_Name "You are the curious one, aren't you?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3480
+translate brazilian Haley_19_label_708b4256:
+
+    # ch_Name "That's a little secret. At least for now."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3481
+translate brazilian Haley_19_label_f1d11080:
+
+    # ch_Name "Don't worry, you'll find out in a little bit."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3482
+translate brazilian Haley_19_label_e6745193:
+
+    # Haley "Intriguing, but I'm ready to wait. "
+    Haley ""
+
+# game/logic/events/haley.rpy:3484
+translate brazilian Haley_19_label_20f3fe1d:
+
+    # ch_Name "Mwah!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3485
+translate brazilian Haley_19_label_a0a2abbb:
+
+    # Haley "Ohh!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3486
+translate brazilian Haley_19_label_a2315c12:
+
+    # ch_Name "{i}(It's still hard to believe I can just kiss her like that!){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3488
+translate brazilian Haley_19_label_a3a0870f:
+
+    # ch_Name "Your lips... are so... amazing."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3489
+translate brazilian Haley_19_label_5964e5d3:
+
+    # Haley "Pheew!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3496
+translate brazilian Haley_19_label_474109f1:
+
+    # ch_Name "There's a different atmosphere here during the evenings."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3497
+translate brazilian Haley_19_label_79a26772:
+
+    # Haley "I'd say it's romantic... and maybe a bit more intimate."
+    Haley ""
+
+# game/logic/events/haley.rpy:3498
+translate brazilian Haley_19_label_8cc61c87:
+
+    # Haley "I just hope the angels don't decide to damage anything, he-he."
+    Haley ""
+
+# game/logic/events/haley.rpy:3499
+translate brazilian Haley_19_label_53d65d11:
+
+    # ch_Name "Nothing can spoil this evening."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3500
+translate brazilian Haley_19_label_b0eac85a:
+
+    # ch_Name "And angels... I think they're making this date just a little more charming."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3502
+translate brazilian Haley_19_label_2ab4023c:
+
+    # Haley "Well, I couldn't say...{w} this is all so new."
+    Haley ""
+
+# game/logic/events/haley.rpy:3503
+translate brazilian Haley_19_label_5149149b:
+
+    # Haley "This is my first real date..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3504
+translate brazilian Haley_19_label_f4c4a7be:
+
+    # Haley "And my first time getting butterflies in my stomach."
+    Haley ""
+
+# game/logic/events/haley.rpy:3505
+translate brazilian Haley_19_label_39c4bf3e:
+
+    # ch_Name "I know exactly how you feel!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3507
+translate brazilian Haley_19_label_bcd27df5:
+
+    # ch_Name "I don't know if I can describe it but it's like..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3508
+translate brazilian Haley_19_label_f1d85d99:
+
+    # ch_Name "Joy, happiness, and a strange kind of excitement got all mixed together."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3509
+translate brazilian Haley_19_label_4d7bcd65:
+
+    # ch_Name "But only when you're around."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3510
+translate brazilian Haley_19_label_c6cc3211:
+
+    # ch_Name "This is new to me too... I didn't know it was possible to feel this way."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3512
+translate brazilian Haley_19_label_4b34586a:
+
+    # Haley "Oh, God!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3513
+translate brazilian Haley_19_label_80b5ed7f:
+
+    # ch_Name "Fuck!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3514
+translate brazilian Haley_19_label_6b7a1549:
+
+    # Haley "Well... I'll never get used to how quickly they move."
+    Haley ""
+
+# game/logic/events/haley.rpy:3516
+translate brazilian Haley_19_label_5edfb9a5:
+
+    # Haley "My heart nearly jumped out of my chest."
+    Haley ""
+
+# game/logic/events/haley.rpy:3517
+translate brazilian Haley_19_label_2f18f2ed:
+
+    # Haley "The atmosphere is special here, but maybe we should find another place?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3518
+translate brazilian Haley_19_label_ac6e00c6:
+
+    # Haley "Maybe one that's a little more peaceful?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3519
+translate brazilian Haley_19_label_b46a2fe8:
+
+    # ch_Name "Hmmm... there's a lawn not too far."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3521
+translate brazilian Haley_19_label_b16c9fdf:
+
+    # ch_Name "I hope there are no angels over there. "
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3522
+translate brazilian Haley_19_label_c35e6dc1:
+
+    # Haley "That sounds perfect."
+    Haley ""
+
+# game/logic/events/haley.rpy:3523
+translate brazilian Haley_19_label_5ddbc51c:
+
+    # Haley "And I'm starting to get a little hungry."
+    Haley ""
+
+# game/logic/events/haley.rpy:3524
+translate brazilian Haley_19_label_3b543242:
+
+    # ch_Name "We need to fix that!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3533
+translate brazilian Haley_19_label_from_gallery_9285f719:
+
+    # ch_Name "Here we are. "
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3534
+translate brazilian Haley_19_label_from_gallery_c0ee6fc3:
+
+    # Haley "There's no better place for a picnic!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3535
+translate brazilian Haley_19_label_from_gallery_b0c7ff0d:
+
+    # ch_Name "Time to turn away."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3536
+translate brazilian Haley_19_label_from_gallery_6c2e838b:
+
+    # Haley "What?!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3537
+translate brazilian Haley_19_label_from_gallery_7b04ae06:
+
+    # ch_Name "No peeking until I get everything set up, okay?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3538
+translate brazilian Haley_19_label_from_gallery_cd156829:
+
+    # ch_Name "Sorry, that's the rule."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3540
+translate brazilian Haley_19_label_from_gallery_698cf441:
+
+    # Haley "Well..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3541
+translate brazilian Haley_19_label_from_gallery_892ae584:
+
+    # ch_Name "I'll be quick, I promise."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3542
+translate brazilian Haley_19_label_from_gallery_9b07097f:
+
+    # ch_Name "So no peeking... "
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3543
+translate brazilian Haley_19_label_from_gallery_3fefff43:
+
+    # ch_Name "Keep your eyes shut until I say."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3545
+translate brazilian Haley_19_label_from_gallery_82076cb0:
+
+    # ch_Name "Can I trust you with that?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3546
+translate brazilian Haley_19_label_from_gallery_937e3d05:
+
+    # Haley "Take your time, he-he.{w} I'm not going to spoil your surprise. "
+    Haley ""
+
+# game/logic/events/haley.rpy:3547
+translate brazilian Haley_19_label_from_gallery_250faedc:
+
+    # ch_Name "It's almost done."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3549
+translate brazilian Haley_19_label_from_gallery_8bc1d33a:
+
+    # ch_Name "Mhm!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3550
+translate brazilian Haley_19_label_from_gallery_3e354c07:
+
+    # Haley "I can feel your burning breath on my neck..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3551
+translate brazilian Haley_19_label_from_gallery_2c90a33e:
+
+    # ch_Name "Sorry, but I have missed delicate scent of your skin...{w} It's a huge turn-on."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3553
+translate brazilian Haley_19_label_from_gallery_f93f7439:
+
+    # ch_Name "And the sweet taste of your lips..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3554
+translate brazilian Haley_19_label_from_gallery_9891ad1c:
+
+    # Haley "Oh.."
+    Haley ""
+
+# game/logic/events/haley.rpy:3555
+translate brazilian Haley_19_label_from_gallery_ebfa4227:
+
+    # ch_Name "{i}(It's now or never.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3556
+translate brazilian Haley_19_label_from_gallery_9d3a446f:
+
+    # ch_Name "{i}(I have to tell her how I feel.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3557
+translate brazilian Haley_19_label_from_gallery_6a6afd4b:
+
+    # ch_Name "There's something I'd like to say to you..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3559
+translate brazilian Haley_19_label_from_gallery_f10475be:
+
+    # ch_Name "I think I really like you, Haley."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3560
+translate brazilian Haley_19_label_from_gallery_faadbc1e:
+
+    # ch_Name "And... What about you? Do you have something to tell me?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3561
+translate brazilian Haley_19_label_from_gallery_d75c4c90:
+
+    # Haley "[Name], I'm..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3562
+translate brazilian Haley_19_label_from_gallery_ecd9a5b5:
+
+    # Haley "... not quite sure what to say."
+    Haley ""
+
+# game/logic/events/haley.rpy:3564
+translate brazilian Haley_19_label_from_gallery_e564d73e:
+
+    # Haley "What about the picnic? I'm really hungry!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3565
+translate brazilian Haley_19_label_from_gallery_b542248d:
+
+    # ch_Name "{i}(She's not even going to say something on that?){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3566
+translate brazilian Haley_19_label_from_gallery_e6c05a98:
+
+    # ch_Name "{i}(Anyway, she's looking very embarrassed... I do not want to press her for an answer.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3567
+translate brazilian Haley_19_label_from_gallery_f3499ae9:
+
+    # ch_Name "{i}(I just think I need to give her some time.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3568
+translate brazilian Haley_19_label_from_gallery_4cc2a45f:
+
+    # ch_Name "{i}(But we'll definitely come back to that later.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3569
+translate brazilian Haley_19_label_from_gallery_a6ad5224:
+
+    # ch_Name "Sorry... I almost forgot about it."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3570
+translate brazilian Haley_19_label_from_gallery_ed691f09:
+
+    # ch_Name "I can't think about anything else whenever you're close to me."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3572
+translate brazilian Haley_19_label_from_gallery_884f9d96:
+
+    # ch_Name "Do you like it?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3573
+translate brazilian Haley_19_label_from_gallery_29475a9c:
+
+    # Haley "I'm speechless...This is wonderful, [Name]!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3574
+translate brazilian Haley_19_label_from_gallery_8a1f46a1:
+
+    # ch_Name "Bon appetit!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3577
+translate brazilian Haley_19_label_from_gallery_92ab62e3:
+
+    # ch_Name "I didn't know which wine you'd prefer, so I took this one. Hope you'll enjoy it."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3578
+translate brazilian Haley_19_label_from_gallery_1c7190f4:
+
+    # Haley "I don't know, [Name]... I don't really drink wine."
+    Haley ""
+
+# game/logic/events/haley.rpy:3579
+translate brazilian Haley_19_label_from_gallery_59b574e7:
+
+    # ch_Name "Have some, why don't you? That's just one glass."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3581
+translate brazilian Haley_19_label_from_gallery_2622e971:
+
+    # Haley "Okay, but not more than that."
+    Haley ""
+
+# game/logic/events/haley.rpy:3582
+translate brazilian Haley_19_label_from_gallery_078393ae:
+
+    # ch_Name "What do you think?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3583
+translate brazilian Haley_19_label_from_gallery_88b23ddd:
+
+    # Haley "Mmm! Tastes good."
+    Haley ""
+
+# game/logic/events/haley.rpy:3585
+translate brazilian Haley_19_label_from_gallery_d8747eb7:
+
+    # Haley "But I think I can already feel the effects of the alcohol. "
+    Haley ""
+
+# game/logic/events/haley.rpy:3586
+translate brazilian Haley_19_label_from_gallery_20872ddd:
+
+    # ch_Name "That's not bad, right? Let's just relax."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3587
+translate brazilian Haley_19_label_from_gallery_696e6587:
+
+    # ch_Name "We deserve some rest. It's been a rough couple of days."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3588
+translate brazilian Haley_19_label_from_gallery_dcc226e9:
+
+    # Haley "You know... I guess you're right."
+    Haley ""
+
+# game/logic/events/haley.rpy:3589
+translate brazilian Haley_19_label_from_gallery_bb2f9e78:
+
+    # ch_Name "{i}(Is it getting cold out here?){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3591
+translate brazilian Haley_19_label_from_gallery_e88d3705:
+
+    # ch_Name "Aren't you cold?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3593
+translate brazilian Haley_19_label_from_gallery_03fe66ad:
+
+    # Haley "Yes, the breeze is a little chilly. Look, I even have got goosebumps!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3594
+translate brazilian Haley_19_label_from_gallery_c3ff7d0e:
+
+    # ch_Name "{i}(I can warm you up, Haley.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3595
+translate brazilian Haley_19_label_from_gallery_4f98aba4:
+
+    # ch_Name "{i}(I want to put my arms around you more than anything else...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3597
+translate brazilian Haley_19_label_from_gallery_6083ec7f:
+
+    # Haley "[Name], w-what..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3598
+translate brazilian Haley_19_label_from_gallery_a0a2abbb:
+
+    # Haley "Ohh!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3599
+translate brazilian Haley_19_label_from_gallery_4fd2d8cc:
+
+    # Haley "What are you doing?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3600
+translate brazilian Haley_19_label_from_gallery_2adba954:
+
+    # ch_Name "I only want to keep you warm."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3601
+translate brazilian Haley_19_label_from_gallery_30f19641:
+
+    # ch_Name "But I'm starting to lose control."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3602
+translate brazilian Haley_19_label_from_gallery_834aa93d:
+
+    # Haley "I've dreamt about you, too many times to just stop."
+    Haley ""
+
+# game/logic/events/haley.rpy:3604
+translate brazilian Haley_19_label_from_gallery_c3d0a140:
+
+    # Haley "Mmmmmm!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3605
+translate brazilian Haley_19_label_from_gallery_089940ee:
+
+    # Haley "Whew!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3606
+translate brazilian Haley_19_label_from_gallery_44c03efa:
+
+    # ch_Name "What are you doing to me, Haley?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3607
+translate brazilian Haley_19_label_from_gallery_f8952711:
+
+    # Haley "I..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3609
+translate brazilian Haley_19_label_from_gallery_d268e865:
+
+    # ch_Name "How does this feel?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3610
+translate brazilian Haley_19_label_from_gallery_51f4e860:
+
+    # ch_Name "I think I'm the first to touch you here."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3611
+translate brazilian Haley_19_label_from_gallery_ba0202bc:
+
+    # ch_Name "Am I right?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3613
+translate brazilian Haley_19_label_from_gallery_cd8abaea:
+
+    # Haley "Oh, [Name]!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3614
+translate brazilian Haley_19_label_from_gallery_d6860621:
+
+    # Haley "We should stop!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3615
+translate brazilian Haley_19_label_from_gallery_11a00ce4:
+
+    # Haley "My heart is about to explode!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3617
+translate brazilian Haley_19_label_from_gallery_e1e7702f:
+
+    # Haley "Gosh..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3620
+translate brazilian Haley_19_label_from_gallery_035f8115:
+
+    # Haley "Mhmmm..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3621
+translate brazilian Haley_19_label_from_gallery_44f1d18a:
+
+    # ch_Name "Do you still want me to stop?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3622
+translate brazilian Haley_19_label_from_gallery_d52c0df6:
+
+    # Haley "No, please..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3623
+translate brazilian Haley_19_label_from_gallery_482179cf:
+
+    # Haley "Don't stop..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3624
+translate brazilian Haley_19_label_from_gallery_0ae9bcd0:
+
+    # ""
+    ""
+
+# game/logic/events/haley.rpy:3626
+translate brazilian Haley_19_label_from_gallery_3b3af10b:
+
+    # ch_Name "Mm, you're very wet already."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3628
+translate brazilian Haley_19_label_from_gallery_0358ac6c:
+
+    # Haley "Oh!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3629
+translate brazilian Haley_19_label_from_gallery_c0a4d64d:
+
+    # ch_Name "{i}(She's so turned on!){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3630
+translate brazilian Haley_19_label_from_gallery_571603df:
+
+    # ch_Name "It's a real pleasure to touch you, Haley."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3631
+translate brazilian Haley_19_label_from_gallery_614bc22c:
+
+    # ch_Name "You can't even imagine how long I've waited for this."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3634
+translate brazilian Haley_19_label_from_gallery_797ba077:
+
+    # Haley "Mmmmm!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3636
+translate brazilian Haley_19_label_from_gallery_299af68e:
+
+    # Haley "It's better than I thought it would be..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3637
+translate brazilian Haley_19_label_from_gallery_18511365:
+
+    # ch_Name "You were thinking about us, right?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3638
+translate brazilian Haley_19_label_from_gallery_dc76ed94:
+
+    # Haley "I think about it all the time."
+    Haley ""
+
+# game/logic/events/haley.rpy:3639
+translate brazilian Haley_19_label_from_gallery_6c28f47c:
+
+    # Haley "Sometimes it's really hard to focus on my studies when all my thoughts are about you..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3640
+translate brazilian Haley_19_label_from_gallery_0ae9bcd0_1:
+
+    # ""
+    ""
+
+# game/logic/events/haley.rpy:3642
+translate brazilian Haley_19_label_from_gallery_f8dbaeaa:
+
+    # ch_Name "I think about me being inside you too often."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3643
+translate brazilian Haley_19_label_from_gallery_60e9ebfd:
+
+    # ch_Name "The mere thought of it could make me cum."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3644
+translate brazilian Haley_19_label_from_gallery_0b5c6811:
+
+    # ch_Name "The thought that we can be even closer to each other."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3647
+translate brazilian Haley_19_label_from_gallery_34d3918d:
+
+    # Haley "Mmm!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3648
+translate brazilian Haley_19_label_from_gallery_cb97589c:
+
+    # ch_Name "That didn't hurt, did it?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3649
+translate brazilian Haley_19_label_from_gallery_3f9c74b8:
+
+    # Haley "No, [Name], I..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3652
+translate brazilian Haley_19_label_from_gallery_5faf8a43:
+
+    # Haley "Oh, did you hear that?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3653
+translate brazilian Haley_19_label_from_gallery_1b67e978:
+
+    # ch_Name "What are you talking about?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3654
+translate brazilian Haley_19_label_from_gallery_a63c4b58:
+
+    # Haley "A strange rustle. That's coming from there!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3655
+translate brazilian Haley_19_label_from_gallery_f113a10a:
+
+    # ch_Name "Are you sure?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3657
+translate brazilian Haley_19_label_from_gallery_3826c36a:
+
+    # ch_Name "I don't hear anything."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3658
+translate brazilian Haley_19_label_from_gallery_7722788d:
+
+    # Haley "I better check the bushes."
+    Haley ""
+
+# game/logic/events/haley.rpy:3659
+translate brazilian Haley_19_label_from_gallery_d754221f:
+
+    # ch_Name "Let's go together. I don't want you to go alone."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3666
+translate brazilian Haley_19_label_from_gallery_ce1190e2:
+
+    # Haley "Three..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3667
+translate brazilian Haley_19_label_from_gallery_184701d3:
+
+    # ch_Name "Two..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3668
+translate brazilian Haley_19_label_from_gallery_aad105d8:
+
+    # Haley "One..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3670
+translate brazilian Haley_19_label_from_gallery_bd4fc747:
+
+    # "" with hpunch
+    "" with hpunch
+
+# game/logic/events/haley.rpy:3671
+translate brazilian Haley_19_label_from_gallery_bba7c3f1:
+
+    # ch_Name "{i}(What the fuck?){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3673
+translate brazilian Haley_19_label_from_gallery_055382aa:
+
+    # Haley "Ops, sorry to have bothered you."
+    Haley ""
+
+# game/logic/events/haley.rpy:3674
+translate brazilian Haley_19_label_from_gallery_d5eefa03:
+
+    # UnknownElf "What is going on?"
+    UnknownElf ""
+
+# game/logic/events/haley.rpy:3675
+translate brazilian Haley_19_label_from_gallery_02f04705:
+
+    # ch_Name "Well, we..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3677
+translate brazilian Haley_19_label_from_gallery_9dd6944f:
+
+    # ch_Name "We're just looking around."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3678
+translate brazilian Haley_19_label_from_gallery_34e3ab01:
+
+    # UnknownElf "And what do you want from us, magicians?"
+    UnknownElf ""
+
+# game/logic/events/haley.rpy:3679
+translate brazilian Haley_19_label_from_gallery_abed1f0d:
+
+    # Haley "It's nothing... Well, we'll better let you get back to your business."
+    Haley ""
+
+# game/logic/events/haley.rpy:3680
+translate brazilian Haley_19_label_from_gallery_cef4c49c:
+
+    # UnknownElf "If possible, yes. Hurry up before I start thinking that wizards have lost all sense of shame!"
+    UnknownElf ""
+
+# game/logic/events/haley.rpy:3682
+translate brazilian Haley_19_label_from_gallery_db57b327:
+
+    # ch_Name "What the hell was that?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3683
+translate brazilian Haley_19_label_from_gallery_0cd4b51b:
+
+    # ch_Name "Is there love in the air?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3684
+translate brazilian Haley_19_label_from_gallery_4e88f13d:
+
+    # Haley "At least it looks that way, he-he-he."
+    Haley ""
+
+# game/logic/events/haley.rpy:3685
+translate brazilian Haley_19_label_from_gallery_bc684c38:
+
+    # Haley "What time is it?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3687
+translate brazilian Haley_19_label_from_gallery_4059c118:
+
+    # ch_Name "11 p.m."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3688
+translate brazilian Haley_19_label_from_gallery_4e3b28ac:
+
+    # Haley "Really? It's late."
+    Haley ""
+
+# game/logic/events/haley.rpy:3689
+translate brazilian Haley_19_label_from_gallery_154ed1ae:
+
+    # Haley "Do you mind if we call it a night?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3691
+translate brazilian Haley_19_label_from_gallery_8cb61243:
+
+    # ch_Name "Okay..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3692
+translate brazilian Haley_19_label_from_gallery_abe834ec:
+
+    # ch_Name "{i}(Good things never last.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3693
+translate brazilian Haley_19_label_from_gallery_5ab8653c:
+
+    # ch_Name "Let's just put everything in the basket."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3694
+translate brazilian Haley_19_label_from_gallery_9748eec8:
+
+    # Haley "Sure, I'll help you with that."
+    Haley ""
+
+# game/logic/events/haley.rpy:3701
+translate brazilian Haley_19_label_from_gallery_94dbca95:
+
+    # Haley "It's strange that I'm so sleepy..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3702
+translate brazilian Haley_19_label_from_gallery_5a0f6903:
+
+    # Haley "I want to go to bed as soon as possible."
+    Haley ""
+
+# game/logic/events/haley.rpy:3703
+translate brazilian Haley_19_label_from_gallery_f769e718:
+
+    # ch_Name "You must be tired, so I won't keep you."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3704
+translate brazilian Haley_19_label_from_gallery_7f8603e8:
+
+    # ch_Name "I just want to thank you for this evening, cutie."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3706
+translate brazilian Haley_19_label_from_gallery_3e98f829:
+
+    # Haley "It was you who organized everything."
+    Haley ""
+
+# game/logic/events/haley.rpy:3707
+translate brazilian Haley_19_label_from_gallery_6b2dadc0:
+
+    # Haley "And it was amazing!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3708
+translate brazilian Haley_19_label_from_gallery_732bd28b:
+
+    # ch_Name "Hope we can do it again one day."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3709
+translate brazilian Haley_19_label_from_gallery_7b967ef1:
+
+    # Haley "He-he-he."
+    Haley ""
+
+# game/logic/events/haley.rpy:3710
+translate brazilian Haley_19_label_from_gallery_8e56adab:
+
+    # Haley "Oh, by the way, about the ritual..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3711
+translate brazilian Haley_19_label_from_gallery_edd8bb84:
+
+    # Haley "Let's wait for a full moon firstly."
+    Haley ""
+
+# game/logic/events/haley.rpy:3713
+translate brazilian Haley_19_label_from_gallery_20f8f431:
+
+    # ch_Name "Okay. And I'll look for a suitable place where no one will bother us."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3714
+translate brazilian Haley_19_label_from_gallery_a3757f41:
+
+    # ch_Name "Good night, Haley."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3715
+translate brazilian Haley_19_label_from_gallery_21f50013:
+
+    # Haley "Night-night!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3730
+translate brazilian Haley_20_label_9787957b:
+
+    # ch_Name "{i}(Wow, my first Yule...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3731
+translate brazilian Haley_20_label_6e8e03c0:
+
+    # ch_Name "{i}(It sure was unusual to feel happy around the Christmas holidays.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3732
+translate brazilian Haley_20_label_e8168d05:
+
+    # ch_Name "{i}(It felt nice to be with someone I care about...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3734
+translate brazilian Haley_20_label_9f9c6d7d:
+
+    # ch_Name "{i}(Samantha and her stupid childish love for snow.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3735
+translate brazilian Haley_20_label_35102262:
+
+    # ch_Name "{i}(It was so funny when she brought out that gigantic hat for a snowman.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3736
+translate brazilian Haley_20_label_676506fb:
+
+    # ch_Name "{i}(How come it never snows back at home?){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3737
+translate brazilian Haley_20_label_af3caa5f:
+
+    # ch_Name "{i}(With snow, it's so much better...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3739
+translate brazilian Haley_20_label_7bb043f3:
+
+    # ch_Name "{i}(And the presents!){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3740
+translate brazilian Haley_20_label_0b2279f8:
+
+    # ch_Name "{i}(That cake was delicious!){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3741
+translate brazilian Haley_20_label_0a56d312:
+
+    # ch_Name "{i}(Haley is so thoughtful!){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3742
+translate brazilian Haley_20_label_e61a07ee:
+
+    # ch_Name "{i}(It was nice to forget about all the problems and have time. that's for sure...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3746
+translate brazilian Haley_20_label_b4c8c248:
+
+    # NoName "Ring-ring..."
+    NoName ""
+
+# game/logic/events/haley.rpy:3747
+translate brazilian Haley_20_label_8e5fa22c:
+
+    # ch_Name "{i}(Oh... Is someone calling?){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3748
+translate brazilian Haley_20_label_d5fcc9df:
+
+    # ch_Name "{i}(Who could it be at this time of the night?){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3749
+translate brazilian Haley_20_label_e4f41020:
+
+    # ch_Name "{i}(Samantha?){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3750
+translate brazilian Haley_20_label_0c27e4c3:
+
+    # Samantha "[Name]!"
+    Samantha ""
+
+# game/logic/events/haley.rpy:3752
+translate brazilian Haley_20_label_f6498bf2:
+
+    # ch_Name "Hello, Sam. Has something happened?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3753
+translate brazilian Haley_20_label_a57d6768:
+
+    # Samantha "C'mon, are you really sleeping? It's 11 p.m."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3754
+translate brazilian Haley_20_label_e4b3ca9a:
+
+    # ch_Name "No, I'm just... I'm just chilling..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3755
+translate brazilian Haley_20_label_36ee122a:
+
+    # Samantha "It's a full moon today. I mean, don't you know?"
+    Samantha ""
+
+# game/logic/events/haley.rpy:3756
+translate brazilian Haley_20_label_62af0d50:
+
+    # Samantha "Isn't it a perfect time for performing the ritual? "
+    Samantha ""
+
+# game/logic/events/haley.rpy:3757
+translate brazilian Haley_20_label_88dbee4f:
+
+    # Samantha "And I have a couple days off so I thought."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3759
+translate brazilian Haley_20_label_9342a139:
+
+    # Samantha "Haley told me that you found all ingredients we need."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3760
+translate brazilian Haley_20_label_1f5ae037:
+
+    # Samantha "That means there's nothing to stop us."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3761
+translate brazilian Haley_20_label_b0e0b0c0:
+
+    # ch_Name "I'm all for! "
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3762
+translate brazilian Haley_20_label_0a39ddd0:
+
+    # ch_Name "But I need to ask Haley if she's okay with that."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3763
+translate brazilian Haley_20_label_59863c6a:
+
+    # Samantha "She's already here, sleepyhead. We met in the Living room."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3764
+translate brazilian Haley_20_label_640452ce:
+
+    # Samantha "We're waiting for you, so wake up and come down."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3766
+translate brazilian Haley_20_label_36c874bb:
+
+    # Samantha "But keep in mind that we don't have all the time in the world, so..."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3767
+translate brazilian Haley_20_label_72962bbb:
+
+    # Samantha "You better hurry up."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3768
+translate brazilian Haley_20_label_d3b261a9:
+
+    # ch_Name "{i}(Uhm... At least I hope it's all worth it...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3769
+translate brazilian Haley_20_label_6fd74ae4:
+
+    # ch_Name "{i}(The only thing I want now is to fall asleep in my soft and cozy bed again...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3770
+translate brazilian Haley_20_label_c37754fc:
+
+    # ch_Name "{i}(I definitely need a cup of coffee.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3778
+translate brazilian Haley_20_label_bd8ff49a:
+
+    # Haley "Where are we going?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3779
+translate brazilian Haley_20_label_b0e678d4:
+
+    # ch_Name "There is one abandoned place in the forest."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3780
+translate brazilian Haley_20_label_61d0964f:
+
+    # ch_Name "Elijah told me about it some time ago."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3781
+translate brazilian Haley_20_label_117f22a8:
+
+    # ch_Name "I hope that nobody could find and disturb us there. You couldn't ask for a better place."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3782
+translate brazilian Haley_20_label_618e6986:
+
+    # Samantha "It's exactly what we need."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3784
+translate brazilian Haley_20_label_b02cf42b:
+
+    # Samantha "Wow, looks impressive!"
+    Samantha ""
+
+# game/logic/events/haley.rpy:3785
+translate brazilian Haley_20_label_cce06153:
+
+    # Samantha "I wonder how many other secret places are there in the Academy."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3786
+translate brazilian Haley_20_label_f455aa6a:
+
+    # Haley "Guys, I'm not comfortable here."
+    Haley ""
+
+# game/logic/events/haley.rpy:3787
+translate brazilian Haley_20_label_c0456776:
+
+    # Haley "Let's just... Let's stick together, okay?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3788
+translate brazilian Haley_20_label_40178620:
+
+    # Samantha "Sure, girl. You've nothing to worry about..."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3789
+translate brazilian Haley_20_label_a8a7d727:
+
+    # Samantha "...except that we're going to perform a serious ritual and open the portal to other world..."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3791
+translate brazilian Haley_20_label_bcb9b808:
+
+    # Samantha "...and no one knows what's going to happen next..."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3792
+translate brazilian Haley_20_label_4fc5e49e:
+
+    # Samantha "Oh, look at the sky! We don't have much time."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3793
+translate brazilian Haley_20_label_25fbc935:
+
+    # Haley "Yeah, we need to start. Now or never!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3794
+translate brazilian Haley_20_label_d3ba533b:
+
+    # Haley "Let's come through this together, only three of us."
+    Haley ""
+
+# game/logic/events/haley.rpy:3796
+translate brazilian Haley_20_label_f8842fdc:
+
+    # Samantha "Are you ready, guys?"
+    Samantha ""
+
+# game/logic/events/haley.rpy:3797
+translate brazilian Haley_20_label_5b2570cd:
+
+    # ch_Name "Do we even have a choice?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3798
+translate brazilian Haley_20_label_fd02a752:
+
+    # Samantha "There is always a choice... Anyway, you don't seem very optimistic."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3800
+translate brazilian Haley_20_label_7a933d4d:
+
+    # Samantha "You need to be prepared for anything after I cast the spell."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3801
+translate brazilian Haley_20_label_f9c5cf40:
+
+    # Samantha "God knows what will happen next."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3802
+translate brazilian Haley_20_label_473e56f0:
+
+    # ch_Name "Thanks for your support, Sam. I feel much better after you said that."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3803
+translate brazilian Haley_20_label_948a45e2:
+
+    # Samantha "I'm sorry if I was... maybe a little too honest with you."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3804
+translate brazilian Haley_20_label_394e00b4:
+
+    # Samantha "Praemium nobis!"
+    Samantha ""
+
+# game/logic/events/haley.rpy:3807
+translate brazilian Haley_20_label_6837b0d8:
+
+    # ch_Name "{i}(So that's where the real magic happens!){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3808
+translate brazilian Haley_20_label_a4520e40:
+
+    # ch_Name "{i}(I've never seen anything like that before!){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3809
+translate brazilian Haley_20_label_8d22190b:
+
+    # Samantha "Why are you just standing there [Name]? I can't do everything by myself."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3810
+translate brazilian Haley_20_label_b0027ea1:
+
+    # Samantha "Put all the ingredients that we have here."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3812
+translate brazilian Haley_20_label_0d9ee9c7:
+
+    # Samantha "But be careful, don't get too close."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3813
+translate brazilian Haley_20_label_3ef8a852:
+
+    # ch_Name "{i}(Sam's so serious, it's so strange to see her like this.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3814
+translate brazilian Haley_20_label_3369d2ca:
+
+    # ch_Name "{i}(Does she feel responsible for what is happening?){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3815
+translate brazilian Haley_20_label_ebdeec28:
+
+    # ch_Name "{i}(Hm, that must be it.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3816
+translate brazilian Haley_20_label_f55a625f:
+
+    # Samantha "Great!"
+    Samantha ""
+
+# game/logic/events/haley.rpy:3819
+translate brazilian Haley_20_label_6b12ea16:
+
+    # Samantha "We got everything right."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3820
+translate brazilian Haley_20_label_0be092ac:
+
+    # ch_Name "Okay, something must be happening."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3821
+translate brazilian Haley_20_label_e40e768a:
+
+    # ch_Name "I'm not sure what it is, but I mean, it is bubbling furiously."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3824
+translate brazilian Haley_20_label_1ac888df:
+
+    # Haley "Wow, what's that?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3825
+translate brazilian Haley_20_label_98213baa:
+
+    # Haley "A dagger?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3826
+translate brazilian Haley_20_label_fdfe59c5:
+
+    # Samantha "That's not just a dagger. "
+    Samantha ""
+
+# game/logic/events/haley.rpy:3828
+translate brazilian Haley_20_label_44b5099e:
+
+    # Samantha "It's the invincible dagger. It's impossible to open the portal without it."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3829
+translate brazilian Haley_20_label_3cca86fe:
+
+    # Samantha "I read about it in many books but didn't think that it really exists."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3830
+translate brazilian Haley_20_label_712c00de:
+
+    # Samantha "My whole world has turned upside down!"
+    Samantha ""
+
+# game/logic/events/haley.rpy:3832
+translate brazilian Haley_20_label_ba867998:
+
+    # Samantha "I can't imagine that I'm doing this!"
+    Samantha ""
+
+# game/logic/events/haley.rpy:3833
+translate brazilian Haley_20_label_bd1eb1e6:
+
+    # Samantha "Whoa!"
+    Samantha ""
+
+# game/logic/events/haley.rpy:3834
+translate brazilian Haley_20_label_7238d33a:
+
+    # Samantha "The dagger concentrates so much mystical energy that my hands are shaking."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3837
+translate brazilian Haley_20_label_a126d08d:
+
+    # Samantha "Aperioculis!"
+    Samantha ""
+
+# game/logic/events/haley.rpy:3838
+translate brazilian Haley_20_label_b56c4e54:
+
+    # ch_Name "{i}(I always knew that Sam is very powerful wizard, but when you see it in reality...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3839
+translate brazilian Haley_20_label_bf979239:
+
+    # ch_Name "{i}(It hits different!){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3840
+translate brazilian Haley_20_label_0faad5fc:
+
+    # ch_Name "Haley, are you nervous?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3843
+translate brazilian Haley_20_label_95bdbe4e:
+
+    # Haley "Not really. I... I feel like I'm dreaming." with hpunch
+    Haley "" with hpunch
+
+# game/logic/events/haley.rpy:3844
+translate brazilian Haley_20_label_6a50cef3:
+
+    # Haley "I can't believe that it's really happening."
+    Haley ""
+
+# game/logic/events/haley.rpy:3845
+translate brazilian Haley_20_label_d1dc797c:
+
+    # ch_Name "Just remember that no matter what, I'll be there for you."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3846
+translate brazilian Haley_20_label_00b1eb69:
+
+    # ch_Name "And together we will get through this just as we always do."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3848
+translate brazilian Haley_20_label_6a118eae:
+
+    # Samantha "Go on, don't waste any time!"
+    Samantha ""
+
+# game/logic/events/haley.rpy:3849
+translate brazilian Haley_20_label_d56b5430:
+
+    # Haley "Wait, aren't you coming with us?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3850
+translate brazilian Haley_20_label_8c74324d:
+
+    # Samantha "No-no-no."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3852
+translate brazilian Haley_20_label_7c5b480d:
+
+    # Samantha "Someone needs to protect the portal and open it again for you to return."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3853
+translate brazilian Haley_20_label_97cfc1e6:
+
+    # Samantha "Okay, I want you to listen to me very carefully."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3854
+translate brazilian Haley_20_label_0a256524:
+
+    # Samantha "You have exactly 13 hours."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3856
+translate brazilian Haley_20_label_5cc3211b:
+
+    # Samantha "In 13 hours I will open the portal again."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3857
+translate brazilian Haley_20_label_a00ac60b:
+
+    # Samantha "If your not back by then, I'll sound the alarm."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3858
+translate brazilian Haley_20_label_ed29c76a:
+
+    # Samantha "Take it seriously, okay?"
+    Samantha ""
+
+# game/logic/events/haley.rpy:3859
+translate brazilian Haley_20_label_61dbaa25:
+
+    # ch_Name "Thank you, Sam."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3861
+translate brazilian Haley_20_label_576efa6e:
+
+    # ch_Name "You can't even imagine how important this night is for us."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3862
+translate brazilian Haley_20_label_42a36c49:
+
+    # ch_Name "And none of this would be possible without you."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3863
+translate brazilian Haley_20_label_c7b8a2a8:
+
+    # ch_Name "Come here."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3865
+translate brazilian Haley_20_label_14455d81:
+
+    # Samantha "Aww!"
+    Samantha ""
+
+# game/logic/events/haley.rpy:3866
+translate brazilian Haley_20_label_0f3bd70a:
+
+    # Samantha "Good luck to you both."
+    Samantha ""
+
+# game/logic/events/haley.rpy:3868
+translate brazilian Haley_20_label_e1802d59:
+
+    # ch_Name "Together?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3869
+translate brazilian Haley_20_label_1dab638e:
+
+    # Haley "Together, [Name]."
+    Haley ""
+
+# game/logic/events/haley.rpy:3877
+translate brazilian Haley_20_label_e82df5da:
+
+    # Haley "So... Where are we?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3878
+translate brazilian Haley_20_label_68755341:
+
+    # Haley "I think we've landed in paradise."
+    Haley ""
+
+# game/logic/events/haley.rpy:3879
+translate brazilian Haley_20_label_1095a2d7:
+
+    # Haley "I can understand why Elijah's brother with Hans decided to give up everything..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3880
+translate brazilian Haley_20_label_b8bfc523:
+
+    # Haley "...to spend an eternity here on their own."
+    Haley ""
+
+# game/logic/events/haley.rpy:3881
+translate brazilian Haley_20_label_ef74f441:
+
+    # ch_Name "This place is so beautiful!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3883
+translate brazilian Haley_20_label_d7bea88e:
+
+    # Haley "And the time stream is different here, obviously."
+    Haley ""
+
+# game/logic/events/haley.rpy:3884
+translate brazilian Haley_20_label_8939da64:
+
+    # Haley "Compared with our world, I think that we do have two timestreams..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3885
+translate brazilian Haley_20_label_137953d5:
+
+    # Haley "...running parallel, but at different speeds."
+    Haley ""
+
+# game/logic/events/haley.rpy:3886
+translate brazilian Haley_20_label_23762d04:
+
+    # ch_Name "Let's walk around for a little and look for any sign of life."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3887
+translate brazilian Haley_20_label_dcada5ea:
+
+    # Haley "Good idea. For now it feels like we're alone here."
+    Haley ""
+
+# game/logic/events/haley.rpy:3889
+translate brazilian Haley_20_label_2a0e0180:
+
+    # ch_Name "Haley, aren't you hungry?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3890
+translate brazilian Haley_20_label_bb5c0416:
+
+    # Haley "What?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3891
+translate brazilian Haley_20_label_8e0c99aa:
+
+    # ch_Name "Do you think that some plants can be edible here?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3892
+translate brazilian Haley_20_label_78538b77:
+
+    # Haley "Well, perhaps we should play it safe. Let's not eat or smell anything."
+    Haley ""
+
+# game/logic/events/haley.rpy:3893
+translate brazilian Haley_20_label_6b2701b5:
+
+    # ch_Name "Sounds reasonable enough."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3895
+translate brazilian Haley_20_label_4313a902:
+
+    # Haley "Whoa, [Name], look how lovely she is!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3896
+translate brazilian Haley_20_label_1b67e978:
+
+    # ch_Name "What are you talking about?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3897
+translate brazilian Haley_20_label_27d19671:
+
+    # Haley "Phew, I can't believe it."
+    Haley ""
+
+# game/logic/events/haley.rpy:3899
+translate brazilian Haley_20_label_de1e998b:
+
+    # Haley "I think she likes me!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3900
+translate brazilian Haley_20_label_84b9db30:
+
+    # ch_Name "How can anybody not like you?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3901
+translate brazilian Haley_20_label_e0ff93c4:
+
+    # ch_Name "Beautiful reaches for beautiful, Haley."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3902
+translate brazilian Haley_20_label_c0b7151c:
+
+    # Haley "He-he."
+    Haley ""
+
+# game/logic/events/haley.rpy:3903
+translate brazilian Haley_20_label_969c813e:
+
+    # ch_Name "I've never seen such a bird before. Her eyes look a little strange."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3905
+translate brazilian Haley_20_label_0330a5c0:
+
+    # ch_Name "I hope she isn't dangerous."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3906
+translate brazilian Haley_20_label_fa0f4a31:
+
+    # ch_Name "If I have to die, I want it to be for a better reason than because of the little poisonous birdie."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3907
+translate brazilian Haley_20_label_eac89a47:
+
+    # ch_Name "{i}(And what's that? Is it just me, or..){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3908
+translate brazilian Haley_20_label_b14a12ef:
+
+    # ch_Name "Haley!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3909
+translate brazilian Haley_20_label_ef785add:
+
+    # ch_Name "There's a kind of cave there right behind you."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3911
+translate brazilian Haley_20_label_a091c2cb:
+
+    # Haley "What?! "
+    Haley ""
+
+# game/logic/events/haley.rpy:3912
+translate brazilian Haley_20_label_0e3a1761:
+
+    # Haley "How could we not see it earlier? "
+    Haley ""
+
+# game/logic/events/haley.rpy:3913
+translate brazilian Haley_20_label_150c211d:
+
+    # Haley "Let's go, [Name]. No time to waste."
+    Haley ""
+
+# game/logic/events/haley.rpy:3914
+translate brazilian Haley_20_label_13fb0fa1:
+
+    # ch_Name "Are you sure you want to go in there?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3916
+translate brazilian Haley_20_label_cf779579:
+
+    # Haley "Are you kidding? There can be no other way."
+    Haley ""
+
+# game/logic/events/haley.rpy:3917
+translate brazilian Haley_20_label_6228fc2f:
+
+    # Haley "There might be lots of clues."
+    Haley ""
+
+# game/logic/events/haley.rpy:3918
+translate brazilian Haley_20_label_964de075:
+
+    # Haley "Detective Haley is back to business!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3925
+translate brazilian Haley_20_label_79938bf2:
+
+    # Haley "I hope there are no surprises apart from the bats."
+    Haley ""
+
+# game/logic/events/haley.rpy:3926
+translate brazilian Haley_20_label_8ac8f0c0:
+
+    # Haley "I don't think anyone wants to live in such a place when it's so beautiful outside."
+    Haley ""
+
+# game/logic/events/haley.rpy:3927
+translate brazilian Haley_20_label_42f9f8ee:
+
+    # ch_Name "At least it's possible to hide from some danger here."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3929
+translate brazilian Haley_20_label_8cb548ae:
+
+    # Haley "Do you think that someone may need it?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3930
+translate brazilian Haley_20_label_8f2ac053:
+
+    # ch_Name "I don't really know. Everything's possible here."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3931
+translate brazilian Haley_20_label_784f823c:
+
+    # Haley "[Name]! Come here, please!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3933
+translate brazilian Haley_20_label_784febcb:
+
+    # ch_Name "Are you okay?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3934
+translate brazilian Haley_20_label_0cce84cf:
+
+    # Haley "I think I've found something. There are someone's bone particles!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3935
+translate brazilian Haley_20_label_545da50b:
+
+    # ch_Name "Do you think they're human?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3937
+translate brazilian Haley_20_label_420bd269:
+
+    # Haley "I don't know, [Name]. I don't know."
+    Haley ""
+
+# game/logic/events/haley.rpy:3938
+translate brazilian Haley_20_label_d6613a04:
+
+    # Haley "It seems so..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3939
+translate brazilian Haley_20_label_5fcaf485:
+
+    # Haley "Do you think that they're E. Bloom's remains...? "
+    Haley ""
+
+# game/logic/events/haley.rpy:3941
+translate brazilian Haley_20_label_c961a5e7:
+
+    # ch_Name "Haley, let's not jump to conclusions too quickly."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3942
+translate brazilian Haley_20_label_f6ee79db:
+
+    # ch_Name "It might be, but we don't have any evidence of that."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3943
+translate brazilian Haley_20_label_17049964:
+
+    # Haley "There's nothing to think about, [Name]!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3945
+translate brazilian Haley_20_label_c75a1a6b:
+
+    # Haley "We broke all the rules of the Academy, bothered Samantha, performed this ritual..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3946
+translate brazilian Haley_20_label_514f4413:
+
+    # Haley "What’s this all about?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3947
+translate brazilian Haley_20_label_54e7e7c0:
+
+    # Haley "Samantha is alone in the forest now! Anything can happen to her!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3948
+translate brazilian Haley_20_label_1518e9ec:
+
+    # ch_Name "I believe she can defend herself better than any of us."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3950
+translate brazilian Haley_20_label_7ca61d46:
+
+    # Haley "In any case..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3951
+translate brazilian Haley_20_label_cb3bc2c3:
+
+    # Haley "We're stuck on an empty island with a skeleton!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3952
+translate brazilian Haley_20_label_cd573490:
+
+    # Haley "And Sam will open the portal only in 10 hours!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3953
+translate brazilian Haley_20_label_3ef25665:
+
+    # Haley "This is an utter failure, [Name]. Just admit it."
+    Haley ""
+
+# game/logic/events/haley.rpy:3955
+translate brazilian Haley_20_label_0a6d2f61:
+
+    # Haley "And I'm the one who got you into this mess."
+    Haley ""
+
+# game/logic/events/haley.rpy:3956
+translate brazilian Haley_20_label_590e9ef7:
+
+    # ch_Name "Shhh!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3957
+translate brazilian Haley_20_label_f46c1f05:
+
+    # ch_Name "You don't know what you are saying, Haley."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3959
+translate brazilian Haley_20_label_4b5b181d:
+
+    # Haley "No, [Name], please."
+    Haley ""
+
+# game/logic/events/haley.rpy:3960
+translate brazilian Haley_20_label_6f9e033f:
+
+    # Haley "I would like to be alone now."
+    Haley ""
+
+# game/logic/events/haley.rpy:3961
+translate brazilian Haley_20_label_33993b42:
+
+    # ch_Name "{i}(Hmmm...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3963
+translate brazilian Haley_20_label_0ae9bcd0:
+
+    # ""
+    ""
+
+# game/logic/events/haley.rpy:3966
+translate brazilian Haley_20_label_4623020d:
+
+    # ch_Name "{i}(Perhaps I should leave her alone.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3967
+translate brazilian Haley_20_label_cb76122a:
+
+    # ch_Name "{i}(Yes... The best option is to let her chill out.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3968
+translate brazilian Haley_20_label_5a46b165:
+
+    # ch_Name "{i}(She needs some time.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3970
+translate brazilian Haley_20_label_9ed7642c:
+
+    # ch_Name "Haley, stop!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3971
+translate brazilian Haley_20_label_ea02cc02:
+
+    # ch_Name "Don't take it personally and don't start having catastrophic thoughts."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3972
+translate brazilian Haley_20_label_bcfd983b:
+
+    # ch_Name "You put too much pressure on yourself."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3974
+translate brazilian Haley_20_label_cfbb363c:
+
+    # Haley "[Name], just leave me alone with all these catastrophic thoughts, please."
+    Haley ""
+
+# game/logic/events/haley.rpy:3975
+translate brazilian Haley_20_label_b4efe4e6:
+
+    # ch_Name "{i}(She's pretty even when she cries!){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3976
+translate brazilian Haley_20_label_a37592fc:
+
+    # Haley "Can I admire the view all alone at least?"
+    Haley ""
+
+# game/logic/events/haley.rpy:3977
+translate brazilian Haley_20_label_da047b3d:
+
+    # Haley "I don't want to offend you, but..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3978
+translate brazilian Haley_20_label_8b75b03e:
+
+    # ch_Name "Okay, I get it."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3979
+translate brazilian Haley_20_label_2be3e314:
+
+    # ch_Name "I'll be waiting right here."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3991
+translate brazilian Haley_20_label_from_gallery_2f6cb215:
+
+    # ch_Name "{i}(It is so difficult to just stand here and watch her.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3992
+translate brazilian Haley_20_label_from_gallery_1c768def:
+
+    # ch_Name "{i}(Haley-Haley, I wonder what are you thinking about.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3993
+translate brazilian Haley_20_label_from_gallery_ba2763bf:
+
+    # ch_Name "{i}(Should I get a little closer? She seems better now.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3995
+translate brazilian Haley_20_label_from_gallery_8923a390:
+
+    # Haley "[Name]! Thank God you're here!"
+    Haley ""
+
+# game/logic/events/haley.rpy:3996
+translate brazilian Haley_20_label_from_gallery_4860d45d:
+
+    # Haley "I... I'm so sorry if I hurt you..."
+    Haley ""
+
+# game/logic/events/haley.rpy:3997
+translate brazilian Haley_20_label_from_gallery_18ba2ac1:
+
+    # ch_Name "There's nothing to feel sorry about."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:3998
+translate brazilian Haley_20_label_from_gallery_bec4a506:
+
+    # Haley "I've been thinking a lot about everything and about... about us."
+    Haley ""
+
+# game/logic/events/haley.rpy:3999
+translate brazilian Haley_20_label_from_gallery_34899553:
+
+    # Haley "And I realized that it wasn't all for nothing!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4001
+translate brazilian Haley_20_label_from_gallery_57a22600:
+
+    # Haley "We've been through a lot together, [Name]. Together, you and I."
+    Haley ""
+
+# game/logic/events/haley.rpy:4002
+translate brazilian Haley_20_label_from_gallery_4a2539e7:
+
+    # Haley "And we've gotten really close. I've never been this close to anyone..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4003
+translate brazilian Haley_20_label_from_gallery_54082ca1:
+
+    # Haley "I can't imagine my life without you now."
+    Haley ""
+
+# game/logic/events/haley.rpy:4004
+translate brazilian Haley_20_label_from_gallery_df158151:
+
+    # Haley "I just... I... I think I love you. I can't remember when I started to feel this way..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4005
+translate brazilian Haley_20_label_from_gallery_1ede3fec:
+
+    # Haley "...but very naturally, I had fallen in love with you before I knew it."
+    Haley ""
+
+# game/logic/events/haley.rpy:4007
+translate brazilian Haley_20_label_from_gallery_6430f8fc:
+
+    # ch_Name "{i}(She loves me? Is she really saying that...?){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4008
+translate brazilian Haley_20_label_from_gallery_289fbf1f:
+
+    # ch_Name "Haley, you have no idea how long I've wanted to hear that from you. "
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4009
+translate brazilian Haley_20_label_from_gallery_18fc86ed:
+
+    # Haley "For me love always was a human construct, just a fairy tale, a fantasy."
+    Haley ""
+
+# game/logic/events/haley.rpy:4010
+translate brazilian Haley_20_label_from_gallery_74a0d849:
+
+    # Haley "But what I feel when I with you... It is much deeper than sympathy or admiration."
+    Haley ""
+
+# game/logic/events/haley.rpy:4011
+translate brazilian Haley_20_label_from_gallery_4e056e7e:
+
+    # Haley "This is called love."
+    Haley ""
+
+# game/logic/events/haley.rpy:4013
+translate brazilian Haley_20_label_from_gallery_52a9db71:
+
+    # Haley "If the failure with saving Elijah's brother is the cost of it..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4014
+translate brazilian Haley_20_label_from_gallery_b7d74391:
+
+    # Haley "Then here I am, with no regrets."
+    Haley ""
+
+# game/logic/events/haley.rpy:4021
+translate brazilian Haley_20_label_from_gallery_13285b7f:
+
+    # ch_Name "I appreciate that you're honest about how you feel, but..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4023
+translate brazilian Haley_20_label_from_gallery_ae0c7e34:
+
+    # Haley "Um..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4024
+translate brazilian Haley_20_label_from_gallery_168da1c2:
+
+    # ch_Name "Haley, baby, I know exactly that this not the reaction that you expected."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4025
+translate brazilian Haley_20_label_from_gallery_b05d0a9c:
+
+    # ch_Name "The thing is, you've become really important to me."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4026
+translate brazilian Haley_20_label_from_gallery_d91f295d:
+
+    # ch_Name "I'm very happy to hear all these sweet things from you but..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4027
+translate brazilian Haley_20_label_from_gallery_4b963ada:
+
+    # ch_Name "I wasn't ready for this conversation to happen today."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4028
+translate brazilian Haley_20_label_from_gallery_acd386b1:
+
+    # ch_Name "...I don't know what to say about it. I'm sorry."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4030
+translate brazilian Haley_20_label_from_gallery_36640a80:
+
+    # ch_Name "All I can think about is this story with Elijah's brother. "
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4031
+translate brazilian Haley_20_label_from_gallery_c9f49a7f:
+
+    # ch_Name "I literally can't relax while we are stuck on this island in complete ignorance!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4032
+translate brazilian Haley_20_label_from_gallery_60c779bb:
+
+    # ch_Name "So let's talk about this later, okay?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4033
+translate brazilian Haley_20_label_from_gallery_ca9997aa:
+
+    # Haley "Yes, I mean... Sure, don't worry."
+    Haley ""
+
+# game/logic/events/haley.rpy:4034
+translate brazilian Haley_20_label_from_gallery_ba5bda64:
+
+    # Haley "It's not the right time for this, sorry..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4035
+translate brazilian Haley_20_label_from_gallery_80184656:
+
+    # ch_Name "{i}(I hope I didn't hurt her.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4036
+translate brazilian Haley_20_label_from_gallery_5314d435:
+
+    # ch_Name "Whoa, we have so much time before the portal will open."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4037
+translate brazilian Haley_20_label_from_gallery_6a462281:
+
+    # ch_Name "Let's just, let's... let's sleep on it."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4038
+translate brazilian Haley_20_label_from_gallery_93401f72:
+
+    # Haley "I think I'll stay here a bit. "
+    Haley ""
+
+# game/logic/events/haley.rpy:4040
+translate brazilian Haley_20_label_from_gallery_f7d1de18:
+
+    # Haley "It's lovely to watch the sunset from up here, he-he."
+    Haley ""
+
+# game/logic/events/haley.rpy:4041
+translate brazilian Haley_20_label_from_gallery_a32adb0b:
+
+    # ch_Name "I'm just too sleepy for that, so I better take a nap."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4042
+translate brazilian Haley_20_label_from_gallery_d7629e41:
+
+    # ch_Name "If you see anything, holler, okay?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4043
+translate brazilian Haley_20_label_from_gallery_2702a03a:
+
+    # Haley "Alright. But somehow I'm sure that everything will be fine."
+    Haley ""
+
+# game/logic/events/haley.rpy:4044
+translate brazilian Haley_20_label_from_gallery_987a95ef:
+
+    # Haley "Sweet dreams, [Name]."
+    Haley ""
+
+# game/logic/events/haley.rpy:4066
+translate brazilian Haley_20_label_from_gallery_adb2daf4:
+
+    # ch_Name "{i}(Oh... What happened?){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4067
+translate brazilian Haley_20_label_from_gallery_7f3cd4cb:
+
+    # ch_Name "{i}(Did we fall asleep?){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4068
+translate brazilian Haley_20_label_from_gallery_ab7360f2:
+
+    # ch_Name "{i}(And where's Haley? I should find her.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4075
+translate brazilian Haley_20_label_from_gallery_b14a12ef:
+
+    # ch_Name "Haley!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4076
+translate brazilian Haley_20_label_from_gallery_2dc58e03:
+
+    # ch_Name "Hey! Where are you?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4077
+translate brazilian Haley_20_label_from_gallery_7f216894:
+
+    # ch_Name "Haley, this is not funny!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4079
+translate brazilian Haley_20_label_from_gallery_ab5119e8:
+
+    # ch_Name "{i}(Wait, WHAT? Who is that?){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4080
+translate brazilian Haley_20_label_from_gallery_394044f2:
+
+    # ch_Name "{i}(I thought this island was deserted...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4081
+translate brazilian Haley_20_label_from_gallery_038a570f:
+
+    # ch_Name "Hey! You!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4082
+translate brazilian Haley_20_label_from_gallery_026e5f48:
+
+    # ch_Name "Stop right there! Who are you?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4084
+translate brazilian Haley_20_label_from_gallery_c7d6f76e:
+
+    # Ezra "Are you talking to me?"
+    Ezra ""
+
+# game/logic/events/haley.rpy:4085
+translate brazilian Haley_20_label_from_gallery_d3490a7d:
+
+    # ch_Name "Yeah... Have you seen a girl around here?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4086
+translate brazilian Haley_20_label_from_gallery_1f064f3e:
+
+    # Ezra "A girl? Nah..."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4087
+translate brazilian Haley_20_label_from_gallery_ab28a1f4:
+
+    # ch_Name "Shit. Nevermind then... Wait!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4088
+translate brazilian Haley_20_label_from_gallery_692f0831:
+
+    # ch_Name "What are you doing here?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4089
+translate brazilian Haley_20_label_from_gallery_9eaab7ee:
+
+    # Ezra "That's what I want to ask you."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4090
+translate brazilian Haley_20_label_from_gallery_379f93ca:
+
+    # ch_Name "Who are you?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4091
+translate brazilian Haley_20_label_from_gallery_592270b0:
+
+    # Ezra "I'm Ezra Bloom."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4092
+translate brazilian Haley_20_label_from_gallery_2597511b:
+
+    # ch_Name "{i}(What?!){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4104
+translate brazilian Haley_20_label_L218_0e74ca2a:
+
+    # ch_Name "Haley, I..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4105
+translate brazilian Haley_20_label_L218_9931ee68:
+
+    # ch_Name "You mean so much to me, so I just... I..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4106
+translate brazilian Haley_20_label_L218_a48d486e:
+
+    # ch_Name "{i}(Did I forget how to speak?){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4108
+translate brazilian Haley_20_label_L218_3f958e80:
+
+    # ch_Name "The thing is I love you more than anything in the Universe..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4109
+translate brazilian Haley_20_label_L218_e7061bb1:
+
+    # Haley "Shhh."
+    Haley ""
+
+# game/logic/events/haley.rpy:4110
+translate brazilian Haley_20_label_L218_4c0b724a:
+
+    # ch_Name "{i}(All I can think about is the warmth of her skin and taste of her lips...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4112
+translate brazilian Haley_20_label_L218_fe02d0ec:
+
+    # Haley "Mhm..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4113
+translate brazilian Haley_20_label_L218_0ae9bcd0:
+
+    # ""
+    ""
+
+# game/logic/events/haley.rpy:4114
+translate brazilian Haley_20_label_L218_76bcfc77:
+
+    # ch_Name "{i}(This is like a dream come true...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4116
+translate brazilian Haley_20_label_L218_df183b53:
+
+    # ch_Name "{i}(A perfect place, with a perfect girl...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4117
+translate brazilian Haley_20_label_L218_0ae9bcd0_1:
+
+    # ""
+    ""
+
+# game/logic/events/haley.rpy:4118
+translate brazilian Haley_20_label_L218_fac02ba5:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4120
+translate brazilian Haley_20_label_L218_fd5083aa:
+
+    # ch_Name "{i}(And it seem like she doesn't mind to go all the way...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4121
+translate brazilian Haley_20_label_L218_6436ee1b:
+
+    # ch_Name "{i}(Her ass is so firm and nice to the touch.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4122
+translate brazilian Haley_20_label_L218_0b5c46d8:
+
+    # ch_Name "{i}(I could squeeze it forever.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4123
+translate brazilian Haley_20_label_L218_5d474800:
+
+    # Haley "Ah..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4125
+translate brazilian Haley_20_label_L218_f8aa94f6:
+
+    # Haley "[Name]..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4126
+translate brazilian Haley_20_label_L218_eade5de0:
+
+    # ch_Name "Yes?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4127
+translate brazilian Haley_20_label_L218_636097e3:
+
+    # Haley "I'm in love with you too."
+    Haley ""
+
+# game/logic/events/haley.rpy:4129
+translate brazilian Haley_20_label_L218_8b0bdd70:
+
+    # ch_Name "You're so beautiful right now. I could look at you for eternity!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4130
+translate brazilian Haley_20_label_L218_ce53f238:
+
+    # ch_Name "But it's getting too hot here... I'm afraid we might need to get out of these clothes."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4131
+translate brazilian Haley_20_label_L218_585e7d27:
+
+    # Haley "You think so?"
+    Haley ""
+
+# game/logic/events/haley.rpy:4133
+translate brazilian Haley_20_label_L218_7beacb17:
+
+    # ch_Name "Yeah. Here, let me help you..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4134
+translate brazilian Haley_20_label_L218_b5979685:
+
+    # Haley "Ah... "
+    Haley ""
+
+# game/logic/events/haley.rpy:4135
+translate brazilian Haley_20_label_L218_e7fd4013:
+
+    # ch_Name "Trust me."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4137
+translate brazilian Haley_20_label_L218_3765a10d:
+
+    # ch_Name "Now, doesn't it feels better to feel a fresh breeze on your skin?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4138
+translate brazilian Haley_20_label_L218_a44269f0:
+
+    # Haley "It feels nice, you're right."
+    Haley ""
+
+# game/logic/events/haley.rpy:4139
+translate brazilian Haley_20_label_L218_dccfa501:
+
+    # Haley "Don't be so shy...{w} I know you want to touch them."
+    Haley ""
+
+# game/logic/events/haley.rpy:4141
+translate brazilian Haley_20_label_L218_bd3d1cb7:
+
+    # ch_Name "{i}(Wow. Here breasts are perfect...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4142
+translate brazilian Haley_20_label_L218_0405a074:
+
+    # ch_Name "{i}(I can feel how excited she is based on her heart rate.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4143
+translate brazilian Haley_20_label_L218_7a36025c:
+
+    # ch_Name "Like that?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4145
+translate brazilian Haley_20_label_L218_84dd2900:
+
+    # Haley "I guess..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4146
+translate brazilian Haley_20_label_L218_e73aba47:
+
+    # ch_Name "How does that feels?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4147
+translate brazilian Haley_20_label_L218_db257565:
+
+    # Haley "That feels...{w} amazing."
+    Haley ""
+
+# game/logic/events/haley.rpy:4148
+translate brazilian Haley_20_label_L218_8394877b:
+
+    # ch_Name "Come here, baby..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4150
+translate brazilian Haley_20_label_L218_def5c971:
+
+    # Haley "Ah... Yes..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4151
+translate brazilian Haley_20_label_L218_1ca68ac0:
+
+    # Haley "Now, kiss me."
+    Haley ""
+
+# game/logic/events/haley.rpy:4152
+translate brazilian Haley_20_label_L218_fe02d0ec_1:
+
+    # Haley "Mhm..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4154
+translate brazilian Haley_20_label_L218_9d16a83a:
+
+    # ch_Name "{i}(Every part of her body is perfect.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4155
+translate brazilian Haley_20_label_L218_62aac219:
+
+    # ch_Name "{i}(She deserves to be worshipped like a goddess of beauty.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4156
+translate brazilian Haley_20_label_L218_fe02d0ec_2:
+
+    # Haley "Mhm..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4158
+translate brazilian Haley_20_label_L218_f49d921a:
+
+    # ch_Name "{i}(I've kissed many girls.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4159
+translate brazilian Haley_20_label_L218_9485bdf1:
+
+    # ch_Name "{i}(But never felt like this before.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4160
+translate brazilian Haley_20_label_L218_5568efcb:
+
+    # ch_Name "{i}(It's like our tongues are meant for each other.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4162
+translate brazilian Haley_20_label_L218_fe02d0ec_3:
+
+    # Haley "Mhm..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4163
+translate brazilian Haley_20_label_L218_63e197c6:
+
+    # ch_Name "{i}(The sand feels so nice and warm.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4164
+translate brazilian Haley_20_label_L218_47c1f23b:
+
+    # ch_Name "{i}(I don't even mind getting it all over me.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4166
+translate brazilian Haley_20_label_L218_608efc2d:
+
+    # ch_Name "I think I'll lose the clothes too."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4167
+translate brazilian Haley_20_label_L218_39788d94:
+
+    # Haley "You do just that. I was wondering when will you join me."
+    Haley ""
+
+# game/logic/events/haley.rpy:4168
+translate brazilian Haley_20_label_L218_49fb9882:
+
+    # ch_Name "Yeah, that's much better."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4170
+translate brazilian Haley_20_label_L218_fc455306:
+
+    # Haley "Wow, you're so fit!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4171
+translate brazilian Haley_20_label_L218_c98583bb:
+
+    # ch_Name "Well, you may feast your eyes, my lady."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4172
+translate brazilian Haley_20_label_L218_87fdfe3c:
+
+    # ch_Name "As I go lower..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4174
+translate brazilian Haley_20_label_L218_1683ab18:
+
+    # Haley "Lower? Where do you think you're going..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4175
+translate brazilian Haley_20_label_L218_b5414399:
+
+    # ch_Name "You'll see."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4176
+translate brazilian Haley_20_label_L218_05870351:
+
+    # Haley "Ah, [Name], you're so naughty..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4178
+translate brazilian Haley_20_label_L218_c0db9f20:
+
+    # ch_Name "{i}(She has such cute panties.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4179
+translate brazilian Haley_20_label_L218_33da3bc1:
+
+    # ch_Name "{i}(But I'm sure she'll look her best without them.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4180
+translate brazilian Haley_20_label_L218_82c68def:
+
+    # Haley "Wait, [Name], are you going to..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4182
+translate brazilian Haley_20_label_L218_f786dd35:
+
+    # ch_Name "Oh, yeah. But if you want, I'll stop..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4183
+translate brazilian Haley_20_label_L218_bbb33b08:
+
+    # Haley "I've been dreaming about this for too long to back out now!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4184
+translate brazilian Haley_20_label_L218_5c9b1fcb:
+
+    # Haley "Go on."
+    Haley ""
+
+# game/logic/events/haley.rpy:4186
+translate brazilian Haley_20_label_L218_499e21a6:
+
+    # ch_Name "Aye aye captain."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4187
+translate brazilian Haley_20_label_L218_e78983fa:
+
+    # ch_Name "{i}(This is really happening...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4188
+translate brazilian Haley_20_label_L218_d95440c8:
+
+    # ch_Name "{i}(I'm so close...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4190
+translate brazilian Haley_20_label_L218_0c79a57a:
+
+    # ch_Name "{i}(This is it!){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4191
+translate brazilian Haley_20_label_L218_9c4e09a7:
+
+    # ch_Name "Haley, you are...{w} beautiful!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4192
+translate brazilian Haley_20_label_L218_6a030973:
+
+    # ch_Name "Hey, [Name]. That's not fair. You took a look, but what am I supposed to look at?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4194
+translate brazilian Haley_20_label_L218_ad9f63f9:
+
+    # Haley "Why don't you take your panties off, too?"
+    Haley ""
+
+# game/logic/events/haley.rpy:4195
+translate brazilian Haley_20_label_L218_4dbb74fb:
+
+    # ch_Name "I'd love to."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4196
+translate brazilian Haley_20_label_L218_aaa5db30:
+
+    # ch_Name "But afterwards..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4201
+translate brazilian Haley_20_label_menu_check_9cbb9f92:
+
+    # ch_Name "I want to kiss you."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4202
+translate brazilian Haley_20_label_menu_check_1dcf716e:
+
+    # Haley "So what's stopping you? Come here!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4204
+translate brazilian Haley_20_label_menu_check_c5e8a46d:
+
+    # ch_Name "Not like that. I want to kiss you here..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4205
+translate brazilian Haley_20_label_menu_check_f53893eb:
+
+    # Haley "Oh... Will it feel good?"
+    Haley ""
+
+# game/logic/events/haley.rpy:4206
+translate brazilian Haley_20_label_menu_check_5a55d7c5:
+
+    # ch_Name "Trust me, it will!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4209
+translate brazilian Haley_20_label_menu_check_5d474800:
+
+    # Haley "Ah..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4211
+translate brazilian Haley_20_label_menu_check_92b70279:
+
+    # Haley "Oh, wow!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4212
+translate brazilian Haley_20_label_menu_check_fac02ba5:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4213
+translate brazilian Haley_20_label_menu_check_7cd8bab1:
+
+    # Haley "Yes. Oh, yes!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4216
+translate brazilian Haley_20_label_menu_check_fac02ba5_1:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4217
+translate brazilian Haley_20_label_menu_check_61a36f94:
+
+    # ch_Name "{i}(If a paradise has a taste - here it is.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4218
+translate brazilian Haley_20_label_menu_check_5d474800_1:
+
+    # Haley "Ah..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4219
+translate brazilian Haley_20_label_menu_check_b9e5af58:
+
+    # Haley "Oh... Mhm..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4222
+translate brazilian Haley_20_label_menu_check_fac02ba5_2:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4223
+translate brazilian Haley_20_label_menu_check_884f9d96:
+
+    # ch_Name "Do you like it?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4224
+translate brazilian Haley_20_label_menu_check_7cd8bab1_1:
+
+    # Haley "Yes. Oh, yes!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4225
+translate brazilian Haley_20_label_menu_check_e550a22b:
+
+    # Haley "I've never felt that good before."
+    Haley ""
+
+# game/logic/events/haley.rpy:4232
+translate brazilian Haley_20_label_menu_check_f6a7334d:
+
+    # ch_Name "I want to show you something."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4233
+translate brazilian Haley_20_label_menu_check_bb5c0416:
+
+    # Haley "What?"
+    Haley ""
+
+# game/logic/events/haley.rpy:4234
+translate brazilian Haley_20_label_menu_check_a90e6fd3:
+
+    # ch_Name "Let's just call it \"finger magic\"."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4236
+translate brazilian Haley_20_label_menu_check_893de0f1:
+
+    # Haley "Oh... Wait, what are you doing?"
+    Haley ""
+
+# game/logic/events/haley.rpy:4238
+translate brazilian Haley_20_label_menu_check_e7fd4013:
+
+    # ch_Name "Trust me."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4240
+translate brazilian Haley_20_label_menu_check_5d474800_2:
+
+    # Haley "Ah..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4241
+translate brazilian Haley_20_label_menu_check_15fce38a:
+
+    # Haley "Oh, that's something..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4243
+translate brazilian Haley_20_label_menu_check_6fe44f1c:
+
+    # Haley "But please, be gentle..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4244
+translate brazilian Haley_20_label_menu_check_da342186:
+
+    # ch_Name "{i}(Oh, yes, I need to remember that that's her first time.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4245
+translate brazilian Haley_20_label_menu_check_f67cb6f6:
+
+    # ch_Name "{i}(I have to be careful not to make it painful.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4248
+translate brazilian Haley_20_label_menu_check_5d474800_3:
+
+    # Haley "Ah..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4249
+translate brazilian Haley_20_label_menu_check_92b70279_1:
+
+    # Haley "Oh, wow!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4250
+translate brazilian Haley_20_label_menu_check_892216c5:
+
+    # Haley "You were right, this is magic..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4258
+translate brazilian Haley_20_label_menu_check_9574bfc8:
+
+    # ch_Name "Haley, I can't wait any longer. I've been dreaming about this for a long time..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4259
+translate brazilian Haley_20_label_menu_check_65d2c59c:
+
+    # Haley "Me too, [Name]. I'm shaking with anticipation..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4260
+translate brazilian Haley_20_label_menu_check_7af0c6f9:
+
+    # ch_Name "Are you ready?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4261
+translate brazilian Haley_20_label_menu_check_31c8afaa:
+
+    # Haley "Yes! Get inside me!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4263
+translate brazilian Haley_20_label_menu_check_74938f9f:
+
+    # ch_Name "Does it feels good?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4264
+translate brazilian Haley_20_label_menu_check_7f7d9396:
+
+    # Haley "I... I think so."
+    Haley ""
+
+# game/logic/events/haley.rpy:4265
+translate brazilian Haley_20_label_menu_check_cdc3e665:
+
+    # Haley "It also hurts a little bit."
+    Haley ""
+
+# game/logic/events/haley.rpy:4267
+translate brazilian Haley_20_label_menu_check_f36d3bf7:
+
+    # ch_Name "It's okay if it hurts the first time. Don't worry."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4268
+translate brazilian Haley_20_label_menu_check_df14a8d2:
+
+    # ch_Name "Take your time. I'll start moving when you are ready."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4269
+translate brazilian Haley_20_label_menu_check_c3f31a2e:
+
+    # Haley "I think I am. But do it gently..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4271
+translate brazilian Haley_20_label_menu_check_7a36025c:
+
+    # ch_Name "Like that?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4273
+translate brazilian Haley_20_label_menu_check_5d474800_4:
+
+    # Haley "Ah..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4275
+translate brazilian Haley_20_label_menu_check_c7d34749:
+
+    # Haley "Ouch!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4276
+translate brazilian Haley_20_label_menu_check_8469bd75:
+
+    # Haley "It hurts... Wait, please. Let me adjust..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4277
+translate brazilian Haley_20_label_menu_check_df7bd348:
+
+    # ch_Name "Let me take it out..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4279
+translate brazilian Haley_20_label_menu_check_b5028b72:
+
+    # ch_Name "(Woah... Blood.)"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4280
+translate brazilian Haley_20_label_menu_check_71ae7736:
+
+    # ch_Name "(How could I forget that she's a virgin...)"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4281
+translate brazilian Haley_20_label_menu_check_554997f5:
+
+    # Haley "It's alright. I just wasn't quite ready."
+    Haley ""
+
+# game/logic/events/haley.rpy:4282
+translate brazilian Haley_20_label_menu_check_f4fc1098:
+
+    # Haley "Let's try again..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4284
+translate brazilian Haley_20_label_menu_check_f113a10a:
+
+    # ch_Name "Are you sure?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4285
+translate brazilian Haley_20_label_menu_check_51149d90:
+
+    # Haley "Yeah... I can handle it."
+    Haley ""
+
+# game/logic/events/haley.rpy:4286
+translate brazilian Haley_20_label_menu_check_8ad0f3d9:
+
+    # ch_Name "Alright, here I go!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4288
+translate brazilian Haley_20_label_menu_check_5d474800_5:
+
+    # Haley "Ah..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4289
+translate brazilian Haley_20_label_menu_check_6b228961:
+
+    # Haley "Oh, yes, it feels good..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4291
+translate brazilian Haley_20_label_menu_check_2566b1d1:
+
+    # ch_Name "Really? That's awesome."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4292
+translate brazilian Haley_20_label_menu_check_64b473c6:
+
+    # Haley "If you want to start moving, I am ready."
+    Haley ""
+
+# game/logic/events/haley.rpy:4295
+translate brazilian Haley_20_label_menu_check_b9e5af58_1:
+
+    # Haley "Oh... Mhm..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4297
+translate brazilian Haley_20_label_menu_check_92b70279_2:
+
+    # Haley "Oh, wow!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4298
+translate brazilian Haley_20_label_menu_check_089a6a26:
+
+    # ch_Name "Do you like that?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4299
+translate brazilian Haley_20_label_menu_check_869ef5c7:
+
+    # Haley "I...{w} Ah-h...{w} I love it!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4301
+translate brazilian Haley_20_label_menu_check_3732672c:
+
+    # Haley "It's so big! It feels like it's filling all the space inside me."
+    Haley ""
+
+# game/logic/events/haley.rpy:4302
+translate brazilian Haley_20_label_menu_check_92b70279_3:
+
+    # Haley "Oh, wow!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4303
+translate brazilian Haley_20_label_menu_check_b2bb242e:
+
+    # Haley "Should it even be so big?"
+    Haley ""
+
+# game/logic/events/haley.rpy:4305
+translate brazilian Haley_20_label_menu_check_d85b662e:
+
+    # ch_Name "Don't worry. It's all right."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4306
+translate brazilian Haley_20_label_menu_check_8c41bb6f:
+
+    # ch_Name "Ah..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4308
+translate brazilian Haley_20_label_menu_check_b9e5af58_2:
+
+    # Haley "Oh... Mhm..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4310
+translate brazilian Haley_20_label_menu_check_c58a84ee:
+
+    # ch_Name "Are you alright?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4311
+translate brazilian Haley_20_label_menu_check_ccd33a42:
+
+    # ch_Name "It looks like you're hurt."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4312
+translate brazilian Haley_20_label_menu_check_5563d6f9:
+
+    # Haley "I'm not sure. Keep going."
+    Haley ""
+
+# game/logic/events/haley.rpy:4315
+translate brazilian Haley_20_label_menu_check_fdfa39a4:
+
+    # Haley "Oh...Ouch..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4316
+translate brazilian Haley_20_label_menu_check_13635d1a:
+
+    # Haley "Yeah. It may be too big for me."
+    Haley ""
+
+# game/logic/events/haley.rpy:4317
+translate brazilian Haley_20_label_menu_check_9ec05f43:
+
+    # ch_Name "No wonder, you're so tight there."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4318
+translate brazilian Haley_20_label_menu_check_0888c034:
+
+    # ch_Name "I have an idea..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4319
+translate brazilian Haley_20_label_menu_check_63e722d1:
+
+    # ch_Name "We can change the position to make it feel better for you."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4321
+translate brazilian Haley_20_label_menu_check_492cf8a9:
+
+    # Haley "You're so thoughtful!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4322
+translate brazilian Haley_20_label_menu_check_c151d430:
+
+    # Haley "That would be great!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4323
+translate brazilian Haley_20_label_menu_check_bf21e4f2:
+
+    # ch_Name "Here, lay on your side."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4325
+translate brazilian Haley_20_label_menu_check_d3bda22c:
+
+    # Haley "Like that?"
+    Haley ""
+
+# game/logic/events/haley.rpy:4326
+translate brazilian Haley_20_label_menu_check_e1a06e2c:
+
+    # ch_Name "{i}(Oh wow... One look at her and my heart goes crazy.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4327
+translate brazilian Haley_20_label_menu_check_7144357c:
+
+    # ch_Name "It's perfect!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4329
+translate brazilian Haley_20_label_menu_check_b30f148f:
+
+    # ch_Name "{i}(I need to remember to be gentle.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4330
+translate brazilian Haley_20_label_menu_check_90a06f68:
+
+    # ch_Name "{i}(Her little pussy never saw a dick before.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4331
+translate brazilian Haley_20_label_menu_check_232202b0:
+
+    # ch_Name "{i}(And mine is not that small so it might hurt.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4333
+translate brazilian Haley_20_label_menu_check_d8afffa9:
+
+    # ch_Name "Here I come..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4334
+translate brazilian Haley_20_label_menu_check_5d474800_6:
+
+    # Haley "Ah..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4337
+translate brazilian Haley_20_label_menu_check_92b70279_4:
+
+    # Haley "Oh, wow!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4338
+translate brazilian Haley_20_label_menu_check_1b5f11f6:
+
+    # Haley "You were right! This feels amazing!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4339
+translate brazilian Haley_20_label_menu_check_b9e5af58_3:
+
+    # Haley "Oh... Mhm..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4340
+translate brazilian Haley_20_label_menu_check_8349c2a1:
+
+    # ch_Name "I'm glad you like it, sweetie."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4343
+translate brazilian Haley_20_label_menu_check_8c41bb6f_1:
+
+    # ch_Name "Ah..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4344
+translate brazilian Haley_20_label_menu_check_284f8689:
+
+    # ch_Name "{i}(It's still a little bit too tight for me.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4345
+translate brazilian Haley_20_label_menu_check_64f65826:
+
+    # ch_Name "{i}(But I can work with that.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4346
+translate brazilian Haley_20_label_menu_check_236da967:
+
+    # ch_Name "{i}(Everyone is tight on their first time.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4349
+translate brazilian Haley_20_label_menu_check_b9e5af58_4:
+
+    # Haley "Oh... Mhm..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4350
+translate brazilian Haley_20_label_menu_check_5d474800_7:
+
+    # Haley "Ah..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4351
+translate brazilian Haley_20_label_menu_check_7f72f8a2:
+
+    # Haley "Yes..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4352
+translate brazilian Haley_20_label_menu_check_eee686cf:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4355
+translate brazilian Haley_20_label_menu_check_5d474800_8:
+
+    # Haley "Ah..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4356
+translate brazilian Haley_20_label_menu_check_090ae8a4:
+
+    # Haley "What if..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4357
+translate brazilian Haley_20_label_menu_check_68282766:
+
+    # Haley "I mean..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4358
+translate brazilian Haley_20_label_menu_check_b9e5af58_5:
+
+    # Haley "Oh... Mhm..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4360
+translate brazilian Haley_20_label_menu_check_7d85c18b:
+
+    # Haley "Can I try to be on the top?"
+    Haley ""
+
+# game/logic/events/haley.rpy:4361
+translate brazilian Haley_20_label_menu_check_a474cbd6:
+
+    # ch_Name "Well, sure..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4362
+translate brazilian Haley_20_label_menu_check_1cc40963:
+
+    # ch_Name "I think that's a great idea!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4364
+translate brazilian Haley_20_label_menu_check_d4c3bf79:
+
+    # Haley "Really?"
+    Haley ""
+
+# game/logic/events/haley.rpy:4365
+translate brazilian Haley_20_label_menu_check_9a0a361d:
+
+    # Haley "I'm so happy! I was afraid you're going to say no..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4366
+translate brazilian Haley_20_label_menu_check_7ad9c412:
+
+    # Haley "And I really wanted to give it a try!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4368
+translate brazilian Haley_20_label_menu_check_fdcecdbd:
+
+    # ch_Name "Nonsense! "
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4369
+translate brazilian Haley_20_label_menu_check_305700ab:
+
+    # ch_Name "Why would I ever say no to something like this?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4370
+translate brazilian Haley_20_label_menu_check_61184046:
+
+    # ch_Name "I want to be with you in every way possible..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4372
+translate brazilian Haley_20_label_menu_check_ebcf87cc:
+
+    # ch_Name "Plus this way I get the best view..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4373
+translate brazilian Haley_20_label_menu_check_4c23ed19:
+
+    # ch_Name "...of your picture perfect body."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4374
+translate brazilian Haley_20_label_menu_check_2e2c0800:
+
+    # Haley "Ah, stop it, you... You're making me blush."
+    Haley ""
+
+# game/logic/events/haley.rpy:4376
+translate brazilian Haley_20_label_menu_check_7b67f3f0:
+
+    # Haley "Am I doing it right?"
+    Haley ""
+
+# game/logic/events/haley.rpy:4377
+translate brazilian Haley_20_label_menu_check_726bdb35:
+
+    # ch_Name "Yeah, you're a natural at this."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4378
+translate brazilian Haley_20_label_menu_check_d5b83dfe:
+
+    # ch_Name "Take your time, get comfortable."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4380
+translate brazilian Haley_20_label_menu_check_b9e5af58_6:
+
+    # Haley "Oh... Mhm..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4381
+translate brazilian Haley_20_label_menu_check_f8477976:
+
+    # ch_Name "It seems like you've found the best position."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4382
+translate brazilian Haley_20_label_menu_check_b09fb86d:
+
+    # ch_Name "Now let me help you..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4385
+translate brazilian Haley_20_label_menu_check_713d57da:
+
+    # Haley "Oh... Ah..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4386
+translate brazilian Haley_20_label_menu_check_a8d5c330:
+
+    # Haley "It feels amazing!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4387
+translate brazilian Haley_20_label_menu_check_fe02d0ec:
+
+    # Haley "Mhm..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4389
+translate brazilian Haley_20_label_menu_check_ce804928:
+
+    # ch_Name "Here I go!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4392
+translate brazilian Haley_20_label_menu_check_5d474800_9:
+
+    # Haley "Ah..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4393
+translate brazilian Haley_20_label_menu_check_d1986f9f:
+
+    # Haley "Oh..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4394
+translate brazilian Haley_20_label_menu_check_884f9d96_1:
+
+    # ch_Name "Do you like it?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4395
+translate brazilian Haley_20_label_menu_check_946adc6d:
+
+    # Haley "Oh... Yes..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4397
+translate brazilian Haley_20_label_menu_check_5d5835f1:
+
+    # Haley "Just like that!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4398
+translate brazilian Haley_20_label_menu_check_96a41f73:
+
+    # Haley "It's so good!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4400
+translate brazilian Haley_20_label_menu_check_cd5d9c0c:
+
+    # ch_Name "{i}(It seems like her vagina is starting to adjust to my size.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4401
+translate brazilian Haley_20_label_menu_check_93e5b63d:
+
+    # Haley "I could've never imagined that It'd feel so good!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4403
+translate brazilian Haley_20_label_menu_check_946adc6d_1:
+
+    # Haley "Oh... Yes..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4404
+translate brazilian Haley_20_label_menu_check_fac02ba5_3:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4405
+translate brazilian Haley_20_label_menu_check_9d78224f:
+
+    # ch_Name "I feel amazing too..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4406
+translate brazilian Haley_20_label_menu_check_86cf37aa:
+
+    # ch_Name "You're awesome at this!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4409
+translate brazilian Haley_20_label_menu_check_8be7d763:
+
+    # ch_Name "It feels too good..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4410
+translate brazilian Haley_20_label_menu_check_7dd20f96:
+
+    # Haley "Oh... I feel amazing too!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4411
+translate brazilian Haley_20_label_menu_check_8c41bb6f_2:
+
+    # ch_Name "Ah..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4412
+translate brazilian Haley_20_label_menu_check_e0a5dd02:
+
+    # ch_Name "I'm going to cum soon..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4413
+translate brazilian Haley_20_label_menu_check_d337221c:
+
+    # Haley "Me too! Should we try it quicker?"
+    Haley ""
+
+# game/logic/events/haley.rpy:4415
+translate brazilian Haley_20_label_menu_check_a11887a6:
+
+    # ch_Name "Like this?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4416
+translate brazilian Haley_20_label_menu_check_27474921:
+
+    # Haley "Wow...{w} Ah-h...{w} Yes!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4418
+translate brazilian Haley_20_label_menu_check_d68cc82e:
+
+    # Haley "Keep going!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4419
+translate brazilian Haley_20_label_menu_check_5d5835f1_1:
+
+    # Haley "Just like that!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4421
+translate brazilian Haley_20_label_menu_check_8c41bb6f_3:
+
+    # ch_Name "Ah..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4423
+translate brazilian Haley_20_label_menu_check_713d57da_1:
+
+    # Haley "Oh... Ah..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4424
+translate brazilian Haley_20_label_menu_check_7c68a819:
+
+    # Haley "It feels so good..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4425
+translate brazilian Haley_20_label_menu_check_fac02ba5_4:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4427
+translate brazilian Haley_20_label_menu_check_fd637819:
+
+    # Haley "Everything inside me shivers..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4428
+translate brazilian Haley_20_label_menu_check_f24b4dce:
+
+    # Haley "I think I'm close too..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4429
+translate brazilian Haley_20_label_menu_check_626ee993:
+
+    # ch_Name "That's good."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4430
+translate brazilian Haley_20_label_menu_check_713d57da_2:
+
+    # Haley "Oh... Ah..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4432
+translate brazilian Haley_20_label_menu_check_834d3c28:
+
+    # ch_Name "Then we'll finish together!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4433
+translate brazilian Haley_20_label_menu_check_d9b3842b:
+
+    # Haley "Mhm... Yeah..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4434
+translate brazilian Haley_20_label_menu_check_3e838c1f:
+
+    # Haley "Let's do it together!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4435
+translate brazilian Haley_20_label_menu_check_8c41bb6f_4:
+
+    # ch_Name "Ah..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4439
+translate brazilian Haley_20_label_menu_check_713d57da_3:
+
+    # Haley "Oh... Ah..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4440
+translate brazilian Haley_20_label_menu_check_0608ce59:
+
+    # ch_Name "I need to pull it out before I..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4441
+translate brazilian Haley_20_label_menu_check_3fb9e765:
+
+    # Haley "No. I want it all. I want it inside me..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4443
+translate brazilian Haley_20_label_menu_check_27474921_1:
+
+    # Haley "Wow...{w} Ah-h...{w} Yes!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4444
+translate brazilian Haley_20_label_menu_check_b649bb6e:
+
+    # ch_Name "I'm cuming too..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4446
+translate brazilian Haley_20_label_menu_check_ee5fa52f:
+
+    # ch_Name "Oh... Ah..." with flash
+    ch_Name "" with flash
+
+# game/logic/events/haley.rpy:4447
+translate brazilian Haley_20_label_menu_check_0ae9bcd0:
+
+    # ""
+    ""
+
+# game/logic/events/haley.rpy:4448
+translate brazilian Haley_20_label_menu_check_fd8463b2:
+
+    # Haley "Oh yes!" with flash
+    Haley "" with flash
+
+# game/logic/events/haley.rpy:4450
+translate brazilian Haley_20_label_menu_check_4b58ea6a:
+
+    # Haley "I can feel it."
+    Haley ""
+
+# game/logic/events/haley.rpy:4451
+translate brazilian Haley_20_label_menu_check_9ad10216:
+
+    # Haley "Your hot liquids are filling me up..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4452
+translate brazilian Haley_20_label_menu_check_5d474800_10:
+
+    # Haley "Ah..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4453
+translate brazilian Haley_20_label_menu_check_02cb75b3:
+
+    # Haley "There's so much..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4455
+translate brazilian Haley_20_label_menu_check_c8c8def5:
+
+    # Haley "I can't even hold it inside."
+    Haley ""
+
+# game/logic/events/haley.rpy:4456
+translate brazilian Haley_20_label_menu_check_d9064798:
+
+    # ch_Name "Ah... "
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4457
+translate brazilian Haley_20_label_menu_check_fedea944:
+
+    # ch_Name "That was amazing, Haley."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4458
+translate brazilian Haley_20_label_menu_check_e33c2707:
+
+    # ch_Name "But aren't you going to get pregnant now?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4460
+translate brazilian Haley_20_label_menu_check_e08e1473:
+
+    # Haley "Ah, no, silly."
+    Haley ""
+
+# game/logic/events/haley.rpy:4461
+translate brazilian Haley_20_label_menu_check_d03e71b1:
+
+    # Haley "I take birthcontrol pills."
+    Haley ""
+
+# game/logic/events/haley.rpy:4462
+translate brazilian Haley_20_label_menu_check_f01a197e:
+
+    # ch_Name "Really? Why, weren't you a virgin?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4463
+translate brazilian Haley_20_label_menu_check_da1b82c7:
+
+    # Haley "My doctor told me it's good for my hormones."
+    Haley ""
+
+# game/logic/events/haley.rpy:4465
+translate brazilian Haley_20_label_menu_check_08356a83:
+
+    # Haley "[Name]...{w} Thank you."
+    Haley ""
+
+# game/logic/events/haley.rpy:4466
+translate brazilian Haley_20_label_menu_check_c4334f40:
+
+    # ch_Name "Thank me? For what?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4467
+translate brazilian Haley_20_label_menu_check_5d90a9c6:
+
+    # Haley "For being here for me. Supporting me. Making me feel this way..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4468
+translate brazilian Haley_20_label_menu_check_1bd1beaa:
+
+    # ch_Name "Oh, come here..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4470
+translate brazilian Haley_20_label_menu_check_e870ad68:
+
+    # Haley "Mhm... "
+    Haley ""
+
+# game/logic/events/haley.rpy:4471
+translate brazilian Haley_20_label_menu_check_5770c576:
+
+    # ch_Name "{i}(I've never felt so good. Never in my life.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4472
+translate brazilian Haley_20_label_menu_check_cc8d7a98:
+
+    # ch_Name "{i}(If I died right now, I wouldn't mind.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4473
+translate brazilian Haley_20_label_menu_check_3a834f4b:
+
+    # ch_Name "{i}(Because it feels like it can't get much better than this.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4475
+translate brazilian Haley_20_label_menu_check_a2be00d0:
+
+    # ch_Name "{i}(Nah... I don't want to die.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4476
+translate brazilian Haley_20_label_menu_check_6478ae73:
+
+    # ch_Name "{i}(I don't want to lose even a second of this beautiful moment.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4477
+translate brazilian Haley_20_label_menu_check_8a7775e0:
+
+    # ch_Name "{i}(I wish it could last forever.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4478
+translate brazilian Haley_20_label_menu_check_528bf51a:
+
+    # ch_Name "{i}(Just me, Haley and the sunset on this beach.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4480
+translate brazilian Haley_20_label_menu_check_eb88fac6:
+
+    # ch_Name "{i}(I think it was too much for us. So many emotions and feelings...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4481
+translate brazilian Haley_20_label_menu_check_ef4bbcd3:
+
+    # ch_Name "{i}(An emotional overdose.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4482
+translate brazilian Haley_20_label_menu_check_67963d7f:
+
+    # ch_Name "{i}(I don't even remember how we fell asleep after that...){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4494
+translate brazilian Haley_21_label_3977ca2e:
+
+    # ch_Name "Ezra Bloom?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4495
+translate brazilian Haley_21_label_7eb93aaa:
+
+    # ch_Name "{i}(I can't believe my ears!){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4496
+translate brazilian Haley_21_label_03d150a6:
+
+    # ch_Name "Are you Elijah's brother?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4498
+translate brazilian Haley_21_label_88e2c1f6:
+
+    # Ezra "Elijah? Do you know Elijah?"
+    Ezra ""
+
+# game/logic/events/haley.rpy:4499
+translate brazilian Haley_21_label_97bb2250:
+
+    # Ezra "Did he send you here?"
+    Ezra ""
+
+# game/logic/events/haley.rpy:4500
+translate brazilian Haley_21_label_d183c09b:
+
+    # Ezra "Hey, has the cat got your tongue?"
+    Ezra ""
+
+# game/logic/events/haley.rpy:4502
+translate brazilian Haley_21_label_6d0d40e7:
+
+    # Haley "[Name]? Who is it?"
+    Haley ""
+
+# game/logic/events/haley.rpy:4503
+translate brazilian Haley_21_label_6b9c8fde:
+
+    # Ezra "Oh, it’s been a long time since I've seen woman of this beauty."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4504
+translate brazilian Haley_21_label_acbc8a06:
+
+    # Ezra "Good morning!"
+    Ezra ""
+
+# game/logic/events/haley.rpy:4505
+translate brazilian Haley_21_label_b458b6ea:
+
+    # Ezra "I'm Ezra Bloom. The question is, who are you?"
+    Ezra ""
+
+# game/logic/events/haley.rpy:4506
+translate brazilian Haley_21_label_e9bd707b:
+
+    # Haley "Oh, my God! Ezra Bloom?! Am I dreaming?"
+    Haley ""
+
+# game/logic/events/haley.rpy:4508
+translate brazilian Haley_21_label_e41d23df:
+
+    # ch_Name "I'm [Name]. That's Haley."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4509
+translate brazilian Haley_21_label_2f8bb3ca:
+
+    # ch_Name "We've come here for you, Ezra. Look, it's a long story..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4510
+translate brazilian Haley_21_label_ceab9405:
+
+    # ch_Name "And where is Hans? "
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4512
+translate brazilian Haley_21_label_f6697b11:
+
+    # Ezra "Hans? He's resting."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4513
+translate brazilian Haley_21_label_d3c22f18:
+
+    # Ezra "But how can you know...{w} about Hans...{w} and about everything?"
+    Ezra ""
+
+# game/logic/events/haley.rpy:4514
+translate brazilian Haley_21_label_4559ab9a:
+
+    # Ezra "What do you know?"
+    Ezra ""
+
+# game/logic/events/haley.rpy:4515
+translate brazilian Haley_21_label_a05d5e04:
+
+    # ch_Name "We found newspaper clippings about the ritual and Hans' death in the Academy..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4517
+translate brazilian Haley_21_label_62500d40:
+
+    # ch_Name "...and thought that something was wrong."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4518
+translate brazilian Haley_21_label_8d3c09f1:
+
+    # ch_Name "Haley decided to find out what actually happened with you both."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4519
+translate brazilian Haley_21_label_2c6934e3:
+
+    # ch_Name "We performed the ritual and ended up here."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4521
+translate brazilian Haley_21_label_d971a7e7:
+
+    # Haley "Tell us everything, please!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4522
+translate brazilian Haley_21_label_6034068b:
+
+    # Haley "We have come a long way through space and time only to figure everything out!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4523
+translate brazilian Haley_21_label_b3df84d1:
+
+    # Ezra "That's not the most exciting story, to tell you the truth."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4524
+translate brazilian Haley_21_label_bc39dfdf:
+
+    # Ezra "I've been alone my whole life. You know, I... I've never even had friends."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4526
+translate brazilian Haley_21_label_5738455e:
+
+    # Ezra "But in one sunny day I bumped into a stranger..."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4527
+translate brazilian Haley_21_label_17a1d945:
+
+    # Ezra "He certainly didn't look like others. "
+    Ezra ""
+
+# game/logic/events/haley.rpy:4528
+translate brazilian Haley_21_label_8fa216c6:
+
+    # Ezra "I still remember how his snowy hair flew free in the wind..."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4529
+translate brazilian Haley_21_label_35d7374c:
+
+    # Ezra "...and his white robe shone dazzling in the sun..."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4530
+translate brazilian Haley_21_label_54acf5c5:
+
+    # Ezra "We got to talking and I realized that it was the love at first sight."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4531
+translate brazilian Haley_21_label_5183ba1e:
+
+    # Ezra "Just looking at him made my heart pound and hearing his voice made it soar."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4533
+translate brazilian Haley_21_label_fe6cafea:
+
+    # Ezra "Pretty soon it appeared that this feeling was mutual."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4534
+translate brazilian Haley_21_label_5eb48b3b:
+
+    # Ezra "I mean, I... I've been in blue heaven dancing on a pink cloud. "
+    Ezra ""
+
+# game/logic/events/haley.rpy:4535
+translate brazilian Haley_21_label_38fda2f5:
+
+    # Ezra "Believe me, I know exactly how ridiculous that sounds."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4536
+translate brazilian Haley_21_label_32292650:
+
+    # Ezra "But Hans and me... We loved each other so much."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4537
+translate brazilian Haley_21_label_2a8a9dae:
+
+    # Ezra "It was real true love. I'm still sure that it’s a once-in-a-lifetime thing."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4539
+translate brazilian Haley_21_label_2bdde697:
+
+    # Ezra "But my father hated everything about gays. And he found it disgusting."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4540
+translate brazilian Haley_21_label_1dd827e5:
+
+    # Ezra "He didn't just give up on me, he was ready to do anything to prevent our relationships."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4541
+translate brazilian Haley_21_label_ef9ba4bb:
+
+    # Ezra "I've hardly eaten or slept for weeks, just thought and thought. I had to do something."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4543
+translate brazilian Haley_21_label_d597d870:
+
+    # Ezra "Then I accidentally read about this ritual."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4544
+translate brazilian Haley_21_label_cc5f5de0:
+
+    # Ezra "I was convinced that the only solution is to run away and start a new life."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4545
+translate brazilian Haley_21_label_33392372:
+
+    # Ezra "But Hans was against it, he didn't want to give up everything."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4546
+translate brazilian Haley_21_label_46c9d0b6:
+
+    # Ezra "He knew that there'd be no going back."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4548
+translate brazilian Haley_21_label_b274b07f:
+
+    # Ezra "I was shocked by his answer."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4549
+translate brazilian Haley_21_label_19417eda:
+
+    # Ezra "I... I gave him an ultimatum. I made him choose."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4550
+translate brazilian Haley_21_label_6a9e1a4e:
+
+    # Ezra "It was a manipulation, but it worked..."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4551
+translate brazilian Haley_21_label_535f3e71:
+
+    # Ezra "But God knows, I didn't want it to be this way... I swear!"
+    Ezra ""
+
+# game/logic/events/haley.rpy:4553
+translate brazilian Haley_21_label_286d434d:
+
+    # Haley "Shhhh."
+    Haley ""
+
+# game/logic/events/haley.rpy:4554
+translate brazilian Haley_21_label_efdbd193:
+
+    # Haley "Why are you crying?"
+    Haley ""
+
+# game/logic/events/haley.rpy:4555
+translate brazilian Haley_21_label_6966ba68:
+
+    # Ezra "Sorry... All the good and bad memories are hitting me at once."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4557
+translate brazilian Haley_21_label_8b0c9e34:
+
+    # Ezra "Hans... He chose me. Of course, he chose me!"
+    Ezra ""
+
+# game/logic/events/haley.rpy:4558
+translate brazilian Haley_21_label_8ddf7c36:
+
+    # Ezra "We prepared everything and performed this fucking ritual."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4559
+translate brazilian Haley_21_label_c7aeb46d:
+
+    # Ezra "Happiness was so close..."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4560
+translate brazilian Haley_21_label_c49581c9:
+
+    # Ezra "But something went wrong for the first time. We had to open the portal twice."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4562
+translate brazilian Haley_21_label_452270f5:
+
+    # Ezra "The issue was a magic overload."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4563
+translate brazilian Haley_21_label_5c065519:
+
+    # Ezra "Hans was staring right at me when his body blew apart."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4565
+translate brazilian Haley_21_label_ad7d9e64:
+
+    # Haley "Oh, my God!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4566
+translate brazilian Haley_21_label_eb1a170c:
+
+    # Ezra "I took his body to the cave."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4567
+translate brazilian Haley_21_label_b79f61f1:
+
+    # Ezra "I cared about him for several days, but then he started to smell bad."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4569
+translate brazilian Haley_21_label_358087c8:
+
+    # Ezra "But I still came to Hans... to talk to him."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4570
+translate brazilian Haley_21_label_1ed86897:
+
+    # Ezra "He never answered."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4571
+translate brazilian Haley_21_label_ddd28e94:
+
+    # Ezra "You guys look worried."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4572
+translate brazilian Haley_21_label_d1326a03:
+
+    # Ezra "Is everything okay?"
+    Ezra ""
+
+# game/logic/events/haley.rpy:4573
+translate brazilian Haley_21_label_69b08607:
+
+    # ch_Name "{i}(Jesus... Jesus Christ!){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4575
+translate brazilian Haley_21_label_789635ae:
+
+    # ch_Name "Sure, we just... plunged into the story too much."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4576
+translate brazilian Haley_21_label_66175f55:
+
+    # ch_Name "Ezra, listen."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4577
+translate brazilian Haley_21_label_de44f11e:
+
+    # ch_Name "We can help you."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4579
+translate brazilian Haley_21_label_983f8f0c:
+
+    # ch_Name "In an hour our friend will open the portal again. We'll take you with us."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4580
+translate brazilian Haley_21_label_3aa33e16:
+
+    # ch_Name "You will come home to Elijah!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4581
+translate brazilian Haley_21_label_babcaa68:
+
+    # Ezra "Elijah? I haven't seen him for so many years!"
+    Ezra ""
+
+# game/logic/events/haley.rpy:4583
+translate brazilian Haley_21_label_b65af568:
+
+    # Ezra "But what about Hans? I can't leave him here alone, you know what I mean?"
+    Ezra ""
+
+# game/logic/events/haley.rpy:4584
+translate brazilian Haley_21_label_3a59c366:
+
+    # ch_Name "Then we'll have to take him with us."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4585
+translate brazilian Haley_21_label_52604f9f:
+
+    # Ezra "We should ask him, firstly."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4586
+translate brazilian Haley_21_label_78313c23:
+
+    # ch_Name "Ask him?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4588
+translate brazilian Haley_21_label_6690e023:
+
+    # ch_Name "{i}(Is he out of his mind?){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4589
+translate brazilian Haley_21_label_759f6f5c:
+
+    # ch_Name "{i}(Anyway, we just have to get to the castle and sort everything out.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4590
+translate brazilian Haley_21_label_e827c6fd:
+
+    # ch_Name "{i}(I might need to play along with him.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4591
+translate brazilian Haley_21_label_658628e1:
+
+    # ch_Name "Okay, we'll go and ask him. Stay here, okay?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4592
+translate brazilian Haley_21_label_a59ef938:
+
+    # Ezra "I'll come with you."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4594
+translate brazilian Haley_21_label_d6ca1828:
+
+    # ch_Name "No-no, Ezra."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4595
+translate brazilian Haley_21_label_86407c94:
+
+    # ch_Name "I want to talk with him in private."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4596
+translate brazilian Haley_21_label_f5e3273d:
+
+    # Ezra "Ugh, okay then. Come back soon."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4603
+translate brazilian Haley_21_label_eb1c95cf:
+
+    # Haley "Oh, [Name], that's terrible!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4604
+translate brazilian Haley_21_label_08e29293:
+
+    # Haley "I mean, who would have thought...?"
+    Haley ""
+
+# game/logic/events/haley.rpy:4605
+translate brazilian Haley_21_label_8e938e2d:
+
+    # ch_Name "I didn't expect that at all. My head is definitely going to explode..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4606
+translate brazilian Haley_21_label_5841e817:
+
+    # Haley "Are we really going to talk with bones?"
+    Haley ""
+
+# game/logic/events/haley.rpy:4607
+translate brazilian Haley_21_label_77c73d71:
+
+    # ch_Name "Of course, not. I just wanted some alone time with you."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4609
+translate brazilian Haley_21_label_28232050:
+
+    # Haley "It's very hard to get over the death of someone special, [Name]."
+    Haley ""
+
+# game/logic/events/haley.rpy:4610
+translate brazilian Haley_21_label_74d342a2:
+
+    # Haley "I'm speaking from personal experience here."
+    Haley ""
+
+# game/logic/events/haley.rpy:4611
+translate brazilian Haley_21_label_50112231:
+
+    # ch_Name "{i}(Personal experience? What is she talking about?){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4612
+translate brazilian Haley_21_label_15afe631:
+
+    # Haley "I can't imagine how much Ezra has been through."
+    Haley ""
+
+# game/logic/events/haley.rpy:4613
+translate brazilian Haley_21_label_15da86ce:
+
+    # Haley "And no one could support or help him! That's awful!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4615
+translate brazilian Haley_21_label_68253d2c:
+
+    # ch_Name "Anyway, we should help him to get home."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4616
+translate brazilian Haley_21_label_b0b3a7f9:
+
+    # ch_Name "I can't wait to see the look on Elijah's face when he sees Ezra."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4619
+translate brazilian Haley_21_label_76340444:
+
+    # ch_Name "Oh, my God!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4620
+translate brazilian Haley_21_label_7a7170e6:
+
+    # Haley "What's the matter?"
+    Haley ""
+
+# game/logic/events/haley.rpy:4621
+translate brazilian Haley_21_label_bed6b0d1:
+
+    # ch_Name "Do you realize that I haven't kissed you for several hours?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4623
+translate brazilian Haley_21_label_fd1e569e:
+
+    # Haley "Ohhh!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4624
+translate brazilian Haley_21_label_7b967ef1:
+
+    # Haley "He-he-he."
+    Haley ""
+
+# game/logic/events/haley.rpy:4625
+translate brazilian Haley_21_label_da102ada:
+
+    # Haley "I love you so much, [Name]..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4633
+translate brazilian Haley_21_label_6d452820:
+
+    # ch_Name "Everything is just great, Ezra. Hans' remains are here, in the sack."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4634
+translate brazilian Haley_21_label_1a859c63:
+
+    # ch_Name "He is glad to go home, that's for sure."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4635
+translate brazilian Haley_21_label_4ef4d8fd:
+
+    # Ezra "Yes... I really hope it is better for all of us."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4636
+translate brazilian Haley_21_label_f755c276:
+
+    # Haley "Whoa, what time is it?"
+    Haley ""
+
+# game/logic/events/haley.rpy:4638
+translate brazilian Haley_21_label_037c43e0:
+
+    # ch_Name "Samantha should open the portal in 3 minutes."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4639
+translate brazilian Haley_21_label_1a48d8b5:
+
+    # Haley "I hope there are no more surprises, he-he."
+    Haley ""
+
+# game/logic/events/haley.rpy:4641
+translate brazilian Haley_21_label_46856970:
+
+    # ch_Name "Look! The portal is opening!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4642
+translate brazilian Haley_21_label_a1a5b267:
+
+    # Haley "Oh, that's a relief... Samantha is my hero!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4643
+translate brazilian Haley_21_label_68b9b3c3:
+
+    # ch_Name "Alright, is everyone ready? It's time to wrap this up."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4644
+translate brazilian Haley_21_label_929be441:
+
+    # Haley "We checked everything, nothing's missing."
+    Haley ""
+
+# game/logic/events/haley.rpy:4646
+translate brazilian Haley_21_label_8b314781:
+
+    # ch_Name "I can't believe it's all coming to an end."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4647
+translate brazilian Haley_21_label_934e52d3:
+
+    # ch_Name "We're going home!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4659
+translate brazilian Haley_22_label_cbc85d07:
+
+    # ch_Name "This is the bathroom, Ezra. Сhill out and make yourself at home."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4660
+translate brazilian Haley_22_label_a614b2b1:
+
+    # Ezra "Wow! Everything changed here!"
+    Ezra ""
+
+# game/logic/events/haley.rpy:4661
+translate brazilian Haley_22_label_a5ce8f6d:
+
+    # ch_Name "{i}(I can't even imagine what he's feeling right now.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4662
+translate brazilian Haley_22_label_f0d64690:
+
+    # ch_Name "{i}(It must be really weird... to return with all that has happened.){/i}"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4663
+translate brazilian Haley_22_label_fb422422:
+
+    # ch_Name "There's a towel and soap for you."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4665
+translate brazilian Haley_22_label_b35d70c5:
+
+    # ch_Name "I also put a razor and shaving foam, just in case."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4666
+translate brazilian Haley_22_label_187d4d92:
+
+    # ch_Name "Maybe you want to do something with your beard..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4667
+translate brazilian Haley_22_label_402ee643:
+
+    # ch_Name "It doesn't look comfortable, he-he."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4668
+translate brazilian Haley_22_label_fa2a23f2:
+
+    # Ezra "Honestly, I'll be glad to get rid of this thing."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4670
+translate brazilian Haley_22_label_0316421a:
+
+    # Ezra "This fucking beard irritated me all the time but I couldn't help it."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4671
+translate brazilian Haley_22_label_656c5787:
+
+    # Ezra "Oh, God! I've just realised... I haven't bathed for years!"
+    Ezra ""
+
+# game/logic/events/haley.rpy:4672
+translate brazilian Haley_22_label_f4bf3e56:
+
+    # Haley "Good luck to you! "
+    Haley ""
+
+# game/logic/events/haley.rpy:4674
+translate brazilian Haley_22_label_3321e94c:
+
+    # ch_Name "Haley, have you called Elijah already?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4675
+translate brazilian Haley_22_label_4c592d17:
+
+    # Haley "Yep, he promised he'd be here."
+    Haley ""
+
+# game/logic/events/haley.rpy:4676
+translate brazilian Haley_22_label_b24fb2a5:
+
+    # Haley "But he didn't seem happy with that."
+    Haley ""
+
+# game/logic/events/haley.rpy:4677
+translate brazilian Haley_22_label_ac018d13:
+
+    # ch_Name "Alright. He doesn't know who he's about to see. He'll jump for joy when he meets Ezra!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4679
+translate brazilian Haley_22_label_00793d1a:
+
+    # Haley "Can you believe that we actually solved the mystery of Mr. Bloom?"
+    Haley ""
+
+# game/logic/events/haley.rpy:4680
+translate brazilian Haley_22_label_71c464d6:
+
+    # Haley "I still can't accept that it's all over."
+    Haley ""
+
+# game/logic/events/haley.rpy:4681
+translate brazilian Haley_22_label_043ee046:
+
+    # ch_Name "You saved a life and that was amazing, Haley."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4682
+translate brazilian Haley_22_label_c07ac9a0:
+
+    # Haley "Oh, [Name]... It was only possible because you helped me!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4684
+translate brazilian Haley_22_label_5937eaca:
+
+    # Haley "I could hardly face it alone."
+    Haley ""
+
+# game/logic/events/haley.rpy:4685
+translate brazilian Haley_22_label_94fe5c48:
+
+    # ch_Name "Haley, you..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4686
+translate brazilian Haley_22_label_4fe77063:
+
+    # ch_Name "...you can't even imagine what you did for me."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4687
+translate brazilian Haley_22_label_1d741ddb:
+
+    # ch_Name "It was the most interesting adventure in my life!"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4689
+translate brazilian Haley_22_label_5bc444ef:
+
+    # ch_Name "It literally brightened up my world."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4690
+translate brazilian Haley_22_label_b082884c:
+
+    # ch_Name "You taught me to rejoice at small things to maintain interest in life and in other people. "
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4691
+translate brazilian Haley_22_label_dfd84ce4:
+
+    # ch_Name "I'm the one who should be grateful, Haley."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4692
+translate brazilian Haley_22_label_d60a1acb:
+
+    # Haley "Shhhh!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4694
+translate brazilian Haley_22_label_2394697a:
+
+    # Haley "Let's cuddle and not talk for a bit, okay?"
+    Haley ""
+
+# game/logic/events/haley.rpy:4695
+translate brazilian Haley_22_label_58c57f35:
+
+    # Haley "Your warm breath upon my cheek calms me down.."
+    Haley ""
+
+# game/logic/events/haley.rpy:4696
+translate brazilian Haley_22_label_8d2ebc2f:
+
+    # Haley "Whoa, touch - actual goose bumps."
+    Haley ""
+
+# game/logic/events/haley.rpy:4697
+translate brazilian Haley_22_label_dad6b57a:
+
+    # Haley "And it feels like my goosebumps are also getting goosebumps, he-he."
+    Haley ""
+
+# game/logic/events/haley.rpy:4701
+translate brazilian Haley_22_label_c7b8a2a8:
+
+    # ch_Name "Come here."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4703
+translate brazilian Haley_22_label_82799b86:
+
+    # Haley "Mmmhm!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4704
+translate brazilian Haley_22_label_fb4f3dcd:
+
+    # ch_Name "It feels so great to hold you in my arms..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4705
+translate brazilian Haley_22_label_ab8139c7:
+
+    # ch_Name "...and press my lips against yours."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4706
+translate brazilian Haley_22_label_62ab9de9:
+
+    # ch_Name "I only want you to know..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4708
+translate brazilian Haley_22_label_21867ca9:
+
+    # ch_Name "...that I enjoy each moment we have together."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4709
+translate brazilian Haley_22_label_4b7b52eb:
+
+    # Haley "O... Oh!..."
+    Haley ""
+
+# game/logic/events/haley.rpy:4710
+translate brazilian Haley_22_label_623523db:
+
+    # ch_Name "And I want to remember every single detail of my time with you."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4713
+translate brazilian Haley_22_label_4305e05c:
+
+    # Elijah "Guys, are you here?"
+    Elijah ""
+
+# game/logic/events/haley.rpy:4714
+translate brazilian Haley_22_label_29d383b0:
+
+    # Haley "Elijah!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4715
+translate brazilian Haley_22_label_244f712b:
+
+    # Elijah "There you are!"
+    Elijah ""
+
+# game/logic/events/haley.rpy:4716
+translate brazilian Haley_22_label_e5f2074d:
+
+    # Elijah "I dropped everything to come. What happened?"
+    Elijah ""
+
+# game/logic/events/haley.rpy:4718
+translate brazilian Haley_22_label_d6bd2c6a:
+
+    # Elijah "If it turns out that it's a silly joke or something not really serious..."
+    Elijah ""
+
+# game/logic/events/haley.rpy:4719
+translate brazilian Haley_22_label_0ed2a36b:
+
+    # Elijah "...then I'll get mad. I swear you."
+    Elijah ""
+
+# game/logic/events/haley.rpy:4720
+translate brazilian Haley_22_label_b4370aaf:
+
+    # ch_Name "If you're busy it's completely and totally fine."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4721
+translate brazilian Haley_22_label_5b8c44f2:
+
+    # ch_Name "You know, we'll let you get back to..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4722
+translate brazilian Haley_22_label_f8021c73:
+
+    # Elijah "Come on, just show me what you've got to show."
+    Elijah ""
+
+# game/logic/events/haley.rpy:4723
+translate brazilian Haley_22_label_7b8dd98b:
+
+    # Elijah "Less talking, more looking."
+    Elijah ""
+
+# game/logic/events/haley.rpy:4725
+translate brazilian Haley_22_label_95cc7675:
+
+    # Elijah "Who are we waiting for?"
+    Elijah ""
+
+# game/logic/events/haley.rpy:4727
+translate brazilian Haley_22_label_4e09526e:
+
+    # Elijah "EZRA...?"
+    Elijah ""
+
+# game/logic/events/haley.rpy:4728
+translate brazilian Haley_22_label_ea125b86:
+
+    # Elijah "NO WAY!"
+    Elijah ""
+
+# game/logic/events/haley.rpy:4730
+translate brazilian Haley_22_label_3b3a9a12:
+
+    # Elijah "But how...? I can't believe my eyes... That's impossible!"
+    Elijah ""
+
+# game/logic/events/haley.rpy:4731
+translate brazilian Haley_22_label_193bf8a6:
+
+    # Elijah "How can you be alive?!"
+    Elijah ""
+
+# game/logic/events/haley.rpy:4732
+translate brazilian Haley_22_label_d4322c4c:
+
+    # Ezra "Elijah, brother!"
+    Ezra ""
+
+# game/logic/events/haley.rpy:4734
+translate brazilian Haley_22_label_56cfb828:
+
+    # Ezra "I never thought I'd see you again!"
+    Ezra ""
+
+# game/logic/events/haley.rpy:4735
+translate brazilian Haley_22_label_1debec19:
+
+    # Ezra "You have changed so much! I can hardly recognize you, kiddo."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4737
+translate brazilian Haley_22_label_a253805e:
+
+    # Ezra "Only look at you now! You're so mature!"
+    Ezra ""
+
+# game/logic/events/haley.rpy:4738
+translate brazilian Haley_22_label_86eb75c0:
+
+    # Elijah "You think you haven't changed?"
+    Elijah ""
+
+# game/logic/events/haley.rpy:4740
+translate brazilian Haley_22_label_642cd9c7:
+
+    # Haley "Oh, [Name]... I'm so happy for them!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4741
+translate brazilian Haley_22_label_3cf9c2c5:
+
+    # Ezra "You bet... I feel like I've aged a thousand years older."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4742
+translate brazilian Haley_22_label_85314abb:
+
+    # ch_Name "You didn't see him with the beard, Elijah."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4743
+translate brazilian Haley_22_label_a240867b:
+
+    # Ezra "You wouldn't recognize me, that's for sure."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4745
+translate brazilian Haley_22_label_56876240:
+
+    # Elijah "I have no fucking idea how you did it, guys."
+    Elijah ""
+
+# game/logic/events/haley.rpy:4746
+translate brazilian Haley_22_label_02d2a4ee:
+
+    # Elijah "But I can't even tell how grateful I am... I'm in your debt."
+    Elijah ""
+
+# game/logic/events/haley.rpy:4747
+translate brazilian Haley_22_label_40e8555c:
+
+    # Elijah "But do not abuse that privilege! That's the rule."
+    Elijah ""
+
+# game/logic/events/haley.rpy:4748
+translate brazilian Haley_22_label_1fad976b:
+
+    # Elijah "Anyway, you must forgive us now. "
+    Elijah ""
+
+# game/logic/events/haley.rpy:4749
+translate brazilian Haley_22_label_fce84f66:
+
+    # Elijah "Brother and I haven't seen each other in years, so I think we'd like a little privacy."
+    Elijah ""
+
+# game/logic/events/haley.rpy:4751
+translate brazilian Haley_22_label_46a42e8c:
+
+    # Elijah "Let's get something to eat, Ezra. I bet you would appreciate some good food..."
+    Elijah ""
+
+# game/logic/events/haley.rpy:4752
+translate brazilian Haley_22_label_aec51030:
+
+    # Elijah "... and I need you to tell me everything. I can't take not knowing anymore!"
+    Elijah ""
+
+# game/logic/events/haley.rpy:4753
+translate brazilian Haley_22_label_6ba73002:
+
+    # Elijah "And dad? He's going to have a heart attack when he sees you!"
+    Elijah ""
+
+# game/logic/events/haley.rpy:4754
+translate brazilian Haley_22_label_0050cb24:
+
+    # Ezra "Hey, man, easy."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4755
+translate brazilian Haley_22_label_9e2c38f0:
+
+    # Ezra "Let's deal with one thing at a time."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4756
+translate brazilian Haley_22_label_97f9b50a:
+
+    # Ezra "So..."
+    Ezra ""
+
+# game/logic/events/haley.rpy:4773
+translate brazilian Haley_22_label_2bea8069:
+
+    # ch_Name "What are you going to do, Haley?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4774
+translate brazilian Haley_22_label_6d43c8b8:
+
+    # Haley "Well, I need to study as always. I missed the whole day."
+    Haley ""
+
+# game/logic/events/haley.rpy:4775
+translate brazilian Haley_22_label_97d2f422:
+
+    # ch_Name "I just thought, you know..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4777
+translate brazilian Haley_22_label_836a0428:
+
+    # ch_Name "Maybe you want to talk about what happened between us yesterday..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4778
+translate brazilian Haley_22_label_41c72874:
+
+    # ch_Name "We didn't get much time alone for this."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4779
+translate brazilian Haley_22_label_0629120f:
+
+    # Haley "I thought about that... but not right now, okay?"
+    Haley ""
+
+# game/logic/events/haley.rpy:4780
+translate brazilian Haley_22_label_8b9f8e8f:
+
+    # Haley "Sorry, I don't want to be late for the potion class."
+    Haley ""
+
+# game/logic/events/haley.rpy:4782
+translate brazilian Haley_22_label_0ec7921a:
+
+    # ch_Name "Sure. You can always call me..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4783
+translate brazilian Haley_22_label_26c0c8c0:
+
+    # ch_Name "..at any time, day or night."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4784
+translate brazilian Haley_22_label_94712973:
+
+    # Haley "He-he, alright. See you later, [Name]."
+    Haley ""
+
+# game/logic/events/haley.rpy:4791
+translate brazilian Haley_22_label_2bea8069_1:
+
+    # ch_Name "What are you going to do, Haley?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4792
+translate brazilian Haley_22_label_eb50f5b7:
+
+    # Haley "It's Saturday, you, silly."
+    Haley ""
+
+# game/logic/events/haley.rpy:4793
+translate brazilian Haley_22_label_4839e134:
+
+    # Haley "We need to get to the meeting in the Main hall."
+    Haley ""
+
+# game/logic/events/haley.rpy:4795
+translate brazilian Haley_22_label_3ad0fc53:
+
+    # ch_Name "Can't it wait?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4796
+translate brazilian Haley_22_label_2566207f:
+
+    # ch_Name "I don't want to end our adventure like that."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4797
+translate brazilian Haley_22_label_c0769511:
+
+    # Haley "Me too."
+    Haley ""
+
+# game/logic/events/haley.rpy:4798
+translate brazilian Haley_22_label_2792db76:
+
+    # Haley "But we have to go. What if we win and miss our boat 'cause of staying here?"
+    Haley ""
+
+# game/logic/events/haley.rpy:4800
+translate brazilian Haley_22_label_9e3aad72:
+
+    # Haley "We should go. Like, right now!"
+    Haley ""
+
+# game/logic/events/haley.rpy:4801
+translate brazilian Haley_22_label_33991f84:
+
+    # ch_Name "Okay-okay..."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:4802
+translate brazilian Haley_22_label_5ba347aa:
+
+    # ch_Name "{i}(Gosh, this week is full of meetings. I'm getting tired of them.){/i}"
+    ch_Name ""
+
+translate brazilian strings:
+
+    # game/logic/events/haley.rpy:3964
+    old "Leave her alone"
+    new ""
+
+    # game/logic/events/haley.rpy:4015
+    old "Keep our distance"
+    new ""
+
+    # game/logic/events/haley.rpy:4198
+    old "Lick it"
+    new ""
+
+    # game/logic/events/haley.rpy:4198
+    old "Work with my fingers"
+    new ""
+
+    # game/logic/events/haley.rpy:4198
+    old "Initiate sex"
+    new ""
+

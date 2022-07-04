@@ -5722,3 +5722,2675 @@ translate brazilian strings:
     old "Don't take advantage of her"
     new "Não tire vantagem dela"
 
+# TODO: Translation updated at 2022-07-04 17:01
+
+# game/logic/events/samantha.rpy:262
+translate brazilian Samantha_1_label_b55c238c:
+
+    # ch_Name "It's not as bad as it seems."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:263
+translate brazilian Samantha_1_label_ba54441b:
+
+    # ch_Name "Do you know anything about the massage parlor in the Dale?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:265
+translate brazilian Samantha_1_label_43a2c4ce:
+
+    # Samantha "Of course I know, kiddo."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:266
+translate brazilian Samantha_1_label_fec3bc87:
+
+    # Samantha "I'm one of their regulars."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:268
+translate brazilian Samantha_1_label_62c8b868:
+
+    # ch_Name "It's real magic!"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:269
+translate brazilian Samantha_1_label_18977e50:
+
+    # ch_Name "I got a massage there and it was incredible! Their masseuses can do wonders!"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:270
+translate brazilian Samantha_1_label_7f5ecfc8:
+
+    # ch_Name "The leg doesn't seem to hurt as much as it was before."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:272
+translate brazilian Samantha_1_label_6bbd257c:
+
+    # Samantha "For some reason I thought that you spent all your weekend in Lady Luck..."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:273
+translate brazilian Samantha_1_label_a5aa40f7:
+
+    # Samantha "...but I was obviously mistaken."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:274
+translate brazilian Samantha_1_label_f7ab615f:
+
+    # ch_Name "No, of course not! How could you even think that?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:276
+translate brazilian Samantha_1_label_285f0424:
+
+    # Samantha "Don't worry, I'm only kidding."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:277
+translate brazilian Samantha_1_label_accbf8ac:
+
+    # Samantha "Actually, I think that full recovery of your leg would take about 6 months."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:287
+translate brazilian Samantha_1_label_c5f217b6:
+
+    # Samantha "Wistley's Spa has a great masseuse."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:294
+translate brazilian Samantha_1_label_875f6a1a:
+
+    # Samantha "It's magical world, baby."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:296
+translate brazilian Samantha_1_label_61ec576a:
+
+    # Samantha "But at Wistley's they practice curing magical massage."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:297
+translate brazilian Samantha_1_label_acf76777:
+
+    # Samantha "The results are amazing!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:973
+translate brazilian Samantha_6_label_699e54d5:
+
+    # Samantha "Let's meet in the evening in my room."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1127
+translate brazilian Samantha_8_label_e8138e72:
+
+    # ch_Name "{i}(One more day of this life.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1216
+translate brazilian Samantha_8_label_b527a690:
+
+    # ch_Name "Let's be honest."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1218
+translate brazilian Samantha_8_label_b7210a45:
+
+    # ch_Name "And you know perfectly well that you're looking very good in that lingerie."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1401
+translate brazilian Samantha_9_label_21cd7c20:
+
+    # ch_Name "{i}(And how on earth did she get invited to the third-year students party?){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1735
+translate brazilian Samantha_11_label_86eb009c:
+
+    # ch_Name "It's already midday."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1759
+translate brazilian Samantha_12_label_808c6128:
+
+    # ch_Name "Hello!"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1760
+translate brazilian Samantha_12_label_4f87e7cb:
+
+    # Samantha "Good morning, [Name]!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1761
+translate brazilian Samantha_12_label_bead6911:
+
+    # ch_Name "What are you doing?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1763
+translate brazilian Samantha_12_label_141e90b4:
+
+    # Samantha "I'm dreaming of getting some more sleep, he-he."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1764
+translate brazilian Samantha_12_label_ad92b40e:
+
+    # Samantha "I barely slept last night."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1765
+translate brazilian Samantha_12_label_53817b1a:
+
+    # ch_Name "You need to have more rest, Sam."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1766
+translate brazilian Samantha_12_label_fed7f3ff:
+
+    # ch_Name "Such a regime of life is unhealthy."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1768
+translate brazilian Samantha_12_label_96cf314b:
+
+    # Samantha "That's the least of my worries right now."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1769
+translate brazilian Samantha_12_label_47980406:
+
+    # ch_Name "There is no excuse for not caring for yourself."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1770
+translate brazilian Samantha_12_label_defe5f79:
+
+    # Samantha "Ohh..."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1771
+translate brazilian Samantha_12_label_b7c83091:
+
+    # ch_Name "Okay, put a smile on your face and start to act as if you're happy."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1773
+translate brazilian Samantha_12_label_1d537a56:
+
+    # ch_Name "Maybe you'll start to feel how you act."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1774
+translate brazilian Samantha_12_label_c0520dc4:
+
+    # Samantha "It doesn't work that way."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1776
+translate brazilian Samantha_12_label_4f2d4e41:
+
+    # ch_Name "Just try."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1777
+translate brazilian Samantha_12_label_2c098683:
+
+    # ch_Name "Great!"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1778
+translate brazilian Samantha_12_label_5b10c9ca:
+
+    # ch_Name "Keep smiling, Sam."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1780
+translate brazilian Samantha_12_label_38d68cef:
+
+    # ch_Name "You look very nice with a smile."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1781
+translate brazilian Samantha_12_label_548e850c:
+
+    # Samantha "Thank you, monsieur."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1782
+translate brazilian Samantha_12_label_c4708bfc:
+
+    # ch_Name "Do you have any classes now?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1784
+translate brazilian Samantha_12_label_4fdcfd04:
+
+    # Samantha "I have a class in 20 minutes."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1785
+translate brazilian Samantha_12_label_e3b1e792:
+
+    # Samantha "I was just about to go there."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1786
+translate brazilian Samantha_12_label_0c579f44:
+
+    # ch_Name "We can take a walk together. What do you think?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1787
+translate brazilian Samantha_12_label_c26b6315:
+
+    # Samantha "That'd be great!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1795
+translate brazilian Samantha_12_label_3cec2ba1:
+
+    # ch_Name "Oh, I almost forgot."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1796
+translate brazilian Samantha_12_label_26583ad7:
+
+    # ch_Name "What have you decided to do about The Great Wizards Tournament?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1797
+translate brazilian Samantha_12_label_e5bec189:
+
+    # Samantha "Yesterday was the last day for applications."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1798
+translate brazilian Samantha_12_label_860ca542:
+
+    # ch_Name "Oh, really?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1800
+translate brazilian Samantha_12_label_9f0bb977:
+
+    # ch_Name "So you... you didn't..."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1801
+translate brazilian Samantha_12_label_f6f2a3bf:
+
+    # ch_Name "Until the very last second, I believed that you'd have the courage to participate."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1802
+translate brazilian Samantha_12_label_a69298d2:
+
+    # Samantha "And you weren't wrong, dear."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1803
+translate brazilian Samantha_12_label_1c6d1639:
+
+    # Samantha "You know me too well."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1805
+translate brazilian Samantha_12_label_240c3513:
+
+    # Samantha "I talked to Victoria and finally decided to apply for this thing at the last moment."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1806
+translate brazilian Samantha_12_label_46f0210f:
+
+    # ch_Name "You're great!"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1807
+translate brazilian Samantha_12_label_bea04523:
+
+    # ch_Name "What's the next step?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1808
+translate brazilian Samantha_12_label_af71fca4:
+
+    # Samantha "All applicants need to think of a 10-minute performance..."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1809
+translate brazilian Samantha_12_label_bf78bd99:
+
+    # Samantha "...in which they will show all they're capable of."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1811
+translate brazilian Samantha_12_label_4a00e6e1:
+
+    # Samantha "Commission will assess them and choose the 4 best of the best magicians."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1812
+translate brazilian Samantha_12_label_aa917f18:
+
+    # Samantha "After that, the first challenge will start. "
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1813
+translate brazilian Samantha_12_label_a01a4200:
+
+    # ch_Name "Sam, do you understand that you have everything to win, including luck?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1814
+translate brazilian Samantha_12_label_61350526:
+
+    # ch_Name "Something inside of me just knows that."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1816
+translate brazilian Samantha_12_label_4ef3ffa1:
+
+    # ch_Name "And I believe that somewhere, deep down inside, you know it too."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1817
+translate brazilian Samantha_12_label_b00438d0:
+
+    # Samantha "Oh, [Name]..."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1818
+translate brazilian Samantha_12_label_3a1ebad5:
+
+    # Samantha "I appreciate it, really, but..."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1819
+translate brazilian Samantha_12_label_6ab51cab:
+
+    # Samantha "You know nothing about other participants and their power."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1821
+translate brazilian Samantha_12_label_b87c3971:
+
+    # Samantha "How can you judge?"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1822
+translate brazilian Samantha_12_label_e7c948cc:
+
+    # Samantha "Part of me doesn't want to accept what exactly I sign up for."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1823
+translate brazilian Samantha_12_label_2f6a72f8:
+
+    # Samantha "Come here, look!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1830
+translate brazilian Samantha_12_label_00b5e4d9:
+
+    # ch_Name "Wow!"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1831
+translate brazilian Samantha_12_label_1ae050eb:
+
+    # ch_Name "Who is this girl?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1832
+translate brazilian Samantha_12_label_1b212fcd:
+
+    # ch_Name "I've never met her."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1834
+translate brazilian Samantha_12_label_a987b051:
+
+    # Samantha "Dakota Alston from Adderin is one of the participants."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1835
+translate brazilian Samantha_12_label_5312f612:
+
+    # Samantha "What do you think of her at first sight?"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1836
+translate brazilian Samantha_12_label_2671bfd5:
+
+    # ch_Name "It's hard to say."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1837
+translate brazilian Samantha_12_label_40d651f4:
+
+    # ch_Name "Her beauty is undeniable, but..."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1839
+translate brazilian Samantha_12_label_0108a7dd:
+
+    # ch_Name "She doesn't look like others."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1840
+translate brazilian Samantha_12_label_7eeea7e7:
+
+    # ch_Name "She seems different."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1841
+translate brazilian Samantha_12_label_9c26e2f2:
+
+    # Samantha "Ohh, really?"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1842
+translate brazilian Samantha_12_label_eab0bb62:
+
+    # Samantha "That's the problem, you see only her appearance, her beauty, and fragility."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1844
+translate brazilian Samantha_12_label_0cb00428:
+
+    # Samantha "But I can say you - she's just as harmless as belladonna's flowers, that's for sure."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1845
+translate brazilian Samantha_12_label_4976bc55:
+
+    # Samantha "In her 12 years, she won battles with grown-up magicians!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1846
+translate brazilian Samantha_12_label_be0bca3c:
+
+    # Samantha "She knows spells and techniques which you and I can't even imagine."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1847
+translate brazilian Samantha_12_label_ac1a0288:
+
+    # ch_Name "Dakota friends with Elijah?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1849
+translate brazilian Samantha_12_label_f197b370:
+
+    # Samantha "Kind of."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1850
+translate brazilian Samantha_12_label_27ba33a8:
+
+    # Samantha "But it doesn't look like a friendly chat, don't you think so?"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1851
+translate brazilian Samantha_12_label_0c24035b:
+
+    # ch_Name "She looks like she wants to kill him with her poisonous eyes."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1852
+translate brazilian Samantha_12_label_93dc4305:
+
+    # ch_Name "Dakota seems to be really angry!"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1854
+translate brazilian Samantha_12_label_df8c371f:
+
+    # Samantha "And only look at Elijah."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1855
+translate brazilian Samantha_12_label_b4dca3fa:
+
+    # Samantha "He looks scared!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1858
+translate brazilian Samantha_12_label_b0703665:
+
+    # Samantha "I've never seen him like this."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1859
+translate brazilian Samantha_12_label_0cae1207:
+
+    # Samantha "Oh, God!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1860
+translate brazilian Samantha_12_label_1396a919:
+
+    # ch_Name "Do you see what I see?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1861
+translate brazilian Samantha_12_label_33c1983e:
+
+    # Samantha "Without a doubt."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1862
+translate brazilian Samantha_12_label_665fb786:
+
+    # ch_Name "What she's up to?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1864
+translate brazilian Samantha_12_label_bcb6488a:
+
+    # Samantha "I don't know, but she wouldn't dare whatever it is."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1865
+translate brazilian Samantha_12_label_67e5eeb3:
+
+    # Samantha "The world's gone crazy."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1866
+translate brazilian Samantha_12_label_08785cbf:
+
+    # Samantha "What the..."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1868
+translate brazilian Samantha_12_label_602626d7:
+
+    # Samantha "She's coming over here!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1869
+translate brazilian Samantha_12_label_e30795ca:
+
+    # Samantha "Act natural, okay?"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1870
+translate brazilian Samantha_12_label_d75e04d3:
+
+    # Samantha "Nothing strange is happening, it's just a talk."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1871
+translate brazilian Samantha_12_label_ffbb21ce:
+
+    # Dakota "Samantha? Nice to meet you."
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1873
+translate brazilian Samantha_12_label_4e155c1a:
+
+    # Dakota "I only wanted to greet new participant of The Tournament."
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1874
+translate brazilian Samantha_12_label_ba96fba6:
+
+    # Dakota "I saw your name at the end of the list."
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1875
+translate brazilian Samantha_12_label_dd4dd39e:
+
+    # Dakota "Seems like you hesitated a lot before applying, am I right?"
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1876
+translate brazilian Samantha_12_label_61c7399d:
+
+    # Dakota "I was one of the first who did it."
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1878
+translate brazilian Samantha_12_label_90bac37d:
+
+    # Samantha "My congratulations, then."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1879
+translate brazilian Samantha_12_label_5931ef5e:
+
+    # Dakota "We are going to have some fun, that's for sure."
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1880
+translate brazilian Samantha_12_label_beacd3eb:
+
+    # Dakota "I can count powerful wizards among the participants on my one hand."
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1882
+translate brazilian Samantha_12_label_7eeed594:
+
+    # Dakota "Others are the bunch of untalented magicians who know nothing about magic."
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1883
+translate brazilian Samantha_12_label_85f19f49:
+
+    # Dakota "On what they're counting on?"
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1884
+translate brazilian Samantha_12_label_a65c3672:
+
+    # Samantha "I didn't think about it."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1885
+translate brazilian Samantha_12_label_86e649a3:
+
+    # Dakota "In any case, there is only one moral."
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1887
+translate brazilian Samantha_12_label_5054b919:
+
+    # Dakota "Everyone needs to choose the side which he wants to be on."
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1888
+translate brazilian Samantha_12_label_5f95e413:
+
+    # Dakota "Together with the weakest, with losers... "
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1889
+translate brazilian Samantha_12_label_4af075b4:
+
+    # Dakota "Or with the strongest ones."
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1890
+translate brazilian Samantha_12_label_e665e11f:
+
+    # Dakota "What is your personal choice, Samantha?"
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1892
+translate brazilian Samantha_12_label_4b12bbf5:
+
+    # Samantha "I prefer not to divide the world in black and white, between losers and winners."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1893
+translate brazilian Samantha_12_label_56dfa6b7:
+
+    # Samantha "In reality, it doesn't work like that."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1894
+translate brazilian Samantha_12_label_862f19dc:
+
+    # Dakota "You're mistaken."
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1895
+translate brazilian Samantha_12_label_68ebcd2f:
+
+    # Dakota "But it's okay..."
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1896
+translate brazilian Samantha_12_label_fb7b37ff:
+
+    # Dakota "The Great Wizards Tournament will be your first experience in the world of magical battles. "
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1898
+translate brazilian Samantha_12_label_eeaee832:
+
+    # Dakota "You still have a lot to learn."
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1899
+translate brazilian Samantha_12_label_5743b1f6:
+
+    # Dakota "But I can help you with that."
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1900
+translate brazilian Samantha_12_label_36059868:
+
+    # Dakota "Only if you want, certainly."
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1901
+translate brazilian Samantha_12_label_8709d183:
+
+    # Samantha "Why are you telling me all these things?"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1902
+translate brazilian Samantha_12_label_d19ab74c:
+
+    # Samantha "We barely know each other."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1904
+translate brazilian Samantha_12_label_9f843ba9:
+
+    # Dakota "You're a really powerful wizard, Samantha."
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1905
+translate brazilian Samantha_12_label_730c661d:
+
+    # Dakota "Everybody knows that."
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1906
+translate brazilian Samantha_12_label_87502119:
+
+    # Dakota "Plus, I think that you and I are the same types of people."
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1907
+translate brazilian Samantha_12_label_604dabed:
+
+    # Dakota "It attracts, naturally."
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1908
+translate brazilian Samantha_12_label_977dcea0:
+
+    # Samantha "The same types of people?"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1910
+translate brazilian Samantha_12_label_704968b9:
+
+    # Samantha "I don't like to jump to conclusions too quickly."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1911
+translate brazilian Samantha_12_label_cc7a5440:
+
+    # Samantha "And don't forget that we will be competitors in The Tournament."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1912
+translate brazilian Samantha_12_label_2ee0038f:
+
+    # Dakota "Well, yes."
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1913
+translate brazilian Samantha_12_label_20eb2e59:
+
+    # Dakota "But maybe there is no need to always be against everybody?"
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1915
+translate brazilian Samantha_12_label_ad7142e7:
+
+    # Dakota "Oh, I don't think we've met, young man."
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1917
+translate brazilian Samantha_12_label_30e44f76:
+
+    # Dakota "My name is Dakota."
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1918
+translate brazilian Samantha_12_label_27c53a27:
+
+    # ch_Name "I'm [Name]. Nice to meet you, Dakota."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1920
+translate brazilian Samantha_12_label_03e4e8b6:
+
+    # Dakota "I'm a bit old-fashioned about these things, sorry."
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1921
+translate brazilian Samantha_12_label_18ba2ac1:
+
+    # ch_Name "There's nothing to feel sorry about."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1923
+translate brazilian Samantha_12_label_c21bde76:
+
+    # ch_Name "That's adorable!"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1924
+translate brazilian Samantha_12_label_edf88bbd:
+
+    # Dakota "Thank you."
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1926
+translate brazilian Samantha_12_label_6f78a245:
+
+    # Dakota "Hope to see you again another time."
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1927
+translate brazilian Samantha_12_label_2f2d1720:
+
+    # Dakota "Have a great day!"
+    Dakota ""
+
+# game/logic/events/samantha.rpy:1929
+translate brazilian Samantha_12_label_2fb38857:
+
+    # Samantha "What it was all about?"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1930
+translate brazilian Samantha_12_label_bd5c1847:
+
+    # ch_Name "What do you mean? "
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1931
+translate brazilian Samantha_12_label_baa9e994:
+
+    # Samantha "Dakota is a lot more complicated when it seems."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1932
+translate brazilian Samantha_12_label_ec16921c:
+
+    # Samantha "She's up to something."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1933
+translate brazilian Samantha_12_label_9de273fa:
+
+    # Samantha "Tried to friend me, then flirted with you."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1935
+translate brazilian Samantha_12_label_ea436aef:
+
+    # ch_Name "Flirted? Are you kidding me?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1936
+translate brazilian Samantha_12_label_bf8ca730:
+
+    # ch_Name "She was only trying to be nice to me!"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1937
+translate brazilian Samantha_12_label_12b4bca4:
+
+    # Samantha "Mm-mhm."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1939
+translate brazilian Samantha_12_label_c10fcffa:
+
+    # ch_Name "Oh, Sam!"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1940
+translate brazilian Samantha_12_label_74da78f3:
+
+    # ch_Name "I am touched that you're jealous."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1941
+translate brazilian Samantha_12_label_0dcb29a4:
+
+    # ch_Name "It's really cute."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1942
+translate brazilian Samantha_12_label_84b75cea:
+
+    # Samantha "What!?"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1944
+translate brazilian Samantha_12_label_607ca851:
+
+    # Samantha "Don't be ridiculous."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1945
+translate brazilian Samantha_12_label_1a7ccf33:
+
+    # Samantha "Anyway, don't trust her that quickly."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1946
+translate brazilian Samantha_12_label_066f50f3:
+
+    # Samantha "I heard that she's very cunning."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1947
+translate brazilian Samantha_12_label_ac1551a9:
+
+    # Samantha "She wants to win The Tournament more than anything in the world."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1949
+translate brazilian Samantha_12_label_584045c3:
+
+    # Samantha "And this odd situation with Elijah in front of everybody's eyes..."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1950
+translate brazilian Samantha_12_label_dba5e2ba:
+
+    # Samantha "You should be careful."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1951
+translate brazilian Samantha_12_label_dc0e8246:
+
+    # ch_Name "Thanks for caring, but I think that you don't have to worry."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1953
+translate brazilian Samantha_12_label_49631ce8:
+
+    # Samantha "We'll see."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1954
+translate brazilian Samantha_12_label_71dd10a2:
+
+    # Samantha "Oh, Gosh, I'm late for the class."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1955
+translate brazilian Samantha_12_label_b48e434c:
+
+    # Samantha "Sorry, [Name], I need to go."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1957
+translate brazilian Samantha_12_label_d2e0f35e:
+
+    # ch_Name "Sure, no problem."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1958
+translate brazilian Samantha_12_label_6c0d5264:
+
+    # Samantha "See you!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:1967
+translate brazilian Samantha_12_label_debc94f8:
+
+    # ch_Name "{i}(Well, that was interesting...){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1968
+translate brazilian Samantha_12_label_3273432d:
+
+    # ch_Name "{i}(That Dakota is an intriguing girl.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1969
+translate brazilian Samantha_12_label_9af76c9f:
+
+    # ch_Name "{i}(Is she really as bad as Samantha says she is?){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1971
+translate brazilian Samantha_12_label_27d52f1f:
+
+    # ch_Name "{i}(Anyway, there's still plenty of time until the evening.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1972
+translate brazilian Samantha_12_label_f425a687:
+
+    # ch_Name "{i}(But I don't feel like going to class.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1973
+translate brazilian Samantha_12_label_e782351b:
+
+    # ch_Name "{i}(Maybe I should distract myself with something useful.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1974
+translate brazilian Samantha_12_label_8a2f8ec0:
+
+    # ch_Name "{i}(Like work at Molly's...){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1980
+translate brazilian Samantha_13_label_50a7e8a8:
+
+    # ch_Name "{i}(Fuck, I can't sleep.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1981
+translate brazilian Samantha_13_label_26d2324c:
+
+    # ch_Name "{i}(All sorts of strange ideas come into my head.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1982
+translate brazilian Samantha_13_label_e21f6972:
+
+    # ch_Name "{i}(Go for the walk, maybe?){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1983
+translate brazilian Samantha_13_label_d0dee400:
+
+    # ch_Name "{i}(Nah, I'm too lazy for that.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1986
+translate brazilian Samantha_13_label_3180df1c:
+
+    # ch_Name "{i}(Fuck, I can't sleep. How could I after what I saw?){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1987
+translate brazilian Samantha_13_label_4d0fbd2e:
+
+    # ch_Name "{i}(Even when I found out that Audrey is a succubus...){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1988
+translate brazilian Samantha_13_label_1520f461:
+
+    # ch_Name "{i}(I could never have thought that she looks so... different.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1989
+translate brazilian Samantha_13_label_bef5a7b7:
+
+    # ch_Name "{i}(Oh wow... It's both fantastic and terrifying.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1993
+translate brazilian Samantha_13_label_b6ce45a5:
+
+    # NoName "Knock-Knock"
+    NoName ""
+
+# game/logic/events/samantha.rpy:1995
+translate brazilian Samantha_13_label_0bfa802c:
+
+    # ch_Name "{i}(Someone is knocking at the door, or I'm just imagining things?){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1996
+translate brazilian Samantha_13_label_7110c850:
+
+    # ch_Name "{i}(No, that's for real.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1997
+translate brazilian Samantha_13_label_88ba4db2:
+
+    # ch_Name "{i}(There's someone at the door.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:1999
+translate brazilian Samantha_13_label_8566e9bf:
+
+    # ch_Name "Samantha? Are you okay?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2000
+translate brazilian Samantha_13_label_fe285b27:
+
+    # ch_Name "Shhh, why are you crying?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2001
+translate brazilian Samantha_13_label_c7b8a2a8:
+
+    # ch_Name "Come here."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2003
+translate brazilian Samantha_13_label_f3ae098d:
+
+    # ch_Name "What happened? Tell me."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2004
+translate brazilian Samantha_13_label_c347193e:
+
+    # ch_Name "{i}(What might have happened? I've never seen her so scared.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2005
+translate brazilian Samantha_13_label_f3437177:
+
+    # ch_Name "Let's go to the bedroom. I want you to tell me everything."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2007
+translate brazilian Samantha_13_label_5d8bfede:
+
+    # Samantha "I had a nightmare... that you died."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2008
+translate brazilian Samantha_13_label_aa08e17a:
+
+    # ch_Name "Oh!"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2009
+translate brazilian Samantha_13_label_9f9d027b:
+
+    # ch_Name "It was just a bad, very bad dream, Sam."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2010
+translate brazilian Samantha_13_label_08e6dd81:
+
+    # ch_Name "Everything is okay. I'm here with you, alive."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2012
+translate brazilian Samantha_13_label_46f4564a:
+
+    # Samantha "I was so scared..."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2013
+translate brazilian Samantha_13_label_9e2d2020:
+
+    # ch_Name "Of course, you were."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2014
+translate brazilian Samantha_13_label_43a1d28d:
+
+    # ch_Name "Tell me about it. What was it like?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2016
+translate brazilian Samantha_13_label_2daa4790:
+
+    # Samantha "I was arguing with you... about Dakota."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2017
+translate brazilian Samantha_13_label_d8e4d0f9:
+
+    # Samantha "We were shouting at each other."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2018
+translate brazilian Samantha_13_label_84789818:
+
+    # Samantha "You told me that I'm wrong about her."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2019
+translate brazilian Samantha_13_label_954122d5:
+
+    # Samantha "That I have a very strong prejudice against her, and it ain't right."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2021
+translate brazilian Samantha_13_label_b9860629:
+
+    # Samantha "Then Dakota showed up."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2022
+translate brazilian Samantha_13_label_4f42d678:
+
+    # Samantha "I didn't expect that."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2023
+translate brazilian Samantha_13_label_566be9f8:
+
+    # Samantha "She fired a kind of burning light at me."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2024
+translate brazilian Samantha_13_label_088c9101:
+
+    # Samantha "I fell and I couldn't get up."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2031
+translate brazilian Samantha_13_label_7c03af63:
+
+    # Samantha "You... you started to fight with her."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2032
+translate brazilian Samantha_13_label_8d262197:
+
+    # Samantha "You were protecting me from her."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2033
+translate brazilian Samantha_13_label_42c82029:
+
+    # Samantha "She was incredibly powerful, [Name]. But you..."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2034
+translate brazilian Samantha_13_label_f66a8dc5:
+
+    # Samantha "...you were amazing."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2036
+translate brazilian Samantha_13_label_5869259f:
+
+    # Samantha "It was a fair fight on equal terms."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2037
+translate brazilian Samantha_13_label_4bce4971:
+
+    # Samantha "You both refused to give up."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2038
+translate brazilian Samantha_13_label_93085a97:
+
+    # Samantha "Smoke filled the room, along with flashes of light."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2039
+translate brazilian Samantha_13_label_9b724b77:
+
+    # Samantha "Suddenly, something unthinkable happened."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2040
+translate brazilian Samantha_13_label_0a5558be:
+
+    # ch_Name "...?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2042
+translate brazilian Samantha_13_label_f936b7a8:
+
+    # Samantha "Dakota came up to you..."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2044
+translate brazilian Samantha_13_label_6e07cd98:
+
+    # Samantha "...and started to kiss you."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2045
+translate brazilian Samantha_13_label_49de1a0b:
+
+    # ch_Name "Ha-ha-ha-ha, really?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2046
+translate brazilian Samantha_13_label_05554b8e:
+
+    # Samantha "Yep, it sounds funny now."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2047
+translate brazilian Samantha_13_label_115b585f:
+
+    # Samantha "But I felt utterly blindsided by what I saw."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2048
+translate brazilian Samantha_13_label_ac9047c9:
+
+    # Samantha "So, you were kissing."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2049
+translate brazilian Samantha_13_label_002981ab:
+
+    # Samantha "I think her goal was to take you by surprise."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2050
+translate brazilian Samantha_13_label_5242c598:
+
+    # Samantha "It worked, actually."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2052
+translate brazilian Samantha_13_label_72729732:
+
+    # Samantha "She caught you off guard, and hit you with a spell before you could do anything."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2053
+translate brazilian Samantha_13_label_c319229f:
+
+    # Samantha "You fell to the ground and lay there, breathless and motionless."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2054
+translate brazilian Samantha_13_label_2566251c:
+
+    # Samantha "It was horrible!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2056
+translate brazilian Samantha_13_label_234499c4:
+
+    # Samantha "I was holding you in my arms and trying to wake you up."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2057
+translate brazilian Samantha_13_label_2e32ba86:
+
+    # Samantha "But nothing helped. You had no pulse, and you weren't breathing."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2058
+translate brazilian Samantha_13_label_89ffeb6f:
+
+    # Samantha "You were dead, [Name]!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2059
+translate brazilian Samantha_13_label_7b2079cd:
+
+    # Samantha "I was pinching myself just to wake up, but I couldn't."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2060
+translate brazilian Samantha_13_label_20375f98:
+
+    # Samantha "It was so hurtful to understand that I lost you."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2061
+translate brazilian Samantha_13_label_8dc7bb8c:
+
+    # Samantha "The part of my soul went together with you."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2063
+translate brazilian Samantha_13_label_d212ac22:
+
+    # ch_Name "No one should have to experience things like that, even in a dream."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2064
+translate brazilian Samantha_13_label_3da96a4a:
+
+    # ch_Name "But what was Dakota doing all that time?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2065
+translate brazilian Samantha_13_label_f8c506f8:
+
+    # Samantha "Dakota?"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2067
+translate brazilian Samantha_13_label_22a5f3f2:
+
+    # Samantha "She was standing aside and watching us."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2068
+translate brazilian Samantha_13_label_8c5cee68:
+
+    # ch_Name "Was she triumphing?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2069
+translate brazilian Samantha_13_label_bec09bc8:
+
+    # Samantha "Triumphing? Not at all."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2070
+translate brazilian Samantha_13_label_c2fcd1c3:
+
+    # Samantha "She looked sad and tired."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2071
+translate brazilian Samantha_13_label_a84e9722:
+
+    # ch_Name "Hm..."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2072
+translate brazilian Samantha_13_label_c35e5bee:
+
+    # ch_Name "Well, that doesn't matter."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2074
+translate brazilian Samantha_13_label_48c4ad7b:
+
+    # ch_Name "Come here, baby."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2075
+translate brazilian Samantha_13_label_8b939222:
+
+    # ch_Name "Shhhhhhh."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2076
+translate brazilian Samantha_13_label_0e0b4d5e:
+
+    # ch_Name "It's over already."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2077
+translate brazilian Samantha_13_label_d3ee7c95:
+
+    # ch_Name "The worst is behind you."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2079
+translate brazilian Samantha_13_label_536c5b19:
+
+    # ch_Name "I can't promise that I will never die in your arms, but..."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2080
+translate brazilian Samantha_13_label_9345d3b0:
+
+    # ch_Name "It is my objective not to let this happen."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2081
+translate brazilian Samantha_13_label_89176db4:
+
+    # Samantha "You're such a dummy!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2083
+translate brazilian Samantha_13_label_bc3c857c:
+
+    # Samantha "Mmmm..."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2084
+translate brazilian Samantha_13_label_c8727041:
+
+    # ch_Name "Your breath is so warm."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2085
+translate brazilian Samantha_13_label_44bd4c7a:
+
+    # Samantha "I'm so glad that you support me all the time."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2086
+translate brazilian Samantha_13_label_bf73860d:
+
+    # Samantha "It means a lot to me, and I really appreciate it."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2088
+translate brazilian Samantha_13_label_98ea8317:
+
+    # ch_Name "Aww, I'm happy to be here for you. Don't thank me for that."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2089
+translate brazilian Samantha_13_label_344c819e:
+
+    # Samantha "Let's just lie down for a bit?"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2090
+translate brazilian Samantha_13_label_74ebce9c:
+
+    # ch_Name "Sure."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2092
+translate brazilian Samantha_13_label_4ed8c180:
+
+    # Samantha "I feel so safe with you, [Name]."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2093
+translate brazilian Samantha_13_label_ecce82c5:
+
+    # Samantha "I never felt that way with anybody else."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2094
+translate brazilian Samantha_13_label_86263a94:
+
+    # Samantha "I can barely keep my eyes open."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2101
+translate brazilian Samantha_13_label_aeb23eb5:
+
+    # ch_Name "{i}(Oh, what time is it?){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2102
+translate brazilian Samantha_13_label_f4738e89:
+
+    # ch_Name "{i}(Did we just fall asleep?){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2103
+translate brazilian Samantha_13_label_0f95a703:
+
+    # ch_Name "{i}(I don't remember it.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2105
+translate brazilian Samantha_13_label_2503f4fe:
+
+    # ch_Name "{i}(Oh!){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2106
+translate brazilian Samantha_13_label_22ee252b:
+
+    # ch_Name "{i}(Very, very exciting...){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2107
+translate brazilian Samantha_13_label_dd71303c:
+
+    # ch_Name "{i}(Only single touch, and I'm already turned on!){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2109
+translate brazilian Samantha_13_label_2c692bc7:
+
+    # ch_Name "{i}(Only look at her!){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2110
+translate brazilian Samantha_13_label_92a7a023:
+
+    # ch_Name "{i}(She's so sweet while sleeping.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2112
+translate brazilian Samantha_13_label_0fe160df:
+
+    # ch_Name "{i}(I can endlessly watch her chest rising and falling.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2113
+translate brazilian Samantha_13_label_63af416c:
+
+    # ch_Name "{i}(Again and again, again and again...){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2114
+translate brazilian Samantha_13_label_e1cf9885:
+
+    # ch_Name "{i}(I have no thought of sleep...){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2115
+translate brazilian Samantha_13_label_1f9f2c38:
+
+    # Samantha "Oh, [Name]!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2117
+translate brazilian Samantha_13_label_ebd50d51:
+
+    # ch_Name "Sam?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2118
+translate brazilian Samantha_13_label_dfb65ccf:
+
+    # ch_Name "{i}(Whoa!){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2119
+translate brazilian Samantha_13_label_e4cba2e4:
+
+    # ch_Name "{i}(Has she called for me in her sleep?){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2120
+translate brazilian Samantha_13_label_5132e95d:
+
+    # ch_Name "{i}(I'm wondering what she is dreaming about.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2122
+translate brazilian Samantha_13_label_082131a0:
+
+    # ch_Name "{i}(Ugh...){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2123
+translate brazilian Samantha_13_label_cb58fe72:
+
+    # ch_Name "{i}(What a lovely view!){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2127
+translate brazilian Samantha_13_label_a4fe9521:
+
+    # ch_Name "{i}(I just want to feel closer to her.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2129
+translate brazilian Samantha_13_label_ace715d0:
+
+    # ch_Name "{i}(Phew!){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2130
+translate brazilian Samantha_13_label_b8987a9b:
+
+    # ch_Name "{i}(I can't believe that it's real!){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2132
+translate brazilian Samantha_13_label_72d98b8c:
+
+    # ch_Name "{i}(I hope I'm not going to wake her up.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2133
+translate brazilian Samantha_13_label_7c1fea2b:
+
+    # ch_Name "{i}(That's the last thing that I want.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2134
+translate brazilian Samantha_13_label_a13f40db:
+
+    # ch_Name "{i}(I need to be very careful.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2136
+translate brazilian Samantha_13_label_5030d6d8:
+
+    # ch_Name "{i}(That feels sooo great!){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2137
+translate brazilian Samantha_13_label_00997024:
+
+    # ch_Name "{i}(Even better than I could imagine...){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2139
+translate brazilian Samantha_13_label_2be84f76:
+
+    # Samantha "Mmmm!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2140
+translate brazilian Samantha_13_label_18fe36ed:
+
+    # ch_Name "{i}(Oh, Sam.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2142
+translate brazilian Samantha_13_label_81149f48:
+
+    # ch_Name "{i}(You're moaning so gently!){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2143
+translate brazilian Samantha_13_label_e9b2cff5:
+
+    # ch_Name "{i}(It's like the music to my ears.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2144
+translate brazilian Samantha_13_label_a9214311:
+
+    # ch_Name "{i}(I like to watch how my touches make her parted lips tremble...){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2146
+translate brazilian Samantha_13_label_a797398d:
+
+    # ch_Name "{i}(Why is it so hard to take my eyes off your ass, Sam?){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2147
+translate brazilian Samantha_13_label_31f8224a:
+
+    # ch_Name "{i}(It's driving me crazy...){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2148
+translate brazilian Samantha_13_label_8d79d64f:
+
+    # ch_Name "{i}(Her skin is so firm and smooth...){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2149
+translate brazilian Samantha_13_label_5030d6d8_1:
+
+    # ch_Name "{i}(That feels sooo great!){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2151
+translate brazilian Samantha_13_label_a0bc6c06:
+
+    # ch_Name "{i}(Okay, I really need to get some sleep now.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2152
+translate brazilian Samantha_13_label_16c04c5b:
+
+    # ch_Name "{i}(I have to wake up early tomorrow, as always.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2153
+translate brazilian Samantha_13_label_386d2869:
+
+    # ch_Name "{i}(And I'm so tired to suffer from lack of sleep...){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2155
+translate brazilian Samantha_13_label_904364e3:
+
+    # ch_Name "{i}(She is looking so peaceful.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2156
+translate brazilian Samantha_13_label_175183c8:
+
+    # ch_Name "{i}(I'm starting to get sleepy...){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2157
+translate brazilian Samantha_13_label_bf902383:
+
+    # ch_Name "{i}(Even without any distressing thought...){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2160
+translate brazilian Samantha_13_label_5ee1b371:
+
+    # ch_Name "{i}(But I hope she's not cold.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2161
+translate brazilian Samantha_13_label_8e45970b:
+
+    # ch_Name "{i}(Maybe it's better to cover her with the blanket.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2163
+translate brazilian Samantha_13_label_81a9e84f:
+
+    # ch_Name "{i}(Eh... I have to wake up early tomorrow, as always.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2164
+translate brazilian Samantha_13_label_72ae6df0:
+
+    # ch_Name "{i}(I should try to get some sleep, there is no other way.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2165
+translate brazilian Samantha_13_label_67889b10:
+
+    # ch_Name "{i}(And what can be better than falling asleep while listening to the sound of a beautiful girl's breathing?){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2178
+translate brazilian Samantha_13_label_dffae693:
+
+    # ch_Name "Sam..."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2179
+translate brazilian Samantha_13_label_75c8e67d:
+
+    # ch_Name "Samantha?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2180
+translate brazilian Samantha_13_label_fee6e039:
+
+    # ch_Name "{i}(Did she leave?){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2181
+translate brazilian Samantha_13_label_1a4a768c:
+
+    # ch_Name "{i}(It seems so.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2182
+translate brazilian Samantha_13_label_ced1e917:
+
+    # ch_Name "{i}(Okay, that's not a big deal.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2183
+translate brazilian Samantha_13_label_8b6d5d7c:
+
+    # ch_Name "{i}(But I can't deny that waking up all alone is very sad.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2195
+translate brazilian Samantha_14_label_a7b2e514:
+
+    # ch_Name "{i}(What a beautiful morning!){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2196
+translate brazilian Samantha_14_label_87cc4886:
+
+    # ch_Name "{i}(I have never felt so awake!){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2198
+translate brazilian Samantha_14_label_b6ce45a5:
+
+    # NoName "Knock-Knock"
+    NoName ""
+
+# game/logic/events/samantha.rpy:2200
+translate brazilian Samantha_14_label_daa08ff6:
+
+    # ch_Name "{i}(Oh, someone is knocking at the door.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2201
+translate brazilian Samantha_14_label_49645caa:
+
+    # ch_Name "{i}(It seems that I have some unexpected guests.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2202
+translate brazilian Samantha_14_label_dd594b50:
+
+    # ch_Name "{i}(Who could it be?){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2204
+translate brazilian Samantha_14_label_89b8d08c:
+
+    # Samantha "Good morning!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2205
+translate brazilian Samantha_14_label_f873c853:
+
+    # ch_Name "Sam! Nice to see you!"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2206
+translate brazilian Samantha_14_label_8dbbd47f:
+
+    # Samantha "Are you going to go to the general meeting with the Principal?"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2207
+translate brazilian Samantha_14_label_649a826a:
+
+    # ch_Name "General meeting?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2208
+translate brazilian Samantha_14_label_87f73256:
+
+    # Samantha "The results of the preliminary round of The Tournament will be announced there."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2210
+translate brazilian Samantha_14_label_9f21e51e:
+
+    # Samantha "I am at my wit's end!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2211
+translate brazilian Samantha_14_label_7e271ede:
+
+    # Samantha "I wish you could come with me, [Name]."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2212
+translate brazilian Samantha_14_label_f7605260:
+
+    # Samantha "I need your support in this."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2213
+translate brazilian Samantha_14_label_e95ff866:
+
+    # Samantha "It calms me only to know you'll be there, for me."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2214
+translate brazilian Samantha_14_label_22375128:
+
+    # ch_Name "Sure!"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2216
+translate brazilian Samantha_14_label_2fb964e8:
+
+    # ch_Name "I'd be happy to go with you."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2217
+translate brazilian Samantha_14_label_1f9f2c38:
+
+    # Samantha "Oh, [Name]!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2218
+translate brazilian Samantha_14_label_da8e5529:
+
+    # Samantha "I really appreciate it!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2226
+translate brazilian Samantha_14_label_37aaaa38:
+
+    # Arthur "Today we're gathered you here to announce something really important."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2227
+translate brazilian Samantha_14_label_3f937b8c:
+
+    # Arthur "As all of you know, our Academy is a venue for The Great Wizard Tournament..."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2228
+translate brazilian Samantha_14_label_5e9e63db:
+
+    # Arthur "...which is about to take place."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2229
+translate brazilian Samantha_14_label_111f7064:
+
+    # Arthur "We received more than 50 applications, however, we had to choose only four people."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2230
+translate brazilian Samantha_14_label_ebff0c64:
+
+    # Arthur "Only four people who showed us the most astonishing results."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2232
+translate brazilian Samantha_14_label_375981bd:
+
+    # Samantha "I'm so nervous, I'm shaking like a leaf!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2233
+translate brazilian Samantha_14_label_0c6c3c6c:
+
+    # ch_Name "Relax, it's all going to be okay."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2235
+translate brazilian Samantha_14_label_b9b1e94a:
+
+    # Arthur "I will kindly ask the following students to take their places here with me."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2236
+translate brazilian Samantha_14_label_587441a8:
+
+    # Arthur "Please, welcome..."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2237
+translate brazilian Samantha_14_label_c2a79735:
+
+    # Arthur "...Oliver Kellet, Crowhive!"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2239
+translate brazilian Samantha_14_label_ffc14c49:
+
+    # Samantha "I've never seen him before."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2240
+translate brazilian Samantha_14_label_21f49aac:
+
+    # ch_Name "Me too."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2242
+translate brazilian Samantha_14_label_0245193a:
+
+    # Arthur "Our next participant is..."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2243
+translate brazilian Samantha_14_label_b38a92ee:
+
+    # Arthur "...Lovely Dakota Alston, Adderin!"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2244
+translate brazilian Samantha_14_label_5d3fdcea:
+
+    # Samantha "No wonder, right?"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2246
+translate brazilian Samantha_14_label_4516c473:
+
+    # Arthur "I was stunned by your performance, Miss Alston. "
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2247
+translate brazilian Samantha_14_label_a33010f8:
+
+    # Dakota "Thank you!"
+    Dakota ""
+
+# game/logic/events/samantha.rpy:2248
+translate brazilian Samantha_14_label_371fc621:
+
+    # Dakota "I'm truly honored by your praise!"
+    Dakota ""
+
+# game/logic/events/samantha.rpy:2250
+translate brazilian Samantha_14_label_a0f93d39:
+
+    # Arthur "The next one is an incredibly talented young lady..."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2251
+translate brazilian Samantha_14_label_90d61e1d:
+
+    # Arthur "...Samantha Rose, Leonheart!"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2253
+translate brazilian Samantha_14_label_f567c965:
+
+    # Samantha "Oh, my Goodness!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2254
+translate brazilian Samantha_14_label_7d987929:
+
+    # Samantha "Am I sleeping?"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2255
+translate brazilian Samantha_14_label_bd2a393d:
+
+    # ch_Name "Good luck!"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2256
+translate brazilian Samantha_14_label_3e42dc6b:
+
+    # ch_Name "{i}(I'm so happy for her!){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2258
+translate brazilian Samantha_14_label_15b58632:
+
+    # Arthur "And finally, our last participant is..."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2259
+translate brazilian Samantha_14_label_4c985306:
+
+    # Arthur "...Isaak Gelbert, Martenden!"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2260
+translate brazilian Samantha_14_label_8938566f:
+
+    # Arthur "But I have some terrible news."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2262
+translate brazilian Samantha_14_label_793941fd:
+
+    # ch_Name "{i}(Why isn't he coming out?){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2263
+translate brazilian Samantha_14_label_a9b7cd16:
+
+    # Arthur "For the first time in the history of The Tournament..."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2264
+translate brazilian Samantha_14_label_75328e05:
+
+    # Arthur "...the winner of the preliminary round refused to participate in the championship."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2265
+translate brazilian Samantha_14_label_75398644:
+
+    # ch_Name "{i}(What?){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2267
+translate brazilian Samantha_14_label_2bc65421:
+
+    # Arthur "By the rules, you can refuse to participate in The Tournament only in special cases."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2268
+translate brazilian Samantha_14_label_b498c1eb:
+
+    # Arthur "However, in the case of Isaak Gelbert there are some conditions..."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2269
+translate brazilian Samantha_14_label_0cb71755:
+
+    # Arthur "...that allow him to leave with no repercussions due to his health problems."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2270
+translate brazilian Samantha_14_label_f15c0abd:
+
+    # Arthur "Since we encountered such a situation for the first time..."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2271
+translate brazilian Samantha_14_label_56d2fd62:
+
+    # Arthur "...we did not have a contingency plan."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2272
+translate brazilian Samantha_14_label_a9999fee:
+
+    # Arthur "So I convened the Teachers' Council to discuss how we can resolve this situation."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2273
+translate brazilian Samantha_14_label_3344b131:
+
+    # Arthur "We decided to choose one more participant instead of the eliminated contestant."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2275
+translate brazilian Samantha_14_label_831f70f3:
+
+    # Elijah "Sorry, Principal, can I ask you something?"
+    Elijah ""
+
+# game/logic/events/samantha.rpy:2276
+translate brazilian Samantha_14_label_13573edf:
+
+    # Arthur "Surely."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2277
+translate brazilian Samantha_14_label_bfc7f8e3:
+
+    # Elijah "Wouldn't it be better to pick someone who already performed well on preliminaries..."
+    Elijah ""
+
+# game/logic/events/samantha.rpy:2278
+translate brazilian Samantha_14_label_fd1bbb7a:
+
+    # Elijah "...rather than looking for a new participant?"
+    Elijah ""
+
+# game/logic/events/samantha.rpy:2279
+translate brazilian Samantha_14_label_6b3c9989:
+
+    # Arthur "That sounds reasonable, Mr. Bloom. "
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2281
+translate brazilian Samantha_14_label_de764c26:
+
+    # Arthur "But we must strictly apply the rules."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2282
+translate brazilian Samantha_14_label_f3a98690:
+
+    # Arthur "The rules of The Tournament clearly determine the position of those..."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2283
+translate brazilian Samantha_14_label_34d56077:
+
+    # Arthur "...who participated in the preliminary round..."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2284
+translate brazilian Samantha_14_label_12ae33bd:
+
+    # Arthur "...but were not chosen for further participation initially."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2285
+translate brazilian Samantha_14_label_d9e247f6:
+
+    # Arthur "They cannot take part in The Tournament for one year."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2286
+translate brazilian Samantha_14_label_4f5b69b2:
+
+    # Arthur "As you can see, we have no other choice but to find one new participant."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2287
+translate brazilian Samantha_14_label_1d8802b9:
+
+    # Arthur "If we have several candidates, then one more preliminary round will be organized."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2289
+translate brazilian Samantha_14_label_fb63d62d:
+
+    # Arthur "I urge you to think properly."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2290
+translate brazilian Samantha_14_label_8a148e2b:
+
+    # Arthur "Is there one amongst you who is interested in participation?"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2291
+translate brazilian Samantha_14_label_0601d8f5:
+
+    # Arthur "Maybe somebody who hesitated to submit an application within the official deadline?"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2292
+translate brazilian Samantha_14_label_d9db4deb:
+
+    # Arthur "This is your chance."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2294
+translate brazilian Samantha_14_label_09f0146a:
+
+    # ch_Name "{i}(Wait, wait, wait! ){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2295
+translate brazilian Samantha_14_label_c6ff1096:
+
+    # ch_Name "{i}(If I become a participant, then I will have the opportunity...){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2296
+translate brazilian Samantha_14_label_20f8f8a8:
+
+    # ch_Name "{i}(...to help Samantha to win The Tournament!){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2297
+translate brazilian Samantha_14_label_58217839:
+
+    # ch_Name "{i}(Even if I won't be able to hold out for long...){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2298
+translate brazilian Samantha_14_label_e3581e8d:
+
+    # ch_Name "{i}(...Sam will have one less guy to compete with!){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2300
+translate brazilian Samantha_14_label_a0b9e29f:
+
+    # ch_Name "{i}(I can even try to win The Tournament and give that one wish to her!){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2301
+translate brazilian Samantha_14_label_7d18dd5e:
+
+    # ch_Name "{i}(She definitely will be fascinated by my plan!){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2302
+translate brazilian Samantha_14_label_fe2ad70c:
+
+    # ch_Name "{i}(But Sam also can be a tiny bit angry because it's kinda cheating...){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2303
+translate brazilian Samantha_14_label_5731a62e:
+
+    # ch_Name "{i}(She is too good.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2305
+translate brazilian Samantha_14_label_33993b42:
+
+    # ch_Name "{i}(Hmmm...){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2306
+translate brazilian Samantha_14_label_4a3b37f5:
+
+    # ch_Name "{i}(But it is all for her, right?){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2307
+translate brazilian Samantha_14_label_ac2a931d:
+
+    # ch_Name "{i}(We will defeat Dakota together!){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2308
+translate brazilian Samantha_14_label_4e064f98:
+
+    # Arthur "Doesn't anybody want to participate?"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2310
+translate brazilian Samantha_14_label_72199761:
+
+    # ch_Name "I want!"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2312
+translate brazilian Samantha_14_label_da739e29:
+
+    # Elijah "You're kidding, right?"
+    Elijah ""
+
+# game/logic/events/samantha.rpy:2313
+translate brazilian Samantha_14_label_07312313:
+
+    # ch_Name "Do I look like someone who's kidding?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2314
+translate brazilian Samantha_14_label_f632d10c:
+
+    # Arthur "Who said that?"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2316
+translate brazilian Samantha_14_label_4d8dc16a:
+
+    # ch_Name "Me, [Name] [Surname], Leonheart."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2317
+translate brazilian Samantha_14_label_df672057:
+
+    # Arthur "Are you a freshman?"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2318
+translate brazilian Samantha_14_label_80dac3e2:
+
+    # ch_Name "Yes, that's true."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2319
+translate brazilian Samantha_14_label_cd8952da:
+
+    # Arthur "And do you think that freshman can have enough skills for participation in The Tournament?"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2321
+translate brazilian Samantha_14_label_a4b51552:
+
+    # ch_Name "I suppose so, Principal."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2322
+translate brazilian Samantha_14_label_26fdc82c:
+
+    # Arthur "Do you understand the responsibility that you're going to take?"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2323
+translate brazilian Samantha_14_label_5d320ec6:
+
+    # ch_Name "Сompletely and utterly."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2324
+translate brazilian Samantha_14_label_da6509b5:
+
+    # Arthur "Well, does anybody have an objection?"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2326
+translate brazilian Samantha_14_label_4ac22ff9:
+
+    # Victoria "I wish to note that [Name] proved to be a talented and hard-working student."
+    Victoria ""
+
+# game/logic/events/samantha.rpy:2327
+translate brazilian Samantha_14_label_4ae78261:
+
+    # Victoria "He's one of the best in my class."
+    Victoria ""
+
+# game/logic/events/samantha.rpy:2328
+translate brazilian Samantha_14_label_7d8e5b63:
+
+    # Victoria "And besides, it seems that he's the only person who is interested in participation."
+    Victoria ""
+
+# game/logic/events/samantha.rpy:2329
+translate brazilian Samantha_14_label_59dacbb3:
+
+    # Arthur "In this case..."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2331
+translate brazilian Samantha_14_label_6740d4e6:
+
+    # Arthur "Please welcome our last participant..."
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2332
+translate brazilian Samantha_14_label_247772b3:
+
+    # Arthur "...[Name] [Surname], Leonheart!"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2333
+translate brazilian Samantha_14_label_17cf0f98:
+
+    # ch_Name "{i}(Is this really happening?){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2335
+translate brazilian Samantha_14_label_45815383:
+
+    # ch_Name "{i}(I hope I did everything right..){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2336
+translate brazilian Samantha_14_label_cd011a56:
+
+    # ch_Name "{i}(So many people...){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2337
+translate brazilian Samantha_14_label_54d90add:
+
+    # ch_Name "{i}(I need to get used to it.){/i}"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2338
+translate brazilian Samantha_14_label_b8e076e2:
+
+    # Arthur "My congratulations!"
+    Arthur ""
+
+# game/logic/events/samantha.rpy:2345
+translate brazilian Samantha_14_label_ceb27b58:
+
+    # Samantha "For God's sake, what was that about?!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2346
+translate brazilian Samantha_14_label_332b7521:
+
+    # Samantha "What the hell were you thinking?"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2347
+translate brazilian Samantha_14_label_5d0af212:
+
+    # Samantha "You have no idea of how dangerous it can be!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2348
+translate brazilian Samantha_14_label_efc33047:
+
+    # Samantha "And I'm the one that started it all..."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2349
+translate brazilian Samantha_14_label_972e3c12:
+
+    # ch_Name "Sam, I'm just trying to find a way to help you."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2351
+translate brazilian Samantha_14_label_76a6768e:
+
+    # Samantha "That's not what I meant when I asked for your support!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2352
+translate brazilian Samantha_14_label_3f9816b7:
+
+    # ch_Name "Yes, but..."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2353
+translate brazilian Samantha_14_label_8c4ea598:
+
+    # Samantha "What buts can be here?!"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2355
+translate brazilian Samantha_14_label_6c3bc7a7:
+
+    # ch_Name "You have all rights to be mad at me, Sam."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2356
+translate brazilian Samantha_14_label_a19c800a:
+
+    # ch_Name "But what's done is done."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2357
+translate brazilian Samantha_14_label_2ac7ed45:
+
+    # ch_Name "We can't change anything."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2358
+translate brazilian Samantha_14_label_aec5f058:
+
+    # ch_Name "So maybe we'd think about our plan, mhm?"
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2360
+translate brazilian Samantha_14_label_0e5dc5ef:
+
+    # Samantha "All right."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2361
+translate brazilian Samantha_14_label_40fd1000:
+
+    # Samantha "I need to stay focused."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2362
+translate brazilian Samantha_14_label_500d2dcb:
+
+    # Samantha "But I have to think about this on my own first."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2363
+translate brazilian Samantha_14_label_33dca898:
+
+    # Samantha "Sorry for being rude, [Name].{w} But I'm too confused."
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2365
+translate brazilian Samantha_14_label_73f9fbdc:
+
+    # ch_Name "Don't worry."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2366
+translate brazilian Samantha_14_label_33ffab35:
+
+    # ch_Name "And I'd be confused too, if I were you."
+    ch_Name ""
+
+# game/logic/events/samantha.rpy:2367
+translate brazilian Samantha_14_label_48c27076:
+
+    # Samantha "We'll talk later, okay?"
+    Samantha ""
+
+# game/logic/events/samantha.rpy:2368
+translate brazilian Samantha_14_label_47b5ce2b:
+
+    # ch_Name "At any time."
+    ch_Name ""
+
+translate brazilian strings:
+
+    # game/logic/events/samantha.rpy:16
+    old "8 Talk to Samantha"
+    new ""
+
+    # game/logic/events/samantha.rpy:16
+    old "I'm ready to leave"
+    new ""
+
+    # game/logic/events/samantha.rpy:2124
+    old "Touch her butt"
+    new ""
+
+    # game/logic/events/samantha.rpy:2124
+    old "Try to fall asleep"
+    new ""
+

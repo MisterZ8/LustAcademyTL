@@ -1970,3 +1970,57 @@ translate brazilian strings:
     old "Mouth"
     new "Boca"
 
+# TODO: Translation updated at 2022-07-04 17:01
+
+# game/logic/episodes_after_first/ep2/sheet_28.rpy:261
+translate brazilian sheet_28_1_254_5b9a608c:
+
+    # ch_Name "{i}(...wraps around my dick...){/i}"
+    ch_Name ""
+
+# game/logic/episodes_after_first/ep2/sheet_28.rpy:464
+translate brazilian sheet_28_1_262_16_05a71fa1:
+
+    # Leona "Guess we'll have to beg for your forgiveness."
+    Leona ""
+
+# game/logic/episodes_after_first/ep2/sheet_28.rpy:536
+translate brazilian sheet_28_1_262_16_5bf20199:
+
+    # ch_Name "{i}(Sam is Leonheart, so is Haley. And that asian chick... Lily?){/i}"
+    ch_Name ""
+
+# game/logic/episodes_after_first/ep2/sheet_28.rpy:577
+translate brazilian sheet_28_1_262_16_475d47b8:
+
+    # Leona "Ahhh... mmm..."
+    Leona ""
+
+# game/logic/episodes_after_first/ep2/sheet_28.rpy:578
+translate brazilian sheet_28_1_262_16_0ae9bcd0:
+
+    # ""
+    ""
+
+# game/logic/episodes_after_first/ep2/sheet_28.rpy:581
+translate brazilian sheet_28_1_262_16_0ae9bcd0_1:
+
+    # ""
+    ""
+
+# game/logic/episodes_after_first/ep2/sheet_28.rpy:584
+translate brazilian sheet_28_1_262_16_475d47b8_1:
+
+    # Leona "Ahhh... mmm..."
+    Leona ""
+
+translate brazilian strings:
+
+    # game/logic/episodes_after_first/ep2/sheet_28.rpy:396
+    old "No, it's enough"
+    new ""
+
+    # game/logic/episodes_after_first/ep2/sheet_28.rpy:396
+    old "Ready for action"
+    new ""
+

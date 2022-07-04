@@ -1142,3 +1142,15 @@ translate brazilian strings:
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "Copia o arquivo errors.txt para a área de transferência como Markdown for Discord."
 
+# TODO: Translation updated at 2022-07-04 17:01
+
+translate brazilian strings:
+
+    # renpy/common/00accessibility.rpy:180
+    old "High Contrast Text"
+    new ""
+
+    # renpy/common/00preferences.rpy:493
+    old "high contrast text"
+    new ""
+

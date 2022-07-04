@@ -1408,3 +1408,11 @@ translate brazilian strings:
     old "Say goodbye and leave"
     new "Se despedir e sair"
 
+# TODO: Translation updated at 2022-07-04 17:01
+
+# game/logic/events/molly.rpy:384
+translate brazilian Molly_3_label_584db1ca:
+
+    # ch_Name "Alright, alright, I'll do it. I won't leave you hanging."
+    ch_Name ""
+

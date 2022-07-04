@@ -872,3 +872,215 @@ translate brazilian strings:
     old "Skip prologue"
     new "Pular prólogo"
 
+# TODO: Translation updated at 2022-07-04 17:01
+
+translate brazilian strings:
+
+    # game/script.rpy:240
+    old "House competitions"
+    new ""
+
+    # game/script.rpy:242
+    old "Weekly competitions held"
+    new ""
+
+    # game/script.rpy:244
+    old "Leonheart wins"
+    new ""
+
+    # game/script.rpy:246
+    old "Adderin wins"
+    new ""
+
+    # game/script.rpy:248
+    old "Crowhive wins"
+    new ""
+
+    # game/script.rpy:250
+    old "Martenden wins"
+    new ""
+
+    # game/script.rpy:252
+    old "Lost books found"
+    new ""
+
+    # game/script.rpy:254
+    old "Training"
+    new ""
+
+    # game/script.rpy:256
+    old "Combat Bolt Training"
+    new ""
+
+    # game/script.rpy:258
+    old "Rictusempra Training"
+    new ""
+
+    # game/script.rpy:260
+    old "Incendio Training"
+    new ""
+
+    # game/script.rpy:262
+    old "Episkey Training"
+    new ""
+
+    # game/script.rpy:264
+    old "Lesser Heal potions brewed"
+    new ""
+
+    # game/script.rpy:266
+    old "Stoneskin potions brewed"
+    new ""
+
+    # game/script.rpy:268
+    old "Inspiration potions brewed"
+    new ""
+
+    # game/script.rpy:270
+    old "Reflection potions brewed"
+    new ""
+
+    # game/script.rpy:272
+    old "Duels performed"
+    new ""
+
+    # game/script.rpy:274
+    old "Defeats in duels"
+    new ""
+
+    # game/script.rpy:276
+    old "Victory over Adderin"
+    new ""
+
+    # game/script.rpy:278
+    old "Victory over Crowhive"
+    new ""
+
+    # game/script.rpy:280
+    old "Victory over Martenden"
+    new ""
+
+    # game/script.rpy:282
+    old "Used Combat Bolt"
+    new ""
+
+    # game/script.rpy:284
+    old "Used Rictusempra"
+    new ""
+
+    # game/script.rpy:286
+    old "Used Incendio"
+    new ""
+
+    # game/script.rpy:288
+    old "Used Episkey"
+    new ""
+
+    # game/script.rpy:290
+    old "Lesser Heal potion used"
+    new ""
+
+    # game/script.rpy:292
+    old "Stoneskin potion used"
+    new ""
+
+    # game/script.rpy:294
+    old "Inspiration potion used"
+    new ""
+
+    # game/script.rpy:296
+    old "Reflection potions used"
+    new ""
+
+    # game/script.rpy:298
+    old "Total money earned"
+    new ""
+
+    # game/script.rpy:300
+    old "Total money spent"
+    new ""
+
+    # game/script.rpy:302
+    old "Found money"
+    new ""
+
+    # game/script.rpy:304
+    old "Worked shifts in the cafe"
+    new ""
+
+    # game/script.rpy:306
+    old "Earned money in the cafe"
+    new ""
+
+    # game/script.rpy:308
+    old "Fishing trips on Dale"
+    new ""
+
+    # game/script.rpy:310
+    old "Earned money fishing"
+    new ""
+
+    # game/script.rpy:312
+    old "Earned money another way"
+    new ""
+
+    # game/script.rpy:314
+    old "{size=15}Note that night visits are entirely optional.{/size} \n{size=15}This additional content is not required to complete the game{/size} \n{size=15}and won’t influence your relationship with other characters.{/size}"
+    new ""
+
+    # game/script.rpy:316
+    old "1st"
+    new ""
+
+    # game/script.rpy:318
+    old "2nd"
+    new ""
+
+    # game/script.rpy:320
+    old "3rd"
+    new ""
+
+    # game/script.rpy:322
+    old "4th"
+    new ""
+
+    # game/script.rpy:324
+    old "Lesser Heal Potion"
+    new ""
+
+    # game/script.rpy:326
+    old "Magic Reflection Potion"
+    new ""
+
+    # game/script.rpy:328
+    old "The Moonwalk tincture"
+    new ""
+
+    # game/script.rpy:419
+    old "Disclaimer!"
+    new ""
+
+    # game/script.rpy:420
+    old "This is only the web version of the Lust Academy! Use it to try out our game right in your browser!"
+    new ""
+
+    # game/script.rpy:421
+    old "To enjoy the game with 60fps animations and atmospheric sound design, we highly recommend trying the full version of Lust Academy."
+    new ""
+
+    # game/script.rpy:422
+    old "Check out our {a=https://www.patreon.com/bearinthenight}Bear in the Night fan page{/a} for more details and to support the project!"
+    new ""
+
+    # game/script.rpy:426
+    old "Сontinue on the web version"
+    new ""
+
+    # game/script.rpy:427
+    old "Play the full version"
+    new ""
+
+    # game/script.rpy:554
+    old "NEXT"
+    new ""
+

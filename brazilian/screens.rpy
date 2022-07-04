@@ -280,3 +280,145 @@ translate brazilian strings:
     old "Menu"
     new ""
 
+# TODO: Translation updated at 2022-07-04 17:01
+
+# game/screens.rpy:267
+translate brazilian not_now_label_a53f606d:
+
+    # ch_Name "{i}(There's nothing we can talk about right now.){/i}"
+    ch_Name ""
+
+translate brazilian strings:
+
+    # game/screens.rpy:790
+    old "SANDBOX"
+    new ""
+
+    # game/screens.rpy:795
+    old "Open World With Free Roam"
+    new ""
+
+    # game/screens.rpy:797
+    old "Possibility To Choose Desired Content"
+    new ""
+
+    # game/screens.rpy:799
+    old "Optional Mini-Games And Activities"
+    new ""
+
+    # game/screens.rpy:807
+    old "VISUAL NOVEL"
+    new ""
+
+    # game/screens.rpy:812
+    old "All In One Storytelling"
+    new ""
+
+    # game/screens.rpy:814
+    old "Occasional Choices"
+    new ""
+
+    # game/screens.rpy:816
+    old "Plot-Driven Structure"
+    new ""
+
+    # game/screens.rpy:2197
+    old "Transfer"
+    new ""
+
+    # game/screens.rpy:2308
+    old "Choose a save file with progress that you want to transfer to the next season"
+    new ""
+
+    # game/screens.rpy:2359
+    old "%m/%d/%Y %H:%M"
+    new ""
+
+    # game/screens.rpy:2695
+    old "DISPLAY"
+    new ""
+
+    # game/screens.rpy:2708
+    old "FULLSCREEN"
+    new ""
+
+    # game/screens.rpy:2720
+    old "WINDOWED"
+    new ""
+
+    # game/screens.rpy:2725
+    old "ROLLBACK SLIDE"
+    new ""
+
+    # game/screens.rpy:2736
+    old "LEFT"
+    new ""
+
+    # game/screens.rpy:2748
+    old "DISABLE"
+    new ""
+
+    # game/screens.rpy:2760
+    old "RIGHT"
+    new ""
+
+    # game/screens.rpy:2767
+    old "SKIP"
+    new ""
+
+    # game/screens.rpy:2781
+    old "UNSEEN TEXT"
+    new ""
+
+    # game/screens.rpy:2797
+    old "AFTER CHOICES"
+    new ""
+
+    # game/screens.rpy:2813
+    old "TRANSITIONS"
+    new ""
+
+    # game/screens.rpy:2821
+    old "TEXT COLOR"
+    new ""
+
+    # game/screens.rpy:2833
+    old "WHITE"
+    new ""
+
+    # game/screens.rpy:2846
+    old "BLUE"
+    new ""
+
+    # game/screens.rpy:2858
+    old "GOLD"
+    new ""
+
+    # game/screens.rpy:2864
+    old "Optional LGBTQ+ content"
+    new ""
+
+    # game/screens.rpy:2879
+    old "ENABLE"
+    new ""
+
+    # game/screens.rpy:2914
+    old "AUTO-FORWARD TIME"
+    new ""
+
+    # game/screens.rpy:2921
+    old "OFF"
+    new ""
+
+    # game/screens.rpy:2933
+    old "TEXT SPEED"
+    new ""
+
+    # game/screens.rpy:2960
+    old "MUSIC VOLUME"
+    new ""
+
+    # game/screens.rpy:2970
+    old "SOUND VOLUME"
+    new ""
+

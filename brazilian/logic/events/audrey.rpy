@@ -12496,3 +12496,9641 @@ translate brazilian strings:
     old "Stay here"
     new "Fique aqui"
 
+# TODO: Translation updated at 2022-07-04 17:01
+
+# game/logic/events/audrey.rpy:187
+translate brazilian Audrey_1_label_32fed6a1:
+
+    # Audrey "Oh, crap. Are you kidding me?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:188
+translate brazilian Audrey_1_label_16cbbd69:
+
+    # Audrey "We're out of cream."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:189
+translate brazilian Audrey_1_label_7a9f18dd:
+
+    # ch_Name "That's a shame!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:204
+translate brazilian Audrey_1_label_6299939e:
+
+    # ch_Name "C'mon, don't take that too seriously."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:208
+translate brazilian Audrey_1_label_244b6109:
+
+    # Audrey "I just wanted a cup of coffee in the morning..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:226
+translate brazilian Audrey_1_label_361a62e7:
+
+    # Audrey "Would you go get some milk or cream?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:235
+translate brazilian Audrey_1_label_da19a5bc:
+
+    # ch_Name "I know, I know."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:317
+translate brazilian Audrey_2_label_8c8b19ac:
+
+    # ch_Name "Of course, you do."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:337
+translate brazilian Audrey_3_label_f65de1ad:
+
+    # Audrey "Something like that. At least I'm trying."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:347
+translate brazilian Audrey_3_label_8399fcc5:
+
+    # Audrey "Samantha speaks too highly of you. Every damn day."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:351
+translate brazilian Audrey_3_label_6613b842:
+
+    # Audrey "But you know what..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:352
+translate brazilian Audrey_3_label_d27ff45a:
+
+    # Audrey "You're definitely not the worst person I've ever met."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:359
+translate brazilian Audrey_3_label_71281b8a:
+
+    # ch_Name "Hey! You've just said something nice to me for the first time and then ruined it..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:360
+translate brazilian Audrey_3_label_73136358:
+
+    # Audrey "What? "
+    Audrey ""
+
+# game/logic/events/audrey.rpy:361
+translate brazilian Audrey_3_label_d8346cf0:
+
+    # ch_Name "It's not very nice to ask someone to shut up."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:362
+translate brazilian Audrey_3_label_1ab19db0:
+
+    # ch_Name "Especially someone who has just helped you."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:364
+translate brazilian Audrey_3_label_0c15f49f:
+
+    # Audrey "That's just the way I talk."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:365
+translate brazilian Audrey_3_label_ab341f1b:
+
+    # Audrey "If you don't like it, that is only your problem."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:366
+translate brazilian Audrey_3_label_cf5017b6:
+
+    # Audrey "I didn't know you're that soft. Just like a teenage girl."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:367
+translate brazilian Audrey_3_label_8827afd1:
+
+    # ch_Name "Again!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:368
+translate brazilian Audrey_3_label_76cd0c3a:
+
+    # Audrey "Anyway, I didn't mean to hurt you."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:381
+translate brazilian Audrey_3_label_80d0df38:
+
+    # Audrey "What secret? What are you talking about?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:383
+translate brazilian Audrey_3_label_140b7f45:
+
+    # Audrey "I mean, it just happened. That's all you need to know."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:445
+translate brazilian Audrey_7_label_d5ed7d88:
+
+    # ch_Name "{i}(Hmm... So why did they leave?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:453
+translate brazilian Audrey_7_label_7ce8a70c:
+
+    # ch_Name "{i}(They looked too happy for the people who were going to study.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:481
+translate brazilian Audrey_7_label_63695037:
+
+    # ch_Name "{i}(Or trying their new underwear on?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:484
+translate brazilian Audrey_7_label_8fe6834b:
+
+    # ch_Name "{i}(I wish I could sneak a peek.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:519
+translate brazilian Audrey_7_label_7ce8a70c_1:
+
+    # ch_Name "{i}(They looked too happy for the people who were going to study.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:546
+translate brazilian Audrey_7_label_787925af:
+
+    # ch_Name "{i}(...trying their new underwear on?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:550
+translate brazilian Audrey_7_label_8fe6834b_1:
+
+    # ch_Name "{i}(I wish I could sneak a peek.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:595
+translate brazilian Audrey_7_label_98343425:
+
+    # ch_Name "Nah... There's no point to do that."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:596
+translate brazilian Audrey_7_label_2178761e:
+
+    # ch_Name "I'm sure they're doing fine."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:683
+translate brazilian Audrey_7_label_from_gallery_82294f3e:
+
+    # Audrey "Get the fuck out of here!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:788
+translate brazilian Audrey_7_label_from_gallery_fcea612f:
+
+    # ch_Name "{i}(Oh, what an unusual feeling...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:789
+translate brazilian Audrey_7_label_from_gallery_695f3823:
+
+    # ch_Name "{i}(It's like she's still sucking even now.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:790
+translate brazilian Audrey_7_label_from_gallery_5e236dad:
+
+    # ch_Name "{i}(But why am I so uncomfortable?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:866
+translate brazilian Audrey_7_label_from_gallery_82294f3e_1:
+
+    # Audrey "Get the fuck out of here!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:880
+translate brazilian Audrey_7_label_end_1_cbe86a7b:
+
+    # ch_Name "{i}(Why do I feel so tired? I can barely keep my eyes open...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:881
+translate brazilian Audrey_7_label_end_1_642b2da6:
+
+    # ch_Name "{i}(No more secrets for today.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:882
+translate brazilian Audrey_7_label_end_1_c1c741e7:
+
+    # ch_Name "{i}(I just need a good night's sleep.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:894
+translate brazilian Audrey_7_label_end_2_551562d0:
+
+    # ch_Name "{i}(Yeah, that wasn't very nice...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:895
+translate brazilian Audrey_7_label_end_2_35ca6ad1:
+
+    # ch_Name "{i}(But it was the right decision not to take advantage of Audrey.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:896
+translate brazilian Audrey_7_label_end_2_8b04a20f:
+
+    # ch_Name "{i}(Oh... I can't stop yawning.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:897
+translate brazilian Audrey_7_label_end_2_f0edec2d:
+
+    # ch_Name "{i}(It's been a long day. I'd better get some sleep.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:908
+translate brazilian Audrey_7_label_end_3_9b221315:
+
+    # ch_Name "{i}(What the hell was that?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:909
+translate brazilian Audrey_7_label_end_3_7324332a:
+
+    # ch_Name "{i}(That wasn't very nice!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:910
+translate brazilian Audrey_7_label_end_3_d28c559e:
+
+    # ch_Name "{i}(Well, maybe it's better this way for now. I can barely keep my eyes open...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:911
+translate brazilian Audrey_7_label_end_3_c1c741e7:
+
+    # ch_Name "{i}(I just need a good night's sleep.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:921
+translate brazilian Audrey_7_label_end_4_f9a5a115:
+
+    # ch_Name "{i}(Shit! I can't believe she kicked me out.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:922
+translate brazilian Audrey_7_label_end_4_d1874054:
+
+    # ch_Name "{i}(And why would I not cum for so long?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:923
+translate brazilian Audrey_7_label_end_4_e3f61e28:
+
+    # ch_Name "{i}(Has she drained all my manhood away?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:924
+translate brazilian Audrey_7_label_end_4_17f44db7:
+
+    # ch_Name "{i}(Those fucking succubus.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:925
+translate brazilian Audrey_7_label_end_4_01d660c8:
+
+    # ch_Name "{i}(I need to think of a way to protect myself from getting too tired next time.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:926
+translate brazilian Audrey_7_label_end_4_dcdf3295:
+
+    # ch_Name "{i}(But first, I'll get some sleep...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:938
+translate brazilian Audrey_7_girl_6170b0fa:
+
+    # ch_Name "{i}(What a cute view...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:994
+translate brazilian Audrey_7_girl_ebe37423:
+
+    # Audrey "I've been ready for a long time... Don't keep me in suspense!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:1148
+translate brazilian Audrey_7_girl_bba7c3f1:
+
+    # ch_Name "{i}(What the fuck?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1149
+translate brazilian Audrey_7_girl_9d50e601:
+
+    # ch_Name "Then I'll need your help to cum."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1177
+translate brazilian Audrey_7_girl_60a2107e:
+
+    # Audrey "Seems like you've had a rough day. You know, it happens."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:1181
+translate brazilian Audrey_7_girl_1656823c:
+
+    # Audrey "Stop wasting my time."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:1186
+translate brazilian Audrey_7_girl_f14de76c:
+
+    # ch_Name "I usually have no problem getting a hard-on."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1188
+translate brazilian Audrey_7_girl_56653768:
+
+    # Audrey "That's what all you men say."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:1208
+translate brazilian Audrey_7_girl_0796a70e:
+
+    # ch_Name "I'm off."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1210
+translate brazilian Audrey_7_girl_b58e3520:
+
+    # ch_Name "Fuck you, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1211
+translate brazilian Audrey_7_girl_8e4fd793:
+
+    # Audrey "What?!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:1212
+translate brazilian Audrey_7_girl_e254a234:
+
+    # ch_Name "{i}(Whoo, what a relief!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1213
+translate brazilian Audrey_7_girl_9bed55cd:
+
+    # ch_Name "{i}(I've been waiting a long time for this!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1214
+translate brazilian Audrey_7_girl_869b7b09:
+
+    # ch_Name "You heard what I say. Chao!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1227
+translate brazilian Audrey_7_shemale_6170b0fa:
+
+    # ch_Name "{i}(What a cute view...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1283
+translate brazilian Audrey_7_shemale_ebe37423:
+
+    # Audrey "I've been ready for a long time... Don't keep me in suspense!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:1425
+translate brazilian Audrey_7_shemale_bba7c3f1:
+
+    # ch_Name "{i}(What the fuck?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1426
+translate brazilian Audrey_7_shemale_0662f8a4:
+
+    # ch_Name "But I'll need your help to cum."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1454
+translate brazilian Audrey_7_shemale_60a2107e:
+
+    # Audrey "Seems like you've had a rough day. You know, it happens."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:1458
+translate brazilian Audrey_7_shemale_1656823c:
+
+    # Audrey "Stop wasting my time."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:1463
+translate brazilian Audrey_7_shemale_f14de76c:
+
+    # ch_Name "I usually have no problem getting a hard-on."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1465
+translate brazilian Audrey_7_shemale_56653768:
+
+    # Audrey "That's what all you men say."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:1486
+translate brazilian Audrey_7_shemale_b58e3520:
+
+    # ch_Name "Fuck you, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1487
+translate brazilian Audrey_7_shemale_8e4fd793:
+
+    # Audrey "What?!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:1488
+translate brazilian Audrey_7_shemale_869b7b09:
+
+    # ch_Name "You heard what I say. Chao!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1489
+translate brazilian Audrey_7_shemale_e254a234:
+
+    # ch_Name "{i}(Whoo, what a relief!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1490
+translate brazilian Audrey_7_shemale_9bed55cd:
+
+    # ch_Name "{i}(I've been waiting a long time for this!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1532
+translate brazilian Audrey_6_label_bcee9c7c:
+
+    # ch_Name "Well, I can't argue with that, so..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1536
+translate brazilian Audrey_6_label_30e96a74:
+
+    # ch_Name "Well, hello there. What do you want?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1608
+translate brazilian Audrey_6_label_e767b798:
+
+    # ch_Name "{i}(On the other hand, what's wrong with friends who has some benefits?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1680
+translate brazilian Audrey_5_label_09787c2d:
+
+    # ch_Name "Not if you got spare keys."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1777
+translate brazilian Audrey_5_label_4fe085a2:
+
+    # ch_Name "Yeah, in some twisted way."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1782
+translate brazilian Audrey_5_label_ed448056:
+
+    # ch_Name "Alright!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1932
+translate brazilian Audrey_4_label_122abd17:
+
+    # Samantha "You know I'm an open book!"
+    Samantha ""
+
+# game/logic/events/audrey.rpy:1958
+translate brazilian Audrey_4_label_19d9ae1c:
+
+    # Samantha "Hello! Yes? Mister Principal?"
+    Samantha ""
+
+# game/logic/events/audrey.rpy:1986
+translate brazilian Audrey_4_label_ef706104:
+
+    # ch_Name "Nevermind, I'm just really nosy."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:1996
+translate brazilian Audrey_4_label_151dfc66:
+
+    # ch_Name "See ya later."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2013
+translate brazilian Audrey_2_2_label_f9f6d8de:
+
+    # ch_Name "Audrey, can we talk?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2014
+translate brazilian Audrey_2_2_label_606a0add:
+
+    # Audrey "We? Talk?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2016
+translate brazilian Audrey_2_2_label_7bd4affe:
+
+    # Audrey "Sorry, I'll pass."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2017
+translate brazilian Audrey_2_2_label_b997d453:
+
+    # ch_Name "Why not?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2018
+translate brazilian Audrey_2_2_label_811e3160:
+
+    # Audrey "We don't have anything to talk about."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2019
+translate brazilian Audrey_2_2_label_e1ee588c:
+
+    # ch_Name "{i}(Just like that?!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2020
+translate brazilian Audrey_2_2_label_f2223bdf:
+
+    # ch_Name "{i}(You don't have a heart...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2022
+translate brazilian Audrey_2_2_label_94477ca7:
+
+    # ch_Name "Is she always like this?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2023
+translate brazilian Audrey_2_2_label_f43feca0:
+
+    # Samantha "Leave me out of it."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:2024
+translate brazilian Audrey_2_2_label_8499a8dc:
+
+    # ch_Name "I'm sorry."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2039
+translate brazilian Audrey_2_1_label_c1f92d11:
+
+    # ch_Name "Hey, guys, how's it going?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2040
+translate brazilian Audrey_2_1_label_dc174705:
+
+    # Samantha "I'm great."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:2041
+translate brazilian Audrey_2_1_label_5d9f1d18:
+
+    # Audrey "Yo."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2042
+translate brazilian Audrey_2_1_label_559efa65:
+
+    # ch_Name "Audrey, I was just coming to talk to you..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2044
+translate brazilian Audrey_2_1_label_9677d60b:
+
+    # Audrey "Not interested."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2045
+translate brazilian Audrey_2_1_label_bd67f888:
+
+    # ch_Name "What do you mean?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2046
+translate brazilian Audrey_2_1_label_e52708d0:
+
+    # Audrey "Leave us alone."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2047
+translate brazilian Audrey_2_1_label_9660a289:
+
+    # Audrey "Can't you see we're talking?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2049
+translate brazilian Audrey_2_1_label_d33aac1d:
+
+    # Samantha "Audrey..."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:2050
+translate brazilian Audrey_2_1_label_91fa741c:
+
+    # ch_Name "It's okay, Sam. I got it."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2051
+translate brazilian Audrey_2_1_label_27067458:
+
+    # ch_Name "{i}(She wants to look cool in front of Sam.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2052
+translate brazilian Audrey_2_1_label_53f87adb:
+
+    # ch_Name "{i}(I'm not getting anywhere here. I'd better go see her in the morning.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2054
+translate brazilian Audrey_2_1_label_e3c1a3e9:
+
+    # ch_Name "I'll leave you to it."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2071
+translate brazilian Audrey_1_2_label_fac0a734:
+
+    # ch_Name "Audrey, hi!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2072
+translate brazilian Audrey_1_2_label_f1c34640:
+
+    # Audrey "Hey."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2073
+translate brazilian Audrey_1_2_label_709925be:
+
+    # ch_Name "I'm thinking about getting some coffee, too."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2074
+translate brazilian Audrey_1_2_label_555667ef:
+
+    # ch_Name "Can I keep you company?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2076
+translate brazilian Audrey_1_2_label_3877b758:
+
+    # Audrey "No-no, I'm sorry, but I'm in a hurry."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2077
+translate brazilian Audrey_1_2_label_a21f7e3d:
+
+    # Audrey "I promised Frollo I wouldn't be late for practice."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2078
+translate brazilian Audrey_1_2_label_662ddc8d:
+
+    # ch_Name "Oh... That's too bad..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2079
+translate brazilian Audrey_1_2_label_51845ae0:
+
+    # ch_Name "When are you going to be free?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2081
+translate brazilian Audrey_1_2_label_de862835:
+
+    # Audrey "It's none of your business, but tonight."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2082
+translate brazilian Audrey_1_2_label_c6803d96:
+
+    # ch_Name "All right."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2104
+translate brazilian Audrey_1_1_label_0e5b5161:
+
+    # Audrey "No-no-no, stop. Don't even start."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2106
+translate brazilian Audrey_1_1_label_3c0ffeac:
+
+    # ch_Name "What? You don't know me at all, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2107
+translate brazilian Audrey_1_1_label_adb42c87:
+
+    # ch_Name "And that's what you think of me?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2109
+translate brazilian Audrey_1_1_label_272a6407:
+
+    # Audrey "I have an instinct for this kind of guys. "
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2110
+translate brazilian Audrey_1_1_label_44483b4d:
+
+    # ch_Name "You can't just lump people together."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2111
+translate brazilian Audrey_1_1_label_452012c1:
+
+    # ch_Name "I will prove that you're wrong."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2112
+translate brazilian Audrey_1_1_label_4602d515:
+
+    # ch_Name "{i}(I don't know how yet, but I'll think of something.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2117
+translate brazilian Audrey_1_1_label_f60b6088:
+
+    # Audrey "And if you're too young to work..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2118
+translate brazilian Audrey_1_1_label_1dda54b5:
+
+    # Audrey "...you're no match for a real woman, are you?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2649
+translate brazilian Audrey_events_4_label_4_shemale_32676661:
+
+    # ch_Name "{i}(You'd do the same for me if you were on my place.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2680
+translate brazilian Audrey_8_label_3406d50e:
+
+    # Audrey "Thinking isn't really your thing, asshole."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2683
+translate brazilian Audrey_8_label_8db95b07:
+
+    # ch_Name "You need to learn how to be nicer to people, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2684
+translate brazilian Audrey_8_label_e71d8b8b:
+
+    # ch_Name "Just giving you friendly advice."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2686
+translate brazilian Audrey_8_label_1c0efde7:
+
+    # Audrey "Why would I do that?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2687
+translate brazilian Audrey_8_label_57eb7d19:
+
+    # ch_Name "Sometimes you're acting like a total bitch."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2688
+translate brazilian Audrey_8_label_ea5801cb:
+
+    # ch_Name "It pushes people away, that's for sure."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2689
+translate brazilian Audrey_8_label_0cd65c1f:
+
+    # ch_Name "You're the one who's criticizing and hurting people."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2690
+translate brazilian Audrey_8_label_4157a9ca:
+
+    # Audrey "Don't tell me what to do, [Name]."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2691
+translate brazilian Audrey_8_label_863c7430:
+
+    # Audrey "Keep that to yourself."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2692
+translate brazilian Audrey_8_label_b7fece4c:
+
+    # ch_Name "I..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2694
+translate brazilian Audrey_8_label_5246a68c:
+
+    # Audrey "Listen, [Name], I need to talk to you."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2695
+translate brazilian Audrey_8_label_98983b55:
+
+    # Audrey "We can argue later, okay?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2696
+translate brazilian Audrey_8_label_979bf769:
+
+    # ch_Name "{i}(She seems very concerned about something.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2697
+translate brazilian Audrey_8_label_cd84abd3:
+
+    # ch_Name "{i}(And she definitely has something to say to me.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2698
+translate brazilian Audrey_8_label_87c6dca7:
+
+    # ch_Name "What's the matter?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2718
+translate brazilian Audrey_8_label_ce6f315f:
+
+    # ch_Name "You're intriguing."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2734
+translate brazilian Audrey_8_label_00c628a5:
+
+    # ch_Name "I'm a bit confused, because that's the first time it's happened to me."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2834
+translate brazilian Audrey_8_label_e6e17347:
+
+    # Audrey "Get away from me, asshole."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2838
+translate brazilian Audrey_8_label_a21adaf4:
+
+    # ch_Name "You know what?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2839
+translate brazilian Audrey_8_label_8db95b07_1:
+
+    # ch_Name "You need to learn how to be nicer to people, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2840
+translate brazilian Audrey_8_label_e71d8b8b_1:
+
+    # ch_Name "Just giving you friendly advice."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2842
+translate brazilian Audrey_8_label_1c0efde7_1:
+
+    # Audrey "Why would I do that?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2843
+translate brazilian Audrey_8_label_57eb7d19_1:
+
+    # ch_Name "Sometimes you're acting like a total bitch."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2844
+translate brazilian Audrey_8_label_bab41c99:
+
+    # ch_Name "It pushes people away, believe me."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2845
+translate brazilian Audrey_8_label_0cd65c1f_1:
+
+    # ch_Name "You're the one who's criticizing and hurting people."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2846
+translate brazilian Audrey_8_label_4157a9ca_1:
+
+    # Audrey "Don't tell me what to do, [Name]."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2847
+translate brazilian Audrey_8_label_863c7430_1:
+
+    # Audrey "Keep that to yourself."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2849
+translate brazilian Audrey_8_label_328b34a4:
+
+    # Audrey "Anyway, I'm gonna go now."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2850
+translate brazilian Audrey_8_label_87f40699:
+
+    # ch_Name "Chao!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2851
+translate brazilian Audrey_8_label_7b9dc780:
+
+    # ch_Name "{i}(She has been acting a little bit weirder today.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2852
+translate brazilian Audrey_8_label_e176db7d:
+
+    # ch_Name "{i}(She was always so, but that wasn't that bad.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2853
+translate brazilian Audrey_8_label_64f3a1bf:
+
+    # ch_Name "{i}(Something happened. That's for sure.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2858
+translate brazilian Audrey_8_label_873bb887:
+
+    # ch_Name "Then a cup of coffee alone with me is what you need right now, baby!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2859
+translate brazilian Audrey_8_label_2e8ab540:
+
+    # Audrey "What do you say?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2860
+translate brazilian Audrey_8_label_ab14345e:
+
+    # Audrey "Talking is not enough for me."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2866
+translate brazilian Audrey_8_label_75c525ce:
+
+    # Audrey "Okay, fine. I'm gonna go."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2867
+translate brazilian Audrey_8_label_db7d5729:
+
+    # ch_Name "{i}(I need to find out why she's being so cold to me.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2868
+translate brazilian Audrey_8_label_64f3a1bf_1:
+
+    # ch_Name "{i}(Something happened. That's for sure.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2886
+translate brazilian Audrey_9_label_8236d2f3:
+
+    # ch_Name "{i}(Maybe it's better to talk to her.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2901
+translate brazilian Audrey_9_label_6d8d7062:
+
+    # ch_Name "Hey, beauty."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2906
+translate brazilian Audrey_9_label_d2552aef:
+
+    # Audrey "Actually, I don't want hear anything from your mouth."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2913
+translate brazilian Audrey_9_label_ff79c08d:
+
+    # ch_Name "I want to talk about our last conversation."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2932
+translate brazilian Audrey_9_label_L_26_6f8151b5:
+
+    # Audrey "Well, that's where things get interesting."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2934
+translate brazilian Audrey_9_label_L_26_0cfd5edb:
+
+    # ch_Name "I don't want it to end."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2936
+translate brazilian Audrey_9_label_L_26_7ee971c9:
+
+    # Audrey "You bet."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2947
+translate brazilian Audrey_9_label_L_26_54ca40e7:
+
+    # Audrey "It all comes back to your bruised ego."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2948
+translate brazilian Audrey_9_label_L_26_b8e20a7d:
+
+    # Audrey "Poor boy."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:2949
+translate brazilian Audrey_9_label_L_26_106a86ab:
+
+    # ch_Name "Alright, I think I've enough of you."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2982
+translate brazilian Audrey_9_label_L_26_f15f7af1:
+
+    # ch_Name "{i}(That was to be expected. Nothing new.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:2991
+translate brazilian Audrey_9_label_L_26_15418d6e:
+
+    # ch_Name "Bye."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3061
+translate brazilian Audrey_9_label_L_77_e67b2f25:
+
+    # ch_Name "{i}(I like her taste!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3074
+translate brazilian Audrey_9_label_L_77_e67b2f25_1:
+
+    # ch_Name "{i}(I like her taste!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3149
+translate brazilian Audrey_9_label_L_77_6170b0fa:
+
+    # ch_Name "{i}(What a cute view...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3180
+translate brazilian Audrey_9_label_L_77_6170b0fa_1:
+
+    # ch_Name "{i}(What a cute view...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3245
+translate brazilian Audrey_9_label_L_184_ebe37423:
+
+    # Audrey "I've been ready for a long time... Don't keep me in suspense!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3299
+translate brazilian Audrey_9_label_L_184_131ab1d2:
+
+    # ch_Name "Of course, it will."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3402
+translate brazilian Audrey_9_label_L_184_0662f8a4:
+
+    # ch_Name "But I'll need your help to cum."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3430
+translate brazilian Audrey_9_label_L_184_60a2107e:
+
+    # Audrey "Seems like you've had a rough day. You know, it happens."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3434
+translate brazilian Audrey_9_label_L_184_1656823c:
+
+    # Audrey "Stop wasting my time."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3439
+translate brazilian Audrey_9_label_L_184_f14de76c:
+
+    # ch_Name "I usually have no problem getting a hard-on."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3441
+translate brazilian Audrey_9_label_L_184_56653768:
+
+    # Audrey "That's what all you men say."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3461
+translate brazilian Audrey_9_label_L_184_0796a70e:
+
+    # ch_Name "I'm off."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3463
+translate brazilian Audrey_9_label_L_184_b58e3520:
+
+    # ch_Name "Fuck you, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3464
+translate brazilian Audrey_9_label_L_184_8e4fd793:
+
+    # Audrey "What?!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3465
+translate brazilian Audrey_9_label_L_184_e254a234:
+
+    # ch_Name "{i}(Whoo, what a relief!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3466
+translate brazilian Audrey_9_label_L_184_9bed55cd:
+
+    # ch_Name "{i}(I've been waiting a long time for this!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3467
+translate brazilian Audrey_9_label_L_184_869b7b09:
+
+    # ch_Name "You heard what I say. Chao!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3552
+translate brazilian Audrey_9_label_L_374_131ab1d2:
+
+    # ch_Name "Of course, it will."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3651
+translate brazilian Audrey_9_label_L_374_0662f8a4:
+
+    # ch_Name "But I'll need your help to cum."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3679
+translate brazilian Audrey_9_label_L_374_60a2107e:
+
+    # Audrey "Seems like you've had a rough day. You know, it happens."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3683
+translate brazilian Audrey_9_label_L_374_1656823c:
+
+    # Audrey "Stop wasting my time."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3688
+translate brazilian Audrey_9_label_L_374_f14de76c:
+
+    # ch_Name "I usually have no problem getting a hard-on."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3690
+translate brazilian Audrey_9_label_L_374_56653768:
+
+    # Audrey "That's what all you men say."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3710
+translate brazilian Audrey_9_label_L_374_0796a70e:
+
+    # ch_Name "I'm off."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3712
+translate brazilian Audrey_9_label_L_374_b58e3520:
+
+    # ch_Name "Fuck you, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3713
+translate brazilian Audrey_9_label_L_374_8e4fd793:
+
+    # Audrey "What?!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3714
+translate brazilian Audrey_9_label_L_374_e254a234:
+
+    # ch_Name "{i}(Whoo, what a relief!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3715
+translate brazilian Audrey_9_label_L_374_9bed55cd:
+
+    # ch_Name "{i}(I've been waiting a long time for this!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3716
+translate brazilian Audrey_9_label_L_374_869b7b09:
+
+    # ch_Name "You heard what I say. Chao!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3747
+translate brazilian Audrey_9_label_L_549_6f2ff538:
+
+    # ch_Name "There I will have a great opportunity to demonstrate my good intentions."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3751
+translate brazilian Audrey_9_label_L_549_ef006c1d:
+
+    # Audrey "Deal. I will wait for you there."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3789
+translate brazilian Audrey_9_label_L_549_442d0d87:
+
+    # ch_Name "{i}(It's really hard to take my eyes off.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3790
+translate brazilian Audrey_9_label_L_549_1bdbcdb8:
+
+    # ch_Name "{i}(I want to come into her so badly...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3831
+translate brazilian Audrey_9_label_L_549_da16a864:
+
+    # ch_Name "{i}(It's really hard to take my eyes off it.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3843
+translate brazilian Audrey_10_label_6af3c9c3:
+
+    # ch_Name "{i}(Audrey is in the kitchen as usual...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3844
+translate brazilian Audrey_10_label_84602765:
+
+    # ch_Name "{i}(...drinking coffee and daydreaming about something...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3845
+translate brazilian Audrey_10_label_1e7e14ff:
+
+    # ch_Name "{i}(Maybe I should keep her company.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3847
+translate brazilian Audrey_10_label_a2e89ae9:
+
+    # ch_Name "Yo, Audrey. Do you want to go to the coffee shop before class?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3848
+translate brazilian Audrey_10_label_b275327b:
+
+    # Audrey "Piss off."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3849
+translate brazilian Audrey_10_label_4a09baf0:
+
+    # ch_Name "Do you always have to be so rude?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3850
+translate brazilian Audrey_10_label_3f25b47f:
+
+    # ch_Name "Give it up. I thought we had a connection already."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3852
+translate brazilian Audrey_10_label_42eb2e26:
+
+    # Audrey "Look, [Name]. Let's be honest..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3853
+translate brazilian Audrey_10_label_cbf4b65e:
+
+    # Audrey "You're cool and all, but my existence depends on sex."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3854
+translate brazilian Audrey_10_label_9170afa1:
+
+    # Audrey "And you can't last long enough to satisfy me."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3855
+translate brazilian Audrey_10_label_0b65278d:
+
+    # Audrey "So don't waste my time, okay?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3856
+translate brazilian Audrey_10_label_d18d839f:
+
+    # ch_Name "{i}(Tough, but fair...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3858
+translate brazilian Audrey_10_label_be302c2a:
+
+    # ch_Name "Well, if that's the case, I'll find a way to satisfy you."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3859
+translate brazilian Audrey_10_label_f859fad0:
+
+    # Audrey "Yeah, yeah, yeah. Good luck finding it."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:3866
+translate brazilian Audrey_10_label_8c3dd640:
+
+    # ch_Name "{i}(\"Good luck finding it\" - damn, she doesn't believe in me at all.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3867
+translate brazilian Audrey_10_label_f7a20933:
+
+    # ch_Name "{i}(That's okay, I'll prove her wrong.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3868
+translate brazilian Audrey_10_label_c1b55375:
+
+    # ch_Name "{i}(Freshmen shouldn't come to this section of the library...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3869
+translate brazilian Audrey_10_label_8613a2d1:
+
+    # ch_Name "{i}(...but I hope Amelie is too busy to keep track of it.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3870
+translate brazilian Audrey_10_label_b24df945:
+
+    # ch_Name "{i}(Hmm, what have we got here?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3871
+translate brazilian Audrey_10_label_5c45794d:
+
+    # ch_Name "{i}(\"How to Train a Dragon\", \"The 100 Best Lovemaking Potions\", \"All About Kalidud\"...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3872
+translate brazilian Audrey_10_label_8f265111:
+
+    # ch_Name "{i}(That's not exactly what I'm looking for, but the second one seems interesting...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3874
+translate brazilian Audrey_10_label_c5027b02:
+
+    # ch_Name "Succubi and Incubi! Here it is!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3875
+translate brazilian Audrey_10_label_df558cad:
+
+    # ch_Name "{i}(I need to study it very carefully.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3876
+translate brazilian Audrey_10_label_b87563e7:
+
+    # ch_Name "{i}(Still can't believe all the answers to my questions are here, and I'm getting them now!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3883
+translate brazilian Audrey_10_label_a7b2e85b:
+
+    # ch_Name "{i}(Well, Section 1 is called \"Succubi\".){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3884
+translate brazilian Audrey_10_label_838ceee8:
+
+    # ch_Name "{i}(There are so many chapters!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3885
+translate brazilian Audrey_10_label_4aca1eba:
+
+    # ch_Name "{i}(Let's take a look at the \"Interactions with a human being\" chapter.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3886
+translate brazilian Audrey_10_label_b50ec506:
+
+    # ch_Name "{i}(Maybe I will find something there?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3887
+translate brazilian Audrey_10_label_5c5ac909:
+
+    # ch_Name "{i}(\"Energy-saving potions\", page number 51...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3888
+translate brazilian Audrey_10_label_6c5141b1:
+
+    # ch_Name "{i}(Forty-nine, fifty, fifty-one...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3889
+translate brazilian Audrey_10_label_72023aba:
+
+    # ch_Name "{i}(Whoaaaa!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3891
+translate brazilian Audrey_10_label_3cefe376:
+
+    # ch_Name "{i}(I've just found what I need!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3892
+translate brazilian Audrey_10_label_5897b372:
+
+    # ch_Name "{i}(\"Jezabel Cresswell, well-known succubus researcher...\"){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3893
+translate brazilian Audrey_10_label_4b49cc93:
+
+    # ch_Name "{i}(\"...also had some problems with loss of consciousness...\"){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3894
+translate brazilian Audrey_10_label_32ba0e5e:
+
+    # ch_Name "{i}(\"He started to study this phenomenon and found the very solution of the acute problem.\"){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3895
+translate brazilian Audrey_10_label_57f9fc35:
+
+    # ch_Name "{i}(\"By the experimental way Jezabel observed...\"){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3896
+translate brazilian Audrey_10_label_b22d9c20:
+
+    # ch_Name "{i}(\"...that mixture of Mermaid blood with Dandelion dust...\"){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3897
+translate brazilian Audrey_10_label_1c7af6f5:
+
+    # ch_Name "{i}(\"...can help human beings hold consciousness pure while interacting with succubuses.\"){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3898
+translate brazilian Audrey_10_label_66362a96:
+
+    # ch_Name "{i}(\"But the potion will not work unless diluted with a tincture of...\"){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3899
+translate brazilian Audrey_10_label_b7dab762:
+
+    # ch_Name "{i}(\"Lunar nymphaea\"){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3901
+translate brazilian Audrey_10_label_5c3d8ab5:
+
+    # ch_Name "{i}(Lunar nymphaea... What the hell is this? And where do I find it?..){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3902
+translate brazilian Audrey_10_label_5bb0d042:
+
+    # ch_Name "{i}(Hm... Fuck, I wish I knew someone who's good at all those ingredients for potions.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3903
+translate brazilian Audrey_10_label_105a2802:
+
+    # ch_Name "{i}(Wait! I do know someone like this!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3904
+translate brazilian Audrey_10_label_9d72e783:
+
+    # ch_Name "{i}(And not just someone! I know the best Potions teacher in the world!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3905
+translate brazilian Audrey_10_label_24ffa2d5:
+
+    # ch_Name "{i}(I just need to ask Sabrina about it without telling her why I need it.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3906
+translate brazilian Audrey_10_label_71df82ed:
+
+    # ch_Name "{i}(I'm sure I'll think of something.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3918
+translate brazilian Audrey_11_label_e6944638:
+
+    # ch_Name "{i}(I need to figure out how to ask Sabrina about Lunar nymphaea.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3919
+translate brazilian Audrey_11_label_023be20b:
+
+    # ch_Name "{i}(Without it, I can't create a potion to protect me from Audrey's powers.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3920
+translate brazilian Audrey_11_label_5eb0731e:
+
+    # ch_Name "{i}(But to explicitly say I want to fuck a succubus, I can't. Hmm...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3922
+translate brazilian Audrey_11_label_c15d50d2:
+
+    # ch_Name "Oh, no! Have I missed the start of the lecture?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3923
+translate brazilian Audrey_11_label_4df0bdab:
+
+    # ch_Name "I could swear I was not coming late."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3924
+translate brazilian Audrey_11_label_32f005cc:
+
+    # Sabrina "No, no, [Name]. It's okay."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3925
+translate brazilian Audrey_11_label_75a47766:
+
+    # Sabrina "The class hasn't begun yet. We're just chatting."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3927
+translate brazilian Audrey_11_label_beb12ffc:
+
+    # Sabrina "Grace asked me how I swirl potions because hers are not that smooth."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3928
+translate brazilian Audrey_11_label_43ba3607:
+
+    # Sabrina "By the way, while you're here... Your potions are one of the smoothest."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3929
+translate brazilian Audrey_11_label_3c93397b:
+
+    # Sabrina "Why don't you show the guys how you mix a Reflection potion?"
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3930
+translate brazilian Audrey_11_label_bda3aa68:
+
+    # Sabrina "I'm sure a peer example would be more illustrative for them."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3931
+translate brazilian Audrey_11_label_7cc2020a:
+
+    # ch_Name "{i}(Hmm, maybe I can ask for that ingredient while I'm here.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3932
+translate brazilian Audrey_11_label_7d4ca38c:
+
+    # ch_Name "Sure, I'd love to join you."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3939
+translate brazilian Audrey_11_label_d8aaf624:
+
+    # Sabrina "All right..."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3940
+translate brazilian Audrey_11_label_2667a925:
+
+    # Sabrina "The color inspires respect."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3941
+translate brazilian Audrey_11_label_2e2c3547:
+
+    # Sabrina "Looks just perfect."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3942
+translate brazilian Audrey_11_label_97c28ee0:
+
+    # Sabrina "The smell, hmmm..."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3944
+translate brazilian Audrey_11_label_cd44f6f4:
+
+    # Sabrina "Intense and specific."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3945
+translate brazilian Audrey_11_label_94abd238:
+
+    # Sabrina "A full-bodied smell is a unique feature of this potion."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3947
+translate brazilian Audrey_11_label_90776c0b:
+
+    # Sabrina "As well as tiny little bubbles on the surface."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3948
+translate brazilian Audrey_11_label_c5df708f:
+
+    # Sabrina "I love everything so far."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3950
+translate brazilian Audrey_11_label_e0456c13:
+
+    # Sabrina "That's amazing, [Name]!"
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3951
+translate brazilian Audrey_11_label_6005668f:
+
+    # Sabrina "Great job!"
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3952
+translate brazilian Audrey_11_label_60f57106:
+
+    # Sabrina "[Name] is a living example of one golden rule, guys."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3953
+translate brazilian Audrey_11_label_ababdbbc:
+
+    # Sabrina "Everything is possible. You only need to make an effort."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3960
+translate brazilian Audrey_11_label_07306dbe:
+
+    # ch_Name "Speaking of effort, Miss Spellman."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3961
+translate brazilian Audrey_11_label_7da814b3:
+
+    # ch_Name "I was reading about different ingredients for potions at my leisure..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3962
+translate brazilian Audrey_11_label_69d171eb:
+
+    # ch_Name "...and I came across a strange name."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3963
+translate brazilian Audrey_11_label_3c933ede:
+
+    # ch_Name "Do you happen to know what Lunar nymphaea is?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3965
+translate brazilian Audrey_11_label_00974552:
+
+    # Sabrina "Lunar nymphaea? Of course, I do."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3966
+translate brazilian Audrey_11_label_3be8c4d0:
+
+    # Sabrina "What recipe did you see it in? Freshmen don't learn recipes with it."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3967
+translate brazilian Audrey_11_label_993174e4:
+
+    # ch_Name "Um, well..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3968
+translate brazilian Audrey_11_label_6d30ac1c:
+
+    # Sabrina "Did Samantha give you a textbook on advanced potions?"
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3969
+translate brazilian Audrey_11_label_5a569dd9:
+
+    # Sabrina "Admit it, did you study how to make a magic enhancement potion?"
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3970
+translate brazilian Audrey_11_label_d76e8db4:
+
+    # ch_Name "{i}(How lucky for me that she answered her own question.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3971
+translate brazilian Audrey_11_label_5533e7b2:
+
+    # ch_Name "{i}(Because I never figured out how to lie to her.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3973
+translate brazilian Audrey_11_label_bf40079f:
+
+    # ch_Name "Well, yeah, that's right. We were just practicing with Samantha."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3974
+translate brazilian Audrey_11_label_a8f155d9:
+
+    # ch_Name "Under her supervision, of course."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3975
+translate brazilian Audrey_11_label_73ce057e:
+
+    # ch_Name "I just wanted to surprise her by getting the right ingredients..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3976
+translate brazilian Audrey_11_label_51b54e10:
+
+    # ch_Name "...but I didn't know where to find this one."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3978
+translate brazilian Audrey_11_label_e3db00d7:
+
+    # Sabrina "Well, I don't see anything wrong with you practicing."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3979
+translate brazilian Audrey_11_label_c8f9af6a:
+
+    # Sabrina "Especially since you're both very promising potionists."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3980
+translate brazilian Audrey_11_label_115f64b6:
+
+    # Sabrina "The ingredient you are looking for is water flowers, water lilies."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3981
+translate brazilian Audrey_11_label_9df4964f:
+
+    # Sabrina "They grow on the edge of worlds and only appear in ours by moonlight."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3982
+translate brazilian Audrey_11_label_9a335a5a:
+
+    # Sabrina "They are visible only on Tuesdays. That's why we also call them Tuesday nymphaea."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3984
+translate brazilian Audrey_11_label_aca0b4c8:
+
+    # ch_Name "Wow! A flower that travels between worlds! "
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3985
+translate brazilian Audrey_11_label_8926a797:
+
+    # ch_Name "But where to find them on Tuesdays at night?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3986
+translate brazilian Audrey_11_label_ba328e34:
+
+    # Sabrina "I planted a few in our fountain earlier this year."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3987
+translate brazilian Audrey_11_label_a3c79bb2:
+
+    # Sabrina "So I don't have to go far to get them when I'm brewing potions."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3988
+translate brazilian Audrey_11_label_9a69538f:
+
+    # ch_Name "Sounds genius. Can I pick some up for our practice?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3990
+translate brazilian Audrey_11_label_3b975e55:
+
+    # Sabrina "Sure, don't be shy. They grow fast, like weeds."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3991
+translate brazilian Audrey_11_label_6f11a440:
+
+    # Sabrina "But be sure to boil them before adding them to potions."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3992
+translate brazilian Audrey_11_label_aed367bf:
+
+    # Sabrina "They are poisonous in their raw form."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:3993
+translate brazilian Audrey_11_label_0ebe3ee9:
+
+    # ch_Name "Understood. Thanks for the warning."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3994
+translate brazilian Audrey_11_label_9992a684:
+
+    # ch_Name "Goodbye, Miss."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:3995
+translate brazilian Audrey_11_label_0e44b322:
+
+    # Sabrina "Good luck with your experiments with Miss Rose, [Name]."
+    Sabrina ""
+
+# game/logic/events/audrey.rpy:4004
+translate brazilian Audrey_11_label_0484bed8:
+
+    # ch_Name "{i}(Well, that was even easier than I thought.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4005
+translate brazilian Audrey_11_label_90e07410:
+
+    # ch_Name "{i}(Now I know how to get all the ingredients.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4006
+translate brazilian Audrey_11_label_356e66f4:
+
+    # ch_Name "{i}(I just have to wait for Tuesday...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4009
+translate brazilian Audrey_11_label_c972e5f8:
+
+    # ch_Name "{i}(Wait a minute! It's Tuesday today! Luck is on my side!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4010
+translate brazilian Audrey_11_label_bf596739:
+
+    # ch_Name "{i}(All I have to do is come back here at night and pick some flowers...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4011
+translate brazilian Audrey_11_label_975a9dbc:
+
+    # ch_Name "{i}(But it's still a couple of hours before nightfall...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4012
+translate brazilian Audrey_11_label_8626d2a5:
+
+    # ch_Name "{i}(Maybe take a shift at Molly's? Money never hurts.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4021
+translate brazilian Audrey_12_label_4f7e3d5b:
+
+    # ch_Name "Hi, girls!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4022
+translate brazilian Audrey_12_label_bead6911:
+
+    # ch_Name "What are you doing?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4023
+translate brazilian Audrey_12_label_95e625d7:
+
+    # Samantha "[Name]! It's good to see you!"
+    Samantha ""
+
+# game/logic/events/audrey.rpy:4024
+translate brazilian Audrey_12_label_ce1cdcb6:
+
+    # Samantha "We were just talking about you..."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:4026
+translate brazilian Audrey_12_label_ae19ea73:
+
+    # Audrey "Yeah, about how annoying you are."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4027
+translate brazilian Audrey_12_label_9249d591:
+
+    # ch_Name "Speaking of which, I wanted to bore you, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4028
+translate brazilian Audrey_12_label_3f4aac8d:
+
+    # Audrey "Again?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4030
+translate brazilian Audrey_12_label_c213ea34:
+
+    # Audrey "Look, didn't I make myself clear last time?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4031
+translate brazilian Audrey_12_label_d2135b0f:
+
+    # Audrey "Can't you see I'm busy?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4032
+translate brazilian Audrey_12_label_65656564:
+
+    # Samantha "It's okay, Audrey. I have other things to do."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:4033
+translate brazilian Audrey_12_label_538c9342:
+
+    # ch_Name "So while you're busy doing your thing, I'm gonna entertain Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4035
+translate brazilian Audrey_12_label_d2f7c863:
+
+    # Audrey "Entertain me? Well, well, well."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4036
+translate brazilian Audrey_12_label_2c445b5b:
+
+    # Audrey "I don't know what you're up to, but I hope it's worth it, [Name]."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4037
+translate brazilian Audrey_12_label_c585aa9d:
+
+    # ch_Name "Oh, trust me. Shall we go over the details?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4044
+translate brazilian Audrey_12_label_a368d814:
+
+    # ch_Name "You shouldn't have written me off, baby."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4045
+translate brazilian Audrey_12_label_8786757a:
+
+    # Audrey "Are you gonna hit on me again? You know what..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4046
+translate brazilian Audrey_12_label_e71bc146:
+
+    # ch_Name "Don't jump to conclusions, baby. Your powers won't stop me this time."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4047
+translate brazilian Audrey_12_label_dd6495fb:
+
+    # ch_Name "I'm ready to get to know you for real."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4049
+translate brazilian Audrey_12_label_9a431dfc:
+
+    # Audrey "Wait, so what changed? What makes you so sure you can handle it this time?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4050
+translate brazilian Audrey_12_label_70deb294:
+
+    # Audrey "Or is this just a desperate attempt to waste my evening?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4051
+translate brazilian Audrey_12_label_17c02d66:
+
+    # ch_Name "I didn't waste any time. I've done my research."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4052
+translate brazilian Audrey_12_label_f0dedec2:
+
+    # ch_Name "There is a way, believe me."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4053
+translate brazilian Audrey_12_label_a217a5db:
+
+    # Audrey "Okay, so, what do you think I'm just gonna jump on you at your beck and call?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4054
+translate brazilian Audrey_12_label_b342ca1f:
+
+    # ch_Name "Of course, you would. Aren't you hungry?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4056
+translate brazilian Audrey_12_label_9430f0d5:
+
+    # Audrey "Um..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4057
+translate brazilian Audrey_12_label_89f9af4b:
+
+    # Audrey "Now that you ask, I could really use some sex..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4058
+translate brazilian Audrey_12_label_1f5c0a98:
+
+    # ch_Name "And I also think I'm ready to find out who you really are."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4059
+translate brazilian Audrey_12_label_a4a6814d:
+
+    # ch_Name "I want to see who you really are. No illusions, no disguises."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4061
+translate brazilian Audrey_12_label_58e37518:
+
+    # Audrey "Are you out of your mind? Don't ever bring it up out loud!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4062
+translate brazilian Audrey_12_label_34593c88:
+
+    # Audrey "It's not a joke, it's a matter of life and death for me."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4063
+translate brazilian Audrey_12_label_1e51b3f9:
+
+    # ch_Name "I know. And I would never betray your trust."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4064
+translate brazilian Audrey_12_label_076a7d60:
+
+    # ch_Name "It's not like I gave away your secret to anyone..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4066
+translate brazilian Audrey_12_label_b5e5a1bc:
+
+    # Audrey "Hmmm... It's a true duck."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4067
+translate brazilian Audrey_12_label_cd3ee275:
+
+    # Audrey "Oh, I hope I don't regret this..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4069
+translate brazilian Audrey_12_label_29e398e0:
+
+    # Audrey "Follow me!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4070
+translate brazilian Audrey_12_label_3818b211:
+
+    # ch_Name "{i}(Whoa, did she really say yes?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4071
+translate brazilian Audrey_12_label_04fcadd4:
+
+    # ch_Name "{i}(I didn't expect it to be that easy...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4072
+translate brazilian Audrey_12_label_8c1841cc:
+
+    # Audrey "Hurry up before I change my mind."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4074
+translate brazilian Audrey_12_label_c4e9f962:
+
+    # ch_Name "Sure. Where are we going?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4075
+translate brazilian Audrey_12_label_a94170d5:
+
+    # Audrey "There's a place near campus."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4076
+translate brazilian Audrey_12_label_b58f462a:
+
+    # Audrey "No one will bother us there."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4077
+translate brazilian Audrey_12_label_a828c8e7:
+
+    # ch_Name "Sounds creepy..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4079
+translate brazilian Audrey_12_label_92c15e55:
+
+    # Audrey "It is."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4087
+translate brazilian Audrey_12_label_962f9d3e:
+
+    # ch_Name "{i}(I've never been to that part of the woods.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4088
+translate brazilian Audrey_12_label_e8f18b5b:
+
+    # ch_Name "{i}(It seems more dreary and abandoned here.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4089
+translate brazilian Audrey_12_label_3954142b:
+
+    # ch_Name "{i}(I hope Audrey isn't trying to get rid of me by leading me into some swamp.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4090
+translate brazilian Audrey_12_label_2f39c744:
+
+    # ch_Name "How much longer do we have to go?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4092
+translate brazilian Audrey_12_label_d7a2325b:
+
+    # Audrey "Not really. What are you, exhausted already?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4093
+translate brazilian Audrey_12_label_32a6a7ff:
+
+    # Audrey "What a hero lover. With that kind of stamina..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4094
+translate brazilian Audrey_12_label_149291c8:
+
+    # ch_Name "Of course, you're comparing sex to walking in the woods."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4095
+translate brazilian Audrey_12_label_9a67361b:
+
+    # ch_Name "It's a different level of motivation."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4096
+translate brazilian Audrey_12_label_d9540a01:
+
+    # Audrey "Pfft..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4103
+translate brazilian Audrey_12_label_811688f7:
+
+    # ch_Name "{i}(Whoa, what is that? That looks creepy.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4104
+translate brazilian Audrey_12_label_6b68a2f5:
+
+    # Audrey "Here we are! Since this place has been abandoned for some time..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4105
+translate brazilian Audrey_12_label_a90a4bcf:
+
+    # Audrey "We won't have to worry about anyone bothering us."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4107
+translate brazilian Audrey_12_label_df1aaeeb:
+
+    # ch_Name "I don't know..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4108
+translate brazilian Audrey_12_label_3da24d29:
+
+    # ch_Name "I bet this place is crawling with ghosts and scarier creatures."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4109
+translate brazilian Audrey_12_label_514e4838:
+
+    # ch_Name "Wouldn't it be nice if there was this level of serenity on campus?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4110
+translate brazilian Audrey_12_label_aec275be:
+
+    # ch_Name "It's like if we could only lock the door to the room."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4112
+translate brazilian Audrey_12_label_c1802162:
+
+    # Audrey "Hey, why are you backing out all of a sudden?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4113
+translate brazilian Audrey_12_label_a7d5f262:
+
+    # Audrey "You weren't scared, were you?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4114
+translate brazilian Audrey_12_label_abbe6acf:
+
+    # Audrey "Oh, that was a lot of bragging and self-confidence."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4115
+translate brazilian Audrey_12_label_27b6d0ed:
+
+    # ch_Name "I'm not scared at all. I just don't understand why here..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4117
+translate brazilian Audrey_12_label_d5bbf310:
+
+    # Audrey "You have no idea what it's like to live a lie all the time."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4118
+translate brazilian Audrey_12_label_8807a08d:
+
+    # Audrey "To remember every second that you're different."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4119
+translate brazilian Audrey_12_label_81e4ab60:
+
+    # Audrey "And if anyone finds out what you really are, they'll kill you."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4120
+translate brazilian Audrey_12_label_8cd03c27:
+
+    # Audrey "If you'd been in my shoes, you'd understand why you're so careful."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4121
+translate brazilian Audrey_12_label_31605cb2:
+
+    # ch_Name "{i}(Oh... I really didn't even think about how she felt.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4122
+translate brazilian Audrey_12_label_840abe8b:
+
+    # ch_Name "I understand... I mean, I don't understand. But I want to understand. I really do."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4124
+translate brazilian Audrey_12_label_821a9478:
+
+    # Audrey "Well then, what are you standing there for?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4125
+translate brazilian Audrey_12_label_97b74d08:
+
+    # Audrey "Let's go before I get cold and change my mind."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4126
+translate brazilian Audrey_12_label_eec294df:
+
+    # ch_Name "I'm coming."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4128
+translate brazilian Audrey_12_label_13cdc227:
+
+    # ch_Name "Are you sure there's no one here?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4129
+translate brazilian Audrey_12_label_2e6c79f6:
+
+    # Audrey "I come here a lot. It's my little secret place."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4130
+translate brazilian Audrey_12_label_729beb83:
+
+    # Audrey "I've never noticed a sign of anyone else's presence."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4131
+translate brazilian Audrey_12_label_a5a18ff0:
+
+    # Audrey "Come on in!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4139
+translate brazilian Audrey_12_label_94c5d1a3:
+
+    # ch_Name "Whoa! It looks cozier inside than it does outside."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4140
+translate brazilian Audrey_12_label_3d4d0b7f:
+
+    # Audrey "Make yourself at home. I mean, like my house."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4141
+translate brazilian Audrey_12_label_e6fed3a7:
+
+    # Audrey "And that means try not to touch anything, okay?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4143
+translate brazilian Audrey_12_label_b74980f1:
+
+    # ch_Name "{i}(I only plan on touching you...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4144
+translate brazilian Audrey_12_label_782ede5a:
+
+    # ch_Name "Of course, you are."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4145
+translate brazilian Audrey_12_label_0c37f62e:
+
+    # ch_Name "What is this place?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4147
+translate brazilian Audrey_12_label_a56f6583:
+
+    # Audrey "It's an old temple. I don't know whose."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4148
+translate brazilian Audrey_12_label_c1b6b559:
+
+    # Audrey "The images of the goddesses and gods have long since been erased."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4150
+translate brazilian Audrey_12_label_d4a5f532:
+
+    # Audrey "Why are you standing there? Are you here to admire the interior?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4151
+translate brazilian Audrey_12_label_45da598f:
+
+    # ch_Name "No. You."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4152
+translate brazilian Audrey_12_label_c168265a:
+
+    # Audrey "Well, come here."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4154
+translate brazilian Audrey_12_label_d48ecde2:
+
+    # Audrey "Oh, I can't believe I agreed to this venture."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4155
+translate brazilian Audrey_12_label_590d3900:
+
+    # Audrey "But now that we've come this far..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4156
+translate brazilian Audrey_12_label_8baff298:
+
+    # Audrey "Are you sure you're ready to see me?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4157
+translate brazilian Audrey_12_label_6f7cefd1:
+
+    # ch_Name "You've never been so passionate about anything in your life."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4159
+translate brazilian Audrey_12_label_e9ff25af:
+
+    # Audrey "Whatever happens next, swear to keep my secret."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4160
+translate brazilian Audrey_12_label_d907da71:
+
+    # Audrey "In exchange I'll swear not to harm your life."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4161
+translate brazilian Audrey_12_label_0498a733:
+
+    # ch_Name "I swear."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4162
+translate brazilian Audrey_12_label_90c910cb:
+
+    # Audrey "I swear."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4164
+translate brazilian Audrey_12_label_3dc3b28b:
+
+    # Audrey "All right! Whoa..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4165
+translate brazilian Audrey_12_label_ddce6bf7:
+
+    # Audrey "I'm just now realizing how excited I am."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4166
+translate brazilian Audrey_12_label_a9dee52d:
+
+    # Audrey "I don't often allow myself that kind of freedom..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4167
+translate brazilian Audrey_12_label_43f489c7:
+
+    # Audrey "Please close your eyes for a minute."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4169
+translate brazilian Audrey_12_label_7bb14ae0:
+
+    # ch_Name "I will."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4170
+translate brazilian Audrey_12_label_be31ce93:
+
+    # ch_Name "But why?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4172
+translate brazilian Audrey_12_label_af5c8a20:
+
+    # Audrey "Argh..." with vpunch
+    Audrey "" with vpunch
+
+# game/logic/events/audrey.rpy:4173
+translate brazilian Audrey_12_label_7cde6535:
+
+    # Audrey "That's it."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4174
+translate brazilian Audrey_12_label_d0feae7b:
+
+    # Audrey "You can open them now!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4203
+translate brazilian Audrey_12_girl_5b2ff39f:
+
+    # ch_Name "{i}(Whoa, am I really seeing this, or am I dreaming?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4204
+translate brazilian Audrey_12_girl_1cc30c78:
+
+    # ch_Name "Wow..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4205
+translate brazilian Audrey_12_girl_21cd667f:
+
+    # ch_Name "{i}(Is that... Audrey?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4206
+translate brazilian Audrey_12_girl_473417b9:
+
+    # ch_Name "Unbelievable!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4208
+translate brazilian Audrey_12_girl_4f05a2f9:
+
+    # ch_Name "{i}(Holy shit, she can fly too?!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4209
+translate brazilian Audrey_12_girl_bedeac44:
+
+    # ch_Name "{i}(This is the creature that sleeps under the same roof?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4210
+translate brazilian Audrey_12_girl_cdce1f19:
+
+    # ch_Name "{i}(In the same room with Samantha?!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4212
+translate brazilian Audrey_12_girl_8f3ca40b:
+
+    # Audrey "Well, I see you're speechless..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4213
+translate brazilian Audrey_12_girl_a4e7375c:
+
+    # Audrey "It's not what you were expecting, is it?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4214
+translate brazilian Audrey_12_girl_e3f47042:
+
+    # ch_Name "My brain is about to explode."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4215
+translate brazilian Audrey_12_girl_3257dca0:
+
+    # ch_Name "I... I... I don't even know how to respond."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4217
+translate brazilian Audrey_12_girl_6d0c2288:
+
+    # ch_Name "Audrey? Is that really still you?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4218
+translate brazilian Audrey_12_girl_9966536b:
+
+    # Audrey "Ah-ha-ha..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4219
+translate brazilian Audrey_12_girl_97d78454:
+
+    # Audrey "Of course, it is, silly."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4221
+translate brazilian Audrey_12_girl_849762af:
+
+    # Audrey "I told you, you have no idea what you're asking for."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4222
+translate brazilian Audrey_12_girl_1ccddc38:
+
+    # Audrey "Do you see why we couldn't do this on campus?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4223
+translate brazilian Audrey_12_girl_e0c221ab:
+
+    # ch_Name "Yeah, well..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4224
+translate brazilian Audrey_12_girl_ae7ddc02:
+
+    # ch_Name "I do now."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4226
+translate brazilian Audrey_12_girl_7a597414:
+
+    # Audrey "So, what's your verdict?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4227
+translate brazilian Audrey_12_girl_b28cbe1e:
+
+    # Audrey "You wanted to see a succubus without a disguise..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4228
+translate brazilian Audrey_12_girl_897879d5:
+
+    # Audrey "Do you like what you see?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4229
+translate brazilian Audrey_12_girl_a280b908:
+
+    # ch_Name "{i}(Oh, I don't even know how to say it...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4231
+translate brazilian Audrey_12_girl_e675af2e:
+
+    # ch_Name "Audrey, I..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4236
+translate brazilian Audrey_12_girl_5c67683c:
+
+    # ch_Name "To be honest, I'm shocked."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4238
+translate brazilian Audrey_12_girl_b7bafe8c:
+
+    # ch_Name "Now I understand why you have such a character."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4239
+translate brazilian Audrey_12_girl_574434a8:
+
+    # ch_Name "It's like your inner world has come out."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4240
+translate brazilian Audrey_12_girl_d31d2cfe:
+
+    # ch_Name "It's as black and monstrous as your character."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4241
+translate brazilian Audrey_12_girl_a6deaa6e:
+
+    # ch_Name "Nothing can happen between us."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4243
+translate brazilian Audrey_12_girl_423750cb:
+
+    # Audrey "You miserable, miserable man."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4244
+translate brazilian Audrey_12_girl_afb00367:
+
+    # Audrey "How dare you say that?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4245
+translate brazilian Audrey_12_girl_64eb20d2:
+
+    # Audrey "You're the one who asked me to show you what I am..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4246
+translate brazilian Audrey_12_girl_22139128:
+
+    # Audrey "You've been pestering me all this time."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4248
+translate brazilian Audrey_12_girl_b368d3d5:
+
+    # Audrey "I'll tear you to pieces, you bitch!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4249
+translate brazilian Audrey_12_girl_4c2eaf99:
+
+    # ch_Name "Ahh. You swore you wouldn't hurt me."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4250
+translate brazilian Audrey_12_girl_fc54eac3:
+
+    # ch_Name "You can trust me with your secret. I'll keep my vow."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4251
+translate brazilian Audrey_12_girl_622673b9:
+
+    # ch_Name "But stay away from me, and Samantha!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4253
+translate brazilian Audrey_12_girl_c09ec753:
+
+    # Audrey "A-r-r..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4254
+translate brazilian Audrey_12_girl_4dccc388:
+
+    # Audrey "You don't tell me what to do!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4255
+translate brazilian Audrey_12_girl_277561ef:
+
+    # Audrey "And you don't take Samantha away from me!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4256
+translate brazilian Audrey_12_girl_6e4ed686:
+
+    # Audrey "You miserable worm!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4258
+translate brazilian Audrey_12_girl_7d981829:
+
+    # Audrey "I could wipe you out any second!" with hpunch
+    Audrey "" with hpunch
+
+# game/logic/events/audrey.rpy:4259
+translate brazilian Audrey_12_girl_1620a398:
+
+    # Audrey "Do you hear me?!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4260
+translate brazilian Audrey_12_girl_06dc7588:
+
+    # Audrey "Please don't walk away from me! Don't leave me like this!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4261
+translate brazilian Audrey_12_girl_c6cf0494:
+
+    # ch_Name "{i}(She won't do anything... She took an oath.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4263
+translate brazilian Audrey_12_girl_e115a04f:
+
+    # ch_Name "{i}(This is just anger from powerlessness.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4264
+translate brazilian Audrey_12_girl_9c34cafb:
+
+    # Audrey "Damn you to hell!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4265
+translate brazilian Audrey_12_girl_46b2b1b2:
+
+    # Audrey "I'll find a way..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4266
+translate brazilian Audrey_12_girl_c776e885:
+
+    # ch_Name "Ciao, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4267
+translate brazilian Audrey_12_girl_ef10cd42:
+
+    # ch_Name "See you at the academy."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4268
+translate brazilian Audrey_12_girl_9858b8f4:
+
+    # Audrey "A-r-r-r-!!!!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4274
+translate brazilian Audrey_12_girl_a8caa653:
+
+    # ch_Name "I'm a little confused, I'm sorry."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4276
+translate brazilian Audrey_12_girl_94882130:
+
+    # ch_Name "I'm very glad you trusted me and showed your true form."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4277
+translate brazilian Audrey_12_girl_05b5faac:
+
+    # ch_Name "But could you go back to human form?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4278
+translate brazilian Audrey_12_girl_89d9dcde:
+
+    # ch_Name "At least while we're having sex."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4280
+translate brazilian Audrey_12_girl_fdca8d87:
+
+    # Audrey "I don't get it. What?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4281
+translate brazilian Audrey_12_girl_772ec983:
+
+    # Audrey "First, you ask me to show you my body, and now you want me to hide it?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4282
+translate brazilian Audrey_12_girl_f8af43b1:
+
+    # Audrey "Is it that ugly?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4283
+translate brazilian Audrey_12_girl_df11571f:
+
+    # ch_Name "No! Not at all. I'm just more attracted to the human body as a human..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4285
+translate brazilian Audrey_12_girl_b7caa5a8:
+
+    # Audrey "What are you, some kind of fucking racist?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4286
+translate brazilian Audrey_12_girl_16a4e775:
+
+    # Audrey "What does that mean? \"More attractive than the human body\"..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4287
+translate brazilian Audrey_12_girl_e0c56f94:
+
+    # Audrey "Look at me again and tell me that body doesn't drive you crazy..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4288
+translate brazilian Audrey_12_girl_17b66340:
+
+    # ch_Name "Well..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4289
+translate brazilian Audrey_12_girl_feccfcb7:
+
+    # Audrey "Unbelievable. I can't believe it."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4291
+translate brazilian Audrey_12_girl_bac44722:
+
+    # Audrey "Anyway, it's either sex in its true form..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4292
+translate brazilian Audrey_12_girl_90026885:
+
+    # Audrey "Or no sex at all."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4293
+translate brazilian Audrey_12_girl_a9b9c00f:
+
+    # Audrey "It's your choice."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4294
+translate brazilian Audrey_12_girl_b42cf19a:
+
+    # ch_Name "Oh... Okay, if that's the case."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4299
+translate brazilian Audrey_12_girl_ecc03afe:
+
+    # ch_Name "The choice is obvious."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4300
+translate brazilian Audrey_12_girl_c17eb71e:
+
+    # ch_Name "I'm sorry, but..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4301
+translate brazilian Audrey_12_girl_568c04c4:
+
+    # ch_Name "I'm not gonna fuck \"that\"."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4303
+translate brazilian Audrey_12_girl_7e939e9f:
+
+    # Audrey "How dare you talk about me like that?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4304
+translate brazilian Audrey_12_girl_e1667830:
+
+    # Audrey "What do you think I am, some kind of thing?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4305
+translate brazilian Audrey_12_girl_e3242935:
+
+    # Audrey "Do you think you don't hurt my feelings?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4306
+translate brazilian Audrey_12_girl_752de286:
+
+    # ch_Name "I don't even know if you feel anything."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4307
+translate brazilian Audrey_12_girl_cad62437:
+
+    # ch_Name "Good luck. I'm out of here."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4309
+translate brazilian Audrey_12_girl_16eae8f7:
+
+    # Audrey "How dare you just turn around and walk away from me?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4310
+translate brazilian Audrey_12_girl_f7b11b48:
+
+    # Audrey "Hey, asshole!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4311
+translate brazilian Audrey_12_girl_464cf388:
+
+    # Audrey "Do you think you're so tough?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4312
+translate brazilian Audrey_12_girl_92036923:
+
+    # Audrey "I could destroy you with a flap of my wing!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4313
+translate brazilian Audrey_12_girl_bc8acf9c:
+
+    # ch_Name "You can't."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4314
+translate brazilian Audrey_12_girl_3c6f36e5:
+
+    # ch_Name "You took an oath, remember?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4316
+translate brazilian Audrey_12_girl_46bb0e07:
+
+    # Audrey "You little bastard..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4317
+translate brazilian Audrey_12_girl_af15c365:
+
+    # Audrey "How do you dare manipulate me with my own words?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4318
+translate brazilian Audrey_12_girl_974c3612:
+
+    # Audrey "Aren't you afraid that vows are worthless to succubi?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4319
+translate brazilian Audrey_12_girl_88a4dab4:
+
+    # ch_Name "I think if they were worthless..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4320
+translate brazilian Audrey_12_girl_30934b40:
+
+    # ch_Name "I would have felt it on my own skin by now."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4322
+translate brazilian Audrey_12_girl_a9b8a3b5:
+
+    # ch_Name "All your anger is out of helplessness."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4323
+translate brazilian Audrey_12_girl_9c34cafb_1:
+
+    # Audrey "Damn you to hell!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4324
+translate brazilian Audrey_12_girl_46b2b1b2_1:
+
+    # Audrey "I'll find a way..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4325
+translate brazilian Audrey_12_girl_c776e885_1:
+
+    # ch_Name "Ciao, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4326
+translate brazilian Audrey_12_girl_ec160630:
+
+    # ch_Name "I'll see you at the academy."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4327
+translate brazilian Audrey_12_girl_9858b8f4_1:
+
+    # Audrey "A-r-r-r-!!!!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4328
+translate brazilian Audrey_12_girl_0ac8681a:
+
+    # ch_Name "{i}(I hope I didn't make a nemesis out of her.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4334
+translate brazilian Audrey_12_girl_f75f766b:
+
+    # ch_Name "I'm not going to lie. I was a little scared."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4335
+translate brazilian Audrey_12_girl_d33f277e:
+
+    # ch_Name "With your whole authentic look and feel."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4336
+translate brazilian Audrey_12_girl_e2974402:
+
+    # ch_Name "But you're even hotter than I thought."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4337
+translate brazilian Audrey_12_girl_a4655b2b:
+
+    # ch_Name "I'd be honored to fuck you good."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4339
+translate brazilian Audrey_12_girl_7eca34d4:
+
+    # Audrey "I knew you'd come around."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4340
+translate brazilian Audrey_12_girl_69586e05:
+
+    # Audrey "After all, seduction is what succubi are famous for."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4341
+translate brazilian Audrey_12_girl_7eb36ab3:
+
+    # Audrey "So, are you ready?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4342
+translate brazilian Audrey_12_girl_d89b62d5:
+
+    # ch_Name "You bet I am."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4344
+translate brazilian Audrey_12_girl_00328978:
+
+    # Audrey "Then hurry up and come see me."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4345
+translate brazilian Audrey_12_girl_121d8149:
+
+    # Audrey "I'll show you that hell isn't just torture and torment."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4346
+translate brazilian Audrey_12_girl_4ffdc2bc:
+
+    # Audrey "It's a much more voluptuous sin."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4347
+translate brazilian Audrey_12_girl_45c1148d:
+
+    # ch_Name "Come on, let's see."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4348
+translate brazilian Audrey_12_girl_4c4d7139:
+
+    # Audrey "Hee hee hee..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4352
+translate brazilian Audrey_12_girl_5cd2b134:
+
+    # ch_Name "{i}(I never thought it would be like this.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4353
+translate brazilian Audrey_12_girl_4a1d2000:
+
+    # ch_Name "{i}(Am I sure I'm not dreaming?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4354
+translate brazilian Audrey_12_girl_3a19cedd:
+
+    # Audrey "What are you waiting for? Can't you work up the courage?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4355
+translate brazilian Audrey_12_girl_28d7c5d1:
+
+    # ch_Name "No, I was just wondering... Sorry."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4357
+translate brazilian Audrey_12_girl_632903aa:
+
+    # Audrey "It's okay. Samantha has a lot on her mind, too."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4358
+translate brazilian Audrey_12_girl_9e10ce8c:
+
+    # Audrey "I think it's your upbringing."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4359
+translate brazilian Audrey_12_girl_fc1441a6:
+
+    # ch_Name "Samantha? Let's not talk about her now..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4360
+translate brazilian Audrey_12_girl_d65c1f7b:
+
+    # Audrey "You're right, all that matters now is you and me."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4362
+translate brazilian Audrey_12_girl_4b87aa89:
+
+    # Audrey "Come here, be a good boy."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4363
+translate brazilian Audrey_12_girl_d7494406:
+
+    # Audrey "I'm already cold without a man's warmth."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4364
+translate brazilian Audrey_12_girl_f6731b6f:
+
+    # ch_Name "I'll fix that in a jiffy, baby."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4365
+translate brazilian Audrey_12_girl_98e8c42d:
+
+    # ch_Name "{i}(Heh, so even succubi need warmth.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4367
+translate brazilian Audrey_12_girl_be642570:
+
+    # Audrey "I've waited so long for this..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4368
+translate brazilian Audrey_12_girl_65537304:
+
+    # Audrey "If you only knew how thirsty I am."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4369
+translate brazilian Audrey_12_girl_1153d230:
+
+    # ch_Name "How so?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4371
+translate brazilian Audrey_12_girl_6bb27be0:
+
+    # Audrey "I'd just drink you up to the last drop."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4372
+translate brazilian Audrey_12_girl_559aaa97:
+
+    # Audrey "And I'm not talking about magic power right now."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4373
+translate brazilian Audrey_12_girl_fc9c0993:
+
+    # ch_Name "Oh, good. I felt a little creepy for a second..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4374
+translate brazilian Audrey_12_girl_5746200a:
+
+    # Audrey "Shut up and kiss me, fool."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4376
+translate brazilian Audrey_12_girl_027b1c56:
+
+    # ch_Name "..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4377
+translate brazilian Audrey_12_girl_fc11be4e:
+
+    # Audrey "Mmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4378
+translate brazilian Audrey_12_girl_ee2167cc:
+
+    # ch_Name "Ohm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4379
+translate brazilian Audrey_12_girl_63e6c0bb:
+
+    # ch_Name "{i}(Her lips are like a drug - impossible to tear away.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4381
+translate brazilian Audrey_12_girl_1e63f781:
+
+    # ch_Name "{i}(And her tongue... What it does, oh, my God!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4382
+translate brazilian Audrey_12_girl_8982e1c4:
+
+    # ch_Name "Mmm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4383
+translate brazilian Audrey_12_girl_4e504c56:
+
+    # ch_Name "{i}(All succubi are so good at that?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4385
+translate brazilian Audrey_12_girl_c2398695:
+
+    # Audrey "What do we have here..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4386
+translate brazilian Audrey_12_girl_0f036acc:
+
+    # Audrey "I can't wait to get to know him better."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4387
+translate brazilian Audrey_12_girl_48385abb:
+
+    # ch_Name "Oh, yeah, I'm all for it."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4390
+translate brazilian Audrey_12_girl_e77f74d6:
+
+    # Audrey "Let me in. Let me make the connection..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4391
+translate brazilian Audrey_12_girl_24e6ddab:
+
+    # Audrey "I'll be very careful."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4392
+translate brazilian Audrey_12_girl_7d610d6a:
+
+    # Audrey "While I'm eating you."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4393
+translate brazilian Audrey_12_girl_da7a6272:
+
+    # ch_Name "Oh, wow... Exactly!)"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4395
+translate brazilian Audrey_12_girl_8a4f5685:
+
+    # ch_Name "No, wait!" with hpunch
+    ch_Name "" with hpunch
+
+# game/logic/events/audrey.rpy:4396
+translate brazilian Audrey_12_girl_831f6a52:
+
+    # Audrey "What now?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4397
+translate brazilian Audrey_12_girl_3adedbae:
+
+    # ch_Name "It's great but wait a minute."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4398
+translate brazilian Audrey_12_girl_8e9e4867:
+
+    # ch_Name "I just remembered something."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4400
+translate brazilian Audrey_12_girl_d983d380:
+
+    # ch_Name "{i}(If I don't want to lose all my powers at the fun part...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4401
+translate brazilian Audrey_12_girl_3cd722ba:
+
+    # ch_Name "{i}(I need to drink that potion I made for occasions like this.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4403
+translate brazilian Audrey_12_girl_7c510fdf:
+
+    # ch_Name "{i}(Sabrina said that if you don't boil the lilies enough...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4404
+translate brazilian Audrey_12_girl_1fce92da:
+
+    # ch_Name "{i}(They can poison you.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4405
+translate brazilian Audrey_12_girl_6c3953f7:
+
+    # ch_Name "{i}(Well, I hope I did it right.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4408
+translate brazilian Audrey_12_girl_4d6c2c78:
+
+    # Audrey "Oh, how long have you been there?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4411
+translate brazilian Audrey_12_girl_027b1c56_1:
+
+    # ch_Name "..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4412
+translate brazilian Audrey_12_girl_17b66340_1:
+
+    # ch_Name "Well..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4413
+translate brazilian Audrey_12_girl_5a8c39dc:
+
+    # Audrey "Well, I can't wait any longer."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4415
+translate brazilian Audrey_12_girl_6b9939b9:
+
+    # ch_Name "{i}(She doesn't waste any more time.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4416
+translate brazilian Audrey_12_girl_4bb1f6be:
+
+    # ch_Name "Audrey, you..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4417
+translate brazilian Audrey_12_girl_6d131869:
+
+    # Audrey "I'm helping you get into shape, handsome."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4418
+translate brazilian Audrey_12_girl_9f1bf933:
+
+    # ch_Name "But I could do it myself..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4420
+translate brazilian Audrey_12_girl_7d9a3cba:
+
+    # Audrey "Look, don't be sarcastic, okay?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4421
+translate brazilian Audrey_12_girl_dc9de17a:
+
+    # Audrey "Just relax and have fun."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4423
+translate brazilian Audrey_12_girl_739f2e0c:
+
+    # ch_Name "Oh... (chuckles)"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4424
+translate brazilian Audrey_12_girl_0ae9bcd0:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:4425
+translate brazilian Audrey_12_girl_ef712276:
+
+    # ch_Name "Oh, yeah, there you go."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4426
+translate brazilian Audrey_12_girl_9ede5ef2:
+
+    # ch_Name "You know what you're doing, that's for sure."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4428
+translate brazilian Audrey_12_girl_7c82de24:
+
+    # Audrey "Do you like the feel of my hand on it?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4429
+translate brazilian Audrey_12_girl_318eb34f:
+
+    # Audrey "Just imagine what I could do with other parts of my body..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4430
+translate brazilian Audrey_12_girl_91c48192:
+
+    # Audrey "Imagine it entering my mouth and resting against my throat."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4431
+translate brazilian Audrey_12_girl_951c43bf:
+
+    # Audrey "Isn't that what you want?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4433
+translate brazilian Audrey_12_girl_e675af2e_1:
+
+    # ch_Name "Audrey, I..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4434
+translate brazilian Audrey_12_girl_0ae9bcd0_1:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:4435
+translate brazilian Audrey_12_girl_d9edb7cc:
+
+    # ch_Name "I'm all over the place."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4436
+translate brazilian Audrey_12_girl_029b92c6:
+
+    # ch_Name "Don't you want to make your ideas come true?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4438
+translate brazilian Audrey_12_girl_73d95791:
+
+    # Audrey "I'd love to."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4439
+translate brazilian Audrey_12_girl_0d639987:
+
+    # ch_Name "{i}(I can't believe this is actually happening.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4440
+translate brazilian Audrey_12_girl_0e2870b5:
+
+    # ch_Name "{i}(Am I really about to get sucked off by a succubus?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4442
+translate brazilian Audrey_12_girl_23ae8d43:
+
+    # Audrey "Oh, my! Impressive size." with vpunch
+    Audrey "" with vpunch
+
+# game/logic/events/audrey.rpy:4443
+translate brazilian Audrey_12_girl_505d4098:
+
+    # Audrey "I'm not even sure my mouth accommodates it."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4444
+translate brazilian Audrey_12_girl_f9cef9b2:
+
+    # Audrey "Let's try..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4446
+translate brazilian Audrey_12_girl_eee686cf:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4447
+translate brazilian Audrey_12_girl_23632dcc:
+
+    # Audrey "Mmm, that's what I missed today."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4448
+translate brazilian Audrey_12_girl_cc6725e3:
+
+    # ch_Name "I missed that, too."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4449
+translate brazilian Audrey_12_girl_56f2ccda:
+
+    # ch_Name "{i}(She has such soulful eyes...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4451
+translate brazilian Audrey_12_girl_2d7540d3:
+
+    # Audrey "Mm-hmm."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4452
+translate brazilian Audrey_12_girl_6e4ee974:
+
+    # Audrey "..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4453
+translate brazilian Audrey_12_girl_5f9667dc:
+
+    # ch_Name "Oh yeah, keep it up, baby!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4455
+translate brazilian Audrey_12_girl_a5a50883:
+
+    # ch_Name "That's what you need."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4456
+translate brazilian Audrey_12_girl_eaa9ce6d:
+
+    # Audrey "Mmmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4457
+translate brazilian Audrey_12_girl_8703839f:
+
+    # ch_Name "{i}(She works her tongue so hard.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4458
+translate brazilian Audrey_12_girl_c41c91bf:
+
+    # ch_Name "{i}(You can tell she's a professional.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4459
+translate brazilian Audrey_12_girl_0ae9bcd0_2:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:4461
+translate brazilian Audrey_12_girl_fc11be4e_1:
+
+    # Audrey "Mmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4462
+translate brazilian Audrey_12_girl_184b319b:
+
+    # ch_Name "Baby, you're a cosmos."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4463
+translate brazilian Audrey_12_girl_4ec2d15e:
+
+    # ch_Name "Don't stop."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4464
+translate brazilian Audrey_12_girl_02bfe5d0:
+
+    # ch_Name "Ahh..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4466
+translate brazilian Audrey_12_girl_f50fdef5:
+
+    # Audrey "Hmmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4467
+translate brazilian Audrey_12_girl_34d536cb:
+
+    # ch_Name "Oh, yeah, that's it."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4468
+translate brazilian Audrey_12_girl_58299595:
+
+    # ch_Name "It's just perfect..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4470
+translate brazilian Audrey_12_girl_1512d56a:
+
+    # ch_Name "Except maybe you could go a little deeper?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4472
+translate brazilian Audrey_12_girl_8e4a6377:
+
+    # Audrey "Is that a challenge? Of course, I could go deeper."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4473
+translate brazilian Audrey_12_girl_9ffbc0c7:
+
+    # ch_Name "So what are you waiting for?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4474
+translate brazilian Audrey_12_girl_96299770:
+
+    # Audrey "I just wanted to extend the pleasure."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4475
+translate brazilian Audrey_12_girl_641f1625:
+
+    # Audrey "But now you're asking for it!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4477
+translate brazilian Audrey_12_girl_eee686cf_1:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4479
+translate brazilian Audrey_12_girl_fc4ab722:
+
+    # ch_Name "Oh, yeah! That's what I'm talking about!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4480
+translate brazilian Audrey_12_girl_8c41bb6f:
+
+    # ch_Name "Ah..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4481
+translate brazilian Audrey_12_girl_fc11be4e_2:
+
+    # Audrey "Mmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4482
+translate brazilian Audrey_12_girl_4803143a:
+
+    # ch_Name "Keep up the good work."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4483
+translate brazilian Audrey_12_girl_0ae9bcd0_3:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:4485
+translate brazilian Audrey_12_girl_ec277636:
+
+    # ch_Name "{i}(Never thought anybody could be that good at blowjobs...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4486
+translate brazilian Audrey_12_girl_3b99df42:
+
+    # ch_Name "{i}(And every second she seems to get better and better.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4487
+translate brazilian Audrey_12_girl_f3b38f37:
+
+    # ch_Name "{i}(Is that really how the succubus charms work?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4488
+translate brazilian Audrey_12_girl_eee686cf_2:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4489
+translate brazilian Audrey_12_girl_0ae9bcd0_4:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:4491
+translate brazilian Audrey_12_girl_eaa9ce6d_1:
+
+    # Audrey "Mmmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4492
+translate brazilian Audrey_12_girl_662f49bd:
+
+    # ch_Name "Oh yeah..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4493
+translate brazilian Audrey_12_girl_e5f1896c:
+
+    # ch_Name "That feels so good..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4494
+translate brazilian Audrey_12_girl_eaa9ce6d_2:
+
+    # Audrey "Mmmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4497
+translate brazilian Audrey_12_girl_eaa9ce6d_3:
+
+    # Audrey "Mmmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4498
+translate brazilian Audrey_12_girl_39d331e1:
+
+    # ch_Name "You are unbelievable, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4499
+translate brazilian Audrey_12_girl_eee686cf_3:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4500
+translate brazilian Audrey_12_girl_d855dab7:
+
+    # ch_Name "That feels so good."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4502
+translate brazilian Audrey_12_girl_130cef29:
+
+    # Audrey "Okay, I can't listen to you moan anymore."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4503
+translate brazilian Audrey_12_girl_9a30e0de:
+
+    # Audrey "And envy you."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4505
+translate brazilian Audrey_12_girl_0afa72ed:
+
+    # Audrey "It's time for you to satisfy my needs."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4506
+translate brazilian Audrey_12_girl_6132b368:
+
+    # Audrey "Don't you think?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4507
+translate brazilian Audrey_12_girl_5cd932bb:
+
+    # ch_Name "I'd be honored."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4508
+translate brazilian Audrey_12_girl_1e75aa77:
+
+    # ch_Name "I've only just realized how beautiful you are..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4510
+translate brazilian Audrey_12_girl_02bae4e0:
+
+    # Audrey "Do you really think so?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4511
+translate brazilian Audrey_12_girl_607cb63a:
+
+    # Audrey "Or are you willing to say anything just to dip your dick somewhere?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4512
+translate brazilian Audrey_12_girl_18f51c59:
+
+    # ch_Name "{i}(Well, not just anything or anywhere...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4513
+translate brazilian Audrey_12_girl_b684505f:
+
+    # ch_Name "I really think so."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4515
+translate brazilian Audrey_12_girl_5f9bb8d5:
+
+    # ch_Name "You can see for yourself..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4516
+translate brazilian Audrey_12_girl_ee10f87a:
+
+    # ch_Name "Let's start with the fact that you have perfect breasts."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4517
+translate brazilian Audrey_12_girl_e328d08e:
+
+    # Audrey "Go on."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4519
+translate brazilian Audrey_12_girl_848ff789:
+
+    # ch_Name "They're a perfect size, they're firm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4520
+translate brazilian Audrey_12_girl_b9271521:
+
+    # ch_Name "And the color of your skin drives me crazy."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4522
+translate brazilian Audrey_12_girl_a53c35d5:
+
+    # Audrey "Yeah, I can tell that you like my breasts..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4523
+translate brazilian Audrey_12_girl_199d306e:
+
+    # Audrey "But it's not just my boobs."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4524
+translate brazilian Audrey_12_girl_d6f851ce:
+
+    # ch_Name "I'm sorry, it's just that right now they're occupying all my attention."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4525
+translate brazilian Audrey_12_girl_a7439307:
+
+    # Audrey "Men, what can you take..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4527
+translate brazilian Audrey_12_girl_54219727:
+
+    # Audrey "Let's just cut to the chase. I don't want anyone to catch us..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4528
+translate brazilian Audrey_12_girl_9bd36686:
+
+    # Audrey "Get down on the floor."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4529
+translate brazilian Audrey_12_girl_47687266:
+
+    # ch_Name "On the floor? It's cold out there..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4531
+translate brazilian Audrey_12_girl_8bfba27f:
+
+    # Audrey "In case you haven't noticed, it's never cold around succubi. Lie down."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4532
+translate brazilian Audrey_12_girl_80eedfd4:
+
+    # ch_Name "All right, whatever you say."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4533
+translate brazilian Audrey_12_girl_e58b7ed5:
+
+    # Audrey "Good boy."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4535
+translate brazilian Audrey_12_girl_06da1ba7:
+
+    # Audrey "Well, are you ready?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4536
+translate brazilian Audrey_12_girl_fa107b6f:
+
+    # ch_Name "What a question - you cooked me yourself."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4537
+translate brazilian Audrey_12_girl_2194a2fd:
+
+    # ch_Name "{i}(Still can't believe this is happening.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4538
+translate brazilian Audrey_12_girl_9cb61b28:
+
+    # ch_Name "{i}(I didn't put up with her nasty temper for nothing.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4540
+translate brazilian Audrey_12_girl_78002d40:
+
+    # Audrey "Maybe after tonight, you won't be able to..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4541
+translate brazilian Audrey_12_girl_35d182b7:
+
+    # Audrey "...sleep with normal girls for a while."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4542
+translate brazilian Audrey_12_girl_db337521:
+
+    # ch_Name "What? Why?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4543
+translate brazilian Audrey_12_girl_014a0009:
+
+    # Audrey "They say no one seems good enough in bed after succubi."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4544
+translate brazilian Audrey_12_girl_e582fd08:
+
+    # ch_Name "Oh... Huh, we'll see."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4545
+translate brazilian Audrey_12_girl_586fcd4b:
+
+    # ch_Name "I can't get that ponytail out of my head."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4547
+translate brazilian Audrey_12_girl_ba79ab84:
+
+    # Audrey "That one?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4548
+translate brazilian Audrey_12_girl_1aca7351:
+
+    # ch_Name "Oh, yeah, it's so cute..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4549
+translate brazilian Audrey_12_girl_e9ed3f25:
+
+    # ch_Name "I didn't think I could get excited about someone else's tail, but you did..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4550
+translate brazilian Audrey_12_girl_3d2ab409:
+
+    # Audrey "Heh heh heh..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4551
+translate brazilian Audrey_12_girl_9cf1bc2e:
+
+    # Audrey "Well, if that's the case..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4553
+translate brazilian Audrey_12_girl_7e479568:
+
+    # Audrey "Would you like to get under my ponytail?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4554
+translate brazilian Audrey_12_girl_0a25db02:
+
+    # ch_Name "{i}(What a divine sight!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4555
+translate brazilian Audrey_12_girl_74dcadbf:
+
+    # ch_Name "{i}(Incredible beauty...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4556
+translate brazilian Audrey_12_girl_59b71279:
+
+    # ch_Name "Of course, I do. Come here, hurry!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4558
+translate brazilian Audrey_12_girl_7f52127f:
+
+    # Audrey "I can't wait either."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4559
+translate brazilian Audrey_12_girl_6484962a:
+
+    # ch_Name "Oh, Audrey! I want you to ride me."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4560
+translate brazilian Audrey_12_girl_937e47a3:
+
+    # ch_Name "I want to watch your wings shake as I go inside."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4561
+translate brazilian Audrey_12_girl_e87787cf:
+
+    # Audrey "Oh, yeah, keep talking, you rascal."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4563
+translate brazilian Audrey_12_girl_621507f3:
+
+    # ch_Name "I want to hold your horns while I pull your holes."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4564
+translate brazilian Audrey_12_girl_6198a1f5:
+
+    # Audrey "Oh, that's it, I can't wait for another second..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4565
+translate brazilian Audrey_12_girl_43b1b63a:
+
+    # Audrey "Take me, [Name]."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4567
+translate brazilian Audrey_12_girl_d0c200cb:
+
+    # Audrey "Fuck me so hard you can hear me moan in hell!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4569
+translate brazilian Audrey_12_girl_ce804928:
+
+    # ch_Name "Here I go!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4570
+translate brazilian Audrey_12_girl_fac02ba5:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4572
+translate brazilian Audrey_12_girl_3b476c8d:
+
+    # Audrey "Oh... ah... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4573
+translate brazilian Audrey_12_girl_fac02ba5_1:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4574
+translate brazilian Audrey_12_girl_0ae9bcd0_5:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:4576
+translate brazilian Audrey_12_girl_a41ea034:
+
+    # ch_Name "{i}(I can feel the pleasure ripple through her body.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4577
+translate brazilian Audrey_12_girl_be588d4a:
+
+    # Audrey "Yes! Just like that!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4579
+translate brazilian Audrey_12_girl_730cfb2c:
+
+    # Audrey "So...{w} Good..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4580
+translate brazilian Audrey_12_girl_4ee2d01e:
+
+    # Audrey "Mhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4581
+translate brazilian Audrey_12_girl_0ae9bcd0_6:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:4583
+translate brazilian Audrey_12_girl_3023ca42:
+
+    # Audrey "Don't stop! Fuck me harder!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4585
+translate brazilian Audrey_12_girl_ce96d05e:
+
+    # Audrey "Oh... Yes... That's it!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4586
+translate brazilian Audrey_12_girl_3b476c8d_1:
+
+    # Audrey "Oh... ah... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4587
+translate brazilian Audrey_12_girl_fac02ba5_2:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4590
+translate brazilian Audrey_12_girl_d5fb5922:
+
+    # Audrey "I want a new experience."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4591
+translate brazilian Audrey_12_girl_ccc00493:
+
+    # ch_Name "Let's change positions."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4592
+translate brazilian Audrey_12_girl_1baede1f:
+
+    # Audrey "That's a great idea!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4593
+translate brazilian Audrey_12_girl_60ce84ff:
+
+    # Audrey "Now..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4595
+translate brazilian Audrey_12_girl_35711c99:
+
+    # ch_Name "{i}(Ooh, she's insatiable.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4596
+translate brazilian Audrey_12_girl_95423fc9:
+
+    # ch_Name "{i}(It's okay, with this potion, I'm strong enough to give her a good fuck.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4598
+translate brazilian Audrey_12_girl_ff8041e1:
+
+    # Audrey "Take me from behind!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4599
+translate brazilian Audrey_12_girl_48dfd8d1:
+
+    # ch_Name "How can I refuse such a request?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4600
+translate brazilian Audrey_12_girl_70864908:
+
+    # Audrey "Then hurry up and come in."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4602
+translate brazilian Audrey_12_girl_d3632296:
+
+    # ch_Name "You're so impatient."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4603
+translate brazilian Audrey_12_girl_76c07720:
+
+    # ch_Name "Do you not enjoy the moment of anticipation at all?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4604
+translate brazilian Audrey_12_girl_12d08e8e:
+
+    # Audrey "Less than I would enjoy your cock inside me."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4605
+translate brazilian Audrey_12_girl_88ce05c3:
+
+    # ch_Name "Fair enough."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4608
+translate brazilian Audrey_12_girl_3b476c8d_2:
+
+    # Audrey "Oh... ah... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4610
+translate brazilian Audrey_12_girl_fac02ba5_3:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4611
+translate brazilian Audrey_12_girl_a41ea034_1:
+
+    # ch_Name "{i}(I can feel the pleasure ripple through her body.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4612
+translate brazilian Audrey_12_girl_be588d4a_1:
+
+    # Audrey "Yes! Just like that!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4613
+translate brazilian Audrey_12_girl_730cfb2c_1:
+
+    # Audrey "So...{w} Good..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4614
+translate brazilian Audrey_12_girl_0ae9bcd0_7:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:4616
+translate brazilian Audrey_12_girl_3023ca42_1:
+
+    # Audrey "Don't stop! Fuck me harder!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4618
+translate brazilian Audrey_12_girl_ce96d05e_1:
+
+    # Audrey "Oh... Yes... That's it!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4619
+translate brazilian Audrey_12_girl_3b476c8d_3:
+
+    # Audrey "Oh... ah... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4620
+translate brazilian Audrey_12_girl_fac02ba5_4:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4621
+translate brazilian Audrey_12_girl_0ae9bcd0_8:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:4623
+translate brazilian Audrey_12_girl_fac02ba5_5:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4625
+translate brazilian Audrey_12_girl_2d5b0d4b:
+
+    # Audrey "Oh... ahh... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4626
+translate brazilian Audrey_12_girl_be588d4a_2:
+
+    # Audrey "Yes! Just like that!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4627
+translate brazilian Audrey_12_girl_730cfb2c_2:
+
+    # Audrey "So...{w} Good..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4635
+translate brazilian Audrey_12_girl_940239f6:
+
+    # ch_Name "{i}(I had an idea. I'm sure someone, and a succubus won't say no to me...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4636
+translate brazilian Audrey_12_girl_0f87bf4a:
+
+    # ch_Name "Audrey, here's an idea. How can I put this delicately..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4637
+translate brazilian Audrey_12_girl_2250bc9e:
+
+    # ch_Name "Would you like to try it in the ass?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4639
+translate brazilian Audrey_12_girl_4928e295:
+
+    # Audrey "I don't mind."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4640
+translate brazilian Audrey_12_girl_301ccd6a:
+
+    # Audrey "You don't have to be so subtle with me. Sex is in my nature."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4641
+translate brazilian Audrey_12_girl_b8a06f40:
+
+    # Audrey "So stop squirming."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4642
+translate brazilian Audrey_12_girl_b471074f:
+
+    # Audrey "You better come in my ass with your massive cock, [Name]!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4644
+translate brazilian Audrey_12_girl_ce804928_1:
+
+    # ch_Name "Here I go!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4646
+translate brazilian Audrey_12_girl_fac02ba5_6:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4648
+translate brazilian Audrey_12_girl_3b476c8d_4:
+
+    # Audrey "Oh... ah... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4649
+translate brazilian Audrey_12_girl_fac02ba5_7:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4650
+translate brazilian Audrey_12_girl_f97e88f9:
+
+    # ch_Name "{i}(Her ass is so tight...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4652
+translate brazilian Audrey_12_girl_be588d4a_3:
+
+    # Audrey "Yes! Just like that!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4654
+translate brazilian Audrey_12_girl_730cfb2c_3:
+
+    # Audrey "So...{w} Good..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4655
+translate brazilian Audrey_12_girl_3b476c8d_5:
+
+    # Audrey "Oh... ah... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4656
+translate brazilian Audrey_12_girl_fac02ba5_8:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4658
+translate brazilian Audrey_12_girl_3023ca42_2:
+
+    # Audrey "Don't stop! Fuck me harder!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4660
+translate brazilian Audrey_12_girl_ce96d05e_2:
+
+    # Audrey "Oh... Yes... That's it!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4661
+translate brazilian Audrey_12_girl_3b476c8d_6:
+
+    # Audrey "Oh... ah... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4662
+translate brazilian Audrey_12_girl_fac02ba5_9:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4665
+translate brazilian Audrey_12_girl_c7ebc4c3:
+
+    # ch_Name "I'm going to cum..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4666
+translate brazilian Audrey_12_girl_b294fd28:
+
+    # Audrey "Me too!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4671
+translate brazilian Audrey_12_girl_e3b353c1:
+
+    # ch_Name "I'm cuming!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4673
+translate brazilian Audrey_12_girl_d398ecdf:
+
+    # Audrey "Oh yeah, come on!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4674
+translate brazilian Audrey_12_girl_69d272c2:
+
+    # ch_Name "Unbelievable..." with flash
+    ch_Name "" with flash
+
+# game/logic/events/audrey.rpy:4676
+translate brazilian Audrey_12_girl_0dc3c7b3:
+
+    # ch_Name "Oh... ah..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4677
+translate brazilian Audrey_12_girl_a723dfe8:
+
+    # Audrey "Ahh..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4678
+translate brazilian Audrey_12_girl_d72592f0:
+
+    # Audrey "Oh yes, that was beautiful."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4680
+translate brazilian Audrey_12_girl_eec301e9:
+
+    # ch_Name "Are you satisfied?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4681
+translate brazilian Audrey_12_girl_67cea4e1:
+
+    # Audrey "I'm sure I am... Look at all that sperm."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4682
+translate brazilian Audrey_12_girl_5350d6ff:
+
+    # Audrey "You filled me up to the brim."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4683
+translate brazilian Audrey_12_girl_0264e1aa:
+
+    # ch_Name "That's nice."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4685
+translate brazilian Audrey_12_girl_5820c699:
+
+    # Audrey "That was really good."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4686
+translate brazilian Audrey_12_girl_435769f7:
+
+    # Audrey "I haven't had sex like that in a long time."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4688
+translate brazilian Audrey_12_girl_9298a03d:
+
+    # Audrey "No man has ever lasted this long with me..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4689
+translate brazilian Audrey_12_girl_458e53d8:
+
+    # ch_Name "I'm not a normal person."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4690
+translate brazilian Audrey_12_girl_e5e9f106:
+
+    # Audrey "That's for sure. You're just cosmic!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4691
+translate brazilian Audrey_12_girl_11b5d21a:
+
+    # ch_Name "{i}(I knew she wasn't such a bitch.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4692
+translate brazilian Audrey_12_girl_b379b3b2:
+
+    # ch_Name "{i}(She just needed quality sex.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4695
+translate brazilian Audrey_12_girl_4902deb4:
+
+    # ch_Name "I think I'm going to cum."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4696
+translate brazilian Audrey_12_girl_23efb7e2:
+
+    # Audrey "Not in me!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4698
+translate brazilian Audrey_12_girl_7f5798f8:
+
+    # ch_Name "Okay!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4699
+translate brazilian Audrey_12_girl_b6bdef17:
+
+    # ch_Name "But you're going to get dirty!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4701
+translate brazilian Audrey_12_girl_22650fa0:
+
+    # Audrey "Oh yeah, get your cum all over me." with flash
+    Audrey "" with flash
+
+# game/logic/events/audrey.rpy:4702
+translate brazilian Audrey_12_girl_53f0a497:
+
+    # ch_Name "Ah..." with flash
+    ch_Name "" with flash
+
+# game/logic/events/audrey.rpy:4704
+translate brazilian Audrey_12_girl_ba6048d2:
+
+    # Audrey "That's it? I was expecting more."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4705
+translate brazilian Audrey_12_girl_dfbb0956:
+
+    # ch_Name "Not yet..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4707
+translate brazilian Audrey_12_girl_271ec625:
+
+    # ch_Name "Incoming!" with flash
+    ch_Name "" with flash
+
+# game/logic/events/audrey.rpy:4708
+translate brazilian Audrey_12_girl_b3b57717:
+
+    # ch_Name "Oh, yes!" with flash
+    ch_Name "" with flash
+
+# game/logic/events/audrey.rpy:4710
+translate brazilian Audrey_12_girl_23d45e61:
+
+    # ch_Name "That's so..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4711
+translate brazilian Audrey_12_girl_eee686cf_4:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4712
+translate brazilian Audrey_12_girl_d72592f0_1:
+
+    # Audrey "Oh yes, that was beautiful."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4714
+translate brazilian Audrey_12_girl_eec301e9_1:
+
+    # ch_Name "Are you satisfied?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4715
+translate brazilian Audrey_12_girl_e7c6f1a7:
+
+    # Audrey "I'm sure I am. Look at all that sperm."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4716
+translate brazilian Audrey_12_girl_3966dd00:
+
+    # Audrey "You made quite a mess."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4717
+translate brazilian Audrey_12_girl_626ee993:
+
+    # ch_Name "That's good."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4718
+translate brazilian Audrey_12_girl_b517f028:
+
+    # ch_Name "I told you it would work."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4719
+translate brazilian Audrey_12_girl_5820c699_1:
+
+    # Audrey "That was really good."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4721
+translate brazilian Audrey_12_girl_9bc6ac1b:
+
+    # Audrey "No man has ever lasted that long with me..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4722
+translate brazilian Audrey_12_girl_458e53d8_1:
+
+    # ch_Name "I'm not a normal person."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4723
+translate brazilian Audrey_12_girl_e5e9f106_1:
+
+    # Audrey "That's for sure. You're just cosmic!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4724
+translate brazilian Audrey_12_girl_11b5d21a_1:
+
+    # ch_Name "{i}(I knew she wasn't such a bitch.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4725
+translate brazilian Audrey_12_girl_b379b3b2_1:
+
+    # ch_Name "{i}(She just needed quality sex.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4728
+translate brazilian Audrey_12_girl_4902deb4_1:
+
+    # ch_Name "I think I'm going to cum."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4729
+translate brazilian Audrey_12_girl_1e99da80:
+
+    # Audrey "Me too... Let's cum together. Don't take it out!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4731
+translate brazilian Audrey_12_girl_b510ad9f:
+
+    # ch_Name "But..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4732
+translate brazilian Audrey_12_girl_2aadc5a1:
+
+    # Audrey "Don't take it out!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4733
+translate brazilian Audrey_12_girl_0dc3c7b3_1:
+
+    # ch_Name "Oh... ah..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4736
+translate brazilian Audrey_12_girl_a723dfe8_1:
+
+    # Audrey "Ahh..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4737
+translate brazilian Audrey_12_girl_d72592f0_2:
+
+    # Audrey "Oh yes, that was beautiful."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4738
+translate brazilian Audrey_12_girl_eec301e9_2:
+
+    # ch_Name "Are you satisfied?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4740
+translate brazilian Audrey_12_girl_67cea4e1_1:
+
+    # Audrey "I'm sure I am... Look at all that sperm."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4741
+translate brazilian Audrey_12_girl_5350d6ff_1:
+
+    # Audrey "You filled me up to the brim."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4742
+translate brazilian Audrey_12_girl_626ee993_1:
+
+    # ch_Name "That's good."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4743
+translate brazilian Audrey_12_girl_b517f028_1:
+
+    # ch_Name "I told you it would work."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4745
+translate brazilian Audrey_12_girl_5820c699_2:
+
+    # Audrey "That was really good."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4746
+translate brazilian Audrey_12_girl_9bc6ac1b_1:
+
+    # Audrey "No man has ever lasted that long with me..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4747
+translate brazilian Audrey_12_girl_458e53d8_2:
+
+    # ch_Name "I'm not a normal person."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4748
+translate brazilian Audrey_12_girl_e5e9f106_2:
+
+    # Audrey "That's for sure. You're just cosmic!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4750
+translate brazilian Audrey_12_girl_11b5d21a_2:
+
+    # ch_Name "{i}(I knew she wasn't such a bitch.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4751
+translate brazilian Audrey_12_girl_b379b3b2_2:
+
+    # ch_Name "{i}(She just needed quality sex.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4754
+translate brazilian Audrey_12_girl_4902deb4_2:
+
+    # ch_Name "I think I'm going to cum."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4755
+translate brazilian Audrey_12_girl_23efb7e2_1:
+
+    # Audrey "Not in me!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4756
+translate brazilian Audrey_12_girl_7f5798f8_1:
+
+    # ch_Name "Okay!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4758
+translate brazilian Audrey_12_girl_b6bdef17_1:
+
+    # ch_Name "But you're going to get dirty!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4759
+translate brazilian Audrey_12_girl_d12656e1:
+
+    # Audrey "Oh yeah, get your cum all over me."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4761
+translate brazilian Audrey_12_girl_8c41bb6f_1:
+
+    # ch_Name "Ah..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4762
+translate brazilian Audrey_12_girl_ba6048d2_1:
+
+    # Audrey "That's it? I was expecting more."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4764
+translate brazilian Audrey_12_girl_dfbb0956_1:
+
+    # ch_Name "Not yet..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4765
+translate brazilian Audrey_12_girl_5b4fa64c:
+
+    # ch_Name "Incoming!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4767
+translate brazilian Audrey_12_girl_c5702309:
+
+    # ch_Name "Oh, yes!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4768
+translate brazilian Audrey_12_girl_23d45e61_1:
+
+    # ch_Name "That's so..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4770
+translate brazilian Audrey_12_girl_eee686cf_5:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4771
+translate brazilian Audrey_12_girl_d72592f0_3:
+
+    # Audrey "Oh yes, that was beautiful."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4772
+translate brazilian Audrey_12_girl_eec301e9_3:
+
+    # ch_Name "Are you satisfied?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4773
+translate brazilian Audrey_12_girl_e7c6f1a7_1:
+
+    # Audrey "I'm sure I am. Look at all that sperm."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4775
+translate brazilian Audrey_12_girl_3966dd00_1:
+
+    # Audrey "You made quite a mess."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4776
+translate brazilian Audrey_12_girl_3f5f67bf:
+
+    # ch_Name "Well, if it wasn't for your help."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4777
+translate brazilian Audrey_12_girl_00f7b36c:
+
+    # ch_Name "I could not do that much."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4778
+translate brazilian Audrey_12_girl_fdd093fc:
+
+    # Audrey "Anyway. That was really good."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4780
+translate brazilian Audrey_12_girl_9bc6ac1b_2:
+
+    # Audrey "No man has ever lasted that long with me..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4781
+translate brazilian Audrey_12_girl_458e53d8_3:
+
+    # ch_Name "I'm not a normal person."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4782
+translate brazilian Audrey_12_girl_e5e9f106_3:
+
+    # Audrey "That's for sure. You're just cosmic!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4783
+translate brazilian Audrey_12_girl_11b5d21a_3:
+
+    # ch_Name "{i}(I knew she wasn't such a bitch.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4784
+translate brazilian Audrey_12_girl_b379b3b2_3:
+
+    # ch_Name "{i}(She just needed quality sex.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4793
+translate brazilian Audrey_12_girl_4a3393b1:
+
+    # ch_Name "I had a great time today, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4794
+translate brazilian Audrey_12_girl_4a7195ef:
+
+    # ch_Name "Thank you for trusting me."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4795
+translate brazilian Audrey_12_girl_0daad536:
+
+    # Audrey "You proved it wasn't all for nothing."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4796
+translate brazilian Audrey_12_girl_c69bfafe:
+
+    # Audrey "I'm sorry I was rude to you."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4798
+translate brazilian Audrey_12_girl_2168492a:
+
+    # ch_Name "It's okay, it's no big deal."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4799
+translate brazilian Audrey_12_girl_42857a4f:
+
+    # ch_Name "Now I know who you really are."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4800
+translate brazilian Audrey_12_girl_0ed13c38:
+
+    # ch_Name "And I mean your soul, not your horns and wings."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4802
+translate brazilian Audrey_12_girl_90563c54:
+
+    # Audrey "[Name], I'll remind you just in case..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4803
+translate brazilian Audrey_12_girl_d132a57e:
+
+    # Audrey "No living soul can know about me."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4804
+translate brazilian Audrey_12_girl_27928042:
+
+    # Audrey "So drop all the horns and wings jokes, okay?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4806
+translate brazilian Audrey_12_girl_21f13639:
+
+    # ch_Name "You have my word."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4807
+translate brazilian Audrey_12_girl_c49fc413:
+
+    # ch_Name "No one will ever find out your secret from me."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4808
+translate brazilian Audrey_12_girl_64d87088:
+
+    # Audrey "Thank you. (chuckles)"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4809
+translate brazilian Audrey_12_girl_a5330969:
+
+    # Audrey "It was nice to be in your own skin for a change..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4811
+translate brazilian Audrey_12_girl_e969dc4f:
+
+    # ch_Name "It really suits you."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4812
+translate brazilian Audrey_12_girl_5f09da4e:
+
+    # ch_Name "I didn't realize succubi could be so beautiful..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4813
+translate brazilian Audrey_12_girl_5dc04459:
+
+    # Audrey "Stop it, you're flattering me..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4833
+translate brazilian fountain_flower_label_7e655ab3:
+
+    # ch_Name "{i}(Here it is...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4834
+translate brazilian fountain_flower_label_e70d75f2:
+
+    # ch_Name "{i}(Lunar nymphaea!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4835
+translate brazilian fountain_flower_label_0a490cac:
+
+    # ch_Name "{i}(I had no idea how beautiful it was.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4836
+translate brazilian fountain_flower_label_fa891ee5:
+
+    # ch_Name "{i}(It's even kind of pathetic to tear it down.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4837
+translate brazilian fountain_flower_label_af28fb9b:
+
+    # ch_Name "{i}(I hope Audrey is worth it!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4839
+translate brazilian fountain_flower_label_72be0cae:
+
+    # ch_Name "{i}(Whoa... I can feel it throbbing in my hands.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4840
+translate brazilian fountain_flower_label_249d0074:
+
+    # ch_Name "{i}(This flower is clearly full of magical energy.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4841
+translate brazilian fountain_flower_label_e3a7fa73:
+
+    # ch_Name "{i}(Now all I have to do is take it to potions practice.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4842
+translate brazilian fountain_flower_label_c5cda24b:
+
+    # ch_Name "{i}(And sneak it into the cauldron.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4843
+translate brazilian fountain_flower_label_74e8ca8c:
+
+    # ch_Name "{i}(I hope the book is right and that potion will work.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4844
+translate brazilian fountain_flower_label_b909a6fc:
+
+    # ch_Name "{i}(Let's see what you have to say about that, Audrey!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4846
+translate brazilian fountain_flower_label_0ae9bcd0:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:4848
+translate brazilian fountain_flower_label_0ae9bcd0_1:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:4865
+translate brazilian fountain_flower_label_cbb1eb21:
+
+    # ch_Name "{i}(Night had already fallen. Good.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4866
+translate brazilian fountain_flower_label_49f9f4cd:
+
+    # ch_Name "{i}(The flower I wanted should have appeared in the fountain by now.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4867
+translate brazilian fountain_flower_label_23546e54:
+
+    # ch_Name "{i}(Hmm, is it just me, or is the water in the fountain glowing?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4868
+translate brazilian fountain_flower_label_af99c784:
+
+    # ch_Name "{i}(This must be it!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4869
+translate brazilian fountain_flower_label_4eaf1b73:
+
+    # ch_Name "{i}(I'll go take a look.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4871
+translate brazilian fountain_flower_label_7e655ab3_1:
+
+    # ch_Name "{i}(Here it is...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4872
+translate brazilian fountain_flower_label_e70d75f2_1:
+
+    # ch_Name "{i}(Lunar nymphaea!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4873
+translate brazilian fountain_flower_label_0a490cac_1:
+
+    # ch_Name "{i}(I had no idea how beautiful it was.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4874
+translate brazilian fountain_flower_label_fa891ee5_1:
+
+    # ch_Name "{i}(It's even kind of pathetic to tear it down.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4875
+translate brazilian fountain_flower_label_af28fb9b_1:
+
+    # ch_Name "{i}(I hope Audrey is worth it!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4877
+translate brazilian fountain_flower_label_72be0cae_1:
+
+    # ch_Name "{i}(Whoa... I can feel it throbbing in my hands.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4878
+translate brazilian fountain_flower_label_249d0074_1:
+
+    # ch_Name "{i}(This flower is clearly full of magical energy.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4879
+translate brazilian fountain_flower_label_74e8ca8c_1:
+
+    # ch_Name "{i}(I hope the book is right and that potion will work.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4880
+translate brazilian fountain_flower_label_b909a6fc_1:
+
+    # ch_Name "{i}(Let's see what you have to say about that, Audrey!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4881
+translate brazilian fountain_flower_label_952a156a:
+
+    # ch_Name "{i}(All that's left to do is to brew that potion.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4882
+translate brazilian fountain_flower_label_a892b5ed:
+
+    # ch_Name "{i}(I hope Sabrina didn't lock her class tonight.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4883
+translate brazilian fountain_flower_label_e63d8170:
+
+    # ch_Name "{i}(Good thing she usually doesn't.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4885
+translate brazilian fountain_flower_label_49ca9e7c:
+
+    # ch_Name "{i}(If the potion I'm about to make works...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4886
+translate brazilian fountain_flower_label_24be0156:
+
+    # ch_Name "{i}(It might help solve not only my problem, but Samantha's problem as well.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4887
+translate brazilian fountain_flower_label_a6fa854f:
+
+    # ch_Name "{i}(And her magical ligaments won't be affected anymore.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4894
+translate brazilian fountain_flower_label_bc008e4a:
+
+    # ch_Name "{i}(Okay, I have all the right ingredients ready.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4895
+translate brazilian fountain_flower_label_204a9ebc:
+
+    # ch_Name "{i}(All that's left is to add them in time and mix them properly.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4896
+translate brazilian fountain_flower_label_02255bf2:
+
+    # ch_Name "{i}(Ugh, I've gotta be here for a couple more hours. I should have brought coffee.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4903
+translate brazilian fountain_flower_label_24b144e7:
+
+    # ch_Name "{i}(The potion had already acquired its characteristic color.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4904
+translate brazilian fountain_flower_label_63ea31a5:
+
+    # ch_Name "{i}(It's just as the book described.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4905
+translate brazilian fountain_flower_label_8304f1e3:
+
+    # ch_Name "{i}(I think it's ready!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4907
+translate brazilian fountain_flower_label_3a150603:
+
+    # ch_Name "{i}(It's so beautiful...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4908
+translate brazilian fountain_flower_label_57b52dd0:
+
+    # ch_Name "{i}(I hope it works.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4909
+translate brazilian fountain_flower_label_566596be:
+
+    # ch_Name "{i}(Okay, I'm done here. I just have to clean up the cauldron.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4916
+translate brazilian fountain_flower_label_cca92f79:
+
+    # ch_Name "{i}(Yeah, I'm not going to get much sleep tonight.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4917
+translate brazilian fountain_flower_label_769a4229:
+
+    # ch_Name "{i}(But it doesn't matter. I can't wait to tell Audrey about the potion.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4918
+translate brazilian fountain_flower_label_a1513a8d:
+
+    # ch_Name "{i}( I'm already anticipating her reaction...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4925
+translate brazilian fountain_flower_label_0f4c9072:
+
+    # ch_Name "{i}(Hmm, it's a pretty warm night.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4926
+translate brazilian fountain_flower_label_a9e0d615:
+
+    # ch_Name "{i}(Perfect weather for a walk.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4927
+translate brazilian fountain_flower_label_bb1c1969:
+
+    # ch_Name "{i}(Too bad I have to get up for class tomorrow.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4928
+translate brazilian fountain_flower_label_240f3a5d:
+
+    # ch_Name "{i}(So I could spend the whole night looking at the stars.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4935
+translate brazilian fountain_flower_label_0a134742:
+
+    # ch_Name "{i}(Everyone seems to be asleep by now. Yeah, that makes sense, it's late.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4936
+translate brazilian fountain_flower_label_fceaf601:
+
+    # ch_Name "{i}(Not everyone needs to be underground brewing dubious potions at night.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4937
+translate brazilian fountain_flower_label_52ac66e9:
+
+    # ch_Name "{i}(Is it just me, or is someone coming down the stairs?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4939
+translate brazilian fountain_flower_label_e546f8a5:
+
+    # ch_Name "{i}(That's Audrey! That's the woman behind my insomnia.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4940
+translate brazilian fountain_flower_label_7ed81b81:
+
+    # ch_Name "{i}(I wonder why she's awake.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4941
+translate brazilian fountain_flower_label_b8c36ae3:
+
+    # ch_Name "{i}(Maybe she sensed that I was preparing a surprise for her.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4943
+translate brazilian fountain_flower_label_fac0a734:
+
+    # ch_Name "Audrey, hi!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4944
+translate brazilian fountain_flower_label_0bff204f:
+
+    # Audrey "Um... [Name], what are you doing here?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4945
+translate brazilian fountain_flower_label_7e7aa6ab:
+
+    # ch_Name "Last time I checked, I was living here."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4946
+translate brazilian fountain_flower_label_0867e8d3:
+
+    # Audrey "Very funny. I mean now, at night."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4947
+translate brazilian fountain_flower_label_fedf33c3:
+
+    # ch_Name "Getting ready to give you a good feeding."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4949
+translate brazilian fountain_flower_label_ca85fa68:
+
+    # Audrey "Why are you so sure of yourself all of a sudden?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4950
+translate brazilian fountain_flower_label_0992c79c:
+
+    # Audrey "I think I stayed hungry last time."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4951
+translate brazilian fountain_flower_label_540cbef7:
+
+    # ch_Name "Last time I wasn't ready."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4952
+translate brazilian fountain_flower_label_8b0cc80d:
+
+    # ch_Name "But this time I've got something up my sleeve."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4954
+translate brazilian fountain_flower_label_e8527e3b:
+
+    # Audrey "Really? Hmm... I was just about to have a \"snack\"."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4955
+translate brazilian fountain_flower_label_da705bc0:
+
+    # Audrey "But where?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4956
+translate brazilian fountain_flower_label_63932207:
+
+    # Audrey "Samantha sleeps in my room and yours has thin walls."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4957
+translate brazilian fountain_flower_label_86db8cc7:
+
+    # ch_Name "The weather outside is great. Why don't we go for a walk?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4958
+translate brazilian fountain_flower_label_fb8dde39:
+
+    # Audrey "I know a place... But no, it's a secret..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4959
+translate brazilian fountain_flower_label_01220186:
+
+    # ch_Name "Come on, I won't tell anyone."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4961
+translate brazilian fountain_flower_label_db3a926f:
+
+    # Audrey "Don't you dare, do you hear me?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4962
+translate brazilian fountain_flower_label_7387d8d8:
+
+    # ch_Name "Audrey, you've trusted me with more than that, so..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4963
+translate brazilian fountain_flower_label_c35cec39:
+
+    # ch_Name "I promise all your secrets will stay secrets."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4964
+translate brazilian fountain_flower_label_b426b834:
+
+    # Audrey "Alright."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4966
+translate brazilian fountain_flower_label_786a381f:
+
+    # Audrey "Okay, uh... Follow me."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4967
+translate brazilian fountain_flower_label_74ebce9c:
+
+    # ch_Name "Sure."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4968
+translate brazilian fountain_flower_label_3f408438:
+
+    # Audrey "I really hope you won't let me down this time."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4969
+translate brazilian fountain_flower_label_f2a2ca05:
+
+    # ch_Name "Trust me, baby, it's all under control."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4979
+translate brazilian Audrey_12_shemale_5b2ff39f:
+
+    # ch_Name "{i}(Whoa, am I really seeing this, or am I dreaming?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4980
+translate brazilian Audrey_12_shemale_8f7e439c:
+
+    # ch_Name "{i}(Wow...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4981
+translate brazilian Audrey_12_shemale_21cd667f:
+
+    # ch_Name "{i}(Is that... Audrey?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4982
+translate brazilian Audrey_12_shemale_473417b9:
+
+    # ch_Name "Unbelievable!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4984
+translate brazilian Audrey_12_shemale_4f05a2f9:
+
+    # ch_Name "{i}(Holy shit, she can fly too?!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4985
+translate brazilian Audrey_12_shemale_bedeac44:
+
+    # ch_Name "{i}(This is the creature that sleeps under the same roof?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4986
+translate brazilian Audrey_12_shemale_cdce1f19:
+
+    # ch_Name "{i}(In the same room with Samantha?!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4988
+translate brazilian Audrey_12_shemale_8f3ca40b:
+
+    # Audrey "Well, I see you're speechless..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4989
+translate brazilian Audrey_12_shemale_a4e7375c:
+
+    # Audrey "It's not what you were expecting, is it?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4990
+translate brazilian Audrey_12_shemale_e3f47042:
+
+    # ch_Name "My brain is about to explode."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4991
+translate brazilian Audrey_12_shemale_3257dca0:
+
+    # ch_Name "I... I... I don't even know how to respond."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4993
+translate brazilian Audrey_12_shemale_6d0c2288:
+
+    # ch_Name "Audrey? Is that really still you?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:4994
+translate brazilian Audrey_12_shemale_9966536b:
+
+    # Audrey "Ah-ha-ha..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4995
+translate brazilian Audrey_12_shemale_c4dbe8bb:
+
+    # Audrey "Of course it is, silly."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4997
+translate brazilian Audrey_12_shemale_849762af:
+
+    # Audrey "I told you, you have no idea what you're asking for."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4998
+translate brazilian Audrey_12_shemale_1ccddc38:
+
+    # Audrey "Do you see why we couldn't do this on campus?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:4999
+translate brazilian Audrey_12_shemale_e0c221ab:
+
+    # ch_Name "Yeah, well..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5000
+translate brazilian Audrey_12_shemale_ae7ddc02:
+
+    # ch_Name "I do now."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5002
+translate brazilian Audrey_12_shemale_7a597414:
+
+    # Audrey "So, what's your verdict?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5003
+translate brazilian Audrey_12_shemale_b28cbe1e:
+
+    # Audrey "You wanted to see a succubus without a disguise..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5004
+translate brazilian Audrey_12_shemale_897879d5:
+
+    # Audrey "Do you like what you see?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5005
+translate brazilian Audrey_12_shemale_a280b908:
+
+    # ch_Name "{i}(Oh, I don't even know how to say it...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5007
+translate brazilian Audrey_12_shemale_e675af2e:
+
+    # ch_Name "Audrey, I..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5011
+translate brazilian Audrey_12_shemale_5c67683c:
+
+    # ch_Name "To be honest, I'm shocked."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5013
+translate brazilian Audrey_12_shemale_b7bafe8c:
+
+    # ch_Name "Now I understand why you have such a character."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5014
+translate brazilian Audrey_12_shemale_574434a8:
+
+    # ch_Name "It's like your inner world has come out."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5015
+translate brazilian Audrey_12_shemale_d31d2cfe:
+
+    # ch_Name "It's as black and monstrous as your character."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5016
+translate brazilian Audrey_12_shemale_a6deaa6e:
+
+    # ch_Name "Nothing can happen between us."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5018
+translate brazilian Audrey_12_shemale_423750cb:
+
+    # Audrey "You miserable, miserable man."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5019
+translate brazilian Audrey_12_shemale_afb00367:
+
+    # Audrey "How dare you say that?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5020
+translate brazilian Audrey_12_shemale_64eb20d2:
+
+    # Audrey "You're the one who asked me to show you what I am..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5021
+translate brazilian Audrey_12_shemale_22139128:
+
+    # Audrey "You've been pestering me all this time."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5023
+translate brazilian Audrey_12_shemale_b368d3d5:
+
+    # Audrey "I'll tear you to pieces, you bitch!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5024
+translate brazilian Audrey_12_shemale_4c2eaf99:
+
+    # ch_Name "Ahh. You swore you wouldn't hurt me."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5025
+translate brazilian Audrey_12_shemale_d8f5403d:
+
+    # ch_Name "Your secret's safe with me. I'll keep my vow."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5026
+translate brazilian Audrey_12_shemale_ab46866e:
+
+    # ch_Name "But stay away from me and Samantha!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5028
+translate brazilian Audrey_12_shemale_c09ec753:
+
+    # Audrey "A-r-r..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5029
+translate brazilian Audrey_12_shemale_4dccc388:
+
+    # Audrey "You don't tell me what to do!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5030
+translate brazilian Audrey_12_shemale_277561ef:
+
+    # Audrey "And you don't take Samantha away from me!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5031
+translate brazilian Audrey_12_shemale_6e4ed686:
+
+    # Audrey "You miserable worm!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5033
+translate brazilian Audrey_12_shemale_7d981829:
+
+    # Audrey "I could wipe you out any second!" with hpunch
+    Audrey "" with hpunch
+
+# game/logic/events/audrey.rpy:5034
+translate brazilian Audrey_12_shemale_1620a398:
+
+    # Audrey "Do you hear me?!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5035
+translate brazilian Audrey_12_shemale_15955bad:
+
+    # Audrey "Don't walk away from me! Don't leave me like this!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5036
+translate brazilian Audrey_12_shemale_c6cf0494:
+
+    # ch_Name "{i}(She won't do anything... She took an oath.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5038
+translate brazilian Audrey_12_shemale_e115a04f:
+
+    # ch_Name "{i}(This is just anger from powerlessness.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5039
+translate brazilian Audrey_12_shemale_9c34cafb:
+
+    # Audrey "Damn you to hell!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5040
+translate brazilian Audrey_12_shemale_46b2b1b2:
+
+    # Audrey "I'll find a way..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5041
+translate brazilian Audrey_12_shemale_c776e885:
+
+    # ch_Name "Ciao, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5042
+translate brazilian Audrey_12_shemale_ef10cd42:
+
+    # ch_Name "See you at the academy."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5043
+translate brazilian Audrey_12_shemale_9858b8f4:
+
+    # Audrey "A-r-r-r-!!!!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5049
+translate brazilian Audrey_12_shemale_a8caa653:
+
+    # ch_Name "I'm a little confused, I'm sorry."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5051
+translate brazilian Audrey_12_shemale_94882130:
+
+    # ch_Name "I'm very glad you trusted me and showed your true form."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5052
+translate brazilian Audrey_12_shemale_05b5faac:
+
+    # ch_Name "But could you go back to human form?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5053
+translate brazilian Audrey_12_shemale_89d9dcde:
+
+    # ch_Name "At least while we're having sex."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5055
+translate brazilian Audrey_12_shemale_fdca8d87:
+
+    # Audrey "I don't get it. What?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5056
+translate brazilian Audrey_12_shemale_772ec983:
+
+    # Audrey "First, you ask me to show you my body, and now you want me to hide it?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5057
+translate brazilian Audrey_12_shemale_f8af43b1:
+
+    # Audrey "Is it that ugly?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5058
+translate brazilian Audrey_12_shemale_df11571f:
+
+    # ch_Name "No! Not at all. I'm just more attracted to the human body as a human..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5060
+translate brazilian Audrey_12_shemale_b7caa5a8:
+
+    # Audrey "What are you, some kind of fucking racist?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5061
+translate brazilian Audrey_12_shemale_16a4e775:
+
+    # Audrey "What does that mean? \"More attractive than the human body\"..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5062
+translate brazilian Audrey_12_shemale_e0c56f94:
+
+    # Audrey "Look at me again and tell me that body doesn't drive you crazy..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5063
+translate brazilian Audrey_12_shemale_17b66340:
+
+    # ch_Name "Well..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5064
+translate brazilian Audrey_12_shemale_feccfcb7:
+
+    # Audrey "Unbelievable. I can't believe it."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5066
+translate brazilian Audrey_12_shemale_bac44722:
+
+    # Audrey "Anyway, it's either sex in its true form..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5067
+translate brazilian Audrey_12_shemale_90026885:
+
+    # Audrey "Or no sex at all."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5068
+translate brazilian Audrey_12_shemale_a9b9c00f:
+
+    # Audrey "It's your choice."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5069
+translate brazilian Audrey_12_shemale_b42cf19a:
+
+    # ch_Name "Oh... Okay, if that's the case."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5074
+translate brazilian Audrey_12_shemale_ecc03afe:
+
+    # ch_Name "The choice is obvious."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5075
+translate brazilian Audrey_12_shemale_c17eb71e:
+
+    # ch_Name "I'm sorry, but..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5076
+translate brazilian Audrey_12_shemale_568c04c4:
+
+    # ch_Name "I'm not gonna fuck \"that\"."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5078
+translate brazilian Audrey_12_shemale_7e939e9f:
+
+    # Audrey "How dare you talk about me like that?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5079
+translate brazilian Audrey_12_shemale_e1667830:
+
+    # Audrey "What do you think I am, some kind of thing?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5080
+translate brazilian Audrey_12_shemale_e3242935:
+
+    # Audrey "Do you think you don't hurt my feelings?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5081
+translate brazilian Audrey_12_shemale_752de286:
+
+    # ch_Name "I don't even know if you feel anything."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5082
+translate brazilian Audrey_12_shemale_cad62437:
+
+    # ch_Name "Good luck. I'm out of here."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5084
+translate brazilian Audrey_12_shemale_16eae8f7:
+
+    # Audrey "How dare you just turn around and walk away from me?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5085
+translate brazilian Audrey_12_shemale_f7b11b48:
+
+    # Audrey "Hey, asshole!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5086
+translate brazilian Audrey_12_shemale_464cf388:
+
+    # Audrey "Do you think you're so tough?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5087
+translate brazilian Audrey_12_shemale_92036923:
+
+    # Audrey "I could destroy you with a flap of my wing!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5088
+translate brazilian Audrey_12_shemale_bc8acf9c:
+
+    # ch_Name "You can't."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5089
+translate brazilian Audrey_12_shemale_3c6f36e5:
+
+    # ch_Name "You took an oath, remember?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5091
+translate brazilian Audrey_12_shemale_46bb0e07:
+
+    # Audrey "You little bastard..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5092
+translate brazilian Audrey_12_shemale_af15c365:
+
+    # Audrey "How do you dare manipulate me with my own words?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5093
+translate brazilian Audrey_12_shemale_974c3612:
+
+    # Audrey "Aren't you afraid that vows are worthless to succubi?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5094
+translate brazilian Audrey_12_shemale_88a4dab4:
+
+    # ch_Name "I think if they were worthless..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5095
+translate brazilian Audrey_12_shemale_30934b40:
+
+    # ch_Name "I would have felt it on my own skin by now."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5097
+translate brazilian Audrey_12_shemale_a9b8a3b5:
+
+    # ch_Name "All your anger is out of helplessness."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5098
+translate brazilian Audrey_12_shemale_9c34cafb_1:
+
+    # Audrey "Damn you to hell!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5099
+translate brazilian Audrey_12_shemale_46b2b1b2_1:
+
+    # Audrey "I'll find a way..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5100
+translate brazilian Audrey_12_shemale_c776e885_1:
+
+    # ch_Name "Ciao, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5101
+translate brazilian Audrey_12_shemale_ec160630:
+
+    # ch_Name "I'll see you at the academy."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5102
+translate brazilian Audrey_12_shemale_9858b8f4_1:
+
+    # Audrey "A-r-r-r-!!!!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5103
+translate brazilian Audrey_12_shemale_0ac8681a:
+
+    # ch_Name "{i}(I hope I didn't make a nemesis out of her.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5113
+translate brazilian Audrey_12_shemale_ee8b3479:
+
+    # ch_Name "I'm not going to lie, I was a little scared."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5114
+translate brazilian Audrey_12_shemale_d33f277e:
+
+    # ch_Name "With your whole authentic look and feel."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5115
+translate brazilian Audrey_12_shemale_e2974402:
+
+    # ch_Name "But you're even hotter than I thought."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5116
+translate brazilian Audrey_12_shemale_a4655b2b:
+
+    # ch_Name "I'd be honored to fuck you good."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5118
+translate brazilian Audrey_12_shemale_7eca34d4:
+
+    # Audrey "I knew you'd come around."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5119
+translate brazilian Audrey_12_shemale_69586e05:
+
+    # Audrey "After all, seduction is what succubi are famous for."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5120
+translate brazilian Audrey_12_shemale_7eb36ab3:
+
+    # Audrey "So, are you ready?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5121
+translate brazilian Audrey_12_shemale_d89b62d5:
+
+    # ch_Name "You bet I am."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5123
+translate brazilian Audrey_12_shemale_00328978:
+
+    # Audrey "Then hurry up and come see me."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5124
+translate brazilian Audrey_12_shemale_121d8149:
+
+    # Audrey "I'll show you that hell isn't just torture and torment."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5125
+translate brazilian Audrey_12_shemale_4ffdc2bc:
+
+    # Audrey "It's a much more voluptuous sin."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5126
+translate brazilian Audrey_12_shemale_45c1148d:
+
+    # ch_Name "Come on, let's see."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5127
+translate brazilian Audrey_12_shemale_4c4d7139:
+
+    # Audrey "Hee hee hee..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5129
+translate brazilian Audrey_12_shemale_5cd2b134:
+
+    # ch_Name "{i}(I never thought it would be like this.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5130
+translate brazilian Audrey_12_shemale_4a1d2000:
+
+    # ch_Name "{i}(Am I sure I'm not dreaming?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5131
+translate brazilian Audrey_12_shemale_3a19cedd:
+
+    # Audrey "What are you waiting for? Can't you work up the courage?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5132
+translate brazilian Audrey_12_shemale_28d7c5d1:
+
+    # ch_Name "No, I was just wondering... Sorry."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5134
+translate brazilian Audrey_12_shemale_632903aa:
+
+    # Audrey "It's okay. Samantha has a lot on her mind, too."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5135
+translate brazilian Audrey_12_shemale_9e10ce8c:
+
+    # Audrey "I think it's your upbringing."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5136
+translate brazilian Audrey_12_shemale_fc1441a6:
+
+    # ch_Name "Samantha? Let's not talk about her now..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5137
+translate brazilian Audrey_12_shemale_d65c1f7b:
+
+    # Audrey "You're right, all that matters now is you and me."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5139
+translate brazilian Audrey_12_shemale_4b87aa89:
+
+    # Audrey "Come here, be a good boy."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5140
+translate brazilian Audrey_12_shemale_d7494406:
+
+    # Audrey "I'm already cold without a man's warmth."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5141
+translate brazilian Audrey_12_shemale_f6731b6f:
+
+    # ch_Name "I'll fix that in a jiffy, baby."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5142
+translate brazilian Audrey_12_shemale_98e8c42d:
+
+    # ch_Name "{i}(Heh, so even succubi need warmth.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5144
+translate brazilian Audrey_12_shemale_be642570:
+
+    # Audrey "I've waited so long for this..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5145
+translate brazilian Audrey_12_shemale_65537304:
+
+    # Audrey "If you only knew how thirsty I am."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5146
+translate brazilian Audrey_12_shemale_1153d230:
+
+    # ch_Name "How so?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5148
+translate brazilian Audrey_12_shemale_6bb27be0:
+
+    # Audrey "I'd just drink you up to the last drop."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5149
+translate brazilian Audrey_12_shemale_559aaa97:
+
+    # Audrey "And I'm not talking about magic power right now."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5150
+translate brazilian Audrey_12_shemale_fc9c0993:
+
+    # ch_Name "Oh, good. I felt a little creepy for a second..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5151
+translate brazilian Audrey_12_shemale_5746200a:
+
+    # Audrey "Shut up and kiss me, fool."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5153
+translate brazilian Audrey_12_shemale_027b1c56:
+
+    # ch_Name "..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5154
+translate brazilian Audrey_12_shemale_fc11be4e:
+
+    # Audrey "Mmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5155
+translate brazilian Audrey_12_shemale_ee2167cc:
+
+    # ch_Name "Ohm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5156
+translate brazilian Audrey_12_shemale_63e6c0bb:
+
+    # ch_Name "{i}(Her lips are like a drug - impossible to tear away.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5158
+translate brazilian Audrey_12_shemale_1e63f781:
+
+    # ch_Name "{i}(And her tongue... What it does, oh, my God!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5159
+translate brazilian Audrey_12_shemale_8982e1c4:
+
+    # ch_Name "Mmm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5160
+translate brazilian Audrey_12_shemale_4e504c56:
+
+    # ch_Name "{i}(All succubi are so good at that?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5162
+translate brazilian Audrey_12_shemale_c2398695:
+
+    # Audrey "What do we have here..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5163
+translate brazilian Audrey_12_shemale_0f036acc:
+
+    # Audrey "I can't wait to get to know him better."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5164
+translate brazilian Audrey_12_shemale_48385abb:
+
+    # ch_Name "Oh, yeah, I'm all for it."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5167
+translate brazilian Audrey_12_shemale_e77f74d6:
+
+    # Audrey "Let me in. Let me make the connection..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5168
+translate brazilian Audrey_12_shemale_24e6ddab:
+
+    # Audrey "I'll be very careful."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5169
+translate brazilian Audrey_12_shemale_7d610d6a:
+
+    # Audrey "While I'm eating you."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5170
+translate brazilian Audrey_12_shemale_98e78526:
+
+    # ch_Name "Oh, wow... Exactly!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5172
+translate brazilian Audrey_12_shemale_8a4f5685:
+
+    # ch_Name "No, wait!" with hpunch
+    ch_Name "" with hpunch
+
+# game/logic/events/audrey.rpy:5173
+translate brazilian Audrey_12_shemale_831f6a52:
+
+    # Audrey "What now?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5174
+translate brazilian Audrey_12_shemale_3adedbae:
+
+    # ch_Name "It's great but wait a minute."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5175
+translate brazilian Audrey_12_shemale_8e9e4867:
+
+    # ch_Name "I just remembered something."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5177
+translate brazilian Audrey_12_shemale_d983d380:
+
+    # ch_Name "{i}(If I don't want to lose all my powers at the fun part...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5178
+translate brazilian Audrey_12_shemale_3cd722ba:
+
+    # ch_Name "{i}(I need to drink that potion I made for occasions like this.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5180
+translate brazilian Audrey_12_shemale_7c510fdf:
+
+    # ch_Name "{i}(Sabrina said that if you don't boil the lilies enough...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5181
+translate brazilian Audrey_12_shemale_1fce92da:
+
+    # ch_Name "{i}(They can poison you.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5182
+translate brazilian Audrey_12_shemale_6c3953f7:
+
+    # ch_Name "{i}(Well, I hope I did it right.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5185
+translate brazilian Audrey_12_shemale_4d6c2c78:
+
+    # Audrey "Oh, how long have you been there?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5188
+translate brazilian Audrey_12_shemale_027b1c56_1:
+
+    # ch_Name "..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5189
+translate brazilian Audrey_12_shemale_17b66340_1:
+
+    # ch_Name "Well..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5190
+translate brazilian Audrey_12_shemale_5a8c39dc:
+
+    # Audrey "Well, I can't wait any longer."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5192
+translate brazilian Audrey_12_shemale_6b9939b9:
+
+    # ch_Name "{i}(She doesn't waste any more time.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5193
+translate brazilian Audrey_12_shemale_4bb1f6be:
+
+    # ch_Name "Audrey, you..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5194
+translate brazilian Audrey_12_shemale_6d131869:
+
+    # Audrey "I'm helping you get into shape, handsome."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5195
+translate brazilian Audrey_12_shemale_9f1bf933:
+
+    # ch_Name "But I could do it myself..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5197
+translate brazilian Audrey_12_shemale_7d9a3cba:
+
+    # Audrey "Look, don't be sarcastic, okay?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5198
+translate brazilian Audrey_12_shemale_dc9de17a:
+
+    # Audrey "Just relax and have fun."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5200
+translate brazilian Audrey_12_shemale_739f2e0c:
+
+    # ch_Name "Oh... (chuckles)"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5201
+translate brazilian Audrey_12_shemale_0ae9bcd0:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:5202
+translate brazilian Audrey_12_shemale_ef712276:
+
+    # ch_Name "Oh, yeah, there you go."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5203
+translate brazilian Audrey_12_shemale_9ede5ef2:
+
+    # ch_Name "You know what you're doing, that's for sure."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5205
+translate brazilian Audrey_12_shemale_7c82de24:
+
+    # Audrey "Do you like the feel of my hand on it?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5206
+translate brazilian Audrey_12_shemale_318eb34f:
+
+    # Audrey "Just imagine what I could do with other parts of my body..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5207
+translate brazilian Audrey_12_shemale_91c48192:
+
+    # Audrey "Imagine it entering my mouth and resting against my throat."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5208
+translate brazilian Audrey_12_shemale_951c43bf:
+
+    # Audrey "Isn't that what you want?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5210
+translate brazilian Audrey_12_shemale_e675af2e_1:
+
+    # ch_Name "Audrey, I..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5211
+translate brazilian Audrey_12_shemale_0ae9bcd0_1:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:5212
+translate brazilian Audrey_12_shemale_d9edb7cc:
+
+    # ch_Name "I'm all over the place."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5213
+translate brazilian Audrey_12_shemale_029b92c6:
+
+    # ch_Name "Don't you want to make your ideas come true?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5215
+translate brazilian Audrey_12_shemale_73d95791:
+
+    # Audrey "I'd love to."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5216
+translate brazilian Audrey_12_shemale_0d639987:
+
+    # ch_Name "{i}(I can't believe this is actually happening.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5217
+translate brazilian Audrey_12_shemale_0e2870b5:
+
+    # ch_Name "{i}(Am I really about to get sucked off by a succubus?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5219
+translate brazilian Audrey_12_shemale_23ae8d43:
+
+    # Audrey "Oh, my! Impressive size." with vpunch
+    Audrey "" with vpunch
+
+# game/logic/events/audrey.rpy:5220
+translate brazilian Audrey_12_shemale_c4a53c85:
+
+    # Audrey "I'll have to work my jaw up to accommodate it."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5221
+translate brazilian Audrey_12_shemale_5832e9b4:
+
+    # Audrey "Let's give it a try..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5223
+translate brazilian Audrey_12_shemale_eee686cf:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5224
+translate brazilian Audrey_12_shemale_23632dcc:
+
+    # Audrey "Mmm, that's what I missed today."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5225
+translate brazilian Audrey_12_shemale_cc6725e3:
+
+    # ch_Name "I missed that, too."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5226
+translate brazilian Audrey_12_shemale_56f2ccda:
+
+    # ch_Name "{i}(She has such soulful eyes...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5228
+translate brazilian Audrey_12_shemale_2d7540d3:
+
+    # Audrey "Mm-hmm."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5229
+translate brazilian Audrey_12_shemale_6e4ee974:
+
+    # Audrey "..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5230
+translate brazilian Audrey_12_shemale_5f9667dc:
+
+    # ch_Name "Oh yeah, keep it up, baby!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5232
+translate brazilian Audrey_12_shemale_a5a50883:
+
+    # ch_Name "That's what you need."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5233
+translate brazilian Audrey_12_shemale_eaa9ce6d:
+
+    # Audrey "Mmmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5234
+translate brazilian Audrey_12_shemale_d6bd797e:
+
+    # ch_Name "(She works her tongue so hard.)"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5235
+translate brazilian Audrey_12_shemale_bc78cbce:
+
+    # ch_Name "(You can tell she's a professional.)"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5236
+translate brazilian Audrey_12_shemale_0ae9bcd0_2:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:5238
+translate brazilian Audrey_12_shemale_fc11be4e_1:
+
+    # Audrey "Mmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5239
+translate brazilian Audrey_12_shemale_22e23b6b:
+
+    # ch_Name "Baby, you're so good."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5240
+translate brazilian Audrey_12_shemale_4ec2d15e:
+
+    # ch_Name "Don't stop."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5241
+translate brazilian Audrey_12_shemale_02bfe5d0:
+
+    # ch_Name "Ahh..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5242
+translate brazilian Audrey_12_shemale_0ae9bcd0_3:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:5244
+translate brazilian Audrey_12_shemale_f50fdef5:
+
+    # Audrey "Hmmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5245
+translate brazilian Audrey_12_shemale_34d536cb:
+
+    # ch_Name "Oh, yeah, that's it."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5246
+translate brazilian Audrey_12_shemale_58299595:
+
+    # ch_Name "It's just perfect..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5248
+translate brazilian Audrey_12_shemale_1512d56a:
+
+    # ch_Name "Except maybe you could go a little deeper?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5250
+translate brazilian Audrey_12_shemale_8e4a6377:
+
+    # Audrey "Is that a challenge? Of course, I could go deeper."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5251
+translate brazilian Audrey_12_shemale_9ffbc0c7:
+
+    # ch_Name "So what are you waiting for?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5252
+translate brazilian Audrey_12_shemale_96299770:
+
+    # Audrey "I just wanted to extend the pleasure."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5253
+translate brazilian Audrey_12_shemale_641f1625:
+
+    # Audrey "But now you're asking for it!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5255
+translate brazilian Audrey_12_shemale_eee686cf_1:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5257
+translate brazilian Audrey_12_shemale_fc4ab722:
+
+    # ch_Name "Oh, yeah! That's what I'm talking about!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5258
+translate brazilian Audrey_12_shemale_8c41bb6f:
+
+    # ch_Name "Ah..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5259
+translate brazilian Audrey_12_shemale_fc11be4e_2:
+
+    # Audrey "Mmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5260
+translate brazilian Audrey_12_shemale_4803143a:
+
+    # ch_Name "Keep up the good work."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5261
+translate brazilian Audrey_12_shemale_0ae9bcd0_4:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:5263
+translate brazilian Audrey_12_shemale_ec277636:
+
+    # ch_Name "{i}(Never thought anybody could be that good at blowjobs...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5264
+translate brazilian Audrey_12_shemale_3b99df42:
+
+    # ch_Name "{i}(And every second she seems to get better and better.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5265
+translate brazilian Audrey_12_shemale_f3b38f37:
+
+    # ch_Name "{i}(Is that really how the succubus charms work?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5266
+translate brazilian Audrey_12_shemale_6937d660:
+
+    # ch_Name "Oh...."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5267
+translate brazilian Audrey_12_shemale_0ae9bcd0_5:
+
+    # ""
+    ""
+
+# game/logic/events/audrey.rpy:5269
+translate brazilian Audrey_12_shemale_eaa9ce6d_1:
+
+    # Audrey "Mmmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5270
+translate brazilian Audrey_12_shemale_662f49bd:
+
+    # ch_Name "Oh yeah..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5271
+translate brazilian Audrey_12_shemale_e5f1896c:
+
+    # ch_Name "That feels so good..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5272
+translate brazilian Audrey_12_shemale_eaa9ce6d_2:
+
+    # Audrey "Mmmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5275
+translate brazilian Audrey_12_shemale_eaa9ce6d_3:
+
+    # Audrey "Mmmm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5276
+translate brazilian Audrey_12_shemale_39d331e1:
+
+    # ch_Name "You are unbelievable, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5277
+translate brazilian Audrey_12_shemale_eee686cf_2:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5278
+translate brazilian Audrey_12_shemale_d855dab7:
+
+    # ch_Name "That feels so good."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5280
+translate brazilian Audrey_12_shemale_130cef29:
+
+    # Audrey "Okay, I can't listen to you moan anymore."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5281
+translate brazilian Audrey_12_shemale_9a30e0de:
+
+    # Audrey "And envy you."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5283
+translate brazilian Audrey_12_shemale_0afa72ed:
+
+    # Audrey "It's time for you to satisfy my needs."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5284
+translate brazilian Audrey_12_shemale_6132b368:
+
+    # Audrey "Don't you think?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5285
+translate brazilian Audrey_12_shemale_5cd932bb:
+
+    # ch_Name "I'd be honored."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5286
+translate brazilian Audrey_12_shemale_1e75aa77:
+
+    # ch_Name "I've only just realized how beautiful you are..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5288
+translate brazilian Audrey_12_shemale_02bae4e0:
+
+    # Audrey "Do you really think so?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5289
+translate brazilian Audrey_12_shemale_607cb63a:
+
+    # Audrey "Or are you willing to say anything just to dip your dick somewhere?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5290
+translate brazilian Audrey_12_shemale_18f51c59:
+
+    # ch_Name "{i}(Well, not just anything or anywhere...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5291
+translate brazilian Audrey_12_shemale_b684505f:
+
+    # ch_Name "I really think so."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5293
+translate brazilian Audrey_12_shemale_5f9bb8d5:
+
+    # ch_Name "You can see for yourself..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5294
+translate brazilian Audrey_12_shemale_ee10f87a:
+
+    # ch_Name "Let's start with the fact that you have perfect breasts."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5295
+translate brazilian Audrey_12_shemale_e328d08e:
+
+    # Audrey "Go on."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5297
+translate brazilian Audrey_12_shemale_296d79ed:
+
+    # ch_Name "They're the perfect size, they're firm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5298
+translate brazilian Audrey_12_shemale_b9271521:
+
+    # ch_Name "And the color of your skin drives me crazy."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5300
+translate brazilian Audrey_12_shemale_a53c35d5:
+
+    # Audrey "Yeah, I can tell that you like my breasts..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5301
+translate brazilian Audrey_12_shemale_199d306e:
+
+    # Audrey "But it's not just my boobs."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5302
+translate brazilian Audrey_12_shemale_d6f851ce:
+
+    # ch_Name "I'm sorry, it's just that right now they're occupying all my attention."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5303
+translate brazilian Audrey_12_shemale_eb5ae06a:
+
+    # Audrey "Men, that's what you are..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5305
+translate brazilian Audrey_12_shemale_54219727:
+
+    # Audrey "Let's just cut to the chase. I don't want anyone to catch us..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5306
+translate brazilian Audrey_12_shemale_9bd36686:
+
+    # Audrey "Get down on the floor."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5307
+translate brazilian Audrey_12_shemale_47687266:
+
+    # ch_Name "On the floor? It's cold out there..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5309
+translate brazilian Audrey_12_shemale_8bfba27f:
+
+    # Audrey "In case you haven't noticed, it's never cold around succubi. Lie down."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5310
+translate brazilian Audrey_12_shemale_80eedfd4:
+
+    # ch_Name "All right, whatever you say."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5311
+translate brazilian Audrey_12_shemale_e58b7ed5:
+
+    # Audrey "Good boy."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5317
+translate brazilian Audrey_12_shemale_28107154:
+
+    # ch_Name "Wait."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5318
+translate brazilian Audrey_12_shemale_308a0ba3:
+
+    # ch_Name "Before we go any further, I want to pay you back in kind."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5319
+translate brazilian Audrey_12_shemale_d09cf2cf:
+
+    # ch_Name "Which is to give you a good blow job!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5320
+translate brazilian Audrey_12_shemale_94a21781:
+
+    # Audrey "Hmm, that's..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5321
+translate brazilian Audrey_12_shemale_527be331:
+
+    # Audrey "That's not a bad idea."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5322
+translate brazilian Audrey_12_shemale_e56ffa21:
+
+    # ch_Name "I knew you'd like that idea."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5324
+translate brazilian Audrey_12_shemale_e05f7ea1:
+
+    # Audrey "Of course, you have such a pretty face."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5325
+translate brazilian Audrey_12_shemale_4d697191:
+
+    # Audrey "I've always wanted to see him with my cock in his mouth."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5326
+translate brazilian Audrey_12_shemale_ace38b56:
+
+    # Audrey "So it's time for you to get down on your knees, handsome."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5327
+translate brazilian Audrey_12_shemale_4d7588cd:
+
+    # ch_Name "Gladly."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5329
+translate brazilian Audrey_12_shemale_ca310ac8:
+
+    # ch_Name "Audrey, I have to tell you something."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5330
+translate brazilian Audrey_12_shemale_3ce20ace:
+
+    # Audrey "What's that?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5331
+translate brazilian Audrey_12_shemale_8784c768:
+
+    # ch_Name "You have the tastiest cock I've ever seen in my life."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5332
+translate brazilian Audrey_12_shemale_c7cf82f1:
+
+    # Audrey "Heh... It's waiting for you to caress it."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5334
+translate brazilian Audrey_12_shemale_76ba222b:
+
+    # ch_Name "{i}(I can't believe I decided to do this...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5335
+translate brazilian Audrey_12_shemale_6fbfd03e:
+
+    # ch_Name "{i}(Judging by the way he's standing, Audrey's horny to the max, too.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5337
+translate brazilian Audrey_12_shemale_b7bd51e9:
+
+    # ch_Name "{i}(I can already feel him throbbing in my mouth.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5338
+translate brazilian Audrey_12_shemale_3a5b38d0:
+
+    # Audrey "Oh yeah, that's it..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5340
+translate brazilian Audrey_12_shemale_a48200e0:
+
+    # ch_Name "Hmmm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5341
+translate brazilian Audrey_12_shemale_beb51e6f:
+
+    # Audrey "Oh, yeah, that's it."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5342
+translate brazilian Audrey_12_shemale_3e18401b:
+
+    # Audrey "Suck it, honey!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5343
+translate brazilian Audrey_12_shemale_44e573b8:
+
+    # Audrey "Don't stop!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5345
+translate brazilian Audrey_12_shemale_a48200e0_1:
+
+    # ch_Name "Hmmm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5346
+translate brazilian Audrey_12_shemale_41370479:
+
+    # ch_Name "{i}(Is it me or I'm really good at it?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5347
+translate brazilian Audrey_12_shemale_5700e8ad:
+
+    # Audrey "Oh yes! Just like that!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5348
+translate brazilian Audrey_12_shemale_f3f43ed7:
+
+    # ch_Name "{i}(I love to feel how it gets stiffer and stiffer each time I suck it.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5350
+translate brazilian Audrey_12_shemale_fac02ba5:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5351
+translate brazilian Audrey_12_shemale_3b476c8d:
+
+    # Audrey "Oh... ah... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5352
+translate brazilian Audrey_12_shemale_79cdc004:
+
+    # Audrey "Just like that!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5353
+translate brazilian Audrey_12_shemale_fac02ba5_1:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5355
+translate brazilian Audrey_12_shemale_b90aeba0:
+
+    # Audrey "We should do this more often."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5356
+translate brazilian Audrey_12_shemale_4832cb67:
+
+    # Audrey "You're a great blow job, [Name]."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5357
+translate brazilian Audrey_12_shemale_9196ecf4:
+
+    # Audrey "Will you give me some lessons?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5358
+translate brazilian Audrey_12_shemale_2f4382c4:
+
+    # ch_Name "Uhu..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5360
+translate brazilian Audrey_12_shemale_79cdc004_1:
+
+    # Audrey "Just like that!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5361
+translate brazilian Audrey_12_shemale_fac02ba5_2:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5362
+translate brazilian Audrey_12_shemale_95352e11:
+
+    # Audrey "So good..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5363
+translate brazilian Audrey_12_shemale_aed1bf6b:
+
+    # Audrey "I feel so good!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5365
+translate brazilian Audrey_12_shemale_e58c3466:
+
+    # Audrey "But now I want to feel your cock inside me."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5366
+translate brazilian Audrey_12_shemale_668fc881:
+
+    # Audrey "So let's get back to the action! Shall we?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5367
+translate brazilian Audrey_12_shemale_cbd63ed0:
+
+    # ch_Name "Alright."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5368
+translate brazilian Audrey_12_shemale_6385eb21:
+
+    # ch_Name "I had fun, now It's time to fuck you."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5371
+translate brazilian Audrey_12_shemale_06da1ba7:
+
+    # Audrey "Well, are you ready?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5372
+translate brazilian Audrey_12_shemale_fa107b6f:
+
+    # ch_Name "What a question - you cooked me yourself."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5373
+translate brazilian Audrey_12_shemale_2194a2fd:
+
+    # ch_Name "{i}(Still can't believe this is happening.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5374
+translate brazilian Audrey_12_shemale_9cb61b28:
+
+    # ch_Name "{i}(I didn't put up with her nasty temper for nothing.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5376
+translate brazilian Audrey_12_shemale_78002d40:
+
+    # Audrey "Maybe after tonight, you won't be able to..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5377
+translate brazilian Audrey_12_shemale_35d182b7:
+
+    # Audrey "...sleep with normal girls for a while."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5378
+translate brazilian Audrey_12_shemale_db337521:
+
+    # ch_Name "What? Why?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5379
+translate brazilian Audrey_12_shemale_014a0009:
+
+    # Audrey "They say no one seems good enough in bed after succubi."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5380
+translate brazilian Audrey_12_shemale_e582fd08:
+
+    # ch_Name "Oh... Huh, we'll see."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5381
+translate brazilian Audrey_12_shemale_586fcd4b:
+
+    # ch_Name "I can't get that ponytail out of my head."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5383
+translate brazilian Audrey_12_shemale_ba79ab84:
+
+    # Audrey "That one?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5384
+translate brazilian Audrey_12_shemale_1aca7351:
+
+    # ch_Name "Oh, yeah, it's so cute..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5385
+translate brazilian Audrey_12_shemale_e9ed3f25:
+
+    # ch_Name "I didn't think I could get excited about someone else's tail, but you did..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5386
+translate brazilian Audrey_12_shemale_3d2ab409:
+
+    # Audrey "Heh heh heh..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5387
+translate brazilian Audrey_12_shemale_9cf1bc2e:
+
+    # Audrey "Well, if that's the case..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5389
+translate brazilian Audrey_12_shemale_7e479568:
+
+    # Audrey "Would you like to get under my ponytail?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5390
+translate brazilian Audrey_12_shemale_0a25db02:
+
+    # ch_Name "{i}(What a divine sight!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5391
+translate brazilian Audrey_12_shemale_74dcadbf:
+
+    # ch_Name "{i}(Incredible beauty...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5392
+translate brazilian Audrey_12_shemale_59b71279:
+
+    # ch_Name "Of course, I do. Come here, hurry!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5394
+translate brazilian Audrey_12_shemale_7f52127f:
+
+    # Audrey "I can't wait either."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5395
+translate brazilian Audrey_12_shemale_d8448538:
+
+    # ch_Name "Oh, Audrey, I want you to ride me."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5396
+translate brazilian Audrey_12_shemale_937e47a3:
+
+    # ch_Name "I want to watch your wings shake as I go inside."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5397
+translate brazilian Audrey_12_shemale_e87787cf:
+
+    # Audrey "Oh, yeah, keep talking, you rascal."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5399
+translate brazilian Audrey_12_shemale_621507f3:
+
+    # ch_Name "I want to hold your horns while I pull your holes."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5400
+translate brazilian Audrey_12_shemale_6198a1f5:
+
+    # Audrey "Oh, that's it, I can't wait for another second..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5401
+translate brazilian Audrey_12_shemale_43b1b63a:
+
+    # Audrey "Take me, [Name]."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5403
+translate brazilian Audrey_12_shemale_d0c200cb:
+
+    # Audrey "Fuck me so hard you can hear me moan in hell!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5405
+translate brazilian Audrey_12_shemale_ce804928:
+
+    # ch_Name "Here I go!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5406
+translate brazilian Audrey_12_shemale_fac02ba5_3:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5408
+translate brazilian Audrey_12_shemale_3b476c8d_1:
+
+    # Audrey "Oh... ah... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5409
+translate brazilian Audrey_12_shemale_fac02ba5_4:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5411
+translate brazilian Audrey_12_shemale_a41ea034:
+
+    # ch_Name "{i}(I can feel the pleasure ripple through her body.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5412
+translate brazilian Audrey_12_shemale_be588d4a:
+
+    # Audrey "Yes! Just like that!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5414
+translate brazilian Audrey_12_shemale_730cfb2c:
+
+    # Audrey "So...{w} Good..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5415
+translate brazilian Audrey_12_shemale_4ee2d01e:
+
+    # Audrey "Mhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5417
+translate brazilian Audrey_12_shemale_3023ca42:
+
+    # Audrey "Don't stop! Fuck me harder!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5419
+translate brazilian Audrey_12_shemale_ce96d05e:
+
+    # Audrey "Oh... Yes... That's it!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5420
+translate brazilian Audrey_12_shemale_3b476c8d_2:
+
+    # Audrey "Oh... ah... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5421
+translate brazilian Audrey_12_shemale_fac02ba5_5:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5424
+translate brazilian Audrey_12_shemale_d5fb5922:
+
+    # Audrey "I want a new experience."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5425
+translate brazilian Audrey_12_shemale_ccc00493:
+
+    # ch_Name "Let's change positions."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5426
+translate brazilian Audrey_12_shemale_1baede1f:
+
+    # Audrey "That's a great idea!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5427
+translate brazilian Audrey_12_shemale_60ce84ff:
+
+    # Audrey "Now..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5429
+translate brazilian Audrey_12_shemale_35711c99:
+
+    # ch_Name "{i}(Ooh, she's insatiable.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5430
+translate brazilian Audrey_12_shemale_95423fc9:
+
+    # ch_Name "{i}(It's okay, with this potion, I'm strong enough to give her a good fuck.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5432
+translate brazilian Audrey_12_shemale_ff8041e1:
+
+    # Audrey "Take me from behind!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5433
+translate brazilian Audrey_12_shemale_48dfd8d1:
+
+    # ch_Name "How can I refuse such a request?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5434
+translate brazilian Audrey_12_shemale_9217432f:
+
+    # ch_Name "Get on all fours."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5435
+translate brazilian Audrey_12_shemale_c3c97cfa:
+
+    # Audrey "Just a second."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5437
+translate brazilian Audrey_12_shemale_ce804928_1:
+
+    # ch_Name "Here I go!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5439
+translate brazilian Audrey_12_shemale_fac02ba5_6:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5441
+translate brazilian Audrey_12_shemale_3b476c8d_3:
+
+    # Audrey "Oh... ah... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5442
+translate brazilian Audrey_12_shemale_fac02ba5_7:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5443
+translate brazilian Audrey_12_shemale_f97e88f9:
+
+    # ch_Name "{i}(Her ass is so tight...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5445
+translate brazilian Audrey_12_shemale_be588d4a_1:
+
+    # Audrey "Yes! Just like that!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5447
+translate brazilian Audrey_12_shemale_730cfb2c_1:
+
+    # Audrey "So...{w} Good..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5448
+translate brazilian Audrey_12_shemale_3b476c8d_4:
+
+    # Audrey "Oh... ah... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5449
+translate brazilian Audrey_12_shemale_fac02ba5_8:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5451
+translate brazilian Audrey_12_shemale_3023ca42_1:
+
+    # Audrey "Don't stop! Fuck me harder!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5453
+translate brazilian Audrey_12_shemale_ce96d05e_1:
+
+    # Audrey "Oh... Yes... That's it!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5454
+translate brazilian Audrey_12_shemale_3b476c8d_5:
+
+    # Audrey "Oh... ah... uhm..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5455
+translate brazilian Audrey_12_shemale_fac02ba5_9:
+
+    # ch_Name "Mhm..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5459
+translate brazilian Audrey_12_shemale_c7ebc4c3:
+
+    # ch_Name "I'm going to cum..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5460
+translate brazilian Audrey_12_shemale_b294fd28:
+
+    # Audrey "Me too!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5465
+translate brazilian Audrey_12_shemale_e3b353c1:
+
+    # ch_Name "I'm cuming!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5467
+translate brazilian Audrey_12_shemale_d398ecdf:
+
+    # Audrey "Oh yeah, come on!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5468
+translate brazilian Audrey_12_shemale_69d272c2:
+
+    # ch_Name "Unbelievable..." with flash
+    ch_Name "" with flash
+
+# game/logic/events/audrey.rpy:5470
+translate brazilian Audrey_12_shemale_0dc3c7b3:
+
+    # ch_Name "Oh... ah..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5471
+translate brazilian Audrey_12_shemale_a723dfe8:
+
+    # Audrey "Ahh..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5472
+translate brazilian Audrey_12_shemale_d72592f0:
+
+    # Audrey "Oh yes, that was beautiful."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5474
+translate brazilian Audrey_12_shemale_eec301e9:
+
+    # ch_Name "Are you satisfied?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5475
+translate brazilian Audrey_12_shemale_67cea4e1:
+
+    # Audrey "I'm sure I am... Look at all that sperm."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5476
+translate brazilian Audrey_12_shemale_5350d6ff:
+
+    # Audrey "You filled me up to the brim."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5477
+translate brazilian Audrey_12_shemale_0264e1aa:
+
+    # ch_Name "That's nice."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5479
+translate brazilian Audrey_12_shemale_5820c699:
+
+    # Audrey "That was really good."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5480
+translate brazilian Audrey_12_shemale_435769f7:
+
+    # Audrey "I haven't had sex like that in a long time."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5482
+translate brazilian Audrey_12_shemale_9298a03d:
+
+    # Audrey "No man has ever lasted this long with me..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5483
+translate brazilian Audrey_12_shemale_458e53d8:
+
+    # ch_Name "I'm not a normal person."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5484
+translate brazilian Audrey_12_shemale_e5e9f106:
+
+    # Audrey "That's for sure. You're just cosmic!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5485
+translate brazilian Audrey_12_shemale_11b5d21a:
+
+    # ch_Name "{i}(I knew she wasn't such a bitch.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5486
+translate brazilian Audrey_12_shemale_b379b3b2:
+
+    # ch_Name "{i}(She just needed quality sex.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5489
+translate brazilian Audrey_12_shemale_4902deb4:
+
+    # ch_Name "I think I'm going to cum."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5490
+translate brazilian Audrey_12_shemale_23efb7e2:
+
+    # Audrey "Not in me!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5492
+translate brazilian Audrey_12_shemale_7f5798f8:
+
+    # ch_Name "Okay!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5493
+translate brazilian Audrey_12_shemale_b6bdef17:
+
+    # ch_Name "But you're going to get dirty!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5495
+translate brazilian Audrey_12_shemale_22650fa0:
+
+    # Audrey "Oh yeah, get your cum all over me." with flash
+    Audrey "" with flash
+
+# game/logic/events/audrey.rpy:5496
+translate brazilian Audrey_12_shemale_8c41bb6f_1:
+
+    # ch_Name "Ah..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5498
+translate brazilian Audrey_12_shemale_ba6048d2:
+
+    # Audrey "That's it? I was expecting more."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5499
+translate brazilian Audrey_12_shemale_dfbb0956:
+
+    # ch_Name "Not yet..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5501
+translate brazilian Audrey_12_shemale_271ec625:
+
+    # ch_Name "Incoming!" with flash
+    ch_Name "" with flash
+
+# game/logic/events/audrey.rpy:5502
+translate brazilian Audrey_12_shemale_c5702309:
+
+    # ch_Name "Oh, yes!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5504
+translate brazilian Audrey_12_shemale_23d45e61:
+
+    # ch_Name "That's so..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5505
+translate brazilian Audrey_12_shemale_eee686cf_3:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5506
+translate brazilian Audrey_12_shemale_d72592f0_1:
+
+    # Audrey "Oh yes, that was beautiful."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5508
+translate brazilian Audrey_12_shemale_eec301e9_1:
+
+    # ch_Name "Are you satisfied?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5509
+translate brazilian Audrey_12_shemale_e7c6f1a7:
+
+    # Audrey "I'm sure I am. Look at all that sperm."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5510
+translate brazilian Audrey_12_shemale_3966dd00:
+
+    # Audrey "You made quite a mess."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5511
+translate brazilian Audrey_12_shemale_626ee993:
+
+    # ch_Name "That's good."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5512
+translate brazilian Audrey_12_shemale_b517f028:
+
+    # ch_Name "I told you it would work."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5513
+translate brazilian Audrey_12_shemale_5820c699_1:
+
+    # Audrey "That was really good."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5515
+translate brazilian Audrey_12_shemale_9bc6ac1b:
+
+    # Audrey "No man has ever lasted that long with me..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5516
+translate brazilian Audrey_12_shemale_458e53d8_1:
+
+    # ch_Name "I'm not a normal person."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5517
+translate brazilian Audrey_12_shemale_e5e9f106_1:
+
+    # Audrey "That's for sure. You're just cosmic!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5518
+translate brazilian Audrey_12_shemale_11b5d21a_1:
+
+    # ch_Name "{i}(I knew she wasn't such a bitch.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5519
+translate brazilian Audrey_12_shemale_b379b3b2_1:
+
+    # ch_Name "{i}(She just needed quality sex.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5523
+translate brazilian Audrey_12_shemale_e5f1896c_1:
+
+    # ch_Name "That feels so good..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5524
+translate brazilian Audrey_12_shemale_17aa4b25:
+
+    # Audrey "Me too. It feels incredible!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5525
+translate brazilian Audrey_12_shemale_b4f8be77:
+
+    # ch_Name "Watching you get so high, I even envy you."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5526
+translate brazilian Audrey_12_shemale_ee867021:
+
+    # ch_Name "What if we switched places, and you fucked me?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5528
+translate brazilian Audrey_12_shemale_9b8a5018:
+
+    # Audrey "Hmm, I hadn't even thought of that..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5529
+translate brazilian Audrey_12_shemale_f2ec6ebc:
+
+    # Audrey "[Name], that's a great idea!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5530
+translate brazilian Audrey_12_shemale_d7ed7932:
+
+    # ch_Name "Isn't it? Would you do that for me?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5531
+translate brazilian Audrey_12_shemale_f1cc7b0b:
+
+    # Audrey "Of course, I would. Get your ass ready!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5538
+translate brazilian Audrey_12_shemale_26693bdb:
+
+    # Audrey "Are you ready?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5539
+translate brazilian Audrey_12_shemale_cc917d64:
+
+    # ch_Name "Just a second..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5540
+translate brazilian Audrey_12_shemale_c6240092:
+
+    # ch_Name "It's my first time like this... Go easy on me, okay?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5542
+translate brazilian Audrey_12_shemale_c09e2cfe:
+
+    # Audrey "I'll try."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5543
+translate brazilian Audrey_12_shemale_6956321b:
+
+    # Audrey "But no promises."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5544
+translate brazilian Audrey_12_shemale_3fc7d205:
+
+    # Audrey "We'll see how it goes."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5545
+translate brazilian Audrey_12_shemale_3d555715:
+
+    # ch_Name "All right, I'm sure I can take any pressure you can get."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5547
+translate brazilian Audrey_12_shemale_56b7296f:
+
+    # ch_Name "{i}(I can feel it entering me... Unbelievable...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5549
+translate brazilian Audrey_12_shemale_eee686cf_4:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5550
+translate brazilian Audrey_12_shemale_38ef3825:
+
+    # ch_Name "Ah... Yes, that's it!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5551
+translate brazilian Audrey_12_shemale_39c8211e:
+
+    # ch_Name "That feels so good!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5552
+translate brazilian Audrey_12_shemale_89b9d75c:
+
+    # Audrey "Me too, baby!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5554
+translate brazilian Audrey_12_shemale_0dc3c7b3_1:
+
+    # ch_Name "Oh... ah..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5555
+translate brazilian Audrey_12_shemale_a723dfe8_1:
+
+    # Audrey "Ahh..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5556
+translate brazilian Audrey_12_shemale_84c0255f:
+
+    # Audrey "It's incredible, your anus is so tight!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5557
+translate brazilian Audrey_12_shemale_2ef49b28:
+
+    # ch_Name "I told you it was my first time..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5559
+translate brazilian Audrey_12_shemale_bb231118:
+
+    # Audrey "Should I be gentle?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5560
+translate brazilian Audrey_12_shemale_4de54647:
+
+    # ch_Name "No! Go on..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5561
+translate brazilian Audrey_12_shemale_0fe14052:
+
+    # Audrey "Alright!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5562
+translate brazilian Audrey_12_shemale_152b4e5d:
+
+    # ch_Name "Ah, yes, oh, yes!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5565
+translate brazilian Audrey_12_shemale_692affce:
+
+    # Audrey "Yeah... Oh..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5566
+translate brazilian Audrey_12_shemale_a630d1a3:
+
+    # Audrey "I'm going to cum soon!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5567
+translate brazilian Audrey_12_shemale_48b9a72d:
+
+    # ch_Name "Ah... AH!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5569
+translate brazilian Audrey_12_shemale_c7f3842a:
+
+    # ch_Name "Me too!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5570
+translate brazilian Audrey_12_shemale_e109656a:
+
+    # Audrey "Great, let's do it together!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5571
+translate brazilian Audrey_12_shemale_48b9a72d_1:
+
+    # ch_Name "Ah... AH!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5573
+translate brazilian Audrey_12_shemale_38ef3825_1:
+
+    # ch_Name "Ah... Yes, that's it!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5575
+translate brazilian Audrey_12_shemale_72033373:
+
+    # Audrey "Oh yes... Here I go!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5577
+translate brazilian Audrey_12_shemale_20c41f4c:
+
+    # Audrey "YES! FUCK!" with flash
+    Audrey "" with flash
+
+# game/logic/events/audrey.rpy:5578
+translate brazilian Audrey_12_shemale_354a2f62:
+
+    # Audrey "It feels so good! Oh shit..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5580
+translate brazilian Audrey_12_shemale_5e1e2d13:
+
+    # ch_Name "Ah, yes, oh, yes!" with flash
+    ch_Name "" with flash
+
+# game/logic/events/audrey.rpy:5581
+translate brazilian Audrey_12_shemale_70c8ba06:
+
+    # ch_Name "Wow... I never thought I could cum like this."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5582
+translate brazilian Audrey_12_shemale_55a3e910:
+
+    # ch_Name "That was awesome!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5584
+translate brazilian Audrey_12_shemale_66600f66:
+
+    # Audrey "I have to say, that was a great idea."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5585
+translate brazilian Audrey_12_shemale_ac736d95:
+
+    # Audrey "I've never experienced that with anyone..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5586
+translate brazilian Audrey_12_shemale_783a66d6:
+
+    # ch_Name "Neither have I."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5587
+translate brazilian Audrey_12_shemale_63f5f577:
+
+    # Audrey "Thank you for tonight, [Name]."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5589
+translate brazilian Audrey_12_shemale_3a5c7650:
+
+    # ch_Name "Thank you."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5590
+translate brazilian Audrey_12_shemale_9ee91d54:
+
+    # ch_Name "I never imagined that my body had so many possibilities."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5591
+translate brazilian Audrey_12_shemale_95fb5dee:
+
+    # ch_Name "So many ways to get pleasure."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5592
+translate brazilian Audrey_12_shemale_2afe07eb:
+
+    # Audrey "The possibilities for pleasure are endless."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5593
+translate brazilian Audrey_12_shemale_17d9b7db:
+
+    # ch_Name "We should probably pack up and head back to the academy."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5602
+translate brazilian Audrey_12_shemale_437cf317:
+
+    # ch_Name "I had a great time tonight, Audrey."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5603
+translate brazilian Audrey_12_shemale_4a7195ef:
+
+    # ch_Name "Thank you for trusting me."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5604
+translate brazilian Audrey_12_shemale_9d12ecca:
+
+    # Audrey "You proved that it wasn't all for nothing."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5605
+translate brazilian Audrey_12_shemale_c69bfafe:
+
+    # Audrey "I'm sorry I was rude to you."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5607
+translate brazilian Audrey_12_shemale_2168492a:
+
+    # ch_Name "It's okay, it's no big deal."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5608
+translate brazilian Audrey_12_shemale_42857a4f:
+
+    # ch_Name "Now I know who you really are."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5609
+translate brazilian Audrey_12_shemale_0ed13c38:
+
+    # ch_Name "And I mean your soul, not your horns and wings."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5611
+translate brazilian Audrey_12_shemale_90563c54:
+
+    # Audrey "[Name], I'll remind you just in case..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5612
+translate brazilian Audrey_12_shemale_d132a57e:
+
+    # Audrey "No living soul can know about me."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5613
+translate brazilian Audrey_12_shemale_27928042:
+
+    # Audrey "So drop all the horns and wings jokes, okay?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5615
+translate brazilian Audrey_12_shemale_21f13639:
+
+    # ch_Name "You have my word."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5616
+translate brazilian Audrey_12_shemale_c49fc413:
+
+    # ch_Name "No one will ever find out your secret from me."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5617
+translate brazilian Audrey_12_shemale_64d87088:
+
+    # Audrey "Thank you. (chuckles)"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5618
+translate brazilian Audrey_12_shemale_a5330969:
+
+    # Audrey "It was nice to be in your own skin for a change..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5620
+translate brazilian Audrey_12_shemale_e969dc4f:
+
+    # ch_Name "It really suits you."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5621
+translate brazilian Audrey_12_shemale_5f09da4e:
+
+    # ch_Name "I didn't realize succubi could be so beautiful..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5622
+translate brazilian Audrey_12_shemale_5dc04459:
+
+    # Audrey "Stop it, you're flattering me..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5634
+translate brazilian Audrey_13_label_42eff3f8:
+
+    # ch_Name "{i}(Gosh, I was so close.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5635
+translate brazilian Audrey_13_label_92245276:
+
+    # ch_Name "{i}(I can still feel her on my fingers.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5636
+translate brazilian Audrey_13_label_414598ac:
+
+    # ch_Name "{i}(Stupid fucking elves who distracted us...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5637
+translate brazilian Audrey_13_label_9b0e250d:
+
+    # ch_Name "{i}(To think Haley was ready to go all the way and that happed.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5638
+translate brazilian Audrey_13_label_9f77fb36:
+
+    # ch_Name "{i}(FUCK.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5639
+translate brazilian Audrey_13_label_56a3a200:
+
+    # ch_Name "{i}(I should go to sleep.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5640
+translate brazilian Audrey_13_label_c4edcc12:
+
+    # ch_Name "{i}(I'm too angry to do anything else anyway.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5648
+translate brazilian Audrey_13_label_b4c8c248:
+
+    # NoName "Ring-ring..."
+    NoName ""
+
+# game/logic/events/audrey.rpy:5649
+translate brazilian Audrey_13_label_b4f988de:
+
+    # ch_Name "{i}(Oh my God...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5652
+translate brazilian Audrey_13_label_e8bf95ce:
+
+    # ch_Name "{i}(When has waking up with the phone ringing become a kind of morning ritual?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5653
+translate brazilian Audrey_13_label_1bc539a3:
+
+    # ch_Name "{i}(It seems that I don't even have to set the alarm clock.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5654
+translate brazilian Audrey_13_label_770cdf55:
+
+    # ch_Name "{i}(Anyway, someone will definitely call and wake me up.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5656
+translate brazilian Audrey_13_label_9e2c25c7:
+
+    # ch_Name "Hey?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5657
+translate brazilian Audrey_13_label_643b7dab:
+
+    # Samantha "Hi, [Name]! I'm sorry to wake you up this early, but it is a matter of life and death."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5658
+translate brazilian Audrey_13_label_18dec291:
+
+    # ch_Name "What are you talking about? What's happened?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5659
+translate brazilian Audrey_13_label_edab15aa:
+
+    # Samantha "Not on the phone... Can you come to my room, please? We are here with Audrey."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5676
+translate brazilian Audrey_13_label_L_12_df75ad5a:
+
+    # ch_Name "With Audrey?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5677
+translate brazilian Audrey_13_label_L_12_a9c15799:
+
+    # ch_Name "No-no, I'll better pass. We kind of ended things on bad terms last time I saw her."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5678
+translate brazilian Audrey_13_label_L_12_5c4aa0a3:
+
+    # Samantha "Listen, [Name], I..."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5679
+translate brazilian Audrey_13_label_L_12_8170d976:
+
+    # ch_Name "Are you surprised? Sorry, but my day is just beginning. "
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5680
+translate brazilian Audrey_13_label_L_12_c0405fa2:
+
+    # ch_Name "I don't want it to be ruined because of someone’s rudeness."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5681
+translate brazilian Audrey_13_label_L_12_dfe8d228:
+
+    # Samantha "I know exactly how you feel. But Audrey... "
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5682
+translate brazilian Audrey_13_label_L_12_764a3423:
+
+    # Samantha "She said she got a strange message from succubus!"
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5683
+translate brazilian Audrey_13_label_L_12_af02121d:
+
+    # Samantha "You do know what that means, don't you?"
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5684
+translate brazilian Audrey_13_label_L_12_2b9aee68:
+
+    # ch_Name "Not really. What does it change?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5686
+translate brazilian Audrey_13_label_L_12_b0e1b544:
+
+    # Samantha "Audrey was sure that her civilization became extinct and she was the last succubus alive."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5687
+translate brazilian Audrey_13_label_L_12_94db2964:
+
+    # Samantha "But if someone sent her a letter then it means there are other survivors, at least one!"
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5688
+translate brazilian Audrey_13_label_L_12_80153131:
+
+    # Samantha "With that, she gets a chance to come back home again!"
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5689
+translate brazilian Audrey_13_label_L_12_c69b452e:
+
+    # ch_Name "That's pretty cool, but..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5690
+translate brazilian Audrey_13_label_L_12_6195ad76:
+
+    # ch_Name "What do I have to do with it?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5692
+translate brazilian Audrey_13_label_L_12_d3867512:
+
+    # Samantha "The thing is..."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5693
+translate brazilian Audrey_13_label_L_12_fd60298c:
+
+    # Samantha "I can't convince Audrey that it's better to meet this letter's author with her own eyes."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5694
+translate brazilian Audrey_13_label_L_12_da798702:
+
+    # Samantha "She doubts for no reason and I really don't know why."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5695
+translate brazilian Audrey_13_label_L_12_e9fa52c7:
+
+    # Samantha "I'm pretty sure about one thing, [Name]. Audrey needs us more than ever now."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5696
+translate brazilian Audrey_13_label_L_12_79bc6de7:
+
+    # Samantha "And whatever went on between the two of you... She is still your friend."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5697
+translate brazilian Audrey_13_label_L_12_936d5620:
+
+    # ch_Name "{i}(Well, maybe she's right. At least I will be there for Sam.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5698
+translate brazilian Audrey_13_label_L_12_dc7aa3ca:
+
+    # ch_Name "Okay. I'll come in a few minutes."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5705
+translate brazilian Audrey_13_label_L_12_9b893fd9:
+
+    # ch_Name "{i}(Phew, how is great to be finally awake!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5706
+translate brazilian Audrey_13_label_L_12_fb50f59a:
+
+    # ch_Name "{i}(However, I still don't think this is a good idea to meet Audrey after I rejected her real appearance...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5707
+translate brazilian Audrey_13_label_L_12_68b02ee7:
+
+    # ch_Name "{i}(What to expect from her now?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5708
+translate brazilian Audrey_13_label_L_12_6ea688c3:
+
+    # ch_Name "{i}(Oh, these women...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5709
+translate brazilian Audrey_13_label_L_12_3894296f:
+
+    # ch_Name "{i}(Succubi, I mean.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5711
+translate brazilian Audrey_13_label_L_12_b6ce45a5:
+
+    # NoName "Knock-Knock"
+    NoName ""
+
+# game/logic/events/audrey.rpy:5713
+translate brazilian Audrey_13_label_L_12_de4decc0:
+
+    # ch_Name "{i}(No answer.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5715
+translate brazilian Audrey_13_label_L_12_b6ce45a5_1:
+
+    # NoName "Knock-Knock"
+    NoName ""
+
+# game/logic/events/audrey.rpy:5716
+translate brazilian Audrey_13_label_L_12_a69ba545:
+
+    # ch_Name "{i}(They must be busy with something.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5717
+translate brazilian Audrey_13_label_L_12_dd18e55e:
+
+    # ch_Name "{i}(Anyway, I'm pretty sure that nothing bad will happen if I just come in.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5724
+translate brazilian Audrey_13_label_L_12_52671cf0:
+
+    # ch_Name "{i}(Whoa! I'm... speechless.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5725
+translate brazilian Audrey_13_label_L_12_a0102ef6:
+
+    # ch_Name "{i}(Am I dreaming?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5726
+translate brazilian Audrey_13_label_L_12_a4dd0d7b:
+
+    # ch_Name "{i}(They're looking so fucking hot in these stockings!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5727
+translate brazilian Audrey_13_label_L_12_7d6daa6b:
+
+    # ch_Name "Girls, I'm really flattered that you greet me dressed like that, but it’s too much even for you..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5728
+translate brazilian Audrey_13_label_L_12_e1485994:
+
+    # ch_Name "It's not that I'm not into it..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5730
+translate brazilian Audrey_13_label_L_12_dadaffcf:
+
+    # ch_Name "...it's just too difficult for me to concentrate and not to look at you, he-he."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5731
+translate brazilian Audrey_13_label_L_12_e5832f4a:
+
+    # Samantha "[Name], you come! Somehow I didn't hear you knock."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5732
+translate brazilian Audrey_13_label_L_12_fb45f6a2:
+
+    # Samantha "Sorry, I'm like this... I started to change my clothes and Audrey distracted me..."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5733
+translate brazilian Audrey_13_label_L_12_9b70f835:
+
+    # Audrey "I can't believe you called him, Samantha! What the fuck?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5734
+translate brazilian Audrey_13_label_L_12_1c81eecd:
+
+    # Audrey "He's literally the last person I want to see now!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5736
+translate brazilian Audrey_13_label_L_12_e675af2e:
+
+    # ch_Name "Audrey, I..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5737
+translate brazilian Audrey_13_label_L_12_040a3232:
+
+    # Audrey "Get out of here. Now."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5738
+translate brazilian Audrey_13_label_L_12_f2aedb88:
+
+    # Audrey "Don't even dare to show your face here again!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5739
+translate brazilian Audrey_13_label_L_12_d9a872be:
+
+    # Samantha "What the hell is wrong with you, Audrey?"
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5741
+translate brazilian Audrey_13_label_L_12_341ebe26:
+
+    # Samantha "Let's all be grown-ups here and have an adult conversation."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5742
+translate brazilian Audrey_13_label_L_12_6030ae62:
+
+    # ch_Name "Samantha told me about the letter."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5743
+translate brazilian Audrey_13_label_L_12_7f32c819:
+
+    # ch_Name "I know it can be hard to decide what to do for the best, but... "
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5745
+translate brazilian Audrey_13_label_L_12_db2f2ac2:
+
+    # Audrey "GET OUT!" with vpunch
+    Audrey "" with vpunch
+
+# game/logic/events/audrey.rpy:5746
+translate brazilian Audrey_13_label_L_12_89cdb366:
+
+    # Samantha "Audrey!"
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5747
+translate brazilian Audrey_13_label_L_12_bae31121:
+
+    # ch_Name "I am trying to help and you are acting like a child. I’d rather give you a pacifier."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5748
+translate brazilian Audrey_13_label_L_12_5e9c5026:
+
+    # Audrey "I do not want or need your help."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5749
+translate brazilian Audrey_13_label_L_12_ad3da08e:
+
+    # ch_Name "Alright, if you say so... Live your life however you want."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5750
+translate brazilian Audrey_13_label_L_12_dd91f83f:
+
+    # ch_Name "Ciao!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5751
+translate brazilian Audrey_13_label_L_12_d213c052:
+
+    # Samantha "[Name], please!"
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5752
+translate brazilian Audrey_13_label_L_12_9683bfb6:
+
+    # ch_Name "Sorry, Sam, but I've had enough."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5759
+translate brazilian Audrey_13_label_L_12_de6734b5:
+
+    # ch_Name "{i}(I don't even have the strength to fight with Audrey again.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5760
+translate brazilian Audrey_13_label_L_12_9e315c70:
+
+    # ch_Name "{i}(I only hope she'd listen to Samantha and leave the Academy, at least for some time.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5761
+translate brazilian Audrey_13_label_L_12_bdde4ea8:
+
+    # ch_Name "{i}(I just need a little break from all of this.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5768
+translate brazilian Audrey_13_label_L_74_323b640b:
+
+    # ch_Name "With Audrey...?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5769
+translate brazilian Audrey_13_label_L_74_a5214fff:
+
+    # ch_Name "{i}(Hmm, interesting. I wonder what this could be about...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5771
+translate brazilian Audrey_13_label_L_74_cb98e895:
+
+    # ch_Name "Okay."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5772
+translate brazilian Audrey_13_label_L_74_e112f5bf:
+
+    # ch_Name "Just give me some time to wake myself up for a bit."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5773
+translate brazilian Audrey_13_label_L_74_c12e4e25:
+
+    # Samantha "We're waiting for you, honey."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5780
+translate brazilian Audrey_13_label_L_74_9b893fd9:
+
+    # ch_Name "{i}(Phew, how is great to be finally awake!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5781
+translate brazilian Audrey_13_label_L_74_9117cb9c:
+
+    # ch_Name "{i}(I feel better than ever... It is so amazing to be full of energy and ideas!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5783
+translate brazilian Audrey_13_label_L_74_b6ce45a5:
+
+    # NoName "Knock-Knock"
+    NoName ""
+
+# game/logic/events/audrey.rpy:5785
+translate brazilian Audrey_13_label_L_74_de4decc0:
+
+    # ch_Name "{i}(No answer.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5787
+translate brazilian Audrey_13_label_L_74_b6ce45a5_1:
+
+    # NoName "Knock-Knock"
+    NoName ""
+
+# game/logic/events/audrey.rpy:5788
+translate brazilian Audrey_13_label_L_74_a69ba545:
+
+    # ch_Name "{i}(They must be busy with something.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5789
+translate brazilian Audrey_13_label_L_74_dd18e55e:
+
+    # ch_Name "{i}(Anyway, I'm pretty sure that nothing bad will happen if I just come in.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5796
+translate brazilian Audrey_13_label_L_74_52671cf0:
+
+    # ch_Name "{i}(Whoa! I'm... speechless.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5797
+translate brazilian Audrey_13_label_L_74_a0102ef6:
+
+    # ch_Name "{i}(Am I dreaming?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5798
+translate brazilian Audrey_13_label_L_74_a4dd0d7b:
+
+    # ch_Name "{i}(They're looking so fucking hot in these stockings!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5800
+translate brazilian Audrey_13_label_L_74_02794d14:
+
+    # Audrey "Yo, [Name]!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5801
+translate brazilian Audrey_13_label_L_74_e5832f4a:
+
+    # Samantha "[Name], you come! Somehow I didn't hear you knock."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5802
+translate brazilian Audrey_13_label_L_74_fb101877:
+
+    # ch_Name "It's nothing, don't worry."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5803
+translate brazilian Audrey_13_label_L_74_7d6daa6b:
+
+    # ch_Name "Girls, I'm really flattered that you greet me dressed like that, but it’s too much even for you..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5804
+translate brazilian Audrey_13_label_L_74_fb45f6a2:
+
+    # Samantha "Sorry, I'm like this... I started to change my clothes and Audrey distracted me..."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5806
+translate brazilian Audrey_13_label_L_74_5150d274:
+
+    # ch_Name "No-no-no, it's not that I'm not into it."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5807
+translate brazilian Audrey_13_label_L_74_fc9f3bc2:
+
+    # ch_Name "It's the most beautiful lingerie I've ever seen. It's just..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5808
+translate brazilian Audrey_13_label_L_74_61c9b8c1:
+
+    # ch_Name "It is too difficult for me to concentrate and not to look at you, he-he."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5809
+translate brazilian Audrey_13_label_L_74_077c6360:
+
+    # ch_Name "Alright, nevermind, let's get down to business."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5811
+translate brazilian Audrey_13_label_L_74_bab4cc26:
+
+    # Audrey "Listen, guys, I have something to show to you both. Samantha hasn't seen it yet, either."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5812
+translate brazilian Audrey_13_label_L_74_73de120a:
+
+    # Audrey "It should be here somewhere."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5813
+translate brazilian Audrey_13_label_L_74_90467ed4:
+
+    # Audrey "Damn! Where did I put it?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5814
+translate brazilian Audrey_13_label_L_74_25474c50:
+
+    # ch_Name "{i}(I can't even understand what Audrey’s saying...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5815
+translate brazilian Audrey_13_label_L_74_a1f495af:
+
+    # ch_Name "{i}(Is it even possible not to look at Sam?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5816
+translate brazilian Audrey_13_label_L_74_9cdf4b06:
+
+    # ch_Name "{i}(How am I supposed to keep my eyes off of her body...?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5823
+translate brazilian Audrey_13_label_menu_check_fc152591:
+
+    # ch_Name "{i}(I can literally feel the sweet breath of her chest.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5824
+translate brazilian Audrey_13_label_menu_check_a82af1b3:
+
+    # ch_Name "{i}(Her tits are utterly perfect...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5825
+translate brazilian Audrey_13_label_menu_check_3446a65b:
+
+    # ch_Name "{i}(Um-mhm... Only look at them!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5826
+translate brazilian Audrey_13_label_menu_check_c3060125:
+
+    # ch_Name "{i}(I can easily imagine myself taking this bra off of her...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5827
+translate brazilian Audrey_13_label_menu_check_709fcf5d:
+
+    # ch_Name "{i}(Touching her smooth warm skin up and down...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5833
+translate brazilian Audrey_13_label_menu_check_f01feda7:
+
+    # ch_Name "{i}(It looks damn hot!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5834
+translate brazilian Audrey_13_label_menu_check_78da88ff:
+
+    # ch_Name "{i}(I'm proud to call myself one of the stockings' biggest fans...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5836
+translate brazilian Audrey_13_label_menu_check_f66e47e0:
+
+    # ch_Name "{i}(They perfectly show off her pretty legs and make them look even more amazing.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5837
+translate brazilian Audrey_13_label_menu_check_0df955d4:
+
+    # ch_Name "{i}(I never get tired of looking at it...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5839
+translate brazilian Audrey_13_label_menu_check_45575d87:
+
+    # ch_Name "{i}(Um-mhm, what a cute little panties!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5840
+translate brazilian Audrey_13_label_menu_check_8683e798:
+
+    # ch_Name "{i}(I can pull it off with literally one motion.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5841
+translate brazilian Audrey_13_label_menu_check_7e54918a:
+
+    # ch_Name "{i}(These strings are almost non-existent...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5848
+translate brazilian Audrey_13_label_menu_check_69f761a4:
+
+    # Audrey "There it is! I found it, guys."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5849
+translate brazilian Audrey_13_label_menu_check_cef8469c:
+
+    # ch_Name "{i}(What is that?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5850
+translate brazilian Audrey_13_label_menu_check_8751db8a:
+
+    # Audrey "The thing is... I received this letter yesterday."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5852
+translate brazilian Audrey_13_label_menu_check_d0b8fc89:
+
+    # ch_Name "Looks like somebody has a secret admirer, hm?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5853
+translate brazilian Audrey_13_label_menu_check_b4f550ee:
+
+    # Audrey "If only."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5854
+translate brazilian Audrey_13_label_menu_check_0ae36871:
+
+    # Samantha "Is that the letter you were talking about?"
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5856
+translate brazilian Audrey_13_label_menu_check_84535e92:
+
+    # ch_Name "Do you mind if I take a look?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5857
+translate brazilian Audrey_13_label_menu_check_5bd6a548:
+
+    # Audrey "That's why we called you, dummy."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5859
+translate brazilian Audrey_13_label_menu_check_5089fe18:
+
+    # ch_Name "Wow! That looks impressive..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5860
+translate brazilian Audrey_13_label_menu_check_1e1d675b:
+
+    # ch_Name "{i}(What language is that? I've never seen something like it before.){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5861
+translate brazilian Audrey_13_label_menu_check_6133a30d:
+
+    # ch_Name "{i}(So many strange signs and symbols...){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5863
+translate brazilian Audrey_13_label_menu_check_61d16c7f:
+
+    # Audrey "What do you think, [Name]?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5864
+translate brazilian Audrey_13_label_menu_check_bca56d75:
+
+    # ch_Name "{i}(What does she expect me to say? Am I supposed to understand these scribbles?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5865
+translate brazilian Audrey_13_label_menu_check_ff6b92c9:
+
+    # ch_Name "Sorry, Audrey, but this doesn't make any sense for me."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5867
+translate brazilian Audrey_13_label_menu_check_696e7c8a:
+
+    # Audrey "Maybe because you're holding it upside down, mhm?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5868
+translate brazilian Audrey_13_label_menu_check_2b107865:
+
+    # Audrey "C'mon, [Name], you're not as stupid as you look, are you?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5869
+translate brazilian Audrey_13_label_menu_check_eee9f82b:
+
+    # ch_Name "Hey, easy! "
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5871
+translate brazilian Audrey_13_label_menu_check_79267775:
+
+    # ch_Name "Shit, I'm still missing something. "
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5872
+translate brazilian Audrey_13_label_menu_check_dc37111f:
+
+    # ch_Name "What's that about?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5873
+translate brazilian Audrey_13_label_menu_check_39dce242:
+
+    # Audrey "Man... Okay, it'll be quicker if I just tell you everything by myself."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5874
+translate brazilian Audrey_13_label_menu_check_9dcff3ae:
+
+    # Audrey "I received this letter yesterday and it is from... it is from succubus."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5876
+translate brazilian Audrey_13_label_menu_check_2a595405:
+
+    # Audrey "[Name], you do know what that means, don't you?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5877
+translate brazilian Audrey_13_label_menu_check_2b9aee68:
+
+    # ch_Name "Not really. What does it change?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5878
+translate brazilian Audrey_13_label_menu_check_80bf7b1d:
+
+    # Audrey "I was sure that our civilization became extinct and I was the last succubus alive."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5879
+translate brazilian Audrey_13_label_menu_check_46a421b8:
+
+    # Audrey "It was difficult, but I just had to accept it. But now..."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5880
+translate brazilian Audrey_13_label_menu_check_4cef3a42:
+
+    # Audrey "If someone sent me a letter, then it means there are other survivors."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5882
+translate brazilian Audrey_13_label_menu_check_563dd586:
+
+    # Audrey "With that, I get a chance to come back home again!"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5883
+translate brazilian Audrey_13_label_menu_check_025b5754:
+
+    # Samantha "And what exactly is in the letter? What's it about?"
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5884
+translate brazilian Audrey_13_label_menu_check_3e1dd865:
+
+    # Audrey "Nothing - well, nothing concrete. She wants to meet face-to-face. "
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5885
+translate brazilian Audrey_13_label_menu_check_c6311f08:
+
+    # Audrey "I'm asking myself if I should go, and... This all is pretty weird."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5886
+translate brazilian Audrey_13_label_menu_check_1e6db5c5:
+
+    # Audrey "And I will have to leave the Academy for some time."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5887
+translate brazilian Audrey_13_label_menu_check_f9173904:
+
+    # Audrey "And how long will that take? I don't even now."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5891
+translate brazilian Audrey_13_label_menu_check_8ac87752:
+
+    # ch_Name "You're kidding, right?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5892
+translate brazilian Audrey_13_label_menu_check_30464068:
+
+    # ch_Name "Of course, you should go, Audrey! Your whole life hangs on this decision."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5894
+translate brazilian Audrey_13_label_menu_check_7cce5a4f:
+
+    # ch_Name "If I were you, I'd grab every chance I get."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5895
+translate brazilian Audrey_13_label_menu_check_e2cedf61:
+
+    # ch_Name "Even if you meet her and find out you've got it all wrong, you have nothing to lose."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5896
+translate brazilian Audrey_13_label_menu_check_26df7a52:
+
+    # ch_Name "If that's what happens, then it wasn't meant to be, right?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5898
+translate brazilian Audrey_13_label_menu_check_72ff3d4a:
+
+    # ch_Name "But if it's all true and your civilization is not extinct... Only imagine!"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5899
+translate brazilian Audrey_13_label_menu_check_3799b2c0:
+
+    # ch_Name "Anyway, it's worth a try."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5900
+translate brazilian Audrey_13_label_menu_check_e15c5cf6:
+
+    # ch_Name "It is better than just sitting around and doing... nothing."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5901
+translate brazilian Audrey_13_label_menu_check_eafb6695:
+
+    # Samantha "[Name] is reading my mind. I totally agree with him."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5904
+translate brazilian Audrey_13_label_menu_check_a5b2b69c:
+
+    # ch_Name "I really don't know, Audrey. I don't know."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5905
+translate brazilian Audrey_13_label_menu_check_ed7f55c5:
+
+    # ch_Name "But I urge you not to make rash decisions. You better think about this very carefully."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5906
+translate brazilian Audrey_13_label_menu_check_a5a59cb2:
+
+    # ch_Name "I wouldn't go anywhere if I were you."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5908
+translate brazilian Audrey_13_label_menu_check_133490f4:
+
+    # Samantha "[Name], are you serious right now?"
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5909
+translate brazilian Audrey_13_label_menu_check_06254d4d:
+
+    # Samantha "I'm sure that you should go, Audrey! Your whole life hangs on this decision."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5910
+translate brazilian Audrey_13_label_menu_check_5d279909:
+
+    # ch_Name "Sam, just think about the whole situation."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5912
+translate brazilian Audrey_13_label_menu_check_593a7216:
+
+    # ch_Name "Who's this letter from? Do you know this succubus?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5913
+translate brazilian Audrey_13_label_menu_check_c2bc2aa9:
+
+    # ch_Name "That's right, you don't."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5914
+translate brazilian Audrey_13_label_menu_check_a41d5e7b:
+
+    # ch_Name "She said she couldn't tell everything in a letter, but why? What's the problem?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5915
+translate brazilian Audrey_13_label_menu_check_e202f32f:
+
+    # ch_Name "Is this succubus afraid of something? What if she wants to lure Audrey into a trap?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5917
+translate brazilian Audrey_13_label_menu_check_16d89e85:
+
+    # ch_Name "Anybody could write this letter, me included. "
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5918
+translate brazilian Audrey_13_label_menu_check_3c409be6:
+
+    # ch_Name "That seems more and more strange, isn't it?"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5919
+translate brazilian Audrey_13_label_menu_check_98697adc:
+
+    # Samantha "Well, it makes sense. I... I didn't see it like that before."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5920
+translate brazilian Audrey_13_label_menu_check_5b475e6a:
+
+    # ch_Name "If I were you, Audrey, I'd wait for another letter or sign."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5921
+translate brazilian Audrey_13_label_menu_check_16f0a1b4:
+
+    # ch_Name "One message is definitely not enough."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5924
+translate brazilian Audrey_13_label_menu_check_180c08a7:
+
+    # Samantha "But it's all up to you, surely. Just follow your heart's voice."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5925
+translate brazilian Audrey_13_label_menu_check_9ca6ba5d:
+
+    # ch_Name "But don't forget about the voice of reason, he-he."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5926
+translate brazilian Audrey_13_label_menu_check_2a6dafbe:
+
+    # Audrey "God, you guys... I'm so lucky to have you."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5928
+translate brazilian Audrey_13_label_menu_check_bb35b778:
+
+    # Audrey "Come here, baby."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5929
+translate brazilian Audrey_13_label_menu_check_677a7412:
+
+    # Samantha "You can always rely on us, Audrey. Whatever it is, we're here for you."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5931
+translate brazilian Audrey_13_label_menu_check_65268cb1:
+
+    # Audrey "Whatever it is? Then I would like a cappuccino."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5932
+translate brazilian Audrey_13_label_menu_check_1eb808bd:
+
+    # Samantha "Well..."
+    Samantha ""
+
+# game/logic/events/audrey.rpy:5933
+translate brazilian Audrey_13_label_menu_check_1b007b29:
+
+    # Audrey "Hey, I'm kidding, I'm kidding."
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5935
+translate brazilian Audrey_13_label_menu_check_ba9cb7de:
+
+    # ch_Name "{i}(Am I an empty space...?){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5936
+translate brazilian Audrey_13_label_menu_check_b157ffae:
+
+    # ch_Name "Yeah, great. You two are very good at hugging."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5937
+translate brazilian Audrey_13_label_menu_check_9f9adea0:
+
+    # Audrey "Are you jealous, [Name]?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5938
+translate brazilian Audrey_13_label_menu_check_d0a773ed:
+
+    # ch_Name "No, not at all... Anyway, I've got to go now."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5939
+translate brazilian Audrey_13_label_menu_check_3d546c28:
+
+    # Audrey "Where are you going? You do know we're not letting you leave without a hug, don't you?"
+    Audrey ""
+
+# game/logic/events/audrey.rpy:5941
+translate brazilian Audrey_13_label_menu_check_b1527f1a:
+
+    # ch_Name "Oh, he-he-he..."
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5942
+translate brazilian Audrey_13_label_menu_check_b20c8646:
+
+    # ch_Name "{i}(That is the best hug I've ever had!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5944
+translate brazilian Audrey_13_label_menu_check_4078b395:
+
+    # ch_Name "{i}(Whoa! Now it feels even better!){/i}"
+    ch_Name ""
+
+# game/logic/events/audrey.rpy:5945
+translate brazilian Audrey_13_label_menu_check_14710fc3:
+
+    # ch_Name "{i}(What a lovely start to my day...){/i}"
+    ch_Name ""
+
+translate brazilian strings:
+
+    # game/logic/events/audrey.rpy:14
+    old "Do you want Audrey to be a female or a shemale?"
+    new ""
+
+    # game/logic/events/audrey.rpy:29
+    old "7 Talk to Audrey"
+    new ""
+
+    # game/logic/events/audrey.rpy:1197
+    old "Be nice"
+    new ""
+
+    # game/logic/events/audrey.rpy:1197
+    old "Answer roughly"
+    new ""
+
+    # game/logic/events/audrey.rpy:2681
+    old "Talk tough"
+    new ""
+
+    # game/logic/events/audrey.rpy:2681
+    old "Play nice"
+    new ""
+
+    # game/logic/events/audrey.rpy:4233
+    old "I can't have sex with that thing"
+    new ""
+
+    # game/logic/events/audrey.rpy:4233
+    old "Can you turn back into human?"
+    new ""
+
+    # game/logic/events/audrey.rpy:4233
+    old "I want you!"
+    new ""
+
+    # game/logic/events/audrey.rpy:4296
+    old "I won't fuck that thing"
+    new ""
+
+    # game/logic/events/audrey.rpy:4296
+    old "I want her like that"
+    new ""
+
+    # game/logic/events/audrey.rpy:4631
+    old "Anal sex"
+    new ""
+
+    # game/logic/events/audrey.rpy:4631
+    old "Cum on her ass"
+    new ""
+
+    # game/logic/events/audrey.rpy:4821
+    old "Come closer"
+    new ""
+
+    # game/logic/events/audrey.rpy:5312
+    old "Suck her dick"
+    new ""
+
+    # game/logic/events/audrey.rpy:5462
+    old "Fuck me in the ass"
+    new ""
+
+    # game/logic/events/audrey.rpy:5818
+    old "Check out her boobs"
+    new ""
+
+    # game/logic/events/audrey.rpy:5888
+    old "It is better to go to the meeting"
+    new ""
+
+    # game/logic/events/audrey.rpy:5888
+    old "Advise her not to go anywhere"
+    new ""
+

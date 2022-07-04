@@ -8212,3 +8212,2729 @@ translate brazilian strings:
     old "Say goodbye"
     new "Dizer tchau"
 
+# TODO: Translation updated at 2022-07-04 17:01
+
+# game/logic/events/adele.rpy:122
+translate brazilian adele_1_label_6d503bca:
+
+    # Adele "You won't regret you've stopped by."
+    Adele ""
+
+# game/logic/events/adele.rpy:222
+translate brazilian adele_1_label_ae0ea87f:
+
+    # Vanessa "Don't be so nervous."
+    Vanessa ""
+
+# game/logic/events/adele.rpy:407
+translate brazilian adele_2_label_e446c96f:
+
+    # Adele "So, how do you like Lady Luck?"
+    Adele ""
+
+# game/logic/events/adele.rpy:944
+translate brazilian vip_lucy_1_label_1_92a0abe8:
+
+    # ch_Name "Ohh!" with flash
+    ch_Name "" with flash
+
+# game/logic/events/adele.rpy:950
+translate brazilian vip_lucy_1_label_1_13f4862b:
+
+    # ch_Name "It's not over yet!" with flash
+    ch_Name "" with flash
+
+# game/logic/events/adele.rpy:993
+translate brazilian vip_lucy_1_label_2_c4145045:
+
+    # ch_Name "{i}(What does she want today?){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:997
+translate brazilian vip_lucy_1_label_2_9d207740:
+
+    # ch_Name "{i}(Just look at this gorgeous view!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:1007
+translate brazilian vip_lucy_1_label_2_60500f24:
+
+    # ch_Name "I can't imagine getting bored in your company."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:1020
+translate brazilian vip_lucy_1_label_2_ad3c024d:
+
+    # ch_Name "It's easy to lose control when I look at these curves!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:1027
+translate brazilian vip_lucy_1_label_2_e314424b:
+
+    # Lucy "I'm getting wetter and wetter from your touching."
+    Lucy ""
+
+# game/logic/events/adele.rpy:1041
+translate brazilian vip_lucy_1_label_2_6e2566ed:
+
+    # ch_Name "{i}(What a view!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:1049
+translate brazilian vip_lucy_1_label_2_5cdab09c:
+
+    # Lucy "I want to rub my pussy on your cock..."
+    Lucy ""
+
+# game/logic/events/adele.rpy:1050
+translate brazilian vip_lucy_1_label_2_d3ce1f4c:
+
+    # Lucy "To feel it getting hard..."
+    Lucy ""
+
+# game/logic/events/adele.rpy:1055
+translate brazilian vip_lucy_1_label_2_4909ef40:
+
+    # Lucy "It's so nice to think about my body turning you on."
+    Lucy ""
+
+# game/logic/events/adele.rpy:1060
+translate brazilian vip_lucy_1_label_2_d0f7c586:
+
+    # Lucy "I cannot even imagine what I can experience using this toy."
+    Lucy ""
+
+# game/logic/events/adele.rpy:1066
+translate brazilian vip_lucy_1_label_2_33a54abe:
+
+    # ch_Name "Ohhhh!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:1080
+translate brazilian vip_lucy_1_label_2_6d2e65b5:
+
+    # ch_Name "Keep moving your ass, bitch."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:1084
+translate brazilian vip_lucy_1_label_2_7d320c69:
+
+    # ch_Name "{i}(I never felt this way before!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:1091
+translate brazilian vip_lucy_1_label_2_48226e7e:
+
+    # ch_Name "It's so amazing to feel your every dirty hole."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:1093
+translate brazilian vip_lucy_1_label_2_270054a0:
+
+    # Lucy "My skin wants to feel your cum!"
+    Lucy ""
+
+# game/logic/events/adele.rpy:1101
+translate brazilian vip_lucy_1_label_2_76e22f2b:
+
+    # Lucy "It's so pleasant to feel it flowing."
+    Lucy ""
+
+# game/logic/events/adele.rpy:1103
+translate brazilian vip_lucy_1_label_2_d775f1ca:
+
+    # ch_Name "{i}(What a little bitch!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:1104
+translate brazilian vip_lucy_1_label_2_8596365f:
+
+    # Lucy "Just inexpressible!"
+    Lucy ""
+
+# game/logic/events/adele.rpy:1112
+translate brazilian vip_lucy_1_label_2_e4862479:
+
+    # Lucy "I hope you visit us often."
+    Lucy ""
+
+# game/logic/events/adele.rpy:1309
+translate brazilian vip_sadira_1_label_1_6d019ab3:
+
+    # ch_Name "Oh yes, just like that."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:1312
+translate brazilian vip_sadira_1_label_1_259e24a9:
+
+    # Sadira "Me too..." with flash
+    Sadira "" with flash
+
+# game/logic/events/adele.rpy:1319
+translate brazilian vip_sadira_1_label_1_d78d68f0:
+
+    # Sadira "Yes! That's it!" with flash
+    Sadira "" with flash
+
+# game/logic/events/adele.rpy:1380
+translate brazilian vip_sadira_1_label_1_2277722f:
+
+    # Sadira "Look me in the eyes." with flash
+    Sadira "" with flash
+
+# game/logic/events/adele.rpy:1401
+translate brazilian vip_sadira_1_label_1_cda1ab7f_1:
+
+    # Sadira "C'ya around, honey."
+    Sadira ""
+
+# game/logic/events/adele.rpy:1542
+translate brazilian vip_sadira_1_label_2_beb922c0:
+
+    # ch_Name "{i}(If this keeps up, I'm going to cum.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:1544
+translate brazilian vip_sadira_1_label_2_055eeba4:
+
+    # ch_Name "I'm going to cum soon. Don't stop!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:1692
+translate brazilian vip_sadira_1_label_2_beb922c0_1:
+
+    # ch_Name "{i}(If this keeps up, I'm going to cum.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:1694
+translate brazilian vip_sadira_1_label_2_055eeba4_1:
+
+    # ch_Name "I'm going to cum soon. Don't stop!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2347
+translate brazilian adele_3_label_f8c76d0d:
+
+    # Adele "By the way, Vanessa bragged that she's getting better at making Bloody Mary's."
+    Adele ""
+
+# game/logic/events/adele.rpy:2348
+translate brazilian adele_3_label_581e6e13_1:
+
+    # Adele "Since you have the nerve to ask me out..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2498
+translate brazilian Adele_5_label_ba1ac958:
+
+    # ch_Name "{i}(Adele seems to miss the good company. Good thing I'm here now.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2499
+translate brazilian Adele_5_label_d23b66be:
+
+    # ch_Name "Hey, hi! You look great as always!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2501
+translate brazilian Adele_5_label_551577ab:
+
+    # Adele "Hi, [Name]! Nice to see you back at Lady Luck!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2502
+translate brazilian Adele_5_label_38cfdd3f:
+
+    # Adele "Do you want a table or a VIP with someone?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2503
+translate brazilian Adele_5_label_ec1c9904:
+
+    # ch_Name "Actually, I'm more interested in you."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2505
+translate brazilian Adele_5_label_6256e540:
+
+    # Adele "Me? The last time I looked, that wasn't on our menu."
+    Adele ""
+
+# game/logic/events/adele.rpy:2506
+translate brazilian Adele_5_label_38a14a70:
+
+    # ch_Name "Very funny. But I'm serious."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2507
+translate brazilian Adele_5_label_b0bb3847:
+
+    # ch_Name "I came here for you."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2508
+translate brazilian Adele_5_label_49c87aa5:
+
+    # ch_Name "Can I buy you a cocktail?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2510
+translate brazilian Adele_5_label_a2fe69f4:
+
+    # Adele "That's very sweet, doll. It really is, but I'm working right now."
+    Adele ""
+
+# game/logic/events/adele.rpy:2511
+translate brazilian Adele_5_label_85dec623:
+
+    # ch_Name "Would it really stop the world if you took a break?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2512
+translate brazilian Adele_5_label_390954a2:
+
+    # ch_Name "Besides, we won't go far, I promise."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2513
+translate brazilian Adele_5_label_7688104a:
+
+    # ch_Name "Technically, Vanessa's bar is in your workplace."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2515
+translate brazilian Adele_5_label_2f4580b3:
+
+    # Adele "You have a point..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2516
+translate brazilian Adele_5_label_8e88da8e:
+
+    # Adele "But I have to say no."
+    Adele ""
+
+# game/logic/events/adele.rpy:2517
+translate brazilian Adele_5_label_be31ce93:
+
+    # ch_Name "But why?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2518
+translate brazilian Adele_5_label_c69d2d31:
+
+    # Adele "The rules don't allow us to drink in the workplace."
+    Adele ""
+
+# game/logic/events/adele.rpy:2520
+translate brazilian Adele_5_label_1f394712:
+
+    # ch_Name "Stupid rules."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2521
+translate brazilian Adele_5_label_0a1ce0e3:
+
+    # ch_Name "Can't I buy a hottie I like a cocktail?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2522
+translate brazilian Adele_5_label_fc38ac08:
+
+    # Adele "You can, why not?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2523
+translate brazilian Adele_5_label_12322622:
+
+    # ch_Name "But you just said..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2525
+translate brazilian Adele_5_label_4fa368b3:
+
+    # Adele "But not during work hours."
+    Adele ""
+
+# game/logic/events/adele.rpy:2526
+translate brazilian Adele_5_label_085b2a22:
+
+    # Adele "Look, you're a great guy, and we had a great time at the cafe."
+    Adele ""
+
+# game/logic/events/adele.rpy:2527
+translate brazilian Adele_5_label_7c97a2e7:
+
+    # Adele "So I'd love to have a drink with you after work."
+    Adele ""
+
+# game/logic/events/adele.rpy:2528
+translate brazilian Adele_5_label_b6ec4d73:
+
+    # Adele "My shift ends tonight."
+    Adele ""
+
+# game/logic/events/adele.rpy:2530
+translate brazilian Adele_5_label_7ae6cd4a:
+
+    # Adele "In the meantime, you can enjoy our club's other offerings."
+    Adele ""
+
+# game/logic/events/adele.rpy:2531
+translate brazilian Adele_5_label_a31e4356:
+
+    # ch_Name "I came for you, and I'll wait for you, no matter how long it takes."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2532
+translate brazilian Adele_5_label_eb5f7945:
+
+    # Adele "And you're stubborn. I kind of like that."
+    Adele ""
+
+# game/logic/events/adele.rpy:2533
+translate brazilian Adele_5_label_7db58b6d:
+
+    # Adele "All right, wait for me."
+    Adele ""
+
+# game/logic/events/adele.rpy:2534
+translate brazilian Adele_5_label_dbf4b608:
+
+    # ch_Name "It's a deal."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2541
+translate brazilian Adele_5_label_f6d0bf83:
+
+    # ch_Name "{i}(It seems Adele's shift is almost coming to an end.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2542
+translate brazilian Adele_5_label_2d24405d:
+
+    # ch_Name "{i}(It's time to remind her that we had a date.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2543
+translate brazilian Adele_5_label_0f56166d:
+
+    # ch_Name "What's up, gorgeous? Aren't you tired of working?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2545
+translate brazilian Adele_5_label_5f1b87cb:
+
+    # Adele "I don't have the most tiring job, kitty. I'm always full of energy."
+    Adele ""
+
+# game/logic/events/adele.rpy:2546
+translate brazilian Adele_5_label_f7be7caf:
+
+    # Adele "Why?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2547
+translate brazilian Adele_5_label_a44f8185:
+
+    # ch_Name "I just thought since your shift's about to end..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2548
+translate brazilian Adele_5_label_0f5df5bf:
+
+    # ch_Name "I should buy you a cocktail at the bar. What do you think?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2550
+translate brazilian Adele_5_label_76f6700e:
+
+    # Adele "Oh, honey..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2551
+translate brazilian Adele_5_label_544f63c1:
+
+    # Adele "How could I refuse such a tempting offer?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2552
+translate brazilian Adele_5_label_d481750d:
+
+    # Adele "Especially when Vanessa makes the cocktails. Come on, let's go."
+    Adele ""
+
+# game/logic/events/adele.rpy:2559
+translate brazilian Adele_5_label_2de3c05c:
+
+    # Vanessa "I hope you like the cocktail."
+    Vanessa ""
+
+# game/logic/events/adele.rpy:2560
+translate brazilian Adele_5_label_bf5e14eb:
+
+    # Vanessa "I learned some new recipes."
+    Vanessa ""
+
+# game/logic/events/adele.rpy:2562
+translate brazilian Adele_5_label_95c095d8:
+
+    # Adele "Thanks, babe."
+    Adele ""
+
+# game/logic/events/adele.rpy:2563
+translate brazilian Adele_5_label_5eb87c7d:
+
+    # Adele "I'm sure you won't disappoint me."
+    Adele ""
+
+# game/logic/events/adele.rpy:2564
+translate brazilian Adele_5_label_5eb97e96:
+
+    # Vanessa "Disappoint you? Never!"
+    Vanessa ""
+
+# game/logic/events/adele.rpy:2566
+translate brazilian Adele_5_label_1d293118:
+
+    # ch_Name "{i}(Hmm... Perhaps I should have gotten a cocktail, too?){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2567
+translate brazilian Adele_5_label_0efa596f:
+
+    # ch_Name "{i}(Then again, last time a cocktail from Vanessa cost me a whole neck.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2568
+translate brazilian Adele_5_label_7f46f056:
+
+    # ch_Name "You and Vanessa have a, ahem... Interesting vibe. How long have you known each other?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2570
+translate brazilian Adele_5_label_b13a4f76:
+
+    # Adele "Vanessa?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2571
+translate brazilian Adele_5_label_5442f08a:
+
+    # Adele "Oh, it seems like forever."
+    Adele ""
+
+# game/logic/events/adele.rpy:2572
+translate brazilian Adele_5_label_d6361870:
+
+    # Adele "I hired her years ago. When I first opened the club."
+    Adele ""
+
+# game/logic/events/adele.rpy:2574
+translate brazilian Adele_5_label_a6dee367:
+
+    # ch_Name "Wait, so you don't just work here. Did you open this place?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2575
+translate brazilian Adele_5_label_88ba1b6f:
+
+    # Adele "Yep. (Laughs)"
+    Adele ""
+
+# game/logic/events/adele.rpy:2576
+translate brazilian Adele_5_label_549f5764:
+
+    # ch_Name "This is so cool!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2577
+translate brazilian Adele_5_label_ffdfd64a:
+
+    # ch_Name "I don't know why you can't afford to..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2579
+translate brazilian Adele_5_label_44e7a185:
+
+    # Adele "Mmm..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2580
+translate brazilian Adele_5_label_63fd8ebd:
+
+    # Adele "This is unbelievably good! Vanessa is a genius!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2581
+translate brazilian Adele_5_label_a82209e3:
+
+    # Adele "Sorry, I was absorbed in Vanessa's new masterpiece."
+    Adele ""
+
+# game/logic/events/adele.rpy:2582
+translate brazilian Adele_5_label_e0cc37d0:
+
+    # Adele "Where were we?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2583
+translate brazilian Adele_5_label_89b68fa4:
+
+    # ch_Name "I was wondering why you refused to have drinks with me when you were on shift."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2584
+translate brazilian Adele_5_label_4ce7ab15:
+
+    # ch_Name "It's your place. Do whatever you want."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2586
+translate brazilian Adele_5_label_c42fc3cc:
+
+    # Adele "It's about discipline."
+    Adele ""
+
+# game/logic/events/adele.rpy:2587
+translate brazilian Adele_5_label_7c82eba7:
+
+    # Adele "Girls look up to me."
+    Adele ""
+
+# game/logic/events/adele.rpy:2588
+translate brazilian Adele_5_label_8b1b56b9:
+
+    # Adele "When I'm in the gym, I'm as much an employee as they are."
+    Adele ""
+
+# game/logic/events/adele.rpy:2589
+translate brazilian Adele_5_label_594328ee:
+
+    # Adele "They need to know that the rules are for everyone and are inviolable."
+    Adele ""
+
+# game/logic/events/adele.rpy:2590
+translate brazilian Adele_5_label_7a09b7af:
+
+    # ch_Name "That's it. That's a very wise thought."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2591
+translate brazilian Adele_5_label_008b0636:
+
+    # Adele "What, did you think I was just a hottie with a straw instead of a brain?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2593
+translate brazilian Adele_5_label_4983579f:
+
+    # ch_Name "No, no! I'm just..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2594
+translate brazilian Adele_5_label_4796a2a6:
+
+    # Adele "Relax, I was just kidding."
+    Adele ""
+
+# game/logic/events/adele.rpy:2595
+translate brazilian Adele_5_label_b3bc7372:
+
+    # Adele "You're funny when you make excuses."
+    Adele ""
+
+# game/logic/events/adele.rpy:2597
+translate brazilian Adele_5_label_c7c1d19a:
+
+    # Adele "But I like confident men better."
+    Adele ""
+
+# game/logic/events/adele.rpy:2598
+translate brazilian Adele_5_label_ecdb02f9:
+
+    # ch_Name "Believe me, I'm confident."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2600
+translate brazilian Adele_5_label_c719afb9:
+
+    # Adele "We'll see about that, kid."
+    Adele ""
+
+# game/logic/events/adele.rpy:2601
+translate brazilian Adele_5_label_26646a38:
+
+    # Adele "In the meantime, cheers!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2612
+translate brazilian Adele_5_label_from_gallery_84ca242b:
+
+    # Adele "No, no, no. Just imagine - the whole club was the size of a current VIP."
+    Adele ""
+
+# game/logic/events/adele.rpy:2613
+translate brazilian Adele_5_label_from_gallery_474e0b39:
+
+    # Adele "One table, torn cushions on the sofas, and a rickety pole."
+    Adele ""
+
+# game/logic/events/adele.rpy:2614
+translate brazilian Adele_5_label_from_gallery_f22f000e:
+
+    # ch_Name "It's even hard to imagine that the club used to be this small."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2615
+translate brazilian Adele_5_label_from_gallery_00ca1f99:
+
+    # Adele "I had to meet guests, dance, and even sometimes take over for the bartenders."
+    Adele ""
+
+# game/logic/events/adele.rpy:2616
+translate brazilian Adele_5_label_from_gallery_24c55b74:
+
+    # ch_Name "So you used to dance on your own?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2618
+translate brazilian Adele_5_label_from_gallery_c63f61d6:
+
+    # Adele "Yes, I used to. I was so popular, I was able to earn it all."
+    Adele ""
+
+# game/logic/events/adele.rpy:2619
+translate brazilian Adele_5_label_from_gallery_a7dd15a3:
+
+    # Adele "But not just my figure. Mind."
+    Adele ""
+
+# game/logic/events/adele.rpy:2620
+translate brazilian Adele_5_label_from_gallery_d1da3c18:
+
+    # ch_Name "Mind is important. You've accomplished a lot."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2621
+translate brazilian Adele_5_label_from_gallery_c48f5a4d:
+
+    # ch_Name "But I have to be honest, now all I can think about is how you looked on the pole."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2623
+translate brazilian Adele_5_label_from_gallery_d2740a2f:
+
+    # Adele "Do you? That's all you think about?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2624
+translate brazilian Adele_5_label_from_gallery_8dcc8db1:
+
+    # ch_Name "You know how beautiful you are."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2625
+translate brazilian Adele_5_label_from_gallery_9c4e10ef:
+
+    # ch_Name "Can you blame me for being fascinated by the thought of you dancing?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2626
+translate brazilian Adele_5_label_from_gallery_e5923b17:
+
+    # Adele "Hmm... I might regret it, but I have an idea."
+    Adele ""
+
+# game/logic/events/adele.rpy:2628
+translate brazilian Adele_5_label_from_gallery_ba5bf77e:
+
+    # Adele "Eek... Come with me."
+    Adele ""
+
+# game/logic/events/adele.rpy:2629
+translate brazilian Adele_5_label_from_gallery_b2bfcd29:
+
+    # ch_Name "Where to?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2630
+translate brazilian Adele_5_label_from_gallery_339dc848:
+
+    # Adele "It's a surprise. Come on, you'll love it."
+    Adele ""
+
+# game/logic/events/adele.rpy:2631
+translate brazilian Adele_5_label_from_gallery_1f4e39fa:
+
+    # ch_Name "Okay, whatever you say."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2633
+translate brazilian Adele_5_label_from_gallery_aea26aba:
+
+    # Adele "It's so crowded in here... Eek... I thought I'd close early."
+    Adele ""
+
+# game/logic/events/adele.rpy:2634
+translate brazilian Adele_5_label_from_gallery_5ca493b7:
+
+    # ch_Name "What can I say, your club is popular."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2635
+translate brazilian Adele_5_label_from_gallery_12b29c01:
+
+    # Adele "Heh, so be it. I'm not embarrassed by them."
+    Adele ""
+
+# game/logic/events/adele.rpy:2637
+translate brazilian Adele_5_label_from_gallery_ee22c2a5:
+
+    # ch_Name "{i}(Of course, you're not.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2638
+translate brazilian Adele_5_label_from_gallery_d61aeecc:
+
+    # ch_Name "{i}(That much alcohol kills any shyness.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2640
+translate brazilian Adele_5_label_from_gallery_54136682:
+
+    # ch_Name "{i}(At this rate, she'll drink the whole bottle at once.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2641
+translate brazilian Adele_5_label_from_gallery_7c811f8b:
+
+    # ch_Name "{i}(As if she's getting ready to do something crazy.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2643
+translate brazilian Adele_5_label_from_gallery_6a824a18:
+
+    # Adele "Now I'll show you that reality can be better than fantasy."
+    Adele ""
+
+# game/logic/events/adele.rpy:2650
+translate brazilian Adele_5_label_from_gallery_fb2b0ae0:
+
+    # ch_Name "{i}(Shit, I still can't believe she decided to go for it.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2651
+translate brazilian Adele_5_label_from_gallery_438d7974:
+
+    # ch_Name "{i}(Did I wake up the devil in her?){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2652
+translate brazilian Adele_5_label_from_gallery_f998ddc3:
+
+    # ch_Name "{i}(Or was it that cocktail from Vanessa?){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2654
+translate brazilian Adele_5_label_from_gallery_f88dfada:
+
+    # ch_Name "{i}(Either way, I have nothing to complain about...){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2655
+translate brazilian Adele_5_label_from_gallery_4ad77c52:
+
+    # ch_Name "{i}(It's easy to see why she was popular.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2656
+translate brazilian Adele_5_label_from_gallery_0ae9bcd0:
+
+    # ""
+    ""
+
+# game/logic/events/adele.rpy:2658
+translate brazilian Adele_5_label_from_gallery_cdb77349:
+
+    # ch_Name "{i}(Her moves are graceful and spectacular...){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2659
+translate brazilian Adele_5_label_from_gallery_0ae9bcd0_1:
+
+    # ""
+    ""
+
+# game/logic/events/adele.rpy:2660
+translate brazilian Adele_5_label_from_gallery_6e04708d:
+
+    # ch_Name "{i}(The other girls are no match for her skill!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2662
+translate brazilian Adele_5_label_from_gallery_9e8f52e6:
+
+    # ch_Name "{i}(If I drank that much and twirled on a pole, I'd throw up.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2663
+translate brazilian Adele_5_label_from_gallery_32f80e1c:
+
+    # ch_Name "{i}(She does it like it's easy.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2664
+translate brazilian Adele_5_label_from_gallery_057edcca:
+
+    # ch_Name "{i}(And she knows exactly what poses to take to show off her virtues.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2666
+translate brazilian Adele_5_label_from_gallery_efd4c4d1:
+
+    # ch_Name "{i}(She has the grace and dexterity of a cat...){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2667
+translate brazilian Adele_5_label_from_gallery_0ae9bcd0_2:
+
+    # ""
+    ""
+
+# game/logic/events/adele.rpy:2668
+translate brazilian Adele_5_label_from_gallery_5fc48750:
+
+    # ch_Name "{i}(And such incredible shapes!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2670
+translate brazilian Adele_5_label_from_gallery_5dd8e98b:
+
+    # ch_Name "{i}(Wow! Can she do that?){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2671
+translate brazilian Adele_5_label_from_gallery_b4d5cabd:
+
+    # ch_Name "{i}(The world lost a lot the day she quit stripping.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2673
+translate brazilian Adele_5_label_from_gallery_3e8d44b2:
+
+    # ch_Name "{i}(I can't take my eyes off her...){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2674
+translate brazilian Adele_5_label_from_gallery_7287383d:
+
+    # ch_Name "Bravo!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2676
+translate brazilian Adele_5_label_from_gallery_38157963:
+
+    # ch_Name "{i}(Isn't this the end? Is she going to...?){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2677
+translate brazilian Adele_5_label_from_gallery_765197d7:
+
+    # ch_Name "{i}(No, it can't be...){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2679
+translate brazilian Adele_5_label_from_gallery_dc94b7e2:
+
+    # ch_Name "{i}(Did she really do it? Get naked? Right there?){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2680
+translate brazilian Adele_5_label_from_gallery_7466f505:
+
+    # ch_Name "{i}(Fucking hell!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2682
+translate brazilian Adele_5_label_from_gallery_027b1c56:
+
+    # ch_Name "..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2683
+translate brazilian Adele_5_label_from_gallery_f4ab34d4:
+
+    # ch_Name "{i}(Am I dreaming? Pinch me!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2684
+translate brazilian Adele_5_label_from_gallery_ab841865:
+
+    # ch_Name "{i}(No! Wait! Don't pinch me, I don't want to wake up!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2685
+translate brazilian Adele_5_label_from_gallery_65cc15fa:
+
+    # ch_Name "{i}(I've never seen anything more beautiful in my life...){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2687
+translate brazilian Adele_5_label_from_gallery_cefde44e:
+
+    # ch_Name "{i}(All this... She does for me?){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2688
+translate brazilian Adele_5_label_from_gallery_c8859225:
+
+    # ch_Name "Oh, Adele..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2689
+translate brazilian Adele_5_label_from_gallery_aab7b21f:
+
+    # ch_Name "You're something!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2691
+translate brazilian Adele_5_label_from_gallery_29fb7aa3:
+
+    # ch_Name "{i}(Now, she looks like a panther.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2692
+translate brazilian Adele_5_label_from_gallery_0ae9bcd0_3:
+
+    # ""
+    ""
+
+# game/logic/events/adele.rpy:2693
+translate brazilian Adele_5_label_from_gallery_d08ffbb8:
+
+    # ch_Name "{i}(Who's getting ready to attack her prey.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2695
+translate brazilian Adele_5_label_from_gallery_91ce9b34:
+
+    # ch_Name "{i}(That's what I'm talking about.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2696
+translate brazilian Adele_5_label_from_gallery_0ae9bcd0_4:
+
+    # ""
+    ""
+
+# game/logic/events/adele.rpy:2697
+translate brazilian Adele_5_label_from_gallery_d8559ec1:
+
+    # ch_Name "{i}(Predator.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2699
+translate brazilian Adele_5_label_from_gallery_b496cd40:
+
+    # ch_Name "{i}(I think that's about it.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2700
+translate brazilian Adele_5_label_from_gallery_5b66a782:
+
+    # ch_Name "{i}(And she's clearly waiting for my reaction.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2701
+translate brazilian Adele_5_label_from_gallery_e7bc4f81:
+
+    # ch_Name "Bravo! Bravo!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2708
+translate brazilian Adele_5_label_from_gallery_f6b6f4d5:
+
+    # ch_Name "That was just amazing! No, really!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2709
+translate brazilian Adele_5_label_from_gallery_ab57f4fa:
+
+    # ch_Name "I'm even a little shocked. I think I was speechless a few times looking at you."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2710
+translate brazilian Adele_5_label_from_gallery_d29e18ef:
+
+    # Adele "Oh, come on, you're making me look bad."
+    Adele ""
+
+# game/logic/events/adele.rpy:2711
+translate brazilian Adele_5_label_from_gallery_65fbe6ff:
+
+    # Adele "I haven't practiced in years. I bet I looked like a laughing stock..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2712
+translate brazilian Adele_5_label_from_gallery_0316a7af:
+
+    # ch_Name "I know what I'm talking about. You looked like a goddess."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2713
+translate brazilian Adele_5_label_from_gallery_9a8e4d47:
+
+    # Adele "Aha-ha-ha... If you say so."
+    Adele ""
+
+# game/logic/events/adele.rpy:2723
+translate brazilian Adele_5_label_from_gallery_d1dd137f:
+
+    # Adele "Thanks for a great night, [Name]. But it's late, I have to close the club."
+    Adele ""
+
+# game/logic/events/adele.rpy:2724
+translate brazilian Adele_5_label_from_gallery_81ce5759:
+
+    # ch_Name "Thank you. I had a memorable time."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2725
+translate brazilian Adele_5_label_from_gallery_5015607c:
+
+    # ch_Name "Shall we do it again sometime?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2726
+translate brazilian Adele_5_label_from_gallery_4b67fa17:
+
+    # Adele "Absolutely. Just in a more private setting."
+    Adele ""
+
+# game/logic/events/adele.rpy:2728
+translate brazilian Adele_5_label_from_gallery_b05f3273:
+
+    # ch_Name "{i}(Oh, baby, I'm all for it.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2729
+translate brazilian Adele_5_label_from_gallery_d6c34f7e:
+
+    # ch_Name "{i}(I want you to dance just for me.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2736
+translate brazilian Adele_5_label_from_gallery_55611147:
+
+    # ch_Name "{i}(Phew, what a night.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2737
+translate brazilian Adele_5_label_from_gallery_1fff42a7:
+
+    # ch_Name "{i}(No one would have thought Adele owned this club.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2738
+translate brazilian Adele_5_label_from_gallery_e7a1fd92:
+
+    # ch_Name "{i}(And certainly not that she's so good on a pole.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2740
+translate brazilian Adele_5_label_from_gallery_f8569efd:
+
+    # ch_Name "{i}(I wonder what other talents she has that I have yet to find out.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2741
+translate brazilian Adele_5_label_from_gallery_9337486d:
+
+    # ch_Name "{i}(It's too late anyway.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2743
+translate brazilian Adele_5_label_from_gallery_7ed4e817:
+
+    # ch_Name "{i}(I need to go back to the hotel and get some sleep.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2744
+translate brazilian Adele_5_label_from_gallery_6487a4a2:
+
+    # ch_Name "{i}(Otherwise, I'll be exhausted all day tomorrow.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2756
+translate brazilian Adele_6_label_f6d0bf83:
+
+    # ch_Name "{i}(It seems Adele's shift is almost coming to an end.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2757
+translate brazilian Adele_6_label_f4b9cdcd:
+
+    # ch_Name "{i}(If i want to ask her for a date this is the best time.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2758
+translate brazilian Adele_6_label_8c7d01cb:
+
+    # ch_Name "Hi there, gorgeous. "
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2760
+translate brazilian Adele_6_label_31fb19a3:
+
+    # Adele "Hey, honey!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2761
+translate brazilian Adele_6_label_d3752143:
+
+    # Adele "Are you looking to have some fun?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2762
+translate brazilian Adele_6_label_c53322c1:
+
+    # ch_Name "Actually, I was thinking you and I can have another date."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2763
+translate brazilian Adele_6_label_6d9e2767:
+
+    # ch_Name "Wanna have a drink?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2765
+translate brazilian Adele_6_label_c7ec96b0:
+
+    # Adele "Not really."
+    Adele ""
+
+# game/logic/events/adele.rpy:2766
+translate brazilian Adele_6_label_eee686cf:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2767
+translate brazilian Adele_6_label_eb782f03:
+
+    # Adele "It's not about you, honey. I'm just tired of loud music and dim lights..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2769
+translate brazilian Adele_6_label_68d441e1:
+
+    # Adele "Bu-u-u-t..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2770
+translate brazilian Adele_6_label_1caa402b:
+
+    # Adele "I'd be happy to go for a walk. Look at some stars and shit..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2771
+translate brazilian Adele_6_label_e8d84f43:
+
+    # ch_Name "Sounds great. I'm in."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2772
+translate brazilian Adele_6_label_63c52919:
+
+    # Adele "Cool. Just give me few minutes."
+    Adele ""
+
+# game/logic/events/adele.rpy:2774
+translate brazilian Adele_6_label_cbbdbe3f:
+
+    # Adele "Sadira, love! "
+    Adele ""
+
+# game/logic/events/adele.rpy:2775
+translate brazilian Adele_6_label_3583d5da:
+
+    # Adele "Come here, please!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2776
+translate brazilian Adele_6_label_52b10552:
+
+    # Sadira "Just a second!"
+    Sadira ""
+
+# game/logic/events/adele.rpy:2778
+translate brazilian Adele_6_label_380405a8:
+
+    # Sadira "Hey, boss. "
+    Sadira ""
+
+# game/logic/events/adele.rpy:2779
+translate brazilian Adele_6_label_4f4c235f:
+
+    # Sadira "Is there anything wrong?"
+    Sadira ""
+
+# game/logic/events/adele.rpy:2780
+translate brazilian Adele_6_label_5cdf57a2:
+
+    # Adele "No, baby. You're wonderful as always!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2781
+translate brazilian Adele_6_label_46e81fca:
+
+    # Adele "I was just thinking about taking a night off."
+    Adele ""
+
+# game/logic/events/adele.rpy:2782
+translate brazilian Adele_6_label_bd81414f:
+
+    # Adele "My head aches from all this music..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2783
+translate brazilian Adele_6_label_2f45fd31:
+
+    # Adele "Can you substitute for me?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2785
+translate brazilian Adele_6_label_d6e26bc5:
+
+    # Sadira "No problem, boss!"
+    Sadira ""
+
+# game/logic/events/adele.rpy:2786
+translate brazilian Adele_6_label_8c809322:
+
+    # Sadira "Go and have some rest. I have everything under control!"
+    Sadira ""
+
+# game/logic/events/adele.rpy:2794
+translate brazilian Adele_6_label_1e6b2c47:
+
+    # Adele "What a beautiful night tonight."
+    Adele ""
+
+# game/logic/events/adele.rpy:2795
+translate brazilian Adele_6_label_70fc0b61:
+
+    # Adele "Just look at those stars!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2797
+translate brazilian Adele_6_label_377b1a75:
+
+    # ch_Name "I'm so glad I could get away from work..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2798
+translate brazilian Adele_6_label_4aa8880b:
+
+    # ch_Name "I'm glad you could find the time to take a walk with me, too."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2800
+translate brazilian Adele_6_label_d1cdcfde:
+
+    # ch_Name "The sky really is beautiful."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2801
+translate brazilian Adele_6_label_b8741ab3:
+
+    # Adele "Look! Can you see it too?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2803
+translate brazilian Adele_6_label_8b8d859e:
+
+    # Adele "It's a dragon!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2804
+translate brazilian Adele_6_label_4341203b:
+
+    # ch_Name "It really is!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2806
+translate brazilian Adele_6_label_9a0e1c8a:
+
+    # Adele "Oh, my God! I heard the rumors, but I didn't believe it!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2807
+translate brazilian Adele_6_label_6db9172b:
+
+    # Adele "I thought all dragons were extinct..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2808
+translate brazilian Adele_6_label_f1f6d915:
+
+    # ch_Name "No, it's definitely a dragon."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2810
+translate brazilian Adele_6_label_762387eb:
+
+    # ch_Name "I think it's the same one I saw out the window on my way to the Academy."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2811
+translate brazilian Adele_6_label_ac2a0ecb:
+
+    # Adele "You saw a dragon up close?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2812
+translate brazilian Adele_6_label_9c7f93cb:
+
+    # Adele "Wow!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2813
+translate brazilian Adele_6_label_e0c221ab:
+
+    # ch_Name "Yeah, well..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2814
+translate brazilian Adele_6_label_15e08ce2:
+
+    # ch_Name "It scared the hell out of us when we first saw it."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2815
+translate brazilian Adele_6_label_e422a4c1:
+
+    # Adele "I can imagine."
+    Adele ""
+
+# game/logic/events/adele.rpy:2817
+translate brazilian Adele_6_label_fdc80d6f:
+
+    # Adele "They say their flames can burn through anything..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2818
+translate brazilian Adele_6_label_c2d05393:
+
+    # ch_Name "You know, Adele. I've wanted to tell you for a long time that..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2821
+translate brazilian Adele_6_label_c201e58a:
+
+    # ch_Name "Agh..." with vpunch
+    ch_Name "" with vpunch
+
+# game/logic/events/adele.rpy:2822
+translate brazilian Adele_6_label_027b1c56:
+
+    # ch_Name "..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2823
+translate brazilian Adele_6_label_078cc834:
+
+    # Adele "[Name], what happened?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2825
+translate brazilian Adele_6_label_84edf1ac:
+
+    # Adele "Wha-at? It's you!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2826
+translate brazilian Adele_6_label_3a6aa4b8:
+
+    # Adele "How dare you!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2828
+translate brazilian Adele_6_label_0dea3671:
+
+    # Adele "Wait!" with vpunch
+    Adele "" with vpunch
+
+# game/logic/events/adele.rpy:2829
+translate brazilian Adele_6_label_9bd1bc27:
+
+    # Adele "What are you doing?!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2841
+translate brazilian Adele_6_label_from_gallery_eee686cf:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2842
+translate brazilian Adele_6_label_from_gallery_99db81d9:
+
+    # ch_Name "{i}(What happened?){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2843
+translate brazilian Adele_6_label_from_gallery_04e7e2a1:
+
+    # ch_Name "{i}(And why does my head hurt so much?){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2844
+translate brazilian Adele_6_label_from_gallery_0514db29:
+
+    # ch_Name "{i}(It hurts so bad I can't even focus my eyes.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2846
+translate brazilian Adele_6_label_from_gallery_3e7d979e:
+
+    # ch_Name "{i}(Shit... And my hands. Why can't I move them?){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2847
+translate brazilian Adele_6_label_from_gallery_87226d4b:
+
+    # ch_Name "{i}(Am I tied up?){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2848
+translate brazilian Adele_6_label_from_gallery_cc3b5d61:
+
+    # ch_Name "Ugh..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2850
+translate brazilian Adele_6_label_from_gallery_9b5d1688:
+
+    # ch_Name "Adele? What's the matter with you?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2851
+translate brazilian Adele_6_label_from_gallery_01acef89:
+
+    # ch_Name "Adele! Can you hear me? Wake up!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2852
+translate brazilian Adele_6_label_from_gallery_f630457e:
+
+    # Diego "You don't have to try, she's out."
+    Diego ""
+
+# game/logic/events/adele.rpy:2854
+translate brazilian Adele_6_label_from_gallery_7117d1a5:
+
+    # ch_Name "{i}(Who's there?){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2855
+translate brazilian Adele_6_label_from_gallery_9cc234ab:
+
+    # ch_Name "{i}(Wait, I've seen him before...){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2856
+translate brazilian Adele_6_label_from_gallery_1c2e444e:
+
+    # ch_Name "You!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2857
+translate brazilian Adele_6_label_from_gallery_51d59576:
+
+    # ch_Name "What have you done to her?!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2859
+translate brazilian Adele_6_label_from_gallery_fa1b367d:
+
+    # Diego "Nothing compared to what I'll do to her now."
+    Diego ""
+
+# game/logic/events/adele.rpy:2860
+translate brazilian Adele_6_label_from_gallery_d4a6684d:
+
+    # Diego "And you got a front-row seat in the auditorium."
+    Diego ""
+
+# game/logic/events/adele.rpy:2861
+translate brazilian Adele_6_label_from_gallery_e08fb1e2:
+
+    # ch_Name "What... What are you talking about?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2863
+translate brazilian Adele_6_label_from_gallery_21018c9a:
+
+    # Diego "I've seen the way you look at her."
+    Diego ""
+
+# game/logic/events/adele.rpy:2864
+translate brazilian Adele_6_label_from_gallery_6439fbb5:
+
+    # Diego "You want to fuck my woman? I don't think so!"
+    Diego ""
+
+# game/logic/events/adele.rpy:2865
+translate brazilian Adele_6_label_from_gallery_178d333c:
+
+    # ch_Name "Adele has a right to choose who she sees."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2867
+translate brazilian Adele_6_label_from_gallery_cd193517:
+
+    # Diego "You think you're in a position to argue with me?"
+    Diego ""
+
+# game/logic/events/adele.rpy:2868
+translate brazilian Adele_6_label_from_gallery_703be7eb:
+
+    # Diego "I don't know what magic tricks you used to seduce her."
+    Diego ""
+
+# game/logic/events/adele.rpy:2869
+translate brazilian Adele_6_label_from_gallery_16a1757a:
+
+    # Diego "But Adele is mine!"
+    Diego ""
+
+# game/logic/events/adele.rpy:2870
+translate brazilian Adele_6_label_from_gallery_fa214528:
+
+    # ch_Name "And what are you going to do, keep her locked up here like a thing?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2872
+translate brazilian Adele_6_label_from_gallery_6c55c0bd:
+
+    # Diego "Since you like her so much, I thought I'd let you see her."
+    Diego ""
+
+# game/logic/events/adele.rpy:2873
+translate brazilian Adele_6_label_from_gallery_addd77b3:
+
+    # Diego "So now you'll see for yourself what I'm going to do with her."
+    Diego ""
+
+# game/logic/events/adele.rpy:2874
+translate brazilian Adele_6_label_from_gallery_a5ab1afc:
+
+    # Adele "Oh... Uh... My head..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2876
+translate brazilian Adele_6_label_from_gallery_234a38b2:
+
+    # Adele "Hey! What's going on in there!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2877
+translate brazilian Adele_6_label_from_gallery_1f393adf:
+
+    # Adele "Release me now, you bastard!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2878
+translate brazilian Adele_6_label_from_gallery_b77f8f4d:
+
+    # Adele "Can you hear me?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2879
+translate brazilian Adele_6_label_from_gallery_cd37b934:
+
+    # Adele "What do you think you're doing?!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2881
+translate brazilian Adele_6_label_from_gallery_ae1138fb:
+
+    # Diego "Oh, how her screams turn me on."
+    Diego ""
+
+# game/logic/events/adele.rpy:2882
+translate brazilian Adele_6_label_from_gallery_4cb167af:
+
+    # Diego "She's so hot when she's angry."
+    Diego ""
+
+# game/logic/events/adele.rpy:2883
+translate brazilian Adele_6_label_from_gallery_82023d84:
+
+    # Diego "You don't think so?"
+    Diego ""
+
+# game/logic/events/adele.rpy:2884
+translate brazilian Adele_6_label_from_gallery_c152ecb2:
+
+    # ch_Name "No."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2885
+translate brazilian Adele_6_label_from_gallery_bc95571c:
+
+    # ch_Name "Sorry, I'm not a sick bastard like you."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2887
+translate brazilian Adele_6_label_from_gallery_04777931:
+
+    # Diego "I'll make you pay for what you said."
+    Diego ""
+
+# game/logic/events/adele.rpy:2888
+translate brazilian Adele_6_label_from_gallery_5042ea63:
+
+    # Diego "After I'm done with her."
+    Diego ""
+
+# game/logic/events/adele.rpy:2890
+translate brazilian Adele_6_label_from_gallery_25be94d2:
+
+    # Diego "You don't have to shout so loud, baby. Here I am!"
+    Diego ""
+
+# game/logic/events/adele.rpy:2891
+translate brazilian Adele_6_label_from_gallery_b3fddcff:
+
+    # Adele "Diego, you bastard! Are you out of your mind?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2892
+translate brazilian Adele_6_label_from_gallery_dcbe442c:
+
+    # Adele "I told you it's over between us!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2894
+translate brazilian Adele_6_label_from_gallery_afd7f647:
+
+    # Diego "I don't think so."
+    Diego ""
+
+# game/logic/events/adele.rpy:2895
+translate brazilian Adele_6_label_from_gallery_235ea374:
+
+    # Adele "I don't care what you think! Release me immediately."
+    Adele ""
+
+# game/logic/events/adele.rpy:2897
+translate brazilian Adele_6_label_from_gallery_22a7a62d:
+
+    # Diego "Oh, baby!"
+    Diego ""
+
+# game/logic/events/adele.rpy:2898
+translate brazilian Adele_6_label_from_gallery_a47532ba:
+
+    # Diego "You're in no position to demand anything."
+    Diego ""
+
+# game/logic/events/adele.rpy:2900
+translate brazilian Adele_6_label_from_gallery_fabebc9a:
+
+    # Diego "I'm going to teach you obedience."
+    Diego ""
+
+# game/logic/events/adele.rpy:2901
+translate brazilian Adele_6_label_from_gallery_d1044a19:
+
+    # Adele "Whatever you're thinking, I won't let you..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2903
+translate brazilian Adele_6_label_from_gallery_5c70219c:
+
+    # Diego "You hear that, boy? She won't let me."
+    Diego ""
+
+# game/logic/events/adele.rpy:2904
+translate brazilian Adele_6_label_from_gallery_3475a881:
+
+    # Diego "Maybe we should just let you go, then."
+    Diego ""
+
+# game/logic/events/adele.rpy:2906
+translate brazilian Adele_6_label_from_gallery_4d828e66:
+
+    # ch_Name "Yes, please. You can see she's against..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2907
+translate brazilian Adele_6_label_from_gallery_6621f457:
+
+    # ch_Name "What, what have you got there?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2909
+translate brazilian Adele_6_label_from_gallery_d59f16a3:
+
+    # Diego "You're so naive, I swear."
+    Diego ""
+
+# game/logic/events/adele.rpy:2910
+translate brazilian Adele_6_label_from_gallery_054959e4:
+
+    # Diego "I'll show you how to keep bitches like that in line."
+    Diego ""
+
+# game/logic/events/adele.rpy:2912
+translate brazilian Adele_6_label_from_gallery_2b69c68c:
+
+    # ch_Name "No, wait..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2917
+translate brazilian Adele_6_label_from_gallery_b3ab4a43:
+
+    # Adele "What... What are you doing in there?"
+    Adele ""
+
+# game/logic/events/adele.rpy:2918
+translate brazilian Adele_6_label_from_gallery_2bc36132:
+
+    # Adele "Stop it!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2921
+translate brazilian Adele_6_label_from_gallery_4fc2e1ec:
+
+    # Adele "Ouch..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2922
+translate brazilian Adele_6_label_from_gallery_8a74dd64:
+
+    # Adele "Ahh..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2924
+translate brazilian Adele_6_label_from_gallery_6db67ee3:
+
+    # Diego "That's better."
+    Diego ""
+
+# game/logic/events/adele.rpy:2925
+translate brazilian Adele_6_label_from_gallery_9f19c7eb:
+
+    # Diego "Now your ass looks gorgeous!"
+    Diego ""
+
+# game/logic/events/adele.rpy:2927
+translate brazilian Adele_6_label_from_gallery_893a6267:
+
+    # Adele "You sick bastard!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2928
+translate brazilian Adele_6_label_from_gallery_f35ee557:
+
+    # Adele "You think you can get away with this?!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2930
+translate brazilian Adele_6_label_from_gallery_86f983c7:
+
+    # Diego "I think the bitch is still kicking. But nothing!"
+    Diego ""
+
+# game/logic/events/adele.rpy:2932
+translate brazilian Adele_6_label_from_gallery_7d2e0319:
+
+    # Adele "Aah!" with hpunch
+    Adele "" with hpunch
+
+# game/logic/events/adele.rpy:2934
+translate brazilian Adele_6_label_from_gallery_2af752ae:
+
+    # Adele "Ow!" with hpunch
+    Adele "" with hpunch
+
+# game/logic/events/adele.rpy:2937
+translate brazilian Adele_6_label_from_gallery_ca0591c5:
+
+    # ch_Name "Stop it right now, asshole!" with hpunch
+    ch_Name "" with hpunch
+
+# game/logic/events/adele.rpy:2939
+translate brazilian Adele_6_label_from_gallery_fe0c4f9b:
+
+    # ch_Name "You're hurting her!" with hpunch
+    ch_Name "" with hpunch
+
+# game/logic/events/adele.rpy:2940
+translate brazilian Adele_6_label_from_gallery_0ae9bcd0:
+
+    # ""
+    ""
+
+# game/logic/events/adele.rpy:2942
+translate brazilian Adele_6_label_from_gallery_73ebbcc2:
+
+    # Adele "[Name]..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2944
+translate brazilian Adele_6_label_from_gallery_4495a533:
+
+    # Diego "I think she's calling you, puppy."
+    Diego ""
+
+# game/logic/events/adele.rpy:2945
+translate brazilian Adele_6_label_from_gallery_4307fad9:
+
+    # Diego "But it's okay, I'll shut her up."
+    Diego ""
+
+# game/logic/events/adele.rpy:2947
+translate brazilian Adele_6_label_from_gallery_1fc7a6eb:
+
+    # Diego "I have just the perfect way to shut it..."
+    Diego ""
+
+# game/logic/events/adele.rpy:2948
+translate brazilian Adele_6_label_from_gallery_a454b74d:
+
+    # Adele "No, please! Don't!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2950
+translate brazilian Adele_6_label_from_gallery_28358bcf:
+
+    # Diego "What's the matter, baby?"
+    Diego ""
+
+# game/logic/events/adele.rpy:2951
+translate brazilian Adele_6_label_from_gallery_2d1e7a2f:
+
+    # Diego "Don't act like you don't like my dick. I know you don't."
+    Diego ""
+
+# game/logic/events/adele.rpy:2953
+translate brazilian Adele_6_label_from_gallery_73ebbcc2_1:
+
+    # Adele "[Name]..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2954
+translate brazilian Adele_6_label_from_gallery_58b9d110:
+
+    # Diego "He ain't gonna do you any good, whore."
+    Diego ""
+
+# game/logic/events/adele.rpy:2955
+translate brazilian Adele_6_label_from_gallery_48a7c66c:
+
+    # Diego "Stop looking at him, look at me!"
+    Diego ""
+
+# game/logic/events/adele.rpy:2956
+translate brazilian Adele_6_label_from_gallery_f4045f01:
+
+    # Adele "Please, [Name]... Do something!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2958
+translate brazilian Adele_6_label_from_gallery_0e4418c2:
+
+    # ch_Name "Adele! I'm trying to..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2959
+translate brazilian Adele_6_label_from_gallery_2bfba8c6:
+
+    # ch_Name "You hear me, you asshole? Get away from her right now!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2960
+translate brazilian Adele_6_label_from_gallery_7794d55c:
+
+    # ch_Name "You're mad at me, not her!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2961
+translate brazilian Adele_6_label_from_gallery_1fa594d8:
+
+    # ch_Name "Get over here and hit me with that bat, but don't touch her!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2963
+translate brazilian Adele_6_label_from_gallery_f6869edb:
+
+    # Diego "All in good time, boy."
+    Diego ""
+
+# game/logic/events/adele.rpy:2964
+translate brazilian Adele_6_label_from_gallery_1557df26:
+
+    # Diego "In the meantime, watch the bitch become a submissive pussy."
+    Diego ""
+
+# game/logic/events/adele.rpy:2965
+translate brazilian Adele_6_label_from_gallery_a8bdf707:
+
+    # Adele "No! I won't do it!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2967
+translate brazilian Adele_6_label_from_gallery_abce62e3:
+
+    # Diego "Turn around and open your mouth, bitch!"
+    Diego ""
+
+# game/logic/events/adele.rpy:2968
+translate brazilian Adele_6_label_from_gallery_d3f680c5:
+
+    # Diego "You think I'm joking with you?"
+    Diego ""
+
+# game/logic/events/adele.rpy:2970
+translate brazilian Adele_6_label_from_gallery_cc49a121:
+
+    # Diego "Now your lips are gonna remember what a real man tastes like."
+    Diego ""
+
+# game/logic/events/adele.rpy:2971
+translate brazilian Adele_6_label_from_gallery_b37b92c2:
+
+    # Adele "Please... Don't!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2973
+translate brazilian Adele_6_label_from_gallery_3a79f2e5:
+
+    # Adele "Ugh..."
+    Adele ""
+
+# game/logic/events/adele.rpy:2974
+translate brazilian Adele_6_label_from_gallery_f25e4217:
+
+    # Adele "Ugh-ugh!"
+    Adele ""
+
+# game/logic/events/adele.rpy:2975
+translate brazilian Adele_6_label_from_gallery_ecedb6e9:
+
+    # Diego "Open your mouth, I said!"
+    Diego ""
+
+# game/logic/events/adele.rpy:2978
+translate brazilian Adele_6_label_from_gallery_3d80b9aa:
+
+    # ch_Name "{i}(I've got to do something!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2979
+translate brazilian Adele_6_label_from_gallery_63a61ae4:
+
+    # ch_Name "{i}(Right now!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2980
+translate brazilian Adele_6_label_from_gallery_b6c2a60d:
+
+    # ch_Name "{i}(Shit! Come on!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2981
+translate brazilian Adele_6_label_from_gallery_27146d9c:
+
+    # ch_Name "{i}(I got it! I can break free!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:2983
+translate brazilian Adele_6_label_from_gallery_57f2ebb3:
+
+    # Diego "Come on, Adele. I know you want it too!"
+    Diego ""
+
+# game/logic/events/adele.rpy:2986
+translate brazilian Adele_6_label_from_gallery_ec612954:
+
+    # Diego "What the?"
+    Diego ""
+
+# game/logic/events/adele.rpy:2987
+translate brazilian Adele_6_label_from_gallery_de75c0c9:
+
+    # Diego "What do you think you're doing, you bastard?"
+    Diego ""
+
+# game/logic/events/adele.rpy:2988
+translate brazilian Adele_6_label_from_gallery_6bc15856:
+
+    # Diego "You think you can stop me?"
+    Diego ""
+
+# game/logic/events/adele.rpy:2989
+translate brazilian Adele_6_label_from_gallery_a0717fc0:
+
+    # Diego "All right, I'll pull up my pants and put you in your place."
+    Diego ""
+
+# game/logic/events/adele.rpy:2996
+translate brazilian Adele_6_label_from_gallery_9e6926a6:
+
+    # Diego "You think you can do something?"
+    Diego ""
+
+# game/logic/events/adele.rpy:2997
+translate brazilian Adele_6_label_from_gallery_e708f432:
+
+    # Diego "Come on, give it a shot!"
+    Diego ""
+
+# game/logic/events/adele.rpy:2999
+translate brazilian Adele_6_label_from_gallery_184d53f1:
+
+    # ch_Name "You should have listened when I asked nicely."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3000
+translate brazilian Adele_6_label_from_gallery_933bd3e4:
+
+    # ch_Name "Now it's gonna be bad."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3001
+translate brazilian Adele_6_label_from_gallery_1444481c:
+
+    # Diego "Oh, you!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3003
+translate brazilian Adele_6_label_from_gallery_1578a1d3:
+
+    # ch_Name "{i}(He may look cool.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3004
+translate brazilian Adele_6_label_from_gallery_54e00266:
+
+    # ch_Name "{i}(But I'm not afraid.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3005
+translate brazilian Adele_6_label_from_gallery_9995d3c4:
+
+    # Diego "I'll get you now!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3006
+translate brazilian Adele_6_label_from_gallery_62c4bbf9:
+
+    # ch_Name "{i}(Time to show him what I learned at the Academy!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3009
+translate brazilian Adele_6_label_from_gallery_60aa4c33:
+
+    # Diego "Argh..." with vpunch
+    Diego "" with vpunch
+
+# game/logic/events/adele.rpy:3010
+translate brazilian Adele_6_label_from_gallery_2971d8dc:
+
+    # ch_Name "Take that, asshole!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3011
+translate brazilian Adele_6_label_from_gallery_c9649a2b:
+
+    # Diego "..."
+    Diego ""
+
+# game/logic/events/adele.rpy:3013
+translate brazilian Adele_6_label_from_gallery_e613737d:
+
+    # ch_Name "I think he's had enough."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3014
+translate brazilian Adele_6_label_from_gallery_40d8a2da:
+
+    # Adele "[Name]! You did it!"
+    Adele ""
+
+# game/logic/events/adele.rpy:3016
+translate brazilian Adele_6_label_from_gallery_afdde4d2:
+
+    # ch_Name "Hang in there, Adele."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3017
+translate brazilian Adele_6_label_from_gallery_0d953460:
+
+    # ch_Name "I'm on my way to help."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3019
+translate brazilian Adele_6_label_from_gallery_b062b2b7:
+
+    # Adele "I knew you could do it..."
+    Adele ""
+
+# game/logic/events/adele.rpy:3026
+translate brazilian Adele_6_label_from_gallery_0aecfac8:
+
+    # Adele "Ah, that's better."
+    Adele ""
+
+# game/logic/events/adele.rpy:3027
+translate brazilian Adele_6_label_from_gallery_e651b939:
+
+    # Adele "Thanks again."
+    Adele ""
+
+# game/logic/events/adele.rpy:3029
+translate brazilian Adele_6_label_from_gallery_f6401630:
+
+    # ch_Name "{i}(This probably isn't the best time to stare.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3030
+translate brazilian Adele_6_label_from_gallery_0aca9b6d:
+
+    # ch_Name "I just need to find your clothes."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3032
+translate brazilian Adele_6_label_from_gallery_8f8b8eb0:
+
+    # Adele "I think I know where they are."
+    Adele ""
+
+# game/logic/events/adele.rpy:3033
+translate brazilian Adele_6_label_from_gallery_f0a2515a:
+
+    # ch_Name "Yes? How did you know that?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3034
+translate brazilian Adele_6_label_from_gallery_dfff9d87:
+
+    # Adele "I've been here once. I'll get them."
+    Adele ""
+
+# game/logic/events/adele.rpy:3036
+translate brazilian Adele_6_label_from_gallery_72f787a4:
+
+    # ch_Name "{i}(He doesn't seem to be coming to his senses anytime soon.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3037
+translate brazilian Adele_6_label_from_gallery_e8e74e5a:
+
+    # ch_Name "{i}(I didn't even think I could create such powerful spells.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3038
+translate brazilian Adele_6_label_from_gallery_b6dc5515:
+
+    # ch_Name "{i}(It must be the adrenaline.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3040
+translate brazilian Adele_6_label_from_gallery_12c15517:
+
+    # Adele "Okay, I found my clothes."
+    Adele ""
+
+# game/logic/events/adele.rpy:3041
+translate brazilian Adele_6_label_from_gallery_da677df5:
+
+    # ch_Name "I see."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3043
+translate brazilian Adele_6_label_from_gallery_3de104cb:
+
+    # Adele "Oh, [Name]. I was so scared."
+    Adele ""
+
+# game/logic/events/adele.rpy:3044
+translate brazilian Adele_6_label_from_gallery_47b88595:
+
+    # Adele "If it wasn't for you, I don't know what would have happened..."
+    Adele ""
+
+# game/logic/events/adele.rpy:3046
+translate brazilian Adele_6_label_from_gallery_e5cbb336:
+
+    # ch_Name "Don't be afraid. It's all over now."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3047
+translate brazilian Adele_6_label_from_gallery_cc1c44b0:
+
+    # ch_Name "I'm just glad I could be there in time to help."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3049
+translate brazilian Adele_6_label_from_gallery_b981bae9:
+
+    # ch_Name "What should we do with him? Should we call the police?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3050
+translate brazilian Adele_6_label_from_gallery_a41fe6cd:
+
+    # Adele "No, that won't stop him. But I know what to do."
+    Adele ""
+
+# game/logic/events/adele.rpy:3051
+translate brazilian Adele_6_label_from_gallery_3189b12c:
+
+    # Adele "Go away and leave it to me."
+    Adele ""
+
+# game/logic/events/adele.rpy:3052
+translate brazilian Adele_6_label_from_gallery_f113a10a:
+
+    # ch_Name "Are you sure?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3053
+translate brazilian Adele_6_label_from_gallery_0acd73bd:
+
+    # Adele "Oh, I'm sure."
+    Adele ""
+
+# game/logic/events/adele.rpy:3055
+translate brazilian Adele_6_label_from_gallery_17620d50:
+
+    # ch_Name "{i}(What a night... Definitely not the date I had planned.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3056
+translate brazilian Adele_6_label_from_gallery_1fa87991:
+
+    # ch_Name "{i}(I can't wait to go to bed and forget this like a bad dream.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3060
+translate brazilian Adele_6_label_from_gallery_be2bda5d:
+
+    # ch_Name "Stop it at once, you sick bastard!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3061
+translate brazilian Adele_6_label_from_gallery_fed24066:
+
+    # ch_Name "I won't let you make fun of her!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3064
+translate brazilian Adele_6_label_from_gallery_0261c9dc:
+
+    # ch_Name "{i}(Come on, come on...){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3065
+translate brazilian Adele_6_label_from_gallery_e084ea40:
+
+    # ch_Name "{i}(I can break free!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3067
+translate brazilian Adele_6_label_from_gallery_6d92c75e:
+
+    # Diego "You little bastard!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3068
+translate brazilian Adele_6_label_from_gallery_e1930dcc:
+
+    # Diego "Do you think you're a hero?"
+    Diego ""
+
+# game/logic/events/adele.rpy:3069
+translate brazilian Adele_6_label_from_gallery_687def28:
+
+    # Diego "I'll show you!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3071
+translate brazilian Adele_6_label_from_gallery_e9447afa:
+
+    # Diego "Where's my bat..."
+    Diego ""
+
+# game/logic/events/adele.rpy:3072
+translate brazilian Adele_6_label_from_gallery_7f56ba75:
+
+    # ch_Name "{i}(I didn't think of the bat...){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3074
+translate brazilian Adele_6_label_from_gallery_c2f42d48:
+
+    # Diego "Prepare to die!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3075
+translate brazilian Adele_6_label_from_gallery_1074cd94:
+
+    # ch_Name "You don't scare me."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3076
+translate brazilian Adele_6_label_from_gallery_8819a524:
+
+    # Diego "YOU'RE DEAD!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3079
+translate brazilian Adele_6_label_from_gallery_171f65e5:
+
+    # ch_Name "{i}(I did it!){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3080
+translate brazilian Adele_6_label_from_gallery_4d535fcd:
+
+    # ch_Name "{i}(I'm free.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3081
+translate brazilian Adele_6_label_from_gallery_d3a2babd:
+
+    # ch_Name "I'll show you now..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3083
+translate brazilian Adele_6_label_from_gallery_0082fec2:
+
+    # Diego "Too slow!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3084
+translate brazilian Adele_6_label_from_gallery_7e961ad6:
+
+    # Diego "HOME RUN!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3087
+translate brazilian Adele_6_label_from_gallery_fb064b6d:
+
+    # ch_Name "Ught..." with vpunch
+    ch_Name "" with vpunch
+
+# game/logic/events/adele.rpy:3088
+translate brazilian Adele_6_label_from_gallery_8a69a2de:
+
+    # ch_Name "{i}(Shit... He's so fast.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3089
+translate brazilian Adele_6_label_from_gallery_8c8f7904:
+
+    # ch_Name "{i}(I'm not sure I can handle more blows.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3091
+translate brazilian Adele_6_label_from_gallery_b1188517:
+
+    # Diego "Are you still standing?"
+    Diego ""
+
+# game/logic/events/adele.rpy:3092
+translate brazilian Adele_6_label_from_gallery_ecf7f032:
+
+    # Diego "Well, it won't be long!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3093
+translate brazilian Adele_6_label_from_gallery_9cd3d167:
+
+    # ch_Name "{i}(Shit, I won't make it...){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3096
+translate brazilian Adele_6_label_from_gallery_fb064b6d_1:
+
+    # ch_Name "Ught..." with vpunch
+    ch_Name "" with vpunch
+
+# game/logic/events/adele.rpy:3097
+translate brazilian Adele_6_label_from_gallery_cc976fe5:
+
+    # ch_Name "{i}(I have to prepare a spell, but he won't give me time...){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3099
+translate brazilian Adele_6_label_from_gallery_21112a96:
+
+    # Diego "I'll give you credit, you're resilient."
+    Diego ""
+
+# game/logic/events/adele.rpy:3100
+translate brazilian Adele_6_label_from_gallery_898a7d79:
+
+    # Diego "But this will be the last blow!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3103
+translate brazilian Adele_6_label_from_gallery_09191dbc:
+
+    # ch_Name "Oh, no!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3104
+translate brazilian Adele_6_label_from_gallery_20629761:
+
+    # ch_Name "It's my turn to strike!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3106
+translate brazilian Adele_6_label_from_gallery_23a544be:
+
+    # Diego "Only if you make it in time!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3107
+translate brazilian Adele_6_label_from_gallery_882e4883:
+
+    # Diego "GET THIS!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3110
+translate brazilian Adele_6_label_from_gallery_09649997:
+
+    # Diego "Argh..."
+    Diego ""
+
+# game/logic/events/adele.rpy:3111
+translate brazilian Adele_6_label_from_gallery_28778c69:
+
+    # Diego "Shit!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3114
+translate brazilian Adele_6_label_from_gallery_e0c0b56c:
+
+    # Diego "My bat!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3115
+translate brazilian Adele_6_label_from_gallery_e911d875:
+
+    # Diego "Shit... Shit!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3117
+translate brazilian Adele_6_label_from_gallery_9cf07674:
+
+    # Diego "You think you're so tough?"
+    Diego ""
+
+# game/logic/events/adele.rpy:3118
+translate brazilian Adele_6_label_from_gallery_931afac5:
+
+    # Diego "I'll kill you with my bare hands!"
+    Diego ""
+
+# game/logic/events/adele.rpy:3121
+translate brazilian Adele_6_label_from_gallery_60aa4c33_1:
+
+    # Diego "Argh..." with vpunch
+    Diego "" with vpunch
+
+# game/logic/events/adele.rpy:3122
+translate brazilian Adele_6_label_from_gallery_58a860ff:
+
+    # ch_Name "Take that, motherfucker!"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3123
+translate brazilian Adele_6_label_from_gallery_c9649a2b_1:
+
+    # Diego "..."
+    Diego ""
+
+# game/logic/events/adele.rpy:3125
+translate brazilian Adele_6_label_from_gallery_e613737d_1:
+
+    # ch_Name "I think he's had enough."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3126
+translate brazilian Adele_6_label_from_gallery_40d8a2da_1:
+
+    # Adele "[Name]! You did it!"
+    Adele ""
+
+# game/logic/events/adele.rpy:3128
+translate brazilian Adele_6_label_from_gallery_afdde4d2_1:
+
+    # ch_Name "Hang in there, Adele."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3129
+translate brazilian Adele_6_label_from_gallery_0d953460_1:
+
+    # ch_Name "I'm on my way to help."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3131
+translate brazilian Adele_6_label_from_gallery_b062b2b7_1:
+
+    # Adele "I knew you could do it..."
+    Adele ""
+
+# game/logic/events/adele.rpy:3133
+translate brazilian Adele_6_label_from_gallery_21a8f0bd:
+
+    # ch_Name "Yeah, I'm so..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3134
+translate brazilian Adele_6_label_from_gallery_35c90250:
+
+    # ch_Name "Oh...{w} I don't feel good..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3141
+translate brazilian Adele_6_label_from_gallery_eee686cf_1:
+
+    # ch_Name "Oh..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3142
+translate brazilian Adele_6_label_from_gallery_2b36f9c8:
+
+    # Adele "You came to your senses! Yay!"
+    Adele ""
+
+# game/logic/events/adele.rpy:3143
+translate brazilian Adele_6_label_from_gallery_f5a1f715:
+
+    # ch_Name "Ouch..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3145
+translate brazilian Adele_6_label_from_gallery_8168b11c:
+
+    # Adele "I was afraid I'd have to drag you to the hospital."
+    Adele ""
+
+# game/logic/events/adele.rpy:3146
+translate brazilian Adele_6_label_from_gallery_886a4fbf:
+
+    # Adele "You poor thing, how badly did you get hurt?"
+    Adele ""
+
+# game/logic/events/adele.rpy:3147
+translate brazilian Adele_6_label_from_gallery_46d296fc:
+
+    # ch_Name "I'll live..."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3149
+translate brazilian Adele_6_label_from_gallery_c8829339:
+
+    # ch_Name "Uh... What a weird moving floor."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3150
+translate brazilian Adele_6_label_from_gallery_b5db61d8:
+
+    # ch_Name "Or is it just my head spinning?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3152
+translate brazilian Adele_6_label_from_gallery_5beddf2b:
+
+    # Adele "Oh, [Name]. I was so scared..."
+    Adele ""
+
+# game/logic/events/adele.rpy:3153
+translate brazilian Adele_6_label_from_gallery_47b88595_1:
+
+    # Adele "If it wasn't for you, I don't know what would have happened..."
+    Adele ""
+
+# game/logic/events/adele.rpy:3155
+translate brazilian Adele_6_label_from_gallery_552c0564:
+
+    # ch_Name "Don't be scared. It's all over now."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3156
+translate brazilian Adele_6_label_from_gallery_cc1c44b0_1:
+
+    # ch_Name "I'm just glad I could be there in time to help."
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3158
+translate brazilian Adele_6_label_from_gallery_b981bae9_1:
+
+    # ch_Name "What should we do with him? Should we call the police?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3159
+translate brazilian Adele_6_label_from_gallery_a41fe6cd_1:
+
+    # Adele "No, that won't stop him. But I know what to do."
+    Adele ""
+
+# game/logic/events/adele.rpy:3160
+translate brazilian Adele_6_label_from_gallery_3189b12c_1:
+
+    # Adele "Go away and leave it to me."
+    Adele ""
+
+# game/logic/events/adele.rpy:3161
+translate brazilian Adele_6_label_from_gallery_f113a10a_1:
+
+    # ch_Name "Are you sure?"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3162
+translate brazilian Adele_6_label_from_gallery_0acd73bd_1:
+
+    # Adele "Oh, I'm sure."
+    Adele ""
+
+# game/logic/events/adele.rpy:3164
+translate brazilian Adele_6_label_from_gallery_e2119ea8:
+
+    # ch_Name "{i}(What a night... I hope I can make it to the apartment without passing out.){/i}"
+    ch_Name ""
+
+# game/logic/events/adele.rpy:3165
+translate brazilian Adele_6_label_from_gallery_1fa87991_1:
+
+    # ch_Name "{i}(I can't wait to go to bed and forget this like a bad dream.){/i}"
+    ch_Name ""
+
+translate brazilian strings:
+
+    # game/logic/events/adele.rpy:8
+    old "Do you want Sadira to be a female or a shemale?"
+    new ""
+
+    # game/logic/events/adele.rpy:23
+    old "Ask Adele out"
+    new ""
+
+    # game/logic/events/adele.rpy:2913
+    old "Wait for a better moment "
+    new ""
+
+    # game/logic/events/adele.rpy:2913
+    old "Try to save her"
+    new ""
+

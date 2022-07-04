@@ -190,3 +190,31 @@ translate brazilian strings:
     old "Unknown elf"
     new "Elfo desconhecido"
 
+# TODO: Translation updated at 2022-07-04 17:01
+
+translate brazilian strings:
+
+    # game/logic/characters.rpy:32
+    old "Faith"
+    new ""
+
+    # game/logic/characters.rpy:51
+    old "Dakota"
+    new ""
+
+    # game/logic/characters.rpy:52
+    old "Ezra"
+    new ""
+
+    # game/logic/characters.rpy:53
+    old "Penny"
+    new ""
+
+    # game/logic/characters.rpy:54
+    old "Minotaur"
+    new ""
+
+    # game/logic/characters.rpy:75
+    old "Strange girl"
+    new ""
+
