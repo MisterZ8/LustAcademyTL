@@ -106,7 +106,7 @@ translate brazilian arthur_2_c2bc33b6:
 translate brazilian arthur_2_4d54c055:
 
     # Arthur "This week's winner house is {b}Leonheart{/b}!"
-    Arthur "A casa vencedora esta semana é {b}Leonheart{b}!"
+    Arthur "A casa vencedora esta semana é {b}Leonheart{/b}!"
 
 # game/logic/events/arthur_2.rpy:80
 translate brazilian arthur_2_1f8bb2b6:

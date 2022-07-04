@@ -226,7 +226,7 @@ translate brazilian CordGarden_label_e389e50c:
 translate brazilian CordGarden_label_a89f8e02:
 
     # ch_Name "{i}(This place has a lot of doors and no signs whatsoever.){/i}"
-    ch_Name "Esses lugar tem um monte de porta de nada de placas.{/i}"
+    ch_Name "{i}(Esses lugar tem um monte de porta de nada de placas.){/i}"
 
 # game/logic/tutorial.rpy:636
 translate brazilian CordGarden_label_0526f213:

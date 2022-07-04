@@ -1252,7 +1252,7 @@ translate brazilian Sadira_1_label_c01aae34:
 translate brazilian Sadira_1_label_1167bc6d:
 
     # ch_Name "{i}(I could eat her just like that.){/i}"
-    ch_Name "{i}(Eu poderia devorar ela assim mesmo.){i}"
+    ch_Name "{i}(Eu poderia devorar ela assim mesmo.){/i}"
 
 # game/logic/events/adele.rpy:478
 translate brazilian Sadira_1_label_f4bf99f5_1:
@@ -1318,7 +1318,7 @@ translate brazilian Sadira_1_label_0ae9bcd0_6:
 translate brazilian Sadira_1_label_1167bc6d_1:
 
     # ch_Name "{i}(I could eat her just like that.){/i}"
-    ch_Name "{i}(Eu poderia devorar ela assim mesmo.){i}"
+    ch_Name "{i}(Eu poderia devorar ela assim mesmo.){/i}"
 
 # game/logic/events/adele.rpy:526
 translate brazilian Sadira_2_label_c3566743:
@@ -2338,7 +2338,7 @@ translate brazilian vip_lucy_1_label_1_a2218030:
 translate brazilian vip_lucy_1_label_1_6911978f:
 
     # ch_Name "{i}(Oh wow... Her hands are so soft.){/i}"
-    ch_Name "(i)(Ah uau... Que mãos macias ela tem.){/i}"
+    ch_Name "{i}(Ah uau... Que mãos macias ela tem.){/i}"
 
 # game/logic/events/adele.rpy:881
 translate brazilian vip_lucy_1_label_1_c7c6c900:
@@ -3088,7 +3088,7 @@ translate brazilian vip_lucy_1_label_2_f49bb6ed:
 translate brazilian vip_lucy_1_label_2_806315c9:
 
     # ch_Name "{i}(And to watch this bitch's pussy rubbing around my dick...){/i}"
-    ch_Name "{i}(E ver a xoxota dessa puta se esfregando no meu pau...){/i?"
+    ch_Name "{i}(E ver a xoxota dessa puta se esfregando no meu pau...){/i}"
 
 # game/logic/events/adele.rpy:1055
 translate brazilian vip_lucy_1_label_2_5968e84b:
@@ -5026,7 +5026,7 @@ translate brazilian vip_sadira_1_label_2_95e4d8ed:
 translate brazilian vip_sadira_1_label_2_5fabf729_1:
 
     # ch_Name "{i}(The day will come when I fuck her good.){/i}"
-    ch_Name "{i}(Ainda virá o dia que vou foder ela com gosto.){i}"
+    ch_Name "{i}(Ainda virá o dia que vou foder ela com gosto.){/i}"
 
 # game/logic/events/adele.rpy:1571
 translate brazilian vip_sadira_1_label_2_359f73ab:
@@ -6580,7 +6580,7 @@ translate brazilian Vanessa_3_label_c775abd5:
 translate brazilian Vanessa_3_label_2e7e0b94:
 
     # ch_Name "{i}(God, I can admire the view of these legs forever!){/i}"
-    ch_Name "{i}(Deus, poderia admirar a visão dessas pernas para sempre!){i}"
+    ch_Name "{i}(Deus, poderia admirar a visão dessas pernas para sempre!){/i}"
 
 # game/logic/events/adele.rpy:2007
 translate brazilian Vanessa_3_label_37a2f2b3:

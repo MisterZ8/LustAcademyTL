@@ -4,7 +4,7 @@
 translate brazilian parents_room_cupboard_1_label_95946a00:
 
     # ch_Name "{i}(At least I know they're not trying to kick me out to make room for a new baby...){/i}"
-    ch_Name "{i^}(Pelo menos eu sei que não estão me expulsando para fazer espaço para um novo bebê...){/i}"
+    ch_Name "{i}(Pelo menos eu sei que não estão me expulsando para fazer espaço para um novo bebê...){/i}"
 
 # game/logic/main_interface/screen.rpy:2258
 translate brazilian parents_room_cupboard_1_label_df1f2ac7:

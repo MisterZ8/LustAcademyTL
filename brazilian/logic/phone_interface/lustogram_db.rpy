@@ -212,7 +212,7 @@ translate brazilian strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Ashley: Fuck off."
-    new "{b}Ashley: {\b}: Vai se foder."
+    new "{b}Ashley: {/b}: Vai se foder."
 
     # game/logic/phone_interface/lustogram_db.rpy:44
     old "Voila! One more glimpse at my future routine: check out new tricks I've been working on! This was actually really fun!"

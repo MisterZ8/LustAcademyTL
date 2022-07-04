@@ -400,7 +400,7 @@ translate brazilian Haley_2_label_8fef342b:
 translate brazilian Haley_2_label_07f25072:
 
     # ch_Name "{i}(But old life is over. Begone, anxiety! Today is my day, I feel it.){/i}"
-    ch_Name "{i}(Mas a vida velha acabou. Vá embora, ansiedade! Hoje é meu dia, posso sentir.){/}"
+    ch_Name "{i}(Mas a vida velha acabou. Vá embora, ansiedade! Hoje é meu dia, posso sentir.){/i}"
 
 # game/logic/events/haley.rpy:333
 translate brazilian Haley_2_label_4aa97c28:
@@ -1732,7 +1732,7 @@ translate brazilian Haley_5_label_4b4c0293:
 translate brazilian Haley_5_label_5ee834e9:
 
     # ch_Name "{i}(Well, where is she?){/i}"
-    ch_Name "{i}(Bem, cadê ela?){i}"
+    ch_Name "{i}(Bem, cadê ela?){/i}"
 
 # game/logic/events/haley.rpy:685
 translate brazilian Haley_5_label_e0e353e6:

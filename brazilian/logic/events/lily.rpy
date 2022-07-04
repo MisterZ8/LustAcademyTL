@@ -1426,7 +1426,7 @@ translate brazilian Lily_4_label_5887254d:
 translate brazilian Lily_5_label_2e7d78c5:
 
     # ch_Name "{i}(Oh, this day was so hard... I can fall asleep right here.){/i}"
-    ch_Name "{i](Oh, esse dia foi dureza... Podia cair no sono agora mesmo.){/i}"
+    ch_Name "{i}(Oh, esse dia foi dureza... Podia cair no sono agora mesmo.){/i}"
 
 # game/logic/events/lily.rpy:637
 translate brazilian Lily_5_label_c7b402c2:
@@ -3208,7 +3208,7 @@ translate brazilian lily_events_5_label_3_31f5db86:
 translate brazilian lily_events_5_label_3_26983f8c:
 
     # ch_Name "{i}(I'll try not to disturb your sleep, Lily.){/i}"
-    ch_Name "{I}(Vou tentar não atrapalhar seu sono, Lily.){/i}"
+    ch_Name "{i}(Vou tentar não atrapalhar seu sono, Lily.){/i}"
 
 # game/logic/events/lily.rpy:1148
 translate brazilian lily_events_5_label_3_499c2fb1:
@@ -3256,7 +3256,7 @@ translate brazilian lily_events_5_label_3_de46fa71:
 translate brazilian lily_events_5_label_3_1b854e6e:
 
     # ch_Name "{i}(Oh, yes...){/i}"
-    ch_Name "{i](Assim...){/i}"
+    ch_Name "{i}(Assim...){/i}"
 
 # game/logic/events/lily.rpy:1159
 translate brazilian lily_events_5_label_3_fd9d750a:
@@ -3340,7 +3340,7 @@ translate brazilian lily_events_5_label_3_2ee42446:
 translate brazilian lily_events_5_label_3_259d469d:
 
     # ch_Name "{i}(And look at what a beautiful view opens up to us.){/i}"
-    ch_Name "{I}(E olhar para a bela visão que se abre para nós.){/i}"
+    ch_Name "{i}(E olhar para a bela visão que se abre para nós.){/i}"
 
 # game/logic/events/lily.rpy:1178
 translate brazilian lily_events_5_label_3_955bd88d:
@@ -4102,7 +4102,7 @@ translate brazilian Lily_6_label_from_gallery_3daf6173:
 translate brazilian Lily_6_label_from_gallery_89419d28:
 
     # ch_Name "{i}(I'm just now realizing how tired I am.){/i}"
-    ch_Name "{i](Estou percebendo agora o quanto estou cansado.){/i}"
+    ch_Name "{i}(Estou percebendo agora o quanto estou cansado.){/i}"
 
 # game/logic/events/lily.rpy:1392
 translate brazilian Lily_6_label_from_gallery_a7fc4a8b:
@@ -4450,7 +4450,7 @@ translate brazilian Lily_6_label_from_gallery_2cc17130:
 translate brazilian Lily_6_label_from_gallery_c9f88c71:
 
     # ch_Name "{i}(I know what will wake her up even more.){/i}"
-    ch_Name "{i](Eu sei o que vai arcordar ela ainda mais.){/i}"
+    ch_Name "{i}(Eu sei o que vai arcordar ela ainda mais.){/i}"
 
 # game/logic/events/lily.rpy:1485
 translate brazilian Lily_6_label_from_gallery_ad0af347:
@@ -4648,7 +4648,7 @@ translate brazilian Lily_6_label_from_gallery_754711c6:
 translate brazilian Lily_6_label_from_gallery_044733a4:
 
     # ch_Name "{i}(What soft skin.){/i}"
-    ch_Name "{i](Que pele macia.){/i}"
+    ch_Name "{i}(Que pele macia.){/i}"
 
 # game/logic/events/lily.rpy:1531
 translate brazilian Lily_6_label_from_gallery_11e4280c:

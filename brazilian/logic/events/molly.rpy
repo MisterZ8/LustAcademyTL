@@ -124,7 +124,7 @@ translate brazilian coffe_event_1_1ba6ee4d:
 translate brazilian coffe_event_1_2dcf90f4:
 
     # ch_Name "{i}(Than what is?){/i}"
-    ch_Name "{i}(Então, o que seria?){i}"
+    ch_Name "{i}(Então, o que seria?){/i}"
 
 # game/logic/events/molly.rpy:155
 translate brazilian coffe_event_1_410acff1:

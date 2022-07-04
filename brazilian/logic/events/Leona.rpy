@@ -970,7 +970,7 @@ translate brazilian Leona_1_label_02bfe5d0:
 translate brazilian Leona_1_label_bef6f25e:
 
     # ch_Name "{i}(Damn, she's just too good...){/i}"
-    ch_Name "{i}(Porra, ela é boa demais...){/}"
+    ch_Name "{i}(Porra, ela é boa demais...){/i}"
 
 # game/logic/events/Leona.rpy:279
 translate brazilian Leona_1_label_2428453a:
@@ -1042,7 +1042,7 @@ translate brazilian Leona_1_label_8911c155:
 translate brazilian Leona_1_label_729f77c5:
 
     # ch_Name "{i}(Oh gosh... She's not kidding...){/i}"
-    ch_Name "{i}(Oh Deus... Ela não está brincando...){/}"
+    ch_Name "{i}(Oh Deus... Ela não está brincando...){/i}"
 
 # game/logic/events/Leona.rpy:295
 translate brazilian Leona_1_label_30c03ed8:
@@ -3694,7 +3694,7 @@ translate brazilian Leona_4_label_0e5f2795:
 translate brazilian Leona_4_label_31fb3977:
 
     # ch_Name "{i}(It's like it's been weeks.){/i}"
-    ch_Name "{i){É como se houvesse semanas.){/i}"
+    ch_Name "{i}(É como se houvesse semanas.){/i}"
 
 # game/logic/events/Leona.rpy:1043
 translate brazilian Leona_4_label_8b33f4fd:
@@ -4768,7 +4768,7 @@ translate brazilian Leona_5_label_78ea733d:
 translate brazilian Leona_5_label_3a9f300c:
 
     # ch_Name "{i}(Ever since Leona and I stopped the nightmares, I sleep like a baby.){/i}"
-    ch_Name "{i^}(Desde que Leona e eu acabamos com os pesadelos, durmo feito um bebê.){/i}"
+    ch_Name "{i}(Desde que Leona e eu acabamos com os pesadelos, durmo feito um bebê.){/i}"
 
 # game/logic/events/Leona.rpy:1336
 translate brazilian Leona_5_label_b6ce45a5:
@@ -5560,7 +5560,7 @@ translate brazilian Leona_5_label_d0824347:
 translate brazilian Leona_5_label_a4846385:
 
     # ch_Name "{i}(Oh, wow.){/i}"
-    ch_Name "{i)(Uau!){/i}"
+    ch_Name "{i}(Uau!){/i}"
 
 # game/logic/events/Leona.rpy:1521
 translate brazilian Leona_5_label_e63f72ff:
@@ -5686,7 +5686,7 @@ translate brazilian Leona_5_label_from_gallery_9dad1140:
 translate brazilian Leona_5_label_from_gallery_ea9f42f4:
 
     # ch_Name "{i}(Man, it's hard to concentrate when your head...){/i}"
-    ch_Name "{i}(Cara, é difícil concentrar quando sua cabecinha...){i}"
+    ch_Name "{i}(Cara, é difícil concentrar quando sua cabecinha...){/i}"
 
 # game/logic/events/Leona.rpy:1561
 translate brazilian Leona_5_label_from_gallery_2937ea49:
@@ -6628,7 +6628,7 @@ translate brazilian Leona_6_label_e82ca1b5:
 translate brazilian Leona_6_label_84c6ea02:
 
     # ch_Name "{i}(What the...? I recognize that hair...){/i}"
-    ch_Name "{i)(Mas que p...? Eu reconheço esse cabelo...){/i}"
+    ch_Name "{i}(Mas que p...? Eu reconheço esse cabelo...){/i}"
 
 # game/logic/events/Leona.rpy:1805
 translate brazilian Leona_6_label_8d303121:

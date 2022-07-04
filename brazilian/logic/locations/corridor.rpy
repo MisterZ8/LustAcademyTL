@@ -574,7 +574,7 @@ translate brazilian i_1_051_test_81e7ad8c:
 translate brazilian i_1_051_test_66f05b0e:
 
     # ch_Name "{i}(I guess one last time does not count!){/i}"
-    ch_Name "{I}(Ah, uma última vez não vai ser nada demais!){/i}"
+    ch_Name "{i}(Ah, uma última vez não vai ser nada demais!){/i}"
 
 # game/logic/locations/corridor.rpy:298
 translate brazilian i_1_051_test_32ed700b:
@@ -2086,7 +2086,7 @@ translate brazilian train_not_too_big_b5be0bab:
 translate brazilian train_not_too_big_a4963e7c:
 
     # ch_Name "{i}(You're done for the day.){/i}"
-    ch_Name "{i}(Terminamos por hoje.(/i}"
+    ch_Name "{i}(Terminamos por hoje.){/i}"
 
 # game/logic/locations/corridor.rpy:1191
 translate brazilian train_not_too_big_a0b38d9b:

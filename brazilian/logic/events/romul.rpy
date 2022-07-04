@@ -832,7 +832,7 @@ translate brazilian romul_2_label_bf997478:
 translate brazilian romul_2_label_0c44cf15:
 
     # ch_Name "{i}(What is it? A {b}VIP pass?{/b}){/i}"
-    ch_Name "{I}(O que é isso? Um {b}Passe VIP?{/b}){/i}"
+    ch_Name "{i}(O que é isso? Um {b}Passe VIP?{/b}){/i}"
 
 # game/logic/events/romul.rpy:273
 translate brazilian romul_2_label_83807fe7:
@@ -1288,7 +1288,7 @@ translate brazilian romul_2_label_da9c38ec_1:
 translate brazilian romul_2_label_f1240d15_1:
 
     # ch_Name "{i}(Damn it, [Name], think of something...){/i}"
-    ch_Name "Porra, [Name], pense em alguma coisa...){/i}"
+    ch_Name "{i}(Porra, [Name], pense em alguma coisa...){/i}"
 
 # game/logic/events/romul.rpy:389
 translate brazilian romul_2_label_6d92c75e_1:

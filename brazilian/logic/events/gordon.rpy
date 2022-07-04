@@ -1024,7 +1024,7 @@ translate brazilian Willow_1_label_4dbfcb05:
 translate brazilian Willow_1_label_e4b53fcf:
 
     # ch_Name "{i}(What's going on? I literally can see tears in her eyes!){/i}"
-    ch_Name "{I}(que está acontecendo? Literalmente, posso ver lágrimas no olhos dela!){/i}"
+    ch_Name "{i}(que está acontecendo? Literalmente, posso ver lágrimas no olhos dela!){/i}"
 
 # game/logic/events/gordon.rpy:356
 translate brazilian Willow_1_label_784febcb:

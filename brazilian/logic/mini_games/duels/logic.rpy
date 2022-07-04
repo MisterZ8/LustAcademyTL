@@ -76,7 +76,7 @@ translate brazilian test_duel_lose_681664bf:
 translate brazilian test_duel_lose_58203aaa:
 
     # UnknownGirl "{b}Combat bolt!{/b}"
-    UnknownGirl "{b}Raio de Combate!{b}"
+    UnknownGirl "{b}Raio de Combate!{/b}"
 
 # game/logic/mini_games/duels/logic.rpy:2373
 translate brazilian test_duel_lose_a30443e9:

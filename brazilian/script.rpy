@@ -846,7 +846,7 @@ translate brazilian strings:
 
     # game/script.rpy:728
     old "{b}Olivia{/b} said I have to talk to Don about this rent thing. \nHe should be in the living room."
-    new "{B}Olivia{/b} disse que eu tenho que falar com Don sobre isso do aluguel. \nEle deve estar na sala de estar."
+    new "{b}Olivia{/b} disse que eu tenho que falar com Don sobre isso do aluguel. \nEle deve estar na sala de estar."
 
     # game/script.rpy:748
     old "Enter your name"
