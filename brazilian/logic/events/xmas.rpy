@@ -5968,25 +5968,25 @@ translate brazilian strings:
 translate brazilian Xmas_start_mc_0c6236d7:
 
     # ch_Name "{i}(Oh, is it from that one time when we celebrated Yule?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ah, é daquela época em que comemoramos o Yule?){/i}"
 
 # game/logic/events/xmas.rpy:58
 translate brazilian Xmas_start_mc_9e2ba908:
 
     # ch_Name "{i}(Yeah, that was fun...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sim, foi divertido...){/i}"
 
 # game/logic/events/xmas.rpy:59
 translate brazilian Xmas_start_mc_87cfe0bc:
 
     # ch_Name "{i}(Strangely, it feels like I remember that day as if it was yesterday.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Estranhamente, parece que me lembro daquele dia como se fosse ontem.){/i}"
 
 # game/logic/events/xmas.rpy:60
 translate brazilian Xmas_start_mc_5cd7101b:
 
     # ch_Name "{i}(If I close my eyes, I can remember every second of it.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Se eu fechar os olhos, consigo me lembrar de cada segundo.){/i}"
 
 # game/logic/events/xmas.rpy:83
 translate brazilian Xmas_1_label_b4c8c248:
@@ -5998,203 +5998,203 @@ translate brazilian Xmas_1_label_b4c8c248:
 translate brazilian Xmas_1_label_d007b8f0:
 
     # ch_Name "Hello?"
-    ch_Name ""
+    ch_Name "Alô"
 
 # game/logic/events/xmas.rpy:86
 translate brazilian Xmas_1_label_27181521:
 
     # Elijah "Yo, [Name]! It's time to get up!"
-    Elijah ""
+    Elijah "Ei, [Name]! É hora de levantar!"
 
 # game/logic/events/xmas.rpy:87
 translate brazilian Xmas_1_label_6684b9f2:
 
     # ch_Name "Morning to you too. What's happened?"
-    ch_Name ""
+    ch_Name "Bom dia para você também. O que aconteceu?"
 
 # game/logic/events/xmas.rpy:88
 translate brazilian Xmas_1_label_6e29e07a:
 
     # Elijah "The headmaster is gathering the meeting in the Main hall."
-    Elijah ""
+    Elijah "O diretor está reunindo a reunião no salão principal."
 
 # game/logic/events/xmas.rpy:89
 translate brazilian Xmas_1_label_f7391e81:
 
     # ch_Name "Again?! Wasn't there a meeting yesterday?"
-    ch_Name ""
+    ch_Name "De novo?! Não houve reunião ontem?"
 
 # game/logic/events/xmas.rpy:90
 translate brazilian Xmas_1_label_d979667f:
 
     # Elijah "Well, yeah."
-    Elijah ""
+    Elijah "Bem, teve."
 
 # game/logic/events/xmas.rpy:92
 translate brazilian Xmas_1_label_21ced947:
 
     # Elijah "Do you want me to tell him that that goes against your schedule, queen?"
-    Elijah ""
+    Elijah "Você quer que eu diga a ele que isso vai contra sua agenda, rainha?"
 
 # game/logic/events/xmas.rpy:93
 translate brazilian Xmas_1_label_1aa6129a:
 
     # ch_Name "Alright, alright. Sorry."
-    ch_Name ""
+    ch_Name "Tudo bem, tudo bem. Desculpe."
 
 # game/logic/events/xmas.rpy:94
 translate brazilian Xmas_1_label_3968762d:
 
     # ch_Name "I'll be there."
-    ch_Name ""
+    ch_Name "Estarei lá."
 
 # game/logic/events/xmas.rpy:95
 translate brazilian Xmas_1_label_38144831:
 
     # Elijah "Cool. C'ya."
-    Elijah ""
+    Elijah "Legal. até."
 
 # game/logic/events/xmas.rpy:97
 translate brazilian Xmas_1_label_96eb30cd:
 
     # ch_Name "{i}(Come to think of it, it's an excellent opportunity to catch up with Arthur...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pensando bem, é uma excelente oportunidade para conversar com Arthur...){/i}"
 
 # game/logic/events/xmas.rpy:98
 translate brazilian Xmas_1_label_a2434f6b:
 
     # ch_Name "{i}(I need to hurry up.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Preciso me apressar.){/i}"
 
 # game/logic/events/xmas.rpy:99
 translate brazilian Xmas_1_label_60082023:
 
     # ch_Name "{i}(If I get there before the meeting starts, I'll have time to talk to him...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Se eu chegar antes do início da reunião, terei tempo para falar com ele...){/i}"
 
 # game/logic/events/xmas.rpy:100
 translate brazilian Xmas_1_label_f46411ad:
 
     # ch_Name "{i}(...about what's happened to Leona and other house founders.){/i}"
-    ch_Name ""
+    ch_Name "{i}(...sobre o que aconteceu com Leona e outros fundadores da casa.){/i}"
 
 # game/logic/events/xmas.rpy:107
 translate brazilian Xmas_1_label_bdaaa2e3:
 
     # ch_Name "{i}(I hope Arthur is here already.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Espero que Arthur já esteja aqui.){/i}"
 
 # game/logic/events/xmas.rpy:108
 translate brazilian Xmas_1_label_5b71ead7:
 
     # ch_Name "{i}(I'm afraid we don't have much time.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Acho que não temos muito tempo.){/i}"
 
 # game/logic/events/xmas.rpy:110
 translate brazilian Xmas_1_label_e9aa49be:
 
     # Arthur "Hey there, [Name]! Are you here for the meeting?"
-    Arthur ""
+    Arthur "Ei, [Name]! Você está aqui para a reunião?"
 
 # game/logic/events/xmas.rpy:111
 translate brazilian Xmas_1_label_77390c3a:
 
     # Arthur "You're pretty early..."
-    Arthur ""
+    Arthur "Você está bem adiantado..."
 
 # game/logic/events/xmas.rpy:112
 translate brazilian Xmas_1_label_f7dd4703:
 
     # ch_Name "Oh, mister Doorman! I was looking for you!"
-    ch_Name ""
+    ch_Name "Oh, senhor Porteiro! Eu estava procurando por você!"
 
 # game/logic/events/xmas.rpy:114
 translate brazilian Xmas_1_label_87371271:
 
     # ch_Name "I need to tell you something important about house founders!"
-    ch_Name ""
+    ch_Name "Preciso contar uma coisa importante sobre os fundadores de casas!"
 
 # game/logic/events/xmas.rpy:115
 translate brazilian Xmas_1_label_a5233990:
 
     # Arthur "Is it about them being captured by that beast, Overlord?"
-    Arthur ""
+    Arthur "É sobre eles serem capturados por aquela fera, Overlord?"
 
 # game/logic/events/xmas.rpy:116
 translate brazilian Xmas_1_label_dab9fc48:
 
     # ch_Name "You know?!"
-    ch_Name ""
+    ch_Name "Sabe?!"
 
 # game/logic/events/xmas.rpy:117
 translate brazilian Xmas_1_label_15597912:
 
     # Arthur "Of course, I know. I am contacting four founders every day. This is my duty."
-    Arthur ""
+    Arthur "Claro, eu sei. Estou entrando em contato com quatro fundadores todos os dias. Este é o meu dever."
 
 # game/logic/events/xmas.rpy:119
 translate brazilian Xmas_1_label_9b9b7723:
 
     # Arthur "I am aware of the problem and of what you did already. Good job."
-    Arthur ""
+    Arthur "Estou ciente do problema e do que você já fez. Bom trabalho."
 
 # game/logic/events/xmas.rpy:120
 translate brazilian Xmas_1_label_b1ae0576:
 
     # Arthur "But I'm afraid it won't be so easy for the other three founders."
-    Arthur ""
+    Arthur "Mas temo que não seja tão fácil para os outros três fundadores."
 
 # game/logic/events/xmas.rpy:121
 translate brazilian Xmas_1_label_999710d2:
 
     # Arthur "You need to be patient and wait until I finish my research."
-    Arthur ""
+    Arthur "Você precisa ser paciente e esperar até eu terminar minha pesquisa."
 
 # game/logic/events/xmas.rpy:122
 translate brazilian Xmas_1_label_2d2f98e8:
 
     # ch_Name "If you say so, but will they be okay?"
-    ch_Name ""
+    ch_Name "Se você diz, mas eles ficarão bem?"
 
 # game/logic/events/xmas.rpy:123
 translate brazilian Xmas_1_label_85b7bb10:
 
     # Arthur "If we do what we must - they will. We'll talk this through later."
-    Arthur ""
+    Arthur "Se fizermos o que devemos - eles farão. Falaremos sobre isso mais tarde."
 
 # game/logic/events/xmas.rpy:124
 translate brazilian Xmas_1_label_66a8129a:
 
     # Arthur "And now, if you excuse me, I need to get dressed for the meeting..."
-    Arthur ""
+    Arthur "E agora, se me dá licença, preciso me trocar para a reunião..."
 
 # game/logic/events/xmas.rpy:133
 translate brazilian Xmas_1_label_2e34ff30:
 
     # ch_Name "{i}(Well it's no need to guess, he's going to tell us now.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bem, não é preciso adivinhar, ele vai nos contar agora.){/i}"
 
 # game/logic/events/xmas.rpy:155
 translate brazilian Xmas_1_label_04b0d164:
 
     # Arthur "...and students go with their houses to celebrate Yule..."
-    Arthur ""
+    Arthur "...e os alunos vão com suas casas comemorar o Yule..."
 
 # game/logic/events/xmas.rpy:1222
 translate brazilian Xmas_6_label_5a9a32d0:
 
     # ch_Name "It's hard to take my eyes off you."
-    ch_Name ""
+    ch_Name "É difícil tirar meus olhos de você."
 
 # game/logic/events/xmas.rpy:1592
 translate brazilian Xmas_6_label_b9269a91:
 
     # Selene "Yeah, feeling you squeeze every muscle in my vagina is priceless, too."
-    Selene ""
+    Selene "É, sentir você apertar cada músculo da minha vagina também não tem preço."
 
 translate brazilian strings:
 
     # game/logic/events/xmas.rpy:62
     old "Relive the memory"
-    new ""
+    new "Reviver a memória"
 
