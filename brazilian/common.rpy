@@ -292,7 +292,7 @@ translate brazilian strings:
 
     # renpy/common/00action_file.rpy:779
     old "Next file page."
-    new "Página do próximo arquivo".
+    new "Página do próximo arquivo."
 
     # renpy/common/00action_file.rpy:851
     old "Previous file page."
@@ -304,11 +304,11 @@ translate brazilian strings:
 
     # renpy/common/00action_file.rpy:930
     old "Quick save."
-    new "salvamento rápido".
+    new "salvamento rápido."
 
     # renpy/common/00action_file.rpy:949
     old "Quick load."
-    new "Carregamento rápido".
+    new "Carregamento rápido."
 
     # renpy/common/00action_other.rpy:375
     old "Language [text]"
@@ -648,7 +648,7 @@ translate brazilian strings:
 
     # renpy/common/_compat/gamemenu.rpym:198
     old "Empty Slot."
-    new "Slot Vazio".
+    new "Slot Vazio."
 
     # renpy/common/_compat/gamemenu.rpym:355
     old "Previous"
@@ -888,7 +888,7 @@ translate brazilian strings:
 
     # renpy/common/00updater.rpy:1454
     old "Finishing up."
-    new "Terminando".
+    new "Terminando."
 
     # renpy/common/00updater.rpy:1456
     old "The updates have been installed. The program will restart."

@@ -3304,7 +3304,7 @@ translate brazilian Victoria_9_label_892c16eb:
 translate brazilian Victoria_9_label_55f04ab5:
 
     # Victoria "Done."
-    Victoria "Concluído".
+    Victoria "Concluído."
 
 # game/logic/events/victoria.rpy:1154
 translate brazilian Victoria_9_label_a5fc4edd:
@@ -3448,7 +3448,7 @@ translate brazilian Victoria_9_label_7c983c26:
 translate brazilian Victoria_9_label_55f04ab5_1:
 
     # Victoria "Done."
-    Victoria "Concluído".
+    Victoria "Concluído."
 
 # game/logic/events/victoria.rpy:1191
 translate brazilian Victoria_9_label_d82477b2:
@@ -3820,7 +3820,7 @@ translate brazilian Victoria_11_label_5f7d2f02:
 translate brazilian Victoria_11_label_6b389b7e:
 
     # ch_Name "I'm..."
-    ch_Name "Eu..."Ai! Merda!""
+    ch_Name "Eu...\"Ai! Merda!"
 
 # game/logic/events/victoria.rpy:1307
 translate brazilian Victoria_11_label_84d74841:
@@ -4234,7 +4234,7 @@ translate brazilian Victoria_11_label_eeae688d:
 translate brazilian Victoria_11_label_0b868068:
 
     # ch_Name "You almost made it."
-    ch_Name "Você quase conseguiu.""
+    ch_Name "Você quase conseguiu."
 
 # game/logic/events/victoria.rpy:1401
 translate brazilian Victoria_11_label_ba344efe:

@@ -574,7 +574,7 @@ translate brazilian Sabrina_2_label_263732a4:
 translate brazilian Sabrina_2_label_763ea9c2:
 
     # Sabrina "Who wants to come to the kettle and help me?"
-    Sabrina ""Quem quer vir até a chaleira para me ajudar?""
+    Sabrina "Quem quer vir até a chaleira para me ajudar?"
 
 # game/logic/events/sabrina.rpy:283
 translate brazilian Sabrina_2_label_d79eee61:
@@ -706,7 +706,7 @@ translate brazilian Sabrina_2_label_4d60bcc9:
 translate brazilian Sabrina_2_label_4c41342c:
 
     # ch_Name "Mountain goat tears, mockingbird feather, and European birch bark."
-    ch_Name ""Lágrimas de cabra da montanha, pena de tordo e casca de bétula europeia.""
+    ch_Name "Lágrimas de cabra da montanha, pena de tordo e casca de bétula europeia."
 
 # game/logic/events/sabrina.rpy:330
 translate brazilian Sabrina_2_label_5dde538e:
@@ -1996,7 +1996,7 @@ translate brazilian Sabrina_5_label_649f364e:
 translate brazilian Sabrina_5_label_6d4fd842:
 
     # Sabrina "Perfect shade, nutty smell, no bubbles."
-    Sabrina Sombra perfeita, cheiro de noz, sem bolhas."
+    Sabrina "Sombra perfeita, cheiro de noz, sem bolhas."
 
 # game/logic/events/sabrina.rpy:697
 translate brazilian Sabrina_5_label_50af50fe:

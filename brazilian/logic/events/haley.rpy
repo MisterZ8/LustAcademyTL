@@ -2164,7 +2164,7 @@ translate brazilian Haley_7_label_6498ea8e:
 translate brazilian Haley_7_label_6ee72ae7:
 
     # ch_Name "{i}(Well, If I'm not asleep, I should probably do something before classes.){/i}"
-    ch_Name ""{i}(Bem, se não estou dormindo, deveria fazer alguma coisa entre as aulas.){/i}
+    ch_Name "{i}(Bem, se não estou dormindo, deveria fazer alguma coisa entre as aulas.){/i}"
 
 # game/logic/events/haley.rpy:858
 translate brazilian haley_events_4_label_0_11dd609e:
@@ -4462,7 +4462,7 @@ translate brazilian Haley_11_label_6569dedf:
 translate brazilian Haley_11_label_e92a0bf6:
 
     # Haley "Better."
-    Haley "Melhor".
+    Haley "Melhor."
 
 # game/logic/events/haley.rpy:1535
 translate brazilian Haley_11_label_52d13b49:
@@ -5686,7 +5686,7 @@ translate brazilian Haley_13_label_bc778f29:
 translate brazilian Haley_13_label_db5e8be0:
 
     # Amelie "Now, where is that stupid Trismegister book..."
-    Amelie Agora, onde está aquele livro estúpido do Trismegister..."
+    Amelie "Agora, onde está aquele livro estúpido do Trismegister..."
 
 # game/logic/events/haley.rpy:1842
 translate brazilian Haley_13_label_6cdea449:
@@ -7900,7 +7900,7 @@ translate brazilian Haley_14_label_408b4447:
 translate brazilian Haley_14_label_1c0e5d90:
 
     # Haley "Yeah, there's no way back."
-    Haley Sim, não há caminho de volta."
+    Haley "Sim, não há caminho de volta."
 
 # game/logic/events/haley.rpy:2386
 translate brazilian Haley_14_label_8ca60e2f:
@@ -10594,7 +10594,7 @@ translate brazilian CF_Haley_3_label_ad71292e:
 translate brazilian CF_Haley_3_label_7867bace:
 
     # Haley "Magic."
-    Haley "Magia".
+    Haley "Magia."
 
 # game/logic/events/haley.rpy:3073
 translate brazilian CF_Haley_3_label_9a824531:

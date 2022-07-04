@@ -220,7 +220,7 @@ translate brazilian Samantha_1_label_a9a31f02:
 translate brazilian Samantha_1_label_ffcacd0a:
 
     # ch_Name "It's okay."
-    ch_Name "Mas fica tudo bem"Espere, você ainda não curou isso?""
+    ch_Name "Mas fica tudo bem\"Espere, você ainda não curou isso?"
 
 # game/logic/events/samantha.rpy:243
 translate brazilian Samantha_1_label_bb525b7e:
@@ -778,7 +778,7 @@ translate brazilian Samantha_2_label_da2afaf1:
 translate brazilian Samantha_2_label_c0805466:
 
     # ch_Name "I'm sure someone can help you!"
-    ch_Name Tenho certeza que alguém possa te ajudar!"
+    ch_Name "Tenho certeza que alguém possa te ajudar!"
 
 # game/logic/events/samantha.rpy:385
 translate brazilian Samantha_2_label_a692e80a:
@@ -4786,7 +4786,7 @@ translate brazilian Samantha_10_label_from_gallery_606b8ca9:
 translate brazilian Samantha_10_label_from_gallery_bd5dfac6:
 
     # Samantha "I want you, [Name]."
-    Samantha ""Eu quero você, [Name]."
+    Samantha "Eu quero você, [Name]."
 
 # game/logic/events/samantha.rpy:1489
 translate brazilian Samantha_10_label_from_gallery_83ff4520:

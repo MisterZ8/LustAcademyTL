@@ -232,7 +232,7 @@ translate brazilian Naomi_1_label_6e76bc2b:
 translate brazilian Naomi_1_label_3f07be95:
 
     # ch_Name "You drew your own conclusions."
-    ch_Name Você tirou suas próprias conclusões."
+    ch_Name "Você tirou suas próprias conclusões."
 
 # game/logic/events/naomi.rpy:365
 translate brazilian Naomi_1_label_c58ba525:
@@ -496,7 +496,7 @@ translate brazilian Naomi_2_label_94735345:
 translate brazilian Naomi_2_label_fedef35a:
 
     # Naomi "Bye-bye."
-    Naomi "Tchau".
+    Naomi "Tchau."
 
 # game/logic/events/naomi.rpy:443
 translate brazilian Naomi_2_label_62b41ff1:

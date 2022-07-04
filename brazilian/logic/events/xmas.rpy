@@ -1204,7 +1204,7 @@ translate brazilian Xmas_2_label_9159254e:
 translate brazilian Xmas_2_label_8654e8de:
 
     # Haley "Very doubtful."
-    Haley "Acho que não.""
+    Haley "Acho que não."
 
 # game/logic/events/xmas.rpy:359
 translate brazilian Xmas_2_label_4c57c4ae:
@@ -1672,7 +1672,7 @@ translate brazilian Xmas_3_label_a46dc995:
 translate brazilian Xmas_3_label_066ed65b:
 
     # Naomi "Thrilling."
-    Naomi "Emocionante".
+    Naomi "Emocionante."
 
 # game/logic/events/xmas.rpy:466
 translate brazilian Xmas_3_label_098f313b:
@@ -2914,7 +2914,7 @@ translate brazilian Xmas_4_label_L_56_25a065a5_1:
 translate brazilian Xmas_4_label_L_56_e633f394_1:
 
     # Audrey "Don't you think it's unfair?"
-    Audrey Você não acha injusto?"
+    Audrey "Você não acha injusto?"
 
 # game/logic/events/xmas.rpy:800
 translate brazilian Xmas_4_label_L_56_f510e8f0_1:
@@ -3304,7 +3304,7 @@ translate brazilian Xmas_4_label_L_56_b510ad9f:
 translate brazilian Xmas_4_label_L_56_3d93f6ec:
 
     # Audrey "No buts, you've already been rewarded for your insolence."
-    Audrey Sem mas, você já foi recompensado por sua insolência."
+    Audrey "Sem mas, você já foi recompensado por sua insolência."
 
 # game/logic/events/xmas.rpy:892
 translate brazilian Xmas_4_label_L_56_3492e060:
@@ -4546,7 +4546,7 @@ translate brazilian Xmas_6_label_deda5b99:
 translate brazilian Xmas_6_label_04daeeda:
 
     # ch_Name "{i}(Though will we ever see each other again? Unlikely.){/i}"
-    ch_Name {i}(Embora nos veremos novamente? Improvável.){/i}"
+    ch_Name "{i}(Embora nos veremos novamente? Improvável.){/i}"
 
 # game/logic/events/xmas.rpy:1208
 translate brazilian Xmas_6_label_39563faf:
@@ -5872,7 +5872,7 @@ translate brazilian Xmas_6_label_74948c28:
 translate brazilian Xmas_6_label_786a917b:
 
     # Selene "Bye-bye!"
-    Selene "Tchauzinho amor!""
+    Selene "Tchauzinho amor!"
 
 # game/logic/events/xmas.rpy:1510
 translate brazilian Xmas_6_label_b269c42c:

@@ -880,7 +880,7 @@ translate brazilian CF_S2_label_fc36f27d:
 translate brazilian CF_S2_label_9012df44:
 
     # Audrey "I'm into emotional musicians with tattoos, light eyes, long dark hair and some sort of facial hair."
-    Audrey "Eu gosto de músicos emocionantes com tatuagens, olhos claros, cabelos longos escuros e barbudos".
+    Audrey "Eu gosto de músicos emocionantes com tatuagens, olhos claros, cabelos longos escuros e barbudos."
 
 # game/logic/events/ahchi.rpy:375
 translate brazilian CF_S2_label_8fc8fbc5:
@@ -3316,7 +3316,7 @@ translate brazilian CF_Ahchi_3_label_b6a00fe8:
 translate brazilian CF_Ahchi_3_label_31f90247:
 
     # UnknownMan_2 "Ahchi, make us some more coffee, okay!"
-    UnknownMan_2 Ahchi, faça-nos um pouco mais de café, ok!"
+    UnknownMan_2 "Ahchi, faça-nos um pouco mais de café, ok!"
 
 # game/logic/events/ahchi.rpy:942
 translate brazilian CF_Ahchi_3_label_6cf1cb33:

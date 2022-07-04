@@ -40,7 +40,7 @@ translate brazilian sheet_19_2876f8c6:
 translate brazilian sheet_19_cd0a6c85:
 
     # ch_Name "{i}(Woah...){/i}"
-    ch_Name "{i}(Uau...){/i}""
+    ch_Name "{i}(Uau...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_19.rpy:24
 translate brazilian sheet_19_ad65eec5:
