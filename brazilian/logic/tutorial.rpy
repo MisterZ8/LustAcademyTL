@@ -1638,11 +1638,11 @@ translate brazilian strings:
 translate brazilian CordGarden_label_e19e47e3:
 
     # Joshi "By the way, have you seen Sabrina yet? Dude, I still have a boner..."
-    Joshi ""
+    Joshi "A propósito, você já viu a Sabrina? Cara, eu ainda tenho um puta tesão..."
 
 # game/logic/tutorial.rpy:726
 translate brazilian CordGarden_label_e19e47e3_1:
 
     # Joshi "By the way, have you seen Sabrina yet? Dude, I still have a boner..."
-    Joshi ""
+    Joshi "A propósito, você já viu a Sabrina? Cara, eu ainda tenho um puta tesão..."
 
