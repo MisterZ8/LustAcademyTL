@@ -92,29 +92,29 @@ translate brazilian strings:
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:20
     old "Protects your magical sources from the creatures of the night."
-    new ""
+    new "Protege suas fontes mágicas das criaturas da noite."
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:208
     old "RECIPES"
-    new ""
+    new "RECEITAS"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:209
     old "ALCHEMY"
-    new ""
+    new "ALQUIMIA"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:210
     old "INGREDIENTS"
-    new ""
+    new "INGREDIENTES"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:347
     old "Recipe"
-    new ""
+    new "Receita"
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:361
     old "Learn this recipe by completing Audrey's quests."
-    new ""
+    new "Aprenda esta receita completando as missões de Audrey."
 
     # game/logic/mini_games/test_potion_makes/screen.rpy:366
     old "Recipe locked"
-    new ""
+    new "Receita bloqueada"
 
