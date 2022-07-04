@@ -1582,35 +1582,35 @@ translate brazilian strings:
 translate brazilian arthur_2_3_3df4f481:
 
     # ch_Name "{i}(On the other hand, sometimes I don't even understand mine.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Por outro lado, às vezes nem entendo o meu.){/i}"
 
 # game/logic/events/arthur_2.rpy:376
 translate brazilian arthur_2_3_4a080171:
 
     # Katrina "Enjoy your small victories while you can."
-    Katrina ""
+    Katrina "Aproveite suas pequenas vitórias enquanto pode."
 
 # game/logic/events/arthur_2.rpy:395
 translate brazilian arthur_2_3_b72f5a90:
 
     # Haley "You were dreaming... Was it a nightmare? "
-    Haley ""
+    Haley "Você estava sonhando... Foi um pesadelo?"
 
 # game/logic/events/arthur_2.rpy:423
 translate brazilian arthur_2_3_a362ffa5:
 
     # Haley "Captain said she'd feed you to the sharks if you don't leave."
-    Haley ""
+    Haley "Capitão disse que ela alimentaria os tubarões se você não sair."
 
 # game/logic/events/arthur_2.rpy:425
 translate brazilian arthur_2_3_47fc46f6:
 
     # Haley "Would you be surprised?"
-    Haley ""
+    Haley "Você ficaria surpreso?"
 
 # game/logic/events/arthur_2.rpy:583
 translate brazilian arthur_2_5_232f7e79:
 
     # Elijah "There's the hottest nightclub in town around the corner. Lady Luck."
-    Elijah ""
+    Elijah "Tem a boate mais badalada da cidade ao virar da esquina. Lady Luck."
 
