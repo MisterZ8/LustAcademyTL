@@ -2176,71 +2176,71 @@ translate brazilian strings:
 translate brazilian Jill_2_label_8_2153276c:
 
     # Faith "You know, of your muscle pain."
-    Faith ""
+    Faith "Você sabe, de sua dor muscular."
 
 # game/logic/events/jill.rpy:152
 translate brazilian Jill_2_label_8_5fd306ab:
 
     # ch_Name "{i}(My leg... What's going on?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Minha perna... O que está acontecendo?){/i}"
 
 # game/logic/events/jill.rpy:162
 translate brazilian Jill_2_label_8_43d795e2:
 
     # ch_Name "Um... Y-yes, I guess."
-    ch_Name ""
+    ch_Name "Hum... S-sim, eu acho."
 
 # game/logic/events/jill.rpy:169
 translate brazilian Jill_2_label_8_9f1c724c:
 
     # Faith "You're too tense...{w} Ah..."
-    Faith ""
+    Faith "Você está muito tenso...{w} Ah..."
 
 # game/logic/events/jill.rpy:171
 translate brazilian Jill_2_label_8_2708f99a:
 
     # Faith "Relax your shoulders...{w} Ah...{w} Now we'll give them a good..."
-    Faith ""
+    Faith "Relaxe os ombros...{w} Ah...{w} Agora vamos dar-lhes uma boa..."
 
 # game/logic/events/jill.rpy:176
 translate brazilian Jill_2_label_8_4bf4ff3e:
 
     # Faith "Oh... Yeah...{w} What the hell is that..."
-    Faith ""
+    Faith "Ah... É...{w} Que diabos é isso..."
 
 # game/logic/events/jill.rpy:317
 translate brazilian Jill_3_label_df9cbb37:
 
     # Faith "Of course, I can."
-    Faith ""
+    Faith "Claro que posso."
 
 # game/logic/events/jill.rpy:341
 translate brazilian Jill_3_label_293230e8:
 
     # Faith "I need to go, sorry."
-    Faith ""
+    Faith "Eu preciso ir, desculpe."
 
 # game/logic/events/jill.rpy:354
 translate brazilian Jill_3_label_21237630:
 
     # Faith "Wow... Yeah, you sure did enjoy my massage."
-    Faith ""
+    Faith "Uau... Sim, você com certeza gostou da minha massagem."
 
 # game/logic/events/jill.rpy:371
 translate brazilian Jill_3_label_19e33edc:
 
     # "I spend the rest of the day wandering around Dale and sightseeing."
-    ""
+    "Passo o resto do dia vagando por Dale e fazendo turismo."
 
 # game/logic/events/jill.rpy:571
 translate brazilian Jill_4_label_from_gallery_5f0d1e19:
 
     # Faith "It will help to remove muscle cramps and bring you overall relaxation."
-    Faith ""
+    Faith "Isso ajudará a remover cãibras musculares e proporcionará um relaxamento geral."
 
 # game/logic/events/jill.rpy:632
 translate brazilian Jill_4_label_from_gallery_14b7e6c3:
 
     # Faith "...which removes all cramps."
-    Faith ""
+    Faith "...que tira todas as cãibras."
 
