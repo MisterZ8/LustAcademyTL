@@ -216,5 +216,5 @@ translate brazilian strings:
 
     # game/logic/characters.rpy:75
     old "Strange girl"
-    new ""
+    new "Garota desconhecida"
 
