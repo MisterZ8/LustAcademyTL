@@ -1594,95 +1594,95 @@ translate brazilian strings:
 translate brazilian romul_1_label_menu_bribe_7dd18c43:
 
     # Romul "What does that even mean?"
-    Romul ""
+    Romul "O que isso significa?"
 
 # game/logic/events/romul.rpy:129
 translate brazilian romul_1_label_menu_bribe_7dd18c43_1:
 
     # Romul "What does that even mean?"
-    Romul ""
+    Romul "O que isso significa?"
 
 # game/logic/events/romul.rpy:163
 translate brazilian romul_1_label_menu_bribe_739fd6bf:
 
     # Romul "The girls complained, so you're banned from entering forever."
-    Romul ""
+    Romul "As meninas reclamaram, então você está proibido de entrar para sempre."
 
 # game/logic/events/romul.rpy:190
 translate brazilian romul_2_label_64ccb634:
 
     # ch_Name "{i}(Hmm, this looks like a staff exit from the nightclub.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm, isso parece uma saída de staff da boate.){/i}"
 
 # game/logic/events/romul.rpy:194
 translate brazilian romul_2_label_f115d4e2:
 
     # ch_Name "{i}(Entry clearly costs less than a whole envelope of dough...){/i}"
-    ch_Name ""
+    ch_Name "{i}(A entrada claramente custa menos do que um envelope inteiro de massa...){/i}"
 
 # game/logic/events/romul.rpy:200
 translate brazilian romul_2_label_f3c7dd8b:
 
     # ch_Name "{i}(Someone's coming out. A girl.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Alguém está chegando. Uma garota.){/i}"
 
 # game/logic/events/romul.rpy:238
 translate brazilian romul_2_label_56846112:
 
     # Adele "YOU'RE A DISGUSTING PERSON!"
-    Adele ""
+    Adele "VOCÊ É UMA PESSOA NOJENTA!"
 
 # game/logic/events/romul.rpy:290
 translate brazilian romul_2_label_fb86d027:
 
     # ch_Name "The guy who's about to kick your ass."
-    ch_Name ""
+    ch_Name "O cara que está prestes a chutar sua bunda."
 
 # game/logic/events/romul.rpy:324
 translate brazilian romul_2_label_f1ba4970:
 
     # Adele "Go back to mommy, you abortion!"
-    Adele ""
+    Adele "Volte para a mamãe, seu resto de aborto!"
 
 # game/logic/events/romul.rpy:373
 translate brazilian romul_2_label_f1ba4970_1:
 
     # Adele "Go back to mommy, you abortion!"
-    Adele ""
+    Adele "Volte para a mamãe, seu resto de aborto!"
 
 # game/logic/events/romul.rpy:375
 translate brazilian romul_2_label_254a789a:
 
     # Adele "Hey... Thanks a lot!"
-    Adele ""
+    Adele "Ei... Muito obrigado!"
 
 # game/logic/events/romul.rpy:377
 translate brazilian romul_2_label_8af19aab:
 
     # ch_Name "{i}(In the end she did everything herself...){/i}"
-    ch_Name ""
+    ch_Name "{i}(No final, ela fez tudo sozinha...){/i}"
 
 # game/logic/events/romul.rpy:378
 translate brazilian romul_2_label_dcaaea39:
 
     # Adele "I couldn't have done it without you."
-    Adele ""
+    Adele "Eu não poderia ter feito isso sem você."
 
 # game/logic/events/romul.rpy:379
 translate brazilian romul_2_label_df1a1430:
 
     # ch_Name "{i}(Do you think it's obvious that I'm staring at her boobs?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Você acha que é óbvio que estou olhando para os peitos dela?){/i}"
 
 # game/logic/events/romul.rpy:440
 translate brazilian romul_2_label_81adcd95:
 
     # Adele "It's a {b}VIP pass{/b} for club members."
-    Adele ""
+    Adele "É um {b}passe VIP{/b} para membros do clube."
 
 # game/logic/events/romul.rpy:446
 translate brazilian romul_2_label_c6c7b4e7:
 
     # Adele "I've gotta go, hon. Thanks again!"
-    Adele ""
+    Adele "Eu tenho que ir, querido. Obrigada novamente!"
 
