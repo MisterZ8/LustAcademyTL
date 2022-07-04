@@ -720,5 +720,5 @@ translate brazilian sheet_24_end_game_b1c02e84:
 translate brazilian sheet_24_end_game_aeacb5e5:
 
     # ch_Name "{i}(Whoa, was that a clue or was I imagining it?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Uau, isso foi uma pista ou eu estou imaginando?){/i}"
 
