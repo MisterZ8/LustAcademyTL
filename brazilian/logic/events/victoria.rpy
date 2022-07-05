@@ -4542,365 +4542,365 @@ translate brazilian strings:
 translate brazilian Samantha_4_label_c31086c4:
 
     # ch_Name "One of our house's students has torn magical ligaments."
-    ch_Name ""
+    ch_Name "Um dos alunos da nossa casa rompeu ligamentos mágicos."
 
 # game/logic/events/victoria.rpy:1104
 translate brazilian Victoria_9_label_ab22f6ec:
 
     # Victoria "As you all know at these lessons we study Battle Magic."
-    Victoria ""
+    Victoria "Como todos sabem nestas aulas nós estudamos Batalha Mágica."
 
 # game/logic/events/victoria.rpy:1492
 translate brazilian Victoria_12_label_e14dd911:
 
     # Victoria "Class, attention!"
-    Victoria ""
+    Victoria "Classe, atenção!"
 
 # game/logic/events/victoria.rpy:1493
 translate brazilian Victoria_12_label_39c3afcb:
 
     # Victoria "We have a special lesson today."
-    Victoria ""
+    Victoria "Temos uma lição especial hoje."
 
 # game/logic/events/victoria.rpy:1494
 translate brazilian Victoria_12_label_97749c7d:
 
     # Victoria "Topic: ghosts and spirits."
-    Victoria ""
+    Victoria "Tópico: fantasmas e espíritos."
 
 # game/logic/events/victoria.rpy:1495
 translate brazilian Victoria_12_label_50b2dbfa:
 
     # ch_Name "{i}(Hmm, I don't remember this paragraph in our textbook.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm, não me lembro deste parágrafo em nosso livro.){/i}"
 
 # game/logic/events/victoria.rpy:1496
 translate brazilian Victoria_12_label_ef3f9735:
 
     # Victoria "As you all know, I particularly specialise in martial magic. "
-    Victoria ""
+    Victoria "Como todos sabem, eu particularmente me especializei em magia marcial."
 
 # game/logic/events/victoria.rpy:1497
 translate brazilian Victoria_12_label_366ceaa8:
 
     # Victoria "But today's topic is usually studied as a part of Defense Against the Dark Arts course. "
-    Victoria ""
+    Victoria "Mas o tópico de hoje é geralmente estudado como parte do curso de Defesa Contra as Artes das Trevas."
 
 # game/logic/events/victoria.rpy:1498
 translate brazilian Victoria_12_label_829c0ddd:
 
     # Victoria "The principal personally asked me to give this little lecture to the first-year students."
-    Victoria ""
+    Victoria "O diretor me pediu pessoalmente para dar esta pequena palestra para os alunos do primeiro ano."
 
 # game/logic/events/victoria.rpy:1500
 translate brazilian Victoria_12_label_7ec553d0:
 
     # Victoria "The thing is, we've noticed that freshmen react to ghosts very strangely."
-    Victoria ""
+    Victoria "A questão é que notamos que os novatos reagem aos fantasmas de forma muito estranha."
 
 # game/logic/events/victoria.rpy:1501
 translate brazilian Victoria_12_label_69b5dec6:
 
     # Victoria "One of your classmates didn't even come to my lesson..."
-    Victoria ""
+    Victoria "Um de seus colegas nem veio à minha aula..."
 
 # game/logic/events/victoria.rpy:1502
 translate brazilian Victoria_12_label_78dc176c:
 
     # Victoria "...because he was scared of a ghost in the Main hall."
-    Victoria ""
+    Victoria "...porque ele estava com medo de um fantasma no salão principal."
 
 # game/logic/events/victoria.rpy:1503
 translate brazilian Victoria_12_label_0608fbe0:
 
     # Victoria "Nonsense!"
-    Victoria ""
+    Victoria "Bobagem!"
 
 # game/logic/events/victoria.rpy:1504
 translate brazilian Victoria_12_label_f72b514b:
 
     # ch_Name "{i}(Who's she talking about?){/i}"
-    ch_Name ""
+    ch_Name "{i}(De quem ela está falando?){/i}"
 
 # game/logic/events/victoria.rpy:1506
 translate brazilian Victoria_12_label_a16b845f:
 
     # Victoria "Ghosts have always lived in this castle. "
-    Victoria ""
+    Victoria "Fantasmas sempre viveram neste castelo."
 
 # game/logic/events/victoria.rpy:1507
 translate brazilian Victoria_12_label_9162c35c:
 
     # Victoria "The Cordale Academy is their home, just like yours and mine."
-    Victoria ""
+    Victoria "A Cordale Academy é a casa deles, assim como a sua e a minha."
 
 # game/logic/events/victoria.rpy:1508
 translate brazilian Victoria_12_label_a8a36fa8:
 
     # Victoria "However, the protective barrier separates our worlds."
-    Victoria ""
+    Victoria "No entanto, a barreira protetora separa nossos mundos."
 
 # game/logic/events/victoria.rpy:1509
 translate brazilian Victoria_12_label_95134f6a:
 
     # Victoria "You can thank the founders who put it..."
-    Victoria ""
+    Victoria "Você pode agradecer aos fundadores que o colocaram..."
 
 # game/logic/events/victoria.rpy:1510
 translate brazilian Victoria_12_label_88298a88:
 
     # Victoria "...in order to ensure the safety of many generations of students to come."
-    Victoria ""
+    Victoria "...para garantir a segurança de muitas gerações de estudantes que virão."
 
 # game/logic/events/victoria.rpy:1511
 translate brazilian Victoria_12_label_b60113af:
 
     # ch_Name "{i}(Well, it’s definitely a good thing there’s this barrier.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bem, é definitivamente bom que haja essa barreira.){/i}"
 
 # game/logic/events/victoria.rpy:1513
 translate brazilian Victoria_12_label_e03137dc:
 
     # Victoria "As you may guess, this protection..."
-    Victoria ""
+    Victoria "Como você pode imaginar, essa proteção..."
 
 # game/logic/events/victoria.rpy:1514
 translate brazilian Victoria_12_label_b1ad3358:
 
     # Victoria "...makes any ghost activities harmless to all wizards within these walls."
-    Victoria ""
+    Victoria "...torna qualquer atividade fantasma inofensiva para todos os magos dentro dessas paredes."
 
 # game/logic/events/victoria.rpy:1515
 translate brazilian Victoria_12_label_c8cc718e:
 
     # Victoria "We still can hear and see them, surely. "
-    Victoria ""
+    Victoria "Ainda podemos ouvi-los e vê-los, com certeza."
 
 # game/logic/events/victoria.rpy:1516
 translate brazilian Victoria_12_label_ca3215ad:
 
     # Victoria "That allows us to communicate with ghosts."
-    Victoria ""
+    Victoria "Isso nos permite comunicar com fantasmas."
 
 # game/logic/events/victoria.rpy:1517
 translate brazilian Victoria_12_label_42a3e4d9:
 
     # Victoria "But I will repeat one clear and uncontested truth: they can't hurt you physically."
-    Victoria ""
+    Victoria "Mas vou repetir uma verdade clara e incontestável: eles não podem machucá-lo fisicamente."
 
 # game/logic/events/victoria.rpy:1519
 translate brazilian Victoria_12_label_44c17c66:
 
     # Victoria "Yes, Gabriella, please."
-    Victoria ""
+    Victoria "Sim, Gabriella, por favor."
 
 # game/logic/events/victoria.rpy:1521
 translate brazilian Victoria_12_label_7ab0c8ff:
 
     # Gabriella "I’m sorry, miss, but some ghosts seem pretty rude and aggressive."
-    Gabriella ""
+    Gabriella "Sinto muito, senhorita, mas alguns fantasmas parecem bem rudes e agressivos."
 
 # game/logic/events/victoria.rpy:1522
 translate brazilian Victoria_12_label_9e89bfa3:
 
     # Gabriella "At first sight you wouldn't say they're harmless."
-    Gabriella ""
+    Gabriella "À primeira vista você não diria que eles são inofensivos."
 
 # game/logic/events/victoria.rpy:1523
 translate brazilian Victoria_12_label_893f223b:
 
     # Victoria "Even if a ghost acts provocatively, hold your nerve."
-    Victoria ""
+    Victoria "Mesmo que um fantasma aja de forma provocativa, mantenha a calma."
 
 # game/logic/events/victoria.rpy:1524
 translate brazilian Victoria_12_label_b071371f:
 
     # Victoria "It can't hurt you.{w} To be more precise, it can't do anything to you at all."
-    Victoria ""
+    Victoria "Não pode te machucar.{w} Para ser mais preciso, não pode fazer nada com você."
 
 # game/logic/events/victoria.rpy:1525
 translate brazilian Victoria_12_label_64ff03a0:
 
     # Victoria "Just remember it."
-    Victoria ""
+    Victoria "Apenas lembre-se disso."
 
 # game/logic/events/victoria.rpy:1526
 translate brazilian Victoria_12_label_b5be7b94:
 
     # Victoria "The best possible option is to ignore them."
-    Victoria ""
+    Victoria "A melhor opção possível é ignorá-los."
 
 # game/logic/events/victoria.rpy:1528
 translate brazilian Victoria_12_label_9c6cab5d:
 
     # Victoria "If you don't pay attention to a ghost, then it won't bother you."
-    Victoria ""
+    Victoria "Se você não prestar atenção a um fantasma, então ele não vai te incomodar."
 
 # game/logic/events/victoria.rpy:1529
 translate brazilian Victoria_12_label_662cac3d:
 
     # Victoria "This rule works perfectly."
-    Victoria ""
+    Victoria "Esta regra funciona perfeitamente."
 
 # game/logic/events/victoria.rpy:1530
 translate brazilian Victoria_12_label_19b775de:
 
     # Victoria "So, please, stop this ridiculous panic."
-    Victoria ""
+    Victoria "Então, por favor, pare com esse pânico ridículo."
 
 # game/logic/events/victoria.rpy:1531
 translate brazilian Victoria_12_label_00021192:
 
     # Victoria "Class dismissed. You may go."
-    Victoria ""
+    Victoria "Classe dispensada. Você pode ir."
 
 # game/logic/events/victoria.rpy:1538
 translate brazilian Victoria_12_label_78f19eb4:
 
     # Carter "Man, this lesson sucked. Nothing interesting happened."
-    Carter ""
+    Carter "Cara, essa lição foi uma merda. Nada de interessante aconteceu."
 
 # game/logic/events/victoria.rpy:1539
 translate brazilian Victoria_12_label_7ce9598f:
 
     # ch_Name "What were you expecting?"
-    ch_Name ""
+    ch_Name "O que você esperava?"
 
 # game/logic/events/victoria.rpy:1540
 translate brazilian Victoria_12_label_82f417bb:
 
     # Carter "They say at last class Victoria's blouse button came undone..."
-    Carter ""
+    Carter "Dizem que na última aula o botão da blusa da Victoria caiu..."
 
 # game/logic/events/victoria.rpy:1541
 translate brazilian Victoria_12_label_479307f7:
 
     # Carter "And you could see her bra. Too bad I missed it."
-    Carter ""
+    Carter "E você podia ver o sutiã dela. Pena que eu perdi."
 
 # game/logic/events/victoria.rpy:1542
 translate brazilian Victoria_12_label_c6aa2781:
 
     # ch_Name "Yeah."
-    ch_Name ""
+    ch_Name "Sim."
 
 # game/logic/events/victoria.rpy:1543
 translate brazilian Victoria_12_label_0ebb7dec:
 
     # ch_Name "{i}(So what... After what I've seen, it's nothing.){/i}"
-    ch_Name ""
+    ch_Name "{i}(E daí... Depois do que eu vi, não é nada.){/i}"
 
 # game/logic/events/victoria.rpy:1544
 translate brazilian Victoria_12_label_c1206a81:
 
     # Carter "Well, maybe we'll get lucky today."
-    Carter ""
+    Carter "Bem, talvez tenhamos sorte hoje."
 
 # game/logic/events/victoria.rpy:1546
 translate brazilian Victoria_12_label_e4b64451:
 
     # Joshi "Hey, guys!"
-    Joshi ""
+    Joshi "Ei, pessoal!"
 
 # game/logic/events/victoria.rpy:1547
 translate brazilian Victoria_12_label_78c0a4b2:
 
     # Joshi "I think I know why Victoria told us about ghosts all of a sudden."
-    Joshi ""
+    Joshi "Acho que sei por que Victoria nos contou sobre fantasmas de repente."
 
 # game/logic/events/victoria.rpy:1548
 translate brazilian Victoria_12_label_30c48915:
 
     # ch_Name "Yeah? Spit it out."
-    ch_Name ""
+    ch_Name "Sim? diga."
 
 # game/logic/events/victoria.rpy:1549
 translate brazilian Victoria_12_label_ac04b3b6:
 
     # Joshi "Guys from Martenden told me that there's something crazy going on in the Main hall at night."
-    Joshi ""
+    Joshi "Os caras de Martenden me disseram que há algo louco acontecendo no salão principal à noite."
 
 # game/logic/events/victoria.rpy:1550
 translate brazilian Victoria_12_label_30aa631f:
 
     # Carter "What kind of crazy?"
-    Carter ""
+    Carter "Que tipo de louco?"
 
 # game/logic/events/victoria.rpy:1552
 translate brazilian Victoria_12_label_0b4e6b88:
 
     # Joshi "They say they've been hearing women crying at night for days now."
-    Joshi ""
+    Joshi "Dizem que ouvem mulheres chorando à noite há dias."
 
 # game/logic/events/victoria.rpy:1553
 translate brazilian Victoria_12_label_d830c37c:
 
     # Joshi "It's like she cries for help. But no matter how hard they look, they don't find anyone!"
-    Joshi ""
+    Joshi "É como se ela gritasse por socorro. Mas não importa o quanto eles procurem, eles não encontram ninguém!"
 
 # game/logic/events/victoria.rpy:1554
 translate brazilian Victoria_12_label_d5e2aec4:
 
     # ch_Name "{i}(Hmm, sounds interesting.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm, parece interessante.){/i}"
 
 # game/logic/events/victoria.rpy:1555
 translate brazilian Victoria_12_label_2dcf551f:
 
     # Carter "Oh, come on, that's all a story? Probably just ghosts fooling around. Let's go to class."
-    Carter ""
+    Carter "Ah, vamos lá, isso é tudo uma história? Provavelmente apenas fantasmas brincando. Vamos para a aula."
 
 # game/logic/events/victoria.rpy:1556
 translate brazilian Victoria_12_label_0ff2a7c4:
 
     # Joshi "I don't know, what if it's something else? It wasn't there before..."
-    Joshi ""
+    Joshi "Eu não sei, e se for outra coisa? Não estava lá antes..."
 
 # game/logic/events/victoria.rpy:1558
 translate brazilian Victoria_12_label_722c401c:
 
     # Carter "Just go there and check, mhm? In the middle of the night, obviously."
-    Carter ""
+    Carter "Apenas vá lá e confira, mhm? No meio da noite, obviamente."
 
 # game/logic/events/victoria.rpy:1559
 translate brazilian Victoria_12_label_e8b0883f:
 
     # Joshi "No-no, even after Victoria's lesson I still don't believe ghosts are totally harmless."
-    Joshi ""
+    Joshi "Não, não, mesmo depois da aula de Victoria eu ainda não acredito que fantasmas sejam totalmente inofensivos."
 
 # game/logic/events/victoria.rpy:1560
 translate brazilian Victoria_12_label_05d66bcf:
 
     # Joshi "You'll never make me go to the Main hall at night."
-    Joshi ""
+    Joshi "Você nunca vai me fazer ir ao salão principal à noite."
 
 # game/logic/events/victoria.rpy:1561
 translate brazilian Victoria_12_label_654e1d82:
 
     # ch_Name "{i}(What is going on there while all students are sleeping?){/i}"
-    ch_Name ""
+    ch_Name "{i}(O que está acontecendo lá enquanto todos os alunos estão dormindo?){/i}"
 
 # game/logic/events/victoria.rpy:1562
 translate brazilian Victoria_12_label_432aa071:
 
     # ch_Name "{i}(Maybe I should look in there sometime and check it out for myself.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Talvez eu deva dar uma olhada lá algum dia e conferir por mim mesmo.){/i}"
 
 # game/logic/events/victoria.rpy:1563
 translate brazilian Victoria_12_label_f469130c:
 
     # ch_Name "{i}(And here is another mystery!){/i}"
-    ch_Name ""
+    ch_Name "{i}(E aqui está outro mistério!){/i}"
 
 # game/logic/events/victoria.rpy:1565
 translate brazilian Victoria_12_label_8638da8f:
 
     # Joshi "Yo, [Name], if you wanna make it to the next class, catch up."
-    Joshi ""
+    Joshi "Ei, [Name], se você quiser ir para a próxima aula, fique de boa."
 
 # game/logic/events/victoria.rpy:1566
 translate brazilian Victoria_12_label_21c35f6a:
 
     # ch_Name "Yeah, yeah, give a minute, I gotta think..."
-    ch_Name ""
+    ch_Name "Sim, sim, espere um minuto, tenho que pensar..."
 
