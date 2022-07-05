@@ -878,209 +878,209 @@ translate brazilian strings:
 
     # game/script.rpy:240
     old "House competitions"
-    new ""
+    new "competições de casa"
 
     # game/script.rpy:242
     old "Weekly competitions held"
-    new ""
+    new "Competições semanais realizadas"
 
     # game/script.rpy:244
     old "Leonheart wins"
-    new ""
+    new  "Leonheart vence"
 
     # game/script.rpy:246
     old "Adderin wins"
-    new ""
+    new "Adderin vence"
 
     # game/script.rpy:248
     old "Crowhive wins"
-    new ""
+    new "Crowhive vence"
 
     # game/script.rpy:250
     old "Martenden wins"
-    new ""
+    new "Martenden vence"
 
     # game/script.rpy:252
     old "Lost books found"
-    new ""
+    new "Livros perdidos encontrados"
 
     # game/script.rpy:254
     old "Training"
-    new ""
+    new "Treinamento"
 
     # game/script.rpy:256
     old "Combat Bolt Training"
-    new ""
+    new "Treinamento de Raio de Combate"
 
     # game/script.rpy:258
     old "Rictusempra Training"
-    new ""
+    new "Treinamento Rictusempra"
 
     # game/script.rpy:260
     old "Incendio Training"
-    new ""
+    new "Treinamento Incendio"
 
     # game/script.rpy:262
     old "Episkey Training"
-    new ""
+    new "Treinamento Episkey"
 
     # game/script.rpy:264
     old "Lesser Heal potions brewed"
-    new ""
+    new "Poções de Cura Menor fabricadas"
 
     # game/script.rpy:266
     old "Stoneskin potions brewed"
-    new ""
+    new "poções de pele de pedra fabricadas"
 
     # game/script.rpy:268
     old "Inspiration potions brewed"
-    new ""
+    new "poções de inspiração fabricadas"
 
     # game/script.rpy:270
     old "Reflection potions brewed"
-    new ""
+    new "poções de reflexão fabricadas"
 
     # game/script.rpy:272
     old "Duels performed"
-    new ""
+    new "Duelos realizados"
 
     # game/script.rpy:274
     old "Defeats in duels"
-    new ""
+    new  "derrotas em duelos"
 
     # game/script.rpy:276
     old "Victory over Adderin"
-    new ""
+    new "Vitória sobre Adderin"
 
     # game/script.rpy:278
     old "Victory over Crowhive"
-    new ""
+    new "Vitória sobre Crowhive"
 
     # game/script.rpy:280
     old "Victory over Martenden"
-    new ""
+    new "Vitória sobre Martenden"
 
     # game/script.rpy:282
     old "Used Combat Bolt"
-    new ""
+    new "Raio de combate usado"
 
     # game/script.rpy:284
     old "Used Rictusempra"
-    new ""
+    new "Rictusempra Usado"
 
     # game/script.rpy:286
     old "Used Incendio"
-    new ""
+    new "Incendio Usado"
 
     # game/script.rpy:288
     old "Used Episkey"
-    new ""
+    new "Episkey Usado"
 
     # game/script.rpy:290
     old "Lesser Heal potion used"
-    new ""
+    new "Poção de Cura Menor usada"
 
     # game/script.rpy:292
     old "Stoneskin potion used"
-    new ""
+    new "poção de pele de pedra usada"
 
     # game/script.rpy:294
     old "Inspiration potion used"
-    new ""
+    new "poção de inspiração usada"
 
     # game/script.rpy:296
     old "Reflection potions used"
-    new ""
+    new "poções de reflexão usadas"
 
     # game/script.rpy:298
     old "Total money earned"
-    new ""
+    new "Total de dinheiro ganho"
 
     # game/script.rpy:300
     old "Total money spent"
-    new ""
+    new "Total de dinheiro gasto"
 
     # game/script.rpy:302
     old "Found money"
-    new ""
+    new "dinheiro encontrado"
 
     # game/script.rpy:304
     old "Worked shifts in the cafe"
-    new ""
+    new "Trabalho em turnos no café"
 
     # game/script.rpy:306
     old "Earned money in the cafe"
-    new ""
+    new  "Dinheiro obtido no café"
 
     # game/script.rpy:308
     old "Fishing trips on Dale"
-    new ""
+    new "Viagens de pesca em Dale"
 
     # game/script.rpy:310
     old "Earned money fishing"
-    new ""
+    new "Dinheiro de pesca ganho"
 
     # game/script.rpy:312
     old "Earned money another way"
-    new ""
+    new "Ganhei dinheiro de outra maneira"
 
     # game/script.rpy:314
     old "{size=15}Note that night visits are entirely optional.{/size} \n{size=15}This additional content is not required to complete the game{/size} \n{size=15}and won’t influence your relationship with other characters.{/size}"
-    new ""
+    new "{size=15}Observe que as visitas noturnas são totalmente opcionais.{/size} \n{size=15}Este conteúdo adicional não é necessário para concluir o jogo{/size} \n{size=15}e não será t influenciar seu relacionamento com outros personagens.{/size}"
 
     # game/script.rpy:316
     old "1st"
-    new ""
+    new "1º"
 
     # game/script.rpy:318
     old "2nd"
-    new ""
+    new "2º"
 
     # game/script.rpy:320
     old "3rd"
-    new ""
+    new  "3º"
 
     # game/script.rpy:322
     old "4th"
-    new ""
+    new  "4º"
 
     # game/script.rpy:324
     old "Lesser Heal Potion"
-    new ""
+    new "Poção de Cura Menor"
 
     # game/script.rpy:326
     old "Magic Reflection Potion"
-    new ""
+    new "Poção de Reflexão Mágica"
 
     # game/script.rpy:328
     old "The Moonwalk tincture"
-    new ""
+    new "A tintura Moonwalk"
 
     # game/script.rpy:419
     old "Disclaimer!"
-    new ""
+    new "Isenção de responsabilidade!"
 
     # game/script.rpy:420
     old "This is only the web version of the Lust Academy! Use it to try out our game right in your browser!"
-    new ""
+    new "Esta é apenas a versão web da Lust Academy! Use-a para experimentar nosso jogo diretamente no seu navegador!"
 
     # game/script.rpy:421
     old "To enjoy the game with 60fps animations and atmospheric sound design, we highly recommend trying the full version of Lust Academy."
-    new ""
+    new "Para desfrutar do jogo com animações de 60fps e design de som atmosférico, recomendamos experimentar a versão completa do Lust Academy."
 
     # game/script.rpy:422
     old "Check out our {a=https://www.patreon.com/bearinthenight}Bear in the Night fan page{/a} for more details and to support the project!"
-    new ""
+    new "Confira nossa {a=https://www.patreon.com/bearinthenight}página de fãs do Bear in the Night{/a} para mais detalhes e para apoiar o projeto!"
 
     # game/script.rpy:426
     old "Сontinue on the web version"
-    new ""
+    new "Continue na versão web"
 
     # game/script.rpy:427
     old "Play the full version"
-    new ""
+    new "Jogue a versão completa"
 
     # game/script.rpy:554
     old "NEXT"
-    new ""
+    new "PRÓXIMO"
 
