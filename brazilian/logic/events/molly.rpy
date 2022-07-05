@@ -1414,5 +1414,5 @@ translate brazilian strings:
 translate brazilian Molly_3_label_584db1ca:
 
     # ch_Name "Alright, alright, I'll do it. I won't leave you hanging."
-    ch_Name ""
+    ch_Name "Tudo bem, tudo bem, eu vou fazer isso. Eu não vou deixar você esperando."
 
