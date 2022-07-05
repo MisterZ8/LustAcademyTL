@@ -252,85 +252,85 @@ translate brazilian strings:
 
     # game/logic/mini_games/duels/logic.rpy:2192
     old "I'm ready."
-    new ""
+    new "estou pronto".
 
     # game/logic/mini_games/duels/logic.rpy:2192
     old "Can we start already?"
-    new ""
+    new "Já podemos começar?"
 
     # game/logic/mini_games/duels/logic.rpy:2192
     old "What's taking you so long? When can we start?"
-    new ""
+    new "Por que você está demorando tanto? Quando podemos começar?"
 
     # game/logic/mini_games/duels/logic.rpy:2192
     old "Do I have permission to start?"
-    new ""
+    new "Tenho permissão para começar?"
 
     # game/logic/mini_games/duels/logic.rpy:2200
     old "The best option for you is to surrender before it's too late, pal."
-    new ""
+    new "A melhor opção para você é se render antes que seja tarde demais, parça."
 
     # game/logic/mini_games/duels/logic.rpy:2200
     old "I've been practicing my moves all week."
-    new ""
+    new "Eu tenho praticado meus movimentos a semana toda."
 
     # game/logic/mini_games/duels/logic.rpy:2200
     old "You don't stand a chance! Whatever happens here - don't take it personally, will you?"
-    new ""
+    new "Você não tem chance! Aconteça o que acontecer aqui - não leve para o lado pessoal, ok?"
 
     # game/logic/mini_games/duels/logic.rpy:2200
     old "Remember, it's a practice match. Let's not hurt each other."
-    new ""
+    new "Lembre-se, é um jogo treino. Não vamos nos machucar."
 
     # game/logic/mini_games/duels/logic.rpy:2200
     old "Sadly, they don't allow us to show faces."
-    new ""
+    new "Infelizmente, eles não nos permitem mostrar rostos."
 
     # game/logic/mini_games/duels/logic.rpy:2200
     old "I want to see yours when we're done."
-    new ""
+    new "Eu quero ver o seu quando terminarmos."
 
     # game/logic/mini_games/duels/logic.rpy:2200
     old "I hope we'll have a fun time no matter who wins."
-    new ""
+    new "Espero que nos divirtamos, não importa quem vença."
 
     # game/logic/mini_games/duels/logic.rpy:2329
     old "I've got to admit - you're not half as bad as I thought you'd be."
-    new ""
+    new  "Eu tenho que admitir - você não é tão ruim quanto eu pensei que seria."
 
     # game/logic/mini_games/duels/logic.rpy:2329
     old "How are you still standing? That was my best move!"
-    new ""
+    new "Como você ainda está de pé? Essa foi a minha melhor jogada!"
 
     # game/logic/mini_games/duels/logic.rpy:2329
     old "Can't you even block simple spells like that? Why am I not surprised?"
-    new ""
+    new "Você não pode bloquear feitiços simples como esse? Por que não estou surpreso?"
 
     # game/logic/mini_games/duels/logic.rpy:2329
     old "Wow! That really worked?! Yay! I wasn't sure I could pull that off!"
-    new ""
+    new "Uau! Isso realmente funcionou?! Yay! Eu não tinha certeza se conseguiria fazer isso!"
 
     # game/logic/mini_games/duels/logic.rpy:2329
     old "You're too predictable, bud."
-    new ""
+    new "Você é muito previsível, amigo."
 
     # game/logic/mini_games/duels/logic.rpy:2329
     old "Sorry, but I'm just better."
-    new ""
+    new "Desculpe, mas eu sou apenas o melhor."
 
     # game/logic/mini_games/duels/logic.rpy:2611
     old "It was easy-peasy, lemon squeezy! "
-    new ""
+    new "Foi fácil, como espremer limão!"
 
     # game/logic/mini_games/duels/logic.rpy:2611
     old "Hey, Jacob! I think I've outgrown academy tournaments. Where can I find the real challenge?"
-    new ""
+    new "Ei, Jacob! Acho que superei os torneios da academia. Onde posso encontrar o verdadeiro desafio?"
 
     # game/logic/mini_games/duels/logic.rpy:2611
     old "I've enjoyed our battle. Thank you!"
-    new ""
+    new "Gostei da nossa batalha. Valeu!"
 
     # game/logic/mini_games/duels/logic.rpy:2611
     old "It was close. Maybe another time you'll be luckier."
-    new ""
+    new "Foi quase. Talvez outra vez você tenha mais sorte."
 
