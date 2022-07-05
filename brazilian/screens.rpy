@@ -174,7 +174,7 @@ translate brazilian strings:
 
     # game/screens.rpy:2935
     old "Escape"
-    new ""
+    new "ESC"
 
     # game/screens.rpy:2936
     old "Accesses the game menu."
@@ -296,39 +296,39 @@ translate brazilian strings:
 
     # game/screens.rpy:795
     old "Open World With Free Roam"
-    new ""
+    new "Mundo Aberto com Free Roam"
 
     # game/screens.rpy:797
     old "Possibility To Choose Desired Content"
-    new ""
+    new "Possibilidade de Escolher o Conteúdo Desejado"
 
     # game/screens.rpy:799
     old "Optional Mini-Games And Activities"
-    new ""
+    new "Mini-jogos e atividades opcionais"
 
     # game/screens.rpy:807
     old "VISUAL NOVEL"
-    new ""
+    new "ROMANCE VISUAL"
 
     # game/screens.rpy:812
     old "All In One Storytelling"
-    new ""
+    new "Tudo em uma narrativa"
 
     # game/screens.rpy:814
     old "Occasional Choices"
-    new ""
+    new "escolhas ocasionais"
 
     # game/screens.rpy:816
     old "Plot-Driven Structure"
-    new ""
+    new "Estrutura Orientada à Trama"
 
     # game/screens.rpy:2197
     old "Transfer"
-    new ""
+    new "transferência"
 
     # game/screens.rpy:2308
     old "Choose a save file with progress that you want to transfer to the next season"
-    new ""
+    new  "Escolha um arquivo salvo com o progresso que você deseja transferir para a próxima temporada"
 
     # game/screens.rpy:2359
     old "%m/%d/%Y %H:%M"
@@ -340,85 +340,85 @@ translate brazilian strings:
 
     # game/screens.rpy:2708
     old "FULLSCREEN"
-    new ""
+    new "TELA CHEIA"
 
     # game/screens.rpy:2720
     old "WINDOWED"
-    new ""
+    new "JANELA"
 
     # game/screens.rpy:2725
     old "ROLLBACK SLIDE"
-    new ""
+    new "SLIDE DE ROLLBACK"
 
     # game/screens.rpy:2736
     old "LEFT"
-    new ""
+    new "ESQUERDA"
 
     # game/screens.rpy:2748
     old "DISABLE"
-    new ""
+    new "DESATIVADO"
 
     # game/screens.rpy:2760
     old "RIGHT"
-    new ""
+    new "DIREITA"
 
     # game/screens.rpy:2767
     old "SKIP"
-    new ""
+    new "PULAR"
 
     # game/screens.rpy:2781
     old "UNSEEN TEXT"
-    new ""
+    new "TEXTO NÃO VISTO"
 
     # game/screens.rpy:2797
     old "AFTER CHOICES"
-    new ""
+    new "PÓS-ESCOLHAS"
 
     # game/screens.rpy:2813
     old "TRANSITIONS"
-    new ""
+    new  "TRANSIÇÕES"
 
     # game/screens.rpy:2821
     old "TEXT COLOR"
-    new ""
+    new "COR DO TEXTO"
 
     # game/screens.rpy:2833
     old "WHITE"
-    new ""
+    new "BRANCO"
 
     # game/screens.rpy:2846
     old "BLUE"
-    new ""
+    new "AZUL"
 
     # game/screens.rpy:2858
     old "GOLD"
-    new ""
+    new "DOURADO"
 
     # game/screens.rpy:2864
     old "Optional LGBTQ+ content"
-    new ""
+    new "Conteúdo LGBTQ+ opcional"
 
     # game/screens.rpy:2879
     old "ENABLE"
-    new ""
+    new "HABILITAR"
 
     # game/screens.rpy:2914
     old "AUTO-FORWARD TIME"
-    new ""
+    new "HORA DE AVANÇO AUTOMÁTICO"
 
     # game/screens.rpy:2921
     old "OFF"
-    new ""
+    new "DESABILITAR"
 
     # game/screens.rpy:2933
     old "TEXT SPEED"
-    new ""
+    new "VELOCIDADE DE TEXTO"
 
     # game/screens.rpy:2960
     old "MUSIC VOLUME"
-    new ""
+    new "VOLUME DE MÚSICA"
 
     # game/screens.rpy:2970
     old "SOUND VOLUME"
-    new ""
+    new "VOLUME SOM"
 
