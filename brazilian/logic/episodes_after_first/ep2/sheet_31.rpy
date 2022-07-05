@@ -872,65 +872,65 @@ translate brazilian strings:
 translate brazilian arthur_label_48673d84:
 
     # Elijah "Time to wake up!"
-    Elijah ""
+    Elijah "Hora de acordar!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:94
 translate brazilian arthur_label_820192cd:
 
     # ch_Name "Why exactly calling?!"
-    ch_Name ""
+    ch_Name "Por que está me ligando?!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:95
 translate brazilian arthur_label_5328ca4d:
 
     # Elijah "I just wanted to hear your voice. You know, I feel lonely."
-    Elijah ""
+    Elijah "Eu só queria ouvir sua voz. Você sabe, eu me sinto carente."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:97
 translate brazilian arthur_label_1e93415e:
 
     # ch_Name "Really?"
-    ch_Name ""
+    ch_Name "Sério?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:98
 translate brazilian arthur_label_275c93f0:
 
     # Elijah "Nah. I'm just joking around!"
-    Elijah ""
+    Elijah "Nah. Estou apenas brincando!"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:99
 translate brazilian arthur_label_d26cd93a:
 
     # Elijah "I wanted to say that we need to go to the {b}Main Hall{/b} soon."
-    Elijah ""
+    Elijah "Eu queria dizer que precisamos ir ao {b}Salão Principal{/b} em breve."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:102
 translate brazilian arthur_label_f2290ef2:
 
     # Elijah "The principal called a freshman meeting."
-    Elijah ""
+    Elijah "O diretor convocou uma reunião de novatos."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:106
 translate brazilian arthur_label_642e99f4:
 
     # Elijah "Alright?"
-    Elijah ""
+    Elijah "Tudo bem?"
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:107
 translate brazilian arthur_label_c43d6e7b:
 
     # ch_Name "Ehm... Yeah."
-    ch_Name ""
+    ch_Name "Ehm... Sim."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:108
 translate brazilian arthur_label_9ab09bfc:
 
     # Elijah "Sweet! See you."
-    Elijah ""
+    Elijah "Até mais docinho."
 
 # game/logic/episodes_after_first/ep2/sheet_31.rpy:109
 translate brazilian arthur_label_74ebce9c:
 
     # ch_Name "Sure."
-    ch_Name ""
+    ch_Name "Até..."
 
