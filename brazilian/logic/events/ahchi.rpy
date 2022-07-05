@@ -3608,467 +3608,467 @@ translate brazilian strings:
 translate brazilian CF_S2_label_e19d63b6:
 
     # ch_Name "{i}(Lily is a sci-fi fan. I never would have thought...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Lily é uma fã de ficção científica. Eu nunca teria pensado...){/i}"
 
 # game/logic/events/ahchi.rpy:325
 translate brazilian CF_S2_label_7af8f647:
 
     # ch_Name "{i}(Okay, that was nice, but I never got my coffee.){/i}"
-    ch_Name ""
+    ch_Name  "{i}(Ok, isso foi legal, mas eu nunca tomei meu café.){/i}"
 
 # game/logic/events/ahchi.rpy:326
 translate brazilian CF_S2_label_8a92ff38:
 
     # ch_Name "{i}(Time to hit the coffee shop.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hora de ir ao café.){/i}"
 
 # game/logic/events/ahchi.rpy:335
 translate brazilian CF_S2_label_d1180da5:
 
     # ch_Name "{i}(This place seems to be more popular with students than I thought.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Este lugar parece ser mais popular entre os alunos do que eu pensava.){/i}"
 
 # game/logic/events/ahchi.rpy:336
 translate brazilian CF_S2_label_5d465962:
 
     # ch_Name "{i}(You can't walk a step without seeing familiar faces.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Você não pode dar um passo sem ver rostos familiares.){/i}"
 
 # game/logic/events/ahchi.rpy:337
 translate brazilian CF_S2_label_d31de49f:
 
     # ch_Name "{i}(Samantha and Audrey are inseparable even on weekends.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Samantha e Audrey são inseparáveis mesmo nos fins de semana.){/i}"
 
 # game/logic/events/ahchi.rpy:339
 translate brazilian CF_S2_label_ac1a89bd:
 
     # ch_Name "{i}(I think it's worth adding my presence to their company.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Acho que vale a pena adicionar minha presença à compania delas.){/i}"
 
 # game/logic/events/ahchi.rpy:340
 translate brazilian CF_S2_label_4f7e3d5b:
 
     # ch_Name "Hi, girls!"
-    ch_Name ""
+    ch_Name "Oi, meninas!"
 
 # game/logic/events/ahchi.rpy:445
 translate brazilian CF_S2_label_1285adc7:
 
     # Samantha "Guys, finish your coffee quickly."
-    Samantha ""
+    Samantha "Pessoal, terminem seu café rapidamente."
 
 # game/logic/events/ahchi.rpy:446
 translate brazilian CF_S2_label_0918f325:
 
     # Audrey "Why? Are we in a hurry?"
-    Audrey ""
+    Audrey "Por quê? Estamos com pressa?"
 
 # game/logic/events/ahchi.rpy:447
 translate brazilian CF_S2_label_68b53f0f:
 
     # ch_Name "I'm almost done. Why?"
-    ch_Name ""
+    ch_Name  "Estou quase terminando. Por quê?"
 
 # game/logic/events/ahchi.rpy:449
 translate brazilian CF_S2_label_0aab4d7a:
 
     # Samantha "The ship will be here soon. I don't want to be late."
-    Samantha ""
+    Samantha "O navio estará aqui em breve. Não quero me atrasar."
 
 # game/logic/events/ahchi.rpy:450
 translate brazilian CF_S2_label_cf86d6e9:
 
     # Samantha "You know how Jacob's gonna be if we delay the ferry."
-    Samantha ""
+    Samantha "Você sabe como Jacob vai ficar se atrasarmos a balsa."
 
 # game/logic/events/ahchi.rpy:451
 translate brazilian CF_S2_label_1f0ec4ca:
 
     # Audrey "Ah-ha-ha. Right. I can't take another lecture on responsibility."
-    Audrey ""
+    Audrey  "Ah-ha-ha. Certo. Não posso aceitar outra palestra sobre responsabilidade."
 
 # game/logic/events/ahchi.rpy:452
 translate brazilian CF_S2_label_73185c20:
 
     # ch_Name "Shall we go, then?"
-    ch_Name ""
+    ch_Name  "Vamos então?"
 
 # game/logic/events/ahchi.rpy:454
 translate brazilian CF_S2_label_0b58d88e:
 
     # Samantha "Thank you, Ahchi! That was great."
-    Samantha ""
+    Samantha "Obrigado, Ahchi! Isso foi ótimo."
 
 # game/logic/events/ahchi.rpy:455
 translate brazilian CF_S2_label_0e3f16ca:
 
     # Ahchi "Glad to try! Come back again!"
-    Ahchi ""
+    Ahchi "Fico feliz em tentar! Volte novamente!"
 
 # game/logic/events/ahchi.rpy:456
 translate brazilian CF_S2_label_02ab96ef:
 
     # ch_Name "We will, if we win the house competition."
-    ch_Name ""
+    ch_Name "Nós vamos, se vencermos a competição da casa."
 
 # game/logic/events/ahchi.rpy:457
 translate brazilian CF_S2_label_ed850162:
 
     # Audrey "It's worth the effort for this coffee."
-    Audrey ""
+    Audrey "Vale a pena o esforço por este café."
 
 # game/logic/events/ahchi.rpy:459
 translate brazilian CF_S2_label_51363553:
 
     # Samantha "Too bad we have so little time here."
-    Samantha ""
+    Samantha "Pena que temos tão pouco tempo aqui."
 
 # game/logic/events/ahchi.rpy:460
 translate brazilian CF_S2_label_774347ec:
 
     # Samantha "And why doesn't the ferry run every day?"
-    Samantha ""
+    Samantha  "E por que a balsa não funciona todos os dias?"
 
 # game/logic/events/ahchi.rpy:461
 translate brazilian CF_S2_label_82503a3b:
 
     # Audrey "Yeah, I'd give anything for a ride here after school."
-    Audrey ""
+    Audrey "Sim, eu daria qualquer coisa por uma carona aqui depois da escola."
 
 # game/logic/events/ahchi.rpy:462
 translate brazilian CF_S2_label_34393449:
 
     # ch_Name "We should pitch that idea to Arthur."
-    ch_Name ""
+    ch_Name "Devemos apresentar essa ideia ao Arthur."
 
 # game/logic/events/ahchi.rpy:469
 translate brazilian CF_S2_label_ec9215f3:
 
     # Samantha "Come on, guys, let's hurry up."
-    Samantha ""
+    Samantha "Vamos, pessoal, vamos nos apressar."
 
 # game/logic/events/ahchi.rpy:470
 translate brazilian CF_S2_label_8aa064bd:
 
     # Samantha "You know the schedule says the ferry only lasts 15 minutes."
-    Samantha ""
+    Samantha "Você sabe que o horário diz que a balsa dura apenas 15 minutos."
 
 # game/logic/events/ahchi.rpy:471
 translate brazilian CF_S2_label_3e04a9fa:
 
     # Audrey "Yeah, yeah, let's go!"
-    Audrey ""
+    Audrey "Sim, sim, vamos!"
 
 # game/logic/events/ahchi.rpy:478
 translate brazilian CF_S3_label_aa871a0d:
 
     # ch_Name "{i}(I wish all baristas were like Ahchi.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Gostaria que todos os baristas fossem como Ahchi.){/i}"
 
 # game/logic/events/ahchi.rpy:479
 translate brazilian CF_S3_label_79d2e2fa:
 
     # ch_Name "{i}(I haven't had coffee this good in a long time.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu não tomo um café tão bom há muito tempo.){/i}"
 
 # game/logic/events/ahchi.rpy:482
 translate brazilian CF_S3_label_63ca837e:
 
     # ch_Name "{i}(Hey, it's Samantha and Audrey!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ei, são Samantha e Audrey!){/i}"
 
 # game/logic/events/ahchi.rpy:483
 translate brazilian CF_S3_label_b0774a22:
 
     # ch_Name "{i}(I guess I'm not the only one who appreciates good coffee.){/i}"
-    ch_Name ""
+    ch_Name  "{i}(Acho que não sou o único que aprecia um bom café.){/i}"
 
 # game/logic/events/ahchi.rpy:484
 translate brazilian CF_S3_label_9a457d4a:
 
     # ch_Name "{i}(I think I'll keep them company.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Acho que vou fazer companhia a elas.){/i}"
 
 # game/logic/events/ahchi.rpy:489
 translate brazilian CF_S3_label_893ec62c:
 
     # ch_Name "Hey there, girls!"
-    ch_Name ""
+    ch_Name "Ei, meninas!"
 
 # game/logic/events/ahchi.rpy:591
 translate brazilian CF_S3_label_4190a827:
 
     # ch_Name "{i}(No, it's better not to bother her too much.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não, é melhor não incomodá-la muito.){/i}"
 
 # game/logic/events/ahchi.rpy:592
 translate brazilian CF_S3_label_fd77ad50:
 
     # ch_Name "{i}(Oh, it's so late already? I've spent too much time with the girls. I'm going for a walk.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ah, já é tão tarde? Passei muito tempo com as meninas. Vou dar uma volta.){/i}"
 
 # game/logic/events/ahchi.rpy:594
 translate brazilian CF_S3_label_c7d85ac0:
 
     # ch_Name "{i}(It's beautiful here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(É lindo aqui.){/i}"
 
 # game/logic/events/ahchi.rpy:595
 translate brazilian CF_S3_label_15b55d56:
 
     # ch_Name "{i}(But I know a place that's even better.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas eu conheço um lugar que é ainda melhor.){/i}"
 
 # game/logic/events/ahchi.rpy:596
 translate brazilian CF_S3_label_281dc17f:
 
     # ch_Name "{i}(It's time to go to the club!){/i}"
-    ch_Name ""
+    ch_Name "{i}(É hora de ir ao clube!){/i}"
 
 # game/logic/events/ahchi.rpy:603
 translate brazilian CF_S3_label_563385db:
 
     # Romul "Stop! There's a fee to get into the club, buddy."
-    Romul ""
+    Romul "Pare! Há uma taxa para entrar no clube, amigo."
 
 # game/logic/events/ahchi.rpy:604
 translate brazilian CF_S3_label_c87a1f3c:
 
     # ch_Name "What? You must be kidding me, big boy."
-    ch_Name ""
+    ch_Name "O quê? Você deve estar brincando comigo, garotão."
 
 # game/logic/events/ahchi.rpy:605
 translate brazilian CF_S3_label_924ba140:
 
     # Romul "Who are you calling a big boy? Are you looking for a fight?"
-    Romul ""
+    Romul "Quem você está chamando de garotão? Você está procurando uma briga?"
 
 # game/logic/events/ahchi.rpy:606
 translate brazilian CF_S3_label_1ed77277:
 
     # ch_Name "Nah. Look, here's my VIP pass. Any more questions?"
-    ch_Name ""
+    ch_Name "Nah. Olha, aqui está meu passe VIP. Mais alguma pergunta?"
 
 # game/logic/events/ahchi.rpy:608
 translate brazilian CF_S3_label_4da1e0ad:
 
     # Romul "Hmm... It's really a VIP pass."
-    Romul ""
+    Romul "Hmm... É realmente um passe VIP."
 
 # game/logic/events/ahchi.rpy:609
 translate brazilian CF_S3_label_e6cf0f73:
 
     # ch_Name "So can I go in?"
-    ch_Name ""
+    ch_Name "Então posso entrar?"
 
 # game/logic/events/ahchi.rpy:611
 translate brazilian CF_S3_label_a5fcfca5:
 
     # Romul "Go ahead, of course. Sorry, I didn't recognize you right away."
-    Romul ""
+    Romul "Vá em frente, é claro. Desculpe, não o reconheci imediatamente."
 
 # game/logic/events/ahchi.rpy:612
 translate brazilian CF_S3_label_502169ac:
 
     # ch_Name "That's what I thought."
-    ch_Name ""
+    ch_Name "Foi o que pensei."
 
 # game/logic/events/ahchi.rpy:879
 translate brazilian CF_S5_label_889724bc:
 
     # ch_Name "{i}(Wow, I spent so much time hanging out here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Uau, passei tanto tempo aqui.){/i}"
 
 # game/logic/events/ahchi.rpy:880
 translate brazilian CF_S5_label_d9265691:
 
     # ch_Name "{i}(The club has probably opened already.){/i}"
-    ch_Name ""
+    ch_Name "{i}(O clube provavelmente já abriu.){/i}"
 
 # game/logic/events/ahchi.rpy:881
 translate brazilian CF_S5_label_e63f9a55:
 
     # ch_Name "{i}(I should probably pay a visit to Adele before I leave for Christmas.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu provavelmente deveria visitar Adele antes de chegar o Natal.){/i}"
 
 # game/logic/events/ahchi.rpy:888
 translate brazilian CF_S5_label_0b6a76dc:
 
     # ch_Name "{i}(Yeah, I was right.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sim, eu estava certo.){/i}"
 
 # game/logic/events/ahchi.rpy:889
 translate brazilian CF_S5_label_8a983cb9:
 
     # ch_Name "{i}(It's evening already.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Já é noite.){/i}"
 
 # game/logic/events/ahchi.rpy:890
 translate brazilian CF_S5_label_3a80465f:
 
     # ch_Name "{i}(The weather today is so great too. Maybe I should take Adele for a walk?){/i}"
-    ch_Name ""
+    ch_Name "{i}(O clima hoje também está ótimo. Talvez eu devesse levar Adele para passear?){/i}"
 
 # game/logic/events/ahchi.rpy:893
 translate brazilian CF_S5_label_0233e4c3:
 
     # ch_Name "{i}(I wonder where do other guys from Cordale spend their evenings here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu me pergunto onde os outros caras de Cordale passam as noites aqui.){/i}"
 
 # game/logic/events/ahchi.rpy:894
 translate brazilian CF_S5_label_19f4a13b:
 
     # ch_Name "{i}(I should ask Haley next time.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Devo perguntar a Haley da próxima vez.){/i}"
 
 # game/logic/events/ahchi.rpy:895
 translate brazilian CF_S5_label_ad0c5a2d:
 
     # ch_Name "{i}(But I wouldn't be surprised if she's binge-reading the whole city library.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas eu não ficaria surpreso se ela estivesse lendo compulsivamente toda a biblioteca da cidade.){/i}"
 
 # game/logic/events/ahchi.rpy:899
 translate brazilian CF_S5_label_9a01766c:
 
     # ch_Name "{i}(Even Romul looks not as douchey today.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Até mesmo Romul não parece tão idiota hoje.){/i}"
 
 # game/logic/events/ahchi.rpy:900
 translate brazilian CF_S5_label_136b7c99:
 
     # ch_Name "{i}(What a great evening for a date!){/i}"
-    ch_Name ""
+    ch_Name  "{i}(Que ótima noite para um encontro!){/i}"
 
 # game/logic/events/ahchi.rpy:901
 translate brazilian CF_S5_label_57766f08:
 
     # ch_Name "{i}(Adele, here I come!){/i}"
-    ch_Name ""
+    ch_Name  "{i}(Adele, aqui vou eu!){/i}"
 
 # game/logic/events/ahchi.rpy:972
 translate brazilian CF_Ahchi_2_label_c44cf98f:
 
     # Ahchi "Did you hear what old man Chompski pulled the other day?"
-    Ahchi ""
+    Ahchi "Você ouviu o que o velho Chompski puxou no outro dia?"
 
 # game/logic/events/ahchi.rpy:1017
 translate brazilian CF_Ahchi_2_label_e7d59ecf_1:
 
     # ch_Name "That's what you need! Even more than that."
-    ch_Name ""
+    ch_Name  "É disso que você precisa! Ainda mais do que isso."
 
 # game/logic/events/ahchi.rpy:1018
 translate brazilian CF_Ahchi_2_label_4620c531_1:
 
     # ch_Name "It's a masterpiece!"
-    ch_Name ""
+    ch_Name "É uma obra-prima!"
 
 # game/logic/events/ahchi.rpy:1019
 translate brazilian CF_Ahchi_2_label_05b553f3:
 
     # ch_Name "Thanks, Ahchi."
-    ch_Name ""
+    ch_Name "Obrigado, Ahchi."
 
 # game/logic/events/ahchi.rpy:1021
 translate brazilian CF_Ahchi_2_label_4a4c5e9f_1:
 
     # Ahchi "Nothing warms the soul like a satisfied customer."
-    Ahchi ""
+    Ahchi "Nada aquece a alma como um cliente satisfeito."
 
 # game/logic/events/ahchi.rpy:1022
 translate brazilian CF_Ahchi_2_label_a527d8e7:
 
     # ch_Name "Oh, there's Sam and Audrey. I've gotta go, pal!"
-    ch_Name ""
+    ch_Name "Ah, lá estão Sam e Audrey. Tenho que ir, amigo!"
 
 # game/logic/events/ahchi.rpy:1023
 translate brazilian CF_Ahchi_2_label_56795ea9_1:
 
     # Ahchi "See you soon!"
-    Ahchi ""
+    Ahchi  "Vejo você em breve!"
 
 # game/logic/events/ahchi.rpy:1066
 translate brazilian CF_Ahchi_3_label_fdc49706:
 
     # ch_Name "Actually, about that..."
-    ch_Name ""
+    ch_Name  "Na verdade, sobre isso..."
 
 # game/logic/events/ahchi.rpy:1067
 translate brazilian CF_Ahchi_3_label_36139648:
 
     # ch_Name "I won't be coming for some time."
-    ch_Name ""
+    ch_Name "Eu não virei por algum tempo."
 
 # game/logic/events/ahchi.rpy:1068
 translate brazilian CF_Ahchi_3_label_fbc9d237:
 
     # Ahchi "Really? How so?"
-    Ahchi ""
+    Ahchi  "Sério? Como assim?"
 
 # game/logic/events/ahchi.rpy:1069
 translate brazilian CF_Ahchi_3_label_02a6bbfa:
 
     # ch_Name "The thing is, we're going on winter holidays at Cordale."
-    ch_Name ""
+    ch_Name "A questão é que vamos passar as férias de inverno em Cordale."
 
 # game/logic/events/ahchi.rpy:1070
 translate brazilian CF_Ahchi_3_label_66aafa9f:
 
     # ch_Name "So I'm pretty sure no students will come in a few weeks."
-    ch_Name ""
+    ch_Name "Então, tenho certeza que nenhum aluno virá em algumas semanas."
 
 # game/logic/events/ahchi.rpy:1072
 translate brazilian CF_Ahchi_3_label_43c5d9aa:
 
     # Ahchi "Ah, that's a shame..."
-    Ahchi ""
+    Ahchi "Ah, que pena..."
 
 # game/logic/events/ahchi.rpy:1073
 translate brazilian CF_Ahchi_3_label_f3d8c9ec:
 
     # Ahchi "I'll miss my favorite clients."
-    Ahchi ""
+    Ahchi "Vou sentir falta dos meus clientes favoritos."
 
 # game/logic/events/ahchi.rpy:1074
 translate brazilian CF_Ahchi_3_label_98b1ba13:
 
     # Ahchi "And the cash, of course."
-    Ahchi ""
+    Ahchi "E do dinheiro, é claro."
 
 # game/logic/events/ahchi.rpy:1076
 translate brazilian CF_Ahchi_3_label_f51bbdeb:
 
     # Ahchi "But that doesn't mean I'm not happy for you."
-    Ahchi ""
+    Ahchi "Mas isso não significa que não estou feliz por você."
 
 # game/logic/events/ahchi.rpy:1077
 translate brazilian CF_Ahchi_3_label_fc109b63:
 
     # Ahchi "I hope you'll have some fun on your holidays."
-    Ahchi ""
+    Ahchi "Espero que você se divirta em suas férias."
 
 # game/logic/events/ahchi.rpy:1078
 translate brazilian CF_Ahchi_3_label_262cb002:
 
     # ch_Name "Thanks, friend."
-    ch_Name ""
+    ch_Name "Obrigado, amigo."
 
 # game/logic/events/ahchi.rpy:1079
 translate brazilian CF_Ahchi_3_label_5c9a3af8:
 
     # ch_Name "I'll miss your coffee."
-    ch_Name ""
+    ch_Name "Vou sentir falta do seu café."
 
 # game/logic/events/ahchi.rpy:1080
 translate brazilian CF_Ahchi_3_label_6084f42f:
 
     # ch_Name "Have a good day!"
-    ch_Name ""
+    ch_Name  "Tenha um bom dia!"
 
 # game/logic/events/ahchi.rpy:1081
 translate brazilian CF_Ahchi_3_label_be3aac5c:
 
     # Ahchi "You too."
-    Ahchi ""
+    Ahchi "Para você também."
 
