@@ -2498,65 +2498,65 @@ translate brazilian strings:
 translate brazilian Elijah_1_label_db363295:
 
     # Elijah "Here take your Student ID Card... Show it at the library."
-    Elijah ""
+    Elijah  "Aqui pegue sua carteira de estudante... Mostre na biblioteca."
 
 # game/logic/events/elijah.rpy:371
 translate brazilian Elijah_3_label_39_80971209:
 
     # Elijah "Yes.{w} A man who's open to new acquaintances."
-    Elijah ""
+    Elijah "Sim.{w} Um homem aberto a novos conhecidos."
 
 # game/logic/events/elijah.rpy:433
 translate brazilian Elijah_3_label_51_ef69e8db:
 
     # Elijah "How are you doing here, bro?"
-    Elijah ""
+    Elijah "Como está indo, mano?"
 
 # game/logic/events/elijah.rpy:480
 translate brazilian Elijah_4_label_a17b2a1e:
 
     # ch_Name "So, I'm going to participate in the Dueling club tonight."
-    ch_Name ""
+    ch_Name "Então, vou participar do clube de duelos hoje à noite."
 
 # game/logic/events/elijah.rpy:524
 translate brazilian Elijah_4_label_84f5ef7f:
 
     # Elijah "Hey, take it easy. No, of course, it's not!"
-    Elijah ""
+    Elijah "Ei, vá com calma. Não, claro, não é!"
 
 # game/logic/events/elijah.rpy:533
 translate brazilian Elijah_4_label_28_8670c67f:
 
     # Elijah "You have to go to the Chompski Shop on the main square."
-    Elijah ""
+    Elijah "Você tem que ir ao Chompski Shop na praça principal."
 
 # game/logic/events/elijah.rpy:540
 translate brazilian Elijah_4_label_28_863c8d74:
 
     # Elijah "Of course, it is, handsome. I told you it was a great job."
-    Elijah ""
+    Elijah "Claro que sim, gato. Eu disse que era um ótimo trabalho."
 
 # game/logic/events/elijah.rpy:587
 translate brazilian Elijah_5_label_7ff34246:
 
     # ch_Name "{i}(Oh, yes! I should probably go get that nectar for Elijah. Almost forgot about it.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ah, sim! Eu provavelmente deveria ir buscar aquele néctar para Elijah. Quase esqueci.){/i}"
 
 # game/logic/events/elijah.rpy:731
 translate brazilian Elijah_6_label_29e1dfd4:
 
     # Elijah "Let's take a walk and I'll tell you about the Dueling club."
-    Elijah ""
+    Elijah "Vamos dar uma volta e eu te conto sobre o clube de duelos."
 
 # game/logic/events/elijah.rpy:732
 translate brazilian Elijah_6_label_57d809d1:
 
     # ch_Name "The Dueling club?"
-    ch_Name ""
+    ch_Name "O clube de duelos?"
 
 translate brazilian strings:
 
     # game/logic/events/elijah.rpy:8
     old "Do you want Elijah to be a hetero or a homo?"
-    new ""
+    new "Você quer que Elijah seja um hetero ou um homo?"
 
