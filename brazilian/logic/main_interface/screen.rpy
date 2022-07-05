@@ -370,9 +370,9 @@ translate brazilian strings:
 
     # game/logic/main_interface/screen.rpy:1598
     old "You have successfully completed all available routes. Talk to Samantha to go on vacation."
-    new ""
+    new "Você completou com sucesso todas as rotas disponíveis. Fale com Samantha para sair de férias."
 
     # game/logic/main_interface/screen.rpy:1642
     old "Skip time"
-    new ""
+    new "Pular no tempo"
 
