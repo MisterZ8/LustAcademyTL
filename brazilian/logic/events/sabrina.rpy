@@ -2822,5 +2822,5 @@ translate brazilian strings:
 
     # game/logic/events/sabrina.rpy:9
     old "Potion for Audrey"
-    new ""
+    new "Poção para Audrey"
 
