@@ -1148,9 +1148,9 @@ translate brazilian strings:
 
     # renpy/common/00accessibility.rpy:180
     old "High Contrast Text"
-    new ""
+    new "Texto de alto contraste"
 
     # renpy/common/00preferences.rpy:493
     old "high contrast text"
-    new ""
+    new  "texto de alto contraste"
 
