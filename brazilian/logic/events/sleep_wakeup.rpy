@@ -4,5 +4,5 @@ translate brazilian strings:
 
     # game/logic/events/sleep_wakeup.rpy:274
     old "Week {color=#E0CCB9}[week_num]{/color}"
-    new ""
+    new "Semana {color=#E0CCB9}[week_num]{/color}"
 
