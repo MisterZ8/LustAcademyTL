@@ -96,9 +96,9 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_screen.rpy:397
     old "My\nhouse"
-    new ""
+    new "Minha\ncasa"
 
     # game/logic/main_interface/quest_log_screen.rpy:568
     old "{b}Sabrina`s picture{/b}\n{size=16}Click to view{/size}"
-    new ""
+    new "{b}Foto de Sabrina{/b}\n{size=16}Clique para ver{/size}"
 
