@@ -1976,19 +1976,19 @@ translate brazilian strings:
 translate brazilian sheet_28_1_254_5b9a608c:
 
     # ch_Name "{i}(...wraps around my dick...){/i}"
-    ch_Name ""
+    ch_Name "{i}(...enrolar no meu pau...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:464
 translate brazilian sheet_28_1_262_16_05a71fa1:
 
     # Leona "Guess we'll have to beg for your forgiveness."
-    Leona ""
+    Leona "Acho que vamos ter que implorar por seu perdão."
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:536
 translate brazilian sheet_28_1_262_16_5bf20199:
 
     # ch_Name "{i}(Sam is Leonheart, so is Haley. And that asian chick... Lily?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Sam é de Leonheart, assim como Haley. E aquela garota asiática... Lily?){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_28.rpy:577
 translate brazilian sheet_28_1_262_16_475d47b8:
@@ -2018,9 +2018,9 @@ translate brazilian strings:
 
     # game/logic/episodes_after_first/ep2/sheet_28.rpy:396
     old "No, it's enough"
-    new ""
+    new "Não, é o suficiente"
 
     # game/logic/episodes_after_first/ep2/sheet_28.rpy:396
     old "Ready for action"
-    new ""
+    new "Pronto para a ação"
 
