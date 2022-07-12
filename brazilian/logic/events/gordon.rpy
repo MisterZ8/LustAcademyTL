@@ -1558,43 +1558,43 @@ translate brazilian strings:
 translate brazilian Gordon_1_label_f04d59cb:
 
     # UnknownGordon "I'm Gordon Chompski."
-    UnknownGordon ""
+    UnknownGordon "Eu me chamo Gordon Chompski."
 
 # game/logic/events/gordon.rpy:116
 translate brazilian Gordon_1_label_5f7e6b15:
 
     # Gordon "And this is Chompski Shop. Best store in Dale."
-    Gordon ""
+    Gordon "E esta é a Chompski Shop. Melhor loja em Dale."
 
 # game/logic/events/gordon.rpy:203
 translate brazilian Gordon_1_label_a02a86a4:
 
     # Gordon "If you need a part-time job, there's nobody better than Chompski."
-    Gordon ""
+    Gordon "Se você precisa de um emprego de meio período, não há lugar melhor do que em Chompski."
 
 # game/logic/events/gordon.rpy:353
 translate brazilian Willow_1_label_f0dc1db3:
 
     # ch_Name "{i}(The Chompski Shop. That's where I'm going.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Chompski Shop. É para lá que vou.){/i}"
 
 # game/logic/events/gordon.rpy:363
 translate brazilian Willow_1_label_aefaf764:
 
     # ch_Name "Maybe I can try to cheer her up?"
-    ch_Name ""
+    ch_Name "Talvez eu possa tentar animá-la?"
 
 # game/logic/events/gordon.rpy:365
 translate brazilian Willow_1_label_2e71c19d:
 
     # Gordon "Hmm, maybe. That's an idea! "
-    Gordon ""
+    Gordon "Hmm, talvez. Isso é uma boa ideia!"
 
 # game/logic/events/gordon.rpy:366
 translate brazilian Willow_1_label_fb80f5f4:
 
     # Gordon "In any case, you couldn't do any worse. Go for it."
-    Gordon ""
+    Gordon "De qualquer forma, você não poderia fazer nada pior. Vá em frente."
 
 # game/logic/events/gordon.rpy:371
 translate brazilian Willow_1_label_48f490f0:
@@ -1606,227 +1606,227 @@ translate brazilian Willow_1_label_48f490f0:
 translate brazilian Willow_1_label_81f12dc1:
 
     # ch_Name "You look frustrated, what's the matter?"
-    ch_Name ""
+    ch_Name "Você parece frustrada, qual é o problema?"
 
 # game/logic/events/gordon.rpy:375
 translate brazilian Willow_1_label_0e028c06:
 
     # Willow "Well, things could be better. It's not that bad, but..."
-    Willow ""
+    Willow "Bem, as coisas poderiam ser melhores. Não é tão ruim assim, mas..."
 
 # game/logic/events/gordon.rpy:376
 translate brazilian Willow_1_label_c7f7b334:
 
     # ch_Name "Share it with me, baby. You can tell me just anything!"
-    ch_Name ""
+    ch_Name "Compartilhe comigo, baby. Você pode me contar qualquer coisa!"
 
 # game/logic/events/gordon.rpy:377
 translate brazilian Willow_1_label_6b50b5a7:
 
     # Willow "The article will be up tomorrow... on the front page of our local newspaper..."
-    Willow ""
+    Willow "O artigo será publicado amanhã... na primeira página do nosso jornal local..."
 
 # game/logic/events/gordon.rpy:380
 translate brazilian Willow_1_label_9aa9e39f:
 
     # Willow "Yes, about the Chompski Shop."
-    Willow ""
+    Willow "Sim, sobre a Loja Chompski."
 
 # game/logic/events/gordon.rpy:381
 translate brazilian Willow_1_label_582fdc56:
 
     # Willow "We agreed to release it about two months ago and only now they are actually going to do it."
-    Willow ""
+    Willow "Nós concordamos em lançá-lo cerca de dois meses atrás e só agora eles vão realmente fazer isso."
 
 # game/logic/events/gordon.rpy:382
 translate brazilian Willow_1_label_5f28d540:
 
     # ch_Name "My congratulations! And what's the problem, then?"
-    ch_Name ""
+    ch_Name "Meus parabéns! E qual é o problema, então?"
 
 # game/logic/events/gordon.rpy:383
 translate brazilian Willow_1_label_b539aac0:
 
     # Willow "They want to put my photo there, but all the pictures that were taken... they're just horrible!"
-    Willow ""
+    Willow "Eles querem colocar minha foto lá, mas todas as fotos que foram tiradas... são simplesmente horríveis!"
 
 # game/logic/events/gordon.rpy:386
 translate brazilian Willow_1_label_9088fa50:
 
     # ch_Name "Yeah, that sucks... Have you tried talking to them?"
-    ch_Name ""
+    ch_Name "Sim, isso é uma merda... Você já tentou falar com eles?"
 
 # game/logic/events/gordon.rpy:389
 translate brazilian Willow_1_label_d5218044:
 
     # Willow "The chief-editor just shrugged her shoulders: \"We can do nothing, baby girl\". What a bitch!"
-    Willow ""
+    Willow "A editora-chefe apenas virou as costas e disse: \"Não podemos fazer nada, garotinha\". Que vadia!"
 
 # game/logic/events/gordon.rpy:391
 translate brazilian Willow_1_label_793e5f87:
 
     # ch_Name "Don't worry, there's still time. I'm sure we can come up with something."
-    ch_Name ""
+    ch_Name "Não se preocupe, ainda há tempo. Tenho certeza de que podemos inventar alguma coisa."
 
 # game/logic/events/gordon.rpy:393
 translate brazilian Willow_1_label_5624c095:
 
     # ch_Name "Hmm... Maybe I can take some photos of you, Willow?"
-    ch_Name ""
+    ch_Name "Hmm... Talvez eu possa tirar algumas fotos de você, Willow?"
 
 # game/logic/events/gordon.rpy:394
 translate brazilian Willow_1_label_d0129cf7:
 
     # ch_Name "And we will choose the best one together. What do you think?"
-    ch_Name ""
+    ch_Name "E vamos escolher as melhores juntos. O que você acha?"
 
 # game/logic/events/gordon.rpy:398
 translate brazilian Willow_1_label_22676f21:
 
     # Willow "I can't believe that's really happening!"
-    Willow ""
+    Willow "Eu não posso acreditar que isso está realmente acontecendo!"
 
 # game/logic/events/gordon.rpy:399
 translate brazilian Willow_1_label_08c0565f:
 
     # Willow "I would be so grateful to you, [Name]!"
-    Willow ""
+    Willow "Eu ficaria muito grata a você, [Name]!"
 
 # game/logic/events/gordon.rpy:401
 translate brazilian Willow_1_label_0aa2e74a:
 
     # ch_Name "Do you have a good camera?"
-    ch_Name ""
+    ch_Name "Você tem uma boa câmera?"
 
 # game/logic/events/gordon.rpy:402
 translate brazilian Willow_1_label_2b3ce958:
 
     # Willow "Daddy has a camera, he bought it for the fish pies photo-exhibition."
-    Willow ""
+    Willow "Papai tem uma câmera, ele comprou para a exposição de fotos de tortas de peixe."
 
 # game/logic/events/gordon.rpy:406
 translate brazilian Willow_1_label_202cb1e3:
 
     # Willow "Whoa!"
-    Willow ""
+    Willow "Uau!"
 
 # game/logic/events/gordon.rpy:414
 translate brazilian Willow_1_label_1a65d07c:
 
     # ch_Name "The breeze feels so wonderful... It's so nice outside!"
-    ch_Name ""
+    ch_Name "A brisa é tão maravilhosa... Está tão bom lá fora!"
 
 # game/logic/events/gordon.rpy:415
 translate brazilian Willow_1_label_74d87f45:
 
     # Willow "[Name]! Let's take some photos right in front of the shop."
-    Willow ""
+    Willow "[Name]! Vamos tirar algumas fotos bem na frente da loja."
 
 # game/logic/events/gordon.rpy:416
 translate brazilian Willow_1_label_62960e17:
 
     # ch_Name "Yep. Give me a second to set up the camera."
-    ch_Name ""
+    ch_Name "Sim. Dê-me um segundo para configurar a câmera."
 
 # game/logic/events/gordon.rpy:418
 translate brazilian Willow_1_label_94c85620:
 
     # Willow "So... How should I pose?"
-    Willow ""
+    Willow "Então... Qual pose eu deveria fazer?"
 
 # game/logic/events/gordon.rpy:420
 translate brazilian Willow_1_label_faaa4a4e:
 
     # ch_Name "What happened to your face, honey?"
-    ch_Name ""
+    ch_Name "O que aconteceu com seu rosto, querida?"
 
 # game/logic/events/gordon.rpy:424
 translate brazilian Willow_1_label_ca4ac583:
 
     # ch_Name "All that you need is to lift your head up and smile. Just relax, okay?"
-    ch_Name ""
+    ch_Name "Tudo o que você precisa é levantar a cabeça e sorrir. Apenas relaxe, ok?"
 
 # game/logic/events/gordon.rpy:425
 translate brazilian Willow_1_label_a30018d2:
 
     # ch_Name "You look adorable, sweetie."
-    ch_Name ""
+    ch_Name "Você está adorável, querida."
 
 # game/logic/events/gordon.rpy:429
 translate brazilian Willow_1_label_5e6102e0:
 
     # ch_Name "That's what we need!"
-    ch_Name ""
+    ch_Name "É disso que precisamos!"
 
 # game/logic/events/gordon.rpy:433
 translate brazilian Willow_1_label_7451a21d:
 
     # ch_Name "Just look at me and smile." with flash
-    ch_Name "" with flash
+    ch_Name "Apenas olhe para mim e sorria." with flash
 
 # game/logic/events/gordon.rpy:435
 translate brazilian Willow_1_label_38772a2f:
 
     # ch_Name "Yeah, exactly!"
-    ch_Name ""
+    ch_Name "Sim, exatamente!"
 
 # game/logic/events/gordon.rpy:444
 translate brazilian Willow_1_label_fca54c10:
 
     # ch_Name "These photos are amazing."
-    ch_Name ""
+    ch_Name "Essas fotos estão incríveis."
 
 # game/logic/events/gordon.rpy:446
 translate brazilian Willow_1_label_3094acb1:
 
     # ch_Name "Only look at this one!"
-    ch_Name ""
+    ch_Name "Olhe apenas para essa!"
 
 # game/logic/events/gordon.rpy:447
 translate brazilian Willow_1_label_0d1543bc:
 
     # Willow "Wow! Who is this pretty girl?"
-    Willow ""
+    Willow "Uau! Quem é essa garota bonita?"
 
 # game/logic/events/gordon.rpy:448
 translate brazilian Willow_1_label_103f9115:
 
     # Willow "Is it even me? That can't be true!"
-    Willow ""
+    Willow "Sou eu? Isso não pode ser verdade!"
 
 # game/logic/events/gordon.rpy:452
 translate brazilian Willow_1_label_6a51f4ea:
 
     # Willow "Thanks, [Name]! I'm so grateful to you!"
-    Willow ""
+    Willow "Obrigada, [Name]! Sou muito grata a você!"
 
 # game/logic/events/gordon.rpy:453
 translate brazilian Willow_1_label_5cf46851:
 
     # Willow "I don't know what I would have done without you."
-    Willow ""
+    Willow "Eu não sei o que eu teria feito sem você."
 
 # game/logic/events/gordon.rpy:455
 translate brazilian Willow_1_label_a891a2ad:
 
     # ch_Name "Oh, Willow, it's nothing."
-    ch_Name ""
+    ch_Name "Oh, Willow, não é nada."
 
 # game/logic/events/gordon.rpy:458
 translate brazilian Willow_1_label_67572129:
 
     # Willow "I only hope that you will visit us more often."
-    Willow ""
+    Willow "Eu só espero que você nos visite mais vezes."
 
 # game/logic/events/gordon.rpy:460
 translate brazilian Willow_1_label_beafbab3:
 
     # ch_Name "I'll remember it, he-he."
-    ch_Name ""
+    ch_Name "Vou ver, he-he."
 
 translate brazilian strings:
 
     # game/logic/events/gordon.rpy:12
     old "5 Ask for ingredients"
-    new ""
+    new "5 Peça ingredientes"
 
