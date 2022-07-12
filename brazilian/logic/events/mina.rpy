@@ -366,461 +366,461 @@ translate brazilian strings:
 translate brazilian Mina_2_label_8a798297:
 
     # ch_Name "Mina, I have to request another room."
-    ch_Name ""
+    ch_Name "Mina, preciso solicitar outro quarto."
 
 # game/logic/events/mina.rpy:161
 translate brazilian Mina_2_label_3b496535:
 
     # Mina "Oh. Did something happen to your room?"
-    Mina ""
+    Mina "Ah. Aconteceu alguma coisa no seu quarto?"
 
 # game/logic/events/mina.rpy:162
 translate brazilian Mina_2_label_adad4cdb:
 
     # ch_Name "No, but it's just terrible conditions. It's impossible to live in."
-    ch_Name ""
+    ch_Name "Não, mas são apenas condições terríveis. É impossível viver nelas."
 
 # game/logic/events/mina.rpy:163
 translate brazilian Mina_2_label_ebbb7d46:
 
     # Mina "Is it really that bad?"
-    Mina ""
+    Mina "É realmente tão ruim assim?"
 
 # game/logic/events/mina.rpy:165
 translate brazilian Mina_2_label_d683af63:
 
     # Mina "Come on, show me what you don't like."
-    Mina ""
+    Mina "Vamos, me mostre o que você não gosta."
 
 # game/logic/events/mina.rpy:166
 translate brazilian Mina_2_label_529602bf:
 
     # Mina "And I'll try to fix it somehow."
-    Mina ""
+    Mina "E vou tentar consertar de alguma forma."
 
 # game/logic/events/mina.rpy:167
 translate brazilian Mina_2_label_f364a988:
 
     # ch_Name "Like giving me the keys to the room?"
-    ch_Name ""
+    ch_Name "Teria como me dar as chaves do quarto?"
 
 # game/logic/events/mina.rpy:169
 translate brazilian Mina_2_label_0502c370:
 
     # Mina "We'll see."
-    Mina ""
+    Mina "Vamos ver."
 
 # game/logic/events/mina.rpy:170
 translate brazilian Mina_2_label_d4f81725:
 
     # Mina "First, let's figure out what's wrong with this room."
-    Mina ""
+    Mina "Primeiro, vamos descobrir o que há de errado com este quarto."
 
 # game/logic/events/mina.rpy:171
 translate brazilian Mina_2_label_4191da08:
 
     # ch_Name "I don't even know where to start..."
-    ch_Name ""
+    ch_Name "Nem sei por onde começar..."
 
 # game/logic/events/mina.rpy:172
 translate brazilian Mina_2_label_f362fb10:
 
     # Mina "We'll discuss it there, on the merits."
-    Mina ""
+    Mina "Vamos discutir isso lá, no mérito."
 
 # game/logic/events/mina.rpy:174
 translate brazilian Mina_2_label_e544ec4a:
 
     # ch_Name "{i}(If she thinks she can change my mind...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Se ela acha que pode me fazer mudar de ideia...){/i}"
 
 # game/logic/events/mina.rpy:175
 translate brazilian Mina_2_label_741bcc71:
 
     # ch_Name "{i}(She's dead wrong.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ela está completamente errada.){/i}"
 
 # game/logic/events/mina.rpy:176
 translate brazilian Mina_2_label_6191505a:
 
     # ch_Name "{i}(Hmm, I hadn't noticed before how pretty Mina's figure is.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm, eu não tinha notado antes como a Mina é bonita.){/i}"
 
 # game/logic/events/mina.rpy:178
 translate brazilian Mina_2_label_074132ca:
 
     # ch_Name "{i}(I wonder if she has a boyfriend.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eu me pergunto se ela tem namorado.){/i}"
 
 # game/logic/events/mina.rpy:179
 translate brazilian Mina_2_label_7a1586dd:
 
     # ch_Name "{i}(Maybe I should ask her out for coffee at Ahchi's sometimes.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Talvez eu devesse convidá-la para tomar um café no Ahchi's às vezes.){/i}"
 
 # game/logic/events/mina.rpy:180
 translate brazilian Mina_2_label_3f4b1010:
 
     # ch_Name "{i}(If she's not too offended by my request.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Se ela não estiver muito ofendida com minha solicitação.){/i}"
 
 # game/logic/events/mina.rpy:187
 translate brazilian Mina_2_label_773fbd81:
 
     # Mina "Well, here we are. At first glance, everything seems fine."
-    Mina ""
+    Mina "Bem, aqui estamos. À primeira vista, tudo parece bem."
 
 # game/logic/events/mina.rpy:188
 translate brazilian Mina_2_label_a52c7425:
 
     # Mina "Can you give me an example of precisely what you don't like about this place?"
-    Mina ""
+    Mina "Você pode me dar um exemplo do que exatamente você não gosta neste lugar?"
 
 # game/logic/events/mina.rpy:189
 translate brazilian Mina_2_label_51c29650:
 
     # ch_Name "Oh, where to start..."
-    ch_Name ""
+    ch_Name "Ah, por onde começar..."
 
 # game/logic/events/mina.rpy:191
 translate brazilian Mina_2_label_37d6624d:
 
     # ch_Name "The couch seats are so squished that the springs are digging into my butt."
-    ch_Name ""
+    ch_Name "Os assentos do sofá estão tão amassados que as molas estão cavando na minha bunda."
 
 # game/logic/events/mina.rpy:192
 translate brazilian Mina_2_label_b446d014:
 
     # ch_Name "And the coffee table is wobbly."
-    ch_Name ""
+    ch_Name "E a mesa de centro está bamba."
 
 # game/logic/events/mina.rpy:193
 translate brazilian Mina_2_label_eb97b92b:
 
     # Mina "I think it would be easier for me to replace the sofa cushions, we have spare ones."
-    Mina ""
+    Mina "Acho que seria mais fácil eu trocar as almofadas do sofá, temos sobressalentes."
 
 # game/logic/events/mina.rpy:194
 translate brazilian Mina_2_label_f1ea684b:
 
     # Mina "And you could put a little book under the table."
-    Mina ""
+    Mina "E você poderia colocar um livrinho debaixo da mesa."
 
 # game/logic/events/mina.rpy:196
 translate brazilian Mina_2_label_0fc94b84:
 
     # ch_Name "Oh, the hell with it, all right. But the desk, it's horrible..."
-    ch_Name ""
+    ch_Name "Ah, que se dane, tudo bem. Mas a mesa, é horrível..."
 
 # game/logic/events/mina.rpy:197
 translate brazilian Mina_2_label_341c2f52:
 
     # ch_Name "I could have sworn I could have rubbed a splinter on it!"
-    ch_Name ""
+    ch_Name "Eu poderia jurar que poderia ter esfregado uma lasca nele!"
 
 # game/logic/events/mina.rpy:198
 translate brazilian Mina_2_label_7c4f1349:
 
     # Mina "I guess, but why would you rub it? That's not what it's for."
-    Mina ""
+    Mina "Eu acho, mas por que você esfregaria isso? Não é para isso que serve."
 
 # game/logic/events/mina.rpy:199
 translate brazilian Mina_2_label_82b4bd05:
 
     # Mina "This table's an antique."
-    Mina ""
+    Mina "Esta mesa é uma antiguidade."
 
 # game/logic/events/mina.rpy:200
 translate brazilian Mina_2_label_b50fa2ed:
 
     # Mina "Miss Lapis used to write her cheat sheets on it when she was a student."
-    Mina ""
+    Mina "Senhorita Lapis costumava escrever suas folhas de cola nele quando era estudante."
 
 # game/logic/events/mina.rpy:201
 translate brazilian Mina_2_label_ebd9c261:
 
     # ch_Name "Victoria stayed here when she was a student? I didn't know."
-    ch_Name ""
+    ch_Name "Victoria ficou aqui quando era estudante? Eu não sabia."
 
 # game/logic/events/mina.rpy:202
 translate brazilian Mina_2_label_ae69b697:
 
     # ch_Name "Well, okay, you can live with the desk, but..."
-    ch_Name ""
+    ch_Name "Bem, tudo bem, você pode viver com a mesa, mas..."
 
 # game/logic/events/mina.rpy:204
 translate brazilian Mina_2_label_1a0c424d:
 
     # ch_Name "Bathroom and toilet."
-    ch_Name ""
+    ch_Name "E sobre o banheiro?"
 
 # game/logic/events/mina.rpy:205
 translate brazilian Mina_2_label_1357483e:
 
     # ch_Name "Look at them. There's mold..."
-    ch_Name ""
+    ch_Name "Olhe. Tem mofo..."
 
 # game/logic/events/mina.rpy:206
 translate brazilian Mina_2_label_af0f8c3f:
 
     # ch_Name "And leaking faucets."
-    ch_Name ""
+    ch_Name "E torneiras vazando."
 
 # game/logic/events/mina.rpy:207
 translate brazilian Mina_2_label_2d01a68c:
 
     # Mina "You name it, it's moldy. The paint just peeled off."
-    Mina ""
+    Mina "Está mofado. A pintura acabou de descascar."
 
 # game/logic/events/mina.rpy:208
 translate brazilian Mina_2_label_c28abce7:
 
     # Mina "I'll send a plumber to tighten the taps and the problem will be solved."
-    Mina ""
+    Mina "Vou mandar um encanador para apertar as torneiras e o problema será resolvido."
 
 # game/logic/events/mina.rpy:209
 translate brazilian Mina_2_label_ec2a539f:
 
     # ch_Name "You haven't heard the main problem yet. Let's go."
-    ch_Name ""
+    ch_Name "Você ainda não ouviu o problema principal. Vamos lá."
 
 # game/logic/events/mina.rpy:216
 translate brazilian Mina_2_label_c9ca56d9:
 
     # ch_Name "This mattress is terrible. It's stiff and saggy."
-    ch_Name ""
+    ch_Name "Este colchão é terrível. É duro e flácido."
 
 # game/logic/events/mina.rpy:217
 translate brazilian Mina_2_label_7ac6e8cb:
 
     # ch_Name "You can't sleep in here!"
-    ch_Name ""
+    ch_Name "Não se consegue dormir aqui!"
 
 # game/logic/events/mina.rpy:219
 translate brazilian Mina_2_label_17d1efd4:
 
     # Mina "It's strange, there was a girl who stayed here before you."
-    Mina ""
+    Mina "É estranho, havia uma menina que ficou aqui antes de você."
 
 # game/logic/events/mina.rpy:220
 translate brazilian Mina_2_label_e290d893:
 
     # Mina "She looked as fragile and delicate as a spike."
-    Mina ""
+    Mina "Ela parecia tão frágil e delicada quanto um prego."
 
 # game/logic/events/mina.rpy:221
 translate brazilian Mina_2_label_03221492:
 
     # ch_Name "So?"
-    ch_Name ""
+    ch_Name "E..?"
 
 # game/logic/events/mina.rpy:223
 translate brazilian Mina_2_label_6371340e:
 
     # Mina "Neither she nor I thought the mattress was hard."
-    Mina ""
+    Mina "Nem eu nem ela achamos o colchão duro."
 
 # game/logic/events/mina.rpy:224
 translate brazilian Mina_2_label_a1bdcaad:
 
     # ch_Name "{i}(By \"Neither she nor I\" she means...){/i}"
-    ch_Name ""
+    ch_Name "{i}(O que \"Nem ela nem eu\" ela quer dizer...){/i}"
 
 # game/logic/events/mina.rpy:225
 translate brazilian Mina_2_label_7893df0d:
 
     # ch_Name "{i}(That they were lying here together? What the... Maybe I got it wrong?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Elas estavam deitadas aqui juntas? O que... Talvez eu tenha entendido errado?){/i}"
 
 # game/logic/events/mina.rpy:227
 translate brazilian Mina_2_label_0d67e0cd:
 
     # ch_Name "{i}(I can't outright ask if they fucked on.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não posso perguntar se elas transaram.){/i}"
 
 # game/logic/events/mina.rpy:228
 translate brazilian Mina_2_label_a32fcb1b:
 
     # ch_Name "Maybe not for a girl, but I think the bed is too flimsy."
-    ch_Name ""
+    ch_Name "Talvez não para uma garota, mas acho que a cama é muito frágil."
 
 # game/logic/events/mina.rpy:229
 translate brazilian Mina_2_label_0e7c36c9:
 
     # ch_Name "I'm not sure it can handle any kind of activity."
-    ch_Name ""
+    ch_Name "Não tenho certeza se ela pode lidar com qualquer tipo de atividade."
 
 # game/logic/events/mina.rpy:231
 translate brazilian Mina_2_label_94746600:
 
     # Mina "Activity?"
-    Mina ""
+    Mina "Atividade?"
 
 # game/logic/events/mina.rpy:232
 translate brazilian Mina_2_label_18181f96:
 
     # Mina "Could you be more specific? What kind of activities do you mean?"
-    Mina ""
+    Mina "Você poderia ser mais específico? Que tipo de atividades você quer dizer?"
 
 # game/logic/events/mina.rpy:234
 translate brazilian Mina_2_label_743604b7:
 
     # ch_Name "Oh, well..."
-    ch_Name ""
+    ch_Name "Ah, bem..."
 
 # game/logic/events/mina.rpy:235
 translate brazilian Mina_2_label_4259d756:
 
     # ch_Name "All kinds."
-    ch_Name ""
+    ch_Name "Todos os tipos."
 
 # game/logic/events/mina.rpy:237
 translate brazilian Mina_2_label_550a4da2:
 
     # ch_Name "{i}(Whoa! What is she doing? Why is she leaning so close?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Uau! O que ela está fazendo? Por que ela está tão perto?){/i}"
 
 # game/logic/events/mina.rpy:238
 translate brazilian Mina_2_label_3e273ffb:
 
     # Mina "I can assure you that this bed is much sturdier than it looks."
-    Mina ""
+    Mina "Posso garantir que esta cama é muito mais resistente do que parece."
 
 # game/logic/events/mina.rpy:239
 translate brazilian Mina_2_label_7985b9d6:
 
     # Mina "I can't change your room without documenting your dissatisfaction with this one."
-    Mina ""
+    Mina "Não posso te mudar de quarto sem documentar sua insatisfação com este."
 
 # game/logic/events/mina.rpy:240
 translate brazilian Mina_2_label_7a2bc9c7:
 
     # Mina "And if my boss finds out clients aren't happy, I won't get a promotion."
-    Mina ""
+    Mina "E se meu chefe descobrir que os clientes não estão satisfeitos, não vou conseguir uma promoção."
 
 # game/logic/events/mina.rpy:241
 translate brazilian Mina_2_label_6741be37:
 
     # ch_Name "{i}(So that's why she's defending this room so fiercely... Oh, my...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Então é por isso que ela está defendendo esta quarto tão ferozmente... Oh, que coisa...){/i}"
 
 # game/logic/events/mina.rpy:242
 translate brazilian Mina_2_label_0ea6b5ba:
 
     # ch_Name "I get it, but what about my comfort?"
-    ch_Name ""
+    ch_Name "Entendo, mas e o meu conforto?"
 
 # game/logic/events/mina.rpy:244
 translate brazilian Mina_2_label_96bf4ebd:
 
     # Mina "I was just getting to that part."
-    Mina ""
+    Mina "Eu estava chegando nessa parte."
 
 # game/logic/events/mina.rpy:245
 translate brazilian Mina_2_label_2b785166:
 
     # Mina "Let me prove to my boss that I'm a good hostess."
-    Mina ""
+    Mina "Deixe-me provar ao meu chefe que sou uma boa anfitriã."
 
 # game/logic/events/mina.rpy:246
 translate brazilian Mina_2_label_24c3a1e1:
 
     # Mina "It's my duty as a good hostess to help you get happy and comfortable."
-    Mina ""
+    Mina "É meu dever como boa anfitriã ajudá-lo a ficar feliz e confortável."
 
 # game/logic/events/mina.rpy:247
 translate brazilian Mina_2_label_3a5d5f46:
 
     # Mina "In particular, if we ignore the other inconveniences of the room."
-    Mina ""
+    Mina "Em particular, se ignorarmos os outros inconvenientes da sala."
 
 # game/logic/events/mina.rpy:248
 translate brazilian Mina_2_label_376b16dc:
 
     # Mina "And let's not go back to the question of changing rooms."
-    Mina ""
+    Mina "E não voltemos à questão dos vestiários."
 
 # game/logic/events/mina.rpy:249
 translate brazilian Mina_2_label_3d634061:
 
     # ch_Name "Oh, well... That's a tempting offer. I'll have to think about it."
-    ch_Name ""
+    ch_Name "Ah, bem... Essa é uma oferta tentadora. Vou ter que pensar sobre isso."
 
 # game/logic/events/mina.rpy:251
 translate brazilian Mina_2_label_e2092451:
 
     # Mina "Good! Let me know when you make up your mind."
-    Mina ""
+    Mina "Legal! Me avise quando decidir."
 
 # game/logic/events/mina.rpy:252
 translate brazilian Mina_2_label_82a402c0:
 
     # Mina "Until then, enjoy your stay at the Daly-ly Apartments!"
-    Mina ""
+    Mina "Até lá, aproveite sua estadia no Daly-ly Apartments!"
 
 # game/logic/events/mina.rpy:253
 translate brazilian Mina_2_label_83040533:
 
     # Mina "I'll be at the front desk if you need anything."
-    Mina ""
+    Mina "Estarei na recepção se precisar de alguma coisa."
 
 # game/logic/events/mina.rpy:254
 translate brazilian Mina_2_label_c56c66f8:
 
     # ch_Name "Okay. Thank you."
-    ch_Name ""
+    ch_Name "Ok. Obrigado."
 
 # game/logic/events/mina.rpy:256
 translate brazilian Mina_2_label_331373d2:
 
     # ch_Name "{i}(What the hell...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Que diabos...){/i}"
 
 # game/logic/events/mina.rpy:257
 translate brazilian Mina_2_label_96cc7614:
 
     # ch_Name "{i}(Was it just me, or did she just hint at sex?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Foi só eu, ou ela só deu dicas de sexo?){/i}"
 
 # game/logic/events/mina.rpy:258
 translate brazilian Mina_2_label_803e9d75:
 
     # ch_Name "{i}(Seems like this room may work fine for me after all.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Parece que esse quarto pode funcionar bem para mim, afinal.){/i}"
 
 # game/logic/events/mina.rpy:267
 translate brazilian Mina_2_label_b82520d8:
 
     # ch_Name "{i}(As good as it sounds - I can't spend all the weekend just lying here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Por melhor que pareça - não posso passar o fim de semana todo deitado aqui.){/i}"
 
 # game/logic/events/mina.rpy:268
 translate brazilian Mina_2_label_d50bf229:
 
     # ch_Name "{i}(First of all - I need to get ingredients for the ritual.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Primeiro de tudo - preciso pegar os ingredientes para o ritual.){/i}"
 
 # game/logic/events/mina.rpy:269
 translate brazilian Mina_2_label_43505be9:
 
     # ch_Name "{i}(After all, I've promised Haley that I would take care of it.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Afinal, prometi a Haley que cuidaria disso.){/i}"
 
 # game/logic/events/mina.rpy:270
 translate brazilian Mina_2_label_bec2a0ee:
 
     # ch_Name "{i}(Good thing I know one fairy who can get everything I need.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ainda bem que conheço uma fada que consegue tudo o que preciso.){/i}"
 
 # game/logic/events/mina.rpy:271
 translate brazilian Mina_2_label_82e923cd:
 
     # ch_Name "{i}(It's time to visit Gordon's shop.){/i}"
-    ch_Name ""
+    ch_Name "{i}(É hora de visitar a loja do Gordon.){/i}"
 
 translate brazilian strings:
 
     # game/logic/events/mina.rpy:130
     old "Request another room"
-    new ""
+    new "Solicitar outro quarto"
 
