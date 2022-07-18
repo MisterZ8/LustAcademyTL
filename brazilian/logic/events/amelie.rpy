@@ -2748,571 +2748,571 @@ translate brazilian strings:
 translate brazilian Amelie_3_label_01fb8671:
 
     # ch_Name "Amelie! How are you doing?"
-    ch_Name ""
+    ch_Name "Amelie! Como você está?"
 
 # game/logic/events/amelie.rpy:524
 translate brazilian Amelie_3_label_ced9f87a:
 
     # Amelie "It could be better. I'm a little bit sleep-deprived."
-    Amelie ""
+    Amelie "Poderia está melhor. Estou com um pouco sem sono."
 
 # game/logic/events/amelie.rpy:525
 translate brazilian Amelie_3_label_6dc332a9:
 
     # ch_Name "Well, it's hard to say. You're looking so fresh!"
-    ch_Name ""
+    ch_Name "Bem, é difícil dizer. Você está parecendo tão novo!"
 
 # game/logic/events/amelie.rpy:526
 translate brazilian Amelie_3_label_438c809a:
 
     # Amelie "Oh, thanks!"
-    Amelie ""
+    Amelie "Ah, obrigada!"
 
 # game/logic/events/amelie.rpy:527
 translate brazilian Amelie_3_label_1da5e150:
 
     # Amelie "It's really nice to see you. You barely come here to the library lately."
-    Amelie ""
+    Amelie "É muito bom ver você. Você mal vem aqui na biblioteca ultimamente."
 
 # game/logic/events/amelie.rpy:530
 translate brazilian Amelie_3_label_423d4627:
 
     # ch_Name "Um, kind of."
-    ch_Name ""
+    ch_Name "Hum, mais ou menos."
 
 # game/logic/events/amelie.rpy:531
 translate brazilian Amelie_3_label_6f105fce:
 
     # ch_Name "But that's not a reason to leave your fantastic world of books and magic. It's too appealing, he-he."
-    ch_Name ""
+    ch_Name "Mas isso não é motivo para deixar seu mundo fantástico de livros e magia. É muito atraente, he-he."
 
 # game/logic/events/amelie.rpy:532
 translate brazilian Amelie_3_label_134767ea:
 
     # Amelie "That makes me optimistic."
-    Amelie ""
+    Amelie "Isso me deixa otimista."
 
 # game/logic/events/amelie.rpy:534
 translate brazilian Amelie_3_label_c1897fc3:
 
     # Amelie "Actually, you missed a lot. It's been a difficult few days."
-    Amelie ""
+    Amelie "Na verdade, você perdeu muito. Tem sido alguns dias difíceis."
 
 # game/logic/events/amelie.rpy:536
 translate brazilian Amelie_3_label_a5b7fae7:
 
     # Amelie "The pixies lost their minds completely!"
-    Amelie ""
+    Amelie "Os duendes perderam a cabeça completamente!"
 
 # game/logic/events/amelie.rpy:540
 translate brazilian Amelie_3_label_b739e5ac:
 
     # Amelie "They've started to steal other things!"
-    Amelie ""
+    Amelie "Eles começaram a roubar outras coisas!"
 
 # game/logic/events/amelie.rpy:541
 translate brazilian Amelie_3_label_8ca27646:
 
     # Amelie "The last one was my purse."
-    Amelie ""
+    Amelie "A última foi minha bolsa."
 
 # game/logic/events/amelie.rpy:542
 translate brazilian Amelie_3_label_f225cb89:
 
     # Amelie "I still can't find it, can you imagine?"
-    Amelie ""
+    Amelie "Ainda não consigo encontrar, você pode imaginar?"
 
 # game/logic/events/amelie.rpy:543
 translate brazilian Amelie_3_label_d861727f:
 
     # ch_Name "Are you sure it was pixies?"
-    ch_Name ""
+    ch_Name "Tem certeza que eram duendes?"
 
 # game/logic/events/amelie.rpy:545
 translate brazilian Amelie_3_label_b293244a:
 
     # Amelie "Yes, pixies. Or elves... They live and work together in our Academy's forest."
-    Amelie ""
+    Amelie "Sim, duendes. Ou elfos... Eles vivem e trabalham juntos na floresta da nossa Academia."
 
 # game/logic/events/amelie.rpy:546
 translate brazilian Amelie_3_label_779980d7:
 
     # Amelie "They have kinda symbiotic relationship."
-    Amelie ""
+    Amelie "Eles têm uma relação meio simbiótica."
 
 # game/logic/events/amelie.rpy:547
 translate brazilian Amelie_3_label_75138360:
 
     # ch_Name "I think we should do something with the scoundrels."
-    ch_Name ""
+    ch_Name "Acho que devemos fazer alguma coisa com os canalhas."
 
 # game/logic/events/amelie.rpy:548
 translate brazilian Amelie_3_label_26c4294e:
 
     # ch_Name "But let's try to find the purse first. Where did you see it last time before it was stolen?"
-    ch_Name ""
+    ch_Name "Mas vamos tentar encontrar a bolsa primeiro. Onde você a viu da última vez antes de ser roubada?"
 
 # game/logic/events/amelie.rpy:551
 translate brazilian Amelie_3_label_c77d71c5:
 
     # ch_Name "Hmm, let me think."
-    ch_Name ""
+    ch_Name "Hmm, deixe-me pensar."
 
 # game/logic/events/amelie.rpy:553
 translate brazilian Amelie_3_label_31e3e888:
 
     # ch_Name "Shh! Do you hear that?"
-    ch_Name ""
+    ch_Name "Shh! Você ouviu isso?"
 
 # game/logic/events/amelie.rpy:555
 translate brazilian Amelie_3_label_8c0a1000:
 
     # Amelie "Hear what?"
-    Amelie ""
+    Amelie "Ouvir o quê?"
 
 # game/logic/events/amelie.rpy:563
 translate brazilian Amelie_3_label_1378f435:
 
     # ch_Name "{i}(And this booty!){/i}"
-    ch_Name ""
+    ch_Name "{i}(E essa bunda!){/i}"
 
 # game/logic/events/amelie.rpy:564
 translate brazilian Amelie_3_label_d9b05244:
 
     # ch_Name "{i}(Breathtaking!){/i}"
-    ch_Name ""
+    ch_Name "{i}(é de tirar o fôlego!){/i}"
 
 # game/logic/events/amelie.rpy:566
 translate brazilian Amelie_3_label_bd39e135:
 
     # ch_Name "No, I definitely heard something... It sounds like it's coming from right over here. "
-    ch_Name ""
+    ch_Name "Não, eu definitivamente ouvi algo... Parece que está vindo daqui."
 
 # game/logic/events/amelie.rpy:567
 translate brazilian Amelie_3_label_8598f65e:
 
     # Amelie "You seem to have good hearing, [Name]. "
-    Amelie ""
+    Amelie "Você parece ter uma boa audição, [Name]."
 
 # game/logic/events/amelie.rpy:568
 translate brazilian Amelie_3_label_b7fece4c:
 
     # ch_Name "I..."
-    ch_Name ""
+    ch_Name "Eu..."
 
 # game/logic/events/amelie.rpy:573
 translate brazilian Amelie_3_label_5fc7e775:
 
     # ch_Name "I hope you've heard that at least."
-    ch_Name ""
+    ch_Name "Espero que você tenha ouvido isso pelo menos."
 
 # game/logic/events/amelie.rpy:574
 translate brazilian Amelie_3_label_57792d40:
 
     # Amelie "Oh, my... Yes!"
-    Amelie ""
+    Amelie "Oh, meu... Sim!"
 
 # game/logic/events/amelie.rpy:575
 translate brazilian Amelie_3_label_e3757910:
 
     # ch_Name "We're on the right track."
-    ch_Name ""
+    ch_Name "Estamos no caminho certo."
 
 # game/logic/events/amelie.rpy:577
 translate brazilian Amelie_3_label_422f6650:
 
     # ch_Name "Something is going on behind these shelves."
-    ch_Name ""
+    ch_Name "Algo está acontecendo atrás dessas prateleiras."
 
 # game/logic/events/amelie.rpy:578
 translate brazilian Amelie_3_label_789c28fc:
 
     # ch_Name "By the way, are pixies dangerous for us?"
-    ch_Name ""
+    ch_Name "A propósito, os duendes são perigosos para nós?"
 
 # game/logic/events/amelie.rpy:579
 translate brazilian Amelie_3_label_6fba8bf4:
 
     # Amelie "It's hard to say."
-    Amelie ""
+    Amelie "É difícil dizer."
 
 # game/logic/events/amelie.rpy:580
 translate brazilian Amelie_3_label_6a10e97d:
 
     # Amelie "I want you to be ready for anything, just in case."
-    Amelie ""
+    Amelie "Eu quero que você esteja pronta para qualquer coisa, apenas no caso."
 
 # game/logic/events/amelie.rpy:582
 translate brazilian Amelie_3_label_5f0f0848:
 
     # Amelie "But I believe that we'll be okay."
-    Amelie ""
+    Amelie "Mas acredito que ficaremos bem."
 
 # game/logic/events/amelie.rpy:583
 translate brazilian Amelie_3_label_a1becfc5:
 
     # Amelie "Don't forget about the purse! We need to get it back."
-    Amelie ""
+    Amelie "Não se esqueça da bolsa! Precisamos recuperá-la."
 
 # game/logic/events/amelie.rpy:584
 translate brazilian Amelie_3_label_ad0fe220:
 
     # ch_Name "No-no, that's not the most important thing."
-    ch_Name ""
+    ch_Name "Não-não, isso não é o mais importante."
 
 # game/logic/events/amelie.rpy:585
 translate brazilian Amelie_3_label_74180c62:
 
     # ch_Name "We need to teach these thieves a lesson."
-    ch_Name ""
+    ch_Name "Precisamos dar uma lição a esses ladrões."
 
 # game/logic/events/amelie.rpy:587
 translate brazilian Amelie_3_label_8377723d:
 
     # ch_Name "They need a little lesson, don't they?"
-    ch_Name ""
+    ch_Name "Eles precisam de uma pequena lição, não é?"
 
 # game/logic/events/amelie.rpy:588
 translate brazilian Amelie_3_label_4264b5ea:
 
     # ch_Name "Full ahead, Amelie!"
-    ch_Name ""
+    ch_Name "Chega à frente, Amelie!"
 
 # game/logic/events/amelie.rpy:597
 translate brazilian Amelie_3_label_c8cfceed:
 
     # ch_Name "No, wait!"
-    ch_Name ""
+    ch_Name "Não, espere!"
 
 # game/logic/events/amelie.rpy:599
 translate brazilian Amelie_3_label_903ee691:
 
     # Amelie "It's time to stop, guys. We need to talk."
-    Amelie ""
+    Amelie "É hora de parar, pessoal. Precisamos conversar."
 
 # game/logic/events/amelie.rpy:600
 translate brazilian Amelie_3_label_6ec0a41e:
 
     # Amelie "Guys...?"
-    Amelie ""
+    Amelie "Gente...?"
 
 # game/logic/events/amelie.rpy:601
 translate brazilian Amelie_3_label_6d9d85aa:
 
     # ch_Name "No offense, but I think it's completely useless. They won't listen to you."
-    ch_Name ""
+    ch_Name "Sem ofensa, mas acho que é completamente inútil. Eles não vão te ouvir."
 
 # game/logic/events/amelie.rpy:606
 translate brazilian Amelie_3_label_6368547e:
 
     # ch_Name "Here's your purse, at least."
-    ch_Name ""
+    ch_Name "Aqui está sua bolsa, pelo menos."
 
 # game/logic/events/amelie.rpy:607
 translate brazilian Amelie_3_label_84f6c743:
 
     # ch_Name "Is something missing?"
-    ch_Name ""
+    ch_Name "Está faltando alguma coisa?"
 
 # game/logic/events/amelie.rpy:610
 translate brazilian Amelie_3_label_e36b0f2e:
 
     # ch_Name "{i}(I mean, it's...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Quero dizer, é...){/i}"
 
 # game/logic/events/amelie.rpy:624
 translate brazilian Amelie_3_label_ef5bc296:
 
     # ch_Name "It looks like a vibraror."
-    ch_Name ""
+    ch_Name "Parece um vibrador."
 
 # game/logic/events/amelie.rpy:633
 translate brazilian Amelie_3_label_4cdd06f7:
 
     # ch_Name "Wow, that's really cool!"
-    ch_Name ""
+    ch_Name "Uau, isso é muito legal!"
 
 # game/logic/events/amelie.rpy:634
 translate brazilian Amelie_3_label_52e17347:
 
     # ch_Name "You look like a woman who likes experiments."
-    ch_Name ""
+    ch_Name "Você parece uma mulher que gosta de experimentos."
 
 # game/logic/events/amelie.rpy:636
 translate brazilian Amelie_3_label_72a1eba5:
 
     # ch_Name "And here we do have proof."
-    ch_Name ""
+    ch_Name "E aqui temos provas."
 
 # game/logic/events/amelie.rpy:643
 translate brazilian Amelie_3_label_7ff9817e:
 
     # Amelie "Give it to me, please."
-    Amelie ""
+    Amelie "Dê para mim, por favor."
 
 # game/logic/events/amelie.rpy:644
 translate brazilian Amelie_3_label_c6810245:
 
     # ch_Name "Yes, sure."
-    ch_Name ""
+    ch_Name "Sim, claro."
 
 # game/logic/events/amelie.rpy:646
 translate brazilian Amelie_3_label_8af4e554:
 
     # ch_Name "Is there anything missing?"
-    ch_Name ""
+    ch_Name "Faltou alguma coisa?"
 
 # game/logic/events/amelie.rpy:647
 translate brazilian Amelie_3_label_84bb2fd4:
 
     # Amelie "I don't think so. Or..."
-    Amelie ""
+    Amelie "Acho que não. Ou..."
 
 # game/logic/events/amelie.rpy:650
 translate brazilian Amelie_3_label_0ddbee09:
 
     # Amelie "Oh, no! The potion?"
-    Amelie ""
+    Amelie "Oh, não! A poção?"
 
 # game/logic/events/amelie.rpy:655
 translate brazilian Amelie_3_label_802c4fe7:
 
     # Amelie "We practiced it with Miss Spellman... Just for fun."
-    Amelie ""
+    Amelie "Nós praticamos com a Srta. Spellman... Só por diversão."
 
 # game/logic/events/amelie.rpy:658
 translate brazilian Amelie_3_label_dcf36819:
 
     # Amelie "I'm telling you, it's not here. Pixies stole it!"
-    Amelie ""
+    Amelie "Estou te dizendo, não está aqui. Pixies roubaram!"
 
 # game/logic/events/amelie.rpy:659
 translate brazilian Amelie_3_label_45db865e:
 
     # Amelie "[Name], we have to get it back by all possible means!"
-    Amelie ""
+    Amelie "[Name], temos que recuperá-lo por todos os meios possíveis!"
 
 # game/logic/events/amelie.rpy:663
 translate brazilian Amelie_3_label_65897747:
 
     # Amelie "In the Elves lair. It's somewhere in the forest."
-    Amelie ""
+    Amelie "No covil dos Elfos. É em algum lugar da floresta."
 
 # game/logic/events/amelie.rpy:667
 translate brazilian Amelie_3_label_7b7ba9ca:
 
     # Amelie "There is a special spell, but I can't remember it, to tell the truth. "
-    Amelie ""
+    Amelie "Existe um feitiço especial, mas não consigo me lembrar, para falar a verdade."
 
 # game/logic/events/amelie.rpy:668
 translate brazilian Amelie_3_label_28589e2d:
 
     # Amelie "I need to check the books."
-    Amelie ""
+    Amelie "Eu preciso checar os livros."
 
 # game/logic/events/amelie.rpy:670
 translate brazilian Amelie_3_label_db995889:
 
     # ch_Name "Okay, let's keep in touch. "
-    ch_Name ""
+    ch_Name "Ok, vamos manter contato."
 
 # game/logic/events/amelie.rpy:672
 translate brazilian Amelie_3_label_ab8493c0:
 
     # Amelie "We don't have much time, actually. I should hurry."
-    Amelie ""
+    Amelie "Nós não temos muito tempo, na verdade. Eu deveria me apressar."
 
 # game/logic/events/amelie.rpy:673
 translate brazilian Amelie_3_label_1f580a49:
 
     # Amelie "Oh, my hands are shaking... I'm so nervous!"
-    Amelie ""
+    Amelie "Oh, minhas mãos estão tremendo... estou tão nervosa!"
 
 # game/logic/events/amelie.rpy:676
 translate brazilian Amelie_3_label_b92607ad:
 
     # ch_Name "Just text or call me if anything comes up."
-    ch_Name ""
+    ch_Name "Apenas envie uma mensagem ou me ligue se acontecer alguma coisa."
 
 # game/logic/events/amelie.rpy:705
 translate brazilian Amelie_4_label_8acdecdb:
 
     # ch_Name "{i}(Um. What time is it?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hum. Que horas são?){/i}"
 
 # game/logic/events/amelie.rpy:706
 translate brazilian Amelie_4_label_53509c19:
 
     # ch_Name "Good morning, Amelie. Has something happened?"
-    ch_Name ""
+    ch_Name "Bom dia, Amelie. Aconteceu alguma coisa?"
 
 # game/logic/events/amelie.rpy:709
 translate brazilian Amelie_4_label_51d3ac6c:
 
     # Amelie "And the faster we go there and get the potion is the better."
-    Amelie ""
+    Amelie "E quanto mais rápido formos lá e pegarmos a poção, melhor."
 
 # game/logic/events/amelie.rpy:710
 translate brazilian Amelie_4_label_d1dec250:
 
     # ch_Name "Yeah, you are right... 10 minutes, okay?"
-    ch_Name ""
+    ch_Name "Sim, você está certa... 10 minutos, ok?"
 
 # game/logic/events/amelie.rpy:722
 translate brazilian Amelie_4_label_025580a6:
 
     # Amelie "I'm so glad that you're here with me, [Name]!"
-    Amelie ""
+    Amelie "Estou tão feliz que você está aqui comigo, [Name]!"
 
 # game/logic/events/amelie.rpy:723
 translate brazilian Amelie_4_label_4083d767:
 
     # Amelie "Let's get on with it."
-    Amelie ""
+    Amelie "Vamos continuar com isso."
 
 # game/logic/events/amelie.rpy:727
 translate brazilian Amelie_4_label_f4d9e96b:
 
     # Amelie "Three drops of the Mesmerizing potion can drive a human insane for a short time."
-    Amelie ""
+    Amelie "Três gotas da poção Mesmerizing podem deixar um humano louco por um curto período de tempo."
 
 # game/logic/events/amelie.rpy:730
 translate brazilian Amelie_4_label_e80765e7:
 
     # Amelie "But since an average elf or pixie is much smaller than a human..."
-    Amelie ""
+    Amelie "Mas já que um duende ou elfo comum é muito menor que um humano..."
 
 # game/logic/events/amelie.rpy:731
 translate brazilian Amelie_4_label_1f5dd3ac:
 
     # Amelie "...even one drop can be lethal for them in the best of cases..."
-    Amelie ""
+    Amelie "...até mesmo uma gota pode ser letal para eles no melhor dos casos..."
 
 # game/logic/events/amelie.rpy:734
 translate brazilian Amelie_4_label_b940560d:
 
     # Amelie "In the worst case... I don't even want to picture that."
-    Amelie ""
+    Amelie "Na pior das hipóteses... eu nem quero imaginar isso."
 
 # game/logic/events/amelie.rpy:735
 translate brazilian Amelie_4_label_d2cae793:
 
     # ch_Name "Ugh... Let's hurry up!"
-    ch_Name ""
+    ch_Name "Ugh... Vamos nos apressar!"
 
 # game/logic/events/amelie.rpy:744
 translate brazilian Amelie_4_label_d85bd9ab:
 
     # ch_Name "Yep, with miss Spellman."
-    ch_Name ""
+    ch_Name "Sim, com a senhorita Spellman."
 
 # game/logic/events/amelie.rpy:751
 translate brazilian Amelie_4_label_41172288:
 
     # ch_Name "Сertainly, Amelie, don't worry about that."
-    ch_Name ""
+    ch_Name "Certamente, Amelie, não se preocupe com isso."
 
 # game/logic/events/amelie.rpy:754
 translate brazilian Amelie_4_label_be89e9fa:
 
     # Amelie "No-no, not really."
-    Amelie ""
+    Amelie "Não, não, não realmente."
 
 # game/logic/events/amelie.rpy:755
 translate brazilian Amelie_4_label_83a0e003:
 
     # Amelie "We are close."
-    Amelie ""
+    Amelie "Estamos perto."
 
 # game/logic/events/amelie.rpy:762
 translate brazilian Amelie_4_label_9ebe47fb:
 
     # Amelie "Well, it should be here."
-    Amelie ""
+    Amelie "Bem, deveria estar aqui."
 
 # game/logic/events/amelie.rpy:765
 translate brazilian Amelie_4_label_fb647291:
 
     # Amelie "Here we are.{w} Just great."
-    Amelie ""
+    Amelie "Aqui estamos.{w} Simplesmente ótimo."
 
 # game/logic/events/amelie.rpy:766
 translate brazilian Amelie_4_label_b18b47b4:
 
     # ch_Name "Wow! It works!"
-    ch_Name ""
+    ch_Name "Uau! Funciona!"
 
 # game/logic/events/amelie.rpy:771
 translate brazilian Amelie_4_label_06d43762:
 
     # Amelie "We only need to negotiate with the pixies. And it would be wise not to anger them..."
-    Amelie ""
+    Amelie "Nós só precisamos negociar com os duendes. E seria sábio não irritá-los..."
 
 # game/logic/events/amelie.rpy:772
 translate brazilian Amelie_4_label_212342cd:
 
     # Amelie "Let's hope for the best."
-    Amelie ""
+    Amelie "Vamos esperar o melhor."
 
 # game/logic/events/amelie.rpy:775
 translate brazilian Amelie_4_label_97a74cb9:
 
     # UnknownElf "You have no business here, magicians. This is our territory."
-    UnknownElf ""
+    UnknownElf "Vocês não têm negócios aqui, magos. Este é o nosso território."
 
 # game/logic/events/amelie.rpy:777
 translate brazilian Amelie_4_label_74612202:
 
     # UnknownElf "To speak about what?"
-    UnknownElf ""
+    UnknownElf "Gostariam de falar sobre o quê?"
 
 # game/logic/events/amelie.rpy:779
 translate brazilian Amelie_4_label_c6524743:
 
     # Amelie "Something was stolen from the Academy by pixies. "
-    Amelie ""
+    Amelie "Algo foi roubado da Academia por duendes."
 
 # game/logic/events/amelie.rpy:781
 translate brazilian Amelie_4_label_48d41008:
 
     # UnknownElf "Are you sure that those who stole it were pixies?"
-    UnknownElf ""
+    UnknownElf "Você tem certeza que aqueles que roubaram eram duendes?"
 
 # game/logic/events/amelie.rpy:783
 translate brazilian Amelie_4_label_e31c74d1:
 
     # ch_Name "We saw it with our own eyes!"
-    ch_Name ""
+    ch_Name "Nós vimos com nossos próprios olhos!"
 
 # game/logic/events/amelie.rpy:784
 translate brazilian Amelie_4_label_755289fc:
 
     # UnknownElf "Um... Wait here."
-    UnknownElf ""
+    UnknownElf "Um... Espere aqui."
 
 # game/logic/events/amelie.rpy:787
 translate brazilian Amelie_4_label_ab12b9e5:
 
     # UnknownElf3 "My name is Grang. What are you looking for, strangers?"
-    UnknownElf3 ""
+    UnknownElf3 "Meu nome é Grang. O que vocês estão procurando, estranhos?"
 
 # game/logic/events/amelie.rpy:789
 translate brazilian Amelie_4_label_8bb0e6d1:
 
     # Amelie "We just want to get it back."
-    Amelie ""
+    Amelie "Nós só queremos recuperá-lo."
 
 # game/logic/events/amelie.rpy:800
 translate brazilian Amelie_4_label_4c3fb4ad:
 
     # Grang "How much would you pay for that?"
-    Grang ""
+    Grang "Quanto você pagaria por isso?"
 
 # game/logic/events/amelie.rpy:809
 translate brazilian Amelie_4_label_6a9c3d85:
 
     # Grang "It's yours, then. You're free to do whatever you want with it!"
-    Grang ""
+    Grang "É seu, então. Você é livre para fazer o que quiser com ele!"
 
 # game/logic/events/amelie.rpy:812
 translate brazilian Amelie_4_label_5bd2fc10:
@@ -3324,25 +3324,25 @@ translate brazilian Amelie_4_label_5bd2fc10:
 translate brazilian Amelie_4_label_f30f3ebb:
 
     # Grang "RIGHT NOW!"
-    Grang ""
+    Grang "AGORA!"
 
 # game/logic/events/amelie.rpy:822
 translate brazilian Amelie_4_label_00dbb33b:
 
     # ch_Name "I said everything. One more time and you'll have to deal with the Principal."
-    ch_Name ""
+    ch_Name "Eu disse tudo. Mais uma vez e você terá que lidar com o Diretor."
 
 # game/logic/events/amelie.rpy:836
 translate brazilian Amelie_4_label_bbed08c0:
 
     # ch_Name "Yes, Amelie."
-    ch_Name ""
+    ch_Name "Sim, Amelie."
 
 # game/logic/events/amelie.rpy:837
 translate brazilian Amelie_4_label_a6c4f7b7:
 
     # ch_Name "You got some of the Mesmerizing potion on you."
-    ch_Name ""
+    ch_Name "Você tem um pouco da Poção Hipnotizante em você."
 
 # game/logic/events/amelie.rpy:843
 translate brazilian Amelie_4_label_cb7de0a5:
@@ -3354,25 +3354,25 @@ translate brazilian Amelie_4_label_cb7de0a5:
 translate brazilian Amelie_4_label_209d7342:
 
     # Amelie "Oh, what a pleasure!"
-    Amelie ""
+    Amelie "Oh, que prazer!"
 
 # game/logic/events/amelie.rpy:849
 translate brazilian Amelie_4_label_7cebe310:
 
     # Amelie "You can't even imagine how long I've been waiting for this moment!"
-    Amelie ""
+    Amelie "Você nem imagina quanto tempo eu esperei por esse momento!"
 
 # game/logic/events/amelie.rpy:860
 translate brazilian Amelie_4_label_38076951:
 
     # ch_Name "No-no-no, Amelie."
-    ch_Name ""
+    ch_Name "Não-não-não, Amelie."
 
 # game/logic/events/amelie.rpy:861
 translate brazilian Amelie_4_label_1b9b27cf:
 
     # ch_Name "It's not you, it's the potion!"
-    ch_Name ""
+    ch_Name "Não é você, é a poção!"
 
 # game/logic/events/amelie.rpy:868
 translate brazilian Amelie_4_label_15fb16d0:
@@ -3384,187 +3384,187 @@ translate brazilian Amelie_4_label_15fb16d0:
 translate brazilian Amelie_4_label_8afb020c:
 
     # ch_Name "You were under the influence of the Mesmerizing potion."
-    ch_Name ""
+    ch_Name "Você estava sob a influência da poção hipnotizante."
 
 # game/logic/events/amelie.rpy:893
 translate brazilian Amelie_4_label_61f8b8c0:
 
     # ch_Name "You need to rest, Amelie."
-    ch_Name ""
+    ch_Name "Você precisa descansar, Amelie."
 
 # game/logic/events/amelie.rpy:896
 translate brazilian Amelie_4_label_ff443696:
 
     # Amelie "Ohh, [Name], thank you! What would I do without you?"
-    Amelie ""
+    Amelie "Ohh, [Name], obrigada! O que eu faria sem você?"
 
 # game/logic/events/amelie.rpy:900
 translate brazilian Amelie_4_label_ed81b3d2:
 
     # ch_Name "It's nothing, Amelie."
-    ch_Name ""
+    ch_Name "Não é nada, Amelie."
 
 # game/logic/events/amelie.rpy:904
 translate brazilian Amelie_4_label_b5f6ce7b:
 
     # Amelie "Oh, I feel so weak in my head..."
-    Amelie ""
+    Amelie "Oh, eu me sinto tão fraca na minha cabeça..."
 
 # game/logic/events/amelie.rpy:905
 translate brazilian Amelie_4_label_fea10c57:
 
     # ch_Name "It's better to have some sleep."
-    ch_Name ""
+    ch_Name "É melhor dormir um pouco."
 
 # game/logic/events/amelie.rpy:907
 translate brazilian Amelie_4_label_2a73ce1e:
 
     # ch_Name "I'll come back later then, I promise."
-    ch_Name ""
+    ch_Name "Voltarei mais tarde, prometo."
 
 # game/logic/events/amelie.rpy:916
 translate brazilian Amelie_4_label_383ccd48:
 
     # ch_Name "{i}(This trip to the woods with Amelie was pretty exhausting.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Esta viagem para a floresta com Amelie foi bem cansativa.){/i}"
 
 # game/logic/events/amelie.rpy:950
 translate brazilian Amelie_5_label_dfb845c3:
 
     # ch_Name "{i}(Well, that was something...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Bem, isso foi algo...){/i}"
 
 # game/logic/events/amelie.rpy:951
 translate brazilian Amelie_5_label_6c92db65:
 
     # ch_Name "{i}(Not what I'm used to doing when I wake up, but, yeah.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Não é o que costumo fazer quando acordo, mas sim.){/i}"
 
 # game/logic/events/amelie.rpy:952
 translate brazilian Amelie_5_label_dc93f9c9:
 
     # ch_Name "{i}(At least I got to know that Audrey is not the only succubus in the world.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Pelo menos eu soube que Audrey não é a única succubus do mundo.){/i}"
 
 # game/logic/events/amelie.rpy:953
 translate brazilian Amelie_5_label_72538a36:
 
     # ch_Name "{i}(If whoever wrote that letter tells the truth.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Se quem escreveu essa carta disser a verdade.){/i}"
 
 # game/logic/events/amelie.rpy:955
 translate brazilian Amelie_5_label_67f06a36:
 
     # ch_Name "{i}(The good thing is that I have a lot of time before classes.){/i}"
-    ch_Name ""
+    ch_Name "{i}(O bom é que tenho muito tempo antes das aulas.){/i}"
 
 # game/logic/events/amelie.rpy:956
 translate brazilian Amelie_5_label_bc728477:
 
     # ch_Name "{i}(I can pay a visit to Amelie to ask how she is.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Posso visitar Amelie para perguntar como ela está.){/i}"
 
 # game/logic/events/amelie.rpy:957
 translate brazilian Amelie_5_label_930630d6:
 
     # ch_Name "{i}(It's been a while since that incident with elves.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Já faz um tempo desde aquele incidente com elfos.){/i}"
 
 # game/logic/events/amelie.rpy:964
 translate brazilian Amelie_5_label_6554fa42:
 
     # ch_Name "{i}(It's been a few weeks...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Já faz algumas semanas...){/i}"
 
 # game/logic/events/amelie.rpy:965
 translate brazilian Amelie_5_label_018085af:
 
     # ch_Name "{i}(I hope Amelie isn't mad I haven't shown up for so long.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Espero que Amelie não esteja brava por não ter aparecido por tanto tempo.){/i}"
 
 # game/logic/events/amelie.rpy:966
 translate brazilian Amelie_5_label_db353223:
 
     # ch_Name "{i}(But I had a lot on my plate recently, and that was just a Mesmerizing potion...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Mas eu tinha muita coisa no meu prato recentemente, e isso era apenas uma poção hipnotizante...){/i}"
 
 # game/logic/events/amelie.rpy:967
 translate brazilian Amelie_5_label_3a5021d4:
 
     # ch_Name "{i}(Am I overthinking this? I'm just another student to her.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Estou pensando demais nisso? Sou apenas mais um aluno para ela.){/i}"
 
 # game/logic/events/amelie.rpy:969
 translate brazilian Amelie_5_label_a808a800:
 
     # ch_Name "{i}(Anyway, it's no use guessing how she feels.){/i}"
-    ch_Name ""
+    ch_Name "{i}(De qualquer forma, não adianta adivinhar como ela se sente.){/i}"
 
 # game/logic/events/amelie.rpy:970
 translate brazilian Amelie_5_label_f7fd47ea:
 
     # ch_Name "{i}(I'll find it out in a second.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Vou descobrir em um segundo.){/i}"
 
 # game/logic/events/amelie.rpy:978
 translate brazilian Amelie_5_label_a2d0446b:
 
     # ch_Name "It's so nice to see you, Amelie!"
-    ch_Name ""
+    ch_Name "É tão bom ver você, Amelie!"
 
 # game/logic/events/amelie.rpy:979
 translate brazilian Amelie_5_label_c851a750:
 
     # ch_Name "How are you? Are you alright?"
-    ch_Name ""
+    ch_Name "Como você está? Você está bem?"
 
 # game/logic/events/amelie.rpy:981
 translate brazilian Amelie_5_label_d9e0c391:
 
     # Amelie "[Name]! Wait for a second, are you busy now?"
-    Amelie ""
+    Amelie "[Name]! Espere um segundo, você está ocupado agora?"
 
 # game/logic/events/amelie.rpy:982
 translate brazilian Amelie_5_label_f8aa82d4:
 
     # ch_Name "I always have time for you, miss."
-    ch_Name ""
+    ch_Name "Eu sempre tenho tempo para você, senhorita."
 
 # game/logic/events/amelie.rpy:983
 translate brazilian Amelie_5_label_70e3a094:
 
     # Amelie "I'm looking for someone who can help me with books."
-    Amelie ""
+    Amelie "Estou procurando alguém que possa me ajudar com livros."
 
 # game/logic/events/amelie.rpy:984
 translate brazilian Amelie_5_label_1ec15e71:
 
     # Amelie "I need to put them on the shelves in alphabetical order. Can you..."
-    Amelie ""
+    Amelie "Preciso colocá-los nas prateleiras em ordem alfabética. Você pode..."
 
 # game/logic/events/amelie.rpy:985
 translate brazilian Amelie_5_label_4586a92d:
 
     # ch_Name "Of course, I'd be happy to help. Let's do this together!"
-    ch_Name ""
+    ch_Name "Claro, ficarei feliz em ajudar. Vamos fazer isso juntos!"
 
 # game/logic/events/amelie.rpy:992
 translate brazilian Amelie_5_label_96b5e006:
 
     # ch_Name "Are you better, Amelie? "
-    ch_Name ""
+    ch_Name "Você está melhor, Amelie?"
 
 # game/logic/events/amelie.rpy:993
 translate brazilian Amelie_5_label_2e55558f:
 
     # ch_Name "It's just... Last time you didn't feel well."
-    ch_Name ""
+    ch_Name "É só que... Da última vez você não se sentiu bem."
 
 # game/logic/events/amelie.rpy:994
 translate brazilian Amelie_5_label_bb4909ba:
 
     # Amelie "Now it's almost great, thanks. "
-    Amelie ""
+    Amelie "Agora está quase ótimo, obrigado."
 
 # game/logic/events/amelie.rpy:996
 translate brazilian Amelie_5_label_b45fc78a:
