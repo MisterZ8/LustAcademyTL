@@ -2252,11 +2252,11 @@ translate brazilian strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I make my own luck"
-    new ""
+    new "eu faço minha própria sorte"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "\"Elegance must be the right combination of distinction, naturalness, care and simplicity. Outside this, believe me, there is no elegance. Only pretension.\""
-    new ""
+    new "\"Elegância deve ser a combinação certa de distinção, naturalidade, cuidado e simplicidade. Fora disso, acredite, não há elegância. Apenas pretensão.\""
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Christian Dior."
@@ -2264,7 +2264,7 @@ translate brazilian strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Vanessa:{/b} If you're a goddess, then I'm a demon."
-    new ""
+    new "{b}Vanessa:{/b} Se você é uma deusa, então eu sou um demônio."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Adele:{/b} He-he-he."
@@ -2272,27 +2272,27 @@ translate brazilian strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "You're too fucking gorgeous in this dress, I can't breathe..."
-    new ""
+    new "Você está linda demais nesse vestido, não consigo respirar..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Adele: I wonder what'd you say if I were without it...🙃"
-    new ""
+    new "Adele: eu me pergunto o que você diria se eu estivesse sem ele...🙃"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Will you be my muse?"
-    new ""
+    new "Você vai ser minha musa?"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Only look at these kitties! Which one would you choose?"
-    new ""
+    new "Olha só esses gatinhos! Qual você escolheria?"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "P.S. This kiddo comes here every day, I think we're friends now."
-    new ""
+    new "P.S. Esse garoto vem aqui todos os dias, acho que somos amigos agora."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Vanessa:{/b} Sorry, but I always wanted to get a cat, so..."
-    new ""
+    new "{b}Vanessa:{/b} Desculpe, mas eu sempre quis ter um gato, então..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Adele:{/b} 😢"
@@ -2300,87 +2300,87 @@ translate brazilian strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Some people believe that cats can feel good in people's hearts. If she came to you, then it says a lot."
-    new ""
+    new "Algumas pessoas acreditam que os gatos podem se sentir bem no coração das pessoas. Se ela veio até você, então isso diz muito."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I have nothing against cats, but you're too seductive for choosing a fluffy animal."
-    new ""
+    new "Não tenho nada contra gatos, mas você é muito sedutora para escolher um animal fofo."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I hope you'll get enough rest, miss Amelie. ❤️"
-    new ""
+    new "Espero que você descanse o suficiente, senhorita Amelie. ❤️"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Amelie: I'm not sure you'll keep me entertained long enough. 🙄 😛"
-    new ""
+    new "Amelie: não tenho certeza se você vai me manter entretido por tempo suficiente. 🙄 😛"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Amelie: Maybe... 😜"
-    new ""
+    new "Amelie: Talvez... 😜"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Looks like the perfect outfit for the role-playing game if you know what I mean."
-    new ""
+    new "Parece a roupa perfeita para o jogo de RPG, se você entende o que quero dizer."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "When I'm tired there is only one thing that motivates me - I always remember that the sky is the limit 💪"
-    new ""
+    new "Quando estou cansado só há uma coisa que me motiva - sempre lembro que o céu é o limite 💪"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Olivia:{/b} We are so proud of you, baby! ❤️ "
-    new ""
+    new "{b}Olivia:{/b} Estamos muito orgulhosos de você, baby! ❤️ "
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Samantha:{/b} Keep going, sis. You're great!"
-    new ""
+    new "{b}Samantha:{/b} Continue, mana. Você está ótima!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "You're an excellent example to be followed, Ash! I'm fascinated!"
-    new ""
+    new "Você é um excelente exemplo a ser seguido, Ash! Estou fascinado!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Ashley: It's refreshing to know that you think so, really."
-    new ""
+    new "Ashley: É refrescante saber que você pensa assim, realmente."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Gymnastics is so sexy!"
-    new ""
+    new "Ginástica é tão sexy!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "You have to teach me this exercise someday! I will try hard, I swear..."
-    new ""
+    new "Você tem que me ensinar esse exercício algum dia! Vou me esforçar, juro..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Ashley: Too dubious..."
-    new ""
+    new "Ashley: Muito duvidoso..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Jacob:{/b} One of the biggest mysteries in you is how you manage not to be expelled if you don't finish your term paper."
-    new ""
+    new "{b}Jacob:{/b} Um dos maiores mistérios em você é como você consegue não ser expulso se não terminar seu trabalho de conclusão de curso."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "One look at this picture fills me with harmony. Or, well, maybe those are some other feelings. 😈 "
-    new ""
+    new "Um olhar para esta foto me enche de harmonia. Ou, bem, talvez esses sejam alguns outros sentimentos. 😈 "
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "It's 10 p.m., Sam and I spontaneously decided to go to a costume party, and this is the only outfit that she found for me... "
-    new ""
+    new "São 22:00, Sam e eu decidimos espontaneamente ir a uma festa à fantasia, e esta é a única roupa que ela encontrou para mim..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Shit, I just want to get drunk tonight! 👿"
-    new ""
+    new "Merda, eu só quero ficar bêbado hoje à noite! 👿"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Lily:{/b} These wings together with your tattoos... Wow!"
-    new ""
+    new "{b}Lily:{/b} Essas asas junto com suas tatuagens... Uau!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Audrey:{/b} Thank you, sis."
-    new ""
+    new "{b}Audrey:{/b} Obrigado, mana."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Your life is such an adventure... I envy you sometimes, he-he."
-    new ""
+    new "Sua vida é uma aventura... Eu invejo você às vezes, he-he."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Audrey: 🙃"
@@ -2388,23 +2388,23 @@ translate brazilian strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "What's happened to your face? If I were you, I wouldn't show this photo to anyone..."
-    new ""
+    new "O que aconteceu com seu rosto? Se eu fosse você, não mostraria essa foto para ninguém..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Audrey: A little longer and I will block you."
-    new ""
+    new "Audrey: Mais um pouco e eu vou bloquear você."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Heads up, I hate my outfit and this party is fucking terrible."
-    new ""
+    new "Atenção, eu odeio minha roupa e essa festa é terrível pra caralho."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "@Samantha, you can never make me to dress like a damn white pigeon again!"
-    new ""
+    new "@Samantha, você nunca pode me fazer vestir como um maldito pombo branco novamente!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Samantha:{/b} Are you kidding me?! You look just great! If I only could wipe this sour look off your face..."
-    new ""
+    new "{b}Samantha:{/b} Você está brincando comigo?! Você está ótima! Se eu pudesse tirar esse olhar azedo do seu rosto..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Audrey:{/b} 😜"
@@ -2412,107 +2412,107 @@ translate brazilian strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Elijah:{/b} Whoa, what? You guys were all hanging out and you didn't even invite me?"
-    new ""
+    new "{b}Elijah:{/b} Uau, o quê? Vocês estavam todos juntos e nem me convidaram?"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Haley:{/b} There's something devilish about you but when you're dressed as an angel... It hits different."
-    new ""
+    new "{b}Haley:{/b} Há algo diabólico em você, mas quando você está vestido de anjo... é diferente."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "You're like a devilish angel... or maybe an angelic devil..."
-    new ""
+    new "Você é como um anjo diabólico... ou talvez um diabo angelical..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Even this angel's costume can't hide a devilish glint in your eyes."
-    new ""
+    new "Mesmo a fantasia deste anjo não pode esconder um brilho diabólico em seus olhos."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "At first I think it is angel's costume but you really look more like a pigeon..."
-    new ""
+    new "No começo eu acho que é fantasia de anjo, mas você realmente parece mais um pombo..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Audrey: Fuck off!"
-    new ""
+    new "Audrey: Foda-se!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Lily:{/b} True. You guys are cute. ❤️"
-    new ""
+    new "{b}Lily:{/b} Verdade. Vocês são fofos. ❤️"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "At first I was afraid I'd look bad, but next to you, I look handsome."
-    new ""
+    new "No começo eu estava com medo de ficar mal, mas perto de você, eu pareço bonito."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Haley: Thank's! Friend... 👀"
-    new ""
+    new "Haley: Obrigado! Amigo... 👀"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Haley: I haven't said anything about action. 🤭"
-    new ""
+    new "Haley: eu não disse nada sobre ação. 🤭"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "The main question is - how sturdy is your bed? "
-    new ""
+    new "A questão principal é - quão resistente é a sua cama?"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Haley: Why?',' Haley: Oh! I got it! Ew!!! "
-    new ""
+    new "Haley: Por quê?',' Haley: Ah! Entendi! Eca!!!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I never thought that marble will ever turn me on..."
-    new ""
+    new "Eu nunca pensei que o mármore iria me excitar..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I've never put out such photos in Lustagram, but I really like this one. Hope you don't mind... 😇 "
-    new ""
+    new "Nunca publiquei essas fotos no Lustagram, mas gosto muito dessa. Espero que não se importe... 😇 "
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Elijah:{/b} We hope to see more photos like that! You're a real beauty, Haley."
-    new ""
+    new "{b}Elijah:{/b} Esperamos ver mais fotos como essa! Você é uma verdadeira beleza, Haley."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Samantha:{/b} Hey, we're all for!"
-    new ""
+    new "{b}Samantha:{/b} Ei, somos todos a favor!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Lily:{/b} You're as delicate as little flower!"
-    new ""
+    new "{b}Lily:{/b} Você é delicada como uma florzinha!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "The only thing dividing our eyes and your beautiful body is the towel. Just the mere thought of that is a turn-on."
-    new ""
+    new "A única coisa que divide nossos olhos e seu lindo corpo é a toalha. Só o mero pensamento disso é excitante."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Haley: We'll talk about it later, in private."
-    new ""
+    new "Haley: Falaremos sobre isso mais tarde, em particular."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "So that's why your skin is so soft! I thought that's just so, without any lotion... The way I see the world will never be the same after that..."
-    new ""
+    new "Então é por isso que sua pele é tão macia! Achei que é assim mesmo, sem qualquer loção... A forma como vejo o mundo nunca mais será a mesma depois disso..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Haley: You're kidding, right?"
-    new ""
+    new "Haley: Você está brincando, certo?"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Thanks @Lily for doing this beautiful makeup! She's a great makeup artist, that's for sure."
-    new ""
+    new "Obrigado @Lily por fazer essa maquiagem linda! Ela é uma ótima maquiadora, com certeza."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I can hardly recognize myself in the mirror and it feels really strange. Do I look better?"
-    new ""
+    new "Eu mal consigo me reconhecer no espelho e isso é muito estranho. Eu pareço melhor?"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Naomi:{/b} Oh, my! I love you both - old sweety Haley and Haley - femme fatale! "
-    new ""
+    new "{b}Naomi:{/b} Oh, meu Deus! Eu amo vocês duas - velha doce Haley e Haley - femme fatale!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Haley:{/b} Thanks, sweetheart. ❤️ "
-    new ""
+    new "{b}Haley:{/b} Obrigado, querida. ❤️ "
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Elijah:{/b} With this makeup you look older, but you're still beautiful."
-    new ""
+    new "{b}Elijah:{/b} Com essa maquiagem você parece mais velha, mas continua linda."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Haley:{/b} 😊"
@@ -2520,7 +2520,7 @@ translate brazilian strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Haley, you're perfect no matter what! ❤️"
-    new ""
+    new "Haley, você é perfeita, não importa o quê! ❤️"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Haley: Oh! 🥰"
@@ -2528,39 +2528,39 @@ translate brazilian strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "That's great that you help Lily to develop as a makeup artist, but what do you think about helping me to improve my body painting skills? You can be my model."
-    new ""
+    new "Que bom que você ajuda a Lily a se desenvolver como maquiadora, mas o que você acha de me ajudar a melhorar minhas habilidades de pintura corporal? Você pode ser minha modelo."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Haley: I will think about it..."
-    new ""
+    new "Haley: vou pensar nisso..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Here you go. ❤️"
-    new ""
+    new "Aqui está. ❤️"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "There's a whole world of amazing possibilities, but here you are, asking for likes on Lustagram. 😢"
-    new ""
+    new "Existe um mundo inteiro de possibilidades incríveis, mas aqui está você, pedindo curtidas no Lustagram. 😢"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I've never celebrated Christmas with my friends and voila! Dreams do come true! "
-    new ""
+    new "Eu nunca celebrei o Natal com meus amigos e voilá! Sonhos se tornam realidade!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Best Christmas ever! ❤️ "
-    new ""
+    new "Melhor Natal de todos! ❤️"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Samantha:{/b} He-he-he, you lit up like a Christmas tree."
-    new ""
+    new "{b}Samantha:{/b} He-he-he, você se iluminou como uma árvore de Natal."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Elijah:{/b} I enjoyed it too, really. We had so much fun together! "
-    new ""
+    new "{b}Elijah:{/b} Eu também gostei muito. Nós nos divertimos muito juntos!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I pray this is not the only Christmas we celebrate together."
-    new ""
+    new "Rezo para que este não seja o único Natal que celebramos juntos."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Lily: Awwww!"
@@ -2568,39 +2568,39 @@ translate brazilian strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Time to dream big! There are so many things in the world we never get to learn, and you were dreaming about hanging out with your friends at Christmas?!"
-    new ""
+    new "Hora de sonhar grande! Há tantas coisas no mundo que nunca aprendemos, e você estava sonhando em sair com seus amigos no Natal?!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Lily: Yes, so what?"
-    new ""
+    new "Lily: Sim, e daí?"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "The season for hats, scarves and sweaters, finally. My favorite time of the year!"
-    new ""
+    new "A temporada de chapéus, cachecóis e suéteres, finalmente. Minha época favorita do ano!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Audrey:{/b} You're looking so cozy, I just want to hug you! 😺"
-    new ""
+    new "{b}Audrey:{/b} Você está tão aconchegante, eu só quero te abraçar! 😺"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Lily:{/b} I'd be happy to have a hug!"
-    new ""
+    new "{b}Lily:{/b} ficaria feliz em dar um abraço!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Haley:{/b} Winter is my favorite time of year too!"
-    new ""
+    new "{b}Haley:{/b} O inverno também é minha época favorita do ano!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "You are adorable in this winter hat!"
-    new ""
+    new "Você está adorável com este chapéu de inverno!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Lily: Thanks!"
-    new ""
+    new "Lily: Valeu!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Still, if you get cold, you can come to my room at any time and I will warm you in my arms..."
-    new ""
+    new "Ainda assim, se você sentir frio, você pode vir ao meu quarto a qualquer momento e eu vou aquecê-lo em meus braços..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Lily: 😇"
@@ -2608,11 +2608,11 @@ translate brazilian strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I decided to unwind and went to the beach. I'd forgotten how much fun it was! I need to remind myself more often that there is such pure and carefree fun in the world."
-    new ""
+    new "Decidi descontrair e fui para a praia. Tinha esquecido como era divertido! Preciso me lembrar com mais frequência que existe uma diversão tão pura e despreocupada no mundo."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Elijah:{/b} Wow, Molly!"
-    new ""
+    new "{b}Elijah:{/b} Uau, Molly!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Is that your picture next to \"charming\" in the dictionary?"
@@ -2620,71 +2620,71 @@ translate brazilian strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "You might be the primary reason for global warming, Molly. You're too hot!"
-    new ""
+    new "Essa é a sua foto ao lado de \"encantador\" no dicionário?"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I think God was high when he created you because there's no one else who comes so close to perfection..."
-    new ""
+    new "Você pode ser a principal razão para o aquecimento global, Molly. Você é muito quente!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "My first photo session and only look at this! Seems that I can be successful not only in business... "
-    new ""
+    new "Acho que Deus estava alto quando te criou porque não há mais ninguém que chegue tão perto da perfeição..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Does anybody here have contacts with modeling agencies?"
-    new ""
+    new "Minha primeira sessão de fotos e só olhe para isso! Parece que posso ter sucesso não só nos negócios..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Elijah:{/b} Wow! 💣"
-    new ""
+    new "{b}Elijah:{/b} Uau! 💣"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Audrey:{/b} It's breathtaking, Molly! You should think about modeling, at least as a hobby."
-    new ""
+    new "{b}Audrey:{/b} É de tirar o fôlego, Molly! Você deveria pensar em ser modelo, pelo menos como um hobby."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Haley:{/b} It's sad, but I don't have any contacts :("
-    new ""
+    new "{b}Haley:{/b} É triste, mas não tenho nenhum contato :("
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "You're the piece of art, Molly!"
-    new ""
+    new "Você é a obra de arte, Molly!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Molly: Um, thanks!"
-    new ""
+    new "Molly: Hum, obrigada!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Whoa, that's very sensual! Your body language is really something..."
-    new ""
+    new "Uau, isso é muito sensual! Sua linguagem corporal é realmente algo..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Three-time champion! "
-    new ""
+    new "Três vezes campeão!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "P.S. Sorry, @Elijah, but you have much to learn."
-    new ""
+    new "P.S. Desculpe, @Elijah, mas você tem muito a aprender."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Elijah:{/b} I'm dying for a rematch!"
-    new ""
+    new "{b}Elijah:{/b} Estou morrendo de vontade de fazer uma revanche!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Molly:{/b} We'll see..."
-    new ""
+    new "{b}Molly:{/b} Veremos..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I'd like to play chess with you sometime, what do you think?"
-    new ""
+    new "Eu gostaria de jogar xadrez com você algum dia, o que você acha?"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Molly: I'm all for!"
-    new ""
+    new "Molly: eu sou a favor!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I thought that you were only good at coffee..."
-    new ""
+    new "Achei que você só era boa em café..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Molly: Hey!"
@@ -2692,47 +2692,47 @@ translate brazilian strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I found this new cafe and didn't expect anything special, but wow! "
-    new ""
+    new "Encontrei este novo café e não esperava nada de especial, mas uau!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Here am I, drinking my best ginger tee!"
-    new ""
+    new "Aqui estou eu, bebendo minha melhor camiseta de gengibre!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Audrey:{/b} That's my favorite place, Ahchi can even call me a regular."
-    new ""
+    new "{b}Audrey:{/b} Esse é o meu lugar favorito, Ahchi pode até me chamar de regular."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Lily:{/b} Thanks for the tip! We can go there together, what do you think?"
-    new ""
+    new "{b}Lily:{/b} Obrigado pela dica! Podemos ir lá juntos, o que você acha?"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Naomi:{/b} Sure, baby! 😉"
-    new ""
+    new "{b}Naomi:{/b} Claro, baby! 😉"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I will be happy to join you and Lily, so you can DM next time you go there."
-    new ""
+    new "Eu ficarei feliz em me juntar a você e Lily, então você pode mandar uma DM na próxima vez que for lá."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Naomi: Sorry, this is supposed to be an all-girls party."
-    new ""
+    new "Naomi: Desculpe, isso é para ser uma festa só de garotas."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "How cute are you in this photo and how aggressive can you be in the real life..."
-    new ""
+    new "Quão fofo você é nesta foto e quão agressivo você pode ser na vida real..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Naomi: What's this about, [Name]?"
-    new ""
+    new "Naomi: O que é isso, [Name]?"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I need some time by myself to sort all things out. Just leave me alone, okay? "
-    new ""
+    new "Preciso de um tempo sozinho para resolver todas as coisas. Apenas me deixe em paz, ok?"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Samantha:{/b} But we're here for you, sweetie... if you need us. Just remember that."
-    new ""
+    new "{b}Samantha:{/b} Mas estamos aqui para você, querido... se você precisar de nós. Lembre-se disso."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Naomi:{/b}❤️ "
@@ -2740,87 +2740,87 @@ translate brazilian strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Elijah:{/b} Well, if you insist..."
-    new ""
+    new "{b}Elijah:{/b} Bem, se você insiste..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I would give anything to join you and take a nice hot bath together..."
-    new ""
+    new "Eu daria tudo para me juntar a você e tomar um bom banho quente juntos..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Naomi: Sounds not that bad."
-    new ""
+    new "Naomi: Não parece tão ruim."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "There is no need to take a bath and drink champagne if you want to figure everything out. Don't be too dramatic, Naomi."
-    new ""
+    new "Não há necessidade de tomar banho e beber champanhe se você quiser descobrir tudo. Não seja tão dramática, Naomi."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Naomi: You're intolerable!"
-    new ""
+    new "Naomi: Você é intolerável!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Olivia:{/b}  I WILL END YOU! 😡"
-    new ""
+    new "{b}Olivia:{/b} EU VOU ACABAR COM VOCÊ! 😡"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Olivia:{/b} Thanks! But you can't have one. 😜"
-    new ""
+    new "{b}Olivia:{/b} Obrigado! Mas você não pode ter um. 😜"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Samantha:{/b} I'm your daughter. 🥺"
-    new ""
+    new "{b}Samantha:{/b} eu sou sua filha. 🥺"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Olivia:{/b} Means nothing to me. 😈"
-    new ""
+    new "{b}Olivia:{/b} não significa nada para mim. 😈"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Your cupcakes looks delicious. 😏"
-    new ""
+    new "Seus cupcakes parecem deliciosos. 😏"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Don:{/b} You'll have to make this deal even. 👉👌"
-    new ""
+    new "{b}Don:{/b} Você vai ter que igualar esse negócio. 👉👌"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Ashley:{/b} Mom, don't say that. Dad loves you for your personality too."
-    new ""
+    new "{b}Ashley:{/b} Mãe, não diga isso. Papai também te ama por sua personalidade."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "You look gorgeous as always, Olivia."
-    new ""
+    new "Você está linda como sempre, Olivia."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Every friday night Don and I go to a fancy restaurant and enjoy the night at the chic hotel then, just for a change of scenery. Sometimes it can be hard to keep a romance alive in the relationship, but it's truly worth it! "
-    new ""
+    new "Toda sexta-feira à noite, Don e eu vamos a um restaurante chique e aproveitamos a noite no hotel chique, só para mudar de cenário. Às vezes pode ser difícil manter um romance vivo no relacionamento, mas realmente vale a pena! "
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Ashley:{/b} I don't want to know anything about that..."
-    new ""
+    new "{b}Ashley:{/b} não quero saber nada sobre isso..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Olivia:{/b} C'mon, you're a grown woman already."
-    new ""
+    new "{b}Olivia:{/b} Vamos lá, você já é uma mulher adulta."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Ashley:{/b} It makes no difference!"
-    new ""
+    new "{b}Ashley:{/b} Não faz diferença!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Hm, it seems really difficult to be in a relationship with one person for many years and be romantic all the time."
-    new ""
+    new "Hm, parece muito difícil estar em um relacionamento com uma pessoa por muitos anos e ser romântico o tempo todo."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Global warming, starvation in Africa, ozone layer depletion... There are so many problems, but you decide to fight against the lack of romance in the relationships..."
-    new ""
+    new "Aquecimento global, fome na África, destruição da camada de ozônio... Há tantos problemas, mas você decide lutar contra a falta de romance nos relacionamentos..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I always feel sexy and desired, even while cleaning. That's not too easy to get in touch with your feminine side, but you will feel like a different person after it!"
-    new ""
+    new "Sempre me sinto sexy e desejada, mesmo durante a limpeza. Não é muito fácil entrar em contato com o seu lado feminino, mas você vai se sentir uma pessoa diferente depois disso!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Don:{/b} That's my woman!"
-    new ""
+    new "{b}Don:{/b} Essa é minha mulher!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Olivia:{/b}😍"
@@ -2828,201 +2828,201 @@ translate brazilian strings:
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Evelyn:{/b}  I know there's a lot I can learn from you!"
-    new ""
+    new "{b}Evelyn:{/b} Eu sei que posso aprender muito com você!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Olivia:{/b} I'm here for you, dear."
-    new ""
+    new "{b}Olivia:{/b} estou aqui para você, querida."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Samantha:{/b} Mom, don't you think that it is a little bit too much for Lustagram when everybody can see your posts?"
-    new ""
+    new "{b}Samantha:{/b} Mãe, você não acha que é um pouco demais para o Lustagram quando todo mundo pode ver suas postagens?"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Seems that @Don is very lucky!"
-    new ""
+    new "Parece que @Don tem muita sorte!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Okay, I should admit that even at your age is possible to look hot. But let's be honest - you still need to work on that..."
-    new ""
+    new "Ok, devo admitir que mesmo na sua idade é possível parecer gostosa. Mas vamos ser honestos - você ainda precisa trabalhar nisso..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Olivia: Nobody asked you, [Name]!"
-    new ""
+    new "Olivia: Ninguém te perguntou,[Name]!""
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Are you a miracle from heaven? Seems like you came from the stars..."
-    new ""
+    new "Você é um milagre do céu? Parece que você veio das estrelas..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Let's just say I love my job... but I know what it feels like to be completely exhausted."
-    new ""
+    new "Vamos apenas dizer que amo meu trabalho... mas sei como é estar completamente exausto."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Jacob:{/b} We've all been there..."
-    new ""
+    new "{b}Jacob:{/b} Todos nós já estivemos lá..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Amelie:{/b} I know exactly how you feel... 🥺"
-    new ""
+    new "{b}Amelie:{/b} eu sei exatamente como você se sente... 🥺"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Victoria:{/b} You were sleeping so peacefully... we didn't wake you up. Sorry! 🥺"
-    new ""
+    new "{b}Victoria:{/b} Você estava dormindo tão tranquilamente... não te acordamos. Desculpe! 🥺"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Oh, just remember that sleep is very important for the recovery of your body!"
-    new ""
+    new "Ah, lembre-se que o sono é muito importante para a recuperação do seu corpo!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "If I were there I wouldn't let you sleep! 😈"
-    new ""
+    new "Se eu estivesse aí não te deixava dormir! 😈"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Come on, Sleeping Beauty, wake up!"
-    new ""
+    new "Vamos, Bela Adormecida, acorde!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Samantha:{/b} Last Summer..."
-    new ""
+    new "{b}Samantha:{/b} No verão passado..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Audrey:{/b} I'd eat you! 😈"
-    new ""
+    new "{b}Audrey:{/b} eu comeria você! 😈"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Samantha: We'll see. 😉"
-    new ""
+    new "Samantha: Veremos. 😉"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Samantha: Your imagination is too limited to grasp all my abilities. 😜"
-    new ""
+    new "Samantha: Sua imaginação é muito limitada para entender todas as minhas habilidades. 😜"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Elijah:{/b} Sure, sure."
-    new ""
+    new "{b}Elijah:{/b} Claro, claro."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Elijah: Only Sam? What about me?"
-    new ""
+    new "Elijah: Só Sam? E eu?"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Samantha: Also because the one who helped me to choose my outfit has reeeally good taste..."
-    new ""
+    new "Samantha: Também porque quem me ajudou a escolher minha roupa tem muito bom gosto..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Samantha: C'mon, don't take it too seriously, ok?"
-    new ""
+    new "Samantha: Vamos, não leve muito a sério, ok?"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "We've been planning to take pole dancing classes for months. Finally made it! Only one hour and I already feel how my sensuality is awakening, awwwwww 🥰"
-    new ""
+    new "Há meses que estávamos planejando fazer aulas de pole dance. Finalmente consegui! Apenas uma hora e já sinto como minha sensualidade está despertando, awwwwww 🥰"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Audrey:{/b} God damn, we are fucking gorgeous!"
-    new ""
+    new "{b}Audrey:{/b} Caramba, nós somos lindos pra caralho!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Elijah:{/b} I only wanted to spend 10 minutes in Lustagram before going to sleep and it was my biggest mistake - it's impossible to have any thought about sleep after this photo..."
-    new ""
+    new "{b}Elijah:{/b} Eu só queria passar 10 minutos no Lustagram antes de dormir e esse foi meu maior erro - é impossível pensar em dormir depois dessa foto..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I'm having a heart attack... These pictures are too perfect!"
-    new ""
+    new "Estou tendo um ataque cardíaco... Essas fotos são perfeitas demais!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Samantha: I hope that everything is okay now..."
-    new ""
+    new "Samantha: Espero que esteja tudo bem agora..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Now I feel like I'm ready to take some lessons too. Do you think that I need to increase my feminine energy?"
-    new ""
+    new "Agora sinto que estou pronta para fazer algumas aulas também. Você acha que preciso aumentar minha energia feminina?"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Samantha: Ha-ha-ha, absolutely yes!"
-    new ""
+    new "Samantha: Ha-ha-ha, absolutamente sim!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I found this prom photo in my album and only look at this little girl! Great changes have taken place, but there is still a gentle kid living inside me."
-    new ""
+    new "Encontrei esta foto do baile no meu álbum e só olho para essa garotinha! Grandes mudanças aconteceram, mas ainda há uma criança gentil vivendo dentro de mim."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Olivia:{/b} You're still the same sweet little girl for us. We love you so much! ❤️ "
-    new ""
+    new "{b}Olivia:{/b} Você ainda é a mesma menina doce para nós. Nós te amamos muito! ❤️ "
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Haley:{/b} You have barely changed, he-he."
-    new ""
+    new "{b}Haley:{/b} Você nem mudou muito, he-he."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Samantha:{/b} Do you really think so?"
-    new ""
+    new "{b}Samantha:{/b} Você realmente acha?"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Audrey:{/b} You're too good to be true, babe..."
-    new ""
+    new "{b}Audrey:{/b} Você é bom demais para ser verdade.."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "You look absolutely radiant, as ever! "
-    new ""
+    new "Você está absolutamente radiante, como sempre!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Samantha: I do my best, thank you!"
-    new ""
+    new "Samantha: Eu faço o meu melhor, obrigada!"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Is that your secret little sister? Can you introduce me to her, please?"
-    new ""
+    new "Essa é sua irmãzinha secreta? Você pode me apresentar a ela, por favor?"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Samantha: Poor thing, he doesn't know how to read. 😛"
-    new ""
+    new "Samantha: Coitadinho, ele não sabe ler. 😛"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "DM for bartender services"
-    new ""
+    new "DM para serviços de barman"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Life is just a party, so come as you are! 😈"
-    new ""
+    new "A vida é só uma festa, então venha como você é! 😈"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Samantha:{/b} That was a blast! An amazing vibe, thank you for everything! 💜"
-    new ""
+    new "{b}Samantha:{/b} Foi demais! Uma vibe incrível, obrigado por tudo! 💜"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Everything looks insanely cool in this photo. I wish I were at this party..."
-    new ""
+    new "Tudo parece insanamente legal nesta foto. Eu gostaria de estar nesta festa..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "\"Come as you are?\"  Why are you still dressed then?"
-    new ""
+    new "\"Vem como você está?\" Por que você ainda está vestido então?"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Victoria:{/b} Thank you, Jacob. "
-    new ""
+    new "{b}Victoria:{/b} Obrigado, Jacob."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Music is one of, if not the most important aspect of my life. It is a way to express myself and my feelings. It's something that I can go to whenever I need it. "
-    new ""
+    new "A música é um dos aspectos, se não o mais importante da minha vida. É uma forma de me expressar e expressar meus sentimentos. É algo que posso ir sempre que precisar."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Somebody once told me that music gives a soul to the universe, wings to the mind, flight to the imagination and life to everything."
-    new ""
+    new Alguém me disse uma vez que a música dá alma ao universo, asas à mente, vôo à imaginação e vida a tudo."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Sabrina:{/b} My heart is going to stop! You look very elegant, dear. 🤤"
-    new ""
+    new "{b}Sabrina:{/b} Meu coração vai parar! Você está muito elegante, querida. 🤤"
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "{b}Amelie:{/b} That's well said, Vicky. Only literature has such a great power as music has..."
-    new ""
+    new "{b}Amelie:{/b} Está bem dito, Vicky. Só a literatura tem um poder tão grande quanto a música..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "I would really love to hear you play, miss... "
-    new ""
+    new "Eu realmente adoraria ouvir você tocar, senhorita..."
 
     # game/logic/phone_interface/lustogram_db.rpy:52
     old "Seems that you have well-trained fingers! I'm only interested in what more can they do to bring satisfaction..."
-    new ""
+    new "Parece que você tem dedos bem treinados! Só estou interessado no que mais eles podem fazer para trazer satisfação..."
 
