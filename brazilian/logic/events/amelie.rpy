@@ -2754,7 +2754,7 @@ translate brazilian Amelie_3_label_01fb8671:
 translate brazilian Amelie_3_label_ced9f87a:
 
     # Amelie "It could be better. I'm a little bit sleep-deprived."
-    Amelie "Poderia está melhor. Estou com um pouco sem sono."
+    Amelie "Poderia está melhor. Estou um pouco sem sono."
 
 # game/logic/events/amelie.rpy:525
 translate brazilian Amelie_3_label_6dc332a9:
