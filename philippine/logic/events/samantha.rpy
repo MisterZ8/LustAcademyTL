@@ -6207,13 +6207,13 @@ translate philippine Samantha_12_label_eab0bb62:
 # game/logic/events/samantha.rpy:1844
 translate philippine Samantha_12_label_0cb00428:
 
-    # Samantha "But I can say you - she's just as harmless as belladonna's flowers, that's for sure."
+    # Samantha "But I can tell you - she's just as harmless as belladonna's flowers, that's for sure."
     Samantha ""
 
 # game/logic/events/samantha.rpy:1845
 translate philippine Samantha_12_label_4976bc55:
 
-    # Samantha "In her 12 years, she won battles with grown-up magicians!"
+    # Samantha "At the age of 12, she won battles with grown-up magicians!"
     Samantha ""
 
 # game/logic/events/samantha.rpy:1846
@@ -6609,7 +6609,7 @@ translate philippine Samantha_12_label_bd5c1847:
 # game/logic/events/samantha.rpy:1931
 translate philippine Samantha_12_label_baa9e994:
 
-    # Samantha "Dakota is a lot more complicated when it seems."
+    # Samantha "Dakota is a lot more complicated than it seems."
     Samantha ""
 
 # game/logic/events/samantha.rpy:1932

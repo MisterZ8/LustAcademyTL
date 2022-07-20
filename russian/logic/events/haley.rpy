@@ -7527,7 +7527,7 @@ translate russian Haley_14_label_7402fa39:
 # game/logic/events/haley.rpy:2300
 translate russian Haley_14_label_65880fd9:
 
-    # Haley "All what I want is to be close to you."
+    # Haley "All that I want is to be close to you."
     Haley "Всё, что я хочу - это быть рядом с тобой."
 
 # game/logic/events/haley.rpy:2302
@@ -10431,7 +10431,7 @@ translate russian CF_Haley_2_label_8c89e17f:
 # game/logic/events/haley.rpy:3026
 translate russian CF_Haley_2_label_df658da3:
 
-    # Haley "I'm gonna to go for a walk now."
+    # Haley "I'm gonna go for a walk now."
     Haley "Я пойду немного прогуляюсь."
 
 # game/logic/events/haley.rpy:3027
@@ -15420,7 +15420,7 @@ translate russian Haley_20_label_from_gallery_18fc86ed:
 # game/logic/events/haley.rpy:3985
 translate russian Haley_20_label_from_gallery_74a0d849:
 
-    # Haley "But what I feel when I with you... It is much deeper than sympathy or admiration."
+    # Haley "But what I feel when I'm with you... It is much deeper than sympathy or admiration."
     Haley ""
 
 # game/logic/events/haley.rpy:3986

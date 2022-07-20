@@ -7527,7 +7527,7 @@ translate hungarian Haley_14_label_7402fa39:
 # game/logic/events/haley.rpy:2300
 translate hungarian Haley_14_label_65880fd9:
 
-    # Haley "All what I want is to be close to you."
+    # Haley "All that I want is to be close to you."
     Haley ""
 
 # game/logic/events/haley.rpy:2302
@@ -10431,7 +10431,7 @@ translate hungarian CF_Haley_2_label_8c89e17f:
 # game/logic/events/haley.rpy:3026
 translate hungarian CF_Haley_2_label_df658da3:
 
-    # Haley "I'm gonna to go for a walk now."
+    # Haley "I'm gonna go for a walk now."
     Haley ""
 
 # game/logic/events/haley.rpy:3027
