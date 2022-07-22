@@ -1028,39 +1028,39 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Adele is an energetic and entrepreneurial magician. After arriving in Dale penniless, she made her money dancing at a strip club, bought it out, and is now the sole owner of Lady Luck. Adele enjoys authority with her co-workers because she always  treats everyone with respect. She likes to dress flashy and takes pride in her gorgeous body."
-    new ""
+    new "Adele é enérgica e empreendedora. Depois de chegar em Dale sem um tostão, ela ganhou dinheiro dançando em um clube de strip, comprou-o e agora é o único proprietário da Lady Luck. Adele goza de autoridade com seus colegas de trabalho porque ela sempre trata todos com respeito. Ela gosta de se vestir bem e se orgulha de seu corpo lindo."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Friendly and sweet elf Ahchi owns the most fabulous coffee shop in Dale. He is an absolute wizard of his craft and can create an indescribable palette of tastes from any ingredients. And you can always chat with him and discuss anything."
-    new ""
+    new "Amigável e doce elfo Ahchi é dono da cafeteria mais fabulosa de Dale. Ele é um mago absoluto em seu ofício e pode criar uma paleta indescritível de sabores a partir de qualquer ingrediente. E você sempre pode conversar com ele e discutir qualquer coisa."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Amelie has never had an outstanding talent for magic, but she has been fascinated by the wizarding world's history since childhood. She loves books and smart people more than anything else in the world. After graduating from Cordale, she took a job as a local librarian to be able to study the rarest magical writings and folios in the world."
-    new ""
+    new "Amelie nunca teve um talento excepcional para a magia, mas ela é fascinada pela história do mundo mágico desde a infância. Ela ama livros e pessoas inteligentes mais do que qualquer outra coisa no mundo. Depois de se formar em Cordale, ela aceitou um emprego como bibliotecário local para poder estudar os escritos e fólios mágicos mais raros do mundo."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Cordale is home to many magical creatures. Angel statues are one of the most entertaining. These creatures can move at great speed, but only if no one looks at them. They pretend to be statues in one of the academy's gardens and scare the first-year students."
-    new ""
+    new "Cordale é o lar de muitas criaturas mágicas. As estátuas de anjos são uma das mais divertidas. Essas criaturas podem se mover em grande velocidade, mas apenas se ninguém olhar para elas. Elas fingem ser estátuas em um dos jardins da academia e assustam os alunos do primeiro ano”.
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Arthur Doorman the Fourth is a hereditary wizard from one of the oldest magical families in the world. He took the headmaster position in Cordale at the age of 42 and made the Academy one of the best in the world. Like his ancestors, he is noble and responsible in his job of guiding young wizards on the path of virtue."
-    new ""
+    new "Arthur Porteiro Quarto é um mago hereditário de uma das famílias mágicas mais antigas do mundo. Ele assumiu o cargo de diretor em Cordale aos 42 anos e fez da Academia uma das melhores do mundo. Como seus ancestrais, ele é nobre e responsável em seu trabalho de guiar jovens bruxos no caminho da virtude."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Olivia and Don's youngest daughter, Ashley, is a dedicated and talented gymnast. Her room is crammed with all kinds of competition trophies, but it's never enough for Don and he puts a terrible pressure on her to make sure Ashley never lowers the bar and continues to train hard."
-    new ""
+    new "A filha mais nova de Olivia e Don, Ashley, é uma ginasta dedicada e talentosa. Seu quarto está cheio de todos os tipos de troféus de competição, mas nunca é suficiente para Don e ele coloca uma pressão terrível sobre ela para garantir que Ashley nunca baixe a barra e continue treinando duro."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Audrey is a bitchy sophomore from Leonheart House and Samantha's best friend. She's a mysterious girl that's probably not even human. Audrey and Samantha have a long history together and it's seems like despite her spiky character she's always nice and loyal to her friend."
-    new ""
+    new "Audrey é uma estudante do segundo ano da Leonheart House e a melhor amiga de Samantha. Ela é uma garota misteriosa que provavelmente nem é humana. Audrey e Samantha têm uma longa história juntas e parece que, apesar de seu caráter espetado, ela é sempre legal e leal à amiga. "
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Newly enrolled at the academy, Carter is a well-mannered and quiet fellow with an unusually high talent for magic. He refused to enter the academy for many years to take care of a sick matter, but when Arthur healed her, the grateful Carter gladly agreed to study and went to Cordale."
-    new ""
+    new "Recentemente matriculado na academia, Carter é um sujeito bem-educado e quieto com um talento extraordinariamente alto para a magia. Ele se recusou a entrar na academia por muitos anos para cuidar de um assunto doente, mas quando Arthur a curou, o grato Carter concordou de bom grado em estudar e foi para Cordale."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Queen of the House of Adderin and Samantha's arch-rival, Dakota, is a true embodiment of her house's values. She is used to being the first in everything and is ready to go over the heads for the sake of success. Even the teachers are afraid of her."
-    new ""
+    new "Rainha da Casa de Adderin e a arqui-rival de Samantha, Dakota, é uma verdadeira personificação dos valores de sua casa. Ela está acostumada a ser a primeira em tudo e está pronta para passar por cima em busca do sucesso. os professores têm medo dela."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Alston"
@@ -1068,95 +1068,95 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "From an early age Diego hung around with all sorts of scum and quickly made a name for himself and a pretty good fortune on criminal affairs. Everyone in Dale knows him as one of the most dangerous and reckless thugs. He was permanently banned from the Lady Luck Club for stalking Adele."
-    new ""
+    new "Desde tenra idade, Diego andava com todo tipo de escória e rapidamente fez um nome para si mesmo e uma boa fortuna em assuntos criminais. Todos em Dale o conhecem como um dos bandidos mais perigosos e imprudentes. Ele foi banido permanentemente de o Lady Luck Club por perseguir Adele."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Don is Samantha and Ashley's strict father, who had to work tirelessly to feed his family and me as well. He's always been a jerk, and he's become even more arrogant and demanding of his family since he got to the top job at the car dealership."
-    new ""
+    new "Don é o pai rigoroso de Samantha e Ashley, que teve que trabalhar incansavelmente para alimentar sua família e eu também. Ele sempre foi um idiota, e ele se tornou ainda mais arrogante e exigente com sua família desde que chegou ao cargo mais alto na concessionária de carros."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Heir to a hereditary family of wizards, headman of Leonheart, and Cordale's chief smuggler, Elijah is the kind of man who loves life and wants to take everything from it. He often lacks responsibility, but he has a good heart and will always come to the aid of his friends."
-    new ""
+    new "Herdeiro de uma família hereditária de magos, chefe de Leonheart e chefe dos contrabandistas de Cordale, Elijah é o tipo de homem que ama a vida e quer tirar tudo dela. Muitas vezes ele não tem responsabilidade, mas tem um bom coração e sempre vir em auxílio de seus amigos."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Ezra Bloom, Elijah's older brother who went missing years ago. It turned out that he was trying to escape with his lover Hans from his father's wrath, but everything went terribly wrong: Hans died, and Ezra was stranded on a desert island for eight years until Haley and I rescued him."
-    new ""
+    new "Ezra Bloom, o irmão mais velho de Elijah que desapareceu anos atrás. Acontece que ele estava tentando escapar com seu amante Hans da ira de seu pai, mas tudo deu terrivelmente errado: Hans morreu, e Ezra ficou preso em uma ilha deserta por oito anos até que Haley e eu o resgatamos."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Frida is one of four students of the legendary Melissa Owlsight. Arriving with her from Europe, she helped to found Cordale Academy and established the house of Crowhive. Their top priorities have always been cold reasoning and a desire to accumulate and expand their knowledge of the magical world."
-    new ""
+    new "Frida é uma das quatro alunas da lendária Melissa Owlsight. Chegando com ela da Europa, ela ajudou a fundar a Cordale Academy e estabeleceu a casa Crowhive. Suas principais prioridades sempre foram o raciocínio frio e o desejo de acumular e expandir seus conhecimentos de o mundo mágico."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "This year, Gabriella, a lively and cheerful latina, enrolled at Cordale in the Martenden house. She is interested in martial magic and is a regular at the Dueling club. Among other students, Gabi has a reputation of a dangerous and ruthless rival, though she looks like she could hurt a fly."
-    new ""
+    new "Este ano, Gabriella, uma latina animada e alegre, matriculou-se em Cordale na casa Martenden. Ela se interessa por magia marcial e é assídua do clube de duelos. Entre outros alunos, Gabi tem fama de rival perigosa e implacável , embora pareça que ela poderia machucar uma mosca."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "An ugly creature that terrified anyone who dared to walk the streets of Dale at night for a long time. Barely able to speak but requests to be called Harvey. He is said to be somehow related to Sabrina because he constantly calls out her name and preys on girls who look like her."
-    new ""
+    new "Uma criatura feia que aterrorizava qualquer um que se atrevesse a andar pelas ruas de Dale à noite por um longo tempo. Mal consegue falar, mas pede para ser chamado de Harvey. Diz-se que ele está de alguma forma relacionado a Sabrina porque constantemente chama seu nome e ataca garotas que se parecem com ela."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "A cunning and practical dwarf who owns a store in downtown Dale. He's not a bad guy despite his sullen appearance. He raises his daughter, half-dwarf and half-fairy Willow, alone and takes great pride in her. He loves fish pies and is always ready to hire anyone as a fisherman."
-    new ""
+    new "Um anão astuto e prático que é dono de uma loja no centro de Dale. Ele não é um cara mau, apesar de sua aparência mal-humorada. Ele cria sua filha, metade anã e metade fada Willow, sozinha e tem muito orgulho dela. Ele adora peixe tortas e está sempre pronto para contratar qualquer um como pescador."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "A bright and determined freshman at Crowhive House, Grace does not possess outstanding talents, but she more than makes up for it in hard work. Sometimes it seems she only has fun when she studies. Grace dreams of excelling in the field of potions and inventing her own potion recipes."
-    new ""
+    new "Uma caloura brilhante e determinada na Crowhive House, Grace não possui talentos excepcionais, mas ela mais do que compensa isso no trabalho duro. Às vezes parece que ela só se diverte quando estuda. Grace sonha em se destacar no campo de poções e inventando suas próprias receitas de poções."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Haley had dreamed of being a sorceress since childhood, even though she was born into a family of ordinary people. Her dream came true when she received a letter from Cordale, and now she's living a dream. She loves reading and learning new things, can't resist riddles, and is always ready to participate in any adventure."
-    new ""
+    new "Haley sonhava em ser feiticeira desde a infância, mesmo tendo nascido em uma família de pessoas comuns. Seu sonho se tornou realidade quando ela recebeu uma carta de Cordale, e agora ela está vivendo um sonho. Ela adora ler e aprender coisas novas , não resiste a enigmas e está sempre pronto para participar de qualquer aventura."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Many considered Jacob Frollo one of the most promising mages of his generation. He is a renowned master of defensive spells and has always dreamed of inventing an ultimatum protective magic. He took a job at Cordale to find like-minded people and train them in his craft."
-    new ""
+    new "Muitos consideravam Jacob Frollo um dos magos mais promissores de sua geração. Ele é um renomado mestre de feitiços defensivos e sempre sonhou em inventar uma magia protetora de ultimato. Ele aceitou um emprego em Cordale para encontrar pessoas com ideias semelhantes e treiná-las em seu ofício."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Jaina is one of four students of the legendary Melissa Owlsight. Arriving with her from Europe, she helped to found Cordale Academy and established the house of Martenden. Their top priorities have always been hard work and good intentions."
-    new ""
+    new "Jaina é uma das quatro alunas da lendária Melissa Owlsight. Chegando com ela da Europa, ela ajudou a fundar a Cordale Academy e a fundar a casa Martenden. Suas principais prioridades sempre foram trabalho duro e boas intenções."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lovely Jill loves pranks and jokes. She and her twin sister Faith inherited Whistley's Spa massage parlor in Dale from their parents. They have a rare talent for healing magic, and their gift has made their salon one of the most popular in the region. "
-    new ""
+    new "Lovely Jill adora brincadeiras e piadas. Ela e sua irmã gêmea Faith herdaram o salão de massagem Whistley's Spa em Dale de seus pais. Eles têm um talento raro para a magia de cura, e seu dom tornou seu salão um dos mais populares da região . "
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Joshi, a young student of Crowhive House, has a unique talent for finding problems. He's no stranger to illegal substances, loves to party and talk, lives for the day, and doesn't think much about his studies or the future. He is easily one of the most hated students among teachers."
-    new ""
+    new "Joshi, um jovem estudante da Crowhive House, tem um talento único para encontrar problemas. Ele não é estranho a substâncias ilegais, adora festejar e conversar, vive para o dia e não pensa muito em seus estudos ou no futuro. Ele é facilmente um dos alunos mais odiados entre os professores."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Katrina is one of four students of the legendary Melissa Owlsight. Arriving with her from Europe, she helped to found Cordale Academy and established the house of Adderin. Their top priorities have always been pure blood and earning success in any way possible."
-    new ""
+    new "Katrina é uma das quatro alunas da lendária Melissa Owlsight. Chegando com ela da Europa, ela ajudou a fundar a Cordale Academy e estabeleceu a casa Adderin. Suas principais prioridades sempre foram o sangue puro e o sucesso de todas as formas possíveis."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Leona is one of four students of the legendary Melissa Owlsight. Arriving with her from Europe, she helped to found Cordale Academy and established the house of Leonheart. Their top priorities have always been сourage and honesty in all deeds."
-    new ""
+    new "Leona é uma das quatro alunas da lendária Melissa Owlsight. Chegando com ela da Europa, ela ajudou a fundar a Cordale Academy e a fundar a casa Leonheart. Suas principais prioridades sempre foram coragem e honestidade em todas as ações."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The gentle and slightly naive girl Lily, a young student of the House of Leonheart, is, in fact, a descendant of Leona Leonheart herself. Her parents are stringent and require Lily to succeed in everything in order not to shame the legacy of her great ancestors."
-    new ""
+    new "A menina gentil e um pouco ingênua Lily, uma jovem estudante da Casa de Leonheart, é, na verdade, descendente da própria Leona Leonheart. Seus pais são rigorosos e exigem que Lily tenha sucesso em tudo para não envergonhar o legado de seus grandes ancestrais."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lucy is a young, friendly, and somewhat kinky dancer from the Lady Luck Club. She came to Dale from Europe in search of a better life. Lucy respects Adele and her co-workers but still dreams of leaving her stripper career one day to pursue her dreams and fulfill her ambitions."
-    new ""
+    new "Lucy é uma dançarina jovem, amigável e um tanto excêntrica do Lady Luck Club. Ela veio da Europa para Dale em busca de uma vida melhor. Lucy respeita Adele e seus colegas de trabalho, mas ainda sonha em deixar sua carreira de stripper um dia perseguir seus sonhos e realizar suas ambições."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Mina is a young and shy receptionist at the Dale-ly Apartments. She has a hard time connecting with her peers, so she communicates with the hotel's residents most of the time. Mina works to save up for a trip worldwide and is willing to do whatever it takes to get a promotion."
-    new ""
+    new "Mina é uma recepcionista jovem e tímida do Dale-ly Apartments. Ela tem dificuldade em se conectar com seus colegas, então ela se comunica com os moradores do hotel a maior parte do tempo. Mina trabalha para economizar para uma viagem pelo mundo e está disposta fazer o que for preciso para conseguir uma promoção."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The hard-working businesswoman, Molly, is Arthur's niece. Instead of developing her magical talents, she decided to open her own cafe in Cordale and make money for her chain of restaurants. Arthur disapproves of his niece's choice but has no way of influencing it."
-    new ""
+    new "Uma empresária trabalhadora, Molly, é sobrinha de Arthur. Em vez de desenvolver seus talentos mágicos, ela decidiu abrir seu próprio café em Cordale e ganhar dinheiro para sua cadeia de restaurantes. Arthur desaprova a escolha de sua sobrinha, mas não tem como influenciando”.
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Freshman Adderin Naomi wants to seem like a cold-hearted bitch to everyone, but she's actually a pretty sweet and vulnerable girl. Her parents are respected and influential mages who expect their daughter to be able to carry on the family business with dignity."
-    new ""
+    new "A Novata de Adderin Naomi parece uma vadia de coração frio para todos, mas na verdade ela é uma garota muito doce e vulnerável. Seus pais são magos respeitados e influentes que esperam que sua filha seja capaz de conduzir os negócios da família com dignidade."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Olivia is the mother of Samantha and Ashley and the wife of Don. Her best friend, my mom, died in childbirth, and she was forced to raise me with her children. She is unhappy in her marriage and drowns her sorrows in wine and expensive shopping."
-    new ""
+    new "Olivia é a mãe de Samantha e Ashley e esposa de Don. Sua melhor amiga, minha mãe, morreu no parto, e ela foi forçada a me criar com seus filhos. Ela está infeliz em seu casamento e afoga suas mágoas em vinho e compras caras."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The young astral sorceress Penny is trained by the greatest astral magician Salazar Hudson and travels in search of rare artifacts on his instructions. On one of these trips, she got lost in the astral plane and almost lost her body, but everything turned out well."
-    new ""
+    new "A jovem feiticeira astral Penny é treinada pelo maior mago astral Salazar Hudson e viaja em busca de artefatos raros sob suas instruções. Em uma dessas viagens, ela se perdeu no plano astral e quase perdeu o corpo, mas tudo acabou Nós vamos."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Lambert"
@@ -1164,259 +1164,259 @@ translate brazilian strings:
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Half-orc Romulus spent his entire life in Dale's criminal circles but got tired of constant run-ins with the police and decided to settle down. He got a job as a bouncer at Lady Luck nightclub and tries to lead an honest life, though he still can't deny himself the pleasure of extorting bribes."
-    new ""
+    new "Meio-orc Romulus passou toda a sua vida nos círculos criminosos de Dale, mas se cansou dos constantes desentendimentos com a polícia e decidiu se estabelecer. Ele conseguiu um emprego como segurança na boate Lady Luck e tenta levar uma vida honesta, embora ele ainda não possa negar a si mesmo o prazer de extorquir subornos."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Sabrina is the youngest of Cordale's teachers and a true fan of her craft. She has loved mixing and experimenting with potions since she was young, and being a teacher allows her to do her thing and have access to the rarest of magical ingredients."
-    new ""
+    new "Sabrina é a mais jovem das professoras de Cordale e uma verdadeira fã de seu ofício. Ela adora misturar e experimentar poções desde jovem, e ser professora permite que ela faça suas coisas e tenha acesso aos mais raros ingredientes mágicos. "
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Sadira, daughter of the eastern sultan, fled from an abusive father who did not allow her to enjoy life and her femininity. She needs no money and takes a job as a dancer at Lady Luck to enjoy the attention of men and satisfy her sexual needs. "
-    new ""
+    new "Sadira, filha do sultão oriental, fugiu de um pai abusivo que não lhe permitiu aproveitar a vida e sua feminilidade. Ela não precisa de dinheiro e aceita um emprego como dançarina no Lady Luck para desfrutar da atenção dos homens e satisfazê-la necessidades sexuais”.
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Olivia's oldest daughter, Samantha, has always been kind and sweet to me. She is a sophomore from Leonheart's house at Cordale. Samantha is a very talented wizard and the pride of the whole academy. She has a great future in the magical world and dreams of becoming the champion of the most prestigious wizarding tournament."
-    new ""
+    new "A filha mais velha de Olivia, Samantha, sempre foi gentil e doce comigo. Ela é uma estudante do segundo ano da casa de Leonheart em Cordale. Samantha é uma feiticeira muito talentosa e o orgulho de toda a academia. Ela tem um grande futuro no mundo mágico e sonha em se tornar o campeão do mais prestigiado torneio bruxo."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "The mysterious Vanessa works at Lady Luck as a bartender. Unlike many other vampires, she is not bloodthirsty at all and leads a civilized life, eating only to survive. She has an obvious talent for making cocktails, and she's also into DJing. "
-    new ""
+    new "A misteriosa Vanessa trabalha no Lady Luck como bartender. Ao contrário de muitos outros vampiros, ela não é sanguinária e leva uma vida civilizada, comendo apenas para sobreviver. Ela tem um talento óbvio para fazer coquetéis e também gosta de DJ. "
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Victoria, a strict but fair teacher of battle magic. She loves teaching prominent students and hates slackers. Victoria has won the Teacher of the Year awards many times. Her students and other teachers respect Victoria for her talents and noble character."
-    new ""
+    new "Victoria, uma professora rigorosa, mas justa de magia de batalha. Ela adora ensinar alunos proeminentes e odeia preguiçosos. Victoria ganhou o prêmio de Professora do Ano muitas vezes. Seus alunos e outros professores respeitam Victoria por seus talentos e caráter nobre."
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Playful and cheerful Willow is Gordon's daughter and his assistant in the Chompski shop. Thanks to her fairy talents, she is able to travel between worlds and find rare ingredients to sell. This has doubled the shop's profits and made her father very proud."
-    new ""
+    new "A brincalhona e alegre Willow é filha de Gordon e sua assistente na loja Chompski. Graças aos seus talentos de fadas, ela é capaz de viajar entre mundos e encontrar ingredientes raros para vender. Isso dobrou os lucros da loja e deixou seu pai muito orgulhoso. "
 
     # game/logic/main_interface/quest_log_db.rpy:3
     old "Although there are many magical creatures in the wizard world that ordinary people cannot even imagine, some things seem to be fiction and legends even among sorcerers. Most magicians believe that Mushroom people are just a myth, but one of them was seen in the forest near Cordale."
-    new ""
+    new "Embora existam muitas criaturas mágicas no mundo mágico que as pessoas comuns não podem sequer imaginar, algumas coisas parecem ser ficção e lendas mesmo entre os feiticeiros. floresta perto de Cordale."
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "{b}Samantha's story{/b}"
-    new ""
+    new "{b}História de Samantha{/b}"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Victoria's story"
-    new ""
+    new "História de Victoria"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Leonheart points +5"
-    new ""
+    new "+5 Pontos para Leonheart"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Time skip"
-    new ""
+    new "Passar tempo"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Magery practics"
-    new ""
+    new "Práticas de Magia"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Audrey's story"
-    new ""
+    new "História de Audrey"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "{b}Giant's story{/b}"
-    new ""
+    new "{b}História do Gigante{/b}"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Sabrina's story"
-    new ""
+    new "História de Sabrina"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "{b}Time skip +2{/b}"
-    new ""
+    new "{b}Passar tempo +2{/b}"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Alchemy practics"
-    new ""
+    new "Prática de alquimia"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "{b}Elijah's story{/b}"
-    new ""
+    new "{b}história de Elijah{/b}"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "{b}Minotaurs' story{/b}"
-    new ""
+    new "{b}História dos Minotauros{/b}"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Amelie's story"
-    new ""
+    new "História de Amelie"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Leonheart points +X"
-    new ""
+    new "Pontos de Leonheart +X"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Peeping at Molly"
-    new ""
+    new "Espiar Molly"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "{b}Doesn't affect relationships{/b}"
-    new ""
+    new "{b}Não afeta relacionamentos{/b}"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Haley's story"
-    new ""
+    new "História de Haley"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "{b}Angel's story{/b}"
-    new ""
+    new "{b}História do anjo{/b}"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "{b}Haley's story{/b}"
-    new ""
+    new "{b}História de Haley{/b}"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Samantha's story"
-    new ""
+    new "História de Samantha"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Time Skip"
-    new ""
+    new "Passar tempo"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "{b}Main story{/b}"
-    new ""
+    new "{b}História principal{/b}"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "{b}Outro of the First Season{/b}"
-    new ""
+    new "{b}Mais da Primeira Temporada{/b}"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Lily's story"
-    new ""
+    new "História de Lily"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Naomi's story"
-    new ""
+    new "História de Noemi"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Elijah's story"
-    new ""
+    new "História de Elijah"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Molly's story"
-    new ""
+    new "História de Molly"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "First work in Cafe"
-    new ""
+    new "Primeiro trabalho no Café"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Leonheart points +3"
-    new ""
+    new "+3 Pontos Leonheart"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Money +10...+35"
-    new ""
+    new "Dinheiro +10...+35"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "{b}Lily's story{/b}"
-    new ""
+    new "{b}História de Lily{/b}"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "{b}Leona's story{/b}"
-    new ""
+    new "{b}História de Leona{/b}"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Academy Entrance"
-    new ""
+    new "Entrada da Academia"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Jacob's story"
-    new ""
+    new "História de Jacob"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "First Duel"
-    new ""
+    new "Primeiro Duelo"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Leonheart points +3...+15"
-    new ""
+    new "+3...+15 Pontos de Leonheart"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Girls bedroom"
-    new ""
+    new "Quarto das Garotas"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "My bedroom"
-    new ""
+    new "Meu quarto"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Leona's story"
-    new ""
+    new "História de Leona"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "{b}Use Sorting Book{/b}"
-    new ""
+    new "{b}Usar livro de classificação{/b}"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Nightly peeping at Haley"
-    new ""
+    new "Espiar Haley a noite"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Nightly peeping at Samantha"
-    new ""
+    new "Espiar Samantha a noite"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Nightly peeping at Audrey"
-    new ""
+    new "Espiar Audrey a noite"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Nightly peeping at Lily"
-    new ""
+    new "Espiar Lily a noite"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Gordon's story"
-    new ""
+    new "História de Gordon"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "First Fishing"
-    new ""
+    new "Primeira Pesca"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Money +1...+40"
-    new ""
+    new "Dinheiro +1...+40"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Fishing"
-    new ""
+    new "Pesca"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Willow's story"
-    new ""
+    new "História de Willow"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Mina's story"
-    new ""
+    new "História de Mina"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Jill's story"
-    new ""
+    new "História de Jill"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Adele's story"
-    new ""
+    new "História de Adele"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Ahchi's story"
-    new ""
+    new "História de Ahchi"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Small talk with Ahchi"
-    new ""
+    new "Conversar cm Ahchi"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Small talk with Haley"
-    new ""
+    new "Conversa fiada com Haley"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Small talk with Sam & Audrey"
-    new ""
+    new "Conversa fiada com Sam & Audrey"
 
     # game/logic/main_interface/quest_log_db.rpy:326
     old "Romul's story"
