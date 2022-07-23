@@ -2896,7 +2896,7 @@ translate chinese vip_lucy_1_label_2_ae870db9:
 translate chinese vip_lucy_1_label_2_cfe63050:
 
     # Lucy "Mhm!"
-    Lucy "Mmm!"
+    Lucy "嗯！"
 
 # game/logic/events/adele.rpy:1014
 translate chinese vip_lucy_1_label_2_79a45ce1:
@@ -2908,7 +2908,7 @@ translate chinese vip_lucy_1_label_2_79a45ce1:
 translate chinese vip_lucy_1_label_2_5d6c7c09:
 
     # Lucy "I want to move for you."
-    Lucy "我想再更进一步。"
+    Lucy "我想再更近一步。"
 
 # game/logic/events/adele.rpy:1017
 translate chinese vip_lucy_1_label_2_1011a685:
@@ -4198,7 +4198,7 @@ translate chinese vip_sadira_1_label_2_950dd384:
 translate chinese vip_sadira_1_label_2_2e831b09:
 
     # ch_Name "Wait..."
-    ch_Name "等待..."
+    ch_Name "等一下..."
 
 # game/logic/events/adele.rpy:1379
 translate chinese vip_sadira_1_label_2_c899ac97:
@@ -4210,7 +4210,7 @@ translate chinese vip_sadira_1_label_2_c899ac97:
 translate chinese vip_sadira_1_label_2_177e15da:
 
     # ch_Name "Let's do it in the sixty-nine position."
-    ch_Name "让我们在六十九位做。"
+    ch_Name "我们试试69。"
 
 # game/logic/events/adele.rpy:1381
 translate chinese vip_sadira_1_label_2_6449e0ed:
@@ -4222,13 +4222,13 @@ translate chinese vip_sadira_1_label_2_6449e0ed:
 translate chinese vip_sadira_1_label_2_a92069ea:
 
     # Sadira "I love a guy who knows what he wants."
-    Sadira "我爱一个知道自己想要什么的人。"
+    Sadira "我就喜欢你这种知道自己需要什么的人。"
 
 # game/logic/events/adele.rpy:1384
 translate chinese vip_sadira_1_label_2_6cb5af04:
 
     # Sadira "Especially when their desires are the same as mine."
-    Sadira "尤其是当他们的欲望和我一样的时候。"
+    Sadira "尤其是我们有共同的欲望的时候。"
 
 # game/logic/events/adele.rpy:1385
 translate chinese vip_sadira_1_label_2_c9b984dd:
@@ -4252,7 +4252,7 @@ translate chinese vip_sadira_1_label_2_aeea9498:
 translate chinese vip_sadira_1_label_2_4795e70d:
 
     # ch_Name "Can't you see? I'm on the edge!"
-    ch_Name "你看不见吗？ 我在边缘！"
+    ch_Name "你看不见吗？ 我快要插进去了！"
 
 # game/logic/events/adele.rpy:1396
 translate chinese vip_sadira_1_label_2_7a84473f:
@@ -4276,7 +4276,7 @@ translate chinese vip_sadira_1_label_2_208ccced:
 translate chinese vip_sadira_1_label_2_08cb1794:
 
     # Sadira "Oh, my lion, I can see how you're waiting for it!"
-    Sadira "哦，我的狮子，我可以看到你在等待它！"
+    Sadira "哦，我的狮子，我可以看到你已经等不及了！"
 
 # game/logic/events/adele.rpy:1401
 translate chinese vip_sadira_1_label_2_4f5f4c9f:
@@ -4288,13 +4288,13 @@ translate chinese vip_sadira_1_label_2_4f5f4c9f:
 translate chinese vip_sadira_1_label_2_8fa258af:
 
     # Sadira "It's been a long time since I've seen such an imposing device."
-    Sadira "好久没有看到这么有气势的装置了。"
+    Sadira "好久没有看到这么有气势的家伙了。"
 
 # game/logic/events/adele.rpy:1404
 translate chinese vip_sadira_1_label_2_738f282a:
 
     # ch_Name "So what are you waiting for? Come here!"
-    ch_Name "那你还在等什么？ 来这里！"
+    ch_Name "那你还在等什么？来这里！"
 
 # game/logic/events/adele.rpy:1405
 translate chinese vip_sadira_1_label_2_cda7d776:
@@ -4306,7 +4306,7 @@ translate chinese vip_sadira_1_label_2_cda7d776:
 translate chinese vip_sadira_1_label_2_45179a88:
 
     # Sadira "Didn't I tell you that waiting is the best part of the process?"
-    Sadira "我不是告诉过你等待是过程中最好的部分吗？"
+    Sadira "我不是告诉过你等待才是最美好的部分吗？"
 
 # game/logic/events/adele.rpy:1407
 translate chinese vip_sadira_1_label_2_c7a074a4:
@@ -4324,13 +4324,13 @@ translate chinese vip_sadira_1_label_2_f63c1e21:
 translate chinese vip_sadira_1_label_2_64119992:
 
     # ch_Name "Your luscious forms are driving me crazy."
-    ch_Name "你甜美的形式让我发疯。"
+    ch_Name "你这美味的样子让我疯狂。"
 
 # game/logic/events/adele.rpy:1412
 translate chinese vip_sadira_1_label_2_03c5e686:
 
     # Sadira "Good. So go crazy."
-    Sadira "善。 所以发疯吧。"
+    Sadira "很好。那就疯起来吧。"
 
 # game/logic/events/adele.rpy:1413
 translate chinese vip_sadira_1_label_2_0f84116e:
@@ -4342,7 +4342,7 @@ translate chinese vip_sadira_1_label_2_0f84116e:
 translate chinese vip_sadira_1_label_2_cf6f5250:
 
     # Sadira "You're paying me for an unforgettable experience."
-    Sadira "你付钱给我一次难忘的经历。"
+    Sadira "你付钱给我是为了买一次难忘的经历。"
 
 # game/logic/events/adele.rpy:1416
 translate chinese vip_sadira_1_label_2_c111c831:
@@ -4354,13 +4354,13 @@ translate chinese vip_sadira_1_label_2_c111c831:
 translate chinese vip_sadira_1_label_2_5fabf729:
 
     # ch_Name "{i}(The day will come when I fuck her good.){/i}"
-    ch_Name "{i}(我操她的那一天会到来。){/i}"
+    ch_Name "{i}(我操她的那一天会到来的。){/i}"
 
 # game/logic/events/adele.rpy:1418
 translate chinese vip_sadira_1_label_2_44ee2920:
 
     # ch_Name "{i}(But tonight, my cock will be busy with another hole.){/i}"
-    ch_Name "{i}(但今晚，我的鸡巴将忙于另一个洞。){/i}"
+    ch_Name "{i}(但今晚，我的鸡巴还要应付另一个洞。){/i}"
 
 # game/logic/events/adele.rpy:1420
 translate chinese vip_sadira_1_label_2_12059ab5:
@@ -4372,7 +4372,7 @@ translate chinese vip_sadira_1_label_2_12059ab5:
 translate chinese vip_sadira_1_label_2_f261fb7f:
 
     # Sadira "And now, the second part will begin..."
-    Sadira "现在，第二部分将开始..."
+    Sadira "现在，第二部分即将开始..."
 
 # game/logic/events/adele.rpy:1422
 translate chinese vip_sadira_1_label_2_f2cedac4:
@@ -4390,7 +4390,7 @@ translate chinese vip_sadira_1_label_2_15377d31:
 translate chinese vip_sadira_1_label_2_3784bb76:
 
     # ch_Name "{i}(I can feel her hand firmly gripping my cock...){/i}"
-    ch_Name "{i}(我能感觉到她的手牢牢地握着我的鸡巴哦...哇，它比我想象的还要大。){/i}"
+    ch_Name "{i}(我能感觉到她的手牢牢地握着我的鸡巴...){/i}"
 
 # game/logic/events/adele.rpy:1431
 translate chinese vip_sadira_1_label_2_3db7599a:
@@ -4426,7 +4426,7 @@ translate chinese vip_sadira_1_label_2_0ae9bcd0:
 translate chinese vip_sadira_1_label_2_499b0243:
 
     # Sadira "Mmm..."
-    Sadira "Mmm..."
+    Sadira "嗯..."
 
 # game/logic/events/adele.rpy:1439
 translate chinese vip_sadira_1_label_2_4877ae20:
@@ -4444,7 +4444,7 @@ translate chinese vip_sadira_1_label_2_da8043f2:
 translate chinese vip_sadira_1_label_2_51ffa327:
 
     # Sadira "Mmmm..."
-    Sadira "Mmmm..."
+    Sadira "嗯..."
 
 # game/logic/events/adele.rpy:1443
 translate chinese vip_sadira_1_label_2_0ae9bcd0_1:
@@ -4462,19 +4462,19 @@ translate chinese vip_sadira_1_label_2_21ea4090:
 translate chinese vip_sadira_1_label_2_34279e0c:
 
     # Sadira "Ah..."
-    Sadira "Ah..."
+    Sadira "啊..."
 
 # game/logic/events/adele.rpy:1446
 translate chinese vip_sadira_1_label_2_42199254:
 
     # Sadira "AH..."
-    Sadira "Ah..."
+    Sadira "啊..."
 
 # game/logic/events/adele.rpy:1448
 translate chinese vip_sadira_1_label_2_499b0243_1:
 
     # Sadira "Mmm..."
-    Sadira "Mmm..."
+    Sadira "嗯..."
 
 # game/logic/events/adele.rpy:1449
 translate chinese vip_sadira_1_label_2_0ae9bcd0_2:
@@ -4486,19 +4486,19 @@ translate chinese vip_sadira_1_label_2_0ae9bcd0_2:
 translate chinese vip_sadira_1_label_2_35b7dba8:
 
     # ch_Name "{i}(I don't think I've learned how to use my tongue yet.){/i}"
-    ch_Name "{i}我不认为我已经学会了如何使用我的舌头。{/i}"
+    ch_Name "{i}我就好像不会用舌头一样。{/i}"
 
 # game/logic/events/adele.rpy:1451
 translate chinese vip_sadira_1_label_2_b732c533:
 
     # ch_Name "{i}(But she's a master of her craft, too.){/i}"
-    ch_Name "{i}但她也是她的手艺大师。{/i}"
+    ch_Name "{i}而她却是个手艺大师。{/i}"
 
 # game/logic/events/adele.rpy:1452
 translate chinese vip_sadira_1_label_2_42ace6ff:
 
     # ch_Name "{i}(It's time to see if she can suck just as hard.){/i}"
-    ch_Name "{i}是时候看看她是否能像吸吮一样努力了。{/i}"
+    ch_Name "{i}看看她能给我口得多用力。{/i}"
 
 # game/logic/events/adele.rpy:1454
 translate chinese vip_sadira_1_label_2_3f8f5693:
@@ -4510,13 +4510,13 @@ translate chinese vip_sadira_1_label_2_3f8f5693:
 translate chinese vip_sadira_1_label_2_caeeb467:
 
     # Sadira "М?"
-    Sadira "M?"
+    Sadira "嗯？"
 
 # game/logic/events/adele.rpy:1456
 translate chinese vip_sadira_1_label_2_3368d128:
 
     # ch_Name "I can't wait any longer."
-    ch_Name "我不能再等了。"
+    ch_Name "我等不及了。"
 
 # game/logic/events/adele.rpy:1457
 translate chinese vip_sadira_1_label_2_53a55501:
@@ -4528,7 +4528,7 @@ translate chinese vip_sadira_1_label_2_53a55501:
 translate chinese vip_sadira_1_label_2_177d347c:
 
     # Sadira "Mmmm..." with vpunch
-    Sadira "Mmmm..." with vpunch
+    Sadira "嗯..." with vpunch
 
 # game/logic/events/adele.rpy:1461
 translate chinese vip_sadira_1_label_2_64fd0034:
@@ -4552,7 +4552,7 @@ translate chinese vip_sadira_1_label_2_eee686cf_2:
 translate chinese vip_sadira_1_label_2_ca543b57:
 
     # Sadira "Mhm..."
-    Sadira "Mhm..."
+    Sadira "嗯..."
 
 # game/logic/events/adele.rpy:1465
 translate chinese vip_sadira_1_label_2_b446dd7a:
@@ -4588,13 +4588,13 @@ translate chinese vip_sadira_1_label_2_dfc928ff:
 translate chinese vip_sadira_1_label_2_ca543b57_1:
 
     # Sadira "Mhm..."
-    Sadira "Mhm..."
+    Sadira "嗯..."
 
 # game/logic/events/adele.rpy:1473
 translate chinese vip_sadira_1_label_2_3e401e8d:
 
     # ch_Name "{i}(Unbelievable...){/i}"
-    ch_Name "难以置信的..."
+    ch_Name "简直令人难以置信..."
 
 # game/logic/events/adele.rpy:1474
 translate chinese vip_sadira_1_label_2_0ae9bcd0_5:
@@ -4618,13 +4618,13 @@ translate chinese vip_sadira_1_label_2_6394ed59:
 translate chinese vip_sadira_1_label_2_0681017a:
 
     # ch_Name "{i}(It's worth the money, that's for sure...){/i}"
-    ch_Name "{i}(这是物有所值的，这是肯定的...){/i}"
+    ch_Name "{i}(毫无疑问，这物有所值...){/i}"
 
 # game/logic/events/adele.rpy:1479
 translate chinese vip_sadira_1_label_2_0a11198e:
 
     # Sadira "Mm-hmm..."
-    Sadira "Mm-hmm..."
+    Sadira "嗯嗯..."
 
 # game/logic/events/adele.rpy:1480
 translate chinese vip_sadira_1_label_2_0ae9bcd0_6:
@@ -4642,7 +4642,7 @@ translate chinese vip_sadira_1_label_2_51eb371d:
 translate chinese vip_sadira_1_label_2_304273ff:
 
     # ch_Name "Keep it up, baby."
-    ch_Name "坚持下去，宝贝。"
+    ch_Name "继续，宝贝。"
 
 # game/logic/events/adele.rpy:1483
 translate chinese vip_sadira_1_label_2_033c830d:
@@ -4660,13 +4660,13 @@ translate chinese vip_sadira_1_label_2_5da7d200:
 translate chinese vip_sadira_1_label_2_53b00b3b:
 
     # ch_Name "Mm-hmm..."
-    ch_Name "Mm-hmm..."
+    ch_Name "嗯嗯..."
 
 # game/logic/events/adele.rpy:1487
 translate chinese vip_sadira_1_label_2_b80848fe:
 
     # ch_Name "{i}(She's right, I can't keep up.){/i}"
-    ch_Name "{i}(她是对的，我跟不上。){/i}"
+    ch_Name "{i}(她是对的，我跟不上了。){/i}"
 
 # game/logic/events/adele.rpy:1488
 translate chinese vip_sadira_1_label_2_ad434e23:
@@ -4678,13 +4678,13 @@ translate chinese vip_sadira_1_label_2_ad434e23:
 translate chinese vip_sadira_1_label_2_730d2dfc:
 
     # Sadira "Ah! Ah!"
-    Sadira "Ah! Ah!"
+    Sadira "啊！啊！"
 
 # game/logic/events/adele.rpy:1491
 translate chinese vip_sadira_1_label_2_a6c4a2be:
 
     # Sadira "Ah! Oh yeah..."
-    Sadira "啊! 哦耶..."
+    Sadira "啊！哦耶..."
 
 # game/logic/events/adele.rpy:1492
 translate chinese vip_sadira_1_label_2_0ae9bcd0_7:
@@ -4702,19 +4702,19 @@ translate chinese vip_sadira_1_label_2_56d013d8:
 translate chinese vip_sadira_1_label_2_a3139d9a:
 
     # ch_Name "{i}(I'm almost at my limit. She's too good.){/i}"
-    ch_Name "{i}(我觉得我在这里。){/i}"
+    ch_Name "{i}(我要坚持不住了。她太棒了。){/i}"
 
 # game/logic/events/adele.rpy:1495
 translate chinese vip_sadira_1_label_2_6b389b7e:
 
     # ch_Name "I'm..."
-    ch_Name "我是..."
+    ch_Name "我要..."
 
 # game/logic/events/adele.rpy:1497
 translate chinese vip_sadira_1_label_2_2fda9a58:
 
     # ch_Name "{i}(If this keeps up, I'm going to come.){/i}"
-    ch_Name "{i}(再这样下去，我就来了。){/i}"
+    ch_Name "{i}(再这样下去，我就要射了。){/i}"
 
 # game/logic/events/adele.rpy:1498
 translate chinese vip_sadira_1_label_2_fe881b29:
@@ -4726,19 +4726,19 @@ translate chinese vip_sadira_1_label_2_fe881b29:
 translate chinese vip_sadira_1_label_2_7494d93a:
 
     # ch_Name "I'm going to come soon. Don't stop!"
-    ch_Name "我马上就要来了。 不要停下来！"
+    ch_Name "我马上就要射了。不要停下来！"
 
 # game/logic/events/adele.rpy:1500
 translate chinese vip_sadira_1_label_2_0a11198e_1:
 
     # Sadira "Mm-hmm..."
-    Sadira "Mm-hmm..."
+    Sadira "嗯..."
 
 # game/logic/events/adele.rpy:1502
 translate chinese vip_sadira_1_label_2_2a9bad9f:
 
     # Sadira "Good! Me too..."
-    Sadira "善！ 我也是..."
+    Sadira "太棒了！我也是..."
 
 # game/logic/events/adele.rpy:1503
 translate chinese vip_sadira_1_label_2_d5790951:
@@ -4756,7 +4756,7 @@ translate chinese vip_sadira_1_label_2_a2454e19:
 translate chinese vip_sadira_1_label_2_09ab5796:
 
     # ch_Name "{i}(What is it... Why did she stop?){/i}"
-    ch_Name "{i}(这是什么……她为什么停下来？){/i}"
+    ch_Name "{i}(怎么了… …她为什么停下来了？){/i}"
 
 # game/logic/events/adele.rpy:1507
 translate chinese vip_sadira_1_label_2_5a497ad4:
@@ -4768,25 +4768,25 @@ translate chinese vip_sadira_1_label_2_5a497ad4:
 translate chinese vip_sadira_1_label_2_8c41bb6f:
 
     # ch_Name "Ah..."
-    ch_Name "Ah..."
+    ch_Name "啊..."
 
 # game/logic/events/adele.rpy:1509
 translate chinese vip_sadira_1_label_2_dc34394b:
 
     # ch_Name "{i}(Her tongue is running so nicely over my head. It's like she's going to...){/i}"
-    ch_Name "{i}(她的舌头在我的头上跑得那么好。 好像她会这样...){/i}"
+    ch_Name "{i}(她的舌头在我的龟头上舔得很好。好像她要...){/i}"
 
 # game/logic/events/adele.rpy:1511
 translate chinese vip_sadira_1_label_2_956c68f6:
 
     # ch_Name "Ah!" with vpunch
-    ch_Name "Ah!" with vpunch
+    ch_Name "啊!" with vpunch
 
 # game/logic/events/adele.rpy:1512
 translate chinese vip_sadira_1_label_2_b78e2d9c:
 
     # ch_Name "{i}(Wow... In just a moment she has it all in her mouth.){/i}"
-    ch_Name "{i}(哇...一瞬间，她把这一切都塞进了嘴里。){/i}"
+    ch_Name "{i}(哇...一下子她全都吞进去了。){/i}"
 
 # game/logic/events/adele.rpy:1513
 translate chinese vip_sadira_1_label_2_67d36fab:
@@ -4804,7 +4804,7 @@ translate chinese vip_sadira_1_label_2_f5a1921c:
 translate chinese vip_sadira_1_label_2_499b0243_2:
 
     # Sadira "Mmm..."
-    Sadira "Mmm..."
+    Sadira "嗯..."
 
 # game/logic/events/adele.rpy:1517
 translate chinese vip_sadira_1_label_2_bbc6dd13:
@@ -4828,7 +4828,7 @@ translate chinese vip_sadira_1_label_2_ee177493:
 translate chinese vip_sadira_1_label_2_7bd4e091:
 
     # ch_Name "Ah!" with flash
-    ch_Name "Ah!" with flash
+    ch_Name "啊!" with flash
 
 # game/logic/events/adele.rpy:1522
 translate chinese vip_sadira_1_label_2_a90d3870:
@@ -4858,13 +4858,13 @@ translate chinese vip_sadira_1_label_2_5d9efeb9:
 translate chinese vip_sadira_1_label_2_c40077d3:
 
     # ch_Name "I'm all..."
-    ch_Name "我是全部..."
+    ch_Name "已经全部..."
 
 # game/logic/events/adele.rpy:1529
 translate chinese vip_sadira_1_label_2_bbf8a1e4:
 
     # Sadira "I noticed."
-    Sadira "我注意到。"
+    Sadira "我注意到了。"
 
 # game/logic/events/adele.rpy:1536
 translate chinese vip_sadira_1_label_2_fd37d9d3:
@@ -4876,7 +4876,7 @@ translate chinese vip_sadira_1_label_2_fd37d9d3:
 translate chinese vip_sadira_1_label_2_3948569b:
 
     # ch_Name "Your face is all messed up."
-    ch_Name "你的脸全乱了。"
+    ch_Name "你的脸上一塌糊涂。"
 
 # game/logic/events/adele.rpy:1538
 translate chinese vip_sadira_1_label_2_2ab14bc2:
@@ -4888,13 +4888,13 @@ translate chinese vip_sadira_1_label_2_2ab14bc2:
 translate chinese vip_sadira_1_label_2_8a732084:
 
     # Sadira "You were great."
-    Sadira "你很棒。"
+    Sadira "你真棒。"
 
 # game/logic/events/adele.rpy:1541
 translate chinese vip_sadira_1_label_2_9fab1f49:
 
     # ch_Name "We should do it again sometime."
-    ch_Name "我们应该在某个时候再做一次。"
+    ch_Name "我们应该改天再做一次。"
 
 # game/logic/events/adele.rpy:1542
 translate chinese vip_sadira_1_label_2_5939d53d:
