@@ -18984,3 +18984,65 @@ translate chinese Haley_22_label_26c0c8c0:
     # ch_Name "..at any time, day or night."
     ch_Name "。。。在白天和晚上的任何时候。"
 
+# TODO: Translation updated at 2022-07-27 11:35
+
+# game/logic/events/haley.rpy:2309
+translate chinese Haley_14_label_4213b8cb:
+
+    # ch_Name "All that I want is to be close to you."
+    ch_Name "我只想和你在一起。"
+
+# game/logic/events/haley.rpy:4019
+translate chinese Haley_20_label_from_gallery_5372c5ea:
+
+    # Haley "But what I feel when I'm with you... It is much deeper than sympathy or admiration."
+    Haley "但是，当我和你在一起时，我的感觉。。。它比同情或钦佩要深得多。"
+
+# game/logic/events/haley.rpy:3053
+translate chinese CF_Haley_2_label_f5cb13d6:
+
+    # Haley "I'm gonna go for a walk now."
+    Haley "我现在要去散步了。"
+
+# game/logic/events/haley.rpy:2929
+translate chinese CF_Haley_1_label_487cf066:
+
+    # Haley "Oh, my..."
+    Haley ""
+
+# game/logic/events/haley.rpy:2930
+translate chinese CF_Haley_1_label_1855220c:
+
+    # ch_Name "What?"
+    ch_Name ""
+
+# game/logic/events/haley.rpy:2931
+translate chinese CF_Haley_1_label_1f6de5eb:
+
+    # Haley "I completely forgot about my grandmother. Today is her birthday."
+    Haley ""
+
+# game/logic/events/haley.rpy:2932
+translate chinese CF_Haley_1_label_ae6b3a71:
+
+    # Haley "...so I better go phone her before it gets too late."
+    Haley ""
+
+# game/logic/events/haley.rpy:2933
+translate chinese CF_Haley_1_label_20f04dbc:
+
+    # Haley "And you have a good coffee and a good day!"
+    Haley ""
+
+# game/logic/events/haley.rpy:2934
+translate chinese CF_Haley_1_label_5c4cd0ee:
+
+    # ch_Name "Thank you, Haley. Bye-bye."
+    ch_Name ""
+
+# game/logic/events/haley.rpy:2935
+translate chinese CF_Haley_1_label_89a8ed00:
+
+    # Haley "See you later, [Name]."
+    Haley ""
+

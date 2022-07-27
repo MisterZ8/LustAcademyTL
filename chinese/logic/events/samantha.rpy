@@ -8562,3 +8562,23 @@ translate chinese Samantha_14_label_ceb27b58:
     # Samantha "For God's sake, what was that about?!"
     Samantha "看在上帝的份上，它是关于什么的？"
 
+# TODO: Translation updated at 2022-07-27 11:35
+
+# game/logic/events/samantha.rpy:1844
+translate chinese Samantha_12_label_60459376:
+
+    # Samantha "But I can tell you - she's just as harmless as belladonna's flowers, that's for sure."
+    Samantha "但我可以说，她就像颠茄花一样无害，这是肯定的。"
+
+# game/logic/events/samantha.rpy:1845
+translate chinese Samantha_12_label_32705fae:
+
+    # Samantha "At the age of 12, she won battles with grown-up magicians!"
+    Samantha "在她的12年里，她战胜了成年魔术师！"
+
+# game/logic/events/samantha.rpy:1931
+translate chinese Samantha_12_label_323a6812:
+
+    # Samantha "Dakota is a lot more complicated than it seems."
+    Samantha "Dakota看起来要复杂得多。"
+

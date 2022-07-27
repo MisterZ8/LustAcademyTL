@@ -410,3 +410,20 @@ translate chinese strings:
     old "SOUND VOLUME"
     new "音效音量"
 
+# TODO: Translation updated at 2022-07-27 11:35
+
+translate chinese strings:
+
+    # game/screens.rpy:2359
+    old "%m/%d/%Y %H:%M"
+    new "%m/%d/%Y %H:%M"
+    
+    # game/screens.rpy:2197
+    old "Transfer"
+    new ""
+
+    # game/screens.rpy:2308
+    old "Choose a save file with progress that you want to transfer to the next season"
+    new ""
+
+

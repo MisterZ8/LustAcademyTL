@@ -1154,3 +1154,23 @@ translate chinese strings:
     old "high contrast text"
     new "高对比度文本"
 
+# TODO: Translation updated at 2022-07-27 11:35
+
+translate chinese strings:
+
+    # renpy/common/00action_other.rpy:703
+    old "Open [text] directory."
+    new ""
+
+    # renpy/common/00preferences.rpy:507
+    old "audio when minimized"
+    new ""
+
+    # renpy/common/00preferences.rpy:527
+    old "main volume"
+    new ""
+
+    # renpy/common/00preferences.rpy:531
+    old "mute main"
+    new ""
+
