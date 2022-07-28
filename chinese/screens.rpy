@@ -118,7 +118,7 @@ translate chinese strings:
 
     # game/screens.rpy:2855
     old "Opens the list of available routes."
-    new "打开可用路由列表。"
+    new "打开可用路线列表。"
 
     # game/screens.rpy:2880
     old "Takes a screenshot."
@@ -420,10 +420,10 @@ translate chinese strings:
     
     # game/screens.rpy:2197
     old "Transfer"
-    new ""
+    new "转移存档"
 
     # game/screens.rpy:2308
     old "Choose a save file with progress that you want to transfer to the next season"
-    new ""
+    new "请选择一份你认为合适的存档文件，将此进度导入下一季游戏中。"
 
 
