@@ -19008,41 +19008,41 @@ translate chinese CF_Haley_2_label_f5cb13d6:
 translate chinese CF_Haley_1_label_487cf066:
 
     # Haley "Oh, my..."
-    Haley ""
+    Haley "嗷，我的……"
 
 # game/logic/events/haley.rpy:2930
 translate chinese CF_Haley_1_label_1855220c:
 
     # ch_Name "What?"
-    ch_Name ""
+    ch_Name "怎么了？"
 
 # game/logic/events/haley.rpy:2931
 translate chinese CF_Haley_1_label_1f6de5eb:
 
     # Haley "I completely forgot about my grandmother. Today is her birthday."
-    Haley ""
+    Haley "我差点把我奶奶的事忘了，今天是她生日。"
 
 # game/logic/events/haley.rpy:2932
 translate chinese CF_Haley_1_label_ae6b3a71:
 
     # Haley "...so I better go phone her before it gets too late."
-    Haley ""
+    Haley "最好趁时间还来得及，我要打个电话给她。"
 
 # game/logic/events/haley.rpy:2933
 translate chinese CF_Haley_1_label_20f04dbc:
 
     # Haley "And you have a good coffee and a good day!"
-    Haley ""
+    Haley "好好享受你的咖啡吧，还有，今天也要开心哦！"
 
 # game/logic/events/haley.rpy:2934
 translate chinese CF_Haley_1_label_5c4cd0ee:
 
     # ch_Name "Thank you, Haley. Bye-bye."
-    ch_Name ""
+    ch_Name "谢了，Haley。拜拜。"
 
 # game/logic/events/haley.rpy:2935
 translate chinese CF_Haley_1_label_89a8ed00:
 
     # Haley "See you later, [Name]."
-    Haley ""
+    Haley "再见，[Name]。"
 
