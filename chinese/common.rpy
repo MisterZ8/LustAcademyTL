@@ -1160,17 +1160,17 @@ translate chinese strings:
 
     # renpy/common/00action_other.rpy:703
     old "Open [text] directory."
-    new ""
+    new "打开[text]目录"
 
     # renpy/common/00preferences.rpy:507
     old "audio when minimized"
-    new ""
+    new "最小化时的音频"
 
     # renpy/common/00preferences.rpy:527
     old "main volume"
-    new ""
+    new "主音量"
 
     # renpy/common/00preferences.rpy:531
     old "mute main"
-    new ""
+    new "主音量静音"
 
