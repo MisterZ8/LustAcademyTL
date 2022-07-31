@@ -10644,7 +10644,7 @@ translate chinese Leona_10_label_72297a83:
 translate chinese Leona_10_label_9bc28c99:
 
     # ch_Name "I trust you. Just not 100%%."
-    ch_Name "我相信你。只是没有100%的信任。"
+    ch_Name "我相信你。只是没有100%%的信任。"
 
 # game/logic/events/Leona.rpy:2803
 translate chinese Leona_10_label_cbc65fd5:
