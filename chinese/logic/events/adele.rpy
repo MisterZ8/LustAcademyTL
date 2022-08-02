@@ -5950,61 +5950,61 @@ translate chinese Vanessa_2_label_12719f08:
 translate chinese Vanessa_2_label_770e6d6b:
 
     # ch_Name "Intriguing."
-    ch_Name "Intriguing."
+    ch_Name "有意思。"
 
 # game/logic/events/adele.rpy:1807
 translate chinese Vanessa_2_label_c724fae0:
 
     # ch_Name "M-m-m-m-m..."
-    ch_Name "M-m-m-m-m..."
+    ch_Name "嗯嗯嗯..."
 
 # game/logic/events/adele.rpy:1809
 translate chinese Vanessa_2_label_75a4cb88:
 
     # Vanessa "What do you think?"
-    Vanessa "你怎么认为？"
+    Vanessa "感觉怎么样？"
 
 # game/logic/events/adele.rpy:1810
 translate chinese Vanessa_2_label_7144357c:
 
     # ch_Name "It's perfect!"
-    ch_Name "这是完美的！"
+    ch_Name "简直完美！"
 
 # game/logic/events/adele.rpy:1811
 translate chinese Vanessa_2_label_561e5440:
 
     # ch_Name "Uh..."
-    ch_Name "Uh..."
+    ch_Name "呃..."
 
 # game/logic/events/adele.rpy:1812
 translate chinese Vanessa_2_label_ed2d6c9e:
 
     # ch_Name "{i}(It's like a liquid flame spreading inside...){/i}"
-    ch_Name "{i}(就像是在里面蔓延的液态火焰...){/i}"
+    ch_Name "{i}(就像是在我体内蔓延的液态火焰...){/i}"
 
 # game/logic/events/adele.rpy:1814
 translate chinese Vanessa_2_label_e10bb4c1:
 
     # Vanessa "Do you feel something?"
-    Vanessa "你有感觉吗？"
+    Vanessa "感觉到什么了吗？"
 
 # game/logic/events/adele.rpy:1815
 translate chinese Vanessa_2_label_561e5440_1:
 
     # ch_Name "Uh..."
-    ch_Name "Uh..."
+    ch_Name "呃..."
 
 # game/logic/events/adele.rpy:1816
 translate chinese Vanessa_2_label_f2811d10:
 
     # ch_Name "I feel like I've had enough for now."
-    ch_Name "我觉得我现在已经受够了。"
+    ch_Name "我觉得我受不了了。"
 
 # game/logic/events/adele.rpy:1817
 translate chinese Vanessa_2_label_9bd674f2:
 
     # Vanessa "Come on, we'll talk for a while and then do it again."
-    Vanessa "来吧，我们会聊一会儿，然后再做一次。"
+    Vanessa "别这样，我们聊一会儿，然后再做来一次。"
 
 # game/logic/events/adele.rpy:1820
 translate chinese Vanessa_2_label_ab5e3888:
@@ -6022,25 +6022,25 @@ translate chinese Vanessa_2_label_bcf764b0:
 translate chinese Vanessa_2_label_2e861e21:
 
     # Vanessa "Are you saying you're at the bar to have a juice?"
-    Vanessa "你是说你在酒吧喝果汁吗？"
+    Vanessa "你是说你要在酒吧喝果汁吗？"
 
 # game/logic/events/adele.rpy:1825
 translate chinese Vanessa_2_label_3c51277f:
 
     # ch_Name "Yeah, why not. You said I have to order something."
-    ch_Name "是啊，为什么不呢。 你说我得点东西。"
+    ch_Name "是啊，有何不可。你说了我得点东西。"
 
 # game/logic/events/adele.rpy:1826
 translate chinese Vanessa_2_label_975e2f93:
 
     # ch_Name "I'll try to act as if I'm not sober."
-    ch_Name "我会试着表现得好像我没有清醒一样。"
+    ch_Name "我会假装我已经喝醉了。"
 
 # game/logic/events/adele.rpy:1827
 translate chinese Vanessa_2_label_76f13220:
 
     # Vanessa "Let's see..."
-    Vanessa "让我们来看看..."
+    Vanessa "我看看..."
 
 # game/logic/events/adele.rpy:1829
 translate chinese Vanessa_2_label_57e4156d:
@@ -6052,7 +6052,7 @@ translate chinese Vanessa_2_label_57e4156d:
 translate chinese Vanessa_2_label_faa31f53:
 
     # Vanessa "Always a \"pleasure\" to serve you a drink."
-    Vanessa "总是\"愉快\"地为您服务。"
+    Vanessa "为您服务是我的\"荣幸\"。"
 
 # game/logic/events/adele.rpy:1831
 translate chinese Vanessa_2_label_c3b177de:
@@ -6070,7 +6070,7 @@ translate chinese Vanessa_2_label_f0da2a5f:
 translate chinese Vanessa_2_label_c7a5db15:
 
     # Vanessa "I don't know why am I acting like that. Shit day."
-    Vanessa "我不知道为什么我会这样。 狗屎的一天。"
+    Vanessa "我不知道为什么我会这样。今天糟透了。"
 
 # game/logic/events/adele.rpy:1834
 translate chinese Vanessa_2_label_05f41882:
@@ -6082,7 +6082,7 @@ translate chinese Vanessa_2_label_05f41882:
 translate chinese Vanessa_2_label_1c2c328c:
 
     # ch_Name "Nah, I guess I'll pass."
-    ch_Name "不，我想我会通过的。"
+    ch_Name "不，还是算了吧。"
 
 # game/logic/events/adele.rpy:1838
 translate chinese Vanessa_2_label_47c67985:
@@ -6112,7 +6112,7 @@ translate chinese Vanessa_2_label_09c86917:
 translate chinese Vanessa_2_label_6b3cc339:
 
     # ch_Name "{i}(I would not recommend this place for service, that's for sure.){/i}"
-    ch_Name "{i}(我不会推荐这个地方提供服务，这是肯定的。){/i}"
+    ch_Name "{i}(我肯定不会推荐这个地方，尤其是这里的服务。){/i}"
 
 # game/logic/events/adele.rpy:1861
 translate chinese Vanessa_2_label_c2fe6367:
@@ -6124,31 +6124,31 @@ translate chinese Vanessa_2_label_c2fe6367:
 translate chinese Vanessa_2_label_fad0ac1e:
 
     # ch_Name "He said either pay your rent or get out."
-    ch_Name "他说要么付房租要么出去。"
+    ch_Name "他说要么付房租要么滚出去。"
 
 # game/logic/events/adele.rpy:1863
 translate chinese Vanessa_2_label_3f931d48:
 
     # Vanessa "What an asshole. I'd have hit him."
-    Vanessa "真是个混蛋。 我会打他的。"
+    Vanessa "真是个混蛋。我会暴揍他一顿。"
 
 # game/logic/events/adele.rpy:1865
 translate chinese Vanessa_2_label_c3f2c331:
 
     # Vanessa "Listen, my shift's about to end... I was thinking about dinner."
-    Vanessa "听着，我的轮班就要结束了...我在想晚餐。"
+    Vanessa "听着，我的轮班就要结束了...我在想今晚吃什么。"
 
 # game/logic/events/adele.rpy:1866
 translate chinese Vanessa_2_label_3d217465:
 
     # Vanessa "Would you do me the honor?"
-    Vanessa "你愿意给我一份荣誉吗"
+    Vanessa "你能赏个脸吗？"
 
 # game/logic/events/adele.rpy:1867
 translate chinese Vanessa_2_label_7151a6f7:
 
     # ch_Name "Are you asking me for a date?"
-    ch_Name "你问我约会吗？"
+    ch_Name "你在邀请我约会吗？"
 
 # game/logic/events/adele.rpy:1868
 translate chinese Vanessa_2_label_32c76e5b:
@@ -6184,7 +6184,7 @@ translate chinese Vanessa_2_label_13ba949c:
 translate chinese Vanessa_2_label_6f87156d:
 
     # Vanessa "Out, please!"
-    Vanessa "请出去！"
+    Vanessa "这边出去，请！"
 
 # game/logic/events/adele.rpy:1881
 translate chinese Vanessa_2_label_555f56b0:
@@ -6202,7 +6202,7 @@ translate chinese Vanessa_2_label_c6acf879:
 translate chinese Vanessa_2_label_f688a74e:
 
     # Vanessa "Follow me."
-    Vanessa "跟着我。"
+    Vanessa "跟我来。"
 
 # game/logic/events/adele.rpy:1890
 translate chinese Vanessa_2_label_7b090617:
@@ -6214,7 +6214,7 @@ translate chinese Vanessa_2_label_7b090617:
 translate chinese Vanessa_2_label_de5ce558:
 
     # Vanessa "I think it's a perfect place."
-    Vanessa "我认为这是一个完美的地方。"
+    Vanessa "我觉得这是一个完美的地方。"
 
 # game/logic/events/adele.rpy:1892
 translate chinese Vanessa_2_label_bbabe32d:
@@ -6256,25 +6256,25 @@ translate chinese Vanessa_2_label_7227e7e7:
 translate chinese Vanessa_2_label_5a67621a:
 
     # Vanessa "No. I am starving."
-    Vanessa "不，我饿死了。"
+    Vanessa "不，我确实要饿死了。"
 
 # game/logic/events/adele.rpy:1902
 translate chinese Vanessa_2_label_dcac6353:
 
     # Vanessa "And I am dining."
-    Vanessa "而我正在用餐。"
+    Vanessa "已经开饭了。"
 
 # game/logic/events/adele.rpy:1903
 translate chinese Vanessa_2_label_bec78353:
 
     # Vanessa "Right now."
-    Vanessa "现在。"
+    Vanessa "就现在。"
 
 # game/logic/events/adele.rpy:1909
 translate chinese Vanessa_2_label_ccc89391:
 
     # ch_Name "I'm not going to let you get away with this."
-    ch_Name "我不会让你逍遥法外的。"
+    ch_Name "我不会让你就这么走掉的。"
 
 # game/logic/events/adele.rpy:1911
 translate chinese Vanessa_2_label_2dfdb7af:
@@ -6286,13 +6286,13 @@ translate chinese Vanessa_2_label_2dfdb7af:
 translate chinese Vanessa_2_label_befe08a9:
 
     # ch_Name "What the..."
-    ch_Name "什么的..."
+    ch_Name "搞毛..."
 
 # game/logic/events/adele.rpy:1913
 translate chinese Vanessa_2_label_51917e13:
 
     # Vanessa "My special cocktail is working. You can't resist."
-    Vanessa "我的特别鸡尾酒正在起作用。 你无法抗拒。"
+    Vanessa "我的特调鸡尾酒正在起作用。 你无法抗拒。"
 
 # game/logic/events/adele.rpy:1915
 translate chinese Vanessa_2_label_6799a05f:
@@ -6322,19 +6322,19 @@ translate chinese Vanessa_2_label_0672a695:
 translate chinese Vanessa_2_label_0b378e4a:
 
     # Vanessa "Shit!"
-    Vanessa "拉屎！"
+    Vanessa "卧槽！"
 
 # game/logic/events/adele.rpy:1923
 translate chinese Vanessa_2_label_b708db27:
 
     # Vanessa "Come here, you bastard!"
-    Vanessa "来这里，你这个混蛋！"
+    Vanessa "给我回来，你这个混蛋！"
 
 # game/logic/events/adele.rpy:1925
 translate chinese Vanessa_2_label_9583e414:
 
     # ch_Name "I think I'm safe!"
-    ch_Name "我想我很安全！"
+    ch_Name "这里很安全！"
 
 # game/logic/events/adele.rpy:1927
 translate chinese Vanessa_2_label_9bd419b6:
@@ -6346,7 +6346,7 @@ translate chinese Vanessa_2_label_9bd419b6:
 translate chinese Vanessa_2_label_b8d94e9f:
 
     # Vanessa "You weren't really thinking about running away from a vampire, were you?"
-    Vanessa "你不是真的想逃离吸血鬼吧？"
+    Vanessa "你不会真的对吸血鬼避之不及吧？"
 
 # game/logic/events/adele.rpy:1929
 translate chinese Vanessa_2_label_66a347c1:
@@ -6358,19 +6358,19 @@ translate chinese Vanessa_2_label_66a347c1:
 translate chinese Vanessa_2_label_e79f802b:
 
     # ch_Name "Wait... So you're a vampire?"
-    ch_Name "等待... 所以你是吸血鬼？"
+    ch_Name "等一下... 所以你是吸血鬼？"
 
 # game/logic/events/adele.rpy:1932
 translate chinese Vanessa_2_label_402115da:
 
     # ch_Name "Cool! Bite me."
-    ch_Name "凉爽的！ 咬我。"
+    ch_Name "太酷了！快咬我。"
 
 # game/logic/events/adele.rpy:1933
 translate chinese Vanessa_2_label_591e420d:
 
     # Vanessa "{i}(He's... Not against it?){/i}"
-    Vanessa "{i}(他是...不是反对吗？){/i}"
+    Vanessa "{i}(他..不抗拒吗？){/i}"
 
 # game/logic/events/adele.rpy:1936
 translate chinese Vanessa_2_label_c542a804:
@@ -6394,37 +6394,37 @@ translate chinese Vanessa_2_label_f5a1f715:
 translate chinese Vanessa_2_label_c67f54b5:
 
     # Vanessa "Mhm..."
-    Vanessa "Mhm..."
+    Vanessa "嗯..."
 
 # game/logic/events/adele.rpy:1942
 translate chinese Vanessa_2_label_861f5d07:
 
     # Vanessa "That was sweet. And bitter. Just as I like it."
-    Vanessa "那是甜蜜的。 又苦涩。 就像我喜欢的一样。"
+    Vanessa "既甜蜜，又苦涩。正是我喜欢的。"
 
 # game/logic/events/adele.rpy:1943
 translate chinese Vanessa_2_label_dbc46345:
 
     # ch_Name "Blood can taste different?"
-    ch_Name "血的味道可以不同吗？"
+    ch_Name "血的味道有什么不同吗？"
 
 # game/logic/events/adele.rpy:1944
 translate chinese Vanessa_2_label_80e5f028:
 
     # Vanessa "Yeah, of course. Mage's blood is the best."
-    Vanessa "是的，当然。 法师的血是最好的。"
+    Vanessa "是的，当然。法师的血是最好的。"
 
 # game/logic/events/adele.rpy:1945
 translate chinese Vanessa_2_label_b1bbb0be:
 
     # Vanessa "So refreshing..."
-    Vanessa "如此令人耳目一新..."
+    Vanessa "我感觉容光焕发了..."
 
 # game/logic/events/adele.rpy:1947
 translate chinese Vanessa_2_label_76033ade:
 
     # ch_Name "So, am I going to be a vampire now?"
-    ch_Name "那么，我现在会成为吸血鬼吗？"
+    ch_Name "那么，我现在会变成吸血鬼吗？"
 
 # game/logic/events/adele.rpy:1948
 translate chinese Vanessa_2_label_f9fb5885:
@@ -6442,7 +6442,7 @@ translate chinese Vanessa_2_label_5905406b:
 translate chinese Vanessa_2_label_435c6d1e:
 
     # Vanessa "Hah... No, sweetie, nothing like that."
-    Vanessa "哈......不，亲爱的，没有那样的。"
+    Vanessa "哈......不，亲爱的，那种事情是不存在的。"
 
 # game/logic/events/adele.rpy:1952
 translate chinese Vanessa_2_label_e37038b4:
@@ -6466,13 +6466,13 @@ translate chinese Vanessa_2_label_127302d2:
 translate chinese Vanessa_2_label_ae9cbc6e:
 
     # Vanessa "I'm sorry, but no."
-    Vanessa "我很抱歉，但没有。"
+    Vanessa "我很抱歉，没有。"
 
 # game/logic/events/adele.rpy:1957
 translate chinese Vanessa_2_label_1d33ea2e:
 
     # Vanessa "I'm not ready to deal with a new child of the night."
-    Vanessa "我还没有准备好应付一个新来的夜晚。"
+    Vanessa "我还没有准备好应付一个新来的暗夜之子。"
 
 # game/logic/events/adele.rpy:1959
 translate chinese Vanessa_2_label_1c0ebd94:
