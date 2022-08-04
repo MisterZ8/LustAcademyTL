@@ -9550,7 +9550,7 @@ translate chinese Audrey_9_label_L_77_9d78ada4:
 translate chinese Audrey_9_label_L_77_4bfefdb1:
 
     # Audrey "Want to feel you inside me with every fiber of my being."
-    Audrey "想要感受你在我体内的每一根纤维。"
+    Audrey "我想要你进入我的身体，感受你在我体内的每一寸肌肤。"
 
 # game/logic/events/audrey.rpy:2859
 translate chinese Audrey_9_label_L_77_077e8ddd:
@@ -9592,7 +9592,7 @@ translate chinese Audrey_9_label_L_77_d7dae746:
 translate chinese Audrey_9_label_L_77_788e0217:
 
     # ch_Name "That's just amazing! "
-    ch_Name "这是惊人的!"
+    ch_Name "太神奇了！"
 
 # game/logic/events/audrey.rpy:2868
 translate chinese Audrey_9_label_L_77_0b493631_1:
@@ -9610,31 +9610,31 @@ translate chinese Audrey_9_label_L_77_9aa71376:
 translate chinese Audrey_9_label_L_77_d71abb87:
 
     # ch_Name "{i}(I do have a few, but I don't know how to say them...){/i}"
-    ch_Name "{i}(我确实有一些，但我不知道怎么说){/i}"
+    ch_Name "{i}(我确实有话想说，但我不知道怎么说){/i}"
 
 # game/logic/events/audrey.rpy:2872
 translate chinese Audrey_9_label_L_77_f08ae7ff:
 
     # ch_Name "{i}(THOSE TITS ARE SO FUCKING JUICY!){/i}"
-    ch_Name "{i}(你的奶子真他妈多汁!){/i}"
+    ch_Name "{i}(你的奶子真他妈诱人!){/i}"
 
 # game/logic/events/audrey.rpy:2874
 translate chinese Audrey_9_label_L_77_2a5fb0b7:
 
     # Audrey "Pick your jaw up off the floor, boy."
-    Audrey "把你的下巴抬起来，小子。"
+    Audrey "把你的下巴抬起来，小伙子。"
 
 # game/logic/events/audrey.rpy:2876
 translate chinese Audrey_9_label_L_77_7dc084d7:
 
     # Audrey "Watch and enjoy."
-    Audrey "观看和享受。"
+    Audrey "好好看看，好好享受。"
 
 # game/logic/events/audrey.rpy:2877
 translate chinese Audrey_9_label_L_77_3cc55ae9:
 
     # ch_Name "{i}(There. That. Yeah.){/i}"
-    ch_Name "{i}(在那里。那是的。){/i}"
+    ch_Name "{i}(啊耶。){/i}"
 
 # game/logic/events/audrey.rpy:2879
 translate chinese Audrey_9_label_L_77_73f15e61:
@@ -9664,19 +9664,19 @@ translate chinese Audrey_9_label_L_77_fb63fe71:
 translate chinese Audrey_9_label_L_77_141180f2:
 
     # Audrey "Few people can take their eyes off them."
-    Audrey "几乎没有人能把目光从他们身上移开。"
+    Audrey "几乎没有人能把目光从我奶子上移开。"
 
 # game/logic/events/audrey.rpy:2885
 translate chinese Audrey_9_label_L_77_567aca63:
 
     # Audrey "You men are so predictable."
-    Audrey "你们男人太容易预测了。"
+    Audrey "你们男人太容易预判了。"
 
 # game/logic/events/audrey.rpy:2887
 translate chinese Audrey_9_label_L_77_c112ca94:
 
     # Audrey "Too predictable!"
-    Audrey "太可预见的!"
+    Audrey "好预判得不得了！"
 
 # game/logic/events/audrey.rpy:2888
 translate chinese Audrey_9_label_L_77_3d3d9240:
@@ -9700,7 +9700,7 @@ translate chinese Audrey_9_label_L_77_2bbec341:
 translate chinese Audrey_9_label_L_77_9687281b:
 
     # ch_Name "Let's start with those beauties."
-    ch_Name "让我们从这些美女开始。"
+    ch_Name "我们先从这些可爱的小美人开始。"
 
 # game/logic/events/audrey.rpy:2894
 translate chinese Audrey_9_label_L_77_bedf9d5b:
@@ -9712,7 +9712,7 @@ translate chinese Audrey_9_label_L_77_bedf9d5b:
 translate chinese Audrey_9_label_L_77_d78ea350:
 
     # ch_Name "And then we'll think about everything else."
-    ch_Name "然后我们再考虑其他的事情。"
+    ch_Name "之后我们再考虑其他的事情。"
 
 # game/logic/events/audrey.rpy:2897
 translate chinese Audrey_9_label_L_77_9d07a9c2:
@@ -9748,7 +9748,7 @@ translate chinese Audrey_9_label_L_77_2503f4fe:
 translate chinese Audrey_9_label_L_77_188c5931:
 
     # ch_Name "{i}(What a cute view...){/i}"
-    ch_Name "{i}(多么可爱的贴心发型...){/i}"
+    ch_Name "{i}(太可爱了...){/i}"
 
 # game/logic/events/audrey.rpy:2908
 translate chinese Audrey_9_label_L_77_1ab6616d:
@@ -9760,13 +9760,13 @@ translate chinese Audrey_9_label_L_77_1ab6616d:
 translate chinese Audrey_9_label_L_77_185539e3:
 
     # ch_Name "How?"
-    ch_Name "如何?"
+    ch_Name "有多幸运？"
 
 # game/logic/events/audrey.rpy:2911
 translate chinese Audrey_9_label_L_77_19ffe066:
 
     # Audrey "Someone like you to get me..."
-    Audrey "像你这样的人让我..."
+    Audrey "像你这样的人能上我..."
 
 # game/logic/events/audrey.rpy:2913
 translate chinese Audrey_9_label_L_77_f8a399ff:
@@ -9778,19 +9778,19 @@ translate chinese Audrey_9_label_L_77_f8a399ff:
 translate chinese Audrey_9_label_L_77_4170760f:
 
     # Audrey "Like..."
-    Audrey "喜欢..."
+    Audrey "你喜欢..."
 
 # game/logic/events/audrey.rpy:2915
 translate chinese Audrey_9_label_L_77_db9344c9:
 
     # Audrey "Do you like your prize?"
-    Audrey "你喜欢你的奖品吗?"
+    Audrey "你喜欢这样的奖品吗？"
 
 # game/logic/events/audrey.rpy:2917
 translate chinese Audrey_9_label_L_77_1bd915fd:
 
     # Audrey "Although I can see that you do."
-    Audrey "不过我看得出来你有。"
+    Audrey "不过我看得出来你喜欢。"
 
 # game/logic/events/audrey.rpy:2919
 translate chinese Audrey_9_label_L_77_a734a048_1:
@@ -9808,7 +9808,7 @@ translate chinese Audrey_9_label_L_77_b64e3a96:
 translate chinese Audrey_9_label_L_77_f8b1589a:
 
     # ch_Name "I don't know why, but I'm getting pretty tired."
-    ch_Name "我不知道为什么，但我很累了。"
+    ch_Name "我不知道为什么，但我感觉很累。"
 
 # game/logic/events/audrey.rpy:2923
 translate chinese Audrey_9_label_L_77_4e54cd43:
@@ -9820,7 +9820,7 @@ translate chinese Audrey_9_label_L_77_4e54cd43:
 translate chinese Audrey_9_label_L_77_2858ef0c:
 
     # Audrey "Relax, it'll pass."
-    Audrey "放松，它会通过。"
+    Audrey "放松，会没事的。"
 
 # game/logic/events/audrey.rpy:2926
 translate chinese Audrey_9_label_L_77_ecc5ccf0:
@@ -9838,7 +9838,7 @@ translate chinese Audrey_9_label_L_77_0f7c4027:
 translate chinese Audrey_9_label_L_77_602b4416:
 
     # Audrey "And let's get down to business!"
-    Audrey "让我们开始谈正事吧!"
+    Audrey "让我们开始干正事吧!"
 
 # game/logic/events/audrey.rpy:2934
 translate chinese Audrey_9_label_L_77_3e1d98bf_1:
@@ -9862,7 +9862,7 @@ translate chinese Audrey_9_label_L_77_2503f4fe_1:
 translate chinese Audrey_9_label_L_77_02e61f7a:
 
     # ch_Name "{i}(What a cute view...){/i}"
-    ch_Name "{i}(多么可爱的贴心小发型啊...){/i}"
+    ch_Name "{i}(太可爱了...){/i}"
 
 # game/logic/events/audrey.rpy:2939
 translate chinese Audrey_9_label_L_77_1ab6616d_1:
@@ -9874,13 +9874,13 @@ translate chinese Audrey_9_label_L_77_1ab6616d_1:
 translate chinese Audrey_9_label_L_77_185539e3_1:
 
     # ch_Name "How?"
-    ch_Name "如何?"
+    ch_Name "多幸运？"
 
 # game/logic/events/audrey.rpy:2942
 translate chinese Audrey_9_label_L_77_19ffe066_1:
 
     # Audrey "Someone like you to get me..."
-    Audrey "像你这样的人让我..."
+    Audrey "像你这样的人能上我..."
 
 # game/logic/events/audrey.rpy:2944
 translate chinese Audrey_9_label_L_77_f8a399ff_1:
@@ -9892,13 +9892,13 @@ translate chinese Audrey_9_label_L_77_f8a399ff_1:
 translate chinese Audrey_9_label_L_77_4170760f_1:
 
     # Audrey "Like..."
-    Audrey "喜欢..."
+    Audrey "你喜欢..."
 
 # game/logic/events/audrey.rpy:2946
 translate chinese Audrey_9_label_L_77_db9344c9_1:
 
     # Audrey "Do you like your prize?"
-    Audrey "你喜欢你的奖品吗?"
+    Audrey "你喜欢这样的奖品吗?"
 
 # game/logic/events/audrey.rpy:2948
 translate chinese Audrey_9_label_L_77_9f3e6d4a:
@@ -9922,7 +9922,7 @@ translate chinese Audrey_9_label_L_77_9802e321:
 translate chinese Audrey_9_label_L_77_f8b1589a_1:
 
     # ch_Name "I don't know why, but I'm getting pretty tired."
-    ch_Name "我不知道为什么，但我很累了。"
+    ch_Name "我不知道为什么，但我感觉很累。"
 
 # game/logic/events/audrey.rpy:2954
 translate chinese Audrey_9_label_L_77_4e54cd43_1:
@@ -9934,7 +9934,7 @@ translate chinese Audrey_9_label_L_77_4e54cd43_1:
 translate chinese Audrey_9_label_L_77_2858ef0c_1:
 
     # Audrey "Relax, it'll pass."
-    Audrey "放松，它会通过。"
+    Audrey "放松，会没事的。"
 
 # game/logic/events/audrey.rpy:2957
 translate chinese Audrey_9_label_L_77_ecc5ccf0_1:
@@ -9952,13 +9952,13 @@ translate chinese Audrey_9_label_L_77_0f7c4027_1:
 translate chinese Audrey_9_label_L_77_602b4416_1:
 
     # Audrey "And let's get down to business!"
-    Audrey "让我们开始谈正事吧!"
+    Audrey "让我们开始干正事吧!"
 
 # game/logic/events/audrey.rpy:2974
 translate chinese Audrey_9_label_L_184_7db41b82:
 
     # Audrey "Come here, handsome."
-    Audrey "过来，英俊。"
+    Audrey "过来，帅哥。"
 
 # game/logic/events/audrey.rpy:2975
 translate chinese Audrey_9_label_L_184_859b023a:
@@ -9970,7 +9970,7 @@ translate chinese Audrey_9_label_L_184_859b023a:
 translate chinese Audrey_9_label_L_184_531bb326:
 
     # ch_Name "{i}(What a strange thing she's doing...){/i}"
-    ch_Name "{i}(她在做一件多么奇怪的事啊...){/i}"
+    ch_Name "{i}(她的表现很奇怪...){/i}"
 
 # game/logic/events/audrey.rpy:2978
 translate chinese Audrey_9_label_L_184_4a68296c:
@@ -10030,7 +10030,7 @@ translate chinese Audrey_9_label_L_184_c90a8ee7:
 translate chinese Audrey_9_label_L_184_fccecc40:
 
     # Audrey "Yeah, I didn't think you'd be that easy to get."
-    Audrey "是啊，我没想到你这么好找。"
+    Audrey "是啊，我没想到你这么直接。"
 
 # game/logic/events/audrey.rpy:2991
 translate chinese Audrey_9_label_L_184_3f08abbc:
@@ -10042,19 +10042,19 @@ translate chinese Audrey_9_label_L_184_3f08abbc:
 translate chinese Audrey_9_label_L_184_43819a01:
 
     # Audrey "I don't want to see such a beautiful boner go to waste."
-    Audrey "我不想看到这么漂亮的老二浪费掉。"
+    Audrey "我不想看到这么漂亮的老二就这样软掉。"
 
 # game/logic/events/audrey.rpy:2994
 translate chinese Audrey_9_label_L_184_aad58497:
 
     # Audrey "Welcome, my hero. Come into me!"
-    Audrey "欢迎，我的英雄。到我!"
+    Audrey "欢迎，我的英雄。进入我的身体吧！"
 
 # game/logic/events/audrey.rpy:2995
 translate chinese Audrey_9_label_L_184_b62e5672:
 
     # ch_Name "{i}(There she is. Daring and stern Audrey, spreading her legs and begging me to come in.){/i}"
-    ch_Name "{i}(她就在那儿。勇敢而严厉的Audrey张开双腿，求我进去。){/i}"
+    ch_Name "{i}(这就是她。胆大且高冷的Audrey张开双腿，求我进去。){/i}"
 
 # game/logic/events/audrey.rpy:2996
 translate chinese Audrey_9_label_L_184_dea75e42:
@@ -10072,13 +10072,13 @@ translate chinese Audrey_9_label_L_184_e1e37224:
 translate chinese Audrey_9_label_L_184_2077bb60:
 
     # ch_Name "{i}(I can feel her longing for it. Why am I so tired?){/i}"
-    ch_Name "{i}(我能感觉到她的渴望。为什么我这么累?){/i}"
+    ch_Name "{i}(我能感觉到她的渴望。为什么我这么累?？){/i}"
 
 # game/logic/events/audrey.rpy:3000
 translate chinese Audrey_9_label_L_184_c62b51f0:
 
     # ch_Name "{i}(Okay. Get it together, [Name]. We can't be sloppy.){/i}"
-    ch_Name "{i}(好吧。振作起来，[Name]。我们不能草率。){/i}"
+    ch_Name "{i}(好吧。振作起来，[Name]。我们不能就这样草草收场。){/i}"
 
 # game/logic/events/audrey.rpy:3002
 translate chinese Audrey_9_label_L_184_d82175e4:
@@ -10090,25 +10090,25 @@ translate chinese Audrey_9_label_L_184_d82175e4:
 translate chinese Audrey_9_label_L_184_9a7f7bbe:
 
     # Audrey "I've been ready for a long time, asshole... Don't keep me in suspense!"
-    Audrey "我已经准备很久了，混蛋... 别跟我卖关子!"
+    Audrey "我已经准备很久了，混蛋...别吊胃口了!"
 
 # game/logic/events/audrey.rpy:3004
 translate chinese Audrey_9_label_L_184_308fdf25:
 
     # ch_Name "What are you ready for? I don't know."
-    ch_Name "你准备好了吗? 我不知道。"
+    ch_Name "你准备好了什么？我没看见。"
 
 # game/logic/events/audrey.rpy:3006
 translate chinese Audrey_9_label_L_184_50032f6b:
 
     # ch_Name "Ask me properly."
-    ch_Name "正确地问我。"
+    ch_Name "好好地求我。"
 
 # game/logic/events/audrey.rpy:3007
 translate chinese Audrey_9_label_L_184_d15ab4ed:
 
     # Audrey "Fuck you... Fuck me like you've never fucked anyone before!"
-    Audrey "去你妈的... 操我，就像你从没操过别人一样!"
+    Audrey "去你妈的... 操我，以一种你从未有过的态度操我!"
 
 # game/logic/events/audrey.rpy:3009
 translate chinese Audrey_9_label_L_184_1b12de55:
@@ -10120,7 +10120,7 @@ translate chinese Audrey_9_label_L_184_1b12de55:
 translate chinese Audrey_9_label_L_184_0f274ba8:
 
     # Audrey "Oh, yeah... It's so fleshy..."
-    Audrey "哦，是的... 它是如此的..."
+    Audrey "哦，是的... 里面肉肉的..."
 
 # game/logic/events/audrey.rpy:3012
 translate chinese Audrey_9_label_L_184_ed9d995d:
@@ -10150,19 +10150,19 @@ translate chinese Audrey_9_label_L_184_2ad5adec:
 translate chinese Audrey_9_label_L_184_5e2a4c89:
 
     # Audrey "Please go deeper..."
-    Audrey "请深入..."
+    Audrey "求你了，插深一点..."
 
 # game/logic/events/audrey.rpy:3019
 translate chinese Audrey_9_label_L_184_03d46cd7:
 
     # ch_Name "{i}(She's so slutty... I like that.){/i}"
-    ch_Name "{i}(她很性感... 我很喜欢这样。){/i}"
+    ch_Name "{i}(她很性感... 我很喜欢。){/i}"
 
 # game/logic/events/audrey.rpy:3021
 translate chinese Audrey_9_label_L_184_8a0b8f7a:
 
     # ch_Name "{i}(I won't keep the lady waiting!){/i}"
-    ch_Name "{i}(我不会让女士久等的!){/i}"
+    ch_Name "{i}(我不会让女士久等的！){/i}"
 
 # game/logic/events/audrey.rpy:3022
 translate chinese Audrey_9_label_L_184_fe177997:
@@ -10174,7 +10174,7 @@ translate chinese Audrey_9_label_L_184_fe177997:
 translate chinese Audrey_9_label_L_184_35c6cc19:
 
     # Audrey "Oh... ah... uhm...."
-    Audrey "哦... 啊... 嗯..."
+    Audrey "哦...啊...嗯..."
 
 # game/logic/events/audrey.rpy:3024
 translate chinese Audrey_9_label_L_184_fc11be4e:
@@ -10198,7 +10198,7 @@ translate chinese Audrey_9_label_L_184_fac02ba5:
 translate chinese Audrey_9_label_L_184_fb7496e4:
 
     # Audrey "Oh yeah... That's it!"
-    Audrey "哦是的... 就是这样!"
+    Audrey "哦是的...就是这样!"
 
 # game/logic/events/audrey.rpy:3029
 translate chinese Audrey_9_label_L_184_818c76d3:
@@ -10216,13 +10216,13 @@ translate chinese Audrey_9_label_L_184_4ee2d01e:
 translate chinese Audrey_9_label_L_184_41f318bf:
 
     # Audrey "That's it... Just like that!"
-    Audrey "就是这样... 就像这样!"
+    Audrey "就是这样!"
 
 # game/logic/events/audrey.rpy:3033
 translate chinese Audrey_9_label_L_184_3b476c8d:
 
     # Audrey "Oh... ah... uhm..."
-    Audrey "哦... 啊... 嗯..."
+    Audrey "哦...啊...嗯..."
 
 # game/logic/events/audrey.rpy:3034
 translate chinese Audrey_9_label_L_184_fac02ba5_1:
@@ -10240,13 +10240,13 @@ translate chinese Audrey_9_label_L_184_eaa9ce6d:
 translate chinese Audrey_9_label_L_184_a258e218:
 
     # ch_Name "Oh... oh... "
-    ch_Name "哦... 哦..."
+    ch_Name "哦...哦..."
 
 # game/logic/events/audrey.rpy:3038
 translate chinese Audrey_9_label_L_184_730cfb2c:
 
     # Audrey "So...{w} Good..."
-    Audrey "所以... {w} 好..."
+    Audrey "真...{w}好..."
 
 # game/logic/events/audrey.rpy:3039
 translate chinese Audrey_9_label_L_184_4ee2d01e_1:
@@ -10264,25 +10264,25 @@ translate chinese Audrey_9_label_L_184_4dbe194a:
 translate chinese Audrey_9_label_L_184_9eb15a47:
 
     # ch_Name "{i}(Something's starting to make me more queasy... Shit.){/i}"
-    ch_Name "{i}(有东西开始让我更想吐了... 大便。){/i}"
+    ch_Name "{i}(好像有某种东西开始让我更想吐了...他奶奶的。){/i}"
 
 # game/logic/events/audrey.rpy:3043
 translate chinese Audrey_9_label_L_184_bce11716:
 
     # ch_Name "{i}(It's hard to concentrate on sex.){/i}"
-    ch_Name "{i}(很难把注意力集中在性上。){/i}"
+    ch_Name "{i}(很难把注意力集中在做爱上。){/i}"
 
 # game/logic/events/audrey.rpy:3044
 translate chinese Audrey_9_label_L_184_1c13f9c8:
 
     # Audrey "Would you like to change positions?"
-    Audrey "你想换位置吗?"
+    Audrey "你想换个姿势吗?"
 
 # game/logic/events/audrey.rpy:3045
 translate chinese Audrey_9_label_L_184_c9cfd758:
 
     # Audrey "For a change."
-    Audrey "为改变。"
+    Audrey "换个体位而已。"
 
 # game/logic/events/audrey.rpy:3047
 translate chinese Audrey_9_label_L_184_5f78a841:
@@ -10312,7 +10312,7 @@ translate chinese Audrey_9_label_L_184_7289e44c:
 translate chinese Audrey_9_label_L_184_3c5c2101:
 
     # ch_Name "Of course it will."
-    ch_Name "当然会。"
+    ch_Name "当然可以。"
 
 # game/logic/events/audrey.rpy:3053
 translate chinese Audrey_9_label_L_184_6cb9f122:
@@ -10324,7 +10324,7 @@ translate chinese Audrey_9_label_L_184_6cb9f122:
 translate chinese Audrey_9_label_L_184_dca7d3e3:
 
     # Audrey "Oh, you're taking the reins?"
-    Audrey "哦，你要接管了?"
+    Audrey "哦，你要掌控节奏了?"
 
 # game/logic/events/audrey.rpy:3056
 translate chinese Audrey_9_label_L_184_2c88481a:
@@ -10420,7 +10420,7 @@ translate chinese Audrey_9_label_L_184_8c41bb6f:
 translate chinese Audrey_9_label_L_184_caa8bb33:
 
     # ch_Name "{i}(It's happening again...){/i}"
-    ch_Name "{i}(再次发生){/i}"
+    ch_Name "{i}(又来了……){/i}"
 
 # game/logic/events/audrey.rpy:3085
 translate chinese Audrey_9_label_L_184_97c87cbe:
@@ -10450,7 +10450,7 @@ translate chinese Audrey_9_label_L_184_fb9810e8:
 translate chinese Audrey_9_label_L_184_606788c1:
 
     # ch_Name "What was that all about?"
-    ch_Name "这是怎么回事?"
+    ch_Name "这是怎么回事？"
 
 # game/logic/events/audrey.rpy:3092
 translate chinese Audrey_9_label_L_184_757a49a6:
@@ -10462,25 +10462,25 @@ translate chinese Audrey_9_label_L_184_757a49a6:
 translate chinese Audrey_9_label_L_184_b385b852:
 
     # Audrey "Hey!"
-    Audrey "嘿!"
+    Audrey "嘿！"
 
 # game/logic/events/audrey.rpy:3095
 translate chinese Audrey_9_label_L_184_73b628b1:
 
     # Audrey "Stop whining and asking questions, okay?"
-    Audrey "别再抱怨和问问题了，好吗?"
+    Audrey "别再抱怨和问问题了，好吗？"
 
 # game/logic/events/audrey.rpy:3096
 translate chinese Audrey_9_label_L_184_4e9c49a7:
 
     # Audrey "You know what I want you to do!"
-    Audrey "你知道我要你做什么!"
+    Audrey "你知道我要你做什么！"
 
 # game/logic/events/audrey.rpy:3097
 translate chinese Audrey_9_label_L_184_8bacebb2:
 
     # Audrey "FUCK ME."
-    Audrey "他妈的我。"
+    Audrey "肏我。"
 
 # game/logic/events/audrey.rpy:3099
 translate chinese Audrey_9_label_L_184_6d8e0e82:
@@ -10492,13 +10492,13 @@ translate chinese Audrey_9_label_L_184_6d8e0e82:
 translate chinese Audrey_9_label_L_184_48dfd8d1:
 
     # ch_Name "How can I refuse such a request?"
-    ch_Name "我怎么能拒绝这样的要求呢?"
+    ch_Name "我怎么能拒绝这样的要求呢？"
 
 # game/logic/events/audrey.rpy:3102
 translate chinese Audrey_9_label_L_184_11a1ab31:
 
     # Audrey "That's better!"
-    Audrey "这是更好的!"
+    Audrey "这样就对了！"
 
 # game/logic/events/audrey.rpy:3103
 translate chinese Audrey_9_label_L_184_8df623f8:
@@ -10552,7 +10552,7 @@ translate chinese Audrey_9_label_L_184_be588d4a:
 translate chinese Audrey_9_label_L_184_730cfb2c_1:
 
     # Audrey "So...{w} Good..."
-    Audrey "所以... {w} 好..."
+    Audrey "真...{w}好..."
 
 # game/logic/events/audrey.rpy:3115
 translate chinese Audrey_9_label_L_184_4ee2d01e_2:
@@ -10564,19 +10564,19 @@ translate chinese Audrey_9_label_L_184_4ee2d01e_2:
 translate chinese Audrey_9_label_L_184_3023ca42:
 
     # Audrey "Don't stop! Fuck me harder!"
-    Audrey "不要停止! 他妈的我更难!"
+    Audrey "不要停！大力操我！"
 
 # game/logic/events/audrey.rpy:3118
 translate chinese Audrey_9_label_L_184_ce96d05e:
 
     # Audrey "Oh... Yes... That's it!"
-    Audrey "哦... 是的... 就是这样!"
+    Audrey "哦...是的...就是这样!"
 
 # game/logic/events/audrey.rpy:3119
 translate chinese Audrey_9_label_L_184_3b476c8d_2:
 
     # Audrey "Oh... ah... uhm..."
-    Audrey "哦... 啊... 嗯..."
+    Audrey "哦...啊...嗯..."
 
 # game/logic/events/audrey.rpy:3120
 translate chinese Audrey_9_label_L_184_fac02ba5_5:
@@ -10612,19 +10612,19 @@ translate chinese Audrey_9_label_L_184_0ca82cfb:
 translate chinese Audrey_9_label_L_184_2183b87b:
 
     # ch_Name "{i}(I can do this!){/i}"
-    ch_Name "{i}(我能做到!){/i}"
+    ch_Name "{i}(我能做到！){/i}"
 
 # game/logic/events/audrey.rpy:3128
 translate chinese Audrey_9_label_L_184_08cecdb3:
 
     # Audrey "Ah... Ah-h... A-H-H!"
-    Audrey "啊... 似地... A-H-H !"
+    Audrey "啊...啊……啊！"
 
 # game/logic/events/audrey.rpy:3129
 translate chinese Audrey_9_label_L_184_eff5249f:
 
     # Audrey "I'm almost there..."
-    Audrey "我快到了..."
+    Audrey "我快到高潮了..."
 
 # game/logic/events/audrey.rpy:3131
 translate chinese Audrey_9_label_L_184_949a8990:
@@ -10642,19 +10642,19 @@ translate chinese Audrey_9_label_L_184_ce96d05e_1:
 translate chinese Audrey_9_label_L_184_3dc1413f:
 
     # Audrey "I'm done..."
-    Audrey "我完成了..."
+    Audrey "我好了..."
 
 # game/logic/events/audrey.rpy:3135
 translate chinese Audrey_9_label_L_184_919fd414:
 
     # Audrey "That was incredible!"
-    Audrey "这是难以置信的!"
+    Audrey "真是难以置信！"
 
 # game/logic/events/audrey.rpy:3136
 translate chinese Audrey_9_label_L_184_60cdc06a:
 
     # ch_Name "{i}(It's strange that she's not even close to me...){/i}"
-    ch_Name "{i}(真奇怪，她离我这么远...){/i}"
+    ch_Name "{i}(真奇怪，她开始疏远我了...){/i}"
 
 # game/logic/events/audrey.rpy:3137
 translate chinese Audrey_9_label_L_184_2611d091:
@@ -10666,7 +10666,7 @@ translate chinese Audrey_9_label_L_184_2611d091:
 translate chinese Audrey_9_label_L_184_66f3430d:
 
     # Audrey "Finish it already!"
-    Audrey "完成它了!"
+    Audrey "已经结束了！"
 
 # game/logic/events/audrey.rpy:3140
 translate chinese Audrey_9_label_L_184_43988d67:
@@ -10678,13 +10678,13 @@ translate chinese Audrey_9_label_L_184_43988d67:
 translate chinese Audrey_9_label_L_184_d5b4a72b:
 
     # ch_Name "To be honest, I'm not even close yet, baby."
-    ch_Name "说实话，我还没接近呢，宝贝。"
+    ch_Name "说实话，我还没射呢，宝贝。"
 
 # game/logic/events/audrey.rpy:3143
 translate chinese Audrey_9_label_L_184_74ff5f48:
 
     # Audrey "Why should that be my problem? Get it out."
-    Audrey "为什么这是我的问题?把它弄出来。"
+    Audrey "怎？这是我的问题？把它弄出来。"
 
 # game/logic/events/audrey.rpy:3144
 translate chinese Audrey_9_label_L_184_b510ad9f:
@@ -10720,13 +10720,13 @@ translate chinese Audrey_9_label_L_184_16df9d7f:
 translate chinese Audrey_9_label_L_184_55ba7ed0:
 
     # Audrey "And you already got more than you deserve tonight."
-    Audrey "你今晚得到的已经超出了你应得的。"
+    Audrey "你今晚得到的已经物超所值了。"
 
 # game/logic/events/audrey.rpy:3152
 translate chinese Audrey_9_label_L_184_682578ae:
 
     # Audrey "If it helps, you can jerk off to me."
-    Audrey "如果有帮助的话，你可以对我打飞机。"
+    Audrey "如果有用的话，你可以对我打飞机。"
 
 # game/logic/events/audrey.rpy:3154
 translate chinese Audrey_9_label_L_184_52fef265:
@@ -10738,31 +10738,31 @@ translate chinese Audrey_9_label_L_184_52fef265:
 translate chinese Audrey_9_label_L_184_baf22535:
 
     # ch_Name "{i}(So much for Audrey using me as a dildo on her feet.){/i}"
-    ch_Name "{i}(Audrey不能再拿我当脚上的假阳鸡了。){/i}"
+    ch_Name "{i}(Audrey不能再拿我当脚边的假阳具了。){/i}"
 
 # game/logic/events/audrey.rpy:3157
 translate chinese Audrey_9_label_L_184_97af16ee:
 
     # ch_Name "Now, now."
-    ch_Name "现在，现在。"
+    ch_Name "马上，马上。"
 
 # game/logic/events/audrey.rpy:3158
 translate chinese Audrey_9_label_L_184_bddcd34a:
 
     # ch_Name "Your whims don't make it go any faster."
-    ch_Name "你的怪念头不会让它跑得更快。"
+    ch_Name "你的怪念头不会让它射得更快。"
 
 # game/logic/events/audrey.rpy:3160
 translate chinese Audrey_9_label_L_184_5608b823:
 
     # ch_Name "{i}(Damn it... I should be at my limit by now.){/i}"
-    ch_Name "{i}(该死的... 我现在应该达到极限了。){/i}"
+    ch_Name "{i}(该死的... 我现在应该要射了。){/i}"
 
 # game/logic/events/audrey.rpy:3161
 translate chinese Audrey_9_label_L_184_6fb51edd:
 
     # ch_Name "{i}(And I hardly feel any pleasure...){/i}"
-    ch_Name "{i}(我几乎感觉不到任何快乐...){/i}"
+    ch_Name "{i}(我几乎没有任何快感...){/i}"
 
 # game/logic/events/audrey.rpy:3163
 translate chinese Audrey_9_label_L_184_ed7cd657:
@@ -10774,7 +10774,7 @@ translate chinese Audrey_9_label_L_184_ed7cd657:
 translate chinese Audrey_9_label_L_184_d1c738d9:
 
     # ch_Name "Something's wrong..."
-    ch_Name "什么是错的..."
+    ch_Name "出问题了..."
 
 # game/logic/events/audrey.rpy:3166
 translate chinese Audrey_9_label_L_184_32246c07:
@@ -10798,19 +10798,19 @@ translate chinese Audrey_9_label_L_184_9caeb230:
 translate chinese Audrey_9_label_L_184_8709bc91:
 
     # Audrey "I wonder how that happened."
-    Audrey "我想知道这是怎么发生的。"
+    Audrey "我想知道这是怎么回事。"
 
 # game/logic/events/audrey.rpy:3171
 translate chinese Audrey_9_label_L_184_21eb70f9:
 
     # Audrey "Maybe you don't have enough vitamins in your system?"
-    Audrey "也许你体内没有足够的维生素?"
+    Audrey "也许你体内没有足够的维生素了？"
 
 # game/logic/events/audrey.rpy:3172
 translate chinese Audrey_9_label_L_184_e216c47b:
 
     # ch_Name "Are you kidding me?"
-    ch_Name "你在开玩笑吗?"
+    ch_Name "你在开玩笑吗？"
 
 # game/logic/events/audrey.rpy:3174
 translate chinese Audrey_9_label_L_184_5c96de3d:
@@ -10840,19 +10840,19 @@ translate chinese Audrey_9_label_L_184_1c2426a4:
 translate chinese Audrey_9_label_L_184_fa70fd98:
 
     # Audrey "Stop wasting my time and get lost, impotent."
-    Audrey "别浪费我的时间了，走开吧，小无能。"
+    Audrey "别浪费我的时间了，走开吧，废物。"
 
 # game/logic/events/audrey.rpy:3180
 translate chinese Audrey_9_label_L_184_d139edf4:
 
     # ch_Name "Why are you so rude?"
-    ch_Name "你为什么这么粗鲁?"
+    ch_Name "你为什么这么粗鲁？"
 
 # game/logic/events/audrey.rpy:3182
 translate chinese Audrey_9_label_L_184_0b5d45f8:
 
     # ch_Name "You already came, so what's it to you?"
-    ch_Name "你已经来了，跟你有什么关系?"
+    ch_Name "你已经高潮过了，我搞传统手艺跟你有什么关系?"
 
 # game/logic/events/audrey.rpy:3183
 translate chinese Audrey_9_label_L_184_861ecc0e:
@@ -10876,7 +10876,7 @@ translate chinese Audrey_9_label_L_184_705a3291:
 translate chinese Audrey_9_label_L_184_f71fd2d0:
 
     # Audrey "Once a year and the stick shoots."
-    Audrey "一年一次，树枝会发芽。"
+    Audrey "一年一次，树枝也会发芽。"
 
 # game/logic/events/audrey.rpy:3188
 translate chinese Audrey_9_label_L_184_9fec9f08:
@@ -10894,13 +10894,13 @@ translate chinese Audrey_9_label_L_184_90f6ee1d:
 translate chinese Audrey_9_label_L_184_d2d1281a:
 
     # ch_Name "My nickname is..."
-    ch_Name "我的昵称是..."
+    ch_Name "我人送外号..."
 
 # game/logic/events/audrey.rpy:3193
 translate chinese Audrey_9_label_L_184_5a8d862e:
 
     # Audrey "Stop wasting my time, [Name]! Get out of here."
-    Audrey "别再浪费我的时间了，[Name)]!离开这里。"
+    Audrey "别再浪费我的时间了，[Name)]！滚蛋。"
 
 # game/logic/events/audrey.rpy:3194
 translate chinese Audrey_9_label_L_184_11dbf333:
@@ -10918,19 +10918,19 @@ translate chinese Audrey_9_label_L_184_b510ad9f_1:
 translate chinese Audrey_9_label_L_184_8af3dd15:
 
     # Audrey "There's the way out." with hpunch
-    Audrey "有一条出路。" with hpunch
+    Audrey "门在那边。" with hpunch
 
 # game/logic/events/audrey.rpy:3198
 translate chinese Audrey_9_label_L_184_8b5ae744:
 
     # ch_Name "{i}(Unbelievable!){/i}"
-    ch_Name "{i}(难以置信!){/i}"
+    ch_Name "{i}(不可理喻！){/i}"
 
 # game/logic/events/audrey.rpy:3199
 translate chinese Audrey_9_label_L_184_e00bb96c:
 
     # ch_Name "{i}(What a bitch...){/i}"
-    ch_Name "{i}(什么是婊子...){/i}"
+    ch_Name "{i}(真是个婊子...){/i}"
 
 # game/logic/events/audrey.rpy:3200
 translate chinese Audrey_9_label_L_184_935f6ba4:
@@ -10960,13 +10960,13 @@ translate chinese Audrey_9_label_L_184_3e3e63f8:
 translate chinese Audrey_9_label_L_184_3a0194d2:
 
     # ch_Name "I'm off."
-    ch_Name "我要离开"
+    ch_Name "我要走了。"
 
 # game/logic/events/audrey.rpy:3217
 translate chinese Audrey_9_label_L_374_7db41b82:
 
     # Audrey "Come here, handsome."
-    Audrey "过来，英俊。"
+    Audrey "过来，帅哥。"
 
 # game/logic/events/audrey.rpy:3218
 translate chinese Audrey_9_label_L_374_859b023a:
@@ -11038,7 +11038,7 @@ translate chinese Audrey_9_label_L_374_c90a8ee7:
 translate chinese Audrey_9_label_L_374_fccecc40:
 
     # Audrey "Yeah, I didn't think you'd be that easy to get."
-    Audrey "是啊，我没想到你这么好找。"
+    Audrey "是啊，我没想到你这么直接。"
 
 # game/logic/events/audrey.rpy:3234
 translate chinese Audrey_9_label_L_374_3f08abbc:
@@ -11050,19 +11050,19 @@ translate chinese Audrey_9_label_L_374_3f08abbc:
 translate chinese Audrey_9_label_L_374_43819a01:
 
     # Audrey "I don't want to see such a beautiful boner go to waste."
-    Audrey "我不想看到这么漂亮的老二浪费掉。"
+    Audrey "我不想看到这么漂亮的老二软掉。"
 
 # game/logic/events/audrey.rpy:3237
 translate chinese Audrey_9_label_L_374_aad58497:
 
     # Audrey "Welcome, my hero. Come into me!"
-    Audrey "欢迎,我的英雄。到我!"
+    Audrey "欢迎,我的英雄。进入我的身体！"
 
 # game/logic/events/audrey.rpy:3238
 translate chinese Audrey_9_label_L_374_b62e5672:
 
     # ch_Name "{i}(There she is. Daring and stern Audrey, spreading her legs and begging me to come in.){/i}"
-    ch_Name "{i}(她就在那儿。勇敢而严厉的Audrey张开双腿，求我进去。){/i}"
+    ch_Name "{i}(那就是她。胆大且高冷的Audrey张开双腿，求我进去。){/i}"
 
 # game/logic/events/audrey.rpy:3239
 translate chinese Audrey_9_label_L_374_dea75e42:
@@ -11086,7 +11086,7 @@ translate chinese Audrey_9_label_L_374_c8d88e70:
 translate chinese Audrey_9_label_L_374_0288f3d6:
 
     # ch_Name "{i}(Okay. Get it together, [Name]. We can't be dirty.){/i}"
-    ch_Name "{i}(好吧。振作起来，[Name]。我们不能脏。){/i}"
+    ch_Name "{i}(好吧。振作起来，[Name]。我们不能就这样算了。){/i}"
 
 # game/logic/events/audrey.rpy:3245
 translate chinese Audrey_9_label_L_374_d82175e4:
@@ -11098,25 +11098,25 @@ translate chinese Audrey_9_label_L_374_d82175e4:
 translate chinese Audrey_9_label_L_374_9a7f7bbe:
 
     # Audrey "I've been ready for a long time, asshole... Don't keep me in suspense!"
-    Audrey "我已经准备很久了，混蛋... 别跟我卖关子!"
+    Audrey "我已经准备很久了，混蛋...别吊我胃口！"
 
 # game/logic/events/audrey.rpy:3247
 translate chinese Audrey_9_label_L_374_308fdf25:
 
     # ch_Name "What are you ready for? I don't know."
-    ch_Name "你准备好了吗?我不知道。"
+    ch_Name "你准备好什么了？我没看见。"
 
 # game/logic/events/audrey.rpy:3249
 translate chinese Audrey_9_label_L_374_50032f6b:
 
     # ch_Name "Ask me properly."
-    ch_Name "正确地问我。"
+    ch_Name "好好地求我。"
 
 # game/logic/events/audrey.rpy:3250
 translate chinese Audrey_9_label_L_374_d15ab4ed:
 
     # Audrey "Fuck you... Fuck me like you've never fucked anyone before!"
-    Audrey "去你妈的... 操我，就像你从没操过别人一样!"
+    Audrey "去你妈的...操我，以一种前所未有的态度操我！"
 
 # game/logic/events/audrey.rpy:3252
 translate chinese Audrey_9_label_L_374_1b12de55:
@@ -11128,7 +11128,7 @@ translate chinese Audrey_9_label_L_374_1b12de55:
 translate chinese Audrey_9_label_L_374_0f274ba8:
 
     # Audrey "Oh, yeah... It's so fleshy..."
-    Audrey "哦，是的... 它是如此的..."
+    Audrey "哦，是的...里面肉肉的..."
 
 # game/logic/events/audrey.rpy:3255
 translate chinese Audrey_9_label_L_374_ed9d995d:
@@ -11146,7 +11146,7 @@ translate chinese Audrey_9_label_L_374_ec345f17:
 translate chinese Audrey_9_label_L_374_3cb5df8f:
 
     # ch_Name "{i}(She's so slutty... She's begging to go deeper on my dick.){/i}"
-    ch_Name "{i}(她很性感... 她求着要在我老二上插得更深。){/i}"
+    ch_Name "{i}(她很性感... 她求着要我的老二插得更深。){/i}"
 
 # game/logic/events/audrey.rpy:3260
 translate chinese Audrey_9_label_L_374_8a0b8f7a:
@@ -11188,13 +11188,13 @@ translate chinese Audrey_9_label_L_374_818c76d3:
 translate chinese Audrey_9_label_L_374_f9573c34:
 
     # Audrey "You're so... good..."
-    Audrey "你太... 好..."
+    Audrey "你太...好了..."
 
 # game/logic/events/audrey.rpy:3269
 translate chinese Audrey_9_label_L_374_3b476c8d_1:
 
     # Audrey "Oh... ah... uhm..."
-    Audrey "哦... 啊... 嗯..."
+    Audrey "哦...啊...嗯..."
 
 # game/logic/events/audrey.rpy:3270
 translate chinese Audrey_9_label_L_374_fac02ba5:
@@ -11206,7 +11206,7 @@ translate chinese Audrey_9_label_L_374_fac02ba5:
 translate chinese Audrey_9_label_L_374_53a453ad:
 
     # Audrey "Deeper!"
-    Audrey "更深层次的!"
+    Audrey "插深一点！"
 
 # game/logic/events/audrey.rpy:3273
 translate chinese Audrey_9_label_L_374_730cfb2c:
