@@ -7546,7 +7546,7 @@ translate chinese adele_3_label_c901dc92:
 translate chinese adele_3_label_978a119d:
 
     # Adele "By the way, Vanessa bragged that she's getting better at making Bloody Mary's."
-    Adele "顺便说一句，Vanessa 吹嘘她在 Bloody Merry's 越来越好。"
+    Adele "顺便说一句，Vanessa 吹嘘说她的血腥玛丽做得越来越好了。"
 
 # game/logic/events/adele.rpy:2299
 translate chinese adele_3_label_0960d251:
@@ -7564,7 +7564,7 @@ translate chinese adele_3_label_5bf81197:
 translate chinese adele_3_label_a491dcff:
 
     # Adele "Thanks, honey. But I don't drink at work. Although you should have one."
-    Adele "谢谢，亲爱的。 但我不喝酒在工作。 虽然你应该有一个。"
+    Adele "谢谢，亲爱的。 但我工作时间不喝酒。虽然你确实可以请。"
 
 # game/logic/events/adele.rpy:2302
 translate chinese adele_3_label_cdacbe06:
@@ -7576,19 +7576,19 @@ translate chinese adele_3_label_cdacbe06:
 translate chinese adele_4_label_119dc12d:
 
     # ch_Name "{i}(There's Adele! Just like we agreed.){/i}"
-    ch_Name "{i}(有 Adele ！ 就像我们约定的一样。){/i}"
+    ch_Name "{i}(Adele在那！就像我们约定的一样。){/i}"
 
 # game/logic/events/adele.rpy:2312
 translate chinese adele_4_label_7a193ca8:
 
     # ch_Name "{i}(Whew! I was worried she wasn't coming.){/i}"
-    ch_Name "{i}(嗖！ 我担心她不会来。){/i}"
+    ch_Name "{i}(呼！我还担心她不会来呢。){/i}"
 
 # game/logic/events/adele.rpy:2313
 translate chinese adele_4_label_a6ca19d0:
 
     # ch_Name "{i}(Let's see how strip club hostesses behave in real life.){/i}"
-    ch_Name "{i}(让我们看看脱衣舞俱乐部的女主人在现实生活中的表现。){/i}"
+    ch_Name "{i}(让我们看看脱衣舞俱乐部的女主人在日常生活中是怎么样的吧。){/i}"
 
 # game/logic/events/adele.rpy:2315
 translate chinese adele_4_label_cb2337b9:
@@ -7612,7 +7612,7 @@ translate chinese adele_4_label_96789e78:
 translate chinese adele_4_label_fc3d0188:
 
     # ch_Name "I'm sorry. I'm not in Dale that often, I wasn't sure which cafe we were talking about."
-    ch_Name "抱歉。 我不经常在 Dale，我不确定我们在谈论哪个咖啡馆。"
+    ch_Name "抱歉。 我不经常来Dale，我不确定我们说的是哪个咖啡馆。"
 
 # game/logic/events/adele.rpy:2320
 translate chinese adele_4_label_ce41f1d6:
@@ -7624,67 +7624,67 @@ translate chinese adele_4_label_ce41f1d6:
 translate chinese adele_4_label_a88ffe6e:
 
     # Adele "I like to stop by this place before my shifts at the club."
-    Adele "我喜欢在俱乐部轮班之前在这个地方停下来。"
+    Adele "我喜欢在俱乐部轮班之前在这个地方坐一会。"
 
 # game/logic/events/adele.rpy:2322
 translate chinese adele_4_label_8a38a7f2:
 
     # Adele "It's always nice to talk to Ahchi. He makes great coffee, too."
-    Adele "和 Ahchi 交谈总是很好。 他也做很棒的咖啡。"
+    Adele "和Ahchi聊天总是很开心。他做的咖啡也很棒。"
 
 # game/logic/events/adele.rpy:2323
 translate chinese adele_4_label_ad7df6c8:
 
     # Adele "So you're not from around here, huh?"
-    Adele "所以你不是从这里来的，对吧？"
+    Adele "所以你不是这附近的人，对吧？"
 
 # game/logic/events/adele.rpy:2325
 translate chinese adele_4_label_e82f88a9:
 
     # ch_Name "Yeah, I go to Cordale. I'm going to be a magician."
-    ch_Name "是的，我去 Cordale。 我要成为一名魔术师。"
+    ch_Name "是的，我在Cordale上学。我要成为一名魔法师。"
 
 # game/logic/events/adele.rpy:2326
 translate chinese adele_4_label_01910b1e:
 
     # ch_Name "I come here on weekends, when our house wins the competition."
-    ch_Name "我周末来这里，那时我们的房子赢得了比赛。"
+    ch_Name "为我们分院赢得比赛之后，我周末就会来这里。"
 
 # game/logic/events/adele.rpy:2327
 translate chinese adele_4_label_bae5b11a:
 
     # Adele "So that's it. Yeah, I've heard of that tradition."
-    Adele "就是这样了。 是的，我听说过这种传统。"
+    Adele "是这样的。是的，我听说过这种传统。"
 
 # game/logic/events/adele.rpy:2328
 translate chinese adele_4_label_c61c3729:
 
     # Adele "I've never been to Cordale. But the castle looks beautiful from afar."
-    Adele "我从来没有去过 Cordale。 但是城堡从远处看很漂亮。"
+    Adele "我从来没有去过Cordale。但是城堡从远处看很漂亮。"
 
 # game/logic/events/adele.rpy:2330
 translate chinese adele_4_label_5ecf0ffd:
 
     # Adele "I've already ordered everything for us. You don't mind, do you?"
-    Adele "我已经为我们订购了所有东西。 你不介意，是吗？"
+    Adele "我已经下单了所有东西。你不介意吧？"
 
 # game/logic/events/adele.rpy:2331
 translate chinese adele_4_label_a697a4ef:
 
     # ch_Name "Of course, not. But I'm paying. I insist."
-    ch_Name "当然不是。 但我正在付钱。 我坚持。"
+    ch_Name "当然不介意。但我还是坚持由我请客。"
 
 # game/logic/events/adele.rpy:2332
 translate chinese adele_4_label_5e9867b9:
 
     # Adele "Are you sure? That's very gentlemanly, but you're a student."
-    Adele "你确定吗？ 这很绅士，但你是学生。"
+    Adele "你确定吗？这很绅士，但你是学生。"
 
 # game/logic/events/adele.rpy:2334
 translate chinese adele_4_label_90ca88a4:
 
     # ch_Name "Hey. I asked you out."
-    ch_Name "嘿，我约你出去了。"
+    ch_Name "嘿，是我约你出来的。"
 
 # game/logic/events/adele.rpy:2335
 translate chinese adele_4_label_f80b27b8:
@@ -7726,7 +7726,7 @@ translate chinese adele_4_label_4d2c70cd:
 translate chinese adele_4_label_112e79a6:
 
     # Ahchi "Am I interrupting?"
-    Ahchi "我在打扰吗？"
+    Ahchi "不好意思，打扰一下。"
 
 # game/logic/events/adele.rpy:2344
 translate chinese adele_4_label_9caf6e73:
@@ -7738,13 +7738,13 @@ translate chinese adele_4_label_9caf6e73:
 translate chinese adele_4_label_b0eab1a5:
 
     # Adele "Of course. not! You're always welcome."
-    Adele "当然。 不是！ 你总是受欢迎的。"
+    Adele "当然不会！随时欢迎。"
 
 # game/logic/events/adele.rpy:2347
 translate chinese adele_4_label_44e7a185:
 
     # Adele "Mmm..."
-    Adele "Mmm..."
+    Adele "嗯..."
 
 # game/logic/events/adele.rpy:2348
 translate chinese adele_4_label_cc7c90fc:
@@ -7774,7 +7774,7 @@ translate chinese adele_4_label_1bccb464:
 translate chinese adele_4_label_bbbd5115:
 
     # Adele "I'll have to remember that. Thank you, sweetie."
-    Adele "我必须记住这一点。 谢谢你甜心。"
+    Adele "我必须记住这一点。谢谢你，甜心。"
 
 # game/logic/events/adele.rpy:2355
 translate chinese adele_4_label_1d78a2bc:
@@ -7786,19 +7786,19 @@ translate chinese adele_4_label_1d78a2bc:
 translate chinese adele_4_label_1d422850:
 
     # ch_Name "{i}(Even Ahchi is embarrassed, I think.){/i}"
-    ch_Name "{i}(我想，即使 Ahchi 也很尴尬。){/i}"
+    ch_Name "{i}(我想，即使Ahchi也很尴尬。){/i}"
 
 # game/logic/events/adele.rpy:2357
 translate chinese adele_4_label_550706dc:
 
     # Adele "What are you waiting for? Try it!"
-    Adele "你在等什么？ 试试看！"
+    Adele "你在等什么？快试试看！"
 
 # game/logic/events/adele.rpy:2359
 translate chinese adele_4_label_c69cc8f0:
 
     # ch_Name "Shit! You're right..."
-    ch_Name "拉屎！ 你说得对。"
+    ch_Name "卧槽！你说得对。"
 
 # game/logic/events/adele.rpy:2360
 translate chinese adele_4_label_0a4179b2:
@@ -7810,37 +7810,37 @@ translate chinese adele_4_label_0a4179b2:
 translate chinese adele_4_label_88e7539a:
 
     # Adele "Hehe... I told you!"
-    Adele "呵呵...我告诉过你！"
+    Adele "呵呵...我就说嘛！"
 
 # game/logic/events/adele.rpy:2363
 translate chinese adele_4_label_5cac7615:
 
     # Adele "This place energizes me for the day."
-    Adele "这个地方让我一天都充满活力。"
+    Adele "这个地方让我一整天都充满活力。"
 
 # game/logic/events/adele.rpy:2364
 translate chinese adele_4_label_b09b9312:
 
     # Adele "And it's delicious."
-    Adele "它很好吃。"
+    Adele "而且东西很好吃。"
 
 # game/logic/events/adele.rpy:2371
 translate chinese adele_4_label_e789b04b:
 
     # ch_Name "...So I lost my athletic scholarship."
-    ch_Name "...所以我失去了我的运动奖学金。"
+    ch_Name "...所以我和运动奖学金失之交臂。"
 
 # game/logic/events/adele.rpy:2372
 translate chinese adele_4_label_6bfe6b1e:
 
     # Adele "{i}(Oh, did I hit the jackpot - both wizard and athlete?){/i}"
-    Adele "{i}(哦，我中了大奖吗——巫师和运动员？){/i}"
+    Adele "{i}(哦，我中了大奖吗——既是巫师，也是运动员？){/i}"
 
 # game/logic/events/adele.rpy:2373
 translate chinese adele_4_label_8419f245:
 
     # Adele "{i}(And so cute...){/i}"
-    Adele "{i}(并且如此可爱...){/i}"
+    Adele "{i}(还那么可爱...){/i}"
 
 # game/logic/events/adele.rpy:2374
 translate chinese adele_4_label_d6390218:
@@ -7858,19 +7858,19 @@ translate chinese adele_4_label_97ba41e0:
 translate chinese adele_4_label_1775f012:
 
     # Adele "I confess, I didn't expect anything good from this date."
-    Adele "我承认，我没想到从这一天开始会有什么好事。"
+    Adele "我承认，我没指望这一次约会之后会有什么好事。"
 
 # game/logic/events/adele.rpy:2383
 translate chinese adele_4_label_176f3b45:
 
     # Adele "But you pleasantly surprised me, [Name]."
-    Adele "但是你让我惊喜，[Name]。"
+    Adele "但是你给了我惊喜，[Name]。"
 
 # game/logic/events/adele.rpy:2384
 translate chinese adele_4_label_ef064e54:
 
     # Adele "Alas, I have to run. The club opening is coming up."
-    Adele "唉，我得跑了。 俱乐部开幕即将到来。"
+    Adele "唉，我得溜了。俱乐部要开门了。"
 
 # game/logic/events/adele.rpy:2386
 translate chinese adele_4_label_81420d10:
@@ -7888,7 +7888,7 @@ translate chinese adele_4_label_71093c38:
 translate chinese adele_4_label_878f6746:
 
     # ch_Name "Maybe you'd like to do it again sometime?"
-    ch_Name "也许你想找个时间再做一次？"
+    ch_Name "也许你想找个时间再约一次？"
 
 # game/logic/events/adele.rpy:2389
 translate chinese adele_4_label_b786b006:
@@ -7900,7 +7900,7 @@ translate chinese adele_4_label_b786b006:
 translate chinese adele_4_label_105280ce:
 
     # Adele "{i}(A second date? It's been a while since I've gotten this far with someone.){/i}"
-    Adele "{i}(第二次约会？ 自从我和某人走到这一步已经有一段时间了。){/i}"
+    Adele "{i}(第二次约会？自从我和某人走到这一步已经有一段时间了。){/i}"
 
 # game/logic/events/adele.rpy:2392
 translate chinese adele_4_label_08384f43:
@@ -7912,7 +7912,7 @@ translate chinese adele_4_label_08384f43:
 translate chinese adele_4_label_befac959:
 
     # Adele "Okay. I'm in."
-    Adele "好的。 我进去了"
+    Adele "好的。我答应你。"
 
 # game/logic/events/adele.rpy:2395
 translate chinese adele_4_label_267d64ff:
@@ -7936,7 +7936,7 @@ translate chinese adele_4_label_a14d45d2:
 translate chinese adele_4_label_88c90f72:
 
     # Adele "М?"
-    Adele "M?"
+    Adele "嗯？"
 
 # game/logic/events/adele.rpy:2404
 translate chinese adele_4_label_3887b3ec:
@@ -7954,13 +7954,13 @@ translate chinese adele_4_label_a7d92bf5:
 translate chinese adele_4_label_cd1c6732:
 
     # Adele "You weren't kidding about the chutzpah, were you? Well..."
-    Adele "你不是在拿这个胆小鬼开玩笑吧？ 井..."
+    Adele "你这个胆小鬼不会是在开玩笑吧？好吧..."
 
 # game/logic/events/adele.rpy:2408
 translate chinese adele_4_label_feae0437:
 
     # Adele "Mmmm..."
-    Adele "Mmm..."
+    Adele "嗯 ..."
 
 # game/logic/events/adele.rpy:2409
 translate chinese adele_4_label_41c5f930:
@@ -7972,19 +7972,19 @@ translate chinese adele_4_label_41c5f930:
 translate chinese adele_4_label_a22620e8:
 
     # ch_Name "{i}(Would've spent the whole day without taking my eyes off of them.){/i}"
-    ch_Name "{i}(我会花一整天的时间而不把我的眼睛从他们身上移开。){/i}"
+    ch_Name "{i}(我可以盯着它们看上一整天。){/i}"
 
 # game/logic/events/adele.rpy:2412
 translate chinese adele_4_label_8982e1c4:
 
     # ch_Name "Mmm..."
-    ch_Name "Mmm..."
+    ch_Name "嗯..."
 
 # game/logic/events/adele.rpy:2413
 translate chinese adele_4_label_4caae414:
 
     # ch_Name "That's better."
-    ch_Name "那更好。"
+    ch_Name "好多了。"
 
 # game/logic/events/adele.rpy:2415
 translate chinese adele_4_label_c23ba6d5:
@@ -8002,7 +8002,7 @@ translate chinese adele_4_label_b7383fab:
 translate chinese adele_4_label_c010be43:
 
     # Adele "But I gotta run."
-    Adele "但我得跑。"
+    Adele "但我得溜了。"
 
 # game/logic/events/adele.rpy:2418
 translate chinese adele_4_label_25e265a2:
@@ -8014,7 +8014,7 @@ translate chinese adele_4_label_25e265a2:
 translate chinese adele_4_label_4a01fe35:
 
     # ch_Name "Thanks for a great day, I had fun."
-    ch_Name "感谢美好的一天，我玩得很开心。"
+    ch_Name "真是美好的一天，我玩得很开心。"
 
 # game/logic/events/adele.rpy:2423
 translate chinese adele_4_label_7a22acde:
@@ -8038,13 +8038,13 @@ translate chinese adele_4_label_48fb04cb:
 translate chinese adele_4_label_2721a194:
 
     # ch_Name "{i}(I don't know what I expected, but Adele turned out to be a very simple and nice girl.){/i}"
-    ch_Name "{i}(我不知道我期待什么，但 Adele 原来是一个非常简单和善良的女孩。){/i}"
+    ch_Name "{i}(我不知道我期待什么，但Adele本质上是一个非常单纯和善良的女孩。){/i}"
 
 # game/logic/events/adele.rpy:2435
 translate chinese adele_4_label_4f6c5899:
 
     # ch_Name "{i}(Well, I don't have much time left before the ship arrives.){/i}"
-    ch_Name "{i}(好吧，在船到达之前我没有多少时间了。){/i}"
+    ch_Name "{i}(好吧，在船靠岸之前我没有多少时间了。){/i}"
 
 # game/logic/events/adele.rpy:2436
 translate chinese adele_4_label_aaae5135:
@@ -8056,7 +8056,7 @@ translate chinese adele_4_label_aaae5135:
 translate chinese adele_4_label_ac52552f:
 
     # ch_Name "{i}(Huh, I'm not the only one who seems to have genius ideas.){/i}"
-    ch_Name "{i}(Huh，我不是唯一一个似乎有天才想法的人。){/i}"
+    ch_Name "{i}(嗯，我不是唯一一个有天才想法的人。){/i}"
 
 # game/logic/events/adele.rpy:2439
 translate chinese adele_4_label_a261f3b3:
@@ -8068,13 +8068,13 @@ translate chinese adele_4_label_a261f3b3:
 translate chinese adele_4_label_f712fa40:
 
     # ch_Name "{i}(Haley seems to be enjoying the views, too.){/i}"
-    ch_Name "{i}(Haley 似乎也很喜欢这里的景色。){/i}"
+    ch_Name "{i}(Haley似乎也很喜欢这里的景色。){/i}"
 
 # game/logic/events/adele.rpy:2443
 translate chinese adele_4_label_b6c891aa:
 
     # ch_Name "{i}(Well, I couldn't ask for better company.){/i}"
-    ch_Name "{i}(好吧，我不能要求更好的陪伴。){/i}"
+    ch_Name "{i}(好吧，有这样的陪伴，夫复何求呢。){/i}"
 
 # game/logic/events/adele.rpy:2444
 translate chinese adele_4_label_2190eba7:
@@ -8094,7 +8094,7 @@ translate chinese strings:
 
     # game/logic/events/adele.rpy:23
     old "Talk to Adele"
-    new "与 Adele 交谈"
+    new "与Adele交谈"
 
     # game/logic/events/adele.rpy:215
     old "Accept the drink"
@@ -8114,15 +8114,15 @@ translate chinese strings:
 
     # game/logic/events/adele.rpy:559
     old "!VIP lounge ($100)"
-    new "!VIP 休息室 ($100)"
+    new "!VIP休息室 ($100)"
 
     # game/logic/events/adele.rpy:559
     old "VIP lounge ($100)"
-    new "VIP 休息室 ($100)"
+    new "VIP休息室 ($100)"
 
     # game/logic/events/adele.rpy:559
     old "VIP lounge"
-    new "VIP 休息室"
+    new "VIP休息室"
 
     # game/logic/events/adele.rpy:559
     old "Not tonight"
@@ -8142,7 +8142,7 @@ translate chinese strings:
 
     # game/logic/events/adele.rpy:1137
     old "Let's try \"69\""
-    new "我们试试吧\"69\""
+    new "我们试试\"69\"吧"
 
     # game/logic/events/adele.rpy:1753
     old "Beer"
@@ -8242,13 +8242,13 @@ translate chinese vip_lucy_1_label_2_c4145045:
 translate chinese vip_lucy_1_label_2_9d207740:
 
     # ch_Name "{i}(Just look at this gorgeous view!){/i}"
-    ch_Name "{i}（看看这美丽的景色！）{/i}"
+    ch_Name "{i}（看看这美景！）{/i}"
 
 # game/logic/events/adele.rpy:994
 translate chinese vip_lucy_1_label_2_60500f24:
 
     # ch_Name "I can't imagine getting bored in your company."
-    ch_Name "我无法想象和你在一起会感到无聊。"
+    ch_Name "我无法想象和你在一起会怎么可能无聊。"
 
 # game/logic/events/adele.rpy:1007
 translate chinese vip_lucy_1_label_2_ad3c024d:
@@ -8278,7 +8278,7 @@ translate chinese vip_lucy_1_label_2_5cdab09c:
 translate chinese vip_lucy_1_label_2_d3ce1f4c:
 
     # Lucy "To feel it getting hard..."
-    Lucy "感觉它变得坚硬。。。"
+    Lucy "把它蹭得坚硬。。。"
 
 # game/logic/events/adele.rpy:1042
 translate chinese vip_lucy_1_label_2_4909ef40:
@@ -8314,7 +8314,7 @@ translate chinese vip_lucy_1_label_2_7d320c69:
 translate chinese vip_lucy_1_label_2_48226e7e:
 
     # ch_Name "It's so amazing to feel your every dirty hole."
-    ch_Name "感觉你的每一个脏洞都很奇妙。"
+    ch_Name "感觉你的每一个洞都很奇妙。"
 
 # game/logic/events/adele.rpy:1076
 translate chinese vip_lucy_1_label_2_270054a0:
@@ -8338,7 +8338,7 @@ translate chinese vip_lucy_1_label_2_d775f1ca:
 translate chinese vip_lucy_1_label_2_8596365f:
 
     # Lucy "Just inexpressible!"
-    Lucy "难以形容的！"
+    Lucy "难以言喻！"
 
 # game/logic/events/adele.rpy:1095
 translate chinese vip_lucy_1_label_2_e4862479:
@@ -8356,7 +8356,7 @@ translate chinese vip_sadira_1_label_1_6d019ab3:
 translate chinese vip_sadira_1_label_1_259e24a9:
 
     # Sadira "Me too..." with flash
-    Sadira "我也是。。。" with flash
+    Sadira "我也是……" with flash
 
 # game/logic/events/adele.rpy:1301
 translate chinese vip_sadira_1_label_1_d78d68f0:
@@ -8416,7 +8416,7 @@ translate chinese adele_3_label_581e6e13_1:
 translate chinese Adele_5_label_ba1ac958:
 
     # ch_Name "{i}(Adele seems to miss the good company. Good thing I'm here now.){/i}"
-    ch_Name "{i}（阿黛尔似乎想念这个好伙伴。还好我现在在这里。）{/i}"
+    ch_Name "{i}（阿黛尔似乎很想念这个好伙伴。还好我现在在这里。）{/i}"
 
 # game/logic/events/adele.rpy:2458
 translate chinese Adele_5_label_d23b66be:
@@ -8434,7 +8434,7 @@ translate chinese Adele_5_label_551577ab:
 translate chinese Adele_5_label_38cfdd3f:
 
     # Adele "Do you want a table or a VIP with someone?"
-    Adele "您想订一张桌子还是和别人一起订贵宾？"
+    Adele "您想订一张桌子还是和某人订一间VIP包厢？"
 
 # game/logic/events/adele.rpy:2462
 translate chinese Adele_5_label_ec1c9904:
@@ -8446,7 +8446,7 @@ translate chinese Adele_5_label_ec1c9904:
 translate chinese Adele_5_label_6256e540:
 
     # Adele "Me? The last time I looked, that wasn't on our menu."
-    Adele "我吗？我上次看的时候，我们的菜单上没有这个。"
+    Adele "我吗？我上次看的时候，我们的菜单上没有我。"
 
 # game/logic/events/adele.rpy:2465
 translate chinese Adele_5_label_38a14a70:
@@ -8470,7 +8470,7 @@ translate chinese Adele_5_label_49c87aa5:
 translate chinese Adele_5_label_a2fe69f4:
 
     # Adele "That's very sweet, doll. It really is, but I'm working right now."
-    Adele "你真好，宝贝。真的，但我现在在工作。"
+    Adele "你真好，宝贝。真的，但我现在在上班。"
 
 # game/logic/events/adele.rpy:2470
 translate chinese Adele_5_label_85dec623:
@@ -8488,19 +8488,19 @@ translate chinese Adele_5_label_390954a2:
 translate chinese Adele_5_label_7688104a:
 
     # ch_Name "Technically, Vanessa's bar is in your workplace."
-    ch_Name "严格来说，瓦内萨的酒吧就在你工作的地方。"
+    ch_Name "严格来说，凡妮莎的酒吧就在你上班的地方。"
 
 # game/logic/events/adele.rpy:2474
 translate chinese Adele_5_label_2f4580b3:
 
     # Adele "You have a point..."
-    Adele "你说得有道理。。"
+    Adele "你说得有道理……"
 
 # game/logic/events/adele.rpy:2475
 translate chinese Adele_5_label_8e88da8e:
 
     # Adele "But I have to say no."
-    Adele "但我不得不说不。"
+    Adele "但我不得不拒绝你。"
 
 # game/logic/events/adele.rpy:2476
 translate chinese Adele_5_label_be31ce93:
@@ -8512,13 +8512,13 @@ translate chinese Adele_5_label_be31ce93:
 translate chinese Adele_5_label_c69d2d31:
 
     # Adele "The rules don't allow us to drink in the workplace."
-    Adele "规定不允许我们在工作场所喝酒。"
+    Adele "我们有规定，在工作场合不能喝酒。"
 
 # game/logic/events/adele.rpy:2479
 translate chinese Adele_5_label_1f394712:
 
     # ch_Name "Stupid rules."
-    ch_Name "愚蠢的规则。"
+    ch_Name "傻逼规定。"
 
 # game/logic/events/adele.rpy:2480
 translate chinese Adele_5_label_0a1ce0e3:
@@ -8530,13 +8530,13 @@ translate chinese Adele_5_label_0a1ce0e3:
 translate chinese Adele_5_label_fc38ac08:
 
     # Adele "You can, why not?"
-    Adele "你可以，为什么不呢？"
+    Adele "当然，有何不可呢？"
 
 # game/logic/events/adele.rpy:2482
 translate chinese Adele_5_label_12322622:
 
     # ch_Name "But you just said..."
-    ch_Name "但你刚才说。。。"
+    ch_Name "但你刚才说……"
 
 # game/logic/events/adele.rpy:2484
 translate chinese Adele_5_label_4fa368b3:
