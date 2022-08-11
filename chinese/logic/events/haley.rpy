@@ -19020,7 +19020,7 @@ translate chinese CF_Haley_1_label_1855220c:
 translate chinese CF_Haley_1_label_1f6de5eb:
 
     # Haley "I completely forgot about my grandmother. Today is her birthday."
-    Haley "我差点把我奶奶的事忘了，今天是她生日。"
+    Haley "我差点把我外婆的事忘了，今天是她生日。"
 
 # game/logic/events/haley.rpy:2932
 translate chinese CF_Haley_1_label_ae6b3a71:
