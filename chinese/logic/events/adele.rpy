@@ -9340,7 +9340,7 @@ translate chinese Adele_5_label_from_gallery_f8569efd:
 translate chinese Adele_5_label_from_gallery_9337486d:
 
     # ch_Name "{i}(It's too late anyway.){/i}"
-    ch_Name "{i}（反正也太晚了。）{/i}"
+    ch_Name "{i}（不过，已经很晚了。）{/i}"
 
 # game/logic/events/adele.rpy:2702
 translate chinese Adele_5_label_from_gallery_7ed4e817:
@@ -9366,7 +9366,7 @@ translate chinese strings:
 translate chinese Adele_5_label_from_gallery_d61aeecc:
 
     # ch_Name "{i}(That much alcohol kills any shyness.){/i}"
-    ch_Name "{i}（那么多的酒精可以杀死任何害羞。）{/i}"
+    ch_Name "{i}（那么多的酒精可以可以把所有的害羞抛诸脑后。）{/i}"
 
 # game/logic/events/adele.rpy:2726
 translate chinese Adele_6_label_f6d0bf83:
@@ -9414,31 +9414,31 @@ translate chinese Adele_6_label_6d9e2767:
 translate chinese Adele_6_label_c7ec96b0:
 
     # Adele "Not really."
-    Adele "并非如此。"
+    Adele "不想。"
 
 # game/logic/events/adele.rpy:2736
 translate chinese Adele_6_label_eee686cf:
 
     # ch_Name "Oh..."
-    ch_Name "哦。。。"
+    ch_Name "哦……
 
 # game/logic/events/adele.rpy:2737
 translate chinese Adele_6_label_eb782f03:
 
     # Adele "It's not about you, honey. I'm just tired of loud music and dim lights..."
-    Adele "这不是关于你，亲爱的。我只是厌倦了嘈杂的音乐和昏暗的灯光。。。"
+    Adele "这不是你的问题，亲爱的。我只是厌倦了嘈杂的音乐和昏暗的灯光。。。"
 
 # game/logic/events/adele.rpy:2739
 translate chinese Adele_6_label_68d441e1:
 
     # Adele "Bu-u-u-t..."
-    Adele "但是。。。"
+    Adele "但是……
 
 # game/logic/events/adele.rpy:2740
 translate chinese Adele_6_label_1caa402b:
 
     # Adele "I'd be happy to go for a walk. Look at some stars and shit..."
-    Adele "我很乐意去散步。看一些星星和狗屎。。。"
+    Adele "我很乐意去散步。看一看星星……"
 
 # game/logic/events/adele.rpy:2741
 translate chinese Adele_6_label_e8d84f43:
@@ -9456,7 +9456,7 @@ translate chinese Adele_6_label_63c52919:
 translate chinese Adele_6_label_cbbdbe3f:
 
     # Adele "Sadira, love! "
-    Adele "Sadira，爱!"
+    Adele "Sadira，亲爱的！"
 
 # game/logic/events/adele.rpy:2745
 translate chinese Adele_6_label_3583d5da:
@@ -9492,7 +9492,7 @@ translate chinese Adele_6_label_5cdf57a2:
 translate chinese Adele_6_label_46e81fca:
 
     # Adele "I was just thinking about taking a night off."
-    Adele "我正在考虑休息一晚。"
+    Adele "我想休息一晚。"
 
 # game/logic/events/adele.rpy:2752
 translate chinese Adele_6_label_bd81414f:
@@ -9528,13 +9528,13 @@ translate chinese Adele_6_label_1e6b2c47:
 translate chinese Adele_6_label_70fc0b61:
 
     # Adele "Just look at those stars!"
-    Adele "看看所有这些星星!"
+    Adele "看看这些星星！"
 
 # game/logic/events/adele.rpy:2767
 translate chinese Adele_6_label_377b1a75:
 
     # ch_Name "I'm so glad I could get away from work..."
-    ch_Name "我很高兴能从工作中休息一下。。。"
+    ch_Name "我很高兴能从工作中脱身出来……"
 
 # game/logic/events/adele.rpy:2768
 translate chinese Adele_6_label_4aa8880b:
@@ -9552,43 +9552,43 @@ translate chinese Adele_6_label_d1cdcfde:
 translate chinese Adele_6_label_b8741ab3:
 
     # Adele "Look! Can you see it too?"
-    Adele "看，你也能看到吗？"
+    Adele "快看，你看到了吗？"
 
 # game/logic/events/adele.rpy:2773
 translate chinese Adele_6_label_8b8d859e:
 
     # Adele "It's a dragon!"
-    Adele "它是一条龙!"
+    Adele "是一条龙！"
 
 # game/logic/events/adele.rpy:2774
 translate chinese Adele_6_label_4341203b:
 
     # ch_Name "It really is!"
-    ch_Name "真的是这样!"
+    ch_Name "真的！"
 
 # game/logic/events/adele.rpy:2776
 translate chinese Adele_6_label_9a0e1c8a:
 
     # Adele "Oh, my God! I heard the rumors, but I didn't believe it!"
-    Adele "哦，我的上帝！我听说过这些谣言，但我不相信。"
+    Adele "哦，我的上帝！我听说过这些传言，但我不信。"
 
 # game/logic/events/adele.rpy:2777
 translate chinese Adele_6_label_6db9172b:
 
     # Adele "I thought all dragons were extinct..."
-    Adele "我以为所有的龙都已经灭绝了。。。"
+    Adele "我以为所有的龙都已经灭绝了……
 
 # game/logic/events/adele.rpy:2778
 translate chinese Adele_6_label_f1f6d915:
 
     # ch_Name "No, it's definitely a dragon."
-    ch_Name "不，这绝对是一条龙。"
+    ch_Name "不，这肯定是一条龙。"
 
 # game/logic/events/adele.rpy:2780
 translate chinese Adele_6_label_762387eb:
 
     # ch_Name "I think it's the same one I saw out the window on my way to the Academy."
-    ch_Name "我想这就是我在去学院的路上从窗外看到的那个。"
+    ch_Name "我想这就是我在去学院的路上从窗外看到的那只。"
 
 # game/logic/events/adele.rpy:2781
 translate chinese Adele_6_label_ac2a0ecb:
@@ -9606,13 +9606,13 @@ translate chinese Adele_6_label_9c7f93cb:
 translate chinese Adele_6_label_e0c221ab:
 
     # ch_Name "Yeah, well..."
-    ch_Name "是的，好。。。"
+    ch_Name "是的。
 
 # game/logic/events/adele.rpy:2784
 translate chinese Adele_6_label_15e08ce2:
 
     # ch_Name "It scared the hell out of us when we first saw it."
-    ch_Name "当我们第一次看到它时，它把我们吓坏了。"
+    ch_Name "我们第一次看到它的时候可把我们吓坏了。"
 
 # game/logic/events/adele.rpy:2785
 translate chinese Adele_6_label_e422a4c1:
@@ -9624,13 +9624,13 @@ translate chinese Adele_6_label_e422a4c1:
 translate chinese Adele_6_label_fdc80d6f:
 
     # Adele "They say their flames can burn through anything..."
-    Adele "他们说他们的火焰可以烧穿任何东西。。。"
+    Adele "他们说它们的火焰可以烧穿任何东西……"
 
 # game/logic/events/adele.rpy:2788
 translate chinese Adele_6_label_c2d05393:
 
     # ch_Name "You know, Adele. I've wanted to tell you for a long time that..."
-    ch_Name "你知道吗，Adele，我一直想告诉你，很长一段时间，。。。"
+    ch_Name "你知道吗，Adele，我一直想告诉你，很长一段时间以来我……"
 
 # game/logic/events/adele.rpy:2791
 translate chinese Adele_6_label_c201e58a:
@@ -9642,7 +9642,7 @@ translate chinese Adele_6_label_c201e58a:
 translate chinese Adele_6_label_027b1c56:
 
     # ch_Name "..."
-    ch_Name "。。。"
+    ch_Name "……"
 
 # game/logic/events/adele.rpy:2793
 translate chinese Adele_6_label_078cc834:
@@ -9702,7 +9702,7 @@ translate chinese Adele_6_label_from_gallery_0514db29:
 translate chinese Adele_6_label_from_gallery_3e7d979e:
 
     # ch_Name "{i}(Shit... And my hands. Why can't I move them?){/i}"
-    ch_Name "{i}（拉屎。。。还有我的手。为什么我不能移动它们？）{/i}"
+    ch_Name "{i}（奶奶的……还有我的手。为什么我的手动不了了？）{/i}"
 
 # game/logic/events/adele.rpy:2817
 translate chinese Adele_6_label_from_gallery_87226d4b:
@@ -9726,13 +9726,13 @@ translate chinese Adele_6_label_from_gallery_9b5d1688:
 translate chinese Adele_6_label_from_gallery_01acef89:
 
     # ch_Name "Adele! Can you hear me? Wake up!"
-    ch_Name "Adele！你能听到我吗？醒醒吧！"
+    ch_Name "Adele！听得见吗？醒醒！"
 
 # game/logic/events/adele.rpy:2822
 translate chinese Adele_6_label_from_gallery_f630457e:
 
     # Diego "You don't have to try, she's out."
-    Diego "你不需要尝试，她已经出来了。"
+    Diego "你不用叫了，她已经完了。"
 
 # game/logic/events/adele.rpy:2824
 translate chinese Adele_6_label_from_gallery_7117d1a5:
@@ -9744,13 +9744,13 @@ translate chinese Adele_6_label_from_gallery_7117d1a5:
 translate chinese Adele_6_label_from_gallery_9cc234ab:
 
     # ch_Name "{i}(Wait, I've seen him before...){/i}"
-    ch_Name "{i}（等等，我以前见过他。。。）{/i}"
+    ch_Name "{i}（等等，我以前见过他……）{/i}"
 
 # game/logic/events/adele.rpy:2826
 translate chinese Adele_6_label_from_gallery_1c2e444e:
 
     # ch_Name "You!"
-    ch_Name "你！"
+    ch_Name "是你！"
 
 # game/logic/events/adele.rpy:2827
 translate chinese Adele_6_label_from_gallery_51d59576:
@@ -9768,13 +9768,13 @@ translate chinese Adele_6_label_from_gallery_fa1b367d:
 translate chinese Adele_6_label_from_gallery_d4a6684d:
 
     # Diego "And you got a front-row seat in the auditorium."
-    Diego "而你在礼堂里得到了一个前排座位。"
+    Diego "而你在观众席上得到了一个前排座位。"
 
 # game/logic/events/adele.rpy:2831
 translate chinese Adele_6_label_from_gallery_e08fb1e2:
 
     # ch_Name "What... What are you talking about?"
-    ch_Name "什么。。。你在说什么？"
+    ch_Name "什么……你在说什么？"
 
 # game/logic/events/adele.rpy:2833
 translate chinese Adele_6_label_from_gallery_21018c9a:
@@ -9792,7 +9792,7 @@ translate chinese Adele_6_label_from_gallery_6439fbb5:
 translate chinese Adele_6_label_from_gallery_178d333c:
 
     # ch_Name "Adele has a right to choose who she sees."
-    ch_Name "Adele有权利选择她所看到的人。"
+    ch_Name "Adele有权利选择她看上的人。"
 
 # game/logic/events/adele.rpy:2837
 translate chinese Adele_6_label_from_gallery_cd193517:
@@ -9804,7 +9804,7 @@ translate chinese Adele_6_label_from_gallery_cd193517:
 translate chinese Adele_6_label_from_gallery_703be7eb:
 
     # Diego "I don't know what magic tricks you used to seduce her."
-    Diego "我不知道你用什么魔术来勾引她。"
+    Diego "我不知道你用了什么魔法来勾引她。"
 
 # game/logic/events/adele.rpy:2839
 translate chinese Adele_6_label_from_gallery_16a1757a:
@@ -9816,7 +9816,7 @@ translate chinese Adele_6_label_from_gallery_16a1757a:
 translate chinese Adele_6_label_from_gallery_fa214528:
 
     # ch_Name "And what are you going to do, keep her locked up here like a thing?"
-    ch_Name "那你打算怎么做，把她像个东西一样关在这里？"
+    ch_Name "那你打算怎么做，把她像个物品一样关在这里？"
 
 # game/logic/events/adele.rpy:2842
 translate chinese Adele_6_label_from_gallery_6c55c0bd:
@@ -9840,19 +9840,19 @@ translate chinese Adele_6_label_from_gallery_a5ab1afc:
 translate chinese Adele_6_label_from_gallery_234a38b2:
 
     # Adele "Hey! What's going on in there!"
-    Adele "嘿，里面发生了什么事！？"
+    Adele "嘿，发生了什么事！？"
 
 # game/logic/events/adele.rpy:2847
 translate chinese Adele_6_label_from_gallery_1f393adf:
 
     # Adele "Release me now, you bastard!"
-    Adele "现在释放我，你这个混蛋！"
+    Adele "快放了我，你这个混蛋！"
 
 # game/logic/events/adele.rpy:2848
 translate chinese Adele_6_label_from_gallery_b77f8f4d:
 
     # Adele "Can you hear me?"
-    Adele "你能听到我吗？"
+    Adele "听见我说话了吗？"
 
 # game/logic/events/adele.rpy:2849
 translate chinese Adele_6_label_from_gallery_cd37b934:
@@ -9930,7 +9930,7 @@ translate chinese Adele_6_label_from_gallery_afd7f647:
 translate chinese Adele_6_label_from_gallery_235ea374:
 
     # Adele "I don't care what you think! Release me immediately."
-    Adele "我才不管你怎么想呢！立即释放我。"
+    Adele "我才不管你怎么想呢！赶紧放了我。"
 
 # game/logic/events/adele.rpy:2867
 translate chinese Adele_6_label_from_gallery_22a7a62d:
@@ -9942,19 +9942,19 @@ translate chinese Adele_6_label_from_gallery_22a7a62d:
 translate chinese Adele_6_label_from_gallery_a47532ba:
 
     # Diego "You're in no position to demand anything."
-    Diego "你没有资格要求什么。"
+    Diego "你没有资格提要求。"
 
 # game/logic/events/adele.rpy:2870
 translate chinese Adele_6_label_from_gallery_fabebc9a:
 
     # Diego "I'm going to teach you obedience."
-    Diego "我要教你顺服。"
+    Diego "我要教你顺从。"
 
 # game/logic/events/adele.rpy:2871
 translate chinese Adele_6_label_from_gallery_d1044a19:
 
     # Adele "Whatever you're thinking, I won't let you..."
-    Adele "无论你在想什么，我都不会让你。。。"
+    Adele "无论你在想什么，我都不会让你……"
 
 # game/logic/events/adele.rpy:2873
 translate chinese Adele_6_label_from_gallery_5c70219c:
@@ -9978,7 +9978,7 @@ translate chinese Adele_6_label_from_gallery_4d828e66:
 translate chinese Adele_6_label_from_gallery_6621f457:
 
     # ch_Name "What, what have you got there?"
-    ch_Name "什么，你在那里得到了什么？"
+    ch_Name "什么，你拿的什么？"
 
 # game/logic/events/adele.rpy:2879
 translate chinese Adele_6_label_from_gallery_d59f16a3:
@@ -9990,7 +9990,7 @@ translate chinese Adele_6_label_from_gallery_d59f16a3:
 translate chinese Adele_6_label_from_gallery_054959e4:
 
     # Diego "I'll show you how to keep bitches like that in line."
-    Diego "我会告诉你如何使这样的母狗保持一致。"
+    Diego "我会告诉你如何让这样的母狗听你的话。"
 
 # game/logic/events/adele.rpy:2882
 translate chinese Adele_6_label_from_gallery_2b69c68c:
@@ -10002,13 +10002,13 @@ translate chinese Adele_6_label_from_gallery_2b69c68c:
 translate chinese Adele_6_label_from_gallery_b3ab4a43:
 
     # Adele "What... What are you doing in there?"
-    Adele "什么。。。 你在里面做什么？"
+    Adele "什么……你要干什么？"
 
 # game/logic/events/adele.rpy:2888
 translate chinese Adele_6_label_from_gallery_2bc36132:
 
     # Adele "Stop it!"
-    Adele "停止吧！"
+    Adele "快住手！"
 
 # game/logic/events/adele.rpy:2891
 translate chinese Adele_6_label_from_gallery_4fc2e1ec:
@@ -10044,13 +10044,13 @@ translate chinese Adele_6_label_from_gallery_893a6267:
 translate chinese Adele_6_label_from_gallery_f35ee557:
 
     # Adele "You think you can get away with this?!"
-    Adele "你认为你能逃脱这个吗？"
+    Adele "你觉得你能逃脱吗？"
 
 # game/logic/events/adele.rpy:2900
 translate chinese Adele_6_label_from_gallery_86f983c7:
 
     # Diego "I think the bitch is still kicking. But nothing!"
-    Diego "我想那个婊子还在踢球。但什么也没有！"
+    Diego "我想那个婊子还在乱踢。但没什么卵用！"
 
 # game/logic/events/adele.rpy:2902
 translate chinese Adele_6_label_from_gallery_7d2e0319:
@@ -10068,7 +10068,7 @@ translate chinese Adele_6_label_from_gallery_2af752ae:
 translate chinese Adele_6_label_from_gallery_ca0591c5:
 
     # ch_Name "Stop it right now, asshole!" with hpunch
-    ch_Name "现在就停止吧，混蛋！" with hpunch
+    ch_Name "快住手吧，混蛋！" with hpunch
 
 # game/logic/events/adele.rpy:2909
 translate chinese Adele_6_label_from_gallery_fe0c4f9b:
@@ -10110,7 +10110,7 @@ translate chinese Adele_6_label_from_gallery_1fc7a6eb:
 translate chinese Adele_6_label_from_gallery_a454b74d:
 
     # Adele "No, please! Don't!"
-    Adele "不，请！不要！"
+    Adele "不，求你了！不要！"
 
 # game/logic/events/adele.rpy:2920
 translate chinese Adele_6_label_from_gallery_28358bcf:
@@ -10134,7 +10134,7 @@ translate chinese Adele_6_label_from_gallery_73ebbcc2_1:
 translate chinese Adele_6_label_from_gallery_58b9d110:
 
     # Diego "He ain't gonna do you any good, whore."
-    Diego "他不会对你有任何好处，妓女。"
+    Diego "他不会对你好的，妓女。"
 
 # game/logic/events/adele.rpy:2925
 translate chinese Adele_6_label_from_gallery_48a7c66c:
@@ -10146,13 +10146,13 @@ translate chinese Adele_6_label_from_gallery_48a7c66c:
 translate chinese Adele_6_label_from_gallery_f4045f01:
 
     # Adele "Please, [Name]... Do something!"
-    Adele "拜托，[Name]。。。做点什么!"
+    Adele "拜托，[Name]……做点什么！"
 
 # game/logic/events/adele.rpy:2928
 translate chinese Adele_6_label_from_gallery_0e4418c2:
 
     # ch_Name "Adele! I'm trying to..."
-    ch_Name "Adele! 我正在努力。。。"
+    ch_Name "Adele！我正在努力。。。"
 
 # game/logic/events/adele.rpy:2929
 translate chinese Adele_6_label_from_gallery_2bfba8c6:
@@ -10164,7 +10164,7 @@ translate chinese Adele_6_label_from_gallery_2bfba8c6:
 translate chinese Adele_6_label_from_gallery_7794d55c:
 
     # ch_Name "You're mad at me, not her!"
-    ch_Name "你是在生我的气，不是在生她的气!"
+    ch_Name "有什么事冲我来，别拿她出气！"
 
 # game/logic/events/adele.rpy:2931
 translate chinese Adele_6_label_from_gallery_1fa594d8:
@@ -10176,13 +10176,13 @@ translate chinese Adele_6_label_from_gallery_1fa594d8:
 translate chinese Adele_6_label_from_gallery_f6869edb:
 
     # Diego "All in good time, boy."
-    Diego "这一切都在良好的时间，孩子。"
+    Diego "这一切都刚刚好，孩子。"
 
 # game/logic/events/adele.rpy:2934
 translate chinese Adele_6_label_from_gallery_1557df26:
 
     # Diego "In the meantime, watch the bitch become a submissive pussy."
-    Diego "同时，看着这个婊子变成一个顺从的阴户。"
+    Diego "同时，看着这个婊子变成一只顺从的小猫。"
 
 # game/logic/events/adele.rpy:2935
 translate chinese Adele_6_label_from_gallery_a8bdf707:
@@ -10212,7 +10212,7 @@ translate chinese Adele_6_label_from_gallery_cc49a121:
 translate chinese Adele_6_label_from_gallery_b37b92c2:
 
     # Adele "Please... Don't!"
-    Adele "请。。。不要！"
+    Adele "求你了……不要！"
 
 # game/logic/events/adele.rpy:2943
 translate chinese Adele_6_label_from_gallery_3a79f2e5:
@@ -10230,37 +10230,37 @@ translate chinese Adele_6_label_from_gallery_f25e4217:
 translate chinese Adele_6_label_from_gallery_ecedb6e9:
 
     # Diego "Open your mouth, I said!"
-    Diego "张开你的嘴，我说！"
+    Diego "我说了，张开你的嘴！"
 
 # game/logic/events/adele.rpy:2948
 translate chinese Adele_6_label_from_gallery_3d80b9aa:
 
     # ch_Name "{i}(I've got to do something!){/i}"
-    ch_Name "{i}（我必须要做一些事情！）{/i}"
+    ch_Name "{i}（我必须做点什么！）{/i}"
 
 # game/logic/events/adele.rpy:2949
 translate chinese Adele_6_label_from_gallery_63a61ae4:
 
     # ch_Name "{i}(Right now!){/i}"
-    ch_Name "{i}（就是现在!）{/i}"
+    ch_Name "{i}（就是现在！）{/i}"
 
 # game/logic/events/adele.rpy:2950
 translate chinese Adele_6_label_from_gallery_b6c2a60d:
 
     # ch_Name "{i}(Shit! Come on!){/i}"
-    ch_Name "{i}（屎！来吧！）{/i}"
+    ch_Name "{i}（该死！别这样！）{/i}"
 
 # game/logic/events/adele.rpy:2951
 translate chinese Adele_6_label_from_gallery_27146d9c:
 
     # ch_Name "{i}(I got it! I can break free!){/i}"
-    ch_Name "{i}（我可以挣脱束缚!）{/i}"
+    ch_Name "{i}（我可以挣脱束缚！）{/i}"
 
 # game/logic/events/adele.rpy:2953
 translate chinese Adele_6_label_from_gallery_57f2ebb3:
 
     # Diego "Come on, Adele. I know you want it too!"
-    Diego "来吧，阿黛尔。我知道你也想这样!"
+    Diego "来吧，阿黛尔。我知道你也想这样！"
 
 # game/logic/events/adele.rpy:2956
 translate chinese Adele_6_label_from_gallery_ec612954:
@@ -10278,31 +10278,31 @@ translate chinese Adele_6_label_from_gallery_de75c0c9:
 translate chinese Adele_6_label_from_gallery_6bc15856:
 
     # Diego "You think you can stop me?"
-    Diego "你认为你能阻止我吗？"
+    Diego "你以为你能阻止我吗？"
 
 # game/logic/events/adele.rpy:2959
 translate chinese Adele_6_label_from_gallery_a0717fc0:
 
     # Diego "All right, I'll pull up my pants and put you in your place."
-    Diego "好吧，我把我的裤子拉起来，把你放在你的位置上。"
+    Diego "好吧，我把裤子拉起来，来好好对付你。"
 
 # game/logic/events/adele.rpy:2966
 translate chinese Adele_6_label_from_gallery_9e6926a6:
 
     # Diego "You think you can do something?"
-    Diego "你认为你能做什么？"
+    Diego "你以为你能做什么？"
 
 # game/logic/events/adele.rpy:2967
 translate chinese Adele_6_label_from_gallery_e708f432:
 
     # Diego "Come on, give it a shot!"
-    Diego "来吧，给它一个机会!"
+    Diego "来啊，来射我啊！"
 
 # game/logic/events/adele.rpy:2969
 translate chinese Adele_6_label_from_gallery_184d53f1:
 
     # ch_Name "You should have listened when I asked nicely."
-    ch_Name "当我好言相劝时，你应该听从。"
+    ch_Name "别敬酒不吃，吃罚酒。"
 
 # game/logic/events/adele.rpy:2970
 translate chinese Adele_6_label_from_gallery_933bd3e4:
@@ -10332,13 +10332,13 @@ translate chinese Adele_6_label_from_gallery_54e00266:
 translate chinese Adele_6_label_from_gallery_9995d3c4:
 
     # Diego "I'll get you now!"
-    Diego "我现在就去找你!"
+    Diego "我现在就要拿下你！"
 
 # game/logic/events/adele.rpy:2976
 translate chinese Adele_6_label_from_gallery_62c4bbf9:
 
     # ch_Name "{i}(Time to show him what I learned at the Academy!){/i}"
-    ch_Name "{i}（是时候让他看看我在学院里学到的东西了!）{/i}"
+    ch_Name "{i}（是时候让他看看我在学院里学到的东西了！）{/i}"
 
 # game/logic/events/adele.rpy:2979
 translate chinese Adele_6_label_from_gallery_60aa4c33:
@@ -10356,7 +10356,7 @@ translate chinese Adele_6_label_from_gallery_2971d8dc:
 translate chinese Adele_6_label_from_gallery_c9649a2b:
 
     # Diego "..."
-    Diego "。。。"
+    Diego "……"
 
 # game/logic/events/adele.rpy:2983
 translate chinese Adele_6_label_from_gallery_e613737d:
@@ -10368,7 +10368,7 @@ translate chinese Adele_6_label_from_gallery_e613737d:
 translate chinese Adele_6_label_from_gallery_40d8a2da:
 
     # Adele "[Name]! You did it!"
-    Adele "[Name]! 你成功了!"
+    Adele "[Name]！你成功了！"
 
 # game/logic/events/adele.rpy:2986
 translate chinese Adele_6_label_from_gallery_afdde4d2:
@@ -10380,19 +10380,19 @@ translate chinese Adele_6_label_from_gallery_afdde4d2:
 translate chinese Adele_6_label_from_gallery_0d953460:
 
     # ch_Name "I'm on my way to help."
-    ch_Name "我正在去帮助的路上。"
+    ch_Name "我这就来帮你。"
 
 # game/logic/events/adele.rpy:2989
 translate chinese Adele_6_label_from_gallery_b062b2b7:
 
     # Adele "I knew you could do it..."
-    Adele "我知道你能做到这一点。。。"
+    Adele "我知道你能做到这……"
 
 # game/logic/events/adele.rpy:2996
 translate chinese Adele_6_label_from_gallery_0aecfac8:
 
     # Adele "Ah, that's better."
-    Adele "啊，那就更好了。"
+    Adele "啊，感觉好多了。"
 
 # game/logic/events/adele.rpy:2997
 translate chinese Adele_6_label_from_gallery_e651b939:
@@ -10404,19 +10404,19 @@ translate chinese Adele_6_label_from_gallery_e651b939:
 translate chinese Adele_6_label_from_gallery_f6401630:
 
     # ch_Name "{i}(This probably isn't the best time to stare.){/i}"
-    ch_Name "{i}（这可能不是盯着的最佳时机。）{/i}"
+    ch_Name "{i}（这可能不是偷看的最佳时机。）{/i}"
 
 # game/logic/events/adele.rpy:3000
 translate chinese Adele_6_label_from_gallery_0aca9b6d:
 
     # ch_Name "I just need to find your clothes."
-    ch_Name "我只是需要找到你的衣服。"
+    ch_Name "我只需要找到你的衣服。"
 
 # game/logic/events/adele.rpy:3002
 translate chinese Adele_6_label_from_gallery_8f8b8eb0:
 
     # Adele "I think I know where they are."
-    Adele "我想我知道他们在哪里。"
+    Adele "我想我知道它们在哪里。"
 
 # game/logic/events/adele.rpy:3003
 translate chinese Adele_6_label_from_gallery_f0a2515a:
@@ -10428,13 +10428,13 @@ translate chinese Adele_6_label_from_gallery_f0a2515a:
 translate chinese Adele_6_label_from_gallery_dfff9d87:
 
     # Adele "I've been here once. I'll get them."
-    Adele "我已经来过一次了。我去接他们。"
+    Adele "我已经来过一次了。我去拿过来。"
 
 # game/logic/events/adele.rpy:3006
 translate chinese Adele_6_label_from_gallery_72f787a4:
 
     # ch_Name "{i}(He doesn't seem to be coming to his senses anytime soon.){/i}"
-    ch_Name "{i}（他似乎不会很快恢复理智。）{/i}"
+    ch_Name "{i}（他似乎不会很快醒过来。）{/i}"
 
 # game/logic/events/adele.rpy:3007
 translate chinese Adele_6_label_from_gallery_e8e74e5a:
@@ -10464,7 +10464,7 @@ translate chinese Adele_6_label_from_gallery_da677df5:
 translate chinese Adele_6_label_from_gallery_3de104cb:
 
     # Adele "Oh, [Name]. I was so scared."
-    Adele "哦，[Name]。我是如此的害怕。"
+    Adele "哦，[Name]。我好害怕啊。"
 
 # game/logic/events/adele.rpy:3014
 translate chinese Adele_6_label_from_gallery_47b88595:
@@ -10476,13 +10476,13 @@ translate chinese Adele_6_label_from_gallery_47b88595:
 translate chinese Adele_6_label_from_gallery_e5cbb336:
 
     # ch_Name "Don't be afraid. It's all over now."
-    ch_Name "不要害怕。现在一切都结束了。"
+    ch_Name "别怕。现在一切都结束了。"
 
 # game/logic/events/adele.rpy:3017
 translate chinese Adele_6_label_from_gallery_cc1c44b0:
 
     # ch_Name "I'm just glad I could be there in time to help."
-    ch_Name "我只是很高兴我能及时赶到那里帮忙。"
+    ch_Name "我只是很高兴我能及时醒来帮忙。"
 
 # game/logic/events/adele.rpy:3019
 translate chinese Adele_6_label_from_gallery_b981bae9:
@@ -10500,7 +10500,7 @@ translate chinese Adele_6_label_from_gallery_a41fe6cd:
 translate chinese Adele_6_label_from_gallery_3189b12c:
 
     # Adele "Go away and leave it to me."
-    Adele "走吧，把它留给我。"
+    Adele "走吧，把它交给我。"
 
 # game/logic/events/adele.rpy:3022
 translate chinese Adele_6_label_from_gallery_f113a10a:
@@ -10512,19 +10512,19 @@ translate chinese Adele_6_label_from_gallery_f113a10a:
 translate chinese Adele_6_label_from_gallery_0acd73bd:
 
     # Adele "Oh, I'm sure."
-    Adele "哦，我肯定。"
+    Adele "哦，我确定。"
 
 # game/logic/events/adele.rpy:3025
 translate chinese Adele_6_label_from_gallery_17620d50:
 
     # ch_Name "{i}(What a night... Definitely not the date I had planned.){/i}"
-    ch_Name "{i}（多么美好的夜晚。。。绝对不是我计划的那个约会。）{/i}"
+    ch_Name "{i}（多么美好的夜晚……绝对不是我计划的那个约会。）{/i}"
 
 # game/logic/events/adele.rpy:3026
 translate chinese Adele_6_label_from_gallery_1fa87991:
 
     # ch_Name "{i}(I can't wait to go to bed and forget this like a bad dream.){/i}"
-    ch_Name "{i}（我迫不及待地想上床睡觉，像做恶梦一样忘记这一切。）{/i}"
+    ch_Name "{i}（我迫不及待地想上床睡觉，像一场噩梦一样忘记这一切。）{/i}"
 
 # game/logic/events/adele.rpy:3030
 translate chinese Adele_6_label_from_gallery_be2bda5d:
