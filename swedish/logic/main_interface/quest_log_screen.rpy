@@ -31,7 +31,7 @@ translate swedish strings:
     new ""
 
     # game/logic/main_interface/quest_log_screen.rpy:440
-    old "KNOWN SPEELS"
+    old "KNOWN SPELLS"
     new "KÄNDA BETROVLINGAR"
 
     # game/logic/main_interface/quest_log_screen.rpy:464

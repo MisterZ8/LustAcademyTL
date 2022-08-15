@@ -31,7 +31,7 @@ translate spanish strings:
     new "   Mi\nCasa"
 
     # game/logic/main_interface/quest_log_screen.rpy:440
-    old "KNOWN SPEELS"
+    old "KNOWN SPELLS"
     new "HECHIZOS APRENDIDOS"
 
     # game/logic/main_interface/quest_log_screen.rpy:464

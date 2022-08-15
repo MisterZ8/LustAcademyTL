@@ -31,7 +31,7 @@ translate deutsch strings:
     new "Mein\nhouse"
 
     # game/logic/main_interface/quest_log_screen.rpy:440
-    old "KNOWN SPEELS"
+    old "KNOWN SPELLS"
     new "Bekannte Zaubersprüche"
 
     # game/logic/main_interface/quest_log_screen.rpy:464

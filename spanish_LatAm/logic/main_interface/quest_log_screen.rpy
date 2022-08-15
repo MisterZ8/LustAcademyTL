@@ -31,7 +31,7 @@ translate spanish_LatAm strings:
     new "   Mi\ncasa"
 
     # game/logic/main_interface/quest_log_screen.rpy:440
-    old "KNOWN SPEELS"
+    old "KNOWN SPELLS"
     new "ENCANTAMIENTOS CONOCIDOS"
 
     # game/logic/main_interface/quest_log_screen.rpy:464

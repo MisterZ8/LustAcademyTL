@@ -31,7 +31,7 @@ translate russian strings:
     new " Мой\nфакультет"
 
     # game/logic/main_interface/quest_log_screen.rpy:440
-    old "KNOWN SPEELS"
+    old "KNOWN SPELLS"
     new "ИЗУЧЕННЫЕ ЗАКЛИНАНИЯ"
 
     # game/logic/main_interface/quest_log_screen.rpy:464

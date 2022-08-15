@@ -31,7 +31,7 @@ translate hungarian strings:
     new ""
 
     # game/logic/main_interface/quest_log_screen.rpy:440
-    old "KNOWN SPEELS"
+    old "KNOWN SPELLS"
     new "ISMERT VARÁZSLATOK"
 
     # game/logic/main_interface/quest_log_screen.rpy:464

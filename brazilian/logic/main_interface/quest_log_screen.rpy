@@ -31,7 +31,7 @@ translate brazilian strings:
     new "Minha\ncasa"
 
     # game/logic/main_interface/quest_log_screen.rpy:440
-    old "KNOWN SPEELS"
+    old "KNOWN SPELLS"
     new "FEITIÇOS CONHECIDOS"
 
     # game/logic/main_interface/quest_log_screen.rpy:464

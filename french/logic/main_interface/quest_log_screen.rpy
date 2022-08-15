@@ -31,7 +31,7 @@ translate french strings:
     new "   Ma\nmaison"
 
     # game/logic/main_interface/quest_log_screen.rpy:440
-    old "KNOWN SPEELS"
+    old "KNOWN SPELLS"
     new "SORTS CONNUS"
 
     # game/logic/main_interface/quest_log_screen.rpy:464

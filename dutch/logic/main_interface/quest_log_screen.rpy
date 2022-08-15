@@ -31,7 +31,7 @@ translate dutch strings:
     new "   My\nhouse"
 
     # game/logic/main_interface/quest_log_screen.rpy:440
-    old "KNOWN SPEELS"
+    old "KNOWN SPELLS"
     new "BEKENDE TOPPERS"
 
     # game/logic/main_interface/quest_log_screen.rpy:464

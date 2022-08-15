@@ -31,7 +31,7 @@ translate chinese strings:
     new "   我的\n分院"
 
     # game/logic/main_interface/quest_log_screen.rpy:440
-    old "KNOWN SPEELS"
+    old "KNOWN SPELLS"
     new "已知咒语"
 
     # game/logic/main_interface/quest_log_screen.rpy:464
