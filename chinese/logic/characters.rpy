@@ -226,3 +226,11 @@ translate chinese strings:
     old "Strange girl"
     new "奇怪的女孩"
 
+# TODO: Translation updated at 2022-08-27 02:14
+
+translate chinese strings:
+
+    # game/logic/characters.rpy:76
+    old "Unknown pixie"
+    new ""
+

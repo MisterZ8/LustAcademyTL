@@ -4154,3 +4154,77 @@ translate chinese Amelie_3_label_6368547e:
     # ch_Name "Here's your purse, at least."
     ch_Name "起码我们找到了你的钱包。"
 
+# TODO: Translation updated at 2022-08-27 02:14
+
+# game/logic/events/amelie.rpy:545
+translate chinese Amelie_3_label_41065d3e:
+
+    # ch_Name "But let's try to find the purse first. "
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:546
+translate chinese Amelie_3_label_21668a45:
+
+    # ch_Name "Where did you see it last time before it was stolen?"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:688
+translate chinese Amelie_3_label_cc4b2ee8:
+
+    # ch_Name "Let's show these pixies that Cordale is not to be trifled with."
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:728
+translate chinese Amelie_4_label_f4f98d6f:
+
+    # Amelie "But since an average pixie is much smaller than a human..."
+    Amelie ""
+
+# game/logic/events/amelie.rpy:767
+translate chinese Amelie_4_label_f2585f92:
+
+    # ch_Name "{i}(I couldn't even imagine pixies facility looking like that!){/i}"
+    ch_Name ""
+
+# game/logic/events/amelie.rpy:772
+translate chinese Amelie_4_label_551a1a70:
+
+    # UnknownPixie "What do you want?"
+    UnknownPixie ""
+
+# game/logic/events/amelie.rpy:773
+translate chinese Amelie_4_label_883858b1:
+
+    # UnknownPixie "You have no business here, magicians. This is our territory."
+    UnknownPixie ""
+
+# game/logic/events/amelie.rpy:775
+translate chinese Amelie_4_label_635fbd46:
+
+    # UnknownPixie "To speak about what?"
+    UnknownPixie ""
+
+# game/logic/events/amelie.rpy:778
+translate chinese Amelie_4_label_dfc4cd4c:
+
+    # UnknownPixie "What are you talking about?"
+    UnknownPixie ""
+
+# game/logic/events/amelie.rpy:779
+translate chinese Amelie_4_label_1da62f0b:
+
+    # UnknownPixie "Are you sure that those who stole it were pixies?"
+    UnknownPixie ""
+
+# game/logic/events/amelie.rpy:782
+translate chinese Amelie_4_label_ba018abe:
+
+    # UnknownPixie "Um... Wait here."
+    UnknownPixie ""
+
+# game/logic/events/amelie.rpy:785
+translate chinese Amelie_4_label_353a4c2f:
+
+    # UnknownPixie "My name is Grang. What are you looking for, strangers?"
+    UnknownPixie ""
+

@@ -9420,7 +9420,7 @@ translate chinese Adele_6_label_c7ec96b0:
 translate chinese Adele_6_label_eee686cf:
 
     # ch_Name "Oh..."
-    ch_Name "哦……
+    ch_Name "哦……"
 
 # game/logic/events/adele.rpy:2737
 translate chinese Adele_6_label_eb782f03:
@@ -9432,7 +9432,7 @@ translate chinese Adele_6_label_eb782f03:
 translate chinese Adele_6_label_68d441e1:
 
     # Adele "Bu-u-u-t..."
-    Adele "但是……
+    Adele "但是……"
 
 # game/logic/events/adele.rpy:2740
 translate chinese Adele_6_label_1caa402b:
@@ -9576,7 +9576,7 @@ translate chinese Adele_6_label_9a0e1c8a:
 translate chinese Adele_6_label_6db9172b:
 
     # Adele "I thought all dragons were extinct..."
-    Adele "我以为所有的龙都已经灭绝了……
+    Adele "我以为所有的龙都已经灭绝了……"
 
 # game/logic/events/adele.rpy:2778
 translate chinese Adele_6_label_f1f6d915:
@@ -9606,7 +9606,7 @@ translate chinese Adele_6_label_9c7f93cb:
 translate chinese Adele_6_label_e0c221ab:
 
     # ch_Name "Yeah, well..."
-    ch_Name "是的。
+    ch_Name "是的。"
 
 # game/logic/events/adele.rpy:2784
 translate chinese Adele_6_label_15e08ce2:
