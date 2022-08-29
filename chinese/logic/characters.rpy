@@ -4,7 +4,7 @@ translate chinese strings:
 
     # game/logic/characters.rpy:7
     old "???"
-    new "???"
+    new "？？？"
 
     # game/logic/characters.rpy:8
     old "Ring, ring..."
@@ -232,5 +232,5 @@ translate chinese strings:
 
     # game/logic/characters.rpy:76
     old "Unknown pixie"
-    new ""
+    new "未知小仙女"
 
