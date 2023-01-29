@@ -10900,7 +10900,7 @@ translate chinese Audrey_9_label_L_184_d2d1281a:
 translate chinese Audrey_9_label_L_184_5a8d862e:
 
     # Audrey "Stop wasting my time, [Name]! Get out of here."
-    Audrey "别再浪费我的时间了，[Name)]！滚蛋。"
+    Audrey "别再浪费我的时间了，[Name]！滚蛋。"
 
 # game/logic/events/audrey.rpy:3194
 translate chinese Audrey_9_label_L_184_11dbf333:
@@ -11860,7 +11860,7 @@ translate chinese Audrey_9_label_L_374_d2d1281a:
 translate chinese Audrey_9_label_L_374_5a8d862e:
 
     # Audrey "Stop wasting my time, [Name]! Get out of here."
-    Audrey "别再浪费我的时间了，[Name)]!离开这里。"
+    Audrey "别再浪费我的时间了，[Name]!离开这里。"
 
 # game/logic/events/audrey.rpy:3427
 translate chinese Audrey_9_label_L_374_11dbf333:
