@@ -10,7 +10,7 @@ translate chinese 69ff737f:
 translate chinese start_54c881dc:
 
     # NoName "Hi! My name is..."
-    NoName "你好！我的名字是..."
+    NoName "你好！我叫……"
 
 # game/script.rpy:768
 translate chinese start_input_2_a0ecd7a8:
@@ -22,7 +22,7 @@ translate chinese start_input_2_a0ecd7a8:
 translate chinese start_input_2_f789cadc:
 
     # ch_Name "I should have been at training camp with my team right now."
-    ch_Name "我现在应该和我的队员们在训练营。"
+    ch_Name "我本来应该和我的队友们在训练营。"
 
 # game/script.rpy:776
 translate chinese start_input_2_d05c9319:
@@ -34,7 +34,7 @@ translate chinese start_input_2_d05c9319:
 translate chinese start_input_2_8ba3057e:
 
     # ch_Name "Double open fracture..."
-    ch_Name "双重开放性骨折..."
+    ch_Name "双重开放性骨折……"
 
 # game/script.rpy:781
 translate chinese start_input_2_9ca377b3:
@@ -46,7 +46,7 @@ translate chinese start_input_2_9ca377b3:
 translate chinese start_input_2_b118fdd0:
 
     # ch_Name "Still, I had to say goodbye to my soccer career..."
-    ch_Name "尽管如此，我还是不得不和我的足球生涯说再见了..."
+    ch_Name "尽管如此，我还是不得不和我的足球生涯说再见了……"
 
 # game/script.rpy:783
 translate chinese start_input_2_e826d333:
@@ -58,19 +58,19 @@ translate chinese start_input_2_e826d333:
 translate chinese start_input_2_9cc3f3ac:
 
     # ch_Name "So I had to find another way to get an education."
-    ch_Name "所以我不得不另寻他法去接受教育。"
+    ch_Name "所以我不得不另寻他法继续上学。"
 
 # game/script.rpy:789
 translate chinese start_input_2_55620e58:
 
     # ch_Name "Samantha suggested I try photography."
-    ch_Name "Samantha建议我试试摄影。"
+    ch_Name "萨曼莎建议我试试摄影。"
 
 # game/script.rpy:791
 translate chinese start_input_2_a8a5cb72:
 
     # ch_Name "As it turns out, I'm a natural!"
-    ch_Name "事实证明，我有这个天赋!"
+    ch_Name "事实证明，我有这个天赋！"
 
 # game/script.rpy:793
 translate chinese start_input_2_e0b7f024:
@@ -112,7 +112,7 @@ translate chinese start_input_2_b6ce45a5:
 translate chinese start_input_2_6f8b77bd:
 
     # Olivia "[Name] [Surname]! You've been slacking again?"
-    Olivia "[Name] [Surname]! 你又在偷懒了?"
+    Olivia "[Name] [Surname]！ 你又在偷懒了？"
 
 # game/script.rpy:865
 translate chinese start_input_2_fcb030eb:
@@ -124,49 +124,49 @@ translate chinese start_input_2_fcb030eb:
 translate chinese start_input_2_944e7bfb:
 
     # ch_Name "Please don't start that, Olivia, I've been working all day."
-    ch_Name "别这么说，Olivia，我忙了一整天。"
+    ch_Name "别这么说，奥利维亚，我忙了一整天。"
 
 # game/script.rpy:869
 translate chinese start_input_2_9039396f:
 
     # Olivia "Start what?!"
-    Olivia "我说什么了?!"
+    Olivia "我说什么了？！"
 
 # game/script.rpy:871
 translate chinese start_input_2_f6f68885:
 
     # Olivia "What kind of tone is that?"
-    Olivia "你这是什么态度?"
+    Olivia "你这是什么态度？"
 
 # game/script.rpy:873
 translate chinese start_input_2_4d4ef9ab:
 
     # Olivia "You've been in your room all day!"
-    Olivia "你都窝在房间里一整天了!"
+    Olivia "你都窝在房间里一整天了！"
 
 # game/script.rpy:875
 translate chinese start_input_2_3c898584:
 
     # Olivia "Or do you think I'm blind?!"
-    Olivia "还是你觉得我瞎了?!"
+    Olivia "还是你觉得我瞎了？！"
 
 # game/script.rpy:877
 translate chinese start_input_2_b510ad9f:
 
     # ch_Name "But..."
-    ch_Name "但是..."
+    ch_Name "可是……"
 
 # game/script.rpy:879
 translate chinese start_input_2_ad8c35fe:
 
     # Olivia "No buts!"
-    Olivia "别找借口!"
+    Olivia "别找借口！"
 
 # game/script.rpy:881
 translate chinese start_input_2_9a44f10c:
 
     # Olivia "That's what Don was talking about. You're out of control!"
-    Olivia "Don说的就是这个。你失控了!"
+    Olivia "唐说的就是这个。你又不听话了！"
 
 # game/script.rpy:883
 translate chinese start_input_2_3a73df72:
@@ -178,61 +178,61 @@ translate chinese start_input_2_3a73df72:
 translate chinese start_input_2_2a5612ed:
 
     # Olivia "If your mother heard that at 18 years old..."
-    Olivia "如果你妈妈在18岁的时候听到这句话..."
+    Olivia "如果你妈妈听到……"
 
 # game/script.rpy:887
 translate chinese start_input_2_362faf0b:
 
     # Olivia "...her son would neither study nor work!"
-    Olivia "...她的儿子既不学习也不工作!"
+    Olivia "……她18岁的儿子既不学习也不工作！"
 
 # game/script.rpy:889
 translate chinese start_input_2_2043c397:
 
     # Olivia "She'd be spinning in her grave!"
-    Olivia "她死后都睡不安稳!"
+    Olivia "她死后都睡不安稳！"
 
 # game/script.rpy:891
 translate chinese start_input_2_f6a83891:
 
     # ch_Name "Olivia..."
-    ch_Name "Olivia..."
+    ch_Name "奥利维亚……"
 
 # game/script.rpy:893
 translate chinese start_input_2_117ab70a:
 
     # ch_Name "Leave my mother alone!"
-    ch_Name "不准你说我妈妈!"
+    ch_Name "别提我妈！"
 
 # game/script.rpy:895
 translate chinese start_input_2_ce40e133:
 
     # Olivia "Don't you raise your voice at me in my house!"
-    Olivia "不许在我家对我提高嗓门!"
+    Olivia "不许在我家对我大声嚷嚷！"
 
 # game/script.rpy:897
 translate chinese start_input_2_532196a0:
 
     # Olivia "Truth hurts, doesn't it?"
-    Olivia "事实就是这样，不是吗?"
+    Olivia "事实就是如此，不是吗？"
 
 # game/script.rpy:899
 translate chinese start_input_2_f6724a46:
 
     # ch_Name "You know why this is the way it is!"
-    ch_Name "你知道为什么会变成这样!"
+    ch_Name "你明明知道事情为什么会变成这样！"
 
 # game/script.rpy:901
 translate chinese start_input_2_4682ac22:
 
     # ch_Name "I'd be at university right now if it wasn't for my leg..."
-    ch_Name "如果不是因为我的腿受伤，我现在已经在上大学了..."
+    ch_Name "如果不是因为我的腿受伤，我现在已经在上大学了……"
 
 # game/script.rpy:903
 translate chinese start_input_2_6eb4f2dc:
 
     # Olivia "You should have thought of that before!"
-    Olivia "你早该想到的!"
+    Olivia "你早该想到的！"
 
 # game/script.rpy:905
 translate chinese start_input_2_245150b8:
@@ -244,19 +244,19 @@ translate chinese start_input_2_245150b8:
 translate chinese start_input_2_5783fa11:
 
     # Olivia "You should've done less loafing and studied more. Like Ashley!"
-    Olivia "少游手好闲，多学习。多向Ashley学一学!"
+    Olivia "少游手好闲，多学习。多向阿什莉学一学！"
 
 # game/script.rpy:909
 translate chinese start_input_2_aedee487:
 
     # Olivia "And now what?"
-    Olivia "现在怎么办?"
+    Olivia "现在怎么办？"
 
 # game/script.rpy:911
 translate chinese start_input_2_036404a6:
 
     # Olivia "How do you plan to get an education?"
-    Olivia "你打算怎么上学?"
+    Olivia "你打算怎么上学？"
 
 # game/script.rpy:913
 translate chinese start_input_2_b1e52819:
@@ -268,13 +268,13 @@ translate chinese start_input_2_b1e52819:
 translate chinese start_input_2_2aa9b9d5:
 
     # Olivia "He's working..."
-    Olivia "在努力..."
+    Olivia "在努力……"
 
 # game/script.rpy:917
 translate chinese start_input_2_b33dc905:
 
     # Olivia "I see how hard you’re \"working\"!"
-    Olivia "我看到你“工作”有多努力了!"
+    Olivia "我看到你“工作”有多努力了！"
 
 # game/script.rpy:919
 translate chinese start_input_2_691c3787:
@@ -286,7 +286,7 @@ translate chinese start_input_2_691c3787:
 translate chinese start_input_2_2089379b:
 
     # ch_Name "{i}(That's for sure...){/i}"
-    ch_Name "{i}(那肯定...){/i}"
+    ch_Name "{i}(那肯定……){/i}"
 
 # game/script.rpy:923
 translate chinese start_input_2_2869137c:
@@ -298,13 +298,13 @@ translate chinese start_input_2_2869137c:
 translate chinese start_input_2_42f41d8b:
 
     # Olivia "If you want to throw your life away..."
-    Olivia "如果你想自暴自弃..."
+    Olivia "如果你想自暴自弃……"
 
 # game/script.rpy:927
 translate chinese start_input_2_b962a7e0:
 
     # Olivia "We won't let you do it with your feet dangling off Don's neck!"
-    Olivia "我们不会让你白吃白住的!"
+    Olivia "我们不会让你白吃白住的！"
 
 # game/script.rpy:929
 translate chinese start_input_2_f6f5841f:
@@ -322,19 +322,19 @@ translate chinese start_input_2_bca2c05c:
 translate chinese start_input_2_f4cb3c7a:
 
     # ch_Name "What do you mean? Are you kicking me out?"
-    ch_Name "你什么意思?你要赶我出去吗?"
+    ch_Name "你什么意思？你要赶我出去吗？"
 
 # game/script.rpy:935
 translate chinese start_input_2_90f3a346:
 
     # ch_Name "But, Olivia, come on... Where am I supposed to go?"
-    ch_Name "但是，Olivia，拜托... 我能去哪里?"
+    ch_Name "但是，奥利维亚，别这样……我还能去哪里呢？"
 
 # game/script.rpy:937
 translate chinese start_input_2_2661214d:
 
     # Olivia "What do you take us for? Savages?"
-    Olivia "你把我们当什么了? 想白嫖?"
+    Olivia "你把我们当什么了？ 想白嫖？"
 
 # game/script.rpy:939
 translate chinese start_input_2_3c004877:
@@ -346,25 +346,25 @@ translate chinese start_input_2_3c004877:
 translate chinese start_input_2_668cf83e:
 
     # Olivia "And I talked Don out of kicking you out."
-    Olivia "我告诉Don不要把你赶出去。"
+    Olivia "我已经告诉唐不要把你赶出去了。"
 
 # game/script.rpy:943
 translate chinese start_input_2_cbbc98eb:
 
     # ch_Name "Thank you, I knew..."
-    ch_Name "谢谢，我知道..."
+    ch_Name "谢谢，我知道……"
 
 # game/script.rpy:945
 translate chinese start_input_2_53623f8c:
 
     # Olivia "But!"
-    Olivia "但是!"
+    Olivia "但是！"
 
 # game/script.rpy:947
 translate chinese start_input_2_7e4ac717:
 
-    # ch_Name "{i}(Of course there’s a \"but\"!){/i}"
-    ch_Name "{i}(当然有“但是”!){/i}"
+    # ch_Name "{i}(Of course there’s a \"but\"！){/i}"
+    ch_Name "{i}(我就知道还有“但是”！){/i}"
 
 # game/script.rpy:949
 translate chinese start_input_2_09453d86:
@@ -376,13 +376,13 @@ translate chinese start_input_2_09453d86:
 translate chinese start_input_2_a2fcf8a5:
 
     # ch_Name "What?!"
-    ch_Name "什么?!"
+    ch_Name "什么？！"
 
 # game/script.rpy:953
 translate chinese start_input_2_eb708d4a:
 
     # Olivia "From now on, if you want to live here..."
-    Olivia "从现在开始，如果你想住在这里..."
+    Olivia "从现在开始，如果你想住在这里……"
 
 # game/script.rpy:955
 translate chinese start_input_2_1394e177:
@@ -394,7 +394,7 @@ translate chinese start_input_2_1394e177:
 translate chinese start_input_2_306af026:
 
     # ch_Name "What?! What?!"
-    ch_Name "什么?! 什么?!"
+    ch_Name "什么？！ 啥玩意？！"
 
 # game/script.rpy:959
 translate chinese start_input_2_97dd3450:
@@ -406,19 +406,19 @@ translate chinese start_input_2_97dd3450:
 translate chinese start_input_2_8ac87752:
 
     # ch_Name "You're kidding, right?"
-    ch_Name "你在开玩笑，对吧?"
+    ch_Name "你开玩笑的，对吧？"
 
 # game/script.rpy:963
 translate chinese start_input_2_833ce195:
 
     # Olivia "You don't have to pay for August, but..."
-    Olivia "你不用付八月的房租，但是..."
+    Olivia "你不用付八月的房租了，但是……"
 
 # game/script.rpy:965
 translate chinese start_input_2_db8f91ff:
 
     # ch_Name "Olivia, hey. Tell me you're kidding..."
-    ch_Name "Olivia，嘿。 告诉我你在开玩笑..."
+    ch_Name "奥利维亚，嘿。 你肯定在开玩笑……"
 
 # game/script.rpy:967
 translate chinese start_input_2_3da42f20:
@@ -430,67 +430,67 @@ translate chinese start_input_2_3da42f20:
 translate chinese start_input_2_a680031d:
 
     # Olivia "Plus a security deposit in case of property damage."
-    Olivia "再加一笔押金以防财产受损。"
+    Olivia "再加一笔押金以防财产损失。"
 
 # game/script.rpy:971
 translate chinese start_input_2_b863e1f9:
 
     # ch_Name "What... what kind of nonsense is that?!"
-    ch_Name "什么... 你莫不是在跟我搞笑?!"
+    ch_Name "什么…… 你莫不是在跟我搞笑？！"
 
 # game/script.rpy:973
 translate chinese start_input_2_aa82ecc0:
 
     # ch_Name "How am I supposed to save for school while paying rent? It's a vicious circle!"
-    ch_Name "我怎么可能一边付房租一边存钱上学? 这是一个恶性循环!"
+    ch_Name "我怎么可能一边付房租一边存钱上学？ 这是一个恶性循环！"
 
 # game/script.rpy:975
 translate chinese start_input_2_a889e973:
 
     # Olivia "Young man!"
-    Olivia "年轻人!"
+    Olivia "年轻人！"
 
 # game/script.rpy:977
 translate chinese start_input_2_419bb65f:
 
     # Olivia "You're under my roof."
-    Olivia "你在我的地盘。"
+    Olivia "人在屋檐下。"
 
 # game/script.rpy:979
 translate chinese start_input_2_b59257ff:
 
     # Olivia "You follow my rules."
-    Olivia "你就要听我的话。"
+    Olivia "不得不低头。"
 
 # game/script.rpy:981
 translate chinese start_input_2_0c3ee8a6:
 
     # Olivia "You don't like our offer?"
-    Olivia "你不喜欢我们的提议?"
+    Olivia "你不喜欢我们的提议？"
 
 # game/script.rpy:983
 translate chinese start_input_2_143d02b4:
 
     # Olivia "Go into the living room and say it to Don's face."
-    Olivia "到客厅里去，当着Don的面说。"
+    Olivia "到客厅里去，当着唐的面说。"
 
 # game/script.rpy:985
 translate chinese start_input_2_82ed18d6:
 
     # Olivia "Or do you only have the courage to bicker with me?"
-    Olivia "还是你只有勇气和我斗嘴?"
+    Olivia "还是你只有勇气和我斗嘴？"
 
 # game/script.rpy:987
 translate chinese start_input_2_b8f6f104:
 
     # ch_Name "{i}(Damn it, I knew I shouldn't have fallen for her provocations...){/i}"
-    ch_Name "{i}(该死，我就知道我不应该听她的鬼话。。。){/i}"
+    ch_Name "{i}(该死，我就知道我不应该听她的鬼话……){/i}"
 
 # game/script.rpy:989
 translate chinese start_input_2_931280c0:
 
     # ch_Name "All right. I'll talk to Don."
-    ch_Name "好吧。我会和Don谈谈。"
+    ch_Name "好吧。我会和唐谈谈。"
 
 # game/script.rpy:991
 translate chinese start_input_2_512eba66:
@@ -542,7 +542,7 @@ translate chinese strings:
 
     # game/script.rpy:75
     old "Funny"
-    new "有趣的"
+    new "有趣"
 
     # game/script.rpy:77
     old "Sad"
@@ -670,7 +670,7 @@ translate chinese strings:
 
     # game/script.rpy:142
     old "Elijah's Room"
-    new "Elijah的房间"
+    new "以利亚的房间"
 
     # game/script.rpy:144
     old "Outside"
@@ -686,11 +686,11 @@ translate chinese strings:
 
     # game/script.rpy:150
     old "Ashley's Bedroom"
-    new "Ashley的卧室"
+    new "阿什莉的卧室"
 
     # game/script.rpy:152
     old "Samantha's Bedroom"
-    new "Samantha的卧室"
+    new "萨曼莎的卧室"
 
     # game/script.rpy:154
     old "Downstairs"
@@ -702,7 +702,7 @@ translate chinese strings:
 
     # game/script.rpy:158
     old "Olivia's Bedroom"
-    new "Olivia的卧室"
+    new "奥利维亚的卧室"
 
     # game/script.rpy:160
     old "Cupboard"
@@ -710,7 +710,7 @@ translate chinese strings:
 
     # game/script.rpy:162
     old "Olivia’s Purse"
-    new "Olivia的钱包"
+    new "奥利维亚的钱包"
 
     # game/script.rpy:164
     old "Photo"
@@ -778,7 +778,7 @@ translate chinese strings:
 
     # game/script.rpy:196
     old "Dale"
-    new "Dale"
+    new "代尔"
 
     # game/script.rpy:206
     old "All characters are 18 age or older even if specified otherwise."
@@ -794,7 +794,7 @@ translate chinese strings:
 
     # game/script.rpy:330
     old "Warning!"
-    new "警告!"
+    new "警告！"
 
     # game/script.rpy:331
     old "In order to maximize the enjoyment of the game we have added music and ambient sounds, including those of an erotic nature."
@@ -806,15 +806,15 @@ translate chinese strings:
 
     # game/script.rpy:333
     old "We hope this did not cause you any trouble."
-    new "我们希望这没有给您带来任何麻烦。"
+    new "我们希望这不会给您带来任何麻烦。"
 
     # game/script.rpy:334
     old "Enjoy the game!"
-    new "玩得开心!"
+    new "玩得开心！"
 
     # game/script.rpy:340
     old "Note that our game features LGBTQ+ scenes. If you're not interested in stuff like that at all, you can turn this option"
-    new "请注意，我们的游戏有LGBTQ+场景。如果你对这样的东西完全不感兴趣，你可以现在就关闭这个选项（你可以在以后的设置中随时打开它）。"
+    new "请注意，我们的游戏有LGBTQ+场景。如果你对这样的东西完全不感兴趣，你可以现在就关闭这个选项（你可以在以后的设置中随时打开）。"
 
     # game/script.rpy:340
     old "off right now (you can always turn it on later, in the settings). Leave this option enabled if you're only"
@@ -822,7 +822,7 @@ translate chinese strings:
 
     # game/script.rpy:340
     old "interested in some of the possible content. Don't worry! We'll ask you beforehand each"
-    new "不要担心! 每次有机会遇到这种互动时，"
+    new "不要担心！ 每次有机会遇到这种互动时，"
 
     # game/script.rpy:340
     old "time there's a chance to encounter such interactions."
@@ -830,7 +830,7 @@ translate chinese strings:
 
     # game/script.rpy:340
     old "Do you want to enable LGBTQ+ content?"
-    new "你想启用LGBTQ+内容吗?"
+    new "你想启用LGBTQ+内容吗？"
 
     # game/script.rpy:351
     old "Enable"
@@ -842,11 +842,11 @@ translate chinese strings:
 
     # game/script.rpy:356
     old "On Sunday evening, all students return to Cordale. So you did."
-    new "周日晚上，所有学生返回Cordale。你也不例外。"
+    new "周日晚上，所有学生返回柯代尔。你也不例外。"
 
     # game/script.rpy:728
     old "{b}Olivia{/b} said I have to talk to Don about this rent thing. \nHe should be in the living room."
-    new "{b}Olivia{/b}说我得和Don谈谈房租的事。\n他应该在客厅里。"
+    new "{b}奥利维亚{/b}说我得和唐谈谈房租的事。\n他应该在客厅里。"
 
     # game/script.rpy:748
     old "Enter your name"
@@ -886,19 +886,19 @@ translate chinese strings:
 
     # game/script.rpy:202
     old "Leonheart wins"
-    new "Leonheart获胜"
+    new "莱昂哈特获胜"
 
     # game/script.rpy:204
     old "Adderin wins"
-    new "Adderin获胜"
+    new "阿尔德林获胜"
 
     # game/script.rpy:206
     old "Crowhive wins"
-    new "Crowhive获胜"
+    new "克罗怀夫获胜"
 
     # game/script.rpy:208
     old "Martenden wins"
-    new "Martenden获胜"
+    new "马尔腾登获胜"
 
     # game/script.rpy:210
     old "Lost books found"
@@ -950,15 +950,15 @@ translate chinese strings:
 
     # game/script.rpy:234
     old "Victory over Adderin"
-    new "战胜Adderin"
+    new "战胜阿尔德林"
 
     # game/script.rpy:236
     old "Victory over Crowhive"
-    new "战胜Crowhive"
+    new "战胜克罗怀夫"
 
     # game/script.rpy:238
     old "Victory over Martenden"
-    new "战胜Martenden"
+    new "战胜马尔腾登"
 
     # game/script.rpy:240
     old "Used Combat Bolt"
@@ -1014,7 +1014,7 @@ translate chinese strings:
 
     # game/script.rpy:266
     old "Fishing trips on Dale"
-    new "在Dale钓鱼旅行"
+    new "在代尔钓鱼旅行"
 
     # game/script.rpy:268
     old "Earned money fishing"
@@ -1030,11 +1030,11 @@ translate chinese strings:
 
     # game/script.rpy:337
     old "This is only the web version of the Lust Academy! Use it to try out our game right in your browser!"
-    new "这只是Lust Academy的网页版！在您的浏览器上来尝试运行我们的游戏！"
+    new "这只是《欲望学院》的网页版！在您的浏览器上来尝试运行我们的游戏！"
 
     # game/script.rpy:338
     old "To enjoy the game with 60fps animations and atmospheric sound design, we highly recommend trying the full version of Lust Academy."
-    new "为了享受60fps动画和大气音效设计的游戏，我们强烈建议尝试Lust Academy的完整版本。"
+    new "为了享受60fps动画和充满氛围感的音效设计，我们强烈建议尝试《欲望学院》的完整版本。"
 
     # game/script.rpy:339
     old "Check out our {a=https://www.patreon.com/bearinthenight}Bear in the Night fan page{/a} for more details and to support the project!"
