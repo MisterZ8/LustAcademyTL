@@ -4,15 +4,15 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new "自动阅读禁用。"
+    new "已禁用自动阅读。"
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
-    new "剪贴板表达启用。"
+    new "已启用剪贴板语音。"
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new "自动阅读启用。"
+    new "已启用自动阅读。"
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
@@ -272,11 +272,11 @@ translate chinese strings:
 
     # renpy/common/00action_file.rpy:444
     old "Load slot %s: [text]"
-    new "加载位 %s：[text]"
+    new "加载栏位 %s：[text]"
 
     # renpy/common/00action_file.rpy:497
     old "Delete slot [text]"
-    new "删除位 [text]"
+    new "删除栏位 [text]"
 
     # renpy/common/00action_file.rpy:576
     old "File page auto"
@@ -412,11 +412,11 @@ translate chinese strings:
 
     # renpy/common/00gui.rpy:385
     old "Are you sure you want to delete this save?"
-    new "您确定要删除此保存吗?"
+    new "您确定要删除此存档吗?"
 
     # renpy/common/00gui.rpy:386
     old "Are you sure you want to overwrite your save?"
-    new "您确定要覆盖保存吗?"
+    new "您确定要覆盖存档吗?"
 
     # renpy/common/00gui.rpy:387
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
@@ -436,7 +436,7 @@ translate chinese strings:
 
     # renpy/common/00gui.rpy:391
     old "Are you sure you want to begin skipping?"
-    new "您确定要开始跳过吗?"
+    new "您确定要跳过吗?"
 
     # renpy/common/00gui.rpy:392
     old "Are you sure you want to skip to the next choice?"
@@ -444,7 +444,7 @@ translate chinese strings:
 
     # renpy/common/00gui.rpy:393
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "您确定要跳过未读过的对话跳到下一个选项吗?"
+    new "您确定要跳过未读过的对话，到达下一个选项吗?"
 
     # renpy/common/00keymap.rpy:306
     old "Failed to save screenshot as %s."
@@ -568,7 +568,7 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy:430
     old "rollback side"
-    new "回滚一边"
+    new "单边回滚"
 
     # renpy/common/00preferences.rpy:440
     old "gl powersave"
@@ -620,7 +620,7 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy:499
     old "mute music"
-    new "沉默的音乐"
+    new "静音音乐"
 
     # renpy/common/00preferences.rpy:500
     old "mute sound"
@@ -676,7 +676,7 @@ translate chinese strings:
 
     # renpy/common/_developer/developer.rpym:47
     old "Console (Shift+O)"
-    new "控制台 ((Shift+O)"
+    new "控制台 (Shift+O)"
 
     # renpy/common/_developer/developer.rpym:49
     old "Variable Viewer"
