@@ -62,7 +62,7 @@ translate chinese strings:
 
     # game/screens.rpy:2007
     old "Page {}"
-    new "页面 {}"
+    new "第 {} 页"
 
     # game/screens.rpy:2007
     old "Automatic saves"
@@ -146,11 +146,11 @@ translate chinese strings:
 
     # game/screens.rpy:2880
     old "Highlights all active objects."
-    new "高亮显示所有活动对象。"
+    new "高亮显示所有可互动对象。"
 
     # game/screens.rpy:2880
     old "Enables fullscreen mode."
-    new "支持全屏模式。"
+    new "启用全屏模式。"
 
     # game/screens.rpy:2880
     old "Navigate the interface."
@@ -300,11 +300,11 @@ translate chinese strings:
 
     # game/screens.rpy:792
     old "Possibility To Choose Desired Content"
-    new "选择理想内容的可能性"
+    new "选你所想"
 
     # game/screens.rpy:794
     old "Optional Mini-Games And Activities"
-    new "可选的迷你游戏和活动"
+    new "可选的小游戏和活动"
 
     # game/screens.rpy:802
     old "VISUAL NOVEL"
@@ -316,7 +316,7 @@ translate chinese strings:
 
     # game/screens.rpy:809
     old "Occasional Choices"
-    new "少量的选择"
+    new "少量选择"
 
     # game/screens.rpy:811
     old "Plot-Driven Structure"
